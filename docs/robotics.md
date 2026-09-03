@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T21:49:45.469149+00:00'
+updated: '2026-09-03T23:49:05.230188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 21:49 UTC  
+**Last Updated:** September 03, 2026 at 23:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,21 +120,7 @@ Medtronic • 2d ago
 
 /PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
 
-PR Newswire • 15h ago
-
----
-
-**[Industry Insights: NVIDIA, Hugging Face and the $399 Microduck Robot](https://www.automate.org/robotics/industry-insights/nvidia-is-buying-hugging-face-one-of-its-hottest-robots-runs-on-a-chinese-chip)**
-
-NVIDIA’s Hugging Face deal includes Pollen Robotics and its $399 Microduck, raising new questions about chips, physical AI and NVIDIA’s robotics strategy.
-
-A3 Association for Advancing Automation • 2h ago
-
----
-
-**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
-
-Block Club Chicago • 9h ago
+PR Newswire • 17h ago
 
 ---
 
@@ -143,6 +129,12 @@ Block Club Chicago • 9h ago
 The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
 CNBC • 2d ago
+
+---
+
+**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
+
+Block Club Chicago • 11h ago
 
 ---
 
@@ -158,7 +150,7 @@ calcalistech.com • 1d ago
 
 Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
 
-Yahoo • 16h ago
+Yahoo • 18h ago
 
 ---
 
@@ -167,6 +159,14 @@ Yahoo • 16h ago
 RoboBall can go anywhere on the Moon, as long as it’s mostly downhill
 
 IEEE Spectrum • 1d ago
+
+---
+
+**['Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.](https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9)**
+
+UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
+
+Business Insider • 9h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Robot Report • 2d ago
 
 The country is using its superpower of scaling and building supply chains to challenge the global industry
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -236,7 +236,7 @@ today i checked in on the robot getting destroy at stuff like the robot olympics
 
 📺 Kwite
 
-👁️ 318K • 👍 10K • 💬 994 • ⏱️ 14:26 • 6d ago
+👁️ 318K • 👍 10K • 💬 994 • ⏱️ 14:26 • 7d ago
 
 ---
 
