@@ -2,6 +2,39 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion September 03, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w5xt9m/daily_general_discussion_september_03_2026/",
+      "published": 1788411675.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Updating our wealth verifications with Ethereum",
+      "author": "SugarvetFounder",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/",
+      "published": 1788429901.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?"
+    },
+    {
+      "title": "Devcon India \u2014 a travel guide",
+      "author": "ligi",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w5l3d4/devcon_india_a_travel_guide/",
+      "published": 1788378685.0,
+      "thumbnail": "https://external-preview.redd.it/FExYzmCYTwj81DEPz7xYNG8apwIPzK9pne3tv6f8lJg.png?width=640&crop=smart&auto=webp&s=53785b220fb0e9cf70a8f3c0ebd90714cc8f72cd",
+      "external_url": "https://parithosh.com/2026-08-26-devcon-india-travel-guide/",
+      "site_name": "Parithosh Jayanthi",
+      "favicon": "https://parithosh.com/images/apple-touch-icon.png",
+      "description": "Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I\u2019m excited for you all to get to expe"
+    },
+    {
       "title": "Daily General Discussion September 02, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1w50oyb/daily_general_discussion_september_02_2026/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "Daily General Discussion August 29, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1w1d8l9/daily_general_discussion_august_29_2026/",
-      "published": 1787979673.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "I have built a tool which can provide bulk wallet address labels (CEX wallets, entities, risk tags) - cheap, fast, any list size",
-      "author": "CollectionNo1576",
-      "url": "https://www.reddit.com/r/ethereum/comments/1w1lt0r/i_have_built_a_tool_which_can_provide_bulk_wallet/",
-      "published": 1788008022.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I run a pipeline that enriches crypto wallet addresses with the kind of labels you'd normally dig out of block explorers and intelligence platforms one address at a time: Entity / owner - e.g. Binance: Hot Wallet, Coinbase: Cold Wallet, Deribit Category tags - Centralized Exchange, Hot/Cold Wallet, Mixer, Gambling, Sanctioned (OFAC/UK), High Transacting, etc. First-funder relationships and contract flags Per-chain coverage - Ethereum, BSC, Base, Arbitrum, Polygon, Avalanche and more, one row per network Format: clean CSV/JSON, your list in \u2192 labeled list out. Turnaround is fast (100k addresses in under an hour) and pricing is a fraction of what intelligence-platform subscriptions cost - it scales down to small one-off lists and up to millions of addresses. Useful if you're doing compliance/AML screening, fraud or theft investigations, exchange flow analysis, dataset enrichment for research, or tagging counterparties in your own analytics. DM me with roughly how many addresses and what chains - I'll quote you same day. Happy to run a free sample on 50\u2013100 of your addresses first so you can judge the quality yourself."
-    },
-    {
-      "title": "ethstaker-deposit-cli 1.3.1 pre-release",
-      "author": "yorickdowne",
-      "url": "https://www.reddit.com/r/ethereum/comments/1w1lqgs/ethstakerdepositcli_131_prerelease/",
-      "published": 1788007825.0,
-      "thumbnail": "https://external-preview.redd.it/2wfhqYJNXqNGbhphNXL9Ywn5ok0ElcA-3SQEv6WTjz0.png?width=640&crop=smart&auto=webp&s=6d5657cd796cf87ba707c259ffc5c4b41596c084",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-09-02T17:59:03.604275+00:00"
+  "fetched_at": "2026-09-03T15:55:03.928142+00:00"
 }

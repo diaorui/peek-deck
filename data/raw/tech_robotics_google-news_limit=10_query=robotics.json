@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
-      "pub_date": 1788387849.0,
-      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+      "headline": "New probabilistic method improves how robots localize and map familiar objects",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2t4cGRPbWdPRnU5RllTbHV1eWV3dzY4a09LZ2FJRmNxZjlPXzV6eGhhYzFTV0pWazQwM0FiWUxEUTQwUzc1M21CR2RmOG95RmJHazNja0tKQ0lxZFVRdW5TOFRxZ3VPZ1pNd2xyYkp4eDlBNU9EdnhpUTRQb2Ytazd0TWpwMUVuQlM5TWVwZw?oc=5",
+      "pub_date": 1788450006.0,
+      "article_url": "https://techxplore.com/news/2026-09-probabilistic-method-robots-localize-familiar.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "How Google taught LLMs to control robots and started a robotics boom",
@@ -25,6 +25,36 @@
       "description": "Vision-language-action models, explained with a minimum of math and jargon."
     },
     {
+      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
+      "pub_date": 1788387849.0,
+      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+    },
+    {
+      "headline": "'Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3YtYWxLRWUwd1p3NnQ1UE9rM1ZueEFGajJ5RkpFMUczdWxCZHNLT19GUGU0bWJ2OWo3QktlQmpiUjNOU242QTNKTzYtX1ZmcEtOY2FRQ1U4b3RiZ2lxTnAtVGJOa3FaTEpyeGcwdFAzdUQtUE9ha19SeUlpQ3JpdjR0OWJyeFYwYXZVazhpcEhxZkxoRDhnT1pCTHlFbkpFUlA1Q1JLY2J4T0k?oc=5",
+      "pub_date": 1788445545.0,
+      "article_url": "https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9",
+      "image": "https://i.insider.com/6a986fa3be454c9d2c7ed2de?width=1200&format=jpeg",
+      "description": "UBS says \"we are now at the precipice\" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions."
+    },
+    {
+      "headline": "QCOM's Japan Robotics Outlay Targets Edge AI: Reason to Buy the Stock?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYncxTVBVTm91TmVpb0dSUE5sTk5ubnRHWkgxLURPd25DRElxRDNTY1lmbFJwX3FUZkc1UHp1YnJheHFQTUlLMzZMTlFzQ0g3ZjBjYkVaZGdoNjBPYWVvbEZpU3hCRGVabTlTRDlvemFiWWx4cjI5WnVjVVhmemdmeG5WTmhxQ0VkZDZBRHgxdHV2Q1VQQUNKWXVNXzM?oc=5",
+      "pub_date": 1788447420.0,
+      "article_url": null,
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Atascadero robotics team makes it to FIRST World Championship",
       "source": "KSBY News",
       "source_url": "https://www.ksby.com",
@@ -33,36 +63,6 @@
       "article_url": "https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship",
       "image": "https://ewscripps.brightspotcdn.com/dims4/default/39497e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2Fcf%2Fef19f31642b6a5db3992713076ab%2Fatas-robotics-team.jpg",
       "description": "At The Greybots\u2019 build space in Atascadero, you\u2019ll find Dustbowl \u2014 the robot that helped the student\u2011run robotics team qualify for the FIRST World Championship in Houston, Texas."
-    },
-    {
-      "headline": "Lyte Raises $165 Million Series C Led by Maverick Silicon to Give Robots a Trustworthy View of the World",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc2tqLURDejdMVDRUak1sRXQ4NjB1S0l4WjM1WDY4alV1c0NnenFwdGROYVFkbl8xWXNqNnhRU3VRRUFhdXg2MmlZOGxyZkRSNjlFRUdfZzNKU3FCaDZMZnRBaTQweXVkRGstcVEycjFfWkx5c1JYc2U5NllUdFpyVVFhOE9oN3hXV0dRRTNNN3E1RGVKYlpsYU1IeFJVYVlQZ2dKOUJKZm9jbTFETnlSUnFqa3B2aV90OVZxMG9udllreDBIM1lBXzBQWG9VcXdxek9VWVY0WmhBSld1Z3BrREIybnUyTGJoUDg1NHF2YkRNU3Y4Wnc?oc=5",
-      "pub_date": 1788354000.0,
-      "article_url": "https://www.businesswire.com/news/home/20260902093122/en/Lyte-Raises-%24165-Million-Series-C-Led-by-Maverick-Silicon-to-Give-Robots-a-Trustworthy-View-of-the-World",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Medtronic invests $700M in Cornerstone Robotics",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzZDMDdtcTZRcWFXT00yMUw3bFJucTREeTlBRjBCcXFHM2xobTctM09VMUVTUlYzNV9saEpTTlh3T0tWd3ltY2pROGdtUHE2UFktNi1jV1ZfY3hSakZITjNKMG43RnMtSkNkUE5raFp2ME9td2tabG1vTU54ckNZWFNnSUUtYVd3ZF9OS3FHMDE?oc=5",
-      "pub_date": 1788357923.0,
-      "article_url": "https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/",
-      "image": "https://imgproxy.divecdn.com/_p4B9rW_Jv5W5LlQTr9Ok2fL4kEEvvFx5KnT7Qmg_Bw/g:nowe:1:59/c:1425:805/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRV9QUkVFRVMuanBn.webp",
-      "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
-    },
-    {
-      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
-      "pub_date": 1788427800.0,
-      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Video: Students push humanoid robots beyond walking with flips and more",
@@ -75,24 +75,14 @@
       "description": "ROBOTIS\u2019 OH! GYM gives students hands-on experience building humanoid behaviors using AI Sapiens K1, simulation, and real-world testing."
     },
     {
-      "headline": "EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1ZGaEFzMFNPdHJJcGp1NEltaG9MaGxxaVRONS1FSkhBMjBBdVU5aGJ5aEo0M1hBYjRLLWR0a3FzdDkwOVJnVjdvSF84eG5IcXdfQUlVUHZ0ZDBmT0VLSktGWlZmeFFKdWlCRWxnenYydU94WHZMd1JYalFuU2pLNW91MEpyRVlQM1czZjV1dFdrdUxfbG1tNDlwWHNnZkhZNl93?oc=5",
-      "pub_date": 1788411600.0,
-      "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/83d1cb2eaaf39aaa538973dfa45ae99e3e5dbe6f8e484697d84e568aa1c94219/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F6a3c8307bde53018cc7c5f4cd480e4d0.jpg",
-      "description": "Vivian Jenna Wilson, aka Elon Musk\u2019s eldest daughter, personifies the Spanish brand\u2019s fall 2026 tagline: \u201cBorn to Disobey.\u201d"
-    },
-    {
-      "headline": "Aitan announces new financing round led by Deep33, Dell Technologies Capital",
-      "source": "jpost.com",
-      "source_url": "https://www.jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hclJFSldzMkk4VnpYV3VLLXZaekdwODRoLWoxbUdaNnVnaVBHRWQ4RjJWREdadXBSUnIzNFNwLVFkZmI3b0pjOWtqMC04TVlOdHRzbk9RaTM2T01fQ1dKSUotZw?oc=5",
-      "pub_date": 1788349316.0,
-      "article_url": "https://www.jpost.com/defense-and-tech/article-907332",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736197",
-      "description": "Aitan develops edge\u2011AI robotic weapon systems engineered for the operational realities of modern conflict and aims to accelerate its international growth with the new funding."
+      "headline": "Video. AI-powered robots showcased at European Parliament in Brussels",
+      "source": "Euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUxoS1pLQTlBTjdqMXRhVjc5dGRub3BOdWpEY0VGM2s1WDFXb2JBWDBxdl9ZT0lXUDFfMnVBM3o1YWJtazNHel9VNHNSQXNrb1lRMkgzeUh2b1ZfNkNTenowY1BqbW9qRnhzT0o0aEJPRDZIekkzcEhLNDhfNjMyUW9CSkJ4ejNCWmxsNGhDQlprZHRhaDU1bnVIclVCUVA0QW9ic0s2aw?oc=5",
+      "pub_date": 1788423526.0,
+      "article_url": "https://www.euronews.com/video/2026/09/03/ai-powered-robots-showcased-at-european-parliament-in-brussels",
+      "image": "https://images.euronews.com/articles/stories/09/89/94/79/1200x675_cmsv2_b7a84fdc-c93d-5e86-a230-34ea6f7f73ee-9899479.jpg",
+      "description": "Video. AI-powered robots demonstrate delivery, factory and household tasks at a robotics showcase in Brussels, highlighting advances in artificial intelligence."
     },
     {
       "headline": "New robotic technology helps local surgeons repair 14-year-old\u2019s heart",
@@ -103,8 +93,18 @@
       "article_url": "https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/",
       "image": "https://wsvn.com/wp-content/uploads/sites/2/2026/09/9126-Nicklaus-Childrens-Hospital-Robotic-Surgery.png",
       "description": "SOUTHWEST MIAMI-DADE, FLA. (WSVN) - Doctors from Nicklaus Children\u2019s Hospital and Baptist Health Miami helped make medical history with the help of a robot that<a class=\"excerpt-read-more\" href=\"https://wsvn.com/news/local/miami-dade/new-robotic-technology-helps-local-surgeons-repair-14-year-olds-heart/\">Read More</a>"
+    },
+    {
+      "headline": "Europe bids to be robot superpower like US, China",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFNNU2xXZTZJcGVRWTRCR1ExMEZpM2NJd2VoSmpNODlBWUF2cmhIODlJUzduNnVuZHU0cEN2eS1YSm9XYjVvczE4and5WGlyYnBDanZSNnBaRW4tNUFYX3Y5aXQ4TW9iUXhub1ZNWGkzYms4Z2N4UHdyU1lLdERtZXI2WkNRcndxMTdOVHc3NjVTSDhl?oc=5",
+      "pub_date": 1788444467.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/europe-bids-robot-superpower-us-140747174.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d940f30dce199a78779dae2514f27090d84dbc22b19df4500acdd5364c90db57/lightyear_networkapi/resizefill_w768_h536%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa1eec59dedfe4adba3b4337dce929a51.jpg",
+      "description": "AI-powered robots briefly took over the European Parliament this week to showcase the continent's creators as the bloc races to compete in a field dominated by China and the United States.\"Robotics is..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T11:32:25.014825+00:00"
+  "fetched_at": "2026-09-03T15:55:31.340675+00:00"
 }
