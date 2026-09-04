@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-04T16:46:06.372549+00:00'
+updated: '2026-09-04T19:19:45.741609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 16:46 UTC  
+**Last Updated:** September 04, 2026 at 19:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,822.59
+### $79,515.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +2.1%  
-**30d:** +24.1%  
-**90d:** +26.1%  
-**1y:** -27.8%  
+**24h:** -2.1%  
+**7d:** +2.0%  
+**30d:** +24.0%  
+**90d:** +26.0%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1602.81B
+**Market Cap:** $1600.56B
 Rank #1
 
 **Circulating Supply:** 20,079,618 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.7%
+-36.8%
 
 **All-Time Low:** $67.81
-+117615.7%
++117459.4%
 
 ---
 
@@ -111,13 +111,13 @@ Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to
 
 **[The solution is here, we just have to choose it.](https://www.reddit.com/r/Bitcoin/comments/1w5hjx1/the_solution_is_here_we_just_have_to_choose_it/)**
 
-1d ago
+2d ago
 
 ---
 
 **[Bernie Sanders explains the Cantillon Effect / fiat money](https://www.reddit.com/r/Bitcoin/comments/1w5hhe7/bernie_sanders_explains_the_cantillon_effect_fiat/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -147,9 +147,27 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.](https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8)**
+**[Bitcoin's $80,000 breakout just failed after a blowout jobs report](https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html)**
 
-Barron's • 3h ago
+Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+
+Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
+
+cnbc.com • 7h ago
+
+---
+
+**[Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments](https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940)**
+
+The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday.
+
+Investopedia • 1d ago
 
 ---
 
@@ -157,33 +175,15 @@ Barron's • 3h ago
 
 How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
 
-cnbc.com • 18h ago
+cnbc.com • 21h ago
 
 ---
 
-**[Bitcoin ETFs just had their best day of 2026](https://finance.yahoo.com/video/bitcoin-etfs-just-had-best-160000838.html)**
+**[Satoshi-era Bitcoin wallet tied to $293B lawsuit moves $3M after 15 years](https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-wallet-tied-185851576.html)**
 
-This episode of "The Daily Wolf with Scott Melker" explores the latest crypto-related headlines.
+A Bitcoin address untouched since 2011 suddenly sprang to life on Friday, shifting over $3 million in BTC.
 
-"The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
-
-Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
-
-finance.yahoo.com • 46m ago
-
----
-
-**[Live updates: Bitcoin tumbles after blowout August jobs print](https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january)**
-
-CoinDesk • 2h ago
-
----
-
-**[Fed Governor Waller just reignited the bitcoin debasement trade: Chart of the Day](https://finance.yahoo.com/markets/article/fed-governor-waller-just-reignited-the-bitcoin-debasement-trade-chart-of-the-day-100000584.html)**
-
-Bitcoin is back at the Rubicon —and Fed governor Waller just dared bulls to cross it.
-
-finance.yahoo.com • 6h ago
+sg.finance.yahoo.com • 20m ago
 
 ---
 
@@ -191,13 +191,13 @@ finance.yahoo.com • 6h ago
 
 IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
 
-The Block • 5h ago
+The Block • 7h ago
 
 ---
 
 **[IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money](https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money)**
 
-CoinDesk • 6h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -205,37 +205,27 @@ CoinDesk • 6h ago
 
 The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF…
 
+TradingView • 6h ago
+
+---
+
+**[Fidelity says Bitcoin can appreciate without taking market share from gold](https://www.tradingview.com/news/cryptobriefing:e32fde710094b:0-fidelity-says-bitcoin-can-appreciate-without-taking-market-share-from-gold/)**
+
+Fidelity Digital Assets wants to settle a debate that has consumed crypto and macro Twitter for years: does Bitcoin need to eat gold's lunch to go up in price? The answer, according to the firm's VP of Research Chris Kuiper, is a clean no.In an updated report titled "Getting Off Zero" for 2026, Fid…
+
 TradingView • 4h ago
 
 ---
 
-**[Where Will Bitcoin Be in 2030?](https://www.fool.com/investing/2026/09/03/where-will-bitcoin-be-in-2030/)**
+**[El Reno officials admit to enforcement failures surrounding Bitcoin mining facility](https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/)**
 
-In a best-case scenario, Bitcoin could hit a price of $1 million or higher by 2030.
-
-The Motley Fool • 16h ago
-
----
-
-**[Bitcoin Bear Market May Not Yet Be Over, Says Fidelity](https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity)**
-
-Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year.
-
-Bitcoin Magazine • 18h ago
+KFOR.com • 2d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49481598)**
-
-Finally, a killer use case
-
-⬆️ 5 • 💬 0 • 6d ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
-
----
 
 **[Goodbye Bitcoin, Hello AI Data Center](https://news.ycombinator.com/item?id=49536515)**
 
@@ -247,7 +237,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 18h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 20h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -275,13 +265,13 @@ COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed p
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
 
-⬆️ 1 • 💬 0 • 18h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
+⬆️ 1 • 💬 0 • 20h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
 
 ---
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
 
-⬆️ 1 • 💬 0 • 20h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
+⬆️ 1 • 💬 0 • 22h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
 
 ---
 
@@ -299,17 +289,23 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 ---
 
+**[Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)**
+
+⬆️ 117 • 💬 82 • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[These 3 Cryptocurrencies Could HUGELY Reward Investors Bitcoin Is Going To Crush The Dollar](https://www.youtube.com/watch?v=3BBIssehWUo)**
+**[🚨 BLACKROCK&#39;S VISION FOR BITCOIN..?!?!?!?!](https://www.youtube.com/watch?v=UK1d_tnvywc)**
 
-Sometime during the 2030's people are going to realize the chance that they missed out on. It's interesting that we keep getting ...
+BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
 
-📺 The Modern Investor
+📺 BRITISH HODL
 
-👁️ 8K • 👍 724 • 💬 107 • ⏱️ 32:52 • 7h ago
+👁️ 16K • 👍 719 • 💬 141 • ⏱️ 12:21 • 19h ago
 
 ---
 
@@ -319,7 +315,7 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 52K • 👍 2K • 💬 212 • ⏱️ 15:19 • 18h ago
+👁️ 50K • 👍 2K • 💬 233 • ⏱️ 15:19 • 21h ago
 
 ---
 
@@ -329,7 +325,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 23K • 👍 1K • 💬 493 • ⏱️ 7:52 • 1d ago
+👁️ 22K • 👍 1K • 💬 499 • ⏱️ 7:52 • 1d ago
 
 ---
 
@@ -339,17 +335,7 @@ Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earni
 
 📺 Fox Business Clips
 
-👁️ 9K • 👍 63 • 💬 106 • ⏱️ 3:22 • 17h ago
-
----
-
-**[The $40T DEBT SPIRAL Will FORCE Bitcoin to EXPLODE FASTER Thank You Think!!! | EP 1584](https://www.youtube.com/watch?v=9k7945MAxeE)**
-
-Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but what is driving this rally? the answer might surprise ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 315 • 💬 100 • ⏱️ 1:05:04 • 22h ago
+👁️ 9K • 👍 65 • 💬 172 • ⏱️ 3:22 • 19h ago
 
 ---
 
@@ -359,7 +345,7 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 4K • 👍 386 • 💬 58 • ⏱️ 25:41 • 4h ago
+👁️ 8K • 👍 482 • 💬 68 • ⏱️ 25:41 • 7h ago
 
 ---
 
@@ -369,37 +355,47 @@ Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennife
 
 📺 CoinDesk
 
-👁️ 22K • 👍 295 • 💬 83 • ⏱️ 15:14 • 22h ago
+👁️ 24K • 👍 312 • 💬 136 • ⏱️ 15:14 • 1d ago
 
 ---
 
-**[Bitcoin: The Liquidity Paradox](https://www.youtube.com/watch?v=nDp00KRoosU)**
+**[The $40T DEBT SPIRAL Will FORCE Bitcoin to EXPLODE FASTER Thank You Think!!! | EP 1584](https://www.youtube.com/watch?v=9k7945MAxeE)**
 
-I am speaking at the Tech Summit in New Zealand on September 16th: https://techsummit.nz/ I am hosting a workshop called: "The ...
+Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but what is driving this rally? the answer might surprise ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 177K • 👍 6K • 💬 229 • ⏱️ 14:45 • 1d ago
-
----
-
-**[Bitcoin BREAKS $80K: Is It a Trap?](https://www.youtube.com/watch?v=P9Y4v6_M6sg)**
-
-Bitcoin breaks $80000 — is this a trap or the start of a real rally? Trade alongside the Verified Pro Traders in the Apex Live Day ...
-
-📺 Verified Investing
-
-👁️ 15K • 👍 577 • 💬 23 • ⏱️ 19:51 • 22h ago
+👁️ 15K • 👍 315 • 💬 124 • ⏱️ 1:05:04 • 1d ago
 
 ---
 
-**[$12 Trillion Bitcoin Floodgates - Trump Just Opened Every 401(k)](https://www.youtube.com/watch?v=U6yZ2mrW9m0)**
+**[Bitcoin Is At A THE Moment — $100K Could Come FAST! (Here’s The Catch)](https://www.youtube.com/watch?v=9cegChAbvAg)**
 
-The White House has cleared a path for alternative assets, including Bitcoin and crypto, to gain access to America's massive ...
+Thanks Coinbase for sponsoring this Bitcoin and crypto video. Get up to 250 USDC in rewards through my link!
 
-📺 Bitcoin News Alerts
+📺 Crypto Capital Venture
 
-👁️ 8K • 👍 322 • 💬 136 • ⏱️ 17:59 • 1d ago
+👁️ 31K • 👍 639 • 💬 535 • ⏱️ 11:36 • 2d ago
+
+---
+
+**[🔴 LIVE TRADING! PUMP OVER? BITCOIN MUST HOLD THIS LEVEL!!!!!](https://www.youtube.com/watch?v=arsRVCc-ukQ)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 2K • 👍 154 • 1h ago
+
+---
+
+**[HOLY SH*T BITCOIN IS CLOSE](https://www.youtube.com/watch?v=EcOLAwgQ7Hs)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 9K • 👍 293 • 💬 175 • ⏱️ 8:03 • 1d ago
 
 ---
 
