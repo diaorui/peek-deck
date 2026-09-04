@@ -75,6 +75,20 @@
       "site_name": "Medium"
     },
     {
+      "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 5",
+      "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-5-14a57515ad40",
+      "hn_url": "https://news.ycombinator.com/item?id=49569992",
+      "author": "docjojo",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-04T20:43:21Z",
+      "object_id": "49569992",
+      "image": null,
+      "description": null,
+      "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+      "site_name": "Medium"
+    },
+    {
       "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 4",
       "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e",
       "hn_url": "https://news.ycombinator.com/item?id=49558061",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
       "site_name": "Medium"
-    },
-    {
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "hn_url": "https://news.ycombinator.com/item?id=49543530",
-      "author": "lloydarmbrust",
-      "points": 117,
-      "num_comments": 82,
-      "created_at": "2026-09-02T22:36:04Z",
-      "object_id": "49543530",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     }
   ],
-  "total_hits": 12,
+  "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-09-04T19:19:14.905041+00:00"
+  "fetched_at": "2026-09-04T21:40:08.250754+00:00"
 }
