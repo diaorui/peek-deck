@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-04T08:09:41.143387+00:00'
+updated: '2026-09-04T12:51:46.577111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 08:09 UTC  
+**Last Updated:** September 04, 2026 at 12:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,621.61
+### $79,433.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
-**7d:** +3.2%  
-**30d:** +25.5%  
-**90d:** +27.5%  
-**1y:** -27.0%  
+**24h:** +1.0%  
+**7d:** +1.7%  
+**30d:** +23.7%  
+**90d:** +25.7%  
+**1y:** -28.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1619.55B
+**Market Cap:** $1593.26B
 Rank #1
 
 **Circulating Supply:** 20,079,456 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.0%
+-37.0%
 
 **All-Time Low:** $67.81
-+118845.6%
++116947.6%
 
 ---
 
@@ -123,7 +123,7 @@ Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to
 
 **[Maybe this is it!](https://www.reddit.com/r/Bitcoin/comments/1w62rcp/maybe_this_is_it/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -151,71 +151,81 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
 
-CNBC • 10h ago
+CNBC • 14h ago
 
 ---
 
-**[What next as Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump](https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump)**
+**[Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%](https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66)**
 
-CoinDesk • 3h ago
-
----
-
-**[Why Is Bitcoin Up Today?](https://www.fool.com/investing/2026/09/03/why-is-bitcoin-up-today/)**
-
-A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week.
-
-The Motley Fool • 12h ago
+coindesk.com • 1d ago
 
 ---
 
-**[Fed Rate Hike Odds Fall to 50/50: Will Bitcoin's Rally Above 80,000 Hold?](https://finance.yahoo.com/markets/crypto/articles/fed-rate-hike-odds-fall-011755371.html)**
+**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
 
-CME FedWatch odds for a September Fed rate hike fell to 50/50 Friday as Bitcoin extended its rally toward $82,000.
+Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
 
-Yahoo Finance • 6h ago
-
----
-
-**[Bluebird Mining Ventures Reports Shift Toward Gold and Bitcoin Streaming Model](https://uk.finance.yahoo.com/news/bluebird-mining-ventures-reports-shift-070857662.html)**
-
-Bluebird Mining Ventures (LSE:BMV) reported interim results covering its transition from legacy exploration activities toward a business model focused on gold streaming, mining and treasury assets. During the period, the company expanded its board and advisory team, introduced new incentive arrangements and allocated capital to Bitcoin, tokenised gold and physical gold.
-
-Yahoo Finance UK • 1h ago
+CNBC • 34m ago
 
 ---
 
-**[IMF Says Donations, Not Public Funds, Drove El Salvador Bitcoin Growth](https://finance.yahoo.com/markets/crypto/articles/imf-says-donations-not-public-055848463.html)**
+**[The Nasdaq’s Biggest Winner Was a Bitcoin Stock That Is Still Down 56% in a Year](https://finance.yahoo.com/markets/crypto/articles/nasdaq-biggest-winner-bitcoin-stock-121858296.html)**
 
-The IMF says private donations, not purchases, explain El Salvador's Bitcoin reserve growth since the first review.
+Strategy surged 18% to lead the Nasdaq on Thursday, yet its shareholders are sitting on a loss that dwarfs bitcoin's own slide over the past year. The same leverage that fueled one electric session has a habit of cutting just as hard in the other direction.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin Retakes $80,000 as Bond Yields Retreat](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026/card/bitcoin-retakes-80-000-as-bond-yields-retreat-xkdGfggiRLghCBBxB9k5)**
-
-WSJ • 10h ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments](https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940)**
+**[Where Will Bitcoin Be in 2030?](https://www.fool.com/investing/2026/09/03/where-will-bitcoin-be-in-2030/)**
 
-The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday.
+In a best-case scenario, Bitcoin could hit a price of $1 million or higher by 2030.
 
-Investopedia • 13h ago
-
----
-
-**[Standard Chartered launches institutional spot crypto trading in UAE](https://www.reuters.com/legal/transactional/standard-chartered-launches-institutional-spot-crypto-trading-uae-2026-09-03/)**
-
-Reuters • 23h ago
+fool.com • 12h ago
 
 ---
 
-**[They’re Going To Print ‘Trillions’—Crypto Flood Gates Suddenly Open As $1 Million Bitcoin Price Predicted](https://www.forbes.com/sites/digital-assets/2026/09/03/theyre-going-to-print-trillions-crypto-flood-gates-suddenly-open-as-1-million-bitcoin-price-predicted/)**
+**[US bitcoin ETFs report the largest inflow day since January, worth $731 million](https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515)**
 
-Forbes • 11h ago
+Analysts attributed Fed Governor Christopher Waller’s dovish comments for the significant inflow of capital into the bitcoin products.
+
+The Block • 4h ago
+
+---
+
+**[Bitcoin Bear Market May Not Yet Be Over, Says Fidelity](https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity)**
+
+Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year.
+
+Bitcoin Magazine • 14h ago
+
+---
+
+**[Does the BITCOIN/S&P 500 ratio confirm the bottom? for BITSTAMP:BTCUSD by Swissquote](https://www.tradingview.com/chart/BTCUSD/OodfwXko-Does-the-BITCOIN-S-P-500-ratio-confirm-the-bottom/)**
+
+1) The shortest bear market in BTC history
+
+Against the seasonal statistics that traditionally make August the second-worst month in BTC history, Bitcoin’s price has experienced a vertical rise from $62,000 to $80,000. Has the bear market definitively ended on Wednesday, July 1, at $57,750?
+
+If the July 1 low at $57,750 were indeed to be the final bottom of the current Bitcoin bear market, the 2026 bearish cycle would have an exceptional characteristic.
+
+At 268 days, it would be significantly …
+
+TradingView • 8h ago
+
+---
+
+**[El Reno officials admit to enforcement failures surrounding Bitcoin mining facility](https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/)**
+
+KFOR.com • 2d ago
+
+---
+
+**[Almost All of Bitcoin’s Massive Month Happened in 3 Days](https://www.inc.com/phil-rosen/bitcoin-treasury-scott-bessent-bond-market-buybacks-crypto/91401326)**
+
+Its biggest gains came immediately after Treasury Secretary Scott Bessent doubled the government’s bond market buybacks.
+
+inc.com • 3h ago
 
 ---
 
@@ -239,17 +249,9 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 ---
 
-**[Bitcoin's First Quantum-Safe Transaction Just Happened](https://news.ycombinator.com/item?id=49477238)**
-
-The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.
-
-⬆️ 4 • 💬 0 • 6d ago • [Bitcoin Magazine](https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction)
-
----
-
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 9h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 14h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -265,13 +267,13 @@ Ireland’s CAB Moves Another 500 $BTC From Decade-Old Wallet On Friday, Aug. 28
 
 COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed phrase from a shuffled deck of playing cards on an air-gapped Raspberry Pi.
 
-⬆️ 2 • 💬 0 • 2d ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
+⬆️ 2 • 💬 0 • 3d ago • [Andreas Brekken](https://brekken.com/posts/a-truly-random-seed-phrase)
 
 ---
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 1](https://news.ycombinator.com/item?id=49497861)**
 
-⬆️ 2 • 💬 0 • 4d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
+⬆️ 2 • 💬 0 • 5d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
 
 ---
 
@@ -285,13 +287,21 @@ Could old coins that have not moved for years help pay Bitcoin miners without cr
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
 
-⬆️ 1 • 💬 0 • 9h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
+⬆️ 1 • 💬 0 • 14h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
 
 ---
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
 
-⬆️ 1 • 💬 0 • 11h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
+⬆️ 1 • 💬 0 • 16h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
+
+---
+
+**[From Bitcoin Bankruptcy to Data Center Billions in West Texas](https://news.ycombinator.com/item?id=49548221)**
+
+Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
+
+⬆️ 1 • 💬 0 • 1d ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
 
 ---
 
@@ -305,7 +315,27 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 2K • 💬 165 • ⏱️ 15:19 • 10h ago
+👁️ 44K • 👍 2K • 💬 175 • ⏱️ 15:19 • 15h ago
+
+---
+
+**[These 3 Cryptocurrencies Could HUGELY Reward Investors Bitcoin Is Going To Crush The Dollar](https://www.youtube.com/watch?v=3BBIssehWUo)**
+
+Sometime during the 2030's people are going to realize the chance that they missed out on. It's interesting that we keep getting ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 478 • 💬 64 • ⏱️ 32:52 • 3h ago
+
+---
+
+**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
+
+📺 Bitcoin University
+
+👁️ 21K • 👍 1K • 💬 454 • ⏱️ 7:52 • 21h ago
 
 ---
 
@@ -315,7 +345,7 @@ Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earni
 
 📺 Fox Business Clips
 
-👁️ 5K • 👍 52 • 💬 89 • ⏱️ 3:22 • 8h ago
+👁️ 7K • 👍 61 • 💬 104 • ⏱️ 3:22 • 13h ago
 
 ---
 
@@ -325,27 +355,27 @@ Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but wh
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 301 • 💬 79 • ⏱️ 1:05:04 • 14h ago
+👁️ 15K • 👍 309 • 💬 77 • ⏱️ 1:05:04 • 18h ago
 
 ---
 
-**[Bitcoin Is Going to $5 Million (The Bull Market Is Back)](https://www.youtube.com/watch?v=zKV13dVA2yM)**
+**[5 Year CRYPTO PRESSURE About To SNAP! Can&#39;t Be Contained! (WARNING)](https://www.youtube.com/watch?v=9YknNPdteT4)**
 
-Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing. Email Ryan Rankin with any ...
+Crypto is becoming a pressure cooker. Tough to be a macro bear right now! Altcoins have spent nearly 5 YEARS squeezing ...
 
-📺 Brian Harrington
+📺 Crypto Capital Venture
 
-👁️ 5K • 👍 122 • 💬 46 • ⏱️ 10:21 • 13h ago
+👁️ 25K • 👍 802 • 💬 419 • ⏱️ 19:07 • 20h ago
 
 ---
 
-**[HOLY SH*T BITCOIN IS CLOSE](https://www.youtube.com/watch?v=EcOLAwgQ7Hs)**
+**[$1.3 Million Bitcoin Will Be “Relatively Easy,” Says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=64t2om-Ei_c)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennifer Sanasie for a special edition of Markets ...
 
-📺 My Financial Friend
+📺 CoinDesk
 
-👁️ 9K • 👍 283 • 💬 125 • ⏱️ 8:03 • 13h ago
+👁️ 18K • 👍 254 • 💬 72 • ⏱️ 15:14 • 18h ago
 
 ---
 
@@ -355,7 +385,7 @@ MY 5-YEAR BITCOIN RETIREMENT CHEAT SHEET AND CALCULATOR: https://cortana.marketd
 
 📺 Mark Moss
 
-👁️ 111K • 👍 2K • 💬 211 • ⏱️ 16:50 • 16h ago
+👁️ 123K • 👍 2K • 💬 236 • ⏱️ 16:50 • 21h ago
 
 ---
 
@@ -365,37 +395,17 @@ Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Ka
 
 📺 Tyler S
 
-👁️ 20K • 👍 806 • 💬 474 • ⏱️ 9:46 • 16h ago
+👁️ 21K • 👍 824 • 💬 448 • ⏱️ 9:46 • 21h ago
 
 ---
 
-**[Bitcoin: The Liquidity Paradox](https://www.youtube.com/watch?v=nDp00KRoosU)**
+**[Bitcoin Is Going to $5 Million (The Bull Market Is Back)](https://www.youtube.com/watch?v=zKV13dVA2yM)**
 
-I am speaking at the Tech Summit in New Zealand on September 16th: https://techsummit.nz/ I am hosting a workshop called: "The ...
+Open an account at iTrust Capital and legally avoid taxes on your bitcoin and crypto investing. Email Ryan Rankin with any ...
 
-📺 Benjamin Cowen
+📺 Brian Harrington
 
-👁️ 166K • 👍 6K • 💬 213 • ⏱️ 14:45 • 1d ago
-
----
-
-**[Bitcoin Could Be Entering Its Next MAJOR Bull Phase](https://www.youtube.com/watch?v=WFfWmu_sqec)**
-
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
-
-📺 CryptosRUs
-
-👁️ 27K • 👍 797 • 💬 256 • ⏱️ 36:44 • 16h ago
-
----
-
-**[Bitcoin Is At A THE Moment — $100K Could Come FAST! (Here’s The Catch)](https://www.youtube.com/watch?v=9cegChAbvAg)**
-
-Thanks Coinbase for sponsoring this Bitcoin and crypto video. Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 31K • 👍 633 • 💬 845 • ⏱️ 11:36 • 1d ago
+👁️ 5K • 👍 129 • 💬 41 • ⏱️ 10:21 • 18h ago
 
 ---
 

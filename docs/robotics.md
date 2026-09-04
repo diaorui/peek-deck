@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T08:09:41.151465+00:00'
+updated: '2026-09-04T12:51:46.583664+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 08:09 UTC  
+**Last Updated:** September 04, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Interested in implementing indoor positioning for your robot - one of the new me
 
 This was surprisingly easy to do. If you have a Unitree G1 Edu version off course. Done with a driving video fed into their motion generation software. Then trained for 5 hours , then 1 click deployment onto the robot
 
-3d ago
+4d ago
 
 ---
 
@@ -78,7 +78,7 @@ This was surprisingly easy to do. If you have a Unitree G1 Edu version off cours
 
 Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 2d ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 3d ago
 
 ---
 
@@ -112,21 +112,7 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
 
-Medtronic • 2d ago
-
----
-
-**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
-
-The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
-
-CNBC • 3d ago
-
----
-
-**[OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One](https://www.forbes.com/sites/johnkoetsier/2026/09/03/openai-is-making-a-humanoid-robot-everyone-should-have-one/)**
-
-Forbes • 12h ago
+Medtronic • 3d ago
 
 ---
 
@@ -138,6 +124,26 @@ Financial Times • 2d ago
 
 ---
 
+**[OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One](https://www.forbes.com/sites/johnkoetsier/2026/09/03/openai-is-making-a-humanoid-robot-everyone-should-have-one/)**
+
+forbes.com • 16h ago
+
+---
+
+**[Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI](https://www.nscale.com/press-releases/nscale-and-figure)**
+
+nscale.com • 20h ago
+
+---
+
+**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
+
+The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
+
+CNBC • 3d ago
+
+---
+
 **[GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’](https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition)**
 
 Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
@@ -146,31 +152,11 @@ The Verge • 2d ago
 
 ---
 
-**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
+**[Marc Lore’s food delivery startup Wonder slashes 150 jobs as it invests in robotics](https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/)**
 
-blockclubchicago.org • 19h ago
+Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
 
----
-
-**[Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI](https://www.nscale.com/press-releases/nscale-and-figure)**
-
-Nscale • 16h ago
-
----
-
-**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
-
-Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
-
-Seeking Alpha • 11h ago
-
----
-
-**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
-
-Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
-
-MedTech Dive • 1d ago
+New York Post • 17h ago
 
 ---
 
@@ -182,19 +168,25 @@ Yahoo • 1d ago
 
 ---
 
+**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
+
+Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
+
+Seeking Alpha • 16h ago
+
+---
+
+**[Ukraine’s Ground Robots and the Economics of Survival](https://warontherocks.com/ukraines-ground-robots-and-the-economics-of-survival/)**
+
+In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of
+
+War on the Rocks • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 174K • 👍 3K • 💬 1K • ⏱️ 1:39 • 2d ago
-
----
 
 **[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
 
@@ -202,17 +194,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 77K • 👍 360 • 💬 36 • ⏱️ 1:49 • 4d ago
-
----
-
-**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
-
-Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
-
-📺 TESLA CAR WORLD
-
-👁️ 138K • 👍 1K • 💬 203 • ⏱️ 12:56 • 3d ago
+👁️ 78K • 👍 363 • 💬 38 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -222,47 +204,7 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 📺 NBC News
 
-👁️ 39K • 👍 255 • 💬 94 • ⏱️ 6:47 • 6d ago
-
----
-
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=0fBO1pVjxeg)**
-
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
-
-📺 AP Archive
-
-👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 4d ago
-
----
-
-**[The Robotics Breakthrough Everyone Has Been Waiting For](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
-
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
-
-📺 bycloud
-
-👁️ 175K • 👍 4K • 💬 400 • ⏱️ 15:41 • 1d ago
-
----
-
-**[UNSTOPPABLE: Ukraine Unleashes a FULL ROBOT ARMY on the Frontline](https://www.youtube.com/watch?v=lgdM6yEijHo)**
-
-The nature of warfare has permanently changed. In a historic military milestone, Ukraine has completely redefined the battlefield ...
-
-📺 The Geo Network
-
-👁️ 200K • 👍 3K • 💬 186 • ⏱️ 15:16 • 4d ago
-
----
-
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
-
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
-
-📺 AP Archive
-
-👁️ 123K • 👍 321 • 💬 201 • ⏱️ 0:53 • 4d ago
+👁️ 39K • 👍 256 • 💬 94 • ⏱️ 6:47 • 6d ago
 
 ---
 
@@ -276,13 +218,73 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+
+📺 Associated Press
+
+👁️ 179K • 👍 3K • 💬 1K • ⏱️ 1:39 • 2d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 792 • 👍 35 • 💬 1 • ⏱️ 0:59 • 4h ago
+
+---
+
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=0fBO1pVjxeg)**
+
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+
+📺 AP Archive
+
+👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 4d ago
+
+---
+
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+
+📺 bycloud
+
+👁️ 187K • 👍 4K • 💬 420 • ⏱️ 15:41 • 1d ago
+
+---
+
 **[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
 From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
 📺 fastwit
 
-👁️ 820K • 👍 8K • 💬 21 • ⏱️ 1:01 • 5d ago
+👁️ 854K • 👍 8K • 💬 21 • ⏱️ 1:01 • 5d ago
+
+---
+
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
+
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+
+📺 AP Archive
+
+👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 4d ago
+
+---
+
+**[These 4 Robots Rebuild Themselves #Robotics #AI](https://www.youtube.com/watch?v=EmUrnXlahHc)**
+
+Scientists at Columbia University have created SELF-REBUILDING ROBOTS powered by a remarkable concept called ROBOT ...
+
+📺 Unhide Truths Vault 
+
+👁️ 42K • 👍 240 • 💬 6 • ⏱️ 0:07 • 6d ago
 
 ---
 
