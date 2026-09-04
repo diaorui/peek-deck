@@ -35,6 +35,17 @@
       "description": "There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually \"understand\" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't."
     },
     {
+      "title": "Automatic AI Responses to Customer Service Issues",
+      "author": "Quitelegal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
+      "published": 1788540102.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
+    },
+    {
       "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
@@ -44,6 +55,17 @@
       "site_name": "Tech Times UK",
       "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
+    },
+    {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+      "published": 1788549135.0,
+      "thumbnail": null,
+      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "site_name": "theregister",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
@@ -57,15 +79,15 @@
       "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing."
     },
     {
-      "title": "Automatic AI Responses to Customer Service Issues",
-      "author": "Quitelegal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
-      "published": 1788540102.0,
+      "title": "Why would you use an AI to write your replies on Reddit?",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/",
+      "published": 1788541501.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
+      "description": "More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they\u2019re still your thoughts. If you aren\u2019t writing your own stuff, there\u2019s not really a point to having an online presence at all, since you don\u2019t have one if someone else is writing your replies for you. I think drafts is a different thing since you\u2019re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I\u2019m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you\u2019re getting it to teach you what and why it\u2019s doing what it\u2019s doing as it\u2019s doing it."
     },
     {
       "title": "AI Is Making Junior Developers Faster, But Is It Making Them Better Engineers?",
@@ -79,38 +101,16 @@
       "description": "Three engineers discuss how AI is reshaping junior developers\u2019 learning, speed, and skills - and whether faster code makes better engineers."
     },
     {
-      "title": "what actually gets someone to trust an agent with real email access, turns out it's not a big use case",
-      "author": "JanJanJaJa",
-      "url": "https://www.reddit.com/r/artificial/comments/1w77y5u/what_actually_gets_someone_to_trust_an_agent_with/",
-      "published": 1788536556.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been thinking about an email I got last week from someone using our email tooling for agents He'd been holding off on giving his agents full email access for a while. Not for any specific reason, just the general reluctance a lot of people have, watching an agent slowly earn trust before you hand it something real. What actually got him to try it wasn't some big flashy use case. It was newsletters. Years of subscriptions piled up, more than he could realistically read, let alone stay organized on. He redirected the subscription address on a chunk of those newsletters to a separate inbox instead of his real one. His agent, part of a small fleet he runs, reviews what comes in and summarizes what's actually worth his attention. Newsletters which is exactly why it worked as a starting point. Low stakes, easy to watch closely, easy to actually trust once it behaved. He's already thinking about expanding what it handles now that the trust is there. Only issue he ran into was an authentication hiccup, which he was upfront was on his own setup, not the tool, running clean since he fixed it. What stuck with me, full disclosure I'm on the team at Atomic Mail, is that this wasn't someone chasing an agent-does-everything story. It was someone testing the smallest possible slice of trust first, one boring low-risk task, see how it behaves, then decide what's next. Feels like a more honest on-ramp than most of what gets posted about agent automation. If others approached giving an agent real access the same cautious way, small and boring first, or just went straight for the deep end."
-    },
-    {
-      "title": "GPT-6 Astra looks less like \u201cAGI\u201d and more like a serious test of computer-use agents",
-      "author": "becomingengageably",
-      "url": "https://www.reddit.com/r/artificial/comments/1w77d8e/gpt6_astra_looks_less_like_agi_and_more_like_a/",
-      "published": 1788535258.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been reading through OpenAI\u2019s GPT-6 Astra launch materials, the early-access write-up from Claire Vo, and the independent benchmark analysis from Artificial Analysis. My current read is that the AGI argument is less useful than the operational one. Astra appears to be aimed at work that combines reasoning, code, tools, and interface interaction: browser tasks, research, document production, CRM work, software testing, and longer-running professional workflows. The benchmark picture isn\u2019t one clean win: - OpenAI reports very strong results on FrontierMath Tier 4, ARC-AGI-3, and ExploitBench. - Artificial Analysis scored Astra at 61 on its broader Intelligence Index, tied with GPT-5.6 Sol in the tested configuration. - Astra scored 67 on the Coding Agent Index, two points above Sol but below Fable 5.1 at 70. - At maximum effort, it used fewer output tokens than Sol but cost more per task because of the higher token price. That makes Astra look less like a universal replacement and more like a specialist model for tasks where stronger computer use, coding, long context, or fewer failed attempts can justify the premium. The evaluation I would run is straightforward: Pick one expensive, fragmented workflow. Run Astra beside the current process and current model. Measure completion, accepted output, retries, correction time, scope compliance, and total cost. Keep consequential actions behind human approval. Decide from cost per accepted outcome rather than the launch benchmark alone. I\u2019m curious where others land: which real workflow would you use to test whether Astra is materially better?"
-    },
-    {
-      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
-      "published": 1788439791.0,
-      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
-      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "site_name": "CNBC",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
+      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/",
+      "published": 1788491031.0,
+      "thumbnail": "https://external-preview.redd.it/jIbnFM4gCAvJZi7LQBMMwCyODIjy5BZQSuYJw2mwZlo.jpeg?width=640&crop=smart&auto=webp&s=1996a9adcbbad071164e064c358f4daf900be218",
+      "external_url": "https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion."
     }
   ],
-  "fetched_at": "2026-09-04T16:45:34.051727+00:00"
+  "fetched_at": "2026-09-04T19:19:15.200563+00:00"
 }

@@ -15,18 +15,8 @@
       "description": "Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back."
     },
     {
-      "headline": "Ethereum Sheds 2.8% -- Crypto Mover",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUlA4eDZEa3JUdzZrcWx0OXlmeHJZYl9BNGs0TVFGaWV5VGsyS0hSdkRMMEtKdWQ3TThWRDhaMUpZdGF5amhNcUZyM2ZidlkxZnVpTEdTV1gxaWNtbXZsSDFVdnJ5MkpVOUkxUkF4aHZfeVZIUHRHUmoxUHNidw?oc=5",
-      "pub_date": 1788533807.0,
-      "article_url": "https://www.moomoo.com/news/post/75838787/ethereum-sheds-2-8-crypto-mover",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZm1nMkJIakhtMEduekdZWkp2QUJOMDZrRGo3ODlkVjVJOFdMYlpUZUJtRERoa09SVlRrTmtnWFhvcHBGN0laUF9NaWN1RkVVcENjMkprakJmUEE0MUlRUm9aM0VncUduTExZdG5Rd2tndnl4RjJNQ1A3aW9EbXZIVlhZMUt5NEkwekwxSXJIWjctQi1MTjh5YUdONWhvekFOSUZXdmhzZFNoQUVhbmV6cUVBalZUSFFwb0xaSUZYeHN5MVREWV9yN05XSUFOdHFnQlNtNmplZEdsVEFpN0FqLS1EOWFhNnZRYk1oTHE5ZnBTdzhVYVEwZmR0ZHZwaUk3OEdPZ2FuYkRqemNxOGVHSFN2TkUtdzF0ZTR2UDljOWxPNlJtRlE?oc=5",
       "pub_date": 1788435326.0,
@@ -43,16 +33,6 @@
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite",
       "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/03/Cryptocurrency--Focus-Bitcoin-On-Tablet-.jpg",
       "description": "The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike."
-    },
-    {
-      "headline": "Current price of Ethereum for September 4, 2026",
-      "source": "fortune.com",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMFNIWmQ5YlloaDFRVk81azNLem9RUlBYVEZlUnNhQ1FCaTIycWNiQUg4bUJ2VU91bWdPN2l4V1FmY3gxNy02NFlFV0pMa3VSdUl0R2ZqaV9MWUtkVmxnRDJ2VDFZYWk0?oc=5",
-      "pub_date": 1788527249.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-04-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-4.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH",
@@ -75,6 +55,26 @@
       "description": null
     },
     {
+      "headline": "Ethereum: Weekly Timeframe Signals Early Upside",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1Vrek1BT2FsUjVNWkxLaEVmS0FxZU5pcnBBbmgxUXlQeWZqTks1RmUwWk5IdkdjQ2Z0b0NPeFBhczVWY1pCVElqMlZLc1NnamphNzBnZ01xYWlzMThtQ0JMSXh3cG1tZlVtR2ZrbWkwNDEzWG1BcjNfS04tS0I0cmRQVmtLanM?oc=5",
+      "pub_date": 1788546629.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-weekly-timeframe-signals-early-upside",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Ethereum 0xb50721bcf8d664c30412cfbc6cf7a15145234ad1 weekly chart points to substantial upside, with accumulation recommended on corrections amid expected..."
+    },
+    {
+      "headline": "Current price of Ethereum for September 4, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMFNIWmQ5YlloaDFRVk81azNLem9RUlBYVEZlUnNhQ1FCaTIycWNiQUg4bUJ2VU91bWdPN2l4V1FmY3gxNy02NFlFV0pMa3VSdUl0R2ZqaV9MWUtkVmxnRDJ2VDFZYWk0?oc=5",
+      "pub_date": 1788527249.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-04-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-4.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
       "headline": "ETH News Today: Ethereum Nears $2,400 Amid Fed Pressure as Apeing Nears Its September 8 Crypto Presale Opening at 15:00 UTC",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -85,26 +85,26 @@
       "description": "NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled..."
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH and XRP await US NFP for next directional move",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVUJ6ak5PZ2ItSFZfMzR5WjFhbnQzTVpxRmpSY3lNWFhZSk4xR0tncDlsSkR4SGtfSWVUWlZUbWdJV01WdS0tYUtwOGhXZUdtenNzTTVpN3JYOWNlOWFhbDEwVjlsbVVkV29OVEJOblNLZzVHdXRGeTZ6V3FONXotSkUzeWlManNCSTctTEYtd1Y4M2h6Mkt6RVZ5OEdBdnZ3Sll5LWlRNTZUWl90aEVQU09LUzBZSzBfUE5UazNsMzJfQ084ZV9YdE9oQmhiSmRjaF9BNzdKZFpGWjkyRnp2MWIzMXdENjlvUC1OME9FQ2FsM0k?oc=5",
-      "pub_date": 1788492755.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-await-us-nfp-for-next-directional-move-202609040332",
-      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
-      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their weekly gains on Friday as traders await the US Nonfarm Payrolls (NFP) report for the next directional catalyst."
+      "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhEbWZIUktwTlloaXpIWXgyNFFOYlVYajJDd1FpZWx1N1hmZENJcGtITnRkZVkyN1lzd0pHZ1V1bzk2bkdzNjhPakJrU1hFTnBrVlVCeVhMaXFTb0ZSUTFwS1RyVVNMenNLUjVfUFE0RmZHemNkMm5WenJkcEg2dDZJbV9QSkRLVUF6VU5aODE2NDNXSWJJOHJqTFpRYUE?oc=5",
+      "pub_date": 1788533726.0,
+      "article_url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
+      "description": "Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets."
     },
     {
-      "headline": "Ethereum: Decrypt Flags Zcash Moves",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGdFZMMUdiOUt0NHJUcFpzTTF0X3RiaUplX3pBMVhVWUVtbllqWDN3VGlaamxUbkFrMkRidVV0b09IRnpJU0h6elk0WmNTeXlBLU1tMGcwNjE1WHlFNV85RFM4RnhuMDZ3U1Q0ZU5feF9jYkdQbFRn?oc=5",
-      "pub_date": 1788536918.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-decrypt-flags-zcash-moves",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Ethereum at $2457.53 with bullish EMA50 support at $2442.07 as Decrypt questions positioning on 0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2 and Zcash native..."
+      "headline": "Where are Crypto Whales Buying Next After Bitcoin\u2019s Rally",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZFRvSlNKWjJpNElKU3lhNGc5dk1qLVZsME9JTFRaVDRmSzBTLS1QVlZkNmJaa1RvekcwZTZKVUI3VEcyNUMxX3dJbWlfNGFGdEE3OWFDWmU5bFJWTmtMLUc1Zmc2SmxLaXVwS1VZNFVjQzF3RzVIX24zQ2lyMVdGc20xUURlVE81ZnBoWlBOSFFDemprdDlITTRUWC1GejJhNm9MUGRBdnBYVHdTVTZtMjNITGM3WWVq?oc=5",
+      "pub_date": 1788432369.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:69bc83d36094b:0-where-are-crypto-whales-buying-next-after-bitcoin-s-rally/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin\u2019s price rally is reshaping the crypto capital rotation trade, with whale activity showing where large holders are positioning beyond BTC. While Bitcoin remains the core institutional asset, Ethereum, Solana, XRP and Hyperliquid are attracting fresh attention as traders seek stronger relativ\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T16:45:53.500564+00:00"
+  "fetched_at": "2026-09-04T19:19:34.143129+00:00"
 }

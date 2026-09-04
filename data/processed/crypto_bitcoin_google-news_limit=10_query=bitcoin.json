@@ -5,14 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
-      "pub_date": 1788529500.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdG5Ba1gtQVQ2WVJPN3dsLS05eVpQdkhtTGJmU0Nld1FtSW81UWpiMzExTEJXakpNcFBkVzFpeTROZFRuUW51WWg5RXBBVlp4SzFlRDk2ejk4TXQ3aXBZcE5veS16c1hkc3dkYWF4eG5XeTJFbEM2WkZibmdrTjdpbXAzMUFUR1pRYkFONkVlX1NLUWJjVlNMZHc1RTZMNkF0VkloVnpnWXZ5eDdGVjZWVEVzcDJ2ZjNMMFlvWQ?oc=5",
+      "pub_date": 1788540369.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
+      "description": "Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward."
+    },
+    {
+      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
+      "pub_date": 1788524240.0,
+      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
+    },
+    {
+      "headline": "Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller\u2019s Comments",
+      "source": "Investopedia",
+      "source_url": "https://www.investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUdVamkwTFZkVmZpd0JLUmxYc09HM2FEX3NZVFpZWXpaMk5lOGNlS2JjNENNOUFuS0MwZnN0SEc4RGpZcXlta0Y1M2VrLVhUdV93OE1UcE1KeTBONXhtNzUzMUNrWWVZekZISVpKUENaSEJvaXVqYTRxNEdVZ3VSOWF0cTBaS3c3ZzlyWExQZVBRdFl1S1luNDJPcVk5V3hMMGk2Q0hBRFFsTFU?oc=5",
+      "pub_date": 1788462222.0,
+      "article_url": "https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940",
+      "image": "https://www.investopedia.com/thmb/LvNIf7Ze2FC6twSlTIu9_dmKQ1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2279298854-6e3b9408395c47788cf17333f4d6cf13.jpg",
+      "description": "The price of the world\u2019s most well-known cryptocurrency surged along with major stock indexes Thursday."
     },
     {
       "headline": "Inside the English soccer club betting its future on Bitcoin",
@@ -25,34 +45,14 @@
       "description": "How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid."
     },
     {
-      "headline": "Bitcoin ETFs just had their best day of 2026",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wQ3RVU09WdTFjYVNTYVBtU3JVMlBYYlNieEhCMDg3TFIyazd1TktUeG50ZUYyQUR4em5MZmNpc1ZlYWgxNHlRNG1FOWhra041dkxZS05PWUd1enE0UFg2R05pRHZ5amJ5NF85R0JwbmxabkFQcUllZ0duWkxMZw?oc=5",
-      "pub_date": 1788537600.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-etfs-just-had-best-160000838.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0fa0bfef97aedb7aa3ccfb211ce350c407cd3d256c769ff68ccb0afb62ab6ef4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-0904_9008.png",
-      "description": "This episode of \"The Daily Wolf with Scott Melker\" explores the latest crypto-related headlines.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "Live updates: Bitcoin tumbles after blowout August jobs print",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFdGb3lwdkZ0eEpKX1VoWkE5Ui1KbkRvRXdCLWgzZ1pPOFFTd2Z4akk4ZkR3aTNOQUtpdFVnMl9pUy0zUTJZUUc3THRoQ3ItZkgyckNhck44WmVGZGhfTFhaNUdCMWNaYUlIRXZtVzgxcnp6QjZiRlUtU1dqVnpOczNHTEdtdERaSWE3eW5rLU9WM2k5NXRaRDNGZ1htZUp3S2Z1amtjTTJLVUdmSmZUVTVmNGdjQ3ZJZ0RVc2xpMA?oc=5",
-      "pub_date": 1788531222.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Fed Governor Waller just reignited the bitcoin debasement trade: Chart of the Day",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUtaa0V1OXI2Q1pBMmZTbUVDaUlvbk5vT2o0OEFBeVdBMU1vdzVsMVBiRWFKZ2FVc2xxN0NQRFZ2VEp5Tkw4UWZHSi1MLTA4VFkwZGhMelVTbUdHV2VwdVdrZWdvdWlUU1FNaENQR1hyaUZIdjBDS0ZYOUxJMFRyVGxiVTctWEdtZlBNSUk3bWlzTVdqbUpRSWluRGY1czB1cmNBVzdLOE5RLXl6ZmNLNnRnbzBSVU4wTHFfUzVaQnhoczFWWXNwdlVpR3VscWo2dDhB?oc=5",
-      "pub_date": 1788516000.0,
-      "article_url": "https://finance.yahoo.com/markets/article/fed-governor-waller-just-reignited-the-bitcoin-debasement-trade-chart-of-the-day-100000584.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
-      "description": "Bitcoin is back at the Rubicon \u2014and Fed governor Waller just dared bulls to cross it."
+      "headline": "Satoshi-era Bitcoin wallet tied to $293B lawsuit moves $3M after 15 years",
+      "source": "sg.finance.yahoo.com",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejVBYjRfWGljcmtWekRVazZDZ0Rxek91UEpfWklsSUxsdU5uMkctX1prd3MyWjkxeFVtcXFpWUZlZHNBYnEzd0xXU0lTT0pPT2pZWHQ0ZUhXWUZHMzd3RTUyeTNuNkJGXzg5cnhaOEEtS25scEo3ZXJxOGpYZUxFaUdLeWtTbXc?oc=5",
+      "pub_date": 1788548331.0,
+      "article_url": "https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-wallet-tied-185851576.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c192839dc81b237f0d9380fd05a38bd0f91301a890e52592e39f541bcdaa8c37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F13610edb6ffdf9566ff3f7da824240ab.jpg",
+      "description": "A Bitcoin address untouched since 2011 suddenly sprang to life on Friday, shifting over $3 million in BTC."
     },
     {
       "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
@@ -85,26 +85,26 @@
       "description": "The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF\u2026"
     },
     {
-      "headline": "Where Will Bitcoin Be in 2030?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tNHIxMHM4Wll4b19VbmRVcVd3Q2F3QUtCei12SFBZMVRncUVIaDEwYk82al9oaGFXcFFFUFVnWTBtSWRZTW9XYndBMlh0RXNKdFlSYVI2V1VUdjR5NElmMnJES1N1OXJUajMyelV5MUYwQXkyRjJNYnNYTVE?oc=5",
-      "pub_date": 1788481260.0,
-      "article_url": "https://www.fool.com/investing/2026/09/03/where-will-bitcoin-be-in-2030/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885495%2Fbitcoin-charts-and-graphs.jpg&w=1200&op=resize",
-      "description": "In a best-case scenario, Bitcoin could hit a price of $1 million or higher by 2030."
+      "headline": "Fidelity says Bitcoin can appreciate without taking market share from gold",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXFkWlJCdmhPb1F0N1hBbVB3TUtKdFpXSDE2NEpOaXJjYWVERnh6M2E5TVYzTlhZQW9Dc0xOSTlQQy1lUVhRM0lkVjlxOUk3NXpvSFJzQkRHWm1uWkNEZ1k4d1JGbFdfMmU5WnBGVFlwREk0UWFPa2NBbEhQT3h0X1ZIS3FGWUl6ZnFiM2NZdEtnbWRHYXZTYkNIOWQxZ2U5VElibGt4Sms2UWtIM0x2MkRLT3Myd0NHWUxkaUdKSVBfeU1MT1RObHUyb0NaU1p4QzRrREJB?oc=5",
+      "pub_date": 1788532288.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:e32fde710094b:0-fidelity-says-bitcoin-can-appreciate-without-taking-market-share-from-gold/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Fidelity Digital Assets wants to settle a debate that has consumed crypto and macro Twitter for years: does Bitcoin need to eat gold's lunch to go up in price? The answer, according to the firm's VP of Research Chris Kuiper, is a clean no.In an updated report titled \"Getting Off Zero\" for 2026, Fid\u2026"
     },
     {
-      "headline": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU45aVVLSHlZSFNWd0tWVVdFZFdZVDYxdURUREM1VG5uY3I2LXd3SUNRRmQyYXg3S0Y3THJNWXktNlV0VnUxS29vVGdMWWdiWWRiNFJUSjZ5RnhFemNiZl9meXJiZjhJSXk5cDJFZG5ObXZDNEY3b3drZjhrMDVmTQ?oc=5",
-      "pub_date": 1788474244.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg",
-      "description": "Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year."
+      "headline": "El Reno officials admit to enforcement failures surrounding Bitcoin mining facility",
+      "source": "KFOR.com",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU5qNHZna3pJdDZ0dWVhaE5TaXpJNzE1MGw4eFRxemdwdW91RkFXNm5WY1lHUEprcXpQTlluSU04QmNpRW94ME9WTkd5YkZMZV9IeGQxX0E4WmlMUWcwcGNaNUdzdFhzSjQ3ZmZVb0JRUXFocHlVTVh0VDlFWF9WTUdFZW5NQUk4UVpoUm9xRlR0MXo5clNBcGhFUjc0Z3RHLTgxNTF0ZDlyNnlGSE5FYnpB0gG3AUFVX3lxTE5KUV9DUVNGdmNkTEN1T2hxTFJuRGpSQ1NpakltVjRWTVE3NUMzVmNRbjZZN0E1UmZCc1BoQkg2RXNoNjhDS3hqQ0ltZ04wTW9NeTdLRjlsaFZKcHlmQTVDc3Y2VWRZaFV5UlVIZGVVZjRmSG9VcWdpRUNnQ2c4TFhSdUNlMTJDOXpQTlZZbk1DZjJ6NXhSZHYxWl9oUUxpUFdBblhOVUZJVEpva2w0RF9Tb0s5Y1F4Zw?oc=5",
+      "pub_date": 1788303636.0,
+      "article_url": "https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T16:46:04.110101+00:00"
+  "fetched_at": "2026-09-04T19:19:31.958848+00:00"
 }

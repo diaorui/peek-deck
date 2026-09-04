@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T16:46:06.380699+00:00'
+updated: '2026-09-04T19:19:45.751741+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 16:46 UTC  
+**Last Updated:** September 04, 2026 at 19:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,7 +62,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 2d ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 3d ago
 
 ---
 
@@ -86,7 +86,7 @@ Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs 
 
 I have been working on different robotics task mainly in Pybullet. Complexity of Isaac Sim has kept me from experimenting with it but I finally finished my first successful reinforcement learning script using it. Getting the settings right so I could observe the trainings in windowed mode with my laptop 3070 gpu took I while but I managed to get it working well enough to troubleshoot some early issues I noticed through visual inspection. I gave the PPO full control of my robot's controller, not the joint angle outputs, meaning it had to figure out a way to climb the ramps using the directional controller inputs and body adjustments like pitch and height. The training took about 45 minutes with my RTX 3070 mobile GPU vs 1 hour and 45 minutes using cpu with Pybullet. I am now working on full locomotion simulation, again with my custom robots, its a bit more involved than I expected but I am hoping in the end I can come up with my own full locomotion training script and load the model to my actual robot to control it. I also share my tutorial scripts with my videos on youtube, if you are interested in watching the video for this one you can find it with the link below: https://youtu.be/0x5BBosrq-E You can also download the simulation script from my github repository with the link below. https://github.com/serdarselimys/HexaDogZBD-IsaacSim-RL If you are interested in the real 3D printed robot, you can fine info about it from the video link below. https://youtu.be/qflyEQOJObM
 
-3d ago
+4d ago
 
 ---
 
@@ -108,11 +108,11 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery](https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery)**
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
-Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes...
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
 
-Medtronic • 3d ago
+bbc.com • 17h ago
 
 ---
 
@@ -124,19 +124,55 @@ Financial Times • 2d ago
 
 ---
 
-**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
+**[Opinion | China’s robot revolution may not arrive in the way you expect](https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect)**
 
-Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
-
-spectrum.ieee.org • 41m ago
+South China Morning Post • 21h ago
 
 ---
 
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+**[eCential Robotics Announces Binding Offer from Enovis](https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html)**
 
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis™ Corporation (NYSE: ENOV)...
 
-BBC • 14h ago
+PR Newswire • 3d ago
+
+---
+
+**[ARM Institute announces nearly $90M in DoW funding for robotics projects](https://www.yahoo.com/news/science/articles/arm-institute-announces-nearly-90m-161035989.html)**
+
+The Advanced Robotics for Manufacturing Institute, based in Pittsburgh, announced that it has been awarded upwards of $90 million for ten different projects.
+
+Yahoo • 3h ago
+
+---
+
+**[Physical AI Infrastructure Market to Reach $327.21 Billion by 2035 as Robotics and Autonomous Systems Accelerate Global Demand | Research by SNS Insider](https://sg.finance.yahoo.com/news/physical-ai-infrastructure-market-reach-183000299.html)**
+
+The U.S. Physical AI Infrastructure Market is Projected to Grow from $4.85 Billion in 2025 to $111.04 Billion by 2035, While Europe is Expected to Expand from $3.98 Billion to $79.91 Billion by 2035.Austin, United States, Sept. 04, 2026 (GLOBE NEWSWIRE) -- The Physical AI Infrastructure Market was valued at USD 14.20 Billion in 2025 and is expected to reach USD 327.21 Billion by 2035, growing at a CAGR of 36.91% from 2026 to 2035. The market growth will be fueled by the deployment of artificial
+
+sg.finance.yahoo.com • 49m ago
+
+---
+
+**[AGIQUAD Showcases D1 Quadruped Robots at LEAP 2026, Expanding Its Presence in the Middle East](https://finance.yahoo.com/technology/ai/articles/agiquad-showcases-d1-quadruped-robots-170600757.html)**
+
+RIYADH, Saudi Arabia, Sept. 04, 2026 (GLOBE NEWSWIRE) -- AGIQUAD, a developer of embodied intelligence and quadruped robotics solutions, showcased its D1 Series quadruped robots at LEAP 2026 in Riyadh, presenting solutions designed for complex operating environments across the Middle East, including desert and outdoor areas, industrial and energy facilities, and municipal operations. LEAP 2026 brings together technology companies, investors, government representatives and industry leaders from a
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+
+Signal Akron • 15h ago
+
+---
+
+**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
+
+The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
+
+GeekWire • 1d ago
 
 ---
 
@@ -144,41 +180,7 @@ BBC • 14h ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 3h ago
-
----
-
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
-
-Signal Akron • 12h ago
-
----
-
-**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
-
-The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
-
-cnbc.com • 3d ago
-
----
-
-**[Marc Lore’s food delivery startup Wonder slashes 150 jobs as it invests in robotics](https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/)**
-
-Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
-
-New York Post • 21h ago
-
----
-
-**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
-
-blockclubchicago.org • 1d ago
-
----
-
-**[The National Beat: When to add AI agents](https://www.bizjournals.com/houston/news/2026/09/04/the-national-beat-when-to-use-ai.html)**
-
-The Business Journals • 1h ago
+ABC7 Chicago • 6h ago
 
 ---
 
@@ -192,7 +194,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 79K • 👍 368 • 💬 38 • ⏱️ 1:49 • 5d ago
+👁️ 80K • 👍 375 • 💬 38 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -202,7 +204,17 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 3K • 👍 71 • 💬 6 • ⏱️ 0:59 • 7h ago
+👁️ 4K • 👍 76 • 💬 6 • ⏱️ 0:59 • 10h ago
+
+---
+
+**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
+
+Hilarious Falls and Fails at World Robotics Games 2026.
+
+📺 Chris Wabs
+
+👁️ 14K • 👍 111 • 💬 19 • ⏱️ 11:03 • 6d ago
 
 ---
 
@@ -212,17 +224,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 141K • 👍 1K • 💬 206 • ⏱️ 12:56 • 4d ago
-
----
-
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
-
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
-
-📺 NBC News
-
-👁️ 39K • 👍 259 • 💬 98 • ⏱️ 6:47 • 6d ago
+👁️ 142K • 👍 1K • 💬 210 • ⏱️ 12:56 • 4d ago
 
 ---
 
@@ -236,13 +238,23 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 ---
 
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+
+📺 NBC News
+
+👁️ 39K • 👍 262 • 💬 100 • ⏱️ 6:47 • 6d ago
+
+---
+
 **[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
 
 In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
 
 📺 bycloud
 
-👁️ 207K • 👍 5K • 💬 446 • ⏱️ 15:41 • 1d ago
+👁️ 220K • 👍 5K • 💬 468 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -252,17 +264,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 AP Archive
 
-👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
-
----
-
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
-
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
-
-📺 Tum Tum
-
-👁️ 362K • 👍 1K • 💬 2 • ⏱️ 0:16 • 6d ago
+👁️ 123K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
 
 ---
 
@@ -272,7 +274,7 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 Carros Show
 
-👁️ 43K • 👍 302 • 💬 38 • ⏱️ 19:36 • 3d ago
+👁️ 43K • 👍 305 • 💬 38 • ⏱️ 19:36 • 4d ago
 
 ---
 
@@ -282,7 +284,7 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 📺 BeMyWay
 
-👁️ 66K • 💬 45 • ⏱️ 0:57 • 6d ago
+👁️ 67K • 💬 45 • ⏱️ 0:57 • 6d ago
 
 ---
 
