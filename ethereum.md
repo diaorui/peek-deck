@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-04T19:19:45.747800+00:00'
+updated: '2026-09-04T21:40:34.173368+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 19:19 UTC  
+**Last Updated:** September 04, 2026 at 21:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
+**24h:** -1.7%  
 **7d:** -0.1%  
 **30d:** +29.0%  
 **90d:** +45.3%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.47B
+**Market Cap:** $299.64B
 Rank #2
 
 **Circulating Supply:** 122,018,030 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.4%
 
 **All-Time Low:** $0.43
-+566738.1%
++567047.6%
 
 ---
 
@@ -88,7 +88,7 @@ My company performs wealth verifications as part of our user entitlements/verifi
 
 Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
 
-🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 1d ago
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 2d ago
 
 ---
 
@@ -152,11 +152,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks](https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks)**
+**[Japan’s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury](https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only)**
 
-Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back.
+The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
+
+---
+
+**[Ethereum Lost 2.14% to $2451.77 -- Data Talk](https://www.moomoo.com/news/post/75846599/ethereum-lost-2-14-to-2451-77-data-talk)**
+
+Moomoo • 26m ago
 
 ---
 
@@ -178,7 +184,7 @@ Benzinga • 1d ago
 
 **[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
 
-Forbes • 1d ago
+forbes.com • 1d ago
 
 ---
 
@@ -188,19 +194,11 @@ Morningstar • 1d ago
 
 ---
 
-**[Ethereum: Weekly Timeframe Signals Early Upside](https://blockchain.news/flashnews/ethereum-weekly-timeframe-signals-early-upside)**
+**[Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs](https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/)**
 
-Ethereum 0xb50721bcf8d664c30412cfbc6cf7a15145234ad1 weekly chart points to substantial upside, with accumulation recommended on corrections amid expected...
+Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-blockchain.news • 49m ago
-
----
-
-**[Current price of Ethereum for September 4, 2026](https://fortune.com/article/price-of-ethereum-09-04-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 6h ago
+CryptoSlate • 6h ago
 
 ---
 
@@ -208,23 +206,23 @@ Fortune • 6h ago
 
 NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
 
-markets.businessinsider.com • 6h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
-**[Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs](https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/)**
+**[Current price of Ethereum for September 4, 2026](https://fortune.com/article/price-of-ethereum-09-04-2026/)**
 
-Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CryptoSlate • 4h ago
+Fortune • 8h ago
 
 ---
 
-**[Where are Crypto Whales Buying Next After Bitcoin’s Rally](https://www.tradingview.com/news/coinpedia:69bc83d36094b:0-where-are-crypto-whales-buying-next-after-bitcoin-s-rally/)**
+**[Circle's cirBTC Brings Transparent Wrapped Bitcoin to Ethereum](https://blockchain.news/news/circle-cirbtc-transparent-wrapped-bitcoin)**
 
-Bitcoin’s price rally is reshaping the crypto capital rotation trade, with whale activity showing where large holders are positioning beyond BTC. While Bitcoin remains the core institutional asset, Ethereum, Solana, XRP and Hyperliquid are attracting fresh attention as traders seek stronger relativ…
+Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink.
 
-TradingView • 1d ago
+blockchain.news • 1h ago
 
 ---
 
@@ -238,7 +236,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 90K • 👍 2K • 💬 280 • ⏱️ 10:50 • 1d ago
+👁️ 92K • 👍 2K • 💬 274 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 38K • 👍 542 • 💬 46 • ⏱️ 11:39 • 2d ago
+👁️ 38K • 👍 546 • 💬 46 • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -258,47 +256,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 163 • 💬 70 • ⏱️ 17:06 • 1d ago
-
----
-
-**[BMNR&#39;s Ethereum Strategy: What You Need to Know](https://www.youtube.com/watch?v=vvYaQlLE1bk)**
-
-BitMine Ethereum treasury growth is reshaping the company. We analyze the catalysts driving this massive shift in asset value.
-
-📺 Cryptobud
-
-👁️ 4K • 👍 64 • 💬 4 • ⏱️ 9:14 • 18h ago
-
----
-
-**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
-
-BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 371 • 💬 394 • ⏱️ 22:13 • 18h ago
-
----
-
-**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
-
-1️⃣ *   Save 40% code SAVE* ➡https://join.stockmoeacademy.com/join-page 2️⃣ *   *Sign up for Webull's Promo HERE* ...
-
-📺 Stock Moe
-
-👁️ 20K • 👍 498 • 💬 22 • ⏱️ 13:52 • 22h ago
-
----
-
-**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
-
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 178 • 💬 5 • ⏱️ 6:45 • 21h ago
+👁️ 9K • 👍 164 • 💬 70 • ⏱️ 17:06 • 1d ago
 
 ---
 
@@ -308,7 +266,37 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 813 • 💬 644 • ⏱️ 30:15 • 1d ago
+👁️ 14K • 👍 813 • 💬 596 • ⏱️ 30:15 • 1d ago
+
+---
+
+**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
+
+Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
+
+📺 More Crypto Online
+
+👁️ 6K • 👍 181 • 💬 6 • ⏱️ 6:45 • 1d ago
+
+---
+
+**[BMNR&#39;s Ethereum Strategy: What You Need to Know](https://www.youtube.com/watch?v=vvYaQlLE1bk)**
+
+BitMine Ethereum treasury growth is reshaping the company. We analyze the catalysts driving this massive shift in asset value.
+
+📺 Cryptobud
+
+👁️ 5K • 👍 66 • 💬 5 • ⏱️ 9:14 • 20h ago
+
+---
+
+**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
+
+BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 14K • 👍 375 • 💬 381 • ⏱️ 22:13 • 20h ago
 
 ---
 
@@ -318,7 +306,17 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 921 • 💬 381 • ⏱️ 31:53 • 2d ago
+👁️ 15K • 👍 924 • 💬 380 • ⏱️ 31:53 • 2d ago
+
+---
+
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+
+1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 498 • 💬 22 • ⏱️ 13:52 • 1d ago
 
 ---
 
@@ -328,7 +326,7 @@ Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Eth
 
 📺 ETHGlobal
 
-👁️ 541 • 👍 7 • 💬 1 • ⏱️ 33:36 • 1d ago
+👁️ 553 • 👍 7 • 💬 1 • ⏱️ 33:36 • 1d ago
 
 ---
 
