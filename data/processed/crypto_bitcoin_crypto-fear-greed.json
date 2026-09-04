@@ -1,13 +1,8 @@
 {
-  "current_value": 65,
+  "current_value": 74,
   "current_classification": "Greed",
-  "current_timestamp": 1788393600,
+  "current_timestamp": 1788480000,
   "historical": [
-    {
-      "value": 55,
-      "timestamp": 1756857600,
-      "classification": "Greed"
-    },
     {
       "value": 51,
       "timestamp": 1756944000,
@@ -1832,7 +1827,12 @@
       "value": 65,
       "timestamp": 1788393600,
       "classification": "Greed"
+    },
+    {
+      "value": 74,
+      "timestamp": 1788480000,
+      "classification": "Greed"
     }
   ],
-  "fetched_at": "2026-09-03T23:48:33.895562+00:00"
+  "fetched_at": "2026-09-04T08:09:11.515001+00:00"
 }

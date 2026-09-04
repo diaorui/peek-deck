@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T03:15:36.922508+00:00'
+updated: '2026-09-04T08:09:41.151465+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 03:15 UTC  
+**Last Updated:** September 04, 2026 at 08:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,25 +116,25 @@ Medtronic • 2d ago
 
 ---
 
-**['Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.](https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9)**
+**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
 
-UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
+The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-Business Insider • 12h ago
-
----
-
-**[Top 10 robotics stories of August 2026](https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/)**
-
-August 2026's top 10 included stories on large funding rounds, updates in the humanoid robot industry, and the latest AI models.
-
-The Robot Report • 2d ago
+CNBC • 3d ago
 
 ---
 
 **[OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One](https://www.forbes.com/sites/johnkoetsier/2026/09/03/openai-is-making-a-humanoid-robot-everyone-should-have-one/)**
 
-Forbes • 7h ago
+Forbes • 12h ago
+
+---
+
+**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+
+The country is using its superpower of scaling and building supply chains to challenge the global industry
+
+Financial Times • 2d ago
 
 ---
 
@@ -146,31 +146,31 @@ The Verge • 2d ago
 
 ---
 
-**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
-
-The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
-
-CNBC • 2d ago
-
----
-
-**[The Best Way to Explore Lunar Craters Is a Giant Robot Ball](https://spectrum.ieee.org/moon-ball-robot)**
-
-RoboBall can go anywhere on the Moon, as long as it’s mostly downhill
-
-IEEE Spectrum • 1d ago
-
----
-
 **[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
 
-Block Club Chicago • 14h ago
+blockclubchicago.org • 19h ago
 
 ---
 
 **[Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI](https://www.nscale.com/press-releases/nscale-and-figure)**
 
-Nscale • 11h ago
+Nscale • 16h ago
+
+---
+
+**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
+
+Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
+
+Seeking Alpha • 11h ago
+
+---
+
+**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
+
+Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
+
+MedTech Dive • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Nscale • 11h ago
 
 Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
 
-Yahoo • 22h ago
+Yahoo • 1d ago
 
 ---
 
@@ -186,13 +186,23 @@ Yahoo • 22h ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+
+📺 Associated Press
+
+👁️ 174K • 👍 3K • 💬 1K • ⏱️ 1:39 • 2d ago
+
+---
+
 **[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
 
 Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
 
 📺 CNET
 
-👁️ 76K • 👍 360 • 💬 36 • ⏱️ 1:49 • 4d ago
+👁️ 77K • 👍 360 • 💬 36 • ⏱️ 1:49 • 4d ago
 
 ---
 
@@ -202,7 +212,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 136K • 👍 1K • 💬 202 • ⏱️ 12:56 • 3d ago
+👁️ 138K • 👍 1K • 💬 203 • ⏱️ 12:56 • 3d ago
 
 ---
 
@@ -212,7 +222,7 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 📺 NBC News
 
-👁️ 38K • 👍 250 • 💬 94 • ⏱️ 6:47 • 6d ago
+👁️ 39K • 👍 255 • 💬 94 • ⏱️ 6:47 • 6d ago
 
 ---
 
@@ -226,13 +236,33 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 ---
 
-**[The World&#39;s Fastest humanoid Robot Tried To Sprint!](https://www.youtube.com/watch?v=TNUtJCRf714)**
+**[The Robotics Breakthrough Everyone Has Been Waiting For](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
 
-A humanoid robot takes on the 100-meter dash track at the World Humanoid Robot Games! Watch this incredible display of ...
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
 
-📺 NeuraX
+📺 bycloud
 
-👁️ 42K • 💬 15 • ⏱️ 0:12 • 5d ago
+👁️ 175K • 👍 4K • 💬 400 • ⏱️ 15:41 • 1d ago
+
+---
+
+**[UNSTOPPABLE: Ukraine Unleashes a FULL ROBOT ARMY on the Frontline](https://www.youtube.com/watch?v=lgdM6yEijHo)**
+
+The nature of warfare has permanently changed. In a historic military milestone, Ukraine has completely redefined the battlefield ...
+
+📺 The Geo Network
+
+👁️ 200K • 👍 3K • 💬 186 • ⏱️ 15:16 • 4d ago
+
+---
+
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
+
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+
+📺 AP Archive
+
+👁️ 123K • 👍 321 • 💬 201 • ⏱️ 0:53 • 4d ago
 
 ---
 
@@ -246,43 +276,13 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
-
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
-
-📺 AP Archive
-
-👁️ 122K • 👍 320 • 💬 201 • ⏱️ 0:53 • 4d ago
-
----
-
 **[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
 
 From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
 
 📺 fastwit
 
-👁️ 782K • 👍 7K • 💬 20 • ⏱️ 1:01 • 5d ago
-
----
-
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
-
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
-
-📺 Carros Show
-
-👁️ 39K • 👍 283 • 💬 38 • ⏱️ 19:36 • 3d ago
-
----
-
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
-
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
-
-📺 Tum Tum
-
-👁️ 355K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
+👁️ 820K • 👍 8K • 💬 21 • ⏱️ 1:01 • 5d ago
 
 ---
 

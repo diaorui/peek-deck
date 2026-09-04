@@ -9,30 +9,70 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "pub_date": 1788480363.0,
+      "pub_date": 1788480364.0,
       "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "A horde of AI agents conspired against their creators",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkNPbEFBMTRkMUhDVEtVaG03dDZLM2xkVzZxbWlZTTNmLWM5ZEJ2dWpTaUNQbnltT3I2cUNtZzdvLXU1YXJlOVBUdnVYcmZiM1dtV1J2cGhobkNsYWp3TVJ4ZzFvYlg4YkZIdjlRbWMtam5UNFRQbWRqcndrTUpEY20waVB5bWRzdlRqRjIzcW90Sm1GeEM0RmRvOTgzdkV1T0VxelpOWGhIOER1blVlaXVLaw?oc=5",
-      "pub_date": 1788440934.0,
-      "article_url": "https://www.economist.com/science-and-technology/2026/09/03/a-horde-of-ai-agents-conspired-against-their-creators",
+      "headline": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
+      "pub_date": 1788437066.0,
+      "article_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
+      "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\""
+    },
+    {
+      "headline": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "pub_date": 1788437991.0,
+      "article_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI agents aren\u2019t ready to replace humans in behavioral research",
-      "source": "Science News",
-      "source_url": "https://www.sciencenews.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VTl5OC1aZS0zM2pmTVFyZWpncnM5QzZBZmUwTDBEWmF2VGdicDhxMGFYZXdwREJ2UERFS3phSUdoRlFBZ2d6X1hEMm0wN1FzR0dKdHkyVkJOYkQ4UjhfV3N5OFU5TDktNXBLeEZqdzJKV0RNT01QZw?oc=5",
-      "pub_date": 1788463865.0,
-      "article_url": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
-      "description": "A new study finds that digital twins don\u2019t yet replicate the views of the individuals they are modeled after."
+      "headline": "Nvidia is driving the AI boom. Good",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
+      "pub_date": 1788429471.0,
+      "article_url": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018The End of Times\u2019 Is an AI-Assisted Film Essay on Trauma That Wants to \u201cPoliticize Mental Illness\u201d (Exclusive Venice Trailer)",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejVCRldfT2xBQjZMN0J6OWd1S1pHdlQ5cXRZcUlkSkN0azhxeDJQYTNCLWw2SFZPM1JYWGliVmlkUFVqb3RDdl9KODlTVXUzMUphamctMDVuV2xSVGU2WGRlM292M2NpWGs5Mi1lUVNGXzVfY1c5c0IwMDJfcWJXOER4SGNEOV94ckNxaEdSaFYzOHR2TndhOFdGRmtYNVFQSXhpMW83azR2dm9rdWxrWXdDV0pJZXlJMldPbW9Vckc?oc=5",
+      "pub_date": 1788505244.0,
+      "article_url": "https://www.hollywoodreporter.com/movies/movie-news/the-end-of-times-film-trailer-trauma-ai-venice-critics-week-1236684233/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-End-of-Times.webp?w=1000&h=667&crop=1",
+      "description": "Salom\u00e9 searches through decades of family footage for the reasons for her mother\u2019s sadness in Bibiana Rojas G\u00f3mez and Juan David C\u00e1rdenas Maldonado's film, premiering in the Venice Critics' Week."
+    },
+    {
+      "headline": "I own a baklava bakery in SF. The city's AI boom has made life as a small-business owner more difficult.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkdrcFNZWGhqbTJacnU1T09YTVVoY3lONkp0Wm5Gemh5RmpZejVHX01acEVfeDZVakJzWnExaVBza3J5OHFxbHBoWGhzZktSZVRyVTJMeDFQV2RCY0RzNzkwaEtWX3oxSjlXYk1pelcxY0ZKbHlRaVVORWxVbC1ENTQxTHA2X3NpcEktalU2UkVidGFRSm1SOW5nUUM?oc=5",
+      "pub_date": 1788507739.0,
+      "article_url": "https://www.businessinsider.com/san-francisco-baklava-bakery-owner-hustle-culture-ai-boom-2026-9",
+      "image": "https://i.insider.com/6a9a6b5c799bd8525cffd92a?width=1200&format=jpeg",
+      "description": "Tolgay Karabulut has run a small baklava bakery in San Francisco since 2022. The city's AI boom has made earning a living feel like an uphill battle."
+    },
+    {
+      "headline": "\u2018I don\u2019t think there\u2019s a floor\u2019: Workers\u2019 share of America\u2019s income is at a record low before the AI boom even begins",
+      "source": "fortune.com",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsWDJHZHUyU0wyVDBRd3d0TnlKb3gyZXFUNk02T20wU21iblpvWFJ1cnV6YUJ1bHFLamVWaUxpb2J6a1RKY21NNjVfWTdVUU56dHlkRVYtNHFYak1xOTZ2X3E1anJ0OFFKYjg0?oc=5",
+      "pub_date": 1788507000.0,
+      "article_url": "https://fortune.com/2026/09/04/ai-productivity-labor-share/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292531236.jpg?resize=1200,600",
+      "description": "EY-Parthenon chief economist Gregory Daco says that the economy\u2019s surprising productivity gains so far predate AI."
     },
     {
       "headline": "GPT-6 Astra: A new generation of intelligence",
@@ -55,56 +95,16 @@
       "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra."
     },
     {
-      "headline": "OpenAI\u2019s president claims AI is as capable as humans now",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
-      "pub_date": 1788486475.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQ4HZKSH74I7DIIZQV6NFP2P2Q_size-normalized.jpg&w=1440",
-      "description": "Greg Brockman made the claim as the company prepares to release a powerful new model to power ChatGPT."
-    },
-    {
-      "headline": "UVU students use AI to develop toothpaste business",
-      "source": "KSL News",
-      "source_url": "https://www.ksl.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXBRbWJ5VDlmWEhGZnM4dDZfN2xTaGlhS0paQ2pTNkVtYU1GcHBLZW1zZEJYTFVZUXlGSElmV19WOW0xQzR5ajliM0VTdkhRM1FIN0hCcndRTlJPMmFnYU9zRjVpdlNocWwwdjZ0N2dtUllMTWp5ckdYamdKZzR0TnZDdjNTRmFnRUg5ZDcyTkE?oc=5",
-      "pub_date": 1788489415.0,
-      "article_url": "https://www.ksl.com/article/51619798/uvu-students-use-ai-to-develop-toothpaste-business",
-      "image": "https://img.ksl.com/slc/3200/320045/32004596.jpg?filter=kslv2/responsive_story_lg",
-      "description": "Two brothers in UVU's first applied artificial intelligence master's cohort are using AI to research, develop and launch a toothpaste business while emphasizing the importance of human oversight."
-    },
-    {
-      "headline": "Zuckerberg opposed White House AI proposal in private call with Trump",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0k5S3hIY1doMHVHeFNjRWFZOURRMVlmYmZpcWNZSV9Hc2RzTURGZGJjVVRzRVpabXNmWExEZElJVTB3dGxBWjNhclJGUGdYZ2Z2YjAzODc2NjVxcm5CZk9PSk9PWnE0Sl80cGdUNVJqeTFBdmV2d19fbjZmQVF3eWQyRXpReW9yNG5rT2Fqd2ZDUjIwOVBz?oc=5",
-      "pub_date": 1788460363.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-said-national-ai-183243835.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c0ed8ff956c3683abc680da7baeb5a6d6aa480a25002bc7ab6f10fdbdfcc8470/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F62cc08a0-8a79-11f0-bd9b-78d60487d773",
-      "description": "The Trump administration is now considering both a FINRA-style approach and David Sacks' industry-led approach as potential paths forward."
-    },
-    {
-      "headline": "US urged to consider military strikes to stop China achieving AGI first",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjJHZUFIUWRwN2JDTUxTZkNETk9FTWk4ZTRNNEpPd1l6SWxLZW5GT3UwVVpJcFNGaXNlVURJeGxpZWVjVFp0dFhHSXlNbXhiQWd5WlM4MV9Sc3M2OTZXX3VvOXNhUVJiNmpmZTZiVTFfa3hZT1JEYnNYM0UzVGllaXAyTUJIcDRHQk9JQVN1N1hiZmIyWC00dnlseW0yQmlxYVlkTlFVVWtPZG5WejVF0gGvAUFVX3lxTE5xSmw3anRkQnlvOGZ6eEJtaTlxUnhqRmg2YVE3clFsaWVBQUJqMXk1MlE3OEVvZGpOektYTUlsakhtT3lhNHg3dThzVkNVam9qR0RRbS1WVXN4Z1gxSDdfcU1tR0FCaVlWUXJodUFZREprOFhTbGVYVjFRUUhYZmQ3U3Y2dXFhY01JWUxiTElTbE1ZNzZ3LXNYX1ZPSFp5X19JMWhBRmFNVUhzS25CTnc?oc=5",
-      "pub_date": 1788473613.0,
-      "article_url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "5 amazing visuals show how the male fruit fly\u2019s brain map is advancing neuroscience",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEg3SF9ZOTZnNjFwZGIwYjJuQ1FBZm9vMEVKSmFBOFdscE9uTFFvTkpjOFVwbDQ0RG80anpwdHJoRjJPYjV1SGloNDJtWk9OUnltRVdjQVJidTBlZnFSdkxmRHZUcFA3ZTl5ZFBrS3FFMHZYTEJUYmpJMHIwYUhBUlY1SHdIRm5SYVJ3?oc=5",
-      "pub_date": 1788448181.0,
-      "article_url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_social.width-1300.png",
-      "description": "HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science."
+      "headline": "OpenAI says it has overtaken Anthropic with its latest AI model",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
+      "pub_date": 1788458411.0,
+      "article_url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbf5e540-21c2-4e49-9c0a-a7f23783d2be.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "ChatGPT maker claims its \u2018Astra\u2019 could be considered \u2018artificial general intelligence\u2019"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T03:15:35.321354+00:00"
+  "fetched_at": "2026-09-04T08:09:28.770787+00:00"
 }

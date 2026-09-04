@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 770,
+      "upvotes": 772,
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2608.27529",
       "arxiv_url": "https://arxiv.org/abs/2608.27529",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27529.png",
-      "upvotes": 32,
+      "upvotes": 33,
       "num_comments": 4,
       "published_at": "2026-08-26T20:00:00.000Z",
       "github_repo": "https://github.com/amap-cvlab/ABot-Recon",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-04T03:15:14.195021+00:00"
+  "fetched_at": "2026-09-04T08:09:22.033529+00:00"
 }
