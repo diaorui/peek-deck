@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-04T21:40:34.167325+00:00'
+updated: '2026-09-04T23:46:39.854407+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 21:40 UTC  
+**Last Updated:** September 04, 2026 at 23:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,515.42
+### $79,709.28
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.6%  
-**7d:** +2.0%  
-**30d:** +24.1%  
-**90d:** +26.0%  
-**1y:** -27.8%  
+**7d:** +1.8%  
+**30d:** +23.9%  
+**90d:** +25.9%  
+**1y:** -27.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1602.53B
+**Market Cap:** $1600.04B
 Rank #1
 
 **Circulating Supply:** 20,079,703 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.7%
+-36.8%
 
 **All-Time Low:** $67.81
-+117587.7%
++117407.7%
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Give me $77000 worth of btc then](https://www.reddit.com/r/Bitcoin/comments/1w5q4ai/give_me_77000_worth_of_btc_then/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -151,13 +151,21 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
 **[Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.](https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8)**
 
-Barron's • 7h ago
+Barron's • 10h ago
+
+---
+
+**[Crypto Money Still Matters for the Midterms](https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/)**
+
+The industry is a surprising top spender in the races.
+
+The Atlantic • 1h ago
 
 ---
 
@@ -165,35 +173,7 @@ Barron's • 7h ago
 
 Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Failed To Mount A Convincing Recovery After Quick Drop](https://www.forbes.com/sites/digital-assets/2026/09/04/bitcoin-failed-to-mount-a-convincing-recovery-after-tquick-drop/)**
-
-forbes.com • 50m ago
-
----
-
-**[Increased buying activity around bitcoin will benefit Robinhood and Coinbase, says Needham's Todaro](https://www.cnbc.com/video/2026/09/04/increased-buying-activity-around-bitcoin-will-benefit-robinhood-and-coinbase-says-needhams-todaro.html)**
-
-John Todaro, Needham analyst, joins 'Closing Bell Overtime' to talk Robinhood, the rally in bitcoin, AI stocks, and more.
-
-CNBC • 20m ago
-
----
-
-**[Live updates: Bitcoin tumbles after blowout August jobs print](https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january)**
-
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
-
-Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
-
-CNBC • 9h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -201,21 +181,43 @@ CNBC • 9h ago
 
 Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-Fortune • 1h ago
+Fortune • 3h ago
+
+---
+
+**[Live updates: Bitcoin tumbles after blowout August jobs print](https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january)**
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+
+Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
+
+CNBC • 11h ago
+
+---
+
+**[Bitcoin tops $80,000: 'Crypto winter is close to being over'](https://finance.yahoo.com/markets/article/bitcoin-tops-80000-crypto-winter-is-close-to-being-over-173224980.html)**
+
+Investors see hopeful signs that bitcoin could buck a trend of historically weak performance in September.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments](https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940)**
+
+The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday.
+
+Investopedia • 1d ago
 
 ---
 
 **[Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets](https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets)**
 
-Bloomberg.com • 8h ago
-
----
-
-**[El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says](https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535)**
-
-IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
-
-The Block • 10h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -233,7 +235,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 22h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 1d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -261,13 +263,13 @@ COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed p
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 5](https://news.ycombinator.com/item?id=49569992)**
 
-⬆️ 1 • 💬 0 • 57m ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-5-14a57515ad40)
+⬆️ 1 • 💬 0 • 3h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-5-14a57515ad40)
 
 ---
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
 
-⬆️ 1 • 💬 0 • 23h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
+⬆️ 1 • 💬 0 • 1d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
 
 ---
 
@@ -301,7 +303,7 @@ BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
 
 📺 BRITISH HODL
 
-👁️ 17K • 👍 741 • 💬 125 • ⏱️ 12:21 • 21h ago
+👁️ 18K • 👍 749 • 💬 126 • ⏱️ 12:21 • 23h ago
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 51K • 👍 2K • 💬 206 • ⏱️ 15:19 • 23h ago
+👁️ 53K • 👍 2K • 💬 205 • ⏱️ 15:19 • 1d ago
 
 ---
 
@@ -321,27 +323,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 22K • 👍 1K • 💬 504 • ⏱️ 7:52 • 1d ago
-
----
-
-**[CRYPTO JUMPS: Bitcoin hits 3-month high](https://www.youtube.com/watch?v=IEdwapdqvJc)**
-
-Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earnings-fueled rally and the broader technology ...
-
-📺 Fox Business Clips
-
-👁️ 10K • 👍 66 • 💬 154 • ⏱️ 3:22 • 22h ago
-
----
-
-**[The $40T DEBT SPIRAL Will FORCE Bitcoin to EXPLODE FASTER Thank You Think!!! | EP 1584](https://www.youtube.com/watch?v=9k7945MAxeE)**
-
-Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but what is driving this rally? the answer might surprise ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 315 • 💬 84 • ⏱️ 1:05:04 • 1d ago
+👁️ 22K • 👍 1K • 💬 506 • ⏱️ 7:52 • 1d ago
 
 ---
 
@@ -351,7 +333,17 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 11K • 👍 531 • 💬 61 • ⏱️ 25:41 • 9h ago
+👁️ 14K • 👍 548 • 💬 65 • ⏱️ 25:41 • 11h ago
+
+---
+
+**[CRYPTO JUMPS: Bitcoin hits 3-month high](https://www.youtube.com/watch?v=IEdwapdqvJc)**
+
+Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earnings-fueled rally and the broader technology ...
+
+📺 Fox Business Clips
+
+👁️ 10K • 👍 66 • 💬 155 • ⏱️ 3:22 • 1d ago
 
 ---
 
@@ -361,27 +353,37 @@ Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennife
 
 📺 CoinDesk
 
-👁️ 25K • 👍 326 • 💬 104 • ⏱️ 15:14 • 1d ago
+👁️ 26K • 👍 342 • 💬 104 • ⏱️ 15:14 • 1d ago
 
 ---
 
-**[HOLY SH*T BITCOIN IS CLOSE](https://www.youtube.com/watch?v=EcOLAwgQ7Hs)**
+**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
 
-📺 My Financial Friend
+📺 Swan Bitcoin
 
-👁️ 9K • 👍 295 • 💬 151 • ⏱️ 8:03 • 1d ago
+👁️ 23K • 👍 775 • 💬 143 • ⏱️ 13:01 • 1d ago
 
 ---
 
-**[Bitcoin Is At A THE Moment — $100K Could Come FAST! (Here’s The Catch)](https://www.youtube.com/watch?v=9cegChAbvAg)**
+**[Bitcoin: This Is So Close To Ending (but don’t get complacent)](https://www.youtube.com/watch?v=wFnQk3cUw2A)**
 
-Thanks Coinbase for sponsoring this Bitcoin and crypto video. Get up to 250 USDC in rewards through my link!
+NEW SUBSTACK VIDEO REPORTS ARE HERE (SUBSCRIBE FOR UPDATES) → https://substack.com/@theinvestoraccelerator ...
 
-📺 Crypto Capital Venture
+📺 Jason Pizzino
 
-👁️ 32K • 👍 640 • 💬 534 • ⏱️ 11:36 • 2d ago
+👁️ 40K • 👍 1K • 💬 148 • ⏱️ 28:58 • 21h ago
+
+---
+
+**[IT&#39;S OVER!!! BITCOIN BEARS ARE GETTING SH****D ON](https://www.youtube.com/watch?v=NgWeS3NDTug)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 21K • 👍 853 • 💬 492 • ⏱️ 9:46 • 1d ago
 
 ---
 
