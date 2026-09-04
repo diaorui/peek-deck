@@ -5,14 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "pub_date": 1788519617.0,
+      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
       "pub_date": 1788480364.0,
       "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWEySmVvRm9LcXY3LTllcUVZTFhBX2h1dGZzeklKYWRpaEhEQVhWMWFRZkcyQWFueFhxVGxjVGFGREpFQk91TVdzbkRHSGZLZTV2QmpEUzJPTlV5dXBlaWVSeGlrNy1sanl1WkwwdTZKMFRWMDctZnZiN1BqaFg3S2NLaHp4eGg0aXY1dEpiMHpvZmp2WXN6THZ3dF9rTnBBZ0JBZk44bw?oc=5",
+      "pub_date": 1788519600.0,
+      "article_url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-sam-altman-ww-1713-bccc39.jpg",
+      "description": "The five state legislators who authored the country\u2019s most significant AI regulations say frontier AI companies must work together to \u201cpace\u201d the speed of AI development."
     },
     {
       "headline": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
@@ -26,7 +46,7 @@
     },
     {
       "headline": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
       "pub_date": 1788437991.0,
@@ -35,76 +55,56 @@
       "description": null
     },
     {
-      "headline": "Nvidia is driving the AI boom. Good",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
-      "pub_date": 1788429471.0,
-      "article_url": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
-      "image": null,
-      "description": null
+      "headline": "Not Nvidia. Not Palantir. This AI Stock Could Have the Most Upside.",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWF5bVptZnUtcTRpb2tiSnQ2am9CQ1QyTlFEa1dEaVktQUloTVVNRzhvN3VyalhDZVJ2M3FmUkk0NkVaMmRVSFluUWtsUlUxdUdhTGozMmIzck1yTGZXMkVnXzgyeldVSUdPVnhDdTdSWVlTSW5FQWFmSEZ0VXFCZ2VWa25JLVMweVVGRkcwOERDXzJEQ1JpOQ?oc=5",
+      "pub_date": 1788521001.0,
+      "article_url": "https://www.fool.com/investing/2026/09/04/not-nvidia-not-palantir-this-ai-stock-could-have-t/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885644%2Fgettyimages-157741219-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "Investors must weigh risk versus reward for this promising AI stock."
     },
     {
-      "headline": "\u2018The End of Times\u2019 Is an AI-Assisted Film Essay on Trauma That Wants to \u201cPoliticize Mental Illness\u201d (Exclusive Venice Trailer)",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejVCRldfT2xBQjZMN0J6OWd1S1pHdlQ5cXRZcUlkSkN0azhxeDJQYTNCLWw2SFZPM1JYWGliVmlkUFVqb3RDdl9KODlTVXUzMUphamctMDVuV2xSVGU2WGRlM292M2NpWGs5Mi1lUVNGXzVfY1c5c0IwMDJfcWJXOER4SGNEOV94ckNxaEdSaFYzOHR2TndhOFdGRmtYNVFQSXhpMW83azR2dm9rdWxrWXdDV0pJZXlJMldPbW9Vckc?oc=5",
-      "pub_date": 1788505244.0,
-      "article_url": "https://www.hollywoodreporter.com/movies/movie-news/the-end-of-times-film-trailer-trauma-ai-venice-critics-week-1236684233/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/The-End-of-Times.webp?w=1000&h=667&crop=1",
-      "description": "Salom\u00e9 searches through decades of family footage for the reasons for her mother\u2019s sadness in Bibiana Rojas G\u00f3mez and Juan David C\u00e1rdenas Maldonado's film, premiering in the Venice Critics' Week."
+      "headline": "GOP Nominee Steve Hilton Says He Will 'Ban AI From Deciding Who Gets Fired' Amid AI-Firing Row in California",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDlBcnc0YzR1aXh5UGdfMjlkMWMzTTV4M2lzRHBjMFBWeWJnbmt0VG5IRzVqWGF6U1dseGRtWlljamdNeWU0WURKbXhkRXZ0VEY1LUI2TVcxY184aEdtQUFtTGVnMTdkR1JISkFKYTItRW1YWVdQeFNlSVJUNVRteDJyWncyc2xoZmlsWWZBZkdia2M?oc=5",
+      "pub_date": 1788521469.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/gop-nominee-steve-hilton-says-113109525.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1f92961006c462e53394537c620bfb04978abfda4f5a522f0b38207b8fa4b108/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F6fce8712f10d0fda2dbbe70c4da830b3.jpg",
+      "description": "Political commentator Steve Hilton, who is also running as the Republican nominee for Governor of California, criticized AI-driven workplace firings after a San Francisco worker was allegedly fired by..."
     },
     {
-      "headline": "I own a baklava bakery in SF. The city's AI boom has made life as a small-business owner more difficult.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkdrcFNZWGhqbTJacnU1T09YTVVoY3lONkp0Wm5Gemh5RmpZejVHX01acEVfeDZVakJzWnExaVBza3J5OHFxbHBoWGhzZktSZVRyVTJMeDFQV2RCY0RzNzkwaEtWX3oxSjlXYk1pelcxY0ZKbHlRaVVORWxVbC1ENTQxTHA2X3NpcEktalU2UkVidGFRSm1SOW5nUUM?oc=5",
-      "pub_date": 1788507739.0,
-      "article_url": "https://www.businessinsider.com/san-francisco-baklava-bakery-owner-hustle-culture-ai-boom-2026-9",
-      "image": "https://i.insider.com/6a9a6b5c799bd8525cffd92a?width=1200&format=jpeg",
-      "description": "Tolgay Karabulut has run a small baklava bakery in San Francisco since 2022. The city's AI boom has made earning a living feel like an uphill battle."
+      "headline": "This city is one of the world\u2019s most important AI hubs. It\u2019s not where you\u2019d expect",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UDI3b01qanVXWFV3aGJoTlN3aENvY3RhQ014S0I0TDJHU05QdVdleHJxVUQ1dU5nVlFZenc2TGtPUFlwZzNqR0dzQnZ3QmM0RlZCbVRpUG5NSndjaVFvd1NybzA3NmhRZF82ZE8tQWtOcXFs?oc=5",
+      "pub_date": 1788512429.0,
+      "article_url": "https://www.cnn.com/2026/09/04/tech/toronto-ai-hub-geoffrey-hinton",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-17015484g.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Geoffrey Hinton, a Nobel Prize-winning computer scientist, took a leap in the 1980s \u2014 leaving a well-funded post at Carnegie Mellon University to pursue a little-studied area of machine learning research at the University of Toronto."
     },
     {
-      "headline": "\u2018I don\u2019t think there\u2019s a floor\u2019: Workers\u2019 share of America\u2019s income is at a record low before the AI boom even begins",
-      "source": "fortune.com",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsWDJHZHUyU0wyVDBRd3d0TnlKb3gyZXFUNk02T20wU21iblpvWFJ1cnV6YUJ1bHFLamVWaUxpb2J6a1RKY21NNjVfWTdVUU56dHlkRVYtNHFYak1xOTZ2X3E1anJ0OFFKYjg0?oc=5",
-      "pub_date": 1788507000.0,
-      "article_url": "https://fortune.com/2026/09/04/ai-productivity-labor-share/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2292531236.jpg?resize=1200,600",
-      "description": "EY-Parthenon chief economist Gregory Daco says that the economy\u2019s surprising productivity gains so far predate AI."
+      "headline": "Am I Talking to You, or ChatGPT?",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtIYzVaZ3RrZk5SV2V5Y1B5RHQzdDB3ZkpJOUZOMUtCUWcyM2ZiYWhNZGJOZXNURVplNFVfT0hvcjJfVUhnTmU1VWlMRjVPeXdNLVZmOWtuR3NfZkptUnJMRjJfWWNPVXlELUE0MG92ZVdUR1dpcklRam05SzhHOGhsdGJ0NGtUbXc?oc=5",
+      "pub_date": 1788518899.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
+      "image": "https://cdn.theatlantic.com/thumbor/z7p5dd454q_ltSxT-_KNkBxucdc=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif",
+      "description": "The \u201cDead Internet\u201d theory is back."
     },
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788488470.0,
-      "article_url": "https://openai.com/index/gpt-6-astra/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-      "headline": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5",
-      "pub_date": 1788458402.0,
-      "article_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357917-1788370763021-gettyimages-2292626781-AFP_C77688U.jpeg?v=1788370796&w=1920&h=1080",
-      "description": "OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra."
-    },
-    {
-      "headline": "OpenAI says it has overtaken Anthropic with its latest AI model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFcxemxHOTBaaDF0M1dGZGY2eGwtZE1VQjBkeFVVMnRCbXktam5PVlZnYkxXbGFtcHUzRk1VbjdtdnctOXMySkZiVXlRLUlwY1BfUXJ3VF90OGZNNFZXYWNEdWd3M1JGUXVld044M1F0MGZZemZIRDJLdGpYbHNNblJ2TDE?oc=5",
-      "pub_date": 1788458411.0,
-      "article_url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbf5e540-21c2-4e49-9c0a-a7f23783d2be.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "ChatGPT maker claims its \u2018Astra\u2019 could be considered \u2018artificial general intelligence\u2019"
+      "headline": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5",
+      "pub_date": 1788448236.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+      "description": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T08:09:28.770787+00:00"
+  "fetched_at": "2026-09-04T12:51:29.459797+00:00"
 }

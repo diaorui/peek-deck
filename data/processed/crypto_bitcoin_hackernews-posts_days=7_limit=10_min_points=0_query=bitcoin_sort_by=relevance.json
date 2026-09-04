@@ -33,20 +33,6 @@
       "site_name": "American Buildout"
     },
     {
-      "title": "Bitcoin's First Quantum-Safe Transaction Just Happened",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
-      "hn_url": "https://news.ycombinator.com/item?id=49477238",
-      "author": "giuliomagnifico",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-08-28T11:54:17Z",
-      "object_id": "49477238",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/Damian-Chen.jpg",
-      "description": "The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done.",
-      "favicon": "https://cdn-ileamcn.nitrocdn.com/BngESKHdyFjXuZbvyAhEMmtQtwLKSKkU/assets/images/optimized/rev-a8f02c0/bitcoinmagazine.com/wp-content/uploads/2024/09/cropped-Bitcoin-Magazine-glyph-black-01-180x180.png",
-      "site_name": "Bitcoin Magazine"
-    },
-    {
       "title": "Bitcoinica",
       "url": "https://en.bitcoin.it/wiki/Bitcoinica",
       "hn_url": "https://news.ycombinator.com/item?id=49558143",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
       "site_name": "Medium"
+    },
+    {
+      "title": "From Bitcoin Bankruptcy to Data Center Billions in West Texas",
+      "url": "https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/",
+      "hn_url": "https://news.ycombinator.com/item?id=49548221",
+      "author": "newyorkinfra",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-03T10:26:18Z",
+      "object_id": "49548221",
+      "image": "https://res.cloudinary.com/z2tfdfth/image/fetch/f_jpg/https%3A%2F%2Famericanbuildout.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fshutterstock_2666209765-scaled.jpg",
+      "description": "Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.\u00a0 The site is already",
+      "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
+      "site_name": "American Buildout"
     }
   ],
   "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-09-04T08:09:11.979223+00:00"
+  "fetched_at": "2026-09-04T12:51:06.768009+00:00"
 }

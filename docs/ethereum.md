@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-04T08:09:41.148650+00:00'
+updated: '2026-09-04T12:51:46.581416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 08:09 UTC  
+**Last Updated:** September 04, 2026 at 12:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.8%  
-**7d:** +2.0%  
-**30d:** +31.8%  
-**90d:** +48.4%  
-**1y:** -41.8%  
+**24h:** +1.0%  
+**7d:** -0.2%  
+**30d:** +28.9%  
+**90d:** +45.2%  
+**1y:** -43.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.86B
+**Market Cap:** $298.10B
 Rank #2
 
 **Circulating Supply:** 122,018,030 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-50.6%
 
 **All-Time Low:** $0.43
-+578842.6%
++564345.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?
 
-22h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 1d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 2d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I work on the assessment side at a smart contract auditing company. This came out of an audit we did on a governance-approved deployment system on a permissioned chain. The system stores metadata for each approved deployment template: a bytecode hash, a storage layout hash, a link to the audit report, and the source repository commit. On paper, every deployed proxy maps back to reviewed and approved code. At deployment time, nothing checks those fields. The factory resolves the implementation live from the beacon, and the beacon owner can publish a new version at any point after the template was registered. The bytecodeHash field is in storage, but no require statement compares it to address.codehash on what actually gets deployed. After the first beacon upgrade, every new deployment runs code that was never part of the original audit, while the template still points at the old audit URI and the old commit. When we flagged it, the project team didn't start enforcing the hash. They removed the bytecode and storage layout hashes from the template entirely. I'd argue that's more honest than keeping fields that imply verification and deliver none. But what's left is a pipeline where the only governance control is trusting the beacon owner, and the on-chain record of what was audited diverges silently from what's actually running. Regulators running MiCA compliance assessments or CASP license reviews want to see governance over what gets deployed to production. If your template stores an audit reference and an assessor asks whether it's enforced, "recorded but not checked" puts you in a worse position than having no reference at all. The reference misrepresents what the deployed code went through. Open your template registry or deployment manifest. Find the field that references the audit or stores a bytecode hash. Grep for it on the deploy path. If the field is written once at registration and never appears in a require or assert during deployment, you have decorative governance metadata. address.codehash exists on-chain. The check is one comparison. Nobody wrote it. Plenty of governance models handle this off-chain with CI/CD gates, human sign-offs, and change management procedures, and those work for permissioned systems. The gap opens when the on-chain record looks like it provides a guarantee it doesn't, because the next person who reads that template will assume enforcement already happened. If a MiCA license or VARA license assessor asked you to demonstrate that your template's bytecodeHash is enforced at deployment, could you show them the require statement?
 
-3d ago
+4d ago
 
 ---
 
@@ -156,27 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back.
 
-Decrypt • 13h ago
+Decrypt • 18h ago
 
 ---
 
-**[Bitcoin and Ethereum Hit Multi-Month Highs but Traders Cap 2026 Upside Bets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-hit-multi-month-052812793.html)**
+**[Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html)**
 
-Bitcoin and Ethereum jump to multi-month highs, but Polymarket traders give BTC just 32% odds of hitting $100,000 in 2026.
+Bitcoin opened at $77,310.77 on Thursday, September 3, 2026, down 0.1% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin moved up to $77,892.97. Ethereum opened at $2,391.30 today, down 1.1% from Wednesday's open. Ethereum moved up to $2,402.09 as of 7:19 a.m. ET.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
-
-Forbes • 21h ago
-
----
-
-**[APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance](https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance)**
-
-Morningstar • 13h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -188,43 +176,53 @@ Benzinga • 1d ago
 
 ---
 
+**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
+
+forbes.com • 1d ago
+
+---
+
+**[APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance](https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance)**
+
+Morningstar • 17h ago
+
+---
+
+**[ETH News Today: Ethereum Nears $2,400 Amid Fed Pressure as Apeing Nears Its September 8 Crypto Presale Opening at 15:00 UTC](https://markets.businessinsider.com/news/stocks/eth-news-today-ethereum-nears-2-400-amid-fed-pressure-as-apeing-nears-its-september-8-crypto-presale-opening-at-15-00-utc-1036522691)**
+
+NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
+
+markets.businessinsider.com • 26m ago
+
+---
+
+**[This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings](https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/)**
+
+Remixpoint sold $5.5 million of Ethereum, Solana, XRP and Dogecoin while keeping roughly $121 million in Bitcoin.
+
+CryptoSlate • 15h ago
+
+---
+
+**[Ethereum Whale: Offloads 167855 ETH for $408M](https://blockchain.news/flashnews/ethereum-whale-offloads-167855-eth-408m)**
+
+blockchain.news • 11h ago
+
+---
+
 **[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP await US NFP for next directional move](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-await-us-nfp-for-next-directional-move-202609040332)**
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their weekly gains on Friday as traders await the US Nonfarm Payrolls (NFP) report for the next directional catalyst.
 
-FXStreet • 4h ago
+fxstreet.com • 9h ago
 
 ---
 
-**[Where are Crypto Whales Buying Next After Bitcoin’s Rally](https://www.tradingview.com/news/coinpedia:69bc83d36094b:0-where-are-crypto-whales-buying-next-after-bitcoin-s-rally/)**
+**[Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027](https://www.tradingview.com/news/99Bitcoins:d595a9eb7094b:0-elon-musk-grok-ai-predicts-ethereum-price-by-january-1-2027/)**
 
-Bitcoin’s price rally is reshaping the crypto capital rotation trade, with whale activity showing where large holders are positioning beyond BTC. While Bitcoin remains the core institutional asset, Ethereum, Solana, XRP and Hyperliquid are attracting fresh attention as traders seek stronger relativ…
+Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
 
-TradingView • 21h ago
-
----
-
-**[Unipcs: Portfolio Grows $6.3M on 110x Ethereum Token](https://blockchain.news/flashnews/unipcs-portfolio-grows-6-3m-110x-ethereum-token)**
-
-Unipcs portfolio grew $6.3M in one day after 110x return on Ethereum token bought for $67.7K, now valued at $7.52M with $7.45M profit.
-
-blockchain.news • 5h ago
-
----
-
-**[Current price of Ethereum for September 1, 2026](https://fortune.com/article/price-of-ethereum-09-01-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-fortune.com • 2d ago
-
----
-
-**[Crypto News: New Meme Coin Pepeto Announces Approaching 50K Holders as Its Ethereum Crypto Presale Raised $10.92 Million](https://markets.businessinsider.com/news/stocks/crypto-news-new-meme-coin-pepeto-announces-approaching-50k-holders-as-its-ethereum-crypto-presale-raised-10-92-million-1036521424)**
-
-DUBAI, United Arab Emirates, Sept.  04, 2026  (GLOBE NEWSWIRE) -- The biggest crypto news in the presale market today: almost 50,000 wallets now h...
-
-markets.businessinsider.com • 7h ago
+TradingView • 2d ago
 
 ---
 
@@ -232,13 +230,13 @@ markets.businessinsider.com • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+**[I Got Rich Off Ethereum. This Will Be Even Bigger.](https://www.youtube.com/watch?v=4oF8mlB6jIg)**
 
-1️⃣ *   Save 40% code SAVE* ➡https://join.stockmoeacademy.com/join-page 2️⃣ *   *Sign up for Webull's Promo HERE* ...
+Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 ...
 
-📺 Stock Moe
+📺 Altcoin Daily
 
-👁️ 16K • 👍 458 • 💬 18 • ⏱️ 13:52 • 11h ago
+👁️ 88K • 👍 2K • 💬 304 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -248,17 +246,17 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 802 • 💬 759 • ⏱️ 30:15 • 23h ago
+👁️ 14K • 👍 811 • 💬 679 • ⏱️ 30:15 • 1d ago
 
 ---
 
-**[I Got Rich Off Ethereum. This Will Be Even Bigger.](https://www.youtube.com/watch?v=4oF8mlB6jIg)**
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
 
-Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 ...
+1️⃣ *   Save 40% code SAVE* ➡https://join.stockmoeacademy.com/join-page 2️⃣ *   *Sign up for Webull's Promo HERE* ...
 
-📺 Altcoin Daily
+📺 Stock Moe
 
-👁️ 86K • 👍 2K • 💬 387 • ⏱️ 10:50 • 1d ago
+👁️ 18K • 👍 484 • 💬 18 • ⏱️ 13:52 • 16h ago
 
 ---
 
@@ -268,27 +266,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 147 • 💬 30 • ⏱️ 17:06 • 15h ago
-
----
-
-**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
-
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
-
-📺 More Crypto Online
-
-👁️ 4K • 👍 145 • 💬 5 • ⏱️ 6:45 • 10h ago
-
----
-
-**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
-
-BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 310 • 💬 211 • ⏱️ 22:13 • 7h ago
+👁️ 8K • 👍 152 • 💬 24 • ⏱️ 17:06 • 20h ago
 
 ---
 
@@ -298,17 +276,37 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 35K • 👍 503 • 💬 45 • ⏱️ 11:39 • 1d ago
+👁️ 36K • 👍 522 • 💬 46 • ⏱️ 11:39 • 1d ago
 
 ---
 
-**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
+**[BMNR&#39;s Ethereum Strategy: What You Need to Know](https://www.youtube.com/watch?v=vvYaQlLE1bk)**
 
-Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
+BitMine Ethereum treasury growth is reshaping the company. We analyze the catalysts driving this massive shift in asset value.
 
-📺 ETHGlobal
+📺 Cryptobud
 
-👁️ 505 • 👍 7 • 💬 1 • ⏱️ 33:36 • 1d ago
+👁️ 1K • 👍 49 • 💬 3 • ⏱️ 9:14 • 12h ago
+
+---
+
+**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
+
+BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 356 • 💬 264 • ⏱️ 22:13 • 11h ago
+
+---
+
+**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
+
+Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
+
+📺 More Crypto Online
+
+👁️ 5K • 👍 173 • 💬 5 • ⏱️ 6:45 • 15h ago
 
 ---
 
@@ -318,7 +316,7 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 917 • 💬 647 • ⏱️ 31:53 • 1d ago
+👁️ 15K • 👍 918 • 💬 415 • ⏱️ 31:53 • 2d ago
 
 ---
 
@@ -328,7 +326,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 16K • 👍 302 • 💬 185 • ⏱️ 8:53 • 1d ago
+👁️ 16K • 👍 307 • 💬 119 • ⏱️ 8:53 • 1d ago
 
 ---
 
