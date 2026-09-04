@@ -23,8 +23,8 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "hn_url": "https://news.ycombinator.com/item?id=49544762",
       "author": "gmays",
-      "points": 452,
-      "num_comments": 173,
+      "points": 455,
+      "num_comments": 176,
       "created_at": "2026-09-03T01:11:22Z",
       "object_id": "49544762",
       "image": "https://www.kedglobal.com/data/ked/image/2026/07/21/ked202607210032.jpg",
@@ -37,14 +37,28 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "hn_url": "https://news.ycombinator.com/item?id=49563386",
       "author": "DeepLogin",
-      "points": 328,
-      "num_comments": 65,
+      "points": 353,
+      "num_comments": 71,
       "created_at": "2026-09-04T11:59:15Z",
       "object_id": "49563386",
       "image": "https://productrise.app/storage/images/blogs/ai-mode-more-expensive-study-og.jpg",
       "description": "A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.",
       "favicon": "https://productrise.app/favicon.ico",
       "site_name": "Productrise"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49566137",
+      "author": "aaraujo002",
+      "points": 228,
+      "num_comments": 217,
+      "created_at": "2026-09-04T15:33:45Z",
+      "object_id": "49566137",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "nytimes.com"
     },
     {
       "title": "Mamdani bans AI in NYC schools",
@@ -75,20 +89,6 @@
       "site_name": "Multiverse Computing"
     },
     {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49566137",
-      "author": "aaraujo002",
-      "points": 187,
-      "num_comments": 165,
-      "created_at": "2026-09-04T15:33:45Z",
-      "object_id": "49566137",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
-    },
-    {
       "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
       "hn_url": "https://news.ycombinator.com/item?id=49528895",
@@ -107,8 +107,8 @@
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "hn_url": "https://news.ycombinator.com/item?id=49540565",
       "author": "gumby",
-      "points": 177,
-      "num_comments": 115,
+      "points": 178,
+      "num_comments": 116,
       "created_at": "2026-09-02T18:42:41Z",
       "object_id": "49540565",
       "image": "https://miro.medium.com/v2/resize:fit:620/0*6WbrLzQMWCuid50W.jpg",
@@ -121,7 +121,7 @@
       "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "hn_url": "https://news.ycombinator.com/item?id=49562744",
       "author": "negura",
-      "points": 90,
+      "points": 93,
       "num_comments": 2,
       "created_at": "2026-09-04T10:30:57Z",
       "object_id": "49562744",
@@ -145,7 +145,7 @@
       "site_name": "jordangoodman.xyz"
     }
   ],
-  "total_hits": 674,
+  "total_hits": 664,
   "has_metadata": true,
-  "fetched_at": "2026-09-04T19:19:17.663821+00:00"
+  "fetched_at": "2026-09-04T21:40:05.623577+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
-      "pub_date": 1788487322.0,
-      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
-    },
-    {
       "headline": "China\u2019s real robot revolution is not about humanoids",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -25,14 +15,24 @@
       "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
-      "headline": "Opinion | China\u2019s robot revolution may not arrive in the way you expect",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVpNRk5KUU9paDVSdTJMVXBCYkhLTEh2S0FQV3U3Wm5JS1JwWXhLMTFHOXYzS1dqY05pcVYxVDRtdjFoaF9OT0JCbUJDMjBvNGdpY056amI5ckJsamxsX1k0c0luRkl5V0M0MnpEUUVqT0FfN0NuQkk3NTZPTDYtcWVvVlVaYUp6UkwtUU0tUzZ6OWxNN2FObk1RUURkbnpCTW9SaU95c3h6X25KN0l0cFZ30gGyAUFVX3lxTE5aT0tYUXZHTDRXemZkekI3LVUtM3R1NnlmYWNmb2kwQ1dpcE5KZ0dUU0VGVUhremZMU2pKcmtVa1lXb19FUUswXzZNTmMySFVSUlA4VVlIWkdScHU5aVhwR1VnRzRvSUtXZHh2akdUaEcxNktTRmNpZGNocnBoNnB2UVcxYmxya0d0d1VEYVdsM09zX0ZCRWQ5Qk9tQTc4U2wyWUZJcng4ZHNXNlRwa1FBX1E?oc=5",
-      "pub_date": 1788471008.0,
-      "article_url": "https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect",
-      "image": null,
-      "description": null
+      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
+      "pub_date": 1788522420.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
+      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
+    },
+    {
+      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "pub_date": 1788487322.0,
+      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
       "headline": "eCential Robotics Announces Binding Offer from Enovis",
@@ -43,36 +43,6 @@
       "article_url": "https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html",
       "image": "https://mmx.prnewswire.com/media/MS1977812/eCential-Robotics-Platform.jpg?id=OA2921391&p=facebook",
       "description": "/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis\u2122 Corporation (NYSE: ENOV)..."
-    },
-    {
-      "headline": "ARM Institute announces nearly $90M in DoW funding for robotics projects",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnl3Tjc1TU5hR3JxWlZlLUdPd3pGUC1FWEpMY3dGMjJBTkZFQzVzaDhKZjQ4UlVzV0RsTExMVzVKeGwwVDU2emZpN19YR2hXcmxtRTVKSEh3cDRWMkNBcUhrVWJEdWMwaGRtVXJpRmZuRWU2TUQ4dFRJVlVpTU5teWE5UzZWa3lwNXNOcmh4OUtyd1ZDOXYwQQ?oc=5",
-      "pub_date": 1788538235.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/arm-institute-announces-nearly-90m-161035989.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cfdd55cad2a1ece3525708f0b3e303665eeab1a248ea4881342af28ae0925ad2/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2Fe4dedeab668196641483b541e6e1505f.jpg",
-      "description": "The Advanced Robotics for Manufacturing Institute, based in Pittsburgh, announced that it has been awarded upwards of $90 million for ten different projects."
-    },
-    {
-      "headline": "Physical AI Infrastructure Market to Reach $327.21 Billion by 2035 as Robotics and Autonomous Systems Accelerate Global Demand | Research by SNS Insider",
-      "source": "sg.finance.yahoo.com",
-      "source_url": "https://sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjNqMkJRWjNaMTFydVpTVWVWdlk4ZEtMbHYxUHlzSkUzWnYtUkhwY3lYcE5VelBaWTJkSC01T2trNGM5TWFRTTZxUDYtVk03dUMwczk5OWY4M2NLSkFNSlY2S0lpQjBOSHNkeUowd1RTQlE1M3E2VzNyV2RMUUx3OWJjMTNpeng2Q3pHSDRrRmo2dw?oc=5",
-      "pub_date": 1788546600.0,
-      "article_url": "https://sg.finance.yahoo.com/news/physical-ai-infrastructure-market-reach-183000299.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c8dfd933d93cb67f3d180005a7107003e020dca9cc9a1007bf351062dc0dde99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9f4e35b9c0dd2bdaf94af3b38aab30ab.png",
-      "description": "The U.S. Physical AI Infrastructure Market is Projected to Grow from $4.85 Billion in 2025 to $111.04 Billion by 2035, While Europe is Expected to Expand from $3.98 Billion to $79.91 Billion by 2035.Austin, United States, Sept. 04, 2026 (GLOBE NEWSWIRE) -- The Physical AI Infrastructure Market was valued at USD 14.20 Billion in 2025 and is expected to reach USD 327.21 Billion by 2035, growing at a CAGR of 36.91% from 2026 to 2035. The market growth will be fueled by the deployment of artificial"
-    },
-    {
-      "headline": "AGIQUAD Showcases D1 Quadruped Robots at LEAP 2026, Expanding Its Presence in the Middle East",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDFZa09CanZlVktJSmxkbjVuOWtwSFBhbUJzZmV1R09pSm9xV0RwT3RSV0VHTGE5akJmb3ljb3VWcU1xeks1eEFrY0VKUk9YWGY5SUZyQVoxOGF2Z0hnVWQ1VC12eF9LRXkwVkRQcmkwM0JPbWNRN2tNb0tSZjNJenoyckExNnA4RVdscDg5UEZ0NWNWMUIzRnYxREtCT2Z1VlVj?oc=5",
-      "pub_date": 1788541560.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/agiquad-showcases-d1-quadruped-robots-170600757.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/15a0b89f40e1ac84e18edb09805b5c41b538307e54997f8064830e443601be59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fb10055d2fab557f7b65ade9dfbdb5c3b.png",
-      "description": "RIYADH, Saudi Arabia, Sept. 04, 2026 (GLOBE NEWSWIRE) -- AGIQUAD, a developer of embodied intelligence and quadruped robotics solutions, showcased its D1 Series quadruped robots at LEAP 2026 in Riyadh, presenting solutions designed for complex operating environments across the Middle East, including desert and outdoor areas, industrial and energy facilities, and municipal operations. LEAP 2026 brings together technology companies, investors, government representatives and industry leaders from a"
     },
     {
       "headline": "Hear what University of Akron president say about safety and robotics",
@@ -103,8 +73,38 @@
       "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
       "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
       "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+    },
+    {
+      "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVTOXNGSTdHMWIwblFPdkJXYmRReElTMzRKZ3U2VHpnU2xhMEVKNzFPQ29GZlA4NUdaZjRoN2tBOUh0ZUwxNmtRajRBamdiSEVCRTZLUUNnekRkZUJJc3dXVGt3c0s3UTRkNS0xREhqcWV4LXFWUGd0Z0JmakZJVDdMM2pUal84UjJxUmxaX3BWTXBFWTZWR0dRd3BmelFpWXAxZTln?oc=5",
+      "pub_date": 1788464460.0,
+      "article_url": "https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-l52858ztp-1788462169023.jpg?quality=75&strip=all&1788447805&w=1200",
+      "description": "Food delivery start-up Wonder slashed 175 jobs \u2013 or 7% of its workforce \u2013 this week to invest in robotics and automation, the company said."
+    },
+    {
+      "headline": "A robotics company will begin trading on the New York Stock Exchange Sept. 4",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHkzWGhldmM0d1ZCd2ktanRDRU00YzQ2U2dEMVZHMUtNRjB0djhOZUp5UWp5MlJjdHZGVUJyc01YZFF5QlF4R2xJS2Z0cEdYTTdPQXJWN01FWW5NbERYZmRXMTFBVFN0Y0NkNzF2MDk2RkUyZ3VDVkJqWXMzQ3VhcmpZenVNZUdIVlBucTJ2RmRVZFVZV2lQMmdLZzh3NDFBNUZnRmNRdW1JR3lVTjdTSEw1SWJ0TVBlRy15cQ?oc=5",
+      "pub_date": 1788471540.0,
+      "article_url": "https://www.stocktitan.net/news/JFB/xtend-reality-expansion-ltd-and-jfb-construction-holdings-complete-csuw3w5mksdf.html",
+      "image": "https://www.stocktitan.net/news_covers/XTEND_Reality_Expansion_Ltd_and_JFB_Construction_Holdings_Complete_Business_Combination_Raising_1_1501081.webp",
+      "description": "About $67.7M was delivered against a $60M minimum cash obligation, and the funds are expected to support working capital as the combined company operates publicly."
+    },
+    {
+      "headline": "Medtronic invests $700M in Cornerstone Robotics",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzZDMDdtcTZRcWFXT00yMUw3bFJucTREeTlBRjBCcXFHM2xobTctM09VMUVTUlYzNV9saEpTTlh3T0tWd3ltY2pROGdtUHE2UFktNi1jV1ZfY3hSakZITjNKMG43RnMtSkNkUE5raFp2ME9td2tabG1vTU54ckNZWFNnSUUtYVd3ZF9OS3FHMDE?oc=5",
+      "pub_date": 1788357923.0,
+      "article_url": "https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/",
+      "image": "https://imgproxy.divecdn.com/_p4B9rW_Jv5W5LlQTr9Ok2fL4kEEvvFx5KnT7Qmg_Bw/g:nowe:1:59/c:1425:805/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRV9QUkVFRVMuanBn.webp",
+      "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T19:19:44.072050+00:00"
+  "fetched_at": "2026-09-04T21:40:30.016121+00:00"
 }

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-04T19:19:45.741609+00:00'
+updated: '2026-09-04T21:40:34.167325+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 19:19 UTC  
+**Last Updated:** September 04, 2026 at 21:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
+**24h:** -1.6%  
 **7d:** +2.0%  
-**30d:** +24.0%  
+**30d:** +24.1%  
 **90d:** +26.0%  
-**1y:** -27.9%  
+**1y:** -27.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1600.56B
+**Market Cap:** $1602.53B
 Rank #1
 
-**Circulating Supply:** 20,079,618 BTC
+**Circulating Supply:** 20,079,703 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.8%
+-36.7%
 
 **All-Time Low:** $67.81
-+117459.4%
++117587.7%
 
 ---
 
@@ -147,11 +147,45 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's $80,000 breakout just failed after a blowout jobs report](https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html)**
+**[Inside the English soccer club betting its future on Bitcoin](https://www.cnbc.com/video/2026/09/03/inside-the-english-soccer-club-betting-its-future-on-bitcoin.html)**
+
+How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
+
+CNBC • 23h ago
+
+---
+
+**[Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.](https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8)**
+
+Barron's • 7h ago
+
+---
+
+**[Bitcoin's $80,000 breakout failed after a blowout jobs report](https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html)**
 
 Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Failed To Mount A Convincing Recovery After Quick Drop](https://www.forbes.com/sites/digital-assets/2026/09/04/bitcoin-failed-to-mount-a-convincing-recovery-after-tquick-drop/)**
+
+forbes.com • 50m ago
+
+---
+
+**[Increased buying activity around bitcoin will benefit Robinhood and Coinbase, says Needham's Todaro](https://www.cnbc.com/video/2026/09/04/increased-buying-activity-around-bitcoin-will-benefit-robinhood-and-coinbase-says-needhams-todaro.html)**
+
+John Todaro, Needham analyst, joins 'Closing Bell Overtime' to talk Robinhood, the rally in bitcoin, AI stocks, and more.
+
+CNBC • 20m ago
+
+---
+
+**[Live updates: Bitcoin tumbles after blowout August jobs print](https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january)**
+
+CoinDesk • 4h ago
 
 ---
 
@@ -159,31 +193,21 @@ Yahoo Finance • 2h ago
 
 Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
 
-cnbc.com • 7h ago
+CNBC • 9h ago
 
 ---
 
-**[Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller’s Comments](https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940)**
+**[Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines](https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/)**
 
-The price of the world’s most well-known cryptocurrency surged along with major stock indexes Thursday.
+Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-Investopedia • 1d ago
-
----
-
-**[Inside the English soccer club betting its future on Bitcoin](https://www.cnbc.com/video/2026/09/03/inside-the-english-soccer-club-betting-its-future-on-bitcoin.html)**
-
-How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid.
-
-cnbc.com • 21h ago
+Fortune • 1h ago
 
 ---
 
-**[Satoshi-era Bitcoin wallet tied to $293B lawsuit moves $3M after 15 years](https://sg.finance.yahoo.com/news/satoshi-era-bitcoin-wallet-tied-185851576.html)**
+**[Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets](https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets)**
 
-A Bitcoin address untouched since 2011 suddenly sprang to life on Friday, shifting over $3 million in BTC.
-
-sg.finance.yahoo.com • 20m ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -191,35 +215,7 @@ sg.finance.yahoo.com • 20m ago
 
 IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
 
-The Block • 7h ago
-
----
-
-**[IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money](https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money)**
-
-CoinDesk • 9h ago
-
----
-
-**[IMF updates assessment, confirms El Salvador's Bitcoin additions came from donations](https://www.tradingview.com/news/cryptobriefing:5dec8f17a094b:0-imf-updates-assessment-confirms-el-salvador-s-bitcoin-additions-came-from-donations/)**
-
-The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF…
-
-TradingView • 6h ago
-
----
-
-**[Fidelity says Bitcoin can appreciate without taking market share from gold](https://www.tradingview.com/news/cryptobriefing:e32fde710094b:0-fidelity-says-bitcoin-can-appreciate-without-taking-market-share-from-gold/)**
-
-Fidelity Digital Assets wants to settle a debate that has consumed crypto and macro Twitter for years: does Bitcoin need to eat gold's lunch to go up in price? The answer, according to the firm's VP of Research Chris Kuiper, is a clean no.In an updated report titled "Getting Off Zero" for 2026, Fid…
-
-TradingView • 4h ago
-
----
-
-**[El Reno officials admit to enforcement failures surrounding Bitcoin mining facility](https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/)**
-
-KFOR.com • 2d ago
+The Block • 10h ago
 
 ---
 
@@ -237,7 +233,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 20h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 22h ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -263,15 +259,21 @@ COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed p
 
 ---
 
+**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 5](https://news.ycombinator.com/item?id=49569992)**
+
+⬆️ 1 • 💬 0 • 57m ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-5-14a57515ad40)
+
+---
+
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
 
-⬆️ 1 • 💬 0 • 20h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
+⬆️ 1 • 💬 0 • 23h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
 
 ---
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
 
-⬆️ 1 • 💬 0 • 22h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
+⬆️ 1 • 💬 0 • 1d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
 
 ---
 
@@ -285,13 +287,7 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 **[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 2](https://news.ycombinator.com/item?id=49514737)**
 
-⬆️ 1 • 💬 0 • 3d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c)
-
----
-
-**[Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)**
-
-⬆️ 117 • 💬 82 • 1d ago
+⬆️ 1 • 💬 0 • 4d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c)
 
 ---
 
@@ -305,7 +301,7 @@ BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
 
 📺 BRITISH HODL
 
-👁️ 16K • 👍 719 • 💬 141 • ⏱️ 12:21 • 19h ago
+👁️ 17K • 👍 741 • 💬 125 • ⏱️ 12:21 • 21h ago
 
 ---
 
@@ -315,7 +311,7 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 50K • 👍 2K • 💬 233 • ⏱️ 15:19 • 21h ago
+👁️ 51K • 👍 2K • 💬 206 • ⏱️ 15:19 • 23h ago
 
 ---
 
@@ -325,7 +321,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 22K • 👍 1K • 💬 499 • ⏱️ 7:52 • 1d ago
+👁️ 22K • 👍 1K • 💬 504 • ⏱️ 7:52 • 1d ago
 
 ---
 
@@ -335,27 +331,7 @@ Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earni
 
 📺 Fox Business Clips
 
-👁️ 9K • 👍 65 • 💬 172 • ⏱️ 3:22 • 19h ago
-
----
-
-**[THIS WEEKEND DECIDES IF BITCOIN GOES BEAR OR BULL](https://www.youtube.com/watch?v=bru6g57RCt4)**
-
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 8K • 👍 482 • 💬 68 • ⏱️ 25:41 • 7h ago
-
----
-
-**[$1.3 Million Bitcoin Will Be “Relatively Easy,” Says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=64t2om-Ei_c)**
-
-Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennifer Sanasie for a special edition of Markets ...
-
-📺 CoinDesk
-
-👁️ 24K • 👍 312 • 💬 136 • ⏱️ 15:14 • 1d ago
+👁️ 10K • 👍 66 • 💬 154 • ⏱️ 3:22 • 22h ago
 
 ---
 
@@ -365,27 +341,27 @@ Bitcoin price wakes up blasting past $80k as the bears are in disbelief - but wh
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 315 • 💬 124 • ⏱️ 1:05:04 • 1d ago
+👁️ 15K • 👍 315 • 💬 84 • ⏱️ 1:05:04 • 1d ago
 
 ---
 
-**[Bitcoin Is At A THE Moment — $100K Could Come FAST! (Here’s The Catch)](https://www.youtube.com/watch?v=9cegChAbvAg)**
+**[THIS WEEKEND DECIDES IF BITCOIN GOES BEAR OR BULL](https://www.youtube.com/watch?v=bru6g57RCt4)**
 
-Thanks Coinbase for sponsoring this Bitcoin and crypto video. Get up to 250 USDC in rewards through my link!
+TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
 
-📺 Crypto Capital Venture
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 31K • 👍 639 • 💬 535 • ⏱️ 11:36 • 2d ago
+👁️ 11K • 👍 531 • 💬 61 • ⏱️ 25:41 • 9h ago
 
 ---
 
-**[🔴 LIVE TRADING! PUMP OVER? BITCOIN MUST HOLD THIS LEVEL!!!!!](https://www.youtube.com/watch?v=arsRVCc-ukQ)**
+**[$1.3 Million Bitcoin Will Be “Relatively Easy,” Says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=64t2om-Ei_c)**
 
-BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennifer Sanasie for a special edition of Markets ...
 
-📺 Jayson Casper
+📺 CoinDesk
 
-👁️ 2K • 👍 154 • 1h ago
+👁️ 25K • 👍 326 • 💬 104 • ⏱️ 15:14 • 1d ago
 
 ---
 
@@ -395,7 +371,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 293 • 💬 175 • ⏱️ 8:03 • 1d ago
+👁️ 9K • 👍 295 • 💬 151 • ⏱️ 8:03 • 1d ago
+
+---
+
+**[Bitcoin Is At A THE Moment — $100K Could Come FAST! (Here’s The Catch)](https://www.youtube.com/watch?v=9cegChAbvAg)**
+
+Thanks Coinbase for sponsoring this Bitcoin and crypto video. Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 32K • 👍 640 • 💬 534 • ⏱️ 11:36 • 2d ago
+
+---
+
+**[Bitcoin Just Flashed a Signal That Could Trigger a 25% Rally | Mike Belshe](https://www.youtube.com/watch?v=rgzzwv7-gTI)**
+
+Bitcoin #Crypto #finance Bitcoin is nearing a golden cross as ETF inflows and falling USDT dominance point to improving risk ...
+
+📺 The Wolf Of All Streets
+
+👁️ 26K • 👍 635 • 💬 243 • ⏱️ 53:02 • 1d ago
 
 ---
 
