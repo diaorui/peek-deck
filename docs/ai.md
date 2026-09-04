@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-03T23:49:05.212437+00:00'
+updated: '2026-09-04T03:15:36.906494+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 03, 2026 at 23:49 UTC  
+**Last Updated:** September 04, 2026 at 03:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,27 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Nvidia buys Hugging Face for $12.9B - End of neutral AI?](https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/)**
-
-Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Clément Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the "Switzerland of AI," Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC
-
-🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 10h ago
-
----
-
 **[ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?](https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/)**
 
 On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/ai-platform-outages-cloud-infrastructure-vulnerabilities-1808572) • 3h ago
+🔗 [Tech Times UK](https://www.techtimes.co.uk/ai-platform-outages-cloud-infrastructure-vulnerabilities-1808572) • 6h ago
 
 ---
 
-**[NVIDIA's PAIR beta routes local AI work across PCs](https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/)**
+**[Nvidia buys Hugging Face for $12.9B - End of neutral AI?](https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/)**
 
-NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
+Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Clément Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the "Switzerland of AI," Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC
 
-4h ago
+🔗 [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) • 14h ago
 
 ---
 
@@ -65,7 +57,23 @@ NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on 
 
 Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT.
 
-6h ago
+9h ago
+
+---
+
+**[Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion](https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/)**
+
+The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html) • 11m ago
+
+---
+
+**[NVIDIA's PAIR beta routes local AI work across PCs](https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/)**
+
+NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
+
+7h ago
 
 ---
 
@@ -73,15 +81,7 @@ Just a regular smeggular person here asking a question. AI is everywhere now, bu
 
 Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?
 
-8h ago
-
----
-
-**[How sovereign is AI if the GPUs aren’t yours?](https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/)**
-
-I’ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn’t really thought about: National data centre projects are consolidating America’s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there’s a weird contradiction: Local data centre ≠ local AI stack. You can have: local data centre → NVIDIA GPUs → proprietary software → foreign models/tools → foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There’s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I’m wondering whether “on-prem” has become too easy a synonym for “sovereign AI.” At the enterprise level, there are already very different approaches emerging — HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?
-
-9h ago
+12h ago
 
 ---
 
@@ -89,29 +89,31 @@ I’ve been looking more into the hardware side of Sovereign AI, and this FT pie
 
 One thing I’ve noticed with modern AI assistants is that they can sometimes be a little too agreeable. Since they’re built to be helpful, they often go along with what the user is saying instead of pushing back or questioning the idea. Sometimes they’ll validate an assumption or give an answer that feels good to hear, even when a different perspective might be more useful. It makes conversations easier, but it also really makes you wonder if AI should challenge us more instead of always trying to be helpful. Should AI assistants prioritize being agreeable, or should they act more like critical thinking partners? (I prefer them being the latter imo)
 
-25m ago
+3h ago
 
 ---
 
-**[Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7](https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/)**
+**[The Rise and Fall of Agent Civilizations. The whole OpenAI/Hugging Face story in plain English](https://www.reddit.com/r/artificial/comments/1w6sbsa/the_rise_and_fall_of_agent_civilizations_the/)**
 
-1d ago
+The whole OpenAI/Hugging Face story in plain English
 
----
-
-**[How an unsupported tool-call response could become “perfectly stable” in an LLM benchmark](https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/)**
-
-While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren’t supported, but the response parsers could erase them: The OpenAI adapter used message.get("content") or "". A tool-call response with null content would become "". The Anthropic adapter kept only text blocks, dropping tool_use blocks. The scorer excluded explicit errors, but accepted empty strings. Given those samples, the scorer would see identical empty strings: one distinct output, byte-identical results, and mode share 1.0. That would measure the stability of the fallback not the tool calls. To be clear: this was traced in source, not reproduced in a live run. Current request builders never forwarded tools, so existing cases couldn’t reach this path. The maintainer checked all 563 recorded non-error samples: none were empty, and no published benchmark was affected. The fix enforced the documented boundary: reject cases carrying tools, mark empty non-error completions unsupported, and exclude them from successful samples. The broader lesson: preprocessing can erase the behavior you intended to measure. If “unsupported” becomes a valid-looking default, a reassuring score can hide the missing measurement. How do you distinguish unsupported responses, parsing failures, and genuinely empty outputs in your eval pipelines?
-
-5h ago
+🔗 [dwarkesh.com](https://www.dwarkesh.com/p/openai-huggingface) • 17m ago
 
 ---
 
-**[Which 20$ sub is better? Anthropic or OpenAI?](https://www.reddit.com/r/artificial/comments/1w6kohc/which_20_sub_is_better_anthropic_or_openai/)**
+**[Is an MS in AI, paired with niche domain expertise, worthwhile from a career perspective? Or are most AI roles ultimately going to favor candidates with a BS in AI or CS?](https://www.reddit.com/r/artificial/comments/1w6rmq4/is_an_ms_in_ai_paired_with_niche_domain_expertise/)**
 
-I've been building an app that I intend to launch soon, using Codex. I'm terrible with frontend, so I've been using Codex heavily there, but I just haven't been impressed. I've heard a lot of good things about Claude, design-wise. I currently use my OpenAI sub for programming and learning. I've heard bad things about Opus 5 and how it talks, but I couldn't care less as long as it outputs good code. I'm not just using it for frontend; programming-wise, overall architecture and backend as well. I've heard really shitty things about Anthropic and their consumer-facing plans. I've also heard that Anthropic gives much more usage; I'm not really sure which is the right answer. So, which is better: Anthropic or OpenAI?
+I’m trying to better understand what distinguishes the opportunities available to graduate-level AI students, particularly those transitioning from a specialized niche domain expertise in biology. I see many undergraduates competing for AI and ML internships and job opportunities, so I’m curious what the equivalent pathway looks like at the master’s level and whether there are roles where deeper domain expertise provides a meaningful advantage.
 
-2h ago
+50m ago
+
+---
+
+**[How sovereign is AI if the GPUs aren’t yours?](https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/)**
+
+I’ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn’t really thought about: National data centre projects are consolidating America’s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there’s a weird contradiction: Local data centre ≠ local AI stack. You can have: local data centre → NVIDIA GPUs → proprietary software → foreign models/tools → foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There’s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I’m wondering whether “on-prem” has become too easy a synonym for “sovereign AI.” At the enterprise level, there are already very different approaches emerging — HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?
+
+13h ago
 
 ---
 
@@ -119,11 +121,31 @@ I've been building an app that I intend to launch soon, using Codex. I'm terribl
 
 ## Google News: "ai"
 
-**[OpenAI hails ‘new era of artificial general intelligence’ with Astra model release](https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release)**
+**[Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)**
 
-Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’
+The New York Times • 3h ago
 
-The Guardian • 3h ago
+---
+
+**[A horde of AI agents conspired against their creators](https://www.economist.com/science-and-technology/2026/09/03/a-horde-of-ai-agents-conspired-against-their-creators)**
+
+The Economist • 14h ago
+
+---
+
+**[AI agents aren’t ready to replace humans in behavioral research](https://www.sciencenews.org/article/ai-agents-replace-humans-research)**
+
+A new study finds that digital twins don’t yet replicate the views of the individuals they are modeled after.
+
+Science News • 7h ago
+
+---
+
+**[GPT-6 Astra: A new generation of intelligence](https://openai.com/index/gpt-6-astra/)**
+
+Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
+
+OpenAI • 54m ago
 
 ---
 
@@ -131,7 +153,7 @@ The Guardian • 3h ago
 
 OpenAI said companies participating in its application-based cybersecurity program will be first to get access to Astra.
 
-CNBC • 5h ago
+CNBC • 9h ago
 
 ---
 
@@ -143,51 +165,33 @@ The Washington Post • 1h ago
 
 ---
 
-**[Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html)**
+**[UVU students use AI to develop toothpaste business](https://www.ksl.com/article/51619798/uvu-students-use-ai-to-develop-toothpaste-business)**
 
-Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will "expand access to AI for developers and institutions worldwide."
+Two brothers in UVU's first applied artificial intelligence master's cohort are using AI to research, develop and launch a toothpaste business while emphasizing the importance of human oversight.
 
-CNBC • 11h ago
-
----
-
-**[Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face](https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html)**
-
-The New York Times • 11h ago
+KSL News • 38m ago
 
 ---
 
-**[Nvidia is driving the AI boom. Good](https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good)**
+**[Zuckerberg opposed White House AI proposal in private call with Trump](https://www.yahoo.com/news/politics/articles/mark-zuckerberg-said-national-ai-183243835.html)**
 
-The Economist • 13h ago
+The Trump administration is now considering both a FINRA-style approach and David Sacks' industry-led approach as potential paths forward.
 
----
-
-**[Hikers who relied on AI rescued from California mountain](https://ktla.com/news/california/hikers-rescued-mount-shasta-gemini-ai/)**
-
-KTLA • 3h ago
+Yahoo • 8h ago
 
 ---
 
-**[3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta - ABC News](https://abcnews.com/US/3-hikers-ai-plan-trip-rescued-after-becoming/story?id=136176177)**
+**[US urged to consider military strikes to stop China achieving AGI first](https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first)**
 
-Three hikers were rescued on Monday after they became stranded on Mount Shasta near Clear Creek Route.
-
-ABC News - Breaking News, Latest News and Videos • 6h ago
+South China Morning Post • 5h ago
 
 ---
 
-**[3 Men Relied on AI to Plan Their Climbing Trip. They Later Became Stranded and Needed Rescuing](https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474)**
+**[5 amazing visuals show how the male fruit fly’s brain map is advancing neuroscience](https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/)**
 
-Three climbers were rescued after summiting Mount Shasta because they used AI to plan their climbing route.
+HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.
 
-People.com • 44m ago
-
----
-
-**[Watch Alger EVP: Still Massive Opportunity for AI](https://www.bloomberg.com/news/videos/2026-09-03/alger-evp-still-massive-opportunity-for-ai-video)**
-
-Bloomberg.com • 58m ago
+blog.google • 12h ago
 
 ---
 
@@ -197,7 +201,7 @@ Bloomberg.com • 58m ago
 
 **[How accurate have Ed Zitron's AI skeptic predictions been?](https://news.ycombinator.com/item?id=49526069)**
 
-⬆️ 864 • 💬 1035 • 2d ago • [danluu.com](https://danluu.com/zitron/)
+⬆️ 864 • 💬 1036 • 2d ago • [danluu.com](https://danluu.com/zitron/)
 
 ---
 
@@ -205,7 +209,7 @@ Bloomberg.com • 58m ago
 
 Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.
 
-⬆️ 503 • 💬 245 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+⬆️ 503 • 💬 246 • 1d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
 ---
 
@@ -217,9 +221,23 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 ---
 
+**[The largest electric aircraft just flew [video]](https://news.ycombinator.com/item?id=49526453)**
+
+⬆️ 215 • 💬 150 • 2d ago • [youtube.com](https://www.youtube.com/watch?v=nM86DBOqgPM)
+
+---
+
+**[Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://news.ycombinator.com/item?id=49544762)**
+
+Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
+
+⬆️ 212 • 💬 59 • 1d ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
+
+---
+
 **[Mamdani bans AI in NYC schools](https://news.ycombinator.com/item?id=49542443)**
 
-⬆️ 208 • 💬 163 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+⬆️ 210 • 💬 165 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -251,23 +269,7 @@ A Safari extension that pulls videos YouTube labels “Made with AI” out of yo
 
 How a mistake of less than half a millimeter in a single part nearly brought down the world’s largest passenger aircraft.
 
-⬆️ 173 • 💬 108 • 1d ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
-
----
-
-**[Go grandmaster Shin defeats AI KataGo with a two-stone handicap](https://news.ycombinator.com/item?id=49544762)**
-
-Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
-
-⬆️ 166 • 💬 46 • 22h ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
-
----
-
-**[EFF to Courts: Don't Rewrite Copyright over AI Hype](https://news.ycombinator.com/item?id=49521315)**
-
-New markets, new ideas, and new creators are actually what copyright is supposed to promote, not restrict. Using copyright to lock in existing gatekeepers and massive rightsholders’ profits helps neither the public nor individual artists.
-
-⬆️ 163 • 💬 193 • 2d ago • [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype)
+⬆️ 173 • 💬 109 • 1d ago • [Medium](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 
 ---
 
@@ -275,33 +277,23 @@ New markets, new ideas, and new creators are actually what copyright is supposed
 
 ## YouTube Videos: "ai"
 
-**[AI Is Taking Over Physics and Nobody Talks About It](https://www.youtube.com/watch?v=utu5YACZbPE)**
+**[AI News in 5 Mins: GPT-6 Astra](https://www.youtube.com/watch?v=NbUTIFEEXLY)**
 
-Take back your personal data with Incogni! Use code Sabine at the link below and get 60% off annual plans: ...
+My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...
 
-📺 Sabine Hossenfelder
+📺 Nate Herk | AI Automation
 
-👁️ 506K • 👍 9K • 💬 2K • ⏱️ 7:02 • 2d ago
-
----
-
-**[Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI](https://www.youtube.com/watch?v=8Kf1Q0yOhSo)**
-
-Read More: https://time.com/article/2026/08/26/openai-sam-altman-interview/ Inside OpenAI's San Francisco headquarters, Sam ...
-
-📺 TIME
-
-👁️ 131K • 👍 1K • 💬 357 • ⏱️ 14:13 • 2d ago
+👁️ 61K • 👍 942 • 💬 83 • ⏱️ 5:42 • 7h ago
 
 ---
 
-**[The AI Midwit Epidemic](https://www.youtube.com/watch?v=d84mtbzRA8w)**
+**[“When AI takes over the factory 🤖⚙️”](https://www.youtube.com/watch?v=8jNEaf0LJFA)**
 
-Thanks to CASETiFY for sponsoring this video! Check out CASETiFY using my link https://www.casetify.com/colehastings Don't ...
+A futuristic factory where robots and advanced technology are changing the way things are made. The future of ...
 
-📺 Cole Hastings
+📺 ZezX
 
-👁️ 127K • 👍 3K • 💬 570 • ⏱️ 13:47 • 2d ago
+👁️ 13K • 👍 369 • 💬 7 • ⏱️ 0:07 • 9h ago
 
 ---
 
@@ -311,37 +303,37 @@ This week, Donald Trump posted to Truth Social claiming that opponents to AI dat
 
 📺 Stateside Podcast
 
-👁️ 911 • 👍 101 • 💬 7 • ⏱️ 2:10 • 4h ago
+👁️ 2K • 👍 157 • 💬 17 • ⏱️ 2:10 • 8h ago
 
 ---
 
-**[The Most Overhyped and Underhyped New AI Models](https://www.youtube.com/watch?v=Po_Dh7WLgmM)**
+**[Sam Altman Reveals OpenAI’s Plan to Regain Its Lead in AI](https://www.youtube.com/watch?v=8Kf1Q0yOhSo)**
 
-A bunch of new models... Join the free newsletter here: https://futuretools.io/newsletter Discover More: 🛠️ Explore AI Tools ...
+Read More: https://time.com/article/2026/08/26/openai-sam-altman-interview/ Inside OpenAI's San Francisco headquarters, Sam ...
 
-📺 Matt Wolfe
+📺 TIME
 
-👁️ 72K • 👍 1K • 💬 186 • ⏱️ 26:29 • 21h ago
+👁️ 140K • 👍 1K • 💬 379 • ⏱️ 14:13 • 2d ago
 
 ---
 
-**[Mamdani announces ban on AI for young students in NYC public schools](https://www.youtube.com/watch?v=zjpGvPUh0iU)**
+**[&quot;AI Will Crush All Humans&quot;: Elon Musk on Extreme Advancements in AI at G20 Summit - 09/01/26](https://www.youtube.com/watch?v=H0Ap25IOWr8)**
 
-New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th ...
+"AI Will Crush All Humans": Elon Musk on Extreme Advancements in AI at G20 Summit. September 1, 2026 Join this channel to ...
+
+📺 Right Side Broadcasting Network
+
+👁️ 215K • 👍 3K • 💬 1K • ⏱️ 8:45 • 2d ago
+
+---
+
+**[Mamdani announces one-year ban on AI in public schools](https://www.youtube.com/watch?v=gN00hrbdIb0)**
+
+Mamdani announces one-year ban on AI in public schools For more context and news coverage of the most important stories of ...
 
 📺 NBC News
 
-👁️ 350K • 👍 3K • 💬 1K • ⏱️ 3:47 • 1d ago
-
----
-
-**[Artificial intelligence agents going rogue fuel calls for regulation](https://www.youtube.com/watch?v=fDDch9r1gXk)**
-
-Alarms are being sounded again about the risks of artificial intelligence after hundreds of OpenAI's autonomous agents violated ...
-
-📺 PBS NewsHour
-
-👁️ 69K • 👍 534 • ⏱️ 6:31 • 3d ago
+👁️ 229K • 👍 4K • 💬 647 • ⏱️ 0:57 • 1d ago
 
 ---
 
@@ -351,27 +343,37 @@ Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to K
 
 📺 Secular Talk
 
-👁️ 224K • 👍 10K • 💬 3K • ⏱️ 9:18 • 2d ago
+👁️ 230K • 👍 10K • 💬 3K • ⏱️ 9:18 • 2d ago
 
 ---
 
-**[Is It Time to Rage Against the AI Machine?](https://www.youtube.com/watch?v=HWegwD7DCK8)**
+**[Mamdani announces ban on AI for young students in NYC public schools](https://www.youtube.com/watch?v=zjpGvPUh0iU)**
 
-Watch AD FREE here: https://youtu.be/y164r0l8ceY Why is the backlash against data centres becoming one of the most ...
+New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th ...
 
-📺 The Rest Is Politics
+📺 NBC News
 
-👁️ 225K • 👍 2K • 💬 1K • ⏱️ 58:29 • 2d ago
+👁️ 385K • 👍 3K • 💬 1K • ⏱️ 3:47 • 1d ago
 
 ---
 
-**[Apple became an AI company OVERNIGHT...](https://www.youtube.com/watch?v=Dxix8GQD-P4)**
+**[The AI Midwit Epidemic](https://www.youtube.com/watch?v=d84mtbzRA8w)**
 
-Apple just repositioned the Mac as a permanent home for AI agents — a box on your desk that runs intelligence privately, ...
+Thanks to CASETiFY for sponsoring this video! Check out CASETiFY using my link https://www.casetify.com/colehastings Don't ...
 
-📺 Wes Roth
+📺 Cole Hastings
 
-👁️ 104K • 👍 2K • 💬 339 • ⏱️ 12:06 • 2d ago
+👁️ 130K • 👍 3K • 💬 600 • ⏱️ 13:47 • 2d ago
+
+---
+
+**[Ben-Gvir Posts PSYCHO AI Concentration Camp Video](https://www.youtube.com/watch?v=6ZNtGKWuEIs)**
+
+Ryan and Emily discuss Ben Gvir posting an unhinged AI video of Palestinians being sent into concentration camps. Sign Up For ...
+
+📺 Breaking Points
+
+👁️ 174K • 👍 4K • 💬 865 • ⏱️ 8:25 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 151,021 • ❤️ 1,602 • 3d ago
+⬇️ 151,021 • ❤️ 1,618 • 3d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 263,287 • ❤️ 4,796 • 7d ago
+⬇️ 263,287 • ❤️ 4,816 • 7d ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 517,902 • ❤️ 2,010 • 3d ago
+⬇️ 517,902 • ❤️ 2,020 • 3d ago
 
 ---
 
@@ -423,7 +425,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 5,254,882 • ❤️ 13,814 • 20d ago
+⬇️ 5,254,882 • ❤️ 13,840 • 20d ago
 
 ---
 
@@ -435,7 +437,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 54,571 • ❤️ 539 • 2d ago
+⬇️ 54,571 • ❤️ 557 • 2d ago
 
 ---
 
@@ -447,7 +449,7 @@ Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model w
 
 `text-generation` `780.0B`
 
-⬇️ 4,449 • ❤️ 411 • 6d ago
+⬇️ 4,449 • ❤️ 417 • 6d ago
 
 ---
 
@@ -459,7 +461,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,293,463 • ❤️ 2,679 • 2d ago
+⬇️ 1,293,463 • ❤️ 2,698 • 2d ago
 
 ---
 
@@ -471,7 +473,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 46,862 • ❤️ 355 • 1d ago
+⬇️ 46,862 • ❤️ 369 • 1d ago
 
 ---
 
@@ -483,7 +485,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 9,553,042 • ❤️ 3,439 • 14d ago
+⬇️ 9,553,042 • ❤️ 3,449 • 14d ago
 
 ---
 
@@ -495,7 +497,7 @@ Qwen3.8-Flash-Next-GGUF is a highly efficient, multimodal causal language model 
 
 `image-text-to-text` `176.9B`
 
-⬇️ 535,984 • ❤️ 755 • 1d ago
+⬇️ 535,984 • ❤️ 761 • 1d ago
 
 ---
 
@@ -577,7 +579,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 LightNav-0 is a compact generalist navigation model that leverages a pretrained vision-language model’s spatial reasoning via unified pointing tokens and action tokenization to achieve state-of-the-art embodied navigation across diverse tasks and robots.
 
-▲ 27 • 💬 2 • ⭐ 393 • 4d ago
+▲ 28 • 💬 2 • ⭐ 393 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.30935) • [💻 code](https://github.com/lightorigins/LightNav-0) • [🔗 project](https://www.lightorigins.com/en/blog/lightnav-0)
 
@@ -658,7 +660,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.1k • 🔱 496 • 4h ago
+⭐ 4.2k • 🔱 505 • 8h ago
 
 ---
 
@@ -668,27 +670,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 430 • 12h ago
-
----
-
-**[KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)**
-
-让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-`Python` `agent-skills` `chinese-writing` `creative-writing` `writing-skill`
-
-⭐ 3.4k • 🔱 264 • 23d ago
-
----
-
-**[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)**
-
-🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
-
-`HTML`
-
-⭐ 3.3k • 🔱 213 • 10h ago
+⭐ 3.5k • 🔱 433 • 15h ago
 
 ---
 
@@ -698,7 +680,17 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.3k • 🔱 397 • 6d ago
+⭐ 3.4k • 🔱 398 • 6d ago
+
+---
+
+**[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)**
+
+🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
+
+`HTML`
+
+⭐ 3.3k • 🔱 214 • 13h ago
 
 ---
 
@@ -708,7 +700,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 3.0k • 🔱 191 • 14h ago
+⭐ 3.0k • 🔱 194 • 17h ago
 
 ---
 
@@ -718,7 +710,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.6k • 🔱 334 • 8d ago
+⭐ 2.6k • 🔱 336 • 8d ago
 
 ---
 
@@ -728,7 +720,17 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.3k • 🔱 218 • 23h ago
+⭐ 2.3k • 🔱 220 • 1m ago
+
+---
+
+**[Nanako0129/sepia](https://github.com/Nanako0129/sepia)**
+
+De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
+
+`Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
+
+⭐ 1.9k • 🔱 115 • 1h ago
 
 ---
 
@@ -738,7 +740,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 14h ago
+⭐ 1.9k • 🔱 1.3k • 18h ago
 
 ---
 
