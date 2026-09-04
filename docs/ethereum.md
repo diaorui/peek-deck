@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-04T21:40:34.173368+00:00'
+updated: '2026-09-04T23:46:39.860440+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 21:40 UTC  
+**Last Updated:** September 04, 2026 at 23:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,451.84
+### $2,453.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -0.1%  
-**30d:** +29.0%  
-**90d:** +45.3%  
-**1y:** -43.0%  
+**24h:** -1.9%  
+**7d:** -0.2%  
+**30d:** +28.9%  
+**90d:** +45.1%  
+**1y:** -43.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.64B
+**Market Cap:** $299.41B
 Rank #2
 
 **Circulating Supply:** 122,018,030 ETH
@@ -62,7 +62,7 @@ No max supply
 -50.4%
 
 **All-Time Low:** $0.43
-+567047.6%
++566636.5%
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 2d ago
 
 **[Ethereum Lost 2.14% to $2451.77 -- Data Talk](https://www.moomoo.com/news/post/75846599/ethereum-lost-2-14-to-2451-77-data-talk)**
 
-Moomoo • 26m ago
+Moomoo • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Benzinga • 1d ago
 
 **[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
 
-forbes.com • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Morningstar • 1d ago
 
 Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-CryptoSlate • 6h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -206,7 +206,15 @@ CryptoSlate • 6h ago
 
 NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 11h ago
+
+---
+
+**[Robinhood Chain keeps blocks flowing despite 14-minute blob gap on Ethereum](https://cryptobriefing.com/robinhood-chain-blob-gap-ethereum-disruption/)**
+
+Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -214,15 +222,7 @@ markets.businessinsider.com • 9h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
-
----
-
-**[Circle's cirBTC Brings Transparent Wrapped Bitcoin to Ethereum](https://blockchain.news/news/circle-cirbtc-transparent-wrapped-bitcoin)**
-
-Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink.
-
-blockchain.news • 1h ago
+Fortune • 10h ago
 
 ---
 
@@ -236,17 +236,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 92K • 👍 2K • 💬 274 • ⏱️ 10:50 • 1d ago
-
----
-
-**[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 38K • 👍 546 • 💬 46 • ⏱️ 11:39 • 2d ago
+👁️ 93K • 👍 2K • 💬 279 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -256,7 +246,25 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 164 • 💬 70 • ⏱️ 17:06 • 1d ago
+👁️ 9K • 👍 165 • 💬 70 • ⏱️ 17:06 • 1d ago
+
+---
+
+**[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 39K • 👍 546 • 💬 46 • ⏱️ 11:39 • 2d ago
+
+---
+
+**[Everyone wanted to dethrone Ethereum. Watch what happened #ethereum #crypto #solana #altcoins](https://www.youtube.com/watch?v=njF-ywscfj4)**
+
+📺 CoinGecko
+
+👁️ 45 • 👍 2 • 💬 16 • ⏱️ 0:12 • 46m ago
 
 ---
 
@@ -266,7 +274,7 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 813 • 💬 596 • ⏱️ 30:15 • 1d ago
+👁️ 14K • 👍 815 • 💬 596 • ⏱️ 30:15 • 1d ago
 
 ---
 
@@ -280,26 +288,6 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 ---
 
-**[BMNR&#39;s Ethereum Strategy: What You Need to Know](https://www.youtube.com/watch?v=vvYaQlLE1bk)**
-
-BitMine Ethereum treasury growth is reshaping the company. We analyze the catalysts driving this massive shift in asset value.
-
-📺 Cryptobud
-
-👁️ 5K • 👍 66 • 💬 5 • ⏱️ 9:14 • 20h ago
-
----
-
-**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
-
-BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 375 • 💬 381 • ⏱️ 22:13 • 20h ago
-
----
-
 **[Its Game Over For Anyone Not Holding Crypto Bitcoin, Ethereum &amp; XRP Are About To Change Lives](https://www.youtube.com/watch?v=xwC9JD4zq5w)**
 
 Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and XRP would have a positive effect on their ...
@@ -310,23 +298,33 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 ---
 
+**[BMNR&#39;s Ethereum Strategy: What You Need to Know](https://www.youtube.com/watch?v=vvYaQlLE1bk)**
+
+BitMine Ethereum treasury growth is reshaping the company. We analyze the catalysts driving this massive shift in asset value.
+
+📺 Cryptobud
+
+👁️ 6K • 👍 68 • 💬 5 • ⏱️ 9:14 • 23h ago
+
+---
+
 **[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
 
 1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
 
 📺 Stock Moe
 
-👁️ 20K • 👍 498 • 💬 22 • ⏱️ 13:52 • 1d ago
+👁️ 20K • 👍 502 • 💬 21 • ⏱️ 13:52 • 1d ago
 
 ---
 
-**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
+**[BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=X47kPK-QIiI)**
 
-Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
+BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 ETHGlobal
+📺 Crypto World
 
-👁️ 553 • 👍 7 • 💬 1 • ⏱️ 33:36 • 1d ago
+👁️ 14K • 👍 383 • 💬 382 • ⏱️ 22:13 • 22h ago
 
 ---
 

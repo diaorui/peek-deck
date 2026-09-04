@@ -24,6 +24,17 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     },
     {
+      "title": "Study: Generative AI is making writing on Reddit and elsewhere boring",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7imfi/study_generative_ai_is_making_writing_on_reddit/",
+      "published": 1788560042.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Data from a new study published recently in Nature and Arxiv: \"Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity.\" The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: \"While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance.\" Study source data: \"Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv.\" The kicker: \"Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy.\" So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: \"The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models\" and my thoughts on this research."
+    },
+    {
       "title": "Can we all acknoledge how crazy AI is?",
       "author": "AkindaGood_programer",
       "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
@@ -57,6 +68,17 @@
       "description": "I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just \"a prompt\". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio."
     },
     {
+      "title": "Why would you use an AI to write your replies on Reddit?",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/",
+      "published": 1788541501.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they\u2019re still your thoughts. If you aren\u2019t writing your own stuff, there\u2019s not really a point to having an online presence at all, since you don\u2019t have one if someone else is writing your replies for you. I think drafts is a different thing since you\u2019re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I\u2019m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you\u2019re getting it to teach you what and why it\u2019s doing what it\u2019s doing as it\u2019s doing it."
+    },
+    {
       "title": "Automatic AI Responses to Customer Service Issues",
       "author": "Quitelegal",
       "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
@@ -88,29 +110,7 @@
       "site_name": "Tech Times UK",
       "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
-    },
-    {
-      "title": "Has anyone here moved away from OpenCode recently?",
-      "author": "nooxax",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7gpyy/has_anyone_here_moved_away_from_opencode_recently/",
-      "published": 1788555575.0,
-      "thumbnail": "https://preview.redd.it/045sr9khhknh1.png?width=140&height=112&auto=webp&s=0941bc23c077efd945b8ce99d6bd58b3439759b4",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been using OpenCode whenever I don\u2019t have an active ChatGPT or Claude subscription, but lately it\u2019s become much harder to work with. Some of the models I liked most are no longer available, and the overall experience has gotten pretty frustrating for me. I\u2019m curious whether anyone else has moved away from it recently. If so, what did you switch to, and how does it compare in terms of model availability, context handling, coding workflow, and reliability? I\u2019m especially interested in hearing from people who actually used OpenCode for a while rather than just trying it once. https://preview.redd.it/045sr9khhknh1.png?width=780&format=png&auto=webp&s=97c992b4f3f86f521ab0a0566666db1d58a19f99"
-    },
-    {
-      "title": "Do you use AI for mental support? For or against?",
-      "author": "erdematar",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7gh3t/do_you_use_ai_for_mental_support_for_or_against/",
-      "published": 1788555009.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I heard one of my close friend\u2019s friend is using AI as a personal psychiatrist. We were discussing this and I wanted to get Reddit\u2019s opinion, don\u2019t AI give common sense advice? At least it advices to go see a professional in anything serious but it kind of feels pointless. Sharing your mental state and expecting a solution for your problems from an LLM. Does any of you tried using AI in this regard and was it helpful? Lets discuss. As for argument I heard that it relieves to share your problems with someone even if it is an LLM. I have found an article on this if you want to checkout: https://www.sciencedirect.com/science/article/pii/S2949916X24000525"
     }
   ],
-  "fetched_at": "2026-09-04T21:40:06.104005+00:00"
+  "fetched_at": "2026-09-04T23:46:15.426128+00:00"
 }

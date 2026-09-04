@@ -46,7 +46,7 @@
     },
     {
       "headline": "Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH",
-      "source": "forbes.com",
+      "source": "Forbes",
       "source_url": "https://www.forbes.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3VPWTNOQ0NvbHNyeExBdnNXYjZQNjhoamFjNk5HZE9Ea1A2OE56UkdyWmhMTl9qWUpRNUZTeGhfRFR1SkhyZTUtMlFjS1FTVmpXdjNUaVp1eVZrYmE3aHA0allsbndYeUdKdEI5LUltbWIzT0RUNmMxZ1d4eXlmSGF4VWFTTGRnYkFjZmpBa1g1c1N6eFNUVy1PMHB0cjdGd20zekxuMVo4R3plbUE?oc=5",
       "pub_date": 1788433231.0,
@@ -85,26 +85,26 @@
       "description": "NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled..."
     },
     {
+      "headline": "Robinhood Chain keeps blocks flowing despite 14-minute blob gap on Ethereum",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aQk9wZURpTGJlbk9MR3RNbnFwUVl2Z041Q2hMMklWTGNTRUhfMm10Wi10cUVydmlRVWVVRVgteE5WQV9meTU0MDRlRWxTVmtuSTVSeUdFbTRYcmJLOXpuWUx5SjZ1XzdnZGxmSG85ZFRwc1JvS1JTbVRUUGs?oc=5",
+      "pub_date": 1788557068.0,
+      "article_url": "https://cryptobriefing.com/robinhood-chain-blob-gap-ethereum-disruption/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/04172425/library-robinhood-chain-keeps-blocks-flowing-despite-14-minute-b-800x450.png",
+      "description": "Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks."
+    },
+    {
       "headline": "Current price of Ethereum for September 4, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMFNIWmQ5YlloaDFRVk81azNLem9RUlBYVEZlUnNhQ1FCaTIycWNiQUg4bUJ2VU91bWdPN2l4V1FmY3gxNy02NFlFV0pMa3VSdUl0R2ZqaV9MWUtkVmxnRDJ2VDFZYWk0?oc=5",
-      "pub_date": 1788526800.0,
+      "pub_date": 1788529049.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-09-04-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-4.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Circle's cirBTC Brings Transparent Wrapped Bitcoin to Ethereum",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwQVZET3pNSzZ6OEEwX21sV0RMNW1WamRjSTJPYXdlcWRrckFtUDdvMnNsLU44VTR2cjQzd1Z3d0t1d1lJcGt0bFV3VmdEOHZHdlZJYTV6alBHeENxNzU2aTNyb3h6SU1wU2dKTHdOcTYyclFrUTFIRE9B?oc=5",
-      "pub_date": 1788551973.0,
-      "article_url": "https://blockchain.news/news/circle-cirbtc-transparent-wrapped-bitcoin",
-      "image": "https://image.blockchain.news:443/features/55815440919FE2A93DFBAE8C907C92AD0D51D9984ED7B3B379217F97EDCC80A9.jpg",
-      "description": "Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T21:40:27.569112+00:00"
+  "fetched_at": "2026-09-04T23:46:33.266310+00:00"
 }

@@ -23,8 +23,8 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "hn_url": "https://news.ycombinator.com/item?id=49544762",
       "author": "gmays",
-      "points": 455,
-      "num_comments": 176,
+      "points": 456,
+      "num_comments": 177,
       "created_at": "2026-09-03T01:11:22Z",
       "object_id": "49544762",
       "image": "https://www.kedglobal.com/data/ked/image/2026/07/21/ked202607210032.jpg",
@@ -37,8 +37,8 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "hn_url": "https://news.ycombinator.com/item?id=49563386",
       "author": "DeepLogin",
-      "points": 353,
-      "num_comments": 71,
+      "points": 362,
+      "num_comments": 72,
       "created_at": "2026-09-04T11:59:15Z",
       "object_id": "49563386",
       "image": "https://productrise.app/storage/images/blogs/ai-mode-more-expensive-study-og.jpg",
@@ -51,8 +51,8 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "hn_url": "https://news.ycombinator.com/item?id=49566137",
       "author": "aaraujo002",
-      "points": 228,
-      "num_comments": 217,
+      "points": 255,
+      "num_comments": 246,
       "created_at": "2026-09-04T15:33:45Z",
       "object_id": "49566137",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "hn_url": "https://news.ycombinator.com/item?id=49542443",
       "author": "handfuloflight",
-      "points": 215,
-      "num_comments": 173,
+      "points": 218,
+      "num_comments": 172,
       "created_at": "2026-09-02T20:57:04Z",
       "object_id": "49542443",
       "image": null,
@@ -89,20 +89,6 @@
       "site_name": "Multiverse Computing"
     },
     {
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "hn_url": "https://news.ycombinator.com/item?id=49528895",
-      "author": "masteranza",
-      "points": 182,
-      "num_comments": 81,
-      "created_at": "2026-09-01T22:06:57Z",
-      "object_id": "49528895",
-      "image": "https://masteranza.github.io/weedout/screenshot.png",
-      "description": "A Safari extension that pulls videos YouTube labels \u201cMade with AI\u201d out of your feed.",
-      "favicon": "https://masteranza.github.io/weedout/icon-128.png",
-      "site_name": "masteranza.github.io"
-    },
-    {
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "hn_url": "https://news.ycombinator.com/item?id=49540565",
@@ -115,6 +101,20 @@
       "description": "How a mistake of less than half a millimeter in a single part nearly brought down the world\u2019s largest passenger aircraft.",
       "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
       "site_name": "Medium"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569366",
+      "author": "iopapa",
+      "points": 131,
+      "num_comments": 72,
+      "created_at": "2026-09-04T19:48:29Z",
+      "object_id": "49569366",
+      "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+      "site_name": "EEBench"
     },
     {
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
@@ -145,7 +145,7 @@
       "site_name": "jordangoodman.xyz"
     }
   ],
-  "total_hits": 664,
+  "total_hits": 661,
   "has_metadata": true,
-  "fetched_at": "2026-09-04T21:40:05.623577+00:00"
+  "fetched_at": "2026-09-04T23:46:16.674083+00:00"
 }
