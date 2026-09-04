@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-04T21:40:34.158739+00:00'
+updated: '2026-09-04T23:46:39.845692+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- social
 - repositories
 - videos
-- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 04, 2026 at 21:40 UTC  
+**Last Updated:** September 04, 2026 at 23:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 “For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.”
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) • 5h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) • 7h ago
 
 ---
 
@@ -49,7 +49,15 @@ AI news, discussions, and developments
 
 Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574) • 6h ago
+🔗 [Tech Times UK](https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574) • 9h ago
+
+---
+
+**[Study: Generative AI is making writing on Reddit and elsewhere boring](https://www.reddit.com/r/artificial/comments/1w7imfi/study_generative_ai_is_making_writing_on_reddit/)**
+
+Data from a new study published recently in Nature and Arxiv: "Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity." The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: "While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance." Study source data: "Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv." The kicker: "Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy." So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: "The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models" and my thoughts on this research.
+
+1h ago
 
 ---
 
@@ -57,7 +65,7 @@ Senator Bernie Sanders advocates for an immediate halt on advanced AI developmen
 
 There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually "understand" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't.
 
-18h ago
+20h ago
 
 ---
 
@@ -65,7 +73,7 @@ There is usually so much talk about what AI can't do, and not what it already ca
 
 But investors hear CRM giant is now in 'refinement mode,' picking models more carefully
 
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219) • 2h ago
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219) • 4h ago
 
 ---
 
@@ -73,7 +81,15 @@ But investors hear CRM giant is now in 'refinement mode,' picking models more ca
 
 I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just "a prompt". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio.
 
-53m ago
+2h ago
+
+---
+
+**[Why would you use an AI to write your replies on Reddit?](https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/)**
+
+More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they’re still your thoughts. If you aren’t writing your own stuff, there’s not really a point to having an online presence at all, since you don’t have one if someone else is writing your replies for you. I think drafts is a different thing since you’re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I’m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you’re getting it to teach you what and why it’s doing what it’s doing as it’s doing it.
+
+6h ago
 
 ---
 
@@ -81,7 +97,7 @@ I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limi
 
 I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline.
 
-4h ago
+7h ago
 
 ---
 
@@ -89,7 +105,7 @@ I don't understand these companies that are now using automatic AI replies to cu
 
 OpenAI says it is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services. The plan starts in the United States and targets water and wastewater systems, electric grid operators, state and local governments, community banks, nonprofits, and open-source maintainers over the next six months. The first new partnership is a pilot with MS-ISAC for state, local, tribal, and territorial defenders. It pairs Daybreak access with guided training and hands-on help. The Register notes that credits alone do not fix legacy OT systems, staffing shortages, or the risk around automated changes. OpenAI also says Daybreak Blue and Red users will not get Astra on day one. The useful test is whether the support model helps smaller teams find and fix real weaknesses safely. Sources: OpenAI: https://openai.com/index/daybreak-for-frontline-defenders/ The Register: https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382
 
-1h ago
+4h ago
 
 ---
 
@@ -101,89 +117,25 @@ On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service 
 
 ---
 
-**[Has anyone here moved away from OpenCode recently?](https://www.reddit.com/r/artificial/comments/1w7gpyy/has_anyone_here_moved_away_from_opencode_recently/)**
-
-I’ve been using OpenCode whenever I don’t have an active ChatGPT or Claude subscription, but lately it’s become much harder to work with. Some of the models I liked most are no longer available, and the overall experience has gotten pretty frustrating for me. I’m curious whether anyone else has moved away from it recently. If so, what did you switch to, and how does it compare in terms of model availability, context handling, coding workflow, and reliability? I’m especially interested in hearing from people who actually used OpenCode for a while rather than just trying it once. https://preview.redd.it/045sr9khhknh1.png?width=780&format=png&auto=webp&s=97c992b4f3f86f521ab0a0566666db1d58a19f99
-
-40m ago
-
----
-
-**[Do you use AI for mental support? For or against?](https://www.reddit.com/r/artificial/comments/1w7gh3t/do_you_use_ai_for_mental_support_for_or_against/)**
-
-I heard one of my close friend’s friend is using AI as a personal psychiatrist. We were discussing this and I wanted to get Reddit’s opinion, don’t AI give common sense advice? At least it advices to go see a professional in anything serious but it kind of feels pointless. Sharing your mental state and expecting a solution for your problems from an LLM. Does any of you tried using AI in this regard and was it helpful? Lets discuss. As for argument I heard that it relieves to share your problems with someone even if it is an LLM. I have found an article on this if you want to checkout: https://www.sciencedirect.com/science/article/pii/S2949916X24000525
-
-50m ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)**
 
-Reuters • 51m ago
+Reuters • 1h ago
 
 ---
 
-**[Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)**
+**[Rep. Casar: US Needs to Put the Brakes on Advanced AI](https://www.bloomberg.com/news/videos/2026-09-04/rep-casar-us-needs-to-put-the-brakes-on-advanced-ai-video?srnd=all)**
 
-nytimes.com • 5h ago
-
----
-
-**[ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout](https://www.washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims/)**
-
-Artificial-intelligence agents left 18,000 messages for one another online, independent researchers claim.
-
-The Washington Post • 8m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Corporate America Is Getting Hooked on Open-Source A.I.](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)**
+**[How are AI chatbots answering voting questions?](https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/)**
 
-nytimes.com • 6h ago
-
----
-
-**[Data center backlash is 'proxy' for discomfort toward AI, says author and professor Walter Isaacson](https://www.cnbc.com/video/2026/09/04/data-center-backlash-is-proxy-for-discomfort-toward-ai-says-author-and-professor-walter-isaacson.html)**
-
-Walter Isaacson, Tulane history professor, joins 'Closing Bell' to talk the growing backlash against AI data centers.
-
-CNBC • 1h ago
-
----
-
-**[Elon Musk is beefing with…an online chess site?](https://www.businessinsider.com/elon-musk-chess-com-ai-2026-9)**
-
-Elon Musk said that chess would be "solved" with artificial superintelligence. Chess.com said: "Good luck."
-
-Business Insider • 55m ago
-
----
-
-**[Hikers rescued after AI misroutes, strands them on Mount Shasta](https://www.usatoday.com/story/news/nation/2026/09/04/ai-guided-hikers-stranded-mount-shasta-rescued-california/91615399007/)**
-
-Three hikers rescued on Mount Shasta told local authorities they relied on Google Gemini to plan the trip and what to pack.
-
-USA Today • 24m ago
-
----
-
-**[Hikers who relied on AI rescued from California mountain](https://www.yahoo.com/news/us/articles/hikers-relied-ai-rescued-california-202900663.html)**
-
-The complications of the ordeal revealed how chatbot advice can fall short in remote environments.
-
-Yahoo • 1h ago
-
----
-
-**[These hikers relied on tech and AI. They had to be rescued.](https://mashable.com/tech/hikers-used-ai-needed-to-be-rescued-mt-shasta)**
-
-"We relied too much on AI rather than our own critical thinking,"
-
-Mashable • 3h ago
+The Hill • 46m ago
 
 ---
 
@@ -191,7 +143,51 @@ Mashable • 3h ago
 
 Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
 
-OpenAI • 19h ago
+OpenAI • 21h ago
+
+---
+
+**[The Dead-Internet Theory Is Back](https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/)**
+
+The “Dead Internet” theory is back.
+
+The Atlantic • 12h ago
+
+---
+
+**[‘I don't think anyone is really comfortable’: Democrat leading on AI raises alarms at Trump, Zuckerberg call](https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454)**
+
+Politico • 5h ago
+
+---
+
+**[This city is one of the world’s most important AI hubs. It’s not where you’d expect](https://www.cnn.com/2026/09/04/tech/toronto-ai-hub-geoffrey-hinton)**
+
+Geoffrey Hinton, a Nobel Prize-winning computer scientist, took a leap in the 1980s — leaving a well-funded post at Carnegie Mellon University to pursue a little-studied area of machine learning research at the University of Toronto.
+
+CNN • 14h ago
+
+---
+
+**[The jobs apocalypse is postponed. An AI jobs boom is here](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)**
+
+The Economist • 5h ago
+
+---
+
+**[Exclusive-US, China gear up for mid-September AI safety talks](https://finance.yahoo.com/news/exclusive-us-china-gear-mid-163032199.html)**
+
+By Laurie Chen BEIJING, Sept 4 (Reuters) - The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters
+
+Yahoo Finance • 6h ago
+
+---
+
+**[As AI madness encroaches, we need human connection more than ever. But we’ll have to fight for it | Van Badham](https://www.theguardian.com/commentisfree/2026/sep/05/as-ai-madness-encroaches-we-need-human-connection-more-than-ever)**
+
+We don’t want the isolating, automated outputs tech lords are selling us. We’re yearning for a shared frame of reference
+
+The Guardian • 8h ago
 
 ---
 
@@ -211,7 +207,7 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
 
-⬆️ 455 • 💬 176 • 1d ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
+⬆️ 456 • 💬 177 • 1d ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 
 ---
 
@@ -219,19 +215,19 @@ Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic 
 
 A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.
 
-⬆️ 353 • 💬 71 • 9h ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+⬆️ 362 • 💬 72 • 11h ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 
 ---
 
 **[Corporate America is getting hooked on open-source AI](https://news.ycombinator.com/item?id=49566137)**
 
-⬆️ 228 • 💬 217 • 6h ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+⬆️ 255 • 💬 246 • 8h ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
 
 ---
 
 **[Mamdani bans AI in NYC schools](https://news.ycombinator.com/item?id=49542443)**
 
-⬆️ 215 • 💬 173 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+⬆️ 218 • 💬 172 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -243,14 +239,6 @@ Quasar sets a new benchmark for European AI, outperforming comparable European m
 
 ---
 
-**[Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://news.ycombinator.com/item?id=49528895)**
-
-A Safari extension that pulls videos YouTube labels “Made with AI” out of your feed.
-
-⬆️ 182 • 💬 81 • 2d ago • [masteranza.github.io](https://masteranza.github.io/weedout/)
-
----
-
 **[Qantas Airbus A380 engine failure in 2010 (2023)](https://news.ycombinator.com/item?id=49540565)**
 
 How a mistake of less than half a millimeter in a single part nearly brought down the world’s largest passenger aircraft.
@@ -259,9 +247,17 @@ How a mistake of less than half a millimeter in a single part nearly brought dow
 
 ---
 
+**[Can AI design circuit boards yet?](https://news.ycombinator.com/item?id=49569366)**
+
+A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.
+
+⬆️ 131 • 💬 72 • 3h ago • [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+
+---
+
 **[OpenAI agents hijacked German website in previously undisclosed AI breakout](https://news.ycombinator.com/item?id=49562744)**
 
-⬆️ 93 • 💬 2 • 11h ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+⬆️ 93 • 💬 2 • 13h ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
 
 ---
 
@@ -275,13 +271,23 @@ How a mistake of less than half a millimeter in a single part nearly brought dow
 
 ## YouTube Videos: "ai"
 
+**[This New Bill On A.I. Could Be EXACTLY What China Is Looking For](https://www.youtube.com/watch?v=d40Fl7xDR5w)**
+
+Bernie Sanders is pushing a bill that would put a ban on advanced A.I. development. Join the Torch community at ...
+
+📺 Glenn Beck
+
+👁️ 9K • 👍 851 • 💬 132 • ⏱️ 17:34 • 46m ago
+
+---
+
 **[OpenAI EXEC ADMITS Hiding AI DOOMSDAY SCENARIO](https://www.youtube.com/watch?v=36Pn21dJWL0)**
 
 Krystal and Saagar discuss OpenAI admitting to hiding a doomsday scenario. Sign Up For 30 Day Free BP Trial: ...
 
 📺 Breaking Points
 
-👁️ 239K • 👍 5K • 💬 1K • ⏱️ 15:59 • 1d ago
+👁️ 244K • 👍 5K • 💬 1K • ⏱️ 15:59 • 1d ago
 
 ---
 
@@ -291,7 +297,17 @@ Center for Industrial Progress founder and CEO Alex Epstein analyzes calls from 
 
 📺 Fox Business
 
-👁️ 13K • 👍 135 • 💬 69 • ⏱️ 5:11 • 12h ago
+👁️ 15K • 👍 136 • 💬 74 • ⏱️ 5:11 • 14h ago
+
+---
+
+**[How Beginners Are Selling AI Agents to Businesses (START HERE)](https://www.youtube.com/watch?v=vtFmkn6JqFQ)**
+
+Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with AI https://mikeyno-code.com/Skool-base44 ...
+
+📺 Jake One Page
+
+👁️ 5K • 💬 5 • ⏱️ 18:31 • 9h ago
 
 ---
 
@@ -301,7 +317,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 149K • 👍 1K • 💬 103 • ⏱️ 5:42 • 1d ago
+👁️ 155K • 👍 1K • 💬 103 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -311,17 +327,17 @@ OpenAI CEO Sam Altman joined U.S. Commerce Secretary Howard Lutnick for a wide-r
 
 📺 DRM News
 
-👁️ 81K • 👍 643 • 💬 146 • ⏱️ 32:15 • 2d ago
+👁️ 83K • 👍 664 • 💬 147 • ⏱️ 32:15 • 2d ago
 
 ---
 
-**[Qwen 3.8: FREE &amp; UNLIMITED AI Video Generator (No Credits)](https://www.youtube.com/watch?v=Dge8lttgwio)**
+**[Pause AI Development NOW](https://www.youtube.com/watch?v=nVhr0FHOWn8)**
 
-Try Seedance 2.5 on Higgsfield and create cinematic AI videos with audio → https://higgsfield.ai/s/malvaai-NDQXJe Free ...
+If the leaders of the major AI companies admit that they are losing control of their extremely dangerous technology, it is time for an ...
 
-📺 Malva AI
+📺 Senator Bernie Sanders
 
-👁️ 19K • 👍 440 • 💬 60 • ⏱️ 9:10 • 11h ago
+👁️ 95K • 👍 5K • 💬 2K • ⏱️ 7:13 • 1d ago
 
 ---
 
@@ -335,33 +351,13 @@ A bunch of new models... Join the free newsletter here: https://futuretools.io/n
 
 ---
 
-**[What if the AI Bubble Bursts (Day by Day)](https://www.youtube.com/watch?v=T9d6lrvzM9o)**
-
-The AI boom has created trillions of dollars in market value, but underneath it sits a web of debt, expensive GPUs, concentrated ...
-
-📺 The Infographics Show
-
-👁️ 1.3M • 👍 10K • 💬 2K • ⏱️ 32:05 • 1d ago
-
----
-
 **[Nobody wants to buy something AI generated | David Gerard](https://www.youtube.com/watch?v=vkIn0Xh0Ld8)**
 
 They can't harm you, if they can't find you! Use code thetechreport at the link below and get 60% off an annual plan: ...
 
 📺 The Tech Report
 
-👁️ 163K • 👍 3K • 💬 871 • ⏱️ 32:49 • 1d ago
-
----
-
-**[Elon Musk - AI will be in charge, not humans](https://www.youtube.com/watch?v=vYVN2-0Nd98)**
-
-Free month with Consensus https://get.consensus.app/up_and_to_the_right Elon Musk, Tesla Annual Shareholder Meeting 2025.
-
-📺 UP and to the RIGHT
-
-👁️ 24K • 👍 428 • 💬 127 • ⏱️ 0:23 • 1d ago
+👁️ 167K • 👍 3K • 💬 878 • ⏱️ 32:49 • 1d ago
 
 ---
 
@@ -371,25 +367,13 @@ What's the best Whop Clipping platform? I tested them ALL! Try Higgsfield: https
 
 📺 Skai Generated
 
-👁️ 8K • 💬 1 • ⏱️ 9:19 • 9h ago
+👁️ 8K • 💬 1 • ⏱️ 9:19 • 11h ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
-
-*Qwen*
-
-Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
-
-`image-text-to-text` `180.0B`
-
-⬇️ 351,374 • ❤️ 4,867 • 8d ago
-
----
 
 **[DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)**
 
@@ -399,7 +383,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 133,024 • ❤️ 589 • 3d ago
+⬇️ 133,024 • ❤️ 594 • 3d ago
 
 ---
 
@@ -411,7 +395,19 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 5,739,341 • ❤️ 13,938 • 21d ago
+⬇️ 5,739,341 • ❤️ 13,941 • 21d ago
+
+---
+
+**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
+
+*Qwen*
+
+Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
+
+`image-text-to-text` `180.0B`
+
+⬇️ 351,374 • ❤️ 4,870 • 8d ago
 
 ---
 
@@ -423,7 +419,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 303,534 • ❤️ 1,691 • 14h ago
+⬇️ 303,534 • ❤️ 1,695 • 17h ago
 
 ---
 
@@ -435,7 +431,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 654,957 • ❤️ 2,041 • 14h ago
+⬇️ 654,957 • ❤️ 2,043 • 17h ago
 
 ---
 
@@ -447,7 +443,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 105,304 • ❤️ 422 • 2d ago
+⬇️ 105,304 • ❤️ 423 • 2d ago
 
 ---
 
@@ -459,7 +455,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 3,524 • ❤️ 461 • 1d ago
+⬇️ 3,524 • ❤️ 464 • 1d ago
 
 ---
 
@@ -471,19 +467,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,399,511 • ❤️ 2,771 • 3d ago
-
----
-
-**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
-
-`27.3B`
-
-⬇️ 9,951,693 • ❤️ 3,498 • 15d ago
+⬇️ 1,399,511 • ❤️ 2,779 • 3d ago
 
 ---
 
@@ -495,27 +479,25 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 206,575 • ❤️ 300 • 2d ago
+⬇️ 206,575 • ❤️ 302 • 2d ago
+
+---
+
+**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
+
+`27.3B`
+
+⬇️ 9,951,693 • ❤️ 3,502 • 15d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 107 • 💬 2 • ⭐ 11,582 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
-
----
 
 **[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
 
@@ -528,6 +510,20 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 ▲ 772 • 💬 6 • ⭐ 10,582 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 107 • 💬 2 • ⭐ 11,631 • 19d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -549,7 +545,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 127 • 💬 6 • ⭐ 102,463 • 20mo ago
+▲ 127 • 💬 6 • ⭐ 102,507 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -647,7 +643,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.6k • 🔱 2.4k • 20h ago
+⭐ 20.6k • 🔱 2.4k • 22h ago
 
 ---
 
@@ -657,7 +653,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.3k • 🔱 520 • 37m ago
+⭐ 4.3k • 🔱 520 • 2h ago
 
 ---
 
@@ -667,7 +663,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 3.5k • 🔱 220 • 7h ago
+⭐ 3.5k • 🔱 220 • 9h ago
 
 ---
 
@@ -677,7 +673,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 435 • 3h ago
+⭐ 3.5k • 🔱 435 • 5h ago
 
 ---
 
@@ -697,7 +693,7 @@ Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a t
 
 `JavaScript` `ai-agents` `claude` `claude-code` `llm` `productivity`
 
-⭐ 3.1k • 🔱 196 • 1d ago
+⭐ 3.1k • 🔱 198 • 1d ago
 
 ---
 
@@ -707,7 +703,7 @@ AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设�
 
 `JavaScript`
 
-⭐ 2.9k • 🔱 368 • 9d ago
+⭐ 2.9k • 🔱 370 • 9d ago
 
 ---
 
@@ -717,7 +713,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.4k • 🔱 230 • 2h ago
+⭐ 2.4k • 🔱 230 • 4h ago
 
 ---
 
@@ -727,7 +723,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 125 • 3h ago
+⭐ 2.0k • 🔱 125 • 5h ago
 
 ---
 
@@ -737,7 +733,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 12h ago
+⭐ 1.9k • 🔱 1.3k • 14h ago
 
 ---
 
