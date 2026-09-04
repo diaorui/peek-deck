@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-03T23:49:05.230188+00:00'
+updated: '2026-09-04T03:15:36.922508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 03, 2026 at 23:49 UTC  
+**Last Updated:** September 04, 2026 at 03:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 **[Current set-up. Any changes? Anything I should add?](https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -116,57 +116,11 @@ Medtronic • 2d ago
 
 ---
 
-**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
-
-/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
-
-PR Newswire • 17h ago
-
----
-
-**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
-
-The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
-
-CNBC • 2d ago
-
----
-
-**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
-
-Block Club Chicago • 11h ago
-
----
-
-**[Lyte raises $165 million at $1.6 billion valuation as investors pile into physical AI](https://www.calcalistech.com/ctechnews/article/4dsejsrni)**
-
-The robotics startup, founded by veterans of Apple and Israeli 3D-sensing company PrimeSense, has now raised $272 million since its 2021 founding, as investors increasingly target the sensors and perception systems needed to bring AI into the physical world.
-
-calcalistech.com • 1d ago
-
----
-
-**[EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign](https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html)**
-
-Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
-
-Yahoo • 18h ago
-
----
-
-**[The Best Way to Explore Lunar Craters Is a Giant Robot Ball](https://spectrum.ieee.org/moon-ball-robot)**
-
-RoboBall can go anywhere on the Moon, as long as it’s mostly downhill
-
-IEEE Spectrum • 1d ago
-
----
-
 **['Physical AI' is here. UBS shares 3 picks-and-shovels sectors of the market to play the trade.](https://www.businessinsider.com/ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors-2026-9)**
 
 UBS says "we are now at the precipice" of AI gaining physical autonomy. Investors should look at companies that power robots' humanoid functions.
 
-Business Insider • 9h ago
+Business Insider • 12h ago
 
 ---
 
@@ -178,11 +132,53 @@ The Robot Report • 2d ago
 
 ---
 
-**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+**[OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One](https://www.forbes.com/sites/johnkoetsier/2026/09/03/openai-is-making-a-humanoid-robot-everyone-should-have-one/)**
 
-The country is using its superpower of scaling and building supply chains to challenge the global industry
+Forbes • 7h ago
 
-Financial Times • 2d ago
+---
+
+**[GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’](https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition)**
+
+Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
+
+The Verge • 2d ago
+
+---
+
+**[Hugging Face's new duck robot is selling fast. A Chinese chip powers it](https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html)**
+
+The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
+
+CNBC • 2d ago
+
+---
+
+**[The Best Way to Explore Lunar Craters Is a Giant Robot Ball](https://spectrum.ieee.org/moon-ball-robot)**
+
+RoboBall can go anywhere on the Moon, as long as it’s mostly downhill
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
+
+Block Club Chicago • 14h ago
+
+---
+
+**[Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI](https://www.nscale.com/press-releases/nscale-and-figure)**
+
+Nscale • 11h ago
+
+---
+
+**[EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign](https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html)**
+
+Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
+
+Yahoo • 22h ago
 
 ---
 
@@ -196,7 +192,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 73K • 👍 353 • 💬 36 • ⏱️ 1:49 • 4d ago
+👁️ 76K • 👍 360 • 💬 36 • ⏱️ 1:49 • 4d ago
 
 ---
 
@@ -206,17 +202,17 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 133K • 👍 1K • 💬 201 • ⏱️ 12:56 • 3d ago
+👁️ 136K • 👍 1K • 💬 202 • ⏱️ 12:56 • 3d ago
 
 ---
 
-**[Meet the world&#39;s fastest humanoid robot over 100 meters!](https://www.youtube.com/watch?v=C6Fwv-3ksOk)**
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
 
-Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fastest humanoid robot over the distance.
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
 
-📺 China.org.cn
+📺 NBC News
 
-👁️ 207K • 👍 1K • 💬 59 • ⏱️ 0:17 • 6d ago
+👁️ 38K • 👍 250 • 💬 94 • ⏱️ 6:47 • 6d ago
 
 ---
 
@@ -230,23 +226,13 @@ Tiangong Ultra won the 100-meter race in 8.64 seconds, becoming the world's fast
 
 ---
 
-**[the Robot Olympics were a Disaster](https://www.youtube.com/watch?v=DZV4BSo6gMc)**
+**[The World&#39;s Fastest humanoid Robot Tried To Sprint!](https://www.youtube.com/watch?v=TNUtJCRf714)**
 
-today i checked in on the robot getting destroy at stuff like the robot olympics, they have just obliterating these guys over there, ...
+A humanoid robot takes on the 100-meter dash track at the World Humanoid Robot Games! Watch this incredible display of ...
 
-📺 Kwite
+📺 NeuraX
 
-👁️ 318K • 👍 10K • 💬 994 • ⏱️ 14:26 • 7d ago
-
----
-
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
-
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
-
-📺 AP Archive
-
-👁️ 121K • 👍 320 • 💬 201 • ⏱️ 0:53 • 4d ago
+👁️ 42K • 💬 15 • ⏱️ 0:12 • 5d ago
 
 ---
 
@@ -260,13 +246,23 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 
 ---
 
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
 
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
 
-📺 NBC News
+📺 AP Archive
 
-👁️ 37K • 👍 244 • 💬 94 • ⏱️ 6:47 • 5d ago
+👁️ 122K • 👍 320 • 💬 201 • ⏱️ 0:53 • 4d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 782K • 👍 7K • 💬 20 • ⏱️ 1:01 • 5d ago
 
 ---
 
@@ -276,7 +272,7 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 Carros Show
 
-👁️ 38K • 👍 276 • 💬 38 • ⏱️ 19:36 • 3d ago
+👁️ 39K • 👍 283 • 💬 38 • ⏱️ 19:36 • 3d ago
 
 ---
 
@@ -286,7 +282,7 @@ A robot accidentally launched a trash bag into the wrong car, but the innocent g
 
 📺 Tum Tum
 
-👁️ 353K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
+👁️ 355K • 👍 1K • 💬 2 • ⏱️ 0:16 • 5d ago
 
 ---
 
