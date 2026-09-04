@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T12:51:46.583664+00:00'
+updated: '2026-09-04T16:46:06.380699+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 12:51 UTC  
+**Last Updated:** September 04, 2026 at 16:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-2d ago
+3d ago
 
 ---
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-2d ago
+3d ago
 
 ---
 
 **[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -100,7 +100,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (SDK) - Introduced zero-copy GPU frame access for CUDA/TensorRT workloads on Jetson platforms, eliminating host-device memory copies. (SDK) - Unified the AI pipeline under the new Perception framework, including Object Detection enhancements and per-detection distance reporting. (SDK, D555 FW) - Added D401 dual-RGB support, including CSI passthrough and dedicated RGB control handling for GMSL deployments. (SDK, D400 FW, MIPI Driver) - Added H.264 color streaming support for ROS2/DDS with runtime profile selection.(D555 FW) - Enabled runtime Temporal Filter control without requiring pipeline restart, with improved coordination with Object Detection. (D555 FW) - Improved GMSL streaming reliability and multi-camera operation, including fixes for frame drops, link recovery, and synchronization stability. (D400 FW, MIPI Driver) - Introduced first D58x/D585 GMSL platform support, including serializer/deserializer integration, RGB controls, telemetry, and new device-tree overlays. (MIPI Driver) - Expanded platform support with JetPack 7.2 compatibility and multiple JetPack 5.x stability and streaming fixes. (SDK, MIPI Driver) - Improved timestamp accuracy, hardware clock handling, and synchronization robustness across the stack. (SDK, MIPI Driver) More info: https://github.com/realsenseai/librealsense
 
-3d ago
+4d ago
 
 ---
 
@@ -124,15 +124,33 @@ Financial Times • 2d ago
 
 ---
 
-**[OpenAI Is Making A Humanoid Robot. Sam Altman Says Everyone Should Have One](https://www.forbes.com/sites/johnkoetsier/2026/09/03/openai-is-making-a-humanoid-robot-everyone-should-have-one/)**
+**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
 
-forbes.com • 16h ago
+Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
+
+spectrum.ieee.org • 41m ago
 
 ---
 
-**[Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI](https://www.nscale.com/press-releases/nscale-and-figure)**
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
-nscale.com • 20h ago
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+
+BBC • 14h ago
+
+---
+
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
+
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+
+ABC7 Chicago • 3h ago
+
+---
+
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+
+Signal Akron • 12h ago
 
 ---
 
@@ -140,15 +158,7 @@ nscale.com • 20h ago
 
 The colorful "Microduck" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.
 
-CNBC • 3d ago
-
----
-
-**[GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’](https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition)**
-
-Right after a YouTuber became GoPro’s biggest shareholder, the company got sold.
-
-The Verge • 2d ago
+cnbc.com • 3d ago
 
 ---
 
@@ -156,31 +166,19 @@ The Verge • 2d ago
 
 Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
 
-New York Post • 17h ago
+New York Post • 21h ago
 
 ---
 
-**[EXCLUSIVE: Desigual Takes Aim at AI and Robotics in Latest Campaign](https://www.yahoo.com/entertainment/celebrity/articles/exclusive-desigual-takes-aim-ai-050000509.html)**
+**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
 
-Vivian Jenna Wilson, aka Elon Musk’s eldest daughter, personifies the Spanish brand’s fall 2026 tagline: “Born to Disobey.”
-
-Yahoo • 1d ago
+blockclubchicago.org • 1d ago
 
 ---
 
-**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
+**[The National Beat: When to add AI agents](https://www.bizjournals.com/houston/news/2026/09/04/the-national-beat-when-to-use-ai.html)**
 
-Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
-
-Seeking Alpha • 16h ago
-
----
-
-**[Ukraine’s Ground Robots and the Economics of Survival](https://warontherocks.com/ukraines-ground-robots-and-the-economics-of-survival/)**
-
-In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of
-
-War on the Rocks • 2d ago
+The Business Journals • 1h ago
 
 ---
 
@@ -194,37 +192,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 78K • 👍 363 • 💬 38 • ⏱️ 1:49 • 5d ago
-
----
-
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
-
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
-
-📺 NBC News
-
-👁️ 39K • 👍 256 • 💬 94 • ⏱️ 6:47 • 6d ago
-
----
-
-**[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
-
-Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
-
-📺 BeMyWay
-
-👁️ 66K • 💬 45 • ⏱️ 0:57 • 5d ago
-
----
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 179K • 👍 3K • 💬 1K • ⏱️ 1:39 • 2d ago
+👁️ 79K • 👍 368 • 💬 38 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -234,7 +202,27 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 792 • 👍 35 • 💬 1 • ⏱️ 0:59 • 4h ago
+👁️ 3K • 👍 71 • 💬 6 • ⏱️ 0:59 • 7h ago
+
+---
+
+**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
+
+Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
+
+📺 TESLA CAR WORLD
+
+👁️ 141K • 👍 1K • 💬 206 • ⏱️ 12:56 • 4d ago
+
+---
+
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+
+📺 NBC News
+
+👁️ 39K • 👍 259 • 💬 98 • ⏱️ 6:47 • 6d ago
 
 ---
 
@@ -244,7 +232,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 AP Archive
 
-👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 4d ago
+👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 5d ago
 
 ---
 
@@ -254,17 +242,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 187K • 👍 4K • 💬 420 • ⏱️ 15:41 • 1d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 854K • 👍 8K • 💬 21 • ⏱️ 1:01 • 5d ago
+👁️ 207K • 👍 5K • 💬 446 • ⏱️ 15:41 • 1d ago
 
 ---
 
@@ -274,17 +252,37 @@ From total fails and viral street moments to pure attitude, these humanoid robot
 
 📺 AP Archive
 
-👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 4d ago
+👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
 
 ---
 
-**[These 4 Robots Rebuild Themselves #Robotics #AI](https://www.youtube.com/watch?v=EmUrnXlahHc)**
+**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
 
-Scientists at Columbia University have created SELF-REBUILDING ROBOTS powered by a remarkable concept called ROBOT ...
+A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
 
-📺 Unhide Truths Vault 
+📺 Tum Tum
 
-👁️ 42K • 👍 240 • 💬 6 • ⏱️ 0:07 • 6d ago
+👁️ 362K • 👍 1K • 💬 2 • ⏱️ 0:16 • 6d ago
+
+---
+
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 43K • 👍 302 • 💬 38 • ⏱️ 19:36 • 3d ago
+
+---
+
+**[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
+
+Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
+
+📺 BeMyWay
+
+👁️ 66K • 💬 45 • ⏱️ 0:57 • 6d ago
 
 ---
 

@@ -5,8 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
+      "pub_date": 1788529500.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Inside the English soccer club betting its future on Bitcoin",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemtydlAyckFkSDZwa0RQYktFb29NSlFDbHJKV1R1ZVFLU3B4MzhOYUg5azgzbFMxR3lkMjJNTEt3ZW8xU3d6UTJEbkF4U25lOFdBZzlMYTIxUENGYVZfaVNsVENvNy14ZXYyRnBtU3JDbG94QWlYd3ZNRFdWNEVULWZFSEtUNXJxVzR6SE84NjlUZ1lQME9SQXREZTYybGFEVk00UmJ3?oc=5",
       "pub_date": 1788472800.0,
@@ -15,54 +25,74 @@
       "description": "How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid."
     },
     {
-      "headline": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
-      "source": "coindesk.com",
+      "headline": "Bitcoin ETFs just had their best day of 2026",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wQ3RVU09WdTFjYVNTYVBtU3JVMlBYYlNieEhCMDg3TFIyazd1TktUeG50ZUYyQUR4em5MZmNpc1ZlYWgxNHlRNG1FOWhra041dkxZS05PWUd1enE0UFg2R05pRHZ5amJ5NF85R0JwbmxabkFQcUllZ0duWkxMZw?oc=5",
+      "pub_date": 1788537600.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-etfs-just-had-best-160000838.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0fa0bfef97aedb7aa3ccfb211ce350c407cd3d256c769ff68ccb0afb62ab6ef4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdailywolf-thumbnail-website-0904_9008.png",
+      "description": "This episode of \"The Daily Wolf with Scott Melker\" explores the latest crypto-related headlines.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
+    },
+    {
+      "headline": "Live updates: Bitcoin tumbles after blowout August jobs print",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVAtMXRVVUxnMGlNdHJHT3BkMUVKci0zZmpubVZWODZDVDhvdy0xY3pNNUpma2UxWDhjcUNTNWpaTjl1OXBWejdqXzh5OHdHbFB6VDdvZkRVVGo3c0hCYnB1NE9sTkJscWdPWHg2VThSWDJscXFtQmdkVVlJVlQ2aEQwVWJocE5hdkQ1bjhBbENPSDRxc1FFT2dIZHNhTnkxU3M2ZTVEQi1PVnJzOUJ6eE5xYi0?oc=5",
-      "pub_date": 1788409819.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFdGb3lwdkZ0eEpKX1VoWkE5Ui1KbkRvRXdCLWgzZ1pPOFFTd2Z4akk4ZkR3aTNOQUtpdFVnMl9pUy0zUTJZUUc3THRoQ3ItZkgyckNhck44WmVGZGhfTFhaNUdCMWNaYUlIRXZtVzgxcnp6QjZiRlUtU1dqVnpOczNHTEdtdERaSWE3eW5rLU9WM2k5NXRaRDNGZ1htZUp3S2Z1amtjTTJLVUdmSmZUVTVmNGdjQ3ZJZ0RVc2xpMA?oc=5",
+      "pub_date": 1788531222.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
-      "pub_date": 1788524240.0,
-      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
-      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
+      "headline": "Fed Governor Waller just reignited the bitcoin debasement trade: Chart of the Day",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUtaa0V1OXI2Q1pBMmZTbUVDaUlvbk5vT2o0OEFBeVdBMU1vdzVsMVBiRWFKZ2FVc2xxN0NQRFZ2VEp5Tkw4UWZHSi1MLTA4VFkwZGhMelVTbUdHV2VwdVdrZWdvdWlUU1FNaENQR1hyaUZIdjBDS0ZYOUxJMFRyVGxiVTctWEdtZlBNSUk3bWlzTVdqbUpRSWluRGY1czB1cmNBVzdLOE5RLXl6ZmNLNnRnbzBSVU4wTHFfUzVaQnhoczFWWXNwdlVpR3VscWo2dDhB?oc=5",
+      "pub_date": 1788516000.0,
+      "article_url": "https://finance.yahoo.com/markets/article/fed-governor-waller-just-reignited-the-bitcoin-debasement-trade-chart-of-the-day-100000584.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
+      "description": "Bitcoin is back at the Rubicon \u2014and Fed governor Waller just dared bulls to cross it."
     },
     {
-      "headline": "The Nasdaq\u2019s Biggest Winner Was a Bitcoin Stock That Is Still Down 56% in a Year",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY1g3THZ3b2xxM0JOaGRDOVdiR1ctQUMwRHRGR0w0cTREdGJBUUtXZ3RTbENvMFl3Zkc2QWhreEFyLVRJZmFzN2xwZGhOUXI1VGdrYVN2bl9HbGZaN2hJbHhsTkw3ME1vQ1Y5TFBPeTBQb2lUdDNGSUtSeGhCeFZqUHM0NF9kellWV3g4dGNfNGU0VV9hY0V6VzRpWFlPQnJkZ0E?oc=5",
-      "pub_date": 1788524338.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-biggest-winner-bitcoin-stock-121858296.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cb157668ad24e5eedcd38d4e73a725f86e7eadf06e00d15be4657ce3349c0089/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fa4e07525db7d2d8bb1928641db21fb37",
-      "description": "Strategy surged 18% to lead the Nasdaq on Thursday, yet its shareholders are sitting on a loss that dwarfs bitcoin's own slide over the past year. The same leverage that fueled one electric session has a habit of cutting just as hard in the other direction."
+      "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkx1c182c0xxWEJ6b1BnMkN5NXNEcllaSnZvUnBnX1paS3RVTWxsRHJZdklUNnJQU3hsZUVrZ3QxeGk3LWRuN1BfLWVCMkpCYm81YzlPSmhaV0FoQjFUc2VuX2xlcXpDd3VVUFRXMFU0WkVIZGVjRDIxWVg2alhoTnpmN0FyNUotVTZwS28tUjQyR3dNSnhZNlpBZGR6NHBFSlJpamljeC1XbWZYQnJhaWozcnM3QmZsXzJnTkI0RS1XbzJvUVY1SVd4Y2FMS0tQRGh1WkhsMkNoQQ?oc=5",
+      "pub_date": 1788521326.0,
+      "article_url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+      "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
+      "description": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations."
+    },
+    {
+      "headline": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjU1aUNsTGdhRDBaUjl5MW82cVhIV2xUSklkTkppWDhLUTYwZ2tvc3JOTUNETDd2NkphQ1FsNUVMMnJXUUstYzRlcHl2aTlUdUJsTTZ3UFQ5ZVZ5QlFTUlphMGxhbVh4WHFPallpYVdnYjEySW5pNlR3bHRIZmQySzdGb2loOHBCRTVyTGo2cWlNVUFoZUp0QWZjVW4tQWtUUTc0ZFdqMm1kcnhJTHV3X0I2cjVNZmp3TFd6VktkTFhnU01feGVyS1EyUm8wcGYx?oc=5",
+      "pub_date": 1788515235.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "IMF updates assessment, confirms El Salvador's Bitcoin additions came from donations",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYS10cmtnaEF1M1ktaU5QbGdPUE9xcnJPdm9OcmtmRHJpVFR5N2RhVHJXVDdHZURWdFdJRmtCcW00b1phbkIyai1mSlBnRVdndFltYVg3Ul9MckVtOHNBUW96M3o2V3hMdHQ5dnVWVEM5cXQ3ejBWMFBmV3BjNXltTW5NY3BUcXRWSXFZMEdqNXNIemFzRmVHRjd2QjlQUXVRRU5uZEU5QTVObUpnWUJ4RkpUeUtxOEEwVWVlZzB2bGJNOHVlMXNUcERuV0hEWDN0aENUNGo0MVdRNWNIX212dlRR?oc=5",
+      "pub_date": 1788525085.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:5dec8f17a094b:0-imf-updates-assessment-confirms-el-salvador-s-bitcoin-additions-came-from-donations/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF\u2026"
     },
     {
       "headline": "Where Will Bitcoin Be in 2030?",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tNHIxMHM4Wll4b19VbmRVcVd3Q2F3QUtCei12SFBZMVRncUVIaDEwYk82al9oaGFXcFFFUFVnWTBtSWRZTW9XYndBMlh0RXNKdFlSYVI2V1VUdjR5NElmMnJES1N1OXJUajMyelV5MUYwQXkyRjJNYnNYTVE?oc=5",
       "pub_date": 1788481260.0,
       "article_url": "https://www.fool.com/investing/2026/09/03/where-will-bitcoin-be-in-2030/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885495%2Fbitcoin-charts-and-graphs.jpg&w=1200&op=resize",
       "description": "In a best-case scenario, Bitcoin could hit a price of $1 million or higher by 2030."
-    },
-    {
-      "headline": "US bitcoin ETFs report the largest inflow day since January, worth $731 million",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2RmRFRsMUZRRWxoSEpoQmZwczlmcjJ6VEJCNW41Z3htYlNtNGxGeDlVMldDZnlfUDhCRVBMd2JId1FQNTJ1ZUdscEYxcVFfQkkzSDVhWFllYm1kMk5GVDZ6bmJ0TWx1cmM5ejRKd2c4cmVtT3BsMlY1eW9URHh2ZnI4QjdBT3JGM2NNWW9jVURKdHFvYkczM3VvQmI2cnI4OXhlVnB3?oc=5",
-      "pub_date": 1788511625.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-04-us-bitcoin-etfs-largest-inflow-day-since-january-413515",
-      "image": "https://www.tbstat.com/wp/uploads/2023/10/20231019_NewBitcoinCity_News4-1200x675.png",
-      "description": "Analysts attributed Fed Governor Christopher Waller\u2019s dovish comments for the significant inflow of capital into the bitcoin products."
     },
     {
       "headline": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
@@ -73,38 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg",
       "description": "Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year."
-    },
-    {
-      "headline": "Does the BITCOIN/S&P 500 ratio confirm the bottom? for BITSTAMP:BTCUSD by Swissquote",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0lkNXJuNEdKRVQtbFFxaTV1YjZmV1I3djU4Tk01VXlXUThoWXhGVUUyY284eWtHcTJuS0RHNzN6UXFyNlFQMHdjZDlqcU92Ml9hN29LNUpFd1pEcVZ1N0R1UU1aQ1ZHcUlzSDhvaTUwMHhYeUgtTDhlcHczYzhnRjNiUzVsWGx4X0N1b2ptOVlzdEs5bXJETUFmMFFXbk9ZTXc?oc=5",
-      "pub_date": 1788497276.0,
-      "article_url": "https://www.tradingview.com/chart/BTCUSD/OodfwXko-Does-the-BITCOIN-S-P-500-ratio-confirm-the-bottom/",
-      "image": "https://s3.tradingview.com/o/OodfwXko_big.png",
-      "description": "1) The shortest bear market in BTC history\n\nAgainst the seasonal statistics that traditionally make August the second-worst month in BTC history, Bitcoin\u2019s price has experienced a vertical rise from $62,000 to $80,000. Has the bear market definitively ended on Wednesday, July 1, at $57,750?\n\nIf the July 1 low at $57,750 were indeed to be the final bottom of the current Bitcoin bear market, the 2026 bearish cycle would have an exceptional characteristic.\n\nAt 268 days, it would be significantly \u2026"
-    },
-    {
-      "headline": "El Reno officials admit to enforcement failures surrounding Bitcoin mining facility",
-      "source": "KFOR.com",
-      "source_url": "https://kfor.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU5qNHZna3pJdDZ0dWVhaE5TaXpJNzE1MGw4eFRxemdwdW91RkFXNm5WY1lHUEprcXpQTlluSU04QmNpRW94ME9WTkd5YkZMZV9IeGQxX0E4WmlMUWcwcGNaNUdzdFhzSjQ3ZmZVb0JRUXFocHlVTVh0VDlFWF9WTUdFZW5NQUk4UVpoUm9xRlR0MXo5clNBcGhFUjc0Z3RHLTgxNTF0ZDlyNnlGSE5FYnpB0gG3AUFVX3lxTE5KUV9DUVNGdmNkTEN1T2hxTFJuRGpSQ1NpakltVjRWTVE3NUMzVmNRbjZZN0E1UmZCc1BoQkg2RXNoNjhDS3hqQ0ltZ04wTW9NeTdLRjlsaFZKcHlmQTVDc3Y2VWRZaFV5UlVIZGVVZjRmSG9VcWdpRUNnQ2c4TFhSdUNlMTJDOXpQTlZZbk1DZjJ6NXhSZHYxWl9oUUxpUFdBblhOVUZJVEpva2w0RF9Tb0s5Y1F4Zw?oc=5",
-      "pub_date": 1788303636.0,
-      "article_url": "https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Almost All of Bitcoin\u2019s Massive Month Happened in 3 Days",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFJPdzJmRkRpQVZyLWJUcUM5Y2RybFI5NnEtSkxKS2Y4TDdnYk53UHRqeXdTSENJcjYyUjZPWWlKa2w0dWpPUnZ4cG5EcmlIcDI3bWlyaXBQV0c5S0hWc2FlTHc2Ymk1NU01dlh2cFQ2SGVidnpVNzVCYnMtaHBMb3lkSVBVbjBBQWFKZTRRYTBjUHZMZi1kZFZEZ0lOODg?oc=5",
-      "pub_date": 1788513285.0,
-      "article_url": "https://www.inc.com/phil-rosen/bitcoin-treasury-scott-bessent-bond-market-buybacks-crypto/91401326",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit,w_1024/vip/2026/09/bitcoins-massive-month-inc.jpg",
-      "description": "Its biggest gains came immediately after Treasury Secretary Scott Bessent doubled the government\u2019s bond market buybacks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T12:51:25.211764+00:00"
+  "fetched_at": "2026-09-04T16:46:04.110101+00:00"
 }
