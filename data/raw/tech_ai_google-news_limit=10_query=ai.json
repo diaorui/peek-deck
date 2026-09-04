@@ -5,14 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI hails \u2018new era of artificial general intelligence\u2019 with Astra model release",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FfMUQ1dXBYcXVnWUlNVW5kd01IM2VnNW9FdTQtemgxamtIYnRLVWNlS1FkZVdlam1HYXJFRmpITnNTTlhtSi1NNXMzREVxVnhlTXh4MUFfNTREYWxieXNUYkV4MzFhT0EySm4zbkFISHFyQURHVDBKWEZaNDZiQmRKU1pPbG5xOXR5WExVVFJxOVlvbm84eVZMQ0ctT1oyaWRCWVlR?oc=5",
-      "pub_date": 1788465900.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "image": "https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba920b0071e3f33ae30bc9c76fbc8eb7",
-      "description": "Astra\u2019s arrival comes days after Sam Altman, OpenAI\u2019s chief executive, described AGI as an \u2018irrelevant marketing term\u2019"
+      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
+      "pub_date": 1788480363.0,
+      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A horde of AI agents conspired against their creators",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkNPbEFBMTRkMUhDVEtVaG03dDZLM2xkVzZxbWlZTTNmLWM5ZEJ2dWpTaUNQbnltT3I2cUNtZzdvLXU1YXJlOVBUdnVYcmZiM1dtV1J2cGhobkNsYWp3TVJ4ZzFvYlg4YkZIdjlRbWMtam5UNFRQbWRqcndrTUpEY20waVB5bWRzdlRqRjIzcW90Sm1GeEM0RmRvOTgzdkV1T0VxelpOWGhIOER1blVlaXVLaw?oc=5",
+      "pub_date": 1788440934.0,
+      "article_url": "https://www.economist.com/science-and-technology/2026/09/03/a-horde-of-ai-agents-conspired-against-their-creators",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI agents aren\u2019t ready to replace humans in behavioral research",
+      "source": "Science News",
+      "source_url": "https://www.sciencenews.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VTl5OC1aZS0zM2pmTVFyZWpncnM5QzZBZmUwTDBEWmF2VGdicDhxMGFYZXdwREJ2UERFS3phSUdoRlFBZ2d6X1hEMm0wN1FzR0dKdHkyVkJOYkQ4UjhfV3N5OFU5TDktNXBLeEZqdzJKV0RNT01QZw?oc=5",
+      "pub_date": 1788463865.0,
+      "article_url": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
+      "description": "A new study finds that digital twins don\u2019t yet replicate the views of the individuals they are modeled after."
+    },
+    {
+      "headline": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pub_date": 1788488470.0,
+      "article_url": "https://openai.com/index/gpt-6-astra/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
       "headline": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
@@ -29,82 +59,52 @@
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5",
-      "pub_date": 1788475675.0,
+      "pub_date": 1788486475.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQ4HZKSH74I7DIIZQV6NFP2P2Q_size-normalized.jpg&w=1440",
       "description": "Greg Brockman made the claim as the company prepares to release a powerful new model to power ChatGPT."
     },
     {
-      "headline": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
-      "pub_date": 1788437066.0,
-      "article_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
-      "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\""
+      "headline": "UVU students use AI to develop toothpaste business",
+      "source": "KSL News",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXBRbWJ5VDlmWEhGZnM4dDZfN2xTaGlhS0paQ2pTNkVtYU1GcHBLZW1zZEJYTFVZUXlGSElmV19WOW0xQzR5ajliM0VTdkhRM1FIN0hCcndRTlJPMmFnYU9zRjVpdlNocWwwdjZ0N2dtUllMTWp5ckdYamdKZzR0TnZDdjNTRmFnRUg5ZDcyTkE?oc=5",
+      "pub_date": 1788489415.0,
+      "article_url": "https://www.ksl.com/article/51619798/uvu-students-use-ai-to-develop-toothpaste-business",
+      "image": "https://img.ksl.com/slc/3200/320045/32004596.jpg?filter=kslv2/responsive_story_lg",
+      "description": "Two brothers in UVU's first applied artificial intelligence master's cohort are using AI to research, develop and launch a toothpaste business while emphasizing the importance of human oversight."
     },
     {
-      "headline": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
-      "pub_date": 1788437991.0,
-      "article_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "headline": "Zuckerberg opposed White House AI proposal in private call with Trump",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0k5S3hIY1doMHVHeFNjRWFZOURRMVlmYmZpcWNZSV9Hc2RzTURGZGJjVVRzRVpabXNmWExEZElJVTB3dGxBWjNhclJGUGdYZ2Z2YjAzODc2NjVxcm5CZk9PSk9PWnE0Sl80cGdUNVJqeTFBdmV2d19fbjZmQVF3eWQyRXpReW9yNG5rT2Fqd2ZDUjIwOVBz?oc=5",
+      "pub_date": 1788460363.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-said-national-ai-183243835.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c0ed8ff956c3683abc680da7baeb5a6d6aa480a25002bc7ab6f10fdbdfcc8470/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-09%2F62cc08a0-8a79-11f0-bd9b-78d60487d773",
+      "description": "The Trump administration is now considering both a FINRA-style approach and David Sacks' industry-led approach as potential paths forward."
+    },
+    {
+      "headline": "US urged to consider military strikes to stop China achieving AGI first",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjJHZUFIUWRwN2JDTUxTZkNETk9FTWk4ZTRNNEpPd1l6SWxLZW5GT3UwVVpJcFNGaXNlVURJeGxpZWVjVFp0dFhHSXlNbXhiQWd5WlM4MV9Sc3M2OTZXX3VvOXNhUVJiNmpmZTZiVTFfa3hZT1JEYnNYM0UzVGllaXAyTUJIcDRHQk9JQVN1N1hiZmIyWC00dnlseW0yQmlxYVlkTlFVVWtPZG5WejVF0gGvAUFVX3lxTE5xSmw3anRkQnlvOGZ6eEJtaTlxUnhqRmg2YVE3clFsaWVBQUJqMXk1MlE3OEVvZGpOektYTUlsakhtT3lhNHg3dThzVkNVam9qR0RRbS1WVXN4Z1gxSDdfcU1tR0FCaVlWUXJodUFZREprOFhTbGVYVjFRUUhYZmQ3U3Y2dXFhY01JWUxiTElTbE1ZNzZ3LXNYX1ZPSFp5X19JMWhBRmFNVUhzS25CTnc?oc=5",
+      "pub_date": 1788473613.0,
+      "article_url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first",
       "image": null,
       "description": null
     },
     {
-      "headline": "Nvidia is driving the AI boom. Good",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
-      "pub_date": 1788429471.0,
-      "article_url": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hikers who relied on AI rescued from California mountain",
-      "source": "KTLA",
-      "source_url": "https://ktla.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LX0lVNC1tX01NZ0JJVndEYmF3UktBazg2NnpMR2tyUGxiYTFmWENld1YySHUyZFhjWV84MmtBQll2eE9CbTRpck1VM1A4bTZoc2pTZVE5OHU0ekwxTXhDdkdUUUZndGFGT3dYdXhMLUljak1aRFlUN1Q5b9IBgAFBVV95cUxPRE1HY1QxRl9oSlFDakRzWXcycmxOYUJtMEpqS19JR2pVMnZNVTZHQUJ5RlVhWUJLVENKbXFUUnliSmtoeWhsdFBfSGRNTno0UmpndVpOOVNVNk9ZbTlSdnVWSzJtQ2Z3aWpCdFBxTWRrcmNOZEZ4dEUzWU5kZDV2VA?oc=5",
-      "pub_date": 1788465233.0,
-      "article_url": "https://ktla.com/news/california/hikers-rescued-mount-shasta-gemini-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnhUOHQ3dDJtQ1hwSlppZU1qcTZhdlJocnJwdFZYeEJjTERSMzBSNnJsNDRQRXN2a1RFejRjUW4xTjJmdjV4V3BJNG1kQ0pYSW5GaGdKTi1uVzFDRFRud05BRlFLeTlXcl9mS0VQN2NrT0RrZzJudlFYa2NuVmQ0alVtTmJtNEFnc1pRTlNwONIBlAFBVV95cUxPbm9pLWg4QnFPb2JwMUJaMWZoQzRMYWtvcVNvVk9iLTR3ajVFSnpFQUktdG5OMmY2YmFPdXdiOGdTYjFudmFnODJOdTl4cXZzUmFQa09TZlI1WUdtYlBhYU1PbkNCeXl4TjdyWklKdnFIQWQ4OVN6NER4aVlISHRsWEhOSVV3eWpPYmhXM2szcHkwSjBY?oc=5",
-      "pub_date": 1788455751.0,
-      "article_url": "https://abcnews.com/US/3-hikers-ai-plan-trip-rescued-after-becoming/story?id=136176177",
-      "image": "https://i.abcnewsfe.com/a/03fa2021-28cc-416b-a44d-59bb3dfc4ac5/shasta-2-ht-gmh-260903_1788446763038_hpMain_16x9.jpg?w=1600",
-      "description": "Three hikers were rescued on Monday after they became stranded on Mount Shasta near Clear Creek Route."
-    },
-    {
-      "headline": "3 Men Relied on AI to Plan Their Climbing Trip. They Later Became Stranded and Needed Rescuing",
-      "source": "People.com",
-      "source_url": "https://people.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRG1EVmwzUU5zNGZnMlFDTm5IMXhBN0tLbjBxVnZCTFYtT2MzT0JkUERIbGFJamFXTlNxZDlsMlp5WmFRU28wQWt0a2tHWHh4VlRfNUZ0dVJEbWlXRnNXazJNUkJPWjdKd3AtR3JhQ091cW1DSERhVnBHelhvQUtzQURCRUVCWDFxT2FaTTA1ZGV1d3RaMGtyeWdhNE5pMUszOURCb1dIUVE4aGI2QURLSEpILUNOWVFrNHNZLTlWZW5xZXEwdzFLWjhOOA?oc=5",
-      "pub_date": 1788476676.0,
-      "article_url": "https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474",
-      "image": "https://people.com/thmb/1xJrlvvEP4xdmU4EUZ-G5YsV_Kg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(745x472:747x474)/mount-shasta-rescue-2-090326-777f5d8ec9ef49ba9ecc32bbd91f7080.jpg",
-      "description": "Three climbers were rescued after summiting Mount Shasta because they used AI to plan their climbing route."
-    },
-    {
-      "headline": "Watch Alger EVP: Still Massive Opportunity for AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEZvNUJfVXphTmdRTmF6QlRvMTV3RUE2VlhJR2xPbWdmcEM0dWV1MzhoS3hwU2xqYTBoT2FrRVUybjVidmlIdWNkRjhwRV84WHg2V3N2WlRDc3lHc0VPUDlUdV9jMU5qbWc1NmE2MThuOVR2ZDdGMHpqNDlOamJzVEVqS2VnZGhZX2diZlBjRTVfYlZNNThZSXBORkplQQ?oc=5",
-      "pub_date": 1788475823.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-09-03/alger-evp-still-massive-opportunity-for-ai-video",
-      "image": null,
-      "description": null
+      "headline": "5 amazing visuals show how the male fruit fly\u2019s brain map is advancing neuroscience",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEg3SF9ZOTZnNjFwZGIwYjJuQ1FBZm9vMEVKSmFBOFdscE9uTFFvTkpjOFVwbDQ0RG80anpwdHJoRjJPYjV1SGloNDJtWk9OUnltRVdjQVJidTBlZnFSdkxmRHZUcFA3ZTl5ZFBrS3FFMHZYTEJUYmpJMHIwYUhBUlY1SHdIRm5SYVJ3?oc=5",
+      "pub_date": 1788448181.0,
+      "article_url": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_social.width-1300.png",
+      "description": "HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T23:49:03.986610+00:00"
+  "fetched_at": "2026-09-04T03:15:35.321354+00:00"
 }
