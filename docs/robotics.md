@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T19:19:45.751741+00:00'
+updated: '2026-09-04T21:40:34.176496+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 19:19 UTC  
+**Last Updated:** September 04, 2026 at 21:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,14 +108,6 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
-
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-bbc.com • 17h ago
-
----
-
 **[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
 
 The country is using its superpower of scaling and building supply chains to challenge the global industry
@@ -124,9 +116,19 @@ Financial Times • 2d ago
 
 ---
 
-**[Opinion | China’s robot revolution may not arrive in the way you expect](https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect)**
+**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
 
-South China Morning Post • 21h ago
+Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
+
+Interesting Engineering • 9h ago
+
+---
+
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+
+BBC • 19h ago
 
 ---
 
@@ -138,33 +140,9 @@ PR Newswire • 3d ago
 
 ---
 
-**[ARM Institute announces nearly $90M in DoW funding for robotics projects](https://www.yahoo.com/news/science/articles/arm-institute-announces-nearly-90m-161035989.html)**
-
-The Advanced Robotics for Manufacturing Institute, based in Pittsburgh, announced that it has been awarded upwards of $90 million for ten different projects.
-
-Yahoo • 3h ago
-
----
-
-**[Physical AI Infrastructure Market to Reach $327.21 Billion by 2035 as Robotics and Autonomous Systems Accelerate Global Demand | Research by SNS Insider](https://sg.finance.yahoo.com/news/physical-ai-infrastructure-market-reach-183000299.html)**
-
-The U.S. Physical AI Infrastructure Market is Projected to Grow from $4.85 Billion in 2025 to $111.04 Billion by 2035, While Europe is Expected to Expand from $3.98 Billion to $79.91 Billion by 2035.Austin, United States, Sept. 04, 2026 (GLOBE NEWSWIRE) -- The Physical AI Infrastructure Market was valued at USD 14.20 Billion in 2025 and is expected to reach USD 327.21 Billion by 2035, growing at a CAGR of 36.91% from 2026 to 2035. The market growth will be fueled by the deployment of artificial
-
-sg.finance.yahoo.com • 49m ago
-
----
-
-**[AGIQUAD Showcases D1 Quadruped Robots at LEAP 2026, Expanding Its Presence in the Middle East](https://finance.yahoo.com/technology/ai/articles/agiquad-showcases-d1-quadruped-robots-170600757.html)**
-
-RIYADH, Saudi Arabia, Sept. 04, 2026 (GLOBE NEWSWIRE) -- AGIQUAD, a developer of embodied intelligence and quadruped robotics solutions, showcased its D1 Series quadruped robots at LEAP 2026 in Riyadh, presenting solutions designed for complex operating environments across the Middle East, including desert and outdoor areas, industrial and energy facilities, and municipal operations. LEAP 2026 brings together technology companies, investors, government representatives and industry leaders from a
-
-Yahoo Finance • 2h ago
-
----
-
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Signal Akron • 15h ago
+Signal Akron • 17h ago
 
 ---
 
@@ -180,7 +158,31 @@ GeekWire • 1d ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 6h ago
+ABC7 Chicago • 8h ago
+
+---
+
+**[Marc Lore’s food delivery startup Wonder slashes 150 jobs as it invests in robotics](https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/)**
+
+Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
+
+New York Post • 1d ago
+
+---
+
+**[A robotics company will begin trading on the New York Stock Exchange Sept. 4](https://www.stocktitan.net/news/JFB/xtend-reality-expansion-ltd-and-jfb-construction-holdings-complete-csuw3w5mksdf.html)**
+
+About $67.7M was delivered against a $60M minimum cash obligation, and the funds are expected to support working capital as the combined company operates publicly.
+
+Stock Titan • 1d ago
+
+---
+
+**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
+
+Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
+
+MedTech Dive • 2d ago
 
 ---
 
@@ -194,17 +196,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 80K • 👍 375 • 💬 38 • ⏱️ 1:49 • 5d ago
-
----
-
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 4K • 👍 76 • 💬 6 • ⏱️ 0:59 • 10h ago
+👁️ 81K • 👍 376 • 💬 38 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -214,7 +206,17 @@ Hilarious Falls and Fails at World Robotics Games 2026.
 
 📺 Chris Wabs
 
-👁️ 14K • 👍 111 • 💬 19 • ⏱️ 11:03 • 6d ago
+👁️ 14K • 👍 113 • 💬 20 • ⏱️ 11:03 • 6d ago
+
+---
+
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+
+📺 bycloud
+
+👁️ 236K • 👍 5K • 💬 494 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -224,7 +226,27 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 142K • 👍 1K • 💬 210 • ⏱️ 12:56 • 4d ago
+👁️ 143K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
+
+---
+
+**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+
+These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+
+📺 NBC News
+
+👁️ 39K • 👍 264 • 💬 100 • ⏱️ 6:47 • 6d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 5K • 👍 80 • 💬 7 • ⏱️ 0:59 • 12h ago
 
 ---
 
@@ -238,23 +260,13 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 ---
 
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
+**[UNSTOPPABLE: Ukraine Unleashes a FULL ROBOT ARMY on the Frontline](https://www.youtube.com/watch?v=lgdM6yEijHo)**
 
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
+The nature of warfare has permanently changed. In a historic military milestone, Ukraine has completely redefined the battlefield ...
 
-📺 NBC News
+📺 The Geo Network
 
-👁️ 39K • 👍 262 • 💬 100 • ⏱️ 6:47 • 6d ago
-
----
-
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
-
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
-
-📺 bycloud
-
-👁️ 220K • 👍 5K • 💬 468 • ⏱️ 15:41 • 1d ago
+👁️ 201K • 👍 3K • 💬 186 • ⏱️ 15:16 • 5d ago
 
 ---
 
@@ -265,16 +277,6 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 📺 AP Archive
 
 👁️ 123K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
-
----
-
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
-
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
-
-📺 Carros Show
-
-👁️ 43K • 👍 305 • 💬 38 • ⏱️ 19:36 • 4d ago
 
 ---
 

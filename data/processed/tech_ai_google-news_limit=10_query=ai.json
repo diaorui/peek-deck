@@ -5,18 +5,18 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788488470.0,
-      "article_url": "https://openai.com/index/gpt-6-astra/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "pub_date": 1788554946.0,
+      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
       "pub_date": 1788538320.0,
@@ -25,86 +25,86 @@
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "pub_date": 1788547052.0,
-      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "headline": "ChatGPT-maker OpenAI allegedly suffered another rogue AI breakout",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2xwbWlpZXlQMm15NElOc0l3TXA3LTM1c2p1V3BDQTFfdW52cU5QYzBtbUd0ajUwaHBjVmVzdXUxLU91MWZqVHdQRzBuRWRLZkliOUVPZ3RVNmFZMHpTNU4tOU5lZG9seVMzYW1hT1B6ZEFPTWtuTndmN3FvZm9hOEZnRVRXYzI2ejBJamxXakx3V1A1bFJMSHhGUVAwWGRsbzhKZ3Zlc2V6NkJXYjBZX2gtcFA?oc=5",
+      "pub_date": 1788557553.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/04/ai-agents-openai-broke-out-unreported-incident-report-claims/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NJTANME6RS3AUGGDWBWAFDGR4Q.JPG&w=1440",
+      "description": "Artificial-intelligence agents left 18,000 messages for one another online, independent researchers claim."
+    },
+    {
+      "headline": "Corporate America Is Getting Hooked on Open-Source A.I.",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
+      "pub_date": 1788533738.0,
+      "article_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Hexo Labs Builds Self-Improving AI That Learns on the Fly",
+      "headline": "Data center backlash is 'proxy' for discomfort toward AI, says author and professor Walter Isaacson",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOEpEYmNFeTFxZ1pRLWlsTkR4cWo3SzJ1dWk0clh3TzFCbzdlMU1rUGJnX2NWLVBSb2tzcTN6UW9MSk1DX3lfQUZkY0hTZ3h4QnVGVVlQQXhvZGZqb2w2dXFPb3BzcHJZTVhVRG1nSUhRZTNlNGgzbHltU3hsMTNZd0txSFFTVjEzUWNSdmdMY1dkU3dCS21wSzlJVWlBTkoxbVJvUzBndHpSSlRPWWJibGxqX3AteElVUk9XYnNTM2MtR0RTaktNTnhDSF9ZU0x0dmhFOGZn?oc=5",
+      "pub_date": 1788553334.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/04/data-center-backlash-is-proxy-for-discomfort-toward-ai-says-author-and-professor-walter-isaacson.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359209-17885526371788552634-48179618215-1080pnbcnews.jpg?v=1788552636&w=1920&h=1080",
+      "description": "Walter Isaacson, Tulane history professor, joins 'Closing Bell' to talk the growing backlash against AI data centers."
+    },
+    {
+      "headline": "Elon Musk is beefing with\u2026an online chess site?",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qNDRGUTYxMTlRdm5Hejh0a0IwX29SVHhUZ2g1Si1UcFdNQXFORm5iUXQyaTN1QUZib3F2U21VbmdmcGhOaHF5UzhJb3JmeXRTWjZsS2E1OTA1WWUxYVNESXI4MFNfRFlGa0NfMXFn?oc=5",
+      "pub_date": 1788554691.0,
+      "article_url": "https://www.businessinsider.com/elon-musk-chess-com-ai-2026-9",
+      "image": "https://i.insider.com/6a9b0e104f6138b37ff32c9d?width=1200&format=jpeg",
+      "description": "Elon Musk said that chess would be \"solved\" with artificial superintelligence. Chess.com said: \"Good luck.\""
+    },
+    {
+      "headline": "Hikers rescued after AI misroutes, strands them on Mount Shasta",
       "source": "USA Today",
       "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXc2WVduRlFjdkFpRDdtbUJ2MjlYb3dvMGVrSlQ2aXBHM052bnZNZHNWMHZVTTlrZzBIVXZqQU91Y2IwcDJVQ0JrcUo1YTlMNjJzbnZCRUtfcVk4UmZTZk5KVE91SlhoWWt4VDcyekNQemNxNC1FN1I5YU0wemRWVlBpQlRCQXJIbEtBSUdvTEFUZFdjQ2hJRHNmbWx4T0w5RHMtcng3dEMzQ3JUYlQ0RXp4STJxSFhCeWdHeENsMWFyN1B6OVhjLXlVSGxKczVIRWZ3SlY3RQ?oc=5",
-      "pub_date": 1788545220.0,
-      "article_url": "https://www.usatoday.com/story/special/contributor-content/2026/09/04/hexo-labs-builds-self-improving-ai-that-learns-on-the-fly/91613507007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91613511007-image-1-142.png?crop=1098,619,x0,y40&width=1098&height=619&format=pjpg&auto=webp",
-      "description": "Kunal Bhatia, CEO and co-founder, & Vignesh Baskaran, CTO and cofounder have both spent more than a decade building AI products."
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTZUQnZHcTh0UGF0Q3RLNGo0SXdTZE9mUVpDckV3VFVmbVFucFBJRFFhcHpNRTNpcTBzVzZBdjBsX1BicHItOFBIRTJlM1B2bFllRHFKdmxSeHluU3J3ckY1N0ZjcjRpRk9sQWs2RHdkaFhKbDhOakJ4MEo1cGdyM2wxVmQ4RUlMMFpqSk1BTDVUUGRPb0NTcDh5di1WWV9vcVlublZFNGJzUUFudk9CRF9zSXZuVnFOZTJ1M3dmVV9BQQ?oc=5",
+      "pub_date": 1788556560.0,
+      "article_url": "https://www.usatoday.com/story/news/nation/2026/09/04/ai-guided-hikers-stranded-mount-shasta-rescued-california/91615399007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/04/USAT/91615940007-getty-images-2074399913.jpg?crop=1023,576,x0,y64&width=1023&height=576&format=pjpg&auto=webp",
+      "description": "Three hikers rescued on Mount Shasta told local authorities they relied on Google Gemini to plan the trip and what to pack."
     },
     {
-      "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFk5dVlaNzFDT3V3QTRuZ3BSS05sY1VnM1VjdUV6eHVuSkdkRmlHanhxWUVkczV1NDlPZmJMSFlndEpWOFNEYnp4NHZFZ3FHdmdYV2h5U1hhdThna3k5WXJHZ0ZmaGM0QjRlYjZLbTkwWUVmUTBPTVBiM1lDOVkxZU5LNUYzRU56a0VndER0MVVRZ1ZLcGhZRQ?oc=5",
-      "pub_date": 1788546394.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktnUHdLTzFnb0J1VE56YjVOcVFjMXZCQVprZnlpa212c0R0LWhkd0VIQlNNMzAtNmFuMVc4OXFUWm02aXRDR2x5ODVJZnBmRzlVZXVxSExRbHd4ZXZiU2dwMWh0TjdmclhzSmh1MDdkYkduWFRwdFdHNVJMSTFNckZIc2tVbXByTW1pUVl0dmhxSmVHOWpndVBGZXFPdjBiOU5ZbUZRRFg3bURCcDlvWGJlbjZQQQ?oc=5",
-      "pub_date": 1788545102.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Exclusive-US, China gear up for mid-September AI safety dialogue",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdkdKeHBJOFBqUE13NnFOTmZWa0JqV2J6NUFZYmRtVkttS0dEVG90UElzVmJjLTV1LXNGNG5mR3dTdjFLTEYxa255LXNtWDUzc2JiaTFfSVJDYWtOYkMxWUhyakt2aE85UXZqWTR1eE9GWmR6ZGZoYWcxbExKdw?oc=5",
-      "pub_date": 1788539432.0,
-      "article_url": "https://finance.yahoo.com/news/exclusive-us-china-gear-mid-163032199.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dc1dbb4d90d28f137aca473bf1be40a4b7ab149c4a7533e082e7bebb95522abd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd3ec2faaf0d5d3765fc9890c4a16e330.jpg",
-      "description": "By Laurie Chen BEIJING, Sept 4 (Reuters) - The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters"
-    },
-    {
-      "headline": "US And China Reportedly Prepare For High-Stakes AI Safety Dialogue As Cyber Threats Surge Globally",
+      "headline": "Hikers who relied on AI rescued from California mountain",
       "source": "Yahoo",
       "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUzJCZ2dtZXUwMHFwT21xZG1rVm5PbjVqTVM1RG1DNnZxb2t1NUFvTG1NSG9XRU1YZDFtekNkLW95azdfSVMzOEI4dXM0bGRFdGk2RWJ3OVdEVmhTaU9leVFXaUNWaWxlZ1hmc05nQ3dqM0hTV3F5TUdRQVE0RkF1T05MYUMtRFlXZlZLdmNyQUxrNEVPVjcw?oc=5",
-      "pub_date": 1788548298.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/us-china-reportedly-prepare-high-185818871.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0799233da7134a477937ec92b6c103e85bee1f91f8e30c08b214ea4945430a70/lightyear_networkapi/resizefill_w1000_h539%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F75473c95f335aacd1236c99a5cb10073.jpg",
-      "description": "Washington and Beijing are set to hold bilateral talks in mid-September to address growing risks from artificial intelligence, Reuters reports, as cyberattacks intensify."
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXJkN25mQVViS3I1TlR1R05PcjJiWFRTb0RfUGMzSzk2aEh6S1hHUURnY2RFUkpVenlGS3hUWXJqYzR0Mk4tSG5neHR3clJDdU0teFEzSWJFUFIwam03Z3V6VEgxVERhcDFWalZhMzdHdVFBRGJLVmVEQkdsa1luNmZXYmFpSUVzdnZkQjJlbVl5cGM?oc=5",
+      "pub_date": 1788553740.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/hikers-relied-ai-rescued-california-202900663.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/829c2de28dd85dd90ac45ff5aaeb3e6b5828d003ec8457759d3fa2b39ec88746/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6022bd1d1c3d8b102ca15e4360497c3b.jpg",
+      "description": "The complications of the ordeal revealed how chatbot advice can fall short in remote environments."
     },
     {
-      "headline": "US adversary turns up the heat on America\u2019s AI lead with an underestimated edge",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWg5UDN6NHBjekI0Z1prR3FqNEpFQ1RjLU1FR0hvRnAxNktxRFdzeTVqOGQyZnpkSXRzMFRtaFc0WlNlR2lLblNod2JVOHRHRFhwRzhqS2czZWIzVDR0M3J0TEJBNnNmRUFDNkxCN2w2SUdtZXRObE5iM2VvX1hjT3k1TEdWMzJxNmg4Zlo1czBpSl82U1ZSZtIBngFBVV95cUxPaWFJOUJzREtjYnFoLUpLNmNWb3RGdFkwcUlXa01uSVFlSklGa1NHcmVscWRyRVBZVXRpV1pqV19lT3lwRlNsM3FYOW5PMTAyc1pmY21pMlRTTmtrSnpaa19ZdGttc0g0Y2twMVhPMXhFMkMwOWRjMThpVkVtNDAwMjQ2MWdYVEpUY0VIRzdpdVBuWkRoZGRzM0ZqUl9rdw?oc=5",
-      "pub_date": 1788516034.0,
-      "article_url": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-xi-handshake.jpg",
-      "description": "China's \"East Data, West Computing\" initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing's push."
+      "headline": "These hikers relied on tech and AI. They had to be rescued.",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XaWFNLWJBZjNwYjl1T0ZKcFFUSjVxT0h2YUFXalRiT3pzaTVSdDdHQU9ZMmdia0dqMmtfX29GSzNHVmNhcTZDd0UwQW13bC1SVWY2TWpIbzJTdG1EN3kzNnZUbjBXSDkwZUJub295dDFpZ21xUUhxT1c2QQ?oc=5",
+      "pub_date": 1788546985.0,
+      "article_url": "https://mashable.com/tech/hikers-used-ai-needed-to-be-rescued-mt-shasta",
+      "image": "https://helios-i.mashable.com/imagery/articles/07FO7Yy7LuFuNIq6eukqUlf/hero-image.fill.size_1200x675.v1788478854.jpg",
+      "description": "\"We relied too much on AI rather than our own critical thinking,\""
     },
     {
-      "headline": "The Dead-Internet Theory Is Back",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtIYzVaZ3RrZk5SV2V5Y1B5RHQzdDB3ZkpJOUZOMUtCUWcyM2ZiYWhNZGJOZXNURVplNFVfT0hvcjJfVUhnTmU1VWlMRjVPeXdNLVZmOWtuR3NfZkptUnJMRjJfWWNPVXlELUE0MG92ZVdUR1dpcklRam05SzhHOGhsdGJ0NGtUbXc?oc=5",
-      "pub_date": 1788518899.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
-      "image": "https://cdn.theatlantic.com/thumbor/z7p5dd454q_ltSxT-_KNkBxucdc=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif",
-      "description": "The \u201cDead Internet\u201d theory is back."
+      "headline": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pub_date": 1788488470.0,
+      "article_url": "https://openai.com/index/gpt-6-astra/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T19:19:39.763930+00:00"
+  "fetched_at": "2026-09-04T21:40:25.796116+00:00"
 }

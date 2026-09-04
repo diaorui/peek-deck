@@ -35,6 +35,28 @@
       "description": "There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually \"understand\" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't."
     },
     {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+      "published": 1788549135.0,
+      "thumbnail": null,
+      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "site_name": "theregister",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
+    },
+    {
+      "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
+      "author": "Chuka444",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7gdny/experiment_i_trained_a_model_on_childhood_photos/",
+      "published": 1788554808.0,
+      "thumbnail": "https://external-preview.redd.it/anV2cTVpY29ma25oMVyM3lGFergU1Wu54q2njaEVoFw1DzJPwUPDUe3V-Gxq.png?width=640&crop=smart&auto=webp&s=0a28de2422c224af691b292be7e0702c6b882741",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just \"a prompt\". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio."
+    },
+    {
       "title": "Automatic AI Responses to Customer Service Issues",
       "author": "Quitelegal",
       "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
@@ -44,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
+    },
+    {
+      "title": "OpenAI commits $1B to Daybreak support for frontline cyber defenders",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7enla/openai_commits_1b_to_daybreak_support_for/",
+      "published": 1788551006.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI says it is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services. The plan starts in the United States and targets water and wastewater systems, electric grid operators, state and local governments, community banks, nonprofits, and open-source maintainers over the next six months. The first new partnership is a pilot with MS-ISAC for state, local, tribal, and territorial defenders. It pairs Daybreak access with guided training and hands-on help. The Register notes that credits alone do not fix legacy OT systems, staffing shortages, or the risk around automated changes. OpenAI also says Daybreak Blue and Red users will not get Astra on day one. The useful test is whether the support model helps smaller teams find and fix real weaknesses safely. Sources: OpenAI: https://openai.com/index/daybreak-for-frontline-defenders/ The Register: https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382"
     },
     {
       "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
@@ -57,60 +90,27 @@
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
     },
     {
-      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
-      "published": 1788549135.0,
-      "thumbnail": null,
-      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
-      "site_name": "theregister",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
+      "title": "Has anyone here moved away from OpenCode recently?",
+      "author": "nooxax",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7gpyy/has_anyone_here_moved_away_from_opencode_recently/",
+      "published": 1788555575.0,
+      "thumbnail": "https://preview.redd.it/045sr9khhknh1.png?width=140&height=112&auto=webp&s=0941bc23c077efd945b8ce99d6bd58b3439759b4",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been using OpenCode whenever I don\u2019t have an active ChatGPT or Claude subscription, but lately it\u2019s become much harder to work with. Some of the models I liked most are no longer available, and the overall experience has gotten pretty frustrating for me. I\u2019m curious whether anyone else has moved away from it recently. If so, what did you switch to, and how does it compare in terms of model availability, context handling, coding workflow, and reliability? I\u2019m especially interested in hearing from people who actually used OpenCode for a while rather than just trying it once. https://preview.redd.it/045sr9khhknh1.png?width=780&format=png&auto=webp&s=97c992b4f3f86f521ab0a0566666db1d58a19f99"
     },
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "author": "MatriceJacobine",
-      "url": "https://www.reddit.com/r/artificial/comments/1w72cnz/discovery_of_a_new_openai_agent_message_board/",
-      "published": 1788523151.0,
-      "thumbnail": "https://external-preview.redd.it/nb3phJRhLf83SKA4wDO3lqLf4mmJ5DMjsmmO528OLKA.png?width=640&crop=smart&auto=webp&s=abdf22a7a2e15520df9a78facb89c8f6aa38bfba",
-      "external_url": "https://collusion.wiki/",
-      "site_name": "collusion.wiki",
-      "favicon": "https://collusion.wiki/apple-touch-icon.png?v=1a44a5be",
-      "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing."
-    },
-    {
-      "title": "Why would you use an AI to write your replies on Reddit?",
-      "author": "TheOnlyVibemaster",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/",
-      "published": 1788541501.0,
+      "title": "Do you use AI for mental support? For or against?",
+      "author": "erdematar",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7gh3t/do_you_use_ai_for_mental_support_for_or_against/",
+      "published": 1788555009.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they\u2019re still your thoughts. If you aren\u2019t writing your own stuff, there\u2019s not really a point to having an online presence at all, since you don\u2019t have one if someone else is writing your replies for you. I think drafts is a different thing since you\u2019re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I\u2019m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you\u2019re getting it to teach you what and why it\u2019s doing what it\u2019s doing as it\u2019s doing it."
-    },
-    {
-      "title": "AI Is Making Junior Developers Faster, But Is It Making Them Better Engineers?",
-      "author": "aisatsana__",
-      "url": "https://www.reddit.com/r/artificial/comments/1w737ld/ai_is_making_junior_developers_faster_but_is_it/",
-      "published": 1788525431.0,
-      "thumbnail": "https://external-preview.redd.it/8cMSX0-mfUokobECjzgCQowq5dcdoeB3osDrcGWOj8I.png?width=640&crop=smart&auto=webp&s=08a51b842ce5832f8c22b873d9440df81553972e",
-      "external_url": "https://shiftmag.dev/ai-is-making-junior-developers-faster-but-is-it-making-them-better-engineers-10708/",
-      "site_name": "ShiftMag",
-      "favicon": "https://shiftmag.dev/wp-content/uploads/2024/08/cropped-ShiftMag-favicon-180x180.png?x32039",
-      "description": "Three engineers discuss how AI is reshaping junior developers\u2019 learning, speed, and skills - and whether faster code makes better engineers."
-    },
-    {
-      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/",
-      "published": 1788491031.0,
-      "thumbnail": "https://external-preview.redd.it/jIbnFM4gCAvJZi7LQBMMwCyODIjy5BZQSuYJw2mwZlo.jpeg?width=640&crop=smart&auto=webp&s=1996a9adcbbad071164e064c358f4daf900be218",
-      "external_url": "https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion."
+      "description": "I heard one of my close friend\u2019s friend is using AI as a personal psychiatrist. We were discussing this and I wanted to get Reddit\u2019s opinion, don\u2019t AI give common sense advice? At least it advices to go see a professional in anything serious but it kind of feels pointless. Sharing your mental state and expecting a solution for your problems from an LLM. Does any of you tried using AI in this regard and was it helpful? Lets discuss. As for argument I heard that it relieves to share your problems with someone even if it is an LLM. I have found an article on this if you want to checkout: https://www.sciencedirect.com/science/article/pii/S2949916X24000525"
     }
   ],
-  "fetched_at": "2026-09-04T19:19:15.200563+00:00"
+  "fetched_at": "2026-09-04T21:40:06.104005+00:00"
 }
