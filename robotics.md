@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T21:40:34.176496+00:00'
+updated: '2026-09-04T23:46:39.863650+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 21:40 UTC  
+**Last Updated:** September 04, 2026 at 23:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,11 +108,11 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
-The country is using its superpower of scaling and building supply chains to challenge the global industry
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
 
-Financial Times • 2d ago
+BBC • 21h ago
 
 ---
 
@@ -120,29 +120,19 @@ Financial Times • 2d ago
 
 Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
 
-Interesting Engineering • 9h ago
+Interesting Engineering • 11h ago
 
 ---
 
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+**[Opinion | China’s robot revolution may not arrive in the way you expect](https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect)**
 
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-BBC • 19h ago
-
----
-
-**[eCential Robotics Announces Binding Offer from Enovis](https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html)**
-
-/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis™ Corporation (NYSE: ENOV)...
-
-PR Newswire • 3d ago
+South China Morning Post • 1d ago
 
 ---
 
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Signal Akron • 17h ago
+Signal Akron • 19h ago
 
 ---
 
@@ -158,7 +148,7 @@ GeekWire • 1d ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 8h ago
+ABC7 Chicago • 10h ago
 
 ---
 
@@ -166,7 +156,15 @@ ABC7 Chicago • 8h ago
 
 Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
 
-New York Post • 1d ago
+nypost.com • 1d ago
+
+---
+
+**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
+
+Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
+
+MedTech Dive • 2d ago
 
 ---
 
@@ -178,11 +176,11 @@ Stock Titan • 1d ago
 
 ---
 
-**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
+**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
 
-Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
+Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
 
-MedTech Dive • 2d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -196,17 +194,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 81K • 👍 376 • 💬 38 • ⏱️ 1:49 • 5d ago
-
----
-
-**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
-
-Hilarious Falls and Fails at World Robotics Games 2026.
-
-📺 Chris Wabs
-
-👁️ 14K • 👍 113 • 💬 20 • ⏱️ 11:03 • 6d ago
+👁️ 82K • 👍 380 • 💬 38 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -216,7 +204,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 236K • 👍 5K • 💬 494 • ⏱️ 15:41 • 2d ago
+👁️ 254K • 👍 6K • 💬 506 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -226,7 +214,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 143K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
+👁️ 144K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
 
 ---
 
@@ -240,33 +228,23 @@ These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling 
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 5K • 👍 80 • 💬 7 • ⏱️ 0:59 • 12h ago
-
----
-
 **[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=0fBO1pVjxeg)**
 
 (25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
 
 📺 AP Archive
 
-👁️ 103K • 👍 326 • 💬 132 • ⏱️ 0:56 • 5d ago
+👁️ 103K • 👍 326 • 💬 133 • ⏱️ 0:56 • 5d ago
 
 ---
 
-**[UNSTOPPABLE: Ukraine Unleashes a FULL ROBOT ARMY on the Frontline](https://www.youtube.com/watch?v=lgdM6yEijHo)**
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
 
-The nature of warfare has permanently changed. In a historic military milestone, Ukraine has completely redefined the battlefield ...
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
 
-📺 The Geo Network
+📺 ejunky66
 
-👁️ 201K • 👍 3K • 💬 186 • ⏱️ 15:16 • 5d ago
+👁️ 6K • 👍 84 • 💬 7 • ⏱️ 0:59 • 14h ago
 
 ---
 
@@ -280,6 +258,16 @@ The nature of warfare has permanently changed. In a historic military milestone,
 
 ---
 
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 44K • 👍 312 • 💬 39 • ⏱️ 19:36 • 4d ago
+
+---
+
 **[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
 
 Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
@@ -287,6 +275,16 @@ Humanoid robots are taking on a real-world racing challenge at the 2026 World Hu
 📺 BeMyWay
 
 👁️ 67K • 💬 45 • ⏱️ 0:57 • 6d ago
+
+---
+
+**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
+
+A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
+
+📺 Tum Tum
+
+👁️ 372K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
 
 ---
 
