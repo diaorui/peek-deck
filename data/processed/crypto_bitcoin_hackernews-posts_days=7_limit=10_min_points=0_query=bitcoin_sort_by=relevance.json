@@ -89,20 +89,6 @@
       "site_name": "Medium"
     },
     {
-      "title": "What if old coins paid Bitcoin miners?",
-      "url": "https://www.organicbitcoin.org/notes/what-if-dormant-bitcoin-paid-miners.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49479650",
-      "author": "zpy",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-08-28T15:04:59Z",
-      "object_id": "49479650",
-      "image": null,
-      "description": "Could old coins that have not moved for years help pay Bitcoin miners without creating new coins?",
-      "favicon": "https://www.organicbitcoin.org/favicon.ico",
-      "site_name": "organicbitcoin.org"
-    },
-    {
       "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 4",
       "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e",
       "hn_url": "https://news.ycombinator.com/item?id=49558061",
@@ -143,9 +129,23 @@
       "description": "Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.\u00a0 The site is already",
       "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
       "site_name": "American Buildout"
+    },
+    {
+      "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 2",
+      "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c",
+      "hn_url": "https://news.ycombinator.com/item?id=49514737",
+      "author": "docjojo",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-08-31T20:55:52Z",
+      "object_id": "49514737",
+      "image": null,
+      "description": null,
+      "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+      "site_name": "Medium"
     }
   ],
-  "total_hits": 14,
+  "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-09-04T12:51:06.768009+00:00"
+  "fetched_at": "2026-09-04T16:45:33.952344+00:00"
 }

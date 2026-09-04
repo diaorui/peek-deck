@@ -5,14 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "pub_date": 1788519617.0,
-      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+      "headline": "AI models are becoming unknowable",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SaFBKelRIaVZKb3hzeHZPN3ZUZzloM2gzdTZ6RTJPLUhJS084dG1LcGlnUExuX1YtVU9jZWxVLV84VzFCYVhobkxJb0F1SnUyWjJtb2JxM1o0WldJWjFzNGw0RTVyUHZQSS1GVENuMkx5WHc?oc=5",
+      "pub_date": 1788515116.0,
+      "article_url": "https://www.axios.com/2026/09/04/astra-openai-how-ai-models-think",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pub_date": 1788488470.0,
+      "article_url": "https://openai.com/index/gpt-6-astra/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
+      "headline": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2hnTl9HSkEyWms5WjFLRmpfRW5acEMzRzRwQ01xY0ZKZ3ZiMG5sZk5QMUp5SVI2OWhkQkNlTUs2QVBzMlItaTN1M0VZbXVDYml2alVIUHNxc0hOcm85SWdUVC1XUFEwaEV2UGc3RlhwaWdEcElHcUZiZW5zLXFjUmpCQUFxanYtS2QxZThn?oc=5",
+      "pub_date": 1788458400.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "According to OpenAI president Greg Brockman, we\u2019ve likely entered the AGI era."
     },
     {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
@@ -25,54 +45,54 @@
       "description": null
     },
     {
-      "headline": "Lawmakers behind the strictest state AI laws urge tech companies to slow down",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWEySmVvRm9LcXY3LTllcUVZTFhBX2h1dGZzeklKYWRpaEhEQVhWMWFRZkcyQWFueFhxVGxjVGFGREpFQk91TVdzbkRHSGZLZTV2QmpEUzJPTlV5dXBlaWVSeGlrNy1sanl1WkwwdTZKMFRWMDctZnZiN1BqaFg3S2NLaHp4eGg0aXY1dEpiMHpvZmp2WXN6THZ3dF9rTnBBZ0JBZk44bw?oc=5",
-      "pub_date": 1788519600.0,
-      "article_url": "https://www.nbcnews.com/tech/security/lawmakers-strictest-us-ai-laws-urge-tech-companies-slow-rcna596027",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260903-sam-altman-ww-1713-bccc39.jpg",
-      "description": "The five state legislators who authored the country\u2019s most significant AI regulations say frontier AI companies must work together to \u201cpace\u201d the speed of AI development."
-    },
-    {
-      "headline": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkNmN2xvLUV5ZmwxTUJ2dHV0dGtLT0VwcU1EZFRMWGhMTjNpbUNQeDBoTm5FMkh4SktTVnoyWXFLVk1VSzFSV2Mtd0xuYkd4ei03VVdsUlJEa0k4MlJjRlJYRmtiOHlrcDliRmF4MmJZcl9iRExOZUtxck9mYmVuWG5JWHRWbTd6dnBUcXpkeXNmLVpxTC12TmEtQ1duUmh6SnNpU1BuY0_SAa4BQVVfeXFMTjByalk1Q0lUekR1RXVHeWxTakJPZ2htN0syWlIzWHhHRU5hR2xycjhtSTktd19BTEJiX1hjdFA1RW9JdzhYcUwyempqcV9GcWRqNjVCQVBUMUhKS0xGSXE0NENVOEZHYmhlRWVndm9LTGVOd09sY2Vtc08xRi1mX2lJRVYxVGNXblJhV1ptRmNiVmMyUXJxSW9OZ2t1UDBsR1R4UG9DOTRrazYxZEhR?oc=5",
-      "pub_date": 1788437066.0,
-      "article_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
-      "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\""
-    },
-    {
-      "headline": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
-      "pub_date": 1788437991.0,
-      "article_url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "pub_date": 1788528026.0,
+      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Not Nvidia. Not Palantir. This AI Stock Could Have the Most Upside.",
-      "source": "fool.com",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWF5bVptZnUtcTRpb2tiSnQ2am9CQ1QyTlFEa1dEaVktQUloTVVNRzhvN3VyalhDZVJ2M3FmUkk0NkVaMmRVSFluUWtsUlUxdUdhTGozMmIzck1yTGZXMkVnXzgyeldVSUdPVnhDdTdSWVlTSW5FQWFmSEZ0VXFCZ2VWa25JLVMweVVGRkcwOERDXzJEQ1JpOQ?oc=5",
-      "pub_date": 1788521001.0,
-      "article_url": "https://www.fool.com/investing/2026/09/04/not-nvidia-not-palantir-this-ai-stock-could-have-t/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885644%2Fgettyimages-157741219-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "description": "Investors must weigh risk versus reward for this promising AI stock."
+      "headline": "AI agents can act on their own \u2014 and sometimes break out",
+      "source": "WCVB",
+      "source_url": "https://www.wcvb.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0FVT0lWc1EwdXdLN0t2bDNzNUdhTldLT0hvRmh4VkpCbmZCUEp0NmdTaGhoUmFFRHR4T2RSYlpuc0RjM1QwZWpDXzRfZWlObVRGMzdMNTJxYWtmN1RZRVZ1d3Z4Y01aa0lpd1B1eGNPTWhMUkpheTBicEVnSDhmYzQyWmFQcFcxdGtvclh6U05qdXlwZkNz?oc=5",
+      "pub_date": 1788533700.0,
+      "article_url": "https://www.wcvb.com/article/get-the-facts-what-are-ai-agents-how-hacking-companies/73616148",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/1477b56f-abde-4cc3-bac2-be7920ad19fc.jpg?crop=0.9999316239316239xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
+      "description": "AI agents can book trips and answer emails, but experts warn they\u2019re also increasingly capable of going rogue and hacking into systems."
     },
     {
-      "headline": "GOP Nominee Steve Hilton Says He Will 'Ban AI From Deciding Who Gets Fired' Amid AI-Firing Row in California",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDlBcnc0YzR1aXh5UGdfMjlkMWMzTTV4M2lzRHBjMFBWeWJnbmt0VG5IRzVqWGF6U1dseGRtWlljamdNeWU0WURKbXhkRXZ0VEY1LUI2TVcxY184aEdtQUFtTGVnMTdkR1JISkFKYTItRW1YWVdQeFNlSVJUNVRteDJyWncyc2xoZmlsWWZBZkdia2M?oc=5",
-      "pub_date": 1788521469.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/gop-nominee-steve-hilton-says-113109525.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1f92961006c462e53394537c620bfb04978abfda4f5a522f0b38207b8fa4b108/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F6fce8712f10d0fda2dbbe70c4da830b3.jpg",
-      "description": "Political commentator Steve Hilton, who is also running as the Republican nominee for Governor of California, criticized AI-driven workplace firings after a San Francisco worker was allegedly fired by..."
+      "headline": "How Andreessen Horowitz Turned Its AI Bets Into an $8 Billion Bonanza",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTVvUEFGOTNDVDctQmxZTlo1T1BXR01mbk5QM3ZBVVQ3NW1na18wZEUyWmtVU29tY1VKN1R3OTdmSUQzLU1BYTBpYngyMzFkSVVsblZDM0dSMFVmUTVlcEgxMmlBT3BQTC1oVEp6ZXo0eEo2T054S1JRTElXOTVkVTB2YUtIUVE0bEk1aGhTRUVENnVOSDhJ?oc=5",
+      "pub_date": 1788537660.0,
+      "article_url": "https://www.theinformation.com/articles/andreessen-horowitz-turned-ai-bets-8-billion-bonanza",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Corporate America Is Getting Hooked on Open-Source A.I.",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2FXaWpJTHFhTkJaSmNqeWxrTVo0TTNQNE1saFp5SDFUbmJRZ05vUWRJaXl2cnZmZE0zc2huMzhDVHZHaGYxSEdQNFVrcnFaMThtWl85UkxIWm1HZkdoa19QbVF1cG5halo1ZEVtLUotTE9US0wteXZ0RnU2STBfaWRXLTJYRm5FUWc?oc=5",
+      "pub_date": 1788533738.0,
+      "article_url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Back-to-school shopping brought to you by AI \u2014 how Amazon, Google are positioned to win",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcHozQWFsUllQV0ZwRkpITWtza2w4ZFgySDJUb3g1VkdwOWtIYUoyX1ZCVEdkSTQxZDF3akt1UkY1U2VpZVpweVIxWmdfWHFUZHV0cDNDd2o4T3E3TS1PVDd1WUsxZlU4TE5xZ2J3V0Y1dVUwU1p4b21oSjYtRXNZYWNody1kMjNGMjdtZFdRbXRRbkpqLVVkS3NLWXk3ZnJ4NEVndlFxVUNsWjZKZFpGZVUyclJsNnMtNWxPbjJ3?oc=5",
+      "pub_date": 1788533235.0,
+      "article_url": "https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108025535-1724692862029-gettyimages-2168611918-ms1_1420_39udta0e.jpeg?v=1788208652&w=1920&h=1080",
+      "description": "The rise of AI-assisted shopping during this year's back-to-school season may be an early window into evolving consumer buying habits."
     },
     {
       "headline": "This city is one of the world\u2019s most important AI hubs. It\u2019s not where you\u2019d expect",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnn.com/2026/09/04/tech/toronto-ai-hub-geoffrey-hinton",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-17015484g.jpg?c=16x9&q=w_800,c_fill",
       "description": "Geoffrey Hinton, a Nobel Prize-winning computer scientist, took a leap in the 1980s \u2014 leaving a well-funded post at Carnegie Mellon University to pursue a little-studied area of machine learning research at the University of Toronto."
-    },
-    {
-      "headline": "Am I Talking to You, or ChatGPT?",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtIYzVaZ3RrZk5SV2V5Y1B5RHQzdDB3ZkpJOUZOMUtCUWcyM2ZiYWhNZGJOZXNURVplNFVfT0hvcjJfVUhnTmU1VWlMRjVPeXdNLVZmOWtuR3NfZkptUnJMRjJfWWNPVXlELUE0MG92ZVdUR1dpcklRam05SzhHOGhsdGJ0NGtUbXc?oc=5",
-      "pub_date": 1788518899.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
-      "image": "https://cdn.theatlantic.com/thumbor/z7p5dd454q_ltSxT-_KNkBxucdc=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif",
-      "description": "The \u201cDead Internet\u201d theory is back."
-    },
-    {
-      "headline": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1VQ0hUakJ5T0M1UUk4RlBPcUtBUWtsSC0wX2xIS3B6bDNyOEJqNWxfaHVETTZTNEFCeWpOMWl0VDM1V1JWT2U5RE5qY3NrUDBjSlNGcF9IUEZCWEI0MXk0QzRseU9pYlFEUUF4MGZNOXN2VWFlMmdCV3R4WGRhTXZKNHZvRFJUdDk3aFJNdHJXRm90eEhJaHNnaWNzOW9VWEE?oc=5",
-      "pub_date": 1788448236.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
-      "description": "WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T12:51:29.459797+00:00"
+  "fetched_at": "2026-09-04T16:45:59.899277+00:00"
 }
