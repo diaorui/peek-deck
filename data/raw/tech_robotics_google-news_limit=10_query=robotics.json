@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Medtronic Announces Strategic Partnership with Cornerstone Robotics to Further Expand Global Access to Robotic-Assisted Surgery",
-      "source": "Medtronic",
-      "source_url": "https://news.medtronic.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmpGNDVxU29scmpVUFNtUVcybW0tMXNuYUhoX0hjSG1OU0RSc3IzeGhZX1cyckVIM0thcnZJSGo4UjFLMmNPSG94M3FIc2U4RmpYT1lELU90SnRNeG5yb2QtQ2Jwa2dNbzEza3Z5aXljYXhpbUxQQWVHaEo1LTQ2S3ZjenQtYmNGSkRsQ2dJN2MyU2JySEJvN2ZBWHBOWTlMcEhwSVczY2c4dHBFVjExbUhEY3JwVmZzX1pBUXNuUXZBMTVNMGhyRDl1eXVyLVdrZXBYaWM0cHItUmlQSG5NUjVWaEh6SmdoZnJEa2pZcE1vSFRVN0FsbA?oc=5",
-      "pub_date": 1788260714.0,
-      "article_url": "https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery",
-      "image": "https://mmx.prnewswire.com/media/MS974964/Medtronic-Logo.jpg?id=OA2922003&p=facebook",
-      "description": "Partnership expands Medtronic's robotic-assisted surgery portfolio to expand access globally and gives surgeons and health systems more choice and flexibility $700 million investment includes..."
+      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "source": "bbc.com",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "pub_date": 1788487322.0,
+      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
       "headline": "China\u2019s real robot revolution is not about humanoids",
@@ -25,34 +25,54 @@
       "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
-      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
-      "source": "spectrum.ieee.org",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
-      "pub_date": 1788537878.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
-      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
+      "headline": "Opinion | China\u2019s robot revolution may not arrive in the way you expect",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVpNRk5KUU9paDVSdTJMVXBCYkhLTEh2S0FQV3U3Wm5JS1JwWXhLMTFHOXYzS1dqY05pcVYxVDRtdjFoaF9OT0JCbUJDMjBvNGdpY056amI5ckJsamxsX1k0c0luRkl5V0M0MnpEUUVqT0FfN0NuQkk3NTZPTDYtcWVvVlVaYUp6UkwtUU0tUzZ6OWxNN2FObk1RUURkbnpCTW9SaU95c3h6X25KN0l0cFZ30gGyAUFVX3lxTE5aT0tYUXZHTDRXemZkekI3LVUtM3R1NnlmYWNmb2kwQ1dpcE5KZ0dUU0VGVUhremZMU2pKcmtVa1lXb19FUUswXzZNTmMySFVSUlA4VVlIWkdScHU5aVhwR1VnRzRvSUtXZHh2akdUaEcxNktTRmNpZGNocnBoNnB2UVcxYmxya0d0d1VEYVdsM09zX0ZCRWQ5Qk9tQTc4U2wyWUZJcng4ZHNXNlRwa1FBX1E?oc=5",
+      "pub_date": 1788471008.0,
+      "article_url": "https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
-      "pub_date": 1788487322.0,
-      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
+      "headline": "eCential Robotics Announces Binding Offer from Enovis",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmFLc3IwY1U2VGhlNXI4QU9aam5lZWlpQ2JWU3ZfdGkzUkZrTVh4UFVONGNQU2w0bXJ4eW1ZQmFxNFgzRGRnWWRpenZ2M2gzN290VUJWdnhEem5mbkVLNV8xeU9yQWtSczk2MWltNjlJQUpGX3hOY2IySUpseUdoTW5XY2ROU20wb2FYc3ozTnJGTXhnTWFtbFZEaVlwMUtOVk1kVEpqcnRwd0xzdFE?oc=5",
+      "pub_date": 1788259500.0,
+      "article_url": "https://www.prnewswire.com/news-releases/ecential-robotics-announces-binding-offer-from-enovis-302865407.html",
+      "image": "https://mmx.prnewswire.com/media/MS1977812/eCential-Robotics-Platform.jpg?id=OA2921391&p=facebook",
+      "description": "/PRNewswire/ -- eCential Robotics, a leading developer of enabling technologies and surgical robotics, today announced that Enovis\u2122 Corporation (NYSE: ENOV)..."
     },
     {
-      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
-      "source": "ABC7 Chicago",
-      "source_url": "https://abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
-      "pub_date": 1788527525.0,
-      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
-      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
-      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+      "headline": "ARM Institute announces nearly $90M in DoW funding for robotics projects",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnl3Tjc1TU5hR3JxWlZlLUdPd3pGUC1FWEpMY3dGMjJBTkZFQzVzaDhKZjQ4UlVzV0RsTExMVzVKeGwwVDU2emZpN19YR2hXcmxtRTVKSEh3cDRWMkNBcUhrVWJEdWMwaGRtVXJpRmZuRWU2TUQ4dFRJVlVpTU5teWE5UzZWa3lwNXNOcmh4OUtyd1ZDOXYwQQ?oc=5",
+      "pub_date": 1788538235.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/arm-institute-announces-nearly-90m-161035989.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cfdd55cad2a1ece3525708f0b3e303665eeab1a248ea4881342af28ae0925ad2/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2Fe4dedeab668196641483b541e6e1505f.jpg",
+      "description": "The Advanced Robotics for Manufacturing Institute, based in Pittsburgh, announced that it has been awarded upwards of $90 million for ten different projects."
+    },
+    {
+      "headline": "Physical AI Infrastructure Market to Reach $327.21 Billion by 2035 as Robotics and Autonomous Systems Accelerate Global Demand | Research by SNS Insider",
+      "source": "sg.finance.yahoo.com",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjNqMkJRWjNaMTFydVpTVWVWdlk4ZEtMbHYxUHlzSkUzWnYtUkhwY3lYcE5VelBaWTJkSC01T2trNGM5TWFRTTZxUDYtVk03dUMwczk5OWY4M2NLSkFNSlY2S0lpQjBOSHNkeUowd1RTQlE1M3E2VzNyV2RMUUx3OWJjMTNpeng2Q3pHSDRrRmo2dw?oc=5",
+      "pub_date": 1788546600.0,
+      "article_url": "https://sg.finance.yahoo.com/news/physical-ai-infrastructure-market-reach-183000299.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c8dfd933d93cb67f3d180005a7107003e020dca9cc9a1007bf351062dc0dde99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9f4e35b9c0dd2bdaf94af3b38aab30ab.png",
+      "description": "The U.S. Physical AI Infrastructure Market is Projected to Grow from $4.85 Billion in 2025 to $111.04 Billion by 2035, While Europe is Expected to Expand from $3.98 Billion to $79.91 Billion by 2035.Austin, United States, Sept. 04, 2026 (GLOBE NEWSWIRE) -- The Physical AI Infrastructure Market was valued at USD 14.20 Billion in 2025 and is expected to reach USD 327.21 Billion by 2035, growing at a CAGR of 36.91% from 2026 to 2035. The market growth will be fueled by the deployment of artificial"
+    },
+    {
+      "headline": "AGIQUAD Showcases D1 Quadruped Robots at LEAP 2026, Expanding Its Presence in the Middle East",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDFZa09CanZlVktJSmxkbjVuOWtwSFBhbUJzZmV1R09pSm9xV0RwT3RSV0VHTGE5akJmb3ljb3VWcU1xeks1eEFrY0VKUk9YWGY5SUZyQVoxOGF2Z0hnVWQ1VC12eF9LRXkwVkRQcmkwM0JPbWNRN2tNb0tSZjNJenoyckExNnA4RVdscDg5UEZ0NWNWMUIzRnYxREtCT2Z1VlVj?oc=5",
+      "pub_date": 1788541560.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/agiquad-showcases-d1-quadruped-robots-170600757.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/15a0b89f40e1ac84e18edb09805b5c41b538307e54997f8064830e443601be59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fb10055d2fab557f7b65ade9dfbdb5c3b.png",
+      "description": "RIYADH, Saudi Arabia, Sept. 04, 2026 (GLOBE NEWSWIRE) -- AGIQUAD, a developer of embodied intelligence and quadruped robotics solutions, showcased its D1 Series quadruped robots at LEAP 2026 in Riyadh, presenting solutions designed for complex operating environments across the Middle East, including desert and outdoor areas, industrial and energy facilities, and municipal operations. LEAP 2026 brings together technology companies, investors, government representatives and industry leaders from a"
     },
     {
       "headline": "Hear what University of Akron president say about safety and robotics",
@@ -65,46 +85,26 @@
       "description": null
     },
     {
-      "headline": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFlNYzhkNWgxVkZkVGYzMzVsdVVOU1NVZmZ1VWY3QUhGLTNPaGVXMFd4U1pFU2tEQ012UFN4Tk9CNnMzMkxCdTBzdThVYm5FZG92VE44QXczY2NkbXJuaUFxREdlaGNmWmNqdVBoRmtZUVlNV1Z6MU81azRyOEFKbHk2TmlsMEJxd3pWTnlkY01RWXRMbVFONWRQdmtJSk9EMjlqdHJjazRwd9IBrwFBVV95cUxOZ0VjeDg2NFRpUE00Z2pBd29ZekxDSmhHb0hKa09pNG90YzBNQnBQQm5lZFF4VTVncjI0Si1BRXg4VW9pZDl2d2xUWEt0LU1iSU1BcXdLZU5Gdk1NaHgtLUZMS1ZGRzlMQmY1VWxYcGlJVUFVbFhKZlVmaXdjX0RPalI0blQxMVNuUEF5Tnh6N2xtbklZeEthYk1BdUZXcVhvNlU1akZPTFlnZGFySXV3?oc=5",
-      "pub_date": 1788247471.0,
-      "article_url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356804-1788229697433-microduck-kickabout.jpg?v=1788229871&w=1920&h=1080",
-      "description": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday."
+      "headline": "Tech industry\u2019s robotics talent crunch has UW\u2019s new grad program nearly full before day one",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFdlUlUwcFNWajBfc1ZIbXVpSW1tTHNxb2JEQmVkMDkwYmEzUWFfaWpTdFVmM3g4SEJicUl4OWtqSzJFQ2xhMjBGN3ZoNDFsWmlrNWwtTkpIQ2I5YjFwQkZBZTNRRFh2TWh0ODE4UHJpVWVzOEtGc1RBSDQ0RkdZYTJHWk1pNy05R2MyU0JmeElqUzR0Tmc1MHVKb3hiM3RMLVBfbEtsTHc?oc=5",
+      "pub_date": 1788463099.0,
+      "article_url": "https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/robots-uw.jpg",
+      "description": "The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing."
     },
     {
-      "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVTOXNGSTdHMWIwblFPdkJXYmRReElTMzRKZ3U2VHpnU2xhMEVKNzFPQ29GZlA4NUdaZjRoN2tBOUh0ZUwxNmtRajRBamdiSEVCRTZLUUNnekRkZUJJc3dXVGt3c0s3UTRkNS0xREhqcWV4LXFWUGd0Z0JmakZJVDdMM2pUal84UjJxUmxaX3BWTXBFWTZWR0dRd3BmelFpWXAxZTln?oc=5",
-      "pub_date": 1788464460.0,
-      "article_url": "https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-l52858ztp-1788462169023.jpg?quality=75&strip=all&1788447805&w=1200",
-      "description": "Food delivery start-up Wonder slashed 175 jobs \u2013 or 7% of its workforce \u2013 this week to invest in robotics and automation, the company said."
-    },
-    {
-      "headline": "Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows",
-      "source": "blockclubchicago.org",
-      "source_url": "https://blockclubchicago.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXpJc21fWjIybTA2WDRTLVpIUkxqMUlMVkRCVlBBYkNDdHdza2V6UEJWQ25EWndFbk1Pem9BWEdXcm4teGRBS2lyOF9zVXJMb09yaE5SZ1p4a1kzZ3lFd2NiZU1OUXByZmNnVXFxTFlFSWhYNGJ4Nm5YSkpNaFc0c2h2aHc0LWk0Z1RyaGh1cmdPQUVPeXI5NDZjMGc4T05hb1JtSTJyZU9PQWVoOGtYbWVSUEZvZDlK?oc=5",
-      "pub_date": 1788439260.0,
-      "article_url": "https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The National Beat: When to add AI agents",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlhyclhyVGp3NWsxV0Q3OXpkWTdBQmJvSU00ZF8xUUhXMVdEaTJVWVFBZHlBeWVYY2U0OUNIVGJCTXZZWVFWa0xzUnZMY0hkaGdFeDFYRW0taHc2bFgyVlNLWmtDeEZaaXZER3FEUFhzYks3eXJYRTgzR2pBdGtlbUI5d1VCZi1BaDl5RFktT2x4OUE?oc=5",
-      "pub_date": 1788536640.0,
-      "article_url": "https://www.bizjournals.com/houston/news/2026/09/04/the-national-beat-when-to-use-ai.html",
-      "image": null,
-      "description": null
+      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
+      "source": "ABC7 Chicago",
+      "source_url": "https://abc7chicago.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
+      "pub_date": 1788527525.0,
+      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
+      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
+      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T16:46:04.154053+00:00"
+  "fetched_at": "2026-09-04T19:19:44.072050+00:00"
 }

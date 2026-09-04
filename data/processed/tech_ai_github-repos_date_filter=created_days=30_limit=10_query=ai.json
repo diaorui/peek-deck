@@ -8,9 +8,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 20537,
-      "stars_display": "20.5k",
-      "forks": 2374,
+      "stars": 20563,
+      "stars_display": "20.6k",
+      "forks": 2377,
       "forks_display": "2.4k",
       "language": "Python",
       "topics": [
@@ -30,10 +30,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4231,
+      "stars": 4245,
       "stars_display": "4.2k",
-      "forks": 514,
-      "forks_display": "514",
+      "forks": 518,
+      "forks_display": "518",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -42,7 +42,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-04T16:25:42Z"
+      "updated_at": "2026-09-04T19:17:25Z"
     },
     {
       "full_name": "Hisn00w/ASu-skills",
@@ -52,10 +52,10 @@
       "description": "\ud83d\ude80\u9762\u5411\u6c42\u804c\u4e0e\u5f00\u53d1\u573a\u666f\u7684\u5b9e\u7528 AI Skills \u96c6\u5408\uff0c\u652f\u6301\u7b80\u5386\u4f18\u5316\u3001\u5c97\u4f4d\u6295\u9012\u3001\u9762\u8bd5\u51c6\u5907\u4e0e\u5f00\u53d1\u63d0\u6548\u3002",
       "url": "https://github.com/Hisn00w/ASu-skills",
       "preview_image": "https://opengraph.githubassets.com/c0b8828c74619eb6696fffd4a2bb91fd4c059ef3ebe5dbd5a8e4cdb4d6cd8a35/Hisn00w/ASu-skills",
-      "stars": 3503,
+      "stars": 3505,
       "stars_display": "3.5k",
-      "forks": 221,
-      "forks_display": "221",
+      "forks": 220,
+      "forks_display": "220",
       "language": "HTML",
       "topics": [],
       "updated_at": "2026-09-04T14:34:01Z"
@@ -74,7 +74,7 @@
       "forks_display": "435",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-09-04T16:40:30Z"
+      "updated_at": "2026-09-04T17:58:13Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -106,7 +106,7 @@
       "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "url": "https://github.com/Leonxlnx/unlazy",
       "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 3042,
+      "stars": 3047,
       "stars_display": "3.0k",
       "forks": 196,
       "forks_display": "196",
@@ -128,10 +128,10 @@
       "description": "AI \u77ed\u5267\u5236\u4f5c\u7684 skill \u96c6\u5408\uff1a\u62c6\u89d2\u8272\u3001\u6392\u5927\u7eb2\u3001\u51fa\u573a\u666f\u4e0e\u9053\u5177\u8bbe\u5b9a\u3001\u5199\u5267\u672c\u3001\u5207\u5206\u955c | Agent skills for AI short-drama production \u2014 character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
       "url": "https://github.com/eternityspring/shuohao-skills",
       "preview_image": "https://opengraph.githubassets.com/3b6110394ae25749201c1dbfcc512023efe7d25a9c1e888851850c99c7ae752b/eternityspring/shuohao-skills",
-      "stars": 2822,
-      "stars_display": "2.8k",
-      "forks": 361,
-      "forks_display": "361",
+      "stars": 2851,
+      "stars_display": "2.9k",
+      "forks": 365,
+      "forks_display": "365",
       "language": "JavaScript",
       "topics": [],
       "updated_at": "2026-08-26T14:20:50Z"
@@ -144,10 +144,10 @@
       "description": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "preview_image": "https://opengraph.githubassets.com/f10f616db61a209c7bf07ed5482e12f64531619706c47ae3c1babe45b03fcc41/ShawnPana/phone-harness",
-      "stars": 2391,
+      "stars": 2394,
       "stars_display": "2.4k",
-      "forks": 230,
-      "forks_display": "230",
+      "forks": 231,
+      "forks_display": "231",
       "language": "Python",
       "topics": [
         "agent",
@@ -155,7 +155,7 @@
         "automation",
         "developer-tools"
       ],
-      "updated_at": "2026-09-04T03:14:01Z"
+      "updated_at": "2026-09-04T18:48:42Z"
     },
     {
       "full_name": "Nanako0129/sepia",
@@ -165,10 +165,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 1968,
+      "stars": 1985,
       "stars_display": "2.0k",
-      "forks": 120,
-      "forks_display": "120",
+      "forks": 122,
+      "forks_display": "122",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -177,7 +177,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-04T16:29:17Z"
+      "updated_at": "2026-09-04T17:59:37Z"
     },
     {
       "full_name": "SMNETSTUDIO/WeChat-AI",
@@ -200,6 +200,6 @@
   "search_query": "ai created:>2026-08-05",
   "days": 30,
   "limit": 10,
-  "total_count": 453161,
-  "fetched_at": "2026-09-04T16:45:32.334585+00:00"
+  "total_count": 455239,
+  "fetched_at": "2026-09-04T19:19:13.585263+00:00"
 }
