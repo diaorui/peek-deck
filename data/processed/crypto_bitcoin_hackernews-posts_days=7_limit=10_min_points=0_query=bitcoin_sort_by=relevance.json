@@ -47,6 +47,20 @@
       "site_name": "Bitcoin Magazine"
     },
     {
+      "title": "Bitcoinica",
+      "url": "https://en.bitcoin.it/wiki/Bitcoinica",
+      "hn_url": "https://news.ycombinator.com/item?id=49558143",
+      "author": "chistev",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-09-03T22:43:55Z",
+      "object_id": "49558143",
+      "image": null,
+      "description": null,
+      "favicon": "https://en.bitcoin.it/favicon.ico",
+      "site_name": "en.bitcoin.it"
+    },
+    {
       "title": "Ireland Moves $38M in Bitcoin Tied to Drug Dealer's Lost Fishing Rod",
       "url": "https://cryptonews.net/news/bitcoin/33367182/",
       "hn_url": "https://news.ycombinator.com/item?id=49491190",
@@ -103,20 +117,6 @@
       "site_name": "organicbitcoin.org"
     },
     {
-      "title": "Bitcoinica",
-      "url": "https://en.bitcoin.it/wiki/Bitcoinica",
-      "hn_url": "https://news.ycombinator.com/item?id=49558143",
-      "author": "chistev",
-      "points": 1,
-      "num_comments": 1,
-      "created_at": "2026-09-03T22:43:55Z",
-      "object_id": "49558143",
-      "image": null,
-      "description": null,
-      "favicon": "https://en.bitcoin.it/favicon.ico",
-      "site_name": "en.bitcoin.it"
-    },
-    {
       "title": "Blockchain und Bitcoin erkl\u00e4rt in 6 Episoden \u2013 Episode 4",
       "url": "https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e",
       "hn_url": "https://news.ycombinator.com/item?id=49558061",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 15,
   "has_metadata": true,
-  "fetched_at": "2026-09-03T23:48:38.071753+00:00"
+  "fetched_at": "2026-09-04T03:15:05.266855+00:00"
 }

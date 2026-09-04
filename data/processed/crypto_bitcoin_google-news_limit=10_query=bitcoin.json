@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why Is Bitcoin Up Today?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkJsbUpjUWhkVnZsV250VGYtdG1lT2c2UnNTR3ZERjdsaUdIM2E2elh0SlpDa3BDaWg4NHUtZU1DdU51dENtTFR6T2M2eVlvczdIRHFOQmVtN0FwcnRuOFBsdUlMNDFuWlREOExjck94a0l0RzlZdzNYcUR2dThCY1pINkZ4empYWmc?oc=5",
-      "pub_date": 1788463381.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-192301110.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/75699452a41a3bb01f3e3d87342aa422df9b5b69c7a87787e11b4a9d48149d48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe95898ab671e83c25ed85d5b0f41fbd2.jpg",
-      "description": "A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week."
-    },
-    {
       "headline": "Inside the English soccer club betting its future on Bitcoin",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,12 +15,62 @@
       "description": "How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid."
     },
     {
+      "headline": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
+      "source": "bitcoinmagazine.com",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU45aVVLSHlZSFNWd0tWVVdFZFdZVDYxdURUREM1VG5uY3I2LXd3SUNRRmQyYXg3S0Y3THJNWXktNlV0VnUxS29vVGdMWWdiWWRiNFJUSjZ5RnhFemNiZl9meXJiZjhJSXk5cDJFZG5ObXZDNEY3b3drZjhrMDVmTQ?oc=5",
+      "pub_date": 1788474244.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg",
+      "description": "Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year."
+    },
+    {
+      "headline": "If Democrats Win the Midterms and Take Back the White House, What Happens to Bitcoin? VanEck Says Bitcoin Investors Don't Need to Worry.",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdDF4ZFlPT2hmdkYzdGMxSTNKbF9jdm9yRHpIbTh4ZHpsMXkzal9CU3hEUVJMbUdJYkp0Y21veTAtSzNpekxMUFV0eTFvdnpSVk1obGxRZXVHd09iNmxMZDFhamhscl9hdFBURmVDakJ2WXZKVF93amxMUVhab1VBN1ljU19icXhkeHE5bE40SlF2cExhRExKb3VmYXZfLVE?oc=5",
+      "pub_date": 1788486600.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/democrats-win-midterms-back-white-015000565.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b5cb79db2e23095bbdd5fc3c6ba0d9ecf201908b0e65218ff4de8dc68998c35a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd956d6fb0bb81b08c00d125ee2e369d4.jpg",
+      "description": "It could be business as usual for Bitcoin, no matter which party wins the midterms."
+    },
+    {
+      "headline": "Where Will Bitcoin Be in 2030?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tNHIxMHM4Wll4b19VbmRVcVd3Q2F3QUtCei12SFBZMVRncUVIaDEwYk82al9oaGFXcFFFUFVnWTBtSWRZTW9XYndBMlh0RXNKdFlSYVI2V1VUdjR5NElmMnJES1N1OXJUajMyelV5MUYwQXkyRjJNYnNYTVE?oc=5",
+      "pub_date": 1788479389.0,
+      "article_url": "https://www.fool.com/investing/2026/09/03/where-will-bitcoin-be-in-2030/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885495%2Fbitcoin-charts-and-graphs.jpg&w=1200&op=resize",
+      "description": "In a best-case scenario, Bitcoin could hit a price of $1 million or higher by 2030."
+    },
+    {
+      "headline": "Why Is Bitcoin Up Today?",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkJsbUpjUWhkVnZsV250VGYtdG1lT2c2UnNTR3ZERjdsaUdIM2E2elh0SlpDa3BDaWg4NHUtZU1DdU51dENtTFR6T2M2eVlvczdIRHFOQmVtN0FwcnRuOFBsdUlMNDFuWlREOExjck94a0l0RzlZdzNYcUR2dThCY1pINkZ4empYWmc?oc=5",
+      "pub_date": 1788463381.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-192301110.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/75699452a41a3bb01f3e3d87342aa422df9b5b69c7a87787e11b4a9d48149d48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe95898ab671e83c25ed85d5b0f41fbd2.jpg",
+      "description": "A Federal Reserve governor signaled that interest rates may stay where they are, helping Bitcoin recover from its slide earlier in the week."
+    },
+    {
       "headline": "Standard Chartered launches institutional spot crypto trading in UAE",
-      "source": "Reuters",
+      "source": "reuters.com",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVi1NWTZIN2pkZjFtUmRka24tX0MwZlJnWkk3MmVLVS12OHI1SDkxTm1pdGdnU250MFpXc1JBRTVKMFhhVW1Uc2xWVmtSSUdoNGVpeHBTaHVRSVZpTy1VOHBnS0tuYWp2Q0tEOEFYdHJfTUF6QnJmdWVzWHQyVzcxdFRSaWxWVHJMNGpzUGpxdkJQMjVBRDBfbWlRcUdxdGtaMHpvR0UxZHVYdDJJY3ozTDIwakhmWERtNmY5cTZR?oc=5",
       "pub_date": 1788426405.0,
       "article_url": "https://www.reuters.com/legal/transactional/standard-chartered-launches-institutional-spot-crypto-trading-uae-2026-09-03/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "They\u2019re Going To Print \u2018Trillions\u2019\u2014Crypto Flood Gates Suddenly Open As $1 Million Bitcoin Price Predicted",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmlCQ2lxaGhxU3F0ajM4dm4yUVRvdzFHYU1FbHFzSDY1OXo4dHBZQTczZ2I4WHpCQ19ZTW1EdlQ5Q3F0X3hiZmNNWGh4TTdPRUNzTVdQaF9GOFYwZkVZUWR5bVRTbjBTWlBZMk5yNjgxUTRlTUdGWmo1SVRaQmNCOF9sUjhKNGczRjhURm4ybjRCRHMwMG1Sa2Uxb3kwdXNNLXhsQkZhanR2cGQwZjY4ajlXR1NCOGJ1MHFxUE5xQWxPa05meldjMVNYc242SnA1QXN0NkJYaXZ6NFNCM3VTMklKdVlYNFBGeWZhemtn?oc=5",
+      "pub_date": 1788468326.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/03/theyre-going-to-print-trillions-crypto-flood-gates-suddenly-open-as-1-million-bitcoin-price-predicted/",
       "image": null,
       "description": null
     },
@@ -55,56 +95,16 @@
       "description": null
     },
     {
-      "headline": "Better Buy: XRP vs. Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xd2NBNjE0MGQ4eXBnOVdrbkwzQy1OYmVNTHg3Wk1UX2tBbWhLMUoxeUlpRHdvbERMQTZmWFN4b1ZlVDB4N21WSDVmNTRnQzJVLXBaTkttcDF3bHhwR1haUWJVTWZ5d25IOTk0a2tFWkhTa3VyMjVN?oc=5",
-      "pub_date": 1788444180.0,
-      "article_url": "https://www.fool.com/investing/2026/09/03/better-buy-xrp-vs-bitcoin/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883665%2Fbtc-and-xrp-logos-orange-and-black.png&w=1200&op=resize",
-      "description": "Ripple signed 10 major banking deals in 2026 and settled none of them in XRP. Here's why that matters more than any price chart."
-    },
-    {
-      "headline": "When the Banks Don\u2019t Work, Bitcoin Does: Cornell University\u2019s Adoption Index",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoRXg1ZXBneExGbWk3Q2gwNmh4YkQ1ajRkcHhkeXNIWXlwbHNFeWtFZHIwQU9LWEhpWW5ZLXdsM2RhVERXSFpoR0dkUVc0WmRKS0E5WVVFUjJRcEFyRnRXbzc4RnVPTk8zN2gtdlNkQjhhWWlWV1RaMFlhU2xSMTQ?oc=5",
-      "pub_date": 1788376643.0,
-      "article_url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-1.jpg",
-      "description": "Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some."
-    },
-    {
       "headline": "El Reno officials admit to enforcement failures surrounding Bitcoin mining facility",
-      "source": "KFOR",
+      "source": "KFOR.com",
       "source_url": "https://kfor.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVU5qNHZna3pJdDZ0dWVhaE5TaXpJNzE1MGw4eFRxemdwdW91RkFXNm5WY1lHUEprcXpQTlluSU04QmNpRW94ME9WTkd5YkZMZV9IeGQxX0E4WmlMUWcwcGNaNUdzdFhzSjQ3ZmZVb0JRUXFocHlVTVh0VDlFWF9WTUdFZW5NQUk4UVpoUm9xRlR0MXo5clNBcGhFUjc0Z3RHLTgxNTF0ZDlyNnlGSE5FYnpB0gG3AUFVX3lxTE5KUV9DUVNGdmNkTEN1T2hxTFJuRGpSQ1NpakltVjRWTVE3NUMzVmNRbjZZN0E1UmZCc1BoQkg2RXNoNjhDS3hqQ0ltZ04wTW9NeTdLRjlsaFZKcHlmQTVDc3Y2VWRZaFV5UlVIZGVVZjRmSG9VcWdpRUNnQ2c4TFhSdUNlMTJDOXpQTlZZbk1DZjJ6NXhSZHYxWl9oUUxpUFdBblhOVUZJVEpva2w0RF9Tb0s5Y1F4Zw?oc=5",
       "pub_date": 1788303636.0,
       "article_url": "https://kfor.com/news/local/el-reno-officials-admit-to-enforcement-failures-surrounding-bitcoin-mining-facility/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Strategy resumes bitcoin buying after 10-week pause, spends $370M",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JN2JIT3NLek5FWW1adWExaExvUlVWSVFGSlNyUGRFSzhSbmtKQXFoWV9vby1qV1J5RU9nU0pNZE5LTmNBejg1Sm1CSnFNUnh2blZ5VE5DY2FVNFV1Yk9OTUlpVVNvUDlKa0pSOWdqbUpxNE1KaWc?oc=5",
-      "pub_date": 1788267182.0,
-      "article_url": "https://qz.com/strategy-bitcoin-purchase-resumed-370-million-090126",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2258806558-300x200.jpg",
-      "description": "The company bought 4,603 bitcoin at an average price of $80,318, funded by proceeds from selling newly issued common stock"
-    },
-    {
-      "headline": "They\u2019re Going To Print \u2018Trillions\u2019\u2014Crypto Flood Gates Suddenly Open As $1 Million Bitcoin Price Predicted",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmlCQ2lxaGhxU3F0ajM4dm4yUVRvdzFHYU1FbHFzSDY1OXo4dHBZQTczZ2I4WHpCQ19ZTW1EdlQ5Q3F0X3hiZmNNWGh4TTdPRUNzTVdQaF9GOFYwZkVZUWR5bVRTbjBTWlBZMk5yNjgxUTRlTUdGWmo1SVRaQmNCOF9sUjhKNGczRjhURm4ybjRCRHMwMG1Sa2Uxb3kwdXNNLXhsQkZhanR2cGQwZjY4ajlXR1NCOGJ1MHFxUE5xQWxPa05meldjMVNYc242SnA1QXN0NkJYaXZ6NFNCM3VTMklKdVlYNFBGeWZhemtn?oc=5",
-      "pub_date": 1788468326.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/03/theyre-going-to-print-trillions-crypto-flood-gates-suddenly-open-as-1-million-bitcoin-price-predicted/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-03T23:48:58.075544+00:00"
+  "fetched_at": "2026-09-04T03:15:20.693568+00:00"
 }

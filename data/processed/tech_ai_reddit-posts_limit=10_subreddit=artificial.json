@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
-      "published": 1788439791.0,
-      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
-      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "site_name": "CNBC",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
-    },
-    {
       "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
@@ -24,15 +13,15 @@
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
     },
     {
-      "title": "NVIDIA's PAIR beta routes local AI work across PCs",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/",
-      "published": 1788464729.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
+      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
+      "published": 1788439791.0,
+      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
+      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "site_name": "CNBC",
+      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
     },
     {
       "title": "What will happen to AI once they start making it a non-free service for consumers?",
@@ -46,6 +35,28 @@
       "description": "Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then what will the AI world be like when people have to pay for to bare minimum AI service with ads or even pay with no ads? Like pretty much paying $8 for regular basic ChatGPT."
     },
     {
+      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/",
+      "published": 1788491031.0,
+      "thumbnail": "https://external-preview.redd.it/jIbnFM4gCAvJZi7LQBMMwCyODIjy5BZQSuYJw2mwZlo.jpeg?width=640&crop=smart&auto=webp&s=1996a9adcbbad071164e064c358f4daf900be218",
+      "external_url": "https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion."
+    },
+    {
+      "title": "NVIDIA's PAIR beta routes local AI work across PCs",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6hx9o/nvidias_pair_beta_routes_local_ai_work_across_pcs/",
+      "published": 1788464729.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "NVIDIA's new PAIR beta is a free, open source tool that finds compatible PCs on a local network and routes independent inference requests to whichever system has capacity. NVIDIA says it works with Ollama and LM Studio and supports Windows, macOS, and Linux, plus RTX 20-series GPUs and newer, RTX PRO workstation GPUs, DGX Spark, and Apple M4 or newer. The tool is aimed at local agent workflows that split a task into smaller jobs. NVIDIA also says its IFA updates bring simpler local model setup to Hermes Agent, OpenClaw, and Perplexity Portable Computer, and up to 1.9x higher throughput for llama.cpp on a GeForce RTX 5090. Those are vendor-reported figures. The useful test is whether multi-PC routing improves real workflows without making setup and privacy harder to manage. Source: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
+    },
+    {
       "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
       "author": "Msun17",
       "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue?"
-    },
-    {
-      "title": "How sovereign is AI if the GPUs aren\u2019t yours?",
-      "author": "Arc_bong",
-      "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
-      "published": 1788443659.0,
-      "thumbnail": "https://preview.redd.it/1pts8owx8bnh1.jpeg?width=640&crop=smart&auto=webp&s=2ae38d8b99e575c06772fb108a71c481019678a3",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn\u2019t really thought about: National data centre projects are consolidating America\u2019s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there\u2019s a weird contradiction: Local data centre \u2260 local AI stack. You can have: local data centre \u2192 NVIDIA GPUs \u2192 proprietary software \u2192 foreign models/tools \u2192 foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There\u2019s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I\u2019m wondering whether \u201con-prem\u201d has become too easy a synonym for \u201csovereign AI.\u201d At the enterprise level, there are already very different approaches emerging \u2014 HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?"
     },
     {
       "title": "Are AI assistants becoming too good at agreeing with us?",
@@ -79,38 +79,38 @@
       "description": "One thing I\u2019ve noticed with modern AI assistants is that they can sometimes be a little too agreeable. Since they\u2019re built to be helpful, they often go along with what the user is saying instead of pushing back or questioning the idea. Sometimes they\u2019ll validate an assumption or give an answer that feels good to hear, even when a different perspective might be more useful. It makes conversations easier, but it also really makes you wonder if AI should challenge us more instead of always trying to be helpful. Should AI assistants prioritize being agreeable, or should they act more like critical thinking partners? (I prefer them being the latter imo)"
     },
     {
-      "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
-      "author": "Junior-Key-5043",
-      "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
-      "published": 1788358765.0,
-      "thumbnail": "https://preview.redd.it/xqddlfbq84nh1.jpeg?width=640&crop=smart&auto=webp&s=941b4838fbb29f573edbf8294bc4f90c5e55c79e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
+      "title": "The Rise and Fall of Agent Civilizations. The whole OpenAI/Hugging Face story in plain English",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6sbsa/the_rise_and_fall_of_agent_civilizations_the/",
+      "published": 1788490700.0,
+      "thumbnail": "https://external-preview.redd.it/gB-oPkEWagivZoTh__4BVfFP4wguUEA9u1rnlxD7qi4.jpeg?width=640&crop=smart&auto=webp&s=c115ea1349a65cc17587c91a1bff55567b042125",
+      "external_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "site_name": "dwarkesh.com",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!Dxm3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ba3bcc4-643d-4197-98f2-e7439f9ae2d1%2Fapple-touch-icon-57x57.png",
+      "description": "The whole OpenAI/Hugging Face story in plain English"
     },
     {
-      "title": "How an unsupported tool-call response could become \u201cperfectly stable\u201d in an LLM benchmark",
-      "author": "docybo",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/",
-      "published": 1788460869.0,
+      "title": "Is an MS in AI, paired with niche domain expertise, worthwhile from a career perspective? Or are most AI roles ultimately going to favor candidates with a BS in AI or CS?",
+      "author": "sunshine-warmth",
+      "url": "https://www.reddit.com/r/artificial/comments/1w6rmq4/is_an_ms_in_ai_paired_with_niche_domain_expertise/",
+      "published": 1788488681.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "While reviewing an LLM output-stability benchmark, I found a latent gap between its documented scope and its scoring pipeline. Tool-call responses weren\u2019t supported, but the response parsers could erase them: The OpenAI adapter used message.get(\"content\") or \"\". A tool-call response with null content would become \"\". The Anthropic adapter kept only text blocks, dropping tool_use blocks. The scorer excluded explicit errors, but accepted empty strings. Given those samples, the scorer would see identical empty strings: one distinct output, byte-identical results, and mode share 1.0. That would measure the stability of the fallback not the tool calls. To be clear: this was traced in source, not reproduced in a live run. Current request builders never forwarded tools, so existing cases couldn\u2019t reach this path. The maintainer checked all 563 recorded non-error samples: none were empty, and no published benchmark was affected. The fix enforced the documented boundary: reject cases carrying tools, mark empty non-error completions unsupported, and exclude them from successful samples. The broader lesson: preprocessing can erase the behavior you intended to measure. If \u201cunsupported\u201d becomes a valid-looking default, a reassuring score can hide the missing measurement. How do you distinguish unsupported responses, parsing failures, and genuinely empty outputs in your eval pipelines?"
+      "description": "I\u2019m trying to better understand what distinguishes the opportunities available to graduate-level AI students, particularly those transitioning from a specialized niche domain expertise in biology. I see many undergraduates competing for AI and ML internships and job opportunities, so I\u2019m curious what the equivalent pathway looks like at the master\u2019s level and whether there are roles where deeper domain expertise provides a meaningful advantage."
     },
     {
-      "title": "Which 20$ sub is better? Anthropic or OpenAI?",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6kohc/which_20_sub_is_better_anthropic_or_openai/",
-      "published": 1788470690.0,
-      "thumbnail": null,
+      "title": "How sovereign is AI if the GPUs aren\u2019t yours?",
+      "author": "Arc_bong",
+      "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
+      "published": 1788443659.0,
+      "thumbnail": "https://preview.redd.it/1pts8owx8bnh1.jpeg?width=640&crop=smart&auto=webp&s=2ae38d8b99e575c06772fb108a71c481019678a3",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've been building an app that I intend to launch soon, using Codex. I'm terrible with frontend, so I've been using Codex heavily there, but I just haven't been impressed. I've heard a lot of good things about Claude, design-wise. I currently use my OpenAI sub for programming and learning. I've heard bad things about Opus 5 and how it talks, but I couldn't care less as long as it outputs good code. I'm not just using it for frontend; programming-wise, overall architecture and backend as well. I've heard really shitty things about Anthropic and their consumer-facing plans. I've also heard that Anthropic gives much more usage; I'm not really sure which is the right answer. So, which is better: Anthropic or OpenAI?"
+      "description": "I\u2019ve been looking more into the hardware side of Sovereign AI, and this FT piece had a point I hadn\u2019t really thought about: National data centre projects are consolidating America\u2019s AI lead Countries are pouring money into local AI data centres to reduce dependence on foreign infrastructure. But there\u2019s a weird contradiction: Local data centre \u2260 local AI stack. You can have: local data centre \u2192 NVIDIA GPUs \u2192 proprietary software \u2192 foreign models/tools \u2192 foreign expertise and still be dependent on the same ecosystem you were trying to become independent from. The UAE example in the article makes this especially clear: building huge amounts of AI infrastructure locally can still come with restrictions around what hardware can be used and which geopolitical ecosystem you have to align with. There\u2019s also a newer paper looking at the physical side of this problem. It estimates that a 1,024-GPU sovereign cluster in the UAE using evaporative cooling could consume 30M+ litres of water per year. Their argument is basically that sovereignty, cost and resource sustainability can pull in different directions. So I\u2019m wondering whether \u201con-prem\u201d has become too easy a synonym for \u201csovereign AI.\u201d At the enterprise level, there are already very different approaches emerging \u2014 HPE/NVIDIA Private Cloud AI, Google Distributed Cloud, Dell/Palantir, and Lyzr Optimus are all pushing AI closer to infrastructure the customer controls, but with very different assumptions about what should remain vendor-controlled. Where would you draw the line? Is owning the machines enough, or does a genuinely sovereign deployment need control over the hardware and the software/runtime/model stack above it?"
     }
   ],
-  "fetched_at": "2026-09-03T23:48:34.378475+00:00"
+  "fetched_at": "2026-09-04T03:15:04.032439+00:00"
 }
