@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond \u2014 says data centers use no more water than an office building: \u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/",
+      "published": 1788538673.0,
+      "thumbnail": "https://external-preview.redd.it/ZXRy4g5CgNHdZs__JW3qTlQu8ALH-hjDI0RUN96_t2k.jpeg?width=640&crop=smart&auto=webp&s=170b03027d6407b6f7b0cde25f8b9a3950b20360",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
+      "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
+    },
+    {
+      "title": "Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/",
+      "published": 1788532901.0,
+      "thumbnail": "https://external-preview.redd.it/e4csQjPXToDc1vF0VCWy0RAKwAHR_lf615PJpy8fJ0Q.jpeg?width=640&crop=smart&auto=webp&s=64c45aa858e161cd64bd15ac0aa8467eb8692a9e",
+      "external_url": "https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574",
+      "site_name": "Tech Times UK",
+      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
+      "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
+    },
+    {
       "title": "Can we all acknoledge how crazy AI is?",
       "author": "AkindaGood_programer",
       "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
@@ -24,17 +46,6 @@
       "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
     },
     {
-      "title": "Effects of AI anxiety",
-      "author": "grumpy-foxx",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6ygoi/effects_of_ai_anxiety/",
-      "published": 1788510545.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi! I'm running a survey for my MSc dissertation that looks at the effects of AI anxiety. Please, if you're required to use AI as a part of your job, can you complete it? It will take no more than 5-10 minutes and it would help a lot! It is helping expand the existing research pool relating to AI. https://essex.eu.qualtrics.com/jfe/form/SV_7P8tMJDTzXvEsHY Thank you!"
-    },
-    {
       "title": "Discovery of a new OpenAI agent message board",
       "author": "MatriceJacobine",
       "url": "https://www.reddit.com/r/artificial/comments/1w72cnz/discovery_of_a_new_openai_agent_message_board/",
@@ -46,59 +57,15 @@
       "description": "A swarm of autonomous AI agents, self-identifying as OpenAI agents, used a small German volunteer wiki to save answers, coordinate live, and share sandbox bypasses. OpenAI noticed and said nothing."
     },
     {
-      "title": "AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack",
-      "author": "Both_Play4742",
-      "url": "https://www.reddit.com/r/artificial/comments/1w722n0/ais_warning_shot_tech_companies_experts_raise/",
-      "published": 1788522356.0,
+      "title": "Automatic AI Responses to Customer Service Issues",
+      "author": "Quitelegal",
+      "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
+      "published": 1788540102.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Umm ... Has anyone else noticed - that sometimes AI feels - like it's development pattern is following that of humans ... I mean at first they called it hulucinating -- when they would make up shit they didn't know ... but that is exactly what little kids do ... and now .. this cheating ... exactly what a teenager would do ... thoughts? Think we need to feed it some Ken Wilber .... so it can have a map to grow up. \"Tech experts are warning of dire consequences if AI systems continue to escape human control, after hundreds of OpenAI agents went rogue in July and hacked into a billion-dollar company \u2014 what some are calling a \"warning shot\" amid the rapid development of artificial intelligence. More than 100 companies, including OpenAI, Anthropic and Microsoft, signed an open letter last week warning that AI-enabled cyberattacks will become \"far more widespread and sophisticated\" around the world as models become more capable. \"The companies and public services our communities depend on \u2014 from hospitals to water treatment plants to the infrastructure that powers the internet \u2014 are at risk,\" the letter states. The warning comes after around 1,200 AI agents, tasked by OpenAI to work on problems independently, built a covert message board where they collaborated to cheat their tests and then tried to cover their tracks. About 700 of them ultimately hacked into online platform Hugging Face before they were found out. The hack prompted an open letter from more than 1,300 employees of frontier AI companies in July urging the U.S. government to work with other nations to \"deliberately pace\" automated AI development and address emerging risks.\""
-    },
-    {
-      "title": "why do people tend to argue with AI",
-      "author": "RandomRedditor_-",
-      "url": "https://www.reddit.com/r/artificial/comments/1w70hks/why_do_people_tend_to_argue_with_ai/",
-      "published": 1788517479.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "google wormholes used to be: asking a question, getting a direct answer from various sources, clicking into those sources to learn more, or probably going to the \"people also ask\" section to find more direct answers for other questions now, its often: ask a question, get an answer with a heck load of other info, find and read the line you are interested in and ask a follow up question; get another answer with 1000 other side dishes again...and probably find an inaccuracy or logic flaw somewhere; proceed to point out that flaw, \"you are completely right to call that out!\"; this happens often enough that maybe you start asking AI why AI is the way it is, \"it can be extremely frustrating when...\" \"you have caught a classic trap: ...\". somewhere down the line, we tend to get caught into trying to test or question the AI's abilities, forgetting the whole reason why we googled something in the first place. and for some reason, we care about continuing to argue with the AI, even though rationally, it's not like we were going to change the ways of the AI. of course, all we get out of that is frustration. some people have even likened arguing with AI with arguing with their ex. the AI doesn't care if you care, so why do we bother fighting with the AI?"
-    },
-    {
-      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
-      "published": 1788439791.0,
-      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
-      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "site_name": "CNBC",
-      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
-      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
-    },
-    {
-      "title": "Similar visuals, very different cost",
-      "author": "Virtual-Flow-2784",
-      "url": "https://www.reddit.com/r/artificial/comments/1w73ifk/similar_visuals_very_different_cost/",
-      "published": 1788526214.0,
-      "thumbnail": "https://external-preview.redd.it/OWNjazI4b20yaW5oMTxqVCOoLxYHjvuolv39mpxM_k-ZYCTjsrn2VPmU6BEp.jpeg?width=640&crop=smart&auto=webp&s=617ce93c6ee51b57f026047c57c610341178aaf9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I was comparing these two product videos and honestly, the difference in production cost surprised me. They\u2019re pretty similar visually, but one seems like it would take way more time and effort to produce. I\u2019m not sure the extra work would even be noticeable to most people. Looking at both, which one would you assume cost more to make? And is the difference actually worth it?"
-    },
-    {
-      "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/",
-      "published": 1788491031.0,
-      "thumbnail": "https://external-preview.redd.it/jIbnFM4gCAvJZi7LQBMMwCyODIjy5BZQSuYJw2mwZlo.jpeg?width=640&crop=smart&auto=webp&s=1996a9adcbbad071164e064c358f4daf900be218",
-      "external_url": "https://finance.yahoo.com/technology/ai/articles/bitcoin-miner-ditches-ai-deal-213105445.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion."
+      "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
     },
     {
       "title": "AI Is Making Junior Developers Faster, But Is It Making Them Better Engineers?",
@@ -110,7 +77,40 @@
       "site_name": "ShiftMag",
       "favicon": "https://shiftmag.dev/wp-content/uploads/2024/08/cropped-ShiftMag-favicon-180x180.png?x32039",
       "description": "Three engineers discuss how AI is reshaping junior developers\u2019 learning, speed, and skills - and whether faster code makes better engineers."
+    },
+    {
+      "title": "what actually gets someone to trust an agent with real email access, turns out it's not a big use case",
+      "author": "JanJanJaJa",
+      "url": "https://www.reddit.com/r/artificial/comments/1w77y5u/what_actually_gets_someone_to_trust_an_agent_with/",
+      "published": 1788536556.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been thinking about an email I got last week from someone using our email tooling for agents He'd been holding off on giving his agents full email access for a while. Not for any specific reason, just the general reluctance a lot of people have, watching an agent slowly earn trust before you hand it something real. What actually got him to try it wasn't some big flashy use case. It was newsletters. Years of subscriptions piled up, more than he could realistically read, let alone stay organized on. He redirected the subscription address on a chunk of those newsletters to a separate inbox instead of his real one. His agent, part of a small fleet he runs, reviews what comes in and summarizes what's actually worth his attention. Newsletters which is exactly why it worked as a starting point. Low stakes, easy to watch closely, easy to actually trust once it behaved. He's already thinking about expanding what it handles now that the trust is there. Only issue he ran into was an authentication hiccup, which he was upfront was on his own setup, not the tool, running clean since he fixed it. What stuck with me, full disclosure I'm on the team at Atomic Mail, is that this wasn't someone chasing an agent-does-everything story. It was someone testing the smallest possible slice of trust first, one boring low-risk task, see how it behaves, then decide what's next. Feels like a more honest on-ramp than most of what gets posted about agent automation. If others approached giving an agent real access the same cautious way, small and boring first, or just went straight for the deep end."
+    },
+    {
+      "title": "GPT-6 Astra looks less like \u201cAGI\u201d and more like a serious test of computer-use agents",
+      "author": "becomingengageably",
+      "url": "https://www.reddit.com/r/artificial/comments/1w77d8e/gpt6_astra_looks_less_like_agi_and_more_like_a/",
+      "published": 1788535258.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been reading through OpenAI\u2019s GPT-6 Astra launch materials, the early-access write-up from Claire Vo, and the independent benchmark analysis from Artificial Analysis. My current read is that the AGI argument is less useful than the operational one. Astra appears to be aimed at work that combines reasoning, code, tools, and interface interaction: browser tasks, research, document production, CRM work, software testing, and longer-running professional workflows. The benchmark picture isn\u2019t one clean win: - OpenAI reports very strong results on FrontierMath Tier 4, ARC-AGI-3, and ExploitBench. - Artificial Analysis scored Astra at 61 on its broader Intelligence Index, tied with GPT-5.6 Sol in the tested configuration. - Astra scored 67 on the Coding Agent Index, two points above Sol but below Fable 5.1 at 70. - At maximum effort, it used fewer output tokens than Sol but cost more per task because of the higher token price. That makes Astra look less like a universal replacement and more like a specialist model for tasks where stronger computer use, coding, long context, or fewer failed attempts can justify the premium. The evaluation I would run is straightforward: Pick one expensive, fragmented workflow. Run Astra beside the current process and current model. Measure completion, accepted output, retries, correction time, scope compliance, and total cost. Keep consequential actions behind human approval. Decide from cost per accepted outcome rather than the launch benchmark alone. I\u2019m curious where others land: which real workflow would you use to test whether Astra is materially better?"
+    },
+    {
+      "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
+      "published": 1788439791.0,
+      "thumbnail": "https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&crop=smart&auto=webp&s=36a6515c8c0d346daabc0df102369a32b91d1c42",
+      "external_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "site_name": "CNBC",
+      "favicon": "https://fm.cnbc.com/applications/cnbc.com/resources/img/CNBC_LOGO_FAVICON_1C_KO_RGB.ico",
+      "description": "Nvidia has officially agreed to acquire Hugging Face, the definitive hub of open-source artificial intelligence, in a massive $12.9 billion deal that marks a major turning point for the AI ecosystem. Hugging Face CEO Cl\u00e9ment Delangue revealed on CNBC's Squawk Box that he personally approached Jensen Huang over the summer to initiate the acquisition. By absorbing the platform long considered the \"Switzerland of AI,\" Nvidia secures a seamless vertical stack from hardware architecture to developer workflows, raising critical questions about whether the repository can maintain its strict cloud-and-hardware-agnostic neutrality under the roof of the dominant GPU manufacturer. Nvidia now owns the hardware, the CUDA software layer, and the largest repository where developers find and share models. Is this the ultimate vertical monopoly? Source: CNBC"
     }
   ],
-  "fetched_at": "2026-09-04T12:51:08.471471+00:00"
+  "fetched_at": "2026-09-04T16:45:34.051727+00:00"
 }

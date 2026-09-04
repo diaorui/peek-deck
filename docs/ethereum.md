@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-04T12:51:46.581416+00:00'
+updated: '2026-09-04T16:46:06.377855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 04, 2026 at 12:51 UTC  
+**Last Updated:** September 04, 2026 at 16:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -0.2%  
-**30d:** +28.9%  
-**90d:** +45.2%  
-**1y:** -43.0%  
+**24h:** -1.8%  
+**7d:** +0.0%  
+**30d:** +29.2%  
+**90d:** +45.5%  
+**1y:** -42.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.10B
+**Market Cap:** $300.20B
 Rank #2
 
 **Circulating Supply:** 122,018,030 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.6%
+-50.3%
 
 **All-Time Low:** $0.43
-+564345.4%
++568116.9%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-2d ago
+3d ago
 
 ---
 
@@ -156,7 +156,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back.
 
-Decrypt • 18h ago
+Decrypt • 22h ago
+
+---
+
+**[Ethereum Sheds 2.8% -- Crypto Mover](https://www.moomoo.com/news/post/75838787/ethereum-sheds-2-8-crypto-mover)**
+
+Moomoo • 1h ago
 
 ---
 
@@ -164,7 +170,7 @@ Decrypt • 18h ago
 
 Bitcoin opened at $77,310.77 on Thursday, September 3, 2026, down 0.1% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin moved up to $77,892.97. Ethereum opened at $2,391.30 today, down 1.1% from Wednesday's open. Ethereum moved up to $2,402.09 as of 7:19 a.m. ET.
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -176,15 +182,23 @@ Benzinga • 1d ago
 
 ---
 
+**[Current price of Ethereum for September 4, 2026](https://fortune.com/article/price-of-ethereum-09-04-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 3h ago
+
+---
+
 **[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
 
-forbes.com • 1d ago
+Forbes • 1d ago
 
 ---
 
 **[APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance](https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance)**
 
-Morningstar • 17h ago
+Morningstar • 21h ago
 
 ---
 
@@ -192,21 +206,7 @@ Morningstar • 17h ago
 
 NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
 
-markets.businessinsider.com • 26m ago
-
----
-
-**[This Japanese company made money on Ethereum, Solana, and XRP, but sold them anyway to keep its $121 million Bitcoin holdings](https://cryptoslate.com/this-japanese-company-made-money-on-ethereum-solana-and-xrp-but-sold-them-anyway-to-keep-its-121-million-bitcoin-holdings/)**
-
-Remixpoint sold $5.5 million of Ethereum, Solana, XRP and Dogecoin while keeping roughly $121 million in Bitcoin.
-
-CryptoSlate • 15h ago
-
----
-
-**[Ethereum Whale: Offloads 167855 ETH for $408M](https://blockchain.news/flashnews/ethereum-whale-offloads-167855-eth-408m)**
-
-blockchain.news • 11h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -214,15 +214,15 @@ blockchain.news • 11h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their weekly gains on Friday as traders await the US Nonfarm Payrolls (NFP) report for the next directional catalyst.
 
-fxstreet.com • 9h ago
+FXStreet • 13h ago
 
 ---
 
-**[Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027](https://www.tradingview.com/news/99Bitcoins:d595a9eb7094b:0-elon-musk-grok-ai-predicts-ethereum-price-by-january-1-2027/)**
+**[Ethereum: Decrypt Flags Zcash Moves](https://blockchain.news/flashnews/ethereum-decrypt-flags-zcash-moves)**
 
-Elon Musk Grok AI predicts that while Ethereum (ETH) could hit some big targets by the end of 2026, the chatbot predicts modest gains by January 1, 2027, something that ETH maxis won’t want to hear.ETH is currently trading for $2,450, down around -0.5% over the past 24 hours and -1.5% over the past…
+Ethereum at $2457.53 with bullish EMA50 support at $2442.07 as Decrypt questions positioning on 0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2 and Zcash native...
 
-TradingView • 2d ago
+blockchain.news • 57m ago
 
 ---
 
@@ -236,47 +236,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 88K • 👍 2K • 💬 304 • ⏱️ 10:50 • 1d ago
-
----
-
-**[It&#39;s Crypto Bull Season XRP &amp; Ethereum Are Set For Greatness Bitcoin Is Pushing To $150,000 A Coin](https://www.youtube.com/watch?v=4ygF8DYbbto)**
-
-Well, we've officially made it. It's now the time of year where everything is meant to take off into the stratosphere. The CLARITY act ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 811 • 💬 679 • ⏱️ 30:15 • 1d ago
-
----
-
-**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
-
-1️⃣ *   Save 40% code SAVE* ➡https://join.stockmoeacademy.com/join-page 2️⃣ *   *Sign up for Webull's Promo HERE* ...
-
-📺 Stock Moe
-
-👁️ 18K • 👍 484 • 💬 18 • ⏱️ 13:52 • 16h ago
-
----
-
-**[Raoul Pal :&quot;I&#39;m Loading Up Massively on Bitcoin &amp; Ethereum in the Banana Zone&quot; | BTC Update 2026](https://www.youtube.com/watch?v=yUJn99HJF9g)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 8K • 👍 152 • 💬 24 • ⏱️ 17:06 • 20h ago
-
----
-
-**[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 36K • 👍 522 • 💬 46 • ⏱️ 11:39 • 1d ago
+👁️ 88K • 👍 2K • 💬 280 • ⏱️ 10:50 • 1d ago
 
 ---
 
@@ -286,7 +246,37 @@ BitMine Ethereum treasury growth is reshaping the company. We analyze the cataly
 
 📺 Cryptobud
 
-👁️ 1K • 👍 49 • 💬 3 • ⏱️ 9:14 • 12h ago
+👁️ 3K • 👍 59 • 💬 4 • ⏱️ 9:14 • 16h ago
+
+---
+
+**[It&#39;s Crypto Bull Season XRP &amp; Ethereum Are Set For Greatness Bitcoin Is Pushing To $150,000 A Coin](https://www.youtube.com/watch?v=4ygF8DYbbto)**
+
+Well, we've officially made it. It's now the time of year where everything is meant to take off into the stratosphere. The CLARITY act ...
+
+📺 The Modern Investor
+
+👁️ 14K • 👍 812 • 💬 646 • ⏱️ 30:15 • 1d ago
+
+---
+
+**[Raoul Pal :&quot;I&#39;m Loading Up Massively on Bitcoin &amp; Ethereum in the Banana Zone&quot; | BTC Update 2026](https://www.youtube.com/watch?v=yUJn99HJF9g)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 9K • 👍 161 • 💬 20 • ⏱️ 17:06 • 1d ago
+
+---
+
+**[Is Robinhood BEATING Ethereum?](https://www.youtube.com/watch?v=0-4jN1C2B5M)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 38K • 👍 530 • 💬 46 • ⏱️ 11:39 • 1d ago
 
 ---
 
@@ -296,7 +286,17 @@ BITCOIN BULL TRAP: EVERYONE IS WRONG (important)!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 356 • 💬 264 • ⏱️ 22:13 • 11h ago
+👁️ 13K • 👍 367 • 💬 269 • ⏱️ 22:13 • 15h ago
+
+---
+
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+
+1️⃣ *   Save 40% code SAVE* ➡https://join.stockmoeacademy.com/join-page 2️⃣ *   *Sign up for Webull's Promo HERE* ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 495 • 💬 19 • ⏱️ 13:52 • 20h ago
 
 ---
 
@@ -306,7 +306,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 5K • 👍 173 • 💬 5 • ⏱️ 6:45 • 15h ago
+👁️ 6K • 👍 176 • 💬 5 • ⏱️ 6:45 • 19h ago
 
 ---
 
@@ -316,17 +316,17 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 918 • 💬 415 • ⏱️ 31:53 • 2d ago
+👁️ 15K • 👍 919 • 💬 381 • ⏱️ 31:53 • 2d ago
 
 ---
 
-**[BMNR Is About to Own 5% of Ethereum… Then What?](https://www.youtube.com/watch?v=tPYIn-uv_2I)**
+**[BMNR HOLDERS: ETH Ready to Launch?](https://www.youtube.com/watch?v=5aoSaOuWTIU)**
 
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+BMNR Holders: Is Ethereum Ready to Launch? Tom Lee's Massive ETH Bet, BitMine NAV & Crypto Bull Market Learn More ...
 
-📺 Future Investing
+📺 Big Time Trades
 
-👁️ 16K • 👍 307 • 💬 119 • ⏱️ 8:53 • 1d ago
+👁️ 4K • 👍 97 • 💬 50 • ⏱️ 20:02 • 18h ago
 
 ---
 
