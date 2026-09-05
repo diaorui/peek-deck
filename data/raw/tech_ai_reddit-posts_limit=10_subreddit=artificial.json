@@ -46,15 +46,15 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     },
     {
-      "title": "LLVM developers begin debate over AGENTS.md for helping AI agents",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7w950/llvm_developers_begin_debate_over_agentsmd_for/",
-      "published": 1788601309.0,
-      "thumbnail": "https://external-preview.redd.it/KWLiaxo6eKNmH5YKhdzGDLc4Tdv8u1Z_eKv8vmHwm0w.jpeg?width=640&crop=smart&auto=webp&s=f7031ee8187fcc0f15721190cfdd748b23d9daa6",
-      "external_url": "https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD",
-      "site_name": "phoronix.com",
-      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
-      "description": "LLVM developers have begun a discussion on whether the project should host an AGENTS.md file (and CLAUDE.md) in their Git repository for helping to guide AI agents."
+      "title": "I'm building a 2D video to 3D animation translation layer.",
+      "author": "Relevant-Magic-Card",
+      "url": "https://www.reddit.com/r/artificial/comments/1w81x6x/im_building_a_2d_video_to_3d_animation/",
+      "published": 1788617743.0,
+      "thumbnail": "https://external-preview.redd.it/W3KG7nxESfdEad3tqFyPbgtZLNPLs2RLheG-hAvFO1M.png?width=640&crop=smart&auto=webp&s=6e0bc4a5550198cb5f0d3bf001d596a325142465",
+      "external_url": "https://duckweights.com/articles/from-video-reference-to-editable-animation",
+      "site_name": "duckweights.com",
+      "favicon": "https://duckweights.com/icon.svg?icon.15-0o0svv2rdx.svg",
+      "description": "Wrote up this experiment. For context I have never used blender or unreal engine before, I work as a dev in a different industry. I want to see how Astra advances special reasoning & understanding :) This session was about an hour total."
     },
     {
       "title": "Study: Generative AI is making writing on Reddit and elsewhere boring",
@@ -68,26 +68,15 @@
       "description": "Data from a new study published recently in Nature and Arxiv: \"Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity.\" The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: \"While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance.\" Study source data: \"Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv.\" The kicker: \"Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy.\" So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: \"The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models\" and my thoughts on this research."
     },
     {
-      "title": "Child sexual abuse survivor alleges Elon Musk\u2019s AI chatbot used photos of her to generate new illegal images",
-      "author": "erdematar",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7xxj4/child_sexual_abuse_survivor_alleges_elon_musks_ai/",
-      "published": 1788606848.0,
-      "thumbnail": "https://external-preview.redd.it/f6vI5lg1m_JKI6kVc1CCIvi9V6q7O88Wzhw8jcHhZbQ.jpeg?width=640&crop=smart&auto=webp&s=e37e6ab197c21bbd401364bfe7892acecb9979d6",
-      "external_url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Musk denied he was aware Grok ever produced \u2018any naked underage images\u2019"
-    },
-    {
-      "title": "AI agents can now pay for things online by themselves. Here is what can go wrong, and what I built to catch it",
-      "author": "Wild_Expression_5772",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7xjis/ai_agents_can_now_pay_for_things_online_by/",
-      "published": 1788605613.0,
+      "title": "Top AI Development Companies to Consider in 2026",
+      "author": "Formal-Thought-540",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7zwpf/top_ai_development_companies_to_consider_in_2026/",
+      "published": 1788612600.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "There is a real, live protocol called x402 that lets an AI agent pay for web content automatically. No login, no card entry, no human approval. A site says payment required, the agent signs a small crypto payment, gets the content. This already exists and is already being used. Two things worried me once I understood how it works. First, there is no memory built into the protocol. A vendor can scam an agent, return nothing useful, and the agent has no way to know not to pay that same vendor again. Second, if an agent reads regular web pages as part of its job, a malicious page can hide fake payment instructions in the page text itself, hoping the model mistakes it for something real. Built GateKeep402 to address both. It checks a vendor's history before paying and blocks vendors that have proven unreliable. It also makes it structurally impossible for a payment to be built from anything except a genuine protocol response, so hidden page text can never trigger a real payment no matter how convincing it looks. Verified against a real transaction on Solana's public devnet, not a simulation, with 45 automated tests. Open source, MIT license, installable via pip. Link in the comments. Would like to hear how others are thinking about the risks of giving agents real spending power. This feels like an early and mostly unsolved part of the space."
+      "description": "I have been looking into AI development companies recently. I am starting to realize how difficult it is to tell which AI development companies are actually good. Every company seems to offer AI development now, whether that is building an LLM-based application, an AI agent, an automation system, or something more specialized. Having \"AI\u201d, on a website does not necessarily mean the team knows how to build something that works well in the real world. For me, the interesting part is what happens after the demo. Can the system handle users? Is the data handled properly? Can the team improve the product when things change? I am wondering how other people here approach this. If you were choosing an AI development company in 2026, what would convince you that they are actually capable of delivering a product?"
     },
     {
       "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "I want to discuss something, vibe coding is being presented as ultimate solution for people who don\u2019t know how to code. When it comes to cyber security though there are major flawbacks. idk if there is a general consensus but what do you think about this issue? Should vibe coded programs be supervised by a professional or is AI ready to develop programs that are deploy ready?"
+    },
+    {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+      "published": 1788549135.0,
+      "thumbnail": null,
+      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "site_name": "theregister",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
     }
   ],
-  "fetched_at": "2026-09-05T11:41:07.840580+00:00"
+  "fetched_at": "2026-09-05T14:43:00.408602+00:00"
 }

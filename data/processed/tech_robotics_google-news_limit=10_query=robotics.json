@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Hear what University of Akron president say about safety and robotics",
+      "source": "Signal Akron",
+      "source_url": "https://signalakron.org",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2RoN3VtVWNtb3ZOSm1fZmE5V3RiUzdGcUQ4bF9QRmtaM2Y4WmFkR0I1QmlSTmc0YlJNSDNpanBWT1hhblhJdlpCOWh4Yk9ZUWg4RlBwTExnc1Y4eTNCWUNienZDdFZfUHdlUXJEeXlfeVRiYTVSNElJZkFfTmdyaWRpZjBzSEtEQ09GbjdCY3lPOWV3Z0thRUdmcUFwTEdvcERaWW5MdW5OWHI3RFplb2xkQWpVNGpSQ2RXNDRhdk1USUNkS2Y1Vm56dw?oc=5",
+      "pub_date": 1788494460.0,
+      "article_url": "https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -15,14 +25,14 @@
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
-      "headline": "Here\u2019s why the future of bricklaying might just be robots",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRMSVVlWnRhUW8zUnBZazlWSWV3XzREclZEYmhHZ2tIRGg2cTlrVkp6REVncy1fajlhLWFlQ2F1alNtcDdBcnlyMTdmLUlUQjIxWC02c2MwV1hDeTRUcmVjRTZXandKVy1kd0pTdkQ0QU42M2dnMHlEVmJiRVJVdVItS2VVRjluNjZvd2xudVBja2cwNVhoLVBfT2psLU45X2tpdzhB?oc=5",
-      "pub_date": 1788559920.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
-      "description": "Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days."
+      "headline": "19 robotics companies to watch",
+      "source": "understandingai.org",
+      "source_url": "https://www.understandingai.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wc0RfNVA1MFcxX3JVWHJmNU9xME1kUHAtVm9kZ2hmTmhUNEN0Y29nRkRKMmJXNjFybFdhWThBWXlsRUtzOUZZV1hvelc4dUlyQy1vdDdLU1BTSGFGSHVJLWc0Qm5scDE1Y0lEcG1jZXYzZw?oc=5",
+      "pub_date": 1788537849.0,
+      "article_url": "https://www.understandingai.org/p/19-robotics-companies-to-watch",
+      "image": "https://substackcdn.com/image/fetch/$s_!0Oyg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81236b2c-4d8f-4327-a29d-fcfd913e023c_1116x699.png",
+      "description": "I talked with nine of these companies."
     },
     {
       "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
@@ -45,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Hear what University of Akron president say about safety and robotics",
-      "source": "Signal Akron",
-      "source_url": "https://signalakron.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2RoN3VtVWNtb3ZOSm1fZmE5V3RiUzdGcUQ4bF9QRmtaM2Y4WmFkR0I1QmlSTmc0YlJNSDNpanBWT1hhblhJdlpCOWh4Yk9ZUWg4RlBwTExnc1Y4eTNCWUNienZDdFZfUHdlUXJEeXlfeVRiYTVSNElJZkFfTmdyaWRpZjBzSEtEQ09GbjdCY3lPOWV3Z0thRUdmcUFwTEdvcERaWW5MdW5OWHI3RFplb2xkQWpVNGpSQ2RXNDRhdk1USUNkS2Y1Vm56dw?oc=5",
-      "pub_date": 1788494460.0,
-      "article_url": "https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
       "source": "ABC7 Chicago",
       "source_url": "https://abc7chicago.com",
@@ -63,6 +63,16 @@
       "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
       "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
       "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+    },
+    {
+      "headline": "Here\u2019s why the future of bricklaying might just be robots",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRMSVVlWnRhUW8zUnBZazlWSWV3XzREclZEYmhHZ2tIRGg2cTlrVkp6REVncy1fajlhLWFlQ2F1alNtcDdBcnlyMTdmLUlUQjIxWC02c2MwV1hDeTRUcmVjRTZXandKVy1kd0pTdkQ0QU42M2dnMHlEVmJiRVJVdVItS2VVRjluNjZvd2xudVBja2cwNVhoLVBfT2psLU45X2tpdzhB?oc=5",
+      "pub_date": 1788559920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
+      "description": "Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days."
     },
     {
       "headline": "Tech industry\u2019s robotics talent crunch has UW\u2019s new grad program nearly full before day one",
@@ -86,25 +96,15 @@
     },
     {
       "headline": "Korean robot stocks leap as Seoul broadens support beyond R&D",
-      "source": "kedglobal.com",
+      "source": "KED Global",
       "source_url": "https://www.kedglobal.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MmFOdzR6T3NOZDRjYTFySEVCVWQwWmNLbWhRbzM2SnNGazMyczhkM09CcDh1MXJEVVV1eGFBQ1lMb1hMWUc1T3NIY3pFLTBKZzVhVkt3V3RhM1F0d1NpNDZTWWJ2Tm1DN0Vz?oc=5",
       "pub_date": 1788522660.0,
       "article_url": "https://www.kedglobal.com/robotics/newsView/ked202609040012",
       "image": "https://www.kedglobal.com/data/ked/image/2026/09/04/ked202609040046.jpg",
       "description": "South Korean robot stocks surged on Friday as investors digested the government\u2019s announcement earlier this week of a record 2027 budget proposal that sh"
-    },
-    {
-      "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVTOXNGSTdHMWIwblFPdkJXYmRReElTMzRKZ3U2VHpnU2xhMEVKNzFPQ29GZlA4NUdaZjRoN2tBOUh0ZUwxNmtRajRBamdiSEVCRTZLUUNnekRkZUJJc3dXVGt3c0s3UTRkNS0xREhqcWV4LXFWUGd0Z0JmakZJVDdMM2pUal84UjJxUmxaX3BWTXBFWTZWR0dRd3BmelFpWXAxZTln?oc=5",
-      "pub_date": 1788464460.0,
-      "article_url": "https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-l52858ztp-1788462169023.jpg?quality=75&strip=all&1788447805&w=1200",
-      "description": "Food delivery start-up Wonder slashed 175 jobs \u2013 or 7% of its workforce \u2013 this week to invest in robotics and automation, the company said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T11:41:28.988941+00:00"
+  "fetched_at": "2026-09-05T14:43:18.806653+00:00"
 }

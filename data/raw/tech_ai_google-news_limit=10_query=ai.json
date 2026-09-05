@@ -15,24 +15,64 @@
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
-      "headline": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
-      "source": "Microsoft Azure",
-      "source_url": "https://azure.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdMUFVQUF8wMGROZEdmRlVneDFlTWdQVWo4eTJsejg5cVRULWJMWlRaZUdjNzdmNWhCWTFWMlU3c1JiZGxhSDAwYzlPbmNjeHdmUXlWazlmZWk5TG9PTFRtRXN3Q3RwdUV2bkRFT1pKTUhUWHBEUERCcTg1d1cxY2RnNENMb2dFMjVzT0ZyTWg3OGtjdU9jeDlaRVBTSVFpZHpCQnFTTGJGMlFTY3QyMXRrc0lhR0JRb0tGM0g2M3VtWjBvQ2c?oc=5",
-      "pub_date": 1788459300.0,
-      "article_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFk5dVlaNzFDT3V3QTRuZ3BSS05sY1VnM1VjdUV6eHVuSkdkRmlHanhxWUVkczV1NDlPZmJMSFlndEpWOFNEYnp4NHZFZ3FHdmdYV2h5U1hhdThna3k5WXJHZ0ZmaGM0QjRlYjZLbTkwWUVmUTBPTVBiM1lDOVkxZU5LNUYzRU56a0VndER0MVVRZ1ZLcGhZRQ?oc=5",
+      "pub_date": 1788546394.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI\u2019s GPT-6 Astra might be too powerful to understand or control",
-      "source": "Transformer | Substack",
-      "source_url": "https://www.transformernews.ai",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHEyR0o0V0l2SURvTlpDMzNBeUtzLXU3Vl95cGN5VHo3MUNrWEpKS244NnEwRmp3bm1QSlZTMkx5MW5xSV9SQzJPbGZJdF81QzJZMHF6c0xpTHdlcmxCbGF1WUpWX0dZc1R5SDNCUC1ETXRVR0E5TjlTUWRJdGZhY0lzS3dHV3BCenZQNVZQTlU2NGZLUDU5SGZncmtsOWc?oc=5",
-      "pub_date": 1788519949.0,
-      "article_url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
-      "image": "https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg",
-      "description": "OpenAI is hailing its new model as \u201cthe world\u2019s most intelligent and aligned\u201d, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning"
+      "headline": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwLVVsX3VUZ3lBT1R4REFEY3RQTHF5SEQtVWxNSDhtalFvZGp2WHl3UEZPb1c4UDY3U3VaZWFGRmdQNW9LYTJGRHBLUW56SFJhZ2hNNFIxRC04WElZV0VtYkdnWk5TTXNaTXp6ZnRselJMOUXSAXhBVV95cUxPWW5SaEZRRjBWNnRuamh1SEhWQnY3UnVOS0FuXzl2dVFINW9xbVYxSWJQTFAzcmR4RkZDb2xkbGw1NElVbVVjU3prLTMtc3dPNFpuNTRxZDBrZ3M1NFNLdEppNXdjM3kxV0N1ZkZrVmNWOHRuTnVWOTc?oc=5",
+      "pub_date": 1788615188.0,
+      "article_url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358029-1788378695959-gettyimages-2258003728-QTS_DATA_CENTER.jpeg?v=1788378710&w=1920&h=1080",
+      "description": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars."
+    },
+    {
+      "headline": "Trump\u2019s Embrace of AI Data Centers Adds to GOP\u2019s Midterm Peril",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW1pUUx6a3A1dDZjd1R6R2tFVVhzb2I3dHoxbU9HR0xXQjJEU1VVNXFxODk4bVhjaE9GSFFsWVRPUzR5MFJJcUNMZUtDRkRlN2taWGhycTVnVGhoU1pTRnB4VU1VcVdrdmQ5dlNYTkxnZDg0MWYyZXZ0cHlOU2lrZl9qbHB4WndxVnlISTNHMElXcF9uaDNDT3p1ckFJdTRzTUhxTmNfa0FnUVFtaEdodlpiQQ?oc=5",
+      "pub_date": 1788616800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-05/trump-s-embrace-of-ai-data-centers-adds-to-gop-s-midterm-peril",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Millions of hours of Ukraine drone data being used to train AI: Report",
+      "source": "The Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWmNjeHNXZ2NJX014ZHVFQnIzbGFMWkwyU20wSEYza0VMS0pqOWFnd2J5NUplRmJ2emRtTmVUQTdGZFI2UkczYmRLaHNIUFdmbGpJVWZRSXpFdWVHNk8zN2QxZnVOOVRST2Q3R0o3THpDbGZ1Umt5S2R3cW5JMG01V3ZRWVUwWlA2MXpDQnZFcExaQ1FHVjZjYk1jTkYxUktmdjBwOWI0YkpIS213SkJQZW1rai0xbkc4dzdhYXVJX202b29xLUNPTVM5QnhyQ0x3MlZaZ3hZMmhkMFlQ0gHiAUFVX3lxTE0wU1RyeVoza1NZWW5qV1BWdm5KQWFiaGp1enpSV0UwaUN2ck9nQlk2MzFweWlYUlF3WXZOXzZ5Q1ZVWHFpQW9OUDFlTGpfdlNYSHJlNDJ5endSQkVoOWFsVDFCSmZrOFp4NTlCU2xrLUluTm56QWFtbzd3eF9JWmxWTzBPbTNmdWp3UUlSb0JaSnRaYjhaaDZnY3JLMFpYUjF4LWFibUVUMi0zMkg1UEpjclFRZ0oyZjJjZ0JQYXZPSElHQllTcm92V0pDZ25VT200dHJITGxIUHRUa2xCMHVNOGc?oc=5",
+      "pub_date": 1788614580.0,
+      "article_url": "https://timesofindia.indiatimes.com/world/europe/millions-of-hours-of-ukraine-drone-data-being-used-to-train-ai-report/articleshow/133801734.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133803032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "description": "Ukraine\u2019s war with Russia is generating a resource that could outlive the conflict itself. Reports suggest that vast amounts of battlefield data are increasingly being used to train artificial intelligence systems, creating a new and largely unregulated market around the technology."
+    },
+    {
+      "headline": "Opinion | How Scared Should We Be of A.I. Right Now?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5",
+      "pub_date": 1788606005.0,
+      "article_url": "https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The best time to buy an iPhone may be right this minute",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHVhZEZuX3FWX05uVFN0bEhoTlZPanJUZFo2SkMtTm9vbTdnS0UtNUYwQS03MFZBa1dIdVo0enJmTHBUTDBpODh6MU81cHhtbUkyWUk5OGs2NlpaNm5WbVhUaDVEem5vQ0d2aUVyaGVqUmdrTDFfUTZfQlpVdTNHeWJSYm83SDhVTnFUTnJQaGIteU9pTVlPOU44OHJnSHM1QnJYN0FvcjlpMTVQ?oc=5",
+      "pub_date": 1788615156.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCX3QSEYUCL3I2SMSRXVPDZK3E_size-normalized.jpg&w=1440",
+      "description": "Whatever your favorite smartphone, it\u2019s going to cost more. Blame inflation driven by the AI boom."
     },
     {
       "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
@@ -45,66 +85,26 @@
       "description": null
     },
     {
-      "headline": "Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWV4RjBZYlppTGV6U0VLRE0tTUZiX2toTElEM1hNUExfb0tVX0NEWWtGR054ZDJmMWlMZGxSalgwOHdDcHRtNjk1M2g1QmpzQVljTExmWTBrd1RCTzZGTWZiMmh3eW5NeWlTcDlrR24ySzZad0pMUkZiazJqOTdxMWUxME00dEZMcGdNVU1sNmVpcXJSeWdRSTEtVVd2bHpUbVlfbGZuMWd5b0E?oc=5",
-      "pub_date": 1788563030.0,
-      "article_url": "https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-Sam-Altman-vsb-1845-4db5ec.jpg",
-      "description": "A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions."
+      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraph.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
+      "pub_date": 1788586200.0,
+      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
+      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
     },
     {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "pub_date": 1788538320.0,
+      "pub_date": 1788480364.0,
       "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | How Scared Should We Be of A.I. Right Now?",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5",
-      "pub_date": 1788606005.0,
-      "article_url": "https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The mystery behind an audio clip that helped upend a Senate race",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWk9pTld0M1BrWDdHeFllc3MxUXJhWHhuTUdIdjVMaGY1UnlHRHd2SW1aMDVET0pER1cxdkVPdnd2S2lLemctdDQ5US1oTkQ0aTh5dkV1d0RURTZJNjNDVXp3MVZuQzU0YnNUOWc3ZGtaT21NWHJuMjE0NmFma0pJLUxSYlRYUnM0OWJtSktkYW1lT0toMG5CalUtRDNTX2NJdUd1RkZrNWxzODZUTVFv?oc=5",
-      "pub_date": 1788607989.0,
-      "article_url": "https://www.washingtonpost.com/politics/2026/09/05/mystery-behind-an-audio-clip-that-helped-upend-senate-race/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXBFCR6RHWYAPMVYLQ4POIEIOI_size-normalized.jpg&w=1440",
-      "description": "Artificial-intelligence tools increasingly allow political actors to fool voters \u2014 and help candidates cast doubt on reality."
-    },
-    {
-      "headline": "Fermat\u2019s last theorem formalised by AI agents in just 11 days",
-      "source": "New Scientist",
-      "source_url": "https://www.newscientist.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnpPUTdPQThobWktNXR4eERZb3NUbWNES2NKdGdWMy1MQWpReHcwSzdsSzFfank0RjJOLTJKaDgzZXFPdFVTMjVjRUpfRW9rNUFtV3l1Smd4WEx5MkZOSVJ2cVUzZlRkSEp4ZWw4QXVNdkZRSlhQNkllaW52NkpicndjSHF6ckR6QzlyNWFWTTJjZlFKUUtpX0pyY3JJQlc0SVVhXzdYRDZSQQ?oc=5",
-      "pub_date": 1788606375.0,
-      "article_url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg",
-      "description": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years \u2013 Anthropic's Claude AI managed it in less than two weeks"
-    },
-    {
-      "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFk5dVlaNzFDT3V3QTRuZ3BSS05sY1VnM1VjdUV6eHVuSkdkRmlHanhxWUVkczV1NDlPZmJMSFlndEpWOFNEYnp4NHZFZ3FHdmdYV2h5U1hhdThna3k5WXJHZ0ZmaGM0QjRlYjZLbTkwWUVmUTBPTVBiM1lDOVkxZU5LNUYzRU56a0VndER0MVVRZ1ZLcGhZRQ?oc=5",
-      "pub_date": 1788546394.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T11:41:44.329204+00:00"
+  "fetched_at": "2026-09-05T14:43:19.344061+00:00"
 }
