@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-05T03:18:39.963062+00:00'
+updated: '2026-09-05T07:49:21.069959+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 03:18 UTC  
+**Last Updated:** September 05, 2026 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,569.47
+### $79,745.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** +2.4%  
-**30d:** +22.6%  
-**90d:** +26.1%  
-**1y:** -27.7%  
+**24h:** -1.7%  
+**7d:** +2.6%  
+**30d:** +22.8%  
+**90d:** +26.4%  
+**1y:** -27.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1597.83B
+**Market Cap:** $1601.04B
 Rank #1
 
 **Circulating Supply:** 20,079,703 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.9%
+-36.8%
 
 **All-Time Low:** $67.81
-+117267.6%
++117490.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 74
+### 73
 **GREED**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[He actually lost it in Boating Accident 😂](https://www.reddit.com/r/Bitcoin/comments/1w607av/he_actually_lost_it_in_boating_accident/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to fund preferred dividends before resuming purchases at $80,000.
 
-🔗 [bitbo.io](https://bitbo.io/news/strategy-ceo-defends-bitcoin-sale/) • 1d ago
+🔗 [bitbo.io](https://bitbo.io/news/strategy-ceo-defends-bitcoin-sale/) • 2d ago
 
 ---
 
@@ -131,7 +131,7 @@ Strategy CEO Phong Le said selling 7,000 BTC at $60,000 was 'the right trade' to
 
 Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. A lot of people have heard of Bitcoin but even among those who hold it, knowledge is shallow. Though for those holding the leading cryptocurrency, it appears to be solving a problem: getting around failing banking rails or inflation. That’s according to new findings from the U.S. Ivy League research university Cornell, which spoke to nearly 26,000 around the globe about Bitcoin. In its new Bitcoin Adoption Index report, the top college found that El Salvador, Venezuela and Nigeria were the countries that had the highest number of people who had ever owned bitcoin. “Ranked by the share of all respondents who have ever owned bitcoin, the leaders are not wealthy financial centers — they are economies where the national currency has been unstable and everyday access to dollars or reliable banking is hard,” the report read. “In each, bitcoin functions less as a speculative bet and more as a practical workaround.” Still, Cornell found that actually being able to explain the fundamentals of the protocol was difficult for most — including how many bitcoins would ever be minted in existence. In fact, 58% of those surveyed said they didn’t know the supply was capped at 21 million coins. But technicalities aside, the cryptocurrency has still proved helpful to people wanting to use it, the report found. One Venezuelan — who wasn’t named — told interviewers that Bitcoin was “faster, cleaner, and much less risky” than other methods of getting dollars in the country. While another Salvadoran was quoted saying: “When nobody controls [bitcoin], it means we all have control of it.” And a Nigerian interviewee reportedly told Cornell researchers: “I’ve been to six African countries and whenever I go there, I don’t fear it because I know I can spend my bitcoin.” Bitcoin adoption started growing in Venezuela ahead of other countries years ago, when hyperinflation crippled the economy and strict government currency controls meant getting dollars became difficult. El Salvador made bitcoin legal tender — along with the dollar — in 2021. The country’s leader admitted that getting its citizens to use the cryptocurrency was difficult but the Central American nation still says it buys the asset for its government coffers. In Nigeria, which has had some of the highest transaction volumes in the world, saving in bitcoin has been used by some to get around the collapse of the naira. Cornell University’s research was fielded by Morning Consult in partnership with the Tech Policy Institute in Cornell University’s Jeb E. Brooks School of Public Policy, the Cornell Bitcoin Club, the Human Rights Foundation and the Reynolds Foundation. Researchers interviewed 25,880 people in 25 countries between December 16, 2024 to March 10, 2025, asking 125 individual questions.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell) • 1d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell) • 2d ago
 
 ---
 
@@ -147,57 +147,27 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's $80,000 breakout failed after a blowout jobs report](https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html)**
+**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+
+Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
+
+CNBC • 19h ago
+
+---
+
+**[Bitcoin's $80,000 breakout just failed after a blowout jobs report](https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html)**
 
 Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says](https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535)**
+**[Bitcoin is trading more like an ‘amplified version of gold’ again, but the four-year cycle theory threatens further declines](https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/)**
 
-IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
+Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-The Block • 15h ago
-
----
-
-**[Why Is Crypto Crashing? Bitcoin Plunges After US Jobs Shock as $200B Is Liquidated in 15 Minutes](https://bitcoinfoundation.org/news/bitcoin/why-is-crypto-crashing-bitcoin-plunges-after-us-jobs-shock-as-200b-is-liquidated-in-15-minutes/)**
-
-Crypto markets face renewed volatility as Fed rate-hike concerns trigger a rapid sell-off, wiping out $200 million in just 15 minutes.
-
-Bitcoin Foundation • 12h ago
-
----
-
-**[Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center](https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/)**
-
-After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center.
-
-wndu.com • 47m ago
-
----
-
-**[Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds](https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds)**
-
-The Dow dropped 226 points and Bitcoin erased some gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%.
-
-Decrypt • 12h ago
-
----
-
-**[Bitcoin Dips Below $80,000 On Strong US Jobs Report](https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report)**
-
-Bitcoin dipped on news that the Federal Reserve may hike interest rates this month.
-
-bitcoinmagazine.com • 10h ago
-
----
-
-**[Bitcoin Failed To Mount A Convincing Recovery After Quick Drop](https://www.forbes.com/sites/digital-assets/2026/09/04/bitcoin-failed-to-mount-a-convincing-recovery-after-tquick-drop/)**
-
-Forbes • 6h ago
+Fortune • 11h ago
 
 ---
 
@@ -205,23 +175,53 @@ Forbes • 6h ago
 
 The industry is a surprising top spender in the races.
 
-The Atlantic • 4h ago
+The Atlantic • 9h ago
 
 ---
 
-**[Current price of Bitcoin for September 4, 2026](https://fortune.com/article/price-of-bitcoin-09-04-2026/)**
+**[Here's the 1 Crypto I'd Buy If I Could Pick Only One](https://www.fool.com/investing/2026/09/05/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Bitcoin has a unique combination of upside potential and downside protection.
 
-fortune.com • 14h ago
+The Motley Fool • 3h ago
 
 ---
 
-**[Bitcoin tops $80,000: 'Crypto winter is close to being over'](https://finance.yahoo.com/markets/article/bitcoin-tops-80000-crypto-winter-is-close-to-being-over-173224980.html)**
+**[IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money](https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money)**
 
-Investors see hopeful signs that bitcoin could buck a trend of historically weak performance in September.
+CoinDesk • 22h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says](https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535)**
+
+IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.
+
+The Block • 20h ago
+
+---
+
+**[IMF updates assessment, confirms El Salvador's Bitcoin additions came from donations](https://www.tradingview.com/news/cryptobriefing:5dec8f17a094b:0-imf-updates-assessment-confirms-el-salvador-s-bitcoin-additions-came-from-donations/)**
+
+The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF…
+
+TradingView • 19h ago
+
+---
+
+**[The Nasdaq’s Biggest Winner Was a Bitcoin Stock That Is Still Down 56% in a Year](https://247wallst.com/investing/2026/09/04/the-nasdaqs-biggest-winner-was-a-bitcoin-stock-that-is-still-down-56-in-a-year/)**
+
+Strategy surged 18% to lead the Nasdaq on Thursday, yet its shareholders are sitting on a loss that dwarfs bitcoin's own slide over the past year. The same leverage that fueled one electric session has a habit of cutting just as hard in the other direction.
+
+24/7 Wall St. • 19h ago
+
+---
+
+**[Strategy holds $52B in net Bitcoin reserves after adjustments](https://www.tradingview.com/news/cryptobriefing:eac2b2447094b:0-strategy-holds-52b-in-net-bitcoin-reserves-after-adjustments/)**
+
+Strategy Inc. is sitting on roughly $52.5 billion in net Bitcoin reserves after subtracting what it owes to preferred shareholders and convertible debt holders.The gross number is substantially larger. Strategy holds approximately 845,050 BTC valued at around $74 billion, which represents about 4.0…
+
+TradingView • 11h ago
 
 ---
 
@@ -259,30 +259,6 @@ COLDCARD users lost 1,700 BTC to weak randomness. How to generate a BIP39 seed p
 
 ---
 
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 1](https://news.ycombinator.com/item?id=49497861)**
-
-⬆️ 2 • 💬 0 • 5d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-1-8cb976c46512)
-
----
-
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 5](https://news.ycombinator.com/item?id=49569992)**
-
-⬆️ 1 • 💬 0 • 6h ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-5-14a57515ad40)
-
----
-
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 4](https://news.ycombinator.com/item?id=49558061)**
-
-⬆️ 1 • 💬 0 • 1d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-4-ef6db050756e)
-
----
-
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 3](https://news.ycombinator.com/item?id=49556655)**
-
-⬆️ 1 • 💬 0 • 1d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-3-8eb2ce922bfb)
-
----
-
 **[From Bitcoin Bankruptcy to Data Center Billions in West Texas](https://news.ycombinator.com/item?id=49548221)**
 
 Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
@@ -291,9 +267,29 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 ---
 
-**[Blockchain und Bitcoin erklärt in 6 Episoden – Episode 2](https://news.ycombinator.com/item?id=49514737)**
+**[White House Launches Arcade.Gov](https://news.ycombinator.com/item?id=49570467)**
 
-⬆️ 1 • 💬 0 • 4d ago • [Medium](https://medium.com/@chris.ahrweiler/blockchain-und-bitcoin-erkl%C3%A4rt-in-6-episoden-episode-2-2e6c061e9a0c)
+Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
+
+⬆️ 15 • 💬 2 • 10h ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
+
+---
+
+**[Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)**
+
+⬆️ 118 • 💬 82 • 2d ago
+
+---
+
+**[Show HN: Claude's innerworkings: turn 170 costs 2.1x turn 20, over 14,640 turns](https://news.ycombinator.com/item?id=49552931)**
+
+⬆️ 3 • 💬 2 • 1d ago
+
+---
+
+**[Are we measuring AI coding ability wrong?](https://news.ycombinator.com/item?id=49563287)**
+
+⬆️ 1 • 💬 0 • 20h ago • [bitbin.de](https://bitbin.de/qualitative-benchmarks/)
 
 ---
 
@@ -307,67 +303,7 @@ Bitcoin just posted its highest close in four months, up nearly $20000 in 20 day
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 802 • 💬 84 • ⏱️ 14:58 • 3h ago
-
----
-
-**[BlackRock just bought $454 million of Bitcoin in a single day.](https://www.youtube.com/watch?v=WPuZkAzmx0Q)**
-
-BlackRock alone put $454 million into Bitcoin ETFs today, the biggest part of a $731 million day — the largest single-day inflow ...
-
-📺 Yahoo Finance
-
-👁️ 27K • 👍 516 • 💬 87 • ⏱️ 14:52 • 10h ago
-
----
-
-**[Bitcoin Rips to $82K in a Global Bond Crisis! Here&#39;s Why It&#39;s Just Getting Started](https://www.youtube.com/watch?v=eR_zgMNQryg)**
-
-Bitcoin just broke one of its oldest macro relationships. As global bond yields surge, Japan fights to defend the yen, and ...
-
-📺 Simply Bitcoin
-
-👁️ 54K • 👍 2K • 💬 206 • ⏱️ 15:19 • 1d ago
-
----
-
-**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
-
-Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
-
-📺 Swan Bitcoin
-
-👁️ 23K • 👍 781 • 💬 146 • ⏱️ 13:01 • 1d ago
-
----
-
-**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
-
-📺 Bitcoin University
-
-👁️ 22K • 👍 1K • 💬 511 • ⏱️ 7:52 • 1d ago
-
----
-
-**[THIS WEEKEND DECIDES IF BITCOIN GOES BEAR OR BULL](https://www.youtube.com/watch?v=bru6g57RCt4)**
-
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 15K • 👍 575 • 💬 70 • ⏱️ 25:41 • 15h ago
-
----
-
-**[🚨 BLACKROCK&#39;S VISION FOR BITCOIN..?!?!?!?!](https://www.youtube.com/watch?v=UK1d_tnvywc)**
-
-BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
-
-📺 BRITISH HODL
-
-👁️ 18K • 👍 761 • 💬 129 • ⏱️ 12:21 • 1d ago
+👁️ 19K • 👍 1K • 💬 74 • ⏱️ 14:58 • 8h ago
 
 ---
 
@@ -377,27 +313,87 @@ Bitcoin is about to trigger a powerful signal. Here's what it means. We look at 
 
 📺 Alessio Rastani
 
-👁️ 34K • 👍 2K • 💬 374 • ⏱️ 2:58 • 15h ago
+👁️ 36K • 👍 2K • 💬 402 • ⏱️ 2:58 • 19h ago
 
 ---
 
-**[CLARITY Act: Bitcoin Investment Risks &amp; Collateral Explained!](https://www.youtube.com/watch?v=HdOtjeJgSTs)**
+**[BlackRock just bought $454 million of Bitcoin in a single day.](https://www.youtube.com/watch?v=WPuZkAzmx0Q)**
 
-Dante talks about CLARITY Act: Bitcoin Investment Risks & Collateral Explained! Brought to you by Bitcoinwell.com a bitcoin-only ...
+BlackRock alone put $454 million into Bitcoin ETFs today, the biggest part of a $731 million day — the largest single-day inflow ...
+
+📺 Yahoo Finance
+
+👁️ 31K • 👍 558 • 💬 102 • ⏱️ 14:52 • 14h ago
+
+---
+
+**[5 Crypto Coins will 10x in 30 Days! (Watch Before I Delete)](https://www.youtube.com/watch?v=GR8ofPaX3Vc)**
+
+Bitcoin is about to EXPLODE in September!? 5 Crypto Coins will 10x in 30 Days!? (Watch Before I Delete) ⭐ Follow Altcoin Daily ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 235 • ⏱️ 10:11 • 1d ago
+
+---
+
+**[Is This The Last Time Bitcoin Is Under $100K?](https://www.youtube.com/watch?v=uxOPMVksyuo)**
+
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+
+📺 Crypto Tips
+
+👁️ 14K • 👍 576 • 💬 39 • ⏱️ 10:14 • 15h ago
+
+---
+
+**[🚨🚨🚨💣⏳Bitcoin is a Ticking Time Bomb - TICK, TICK, TICK, ...........BOOM!!!!!!!!!!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=-qJLComg_2A)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 8K • 👍 381 • ⏱️ 33:14 • 12h ago
+
+---
+
+**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
+
+Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
+
+📺 Swan Bitcoin
+
+👁️ 23K • 👍 784 • 💬 146 • ⏱️ 13:01 • 1d ago
+
+---
+
+**[Bitcoin Rips to $82K in a Global Bond Crisis! Here&#39;s Why It&#39;s Just Getting Started](https://www.youtube.com/watch?v=eR_zgMNQryg)**
+
+Bitcoin just broke one of its oldest macro relationships. As global bond yields surge, Japan fights to defend the yen, and ...
 
 📺 Simply Bitcoin
 
-👁️ 220 • 👍 15 • 💬 10 • ⏱️ 0:24 • 1h ago
+👁️ 55K • 👍 2K • 💬 206 • ⏱️ 15:19 • 1d ago
 
 ---
 
-**[$1.3 Million Bitcoin Will Be “Relatively Easy,” Says Bitwise’s Matt Hougan](https://www.youtube.com/watch?v=64t2om-Ei_c)**
+**[Ben Cowen: Most Accurate Trader In Crypto Flips On Bitcoin](https://www.youtube.com/watch?v=SzQFdsWTJec)**
 
-Matt Hougan, Chief Investment Officer of Bitwise Asset Management, joins Jennifer Sanasie for a special edition of Markets ...
+Ben Cowen called last year's cycle top almost to the week, live on this show. Now he puts a hard number on the bottom.
 
-📺 CoinDesk
+📺 Kyle Chasse crypto
 
-👁️ 28K • 👍 357 • 💬 104 • ⏱️ 15:14 • 1d ago
+👁️ 40K • 👍 904 • 💬 195 • ⏱️ 57:03 • 14h ago
+
+---
+
+**[🚨 BLACKROCK&#39;S VISION FOR BITCOIN..?!?!?!?!](https://www.youtube.com/watch?v=UK1d_tnvywc)**
+
+BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
+
+📺 BRITISH HODL
+
+👁️ 19K • 👍 772 • 💬 127 • ⏱️ 12:21 • 1d ago
 
 ---
 
