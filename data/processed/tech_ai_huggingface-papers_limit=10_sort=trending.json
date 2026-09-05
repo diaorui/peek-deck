@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 11696,
+      "github_stars": 11746,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-05T19:16:56.068285+00:00"
+  "fetched_at": "2026-09-05T21:31:48.941064+00:00"
 }

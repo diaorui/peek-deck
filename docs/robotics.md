@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T19:17:13.481193+00:00'
+updated: '2026-09-05T21:32:07.638834+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 19:17 UTC  
+**Last Updated:** September 05, 2026 at 21:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -120,7 +120,7 @@ PR Newswire • 2d ago
 
 The round is being raised just months after the robot data startup exited from stealth.
 
-TechCrunch • 19h ago
+techcrunch.com • 21h ago
 
 ---
 
@@ -152,11 +152,11 @@ Signal Akron • 1d ago
 
 ---
 
-**[America’s biggest military shipbuilder taps robotics to build Navy warships faster](https://interestingengineering.com/military/americas-biggest-military-shipbuilder)**
+**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
 
-HII is targeting a 15% increase in shipyard throughput through workforce, infrastructure and physical AI investments.
+Remote-control robot bugs could deliver lifesaving aid to disaster victims
 
-Interesting Engineering • 6h ago
+IEEE Spectrum • 8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Interesting Engineering • 6h ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 1d ago
+abc7chicago.com • 1d ago
 
 ---
 
@@ -172,15 +172,15 @@ ABC7 Chicago • 1d ago
 
 Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-futurism.com • 9h ago
+Futurism • 11h ago
 
 ---
 
-**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
+**[America’s biggest military shipbuilder taps robotics to build Navy warships faster](https://interestingengineering.com/military/americas-biggest-military-shipbuilder)**
 
-The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
+HII is targeting a 15% increase in shipyard throughput through workforce, infrastructure and physical AI investments.
 
-geekwire.com • 1d ago
+Interesting Engineering • 8h ago
 
 ---
 
@@ -194,17 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 73K • 👍 592 • 💬 127 • ⏱️ 9:07 • 2d ago
-
----
-
-**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
-
-Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
-
-📺 CNET
-
-👁️ 87K • 👍 393 • 💬 39 • ⏱️ 1:49 • 6d ago
+👁️ 73K • 👍 596 • 💬 128 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -214,7 +204,17 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 150K • 👍 1K • 💬 218 • ⏱️ 12:56 • 5d ago
+👁️ 151K • 👍 1K • 💬 221 • ⏱️ 12:56 • 5d ago
+
+---
+
+**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
+
+Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
+
+📺 CNET
+
+👁️ 88K • 👍 395 • 💬 40 • ⏱️ 1:49 • 6d ago
 
 ---
 
@@ -224,7 +224,37 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 334K • 👍 7K • 💬 569 • ⏱️ 15:41 • 2d ago
+👁️ 346K • 👍 7K • 💬 574 • ⏱️ 15:41 • 3d ago
+
+---
+
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
+
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
+
+📺 CBS Chicago
+
+👁️ 170K • 👍 1K • 💬 426 • ⏱️ 1:44 • 1d ago
+
+---
+
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 198K • 👍 2K • 💬 123 • ⏱️ 0:58 • 3d ago
+
+---
+
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+
+📺 Curiosity Loop
+
+👁️ 365K • 👍 14K • 💬 35 • ⏱️ 0:19 • 2d ago
 
 ---
 
@@ -238,23 +268,13 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 ---
 
-**[The Physics That Kills Humanoid Robots (And Why Every Company is Hiding It)](https://www.youtube.com/watch?v=RFhRmv2pQSA)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-There is a physics problem inside every humanoid robot on Earth right now that nobody in the industry wants to talk about, and it ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-📺 Six Digits
+📺 South China Morning Post
 
-👁️ 87K • 👍 3K • 💬 394 • ⏱️ 14:27 • 6d ago
-
----
-
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
-
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
-
-📺 Carros Show
-
-👁️ 46K • 👍 328 • 💬 39 • ⏱️ 19:36 • 5d ago
+👁️ 132K • 👍 1K • 💬 323 • ⏱️ 3:47 • 2d ago
 
 ---
 
@@ -265,26 +285,6 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 📺 AP Archive
 
 👁️ 124K • 👍 324 • 💬 201 • ⏱️ 0:53 • 6d ago
-
----
-
-**[From Indoors to Outdoors. Robotics for All.](https://www.youtube.com/watch?v=GZwlWA4Tai4)**
-
-Robotics is going further. Beyond floors. Beyond walls. Beyond the home. From indoors to outdoors, discover the expanding world ...
-
-📺 ECOVACS ROBOTICS
-
-👁️ 164K • ⏱️ 0:48 • 2d ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 127K • 👍 1K • 💬 321 • ⏱️ 3:47 • 2d ago
 
 ---
 
