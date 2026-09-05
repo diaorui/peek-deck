@@ -8,9 +8,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 20613,
-      "stars_display": "20.6k",
-      "forks": 2383,
+      "stars": 20652,
+      "stars_display": "20.7k",
+      "forks": 2388,
       "forks_display": "2.4k",
       "language": "Python",
       "topics": [
@@ -20,7 +20,7 @@
         "c2pa",
         "chatgpt"
       ],
-      "updated_at": "2026-09-04T00:48:57Z"
+      "updated_at": "2026-09-05T06:10:26Z"
     },
     {
       "full_name": "CopilotKit/OpenBot",
@@ -30,10 +30,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4264,
+      "stars": 4271,
       "stars_display": "4.3k",
-      "forks": 520,
-      "forks_display": "520",
+      "forks": 524,
+      "forks_display": "524",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -52,29 +52,13 @@
       "description": "\ud83d\ude80\u9762\u5411\u6c42\u804c\u4e0e\u5f00\u53d1\u573a\u666f\u7684\u5b9e\u7528 AI Skills \u96c6\u5408\uff0c\u652f\u6301\u7b80\u5386\u4f18\u5316\u3001\u5c97\u4f4d\u6295\u9012\u3001\u9762\u8bd5\u51c6\u5907\u4e0e\u5f00\u53d1\u63d0\u6548\u3002",
       "url": "https://github.com/Hisn00w/ASu-skills",
       "preview_image": "https://opengraph.githubassets.com/c0b8828c74619eb6696fffd4a2bb91fd4c059ef3ebe5dbd5a8e4cdb4d6cd8a35/Hisn00w/ASu-skills",
-      "stars": 3523,
+      "stars": 3545,
       "stars_display": "3.5k",
-      "forks": 221,
-      "forks_display": "221",
+      "forks": 222,
+      "forks_display": "222",
       "language": "HTML",
       "topics": [],
       "updated_at": "2026-09-04T14:34:01Z"
-    },
-    {
-      "full_name": "yetone/cumora",
-      "name": "cumora",
-      "owner": "yetone",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "url": "https://github.com/yetone/cumora",
-      "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3475,
-      "stars_display": "3.5k",
-      "forks": 435,
-      "forks_display": "435",
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-09-05T02:26:48Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -84,10 +68,10 @@
       "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "preview_image": "https://opengraph.githubassets.com/399f89e2d856a4b1ed13c2aecdf78e0fab60f9aff9777e31d743d9d64abebd79/wang2122/sprix-sage-router",
-      "stars": 3456,
+      "stars": 3521,
       "stars_display": "3.5k",
-      "forks": 401,
-      "forks_display": "401",
+      "forks": 416,
+      "forks_display": "416",
       "language": "Python",
       "topics": [
         "a2a",
@@ -99,6 +83,22 @@
       "updated_at": "2026-08-28T09:12:08Z"
     },
     {
+      "full_name": "yetone/cumora",
+      "name": "cumora",
+      "owner": "yetone",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/1206493?v=4",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
+      "stars": 3476,
+      "stars_display": "3.5k",
+      "forks": 437,
+      "forks_display": "437",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-09-05T02:26:48Z"
+    },
+    {
       "full_name": "Leonxlnx/unlazy",
       "name": "unlazy",
       "owner": "Leonxlnx",
@@ -106,7 +106,7 @@
       "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "url": "https://github.com/Leonxlnx/unlazy",
       "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 3057,
+      "stars": 3060,
       "stars_display": "3.1k",
       "forks": 199,
       "forks_display": "199",
@@ -128,10 +128,10 @@
       "description": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "preview_image": "https://opengraph.githubassets.com/f10f616db61a209c7bf07ed5482e12f64531619706c47ae3c1babe45b03fcc41/ShawnPana/phone-harness",
-      "stars": 2412,
+      "stars": 2422,
       "stars_display": "2.4k",
-      "forks": 234,
-      "forks_display": "234",
+      "forks": 237,
+      "forks_display": "237",
       "language": "Python",
       "topics": [
         "agent",
@@ -149,10 +149,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2088,
+      "stars": 2149,
       "stars_display": "2.1k",
-      "forks": 129,
-      "forks_display": "129",
+      "forks": 133,
+      "forks_display": "133",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -161,7 +161,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-04T17:59:37Z"
+      "updated_at": "2026-09-05T05:20:53Z"
     },
     {
       "full_name": "duty1g/x64dbg-mcp-server",
@@ -171,7 +171,7 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1880,
+      "stars": 1881,
       "stars_display": "1.9k",
       "forks": 190,
       "forks_display": "190",
@@ -195,7 +195,7 @@
       "preview_image": "https://opengraph.githubassets.com/c6760248236b2781111a140ecac75d8c212d896859893e09df58b936097f4c74/SMNETSTUDIO/WeChat-AI",
       "stars": 1879,
       "stars_display": "1.9k",
-      "forks": 1282,
+      "forks": 1283,
       "forks_display": "1.3k",
       "language": "TypeScript",
       "topics": [],
@@ -206,6 +206,6 @@
   "search_query": "ai created:>2026-08-06",
   "days": 30,
   "limit": 10,
-  "total_count": 441637,
-  "fetched_at": "2026-09-05T03:18:17.298405+00:00"
+  "total_count": 444947,
+  "fetched_at": "2026-09-05T07:48:55.838399+00:00"
 }

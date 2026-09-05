@@ -13,6 +13,17 @@
       "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
     },
     {
+      "title": "Why are more people not concerned about privacy?",
+      "author": "banica24",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+      "published": 1788574705.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
+    },
+    {
       "title": "Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/",
@@ -24,15 +35,15 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     },
     {
-      "title": "Why are more people not concerned about privacy?",
-      "author": "banica24",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
-      "published": 1788574705.0,
+      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+      "author": "Slow_Yogurtcloset110",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/",
+      "published": 1788584257.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
+      "description": "This survey seems pretty interesting. My only concern is whether data collected using SurveyMonkey Audience really represents Americans in a broad sense. What do you guys think? https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
     },
     {
       "title": "Study: Generative AI is making writing on Reddit and elsewhere boring",
@@ -46,6 +57,17 @@
       "description": "Data from a new study published recently in Nature and Arxiv: \"Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity.\" The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: \"While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance.\" Study source data: \"Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv.\" The kicker: \"Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy.\" So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: \"The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models\" and my thoughts on this research."
     },
     {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+      "published": 1788549135.0,
+      "thumbnail": null,
+      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "site_name": "theregister",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
+    },
+    {
       "title": "Can we all acknoledge how crazy AI is?",
       "author": "AkindaGood_programer",
       "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
@@ -55,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually \"understand\" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't."
+    },
+    {
+      "title": "Are we finally hitting the \u201cScaling-Wall\u201d? Test-Time Compute meta on AI Industry.",
+      "author": "erdematar",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/",
+      "published": 1788594011.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "For the last few years, the playbook for building better AI was simple: build a bigger model, scrape more of the internet, and throw more GPUs at it. Bigger always meant better. But over the last few months, it\u2019s become obvious that the industry is quietly shifting its entire strategy. We are hitting sort of the data wall (we are literally running out of high-quality human text to train on, which was also the reason why AI companies were rummaging through rare books), and the cost to train massive trillion-parameter models is hitting diminishing returns. Instead of just building bigger models, the new meta is Test-Time Compute (also known as inference scaling or reasoning models). What this actually means: Instead of a massive model giving you a \"gut reaction\" answer instantly, labs are figuring out that you can take a much smaller model and just give it 30 seconds, 5 minutes, or even an hour to \"think\" (chain-of-thought, self-correction, tree-of-search) before it outputs an answer. Why this is a massive deal for us: 1. The open-source equalizer: You no longer need a massive $100M data center to get state-of-the-art results. A smaller open-weights model running locally, if allowed to \"think\" for 10 minutes, can now beat a massive closed-source model that answers instantly. 2. Inference costs are skyrocketing: The energy and compute bottleneck is shifting from training the model to actually running the model. 3. Agentic reliability: This is the missing puzzle piece for autonomous agents. They don't need to be smarter; they just need the architectural ability to double-check their own work before taking an action. The era of \"just add more parameters\" seems to be slowing down, and the era of \"let the model think longer\" is here. Do you think test-time compute is enough to bridge the gap to true AGI, or is it just a clever trick to squeeze more performance out of our current architectures while we figure out what comes next?"
     },
     {
       "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
@@ -68,49 +101,16 @@
       "description": "I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just \"a prompt\". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio."
     },
     {
-      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
-      "published": 1788549135.0,
+      "title": "Yes, We\u2019re Entering the Era of Artificial General Intelligence",
+      "author": "israelavila",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7stbu/yes_were_entering_the_era_of_artificial_general/",
+      "published": 1788589582.0,
       "thumbnail": null,
-      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
-      "site_name": "theregister",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
-    },
-    {
-      "title": "Why would you use an AI to write your replies on Reddit?",
-      "author": "TheOnlyVibemaster",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/",
-      "published": 1788541501.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.wsj.com/cio-journal/yes-were-entering-the-era-of-artificial-general-intelligence-d9b0920e",
+      "site_name": "wsj.com",
       "favicon": null,
-      "description": "More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they\u2019re still your thoughts. If you aren\u2019t writing your own stuff, there\u2019s not really a point to having an online presence at all, since you don\u2019t have one if someone else is writing your replies for you. I think drafts is a different thing since you\u2019re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I\u2019m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you\u2019re getting it to teach you what and why it\u2019s doing what it\u2019s doing as it\u2019s doing it."
-    },
-    {
-      "title": "Automatic AI Responses to Customer Service Issues",
-      "author": "Quitelegal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/",
-      "published": 1788540102.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
-    },
-    {
-      "title": "Are ai second brains and assistants useless now?",
-      "author": "nesquik-121",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants_useless_now/",
-      "published": 1788567964.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I was planning to build an ai assistant powered by qwen and my obsidian notes, but since ChatGPT\u2019s astra ai , is there any point in making it anymore?"
+      "description": null
     }
   ],
-  "fetched_at": "2026-09-05T03:18:17.193641+00:00"
+  "fetched_at": "2026-09-05T07:48:59.938311+00:00"
 }

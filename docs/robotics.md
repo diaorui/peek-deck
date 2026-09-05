@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T03:18:39.971263+00:00'
+updated: '2026-09-05T07:49:21.079336+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 03:18 UTC  
+**Last Updated:** September 05, 2026 at 07:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,19 +108,27 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
-
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-bbc.com • 1d ago
-
----
-
 **[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
 
 Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 15h ago
+
+---
+
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+
+BBC • 1d ago
+
+---
+
+**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
+
+Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
+
+interestingengineering.com • 20h ago
 
 ---
 
@@ -128,13 +136,13 @@ IEEE Spectrum • 11h ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 14h ago
+ABC7 Chicago • 18h ago
 
 ---
 
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Signal Akron • 23h ago
+Signal Akron • 1d ago
 
 ---
 
@@ -146,19 +154,17 @@ GeekWire • 1d ago
 
 ---
 
-**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
+**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
 
-Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 
-Interesting Engineering • 15h ago
+TechCrunch • 2d ago
 
 ---
 
-**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+**[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
 
-The country is using its superpower of scaling and building supply chains to challenge the global industry
-
-ft.com • 3d ago
+WSJ • 1d ago
 
 ---
 
@@ -178,25 +184,17 @@ MedTech Dive • 2d ago
 
 ---
 
-**[Atascadero robotics team makes it to FIRST World Championship](https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship)**
-
-At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
-
-KSBY News • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
+**[🤖 AI-DRIVEN AUTONOMOUS MULTI-TERRAIN SURVEILLANCE ROBOT! #scienceproject #innovation #diyproject](https://www.youtube.com/watch?v=D4QknaoAVpY)**
 
-Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
+Meet our compact robotic surveillance platform powered by ESP32 + ESP32-CAM! The robot uses 12V 100 RPM DC geared ...
 
-📺 CNET
+📺 ABTECH DIY
 
-👁️ 83K • 👍 383 • 💬 39 • ⏱️ 1:49 • 5d ago
+👁️ 280 • 👍 6 • ⏱️ 0:37 • 34m ago
 
 ---
 
@@ -206,7 +204,17 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 269K • 👍 6K • 💬 514 • ⏱️ 15:41 • 2d ago
+👁️ 280K • 👍 6K • 💬 527 • ⏱️ 15:41 • 2d ago
+
+---
+
+**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
+
+Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
+
+📺 CNET
+
+👁️ 84K • 👍 385 • 💬 39 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -216,7 +224,27 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 146K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
+👁️ 147K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 6K • 👍 91 • 💬 8 • ⏱️ 0:59 • 23h ago
+
+---
+
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+
+📺 Curiosity Loop
+
+👁️ 208K • 👍 11K • 💬 19 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -230,13 +258,13 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
 
-📺 ejunky66
+📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 6K • 👍 88 • 💬 7 • ⏱️ 0:59 • 18h ago
+👁️ 185K • 👍 1K • 💬 112 • ⏱️ 0:58 • 3d ago
 
 ---
 
@@ -250,43 +278,13 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 ---
 
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
-
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
-
-📺 Carros Show
-
-👁️ 45K • 👍 322 • 💬 39 • ⏱️ 19:36 • 4d ago
-
----
-
-**[Humanoid Robots Are Racing Like Humans?! 🤖🏃](https://www.youtube.com/watch?v=EnAwsIQzvAc)**
-
-Humanoid robots are taking on a real-world racing challenge at the 2026 World Humanoid Robot Games in Beijing! They ...
-
-📺 BeMyWay
-
-👁️ 67K • 💬 45 • ⏱️ 0:57 • 6d ago
-
----
-
 **[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
 
 A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
 
 📺 Tum Tum
 
-👁️ 373K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
-
----
-
-**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
-
-From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
-
-📺 fastwit
-
-👁️ 1.0M • 👍 10K • 💬 29 • ⏱️ 1:01 • 6d ago
+👁️ 376K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
 
 ---
 

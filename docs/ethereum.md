@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-05T03:18:39.968404+00:00'
+updated: '2026-09-05T07:49:21.076081+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 03:18 UTC  
+**Last Updated:** September 05, 2026 at 07:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,75 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,452.54
+### $2,449.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +1.5%  
-**30d:** +28.1%  
-**90d:** +45.1%  
-**1y:** -42.6%  
+**24h:** -2.7%  
+**7d:** +1.7%  
+**30d:** +28.4%  
+**90d:** +45.4%  
+**1y:** -42.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.31B
+**Market Cap:** $300.00B
 Rank #2
 
-**Circulating Supply:** 122,018,030 ETH
+**Circulating Supply:** 122,020,933 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.3%
 
 **All-Time Low:** $0.43
-+566491.0%
++567763.6%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion September 03, 2026](https://www.reddit.com/r/ethereum/comments/1w5xt9m/daily_general_discussion_september_03_2026/)**
+**[Daily General Discussion September 05, 2026](https://www.reddit.com/r/ethereum/comments/1w7r87w/daily_general_discussion_september_05_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2h ago
+
+---
+
+**[Daily General Discussion September 04, 2026](https://www.reddit.com/r/ethereum/comments/1w6urwd/daily_general_discussion_september_04_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Ethereal news weekly #38 | Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101](https://www.reddit.com/r/ethereum/comments/1w74oqt/ethereal_news_weekly_38_sepolia_testnet/)**
+
+Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 18h ago
+
+---
+
+**[158 - Doots Podcast - Gone Camping - JT](https://www.reddit.com/r/ethereum/comments/1w7a2ol/158_doots_podcast_gone_camping_jt/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 14h ago
+
+---
+
+**[Daily General Discussion September 03, 2026](https://www.reddit.com/r/ethereum/comments/1w5xt9m/daily_general_discussion_september_03_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+2d ago
 
 ---
 
@@ -96,7 +128,7 @@ Everything you should know for your trip to India. And a little bit more. Devcon
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -113,38 +145,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
 3d ago
-
----
-
-**[Daily General Discussion September 01, 2026](https://www.reddit.com/r/ethereum/comments/1w424z1/daily_general_discussion_september_01_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Daily General Discussion August 31, 2026](https://www.reddit.com/r/ethereum/comments/1w33wbe/daily_general_discussion_august_31_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-4d ago
-
----
-
-**[If your deployment template references a smart contract audit, does that reference survive upgrades?](https://www.reddit.com/r/ethereum/comments/1w3bq23/if_your_deployment_template_references_a_smart/)**
-
-I work on the assessment side at a smart contract auditing company. This came out of an audit we did on a governance-approved deployment system on a permissioned chain. The system stores metadata for each approved deployment template: a bytecode hash, a storage layout hash, a link to the audit report, and the source repository commit. On paper, every deployed proxy maps back to reviewed and approved code. At deployment time, nothing checks those fields. The factory resolves the implementation live from the beacon, and the beacon owner can publish a new version at any point after the template was registered. The bytecodeHash field is in storage, but no require statement compares it to address.codehash on what actually gets deployed. After the first beacon upgrade, every new deployment runs code that was never part of the original audit, while the template still points at the old audit URI and the old commit. When we flagged it, the project team didn't start enforcing the hash. They removed the bytecode and storage layout hashes from the template entirely. I'd argue that's more honest than keeping fields that imply verification and deliver none. But what's left is a pipeline where the only governance control is trusting the beacon owner, and the on-chain record of what was audited diverges silently from what's actually running. Regulators running MiCA compliance assessments or CASP license reviews want to see governance over what gets deployed to production. If your template stores an audit reference and an assessor asks whether it's enforced, "recorded but not checked" puts you in a worse position than having no reference at all. The reference misrepresents what the deployed code went through. Open your template registry or deployment manifest. Find the field that references the audit or stores a bytecode hash. Grep for it on the deploy path. If the field is written once at registration and never appears in a require or assert during deployment, you have decorative governance metadata. address.codehash exists on-chain. The check is one comparison. Nobody wrote it. Plenty of governance models handle this off-chain with CI/CD gates, human sign-offs, and change management procedures, and those work for permissioned systems. The gap opens when the on-chain record looks like it provides a guarantee it doesn't, because the next person who reads that template will assume enforcement already happened. If a MiCA license or VARA license assessor asked you to demonstrate that your template's bytecodeHash is enforced at deployment, could you show them the require statement?
-
-4d ago
-
----
-
-**[Daily General Discussion August 30, 2026](https://www.reddit.com/r/ethereum/comments/1w2874e/daily_general_discussion_august_30_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
 
 ---
 
@@ -168,19 +168,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A](https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite)**
-
-The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike.
-
-Benzinga • 2d ago
-
----
-
 **[Where Will Solana Be in 5 Years?](https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/)**
 
 This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
 
-The Motley Fool • 1h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -194,7 +186,7 @@ Forbes • 1d ago
 
 Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-CryptoSlate • 12h ago
+CryptoSlate • 16h ago
 
 ---
 
@@ -202,7 +194,15 @@ CryptoSlate • 12h ago
 
 NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
 
-markets.businessinsider.com • 14h ago
+markets.businessinsider.com • 19h ago
+
+---
+
+**[Bitcoin, XRP, Dogecoin Gain; Ethereum Dips as Jobs Data Trims Rate Hike Odds: Correction Not Lessening A](https://www.benzinga.com/crypto/cryptocurrency/26/09/61593550/bitcoin-xrp-dogecoin-gain-ethereum-dips-jobs-data-rate-hike-odds-whale-appetite)**
+
+The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike.
+
+Benzinga • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ markets.businessinsider.com • 14h ago
 
 Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks.
 
-Crypto Briefing • 5h ago
+Crypto Briefing • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ Crypto Briefing • 5h ago
 
 Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink.
 
-blockchain.news • 7h ago
+blockchain.news • 11h ago
 
 ---
 
@@ -226,7 +226,7 @@ blockchain.news • 7h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 14h ago
+Fortune • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 499 • 👍 49 • 💬 39 • ⏱️ 20:19 • 36m ago
+👁️ 5K • 👍 216 • 💬 55 • ⏱️ 20:19 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 95K • 👍 2K • 💬 279 • ⏱️ 10:50 • 2d ago
+👁️ 97K • 👍 2K • 💬 276 • ⏱️ 10:50 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Stock Moe
 
-👁️ 18K • 👍 559 • 💬 62 • ⏱️ 13:06 • 14h ago
+👁️ 19K • 👍 564 • 💬 62 • ⏱️ 13:06 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 39K • 👍 551 • 💬 46 • ⏱️ 11:39 • 2d ago
+👁️ 40K • 👍 556 • 💬 46 • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -280,17 +280,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 166 • 💬 70 • ⏱️ 17:06 • 1d ago
-
----
-
-**[These Meme Coins Can Get Big This Year! (Robinhood &amp; ETH)](https://www.youtube.com/watch?v=hHEiWM9jF2k)**
-
-Please be advised that the content of my media is my personal opinion and is intended FOR GENERAL ENTERTAINMENT ...
-
-📺 Zack Ventura
-
-👁️ 1K • 👍 41 • 💬 7 • ⏱️ 14:17 • 8h ago
+👁️ 9K • 👍 170 • 💬 69 • ⏱️ 17:06 • 1d ago
 
 ---
 
@@ -300,27 +290,7 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 816 • 💬 584 • ⏱️ 30:15 • 1d ago
-
----
-
-**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
-
-Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
-
-📺 ETHGlobal
-
-👁️ 566 • 👍 7 • 💬 1 • ⏱️ 33:36 • 1d ago
-
----
-
-**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
-
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
-
-📺 More Crypto Online
-
-👁️ 6K • 👍 181 • 💬 6 • ⏱️ 6:45 • 1d ago
+👁️ 15K • 👍 818 • 💬 561 • ⏱️ 30:15 • 1d ago
 
 ---
 
@@ -330,7 +300,37 @@ Who could have ever imagined that 40 countries and 20+ banks buying Bitcoin and 
 
 📺 The Modern Investor
 
-👁️ 15K • 👍 924 • 💬 380 • ⏱️ 31:53 • 2d ago
+👁️ 15K • 👍 924 • 💬 368 • ⏱️ 31:53 • 2d ago
+
+---
+
+**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
+
+Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
+
+📺 ETHGlobal
+
+👁️ 568 • 👍 7 • 💬 1 • ⏱️ 33:36 • 2d ago
+
+---
+
+**[These Meme Coins Can Get Big This Year! (Robinhood &amp; ETH)](https://www.youtube.com/watch?v=hHEiWM9jF2k)**
+
+Please be advised that the content of my media is my personal opinion and is intended FOR GENERAL ENTERTAINMENT ...
+
+📺 Zack Ventura
+
+👁️ 2K • 👍 50 • 💬 8 • ⏱️ 14:17 • 13h ago
+
+---
+
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+
+1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 503 • 💬 21 • ⏱️ 13:52 • 1d ago
 
 ---
 
