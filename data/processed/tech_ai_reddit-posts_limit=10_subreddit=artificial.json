@@ -24,6 +24,17 @@
       "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
     },
     {
+      "title": "OK, who's gonna make a model of Michael Knight's computer KITT ?",
+      "author": "MetaPfhor_2965",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/",
+      "published": 1788604718.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run LLMs.... will maybe me like having a KITT on your wrist. A conversational computer."
+    },
+    {
       "title": "Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/",
@@ -35,15 +46,15 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     },
     {
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "author": "Slow_Yogurtcloset110",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/",
-      "published": 1788584257.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This survey seems pretty interesting. My only concern is whether data collected using SurveyMonkey Audience really represents Americans in a broad sense. What do you guys think? https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/"
+      "title": "LLVM developers begin debate over AGENTS.md for helping AI agents",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7w950/llvm_developers_begin_debate_over_agentsmd_for/",
+      "published": 1788601309.0,
+      "thumbnail": "https://external-preview.redd.it/KWLiaxo6eKNmH5YKhdzGDLc4Tdv8u1Z_eKv8vmHwm0w.jpeg?width=640&crop=smart&auto=webp&s=f7031ee8187fcc0f15721190cfdd748b23d9daa6",
+      "external_url": "https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "LLVM developers have begun a discussion on whether the project should host an AGENTS.md file (and CLAUDE.md) in their Git repository for helping to guide AI agents."
     },
     {
       "title": "Study: Generative AI is making writing on Reddit and elsewhere boring",
@@ -57,37 +68,26 @@
       "description": "Data from a new study published recently in Nature and Arxiv: \"Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity.\" The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: \"While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance.\" Study source data: \"Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv.\" The kicker: \"Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy.\" So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: \"The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models\" and my thoughts on this research."
     },
     {
-      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
-      "published": 1788549135.0,
-      "thumbnail": null,
-      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
-      "site_name": "theregister",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
-    },
-    {
-      "title": "Can we all acknoledge how crazy AI is?",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
-      "published": 1788491783.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually \"understand\" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't."
-    },
-    {
-      "title": "Are we finally hitting the \u201cScaling-Wall\u201d? Test-Time Compute meta on AI Industry.",
+      "title": "Child sexual abuse survivor alleges Elon Musk\u2019s AI chatbot used photos of her to generate new illegal images",
       "author": "erdematar",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/",
-      "published": 1788594011.0,
+      "url": "https://www.reddit.com/r/artificial/comments/1w7xxj4/child_sexual_abuse_survivor_alleges_elon_musks_ai/",
+      "published": 1788606848.0,
+      "thumbnail": "https://external-preview.redd.it/f6vI5lg1m_JKI6kVc1CCIvi9V6q7O88Wzhw8jcHhZbQ.jpeg?width=640&crop=smart&auto=webp&s=e37e6ab197c21bbd401364bfe7892acecb9979d6",
+      "external_url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Musk denied he was aware Grok ever produced \u2018any naked underage images\u2019"
+    },
+    {
+      "title": "AI agents can now pay for things online by themselves. Here is what can go wrong, and what I built to catch it",
+      "author": "Wild_Expression_5772",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7xjis/ai_agents_can_now_pay_for_things_online_by/",
+      "published": 1788605613.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "For the last few years, the playbook for building better AI was simple: build a bigger model, scrape more of the internet, and throw more GPUs at it. Bigger always meant better. But over the last few months, it\u2019s become obvious that the industry is quietly shifting its entire strategy. We are hitting sort of the data wall (we are literally running out of high-quality human text to train on, which was also the reason why AI companies were rummaging through rare books), and the cost to train massive trillion-parameter models is hitting diminishing returns. Instead of just building bigger models, the new meta is Test-Time Compute (also known as inference scaling or reasoning models). What this actually means: Instead of a massive model giving you a \"gut reaction\" answer instantly, labs are figuring out that you can take a much smaller model and just give it 30 seconds, 5 minutes, or even an hour to \"think\" (chain-of-thought, self-correction, tree-of-search) before it outputs an answer. Why this is a massive deal for us: 1. The open-source equalizer: You no longer need a massive $100M data center to get state-of-the-art results. A smaller open-weights model running locally, if allowed to \"think\" for 10 minutes, can now beat a massive closed-source model that answers instantly. 2. Inference costs are skyrocketing: The energy and compute bottleneck is shifting from training the model to actually running the model. 3. Agentic reliability: This is the missing puzzle piece for autonomous agents. They don't need to be smarter; they just need the architectural ability to double-check their own work before taking an action. The era of \"just add more parameters\" seems to be slowing down, and the era of \"let the model think longer\" is here. Do you think test-time compute is enough to bridge the gap to true AGI, or is it just a clever trick to squeeze more performance out of our current architectures while we figure out what comes next?"
+      "description": "There is a real, live protocol called x402 that lets an AI agent pay for web content automatically. No login, no card entry, no human approval. A site says payment required, the agent signs a small crypto payment, gets the content. This already exists and is already being used. Two things worried me once I understood how it works. First, there is no memory built into the protocol. A vendor can scam an agent, return nothing useful, and the agent has no way to know not to pay that same vendor again. Second, if an agent reads regular web pages as part of its job, a malicious page can hide fake payment instructions in the page text itself, hoping the model mistakes it for something real. Built GateKeep402 to address both. It checks a vendor's history before paying and blocks vendors that have proven unreliable. It also makes it structurally impossible for a payment to be built from anything except a genuine protocol response, so hidden page text can never trigger a real payment no matter how convincing it looks. Verified against a real transaction on Solana's public devnet, not a simulation, with 45 automated tests. Open source, MIT license, installable via pip. Link in the comments. Would like to hear how others are thinking about the risks of giving agents real spending power. This feels like an early and mostly unsolved part of the space."
     },
     {
       "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
@@ -101,16 +101,16 @@
       "description": "I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just \"a prompt\". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio."
     },
     {
-      "title": "Yes, We\u2019re Entering the Era of Artificial General Intelligence",
-      "author": "israelavila",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7stbu/yes_were_entering_the_era_of_artificial_general/",
-      "published": 1788589582.0,
+      "title": "[Discussion] Do you think AI can develop secure enough projects?",
+      "author": "erdematar",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7ww1q/discussion_do_you_think_ai_can_develop_secure/",
+      "published": 1788603440.0,
       "thumbnail": null,
-      "external_url": "https://www.wsj.com/cio-journal/yes-were-entering-the-era-of-artificial-general-intelligence-d9b0920e",
-      "site_name": "wsj.com",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I want to discuss something, vibe coding is being presented as ultimate solution for people who don\u2019t know how to code. When it comes to cyber security though there are major flawbacks. idk if there is a general consensus but what do you think about this issue? Should vibe coded programs be supervised by a professional or is AI ready to develop programs that are deploy ready?"
     }
   ],
-  "fetched_at": "2026-09-05T07:48:59.938311+00:00"
+  "fetched_at": "2026-09-05T11:41:07.840580+00:00"
 }
