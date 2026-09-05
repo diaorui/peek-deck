@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
-      "pub_date": 1788537878.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
-      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
-    },
-    {
       "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -25,24 +15,34 @@
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
-      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
-      "source": "interestingengineering.com",
+      "headline": "Here\u2019s why the future of bricklaying might just be robots",
+      "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
-      "pub_date": 1788522420.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
-      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRMSVVlWnRhUW8zUnBZazlWSWV3XzREclZEYmhHZ2tIRGg2cTlrVkp6REVncy1fajlhLWFlQ2F1alNtcDdBcnlyMTdmLUlUQjIxWC02c2MwV1hDeTRUcmVjRTZXandKVy1kd0pTdkQ0QU42M2dnMHlEVmJiRVJVdVItS2VVRjluNjZvd2xudVBja2cwNVhoLVBfT2psLU45X2tpdzhB?oc=5",
+      "pub_date": 1788559920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
+      "description": "Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days."
     },
     {
-      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
-      "source": "ABC7 Chicago",
-      "source_url": "https://abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
-      "pub_date": 1788527525.0,
-      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
-      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
-      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
+      "pub_date": 1788537878.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
+    },
+    {
+      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
+      "pub_date": 1788427800.0,
+      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Hear what University of Akron president say about safety and robotics",
@@ -53,6 +53,16 @@
       "article_url": "https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
+      "source": "ABC7 Chicago",
+      "source_url": "https://abc7chicago.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
+      "pub_date": 1788527525.0,
+      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
+      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
+      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
     },
     {
       "headline": "Tech industry\u2019s robotics talent crunch has UW\u2019s new grad program nearly full before day one",
@@ -75,14 +85,14 @@
       "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
     },
     {
-      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
-      "pub_date": 1788427800.0,
-      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
-      "image": null,
-      "description": null
+      "headline": "Korean robot stocks leap as Seoul broadens support beyond R&D",
+      "source": "kedglobal.com",
+      "source_url": "https://www.kedglobal.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MmFOdzR6T3NOZDRjYTFySEVCVWQwWmNLbWhRbzM2SnNGazMyczhkM09CcDh1MXJEVVV1eGFBQ1lMb1hMWUc1T3NIY3pFLTBKZzVhVkt3V3RhM1F0d1NpNDZTWWJ2Tm1DN0Vz?oc=5",
+      "pub_date": 1788522660.0,
+      "article_url": "https://www.kedglobal.com/robotics/newsView/ked202609040012",
+      "image": "https://www.kedglobal.com/data/ked/image/2026/09/04/ked202609040046.jpg",
+      "description": "South Korean robot stocks surged on Friday as investors digested the government\u2019s announcement earlier this week of a record 2027 budget proposal that sh"
     },
     {
       "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
@@ -93,18 +103,8 @@
       "article_url": "https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/",
       "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-l52858ztp-1788462169023.jpg?quality=75&strip=all&1788447805&w=1200",
       "description": "Food delivery start-up Wonder slashed 175 jobs \u2013 or 7% of its workforce \u2013 this week to invest in robotics and automation, the company said."
-    },
-    {
-      "headline": "Medtronic invests $700M in Cornerstone Robotics",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNzZDMDdtcTZRcWFXT00yMUw3bFJucTREeTlBRjBCcXFHM2xobTctM09VMUVTUlYzNV9saEpTTlh3T0tWd3ltY2pROGdtUHE2UFktNi1jV1ZfY3hSakZITjNKMG43RnMtSkNkUE5raFp2ME9td2tabG1vTU54ckNZWFNnSUUtYVd3ZF9OS3FHMDE?oc=5",
-      "pub_date": 1788357923.0,
-      "article_url": "https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/",
-      "image": "https://imgproxy.divecdn.com/_p4B9rW_Jv5W5LlQTr9Ok2fL4kEEvvFx5KnT7Qmg_Bw/g:nowe:1:59/c:1425:805/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRV9QUkVFRVMuanBn.webp",
-      "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T07:49:15.345927+00:00"
+  "fetched_at": "2026-09-05T11:41:28.988941+00:00"
 }

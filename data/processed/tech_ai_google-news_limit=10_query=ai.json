@@ -15,8 +15,28 @@
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
+      "headline": "GPT-6 Astra: Frontier intelligence for work, now generally available in Microsoft Foundry",
+      "source": "Microsoft Azure",
+      "source_url": "https://azure.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOXdMUFVQUF8wMGROZEdmRlVneDFlTWdQVWo4eTJsejg5cVRULWJMWlRaZUdjNzdmNWhCWTFWMlU3c1JiZGxhSDAwYzlPbmNjeHdmUXlWazlmZWk5TG9PTFRtRXN3Q3RwdUV2bkRFT1pKTUhUWHBEUERCcTg1d1cxY2RnNENMb2dFMjVzT0ZyTWg3OGtjdU9jeDlaRVBTSVFpZHpCQnFTTGJGMlFTY3QyMXRrc0lhR0JRb0tGM0g2M3VtWjBvQ2c?oc=5",
+      "pub_date": 1788459300.0,
+      "article_url": "https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-generally-available-in-microsoft-foundry/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI\u2019s GPT-6 Astra might be too powerful to understand or control",
+      "source": "Transformer | Substack",
+      "source_url": "https://www.transformernews.ai",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHEyR0o0V0l2SURvTlpDMzNBeUtzLXU3Vl95cGN5VHo3MUNrWEpKS244NnEwRmp3bm1QSlZTMkx5MW5xSV9SQzJPbGZJdF81QzJZMHF6c0xpTHdlcmxCbGF1WUpWX0dZc1R5SDNCUC1ETXRVR0E5TjlTUWRJdGZhY0lzS3dHV3BCenZQNVZQTlU2NGZLUDU5SGZncmtsOWc?oc=5",
+      "pub_date": 1788519949.0,
+      "article_url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+      "image": "https://substackcdn.com/image/fetch/$s_!wthF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf1eea02-c306-456e-bbe0-30b850669ae3_1920x1080.jpeg",
+      "description": "OpenAI is hailing its new model as \u201cthe world\u2019s most intelligent and aligned\u201d, but the details reveal an awareness of being evaluated and an ability to manipulate its visible reasoning"
+    },
+    {
       "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "reuters.com",
+      "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
       "pub_date": 1788561962.0,
@@ -25,64 +45,54 @@
       "description": null
     },
     {
-      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHZ2blh6aWtPYXJ4N3ZNdjc2U1l5MlM0b1B1a0NReng4cE5nX1RHWnRpaTRFRklIUGY0MjlIV285cW1OYjgtaHp2Q01JYUc1emRSNkF3QmxMMlpuOGo1V2lLR0loRnFEUHBqcUp6RjRkQW9ldFhYQThxYmtWYndHYktR?oc=5",
-      "pub_date": 1788586200.0,
-      "article_url": "https://www.telegraph.co.uk/news/2026/09/05/rogue-ai-agents-take-over-world/",
-      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
+      "headline": "Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWV4RjBZYlppTGV6U0VLRE0tTUZiX2toTElEM1hNUExfb0tVX0NEWWtGR054ZDJmMWlMZGxSalgwOHdDcHRtNjk1M2g1QmpzQVljTExmWTBrd1RCTzZGTWZiMmh3eW5NeWlTcDlrR24ySzZad0pMUkZiazJqOTdxMWUxME00dEZMcGdNVU1sNmVpcXJSeWdRSTEtVVd2bHpUbVlfbGZuMWd5b0E?oc=5",
+      "pub_date": 1788563030.0,
+      "article_url": "https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-Sam-Altman-vsb-1845-4db5ec.jpg",
+      "description": "A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions."
     },
     {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "pub_date": 1788480364.0,
+      "pub_date": 1788538320.0,
       "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-      "pub_date": 1788591600.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-      "image": "https://i.guim.co.uk/img/media/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28b920ba9cdafa796c0792bf79c56bf0",
-      "description": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models"
-    },
-    {
-      "headline": "US adversary turns up the heat on America\u2019s AI lead with an underestimated edge",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWg5UDN6NHBjekI0Z1prR3FqNEpFQ1RjLU1FR0hvRnAxNktxRFdzeTVqOGQyZnpkSXRzMFRtaFc0WlNlR2lLblNod2JVOHRHRFhwRzhqS2czZWIzVDR0M3J0TEJBNnNmRUFDNkxCN2w2SUdtZXRObE5iM2VvX1hjT3k1TEdWMzJxNmg4Zlo1czBpSl82U1ZSZtIBngFBVV95cUxPaWFJOUJzREtjYnFoLUpLNmNWb3RGdFkwcUlXa01uSVFlSklGa1NHcmVscWRyRVBZVXRpV1pqV19lT3lwRlNsM3FYOW5PMTAyc1pmY21pMlRTTmtrSnpaa19ZdGttc0g0Y2twMVhPMXhFMkMwOWRjMThpVkVtNDAwMjQ2MWdYVEpUY0VIRzdpdVBuWkRoZGRzM0ZqUl9rdw?oc=5",
-      "pub_date": 1788516034.0,
-      "article_url": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-xi-handshake.jpg",
-      "description": "China's \"East Data, West Computing\" initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing's push."
-    },
-    {
-      "headline": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5",
-      "pub_date": 1788562652.0,
-      "article_url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "headline": "Opinion | How Scared Should We Be of A.I. Right Now?",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5",
+      "pub_date": 1788606005.0,
+      "article_url": "https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "From \u2018slop\u2019 to prime time: how AI dramas are shaking up China\u2019s TV industry",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGhWMEtRbTVmTzNjQm9kbWRrMHloWDc1aW5qeWtqY295U1NUY2JFYkRjQzBfVEVHOTUwWWZkR3lsQkYyS2hIb01iN3gtN1l4VlAzU01vNi1RazRVeWkzUzEyNXFmYlk1dFd1VnlqUHViTWxURVBSNGpMNl9qZ2FyOFhjM09UdlVsb05jOHduMUNYVzk0YktGWUROc2VZOUM4RkF2SmozSjZ3d9IBqgFBVV95cUxQQ1J6emY1SFFQemktWW1QY2V3b0g4Y0VWeXQ3QnVydVFqNWd6dW00bjR1ZDliMTNkdE5Jclo2dWRMZFV3VnNiU20zV19kZmQzTGV3YW9lY0xjaXU5NmxRSmpUYmZkWnZPLXpqdXBRalBQbThBcUxUREducUlJNEZwUVR1alR6TTVqSzZkcFVtYlZCRlNqYmpaMUExWXJmYmZoNlh4R1hyZUJFZw?oc=5",
-      "pub_date": 1788591607.0,
-      "article_url": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time",
-      "image": null,
-      "description": null
+      "headline": "The mystery behind an audio clip that helped upend a Senate race",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWk9pTld0M1BrWDdHeFllc3MxUXJhWHhuTUdIdjVMaGY1UnlHRHd2SW1aMDVET0pER1cxdkVPdnd2S2lLemctdDQ5US1oTkQ0aTh5dkV1d0RURTZJNjNDVXp3MVZuQzU0YnNUOWc3ZGtaT21NWHJuMjE0NmFma0pJLUxSYlRYUnM0OWJtSktkYW1lT0toMG5CalUtRDNTX2NJdUd1RkZrNWxzODZUTVFv?oc=5",
+      "pub_date": 1788607989.0,
+      "article_url": "https://www.washingtonpost.com/politics/2026/09/05/mystery-behind-an-audio-clip-that-helped-upend-senate-race/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXBFCR6RHWYAPMVYLQ4POIEIOI_size-normalized.jpg&w=1440",
+      "description": "Artificial-intelligence tools increasingly allow political actors to fool voters \u2014 and help candidates cast doubt on reality."
+    },
+    {
+      "headline": "Fermat\u2019s last theorem formalised by AI agents in just 11 days",
+      "source": "New Scientist",
+      "source_url": "https://www.newscientist.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnpPUTdPQThobWktNXR4eERZb3NUbWNES2NKdGdWMy1MQWpReHcwSzdsSzFfank0RjJOLTJKaDgzZXFPdFVTMjVjRUpfRW9rNUFtV3l1Smd4WEx5MkZOSVJ2cVUzZlRkSEp4ZWw4QXVNdkZRSlhQNkllaW52NkpicndjSHF6ckR6QzlyNWFWTTJjZlFKUUtpX0pyY3JJQlc0SVVhXzdYRDZSQQ?oc=5",
+      "pub_date": 1788606375.0,
+      "article_url": "https://www.newscientist.com/article/2587839-fermats-last-theorem-formalised-by-ai-agents-in-just-11-days/",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/09/2N9GXNJ1.jpg",
+      "description": "Converting the proof of Fermat's last theorem into code that computers can check was expected to take years \u2013 Anthropic's Claude AI managed it in less than two weeks"
     },
     {
       "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
@@ -93,18 +103,8 @@
       "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kby11Ty1YejVPVmRKYVhWMDdyRWVUU1Z1QlFqVjdmR1dTNVNrNHFWMTZSZHk2TmFYNVl1c2lzN1VvNlplWGFfZmdSY01JNXNkSVgzS1A5QnIyQQ?oc=5",
-      "pub_date": 1788570987.0,
-      "article_url": "https://www.bbc.com/news/articles/cew9kz1kxpvo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d4d7/live/a14c8c30-a8c8-11f1-b109-879e35c24276.jpg",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T07:49:19.451667+00:00"
+  "fetched_at": "2026-09-05T11:41:44.329204+00:00"
 }

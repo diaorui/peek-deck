@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T07:49:21.079336+00:00'
+updated: '2026-09-05T11:41:45.899422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 07:49 UTC  
+**Last Updated:** September 05, 2026 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -70,7 +70,7 @@ Interested in implementing indoor positioning for your robot - one of the new me
 
 This was surprisingly easy to do. If you have a Unitree G1 Edu version off course. Done with a driving video fed into their motion generation software. Then trained for 5 hours , then 1 click deployment onto the robot
 
-4d ago
+5d ago
 
 ---
 
@@ -108,14 +108,6 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
-
-Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
-
-IEEE Spectrum • 15h ago
-
----
-
 **[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
 Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
@@ -124,11 +116,31 @@ BBC • 1d ago
 
 ---
 
-**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
+**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
 
-Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
+Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
 
-interestingengineering.com • 20h ago
+Interesting Engineering • 13h ago
+
+---
+
+**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
+
+Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
+
+IEEE Spectrum • 19h ago
+
+---
+
+**[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
+
+WSJ • 2d ago
+
+---
+
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+
+Signal Akron • 1d ago
 
 ---
 
@@ -136,13 +148,7 @@ interestingengineering.com • 20h ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 18h ago
-
----
-
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
-
-Signal Akron • 1d ago
+ABC7 Chicago • 22h ago
 
 ---
 
@@ -162,9 +168,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
+**[Korean robot stocks leap as Seoul broadens support beyond R&D](https://www.kedglobal.com/robotics/newsView/ked202609040012)**
 
-WSJ • 1d ago
+South Korean robot stocks surged on Friday as investors digested the government’s announcement earlier this week of a record 2027 budget proposal that sh
+
+kedglobal.com • 23h ago
 
 ---
 
@@ -176,25 +184,27 @@ New York Post • 1d ago
 
 ---
 
-**[Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)**
-
-Medtronic will gain rights to distribute the Hong Kong-based company’s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system.
-
-MedTech Dive • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[🤖 AI-DRIVEN AUTONOMOUS MULTI-TERRAIN SURVEILLANCE ROBOT! #scienceproject #innovation #diyproject](https://www.youtube.com/watch?v=D4QknaoAVpY)**
+**[‘BURNING HOT’: AI gets a BODY in robotics revolution, CEO says](https://www.youtube.com/watch?v=SFOKNOgC_OM)**
 
-Meet our compact robotic surveillance platform powered by ESP32 + ESP32-CAM! The robot uses 12V 100 RPM DC geared ...
+Xtend co-founder and CEO Aviv Shapira discusses the growing demand for physical artificial intelligence and robotics technology ...
 
-📺 ABTECH DIY
+📺 Fox Business
 
-👁️ 280 • 👍 6 • ⏱️ 0:37 • 34m ago
+👁️ 10K • 👍 99 • 💬 14 • ⏱️ 4:41 • 11h ago
+
+---
+
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+
+📺 Julia McCoy
+
+👁️ 72K • 👍 577 • 💬 122 • ⏱️ 9:07 • 1d ago
 
 ---
 
@@ -204,7 +214,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 280K • 👍 6K • 💬 527 • ⏱️ 15:41 • 2d ago
+👁️ 290K • 👍 6K • 💬 536 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -214,7 +224,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 84K • 👍 385 • 💬 39 • ⏱️ 1:49 • 5d ago
+👁️ 85K • 👍 388 • 💬 39 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -224,27 +234,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 147K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
-
----
-
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 6K • 👍 91 • 💬 8 • ⏱️ 0:59 • 23h ago
-
----
-
-**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
-
-A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
-
-📺 Curiosity Loop
-
-👁️ 208K • 👍 11K • 💬 19 • ⏱️ 0:19 • 1d ago
+👁️ 148K • 👍 1K • 💬 214 • ⏱️ 12:56 • 5d ago
 
 ---
 
@@ -258,13 +248,23 @@ A concept imagining how advanced robotics could assist pilgrims in need at the H
 
 ---
 
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
 
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
 
-📺 BI️ Studio of Emotional Intelligence 
+📺 Curiosity Loop
 
-👁️ 185K • 👍 1K • 💬 112 • ⏱️ 0:58 • 3d ago
+👁️ 255K • 👍 12K • 💬 25 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 7K • 👍 92 • 💬 8 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -278,13 +278,13 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 ---
 
-**[The Robot Threw ONE Trash Bag… Everything Went Wrong 😂](https://www.youtube.com/watch?v=ZNuF10D5RIE)**
+**[Elon Musk&#39;s G20 Prediction...One BILLION Robots Will Take Over](https://www.youtube.com/watch?v=HdEaiCCcGgs)**
 
-A robot accidentally launched a trash bag into the wrong car, but the innocent guy nearby got blamed for everything. He ...
+Elon Musk's latest G20 prediction is raising serious questions about the future of artificial intelligence, humanoid robots, and the ...
 
-📺 Tum Tum
+📺 Truth B Told
 
-👁️ 376K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
+👁️ 95K • 👍 3K • 💬 670 • ⏱️ 18:27 • 1d ago
 
 ---
 
