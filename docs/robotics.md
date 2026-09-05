@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T14:43:21.264205+00:00'
+updated: '2026-09-05T17:11:10.613572+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 14:43 UTC  
+**Last Updated:** September 05, 2026 at 17:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Mk Robot footage 2023](https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -54,7 +54,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 **[TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3](https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -62,7 +62,7 @@ Out of curiosity, I came across a YouTube video detailing how difficult gatherin
 
 Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:
 
-🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 3d ago
+🔗 [siddharthv.com](https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/) • 4d ago
 
 ---
 
@@ -86,7 +86,7 @@ Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs 
 
 I have been working on different robotics task mainly in Pybullet. Complexity of Isaac Sim has kept me from experimenting with it but I finally finished my first successful reinforcement learning script using it. Getting the settings right so I could observe the trainings in windowed mode with my laptop 3070 gpu took I while but I managed to get it working well enough to troubleshoot some early issues I noticed through visual inspection. I gave the PPO full control of my robot's controller, not the joint angle outputs, meaning it had to figure out a way to climb the ramps using the directional controller inputs and body adjustments like pitch and height. The training took about 45 minutes with my RTX 3070 mobile GPU vs 1 hour and 45 minutes using cpu with Pybullet. I am now working on full locomotion simulation, again with my custom robots, its a bit more involved than I expected but I am hoping in the end I can come up with my own full locomotion training script and load the model to my actual robot to control it. I also share my tutorial scripts with my videos on youtube, if you are interested in watching the video for this one you can find it with the link below: https://youtu.be/0x5BBosrq-E You can also download the simulation script from my github repository with the link below. https://github.com/serdarselimys/HexaDogZBD-IsaacSim-RL If you are interested in the real 3D printed robot, you can fine info about it from the video link below. https://youtu.be/qflyEQOJObM
 
-4d ago
+5d ago
 
 ---
 
@@ -100,7 +100,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (SDK) - Introduced zero-copy GPU frame access for CUDA/TensorRT workloads on Jetson platforms, eliminating host-device memory copies. (SDK) - Unified the AI pipeline under the new Perception framework, including Object Detection enhancements and per-detection distance reporting. (SDK, D555 FW) - Added D401 dual-RGB support, including CSI passthrough and dedicated RGB control handling for GMSL deployments. (SDK, D400 FW, MIPI Driver) - Added H.264 color streaming support for ROS2/DDS with runtime profile selection.(D555 FW) - Enabled runtime Temporal Filter control without requiring pipeline restart, with improved coordination with Object Detection. (D555 FW) - Improved GMSL streaming reliability and multi-camera operation, including fixes for frame drops, link recovery, and synchronization stability. (D400 FW, MIPI Driver) - Introduced first D58x/D585 GMSL platform support, including serializer/deserializer integration, RGB controls, telemetry, and new device-tree overlays. (MIPI Driver) - Expanded platform support with JetPack 7.2 compatibility and multiple JetPack 5.x stability and streaming fixes. (SDK, MIPI Driver) - Improved timestamp accuracy, hardware clock handling, and synchronization robustness across the stack. (SDK, MIPI Driver) More info: https://github.com/realsenseai/librealsense
 
-4d ago
+5d ago
 
 ---
 
@@ -122,41 +122,33 @@ BBC • 1d ago
 
 ---
 
-**[19 robotics companies to watch](https://www.understandingai.org/p/19-robotics-companies-to-watch)**
-
-I talked with nine of these companies.
-
-understandingai.org • 22h ago
-
----
-
 **[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
 
 Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
 
-IEEE Spectrum • 22h ago
+IEEE Spectrum • 1d ago
 
 ---
 
 **[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
 
-WSJ • 2d ago
+wsj.com • 2d ago
 
 ---
 
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
+**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
 
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-ABC7 Chicago • 1d ago
+Futurism • 7h ago
 
 ---
 
-**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
+**[Kraken Robotics Stock Is Down 55% -- Is September the Month to Buy the Dip?](https://www.fool.com/investing/2026/09/05/kraken-robotics-stock-down-september-buy-dip/)**
 
-Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
+Kraken Robotics stock has fallen out of favor. Is this a buying opportunity?
 
-Interesting Engineering • 16h ago
+The Motley Fool • 35m ago
 
 ---
 
@@ -172,15 +164,23 @@ GeekWire • 1d ago
 
 On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 
-TechCrunch • 2d ago
+techcrunch.com • 2d ago
 
 ---
 
-**[Korean robot stocks leap as Seoul broadens support beyond R&D](https://www.kedglobal.com/robotics/newsView/ked202609040012)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-South Korean robot stocks surged on Friday as investors digested the government’s announcement earlier this week of a record 2027 budget proposal that sh
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-KED Global • 1d ago
+ABC7 Chicago • 1d ago
+
+---
+
+**[Enovis to acquire surgical tech provider eCential Robotics for $180M](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/)**
+
+Enovis said it plans to bring a robotic system targeting the knee within the next 2 years, followed by a system focusing on the shoulder.
+
+The Robot Report • 4h ago
 
 ---
 
@@ -194,17 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 72K • 👍 582 • 💬 122 • ⏱️ 9:07 • 1d ago
-
----
-
-**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
-
-Hilarious Falls and Fails at World Robotics Games 2026.
-
-📺 Chris Wabs
-
-👁️ 15K • 👍 120 • 💬 21 • ⏱️ 11:03 • 6d ago
+👁️ 72K • 👍 587 • 💬 127 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -214,7 +204,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 86K • 👍 389 • 💬 39 • ⏱️ 1:49 • 6d ago
+👁️ 86K • 👍 391 • 💬 39 • ⏱️ 1:49 • 6d ago
+
+---
+
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+
+📺 bycloud
+
+👁️ 320K • 👍 7K • 💬 566 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 149K • 👍 1K • 💬 217 • ⏱️ 12:56 • 5d ago
+👁️ 149K • 👍 1K • 💬 218 • ⏱️ 12:56 • 5d ago
 
 ---
 
@@ -234,17 +234,17 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 AP Archive
 
-👁️ 103K • 👍 326 • 💬 133 • ⏱️ 0:56 • 5d ago
+👁️ 103K • 👍 327 • 💬 133 • ⏱️ 0:56 • 6d ago
 
 ---
 
-**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+**[From Indoors to Outdoors. Robotics for All.](https://www.youtube.com/watch?v=GZwlWA4Tai4)**
 
-A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+Robotics is going further. Beyond floors. Beyond walls. Beyond the home. From indoors to outdoors, discover the expanding world ...
 
-📺 Curiosity Loop
+📺 ECOVACS ROBOTICS
 
-👁️ 279K • 👍 13K • 💬 26 • ⏱️ 0:19 • 1d ago
+👁️ 164K • ⏱️ 0:48 • 2d ago
 
 ---
 
@@ -264,7 +264,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 AP Archive
 
-👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
+👁️ 124K • 👍 324 • 💬 201 • ⏱️ 0:53 • 6d ago
 
 ---
 
@@ -274,15 +274,17 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 Carros Show
 
-👁️ 46K • 👍 327 • 💬 39 • ⏱️ 19:36 • 4d ago
+👁️ 46K • 👍 328 • 💬 39 • ⏱️ 19:36 • 4d ago
 
 ---
 
-**[Robot practice on the rooftop.🤖 #robot #dance #fyp #freestyle #doll](https://www.youtube.com/watch?v=CMtugj5J7zg)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-📺 Babyslow’s Dance World
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-👁️ 131K • 💬 209 • ⏱️ 0:21 • 2d ago
+📺 South China Morning Post
+
+👁️ 123K • 👍 1K • 💬 313 • ⏱️ 3:47 • 2d ago
 
 ---
 

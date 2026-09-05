@@ -15,44 +15,64 @@
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
-      "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFk5dVlaNzFDT3V3QTRuZ3BSS05sY1VnM1VjdUV6eHVuSkdkRmlHanhxWUVkczV1NDlPZmJMSFlndEpWOFNEYnp4NHZFZ3FHdmdYV2h5U1hhdThna3k5WXJHZ0ZmaGM0QjRlYjZLbTkwWUVmUTBPTVBiM1lDOVkxZU5LNUYzRU56a0VndER0MVVRZ1ZLcGhZRQ?oc=5",
-      "pub_date": 1788546394.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "pub_date": 1788516180.0,
+      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Many truckers don't feel like the rest of America about AI data centers as business booms",
+      "headline": "Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWV4RjBZYlppTGV6U0VLRE0tTUZiX2toTElEM1hNUExfb0tVX0NEWWtGR054ZDJmMWlMZGxSalgwOHdDcHRtNjk1M2g1QmpzQVljTExmWTBrd1RCTzZGTWZiMmh3eW5NeWlTcDlrR24ySzZad0pMUkZiazJqOTdxMWUxME00dEZMcGdNVU1sNmVpcXJSeWdRSTEtVVd2bHpUbVlfbGZuMWd5b0E?oc=5",
+      "pub_date": 1788563030.0,
+      "article_url": "https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-Sam-Altman-vsb-1845-4db5ec.jpg",
+      "description": "A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions."
+    },
+    {
+      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraph.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
+      "pub_date": 1788586200.0,
+      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
+      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
+    },
+    {
+      "headline": "We got more defensive last week as Wall Street raised the bar for AI stocks",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwLVVsX3VUZ3lBT1R4REFEY3RQTHF5SEQtVWxNSDhtalFvZGp2WHl3UEZPb1c4UDY3U3VaZWFGRmdQNW9LYTJGRHBLUW56SFJhZ2hNNFIxRC04WElZV0VtYkdnWk5TTXNaTXp6ZnRselJMOUXSAXhBVV95cUxPWW5SaEZRRjBWNnRuamh1SEhWQnY3UnVOS0FuXzl2dVFINW9xbVYxSWJQTFAzcmR4RkZDb2xkbGw1NElVbVVjU3prLTMtc3dPNFpuNTRxZDBrZ3M1NFNLdEppNXdjM3kxV0N1ZkZrVmNWOHRuTnVWOTc?oc=5",
-      "pub_date": 1788615188.0,
-      "article_url": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358029-1788378695959-gettyimages-2258003728-QTS_DATA_CENTER.jpeg?v=1788378710&w=1920&h=1080",
-      "description": "Sprawling data center components from HVAC systems to tubing, wiring and semiconductors arrive primarily by truck, a boon for a business hit hard by trade wars."
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FyUDhsZHAyZnhhTUFSdEFCaGpTUDYzVGpfeEk5WEt1cFh6Zl82MFNQRXN1THZSWldIcV8ySDVRbjl3MS1uLVNscVN5T0NIMEdSR0dzSzRhQV9pWFpsLWYxdEU0dmE3RzRrV0NaeW9tOU85ZExrTXRKUEV6NlN0dUhsTURTQmMyeldoZGNvTWcwQXBobmZsOGxSZzkzMWlMT2UzUEM0UEpvVVcxWml1ZE9n?oc=5",
+      "pub_date": 1788626639.0,
+      "article_url": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108356507-1788194313682-gettyimages-2292379384-US_STOCKS.jpeg?v=1788194341&w=1920&h=1080",
+      "description": "We initiated positions in defensive stocks to balance our AI exposure amid higher oil prices and Treasury yields."
     },
     {
-      "headline": "Trump\u2019s Embrace of AI Data Centers Adds to GOP\u2019s Midterm Peril",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW1pUUx6a3A1dDZjd1R6R2tFVVhzb2I3dHoxbU9HR0xXQjJEU1VVNXFxODk4bVhjaE9GSFFsWVRPUzR5MFJJcUNMZUtDRkRlN2taWGhycTVnVGhoU1pTRnB4VU1VcVdrdmQ5dlNYTkxnZDg0MWYyZXZ0cHlOU2lrZl9qbHB4WndxVnlISTNHMElXcF9uaDNDT3p1ckFJdTRzTUhxTmNfa0FnUVFtaEdodlpiQQ?oc=5",
-      "pub_date": 1788616800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-05/trump-s-embrace-of-ai-data-centers-adds-to-gop-s-midterm-peril",
-      "image": null,
-      "description": null
+      "headline": "AI robot pet could know your family too well",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HeHpINzRxb19IMlVXSmdJUnhhVWZjUFdPNWs5MGFaRjB2ZkZYRkQ3Q3RRbnhydE9ycGFLZW5RTVdobS1US0t2NzJxcDhZWkFxSzZlNFgxRUt2QklHdFNTMlo0alR5VVJFZnp4NGYwYjRhY2lZUzc5T05Jak5WUdIBgwFBVV95cUxONkw4S3BIWjM1aGV5cW5Mbm5nUzRka1ZFMHdYYzBzX0pic3Zxb3piVVpjaWszd05uSkdlaHRnOUpFanJiZDdrSHB4a1Q0UTRUT2VobHd6X1d3aGpjN1BoZXRteVpRUDdFUHlxUVJXdllpcDFOU015bHgydTlLZTBlcG91QQ?oc=5",
+      "pub_date": 1788626579.0,
+      "article_url": "https://www.foxnews.com/tech/ai-robot-pet-could-know-your-family-too-well",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/1-Money-Transfer-Lock-enabled.jpg",
+      "description": "The OlloNi SS1 AI robot pet uses a 4K camera and facial recognition to learn your family, but its removable Red Heart memory module raises questions."
     },
     {
-      "headline": "Millions of hours of Ukraine drone data being used to train AI: Report",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWmNjeHNXZ2NJX014ZHVFQnIzbGFMWkwyU20wSEYza0VMS0pqOWFnd2J5NUplRmJ2emRtTmVUQTdGZFI2UkczYmRLaHNIUFdmbGpJVWZRSXpFdWVHNk8zN2QxZnVOOVRST2Q3R0o3THpDbGZ1Umt5S2R3cW5JMG01V3ZRWVUwWlA2MXpDQnZFcExaQ1FHVjZjYk1jTkYxUktmdjBwOWI0YkpIS213SkJQZW1rai0xbkc4dzdhYXVJX202b29xLUNPTVM5QnhyQ0x3MlZaZ3hZMmhkMFlQ0gHiAUFVX3lxTE0wU1RyeVoza1NZWW5qV1BWdm5KQWFiaGp1enpSV0UwaUN2ck9nQlk2MzFweWlYUlF3WXZOXzZ5Q1ZVWHFpQW9OUDFlTGpfdlNYSHJlNDJ5endSQkVoOWFsVDFCSmZrOFp4NTlCU2xrLUluTm56QWFtbzd3eF9JWmxWTzBPbTNmdWp3UUlSb0JaSnRaYjhaaDZnY3JLMFpYUjF4LWFibUVUMi0zMkg1UEpjclFRZ0oyZjJjZ0JQYXZPSElHQllTcm92V0pDZ25VT200dHJITGxIUHRUa2xCMHVNOGc?oc=5",
-      "pub_date": 1788614580.0,
-      "article_url": "https://timesofindia.indiatimes.com/world/europe/millions-of-hours-of-ukraine-drone-data-being-used-to-train-ai-report/articleshow/133801734.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133803032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "description": "Ukraine\u2019s war with Russia is generating a resource that could outlive the conflict itself. Reports suggest that vast amounts of battlefield data are increasingly being used to train artificial intelligence systems, creating a new and largely unregulated market around the technology."
+      "headline": "AI researchers share how to tell if an image or video is real or not",
+      "source": "ABC13 Houston",
+      "source_url": "https://abc13.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGh1ZEdzZFhwSVhWOUJnc1F2cnppRHhjOHNLLWtrQll1T2JySGoxc21FWkZqTEJLV2g3UmMtV2lWZW50b2lyNENja2JINTc0U2U2VzliM0pOT3JTZ0x5UTdTeklIcUdLa2hsMGVnT0NRaTBKcUYtQ1h5S3BsMkJCWFUxM0pjZTVvakZ3dEVnNNIBlAFBVV95cUxPM1BvdHU3RDZKaU93MVdDQmtIN2ZaamhWU1JJbTdLcmYxTWhuMGp3T0hHS3NHTEpnYVZDczF5b1E2U01ZY3JNSW12ZU9hQm52Z0Q3UkgxS2RHQVlyVmZ5UGh4UVhEU05BS3hvcnAwdjJsOHIzVzRMenRIc2Fsbm5qSDFGaTNOTFg5cUhEMWF2OVpkd0hn?oc=5",
+      "pub_date": 1788627837.0,
+      "article_url": "https://abc13.com/post/ai-researchers-share-how-tell-image-video-is-real-not/19795459/",
+      "image": "https://cdn.abcotvs.com/dip/images/19795473_090526-ktrk-ai-or-not-sw-img.png?w=1600",
+      "description": "Ocumpaugh said that there are a few things you can look for that AI systems haven't yet mastered, like natural-looking shadows or water."
     },
     {
       "headline": "Opinion | How Scared Should We Be of A.I. Right Now?",
@@ -69,42 +89,22 @@
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHVhZEZuX3FWX05uVFN0bEhoTlZPanJUZFo2SkMtTm9vbTdnS0UtNUYwQS03MFZBa1dIdVo0enJmTHBUTDBpODh6MU81cHhtbUkyWUk5OGs2NlpaNm5WbVhUaDVEem5vQ0d2aUVyaGVqUmdrTDFfUTZfQlpVdTNHeWJSYm83SDhVTnFUTnJQaGIteU9pTVlPOU44OHJnSHM1QnJYN0FvcjlpMTVQ?oc=5",
-      "pub_date": 1788615156.0,
+      "pub_date": 1788624000.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VCX3QSEYUCL3I2SMSRXVPDZK3E_size-normalized.jpg&w=1440",
       "description": "Whatever your favorite smartphone, it\u2019s going to cost more. Blame inflation driven by the AI boom."
     },
     {
-      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "pub_date": 1788561962.0,
-      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
-      "pub_date": 1788586200.0,
-      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
-      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
-    },
-    {
-      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "pub_date": 1788480364.0,
-      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktnUHdLTzFnb0J1VE56YjVOcVFjMXZCQVprZnlpa212c0R0LWhkd0VIQlNNMzAtNmFuMVc4OXFUWm02aXRDR2x5ODVJZnBmRzlVZXVxSExRbHd4ZXZiU2dwMWh0TjdmclhzSmh1MDdkYkduWFRwdFdHNVJMSTFNckZIc2tVbXByTW1pUVl0dmhxSmVHOWpndVBGZXFPdjBiOU5ZbUZRRFg3bURCcDlvWGJlbjZQQQ?oc=5",
+      "pub_date": 1788545102.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T14:43:19.344061+00:00"
+  "fetched_at": "2026-09-05T17:11:02.276488+00:00"
 }

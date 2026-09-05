@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-05T14:43:21.261024+00:00'
+updated: '2026-09-05T17:11:10.610383+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 14:43 UTC  
+**Last Updated:** September 05, 2026 at 17:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +1.6%  
-**30d:** +28.3%  
-**90d:** +45.4%  
-**1y:** -42.5%  
+**24h:** +1.2%  
+**7d:** +2.5%  
+**30d:** +29.5%  
+**90d:** +46.7%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.91B
+**Market Cap:** $302.18B
 Rank #2
 
 **Circulating Supply:** 122,020,933 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.3%
+-49.9%
 
 **All-Time Low:** $0.43
-+567564.9%
++572218.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 21h ago
+🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 1d ago
 
 ---
 
@@ -160,11 +160,33 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
+
+Forbes • 2d ago
+
+---
+
+**[Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket](https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-names-robinhood-145359352.html)**
+
+Bitwise CIO envisions tokenization spreading beyond crypto into a possible $500 trillion asset market.
+
+Yahoo Finance • 2h ago
+
+---
+
 **[Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000—Here’s What You Need to Know](https://www.tradingview.com/news/coinpedia:67fd571e3094b:0-why-is-ethereum-still-below-3000-while-bitcoin-price-hits-82-000-here-s-what-you-need-to-know/)**
 
 Ethereum price has recovered sharply over the past few days, but the rally has not yet produced the swing the bulls are waiting for. It climbed back above $2,500 after gaining nearly 5%, while the Bitcoin price moved above $82,000 as institutional demand returned to the crypto market. The divergenc…
 
-TradingView • 3h ago
+TradingView • 5h ago
+
+---
+
+**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/)**
+
+Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -180,21 +202,7 @@ Fortune • 1d ago
 
 Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-CryptoSlate • 23h ago
-
----
-
-**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
-
-Forbes • 2d ago
-
----
-
-**[ETH News Today: Ethereum Nears $2,400 Amid Fed Pressure as Apeing Nears Its September 8 Crypto Presale Opening at 15:00 UTC](https://markets.businessinsider.com/news/stocks/eth-news-today-ethereum-nears-2-400-amid-fed-pressure-as-apeing-nears-its-september-8-crypto-presale-opening-at-15-00-utc-1036522691)**
-
-NEW YORK, Sept.  04, 2026  (GLOBE NEWSWIRE) -- Apeing is approaching the next stage of its planned token launch, with its crypto presale scheduled...
-
-markets.businessinsider.com • 1d ago
+CryptoSlate • 1d ago
 
 ---
 
@@ -202,7 +210,7 @@ markets.businessinsider.com • 1d ago
 
 Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink.
 
-blockchain.news • 18h ago
+blockchain.news • 20h ago
 
 ---
 
@@ -210,7 +218,7 @@ blockchain.news • 18h ago
 
 Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks.
 
-Crypto Briefing • 17h ago
+cryptobriefing.com • 19h ago
 
 ---
 
@@ -218,15 +226,7 @@ Crypto Briefing • 17h ago
 
 CoinShares' BITC and ETHE are now on Hargreaves Lansdown, reaching about 2 million retail investors. BITC charges 0.15%; ETHE lists a 0.00% fee.
 
-FinanceFeeds • 22h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Retreat but September Could Hold a Surprise, Data Shows](https://www.benzinga.com/crypto/cryptocurrency/26/09/61635534/bitcoin-ethereum-xrp-retreat-but-september-could-hold-a-surprise-data-shows)**
-
-Crypto rallied in August, but September saw pullbacks. SOL’s gains may be priced in, while XRP and SHIB dormant-coin moves signal downside risk.
-
-Benzinga • 21h ago
+FinanceFeeds • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 517 • 👍 43 • 💬 59 • ⏱️ 13:53 • 1h ago
+👁️ 2K • 👍 95 • 💬 62 • ⏱️ 13:53 • 4h ago
 
 ---
 
@@ -250,17 +250,7 @@ Bitunix (no kyc) - Claim $10k bonus: https://www.bitunix.com/register?vipCode=Al
 
 📺 Altcoin Daily
 
-👁️ 99K • 👍 2K • 💬 193 • ⏱️ 10:50 • 2d ago
-
----
-
-**[BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DTNxXRCkvQg)**
-
-BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 13K • 👍 322 • 💬 23 • ⏱️ 20:19 • 12h ago
+👁️ 100K • 👍 2K • 💬 194 • ⏱️ 10:50 • 2d ago
 
 ---
 
@@ -270,7 +260,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 184 • 💬 10 • ⏱️ 14:57 • 10h ago
+👁️ 10K • 👍 200 • 💬 13 • ⏱️ 14:57 • 12h ago
 
 ---
 
@@ -280,17 +270,17 @@ Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto D
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 571 • 💬 46 • ⏱️ 11:39 • 2d ago
+👁️ 41K • 👍 575 • 💬 46 • ⏱️ 11:39 • 2d ago
 
 ---
 
-**[🚨 I just moved $75,000 into XRP, ETH and HYPE  58,000 jobs decides if the Fed hikes in 12 days](https://www.youtube.com/watch?v=8-lUeKEzTgA)**
+**[BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DTNxXRCkvQg)**
 
-1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Stock Moe
+📺 Crypto World
 
-👁️ 19K • 👍 568 • 💬 63 • ⏱️ 13:06 • 1d ago
+👁️ 14K • 👍 342 • 💬 117 • ⏱️ 20:19 • 14h ago
 
 ---
 
@@ -300,7 +290,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 310 • 👍 15 • 💬 2 • ⏱️ 4:52 • 5h ago
+👁️ 436 • 👍 17 • 💬 2 • ⏱️ 4:52 • 7h ago
+
+---
+
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+
+1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 503 • 💬 21 • ⏱️ 13:52 • 1d ago
 
 ---
 
@@ -310,7 +310,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 173 • 💬 34 • ⏱️ 17:06 • 1d ago
+👁️ 9K • 👍 173 • 💬 34 • ⏱️ 17:06 • 2d ago
 
 ---
 
@@ -324,13 +324,13 @@ Well, we've officially made it. It's now the time of year where everything is me
 
 ---
 
-**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=JUq2FuOWuX8)**
+**[Ethereum Foundation: Building on Ethereum | Austin Griffith at ETHOnline 2026](https://www.youtube.com/watch?v=-0HvHucIUlo)**
 
-Ethereum remains in a consolidation phase; Elliott Wave analysis suggests a potential move toward the $2750 target pending a ...
+Join Austin Griffith for a workshop titled "Ethereum Foundation: Building on Ethereum", live from ETHOnline 2026! _ _ _ _ _ _ _ _ _ ...
 
-📺 More Crypto Online
+📺 ETHGlobal
 
-👁️ 5K • 👍 146 • 💬 10 • ⏱️ 8:02 • 21h ago
+👁️ 587 • 👍 8 • 💬 1 • ⏱️ 33:36 • 2d ago
 
 ---
 
