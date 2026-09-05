@@ -8,9 +8,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 20773,
+      "stars": 20785,
       "stars_display": "20.8k",
-      "forks": 2395,
+      "forks": 2396,
       "forks_display": "2.4k",
       "language": "Python",
       "topics": [
@@ -30,10 +30,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4305,
+      "stars": 4312,
       "stars_display": "4.3k",
-      "forks": 528,
-      "forks_display": "528",
+      "forks": 530,
+      "forks_display": "530",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -42,7 +42,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-05T19:03:45Z"
+      "updated_at": "2026-09-05T21:18:06Z"
     },
     {
       "full_name": "Hisn00w/ASu-skills",
@@ -108,8 +108,8 @@
       "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
       "stars": 3073,
       "stars_display": "3.1k",
-      "forks": 199,
-      "forks_display": "199",
+      "forks": 201,
+      "forks_display": "201",
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -128,10 +128,10 @@
       "description": "let your agent control your phone",
       "url": "https://github.com/ShawnPana/phone-harness",
       "preview_image": "https://opengraph.githubassets.com/f10f616db61a209c7bf07ed5482e12f64531619706c47ae3c1babe45b03fcc41/ShawnPana/phone-harness",
-      "stars": 2454,
+      "stars": 2458,
       "stars_display": "2.5k",
-      "forks": 238,
-      "forks_display": "238",
+      "forks": 239,
+      "forks_display": "239",
       "language": "Python",
       "topics": [
         "agent",
@@ -149,7 +149,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2243,
+      "stars": 2248,
       "stars_display": "2.2k",
       "forks": 136,
       "forks_display": "136",
@@ -206,6 +206,6 @@
   "search_query": "ai created:>2026-08-06",
   "days": 30,
   "limit": 10,
-  "total_count": 455467,
-  "fetched_at": "2026-09-05T19:16:45.025253+00:00"
+  "total_count": 456405,
+  "fetched_at": "2026-09-05T21:31:37.148652+00:00"
 }
