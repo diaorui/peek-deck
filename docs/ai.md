@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-05T03:18:39.955225+00:00'
+updated: '2026-09-05T07:49:21.061186+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 05, 2026 at 03:18 UTC  
+**Last Updated:** September 05, 2026 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 “For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.”
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) • 11h ago
-
----
-
-**[Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'](https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/)**
-
-Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks.
-
-🔗 [Tech Times UK](https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574) • 12h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building) • 15h ago
 
 ---
 
@@ -57,7 +49,23 @@ Senator Bernie Sanders advocates for an immediate halt on advanced AI developmen
 
 There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?
 
-1h ago
+5h ago
+
+---
+
+**[Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'](https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/)**
+
+Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks.
+
+🔗 [Tech Times UK](https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574) • 17h ago
+
+---
+
+**[50.5% of Americans Say AI Romance Can Count as Cheating](https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/)**
+
+This survey seems pretty interesting. My only concern is whether data collected using SurveyMonkey Audience really represents Americans in a broad sense. What do you guys think? https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/
+
+2h ago
 
 ---
 
@@ -65,7 +73,15 @@ There are so many people uploading their pictures to be edited, disclosing peopl
 
 Data from a new study published recently in Nature and Arxiv: "Across three studies spanning seven datasets in different domains and over 880,000 texts, we show that the widespread adoption of large language models (LLMs) as writing assistants is linked to declines in linguistic diversity." The homogenization effect happens even when an LLM is used to polish and rewrite copy developed by a human: "While core content is retained when LLMs polish and rewrite texts, LLMs also homogenize writing styles, reducing writing-complexity variance." Study source data: "Our analyses utilize three large-scale datasets of individual writing: creative stories from Reddit, community news articles from Patch, and computer science research abstracts from arXiv." The kicker: "Across datasets, we observe a consistent bias in LLM-rewritten texts, with writing styles often aligning with older, male, politically liberal individuals and exhibiting positive moral valence and lower empathy." So, LLM-developed or aided writing is homogeneous and lacks linguistic diversity (it's more boring), and tilts toward a specific political perspective. Link to study: "The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models" and my thoughts on this research.
 
-5h ago
+9h ago
+
+---
+
+**[Salesforce blames its Claude addiction for denting profit margin guidance](https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/)**
+
+But investors hear CRM giant is now in 'refinement mode,' picking models more carefully
+
+🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219) • 12h ago
 
 ---
 
@@ -77,43 +93,25 @@ There is usually so much talk about what AI can't do, and not what it already ca
 
 ---
 
+**[Are we finally hitting the “Scaling-Wall”? Test-Time Compute meta on AI Industry.](https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/)**
+
+For the last few years, the playbook for building better AI was simple: build a bigger model, scrape more of the internet, and throw more GPUs at it. Bigger always meant better. But over the last few months, it’s become obvious that the industry is quietly shifting its entire strategy. We are hitting sort of the data wall (we are literally running out of high-quality human text to train on, which was also the reason why AI companies were rummaging through rare books), and the cost to train massive trillion-parameter models is hitting diminishing returns. Instead of just building bigger models, the new meta is Test-Time Compute (also known as inference scaling or reasoning models). What this actually means: Instead of a massive model giving you a "gut reaction" answer instantly, labs are figuring out that you can take a much smaller model and just give it 30 seconds, 5 minutes, or even an hour to "think" (chain-of-thought, self-correction, tree-of-search) before it outputs an answer. Why this is a massive deal for us: 1. The open-source equalizer: You no longer need a massive $100M data center to get state-of-the-art results. A smaller open-weights model running locally, if allowed to "think" for 10 minutes, can now beat a massive closed-source model that answers instantly. 2. Inference costs are skyrocketing: The energy and compute bottleneck is shifting from training the model to actually running the model. 3. Agentic reliability: This is the missing puzzle piece for autonomous agents. They don't need to be smarter; they just need the architectural ability to double-check their own work before taking an action. The era of "just add more parameters" seems to be slowing down, and the era of "let the model think longer" is here. Do you think test-time compute is enough to bridge the gap to true AGI, or is it just a clever trick to squeeze more performance out of our current architectures while we figure out what comes next?
+
+9m ago
+
+---
+
 **[[Experiment] I trained a model on childhood photos to simulate memory recall](https://www.reddit.com/r/artificial/comments/1w7gdny/experiment_i_trained_a_model_on_childhood_photos/)**
 
 I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just "a prompt". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio.
 
-6h ago
+11h ago
 
 ---
 
-**[Salesforce blames its Claude addiction for denting profit margin guidance](https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/)**
+**[Yes, We’re Entering the Era of Artificial General Intelligence](https://www.reddit.com/r/artificial/comments/1w7stbu/yes_were_entering_the_era_of_artificial_general/)**
 
-But investors hear CRM giant is now in 'refinement mode,' picking models more carefully
-
-🔗 [theregister](https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219) • 8h ago
-
----
-
-**[Why would you use an AI to write your replies on Reddit?](https://www.reddit.com/r/artificial/comments/1w7a9ep/why_would_you_use_an_ai_to_write_your_replies_on/)**
-
-More and more, people use AI to write their replies and posts, which to me at least is very counterintuitive. Why would you want to essentially reduce your account to being bot ran? Seems like that even if your thoughts are less coherent, they’re still your thoughts. If you aren’t writing your own stuff, there’s not really a point to having an online presence at all, since you don’t have one if someone else is writing your replies for you. I think drafts is a different thing since you’re still rewriting just from a template. Having an AI do thinking for you on an anonymous website to represent your thoughts just seems odd. Using an AI to do abilities that would take years to learn and even if you did take years it would still be faster and more accurate is a wonderful thing. Raising the global bar of what an I’m individual is capable of in one lifetime. However human expression should be respected, you should be able to both have your own thoughts and then use those thoughts to express yourself online. While also using AI as a learning tool that teaches as it does with multitudes of skills, so you’re getting it to teach you what and why it’s doing what it’s doing as it’s doing it.
-
-10h ago
-
----
-
-**[Automatic AI Responses to Customer Service Issues](https://www.reddit.com/r/artificial/comments/1w79lg9/automatic_ai_responses_to_customer_service_issues/)**
-
-I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline.
-
-10h ago
-
----
-
-**[Are ai second brains and assistants useless now?](https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants_useless_now/)**
-
-So I was planning to build an ai assistant powered by qwen and my obsidian notes, but since ChatGPT’s astra ai , is there any point in making it anymore?
-
-2h ago
+🔗 [wsj.com](https://www.wsj.com/cio-journal/yes-were-entering-the-era-of-artificial-general-intelligence-d9b0920e) • 1h ago
 
 ---
 
@@ -125,71 +123,69 @@ So I was planning to build an ai assistant powered by qwen and my obsidian notes
 
 Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
 
-OpenAI • 1d ago
+OpenAI • 54m ago
 
 ---
 
 **[EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)**
 
-reuters.com • 4h ago
+reuters.com • 9h ago
 
 ---
 
-**[How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html)**
+**[AI agents conspired to escape their cage. Experts now fear a global ‘takeover’](https://www.telegraph.co.uk/news/2026/09/05/rogue-ai-agents-take-over-world/)**
 
-nytimes.com • 12h ago
+Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn
 
----
-
-**[Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos](https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182)**
-
-A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions.
-
-NBC News • 4h ago
+The Telegraph • 2h ago
 
 ---
 
-**[Clay Matthews reacts to TMZ's AI-generated photo depicting him](https://www.jsonline.com/story/sports/nfl/packers/2026/09/04/clay-matthews-reacts-tmz-photo/91618653007/)**
+**[Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)**
 
-Packers great Clay Matthews is reacting to the AI-generated photo TMZ posted to its social media accounts of him on Sept. 4.
-
-Milwaukee Journal Sentinel • 2h ago
+The New York Times • 1d ago
 
 ---
 
-**[Virtual threats evolve as AI related scare alerts West Virginia Law enforcement](https://wchstv.com/news/local/virtual-threats-evolve-as-ai-related-scare-alerts-west-virginia-law-enforcement)**
+**[‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?](https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings)**
 
-As AI evolves so does the complexity of false or virtual threats that law enforcement have to deal with.
+A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models
 
-WCHS • 12m ago
+The Guardian • 49m ago
 
 ---
 
-**[California labor unions urge Gov. Newsom to sign AI workplace protections](https://www.cbsnews.com/sanfrancisco/news/california-labor-unions-ai-workplace-protections-artificial-intelligence/)**
+**[US adversary turns up the heat on America’s AI lead with an underestimated edge](https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge)**
 
-As Californians prepare to celebrate Labor Day and the contributions of American workers, labor unions are raising alarms about what they see as a growing threat to the future of human work.
+China's "East Data, West Computing" initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing's push.
 
-cbsnews.com • 1h ago
+Fox News • 21h ago
+
+---
+
+**[EXCLUSIVE: US, China gear up for mid-September AI safety talks](https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/)**
+
+reuters.com • 8h ago
+
+---
+
+**[From ‘slop’ to prime time: how AI dramas are shaking up China’s TV industry](https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time)**
+
+South China Morning Post • 49m ago
 
 ---
 
 **[‘I don't think anyone is really comfortable’: Democrat leading on AI raises alarms at Trump, Zuckerberg call](https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454)**
 
-Politico • 8h ago
+Politico • 13h ago
 
 ---
 
-**[The jobs apocalypse is postponed. An AI jobs boom is here](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)**
+**[Flock says its cameras make US safer - so why are they being sabotaged?](https://www.bbc.com/news/articles/cew9kz1kxpvo)**
 
-economist.com • 9h ago
+The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.
 
----
-
-**[The Dead-Internet Theory Is Back](https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/)**
-
-The “Dead Internet” theory is back.
-
-The Atlantic • 16h ago
+BBC • 6h ago
 
 ---
 
@@ -201,7 +197,7 @@ The Atlantic • 16h ago
 
 Across 380 software categories, 59.8% of the sources behind grounded AI recommendations sit outside the 100,000 most-visited websites, and several of the most-cited are sites built to be read by models rather than by people.
 
-⬆️ 512 • 💬 249 • 2d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+⬆️ 513 • 💬 249 • 2d ago • [Trellner Research](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 
 ---
 
@@ -209,7 +205,7 @@ Across 380 software categories, 59.8% of the sources behind grounded AI recommen
 
 Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic comeback against the world’s premier artificial intelligence Go engine, K
 
-⬆️ 458 • 💬 178 • 2d ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
+⬆️ 459 • 💬 179 • 2d ago • [KED Global](https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007)
 
 ---
 
@@ -217,19 +213,27 @@ Shin Jin-seo, the world's top-ranked Go player, on Tuesday completed a dramatic 
 
 A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.
 
-⬆️ 371 • 💬 72 • 15h ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+⬆️ 378 • 💬 72 • 19h ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 
 ---
 
 **[Corporate America is getting hooked on open-source AI](https://news.ycombinator.com/item?id=49566137)**
 
-⬆️ 274 • 💬 254 • 11h ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+⬆️ 290 • 💬 263 • 16h ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+
+---
+
+**[Can AI design circuit boards yet?](https://news.ycombinator.com/item?id=49569366)**
+
+A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.
+
+⬆️ 240 • 💬 146 • 12h ago • [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
 ---
 
 **[Mamdani bans AI in NYC schools](https://news.ycombinator.com/item?id=49542443)**
 
-⬆️ 218 • 💬 177 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
+⬆️ 219 • 💬 179 • 2d ago • [nytimes.com](https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html)
 
 ---
 
@@ -238,14 +242,6 @@ A US and UK data study: when the same product ranks in both Google AI Mode and t
 Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...
 
 ⬆️ 196 • 💬 128 • 2d ago • [Multiverse Computing](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
-
----
-
-**[Can AI design circuit boards yet?](https://news.ycombinator.com/item?id=49569366)**
-
-A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.
-
-⬆️ 183 • 💬 118 • 7h ago • [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 
 ---
 
@@ -259,7 +255,7 @@ How a mistake of less than half a millimeter in a single part nearly brought dow
 
 **[OpenAI agents hijacked German website in previously undisclosed AI breakout](https://news.ycombinator.com/item?id=49562744)**
 
-⬆️ 93 • 💬 2 • 16h ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+⬆️ 93 • 💬 2 • 21h ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
 
 ---
 
@@ -279,7 +275,17 @@ Krystal and Saagar discuss OpenAI admitting to hiding a doomsday scenario. Sign 
 
 📺 Breaking Points
 
-👁️ 247K • 👍 5K • 💬 1K • ⏱️ 15:59 • 1d ago
+👁️ 250K • 👍 5K • 💬 1K • ⏱️ 15:59 • 1d ago
+
+---
+
+**[AI News: The Most Insane Week So Far This Year!](https://www.youtube.com/watch?v=GfPZm9yucQo)**
+
+Here's the AI News you probably missed this week. Try AI Flows with Artlist Unlimited here https://artlist.io/ Discover More: ...
+
+📺 Matt Wolfe
+
+👁️ 75K • 👍 2K • 💬 180 • ⏱️ 30:56 • 16h ago
 
 ---
 
@@ -289,7 +295,7 @@ Center for Industrial Progress founder and CEO Alex Epstein analyzes calls from 
 
 📺 Fox Business
 
-👁️ 16K • 👍 141 • 💬 77 • ⏱️ 5:11 • 18h ago
+👁️ 16K • 👍 149 • 💬 77 • ⏱️ 5:11 • 22h ago
 
 ---
 
@@ -299,7 +305,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 159K • 👍 2K • 💬 103 • ⏱️ 5:42 • 1d ago
+👁️ 163K • 👍 2K • 💬 103 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -309,37 +315,7 @@ OpenAI CEO Sam Altman joined U.S. Commerce Secretary Howard Lutnick for a wide-r
 
 📺 DRM News
 
-👁️ 86K • 👍 678 • 💬 155 • ⏱️ 32:15 • 2d ago
-
----
-
-**[The Most Overhyped and Underhyped New AI Models](https://www.youtube.com/watch?v=Po_Dh7WLgmM)**
-
-A bunch of new models... Join the free newsletter here: https://futuretools.io/newsletter Discover More: 🛠️ Explore AI Tools ...
-
-📺 Matt Wolfe
-
-👁️ 86K • 👍 1K • 💬 201 • ⏱️ 26:29 • 2d ago
-
----
-
-**[Nobody wants to buy something AI generated | David Gerard](https://www.youtube.com/watch?v=vkIn0Xh0Ld8)**
-
-They can't harm you, if they can't find you! Use code thetechreport at the link below and get 60% off an annual plan: ...
-
-📺 The Tech Report
-
-👁️ 169K • 👍 3K • 💬 909 • ⏱️ 32:49 • 1d ago
-
----
-
-**[Oracle, PayPal, Uber Cut Jobs in India; Is AI to Blame? | Vantage on Firstpost | 4K](https://www.youtube.com/watch?v=b7eLabgsytY)**
-
-2026 is turning into a brutal year for white-collar workers. From PayPal and Uber to Oracle and Microsoft, companies are cutting ...
-
-📺 Firstpost
-
-👁️ 201K • 👍 1K • 💬 283 • ⏱️ 7:16 • 1d ago
+👁️ 89K • 👍 699 • 💬 159 • ⏱️ 32:15 • 2d ago
 
 ---
 
@@ -349,7 +325,27 @@ Build, deploy, and run always-on AI agents with the Abacus AI SuperComputer: htt
 
 📺 WorldofAI
 
-👁️ 89K • 👍 1K • 💬 128 • ⏱️ 13:46 • 1d ago
+👁️ 92K • 👍 1K • 💬 130 • ⏱️ 13:46 • 1d ago
+
+---
+
+**[Oracle, PayPal, Uber Cut Jobs in India; Is AI to Blame? | Vantage on Firstpost | 4K](https://www.youtube.com/watch?v=b7eLabgsytY)**
+
+2026 is turning into a brutal year for white-collar workers. From PayPal and Uber to Oracle and Microsoft, companies are cutting ...
+
+📺 Firstpost
+
+👁️ 223K • 👍 1K • 💬 309 • ⏱️ 7:16 • 1d ago
+
+---
+
+**[Nobody wants to buy something AI generated | David Gerard](https://www.youtube.com/watch?v=vkIn0Xh0Ld8)**
+
+They can't harm you, if they can't find you! Use code thetechreport at the link below and get 60% off an annual plan: ...
+
+📺 The Tech Report
+
+👁️ 172K • 👍 3K • 💬 933 • ⏱️ 32:49 • 1d ago
 
 ---
 
@@ -359,17 +355,17 @@ The AI boom has created trillions of dollars in market value, but underneath it 
 
 📺 The Infographics Show
 
-👁️ 1.6M • 👍 11K • 💬 2K • ⏱️ 32:05 • 1d ago
+👁️ 1.8M • 👍 12K • 💬 2K • ⏱️ 32:05 • 1d ago
 
 ---
 
-**[Mamdani announces ban on AI for young students in NYC public schools](https://www.youtube.com/watch?v=zjpGvPUh0iU)**
+**[Bernie Sanders Faces AI Horrors Beyond His Comprehension](https://www.youtube.com/watch?v=_ucbKOAYYFY)**
 
-New York City Mayor Zohran Mamdani announced a one-year ban on artificial intelligence for students from 2-K through 8th ...
+More Perfect Union sat down with Gen Z and Bernie Sanders to discuss how they use AI, and what it means for the future.
 
-📺 NBC News
+📺 HasanAbi
 
-👁️ 442K • 👍 4K • 💬 2K • ⏱️ 3:47 • 2d ago
+👁️ 272K • 👍 5K • 💬 664 • ⏱️ 23:02 • 1d ago
 
 ---
 
@@ -385,7 +381,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 133,024 • ❤️ 608 • 3d ago
+⬇️ 133,024 • ❤️ 620 • 3d ago
 
 ---
 
@@ -397,7 +393,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 5,739,341 • ❤️ 13,963 • 21d ago
+⬇️ 5,739,341 • ❤️ 13,974 • 21d ago
 
 ---
 
@@ -409,19 +405,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 351,374 • ❤️ 4,880 • 8d ago
-
----
-
-**[GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)**
-
-*Z.ai*
-
-GLM-5.3 is a text-generation model excelling in complex coding and long-horizon tasks, achieving state-of-the-art performance in coding benchmarks and emergent cyber capabilities like vulnerability discovery and exploitation.
-
-`text-generation` `753.3B`
-
-⬇️ 303,534 • ❤️ 1,705 • 20h ago
+⬇️ 351,374 • ❤️ 4,883 • 9d ago
 
 ---
 
@@ -433,7 +417,19 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 654,957 • ❤️ 2,053 • 20h ago
+⬇️ 654,957 • ❤️ 2,058 • 1d ago
+
+---
+
+**[GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)**
+
+*Z.ai*
+
+GLM-5.3 is a text-generation model excelling in complex coding and long-horizon tasks, achieving state-of-the-art performance in coding benchmarks and emergent cyber capabilities like vulnerability discovery and exploitation.
+
+`text-generation` `753.3B`
+
+⬇️ 303,534 • ❤️ 1,708 • 1d ago
 
 ---
 
@@ -445,7 +441,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 3,524 • ❤️ 477 • 1d ago
+⬇️ 3,524 • ❤️ 489 • 2d ago
 
 ---
 
@@ -457,7 +453,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 105,304 • ❤️ 432 • 2d ago
+⬇️ 105,304 • ❤️ 436 • 2d ago
 
 ---
 
@@ -469,7 +465,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,399,511 • ❤️ 2,793 • 3d ago
+⬇️ 1,399,511 • ❤️ 2,813 • 4d ago
 
 ---
 
@@ -481,7 +477,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 206,575 • ❤️ 314 • 2d ago
+⬇️ 206,575 • ❤️ 324 • 2d ago
 
 ---
 
@@ -493,27 +489,13 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 9,951,693 • ❤️ 3,513 • 15d ago
+⬇️ 9,951,693 • ❤️ 3,515 • 15d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
-
-*Björn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)*
-
-🏢 Pathway
-
-A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
-
-▲ 772 • 💬 6 • ⭐ 10,582 • 26d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
-
----
 
 **[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
 
@@ -529,13 +511,27 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 ---
 
+**[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
+
+*Björn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)*
+
+🏢 Pathway
+
+A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
+
+▲ 772 • 💬 6 • ⭐ 10,595 • 26d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+---
+
 **[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
 *Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 39 • 💬 1 • ⭐ 30,985 • 35mo ago
+▲ 39 • 💬 1 • ⭐ 31,124 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -561,23 +557,9 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 48 • 💬 2 • ⭐ 19,837 • 12d ago
+▲ 48 • 💬 2 • ⭐ 19,882 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
-
----
-
-**[LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](https://huggingface.co/papers/2608.30935)**
-
-*Shaoan Wang, Aocheng Luo, Fei Huang et al. (20 authors)*
-
-🏢 Light Origins
-
-LightNav-0 is a compact generalist navigation model that leverages a pretrained vision-language model’s spatial reasoning via unified pointing tokens and action tokenization to achieve state-of-the-art embodied navigation across diverse tasks and robots.
-
-▲ 28 • 💬 2 • ⭐ 417 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.30935) • [💻 code](https://github.com/lightorigins/LightNav-0) • [🔗 project](https://www.lightorigins.com/en/blog/lightnav-0)
 
 ---
 
@@ -589,9 +571,23 @@ LightNav-0 is a compact generalist navigation model that leverages a pretrained 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 205 • 💬 3 • ⭐ 1,678 • 12d ago
+▲ 205 • 💬 3 • ⭐ 1,748 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
+
+---
+
+**[LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation](https://huggingface.co/papers/2608.30935)**
+
+*Shaoan Wang, Aocheng Luo, Fei Huang et al. (20 authors)*
+
+🏢 Light Origins
+
+LightNav-0 is a compact generalist navigation model that leverages a pretrained vision-language model’s spatial reasoning via unified pointing tokens and action tokenization to achieve state-of-the-art embodied navigation across diverse tasks and robots.
+
+▲ 29 • 💬 2 • ⭐ 422 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.30935) • [💻 code](https://github.com/lightorigins/LightNav-0) • [🔗 project](https://www.lightorigins.com/en/blog/lightnav-0)
 
 ---
 
@@ -645,7 +641,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.6k • 🔱 2.4k • 1d ago
+⭐ 20.7k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -655,7 +651,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.3k • 🔱 520 • 6h ago
+⭐ 4.3k • 🔱 524 • 10h ago
 
 ---
 
@@ -665,17 +661,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 3.5k • 🔱 221 • 12h ago
-
----
-
-**[yetone/cumora](https://github.com/yetone/cumora)**
-
-Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
-
-`TypeScript`
-
-⭐ 3.5k • 🔱 435 • 51m ago
+⭐ 3.5k • 🔱 222 • 17h ago
 
 ---
 
@@ -685,7 +671,17 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.5k • 🔱 401 • 7d ago
+⭐ 3.5k • 🔱 416 • 7d ago
+
+---
+
+**[yetone/cumora](https://github.com/yetone/cumora)**
+
+Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+`TypeScript`
+
+⭐ 3.5k • 🔱 437 • 5h ago
 
 ---
 
@@ -705,7 +701,7 @@ let your agent control your phone
 
 `Python` `agent` `ai` `automation` `developer-tools`
 
-⭐ 2.4k • 🔱 234 • 8h ago
+⭐ 2.4k • 🔱 237 • 13h ago
 
 ---
 
@@ -715,7 +711,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 129 • 9h ago
+⭐ 2.1k • 🔱 133 • 2h ago
 
 ---
 
@@ -735,7 +731,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 18h ago
+⭐ 1.9k • 🔱 1.3k • 22h ago
 
 ---
 
