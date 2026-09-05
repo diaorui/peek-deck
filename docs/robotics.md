@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T17:11:10.613572+00:00'
+updated: '2026-09-05T19:17:13.481193+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 17:11 UTC  
+**Last Updated:** September 05, 2026 at 19:17 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,9 +108,19 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
 
-Signal Akron • 1d ago
+/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
+
+PR Newswire • 2d ago
+
+---
+
+**[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)**
+
+The round is being raised just months after the robot data startup exited from stealth.
+
+TechCrunch • 19h ago
 
 ---
 
@@ -132,39 +142,21 @@ IEEE Spectrum • 1d ago
 
 **[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
 
-wsj.com • 2d ago
+WSJ • 2d ago
 
 ---
 
-**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
-
-Futurism • 7h ago
+Signal Akron • 1d ago
 
 ---
 
-**[Kraken Robotics Stock Is Down 55% -- Is September the Month to Buy the Dip?](https://www.fool.com/investing/2026/09/05/kraken-robotics-stock-down-september-buy-dip/)**
+**[America’s biggest military shipbuilder taps robotics to build Navy warships faster](https://interestingengineering.com/military/americas-biggest-military-shipbuilder)**
 
-Kraken Robotics stock has fallen out of favor. Is this a buying opportunity?
+HII is targeting a 15% increase in shipyard throughput through workforce, infrastructure and physical AI investments.
 
-The Motley Fool • 35m ago
-
----
-
-**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
-
-The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
-
-GeekWire • 1d ago
-
----
-
-**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
-
-On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
-
-techcrunch.com • 2d ago
+Interesting Engineering • 6h ago
 
 ---
 
@@ -176,11 +168,19 @@ ABC7 Chicago • 1d ago
 
 ---
 
-**[Enovis to acquire surgical tech provider eCential Robotics for $180M](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/)**
+**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
 
-Enovis said it plans to bring a robotic system targeting the knee within the next 2 years, followed by a system focusing on the shoulder.
+Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-The Robot Report • 4h ago
+futurism.com • 9h ago
+
+---
+
+**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
+
+The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
+
+geekwire.com • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 72K • 👍 587 • 💬 127 • ⏱️ 9:07 • 2d ago
+👁️ 73K • 👍 592 • 💬 127 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -204,17 +204,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 86K • 👍 391 • 💬 39 • ⏱️ 1:49 • 6d ago
-
----
-
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
-
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
-
-📺 bycloud
-
-👁️ 320K • 👍 7K • 💬 566 • ⏱️ 15:41 • 2d ago
+👁️ 87K • 👍 393 • 💬 39 • ⏱️ 1:49 • 6d ago
 
 ---
 
@@ -224,7 +214,17 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 149K • 👍 1K • 💬 218 • ⏱️ 12:56 • 5d ago
+👁️ 150K • 👍 1K • 💬 218 • ⏱️ 12:56 • 5d ago
+
+---
+
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+
+📺 bycloud
+
+👁️ 334K • 👍 7K • 💬 569 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -238,23 +238,23 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 ---
 
-**[From Indoors to Outdoors. Robotics for All.](https://www.youtube.com/watch?v=GZwlWA4Tai4)**
+**[The Physics That Kills Humanoid Robots (And Why Every Company is Hiding It)](https://www.youtube.com/watch?v=RFhRmv2pQSA)**
 
-Robotics is going further. Beyond floors. Beyond walls. Beyond the home. From indoors to outdoors, discover the expanding world ...
+There is a physics problem inside every humanoid robot on Earth right now that nobody in the industry wants to talk about, and it ...
 
-📺 ECOVACS ROBOTICS
+📺 Six Digits
 
-👁️ 164K • ⏱️ 0:48 • 2d ago
+👁️ 87K • 👍 3K • 💬 394 • ⏱️ 14:27 • 6d ago
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
 
-📺 ejunky66
+📺 Carros Show
 
-👁️ 7K • 👍 96 • 💬 8 • ⏱️ 0:59 • 1d ago
+👁️ 46K • 👍 328 • 💬 39 • ⏱️ 19:36 • 5d ago
 
 ---
 
@@ -268,13 +268,13 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 ---
 
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+**[From Indoors to Outdoors. Robotics for All.](https://www.youtube.com/watch?v=GZwlWA4Tai4)**
 
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+Robotics is going further. Beyond floors. Beyond walls. Beyond the home. From indoors to outdoors, discover the expanding world ...
 
-📺 Carros Show
+📺 ECOVACS ROBOTICS
 
-👁️ 46K • 👍 328 • 💬 39 • ⏱️ 19:36 • 4d ago
+👁️ 164K • ⏱️ 0:48 • 2d ago
 
 ---
 
@@ -284,7 +284,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 123K • 👍 1K • 💬 313 • ⏱️ 3:47 • 2d ago
+👁️ 127K • 👍 1K • 💬 321 • ⏱️ 3:47 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-05T17:11:10.604327+00:00'
+updated: '2026-09-05T19:17:13.472932+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 17:11 UTC  
+**Last Updated:** September 05, 2026 at 19:17 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +3.1%  
-**30d:** +23.4%  
-**90d:** +26.9%  
-**1y:** -27.3%  
+**24h:** +0.3%  
+**7d:** +2.9%  
+**30d:** +23.2%  
+**90d:** +26.7%  
+**1y:** -27.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1607.76B
+**Market Cap:** $1605.20B
 Rank #1
 
 **Circulating Supply:** 20,080,056 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.5%
+-36.6%
 
 **All-Time Low:** $67.81
-+118018.3%
++117788.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Homeless? Maybe, Bitcoin-less? Never.](https://www.reddit.com/r/Bitcoin/comments/1w7ugol/homeless_maybe_bitcoinless_never/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 It's really neat I'll put it in my home office on the desk.
 
-7h ago
+9h ago
 
 ---
 
@@ -95,13 +95,13 @@ It's really neat I'll put it in my home office on the desk.
 
 Thought it was pretty cool that they were accepting bitcoin!
 
-9h ago
+11h ago
 
 ---
 
 **[Slowly getting there!](https://www.reddit.com/r/Bitcoin/comments/1w7vt2t/slowly_getting_there/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -109,13 +109,13 @@ Thought it was pretty cool that they were accepting bitcoin!
 
 My Indian girlfriend lives in England at the moment for university. She receives money from her parents for tuition fees. She says she loses around 20% in fees, which for her £20k/ year fees adds up to a lot! Is there a way her parents can send her bitcoin? Basically it boils down to, can they buy bitcoin in fairly sizeable amounts in India without government restrictions? Thanks in advance folks
 
-6h ago
+8h ago
 
 ---
 
 **[It's really that simple.](https://www.reddit.com/r/Bitcoin/comments/1w7jn6n/its_really_that_simple/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ Very proud of my achievement despite our poverty and lack of public transport. W
 
 Bitcoin ETF inflows rose about 7% week over week, bringing three-week inflows to a 2026 high of $3.8 billion, while Ether and XRP ETF inflows dropped sharply.
 
-🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 4h ago
+🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 6h ago
 
 ---
 
@@ -159,7 +159,7 @@ Just wondering
 
 Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-Fortune • 20h ago
+fortune.com • 22h ago
 
 ---
 
@@ -169,11 +169,17 @@ Barron's • 1d ago
 
 ---
 
-**[US Debt Hit $40 Trillion. So Where Is Bitcoin’s Debasement Trade?](https://finance.yahoo.com/markets/crypto/articles/us-debt-hit-40-trillion-151947696.html)**
+**[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://finance.yahoo.com/markets/crypto/articles/ancient-bitcoin-wallet-turned-120-170104762.html)**
 
-US debt has crossed $40 trillion while Bitcoin remains below its 2025 peak. BloFin explains why the debasement trade may be entering a new phase.
+At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Reclaims $80,000: Can BTC Hold the Key Level and Continue Higher?](https://www.binance.com/en-TR/square/post/363472847856473)**
+
+Binance • 1h ago
 
 ---
 
@@ -181,13 +187,7 @@ Yahoo Finance • 1h ago
 
 After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center.
 
-WNDU • 14h ago
-
----
-
-**[British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million](https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million)**
-
-CoinDesk • 3d ago
+WNDU • 16h ago
 
 ---
 
@@ -199,11 +199,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million](https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million)**
+
+CoinDesk • 3d ago
+
+---
+
 **[Crypto Money Still Matters for the Midterms](https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/)**
 
 The industry is a surprising top spender in the races.
 
-The Atlantic • 18h ago
+The Atlantic • 20h ago
 
 ---
 
@@ -211,21 +217,13 @@ The Atlantic • 18h ago
 
 Bitcoin has a unique combination of upside potential and downside protection.
 
-The Motley Fool • 11h ago
+The Motley Fool • 14h ago
 
 ---
 
 **[Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets](https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets)**
 
-Bloomberg.com • 21h ago
-
----
-
-**[Bitcoin Bear Market May Not Yet Be Over, Says Fidelity](https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity)**
-
-Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year.
-
-Bitcoin Magazine • 1d ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -267,7 +265,7 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
 
-⬆️ 16 • 💬 2 • 19h ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
+⬆️ 16 • 💬 2 • 21h ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
 
 ---
 
@@ -293,73 +291,23 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is About to Trigger a Powerful Signal (here&#39;s what it means)](https://www.youtube.com/watch?v=aHmle31NdJw)**
-
-Bitcoin is about to trigger a powerful signal. Here's what it means. We look at the charts and explain. #bitcoin #btc #alessiorastani ...
-
-📺 Alessio Rastani
-
-👁️ 42K • 👍 2K • 💬 251 • ⏱️ 2:58 • 1d ago
-
----
-
 **[Bitcoin’s $82K Breakout Just Got REKT by the Fed!](https://www.youtube.com/watch?v=gOuhLyaGotA)**
 
 Bitcoin just posted its highest close in four months, up nearly $20000 in 20 days, and triggered one of the largest short liquidation ...
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 91 • ⏱️ 14:58 • 17h ago
+👁️ 31K • 👍 2K • 💬 96 • ⏱️ 14:58 • 19h ago
 
 ---
 
-**[BlackRock just bought $454 million of Bitcoin in a single day.](https://www.youtube.com/watch?v=WPuZkAzmx0Q)**
+**[Bitcoin is About to Trigger a Powerful Signal (here&#39;s what it means)](https://www.youtube.com/watch?v=aHmle31NdJw)**
 
-BlackRock alone put $454 million into Bitcoin ETFs today, the biggest part of a $731 million day — the largest single-day inflow ...
+Bitcoin is about to trigger a powerful signal. Here's what it means. We look at the charts and explain. #bitcoin #btc #alessiorastani ...
 
-📺 Yahoo Finance
+📺 Alessio Rastani
 
-👁️ 35K • 👍 591 • 💬 158 • ⏱️ 14:52 • 1d ago
-
----
-
-**[Bitcoin Rips to $82K in a Global Bond Crisis! Here&#39;s Why It&#39;s Just Getting Started](https://www.youtube.com/watch?v=eR_zgMNQryg)**
-
-Bitcoin just broke one of its oldest macro relationships. As global bond yields surge, Japan fights to defend the yen, and ...
-
-📺 Simply Bitcoin
-
-👁️ 56K • 👍 2K • 💬 172 • ⏱️ 15:19 • 1d ago
-
----
-
-**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
-
-📺 Bitcoin University
-
-👁️ 23K • 👍 1K • 💬 519 • ⏱️ 7:52 • 2d ago
-
----
-
-**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
-
-Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
-
-📺 Swan Bitcoin
-
-👁️ 24K • 👍 791 • 💬 100 • ⏱️ 13:01 • 1d ago
-
----
-
-**[Running Bitcoin On Blake2B (Start9, Umbrel)](https://www.youtube.com/watch?v=7-5XszJcD6g)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how to upgrade to the new versions ...
-
-📺 Bitcoin University
-
-👁️ 13K • 👍 669 • 💬 260 • ⏱️ 11:11 • 1d ago
+👁️ 43K • 👍 2K • 💬 252 • ⏱️ 2:58 • 1d ago
 
 ---
 
@@ -369,7 +317,47 @@ FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.lea
 
 📺 Crypto Tips
 
-👁️ 18K • 👍 647 • 💬 50 • ⏱️ 10:14 • 1d ago
+👁️ 18K • 👍 656 • 💬 51 • ⏱️ 10:14 • 1d ago
+
+---
+
+**[BITCOIN: THIS LEVEL CONFIRMS THE BULL MARKET](https://www.youtube.com/watch?v=zg6OxzlaWEM)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 20K • 👍 827 • 💬 107 • ⏱️ 21:17 • 13h ago
+
+---
+
+**[Bitcoin Rips to $82K in a Global Bond Crisis! Here&#39;s Why It&#39;s Just Getting Started](https://www.youtube.com/watch?v=eR_zgMNQryg)**
+
+Bitcoin just broke one of its oldest macro relationships. As global bond yields surge, Japan fights to defend the yen, and ...
+
+📺 Simply Bitcoin
+
+👁️ 57K • 👍 2K • 💬 172 • ⏱️ 15:19 • 1d ago
+
+---
+
+**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
+
+Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
+
+📺 Swan Bitcoin
+
+👁️ 24K • 👍 791 • 💬 92 • ⏱️ 13:01 • 2d ago
+
+---
+
+**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
+
+📺 Bitcoin University
+
+👁️ 24K • 👍 1K • 💬 519 • ⏱️ 7:52 • 2d ago
 
 ---
 
@@ -379,17 +367,27 @@ BE IN THE ROOM: https://luma.com/btunyc?coupon=HODL Will you Subscribe?
 
 📺 BRITISH HODL
 
-👁️ 20K • 👍 793 • 💬 74 • ⏱️ 12:21 • 1d ago
+👁️ 20K • 👍 794 • 💬 68 • ⏱️ 12:21 • 1d ago
 
 ---
 
-**[Range Keeps Bucking Up for Bitcoin Price Chart and Altcoin Market as 50-Week is the Next to Fall](https://www.youtube.com/watch?v=SWvxgMYB5QY)**
+**[The Bitcoin Income Strategy You Need to Know About](https://www.youtube.com/watch?v=TBNz9rnBRT0)**
 
-Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+Stacked ETFs. Get access to gold and bitcoin in one fund. What are they doing different and why does it matter?
 
-📺 Blockchain Backer
+📺 Income Architect
 
-👁️ 35K • 👍 3K • 💬 2 • ⏱️ 10:38 • 1d ago
+👁️ 5K • 👍 174 • 💬 18 • ⏱️ 32:51 • 1d ago
+
+---
+
+**[CRYPTO JUMPS: Bitcoin hits 3-month high](https://www.youtube.com/watch?v=IEdwapdqvJc)**
+
+Pathstone chief investment strategist Michael McGowan analyzes Snowflake's earnings-fueled rally and the broader technology ...
+
+📺 Fox Business Clips
+
+👁️ 11K • 👍 67 • 💬 101 • ⏱️ 3:22 • 1d ago
 
 ---
 
