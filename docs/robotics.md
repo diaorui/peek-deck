@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-04T23:46:39.863650+00:00'
+updated: '2026-09-05T03:18:39.971263+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 04, 2026 at 23:46 UTC  
+**Last Updated:** September 05, 2026 at 03:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 **[Current set-up. Any changes? Anything I should add?](https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -112,27 +112,29 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
 
-BBC • 21h ago
+bbc.com • 1d ago
 
 ---
 
-**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
+**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
 
-Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
+Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
 
-Interesting Engineering • 11h ago
+IEEE Spectrum • 11h ago
 
 ---
 
-**[Opinion | China’s robot revolution may not arrive in the way you expect](https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-South China Morning Post • 1d ago
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+
+ABC7 Chicago • 14h ago
 
 ---
 
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Signal Akron • 19h ago
+Signal Akron • 23h ago
 
 ---
 
@@ -144,11 +146,19 @@ GeekWire • 1d ago
 
 ---
 
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
+**[US robotics firm secures 100,000 GPUs to train next generation of humanoid robots](https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid)**
 
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training.
 
-ABC7 Chicago • 10h ago
+Interesting Engineering • 15h ago
+
+---
+
+**[China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)**
+
+The country is using its superpower of scaling and building supply chains to challenge the global industry
+
+ft.com • 3d ago
 
 ---
 
@@ -156,7 +166,7 @@ ABC7 Chicago • 10h ago
 
 Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
 
-nypost.com • 1d ago
+New York Post • 1d ago
 
 ---
 
@@ -168,19 +178,11 @@ MedTech Dive • 2d ago
 
 ---
 
-**[A robotics company will begin trading on the New York Stock Exchange Sept. 4](https://www.stocktitan.net/news/JFB/xtend-reality-expansion-ltd-and-jfb-construction-holdings-complete-csuw3w5mksdf.html)**
+**[Atascadero robotics team makes it to FIRST World Championship](https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship)**
 
-About $67.7M was delivered against a $60M minimum cash obligation, and the funds are expected to support working capital as the combined company operates publicly.
+At The Greybots’ build space in Atascadero, you’ll find Dustbowl — the robot that helped the student‑run robotics team qualify for the FIRST World Championship in Houston, Texas.
 
-Stock Titan • 1d ago
-
----
-
-**[Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)](https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth)**
-
-Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks—read before investing.
-
-Seeking Alpha • 1d ago
+KSBY News • 2d ago
 
 ---
 
@@ -194,7 +196,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 82K • 👍 380 • 💬 38 • ⏱️ 1:49 • 5d ago
+👁️ 83K • 👍 383 • 💬 39 • ⏱️ 1:49 • 5d ago
 
 ---
 
@@ -204,7 +206,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 254K • 👍 6K • 💬 506 • ⏱️ 15:41 • 2d ago
+👁️ 269K • 👍 6K • 💬 514 • ⏱️ 15:41 • 2d ago
 
 ---
 
@@ -214,17 +216,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 144K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
-
----
-
-**[Would you let a humanoid robot clean your home?](https://www.youtube.com/watch?v=Dzg2jnBCHh8)**
-
-These $30-an-hour humanoid robots are cleaning homes in San Francisco, tackling tasks like mopping floors, tidying rooms and ...
-
-📺 NBC News
-
-👁️ 39K • 👍 264 • 💬 100 • ⏱️ 6:47 • 6d ago
+👁️ 146K • 👍 1K • 💬 213 • ⏱️ 12:56 • 4d ago
 
 ---
 
@@ -244,7 +236,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 6K • 👍 84 • 💬 7 • ⏱️ 0:59 • 14h ago
+👁️ 6K • 👍 88 • 💬 7 • ⏱️ 0:59 • 18h ago
 
 ---
 
@@ -254,7 +246,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 AP Archive
 
-👁️ 123K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
+👁️ 124K • 👍 322 • 💬 201 • ⏱️ 0:53 • 5d ago
 
 ---
 
@@ -264,7 +256,7 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 Carros Show
 
-👁️ 44K • 👍 312 • 💬 39 • ⏱️ 19:36 • 4d ago
+👁️ 45K • 👍 322 • 💬 39 • ⏱️ 19:36 • 4d ago
 
 ---
 
@@ -284,7 +276,17 @@ A robot accidentally launched a trash bag into the wrong car, but the innocent g
 
 📺 Tum Tum
 
-👁️ 372K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
+👁️ 373K • 👍 2K • 💬 2 • ⏱️ 0:16 • 6d ago
+
+---
+
+**[When Robots Decide They’ve Had Enough 🤖💥](https://www.youtube.com/watch?v=CIWCk5a84rU)**
+
+From total fails and viral street moments to pure attitude, these humanoid robots are clearly done following protocol! Watch these ...
+
+📺 fastwit
+
+👁️ 1.0M • 👍 10K • 💬 29 • ⏱️ 1:01 • 6d ago
 
 ---
 

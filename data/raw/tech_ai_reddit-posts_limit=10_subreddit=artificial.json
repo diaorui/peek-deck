@@ -24,6 +24,17 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     },
     {
+      "title": "Why are more people not concerned about privacy?",
+      "author": "banica24",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+      "published": 1788574705.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
+    },
+    {
       "title": "Study: Generative AI is making writing on Reddit and elsewhere boring",
       "author": "SpiritRealistic8174",
       "url": "https://www.reddit.com/r/artificial/comments/1w7imfi/study_generative_ai_is_making_writing_on_reddit/",
@@ -46,17 +57,6 @@
       "description": "There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago. The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that LLMs don't actually \"understand\" anything; go read this: https://www.anthropic.com/research/tracing-thoughts-language-model) Imagine telling someone even 5 years ago that 10 research-level math problems would be solved by a single AI model. No one would've belived you. It's insane that these things work at all. I feel like if you told the average person on this subreddit 10 years ago that something like this would happen, almost no one would believe you. The Hugging Face incident literally sounds like science fiction. Agents coming together as a swarm, working together, and hacking companies? That is INSANE!! I could imagine that as the start of a science fiction novel, where AI takes over the world. The fact that you can run local models on almost any laptop, too, is pretty crazy. While they're usually not incredibly smart, you can easily have a conversation with them, have them research, etc. I feel nowadays AI has become so normalized (especially on the internet) that some of us forget how freaking insane these things are. Next time AI fails, you think of all that it can do, not what it can't."
     },
     {
-      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
-      "published": 1788549135.0,
-      "thumbnail": null,
-      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
-      "site_name": "theregister",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
-    },
-    {
       "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
       "author": "Chuka444",
       "url": "https://www.reddit.com/r/artificial/comments/1w7gdny/experiment_i_trained_a_model_on_childhood_photos/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I fine-tuned the good-old SDXL on 60 photographs from my childhood, using a limited family archive as the dataset through which to revisit that period of my life. Rather than reconstructing those images faithfully, the model produces unstable variations: spaces, faces and fragments that feel familiar without necessarily having existed. This speculative study treats generative hallucination as an analogue for recollection: not the retrieval of a preserved image, but the reconstruction of a past from incomplete traces. This resonates with contemporary accounts of episodic memory as a reconstructive rather than reproductive process. The model becomes a kind of externalized mnemonic apparatus, situated somewhere between archive, memory and imagination. Tools used: Kohya, WarpFusion, TouchDesigner, Premiere, After Effects, Ableton Live, Expressive Osmose, Soma Cosmos. PS: For those of you asking, this is not just \"a prompt\". It's the fine-tuning of the model, the creation of an audio-reactive geometry system in TouchDesigner, and the re-building of WarpFusion for intervining the geometries with the fine-tuned model. More experiments, project files, and tutorials, through YouTube, Instagram, Patreon, and Uisato Studio."
+    },
+    {
+      "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+      "published": 1788549135.0,
+      "thumbnail": null,
+      "external_url": "https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219",
+      "site_name": "theregister",
+      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
+      "description": "But investors hear CRM giant is now in 'refinement mode,' picking models more carefully"
     },
     {
       "title": "Why would you use an AI to write your replies on Reddit?",
@@ -90,27 +101,16 @@
       "description": "I don't understand these companies that are now using automatic AI replies to customer service emails. (e.g, I didn't like this product can I exchange it) Do they REALLY think that's going to solve an issue, and moreso make me want to come back/use their product? It's very similar to calling a restaurant or calling your doctor and going through an AI answering service. People hate this, everyone does. It's bizarre to me, that these businesses apparently believe customer service is not that important. To the contrary, your customer service is sometimes as important as the product. In some extent it IS the product. Ugh I hate this timeline."
     },
     {
-      "title": "OpenAI commits $1B to Daybreak support for frontline cyber defenders",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7enla/openai_commits_1b_to_daybreak_support_for/",
-      "published": 1788551006.0,
+      "title": "Are ai second brains and assistants useless now?",
+      "author": "nesquik-121",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants_useless_now/",
+      "published": 1788567964.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "OpenAI says it is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services. The plan starts in the United States and targets water and wastewater systems, electric grid operators, state and local governments, community banks, nonprofits, and open-source maintainers over the next six months. The first new partnership is a pilot with MS-ISAC for state, local, tribal, and territorial defenders. It pairs Daybreak access with guided training and hands-on help. The Register notes that credits alone do not fix legacy OT systems, staffing shortages, or the risk around automated changes. OpenAI also says Daybreak Blue and Red users will not get Astra on day one. The useful test is whether the support model helps smaller teams find and fix real weaknesses safely. Sources: OpenAI: https://openai.com/index/daybreak-for-frontline-defenders/ The Register: https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382"
-    },
-    {
-      "title": "ChatGPT, Claude and Grok Went Down Together: But How Did Gemini Avoid a Major Outage?",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w6j83r/chatgpt_claude_and_grok_went_down_together_but/",
-      "published": 1788467480.0,
-      "thumbnail": "https://external-preview.redd.it/bLZNDdLm4wvNsQbiBUYVAWmRSabwSx4TF3O1-pUv6Uk.png?width=640&crop=smart&auto=webp&s=53cf2d39ffc93fdda8394c8c725c7580a50dc108",
-      "external_url": "https://www.techtimes.co.uk/ai-platform-outages-cloud-infrastructure-vulnerabilities-1808572",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "On September 3 2026, AI platforms ChatGPT, Claude, and Grok experienced service disruptions, raising concerns about cloud infrastructure reliability and the concentration of AI workloads among major providers."
+      "description": "So I was planning to build an ai assistant powered by qwen and my obsidian notes, but since ChatGPT\u2019s astra ai , is there any point in making it anymore?"
     }
   ],
-  "fetched_at": "2026-09-04T23:46:15.426128+00:00"
+  "fetched_at": "2026-09-05T03:18:17.193641+00:00"
 }
