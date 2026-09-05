@@ -65,7 +65,7 @@
       "url": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
       "hn_url": "https://news.ycombinator.com/item?id=49570467",
       "author": "nosecreek",
-      "points": 16,
+      "points": 17,
       "num_comments": 2,
       "created_at": "2026-09-04T21:31:08Z",
       "object_id": "49570467",
@@ -73,51 +73,9 @@
       "description": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.",
       "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
       "site_name": "IGN"
-    },
-    {
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "hn_url": "https://news.ycombinator.com/item?id=49543530",
-      "author": "lloydarmbrust",
-      "points": 118,
-      "num_comments": 82,
-      "created_at": "2026-09-02T22:36:04Z",
-      "object_id": "49543530",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
-      "title": "Show HN: Claude's innerworkings: turn 170 costs 2.1x turn 20, over 14,640 turns",
-      "url": "https://news.ycombinator.com/item?id=49552931",
-      "hn_url": "https://news.ycombinator.com/item?id=49552931",
-      "author": "LordBron",
-      "points": 3,
-      "num_comments": 2,
-      "created_at": "2026-09-03T16:43:21Z",
-      "object_id": "49552931",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
-      "title": "Are we measuring AI coding ability wrong?",
-      "url": "https://bitbin.de/qualitative-benchmarks/",
-      "hn_url": "https://news.ycombinator.com/item?id=49563287",
-      "author": "stbenjam",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-09-04T11:46:32Z",
-      "object_id": "49563287",
-      "image": null,
-      "description": null,
-      "favicon": "https://bitbin.de/favicon.ico",
-      "site_name": "bitbin.de"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 5,
   "has_metadata": true,
-  "fetched_at": "2026-09-05T19:16:46.649614+00:00"
+  "fetched_at": "2026-09-05T21:31:39.547197+00:00"
 }
