@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-05T21:32:07.630390+00:00'
+updated: '2026-09-05T23:35:32.493242+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 21:32 UTC  
+**Last Updated:** September 05, 2026 at 23:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1603.51B
+**Market Cap:** $1602.62B
 Rank #1
 
 **Circulating Supply:** 20,080,162 BTC
@@ -64,7 +64,7 @@ Rank #1
 -36.7%
 
 **All-Time Low:** $67.81
-+117658.4%
++117599.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Homeless? Maybe, Bitcoin-less? Never.](https://www.reddit.com/r/Bitcoin/comments/1w7ugol/homeless_maybe_bitcoinless_never/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 It's really neat I'll put it in my home office on the desk.
 
-11h ago
+13h ago
 
 ---
 
@@ -95,13 +95,13 @@ It's really neat I'll put it in my home office on the desk.
 
 Thought it was pretty cool that they were accepting bitcoin!
 
-14h ago
+16h ago
 
 ---
 
 **[Slowly getting there!](https://www.reddit.com/r/Bitcoin/comments/1w7vt2t/slowly_getting_there/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -109,13 +109,13 @@ Thought it was pretty cool that they were accepting bitcoin!
 
 My Indian girlfriend lives in England at the moment for university. She receives money from her parents for tuition fees. She says she loses around 20% in fees, which for her £20k/ year fees adds up to a lot! Is there a way her parents can send her bitcoin? Basically it boils down to, can they buy bitcoin in fairly sizeable amounts in India without government restrictions? Thanks in advance folks
 
-10h ago
+13h ago
 
 ---
 
 **[It's really that simple.](https://www.reddit.com/r/Bitcoin/comments/1w7jn6n/its_really_that_simple/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -131,7 +131,7 @@ Very proud of my achievement despite our poverty and lack of public transport. W
 
 Bitcoin ETF inflows rose about 7% week over week, bringing three-week inflows to a 2026 high of $3.8 billion, while Ether and XRP ETF inflows dropped sharply.
 
-🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 8h ago
+🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 10h ago
 
 ---
 
@@ -159,19 +159,37 @@ Just wondering
 
 Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-Fortune • 1d ago
+fortune.com • 1d ago
 
 ---
 
 **[Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.](https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8)**
 
-Barron's • 1d ago
+barrons.com • 1d ago
 
 ---
 
-**[Bitcoin Market Analysis: Recent Trends and Macroeconomic Drivers](https://www.binance.com/en/square/post/363499851917109)**
+**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/video/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
 
-Binance • 2h ago
+Bitcoin mining ceased operations on Sept. 2.
+
+WNDU • 1h ago
+
+---
+
+**[Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast](https://finchannel.com/bitcoin-price-prediction-2030-what-wall-street-and-major-crypto-analysts-forecast/134446/crypto/2026/09/)**
+
+Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast
+
+finchannel • 39m ago
+
+---
+
+**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
+
+Bitcoin mining ceased operations on Sept. 2.
+
+WNDU • 1h ago
 
 ---
 
@@ -179,21 +197,13 @@ Binance • 2h ago
 
 One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center](https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/)**
+**[British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million](https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million)**
 
-After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center.
-
-WNDU • 19h ago
-
----
-
-**[How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders](https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market)**
-
-CoinDesk • 3h ago
+CoinDesk • 3d ago
 
 ---
 
@@ -209,19 +219,13 @@ Yahoo Finance • 1d ago
 
 The industry is a surprising top spender in the races.
 
-The Atlantic • 22h ago
+The Atlantic • 1d ago
 
 ---
 
 **[Trump Issues Serious Fed Warning As Bitcoin Braces For A Huge Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/05/trump-issues-serious-fed-warning-as-bitcoin-braces-for-a-huge-price-shock/)**
 
-Forbes • 8h ago
-
----
-
-**[Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184)**
-
-Investing.com • 11h ago
+Forbes • 10h ago
 
 ---
 
@@ -239,7 +243,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 1d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 2d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -277,7 +281,7 @@ Bitcoin just posted its highest close in four months, up nearly $20000 in 20 day
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 98 • ⏱️ 14:58 • 22h ago
+👁️ 33K • 👍 2K • 💬 102 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -287,7 +291,7 @@ Bitcoin is about to EXPLODE in September!? 5 Crypto Coins will 10x in 30 Days!? 
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 218 • ⏱️ 10:11 • 1d ago
+👁️ 68K • 👍 3K • 💬 218 • ⏱️ 10:11 • 2d ago
 
 ---
 
@@ -297,17 +301,17 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 2K • 💬 172 • ⏱️ 15:19 • 1d ago
+👁️ 58K • 👍 2K • 💬 173 • ⏱️ 15:19 • 2d ago
 
 ---
 
-**[Will Bitcoin Hit $150K This Year?](https://www.youtube.com/watch?v=6HSNPJVbJRc)**
+**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
 
-A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Altcoin Daily
+📺 Anthony Pompliano
 
-👁️ 11K • 👍 252 • 💬 7 • ⏱️ 1:09 • 1d ago
+👁️ 103K • 👍 3K • 💬 102 • ⏱️ 55:09 • 10h ago
 
 ---
 
@@ -317,7 +321,17 @@ Ben Cowen called last year's cycle top almost to the week, live on this show. No
 
 📺 Kyle Chasse crypto
 
-👁️ 62K • 👍 1K • 💬 279 • ⏱️ 57:03 • 1d ago
+👁️ 65K • 👍 1K • 💬 301 • ⏱️ 57:03 • 1d ago
+
+---
+
+**[Will Bitcoin Hit $150K This Year?](https://www.youtube.com/watch?v=6HSNPJVbJRc)**
+
+A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 255 • 💬 7 • ⏱️ 1:09 • 1d ago
 
 ---
 
@@ -327,7 +341,7 @@ Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this 
 
 📺 Bitcoin University
 
-👁️ 24K • 👍 1K • 💬 519 • ⏱️ 7:52 • 2d ago
+👁️ 24K • 👍 1K • 💬 520 • ⏱️ 7:52 • 2d ago
 
 ---
 
@@ -341,33 +355,23 @@ Bitcoin breaks $80000 — is this a trap or the start of a real rally? Trade alo
 
 ---
 
+**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
+
+Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
+
+📺 Swan Bitcoin
+
+👁️ 24K • 👍 792 • 💬 91 • ⏱️ 13:01 • 2d ago
+
+---
+
 **[Robinhood Just Created Crypto&#39;s BIGGEST Bull Market](https://www.youtube.com/watch?v=jjF_TBYh31I)**
 
 Robinhood just made a move that could front run the entire crypto bull market cycle and most retail traders are sleeping on it.
 
 📺 Crypto Banter
 
-👁️ 63K • 👍 3K • 💬 59 • ⏱️ 35:09 • 2d ago
-
----
-
-**[Bitcoin RIPPED 22% While Stocks Went Nowhere - Is Something Breaking?](https://www.youtube.com/watch?v=aFHBwzb825E)**
-
-Bitcoin #Crypto #finance Bitcoin is starting to trade more like gold than stocks, with its correlation to gold hitting a six-year high as ...
-
-📺 The Wolf Of All Streets
-
-👁️ 16K • 👍 412 • 💬 170 • ⏱️ 48:09 • 1d ago
-
----
-
-**[Crypto Scam](https://www.youtube.com/watch?v=QiKBhS3jzFU)**
-
-Writer: Kyler Himes Editor: Catlin Stevenson Music by: @UFD-Music Oh okay, so we all collectively just kinda learned nothing ...
-
-📺 UFD Tech
-
-👁️ 32K • 👍 2K • 💬 53 • ⏱️ 0:54 • 1d ago
+👁️ 64K • 👍 3K • 💬 59 • ⏱️ 35:09 • 2d ago
 
 ---
 
