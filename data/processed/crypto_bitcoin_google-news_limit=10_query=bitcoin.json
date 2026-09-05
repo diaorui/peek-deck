@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFVqNWRIZzlyV205Q3Z0TWRHOXVaMGItVmJScGdfSmVyYW41TFRZQmRBTXRWX3BZbFZYZUpnN0ZBVjNxSVdpTUN1ekJYV3RTSGxCLU1PUm4xaF9lNnA0bFFPV0pqUTJZY0dHcXUyTG50SGVDQ2hrYmhlX3JCNVU3QUdyTi1YQnJxVHA3c3BsaEo0UDNXSkVqeEFaMnhieW16WnhjLWpxWVJZMnVqZDBYS2ZXWm5yVjZMSHhhN2tjMWhxSHgyY29oVFF5NGN2djRUQkNVWEJxcHpPYTRM?oc=5",
       "pub_date": 1788553740.0,
@@ -16,7 +16,7 @@
     },
     {
       "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
-      "source": "Barron's",
+      "source": "barrons.com",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
       "pub_date": 1788529500.0,
@@ -25,14 +25,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Market Analysis: Recent Trends and Macroeconomic Drivers",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01aVhBRXJqXzk4Y2FwcnJWYUNOYUR3T280dFZESHhrY2IwLXVyUU1pbTRfUW1WZmR4VTdRUENyNDJkem9PX3NscDFjZUZFSlVwY1dOODFXeTdIUG0xRVhFUWtpamo?oc=5",
-      "pub_date": 1788636281.0,
-      "article_url": "https://www.binance.com/en/square/post/363499851917109",
-      "image": null,
-      "description": null
+      "headline": "Hyperscale Data Center in Dowagiac stops bitcoin mining operations",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW1hVXlGQVNaUjY5OWFlelQwX3FYVU5ZQ0pOempUSGJmOHNVajd5ZEwzUDljZWprMmxuMnZpREdTdnJSekdwSlc4aV9CeEVRZHRXREozWTgtVnNmUlYxTEozWFRRWDRUWWxTejFFZXVxNVJ5OTJTcVN5Q041b1JUa1Q4UXNBMzQzUXBHc3NSNzlFWGVxdHJ6NG81aXlYNTRlQS1UYQ?oc=5",
+      "pub_date": 1788646980.0,
+      "article_url": "https://www.wndu.com/video/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-05-2026%2Ft_7a99f9e9ebad4a619c928cdb29af655f_name_file_1280x720_2000_v3_1_.jpg?auth=d7ee84619f4dca1389b02dcc8e165bb351ffbf09280e135f972a1d0dcf008afb&width=1200&height=600&smart=true",
+      "description": "Bitcoin mining ceased operations on Sept. 2."
+    },
+    {
+      "headline": "Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast",
+      "source": "finchannel",
+      "source_url": "https://finchannel.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFd0Y2N6bHRvbHhNMVVkV3d0M0s3ZzNjb2JBY3BKUUN5YUZMWjhybGJtcU5IMnp4Y2w5VExBVUxkWWo4dC1EUHNUN3FsRFdFekxKSEc2TmZ1WDlreVM0OGk2NTBHMDhjc3FJcWR0bjVUN0dqeDJGY1RFMzJ4Y1M2anp1Y0J1T0RsT0N4RVozbkcybGFrMkptU2Jhbk9xRWlFN2pOcVkwYXBHeEo0c1NrWVVPOGJfRlBackpONWtPd09PeWc2TUE?oc=5",
+      "pub_date": 1788648986.0,
+      "article_url": "https://finchannel.com/bitcoin-price-prediction-2030-what-wall-street-and-major-crypto-analysts-forecast/134446/crypto/2026/09/",
+      "image": "https://finchannel.com/wp-content/uploads/2026/01/bitcoin-dollars.jpeg",
+      "description": "Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast"
+    },
+    {
+      "headline": "Hyperscale Data Center in Dowagiac stops bitcoin mining operations",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnI?oc=5",
+      "pub_date": 1788646980.0,
+      "article_url": "https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/G3TH5UECYRH6NLHFPLKFZYXN6E.png?auth=8d038e9d7e6ec81eea37503ccc49127c0bfbe6546cebfad3497e3c1543530f89&width=1200&height=600&smart=true",
+      "description": "Bitcoin mining ceased operations on Sept. 2."
     },
     {
       "headline": "Michael Saylor's Strategy Continues to Sell Bitcoin. That's Why I'm Doubling Down on Bitcoin Right Now.",
@@ -45,22 +65,12 @@
       "description": "One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things."
     },
     {
-      "headline": "Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center",
-      "source": "WNDU",
-      "source_url": "https://www.wndu.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhETVFpaHdXdHdoNVFiMDBHekpLTnRvN3B5eGV1SEtmRmUyb0p6Z1YweGYzdlZjMTMtcDMzcjFnbi1EWmJYSE5XXzJCM0w4bVAzcmdHVFlWeE9ieFQydm9GbnkxRk1tTmVqMzQ4dlpmZTdWSmdabzhidGJKUEdTSnBVSWxWUWR1eVR6TmZSRlBEdzU1elYtb2RYQ1lEc3MxNTVQYnZvUdIBuwFBVV95cUxOck1wVHZ0MFlpWFJqRWg5anJhdGppbHRMaTZ0T09Ub0dvYmMzdjA5Y1RISTI4cTJjNGJFSEJZRmhKVGlkZ3c2LUdkbU9WRFN2YkZtUEhlY09iLWxub3hXdERpekJVSVF1cC1xNVZYNkF2aHZ1YldqUmxUcXlQUDlmVW80SHBaVVdIZkJMZHJXWGtRbTFQMWFwaDhHSDc5UGdtazZTdVB2dTV5NDRtaHR2OVNkRlZ6V2gtb000?oc=5",
-      "pub_date": 1788575460.0,
-      "article_url": "https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/",
-      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/INORYVBM75C7PNCI26S2MO34NI.jpg?auth=4699000263dc8c01076808b64fbe1cb1163c10a9adefa2fa738087d9f6478ddf&width=1200&height=600&smart=true",
-      "description": "After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center."
-    },
-    {
-      "headline": "How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders",
+      "headline": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjNQVF9uQ2M2bEoyMFNCcTdKTFVkUGI0d1hvdlFJMjNmSmpIU0FyY19VS0NLWmZkVmVQd3ZLRnBuOVZ3OF9pYXExM3ZCekNxVmd2bDk2bFVWSGFUeF84YWFjMGowUDE1enNMdUVzT29TakIyZmhiUlJrY3FWMGh0dlNWS2tZUXdRZldxNkV5MlZtb2JId1ZaMnUyeGR5enJaM0hjWENlYkEteWtDZ0l0WU9BeEpfbjFjNmVuaVN0emFjWkdFRXdMeDhtX2U?oc=5",
-      "pub_date": 1788631511.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWJheFBaQnYxcnlFZmRIOUZleHhJYXh0VjJQc1RPQXIzYW5nSDQ0UjZULWh3UzJfTnJPNlBJT09mWUhEUzUxXzEtSzB0ZlJ1QmF2eWpJZkNjTmlxcmpKU0xCLWllSlVGb2hDdW1DVXdWdWYtNzhaemg0Q0czZTltdkZ4ZXJOUWI4VFZleWxqMTgzTUR5bUExTVhZSzNHcW1UcEhoVzI1eHVlZGlXRVdybGM2dEZLS3E5VlBOMmc4a2p6bGx4WG50WTZCVzZ3OWw0em4wTQ?oc=5",
+      "pub_date": 1788332400.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/05/trump-issues-serious-fed-warning-as-bitcoin-braces-for-a-huge-price-shock/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGVnMzZTT3d3X2tDM1Y5WEZuYktWR29VR1JsbUdfWS1RQXFjRjBMLUg4QjRQTkFTQllBMUMyaHhEa0pKaUctSHlfRlB6UW52cS1nNkdDY01aa2t3UTdGRTBGb29EZUhuQWpyRldQRDFQbi1rdHMtemN6MlVGVWFlUC1PWnVBYjFvR1ZnT0JLV0dCSy1MQkwwUnQxQ1lrM0tDX0Zfek1oRlQyR252UUFTcGdFSUJyMjctWklOWV9XMklrUTFWOGRiODZzUVVJXzRu?oc=5",
-      "pub_date": 1788600972.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T21:32:06.058436+00:00"
+  "fetched_at": "2026-09-05T23:35:26.201419+00:00"
 }

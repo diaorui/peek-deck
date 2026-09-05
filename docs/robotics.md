@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T21:32:07.638834+00:00'
+updated: '2026-09-05T23:35:32.501589+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 21:32 UTC  
+**Last Updated:** September 05, 2026 at 23:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -108,27 +108,11 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
+**[Humanoid Robots and China’s Vision of the Future](https://thediplomat.com/2026/09/humanoid-robots-and-chinas-vision-of-the-future/)**
 
-/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
+China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
 
-PR Newswire • 2d ago
-
----
-
-**[XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/)**
-
-The round is being raised just months after the robot data startup exited from stealth.
-
-techcrunch.com • 21h ago
-
----
-
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
-
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-BBC • 1d ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 ---
 
@@ -146,17 +130,25 @@ WSJ • 2d ago
 
 ---
 
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
 
-Signal Akron • 1d ago
+/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
+
+PR Newswire • 2d ago
 
 ---
 
-**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
-Remote-control robot bugs could deliver lifesaving aid to disaster victims
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
 
-IEEE Spectrum • 8h ago
+BBC • 1d ago
+
+---
+
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+
+signalakron.org • 1d ago
 
 ---
 
@@ -164,7 +156,7 @@ IEEE Spectrum • 8h ago
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-abc7chicago.com • 1d ago
+ABC7 Chicago • 1d ago
 
 ---
 
@@ -172,15 +164,23 @@ abc7chicago.com • 1d ago
 
 Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-Futurism • 11h ago
+Futurism • 13h ago
 
 ---
 
-**[America’s biggest military shipbuilder taps robotics to build Navy warships faster](https://interestingengineering.com/military/americas-biggest-military-shipbuilder)**
+**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
 
-HII is targeting a 15% increase in shipyard throughput through workforce, infrastructure and physical AI investments.
+The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
 
-Interesting Engineering • 8h ago
+GeekWire • 2d ago
+
+---
+
+**[Humans, robots at work inside Amazon's new Loveland fulfillment center](https://www.coloradoan.com/picture-gallery/money/business/2026/09/04/humans-robots-at-work-inside-amazons-new-loveland-fulfillment-center/91616845007/)**
+
+See inside Amazon's new robotics fulfillment center, which quietly opened in Loveland in July 2026.
+
+The Coloradoan • 1d ago
 
 ---
 
@@ -194,37 +194,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 73K • 👍 596 • 💬 128 • ⏱️ 9:07 • 2d ago
-
----
-
-**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
-
-Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
-
-📺 TESLA CAR WORLD
-
-👁️ 151K • 👍 1K • 💬 221 • ⏱️ 12:56 • 5d ago
-
----
-
-**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
-
-Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
-
-📺 CNET
-
-👁️ 88K • 👍 395 • 💬 40 • ⏱️ 1:49 • 6d ago
-
----
-
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
-
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
-
-📺 bycloud
-
-👁️ 346K • 👍 7K • 💬 574 • ⏱️ 15:41 • 3d ago
+👁️ 73K • 👍 597 • 💬 129 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -234,27 +204,47 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 170K • 👍 1K • 💬 426 • ⏱️ 1:44 • 1d ago
+👁️ 177K • 👍 1K • 💬 439 • ⏱️ 1:44 • 2d ago
 
 ---
 
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+**[WILDEST Highlights From China&#39;s Humanoid Robot Olympics](https://www.youtube.com/watch?v=Jjrqx1PAG70)**
 
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+Check out the highlights of the second annual World Humanoid Robot Games in Beijing. Read more about it on CNET.com ...
 
-📺 BI️ Studio of Emotional Intelligence 
+📺 CNET
 
-👁️ 198K • 👍 2K • 💬 123 • ⏱️ 0:58 • 3d ago
+👁️ 89K • 👍 396 • 💬 40 • ⏱️ 1:49 • 6d ago
 
 ---
 
-**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
 
-A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
 
-📺 Curiosity Loop
+📺 TESLA CAR WORLD
 
-👁️ 365K • 👍 14K • 💬 35 • ⏱️ 0:19 • 2d ago
+👁️ 152K • 👍 1K • 💬 221 • ⏱️ 12:56 • 5d ago
+
+---
+
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+
+📺 bycloud
+
+👁️ 356K • 👍 7K • 💬 579 • ⏱️ 15:41 • 3d ago
+
+---
+
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+
+📺 South China Morning Post
+
+👁️ 135K • 👍 1K • 💬 329 • ⏱️ 3:47 • 2d ago
 
 ---
 
@@ -268,23 +258,33 @@ A concept imagining how advanced robotics could assist pilgrims in need at the H
 
 ---
 
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
 
-📺 South China Morning Post
+📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 132K • 👍 1K • 💬 323 • ⏱️ 3:47 • 2d ago
+👁️ 201K • 👍 2K • 💬 126 • ⏱️ 0:58 • 3d ago
 
 ---
 
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
 
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
 
-📺 AP Archive
+📺 Curiosity Loop
 
-👁️ 124K • 👍 324 • 💬 201 • ⏱️ 0:53 • 6d ago
+👁️ 370K • 👍 14K • 💬 36 • ⏱️ 0:19 • 2d ago
+
+---
+
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 46K • 👍 331 • 💬 39 • ⏱️ 19:36 • 5d ago
 
 ---
 
