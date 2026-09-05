@@ -5,44 +5,74 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdG5Ba1gtQVQ2WVJPN3dsLS05eVpQdkhtTGJmU0Nld1FtSW81UWpiMzExTEJXakpNcFBkVzFpeTROZFRuUW51WWg5RXBBVlp4SzFlRDk2ejk4TXQ3aXBZcE5veS16c1hkc3dkYWF4eG5XeTJFbEM2WkZibmdrTjdpbXAzMUFUR1pRYkFONkVlX1NLUWJjVlNMZHc1RTZMNkF0VkloVnpnWXZ5eDdGVjZWVEVzcDJ2ZjNMMFlvWQ?oc=5",
-      "pub_date": 1788553141.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-just-failed-after-a-blowout-jobs-report-100000584.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
-      "description": "Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward."
+      "headline": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFVqNWRIZzlyV205Q3Z0TWRHOXVaMGItVmJScGdfSmVyYW41TFRZQmRBTXRWX3BZbFZYZUpnN0ZBVjNxSVdpTUN1ekJYV3RTSGxCLU1PUm4xaF9lNnA0bFFPV0pqUTJZY0dHcXUyTG50SGVDQ2hrYmhlX3JCNVU3QUdyTi1YQnJxVHA3c3BsaEo0UDNXSkVqeEFaMnhieW16WnhjLWpxWVJZMnVqZDBYS2ZXWm5yVjZMSHhhN2tjMWhxSHgyY29oVFF5NGN2djRUQkNVWEJxcHpPYTRM?oc=5",
+      "pub_date": 1788553740.0,
+      "article_url": "https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291864174-e1788552788603.jpg?resize=1200,600",
+      "description": "Some analysts warn the four-year cycle set to complete later this year could bring another downslide."
     },
     {
-      "headline": "MicroStrategy Drops $250 Bitcoin Jordans. But You Can\u2019t Buy With Crypto",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTc1Z3hiX1BxNFpwRDY5UFJab216R3l1VlNtbWU2ZllURDREdnU3MlJKazgzZ2kyS2E3eXVCV3gxZ1B1WHd1a3hIb0RIWGhIeVFLOTh2MFFzZWlSU190dEJtQU91RXRaa0FDc0RUeHpqTnhNc1pWTXdKUk1EcmU4U2htZTNMWG1lYVN0d3JQQ0l4VnlSbW45bzlXM1c5aDlvUmpuT0dWaw?oc=5",
-      "pub_date": 1788604896.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-drops-250-bitcoin-jordans-104136203.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
-      "description": "MicroStrategy now sells $250 Bitcoin Jordans. Nike stock has lost almost half its value in a year. Can crypto fans help?"
+      "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
+      "pub_date": 1788529500.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin Drops Below $80K After Strong Jobs Data, ETF Inflows Collapse 76% In A Day",
+      "headline": "History Says That Bitcoin Is an Unbelievable Bargain Right Now",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXN1SkdZU2M1Z3BjeURyb2JXZWZZUUVPWFFKMXBfTXJVOEZvd1hEWjJ6QTk5a3FKN3dpWG4zUG1ybkdtdUFucVFET0hvUWhXMjFKb01ITGE1dnM2NE1aMnJSZlZpR2luLWFZQVh2VVV6RDY3eFMxWW1VeTBtSERrNnRnTWV0emZScE9yVDNDWmlZWi0zY0FZcml4Zw?oc=5",
-      "pub_date": 1788605524.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-80k-strong-105204181.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fa28826ff1480a8796e6a089e53d1261713b0d921124bb345c52196852d4fef5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2dbfaa4c1d6f0553b496a0080e8de918.jpg",
-      "description": "Bank of America flagged September 11 CPI as the more decisive signal for the Fed rate path, Bitunix analysts said."
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXZYdS12aTJTS2tzMlI5ems4TVNyMkZpQXA2LTNPbFd5U0pxUjRoT1FIZjZNS3FadVpYd1NZdU1fZmtpNGEtTW9zLVJsNmNMOWtOUktFZGx5RnBSMGJuN2gwWFU3MGljU25BWGZLU3Q2cHhubHhHal9ieWpzSzF5S21IMmxxWlNyUEhvQVRTUFdkc3ltSjJ2NXBPZHpPNlV0Z0dWelRRcXgyZw?oc=5",
+      "pub_date": 1788612600.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/history-says-bitcoin-unbelievable-bargain-125000098.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b0ad5e31750ffe6d46a49b3002b7a04fbf6b0a3c18d4a1a6a2845143871e7af4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ff81f57eb4ea89d9b0b345326b225aa90.jpg",
+      "description": "Multiple signals suggest that Bitcoin's price is unusually low."
     },
     {
-      "headline": "Michael Saylor's Strategy Continues to Sell Bitcoin. That's Why I'm Doubling Down on Bitcoin Right Now.",
+      "headline": "Bitcoin\u2019s \u2018Coiled Spring\u2019 Setup Has Economist James Thorne Bullish On The \u2018Next Big Trade\u2019",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWg2YlItckFCRW5CZ2lRWi1xVE5aU1ppVkd2Qm9zdWxwNGhOMnlYTGFJVWVnX29RRGNLQTlEMnlJRVB0bEpCM0l6MUVuZ245eGZ6a3haUm0tVHZEalZoZ0U4cENBMU5xcnV5OGo4WnNyeklHcEltRmxoMHpIN2x1WTh1cmIxZklSNTVHV1JQVnpQTGcyYTVKYU9xX0lMRlNTb1JGeXlrQQ?oc=5",
-      "pub_date": 1788603120.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-continues-sell-101200631.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/037cdaa41fd75553c16299c550cf129ee296b4613ec1f1ff52f2e1ef75ac2e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F34133500b597588ca0e3b615a08d66f5.jpg",
-      "description": "One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things."
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1diNmtWUDlxbTZpNGpRRzNMOGJPVUpTaUtsZXVZR04xanpkSHo3UG1LU3FheElJZVptUFNfcGhjOTUzcDd5Vi1LajhnTkVsTlZMT1FaaV9tTXU3anRHMlhIT05DdXNlakJaUkVvaEozX2J3QWloTU1uQ0RUb09zeERhY1FDakRxaGctN2N1N1BEV1hzUzZzOXp4X2c3RUoxUlk2bg?oc=5",
+      "pub_date": 1788616936.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-coiled-spring-setup-economist-140216603.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d626fbef40c65980b781b3ec8bddd9da57e624e6fae13d2541f10de7de1dd102/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F0c10a691b0fab5b7ff324e1638339cf5.jpg",
+      "description": "Economist James Thorne said his risk capital was in Bitcoin, though he flagged that a socialist-aligned Congress after the 2026 midterms could change his bullish thesis."
+    },
+    {
+      "headline": "Bitcoin Just Exploded 40% From Its July Low \u2014 Is $100,000 Back on the Table?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVk5Y0IzUzhXTFNlM1k0bnhrU3E4Ml84LXJFS1NydVlfTmhxQi1RTlVPdk9lS1J3eUdUNmh2eUJ4Rm1Wd3JZdk5BZ090clQ1V0lfN2d2Y2ZuY1hLM3BmNUJkd2FfTVdsaWlsVkdMT1hDZmRRUnFjMV93RlBkMy1sSC0xYkRyeHo5WnNfX2pXaUJubm9mOFpTUnFB?oc=5",
+      "pub_date": 1788616997.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5300c462c2358877ce4f238c0ee3c29466405ad504d656b2dd80d3b6ff091580/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4dc3e5404e8ad8c52c8d8ac0fc773503.jpg",
+      "description": "Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast."
+    },
+    {
+      "headline": "Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhETVFpaHdXdHdoNVFiMDBHekpLTnRvN3B5eGV1SEtmRmUyb0p6Z1YweGYzdlZjMTMtcDMzcjFnbi1EWmJYSE5XXzJCM0w4bVAzcmdHVFlWeE9ieFQydm9GbnkxRk1tTmVqMzQ4dlpmZTdWSmdabzhidGJKUEdTSnBVSWxWUWR1eVR6TmZSRlBEdzU1elYtb2RYQ1lEc3MxNTVQYnZvUdIBuwFBVV95cUxOck1wVHZ0MFlpWFJqRWg5anJhdGppbHRMaTZ0T09Ub0dvYmMzdjA5Y1RISTI4cTJjNGJFSEJZRmhKVGlkZ3c2LUdkbU9WRFN2YkZtUEhlY09iLWxub3hXdERpekJVSVF1cC1xNVZYNkF2aHZ1YldqUmxUcXlQUDlmVW80SHBaVVdIZkJMZHJXWGtRbTFQMWFwaDhHSDc5UGdtazZTdVB2dTV5NDRtaHR2OVNkRlZ6V2gtb000?oc=5",
+      "pub_date": 1788575460.0,
+      "article_url": "https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/INORYVBM75C7PNCI26S2MO34NI.jpg?auth=4699000263dc8c01076808b64fbe1cb1163c10a9adefa2fa738087d9f6478ddf&width=1200&height=600&smart=true",
+      "description": "After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center."
+    },
+    {
+      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
+      "pub_date": 1788524240.0,
+      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
     },
     {
       "headline": "Crypto Money Still Matters for the Midterms",
@@ -55,12 +85,12 @@
       "description": "The industry is a surprising top spender in the races."
     },
     {
-      "headline": "Bitcoin news: 1 BTC buys 18 ounces of gold as prices rise to $81,000",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnFWVzlIV21EdkllaFJhRHYwX25QM2pMcEZZMTc3LVVjWEpTaEIxV1gzal9NYWdRWkVxSEVWVW1DWWp4MzlMTnN3TzZ1aXNuLVYwWVhIWW5FVUtnWUVyOGxSM3RIUFZ0UW1HOHdpSGZ4TGdiVFRSd2s2cmtwN2FaUzZ5cFd0dzA0enRrWl9sX0Zwazl6THFIUlpaaFI2blkybVl4S3ZqX1pIWloyaWowVHNZcFdRUXgtUERGR0lDazFGb3ROa0g4YQ?oc=5",
-      "pub_date": 1788516561.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+      "headline": "Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW40amQ5Y21mTHU2NzY5Z3BKV1hKZVpaeGthd3hwZ2JNa0ltajNUN1VyX0VOOFY5Q193TzN6Qkx2Y1RJVEViTFdXWGJYanYtdmthel9RWWZkUVdPSlJneWsxRExUSnFXTmpKYWZQSWFueTNfb1A1T2tkc25URTVPS3V6UUI5UUJFbHJKLU9yM1J0a1JmSllrR2xKcm4xVDdadzdHTnY5d3pGV3VueEx6eXBLdWI?oc=5",
+      "pub_date": 1788528650.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets",
       "image": null,
       "description": null
     },
@@ -73,38 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/09/05/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885500%2Fdigital-market-bitcoin.jpg&w=1200&op=resize",
       "description": "Bitcoin has a unique combination of upside potential and downside protection."
-    },
-    {
-      "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkx1c182c0xxWEJ6b1BnMkN5NXNEcllaSnZvUnBnX1paS3RVTWxsRHJZdklUNnJQU3hsZUVrZ3QxeGk3LWRuN1BfLWVCMkpCYm81YzlPSmhaV0FoQjFUc2VuX2xlcXpDd3VVUFRXMFU0WkVIZGVjRDIxWVg2alhoTnpmN0FyNUotVTZwS28tUjQyR3dNSnhZNlpBZGR6NHBFSlJpamljeC1XbWZYQnJhaWozcnM3QmZsXzJnTkI0RS1XbzJvUVY1SVd4Y2FMS0tQRGh1WkhsMkNoQQ?oc=5",
-      "pub_date": 1788521326.0,
-      "article_url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-      "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
-      "description": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations."
-    },
-    {
-      "headline": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWjU1aUNsTGdhRDBaUjl5MW82cVhIV2xUSklkTkppWDhLUTYwZ2tvc3JOTUNETDd2NkphQ1FsNUVMMnJXUUstYzRlcHl2aTlUdUJsTTZ3UFQ5ZVZ5QlFTUlphMGxhbVh4WHFPallpYVdnYjEySW5pNlR3bHRIZmQySzdGb2loOHBCRTVyTGo2cWlNVUFoZUp0QWZjVW4tQWtUUTc0ZFdqMm1kcnhJTHV3X0I2cjVNZmp3TFd6VktkTFhnU01feGVyS1EyUm8wcGYx?oc=5",
-      "pub_date": 1788515235.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "IMF confirms El Salvador used no public funds for Bitcoin since June 2025",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2YtX1FraW9Cb3RlZDhkeGlZTk5VQndwS2swVTc0cmpJbDdEa0U2N3JxdWxEUTFSU2p1SUE4eWo0T1daX3FUZVZGSkxtZTliX2N0STVDbWQzb0ZjQW9RSm5KWlotbl8tRG5WMXJpemE0cHB0T3dmanp2Uzk2MHNOSUpIa0EydkF4Q0cxd3hKXzc1bkpwYmoxenF3THBXbDZzd3lPNU40ZjN5Smx5UjFCZ2pOZEZaenV4aG9iVllYVzJBRGY3UzgtN1ZlQ3hmTmx2dlFyNA?oc=5",
-      "pub_date": 1788521571.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:6f67bdda6094b:0-imf-confirms-el-salvador-used-no-public-funds-for-bitcoin-since-june-2025/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The International Monetary Fund has officially verified that every Bitcoin purchased by El Salvador since June 27, 2025, was funded entirely through private donations, with zero public resources tapped for crypto accumulation. The confirmation came on September 3 as part of a staff-level agreement\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T11:41:28.515729+00:00"
+  "fetched_at": "2026-09-05T14:43:16.221975+00:00"
 }
