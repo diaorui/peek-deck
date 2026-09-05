@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3dnbjdjLURCNGxDblVBSC1TLW03VDJEYTZWT09BZVM2VDJjc1J6NEp3a25qOHhTdUd5RW9xd2VlZ2l0LVFmeGdDdE45WmR5ZEF4c0llLTcxem9oYVQ3U0JKaXYwZGI2WGJtWkQyUU9CcXBjS1V3QTFXYldPcVM4MjRHRWVjaFFnSEhmcjVMdkF3M3M4YkZmazk4ZW1NQ3U0cVBN?oc=5",
-      "pub_date": 1788620039.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-names-robinhood-145359352.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d545be781dfbf92ccec92190d1c3042db5ed3109ef8a419771f46aadf59a5a16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F5ebe8c19cda6d3d7c7f00e523605d075",
-      "description": "Bitwise CIO envisions tokenization spreading beyond crypto into a possible $500 trillion asset market."
-    },
-    {
       "headline": "Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000\u2014Here\u2019s What You Need to Know",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -45,18 +35,18 @@
       "description": "Ethereum price has recovered sharply over the past few days, but the rally has not yet produced the swing the bulls are waiting for. It climbed back above $2,500 after gaining nearly 5%, while the Bitcoin price moved above $82,000 as institutional demand returned to the crypto market. The divergenc\u2026"
     },
     {
-      "headline": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
+      "headline": "Where Will Solana Be in 5 Years?",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS19CV2tVWmFDUjB6RG03cWg4UFFOSGZLSTdKN3BZYV9Ca1Y1WE9uS0tCaVJtQU5XeUh3RzFWQnpHSFB1WngxRTltTmVjbzJwRWZteEllb3RvOEg2QWpiNzRvYnNwZmJHZ201dXNnYTBpUjRwYkJIZUZBOTFQRlYtMHpMSXQ2QUlDZjRUaFRSa1ZSVWhrbWQ5Rw?oc=5",
-      "pub_date": 1788606000.0,
-      "article_url": "https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886042%2Fethereum-and-robinhood-logo.png&w=1200&op=resize",
-      "description": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum."
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
+      "pub_date": 1788573420.0,
+      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
+      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
     },
     {
       "headline": "Current price of Ethereum for September 4, 2026",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMFNIWmQ5YlloaDFRVk81azNLem9RUlBYVEZlUnNhQ1FCaTIycWNiQUg4bUJ2VU91bWdPN2l4V1FmY3gxNy02NFlFV0pMa3VSdUl0R2ZqaV9MWUtkVmxnRDJ2VDFZYWk0?oc=5",
       "pub_date": 1788526800.0,
@@ -86,7 +76,7 @@
     },
     {
       "headline": "Robinhood Chain keeps blocks flowing despite 14-minute blob gap on Ethereum",
-      "source": "cryptobriefing.com",
+      "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aQk9wZURpTGJlbk9MR3RNbnFwUVl2Z041Q2hMMklWTGNTRUhfMm10Wi10cUVydmlRVWVVRVgteE5WQV9meTU0MDRlRWxTVmtuSTVSeUdFbTRYcmJLOXpuWUx5SjZ1XzdnZGxmSG85ZFRwc1JvS1JTbVRUUGs?oc=5",
       "pub_date": 1788557068.0,
@@ -95,16 +85,26 @@
       "description": "Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks."
     },
     {
-      "headline": "CoinShares Adds Bitcoin and Ethereum ETNs to Hargreaves Lansdown",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzdCeGRnVnBfZ1pVemJRN0JVSHRTV0lLemhlRnIyaTRwOEpzX3ZsRjBlUUQydTljellRV3JKaFY0aGl2TjRTalZvNldMbGJtS2pST3ZfZUJ1N09NZFFaWjBlWHBLZU5LSUxpUE01cXBxYVdKR3lsTUNnU191NllsTGt2SE5ha0Z1YnhxYS1yUl9tOF9t?oc=5",
-      "pub_date": 1788536743.0,
-      "article_url": "https://financefeeds.com/coinshares-adds-bitcoin-and-ethereum-etns-to-hargreaves-lansdown/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/09/hargreaves-lansdown.avif",
-      "description": "CoinShares' BITC and ETHE are now on Hargreaves Lansdown, reaching about 2 million retail investors. BITC charges 0.15%; ETHE lists a 0.00% fee."
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Plunge 2% as Jobs Report Spurs Rate Hike Bets",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMFRORHB1VEtKR3Jzb2JuQWpRTXFUVVhjWlFydGc0d2M0MW5uWDg3SFFLc0VFTm50cUhmcTMydlU1VFM0V05OX0F4SE1ZRUE4ZEQ0Umx5b2xxM001MWRSQTNiZmsxdWcydkFZM3hYV2tvSEJFWUw3Z0FGdk1hUFY0RjNDWDRFSXR4bklFMGdNYTRUVTdfZmpQZ1JoRlJqRXRoTmt0NGhmaHAydl8yckxOVnI0U2ItTGF3dVk3OFpmQmJXWWU1eklHQlZIR0N3UXVZM2c?oc=5",
+      "pub_date": 1788545194.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61637427/bitcoin-ethereum-xrp-dogecoin-plunge-2-as-jobs-report-spurs-rate-hike-bets",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/04/Bitcoin-Btc-Cryptocurrency-Coin-With-Alt.jpg",
+      "description": "Bitcoin briefly topped $82,000 as Fed\u2019s Waller backed steady rates. Crypto ETFs saw strong inflows, while $523M in positions were liquidated. Holding key levels would lead to a breakout to $85,000."
+    },
+    {
+      "headline": "Arthur Hayes Calls Ethereum His \u2018Number One Pick\u2019 for Quick 5x Upside as Bitcoin Targets $1M by 2030",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYTVkMnl1M2M1UWZaZnlLNllRTl8zSDlQU0hwNzZscVYyQkYyeWw0Y2NCMHNCZkZOc3lWSkVteUczY2txZnA1VURSU0dUeUM2T1pkZzVmOEl4b3FJYmJuMlFDbWdKdkRVYWdjbTI3VUxMNWF4WE1FeHBZSFh3OFV0T2hHS293Y3FBeHc3UlBic2NkRzdSTlBBUDdabVNkSzR5aFZyTUJycHJjMWNvdDFuaEMwYjJJZ2dVcElHVHJVY2J5SXc4eGc?oc=5",
+      "pub_date": 1788365531.0,
+      "article_url": "https://www.tipranks.com/news/arthur-hayes-calls-ethereum-his-number-one-pick-for-quick-5x-upside-as-bitcoin-targets-1m-by-2030",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/shutterstock_2777099569-750x406.jpg",
+      "description": "BitMEX co-founder Arthur Hayes believes Bitcoin (BTC-USD) will hit $1 million by 2030, but Arthur Hayes calls Ethereum (ETH-USD) his \u201cnumber one pick\u201d due to better..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T17:11:05.489812+00:00"
+  "fetched_at": "2026-09-05T19:17:03.939608+00:00"
 }
