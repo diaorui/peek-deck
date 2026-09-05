@@ -9,7 +9,7 @@
       "source": "OpenAI",
       "source_url": "https://openai.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788488470.0,
+      "pub_date": 1788591286.0,
       "article_url": "https://openai.com/index/gpt-6-astra/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
@@ -25,54 +25,64 @@
       "description": null
     },
     {
-      "headline": "How OpenAI Limited the Probe of Its Bots\u2019 Hack of Hugging Face",
-      "source": "nytimes.com",
+      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
+      "source": "The Telegraph",
+      "source_url": "https://www.telegraph.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHZ2blh6aWtPYXJ4N3ZNdjc2U1l5MlM0b1B1a0NReng4cE5nX1RHWnRpaTRFRklIUGY0MjlIV285cW1OYjgtaHp2Q01JYUc1emRSNkF3QmxMMlpuOGo1V2lLR0loRnFEUHBqcUp6RjRkQW9ldFhYQThxYmtWYndHYktR?oc=5",
+      "pub_date": 1788586200.0,
+      "article_url": "https://www.telegraph.co.uk/news/2026/09/05/rogue-ai-agents-take-over-world/",
+      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
+      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
+    },
+    {
+      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5",
-      "pub_date": 1788534900.0,
-      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
+      "pub_date": 1788480364.0,
+      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWV4RjBZYlppTGV6U0VLRE0tTUZiX2toTElEM1hNUExfb0tVX0NEWWtGR054ZDJmMWlMZGxSalgwOHdDcHRtNjk1M2g1QmpzQVljTExmWTBrd1RCTzZGTWZiMmh3eW5NeWlTcDlrR24ySzZad0pMUkZiazJqOTdxMWUxME00dEZMcGdNVU1sNmVpcXJSeWdRSTEtVVd2bHpUbVlfbGZuMWd5b0E?oc=5",
-      "pub_date": 1788563030.0,
-      "article_url": "https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-Sam-Altman-vsb-1845-4db5ec.jpg",
-      "description": "A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions."
+      "headline": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
+      "pub_date": 1788591600.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "image": "https://i.guim.co.uk/img/media/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28b920ba9cdafa796c0792bf79c56bf0",
+      "description": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models"
     },
     {
-      "headline": "Clay Matthews reacts to TMZ's AI-generated photo depicting him",
-      "source": "Milwaukee Journal Sentinel",
-      "source_url": "https://www.jsonline.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODdXbmxZX2d3TUxzOVFnZUIzbVJHWjFHd3FSTUVZTUl5R2JuN05hUUoxQ0M5NGFxQmlMUFpwVTRtM0ZZZDhjUGNka0t2WHl2Rk95ZlgwWWVwY3lBUzF6Q1lHelJnMGV5V1dyRGt5X3dmRDVqRGpVT1AzaVc2eFhDdUV1VGppRXpPRVJKV3EwdFRINFhIUkhXaVk5ZnVVMkl3VjZReWFPaw?oc=5",
-      "pub_date": 1788570120.0,
-      "article_url": "https://www.jsonline.com/story/sports/nfl/packers/2026/09/04/clay-matthews-reacts-tmz-photo/91618653007/",
-      "image": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/08/26/PMJS/91482359007-20150202-t-155424-z-1397661149-mt-1-usatoday-8361761-rtrmadp-3-nflprobowl.JPG?crop=3136,1765,x0,y438&width=3136&height=1765&format=pjpg&auto=webp",
-      "description": "Packers great Clay Matthews is reacting to the AI-generated photo TMZ posted to its social media accounts of him on Sept. 4."
+      "headline": "US adversary turns up the heat on America\u2019s AI lead with an underestimated edge",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWg5UDN6NHBjekI0Z1prR3FqNEpFQ1RjLU1FR0hvRnAxNktxRFdzeTVqOGQyZnpkSXRzMFRtaFc0WlNlR2lLblNod2JVOHRHRFhwRzhqS2czZWIzVDR0M3J0TEJBNnNmRUFDNkxCN2w2SUdtZXRObE5iM2VvX1hjT3k1TEdWMzJxNmg4Zlo1czBpSl82U1ZSZtIBngFBVV95cUxPaWFJOUJzREtjYnFoLUpLNmNWb3RGdFkwcUlXa01uSVFlSklGa1NHcmVscWRyRVBZVXRpV1pqV19lT3lwRlNsM3FYOW5PMTAyc1pmY21pMlRTTmtrSnpaa19ZdGttc0g0Y2twMVhPMXhFMkMwOWRjMThpVkVtNDAwMjQ2MWdYVEpUY0VIRzdpdVBuWkRoZGRzM0ZqUl9rdw?oc=5",
+      "pub_date": 1788516034.0,
+      "article_url": "https://www.foxnews.com/world/us-adversary-turns-up-heat-americas-ai-lead-underestimated-edge",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-xi-handshake.jpg",
+      "description": "China's \"East Data, West Computing\" initiative is rapidly expanding AI infrastructure, but a major chip constraint complicates Beijing's push."
     },
     {
-      "headline": "Virtual threats evolve as AI related scare alerts West Virginia Law enforcement",
-      "source": "WCHS",
-      "source_url": "https://wchstv.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSlQ0QTBBM0RSUzZmbHRCVmJkM0pRRFY0SWlKSmJIc1JxUTdVWmxIWVdiR3RpcU5obWpoT244UU5aRHA5RFk3N0s4cUpaQm1oM2otd19HQ2h3SkFHSmpIUmNOODVXbUFpOW5ER3ZGdC1zNnFvd1dOcjd1WW9MT2RsWjNhTjQ4TXYtT0gyaEdRcHg5VUxZOFZmZzFOZzlKZ0dYUG9BeFctNkxvYjJJZ3c?oc=5",
-      "pub_date": 1788577574.0,
-      "article_url": "https://wchstv.com/news/local/virtual-threats-evolve-as-ai-related-scare-alerts-west-virginia-law-enforcement",
-      "image": "https://wchstv.com/resources/media2/16x9/712/1320/4x0/90/58ca5417-61d2-4f0a-abcb-c06eeaf35967-Nenaforweb.png",
-      "description": "As AI evolves so does the complexity of false or virtual threats that law enforcement have to deal with."
+      "headline": "EXCLUSIVE: US, China gear up for mid-September AI safety talks",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5",
+      "pub_date": 1788562652.0,
+      "article_url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "California labor unions urge Gov. Newsom to sign AI workplace protections",
-      "source": "cbsnews.com",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGR2LV90ZUNQamRuVjZCU25ac0tRTlpxbG43RmtFU0lzZkZWODNTM1dDeXR6My1KZk9KNlZWOEJselQyVDlKM2tNQ01Lb05IOENiSTFpT2hvMkNfWHBoRndQaGd4U2d6dDRERTNrR29JRWs3MUdpWF85cUwxcHlBWWpHdXZaQ1BMeHNiek5JRmtweVJaMFE5R2s4VjM5OXc2c3N3M0hLLXVGQWRHaGExcUpDRmhhQQ?oc=5",
-      "pub_date": 1788573186.0,
-      "article_url": "https://www.cbsnews.com/sanfrancisco/news/california-labor-unions-ai-workplace-protections-artificial-intelligence/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/05/4ac464fc-0884-45d7-b142-464f3675d03c/thumbnail/1200x630/ff360a6eb38c9ee1f6495a31848a4f48/633adc50b7851340561aba2a5d8dd059.jpg",
-      "description": "As Californians prepare to celebrate Labor Day and the contributions of American workers, labor unions are raising alarms about what they see as a growing threat to the future of human work."
+      "headline": "From \u2018slop\u2019 to prime time: how AI dramas are shaking up China\u2019s TV industry",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGhWMEtRbTVmTzNjQm9kbWRrMHloWDc1aW5qeWtqY295U1NUY2JFYkRjQzBfVEVHOTUwWWZkR3lsQkYyS2hIb01iN3gtN1l4VlAzU01vNi1RazRVeWkzUzEyNXFmYlk1dFd1VnlqUHViTWxURVBSNGpMNl9qZ2FyOFhjM09UdlVsb05jOHduMUNYVzk0YktGWUROc2VZOUM4RkF2SmozSjZ3d9IBqgFBVV95cUxQQ1J6emY1SFFQemktWW1QY2V3b0g4Y0VWeXQ3QnVydVFqNWd6dW00bjR1ZDliMTNkdE5Jclo2dWRMZFV3VnNiU20zV19kZmQzTGV3YW9lY0xjaXU5NmxRSmpUYmZkWnZPLXpqdXBRalBQbThBcUxUREducUlJNEZwUVR1alR6TTVqSzZkcFVtYlZCRlNqYmpaMUExWXJmYmZoNlh4R1hyZUJFZw?oc=5",
+      "pub_date": 1788591607.0,
+      "article_url": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time",
+      "image": null,
+      "description": null
     },
     {
       "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "source": "economist.com",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktnUHdLTzFnb0J1VE56YjVOcVFjMXZCQVprZnlpa212c0R0LWhkd0VIQlNNMzAtNmFuMVc4OXFUWm02aXRDR2x5ODVJZnBmRzlVZXVxSExRbHd4ZXZiU2dwMWh0TjdmclhzSmh1MDdkYkduWFRwdFdHNVJMSTFNckZIc2tVbXByTW1pUVl0dmhxSmVHOWpndVBGZXFPdjBiOU5ZbUZRRFg3bURCcDlvWGJlbjZQQQ?oc=5",
-      "pub_date": 1788545102.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Dead-Internet Theory Is Back",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmtIYzVaZ3RrZk5SV2V5Y1B5RHQzdDB3ZkpJOUZOMUtCUWcyM2ZiYWhNZGJOZXNURVplNFVfT0hvcjJfVUhnTmU1VWlMRjVPeXdNLVZmOWtuR3NfZkptUnJMRjJfWWNPVXlELUE0MG92ZVdUR1dpcklRam05SzhHOGhsdGJ0NGtUbXc?oc=5",
-      "pub_date": 1788518899.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/chatgpt-imessage-ai-texting/688507/",
-      "image": "https://cdn.theatlantic.com/thumbor/z7p5dd454q_ltSxT-_KNkBxucdc=/0x61:2876x1559/1200x625/media/img/mt/2026/09/2026_08_31_AI_texting_panic_2/original.gif",
-      "description": "The \u201cDead Internet\u201d theory is back."
+      "headline": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kby11Ty1YejVPVmRKYVhWMDdyRWVUU1Z1QlFqVjdmR1dTNVNrNHFWMTZSZHk2TmFYNVl1c2lzN1VvNlplWGFfZmdSY01JNXNkSVgzS1A5QnIyQQ?oc=5",
+      "pub_date": 1788570987.0,
+      "article_url": "https://www.bbc.com/news/articles/cew9kz1kxpvo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d4d7/live/a14c8c30-a8c8-11f1-b109-879e35c24276.jpg",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T03:18:38.434276+00:00"
+  "fetched_at": "2026-09-05T07:49:19.451667+00:00"
 }
