@@ -15,16 +15,6 @@
       "description": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding."
     },
     {
-      "headline": "Ethereum Lost 2.14% to $2451.77 -- Data Talk",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWdTVEs2N3FNOWEyWmNkY3lHNXB2QkJEaFg1OEZTekJnZ3FCY1FTQ3BXc3M1QVRlZElRQkdKaTRidVZHa01vRWhiSTY0b2NVa0xONDNqd1Y5aFlRaUtHS0NuVUVJN2lsZUt6VHNza2hfdHdEangzM0tOTk1NUEI0dllhcDlMeUti?oc=5",
-      "pub_date": 1788556440.0,
-      "article_url": "https://www.moomoo.com/news/post/75846599/ethereum-lost-2-14-to-2451-77-data-talk",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin and ethereum prices today, Thursday, September 3, 2026: Crypto prices lift this morning despite oil costs gaining steam",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,6 +35,16 @@
       "description": "The cryptocurrency market remained calm on Wednesday, Sept. 2, even as softer private employment data modestly reduced the odds of a rate hike."
     },
     {
+      "headline": "Where Will Solana Be in 5 Years?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
+      "pub_date": 1788571318.0,
+      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
+      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+    },
+    {
       "headline": "Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -52,16 +52,6 @@
       "pub_date": 1788433231.0,
       "article_url": "https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/",
       "image": null,
-      "description": null
-    },
-    {
-      "headline": "APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRU1ITUR6a3ltZUl0TFVhNTVwbHlwUm1EZFhYeFFQZkhqTS01SXlieFE4Q2ltc05DVHRNYks4RDgwQlBEejN3clhSVjljc21pb19fR2VjZ0NReU91a3Roajc5QU1SQ1dPQk4tMXdrZ2xsV3kyalpYQXZoWFVqTUd4Yk9kaDBKWEl3cDEwRVFqVnR0R0lNdFc4QThpMWxIMHJiM2l1aTBQQ3FESWtnLTNJV3EyUFhjbnNXamxvRDFicklPMVp5TnFTSGpCTHpFcG04eHlON0lYbFJla2t3LWlGZzdnQmdGRzNjemcwdWZRV0w1ZnZmd3ZMNTVVYjhwZnBmU0dEUXgxWm9uX21YcWdUamdSUWIzM3p3Smh4Y0tn?oc=5",
-      "pub_date": 1788461520.0,
-      "article_url": "https://www.morningstar.com/news/pr-newswire/20260903to39964/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets-traditional-finance",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
       "description": null
     },
     {
@@ -95,16 +85,26 @@
       "description": "Robinhood Chain's blob submissions to Ethereum stalled for 14 minutes during a record 14M daily transaction day, exposing single-sequencer risks."
     },
     {
+      "headline": "Circle's cirBTC Brings Transparent Wrapped Bitcoin to Ethereum",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwQVZET3pNSzZ6OEEwX21sV0RMNW1WamRjSTJPYXdlcWRrckFtUDdvMnNsLU44VTR2cjQzd1Z3d0t1d1lJcGt0bFV3VmdEOHZHdlZJYTV6alBHeENxNzU2aTNyb3h6SU1wU2dKTHdOcTYyclFrUTFIRE9B?oc=5",
+      "pub_date": 1788551973.0,
+      "article_url": "https://blockchain.news/news/circle-cirbtc-transparent-wrapped-bitcoin",
+      "image": "https://image.blockchain.news:443/features/55815440919FE2A93DFBAE8C907C92AD0D51D9984ED7B3B379217F97EDCC80A9.jpg",
+      "description": "Circle launches cirBTC on Ethereum, offering 1:1 BTC backing, segregated custody, and onchain reserve verification with Chainlink."
+    },
+    {
       "headline": "Current price of Ethereum for September 4, 2026",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lMFNIWmQ5YlloaDFRVk81azNLem9RUlBYVEZlUnNhQ1FCaTIycWNiQUg4bUJ2VU91bWdPN2l4V1FmY3gxNy02NFlFV0pMa3VSdUl0R2ZqaV9MWUtkVmxnRDJ2VDFZYWk0?oc=5",
-      "pub_date": 1788529049.0,
+      "pub_date": 1788526800.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-09-04-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-4.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T23:46:33.266310+00:00"
+  "fetched_at": "2026-09-05T03:18:34.457409+00:00"
 }

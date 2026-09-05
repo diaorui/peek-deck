@@ -134,6 +134,25 @@
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
+      "id": "2608.24053",
+      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+      "authors": "Junjie Zhou, Ke Mei, Lei Li et al. (6 authors)",
+      "organization_name": "tencent",
+      "organization_fullname": "Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
+      "summary": "Universal multimodal embeddings are becoming a core component of modern AI systems, enabling heterogeneous content to be represented in a shared space for applications such as retrieval, recommendation, classification, and agentic systems. In this report, we present WeMM-Embedding, a family of universal multimodal embedding models supporting text, images, videos, visual documents, and arbitrarily interleaved multimodal inputs with flexible output dimensions. The family comprises 2B, 4B, and 9B variants and is trained in two stages: a large-scale multimodal alignment stage, followed by a refinement stage using curated data, fine-grained relevance supervision, and cross-scale knowledge transfer. Across extensive evaluations, WeMM-Embedding achieves leading performance on multiple public benchmarks. Notably, the 2B variant already surpasses the previously leading 8B open-source baseline on MMEB-v2, while the 9B variant further achieves a new state-of-the-art overall score of 80.6. WeMM-Embedding also demonstrates strong practical performance across WeChat applications, with substantial gains on a 26-task in-house benchmark and consistent improvements across 14 online A/B tests. It has been deployed at scale across recommendation and search applications, including WeChat Channels, Official Accounts, Moments, and e-commerce services. We have released the model weights and code to facilitate future research at https://github.com/Tencent/WeMM-Embedding.",
+      "ai_summary": "WeMM-Embedding is a family of universal multimodal embedding models that align text, images, videos, and interleaved inputs in a shared space, achieving state-of-the-art retrieval and recommendation performance across public benchmarks and large-scale WeChat applications.",
+      "hf_url": "https://huggingface.co/papers/2608.24053",
+      "arxiv_url": "https://arxiv.org/abs/2608.24053",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.24053.png",
+      "upvotes": 70,
+      "num_comments": 2,
+      "published_at": "2026-08-24T20:00:00.000Z",
+      "github_repo": "https://github.com/Tencent/WeMM-Embedding",
+      "github_stars": 1227,
+      "project_page": "https://github.com/Tencent/WeMM-Embedding"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -149,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 86162,
+      "github_stars": 86191,
       "project_page": null
     },
     {
@@ -168,30 +187,11 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 30653,
+      "github_stars": 30687,
       "project_page": null
-    },
-    {
-      "id": "2608.27529",
-      "title": "Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
-      "authors": "Jiarong Han, Jincheng Xiong, Yuzhou Liu et al. (9 authors)",
-      "organization_name": "acvlab",
-      "organization_fullname": "Alibaba AMAP CV Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6414106ce7d5f817d204e160/dfveRtrRy8Xn7QpG684zl.png",
-      "summary": "Streaming 3D reconstruction from extremely long videos requires estimating camera motion and scene geometry online under bounded memory and computation. Early streaming models achieve causal, bounded-cost inference using finite context buffers or compact recurrent states, yet their estimates often deteriorate as sequences grow. Recent methods improve long-horizon stability by coupling short-range context with persistent or multi-level long-range memory. We pursue a different route: we keep the learned temporal state strictly local and formulate predictions whose targets remain independent of sequence length. We present ABot-Recon, a simple streaming model that caches KV features from only the preceding 11 frames. It predicts a point map in the current camera coordinate system together with an adjacent-frame relative pose. These predictions remain equivariant under changes of reference frame, and global poses and geometry are recovered through sequential composition. To reduce accumulated drift, a lightweight temporal refiner improves relative rotations using recent visual and motion context, while a composition-aware pose loss supervises multi-step pose composition. Extensive evaluations on challenging long-sequence benchmarks demonstrate the superior long-horizon performance of our local-context approach. On Oxford Spires, ABot-Recon achieves an ATE of 4.35 m and an RPE-R of 0.12^circ, reducing both errors by approximately 40\\% relative to the best prior results.",
-      "ai_summary": "ABot-Recon achieves stable long-horizon streaming 3D reconstruction by using only local temporal context and frame-independent predictions composed sequentially, reducing drift via a lightweight temporal refiner and composition-aware pose loss.",
-      "hf_url": "https://huggingface.co/papers/2608.27529",
-      "arxiv_url": "https://arxiv.org/abs/2608.27529",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.27529.png",
-      "upvotes": 33,
-      "num_comments": 4,
-      "published_at": "2026-08-26T20:00:00.000Z",
-      "github_repo": "https://github.com/amap-cvlab/ABot-Recon",
-      "github_stars": 491,
-      "project_page": "https://amap-cvlab.github.io/ABot-Recon-html/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-04T23:46:27.085466+00:00"
+  "fetched_at": "2026-09-05T03:18:28.364435+00:00"
 }

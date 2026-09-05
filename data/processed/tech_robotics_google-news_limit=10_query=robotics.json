@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
-      "source": "BBC",
+      "source": "bbc.com",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
       "pub_date": 1788487322.0,
@@ -15,24 +15,24 @@
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
-      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
-      "pub_date": 1788522420.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
-      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
+      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
+      "pub_date": 1788537878.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
     },
     {
-      "headline": "Opinion | China\u2019s robot revolution may not arrive in the way you expect",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVpNRk5KUU9paDVSdTJMVXBCYkhLTEh2S0FQV3U3Wm5JS1JwWXhLMTFHOXYzS1dqY05pcVYxVDRtdjFoaF9OT0JCbUJDMjBvNGdpY056amI5ckJsamxsX1k0c0luRkl5V0M0MnpEUUVqT0FfN0NuQkk3NTZPTDYtcWVvVlVaYUp6UkwtUU0tUzZ6OWxNN2FObk1RUURkbnpCTW9SaU95c3h6X25KN0l0cFZ30gGyAUFVX3lxTE5aT0tYUXZHTDRXemZkekI3LVUtM3R1NnlmYWNmb2kwQ1dpcE5KZ0dUU0VGVUhremZMU2pKcmtVa1lXb19FUUswXzZNTmMySFVSUlA4VVlIWkdScHU5aVhwR1VnRzRvSUtXZHh2akdUaEcxNktTRmNpZGNocnBoNnB2UVcxYmxya0d0d1VEYVdsM09zX0ZCRWQ5Qk9tQTc4U2wyWUZJcng4ZHNXNlRwa1FBX1E?oc=5",
-      "pub_date": 1788471008.0,
-      "article_url": "https://www.scmp.com/opinion/china-opinion/article/3365917/chinas-robot-revolution-may-not-arrive-way-you-expect",
-      "image": null,
-      "description": null
+      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
+      "source": "ABC7 Chicago",
+      "source_url": "https://abc7chicago.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
+      "pub_date": 1788527525.0,
+      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
+      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
+      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
     },
     {
       "headline": "Hear what University of Akron president say about safety and robotics",
@@ -55,18 +55,28 @@
       "description": "The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing."
     },
     {
-      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
-      "source": "ABC7 Chicago",
-      "source_url": "https://abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
-      "pub_date": 1788527525.0,
-      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
-      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
-      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
+      "pub_date": 1788522420.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
+      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
+    },
+    {
+      "headline": "China\u2019s real robot revolution is not about humanoids",
+      "source": "ft.com",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
+      "pub_date": 1788303663.0,
+      "article_url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a41e44-e633-4162-9f1c-e04f2770aea3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
     },
     {
       "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
-      "source": "nypost.com",
+      "source": "New York Post",
       "source_url": "https://nypost.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmVTOXNGSTdHMWIwblFPdkJXYmRReElTMzRKZ3U2VHpnU2xhMEVKNzFPQ29GZlA4NUdaZjRoN2tBOUh0ZUwxNmtRajRBamdiSEVCRTZLUUNnekRkZUJJc3dXVGt3c0s3UTRkNS0xREhqcWV4LXFWUGd0Z0JmakZJVDdMM2pUal84UjJxUmxaX3BWTXBFWTZWR0dRd3BmelFpWXAxZTln?oc=5",
       "pub_date": 1788464460.0,
@@ -85,26 +95,16 @@
       "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
     },
     {
-      "headline": "A robotics company will begin trading on the New York Stock Exchange Sept. 4",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHkzWGhldmM0d1ZCd2ktanRDRU00YzQ2U2dEMVZHMUtNRjB0djhOZUp5UWp5MlJjdHZGVUJyc01YZFF5QlF4R2xJS2Z0cEdYTTdPQXJWN01FWW5NbERYZmRXMTFBVFN0Y0NkNzF2MDk2RkUyZ3VDVkJqWXMzQ3VhcmpZenVNZUdIVlBucTJ2RmRVZFVZV2lQMmdLZzh3NDFBNUZnRmNRdW1JR3lVTjdTSEw1SWJ0TVBlRy15cQ?oc=5",
-      "pub_date": 1788471540.0,
-      "article_url": "https://www.stocktitan.net/news/JFB/xtend-reality-expansion-ltd-and-jfb-construction-holdings-complete-csuw3w5mksdf.html",
-      "image": "https://www.stocktitan.net/news_covers/XTEND_Reality_Expansion_Ltd_and_JFB_Construction_Holdings_Complete_Business_Combination_Raising_1_1501081.webp",
-      "description": "About $67.7M was delivered against a $60M minimum cash obligation, and the funds are expected to support working capital as the combined company operates publicly."
-    },
-    {
-      "headline": "Governments Are Encouraging Industrial Robotic Growth (NASDAQ:BOTZ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORlVNNHZXVDRZcjlDOFl6Ym5SR0laWWY4aldEa1lCY2dpSHV0czdUVkNMSlNSbWZuVG5SbkU5MzVRcDJFTXctejIyMDR6MWJjQUdFNWg1d3BUdGVNTDd1MjVhaWlsQ0pDQUNWTG1OMUJ3NzBXQ2cyNkxqWjNjNHF6RUZSLU9uaV93VlRpbW1DYVVaX1RDaVAyVFpB?oc=5",
-      "pub_date": 1788466248.0,
-      "article_url": "https://seekingalpha.com/article/4942904-governments-are-encouraging-industrial-robotic-growth",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246980425/image_2246980425.jpg?io=getty-c-w1536",
-      "description": "Robotics ETFs (BOTZ, ROBO, ARKQ) offer early growth, but industrial robotics leads. Weigh QQQ/SPY vs. niche ETF risks\u2014read before investing."
+      "headline": "Atascadero robotics team makes it to FIRST World Championship",
+      "source": "KSBY News",
+      "source_url": "https://www.ksby.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlhuNEFQXzlFX19QMEdGWU50WXFUZjNYam16QkUxYjJHQl84UHFEMUN0Wk52ZEpXMERvMEoyZ1A3ZnJvZUxRTHk5Q0dZaW5idGdjZTZrRDZlbGRRUm1tWFNaUUVQdko0WGw4NUYzc1hNYWsxRE92UEFreS1jVDAxSk9CSGVJS3VRUFNZUFdwNERjd1ZORWtaSg?oc=5",
+      "pub_date": 1788374972.0,
+      "article_url": "https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/39497e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2Fcf%2Fef19f31642b6a5db3992713076ab%2Fatas-robotics-team.jpg",
+      "description": "At The Greybots\u2019 build space in Atascadero, you\u2019ll find Dustbowl \u2014 the robot that helped the student\u2011run robotics team qualify for the FIRST World Championship in Houston, Texas."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T23:46:35.160914+00:00"
+  "fetched_at": "2026-09-05T03:18:36.954442+00:00"
 }
