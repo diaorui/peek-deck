@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFVqNWRIZzlyV205Q3Z0TWRHOXVaMGItVmJScGdfSmVyYW41TFRZQmRBTXRWX3BZbFZYZUpnN0ZBVjNxSVdpTUN1ekJYV3RTSGxCLU1PUm4xaF9lNnA0bFFPV0pqUTJZY0dHcXUyTG50SGVDQ2hrYmhlX3JCNVU3QUdyTi1YQnJxVHA3c3BsaEo0UDNXSkVqeEFaMnhieW16WnhjLWpxWVJZMnVqZDBYS2ZXWm5yVjZMSHhhN2tjMWhxSHgyY29oVFF5NGN2djRUQkNVWEJxcHpPYTRM?oc=5",
       "pub_date": 1788553740.0,
@@ -25,14 +25,24 @@
       "description": null
     },
     {
-      "headline": "US Debt Hit $40 Trillion. So Where Is Bitcoin\u2019s Debasement Trade?",
+      "headline": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmZVWnJWZkFkQzFTbHQweVZIMWMtTHhpT2p4VklLeF9uclc2VnhFajZINzRnTHJkbTZDYkd0U2VPUHZhSDNCR1VaNGhNOXdCTGVpSmVxN21VQTJ4T2NsYnY0UWVuNy1ZUVRIRWVlSmNReGIzMzVGNHgzOWlLV3JidGpZYWxRN3BNUXlPR1hGeE5Gdw?oc=5",
-      "pub_date": 1788621587.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/us-debt-hit-40-trillion-151947696.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/edf179bdcb22668297f7b3b78fdcd3b9e41b87ed3d11b62cd3c61b080f16665e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F887bb8f014aa5b5418d1f1d589016fcf.jpg",
-      "description": "US debt has crossed $40 trillion while Bitcoin remains below its 2025 peak. BloFin explains why the debasement trade may be entering a new phase."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGU0WEE5LWxYYk9jYktKS1NMQWZYcVU2ZXFMak51Sm9zdzhGYXhrODhuUktlRXgta0c1blhtLXdlTHJNVU5QU3hzVE9vRFZCVnB0dWxQOW42U1N2Sk82Y0duZGVlbjBBYkVlTHlnbDY5RjdKYTZUYUdpaEQ0b1cxZnFEQlJhd1JjaTdXNE5ydU1hcXNMSzlsWFhtMzY4NjA?oc=5",
+      "pub_date": 1788627664.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ancient-bitcoin-wallet-turned-120-170104762.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/28d9da95972da88599c6f3b3b82a687bc28d051e38b27c6b41eb0f2842102cd3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fb2e384b811f21bdf643ef303ff19987e.png",
+      "description": "At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale."
+    },
+    {
+      "headline": "Bitcoin Reclaims $80,000: Can BTC Hold the Key Level and Continue Higher?",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wdTJWSko2TDJUQXlMRHJGY2M2dlVXbWhrSGNoS09jbHhTcThsMTU1NWJLNHZCQXRhdkRnUm1SUjY1VnBHODd2YUVybGlEdGdwMmFXU1NQV0Rld3lodlFnZlpyemlSem1L?oc=5",
+      "pub_date": 1788629688.0,
+      "article_url": "https://www.binance.com/en-TR/square/post/363472847856473",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center",
@@ -45,16 +55,6 @@
       "description": "After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center."
     },
     {
-      "headline": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWJheFBaQnYxcnlFZmRIOUZleHhJYXh0VjJQc1RPQXIzYW5nSDQ0UjZULWh3UzJfTnJPNlBJT09mWUhEUzUxXzEtSzB0ZlJ1QmF2eWpJZkNjTmlxcmpKU0xCLWllSlVGb2hDdW1DVXdWdWYtNzhaemg0Q0czZTltdkZ4ZXJOUWI4VFZleWxqMTgzTUR5bUExTVhZSzNHcW1UcEhoVzI1eHVlZGlXRVdybGM2dEZLS3E5VlBOMmc4a2p6bGx4WG50WTZCVzZ3OWw0em4wTQ?oc=5",
-      "pub_date": 1788332400.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Fed Governor Waller just reignited the bitcoin debasement trade: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -63,6 +63,16 @@
       "article_url": "https://finance.yahoo.com/markets/article/fed-governor-waller-just-reignited-the-bitcoin-debasement-trade-chart-of-the-day-100000584.html",
       "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
       "description": "Bitcoin is back at the Rubicon \u2014and Fed governor Waller just dared bulls to cross it."
+    },
+    {
+      "headline": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWJheFBaQnYxcnlFZmRIOUZleHhJYXh0VjJQc1RPQXIzYW5nSDQ0UjZULWh3UzJfTnJPNlBJT09mWUhEUzUxXzEtSzB0ZlJ1QmF2eWpJZkNjTmlxcmpKU0xCLWllSlVGb2hDdW1DVXdWdWYtNzhaemg0Q0czZTltdkZ4ZXJOUWI4VFZleWxqMTgzTUR5bUExTVhZSzNHcW1UcEhoVzI1eHVlZGlXRVdybGM2dEZLS3E5VlBOMmc4a2p6bGx4WG50WTZCVzZ3OWw0em4wTQ?oc=5",
+      "pub_date": 1788332400.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Crypto Money Still Matters for the Midterms",
@@ -93,18 +103,8 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU45aVVLSHlZSFNWd0tWVVdFZFdZVDYxdURUREM1VG5uY3I2LXd3SUNRRmQyYXg3S0Y3THJNWXktNlV0VnUxS29vVGdMWWdiWWRiNFJUSjZ5RnhFemNiZl9meXJiZjhJSXk5cDJFZG5ObXZDNEY3b3drZjhrMDVmTQ?oc=5",
-      "pub_date": 1788473981.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg",
-      "description": "Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T17:11:05.727639+00:00"
+  "fetched_at": "2026-09-05T19:17:01.147235+00:00"
 }

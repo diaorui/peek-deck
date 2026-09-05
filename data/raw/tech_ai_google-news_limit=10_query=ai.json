@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788591286.0,
-      "article_url": "https://openai.com/index/gpt-6-astra/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
       "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -25,62 +15,22 @@
       "description": null
     },
     {
-      "headline": "Researcher who found OpenAI-linked rogue agent swarm says AI giants may hide future chaos",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWV4RjBZYlppTGV6U0VLRE0tTUZiX2toTElEM1hNUExfb0tVX0NEWWtGR054ZDJmMWlMZGxSalgwOHdDcHRtNjk1M2g1QmpzQVljTExmWTBrd1RCTzZGTWZiMmh3eW5NeWlTcDlrR24ySzZad0pMUkZiazJqOTdxMWUxME00dEZMcGdNVU1sNmVpcXJSeWdRSTEtVVd2bHpUbVlfbGZuMWd5b0E?oc=5",
-      "pub_date": 1788563030.0,
-      "article_url": "https://www.nbcnews.com/tech/security/openai-linked-ai-agents-swarmed-dormant-german-wiki-report-rcna596182",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-Sam-Altman-vsb-1845-4db5ec.jpg",
-      "description": "A new investigation finds that AI agents from OpenAI used a German-language Wikipedia-like site to communicate with each other and shared techniques to skirt restrictions."
+      "headline": "Nvidia Barely Moved. These 2 AI Connectivity Stocks Jumped More Than 7%",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekF3ZGZQS1JWVElLX3g0d3hPOXdieklTbGJGdFI0Nml4VjBxS01TU0lVTGktcVc0eDQ5ZERTZ1o4cWNERTlyY0JFeFBTVHlLX2tabWQ0cWpGOEsycUNYOUNiTVFsZUowblowTTJ4TGRTZVd0c1JoLTJPajBnTEtfMFQtVExqTzN1TVVHb2JzNTllZTA?oc=5",
+      "pub_date": 1788634618.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/df1e51315eb81996a20d5f60579969f251ac1553d1c9360bb8884c31c486974c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4b4a1e376b5ab26f0ff51b6a63a55fc3.jpg",
+      "description": "Nvidia rose only 0.8% on September 4, while Astera Labs jumped 9.8% and Marvell gained 7.1%. The comparison was consistent with investors broadening the AI trade beyond accelerators into connectivity suppliers. Astera\u2019s rally also coincided with speculation that the company could be added to the S&P 500, although it was ultimately not selected in the [\u2026]"
     },
     {
-      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
-      "pub_date": 1788586200.0,
-      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
-      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
-    },
-    {
-      "headline": "We got more defensive last week as Wall Street raised the bar for AI stocks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FyUDhsZHAyZnhhTUFSdEFCaGpTUDYzVGpfeEk5WEt1cFh6Zl82MFNQRXN1THZSWldIcV8ySDVRbjl3MS1uLVNscVN5T0NIMEdSR0dzSzRhQV9pWFpsLWYxdEU0dmE3RzRrV0NaeW9tOU85ZExrTXRKUEV6NlN0dUhsTURTQmMyeldoZGNvTWcwQXBobmZsOGxSZzkzMWlMT2UzUEM0UEpvVVcxWml1ZE9n?oc=5",
-      "pub_date": 1788626639.0,
-      "article_url": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356507-1788194313682-gettyimages-2292379384-US_STOCKS.jpeg?v=1788194341&w=1920&h=1080",
-      "description": "We initiated positions in defensive stocks to balance our AI exposure amid higher oil prices and Treasury yields."
-    },
-    {
-      "headline": "AI robot pet could know your family too well",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HeHpINzRxb19IMlVXSmdJUnhhVWZjUFdPNWs5MGFaRjB2ZkZYRkQ3Q3RRbnhydE9ycGFLZW5RTVdobS1US0t2NzJxcDhZWkFxSzZlNFgxRUt2QklHdFNTMlo0alR5VVJFZnp4NGYwYjRhY2lZUzc5T05Jak5WUdIBgwFBVV95cUxONkw4S3BIWjM1aGV5cW5Mbm5nUzRka1ZFMHdYYzBzX0pic3Zxb3piVVpjaWszd05uSkdlaHRnOUpFanJiZDdrSHB4a1Q0UTRUT2VobHd6X1d3aGpjN1BoZXRteVpRUDdFUHlxUVJXdllpcDFOU015bHgydTlLZTBlcG91QQ?oc=5",
-      "pub_date": 1788626579.0,
-      "article_url": "https://www.foxnews.com/tech/ai-robot-pet-could-know-your-family-too-well",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/1-Money-Transfer-Lock-enabled.jpg",
-      "description": "The OlloNi SS1 AI robot pet uses a 4K camera and facial recognition to learn your family, but its removable Red Heart memory module raises questions."
-    },
-    {
-      "headline": "AI researchers share how to tell if an image or video is real or not",
-      "source": "ABC13 Houston",
-      "source_url": "https://abc13.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGh1ZEdzZFhwSVhWOUJnc1F2cnppRHhjOHNLLWtrQll1T2JySGoxc21FWkZqTEJLV2g3UmMtV2lWZW50b2lyNENja2JINTc0U2U2VzliM0pOT3JTZ0x5UTdTeklIcUdLa2hsMGVnT0NRaTBKcUYtQ1h5S3BsMkJCWFUxM0pjZTVvakZ3dEVnNNIBlAFBVV95cUxPM1BvdHU3RDZKaU93MVdDQmtIN2ZaamhWU1JJbTdLcmYxTWhuMGp3T0hHS3NHTEpnYVZDczF5b1E2U01ZY3JNSW12ZU9hQm52Z0Q3UkgxS2RHQVlyVmZ5UGh4UVhEU05BS3hvcnAwdjJsOHIzVzRMenRIc2Fsbm5qSDFGaTNOTFg5cUhEMWF2OVpkd0hn?oc=5",
-      "pub_date": 1788627837.0,
-      "article_url": "https://abc13.com/post/ai-researchers-share-how-tell-image-video-is-real-not/19795459/",
-      "image": "https://cdn.abcotvs.com/dip/images/19795473_090526-ktrk-ai-or-not-sw-img.png?w=1600",
-      "description": "Ocumpaugh said that there are a few things you can look for that AI systems haven't yet mastered, like natural-looking shadows or water."
-    },
-    {
-      "headline": "Opinion | How Scared Should We Be of A.I. Right Now?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5",
-      "pub_date": 1788606005.0,
-      "article_url": "https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html",
+      "headline": "How AI Has Changed The Speed At Which Organizations Must Adapt",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWklFMU5RVGFNVWpCbkwydGR5ZjB4U2gxbVpKRVYyTHRvaGluTnhmUC0xMlpTS1hKYkhyS3BpeG95UE9MTjh0N1c3X0UtNWpwVUVXbGIwTkxMWXBFVzNpTUQySHlYR2puSDBkbmdjelBMRkVRUDZjcENBWlNCcFNjNWpaNjY2dXBadDhpQl9zTDlMUWZLSm9nTTUwTjR2aEM5alJqcGFmejVrMEZyNkoxRDloV09qcVZ4?oc=5",
+      "pub_date": 1788634800.0,
+      "article_url": "https://www.forbes.com/sites/dianehamilton/2026/09/05/how-ai-has-changed-the-speed-at-which-organizations-must-adapt/",
       "image": null,
       "description": null
     },
@@ -95,16 +45,66 @@
       "description": "Whatever your favorite smartphone, it\u2019s going to cost more. Blame inflation driven by the AI boom."
     },
     {
-      "headline": "The jobs apocalypse is postponed. An AI jobs boom is here",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbktnUHdLTzFnb0J1VE56YjVOcVFjMXZCQVprZnlpa212c0R0LWhkd0VIQlNNMzAtNmFuMVc4OXFUWm02aXRDR2x5ODVJZnBmRzlVZXVxSExRbHd4ZXZiU2dwMWh0TjdmclhzSmh1MDdkYkduWFRwdFdHNVJMSTFNckZIc2tVbXByTW1pUVl0dmhxSmVHOWpndVBGZXFPdjBiOU5ZbUZRRFg3bURCcDlvWGJlbjZQQQ?oc=5",
-      "pub_date": 1788545102.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "headline": "Dolly Parton\u2019s sister slams \u2018fake AI garbage\u2019 flooding the internet since icon\u2019s death",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5",
+      "pub_date": 1788625638.0,
+      "article_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260905-dolly-stella-parton-ch-1004-a1aae7.jpg",
+      "description": "\u201cThere is a tremendous amount of AI and endless garbage being posted everyday and it\u2019s been challenging to absorb and or ignore,\u201d Stella Parton, 77, said."
+    },
+    {
+      "headline": "Dolly Parton's sister slams 'fake AI garbage' in the wake of icon's death",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFRIaGxFU2phYU5xMTZIcndTc0FSbnlYRHNaX1RRN1J6Q2JxYWFFUGRHeXZjNVN1akx2WkdqUHBNR1Z1VnlpYkJwZk1HaDNTcmJrQm5lYmdQYUh1RXpMRWY4NDl5Tjk5VUtMbXR0LVJIUU5HWFhPQlljRDNDb0J2cjUxekh2cFpUekY2UjQ0QXpBeWlxQS1sQjhkUEtTUDJ5Yk9CYjdKTVNWdkZsQnlrWUQ3b21IYkRlNEZRODJpVXVsdDFOT3c?oc=5",
+      "pub_date": 1788629100.0,
+      "article_url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/05/dolly-parton-sister-stella-slams-fake-ai-posts/91629424007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/05/USAT/91630956007-getty-images-499682654.jpg?crop=1785,1004,x57,y196&width=1785&height=1004&format=pjpg&auto=webp",
+      "description": "Dolly Parton's sister Stella Parton spoke out against the harmful AI posts and misinformation being spread about the \"Jolene\" singer's death."
+    },
+    {
+      "headline": "Dolly Parton\u2019s Sister Stella Slams \u201cEndless Garbage\u201d, AI & Social Media Misinformation After Icon\u2019s Death",
+      "source": "Deadline",
+      "source_url": "https://deadline.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ1lkemEzaVJibHoyWHpOQThSSklHc2VFalVxbDd4VjFWMmctQWltMTRFMUZFZ1JHQ2gyVkpFQXl5NUR5ZUdnZ2Jja2RwMlcyS2lMNFoxT0c4b0diMnJNallsY3BqSkI3QWQzQi1XQ1QzQW5ZLThNWWFMZnNwZEltbU53?oc=5",
+      "pub_date": 1788626700.0,
+      "article_url": "https://deadline.com/2026/09/dolly-parton-stella-ai-social-media-1237068956/",
+      "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-499682654.jpg?w=1024",
+      "description": "Dolly Parton's sister Stella Parton is lambasting the \"tremendous amount of AI and endless garbage\u201d on social media since the icon's death."
+    },
+    {
+      "headline": "Kenyans Did College Students\u2019 Homework For Years. Then A.I. Arrived.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdVJaOGJXMWcwelNsdUpReENFVWFBN2JONjBwdzdKN3lmbXhCQnVlaXAzcE8wOHdwLTZsdnFMQlUwOG1YdVVtSGpuV2N5MDdZc21BSWMwc1RMczJ6NlBnbVhxUmgyeVVfSHpHaldDS09UbzFFUVFucHlvb05QSFU?oc=5",
+      "pub_date": 1788598934.0,
+      "article_url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why I Want More AI at Dartmouth",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2E3S0ZlS25qUHdTQjJ0dU1pUXNJamNKZHFwUnNUM01OYndQekZ2OXZ1X1A5RXVKYUNCZHBxU0JNOUR3V3ZMRFpPbG1UZ1NuTG12NnJ4ZWdYWWlrc3dCVHE0Z3BhTk1BRVl3MUpwU1ltNzFsUWtSNUw5TWdMWktwQ040QjdPMDAzUW9TUjZJYlc?oc=5",
+      "pub_date": 1788606000.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
+      "image": "https://cdn.theatlantic.com/thumbor/2RJCyVZ_tw2syS0ic0O32tSt5c8=/0x317:4023x2412/1200x625/media/img/mt/2026/09/ai_classroom5/original.jpg",
+      "description": "Universities that hide from the technology will merely secure their irrelevance."
+    },
+    {
+      "headline": "\u2018I don't think anyone is really comfortable\u2019: Democrat leading on AI raises alarms at Trump, Zuckerberg call",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFk5dVlaNzFDT3V3QTRuZ3BSS05sY1VnM1VjdUV6eHVuSkdkRmlHanhxWUVkczV1NDlPZmJMSFlndEpWOFNEYnp4NHZFZ3FHdmdYV2h5U1hhdThna3k5WXJHZ0ZmaGM0QjRlYjZLbTkwWUVmUTBPTVBiM1lDOVkxZU5LNUYzRU56a0VndER0MVVRZ1ZLcGhZRQ?oc=5",
+      "pub_date": 1788546394.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/04/congress/trahan-trump-zuckerberg-ai-01065454",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T17:11:02.276488+00:00"
+  "fetched_at": "2026-09-05T19:17:11.938021+00:00"
 }
