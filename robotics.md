@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T11:41:45.899422+00:00'
+updated: '2026-09-05T14:43:21.264205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 11:41 UTC  
+**Last Updated:** September 05, 2026 at 14:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-3d ago
+4d ago
 
 ---
 
@@ -78,7 +78,7 @@ This was surprisingly easy to do. If you have a Unitree G1 Edu version off cours
 
 Are you a GTA fan? Then you probably never noticed THIS… You thought GTA NPCs were just randomly driving around? Think again!! They’ve been doing *Robotics* this whole time To read the full breakdown tap the image
 
-🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 3d ago
+🔗 [Medium](https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation) • 4d ago
 
 ---
 
@@ -108,6 +108,12 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
+**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+
+Signal Akron • 1d ago
+
+---
+
 **[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
 Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
@@ -116,11 +122,11 @@ BBC • 1d ago
 
 ---
 
-**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
+**[19 robotics companies to watch](https://www.understandingai.org/p/19-robotics-companies-to-watch)**
 
-Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
+I talked with nine of these companies.
 
-Interesting Engineering • 13h ago
+understandingai.org • 22h ago
 
 ---
 
@@ -128,7 +134,7 @@ Interesting Engineering • 13h ago
 
 Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
 
-IEEE Spectrum • 19h ago
+IEEE Spectrum • 22h ago
 
 ---
 
@@ -138,17 +144,19 @@ WSJ • 2d ago
 
 ---
 
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
-
-Signal Akron • 1d ago
-
----
-
 **[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 22h ago
+ABC7 Chicago • 1d ago
+
+---
+
+**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
+
+Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
+
+Interesting Engineering • 16h ago
 
 ---
 
@@ -172,15 +180,7 @@ TechCrunch • 2d ago
 
 South Korean robot stocks surged on Friday as investors digested the government’s announcement earlier this week of a record 2027 budget proposal that sh
 
-kedglobal.com • 23h ago
-
----
-
-**[Marc Lore’s food delivery startup Wonder slashes 150 jobs as it invests in robotics](https://nypost.com/2026/09/03/business/food-delivery-biz-wonder-slashes-150-jobs-to-invest-in-robotics/)**
-
-Food delivery start-up Wonder slashed 175 jobs – or 7% of its workforce – this week to invest in robotics and automation, the company said.
-
-New York Post • 1d ago
+KED Global • 1d ago
 
 ---
 
@@ -188,33 +188,23 @@ New York Post • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[‘BURNING HOT’: AI gets a BODY in robotics revolution, CEO says](https://www.youtube.com/watch?v=SFOKNOgC_OM)**
-
-Xtend co-founder and CEO Aviv Shapira discusses the growing demand for physical artificial intelligence and robotics technology ...
-
-📺 Fox Business
-
-👁️ 10K • 👍 99 • 💬 14 • ⏱️ 4:41 • 11h ago
-
----
-
 **[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
 
 FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
 
 📺 Julia McCoy
 
-👁️ 72K • 👍 577 • 💬 122 • ⏱️ 9:07 • 1d ago
+👁️ 72K • 👍 582 • 💬 122 • ⏱️ 9:07 • 1d ago
 
 ---
 
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+**[Hilarious Falls and Fails at World Robotics Games 2026](https://www.youtube.com/watch?v=gA96zHCyUvU)**
 
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+Hilarious Falls and Fails at World Robotics Games 2026.
 
-📺 bycloud
+📺 Chris Wabs
 
-👁️ 290K • 👍 6K • 💬 536 • ⏱️ 15:41 • 2d ago
+👁️ 15K • 👍 120 • 💬 21 • ⏱️ 11:03 • 6d ago
 
 ---
 
@@ -224,7 +214,7 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 85K • 👍 388 • 💬 39 • ⏱️ 1:49 • 5d ago
+👁️ 86K • 👍 389 • 💬 39 • ⏱️ 1:49 • 6d ago
 
 ---
 
@@ -234,7 +224,7 @@ Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be
 
 📺 TESLA CAR WORLD
 
-👁️ 148K • 👍 1K • 💬 214 • ⏱️ 12:56 • 5d ago
+👁️ 149K • 👍 1K • 💬 217 • ⏱️ 12:56 • 5d ago
 
 ---
 
@@ -254,7 +244,7 @@ A concept imagining how advanced robotics could assist pilgrims in need at the H
 
 📺 Curiosity Loop
 
-👁️ 255K • 👍 12K • 💬 25 • ⏱️ 0:19 • 1d ago
+👁️ 279K • 👍 13K • 💬 26 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -264,7 +254,7 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 7K • 👍 92 • 💬 8 • ⏱️ 0:59 • 1d ago
+👁️ 7K • 👍 96 • 💬 8 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -278,13 +268,21 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 ---
 
-**[Elon Musk&#39;s G20 Prediction...One BILLION Robots Will Take Over](https://www.youtube.com/watch?v=HdEaiCCcGgs)**
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
 
-Elon Musk's latest G20 prediction is raising serious questions about the future of artificial intelligence, humanoid robots, and the ...
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
 
-📺 Truth B Told
+📺 Carros Show
 
-👁️ 95K • 👍 3K • 💬 670 • ⏱️ 18:27 • 1d ago
+👁️ 46K • 👍 327 • 💬 39 • ⏱️ 19:36 • 4d ago
+
+---
+
+**[Robot practice on the rooftop.🤖 #robot #dance #fyp #freestyle #doll](https://www.youtube.com/watch?v=CMtugj5J7zg)**
+
+📺 Babyslow’s Dance World
+
+👁️ 131K • 💬 209 • ⏱️ 0:21 • 2d ago
 
 ---
 
