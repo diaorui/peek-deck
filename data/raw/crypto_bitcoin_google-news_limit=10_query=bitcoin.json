@@ -5,22 +5,72 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Inside the English soccer club betting its future on Bitcoin",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemtydlAyckFkSDZwa0RQYktFb29NSlFDbHJKV1R1ZVFLU3B4MzhOYUg5azgzbFMxR3lkMjJNTEt3ZW8xU3d6UTJEbkF4U25lOFdBZzlMYTIxUENGYVZfaVNsVENvNy14ZXYyRnBtU3JDbG94QWlYd3ZNRFdWNEVULWZFSEtUNXJxVzR6SE84NjlUZ1lQME9SQXREZTYybGFEVk00UmJ3?oc=5",
-      "pub_date": 1788472800.0,
-      "article_url": "https://www.cnbc.com/video/2026/09/03/inside-the-english-soccer-club-betting-its-future-on-bitcoin.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358378-THE_SCORE_2026_EPS_03_08.jpg?v=1788442919&w=1920&h=1080",
-      "description": "How an English non-league soccer club is using Bitcoin, crypto investment and a global community to fuel its ambition to climb the football pyramid."
+      "headline": "Bitcoin's $80,000 breakout failed after a blowout jobs report",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLV9tM0ZKbGhFMWREOGl3U2RQb1NFNzlubGk0UkdBeXhBWFo0Ukk0VUxyYy1nRFdQeTJ0dnh0bm5MaXQ5X2J6SWwyVElTQkhLNGNjTmZ5bnk5dnhXOWpTRTRHc2RmQ0xweTdORWF3YlNLeWdtT2s0VUJ2LVRIVHNTdUZnUFlxeE94RWlNZE0zZWZZbmxLTEFiQy11T1hkU2phWlRvdjd2VVJGNkFMYWY4ZXhGNlEzUQ?oc=5",
+      "pub_date": 1788553141.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
+      "description": "Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward."
     },
     {
-      "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
-      "pub_date": 1788529500.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
+      "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkx1c182c0xxWEJ6b1BnMkN5NXNEcllaSnZvUnBnX1paS3RVTWxsRHJZdklUNnJQU3hsZUVrZ3QxeGk3LWRuN1BfLWVCMkpCYm81YzlPSmhaV0FoQjFUc2VuX2xlcXpDd3VVUFRXMFU0WkVIZGVjRDIxWVg2alhoTnpmN0FyNUotVTZwS28tUjQyR3dNSnhZNlpBZGR6NHBFSlJpamljeC1XbWZYQnJhaWozcnM3QmZsXzJnTkI0RS1XbzJvUVY1SVd4Y2FMS0tQRGh1WkhsMkNoQQ?oc=5",
+      "pub_date": 1788521326.0,
+      "article_url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+      "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
+      "description": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations."
+    },
+    {
+      "headline": "Why Is Crypto Crashing? Bitcoin Plunges After US Jobs Shock as $200B Is Liquidated in 15 Minutes",
+      "source": "Bitcoin Foundation",
+      "source_url": "https://bitcoinfoundation.org",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPei11MGQ5VWpvSjJTSHVBNm5LelE3VVRPSU5yMXk4d1VMUXF2M09RRlBCZ3JWRzNleHhJdlhjSHZXdjZsd0o0YlA4dXdwR19LcWVkdDZXNjQwNkx1cWVaQmZwUUZqcmE2NjV6YUUtYzVJOGpOOU9yVl95STBGLXM1ejh0YnlVdDdEUmRXVU00OElfWHBRUm9EVk9RWkptM2FNLWJpQ1BnUkZST0IzQmRyY3NFbDFVdzhpY0pNVmVkb3pBWVBiZTJ1cmhfb2p1blpJRjVUbA?oc=5",
+      "pub_date": 1788532946.0,
+      "article_url": "https://bitcoinfoundation.org/news/bitcoin/why-is-crypto-crashing-bitcoin-plunges-after-us-jobs-shock-as-200b-is-liquidated-in-15-minutes/",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Crypto-Market-Bloodbath-200-Million-Vanishes-in-15-Minutes-as-Fed-Rate-Hike-Fears-Return-2.webp",
+      "description": "Crypto markets face renewed volatility as Fed rate-hike concerns trigger a rapid sell-off, wiping out $200 million in just 15 minutes."
+    },
+    {
+      "headline": "Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center",
+      "source": "wndu.com",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhETVFpaHdXdHdoNVFiMDBHekpLTnRvN3B5eGV1SEtmRmUyb0p6Z1YweGYzdlZjMTMtcDMzcjFnbi1EWmJYSE5XXzJCM0w4bVAzcmdHVFlWeE9ieFQydm9GbnkxRk1tTmVqMzQ4dlpmZTdWSmdabzhidGJKUEdTSnBVSWxWUWR1eVR6TmZSRlBEdzU1elYtb2RYQ1lEc3MxNTVQYnZvUdIBuwFBVV95cUxOck1wVHZ0MFlpWFJqRWg5anJhdGppbHRMaTZ0T09Ub0dvYmMzdjA5Y1RISTI4cTJjNGJFSEJZRmhKVGlkZ3c2LUdkbU9WRFN2YkZtUEhlY09iLWxub3hXdERpekJVSVF1cC1xNVZYNkF2aHZ1YldqUmxUcXlQUDlmVW80SHBaVVdIZkJMZHJXWGtRbTFQMWFwaDhHSDc5UGdtazZTdVB2dTV5NDRtaHR2OVNkRlZ6V2gtb000?oc=5",
+      "pub_date": 1788575460.0,
+      "article_url": "https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/INORYVBM75C7PNCI26S2MO34NI.jpg?auth=4699000263dc8c01076808b64fbe1cb1163c10a9adefa2fa738087d9f6478ddf&width=1200&height=600&smart=true",
+      "description": "After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center."
+    },
+    {
+      "headline": "Bitcoin Slides as Blowout Jobs Report Revives Fed Hike Odds",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLUFRGQjJDVmRKU0R0b3pKbnNBTzFvZElUMjZaTC1yRy12U3A1VDNBbVdzUG0yWko3MDJhOE9Tc1VtOHYwUHVDTnJIQ2QzblJFS25DU0g1U3NtNWp5MGJ3clN4a2hfMUJta25fYXVsU0hTaXJub09vZG1XVnc4WFnSAYcBQVVfeXFMT3pMUDZXWWt2VFZMSUZ6SnJSbVFBYjZJRGlxaUsyS05YUHRwM284VjRGemhIYUpmLW9fSWI1RElFeVZ6MWt5N0xWd1R6Si1KZVczTXVCMDNMWXJfaFBtdzRtZkVTaldTS01BWTRvMVNEZHB5cHdIQ29yX2QyLXhHQkJCelRhVjVV?oc=5",
+      "pub_date": 1788534808.0,
+      "article_url": "https://decrypt.co/377414/bitcoin-slides-blowout-jobs-report-fed-hike-odds",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/nyse-decrypt-style-gID_7.jpg",
+      "description": "The Dow dropped 226 points and Bitcoin erased some gains after August payrolls tripled estimates, pushing September rate-hike odds to 58%."
+    },
+    {
+      "headline": "Bitcoin Dips Below $80,000 On Strong US Jobs Report",
+      "source": "bitcoinmagazine.com",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsRU5nNHdfdEJGT2RqMVh4TjQxd010ZU9NQjU4WTBBWGhmNm03X1dEd0x1RGxucVFQSFg2dWtXb0FpYzd2bUhTMU1qcTNiaWgzeFdMaXNXYWFfM1RzT3F6UEVoRnlPMXp3V2xtdjI0eGJyekZST1NVb0d3?oc=5",
+      "pub_date": 1788542273.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg",
+      "description": "Bitcoin dipped on news that the Federal Reserve may hike interest rates this month."
+    },
+    {
+      "headline": "Bitcoin Failed To Mount A Convincing Recovery After Quick Drop",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeko0NXVwSVI1Njk2QmRIT2E3QVJGTFpfZ0hGTUYxYTZKVHRPWkItMVgzdVdxeEthNEJrMURwdEhRVGRTLXpWSWNfdVRVYlhTM1dRbTBsUTRyMkJVdEJxVGJFMWtWX0hhTGxQM0lCVGNIc1VnNGtIb3hBRWdPZVRxaW1BR0l6SzhJOGlXc0JIZzhGNWJlU3VsTXZIclR6UHprV1BQN1AyaVhNVDlmVUxvRl9NdDFlWTRFOW84?oc=5",
+      "pub_date": 1788555031.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/04/bitcoin-failed-to-mount-a-convincing-recovery-after-tquick-drop/",
       "image": null,
       "description": null
     },
@@ -35,76 +85,26 @@
       "description": "The industry is a surprising top spender in the races."
     },
     {
-      "headline": "Bitcoin's $80,000 breakout failed after a blowout jobs report",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLV9tM0ZKbGhFMWREOGl3U2RQb1NFNzlubGk0UkdBeXhBWFo0Ukk0VUxyYy1nRFdQeTJ0dnh0bm5MaXQ5X2J6SWwyVElTQkhLNGNjTmZ5bnk5dnhXOWpTRTRHc2RmQ0xweTdORWF3YlNLeWdtT2s0VUJ2LVRIVHNTdUZnUFlxeE94RWlNZE0zZWZZbmxLTEFiQy11T1hkU2phWlRvdjd2VVJGNkFMYWY4ZXhGNlEzUQ?oc=5",
-      "pub_date": 1788553141.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoins-80000-breakout-failed-after-a-blowout-jobs-report-100000584.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
-      "description": "Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward."
-    },
-    {
-      "headline": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
-      "source": "Fortune",
+      "headline": "Current price of Bitcoin for September 4, 2026",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFVqNWRIZzlyV205Q3Z0TWRHOXVaMGItVmJScGdfSmVyYW41TFRZQmRBTXRWX3BZbFZYZUpnN0ZBVjNxSVdpTUN1ekJYV3RTSGxCLU1PUm4xaF9lNnA0bFFPV0pqUTJZY0dHcXUyTG50SGVDQ2hrYmhlX3JCNVU3QUdyTi1YQnJxVHA3c3BsaEo0UDNXSkVqeEFaMnhieW16WnhjLWpxWVJZMnVqZDBYS2ZXWm5yVjZMSHhhN2tjMWhxSHgyY29oVFF5NGN2djRUQkNVWEJxcHpPYTRM?oc=5",
-      "pub_date": 1788553740.0,
-      "article_url": "https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291864174-e1788552788603.jpg?resize=1200,600",
-      "description": "Some analysts warn the four-year cycle set to complete later this year could bring another downslide."
-    },
-    {
-      "headline": "Live updates: Bitcoin tumbles after blowout August jobs print",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFdGb3lwdkZ0eEpKX1VoWkE5Ui1KbkRvRXdCLWgzZ1pPOFFTd2Z4akk4ZkR3aTNOQUtpdFVnMl9pUy0zUTJZUUc3THRoQ3ItZkgyckNhck44WmVGZGhfTFhaNUdCMWNaYUlIRXZtVzgxcnp6QjZiRlUtU1dqVnpOczNHTEdtdERaSWE3eW5rLU9WM2k5NXRaRDNGZ1htZUp3S2Z1amtjTTJLVUdmSmZUVTVmNGdjQ3ZJZ0RVc2xpMA?oc=5",
-      "pub_date": 1788539623.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
-      "pub_date": 1788524240.0,
-      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
-      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IV2ZTQzNxaWpGWk00aGQ2OFd6VkdtUnFTd2FzR2VEVlBSRUthMmRyUW9vZUxoUVdCUjdJdG1yQ2JjejByUGhGZ1RabF91TFc1dlowdTVqa182ZEJ1a2JRdmMyYVQtcUE?oc=5",
+      "pub_date": 1788526800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-04-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-4.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Bitcoin tops $80,000: 'Crypto winter is close to being over'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzJ4UV9hNkRzQWZqckRhTUpVazZGWHRLOE9jM3cyUFNsS1FwY1VsSlA4UzZiYk9EV0JIYzhsRlBMSHdrNk5Yd0p1YU5iUUJMd1JXNmYtTThhOGxiWmpvTDk5b2tGMFNVZVE2NmItUG1STHBIU01fQl9GRTM1QjBsaGNtTEFLYW16T1VrQ1FuUExPTWJJZEFVU01CTXIxcF9GeFptOE96U1R2dVVzbDNUWW5R?oc=5",
-      "pub_date": 1788510778.0,
+      "pub_date": 1788456744.0,
       "article_url": "https://finance.yahoo.com/markets/article/bitcoin-tops-80000-crypto-winter-is-close-to-being-over-173224980.html",
       "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
       "description": "Investors see hopeful signs that bitcoin could buck a trend of historically weak performance in September."
-    },
-    {
-      "headline": "Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller\u2019s Comments",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUdVamkwTFZkVmZpd0JLUmxYc09HM2FEX3NZVFpZWXpaMk5lOGNlS2JjNENNOUFuS0MwZnN0SEc4RGpZcXlta0Y1M2VrLVhUdV93OE1UcE1KeTBONXhtNzUzMUNrWWVZekZISVpKUENaSEJvaXVqYTRxNEdVZ3VSOWF0cTBaS3c3ZzlyWExQZVBRdFl1S1luNDJPcVk5V3hMMGk2Q0hBRFFsTFU?oc=5",
-      "pub_date": 1788462222.0,
-      "article_url": "https://www.investopedia.com/bitcoin-sets-fresh-intraday-high-since-august-breakout-hood-mstr-coin-12102940",
-      "image": "https://www.investopedia.com/thmb/LvNIf7Ze2FC6twSlTIu9_dmKQ1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2279298854-6e3b9408395c47788cf17333f4d6cf13.jpg",
-      "description": "The price of the world\u2019s most well-known cryptocurrency surged along with major stock indexes Thursday."
-    },
-    {
-      "headline": "Bitcoin Drops Below $80,000 as Hot Jobs Data Spurs Fed-Hike Bets",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW40amQ5Y21mTHU2NzY5Z3BKV1hKZVpaeGthd3hwZ2JNa0ltajNUN1VyX0VOOFY5Q193TzN6Qkx2Y1RJVEViTFdXWGJYanYtdmthel9RWWZkUVdPSlJneWsxRExUSnFXTmpKYWZQSWFueTNfb1A1T2tkc25URTVPS3V6UUI5UUJFbHJKLU9yM1J0a1JmSllrR2xKcm4xVDdadzdHTnY5d3pGV3VueEx6eXBLdWI?oc=5",
-      "pub_date": 1788528650.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/bitcoin-drops-below-80-000-as-hot-jobs-data-spurs-fed-hike-bets",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-04T23:46:31.664543+00:00"
+  "fetched_at": "2026-09-05T03:18:37.340905+00:00"
 }
