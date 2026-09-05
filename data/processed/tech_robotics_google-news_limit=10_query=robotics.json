@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
-      "pub_date": 1788487322.0,
-      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
-    },
-    {
       "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -23,6 +13,26 @@
       "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
       "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
+    },
+    {
+      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "pub_date": 1788487322.0,
+      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
+    },
+    {
+      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
+      "source": "interestingengineering.com",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
+      "pub_date": 1788522420.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
+      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
     },
     {
       "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
@@ -55,24 +65,24 @@
       "description": "The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing."
     },
     {
-      "headline": "US robotics firm secures 100,000 GPUs to train next generation of humanoid robots",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzJaSjg2U3NvVmJiR1BGVHNJWE1LeU1yNUNnWXp2TVJzUFk5UGlQdmRSXy1DeDdONGN1NHY5S3BWcDQtTE1wejFVS0V1SmgyUGVDZzAxZ1owTFIzeFZZdW9naGhTWGtMeUFaUVd3dmhSS1F2U2llZ3BHczlILXB5dVlmTW55Q1dkcDgzZ3Rn?oc=5",
-      "pub_date": 1788522420.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/100000-gpus-to-power-next-gen-humanoid",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-3.jpg",
-      "description": "Figure partners with Nscale to deploy up to 100,000 NVIDIA Vera Rubin GPUs for humanoid AI development and robotics training."
+      "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
+      "pub_date": 1788387849.0,
+      "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
     },
     {
-      "headline": "China\u2019s real robot revolution is not about humanoids",
-      "source": "ft.com",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnNWelgxcGNfa2hhWW82Z1RpRnV0V1haVTV1MGM3emRPRlNtOTNQYmxWT3F4VVU0RG9oTnctQzkxNmlSQTRMdTVmQ2Y0WGFKeVlteDVLajM1Szg3eE4xb09zOHhFWXpOcHNua2ZwdDRzMURucEtRZEh4Q29lTmE4Y0U3dDY?oc=5",
-      "pub_date": 1788303663.0,
-      "article_url": "https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a41e44-e633-4162-9f1c-e04f2770aea3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "The country is using its superpower of scaling and building supply chains to challenge the global industry"
+      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
+      "pub_date": 1788427800.0,
+      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Marc Lore\u2019s food delivery startup Wonder slashes 150 jobs as it invests in robotics",
@@ -93,18 +103,8 @@
       "article_url": "https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/",
       "image": "https://imgproxy.divecdn.com/_p4B9rW_Jv5W5LlQTr9Ok2fL4kEEvvFx5KnT7Qmg_Bw/g:nowe:1:59/c:1425:805/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRV9QUkVFRVMuanBn.webp",
       "description": "Medtronic will gain rights to distribute the Hong Kong-based company\u2019s Sentire surgical robot in certain markets outside the U.S. alongside its own Hugo system."
-    },
-    {
-      "headline": "Atascadero robotics team makes it to FIRST World Championship",
-      "source": "KSBY News",
-      "source_url": "https://www.ksby.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlhuNEFQXzlFX19QMEdGWU50WXFUZjNYam16QkUxYjJHQl84UHFEMUN0Wk52ZEpXMERvMEoyZ1A3ZnJvZUxRTHk5Q0dZaW5idGdjZTZrRDZlbGRRUm1tWFNaUUVQdko0WGw4NUYzc1hNYWsxRE92UEFreS1jVDAxSk9CSGVJS3VRUFNZUFdwNERjd1ZORWtaSg?oc=5",
-      "pub_date": 1788374972.0,
-      "article_url": "https://www.ksby.com/atascadero/atascadero-robotics-team-makes-it-to-first-world-championship",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/39497e4/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd1%2Fcf%2Fef19f31642b6a5db3992713076ab%2Fatas-robotics-team.jpg",
-      "description": "At The Greybots\u2019 build space in Atascadero, you\u2019ll find Dustbowl \u2014 the robot that helped the student\u2011run robotics team qualify for the FIRST World Championship in Houston, Texas."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T03:18:36.954442+00:00"
+  "fetched_at": "2026-09-05T07:49:15.345927+00:00"
 }

@@ -9,7 +9,7 @@
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
       "hn_url": "https://news.ycombinator.com/item?id=49536375",
       "author": "jakobgreenfeld",
-      "points": 512,
+      "points": 513,
       "num_comments": 249,
       "created_at": "2026-09-02T13:59:59Z",
       "object_id": "49536375",
@@ -23,8 +23,8 @@
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "hn_url": "https://news.ycombinator.com/item?id=49544762",
       "author": "gmays",
-      "points": 458,
-      "num_comments": 178,
+      "points": 459,
+      "num_comments": 179,
       "created_at": "2026-09-03T01:11:22Z",
       "object_id": "49544762",
       "image": "https://www.kedglobal.com/data/ked/image/2026/07/21/ked202607210032.jpg",
@@ -37,7 +37,7 @@
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "hn_url": "https://news.ycombinator.com/item?id=49563386",
       "author": "DeepLogin",
-      "points": 371,
+      "points": 378,
       "num_comments": 72,
       "created_at": "2026-09-04T11:59:15Z",
       "object_id": "49563386",
@@ -51,8 +51,8 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "hn_url": "https://news.ycombinator.com/item?id=49566137",
       "author": "aaraujo002",
-      "points": 274,
-      "num_comments": 254,
+      "points": 290,
+      "num_comments": 263,
       "created_at": "2026-09-04T15:33:45Z",
       "object_id": "49566137",
       "image": null,
@@ -61,12 +61,26 @@
       "site_name": "nytimes.com"
     },
     {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569366",
+      "author": "iopapa",
+      "points": 240,
+      "num_comments": 146,
+      "created_at": "2026-09-04T19:48:29Z",
+      "object_id": "49569366",
+      "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+      "site_name": "EEBench"
+    },
+    {
       "title": "Mamdani bans AI in NYC schools",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "hn_url": "https://news.ycombinator.com/item?id=49542443",
       "author": "handfuloflight",
-      "points": 218,
-      "num_comments": 177,
+      "points": 219,
+      "num_comments": 179,
       "created_at": "2026-09-02T20:57:04Z",
       "object_id": "49542443",
       "image": null,
@@ -87,20 +101,6 @@
       "description": "Quasar sets a new benchmark for European AI, outperforming comparable European models on seven of eight selected Artificial Analysis evaluations. ...",
       "favicon": "https://multiversecomputing.com/apple-icon.png?apple-icon.3y2zhthwz5ibd.png",
       "site_name": "Multiverse Computing"
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "hn_url": "https://news.ycombinator.com/item?id=49569366",
-      "author": "iopapa",
-      "points": 183,
-      "num_comments": 118,
-      "created_at": "2026-09-04T19:48:29Z",
-      "object_id": "49569366",
-      "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
-      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
-      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
-      "site_name": "EEBench"
     },
     {
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
@@ -145,7 +145,7 @@
       "site_name": "jordangoodman.xyz"
     }
   ],
-  "total_hits": 645,
+  "total_hits": 637,
   "has_metadata": true,
-  "fetched_at": "2026-09-05T03:18:17.241153+00:00"
+  "fetched_at": "2026-09-05T07:48:55.804363+00:00"
 }

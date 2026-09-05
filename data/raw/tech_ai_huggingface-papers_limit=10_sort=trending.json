@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2608.09888",
-      "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
-      "authors": "Bj\u00f6rn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)",
-      "organization_name": "pathwaycom",
-      "organization_fullname": "Pathway",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6697aead07b36ccd016f0888/nOEvf0HpKBQJcVDfljgAc.png",
-      "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. We evaluate the model on the public ARC-AGI-1 evaluation set and use controlled ARC-like interventions to study what it learns from demonstrations, how consistently it applies an inferred transformation, and which concepts remain difficult. A 150M-parameter configuration reaches 29.5% pass@2 at a computed inference cost of \\$0.0007 per task. This operating point breaks through the previously reported ARC-AGI-1 cost-accuracy Pareto frontier, establishing a new state of the art in benchmark cost efficiency.",
-      "ai_summary": "A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.",
-      "hf_url": "https://huggingface.co/papers/2608.09888",
-      "arxiv_url": "https://arxiv.org/abs/2608.09888",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 772,
-      "num_comments": 6,
-      "published_at": "2026-08-09T20:00:00.000Z",
-      "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 10582,
-      "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
-    },
-    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -39,6 +20,25 @@
       "project_page": "https://www.flashml.ai/"
     },
     {
+      "id": "2608.09888",
+      "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+      "authors": "Bj\u00f6rn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)",
+      "organization_name": "pathwaycom",
+      "organization_fullname": "Pathway",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6697aead07b36ccd016f0888/nOEvf0HpKBQJcVDfljgAc.png",
+      "summary": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. We evaluate the model on the public ARC-AGI-1 evaluation set and use controlled ARC-like interventions to study what it learns from demonstrations, how consistently it applies an inferred transformation, and which concepts remain difficult. A 150M-parameter configuration reaches 29.5% pass@2 at a computed inference cost of \\$0.0007 per task. This operating point breaks through the previously reported ARC-AGI-1 cost-accuracy Pareto frontier, establishing a new state of the art in benchmark cost efficiency.",
+      "ai_summary": "A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.",
+      "hf_url": "https://huggingface.co/papers/2608.09888",
+      "arxiv_url": "https://arxiv.org/abs/2608.09888",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
+      "upvotes": 772,
+      "num_comments": 6,
+      "published_at": "2026-08-09T20:00:00.000Z",
+      "github_repo": "https://github.com/pathwaycom/arc-task-gen",
+      "github_stars": 10595,
+      "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
+    },
+    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -54,7 +54,7 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 30985,
+      "github_stars": 31124,
       "project_page": null
     },
     {
@@ -92,27 +92,8 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 19837,
+      "github_stars": 19882,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
-    },
-    {
-      "id": "2608.30935",
-      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
-      "authors": "Shaoan Wang, Aocheng Luo, Fei Huang et al. (20 authors)",
-      "organization_name": "LightOriginsHQ",
-      "organization_fullname": "Light Origins",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a69bc220887c57325b805ac/30q8pyMpIFKfBosP82YFV.png",
-      "summary": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual grounding, spatial reasoning, and pointing, but these capabilities are rarely elicited directly for robot control. Existing navigation systems instead rely on task- or embodiment-specific components, fragmenting perception, reasoning, and action while offering limited generalization. Here we present LightNav-0, a compact generalist embodied navigation model that elicits the spatial intelligence of a pretrained VLM and aligns it with navigation, without task-specific prediction heads. LightNav-0 represents diverse navigation tasks through a unified token interface: dual-channel pointing expresses task-, scene-, and embodiment-agnostic spatial intent, while a residual vector-quantized action tokenizer maps this intent to precise, embodiment-specific trajectories. Together with temporally aware visual history compression, ER mid-training, supervised fine-tuning, and reinforcement learning, this formulation supports instruction following, open-vocabulary object navigation, and visual tracking within a single model. The navigation training corpus spans 2K+ scenes and 4K+ hours of embodied navigation data. LightNav-ER, the embodied-reasoning checkpoint used to initialize LightNav-0, attains the highest complete-set average across 8 embodied-reasoning benchmarks, while LightNav-0 achieves state-of-the-art monocular success rates across all 10 public navigation simulation settings. Real-world evaluations further demonstrate zero-shot generalization across robot embodiments, diverse scenes, and static and dynamic targets. These results establish compact VLMs as a unified and transferable backbone for generalist embodied navigation.",
-      "ai_summary": "LightNav-0 is a compact generalist navigation model that leverages a pretrained vision-language model\u2019s spatial reasoning via unified pointing tokens and action tokenization to achieve state-of-the-art embodied navigation across diverse tasks and robots.",
-      "hf_url": "https://huggingface.co/papers/2608.30935",
-      "arxiv_url": "https://arxiv.org/abs/2608.30935",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.30935.png",
-      "upvotes": 28,
-      "num_comments": 2,
-      "published_at": "2026-08-30T20:00:00.000Z",
-      "github_repo": "https://github.com/lightorigins/LightNav-0",
-      "github_stars": 417,
-      "project_page": "https://www.lightorigins.com/en/blog/lightnav-0"
     },
     {
       "id": "2608.23283",
@@ -130,8 +111,27 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1678,
+      "github_stars": 1748,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
+      "id": "2608.30935",
+      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+      "authors": "Shaoan Wang, Aocheng Luo, Fei Huang et al. (20 authors)",
+      "organization_name": "LightOriginsHQ",
+      "organization_fullname": "Light Origins",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a69bc220887c57325b805ac/30q8pyMpIFKfBosP82YFV.png",
+      "summary": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) already encode spatial priors for visual grounding, spatial reasoning, and pointing, but these capabilities are rarely elicited directly for robot control. Existing navigation systems instead rely on task- or embodiment-specific components, fragmenting perception, reasoning, and action while offering limited generalization. Here we present LightNav-0, a compact generalist embodied navigation model that elicits the spatial intelligence of a pretrained VLM and aligns it with navigation, without task-specific prediction heads. LightNav-0 represents diverse navigation tasks through a unified token interface: dual-channel pointing expresses task-, scene-, and embodiment-agnostic spatial intent, while a residual vector-quantized action tokenizer maps this intent to precise, embodiment-specific trajectories. Together with temporally aware visual history compression, ER mid-training, supervised fine-tuning, and reinforcement learning, this formulation supports instruction following, open-vocabulary object navigation, and visual tracking within a single model. The navigation training corpus spans 2K+ scenes and 4K+ hours of embodied navigation data. LightNav-ER, the embodied-reasoning checkpoint used to initialize LightNav-0, attains the highest complete-set average across 8 embodied-reasoning benchmarks, while LightNav-0 achieves state-of-the-art monocular success rates across all 10 public navigation simulation settings. Real-world evaluations further demonstrate zero-shot generalization across robot embodiments, diverse scenes, and static and dynamic targets. These results establish compact VLMs as a unified and transferable backbone for generalist embodied navigation.",
+      "ai_summary": "LightNav-0 is a compact generalist navigation model that leverages a pretrained vision-language model\u2019s spatial reasoning via unified pointing tokens and action tokenization to achieve state-of-the-art embodied navigation across diverse tasks and robots.",
+      "hf_url": "https://huggingface.co/papers/2608.30935",
+      "arxiv_url": "https://arxiv.org/abs/2608.30935",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.30935.png",
+      "upvotes": 29,
+      "num_comments": 2,
+      "published_at": "2026-08-30T20:00:00.000Z",
+      "github_repo": "https://github.com/lightorigins/LightNav-0",
+      "github_stars": 422,
+      "project_page": "https://www.lightorigins.com/en/blog/lightnav-0"
     },
     {
       "id": "2608.24053",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-05T03:18:28.364435+00:00"
+  "fetched_at": "2026-09-05T07:49:06.713115+00:00"
 }
