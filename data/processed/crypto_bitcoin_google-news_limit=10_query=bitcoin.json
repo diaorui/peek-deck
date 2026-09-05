@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
-      "pub_date": 1788524240.0,
-      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
-      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
-    },
-    {
       "headline": "Bitcoin's $80,000 breakout just failed after a blowout jobs report",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,14 +15,34 @@
       "description": "Bitcoin nearly crossed the Rubicon. Then Friday's jobs report sent the bulls backward."
     },
     {
-      "headline": "Bitcoin is trading more like an \u2018amplified version of gold\u2019 again, but the four-year cycle theory threatens further declines",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFVqNWRIZzlyV205Q3Z0TWRHOXVaMGItVmJScGdfSmVyYW41TFRZQmRBTXRWX3BZbFZYZUpnN0ZBVjNxSVdpTUN1ekJYV3RTSGxCLU1PUm4xaF9lNnA0bFFPV0pqUTJZY0dHcXUyTG50SGVDQ2hrYmhlX3JCNVU3QUdyTi1YQnJxVHA3c3BsaEo0UDNXSkVqeEFaMnhieW16WnhjLWpxWVJZMnVqZDBYS2ZXWm5yVjZMSHhhN2tjMWhxSHgyY29oVFF5NGN2djRUQkNVWEJxcHpPYTRM?oc=5",
-      "pub_date": 1788553740.0,
-      "article_url": "https://fortune.com/2026/09/04/bitcoin-amplified-gold-four-year-cycle-theory-price-rally-safe-haven-dollar-bond-market-volatility-downside-risk/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2291864174-e1788552788603.jpg?resize=1200,600",
-      "description": "Some analysts warn the four-year cycle set to complete later this year could bring another downslide."
+      "headline": "MicroStrategy Drops $250 Bitcoin Jordans. But You Can\u2019t Buy With Crypto",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTc1Z3hiX1BxNFpwRDY5UFJab216R3l1VlNtbWU2ZllURDREdnU3MlJKazgzZ2kyS2E3eXVCV3gxZ1B1WHd1a3hIb0RIWGhIeVFLOTh2MFFzZWlSU190dEJtQU91RXRaa0FDc0RUeHpqTnhNc1pWTXdKUk1EcmU4U2htZTNMWG1lYVN0d3JQQ0l4VnlSbW45bzlXM1c5aDlvUmpuT0dWaw?oc=5",
+      "pub_date": 1788604896.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-drops-250-bitcoin-jordans-104136203.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
+      "description": "MicroStrategy now sells $250 Bitcoin Jordans. Nike stock has lost almost half its value in a year. Can crypto fans help?"
+    },
+    {
+      "headline": "Bitcoin Drops Below $80K After Strong Jobs Data, ETF Inflows Collapse 76% In A Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXN1SkdZU2M1Z3BjeURyb2JXZWZZUUVPWFFKMXBfTXJVOEZvd1hEWjJ6QTk5a3FKN3dpWG4zUG1ybkdtdUFucVFET0hvUWhXMjFKb01ITGE1dnM2NE1aMnJSZlZpR2luLWFZQVh2VVV6RDY3eFMxWW1VeTBtSERrNnRnTWV0emZScE9yVDNDWmlZWi0zY0FZcml4Zw?oc=5",
+      "pub_date": 1788605524.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-80k-strong-105204181.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fa28826ff1480a8796e6a089e53d1261713b0d921124bb345c52196852d4fef5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2dbfaa4c1d6f0553b496a0080e8de918.jpg",
+      "description": "Bank of America flagged September 11 CPI as the more decisive signal for the Fed rate path, Bitunix analysts said."
+    },
+    {
+      "headline": "Michael Saylor's Strategy Continues to Sell Bitcoin. That's Why I'm Doubling Down on Bitcoin Right Now.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWg2YlItckFCRW5CZ2lRWi1xVE5aU1ppVkd2Qm9zdWxwNGhOMnlYTGFJVWVnX29RRGNLQTlEMnlJRVB0bEpCM0l6MUVuZ245eGZ6a3haUm0tVHZEalZoZ0U4cENBMU5xcnV5OGo4WnNyeklHcEltRmxoMHpIN2x1WTh1cmIxZklSNTVHV1JQVnpQTGcyYTVKYU9xX0lMRlNTb1JGeXlrQQ?oc=5",
+      "pub_date": 1788603120.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-continues-sell-101200631.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/037cdaa41fd75553c16299c550cf129ee296b4613ec1f1ff52f2e1ef75ac2e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F34133500b597588ca0e3b615a08d66f5.jpg",
+      "description": "One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things."
     },
     {
       "headline": "Crypto Money Still Matters for the Midterms",
@@ -45,14 +55,34 @@
       "description": "The industry is a surprising top spender in the races."
     },
     {
+      "headline": "Bitcoin news: 1 BTC buys 18 ounces of gold as prices rise to $81,000",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnFWVzlIV21EdkllaFJhRHYwX25QM2pMcEZZMTc3LVVjWEpTaEIxV1gzal9NYWdRWkVxSEVWVW1DWWp4MzlMTnN3TzZ1aXNuLVYwWVhIWW5FVUtnWUVyOGxSM3RIUFZ0UW1HOHdpSGZ4TGdiVFRSd2s2cmtwN2FaUzZ5cFd0dzA0enRrWl9sX0Zwazl6THFIUlpaaFI2blkybVl4S3ZqX1pIWloyaWowVHNZcFdRUXgtUERGR0lDazFGb3ROa0g4YQ?oc=5",
+      "pub_date": 1788516561.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjV3ZWdZbWNKakNocktUNTU4TkNDbk5jcTFsOEtJRU9qQ0JVSERjWDhGbTNxQUptX3hjRnB5bl8xN1ktaEJ1bFVqbXN5QkVEUGJBNXFhaUxldXRmckF0N0hYVjJnT1JoSW5VcXhhNFhmRmRHSDNSejd2eDRINGpmZVlmcTlVMGZNRWFqaG5YWmZFNGlkUnZreA?oc=5",
-      "pub_date": 1788583259.0,
+      "pub_date": 1788585300.0,
       "article_url": "https://www.fool.com/investing/2026/09/05/heres-the-1-crypto-id-buy-if-i-could-pick-only-one/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885500%2Fdigital-market-bitcoin.jpg&w=1200&op=resize",
       "description": "Bitcoin has a unique combination of upside potential and downside protection."
+    },
+    {
+      "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkx1c182c0xxWEJ6b1BnMkN5NXNEcllaSnZvUnBnX1paS3RVTWxsRHJZdklUNnJQU3hsZUVrZ3QxeGk3LWRuN1BfLWVCMkpCYm81YzlPSmhaV0FoQjFUc2VuX2xlcXpDd3VVUFRXMFU0WkVIZGVjRDIxWVg2alhoTnpmN0FyNUotVTZwS28tUjQyR3dNSnhZNlpBZGR6NHBFSlJpamljeC1XbWZYQnJhaWozcnM3QmZsXzJnTkI0RS1XbzJvUVY1SVd4Y2FMS0tQRGh1WkhsMkNoQQ?oc=5",
+      "pub_date": 1788521326.0,
+      "article_url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+      "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
+      "description": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations."
     },
     {
       "headline": "IMF confirms El Salvador\u2019s bitcoin growth was funded by private donations, not public money",
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkx1c182c0xxWEJ6b1BnMkN5NXNEcllaSnZvUnBnX1paS3RVTWxsRHJZdklUNnJQU3hsZUVrZ3QxeGk3LWRuN1BfLWVCMkpCYm81YzlPSmhaV0FoQjFUc2VuX2xlcXpDd3VVUFRXMFU0WkVIZGVjRDIxWVg2alhoTnpmN0FyNUotVTZwS28tUjQyR3dNSnhZNlpBZGR6NHBFSlJpamljeC1XbWZYQnJhaWozcnM3QmZsXzJnTkI0RS1XbzJvUVY1SVd4Y2FMS0tQRGh1WkhsMkNoQQ?oc=5",
-      "pub_date": 1788521326.0,
-      "article_url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
-      "image": "https://www.tbstat.com/wp/uploads/2022/02/20220214_El-Salvador_Bitcoin-1200x675.png",
-      "description": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations."
-    },
-    {
-      "headline": "IMF updates assessment, confirms El Salvador's Bitcoin additions came from donations",
+      "headline": "IMF confirms El Salvador used no public funds for Bitcoin since June 2025",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYS10cmtnaEF1M1ktaU5QbGdPUE9xcnJPdm9OcmtmRHJpVFR5N2RhVHJXVDdHZURWdFdJRmtCcW00b1phbkIyai1mSlBnRVdndFltYVg3Ul9MckVtOHNBUW96M3o2V3hMdHQ5dnVWVEM5cXQ3ejBWMFBmV3BjNXltTW5NY3BUcXRWSXFZMEdqNXNIemFzRmVHRjd2QjlQUXVRRU5uZEU5QTVObUpnWUJ4RkpUeUtxOEEwVWVlZzB2bGJNOHVlMXNUcERuV0hEWDN0aENUNGo0MVdRNWNIX212dlRR?oc=5",
-      "pub_date": 1788525085.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:5dec8f17a094b:0-imf-updates-assessment-confirms-el-salvador-s-bitcoin-additions-came-from-donations/",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2YtX1FraW9Cb3RlZDhkeGlZTk5VQndwS2swVTc0cmpJbDdEa0U2N3JxdWxEUTFSU2p1SUE4eWo0T1daX3FUZVZGSkxtZTliX2N0STVDbWQzb0ZjQW9RSm5KWlotbl8tRG5WMXJpemE0cHB0T3dmanp2Uzk2MHNOSUpIa0EydkF4Q0cxd3hKXzc1bkpwYmoxenF3THBXbDZzd3lPNU40ZjN5Smx5UjFCZ2pOZEZaenV4aG9iVllYVzJBRGY3UzgtN1ZlQ3hmTmx2dlFyNA?oc=5",
+      "pub_date": 1788521571.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:6f67bdda6094b:0-imf-confirms-el-salvador-used-no-public-funds-for-bitcoin-since-june-2025/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The International Monetary Fund has reversed course on one of its more awkward claims about El Salvador's Bitcoin stash. After spending the better part of a year insisting that the country's reported Bitcoin accumulation was nothing more than coins being shuffled between government wallets, the IMF\u2026"
-    },
-    {
-      "headline": "The Nasdaq\u2019s Biggest Winner Was a Bitcoin Stock That Is Still Down 56% in a Year",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2ZOUDBSYlo4YUxHZjlmendnTEF3Mk4xNzFScnR0eXBESUxUUl9TWVd1ZlVnUHFTWmpsQTg2Y3ZCZWVsdTQ1SVlxdnhXU09ESUpyOXE5VjBlUHQtajlPcEtiZkxKRDB5VjlsRTN4TVhWTjF3NDhPTzI5dFlxUTV5ai0tWE04d01fUFNZXy1hZlY4NWM4WDNUUUQteU5QUTY3TFJnNjVBRWM1bXFZYzNINDVYczdkRTItSU1fN0pNcw?oc=5",
-      "pub_date": 1788524280.0,
-      "article_url": "https://247wallst.com/investing/2026/09/04/the-nasdaqs-biggest-winner-was-a-bitcoin-stock-that-is-still-down-56-in-a-year/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/08/bitcoin-is-down-44-and-blackrock-just-launched-a-f-featured-1785952151327.webp",
-      "description": "Strategy surged 18% to lead the Nasdaq on Thursday, yet its shareholders are sitting on a loss that dwarfs bitcoin's own slide over the past year. The same leverage that fueled one electric session has a habit of cutting just as hard in the other direction."
-    },
-    {
-      "headline": "Strategy holds $52B in net Bitcoin reserves after adjustments",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVlrNGJHS2VuLXNfdk5lR3U3ZnlfVXhZdmVycnM4aVhXa1o0bTNsY0FHNWEyRUNneExCVzFVR21Lb0YyaDUzZHZRazZQR3FTdDFic0QxM3lvTnYtaTBsMG1hSXdpVi1tcXVYc3IzYzdaSHRGSGF1M0lQSkRrd01hb3paRVdpcFNFMHZDQ1Jpd2JNX3FydHlxWllJTWVROHVOU085MUxWVTNaQ0lfY0JhVWNhQk0ycWxKVjI0eU04Vi01T0E?oc=5",
-      "pub_date": 1788554190.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:eac2b2447094b:0-strategy-holds-52b-in-net-bitcoin-reserves-after-adjustments/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Strategy Inc. is sitting on roughly $52.5 billion in net Bitcoin reserves after subtracting what it owes to preferred shareholders and convertible debt holders.The gross number is substantially larger. Strategy holds approximately 845,050 BTC valued at around $74 billion, which represents about 4.0\u2026"
+      "description": "The International Monetary Fund has officially verified that every Bitcoin purchased by El Salvador since June 27, 2025, was funded entirely through private donations, with zero public resources tapped for crypto accumulation. The confirmation came on September 3 as part of a staff-level agreement\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T07:49:12.774802+00:00"
+  "fetched_at": "2026-09-05T11:41:28.515729+00:00"
 }
