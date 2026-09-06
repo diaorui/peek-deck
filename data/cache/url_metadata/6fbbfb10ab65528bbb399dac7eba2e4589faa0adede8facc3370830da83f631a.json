@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-06T12:15:35.026330+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/ethereum-eip-8141-buka-potensi-hyper-scaling-vitalik-jelaskan",
+    "title": "Ethereum advances EIP-8141 to boost network sca... | Pluang",
+    "description": "Ethereum developers are progressing with EIP-8141, a new transaction design that separates transaction actions from dependencies to enable more parallel processing and improve scalability. This design supports features like account abstraction, batching, and gas sponsorship, potentially lowering costs and enhancing security with advanced proofs. A public testnet is already running EIP-8141 as developers refine it ahead of the planned 2027 Hegot\u00e1 hard fork. The update aims to make Ethereum transactions more flexible and efficient without sacrificing its general-purpose capabilities.",
+    "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Blockonomi",
+    "keywords": null
+  }
+}
