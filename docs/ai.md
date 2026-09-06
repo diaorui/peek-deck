@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-06T03:18:25.480730+00:00'
+updated: '2026-09-06T08:03:36.082859+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 06, 2026 at 03:18 UTC  
+**Last Updated:** September 06, 2026 at 08:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Frontier AI models have already conducted autonomous end-to-end compromises, but the situation will become more urgent very soon.
 
-🔗 [Dark Reading](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks) • 7h ago
+🔗 [Dark Reading](https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks) • 12h ago
 
 ---
 
-**[Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom](https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/)**
+**[GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack](https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/)**
 
-Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI’s economic impact.
+A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model’s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579) • 8h ago
+1h ago
 
 ---
 
@@ -57,7 +57,39 @@ Donald Trump argues that AI and data centre expansion will create millions of jo
 
 ‘The moral of the story is, trying to bypass communities in developing these data centers is not working, and they’re going to take it to the polls,’ said one expert
 
-🔗 [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html) • 3h ago
+🔗 [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html) • 8h ago
+
+---
+
+**[Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom](https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/)**
+
+Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI’s economic impact.
+
+🔗 [Tech Times UK](https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579) • 12h ago
+
+---
+
+**[Can AI design circuit boards yet?](https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/)**
+
+A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.
+
+🔗 [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) • 2h ago
+
+---
+
+**[What will LLMs never do?](https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/)**
+
+In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: “(a) highly autonomous systems that outperform humans at most economically valuable work.” I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to "outperform humans at most economically valuable work.", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter "how" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software.
+
+3h ago
+
+---
+
+**[Rouge AI Tracker: A central news source for Rogue AI incidents](https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/)**
+
+Rogue AI Tracker reviews public incidents and research to track observed autonomous AI-agent capabilities and critical milestones.
+
+🔗 [Rogue AI Tracker](https://rogueaitracker.com/) • 22m ago
 
 ---
 
@@ -65,7 +97,7 @@ Donald Trump argues that AI and data centre expansion will create millions of jo
 
 I reckon we have all seen demos where someone’s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up locally to handle basic daily tasks, i spend three hours trying to make things work, only to watch the agent get stuck in an infinite loop trying to read a single text file. it feels like we are spending more time babysitting frameworks than we are actually saving. by the time i debug the prompt chaining and fix tool definitions, i could have just done the task manually twice over. are people actually running these autonomous setups for real daily work? what is an agent workflow you have actually kept running for more than a week without it crashing?
 
-8h ago
+13h ago
 
 ---
 
@@ -77,43 +109,11 @@ I reckon we have all seen demos where someone’s multi-agent framework spins up
 
 ---
 
-**[[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1w8gq6w/removed_by_reddit/)**
+**[If an AI agent can act on the internet without asking you every time should we actually trust it ?](https://www.reddit.com/r/artificial/comments/1w8obmo/if_an_ai_agent_can_act_on_the_internet_without/)**
 
-[ Removed by Reddit on account of violating the content policy. ]
+AI agents are getting scary good. Were moving from AI that simply answers questions to AI that can actually take actions online edit things, use websites and interact with other systems. Recent reports about AI agents making thousands of changes on their own made me wonder: At what point should an AI agent be treated like an employee rather than a tool ? Would you trust an AI agent with: your email ? your money ? your social media ? your business ? your personal data ? Or do you think humans should always approve every important action ? What s the one thing you d NEVER let an AI agent control ?
 
-3h ago
-
----
-
-**[Why are more people not concerned about privacy?](https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/)**
-
-There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?
-
-1d ago
-
----
-
-**[What's the deal with all those cheap 3D modelled web apps?](https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/)**
-
-My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused or stolen from online libraries. Or cheap SVGs. Most seem to run on THREE.JS which requires tremendous amounts of effort to be optimisers as all runs in an already heavy browser. Is this the latest definition of AGI? To me it looks like kids burning resources to generate unoptimized codebases with stolen assets that no one will never ever use again. About 10 years ago you were able to do this stuff using free scaffolding resources from unity. Please stop. And apologies, just came back from a 3 weeks vacation and have the feeling half of the internet should get one, too.
-
-11h ago
-
----
-
-**[OK, who's gonna make a model of Michael Knight's computer KITT ?](https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/)**
-
-So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run LLMs.... will maybe me like having a KITT on your wrist. A conversational computer.
-
-16h ago
-
----
-
-**[Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'](https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/)**
-
-Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks.
-
-🔗 [Tech Times UK](https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574) • 1d ago
+1h ago
 
 ---
 
@@ -121,41 +121,15 @@ Senator Bernie Sanders advocates for an immediate halt on advanced AI developmen
 
 ## Google News: "ai"
 
-**[The AI Shift Turning Everyday Investors Into Mini Quant Funds](https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f)**
+**[OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior](https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/)**
 
-WSJ • 3h ago
-
----
-
-**[EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)**
-
-Reuters • 1d ago
-
----
-
-**[OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)**
-
-OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.
-
-TechCrunch • 9h ago
+Reuters • 10h ago
 
 ---
 
 **[Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)**
 
-The New York Times • 2d ago
-
----
-
-**[Traders Flock to Bullish Chinese Stock Bets for AI Alternative](https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative)**
-
-bloomberg.com • 2h ago
-
----
-
-**[Kenyans Made a Living Writing College Essays. Then A.I. Arrived.](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html)**
-
-The New York Times • 6h ago
+nytimes.com • 2d ago
 
 ---
 
@@ -163,31 +137,59 @@ The New York Times • 6h ago
 
 Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.
 
-OpenAI • 20h ago
+OpenAI • 20m ago
 
 ---
 
-**[America’s Two Largest School Districts Impose AI Moratoriums](https://techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums)**
+**[The AI Shift Turning Everyday Investors Into Mini Quant Funds](https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f)**
 
-The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.
-
-Tech Policy Press • 13h ago
+WSJ • 2d ago
 
 ---
 
-**[The best time to buy an iPhone may be right this minute](https://www.washingtonpost.com/technology/2026/09/05/apple-is-expected-raise-iphone-prices-due-ai-inflation/)**
+**[Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death](https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080)**
 
-Whatever your favorite smartphone, it’s going to cost more. Blame inflation driven by the AI boom.
+“There is a tremendous amount of AI and endless garbage being posted everyday and it’s been challenging to absorb and or ignore,” Stella Parton, 77, said.
 
-The Washington Post • 11h ago
+NBC News • 15h ago
 
 ---
 
-**[Why I Want More AI at Dartmouth](https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/)**
+**[Dolly Parton’s sister urges fans to have more ‘compassion’ after singer’s death](https://www.independent.co.uk/arts-entertainment/music/news/dolly-parton-sister-stella-ai-fake-instagram-b3045412.html)**
 
-Universities that hide from the technology will merely secure their irrelevance.
+Stella Parton said the family had been subjected to ‘incredible pressure and insensitivity from strangers’ after the late Queen of Country’s death
 
-The Atlantic • 16h ago
+The Independent • 1h ago
+
+---
+
+**[Dolly Parton's sister calls out 'endless misinformation' after icon's death](https://www.usatoday.com/story/entertainment/celebrities/2026/09/05/dolly-parton-sister-stella-slams-fake-ai-posts/91629424007/)**
+
+Dolly Parton's sister Stella Parton spoke out against the harmful AI posts and misinformation being spread about the "Jolene" singer's death.
+
+USA Today • 6h ago
+
+---
+
+**[Nottinghamshire actor says AI voice clone campaign won support fast](https://www.bbc.com/news/articles/c4gdrv8eegvo)**
+
+Peter Caulfield says he started his campaign when he realised there was little protection for actors.
+
+BBC • 2h ago
+
+---
+
+**[Kenyans Made a Living Writing College Essays. Then A.I. Arrived.](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html)**
+
+nytimes.com • 23h ago
+
+---
+
+**[How parent activists pushed schools to restrict AI and screen time — and won](https://www.nbcnews.com/news/education/parent-activists-pushed-schools-ai-screen-time-won-rcna595683)**
+
+New York, Los Angeles and Washington, D.C., announced changes this week in response to a growing grassroots movement against technology in schools.
+
+NBC News • 19h ago
 
 ---
 
@@ -195,19 +197,19 @@ The Atlantic • 16h ago
 
 ## HackerNews: "ai"
 
-**[Google AI Mode shows same products 21.6% more expensive than traditional search](https://news.ycombinator.com/item?id=49563386)**
-
-A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.
-
-⬆️ 393 • 💬 74 • 1d ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
-
----
-
 **[Can AI design circuit boards yet?](https://news.ycombinator.com/item?id=49569366)**
 
 A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.
 
-⬆️ 388 • 💬 209 • 1d ago • [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+⬆️ 405 • 💬 217 • 1d ago • [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+
+---
+
+**[Google AI Mode shows same products 21.6% more expensive than traditional search](https://news.ycombinator.com/item?id=49563386)**
+
+A US and UK data study: when the same product ranks in both Google AI Mode and traditional search, the AI Mode price is about 21.6% higher.
+
+⬆️ 394 • 💬 74 • 1d ago • [Productrise](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 
 ---
 
@@ -215,19 +217,27 @@ A look at what current models can build, where they fail, and how EEBench tests 
 
 AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.
 
-⬆️ 368 • 💬 323 • 19h ago • [sylvainkalache.com](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+⬆️ 379 • 💬 333 • 1d ago • [sylvainkalache.com](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 
 ---
 
 **[Corporate America is getting hooked on open-source AI](https://news.ycombinator.com/item?id=49566137)**
 
-⬆️ 319 • 💬 298 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
+⬆️ 324 • 💬 299 • 1d ago • [nytimes.com](https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html)
 
 ---
 
 **[OpenAI agents hijacked German website in previously undisclosed AI breakout](https://news.ycombinator.com/item?id=49562744)**
 
-⬆️ 94 • 💬 2 • 1d ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+⬆️ 95 • 💬 2 • 1d ago • [reuters.com](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/)
+
+---
+
+**[OKF Agent Memory – Git-native persistent memory for AI coding agents](https://news.ycombinator.com/item?id=49581240)**
+
+Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...
+
+⬆️ 66 • 💬 20 • 9h ago • [GitHub](https://github.com/okf-memory/okf-agent-memory)
 
 ---
 
@@ -239,31 +249,23 @@ WASHINGTON, Sept. 3 — Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Tex
 
 ---
 
+**[America's two largest school districts impose AI moratoriums](https://news.ycombinator.com/item?id=49580980)**
+
+The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.
+
+⬆️ 59 • 💬 72 • 10h ago • [Tech Policy Press](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
+
+---
+
 **[A dark horse enters China's AI race: StartLux](https://news.ycombinator.com/item?id=49548530)**
 
 ⬆️ 55 • 💬 29 • 2d ago • [chinaonchina.com](https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector)
 
 ---
 
-**[America's two largest school districts impose AI moratoriums](https://news.ycombinator.com/item?id=49580980)**
-
-The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.
-
-⬆️ 54 • 💬 64 • 5h ago • [Tech Policy Press](https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/)
-
----
-
 **[NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade](https://news.ycombinator.com/item?id=49558433)**
 
 ⬆️ 47 • 💬 11 • 2d ago • [The official website of the City of New York](https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat)
-
----
-
-**[OKF Agent Memory – Git-native persistent memory for AI coding agents](https://news.ycombinator.com/item?id=49581240)**
-
-Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...
-
-⬆️ 42 • 💬 16 • 5h ago • [GitHub](https://github.com/okf-memory/okf-agent-memory)
 
 ---
 
@@ -277,17 +279,27 @@ Try Morph for FREE: https://modelcode.ai/morph Use code HOUSEOFEL to get 60000 f
 
 📺 House of El: AI
 
-👁️ 199K • 👍 10K • 💬 1K • ⏱️ 20:45 • 1d ago
+👁️ 212K • 👍 10K • 💬 1K • ⏱️ 20:45 • 1d ago
 
 ---
 
-**[Did OpenAI actually build AGI? GPT-6 Astra first look](https://www.youtube.com/watch?v=FluKUJyeYD8)**
+**[OpenAI EXEC ADMITS Hiding AI DOOMSDAY SCENARIO](https://www.youtube.com/watch?v=36Pn21dJWL0)**
 
-CodeRabbit Security protects your code from AI-driven exploits. Get 10 free code scans here: https://coderabbit.link/fireship-010 ...
+Krystal and Saagar discuss OpenAI admitting to hiding a doomsday scenario. Sign Up For 30 Day Free BP Trial: ...
 
-📺 Fireship
+📺 Breaking Points
 
-👁️ 2.3M • 👍 33K • 💬 2K • ⏱️ 7:27 • 1d ago
+👁️ 264K • 👍 5K • 💬 1K • ⏱️ 15:59 • 2d ago
+
+---
+
+**[AI Has Fully Gone Rogue](https://www.youtube.com/watch?v=1jOMMoq564o)**
+
+Support The Show On Patreon!: https://www.patreon.com/seculartalk Subscribe to Krystal Kyle & Friends On Substack!
+
+📺 Secular Talk
+
+👁️ 235K • 👍 8K • 💬 2K • ⏱️ 21:33 • 1d ago
 
 ---
 
@@ -297,7 +309,17 @@ Bernie Sanders is pushing a bill that would put a ban on advanced A.I. developme
 
 📺 Glenn Beck
 
-👁️ 449K • 👍 9K • 💬 2K • ⏱️ 17:34 • 1d ago
+👁️ 497K • 👍 10K • 💬 2K • ⏱️ 17:34 • 1d ago
+
+---
+
+**[Five questions about AI—and my answers](https://www.youtube.com/watch?v=ReogxIL1rBk)**
+
+In a recent memo, I laid out some initial thoughts on things the world must do to maximize the good of AI and minimize the bad.
+
+📺 Bill Gates
+
+👁️ 274K • 👍 2K • ⏱️ 2:42 • 1d ago
 
 ---
 
@@ -307,7 +329,17 @@ Here's the AI News you probably missed this week. Try AI Flows with Artlist Unli
 
 📺 Matt Wolfe
 
-👁️ 106K • 👍 2K • 💬 209 • ⏱️ 30:56 • 1d ago
+👁️ 115K • 👍 2K • 💬 212 • ⏱️ 30:56 • 1d ago
+
+---
+
+**[We Tested AI Life Hacks](https://www.youtube.com/watch?v=K0hCyYILJh4)**
+
+Which your favorite hack?? shoutout @Sambucha for the inspo!! **STREAM MY MUSIC HERE!** SPOTIFY: ...
+
+📺 Liv Swearingen (LIV)
+
+👁️ 103K • 👍 2K • 💬 262 • ⏱️ 17:28 • 14h ago
 
 ---
 
@@ -317,7 +349,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 179K • 👍 2K • 💬 105 • ⏱️ 5:42 • 2d ago
+👁️ 184K • 👍 2K • 💬 105 • ⏱️ 5:42 • 2d ago
 
 ---
 
@@ -327,47 +359,17 @@ A full faceless YouTube video, start to finish, in 3 steps — no camera, no edi
 
 📺 Higgsfield AI
 
-👁️ 76K • 👍 2K • 💬 169 • ⏱️ 7:28 • 1d ago
+👁️ 83K • 👍 2K • 💬 178 • ⏱️ 7:28 • 1d ago
 
 ---
 
-**[Nobody wants to buy something AI generated | David Gerard](https://www.youtube.com/watch?v=vkIn0Xh0Ld8)**
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
 
-They can't harm you, if they can't find you! Use code thetechreport at the link below and get 60% off an annual plan: ...
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
 
-📺 The Tech Report
+📺 Curiosity Loop
 
-👁️ 184K • 👍 3K • 💬 970 • ⏱️ 32:49 • 2d ago
-
----
-
-**[The biggest AI threat is not what critics fear, expert warns](https://www.youtube.com/watch?v=CHcjUQX_VFM)**
-
-Center for Industrial Progress founder and CEO Alex Epstein analyzes calls from progressives to ban artificial superintelligence ...
-
-📺 Fox Business
-
-👁️ 19K • 👍 167 • 💬 92 • ⏱️ 5:11 • 1d ago
-
----
-
-**[ABUSING TikTok’s New AI Video Generator](https://www.youtube.com/watch?v=gbEDzBUtnbc)**
-
-finally. 3 minute slop. today I'm trying Seedance 2.5, an AI video generator made by the same company as TikTok. Merch that ...
-
-📺 Dan Dingle
-
-👁️ 243K • 👍 9K • 💬 856 • ⏱️ 14:08 • 1d ago
-
----
-
-**[What if the AI Bubble Bursts (Day by Day)](https://www.youtube.com/watch?v=T9d6lrvzM9o)**
-
-The AI boom has created trillions of dollars in market value, but underneath it sits a web of debt, expensive GPUs, concentrated ...
-
-📺 The Infographics Show
-
-👁️ 2.2M • 👍 15K • 💬 3K • ⏱️ 32:05 • 2d ago
+👁️ 399K • 👍 15K • 💬 36 • ⏱️ 0:19 • 2d ago
 
 ---
 
@@ -383,7 +385,7 @@ DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates
 
 `image-text-to-text` `304.6B`
 
-⬇️ 184,542 • ❤️ 682 • 4d ago
+⬇️ 184,542 • ❤️ 695 • 4d ago
 
 ---
 
@@ -395,19 +397,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,024,467 • ❤️ 14,043 • 22d ago
-
----
-
-**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
-
-*Qwen*
-
-Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
-
-`image-text-to-text` `180.0B`
-
-⬇️ 401,327 • ❤️ 4,918 • 9d ago
+⬇️ 6,024,467 • ❤️ 14,056 • 22d ago
 
 ---
 
@@ -419,7 +409,19 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 4,755 • ❤️ 549 • 2d ago
+⬇️ 4,755 • ❤️ 563 • 3d ago
+
+---
+
+**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
+
+*Qwen*
+
+Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
+
+`image-text-to-text` `180.0B`
+
+⬇️ 401,327 • ❤️ 4,925 • 10d ago
 
 ---
 
@@ -431,7 +433,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 123,025 • ❤️ 458 • 3d ago
+⬇️ 123,025 • ❤️ 469 • 3d ago
 
 ---
 
@@ -443,7 +445,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 727,610 • ❤️ 2,081 • 1d ago
+⬇️ 727,610 • ❤️ 2,082 • 2d ago
 
 ---
 
@@ -455,7 +457,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,484,329 • ❤️ 2,893 • 4d ago
+⬇️ 1,484,329 • ❤️ 2,906 • 5d ago
 
 ---
 
@@ -467,7 +469,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 297,493 • ❤️ 412 • 3d ago
+⬇️ 297,493 • ❤️ 430 • 3d ago
 
 ---
 
@@ -479,7 +481,7 @@ GLM-5.3 is a text-generation model excelling in complex coding and long-horizon 
 
 `text-generation` `753.3B`
 
-⬇️ 370,417 • ❤️ 1,720 • 1d ago
+⬇️ 370,417 • ❤️ 1,723 • 2d ago
 
 ---
 
@@ -491,7 +493,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 10,157,510 • ❤️ 3,546 • 16d ago
+⬇️ 10,157,510 • ❤️ 3,554 • 16d ago
 
 ---
 
@@ -507,7 +509,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 772 • 💬 6 • ⭐ 10,763 • 27d ago
+▲ 772 • 💬 6 • ⭐ 10,800 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -533,7 +535,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 39 • 💬 1 • ⭐ 31,251 • 35mo ago
+▲ 39 • 💬 1 • ⭐ 31,337 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -573,7 +575,7 @@ AutoResearch is a two-stage autonomous system that grounds research ideas throug
 
 Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.
 
-▲ 49 • 💬 2 • ⭐ 19,932 • 13d ago
+▲ 49 • 💬 2 • ⭐ 19,983 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23552) • [💻 code](https://github.com/PrimeIntellect-ai/prime-agent) • [🔗 project](https://www.primeintellect.ai/blog/prime-agent)
 
@@ -587,7 +589,7 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 205 • 💬 3 • ⭐ 1,787 • 13d ago
+▲ 205 • 💬 3 • ⭐ 1,824 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -641,7 +643,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 20.8k • 🔱 2.4k • 12h ago
+⭐ 20.9k • 🔱 2.4k • 17h ago
 
 ---
 
@@ -651,7 +653,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.3k • 🔱 531 • 2m ago
+⭐ 4.3k • 🔱 535 • 1h ago
 
 ---
 
@@ -671,7 +673,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `HTML`
 
-⭐ 3.6k • 🔱 225 • 13h ago
+⭐ 3.6k • 🔱 226 • 18h ago
 
 ---
 
@@ -681,7 +683,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 437 • 9h ago
+⭐ 3.5k • 🔱 438 • 1h ago
 
 ---
 
@@ -701,7 +703,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.3k • 🔱 138 • 12h ago
+⭐ 2.3k • 🔱 139 • 17h ago
 
 ---
 
@@ -721,17 +723,17 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 18h ago
+⭐ 1.9k • 🔱 1.3k • 23h ago
 
 ---
 
-**[lexmount/moli](https://github.com/lexmount/moli)**
+**[diudiu-tech/delivery-harness](https://github.com/diudiu-tech/delivery-harness)**
 
-Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
+AI harness reference implementation for on-demand delivery workflows
 
-`Rust` `ai-agents` `ai-tools` `browser` `browser-automation` `cloud-browser`
+`Java`
 
-⭐ 1.7k • 🔱 107 • 6h ago
+⭐ 1.9k • 🔱 59 • 2d ago
 
 ---
 
