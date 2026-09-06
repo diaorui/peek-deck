@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-06T15:39:09.013456+00:00'
+updated: '2026-09-06T18:04:19.433753+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 15:39 UTC  
+**Last Updated:** September 06, 2026 at 18:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +0.6%  
-**30d:** +29.3%  
-**90d:** +51.4%  
-**1y:** -42.5%  
+**24h:** +0.6%  
+**7d:** +1.0%  
+**30d:** +29.9%  
+**90d:** +52.0%  
+**1y:** -42.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.23B
+**Market Cap:** $304.02B
 Rank #2
 
 **Circulating Supply:** 122,023,858 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.6%
 
 **All-Time Low:** $0.43
-+571964.7%
++575325.1%
 
 ---
 
@@ -96,7 +96,7 @@ Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 1d ago
+🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 2d ago
 
 ---
 
@@ -158,19 +158,19 @@ Forbes • 3d ago
 
 ---
 
-**[Ethereum Layer 2s lead crypto sectors as they h...](https://pluang.com/en/news-feed/ethereum-l2-memimpin-transaksi-eth-94-persen-berpindah-offchain)**
+**[Ethereum's EIP-8141 proposes easier wallets wit...](https://pluang.com/en/news-feed/vitalik-buterin-eip-8141-mudahkan-dompet-ethereum)**
 
-Ethereum's Layer 2 networks now process nearly 30 million transactions daily, accounting for 94% of all Ethereum ecosystem transactions. This surge in Layer 2 activity supports a market rotation favoring Ethereum, Layer 2 tokens, and DeFi assets, with major networks like Base and Arbitrum securing significant capital. Despite the high transaction volume on Layer 2s, most DeFi capital remains on Ethereum mainnet, highlighting a split where Layer 2s handle activity while mainnet holds capital and settlement functions. This dynamic underpins recent gains across Ethereum-related tokens beyond just ETH price movements.
+Ethereum co-founder Vitalik Buterin has proposed EIP-8141, aiming to simplify Ethereum wallets by allowing multiple actions in one transaction, supporting key rotation to reduce reliance on seed phrases, and enabling apps to pay users' gas fees. This could make Ethereum more user-friendly, especially for newcomers, by combining steps like token approval and swapping into a single confirmation. The proposal also adds support for stronger cryptographic signatures and is under consideration for the upcoming Hegotá upgrade, though no activation date is set yet. Developers are currently focused on the Glamsterdam upgrade expected in late 2026.
 
-Pluang • 2h ago
+Pluang • 19m ago
 
 ---
 
-**[Where Will Solana Be in 5 Years?](https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/)**
+**[Robinhood surpasses Solana in daily DEX volume, challenging its dominance and boosting Ethereum's outlook.](https://pluang.com/en/news-feed/robinhood-flip-volume-dex-solana-sinyal-breakout-eth-sol)**
 
-This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
+Robinhood Chain has overtaken Solana in daily decentralized exchange (DEX) volume, processing $1.45 billion compared to Solana's $1.25 billion on September 5. This shift challenges Solana's long-held dominance, as Robinhood also recently crossed $3 billion in daily DEX volume and increased locked assets by 30% in a week. The rise in Robinhood's activity is boosting Ethereum's ecosystem, with record revenues and growing liquidity, potentially triggering a breakout in the ETH/SOL ratio. This trend signals a rotation in on-chain activity favoring Ethereum, which could strengthen its market position heading into Q4.
 
-The Motley Fool • 1d ago
+Pluang • 39m ago
 
 ---
 
@@ -182,6 +182,14 @@ TradingView • 1d ago
 
 ---
 
+**[Where Will Solana Be in 5 Years?](https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/)**
+
+This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs](https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/)**
 
 Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
@@ -190,19 +198,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames](https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/)**
-
-EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
-
-Crypto Briefing • 16h ago
-
----
-
 **[Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4](https://www.benzinga.com/crypto/cryptocurrency/26/09/61643822/forget-xrp-ethereum-these-5-altcoins-could-rally-outperform-in-q4)**
 
 Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says.
 
-benzinga.com • 21h ago
+Benzinga • 23h ago
 
 ---
 
@@ -214,6 +214,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames](https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/)**
+
+EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
+
+Crypto Briefing • 18h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)**
 
 Bitcoin opened at $81,271.92 on Friday, September 4, 2026, 5.1% higher than Thursday's opening price. As of 7:21 a.m. ET this morning, the price of bitcoin shifted to $81,240.29.  Ethereum opened at $2,507.70 today, up 4.9% from Thursday's opening price. Ethereum moved to $2,522.14 as of 7:21 a.m. ET.
@@ -222,17 +230,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000—Here’s What You Need to Know](https://www.tradingview.com/news/coinpedia:67fd571e3094b:0-why-is-ethereum-still-below-3000-while-bitcoin-price-hits-82-000-here-s-what-you-need-to-know/)**
-
-Ethereum price has recovered sharply over the past few days, but the rally has not yet produced the swing the bulls are waiting for. It climbed back above $2,500 after gaining nearly 5%, while the Bitcoin price moved above $82,000 as institutional demand returned to the crypto market. The divergenc…
-
-TradingView • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 8K • 👍 633 • 💬 182 • ⏱️ 36:55 • 8h ago
+
+---
 
 **[&quot;This Is The Moment&quot;! Crypto Exiting A 5-Year Bear Market (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=DwQ4F_akaFo)**
 
@@ -240,7 +250,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 26K • 👍 730 • 💬 241 • ⏱️ 18:55 • 23h ago
+👁️ 28K • 👍 744 • 💬 241 • ⏱️ 18:55 • 1d ago
 
 ---
 
@@ -250,17 +260,7 @@ Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you th
 
 📺 No Bs Crypto
 
-👁️ 12K • 👍 354 • 💬 53 • ⏱️ 19:02 • 21h ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
-
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 554 • 💬 168 • ⏱️ 36:55 • 6h ago
+👁️ 13K • 👍 372 • 💬 48 • ⏱️ 19:02 • 1d ago
 
 ---
 
@@ -270,7 +270,17 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 13K • 👍 205 • 💬 150 • ⏱️ 13:53 • 1d ago
+👁️ 13K • 👍 212 • 💬 146 • ⏱️ 13:53 • 1d ago
+
+---
+
+**[Ethereum Is Winning. But ETH Holders Might Not.](https://www.youtube.com/watch?v=4QuLcoKAfbg)**
+
+Ethereum is dominating crypto right now, but I lay out why that may not translate into ETH holders winning, and where I think the ...
+
+📺 Jerry Banfield Crypto Reviews
+
+👁️ 1K • 👍 47 • 💬 38 • ⏱️ 20:29 • 14h ago
 
 ---
 
@@ -280,17 +290,37 @@ Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. 
 
 📺 YaBoySkey
 
-👁️ 569 • 👍 32 • 💬 7 • ⏱️ 9:20 • 11h ago
+👁️ 683 • 👍 36 • 💬 8 • ⏱️ 9:20 • 14h ago
 
 ---
 
-**[Ethereum: Decisive week ahead for ETH!!](https://www.youtube.com/watch?v=Uu_9K157vlk)**
+**[Mark Yusko &amp; CZ :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=hKO5jSIXKHU)**
 
-WEEX - trade crypto AND stocks like NVDA and TSLA, no KYC, up to $10000+ in sign up rewards https://marzell.org/WEEX ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Marzell Crypto
+📺 Crypto Nutshell
 
-👁️ 912 • 👍 16 • 💬 35 • ⏱️ 5:40 • 1d ago
+👁️ 18K • 👍 310 • 💬 23 • ⏱️ 14:57 • 1d ago
+
+---
+
+**[🚨 I just moved $75,000 into XRP, ETH and HYPE  58,000 jobs decides if the Fed hikes in 12 days](https://www.youtube.com/watch?v=8-lUeKEzTgA)**
+
+1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 579 • 💬 63 • ⏱️ 13:06 • 2d ago
+
+---
+
+**[99% of traders are wrong. Final Warning. (BTC, ETH, SILVER)](https://www.youtube.com/watch?v=4RVt_OWY5vw)**
+
+99% of traders are wrong. Final Warning. (BTC, ETH, SILVER) THIS VIDEO IS FOR ENTERTAINMENT PURPOSES ONLY - NOT ...
+
+📺 Chart Junkie
+
+👁️ 16K • 👍 457 • 💬 108 • ⏱️ 22:35 • 1d ago
 
 ---
 
@@ -301,36 +331,6 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 📺 More Crypto Online
 
 👁️ 6K • 👍 183 • 💬 6 • ⏱️ 6:45 • 2d ago
-
----
-
-**[Raoul Pal :&quot;I&#39;m Loading Up Massively on Bitcoin &amp; Ethereum in the Banana Zone&quot; | BTC Update 2026](https://www.youtube.com/watch?v=yUJn99HJF9g)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 181 • 💬 14 • ⏱️ 17:06 • 2d ago
-
----
-
-**[Ethereum JUST Broke A 31-Week Wall! (eth price update)](https://www.youtube.com/watch?v=j97hl7KBQzg)**
-
-Ethereum just closed above a line it has not closed a week above since January. BTCC - 10% bonus on your first deposit, ...
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 17 • 💬 40 • ⏱️ 5:24 • 2d ago
-
----
-
-**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
-
-1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
-
-📺 Stock Moe
-
-👁️ 20K • 👍 504 • 💬 19 • ⏱️ 13:52 • 2d ago
 
 ---
 
