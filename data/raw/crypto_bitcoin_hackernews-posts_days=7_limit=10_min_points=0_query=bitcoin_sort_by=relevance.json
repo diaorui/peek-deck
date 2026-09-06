@@ -73,9 +73,23 @@
       "description": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.",
       "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
       "site_name": "IGN"
+    },
+    {
+      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "hn_url": "https://news.ycombinator.com/item?id=49543530",
+      "author": "lloydarmbrust",
+      "points": 118,
+      "num_comments": 82,
+      "created_at": "2026-09-02T22:36:04Z",
+      "object_id": "49543530",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 5,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-09-06T03:18:01.186808+00:00"
+  "fetched_at": "2026-09-06T08:03:12.479714+00:00"
 }

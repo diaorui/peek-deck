@@ -16,11 +16,31 @@
     },
     {
       "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
-      "source": "barrons.com",
+      "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
       "pub_date": 1788529500.0,
       "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor's Strategy Continues to Sell Bitcoin. That's Why I'm Doubling Down on Bitcoin Right Now.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWg2YlItckFCRW5CZ2lRWi1xVE5aU1ppVkd2Qm9zdWxwNGhOMnlYTGFJVWVnX29RRGNLQTlEMnlJRVB0bEpCM0l6MUVuZ245eGZ6a3haUm0tVHZEalZoZ0U4cENBMU5xcnV5OGo4WnNyeklHcEltRmxoMHpIN2x1WTh1cmIxZklSNTVHV1JQVnpQTGcyYTVKYU9xX0lMRlNTb1JGeXlrQQ?oc=5",
+      "pub_date": 1788603120.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-continues-sell-101200631.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/037cdaa41fd75553c16299c550cf129ee296b4613ec1f1ff52f2e1ef75ac2e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F34133500b597588ca0e3b615a08d66f5.jpg",
+      "description": "One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things."
+    },
+    {
+      "headline": "How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjNQVF9uQ2M2bEoyMFNCcTdKTFVkUGI0d1hvdlFJMjNmSmpIU0FyY19VS0NLWmZkVmVQd3ZLRnBuOVZ3OF9pYXExM3ZCekNxVmd2bDk2bFVWSGFUeF84YWFjMGowUDE1enNMdUVzT29TakIyZmhiUlJrY3FWMGh0dlNWS2tZUXdRZldxNkV5MlZtb2JId1ZaMnUyeGR5enJaM0hjWENlYkEteWtDZ0l0WU9BeEpfbjFjNmVuaVN0emFjWkdFRXdMeDhtX2U?oc=5",
+      "pub_date": 1788631511.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
       "image": null,
       "description": null
     },
@@ -35,16 +55,6 @@
       "description": "Bitcoin is back at the Rubicon \u2014and Fed governor Waller just dared bulls to cross it."
     },
     {
-      "headline": "How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjNQVF9uQ2M2bEoyMFNCcTdKTFVkUGI0d1hvdlFJMjNmSmpIU0FyY19VS0NLWmZkVmVQd3ZLRnBuOVZ3OF9pYXExM3ZCekNxVmd2bDk2bFVWSGFUeF84YWFjMGowUDE1enNMdUVzT29TakIyZmhiUlJrY3FWMGh0dlNWS2tZUXdRZldxNkV5MlZtb2JId1ZaMnUyeGR5enJaM0hjWENlYkEteWtDZ0l0WU9BeEpfbjFjNmVuaVN0emFjWkdFRXdMeDhtX2U?oc=5",
-      "pub_date": 1788631511.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center",
       "source": "WNDU",
       "source_url": "https://www.wndu.com",
@@ -53,16 +63,6 @@
       "article_url": "https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/",
       "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/INORYVBM75C7PNCI26S2MO34NI.jpg?auth=4699000263dc8c01076808b64fbe1cb1163c10a9adefa2fa738087d9f6478ddf&width=1200&height=600&smart=true",
       "description": "After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center."
-    },
-    {
-      "headline": "Oklahoma Bitcoin mining site condemned after leaking 3 million gallons of water during drought",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOay1lV096dFNZRmRtNXI1TTM4WUVXbEE2UXFOc201XzVVWlpfYWlZbnQzMjYzUTVZSF94cDV3X0VhZ2V3bFNMdzNka1VBaEpVa2VKUndtX3lhNmREaWdoU0RaNVdUV0xGbkxaMzBiMWNacE5vVHViS05GWkxrZG8yMW9JU0RwNzRRSGxxVVJrWV9BVHJwSi14NUdEUVN3TjFEeGtYVUUzWmR5Tm9QQ2t0VzQ4MG5KcG93dUJtcDJTR3M0ZXRjWS1IUmkzWm9nTTFPdmZHbjI3d1FmRGpQVE5ObzJtcDZONzhDM1VSRTdBQTY?oc=5",
-      "pub_date": 1788638547.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:4752b2a96094b:0-oklahoma-bitcoin-mining-site-condemned-after-leaking-3-million-gallons-of-water-during-drought/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "A Bitcoin mining facility in El Reno, Oklahoma, leaked roughly 3 to 3.8 million gallons of water into the ground while the surrounding region baked under a severe drought. The city has condemned the site and plans to send its operator, Athlon Blockchain Technology LLC, the bill.The leak, which surf\u2026"
     },
     {
       "headline": "Trump Issues Serious Fed Warning As Bitcoin Braces For A Huge Price Shock",
@@ -75,14 +75,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU45aVVLSHlZSFNWd0tWVVdFZFdZVDYxdURUREM1VG5uY3I2LXd3SUNRRmQyYXg3S0Y3THJNWXktNlV0VnUxS29vVGdMWWdiWWRiNFJUSjZ5RnhFemNiZl9meXJiZjhJSXk5cDJFZG5ObXZDNEY3b3drZjhrMDVmTQ?oc=5",
-      "pub_date": 1788473981.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg",
-      "description": "Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year."
+      "headline": "Ancient Bitcoin wallet reactivates, turning $120 into $3M after 15 years of silence",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYnk0ZThzd2dkempxQU1UN0piS3YzdTE0ZTdzT3RhbGtHcHZndTZnWHEzUzhrekM5RDhWbVIyZ2lQZ1NNY0ljcXE0RHRnOTc5MGxpVVRFb0dwbFoyM0E0QkNDdlBKak1ORllHUXVkYTFVZUlvenptR3ZEbXNUMWx3bl8yZlFHOEdpSGdDMWVibXBqOXdNR2VUMlEtcDVRMFZ5Rzl5cHZSMGZlRm1nM0otREdpdExqT1ZQalp4SVdzMU44SzVJQVdtWll6ci15eUdVam8zNnUtaDZUTWI1VHc?oc=5",
+      "pub_date": 1788628016.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:0c42393e6094b:0-ancient-bitcoin-wallet-reactivates-turning-120-into-3m-after-15-years-of-silence/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Someone bought 40 Bitcoin for about $120 back in November 2011. Then they did absolutely nothing for nearly 15 years. That patience, whether intentional or accidental, just paid off to the tune of $3.09 million.The wallet, dormant since November 5, 2011, moved its entire balance on September 3, 202\u2026"
+    },
+    {
+      "headline": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTU9jU3N4Z3hmT0lScllDX2o2eHZsbjNEazlodFRIcm5VbDQtaUNuNGhTVU9xWjl5bmVVZktnYmU0X1dSSHEzSHkzOVNIaE95b19UVU1ZS2lTSktRZEtBQlA0YUhDMjdHSGc1NHZiV0xfRXRGNGFWSk9kWEpxVGlZcTRhWUEyTjRtbzFLMjM2bmt6THVjc3pCdg?oc=5",
+      "pub_date": 1788654600.0,
+      "article_url": "https://www.fool.com/investing/2026/09/05/bill-gates-says-he-still-wont-invest-in-crypto-cal/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886100%2Fgettyimages-1318918012.jpg&w=1200&op=resize",
+      "description": "Bitcoin has momentum, but stocks have fundamentals."
     },
     {
       "headline": "Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears",
@@ -93,18 +103,8 @@
       "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "IMF Agrees to Unlock $140 Million for El Salvador After Bitcoin Reforms",
-      "source": "The Tico Times",
-      "source_url": "https://ticotimes.net",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZZ0ZJLWwtQ0ZlLS1BTEtMSHUwYkFnbmlIaTBHamdrS2ZmdUhIRHpxdHJWQ1NRTmJWeE5lWl9GS0hyZm5jSlllb2xrVmlfUGpycmZIenFQUlBMRTBLRmtmNjFtWTV1RzRBelNtR2RUV05iMVd0TkV5Ug?oc=5",
-      "pub_date": 1788576332.0,
-      "article_url": "https://ticotimes.net/2026/09/04/imf-el-salvador-loan-bitcoin-reforms",
-      "image": "https://ticotimes.net/wp-content/uploads/2026/09/tico2059_Bitcoin_spread_stack_of_bitcoin_crypto_coins_no_real_4184a4f5-667c-45dd-b29c-400a0d1f42c6_1.jpg",
-      "description": "The IMF reached a deal to release $140 million to El Salvador after the country met key Bitcoin conditions and posted stronger economic growth."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T03:18:16.521071+00:00"
+  "fetched_at": "2026-09-06T08:03:26.390806+00:00"
 }

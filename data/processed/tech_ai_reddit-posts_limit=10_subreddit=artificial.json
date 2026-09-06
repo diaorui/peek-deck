@@ -13,15 +13,15 @@
       "description": "Frontier AI models have already conducted autonomous end-to-end compromises, but the situation will become more urgent very soon."
     },
     {
-      "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
-      "published": 1788635468.0,
-      "thumbnail": "https://external-preview.redd.it/TiHWBE0J9qh8YLheUKmBJJ-JgKgAi_mh8stfEuHtjJ4.jpeg?width=640&crop=smart&auto=webp&s=8135bc1fadb77a561b082a3599f6401e0798e448",
-      "external_url": "https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI\u2019s economic impact."
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
+      "author": "Asleep-Requirement13",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "published": 1788677205.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
     },
     {
       "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
@@ -33,6 +33,50 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
+    },
+    {
+      "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
+      "published": 1788635468.0,
+      "thumbnail": "https://external-preview.redd.it/TiHWBE0J9qh8YLheUKmBJJ-JgKgAi_mh8stfEuHtjJ4.jpeg?width=640&crop=smart&auto=webp&s=8135bc1fadb77a561b082a3599f6401e0798e448",
+      "external_url": "https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579",
+      "site_name": "Tech Times UK",
+      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
+      "description": "Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI\u2019s economic impact."
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "author": "tw1st3d_m3nt4t",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/",
+      "published": 1788671692.0,
+      "thumbnail": "https://external-preview.redd.it/f3ns_3_5ZaBNg2xIkfdtpUV_6AZ_WBcdckoGnlVBDjg.png?width=640&crop=smart&auto=webp&s=39c84c28ee29cf4091340f9abb201569edb9f7c9",
+      "external_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "site_name": "EEBench",
+      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation."
+    },
+    {
+      "title": "What will LLMs never do?",
+      "author": "AkindaGood_programer",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
+      "published": 1788669338.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: \u201c(a) highly autonomous systems that outperform humans at most economically valuable work.\u201d I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to \"outperform humans at most economically valuable work.\", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter \"how\" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software."
+    },
+    {
+      "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
+      "author": "Tupptupp_XD",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/",
+      "published": 1788680477.0,
+      "thumbnail": "https://external-preview.redd.it/BQYYlzaYBLOrsjvW3Q-ItNKZpCs7X00nbl8fIGfTyfw.png?width=640&crop=smart&auto=webp&s=4ac52b58192761a4e968b18f9e2f52e96254d7da",
+      "external_url": "https://rogueaitracker.com/",
+      "site_name": "Rogue AI Tracker",
+      "favicon": "https://rogueaitracker.com/apple-touch-icon.png",
+      "description": "Rogue AI Tracker reviews public incidents and research to track observed autonomous AI-agent capabilities and critical milestones."
     },
     {
       "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
@@ -57,60 +101,16 @@
       "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
     },
     {
-      "title": "[ Removed by Reddit ]",
-      "author": "cool101wool",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8gq6w/removed_by_reddit/",
-      "published": 1788653085.0,
+      "title": "If an AI agent can act on the internet without asking you every time should we actually trust it ?",
+      "author": "Thinking-master",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8obmo/if_an_ai_agent_can_act_on_the_internet_without/",
+      "published": 1788676133.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "[ Removed by Reddit on account of violating the content policy. ]"
-    },
-    {
-      "title": "Why are more people not concerned about privacy?",
-      "author": "banica24",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
-      "published": 1788574705.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
-    },
-    {
-      "title": "What's the deal with all those cheap 3D modelled web apps?",
-      "author": "cactusnein",
-      "url": "https://www.reddit.com/r/artificial/comments/1w84vih/whats_the_deal_with_all_those_cheap_3d_modelled/",
-      "published": 1788624720.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused or stolen from online libraries. Or cheap SVGs. Most seem to run on THREE.JS which requires tremendous amounts of effort to be optimisers as all runs in an already heavy browser. Is this the latest definition of AGI? To me it looks like kids burning resources to generate unoptimized codebases with stolen assets that no one will never ever use again. About 10 years ago you were able to do this stuff using free scaffolding resources from unity. Please stop. And apologies, just came back from a 3 weeks vacation and have the feeling half of the internet should get one, too."
-    },
-    {
-      "title": "OK, who's gonna make a model of Michael Knight's computer KITT ?",
-      "author": "MetaPfhor_2965",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/",
-      "published": 1788604718.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run LLMs.... will maybe me like having a KITT on your wrist. A conversational computer."
-    },
-    {
-      "title": "Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/",
-      "published": 1788532901.0,
-      "thumbnail": "https://external-preview.redd.it/e4csQjPXToDc1vF0VCWy0RAKwAHR_lf615PJpy8fJ0Q.jpeg?width=640&crop=smart&auto=webp&s=64c45aa858e161cd64bd15ac0aa8467eb8692a9e",
-      "external_url": "https://www.techtimes.co.uk/bernie-sanders-ai-development-pause-superintelligence-concerns-1808574",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
+      "description": "AI agents are getting scary good. Were moving from AI that simply answers questions to AI that can actually take actions online edit things, use websites and interact with other systems. Recent reports about AI agents making thousands of changes on their own made me wonder: At what point should an AI agent be treated like an employee rather than a tool ? Would you trust an AI agent with: your email ? your money ? your social media ? your business ? your personal data ? Or do you think humans should always approve every important action ? What s the one thing you d NEVER let an AI agent control ?"
     }
   ],
-  "fetched_at": "2026-09-06T03:17:59.930693+00:00"
+  "fetched_at": "2026-09-06T08:03:11.665230+00:00"
 }
