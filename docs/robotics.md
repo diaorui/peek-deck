@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-05T23:35:32.501589+00:00'
+updated: '2026-09-06T03:18:25.496488+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 05, 2026 at 23:35 UTC  
+**Last Updated:** September 06, 2026 at 03:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -92,7 +92,7 @@ I have been working on different robotics task mainly in Pybullet. Complexity of
 
 **[Current set-up. Any changes? Anything I should add?](https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -108,19 +108,27 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 ## Google News: "robotics"
 
-**[Humanoid Robots and China’s Vision of the Future](https://thediplomat.com/2026/09/humanoid-robots-and-chinas-vision-of-the-future/)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-China’s humanoid robots are more than a showcase of state ambition. They reveal how differently we interpret visions of the technological future depending on who builds them.
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
+ABC7 Chicago • 1d ago
 
 ---
 
-**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
 
-Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
 
-IEEE Spectrum • 1d ago
+BBC • 2d ago
+
+---
+
+**[The 5 Best Humanoid Robots Of IFA 2026](https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/)**
+
+Humanoid robots were the order of the day at IFA 2026, and BGR's own José Adorno was on hand to take a look at several of them up close and personal.
+
+bgr.com • 6h ago
 
 ---
 
@@ -130,49 +138,25 @@ WSJ • 2d ago
 
 ---
 
-**[Mind With Heart Robotics Brings AnAn Panda Robot to Europe at IFA Berlin 2026](https://www.prnewswire.com/news-releases/mind-with-heart-robotics-brings-anan-panda-robot-to-europe-at-ifa-berlin-2026-302864722.html)**
-
-/PRNewswire/ -- Mind With Heart Robotics Co., Ltd. today announced the European launch of its AnAn panda robot, marking the product's debut at IFA Berlin's...
-
-PR Newswire • 2d ago
-
----
-
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
-
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-BBC • 1d ago
-
----
-
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-signalakron.org • 1d ago
+Signal Akron • 1d ago
 
 ---
 
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
+**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
 
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+Remote-control robot bugs could deliver lifesaving aid to disaster victims
 
-ABC7 Chicago • 1d ago
-
----
-
-**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
-
-Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
-
-Futurism • 13h ago
+IEEE Spectrum • 14h ago
 
 ---
 
-**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
+**[TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals](https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/)**
 
-The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
+On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.
 
-GeekWire • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -184,27 +168,33 @@ The Coloradoan • 1d ago
 
 ---
 
+**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
+
+The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
+
+GeekWire • 2d ago
+
+---
+
+**[Enovis to acquire surgical tech provider eCential Robotics for $180M](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/)**
+
+Enovis said it plans to bring a robotic system targeting the knee within the next 2 years, followed by a system focusing on the shoulder.
+
+The Robot Report • 14h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
 
-📺 Julia McCoy
+📺 TESLA CAR WORLD
 
-👁️ 73K • 👍 597 • 💬 129 • ⏱️ 9:07 • 2d ago
-
----
-
-**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
-
-A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
-
-📺 CBS Chicago
-
-👁️ 177K • 👍 1K • 💬 439 • ⏱️ 1:44 • 2d ago
+👁️ 153K • 👍 1K • 💬 221 • ⏱️ 12:56 • 5d ago
 
 ---
 
@@ -214,17 +204,17 @@ Check out the highlights of the second annual World Humanoid Robot Games in Beij
 
 📺 CNET
 
-👁️ 89K • 👍 396 • 💬 40 • ⏱️ 1:49 • 6d ago
+👁️ 90K • 👍 398 • 💬 40 • ⏱️ 1:49 • 6d ago
 
 ---
 
-**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
 
-Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
 
-📺 TESLA CAR WORLD
+📺 Julia McCoy
 
-👁️ 152K • 👍 1K • 💬 221 • ⏱️ 12:56 • 5d ago
+👁️ 74K • 👍 601 • 💬 129 • ⏱️ 9:07 • 2d ago
 
 ---
 
@@ -234,17 +224,17 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 356K • 👍 7K • 💬 579 • ⏱️ 15:41 • 3d ago
+👁️ 365K • 👍 7K • 💬 589 • ⏱️ 15:41 • 3d ago
 
 ---
 
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
 
-📺 South China Morning Post
+📺 CBS Chicago
 
-👁️ 135K • 👍 1K • 💬 329 • ⏱️ 3:47 • 2d ago
+👁️ 185K • 👍 1K • 💬 454 • ⏱️ 1:44 • 2d ago
 
 ---
 
@@ -264,17 +254,17 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 201K • 👍 2K • 💬 126 • ⏱️ 0:58 • 3d ago
+👁️ 203K • 👍 2K • 💬 127 • ⏱️ 0:58 • 4d ago
 
 ---
 
-**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-📺 Curiosity Loop
+📺 South China Morning Post
 
-👁️ 370K • 👍 14K • 💬 36 • ⏱️ 0:19 • 2d ago
+👁️ 138K • 👍 1K • 💬 338 • ⏱️ 3:47 • 2d ago
 
 ---
 
@@ -284,7 +274,17 @@ Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid ro
 
 📺 Carros Show
 
-👁️ 46K • 👍 331 • 💬 39 • ⏱️ 19:36 • 5d ago
+👁️ 47K • 👍 334 • 💬 39 • ⏱️ 19:36 • 5d ago
+
+---
+
+**[AI Robot Assists a Struggling Pilgrim in Real Time](https://www.youtube.com/watch?v=ILB8IuifOCg)**
+
+A concept imagining how advanced robotics could assist pilgrims in need at the Holy Mosque. When a man is overcome by ...
+
+📺 Curiosity Loop
+
+👁️ 374K • 👍 15K • 💬 36 • ⏱️ 0:19 • 2d ago
 
 ---
 
