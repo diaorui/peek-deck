@@ -15,14 +15,44 @@
       "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
     },
     {
-      "headline": "AI Is Leaving the Screen and Changing the Physical World",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2RKaWQ3aUNsRXRLamFnYXJkdGZWNVRqcEtUY0V5eHZlZUtJTGt3ODhvcEhVeExMN3FONDRKWU9DcndrM2VmZ3pVbk1wUjM0a1ZIWi0xRFJiUThSODUxbFBhODF6eHdRLXloWE9Dc0oxT1o2VTV2aVliN2JTQjltU1QxTFFQbUg2dkZLeUg1ZG54MlNOeDhoVFFUNGRDelM1?oc=5",
-      "pub_date": 1788706969.0,
-      "article_url": "https://www.inc.com/heather-wilde/ai-is-leaving-the-screen-and-changing-the-physical-world/91399578",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/humanoid-robots-inc-GettyImages-2281444877.jpg",
-      "description": "AI is transforming physical-world operations by helping teams improve quality, maintenance, robotics, inventory, and security."
+      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
+      "pub_date": 1788699759.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
+      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
+    },
+    {
+      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "pub_date": 1788487322.0,
+      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
+    },
+    {
+      "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
+      "pub_date": 1788427800.0,
+      "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The hotels hiring robots to cut their wage bills",
+      "source": "telegraph.co.uk",
+      "source_url": "https://www.telegraph.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObF84ZEhHZmtEdC02WE1ZN3VNbm9zUEpwcHlDLVVjOEFKbnJlY0drMnF2Mll5RUFQLUFWWEwyWjBLcWFpeTYtNW5iUHBiQkFRZ0FtcmJ4V0NpMlN6b1NUelI0M2NBeEpwWU9JcmM2TDJHa0lVQWFWclZ6MHU1OUdwcUs2Y0JJQVU4RDZ6RzkwWU9uOEtGQWNRM0d3WHhoZw?oc=5",
+      "pub_date": 1788606000.0,
+      "article_url": "https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/",
+      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/09/04/TELEMMGLPICT000476324609_17885157987163_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwf4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
+      "description": "Hospitality bosses are reconsidering automation as labour costs surge \u2013 but will it work?"
     },
     {
       "headline": "Hear what University of Akron president say about safety and robotics",
@@ -35,54 +65,34 @@
       "description": null
     },
     {
-      "headline": "The 5 Best Humanoid Robots Of IFA 2026",
-      "source": "bgr.com",
-      "source_url": "https://www.bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOEFfcWdHV0d6czlSMjVFVkk4QTFPVlBFcjRPS2JJM0ROQXloTDNpTmhaUlFNV2J0V3NFZUd4dHRHYkVhUVhNOUFELTk4SllnNVVHUzJZRDVXRGhTcG5wUFBqMTNpSm9kLVE?oc=5",
-      "pub_date": 1788642504.0,
-      "article_url": "https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/",
-      "image": "https://www.bgr.com/img/gallery/the-5-best-humanoid-robots-of-ifa-2026/l-intro-1788641999.jpg",
-      "description": "Humanoid robots were the order of the day at IFA 2026, and BGR's own Jos\u00e9 Adorno was on hand to take a look at several of them up close and personal."
+      "headline": "Pressure sensors can help improve robotic gripping accuracy",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYm8tN215b1RNWlp5U2UzdVFfem5rV3JJN2ZzSEVfN0J5TVhQUV9sM19LNGJiNVc2M2pKLTh4dnRLZDlHZ3Rhc3V2OWRWWXpxYTliQlEwczhXWmFBZmhHNmJWazRsV3A3eEZzV3ppa2JwenhWeDd5VEJ2d0tWeDRPWEIwSGd3aW1za0h6N19yVlFkU01BUnc?oc=5",
+      "pub_date": 1788699165.0,
+      "article_url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/05/umi-gripper-with-uskin-sensors.jpg",
+      "description": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking."
     },
     {
-      "headline": "19 robotics companies to watch",
-      "source": "understandingai.org",
-      "source_url": "https://www.understandingai.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wc0RfNVA1MFcxX3JVWHJmNU9xME1kUHAtVm9kZ2hmTmhUNEN0Y29nRkRKMmJXNjFybFdhWThBWXlsRUtzOUZZV1hvelc4dUlyQy1vdDdLU1BTSGFGSHVJLWc0Qm5scDE1Y0lEcG1jZXYzZw?oc=5",
-      "pub_date": 1788537849.0,
-      "article_url": "https://www.understandingai.org/p/19-robotics-companies-to-watch",
-      "image": "https://substackcdn.com/image/fetch/$s_!0Oyg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81236b2c-4d8f-4327-a29d-fcfd913e023c_1116x699.png",
-      "description": "I talked with nine of these companies."
+      "headline": "Humans, robots at work inside Amazon's new Loveland fulfillment center",
+      "source": "The Coloradoan",
+      "source_url": "https://www.coloradoan.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenFKWkNLY2k3RzJLRXJ4U0FnVmdBbDdZYzV5bm9xa1hoRnhhMnlZR3hTMXNyMHczanMwbHhUWmNONkRNRnpTbnVrVjJ5ZzZxSnNHeVJjV0tpenBxU08za3g0TllpaHFQUmY5MHdEVTJfRlFtZmI5RkRJUEpySEtpYWFhMGFxVF9HT29Qd1d1UWM4eVZOcENPSFZMdUw0dGZrWG95ZGZNeFJGcVF3Nnp4MkRyOWFtWGl2NDhQTWptVlp1Uk96RXcweHczcktiTkxNS0xmV0RIbHljQkE5dldXYTFFUlc?oc=5",
+      "pub_date": 1788559800.0,
+      "article_url": "https://www.coloradoan.com/picture-gallery/money/business/2026/09/04/humans-robots-at-work-inside-amazons-new-loveland-fulfillment-center/91616845007/",
+      "image": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2026/09/04/PFTC/91616499007-amazon-7.jpg?crop=3023,1701,x0,y1165&width=3023&height=1701&format=pjpg&auto=webp",
+      "description": "See inside Amazon's new robotics fulfillment center, which quietly opened in Loveland in July 2026."
     },
     {
-      "headline": "America\u2019s biggest military shipbuilder taps robotics to build Navy warships faster",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWNUWmVpekRUVTRUSEN6U0NQaFFZX2ZQWjVHajZCNVI5bFpkUkhocnR5QnkwZDBxdUQ3UVQ5T0otLXpWTTNIU1JLbFJuRnNVUE95NEYzVlhBcFo5dHFSVkxWYkpYc3c4cllNSGtnVElndVJ2V2tCOTRDc09PQ05CczJwQWE2RHBf?oc=5",
-      "pub_date": 1788613620.0,
-      "article_url": "https://interestingengineering.com/military/americas-biggest-military-shipbuilder",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/image-1920x1080-2026-09-05T093751.020.png?w=650",
-      "description": "HII is targeting a 15% increase in shipyard throughput through workforce, infrastructure and physical AI investments."
-    },
-    {
-      "headline": "Iwa Robotics Unveils HAWK, CANARY and PELICAN: An Autonomous Drone Fleet Equipped to Detect, Diagnose, and Suppress Urban Wildfires",
-      "source": "fairfaxtimes.com",
-      "source_url": "https://www.fairfaxtimes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNbEY3VWRFb0FFNEJVaEo0bFYwSF9US1kxRUxJTUI2THp3SXh3V1ItalI5eXFZYW02LWo3c01pdHBianBGTmZldnZTMnVRQnVOT3BRTFZfTkxIdk9kS0xMOG1JM3dmYWpaTkNnamlIXzJhWF9DZTk3NU9MZ0xCc2s3R25mMnFLZXpjWUFwRE5wcjJNU3N0WGJ2aVhZbHBXVGhjMFd3UW5kcmdFcGVGUGJkMHFJcG5MSHdtanBOSDlpekdnY05jeFNoZElQb3I1WHlFcTZHSGxsbXVfajZBRU5TTDNzbjltWVpJRk5XeVRXUFpaMHFsY1czaFhiRl9xT0lTZ0JCUldVQ2pyNFhCX2U2WFZNcXVpVXZfRTBlYjAyTGpIRW9yVWptVGtVS3lvRm4xdHc?oc=5",
-      "pub_date": 1788631740.0,
-      "article_url": "https://www.fairfaxtimes.com/online_features/press_releases/iwa-robotics-unveils-hawk-canary-and-pelican-an-autonomous-drone-fleet-equipped-to-detect-diagnose/article_309a6745-d099-5403-b650-58c5dad49eaa.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/fairfaxtimes.com/content/tncms/custom/image/e2ad85ae-42ad-11e5-8cc6-270020a13ade.jpg?resize=600%2C315",
-      "description": "Robotics company pairs long-range detection, real-time fire diagnostics, and precision aerial suppression into a single dispatchable system \u2014 operated by fire departments as an autonomous aerial fleet."
-    },
-    {
-      "headline": "Tech industry\u2019s robotics talent crunch has UW\u2019s new grad program nearly full before day one",
-      "source": "geekwire.com",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFdlUlUwcFNWajBfc1ZIbXVpSW1tTHNxb2JEQmVkMDkwYmEzUWFfaWpTdFVmM3g4SEJicUl4OWtqSzJFQ2xhMjBGN3ZoNDFsWmlrNWwtTkpIQ2I5YjFwQkZBZTNRRFh2TWh0ODE4UHJpVWVzOEtGc1RBSDQ0RkdZYTJHWk1pNy05R2MyU0JmeElqUzR0Tmc1MHVKb3hiM3RMLVBfbEtsTHc?oc=5",
-      "pub_date": 1788463099.0,
-      "article_url": "https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/robots-uw.jpg",
-      "description": "The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing."
+      "headline": "AI and robotics drive an IPO boom in China as Shein lists in Hong Kong",
+      "source": "telegraphherald.com",
+      "source_url": "https://www.telegraphherald.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlNkRXcwanRqSzhXMVAzeEQyV0RMUGlNeGlqTFdPSUQ3VWtFQmVUaEQzdkQ0VzdQX2hhdl9INnNKSDNwV1lWcWMwbkgwRDZrdHhIdXdWQkFtSTNKdVRuVDBvQWlQRTEzdDdYVUMta21yY0M1T3RMNnQ1ZXZ3NmtCbl9WbnhMdS0xZ0pHbWQ3Q0F6aGJUcUtxUHR6OA?oc=5",
+      "pub_date": 1788674400.0,
+      "article_url": "https://www.telegraphherald.com/news/business/article_2b23cf16-1cf3-5177-926a-ccc04295faec.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/b/98/b9809433-14e2-5357-8cb6-e4d9e9af2061/6a96ebcd89fc9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "description": "Chinese markets are booming with new public share listings driven by the craze for artificial intelligence. E-commerce giant Shein's shares are due to debut in Hong Kong on Tuesday in"
     },
     {
       "headline": "These Light-Powered Robots Can Keep Jumping Forever",
@@ -93,18 +103,8 @@
       "article_url": "https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/",
       "image": null,
       "description": "A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves."
-    },
-    {
-      "headline": "Pressure sensors can help improve robotic gripping accuracy",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYm8tN215b1RNWlp5U2UzdVFfem5rV3JJN2ZzSEVfN0J5TVhQUV9sM19LNGJiNVc2M2pKLTh4dnRLZDlHZ3Rhc3V2OWRWWXpxYTliQlEwczhXWmFBZmhHNmJWazRsV3A3eEZzV3ppa2JwenhWeDd5VEJ2d0tWeDRPWEIwSGd3aW1za0h6N19yVlFkU01BUnc?oc=5",
-      "pub_date": 1788698026.0,
-      "article_url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/05/umi-gripper-with-uskin-sensors.jpg",
-      "description": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve robotic bin picking."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T18:04:14.754656+00:00"
+  "fetched_at": "2026-09-06T20:40:32.811410+00:00"
 }
