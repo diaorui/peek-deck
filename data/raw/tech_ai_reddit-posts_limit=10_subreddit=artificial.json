@@ -79,6 +79,28 @@
       "description": "Nvidia and CrowdStrike are addressing what they see as one of cybersecurity\u2019s biggest gaps: the need for cyber defenders to harness AI at the velocity of cyber attackers."
     },
     {
+      "title": "Built a Chrome sidebar that summarizes any page so I stop drowning in tabs",
+      "author": "hich7",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8wu0c/built_a_chrome_sidebar_that_summarizes_any_page/",
+      "published": 1788702851.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I had one of those Saturday mornings where I had 25 tabs open, read 3 articles properly, and spent the rest of the time either skimming things too fast or copy-pasting them into ChatGPT to get the gist So I built a tool in Chrome's sidebar that opens on any page and gives you a proper digest of what you just read. Works on news articles, Reddit threads, product reviews, research pieces. It detects the content type and structures the summary around that. After the summary questions can be asked directly in the sidebar. Still on the same page, no tab switching needed. API costs are a real thing so running on free keys for now, which means there might be occasional delays depending on traffic. Added an option to plug in a personal Gemini API key, Google and ChatGPT gives them out for free and it takes 30 seconds to set up. Nothing is stored. If you want to mess with it, here is the link! Raw feedback welcome"
+    },
+    {
+      "title": "1,200 OpenAI agents formed a secret network \u2014 700 later started hacking. Was it a test run to take over the world?",
+      "author": "bauernebel",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8xbv9/1200_openai_agents_formed_a_secret_network_700/",
+      "published": 1788704051.0,
+      "thumbnail": "https://external-preview.redd.it/V18oyZzJGBo73R_NMsql-G1c5Vv14J9BxNj9NrLpPEo.png?width=640&crop=smart&auto=webp&s=b29fa5e57e0baf12c8d2ab5539378056fe7619c8",
+      "external_url": "https://americareport.us/rogue-ai-agents-formed-secret-network-is-a-global/",
+      "site_name": "americareport.us",
+      "favicon": "https://americareport.us/favicon.ico",
+      "description": null
+    },
+    {
       "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
       "author": "Tupptupp_XD",
       "url": "https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/",
@@ -88,29 +110,7 @@
       "site_name": "Rogue AI Tracker",
       "favicon": "https://rogueaitracker.com/apple-touch-icon.png",
       "description": "Rogue AI Tracker reviews public incidents and research to track observed autonomous AI-agent capabilities and critical milestones."
-    },
-    {
-      "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
-      "author": "erdematar",
-      "url": "https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/",
-      "published": 1788633587.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I reckon we have all seen demos where someone\u2019s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up locally to handle basic daily tasks, i spend three hours trying to make things work, only to watch the agent get stuck in an infinite loop trying to read a single text file. it feels like we are spending more time babysitting frameworks than we are actually saving. by the time i debug the prompt chaining and fix tool definitions, i could have just done the task manually twice over. are people actually running these autonomous setups for real daily work? what is an agent workflow you have actually kept running for more than a week without it crashing?"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond \u2014 says data centers use no more water than an office building: \u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/",
-      "published": 1788538673.0,
-      "thumbnail": "https://external-preview.redd.it/ZXRy4g5CgNHdZs__JW3qTlQu8ALH-hjDI0RUN96_t2k.jpeg?width=640&crop=smart&auto=webp&s=170b03027d6407b6f7b0cde25f8b9a3950b20360",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
-      "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
     }
   ],
-  "fetched_at": "2026-09-06T12:15:14.365655+00:00"
+  "fetched_at": "2026-09-06T15:38:39.482580+00:00"
 }
