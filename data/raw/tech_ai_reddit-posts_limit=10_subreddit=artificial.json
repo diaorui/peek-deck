@@ -24,37 +24,15 @@
       "description": "Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI\u2019s economic impact."
     },
     {
-      "title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond \u2014 says data centers use no more water than an office building: \u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/",
-      "published": 1788538673.0,
-      "thumbnail": "https://external-preview.redd.it/ZXRy4g5CgNHdZs__JW3qTlQu8ALH-hjDI0RUN96_t2k.jpeg?width=640&crop=smart&auto=webp&s=170b03027d6407b6f7b0cde25f8b9a3950b20360",
-      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
-      "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
-    },
-    {
-      "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
-      "author": "Neither_You_5673",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8fwbr/search_agent_beats_gpt6_astra_on_benchmarks_just/",
-      "published": 1788650852.0,
-      "thumbnail": "https://external-preview.redd.it/lXT6imepCS-7C9Ylc6mAEJDZxsdnF4ys8Cb_wIQnamk.png?width=640&crop=smart&auto=webp&s=790523e49447629426a8682dcbc12d42abaaf51a",
-      "external_url": "https://findcheap.ai/introducing-findcheap",
-      "site_name": "Findcheap",
-      "favicon": "https://findcheap.ai/icon.svg?0d4091da564b7de2",
-      "description": "Introducing Findcheap"
-    },
-    {
-      "title": "Why are more people not concerned about privacy?",
-      "author": "banica24",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
-      "published": 1788574705.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
+      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
+      "published": 1788652217.0,
+      "thumbnail": "https://external-preview.redd.it/5QNCE5HZsX5AZHFKls36EDCyd5j8dLO1YG2td7GgwEw.jpeg?width=640&crop=smart&auto=webp&s=36fe52df8a5c7b5a016421e45d29bf2db74ac0f6",
+      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
     },
     {
       "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
@@ -68,26 +46,37 @@
       "description": "I reckon we have all seen demos where someone\u2019s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up locally to handle basic daily tasks, i spend three hours trying to make things work, only to watch the agent get stuck in an infinite loop trying to read a single text file. it feels like we are spending more time babysitting frameworks than we are actually saving. by the time i debug the prompt chaining and fix tool definitions, i could have just done the task manually twice over. are people actually running these autonomous setups for real daily work? what is an agent workflow you have actually kept running for more than a week without it crashing?"
     },
     {
-      "title": "OK, who's gonna make a model of Michael Knight's computer KITT ?",
-      "author": "MetaPfhor_2965",
-      "url": "https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/",
-      "published": 1788604718.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run LLMs.... will maybe me like having a KITT on your wrist. A conversational computer."
+      "title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond \u2014 says data centers use no more water than an office building: \u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1w78xil/openai_ceo_sam_altman_says_38000_chatgpt_queries/",
+      "published": 1788538673.0,
+      "thumbnail": "https://external-preview.redd.it/ZXRy4g5CgNHdZs__JW3qTlQu8ALH-hjDI0RUN96_t2k.jpeg?width=640&crop=smart&auto=webp&s=170b03027d6407b6f7b0cde25f8b9a3950b20360",
+      "external_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
+      "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
     },
     {
-      "title": "The generation generation.",
-      "author": "SocksOnHands",
-      "url": "https://www.reddit.com/r/artificial/comments/1w88r1a/the_generation_generation/",
-      "published": 1788633539.0,
+      "title": "[ Removed by Reddit ]",
+      "author": "cool101wool",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8gq6w/removed_by_reddit/",
+      "published": 1788653085.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This term came to my mind. Maybe it should become the official name for the era after LLMs became available. There will soon be an entire generation living in a time when they always had access to AI, and no doubt AI generation will drastically change the way they live compared to prior to that. We debate ethical aspects of AI and its societal impact, but they will just be using it everyday all throughout their lives without putting much thought into it because to them, that was \"how it had always been\" - like how we have a current generation that always had mobile computing devices with wireless networking and have never lived without it. So, anyhow, I thought calling it \"the generation generation\" would be funny."
+      "description": "[ Removed by Reddit on account of violating the content policy. ]"
+    },
+    {
+      "title": "Why are more people not concerned about privacy?",
+      "author": "banica24",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+      "published": 1788574705.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal health information (diagnosis, prescriptions) In my AI usage I always use aliases, never disclose location, often portray as not me (someone asked me if...). I scrub any document from personal information. I don't have any AI chat bot linked to anything and use VPN and burner email before I use it. Am I overly panicked for privacy with AI? The story about ChatGPT conversations appearing in Google search was horrifying and that feels like only the beginning. Isolated leaks aside, what happens when AI improves, generates a profile for you and sells it to malicious users or advertisers? Is there anything that could be done besides don't use it or unplug and go live in the woods with a flip phone type mentality?"
     },
     {
       "title": "What's the deal with all those cheap 3D modelled web apps?",
@@ -101,6 +90,17 @@
       "description": "My feed is filled with demos showcasing random worlds generated by the new model that just came out, not sure about it's name but the one that is real real AGI. Thing is, most are using prefabs reused or stolen from online libraries. Or cheap SVGs. Most seem to run on THREE.JS which requires tremendous amounts of effort to be optimisers as all runs in an already heavy browser. Is this the latest definition of AGI? To me it looks like kids burning resources to generate unoptimized codebases with stolen assets that no one will never ever use again. About 10 years ago you were able to do this stuff using free scaffolding resources from unity. Please stop. And apologies, just came back from a 3 weeks vacation and have the feeling half of the internet should get one, too."
     },
     {
+      "title": "OK, who's gonna make a model of Michael Knight's computer KITT ?",
+      "author": "MetaPfhor_2965",
+      "url": "https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/",
+      "published": 1788604718.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So we can use it with our version of whatever LLM we use in daily life? I want my LLM to have a slight british accent ... or rather transatlantic accent I think it was. Slightly like a butler but also with an attitude. The next apple watch .. if they manage to get a chip on it that can run LLMs.... will maybe me like having a KITT on your wrist. A conversational computer."
+    },
+    {
       "title": "Bernie Sanders Wants to 'Pause AI Development NOW': Dwarkesh Patel Asks 'Pause to Do What?'",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1w76b8m/bernie_sanders_wants_to_pause_ai_development_now/",
@@ -112,5 +112,5 @@
       "description": "Senator Bernie Sanders advocates for an immediate halt on advanced AI development and a ban on superintelligence, while AI podcaster Dwarkesh Patel argues that such actions could increase AI takeover risks."
     }
   ],
-  "fetched_at": "2026-09-05T23:35:10.664559+00:00"
+  "fetched_at": "2026-09-06T03:17:59.930693+00:00"
 }

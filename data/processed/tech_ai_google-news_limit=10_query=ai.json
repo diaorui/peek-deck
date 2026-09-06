@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788591286.0,
-      "article_url": "https://openai.com/index/gpt-6-astra/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+      "headline": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE?oc=5",
+      "pub_date": 1788652800.0,
+      "article_url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "image": null,
+      "description": null
     },
     {
       "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
@@ -25,18 +25,18 @@
       "description": null
     },
     {
-      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
-      "pub_date": 1788586200.0,
-      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
-      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
+      "headline": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaXFFeGc1SDlwN0VKcFZmZFRYdUFCdTZuOFVEVVA2dzdHWjVIOGN4ZlFrZ0toYVR2V1ZtNHJlRFFpaW1aNEJMSl9hS0NEWXZIQm1vcFB3NXdyQTI0NE9uRDNfVFBKNElfM193Ym1hX2dPMUNXZmMyZFRpaF85el9QU25OSFVkZDBvQjJ3dFVpZVpwTFU5VFJpVW14QzE0NUhEX0Z2SnNjLVJ1d3RydDduQkI3NzZOMWs?oc=5",
+      "pub_date": 1788631527.0,
+      "article_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
     },
     {
       "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
       "pub_date": 1788480364.0,
@@ -45,22 +45,42 @@
       "description": null
     },
     {
-      "headline": "Kenyans Did College Students\u2019 Homework for Years. Then A.I. Arrived.",
-      "source": "nytimes.com",
+      "headline": "Traders Flock to Bullish Chinese Stock Bets for AI Alternative",
+      "source": "bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXV2Vmw3N2phWjJfRHZxTGthNEphNThpYnJXcnBWazdwRktSUFR3T09tQ0RKWXVHTkhROTdVWjA5MXBTdDhxamtpeGVzVE9mLU1QS2hiMjh0NTJPdDBHU2d1Z3lZeHY2MGwxbGd3Q0NyTlJ3ZHRsdGxtN0lFMmF3ZVN1LV82NlZydzdWTWR5aUczUklXOUJvWlhDbHQ5dldQc1F0b0RseDRRam1pTi1oMXB3NA?oc=5",
+      "pub_date": 1788656400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-06/traders-flock-to-bullish-chinese-stock-bets-for-ai-alternative",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdVJaOGJXMWcwelNsdUpReENFVWFBN2JONjBwdzdKN3lmbXhCQnVlaXAzcE8wOHdwLTZsdnFMQlUwOG1YdVVtSGpuV2N5MDdZc21BSWMwc1RMczJ6NlBnbVhxUmgyeVVfSHpHaldDS09UbzFFUVFucHlvb05QSFU?oc=5",
-      "pub_date": 1788598934.0,
+      "pub_date": 1788642717.0,
       "article_url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
       "image": null,
       "description": null
     },
     {
+      "headline": "GPT-6 Astra: A new generation of intelligence",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pub_date": 1788591286.0,
+      "article_url": "https://openai.com/index/gpt-6-astra/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
       "headline": "America\u2019s Two Largest School Districts Impose AI Moratoriums",
       "source": "Tech Policy Press",
-      "source_url": "https://www.techpolicy.press",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlZKN1htd1pFd1YtUWVSU201Q3ZrcUFZN0Zra3dub3RmRWxmaG5tXzdsTDFtdDNNZDdKQ085dlY1ODJMT0UwM1J1aTlHX09EUVg4WVJUQWpsejZlU3V0YkhRQV95UFZIMGN5YzQtMVBtRUtiWTVFbmR6cS0tVFJRdk9LM3kyeFFidzB4Q2wyQndCQUE?oc=5",
+      "source_url": "https://techpolicy.press",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdV9ibVZxdTNMSVQ1bHBCWkJjYWtfaE9DWEJvMUg0VS0tLVBVYS1heGFLZC14ZFlQMzJJbEV5b1J4U1JZNnVYRC1DamdTUUFkM1k4dTF3RlFXOGlrMzR1MEUwaWY3MUFRNzBxNGozZmNCRUhsNXp6NzI2cDI4aDlrdWNwZjlteF93UUtwLQ?oc=5",
       "pub_date": 1788615103.0,
-      "article_url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "article_url": "https://techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums",
       "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
       "description": "The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo."
     },
@@ -75,16 +95,6 @@
       "description": "Whatever your favorite smartphone, it\u2019s going to cost more. Blame inflation driven by the AI boom."
     },
     {
-      "headline": "\u2018We\u2019re plausibly close to crossing the line\u2019: are warnings of uncontrollable AI coming true?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDJIMjhFWGJNamZsTVpYUFpjT1l0Z2lIY0NJMWRtbVl4ZnFiZy1iVHN1U2piMnh4eXNZQXRRTnFvX0FIVGw4b2tnaHdWeXowVWNuU0JITDA5dHFqNXJmUk5zclVtTW9UY3B3VlF6T3A3N1dkMkFsMF9tMC14ZHdWRWVDOTlfMURWUU9OY1dHMW1jeXZJTno0eGZkZ0RlR05qM2oyYW1BQUMzaWY1LXc?oc=5",
-      "pub_date": 1788591600.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-      "image": "https://i.guim.co.uk/img/media/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28b920ba9cdafa796c0792bf79c56bf0",
-      "description": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced models"
-    },
-    {
       "headline": "Why I Want More AI at Dartmouth",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/",
       "image": "https://cdn.theatlantic.com/thumbor/2RJCyVZ_tw2syS0ic0O32tSt5c8=/0x317:4023x2412/1200x625/media/img/mt/2026/09/ai_classroom5/original.jpg",
       "description": "Universities that hide from the technology will merely secure their irrelevance."
-    },
-    {
-      "headline": "Dolly Parton\u2019s sister slams \u2018fake AI garbage\u2019 flooding the internet since icon\u2019s death",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5",
-      "pub_date": 1788625638.0,
-      "article_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260905-dolly-stella-parton-ch-1004-a1aae7.jpg",
-      "description": "\u201cThere is a tremendous amount of AI and endless garbage being posted everyday and it\u2019s been challenging to absorb and or ignore,\u201d Stella Parton, 77, said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-05T23:35:22.855835+00:00"
+  "fetched_at": "2026-09-06T03:18:23.945995+00:00"
 }

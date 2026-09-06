@@ -2,11 +2,33 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "author": "MedusaOnchain",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8c39u/ancient_bitcoin_wallet_that_turned_120_into_3/",
+      "published": 1788641263.0,
+      "thumbnail": "https://external-preview.redd.it/Abty1u_ToOx9ypAs-HdDBVShqyC8dnt90T3knkQuuLU.png?width=640&crop=smart&auto=webp&s=024737906352ac4a560fca9b944023ecd854a69d",
+      "external_url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+      "site_name": "Decrypt",
+      "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-96x96.png",
+      "description": "The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring."
+    },
+    {
       "title": "Homeless? Maybe, Bitcoin-less? Never.",
       "author": "degen_to_sensei",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1w7ugol/homeless_maybe_bitcoinless_never/",
       "published": 1788595131.0,
       "thumbnail": "https://preview.redd.it/nuh7jgqjrnnh1.jpeg?width=640&crop=smart&auto=webp&s=34725b4f1b42568d769e309ad9229659779025ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "\ud83c\udfc3\ud83d\udca8",
+      "author": "clausschnorr",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/",
+      "published": 1788662084.0,
+      "thumbnail": "https://preview.redd.it/zo8etqs09tnh1.png?width=640&crop=smart&auto=webp&s=4fd77e3bce56c25737e15d0231c3757de8931d74",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -22,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It's really neat I'll put it in my home office on the desk."
+    },
+    {
+      "title": "I backtested buying BTC at 30%, 40% and 50% drawdowns vs weekly DCA",
+      "author": "AdmirableSock192",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w81qb9/i_backtested_buying_btc_at_30_40_and_50_drawdowns/",
+      "published": 1788617267.0,
+      "thumbnail": "https://preview.redd.it/8uwr58tgkpnh1.png?width=140&height=41&auto=webp&s=409d9c771487996717971b51349700dfcdc5e945",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I ran a backtest to compare buying only during bigger BTC drawdowns with just buying every week over the last 1, 3 and 5 years. For the drawdown version I used: 30% below ATH: buy $10 40% below ATH: buy $20 50% below ATH: buy $30 Max one buy every 7 days Then I adjusted the weekly DCA amount for each period so both approaches invested roughly the same amount of money. I didn\u2019t want the result to come from one side simply putting more money into BTC. Here\u2019s what I got https://preview.redd.it/8uwr58tgkpnh1.png?width=2822&format=png&auto=webp&s=691826d90205088a1195c306795443e3cc9ef192 5 years Invested: $3,430 Drawdown buys: $7,601.74 (+121.62%) Weekly DCA: $5,109.89 (+49.00%) 3 years Invested: $1,130 Drawdown buys: $1,638.83 (+45.03%) Weekly DCA: $1,105.33 (-2.22%) 1 year Invested: $570 Drawdown buys: $518.76 (-8.99%) Weekly DCA: $448.08 (-21.35%) I knew the timing of the buys would make a difference, but I didn\u2019t expect the gap in the 3 and 5 year periods to be this large. Of course there are periods where you\u2019re just sitting on cash waiting for a 30% drop while BTC keeps going up. And buying at -30% obviously doesn\u2019t mean it won\u2019t keep falling. This also made me wonder how people who say they keep some cash for dips actually do it in practice. Do you already know smth like \u201cI\u2019ll buy X at -30%, Y at -40%\u201d before it happens, or do you just see how you feel when BTC gets there?"
     },
     {
       "title": "Saw this on my Japan trip",
@@ -46,39 +79,6 @@
       "description": null
     },
     {
-      "title": "Bitcoin for wiring money abroad?",
-      "author": "D4NK666",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w7x5j8/bitcoin_for_wiring_money_abroad/",
-      "published": 1788604347.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "My Indian girlfriend lives in England at the moment for university. She receives money from her parents for tuition fees. She says she loses around 20% in fees, which for her \u00a320k/ year fees adds up to a lot! Is there a way her parents can send her bitcoin? Basically it boils down to, can they buy bitcoin in fairly sizeable amounts in India without government restrictions? Thanks in advance folks"
-    },
-    {
-      "title": "It's really that simple.",
-      "author": "suuperfli",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w7jn6n/its_really_that_simple/",
-      "published": 1788562592.0,
-      "thumbnail": "https://preview.redd.it/xbz720lu2lnh1.png?width=640&crop=smart&auto=webp&s=ae3ae7a15141e387012075befb9a9a3d9d216e2a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "I\u2019m from a third world country and a 0.01 bitcoiner",
-      "author": "MoonMoon143",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w6xzvj/im_from_a_third_world_country_and_a_001_bitcoiner/",
-      "published": 1788508866.0,
-      "thumbnail": "https://preview.redd.it/aiyiszr3ngnh1.jpeg?width=640&crop=smart&auto=webp&s=5cb4ce534b301e48fdd76d1a996e4120db1df2b8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Very proud of my achievement despite our poverty and lack of public transport. While proper asphalt road is a luxury in many parts of my rural cities, we believe in bitcoin."
-    },
-    {
       "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
       "author": "TheresNoSecondBest",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1w804xl/bitcoin_etf_inflows_hit_38b_in_strongest/",
@@ -90,27 +90,27 @@
       "description": "Bitcoin ETF inflows rose about 7% week over week, bringing three-week inflows to a 2026 high of $3.8 billion, while Ether and XRP ETF inflows dropped sharply."
     },
     {
-      "title": "Trezor breach just got way bigger: another 67,000 customers exposed",
-      "author": "PreferenceOk2716",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w75bon/trezor_breach_just_got_way_bigger_another_67000/",
-      "published": 1788530613.0,
-      "thumbnail": "https://external-preview.redd.it/7hGBEyogbpU_rnRehJAmaVthnAwWn5KnqBTIf5Op5Vg.jpeg?width=640&crop=smart&auto=webp&s=aeaeecf4f1aef765da1b2cfd030bae54131d2235",
-      "external_url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-      "site_name": "The Block",
-      "favicon": "https://www.theblock.co/tbco/apple-touch-icon.png",
-      "description": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers."
-    },
-    {
-      "title": "Whats the news guys ?",
-      "author": "Mundane-Outside8943",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w74uhf/whats_the_news_guys/",
-      "published": 1788529509.0,
-      "thumbnail": "https://preview.redd.it/5dv258ufcinh1.jpeg?width=640&crop=smart&auto=webp&s=dda049047de68cb43ba123b398510b1e3a8a4b5a",
+      "title": "Bitcoin ATM",
+      "author": "mikaveress",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w7zxym/bitcoin_atm/",
+      "published": 1788612691.0,
+      "thumbnail": "https://preview.redd.it/l6smbovt7pnh1.jpeg?width=640&crop=smart&auto=webp&s=7112e972b166b57722eca6e43b21571c9cd47040",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Just wondering"
+      "description": null
+    },
+    {
+      "title": "Why self-custody backups are a process, not a single seed phrase",
+      "author": "Patriot_tech",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8bht4/why_selfcustody_backups_are_a_process_not_a/",
+      "published": 1788639838.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Bitcoin self-custody is often summarized as \u201ckeep your seed safe,\u201d but resilience has several parts: \u2022 Backup availability: can you recover if a device is lost? \u2022 Backup confidentiality: who could learn the words, now or later? \u2022 Recovery testing: have you verified the process without exposing the seed? \u2022 Inheritance and access planning: can a trusted person understand the recovery plan without receiving the secret prematurely? Using a hardware wallet does not remove the need to think through backups, passphrases, and physical risks. Small, documented procedures and periodic checks can reduce single points of failure. What part of self-custody do newcomers most often underestimate?"
     }
   ],
-  "fetched_at": "2026-09-05T14:43:03.442205+00:00"
+  "fetched_at": "2026-09-06T03:18:03.443241+00:00"
 }
