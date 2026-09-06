@@ -15,24 +15,24 @@
       "description": null
     },
     {
-      "headline": "Ethereum Layer 2s lead crypto sectors as they h...",
+      "headline": "Ethereum's EIP-8141 proposes easier wallets wit...",
       "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWVya0V0T3hzRFQ2d0VmTVF6czFqRjBZMG41Q01yVzNPVG4yT0UxQ3pZSjVELUpkREM1NmVHaXZDNGFvdlE1eVEzU3luTzM2aTdRWVcxb0U0bjJGNk52VUJtbHFtMGVnNER6WjlfZ1I1T3pOOGt0OXNDYVpvMTR3TzhUcmp0MTVxdjg0VjN1aUNnZ3lpcEhkOXJscw?oc=5",
-      "pub_date": 1788700561.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-l2-memimpin-transaksi-eth-94-persen-berpindah-offchain",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlJVand2b3lIdlZwS0JUeEwtWW55LTdva3VhbnI2OVE5TGI2MjhUUUtpb2d6eUVsWVVyWkVZWHpvNFFsLXNkdDZxTTRRS0I5WUJtMXZCdUtZU1pGZ1hyWE52WjhBdm9GOHV5Qk1DQ0x0S1ZpQWlSblRUdFZUTnhRbnhSS3I3UWZU?oc=5",
+      "pub_date": 1788716684.0,
+      "article_url": "https://pluang.com/en/news-feed/vitalik-buterin-eip-8141-mudahkan-dompet-ethereum",
       "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
-      "description": "Ethereum's Layer 2 networks now process nearly 30 million transactions daily, accounting for 94% of all Ethereum ecosystem transactions. This surge in Layer 2 activity supports a market rotation favoring Ethereum, Layer 2 tokens, and DeFi assets, with major networks like Base and Arbitrum securing significant capital. Despite the high transaction volume on Layer 2s, most DeFi capital remains on Ethereum mainnet, highlighting a split where Layer 2s handle activity while mainnet holds capital and settlement functions. This dynamic underpins recent gains across Ethereum-related tokens beyond just ETH price movements."
+      "description": "Ethereum co-founder Vitalik Buterin has proposed EIP-8141, aiming to simplify Ethereum wallets by allowing multiple actions in one transaction, supporting key rotation to reduce reliance on seed phrases, and enabling apps to pay users' gas fees. This could make Ethereum more user-friendly, especially for newcomers, by combining steps like token approval and swapping into a single confirmation. The proposal also adds support for stronger cryptographic signatures and is under consideration for the upcoming Hegot\u00e1 upgrade, though no activation date is set yet. Developers are currently focused on the Glamsterdam upgrade expected in late 2026."
     },
     {
-      "headline": "Where Will Solana Be in 5 Years?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
-      "pub_date": 1788573420.0,
-      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
-      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+      "headline": "Robinhood surpasses Solana in daily DEX volume, challenging its dominance and boosting Ethereum's outlook.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONDB0UnFncFRFS1FrRHJVWTFRa0gxNkVOQjZMSldSTDRneG9XZ1o1ako3UWJvYkxHdVczVXVqWHU3WU8xQmM1RGcxbXVZMmtSYzlYenhhcVlZYWpIV0pvNE85MWpzSXVKWXBPLS1CcGxtQjhRRnlsTWtfZmRrWGJ0SmdDdnZCcWFXQTZDWXl0RHJCUQ?oc=5",
+      "pub_date": 1788715484.0,
+      "article_url": "https://pluang.com/en/news-feed/robinhood-flip-volume-dex-solana-sinyal-breakout-eth-sol",
+      "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
+      "description": "Robinhood Chain has overtaken Solana in daily decentralized exchange (DEX) volume, processing $1.45 billion compared to Solana's $1.25 billion on September 5. This shift challenges Solana's long-held dominance, as Robinhood also recently crossed $3 billion in daily DEX volume and increased locked assets by 30% in a week. The rise in Robinhood's activity is boosting Ethereum's ecosystem, with record revenues and growing liquidity, potentially triggering a breakout in the ETH/SOL ratio. This trend signals a rotation in on-chain activity favoring Ethereum, which could strengthen its market position heading into Q4."
     },
     {
       "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
@@ -45,6 +45,16 @@
       "description": "Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an\u00a0i\u2026"
     },
     {
+      "headline": "Where Will Solana Be in 5 Years?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
+      "pub_date": 1788573420.0,
+      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
+      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+    },
+    {
       "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -55,18 +65,8 @@
       "description": "Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets."
     },
     {
-      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWHJROGowV3Jac05aRE04anZvNGJ4TFNwYzZMUnVoRGxERkhlRWtCckcyUThmQ2dVYldqcDdVclZya084emd1MHV1a2lsTUU5ZklYSUNtRFkzOFczZjlXUDNHTVE0RUx6cnVBMFVOaWc4bThCQmt5N3VZOA?oc=5",
-      "pub_date": 1788650812.0,
-      "article_url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
-      "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,"
-    },
-    {
       "headline": "Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4",
-      "source": "benzinga.com",
+      "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3FMaFVaeERadmlmM1VnM2hoZnFUTTlCVVdxenBFS0NubVhETnlvMVZVX01YYk5GLTh4bnBjdnJ5SGt0MEk1aDUyZkNsRDloMGM4Q1NVMXA4UmJVX2RBdDZjZUtHa3RERGFuN0Q0cGxzM0RSb00teVhfZnl3MnZUcUk5MWlVbVpsZ2VvZzZocXI1bEwydTY4ZUVsLXpZM0FvV3p2SFhpeFlVSjJBRTUzdVRSdjhsQktPb25teG5peElPc1lRZ3c?oc=5",
       "pub_date": 1788633011.0,
@@ -85,6 +85,16 @@
       "description": "Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back."
     },
     {
+      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWHJROGowV3Jac05aRE04anZvNGJ4TFNwYzZMUnVoRGxERkhlRWtCckcyUThmQ2dVYldqcDdVclZya084emd1MHV1a2lsTUU5ZklYSUNtRFkzOFczZjlXUDNHTVE0RUx6cnVBMFVOaWc4bThCQmt5N3VZOA?oc=5",
+      "pub_date": 1788650812.0,
+      "article_url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
+      "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,"
+    },
+    {
       "headline": "Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -93,18 +103,8 @@
       "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
       "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
       "description": "Bitcoin opened at $81,271.92 on Friday, September 4, 2026, 5.1% higher than Thursday's opening price. As of 7:21 a.m. ET this morning, the price of bitcoin shifted to $81,240.29.  Ethereum opened at $2,507.70 today, up 4.9% from Thursday's opening price. Ethereum moved to $2,522.14 as of 7:21 a.m. ET."
-    },
-    {
-      "headline": "Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000\u2014Here\u2019s What You Need to Know",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYVhTNjhYaE5rVnJBV3NRWmJRbkNXajN1bnE2cFJUc2pRR0VMSUdpWUxCYXBJS09BdVlZWGREZV9OUVQ0aS12dmxGRlNCNmFSRURNOUhNRV9OSFFnT1Y1T0x2aTJiZFd5akxGX2ZnWTdWdUdvcmd3X2VyWlktQUJ4VUdCQU5aVkhTSDd3QkRjT0ZhYlFtemg1c1c1bnpSQW9HUUVSbmw4WEMxWEw1dUVWMGRINlFfZGU1Qjl1MlVPYUJqb181RGR5clg3cXFlSzFlLU1KS09iTWxKa0Rhcy1vTk5WdWxPS1p3?oc=5",
-      "pub_date": 1788608202.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:67fd571e3094b:0-why-is-ethereum-still-below-3000-while-bitcoin-price-hits-82-000-here-s-what-you-need-to-know/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum price has recovered sharply over the past few days, but the rally has not yet produced the swing the bulls are waiting for. It climbed back above $2,500 after gaining nearly 5%, while the Bitcoin price moved above $82,000 as institutional demand returned to the crypto market. The divergenc\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T15:39:00.620408+00:00"
+  "fetched_at": "2026-09-06T18:04:12.800671+00:00"
 }

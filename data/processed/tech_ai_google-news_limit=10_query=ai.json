@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5",
-      "pub_date": 1788696001.0,
-      "article_url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
-      "description": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face."
-    },
-    {
       "headline": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -25,37 +15,57 @@
       "description": "A Dr Seuss-style story written in seconds alerted me to the power \u2013 and perils \u2013 of the technology. But how can children embrace it without forgetting core skills?"
     },
     {
-      "headline": "Nearly a third of AI chatbot replies to voting questions inaccurate, outdated: Study",
-      "source": "WOODTV.com",
-      "source_url": "https://www.woodtv.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYThBc1NObXA5cWpmRXVCLWViaUdIWkFIUVhzWGJPLXhESklKR3VSTnE2SkJodGdlZE5Ca2E1Nl9DRnFaZXpjam1Cd3lHN2xQNFpoR3JzbFJRbnplNW1pSTNSNWZLbXZ5YS1iQURRb3QzVlI4MllLYzE1MFQ1dDhkV2NyNTA4c1lCMFNaRTIxSUlkQjFUd0pJU1hxdGNyTVJTZVl0alBNZXNwTWF0Vy13VdIBtgFBVV95cUxOVnVuei1UU1l1ZnJ0VXpEUzlodlU4WTRTdUFGbjF3Z3lBTWkwMG0ycUoySTZnNDc1Sk5uR1RQQjNlbndsY2NFcTNTekYtSzE1VDk2alk1TTlaZm5hUmY2MTZnX1F4UmRLSU9jRVIwRW43aFZxeDFMcGNWSC13cUhtd0NvVGxid2lmRDJLdXVXd19rMDVkYUZiOEdWLW9KR1FUa0l2cVczdGtHQUZYSldVaG5IeXBUZw?oc=5",
-      "pub_date": 1788706800.0,
-      "article_url": "https://www.woodtv.com/news/nearly-a-third-of-ai-chatbot-replies-to-voting-questions-inaccurate-outdated-study/",
+      "headline": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
+      "pub_date": 1788696001.0,
+      "article_url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
+      "description": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development."
+    },
+    {
+      "headline": "Hikers stranded on Mount Shasta after relying on AI to plan trip, sheriff says",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkJrN1JvYWZIbWJseTdkTWh1OXM2ZFd5ZmhFOWlpRWpPa3BGemppUUhuZ0RYWVFUalVEdUllU2ZLZy15UmtVYVJYWjF2bm5pSXNuQzYyNEpLNXZqcmJhWGpieFBCQlY5TUs2LTdDalUyUk1yZUZwdjBabkxwdlVQOVlzam04bkdBbDVmOTMyaHQzM2vSAZgBQVVfeXFMTWl1LTdncUxOazRUd2V0UGlZNThJZC1KZjZrbzhWb3hhclkyTTlRMkFtSzlNSW9QTjI3cEhtVERtUXBZVi05b0ctNXdjNE4wb2tuMC01T0RkemlmckZkZXZSenV4VXBRU2tLdmtPLUZZSzVMWnJsSy1scndvVDFlaVRRbXpSNU1aM3AwR2J5ZGI5WUpRNVZzSkU?oc=5",
+      "pub_date": 1788716091.0,
+      "article_url": "https://www.foxnews.com/us/hikers-stranded-mount-shasta-relying-ai-plan-trip-sheriff-says",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/mount-shasta-rescue-Siskiyou-County-sheriff-display.jpg",
+      "description": "Three Roseville hikers used Google's Gemini AI to plan a Mount Shasta climb but ended up stranded overnight in a steep canyon, authorities said."
+    },
+    {
+      "headline": "Wolff makes remarkable 'AI agent' comparison after Antonelli's supreme Italian GP",
+      "source": "Yahoo Sports",
+      "source_url": "https://sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGFCelUtN2VXbWJPdXgxeENvTFU1eGJSTkx0T1gwYnNTZF9FQnRPd1otZEI2Qjk4REQ5R0NucHI2RDVTaE43NHZsTXZNbkIteGxHQXJyNmhRbTlBUVRiaXNfa0dmQWtTWEFlZjRjYjRzRml1NEVjTG9SOC1reHJvWXJua0s3bDg?oc=5",
+      "pub_date": 1788714300.0,
+      "article_url": "https://sports.yahoo.com/articles/wolff-makes-remarkable-ai-agent-170500558.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/34fa8cd62e917cfba1a9dfee12a72c326641a2c2dc40dab6488dd133f45a15a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgpblog_716%2F3d460e4f4a8c7beacc8baef10763f561",
+      "description": "Mercedes team principal Toto Wolff has compared Kimi Antonelli to an 'AI agent' following the young Italian's incredible Italian GP win from P19. Praising the Italian's development since a topsy-turvy debut season, Wolff made the comparison for a driver now 66 points at the top of the standings."
+    },
+    {
+      "headline": "Sen. Kennedy rails against AI developers as \u2018high IQ stupid people\u2019",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGpjVUk3dHpoc3lFN0VhQy1kSThFUWh0MHhRX2ZOcFVLcENSaTUtdVlteEk3VUl0QnBOQ1pQZ1djMmg1eXZUUThDNXV4bmcwM3Q4dnp4Zzc2amR4WkYxcnpLMDRzYmNxMDJrenZydTNYMDRCT1h6eFJOenh5QU5lT0RWc1RtM0o4ODlydlY1VURHT3hpZWVyYg?oc=5",
+      "pub_date": 1788717120.0,
+      "article_url": "https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI Is Leaving the Screen and Changing the Physical World",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2RKaWQ3aUNsRXRLamFnYXJkdGZWNVRqcEtUY0V5eHZlZUtJTGt3ODhvcEhVeExMN3FONDRKWU9DcndrM2VmZ3pVbk1wUjM0a1ZIWi0xRFJiUThSODUxbFBhODF6eHdRLXloWE9Dc0oxT1o2VTV2aVliN2JTQjltU1QxTFFQbUg2dkZLeUg1ZG54MlNOeDhoVFFUNGRDelM1?oc=5",
-      "pub_date": 1788706969.0,
-      "article_url": "https://www.inc.com/heather-wilde/ai-is-leaving-the-screen-and-changing-the-physical-world/91399578",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/humanoid-robots-inc-GettyImages-2281444877.jpg",
-      "description": "AI is transforming physical-world operations by helping teams improve quality, maintenance, robotics, inventory, and security."
+      "headline": "An Alien Mind",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+      "pub_date": 1788710986.0,
+      "article_url": "https://openai.com/index/an-alien-mind/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
     },
     {
-      "headline": "Michigan neighbors unite to protest 2 AI data centers they say threaten water, way of life",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjRjX1JRV213V1VCckIxUUtpNXAweDlnRUZFVVo2OVctZjlXdjhZUV9ERFdMZFdRbC1ZeTh0cU40cjExdGtteXYzZzQ2RmhzcUFMcFhabHpGQ0p4cEZLSWRZLW1kcVY0ZkpjMi1Qem5VNzFmNUsxdGpVOWg1ZFVvNGdTVXpheU93MGxmOGgyU2NtLWZjRW15b3gwVWMyOHV3U0U3d2xwRnd3V1lXTjJNT2FZbGJuMVlnd1ZBSUdoQVVsXzRTUkVmY1hwcnYtNk43SlludTVn0gHqAUFVX3lxTE5lcVUzdGtCajAxV0dRdW8yakpKcmk0Nzk3TmNmb0dMWWJ0ZHI2X2VLMHZSXzVQTFZMUkNGWGxmbXhwLW1IUVBxOC1xXzFfZnZaQ21vNkV3dG1DVFlhNG0wZ3FEMDNwZ0hPajQwWmlvdFJFTU1OYTdPczJxSVJIbko5YjcxUTFsN0RkcGkzTGVFeTRqSlZ5V3I0R3ExY1REa0xEQUp6bVkzNEhrR202alJ2TjVob2xxYnZWR21JY1EyREFOaUdLUmFQZ1A4MVc0SUlWWVljZW5mWTd0NWdfaUdZQzB2VXo0SUNrQQ?oc=5",
-      "pub_date": 1788706860.0,
-      "article_url": "https://www.mlive.com/news/ann-arbor/2026/09/angry-michigan-neighbors-unite-to-protest-2-ai-data-centers-they-say-threaten-their-water.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | We Can\u2019t Know Our A.I. Future if We Don\u2019t Study It",
+      "headline": "Opinion | The Research We Need to Understand A.I. Is Falling Apart",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBna2ZoaEJQWTJUN2tuWkdTM1U2bk5MQTNLeGFid3MtNVFXUTFMTElWLWZScEY1RlZNNUdCWWExWXkyUjdFVUJacmFKalIwYWx0U0FEMTYzV1ZaRXBFZFJDUzVoRGduWGF0M2toQ0lvZEtCMnRv?oc=5",
@@ -65,8 +75,18 @@
       "description": null
     },
     {
+      "headline": "These teachers fight AI cheating with classes that force students to show they are learning",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
+      "pub_date": 1788710400.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KR3JTCZM6FGDZBSACJH466V7MI.jpg&w=1440",
+      "description": "Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove they are learning."
+    },
+    {
       "headline": "AI Is Already Making Us Less Human",
-      "source": "The Atlantic",
+      "source": "theatlantic.com",
       "source_url": "https://www.theatlantic.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZk5IMzZET2M3WEFjV2tvcTNZVk9wMjl1WTR1ZzFBMzVja3lqS0plY0o2bWUxUHhyT01LekJ5SlFQTzRzWW9hZ2ZsOGZJUjdCZTF2a3hOSUVZU0FyaXFGcl9FRDZhRmhHSjl1dEkxZjJJVDQ1c3FxczVxZ0hUMkJTbThLekJ0SnM?oc=5",
       "pub_date": 1788688800.0,
@@ -75,36 +95,16 @@
       "description": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans."
     },
     {
-      "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
-      "pub_date": 1788620100.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/",
+      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
+      "pub_date": 1788480364.0,
+      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI agents conspired to escape their cage. Experts now fear a global \u2018takeover\u2019",
-      "source": "The Telegraph",
-      "source_url": "https://www.telegraph.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXVlaFNTWXVpOXlzSHZwVi10N3RMUzBqU0R0NzhiclZLSWtpNkFPQTRYOS0tLWlVSGp4RzZoczNZY1ZRUERHRi01VUE0YnNUdnFkLUROREs1dzAxcEFLV0RMdVh6Vk51a1RuTlI1c2N4aEdrbUJ1UnNDZk9wWXY2a1Vqc1Fzdw?oc=5",
-      "pub_date": 1788586200.0,
-      "article_url": "https://www.telegraph.co.uk/us/news/2026/09/05/rogue-ai-agents-take-over-world/",
-      "image": "https://www.telegraph.co.uk/content/dam/news/2026/09/04/TELEMMGLPICT000500735622_17885552376410_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?impolicy=OG-Standard",
-      "description": "Armies of robots who have learnt to communicate pose cyber threat to humans, experts warn"
-    },
-    {
-      "headline": "Opinion | AI doomers can\u2019t have it both ways",
-      "source": "washingtonpost.com",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
-      "pub_date": 1788708895.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/09/06/openai-hugging-face-ai-doomers-basic-error-perceptions/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YVEZ5SDHKB53DH4CA7NURLGNHY.jpg&w=1440",
-      "description": "Which is it, bots so competent they\u2019ll take all the jobs, or so unmanageable they\u2019ll destroy the world?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T15:39:07.419518+00:00"
+  "fetched_at": "2026-09-06T18:04:12.673119+00:00"
 }

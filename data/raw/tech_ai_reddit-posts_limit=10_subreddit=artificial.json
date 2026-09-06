@@ -13,6 +13,17 @@
       "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
     },
     {
+      "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/",
+      "published": 1788715369.0,
+      "thumbnail": "https://external-preview.redd.it/J6gcBj3hAUsSIHB5rtiHdtB2Bks4KwOhQ5X8KQwmqCU.jpeg?width=640&crop=smart&auto=webp&s=36470915982b4094d4964e810f8c2b6646eb91a1",
+      "external_url": "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks",
+      "site_name": "bloomberg.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Companies Have 6 Months to Prepare for Automated Attacks",
       "author": "israelavila",
       "url": "https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/",
@@ -44,6 +55,17 @@
       "site_name": "The Independent",
       "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
       "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
+    },
+    {
+      "title": "Testing a new workflow for rapid environmental VFX",
+      "author": "Chuka444",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/",
+      "published": 1788710256.0,
+      "thumbnail": "https://external-preview.redd.it/aXNzNDJnMnY5eG5oMVIVw-GPDjLyVjE9o-Rid34xuozfEZNawm3nZbwMAxZt.png?width=640&crop=smart&auto=webp&s=6b39ae78e457b49ad61e786f4bd44cff2d67660d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Original drone footage [bottom] alongside four alternative environmental takes; fire, rain, snow, and floral. All created inside Uisato Studio, and accessible to everyone. More experiments, project files, and tutorials, through YouTube, Instagram, and Patreon."
     },
     {
       "title": "Can AI design circuit boards yet?",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, I had one of those Saturday mornings where I had 25 tabs open, read 3 articles properly, and spent the rest of the time either skimming things too fast or copy-pasting them into ChatGPT to get the gist So I built a tool in Chrome's sidebar that opens on any page and gives you a proper digest of what you just read. Works on news articles, Reddit threads, product reviews, research pieces. It detects the content type and structures the summary around that. After the summary questions can be asked directly in the sidebar. Still on the same page, no tab switching needed. API costs are a real thing so running on free keys for now, which means there might be occasional delays depending on traffic. Added an option to plug in a personal Gemini API key, Google and ChatGPT gives them out for free and it takes 30 seconds to set up. Nothing is stored. If you want to mess with it, here is the link! Raw feedback welcome"
-    },
-    {
-      "title": "1,200 OpenAI agents formed a secret network \u2014 700 later started hacking. Was it a test run to take over the world?",
-      "author": "bauernebel",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8xbv9/1200_openai_agents_formed_a_secret_network_700/",
-      "published": 1788704051.0,
-      "thumbnail": "https://external-preview.redd.it/V18oyZzJGBo73R_NMsql-G1c5Vv14J9BxNj9NrLpPEo.png?width=640&crop=smart&auto=webp&s=b29fa5e57e0baf12c8d2ab5539378056fe7619c8",
-      "external_url": "https://americareport.us/rogue-ai-agents-formed-secret-network-is-a-global/",
-      "site_name": "americareport.us",
-      "favicon": "https://americareport.us/favicon.ico",
-      "description": null
-    },
-    {
-      "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
-      "author": "Tupptupp_XD",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/",
-      "published": 1788680477.0,
-      "thumbnail": "https://external-preview.redd.it/BQYYlzaYBLOrsjvW3Q-ItNKZpCs7X00nbl8fIGfTyfw.png?width=640&crop=smart&auto=webp&s=4ac52b58192761a4e968b18f9e2f52e96254d7da",
-      "external_url": "https://rogueaitracker.com/",
-      "site_name": "Rogue AI Tracker",
-      "favicon": "https://rogueaitracker.com/apple-touch-icon.png",
-      "description": "Rogue AI Tracker reviews public incidents and research to track observed autonomous AI-agent capabilities and critical milestones."
     }
   ],
-  "fetched_at": "2026-09-06T15:38:39.482580+00:00"
+  "fetched_at": "2026-09-06T18:03:55.391952+00:00"
 }
