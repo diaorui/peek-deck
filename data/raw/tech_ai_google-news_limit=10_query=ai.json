@@ -15,78 +15,78 @@
       "description": null
     },
     {
-      "headline": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5",
-      "pub_date": 1788480364.0,
-      "article_url": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+      "headline": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "pub_date": 1788516180.0,
+      "article_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Opinion | AI doomers can\u2019t have it both ways",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
+      "pub_date": 1788692850.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/09/06/openai-hugging-face-ai-doomers-basic-error-perceptions/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YVEZ5SDHKB53DH4CA7NURLGNHY.jpg&w=1440",
+      "description": "Which is it, bots so competent they\u2019ll take all the jobs, or so unmanageable they\u2019ll destroy the world?"
+    },
+    {
+      "headline": "AI Is Already Making Us Less Human",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZk5IMzZET2M3WEFjV2tvcTNZVk9wMjl1WTR1ZzFBMzVja3lqS0plY0o2bWUxUHhyT01LekJ5SlFQTzRzWW9hZ2ZsOGZJUjdCZTF2a3hOSUVZU0FyaXFGcl9FRDZhRmhHSjl1dEkxZjJJVDQ1c3FxczVxZ0hUMkJTbThLekJ0SnM?oc=5",
+      "pub_date": 1788688800.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "image": "https://cdn.theatlantic.com/thumbor/qdJ5ouVHP6TTuy8HAzo0ees6bds=/0x35:2000x1077/1200x625/media/img/mt/2026/09/AnthropomorphismNew/original.png",
+      "description": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans."
     },
     {
       "headline": "GPT-6 Astra: A new generation of intelligence",
       "source": "OpenAI",
       "source_url": "https://openai.com",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788680568.0,
+      "pub_date": 1788696449.0,
       "article_url": "https://openai.com/index/gpt-6-astra/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
       "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
-      "headline": "The AI Shift Turning Everyday Investors Into Mini Quant Funds",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLThYM2VKejRrbndnaTJuYUFpNVBmMlFqa0xyQmhDRWVJSENSRlJ3dmRBMlZoS0lXNEY2VUEyRHFrQzNCV3dWYVlzNTlOMnRLeTZiNkNPTHJyR3FiYkV4OVJYamRqb2Q3bDBtMkdIOGxXTTRMRm0zZnRfUkRlTmNKMXFfSE5UVFV1dkdZOGRTREctd3ZsLXdnTFNPRk1SbVE?oc=5",
-      "pub_date": 1788505200.0,
-      "article_url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "headline": "I\u2019m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
+      "pub_date": 1788692400.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+      "image": "https://i.guim.co.uk/img/media/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=248060df1b59c1b5eb079d2389b4c31f",
+      "description": "A Dr Seuss-style story written in seconds alerted me to the power \u2013 and perils \u2013 of the technology. But how can children embrace it without forgetting core skills?"
+    },
+    {
+      "headline": "Chasing AI fortunes, investors race to snap up land",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWdoTEJYSFJXNFNPcTAyd0IzaVI5NzNrUWxkMnFNU1VuZ3dySUNGRlg0MEotaURDZzZHRXl5QzR2VTIydWpEQlVhbzZCRVlyREI1OTRmV2ZoWUJuaTBuakVxWXNVUk5UcFkyUFpqLXFfU2xxM2d6T2tuM2l2TXppekpuX3lTQUhNdFotNGw1TlB0WklORnk1N3VZUU8?oc=5",
+      "pub_date": 1788695686.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/06/the-real-estate-bet-behind-the-ai-infrastructure-boom.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357335-1788295288691-thumb60.jpg?v=1788295334&w=1920&h=1080",
+      "description": "Investors are spending billions of dollars buying up land in hopes of developing it into data centers or other AI infrastructure. The buildout is impacting communities across the country, sparking confrontations between tech companies, developers, local governments and residents. CNBC traveled to Lancaster County, Pennsylvania and Boise, Idaho to learn more about the real estate bet behind the AI boom."
+    },
+    {
+      "headline": "Why China is being urged to study Ukraine\u2019s wartime PR blitz in the AI age",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDBXQUR3UWNnZF8zQW9wZkk5N2tEZlVjUVh4ZlhsalBxM2pLaHpWQUwteTZxa3JnME9ZYTdRbzd1VVVzOWZRWWFQYjd3WkpOekx3eFNmbUN2OE9MOHNsVFJibmN2V0paS2pBZHJKNTZKRnAtOGFoNkl6S0U3T3BJQzcyMTZuZ3o0SEhtVnFHNFVRYWVkdm1jaXFxWXJYXy1hcVRkNmRsSGFKZ0VCWktjcXBTMTFqRDNy0gG4AUFVX3lxTE9xWFRweTFheVE2dE1tQ1NPNTF3b3VJX1hZZTVSaVhTY1BmSWpRVFRlcWt0SFFwdVEwalpseTNPaUdTbFktYVgyUU9VZlRLNUFxZTFiRGtzWTZUa0FWbnl2ZS16X3R5ZWltcGNWay1FREdGTzFxUUZyN2c4OEZNZjl0b1NmVEx1NUJ3d2o4UUFsNnpoOWVTdE9JakZjVGFPenVIUXplTlo3NG1XbG9oTXp6U0RuYzJ5TEw?oc=5",
+      "pub_date": 1788696005.0,
+      "article_url": "https://www.scmp.com/news/china/military/article/3366516/why-china-being-urged-study-ukraines-wartime-pr-blitz-ai-age",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dolly Parton\u2019s sister slams \u2018fake AI garbage\u2019 flooding the internet since icon\u2019s death",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5",
-      "pub_date": 1788625638.0,
-      "article_url": "https://www.nbcnews.com/pop-culture/pop-culture-news/dolly-partons-sister-slams-fake-ai-garbage-rcna596080",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260905-dolly-stella-parton-ch-1004-a1aae7.jpg",
-      "description": "\u201cThere is a tremendous amount of AI and endless garbage being posted everyday and it\u2019s been challenging to absorb and or ignore,\u201d Stella Parton, 77, said."
-    },
-    {
-      "headline": "Dolly Parton\u2019s sister urges fans to have more \u2018compassion\u2019 after singer\u2019s death",
-      "source": "The Independent",
-      "source_url": "https://www.independent.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0xIZS1vMU1MU0tiN3FlaG5icVBDZmlucmh1M0VuaWlzOEdHbFlPZ2FUdmFsQ2JySmNVZVRCdEQwcUduckRnY2V4U1RRMGJvZzhpMW1ZazExMnB5UXRzdFZSWVZpLUNZdjFJS1ZuYUNqWV8xdEJMOU1jNy1SNnhjOWdEcUc1bzg0c1huMGxwZkFWcFEzSXVfTWRWbGFUWWgtMUVPOW8wWlpza0E2VTRpbTNjTjE4RHBaWFE?oc=5",
-      "pub_date": 1788675300.0,
-      "article_url": "https://www.independent.co.uk/arts-entertainment/music/news/dolly-parton-sister-stella-ai-fake-instagram-b3045412.html",
-      "image": "https://static.the-independent.com/2026/09/05/16/485564683..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "description": "Stella Parton said the family had been subjected to \u2018incredible pressure and insensitivity from strangers\u2019 after the late Queen of Country\u2019s death"
-    },
-    {
-      "headline": "Dolly Parton's sister calls out 'endless misinformation' after icon's death",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFRIaGxFU2phYU5xMTZIcndTc0FSbnlYRHNaX1RRN1J6Q2JxYWFFUGRHeXZjNVN1akx2WkdqUHBNR1Z1VnlpYkJwZk1HaDNTcmJrQm5lYmdQYUh1RXpMRWY4NDl5Tjk5VUtMbXR0LVJIUU5HWFhPQlljRDNDb0J2cjUxekh2cFpUekY2UjQ0QXpBeWlxQS1sQjhkUEtTUDJ5Yk9CYjdKTVNWdkZsQnlrWUQ3b21IYkRlNEZRODJpVXVsdDFOT3c?oc=5",
-      "pub_date": 1788658860.0,
-      "article_url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/05/dolly-parton-sister-stella-slams-fake-ai-posts/91629424007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/05/USAT/91630956007-getty-images-499682654.jpg?crop=1785,1004,x57,y196&width=1785&height=1004&format=pjpg&auto=webp",
-      "description": "Dolly Parton's sister Stella Parton spoke out against the harmful AI posts and misinformation being spread about the \"Jolene\" singer's death."
-    },
-    {
-      "headline": "Nottinghamshire actor says AI voice clone campaign won support fast",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jdVY2ZDBpay1FZDFLbWtJYjR5bkU1ME1fbS12N1Y4a3FIeEEyZTdUdEFmZGRLRzgzN3IzVVFMT0toQS1jc2JWd2dzYW12enV1WUZvSG5YYV9uQQ?oc=5",
-      "pub_date": 1788673987.0,
-      "article_url": "https://www.bbc.com/news/articles/c4gdrv8eegvo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/87f0/live/16607d70-a931-11f1-bb81-8fbd2d2d397c.png",
-      "description": "Peter Caulfield says he started his campaign when he realised there was little protection for actors."
-    },
-    {
       "headline": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdVJaOGJXMWcwelNsdUpReENFVWFBN2JONjBwdzdKN3lmbXhCQnVlaXAzcE8wOHdwLTZsdnFMQlUwOG1YdVVtSGpuV2N5MDdZc21BSWMwc1RMczJ6NlBnbVhxUmgyeVVfSHpHaldDS09UbzFFUVFucHlvb05QSFU?oc=5",
       "pub_date": 1788598934.0,
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "How parent activists pushed schools to restrict AI and screen time \u2014 and won",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVlTUUtNQk1IWmM2SzNaRnlJcmpIUUxsQzFlR21DQkV5QUFveHhlUHhUQTh0UDdVTnJ4cTBncUhkTVF2QVF0a1phOU85VHo0TkJrWU5aQVhueGtGMVNhSDNUcC1RNU5QSlVhekdUSy1senVSd3lzYkNZeTRJMDkwa2IxTU5HanY5WmpXQ3pDZ1d3RWZsRGt0dWtqTktpS0ZZd3c?oc=5",
-      "pub_date": 1788613240.0,
-      "article_url": "https://www.nbcnews.com/news/education/parent-activists-pushed-schools-ai-screen-time-won-rcna595683",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260904-screen-time-victories-lr-dda395.jpg",
-      "description": "New York, Los Angeles and Washington, D.C., announced changes this week in response to a growing grassroots movement against technology in schools."
+      "headline": "These teachers are moving from AI policing to AI acceptance",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
+      "pub_date": 1788696166.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KR3JTCZM6FGDZBSACJH466V7MI.jpg&w=1440",
+      "description": "Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove they are learning."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T08:03:30.658064+00:00"
+  "fetched_at": "2026-09-06T12:15:38.180853+00:00"
 }
