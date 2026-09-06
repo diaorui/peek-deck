@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-06T12:15:39.381179+00:00'
+updated: '2026-09-06T15:39:09.016694+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 06, 2026 at 12:15 UTC  
+**Last Updated:** September 06, 2026 at 15:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[I gave my ortomi robot a body 😎](https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible.
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,23 @@ Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (S
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-ABC7 Chicago • 1d ago
+ABC7 Chicago • 2d ago
+
+---
+
+**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
+
+Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
+
+Interesting Engineering • 1d ago
+
+---
+
+**[The hotels hiring robots to cut their wage bills](https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/)**
+
+Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
+
+The Telegraph • 1d ago
 
 ---
 
@@ -126,21 +142,27 @@ BBC • 2d ago
 
 **[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
 
-MarketWatch • 1d ago
+marketwatch.com • 1d ago
 
 ---
 
 **[Nothing Makes Humans Happier Right Now Than Watching Robots Fail](https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd)**
 
-WSJ • 3d ago
+wsj.com • 2d ago
 
 ---
 
-**[The hotels hiring robots to cut their wage bills](https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/)**
+**[AI Is Leaving the Screen and Changing the Physical World](https://www.inc.com/heather-wilde/ai-is-leaving-the-screen-and-changing-the-physical-world/91399578)**
 
-Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
+AI is transforming physical-world operations by helping teams improve quality, maintenance, robotics, inventory, and security.
 
-telegraph.co.uk • 1d ago
+inc.com • 36m ago
+
+---
+
+**[Delivery Robots Swarm Lincoln Park Sidewalk In Viral Video As Pushback Grows](https://blockclubchicago.org/2026/09/03/delivery-robots-swarm-lincoln-park-sidewalk-in-viral-video-as-pushback-grows/)**
+
+Block Club Chicago • 3d ago
 
 ---
 
@@ -148,37 +170,13 @@ telegraph.co.uk • 1d ago
 
 Remote-control robot bugs could deliver lifesaving aid to disaster victims
 
-IEEE Spectrum • 23h ago
+IEEE Spectrum • 1d ago
 
 ---
 
 **[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
 
-Signal Akron • 2d ago
-
----
-
-**[Tech industry’s robotics talent crunch has UW’s new grad program nearly full before day one](https://www.geekwire.com/2026/robotics-talent-crunch-has-uws-new-grad-program-nearly-full-before-day-one/)**
-
-The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing.
-
-GeekWire • 2d ago
-
----
-
-**[Humans, robots at work inside Amazon's new Loveland fulfillment center](https://www.coloradoan.com/picture-gallery/money/business/2026/09/04/humans-robots-at-work-inside-amazons-new-loveland-fulfillment-center/91616845007/)**
-
-See inside Amazon's new robotics fulfillment center, which quietly opened in Loveland in July 2026.
-
-The Coloradoan • 1d ago
-
----
-
-**[Enovis to acquire surgical tech provider eCential Robotics for $180M](https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/)**
-
-Enovis said it plans to bring a robotic system targeting the knee within the next 2 years, followed by a system focusing on the shoulder.
-
-The Robot Report • 23h ago
+signalakron.org • 2d ago
 
 ---
 
@@ -192,27 +190,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 388K • 👍 8K • 💬 601 • ⏱️ 15:41 • 3d ago
-
----
-
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
-
-📺 Julia McCoy
-
-👁️ 74K • 👍 602 • 💬 130 • ⏱️ 9:07 • 2d ago
-
----
-
-**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
-
-Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
-
-📺 TESLA CAR WORLD
-
-👁️ 155K • 👍 2K • 💬 224 • ⏱️ 12:56 • 6d ago
+👁️ 388K • 👍 8K • 💬 611 • ⏱️ 15:41 • 3d ago
 
 ---
 
@@ -222,27 +200,27 @@ A San Francisco startup has launched a $30-an-hour housecleaning service powered
 
 📺 Associated Press
 
-👁️ 221K • 👍 3K • 💬 1K • ⏱️ 1:39 • 4d ago
+👁️ 221K • 👍 3K • 💬 1K • ⏱️ 1:39 • 5d ago
 
 ---
 
-**[The IMPOSSIBLE Robot Jumps](https://www.youtube.com/watch?v=NxnQUJfYcps)**
+**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
 
-I played impossible Geometry Dash levels to see if they were truly IMPOSSIBLE, or NOT?! There were some insane robot timings, ...
+Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
 
-📺 EricVanWilderman
+📺 TESLA CAR WORLD
 
-👁️ 117K • 👍 3K • 💬 306 • ⏱️ 18:36 • 5d ago
+👁️ 156K • 👍 2K • 💬 224 • ⏱️ 12:56 • 6d ago
 
 ---
 
-**[I Let a Robot Take Over My Farm](https://www.youtube.com/watch?v=1Hqa6hqaHx8)**
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
 
-Taking care of your health just got easier, thanks to my sponsor Zocdoc — start here at: https://zocdoc.com/laurafarms "Roger's ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
 
-📺 Laura Farms
+📺 Julia McCoy
 
-👁️ 410K • 👍 16K • 💬 1K • ⏱️ 35:24 • 1d ago
+👁️ 74K • 👍 603 • 💬 130 • ⏱️ 9:07 • 3d ago
 
 ---
 
@@ -252,7 +230,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 153K • 👍 1K • 💬 351 • ⏱️ 3:47 • 3d ago
+👁️ 155K • 👍 1K • 💬 365 • ⏱️ 3:47 • 3d ago
+
+---
+
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 213K • 👍 2K • 💬 134 • ⏱️ 0:58 • 4d ago
 
 ---
 
@@ -266,23 +254,33 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 ---
 
+**[Humanoid Robots Conquer Beijing&#39;s Toughest Obstacle Course!](https://www.youtube.com/watch?v=ymGhtf4YytU)**
+
+Humanoid robots take on a demanding 400 meter obstacle course at the 2026 World Humanoid Robot Games in Beijing. With 16 ...
+
+📺 DPCcars
+
+👁️ 472 • 👍 11 • ⏱️ 0:25 • 52m ago
+
+---
+
 **[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
 
 Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
 
 📺 Carros Show
 
-👁️ 48K • 👍 336 • 💬 47 • ⏱️ 19:36 • 5d ago
+👁️ 48K • 👍 339 • 💬 48 • ⏱️ 19:36 • 5d ago
 
 ---
 
-**[A Chinese humanoid robot sets 100-meter sprint record of 8.86 seconds](https://www.youtube.com/watch?v=NRK_PLLYtUc)**
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
 
-(25 Aug 2026) RESTRICTION SUMMARY: ASSOCIATED PRESS Beijing, China - 25 August 2026 1. Pan and zoom in of a ...
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
 
-📺 AP Archive
+📺 CBS Chicago
 
-👁️ 124K • 👍 324 • 💬 201 • ⏱️ 0:53 • 6d ago
+👁️ 213K • 👍 2K • 💬 518 • ⏱️ 1:44 • 2d ago
 
 ---
 
