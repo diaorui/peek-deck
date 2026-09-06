@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-06T12:15:36.333637+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/buterin-bocorkan-pembaruan-besar-format-transaksi-ethereum",
+    "title": "Ethereum co-founder hints at new transaction fo... | Pluang",
+    "description": "Ethereum co-founder Vitalik Buterin revealed plans for a new generation of transaction formats that separate transaction execution from the verification of conditions beforehand. This approach, based on recent research including EIP-8141 and cryptographic proof aggregation, aims to optimize Ethereum's scalability by allowing dependencies to be checked in parallel and potentially only once by the mempool. This could reduce redundant validations by validators and improve network efficiency. The innovation could lead to significant scaling improvements for Ethereum in the future.",
+    "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "UToday",
+    "keywords": null
+  }
+}

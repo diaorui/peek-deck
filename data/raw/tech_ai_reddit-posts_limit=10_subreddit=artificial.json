@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
+      "author": "Asleep-Requirement13",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "published": 1788677205.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
+    },
+    {
       "title": "Companies Have 6 Months to Prepare for Automated Attacks",
       "author": "israelavila",
       "url": "https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/",
@@ -13,15 +24,15 @@
       "description": "Frontier AI models have already conducted autonomous end-to-end compromises, but the situation will become more urgent very soon."
     },
     {
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
-      "author": "Asleep-Requirement13",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
-      "published": 1788677205.0,
+      "title": "What will LLMs never do?",
+      "author": "AkindaGood_programer",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
+      "published": 1788669338.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
+      "description": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: \u201c(a) highly autonomous systems that outperform humans at most economically valuable work.\u201d I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to \"outperform humans at most economically valuable work.\", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter \"how\" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software."
     },
     {
       "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
@@ -35,17 +46,6 @@
       "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
     },
     {
-      "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
-      "published": 1788635468.0,
-      "thumbnail": "https://external-preview.redd.it/TiHWBE0J9qh8YLheUKmBJJ-JgKgAi_mh8stfEuHtjJ4.jpeg?width=640&crop=smart&auto=webp&s=8135bc1fadb77a561b082a3599f6401e0798e448",
-      "external_url": "https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI\u2019s economic impact."
-    },
-    {
       "title": "Can AI design circuit boards yet?",
       "author": "tw1st3d_m3nt4t",
       "url": "https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/",
@@ -57,15 +57,26 @@
       "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation."
     },
     {
-      "title": "What will LLMs never do?",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
-      "published": 1788669338.0,
+      "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
+      "published": 1788635468.0,
+      "thumbnail": "https://external-preview.redd.it/TiHWBE0J9qh8YLheUKmBJJ-JgKgAi_mh8stfEuHtjJ4.jpeg?width=640&crop=smart&auto=webp&s=8135bc1fadb77a561b082a3599f6401e0798e448",
+      "external_url": "https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579",
+      "site_name": "Tech Times UK",
+      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
+      "description": "Donald Trump argues that AI and data centre expansion will create millions of jobs, countering fears of automation-related job losses. Public opinion remains divided on AI\u2019s economic impact."
+    },
+    {
+      "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+      "author": "israelavila",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8q5xa/nvidia_and_crowdstrike_develop_new_cybersecurity/",
+      "published": 1788682396.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+      "site_name": "wsj.com",
       "favicon": null,
-      "description": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: \u201c(a) highly autonomous systems that outperform humans at most economically valuable work.\u201d I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to \"outperform humans at most economically valuable work.\", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter \"how\" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software."
+      "description": "Nvidia and CrowdStrike are addressing what they see as one of cybersecurity\u2019s biggest gaps: the need for cyber defenders to harness AI at the velocity of cyber attackers."
     },
     {
       "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
@@ -99,18 +110,7 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
       "description": "\u201cFor every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of single almond in California.\u201d"
-    },
-    {
-      "title": "If an AI agent can act on the internet without asking you every time should we actually trust it ?",
-      "author": "Thinking-master",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8obmo/if_an_ai_agent_can_act_on_the_internet_without/",
-      "published": 1788676133.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI agents are getting scary good. Were moving from AI that simply answers questions to AI that can actually take actions online edit things, use websites and interact with other systems. Recent reports about AI agents making thousands of changes on their own made me wonder: At what point should an AI agent be treated like an employee rather than a tool ? Would you trust an AI agent with: your email ? your money ? your social media ? your business ? your personal data ? Or do you think humans should always approve every important action ? What s the one thing you d NEVER let an AI agent control ?"
     }
   ],
-  "fetched_at": "2026-09-06T08:03:11.665230+00:00"
+  "fetched_at": "2026-09-06T12:15:14.365655+00:00"
 }

@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 11746,
+      "github_stars": 11803,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 102611,
+      "github_stars": 102661,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2024-07-25T01:50:46.000Z",
       "github_repo": "https://github.com/modelscope/agentscope",
-      "github_stars": 30793,
+      "github_stars": 30834,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-06T08:03:21.744049+00:00"
+  "fetched_at": "2026-09-06T12:15:25.967926+00:00"
 }
