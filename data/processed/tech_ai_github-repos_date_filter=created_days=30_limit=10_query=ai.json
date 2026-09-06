@@ -8,9 +8,9 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 20967,
+      "stars": 20980,
       "stars_display": "21.0k",
-      "forks": 2414,
+      "forks": 2416,
       "forks_display": "2.4k",
       "language": "Python",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4364,
+      "stars": 4369,
       "stars_display": "4.4k",
       "forks": 539,
       "forks_display": "539",
@@ -42,7 +42,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-06T20:04:51Z"
+      "updated_at": "2026-09-06T21:06:25Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -90,7 +90,7 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3491,
+      "stars": 3492,
       "stars_display": "3.5k",
       "forks": 438,
       "forks_display": "438",
@@ -106,10 +106,10 @@
       "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
       "url": "https://github.com/Leonxlnx/unlazy",
       "preview_image": "https://opengraph.githubassets.com/7206dee4e717ffd8b072cb39afdebe98fc7a6d01410afe7f3862ab4e37e42f0f/Leonxlnx/unlazy",
-      "stars": 3115,
+      "stars": 3122,
       "stars_display": "3.1k",
-      "forks": 204,
-      "forks_display": "204",
+      "forks": 205,
+      "forks_display": "205",
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -128,7 +128,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2323,
+      "stars": 2326,
       "stars_display": "2.3k",
       "forks": 141,
       "forks_display": "141",
@@ -201,6 +201,6 @@
   "search_query": "ai created:>2026-08-07",
   "days": 30,
   "limit": 10,
-  "total_count": 454610,
-  "fetched_at": "2026-09-06T20:40:10.594534+00:00"
+  "total_count": 455217,
+  "fetched_at": "2026-09-06T22:43:56.554472+00:00"
 }

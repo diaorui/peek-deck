@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-06T20:40:34.082686+00:00'
+updated: '2026-09-06T22:44:19.774413+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 20:40 UTC  
+**Last Updated:** September 06, 2026 at 22:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,490.00
+### $2,497.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.2%  
-**30d:** +30.1%  
-**90d:** +52.3%  
-**1y:** -42.2%  
+**24h:** +1.0%  
+**7d:** +1.6%  
+**30d:** +30.6%  
+**90d:** +52.8%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.53B
+**Market Cap:** $305.74B
 Rank #2
 
 **Circulating Supply:** 122,023,858 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.5%
+-49.3%
 
 **All-Time Low:** $0.43
-+576290.5%
++578694.8%
 
 ---
 
@@ -152,25 +152,27 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
-**[Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH](https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/)**
+**[Bitmine boosts Ethereum holdings to 5.9M ETH, n...](https://pluang.com/en/news-feed/bitmine-dekati-target-5-persen-ethereum-dengan-pendapatan-staking-kuat)**
 
-Forbes • 3d ago
+Bitmine, a Nasdaq-listed treasury company, increased its Ethereum holdings by 53,501 ETH through August 30, raising its total disclosed treasury to 5.9 million ETH. The company has staked over 5.06 million ETH at an annualized yield of 2.67%, generating significant staking rewards that could produce about 135,000 ETH annually, nearly covering the gap to its 5% ownership target of the total ETH supply. Additionally, on September 1, Bitmine reportedly purchased another 51,000 ETH, potentially bringing its holdings closer to 5.95 million ETH and reducing the shortfall to about 83,000 tokens. This expansion, combined with staking rewards, positions Bitmine to reach its goal without needing to buy all tokens outright. Meanwhile, Bitmine chairman Tom Lee linked future crypto adoption to clearer U.S. regulation, highlighting the potential impact of the CLARITY Act on institutional investment.
 
----
-
-**[Ethereum's EIP-8141 proposes easier wallets wit...](https://pluang.com/en/news-feed/vitalik-buterin-eip-8141-mudahkan-dompet-ethereum)**
-
-Ethereum co-founder Vitalik Buterin has proposed EIP-8141, aiming to simplify Ethereum wallets by allowing multiple actions in one transaction, supporting key rotation to reduce reliance on seed phrases, and enabling apps to pay users' gas fees. This could make Ethereum more user-friendly, especially for newcomers, by combining steps like token approval and swapping into a single confirmation. The proposal also adds support for stronger cryptographic signatures and is under consideration for the upcoming Hegotá upgrade, though no activation date is set yet. Developers are currently focused on the Glamsterdam upgrade expected in late 2026.
-
-pluang.com • 2h ago
+Pluang • 1h ago
 
 ---
 
-**[Robinhood surpasses Solana in daily DEX volume, challenging its dominance and boosting Ethereum's outlook.](https://pluang.com/en/news-feed/robinhood-flip-volume-dex-solana-sinyal-breakout-eth-sol)**
+**[Ethereum price eyes $2,750 but must break $2,54...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-2750-jika-eth-lewati-2567)**
 
-Robinhood Chain has overtaken Solana in daily decentralized exchange (DEX) volume, processing $1.45 billion compared to Solana's $1.25 billion on September 5. This shift challenges Solana's long-held dominance, as Robinhood also recently crossed $3 billion in daily DEX volume and increased locked assets by 30% in a week. The rise in Robinhood's activity is boosting Ethereum's ecosystem, with record revenues and growing liquidity, potentially triggering a breakout in the ETH/SOL ratio. This trend signals a rotation in on-chain activity favoring Ethereum, which could strengthen its market position heading into Q4.
+Ethereum is trading in a range between $2,350 and $2,560, with buyers defending the lower boundary near $2,380. The price needs to break and sustain above the $2,545 to $2,567 resistance band to confirm a bullish trend and target $2,750. Whale activity has faded, and normal-sized trades dominate, causing choppy price action without clear direction. A break below $2,358 would weaken the bullish setup and could lead to a correction toward support levels between $2,179 and $2,367.
 
-pluang.com • 3h ago
+Pluang • 1h ago
+
+---
+
+**[Ethereum surges 66% in Q3 2026 as DeFi and meme coins on Robinhood Chain drive demand](https://pluang.com/en/news-feed/ethereum-menguat-aktivitas-defi-dorong-minat-meme-coin)**
+
+Ethereum experienced a strong rally in Q3 2026, rising about 66%, fueled by over $10 billion in ETF inflows, $15 billion in corporate ETH purchases, and a revival in DeFi activity. Robinhood Chain, an Ethereum Layer-2 network launched in July 2026, unexpectedly saw meme coins dominate its trading volume, with its flagship token CASHCAT reaching a market cap of around $220 million. This surge in meme coin interest on Robinhood Chain highlights growing retail investor enthusiasm, contributing to Ethereum's broader momentum alongside Bitcoin's rise. The DeFi sector's total value locked hit approximately $88 billion, signaling robust activity and potential for continued growth.
+
+Pluang • 1h ago
 
 ---
 
@@ -178,7 +180,7 @@ pluang.com • 3h ago
 
 Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an i…
 
-TradingView • 1d ago
+tradingview.com • 1d ago
 
 ---
 
@@ -186,7 +188,15 @@ TradingView • 1d ago
 
 This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
 
-The Motley Fool • 1d ago
+fool.com • 1d ago
+
+---
+
+**[Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames](https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/)**
+
+EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
+
+Crypto Briefing • 23h ago
 
 ---
 
@@ -214,14 +224,6 @@ Decrypt • 3d ago
 
 ---
 
-**[Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames](https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/)**
-
-EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
-
-Crypto Briefing • 21h ago
-
----
-
 **[Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)**
 
 Bitcoin opened at $81,271.92 on Friday, September 4, 2026, 5.1% higher than Thursday's opening price. As of 7:21 a.m. ET this morning, the price of bitcoin shifted to $81,240.29.  Ethereum opened at $2,507.70 today, up 4.9% from Thursday's opening price. Ethereum moved to $2,522.14 as of 7:21 a.m. ET.
@@ -234,23 +236,33 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
-
-Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
-
-📺 No Bs Crypto
-
-👁️ 14K • 👍 386 • 💬 56 • ⏱️ 19:02 • 1d ago
-
----
-
 **[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
 
 Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 677 • 💬 184 • ⏱️ 36:55 • 11h ago
+👁️ 11K • 👍 705 • 💬 224 • ⏱️ 36:55 • 13h ago
+
+---
+
+**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
+
+Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
+
+📺 No Bs Crypto
+
+👁️ 15K • 👍 395 • 💬 50 • ⏱️ 19:02 • 1d ago
+
+---
+
+**[Raoul Pal &amp; Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=5i8VvNd-uJk)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 274 • 💬 58 • ⏱️ 18:18 • 18h ago
 
 ---
 
@@ -260,7 +272,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 29K • 👍 753 • 💬 241 • ⏱️ 18:55 • 1d ago
+👁️ 30K • 👍 758 • 💬 241 • ⏱️ 18:55 • 1d ago
 
 ---
 
@@ -270,7 +282,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 13K • 👍 216 • 💬 146 • ⏱️ 13:53 • 1d ago
+👁️ 14K • 👍 217 • 💬 146 • ⏱️ 13:53 • 1d ago
 
 ---
 
@@ -280,27 +292,7 @@ Ethereum is dominating crypto right now, but I lay out why that may not translat
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 1K • 👍 49 • 💬 39 • ⏱️ 20:29 • 16h ago
-
----
-
-**[99% of traders are wrong. Final Warning. (BTC, ETH, SILVER)](https://www.youtube.com/watch?v=4RVt_OWY5vw)**
-
-99% of traders are wrong. Final Warning. (BTC, ETH, SILVER) THIS VIDEO IS FOR ENTERTAINMENT PURPOSES ONLY - NOT ...
-
-📺 Chart Junkie
-
-👁️ 18K • 👍 477 • 💬 111 • ⏱️ 22:35 • 1d ago
-
----
-
-**[Ethereum 2.0 - The Merge | The Future of Crypto Starts Now | 4K](https://www.youtube.com/watch?v=ou7XkgZqUrg)**
-
-The Ethereum protocol is going through significant changes. Security and decentralization are improved with the merge.
-
-📺 The Crypto Vault
-
-👁️ 244 • 👍 20 • 💬 14 • ⏱️ 34:16 • 4h ago
+👁️ 1K • 👍 51 • 💬 51 • ⏱️ 20:29 • 18h ago
 
 ---
 
@@ -310,27 +302,37 @@ Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. 
 
 📺 YaBoySkey
 
-👁️ 791 • 👍 40 • 💬 8 • ⏱️ 9:20 • 16h ago
+👁️ 916 • 👍 41 • 💬 8 • ⏱️ 9:20 • 19h ago
 
 ---
 
-**[Mark Yusko &amp; CZ :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=hKO5jSIXKHU)**
+**[Ethereum 2.0 - The Merge | The Future of Crypto Starts Now | 4K](https://www.youtube.com/watch?v=ou7XkgZqUrg)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+The Ethereum protocol is going through significant changes. Security and decentralization are improved with the merge.
 
-📺 Crypto Nutshell
+📺 The Crypto Vault
 
-👁️ 18K • 👍 315 • 💬 20 • ⏱️ 14:57 • 1d ago
+👁️ 882 • 👍 32 • 💬 14 • ⏱️ 34:16 • 6h ago
 
 ---
 
-**[BITCOIN WARNING: IT&#39;S NOT WHAT YOU THINK!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=n8IXe_tArc8)**
+**[99% of traders are wrong. Final Warning. (BTC, ETH, SILVER)](https://www.youtube.com/watch?v=4RVt_OWY5vw)**
 
-BITCOIN WARNING: IT'S NOT WHAT YOU THINK!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+99% of traders are wrong. Final Warning. (BTC, ETH, SILVER) THIS VIDEO IS FOR ENTERTAINMENT PURPOSES ONLY - NOT ...
 
-📺 Crypto World
+📺 Chart Junkie
 
-👁️ 13K • 👍 361 • 💬 208 • ⏱️ 18:10 • 19h ago
+👁️ 19K • 👍 486 • 💬 111 • ⏱️ 22:35 • 1d ago
+
+---
+
+**[BE READY FOR THIS NEXT WEEK! (ETH Price Prediction)](https://www.youtube.com/watch?v=-oUhkKLo1Sw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 490 • 👍 26 • 💬 1 • ⏱️ 5:26 • 12h ago
 
 ---
 

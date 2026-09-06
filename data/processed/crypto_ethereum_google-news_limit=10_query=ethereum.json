@@ -5,38 +5,38 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum Price Prediction: Tom Lee Nears 5% Of All ETH",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3VPWTNOQ0NvbHNyeExBdnNXYjZQNjhoamFjNk5HZE9Ea1A2OE56UkdyWmhMTl9qWUpRNUZTeGhfRFR1SkhyZTUtMlFjS1FTVmpXdjNUaVp1eVZrYmE3aHA0allsbndYeUdKdEI5LUltbWIzT0RUNmMxZ1d4eXlmSGF4VWFTTGRnYkFjZmpBa1g1c1N6eFNUVy1PMHB0cjdGd20zekxuMVo4R3plbUE?oc=5",
-      "pub_date": 1788433231.0,
-      "article_url": "https://www.forbes.com/sites/boazsobrado/2026/09/03/tom-lee-shock-has-ethereum-traders-suddenly-eyeing-10000/",
-      "image": null,
-      "description": null
+      "headline": "Bitmine boosts Ethereum holdings to 5.9M ETH, n...",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODNhMDZJenRadHJOMTRvVnRJZzQ5WFMyU2dTTzBZdk01alRVQnlQYkJXbWRoUzhzYUJPalY5UUtjbjdCaUtnQWJEd05sbDJmZXpJLWQ0S1dUc09YNWtqTUhjYXdnSThyM1RtSlF5N0pwN0hZaFNyTnp4QTVGdXVRaHhkNVc4dWpXUmZOdTU2VkhySHc0WVlWNGpkLTl3XzFXWW5oQQ?oc=5",
+      "pub_date": 1788730261.0,
+      "article_url": "https://pluang.com/en/news-feed/bitmine-dekati-target-5-persen-ethereum-dengan-pendapatan-staking-kuat",
+      "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
+      "description": "Bitmine, a Nasdaq-listed treasury company, increased its Ethereum holdings by 53,501 ETH through August 30, raising its total disclosed treasury to 5.9 million ETH. The company has staked over 5.06 million ETH at an annualized yield of 2.67%, generating significant staking rewards that could produce about 135,000 ETH annually, nearly covering the gap to its 5% ownership target of the total ETH supply. Additionally, on September 1, Bitmine reportedly purchased another 51,000 ETH, potentially bringing its holdings closer to 5.95 million ETH and reducing the shortfall to about 83,000 tokens. This expansion, combined with staking rewards, positions Bitmine to reach its goal without needing to buy all tokens outright. Meanwhile, Bitmine chairman Tom Lee linked future crypto adoption to clearer U.S. regulation, highlighting the potential impact of the CLARITY Act on institutional investment."
     },
     {
-      "headline": "Ethereum's EIP-8141 proposes easier wallets wit...",
-      "source": "pluang.com",
+      "headline": "Ethereum price eyes $2,750 but must break $2,54...",
+      "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlJVand2b3lIdlZwS0JUeEwtWW55LTdva3VhbnI2OVE5TGI2MjhUUUtpb2d6eUVsWVVyWkVZWHpvNFFsLXNkdDZxTTRRS0I5WUJtMXZCdUtZU1pGZ1hyWE52WjhBdm9GOHV5Qk1DQ0x0S1ZpQWlSblRUdFZUTnhRbnhSS3I3UWZU?oc=5",
-      "pub_date": 1788716684.0,
-      "article_url": "https://pluang.com/en/news-feed/vitalik-buterin-eip-8141-mudahkan-dompet-ethereum",
-      "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
-      "description": "Ethereum co-founder Vitalik Buterin has proposed EIP-8141, aiming to simplify Ethereum wallets by allowing multiple actions in one transaction, supporting key rotation to reduce reliance on seed phrases, and enabling apps to pay users' gas fees. This could make Ethereum more user-friendly, especially for newcomers, by combining steps like token approval and swapping into a single confirmation. The proposal also adds support for stronger cryptographic signatures and is under consideration for the upcoming Hegot\u00e1 upgrade, though no activation date is set yet. Developers are currently focused on the Glamsterdam upgrade expected in late 2026."
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmtSSnhkRmpmWHY5b3FoRWl3OWpmWEJfNDBBZHJ6VW5Wa01qYmphRkp4VVpRRGJXRWhycG51Tkltbi1QbVdfekZCc19rYzlGV21yWlBWU3hGT1JNUTlUcnh4ampLSDUwcVV0cHNzMjJYcUJjQTd0WnVROUR2cEdVYTEtT1NXR3BC?oc=5",
+      "pub_date": 1788729776.0,
+      "article_url": "https://pluang.com/en/news-feed/prediksi-harga-ethereum-2750-jika-eth-lewati-2567",
+      "image": "https://image-cdn.pluang.com/web/compressed/technical_signals-v2.webp",
+      "description": "Ethereum is trading in a range between $2,350 and $2,560, with buyers defending the lower boundary near $2,380. The price needs to break and sustain above the $2,545 to $2,567 resistance band to confirm a bullish trend and target $2,750. Whale activity has faded, and normal-sized trades dominate, causing choppy price action without clear direction. A break below $2,358 would weaken the bullish setup and could lead to a correction toward support levels between $2,179 and $2,367."
     },
     {
-      "headline": "Robinhood surpasses Solana in daily DEX volume, challenging its dominance and boosting Ethereum's outlook.",
-      "source": "pluang.com",
+      "headline": "Ethereum surges 66% in Q3 2026 as DeFi and meme coins on Robinhood Chain drive demand",
+      "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONDB0UnFncFRFS1FrRHJVWTFRa0gxNkVOQjZMSldSTDRneG9XZ1o1ako3UWJvYkxHdVczVXVqWHU3WU8xQmM1RGcxbXVZMmtSYzlYenhhcVlZYWpIV0pvNE85MWpzSXVKWXBPLS1CcGxtQjhRRnlsTWtfZmRrWGJ0SmdDdnZCcWFXQTZDWXl0RHJCUQ?oc=5",
-      "pub_date": 1788715484.0,
-      "article_url": "https://pluang.com/en/news-feed/robinhood-flip-volume-dex-solana-sinyal-breakout-eth-sol",
-      "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
-      "description": "Robinhood Chain has overtaken Solana in daily decentralized exchange (DEX) volume, processing $1.45 billion compared to Solana's $1.25 billion on September 5. This shift challenges Solana's long-held dominance, as Robinhood also recently crossed $3 billion in daily DEX volume and increased locked assets by 30% in a week. The rise in Robinhood's activity is boosting Ethereum's ecosystem, with record revenues and growing liquidity, potentially triggering a breakout in the ETH/SOL ratio. This trend signals a rotation in on-chain activity favoring Ethereum, which could strengthen its market position heading into Q4."
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHg3NjVyTWxwS0t4bWo4bzlmaDhvUG5aNGQtSXdYTnQ5bmk4M1RzSE44MEdCU3JudHZYdG1FVEFGWXJhNF9oRm9nQXhrNElBZV9wdVZCTktmaGJ2dUFGMVRjUWY5Q2ZIN3ptck9fZXM3ZFpwcFZXbHU3VVpFOV9sYzdDYkcydG9seEhMYkxHcw?oc=5",
+      "pub_date": 1788728176.0,
+      "article_url": "https://pluang.com/en/news-feed/ethereum-menguat-aktivitas-defi-dorong-minat-meme-coin",
+      "image": "https://image-cdn.pluang.com/web/compressed/market_news-v2.webp",
+      "description": "Ethereum experienced a strong rally in Q3 2026, rising about 66%, fueled by over $10 billion in ETF inflows, $15 billion in corporate ETH purchases, and a revival in DeFi activity. Robinhood Chain, an Ethereum Layer-2 network launched in July 2026, unexpectedly saw meme coins dominate its trading volume, with its flagship token CASHCAT reaching a market cap of around $220 million. This surge in meme coin interest on Robinhood Chain highlights growing retail investor enthusiasm, contributing to Ethereum's broader momentum alongside Bitcoin's rise. The DeFi sector's total value locked hit approximately $88 billion, signaling robust activity and potential for continued growth."
     },
     {
       "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWtybkdPT3hVa0wySVZTcEEtcW1YdDgxWnFfNWR6bWxpXzhKaTc3RDR1YWFIVW1oRmhDMktkRTJCTEdFVlk2YVdKX1ZoNFcxRThQYjJSLV9jNV9tSTNtZkpGQnFCdGNCWExjTWJNdGVmaVhGX1NwT05nTC1kbnloNHp0VXRiNUYtLWVpcnFfTlBQc3F0LTBUd3VKc21qazY2dlZfdDRsTzc5bzhHREx3bEVPdHFtRUU5YlFxTlRGQkN1VVFaaFJqZ0NNNnFOOTFJOXVUSXNRa283SzFzaDREbVQwTlFYWUdP?oc=5",
       "pub_date": 1788620039.0,
@@ -46,13 +46,23 @@
     },
     {
       "headline": "Where Will Solana Be in 5 Years?",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
       "pub_date": 1788573420.0,
       "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
       "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+    },
+    {
+      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWHJROGowV3Jac05aRE04anZvNGJ4TFNwYzZMUnVoRGxERkhlRWtCckcyUThmQ2dVYldqcDdVclZya084emd1MHV1a2lsTUU5ZklYSUNtRFkzOFczZjlXUDNHTVE0RUx6cnVBMFVOaWc4bThCQmt5N3VZOA?oc=5",
+      "pub_date": 1788650812.0,
+      "article_url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
+      "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,"
     },
     {
       "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
@@ -85,16 +95,6 @@
       "description": "Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back."
     },
     {
-      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWHJROGowV3Jac05aRE04anZvNGJ4TFNwYzZMUnVoRGxERkhlRWtCckcyUThmQ2dVYldqcDdVclZya084emd1MHV1a2lsTUU5ZklYSUNtRFkzOFczZjlXUDNHTVE0RUx6cnVBMFVOaWc4bThCQmt5N3VZOA?oc=5",
-      "pub_date": 1788650812.0,
-      "article_url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
-      "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,"
-    },
-    {
       "headline": "Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T20:40:29.227193+00:00"
+  "fetched_at": "2026-09-06T22:44:17.581768+00:00"
 }
