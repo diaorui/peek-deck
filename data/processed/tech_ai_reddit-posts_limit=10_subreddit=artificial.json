@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
-      "author": "Asleep-Requirement13",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
-      "published": 1788677205.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
+      "title": "Musk Loses Bid To Block MN Law Against AI Child Porn",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/",
+      "published": 1788721671.0,
+      "thumbnail": "https://external-preview.redd.it/r1K1i9LfxCafaqhbjh0gkENA7_en7C3i9HbWXTu2rKo.jpeg?width=640&crop=smart&auto=webp&s=b703419af8aace14504f9d7f77b2b7c58bc8abc9",
+      "external_url": "https://www.joemygod.com/2026/09/musk-loses-bid-to-block-mn-law-against-ai-child-porn/?__cf_chl_tk=8ecS8MZsG5kLxKOM9bn_OhtsSwkCeqv0nsm2KhSmayw-1788721611-1.0.1.1-qjvzErCp_nbPvJvAiboEjrydGx2Tw9tgtvvhETjw5T4",
+      "site_name": "Joe.My.God.",
+      "favicon": "https://www.joemygod.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "description": "Politico reports: A federal judge Friday refused to block a Minnesota law prohibiting the creation of sexually explicit deepfake images that\u2019s being challenged by Elon Musk\u2019s artificial intelligence company, SpaceXAI. U.S. District Judge Donovan Frank said the company, formerly known as xAI, waited too long in making its last-minute request to temporarily block the law \u2026"
     },
     {
       "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
@@ -22,6 +22,17 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
+      "author": "Asleep-Requirement13",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "published": 1788677205.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
     },
     {
       "title": "Companies Have 6 Months to Prepare for Automated Attacks",
@@ -46,17 +57,6 @@
       "description": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: \u201c(a) highly autonomous systems that outperform humans at most economically valuable work.\u201d I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to \"outperform humans at most economically valuable work.\", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter \"how\" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software."
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
-      "published": 1788652217.0,
-      "thumbnail": "https://external-preview.redd.it/5QNCE5HZsX5AZHFKls36EDCyd5j8dLO1YG2td7GgwEw.jpeg?width=640&crop=smart&auto=webp&s=36fe52df8a5c7b5a016421e45d29bf2db74ac0f6",
-      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
-    },
-    {
       "title": "Testing a new workflow for rapid environmental VFX",
       "author": "Chuka444",
       "url": "https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Original drone footage [bottom] alongside four alternative environmental takes; fire, rain, snow, and floral. All created inside Uisato Studio, and accessible to everyone. More experiments, project files, and tutorials, through YouTube, Instagram, and Patreon."
+    },
+    {
+      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
+      "published": 1788652217.0,
+      "thumbnail": "https://external-preview.redd.it/5QNCE5HZsX5AZHFKls36EDCyd5j8dLO1YG2td7GgwEw.jpeg?width=640&crop=smart&auto=webp&s=36fe52df8a5c7b5a016421e45d29bf2db74ac0f6",
+      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html",
+      "site_name": "The Independent",
+      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
     },
     {
       "title": "Can AI design circuit boards yet?",
@@ -99,18 +110,7 @@
       "site_name": "wsj.com",
       "favicon": null,
       "description": "Nvidia and CrowdStrike are addressing what they see as one of cybersecurity\u2019s biggest gaps: the need for cyber defenders to harness AI at the velocity of cyber attackers."
-    },
-    {
-      "title": "Built a Chrome sidebar that summarizes any page so I stop drowning in tabs",
-      "author": "hich7",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8wu0c/built_a_chrome_sidebar_that_summarizes_any_page/",
-      "published": 1788702851.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, I had one of those Saturday mornings where I had 25 tabs open, read 3 articles properly, and spent the rest of the time either skimming things too fast or copy-pasting them into ChatGPT to get the gist So I built a tool in Chrome's sidebar that opens on any page and gives you a proper digest of what you just read. Works on news articles, Reddit threads, product reviews, research pieces. It detects the content type and structures the summary around that. After the summary questions can be asked directly in the sidebar. Still on the same page, no tab switching needed. API costs are a real thing so running on free keys for now, which means there might be occasional delays depending on traffic. Added an option to plug in a personal Gemini API key, Google and ChatGPT gives them out for free and it takes 30 seconds to set up. Nothing is stored. If you want to mess with it, here is the link! Raw feedback welcome"
     }
   ],
-  "fetched_at": "2026-09-06T18:03:55.391952+00:00"
+  "fetched_at": "2026-09-06T20:40:12.550884+00:00"
 }
