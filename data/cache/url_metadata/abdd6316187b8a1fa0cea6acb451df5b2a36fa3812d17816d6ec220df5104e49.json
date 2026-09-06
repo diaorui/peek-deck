@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-06T06:11:48.709038+00:00",
+  "data": {
+    "url": "https://fius.dev",
+    "title": "Fius - AI Coding Assistant | CLI & Web Platform",
+    "description": "AI-powered CLI and Web platform for coding, reasoning, and real-time collaboration. Build and Plan modes, MCP tools, multi-model support.",
+    "image": null,
+    "favicon": "https://fius.dev/dist/favicon.png?v=6",
+    "site_name": "Fius",
+    "author": "FiusDEV",
+    "keywords": "AI coding assistant, CLI tool, code generation, AI agent, Fius, Build mode, Plan mode, MCP tools"
+  }
+}

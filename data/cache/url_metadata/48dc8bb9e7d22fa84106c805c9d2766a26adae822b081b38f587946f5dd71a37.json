@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-28T07:13:43.392335+00:00",
+  "data": {
+    "url": "https://www.infoq.com/news/2026/07/efficient-ai-infrastructure/",
+    "title": "Uber\u2019s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost",
+    "description": "Uber's \"Zero Growth Stack\" focuses on scalable infrastructure that separates capacity growth from business demand, reducing hardware needs while enhancing service scaling. Central to this is garbage collection optimisation. Additionally, generative AI is integrated into development, elevating developer productivity while introducing cost management measures to maintain economic efficiency.",
+    "image": "https://res.infoq.com/news/2026/07/efficient-ai-infrastructure/en/card_header_image/generatedCard-1785217232511.jpg",
+    "favicon": "https://cdn.infoq.com/statics_s2_20260714062727/apple-touch-icon.png",
+    "site_name": "InfoQ",
+    "author": null,
+    "keywords": "efficient ai infrastructure,Architecture & Design,DevOps,AI Cost Optimisation,Infrastructure Optimisation,Infrastructure,"
+  }
+}

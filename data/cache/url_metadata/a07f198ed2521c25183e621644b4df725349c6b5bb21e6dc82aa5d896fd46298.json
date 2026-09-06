@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-12T11:21:56.560570+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer",
+    "title": "Intel LLM-Scaler Ready With Muse Glimmer Support, Other LLMs & Features",
+    "description": "Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack",
+    "image": "https://www.phoronix.net/image.php?id=intel-arc-pro-b70-linux&image=intel_arc_pro_b70_3",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}

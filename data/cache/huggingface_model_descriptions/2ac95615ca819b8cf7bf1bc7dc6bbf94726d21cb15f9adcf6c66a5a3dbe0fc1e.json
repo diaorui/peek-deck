@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-19T16:31:20.801353+00:00",
+  "data": "An uncensored, MLX-quantized 27B parameter vision-language model optimized for Apple Silicon, supporting 2-8 bit precisions. It performs image-text-to-text tasks and is intended for AI safety research and red-teaming due to its removed safety alignment.",
+  "model_id": "orcarouter/Qwen3.8-27B-Uncensored-MLX"
+}

@@ -1,0 +1,380 @@
+---
+title: Bitcoin Dashboard
+description: Live Bitcoin monitoring dashboard
+category: crypto
+page_id: bitcoin
+updated: '2026-08-24T23:47:05.163402+00:00'
+url: https://peekdeck.ruidiao.dev/bitcoin.html
+markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
+widgets: 8
+data_types:
+- videos
+- social
+- news
+- cryptocurrency
+---
+
+# Bitcoin Dashboard
+
+Live Bitcoin monitoring dashboard
+
+**Last Updated:** August 24, 2026 at 23:47 UTC  
+**HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
+
+---
+
+## Table of Contents
+
+1. [Bitcoin Price](#bitcoin-price)
+2. [Bitcoin Chart](#bitcoin-chart)
+3. [Bitcoin Market Stats](#bitcoin-market-stats)
+4. [Fear & Greed Index](#fear--greed-index)
+5. [Reddit: r/Bitcoin](#reddit-rbitcoin)
+6. [Google News: "bitcoin"](#google-news-bitcoin)
+7. [HackerNews: "bitcoin"](#hackernews-bitcoin)
+8. [YouTube Videos: "bitcoin"](#youtube-videos-bitcoin)
+
+---
+
+## Bitcoin Price
+
+### $78,725.56
+
+---
+
+## Bitcoin Chart
+
+**24h:** +1.4%  
+**7d:** +21.8%  
+**30d:** +20.6%  
+**90d:** +5.9%  
+**1y:** -28.6%  
+
+---
+
+## Bitcoin Market Stats
+
+**Market Cap:** $1584.45B
+Rank #1
+
+**Circulating Supply:** 20,074,725 BTC
+95.6% of max
+
+**All-Time High:** $126,080.00
+-37.4%
+
+**All-Time Low:** $67.81
++116300.2%
+
+---
+
+## Fear & Greed Index
+
+### 73
+**GREED**
+
+---
+
+## Reddit: r/Bitcoin
+
+**[I'm making a game where you try to find James Howells lost Bitcoin hard drive in a landfill.](https://www.reddit.com/r/Bitcoin/comments/1vxfgt1/im_making_a_game_where_you_try_to_find_james/)**
+
+2h ago
+
+---
+
+**[Me on the toilet at work making $12 an hour watching btc gain 20% in a week](https://www.reddit.com/r/Bitcoin/comments/1vxacdg/me_on_the_toilet_at_work_making_12_an_hour/)**
+
+5h ago
+
+---
+
+**[Me this week](https://www.reddit.com/r/Bitcoin/comments/1vx15sz/me_this_week/)**
+
+11h ago
+
+---
+
+**[💀](https://www.reddit.com/r/Bitcoin/comments/1vwzegg/_/)**
+
+12h ago
+
+---
+
+**[Ts is why bitcoin exists](https://www.reddit.com/r/Bitcoin/comments/1vx1l6d/ts_is_why_bitcoin_exists/)**
+
+11h ago
+
+---
+
+**[Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1vx2nam/bitcoin_right_now/)**
+
+Then it drops back down to 62k by next week
+
+10h ago
+
+---
+
+**[German petition against abolishing the one-year tax-free holding period for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1vx238r/german_petition_against_abolishing_the_oneyear/)**
+
+Amount of signatures for the petition against abolishing the one-year tax-free holding period for Bitcoin. The deutsche Bundestag wants to abolish the one-year tax-free holding period for Bitcoin. We have reached the required amount of 30.000 signers, but it would be great to have more signatures so they definitely won't abolish it. Sign and share it! Here is the link to the official german Bitcoin petition: https://epetitionen.bundestag.de/content/petitionen/_2026/_05/_30/Petition_201716.html
+
+10h ago
+
+---
+
+**[Coinbase really wants your coin](https://www.reddit.com/r/Bitcoin/comments/1vx5m9b/coinbase_really_wants_your_coin/)**
+
+I wonder why that is so?
+
+8h ago
+
+---
+
+**[Well…so long and thanks for all the fish.](https://www.reddit.com/r/Bitcoin/comments/1vx8j6c/wellso_long_and_thanks_for_all_the_fish/)**
+
+Hit the sell order and I’m out. Bought a handful around 16.5 and rode it up. I still think it’s a good bet but I’m retired and the volatility just got too crazy. I used to think marketplace access was a great thing (and probably still is) but it made it too easy for the buy/sell guys and it just no longer fits the portfolio. I kept one just for good measure. Good luck longs. You are gonna win.
+
+6h ago
+
+---
+
+**[What's your message to people who are still waiting for 40k entry?](https://www.reddit.com/r/Bitcoin/comments/1vx6dvd/whats_your_message_to_people_who_are_still/)**
+
+I'm just wondering for everyone who's now on their way to the moon, what's exactly your message to our beloved people stuck on earth? Try to keep it friendly guys as they're already in pain, no need to rub it even more. I would honestly ask the 40k crowd a question instead. At what price or scenario are you going to accept this is indeed a bull market now? By that time, will it be too late for your personal entry?
+
+8h ago
+
+---
+
+---
+
+## Google News: "bitcoin"
+
+**[Crypto extends gains after biggest 3-day rally since 2023](https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html)**
+
+Bitcoin and crypto stocks extended their rally after the flagship cryptocurrency broke out of its trading range.
+
+CNBC • 9h ago
+
+---
+
+**[Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners](https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51)**
+
+Barron's • 2h ago
+
+---
+
+**[Bitcoin Books Best Week Since 2023 and Its Largest Dollar Gain Ever](https://finance.yahoo.com/markets/crypto/articles/bitcoin-books-best-week-since-220919390.html)**
+
+Bitcoin booked its best week since 2023 and a record dollar gain. See the levels that decide the next move.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Stock Market Today: Nasdaq, S&P 500 Close Lower to Begin Week as Chip Stocks Sink; Bitcoin Nears $80,000](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08242026-12066087)**
+
+The S&P 500 and Nasdaq Composite finished lower Monday as semiconductor stocks dropped, while the Dow Jones Industrial Average advanced. Meanwhile, crude prices fell as investors took in stride new U.S. sanctions on Iran.
+
+Investopedia • 4h ago
+
+---
+
+**[Bitcoin is great (for systemic theft of aid money)](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)**
+
+Finally, a killer use case
+
+Financial Times • 15h ago
+
+---
+
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged](https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool)**
+
+CoinDesk • 11h ago
+
+---
+
+**[Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin](https://finance.yahoo.com/markets/crypto/articles/strategy-sets-used-buy-bitcoin-123143159.html)**
+
+Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?](https://www.euronews.com/my-europe/2026/08/24/as-bitcoin-soars-people-ask-who-is-giancarlo-devasini-italys-richest-man)**
+
+Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight. #EuropeNews
+
+Euronews.com • 9h ago
+
+---
+
+**[Bitcoin Surges as Institutional Demand, Short Covering, Clarity Act Progress Converge](https://www.wsj.com/finance/currencies/bitcoin-surges-as-institutional-demand-short-covering-clarity-act-progress-converge-a6451d1a)**
+
+WSJ • 3d ago
+
+---
+
+---
+
+## HackerNews: "bitcoin"
+
+**[Bitcoin is great (for systemic theft of aid money)](https://news.ycombinator.com/item?id=49421102)**
+
+Finally, a killer use case
+
+⬆️ 4 • 💬 0 • 8h ago • [ft.com](https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb)
+
+---
+
+**[Bitcoin's short squeeze traced to a Treasury bond buyback decision](https://news.ycombinator.com/item?id=49385139)**
+
+⬆️ 2 • 💬 1 • 3d ago • [davidebtc186.substack.com](https://davidebtc186.substack.com/p/bitcoin-just-had-its-biggest-squeeze)
+
+---
+
+**[Satd (Full Bitcoin Node in Rust): Guided Code Tour](https://news.ycombinator.com/item?id=49380553)**
+
+A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.
+
+⬆️ 2 • 💬 0 • 4d ago • [epochbtc.github.io](https://epochbtc.github.io/satd/tour.html)
+
+---
+
+**[DEF Con 19: Skunkworks: Daniel Beckwitt on Bitcoin in 2019 [video]](https://news.ycombinator.com/item?id=49406156)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 1 • 💬 1 • 1d ago • [youtube.com](https://www.youtube.com/watch?v=Yj2blBX2iBw)
+
+---
+
+**[Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words](https://news.ycombinator.com/item?id=49370845)**
+
+Satoshi wrote a newspaper headline into block 0. Write yours: mine a toy genesis block in your browser, or have a real one struck on ASIC silicon.
+
+⬆️ 1 • 💬 0 • 4d ago • [Strike a Block](https://strikeablock.com/)
+
+---
+
+**[Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime](https://news.ycombinator.com/item?id=49425400)**
+
+Transpose Spotify audio and isolate vocals/instruments in realtime - evanhu1/transposify
+
+⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/evanhu1/transposify)
+
+---
+
+---
+
+## YouTube Videos: "bitcoin"
+
+**[Michael Saylor sold the bottom. Bitcoin rallied anyway.](https://www.youtube.com/watch?v=7VQdhR6emro)**
+
+Strategy sold $2 billion of stock last week and bought no Bitcoin with it. Its holdings sat unchanged at 840447 BTC while Bitcoin ...
+
+📺 Yahoo Finance
+
+👁️ 7K • 👍 296 • 💬 158 • ⏱️ 14:52 • 6h ago
+
+---
+
+**[Bitcoin Price Volatility Just Broke Out of Historic Low](https://www.youtube.com/watch?v=IxOn3b9vnQo)**
+
+Natalie Brunell dives into a striking report from Fidelity Digital Assets revealing that Bitcoin's rolling 1-month realized volatility had ...
+
+📺 Natalie Brunell
+
+👁️ 2K • 👍 67 • 💬 122 • ⏱️ 0:53 • 4h ago
+
+---
+
+**[BITCOIN: Buy The Breakout OR Wait For A Pullback? [My Plan]](https://www.youtube.com/watch?v=zKAbSwOuJVs)**
+
+Bitcoin is breaking out and traders are split: buy right now or wait for a better entry? In today's live session, Kyle Doops maps out ...
+
+📺 Crypto Banter
+
+👁️ 17K • 👍 1K • 💬 21 • ⏱️ 37:21 • 15h ago
+
+---
+
+**[Crypto PUMPING HARD! Altcoins Just Broke Out And This Is The Business Cycle Doing It (WHAT NEXT)](https://www.youtube.com/watch?v=iO2QATEaXDE)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Altcoins are ...
+
+📺 Crypto Capital Venture
+
+👁️ 16K • 👍 980 • 💬 264 • ⏱️ 1:18:20 • 2d ago
+
+---
+
+**[The Godfather Of Crypto Trading: My Final Warning To Bitcoin Holders](https://www.youtube.com/watch?v=8uSTbMRWtUw)**
+
+Arthur Hayes Interview 2026: Instagram - https://www.instagram.com/cryptohayes/ LinkedIn ...
+
+📺 Altcoin Daily
+
+👁️ 62K • 👍 3K • 💬 216 • ⏱️ 43:03 • 1d ago
+
+---
+
+**[Why Bitcoin Is Ripping Again](https://www.youtube.com/watch?v=47Qdz4-f97A)**
+
+📺 THE JACK MALLERS SHOW
+
+👁️ 2K • 👍 235 • 5h ago
+
+---
+
+**[Crypto Is About To Get VERY Interesting (Final Warning)](https://www.youtube.com/watch?v=8H-zD5OkTcM)**
+
+Crypto Is About To Get VERY Interesting (Final Warning) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 82K • 👍 3K • 💬 195 • ⏱️ 11:10 • 2d ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS COOLDOWN AS JIM CRAMER TURNS BULLISH! REVERSAL SOON? TRUMP TO LAUNCH NEW COIN?](https://www.youtube.com/watch?v=p1vhAD0Iamk)**
+
+Crypto News: Bitcoin pulls back due to overbought conditions and Jim Cramer turns bullish. Rumors swirl about President Trump ...
+
+📺 Thinking Crypto
+
+👁️ 10K • 👍 561 • 💬 184 • ⏱️ 21:25 • 1d ago
+
+---
+
+**[Bitcoin is beating up the dollar](https://www.youtube.com/watch?v=xN6gavcmlKg)**
+
+When the kids' table starts telling the adults what to do, you know trouble is brewing. Bitcoin is capitalizing on the biggest one-day ...
+
+📺 Nicholas Crown
+
+👁️ 7K • 👍 345 • 💬 13 • ⏱️ 1:15 • 2d ago
+
+---
+
+**[MAJOR Market Bottom For Crypto IS IN.](https://www.youtube.com/watch?v=Yaheg5RlK7c)**
+
+Trade Bitcoin at my partnered exchanges here: Mass.Money: ...
+
+📺 Credible Crypto
+
+👁️ 24K • 👍 1K • 💬 124 • ⏱️ 1:11:06 • 2d ago
+
+---
+
+---
+
+*Generated by PeekDeck - A glance is all you need*

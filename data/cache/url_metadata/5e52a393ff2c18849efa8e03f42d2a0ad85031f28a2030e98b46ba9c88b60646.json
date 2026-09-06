@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-17T22:24:25.828225+00:00",
+  "data": {
+    "url": "https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "image": "https://s.yimg.com/lo/mysterio/api/B7C650C6D97CF3C4DA66A39E20A6A3A920DB8432DEE3F1D2413BCD66702D11EA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F4b0ae7bfc0df5140995d211de7c74556.jpg",
+    "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+    "site_name": "Yahoo Finance",
+    "author": null,
+    "keywords": "Amazon, rare books, AI training, tracking device, 404 Media"
+  }
+}

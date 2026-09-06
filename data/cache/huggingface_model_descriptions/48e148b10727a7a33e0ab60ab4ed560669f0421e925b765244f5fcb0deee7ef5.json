@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-07T00:24:13.591326+00:00",
+  "data": "This LoRA for MiniMax-H3 enables 4-step text-to-video generation with synchronized stereo audio, offering a 5x speedup over standard sampling. It is optimized for ComfyUI, producing sharp results with known artifacts like plastic skin and over-sharpened grain, making it a preview of advanced capabilities.",
+  "model_id": "larryvrh/MiniMax-H3-Turbo-Lora"
+}

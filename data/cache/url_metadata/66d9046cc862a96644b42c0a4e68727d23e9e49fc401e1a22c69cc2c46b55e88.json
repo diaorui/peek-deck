@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-05T15:37:49.339905+00:00",
+  "data": {
+    "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    "description": "NullReceiver lets two North Korea-linked npm packages decode a C2 IP from blank Ethereum transfers without smart contracts or transaction calldata.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1700-e365/npm-c2.jpg",
+    "favicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQQyjwPYjJP0wddSEB8Dlpr3dlnQUs52-WmlrZfqJoBPeOvv2Zoqlq-FhEAz_Xeprj_mtrI1MGCW1JS840JUjVEK6VoNe6zCNNTw_7YmyvNmf3E5pprZ3zqP8lszq74Wt97SvbJo5yeuyep0U6-nGs0vdarg4_WUrc5r6L0ML0xE-BsPipJd2-1PMHTvO1/s76-e365/thn.jpg",
+    "site_name": "The Hacker News",
+    "author": "The Hacker News",
+    "keywords": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-07T16:54:49.813440+00:00",
+  "data": {
+    "url": "https://x.com/i/status/2085755643659522240",
+    "title": "BTCPay Server (@BtcpayServer) on X",
+    "description": "There is a critical vulnerability being actively exploited on BTCPay Server, which can result in the loss of funds.\n\nPlease update your BTCPayServer to 2.4.2 by going to Admin Dashboard -&gt; Server -&gt; Maintenance -&gt; Update &amp; verify the 2.4.2 version string in the footer.\n\nIf you",
+    "image": "https://pbs.twimg.com/profile_images/1119931210048970752/7AD_1he__400x400.png",
+    "favicon": "https://x.com/apple-touch-icon.png",
+    "site_name": "X (formerly Twitter)",
+    "author": null,
+    "keywords": null
+  }
+}

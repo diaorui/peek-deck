@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-29T12:00:55.642860+00:00",
+  "data": {
+    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "description": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four \u201cpublicly available services\u201d in its unhinged quest to solve a test.",
+    "image": "https://media.wired.com/photos/6a6929c87648cc825532f98e/191:100/w_1280,c_limit/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg",
+    "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+    "site_name": "WIRED",
+    "author": "Dell Cameron",
+    "keywords": "openai,agentic ai,artificial intelligence,cyberattacks,cybersecurity,generative ai"
+  }
+}

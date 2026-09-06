@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-01T15:37:23.434041+00:00",
+  "data": "Inkling-Small is a 276B parameter multimodal transformer (image, text, audio to text) with a sparse MoE architecture, suitable for conversational AI, coding assistants, and RAG systems.",
+  "model_id": "thinkingmachines/Inkling-Small"
+}

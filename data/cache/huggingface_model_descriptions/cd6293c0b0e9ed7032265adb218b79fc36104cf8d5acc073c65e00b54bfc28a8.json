@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-03T04:06:26.075071+00:00",
+  "data": "MiniMax H3 is an omni-modal generative system capable of producing up to 15-second videos with synchronized stereo audio at resolutions up to 2K. It supports diverse inputs including text, images, and video, enabling complex multimodal instruction following for video generation tasks.",
+  "model_id": "MiniMaxAI/MiniMax-H3"
+}

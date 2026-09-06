@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-10T14:58:26.688795+00:00",
+  "data": "Muse-Glimmer-30B is a 30B parameter multimodal LLM designed for local, agentic task completion. It excels at multi-step reasoning, reliable tool use, and failure recovery, processing interleaved text and image inputs for tasks like code generation and QA without cloud dependency.",
+  "model_id": "meta-models/Muse-Glimmer-30B"
+}

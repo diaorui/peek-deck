@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-07T17:50:02.521626+00:00",
+  "data": {
+    "url": "https://developer.nvidia.com/blog/beyond-vlas-how-world-action-models-reshape-robot-manipulation/",
+    "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation | NVIDIA Technical Blog",
+    "description": "A central challenge in robotics is building policies that generalize beyond the demonstrations they\u2019re trained on. A policy that succeeds in a training scene often fails when object shapes, positions\u2026",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/07/Cosmos-World-Models-Robot.gif",
+    "favicon": "https://developer-blogs.nvidia.com/wp-content/themes/nvidia/dist/images/favicon_300a1064.ico",
+    "site_name": "NVIDIA Technical Blog",
+    "author": null,
+    "keywords": null
+  }
+}

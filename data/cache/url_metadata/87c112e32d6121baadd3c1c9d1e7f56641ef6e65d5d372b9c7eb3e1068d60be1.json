@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-08T11:56:26.731445+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "title": "BTC news: Bitcoin\u2019s exploit week worsens as BTCPay flaw drains Lightning nodes",
+    "description": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

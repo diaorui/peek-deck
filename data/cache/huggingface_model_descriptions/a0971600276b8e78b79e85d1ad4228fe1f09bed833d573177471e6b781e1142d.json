@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-05T11:21:15.498555+00:00",
+  "data": "LFM2.5-2.6B is a 2.6B parameter text generation model optimized for on-device deployment and agentic workloads, featuring a 128K context window and efficient inference (220 tok/s on M5 Max). It excels at tool use and instruction following, making it ideal for RAG and long-context tasks.",
+  "model_id": "LiquidAI/LFM2.5-2.6B"
+}

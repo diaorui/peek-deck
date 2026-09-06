@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-10T08:26:37.284382+00:00",
+  "data": {
+    "url": "https://www.infoq.com/news/2026/08/github-code-quality/",
+    "title": "GitHub Code Quality Targets Maintainability as AI-Generated Code Increases",
+    "description": "GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. The service combines CodeQL analysis with AI-assisted detection of maintainability and reliability problems, then uses Copilot Autofix to suggest changes for review in pull requests, according to an announcement from GitHub.",
+    "image": "https://res.infoq.com/news/2026/08/github-code-quality/en/headerimage/generatedHeaderImage-1786036140230.jpg",
+    "favicon": "https://cdn.infoq.com/statics_s1_20260809222950/apple-touch-icon.png",
+    "site_name": "InfoQ",
+    "author": null,
+    "keywords": "github code quality,DevOps,AI Assisted Coding,github,Code Quality,"
+  }
+}

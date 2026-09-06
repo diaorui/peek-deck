@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-07-26T16:01:13.756950+00:00",
+  "data": "Laguna-S-2.1-GGUF is a 118B parameter Mixture-of-Experts LLM optimized for agentic coding and long-horizon tasks, featuring a 1M token context window and native reasoning support. It excels in code generation and complex problem-solving, leveraging techniques like grouped-query attention and interleaved SWA/global attention.",
+  "model_id": "unsloth/Laguna-S-2.1-GGUF"
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-09T14:06:32.645815+00:00",
+  "data": {
+    "url": "https://www.tradingview.com/news/cointelegraph:a3621af53094b:0-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens/",
+    "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+    "description": "Bitcoin\u2019s BIP-110-enforcing branch stalled at block 961,633 on Sunday after producing only two blocks, while the non-enforcing chain advanced to 961,721, widening the gap to 88 blocks.According to the BIP-110 monitor, updated at 10:19 am UTC, the branch\u2019s latest block had been mined about 12 hours\u2026",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "favicon": "https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png",
+    "site_name": "TradingView",
+    "author": null,
+    "keywords": null
+  }
+}

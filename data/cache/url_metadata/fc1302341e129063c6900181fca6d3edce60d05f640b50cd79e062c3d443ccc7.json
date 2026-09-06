@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-12T08:47:13.177531+00:00",
+  "data": {
+    "url": "https://quesma.com/blog/tbench-orchestrator-refuses/",
+    "title": "I wired 4 models together in Claude Code. It backfired 4 ways on Terminal-Bench - Quesma Blog",
+    "description": "Common wisdom says to put a strong model like Fable in charge and let cheaper models do the work. I tested it and the result was not what I expected: seventh place at twice the cost of the top single-model run.",
+    "image": "https://quesma.com/_astro/leaderboard.BE3ycl3r.png",
+    "favicon": "https://quesma.com/apple-touch-icon.png",
+    "site_name": "Quesma",
+    "author": "Bartosz Kotrys",
+    "keywords": "orchestration, model orchestration, llm orchestration, terminal-bench, claude code, ai agents, ai agent costs, tokenomics, token economy, benchmarks, claude"
+  }
+}

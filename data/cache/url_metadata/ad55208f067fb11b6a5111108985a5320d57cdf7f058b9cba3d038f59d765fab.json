@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-11T04:19:39.864513+00:00",
+  "data": {
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "title": "Learning more about Claude's mathematical capabilities",
+    "description": "An unreleased version of Claude has made strides on a problem related to the Riemann hypothesis. It improved the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis, increasing it from 41.6% to 67.2%.",
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/ca772f1b34e5b58e38694538f017d63f5dd196d9-1200x630.jpg",
+    "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

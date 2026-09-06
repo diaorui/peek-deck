@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-19T18:35:23.770781+00:00",
+  "data": "This is an uncensored GGUF quantization of Qwen3.8-27B, optimized for reduced refusal behavior and retaining the multi-token prediction (MTP) head for enhanced generation efficiency. It supports text generation with multilingual capabilities (English, Chinese) and is compatible with llama.cpp, offering various quantization levels for different performance/resource trade-offs.",
+  "model_id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF"
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-01T14:25:59.081004+00:00",
+  "data": {
+    "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+    "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+    "description": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?auto=format&q=75",
+    "favicon": "https://www.coindesk.com/favicons/production/apple-touch-icon-60x60.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

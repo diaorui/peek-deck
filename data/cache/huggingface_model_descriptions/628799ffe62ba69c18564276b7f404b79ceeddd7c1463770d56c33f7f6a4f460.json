@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-07-27T16:20:20.540482+00:00",
+  "data": "Kimi K3 is a 2.8T parameter multimodal agentic model with native vision and a 1M token context window, excelling in long-horizon coding and complex knowledge work. It utilizes Kimi Delta Attention (KDA) and Attention Residuals (AttnRes) for enhanced efficiency and performance.",
+  "model_id": "moonshotai/Kimi-K3"
+}
