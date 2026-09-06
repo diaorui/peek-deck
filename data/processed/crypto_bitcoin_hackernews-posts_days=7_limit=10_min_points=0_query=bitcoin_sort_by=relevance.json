@@ -19,6 +19,34 @@
       "site_name": "American Buildout"
     },
     {
+      "title": "Bitcoin mining data center condemned after leaking 3M gallons of water",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
+      "hn_url": "https://news.ycombinator.com/item?id=49588413",
+      "author": "rbanffy",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-09-06T16:56:51Z",
+      "object_id": "49588413",
+      "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg",
+      "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
+      "site_name": "Tom's Hardware"
+    },
+    {
+      "title": "The Liquid Network (Bitcoin sidechain) is stuck at block 4050335",
+      "url": "https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b",
+      "hn_url": "https://news.ycombinator.com/item?id=49587562",
+      "author": "tyfmnfn2gis",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-09-06T15:37:54Z",
+      "object_id": "49587562",
+      "image": "https://liquid.network/resources/liquid/liquid-network-preview.png",
+      "description": "Explore the full Bitcoin ecosystem with The Mempool Open Source Project\u00ae. See Liquid transactions & assets, get network info, and more.",
+      "favicon": "https://liquid.network/resources/liquid/favicons/apple-touch-icon.png",
+      "site_name": "liquid.network"
+    },
+    {
       "title": "Bitcoinica",
       "url": "https://en.bitcoin.it/wiki/Bitcoinica",
       "hn_url": "https://news.ycombinator.com/item?id=49558143",
@@ -89,7 +117,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 6,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-09-06T15:38:40.725498+00:00"
+  "fetched_at": "2026-09-06T18:03:53.969537+00:00"
 }
