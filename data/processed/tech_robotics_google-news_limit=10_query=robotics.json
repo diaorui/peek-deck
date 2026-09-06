@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Here\u2019s why the future of bricklaying might just be robots",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRMSVVlWnRhUW8zUnBZazlWSWV3XzREclZEYmhHZ2tIRGg2cTlrVkp6REVncy1fajlhLWFlQ2F1alNtcDdBcnlyMTdmLUlUQjIxWC02c2MwV1hDeTRUcmVjRTZXandKVy1kd0pTdkQ0QU42M2dnMHlEVmJiRVJVdVItS2VVRjluNjZvd2xudVBja2cwNVhoLVBfT2psLU45X2tpdzhB?oc=5",
+      "pub_date": 1788559920.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
+      "description": "Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days."
+    },
+    {
       "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
       "source": "ABC7 Chicago",
       "source_url": "https://abc7chicago.com",
@@ -25,21 +35,21 @@
       "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
-      "headline": "The 5 Best Humanoid Robots Of IFA 2026",
-      "source": "bgr.com",
-      "source_url": "https://www.bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOEFfcWdHV0d6czlSMjVFVkk4QTFPVlBFcjRPS2JJM0ROQXloTDNpTmhaUlFNV2J0V3NFZUd4dHRHYkVhUVhNOUFELTk4SllnNVVHUzJZRDVXRGhTcG5wUFBqMTNpSm9kLVE?oc=5",
-      "pub_date": 1788642504.0,
-      "article_url": "https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/",
-      "image": "https://www.bgr.com/img/gallery/the-5-best-humanoid-robots-of-ifa-2026/l-intro-1788641999.jpg",
-      "description": "Humanoid robots were the order of the day at IFA 2026, and BGR's own Jos\u00e9 Adorno was on hand to take a look at several of them up close and personal."
+      "headline": "Humanoid robots could upend life as we know it \u2014 if only they had better brains",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2xqWmxtZV9NWUFpX3RHVmFfcERlVUpsNzBDMW8zRS12WVBDMHF3a2dScWp2SklzTGE2dHdBUVUwMkZDNEMwSzZScG1UMHNYUGI3TTJ6VTU3VGJqQ3hKNG1HVmxNV1RFOXNQWjdhZ1NxdVJ2LTF3ODhCdlFQekVFQTIzYUlQZGNjcy0zR1BLU0l3cE1wVnNQWmtoRTZTQl9pRERzbHJ5Y0VGWC1udk16NFFHWVd0NTJ0TUFQdA?oc=5",
+      "pub_date": 1788609600.0,
+      "article_url": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Nothing Makes Humans Happier Right Now Than Watching Robots Fail",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iVlMzd0Y1M3E5M0hOODJfN050clozR2NmaE5oUFBvaVJZbzVzT3RUeHlrLVR3SWw0WktLdkdsT3M3eUgzbDNaRlJKSGtaYjZuQ2pDbWNlaFh0S29IUEpVYzZHZDVWM2ZQeElkZ2tEMm5vLTBUaE54T081eUhZMU0?oc=5",
-      "pub_date": 1788427800.0,
+      "pub_date": 1788505200.0,
       "article_url": "https://www.wsj.com/lifestyle/robots-failing-world-humanoid-games-c974facd",
       "image": null,
       "description": null
@@ -66,23 +76,13 @@
     },
     {
       "headline": "TechCrunch Disrupt 2026\u2019s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQlRjb0IzM1VvYjJjMWxBZU9kaU9Da0FURm1pblJHeDROVHlMSTNfQ1NxTkpTVjNQaTNRMDlLaXRDWHJGYW9pY3l1cERtdl9FT3I3M2tydmdKd2Q2a0xhUGpudHI3QjVBWWZnbnJPM2ZHTmpmMlgzV2hUcUNVQXZhZEJId0kzZXBoMXJrSEVramNLTGVJYzNVcW5JR0d0a0hOQW9xU0RMbUhCMlNGM2xjbjZqNm1TOWRyN1FWZDJ6WVJuRkw2?oc=5",
       "pub_date": 1788387849.0,
       "article_url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
       "description": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
-    },
-    {
-      "headline": "Humans, robots at work inside Amazon's new Loveland fulfillment center",
-      "source": "The Coloradoan",
-      "source_url": "https://www.coloradoan.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenFKWkNLY2k3RzJLRXJ4U0FnVmdBbDdZYzV5bm9xa1hoRnhhMnlZR3hTMXNyMHczanMwbHhUWmNONkRNRnpTbnVrVjJ5ZzZxSnNHeVJjV0tpenBxU08za3g0TllpaHFQUmY5MHdEVTJfRlFtZmI5RkRJUEpySEtpYWFhMGFxVF9HT29Qd1d1UWM4eVZOcENPSFZMdUw0dGZrWG95ZGZNeFJGcVF3Nnp4MkRyOWFtWGl2NDhQTWptVlp1Uk96RXcweHczcktiTkxNS0xmV0RIbHljQkE5dldXYTFFUlc?oc=5",
-      "pub_date": 1788559800.0,
-      "article_url": "https://www.coloradoan.com/picture-gallery/money/business/2026/09/04/humans-robots-at-work-inside-amazons-new-loveland-fulfillment-center/91616845007/",
-      "image": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2026/09/04/PFTC/91616499007-amazon-7.jpg?crop=3023,1701,x0,y1165&width=3023&height=1701&format=pjpg&auto=webp",
-      "description": "See inside Amazon's new robotics fulfillment center, which quietly opened in Loveland in July 2026."
     },
     {
       "headline": "Tech industry\u2019s robotics talent crunch has UW\u2019s new grad program nearly full before day one",
@@ -95,16 +95,16 @@
       "description": "The University of Washington is launching a Master of Science in Robotics and a professional certificate this fall. More than 30 people signed up for an information session before applications even opened, a sign of how fast demand for engineers trained across AI, software and hardware is growing."
     },
     {
-      "headline": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmF6eFozRjRDbmRQOWJ4ajhtMXhGNkpuNFZSZEtvd2drX2tReVB3YUxrUkZVdWwxWl8yTlhMY0g1VVFLY2NrWm0zSTdsTFZQS3dNdmVsYmJhQmNjS1dROTVyMWM2UDRpb0Y5aFFKdGR3VUh0WkdYaW9XY1NNcVRNWkln?oc=5",
-      "pub_date": 1788612139.0,
-      "article_url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Gen2CollaborativeRobot_ecential.jpg",
-      "description": "Enovis said it plans to bring a robotic system targeting the knee within the next 2 years, followed by a system focusing on the shoulder."
+      "headline": "Humans, robots at work inside Amazon's new Loveland fulfillment center",
+      "source": "The Coloradoan",
+      "source_url": "https://www.coloradoan.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenFKWkNLY2k3RzJLRXJ4U0FnVmdBbDdZYzV5bm9xa1hoRnhhMnlZR3hTMXNyMHczanMwbHhUWmNONkRNRnpTbnVrVjJ5ZzZxSnNHeVJjV0tpenBxU08za3g0TllpaHFQUmY5MHdEVTJfRlFtZmI5RkRJUEpySEtpYWFhMGFxVF9HT29Qd1d1UWM4eVZOcENPSFZMdUw0dGZrWG95ZGZNeFJGcVF3Nnp4MkRyOWFtWGl2NDhQTWptVlp1Uk96RXcweHczcktiTkxNS0xmV0RIbHljQkE5dldXYTFFUlc?oc=5",
+      "pub_date": 1788559800.0,
+      "article_url": "https://www.coloradoan.com/picture-gallery/money/business/2026/09/04/humans-robots-at-work-inside-amazons-new-loveland-fulfillment-center/91616845007/",
+      "image": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2026/09/04/PFTC/91616499007-amazon-7.jpg?crop=3023,1701,x0,y1165&width=3023&height=1701&format=pjpg&auto=webp",
+      "description": "See inside Amazon's new robotics fulfillment center, which quietly opened in Loveland in July 2026."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T03:18:21.147000+00:00"
+  "fetched_at": "2026-09-06T08:03:34.583892+00:00"
 }

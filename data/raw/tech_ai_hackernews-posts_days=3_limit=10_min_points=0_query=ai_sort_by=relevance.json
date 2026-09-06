@@ -5,11 +5,25 @@
   "days": 3,
   "posts": [
     {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569366",
+      "author": "iopapa",
+      "points": 405,
+      "num_comments": 217,
+      "created_at": "2026-09-04T19:48:29Z",
+      "object_id": "49569366",
+      "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+      "site_name": "EEBench"
+    },
+    {
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "hn_url": "https://news.ycombinator.com/item?id=49563386",
       "author": "DeepLogin",
-      "points": 393,
+      "points": 394,
       "num_comments": 74,
       "created_at": "2026-09-04T11:59:15Z",
       "object_id": "49563386",
@@ -19,26 +33,12 @@
       "site_name": "Productrise"
     },
     {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "hn_url": "https://news.ycombinator.com/item?id=49569366",
-      "author": "iopapa",
-      "points": 388,
-      "num_comments": 209,
-      "created_at": "2026-09-04T19:48:29Z",
-      "object_id": "49569366",
-      "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
-      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
-      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
-      "site_name": "EEBench"
-    },
-    {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "hn_url": "https://news.ycombinator.com/item?id=49574167",
       "author": "sylvainkalache",
-      "points": 368,
-      "num_comments": 323,
+      "points": 379,
+      "num_comments": 333,
       "created_at": "2026-09-05T07:52:50Z",
       "object_id": "49574167",
       "image": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
@@ -51,8 +51,8 @@
       "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "hn_url": "https://news.ycombinator.com/item?id=49566137",
       "author": "aaraujo002",
-      "points": 319,
-      "num_comments": 298,
+      "points": 324,
+      "num_comments": 299,
       "created_at": "2026-09-04T15:33:45Z",
       "object_id": "49566137",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
       "hn_url": "https://news.ycombinator.com/item?id=49562744",
       "author": "negura",
-      "points": 94,
+      "points": 95,
       "num_comments": 2,
       "created_at": "2026-09-04T10:30:57Z",
       "object_id": "49562744",
@@ -73,6 +73,20 @@
       "description": null,
       "favicon": null,
       "site_name": "reuters.com"
+    },
+    {
+      "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "hn_url": "https://news.ycombinator.com/item?id=49581240",
+      "author": "okf_memory",
+      "points": 66,
+      "num_comments": 20,
+      "created_at": "2026-09-05T22:15:52Z",
+      "object_id": "49581240",
+      "image": "https://opengraph.githubassets.com/459e6fc5f9b060bef5730ff1bb712f797d35f5c453024eae378f33d9191711e6/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     },
     {
       "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
@@ -89,6 +103,20 @@
       "site_name": "Senator Bernie Sanders"
     },
     {
+      "title": "America's two largest school districts impose AI moratoriums",
+      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+      "hn_url": "https://news.ycombinator.com/item?id=49580980",
+      "author": "cdrnsf",
+      "points": 59,
+      "num_comments": 72,
+      "created_at": "2026-09-05T21:43:22Z",
+      "object_id": "49580980",
+      "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
+      "description": "The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.",
+      "favicon": "https://cdn.sanity.io/images/3tzzh18d/production/9a2224d300c1699fc1b87235aac36318e2c76cec-867x867.png",
+      "site_name": "Tech Policy Press"
+    },
+    {
       "title": "A dark horse enters China's AI race: StartLux",
       "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
       "hn_url": "https://news.ycombinator.com/item?id=49548530",
@@ -103,20 +131,6 @@
       "site_name": "chinaonchina.com"
     },
     {
-      "title": "America's two largest school districts impose AI moratoriums",
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "hn_url": "https://news.ycombinator.com/item?id=49580980",
-      "author": "cdrnsf",
-      "points": 54,
-      "num_comments": 64,
-      "created_at": "2026-09-05T21:43:22Z",
-      "object_id": "49580980",
-      "image": "https://cdn.sanity.io/images/3tzzh18d/production/50736b3f38bf26deb137c1e3fbd2d7cdb6097cd1-1200x675.png",
-      "description": "The New York City Department of Education and the Los Angeles Unified School District announced new policies this week, reports Chris Mills Rodrigo.",
-      "favicon": "https://cdn.sanity.io/images/3tzzh18d/production/9a2224d300c1699fc1b87235aac36318e2c76cec-867x867.png",
-      "site_name": "Tech Policy Press"
-    },
-    {
       "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
       "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
       "hn_url": "https://news.ycombinator.com/item?id=49558433",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": "https://www.nyc.gov/etc.clientlibs/nycgov/clientlibs/clientlib-site/resources/favicon/apple-touch-icon-180x180.svg",
       "site_name": "The official website of the City of New York"
-    },
-    {
-      "title": "OKF Agent Memory \u2013 Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "hn_url": "https://news.ycombinator.com/item?id=49581240",
-      "author": "okf_memory",
-      "points": 42,
-      "num_comments": 16,
-      "created_at": "2026-09-05T22:15:52Z",
-      "object_id": "49581240",
-      "image": "https://opengraph.githubassets.com/459e6fc5f9b060bef5730ff1bb712f797d35f5c453024eae378f33d9191711e6/okf-memory/okf-agent-memory",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     }
   ],
-  "total_hits": 557,
+  "total_hits": 555,
   "has_metadata": true,
-  "fetched_at": "2026-09-06T03:18:00.482367+00:00"
+  "fetched_at": "2026-09-06T08:03:10.406156+00:00"
 }
