@@ -58,6 +58,25 @@
       "project_page": null
     },
     {
+      "id": "2608.17906",
+      "title": "AutoResearch: Insight In, Hallucination Out",
+      "authors": "Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)",
+      "organization_name": "EvoMapAI",
+      "organization_fullname": "EvoMap",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a17125b59649e2b654d5f64/4saZt2-EUjmOt2sWi0VMS.png",
+      "summary": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce AutoResearch, a two-stage system that connects Idea Generation with Idea Execution to address both how research ideas are formed and how they are reliably established through experimentation. In Idea Generation, AutoResearch continuously integrates emerging research signals with accumulated domain knowledge, identifies transferable mechanistic insights, and uses multi-model generation and cross-review to produce grounded, testable research plans. In Idea Execution, coordinated agents decompose these plans into experiments, iteratively implement and diagnose them, and employ independent evidence-based review before accepting research conclusions. Across representative settings in cross-modal retrieval, systems optimization, and benchmark-driven machine learning, AutoResearch turns generated ideas into measurable progress, detects and corrects unreliable experimental results, and makes evidence-conditioned decisions to continue, revise, or terminate research directions. For example, on RSICD benchmark, an AutoResearch-generated idea improves mean Recall from 32.84 to 34.69, while recording only 5 audit-confirmed issue events compared with 11-27 for other autonomous research systems. These results demonstrate a research process in which meaningful insight is grounded before experimentation and conclusions are grounded before acceptance: Insight In, Hallucination Out.",
+      "ai_summary": "AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.",
+      "hf_url": "https://huggingface.co/papers/2608.17906",
+      "arxiv_url": "https://arxiv.org/abs/2608.17906",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
+      "upvotes": 10,
+      "num_comments": 2,
+      "published_at": "2026-08-22T20:00:00.000Z",
+      "github_repo": "https://github.com/EvoMap/AutoResearch",
+      "github_stars": 1352,
+      "project_page": null
+    },
+    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -77,25 +96,6 @@
       "project_page": null
     },
     {
-      "id": "2608.17906",
-      "title": "AutoResearch: Insight In, Hallucination Out",
-      "authors": "Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)",
-      "organization_name": "EvoMapAI",
-      "organization_fullname": "EvoMap",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a17125b59649e2b654d5f64/4saZt2-EUjmOt2sWi0VMS.png",
-      "summary": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce AutoResearch, a two-stage system that connects Idea Generation with Idea Execution to address both how research ideas are formed and how they are reliably established through experimentation. In Idea Generation, AutoResearch continuously integrates emerging research signals with accumulated domain knowledge, identifies transferable mechanistic insights, and uses multi-model generation and cross-review to produce grounded, testable research plans. In Idea Execution, coordinated agents decompose these plans into experiments, iteratively implement and diagnose them, and employ independent evidence-based review before accepting research conclusions. Across representative settings in cross-modal retrieval, systems optimization, and benchmark-driven machine learning, AutoResearch turns generated ideas into measurable progress, detects and corrects unreliable experimental results, and makes evidence-conditioned decisions to continue, revise, or terminate research directions. For example, on RSICD benchmark, an AutoResearch-generated idea improves mean Recall from 32.84 to 34.69, while recording only 5 audit-confirmed issue events compared with 11-27 for other autonomous research systems. These results demonstrate a research process in which meaningful insight is grounded before experimentation and conclusions are grounded before acceptance: Insight In, Hallucination Out.",
-      "ai_summary": "AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.",
-      "hf_url": "https://huggingface.co/papers/2608.17906",
-      "arxiv_url": "https://arxiv.org/abs/2608.17906",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
-      "upvotes": 10,
-      "num_comments": 2,
-      "published_at": "2026-08-22T20:00:00.000Z",
-      "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 868,
-      "project_page": null
-    },
-    {
       "id": "2608.23552",
       "title": "Prime Agent: A Self-Improving RLM Harness",
       "authors": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. (11 authors)",
@@ -111,27 +111,8 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 19983,
+      "github_stars": 20019,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
-    },
-    {
-      "id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
-      "organization_name": "apodex",
-      "organization_fullname": "Apodex",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
-      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
-      "hf_url": "https://huggingface.co/papers/2608.23283",
-      "arxiv_url": "https://arxiv.org/abs/2608.23283",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 205,
-      "num_comments": 3,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1824,
-      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
       "id": "2508.16279",
@@ -149,8 +130,27 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 30794,
+      "github_stars": 30842,
       "project_page": null
+    },
+    {
+      "id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
+      "organization_name": "apodex",
+      "organization_fullname": "Apodex",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
+      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
+      "hf_url": "https://huggingface.co/papers/2608.23283",
+      "arxiv_url": "https://arxiv.org/abs/2608.23283",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
+      "upvotes": 205,
+      "num_comments": 3,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+      "github_stars": 1857,
+      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
       "id": "2407.17789",
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 86279,
+      "github_stars": 86328,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-06T12:15:25.967926+00:00"
+  "fetched_at": "2026-09-06T15:38:49.728404+00:00"
 }

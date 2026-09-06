@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-06T12:15:39.379038+00:00'
+updated: '2026-09-06T15:39:09.013456+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 12:15 UTC  
+**Last Updated:** September 06, 2026 at 15:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,456.09
+### $2,482.36
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** +1.5%  
-**30d:** +30.5%  
-**90d:** +52.8%  
-**1y:** -42.0%  
+**24h:** +0.4%  
+**7d:** +0.6%  
+**30d:** +29.3%  
+**90d:** +51.4%  
+**1y:** -42.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.99B
+**Market Cap:** $302.23B
 Rank #2
 
 **Circulating Supply:** 122,023,858 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.5%
+-49.9%
 
 **All-Time Low:** $0.43
-+577189.0%
++571964.7%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 1d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 2d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-4d ago
+5d ago
 
 ---
 
@@ -158,43 +158,11 @@ Forbes • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Retreat but September Could Hold a Surprise, Data Shows](https://www.benzinga.com/crypto/cryptocurrency/26/09/61635534/bitcoin-ethereum-xrp-retreat-but-september-could-hold-a-surprise-data-shows)**
+**[Ethereum Layer 2s lead crypto sectors as they h...](https://pluang.com/en/news-feed/ethereum-l2-memimpin-transaksi-eth-94-persen-berpindah-offchain)**
 
-Crypto rallied in August, but September saw pullbacks. SOL’s gains may be priced in, while XRP and SHIB dormant-coin moves signal downside risk.
-
-Benzinga • 1d ago
-
----
-
-**[Ethereum proposes new transaction model to spee...](https://pluang.com/en/news-feed/vitalik-buterin-ungkap-redesain-transaksi-ethereum)**
-
-Ethereum co-founder Vitalik Buterin proposed a new transaction model, outlined in draft EIP-8141, that separates transaction actions from dependencies to enable parallel processing of validation tasks. This model could allow Ethereum to verify signatures and other static checks once at the mempool level, compressing them into recursive STARK proofs to reduce repeated work by validators. The proposal aims to improve scalability without sacrificing Ethereum's flexible execution environment, potentially lowering gas costs for predictable transactions while maintaining support for complex contract calls. However, EIP-8141 is still under developer review and has not been approved or scheduled for deployment, with further testing and consensus needed before it could become part of Ethereum's mainnet upgrades.
-
-Pluang • 1h ago
-
----
-
-**[Ethereum advances EIP-8141 to boost network sca...](https://pluang.com/en/news-feed/ethereum-eip-8141-buka-potensi-hyper-scaling-vitalik-jelaskan)**
-
-Ethereum developers are progressing with EIP-8141, a new transaction design that separates transaction actions from dependencies to enable more parallel processing and improve scalability. This design supports features like account abstraction, batching, and gas sponsorship, potentially lowering costs and enhancing security with advanced proofs. A public testnet is already running EIP-8141 as developers refine it ahead of the planned 2027 Hegotá hard fork. The update aims to make Ethereum transactions more flexible and efficient without sacrificing its general-purpose capabilities.
+Ethereum's Layer 2 networks now process nearly 30 million transactions daily, accounting for 94% of all Ethereum ecosystem transactions. This surge in Layer 2 activity supports a market rotation favoring Ethereum, Layer 2 tokens, and DeFi assets, with major networks like Base and Arbitrum securing significant capital. Despite the high transaction volume on Layer 2s, most DeFi capital remains on Ethereum mainnet, highlighting a split where Layer 2s handle activity while mainnet holds capital and settlement functions. This dynamic underpins recent gains across Ethereum-related tokens beyond just ETH price movements.
 
 Pluang • 2h ago
-
----
-
-**[Ethereum co-founder hints at new transaction fo...](https://pluang.com/en/news-feed/buterin-bocorkan-pembaruan-besar-format-transaksi-ethereum)**
-
-Ethereum co-founder Vitalik Buterin revealed plans for a new generation of transaction formats that separate transaction execution from the verification of conditions beforehand. This approach, based on recent research including EIP-8141 and cryptographic proof aggregation, aims to optimize Ethereum's scalability by allowing dependencies to be checked in parallel and potentially only once by the mempool. This could reduce redundant validations by validators and improve network efficiency. The innovation could lead to significant scaling improvements for Ethereum in the future.
-
-Pluang • 3h ago
-
----
-
-**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://finance.yahoo.com/markets/crypto/articles/watch-solana-ethereum-robinhoods-blockchain-102000687.html)**
-
-Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -210,7 +178,7 @@ The Motley Fool • 1d ago
 
 Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an i…
 
-TradingView • 21h ago
+TradingView • 1d ago
 
 ---
 
@@ -218,7 +186,23 @@ TradingView • 21h ago
 
 Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
+
+---
+
+**[Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames](https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/)**
+
+EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
+
+Crypto Briefing • 16h ago
+
+---
+
+**[Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4](https://www.benzinga.com/crypto/cryptocurrency/26/09/61643822/forget-xrp-ethereum-these-5-altcoins-could-rally-outperform-in-q4)**
+
+Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says.
+
+benzinga.com • 21h ago
 
 ---
 
@@ -227,6 +211,22 @@ CryptoSlate • 1d ago
 Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back.
 
 Decrypt • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)**
+
+Bitcoin opened at $81,271.92 on Friday, September 4, 2026, 5.1% higher than Thursday's opening price. As of 7:21 a.m. ET this morning, the price of bitcoin shifted to $81,240.29.  Ethereum opened at $2,507.70 today, up 4.9% from Thursday's opening price. Ethereum moved to $2,522.14 as of 7:21 a.m. ET.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Why Is Ethereum Still Below $3000? While Bitcoin Price Hits $82,000—Here’s What You Need to Know](https://www.tradingview.com/news/coinpedia:67fd571e3094b:0-why-is-ethereum-still-below-3000-while-bitcoin-price-hits-82-000-here-s-what-you-need-to-know/)**
+
+Ethereum price has recovered sharply over the past few days, but the rally has not yet produced the swing the bulls are waiting for. It climbed back above $2,500 after gaining nearly 5%, while the Bitcoin price moved above $82,000 as institutional demand returned to the crypto market. The divergenc…
+
+TradingView • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 25K • 👍 692 • 💬 235 • ⏱️ 18:55 • 20h ago
+👁️ 26K • 👍 730 • 💬 241 • ⏱️ 18:55 • 23h ago
 
 ---
 
@@ -250,7 +250,17 @@ Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you th
 
 📺 No Bs Crypto
 
-👁️ 11K • 👍 327 • 💬 51 • ⏱️ 19:02 • 18h ago
+👁️ 12K • 👍 354 • 💬 53 • ⏱️ 19:02 • 21h ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 554 • 💬 168 • ⏱️ 36:55 • 6h ago
 
 ---
 
@@ -260,7 +270,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 12K • 👍 198 • 💬 131 • ⏱️ 13:53 • 23h ago
+👁️ 13K • 👍 205 • 💬 150 • ⏱️ 13:53 • 1d ago
 
 ---
 
@@ -270,37 +280,17 @@ Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. 
 
 📺 YaBoySkey
 
-👁️ 458 • 👍 27 • 💬 6 • ⏱️ 9:20 • 8h ago
+👁️ 569 • 👍 32 • 💬 7 • ⏱️ 9:20 • 11h ago
 
 ---
 
-**[Mark Yusko &amp; CZ :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=hKO5jSIXKHU)**
+**[Ethereum: Decisive week ahead for ETH!!](https://www.youtube.com/watch?v=Uu_9K157vlk)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+WEEX - trade crypto AND stocks like NVDA and TSLA, no KYC, up to $10000+ in sign up rewards https://marzell.org/WEEX ...
 
-📺 Crypto Nutshell
+📺 Marzell Crypto
 
-👁️ 17K • 👍 282 • 💬 23 • ⏱️ 14:57 • 1d ago
-
----
-
-**[99% of traders are wrong. Final Warning. (BTC, ETH, SILVER)](https://www.youtube.com/watch?v=4RVt_OWY5vw)**
-
-99% of traders are wrong. Final Warning. (BTC, ETH, SILVER) THIS VIDEO IS FOR ENTERTAINMENT PURPOSES ONLY - NOT ...
-
-📺 Chart Junkie
-
-👁️ 13K • 👍 416 • 💬 135 • ⏱️ 22:35 • 18h ago
-
----
-
-**[Raoul Pal :&quot;I&#39;m Loading Up Massively on Bitcoin &amp; Ethereum in the Banana Zone&quot; | BTC Update 2026](https://www.youtube.com/watch?v=yUJn99HJF9g)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 181 • 💬 14 • ⏱️ 17:06 • 2d ago
+👁️ 912 • 👍 16 • 💬 35 • ⏱️ 5:40 • 1d ago
 
 ---
 
@@ -314,23 +304,33 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 ---
 
-**[🎯 Ethereum Hits $8,323 in 2028. Here&#39;s Why.](https://www.youtube.com/watch?v=dj7UvS-x4UY)**
+**[Raoul Pal :&quot;I&#39;m Loading Up Massively on Bitcoin &amp; Ethereum in the Banana Zone&quot; | BTC Update 2026](https://www.youtube.com/watch?v=yUJn99HJF9g)**
 
-The data says buy what everyone else is dumping. Ethereum's own history makes a case for $8323 by June 2028. The pattern is ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 16 • 💬 3 • ⏱️ 1:32 • 2d ago
+👁️ 10K • 👍 181 • 💬 14 • ⏱️ 17:06 • 2d ago
 
 ---
 
-**[NZ Crypto Rules: Bitcoin, Ethereum Tax Laws Explained! #shorts](https://www.youtube.com/watch?v=peQAZYrgYBw)**
+**[Ethereum JUST Broke A 31-Week Wall! (eth price update)](https://www.youtube.com/watch?v=j97hl7KBQzg)**
 
-New Zealand's current rules treat Bitcoin and Ethereum as assets, not money. A new proposal aims to recognize these digital ...
+Ethereum just closed above a line it has not closed a week above since January. BTCC - 10% bonus on your first deposit, ...
 
-📺 NZ Everyday Investor
+📺 Marzell Crypto
 
-👁️ 770 • 👍 19 • 💬 6 • ⏱️ 2:25 • 8h ago
+👁️ 1K • 👍 17 • 💬 40 • ⏱️ 5:24 • 2d ago
+
+---
+
+**[XRP ETH &amp; HYPERLIQUID 🚨 $64,000 ‼️ EVERYTHING JUST CHANGED!](https://www.youtube.com/watch?v=-vDlY7humlk)**
+
+1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
+
+📺 Stock Moe
+
+👁️ 20K • 👍 504 • 💬 19 • ⏱️ 13:52 • 2d ago
 
 ---
 
