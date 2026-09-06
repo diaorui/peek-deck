@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-05T23:35:32.493242+00:00'
+updated: '2026-09-06T03:18:25.488350+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 05, 2026 at 23:35 UTC  
+**Last Updated:** September 06, 2026 at 03:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,865.95
+### $79,974.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.8%  
-**30d:** +23.0%  
-**90d:** +26.5%  
-**1y:** -27.5%  
+**24h:** +0.6%  
+**7d:** +1.8%  
+**30d:** +23.1%  
+**90d:** +29.6%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1602.62B
+**Market Cap:** $1605.02B
 Rank #1
 
-**Circulating Supply:** 20,080,162 BTC
+**Circulating Supply:** 20,080,275 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.7%
+-36.6%
 
 **All-Time Low:** $67.81
-+117599.5%
++117773.5%
 
 ---
 
@@ -77,15 +77,37 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://www.reddit.com/r/Bitcoin/comments/1w8c39u/ancient_bitcoin_wallet_that_turned_120_into_3/)**
+
+The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring.
+
+🔗 [Decrypt](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up) • 6h ago
+
+---
+
 **[Homeless? Maybe, Bitcoin-less? Never.](https://www.reddit.com/r/Bitcoin/comments/1w7ugol/homeless_maybe_bitcoinless_never/)**
 
-15h ago
+19h ago
+
+---
+
+**[🏃💨](https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/)**
+
+43m ago
 
 ---
 
 **[My wife made me this. Finally I've got a whole coin](https://www.reddit.com/r/Bitcoin/comments/1w7wqrw/my_wife_made_me_this_finally_ive_got_a_whole_coin/)**
 
 It's really neat I'll put it in my home office on the desk.
+
+17h ago
+
+---
+
+**[I backtested buying BTC at 30%, 40% and 50% drawdowns vs weekly DCA](https://www.reddit.com/r/Bitcoin/comments/1w81qb9/i_backtested_buying_btc_at_30_40_and_50_drawdowns/)**
+
+I ran a backtest to compare buying only during bigger BTC drawdowns with just buying every week over the last 1, 3 and 5 years. For the drawdown version I used: 30% below ATH: buy $10 40% below ATH: buy $20 50% below ATH: buy $30 Max one buy every 7 days Then I adjusted the weekly DCA amount for each period so both approaches invested roughly the same amount of money. I didn’t want the result to come from one side simply putting more money into BTC. Here’s what I got https://preview.redd.it/8uwr58tgkpnh1.png?width=2822&format=png&auto=webp&s=691826d90205088a1195c306795443e3cc9ef192 5 years Invested: $3,430 Drawdown buys: $7,601.74 (+121.62%) Weekly DCA: $5,109.89 (+49.00%) 3 years Invested: $1,130 Drawdown buys: $1,638.83 (+45.03%) Weekly DCA: $1,105.33 (-2.22%) 1 year Invested: $570 Drawdown buys: $518.76 (-8.99%) Weekly DCA: $448.08 (-21.35%) I knew the timing of the buys would make a difference, but I didn’t expect the gap in the 3 and 5 year periods to be this large. Of course there are periods where you’re just sitting on cash waiting for a 30% drop while BTC keeps going up. And buying at -30% obviously doesn’t mean it won’t keep falling. This also made me wonder how people who say they keep some cash for dips actually do it in practice. Do you already know smth like “I’ll buy X at -30%, Y at -40%” before it happens, or do you just see how you feel when BTC gets there?
 
 13h ago
 
@@ -95,35 +117,13 @@ It's really neat I'll put it in my home office on the desk.
 
 Thought it was pretty cool that they were accepting bitcoin!
 
-16h ago
+19h ago
 
 ---
 
 **[Slowly getting there!](https://www.reddit.com/r/Bitcoin/comments/1w7vt2t/slowly_getting_there/)**
 
-14h ago
-
----
-
-**[Bitcoin for wiring money abroad?](https://www.reddit.com/r/Bitcoin/comments/1w7x5j8/bitcoin_for_wiring_money_abroad/)**
-
-My Indian girlfriend lives in England at the moment for university. She receives money from her parents for tuition fees. She says she loses around 20% in fees, which for her £20k/ year fees adds up to a lot! Is there a way her parents can send her bitcoin? Basically it boils down to, can they buy bitcoin in fairly sizeable amounts in India without government restrictions? Thanks in advance folks
-
-13h ago
-
----
-
-**[It's really that simple.](https://www.reddit.com/r/Bitcoin/comments/1w7jn6n/its_really_that_simple/)**
-
-1d ago
-
----
-
-**[I’m from a third world country and a 0.01 bitcoiner](https://www.reddit.com/r/Bitcoin/comments/1w6xzvj/im_from_a_third_world_country_and_a_001_bitcoiner/)**
-
-Very proud of my achievement despite our poverty and lack of public transport. While proper asphalt road is a luxury in many parts of my rural cities, we believe in bitcoin.
-
-1d ago
+18h ago
 
 ---
 
@@ -131,23 +131,21 @@ Very proud of my achievement despite our poverty and lack of public transport. W
 
 Bitcoin ETF inflows rose about 7% week over week, bringing three-week inflows to a 2026 high of $3.8 billion, while Ether and XRP ETF inflows dropped sharply.
 
-🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 10h ago
+🔗 [Cointelegraph](https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026) • 14h ago
 
 ---
 
-**[Trezor breach just got way bigger: another 67,000 customers exposed](https://www.reddit.com/r/Bitcoin/comments/1w75bon/trezor_breach_just_got_way_bigger_another_67000/)**
+**[Bitcoin ATM](https://www.reddit.com/r/Bitcoin/comments/1w7zxym/bitcoin_atm/)**
 
-The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.
-
-🔗 [The Block](https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540) • 1d ago
+14h ago
 
 ---
 
-**[Whats the news guys ?](https://www.reddit.com/r/Bitcoin/comments/1w74uhf/whats_the_news_guys/)**
+**[Why self-custody backups are a process, not a single seed phrase](https://www.reddit.com/r/Bitcoin/comments/1w8bht4/why_selfcustody_backups_are_a_process_not_a/)**
 
-Just wondering
+Bitcoin self-custody is often summarized as “keep your seed safe,” but resilience has several parts: • Backup availability: can you recover if a device is lost? • Backup confidentiality: who could learn the words, now or later? • Recovery testing: have you verified the process without exposing the seed? • Inheritance and access planning: can a trusted person understand the recovery plan without receiving the secret prematurely? Using a hardware wallet does not remove the need to think through backups, passphrases, and physical risks. Small, documented procedures and periodic checks can reduce single points of failure. What part of self-custody do newcomers most often underestimate?
 
-1d ago
+6h ago
 
 ---
 
@@ -159,51 +157,13 @@ Just wondering
 
 Some analysts warn the four-year cycle set to complete later this year could bring another downslide.
 
-fortune.com • 1d ago
+Fortune • 1d ago
 
 ---
 
 **[Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.](https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8)**
 
 barrons.com • 1d ago
-
----
-
-**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/video/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
-
-Bitcoin mining ceased operations on Sept. 2.
-
-WNDU • 1h ago
-
----
-
-**[Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast](https://finchannel.com/bitcoin-price-prediction-2030-what-wall-street-and-major-crypto-analysts-forecast/134446/crypto/2026/09/)**
-
-Bitcoin Price Prediction 2030: What Wall Street and Major Crypto Analysts Forecast
-
-finchannel • 39m ago
-
----
-
-**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
-
-Bitcoin mining ceased operations on Sept. 2.
-
-WNDU • 1h ago
-
----
-
-**[Michael Saylor's Strategy Continues to Sell Bitcoin. That's Why I'm Doubling Down on Bitcoin Right Now.](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-continues-sell-101200631.html)**
-
-One company deciding to sell some Bitcoin doesn't mean much of anything in the big scheme of things.
-
-Yahoo Finance • 13h ago
-
----
-
-**[British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million](https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million)**
-
-CoinDesk • 3d ago
 
 ---
 
@@ -215,17 +175,53 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Crypto Money Still Matters for the Midterms](https://www.theatlantic.com/newsletters/2026/09/crypto-money-still-matters-for-the-midterms/688537/)**
+**[How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders](https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market)**
 
-The industry is a surprising top spender in the races.
+CoinDesk • 9h ago
 
-The Atlantic • 1d ago
+---
+
+**[Bitcoin mining shuts down at Dowagiac facility, site plans to covert to AI data center](https://www.wndu.com/2026/09/05/bitcoin-mining-shuts-down-dowagiac-facility-plans-covert-ai-data-center/)**
+
+After a new deal with its California-based neocloud provider, Hyperscale Data stopped Bitcoin mining in Dowagiac to prepare the facility to transition into an AI data center.
+
+WNDU • 1d ago
+
+---
+
+**[Oklahoma Bitcoin mining site condemned after leaking 3 million gallons of water during drought](https://www.tradingview.com/news/cryptobriefing:4752b2a96094b:0-oklahoma-bitcoin-mining-site-condemned-after-leaking-3-million-gallons-of-water-during-drought/)**
+
+A Bitcoin mining facility in El Reno, Oklahoma, leaked roughly 3 to 3.8 million gallons of water into the ground while the surrounding region baked under a severe drought. The city has condemned the site and plans to send its operator, Athlon Blockchain Technology LLC, the bill.The leak, which surf…
+
+TradingView • 7h ago
 
 ---
 
 **[Trump Issues Serious Fed Warning As Bitcoin Braces For A Huge Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/05/trump-issues-serious-fed-warning-as-bitcoin-braces-for-a-huge-price-shock/)**
 
-Forbes • 10h ago
+Forbes • 14h ago
+
+---
+
+**[Bitcoin Bear Market May Not Yet Be Over, Says Fidelity](https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity)**
+
+Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year.
+
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin falls below $80,000 as strong U.S. jobs data revives Fed rate hike fears](https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-80000-as-strong-us-jobs-data-revives-fed-rate-hike-fears-4890184)**
+
+Investing.com • 17h ago
+
+---
+
+**[IMF Agrees to Unlock $140 Million for El Salvador After Bitcoin Reforms](https://ticotimes.net/2026/09/04/imf-el-salvador-loan-bitcoin-reforms)**
+
+The IMF reached a deal to release $140 million to El Salvador after the country met key Bitcoin conditions and posted stronger economic growth.
+
+The Tico Times • 1d ago
 
 ---
 
@@ -275,23 +271,33 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 117K • 👍 3K • 💬 143 • ⏱️ 55:09 • 14h ago
+
+---
+
+**[I’m Not Buying Bitcoin At $80k. Here’s Why....](https://www.youtube.com/watch?v=RNiYDUAsvvg)**
+
+Is the Bitcoin bull market really back? Bitcoin is at $80000, above the bull market support band and the 200-week moving average ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 237 • 💬 21 • ⏱️ 23:36 • 10h ago
+
+---
+
 **[Bitcoin’s $82K Breakout Just Got REKT by the Fed!](https://www.youtube.com/watch?v=gOuhLyaGotA)**
 
 Bitcoin just posted its highest close in four months, up nearly $20000 in 20 days, and triggered one of the largest short liquidation ...
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 102 • ⏱️ 14:58 • 1d ago
-
----
-
-**[5 Crypto Coins will 10x in 30 Days! (Watch Before I Delete)](https://www.youtube.com/watch?v=GR8ofPaX3Vc)**
-
-Bitcoin is about to EXPLODE in September!? 5 Crypto Coins will 10x in 30 Days!? (Watch Before I Delete) ⭐ Follow Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 68K • 👍 3K • 💬 218 • ⏱️ 10:11 • 2d ago
+👁️ 34K • 👍 2K • 💬 102 • ⏱️ 14:58 • 1d ago
 
 ---
 
@@ -301,57 +307,7 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 58K • 👍 2K • 💬 173 • ⏱️ 15:19 • 2d ago
-
----
-
-**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 103K • 👍 3K • 💬 102 • ⏱️ 55:09 • 10h ago
-
----
-
-**[Ben Cowen: Most Accurate Trader In Crypto Flips On Bitcoin](https://www.youtube.com/watch?v=SzQFdsWTJec)**
-
-Ben Cowen called last year's cycle top almost to the week, live on this show. Now he puts a hard number on the bottom.
-
-📺 Kyle Chasse crypto
-
-👁️ 65K • 👍 1K • 💬 301 • ⏱️ 57:03 • 1d ago
-
----
-
-**[Will Bitcoin Hit $150K This Year?](https://www.youtube.com/watch?v=6HSNPJVbJRc)**
-
-A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
-
-📺 Altcoin Daily
-
-👁️ 11K • 👍 255 • 💬 7 • ⏱️ 1:09 • 1d ago
-
----
-
-**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
-
-📺 Bitcoin University
-
-👁️ 24K • 👍 1K • 💬 520 • ⏱️ 7:52 • 2d ago
-
----
-
-**[Bitcoin BREAKS $80K: Is It a Trap?](https://www.youtube.com/watch?v=P9Y4v6_M6sg)**
-
-Bitcoin breaks $80000 — is this a trap or the start of a real rally? Trade alongside the Verified Pro Traders in the Apex Live Day ...
-
-📺 Verified Investing
-
-👁️ 15K • 👍 588 • 💬 21 • ⏱️ 19:51 • 2d ago
+👁️ 59K • 👍 2K • 💬 173 • ⏱️ 15:19 • 2d ago
 
 ---
 
@@ -365,13 +321,53 @@ Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× m
 
 ---
 
-**[Robinhood Just Created Crypto&#39;s BIGGEST Bull Market](https://www.youtube.com/watch?v=jjF_TBYh31I)**
+**[5 Crypto Coins will 10x in 30 Days! (Watch Before I Delete)](https://www.youtube.com/watch?v=GR8ofPaX3Vc)**
 
-Robinhood just made a move that could front run the entire crypto bull market cycle and most retail traders are sleeping on it.
+Bitcoin is about to EXPLODE in September!? 5 Crypto Coins will 10x in 30 Days!? (Watch Before I Delete) ⭐ Follow Altcoin Daily ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 59 • ⏱️ 35:09 • 2d ago
+👁️ 69K • 👍 3K • 💬 219 • ⏱️ 10:11 • 2d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=DTNxXRCkvQg)**
+
+BITCOIN WARNING SIGNAL JUST CONFIRMED (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 17K • 👍 372 • 💬 137 • ⏱️ 20:19 • 1d ago
+
+---
+
+**[Will Bitcoin Hit $150K This Year?](https://www.youtube.com/watch?v=6HSNPJVbJRc)**
+
+A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit bonus ...
+
+📺 Altcoin Daily
+
+👁️ 11K • 👍 267 • 💬 8 • ⏱️ 1:09 • 1d ago
+
+---
+
+**[Bitcoin Is Winning Again](https://www.youtube.com/watch?v=LUqC1x4sJdM)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how Bitcoin is winning again, after ...
+
+📺 Bitcoin University
+
+👁️ 24K • 👍 1K • 💬 520 • ⏱️ 7:52 • 2d ago
+
+---
+
+**[Ben Cowen: Most Accurate Trader In Crypto Flips On Bitcoin](https://www.youtube.com/watch?v=SzQFdsWTJec)**
+
+Ben Cowen called last year's cycle top almost to the week, live on this show. Now he puts a hard number on the bottom.
+
+📺 Kyle Chasse crypto
+
+👁️ 67K • 👍 1K • 💬 329 • ⏱️ 57:03 • 1d ago
 
 ---
 
