@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-06T18:04:19.433753+00:00'
+updated: '2026-09-06T20:40:34.082686+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 18:04 UTC  
+**Last Updated:** September 06, 2026 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,482.36
+### $2,490.00
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.0%  
-**30d:** +29.9%  
-**90d:** +52.0%  
-**1y:** -42.3%  
+**24h:** +0.3%  
+**7d:** +1.2%  
+**30d:** +30.1%  
+**90d:** +52.3%  
+**1y:** -42.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.02B
+**Market Cap:** $304.53B
 Rank #2
 
 **Circulating Supply:** 122,023,858 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.6%
+-49.5%
 
 **All-Time Low:** $0.43
-+575325.1%
++576290.5%
 
 ---
 
@@ -120,7 +120,7 @@ My company performs wealth verifications as part of our user entitlements/verifi
 
 Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
 
-🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 3d ago
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 4d ago
 
 ---
 
@@ -162,7 +162,7 @@ Forbes • 3d ago
 
 Ethereum co-founder Vitalik Buterin has proposed EIP-8141, aiming to simplify Ethereum wallets by allowing multiple actions in one transaction, supporting key rotation to reduce reliance on seed phrases, and enabling apps to pay users' gas fees. This could make Ethereum more user-friendly, especially for newcomers, by combining steps like token approval and swapping into a single confirmation. The proposal also adds support for stronger cryptographic signatures and is under consideration for the upcoming Hegotá upgrade, though no activation date is set yet. Developers are currently focused on the Glamsterdam upgrade expected in late 2026.
 
-Pluang • 19m ago
+pluang.com • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ Pluang • 19m ago
 
 Robinhood Chain has overtaken Solana in daily decentralized exchange (DEX) volume, processing $1.45 billion compared to Solana's $1.25 billion on September 5. This shift challenges Solana's long-held dominance, as Robinhood also recently crossed $3 billion in daily DEX volume and increased locked assets by 30% in a week. The rise in Robinhood's activity is boosting Ethereum's ecosystem, with record revenues and growing liquidity, potentially triggering a breakout in the ETH/SOL ratio. This trend signals a rotation in on-chain activity favoring Ethereum, which could strengthen its market position heading into Q4.
 
-Pluang • 39m ago
+pluang.com • 3h ago
 
 ---
 
@@ -202,7 +202,7 @@ CryptoSlate • 2d ago
 
 Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says.
 
-Benzinga • 23h ago
+Benzinga • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Benzinga • 23h ago
 
 Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -218,7 +218,7 @@ Decrypt • 2d ago
 
 EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 21h ago
 
 ---
 
@@ -234,13 +234,23 @@ Yahoo Finance • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
+
+Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
+
+📺 No Bs Crypto
+
+👁️ 14K • 👍 386 • 💬 56 • ⏱️ 19:02 • 1d ago
+
+---
+
 **[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
 
 Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
 
 📺 The Modern Investor
 
-👁️ 8K • 👍 633 • 💬 182 • ⏱️ 36:55 • 8h ago
+👁️ 10K • 👍 677 • 💬 184 • ⏱️ 36:55 • 11h ago
 
 ---
 
@@ -250,17 +260,7 @@ Get the crypto risk models I use to track accumulation and exit zones. Free tria
 
 📺 Crypto Capital Venture
 
-👁️ 28K • 👍 744 • 💬 241 • ⏱️ 18:55 • 1d ago
-
----
-
-**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
-
-Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
-
-📺 No Bs Crypto
-
-👁️ 13K • 👍 372 • 💬 48 • ⏱️ 19:02 • 1d ago
+👁️ 29K • 👍 753 • 💬 241 • ⏱️ 18:55 • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 13K • 👍 212 • 💬 146 • ⏱️ 13:53 • 1d ago
+👁️ 13K • 👍 216 • 💬 146 • ⏱️ 13:53 • 1d ago
 
 ---
 
@@ -280,37 +280,7 @@ Ethereum is dominating crypto right now, but I lay out why that may not translat
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 1K • 👍 47 • 💬 38 • ⏱️ 20:29 • 14h ago
-
----
-
-**[Bitcoin, Ethereum, Solana: What You Need to Know Before Trading](https://www.youtube.com/watch?v=55J_Od6HOUw)**
-
-Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. In this market update, I break down Bitcoin's ...
-
-📺 YaBoySkey
-
-👁️ 683 • 👍 36 • 💬 8 • ⏱️ 9:20 • 14h ago
-
----
-
-**[Mark Yusko &amp; CZ :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=hKO5jSIXKHU)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 310 • 💬 23 • ⏱️ 14:57 • 1d ago
-
----
-
-**[🚨 I just moved $75,000 into XRP, ETH and HYPE  58,000 jobs decides if the Fed hikes in 12 days](https://www.youtube.com/watch?v=8-lUeKEzTgA)**
-
-1️⃣ *  Stock Moe's Free Sunday Edition Newsletter* https://join.stockmoeacademy.com/sunday-edition-page 2️⃣ *   Save ...
-
-📺 Stock Moe
-
-👁️ 20K • 👍 579 • 💬 63 • ⏱️ 13:06 • 2d ago
+👁️ 1K • 👍 49 • 💬 39 • ⏱️ 20:29 • 16h ago
 
 ---
 
@@ -320,17 +290,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Chart Junkie
 
-👁️ 16K • 👍 457 • 💬 108 • ⏱️ 22:35 • 1d ago
+👁️ 18K • 👍 477 • 💬 111 • ⏱️ 22:35 • 1d ago
 
 ---
 
-**[The $2,750+ Ethereum Rally Depends on THIS](https://www.youtube.com/watch?v=PdMTVWEBsho)**
+**[Ethereum 2.0 - The Merge | The Future of Crypto Starts Now | 4K](https://www.youtube.com/watch?v=ou7XkgZqUrg)**
 
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
+The Ethereum protocol is going through significant changes. Security and decentralization are improved with the merge.
 
-📺 More Crypto Online
+📺 The Crypto Vault
 
-👁️ 6K • 👍 183 • 💬 6 • ⏱️ 6:45 • 2d ago
+👁️ 244 • 👍 20 • 💬 14 • ⏱️ 34:16 • 4h ago
+
+---
+
+**[Bitcoin, Ethereum, Solana: What You Need to Know Before Trading](https://www.youtube.com/watch?v=55J_Od6HOUw)**
+
+Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. In this market update, I break down Bitcoin's ...
+
+📺 YaBoySkey
+
+👁️ 791 • 👍 40 • 💬 8 • ⏱️ 9:20 • 16h ago
+
+---
+
+**[Mark Yusko &amp; CZ :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=hKO5jSIXKHU)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 18K • 👍 315 • 💬 20 • ⏱️ 14:57 • 1d ago
+
+---
+
+**[BITCOIN WARNING: IT&#39;S NOT WHAT YOU THINK!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=n8IXe_tArc8)**
+
+BITCOIN WARNING: IT'S NOT WHAT YOU THINK!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 361 • 💬 208 • ⏱️ 18:10 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-06T18:04:19.428285+00:00'
+updated: '2026-09-06T20:40:34.078669+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- news
 - cryptocurrency
 - videos
-- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 18:04 UTC  
+**Last Updated:** September 06, 2026 at 20:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,700.25
+### $79,862.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +1.5%  
-**30d:** +22.7%  
-**90d:** +29.2%  
-**1y:** -28.5%  
+**24h:** +0.0%  
+**7d:** +1.8%  
+**30d:** +23.0%  
+**90d:** +29.5%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1601.17B
+**Market Cap:** $1605.22B
 Rank #1
 
 **Circulating Supply:** 20,080,328 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.8%
+-36.6%
 
 **All-Time Low:** $67.81
-+117490.3%
++117788.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring.
 
-🔗 [Decrypt](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up) • 21h ago
+🔗 [Decrypt](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up) • 23h ago
 
 ---
 
@@ -93,7 +93,7 @@ The parade of long-dormant Bitcoin wallets springing back to life is showing no 
 
 **[🏃💨](https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/)**
 
-15h ago
+18h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bitcoin ETF inflows rose about 7% week over week, bringing three-week inflows to
 
 Bitcoin self-custody is often summarized as “keep your seed safe,” but resilience has several parts: • Backup availability: can you recover if a device is lost? • Backup confidentiality: who could learn the words, now or later? • Recovery testing: have you verified the process without exposing the seed? • Inheritance and access planning: can a trusted person understand the recovery plan without receiving the secret prematurely? Using a hardware wallet does not remove the need to think through backups, passphrases, and physical risks. Small, documented procedures and periodic checks can reduce single points of failure. What part of self-custody do newcomers most often underestimate?
 
-21h ago
+1d ago
 
 ---
 
@@ -159,22 +159,6 @@ Barron's • 2d ago
 
 ---
 
-**[Ancient Bitcoin wallet reactivates, turning $120 into $3M after 15 years of silence](https://www.tradingview.com/news/cryptobriefing:0c42393e6094b:0-ancient-bitcoin-wallet-reactivates-turning-120-into-3m-after-15-years-of-silence/)**
-
-Someone bought 40 Bitcoin for about $120 back in November 2011. Then they did absolutely nothing for nearly 15 years. That patience, whether intentional or accidental, just paid off to the tune of $3.09 million.The wallet, dormant since November 5, 2011, moved its entire balance on September 3, 202…
-
-TradingView • 1d ago
-
----
-
-**[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://finance.yahoo.com/markets/crypto/articles/ancient-bitcoin-wallet-turned-120-170104762.html)**
-
-At least four more decade-old wallets moved a combined $15.7 million between Aug. 29 and Sept. 4, with one batch of coins sent to Coinbase in a likely sign of a sale.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up)**
 
 The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring.
@@ -183,53 +167,83 @@ Decrypt • 1d ago
 
 ---
 
-**[Hackers Demand $2 Million in Bitcoin from Germany. Berlin Refuses to Pay](https://www.yahoo.com/news/us/articles/hackers-demand-2-million-bitcoin-164004483.html)**
+**[If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today](https://finance.yahoo.com/markets/crypto/articles/youd-invested-1-000-bitcoin-200800176.html)**
 
-Berlin refused a 30 Bitcoin ransom worth about $2.4 million, so Rhysida published 5.7TB of state data on the dark web.
+Ten years ago, $1,000 bought you 1.7 Bitcoins.
 
-Yahoo • 1h ago
-
----
-
-**[U.S. Treasury buybacks may boost Bitcoin and XR...](https://pluang.com/en/news-feed/pembelian-kembali-treasury-as-fokus-rali-bitcoin-dan-xrp)**
-
-The U.S. Treasury will start an active debt buyback program on Sept. 7, with operations potentially reaching $16.5 billion, aiming to improve market liquidity. This move has drawn attention from cryptocurrency traders as it could support rallies in Bitcoin and XRP. Bitcoin is near $80,000 with key liquidation points around $79,500-$82,000, while XRP eyes a breakout above $1.45, with $1.70 and $2 as resistance targets. Traders also watch the Sept. 15 U.S. Senate vote on the CLARITY Act, which could further impact XRP and the crypto market. These buybacks are not quantitative easing but may influence financial conditions and interest rates.
-
-Pluang • 38m ago
+Yahoo Finance • 32m ago
 
 ---
 
-**[Bitcoin nears $82K as Peter Brandt revives $100K forecast, signaling a strong long-term uptrend.](https://pluang.com/en/news-feed/peter-brandt-bangkitkan-ramalan-bitcoin-100k-saat-btc-lebihi-80k)**
+**[Bitcoin whale moves 1,260 BTC worth $100M; 75 C...](https://pluang.com/en/news-feed/paus-bitcoin-pindahkan-1260-btc-koin-casascius-75-terbuka)**
 
-Veteran trader Peter Brandt has revived his 2019 Bitcoin logarithmic chart forecast as BTC trades above $80,000, nearing $82,000 resistance. The model suggests Bitcoin's long-term parabolic uptrend remains intact despite the market's evolution, including more institutional investors and a larger market cap. While repeating past massive gains is less likely, the $100,000 target remains a key psychological milestone if BTC breaks resistance and holds support. Brandt's chart implies Bitcoin's bullish multi-year trend is still valid as long as it stays within the historical ascending channel.
+A Bitcoin wallet created in 2016 transferred 1,260.77 BTC, now valued at over $100 million, marking an 11,366% gain over a decade. Additionally, nearly 75 physical Casascius 1 BTC coins were redeemed in early September, indicating vintage holders are cashing out. These moves suggest some investors may believe Bitcoin's price has limited upside after years of gains. The market now faces increased supply from long-dormant Bitcoin as prices hover near $79,733.
 
-Pluang • 38m ago
-
----
-
-**[Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral](https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral)**
-
-CoinDesk • 4h ago
+pluang.com • 5m ago
 
 ---
 
-**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
+**[Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)**
 
-Bitcoin mining ceased operations on Sept. 2.
+Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-wndu.com • 19h ago
+Tom's Hardware • 6h ago
 
 ---
 
 **[‘Like Buying Bitcoin In 2013’—Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted](https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/)**
 
-Forbes • 6h ago
+Forbes • 8h ago
+
+---
+
+**[Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral](https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral)**
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Just Exploded 40% From Its July Low — Is $100,000 Back on the Table?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html)**
+
+Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
+
+Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
+
+cnbc.com • 2d ago
+
+---
+
+**[Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272)**
+
+Investing.com • 9h ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
+
+**[The first AI-run ransomware attack copied its Bitcoin address out of a tutorial](https://news.ycombinator.com/item?id=49589728)**
+
+The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
+
+⬆️ 5 • 💬 0 • 1h ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+
+---
+
+**[Bitcoin mining data center condemned after leaking 3M gallons of water](https://news.ycombinator.com/item?id=49588413)**
+
+Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
+
+⬆️ 4 • 💬 0 • 3h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+
+---
 
 **[Goodbye Bitcoin, Hello AI Data Center](https://news.ycombinator.com/item?id=49536515)**
 
@@ -239,19 +253,11 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 ---
 
-**[Bitcoin mining data center condemned after leaking 3M gallons of water](https://news.ycombinator.com/item?id=49588413)**
-
-Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
-
-⬆️ 3 • 💬 0 • 1h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
-
----
-
 **[The Liquid Network (Bitcoin sidechain) is stuck at block 4050335](https://news.ycombinator.com/item?id=49587562)**
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-⬆️ 3 • 💬 0 • 2h ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
+⬆️ 3 • 💬 0 • 5h ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
 
 ---
 
@@ -295,13 +301,13 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
+**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
 
-📺 Anthony Pompliano
+📺 Schwab Network
 
-👁️ 164K • 👍 3K • 💬 142 • ⏱️ 55:09 • 1d ago
+👁️ 950 • 👍 41 • 💬 1 • ⏱️ 10:28 • 3h ago
 
 ---
 
@@ -311,7 +317,17 @@ Is the Bitcoin bull market really back? Bitcoin is at $80000, above the bull mar
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 369 • 💬 30 • ⏱️ 23:36 • 1d ago
+👁️ 19K • 👍 371 • 💬 32 • ⏱️ 23:36 • 1d ago
+
+---
+
+**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 171K • 👍 3K • 💬 142 • ⏱️ 55:09 • 1d ago
 
 ---
 
@@ -321,57 +337,57 @@ Bitcoin just broke one of its oldest macro relationships. As global bond yields 
 
 📺 Simply Bitcoin
 
-👁️ 60K • 👍 2K • 💬 147 • ⏱️ 15:19 • 2d ago
+👁️ 61K • 👍 2K • 💬 143 • ⏱️ 15:19 • 2d ago
 
 ---
 
-**[Bitcoin&#39;s EXPLOSIVE 25% Surge: What Happens When REAL Money Prints?](https://www.youtube.com/watch?v=28qDqYiuz0Y)**
+**[Bitcoin’s $82K Breakout Just Got REKT by the Fed!](https://www.youtube.com/watch?v=gOuhLyaGotA)**
 
-Hurley talks about Bitcoin's EXPLOSIVE 25% Surge: What Happens When REAL Money Prints? Brought to you by ...
+Bitcoin just posted its highest close in four months, up nearly $20000 in 20 days, and triggered one of the largest short liquidation ...
 
 📺 Simply Bitcoin
 
-👁️ 354 • 👍 11 • 💬 8 • ⏱️ 0:22 • 1h ago
+👁️ 38K • 👍 2K • 💬 97 • ⏱️ 14:58 • 1d ago
 
 ---
 
-**[The Bitcoin Bull Market is Back - And This is Why!](https://www.youtube.com/watch?v=b8O064pqXKw)**
+**[WTF JUST HAPPENED TO BITCOIN??????! (URGENT ZCASH WARNING)](https://www.youtube.com/watch?v=XDW_YmphzVI)**
 
-Bitcoin's demand machine just restarted. U.S. spot ETF inflows exploded 20.5× month-over-month, corporate buyers returned, ...
+TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $25 BONUS WEEX: https://cryptokid.io/WEEX-Bonus ...
 
-📺 Swan Bitcoin
+📺 Crypto Kid
 
-👁️ 24K • 👍 797 • 💬 79 • ⏱️ 13:01 • 2d ago
-
----
-
-**[PhD Economist: &quot;Bitcoin is a Coiled Spring Right Now&quot;](https://www.youtube.com/watch?v=0n8_IqOep_s)**
-
-James Thorne joins Mark Moss to explain why stocks, the bond market, AI, and Bitcoin are all signaling the same regime change, ...
-
-📺 Market Disruptors Podcast
-
-👁️ 48K • 👍 1K • 💬 175 • ⏱️ 57:10 • 2d ago
+👁️ 8K • 👍 357 • 💬 40 • ⏱️ 12:17 • 12h ago
 
 ---
 
-**[S&amp;P 500 Rips As Yields Reject: My Levels Right Now - Gold, Silver, Oil, Bitcoin &amp; More](https://www.youtube.com/watch?v=3YTlGUG49-A)**
+**[Bitcoin has 3 Possible Paths from here](https://www.youtube.com/watch?v=MK47H-8RTBo)**
 
-Gareth Soloway breaks down the S&P 500 rally, the ten-year yield rejection that triggered it, and why he sees roughly 10% ...
+Bitcoin has 3 possible paths from here 2 Bearish & one Bullish count Yellow squiggle still in play TA & Live Trades Get the CF ...
 
-📺 Gareth Soloway
+📺 Camel Finance
 
-👁️ 181K • 👍 6K • 💬 222 • ⏱️ 13:45 • 2d ago
+👁️ 15K • 👍 630 • 💬 121 • ⏱️ 17:23 • 1d ago
 
 ---
 
-**[Crypto Scam](https://www.youtube.com/watch?v=QiKBhS3jzFU)**
+**[MAJOR Bitcoin Rally — Did The Bull Market Start?](https://www.youtube.com/watch?v=r9WKEPe9XlQ)**
 
-Writer: Kyler Himes Editor: Catlin Stevenson Music by: @UFD-Music Oh okay, so we all collectively just kinda learned nothing ...
+YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
 
-📺 UFD Tech
+📺 Crypto Jebb
 
-👁️ 35K • 👍 3K • 💬 56 • ⏱️ 0:54 • 2d ago
+👁️ 8K • 👍 227 • 💬 22 • ⏱️ 8:24 • 2d ago
+
+---
+
+**[Ben Cowen: Most Accurate Trader In Crypto Flips On Bitcoin](https://www.youtube.com/watch?v=SzQFdsWTJec)**
+
+Ben Cowen called last year's cycle top almost to the week, live on this show. Now he puts a hard number on the bottom.
+
+📺 Kyle Chasse crypto
+
+👁️ 82K • 👍 2K • 💬 310 • ⏱️ 57:03 • 2d ago
 
 ---
 
@@ -381,15 +397,7 @@ A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 332 • 💬 10 • ⏱️ 1:09 • 2d ago
-
----
-
-**[Someone Forgot To Steal Mr. Beast&#39;s Bitcoin!?](https://www.youtube.com/watch?v=D0V-fIR_h_o)**
-
-📺 Viral Lore
-
-👁️ 72K • 👍 1K • 💬 10 • ⏱️ 0:32 • 1d ago
+👁️ 17K • 👍 348 • 💬 10 • ⏱️ 1:09 • 2d ago
 
 ---
 
