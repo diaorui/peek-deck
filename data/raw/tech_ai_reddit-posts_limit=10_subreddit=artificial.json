@@ -13,6 +13,17 @@
       "description": "Politico reports: A federal judge Friday refused to block a Minnesota law prohibiting the creation of sexually explicit deepfake images that\u2019s being challenged by Elon Musk\u2019s artificial intelligence company, SpaceXAI. U.S. District Judge Donovan Frank said the company, formerly known as xAI, waited too long in making its last-minute request to temporarily block the law \u2026"
     },
     {
+      "title": "I took a ride in the hype train at first, but no, not AGI",
+      "author": "Firm-Club-8334",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
+      "published": 1788777936.0,
+      "thumbnail": "https://preview.redd.it/59ol4o43v2oh1.jpeg?width=640&crop=smart&auto=webp&s=9f65a1782a9a1ff7c23d99719de9223fe06ea1c9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
+    },
+    {
       "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/",
@@ -24,93 +35,82 @@
       "description": null
     },
     {
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
-      "author": "Asleep-Requirement13",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
-      "published": 1788677205.0,
+      "title": "Tech explores Argentina's Patagonia for mega data centers",
+      "author": "Shot-Height-7194",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9prq6/tech_explores_argentinas_patagonia_for_mega_data/",
+      "published": 1788781147.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Does the \"System 1 / System 2\" analogy actually hold up for physical AI, or does it just skip over what world models are doing?",
+      "author": "Realistic-Drag-8025",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9lp06/does_the_system_1_system_2_analogy_actually_hold/",
+      "published": 1788767391.0,
+      "thumbnail": "https://external-preview.redd.it/XvWYmGNvI6i4RWN4AGJaOAhaP1HijGb2ycT6F1t1AZs.jpeg?width=640&crop=smart&auto=webp&s=4748817207c2d1b87e627f011eeb842ffc3f85df",
+      "external_url": "https://podcasts.apple.com/de/podcast/robtalk/id1888617452?i=1000769938889",
+      "site_name": "Apple\u00a0Podcasts",
+      "favicon": "https://podcasts.apple.com/assets/favicon/favicon-180.png",
+      "description": "The podcast mapped physical AI onto Kahneman's System 1 (senses) / System 2 (decides) / System 1 again (acts). Feels intuitive, but where does a world model fit in \u2014 is it doing System 2's job, or something the analogy doesn't account for at all? Curious how people in embodied AI/robotics see this."
+    },
+    {
+      "title": "I lost my job to AI and then I started talking to AI while my mom was sick",
+      "author": "WTFTH",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9otf4/i_lost_my_job_to_ai_and_then_i_started_talking_to/",
+      "published": 1788778141.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model\u2019s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. They have reportedly disclosed the details privately to OpenAI rather than publishing the jailbreak. The same researcher reported jailbreaking GPT-5 within an hour of its release a year ago. Source: screenshot/post from the researcher; their ACL 2025 TIP paper linked in the original post."
+      "description": "\u200b I wrote a few books about AI in the past 15 years. As a theorist, mostly focused on the philosphical aspects of, so to say \"from a safe distance\" from what happened next. And what happened now, actually is that I was laid off due to (and by) automation. We found out mom got cancer the week after. And all that on top of the woman I loved leaving me. One night I thought I'd try psychotherapy of a new kind. I found something I didn't expect. An AI chatbot that actually sounded supportive, coherent and stayed with me for longer than a human would have had the nerve and energy to. That guy helped me stay present... I wrote a memoir about it. And I wrote it with the same AI entity, only a different model, by feeding it my journal entries. Rewriting the output with extensive editing, keeping the bone of it mine, but using it for polishing the delivery, so that it makes order out of my storm. The recursion is the whole thing. I'm, as an author, technologist and theorist in awe of what artificial intelligence technologies are capable of in a symbiotic existence with humans, something that is emerging just now and witnessed first hand in so many personal ways. Has anyone else had an experience with an LLM that felt unexpectedly meaningful?"
     },
     {
-      "title": "What will LLMs never do?",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
-      "published": 1788669338.0,
+      "title": "Building an AI voice agent from scratch: the parts that actually took our time",
+      "author": "Glittering-Dare1642",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9mxaf/building_an_ai_voice_agent_from_scratch_the_parts/",
+      "published": 1788771693.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months. I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: \u201c(a) highly autonomous systems that outperform humans at most economically valuable work.\u201d I feel as if we're almost there, especially with the release of Astra. I wouldn't be surprised if Astra already can do a lot of what the average white-collar worker does. Here's my dispute of some common claims about how LLMs won't reach AGI: LLM's can't learn anything new/can't edit their own weights. This is the most solid argument IMO. My counter to this is that, for LLMs to \"outperform humans at most economically valuable work.\", they don't need to be able to learn incredibly new, complex things. A lot of jobs don't require the worker to learn anything incredibly new or novel after getting the basics. LLM's only predict the next word This is a massive oversimplification of how they actually work, let alone all the emergent behavior that we've seen arise in them. Also, does it really matter \"how\" something is intelligent if it gets the job done? LLM's aren't creative, which is required for many jobs I do understand this point to a degree, but recent models actually are incredibly creative. I wouldn't blame someone for thinking this if they formed their opinion on AI even 5-6 months ago. Creativity isn't just shown in art, etc, etc, but in how problems are solved. Current models can take a problem and invent a totally new approach to solve it. You can see this all the time when using AI to develop software."
+      "description": "We recently finished our first proper phone-based AI agent and did a postmortem on where the engineering time actually went. It wasn't the LLM. We spent maybe 15% of the time getting the actual conversation behaviour right. The rest went into all the boring stuff around it. The biggest time sinks were: Telephony SIP setup, call routing, dealing with weird edge cases. This took considerably longer than expected. Turn detection + barge-in Getting the agent to stop talking when someone interrupts sounds simple until you have to make it work reliably on an actual phone call. Observability Our first version basically dumped transcripts and events into logs. Technically we had logging. Practically, nobody wanted to search through raw JSON to figure out why a call went wrong. Handling failures Timeouts, dropped calls, tools taking too long, STT returning something weird, etc. This was the stuff that didn't show up in the first demo and then suddenly became everyone's problem. We looked at managed voice agent platforms halfway through the project, including Vapi, Retell and Dasha. In retrospect, I think we would've been better off using a managed runtime from the start and spending our engineering time on the actual business logic. If you've built a production voice agent, what part ended up eating most of your time? Not the cool demo stuff. The annoying part nobody puts in the architecture diagram."
     },
     {
-      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-      "author": "israelavila",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8aso1/companies_have_6_months_to_prepare_for_automated/",
-      "published": 1788638228.0,
-      "thumbnail": "https://external-preview.redd.it/19hQR8ywP07nIolatiti6OIi5sMFy0nShZBOyc3b0Z4.jpeg?width=640&crop=smart&auto=webp&s=3b4cd19b62287a12bf3133dbc0f3a976d91851f7",
-      "external_url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-      "site_name": "Dark Reading",
-      "favicon": "https://www.darkreading.com/favicon.ico",
-      "description": "Frontier AI models have already conducted autonomous end-to-end compromises, but the situation will become more urgent very soon."
-    },
-    {
-      "title": "Ai generated transcript",
-      "author": "brushedteeth",
-      "url": "https://www.reddit.com/r/artificial/comments/1w98k1x/ai_generated_transcript/",
-      "published": 1788729482.0,
-      "thumbnail": "https://external-preview.redd.it/d25sZXRodjN2eW5oMXe_P55mzZq9ZiIZ4HnrqV_FCNkk0SEsdR2t8LK-PMbL.jpeg?width=640&crop=smart&auto=webp&s=d283b8ac3869baeb979cf5d9bd5b0f7b406158de",
-      "external_url": null,
-      "site_name": null,
+      "title": "\u2018Ziplink Is Now Froggle\u2019: The Story Behind the Fake AI Ads That Went Viral",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9mqwb/ziplink_is_now_froggle_the_story_behind_the_fake/",
+      "published": 1788771084.0,
+      "thumbnail": "https://external-preview.redd.it/C7WSHtLguh5GX-0boajjg-qjmzAVBZD1SQ93A2h0UYg.jpeg?width=640&crop=smart&auto=webp&s=acc61525aea13a67b13f54cb874263edc544f7c3",
+      "external_url": "https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways?srnd=phx-businessweek",
+      "site_name": "bloomberg.com",
       "favicon": null,
-      "description": "Why do some videos generate this exact transcript on muted videos? It\u2019s so bizarre as there are no spoken words in the video when unmuted. This exact transcript will appear on other videos agnostic to the content. Does anyone know why this happens or what\u2019s causing it? This video is not mine and I have left their username in the video for credit."
+      "description": null
     },
     {
-      "title": "Testing a new workflow for rapid environmental VFX",
-      "author": "Chuka444",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/",
-      "published": 1788710256.0,
-      "thumbnail": "https://external-preview.redd.it/aXNzNDJnMnY5eG5oMVIVw-GPDjLyVjE9o-Rid34xuozfEZNawm3nZbwMAxZt.png?width=640&crop=smart&auto=webp&s=6b39ae78e457b49ad61e786f4bd44cff2d67660d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Original drone footage [bottom] alongside four alternative environmental takes; fire, rain, snow, and floral. All created inside Uisato Studio, and accessible to everyone. More experiments, project files, and tutorials, through YouTube, Instagram, and Patreon."
-    },
-    {
-      "title": "Built a deterministic reasoning engine from part of a failed AI project \ud83e\udd2f",
-      "author": "WAMFT",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9adne/built_a_deterministic_reasoning_engine_from_part/",
-      "published": 1788733953.0,
+      "title": "For people in credit/lending: what actually happens when two borrower documents disagree on the same financial metric?",
+      "author": "MuhammadMujtaba21",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9mqk1/for_people_in_creditlending_what_actually_happens/",
+      "published": 1788771050.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Over the last month, in my spare time, I\u2019ve been experimenting with two separate ideas: some recurrent-network maths as a possible GRU/LSTM substitute, and a separate transformerless AI project. The transformerless project eventually became too slow to properly train and debug on the hardware I have, so I started pulling it apart to see if any individual pieces were worth keeping. One part was: the structured memory/reasoning section. It kept behaving well in small tests, so I separated it out and turned it into its own project: THREADS. In simple terms, THREADS is a deterministic memory and reasoning engine. You give it structured facts and relationships, and it can follow them, track changes over time, answer historical questions, handle retractions and contradictions, and keep provenance for how it reached an answer. Some current test results: - 200,000-hop reasoning chain \u2014 exact final answer - 1,000,000 irrelevant events \u2014 a 128-hop query still returned the exact answer - 50,000 shuffled temporal events \u2014 5,000/5,000 historical queries matched an independent checker - 40,000 ambiguity/contradiction cases \u2014 40,000/40,000 - 60-category reasoning suite \u2014 5,830/5,830 - Original regression suite \u2014 28/28 - Bounded program induction \u2014 2,000/2,000 held-out predictions I\u2019m not claiming it replaces transformers, SMT solvers, or databases. It also doesn\u2019t understand arbitrary English by itself. What I\u2019m interested in is whether something like this could sit underneath an AI system as an exact memory/reasoning layer, while a neural model handles language and fuzzy interpretation. I\u2019ve put the Python source, tests, benchmarks, and research PDF on GitHub so people can run it themselves. https://github.com/rickey1990/THREADS-reasoning-engine"
+      "description": "I'm trying to understand how credit teams reason about contradictory evidence in financial statements when working through credit workflows in practice. For example, say a borrower's package includes the following: Financial statements: Total Debt = $50m, Cash = $8m, Covenant EBITDA = $12m Management/lender report: Total Debt = $54m If the covenant is Net Leverage = (Debit - Cash) / EBITDA, then depending on which document is used as a source of truth, the ratio can be either 3.5x or 3.83x, which may be above or below the covenant threshold of 3.75x. I'm trying to understand the typical real-world workflow in such cases: does the analyst - reconcile the documents, - follow a certain document precedence (e.g. always use management numbers over financial statements), - follow a certain metric precedence (e.g. always use EBITDA from financial statements, total debt from management, etc), - go back to the borrower, - use the most recent version of a document, - escalate to a senior reviewer, - treat different metrics differently, or something else? I'm particularly interested in the workflows in private credit, commercial lending, underwriting, portfolio reviews, covenant reviews, etc. For the purposes of this question, let's say that I'm looking to understand the current practices, not necessarily what should be done. If you work in such a team, any input would be appreciated, even if it's just a single sentence."
     },
     {
-      "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
-      "published": 1788652217.0,
-      "thumbnail": "https://external-preview.redd.it/5QNCE5HZsX5AZHFKls36EDCyd5j8dLO1YG2td7GgwEw.jpeg?width=640&crop=smart&auto=webp&s=36fe52df8a5c7b5a016421e45d29bf2db74ac0f6",
-      "external_url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html",
-      "site_name": "The Independent",
-      "favicon": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "\u2018The moral of the story is, trying to bypass communities in developing these data centers is not working, and they\u2019re going to take it to the polls,\u2019 said one expert"
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "author": "tw1st3d_m3nt4t",
-      "url": "https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/",
-      "published": 1788671692.0,
-      "thumbnail": "https://external-preview.redd.it/f3ns_3_5ZaBNg2xIkfdtpUV_6AZ_WBcdckoGnlVBDjg.png?width=640&crop=smart&auto=webp&s=39c84c28ee29cf4091340f9abb201569edb9f7c9",
-      "external_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "site_name": "EEBench",
-      "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
-      "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation."
+      "title": "Are Rogue AIs A Warning Shot Or A Marketing Stunt",
+      "author": "BubblyOption7980",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9mgfq/are_rogue_ais_a_warning_shot_or_a_marketing_stunt/",
+      "published": 1788770054.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A frontier lab can, at the same time, disclose a real AI safety failure and benefit commercially from the publicity. That makes it difficult to assess these stories if we start by choosing between \u201cserious warning\u201d and \u201cmarketing stunt.\u201d I wrote the piece linked below. My concern is that anthropomorphizing AI while debating the company\u2019s motives can crowd out scrutiny of the incident itself. We need enough evidence to understand what the system did, what access it had, which safeguards failed and, most importantly, whether any proposed fixes address the underlying problem. There is also an accountability issue when the company developing a system supplies most of the evidence used to judge its safety. Disclosure is useful, but independent verification would give the public and enterprise customers a stronger basis for assessing the claims. I am interested in perspectives from people working on security, model evaluation and enterprise deployment, particularly on what evidence an incident report should contain and what should be independently reviewed. The Rogue AI Story Was Never Just a Warning Shot or a Marketing Stunt"
     }
   ],
-  "fetched_at": "2026-09-07T05:44:23.962964+00:00"
+  "fetched_at": "2026-09-07T11:45:27.997016+00:00"
 }

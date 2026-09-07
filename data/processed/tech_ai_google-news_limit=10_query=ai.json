@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "An Alien Mind",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
-      "pub_date": 1788710986.0,
-      "article_url": "https://openai.com/index/an-alien-mind/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
-      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-    },
-    {
       "headline": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -25,74 +15,84 @@
       "description": "Progressives on Capitol Hill are pushing a proposal to ban artificial superintelligence, but critics warn the move could hand global tech dominance over to China and Russia."
     },
     {
-      "headline": "US Tech Firms Eye Australia for AI Centers, Local Operator Says",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0dwWi1ILVVYZUMwU2tHYkFCVlFJcGV0bGc2Vld0SldJZkNWUGVGZXRNTTNWWE12WmRMVEdXbkhOVm5GVGc5WU5SdDFkM0FkUzFPRDItdmVocmR4UnhRcDllYnpjQWNwQjNVZUZneGdvY2hxX1czNjc4QTVzaGtqWkV6cTJnU3lKeUpsdjZ3RzVYVXNfdWY0UGxWU251bnhLa2I0c2dkdkxzNnFjQ3BWZ0llOA?oc=5",
-      "pub_date": 1788758700.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/us-tech-firms-eye-australia-for-ai-centers-local-operator-says",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Designers should not fear being replaced by AI, industry leaders say",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWNIbWpubmNXc0ZHcHJmQ0I2WmtpaEdMbnJfWWxtWTBTTC1FcUpBRFAxUzFtaENZcmJySjB6TTRJcjRHbnQ5T0NHbHRiMVBaT2pRMWpVbUpVUVcxS2c2U0stNHJEQ3RPS1JLOUswUnMzaWxMdkJadXBaT0gxenkyRW11VWxnZEpKLTVmZmZ6d1pEY3B3NmdveXhlSzBmODJmSFE0RnpxTWVlQTdEQUcyTFhudlNLZw?oc=5",
-      "pub_date": 1788753600.0,
-      "article_url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
-      "image": "https://i.guim.co.uk/img/media/cc21511a496ca3abf0d917fe5db08013f7607f6a/0_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=967bf4ad076fdb20fa8616eb44d97a8a",
-      "description": "Firms are more likely to use technology as \u2018the intern in the office\u2019 than as a replacement for skilled staff"
-    },
-    {
-      "headline": "China won\u2019t permit AI dominance; South Korea\u2019s deepfake crisis: 5 weekend reads you missed",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEVkUXJiQU9Cbzg4bkhwb29QNFJUOVVPMU13QWJ6bFNacEdqRGNVZzlxY3hFTERDX0pZenFFNEJueXNqOGxvM296ekYxN3lKWUduOFNZTE43ZnNLNWswZk9wYThET3dQLWxjSFRMeWdsUE9rZG9VN2xLNVc5OXA3RG1ZdTBSb3dxVm9MTzJWSFNpSFRCWmNETUtMaHZMX21JbWVOVUVVRk5kejhOTHFhYzBObFNKYTBHSHNmcW5HZVJ2V294WTZBdnhGVkh5TGs?oc=5",
-      "pub_date": 1788756966.0,
-      "article_url": "https://www.scmp.com/news/world/article/3366582/china-wont-permit-ai-dominance-south-koreas-deepfake-crisis-5-weekend-reads-you-missed",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
+      "headline": "When A.I. Starts Scheming",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
-      "pub_date": 1788685258.0,
-      "article_url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcjQxb19IbFpjSzA0NUhQaW5vV1JoVFZTREZqR3Fjb1RqOTd2dVB3ci1kbTJRdDJNel8tOU0xc2JodUdYT2hHM05yZmlDdVdQU0RYRExKVzVZc2lTclF1NkJwT1QzakRkd1dOSzNqMk9jcWJNUHREcXhmOFB5NjVqYmFEakRTMTR5eVE?oc=5",
+      "pub_date": 1788728856.0,
+      "article_url": "https://www.nytimes.com/2026/09/06/world/ai-hugging-face-afd-germany-election.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+      "headline": "Trump says he has made 'Hundreds of Billions of Dollars on Stocks' in stream of AI posts",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
+      "pub_date": 1788779180.0,
+      "article_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
+      "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday"
+    },
+    {
+      "headline": "A growing movement wants AI out of schools",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnhTeWNtTWwxSkhEYThMcl9Eb2lQZ2VHUVpzTUxiQ0dnelUzVFgxNGJlMnJJeTNUSXl5dEJyUGV1cS0ySE9jVkVnYldCWFJUSWI1TlRVNkNDYl9reDQ2MkZuRHF1Z3VJRnBfaUlLcFRxamxZd0ozaEZ4emFicVFFeUpsZTA?oc=5",
+      "pub_date": 1788775414.0,
+      "article_url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BblBFT2pQREFFRkFVSmRWVkpsNzNYZWZzLVpzeXFJQlJ3eVlHUXEzd2o4dHo3TEJPNFFiVTBYVjBWRkNwZ2xwMGF0dFVHZ1lzTWtoSmxPeTJKQQ?oc=5",
+      "pub_date": 1788780627.0,
+      "article_url": "https://www.bbc.com/news/articles/c1wxppnrqlqo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online."
+    },
+    {
+      "headline": "An Alien Mind",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+      "pub_date": 1788710986.0,
+      "article_url": "https://openai.com/index/an-alien-mind/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
+      "headline": "Has the A.I. Job Apocalypse Been Postponed?",
+      "source": "The New Yorker",
+      "source_url": "https://www.newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZF9VUmQ3V1BxcHd0bTlrUkZ2SnZ5ZXR1MC16akpoaGVGTWtYNVhJbVNYMWczQnF6Zzhvb3pKa2MxbzBJdzFxTWRDc3NMc2dlTl9NYWVvQjZ2elZkOXVCMEdHemx2amZJbnZCNHZNY194Q2Z5Y2RyOGVMemJCX05ndFExWVZGcGFwUnhSTTY3LWlQaWNr?oc=5",
+      "pub_date": 1788775200.0,
+      "article_url": "https://www.newyorker.com/news/the-financial-page/has-the-ai-job-apocalypse-been-postponed",
+      "image": "https://media.newyorker.com/photos/6a9b2a20f95db26587884e02/16:9/w_1280,c_limit/Cassidy-AI-jobs.jpg",
+      "description": "So far, the proliferation of A.I. models such as Claude and ChatGPT hasn\u2019t led to mass displacement of workers. But deployment is accelerating and economic pressures are rising."
+    },
+    {
+      "headline": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EbTVnQWJES2tJaEpBZzZvMTJpam01anlsWm1tWmF0OTBfc3JIRG41Q3lXVXd4SzJQamwtZFRXcGx6eVVCR3lGcGpYNU9PR0xWRVQ3STA2ZUpLMDdDTWpWaHB0WmgyQ1Y3QXlsOHhpWkpuTkM1Z19JNktB?oc=5",
+      "pub_date": 1788699600.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+      "image": "https://i.guim.co.uk/img/media/02e203131392e710b2b1e75f0ac4203886c5eea7/0_627_3024_2419/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6bc058e03ca4e0c18f587f9454a2a0ca",
+      "description": "Consumers are increasingly encountering AI-generated images on food menus such as leathery meat and bread resembling reptile skin"
+    },
+    {
+      "headline": "AI could pose \u2018existential\u2019 risk to humanity, UN rights chief warns",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g?oc=5",
-      "pub_date": 1788747960.0,
-      "article_url": "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-it-faces-pressure-share-ai-wealth-with-2026-09-07/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
+      "pub_date": 1788772099.0,
+      "article_url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "These teachers fight AI cheating with classes that force students to show they are learning",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
-      "pub_date": 1788710400.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/06/teachers-college-educators-are-rethinking-classes-age-ai/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KR3JTCZM6FGDZBSACJH466V7MI.jpg&w=1440",
-      "description": "Instead of relying on AI detectors or going back to pen and paper assignments, educators said they redesigned classes to make students prove they are learning."
-    },
-    {
-      "headline": "AI Is Already Making Us Less Human",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZk5IMzZET2M3WEFjV2tvcTNZVk9wMjl1WTR1ZzFBMzVja3lqS0plY0o2bWUxUHhyT01LekJ5SlFQTzRzWW9hZ2ZsOGZJUjdCZTF2a3hOSUVZU0FyaXFGcl9FRDZhRmhHSjl1dEkxZjJJVDQ1c3FxczVxZ0hUMkJTbThLekJ0SnM?oc=5",
-      "pub_date": 1788688800.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
-      "image": "https://cdn.theatlantic.com/thumbor/qdJ5ouVHP6TTuy8HAzo0ees6bds=/0x35:2000x1077/1200x625/media/img/mt/2026/09/AnthropomorphismNew/original.png",
-      "description": "As we learn to think more and more highly of the bots, we will learn to think less and less highly of our fellow humans."
     },
     {
       "headline": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T05:44:53.610027+00:00"
+  "fetched_at": "2026-09-07T11:45:50.383880+00:00"
 }

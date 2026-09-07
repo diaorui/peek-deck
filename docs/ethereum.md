@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-07T05:44:59.939754+00:00'
+updated: '2026-09-07T11:45:51.640229+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 05:44 UTC  
+**Last Updated:** September 07, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,499.00
+### $2,489.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +3.9%  
-**30d:** +31.6%  
-**90d:** +55.0%  
-**1y:** -41.7%  
+**24h:** -0.4%  
+**7d:** +3.0%  
+**30d:** +30.4%  
+**90d:** +53.7%  
+**1y:** -42.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.29B
+**Market Cap:** $303.94B
 Rank #2
 
 **Circulating Supply:** 122,026,782 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.2%
+-49.6%
 
 **All-Time Low:** $0.43
-+579664.8%
++575158.8%
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?
 
-3d ago
+4d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 4d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 5d ago
 
 ---
 
@@ -152,35 +152,27 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
-**[Ethereum co-founder Vitalik Buterin rejects AI-driven Bitcoin crash prediction within two years.](https://pluang.com/en/news-feed/bitcoin-tidak-akan-jatuh-50-persen-karena-risiko-ai-buterin)**
-
-Vitalik Buterin dismissed a prediction that AI could undermine Bitcoin's security and cause its price to drop over 50% within two years. He argued that while AI might expose operational vulnerabilities in Bitcoin's ecosystem, the core proof-of-work mechanism is highly unlikely to be broken. Buterin emphasized that software upgrades and mining-pool adaptations can address most AI-related threats without altering Bitcoin's fundamental rules. The debate highlights concerns about AI's role in cybersecurity but does not indicate immediate risks to Bitcoin's cryptographic integrity or market price.
-
-Pluang • 49m ago
-
----
-
-**[Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html)**
-
-Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board.
-
-finance.yahoo.com • 46m ago
-
----
-
-**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/)**
-
-Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
-
-The Motley Fool • 1d ago
-
----
-
 **[Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)**
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 3h ago
+The Block • 9h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates near recent highs, ETH and XRP defend key bullish supports](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
+
+FXStreet • 8h ago
+
+---
+
+**[New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees](https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/)**
+
+A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security.
+
+BeInCrypto • 22h ago
 
 ---
 
@@ -188,15 +180,13 @@ The Block • 3h ago
 
 MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 9h ago
 
 ---
 
-**[How Bitmine could surpass its 5% Ethereum goal without buying more ETH](https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/)**
+**[Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision](https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/)**
 
-BitMine's massive staking position could generate enough ETH to close the remaining gap, turning reward retention into the key variable.
-
-CryptoSlate • 11h ago
+CCN.com • 1h ago
 
 ---
 
@@ -208,25 +198,33 @@ TradingView • 1d ago
 
 ---
 
-**[Crypto Pulse USDT(@Crypto-Pulse-BD)'s insights](https://www.binance.com/en/square/post/363912015743553)**
+**[Harmony wants to kill its own blockchain and turn ONE into an AI video token](https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats)**
 
-Binance • 6h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates near recent highs, ETH and XRP defend key bullish supports](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
-
-FXStreet • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4](https://www.benzinga.com/crypto/cryptocurrency/26/09/61643822/forget-xrp-ethereum-these-5-altcoins-could-rally-outperform-in-q4)**
+**[Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs](https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/)**
 
-Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says.
+Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
 
-benzinga.com • 1d ago
+CryptoSlate • 2d ago
+
+---
+
+**[Where Will Solana Be in 5 Years?](https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/)**
+
+This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Vitalik Buterin Sees 60% Chance SNARKs, FHE and iO Reach Sub-10x Overhead](https://financefeeds.com/vitalik-buterin-sees-60-chance-snarks-fhe-and-io-reach-sub-10x-overhead/)**
+
+Vitalik Buterin assigns a 60% probability that SNARKs, FHE and iO can run at under 10x the cost of ordinary computation, and 33% odds of near-parity.
+
+FinanceFeeds • 5h ago
 
 ---
 
@@ -240,27 +238,17 @@ BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 232 • 💬 119 • ⏱️ 20:24 • 4h ago
+👁️ 12K • 👍 345 • 💬 294 • ⏱️ 20:24 • 10h ago
 
 ---
 
-**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
+**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
-📺 Crypto Nutshell
+📺 The Moon Show
 
-👁️ 4K • 👍 125 • 💬 22 • ⏱️ 14:40 • 13h ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
-
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
-
-📺 The Modern Investor
-
-👁️ 13K • 👍 737 • 💬 355 • ⏱️ 36:55 • 20h ago
+👁️ 1K • 👍 116 • 💬 5 • ⏱️ 3:29 • 48m ago
 
 ---
 
@@ -270,7 +258,17 @@ Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you th
 
 📺 No Bs Crypto
 
-👁️ 16K • 👍 410 • 💬 45 • ⏱️ 19:02 • 1d ago
+👁️ 16K • 👍 425 • 💬 45 • ⏱️ 19:02 • 1d ago
+
+---
+
+**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 132 • 💬 23 • ⏱️ 14:40 • 19h ago
 
 ---
 
@@ -280,7 +278,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 295 • 💬 61 • ⏱️ 18:18 • 1d ago
+👁️ 16K • 👍 307 • 💬 62 • ⏱️ 18:18 • 1d ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 14K • 👍 758 • 💬 356 • ⏱️ 36:55 • 1d ago
 
 ---
 
@@ -290,27 +298,7 @@ This video looks at Ethereum's current position within the broader cryptocurrenc
 
 📺 Crypto Vlog
 
-👁️ 4K • 💬 37 • ⏱️ 0:48 • 6h ago
-
----
-
-**[🚨 BTC &amp; ETH: BIGGEST WARNING I HAVE SEEN!!!! (Urgent.)](https://www.youtube.com/watch?v=FD83nkq0FBU)**
-
-Bitcoin and the rest of the crypto market data is flashing red! Here is the latest update + my short trade trade idea update!
-
-📺 Thomas Kralow
-
-👁️ 23K • 👍 846 • 💬 23 • ⏱️ 10:27 • 2d ago
-
----
-
-**[Has Bitcoin Bottomed? The Cycle Data Says Maybe (Plus ETH, HYPE, ZEC)](https://www.youtube.com/watch?v=WitBjEWfkXU)**
-
-No B.S. Just Charts. Has Bitcoin bottomed? Gareth Soloway, Chief Market Strategist at Verified Investing, digs into the Bitcoin ...
-
-📺 Gareth Soloway
-
-👁️ 91K • 👍 4K • 💬 265 • ⏱️ 16:37 • 16h ago
+👁️ 4K • 💬 37 • ⏱️ 0:48 • 12h ago
 
 ---
 
@@ -320,17 +308,27 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 15K • 👍 229 • 💬 146 • ⏱️ 13:53 • 1d ago
+👁️ 15K • 👍 238 • 💬 146 • ⏱️ 13:53 • 1d ago
 
 ---
 
-**[Ethereum 2.0 - The Merge | The Future of Crypto Starts Now | 4K](https://www.youtube.com/watch?v=ou7XkgZqUrg)**
+**[Why Ethereum is the Only Chain Enterprises Can Actually Build On](https://www.youtube.com/watch?v=2yPkKbNbA5c)**
 
-The Ethereum protocol is going through significant changes. Security and decentralization are improved with the merge.
+Offchain CEO Steven Goldfeder on the two paths enterprises can take to launch a chain If you look at enterprises, a lot of them are ...
 
-📺 The Crypto Vault
+📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 125 • 💬 16 • ⏱️ 34:16 • 13h ago
+👁️ 51 • 👍 4 • 💬 21 • ⏱️ 0:43 • 1h ago
+
+---
+
+**[&quot;This Is The Moment&quot;! Crypto Exiting A 5-Year Bear Market (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=DwQ4F_akaFo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto is ...
+
+📺 Crypto Capital Venture
+
+👁️ 32K • 👍 775 • 💬 242 • ⏱️ 18:55 • 1d ago
 
 ---
 
