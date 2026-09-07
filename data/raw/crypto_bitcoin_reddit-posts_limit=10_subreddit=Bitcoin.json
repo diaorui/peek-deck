@@ -24,17 +24,6 @@
       "description": "10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it\u2019s ~$80,000. Now imagine someone posting this on September 6, 2036: \u201cBitcoin was only $80K back in 2026.\u201d What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. \ud83d\udc40"
     },
     {
-      "title": "\ud83c\udfc3\ud83d\udca8",
-      "author": "clausschnorr",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/",
-      "published": 1788662084.0,
-      "thumbnail": "https://preview.redd.it/zo8etqs09tnh1.png?width=640&crop=smart&auto=webp&s=4fd77e3bce56c25737e15d0231c3757de8931d74",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Zoom out",
       "author": "Myntad_com",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1w91y9j/zoom_out/",
@@ -57,6 +46,28 @@
       "description": "I do not care about self-custody (dangerous, so I use Fidelity custody) or censor-less transactions (I live in the U.S. and can trade freely)"
     },
     {
+      "title": "\ud83c\udfc3\ud83d\udca8",
+      "author": "clausschnorr",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/",
+      "published": 1788662084.0,
+      "thumbnail": "https://preview.redd.it/zo8etqs09tnh1.png?width=640&crop=smart&auto=webp&s=4fd77e3bce56c25737e15d0231c3757de8931d74",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Bitcoin buy in",
+      "author": "DistopiaX",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w9b3tb/bitcoin_buy_in/",
+      "published": 1788735814.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi guys! I\u2019m fairly new to crypto and I\u2019m trying to learn as much as I can before making any big decisions. For those of you who are currently buying Bitcoin, are you still buying at these prices, or are you waiting for some kind of pullback? I\u2019ve been debating whether I should wait for another drop, potentially somewhere around $72k\u2013$74k, before buying in. Is that a dumb way of thinking? I know nobody can predict the exact bottom, but I\u2019m trying to maximize my potential returns. At the same time, I feel like I\u2019m starting to fixate on finding the \u201cperfect entry,\u201d which I know probably isn\u2019t a great mindset either. Would love to hear how you guys are approaching BTC right now, especially if you\u2019ve been through a few cycles. Do you DCA, wait for pullbacks, or just buy when you think the long-term price is good? Thanks!"
+    },
+    {
       "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
       "author": "MedusaOnchain",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1w8c39u/ancient_bitcoin_wallet_that_turned_120_into_3/",
@@ -66,6 +77,17 @@
       "site_name": "Decrypt",
       "favicon": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-96x96.png",
       "description": "The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring."
+    },
+    {
+      "title": "Selling Bitcoin for Cash in NYC",
+      "author": "merlin0501",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1w9bqgh/selling_bitcoin_for_cash_in_nyc/",
+      "published": 1788737481.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am looking for information about how to sell small amounts of bitcoin for cash in New York City, preferably near the Bronx. I don't have ID at the moment because mine was lost or stolen. For that reason I think Bitcoin ATM's are out. I've already tried RoboSats but it appears to rely on lightning and I don't have enough btc at the moment to open a channel. I'm open to all suggestions. Thanks."
     },
     {
       "title": "Uk folks, which banks are letting us buy/transfer cash to exchanges?",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I had some extra tokens at the end of one of my reset periods and decided to build a fun little hackermans Bitcoin site. A couple cool things on there: A calculator if you want to do dynamic DCA - you can see at what risk metric you'd be buying and selling and tweak the settings to your liking. Based on the daily budget you provide it, it'll give you the $ amount to buy (I've actually been using this as a guide to my DCAs) A space battle visualization of the bitcoin price with buys and sells Some other cool visualizations of nodes, blocks, fair market value, and many more things https://preview.redd.it/0mxwxpl6kxnh1.png?width=1708&format=png&auto=webp&s=c9461b8ea37720220f452436d134f6d531fb8e84 There are a lot of fun themes built in as well, let me know if you have some ideas for things that can be added! Just a project for fun and wanted to share! https://www.bitcoinradar.io"
-    },
-    {
-      "title": "Cold Card incident animation I made for this sub",
-      "author": "TheOnlyVibemaster",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w8lb1u/cold_card_incident_animation_i_made_for_this_sub/",
-      "published": 1788666463.0,
-      "thumbnail": "https://external-preview.redd.it/dGM3ZXNjOXBudG5oMfW5u0t6GEkiC1oq8QxPazkJn93LYMWsL_KM404hNKcZ.png?width=640&crop=smart&auto=webp&s=21dee1c740b486e9bde8e5ff93ddffd6d7fff667",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "I reconstructed the Coldcard RNG losses on-chain and it came out a lot bigger than the public numbers (2,052 seeds, 35,189 drained addresses)",
-      "author": "Izautrin",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1w91wk3/i_reconstructed_the_coldcard_rng_losses_onchain/",
-      "published": 1788714695.0,
-      "thumbnail": "https://preview.redd.it/1yk7p6sbmxnh1.png?width=640&crop=smart&auto=webp&s=d97aed9858ee0180d864c6a27443fc33eecf103c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I spent the last few weeks digging into the Coldcard RNG bug on-chain, and the numbers came out worse than what's been reported so far. Background for anyone who missed it: a batch of firmware shipped with the hardware RNG switched off for seed generation (the MICROPY_HW_ENABLE_RNG=0 thing). So instead of the real TRNG, seeds were coming out of a small software PRNG, and the actual entropy was only around 19 to 20 bits. That is crackable on a single GPU. I brute-forced the affected seeds up to the practical ceiling, roughly 2,052 wallets, and from those derived 35,189 unique addresses that are all drained now. That is about 5 times what the address-list writeups found, because I went after the change and deeper derivation addresses too, not just the final sweep everyone screenshots. Then I pulled the full transaction graph to tell apart internal change-cycling from money that actually left. Net theft comes to roughly 5,080 BTC, about 406 million dollars at today's price. The gross figure, meaning everything that ever passed through the bad keys, is around 10,950 BTC, but that is not the loss, a lot of it is just change bouncing around between the attacker's own addresses. Two things worth flagging. Following the money forward, something like 2,918 BTC is still sitting on-chain and could in principle be frozen, and about 991 BTC made it to exchanges. And the sweeper is still running: the most recent automated drain I could find was on 2026-08-19, and it has been going since at least April 2024, so well over two years before this ever became public. What I am not posting: the recovered seed phrases, the PRNG constants, the exact brute-force parameters, or anyone's name. The first would just hand copycats a way to hit wallets that are not drained yet, and the blame question is for proper investigators, not a reddit thread. The full writeup (English and Russian), the victim address list and the hub map are in a repo. I will put the link in a comment instead of the post so it does not get auto-removed. If anyone wants to dig into how the net-versus-gross split or the derivation was done, I am around in the comments. Mikhail, independent security researcher. Telegram MadMike178, email izautrin at gmail dot com."
     }
   ],
-  "fetched_at": "2026-09-06T22:44:03.399714+00:00"
+  "fetched_at": "2026-09-07T00:43:33.326522+00:00"
 }

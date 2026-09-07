@@ -5,24 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Slips Below $80,000 After Jobs Data. 2 Things That Could Power Cryptos Higher.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOZWs3N1B0SzI1T1daemhjS0FKQUVkMllLMWdmNHlhbjd6NEliQk1ieEZfYml4UjEteE5MTnNRM0cyX0t3UXdTeTl6YWZHMXNjazBaRFZTQ2VtYVpHRzVwQ2NmSy15US1vVDlGYjhmRQ?oc=5",
-      "pub_date": 1788529500.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-5ac5ccf8",
-      "image": null,
-      "description": null
+      "headline": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU9EVnRoU1lOd2RlUjJOZWNQaHd2SFY3aGxxTVNzZlZqaFR4OTJaeW1uTkl1cWxlei10OEtPTjBvQnIxRHFmdWtEZ1FCU1kxLTVTakFaajNNV3VMZVdHR0EzNlZDd3h5VHB0Z0Q1MTAzRXBMWGl4OU14T0lCTVB3NVcwNVZRM0NXbzJaeVpLODJTM1FoRzlKbWtldjNlZUFXZl9oYnQ2RkVHOTdJUWRpWDQ3Ymg0bzNpVEZiS2tFMWE3SnFvMkMtRGRlcjE4S01GN29McUN3?oc=5",
+      "pub_date": 1788729276.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+      "image": "https://www.tbstat.com/wp/uploads/2023/08/20230731_Liquidity_News-1-1200x675.jpg",
+      "description": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible."
     },
     {
-      "headline": "Mexican Rock Star and Family Murdered Over $1.5M Bitcoin Wallet",
-      "source": "Bitcoin News",
-      "source_url": "https://news.bitcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmRtUTRXOHIwZUZOYUNQeVBMbzBITlBqNzZGUW1wUUlOdXg1a0hkY2FmMDJKZ1ZCbDJnZF84czc2cUF5Nmg3QVFOeUZydWp0ejNmZm9JcjVoOGp5bzBvVjdYUHp3cS13dUxFSk1TRGtOcXhEb2NIZlVWbkVRZ3ZfbnBsaElfaUNMeHZjbjhPbnViaFZZY242SFVKU1hqQQ?oc=5",
-      "pub_date": 1788720655.0,
-      "article_url": "https://news.bitcoin.com/security/mexican-rock-star-and-family-murdered-over-1-5m-bitcoin-wallet/",
-      "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/mexican-rock-star-and-family-murdered-over-1-5m-bitcoin-wallet.png",
-      "description": "Discover the chilling details surrounding the murders linked to Jonathan Mel\u00e9ndez and his Bitcoin holdings in Mexico."
+      "headline": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5VFAxZW1WMGRXOURGUkxUZFBmbUtEZ1JtQXdweWtEcnVKTUxVS09DTVZVMFgyVm9FNXVqbVNtWnRSdm41QWpBRjFZbW9kMnJZX1l6RXZDYngtVlRvcXY2Tk5RUm51ZzBtYjFCSUE4aFpkcVBIUGfSAX5BVV95cUxPOXdlMzFrUUZybXlzYm1NTXN5MlpKZWJUaW5rZzk0bU5RTWVsVWtqUnpvUTRaVFFNQXV3V19iRmYxTjhlZDJ4bW04RURoWkgtVTB1QzYzRWtfaC1GZUFJS2UzYlQ0RVQ5SEJGX1FULUhtUEpmeDdyVEg4MGRaUGc?oc=5",
+      "pub_date": 1788627664.0,
+      "article_url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
+      "description": "The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring."
     },
     {
       "headline": "Remember How Bitcoin Was Supposed to Rise With Money Supply? Here's Why That Didn't Happen",
@@ -65,14 +65,14 @@
       "description": null
     },
     {
-      "headline": "Fed Governor Waller just reignited the bitcoin debasement trade: Chart of the Day",
+      "headline": "Bitcoin Just Exploded 40% From Its July Low \u2014 Is $100,000 Back on the Table?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUtaa0V1OXI2Q1pBMmZTbUVDaUlvbk5vT2o0OEFBeVdBMU1vdzVsMVBiRWFKZ2FVc2xxN0NQRFZ2VEp5Tkw4UWZHSi1MLTA4VFkwZGhMelVTbUdHV2VwdVdrZWdvdWlUU1FNaENQR1hyaUZIdjBDS0ZYOUxJMFRyVGxiVTctWEdtZlBNSUk3bWlzTVdqbUpRSWluRGY1czB1cmNBVzdLOE5RLXl6ZmNLNnRnbzBSVU4wTHFfUzVaQnhoczFWWXNwdlVpR3VscWo2dDhB?oc=5",
-      "pub_date": 1788516000.0,
-      "article_url": "https://finance.yahoo.com/markets/article/fed-governor-waller-just-reignited-the-bitcoin-debasement-trade-chart-of-the-day-100000584.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5144565be948a025656e423f265caab38343857e7cb70b305cd34844b0a83d54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fdbf3367b-f6d7-492e-b0e8-7420ea4b7839",
-      "description": "Bitcoin is back at the Rubicon \u2014and Fed governor Waller just dared bulls to cross it."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVk5Y0IzUzhXTFNlM1k0bnhrU3E4Ml84LXJFS1NydVlfTmhxQi1RTlVPdk9lS1J3eUdUNmh2eUJ4Rm1Wd3JZdk5BZ090clQ1V0lfN2d2Y2ZuY1hLM3BmNUJkd2FfTVdsaWlsVkdMT1hDZmRRUnFjMV93RlBkMy1sSC0xYkRyeHo5WnNfX2pXaUJubm9mOFpTUnFB?oc=5",
+      "pub_date": 1788616997.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5300c462c2358877ce4f238c0ee3c29466405ad504d656b2dd80d3b6ff091580/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4dc3e5404e8ad8c52c8d8ac0fc773503.jpg",
+      "description": "Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast."
     },
     {
       "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
@@ -96,7 +96,7 @@
     },
     {
       "headline": "$14.5 Billion Injection: Will U.S. Treasury Trigger 'Round 2' for Bitcoin and XRP?",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzhQT2pqLVgxOFo5bjczZ3A5TGlldzJWODFuOU1PUW92WTJqZWdLTE9jWUVwVXFKelk1aklzelotbXFxcjk4RGhtTTc5aGFCRzYyWnJWRGc5eXFQeURjNFhmVFVldGxCc0tBSkNVODQ3V1ducFNXb0hPak12aFlJTHh1TTFoLTdkTU85Q1Y3c1ZWcmwzOTNxX1BZblJLMmNpS1M4QVFQdUxQNWg0bGhrTTZ2YTVIcjMwaWZkZ19SU2poTURicmhNcHpidndBMjQ?oc=5",
       "pub_date": 1788700865.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T22:44:13.731393+00:00"
+  "fetched_at": "2026-09-07T00:43:49.479155+00:00"
 }
