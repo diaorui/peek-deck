@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-06T22:44:19.774413+00:00'
+updated: '2026-09-07T00:43:54.949074+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 06, 2026 at 22:44 UTC  
+**Last Updated:** September 07, 2026 at 00:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +1.6%  
-**30d:** +30.6%  
-**90d:** +52.8%  
-**1y:** -42.0%  
+**24h:** +0.5%  
+**7d:** +4.0%  
+**30d:** +31.7%  
+**90d:** +55.3%  
+**1y:** -41.6%  
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 Bitmine, a Nasdaq-listed treasury company, increased its Ethereum holdings by 53,501 ETH through August 30, raising its total disclosed treasury to 5.9 million ETH. The company has staked over 5.06 million ETH at an annualized yield of 2.67%, generating significant staking rewards that could produce about 135,000 ETH annually, nearly covering the gap to its 5% ownership target of the total ETH supply. Additionally, on September 1, Bitmine reportedly purchased another 51,000 ETH, potentially bringing its holdings closer to 5.95 million ETH and reducing the shortfall to about 83,000 tokens. This expansion, combined with staking rewards, positions Bitmine to reach its goal without needing to buy all tokens outright. Meanwhile, Bitmine chairman Tom Lee linked future crypto adoption to clearer U.S. regulation, highlighting the potential impact of the CLARITY Act on institutional investment.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
@@ -164,7 +164,7 @@ Pluang • 1h ago
 
 Ethereum is trading in a range between $2,350 and $2,560, with buyers defending the lower boundary near $2,380. The price needs to break and sustain above the $2,545 to $2,567 resistance band to confirm a bullish trend and target $2,750. Whale activity has faded, and normal-sized trades dominate, causing choppy price action without clear direction. A break below $2,358 would weaken the bullish setup and could lead to a correction toward support levels between $2,179 and $2,367.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
@@ -172,7 +172,7 @@ Pluang • 1h ago
 
 Ethereum experienced a strong rally in Q3 2026, rising about 66%, fueled by over $10 billion in ETF inflows, $15 billion in corporate ETH purchases, and a revival in DeFi activity. Robinhood Chain, an Ethereum Layer-2 network launched in July 2026, unexpectedly saw meme coins dominate its trading volume, with its flagship token CASHCAT reaching a market cap of around $220 million. This surge in meme coin interest on Robinhood Chain highlights growing retail investor enthusiasm, contributing to Ethereum's broader momentum alongside Bitcoin's rise. The DeFi sector's total value locked hit approximately $88 billion, signaling robust activity and potential for continued growth.
 
-Pluang • 1h ago
+Pluang • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Pluang • 1h ago
 
 Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an i…
 
-tradingview.com • 1d ago
+TradingView • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ tradingview.com • 1d ago
 
 This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
 
-fool.com • 1d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ fool.com • 1d ago
 
 EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,
 
-Crypto Briefing • 23h ago
+Crypto Briefing • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 705 • 💬 224 • ⏱️ 36:55 • 13h ago
+👁️ 11K • 👍 705 • 💬 224 • ⏱️ 36:55 • 15h ago
 
 ---
 
@@ -262,7 +262,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 274 • 💬 58 • ⏱️ 18:18 • 18h ago
+👁️ 12K • 👍 274 • 💬 58 • ⏱️ 18:18 • 20h ago
 
 ---
 
@@ -292,7 +292,7 @@ Ethereum is dominating crypto right now, but I lay out why that may not translat
 
 📺 Jerry Banfield Crypto Reviews
 
-👁️ 1K • 👍 51 • 💬 51 • ⏱️ 20:29 • 18h ago
+👁️ 1K • 👍 51 • 💬 51 • ⏱️ 20:29 • 20h ago
 
 ---
 
@@ -302,7 +302,7 @@ Is Bitcoin preparing for its next move? Ethereum and Solana may hold the clues. 
 
 📺 YaBoySkey
 
-👁️ 916 • 👍 41 • 💬 8 • ⏱️ 9:20 • 19h ago
+👁️ 916 • 👍 41 • 💬 8 • ⏱️ 9:20 • 21h ago
 
 ---
 
@@ -312,7 +312,7 @@ The Ethereum protocol is going through significant changes. Security and decentr
 
 📺 The Crypto Vault
 
-👁️ 882 • 👍 32 • 💬 14 • ⏱️ 34:16 • 6h ago
+👁️ 882 • 👍 32 • 💬 14 • ⏱️ 34:16 • 8h ago
 
 ---
 
@@ -332,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 490 • 👍 26 • 💬 1 • ⏱️ 5:26 • 12h ago
+👁️ 490 • 👍 26 • 💬 1 • ⏱️ 5:26 • 14h ago
 
 ---
 
