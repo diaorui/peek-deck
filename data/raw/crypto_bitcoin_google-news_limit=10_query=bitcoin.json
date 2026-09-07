@@ -5,6 +5,26 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
+      "pub_date": 1788753900.0,
+      "article_url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
+      "pub_date": 1788775266.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -15,64 +35,34 @@
       "description": null
     },
     {
-      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
-      "pub_date": 1788752592.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU9EVnRoU1lOd2RlUjJOZWNQaHd2SFY3aGxxTVNzZlZqaFR4OTJaeW1uTkl1cWxlei10OEtPTjBvQnIxRHFmdWtEZ1FCU1kxLTVTakFaajNNV3VMZVdHR0EzNlZDd3h5VHB0Z0Q1MTAzRXBMWGl4OU14T0lCTVB3NVcwNVZRM0NXbzJaeVpLODJTM1FoRzlKbWtldjNlZUFXZl9oYnQ2RkVHOTdJUWRpWDQ3Ymg0bzNpVEZiS2tFMWE3SnFvMkMtRGRlcjE4S01GN29McUN3?oc=5",
-      "pub_date": 1788729276.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
-      "image": "https://www.tbstat.com/wp/uploads/2023/08/20230731_Liquidity_News-1-1200x675.jpg",
-      "description": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible."
-    },
-    {
-      "headline": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures \u2014 facility operated for years under a city stop-work order",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSG14V0NNdFlOUlVMVHFSVzBENmRiMnVtZGtIb2VxX3lYYU5DeGNLYy1YeGJYN0dGN1JaMU9MVHhnaUtnRlJkSmIyMzZsZkVXU2toTjdaOWU4ZlY3dVd0ODMtRC1UdzdIeEhiVzFIUWhKVnZTVWpVVGo4c1N1S0V1RWpGejNQSXk3SnEwbmR2U0M3ODJmUnpPZ2l3eEhhaUVpUEJfX09ScWhFTldqbVpqR0hGUDZieXdnLURfZ1JtcmZRREtfd1NMY2VuQkJrNnRoQV9xQWpra3VpUklxWHYtb3k2OHg2MTRaZWJhOVhUSXBfY0J0S084Rm9fd2RmMzBVUHFBNnR0b3JURzhiSm5XZGstS0ZlWWxWWW1KdFQ5OGJJRDE3VlRYVkZRZ0puUFpLaWQ0YV9SbU1ONnJSSmhF?oc=5",
-      "pub_date": 1788702262.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
-      "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg",
-      "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens."
-    },
-    {
-      "headline": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhva1d0azF0YnpuUGp4a29LX1lRVTktRUd3YWR6RENBanhpWWpEakFjUHd5VWtnQ0t6X0ZpS2lNQzJJTGJrUThkSXJubXFRU3VYeFNuVlFaMkwtbTVvZEdhdzdKVy1wODdEUUFEdXJHeUNlUF85b0Rza1VGeHA5ZWF4U3VtZDFGYjFmRVNlTDNQQTl2OG1LMFRXakI?oc=5",
-      "pub_date": 1788757080.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/aca1feefeaf337909f91a5d2a327099115ec907462f02e22133cdcfe3927b33c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F938a7b54d371d53838e8ca8d4d869a16.png",
-      "description": "Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board."
-    },
-    {
-      "headline": "#imfsayselsalvadorbtcnopublicfunds Community Insights & Market Sentiment | Binance Square",
+      "headline": "Bitcoin News: Bitcoin Holds $79,000 as Hike Odds Reach 58% and Zcash Runs 45% in a Week",
       "source": "Binance",
       "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTVVaHRYTmpjLTZYVW5nRDd2b05WUFZwLVF4cWtKUi1qTkFhcVJ5SGY4S3JqVjR5OWZoXzc1am5ZblN5cXZCLUxwdHdseXdaTFV3Z09wUzBkbXZxLVRtWG1JeTR1b21MOWUtR0xqc3A3cG5Tb3Y4RW1RcFJWbkhEdkdhaXQ?oc=5",
-      "pub_date": 1788758689.0,
-      "article_url": "https://www.binance.com/en-TR/square/hashtag/IMFSaysElSalvadorBTCNoPublicFunds",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaHAtVzJibEVUcVBaSU5fdXJPeV9zMUthSHl4azhaMkozUW9wU3dNLWFqWklRRnhlNzdJaExqdmJqUkpqdy1feGhkTTUyR0ZuTldTQjV5bHNVT29vcUhqRk5NTDc?oc=5",
+      "pub_date": 1788777906.0,
+      "article_url": "https://www.binance.com/en/square/post/364079950022688",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkZHbVpNNWE0dElBM3k5cVVMR3FPd2hJODRsVlZjS1FwX3M2UlczV1ZWV3ljc2dzOFYxODRHei1LY2hQRzA4UUNGanluVjI4WFBubkJOSzFWUFNDUFdjaV9WVVV5VHZTdmhWRkhQMDVpVnZ1N2tvT2IwZGctRWp4NXh6N3lRWFdaRGc?oc=5",
-      "pub_date": 1788755520.0,
-      "article_url": "https://ca.finance.yahoo.com/news/bitcoin-based-liquid-network-says-043242720.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ac0aecd8af5de72682740e8ebc578cd7f2a72397a75fb57c99e769fe37124f3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.ca%2F01c5d0ef06e47248af962c82df8fb147.jpg",
-      "description": "Sept 6 (Reuters) - Liquid Network, a Bitcoin-based payments and settlement network, said on Sunday that about $320 million was withdrawn from its federation wallet in a hack."
+      "headline": "Will AI Crash Bitcoin 50%? Vitalik Buterin Weighs In",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmNUZ2tJOGZFc2ZhLXM3d0ZlV3hPVWlUeXNmMDdYLVBobU5QSGh6N19FQWUzVUxlX2NYQjhiQ1NDTUEweEEwckhGRkNtUEw5bDhaeWxfYXdXSi1GbzVfQ3JwNmt4UUNQQVJ5LXk2SGdJbm5VQzJNd0puQVlkc0Z4Y19JTzZwVHlsUWIxd3pVaTN3aFdZZGZJ?oc=5",
+      "pub_date": 1788778288.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-crash-bitcoin-50-vitalik-105128526.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/095b2743a588f13a42b0922ddb020c1b8aa01310b6aeab421153ada2a658f996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F592a2f29ec2e74abfb039241be65a732.jpg",
+      "description": "Vitalik Buterin rejects a 50% AI-driven Bitcoin crash call and says 90% of his net worth already takes the opposite side."
+    },
+    {
+      "headline": "US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGFmRXJBdzJYVXVNaWc0c2tmdGc4bXdmSW1sZDhYc3NZbnJfOFhKUEF2elJEZEwyX05xRFU4YkM1UjA0QWw2azllZEF1UGdlcFhOUnotQk1QXzdoMy1rb3AwVFdNeGpLSG4wUjdFYzRCZzNLQ2xzNzFfekdtWHpHTUw5bWhlam5MQlU4aXh3?oc=5",
+      "pub_date": 1788778035.0,
+      "article_url": "https://finance.yahoo.com/economy/policy/articles/us-adds-162-000-jobs-104715981.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fc003f9ba12ed338c75034b41629ee91f4081ab854bb08b5885c214aec32f82c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F14833f8467b03bd94dc8146ed7bc532f.png",
+      "description": "The US added 162,000 jobs in August, roughly triple expectations, while unemployment remained unchanged at 4.1%. The surprise pushed the estimated probability of a September ..."
     },
     {
       "headline": "Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell",
@@ -85,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjNQVF9uQ2M2bEoyMFNCcTdKTFVkUGI0d1hvdlFJMjNmSmpIU0FyY19VS0NLWmZkVmVQd3ZLRnBuOVZ3OF9pYXExM3ZCekNxVmd2bDk2bFVWSGFUeF84YWFjMGowUDE1enNMdUVzT29TakIyZmhiUlJrY3FWMGh0dlNWS2tZUXdRZldxNkV5MlZtb2JId1ZaMnUyeGR5enJaM0hjWENlYkEteWtDZ0l0WU9BeEpfbjFjNmVuaVN0emFjWkdFRXdMeDhtX2U?oc=5",
-      "pub_date": 1788631511.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures \u2014 facility operated for years under a city stop-work order",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSG14V0NNdFlOUlVMVHFSVzBENmRiMnVtZGtIb2VxX3lYYU5DeGNLYy1YeGJYN0dGN1JaMU9MVHhnaUtnRlJkSmIyMzZsZkVXU2toTjdaOWU4ZlY3dVd0ODMtRC1UdzdIeEhiVzFIUWhKVnZTVWpVVGo4c1N1S0V1RWpGejNQSXk3SnEwbmR2U0M3ODJmUnpPZ2l3eEhhaUVpUEJfX09ScWhFTldqbVpqR0hGUDZieXdnLURfZ1JtcmZRREtfd1NMY2VuQkJrNnRoQV9xQWpra3VpUklxWHYtb3k2OHg2MTRaZWJhOVhUSXBfY0J0S084Rm9fd2RmMzBVUHFBNnR0b3JURzhiSm5XZGstS0ZlWWxWWW1KdFQ5OGJJRDE3VlRYVkZRZ0puUFpLaWQ0YV9SbU1ONnJSSmhF?oc=5",
+      "pub_date": 1788702262.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
+      "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg",
+      "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens."
     },
     {
       "headline": "\u2018Like Buying Bitcoin In 2013\u2019\u2014Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted",
@@ -103,8 +93,18 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Hyperscale Data Center in Dowagiac stops bitcoin mining operations",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnLSAbABQVVfeXFMTXFRcXRQMC02YkxqaTNPdXlVU3piU1c2Ny01WEZMeEl0VmpKclo1VWdyQmxTUDZOMG9XWk1FWE1KRk14TmQwbWJ5MU9NYV9DbVZxRnY5a3RDYURRczQzTTB4M2JQLTNLeVZKRTF2WWZ1emRwemRFTHZ5eWxwNVdCaE9ZeWpOeGNVWko2R3ZxS1M2OWJWUzM0My1qeVloQVgyQ1hod0ozWlZRblZxRHFmVUw?oc=5",
+      "pub_date": 1788646980.0,
+      "article_url": "https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/G3TH5UECYRH6NLHFPLKFZYXN6E.png?auth=8d038e9d7e6ec81eea37503ccc49127c0bfbe6546cebfad3497e3c1543530f89&width=1200&height=600&smart=true",
+      "description": "Bitcoin mining ceased operations on Sept. 2."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T05:44:58.550484+00:00"
+  "fetched_at": "2026-09-07T11:45:41.332678+00:00"
 }

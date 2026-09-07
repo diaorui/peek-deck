@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T05:44:59.942359+00:00'
+updated: '2026-09-07T11:45:51.642459+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 05:44 UTC  
+**Last Updated:** September 07, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-13h ago
+19h ago
 
 ---
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-12h ago
+18h ago
 
 ---
 
@@ -56,7 +56,7 @@ Progress on my custom hexapod project over the past few months. In the first few
 
 Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studied optimal control for robot manipulators during my bachelor's and researched reinforcement learning during my master's. Recently, I have been working on transferring simulation-trained RL policies to a real-world robot manipulator (i.e., FR3). I have seen different choices for a robotic agent's action space in machine learning. I think there is not a promising design of the action space, since each choice has advantages and drawbacks. So, I trained an RL agent in simulation (Isaac Sim) with a Cartesian delta action space, which outputs the end-effector's desired Cartesian pose at the next control step based on the robot's world frame. This is the page where the problem begins. I use DifferentialIKController in Isaac Lab for the low-level controller, which maps the delta pose action to the desired joint positions. In Isaac Sim, the desired joint position is controlled by the internal physics engine and a PD control law that computes target joint torques. In a real-world setup, there is no physics engine or plug-and-play low-level controller. You should implement the low-level controller that maps the delta pose actions to joint torque and position commands for the robot's API (e.g., franka_ros2's ROS2 control plugins). Moreover, a safety-violation monitor should be implemented by us to prevent hardware failures. In contrast to simulation, real-world robots are highly sensitive to safety constraints; for instance, collision detection and joint limits. Currently, I have implemented a custom C++ controller that takes Cartesian delta pose commands via the ROS2 topic and computes desired joint torques based on the robot's kinematics and dynamics. However, implementing a safety monitor remains a problem. As another strategy, I have been thinking about using ROS2's MoveIt packages for sending delta commands and monitoring task-space safety violations, which may cost wall-clock time compared to the vanilla C++ controller. How do you guys work on a real-world robot learning setup? I want to hear from you about conducting real-world robot manipulation experiments with neural policies (e.g., BC or RL).
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 **[Special news Ortomi Robot diy code given in github](https://www.reddit.com/r/robotics/comments/1w8qg8m/special_news_ortomi_robot_diy_code_given_in_github/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ This has been my project over the summer. Finally got it to walk after many prot
 
 I want to build the arctos for experimenting with simple automation. Is the arctos 4 open loop kit with all the hardware (except 3d printed parts) a good / fair deal when comparing to gathering all components seperatly? I am still fairly unfamiliary with how much all of these seperate bearings etc. cost, and aliexpress lists 20 different version with huge variations in price.
 
-22h ago
+1d ago
 
 ---
 
@@ -114,7 +114,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-Futurism • 1d ago
+Futurism • 2d ago
 
 ---
 
@@ -122,7 +122,35 @@ Futurism • 1d ago
 
 Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
 
-interestingengineering.com • 2d ago
+Interesting Engineering • 2d ago
+
+---
+
+**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
+
+Reuters • 5h ago
+
+---
+
+**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
+
+South China Morning Post • 9h ago
+
+---
+
+**[Why humanoid robots won’t catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)**
+
+A deep dive into the current state of humanoid robotics.
+
+understandingai.org • 5d ago
+
+---
+
+**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
+
+Remote-control robot bugs could deliver lifesaving aid to disaster victims
+
+spectrum.ieee.org • 1d ago
 
 ---
 
@@ -130,15 +158,15 @@ interestingengineering.com • 2d ago
 
 Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
 
-The Telegraph • 1d ago
+The Telegraph • 2d ago
 
 ---
 
-**[New facility coming to metro Atlanta, bringing 140 jobs and high-tech robotics](https://www.wsbtv.com/news/local/new-facility-coming-metro-atlanta-bringing-140-jobs-high-tech-robotics/GSRZY5V3GVA2PFGODG6TPATK5U/)**
+**[These Light-Powered Robots Can Keep Jumping Forever](https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/)**
 
-The warehouse will be built around automation, including robotic conveyance and planned AI-powered robotics.
+A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
 
-WSB-TV • 5h ago
+SciTechDaily • 21h ago
 
 ---
 
@@ -150,39 +178,11 @@ BBC • 3d ago
 
 ---
 
-**[These Light-Powered Robots Can Keep Jumping Forever](https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-SciTechDaily • 15h ago
-
----
-
-**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
-
-Remote-control robot bugs could deliver lifesaving aid to disaster victims
-
-IEEE Spectrum • 1d ago
-
----
-
-**[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
-
-MarketWatch • 1d ago
-
----
-
-**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
-
-South China Morning Post • 3h ago
-
----
-
-**[The 5 Best Humanoid Robots Of IFA 2026](https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/)**
-
-Humanoid robots were the order of the day at IFA 2026, and BGR's own José Adorno was on hand to take a look at several of them up close and personal.
-
-bgr.com • 10h ago
+ABC7 Chicago • 2d ago
 
 ---
 
@@ -196,17 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 437K • 👍 8K • 💬 654 • ⏱️ 15:41 • 4d ago
-
----
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 232K • 👍 4K • 💬 1K • ⏱️ 1:39 • 5d ago
+👁️ 446K • 👍 8K • 💬 666 • ⏱️ 15:41 • 4d ago
 
 ---
 
@@ -216,47 +206,7 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 71K • 👍 1K • 💬 218 • ⏱️ 19:28 • 5d ago
-
----
-
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
-
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 224K • 👍 2K • 💬 143 • ⏱️ 0:58 • 5d ago
-
----
-
-**[This 800-Year-Old Robot Served Water and Towels! 🤖💧 #shorts #viral](https://www.youtube.com/watch?v=vhXCmVALeLk)**
-
-This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling a lever and having a mechanical servant ...
-
-📺 ClayTaan Shorts
-
-👁️ 16K • 👍 420 • 💬 11 • ⏱️ 0:45 • 10h ago
-
----
-
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
-
-📺 Julia McCoy
-
-👁️ 75K • 👍 610 • 💬 130 • ⏱️ 9:07 • 3d ago
-
----
-
-**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
-
-Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
-
-📺 Jason Lowe on AI
-
-👁️ 4K • 👍 315 • 💬 23 • ⏱️ 2:08 • 11h ago
+👁️ 72K • 👍 1K • 💬 223 • ⏱️ 19:28 • 5d ago
 
 ---
 
@@ -266,7 +216,57 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 251K • 👍 2K • 💬 572 • ⏱️ 1:44 • 3d ago
+👁️ 262K • 👍 2K • 💬 586 • ⏱️ 1:44 • 3d ago
+
+---
+
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+
+📺 Associated Press
+
+👁️ 235K • 👍 4K • 💬 1K • ⏱️ 1:39 • 5d ago
+
+---
+
+**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
+
+Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
+
+📺 Jason Lowe on AI
+
+👁️ 5K • 👍 369 • 💬 23 • ⏱️ 2:08 • 17h ago
+
+---
+
+**[This 800-Year-Old Robot Served Water and Towels! 🤖💧 #shorts #viral](https://www.youtube.com/watch?v=vhXCmVALeLk)**
+
+This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling a lever and having a mechanical servant ...
+
+📺 ClayTaan Shorts
+
+👁️ 30K • 👍 696 • 💬 18 • ⏱️ 0:45 • 16h ago
+
+---
+
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+
+📺 Julia McCoy
+
+👁️ 75K • 👍 610 • 💬 129 • ⏱️ 9:07 • 3d ago
+
+---
+
+**[Humanoid Robots playing football #humanoidrobot #robot #robots #robotics #robotgame #robotic #tech](https://www.youtube.com/watch?v=QPy_DzkZbwM)**
+
+Humanoid Robots learning how to play football. so far it's adorable play by robots.
+
+📺 Code by Nadiia
+
+👁️ 5K • 👍 47 • ⏱️ 0:15 • 7h ago
 
 ---
 
@@ -276,17 +276,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 173K • 👍 1K • 💬 388 • ⏱️ 3:47 • 3d ago
+👁️ 178K • 👍 1K • 💬 399 • ⏱️ 3:47 • 4d ago
 
 ---
 
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
 
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
 
-📺 Carros Show
+📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 49K • 👍 343 • 💬 57 • ⏱️ 19:36 • 6d ago
+👁️ 228K • 👍 2K • 💬 144 • ⏱️ 0:58 • 5d ago
 
 ---
 
