@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-07T17:23:30.241545+00:00'
+updated: '2026-09-07T20:43:32.442228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
+- videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 17:23 UTC  
+**Last Updated:** September 07, 2026 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,478.45
+### $2,492.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +2.9%  
-**30d:** +30.4%  
-**90d:** +53.6%  
-**1y:** -42.3%  
+**24h:** -0.6%  
+**7d:** +3.0%  
+**30d:** +30.5%  
+**90d:** +53.7%  
+**1y:** -42.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.91B
+**Market Cap:** $303.98B
 Rank #2
 
 **Circulating Supply:** 122,026,782 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.6%
 
 **All-Time Low:** $0.43
-+575147.3%
++575237.4%
 
 ---
 
@@ -120,7 +120,7 @@ My company performs wealth verifications as part of our user entitlements/verifi
 
 Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
 
-🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 4d ago
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 5d ago
 
 ---
 
@@ -152,9 +152,31 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
+**[Latina Language Model (Ethereum) Price Today | Live LLM Price, Chart & Market Data](https://www.binance.com/en-PH/price/latina-language-model-ethereum)**
+
+Binance • 1h ago
+
+---
+
+**[Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html)**
+
+Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET.
+
+Yahoo Finance • 6h ago
+
+---
+
 **[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
 
-coindesk.com • 3h ago
+CoinDesk • 6h ago
+
+---
+
+**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/)**
+
+Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
+
+fool.com • 2d ago
 
 ---
 
@@ -162,7 +184,7 @@ coindesk.com • 3h ago
 
 Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
 
-TradingView • 6h ago
+TradingView • 9h ago
 
 ---
 
@@ -170,7 +192,7 @@ TradingView • 6h ago
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 14h ago
+The Block • 18h ago
 
 ---
 
@@ -178,7 +200,7 @@ The Block • 14h ago
 
 The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance.
 
-CryptoSlate • 5h ago
+CryptoSlate • 8h ago
 
 ---
 
@@ -186,7 +208,7 @@ CryptoSlate • 5h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
 
-FXStreet • 14h ago
+FXStreet • 17h ago
 
 ---
 
@@ -194,35 +216,13 @@ FXStreet • 14h ago
 
 MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
 
-markets.businessinsider.com • 15h ago
-
----
-
-**[Ethereum Foundation Grades 62 EIPs for Hegotá Upgrade](https://blockchain.news/news/ethereum-hegota-eip-tier-list)**
-
-Ethereum Foundation's Protocol Cluster releases unified EIP tier list for Hegotá upgrade, highlighting priorities like decentralization and security.
-
-blockchain.news • 36m ago
+markets.businessinsider.com • 18h ago
 
 ---
 
 **[Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision](https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/)**
 
-CCN.com • 7h ago
-
----
-
-**[New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees](https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/)**
-
-A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security.
-
-BeInCrypto • 1d ago
-
----
-
-**[Vitalik Buterin has blunt response to AI crashing Bitcoin](https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin)**
-
-thestreet.com • 1h ago
+CCN.com • 10h ago
 
 ---
 
@@ -230,23 +230,23 @@ thestreet.com • 1h ago
 
 ## YouTube Videos: "ethereum"
 
-**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 9K • 👍 419 • 💬 33 • ⏱️ 3:29 • 6h ago
-
----
-
 **[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 636 • 👍 53 • 💬 46 • ⏱️ 18:40 • 1h ago
+👁️ 7K • 👍 275 • 💬 49 • ⏱️ 18:40 • 4h ago
+
+---
+
+**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 12K • 👍 477 • 💬 44 • ⏱️ 3:29 • 9h ago
 
 ---
 
@@ -256,17 +256,7 @@ BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 15K • 👍 369 • 💬 422 • ⏱️ 20:24 • 15h ago
-
----
-
-**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
-
-Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
-
-📺 No Bs Crypto
-
-👁️ 17K • 👍 432 • 💬 49 • ⏱️ 19:02 • 1d ago
+👁️ 17K • 👍 382 • 💬 507 • ⏱️ 20:24 • 19h ago
 
 ---
 
@@ -276,7 +266,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 318 • 💬 60 • ⏱️ 18:18 • 1d ago
+👁️ 18K • 👍 328 • 💬 54 • ⏱️ 18:18 • 1d ago
 
 ---
 
@@ -286,7 +276,7 @@ I have a $400000 Ethereum position open right now with $68000 in unrealized prof
 
 📺 The Moon Show
 
-👁️ 9 • ⏱️ 0:44 • 23m ago
+👁️ 107 • 👍 7 • ⏱️ 0:44 • 3h ago
 
 ---
 
@@ -296,7 +286,17 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 765 • 💬 350 • ⏱️ 36:55 • 1d ago
+👁️ 14K • 👍 769 • 💬 344 • ⏱️ 36:55 • 1d ago
+
+---
+
+**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
+
+Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
+
+📺 No Bs Crypto
+
+👁️ 17K • 👍 437 • 💬 49 • ⏱️ 19:02 • 2d ago
 
 ---
 
@@ -306,17 +306,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 4K • 👍 140 • 💬 23 • ⏱️ 14:40 • 1d ago
-
----
-
-**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
-
-This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
-
-📺 Crypto Vlog
-
-👁️ 5K • 💬 37 • ⏱️ 0:48 • 18h ago
+👁️ 5K • 👍 143 • 💬 23 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -326,7 +316,17 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 16K • 👍 241 • 💬 142 • ⏱️ 13:53 • 2d ago
+👁️ 16K • 👍 244 • 💬 137 • ⏱️ 13:53 • 2d ago
+
+---
+
+**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
+
+This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
+
+📺 Crypto Vlog
+
+👁️ 5K • 💬 37 • ⏱️ 0:48 • 21h ago
 
 ---
 

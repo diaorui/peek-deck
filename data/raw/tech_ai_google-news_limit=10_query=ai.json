@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "An Alien Mind",
+      "source": "openai.com",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
+      "pub_date": 1788710986.0,
+      "article_url": "https://openai.com/index/an-alien-mind/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
+      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
       "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,44 +25,44 @@
       "description": null
     },
     {
-      "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
-      "pub_date": 1788783727.0,
-      "article_url": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
-      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet."
+      "headline": "Dating apps have been using AI longer than you think",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHUyNmVCZUtmOGVRQ3EtbG9BeVBxSWs2dEw1b3VhLTdrN0p1QzdFcTdzTkt3bzQ1a1d6TnV3OU5aT3V6cVgwaHJ4QWdOc0x3VjJjYzhhVHFybkh5RldxbmZxamhGR1BwQk8xT2hqVDQ4aDUwVThEcWVUNWhUUkpSbVFB?oc=5",
+      "pub_date": 1788811200.0,
+      "article_url": "https://www.yahoo.com/news/videos/dating-apps-using-ai-longer-200000308.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/47bebcad329d7e2b6a65923bf7bba2f0d9b1698ca370a9852360cf0e6241e634/lightyear_networkapi/resizefill_w1080_h1920%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpioneers_of_ai_985%2Fda37af097c8e1b0ddcb2feac9688fd55.jpg",
+      "description": "On Pioneers of AI, Will Wu, CTO of Match Group, reveals that AI has been quietly powering dating apps like Hinge and OkCupid for years, handling recommendations and trust and safety long before ChatGP..."
     },
     {
-      "headline": "OpenAI Chief Scientist Urges \u2018Extreme Caution\u2019 With Pace of AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5",
-      "pub_date": 1788797563.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+      "headline": "A growing movement wants AI out of schools",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnhTeWNtTWwxSkhEYThMcl9Eb2lQZ2VHUVpzTUxiQ0dnelUzVFgxNGJlMnJJeTNUSXl5dEJyUGV1cS0ySE9jVkVnYldCWFJUSWI1TlRVNkNDYl9reDQ2MkZuRHF1Z3VJRnBfaUlLcFRxamxZd0ozaEZ4emFicVFFeUpsZTA?oc=5",
+      "pub_date": 1788775414.0,
+      "article_url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
       "image": null,
       "description": null
     },
     {
-      "headline": "An Alien Mind",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
-      "pub_date": 1788710986.0,
-      "article_url": "https://openai.com/index/an-alien-mind/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
-      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+      "headline": "Law schools tell students to put AI away",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcmVFemlfWjV4RnZ0ei1zMlUwREpGeUZTYjVZVnNDdy1RTTlIT0tKRElKY1ZReTlqZlJGdks4dDZ6VXlTck9WWklqZUhGV2EwWkozZUc1ekdqMEIwYzdzRlVqQ2lNdXladXh1Y1dJWHc?oc=5",
+      "pub_date": 1788791860.0,
+      "article_url": "https://www.ft.com/content/8ddd3668-5858-45c3-b34f-a6bafc678187",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8f4b969-29f1-43d7-bef4-63e9a96cde3a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "The technology is being banned from certain classrooms to remove shortcuts that \u2018stunt intellectual growth\u2019"
     },
     {
-      "headline": "AI transcriptions are no time-saving measure for doctors",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXRaMGtERjluVzBJSjN3amJZTUdKX2M3aG96RFdpMU9YM0J3Q2ttckxpOEhhU3FlS19qczBWcUpiTEt1cTc2aEpraEdJenpobnFpZmY2T1Bkd05IWGRNcUhrMEhLNVp1dlpkTnBQTVpiUFBmcHB0b1BCNnQ5cFI3RWJqSlBxUl9wUWxzRW5ETlNIUGZEVGt5dWNDSTNJZThCaTEzcVh6aw?oc=5",
-      "pub_date": 1788799920.0,
-      "article_url": "https://www.theguardian.com/society/2026/sep/07/ai-transcriptions-are-no-time-saving-measure-for-doctors",
-      "image": "https://i.guim.co.uk/img/media/e6959b44e2069826fbda5ef736ffd06210e1e4e8/861_0_4307_3445/master/4307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2afedb0a67254ce55a919049e201cbe3",
-      "description": "Letters: Dr Mary Gibbs says there are a number of problems with AI, particularly its tendency to misunderstand, as Debbie Cameron can attest"
+      "headline": "Why Productive Struggle Still Matters In An Age Of AI",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRERkVVNLQlVVN0xOeUNSekRjTW05MFFyRlRpZGFBWG1aTUMtVDg1OHl5Y2RKS2t1WlFsTklVbldwV0NWellZVE0xSTJuWnlnbkVyVzM0SnE4dmtLZGNuMEFnakFPZUI5eEVDV2lWYXlhMHZuUGZNYktZZ2VJXzZfa0R2SXJtQzlFWWFkZ2tjNnU4ZWt0TnpnQnN3Nm0xRy1oaV9XYjVfVGhNYjhY?oc=5",
+      "pub_date": 1788813150.0,
+      "article_url": "https://www.forbes.com/sites/shannonmckeen/2026/09/07/why-productive-struggle-still-matters-in-an-age-of-ai/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
@@ -66,7 +76,7 @@
     },
     {
       "headline": "Trump, 80, Slips Into AI Fantasy in 37-Post Spree as His Troubles Spiral",
-      "source": "yahoo.com",
+      "source": "Yahoo",
       "source_url": "https://www.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzZFaXBJZUd3NVlwM2htVnZuM3FrTGhKN2pINUJIUHRJQjRaNG1xOUppT093OEZkNmJrdXdTbjJfVG5QaWRYMXdBejRKNUpkQ09JWGVjSTRsWWc2am1YWjFhT0dUV1J6UzdvTDZ1N3dLU3pEV1NiMk8wUFVuUmk3dXhEU1M1X2FqSUdSOVh3?oc=5",
       "pub_date": 1788737516.0,
@@ -75,36 +85,26 @@
       "description": "President Donald Trump escaped his real-world troubles Sunday by plunging headlong into AI fantasies as he unleashed a 37-post Truth Social barrage. The 80-year-old president, mired in bad polls and h..."
     },
     {
-      "headline": "Trump Faces Fresh Calls for Removal Over AI-Fueled Posting Frenzy",
-      "source": "The Daily Beast",
-      "source_url": "https://www.thedailybeast.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVNnVzNaQlJsVGlqdWVpWVBvM0IwQWV6WVNuQVBVTTN4NlcwdWZ5ZU9SbXBJNHdFTUFRdGt1YWhWUXlRMUxQaERabmNJdUJVeGszY3dXaGROcG9BbHYwb0tRMGduNFhhZTdUZzh2X2RDUTl4SHFmQUhjaVYxYjc0RmJIcG5aU1RpRG5ZdUd3LV9IMnVrMTRoemF0aXA?oc=5",
-      "pub_date": 1788786780.0,
-      "article_url": "https://www.thedailybeast.com/trump-faces-fresh-calls-for-removal-over-ai-fueled-posting-frenzy/",
-      "image": "https://www.thedailybeast.com/resizer/v2/WYKNAOQ6RVE5ZAR7I44DILJ5E4.JPG?smart=true&auth=a3f0e8cb1c49208754d480ec01eb8fb6111fd407c2a4d951d3afc53db46be640&width=1200&height=630",
-      "description": "The president posted concerning social media slop throughout Sunday."
+      "headline": "Trump posts images of annexing two countries, renaming a state and claiming ownership of the moon",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNXVrTWZ1d19QX0VRT1lvOVNxWEkxVDBEM3phZmhGZHZjdGM2dHNETFRVYzlqVlRGYWJTcmNXSW9IcExPMi0xUHZnYWpneDhLZl9RN25EMDhYY2VvdXdXVWl6cWtUZ0NLSmpETGpCUHJNbTVqYUFyWDhrNGxNQmN3YjdJMmtjektTOVY3RUJvak5KY0lPQ0xXUnBFZEpaTUkyQWlDTU1MSEp0WkhVeWIzWEgtczZUSlo3MFpmSUJTTEZCMU9ENUdURmMwazFnemZM?oc=5",
+      "pub_date": 1788807660.0,
+      "article_url": "https://nypost.com/2026/09/07/us-news/trump-posts-images-of-annexing-two-countries-renaming-a-state-and-claiming-ownership-of-the-moon/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140022380.jpg?quality=75&strip=all&w=1200",
+      "description": "President Trump is spending Labor Day flooding his Truth Social account with AI-generated images about conquering both the Earth and outer space alike."
     },
     {
-      "headline": "Opinion | The AI boom isn\u2019t like other bubbles",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLURGZFdua1psczRwd2ZWa2xMdUNmY0ZmbkNoUVRhVDRMZnN4cHpsZUQxMXZSaEFyZTVZci1peGk3RjNpWV9MRlJQT3hMUUdzczdkeG1XTzAxWmNRWExFMTh5c3QzM1E1VXNBVlk1TVMxQXdhUDhCTEc1aU9Dcmh2LWJoR0poNkhEeVVv?oc=5",
-      "pub_date": 1788797973.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/09/07/ai-boom-isnt-like-other-bubbles/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OJOTVRGOBEFTDRPSWOR7XRFTQQ.JPG&w=1440",
-      "description": "This investment mania diverges from the technology revolutions of the past."
-    },
-    {
-      "headline": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX1JmUTQwSGZBa1VzY1hHeHZXSEh2ODdCS3NYczRBYjNCSjNLdHRMYy16ajRsX2xZMTA4V0NsNURCbVEtR2pRWHZjSXB2bzRMSmloc0hzMlBTNUhoRDl0QjVwUmhOZ3NXekM3STV3VFVrWi1xUzMxUjJZM0hZTGRONXVmZTRSVXJsak1TWnVUX0pMdThHMnIwZDlmVG0wVXFpOWNFRXdwbjR5TWhxLUFSMXBIbHMwdWozMkNV0gHAAUFVX3lxTE9vTTVxRVhGWEthY1hSWDIwNURKR3dPcEJvNnNhczdZdlpVWThXb0JUSmdPelM0QUJraGJBZnlncko5bUVjRmg2ZU5pM1RQbmZjTTQ0aEhXSGkwUXVuMFhfSy1BZFVKNDdxX2tKVXZfMnBoeHFNMEFTVVBlSTJzV29BMWQybUh2VlgyVDVMLXRrczZkTzNFekg5ZnNFSTVBMmRJZzZ6LVFocjBLY0dNZUFrdHRyNWl0SkpHbm9tYnpOUw?oc=5",
-      "pub_date": 1788712641.0,
-      "article_url": "https://www.foxnews.com/politics/sanders-pushes-death-penalty-crucial-us-industry-critics-advantage-foreign-adversaries",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/bernie-sanders-standing-podium.jpg",
-      "description": "Progressives on Capitol Hill are pushing a proposal to ban artificial superintelligence, but critics warn the move could hand global tech dominance over to China and Russia."
+      "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BblBFT2pQREFFRkFVSmRWVkpsNzNYZWZzLVpzeXFJQlJ3eVlHUXEzd2o4dHo3TEJPNFFiVTBYVjBWRkNwZ2xwMGF0dFVHZ1lzTWtoSmxPeTJKQQ?oc=5",
+      "pub_date": 1788780627.0,
+      "article_url": "https://www.bbc.com/news/articles/c1wxppnrqlqo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T17:23:23.998825+00:00"
+  "fetched_at": "2026-09-07T20:43:26.056694+00:00"
 }
