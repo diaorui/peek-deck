@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHhEOWJQT01mRndJVDltUldXcUhRTHZCb0JMZUo0UFNlak5HQ2dJaGtjTERXcUhEbW42eng0Rjd0WEUyM0pKQlhqY3pGX3NObnJfX09YVFlEVzFnSVNYdmFlcWRIU3lYT2o1NFdPcjJrZHQ0Y1IwTDR4cm1lNUVZeGdHSFhsVWh0YzA2N1FnREdlVkNx?oc=5",
-      "pub_date": 1788602460.0,
-      "article_url": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/meta-deploying-robots-data-center-maintenance.jpg?quality=85&w=1200",
-      "description": "Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers."
-    },
-    {
       "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
       "source": "ABC7 Chicago",
       "source_url": "https://abc7chicago.com",
@@ -23,6 +13,16 @@
       "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
       "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
       "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+    },
+    {
+      "headline": "As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHhEOWJQT01mRndJVDltUldXcUhRTHZCb0JMZUo0UFNlak5HQ2dJaGtjTERXcUhEbW42eng0Rjd0WEUyM0pKQlhqY3pGX3NObnJfX09YVFlEVzFnSVNYdmFlcWRIU3lYT2o1NFdPcjJrZHQ0Y1IwTDR4cm1lNUVZeGdHSFhsVWh0YzA2N1FnREdlVkNx?oc=5",
+      "pub_date": 1788602460.0,
+      "article_url": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/meta-deploying-robots-data-center-maintenance.jpg?quality=85&w=1200",
+      "description": "Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers."
     },
     {
       "headline": "From dance floor to war: China readies humanoid robots for combat",
@@ -35,34 +35,24 @@
       "description": null
     },
     {
-      "headline": "China\u2019s EV makers see synergy in their race to beat Tesla in humanoid robotics",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?oc=5",
-      "pub_date": 1788746419.0,
-      "article_url": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why humanoid robots won\u2019t catch up to human workers any time soon",
-      "source": "understandingai.org",
-      "source_url": "https://www.understandingai.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rR3FKaDFHN2FsRGpicWVPeGFPSHhLUXBsWFlTaXdKbm9MTGNvYWpTbHM3bktPMmdac2tJVVQzcUFCVk5kczRBVm5Jc3cySXlDVEg5M05TMWw4UjdHMS1BTlRrdG02VkFXNm9lMU82QWtQdE94cUE?oc=5",
-      "pub_date": 1788267159.0,
-      "article_url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "image": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
-      "description": "A deep dive into the current state of humanoid robotics."
-    },
-    {
       "headline": "Robots protest rampant AI in Poland",
-      "source": "uk.finance.yahoo.com",
+      "source": "Yahoo Finance UK",
       "source_url": "https://uk.finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
       "pub_date": 1788794013.0,
       "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
       "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
       "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
+    },
+    {
+      "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
+      "pub_date": 1788787666.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
+      "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
       "headline": "Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026",
@@ -85,12 +75,12 @@
       "description": "A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves."
     },
     {
-      "headline": "Inside The European Factory Where Robots Are Building Robots",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVlSGVnM0VFaU42UGNpSk5jbC01OUo4LS1XZ09kVTNjdXg4S000VW1xZTdzTXhBTzZEclhRMU04MFE3bkROVXQ5NFd3bWJvR1I5TnczNlh0eUR1WFlqdEZ3dVVtZkI4UFVlMXF1VHhBaG1SVmQwSHU4MEFJX2ZRa3QzQzgyb0tGZDdCTDRiYzBSU1RCdm5icFl1eHNRLTJpZDlxWG8wbnJvZmRFLUpSTEdJVmo?oc=5",
-      "pub_date": 1788802874.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
+      "headline": "Humanoid robots could upend life as we know it \u2014 if only they had better brains",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2xqWmxtZV9NWUFpX3RHVmFfcERlVUpsNzBDMW8zRS12WVBDMHF3a2dScWp2SklzTGE2dHdBUVUwMkZDNEMwSzZScG1UMHNYUGI3TTJ6VTU3VGJqQ3hKNG1HVmxNV1RFOXNQWjdhZ1NxdVJ2LTF3ODhCdlFQekVFQTIzYUlQZGNjcy0zR1BLU0l3cE1wVnNQWmtoRTZTQl9pRERzbHJ5Y0VGWC1udk16NFFHWVd0NTJ0TUFQdA?oc=5",
+      "pub_date": 1788609600.0,
+      "article_url": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/",
       "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/09/04/TELEMMGLPICT000476324609_17885157987163_trans_NvBQzQNjv4BqdNLuJDSj-bduoIdVkVeVwf4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
       "description": "Hospitality bosses are reconsidering automation as labour costs surge \u2013 but will it work?"
+    },
+    {
+      "headline": "Inside The European Factory Where Robots Are Building Robots",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVlSGVnM0VFaU42UGNpSk5jbC01OUo4LS1XZ09kVTNjdXg4S000VW1xZTdzTXhBTzZEclhRMU04MFE3bkROVXQ5NFd3bWJvR1I5TnczNlh0eUR1WFlqdEZ3dVVtZkI4UFVlMXF1VHhBaG1SVmQwSHU4MEFJX2ZRa3QzQzgyb0tGZDdCTDRiYzBSU1RCdm5icFl1eHNRLTJpZDlxWG8wbnJvZmRFLUpSTEdJVmo?oc=5",
+      "pub_date": 1788802874.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T20:43:31.065545+00:00"
+  "fetched_at": "2026-09-07T23:18:29.300334+00:00"
 }

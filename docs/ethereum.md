@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-07T20:43:32.442228+00:00'
+updated: '2026-09-07T23:18:30.970248+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 20:43 UTC  
+**Last Updated:** September 07, 2026 at 23:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +3.0%  
-**30d:** +30.5%  
-**90d:** +53.7%  
-**1y:** -42.2%  
+**24h:** -1.1%  
+**7d:** +2.8%  
+**30d:** +30.2%  
+**90d:** +53.4%  
+**1y:** -42.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.98B
+**Market Cap:** $303.54B
 Rank #2
 
 **Circulating Supply:** 122,026,782 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.6%
+-49.7%
 
 **All-Time Low:** $0.43
-+575237.4%
++574424.4%
 
 ---
 
@@ -152,7 +152,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
-**[Latina Language Model (Ethereum) Price Today | Live LLM Price, Chart & Market Data](https://www.binance.com/en-PH/price/latina-language-model-ethereum)**
+**[CryptoPatel28(@Square-Creator-1e6bb63bbcc4a)'s insights](https://www.binance.com/en/square/post/364239604808830)**
 
 Binance • 1h ago
 
@@ -162,29 +162,21 @@ Binance • 1h ago
 
 Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
 
-CoinDesk • 6h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/)**
+**[EF Protocol: The Hegotá EIP Opinion Post and Tier List](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips)**
 
-Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
+The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
 
-fool.com • 2d ago
-
----
-
-**[Ethereum Price at a Turning Point — Bulls Target $2,800 After Range Breakout](https://www.tradingview.com/news/coinpedia:1b2dbf0c5094b:0-ethereum-price-at-a-turning-point-bulls-target-2-800-after-range-breakout/)**
-
-Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
-
-TradingView • 9h ago
+ethereum.org • 8h ago
 
 ---
 
@@ -192,15 +184,31 @@ TradingView • 9h ago
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 18h ago
+The Block • 20h ago
 
 ---
 
-**[Ethereum's Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen](https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/)**
+**[Ethereum Price at a Turning Point — Bulls Target $2,800 After Range Breakout](https://www.tradingview.com/news/coinpedia:1b2dbf0c5094b:0-ethereum-price-at-a-turning-point-bulls-target-2-800-after-range-breakout/)**
 
-The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance.
+Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
 
-CryptoSlate • 8h ago
+TradingView • 12h ago
+
+---
+
+**[Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.](https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/)**
+
+Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Ethereum arbitrage study reveals builders receive $5 for every $1 burned by the network](https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network/)**
+
+Bitquery’s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved.
+
+CryptoSlate • 2h ago
 
 ---
 
@@ -208,7 +216,7 @@ CryptoSlate • 8h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
 
-FXStreet • 17h ago
+FXStreet • 20h ago
 
 ---
 
@@ -216,13 +224,7 @@ FXStreet • 17h ago
 
 MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
 
-markets.businessinsider.com • 18h ago
-
----
-
-**[Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision](https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/)**
-
-CCN.com • 10h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -230,33 +232,13 @@ CCN.com • 10h ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 275 • 💬 49 • ⏱️ 18:40 • 4h ago
-
----
-
 **[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
 
 BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
 📺 The Moon Show
 
-👁️ 12K • 👍 477 • 💬 44 • ⏱️ 3:29 • 9h ago
-
----
-
-**[BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Wx60soTHgTU)**
-
-BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 17K • 👍 382 • 💬 507 • ⏱️ 20:24 • 19h ago
+👁️ 14K • 👍 492 • 💬 46 • ⏱️ 3:29 • 12h ago
 
 ---
 
@@ -266,37 +248,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 328 • 💬 54 • ⏱️ 18:18 • 1d ago
+👁️ 18K • 👍 331 • 💬 57 • ⏱️ 18:18 • 1d ago
 
 ---
 
-**[I HAVE $68,000 IN UNREALIZED ETHEREUM PROFIT !!!!](https://www.youtube.com/watch?v=GUR4tQoH_B0)**
+**[Ethereum Consolidation Is Creating a Surprising Bullish Setup](https://www.youtube.com/watch?v=v4iApLZO-gw)**
 
-I have a $400000 Ethereum position open right now with $68000 in unrealized profits and $43000 already realized.
+Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
 
-📺 The Moon Show
+📺 Trade Confident
 
-👁️ 107 • 👍 7 • ⏱️ 0:44 • 3h ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
-
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 769 • 💬 344 • ⏱️ 36:55 • 1d ago
-
----
-
-**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
-
-Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
-
-📺 No Bs Crypto
-
-👁️ 17K • 👍 437 • 💬 49 • ⏱️ 19:02 • 2d ago
+👁️ 425 • 👍 15 • 💬 6 • ⏱️ 4:29 • 4h ago
 
 ---
 
@@ -306,7 +268,47 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 143 • 💬 23 • ⏱️ 14:40 • 1d ago
+👁️ 5K • 👍 144 • 💬 23 • ⏱️ 14:40 • 1d ago
+
+---
+
+**[BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Wx60soTHgTU)**
+
+BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 18K • 👍 388 • 💬 566 • ⏱️ 20:24 • 21h ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 14K • 👍 772 • 💬 341 • ⏱️ 36:55 • 1d ago
+
+---
+
+**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
+
+Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
+
+📺 No Bs Crypto
+
+👁️ 17K • 👍 441 • 💬 49 • ⏱️ 19:02 • 2d ago
+
+---
+
+**[&quot;This Is The Moment&quot;! Crypto Exiting A 5-Year Bear Market (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=DwQ4F_akaFo)**
+
+Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto is ...
+
+📺 Crypto Capital Venture
+
+👁️ 33K • 👍 784 • 💬 235 • ⏱️ 18:55 • 2d ago
 
 ---
 
@@ -316,7 +318,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 16K • 👍 244 • 💬 137 • ⏱️ 13:53 • 2d ago
+👁️ 16K • 👍 244 • 💬 143 • ⏱️ 13:53 • 2d ago
 
 ---
 
@@ -326,7 +328,7 @@ This video looks at Ethereum's current position within the broader cryptocurrenc
 
 📺 Crypto Vlog
 
-👁️ 5K • 💬 37 • ⏱️ 0:48 • 21h ago
+👁️ 5K • 💬 37 • ⏱️ 0:48 • 1d ago
 
 ---
 
