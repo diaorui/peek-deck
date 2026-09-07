@@ -36,7 +36,7 @@
     },
     {
       "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWtybkdPT3hVa0wySVZTcEEtcW1YdDgxWnFfNWR6bWxpXzhKaTc3RDR1YWFIVW1oRmhDMktkRTJCTEdFVlk2YVdKX1ZoNFcxRThQYjJSLV9jNV9tSTNtZkpGQnFCdGNCWExjTWJNdGVmaVhGX1NwT05nTC1kbnloNHp0VXRiNUYtLWVpcnFfTlBQc3F0LTBUd3VKc21qazY2dlZfdDRsTzc5bzhHREx3bEVPdHFtRUU5YlFxTlRGQkN1VVFaaFJqZ0NNNnFOOTFJOXVUSXNRa283SzFzaDREbVQwTlFYWUdP?oc=5",
       "pub_date": 1788620039.0,
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Where Will Solana Be in 5 Years?",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
       "pub_date": 1788573420.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-06T22:44:17.581768+00:00"
+  "fetched_at": "2026-09-07T00:43:49.645889+00:00"
 }
