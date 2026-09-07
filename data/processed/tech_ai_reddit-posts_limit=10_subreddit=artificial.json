@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "I took a ride in the hype train at first, but no, not AGI",
-      "author": "Firm-Club-8334",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
-      "published": 1788777936.0,
-      "thumbnail": "https://preview.redd.it/59ol4o43v2oh1.jpeg?width=640&crop=smart&auto=webp&s=9f65a1782a9a1ff7c23d99719de9223fe06ea1c9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
-    },
-    {
       "title": "Crazy times",
       "author": "KeanuRave100",
       "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I took a ride in the hype train at first, but no, not AGI",
+      "author": "Firm-Club-8334",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
+      "published": 1788777936.0,
+      "thumbnail": "https://preview.redd.it/59ol4o43v2oh1.jpeg?width=640&crop=smart&auto=webp&s=9f65a1782a9a1ff7c23d99719de9223fe06ea1c9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
     },
     {
       "title": "Musk Loses Bid To Block MN Law Against AI Child Porn",
@@ -46,15 +46,15 @@
       "description": "The idea of whether machines will dominate us is generally treated as a new one in current discussions on AI risk, since in 1863 Samuel Butler published a letter titled 'Darwin Among the Machines' which made an argument closely resembling the one in today's debate. He stated that the real danger was not that machines would gain control of power, but that people would find machines so useful that it would become practically impossible to get rid of them, so that by that stage the question of who was actually in charge would have already been answered \u2014 no matter who seemed to be in control. He said that a society which, in principle, could not destroy its machines had already \"created a race of beings towards whom it is beyond our power to destroy\" and had thus become \"acquiescent in our bondage.\" This is a quite different claim from the one that says 'superintelligence takes over'; it's similar to the sorts of arguments currently being made regarding algorithmic dependence, attention economy lock-in, and infrastructure that is too deeply embedded to be undone \u2014 arguments that can be applied to any technology that is sufficiently indispensable, not just to intelligent machines. The full letter, together with the historical background (it is also the immediate source of the \"Butlerian Jihad\" in Dune, a fact that most people are unaware of) can be found here: https://romaricjannel.substack.com/p/the-rise-of-mechanical-life I'm wondering if people here consider \"acquiescence through indispensability\" to be a real and separate risk category or whether it's just a rewording of dependence anxiety that appears each time a major technology is introduced."
     },
     {
-      "title": "NCSC warns that shadow AI can expose data and agent privileges",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/",
-      "published": 1788810150.0,
-      "thumbnail": null,
+      "title": "continuous diffusion for code generation in one step",
+      "author": "pengzhangzhi",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa6ouo/continuous_diffusion_for_code_generation_in_one/",
+      "published": 1788820501.0,
+      "thumbnail": "https://external-preview.redd.it/NnQycmN3eXFkNm9oMXIi0ff0UaswIwkGtDyURNWphwPNyh0Vm9zGQBOpvkmo.png?width=640&crop=smart&auto=webp&s=f90f6b785e3d12e8d9fbde36be9d022ee64b0aa6",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The UK's National Cyber Security Centre says employees using AI tools outside an organisation's approved systems can expose company or customer data and reduce the organisation's visibility and control over that information. It cites research saying 71% of employees use AI tools that their employer has not approved. The NCSC also warns that AI agents add another risk: if an agent has a vulnerability or bad configuration, an attacker may gain the same data, services, and privileges the agent can access. The practical point is less 'ban AI' and more 'make the approved path usable'. The NCSC says teams should understand why people use shadow AI, provide safer alternatives, and reduce the risk rather than assume it will disappear. Sources: https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai https://ukstories.microsoft.com/features/rise-in-shadow-ai-tools-raising-security-concerns-for-uk/"
+      "description": "Can language models write code in one step? Yes: make language continuous, use diffusion, then distill the trajectory to one step. Paper: https://arxiv.org/abs/2609.04531 Code: https://github.com/pengzhangzhi/plaidq"
     },
     {
       "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
@@ -66,6 +66,17 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Is Voice.ai good for real-time voice changing?",
+      "author": "Accomplished-Step660",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/",
+      "published": 1788813778.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I'm looking for an AI voice changer that works well in real time. I'm not really interested in simple effects like pitch shifting or autotuneI'd like something that can actually transform my voice into a completely different voice. Is voice.ai good for this? How is the latency and overall voice quality when using it in real time? Also, is the free version good enough or is it basically unusable without paying? Is voicemod better? Thanks!"
     },
     {
       "title": "Overly corrective, judgemental models: Grok, claude, chatgpt",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey guys. I am a GPT Plus user, and I use Freebuff a lot to execute my tasks for free, so I don't use up usage limits at all. Freebuff, if you don't know, is a desktop and CLI agent that gives u a bunch of models for free (DeepSeek V4 Flash, GLM 5.3 Flash, 5.6 Luna, Solar 4 Pro), and it is really good at executing tasks that you give it, imo. I searched for connectors or MCPs that connect to it so I can seamlessly integrate it with Luna or Terra as the planner and Freebuff as the implementer. There was nothing online, so I created my own MCP (https://github.com/Praket7/freebuff-mcp). If you guys could check it out, try it out, and let me know if I need to make any security changes or to make it work better, and if you guys could star and test it, I'd appreciate it. I am currently adding some more features, like ChatGPT or Claude being able to check live progress, but let me know if you would like something else or if it doesn't work. thanks!"
-    },
-    {
-      "title": "Tech explores Argentina's Patagonia for mega data centers",
-      "author": "Shot-Height-7194",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9prq6/tech_explores_argentinas_patagonia_for_mega_data/",
-      "published": 1788781147.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-09-07T20:43:05.799157+00:00"
+  "fetched_at": "2026-09-07T23:18:08.836710+00:00"
 }

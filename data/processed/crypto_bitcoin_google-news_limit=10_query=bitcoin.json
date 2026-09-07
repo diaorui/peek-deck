@@ -5,38 +5,28 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788776592.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
-      "image": null,
-      "description": null
+      "headline": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVCSTNiZ25oQVJISUxrQ3RFb0xHRW1ZTHB0c2ZFbVBVQ0d0YjVGcVFVWXhUY3lzaFlvVjZYaHFIZWVlLUQ5VVoxbmt6VkJhbk8tcUdiUEVNWHNZSk1wNmZLRGdtVDBBbjdFN2loeFd3OTFZcWZORTgxa2JXaDNuVVVIN3JOamhucjZGZmN5d2dEQXhVU0tza0R3Y3U5R1cxZGFNUQ?oc=5",
+      "pub_date": 1788822300.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-investment-firm-bernstein-230500774.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d476acb1633ff471cf9f4cabf941ae8ed10bc57efb8861d335d970e8b8d5dc95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd3fd825e80120ac859507f86e0c14d0d.jpg",
+      "description": "The next Bitcoin bull market cycle may have already started."
     },
     {
-      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
-      "pub_date": 1788753900.0,
-      "article_url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
-      "pub_date": 1788775266.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-      "image": null,
-      "description": null
+      "headline": "Hackers Return 85% of Stolen Bitcoin from Last Week\u2019s Bridge Attack",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1E2NEdrZjM3LXBfX1lFQUdxdmZkVGFDeHlzTDFjZmxxeWYtQzhZWWNEYkhtSTAyZ1Q2YUd3MGZBdEZxRFBwWWpXVVhsazNTZjVPRkZwc1pkU3I1cThpUHlJdUNUcjVSdmg0YUdrU01EUDhNMFBqdzNSejUxZlNvdjdQZXkxOVk5M21lZEVnck9mR3lKOF9nN3dfRTF5Zw?oc=5",
+      "pub_date": 1788819066.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/hackers-return-85-stolen-bitcoin-221106288.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/94db3d34e27ccdcd514d905af641d19508d1c3433b0b37a655368200783baec2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F0edc739ac17d2908b731297a99b99006.png",
+      "description": "The Liquid hackers returned 3,400 Bitcoin after Blockstream patched the bridge, but nearly 600 BTC stays with the attackers."
     },
     {
       "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "AP News",
+      "source": "apnews.com",
       "source_url": "https://apnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
       "pub_date": 1788781980.0,
@@ -46,7 +36,7 @@
     },
     {
       "headline": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
-      "source": "Fox News",
+      "source": "foxnews.com",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2REekdhZnNTdlBRSnF0T3Z6NFZkLUVjbEdGbURqSU1aSVh0S0YtV3AzQUNBZUdhUTh4aFJPRGhyMENYWXJZR0pjZm1WQmljMWk4OGppTGc5OHl4cjJyME9qdXVBRXhoMEJFQ1VUS09iRC1VLThtTUhkVE14VzY3MGZtWTEwTUZiZkEyZkVpQlJ1X3JzeTI40gGcAUFVX3lxTFBkcUNKanRCRS1wTW1xVnJYajFrRGt5bGphbUNEVHd4a2NFM3luSTJMUW1zRzZwM1RucGkzLWZKVW94dzVOekpjVzBHa3diemc4Rl9sTkN5X0pVS0xOMTVVM2lNN0tPcnBPclcwVDNuZk9GQVlVZTh4UzNnM2xSaVJEOUdRcU1BT3NlR2dtT0I3M25xMktncTVQdmpkVA?oc=5",
       "pub_date": 1788791258.0,
@@ -55,14 +45,14 @@
       "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions."
     },
     {
-      "headline": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2tfU0NfQnUzcXhCUkE3VVVLQ0doSTV4NmFLZ0VnQ2xsU1I1YTAyaUU3MVJQSkZSbkJrN2VYc1B6OHpsWHpTcWVwTGZYY2laZDFYNXNKcDg3TWNFaTNsQUtMck85TXlpanVvQUNvandRMEVQU2kwWENxWWhhbktEWDdWalBFXzFTd1I0?oc=5",
-      "pub_date": 1788802915.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/malone-lam-faces-plea-hearing-174155019.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8d7a79f6a440500736cf751b5116a153f18ad07122a9928486c4afdba7708bda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fede146224e8f05a94f335efc066b9556.png",
-      "description": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami."
+      "headline": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaklhUnRyUzJDemNDQTdPSlBIM3pnTFpTbWtjQUdWU3VMX0JhQ0Q5NE1BZ180OFdRMHBoY3Z0VW9QTGRKYURGdGJaeUdIQk1SRmpjcHh2anFOQU5EQnRzZjVtT1V6ZlUwdWxXZk4zNDZSOG14Z25EYmRzeXdJVGlDbU1MOERiWUwwYkU5WjB5cjAyR0J4VHFqcTBGaUhhZktnRzVDaS0wbTlRQ245TXRPV01SdzVodXFDd2hhdGZnMVZ0Z0RMUHk3ejhGTzlKX0pBQkZ4eFRtcXVLb00tbHBSWTlB?oc=5",
+      "pub_date": 1788802349.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:7ae3f0c1b094b:0-singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The oldest trick in the con artist's handbook, updated for the crypto age: call someone pretending to be from a trusted institution, create enough panic, and walk away with their life savings. In this case, the life savings happened to be more than 4,100 Bitcoin, worth over $240 million at the time\u2026"
     },
     {
       "headline": "Bitcoin (BTC) enters distribution as whales sell below $83,000",
@@ -71,16 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVA3cUNleWdLdHhORWdWLUZjenhTQm9XSG5uaDh4UWJVdWViS2tleFVFR01mMThTdk9fQnJiZFAtamROSlRaZ0lQQi1aUjJYR0x4TGhyRHMzdmoyZ1QzekVrZWV1ZFlmMlhYUzBMdENscHZfNjNuSEdrQloxX0V0TjhmSklfSEV1bVdfTWg4aVRjRmtFOVNPUmZoSmw1bDNUaGFUcUNwSThObVE?oc=5",
       "pub_date": 1788796235.0,
       "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnprUDVsZHdrT2xxU0FfaHRpN1lLZ3FNR0lzaEJsRVJQMFR3Vm85MWZrbjRNR1dtNzJIWFZlOUZPT3QwUTRzY2VuR214Rm9lWDVkYjRvR1NoRWd5dVRzdGhNYmJoQUthM3g1NkQwNzB1ZGhLUC1jeGo3enRvY1p2b0xTYUxlVWNsZTlWMFNmczlJWFhNb0dWM2dSM2F6VDBIaTR1ZFRYSVJHc01HdFNQUnd0MmI?oc=5",
-      "pub_date": 1788802203.0,
-      "article_url": "https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week",
       "image": null,
       "description": null
     },
@@ -95,16 +75,36 @@
       "description": "For years, the \"digital gold\" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall\u2026"
     },
     {
-      "headline": "Hyperliquid Strategies Soared by 94% in August. Should Investors Forget Bitcoin and Buy This Stock Instead?",
-      "source": "fool.com",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXpPTWI0N213NEp2VThxVUdQTXNJcUJIX3U4b3VOVHVkWXlvY1NEb1JVZ09kYnduVUh6SmRJQnFJbWNEQzhKSl9jS3Z0WER1WjhZUE5pdVVCaUJ1eFRlMUxMQjNpSHdXRG9IcUwxeW0yd25FZlBkMEtnY3dBdGtOaG1FUQ?oc=5",
-      "pub_date": 1788798130.0,
-      "article_url": "https://www.fool.com/investing/2026/09/07/hyperliquid-soared-by-94-in-august/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886094%2Fprofessional_smiling_while_holding_a_laptop.jpg&w=1200&op=resize",
-      "description": "Hyperliquid Strategies offers more upside than Bitcoin, but also more risk."
+      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
+      "pub_date": 1788813984.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Only Goes Up: What The 200W And 50W MAs Say About The Cycle Transition (BTC-USD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQld5a2hEOVVpdlFnTk1kVVdxWHVfWUN0U1d4Q0VlVDVaVm1WclQzSExzOVB0TS04TGU4cjhlOGxUM2tHanBJcGxGN05ISjJxdVpNVGs2TjYtNEZrLWIzZ3dPQVJCaXBSSmlLb1k3dDVCU18yTEZaTzlpVmxab05DVHJUcG9GdUNwejRPcWd0VGdJekxlVUNZWHpKUVhEelE0TWVwcUpUTXRGdw?oc=5",
+      "pub_date": 1788798420.0,
+      "article_url": "https://seekingalpha.com/article/4943587-bitcoin-only-goes-up-what-200w-50w-mas-say-about-cycle-transition",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230305298/image_2230305298.jpg?io=getty-c-w1536",
+      "description": "The 200W MA has historically marked Bitcoin\u2019s bear market floor, though reclaiming it alone does not confirm the bear market is over."
+    },
+    {
+      "headline": "Vitalik Buterin now confident AI won\u2019t break crypto, betting 90% of his net worth",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU13NTVwck1qbXo0cUNQd3VZdFNiU2NQODZqeGhYeUQ0UWQzRExjMS0zTVBBekQ1Ql9PN1lvYzM0aEcwbzJUVmNZTVF1SkxoUmVMRkVPd1JEaEEwWVhna21UbnJfRUVMamlod2tfX1BVNE9BMHBUYmRkNkdkRFpVb2YtYjJpVXZxbUtLT3FndHQtNWc4cXowNGJaM1F4Q1FfU2tnUW9n?oc=5",
+      "pub_date": 1788802240.0,
+      "article_url": "https://cryptoslate.com/vitalik-buterin-now-confident-ai-wont-break-crypto-betting-90-of-his-net-worth/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/vitalik-ai-crypto-shield.jpg",
+      "description": "Vitalik Buterin says AI is unlikely to break Bitcoin\u2019s foundations even as the industry prepares for more powerful cyberattacks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T20:43:24.826396+00:00"
+  "fetched_at": "2026-09-07T23:18:28.259260+00:00"
 }
