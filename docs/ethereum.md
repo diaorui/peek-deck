@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-07T11:45:51.640229+00:00'
+updated: '2026-09-07T17:23:30.241545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 11:45 UTC  
+**Last Updated:** September 07, 2026 at 17:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,489.53
+### $2,478.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +3.0%  
+**24h:** -0.2%  
+**7d:** +2.9%  
 **30d:** +30.4%  
-**90d:** +53.7%  
-**1y:** -42.2%  
+**90d:** +53.6%  
+**1y:** -42.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.94B
+**Market Cap:** $303.91B
 Rank #2
 
 **Circulating Supply:** 122,026,782 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.6%
 
 **All-Time Low:** $0.43
-+575158.8%
++575147.3%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 3d ago
 
 ---
 
@@ -96,7 +96,7 @@ Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 2d ago
+🔗 [youtu.be](https://youtu.be/zoee1T3ebYk) • 3d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-5d ago
+6d ago
 
 ---
 
@@ -152,11 +152,33 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
+**[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
+
+coindesk.com • 3h ago
+
+---
+
+**[Ethereum Price at a Turning Point — Bulls Target $2,800 After Range Breakout](https://www.tradingview.com/news/coinpedia:1b2dbf0c5094b:0-ethereum-price-at-a-turning-point-bulls-target-2-800-after-range-breakout/)**
+
+Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
+
+TradingView • 6h ago
+
+---
+
 **[Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative](https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635)**
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 9h ago
+The Block • 14h ago
+
+---
+
+**[Ethereum's Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen](https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/)**
+
+The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance.
+
+CryptoSlate • 5h ago
 
 ---
 
@@ -164,15 +186,7 @@ The Block • 9h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
 
-FXStreet • 8h ago
-
----
-
-**[New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees](https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/)**
-
-A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security.
-
-BeInCrypto • 22h ago
+FXStreet • 14h ago
 
 ---
 
@@ -180,51 +194,35 @@ BeInCrypto • 22h ago
 
 MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
 
-markets.businessinsider.com • 9h ago
+markets.businessinsider.com • 15h ago
+
+---
+
+**[Ethereum Foundation Grades 62 EIPs for Hegotá Upgrade](https://blockchain.news/news/ethereum-hegota-eip-tier-list)**
+
+Ethereum Foundation's Protocol Cluster releases unified EIP tier list for Hegotá upgrade, highlighting priorities like decentralization and security.
+
+blockchain.news • 36m ago
 
 ---
 
 **[Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision](https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/)**
 
-CCN.com • 1h ago
+CCN.com • 7h ago
 
 ---
 
-**[Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket](https://www.tradingview.com/news/stocktwits:03fc8e59e094b:0-bitwise-s-matt-hougan-names-robinhood-solana-uniswap-and-ethereum-as-his-tokenization-basket/)**
+**[New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees](https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/)**
 
-Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an i…
+A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security.
 
-TradingView • 1d ago
-
----
-
-**[Harmony wants to kill its own blockchain and turn ONE into an AI video token](https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats)**
-
-CoinDesk • 3h ago
+BeInCrypto • 1d ago
 
 ---
 
-**[Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs](https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/)**
+**[Vitalik Buterin has blunt response to AI crashing Bitcoin](https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin)**
 
-Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets.
-
-CryptoSlate • 2d ago
-
----
-
-**[Where Will Solana Be in 5 Years?](https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/)**
-
-This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum.
-
-The Motley Fool • 2d ago
-
----
-
-**[Vitalik Buterin Sees 60% Chance SNARKs, FHE and iO Reach Sub-10x Overhead](https://financefeeds.com/vitalik-buterin-sees-60-chance-snarks-fhe-and-io-reach-sub-10x-overhead/)**
-
-Vitalik Buterin assigns a 60% probability that SNARKs, FHE and iO can run at under 10x the cost of ordinary computation, and 33% odds of near-parity.
-
-FinanceFeeds • 5h ago
+thestreet.com • 1h ago
 
 ---
 
@@ -232,23 +230,33 @@ FinanceFeeds • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Wx60soTHgTU)**
-
-BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 345 • 💬 294 • ⏱️ 20:24 • 10h ago
-
----
-
 **[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
 
 BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
 📺 The Moon Show
 
-👁️ 1K • 👍 116 • 💬 5 • ⏱️ 3:29 • 48m ago
+👁️ 9K • 👍 419 • 💬 33 • ⏱️ 3:29 • 6h ago
+
+---
+
+**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 636 • 👍 53 • 💬 46 • ⏱️ 18:40 • 1h ago
+
+---
+
+**[BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Wx60soTHgTU)**
+
+BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 15K • 👍 369 • 💬 422 • ⏱️ 20:24 • 15h ago
 
 ---
 
@@ -258,17 +266,7 @@ Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you th
 
 📺 No Bs Crypto
 
-👁️ 16K • 👍 425 • 💬 45 • ⏱️ 19:02 • 1d ago
-
----
-
-**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 4K • 👍 132 • 💬 23 • ⏱️ 14:40 • 19h ago
+👁️ 17K • 👍 432 • 💬 49 • ⏱️ 19:02 • 1d ago
 
 ---
 
@@ -278,7 +276,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 307 • 💬 62 • ⏱️ 18:18 • 1d ago
+👁️ 17K • 👍 318 • 💬 60 • ⏱️ 18:18 • 1d ago
+
+---
+
+**[I HAVE $68,000 IN UNREALIZED ETHEREUM PROFIT !!!!](https://www.youtube.com/watch?v=GUR4tQoH_B0)**
+
+I have a $400000 Ethereum position open right now with $68000 in unrealized profits and $43000 already realized.
+
+📺 The Moon Show
+
+👁️ 9 • ⏱️ 0:44 • 23m ago
 
 ---
 
@@ -288,7 +296,17 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 758 • 💬 356 • ⏱️ 36:55 • 1d ago
+👁️ 14K • 👍 765 • 💬 350 • ⏱️ 36:55 • 1d ago
+
+---
+
+**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 4K • 👍 140 • 💬 23 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -298,7 +316,7 @@ This video looks at Ethereum's current position within the broader cryptocurrenc
 
 📺 Crypto Vlog
 
-👁️ 4K • 💬 37 • ⏱️ 0:48 • 12h ago
+👁️ 5K • 💬 37 • ⏱️ 0:48 • 18h ago
 
 ---
 
@@ -308,27 +326,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 15K • 👍 238 • 💬 146 • ⏱️ 13:53 • 1d ago
-
----
-
-**[Why Ethereum is the Only Chain Enterprises Can Actually Build On](https://www.youtube.com/watch?v=2yPkKbNbA5c)**
-
-Offchain CEO Steven Goldfeder on the two paths enterprises can take to launch a chain If you look at enterprises, a lot of them are ...
-
-📺 The Wolf Of All Streets
-
-👁️ 51 • 👍 4 • 💬 21 • ⏱️ 0:43 • 1h ago
-
----
-
-**[&quot;This Is The Moment&quot;! Crypto Exiting A 5-Year Bear Market (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=DwQ4F_akaFo)**
-
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto is ...
-
-📺 Crypto Capital Venture
-
-👁️ 32K • 👍 775 • 💬 242 • ⏱️ 18:55 • 1d ago
+👁️ 16K • 👍 241 • 💬 142 • ⏱️ 13:53 • 2d ago
 
 ---
 

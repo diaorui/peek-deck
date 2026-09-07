@@ -5,6 +5,66 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
+      "pub_date": 1788781980.0,
+      "article_url": "https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2REekdhZnNTdlBRSnF0T3Z6NFZkLUVjbEdGbURqSU1aSVh0S0YtV3AzQUNBZUdhUTh4aFJPRGhyMENYWXJZR0pjZm1WQmljMWk4OGppTGc5OHl4cjJyME9qdXVBRXhoMEJFQ1VUS09iRC1VLThtTUhkVE14VzY3MGZtWTEwTUZiZkEyZkVpQlJ1X3JzeTI40gGcAUFVX3lxTFBkcUNKanRCRS1wTW1xVnJYajFrRGt5bGphbUNEVHd4a2NFM3luSTJMUW1zRzZwM1RucGkzLWZKVW94dzVOekpjVzBHa3diemc4Rl9sTkN5X0pVS0xOMTVVM2lNN0tPcnBPclcwVDNuZk9GQVlVZTh4UzNnM2xSaVJEOUdRcU1BT3NlR2dtT0I3M25xMktncTVQdmpkVA?oc=5",
+      "pub_date": 1788791258.0,
+      "article_url": "https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/crypto-scammers-3.jpg",
+      "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions."
+    },
+    {
+      "headline": "Bitcoin (BTC) enters distribution as whales sell below $83,000",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVA3cUNleWdLdHhORWdWLUZjenhTQm9XSG5uaDh4UWJVdWViS2tleFVFR01mMThTdk9fQnJiZFAtamROSlRaZ0lQQi1aUjJYR0x4TGhyRHMzdmoyZ1QzekVrZWV1ZFlmMlhYUzBMdENscHZfNjNuSEdrQloxX0V0TjhmSklfSEV1bVdfTWg4aVRjRmtFOVNPUmZoSmw1bDNUaGFUcUNwSThObVE?oc=5",
+      "pub_date": 1788796235.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hyperliquid Strategies Soared by 94% in August. Should Investors Forget Bitcoin and Buy This Stock Instead?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXpPTWI0N213NEp2VThxVUdQTXNJcUJIX3U4b3VOVHVkWXlvY1NEb1JVZ09kYnduVUh6SmRJQnFJbWNEQzhKSl9jS3Z0WER1WjhZUE5pdVVCaUJ1eFRlMUxMQjNpSHdXRG9IcUwxeW0yd25FZlBkMEtnY3dBdGtOaG1FUQ?oc=5",
+      "pub_date": 1788798130.0,
+      "article_url": "https://www.fool.com/investing/2026/09/07/hyperliquid-soared-by-94-in-august/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886094%2Fprofessional_smiling_while_holding_a_laptop.jpg&w=1200&op=resize",
+      "description": "Hyperliquid Strategies offers more upside than Bitcoin, but also more risk."
+    },
+    {
+      "headline": "Bitcoin Only Goes Up: What The 200W And 50W MAs Say About The Cycle Transition (BTC-USD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQld5a2hEOVVpdlFnTk1kVVdxWHVfWUN0U1d4Q0VlVDVaVm1WclQzSExzOVB0TS04TGU4cjhlOGxUM2tHanBJcGxGN05ISjJxdVpNVGs2TjYtNEZrLWIzZ3dPQVJCaXBSSmlLb1k3dDVCU18yTEZaTzlpVmxab05DVHJUcG9GdUNwejRPcWd0VGdJekxlVUNZWHpKUVhEelE0TWVwcUpUTXRGdw?oc=5",
+      "pub_date": 1788798420.0,
+      "article_url": "https://seekingalpha.com/article/4943587-bitcoin-only-goes-up-what-200w-50w-mas-say-about-cycle-transition",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230305298/image_2230305298.jpg?io=getty-c-w1536",
+      "description": "The 200W MA has historically marked Bitcoin\u2019s bear market floor, though reclaiming it alone does not confirm the bear market is over."
+    },
+    {
+      "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMnlod1NkSV9hdDZVR0NUX1AtM1dsWndNYmFyMFg2TDlpTy0tN2tRTXdFTWdaNHZ5aXhobXdMaXVINUxqOTB1aV8tM1pNUXZFNHlKNFhyaUVJd2pTNUZlS1FzdTl2VHB2cmpwTkY5UEQ0NUNFSk9zMVg2RjA5ZmdDT05wSTU4UmpGZXN2dmItdzJJWm9wQ0ZvOVJXMkZQck94aFpSb1pSS3IyNk9LLXctaU90a21aeDNDaHVEanVZMFd0ZkpfazI4dlpmSUdwcy1VNFdscHpFc3BIOGl2VFlYUlMybzFmYVFsR2pIc015WkYxY0k3azJvMVBGSkh1cEFqS3c?oc=5",
+      "pub_date": 1788780606.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:5f21000d9094b:0-bitcoin-shows-weaker-correlation-to-treasury-yields-than-gold-positioning-it-as-a-more-resilient-hard-asset/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "For years, the \"digital gold\" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall\u2026"
+    },
+    {
       "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -15,8 +75,18 @@
       "description": null
     },
     {
+      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
+      "pub_date": 1788776592.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
       "pub_date": 1788775266.0,
@@ -25,86 +95,16 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788748920.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin News: Bitcoin Holds $79,000 as Hike Odds Reach 58% and Zcash Runs 45% in a Week",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaHAtVzJibEVUcVBaSU5fdXJPeV9zMUthSHl4azhaMkozUW9wU3dNLWFqWklRRnhlNzdJaExqdmJqUkpqdy1feGhkTTUyR0ZuTldTQjV5bHNVT29vcUhqRk5NTDc?oc=5",
-      "pub_date": 1788777906.0,
-      "article_url": "https://www.binance.com/en/square/post/364079950022688",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will AI Crash Bitcoin 50%? Vitalik Buterin Weighs In",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmNUZ2tJOGZFc2ZhLXM3d0ZlV3hPVWlUeXNmMDdYLVBobU5QSGh6N19FQWUzVUxlX2NYQjhiQ1NDTUEweEEwckhGRkNtUEw5bDhaeWxfYXdXSi1GbzVfQ3JwNmt4UUNQQVJ5LXk2SGdJbm5VQzJNd0puQVlkc0Z4Y19JTzZwVHlsUWIxd3pVaTN3aFdZZGZJ?oc=5",
-      "pub_date": 1788778288.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ai-crash-bitcoin-50-vitalik-105128526.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/095b2743a588f13a42b0922ddb020c1b8aa01310b6aeab421153ada2a658f996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F592a2f29ec2e74abfb039241be65a732.jpg",
-      "description": "Vitalik Buterin rejects a 50% AI-driven Bitcoin crash call and says 90% of his net worth already takes the opposite side."
-    },
-    {
-      "headline": "US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGFmRXJBdzJYVXVNaWc0c2tmdGc4bXdmSW1sZDhYc3NZbnJfOFhKUEF2elJEZEwyX05xRFU4YkM1UjA0QWw2azllZEF1UGdlcFhOUnotQk1QXzdoMy1rb3AwVFdNeGpLSG4wUjdFYzRCZzNLQ2xzNzFfekdtWHpHTUw5bWhlam5MQlU4aXh3?oc=5",
-      "pub_date": 1788778035.0,
-      "article_url": "https://finance.yahoo.com/economy/policy/articles/us-adds-162-000-jobs-104715981.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/fc003f9ba12ed338c75034b41629ee91f4081ab854bb08b5885c214aec32f82c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F14833f8467b03bd94dc8146ed7bc532f.png",
-      "description": "The US added 162,000 jobs in August, roughly triple expectations, while unemployment remained unchanged at 4.1%. The surprise pushed the estimated probability of a September ..."
-    },
-    {
-      "headline": "Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHQzaDFHb0NLenAxQ1hwRHBBbVItZ3JSVnpBUDRWTHFZaXlnMlM5Vjk3TEJzbU1vdnhpaDFmNTRxVTJUMUtYWC14ZFU0a0lRMEtiZUFkVXpXSmkwVE9FcHdCeW9jZzNTTWJVd01WYmx2ekhQUHRQakhlOGVFMkxOR211RzJUbXZLUlFHeHduMlB6UGR0dHFrVWlwYUs3ekx0R1dNTDFQeVN6ZWdWNUtLM2VycVRzejV6OElFS2JWMA?oc=5",
-      "pub_date": 1788724958.0,
-      "article_url": "https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures \u2014 facility operated for years under a city stop-work order",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSG14V0NNdFlOUlVMVHFSVzBENmRiMnVtZGtIb2VxX3lYYU5DeGNLYy1YeGJYN0dGN1JaMU9MVHhnaUtnRlJkSmIyMzZsZkVXU2toTjdaOWU4ZlY3dVd0ODMtRC1UdzdIeEhiVzFIUWhKVnZTVWpVVGo4c1N1S0V1RWpGejNQSXk3SnEwbmR2U0M3ODJmUnpPZ2l3eEhhaUVpUEJfX09ScWhFTldqbVpqR0hGUDZieXdnLURfZ1JtcmZRREtfd1NMY2VuQkJrNnRoQV9xQWpra3VpUklxWHYtb3k2OHg2MTRaZWJhOVhUSXBfY0J0S084Rm9fd2RmMzBVUHFBNnR0b3JURzhiSm5XZGstS0ZlWWxWWW1KdFQ5OGJJRDE3VlRYVkZRZ0puUFpLaWQ0YV9SbU1ONnJSSmhF?oc=5",
-      "pub_date": 1788702262.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
-      "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg",
-      "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens."
-    },
-    {
-      "headline": "\u2018Like Buying Bitcoin In 2013\u2019\u2014Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMl9JOERnOHBIbm5YZWtidWctVWswVzlyaUZnd05VYk4tWDhWN3NsWFpWT0JMVkpQS0ppOGpoLWthSmpsWVBPZDhIczdfV1dmUDNGOUFRcWNFREIwU3FsU2Qtb1I4eDFuRGdQN2VnS0ZtTXNUc1RVQkVLSU1QM0t4MkRQMlB6WVJaVU9YOUtYb3MyRi1wRmtkSGxxTHA3WEdvcG8teHYyQWRjVHhKQ21xMTVkMXV0U3NlLThuX2ZSRHIzdnlfcmRTUnhlZzBKUG1GQm56NWlrNmhxYjJZOXNmM0hpMTdxUk1ZOVJZ?oc=5",
-      "pub_date": 1788695871.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hyperscale Data Center in Dowagiac stops bitcoin mining operations",
-      "source": "WNDU",
-      "source_url": "https://www.wndu.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnLSAbABQVVfeXFMTXFRcXRQMC02YkxqaTNPdXlVU3piU1c2Ny01WEZMeEl0VmpKclo1VWdyQmxTUDZOMG9XWk1FWE1KRk14TmQwbWJ5MU9NYV9DbVZxRnY5a3RDYURRczQzTTB4M2JQLTNLeVZKRTF2WWZ1emRwemRFTHZ5eWxwNVdCaE9ZeWpOeGNVWko2R3ZxS1M2OWJWUzM0My1qeVloQVgyQ1hod0ozWlZRblZxRHFmVUw?oc=5",
-      "pub_date": 1788646980.0,
-      "article_url": "https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/",
-      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/G3TH5UECYRH6NLHFPLKFZYXN6E.png?auth=8d038e9d7e6ec81eea37503ccc49127c0bfbe6546cebfad3497e3c1543530f89&width=1200&height=600&smart=true",
-      "description": "Bitcoin mining ceased operations on Sept. 2."
+      "headline": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video]",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWS1pVnE3ZExyZUZvVzVTTmVLOUxDOTZ5WV84YXpfTEdvRGFoaFZ6b1ZKaXlCcFE1ZUpHT1FuQUM2cmJ6TVBObi1kV3J1Q3RjQUt0OFJQRDd0OTBBaEY2QVo3QWdtMWYzRWNiM18xa3pPYWQ1UE9wR3F5MkRrVlpjWWhrV05NQlVHeFhhTXp3S2RVbXRwQVE1Z2MtRHgycERMb0xSNVNURWVBM213enFuN1F5OGpHcG95WndRVy10OC0?oc=5",
+      "pub_date": 1788783082.0,
+      "article_url": "https://www.fxstreet.com/analysis/weekly-forex-forecast-eur-usd-xau-usd-gbp-usd-usd-jpy-bitcoin-and-more-video-202609071211",
+      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-01_Medium.jpg",
+      "description": "Dxy, EurUsd, GbpUsd, UsdJpy, UsdCad, UsdChf, AudUsd, NzdUsd."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T11:45:41.332678+00:00"
+  "fetched_at": "2026-09-07T17:23:28.029509+00:00"
 }

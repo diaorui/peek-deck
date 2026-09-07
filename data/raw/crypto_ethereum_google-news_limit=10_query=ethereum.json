@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGFIdXNXd0o4c1dJYXBRZjRPVFBOVmVPZEMzX0hOZHd5S3BpdXlYcXkzU2E3bnFsR3R6bHFEUHROSHdrenFjd0hwRlYtOUd0V0oxbmhsT2YyQk94bEg0N3FYSlB0anI0bHhjdlg0bEdDWlF6TEJpZGJwb0xQUW95aFMxcGNMeF9iMzhrbGEzSW5PTGRSdUpsaml6TkNNZ2FUWWNHcjM5Nl9lZEQyZmgweG9yTk4?oc=5",
+      "pub_date": 1788789247.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ethereum Price at a Turning Point \u2014 Bulls Target $2,800 After Range Breakout",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTJZdkxmZXpzMWRsLWJ6RG0tcDdZSnBFNWFJQy13Q3ZRVEtXakFaQnNCMGZteVctb0RaRzZFXzdFV2dmQVVQeUNhZEIyZ1RkNG5rQTAtZER0TjFHVU45U3ItQ3RpQ1BKU3hTRHhIV25fRGF1QXNlNjlKOHJqQWRwQW90RmExaW96YklyamFGdDRGanJLZ1Uta0hBcEQxYjVYdV9ReG5jcGU0VnhrdmJVcTRaVTlRSWIyWWhWUkJBWlNHUEw2dmNMLVBLc09PUQ?oc=5",
+      "pub_date": 1788778678.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:1b2dbf0c5094b:0-ethereum-price-at-a-turning-point-bulls-target-2-800-after-range-breakout/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S\u2026"
+    },
+    {
       "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -13,6 +33,16 @@
       "article_url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
       "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
       "description": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators."
+    },
+    {
+      "headline": "Ethereum's Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZlRlNGMFZhcEwwN3hQazVSNzB3X1FRVE9WRUlsV0Y2TXJJX1NGaUdiMklVTTBDaVBaWVFVbEhOZ1UteWJsRDVmR1VBaGZfaDVxMW9BZXV4UmNZeWhmbUpqR2RPV1FnS2hvN3BZT0dOeXR2TVhwaGxSRm9TdXJHbC1zUDBra05PeEhYcExKd3MwNGdjLXhKaUZvaU9EV1AzbTh6eGNySWVzNjFPa2c3MWxlcU4zMERxRXNJNXh2aXIwdU1abWVVQXdsQ05NSW8?oc=5",
+      "pub_date": 1788782113.0,
+      "article_url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-privacy-crossroads.jpg",
+      "description": "The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance."
     },
     {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates near recent highs, ETH and XRP defend key bullish supports",
@@ -25,16 +55,6 @@
       "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones."
     },
     {
-      "headline": "New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WT1FVODFDZ1JHT1RfSkk1czFKamUwNVBOQkR0LVpkM3pJZ1VEdlZ6WUlEM0owM0JaSTc4SURHU1J5Vk1YcTYyeVdDSkhlaFRZemdoYmltQVJneHpjdFB3eDljTXNHUFk0UGVBREEyTQ?oc=5",
-      "pub_date": 1788698760.0,
-      "article_url": "https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/",
-      "image": "https://assets.beincrypto.com/img/lRXWTv1xfk6lJM0IR3zw-idS9qw=/1200x630/smart/filters:format(jpeg):quality(82)/2465a0f2e5de42028637e2a702354e98",
-      "description": "A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security."
-    },
-    {
       "headline": "Crypto News Today: AlphaPepe Presale Passes $2.6M Raised as Ethereum Price Prediction Targets $10,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -45,66 +65,46 @@
       "description": "MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward\u00a0AlphaPepe after the presale crossed a new $2.61 million record de..."
     },
     {
+      "headline": "Ethereum Foundation Grades 62 EIPs for Hegot\u00e1 Upgrade",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10c29vY3pGejdtLVZsWWdySEdkWm5yS0wwZ244YUowZ1hxVXdJV1drSGdzdFExcDdXZ0lVLVpkWE9fRW5tY2h3X0FHWXdkX084RmJBNjBkSFdqRXpfQndQcVFCODBkc3gtT2c?oc=5",
+      "pub_date": 1788799642.0,
+      "article_url": "https://blockchain.news/news/ethereum-hegota-eip-tier-list",
+      "image": "https://image.blockchain.news:443/features/7E81BDE2C308A8D43F1B38932F10D04FF8442F0BC4A94834C355715261341484.jpg",
+      "description": "Ethereum Foundation's Protocol Cluster releases unified EIP tier list for Hegot\u00e1 upgrade, highlighting priorities like decentralization and security."
+    },
+    {
       "headline": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes \u2018Everything Exchange\u2019 Vision",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFUwSE5JSF9oQjVoQjZQb3p2UjVYT2FZWFFSdlVERUN6N1BVT3BDSHpCa2x4dG1OYVBxMWNydXhTR0NfT0ZZc3BOMEktVG9sX2Z2OEtuS0RvTWJJZS00UjlEVW5VREZEQjA1NkQtWVJ6bmd4SkFSUXJzbjlPam12NG5PVDQ5eHM?oc=5",
-      "pub_date": 1788775122.0,
+      "pub_date": 1788775164.0,
       "article_url": "https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWtybkdPT3hVa0wySVZTcEEtcW1YdDgxWnFfNWR6bWxpXzhKaTc3RDR1YWFIVW1oRmhDMktkRTJCTEdFVlk2YVdKX1ZoNFcxRThQYjJSLV9jNV9tSTNtZkpGQnFCdGNCWExjTWJNdGVmaVhGX1NwT05nTC1kbnloNHp0VXRiNUYtLWVpcnFfTlBQc3F0LTBUd3VKc21qazY2dlZfdDRsTzc5bzhHREx3bEVPdHFtRUU5YlFxTlRGQkN1VVFaaFJqZ0NNNnFOOTFJOXVUSXNRa283SzFzaDREbVQwTlFYWUdP?oc=5",
-      "pub_date": 1788620039.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:03fc8e59e094b:0-bitwise-s-matt-hougan-names-robinhood-solana-uniswap-and-ethereum-as-his-tokenization-basket/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an\u00a0i\u2026"
+      "headline": "New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WT1FVODFDZ1JHT1RfSkk1czFKamUwNVBOQkR0LVpkM3pJZ1VEdlZ6WUlEM0owM0JaSTc4SURHU1J5Vk1YcTYyeVdDSkhlaFRZemdoYmltQVJneHpjdFB3eDljTXNHUFk0UGVBREEyTQ?oc=5",
+      "pub_date": 1788698760.0,
+      "article_url": "https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/",
+      "image": "https://assets.beincrypto.com/img/lRXWTv1xfk6lJM0IR3zw-idS9qw=/1200x630/smart/filters:format(jpeg):quality(82)/2465a0f2e5de42028637e2a702354e98",
+      "description": "A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security."
     },
     {
-      "headline": "Harmony wants to kill its own blockchain and turn ONE into an AI video token",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanN5WHdNOFVwVUt4YzBaZHNQV2Z5dnJ1X3FZTnRpdTAzS3pVNk1CbnBJUnNYVDNwajRIdERxcXRrVHVXOUwtRkhfWVo1a1IyTnBHNWxEb1htc1VZOTdnaG4xYTY4Vkg0MVh4NHJ4d1pUaGVXSFBIMkJ0T0NqdVVtNjJ0b2ZMNFBLX3UwaS1sejJfby1yTDF5YmxJQld6SDBJbWR3Wi1JbUJuN0R2cVBuVDh3Nk9fa0s0ZzBYVWpsNA?oc=5",
-      "pub_date": 1788768138.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+      "headline": "Vitalik Buterin has blunt response to AI crashing Bitcoin",
+      "source": "thestreet.com",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FpWEdPdmJjWG1ZUXpvTlU0SW1FWkUxN1JBN00yWF96blJxUXd1QkFmSzU3UlFDWG9wZFotd2tQVXllOU4xeF9XbVRZaHBrN0RqMnFwTVdUWDd3dmt5OVhoc0pJUXRNVHVWZ2Rmc3JMQ29iZEhna09rbXlNUUZ2Y0tXbmNBNnk0ZklRZ2VFb2MzV0xJTFN1d1RwVmM5d1k?oc=5",
+      "pub_date": 1788795824.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhEbWZIUktwTlloaXpIWXgyNFFOYlVYajJDd1FpZWx1N1hmZENJcGtITnRkZVkyN1lzd0pHZ1V1bzk2bkdzNjhPakJrU1hFTnBrVlVCeVhMaXFTb0ZSUTFwS1RyVVNMenNLUjVfUFE0RmZHemNkMm5WenJkcEg2dDZJbV9QSkRLVUF6VU5aODE2NDNXSWJJOHJqTFpRYUE?oc=5",
-      "pub_date": 1788533726.0,
-      "article_url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
-      "description": "Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets."
-    },
-    {
-      "headline": "Where Will Solana Be in 5 Years?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
-      "pub_date": 1788573420.0,
-      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
-      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
-    },
-    {
-      "headline": "Vitalik Buterin Sees 60% Chance SNARKs, FHE and iO Reach Sub-10x Overhead",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGs1MGE4UlVwR1ByNFhQbWxfUjBCWFlQajNBVHMtSEpMTS1aX0ZuVHdjRkpVN1NYWWlhN1hzQjU0UXU3N3NWNGhtcWJ4TEVIdWtfY0U5bkdVTUNxampOQXZtN1FuZU5mSEF1RzFHSUl4UWt1bGQ0NjBtRnoyVXgxOVpEeWVDclhLVGlTc1JJNGJxemVCaGVDdTl2UVo3QQ?oc=5",
-      "pub_date": 1788761148.0,
-      "article_url": "https://financefeeds.com/vitalik-buterin-sees-60-chance-snarks-fhe-and-io-reach-sub-10x-overhead/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/02/Vitalik-Buterin.png",
-      "description": "Vitalik Buterin assigns a 60% probability that SNARKs, FHE and iO can run at under 10x the cost of ordinary computation, and 33% odds of near-parity."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T11:45:49.580370+00:00"
+  "fetched_at": "2026-09-07T17:23:26.191785+00:00"
 }
