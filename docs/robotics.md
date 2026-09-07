@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T20:43:32.444462+00:00'
+updated: '2026-09-07T23:18:30.973390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 20:43 UTC  
+**Last Updated:** September 07, 2026 at 23:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I'm a sophomore student in Meche and this is my first robot so it took about 2 m
 
 I wanted to share this project i've been working on for a few months now. It's a breakaway collar that i made for a my cat, who gets stuck behind doors she can't open for 6 hours on end. It allows her to "talk" to us. And more specifically for us to find her wherever she is in case of any emergency. (This is not that, at least not entirely, this is a proof of concept that will nowhere near reach that, 5mins max with supervision by me) BRIEF It's a whole pipeline, that starts from an ESP32 and all the fun things about detecting a voice, and not chairs creaking. It gets sent over the network to a dedicated server (laptop) that does all the fun stuff. Like translation from Whisper (STT) then to and ollama model who does the thinking, in line with the persona injected into it, and extra context about what "Luna" is doing right now (more on that in a bit), then it feeds into Piper (TTS) which turns it back into a voice and over the network again and played on the ESP32. And with a time to speech, from my last uttered word, to her first of 1.5s. It's very conversational. Sorry if I said "baby" alot in the video, it's the "wake" word to get pass 1 of 12 filters in my pipeline. Tried "Luna" before hand but it was a hit or a miss with the faster-whisper models and my preferences for responsiveness for a conversation with my cat. First time I've said that sentence in my life huh. SAFETY & CONCERNS Every one of your concerns are valid and let me address each one here. Tightness: Luna is a longhaired cat, so on her it might look "tight" but she's just very furry. There is a 2 finger wiggle room between neck and the collar. And the inline of the collar has a satin Silk lining so her fur doesn't rub against it. Weight: The collar ended up weighing 160g (after many many design and part iterations until they met my standards) and she weighs 12.3lb. Meaning a collar to body ration of 2.87%. Which is well below the MAX recommended attachment weight for any mammal of 5%. And in the video you can see in the video that she walks around, grooms herself, and jumps with it perfectly fine. Breakaway: The collar itself is latch at the nape by 8 tiny neo magnets. So quite literally at a flinch it comes of or any sort of sudden movement. Or well, her taking it off herself. Yeah newton level feline somehow learned to get dexterous and use her arm to take it off as shown in the last clip. Volume: The speaker itself is a tiny adafruit special speaker, because to my surprise, regular off the shelf "small" 3W 8-Ohm speakers are really heavy. And it's pointed away from her ear, and in post I increased the volume of her speech. The volume is also hardware limited by the gain pin on the amp. Size: Now this is my current hurdle. The size is fine. Key word, fine. Luna wears the collar perfectly fine, but there is a time limit on that. She gets annoyed by how "bulky" it is when she tries to lay down. And takes it off. (I'll address the fix for the next version below) Context What I want to push home here is I didn't exactly stuff a whole "personified" chat bot into this. It does have real time feedback and context updates. Let me explain. For now on the collar I have to sensors that act like "Context" for Ollama. So first the motion sensor. It pretty tracks her movement in states. The only important state for now is "Running" so when enough movement is detected it fires and outburst is what I call it. What my outburst do is pretty much gaslight an "interaction" that never happened into Ollama history, and since it believes every word it says it will keep that "Context" alive for as many turns as needed (3 turns in my case). So pretty much shoving a preloaded interaction like. (You) Stop running! (Luna) The doors are whispering to me. So then if in the next 3 turns/interactions i ask why she was running she will give a response with that context. Not something random. The second sensor is a piezo ribbon cable, yes that exist, look it up it's sick. That was supposed to detect purrs. WAS is the keyword here. Seem at her neck they are too "quiet" and overwritten by the static bend in the ribbon itself. Currently If theres anything you guys want me to clarify please go right ahead. I'm open to constructive feedback. I'm trying to not go in the details here cuz I'm new to the sub in all. :) But so far I'd consider this "done" for v1, as a proof of concept/prototype. And Luna only wears it for a few minutes and takes it off. I'd say that's perfect for this version at least. But there is a reason why i'm calling this v1. Problems/Help Right now for version 2. I'm looking to improve it on everything in general, but more specially. SIZE. hehe. Cuz for weight honestly it's just dropping one of the 2 batteries on the nape, cuz 1 is more than enough, would just need to fix up center of mass. My ideas so far for the size, is well, when i can afford it atleast, make it on long flex PCB instead of the "parts" that it is now, with that get an smd oven so I can shrink everything, and maybe just buy say the ESP32 Antenna and Microcontroller separately and just work from there, no more solid board or any "extra" board that i'd need to make room for. Keep everything on 1 line. Funny enough now i realized I'm playing the rocket equation here. For me it's weight, size, and functionality. Apart from that, reducing weight and size. if I can I want to get it below 100g, closer to actual tracker collar on the market. Honestly I think just getting rid of 1 battery is enough for that. I'd have to check tho. And if I can squeeze some wiggle room add some more sensors for more context, like a 3d tracker instead of simple motion. or tag readers near her bowl, litter, or bed. (Just to clarify too, she isn't allowed to wear this v1 outside my room, so none of the above lmao) Maybe a tail imaging pipeline cuz her tail is abnormally long and expressive for a cat. Body temp would be easy i think too. But yeah. And no she's not wearing this anymore. Since I finished with my documentation video for this project, I'm not gonna make her wear another collar any time soon, until I start v2. I'm asking for some clarifications here if anyone ever used a flex PCB, and if my "easy going" way of it like it's a normal PCB is unfounded. And well any other tips to save weight or size that I've missed.
 
-1d ago
+2d ago
 
 ---
 
@@ -110,14 +110,6 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
-
-Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
-
-Futurism • 2d ago
-
----
-
 **[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
 Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
@@ -126,23 +118,17 @@ ABC7 Chicago • 3d ago
 
 ---
 
+**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
+
+Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
+
+Futurism • 2d ago
+
+---
+
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 14h ago
-
----
-
-**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
-
-South China Morning Post • 18h ago
-
----
-
-**[Why humanoid robots won’t catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)**
-
-A deep dive into the current state of humanoid robotics.
-
-understandingai.org • 6d ago
+Reuters • 17h ago
 
 ---
 
@@ -150,7 +136,15 @@ understandingai.org • 6d ago
 
 Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
 
-uk.finance.yahoo.com • 5h ago
+Yahoo Finance UK • 8h ago
+
+---
+
+**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
+
+Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
+
+The Robot Report • 9h ago
 
 ---
 
@@ -158,7 +152,7 @@ uk.finance.yahoo.com • 5h ago
 
 /PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
 
-PR Newswire • 5h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -170,9 +164,9 @@ SciTechDaily • 1d ago
 
 ---
 
-**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
+**[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
 
-Forbes • 3h ago
+MarketWatch • 2d ago
 
 ---
 
@@ -181,6 +175,12 @@ Forbes • 3h ago
 Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
 
 The Telegraph • 2d ago
+
+---
+
+**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
+
+Forbes • 5h ago
 
 ---
 
@@ -194,7 +194,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 475K • 👍 9K • 💬 694 • ⏱️ 15:41 • 4d ago
+👁️ 487K • 👍 9K • 💬 702 • ⏱️ 15:41 • 5d ago
 
 ---
 
@@ -204,7 +204,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 282K • 👍 2K • 💬 625 • ⏱️ 1:44 • 3d ago
+👁️ 285K • 👍 2K • 💬 632 • ⏱️ 1:44 • 4d ago
 
 ---
 
@@ -214,17 +214,7 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 75K • 👍 1K • 💬 225 • ⏱️ 19:28 • 6d ago
-
----
-
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
-
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
-
-📺 Associated Press
-
-👁️ 245K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+👁️ 76K • 👍 1K • 💬 227 • ⏱️ 19:28 • 6d ago
 
 ---
 
@@ -234,27 +224,27 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 234K • 👍 2K • 💬 146 • ⏱️ 0:58 • 5d ago
+👁️ 237K • 👍 2K • 💬 147 • ⏱️ 0:58 • 5d ago
 
 ---
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
 
-📺 Julia McCoy
+📺 GrislyDeshaun
 
-👁️ 75K • 👍 613 • 💬 129 • ⏱️ 9:07 • 4d ago
+👁️ 389K • 👍 5K • 💬 345 • ⏱️ 26:59 • 1d ago
 
 ---
 
-**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
 
-Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
 
-📺 Jason Lowe on AI
+📺 Associated Press
 
-👁️ 7K • 👍 466 • 💬 26 • ⏱️ 2:08 • 1d ago
+👁️ 250K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
 
 ---
 
@@ -264,7 +254,27 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 
 📺 LIGHTS ARE OFF
 
-👁️ 3.6M • 👍 72K • 💬 9K • ⏱️ 25:44 • 1d ago
+👁️ 3.8M • 👍 73K • 💬 10K • ⏱️ 25:44 • 1d ago
+
+---
+
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+
+📺 Julia McCoy
+
+👁️ 75K • 👍 614 • 💬 129 • ⏱️ 9:07 • 4d ago
+
+---
+
+**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
+
+Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
+
+📺 Jason Lowe on AI
+
+👁️ 7K • 👍 483 • 💬 26 • ⏱️ 2:08 • 1d ago
 
 ---
 
@@ -274,17 +284,7 @@ Russian Robot FIGHTS BACK After Man Pushes It in Tech Store Things got intense i
 
 📺 Faith, Fitness and Financial Freedom
 
-👁️ 164K • 👍 2K • 💬 269 • ⏱️ 0:33 • 4d ago
-
----
-
-**[This 800-Year-Old Robot Served Water and Towels! 🤖💧 #shorts #viral](https://www.youtube.com/watch?v=vhXCmVALeLk)**
-
-This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling a lever and having a mechanical servant ...
-
-📺 ClayTaan Shorts
-
-👁️ 130K • 👍 1K • 💬 26 • ⏱️ 0:45 • 1d ago
+👁️ 164K • 👍 2K • 💬 273 • ⏱️ 0:33 • 4d ago
 
 ---
 
