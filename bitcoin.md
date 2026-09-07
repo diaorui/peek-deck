@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-07T00:43:54.943622+00:00'
+updated: '2026-09-07T05:44:59.934909+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 00:43 UTC  
+**Last Updated:** September 07, 2026 at 05:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,500.00
+### $79,853.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +3.5%  
-**30d:** +23.5%  
-**90d:** +30.3%  
-**1y:** -28.4%  
+**24h:** +0.1%  
+**7d:** +3.1%  
+**30d:** +23.0%  
+**90d:** +29.8%  
+**1y:** -28.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1605.76B
+**Market Cap:** $1603.33B
 Rank #1
 
-**Circulating Supply:** 20,080,684 BTC
+**Circulating Supply:** 20,080,856 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--36.6%
+-36.7%
 
 **All-Time Low:** $67.81
-+117820.7%
++117649.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 73
+### 71
 **GREED**
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-🔗 [liquid.network](https://liquid.network/) • 5h ago
+🔗 [liquid.network](https://liquid.network/) • 10h ago
 
 ---
 
@@ -89,7 +89,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it’s ~$80,000. Now imagine someone posting this on September 6, 2036: “Bitcoin was only $80K back in 2026.” What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. 👀
 
-8h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 https://preview.redd.it/1zj50nwenxnh1.png?width=601&format=png&auto=webp&s=18a1918f44db55255417c1d6c6bbb3694ed277ed Bitcoin is going to $1M. Don't be sidelined because you tried to time the exact bottom.
 
-7h ago
+12h ago
 
 ---
 
@@ -105,13 +105,13 @@ https://preview.redd.it/1zj50nwenxnh1.png?width=601&format=png&auto=webp&s=18a19
 
 I do not care about self-custody (dangerous, so I use Fidelity custody) or censor-less transactions (I live in the U.S. and can trade freely)
 
-7h ago
+12h ago
 
 ---
 
 **[🏃💨](https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -119,7 +119,7 @@ I do not care about self-custody (dangerous, so I use Fidelity custody) or censo
 
 Hi guys! I’m fairly new to crypto and I’m trying to learn as much as I can before making any big decisions. For those of you who are currently buying Bitcoin, are you still buying at these prices, or are you waiting for some kind of pullback? I’ve been debating whether I should wait for another drop, potentially somewhere around $72k–$74k, before buying in. Is that a dumb way of thinking? I know nobody can predict the exact bottom, but I’m trying to maximize my potential returns. At the same time, I feel like I’m starting to fixate on finding the “perfect entry,” which I know probably isn’t a great mindset either. Would love to hear how you guys are approaching BTC right now, especially if you’ve been through a few cycles. Do you DCA, wait for pullbacks, or just buy when you think the long-term price is good? Thanks!
 
-1h ago
+6h ago
 
 ---
 
@@ -135,7 +135,7 @@ The parade of long-dormant Bitcoin wallets springing back to life is showing no 
 
 I am looking for information about how to sell small amounts of bitcoin for cash in New York City, preferably near the Bronx. I don't have ID at the moment because mine was lost or stolen. For that reason I think Bitcoin ATM's are out. I've already tried RoboSats but it appears to rely on lightning and I don't have enough btc at the moment to open a channel. I'm open to all suggestions. Thanks.
 
-1h ago
+6h ago
 
 ---
 
@@ -143,7 +143,7 @@ I am looking for information about how to sell small amounts of bitcoin for cash
 
 Not had my Halifax/Lloyds account too long so I’ve not tried to buy any btc yet. Are they safe to move cash to an exchange or do I need to look at a secondary bank account to build up my crypto loses? Ta.
 
-6h ago
+11h ago
 
 ---
 
@@ -151,7 +151,7 @@ Not had my Halifax/Lloyds account too long so I’ve not tried to buy any btc ye
 
 I had some extra tokens at the end of one of my reset periods and decided to build a fun little hackermans Bitcoin site. A couple cool things on there: A calculator if you want to do dynamic DCA - you can see at what risk metric you'd be buying and selling and tweak the settings to your liking. Based on the daily budget you provide it, it'll give you the $ amount to buy (I've actually been using this as a guide to my DCAs) A space battle visualization of the bitcoin price with buys and sells Some other cool visualizations of nodes, blocks, fair market value, and many more things https://preview.redd.it/0mxwxpl6kxnh1.png?width=1708&format=png&auto=webp&s=c9461b8ea37720220f452436d134f6d531fb8e84 There are a lot of fun themes built in as well, let me know if you have some ideas for things that can be added! Just a project for fun and wanted to share! https://www.bitcoinradar.io
 
-7h ago
+12h ago
 
 ---
 
@@ -159,33 +159,23 @@ I had some extra tokens at the end of one of my reset periods and decided to bui
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack](https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack)**
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'](https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys)**
+
+CoinDesk • 2h ago
+
+---
+
 **[Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin](https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626)**
 
 The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible.
 
-The Block • 3h ago
-
----
-
-**[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up)**
-
-The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring.
-
-Decrypt • 1d ago
-
----
-
-**[Remember How Bitcoin Was Supposed to Rise With Money Supply? Here's Why That Didn't Happen](https://finance.yahoo.com/markets/crypto/articles/remember-bitcoin-supposed-rise-money-170010779.html)**
-
-Cryptocurrency analyst Benjamin Cowen on Wednesday argued that unlike commonly assumed, Bitcoin does not rise with M2 money supply, which explains weakness against equities. Global Net Liquidity Explains Bitcoin’s Five-Year Lag Cowen detailed on his podcast how rising M2 does...
-
-Yahoo Finance • 7h ago
-
----
-
-**[‘Like Buying Bitcoin In 2013’—Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted](https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/)**
-
-Forbes • 12h ago
+The Block • 8h ago
 
 ---
 
@@ -193,7 +183,35 @@ Forbes • 12h ago
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-Tom's Hardware • 10h ago
+Tom's Hardware • 16h ago
+
+---
+
+**[Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html)**
+
+Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board.
+
+finance.yahoo.com • 46m ago
+
+---
+
+**[#imfsayselsalvadorbtcnopublicfunds Community Insights & Market Sentiment | Binance Square](https://www.binance.com/en-TR/square/hashtag/IMFSaysElSalvadorBTCNoPublicFunds)**
+
+Binance • 20m ago
+
+---
+
+**[Bitcoin-based Liquid Network says $320 million withdrawn in hack](https://ca.finance.yahoo.com/news/bitcoin-based-liquid-network-says-043242720.html)**
+
+Sept 6 (Reuters) - Liquid Network, a Bitcoin-based payments and settlement network, said on Sunday that about $320 million was withdrawn from its federation wallet in a hack.
+
+Yahoo! Finance Canada • 1h ago
+
+---
+
+**[Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell](https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell)**
+
+Seeking Alpha • 9h ago
 
 ---
 
@@ -203,33 +221,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Just Exploded 40% From Its July Low — Is $100,000 Back on the Table?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html)**
+**[‘Like Buying Bitcoin In 2013’—Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted](https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/)**
 
-Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html)**
-
-Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272)**
-
-Investing.com • 13h ago
-
----
-
-**[$14.5 Billion Injection: Will U.S. Treasury Trigger 'Round 2' for Bitcoin and XRP?](https://www.tradingview.com/news/u_today:ba16f95cd094b:0-14-5-billion-injection-will-u-s-treasury-trigger-round-2-for-bitcoin-and-xrp/)**
-
-The U.S. Treasury Department will enter the active phase of its government debt buyback program on Monday, Sept. 7, 2026. The weekly limit on operations will amount to $14.5 billion, while the maximum volume of Treasury sessions could reach $16.5 billion.Such a large liquidity injection has sparked…
-
-TradingView • 11h ago
+Forbes • 17h ago
 
 ---
 
@@ -241,7 +235,7 @@ TradingView • 11h ago
 
 The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
 
-⬆️ 5 • 💬 0 • 5h ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+⬆️ 5 • 💬 0 • 10h ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
 
 ---
 
@@ -249,7 +243,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-⬆️ 4 • 💬 0 • 7h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+⬆️ 4 • 💬 0 • 12h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
 
 ---
 
@@ -265,7 +259,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-⬆️ 3 • 💬 0 • 9h ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
+⬆️ 3 • 💬 0 • 14h ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
 
 ---
 
@@ -309,13 +303,13 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
+**[THE BIGGEST BITCOIN SUPPLY SHOCK IN HISTORY JUST STARTED!](https://www.youtube.com/watch?v=A4NuoD8ZOAs)**
 
-Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
+THE BIGGEST BITCOIN SUPPLY SHOCK IN HISTORY JUST STARTED! Earn yield or borrow against your Bitcoin with Ledn   ...
 
-📺 Schwab Network
+📺 Luke Mikic
 
-👁️ 5K • 👍 46 • 💬 29 • ⏱️ 10:28 • 7h ago
+👁️ 11K • 👍 440 • 💬 35 • ⏱️ 29:51 • 10h ago
 
 ---
 
@@ -325,7 +319,37 @@ Is the Bitcoin bull market really back? Bitcoin is at $80000, above the bull mar
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 378 • 💬 32 • ⏱️ 23:36 • 1d ago
+👁️ 23K • 👍 394 • 💬 33 • ⏱️ 23:36 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Massive Surge: $800K Pathway? Fed Flip Flop!](https://www.youtube.com/watch?v=zX0_RE_mB0U)**
+
+Rustin talks about Bitcoin's Massive Surge: $800K Pathway? Fed Flip Flop! Brought to you by Bitcoinwell.com a bitcoin-only ...
+
+📺 Simply Bitcoin
+
+👁️ 791 • 👍 59 • 💬 19 • ⏱️ 1:28 • 3h ago
+
+---
+
+**[The Man Who Cracked The Crypto Algorithm | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
+
+Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 1K • 💬 158 • ⏱️ 42:33 • 11h ago
+
+---
+
+**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
+
+Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
+
+📺 Schwab Network
+
+👁️ 11K • 👍 76 • 💬 1 • ⏱️ 10:28 • 12h ago
 
 ---
 
@@ -335,47 +359,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 179K • 👍 3K • 💬 142 • ⏱️ 55:09 • 1d ago
-
----
-
-**[Bitcoin &amp; Crypto Are About To Make People VERY Rich You Cannot Afford To Miss This News](https://www.youtube.com/watch?v=4nh2LyrTT-s)**
-
-Who could have ever imagined that governments and central banks buying up Bitcoin and altcoins would cause more rich people ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 18K • 👍 1K • 💬 375 • ⏱️ 18:30 • 13h ago
-
----
-
-**[Bitcoin’s $82K Breakout Just Got REKT by the Fed!](https://www.youtube.com/watch?v=gOuhLyaGotA)**
-
-Bitcoin just posted its highest close in four months, up nearly $20000 in 20 days, and triggered one of the largest short liquidation ...
-
-📺 Simply Bitcoin
-
-👁️ 39K • 👍 2K • 💬 97 • ⏱️ 14:58 • 2d ago
-
----
-
-**[Bitcoin has 3 Possible Paths from here](https://www.youtube.com/watch?v=MK47H-8RTBo)**
-
-Bitcoin has 3 possible paths from here 2 Bearish & one Bullish count Yellow squiggle still in play TA & Live Trades Get the CF ...
-
-📺 Camel Finance
-
-👁️ 15K • 👍 637 • 💬 122 • ⏱️ 17:23 • 1d ago
-
----
-
-**[Ben Cowen: Most Accurate Trader In Crypto Flips On Bitcoin](https://www.youtube.com/watch?v=SzQFdsWTJec)**
-
-Ben Cowen called last year's cycle top almost to the week, live on this show. Now he puts a hard number on the bottom.
-
-📺 Kyle Chasse crypto
-
-👁️ 84K • 👍 2K • 💬 314 • ⏱️ 57:03 • 2d ago
+👁️ 190K • 👍 4K • 💬 142 • ⏱️ 55:09 • 1d ago
 
 ---
 
@@ -385,7 +369,7 @@ A GIANT STORM Is About To Hit Crypto ⛈️ ⭐ Follow Altcoin Daily on X: https
 
 📺 Altcoin Daily
 
-👁️ 19K • 👍 361 • 💬 10 • ⏱️ 1:09 • 2d ago
+👁️ 22K • 👍 394 • 💬 13 • ⏱️ 1:09 • 2d ago
 
 ---
 
@@ -395,17 +379,25 @@ TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $25 BONUS WEEX: https://c
 
 📺 Crypto Kid
 
-👁️ 9K • 👍 368 • 💬 59 • ⏱️ 12:17 • 16h ago
+👁️ 11K • 👍 378 • 💬 75 • ⏱️ 12:17 • 21h ago
 
 ---
 
-**[Bitcoin At A Major Decision Point | BTC Price Analysis](https://www.youtube.com/watch?v=pX8y4khTsBs)**
+**[THE BITCOIN AND CRYPTO SUPERCYCLE IS HERE EVEN IF BITCOIN DUMPS #bitcoin #xrp #crypto](https://www.youtube.com/watch?v=xl0CKkPqjTw)**
 
-See Our ETH + COIN Analysis: https://www.wickedstocks.com/ Bitcoin continues to test an important technical level. Cary breaks ...
+📺 CryptoWendyO
 
-📺 Wicked Stocks
+👁️ 1K • 👍 145 • 💬 6 • ⏱️ 1:53 • 4h ago
 
-👁️ 945 • 👍 44 • 💬 2 • ⏱️ 3:49 • 8h ago
+---
+
+**[Bitcoin Live TA &amp; Trading | WEN BUY? WEN SELL?!](https://www.youtube.com/watch?v=j1QkxVwq77Q)**
+
+Zen Master JP Leads The Congregation with TA Guided by Zen Wisdom. Look out for Trade Alerts! BTC SOL ETH XAU GOLD ...
+
+📺 Sin City Crypto
+
+👁️ 9K • 👍 222 • ⏱️ 2:48:36 • 7h ago
 
 ---
 
