@@ -5,36 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum co-founder Vitalik Buterin rejects AI-driven Bitcoin crash prediction within two years.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjZVVzRkWmhtWGg0WUtiRU4xalkyTkM0bFNzNW9BbkNQQ2wyVDQyWk9XMFJSQlZkUHhseGU1dzB4REViR3JrT1RvUTZFcjN0RXd4LWNJNnZaQXpHaGpWOXMtV21fSWVHWHNURDlUZGljcTVyRkxPMjVPREN5UW1iMTNNQWNlRGdVNXVPRzJaUXMzRGhxU3c?oc=5",
-      "pub_date": 1788756907.0,
-      "article_url": "https://pluang.com/en/news-feed/bitcoin-tidak-akan-jatuh-50-persen-karena-risiko-ai-buterin",
-      "image": "https://image-cdn.pluang.com/web/compressed/market_news-v2.webp",
-      "description": "Vitalik Buterin dismissed a prediction that AI could undermine Bitcoin's security and cause its price to drop over 50% within two years. He argued that while AI might expose operational vulnerabilities in Bitcoin's ecosystem, the core proof-of-work mechanism is highly unlikely to be broken. Buterin emphasized that software upgrades and mining-pool adaptations can address most AI-related threats without altering Bitcoin's fundamental rules. The debate highlights concerns about AI's role in cybersecurity but does not indicate immediate risks to Bitcoin's cryptographic integrity or market price."
-    },
-    {
-      "headline": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhva1d0azF0YnpuUGp4a29LX1lRVTktRUd3YWR6RENBanhpWWpEakFjUHd5VWtnQ0t6X0ZpS2lNQzJJTGJrUThkSXJubXFRU3VYeFNuVlFaMkwtbTVvZEdhdzdKVy1wODdEUUFEdXJHeUNlUF85b0Rza1VGeHA5ZWF4U3VtZDFGYjFmRVNlTDNQQTl2OG1LMFRXakI?oc=5",
-      "pub_date": 1788757080.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/aca1feefeaf337909f91a5d2a327099115ec907462f02e22133cdcfe3927b33c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F938a7b54d371d53838e8ca8d4d869a16.png",
-      "description": "Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board."
-    },
-    {
-      "headline": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS19CV2tVWmFDUjB6RG03cWg4UFFOSGZLSTdKN3BZYV9Ca1Y1WE9uS0tCaVJtQU5XeUh3RzFWQnpHSFB1WngxRTltTmVjbzJwRWZteEllb3RvOEg2QWpiNzRvYnNwZmJHZ201dXNnYTBpUjRwYkJIZUZBOTFQRlYtMHpMSXQ2QUlDZjRUaFRSa1ZSVWhrbWQ5Rw?oc=5",
-      "pub_date": 1788606000.0,
-      "article_url": "https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886042%2Fethereum-and-robinhood-logo.png&w=1200&op=resize",
-      "description": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum."
-    },
-    {
       "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -43,46 +13,6 @@
       "article_url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
       "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
       "description": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators."
-    },
-    {
-      "headline": "Crypto News Today: AlphaPepe Presale Passes $2.6M Raised as Ethereum Price Prediction Targets $10,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1pJdThfR3ZxTUVBeDVHdFdtT3FoOW4wSVBuakQ5VUhPTDlzLTRlRDdpeG1PaDRiNm1XczNMeXJGQjlzMWxEX1RnMnRnSjQzdm9EaGVzY0hISGpwTXNXdE1qQUNyNkFMSmFfenhRZUR5QUo3SVRqLWVuV0cxYngyX09rRkVqaml2SE9SZzRKTlA5V19jWEplU1F5NTNPcThfQmhZM3N4ZmRLTDByS2xQME9tRGo0NWJJaVIyOEs0WnFWdFcwbnlrTVo3LXV5LTVnbHVjQXhnZ0tNVVgxMTlTcy0zZ0NJaVJMb292MzN3?oc=5",
-      "pub_date": 1788747434.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-passes-2-6m-raised-as-ethereum-price-prediction-targets-10-000-1036525126",
-      "image": "https://ml.globenewswire.com/Resource/Download/770e368c-dc43-4c7d-b76d-14062d8616bb/alphapepe-presale-etherium-price.jpg",
-      "description": "MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward\u00a0AlphaPepe after the presale crossed a new $2.61 million record de..."
-    },
-    {
-      "headline": "How Bitmine could surpass its 5% Ethereum goal without buying more ETH",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSk9qVGFGSGpwOXRWaEh4bWd4UVZmU3Y1TkVaeUF0cFVULUpYcm80WmhqQ09hdzQ5akgzc091MGZnaFJnc2ZHN3BxTGZzcjViQmRLMjFJVkZiTG9JYmZjck5reDdlRUZoSzFfcXQySFNpbTdpN2l0V3Nyd1JlVWhlbWw3N1BEbGxQUXVRYWxjUi1aQTBPVTVSeGZ3?oc=5",
-      "pub_date": 1788718204.0,
-      "article_url": "https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmine-ethereum-staking-target.jpg",
-      "description": "BitMine's massive staking position could generate enough ETH to close the remaining gap, turning reward retention into the key variable."
-    },
-    {
-      "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWtybkdPT3hVa0wySVZTcEEtcW1YdDgxWnFfNWR6bWxpXzhKaTc3RDR1YWFIVW1oRmhDMktkRTJCTEdFVlk2YVdKX1ZoNFcxRThQYjJSLV9jNV9tSTNtZkpGQnFCdGNCWExjTWJNdGVmaVhGX1NwT05nTC1kbnloNHp0VXRiNUYtLWVpcnFfTlBQc3F0LTBUd3VKc21qazY2dlZfdDRsTzc5bzhHREx3bEVPdHFtRUU5YlFxTlRGQkN1VVFaaFJqZ0NNNnFOOTFJOXVUSXNRa283SzFzaDREbVQwTlFYWUdP?oc=5",
-      "pub_date": 1788620039.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:03fc8e59e094b:0-bitwise-s-matt-hougan-names-robinhood-solana-uniswap-and-ethereum-as-his-tokenization-basket/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an\u00a0i\u2026"
-    },
-    {
-      "headline": "Crypto Pulse USDT(@Crypto-Pulse-BD)'s insights",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RHNYclNVcUV3XzhBUlRtWmREOUFWVWR4QVhNc2lqXzF0cVB1X1ZkZnRuZUlWNk1FTUVaUHFWdFFlWWpNTnVQZlZ6N1VHTFlFejRmTC05U1lqSjlYaWRPcHRoZ0k?oc=5",
-      "pub_date": 1788736906.0,
-      "article_url": "https://www.binance.com/en/square/post/363912015743553",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates near recent highs, ETH and XRP defend key bullish supports",
@@ -95,16 +25,86 @@
       "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones."
     },
     {
-      "headline": "Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4",
-      "source": "benzinga.com",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3FMaFVaeERadmlmM1VnM2hoZnFUTTlCVVdxenBFS0NubVhETnlvMVZVX01YYk5GLTh4bnBjdnJ5SGt0MEk1aDUyZkNsRDloMGM4Q1NVMXA4UmJVX2RBdDZjZUtHa3RERGFuN0Q0cGxzM0RSb00teVhfZnl3MnZUcUk5MWlVbVpsZ2VvZzZocXI1bEwydTY4ZUVsLXpZM0FvV3p2SFhpeFlVSjJBRTUzdVRSdjhsQktPb25teG5peElPc1lRZ3c?oc=5",
-      "pub_date": 1788633011.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61643822/forget-xrp-ethereum-these-5-altcoins-could-rally-outperform-in-q4",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/05/Flying-Altcoins-With-Bitcoin-In-The-Cent.jpg",
-      "description": "Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says."
+      "headline": "New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WT1FVODFDZ1JHT1RfSkk1czFKamUwNVBOQkR0LVpkM3pJZ1VEdlZ6WUlEM0owM0JaSTc4SURHU1J5Vk1YcTYyeVdDSkhlaFRZemdoYmltQVJneHpjdFB3eDljTXNHUFk0UGVBREEyTQ?oc=5",
+      "pub_date": 1788698760.0,
+      "article_url": "https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/",
+      "image": "https://assets.beincrypto.com/img/lRXWTv1xfk6lJM0IR3zw-idS9qw=/1200x630/smart/filters:format(jpeg):quality(82)/2465a0f2e5de42028637e2a702354e98",
+      "description": "A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security."
+    },
+    {
+      "headline": "Crypto News Today: AlphaPepe Presale Passes $2.6M Raised as Ethereum Price Prediction Targets $10,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1pJdThfR3ZxTUVBeDVHdFdtT3FoOW4wSVBuakQ5VUhPTDlzLTRlRDdpeG1PaDRiNm1XczNMeXJGQjlzMWxEX1RnMnRnSjQzdm9EaGVzY0hISGpwTXNXdE1qQUNyNkFMSmFfenhRZUR5QUo3SVRqLWVuV0cxYngyX09rRkVqaml2SE9SZzRKTlA5V19jWEplU1F5NTNPcThfQmhZM3N4ZmRLTDByS2xQME9tRGo0NWJJaVIyOEs0WnFWdFcwbnlrTVo3LXV5LTVnbHVjQXhnZ0tNVVgxMTlTcy0zZ0NJaVJMb292MzN3?oc=5",
+      "pub_date": 1788747434.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-passes-2-6m-raised-as-ethereum-price-prediction-targets-10-000-1036525126",
+      "image": "https://ml.globenewswire.com/Resource/Download/770e368c-dc43-4c7d-b76d-14062d8616bb/alphapepe-presale-etherium-price.jpg",
+      "description": "MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward\u00a0AlphaPepe after the presale crossed a new $2.61 million record de..."
+    },
+    {
+      "headline": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes \u2018Everything Exchange\u2019 Vision",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFUwSE5JSF9oQjVoQjZQb3p2UjVYT2FZWFFSdlVERUN6N1BVT3BDSHpCa2x4dG1OYVBxMWNydXhTR0NfT0ZZc3BOMEktVG9sX2Z2OEtuS0RvTWJJZS00UjlEVW5VREZEQjA1NkQtWVJ6bmd4SkFSUXJzbjlPam12NG5PVDQ5eHM?oc=5",
+      "pub_date": 1788775122.0,
+      "article_url": "https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWtybkdPT3hVa0wySVZTcEEtcW1YdDgxWnFfNWR6bWxpXzhKaTc3RDR1YWFIVW1oRmhDMktkRTJCTEdFVlk2YVdKX1ZoNFcxRThQYjJSLV9jNV9tSTNtZkpGQnFCdGNCWExjTWJNdGVmaVhGX1NwT05nTC1kbnloNHp0VXRiNUYtLWVpcnFfTlBQc3F0LTBUd3VKc21qazY2dlZfdDRsTzc5bzhHREx3bEVPdHFtRUU5YlFxTlRGQkN1VVFaaFJqZ0NNNnFOOTFJOXVUSXNRa283SzFzaDREbVQwTlFYWUdP?oc=5",
+      "pub_date": 1788620039.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:03fc8e59e094b:0-bitwise-s-matt-hougan-names-robinhood-solana-uniswap-and-ethereum-as-his-tokenization-basket/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an\u00a0i\u2026"
+    },
+    {
+      "headline": "Harmony wants to kill its own blockchain and turn ONE into an AI video token",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanN5WHdNOFVwVUt4YzBaZHNQV2Z5dnJ1X3FZTnRpdTAzS3pVNk1CbnBJUnNYVDNwajRIdERxcXRrVHVXOUwtRkhfWVo1a1IyTnBHNWxEb1htc1VZOTdnaG4xYTY4Vkg0MVh4NHJ4d1pUaGVXSFBIMkJ0T0NqdVVtNjJ0b2ZMNFBLX3UwaS1sejJfby1yTDF5YmxJQld6SDBJbWR3Wi1JbUJuN0R2cVBuVDh3Nk9fa0s0ZzBYVWpsNA?oc=5",
+      "pub_date": 1788768138.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhEbWZIUktwTlloaXpIWXgyNFFOYlVYajJDd1FpZWx1N1hmZENJcGtITnRkZVkyN1lzd0pHZ1V1bzk2bkdzNjhPakJrU1hFTnBrVlVCeVhMaXFTb0ZSUTFwS1RyVVNMenNLUjVfUFE0RmZHemNkMm5WenJkcEg2dDZJbV9QSkRLVUF6VU5aODE2NDNXSWJJOHJqTFpRYUE?oc=5",
+      "pub_date": 1788533726.0,
+      "article_url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
+      "description": "Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets."
+    },
+    {
+      "headline": "Where Will Solana Be in 5 Years?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
+      "pub_date": 1788573420.0,
+      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
+      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+    },
+    {
+      "headline": "Vitalik Buterin Sees 60% Chance SNARKs, FHE and iO Reach Sub-10x Overhead",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGs1MGE4UlVwR1ByNFhQbWxfUjBCWFlQajNBVHMtSEpMTS1aX0ZuVHdjRkpVN1NYWWlhN1hzQjU0UXU3N3NWNGhtcWJ4TEVIdWtfY0U5bkdVTUNxampOQXZtN1FuZU5mSEF1RzFHSUl4UWt1bGQ0NjBtRnoyVXgxOVpEeWVDclhLVGlTc1JJNGJxemVCaGVDdTl2UVo3QQ?oc=5",
+      "pub_date": 1788761148.0,
+      "article_url": "https://financefeeds.com/vitalik-buterin-sees-60-chance-snarks-fhe-and-io-reach-sub-10x-overhead/",
+      "image": "https://financefeeds.com/wp-content/uploads/2026/02/Vitalik-Buterin.png",
+      "description": "Vitalik Buterin assigns a 60% probability that SNARKs, FHE and iO can run at under 10x the cost of ordinary computation, and 33% odds of near-parity."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T05:44:52.935075+00:00"
+  "fetched_at": "2026-09-07T11:45:49.580370+00:00"
 }
