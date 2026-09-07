@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T17:23:30.244357+00:00'
+updated: '2026-09-07T20:43:32.444462+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 17:23 UTC  
+**Last Updated:** September 07, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 This has been my project over the summer. Finally got it to walk after many prototypes 😁😁😁. Controls are a bit messy, but I'm still working on it!
 
-1d ago
+2d ago
 
 ---
 
@@ -118,23 +118,23 @@ Futurism • 2d ago
 
 ---
 
-**[Here’s why the future of bricklaying might just be robots](https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
 
-interestingengineering.com • 2d ago
+ABC7 Chicago • 3d ago
 
 ---
 
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 11h ago
+Reuters • 14h ago
 
 ---
 
 **[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
 
-SCMP • 15h ago
+South China Morning Post • 18h ago
 
 ---
 
@@ -146,27 +146,19 @@ understandingai.org • 6d ago
 
 ---
 
+**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
+
+Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
+
+uk.finance.yahoo.com • 5h ago
+
+---
+
 **[Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026](https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html)**
 
 /PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
 
-PR Newswire • 2h ago
-
----
-
-**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
-
-Remote-control robot bugs could deliver lifesaving aid to disaster victims
-
-IEEE Spectrum • 2d ago
-
----
-
-**[The hotels hiring robots to cut their wage bills](https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/)**
-
-Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
-
-The Telegraph • 2d ago
+PR Newswire • 5h ago
 
 ---
 
@@ -178,11 +170,17 @@ SciTechDaily • 1d ago
 
 ---
 
-**[NEURA and SECO put robot compute back in Europe](https://thenextweb.com/news/neura-seco-robot-compute-modules-europe)**
+**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
 
-NEURA and SECO will build robot compute modules in Europe. The chips inside them are Qualcomm's, and the scale question is still open.
+Forbes • 3h ago
 
-The Next Web • 5m ago
+---
+
+**[The hotels hiring robots to cut their wage bills](https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/)**
+
+Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
+
+The Telegraph • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 462K • 👍 9K • 💬 691 • ⏱️ 15:41 • 4d ago
+👁️ 475K • 👍 9K • 💬 694 • ⏱️ 15:41 • 4d ago
 
 ---
 
@@ -206,7 +204,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 277K • 👍 2K • 💬 619 • ⏱️ 1:44 • 3d ago
+👁️ 282K • 👍 2K • 💬 625 • ⏱️ 1:44 • 3d ago
 
 ---
 
@@ -216,17 +214,7 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 74K • 👍 1K • 💬 225 • ⏱️ 19:28 • 6d ago
-
----
-
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
-
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 231K • 👍 2K • 💬 146 • ⏱️ 0:58 • 5d ago
+👁️ 75K • 👍 1K • 💬 225 • ⏱️ 19:28 • 6d ago
 
 ---
 
@@ -236,7 +224,17 @@ A San Francisco startup has launched a $30-an-hour housecleaning service powered
 
 📺 Associated Press
 
-👁️ 239K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+👁️ 245K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+
+---
+
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 234K • 👍 2K • 💬 146 • ⏱️ 0:58 • 5d ago
 
 ---
 
@@ -250,33 +248,33 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 ---
 
-**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
-
-A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
-
-📺 New York Post
-
-👁️ 54K • 👍 765 • 💬 260 • ⏱️ 1:16 • 4d ago
-
----
-
 **[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
 
 Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
 
 📺 Jason Lowe on AI
 
-👁️ 6K • 👍 431 • 💬 24 • ⏱️ 2:08 • 23h ago
+👁️ 7K • 👍 466 • 💬 26 • ⏱️ 2:08 • 1d ago
 
 ---
 
-**[See this Tracked Robot from pixels to the wild  | BUNKER PRO](https://www.youtube.com/watch?v=voXrEU6ImIM)**
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
 
-BUNKER PRO is a tracked mobile robot and unmanned ground vehicle (UGV) designed for outdoor robotics, rugged terrain, and ...
+PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
 
-📺 AgileX Robotics
+📺 LIGHTS ARE OFF
 
-👁️ 672 • 👍 5 • 💬 1 • ⏱️ 0:16 • 4h ago
+👁️ 3.6M • 👍 72K • 💬 9K • ⏱️ 25:44 • 1d ago
+
+---
+
+**[Robot FIGHTS BACK After Man Pushes It in Tech Store](https://www.youtube.com/watch?v=he3bdfsSPBw)**
+
+Russian Robot FIGHTS BACK After Man Pushes It in Tech Store Things got intense inside a tech store when a man decided to ...
+
+📺 Faith, Fitness and Financial Freedom
+
+👁️ 164K • 👍 2K • 💬 269 • ⏱️ 0:33 • 4d ago
 
 ---
 
@@ -286,7 +284,7 @@ This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling 
 
 📺 ClayTaan Shorts
 
-👁️ 98K • 👍 1K • 💬 21 • ⏱️ 0:45 • 22h ago
+👁️ 130K • 👍 1K • 💬 26 • ⏱️ 0:45 • 1d ago
 
 ---
 
