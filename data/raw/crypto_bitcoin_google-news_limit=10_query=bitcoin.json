@@ -5,6 +5,36 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
+      "pub_date": 1788776592.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
+      "pub_date": 1788753900.0,
+      "article_url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
+      "pub_date": 1788775266.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
       "source": "AP News",
       "source_url": "https://apnews.com",
@@ -25,8 +55,18 @@
       "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions."
     },
     {
+      "headline": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2tfU0NfQnUzcXhCUkE3VVVLQ0doSTV4NmFLZ0VnQ2xsU1I1YTAyaUU3MVJQSkZSbkJrN2VYc1B6OHpsWHpTcWVwTGZYY2laZDFYNXNKcDg3TWNFaTNsQUtMck85TXlpanVvQUNvandRMEVQU2kwWENxWWhhbktEWDdWalBFXzFTd1I0?oc=5",
+      "pub_date": 1788802915.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/malone-lam-faces-plea-hearing-174155019.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8d7a79f6a440500736cf751b5116a153f18ad07122a9928486c4afdba7708bda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fede146224e8f05a94f335efc066b9556.png",
+      "description": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami."
+    },
+    {
       "headline": "Bitcoin (BTC) enters distribution as whales sell below $83,000",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVA3cUNleWdLdHhORWdWLUZjenhTQm9XSG5uaDh4UWJVdWViS2tleFVFR01mMThTdk9fQnJiZFAtamROSlRaZ0lQQi1aUjJYR0x4TGhyRHMzdmoyZ1QzekVrZWV1ZFlmMlhYUzBMdENscHZfNjNuSEdrQloxX0V0TjhmSklfSEV1bVdfTWg4aVRjRmtFOVNPUmZoSmw1bDNUaGFUcUNwSThObVE?oc=5",
       "pub_date": 1788796235.0,
@@ -35,24 +75,14 @@
       "description": null
     },
     {
-      "headline": "Hyperliquid Strategies Soared by 94% in August. Should Investors Forget Bitcoin and Buy This Stock Instead?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXpPTWI0N213NEp2VThxVUdQTXNJcUJIX3U4b3VOVHVkWXlvY1NEb1JVZ09kYnduVUh6SmRJQnFJbWNEQzhKSl9jS3Z0WER1WjhZUE5pdVVCaUJ1eFRlMUxMQjNpSHdXRG9IcUwxeW0yd25FZlBkMEtnY3dBdGtOaG1FUQ?oc=5",
-      "pub_date": 1788798130.0,
-      "article_url": "https://www.fool.com/investing/2026/09/07/hyperliquid-soared-by-94-in-august/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886094%2Fprofessional_smiling_while_holding_a_laptop.jpg&w=1200&op=resize",
-      "description": "Hyperliquid Strategies offers more upside than Bitcoin, but also more risk."
-    },
-    {
-      "headline": "Bitcoin Only Goes Up: What The 200W And 50W MAs Say About The Cycle Transition (BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQld5a2hEOVVpdlFnTk1kVVdxWHVfWUN0U1d4Q0VlVDVaVm1WclQzSExzOVB0TS04TGU4cjhlOGxUM2tHanBJcGxGN05ISjJxdVpNVGs2TjYtNEZrLWIzZ3dPQVJCaXBSSmlLb1k3dDVCU18yTEZaTzlpVmxab05DVHJUcG9GdUNwejRPcWd0VGdJekxlVUNZWHpKUVhEelE0TWVwcUpUTXRGdw?oc=5",
-      "pub_date": 1788798420.0,
-      "article_url": "https://seekingalpha.com/article/4943587-bitcoin-only-goes-up-what-200w-50w-mas-say-about-cycle-transition",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230305298/image_2230305298.jpg?io=getty-c-w1536",
-      "description": "The 200W MA has historically marked Bitcoin\u2019s bear market floor, though reclaiming it alone does not confirm the bear market is over."
+      "headline": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnprUDVsZHdrT2xxU0FfaHRpN1lLZ3FNR0lzaEJsRVJQMFR3Vm85MWZrbjRNR1dtNzJIWFZlOUZPT3QwUTRzY2VuR214Rm9lWDVkYjRvR1NoRWd5dVRzdGhNYmJoQUthM3g1NkQwNzB1ZGhLUC1jeGo3enRvY1p2b0xTYUxlVWNsZTlWMFNmczlJWFhNb0dWM2dSM2F6VDBIaTR1ZFRYSVJHc01HdFNQUnd0MmI?oc=5",
+      "pub_date": 1788802203.0,
+      "article_url": "https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
@@ -65,46 +95,16 @@
       "description": "For years, the \"digital gold\" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall\u2026"
     },
     {
-      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
-      "pub_date": 1788753900.0,
-      "article_url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788776592.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
-      "pub_date": 1788775266.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video]",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWS1pVnE3ZExyZUZvVzVTTmVLOUxDOTZ5WV84YXpfTEdvRGFoaFZ6b1ZKaXlCcFE1ZUpHT1FuQUM2cmJ6TVBObi1kV3J1Q3RjQUt0OFJQRDd0OTBBaEY2QVo3QWdtMWYzRWNiM18xa3pPYWQ1UE9wR3F5MkRrVlpjWWhrV05NQlVHeFhhTXp3S2RVbXRwQVE1Z2MtRHgycERMb0xSNVNURWVBM213enFuN1F5OGpHcG95WndRVy10OC0?oc=5",
-      "pub_date": 1788783082.0,
-      "article_url": "https://www.fxstreet.com/analysis/weekly-forex-forecast-eur-usd-xau-usd-gbp-usd-usd-jpy-bitcoin-and-more-video-202609071211",
-      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-01_Medium.jpg",
-      "description": "Dxy, EurUsd, GbpUsd, UsdJpy, UsdCad, UsdChf, AudUsd, NzdUsd."
+      "headline": "Hyperliquid Strategies Soared by 94% in August. Should Investors Forget Bitcoin and Buy This Stock Instead?",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXpPTWI0N213NEp2VThxVUdQTXNJcUJIX3U4b3VOVHVkWXlvY1NEb1JVZ09kYnduVUh6SmRJQnFJbWNEQzhKSl9jS3Z0WER1WjhZUE5pdVVCaUJ1eFRlMUxMQjNpSHdXRG9IcUwxeW0yd25FZlBkMEtnY3dBdGtOaG1FUQ?oc=5",
+      "pub_date": 1788798130.0,
+      "article_url": "https://www.fool.com/investing/2026/09/07/hyperliquid-soared-by-94-in-august/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886094%2Fprofessional_smiling_while_holding_a_laptop.jpg&w=1200&op=resize",
+      "description": "Hyperliquid Strategies offers more upside than Bitcoin, but also more risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T17:23:28.029509+00:00"
+  "fetched_at": "2026-09-07T20:43:24.826396+00:00"
 }
