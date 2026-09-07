@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 10986,
+      "github_stars": 11016,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 31532,
+      "github_stars": 31676,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 1352,
+      "github_stars": 1365,
       "project_page": null
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 20019,
+      "github_stars": 20064,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 4,
       "published_at": "2025-08-22T06:35:56.000Z",
       "github_repo": "https://github.com/agentscope-ai/agentscope",
-      "github_stars": 30842,
+      "github_stars": 30887,
       "project_page": null
     },
     {
@@ -153,25 +153,6 @@
       "project_page": null
     },
     {
-      "id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
-      "organization_name": "apodex",
-      "organization_fullname": "Apodex",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
-      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
-      "hf_url": "https://huggingface.co/papers/2608.23283",
-      "arxiv_url": "https://arxiv.org/abs/2608.23283",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 205,
-      "num_comments": 3,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 1857,
-      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
-    },
-    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -187,11 +168,30 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 86328,
+      "github_stars": 86374,
       "project_page": null
+    },
+    {
+      "id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
+      "organization_name": "apodex",
+      "organization_fullname": "Apodex",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
+      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
+      "hf_url": "https://huggingface.co/papers/2608.23283",
+      "arxiv_url": "https://arxiv.org/abs/2608.23283",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
+      "upvotes": 205,
+      "num_comments": 3,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+      "github_stars": 1901,
+      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-06T22:44:07.633696+00:00"
+  "fetched_at": "2026-09-07T05:44:35.574911+00:00"
 }

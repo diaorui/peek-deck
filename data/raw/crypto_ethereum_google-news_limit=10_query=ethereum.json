@@ -5,34 +5,64 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitmine boosts Ethereum holdings to 5.9M ETH, n...",
+      "headline": "Ethereum co-founder Vitalik Buterin rejects AI-driven Bitcoin crash prediction within two years.",
       "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODNhMDZJenRadHJOMTRvVnRJZzQ5WFMyU2dTTzBZdk01alRVQnlQYkJXbWRoUzhzYUJPalY5UUtjbjdCaUtnQWJEd05sbDJmZXpJLWQ0S1dUc09YNWtqTUhjYXdnSThyM1RtSlF5N0pwN0hZaFNyTnp4QTVGdXVRaHhkNVc4dWpXUmZOdTU2VkhySHc0WVlWNGpkLTl3XzFXWW5oQQ?oc=5",
-      "pub_date": 1788730261.0,
-      "article_url": "https://pluang.com/en/news-feed/bitmine-dekati-target-5-persen-ethereum-dengan-pendapatan-staking-kuat",
-      "image": "https://image-cdn.pluang.com/web/compressed/fundamentals-v2.webp",
-      "description": "Bitmine, a Nasdaq-listed treasury company, increased its Ethereum holdings by 53,501 ETH through August 30, raising its total disclosed treasury to 5.9 million ETH. The company has staked over 5.06 million ETH at an annualized yield of 2.67%, generating significant staking rewards that could produce about 135,000 ETH annually, nearly covering the gap to its 5% ownership target of the total ETH supply. Additionally, on September 1, Bitmine reportedly purchased another 51,000 ETH, potentially bringing its holdings closer to 5.95 million ETH and reducing the shortfall to about 83,000 tokens. This expansion, combined with staking rewards, positions Bitmine to reach its goal without needing to buy all tokens outright. Meanwhile, Bitmine chairman Tom Lee linked future crypto adoption to clearer U.S. regulation, highlighting the potential impact of the CLARITY Act on institutional investment."
-    },
-    {
-      "headline": "Ethereum price eyes $2,750 but must break $2,54...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmtSSnhkRmpmWHY5b3FoRWl3OWpmWEJfNDBBZHJ6VW5Wa01qYmphRkp4VVpRRGJXRWhycG51Tkltbi1QbVdfekZCc19rYzlGV21yWlBWU3hGT1JNUTlUcnh4ampLSDUwcVV0cHNzMjJYcUJjQTd0WnVROUR2cEdVYTEtT1NXR3BC?oc=5",
-      "pub_date": 1788729776.0,
-      "article_url": "https://pluang.com/en/news-feed/prediksi-harga-ethereum-2750-jika-eth-lewati-2567",
-      "image": "https://image-cdn.pluang.com/web/compressed/technical_signals-v2.webp",
-      "description": "Ethereum is trading in a range between $2,350 and $2,560, with buyers defending the lower boundary near $2,380. The price needs to break and sustain above the $2,545 to $2,567 resistance band to confirm a bullish trend and target $2,750. Whale activity has faded, and normal-sized trades dominate, causing choppy price action without clear direction. A break below $2,358 would weaken the bullish setup and could lead to a correction toward support levels between $2,179 and $2,367."
-    },
-    {
-      "headline": "Ethereum surges 66% in Q3 2026 as DeFi and meme coins on Robinhood Chain drive demand",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHg3NjVyTWxwS0t4bWo4bzlmaDhvUG5aNGQtSXdYTnQ5bmk4M1RzSE44MEdCU3JudHZYdG1FVEFGWXJhNF9oRm9nQXhrNElBZV9wdVZCTktmaGJ2dUFGMVRjUWY5Q2ZIN3ptck9fZXM3ZFpwcFZXbHU3VVpFOV9sYzdDYkcydG9seEhMYkxHcw?oc=5",
-      "pub_date": 1788728176.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-menguat-aktivitas-defi-dorong-minat-meme-coin",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjZVVzRkWmhtWGg0WUtiRU4xalkyTkM0bFNzNW9BbkNQQ2wyVDQyWk9XMFJSQlZkUHhseGU1dzB4REViR3JrT1RvUTZFcjN0RXd4LWNJNnZaQXpHaGpWOXMtV21fSWVHWHNURDlUZGljcTVyRkxPMjVPREN5UW1iMTNNQWNlRGdVNXVPRzJaUXMzRGhxU3c?oc=5",
+      "pub_date": 1788756907.0,
+      "article_url": "https://pluang.com/en/news-feed/bitcoin-tidak-akan-jatuh-50-persen-karena-risiko-ai-buterin",
       "image": "https://image-cdn.pluang.com/web/compressed/market_news-v2.webp",
-      "description": "Ethereum experienced a strong rally in Q3 2026, rising about 66%, fueled by over $10 billion in ETF inflows, $15 billion in corporate ETH purchases, and a revival in DeFi activity. Robinhood Chain, an Ethereum Layer-2 network launched in July 2026, unexpectedly saw meme coins dominate its trading volume, with its flagship token CASHCAT reaching a market cap of around $220 million. This surge in meme coin interest on Robinhood Chain highlights growing retail investor enthusiasm, contributing to Ethereum's broader momentum alongside Bitcoin's rise. The DeFi sector's total value locked hit approximately $88 billion, signaling robust activity and potential for continued growth."
+      "description": "Vitalik Buterin dismissed a prediction that AI could undermine Bitcoin's security and cause its price to drop over 50% within two years. He argued that while AI might expose operational vulnerabilities in Bitcoin's ecosystem, the core proof-of-work mechanism is highly unlikely to be broken. Buterin emphasized that software upgrades and mining-pool adaptations can address most AI-related threats without altering Bitcoin's fundamental rules. The debate highlights concerns about AI's role in cybersecurity but does not indicate immediate risks to Bitcoin's cryptographic integrity or market price."
+    },
+    {
+      "headline": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhva1d0azF0YnpuUGp4a29LX1lRVTktRUd3YWR6RENBanhpWWpEakFjUHd5VWtnQ0t6X0ZpS2lNQzJJTGJrUThkSXJubXFRU3VYeFNuVlFaMkwtbTVvZEdhdzdKVy1wODdEUUFEdXJHeUNlUF85b0Rza1VGeHA5ZWF4U3VtZDFGYjFmRVNlTDNQQTl2OG1LMFRXakI?oc=5",
+      "pub_date": 1788757080.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/aca1feefeaf337909f91a5d2a327099115ec907462f02e22133cdcfe3927b33c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F938a7b54d371d53838e8ca8d4d869a16.png",
+      "description": "Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board."
+    },
+    {
+      "headline": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS19CV2tVWmFDUjB6RG03cWg4UFFOSGZLSTdKN3BZYV9Ca1Y1WE9uS0tCaVJtQU5XeUh3RzFWQnpHSFB1WngxRTltTmVjbzJwRWZteEllb3RvOEg2QWpiNzRvYnNwZmJHZ201dXNnYTBpUjRwYkJIZUZBOTFQRlYtMHpMSXQ2QUlDZjRUaFRSa1ZSVWhrbWQ5Rw?oc=5",
+      "pub_date": 1788606000.0,
+      "article_url": "https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886042%2Fethereum-and-robinhood-logo.png&w=1200&op=resize",
+      "description": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum."
+    },
+    {
+      "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UM0NkQllsb3FrdjdVTXY2TG9VT3ozZjk0QWNwN2g5eFJrbFVBNGszR2tHN1d3TmdEbEc5NGc5dEh6UmpoVjgwTm1sbGdPOXJrbkJpOVpERmNtV2xjTTV5VFY0M3VNLTVUdFFRYWt3cFdhZHhDWTlzOUNENFZST3M?oc=5",
+      "pub_date": 1788748127.0,
+      "article_url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+      "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
+      "description": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators."
+    },
+    {
+      "headline": "Crypto News Today: AlphaPepe Presale Passes $2.6M Raised as Ethereum Price Prediction Targets $10,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1pJdThfR3ZxTUVBeDVHdFdtT3FoOW4wSVBuakQ5VUhPTDlzLTRlRDdpeG1PaDRiNm1XczNMeXJGQjlzMWxEX1RnMnRnSjQzdm9EaGVzY0hISGpwTXNXdE1qQUNyNkFMSmFfenhRZUR5QUo3SVRqLWVuV0cxYngyX09rRkVqaml2SE9SZzRKTlA5V19jWEplU1F5NTNPcThfQmhZM3N4ZmRLTDByS2xQME9tRGo0NWJJaVIyOEs0WnFWdFcwbnlrTVo3LXV5LTVnbHVjQXhnZ0tNVVgxMTlTcy0zZ0NJaVJMb292MzN3?oc=5",
+      "pub_date": 1788747434.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-passes-2-6m-raised-as-ethereum-price-prediction-targets-10-000-1036525126",
+      "image": "https://ml.globenewswire.com/Resource/Download/770e368c-dc43-4c7d-b76d-14062d8616bb/alphapepe-presale-etherium-price.jpg",
+      "description": "MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward\u00a0AlphaPepe after the presale crossed a new $2.61 million record de..."
+    },
+    {
+      "headline": "How Bitmine could surpass its 5% Ethereum goal without buying more ETH",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSk9qVGFGSGpwOXRWaEh4bWd4UVZmU3Y1TkVaeUF0cFVULUpYcm80WmhqQ09hdzQ5akgzc091MGZnaFJnc2ZHN3BxTGZzcjViQmRLMjFJVkZiTG9JYmZjck5reDdlRUZoSzFfcXQySFNpbTdpN2l0V3Nyd1JlVWhlbWw3N1BEbGxQUXVRYWxjUi1aQTBPVTVSeGZ3?oc=5",
+      "pub_date": 1788718204.0,
+      "article_url": "https://cryptoslate.com/how-bitmine-could-surpass-its-5-ethereum-goal-without-buying-more-eth/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitmine-ethereum-staking-target.jpg",
+      "description": "BitMine's massive staking position could generate enough ETH to close the remaining gap, turning reward retention into the key variable."
     },
     {
       "headline": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
@@ -45,66 +75,36 @@
       "description": "Investors should spread their bets across a number of firms in the tokenization trade rather than going all-in on one company, said Bitwise Chief Investment Officer Matt Hougan, who pointed to a basket of Robinhood Markets (HOOD), Solana (SOL), Uniswap (UNI) and Ethereum (ETH) that he likes.In an\u00a0i\u2026"
     },
     {
-      "headline": "Where Will Solana Be in 5 Years?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZ2E4bmZLWUNoaXMzdDVrSlRNMGxoSVBSWmt3Vk9jSHV6MkRUNWd6bkJmS21nbnZvcUlWYmo3QVNIZFpNUm9CSC03MV9XTDZJcXhTVkpuZTdhUm9ST054MEZSZ1VWMTM4NlhaM0hYTlVjLUpVWi16QnNINm1tMk0?oc=5",
-      "pub_date": 1788573420.0,
-      "article_url": "https://www.fool.com/investing/2026/09/04/where-will-solana-be-in-5-years/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885491%2Fstock-projection-with-turtle.jpg&w=1200&op=resize",
-      "description": "This network is making major inroads in tokenized stocks, but it has a long way to go before it can beat Ethereum."
+      "headline": "Crypto Pulse USDT(@Crypto-Pulse-BD)'s insights",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50RHNYclNVcUV3XzhBUlRtWmREOUFWVWR4QVhNc2lqXzF0cVB1X1ZkZnRuZUlWNk1FTUVaUHFWdFFlWWpNTnVQZlZ6N1VHTFlFejRmTC05U1lqSjlYaWRPcHRoZ0k?oc=5",
+      "pub_date": 1788736906.0,
+      "article_url": "https://www.binance.com/en/square/post/363912015743553",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Ethereum advances scaling with EIP-8141, a new transaction type that splits one tx into up to 64 frames",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SWHJROGowV3Jac05aRE04anZvNGJ4TFNwYzZMUnVoRGxERkhlRWtCckcyUThmQ2dVYldqcDdVclZya084emd1MHV1a2lsTUU5ZklYSUNtRFkzOFczZjlXUDNHTVE0RUx6cnVBMFVOaWc4bThCQmt5N3VZOA?oc=5",
-      "pub_date": 1788650812.0,
-      "article_url": "https://cryptobriefing.com/ethereum-eip-8141-frame-transaction-scaling/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/05192649/library-ethereum-advances-scaling-with-eip-8141-a-new-transactio-800x450.png",
-      "description": "EIP-8141 introduces frame transactions to Ethereum, splitting one tx into 64 programmable frames for native account abstraction, gas sponsorship,"
-    },
-    {
-      "headline": "Wall Street just poured nearly $900 million into Bitcoin and Ethereum ETFs",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVXhEbWZIUktwTlloaXpIWXgyNFFOYlVYajJDd1FpZWx1N1hmZENJcGtITnRkZVkyN1lzd0pHZ1V1bzk2bkdzNjhPakJrU1hFTnBrVlVCeVhMaXFTb0ZSUTFwS1RyVVNMenNLUjVfUFE0RmZHemNkMm5WenJkcEg2dDZJbV9QSkRLVUF6VU5aODE2NDNXSWJJOHJqTFpRYUE?oc=5",
-      "pub_date": 1788533726.0,
-      "article_url": "https://cryptoslate.com/wall-street-just-poured-nearly-900-million-into-bitcoin-and-ethereum-etfs/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ether-etf-gateways.jpg",
-      "description": "Bitcoin and Ethereum both broke higher as fresh institutional capital returned across the two largest spot ETF markets."
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates near recent highs, ETH and XRP defend key bullish supports",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSmJEcS1LUmRmaXhJVXVmSXZRbUFjYndXU09mR0wzanVUblZxX3hCaUVMVVR1X2Y4MEEtbVdycjZrSG0ybjF5M1hONmIzUW8yekZYWk9UU0NlQkdQY1dBcTlJMm5oUV8zdVEwQlhOTElDaE8xUXFyOFNBd3pndWltVGY1Tk5VeXl2QVhOUUxZb0FralZFQ0NUekpFbWZKTVMxcmpXY251a2ZhNW9nNzVCRF9sTHJlYXJ5ODU5bU16TUszNTR6M3dBSV9GM2lvZ1FUbDdIbzNGRHF5c2FIWkFja0tibHR3aDlBeWV1bWdrVnUteVlUT0dTV2ZweVhrbjJNblpqQ2tSTGpqUTVLN2c?oc=5",
+      "pub_date": 1788750747.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312",
+      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
+      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones."
     },
     {
       "headline": "Forget XRP, Ethereum: These 5 Altcoins Could Rally Outperform in Q4",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3FMaFVaeERadmlmM1VnM2hoZnFUTTlCVVdxenBFS0NubVhETnlvMVZVX01YYk5GLTh4bnBjdnJ5SGt0MEk1aDUyZkNsRDloMGM4Q1NVMXA4UmJVX2RBdDZjZUtHa3RERGFuN0Q0cGxzM0RSb00teVhfZnl3MnZUcUk5MWlVbVpsZ2VvZzZocXI1bEwydTY4ZUVsLXpZM0FvV3p2SFhpeFlVSjJBRTUzdVRSdjhsQktPb25teG5peElPc1lRZ3c?oc=5",
       "pub_date": 1788633011.0,
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61643822/forget-xrp-ethereum-these-5-altcoins-could-rally-outperform-in-q4",
       "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/05/Flying-Altcoins-With-Bitcoin-In-The-Cent.jpg",
       "description": "Hyperliquid, Chainlink, Bittensor, Uniswap and Solana could outperform Ethereum and XRP in Q4, Altcoin Daily says."
-    },
-    {
-      "headline": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kT1NwQk9STElWckFvVy1Scy14T1RqZ2g5YU4xeWlhYWJYUVhpRHBiMWFxbEF6REJhZmlsYlVXWVlidXNlU3BmZ3BpSXFSUk5fbGFpVi1JN3VFRjhZNVFPdTdTZ3FyWmN3QWhQWWQ2OEdaaFJndDF5QmFob9IBgwFBVV95cUxQSGFaN09vRHQ2SnpTMVJrVkVuMUNrRVlvd09ISjhYX2JuZlVnaGZOekU5bExlTnhIckFBcE1JN0ttRzRWVm9SY2QtaVh6WjJ0c3FDRlYycXBZZXFfQ1NVelIxaGJfRTJ0OC1tMGtlUTJyNng1YWgtSy1OZ0ZhdUI2WXNUWQ?oc=5",
-      "pub_date": 1788459307.0,
-      "article_url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg",
-      "description": "Ethereum ETFs broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back."
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeGdfVFVsSWxWUE5hT1RlTW42Q2J1STFJQVllTHNraGxocXFBZWw4enNCSUxRX29DOXlxZk8yRXdacEJnam1zdURONE5IYkdpQUtJbDRJeVhaZUx3MVp4WGUyNjlScDBiTnBabTVVdWlEdDFjZmFiNHRxeUlZV1dHQmpsMTY5M0h1MEpReG91YmhtWXRCdWR1VGk3STgzSFFYRnB3WVU4WGhuNV9EX3pCTVVUdnNKakZpdkE0RmsxaFIteVY5VUF6V0h5dUhIOHdUblkxdXVMdENwaWJnQ3hCbllXUVZiT3l0YVl0VV9rbC1yVndRTGVHTjQzUDBDSlFtSFRVRmMzYWZTTkVTT1UwYjJSeGVwUHUzU19J?oc=5",
-      "pub_date": 1788521871.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
-      "description": "Bitcoin opened at $81,271.92 on Friday, September 4, 2026, 5.1% higher than Thursday's opening price. As of 7:21 a.m. ET this morning, the price of bitcoin shifted to $81,240.29.  Ethereum opened at $2,507.70 today, up 4.9% from Thursday's opening price. Ethereum moved to $2,522.14 as of 7:21 a.m. ET."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T00:43:49.645889+00:00"
+  "fetched_at": "2026-09-07T05:44:52.935075+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T00:43:54.951947+00:00'
+updated: '2026-09-07T05:44:59.942359+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 00:43 UTC  
+**Last Updated:** September 07, 2026 at 05:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-8h ago
+13h ago
 
 ---
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-7h ago
+12h ago
 
 ---
 
@@ -56,7 +56,7 @@ Progress on my custom hexapod project over the past few months. In the first few
 
 Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studied optimal control for robot manipulators during my bachelor's and researched reinforcement learning during my master's. Recently, I have been working on transferring simulation-trained RL policies to a real-world robot manipulator (i.e., FR3). I have seen different choices for a robotic agent's action space in machine learning. I think there is not a promising design of the action space, since each choice has advantages and drawbacks. So, I trained an RL agent in simulation (Isaac Sim) with a Cartesian delta action space, which outputs the end-effector's desired Cartesian pose at the next control step based on the robot's world frame. This is the page where the problem begins. I use DifferentialIKController in Isaac Lab for the low-level controller, which maps the delta pose action to the desired joint positions. In Isaac Sim, the desired joint position is controlled by the internal physics engine and a PD control law that computes target joint torques. In a real-world setup, there is no physics engine or plug-and-play low-level controller. You should implement the low-level controller that maps the delta pose actions to joint torque and position commands for the robot's API (e.g., franka_ros2's ROS2 control plugins). Moreover, a safety-violation monitor should be implemented by us to prevent hardware failures. In contrast to simulation, real-world robots are highly sensitive to safety constraints; for instance, collision detection and joint limits. Currently, I have implemented a custom C++ controller that takes Cartesian delta pose commands via the ROS2 topic and computes desired joint torques based on the robot's kinematics and dynamics. However, implementing a safety monitor remains a problem. As another strategy, I have been thinking about using ROS2's MoveIt packages for sending delta commands and monitoring task-space safety violations, which may cost wall-clock time compared to the vanilla C++ controller. How do you guys work on a real-world robot learning setup? I want to hear from you about conducting real-world robot manipulation experiments with neural policies (e.g., BC or RL).
 
-18h ago
+23h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studi
 
 I'm a sophomore student in Meche and this is my first robot so it took about 2 months. It's a 3d printed robot arm built from scratch and works pretty well but its a bit wobbly (which I'm working on fixing). Its controlled by an arduino uno and 5 potentiometers. But the issue is that those potentiometers are small and covered in nets of wires. I could cut specific wire lengths and buy bigger potentiometers (and probably will) but I think there's another option. Is there some sort of robot arm simulation software that can let me control my arm smoothly on my computer without having to turn each potentiometer slightly to adjust it? I know there's Robodk but its really expensive so if there's one I can use that's free or free for students that would help a lot. Also, since I'm not really satisfied with just a robot arm since its really common for personal projects in my major, my next step is to replace the robot claw with a claw mount built to hold some sort of sprinkler or pump that waters plants when a soil moisture sensor alerts it to. The robot arm will switch to 4DOF for this, and on the opposite side of the arm link, I will also add another claw mount built to aim a grow light at the plant when a grove light sensor tells it to. Water pump aspect I'm working on, grow light is still just a thought right now.
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 **[Special news Ortomi Robot diy code given in github](https://www.reddit.com/r/robotics/comments/1w8qg8m/special_news_ortomi_robot_diy_code_given_in_github/)**
 
-16h ago
+21h ago
 
 ---
 
@@ -94,7 +94,7 @@ This has been my project over the summer. Finally got it to walk after many prot
 
 I want to build the arctos for experimenting with simple automation. Is the arctos 4 open loop kit with all the hardware (except 3d printed parts) a good / fair deal when comparing to gathering all components seperatly? I am still fairly unfamiliary with how much all of these seperate bearings etc. cost, and aliexpress lists 20 different version with huge variations in price.
 
-17h ago
+22h ago
 
 ---
 
@@ -110,11 +110,11 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
+**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
 
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
 
-ABC7 Chicago • 2d ago
+Futurism • 1d ago
 
 ---
 
@@ -122,37 +122,7 @@ ABC7 Chicago • 2d ago
 
 Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
 
-Interesting Engineering • 2d ago
-
----
-
-**[New facility coming to metro Atlanta, bringing 140 jobs and high-tech robotics](https://www.wsbtv.com/news/local/new-facility-coming-metro-atlanta-bringing-140-jobs-high-tech-robotics/GSRZY5V3GVA2PFGODG6TPATK5U/)**
-
-The warehouse will be built around automation, including robotic conveyance and planned AI-powered robotics.
-
-WSB-TV • 24m ago
-
----
-
-**[Humanoid Robots Learn to Haul Couches and Keep Payloads Steady](https://spectrum.ieee.org/video-friday-agility-robotics-digit)**
-
-Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
-
-MarketWatch • 1d ago
-
----
-
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
-
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
-
-BBC • 2d ago
+interestingengineering.com • 2d ago
 
 ---
 
@@ -164,25 +134,55 @@ The Telegraph • 1d ago
 
 ---
 
+**[New facility coming to metro Atlanta, bringing 140 jobs and high-tech robotics](https://www.wsbtv.com/news/local/new-facility-coming-metro-atlanta-bringing-140-jobs-high-tech-robotics/GSRZY5V3GVA2PFGODG6TPATK5U/)**
+
+The warehouse will be built around automation, including robotic conveyance and planned AI-powered robotics.
+
+WSB-TV • 5h ago
+
+---
+
+**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+
+Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+
+BBC • 3d ago
+
+---
+
 **[These Light-Powered Robots Can Keep Jumping Forever](https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/)**
 
 A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
 
-scitechdaily.com • 10h ago
+SciTechDaily • 15h ago
 
 ---
 
-**[Hear what University of Akron president say about safety and robotics](https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/)**
+**[Cyborg Roaches Can Stab You With Needles](https://spectrum.ieee.org/cyborg-rescue-roach)**
 
-signalakron.org • 2d ago
+Remote-control robot bugs could deliver lifesaving aid to disaster victims
+
+IEEE Spectrum • 1d ago
 
 ---
 
-**[A 10.5-foot, 8,710-pound seabed drone found its own ship off Nova Scotia, latched onto a camera-guided hook and rode onto the deck with nobody at the controls. That job is still done by crews leaning over the rail with poles, on a machine built to pick potato-s](https://www.autonocion.com/us/4-ton-drone-found-own-ship-halifax/)**
+**[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
 
-If you have ever watched an ocean robotics video all the way to the end, you know the scene: a ship holding position, a crane swung out over the side, and a
+MarketWatch • 1d ago
 
-Autonocion.com • 1d ago
+---
+
+**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
+
+South China Morning Post • 3h ago
+
+---
+
+**[The 5 Best Humanoid Robots Of IFA 2026](https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/)**
+
+Humanoid robots were the order of the day at IFA 2026, and BGR's own José Adorno was on hand to take a look at several of them up close and personal.
+
+bgr.com • 10h ago
 
 ---
 
@@ -196,17 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 418K • 👍 8K • 💬 636 • ⏱️ 15:41 • 4d ago
-
----
-
-**[Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever!](https://www.youtube.com/watch?v=AmYfBmEPxhU)**
-
-Tesla Bot Gen 3 In 10 Minutes, Best Cooking Robot Ever! Tesla Bot Gen 3 could be Tesla's biggest step toward a truly useful ...
-
-📺 TESLA CAR WORLD
-
-👁️ 159K • 👍 2K • 💬 224 • ⏱️ 12:56 • 6d ago
+👁️ 437K • 👍 8K • 💬 654 • ⏱️ 15:41 • 4d ago
 
 ---
 
@@ -216,57 +206,27 @@ A San Francisco startup has launched a $30-an-hour housecleaning service powered
 
 📺 Associated Press
 
-👁️ 225K • 👍 4K • 💬 1K • ⏱️ 1:39 • 5d ago
+👁️ 232K • 👍 4K • 💬 1K • ⏱️ 1:39 • 5d ago
 
 ---
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[I Trained a Robot in Simulation. Then I Made It Walk.](https://www.youtube.com/watch?v=gEjg179fvmc)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+I had 7 days to build a walking robot from scratch or I had to give back the 3D printer I was using to build it. Meet Stompy , a fully ...
 
-📺 Julia McCoy
+📺 Kayden Knapik
 
-👁️ 74K • 👍 607 • 💬 130 • ⏱️ 9:07 • 3d ago
-
----
-
-**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
-
-A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
-
-📺 CBS Chicago
-
-👁️ 231K • 👍 2K • 💬 557 • ⏱️ 1:44 • 3d ago
+👁️ 71K • 👍 1K • 💬 218 • ⏱️ 19:28 • 5d ago
 
 ---
 
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
 
-📺 South China Morning Post
+📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 165K • 👍 1K • 💬 380 • ⏱️ 3:47 • 3d ago
-
----
-
-**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
-
-Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
-
-📺 Carros Show
-
-👁️ 48K • 👍 340 • 💬 55 • ⏱️ 19:36 • 6d ago
-
----
-
-**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
-
-Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
-
-📺 Jason Lowe on AI
-
-👁️ 2K • 👍 203 • 💬 15 • ⏱️ 2:08 • 6h ago
+👁️ 224K • 👍 2K • 💬 143 • ⏱️ 0:58 • 5d ago
 
 ---
 
@@ -276,17 +236,57 @@ This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling 
 
 📺 ClayTaan Shorts
 
-👁️ 2K • 👍 111 • 💬 6 • ⏱️ 0:45 • 5h ago
+👁️ 16K • 👍 420 • 💬 11 • ⏱️ 0:45 • 10h ago
 
 ---
 
-**[The Biggest Robot Vacuum Launches at IFA 2026 | Roborock, Dreame, DJI ROMO, iRobot &amp; Others](https://www.youtube.com/watch?v=zCXcXRmjMhc)**
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
 
-A hands-on look at the most interesting robot vacuums and cleaning concepts from IFA 2026—including the Roborock Saros 20 ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
 
-📺 Rawan's Reviews
+📺 Julia McCoy
 
-👁️ 22K • 👍 129 • 💬 9 • ⏱️ 9:44 • 1d ago
+👁️ 75K • 👍 610 • 💬 130 • ⏱️ 9:07 • 3d ago
+
+---
+
+**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
+
+Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
+
+📺 Jason Lowe on AI
+
+👁️ 4K • 👍 315 • 💬 23 • ⏱️ 2:08 • 11h ago
+
+---
+
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
+
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
+
+📺 CBS Chicago
+
+👁️ 251K • 👍 2K • 💬 572 • ⏱️ 1:44 • 3d ago
+
+---
+
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+
+📺 South China Morning Post
+
+👁️ 173K • 👍 1K • 💬 388 • ⏱️ 3:47 • 3d ago
+
+---
+
+**[Japanese Robots at SusHi Tech 2026 Are Indistinguishable from Humans](https://www.youtube.com/watch?v=WhlLHZdI1Y0)**
+
+Japanese robots showcased at SusHi Tech 2026 demonstrate how quickly humanoid robotics is evolving, with increasingly ...
+
+📺 Carros Show
+
+👁️ 49K • 👍 343 • 💬 57 • ⏱️ 19:36 • 6d ago
 
 ---
 

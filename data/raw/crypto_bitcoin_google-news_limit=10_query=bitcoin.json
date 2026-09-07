@@ -5,6 +5,26 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
+      "pub_date": 1788748920.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5",
+      "pub_date": 1788752592.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -13,36 +33,6 @@
       "article_url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
       "image": "https://www.tbstat.com/wp/uploads/2023/08/20230731_Liquidity_News-1-1200x675.jpg",
       "description": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible."
-    },
-    {
-      "headline": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5VFAxZW1WMGRXOURGUkxUZFBmbUtEZ1JtQXdweWtEcnVKTUxVS09DTVZVMFgyVm9FNXVqbVNtWnRSdm41QWpBRjFZbW9kMnJZX1l6RXZDYngtVlRvcXY2Tk5RUm51ZzBtYjFCSUE4aFpkcVBIUGfSAX5BVV95cUxPOXdlMzFrUUZybXlzYm1NTXN5MlpKZWJUaW5rZzk0bU5RTWVsVWtqUnpvUTRaVFFNQXV3V19iRmYxTjhlZDJ4bW04RURoWkgtVTB1QzYzRWtfaC1GZUFJS2UzYlQ0RVQ5SEJGX1FULUhtUEpmeDdyVEg4MGRaUGc?oc=5",
-      "pub_date": 1788627664.0,
-      "article_url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-screen-gID_7.png",
-      "description": "The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring."
-    },
-    {
-      "headline": "Remember How Bitcoin Was Supposed to Rise With Money Supply? Here's Why That Didn't Happen",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHhoTk4yVUFiUjh2LTIxaWFDRDBadlRNZ3o5UFk3RmdaR3M4TWw0MEVXemgtdTJ1OUVuT3JfZVp1RU1ESzU1QnloR1lQS1BJQUhaemxQZi0xYnlLWUhnQ1hVeXpTdzVGc0xCZV9wczVFRVZrYmFRYW5tWDFSdVJvYTh5YW9IenF0cWVQbzgwRVRiN0lobDNfUlJPX1Zjb3ZTXzdN?oc=5",
-      "pub_date": 1788714010.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/remember-bitcoin-supposed-rise-money-170010779.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/36de87882e8de28f78127018dc206b458102f2a171a595d12311135f67248c8a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F6a97fee7d43530c3799a17b880ca24fa.jpg",
-      "description": "Cryptocurrency analyst Benjamin Cowen on Wednesday argued that unlike commonly assumed, Bitcoin does not rise with M2 money supply, which explains weakness against equities. Global Net Liquidity Explains Bitcoin\u2019s Five-Year Lag Cowen detailed on his podcast how rising M2 does..."
-    },
-    {
-      "headline": "\u2018Like Buying Bitcoin In 2013\u2019\u2014Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMl9JOERnOHBIbm5YZWtidWctVWswVzlyaUZnd05VYk4tWDhWN3NsWFpWT0JMVkpQS0ppOGpoLWthSmpsWVBPZDhIczdfV1dmUDNGOUFRcWNFREIwU3FsU2Qtb1I4eDFuRGdQN2VnS0ZtTXNUc1RVQkVLSU1QM0t4MkRQMlB6WVJaVU9YOUtYb3MyRi1wRmtkSGxxTHA3WEdvcG8teHYyQWRjVHhKQ21xMTVkMXV0U3NlLThuX2ZSRHIzdnlfcmRTUnhlZzBKUG1GQm56NWlrNmhxYjJZOXNmM0hpMTdxUk1ZOVJZ?oc=5",
-      "pub_date": 1788695871.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures \u2014 facility operated for years under a city stop-work order",
@@ -55,6 +45,46 @@
       "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens."
     },
     {
+      "headline": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhva1d0azF0YnpuUGp4a29LX1lRVTktRUd3YWR6RENBanhpWWpEakFjUHd5VWtnQ0t6X0ZpS2lNQzJJTGJrUThkSXJubXFRU3VYeFNuVlFaMkwtbTVvZEdhdzdKVy1wODdEUUFEdXJHeUNlUF85b0Rza1VGeHA5ZWF4U3VtZDFGYjFmRVNlTDNQQTl2OG1LMFRXakI?oc=5",
+      "pub_date": 1788757080.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-dodge-inflow-slump-045830389.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/aca1feefeaf337909f91a5d2a327099115ec907462f02e22133cdcfe3927b33c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F938a7b54d371d53838e8ca8d4d869a16.png",
+      "description": "Bitcoin ETFs drew $986.9 million while Ethereum, Solana and XRP fund inflows collapsed. Price gains stayed modest across the board."
+    },
+    {
+      "headline": "#imfsayselsalvadorbtcnopublicfunds Community Insights & Market Sentiment | Binance Square",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYTVVaHRYTmpjLTZYVW5nRDd2b05WUFZwLVF4cWtKUi1qTkFhcVJ5SGY4S3JqVjR5OWZoXzc1am5ZblN5cXZCLUxwdHdseXdaTFV3Z09wUzBkbXZxLVRtWG1JeTR1b21MOWUtR0xqc3A3cG5Tb3Y4RW1RcFJWbkhEdkdhaXQ?oc=5",
+      "pub_date": 1788758689.0,
+      "article_url": "https://www.binance.com/en-TR/square/hashtag/IMFSaysElSalvadorBTCNoPublicFunds",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkZHbVpNNWE0dElBM3k5cVVMR3FPd2hJODRsVlZjS1FwX3M2UlczV1ZWV3ljc2dzOFYxODRHei1LY2hQRzA4UUNGanluVjI4WFBubkJOSzFWUFNDUFdjaV9WVVV5VHZTdmhWRkhQMDVpVnZ1N2tvT2IwZGctRWp4NXh6N3lRWFdaRGc?oc=5",
+      "pub_date": 1788755520.0,
+      "article_url": "https://ca.finance.yahoo.com/news/bitcoin-based-liquid-network-says-043242720.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ac0aecd8af5de72682740e8ebc578cd7f2a72397a75fb57c99e769fe37124f3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.ca%2F01c5d0ef06e47248af962c82df8fb147.jpg",
+      "description": "Sept 6 (Reuters) - Liquid Network, a Bitcoin-based payments and settlement network, said on Sunday that about $320 million was withdrawn from its federation wallet in a hack."
+    },
+    {
+      "headline": "Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHQzaDFHb0NLenAxQ1hwRHBBbVItZ3JSVnpBUDRWTHFZaXlnMlM5Vjk3TEJzbU1vdnhpaDFmNTRxVTJUMUtYWC14ZFU0a0lRMEtiZUFkVXpXSmkwVE9FcHdCeW9jZzNTTWJVd01WYmx2ekhQUHRQakhlOGVFMkxOR211RzJUbXZLUlFHeHduMlB6UGR0dHFrVWlwYUs3ekx0R1dNTDFQeVN6ZWdWNUtLM2VycVRzejV6OElFS2JWMA?oc=5",
+      "pub_date": 1788724958.0,
+      "article_url": "https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "How bitcoin's sudden explosive price spikes make market timing practically impossible for crypto traders",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Just Exploded 40% From Its July Low \u2014 Is $100,000 Back on the Table?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVk5Y0IzUzhXTFNlM1k0bnhrU3E4Ml84LXJFS1NydVlfTmhxQi1RTlVPdk9lS1J3eUdUNmh2eUJ4Rm1Wd3JZdk5BZ090clQ1V0lfN2d2Y2ZuY1hLM3BmNUJkd2FfTVdsaWlsVkdMT1hDZmRRUnFjMV93RlBkMy1sSC0xYkRyeHo5WnNfX2pXaUJubm9mOFpTUnFB?oc=5",
-      "pub_date": 1788616997.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5300c462c2358877ce4f238c0ee3c29466405ad504d656b2dd80d3b6ff091580/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F4dc3e5404e8ad8c52c8d8ac0fc773503.jpg",
-      "description": "Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast."
-    },
-    {
-      "headline": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmEtNmdlZTFEVVZwY1ZWNUotV0ZPSXNqTU5rWkkwZmJUeHBpc1V3Sm9aSENZeWppZlhYeWNKOFJBWkxYemdlSGVNMlk3d2NIb180QnhsUlNzby1lMXAwQndjYUtoNnFYQ2k5TFFBbW05bnlNQ3RSbXp6SzN5VDk3dE16M2hkcHhRNml0dEVwQjduZ3htS3NqbzYxM1E1Mm81YlB2RFlRcHdGeG_SAbABQVVfeXFMT3J6aTBMVzRLam1tbm1acnkwMWRwUDZ4VjVsSmZHVDM2LVJ2M3RCTUtXN3B3amtOekxkT0kxNmNlakNwUWJlekxQOG5lRURGaWo3WFFYZ1dVWnhydnNJOWMxZ2tucklFZjZWdFJub3pLWHhHTTVyeEpnSmRXb0JCdDNDZzNkU0g3b3JRNWRhUEpiMElQUlRjcmNzZmdlYXRwS2l3a3VOSUY2TGNHYVAwUEg?oc=5",
-      "pub_date": 1788524240.0,
-      "article_url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
-      "description": "Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets."
-    },
-    {
-      "headline": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3Y3aGducU9YUTNQNTN1dkZVRWdzeUplNmdVbml6RmlrLXBCd1NtbXlRdlM3MDhnNzZJM3B5bXlVZTJXTUVJdVltQ0psc2ZjNTJJU2hpS1k5SFpVOXZDUm02dlJ1X2lTbDBvRGdlcnVFYVFIXzg0dUpjcWJzNmFoVHNEM3RieERYT2ZBS051aGh6b0dSdjJNNDY1X25yeHNSeVoxTGIyRDluZnlZZEp4dnpsWFMyeDhrUUFOX0ZVODk5a1FGWndNaGl2T09DRzMyMzZfOFhB?oc=5",
-      "pub_date": 1788693635.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trades-near-80000-as-corporate-demand-and-us-crypto-policy-stay-in-focus-4890272",
+      "headline": "\u2018Like Buying Bitcoin In 2013\u2019\u2014Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMl9JOERnOHBIbm5YZWtidWctVWswVzlyaUZnd05VYk4tWDhWN3NsWFpWT0JMVkpQS0ppOGpoLWthSmpsWVBPZDhIczdfV1dmUDNGOUFRcWNFREIwU3FsU2Qtb1I4eDFuRGdQN2VnS0ZtTXNUc1RVQkVLSU1QM0t4MkRQMlB6WVJaVU9YOUtYb3MyRi1wRmtkSGxxTHA3WEdvcG8teHYyQWRjVHhKQ21xMTVkMXV0U3NlLThuX2ZSRHIzdnlfcmRTUnhlZzBKUG1GQm56NWlrNmhxYjJZOXNmM0hpMTdxUk1ZOVJZ?oc=5",
+      "pub_date": 1788695871.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "$14.5 Billion Injection: Will U.S. Treasury Trigger 'Round 2' for Bitcoin and XRP?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzhQT2pqLVgxOFo5bjczZ3A5TGlldzJWODFuOU1PUW92WTJqZWdLTE9jWUVwVXFKelk1aklzelotbXFxcjk4RGhtTTc5aGFCRzYyWnJWRGc5eXFQeURjNFhmVFVldGxCc0tBSkNVODQ3V1ducFNXb0hPak12aFlJTHh1TTFoLTdkTU85Q1Y3c1ZWcmwzOTNxX1BZblJLMmNpS1M4QVFQdUxQNWg0bGhrTTZ2YTVIcjMwaWZkZ19SU2poTURicmhNcHpidndBMjQ?oc=5",
-      "pub_date": 1788700865.0,
-      "article_url": "https://www.tradingview.com/news/u_today:ba16f95cd094b:0-14-5-billion-injection-will-u-s-treasury-trigger-round-2-for-bitcoin-and-xrp/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The U.S. Treasury Department will enter the active phase of its\u00a0government debt buyback program on Monday, Sept. 7, 2026. The weekly limit on operations will amount to $14.5 billion, while the maximum volume of Treasury sessions could reach $16.5 billion.Such a large liquidity injection has sparked\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T00:43:49.479155+00:00"
+  "fetched_at": "2026-09-07T05:44:58.550484+00:00"
 }
