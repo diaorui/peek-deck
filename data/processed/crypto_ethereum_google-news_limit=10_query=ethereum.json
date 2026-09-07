@@ -5,14 +5,44 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Latina Language Model (Ethereum) Price Today | Live LLM Price, Chart & Market Data",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5scjlvWnN4ZVVzbVNoRklYRXJOa1VyaFdmT3pQQjRUY1lCN09wZzJJZFlsSVh1SGc2VXdQeHBaYURDeDZLNmZQVEExSXJpZVJtZE40MHhOQjIxV3psNEVNWmJXV0ZWd2xmYk5hUk1sZGtHZHk4?oc=5",
+      "pub_date": 1788809626.0,
+      "article_url": "https://www.binance.com/en-PH/price/latina-language-model-ethereum",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUUJSR2lrNHNxVzNfVFg2cEZzNEI5emlGWGJYNjAzTnVwNmIzd2Q2dVBxd2hWM3plbmhmNENOcXZlLVdRdlRhTDlOb1l0STFDY0JsUzRZaEQ5UHVPbEw2U0kzUkxMcEI4eWw2bVBxUDN0d0hGaFF4dXBNT0ZTQUlXMVhOMW5MaUhTcFRuZUQ4dWhUQ0czVEdWNXRqRVRZZHIxNzBVUUVzNGs1SUlvRVhRdDg2WklKUWpyeEdRLUtoelhtQWx3d1lvZDNwUXZIT0ZWTUY5MWl6dDVtdGJEdkNuMU1DTnNQazV2dFp2M2tNSUNqNHpBU1I0?oc=5",
+      "pub_date": 1788789762.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ce37edafc6b48f765180883ec4f3f14a7b26ecea461f7d99d2d4e6f4b599127/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_1_3688.jpg",
+      "description": "Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET."
+    },
+    {
       "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGFIdXNXd0o4c1dJYXBRZjRPVFBOVmVPZEMzX0hOZHd5S3BpdXlYcXkzU2E3bnFsR3R6bHFEUHROSHdrenFjd0hwRlYtOUd0V0oxbmhsT2YyQk94bEg0N3FYSlB0anI0bHhjdlg0bEdDWlF6TEJpZGJwb0xQUW95aFMxcGNMeF9iMzhrbGEzSW5PTGRSdUpsaml6TkNNZ2FUWWNHcjM5Nl9lZEQyZmgweG9yTk4?oc=5",
       "pub_date": 1788789247.0,
       "article_url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS19CV2tVWmFDUjB6RG03cWg4UFFOSGZLSTdKN3BZYV9Ca1Y1WE9uS0tCaVJtQU5XeUh3RzFWQnpHSFB1WngxRTltTmVjbzJwRWZteEllb3RvOEg2QWpiNzRvYnNwZmJHZ201dXNnYTBpUjRwYkJIZUZBOTFQRlYtMHpMSXQ2QUlDZjRUaFRSa1ZSVWhrbWQ5Rw?oc=5",
+      "pub_date": 1788606000.0,
+      "article_url": "https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886042%2Fethereum-and-robinhood-logo.png&w=1200&op=resize",
+      "description": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum."
     },
     {
       "headline": "Ethereum Price at a Turning Point \u2014 Bulls Target $2,800 After Range Breakout",
@@ -65,16 +95,6 @@
       "description": "MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward\u00a0AlphaPepe after the presale crossed a new $2.61 million record de..."
     },
     {
-      "headline": "Ethereum Foundation Grades 62 EIPs for Hegot\u00e1 Upgrade",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10c29vY3pGejdtLVZsWWdySEdkWm5yS0wwZ244YUowZ1hxVXdJV1drSGdzdFExcDdXZ0lVLVpkWE9fRW5tY2h3X0FHWXdkX084RmJBNjBkSFdqRXpfQndQcVFCODBkc3gtT2c?oc=5",
-      "pub_date": 1788799642.0,
-      "article_url": "https://blockchain.news/news/ethereum-hegota-eip-tier-list",
-      "image": "https://image.blockchain.news:443/features/7E81BDE2C308A8D43F1B38932F10D04FF8442F0BC4A94834C355715261341484.jpg",
-      "description": "Ethereum Foundation's Protocol Cluster releases unified EIP tier list for Hegot\u00e1 upgrade, highlighting priorities like decentralization and security."
-    },
-    {
       "headline": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes \u2018Everything Exchange\u2019 Vision",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "New Ethereum Upgrade Could Overhaul Crypto Transactions and Fees",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WT1FVODFDZ1JHT1RfSkk1czFKamUwNVBOQkR0LVpkM3pJZ1VEdlZ6WUlEM0owM0JaSTc4SURHU1J5Vk1YcTYyeVdDSkhlaFRZemdoYmltQVJneHpjdFB3eDljTXNHUFk0UGVBREEyTQ?oc=5",
-      "pub_date": 1788698760.0,
-      "article_url": "https://beincrypto.com/ethereum-upgrade-eip-8141-seed-phrases/",
-      "image": "https://assets.beincrypto.com/img/lRXWTv1xfk6lJM0IR3zw-idS9qw=/1200x630/smart/filters:format(jpeg):quality(82)/2465a0f2e5de42028637e2a702354e98",
-      "description": "A new Ethereum upgrade lets apps pay gas, bundles 64 actions, replaces seed phrases with smart accounts, and introduces post-quantum security."
-    },
-    {
-      "headline": "Vitalik Buterin has blunt response to AI crashing Bitcoin",
-      "source": "thestreet.com",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FpWEdPdmJjWG1ZUXpvTlU0SW1FWkUxN1JBN00yWF96blJxUXd1QkFmSzU3UlFDWG9wZFotd2tQVXllOU4xeF9XbVRZaHBrN0RqMnFwTVdUWDd3dmt5OVhoc0pJUXRNVHVWZ2Rmc3JMQ29iZEhna09rbXlNUUZ2Y0tXbmNBNnk0ZklRZ2VFb2MzV0xJTFN1d1RwVmM5d1k?oc=5",
-      "pub_date": 1788795824.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T17:23:26.191785+00:00"
+  "fetched_at": "2026-09-07T20:43:26.814384+00:00"
 }

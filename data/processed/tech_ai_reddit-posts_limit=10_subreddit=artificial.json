@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Crazy times",
-      "author": "KeanuRave100",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
-      "published": 1788794939.0,
-      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "I took a ride in the hype train at first, but no, not AGI",
       "author": "Firm-Club-8334",
       "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
+    },
+    {
+      "title": "Crazy times",
+      "author": "KeanuRave100",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
+      "published": 1788794939.0,
+      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Musk Loses Bid To Block MN Law Against AI Child Porn",
@@ -46,15 +46,37 @@
       "description": "The idea of whether machines will dominate us is generally treated as a new one in current discussions on AI risk, since in 1863 Samuel Butler published a letter titled 'Darwin Among the Machines' which made an argument closely resembling the one in today's debate. He stated that the real danger was not that machines would gain control of power, but that people would find machines so useful that it would become practically impossible to get rid of them, so that by that stage the question of who was actually in charge would have already been answered \u2014 no matter who seemed to be in control. He said that a society which, in principle, could not destroy its machines had already \"created a race of beings towards whom it is beyond our power to destroy\" and had thus become \"acquiescent in our bondage.\" This is a quite different claim from the one that says 'superintelligence takes over'; it's similar to the sorts of arguments currently being made regarding algorithmic dependence, attention economy lock-in, and infrastructure that is too deeply embedded to be undone \u2014 arguments that can be applied to any technology that is sufficiently indispensable, not just to intelligent machines. The full letter, together with the historical background (it is also the immediate source of the \"Butlerian Jihad\" in Dune, a fact that most people are unaware of) can be found here: https://romaricjannel.substack.com/p/the-rise-of-mechanical-life I'm wondering if people here consider \"acquiescence through indispensability\" to be a real and separate risk category or whether it's just a rewording of dependence anxiety that appears each time a major technology is introduced."
     },
     {
-      "title": "Tech explores Argentina's Patagonia for mega data centers",
-      "author": "Shot-Height-7194",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9prq6/tech_explores_argentinas_patagonia_for_mega_data/",
-      "published": 1788781147.0,
+      "title": "NCSC warns that shadow AI can expose data and agent privileges",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/",
+      "published": 1788810150.0,
       "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The UK's National Cyber Security Centre says employees using AI tools outside an organisation's approved systems can expose company or customer data and reduce the organisation's visibility and control over that information. It cites research saying 71% of employees use AI tools that their employer has not approved. The NCSC also warns that AI agents add another risk: if an agent has a vulnerability or bad configuration, an attacker may gain the same data, services, and privileges the agent can access. The practical point is less 'ban AI' and more 'make the approved path usable'. The NCSC says teams should understand why people use shadow AI, provide safer alternatives, and reduce the risk rather than assume it will disappear. Sources: https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai https://ukstories.microsoft.com/features/rise-in-shadow-ai-tools-raising-security-concerns-for-uk/"
+    },
+    {
+      "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/",
+      "published": 1788808588.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/",
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Overly corrective, judgemental models: Grok, claude, chatgpt",
+      "author": "ionicfellow",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/",
+      "published": 1788811580.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I noticed the change in tone of llms in chat. When brainstroming on few ideas these three bots acting superior and telling what not to do most of time ratherthan expanding ideas. Grok is worst since 4.6. Its language deteriorated to Gen Z slang may be smoking on too much of x posts. Its overly judgemental and borderline sarcastic in every line. Have you folks noticed this. Gemini is still better may be its still a backward model?"
     },
     {
       "title": "Where do you personally draw the line between using AI as a tool and letting AI do the work for you?",
@@ -68,49 +90,27 @@
       "description": "This question gets surprisingly complicated. Using AI to fix grammar? Most people seem fine with that. Using it to brainstorm ideas? Probably fine Using it to write the first draft? Depends who you ask. Using it to do the entire assignment while you barely understand the topic? That's where most people would probably draw the line But the line keeps moving Calculators, spellcheck, Google and autocomplete were all seen as shortcuts at some point. Now they're just normal tools. Do you think AI will follow the same pattern? Or is there something fundamentally different about outsourcing actual thinking?"
     },
     {
-      "title": "Today, if someone asks you to prove an AI agent was actually authorized to execute an action, what do you show them?",
-      "author": "docybo",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9v6z4/today_if_someone_asks_you_to_prove_an_ai_agent/",
-      "published": 1788794731.0,
+      "title": "FreeBuff MCP",
+      "author": "Swimming_Ask3859",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/",
+      "published": 1788810304.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A log? A trace? The model output? A record showing that the tool call happened? All of those can tell you what happened. They don't necessarily tell you whether the agent was actually allowed to do it. That distinction gets more important as agents move from generating text to acting on real systems: sending payments, changing infrastructure, updating customer records, approving workflows, calling internal APIs. A lot of agent stacks still reduce this to identity and access. The agent has an API key. The API accepts the request. The action runs. But having credentials isn't the same as having permission for a specific action. The harder question is: Was this agent authorized to perform this action, against this target, under this policy, at that point in time? And the answer shouldn't depend on asking the agent after the fact. The authorization needs to exist before execution. It needs to be tied to what is actually being executed. And later, you should be able to verify what authorized the action. That means being able to answer fairly basic questions: who issued the authorization? Which policy was applied? What action was it tied to? Who could use it? When was it valid? Had it already been used? Was authority delegated? This is where the execution boundary becomes interesting. It's one thing for a system somewhere upstream to decide that an action is allowed. It's another to make sure that decision still applies when the action actually reaches the system that will execute it. As agents get access to production systems, \"the model decided to do it\" isn't going to be much of an audit answer. The question is simpler: Can you prove the agent had the authority to do it?"
+      "description": "Hey guys. I am a GPT Plus user, and I use Freebuff a lot to execute my tasks for free, so I don't use up usage limits at all. Freebuff, if you don't know, is a desktop and CLI agent that gives u a bunch of models for free (DeepSeek V4 Flash, GLM 5.3 Flash, 5.6 Luna, Solar 4 Pro), and it is really good at executing tasks that you give it, imo. I searched for connectors or MCPs that connect to it so I can seamlessly integrate it with Luna or Terra as the planner and Freebuff as the implementer. There was nothing online, so I created my own MCP (https://github.com/Praket7/freebuff-mcp). If you guys could check it out, try it out, and let me know if I need to make any security changes or to make it work better, and if you guys could star and test it, I'd appreciate it. I am currently adding some more features, like ChatGPT or Claude being able to check live progress, but let me know if you would like something else or if it doesn't work. thanks!"
     },
     {
-      "title": "Pentagon Says Its Anthropic Ban Is On, Despite Lutnick Remarks",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1w927or/pentagon_says_its_anthropic_ban_is_on_despite/",
-      "published": 1788715369.0,
-      "thumbnail": "https://external-preview.redd.it/J6gcBj3hAUsSIHB5rtiHdtB2Bks4KwOhQ5X8KQwmqCU.jpeg?width=640&crop=smart&auto=webp&s=36470915982b4094d4964e810f8c2b6646eb91a1",
-      "external_url": "https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks",
-      "site_name": "bloomberg.com",
+      "title": "Tech explores Argentina's Patagonia for mega data centers",
+      "author": "Shot-Height-7194",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9prq6/tech_explores_argentinas_patagonia_for_mega_data/",
+      "published": 1788781147.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/",
+      "site_name": "reuters.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "I've been comparing agentic AI providers for customer analytics and a lot of \u201cagents\u201d aren't very agentic",
-      "author": "Conscious_Belt_8444",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9u4ux/ive_been_comparing_agentic_ai_providers_for/",
-      "published": 1788792305.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been looking at the agentic AI providers working in customer analytics, and I'm starting to wonder if we're making the whole thing sound more complicated than it really is. A lot of the demos look impressive. You ask, \u201cWhich customers are likely to churn?\u201d and the system pulls the data, gives you a chart and explains the result. Fair enough. But I'm not sure that's enough to call something genuinely agentic. The real test, for me, starts when the data isn't clean and the question isn't perfectly defined. Can it work across CRM, transaction and behavioural data? Does it understand what the business actually means by \u201cchurn\u201d? If two systems disagree, can it figure out why instead of quietly picking one? Can it ask for more information when the question doesn't have enough context? And once it reaches a conclusion, can it tell you what it would actually do next and why? That's where I think the better agentic AI providers will separate themselves from the flashy demos. Customer analytics isn't particularly useful if the system can produce a beautiful answer but doesn't understand the business behind the data. I've been reading about different approaches to this, and Tredence's article on agentic analytics caught my attention because it looks at the progression from insight to decision and action, rather than treating an AI assistant as just another way of querying a dashboard. I'd be interested in how other people are judging these providers. If you had to evaluate an agentic AI system for customer analytics, what would you test first? Data accuracy? Reasoning? Ability to work across systems? Explainability? Or whether it can actually turn an insight into a useful action?"
-    },
-    {
-      "title": "How I plan to use the new iPhone Fold",
-      "author": "binklfoot",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9xy4u/how_i_plan_to_use_the_new_iphone_fold/",
-      "published": 1788800820.0,
-      "thumbnail": "https://preview.redd.it/nky3aof8r4oh1.jpeg?width=640&crop=smart&auto=webp&s=e86a0fc6a439b18e54e17c608b9041e33f8de082",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I think this would be the most sensible power use of the phone. I also think it will ramp up usage. Scrolling social media rotting my brain while I tell Claude \u201cmake me an app that makes lots of money, make no mistake\u201d."
     }
   ],
-  "fetched_at": "2026-09-07T17:22:57.360772+00:00"
+  "fetched_at": "2026-09-07T20:43:05.799157+00:00"
 }
