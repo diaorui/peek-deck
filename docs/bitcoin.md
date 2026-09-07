@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-07T11:45:51.636015+00:00'
+updated: '2026-09-07T17:23:30.236246+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - cryptocurrency
 - social
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 11:45 UTC  
+**Last Updated:** September 07, 2026 at 17:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,332.89
+### $79,095.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +2.5%  
-**30d:** +22.4%  
-**90d:** +29.1%  
-**1y:** -29.1%  
+**24h:** -1.0%  
+**7d:** +2.2%  
+**30d:** +22.0%  
+**90d:** +28.6%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1594.61B
+**Market Cap:** $1589.08B
 Rank #1
 
-**Circulating Supply:** 20,080,918 BTC
+**Circulating Supply:** 20,081,015 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.0%
+-37.2%
 
 **All-Time Low:** $67.81
-+117006.6%
++116604.0%
 
 ---
 
@@ -77,11 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[I'm tired](https://www.reddit.com/r/Bitcoin/comments/1w9ovbz/im_tired/)**
+
+I've been HODLing since 2013. I've sold probably two thirds of my original stack over time. I have been through multiple cycles and halvings and read more books on the subject that I care to remember. I have traded successfully only once and that was by accident. I have no idea where BTC is going and I am exhausted. I am close to cashing out. I'm close to retiring (pension age) and I don't need the volatility. What would you do? EDIT: specifically, the things that trouble me are: 1. The hassle of getting the cash from an exchange into a UK bank account without friction. 2. The CGT liability - last sale was ~0.33BTC in Dec 2024 and the tax liability was something like £10k. 3. The blind evangelical ramblings in Reddit from people that have been in the market for like 5 minutes. EDIT #2: Thank you to those that offered advice. It has given me food for thought. I think the answer is probably to log out of Reddit ;-)
+
+6h ago
+
+---
+
+**[Bitcoin will overtake: The British pound at $214K. The Japanese yen at $499K. The Euro at $943K. The US dollar at $1.2M. Gold at $1.6M.](https://www.reddit.com/r/Bitcoin/comments/1w9upis/bitcoin_will_overtake_the_british_pound_at_214k/)**
+
+2h ago
+
+---
+
+**[The current uncomfortable state of Bitcoin security](https://www.reddit.com/r/Bitcoin/comments/1w9skrp/the_current_uncomfortable_state_of_bitcoin/)**
+
+Bitcoin has spent 17 years surviving one of the most adversarial environments in software. But Bitcoin Core isn’t where most users interact with Bitcoin. They interact through wallets, hardware devices, Lightning implementations, libraries, exchanges, signing infrastructure and other software built around it. Over the past few months, I’ve been researching the security of projects across this ecosystem, and the uncomfortable part isn’t that vulnerabilities exist. It’s how little continuous adversarial security research some important projects actually receive. An audit is a snapshot. Open source doesn’t mean someone capable has actually reviewed the code. A large number of users doesn’t mean the project has been continuously attacked by security researchers. And then there’s the incentive problem. If reporting a vulnerability responsibly means hunting down a contact, waiting weeks for a response, receiving no bounty or recognition, and sometimes being treated as an inconvenience, eventually good researchers spend their time somewhere else. Blackhats don’t need a disclosure policy. That leaves us with a strange situation: Bitcoin teaches us “don’t trust, verify,” while much of the software surrounding Bitcoin is trusted far more than it is independently verified. I ended up writing a fairly detailed piece about what I’ve seen and why I think this is becoming a real problem. I’m not linking it here because I’d rather this not turn into self-promotion. But I’d genuinely like to know whether people working deeper in Bitcoin have noticed the same thing.
+
+3h ago
+
+---
+
 **[Liquid Network appears to have been stalled for 5 hours and had 4,000 BTC moved without authorization.](https://www.reddit.com/r/Bitcoin/comments/1w95fvr/liquid_network_appears_to_have_been_stalled_for_5/)**
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-🔗 [liquid.network](https://liquid.network/) • 16h ago
+🔗 [liquid.network](https://liquid.network/) • 22h ago
+
+---
+
+**["There is a massive restructuring of commerce that has to happen, and Bitcoin will be at the center of that."](https://www.reddit.com/r/Bitcoin/comments/1w9noi6/there_is_a_massive_restructuring_of_commerce_that/)**
+
+7h ago
 
 ---
 
@@ -89,69 +117,39 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it’s ~$80,000. Now imagine someone posting this on September 6, 2036: “Bitcoin was only $80K back in 2026.” What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. 👀
 
-19h ago
-
----
-
-**[Zoom out](https://www.reddit.com/r/Bitcoin/comments/1w91y9j/zoom_out/)**
-
-https://preview.redd.it/1zj50nwenxnh1.png?width=601&format=png&auto=webp&s=18a1918f44db55255417c1d6c6bbb3694ed277ed Bitcoin is going to $1M. Don't be sidelined because you tried to time the exact bottom.
-
-18h ago
-
----
-
-**[Anyone else just here for gains and not de-centralization?](https://www.reddit.com/r/Bitcoin/comments/1w917l0/anyone_else_just_here_for_gains_and_not/)**
-
-I do not care about self-custody (dangerous, so I use Fidelity custody) or censor-less transactions (I live in the U.S. and can trade freely)
-
-19h ago
-
----
-
-**[🏃💨](https://www.reddit.com/r/Bitcoin/comments/1w8jtmd/_/)**
-
 1d ago
 
 ---
 
-**[Bitcoin buy in](https://www.reddit.com/r/Bitcoin/comments/1w9b3tb/bitcoin_buy_in/)**
+**[the Liquid "Whitehat"-Hacker keeps 600 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1w9y9ac/the_liquid_whitehathacker_keeps_600_bitcoin/)**
 
-Hi guys! I’m fairly new to crypto and I’m trying to learn as much as I can before making any big decisions. For those of you who are currently buying Bitcoin, are you still buying at these prices, or are you waiting for some kind of pullback? I’ve been debating whether I should wait for another drop, potentially somewhere around $72k–$74k, before buying in. Is that a dumb way of thinking? I know nobody can predict the exact bottom, but I’m trying to maximize my potential returns. At the same time, I feel like I’m starting to fixate on finding the “perfect entry,” which I know probably isn’t a great mindset either. Would love to hear how you guys are approaching BTC right now, especially if you’ve been through a few cycles. Do you DCA, wait for pullbacks, or just buy when you think the long-term price is good? Thanks!
+https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea497bc49a46d 😂
 
-12h ago
-
----
-
-**[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up](https://www.reddit.com/r/Bitcoin/comments/1w8c39u/ancient_bitcoin_wallet_that_turned_120_into_3/)**
-
-The parade of long-dormant Bitcoin wallets springing back to life is showing no signs of slowing, with at least four more now stirring.
-
-🔗 [Decrypt](https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up) • 1d ago
+5m ago
 
 ---
 
-**[Selling Bitcoin for Cash in NYC](https://www.reddit.com/r/Bitcoin/comments/1w9bqgh/selling_bitcoin_for_cash_in_nyc/)**
+**[Expert Security Audit for three bitcoin based projects](https://www.reddit.com/r/Bitcoin/comments/1w9tzpw/expert_security_audit_for_three_bitcoin_based/)**
 
-I am looking for information about how to sell small amounts of bitcoin for cash in New York City, preferably near the Bronx. I don't have ID at the moment because mine was lost or stolen. For that reason I think Bitcoin ATM's are out. I've already tried RoboSats but it appears to rely on lightning and I don't have enough btc at the moment to open a channel. I'm open to all suggestions. Thanks.
+Over the past few months, we’ve been putting our AI security audit agent against real Bitcoin code. It has already helped us uncover and responsibly report multiple security issues across projects in the Bitcoin ecosystem, including: Bark, Syscoin, RGB, Ledger, Bitcoin, Bitkey, BDK Wallet, Keystone, Lightning Labs, Lightning implementations, Krux, KTH, BitBox, BCHD, Mostro, ACINQ, LDK, Cake Wallet, BIP32/BIP39 implementations, tiny-secp256k1, Blockstream Jade, Elements and others. Now we want to go further. We’re giving 3 Bitcoin projects a security scan at zero cost. We’ll run our agent against the codebase, manually triage anything interesting, and responsibly disclose confirmed security issues to the maintainers. We’re particularly interested in serious open-source Bitcoin infrastructure protecting real users or funds. Maintaining something in the Bitcoin ecosystem? Drop your repo below.
 
-12h ago
-
----
-
-**[Uk folks, which banks are letting us buy/transfer cash to exchanges?](https://www.reddit.com/r/Bitcoin/comments/1w938rn/uk_folks_which_banks_are_letting_us_buytransfer/)**
-
-Not had my Halifax/Lloyds account too long so I’ve not tried to buy any btc yet. Are they safe to move cash to an exchange or do I need to look at a secondary bank account to build up my crypto loses? Ta.
-
-17h ago
+2h ago
 
 ---
 
-**[Made a Bitcoin monitoring app with some extra Claude tokens](https://www.reddit.com/r/Bitcoin/comments/1w91j6k/made_a_bitcoin_monitoring_app_with_some_extra/)**
+**[Bitcoin sentiment is exactly split 25/25 on FOMO vs FUD right now, and the tweets show traders just waiting for a signal near 65k-66k](https://www.reddit.com/r/Bitcoin/comments/1w9w7np/bitcoin_sentiment_is_exactly_split_2525_on_fomo/)**
 
-I had some extra tokens at the end of one of my reset periods and decided to build a fun little hackermans Bitcoin site. A couple cool things on there: A calculator if you want to do dynamic DCA - you can see at what risk metric you'd be buying and selling and tweak the settings to your liking. Based on the daily budget you provide it, it'll give you the $ amount to buy (I've actually been using this as a guide to my DCAs) A space battle visualization of the bitcoin price with buys and sells Some other cool visualizations of nodes, blocks, fair market value, and many more things https://preview.redd.it/0mxwxpl6kxnh1.png?width=1708&format=png&auto=webp&s=c9461b8ea37720220f452436d134f6d531fb8e84 There are a lot of fun themes built in as well, let me know if you have some ideas for things that can be added! Just a project for fun and wanted to share! https://www.bitcoinradar.io
+Looked at Bitcoin-related tweets from the last six hours and the sentiment split is almost eerily balanced: 25% FOMO, 25% FUD. That's not a huge skew either way, which honestly tells its own story: nobody's convinced of direction right now. The bullish camp is leaning on ETF inflows and institutional adoption as reasons to expect a bottom is forming. The cautious camp keeps bringing up regulatory uncertainty and geopolitical risk as reasons this could still slide. What stands out is that both camps seem to agree on the technical picture even if they disagree on the outcome: resistance sitting around 65k-66k seems to be the level everyone's watching for a potential breakout, with a range-bound market in the meantime. A perfectly even FOMO/FUD split like this usually shows up during consolidation phases when the market hasn't picked a direction yet, rather than during a clear trend. It's less about a specific catalyst and more about traders waiting to see who blinks first. What do you think breaks this stalemate first, a macro/regulatory headline or a clean technical break of that 65k-66k zone?
 
-18h ago
+1h ago
+
+---
+
+**[Bitcoin sentiment right now: FOMO barely edges out FUD (20% vs 15%) while everyone waits on ETF and macro news](https://www.reddit.com/r/Bitcoin/comments/1w9vlvl/bitcoin_sentiment_right_now_fomo_barely_edges_out/)**
+
+Looked at the last six hours of Bitcoin-related tweets and the split is closer than I expected: 20% FOMO versus 15% FUD, with the rest sitting in a kind of wait-and-see zone. That's not a wild imbalance either way, which is honestly more interesting than a lopsided reading would be. What stands out is the reasoning behind both sides. The FOMO crowd is leaning on continued institutional and ETF interest as the bullish thread. The FUD side isn't panic-selling type fear, it's more about worry over a slowdown or a breakout getting delayed, tied to regulatory headlines and macro signals like rate expectations. So it reads less like fear of a crash and more like fear of stagnation. The fact that neither sentiment is dominating suggests the market is genuinely undecided rather than euphoric or panicked, which tends to happen when everyone's watching the same external catalysts (regulation, Fed commentary, ETF flows) without a clear resolution yet. What do you think is more likely to break this stalemate first, a regulatory headline or a macro data print?
+
+1h ago
 
 ---
 
@@ -159,71 +157,73 @@ I had some extra tokens at the end of one of my reset periods and decided to bui
 
 ## Google News: "bitcoin"
 
-**[Bitcoin-based Liquid Network says $320 million withdrawn in hack](https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/)**
+**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
 
-Reuters • 7h ago
+AP News • 5h ago
 
 ---
 
-**[Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'](https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys)**
+**[Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft](https://www.foxnews.com/us/alleged-cryptoscam-ringleader-set-plea-hearing-240m-bitcoin-theft)**
 
-CoinDesk • 1h ago
+Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions.
+
+Fox News • 2h ago
+
+---
+
+**[Bitcoin (BTC) enters distribution as whales sell below $83,000](https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds)**
+
+coindesk.com • 1h ago
+
+---
+
+**[Hyperliquid Strategies Soared by 94% in August. Should Investors Forget Bitcoin and Buy This Stock Instead?](https://www.fool.com/investing/2026/09/07/hyperliquid-soared-by-94-in-august/)**
+
+Hyperliquid Strategies offers more upside than Bitcoin, but also more risk.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Bitcoin Only Goes Up: What The 200W And 50W MAs Say About The Cycle Transition (BTC-USD)](https://seekingalpha.com/article/4943587-bitcoin-only-goes-up-what-200w-50w-mas-say-about-cycle-transition)**
+
+The 200W MA has historically marked Bitcoin’s bear market floor, though reclaiming it alone does not confirm the bear market is over.
+
+Seeking Alpha • 56m ago
+
+---
+
+**[Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset](https://www.tradingview.com/news/cryptobriefing:5f21000d9094b:0-bitcoin-shows-weaker-correlation-to-treasury-yields-than-gold-positioning-it-as-a-more-resilient-hard-asset/)**
+
+For years, the "digital gold" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall…
+
+TradingView • 5h ago
+
+---
+
+**[Bitcoin-based Liquid Network says $320 million withdrawn in hack](https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/)**
+
+Reuters • 13h ago
 
 ---
 
 **[Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack](https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Bitcoin News: Bitcoin Holds $79,000 as Hike Odds Reach 58% and Zcash Runs 45% in a Week](https://www.binance.com/en/square/post/364079950022688)**
+**[Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'](https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys)**
 
-Binance • 1h ago
-
----
-
-**[Will AI Crash Bitcoin 50%? Vitalik Buterin Weighs In](https://finance.yahoo.com/markets/crypto/articles/ai-crash-bitcoin-50-vitalik-105128526.html)**
-
-Vitalik Buterin rejects a 50% AI-driven Bitcoin crash call and says 90% of his net worth already takes the opposite side.
-
-Yahoo Finance • 54m ago
+coindesk.com • 7h ago
 
 ---
 
-**[US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch](https://finance.yahoo.com/economy/policy/articles/us-adds-162-000-jobs-104715981.html)**
+**[Weekly forex forecast: EUR/USD, XAU/USD, GBP/USD, USD/JPY, Bitcoin and more [Video]](https://www.fxstreet.com/analysis/weekly-forex-forecast-eur-usd-xau-usd-gbp-usd-usd-jpy-bitcoin-and-more-video-202609071211)**
 
-The US added 162,000 jobs in August, roughly triple expectations, while unemployment remained unchanged at 4.1%. The surprise pushed the estimated probability of a September ...
+Dxy, EurUsd, GbpUsd, UsdJpy, UsdCad, UsdChf, AudUsd, NzdUsd.
 
-Yahoo Finance • 58m ago
-
----
-
-**[Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell](https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell)**
-
-Seeking Alpha • 15h ago
-
----
-
-**[Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)**
-
-Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
-
-Tom's Hardware • 22h ago
-
----
-
-**[‘Like Buying Bitcoin In 2013’—Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted](https://www.forbes.com/sites/digital-assets/2026/09/06/like-buying-bitcoin-in-2013-tiny-crypto-suddenly-rockets-7300-as-massive-zcash-price-boom-predicted/)**
-
-Forbes • 23h ago
-
----
-
-**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
-
-Bitcoin mining ceased operations on Sept. 2.
-
-WNDU • 1d ago
+FXStreet • 5h ago
 
 ---
 
@@ -235,7 +235,15 @@ WNDU • 1d ago
 
 The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
 
-⬆️ 5 • 💬 0 • 16h ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+⬆️ 5 • 💬 0 • 22h ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+
+---
+
+**[Bitcoin sidechain Liquid hacked for ~4k BTC](https://news.ycombinator.com/item?id=49600421)**
+
+Neha Narula
+
+⬆️ 4 • 💬 1 • 26m ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -243,7 +251,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-⬆️ 4 • 💬 0 • 18h ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+⬆️ 4 • 💬 0 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
 
 ---
 
@@ -251,7 +259,7 @@ Oklahoma, El Reno city asserts that none of the costs related to the water leak 
 
 Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE
 
-⬆️ 4 • 💬 0 • 4d ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
+⬆️ 4 • 💬 0 • 5d ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
 
 ---
 
@@ -259,7 +267,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-⬆️ 3 • 💬 0 • 20h ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
+⬆️ 3 • 💬 0 • 1d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
 
 ---
 
@@ -293,9 +301,9 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ---
 
-**[Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)**
+**[Ask HN: Openrouter's per request markup is biting us now](https://news.ycombinator.com/item?id=49597293)**
 
-⬆️ 118 • 💬 82 • 4d ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -303,23 +311,43 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin&#39;s Massive Surge: $800K Pathway? Fed Flip Flop!](https://www.youtube.com/watch?v=zX0_RE_mB0U)**
+**[Bitcoin Closes at the 50 Week Moving Average](https://www.youtube.com/watch?v=WQ8ZGnoWbiU)**
 
-Rustin talks about Bitcoin's Massive Surge: $800K Pathway? Fed Flip Flop! Brought to you by Bitcoinwell.com a bitcoin-only ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 2K • 👍 94 • 💬 18 • ⏱️ 1:28 • 9h ago
+👁️ 156K • 👍 6K • 💬 243 • ⏱️ 14:36 • 13h ago
 
 ---
 
-**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
+**[The Man Who Cracked The Crypto Algorithm Reveals Next Great 10x Opportunity | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
 
-Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
+Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
 
-📺 Schwab Network
+📺 Altcoin Daily
 
-👁️ 15K • 👍 87 • 💬 2 • ⏱️ 10:28 • 18h ago
+👁️ 66K • 👍 2K • 💬 182 • ⏱️ 42:33 • 23h ago
+
+---
+
+**[Crypto Is About To Get VERY Interesting… Don’t Miss This](https://www.youtube.com/watch?v=E6A54A7936o)**
+
+Crypto Is About To Get VERY Interesting… Don't Miss This ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 105K • 👍 3K • 💬 186 • ⏱️ 11:51 • 1d ago
+
+---
+
+**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 204K • 👍 4K • 💬 142 • ⏱️ 55:09 • 2d ago
 
 ---
 
@@ -329,7 +357,27 @@ Is the Bitcoin bull market really back? Bitcoin is at $80000, above the bull mar
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 411 • 💬 33 • ⏱️ 23:36 • 1d ago
+👁️ 25K • 👍 423 • 💬 33 • ⏱️ 23:36 • 2d ago
+
+---
+
+**[Bitcoin SHOCK: Why a Massive Surge Is Coming!](https://www.youtube.com/watch?v=lMxwKBzBRCI)**
+
+Hurley talks about Bitcoin SHOCK: Why a Massive Surge Is Coming! Brought to you by Bitcoinwell.com a bitcoin-only platform on ...
+
+📺 Simply Bitcoin
+
+👁️ 209 • 👍 12 • 💬 44 • ⏱️ 0:30 • 1h ago
+
+---
+
+**[Has Bitcoin Bottomed? The Cycle Data Says Maybe (Plus ETH, HYPE, ZEC)](https://www.youtube.com/watch?v=WitBjEWfkXU)**
+
+No B.S. Just Charts. Has Bitcoin bottomed? Gareth Soloway, Chief Market Strategist at Verified Investing, digs into the Bitcoin ...
+
+📺 Gareth Soloway
+
+👁️ 106K • 👍 4K • 💬 252 • ⏱️ 16:37 • 1d ago
 
 ---
 
@@ -339,65 +387,27 @@ Zen Master JP Leads The Congregation with TA Guided by Zen Wisdom. Look out for 
 
 📺 Sin City Crypto
 
-👁️ 9K • 👍 222 • ⏱️ 2:48:36 • 13h ago
+👁️ 9K • 👍 221 • ⏱️ 2:48:36 • 19h ago
 
 ---
 
-**[The Man Who Cracked The Crypto Algorithm | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
+**[Clif High Predicted Bitcoin. Now He Is Saying Trump&#39;s Already Won The Midterms](https://www.youtube.com/watch?v=-ADx8X2w7x4)**
 
-Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
+MY FREE EXCLUSIVE NEWSLETTER! SUBSCRIBE HERE: https://richdoespolitics.com MY CLIPS CHANNEL: ...
 
-📺 Altcoin Daily
+📺 Rich Does Politics 
 
-👁️ 58K • 👍 1K • 💬 173 • ⏱️ 42:33 • 17h ago
-
----
-
-**[Why Bitcoin On SHA-256 Is Dead Man Walking](https://www.youtube.com/watch?v=CnBGMs3eRf8)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin on SHA-256 is ultimately ...
-
-📺 Bitcoin University
-
-👁️ 15K • 👍 981 • 💬 569 • ⏱️ 8:40 • 19h ago
+👁️ 74K • 👍 5K • 💬 750 • ⏱️ 58:47 • 1d ago
 
 ---
 
-**[LIVE: BITCOIN CRASHING? Michael Saylor on BTC &amp; MSTR Prediction 2026](https://www.youtube.com/watch?v=MyII8t2HkoE)**
+**[Bitcoin&#39;s Massive Surge: $800K Pathway? Fed Flip Flop!](https://www.youtube.com/watch?v=zX0_RE_mB0U)**
 
-Join Michael Saylor for a live discussion on Bitcoin as growing volatility and renewed selling pressure raise concerns across the ...
+Rustin talks about Bitcoin's Massive Surge: $800K Pathway? Fed Flip Flop! Brought to you by Bitcoinwell.com a bitcoin-only ...
 
-📺 Dudley Mans
+📺 Simply Bitcoin
 
-👁️ 3K • 1h ago
-
----
-
-**[Someone Forgot To Steal Mr. Beast&#39;s Bitcoin!?](https://www.youtube.com/watch?v=D0V-fIR_h_o)**
-
-📺 Viral Lore
-
-👁️ 127K • 👍 2K • 💬 10 • ⏱️ 0:32 • 1d ago
-
----
-
-**[Bitcoin Live Trading: Is BTC Pulling Back? WATCH This Move EP2114](https://www.youtube.com/watch?v=B1QJntmS0jQ)**
-
-WEEX: https://support.weex.com/en/register?vipCode=8six BTCC: https://partner.btcc.com/us/c/LIFER333/12876 Welcome to ...
-
-📺 Crypto Lifer
-
-👁️ 11K • 👍 421 • 💬 19 • ⏱️ 2:28:07 • 1d ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
-
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 758 • 💬 356 • ⏱️ 36:55 • 1d ago
+👁️ 3K • 👍 115 • 💬 18 • ⏱️ 1:28 • 15h ago
 
 ---
 

@@ -19,6 +19,20 @@
       "site_name": "Medium"
     },
     {
+      "title": "Bitcoin sidechain Liquid hacked for ~4k BTC",
+      "url": "https://nehanarula.org/2026/09/07/liquid-hack.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49600421",
+      "author": "nehan",
+      "points": 4,
+      "num_comments": 1,
+      "created_at": "2026-09-07T16:57:19Z",
+      "object_id": "49600421",
+      "image": null,
+      "description": "Neha Narula",
+      "favicon": "https://nehanarula.org/assets/favicon/apple-touch-icon.png",
+      "site_name": "nehanarula.org"
+    },
+    {
       "title": "Bitcoin mining data center condemned after leaking 3M gallons of water",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
       "hn_url": "https://news.ycombinator.com/item?id=49588413",
@@ -117,21 +131,21 @@
       "site_name": "IGN"
     },
     {
-      "title": "Launch HN: RonanRX (YC S26) \u2013 Personalized Peptides and GLP-1s",
-      "url": "https://news.ycombinator.com/item?id=49543530",
-      "hn_url": "https://news.ycombinator.com/item?id=49543530",
-      "author": "lloydarmbrust",
-      "points": 118,
-      "num_comments": 82,
-      "created_at": "2026-09-02T22:36:04Z",
-      "object_id": "49543530",
+      "title": "Ask HN: Openrouter's per request markup is biting us now",
+      "url": "https://news.ycombinator.com/item?id=49597293",
+      "hn_url": "https://news.ycombinator.com/item?id=49597293",
+      "author": "leanroute_ai",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-07T11:58:40Z",
+      "object_id": "49597293",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": null
     }
   ],
-  "total_hits": 9,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-09-07T11:45:19.975743+00:00"
+  "fetched_at": "2026-09-07T17:22:59.719865+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T11:45:51.642459+00:00'
+updated: '2026-09-07T17:23:30.244357+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 11:45 UTC  
+**Last Updated:** September 07, 2026 at 17:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-19h ago
+1d ago
 
 ---
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-18h ago
+1d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Progress on my custom hexapod project over the past few months. In the first few weeks I couldn't even get it to stand up — once I got the gait cycle figured out, everything after that came together a lot faster. Specs: Base: 3D printed 18 servos (mix of 25kg and 35kg) Pololu Maestro servo controller Buck converter for power regulation Controlled by an Android phone, which also acts as the gyro/IMU
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 [Cross-post from r/reinforcementlearning] My full 6-part series on RL for robotics is finally live. While a balance bot is a pretty trivial case (you don't even need RL), it's a great starting point for demonstrating how to train a simple agent via PPO, deploy the agent to real hardware, and tackle the sim-to-real gap using post-processing and domain randomization. If you have any feedback (e.g. I missed something or there's something that could be better), please let me know!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 1d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 2d ago
 
 ---
 
@@ -122,19 +122,19 @@ Futurism • 2d ago
 
 Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days.
 
-Interesting Engineering • 2d ago
+interestingengineering.com • 2d ago
 
 ---
 
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 5h ago
+Reuters • 11h ago
 
 ---
 
 **[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
 
-South China Morning Post • 9h ago
+SCMP • 15h ago
 
 ---
 
@@ -142,7 +142,15 @@ South China Morning Post • 9h ago
 
 A deep dive into the current state of humanoid robotics.
 
-understandingai.org • 5d ago
+understandingai.org • 6d ago
+
+---
+
+**[Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026](https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html)**
+
+/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
+
+PR Newswire • 2h ago
 
 ---
 
@@ -150,7 +158,7 @@ understandingai.org • 5d ago
 
 Remote-control robot bugs could deliver lifesaving aid to disaster victims
 
-spectrum.ieee.org • 1d ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -166,23 +174,15 @@ The Telegraph • 2d ago
 
 A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
 
-SciTechDaily • 21h ago
+SciTechDaily • 1d ago
 
 ---
 
-**[Are robots the future of entertainment? This South Korean theme park thinks so](https://www.bbc.com/news/videos/cdr7g3vdl58o)**
+**[NEURA and SECO put robot compute back in Europe](https://thenextweb.com/news/neura-seco-robot-compute-modules-europe)**
 
-Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.
+NEURA and SECO will build robot compute modules in Europe. The chips inside them are Qualcomm's, and the scale question is still open.
 
-BBC • 3d ago
-
----
-
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
-
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
-
-ABC7 Chicago • 2d ago
+The Next Web • 5m ago
 
 ---
 
@@ -196,17 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 446K • 👍 8K • 💬 666 • ⏱️ 15:41 • 4d ago
-
----
-
-**[I Trained a Robot in Simulation. Then I Made It Walk.](https://www.youtube.com/watch?v=gEjg179fvmc)**
-
-I had 7 days to build a walking robot from scratch or I had to give back the 3D printer I was using to build it. Meet Stompy , a fully ...
-
-📺 Kayden Knapik
-
-👁️ 72K • 👍 1K • 💬 223 • ⏱️ 19:28 • 5d ago
+👁️ 462K • 👍 9K • 💬 691 • ⏱️ 15:41 • 4d ago
 
 ---
 
@@ -216,67 +206,17 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 262K • 👍 2K • 💬 586 • ⏱️ 1:44 • 3d ago
+👁️ 277K • 👍 2K • 💬 619 • ⏱️ 1:44 • 3d ago
 
 ---
 
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+**[I Trained a Robot in Simulation. Then I Made It Walk.](https://www.youtube.com/watch?v=gEjg179fvmc)**
 
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+I had 7 days to build a walking robot from scratch or I had to give back the 3D printer I was using to build it. Meet Stompy , a fully ...
 
-📺 Associated Press
+📺 Kayden Knapik
 
-👁️ 235K • 👍 4K • 💬 1K • ⏱️ 1:39 • 5d ago
-
----
-
-**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
-
-Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
-
-📺 Jason Lowe on AI
-
-👁️ 5K • 👍 369 • 💬 23 • ⏱️ 2:08 • 17h ago
-
----
-
-**[This 800-Year-Old Robot Served Water and Towels! 🤖💧 #shorts #viral](https://www.youtube.com/watch?v=vhXCmVALeLk)**
-
-This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling a lever and having a mechanical servant ...
-
-📺 ClayTaan Shorts
-
-👁️ 30K • 👍 696 • 💬 18 • ⏱️ 0:45 • 16h ago
-
----
-
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
-
-📺 Julia McCoy
-
-👁️ 75K • 👍 610 • 💬 129 • ⏱️ 9:07 • 3d ago
-
----
-
-**[Humanoid Robots playing football #humanoidrobot #robot #robots #robotics #robotgame #robotic #tech](https://www.youtube.com/watch?v=QPy_DzkZbwM)**
-
-Humanoid Robots learning how to play football. so far it's adorable play by robots.
-
-📺 Code by Nadiia
-
-👁️ 5K • 👍 47 • ⏱️ 0:15 • 7h ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 178K • 👍 1K • 💬 399 • ⏱️ 3:47 • 4d ago
+👁️ 74K • 👍 1K • 💬 225 • ⏱️ 19:28 • 6d ago
 
 ---
 
@@ -286,7 +226,67 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 228K • 👍 2K • 💬 144 • ⏱️ 0:58 • 5d ago
+👁️ 231K • 👍 2K • 💬 146 • ⏱️ 0:58 • 5d ago
+
+---
+
+**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+
+A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+
+📺 Associated Press
+
+👁️ 239K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+
+---
+
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+
+📺 Julia McCoy
+
+👁️ 75K • 👍 613 • 💬 129 • ⏱️ 9:07 • 4d ago
+
+---
+
+**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
+
+A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
+
+📺 New York Post
+
+👁️ 54K • 👍 765 • 💬 260 • ⏱️ 1:16 • 4d ago
+
+---
+
+**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
+
+Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
+
+📺 Jason Lowe on AI
+
+👁️ 6K • 👍 431 • 💬 24 • ⏱️ 2:08 • 23h ago
+
+---
+
+**[See this Tracked Robot from pixels to the wild  | BUNKER PRO](https://www.youtube.com/watch?v=voXrEU6ImIM)**
+
+BUNKER PRO is a tracked mobile robot and unmanned ground vehicle (UGV) designed for outdoor robotics, rugged terrain, and ...
+
+📺 AgileX Robotics
+
+👁️ 672 • 👍 5 • 💬 1 • ⏱️ 0:16 • 4h ago
+
+---
+
+**[This 800-Year-Old Robot Served Water and Towels! 🤖💧 #shorts #viral](https://www.youtube.com/watch?v=vhXCmVALeLk)**
+
+This 800-Year-Old Robot Served Water and Towels! #shorts #viral Imagine pulling a lever and having a mechanical servant ...
+
+📺 ClayTaan Shorts
+
+👁️ 98K • 👍 1K • 💬 21 • ⏱️ 0:45 • 22h ago
 
 ---
 
