@@ -57,6 +57,17 @@
       "description": "Frontier AI models have already conducted autonomous end-to-end compromises, but the situation will become more urgent very soon."
     },
     {
+      "title": "Ai generated transcript",
+      "author": "brushedteeth",
+      "url": "https://www.reddit.com/r/artificial/comments/1w98k1x/ai_generated_transcript/",
+      "published": 1788729482.0,
+      "thumbnail": "https://external-preview.redd.it/d25sZXRodjN2eW5oMXe_P55mzZq9ZiIZ4HnrqV_FCNkk0SEsdR2t8LK-PMbL.jpeg?width=640&crop=smart&auto=webp&s=d283b8ac3869baeb979cf5d9bd5b0f7b406158de",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Why do some videos generate this exact transcript on muted videos? It\u2019s so bizarre as there are no spoken words in the video when unmuted. This exact transcript will appear on other videos agnostic to the content. Does anyone know why this happens or what\u2019s causing it? This video is not mine and I have left their username in the video for credit."
+    },
+    {
       "title": "Testing a new workflow for rapid environmental VFX",
       "author": "Chuka444",
       "url": "https://www.reddit.com/r/artificial/comments/1w8zxi7/testing_a_new_workflow_for_rapid_environmental_vfx/",
@@ -77,17 +88,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Over the last month, in my spare time, I\u2019ve been experimenting with two separate ideas: some recurrent-network maths as a possible GRU/LSTM substitute, and a separate transformerless AI project. The transformerless project eventually became too slow to properly train and debug on the hardware I have, so I started pulling it apart to see if any individual pieces were worth keeping. One part was: the structured memory/reasoning section. It kept behaving well in small tests, so I separated it out and turned it into its own project: THREADS. In simple terms, THREADS is a deterministic memory and reasoning engine. You give it structured facts and relationships, and it can follow them, track changes over time, answer historical questions, handle retractions and contradictions, and keep provenance for how it reached an answer. Some current test results: - 200,000-hop reasoning chain \u2014 exact final answer - 1,000,000 irrelevant events \u2014 a 128-hop query still returned the exact answer - 50,000 shuffled temporal events \u2014 5,000/5,000 historical queries matched an independent checker - 40,000 ambiguity/contradiction cases \u2014 40,000/40,000 - 60-category reasoning suite \u2014 5,830/5,830 - Original regression suite \u2014 28/28 - Bounded program induction \u2014 2,000/2,000 held-out predictions I\u2019m not claiming it replaces transformers, SMT solvers, or databases. It also doesn\u2019t understand arbitrary English by itself. What I\u2019m interested in is whether something like this could sit underneath an AI system as an exact memory/reasoning layer, while a neural model handles language and fuzzy interpretation. I\u2019ve put the Python source, tests, benchmarks, and research PDF on GitHub so people can run it themselves. https://github.com/rickey1990/THREADS-reasoning-engine"
-    },
-    {
-      "title": "Ai generated transcript",
-      "author": "brushedteeth",
-      "url": "https://www.reddit.com/r/artificial/comments/1w98k1x/ai_generated_transcript/",
-      "published": 1788729482.0,
-      "thumbnail": "https://external-preview.redd.it/d25sZXRodjN2eW5oMXe_P55mzZq9ZiIZ4HnrqV_FCNkk0SEsdR2t8LK-PMbL.jpeg?width=640&crop=smart&auto=webp&s=d283b8ac3869baeb979cf5d9bd5b0f7b406158de",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Why do some videos generate this exact transcript on muted videos? It\u2019s so bizarre as there are no spoken words in the video when unmuted. This exact transcript will appear on other videos agnostic to the content. Does anyone know why this happens or what\u2019s causing it? This video is not mine and I have left their username in the video for credit."
     },
     {
       "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
@@ -112,5 +112,5 @@
       "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation."
     }
   ],
-  "fetched_at": "2026-09-06T22:43:56.506753+00:00"
+  "fetched_at": "2026-09-07T05:44:23.962964+00:00"
 }

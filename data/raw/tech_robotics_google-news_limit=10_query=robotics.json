@@ -5,64 +5,24 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
-      "source": "ABC7 Chicago",
-      "source_url": "https://abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
-      "pub_date": 1788527525.0,
-      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
-      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
-      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
+      "headline": "As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHhEOWJQT01mRndJVDltUldXcUhRTHZCb0JMZUo0UFNlak5HQ2dJaGtjTERXcUhEbW42eng0Rjd0WEUyM0pKQlhqY3pGX3NObnJfX09YVFlEVzFnSVNYdmFlcWRIU3lYT2o1NFdPcjJrZHQ0Y1IwTDR4cm1lNUVZeGdHSFhsVWh0YzA2N1FnREdlVkNx?oc=5",
+      "pub_date": 1788602460.0,
+      "article_url": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/meta-deploying-robots-data-center-maintenance.jpg?quality=85&w=1200",
+      "description": "Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers."
     },
     {
       "headline": "Here\u2019s why the future of bricklaying might just be robots",
-      "source": "Interesting Engineering",
+      "source": "interestingengineering.com",
       "source_url": "https://interestingengineering.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRMSVVlWnRhUW8zUnBZazlWSWV3XzREclZEYmhHZ2tIRGg2cTlrVkp6REVncy1fajlhLWFlQ2F1alNtcDdBcnlyMTdmLUlUQjIxWC02c2MwV1hDeTRUcmVjRTZXandKVy1kd0pTdkQ0QU42M2dnMHlEVmJiRVJVdVItS2VVRjluNjZvd2xudVBja2cwNVhoLVBfT2psLU45X2tpdzhB?oc=5",
       "pub_date": 1788559920.0,
       "article_url": "https://interestingengineering.com/ai-robotics/heres-why-the-future-of-bricklaying-might-just-be-robots",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/articlemain.png",
       "description": "Salar al Khafaji discusses robot bricklayers, smarter construction, and the possibility of homes built in days."
-    },
-    {
-      "headline": "New facility coming to metro Atlanta, bringing 140 jobs and high-tech robotics",
-      "source": "WSB-TV",
-      "source_url": "https://www.wsbtv.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUdOZ1hZV2RqNXpCa0tpeW1pU0RiM05nbmZ4SHEyR25QdHV3blA3b2NXbnk3S3JyVUN6RF9aWE5OZUt6b2ZsYko5cHVwazVFejJTSXRERzgzNG1XMmM2RHpTdTQ4REtaNDVDTmZJalB5NkhoemxNcVg5dGhVMzg5UndBSFBlXzlxemYxVEEzbTJubVBnQ2VwSG1vRHdBUVN5b25ZSUFZM1otRWY4VTIzUmpheTRsVXJOQnFBS3hrUXdoZEFKb0haRGR1b9IB3wFBVV95cUxOaS1GVGdZYjVDZjZZLUJYdS1hUFFKWldVRFp2ek1hZjN1VkdTVWNqT1VsSkNUN2F3SFBZZGpZcUFxUlNURlotTTJ1ZlVUZXF2WEtLNHVOVXZRZm5KWTZJbl94U09zMmFZYjU1eVFWaFpxZ2ctWGM0cW5tY0o0cXl5Y0dOLTFCaW5xdHRBc0tZX2N2Q2hKeXpYUFlGaGFCVTMtQjhNZlhmdktnbU5PbExncF93Q1lucHRUTmlqT2JTdHlKLUJKa0VHcnNaQUgzcWlQSGFETlppcmY5eXJ2Q0JN?oc=5",
-      "pub_date": 1788740340.0,
-      "article_url": "https://www.wsbtv.com/news/local/new-facility-coming-metro-atlanta-bringing-140-jobs-high-tech-robotics/GSRZY5V3GVA2PFGODG6TPATK5U/",
-      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FACKCSWSYX5G75CQSIWCT6T4SVU.jpeg?auth=584b52862d16c76a01042f9936fb627f865b34c8fc658a76da1e54c57b89ae52&width=1200&height=630&smart=true",
-      "description": "The warehouse will be built around automation, including robotic conveyance and planned AI-powered robotics."
-    },
-    {
-      "headline": "Humanoid Robots Learn to Haul Couches and Keep Payloads Steady",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5telU1c21MQUhPTUFpQWMtMTB1eTBKaTI0M1R4X0RuSEpRVGVWdkRud3Z0OEItUGdrYi1VdVIwWlMtZzh1MGRpOEQ0MEx3dUtSTDM1cDVIQUlBSDdTTUdmZERtWUdIZGU3RWRKZklB?oc=5",
-      "pub_date": 1788418800.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67725697&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
-      "description": "Your selection of awesome videos this week shows robots that grip like koalas, triage, run restaurants, harvest grapes, and more"
-    },
-    {
-      "headline": "Humanoid robots could upend life as we know it \u2014 if only they had better brains",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2xqWmxtZV9NWUFpX3RHVmFfcERlVUpsNzBDMW8zRS12WVBDMHF3a2dScWp2SklzTGE2dHdBUVUwMkZDNEMwSzZScG1UMHNYUGI3TTJ6VTU3VGJqQ3hKNG1HVmxNV1RFOXNQWjdhZ1NxdVJ2LTF3ODhCdlFQekVFQTIzYUlQZGNjcy0zR1BLU0l3cE1wVnNQWmtoRTZTQl9pRERzbHJ5Y0VGWC1udk16NFFHWVd0NTJ0TUFQdA?oc=5",
-      "pub_date": 1788609600.0,
-      "article_url": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
-      "pub_date": 1788487322.0,
-      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
     },
     {
       "headline": "The hotels hiring robots to cut their wage bills",
@@ -75,8 +35,28 @@
       "description": "Hospitality bosses are reconsidering automation as labour costs surge \u2013 but will it work?"
     },
     {
+      "headline": "New facility coming to metro Atlanta, bringing 140 jobs and high-tech robotics",
+      "source": "WSB-TV",
+      "source_url": "https://www.wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUdOZ1hZV2RqNXpCa0tpeW1pU0RiM05nbmZ4SHEyR25QdHV3blA3b2NXbnk3S3JyVUN6RF9aWE5OZUt6b2ZsYko5cHVwazVFejJTSXRERzgzNG1XMmM2RHpTdTQ4REtaNDVDTmZJalB5NkhoemxNcVg5dGhVMzg5UndBSFBlXzlxemYxVEEzbTJubVBnQ2VwSG1vRHdBUVN5b25ZSUFZM1otRWY4VTIzUmpheTRsVXJOQnFBS3hrUXdoZEFKb0haRGR1b9IB3wFBVV95cUxOaS1GVGdZYjVDZjZZLUJYdS1hUFFKWldVRFp2ek1hZjN1VkdTVWNqT1VsSkNUN2F3SFBZZGpZcUFxUlNURlotTTJ1ZlVUZXF2WEtLNHVOVXZRZm5KWTZJbl94U09zMmFZYjU1eVFWaFpxZ2ctWGM0cW5tY0o0cXl5Y0dOLTFCaW5xdHRBc0tZX2N2Q2hKeXpYUFlGaGFCVTMtQjhNZlhmdktnbU5PbExncF93Q1lucHRUTmlqT2JTdHlKLUJKa0VHcnNaQUgzcWlQSGFETlppcmY5eXJ2Q0JN?oc=5",
+      "pub_date": 1788740340.0,
+      "article_url": "https://www.wsbtv.com/news/local/new-facility-coming-metro-atlanta-bringing-140-jobs-high-tech-robotics/GSRZY5V3GVA2PFGODG6TPATK5U/",
+      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FACKCSWSYX5G75CQSIWCT6T4SVU.jpeg?auth=584b52862d16c76a01042f9936fb627f865b34c8fc658a76da1e54c57b89ae52&width=1200&height=630&smart=true",
+      "description": "The warehouse will be built around automation, including robotic conveyance and planned AI-powered robotics."
+    },
+    {
+      "headline": "Are robots the future of entertainment? This South Korean theme park thinks so",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54cElnMGNLbWpXbHZtUmNRaEF1MU4wN1l5Tjk3UG9mQmRON0RXUmkxUE9OZTBYQlRSWUNocGF0djdIbkpmZUROaXFQYzJBYWNGSFd3OExuMA?oc=5",
+      "pub_date": 1788487322.0,
+      "article_url": "https://www.bbc.com/news/videos/cdr7g3vdl58o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
+    },
+    {
       "headline": "These Light-Powered Robots Can Keep Jumping Forever",
-      "source": "scitechdaily.com",
+      "source": "SciTechDaily",
       "source_url": "https://scitechdaily.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkh1S3Y2WFd2a0tyaHBBcklscndaeEdGeWI3QVByV3NZVnAwUG9WTTJtV1dLR2dzYk9adWR4Z203X19zY0FfOXlGZVdPQlc4YmxfdjZFS1Z3N19KRDFzbWZ2eGlSQWtYbEVjdXUwYzJiY21aSnE1RFdSOUdfVVVZeVVmTQ?oc=5",
       "pub_date": 1788705699.0,
@@ -85,26 +65,46 @@
       "description": "A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves."
     },
     {
-      "headline": "Hear what University of Akron president say about safety and robotics",
-      "source": "signalakron.org",
-      "source_url": "https://signalakron.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc2RoN3VtVWNtb3ZOSm1fZmE5V3RiUzdGcUQ4bF9QRmtaM2Y4WmFkR0I1QmlSTmc0YlJNSDNpanBWT1hhblhJdlpCOWh4Yk9ZUWg4RlBwTExnc1Y4eTNCWUNienZDdFZfUHdlUXJEeXlfeVRiYTVSNElJZkFfTmdyaWRpZjBzSEtEQ09GbjdCY3lPOWV3Z0thRUdmcUFwTEdvcERaWW5MdW5OWHI3RFplb2xkQWpVNGpSQ2RXNDRhdk1USUNkS2Y1Vm56dw?oc=5",
-      "pub_date": 1788494460.0,
-      "article_url": "https://signalakron.org/university-of-akron-president-touts-security-cameras-as-a-crime-deterrent-highlights-key-programs-rj-nemer/",
+      "headline": "Cyborg Roaches Can Stab You With Needles",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44MkhtWm13aFQ2dnphc0syb2t1MzZOV0xvUHVYX0lIaHlEbDdtS0RDRERZelBEWnFLcnQ0dXlhZWlyZmRMTVdBazhraUJuRUVkbjdGczFZRmY?oc=5",
+      "pub_date": 1788613204.0,
+      "article_url": "https://spectrum.ieee.org/cyborg-rescue-roach",
+      "image": "https://spectrum.ieee.org/media-library/large-brown-cockroach-fitted-with-an-electronic-device-and-wires-on-its-back.jpg?id=67724302&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+      "description": "Remote-control robot bugs could deliver lifesaving aid to disaster victims"
+    },
+    {
+      "headline": "Humanoid robots could upend life as we know it \u2014 if only they had better brains",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2xqWmxtZV9NWUFpX3RHVmFfcERlVUpsNzBDMW8zRS12WVBDMHF3a2dScWp2SklzTGE2dHdBUVUwMkZDNEMwSzZScG1UMHNYUGI3TTJ6VTU3VGJqQ3hKNG1HVmxNV1RFOXNQWjdhZ1NxdVJ2LTF3ODhCdlFQekVFQTIzYUlQZGNjcy0zR1BLU0l3cE1wVnNQWmtoRTZTQl9pRERzbHJ5Y0VGWC1udk16NFFHWVd0NTJ0TUFQdA?oc=5",
+      "pub_date": 1788609600.0,
+      "article_url": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb",
       "image": null,
       "description": null
     },
     {
-      "headline": "A 10.5-foot, 8,710-pound seabed drone found its own ship off Nova Scotia, latched onto a camera-guided hook and rode onto the deck with nobody at the controls. That job is still done by crews leaning over the rail with poles, on a machine built to pick potato-s",
-      "source": "Autonocion.com",
-      "source_url": "https://www.autonocion.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SMzNzUDZBYldlZlZwNmhPUzA4LXNMSkZfd1Y5cmlCY041dmxXdExaSVJVdlpndmxXVHRHWVZ0cllJWkZYQmRSX1k4SVZLajZwY2VVb21wN3dJRjY4a2lpX1RoU3lZZkd2Zmo0YjZ6Z3BEQzQ?oc=5",
-      "pub_date": 1788645615.0,
-      "article_url": "https://www.autonocion.com/us/4-ton-drone-found-own-ship-halifax/",
-      "image": "https://www.autonocion.com/us/wp-content/uploads/2026/09/Impossible-Metals-Eureka-II.jpg",
-      "description": "If you have ever watched an ocean robotics video all the way to the end, you know the scene: a ship holding position, a crane swung out over the side, and a"
+      "headline": "China\u2019s EV makers see synergy in their race to beat Tesla in humanoid robotics",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?oc=5",
+      "pub_date": 1788746419.0,
+      "article_url": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The 5 Best Humanoid Robots Of IFA 2026",
+      "source": "bgr.com",
+      "source_url": "https://www.bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOEFfcWdHV0d6czlSMjVFVkk4QTFPVlBFcjRPS2JJM0ROQXloTDNpTmhaUlFNV2J0V3NFZUd4dHRHYkVhUVhNOUFELTk4SllnNVVHUzJZRDVXRGhTcG5wUFBqMTNpSm9kLVE?oc=5",
+      "pub_date": 1788722428.0,
+      "article_url": "https://www.bgr.com/2251724/best-humanoid-robots-ifa-2026/",
+      "image": "https://www.bgr.com/img/gallery/the-5-best-humanoid-robots-of-ifa-2026/l-intro-1788641999.jpg",
+      "description": "Humanoid robots were the order of the day at IFA 2026, and BGR's own Jos\u00e9 Adorno was on hand to take a look at several of them up close and personal."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T00:43:53.768863+00:00"
+  "fetched_at": "2026-09-07T05:44:52.095227+00:00"
 }
