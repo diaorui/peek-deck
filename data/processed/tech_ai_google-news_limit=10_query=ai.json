@@ -5,62 +5,62 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-      "source": "The New York Times",
+      "headline": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
-      "pub_date": 1788859979.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMndLNHd3NkVkNmtTb3NMSlh3emJ5VTVZamVfaEUzVmhheFdrd1NIMjFsVnJnRHJfQWJ0M09BOEMzY25mNVFYZFZPWWY0cHpiMjM3RFQzclFIZk9RNW5ERmdkaUpEUlhMUXY2SW9XVnQtby0yMko0MUY3LS1oUF9PeWtpQQ?oc=5",
+      "pub_date": 1788858310.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Making sovereign, open-weight AI the technology frontier",
-      "source": "mistral.ai",
-      "source_url": "https://mistral.ai",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
-      "pub_date": 1788843838.0,
-      "article_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
-      "description": "Mistral today announced that it has raised \u20ac3 billion in a Series D funding round at a post-money valuation of more than \u20ac21 billion."
+      "headline": "AI may have just solved a million-dollar math problem. The field will never be the same",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1Z4NkZOM0Y3YlA4UzhxSldSd2M2X1ZxNS0tUG5LenI5MVo0OGN5NFY3WXVXeUZnLTZSeDhyMlZELVZlRTBmZGFmYzdzeVdqQzdVX3NuMXZ4RkQ2N2E1THF1UUl3ZGNhbUFuZHk4aWtmcFRmMmREc0d1NUo1azU2V2NSb0FXTG5RcXVoRFo3aVNhY3MyVnp5Y2hiMjhnNlJ1YVowSm4ycWFsb2oxSWJaUHVzSTNUbkVtTENtb3FKM1FidUxPTWt1bUN3?oc=5",
+      "pub_date": 1788868800.0,
+      "article_url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
+      "image": "https://static.scientificamerican.com/dam/asset/e182ce38-ebe2-411e-b937-47f6030e4f72/AI-math-brain.jpg?m=1788880516.218&w=1200",
+      "description": "A mathematician compared the feat to the history-making chess competition in which IBM\u2019s Deep Blue computer beat Garry Kasparov in 1997"
     },
     {
-      "headline": "Mistral AI raises \u20ac3 billion in Samsung-led Series D round",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaUR1Z1I3NEx1MUlvMktxanhTLUkwNDZ6R2VYTHNjZDhjU0h4clozWUpjSUU4am1mX216VTB2d0c4RkFCQU15WEh1bmpyblFtcDdRRHFmZ0dXWmFKbUU5UUJHenpSbVotUGM5SXBrRGxEZ09zVHc?oc=5",
-      "pub_date": 1788866337.0,
-      "article_url": "https://qz.com/mistral-ai-samsung-series-d-funding-valuation-090826",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2264771189-300x200.jpg",
-      "description": "The French AI startup's post-money valuation now exceeds \u20ac21 billion, up from \u20ac11.7 billion a year ago"
-    },
-    {
-      "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
-      "pub_date": 1788771843.0,
-      "article_url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "An Alien Mind",
+      "headline": "GPT-6 Astra: A new generation of intelligence",
       "source": "OpenAI",
       "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Dc0tRS2JjQVdhblRTVldQamEyclNHY1hqbDdSVXV2QlZURjZWSE9PYXBIVGZkTERYUFNQUy1LWXh3cnFXN29YYkdIa0NNbF9T?oc=5",
-      "pub_date": 1788710986.0,
-      "article_url": "https://openai.com/index/an-alien-mind/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7f6sLIUC3tdeliJMQ3PwOq/c47109c8b3f00ccbf881271c9c720877/og-an-alien-mind.png?w=1600&h=900&fit=fill",
-      "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+      "pub_date": 1788870523.0,
+      "article_url": "https://openai.com/index/gpt-6-astra/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
+      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
     },
     {
-      "headline": "The body image battle is real in 2026, but the bodies may not be",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vNFdyNzl0S1VkM3ptQmJzZ01Ga1J2QmRmam5QaWxBTmNtSVZ6cGpPaUhDd1h5YWZhWUNOR2E2OVhyVjRyeDM0VFhvT0JPS25SeGdlM0VOTWRnSElCSXNHZGxBeVVOeHVGc0o0UkJrNFpLRnJTV0E?oc=5",
-      "pub_date": 1788866620.0,
-      "article_url": "https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals",
+      "headline": "Nokia\u2019s AI-RAN pitch gets reality check in new study",
+      "source": "Fierce Network",
+      "source_url": "https://www.fiercewireless.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWE91M3UyZWd6Qmg0RFBuejlJMmM2TjJTdzk2blpDdTFJaUF4SjBoenhpT21ITlhkenF0WDZldEl2VUhWbjVTelNMT2M4VkJIakh5dmVoU3ZkS3ZmS3M3N3hLU2hDR2pVQW1XYWFmSHQ2ODBUNDJMV1U3U3o2MUZSOTZtcGdGNVF5dW1YUkpXeWptZw?oc=5",
+      "pub_date": 1788883285.0,
+      "article_url": "https://www.fiercewireless.com/wireless/nokias-ai-ran-pitch-gets-reality-check-new-study",
+      "image": "https://qtxasset.com/quartz/qcloud4/media/image/nokia_ai_ran_art_sept_8.jpg?VersionId=G2_4esYgfK1O9pwAThyTmtSN2TgDYh8p",
+      "description": "Earlier this summer, Nokia said its AI RAN work with Nvidia put it on track to deliver 50% spectral ga | A newly commissioned study for the Finnish vendor takes a closer look at Nokia\u2019s AI-RAN spectral efficiency claims and sets parameters for how they will best be achieved."
+    },
+    {
+      "headline": "Nvidia\u2019s New Partner Says Banks Want AI on Machines They Can Unplug",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtvT3Z3NER0TldrNlRMeDRPZEs2TGtlQmg2cDlocUNVUkRxckhBRUFWZzUxWUo2OVlxZDlBbW92QUI4NXZhSk1ieFQ5dmpPZUJGTHVwcWhoRmJLdm1TUGhGVzRlTjhFQ0xkLXRXTmFYcmE2cUpVNnB1VUNnMW1PaFhFZkdqR2VmajVVRUdpYlFwY2g2T1JVMjB3?oc=5",
+      "pub_date": 1788881679.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-says-banks-want-153439734.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/65ef8f9583e9fcd4357c26218f66b5ccb18167a0ffe9bbc6c183164e96705074/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
+      "description": "Big banks are demanding AI systems they can physically disconnect from the internet, and the CEO of one of Nvidia's newest partners says that changes everything about where the next trillion dollars in AI compute actually gets built."
+    },
+    {
+      "headline": "Florida AG proposes criminal penalties, sanctions for AI companies over unlawful chatbot use",
+      "source": "WFLA",
+      "source_url": "https://www.wfla.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXZvWWFjR0VHVWxibE9XZEZGSkJES3llWlBFaDNyNm5NWDRBVWM0WkxvZ3hFdllydmU1SXpodjIzRTZPWHN2dkNPMUcwbUZZeFR4a0J3X2pOcnhRM1NwOGxVRG96NWZpSmJ4RERpLVFyZ3JNdXlQNzd5VzRPTjJwQlRkUUItMzY1THF5NFdGakYxY2tBei1HZDBJbTYyUk5aQmRoWURQNXVjWUlNVTdycVZ0XzJKU1IzTzZrcmJQcXZPVDZPZ3RJZFhZaE9jZE44VHZZN9IB2gFBVV95cUxPckptZjN2QVY1UGVNbFhyZG1NQ1lqb0RpeU16cXV3VTVObFhHenRRMWVhYzI1N1BWZWNXVWk3TmRZSGZPTHZ5dVpmZS1ybDY3VFZoVFZLdXU5aUd0dnJyNVc0ZHVleDNwZnpHak5lLTk4NUZyaVp0aUlNVUpELTdOdldGZDc1aW01U2Y2WmRiRUt6SjlTM010el96dFQ5SVZ3QUgtY0p5ZThQRFJSb1VvMGxjQU55YlNYUHFST0thQlUwd0pyalJUektITTNkUVhUWDhnWmZSS29YQQ?oc=5",
+      "pub_date": 1788881092.0,
+      "article_url": "https://www.wfla.com/news/hillsborough-county/florida-ag-proposes-criminal-penalties-sanctions-for-ai-companies-over-unlawful-chatbot-use/",
       "image": null,
       "description": null
     },
@@ -75,36 +75,36 @@
       "description": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions."
     },
     {
-      "headline": "China\u2019s AI Computing Boom Is Moving Far Beyond Its Biggest Cities",
+      "headline": "Qualcomm Signs Deal to Provide Amazon With Custom AI Chips",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDNGdERVeGI3bGFDanZtaEtDckxyLTZDb2pmYXUyWEtuUkdUa1BnQ1lEUVczai1PMkNhM1pHTGdEYmRUQXpsSXJaRFlNMklEZVIxb2NDSk1FckFrUE5Ra3daTU9SQmxObHlJQ3VKWmRkV1cyZkc2NkwtQ1BDbXNaQWJfcXZ1OTNjcFA2Y3EtaXhXQl81VEROX1ozVkNUWjJqWUJ1VE5qaGNwYjJMblFSWjQ5alZGQktoa2RZ?oc=5",
-      "pub_date": 1788865470.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-ai-computing-boom-is-moving-far-beyond-its-biggest-cities",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1hU1pNeTJmWkxPNUlFdDhQMnlEUDhOM294M2RtOVJZWWgyamZKaDlQNTk0Q2IxY2hMcW5uT3pUaERIRmFlN0d0RVgySFVZeHNfSTNMeC0xMVNuS0FKbkQ5NDk5RE9qOU9FOGpzbXk4U3ZFVmdUTm9HeUtfUW9WTmxydUJVX25ULWM2ek1ialFNdWY1a3RDbk52YWpxMlVZSk40bjg2M2VOREhzQ3c?oc=5",
+      "pub_date": 1788874935.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
-      "pub_date": 1788779180.0,
-      "article_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
-      "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday"
+      "headline": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
+      "pub_date": 1788878326.0,
+      "article_url": "https://www.reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5",
-      "pub_date": 1788859068.0,
-      "article_url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
-      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\"."
+      "headline": "Amazon Just Handed Qualcomm a Slice of AWS\u2019s AI Buildout",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXZQcjgwdzl2OHg4Q1dlMTJEMl8xTXZIT1ZuaXY0ZTdpRkxhRHhjTUlmZEtSVzZ3VjFjazVCRGlHdktTMHY2T1I0aTFycTFBTFVwOUYxUVhKZGtxYUJKcU5XQk5kTDYxZHh1dG9QVTZ2WmI4MVVIU0Z4OVFhOWVURm5JOVdVLVNqRHNuOFc2UWFaRWVBN091WTJuNjZGQQ?oc=5",
+      "pub_date": 1788879391.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-handed-qualcomm-slice-145631339.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b25bba97ac83de0c26668d57551cfd0db3df0024883fc841ae5665d5e32e94a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b95f67b9f3384ebc9a54bd9a552e918.png",
+      "description": "AWS is sitting on a $496 billion backlog and doubling its power capacity, and the pressure is now pulling a surprising new name into the AI silicon race alongside Broadcom. Whether that newcomer can actually deliver before the window closes is the real question."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T11:35:45.698564+00:00"
+  "fetched_at": "2026-09-08T16:08:04.697635+00:00"
 }
