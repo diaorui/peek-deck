@@ -9,7 +9,7 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788772690.0,
+      "pub_date": 1788791543.0,
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
@@ -25,18 +25,18 @@
       "description": null
     },
     {
-      "headline": "Why humanoid robots won\u2019t catch up to human workers any time soon",
-      "source": "understandingai.org",
-      "source_url": "https://www.understandingai.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rR3FKaDFHN2FsRGpicWVPeGFPSHhLUXBsWFlTaXdKbm9MTGNvYWpTbHM3bktPMmdac2tJVVQzcUFCVk5kczRBVm5Jc3cySXlDVEg5M05TMWw4UjdHMS1BTlRrdG02VkFXNm9lMU82QWtQdE94cUE?oc=5",
-      "pub_date": 1788267159.0,
-      "article_url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "image": "https://substackcdn.com/image/fetch/$s_!FzSr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F161a13ab-1d30-401a-af5b-f5fd91994302_1911x865.png",
-      "description": "A deep dive into the current state of humanoid robotics."
+      "headline": "China Is Turning Its Humanoid Robot Boom Toward the Battlefield",
+      "source": "TechRepublic",
+      "source_url": "https://www.techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGdaLWxZUFNJYU4tRVdoRTlaelcxQ2pTN08xeU4xeVRJTVd5d092RTNrRDdqUXc4dklYWlZ5TzF3TDU3OEFsYmJubjNRTnJtejdialRxc0djZm5FVFNqX184S3pIWHRKMHUzYk92ZTgzLTRFMGt6OUR2eU9RMzFoVjhSU1NRZXkwcXJBZC02V0s0U1BkbkZN?oc=5",
+      "pub_date": 1788895325.0,
+      "article_url": "https://www.techrepublic.com/article/news-china-military-humanoid-robots-urban-warfare-apac/",
+      "image": "https://assets.techrepublic.com/uploads/2026/05/robot-soldier.jpg?f=jpeg",
+      "description": "China\u2019s military is exploring humanoid robots for urban combat as the country\u2019s commercial robotics industry dominates global shipments and manufacturing."
     },
     {
       "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "source": "The Robot Report",
+      "source": "therobotreport.com",
       "source_url": "https://www.therobotreport.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
       "pub_date": 1788787666.0,
@@ -45,34 +45,14 @@
       "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
-      "headline": "XTEND AI Robotics Rings NYSE Opening Bell, Marking First Days as Public Company",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbV9QN2xjdjA2QzgzRlVzOUpQS3RFNG1SaGpxQ1c3Rk8tQmp6d3pTYVBPczJ1THo5MHBiVmlhQTlOR3RwX1hYM2s3MTlZbWRVRmRHWEI4dDlMQThmOFhFTkxmbGpTdzA3ZjRQai1zbEJBdjB6WTVtQlFDN2ZqaDNwcDJXSmwydDE3SFdGSlRFeDZqVHYxQU9j?oc=5",
-      "pub_date": 1788877800.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/xtend-ai-robotics-rings-nyse-143000339.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e66ee383c4b844e8eb8ca8666a01948a692e5f3c929ad353e891e4fc329c7fbd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2F9e61bff801e647eab960cada81c55684.png",
-      "description": "Public listing enables the company to meet growing demand for Physical AI in high-risk operational environments TAMPA, Fla., Sept. 08, 2026 (GLOBE NEWSWIRE) -- XTEND AI Robotics, Inc. (NYSE: XTND), a leader in software systems and Physical AI, today rang the opening bell of the New York Stock Exchange (NYSE), officially marking its debut on the public market. XTEND's proprietary XOS operating system powers more than 12,500 deployed systems across 30+ countries and five active combat zones, with"
-    },
-    {
-      "headline": "RoboBoston Returns: MassRobotics Hosts 9th Annual Robot Block Party, September 26, in Boston Seaport, Celebrating the World's Largest Robotics Cluster",
+      "headline": "SS Innovations International(SSII) Turning India's Surgical Robotics Opportunity Into a Global Growth Story",
       "source": "Yahoo! Finance Canada",
       "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRm52LUNSZExsOHlUWDUxcEV1MFdFTktxWXlzZ1doQ2RydjhYYVZmOU11OEltdGZQV3NIOUVhOUl4a1AtMmFBenNOLVhjemNIMm5PYThYc0FUQjZmcFpwdmRvaVV2bE04TXlwMTRFQ096SmtaT1ltX29KQ09jR0pNdmpuOEdDM1lxY1JZbE9vb2s1SlhB?oc=5",
-      "pub_date": 1788882300.0,
-      "article_url": "https://ca.finance.yahoo.com/news/roboboston-returns-massrobotics-hosts-9th-154500269.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/13f269190f0c962f24c459d25e83794e83366baef979051fc59efba8b48d3920/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2F3f4ece4e485fe2d280e05594cac08a03.jpg",
-      "description": "A Day Of Innovation, Interaction, and Family-Friendly Fun In The Heart Of Boston SeaportBOSTON, MA / ACCESS Newswire / September 8, 2026 / announces the annual Robot Block Party, RoboBoston, the largest celebration of robots and robotics of its kind. Taking place in the city's innovation district, Boston Seaport, on Saturday, September 26, 2026, the event will bring together more than 50 companies, universities, and student robotics teams and clubs to showcase cutting-edge robotics and technolog"
-    },
-    {
-      "headline": "Laundry, backflips and panda suits: Humanoid robots take over IFA 2026",
-      "source": "currently.att.yahoo.com",
-      "source_url": "https://currently.att.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGxQSWlNMmRHVWVKNnhHOG5TQnRLa24ybDdGN09KTjE1aGd6VkFweUt2QXByd2N2R01kLWtvN1RRV0hubHZqQlB5eVY5d1UtT2NZcWVCVjNlVi1xSnhEdFl6U0pBUnBIRGlNV1k3S0pkWEhiWjNxVzVBcWJTdm9lSldhZnhXbGhPekVzMUtLa1o3dFE?oc=5",
-      "pub_date": 1788882710.0,
-      "article_url": "https://currently.att.yahoo.com/att/laundry-backflips-panda-suits-humanoid-155150444.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/76e98ae5f62349e4e66cf792596ca21b402c8fb2125c06b73f88bd78681e032b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Ff1ca5567e84c86176752a5191f2ff543.jpg",
-      "description": "From doing the laundry to offering companionship and performing backflips, humanoid robots were everywhere at IFA 2026. Euronews took a closer look at what they can already do, and where the technolog..."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTdtN2FtcVYtSF9JWDZXcFRQaDlidUVVN3RKVlV2Ukd2N0hSbXRSdFpGR1V3aU5ZZVM4VXpMaHBfdEkxdWUydzEyWGRhdkhGMkNTRGxUMGdVZXp5Yll0Y0Z6bDJRblpqcERCMW9uNy1qVFkwVUF1anhsUkE0SXZPR1R3T0NHMDIwY2pkNTV2VFFrMWpS?oc=5",
+      "pub_date": 1788893890.0,
+      "article_url": "https://ca.finance.yahoo.com/news/ss-innovations-international-ssii-turning-185810813.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bdd5a7afda794886daf46d0c32838e962b9b1385570048b490fb512dfa964004/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmediawire_165%2Fa989ab934bf14a59899c88f0d7482a59.png",
+      "description": "SS Innovations is scaling its SSi Mantra surgical robotic system from an established Indian base into international markets. Second-quarter revenue rose 39.4% year over year to $13.9 million, while 30 SSi Mantra systems were installed during the qua..."
     },
     {
       "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
@@ -89,22 +69,42 @@
       "source": "livescience.com",
       "source_url": "https://www.livescience.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
-      "pub_date": 1788847317.0,
+      "pub_date": 1788847200.0,
       "article_url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
       "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-2560-80.jpg",
       "description": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line."
     },
     {
-      "headline": "Robot Aletta Draws Your Blood With no Human Touch Needed",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeGNab243S01nY2JlLW1ydlBUNnlSYU1mTDVRTUpPNXhxMGh2amlJS1RTSXA4S2VjWWpOSGhRTF8wdVpnUFlfcXNlTkRHWUhSR25HcjhKN2g1S01mZmc5RXJYaWFyX1RkdkE?oc=5",
-      "pub_date": 1788786219.0,
-      "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67726417&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-      "description": "Autonomous blood-drawing devices could help address phlebotomist shortages"
+      "headline": "Runway News | The Kinetix Team is Joining Runway",
+      "source": "Runway",
+      "source_url": "https://runway.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZlgxOGY2WjZDVjUzQXRlY0hmWDJqSnhEbERDXzV0NzVIOFpCWWJBSTNtd2YyS3FCc2wyY1BzYmJfdWZsTEwwTlRXeklWRkFLSzM3U3RlWG0tYzVnTlJ4RllCM2l3Q2hk?oc=5",
+      "pub_date": 1788884476.0,
+      "article_url": "https://runway.com/news/company-news/kinetix-joins-runway",
+      "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/08/082026-kinetix-1-aba163f0-1992-46be-813e-0ceab7a8438d.png",
+      "description": "The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe."
+    },
+    {
+      "headline": "Hugging Face Is Making A Big Robotics Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3pxcWlkN2xNd0FsYW5ISUI5VXFTQTdldi03UnN0U3pzRnp4NXhuZHlzSDNYRjBCNkoya2ZvaDI1X3NNeEh4Rk5oM1ZRSkFqdC1Hb1k3WEFPeHFRSWZqRTVhNHFwN0xlbWlhVkdwXzZXUENkcWhMZEw4UGZKMGFwelQ3Yw?oc=5",
+      "pub_date": 1788894360.0,
+      "article_url": "https://www.theinformation.com/articles/hugging-face-making-big-robotics-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Inside The European Factory Where Robots Are Building Robots",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVlSGVnM0VFaU42UGNpSk5jbC01OUo4LS1XZ09kVTNjdXg4S000VW1xZTdzTXhBTzZEclhRMU04MFE3bkROVXQ5NFd3bWJvR1I5TnczNlh0eUR1WFlqdEZ3dVVtZkI4UFVlMXF1VHhBaG1SVmQwSHU4MEFJX2ZRa3QzQzgyb0tGZDdCTDRiYzBSU1RCdm5icFl1eHNRLTJpZDlxWG8wbnJvZmRFLUpSTEdJVmo?oc=5",
+      "pub_date": 1788802874.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T16:07:56.068924+00:00"
+  "fetched_at": "2026-09-08T19:30:36.021984+00:00"
 }
