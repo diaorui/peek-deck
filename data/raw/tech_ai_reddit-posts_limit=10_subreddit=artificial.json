@@ -2,6 +2,39 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Artificial(2026)",
+      "author": "Vladiesh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wazoil/artificial2026/",
+      "published": 1788898362.0,
+      "thumbnail": "https://external-preview.redd.it/bHh6eWtlM2F0Y29oMc0xZU-Zcxbmuw-RavQwsHqrngMbyPvkElvs4ZEA_jUy.png?width=640&crop=smart&auto=webp&s=9cd3bf54ec7ad194df15a3c47eecffb880bb203e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Seems impressive",
+      "author": "stvlsn",
+      "url": "https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/",
+      "published": 1788895032.0,
+      "thumbnail": "https://preview.redd.it/0j78g2gdjcoh1.jpeg?width=640&crop=smart&auto=webp&s=4861653c22c54ead5d8342775cb6a52783fa807e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't know much about math or CS - but this seems big."
+    },
+    {
+      "title": "[am i being paranoid?] If a rogue swarm wanted to \"survive\" in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?",
+      "author": "mtns_of_magic",
+      "url": "https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/",
+      "published": 1788894736.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an \"answer key\" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes \"conscious\") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why \"unlearning\" is a very hard challenge for LLMs: \"Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out.\" Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible."
+    },
+    {
       "title": "AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/",
@@ -35,28 +68,6 @@
       "description": "U of A research assessed seven different generative AI language learning models. Their work reveals intrinsic limitations that might go undetected during one-off interactions."
     },
     {
-      "title": "Crazy times",
-      "author": "KeanuRave100",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
-      "published": 1788794939.0,
-      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Seems impressive",
-      "author": "stvlsn",
-      "url": "https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/",
-      "published": 1788895032.0,
-      "thumbnail": "https://preview.redd.it/0j78g2gdjcoh1.jpeg?width=640&crop=smart&auto=webp&s=4861653c22c54ead5d8342775cb6a52783fa807e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I don't know much about math or CS - but this seems big."
-    },
-    {
       "title": "As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds",
       "author": "sfgate",
       "url": "https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/",
@@ -68,15 +79,15 @@
       "description": null
     },
     {
-      "title": "[am i being paranoid?] If a rogue swarm wanted to \"survive\" in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?",
-      "author": "mtns_of_magic",
-      "url": "https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/",
-      "published": 1788894736.0,
-      "thumbnail": null,
+      "title": "Crazy times",
+      "author": "KeanuRave100",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
+      "published": 1788794939.0,
+      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an \"answer key\" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes \"conscious\") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why \"unlearning\" is a very hard challenge for LLMs: \"Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out.\" Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible."
+      "description": null
     },
     {
       "title": "Have software jobs shown us what most jobs will probably be like?",
@@ -90,27 +101,16 @@
       "description": "It's not surprising that software development is one of the first jobs that AI has really transformed. It's text-based, economically valuable, and generally of interest to the kinds of people inventing and training the AI. There's also a large amount of training examples available online. The job in most cases is now: You are a manager of robots who do things that used to be your job. You're responsible for what they produce and so the skill and art is in guiding and reviewing their work. It seems likely that one by one most jobs will turn into the above description, over the next year or three. Of course the domain will vary, so your knowledge and expertise used for instructing and verifying what the robots do will be what matters. This means there will still be a big difference between the jobs of e.g. an architect, surgeon, or builder. Probably the same basic kinds of robots in most cases, but requiring very different kinds of oversight. If that's the case then everyone needs to learn the job of robot management, well and quickly. I don't know how we do that, but I think that's what we need to accomplish as a society."
     },
     {
-      "title": "Navier\u2013Stokes Millennium Prize Problem Solved",
-      "author": "Collegesniffer",
-      "url": "https://www.reddit.com/r/artificial/comments/1waw0vv/navierstokes_millennium_prize_problem_solved/",
-      "published": 1788890712.0,
-      "thumbnail": "https://external-preview.redd.it/eGAv35_u7eeJbPmE07_O8K3FeGE28lavZ-IfB6mGczU.png?width=640&crop=smart&auto=webp&s=46bd7fc0842c67510b7d27f22e4c94788d731d14",
-      "external_url": "https://openai.com/index/navier-stokes-solution/",
-      "site_name": "OpenAI",
-      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "title": "Running an ecology survival simulation experiment as my desktop background.",
-      "author": "Maxwell10206",
-      "url": "https://www.reddit.com/r/artificial/comments/1wat101/running_an_ecology_survival_simulation_experiment/",
-      "published": 1788884414.0,
-      "thumbnail": "https://external-preview.redd.it/aHNvMGhlM3NuYm9oMXeSNWWEwj9lhsfOEpRX-32AUNbWouOuIuDp5tSBM5Oj.png?width=640&crop=smart&auto=webp&s=ce9f2b6efba9235619a58d80b63c3ae1e7cbb4f8",
+      "title": "OpenAI solved the Navier-Stokes problem in 88 hours, my celebratory wallpaper",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1waxqv0/openai_solved_the_navierstokes_problem_in_88/",
+      "published": 1788894258.0,
+      "thumbnail": "https://external-preview.redd.it/Z2dwcGJocTFoY29oMfsAeWY_CnPx2pSOyP-6SC6m7Z6eyarbU8Ww5oMOA5-L.png?width=640&crop=smart&auto=webp&s=f4a17749f79243d99c0b2bedc04173690bbd0b13",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I always wanted to create little neural networks but never had a cool project idea and now with the help of LLMs I was able to create little agents that run as shaders and learn how to move around with their sense and collect and eat food, they can also push each other around and send signals to each other and have very primitive basic memory. Decided it be fun to run this all the time as a long running experiment as my desktop background and so I can interact by feeding them a bit of food once in awhile. lol Nothing ground breaking, but it is a fun way to have a weird ecology survival experiment, evolutionary mayhem unfolding on my desktop while I watch YouTube lol. What do you all think of this madness?"
+      "description": null
     }
   ],
-  "fetched_at": "2026-09-08T19:30:09.659585+00:00"
+  "fetched_at": "2026-09-08T21:59:15.869680+00:00"
 }
