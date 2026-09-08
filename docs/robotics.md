@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-07T23:18:30.973390+00:00'
+updated: '2026-09-08T01:18:34.847895+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 07, 2026 at 23:18 UTC  
+**Last Updated:** September 08, 2026 at 01:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studi
 
 I'm a sophomore student in Meche and this is my first robot so it took about 2 months. It's a 3d printed robot arm built from scratch and works pretty well but its a bit wobbly (which I'm working on fixing). Its controlled by an arduino uno and 5 potentiometers. But the issue is that those potentiometers are small and covered in nets of wires. I could cut specific wire lengths and buy bigger potentiometers (and probably will) but I think there's another option. Is there some sort of robot arm simulation software that can let me control my arm smoothly on my computer without having to turn each potentiometer slightly to adjust it? I know there's Robodk but its really expensive so if there's one I can use that's free or free for students that would help a lot. Also, since I'm not really satisfied with just a robot arm since its really common for personal projects in my major, my next step is to replace the robot claw with a claw mount built to hold some sort of sprinkler or pump that waters plants when a soil moisture sensor alerts it to. The robot arm will switch to 4DOF for this, and on the opposite side of the arm link, I will also add another claw mount built to aim a grow light at the plant when a grove light sensor tells it to. Water pump aspect I'm working on, grow light is still just a thought right now.
 
-1d ago
+2d ago
 
 ---
 
@@ -110,14 +110,6 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
-
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
-
-ABC7 Chicago • 3d ago
-
----
-
 **[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
 
 Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
@@ -126,9 +118,11 @@ Futurism • 2d ago
 
 ---
 
-**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
+**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
 
-Reuters • 17h ago
+Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
+
+ABC7 Chicago • 3d ago
 
 ---
 
@@ -136,7 +130,7 @@ Reuters • 17h ago
 
 Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
 
-Yahoo Finance UK • 8h ago
+Yahoo Finance UK • 10h ago
 
 ---
 
@@ -144,7 +138,7 @@ Yahoo Finance UK • 8h ago
 
 Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
 
-The Robot Report • 9h ago
+The Robot Report • 11h ago
 
 ---
 
@@ -152,7 +146,35 @@ The Robot Report • 9h ago
 
 /PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
 
-PR Newswire • 8h ago
+PR Newswire • 10h ago
+
+---
+
+**[From dance floor to war: China readies humanoid robots for combat](https://www.msn.com/en-us/technology/robotics/ar-AA2bJfEc)**
+
+MSN • 7h ago
+
+---
+
+**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
+
+South China Morning Post • 23h ago
+
+---
+
+**[Why humanoid robots won’t catch up to human workers any time soon](https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up)**
+
+A deep dive into the current state of humanoid robotics.
+
+understandingai.org • 6d ago
+
+---
+
+**[Why Richtech Robotics Zoomed Nearly 32% Higher in August](https://www.fool.com/investing/2026/09/07/why-richtech-robotics-zoomed-nearly-32-higher-in-a/)**
+
+The beaten-down service robotics stock staged quite a comeback.
+
+The Motley Fool • 3m ago
 
 ---
 
@@ -161,26 +183,6 @@ PR Newswire • 8h ago
 A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
 
 SciTechDaily • 1d ago
-
----
-
-**[Humanoid robots could upend life as we know it — if only they had better brains](https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb)**
-
-MarketWatch • 2d ago
-
----
-
-**[The hotels hiring robots to cut their wage bills](https://www.telegraph.co.uk/business/2026/09/05/the-hotels-hiring-robots-to-cut-their-wage-bills/)**
-
-Hospitality bosses are reconsidering automation as labour costs surge – but will it work?
-
-The Telegraph • 2d ago
-
----
-
-**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
-
-Forbes • 5h ago
 
 ---
 

@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVVCSTNiZ25oQVJISUxrQ3RFb0xHRW1ZTHB0c2ZFbVBVQ0d0YjVGcVFVWXhUY3lzaFlvVjZYaHFIZWVlLUQ5VVoxbmt6VkJhbk8tcUdiUEVNWHNZSk1wNmZLRGdtVDBBbjdFN2loeFd3OTFZcWZORTgxa2JXaDNuVVVIN3JOamhucjZGZmN5d2dEQXhVU0tza0R3Y3U5R1cxZGFNUQ?oc=5",
-      "pub_date": 1788822300.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-investment-firm-bernstein-230500774.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/d476acb1633ff471cf9f4cabf941ae8ed10bc57efb8861d335d970e8b8d5dc95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fd3fd825e80120ac859507f86e0c14d0d.jpg",
-      "description": "The next Bitcoin bull market cycle may have already started."
-    },
-    {
-      "headline": "Hackers Return 85% of Stolen Bitcoin from Last Week\u2019s Bridge Attack",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1E2NEdrZjM3LXBfX1lFQUdxdmZkVGFDeHlzTDFjZmxxeWYtQzhZWWNEYkhtSTAyZ1Q2YUd3MGZBdEZxRFBwWWpXVVhsazNTZjVPRkZwc1pkU3I1cThpUHlJdUNUcjVSdmg0YUdrU01EUDhNMFBqdzNSejUxZlNvdjdQZXkxOVk5M21lZEVnck9mR3lKOF9nN3dfRTF5Zw?oc=5",
-      "pub_date": 1788819066.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/hackers-return-85-stolen-bitcoin-221106288.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/94db3d34e27ccdcd514d905af641d19508d1c3433b0b37a655368200783baec2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F0edc739ac17d2908b731297a99b99006.png",
-      "description": "The Liquid hackers returned 3,400 Bitcoin after Blockstream patched the bridge, but nearly 600 BTC stays with the attackers."
+      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
+      "pub_date": 1788813984.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
@@ -36,7 +26,7 @@
     },
     {
       "headline": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2REekdhZnNTdlBRSnF0T3Z6NFZkLUVjbEdGbURqSU1aSVh0S0YtV3AzQUNBZUdhUTh4aFJPRGhyMENYWXJZR0pjZm1WQmljMWk4OGppTGc5OHl4cjJyME9qdXVBRXhoMEJFQ1VUS09iRC1VLThtTUhkVE14VzY3MGZtWTEwTUZiZkEyZkVpQlJ1X3JzeTI40gGcAUFVX3lxTFBkcUNKanRCRS1wTW1xVnJYajFrRGt5bGphbUNEVHd4a2NFM3luSTJMUW1zRzZwM1RucGkzLWZKVW94dzVOekpjVzBHa3diemc4Rl9sTkN5X0pVS0xOMTVVM2lNN0tPcnBPclcwVDNuZk9GQVlVZTh4UzNnM2xSaVJEOUdRcU1BT3NlR2dtT0I3M25xMktncTVQdmpkVA?oc=5",
       "pub_date": 1788791258.0,
@@ -65,6 +55,36 @@
       "description": null
     },
     {
+      "headline": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnprUDVsZHdrT2xxU0FfaHRpN1lLZ3FNR0lzaEJsRVJQMFR3Vm85MWZrbjRNR1dtNzJIWFZlOUZPT3QwUTRzY2VuR214Rm9lWDVkYjRvR1NoRWd5dVRzdGhNYmJoQUthM3g1NkQwNzB1ZGhLUC1jeGo3enRvY1p2b0xTYUxlVWNsZTlWMFNmczlJWFhNb0dWM2dSM2F6VDBIaTR1ZFRYSVJHc01HdFNQUnd0MmI?oc=5",
+      "pub_date": 1788802203.0,
+      "article_url": "https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Keeps Getting Rejected at $82,000. Can It Break Through in September 2026?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkwyOUVPRU1YTGZsSmZBMWxVUDBya2F5Y0d6QWhrdVpfYzd5cFpkY1M0U2k2MkRPcmkxNDFCaUxCVVlwMjJPQWtpSlJTcXJpZzE1UWh4Q3NBRWc2NXo3WnR6N0IxV080di1aaUx3NXlUa3Y2UXllLWpTQWRVeGNFQnEyR2dLMkFmTGxoRURLVTlRMktWdTk4Tm83cEZfa0xobnR5WjFLSFY1S0ZWaloyLVg3NzJZWTVTS0JWTERJLS1QZW9pYkh1OVdDTTBEa3VTQldB?oc=5",
+      "pub_date": 1788788220.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/07/bitcoin-keeps-getting-rejected-at-82000-can-it-break-through-in-september-2026/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/04/shutterstock-1954182250-huge-licensed-scaled.jpg",
+      "description": "The Bitcoin price has failed at $82,000 four times since August 25. Here is what a break would take with a Senate vote and Fed decision ahead."
+    },
+    {
+      "headline": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTJEVmxnZG9fMktaSkR2YWF0aXpXaXdOZkk4WC0za21Scmt2MGRIVmV3a3JRQmhwTGJLRkhGcWlSdlFXbGNxc3FTZVBQYUttMTV2WGYySmlLdjJLaTFmSlpOTkZDZFdiTW5haXNRLWpwc0dXaEJQWWgyT0x6cHZia3FyWnBtWXVELU1MZTd6RTZLU3pSQUNuNA?oc=5",
+      "pub_date": 1788821429.0,
+      "article_url": "https://www.fool.com/investing/2026/09/07/investment-firm-bernstein-thinks-bitcoin-could-hit/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884977%2Fgold-bitcoin-pile.jpg&w=1200&op=resize",
+      "description": "The next Bitcoin bull market cycle may have already started."
+    },
+    {
       "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -75,36 +95,16 @@
       "description": "For years, the \"digital gold\" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall\u2026"
     },
     {
-      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788813984.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "headline": "Hunter Biden makes new crypto move against Donald Trump",
+      "source": "thestreet.com",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkdmUkl2a0VFWlNxWkRJRjhveGYwTFA2VDlodDhKMlhiNjdfVDQxSVRtTzZQb2taNDFIbm9NT3FIWnA3OFc0UHVLbTVZYjVGNEwzblVpeVZDTzZZM05kUjdBUkx3RFlpTTh4eGYydjRFMXlENy1LOGZfUlpUeE5TeTd4NzZWU090bExCRGlDdnhjN09PMzBLcEM0LVk?oc=5",
+      "pub_date": 1788796386.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/hunter-biden-makes-new-crypto-move-against-donald-trump",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin Only Goes Up: What The 200W And 50W MAs Say About The Cycle Transition (BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQld5a2hEOVVpdlFnTk1kVVdxWHVfWUN0U1d4Q0VlVDVaVm1WclQzSExzOVB0TS04TGU4cjhlOGxUM2tHanBJcGxGN05ISjJxdVpNVGs2TjYtNEZrLWIzZ3dPQVJCaXBSSmlLb1k3dDVCU18yTEZaTzlpVmxab05DVHJUcG9GdUNwejRPcWd0VGdJekxlVUNZWHpKUVhEelE0TWVwcUpUTXRGdw?oc=5",
-      "pub_date": 1788798420.0,
-      "article_url": "https://seekingalpha.com/article/4943587-bitcoin-only-goes-up-what-200w-50w-mas-say-about-cycle-transition",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230305298/image_2230305298.jpg?io=getty-c-w1536",
-      "description": "The 200W MA has historically marked Bitcoin\u2019s bear market floor, though reclaiming it alone does not confirm the bear market is over."
-    },
-    {
-      "headline": "Vitalik Buterin now confident AI won\u2019t break crypto, betting 90% of his net worth",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU13NTVwck1qbXo0cUNQd3VZdFNiU2NQODZqeGhYeUQ0UWQzRExjMS0zTVBBekQ1Ql9PN1lvYzM0aEcwbzJUVmNZTVF1SkxoUmVMRkVPd1JEaEEwWVhna21UbnJfRUVMamlod2tfX1BVNE9BMHBUYmRkNkdkRFpVb2YtYjJpVXZxbUtLT3FndHQtNWc4cXowNGJaM1F4Q1FfU2tnUW9n?oc=5",
-      "pub_date": 1788802240.0,
-      "article_url": "https://cryptoslate.com/vitalik-buterin-now-confident-ai-wont-break-crypto-betting-90-of-his-net-worth/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/vitalik-ai-crypto-shield.jpg",
-      "description": "Vitalik Buterin says AI is unlikely to break Bitcoin\u2019s foundations even as the industry prepares for more powerful cyberattacks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T23:18:28.259260+00:00"
+  "fetched_at": "2026-09-08T01:18:28.742198+00:00"
 }
