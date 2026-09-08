@@ -36,7 +36,7 @@
     },
     {
       "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "source": "therobotreport.com",
+      "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
       "pub_date": 1788787666.0,
@@ -45,14 +45,14 @@
       "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
-      "headline": "SS Innovations International(SSII) Turning India's Surgical Robotics Opportunity Into a Global Growth Story",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTdtN2FtcVYtSF9JWDZXcFRQaDlidUVVN3RKVlV2Ukd2N0hSbXRSdFpGR1V3aU5ZZVM4VXpMaHBfdEkxdWUydzEyWGRhdkhGMkNTRGxUMGdVZXp5Yll0Y0Z6bDJRblpqcERCMW9uNy1qVFkwVUF1anhsUkE0SXZPR1R3T0NHMDIwY2pkNTV2VFFrMWpS?oc=5",
-      "pub_date": 1788893890.0,
-      "article_url": "https://ca.finance.yahoo.com/news/ss-innovations-international-ssii-turning-185810813.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/bdd5a7afda794886daf46d0c32838e962b9b1385570048b490fb512dfa964004/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmediawire_165%2Fa989ab934bf14a59899c88f0d7482a59.png",
-      "description": "SS Innovations is scaling its SSi Mantra surgical robotic system from an established Indian base into international markets. Second-quarter revenue rose 39.4% year over year to $13.9 million, while 30 SSi Mantra systems were installed during the qua..."
+      "headline": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW1ZNTZkWmVESFhHRFBpZGp3MFpYQ3ZldlBpcXZrLVdSenFYdVBtdmRSRFZ4dmpQVlpxVG1XZVN3MkJ0c2k4eV9Xa2wzR18tR0llbDlxZG5wSXFKX2RIb3lyZktDWFQxRkFLWllLdE80QmpjcGhrT2NsWUNEWWxsZ3dfSVU4QXpuaE9EMFhNV3RoVXJWTXBuUnJ4RnI4TEZ5cWxkMW1LZHBkYTRXQzdmNkJ4VWI3WXhwWVJTcFVybGw?oc=5",
+      "pub_date": 1788900476.0,
+      "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Founder-Photo-dynamiccreatures-featured.jpg",
+      "description": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments."
     },
     {
       "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
@@ -65,8 +65,18 @@
       "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
     },
     {
+      "headline": "Robots protest rampant AI in Poland",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
+      "pub_date": 1788794013.0,
+      "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
+      "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
+    },
+    {
       "headline": "Eerily humanlike AI-powered robot enters mass production in China \u2014 its makers say it could soon be helping you out at home",
-      "source": "livescience.com",
+      "source": "Live Science",
       "source_url": "https://www.livescience.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
       "pub_date": 1788847200.0,
@@ -85,26 +95,16 @@
       "description": "The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe."
     },
     {
-      "headline": "Hugging Face Is Making A Big Robotics Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX3pxcWlkN2xNd0FsYW5ISUI5VXFTQTdldi03UnN0U3pzRnp4NXhuZHlzSDNYRjBCNkoya2ZvaDI1X3NNeEh4Rk5oM1ZRSkFqdC1Hb1k3WEFPeHFRSWZqRTVhNHFwN0xlbWlhVkdwXzZXUENkcWhMZEw4UGZKMGFwelQ3Yw?oc=5",
-      "pub_date": 1788894360.0,
-      "article_url": "https://www.theinformation.com/articles/hugging-face-making-big-robotics-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Inside The European Factory Where Robots Are Building Robots",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVlSGVnM0VFaU42UGNpSk5jbC01OUo4LS1XZ09kVTNjdXg4S000VW1xZTdzTXhBTzZEclhRMU04MFE3bkROVXQ5NFd3bWJvR1I5TnczNlh0eUR1WFlqdEZ3dVVtZkI4UFVlMXF1VHhBaG1SVmQwSHU4MEFJX2ZRa3QzQzgyb0tGZDdCTDRiYzBSU1RCdm5icFl1eHNRLTJpZDlxWG8wbnJvZmRFLUpSTEdJVmo?oc=5",
-      "pub_date": 1788802874.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
-      "image": null,
-      "description": null
+      "headline": "XTEND AI Robotics CEO on firm's NYSE debut",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWTdyYkZsa21TWFZaeWtSbEN3ZG1rUU5OeFNyaTlLby1USllmMGVzSm1ZTXU4QVVTR1dTUWFkdE1uMWtnSERLNHU4S1Rlc1QxY1d3dWkzVlBBUURscXpWNWs2NVlmbEZjcGUzMw?oc=5",
+      "pub_date": 1788895897.0,
+      "article_url": "https://qz.com/xtend-ai-robotics-ceo-aviv-shapira-nyse-debut",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Screenshot%202026-09-09%20at%203.30.10%E2%80%AFam.png",
+      "description": "XTEND AI Robotics CEO Aviv Shapira delivers remarks following NYSE debut"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T19:30:36.021984+00:00"
+  "fetched_at": "2026-09-08T21:59:39.554307+00:00"
 }

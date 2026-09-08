@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-08T19:30:39.461665+00:00'
+updated: '2026-09-08T21:59:47.031033+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 19:30 UTC  
+**Last Updated:** September 08, 2026 at 21:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,488.06
+### $2,488.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +3.9%  
-**30d:** +32.7%  
-**90d:** +48.4%  
-**1y:** -42.4%  
+**24h:** +0.0%  
+**7d:** +3.8%  
+**30d:** +32.5%  
+**90d:** +48.2%  
+**1y:** -42.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.24B
+**Market Cap:** $302.63B
 Rank #2
 
 **Circulating Supply:** 122,029,705 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.8%
+-49.9%
 
 **All-Time Low:** $0.43
-+573662.2%
++572653.0%
 
 ---
 
@@ -120,7 +120,7 @@ My company performs wealth verifications as part of our user entitlements/verifi
 
 Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
 
-🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 5d ago
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 6d ago
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 What the Protocol cluster is for, the commitments that govern its work through 2029, and what those commitments require of the forks now entering scope.
 
-blog.ethereum.org • 1d ago
+ethereum.org • 1d ago
 
 ---
 
@@ -168,17 +168,19 @@ CryptoSlate • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, September 8, 2026: Crypto prices sliding as U.S.-Iran fighting continues](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html)**
+**[Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html)**
 
-Bitcoin opened at $79,093.85 on Tuesday, September 8, 2026, down 1.6% from Monday's open. As of 7:20 a.m. ET, the price of bitcoin fell to $78,370.62. Ethereum opened at $2,489.84 today, down 1% from Monday's opening price. The price of ethereum edged lower to $2,473.66 as of 7:20 a.m. ET.
+Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html)**
 
-CoinDesk • 6h ago
+Bitmine Immersion Technologies (NYSE: $BMNR) added another 28,086 Ether (CRYPTO: $ETH) to its holdings last week, b...
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -186,7 +188,13 @@ CoinDesk • 6h ago
 
 Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
 
-PR Newswire • 7h ago
+PR Newswire • 9h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+
+CoinDesk • 8h ago
 
 ---
 
@@ -194,15 +202,15 @@ PR Newswire • 7h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-The Block • 15h ago
+The Block • 17h ago
 
 ---
 
-**[Tom Lee Reveals Four Catalysts That Could Push Ethereum Toward $6,000](https://coinpedia.org/news/tom-lee-reveals-four-catalysts-that-could-push-ethereum-toward-6000/)**
+**[Current price of Ethereum for Sept. 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
 
-Ethereum’s recent rally could extend beyond a short-term rebound as improving industry fundamentals create room for further gains, according to Fundstrat
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-coinpedia.org • 11h ago
+Fortune • 8h ago
 
 ---
 
@@ -210,21 +218,15 @@ coinpedia.org • 11h ago
 
 Ethereum is out to prove that it deserves an institutional valuation of its own
 
-investingLive • 9h ago
+investingLive • 12h ago
 
 ---
 
-**[Bitmine’s Ethereum holdings near 6M as crypto treasury hits $15.7B](https://seekingalpha.com/news/4640764-bitmines-ethereum-holdings-near-6m-as-crypto-treasury-hits-157b)**
+**[Ethereum Price Forecast: Retail distributions outweigh whale and ETF buying](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-retail-distributions-outweigh-whale-and-etf-buying-202609072052)**
 
-Seeking Alpha • 6h ago
+Ethereum (ETH) continues to consolidate near $2,500 on Monday as distribution from retail wallets outweighed whale optimism.
 
----
-
-**[Crypto News Today: DigiTap Sells Out Presale Stage Early as Ethereum Price Prediction Points to $5,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-digitap-sells-out-presale-stage-early-as-ethereum-price-prediction-points-to-5-000-1036527002)**
-
-VIENTIANE, Laos, Sept.  07, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward DigiTap after the project sold out a presale stage early...
-
-markets.businessinsider.com • 17h ago
+FXStreet • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 152 • 👍 4 • 💬 1 • ⏱️ 0:56 • 2h ago
+👁️ 299 • 👍 7 • 💬 1 • ⏱️ 0:56 • 4h ago
 
 ---
 
@@ -252,33 +254,23 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 ---
 
-**[Ethereum &amp; Bitcoin Hold Into A Fed Rate HIKE!! (still long)](https://www.youtube.com/watch?v=s3WqtKOLy-M)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 79 • 👍 5 • 💬 62 • ⏱️ 5:04 • 4h ago
-
----
-
 **[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 48K • 👍 605 • 💬 76 • ⏱️ 18:40 • 1d ago
+👁️ 50K • 👍 615 • 💬 49 • ⏱️ 18:40 • 1d ago
 
 ---
 
-**[THIS BULL FLAG CAN MAKE ETHEREUM EXPLODE !!!!](https://www.youtube.com/watch?v=behBry4oiJo)**
+**[Ethereum &amp; Bitcoin Hold Into A Fed Rate HIKE!! (still long)](https://www.youtube.com/watch?v=s3WqtKOLy-M)**
 
-Look at this Ethereum chart: a textbook flag pole followed by a clean bull flag. I'm showing you the exact target if we break toward ...
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
-📺 The Moon Show
+📺 Marzell Crypto
 
-👁️ 11 • 👍 1 • ⏱️ 0:22 • 30m ago
+👁️ 171 • 👍 6 • 💬 18 • ⏱️ 5:04 • 6h ago
 
 ---
 
@@ -292,13 +284,13 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+**[Ethereum: NON TE LO DICONO...](https://www.youtube.com/watch?v=cwWtPsUbnfc)**
 
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: NON TE LO DICONO... Nuova analisi su ETH ! Vediamo insieme ...
 
-📺 The Modern Investor
+📺 Jacopo Marini
 
-👁️ 15K • 👍 790 • 💬 240 • ⏱️ 36:55 • 2d ago
+👁️ 143 • 👍 20 • 💬 1 • ⏱️ 15:44 • 1h ago
 
 ---
 
@@ -308,7 +300,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 459 • 👍 18 • 💬 1 • ⏱️ 4:34 • 10h ago
+👁️ 681 • 👍 18 • 💬 1 • ⏱️ 4:34 • 13h ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 15K • 👍 790 • 💬 238 • ⏱️ 36:55 • 2d ago
 
 ---
 
@@ -318,17 +320,17 @@ BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 11K • 👍 293 • 💬 591 • ⏱️ 19:13 • 19h ago
+👁️ 12K • 👍 293 • 💬 561 • ⏱️ 19:13 • 21h ago
 
 ---
 
-**[Ethereum Is Winning. But ETH Holders Might Not.](https://www.youtube.com/watch?v=4QuLcoKAfbg)**
+**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
 
-Ethereum is dominating crypto right now, but I lay out why that may not translate into ETH holders winning, and where I think the ...
+This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
 
-📺 Jerry Banfield Crypto Reviews
+📺 Crypto Vlog
 
-👁️ 2K • 👍 55 • 💬 38 • ⏱️ 20:29 • 2d ago
+👁️ 5K • 💬 37 • ⏱️ 0:48 • 1d ago
 
 ---
 

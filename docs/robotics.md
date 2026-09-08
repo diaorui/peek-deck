@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-08T19:30:39.465108+00:00'
+updated: '2026-09-08T21:59:47.033268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 08, 2026 at 19:30 UTC  
+**Last Updated:** September 08, 2026 at 21:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,7 +118,7 @@ Reuters • 1d ago
 
 **[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
 
-Technology Org • 10h ago
+Technology Org • 12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Technology Org • 10h ago
 
 China’s military is exploring humanoid robots for urban combat as the country’s commercial robotics industry dominates global shipments and manufacturing.
 
-TechRepublic • 8m ago
+TechRepublic • 2h ago
 
 ---
 
@@ -134,15 +134,15 @@ TechRepublic • 8m ago
 
 Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
 
-therobotreport.com • 1d ago
+The Robot Report • 1d ago
 
 ---
 
-**[SS Innovations International(SSII) Turning India's Surgical Robotics Opportunity Into a Global Growth Story](https://ca.finance.yahoo.com/news/ss-innovations-international-ssii-turning-185810813.html)**
+**[Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics](https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/)**
 
-SS Innovations is scaling its SSi Mantra surgical robotic system from an established Indian base into international markets. Second-quarter revenue rose 39.4% year over year to $13.9 million, while 30 SSi Mantra systems were installed during the qua...
+Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.
 
-Yahoo! Finance Canada • 32m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -150,7 +150,15 @@ Yahoo! Finance Canada • 32m ago
 
 Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
 
-Arm Newsroom • 17h ago
+Arm Newsroom • 19h ago
+
+---
+
+**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
+
+Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
+
+Yahoo Finance UK • 1d ago
 
 ---
 
@@ -158,7 +166,7 @@ Arm Newsroom • 17h ago
 
 Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.
 
-livescience.com • 13h ago
+Live Science • 15h ago
 
 ---
 
@@ -166,19 +174,15 @@ livescience.com • 13h ago
 
 The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe.
 
-Runway • 3h ago
+Runway • 5h ago
 
 ---
 
-**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/articles/hugging-face-making-big-robotics-push)**
+**[XTEND AI Robotics CEO on firm's NYSE debut](https://qz.com/xtend-ai-robotics-ceo-aviv-shapira-nyse-debut)**
 
-The Information • 24m ago
+XTEND AI Robotics CEO Aviv Shapira delivers remarks following NYSE debut
 
----
-
-**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
-
-Forbes • 1d ago
+qz.com • 2h ago
 
 ---
 
@@ -192,7 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 522K • 👍 9K • 💬 740 • ⏱️ 15:41 • 5d ago
+👁️ 529K • 👍 9K • 💬 744 • ⏱️ 15:41 • 6d ago
 
 ---
 
@@ -202,17 +206,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 295K • 👍 2K • 💬 641 • ⏱️ 1:44 • 4d ago
-
----
-
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
-
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
-
-📺 RICHLEV
-
-👁️ 212K • 👍 5K • 💬 1K • ⏱️ 38:26 • 18h ago
+👁️ 296K • 👍 2K • 💬 641 • ⏱️ 1:44 • 4d ago
 
 ---
 
@@ -226,13 +220,31 @@ An Al-generated concept showing an advanced medical service robot helping a sick
 
 ---
 
+**[New robot match loading #automobile #howtogetheroplayersinluckyspin #lego #robot #machine #robotics](https://www.youtube.com/watch?v=yTyamW5-bzs)**
+
+📺 6210H Halapeños
+
+👁️ 6K • 👍 31 • ⏱️ 0:08 • 1d ago
+
+---
+
+**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
+
+Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
+
+📺 RICHLEV
+
+👁️ 232K • 👍 6K • 💬 1K • ⏱️ 38:26 • 20h ago
+
+---
+
 **[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
 Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
 📺 South China Morning Post
 
-👁️ 192K • 👍 2K • 💬 453 • ⏱️ 3:47 • 5d ago
+👁️ 193K • 👍 2K • 💬 453 • ⏱️ 3:47 • 5d ago
 
 ---
 
@@ -242,7 +254,7 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 246K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
+👁️ 247K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -256,13 +268,13 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
 
-📺 ejunky66
+📺 Joe Lonsdale
 
-👁️ 9K • 👍 138 • 💬 16 • ⏱️ 0:59 • 4d ago
+👁️ 52K • 👍 392 • 💬 38 • ⏱️ 8:34 • 5d ago
 
 ---
 
@@ -272,17 +284,7 @@ War Robots Gameplay: JAEGER Robot in War Robots - who even knows about this one?
 
 📺 Manni-Gaming
 
-👁️ 24K • 👍 613 • 💬 157 • ⏱️ 16:46 • 1d ago
-
----
-
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
-
-PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 4.4M • 👍 81K • 💬 10K • ⏱️ 25:44 • 2d ago
+👁️ 25K • 👍 627 • 💬 157 • ⏱️ 16:46 • 1d ago
 
 ---
 
