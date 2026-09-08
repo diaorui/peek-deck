@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-08T01:18:34.846296+00:00'
+updated: '2026-09-08T06:18:43.622464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 01:18 UTC  
+**Last Updated:** September 08, 2026 at 06:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,492.14
+### $2,488.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +4.4%  
-**30d:** +33.3%  
-**90d:** +49.1%  
-**1y:** -42.2%  
+**24h:** -0.5%  
+**7d:** +3.5%  
+**30d:** +32.2%  
+**90d:** +47.8%  
+**1y:** -42.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.54B
+**Market Cap:** $302.08B
 Rank #2
 
-**Circulating Supply:** 122,026,782 ETH
+**Circulating Supply:** 122,029,705 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.7%
+-50.0%
 
 **All-Time Low:** $0.43
-+574424.4%
++571618.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Everything you should know for your trip to India. And a little bit more. Devcon
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -152,25 +152,25 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
+**[EF Protocol: Current and Emerging Priorities](https://blog.ethereum.org/2026/09/07/protocol-priorities)**
+
+What the Protocol cluster is for, the commitments that govern its work through 2029, and what those commitments require of the forks now entering scope.
+
+ethereum.org • 15h ago
+
+---
+
 **[Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html)**
 
 Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
 
-CoinDesk • 11h ago
-
----
-
-**[EF Protocol: The Hegotá EIP Opinion Post and Tier List](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips)**
-
-The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
-
-ethereum.org • 10h ago
+coindesk.com • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ ethereum.org • 10h ago
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
@@ -186,7 +186,31 @@ The Block • 22h ago
 
 Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
 
-TradingView • 14h ago
+tradingview.com • 19h ago
+
+---
+
+**[Crypto News Today: DigiTap Sells Out Presale Stage Early as Ethereum Price Prediction Points to $5,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-digitap-sells-out-presale-stage-early-as-ethereum-price-prediction-points-to-5-000-1036527002)**
+
+VIENTIANE, Laos, Sept.  07, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward DigiTap after the project sold out a presale stage early...
+
+markets.businessinsider.com • 4h ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates near recent highs, ETH and XRP defend key bullish supports](https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
+
+FXStreet • 1d ago
+
+---
+
+**[Ethereum arbitrage study reveals builders receive $5 for every $1 burned by the network](https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network/)**
+
+Bitquery’s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved.
+
+CryptoSlate • 9h ago
 
 ---
 
@@ -198,33 +222,9 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum arbitrage study reveals builders receive $5 for every $1 burned by the network](https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network/)**
+**[Vitalik Buterin has blunt response to AI crashing Bitcoin](https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin)**
 
-Bitquery’s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved.
-
-CryptoSlate • 4h ago
-
----
-
-**[Tayrish(@Square-Creator-d17de53d7b49)'s insights](https://www.binance.com/en/square/post/364213664773268)**
-
-Binance • 5h ago
-
----
-
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC consolidates near recent highs, ETH and XRP defend key bullish supports](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312)**
-
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
-
-FXStreet • 22h ago
-
----
-
-**[Crypto News Today: AlphaPepe Presale Passes $2.6M Raised as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-presale-passes-2-6m-raised-as-ethereum-price-prediction-targets-10-000-1036525126)**
-
-MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
-
-markets.businessinsider.com • 23h ago
+thestreet.com • 14h ago
 
 ---
 
@@ -232,33 +232,53 @@ markets.businessinsider.com • 23h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Arthur Hayes: Ethereum Will Outperform The Entire Market (It’s My Biggest Position)](https://www.youtube.com/watch?v=ZYD59fXLJQQ)**
+
+Arthur Hayes joins us for a session to understand the underlying economic forces leading to a massive digital assets bull market ...
+
+📺 The Rollup
+
+👁️ 7K • 👍 177 • 💬 37 • ⏱️ 41:28 • 5h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VdfFB1p_EWc)**
+
+BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 204 • 💬 166 • ⏱️ 19:13 • 6h ago
+
+---
+
+**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 40K • 👍 523 • 💬 94 • ⏱️ 18:40 • 14h ago
+
+---
+
+**[Ethereum: $10,100 Is The First All Time High Target](https://www.youtube.com/watch?v=y531NemLAuc)**
+
+Ethereum has taken out its April high while Bitcoin is still below its April and May swing high, so Ethereum is the stronger of the ...
+
+📺 More Crypto Online
+
+👁️ 10 • ⏱️ 2:45 • 18m ago
+
+---
+
 **[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
 
 BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
 
 📺 The Moon Show
 
-👁️ 14K • 👍 492 • 💬 46 • ⏱️ 3:29 • 14h ago
-
----
-
-**[Raoul Pal &amp; Tom Lee :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum&quot; | 2026 Crypto Prediction](https://www.youtube.com/watch?v=5i8VvNd-uJk)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 18K • 👍 331 • 💬 57 • ⏱️ 18:18 • 1d ago
-
----
-
-**[Ethereum Consolidation Is Creating a Surprising Bullish Setup](https://www.youtube.com/watch?v=v4iApLZO-gw)**
-
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 425 • 👍 15 • 💬 6 • ⏱️ 4:29 • 6h ago
+👁️ 15K • 👍 519 • 💬 45 • ⏱️ 3:29 • 19h ago
 
 ---
 
@@ -268,17 +288,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 144 • 💬 23 • ⏱️ 14:40 • 1d ago
-
----
-
-**[BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Wx60soTHgTU)**
-
-BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 18K • 👍 388 • 💬 566 • ⏱️ 20:24 • 23h ago
+👁️ 5K • 👍 149 • 💬 22 • ⏱️ 14:40 • 1d ago
 
 ---
 
@@ -288,7 +298,7 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 772 • 💬 341 • ⏱️ 36:55 • 1d ago
+👁️ 14K • 👍 774 • 💬 324 • ⏱️ 36:55 • 1d ago
 
 ---
 
@@ -298,17 +308,17 @@ Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you th
 
 📺 No Bs Crypto
 
-👁️ 17K • 👍 441 • 💬 49 • ⏱️ 19:02 • 2d ago
+👁️ 18K • 👍 448 • 💬 62 • ⏱️ 19:02 • 2d ago
 
 ---
 
-**[&quot;This Is The Moment&quot;! Crypto Exiting A 5-Year Bear Market (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=DwQ4F_akaFo)**
+**[Ethereum Is Winning. But ETH Holders Might Not.](https://www.youtube.com/watch?v=4QuLcoKAfbg)**
 
-Get the crypto risk models I use to track accumulation and exit zones. Free trial https://app.cryptocapitalventure.ai Crypto is ...
+Ethereum is dominating crypto right now, but I lay out why that may not translate into ETH holders winning, and where I think the ...
 
-📺 Crypto Capital Venture
+📺 Jerry Banfield Crypto Reviews
 
-👁️ 33K • 👍 784 • 💬 235 • ⏱️ 18:55 • 2d ago
+👁️ 2K • 👍 54 • 💬 43 • ⏱️ 20:29 • 2d ago
 
 ---
 
@@ -318,17 +328,7 @@ John just bought 3 alts for the upcoming bull market, and he's already up 35% fr
 
 📺 Milk Road
 
-👁️ 16K • 👍 244 • 💬 143 • ⏱️ 13:53 • 2d ago
-
----
-
-**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
-
-This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
-
-📺 Crypto Vlog
-
-👁️ 5K • 💬 37 • ⏱️ 0:48 • 1d ago
+👁️ 16K • 👍 245 • 💬 141 • ⏱️ 13:53 • 2d ago
 
 ---
 

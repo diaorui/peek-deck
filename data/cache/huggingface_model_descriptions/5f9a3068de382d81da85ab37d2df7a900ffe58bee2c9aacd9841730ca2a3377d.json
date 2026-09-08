@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-08T06:18:42.926647+00:00",
+  "data": "MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-constrained environments, achieving SOTA in its class for tasks like coding, math, long-context understanding, and tool use.",
+  "model_id": "openbmb/MiniCPM5-2B"
+}

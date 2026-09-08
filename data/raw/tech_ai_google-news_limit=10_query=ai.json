@@ -26,7 +26,7 @@
     },
     {
       "headline": "OpenAI Top Scientist Urges \u2018Extreme Caution\u2019 With Pace of AI",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5",
       "pub_date": 1788799936.0,
@@ -35,76 +35,76 @@
       "description": null
     },
     {
-      "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5",
+      "pub_date": 1788822312.0,
+      "article_url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\"."
+    },
+    {
+      "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
-      "pub_date": 1788793934.0,
-      "article_url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
+      "pub_date": 1788843605.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "The complex corporate web behind a $3.2 billion AI data center",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb244cjF5YkJfcHVHWTZkS0MxZ3I5aWwxZ2FxUE9ZdHRWaFpkYmgxaTBKLU9IRW9xalZObV95VGFjbDNDcjRYYVRUMHhuSVp2SkVOODg0ZXZCTEpnMkhJS0V3ZExCbFNGbVA4b3dRRkpzVk53ZXVqcWFqTklsZDlhY1pDaC0xMmphX3VLQUFjUjRxNHFCbU83d3lzd3llSDdTcmcwY1dxNA?oc=5",
-      "pub_date": 1788778803.0,
-      "article_url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-      "description": "When multiple companies are behind one project, who bears responsibility for problems?"
-    },
-    {
-      "headline": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
+      "headline": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
-      "pub_date": 1788696001.0,
-      "article_url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
-      "description": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development."
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5",
+      "pub_date": 1788843601.0,
+      "article_url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
+      "description": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic."
     },
     {
-      "headline": "China Is Building an AI Future Far From Its Biggest Cities",
-      "source": "Bloomberg.com",
+      "headline": "French AI company Mistral hits $24 billion valuation in funding round",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
+      "pub_date": 1788843824.0,
+      "article_url": "https://www.reuters.com/world/europe/french-ai-company-mistral-hits-24-billion-valuation-funding-round-2026-09-08/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUU2SE5ZdUxxaDNJb3VVaDdVRVljcTV6WHQ3Ql9WNk1fYWFzZGJyRUlKZlp6aC0tcFpOdUo0NUJjTkpTVXlNR0tkOEFmQkc4R0l0NWRyWlFXVG0yN3RhN1RLNXBDbDF4cVFPZE1lRXVUZDlacFNhRkRrbDBXRThtOFZVdVpLTVNneEhWa25PYWc4Q0g0WG16S0FYWjJmT20tNTAyS043c0NEV2EyUXVUdGlrS1g2eUJSQThzNA?oc=5",
-      "pub_date": 1788826020.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdwaDlaY2J0dnkxdHZEenU3SEFLRS1pTlVPaW8ybTA2TTA5am5RMmxidF8wR21hYnh0Mmg3bk9VMEE1ckNMNVpiR2tTV1VnSU1UTVh5WTdKWDlqOTcxamNodmI1bUVocmpnNkZLZTVZenZUR2Q1RkFsaHVMWVpGWEdlQjQ3OUxvdERhYVpoUHlpa1hCci1oWGdkekg3clhKWkJjRnVIdjEzQQ?oc=5",
+      "pub_date": 1788847500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
       "image": null,
       "description": null
     },
     {
-      "headline": "Gal Gadot defends AI-made sets in Bitcoin movie, says SAG asked for guidance",
-      "source": "yahoo.com",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1NaT0NILWpORktZNVpSV215bE8xdUlIRlUwbmFnWjZZS2xwdXFXWDk2LTFNdnF4ZnQ1c2dCMWk4WDBIZ3UtSHBtaHpzTUV0c0wtVmx6ZFRpSXlES0kzZU1ZQWNTRUpZT3JhZ2t4bEcza0RJOHl0OHo1TzdTc2dIcnFrR3ZsMjgwX0kxdFRhX0NSaWNSRncw?oc=5",
-      "pub_date": 1788826560.0,
-      "article_url": "https://www.yahoo.com/entertainment/movies/articles/gal-gadot-defends-ai-made-001600796.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1cbd2b64d5696ac3f1cfa7658ced2a7e302c2c7382b0a0e3d1825bbb8b175ff4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F0ac66c7013513504be066b58563c1988.jpg",
-      "description": "\"You're going to work with it or be out of the game completely.\""
+      "headline": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics",
+      "source": "Arm Newsroom",
+      "source_url": "https://newsroom.arm.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUUxqZS1wUTRCbW5sUUZZbnlFem90cWY1Ql9aZmU5bVlHWWdPczV5eXpzenlSMi1KdE1WbWFPR2hIbW5aSjNXRVQ4eHFCb3Zvb3MybGtUWDNEUjhseUFLQTd2QzEwc2FRRmRMWVJ0R21WdFVqMDJoNEpIZUVFTVRvckJ3?oc=5",
+      "pub_date": 1788832965.0,
+      "article_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
+      "description": "Arm Mali G2-Ultra NX brings AI-native graphics and neural acceleration to desktop-class mobile gaming."
     },
     {
-      "headline": "IFA 2026: AI Is Acquiring Bodies. Hardware Is Acquiring Brains.",
-      "source": "forbes.com",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDAyNXRrNW1YcEg3QzVDaGtqOU9JNVNwN3pITWpCVXMyMVhmR2pUSTlfOFY1eV9kY2dWakVzcTFJbFZzME9SZmUyaHY4YUtSdjRmLXN6NFhJOFBHc2VzT0I3QmIyMEk5VFpBQW5TVzV2dXVKSFhPc0ZFb09rZTNBNkpONlVBUHZpLUVYUUVQY1FBbHVERXFKTVdjU3dkUTA0dWRIMV9wbjZ6VmM2cGpOcw?oc=5",
-      "pub_date": 1788826404.0,
-      "article_url": "https://www.forbes.com/sites/viviantoh/2026/09/07/ifa-2026-ai-is-acquiring-bodies-hardware-is-acquiring-brains/",
+      "headline": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
+      "pub_date": 1788791423.0,
+      "article_url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
-      "pub_date": 1788779180.0,
-      "article_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
-      "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T01:18:33.948943+00:00"
+  "fetched_at": "2026-09-08T06:18:41.836903+00:00"
 }

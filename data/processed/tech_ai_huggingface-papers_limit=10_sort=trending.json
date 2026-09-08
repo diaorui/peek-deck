@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 776,
+      "upvotes": 777,
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 11147,
+      "github_stars": 11251,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 31793,
+      "github_stars": 31859,
       "project_page": null
     },
     {
@@ -96,6 +96,25 @@
       "project_page": null
     },
     {
+      "id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
+      "organization_name": "apodex",
+      "organization_fullname": "Apodex",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
+      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
+      "hf_url": "https://huggingface.co/papers/2608.23283",
+      "arxiv_url": "https://arxiv.org/abs/2608.23283",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
+      "upvotes": 206,
+      "num_comments": 3,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+      "github_stars": 2202,
+      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -115,23 +134,23 @@
       "project_page": null
     },
     {
-      "id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
-      "organization_name": "apodex",
-      "organization_fullname": "Apodex",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
-      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
-      "hf_url": "https://huggingface.co/papers/2608.23283",
-      "arxiv_url": "https://arxiv.org/abs/2608.23283",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 205,
-      "num_comments": 3,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 2036,
-      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+      "id": "2312.06371",
+      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
+      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
+      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
+      "hf_url": "https://huggingface.co/papers/2312.06371",
+      "arxiv_url": "https://arxiv.org/abs/2312.06371",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
+      "upvotes": 0,
+      "num_comments": 0,
+      "published_at": "2023-12-11T08:27:51.000Z",
+      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
+      "github_stars": 647,
+      "project_page": null
     },
     {
       "id": "2608.23552",
@@ -149,27 +168,8 @@
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 20107,
+      "github_stars": 20182,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
-    },
-    {
-      "id": "2312.06371",
-      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
-      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
-      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
-      "hf_url": "https://huggingface.co/papers/2312.06371",
-      "arxiv_url": "https://arxiv.org/abs/2312.06371",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
-      "upvotes": 0,
-      "num_comments": 0,
-      "published_at": "2023-12-11T08:27:51.000Z",
-      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
-      "github_stars": 523,
-      "project_page": null
     },
     {
       "id": "2407.17789",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-07T23:18:19.759608+00:00"
+  "fetched_at": "2026-09-08T06:18:22.012896+00:00"
 }
