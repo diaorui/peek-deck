@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "CryptoPatel28(@Square-Creator-1e6bb63bbcc4a)'s insights",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkUDVBZVJZcTdVMm1rbTZ5czA4ZXQ4bG96RHQwMTd4aldTdGdDdnVETlNlXzdhdlEwcnREVXZURkpHQ3BNZmplSHFhajFHcE9qdnVDNDVNWXBXYzYtLWQwYVZKUF8?oc=5",
-      "pub_date": 1788816884.0,
-      "article_url": "https://www.binance.com/en/square/post/364239604808830",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -85,6 +75,16 @@
       "description": "Bitquery\u2019s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved."
     },
     {
+      "headline": "Tayrish(@Square-Creator-d17de53d7b49)'s insights",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNjc2VHlodFd3M1Vwai1PcW9fU2NZTDlLVDlUMkNCYm4zZl9wM2VNOWsyN3JQMVZGYnE3dzFudDJvQlhWWHo0YXdSUnE4OFNidWUyZE1kXzJ4dnVNQUMydllNVkw?oc=5",
+      "pub_date": 1788810551.0,
+      "article_url": "https://www.binance.com/en/square/post/364213664773268",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates near recent highs, ETH and XRP defend key bullish supports",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T23:18:29.380238+00:00"
+  "fetched_at": "2026-09-08T01:18:25.102120+00:00"
 }

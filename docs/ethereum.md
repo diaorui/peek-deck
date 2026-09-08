@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-07T23:18:30.970248+00:00'
+updated: '2026-09-08T01:18:34.846296+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 07, 2026 at 23:18 UTC  
+**Last Updated:** September 08, 2026 at 01:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.1%  
-**7d:** +2.8%  
-**30d:** +30.2%  
-**90d:** +53.4%  
-**1y:** -42.3%  
+**24h:** -0.6%  
+**7d:** +4.4%  
+**30d:** +33.3%  
+**90d:** +49.1%  
+**1y:** -42.2%  
 
 ---
 
@@ -152,23 +152,17 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
-**[CryptoPatel28(@Square-Creator-1e6bb63bbcc4a)'s insights](https://www.binance.com/en/square/post/364239604808830)**
-
-Binance • 1h ago
-
----
-
 **[Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html)**
 
 Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
 **[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -176,7 +170,7 @@ CoinDesk • 9h ago
 
 The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
 
-ethereum.org • 8h ago
+ethereum.org • 10h ago
 
 ---
 
@@ -184,7 +178,7 @@ ethereum.org • 8h ago
 
 Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.
 
-The Block • 20h ago
+The Block • 22h ago
 
 ---
 
@@ -192,7 +186,7 @@ The Block • 20h ago
 
 Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S…
 
-TradingView • 12h ago
+TradingView • 14h ago
 
 ---
 
@@ -208,7 +202,13 @@ The Motley Fool • 2d ago
 
 Bitquery’s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved.
 
-CryptoSlate • 2h ago
+CryptoSlate • 4h ago
+
+---
+
+**[Tayrish(@Square-Creator-d17de53d7b49)'s insights](https://www.binance.com/en/square/post/364213664773268)**
+
+Binance • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ CryptoSlate • 2h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones.
 
-FXStreet • 20h ago
+FXStreet • 22h ago
 
 ---
 
@@ -224,7 +224,7 @@ FXStreet • 20h ago
 
 MONACO, Sept.  06, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale crossed a new $2.61 million record de...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 14K • 👍 492 • 💬 46 • ⏱️ 3:29 • 12h ago
+👁️ 14K • 👍 492 • 💬 46 • ⏱️ 3:29 • 14h ago
 
 ---
 
@@ -258,7 +258,7 @@ Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradec
 
 📺 Trade Confident
 
-👁️ 425 • 👍 15 • 💬 6 • ⏱️ 4:29 • 4h ago
+👁️ 425 • 👍 15 • 💬 6 • ⏱️ 4:29 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN: This Happens ONCE Every 4 YEARS (confirmed)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 18K • 👍 388 • 💬 566 • ⏱️ 20:24 • 21h ago
+👁️ 18K • 👍 388 • 💬 566 • ⏱️ 20:24 • 23h ago
 
 ---
 
