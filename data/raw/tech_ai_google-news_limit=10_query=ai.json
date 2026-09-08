@@ -5,6 +5,46 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
+      "pub_date": 1788859979.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Making sovereign, open-weight AI the technology frontier",
+      "source": "mistral.ai",
+      "source_url": "https://mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5",
+      "pub_date": 1788843838.0,
+      "article_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "image": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg",
+      "description": "Mistral today announced that it has raised \u20ac3 billion in a Series D funding round at a post-money valuation of more than \u20ac21 billion."
+    },
+    {
+      "headline": "Mistral AI raises \u20ac3 billion in Samsung-led Series D round",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zaUR1Z1I3NEx1MUlvMktxanhTLUkwNDZ6R2VYTHNjZDhjU0h4clozWUpjSUU4am1mX216VTB2d0c4RkFCQU15WEh1bmpyblFtcDdRRHFmZ0dXWmFKbUU5UUJHenpSbVotUGM5SXBrRGxEZ09zVHc?oc=5",
+      "pub_date": 1788866337.0,
+      "article_url": "https://qz.com/mistral-ai-samsung-series-d-funding-valuation-090826",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2264771189-300x200.jpg",
+      "description": "The French AI startup's post-money valuation now exceeds \u20ac21 billion, up from \u20ac11.7 billion a year ago"
+    },
+    {
+      "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "pub_date": 1788771843.0,
+      "article_url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "An Alien Mind",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -15,96 +55,56 @@
       "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
     },
     {
-      "headline": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5",
-      "pub_date": 1788783727.0,
-      "article_url": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
-      "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet."
-    },
-    {
-      "headline": "OpenAI Top Scientist Urges \u2018Extreme Caution\u2019 With Pace of AI",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDlHRm9SRG1hZ1FkV09zVl96OHU3UnRkZzlwbnc5T0M0UVpOZjMwcjFVVGJjNlBpQTYzakVCcFpfeVIwblAwUzZXUnoycnpRX3g1R20xRG1ILUFycjlfRi05NEhjTmpZeW11UERDbDM4TjhIODQyaEMwYnZ6X3FGeUdnNm1LdnhmRFRJakRHUHBUTmRnOXFyajV5LS0tcTBpWUNSLTlQR1ZnSS1ncFozeQ?oc=5",
-      "pub_date": 1788799936.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+      "headline": "The body image battle is real in 2026, but the bodies may not be",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vNFdyNzl0S1VkM3ptQmJzZ01Ga1J2QmRmam5QaWxBTmNtSVZ6cGpPaUhDd1h5YWZhWUNOR2E2OVhyVjRyeDM0VFhvT0JPS25SeGdlM0VOTWRnSElCSXNHZGxBeVVOeHVGc0o0UkJrNFpLRnJTV0E?oc=5",
+      "pub_date": 1788866620.0,
+      "article_url": "https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "headline": "The Prodigy Problem",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55UXViVlhsNE5xd0FVbTVQeWd0R0tiTm5wRUdxUXJnRzlGdlVvaTJ3bWVtcWh0Vm5hRm84Um5YQlQxbk5YN0FDRW1mYTVfWHJ2bzU4TnRfa0pVUjRPcEw0NDZzWmNtbExMcERoWjFxdVY1dkE1T1lyZnIwa1d1dw?oc=5",
+      "pub_date": 1788865200.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
+      "image": "https://cdn.theatlantic.com/thumbor/OtNjluyoLr6Ihckv5JXLg3fqR_Q=/0x5:3995x2086/1200x625/media/img/mt/2026/09/2026_09_04_The_Culture_That_Produced_Leopold_Aschenbrenner_Theo_Baker/original.jpg",
+      "description": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions."
+    },
+    {
+      "headline": "China\u2019s AI Computing Boom Is Moving Far Beyond Its Biggest Cities",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVDNGdERVeGI3bGFDanZtaEtDckxyLTZDb2pmYXUyWEtuUkdUa1BnQ1lEUVczai1PMkNhM1pHTGdEYmRUQXpsSXJaRFlNMklEZVIxb2NDSk1FckFrUE5Ra3daTU9SQmxObHlJQ3VKWmRkV1cyZkc2NkwtQ1BDbXNaQWJfcXZ1OTNjcFA2Y3EtaXhXQl81VEROX1ozVkNUWjJqWUJ1VE5qaGNwYjJMblFSWjQ5alZGQktoa2RZ?oc=5",
+      "pub_date": 1788865470.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-ai-computing-boom-is-moving-far-beyond-its-biggest-cities",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5",
+      "pub_date": 1788779180.0,
+      "article_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
+      "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday"
+    },
+    {
+      "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5",
-      "pub_date": 1788822312.0,
+      "pub_date": 1788859068.0,
       "article_url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
       "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\"."
-    },
-    {
-      "headline": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
-      "pub_date": 1788843605.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5",
-      "pub_date": 1788843601.0,
-      "article_url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&w=1920&h=1080",
-      "description": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic."
-    },
-    {
-      "headline": "French AI company Mistral hits $24 billion valuation in funding round",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5",
-      "pub_date": 1788843824.0,
-      "article_url": "https://www.reuters.com/world/europe/french-ai-company-mistral-hits-24-billion-valuation-funding-round-2026-09-08/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdwaDlaY2J0dnkxdHZEenU3SEFLRS1pTlVPaW8ybTA2TTA5am5RMmxidF8wR21hYnh0Mmg3bk9VMEE1ckNMNVpiR2tTV1VnSU1UTVh5WTdKWDlqOTcxamNodmI1bUVocmpnNkZLZTVZenZUR2Q1RkFsaHVMWVpGWEdlQjQ3OUxvdERhYVpoUHlpa1hCci1oWGdkekg3clhKWkJjRnVIdjEzQQ?oc=5",
-      "pub_date": 1788847500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics",
-      "source": "Arm Newsroom",
-      "source_url": "https://newsroom.arm.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUUxqZS1wUTRCbW5sUUZZbnlFem90cWY1Ql9aZmU5bVlHWWdPczV5eXpzenlSMi1KdE1WbWFPR2hIbW5aSjNXRVQ4eHFCb3Zvb3MybGtUWDNEUjhseUFLQTd2QzEwc2FRRmRMWVJ0R21WdFVqMDJoNEpIZUVFTVRvckJ3?oc=5",
-      "pub_date": 1788832965.0,
-      "article_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/Arm-Newsroom-AI-native-graphics-image-1600x900-1.jpg",
-      "description": "Arm Mali G2-Ultra NX brings AI-native graphics and neural acceleration to desktop-class mobile gaming."
-    },
-    {
-      "headline": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
-      "pub_date": 1788791423.0,
-      "article_url": "https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T06:18:41.836903+00:00"
+  "fetched_at": "2026-09-08T11:35:45.698564+00:00"
 }

@@ -9,7 +9,7 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788761040.0,
+      "pub_date": 1788791543.0,
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
@@ -36,13 +36,33 @@
     },
     {
       "headline": "Robot Aletta Draws Your Blood With no Human Touch Needed",
-      "source": "IEEE Spectrum",
+      "source": "spectrum.ieee.org",
       "source_url": "https://spectrum.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeGNab243S01nY2JlLW1ydlBUNnlSYU1mTDVRTUpPNXhxMGh2amlJS1RTSXA4S2VjWWpOSGhRTF8wdVpnUFlfcXNlTkRHWUhSR25HcjhKN2g1S01mZmc5RXJYaWFyX1RkdkE?oc=5",
       "pub_date": 1788786219.0,
       "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67726417&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
       "description": "Autonomous blood-drawing devices could help address phlebotomist shortages"
+    },
+    {
+      "headline": "LSTM opens $23m robotic AI lab for infection research",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjRYQzJQemtsWkR4TXh6ZE41czJvcHd6bkg1OGk4Qlg4QUpoU3FTTnVmQXF4Sl8xdV9YVzFXQVpkLUpRcUlJclY1SkV5RUtIQUZlWjFGTWxrYWtHOW9MaVZDdzAtQTY0dEVqOFhMMGM1eFlMNVNpSU4xVVA1R29lWEpxcFZFTmx1dVQ4ZA?oc=5",
+      "pub_date": 1788866655.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/lstm-opens-23m-robotic-ai-112415402.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9f7956806608e001062240f18355843161947e5653ce9c175fb9930bc442688b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpharmaceutical_technology_376%2Fbcb242b34a2da7e71aa0e058d13992af.jpg",
+      "description": "The laboratory is expected to open in 2027 and create new jobs in the region."
+    },
+    {
+      "headline": "Warehouse Robotics Market: A Building-Shaped Commitment With A Twenty-Year Payback",
+      "source": "au.finance.yahoo.com",
+      "source_url": "https://au.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk5vaDZ1cXJwXzd1YU5hd2JEUGN1amM4S3hEVkNDdHRPNWIzZVgtdm1pMmRVeWdfRmd1RUJkWk83T29iQk52VC1EdktudnpyV245QTJFWmZtb3pjd2V5Z0gzeUl5SG1Vb3U4U1FTU2JsTGZWTTNaUGt2TnA2UENIUmwwZGJKYkk0S0JISWhqNm5jOW5Z?oc=5",
+      "pub_date": 1788862440.0,
+      "article_url": "https://au.finance.yahoo.com/news/warehouse-robotics-market-building-shaped-101400496.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9f5ae1cf9ab7243c749c66554932ce4c6104e114f213a3d99379c5870e68a7eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Feacd6273e75b782af1836d39ec3cac6c.png",
+      "description": "The robotics race is moving beyond the robot itself. AI orchestration, fleet intelligence and flexible automation are becoming the new sources of warehouse advantage.Wilmington, DE, United States, Sept. 08, 2026 (GLOBE NEWSWIRE) -- Warehouse Robotics Market is Rapidly Becoming the New Operating Standard for Modern Fulfilment Warehouse Robotics Market has moved past the proof-of-concept phase that dominated industry conversations for most of the last decade. It now sits at the center of how serio"
     },
     {
       "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
@@ -55,56 +75,36 @@
       "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
-      "headline": "Robots protest rampant AI in Poland",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
-      "pub_date": 1788794013.0,
-      "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
-      "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
+      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
+      "source": "Arm Newsroom",
+      "source_url": "https://newsroom.arm.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
+      "pub_date": 1788832965.0,
+      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
+      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
+      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
     },
     {
-      "headline": "Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTlVVFE3LV9CTHJBaU9PREFmNGhSeDRJS0MxdlNVdkY4cnBqZF9ZcU1KaU8zZ3gyRS1VZmo0dTlGYnA1TTRwT2lVQ3FDTlNOWk4zWDRROWV1VkRaNWJWbUZmaVBFNkM1c3BrcDZRSWoyczU5SXRvQmV5MWQxT2JNak5Vd1BCNUM5cnJQeGdTcWd1Y0phR1ZENUJqUnpzZkRlaHFzRnRSNzc0ZGo0WVM3MTR5Snc3cF9NNU9RTzVUOVlhY2dHQi14SkVtYnhzRVpaRHFjWA?oc=5",
-      "pub_date": 1788793740.0,
-      "article_url": "https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html",
-      "image": "https://mmx.prnewswire.com/media/MS1978156/20260831000956EDT_image_1.jpg?id=OA2920096&p=facebook",
-      "description": "/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)...."
-    },
-    {
-      "headline": "New system helps humanoid robots gesture more naturally while speaking",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDBhWkxGRTRhaUszVnk4b1dET1dKeEpCc3hueXpMUHFnUFhfMVJNRDhBOG1tbDdwNWtlRmF3MmdtQmhUbUtaWnZzTmpTUTk0UGRqTWEzTGJLZmxNTjh3RlRwQjkydTVLdmhWTjF2Q3I0X2ctTDJXUWpRVFUtS05kMzlXRzFRakRnZk1QdXdqLXVQZTFXYmMxeUVoNkgzNU1I?oc=5",
-      "pub_date": 1788774600.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/robogesture-gives-humanoid-robots-real-time-gestures",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2-1.jpg",
-      "description": "Galbot's RoboGesture gives humanoid robots real-time gestures that match speech, making human-robot interactions more natural."
-    },
-    {
-      "headline": "America\u2019s Biggest Military Shipbuilder Targets 15% Higher Shipyard Output With Robotics And AI",
-      "source": "Marine Insight",
-      "source_url": "https://www.marineinsight.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3VGb0dZU1NmWFh4WjRSLXFoMTlidjNrVEJyenJCYTF1eGxGeTZjVGhTOG8zZnFUTThQWU9UazlJWEdITXptLUZzR19fTkFvTXhkY2RqR3BNdjdCSGRTTGpOUThUcjdfbzNsRnY0dEV4VDRVSm54SlNTaFlULWQwcklScTdlN0Mzdi1ieVdxWXpoX2tJWEUwcmtHSGs3ZEhNWTczeUx4VlB4QVRKcHpQQU8xNFVLS0ZzVFhtZTFJTWw?oc=5",
-      "pub_date": 1788786824.0,
-      "article_url": "https://www.marineinsight.com/americas-biggest-military-shipbuilder-targets-15-higher-shipyard-output-with-robotics-and-ai/",
-      "image": "https://www.marineinsight.com/wp-content/uploads/2026/09/HII.jpg",
-      "description": "Marine Insight - The maritime industry guide."
-    },
-    {
-      "headline": "These Light-Powered Robots Can Keep Jumping Forever",
-      "source": "SciTechDaily",
-      "source_url": "https://scitechdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkh1S3Y2WFd2a0tyaHBBcklscndaeEdGeWI3QVByV3NZVnAwUG9WTTJtV1dLR2dzYk9adWR4Z203X19zY0FfOXlGZVdPQlc4YmxfdjZFS1Z3N19KRDFzbWZ2eGlSQWtYbEVjdXUwYzJiY21aSnE1RFdSOUdfVVVZeVVmTQ?oc=5",
-      "pub_date": 1788705699.0,
-      "article_url": "https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/",
+      "headline": "Inside The European Factory Where Robots Are Building Robots",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVlSGVnM0VFaU42UGNpSk5jbC01OUo4LS1XZ09kVTNjdXg4S000VW1xZTdzTXhBTzZEclhRMU04MFE3bkROVXQ5NFd3bWJvR1I5TnczNlh0eUR1WFlqdEZ3dVVtZkI4UFVlMXF1VHhBaG1SVmQwSHU4MEFJX2ZRa3QzQzgyb0tGZDdCTDRiYzBSU1RCdm5icFl1eHNRLTJpZDlxWG8wbnJvZmRFLUpSTEdJVmo?oc=5",
+      "pub_date": 1788802874.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/",
       "image": null,
-      "description": "A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves."
+      "description": null
+    },
+    {
+      "headline": "Eerily humanlike AI-powered robot enters mass production in China \u2014 its makers say it could soon be helping you out at home",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
+      "pub_date": 1788847317.0,
+      "article_url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
+      "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-2560-80.jpg",
+      "description": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T06:18:35.708401+00:00"
+  "fetched_at": "2026-09-08T11:35:46.532950+00:00"
 }

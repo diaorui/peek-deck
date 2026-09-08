@@ -15,6 +15,26 @@
       "description": "What the Protocol cluster is for, the commitments that govern its work through 2029, and what those commitments require of the forks now entering scope."
     },
     {
+      "headline": "Ethereum's Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZlRlNGMFZhcEwwN3hQazVSNzB3X1FRVE9WRUlsV0Y2TXJJX1NGaUdiMklVTTBDaVBaWVFVbEhOZ1UteWJsRDVmR1VBaGZfaDVxMW9BZXV4UmNZeWhmbUpqR2RPV1FnS2hvN3BZT0dOeXR2TVhwaGxSRm9TdXJHbC1zUDBra05PeEhYcExKd3MwNGdjLXhKaUZvaU9EV1AzbTh6eGNySWVzNjFPa2c3MWxlcU4zMERxRXNJNXh2aXIwdU1abWVVQXdsQ05NSW8?oc=5",
+      "pub_date": 1788782113.0,
+      "article_url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-privacy-crossroads.jpg",
+      "description": "The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance."
+    },
+    {
+      "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGFIdXNXd0o4c1dJYXBRZjRPVFBOVmVPZEMzX0hOZHd5S3BpdXlYcXkzU2E3bnFsR3R6bHFEUHROSHdrenFjd0hwRlYtOUd0V0oxbmhsT2YyQk94bEg0N3FYSlB0anI0bHhjdlg0bEdDWlF6TEJpZGJwb0xQUW95aFMxcGNMeF9iMzhrbGEzSW5PTGRSdUpsaml6TkNNZ2FUWWNHcjM5Nl9lZEQyZmgweG9yTk4?oc=5",
+      "pub_date": 1788789247.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,34 +45,34 @@
       "description": "Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET."
     },
     {
-      "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGFIdXNXd0o4c1dJYXBRZjRPVFBOVmVPZEMzX0hOZHd5S3BpdXlYcXkzU2E3bnFsR3R6bHFEUHROSHdrenFjd0hwRlYtOUd0V0oxbmhsT2YyQk94bEg0N3FYSlB0anI0bHhjdlg0bEdDWlF6TEJpZGJwb0xQUW95aFMxcGNMeF9iMzhrbGEzSW5PTGRSdUpsaml6TkNNZ2FUWWNHcjM5Nl9lZEQyZmgweG9yTk4?oc=5",
-      "pub_date": 1788789247.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UM0NkQllsb3FrdjdVTXY2TG9VT3ozZjk0QWNwN2g5eFJrbFVBNGszR2tHN1d3TmdEbEc5NGc5dEh6UmpoVjgwTm1sbGdPOXJrbkJpOVpERmNtV2xjTTV5VFY0M3VNLTVUdFFRYWt3cFdhZHhDWTlzOUNENFZST3M?oc=5",
-      "pub_date": 1788748127.0,
-      "article_url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-      "image": "https://www.tbstat.com/wp/uploads/2024/11/20241104_ZK-proofs_News_2-1200x675.jpg",
-      "description": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators."
-    },
-    {
-      "headline": "Ethereum Price at a Turning Point \u2014 Bulls Target $2,800 After Range Breakout",
-      "source": "tradingview.com",
+      "headline": "Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTJZdkxmZXpzMWRsLWJ6RG0tcDdZSnBFNWFJQy13Q3ZRVEtXakFaQnNCMGZteVctb0RaRzZFXzdFV2dmQVVQeUNhZEIyZ1RkNG5rQTAtZER0TjFHVU45U3ItQ3RpQ1BKU3hTRHhIV25fRGF1QXNlNjlKOHJqQWRwQW90RmExaW96YklyamFGdDRGanJLZ1Uta0hBcEQxYjVYdV9ReG5jcGU0VnhrdmJVcTRaVTlRSWIyWWhWUkJBWlNHUEw2dmNMLVBLc09PUQ?oc=5",
-      "pub_date": 1788778678.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:1b2dbf0c5094b:0-ethereum-price-at-a-turning-point-bulls-target-2-800-after-range-breakout/",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVE1fRzdHLVZ1TXN4T2pHWldwTDRoLU9ZeDJoNUFFWUpha09xc1ZDNmVyOWVvbUFtVEFIOFpKTWgxMUpQc2xOT2RoUXV4ZUJ4eG5FendVR2drQmYtUGhUbTY1U0ZMOE90bGRSUUY1Q0lCMzBTYlRMSEtWME5YY2lFZ01JTWJlR0w2bFVuVUxCYUtSVkZPQjhjUk9XWjZ2MjJtbHpEY2NUU2JWT0JGY1c1VEM3Y1JoNnBqTFM3b2t5akVrNi1CVEVqeHVTeTRFNUh5NS13RFotRWRsTlIzb2JSMHhOaTVmaFZyWlFraUVHdzR2aFh0U1YyWVZ3VlV6aTl5ejkxMUpQcW1yRF9IazhQZ1NBMDNCRU9MSWc?oc=5",
+      "pub_date": 1788833700.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than 116,000 ETH moved off centralized platforms in just 48 hours. That supply shift comes alongside continued institutional participation through U.S\u2026"
+      "description": "Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la\u2026"
+    },
+    {
+      "headline": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV21Pbjh2OS1QM0t5ZlA0Y09nc2N3QlpTV0NEWE9aeXdydGhEUGxLd3hXRU9Lamdaa0RLWE42aDNGc3M2QV82Zk1oZUhlRmREcUJVUVVZR0lSa0YwUkh6U3k3dTY5em1OLW9yd3UzeXp0WDNkaU5FU2lXMFYya0d2X1M1cGlPYnFNX0w1cGN5YVlWVWJraU8wQzFJbnljQVR0YmtF?oc=5",
+      "pub_date": 1788841041.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240523_Ethereum_News_2-1200x675.jpg",
+      "description": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegot\u00e1."
+    },
+    {
+      "headline": "Sharplink: Ethereum Treasury Growth Comes With Too Much Execution Risk (NASDAQ:SBET)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RzV0lPc1hGZWRzdzZJN1hINlkxSGJYUm96Y2pQVDFycG9ONFkwZTl2SWxNMW9XZGFRWE8ta1B6eGZoVGc1ZHhRVUxETklqUlgyejR1RVdqSmNIWUZFSTdIczQ3ZUJBbmw0OWRKTC1xSDhpTjZienJSSGFQTHFqXy1Ha1podlVNSl9iSUM5WFcwZ3ljTEh3VHpNSmdJV0ljMGo1a2xxaW5BM0FWTnFn?oc=5",
+      "pub_date": 1788859071.0,
+      "article_url": "https://seekingalpha.com/article/4943721-sharplink-ethereum-treasury-growth-comes-with-too-much-execution-risk",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171382770/image_2171382770.jpg?io=getty-c-w1536",
+      "description": "Sharplink's sustainable upside depends on staking rewards consistently outpacing operating costs and dilution. Read why SBET is a Hold."
     },
     {
       "headline": "Crypto News Today: DigiTap Sells Out Presale Stage Early as Ethereum Price Prediction Points to $5,000",
@@ -65,46 +85,26 @@
       "description": "VIENTIANE, Laos, Sept.  07, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward DigiTap after the project sold out a presale stage early..."
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC consolidates near recent highs, ETH and XRP defend key bullish supports",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYkNnY202VFJEZi1XVmdqaFIzZ0MxSG10MHpUUVRRWEx2VERERVg0Y3lEcmFMYXpyb01UZmVyOFBWczJwcDQ5WnEycDBiS0lpdDd4Q1dMdnUyM1lGNWZMcGdieDh5RG5JTXZvYkNfbzV3VHg5TWRMUFh1eXdEa1VxYWhMN1RjNW9sNFBwVE85ci1pYjN2V2NUdWg1anBZck9fdXpCY0tUTW1wUkZaTEVQOVVUQ0N5VHZLZE9kYURrN3NSbWRncjEwTHNUT19ITEdnM3RrcDdQbzl6cVFsUTdIcjBOcFZtbWNQZF9JZkFyYWdSczJzdERJ?oc=5",
-      "pub_date": 1788750747.0,
-      "article_url": "https://www.fxstreet.com/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-consolidates-near-recent-highs-eth-and-xrp-defend-key-bullish-supports-202609070312",
-      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
-      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) maintain a constructive outlook on Monday after gaining more than 3.4%, 4% and 4.8%, respectively, last week. BTC holds steady near $80,000 while ETH and XRP show resilience and defend key support zones."
+      "headline": "Ethereum Price at a Turning Point \u2014 Bulls Target $2,800 After Range Breakout",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekRpUmdUSGhZeXRlSEZRZXVWNTJYQnFvdEt5eURybTY3YjhFZjlYM294RlQtM3FFaUN0NW9XVHNCZEpSaUZkclp5a25yMzRINjZxQXlWWlZEbkJ3a0stLXAyQllGREFtdTRWQzB6dGRiZ1dXNHFzcGJHWnZqbHZBNmhqX0N4U2pCdWs1TWs1S01PVFJKQnBGSUNqUFlFT3ltbUhCcGRMWXFBcWNQck9v0gG0AUFVX3lxTE5iU0EtWkRuUWFKWmEtMnc2UVRVbzBQamltT0JKRU5MUVUtd3BmeVJZckx3MEtKSFRIYS1EQUstTmp0cFBuSGhvVXZzR01LLW45QThZTXpwbHVyUnEwbFFoenhseEdQM2hoX1FicFpDTEs1WXlKWktHbV90RlVTODRZOUg4VFRBeEhoZlhERUN1RURXMTlqa3RRc083ZzdxMDZENVhZYTIzbHVPbEJLZ0tLYWd3Tw?oc=5",
+      "pub_date": 1788785099.0,
+      "article_url": "https://coinpedia.org/price-analysis/ethereum-price-at-a-turning-point-bulls-target-2800-after-range-breakout/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/09/08114543/ethereum-price-at-a-turning-point-bulls-target-2800-after-range-breakout.jpg",
+      "description": "Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than"
     },
     {
-      "headline": "Ethereum arbitrage study reveals builders receive $5 for every $1 burned by the network",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDR4MldYZE4yaC1kSk96cHlFcG5Eekw2b2N1WC03UnBzTFlWallvNl80UlJnWGViWkdsWFBsOG9odnJEemhSZFJ0aFg2T0ZBUGluNjZxc3d0T1R0dnl6OVlEUTFXQkpqbUlENGpSZENDU1FXNnNNTlRaSjlvWUFJYXZ5b1QtaEFGRWc3bEZqV1VEUHlUZjE5M28tczAySnRQMk9SdFp5RzRvNE80M3NB?oc=5",
-      "pub_date": 1788815107.0,
-      "article_url": "https://cryptoslate.com/ethereum-arbitrage-study-reveals-builders-receive-5-for-every-1-burned-by-the-network/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-builder-value-flow-.jpg",
-      "description": "Bitquery\u2019s Ethereum arbitrage study separates builder receipts from ETH burn. Onward payments to validators leave retained builder profits unresolved."
-    },
-    {
-      "headline": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS19CV2tVWmFDUjB6RG03cWg4UFFOSGZLSTdKN3BZYV9Ca1Y1WE9uS0tCaVJtQU5XeUh3RzFWQnpHSFB1WngxRTltTmVjbzJwRWZteEllb3RvOEg2QWpiNzRvYnNwZmJHZ201dXNnYTBpUjRwYkJIZUZBOTFQRlYtMHpMSXQ2QUlDZjRUaFRSa1ZSVWhrbWQ5Rw?oc=5",
-      "pub_date": 1788606000.0,
-      "article_url": "https://www.fool.com/investing/2026/09/05/watch-out-solana-and-ethereum-robinhoods-blockchai/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886042%2Fethereum-and-robinhood-logo.png&w=1200&op=resize",
-      "description": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum."
-    },
-    {
-      "headline": "Vitalik Buterin has blunt response to AI crashing Bitcoin",
-      "source": "thestreet.com",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FpWEdPdmJjWG1ZUXpvTlU0SW1FWkUxN1JBN00yWF96blJxUXd1QkFmSzU3UlFDWG9wZFotd2tQVXllOU4xeF9XbVRZaHBrN0RqMnFwTVdUWDd3dmt5OVhoc0pJUXRNVHVWZ2Rmc3JMQ29iZEhna09rbXlNUUZ2Y0tXbmNBNnk0ZklRZ2VFb2MzV0xJTFN1d1RwVmM5d1k?oc=5",
-      "pub_date": 1788795824.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin",
+      "headline": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes \u2018Everything Exchange\u2019 Vision",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFUwSE5JSF9oQjVoQjZQb3p2UjVYT2FZWFFSdlVERUN6N1BVT3BDSHpCa2x4dG1OYVBxMWNydXhTR0NfT0ZZc3BOMEktVG9sX2Z2OEtuS0RvTWJJZS00UjlEVW5VREZEQjA1NkQtWVJ6bmd4SkFSUXJzbjlPam12NG5PVDQ5eHM?oc=5",
+      "pub_date": 1788775164.0,
+      "article_url": "https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T06:18:33.091039+00:00"
+  "fetched_at": "2026-09-08T11:35:46.341345+00:00"
 }
