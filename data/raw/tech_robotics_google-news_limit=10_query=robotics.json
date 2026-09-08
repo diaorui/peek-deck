@@ -5,62 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHhEOWJQT01mRndJVDltUldXcUhRTHZCb0JMZUo0UFNlak5HQ2dJaGtjTERXcUhEbW42eng0Rjd0WEUyM0pKQlhqY3pGX3NObnJfX09YVFlEVzFnSVNYdmFlcWRIU3lYT2o1NFdPcjJrZHQ0Y1IwTDR4cm1lNUVZeGdHSFhsVWh0YzA2N1FnREdlVkNx?oc=5",
-      "pub_date": 1788602460.0,
-      "article_url": "https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/meta-deploying-robots-data-center-maintenance.jpg?quality=85&w=1200",
-      "description": "Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers."
-    },
-    {
-      "headline": "VIDEO: Delivery robots from company Coco clog Chicago sidewalk",
-      "source": "ABC7 Chicago",
-      "source_url": "https://abc7chicago.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1daN1JKQ2RSNGpWX3UtTkdzcnJkUXVoaXo0eDFKem1seTAwcVBMU2daSVBITklpQzc3NDhEaFhibDN6QU96MDJoTUdzSURTUmo5V2dLRlJWU1VydTMwUlAxc3VieUpQTEhLQkI3NC14Yl81TktCdGk0SGJZZG4zNWlYTUdjVWstMzR0MWpCcGwwaGtlaVlIV2VvUdIBoAFBVV95cUxQVjYxeno2cGJLVG1RbFdzV2U1RmIxUExrZWdfQ0tIeDJWVzBuaktxNFh3MkVsWUdIU2FrYm51aE1ZREMwaDQ2WXJ2TmFpbUNMZWVIWlZEelVFUXVmRU5zRm1NQXZSSjU4cGhpRDhOOUU1bktBN0JYcE1EalpDY1Rjd3NrOGtZQm0tMGtaRTAyYlhnQkU3QzhUQWFGQk9jZGZ0?oc=5",
-      "pub_date": 1788527525.0,
-      "article_url": "https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/",
-      "image": "https://cdn.abcotvs.com/dip/images/19789232_090426-wls-delivery-bots-7avo-vid.jpg?w=1600",
-      "description": "Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera."
-    },
-    {
-      "headline": "Robots protest rampant AI in Poland",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
-      "pub_date": 1788794013.0,
-      "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
-      "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
-    },
-    {
-      "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
-      "pub_date": 1788787666.0,
-      "article_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
-      "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
-    },
-    {
-      "headline": "Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTlVVFE3LV9CTHJBaU9PREFmNGhSeDRJS0MxdlNVdkY4cnBqZF9ZcU1KaU8zZ3gyRS1VZmo0dTlGYnA1TTRwT2lVQ3FDTlNOWk4zWDRROWV1VkRaNWJWbUZmaVBFNkM1c3BrcDZRSWoyczU5SXRvQmV5MWQxT2JNak5Vd1BCNUM5cnJQeGdTcWd1Y0phR1ZENUJqUnpzZkRlaHFzRnRSNzc0ZGo0WVM3MTR5Snc3cF9NNU9RTzVUOVlhY2dHQi14SkVtYnhzRVpaRHFjWA?oc=5",
-      "pub_date": 1788793740.0,
-      "article_url": "https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html",
-      "image": "https://mmx.prnewswire.com/media/MS1978156/20260831000956EDT_image_1.jpg?id=OA2920096&p=facebook",
-      "description": "/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)...."
-    },
-    {
       "headline": "From dance floor to war: China readies humanoid robots for combat",
-      "source": "MSN",
-      "source_url": "https://www.msn.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OWGNkTkFCa25zV1hyTEpxeW1IM1NBckNnemhGeXVxZElRQzR3U3dXaTgyazNjS2JmeHVSYjN5eTJsSHdwTjBjTGpqQmZHQmlOYU5VdHhlU2FwQWI5VjhOcWlvSFBIX3RR?oc=5",
-      "pub_date": 1788801982.0,
-      "article_url": "https://www.msn.com/en-us/technology/robotics/ar-AA2bJfEc",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
+      "pub_date": 1788761040.0,
+      "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
     },
@@ -85,14 +35,64 @@
       "description": "A deep dive into the current state of humanoid robotics."
     },
     {
-      "headline": "Why Richtech Robotics Zoomed Nearly 32% Higher in August",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeENKWjV3M05sOFRpWEZNdWMxb21HSXZpQXZaS3RheUJXcDRhcjBaN1NSQXpzNWdYZ1QybnFYUTVxSjVTTDBoZTVpRGxhbzBqVWdvWnlzcXotdlFJRjBjMWJyVVpsUTlha0ZqRm51MVlDVUo0bE5xSjBuYmItcl9LanNldFMyN3BJYUdfWldhVDV6ZmpjcnVTLQ?oc=5",
-      "pub_date": 1788830118.0,
-      "article_url": "https://www.fool.com/investing/2026/09/07/why-richtech-robotics-zoomed-nearly-32-higher-in-a/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886583%2Fa-group-of-humanoid-robots.jpg&w=1200&op=resize",
-      "description": "The beaten-down service robotics stock staged quite a comeback."
+      "headline": "Robot Aletta Draws Your Blood With no Human Touch Needed",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeGNab243S01nY2JlLW1ydlBUNnlSYU1mTDVRTUpPNXhxMGh2amlJS1RTSXA4S2VjWWpOSGhRTF8wdVpnUFlfcXNlTkRHWUhSR25HcjhKN2g1S01mZmc5RXJYaWFyX1RkdkE?oc=5",
+      "pub_date": 1788786219.0,
+      "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67726417&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "description": "Autonomous blood-drawing devices could help address phlebotomist shortages"
+    },
+    {
+      "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "source": "therobotreport.com",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
+      "pub_date": 1788787666.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
+      "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
+    },
+    {
+      "headline": "Robots protest rampant AI in Poland",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
+      "pub_date": 1788794013.0,
+      "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
+      "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
+    },
+    {
+      "headline": "Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTlVVFE3LV9CTHJBaU9PREFmNGhSeDRJS0MxdlNVdkY4cnBqZF9ZcU1KaU8zZ3gyRS1VZmo0dTlGYnA1TTRwT2lVQ3FDTlNOWk4zWDRROWV1VkRaNWJWbUZmaVBFNkM1c3BrcDZRSWoyczU5SXRvQmV5MWQxT2JNak5Vd1BCNUM5cnJQeGdTcWd1Y0phR1ZENUJqUnpzZkRlaHFzRnRSNzc0ZGo0WVM3MTR5Snc3cF9NNU9RTzVUOVlhY2dHQi14SkVtYnhzRVpaRHFjWA?oc=5",
+      "pub_date": 1788793740.0,
+      "article_url": "https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html",
+      "image": "https://mmx.prnewswire.com/media/MS1978156/20260831000956EDT_image_1.jpg?id=OA2920096&p=facebook",
+      "description": "/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)...."
+    },
+    {
+      "headline": "New system helps humanoid robots gesture more naturally while speaking",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDBhWkxGRTRhaUszVnk4b1dET1dKeEpCc3hueXpMUHFnUFhfMVJNRDhBOG1tbDdwNWtlRmF3MmdtQmhUbUtaWnZzTmpTUTk0UGRqTWEzTGJLZmxNTjh3RlRwQjkydTVLdmhWTjF2Q3I0X2ctTDJXUWpRVFUtS05kMzlXRzFRakRnZk1QdXdqLXVQZTFXYmMxeUVoNkgzNU1I?oc=5",
+      "pub_date": 1788774600.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/robogesture-gives-humanoid-robots-real-time-gestures",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2-1.jpg",
+      "description": "Galbot's RoboGesture gives humanoid robots real-time gestures that match speech, making human-robot interactions more natural."
+    },
+    {
+      "headline": "America\u2019s Biggest Military Shipbuilder Targets 15% Higher Shipyard Output With Robotics And AI",
+      "source": "Marine Insight",
+      "source_url": "https://www.marineinsight.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3VGb0dZU1NmWFh4WjRSLXFoMTlidjNrVEJyenJCYTF1eGxGeTZjVGhTOG8zZnFUTThQWU9UazlJWEdITXptLUZzR19fTkFvTXhkY2RqR3BNdjdCSGRTTGpOUThUcjdfbzNsRnY0dEV4VDRVSm54SlNTaFlULWQwcklScTdlN0Mzdi1ieVdxWXpoX2tJWEUwcmtHSGs3ZEhNWTczeUx4VlB4QVRKcHpQQU8xNFVLS0ZzVFhtZTFJTWw?oc=5",
+      "pub_date": 1788786824.0,
+      "article_url": "https://www.marineinsight.com/americas-biggest-military-shipbuilder-targets-15-higher-shipyard-output-with-robotics-and-ai/",
+      "image": "https://www.marineinsight.com/wp-content/uploads/2026/09/HII.jpg",
+      "description": "Marine Insight - The maritime industry guide."
     },
     {
       "headline": "These Light-Powered Robots Can Keep Jumping Forever",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T01:18:28.087631+00:00"
+  "fetched_at": "2026-09-08T06:18:35.708401+00:00"
 }
