@@ -12,11 +12,30 @@
       "hf_url": "https://huggingface.co/papers/2608.17906",
       "arxiv_url": "https://arxiv.org/abs/2608.17906",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
-      "upvotes": 16,
+      "upvotes": 17,
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
       "github_stars": 2171,
+      "project_page": null
+    },
+    {
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 41,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 31950,
       "project_page": null
     },
     {
@@ -35,27 +54,8 @@
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 11251,
+      "github_stars": 11253,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
-    },
-    {
-      "id": "2310.10688",
-      "title": "A decoder-only foundation model for time-series forecasting",
-      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
-      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
-      "hf_url": "https://huggingface.co/papers/2310.10688",
-      "arxiv_url": "https://arxiv.org/abs/2310.10688",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 41,
-      "num_comments": 1,
-      "published_at": "2023-10-14T13:01:37.000Z",
-      "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 31859,
-      "project_page": null
     },
     {
       "id": "2608.16157",
@@ -130,8 +130,27 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 2202,
+      "github_stars": 2250,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
+      "id": "2608.23552",
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "authors": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. (11 authors)",
+      "organization_name": "PrimeIntellect",
+      "organization_fullname": "Prime Intellect",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61e020e4a343274bb132e138/H2mcdPRWtl4iKLd-OYYBc.jpeg",
+      "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectories. Recursive subagents coordinate through direct agent-to-agent communication, and the Agents View lets humans inspect and manage daemon-backed sessions. Prime Agent standardizes execution, recovery, verification, and resource accounting while leaving strategy construction to the model. This low-friction, expressive membrane prevents harness failures from becoming model failures and pushes measurement toward the model's true maximal underlying capability. Prime Agent raises ARC-AGI-3 RHAE Best@1 from 30% to 95.5% and matches or exceeds native and popular harnesses across long-context coding, GPU-kernel generation, emulator construction, and autonomous nanoGPT speedruns. On Factorio, we find refinement allows for continuous technology progression and dedicated subagents enable parallelized work. Code is available at https://github.com/PrimeIntellect-ai/prime-agent.",
+      "ai_summary": "Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.",
+      "hf_url": "https://huggingface.co/papers/2608.23552",
+      "arxiv_url": "https://arxiv.org/abs/2608.23552",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
+      "upvotes": 50,
+      "num_comments": 2,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "github_stars": 20267,
+      "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
       "id": "2312.06371",
@@ -151,25 +170,6 @@
       "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
       "github_stars": 647,
       "project_page": null
-    },
-    {
-      "id": "2608.23552",
-      "title": "Prime Agent: A Self-Improving RLM Harness",
-      "authors": "Seth Karten, Alex L. Zhang, Kevin Thomas et al. (11 authors)",
-      "organization_name": "PrimeIntellect",
-      "organization_fullname": "Prime Intellect",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61e020e4a343274bb132e138/H2mcdPRWtl4iKLd-OYYBc.jpeg",
-      "summary": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectories. Recursive subagents coordinate through direct agent-to-agent communication, and the Agents View lets humans inspect and manage daemon-backed sessions. Prime Agent standardizes execution, recovery, verification, and resource accounting while leaving strategy construction to the model. This low-friction, expressive membrane prevents harness failures from becoming model failures and pushes measurement toward the model's true maximal underlying capability. Prime Agent raises ARC-AGI-3 RHAE Best@1 from 30% to 95.5% and matches or exceeds native and popular harnesses across long-context coding, GPU-kernel generation, emulator construction, and autonomous nanoGPT speedruns. On Factorio, we find refinement allows for continuous technology progression and dedicated subagents enable parallelized work. Code is available at https://github.com/PrimeIntellect-ai/prime-agent.",
-      "ai_summary": "Prime Agent is an open-source harness that uses recursive subagents, persistent computation, and agent-to-agent coordination to extend language models' long-horizon capabilities across coding and reasoning tasks.",
-      "hf_url": "https://huggingface.co/papers/2608.23552",
-      "arxiv_url": "https://arxiv.org/abs/2608.23552",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
-      "upvotes": 50,
-      "num_comments": 2,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "github_stars": 20182,
-      "project_page": "https://www.primeintellect.ai/blog/prime-agent"
     },
     {
       "id": "2508.16279",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-08T11:35:31.822787+00:00"
+  "fetched_at": "2026-09-08T16:07:39.055874+00:00"
 }

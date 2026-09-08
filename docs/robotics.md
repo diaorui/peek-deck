@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-08T11:35:48.307238+00:00'
+updated: '2026-09-08T16:08:06.341393+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 08, 2026 at 11:35 UTC  
+**Last Updated:** September 08, 2026 at 16:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Progress on my custom hexapod project over the past few months. In the first few weeks I couldn't even get it to stand up — once I got the gait cycle figured out, everything after that came together a lot faster. Specs: Base: 3D printed 18 servos (mix of 25kg and 35kg) Pololu Maestro servo controller Buck converter for power regulation Controlled by an Android phone, which also acts as the gyro/IMU
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 [Cross-post from r/reinforcementlearning] My full 6-part series on RL for robotics is finally live. While a balance bot is a pretty trivial case (you don't even need RL), it's a great starting point for demonstrating how to train a simple agent via PPO, deploy the agent to real hardware, and tackle the sim-to-real gap using post-processing and domain randomization. If you have any feedback (e.g. I missed something or there's something that could be better), please let me know!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 2d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 3d ago
 
 ---
 
@@ -112,13 +112,13 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 21h ago
+Reuters • 1d ago
 
 ---
 
-**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
+**[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
 
-South China Morning Post • 1d ago
+Technology Org • 6h ago
 
 ---
 
@@ -126,31 +126,7 @@ South China Morning Post • 1d ago
 
 A deep dive into the current state of humanoid robotics.
 
-understandingai.org • 6d ago
-
----
-
-**[Robot Aletta Draws Your Blood With no Human Touch Needed](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta)**
-
-Autonomous blood-drawing devices could help address phlebotomist shortages
-
-spectrum.ieee.org • 22h ago
-
----
-
-**[LSTM opens $23m robotic AI lab for infection research](https://www.yahoo.com/news/science/articles/lstm-opens-23m-robotic-ai-112415402.html)**
-
-The laboratory is expected to open in 2027 and create new jobs in the region.
-
-yahoo.com • 11m ago
-
----
-
-**[Warehouse Robotics Market: A Building-Shaped Commitment With A Twenty-Year Payback](https://au.finance.yahoo.com/news/warehouse-robotics-market-building-shaped-101400496.html)**
-
-The robotics race is moving beyond the robot itself. AI orchestration, fleet intelligence and flexible automation are becoming the new sources of warehouse advantage.Wilmington, DE, United States, Sept. 08, 2026 (GLOBE NEWSWIRE) -- Warehouse Robotics Market is Rapidly Becoming the New Operating Standard for Modern Fulfilment Warehouse Robotics Market has moved past the proof-of-concept phase that dominated industry conversations for most of the last decade. It now sits at the center of how serio
-
-au.finance.yahoo.com • 1h ago
+understandingai.org • 7d ago
 
 ---
 
@@ -158,7 +134,31 @@ au.finance.yahoo.com • 1h ago
 
 Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
 
-therobotreport.com • 22h ago
+The Robot Report • 1d ago
+
+---
+
+**[XTEND AI Robotics Rings NYSE Opening Bell, Marking First Days as Public Company](https://finance.yahoo.com/technology/ai/articles/xtend-ai-robotics-rings-nyse-143000339.html)**
+
+Public listing enables the company to meet growing demand for Physical AI in high-risk operational environments TAMPA, Fla., Sept. 08, 2026 (GLOBE NEWSWIRE) -- XTEND AI Robotics, Inc. (NYSE: XTND), a leader in software systems and Physical AI, today rang the opening bell of the New York Stock Exchange (NYSE), officially marking its debut on the public market. XTEND's proprietary XOS operating system powers more than 12,500 deployed systems across 30+ countries and five active combat zones, with
+
+Yahoo Finance • 1h ago
+
+---
+
+**[RoboBoston Returns: MassRobotics Hosts 9th Annual Robot Block Party, September 26, in Boston Seaport, Celebrating the World's Largest Robotics Cluster](https://ca.finance.yahoo.com/news/roboboston-returns-massrobotics-hosts-9th-154500269.html)**
+
+A Day Of Innovation, Interaction, and Family-Friendly Fun In The Heart Of Boston SeaportBOSTON, MA / ACCESS Newswire / September 8, 2026 / announces the annual Robot Block Party, RoboBoston, the largest celebration of robots and robotics of its kind. Taking place in the city's innovation district, Boston Seaport, on Saturday, September 26, 2026, the event will bring together more than 50 companies, universities, and student robotics teams and clubs to showcase cutting-edge robotics and technolog
+
+Yahoo! Finance Canada • 23m ago
+
+---
+
+**[Laundry, backflips and panda suits: Humanoid robots take over IFA 2026](https://currently.att.yahoo.com/att/laundry-backflips-panda-suits-humanoid-155150444.html)**
+
+From doing the laundry to offering companionship and performing backflips, humanoid robots were everywhere at IFA 2026. Euronews took a closer look at what they can already do, and where the technolog...
+
+currently.att.yahoo.com • 16m ago
 
 ---
 
@@ -166,13 +166,7 @@ therobotreport.com • 22h ago
 
 Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
 
-Arm Newsroom • 9h ago
-
----
-
-**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
-
-Forbes • 17h ago
+Arm Newsroom • 14h ago
 
 ---
 
@@ -180,7 +174,15 @@ Forbes • 17h ago
 
 Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.
 
-Live Science • 5h ago
+livescience.com • 10h ago
+
+---
+
+**[Robot Aletta Draws Your Blood With no Human Touch Needed](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta)**
+
+Autonomous blood-drawing devices could help address phlebotomist shortages
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 512K • 👍 9K • 💬 721 • ⏱️ 15:41 • 5d ago
+👁️ 519K • 👍 9K • 💬 731 • ⏱️ 15:41 • 5d ago
 
 ---
 
@@ -204,7 +206,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 291K • 👍 2K • 💬 639 • ⏱️ 1:44 • 4d ago
+👁️ 294K • 👍 2K • 💬 640 • ⏱️ 1:44 • 4d ago
 
 ---
 
@@ -214,27 +216,17 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 79K • 👍 1K • 💬 234 • ⏱️ 19:28 • 6d ago
+👁️ 80K • 👍 1K • 💬 235 • ⏱️ 19:28 • 6d ago
 
 ---
 
-**[Humanoid robots clean a house in San Francisco for $30 an hour](https://www.youtube.com/watch?v=-ioV0-rMycE)**
+**[China&#39;s Humanoid Robot Bubble Reaches Point Of Absurdity](https://www.youtube.com/watch?v=KbzrqUT5zmU)**
 
-A San Francisco startup has launched a $30-an-hour housecleaning service powered by humanoid robots. The company aims to ...
+Stop using ONE AI when you can use ALL of them. Try it here https://chatllm.abacus.ai/wsm In this video we analyze the recent ...
 
-📺 Associated Press
+📺 Wall Street Millennial
 
-👁️ 267K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 190K • 👍 2K • 💬 450 • ⏱️ 3:47 • 5d ago
+👁️ 134K • 👍 3K • 💬 879 • ⏱️ 15:39 • 22h ago
 
 ---
 
@@ -244,7 +236,17 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 9K • 👍 137 • 💬 16 • ⏱️ 0:59 • 4d ago
+👁️ 9K • 👍 138 • 💬 16 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+
+📺 South China Morning Post
+
+👁️ 192K • 👍 2K • 💬 451 • ⏱️ 3:47 • 5d ago
 
 ---
 
@@ -254,17 +256,7 @@ A few years ago, simply watching a humanoid robot walk steadily, recover its bal
 
 📺 BI️ Studio of Emotional Intelligence 
 
-👁️ 242K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
-
----
-
-**[Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N](https://www.youtube.com/watch?v=vbwQByTOoz8)**
-
-Elon Musk says governments should make emerging technologies “default legal” rather than default illegal, warning excessive ...
-
-📺 DRM News
-
-👁️ 143K • 👍 777 • 💬 32 • ⏱️ 12:35 • 6d ago
+👁️ 245K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
 
 ---
 
@@ -274,17 +266,25 @@ AI Decoded breaks down the extraordinary scenes from the World Humanoid Robot Ga
 
 📺 BBC News
 
-👁️ 61K • 👍 289 • 💬 130 • ⏱️ 25:57 • 3d ago
+👁️ 61K • 👍 290 • 💬 129 • ⏱️ 25:57 • 4d ago
 
 ---
 
-**[Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER](https://www.youtube.com/watch?v=dxghuf-iZ_I)**
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=4-IG29QZBaw)**
 
-Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sign Up For 30 Day Free BP Trial: ...
+📺 SNeuroRobotics
 
-📺 Breaking Points
+👁️ 80K • 👍 770 • 💬 7 • ⏱️ 0:07 • 6d ago
 
-👁️ 246K • 👍 3K • 💬 1K • ⏱️ 8:51 • 5d ago
+---
+
+**[Robot Olympics 2026 Recap](https://www.youtube.com/watch?v=evch5QMRacY)**
+
+The 2nd World Humanoid Robot Games wrapped in Beijing at the Ice Ribbon National Speed Skating Oval on August 26, and it ...
+
+📺 Benzinga
+
+👁️ 40K • 👍 381 • 💬 17 • ⏱️ 0:44 • 6d ago
 
 ---
 

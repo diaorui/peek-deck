@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-08T11:35:48.304982+00:00'
+updated: '2026-09-08T16:08:06.338197+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 11:35 UTC  
+**Last Updated:** September 08, 2026 at 16:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** +3.6%  
-**30d:** +32.2%  
-**90d:** +47.9%  
-**1y:** -42.6%  
+**24h:** +0.1%  
+**7d:** +4.5%  
+**30d:** +33.4%  
+**90d:** +49.2%  
+**1y:** -42.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.94B
+**Market Cap:** $304.68B
 Rank #2
 
 **Circulating Supply:** 122,029,705 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.0%
+-49.5%
 
 **All-Time Low:** $0.43
-+571396.5%
++576736.3%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 3d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I’ve been looking into crypto payment cards because I’d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I’m curious what the actual experience is like. What’s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?
 
-6d ago
+7d ago
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 What the Protocol cluster is for, the commitments that govern its work through 2029, and what those commitments require of the forks now entering scope.
 
-ethereum.org • 20h ago
+ethereum.org • 1d ago
 
 ---
 
@@ -164,21 +164,29 @@ ethereum.org • 20h ago
 
 The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance.
 
-CryptoSlate • 23h ago
+CryptoSlate • 1d ago
+
+---
+
+**[Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-70-150444370.html)**
+
+The company says it holds roughly 4.9% of Ethereum’s supply, with most of its tokens staked to earn rewards.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) added another 28,086 Ether (CRYPTO: $ETH) to its holdings last week, b...
+
+Yahoo Finance • 49m ago
 
 ---
 
 **[Ethereum commits to letting users pay gas fees without having to hold ETH](https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth)**
 
-CoinDesk • 21h ago
-
----
-
-**[Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html)**
-
-Bitcoin opened at $80,351.40 on Monday, September 7, 2026, 0.7% higher than Sunday's opening price. As of 9:41 a.m. ET this morning, the price of bitcoin moved back to $79,349.91. Ethereum opened at $2,514.80 today, up 1.4% from Sunday's opening price. The price of ethereum moved lower to $2,497.60 as of 9:41 a.m. ET.
-
-Yahoo Finance • 21h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -186,7 +194,15 @@ Yahoo Finance • 21h ago
 
 Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
 
-TradingView • 9h ago
+TradingView • 13h ago
+
+---
+
+**[Current price of Ethereum for Sept. 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
 
 ---
 
@@ -194,37 +210,23 @@ TradingView • 9h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-theblock.co • 7h ago
+The Block • 11h ago
 
 ---
 
-**[Sharplink: Ethereum Treasury Growth Comes With Too Much Execution Risk (NASDAQ:SBET)](https://seekingalpha.com/article/4943721-sharplink-ethereum-treasury-growth-comes-with-too-much-execution-risk)**
+**[Tom Lee Reveals Four Catalysts That Could Push Ethereum Toward $6,000](https://coinpedia.org/news/tom-lee-reveals-four-catalysts-that-could-push-ethereum-toward-6000/)**
 
-Sharplink's sustainable upside depends on staking rewards consistently outpacing operating costs and dilution. Read why SBET is a Hold.
+Ethereum’s recent rally could extend beyond a short-term rebound as improving industry fundamentals create room for further gains, according to Fundstrat
 
-Seeking Alpha • 2h ago
-
----
-
-**[Crypto News Today: DigiTap Sells Out Presale Stage Early as Ethereum Price Prediction Points to $5,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-digitap-sells-out-presale-stage-early-as-ethereum-price-prediction-points-to-5-000-1036527002)**
-
-VIENTIANE, Laos, Sept.  07, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward DigiTap after the project sold out a presale stage early...
-
-markets.businessinsider.com • 9h ago
+Coinpedia • 8h ago
 
 ---
 
-**[Ethereum Price at a Turning Point — Bulls Target $2,800 After Range Breakout](https://coinpedia.org/price-analysis/ethereum-price-at-a-turning-point-bulls-target-2800-after-range-breakout/)**
+**[Bitcoin has already won its battle, whereas Ethereum is only starting its own](https://investinglive.com/cryptocurrency/bitcoin-has-already-won-its-battle-whereas-ethereum-is-only-starting-its-own/)**
 
-Ethereum price is back at a level where the market has to make a decision. ETH has reclaimed the $2,500 area, while recent exchange data shows more than
+Ethereum is out to prove that it deserves an institutional valuation of its own
 
-Coinpedia • 22h ago
-
----
-
-**[Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision](https://www.ccn.com/news/crypto/coinbase-bitcoin-ethereum-solana-futures-canada/)**
-
-CCN.com • 1d ago
+investingLive • 6h ago
 
 ---
 
@@ -232,33 +234,23 @@ CCN.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Arthur Hayes: Ethereum Will Outperform The Entire Market (It’s My Biggest Position)](https://www.youtube.com/watch?v=ZYD59fXLJQQ)**
-
-Arthur Hayes joins us for a session to understand the underlying economic forces leading to a massive digital assets bull market ...
-
-📺 The Rollup
-
-👁️ 19K • 👍 302 • 💬 33 • ⏱️ 41:28 • 11h ago
-
----
-
 **[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
 
 Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 210 • 💬 12 • ⏱️ 12:04 • 10h ago
+👁️ 9K • 👍 252 • 💬 18 • ⏱️ 12:04 • 15h ago
 
 ---
 
-**[ETH BREAKOUT OR PULLBACK? (Ethereum Price Prediction)](https://www.youtube.com/watch?v=92hwVUJG9Lw)**
+**[Ethereum &amp; Bitcoin Hold Into A Fed Rate HIKE!! (still long)](https://www.youtube.com/watch?v=s3WqtKOLy-M)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
-📺 Cilinix Crypto
+📺 Marzell Crypto
 
-👁️ 96 • 👍 15 • 💬 1 • ⏱️ 4:34 • 2h ago
+👁️ 40 • 👍 2 • 💬 23 • ⏱️ 5:04 • 53m ago
 
 ---
 
@@ -268,7 +260,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 44K • 👍 556 • 💬 94 • ⏱️ 18:40 • 19h ago
+👁️ 46K • 👍 580 • 💬 78 • ⏱️ 18:40 • 23h ago
 
 ---
 
@@ -278,17 +270,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 16K • 👍 524 • 💬 47 • ⏱️ 3:29 • 1d ago
-
----
-
-**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
-
-Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
-
-📺 No Bs Crypto
-
-👁️ 18K • 👍 451 • 💬 50 • ⏱️ 19:02 • 2d ago
+👁️ 16K • 👍 528 • 💬 47 • ⏱️ 3:29 • 1d ago
 
 ---
 
@@ -298,27 +280,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 150 • 💬 16 • ⏱️ 14:40 • 1d ago
+👁️ 5K • 👍 151 • 💬 13 • ⏱️ 14:40 • 1d ago
 
 ---
 
-**[I Sold All My Ethereum… But Why? Very Bad News for Ethereum 💔😭](https://www.youtube.com/watch?v=9MUm7TQz7aQ)**
+**[1 Bitcoin VS 10 Ethereum - Best 2026 Choice!](https://www.youtube.com/watch?v=vJPBUYgIveA)**
 
-I Sold All My Ethereum… But Why? Very Bad News for Ethereum JOIN P2P.AI HERE P2P.AI Telegram Mini App ...
+Is 1 Bitcoin a better investment than 10 Ethereum in 2026? Which will get you the best returns in the SAFEST way possible?
 
-📺 CryptoVel 
+📺 No Bs Crypto
 
-👁️ 112 • 👍 17 • 💬 20 • ⏱️ 15:19 • 1h ago
-
----
-
-**[BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VdfFB1p_EWc)**
-
-BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 250 • 💬 171 • ⏱️ 19:13 • 11h ago
+👁️ 18K • 👍 454 • 💬 50 • ⏱️ 19:02 • 2d ago
 
 ---
 
@@ -328,7 +300,37 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 779 • 💬 289 • ⏱️ 36:55 • 2d ago
+👁️ 15K • 👍 786 • 💬 248 • ⏱️ 36:55 • 2d ago
+
+---
+
+**[Ethereum 2.0 - The Merge | The Future of Crypto Starts Now | 4K](https://www.youtube.com/watch?v=ou7XkgZqUrg)**
+
+The Ethereum protocol is going through significant changes. Security and decentralization are improved with the merge.
+
+📺 The Crypto Vault
+
+👁️ 17K • 👍 245 • 💬 51 • ⏱️ 34:16 • 2d ago
+
+---
+
+**[ETH BREAKOUT OR PULLBACK? (Ethereum Price Prediction)](https://www.youtube.com/watch?v=92hwVUJG9Lw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 332 • 👍 18 • 💬 1 • ⏱️ 4:34 • 7h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VdfFB1p_EWc)**
+
+BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 279 • 💬 140 • ⏱️ 19:13 • 15h ago
 
 ---
 
