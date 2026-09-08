@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-07T23:18:30.955790+00:00'
+updated: '2026-09-08T01:18:34.838282+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 07, 2026 at 23:18 UTC  
+**Last Updated:** September 08, 2026 at 01:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Crazy times](https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/)**
 
-7h ago
+9h ago
+
+---
+
+**[Can current LLM architecture actually get us to AGI?](https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/)**
+
+I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to "a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the "intelligence" or "agentic reasoning" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's "just" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint?
+
+1h ago
 
 ---
 
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn’t working. Actually 3 of the 4 things I asked Astra to do didn’t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can’t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I’m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?
 
-12h ago
+14h ago
 
 ---
 
@@ -63,7 +71,7 @@ Politico reports: A federal judge Friday refused to block a Minnesota law prohib
 
 The idea of whether machines will dominate us is generally treated as a new one in current discussions on AI risk, since in 1863 Samuel Butler published a letter titled 'Darwin Among the Machines' which made an argument closely resembling the one in today's debate. He stated that the real danger was not that machines would gain control of power, but that people would find machines so useful that it would become practically impossible to get rid of them, so that by that stage the question of who was actually in charge would have already been answered — no matter who seemed to be in control. He said that a society which, in principle, could not destroy its machines had already "created a race of beings towards whom it is beyond our power to destroy" and had thus become "acquiescent in our bondage." This is a quite different claim from the one that says 'superintelligence takes over'; it's similar to the sorts of arguments currently being made regarding algorithmic dependence, attention economy lock-in, and infrastructure that is too deeply embedded to be undone — arguments that can be applied to any technology that is sufficiently indispensable, not just to intelligent machines. The full letter, together with the historical background (it is also the immediate source of the "Butlerian Jihad" in Dune, a fact that most people are unaware of) can be found here: https://romaricjannel.substack.com/p/the-rise-of-mechanical-life I'm wondering if people here consider "acquiescence through indispensability" to be a real and separate risk category or whether it's just a rewording of dependence anxiety that appears each time a major technology is introduced.
 
-10h ago
+12h ago
 
 ---
 
@@ -71,43 +79,35 @@ The idea of whether machines will dominate us is generally treated as a new one 
 
 Can language models write code in one step? Yes: make language continuous, use diffusion, then distill the trajectory to one step. Paper: https://arxiv.org/abs/2609.04531 Code: https://github.com/pengzhangzhi/plaidq
 
-43m ago
+2h ago
 
 ---
 
-**[AI could pose 'existential' risk to humanity, UN rights chief warns](https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/)**
+**[NCSC warns that shadow AI can expose data and agent privileges](https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/)**
 
-🔗 [reuters.com](https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/) • 4h ago
+The UK's National Cyber Security Centre says employees using AI tools outside an organisation's approved systems can expose company or customer data and reduce the organisation's visibility and control over that information. It cites research saying 71% of employees use AI tools that their employer has not approved. The NCSC also warns that AI agents add another risk: if an agent has a vulnerability or bad configuration, an attacker may gain the same data, services, and privileges the agent can access. The practical point is less 'ban AI' and more 'make the approved path usable'. The NCSC says teams should understand why people use shadow AI, provide safer alternatives, and reduce the risk rather than assume it will disappear. Sources: https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai https://ukstories.microsoft.com/features/rise-in-shadow-ai-tools-raising-security-concerns-for-uk/
+
+5h ago
 
 ---
 
-**[Is Voice.ai good for real-time voice changing?](https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/)**
+**[Been building a "block first, generate second" tool for AI video - curious what's still missing](https://www.reddit.com/r/artificial/comments/1wa7ph3/been_building_a_block_first_generate_second_tool/)**
 
-Hey everyone, I'm looking for an AI voice changer that works well in real time. I'm not really interested in simple effects like pitch shifting or autotuneI'd like something that can actually transform my voice into a completely different voice. Is voice.ai good for this? How is the latency and overall voice quality when using it in real time? Also, is the free version good enough or is it basically unusable without paying? Is voicemod better? Thanks!
+Been experimenting with a workflow on dimension.so where an agent builds out a 3D pre-vis scene first - blocking objects, character motion, and camera - then feeding that directly into Seedance 2.0 Mini as a video-to-video reference instead of prompting from scratch. Added GPT6/Asta into the agent's reasoning layer and I dont think the improvement in multistep task handling is noticeable in how consistent the scene composition turns out. Curious what people think - what went well in the pre-vis scene itself, and what could've been improved before it even got passed to Seedance?
 
 2h ago
 
 ---
 
-**[Overly corrective, judgemental models: Grok, claude, chatgpt](https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/)**
+**[AI could pose 'existential' risk to humanity, UN rights chief warns](https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/)**
 
-I noticed the change in tone of llms in chat. When brainstroming on few ideas these three bots acting superior and telling what not to do most of time ratherthan expanding ideas. Grok is worst since 4.6. Its language deteriorated to Gen Z slang may be smoking on too much of x posts. Its overly judgemental and borderline sarcastic in every line. Have you folks noticed this. Gemini is still better may be its still a backward model?
-
-3h ago
+🔗 [reuters.com](https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/) • 6h ago
 
 ---
 
-**[Where do you personally draw the line between using AI as a tool and letting AI do the work for you?](https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/)**
+**[Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.](https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/)**
 
-This question gets surprisingly complicated. Using AI to fix grammar? Most people seem fine with that. Using it to brainstorm ideas? Probably fine Using it to write the first draft? Depends who you ask. Using it to do the entire assignment while you barely understand the topic? That's where most people would probably draw the line But the line keeps moving Calculators, spellcheck, Google and autocomplete were all seen as shortcuts at some point. Now they're just normal tools. Do you think AI will follow the same pattern? Or is there something fundamentally different about outsourcing actual thinking?
-
-7h ago
-
----
-
-**[FreeBuff MCP](https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/)**
-
-Hey guys. I am a GPT Plus user, and I use Freebuff a lot to execute my tasks for free, so I don't use up usage limits at all. Freebuff, if you don't know, is a desktop and CLI agent that gives u a bunch of models for free (DeepSeek V4 Flash, GLM 5.3 Flash, 5.6 Luna, Solar 4 Pro), and it is really good at executing tasks that you give it, imo. I searched for connectors or MCPs that connect to it so I can seamlessly integrate it with Luna or Terra as the planner and Freebuff as the implementer. There was nothing online, so I created my own MCP (https://github.com/Praket7/freebuff-mcp). If you guys could check it out, try it out, and let me know if I need to make any security changes or to make it work better, and if you guys could star and test it, I'd appreciate it. I am currently adding some more features, like ChatGPT or Claude being able to check live progress, but let me know if you would like something else or if it doesn't work. thanks!
+The hikers story happened September 1st. Three guys from Roseville used Gemini to plan a Mount Shasta summit. The AI told them to bring far less food and water than they needed. They summited at 7pm, four hours after the recommended turnaround time, descended in the dark, one of them hurt his knee, and they spent the night stranded in a canyon until rangers found them the next morning. Google says they can't replicate the bad answers Gemini gave. Maybe the prompts were vague. Maybe the AI was overconfident. Doesn't really matter which. What matters is that three people trusted a model's output as expert advice in a context where being wrong had serious consequences. Two days later OpenAI launched GPT-6 Astra. 99.9% on ARC-AGI-3, 97.6% on FrontierMath Tier 4, 100% on ExploitBench. OpenAI is calling this the start of the AGI era. Independent benchmarks from Artificial Analysis are more cautious and show Anthropic's Fable 5.1 still ahead on the broader intelligence index. But here's what I can't stop thinking about. The hikers story and the capability story are not separate things. Every time a model gets more capable, more people trust it in higher stakes situations. That gap between what the model can do and what the person using it understands about its limits doesn't close automatically when capability improves. If anything it gets harder to manage because the outputs get more convincing. I work with organizations on AI adoption and the single most common thing I see is not people being too skeptical of AI. It's people not knowing when to stop trusting it. What's your take? Does more capability make the trust calibration problem better or worse?
 
 3h ago
 
@@ -129,13 +129,55 @@ OpenAI • 1d ago
 
 The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.
 
-BBC • 10h ago
+BBC • 12h ago
 
 ---
 
 **[OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI](https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 8h ago
+
+---
+
+**[Early Data Indicates an A.I.-Generated Drug Could Slow Aging](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html)**
+
+The New York Times • 10h ago
+
+---
+
+**[The complex corporate web behind a $3.2 billion AI data center](https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/)**
+
+When multiple companies are behind one project, who bears responsibility for problems?
+
+Ars Technica • 14h ago
+
+---
+
+**[AI data centers are transforming rural land markets — and fueling a backlash](https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html)**
+
+The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.
+
+CNBC • 1d ago
+
+---
+
+**[China Is Building an AI Future Far From Its Biggest Cities](https://www.bloomberg.com/news/articles/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Gal Gadot defends AI-made sets in Bitcoin movie, says SAG asked for guidance](https://www.yahoo.com/entertainment/movies/articles/gal-gadot-defends-ai-made-001600796.html)**
+
+"You're going to work with it or be out of the game completely."
+
+yahoo.com • 1h ago
+
+---
+
+**[IFA 2026: AI Is Acquiring Bodies. Hardware Is Acquiring Brains.](https://www.forbes.com/sites/viviantoh/2026/09/07/ifa-2026-ai-is-acquiring-bodies-hardware-is-acquiring-brains/)**
+
+forbes.com • 1h ago
 
 ---
 
@@ -143,53 +185,7 @@ Bloomberg.com • 6h ago
 
 U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday
 
-CNBC • 12h ago
-
----
-
-**[Trump posts images of annexing two countries, renaming a state and claiming ownership of the moon](https://nypost.com/2026/09/07/us-news/trump-posts-images-of-annexing-two-countries-renaming-a-state-and-claiming-ownership-of-the-moon/)**
-
-President Trump is spending Labor Day flooding his Truth Social account with AI-generated images about conquering both the Earth and outer space alike.
-
-New York Post • 4h ago
-
----
-
-**[Make AI-merica Great Again: Meme Lord Donald Trump’s digital feed goes off rails again](https://timesofindia.indiatimes.com/world/us/make-ai-merica-great-again-meme-lord-donald-trumps-digital-feed-goes-off-rails-again/articleshow/133882888.cms)**
-
-🚨 Trump says, the moon belongs to the US in a series of off the cuff posts on his TRUTH SOCIAL.Is the president ok? pic.twitter.com/BjB1OPIRjM
-
-The Times of India • 10h ago
-
----
-
-**[Two Accessibility Leaders On What Happens When AI Writes The Next Decade Of Software](https://www.forbes.com/sites/keelycatwells/2026/09/07/two-accessibility-leaders-on-what-happens-when-ai-writes-the-next-decade-of-software/)**
-
-Forbes • 29m ago
-
----
-
-**[Students, educators adapting to using AI for learning](https://www.cbsnews.com/boston/video/students-educators-adapting-to-using-ai-for-learning/)**
-
-While AI technology is advancing, there are concerns with how it is being used.
-
-CBS News • 1h ago
-
----
-
-**[Sen Bernie Sanders takes aim at AI with ‘Ban Artificial Superintelligence Act’](https://www.foxnews.com/video/6404730093112)**
-
-Fox News co-host Griff Jenkins discusses opposition to artificial intelligence data centers and Sen. Bernie Sanders’, I-Vt., Ban Artificial Superintelligence Act on ‘The Will Cain Show.’
-
-foxnews.com • 26m ago
-
----
-
-**[Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death](https://www.bbc.com/news/articles/c1wxppnrqlqo)**
-
-Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.
-
-BBC • 11h ago
+CNBC • 14h ago
 
 ---
 
@@ -209,7 +205,7 @@ AI-assisted incident response can lower MTTR while leaving engineers less prepar
 
 It's complicated
 
-⬆️ 162 • 💬 256 • 1d ago • [beza1e1.tuxen.de](https://beza1e1.tuxen.de/ai_feelings.html)
+⬆️ 162 • 💬 258 • 1d ago • [beza1e1.tuxen.de](https://beza1e1.tuxen.de/ai_feelings.html)
 
 ---
 
@@ -225,13 +221,13 @@ It’s very tempting to imagine that AI turns everyone into a tool-builder - now
 
 $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
-⬆️ 96 • 💬 114 • 4h ago • [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+⬆️ 97 • 💬 114 • 6h ago • [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 
 ---
 
 **[I refused to train the AI that could replace me](https://news.ycombinator.com/item?id=49593959)**
 
-⬆️ 93 • 💬 107 • 18h ago • [restofworld.org](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+⬆️ 93 • 💬 107 • 20h ago • [restofworld.org](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
 
 ---
 
@@ -239,7 +235,7 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped SQLite memory engine for Google Antigravity, Claude Code, Cursor, and Windsurf. Zero cloud lock-in. - timgordontg/engrim
 
-⬆️ 81 • 💬 50 • 18h ago • [GitHub](https://github.com/timgordontg/engrim)
+⬆️ 81 • 💬 50 • 20h ago • [GitHub](https://github.com/timgordontg/engrim)
 
 ---
 
@@ -256,13 +252,13 @@ Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi
 A short list of articles that temper my enthusiasm around AI, and drawing a
 few lines in the sand along the way.
 
-⬆️ 66 • 💬 11 • 4h ago • [allan.reyes.sh](https://allan.reyes.sh/posts/ai-cold-showers/)
+⬆️ 72 • 💬 11 • 6h ago • [allan.reyes.sh](https://allan.reyes.sh/posts/ai-cold-showers/)
 
 ---
 
 **[Initial effects of AI technology on employment look positive](https://news.ycombinator.com/item?id=49596610)**
 
-⬆️ 63 • 💬 96 • 12h ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
+⬆️ 67 • 💬 102 • 14h ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
 
 ---
 
@@ -294,7 +290,7 @@ Claim your FREE $499 Masterclass: Build & Sell Apps, AI Agents & Websites with A
 
 📺 Mikey No Code
 
-👁️ 11K • 💬 7 • ⏱️ 21:39 • 9h ago
+👁️ 11K • 💬 7 • ⏱️ 21:39 • 11h ago
 
 ---
 
@@ -324,7 +320,7 @@ OpenAI just released GPT-6 Astra, and it may be one of the biggest AI jumps yet.
 
 📺 AI Revolution
 
-👁️ 117K • 👍 2K • 💬 155 • ⏱️ 16:14 • 2d ago
+👁️ 117K • 👍 2K • 💬 155 • ⏱️ 16:14 • 3d ago
 
 ---
 
@@ -354,7 +350,7 @@ My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa
 
 📺 Nate Herk | AI Automation
 
-👁️ 240K • 👍 3K • 💬 218 • ⏱️ 8:37 • 2d ago
+👁️ 240K • 👍 3K • 💬 218 • ⏱️ 8:37 • 3d ago
 
 ---
 
@@ -372,7 +368,7 @@ Haters will say this is fake AI medicine…
 
 📺 BLACKJENtube
 
-👁️ 9K • 👍 455 • 💬 12 • ⏱️ 0:10 • 11h ago
+👁️ 9K • 👍 455 • 💬 12 • ⏱️ 0:10 • 13h ago
 
 ---
 
@@ -484,7 +480,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 258,896 • ❤️ 298 • 14h ago
+⬇️ 258,896 • ❤️ 298 • 16h ago
 
 ---
 
@@ -496,7 +492,7 @@ GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention
 
 `image-text-to-text` `321.3B`
 
-⬇️ 784,005 • ❤️ 2,132 • 11h ago
+⬇️ 784,005 • ❤️ 2,132 • 13h ago
 
 ---
 
@@ -646,7 +642,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 21.2k • 🔱 2.4k • 2h ago
+⭐ 21.2k • 🔱 2.4k • 4h ago
 
 ---
 
@@ -656,7 +652,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.4k • 🔱 547 • 8h ago
+⭐ 4.4k • 🔱 547 • 10h ago
 
 ---
 
@@ -666,7 +662,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 3.9k • 🔱 239 • 19h ago
+⭐ 3.9k • 🔱 239 • 21h ago
 
 ---
 
@@ -736,7 +732,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 13h ago
+⭐ 1.9k • 🔱 1.3k • 15h ago
 
 ---
 

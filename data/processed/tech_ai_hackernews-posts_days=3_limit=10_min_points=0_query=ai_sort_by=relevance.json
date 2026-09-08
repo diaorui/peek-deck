@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49587128",
       "author": "qznc",
       "points": 162,
-      "num_comments": 256,
+      "num_comments": 258,
       "created_at": "2026-09-06T15:00:19Z",
       "object_id": "49587128",
       "image": null,
@@ -51,7 +51,7 @@
       "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
       "hn_url": "https://news.ycombinator.com/item?id=49601338",
       "author": "Areibman",
-      "points": 96,
+      "points": 97,
       "num_comments": 114,
       "created_at": "2026-09-07T18:24:32Z",
       "object_id": "49601338",
@@ -107,7 +107,7 @@
       "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
       "hn_url": "https://news.ycombinator.com/item?id=49601810",
       "author": "mooreds",
-      "points": 66,
+      "points": 72,
       "num_comments": 11,
       "created_at": "2026-09-07T19:05:39Z",
       "object_id": "49601810",
@@ -121,8 +121,8 @@
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "hn_url": "https://news.ycombinator.com/item?id=49596610",
       "author": "MrBuddyCasino",
-      "points": 63,
-      "num_comments": 96,
+      "points": 67,
+      "num_comments": 102,
       "created_at": "2026-09-07T10:38:32Z",
       "object_id": "49596610",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "Tech Policy Press"
     }
   ],
-  "total_hits": 425,
+  "total_hits": 431,
   "has_metadata": true,
-  "fetched_at": "2026-09-07T23:18:08.677044+00:00"
+  "fetched_at": "2026-09-08T01:18:07.683361+00:00"
 }

@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Can current LLM architecture actually get us to AGI?",
+      "author": "mostly_deterministic",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/",
+      "published": 1788825919.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to \"a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task\", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the \"intelligence\" or \"agentic reasoning\" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's \"just\" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint?"
+    },
+    {
       "title": "I took a ride in the hype train at first, but no, not AGI",
       "author": "Firm-Club-8334",
       "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
@@ -57,6 +68,28 @@
       "description": "Can language models write code in one step? Yes: make language continuous, use diffusion, then distill the trajectory to one step. Paper: https://arxiv.org/abs/2609.04531 Code: https://github.com/pengzhangzhi/plaidq"
     },
     {
+      "title": "NCSC warns that shadow AI can expose data and agent privileges",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/",
+      "published": 1788810150.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The UK's National Cyber Security Centre says employees using AI tools outside an organisation's approved systems can expose company or customer data and reduce the organisation's visibility and control over that information. It cites research saying 71% of employees use AI tools that their employer has not approved. The NCSC also warns that AI agents add another risk: if an agent has a vulnerability or bad configuration, an attacker may gain the same data, services, and privileges the agent can access. The practical point is less 'ban AI' and more 'make the approved path usable'. The NCSC says teams should understand why people use shadow AI, provide safer alternatives, and reduce the risk rather than assume it will disappear. Sources: https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai https://ukstories.microsoft.com/features/rise-in-shadow-ai-tools-raising-security-concerns-for-uk/"
+    },
+    {
+      "title": "Been building a \"block first, generate second\" tool for AI video - curious what's still missing",
+      "author": "KeyCod3923",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa7ph3/been_building_a_block_first_generate_second_tool/",
+      "published": 1788823101.0,
+      "thumbnail": "https://external-preview.redd.it/em5vamU3MDJsNm9oMatHsVUp9aWQ0NWkZ-vFhU8iqZt2gsOHf9NF1BU2Ru_7.png?width=640&crop=smart&auto=webp&s=00185ea1be126fda3941122e040940e9d5b1065b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been experimenting with a workflow on dimension.so where an agent builds out a 3D pre-vis scene first - blocking objects, character motion, and camera - then feeding that directly into Seedance 2.0 Mini as a video-to-video reference instead of prompting from scratch. Added GPT6/Asta into the agent's reasoning layer and I dont think the improvement in multistep task handling is noticeable in how consistent the scene composition turns out. Curious what people think - what went well in the pre-vis scene itself, and what could've been improved before it even got passed to Seedance?"
+    },
+    {
       "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/",
@@ -68,49 +101,16 @@
       "description": null
     },
     {
-      "title": "Is Voice.ai good for real-time voice changing?",
-      "author": "Accomplished-Step660",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/",
-      "published": 1788813778.0,
+      "title": "Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/",
+      "published": 1788817630.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I'm looking for an AI voice changer that works well in real time. I'm not really interested in simple effects like pitch shifting or autotuneI'd like something that can actually transform my voice into a completely different voice. Is voice.ai good for this? How is the latency and overall voice quality when using it in real time? Also, is the free version good enough or is it basically unusable without paying? Is voicemod better? Thanks!"
-    },
-    {
-      "title": "Overly corrective, judgemental models: Grok, claude, chatgpt",
-      "author": "ionicfellow",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/",
-      "published": 1788811580.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I noticed the change in tone of llms in chat. When brainstroming on few ideas these three bots acting superior and telling what not to do most of time ratherthan expanding ideas. Grok is worst since 4.6. Its language deteriorated to Gen Z slang may be smoking on too much of x posts. Its overly judgemental and borderline sarcastic in every line. Have you folks noticed this. Gemini is still better may be its still a backward model?"
-    },
-    {
-      "title": "Where do you personally draw the line between using AI as a tool and letting AI do the work for you?",
-      "author": "cactussignal",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/",
-      "published": 1788797330.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This question gets surprisingly complicated. Using AI to fix grammar? Most people seem fine with that. Using it to brainstorm ideas? Probably fine Using it to write the first draft? Depends who you ask. Using it to do the entire assignment while you barely understand the topic? That's where most people would probably draw the line But the line keeps moving Calculators, spellcheck, Google and autocomplete were all seen as shortcuts at some point. Now they're just normal tools. Do you think AI will follow the same pattern? Or is there something fundamentally different about outsourcing actual thinking?"
-    },
-    {
-      "title": "FreeBuff MCP",
-      "author": "Swimming_Ask3859",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/",
-      "published": 1788810304.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys. I am a GPT Plus user, and I use Freebuff a lot to execute my tasks for free, so I don't use up usage limits at all. Freebuff, if you don't know, is a desktop and CLI agent that gives u a bunch of models for free (DeepSeek V4 Flash, GLM 5.3 Flash, 5.6 Luna, Solar 4 Pro), and it is really good at executing tasks that you give it, imo. I searched for connectors or MCPs that connect to it so I can seamlessly integrate it with Luna or Terra as the planner and Freebuff as the implementer. There was nothing online, so I created my own MCP (https://github.com/Praket7/freebuff-mcp). If you guys could check it out, try it out, and let me know if I need to make any security changes or to make it work better, and if you guys could star and test it, I'd appreciate it. I am currently adding some more features, like ChatGPT or Claude being able to check live progress, but let me know if you would like something else or if it doesn't work. thanks!"
+      "description": "The hikers story happened September 1st. Three guys from Roseville used Gemini to plan a Mount Shasta summit. The AI told them to bring far less food and water than they needed. They summited at 7pm, four hours after the recommended turnaround time, descended in the dark, one of them hurt his knee, and they spent the night stranded in a canyon until rangers found them the next morning. Google says they can't replicate the bad answers Gemini gave. Maybe the prompts were vague. Maybe the AI was overconfident. Doesn't really matter which. What matters is that three people trusted a model's output as expert advice in a context where being wrong had serious consequences. Two days later OpenAI launched GPT-6 Astra. 99.9% on ARC-AGI-3, 97.6% on FrontierMath Tier 4, 100% on ExploitBench. OpenAI is calling this the start of the AGI era. Independent benchmarks from Artificial Analysis are more cautious and show Anthropic's Fable 5.1 still ahead on the broader intelligence index. But here's what I can't stop thinking about. The hikers story and the capability story are not separate things. Every time a model gets more capable, more people trust it in higher stakes situations. That gap between what the model can do and what the person using it understands about its limits doesn't close automatically when capability improves. If anything it gets harder to manage because the outputs get more convincing. I work with organizations on AI adoption and the single most common thing I see is not people being too skeptical of AI. It's people not knowing when to stop trusting it. What's your take? Does more capability make the trust calibration problem better or worse?"
     }
   ],
-  "fetched_at": "2026-09-07T23:18:08.836710+00:00"
+  "fetched_at": "2026-09-08T01:18:07.810072+00:00"
 }

@@ -35,6 +35,66 @@
       "description": null
     },
     {
+      "headline": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "pub_date": 1788793934.0,
+      "article_url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The complex corporate web behind a $3.2 billion AI data center",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb244cjF5YkJfcHVHWTZkS0MxZ3I5aWwxZ2FxUE9ZdHRWaFpkYmgxaTBKLU9IRW9xalZObV95VGFjbDNDcjRYYVRUMHhuSVp2SkVOODg0ZXZCTEpnMkhJS0V3ZExCbFNGbVA4b3dRRkpzVk53ZXVqcWFqTklsZDlhY1pDaC0xMmphX3VLQUFjUjRxNHFCbU83d3lzd3llSDdTcmcwY1dxNA?oc=5",
+      "pub_date": 1788778803.0,
+      "article_url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
+      "description": "When multiple companies are behind one project, who bears responsibility for problems?"
+    },
+    {
+      "headline": "AI data centers are transforming rural land markets \u2014 and fueling a backlash",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
+      "pub_date": 1788696001.0,
+      "article_url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&w=1920&h=1080",
+      "description": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development."
+    },
+    {
+      "headline": "China Is Building an AI Future Far From Its Biggest Cities",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUU2SE5ZdUxxaDNJb3VVaDdVRVljcTV6WHQ3Ql9WNk1fYWFzZGJyRUlKZlp6aC0tcFpOdUo0NUJjTkpTVXlNR0tkOEFmQkc4R0l0NWRyWlFXVG0yN3RhN1RLNXBDbDF4cVFPZE1lRXVUZDlacFNhRkRrbDBXRThtOFZVdVpLTVNneEhWa25PYWc4Q0g0WG16S0FYWjJmT20tNTAyS043c0NEV2EyUXVUdGlrS1g2eUJSQThzNA?oc=5",
+      "pub_date": 1788826020.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/china-races-to-build-ai-data-centers-far-away-from-its-biggest-cities",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Gal Gadot defends AI-made sets in Bitcoin movie, says SAG asked for guidance",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1NaT0NILWpORktZNVpSV215bE8xdUlIRlUwbmFnWjZZS2xwdXFXWDk2LTFNdnF4ZnQ1c2dCMWk4WDBIZ3UtSHBtaHpzTUV0c0wtVmx6ZFRpSXlES0kzZU1ZQWNTRUpZT3JhZ2t4bEcza0RJOHl0OHo1TzdTc2dIcnFrR3ZsMjgwX0kxdFRhX0NSaWNSRncw?oc=5",
+      "pub_date": 1788826560.0,
+      "article_url": "https://www.yahoo.com/entertainment/movies/articles/gal-gadot-defends-ai-made-001600796.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1cbd2b64d5696ac3f1cfa7658ced2a7e302c2c7382b0a0e3d1825bbb8b175ff4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F0ac66c7013513504be066b58563c1988.jpg",
+      "description": "\"You're going to work with it or be out of the game completely.\""
+    },
+    {
+      "headline": "IFA 2026: AI Is Acquiring Bodies. Hardware Is Acquiring Brains.",
+      "source": "forbes.com",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDAyNXRrNW1YcEg3QzVDaGtqOU9JNVNwN3pITWpCVXMyMVhmR2pUSTlfOFY1eV9kY2dWakVzcTFJbFZzME9SZmUyaHY4YUtSdjRmLXN6NFhJOFBHc2VzT0I3QmIyMEk5VFpBQW5TVzV2dXVKSFhPc0ZFb09rZTNBNkpONlVBUHZpLUVYUUVQY1FBbHVERXFKTVdjU3dkUTA0dWRIMV9wbjZ6VmM2cGpOcw?oc=5",
+      "pub_date": 1788826404.0,
+      "article_url": "https://www.forbes.com/sites/viviantoh/2026/09/07/ifa-2026-ai-is-acquiring-bodies-hardware-is-acquiring-brains/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -43,68 +103,8 @@
       "article_url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
       "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday"
-    },
-    {
-      "headline": "Trump posts images of annexing two countries, renaming a state and claiming ownership of the moon",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNXVrTWZ1d19QX0VRT1lvOVNxWEkxVDBEM3phZmhGZHZjdGM2dHNETFRVYzlqVlRGYWJTcmNXSW9IcExPMi0xUHZnYWpneDhLZl9RN25EMDhYY2VvdXdXVWl6cWtUZ0NLSmpETGpCUHJNbTVqYUFyWDhrNGxNQmN3YjdJMmtjektTOVY3RUJvak5KY0lPQ0xXUnBFZEpaTUkyQWlDTU1MSEp0WkhVeWIzWEgtczZUSlo3MFpmSUJTTEZCMU9ENUdURmMwazFnemZM?oc=5",
-      "pub_date": 1788807660.0,
-      "article_url": "https://nypost.com/2026/09/07/us-news/trump-posts-images-of-annexing-two-countries-renaming-a-state-and-claiming-ownership-of-the-moon/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140022380.jpg?quality=75&strip=all&w=1200",
-      "description": "President Trump is spending Labor Day flooding his Truth Social account with AI-generated images about conquering both the Earth and outer space alike."
-    },
-    {
-      "headline": "Make AI-merica Great Again: Meme Lord Donald Trump\u2019s digital feed goes off rails again",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0R1dGF4OVVzZGpNVFBhOU5LVVU0WVJXRlRvUG1ZZUFheHRrcFR1S1dJQUp0WkJuVXQ2MmZnTWNKUXA0LUVXd2tacE5TSGx3Z2V2NDdBOF9oNWVUQzM0b3RqdEliMmUxMWt2TmpzUEsyYjlkTXViRk9jdmduYlc1LWtla1lld1Q0eXhfRFh2TUpHTEZNTHpaNTdIQXNKLXFuZTVFOGpWXzFjNjk3eUVzYThlOWttTmN3QU0zbVphdXFuNkRZNnNhdW9qWU94SE1vY0owNF8tXzhwdUpPWGsxakdoU2J6X3pLR2E40gHwAUFVX3lxTE9CbDE5ZWZfSHNyYllETldfc2c2YndKeHJGOEd3RGVzSnVrY2xuaHNHVGdrSlZ1cmw2Qm9oTnlzeTJuNzdKaXkwaWRmQUh5SEg3TUhGZHN1bWlETXhPOFJOTzIzcGV6UnVvZzB0VjFQa2NsbzQ3em1xTk5xU1lJT2pPc0l2Z0FhWjlCbzdIdkJYeDIxZTVQZFRpekVaUmMxNFRKU0FPQk4xU0lNY21LZTQ4aGNoWndtTFhMbXlDVjh1SVoyVjl1NXFMbURHa1VMSG9OQkhYWkVlZElPZ0RFbl9mdm1hWHNva2J2cUhsbFE3Qw?oc=5",
-      "pub_date": 1788787020.0,
-      "article_url": "https://timesofindia.indiatimes.com/world/us/make-ai-merica-great-again-meme-lord-donald-trumps-digital-feed-goes-off-rails-again/articleshow/133882888.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133883111,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "description": "\ud83d\udea8 Trump says, the moon belongs to the US in a series of off the cuff posts on his TRUTH SOCIAL.Is the president ok? pic.twitter.com/BjB1OPIRjM"
-    },
-    {
-      "headline": "Two Accessibility Leaders On What Happens When AI Writes The Next Decade Of Software",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWh5SEdDMDViUVhHa0JqX1YzMEk5WG51YUo3UjlDbnJoZUU0YzVLT3RQalEwT1dqSGRCWENHU0xxdVpRd2l2cWU2WDlBVzZfVnNoczI2T2NkMThOMjFpYk1GT3R5WGlPWkpzbldCUkxpYnRRSnhKQXZYUUNtOUp4a2hCMENyQnU3OGtfeWw1ZEp0cGs2RWtna0VmOVc2OGd2VFk0ZXVndFVhT1ZZaE9ocmRXUmFWQm83S2VQRWdTYjM4QVY1TWIxZmg2VnlHMkJ0OERFZzR3?oc=5",
-      "pub_date": 1788821320.0,
-      "article_url": "https://www.forbes.com/sites/keelycatwells/2026/09/07/two-accessibility-leaders-on-what-happens-when-ai-writes-the-next-decade-of-software/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Students, educators adapting to using AI for learning",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcWhoS1lJN0hVTVloU3gwXzAxeFB5V1kxREtjWVl4WWczSkRzWWlHZ1YxNnNrRVpGNlhqTTFhWmxLNlN5UWZWUFN0b1p2cUl3aGgybGREaWpqNHhnb1VDOXVybmxsOFJId0hueFZDc0dXaFgxY01FaFY0RUVzUDJMdjl2ZGxwNWNpbklva1VxaW5VUkZ6?oc=5",
-      "pub_date": 1788819180.0,
-      "article_url": "https://www.cbsnews.com/boston/video/students-educators-adapting-to-using-ai-for-learning/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/07/d8c935c1-11b9-4eaa-b8ae-dbafbe239357/thumbnail/1200x630/62e4adbdedc50eb3e2097131453f51aa/b971c2be67835c9d2a2e9bcb73ca85aa.jpg",
-      "description": "While AI technology is advancing, there are concerns with how it is being used."
-    },
-    {
-      "headline": "Sen Bernie Sanders takes aim at AI with \u2018Ban Artificial Superintelligence Act\u2019",
-      "source": "foxnews.com",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tRTMzaGxsSWR3VDVGeFVNaTRRVlhiTlRCUFFESGY0SmZFQzNvMVFoX3NHUnFNMXFWQVE4Sl81ZGtTSHhUdExoc2ZNRXA0c1BUS0RfRThB?oc=5",
-      "pub_date": 1788821544.0,
-      "article_url": "https://www.foxnews.com/video/6404730093112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/867aeca7-a46e-414a-ae9b-37362c8b73dc/661b2d6b-55af-410e-a26f-704c473b7609/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Fox News co-host Griff Jenkins discusses opposition to artificial intelligence data centers and Sen. Bernie Sanders\u2019, I-Vt., Ban Artificial Superintelligence Act on \u2018The Will Cain Show.\u2019"
-    },
-    {
-      "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BblBFT2pQREFFRkFVSmRWVkpsNzNYZWZzLVpzeXFJQlJ3eVlHUXEzd2o4dHo3TEJPNFFiVTBYVjBWRkNwZ2xwMGF0dFVHZ1lzTWtoSmxPeTJKQQ?oc=5",
-      "pub_date": 1788780627.0,
-      "article_url": "https://www.bbc.com/news/articles/c1wxppnrqlqo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
-      "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-07T23:18:28.772541+00:00"
+  "fetched_at": "2026-09-08T01:18:33.948943+00:00"
 }
