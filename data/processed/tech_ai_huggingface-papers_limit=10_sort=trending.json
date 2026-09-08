@@ -20,6 +20,25 @@
       "project_page": null
     },
     {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 128,
+      "num_comments": 6,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 103386,
+      "project_page": null
+    },
+    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -73,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 12074,
+      "github_stars": 12143,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -96,22 +115,22 @@
       "project_page": null
     },
     {
-      "id": "2412.20138",
-      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "id": "2312.06371",
+      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
+      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
-      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
-      "hf_url": "https://huggingface.co/papers/2412.20138",
-      "arxiv_url": "https://arxiv.org/abs/2412.20138",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 128,
-      "num_comments": 6,
-      "published_at": "2024-12-28T07:54:06.000Z",
-      "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 102992,
+      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
+      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
+      "hf_url": "https://huggingface.co/papers/2312.06371",
+      "arxiv_url": "https://arxiv.org/abs/2312.06371",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
+      "upvotes": 0,
+      "num_comments": 0,
+      "published_at": "2023-12-11T08:27:51.000Z",
+      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
+      "github_stars": 851,
       "project_page": null
     },
     {
@@ -145,31 +164,12 @@
       "hf_url": "https://huggingface.co/papers/2608.23552",
       "arxiv_url": "https://arxiv.org/abs/2608.23552",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23552.png",
-      "upvotes": 50,
+      "upvotes": 51,
       "num_comments": 2,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/PrimeIntellect-ai/prime-agent",
       "github_stars": 20267,
       "project_page": "https://www.primeintellect.ai/blog/prime-agent"
-    },
-    {
-      "id": "2312.06371",
-      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
-      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
-      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
-      "hf_url": "https://huggingface.co/papers/2312.06371",
-      "arxiv_url": "https://arxiv.org/abs/2312.06371",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
-      "upvotes": 0,
-      "num_comments": 0,
-      "published_at": "2023-12-11T08:27:51.000Z",
-      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
-      "github_stars": 647,
-      "project_page": null
     },
     {
       "id": "2508.16279",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-08T16:07:39.055874+00:00"
+  "fetched_at": "2026-09-08T19:30:20.344569+00:00"
 }

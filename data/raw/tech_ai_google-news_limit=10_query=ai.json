@@ -5,67 +5,57 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMndLNHd3NkVkNmtTb3NMSlh3emJ5VTVZamVfaEUzVmhheFdrd1NIMjFsVnJnRHJfQWJ0M09BOEMzY25mNVFYZFZPWWY0cHpiMjM3RFQzclFIZk9RNW5ERmdkaUpEUlhMUXY2SW9XVnQtby0yMko0MUY3LS1oUF9PeWtpQQ?oc=5",
-      "pub_date": 1788858310.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI may have just solved a million-dollar math problem. The field will never be the same",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1Z4NkZOM0Y3YlA4UzhxSldSd2M2X1ZxNS0tUG5LenI5MVo0OGN5NFY3WXVXeUZnLTZSeDhyMlZELVZlRTBmZGFmYzdzeVdqQzdVX3NuMXZ4RkQ2N2E1THF1UUl3ZGNhbUFuZHk4aWtmcFRmMmREc0d1NUo1azU2V2NSb0FXTG5RcXVoRFo3aVNhY3MyVnp5Y2hiMjhnNlJ1YVowSm4ycWFsb2oxSWJaUHVzSTNUbkVtTENtb3FKM1FidUxPTWt1bUN3?oc=5",
-      "pub_date": 1788868800.0,
-      "article_url": "https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/",
-      "image": "https://static.scientificamerican.com/dam/asset/e182ce38-ebe2-411e-b937-47f6030e4f72/AI-math-brain.jpg?m=1788880516.218&w=1200",
-      "description": "A mathematician compared the feat to the history-making chess competition in which IBM\u2019s Deep Blue computer beat Garry Kasparov in 1997"
-    },
-    {
-      "headline": "GPT-6 Astra: A new generation of intelligence",
+      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
       "source": "OpenAI",
       "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-      "pub_date": 1788870523.0,
-      "article_url": "https://openai.com/index/gpt-6-astra/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "pub_date": 1788888023.0,
+      "article_url": "https://openai.com/index/navier-stokes-solution/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
+      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
-      "headline": "Nokia\u2019s AI-RAN pitch gets reality check in new study",
-      "source": "Fierce Network",
-      "source_url": "https://www.fiercewireless.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWE91M3UyZWd6Qmg0RFBuejlJMmM2TjJTdzk2blpDdTFJaUF4SjBoenhpT21ITlhkenF0WDZldEl2VUhWbjVTelNMT2M4VkJIakh5dmVoU3ZkS3ZmS3M3N3hLU2hDR2pVQW1XYWFmSHQ2ODBUNDJMV1U3U3o2MUZSOTZtcGdGNVF5dW1YUkpXeWptZw?oc=5",
-      "pub_date": 1788883285.0,
-      "article_url": "https://www.fiercewireless.com/wireless/nokias-ai-ran-pitch-gets-reality-check-new-study",
-      "image": "https://qtxasset.com/quartz/qcloud4/media/image/nokia_ai_ran_art_sept_8.jpg?VersionId=G2_4esYgfK1O9pwAThyTmtSN2TgDYh8p",
-      "description": "Earlier this summer, Nokia said its AI RAN work with Nvidia put it on track to deliver 50% spectral ga | A newly commissioned study for the Finnish vendor takes a closer look at Nokia\u2019s AI-RAN spectral efficiency claims and sets parameters for how they will best be achieved."
+      "headline": "How smaller, smarter models bring down the cost per token of high-volume AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WSXJmVDFEekVDOHdGVUNzVmJ1ZjdvMUhMd0R6ZkkxUmhtQ1pIQllpZE5FREUxOHdxSnNMVGtlOEI1b2xJd3FXbGF2NkltYm9oZ2JzOHRSa0Y5VjVvSUdFallyZjI1OFpwaVc5aVo0anE4UWM2STM0?oc=5",
+      "pub_date": 1788895104.0,
+      "article_url": "https://www.businessinsider.com/sc/task-specific-ai-models-cut-costs",
+      "image": "https://i.insider.com/6a9081a73f7df8787cff464d?width=1200&format=jpeg",
+      "description": "As inference scales, the Dell AI Factory with Nvidia provides full-stack, integrated infrastructure that improves utilization."
     },
     {
-      "headline": "Nvidia\u2019s New Partner Says Banks Want AI on Machines They Can Unplug",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtvT3Z3NER0TldrNlRMeDRPZEs2TGtlQmg2cDlocUNVUkRxckhBRUFWZzUxWUo2OVlxZDlBbW92QUI4NXZhSk1ieFQ5dmpPZUJGTHVwcWhoRmJLdm1TUGhGVzRlTjhFQ0xkLXRXTmFYcmE2cUpVNnB1VUNnMW1PaFhFZkdqR2VmajVVRUdpYlFwY2g2T1JVMjB3?oc=5",
-      "pub_date": 1788881679.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-says-banks-want-153439734.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/65ef8f9583e9fcd4357c26218f66b5ccb18167a0ffe9bbc6c183164e96705074/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fb2f9c7cb89d5cc4e471bfce65db4b79d.jpg",
-      "description": "Big banks are demanding AI systems they can physically disconnect from the internet, and the CEO of one of Nvidia's newest partners says that changes everything about where the next trillion dollars in AI compute actually gets built."
-    },
-    {
-      "headline": "Florida AG proposes criminal penalties, sanctions for AI companies over unlawful chatbot use",
-      "source": "WFLA",
-      "source_url": "https://www.wfla.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXZvWWFjR0VHVWxibE9XZEZGSkJES3llWlBFaDNyNm5NWDRBVWM0WkxvZ3hFdllydmU1SXpodjIzRTZPWHN2dkNPMUcwbUZZeFR4a0J3X2pOcnhRM1NwOGxVRG96NWZpSmJ4RERpLVFyZ3JNdXlQNzd5VzRPTjJwQlRkUUItMzY1THF5NFdGakYxY2tBei1HZDBJbTYyUk5aQmRoWURQNXVjWUlNVTdycVZ0XzJKU1IzTzZrcmJQcXZPVDZPZ3RJZFhZaE9jZE44VHZZN9IB2gFBVV95cUxPckptZjN2QVY1UGVNbFhyZG1NQ1lqb0RpeU16cXV3VTVObFhHenRRMWVhYzI1N1BWZWNXVWk3TmRZSGZPTHZ5dVpmZS1ybDY3VFZoVFZLdXU5aUd0dnJyNVc0ZHVleDNwZnpHak5lLTk4NUZyaVp0aUlNVUpELTdOdldGZDc1aW01U2Y2WmRiRUt6SjlTM010el96dFQ5SVZ3QUgtY0p5ZThQRFJSb1VvMGxjQU55YlNYUHFST0thQlUwd0pyalJUektITTNkUVhUWDhnWmZSS29YQQ?oc=5",
-      "pub_date": 1788881092.0,
-      "article_url": "https://www.wfla.com/news/hillsborough-county/florida-ag-proposes-criminal-penalties-sanctions-for-ai-companies-over-unlawful-chatbot-use/",
+      "headline": "Meta debuts Muse, its long-planned personal AI agent",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfRGVlc2VIcUxnNHEzYmdrN0JaMU40bHQyY1BXX2ZIUk9XNEgyQy1UaThkRjF3T3JuWWhRc1g4aTNfUDA1RnFfVWstVkprMFNHRm1vRGtpTWhSQ2lsYmpaY2tadkU1T0UzcEpYdENiTmJUbEY4R1E?oc=5",
+      "pub_date": 1788894231.0,
+      "article_url": "https://www.axios.com/2026/09/08/meta-debuts-muse-personal-ai-agent",
       "image": null,
       "description": null
     },
     {
-      "headline": "The Prodigy Problem",
+      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2RNUUJzRXdDUURWemZraEM0ancyaUMtZmVfTHZ5NnV5WHEwYXd6bkpCNWJUVVBidmI4OGZiaEkwWUhYZkxicmkwbXI0NFNocWpwU3VMWURpTkk5dDlJU3JNdGpvaWFKb0t4bm82a25lWDIwMTd4eWQzTkRIcV9VdFJ0YjVfT0lTVTVsWUZsMldSZw?oc=5",
+      "pub_date": 1788894000.0,
+      "article_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+    },
+    {
+      "headline": "Meta debuts Muse, its long-planned personal AI agent",
+      "source": "Anchorage Daily News",
+      "source_url": "https://www.adn.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk9CMUlCc29nR2c1Z29RVWJTSlE2UzdXSFlWM25COHdkN2dWaFl3ZnNIaHRQa2MyUTZEWTVMcS1yMnA1a1VfdjAxTjZBZ3M5ajBpbVRwTjJxOThOM0k3dUxIM05BeTdIbDZXU2VJNXI3NjJvZDZZcERyM1hqODJMS2VjX0RRYURIejhXckdTcUJjVnY1VEpRdmVRWXo3WG1IbFE?oc=5",
+      "pub_date": 1788895250.0,
+      "article_url": "https://www.adn.com/business-economy/2026/09/08/meta-debuts-muse-its-long-planned-personal-ai-agent/",
+      "image": "https://www.adn.com/resizer/v2/EDA5SKHKRLDE6OXWMD7HUQ4ZTA.jpg?smart=true&auth=7a1521285338700313f8a8e8b3faee3dae2dc9338a1d8137413657b8b250fcfe&width=1200&height=630",
+      "description": "The parent company of Instagram and Facebook said the agent can help with day-to-day tasks like schedules, shopping and long-term goals."
+    },
+    {
+      "headline": "The 24-Year-Old Who Lost Billions",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55UXViVlhsNE5xd0FVbTVQeWd0R0tiTm5wRUdxUXJnRzlGdlVvaTJ3bWVtcWh0Vm5hRm84Um5YQlQxbk5YN0FDRW1mYTVfWHJ2bzU4TnRfa0pVUjRPcEw0NDZzWmNtbExMcERoWjFxdVY1dkE1T1lyZnIwa1d1dw?oc=5",
@@ -75,36 +65,46 @@
       "description": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions."
     },
     {
+      "headline": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
+      "pub_date": 1788872992.0,
+      "article_url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+      "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom."
+    },
+    {
       "headline": "Qualcomm Signs Deal to Provide Amazon With Custom AI Chips",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW1hU1pNeTJmWkxPNUlFdDhQMnlEUDhOM294M2RtOVJZWWgyamZKaDlQNTk0Q2IxY2hMcW5uT3pUaERIRmFlN0d0RVgySFVZeHNfSTNMeC0xMVNuS0FKbkQ5NDk5RE9qOU9FOGpzbXk4U3ZFVmdUTm9HeUtfUW9WTmxydUJVX25ULWM2ek1ialFNdWY1a3RDbk52YWpxMlVZSk40bjg2M2VOREhzQ3c?oc=5",
-      "pub_date": 1788874935.0,
+      "pub_date": 1788888651.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
       "image": null,
       "description": null
     },
     {
-      "headline": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
-      "pub_date": 1788878326.0,
-      "article_url": "https://www.reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08/",
-      "image": null,
-      "description": null
+      "headline": "Qualcomm Shares Climb on Amazon AI Infrastructure Deal",
+      "source": "Investopedia",
+      "source_url": "https://www.investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0dkYnNJTlNDRmc1SVZjdWZaY3htdkQ3Q1hiQWMxbEtEWDByLWFjUXFyaW1MZ0EyOGV0N3ZoTVZhYy1aX2FBN2RZMklPSE5DbTFtVHNCcmxIZ2dIWng3a215TE4zQWRIQ0h5M2EyT2MtOHl4VHg2NXV3YUgyMVNYU1pTTlpvMDhxRl9mU1Q0STQyMURoOVRrbGxPWnBmZjFRMVNSQnAtWlc0RGJnOEotVlpPLVMwclUxUkJqVmFn?oc=5",
+      "pub_date": 1788894276.0,
+      "article_url": "https://www.investopedia.com/market-update-qualcomm-shares-climb-on-amazon-ai-data-infrastructure-deal-qcom-amzn-12111514",
+      "image": "https://www.investopedia.com/thmb/l2JUTXyjijXHp2lJEFvDFCVMzeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2286645290-b734da2918424e5b96a05e8ab3383592.jpg",
+      "description": "Qualcomm\u2019s stock is getting a lift after the chipmaker announced a new partnership with Amazon."
     },
     {
-      "headline": "Amazon Just Handed Qualcomm a Slice of AWS\u2019s AI Buildout",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXZQcjgwdzl2OHg4Q1dlMTJEMl8xTXZIT1ZuaXY0ZTdpRkxhRHhjTUlmZEtSVzZ3VjFjazVCRGlHdktTMHY2T1I0aTFycTFBTFVwOUYxUVhKZGtxYUJKcU5XQk5kTDYxZHh1dG9QVTZ2WmI4MVVIU0Z4OVFhOWVURm5JOVdVLVNqRHNuOFc2UWFaRWVBN091WTJuNjZGQQ?oc=5",
-      "pub_date": 1788879391.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/amazon-just-handed-qualcomm-slice-145631339.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b25bba97ac83de0c26668d57551cfd0db3df0024883fc841ae5665d5e32e94a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b95f67b9f3384ebc9a54bd9a552e918.png",
-      "description": "AWS is sitting on a $496 billion backlog and doubling its power capacity, and the pressure is now pulling a surprising new name into the AI silicon race alongside Broadcom. Whether that newcomer can actually deliver before the window closes is the real question."
+      "headline": "The House Democrat who\u2019s making AI regulation her No. 1 priority",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWHNGVC00NFBFSFNvVDN3cnJfU0ZkUDJBV01WX003akNlZmF5U1NwVUw3OUc3a2lqT3ZFMkZTTzk5Qm51YjFUTzlqa3BSMzFaamtXaE8yZ29GODR6Q0xSdVFrTzJQS1k1Vk1LLU56UGROWG53NkE3UHMxRkFTaXdzMg?oc=5",
+      "pub_date": 1788857100.0,
+      "article_url": "https://www.politico.com/news/2026/09/08/lori-trahan-ai-regulation-01065989",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T16:08:04.697635+00:00"
+  "fetched_at": "2026-09-08T19:30:35.055512+00:00"
 }

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-08T19:30:09.659112+00:00",
+  "data": {
+    "url": "https://openai.com/index/navier-stokes-solution/",
+    "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+    "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
+    "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+    "site_name": "OpenAI",
+    "author": null,
+    "keywords": null
+  }
+}
