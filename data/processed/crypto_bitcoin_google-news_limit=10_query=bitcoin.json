@@ -5,64 +5,54 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788813984.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
+      "headline": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5",
+      "pub_date": 1788753900.0,
+      "article_url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin's (BTC) golden cross is here. What next?",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wbjcwdWMtV1loM2RDMXZnR3E0NkdrRDFmc0VOemxCY08yN3VieWxTYVRUZkU2YnJIUTh0QmkyN0tRNVVPV1EzMnd3dURVY3JhTWRDSG5CcEtfcnNlallPcFg1OXpKRXBuNFFLYXA5Mm5OcVBkUElGbnJUZnd3QjQ?oc=5",
-      "pub_date": 1788846983.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "MSTR, COIN, CRCL Stocks Dip: Crypto Equities Pull Back After Bitcoin's $82K Rejection",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ281SS1tSFd2ZGZLUXJzSExHREtTZFFpbjdTbVpVbzFzNENkSW1KS2htYWRLeklYaGRXbUNjYnJFTXRfRjhmVzBBNW9NWldmWUhCM0dzQUhQV2YyTy0tUHVVZ1Nqcm5UelRucGh3bHAyN0d6TkYydjlfc0FMNTdDdzhjbmNkWWlLMzE3cUpfV1FQaFRa?oc=5",
-      "pub_date": 1788864507.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/mstr-coin-crcl-stocks-dip-104827495.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/240b6a849f27d52a8e3a28990e22887045c7a6010b4dde3a34c6adedff4a7026/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F85783af63136d92c373d1e8d96da0397",
-      "description": "Ethereum outperformed Bitcoin over the past 24 hours, helping shares of ETH treasury company BitMine Immersion Technologies edge higher in premarket trading."
-    },
-    {
-      "headline": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+      "headline": "Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RRkp1TFJGVkEwTnBBcU5fRUxVV2hhd2tRcWdCTlpNTmtDXzVSYVdoUFowQlljXzAwaVJSR2lIMnN5TDNoZ0lGV3F5dWNKQUhXVmRwU2JjYm9RZWEwRWN5d3poTQ?oc=5",
-      "pub_date": 1788859698.0,
+      "pub_date": 1788878758.0,
       "article_url": "https://www.coindesk.com/tech/2026/09/08/live-updates",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Battles $80K While \u2018Crypto President\u2019 Faces 25th Amendment Calls Amid AI Posting Frenzy",
+      "headline": "Bitcoin Forms Bullish Golden Cross",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcG1WcjhLc01FV1YyYlNVSWw4RVFSM1IzNVB1bDRUQWVZOGtkdkJGQWMzQmdJYU5kaXF0UXNiQzFzZElFT0dZd3lSbmNJYmxiYzB3XzkyemxKekVyZlUxVjVrZFlUUUQtUnctNVZ4alVJQjg0d1FMa1NqemZFN2xQaV9MdDJxVjZOVlNtQlV4MlNNdGtCQ3R3VE9FVTNjZw?oc=5",
-      "pub_date": 1788864135.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-battles-80k-while-crypto-104215221.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/26751a23fe924aaa8bf8208a34d4a2db2524a46c33b41ad0c2332ae9cf8d4053/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fba939021945631ab79b78c6f683efc1e.png",
-      "description": "Bitcoin is struggling to reclaim $80,000 as short-term whales sit on record unrealized profits. Short-term whale paper gains reached an all-time high of $9.07 billion ..."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejVQaVIwc3ZCM21WNTNsempJdTBzUG42WVNDRElZWmFkR1prQzlMeDdBYVhwYmZ6OUF3aVdiLXcyR1R2eHV2ekZ5OXJySE1MWU9sbnZwM3M2dkh4R3hiLUZ4bTgtNVhnQU15SWxnVEFUdlRqVTh0NUdDUmNzWXg1NnpTS2thTldyeURpYjhpZ2FxWXJrQkl0eTViR3I0N1B5?oc=5",
+      "pub_date": 1788877200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-142000774.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2151e394e49c710b6961efdd031e949ed489424d2f64ac65f4cd8a6b4d314de0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F0ffd80591401a9444f795ffd8ef1086a.jpg",
+      "description": "Bitcoin (CRYPTO: $BTC) has once again formed a bullish \u201cgolden cross\u201d chart pattern, suggesting that further gains are likely for the largest digital asset. A golden cross is a ..."
     },
     {
-      "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
-      "pub_date": 1788781980.0,
-      "article_url": "https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d",
+      "headline": "Latest Crypto News: Bitcoin Near $79K as Apeing Announces Presale, Ethereum and Solana Move Forward",
+      "source": "Binance",
+      "source_url": "https://www.binance.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWXZtYXlpeGRLWV9EZ2Vkb1FLUzZyLVN5NXRieFBqdl8ycEUzclh1OGhpRk11aEZBSkNoV2pYb2NnU2RXMWhmbGxEa3RzNUVlaDNpTEw2dVFaWURwOTdjdnRXbVo?oc=5",
+      "pub_date": 1788874389.0,
+      "article_url": "https://www.binance.com/en/square/post/364475145675932",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Party's over for scammers who went on spending spree after $240M bitcoin theft",
+      "source": "NBC4 Washington",
+      "source_url": "https://www.nbcwashington.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObkl3U2tzcm80T2oxdXJ3ZXVUY3NDTDZoa3BIR1dOb2p0TkxQc3BTN0R2WDgtaGRjTmhjaDlMUGFqNGxnU2w1c29NaDAxZ0pUZjZKWWxEN2NHWk1PdGhVdkNjWkppMlJiOURyVmtralRJV3pWdWFJOTgwenFjaUNZWFBXQ1ZkVEI4TzhSUkdrcy1xNERfd3JxeGdaU3g5aWhqUlYwMFRzT0pldlhvRTJkRllQS2pRVk1OMnZsNlM0bVh5cjgtZVd1eFp30gHSAUFVX3lxTFB1cHFsNk4ySi1BeU4wSUVoVVZvY3V2TE81Y0t0SnBIV2dMcEV1SXBySG8yS2FhLWpNazdwTm5nb3F6SDktNTNOX3BFWHdvYjg1OEdHNC16ZHdfbHBPUGQ1UlNjaWgyZkpycGhoVW56SDhyZllsMUtVai10TFZxdklIM1dBT2wzcjFOMzVOMUlkdkFHMjJQZFNIUUVGaEs0VEVyWGxKM1JNcGpXMHFfTDFyZFN1MldyWDVrYTFxRVpWNUNQMUtjc2VjNDhHQThibG1FUQ?oc=5",
+      "pub_date": 1788798496.0,
+      "article_url": "https://www.nbcwashington.com/news/local/partys-over-for-scammers-who-went-on-a-spending-spree-after-a-240m-bitcoin-theft/4151017/",
+      "image": "https://media.nbcwashington.com/2026/09/GettyImages-2291728002.jpg?quality=85&strip=all&crop=0px%2C395px%2C3781px%2C2127px&resize=1200%2C675",
+      "description": "Here\u2019s how a group of young men allegedly manipulated a wealthy D.C. man to get access to his crypto account."
     },
     {
       "headline": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
@@ -75,36 +65,46 @@
       "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions."
     },
     {
-      "headline": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1VCUTAyTlpWbGlRN204NDVYMUJGWENybWtkdldNU3FleEdUTy0xNWVLUjZfMzkxYXkySHBkQ2FHV1loM2c4ODlSQlRSNDJFcGFTOW5ZTEs1YVJIcUM3T2lxdjBsYkJYVUdUSE5DcW9ROHB3aHBfaW9ZQ0RSMkt2ZmhjWk5ad9IBjgFBVV95cUxOUnlGb0xiS3paaXptRlRhMzFUQ203NXNVRHR5RHhDSV82dXd0Z0ZpWmsyYWpvcVN3OWlTN1hELWpTUnAtQ1U0OEZEaHdSVEFuUlRyQkliM3k1VGRfOWlEWVMxd3k5M0NYRU5QaXZKR3hJQ3c5OUFBVzRSRVZnaUhmRDlidDBkcDdZbzR6WTN3?oc=5",
-      "pub_date": 1788802915.0,
-      "article_url": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
-      "description": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami."
+      "headline": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaklhUnRyUzJDemNDQTdPSlBIM3pnTFpTbWtjQUdWU3VMX0JhQ0Q5NE1BZ180OFdRMHBoY3Z0VW9QTGRKYURGdGJaeUdIQk1SRmpjcHh2anFOQU5EQnRzZjVtT1V6ZlUwdWxXZk4zNDZSOG14Z25EYmRzeXdJVGlDbU1MOERiWUwwYkU5WjB5cjAyR0J4VHFqcTBGaUhhZktnRzVDaS0wbTlRQ245TXRPV01SdzVodXFDd2hhdGZnMVZ0Z0RMUHk3ejhGTzlKX0pBQkZ4eFRtcXVLb00tbHBSWTlB?oc=5",
+      "pub_date": 1788802349.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:7ae3f0c1b094b:0-singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The oldest trick in the con artist's handbook, updated for the crypto age: call someone pretending to be from a trusted institution, create enough panic, and walk away with their life savings. In this case, the life savings happened to be more than 4,100 Bitcoin, worth over $240 million at the time\u2026"
     },
     {
-      "headline": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnprUDVsZHdrT2xxU0FfaHRpN1lLZ3FNR0lzaEJsRVJQMFR3Vm85MWZrbjRNR1dtNzJIWFZlOUZPT3QwUTRzY2VuR214Rm9lWDVkYjRvR1NoRWd5dVRzdGhNYmJoQUthM3g1NkQwNzB1ZGhLUC1jeGo3enRvY1p2b0xTYUxlVWNsZTlWMFNmczlJWFhNb0dWM2dSM2F6VDBIaTR1ZFRYSVJHc01HdFNQUnd0MmI?oc=5",
-      "pub_date": 1788802203.0,
-      "article_url": "https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week",
+      "headline": "Fire Marshal\u2019s report reveals problems at Bitcoin mining data center site",
+      "source": "KFOR.com",
+      "source_url": "https://kfor.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjhlNnk0SWtzUjgzV3hRVXA2ZjBnZDc4dExrMzRiTm5Db1pxQ3JkVHlYVGNsSkJsZzhhMTQ5OTZycEJWMVNsV0EwOHRRYkpaeFNBRUo2WkRMekNJTjRza3lPN043eUhrMjYwR2s5UUVHSkdQN2Q4cXZoWm1TQUpZWTdkWGxja29ZNDBjX0QyQjZoeHdlejctRjNSSHVFZHJaT0Rz0gGoAUFVX3lxTE1RcGUwdWgweEtrM3N4OWpVb195VjgzNmRLZThKbUZwT1JBOHIwWDJ3eURnSF9HSFV4VVo1R0ZtOUxhaTRxcE5NbVVPQmNFd3lvYlV0N0VqcTN4N095OHJVS2xDaEZ5bHFUakZMeUNobEVkOXNrVnhJLVhlQW4wWk5GRENzUVJJVDZsdm1TYVR0N2ZBSkNleU50RkswajNETGU2ei1ZODJSbQ?oc=5",
+      "pub_date": 1788867921.0,
+      "article_url": "https://kfor.com/news/local/fire-marshals-report-reveals-problems-at-bitcoin-mining-data-center-site/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVE1fRzdHLVZ1TXN4T2pHWldwTDRoLU9ZeDJoNUFFWUpha09xc1ZDNmVyOWVvbUFtVEFIOFpKTWgxMUpQc2xOT2RoUXV4ZUJ4eG5FendVR2drQmYtUGhUbTY1U0ZMOE90bGRSUUY1Q0lCMzBTYlRMSEtWME5YY2lFZ01JTWJlR0w2bFVuVUxCYUtSVkZPQjhjUk9XWjZ2MjJtbHpEY2NUU2JWT0JGY1c1VEM3Y1JoNnBqTFM3b2t5akVrNi1CVEVqeHVTeTRFNUh5NS13RFotRWRsTlIzb2JSMHhOaTVmaFZyWlFraUVHdzR2aFh0U1YyWVZ3VlV6aTl5ejkxMUpQcW1yRF9IazhQZ1NBMDNCRU9MSWc?oc=5",
-      "pub_date": 1788833700.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la\u2026"
+      "headline": "Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures \u2014 facility operated for years under a city stop-work order",
+      "source": "Tom's Hardware",
+      "source_url": "https://www.tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSG14V0NNdFlOUlVMVHFSVzBENmRiMnVtZGtIb2VxX3lYYU5DeGNLYy1YeGJYN0dGN1JaMU9MVHhnaUtnRlJkSmIyMzZsZkVXU2toTjdaOWU4ZlY3dVd0ODMtRC1UdzdIeEhiVzFIUWhKVnZTVWpVVGo4c1N1S0V1RWpGejNQSXk3SnEwbmR2U0M3ODJmUnpPZ2l3eEhhaUVpUEJfX09ScWhFTldqbVpqR0hGUDZieXdnLURfZ1JtcmZRREtfd1NMY2VuQkJrNnRoQV9xQWpra3VpUklxWHYtb3k2OHg2MTRaZWJhOVhUSXBfY0J0S084Rm9fd2RmMzBVUHFBNnR0b3JURzhiSm5XZGstS0ZlWWxWWW1KdFQ5OGJJRDE3VlRYVkZRZ0puUFpLaWQ0YV9SbU1ONnJSSmhF?oc=5",
+      "pub_date": 1788702262.0,
+      "article_url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
+      "image": "https://cdn.mos.cms.futurecdn.net/XmuLkBe7w5p64DzyCY4eH5-1920-80.jpg",
+      "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens."
+    },
+    {
+      "headline": "Hyperscale Data Center in Dowagiac stops bitcoin mining operations",
+      "source": "WNDU",
+      "source_url": "https://www.wndu.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnLSAbABQVVfeXFMTXFRcXRQMC02YkxqaTNPdXlVU3piU1c2Ny01WEZMeEl0VmpKclo1VWdyQmxTUDZOMG9XWk1FWE1KRk14TmQwbWJ5MU9NYV9DbVZxRnY5a3RDYURRczQzTTB4M2JQLTNLeVZKRTF2WWZ1emRwemRFTHZ5eWxwNVdCaE9ZeWpOeGNVWko2R3ZxS1M2OWJWUzM0My1qeVloQVgyQ1hod0ozWlZRblZxRHFmVUw?oc=5",
+      "pub_date": 1788646980.0,
+      "article_url": "https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/",
+      "image": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/G3TH5UECYRH6NLHFPLKFZYXN6E.png?auth=8d038e9d7e6ec81eea37503ccc49127c0bfbe6546cebfad3497e3c1543530f89&width=1200&height=600&smart=true",
+      "description": "Bitcoin mining ceased operations on Sept. 2."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T11:35:47.012368+00:00"
+  "fetched_at": "2026-09-08T16:07:49.992325+00:00"
 }

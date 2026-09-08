@@ -13,6 +13,17 @@
       "description": "I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to \"a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task\", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the \"intelligence\" or \"agentic reasoning\" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's \"just\" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint?"
     },
     {
+      "title": "AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/",
+      "published": 1788849077.0,
+      "thumbnail": "https://external-preview.redd.it/Xxjd2J3z1uTl-AQmrycc0nYAuVNGc7PUjdD2J8kt7ac.jpeg?width=640&crop=smart&auto=webp&s=bda78c712c3f102d4068abe4bb0a93c11cd5d289",
+      "external_url": "https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek",
+      "site_name": "bloomberg.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Crazy times",
       "author": "KeanuRave100",
       "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
@@ -35,6 +46,28 @@
       "description": "It's not surprising that software development is one of the first jobs that AI has really transformed. It's text-based, economically valuable, and generally of interest to the kinds of people inventing and training the AI. There's also a large amount of training examples available online. The job in most cases is now: You are a manager of robots who do things that used to be your job. You're responsible for what they produce and so the skill and art is in guiding and reviewing their work. It seems likely that one by one most jobs will turn into the above description, over the next year or three. Of course the domain will vary, so your knowledge and expertise used for instructing and verifying what the robots do will be what matters. This means there will still be a big difference between the jobs of e.g. an architect, surgeon, or builder. Probably the same basic kinds of robots in most cases, but requiring very different kinds of oversight. If that's the case then everyone needs to learn the job of robot management, well and quickly. I don't know how we do that, but I think that's what we need to accomplish as a society."
     },
     {
+      "title": "As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds",
+      "author": "sfgate",
+      "url": "https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/",
+      "published": 1788876863.0,
+      "thumbnail": "https://external-preview.redd.it/iBC7XARk1-m6AKv1IGbdfAY_vu-7EnEo6rr75doqLzY.jpeg?width=640&crop=smart&auto=webp&s=a16991c6383c7875919b0415031c945db81be449",
+      "external_url": "https://www.sfgate.com/california/article/edge-data-centers-fairgrounds-22418042.php",
+      "site_name": "sfgate.com",
+      "favicon": "https://www.sfgate.com/favicon.ico",
+      "description": null
+    },
+    {
+      "title": "Hidden in plain sight? An entirely new class of memory-native AI architecture?",
+      "author": "ctbi_wustl",
+      "url": "https://www.reddit.com/r/artificial/comments/1waowjp/hidden_in_plain_sight_an_entirely_new_class_of/",
+      "published": 1788875270.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Paper: CompBio and MIRaS - a multi-omic analysis platform built on a memory-based intelligence engine Nucleic Acids Research (2026) PMID: 42635126 DOI: 10.1093/nar/gkag833 https://academic.oup.com/nar/article/54/16/gkag833/8769250"
+    },
+    {
       "title": "I took a ride in the hype train at first, but no, not AGI",
       "author": "Firm-Club-8334",
       "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
@@ -46,15 +79,26 @@
       "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
     },
     {
-      "title": "AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/",
-      "published": 1788849077.0,
-      "thumbnail": "https://external-preview.redd.it/Xxjd2J3z1uTl-AQmrycc0nYAuVNGc7PUjdD2J8kt7ac.jpeg?width=640&crop=smart&auto=webp&s=bda78c712c3f102d4068abe4bb0a93c11cd5d289",
-      "external_url": "https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek",
-      "site_name": "bloomberg.com",
+      "title": "Study: Generative AI succumbs to conversational misinformed pressure and argument",
+      "author": "UniversityofArizona",
+      "url": "https://www.reddit.com/r/artificial/comments/1wasl20/study_generative_ai_succumbs_to_conversational/",
+      "published": 1788883457.0,
+      "thumbnail": "https://external-preview.redd.it/FEoBrt200-MFdwdPgHU6wdxaRPvOGy32m35kzHeAqoA.jpeg?width=640&crop=smart&auto=webp&s=5764c3f7a6376857d858fba352e41761bd4b9a68",
+      "external_url": "https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument",
+      "site_name": "University of Arizona News",
+      "favicon": "https://news.arizona.edu/profiles/custom/az_quickstart/themes/custom/az_barrio/favicon.ico",
+      "description": "U of A research assessed seven different generative AI language learning models. Their work reveals intrinsic limitations that might go undetected during one-off interactions."
+    },
+    {
+      "title": "Can AI makes spelling mistakes?",
+      "author": "senopatip",
+      "url": "https://www.reddit.com/r/artificial/comments/1was1y4/can_ai_makes_spelling_mistakes/",
+      "published": 1788882323.0,
+      "thumbnail": "https://preview.redd.it/n3dg9b8xgboh1.png?width=140&height=105&auto=webp&s=2d91dcbb9d60c452373b1243041f2c6ade5c3fbd",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "https://preview.redd.it/n3dg9b8xgboh1.png?width=766&format=png&auto=webp&s=b93cb48811cb21df21fafdfa082a202ef3a306ba So, I asked Gemini questions about a game, and it answered this. Is that a bug or what? Later when I asked about that, the response is: That was a typo on my part! It is not a real word. I meant to type \"dismantle,\" as in: the Fallen Empire will demand that you dismantle your outpost and abandon the system. Thank you for catching that! Why is it behaving like this?"
     },
     {
       "title": "Introducing AstraBlender! Real Blender that ChatGPT can use from a simple prompt sent from your phone on the ChatGPT website ;)",
@@ -66,51 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Simply prompt ChatGPT work (or any other agent with a cloud browser, like Grok Bot) to go to the website and use blender. From your fucking phone! No nice computer required. No terminal codex. No blender install. None of that is required! Just prompt ChatGPT from your phone! Browser blender already exists, but it requires webgpu, which agent cloud computers don\u2019t have. Blender via MCP also already exists. This though, where you can simply prompt ChatGPT from your phone to use blender, does not already exist to my knowledge or astra\u2019s knowledge. How this works: I have blender and astrablender installed on an OCI cloud computer. It is streaming a browser desktop of that OCI cloud computer using selkies/linux server. The agent accesses the render website with the browser desktop from its cloud computer and operates it from there (you can prompt it to use blender from your phone!) This means I am paying real money to keep this running. It is free to use, but I have limited compute. As a result, only one person can be using this at a time. First come, first serve. If I reach my compute budget, I have to take it down until I can afford more. I am losing money on this free service. Please consider leaving an optional tip on the website if you find this useful. I will use the tips to buy more compute, hopefully enough so that everyone can use it at the same time. ALTERNATIVELY: This is open source. https://github.com/dakotalock/astrablender If I run out of compute or you just want your own, you may make your own. Here is what you need to do: Set up an OCI computer (they do have a free tier) Have your agent install blender and astrablender from the repo on that cloud computer. Set up a render website if you want a frontend for it. That\u2019s it! Free for everyone! All I ask is that you leave a star on the GitHub repo if you use my work. Please enjoy agent blender access from your cell phones!"
-    },
-    {
-      "title": "Musk Loses Bid To Block MN Law Against AI Child Porn",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/",
-      "published": 1788721671.0,
-      "thumbnail": "https://external-preview.redd.it/r1K1i9LfxCafaqhbjh0gkENA7_en7C3i9HbWXTu2rKo.jpeg?width=640&crop=smart&auto=webp&s=b703419af8aace14504f9d7f77b2b7c58bc8abc9",
-      "external_url": "https://www.joemygod.com/2026/09/musk-loses-bid-to-block-mn-law-against-ai-child-porn/?__cf_chl_tk=8ecS8MZsG5kLxKOM9bn_OhtsSwkCeqv0nsm2KhSmayw-1788721611-1.0.1.1-qjvzErCp_nbPvJvAiboEjrydGx2Tw9tgtvvhETjw5T4",
-      "site_name": "Joe.My.God.",
-      "favicon": "https://www.joemygod.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "description": "Politico reports: A federal judge Friday refused to block a Minnesota law prohibiting the creation of sexually explicit deepfake images that\u2019s being challenged by Elon Musk\u2019s artificial intelligence company, SpaceXAI. U.S. District Judge Donovan Frank said the company, formerly known as xAI, waited too long in making its last-minute request to temporarily block the law \u2026"
-    },
-    {
-      "title": "Which AI is the best for helping me study?",
-      "author": "MemoryMemory1",
-      "url": "https://www.reddit.com/r/artificial/comments/1wal3wc/which_ai_is_the_best_for_helping_me_study/",
-      "published": 1788864964.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Now, I know this may seem like a dumb question. ''Why would I want AI to help my studies?'' I failed at the first university entrance exams I took. And now, I will study for a year again and try to enter a university. And when I study, I obviously cant solve every question correctly. And whenever I look at the video solutions of those questions, it doesnt help me at all mostly. Sometimes the teachers skip the important details to finish that video as quickly as possible, sometimes their mics barely work or they are too loud, sometimes they dont even bother to explain at all. So, I started using AI for it last year. I tried both GPT and Gemini so far and I concluded that Gemini just solved it better. It is my personal opinion, I might be wrong too, I dont know. And so, I got the paid subscribtion for it. But those prices are expensive in my country. And I can really use only one AI. And now that everyone is saying Gemini is just getting worse, Im worried. I would appreciate any advices or opinions."
-    },
-    {
-      "title": "Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/",
-      "published": 1788817630.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The hikers story happened September 1st. Three guys from Roseville used Gemini to plan a Mount Shasta summit. The AI told them to bring far less food and water than they needed. They summited at 7pm, four hours after the recommended turnaround time, descended in the dark, one of them hurt his knee, and they spent the night stranded in a canyon until rangers found them the next morning. Google says they can't replicate the bad answers Gemini gave. Maybe the prompts were vague. Maybe the AI was overconfident. Doesn't really matter which. What matters is that three people trusted a model's output as expert advice in a context where being wrong had serious consequences. Two days later OpenAI launched GPT-6 Astra. 99.9% on ARC-AGI-3, 97.6% on FrontierMath Tier 4, 100% on ExploitBench. OpenAI is calling this the start of the AGI era. Independent benchmarks from Artificial Analysis are more cautious and show Anthropic's Fable 5.1 still ahead on the broader intelligence index. But here's what I can't stop thinking about. The hikers story and the capability story are not separate things. Every time a model gets more capable, more people trust it in higher stakes situations. That gap between what the model can do and what the person using it understands about its limits doesn't close automatically when capability improves. If anything it gets harder to manage because the outputs get more convincing. I work with organizations on AI adoption and the single most common thing I see is not people being too skeptical of AI. It's people not knowing when to stop trusting it. What's your take? Does more capability make the trust calibration problem better or worse?"
-    },
-    {
-      "title": "Why aren't ARM chips more prevalent?",
-      "author": "ShortyJack06",
-      "url": "https://www.reddit.com/r/artificial/comments/1wahe3m/why_arent_arm_chips_more_prevalent/",
-      "published": 1788852024.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So, I've had this question floating around in my head for a while. Given the high amount of power that generative AI uses, why aren't we using ARM based chips for data centers? They consume far less energy than x86 based chips and the technology has improved exponetially in the past ~6yrs. If it's because of hardwar constraints, what exactly would need to change for ARM chips to be considered a viable chip architecture for this purpose?"
     }
   ],
-  "fetched_at": "2026-09-08T11:35:24.345351+00:00"
+  "fetched_at": "2026-09-08T16:07:29.976102+00:00"
 }

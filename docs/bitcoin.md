@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-08T11:35:48.300632+00:00'
+updated: '2026-09-08T16:08:06.331580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 11:35 UTC  
+**Last Updated:** September 08, 2026 at 16:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,733.21
+### $78,528.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +1.7%  
-**30d:** +22.7%  
-**90d:** +23.4%  
-**1y:** -29.7%  
+**24h:** -0.4%  
+**7d:** +2.2%  
+**30d:** +23.2%  
+**90d:** +23.9%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1574.37B
+**Market Cap:** $1582.21B
 Rank #1
 
-**Circulating Supply:** 20,081,356 BTC
+**Circulating Supply:** 20,081,431 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.8%
+-37.5%
 
 **All-Time Low:** $67.81
-+115518.6%
++116124.7%
 
 ---
 
@@ -87,7 +87,7 @@ I've been HODLing since 2013. I've sold probably two thirds of my original stack
 
 **[Bitcoin will overtake: The British pound at $214K. The Japanese yen at $499K. The Euro at $943K. The US dollar at $1.2M. Gold at $1.6M.](https://www.reddit.com/r/Bitcoin/comments/1w9upis/bitcoin_will_overtake_the_british_pound_at_214k/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -95,7 +95,7 @@ I've been HODLing since 2013. I've sold probably two thirds of my original stack
 
 Bitcoin has spent 17 years surviving one of the most adversarial environments in software. But Bitcoin Core isn’t where most users interact with Bitcoin. They interact through wallets, hardware devices, Lightning implementations, libraries, exchanges, signing infrastructure and other software built around it. Over the past few months, I’ve been researching the security of projects across this ecosystem, and the uncomfortable part isn’t that vulnerabilities exist. It’s how little continuous adversarial security research some important projects actually receive. An audit is a snapshot. Open source doesn’t mean someone capable has actually reviewed the code. A large number of users doesn’t mean the project has been continuously attacked by security researchers. And then there’s the incentive problem. If reporting a vulnerability responsibly means hunting down a contact, waiting weeks for a response, receiving no bounty or recognition, and sometimes being treated as an inconvenience, eventually good researchers spend their time somewhere else. Blackhats don’t need a disclosure policy. That leaves us with a strange situation: Bitcoin teaches us “don’t trust, verify,” while much of the software surrounding Bitcoin is trusted far more than it is independently verified. I ended up writing a fairly detailed piece about what I’ve seen and why I think this is becoming a real problem. I’m not linking it here because I’d rather this not turn into self-promotion. But I’d genuinely like to know whether people working deeper in Bitcoin have noticed the same thing.
 
-21h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea497bc49a46d 😂
 
-18h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea49
 
 Over the past few months, we’ve been putting our AI security audit agent against real Bitcoin code. It has already helped us uncover and responsibly report multiple security issues across projects in the Bitcoin ecosystem, including: Bark, Syscoin, RGB, Ledger, Bitcoin, Bitkey, BDK Wallet, Keystone, Lightning Labs, Lightning implementations, Krux, KTH, BitBox, BCHD, Mostro, ACINQ, LDK, Cake Wallet, BIP32/BIP39 implementations, tiny-secp256k1, Blockstream Jade, Elements and others. Now we want to go further. We’re giving 3 Bitcoin projects a security scan at zero cost. We’ll run our agent against the codebase, manually triage anything interesting, and responsibly disclose confirmed security issues to the maintainers. We’re particularly interested in serious open-source Bitcoin infrastructure protecting real users or funds. Maintaining something in the Bitcoin ecosystem? Drop your repo below.
 
-20h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Over the past few months, we’ve been putting our AI security audit agent again
 
 Looked at Bitcoin-related tweets from the last six hours and the sentiment split is almost eerily balanced: 25% FOMO, 25% FUD. That's not a huge skew either way, which honestly tells its own story: nobody's convinced of direction right now. The bullish camp is leaning on ETF inflows and institutional adoption as reasons to expect a bottom is forming. The cautious camp keeps bringing up regulatory uncertainty and geopolitical risk as reasons this could still slide. What stands out is that both camps seem to agree on the technical picture even if they disagree on the outcome: resistance sitting around 65k-66k seems to be the level everyone's watching for a potential breakout, with a range-bound market in the meantime. A perfectly even FOMO/FUD split like this usually shows up during consolidation phases when the market hasn't picked a direction yet, rather than during a clear trend. It's less about a specific catalyst and more about traders waiting to see who blinks first. What do you think breaks this stalemate first, a macro/regulatory headline or a clean technical break of that 65k-66k zone?
 
-19h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ Looked at Bitcoin-related tweets from the last six hours and the sentiment split
 
 Looked at the last six hours of Bitcoin-related tweets and the split is closer than I expected: 20% FOMO versus 15% FUD, with the rest sitting in a kind of wait-and-see zone. That's not a wild imbalance either way, which is honestly more interesting than a lopsided reading would be. What stands out is the reasoning behind both sides. The FOMO crowd is leaning on continued institutional and ETF interest as the bullish thread. The FUD side isn't panic-selling type fear, it's more about worry over a slowdown or a breakout getting delayed, tied to regulatory headlines and macro signals like rate expectations. So it reads less like fear of a crash and more like fear of stagnation. The fact that neither sentiment is dominating suggests the market is genuinely undecided rather than euphoric or panicked, which tends to happen when everyone's watching the same external catalysts (regulation, Fed commentary, ETF flows) without a clear resolution yet. What do you think is more likely to break this stalemate first, a regulatory headline or a macro data print?
 
-19h ago
+1d ago
 
 ---
 
@@ -157,43 +157,37 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack](https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack)**
+**[Bitcoin-based Liquid Network says $320 million withdrawn in hack](https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[Bitcoin's (BTC) golden cross is here. What next?](https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here)**
-
-CoinDesk • 5h ago
+Reuters • 1d ago
 
 ---
 
-**[MSTR, COIN, CRCL Stocks Dip: Crypto Equities Pull Back After Bitcoin's $82K Rejection](https://finance.yahoo.com/markets/crypto/articles/mstr-coin-crcl-stocks-dip-104827495.html)**
+**[Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher](https://www.coindesk.com/tech/2026/09/08/live-updates)**
 
-Ethereum outperformed Bitcoin over the past 24 hours, helping shares of ETH treasury company BitMine Immersion Technologies edge higher in premarket trading.
-
-Yahoo Finance • 47m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets](https://www.coindesk.com/tech/2026/09/08/live-updates)**
+**[Bitcoin Forms Bullish Golden Cross](https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-142000774.html)**
 
-CoinDesk • 2h ago
+Bitcoin (CRYPTO: $BTC) has once again formed a bullish “golden cross” chart pattern, suggesting that further gains are likely for the largest digital asset. A golden cross is a ...
 
----
-
-**[Bitcoin Battles $80K While ‘Crypto President’ Faces 25th Amendment Calls Amid AI Posting Frenzy](https://finance.yahoo.com/markets/crypto/articles/bitcoin-battles-80k-while-crypto-104215221.html)**
-
-Bitcoin is struggling to reclaim $80,000 as short-term whales sit on record unrealized profits. Short-term whale paper gains reached an all-time high of $9.07 billion ...
-
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
+**[Latest Crypto News: Bitcoin Near $79K as Apeing Announces Presale, Ethereum and Solana Move Forward](https://www.binance.com/en/square/post/364475145675932)**
 
-AP News • 23h ago
+Binance • 2h ago
+
+---
+
+**[Party's over for scammers who went on spending spree after $240M bitcoin theft](https://www.nbcwashington.com/news/local/partys-over-for-scammers-who-went-on-a-spending-spree-after-a-240m-bitcoin-theft/4151017/)**
+
+Here’s how a group of young men allegedly manipulated a wealthy D.C. man to get access to his crypto account.
+
+NBC4 Washington • 23h ago
 
 ---
 
@@ -201,29 +195,37 @@ AP News • 23h ago
 
 Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions.
 
-Fox News • 21h ago
+Fox News • 1d ago
 
 ---
 
-**[Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft](https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft)**
+**[Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation](https://www.tradingview.com/news/cryptobriefing:7ae3f0c1b094b:0-singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation/)**
 
-A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.
+The oldest trick in the con artist's handbook, updated for the crypto age: call someone pretending to be from a trusted institution, create enough panic, and walk away with their life savings. In this case, the life savings happened to be more than 4,100 Bitcoin, worth over $240 million at the time…
 
-Decrypt • 17h ago
-
----
-
-**[Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week](https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week)**
-
-Barchart.com • 18h ago
+TradingView • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level](https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/)**
+**[Fire Marshal’s report reveals problems at Bitcoin mining data center site](https://kfor.com/news/local/fire-marshals-report-reveals-problems-at-bitcoin-mining-data-center-site/)**
 
-Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
+KFOR.com • 4h ago
 
-TradingView • 9h ago
+---
+
+**[Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)**
+
+Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
+
+Tom's Hardware • 2d ago
+
+---
+
+**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
+
+Bitcoin mining ceased operations on Sept. 2.
+
+WNDU • 2d ago
 
 ---
 
@@ -235,7 +237,7 @@ TradingView • 9h ago
 
 Neha Narula
 
-⬆️ 7 • 💬 1 • 18h ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
+⬆️ 7 • 💬 1 • 23h ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -243,7 +245,7 @@ Neha Narula
 
 Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 5 • 💬 1 • 17h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
+⬆️ 5 • 💬 1 • 21h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
 
 ---
 
@@ -259,7 +261,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed
 
-⬆️ 4 • 💬 1 • 15h ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
+⬆️ 4 • 💬 1 • 20h ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
 
 ---
 
@@ -275,7 +277,7 @@ Oklahoma, El Reno city asserts that none of the costs related to the water leak 
 
 Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE
 
-⬆️ 4 • 💬 0 • 5d ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
+⬆️ 4 • 💬 0 • 6d ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
 
 ---
 
@@ -283,7 +285,7 @@ Hyperscale Data has ended all Bitcoin mining at its Michigan data center and sta
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-⬆️ 3 • 💬 0 • 1d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
+⬆️ 3 • 💬 0 • 2d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
 
 ---
 
@@ -319,77 +321,27 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 2K • 💬 137 • ⏱️ 17:14 • 13h ago
+👁️ 55K • 👍 2K • 💬 149 • ⏱️ 17:14 • 18h ago
 
 ---
 
-**[Bitcoin Breakout Is Coming Due to These Signals...](https://www.youtube.com/watch?v=WUG_Hf_8P9U)**
+**[Bitcoin &amp; Altcoin Levels I&#39;m Watching Into PPI + CPI Week](https://www.youtube.com/watch?v=i4lEBvKjMDo)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
+CPI and PPI week is here, and the market is already showing signs of derisking. That means potential discounts on Bitcoin and ...
 
-📺 CryptosRUs
+📺 Crypto Banter
 
-👁️ 23K • 👍 738 • 💬 213 • ⏱️ 12:55 • 18h ago
-
----
-
-**[Bitcoin Closes at the 50 Week Moving Average](https://www.youtube.com/watch?v=WQ8ZGnoWbiU)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 231K • 👍 7K • 💬 306 • ⏱️ 14:36 • 1d ago
+👁️ 6K • 👍 133 • ⏱️ 48:38 • 5h ago
 
 ---
 
-**[🚨 Bitcoin Just CONFIRMED the Bullish Setup... What Comes Next?](https://www.youtube.com/watch?v=DteZpHOZZFQ)**
+**[Bitcoin Faces Its BIGGEST Test Yet As Oil Nears $100 And CPI Looms](https://www.youtube.com/watch?v=ZGHf3umDUxg)**
 
-Bitcoin continues to hold strong as Ethereum leads the crypto market higher, with key BTC, ETH, and Solana levels pointing ...
+Bitcoin is stuck below $80K as markets wait on CPI and PPI, with Fed hike odds still near 60% and oil pushing toward $100 on ...
 
-📺 DataDash
+📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 180 • 💬 38 • ⏱️ 12:25 • 20h ago
-
----
-
-**[The Man Who Cracked The Crypto Algorithm Reveals Next Great 10x Opportunity | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
-
-Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 2K • 💬 162 • ⏱️ 42:33 • 1d ago
-
----
-
-**[Bitcoin Battles for 82k. Live Trading &amp; TA](https://www.youtube.com/watch?v=Nbou9pGpfjA)**
-
-Zen Master JP Does Live TA & Trading of BTC, SOL, ETH, XAU, QQQ, XAG, OIL & MORE! Get 30% deposit bonus with BTCC ...
-
-📺 Sin City Crypto
-
-👁️ 11K • 👍 268 • ⏱️ 3:32:42 • 9h ago
-
----
-
-**[Bitcoin Is Entering Its Most Powerful Wave Ever](https://www.youtube.com/watch?v=5UhtaqWLSG0)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 216K • 👍 4K • 💬 142 • ⏱️ 55:09 • 2d ago
-
----
-
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
-
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
-
-📺 The Modern Investor
-
-👁️ 14K • 👍 779 • 💬 289 • ⏱️ 36:55 • 2d ago
+👁️ 5K • 👍 287 • 💬 112 • ⏱️ 1:05:09 • 1h ago
 
 ---
 
@@ -399,17 +351,67 @@ Alpha Membership: https://MeetKevin.com COUPON "JayHole" briefly extended to Sep
 
 📺 Meet Kevin
 
-👁️ 69K • 👍 774 • 💬 108 • ⏱️ 17:35 • 20h ago
+👁️ 70K • 👍 787 • 💬 112 • ⏱️ 17:35 • 1d ago
 
 ---
 
-**[I’m Not Buying Bitcoin At $80k. Here’s Why....](https://www.youtube.com/watch?v=RNiYDUAsvvg)**
+**[NEW ATTACK: 4,000 Bitcoin Stolen OVERNIGHT??? Are You Affected? | EP 1586](https://www.youtube.com/watch?v=q4czTGKKXYY)**
 
-Is the Bitcoin bull market really back? Bitcoin is at $80000, above the bull market support band and the 200-week moving average ...
+Bitcoin faces another smack to the face as we begin our accent out of the bear market!
+
+📺 Simply Bitcoin
+
+👁️ 16K • 👍 334 • 💬 36 • ⏱️ 1:09:27 • 22h ago
+
+---
+
+**[CAUTION: Is Bitcoin In The Process Of Rejecting? [Do This Now]](https://www.youtube.com/watch?v=HkXmpqkDwi0)**
+
+Bitcoin is flashing a bearish divergence with volume fading while price grinds higher. I map the exact if/then plan: lose 76K and ...
 
 📺 Crypto Banter
 
-👁️ 26K • 👍 433 • 💬 36 • ⏱️ 23:36 • 2d ago
+👁️ 18K • 👍 982 • 💬 14 • ⏱️ 26:56 • 8h ago
+
+---
+
+**[EVERYONE EXPECTS THIS BITCOIN MOVE NEXT… THAT’S THE WARNING](https://www.youtube.com/watch?v=GCdwo3vTa-4)**
+
+TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 22K • 👍 710 • 💬 35 • ⏱️ 21:56 • 9h ago
+
+---
+
+**[Bitcoin Closes at the 50 Week Moving Average](https://www.youtube.com/watch?v=WQ8ZGnoWbiU)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 240K • 👍 7K • 💬 319 • ⏱️ 14:36 • 1d ago
+
+---
+
+**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
+
+Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
+
+📺 Schwab Network
+
+👁️ 22K • 👍 124 • 💬 5 • ⏱️ 10:28 • 1d ago
+
+---
+
+**[Crypto Trading LIVE: BTC Live Trading Bitcoin Analysis | 08 SEP #crypto #bitcoin #btc](https://www.youtube.com/watch?v=AWNLjDDs4vU)**
+
+Telegram- https://t.me/+8KPbu4neU41mYjZl ⚠️ Disclaimer – Trade For Profit All content shared by Trade For Profit is for ...
+
+📺 Trade For Profit
+
+👁️ 9K • 👍 1K • 2h ago
 
 ---
 
