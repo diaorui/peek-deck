@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
       "pub_date": 1788813984.0,
@@ -15,8 +15,18 @@
       "description": null
     },
     {
+      "headline": "Gold and Bitcoin Are Hedges, But Why Is a Stablecoin Company Buying Farmland?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUhxSm44NjFGc2FyNUlXTWdvUTM0YW1aQ2xkUVVTWDZ2ejI0c1FnVDFtQXJtRzBYNkViNTVmRUZqZTJKZ1hFYWtXWmcyUGtjTTFlQml1QXhRZlNFQWtlN2FsXzhLRjFYR2xDcWxabFNORXJ4aGhjSW5FZ0t1WHpUZENSLVlpUmVHdGJQVVp6RzhBYnYwVGZ4NFRnd0ZwTkt5?oc=5",
+      "pub_date": 1788839580.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/gold-bitcoin-hedges-why-stablecoin-035354193.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cd354ac8df0e3f10dfd89c91fcbcb67837f9e95705b6b3153757850561e0a75d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9a719065f4ddd441454351ec98305371.png",
+      "description": "Tether's farmland and gold hedges raise questions as its own reserve buffer shrinks 40% despite a clean KPMG audit."
+    },
+    {
       "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "apnews.com",
+      "source": "AP News",
       "source_url": "https://apnews.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
       "pub_date": 1788781980.0,
@@ -35,24 +45,14 @@
       "description": "Malone Lam allegedly used a social engineering attack to steal over 4,100 Bitcoin, then blew millions on Lamborghinis, nightclubs and mansions."
     },
     {
-      "headline": "Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaklhUnRyUzJDemNDQTdPSlBIM3pnTFpTbWtjQUdWU3VMX0JhQ0Q5NE1BZ180OFdRMHBoY3Z0VW9QTGRKYURGdGJaeUdIQk1SRmpjcHh2anFOQU5EQnRzZjVtT1V6ZlUwdWxXZk4zNDZSOG14Z25EYmRzeXdJVGlDbU1MOERiWUwwYkU5WjB5cjAyR0J4VHFqcTBGaUhhZktnRzVDaS0wbTlRQ245TXRPV01SdzVodXFDd2hhdGZnMVZ0Z0RMUHk3ejhGTzlKX0pBQkZ4eFRtcXVLb00tbHBSWTlB?oc=5",
-      "pub_date": 1788802349.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:7ae3f0c1b094b:0-singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The oldest trick in the con artist's handbook, updated for the crypto age: call someone pretending to be from a trusted institution, create enough panic, and walk away with their life savings. In this case, the life savings happened to be more than 4,100 Bitcoin, worth over $240 million at the time\u2026"
-    },
-    {
-      "headline": "Bitcoin (BTC) enters distribution as whales sell below $83,000",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVA3cUNleWdLdHhORWdWLUZjenhTQm9XSG5uaDh4UWJVdWViS2tleFVFR01mMThTdk9fQnJiZFAtamROSlRaZ0lQQi1aUjJYR0x4TGhyRHMzdmoyZ1QzekVrZWV1ZFlmMlhYUzBMdENscHZfNjNuSEdrQloxX0V0TjhmSklfSEV1bVdfTWg4aVRjRmtFOVNPUmZoSmw1bDNUaGFUcUNwSThObVE?oc=5",
-      "pub_date": 1788796235.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
-      "image": null,
-      "description": null
+      "headline": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1VCUTAyTlpWbGlRN204NDVYMUJGWENybWtkdldNU3FleEdUTy0xNWVLUjZfMzkxYXkySHBkQ2FHV1loM2c4ODlSQlRSNDJFcGFTOW5ZTEs1YVJIcUM3T2lxdjBsYkJYVUdUSE5DcW9ROHB3aHBfaW9ZQ0RSMkt2ZmhjWk5ad9IBjgFBVV95cUxOUnlGb0xiS3paaXptRlRhMzFUQ203NXNVRHR5RHhDSV82dXd0Z0ZpWmsyYWpvcVN3OWlTN1hELWpTUnAtQ1U0OEZEaHdSVEFuUlRyQkliM3k1VGRfOWlEWVMxd3k5M0NYRU5QaXZKR3hJQ3c5OUFBVzRSRVZnaUhmRDlidDBkcDdZbzR6WTN3?oc=5",
+      "pub_date": 1788802915.0,
+      "article_url": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png",
+      "description": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami."
     },
     {
       "headline": "Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week",
@@ -75,18 +75,8 @@
       "description": "The Bitcoin price has failed at $82,000 four times since August 25. Here is what a break would take with a Senate vote and Fed decision ahead."
     },
     {
-      "headline": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTJEVmxnZG9fMktaSkR2YWF0aXpXaXdOZkk4WC0za21Scmt2MGRIVmV3a3JRQmhwTGJLRkhGcWlSdlFXbGNxc3FTZVBQYUttMTV2WGYySmlLdjJLaTFmSlpOTkZDZFdiTW5haXNRLWpwc0dXaEJQWWgyT0x6cHZia3FyWnBtWXVELU1MZTd6RTZLU3pSQUNuNA?oc=5",
-      "pub_date": 1788821429.0,
-      "article_url": "https://www.fool.com/investing/2026/09/07/investment-firm-bernstein-thinks-bitcoin-could-hit/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884977%2Fgold-bitcoin-pile.jpg&w=1200&op=resize",
-      "description": "The next Bitcoin bull market cycle may have already started."
-    },
-    {
       "headline": "Bitcoin shows weaker correlation to Treasury yields than gold, positioning it as a more resilient hard asset",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMnlod1NkSV9hdDZVR0NUX1AtM1dsWndNYmFyMFg2TDlpTy0tN2tRTXdFTWdaNHZ5aXhobXdMaXVINUxqOTB1aV8tM1pNUXZFNHlKNFhyaUVJd2pTNUZlS1FzdTl2VHB2cmpwTkY5UEQ0NUNFSk9zMVg2RjA5ZmdDT05wSTU4UmpGZXN2dmItdzJJWm9wQ0ZvOVJXMkZQck94aFpSb1pSS3IyNk9LLXctaU90a21aeDNDaHVEanVZMFd0ZkpfazI4dlpmSUdwcy1VNFdscHpFc3BIOGl2VFlYUlMybzFmYVFsR2pIc015WkYxY0k3azJvMVBGSkh1cEFqS3c?oc=5",
       "pub_date": 1788780606.0,
@@ -95,16 +85,26 @@
       "description": "For years, the \"digital gold\" label slapped on Bitcoin felt more aspirational than descriptive. But new data from Bitwise Investments suggests the comparison might actually undersell Bitcoin's case as a hard asset, at least when it comes to how each reacts to the bond market.Bitcoin has historicall\u2026"
     },
     {
-      "headline": "Hunter Biden makes new crypto move against Donald Trump",
+      "headline": "Vitalik Buterin has blunt response to AI crashing Bitcoin",
       "source": "thestreet.com",
       "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkdmUkl2a0VFWlNxWkRJRjhveGYwTFA2VDlodDhKMlhiNjdfVDQxSVRtTzZQb2taNDFIbm9NT3FIWnA3OFc0UHVLbTVZYjVGNEwzblVpeVZDTzZZM05kUjdBUkx3RFlpTTh4eGYydjRFMXlENy1LOGZfUlpUeE5TeTd4NzZWU090bExCRGlDdnhjN09PMzBLcEM0LVk?oc=5",
-      "pub_date": 1788796386.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/hunter-biden-makes-new-crypto-move-against-donald-trump",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0FpWEdPdmJjWG1ZUXpvTlU0SW1FWkUxN1JBN00yWF96blJxUXd1QkFmSzU3UlFDWG9wZFotd2tQVXllOU4xeF9XbVRZaHBrN0RqMnFwTVdUWDd3dmt5OVhoc0pJUXRNVHVWZ2Rmc3JMQ29iZEhna09rbXlNUUZ2Y0tXbmNBNnk0ZklRZ2VFb2MzV0xJTFN1d1RwVmM5d1k?oc=5",
+      "pub_date": 1788795824.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/vitalik-buterin-has-blunt-response-to-ai-crashing-bitcoin",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTJEVmxnZG9fMktaSkR2YWF0aXpXaXdOZkk4WC0za21Scmt2MGRIVmV3a3JRQmhwTGJLRkhGcWlSdlFXbGNxc3FTZVBQYUttMTV2WGYySmlLdjJLaTFmSlpOTkZDZFdiTW5haXNRLWpwc0dXaEJQWWgyT0x6cHZia3FyWnBtWXVELU1MZTd6RTZLU3pSQUNuNA?oc=5",
+      "pub_date": 1788824700.0,
+      "article_url": "https://www.fool.com/investing/2026/09/07/investment-firm-bernstein-thinks-bitcoin-could-hit/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884977%2Fgold-bitcoin-pile.jpg&w=1200&op=resize",
+      "description": "The next Bitcoin bull market cycle may have already started."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T01:18:28.742198+00:00"
+  "fetched_at": "2026-09-08T06:18:28.731568+00:00"
 }

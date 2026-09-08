@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-08T01:18:34.847895+00:00'
+updated: '2026-09-08T06:18:43.624627+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 08, 2026 at 01:18 UTC  
+**Last Updated:** September 08, 2026 at 06:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,55 +110,15 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[As If There Was Any Question About Data Centers Being Weak Job Creators, Meta Is Now Deploying Robots to Maintain Them](https://futurism.com/artificial-intelligence/meta-deploying-robots-data-center-maintenance)**
+**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Meta is reportedly testing new robotic arms from a number of firms to run maintenance on its AI data centers.
-
-Futurism • 2d ago
-
----
-
-**[VIDEO: Delivery robots from company Coco clog Chicago sidewalk](https://abc7chicago.com/post/video-delivery-robots-company-coco-clog-chicago-sidewalk/19788850/)**
-
-Several delivery robots blocked a Chicago sidewalk this week and it was caught on camera.
-
-ABC7 Chicago • 3d ago
-
----
-
-**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
-
-Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
-
-Yahoo Finance UK • 10h ago
-
----
-
-**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
-
-Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
-
-The Robot Report • 11h ago
-
----
-
-**[Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026](https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html)**
-
-/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
-
-PR Newswire • 10h ago
-
----
-
-**[From dance floor to war: China readies humanoid robots for combat](https://www.msn.com/en-us/technology/robotics/ar-AA2bJfEc)**
-
-MSN • 7h ago
+Reuters • 1d ago
 
 ---
 
 **[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
 
-South China Morning Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -170,11 +130,51 @@ understandingai.org • 6d ago
 
 ---
 
-**[Why Richtech Robotics Zoomed Nearly 32% Higher in August](https://www.fool.com/investing/2026/09/07/why-richtech-robotics-zoomed-nearly-32-higher-in-a/)**
+**[Robot Aletta Draws Your Blood With no Human Touch Needed](https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta)**
 
-The beaten-down service robotics stock staged quite a comeback.
+Autonomous blood-drawing devices could help address phlebotomist shortages
 
-The Motley Fool • 3m ago
+IEEE Spectrum • 17h ago
+
+---
+
+**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
+
+Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
+
+therobotreport.com • 16h ago
+
+---
+
+**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
+
+Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
+
+Yahoo Finance UK • 15h ago
+
+---
+
+**[Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026](https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html)**
+
+/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
+
+PR Newswire • 15h ago
+
+---
+
+**[New system helps humanoid robots gesture more naturally while speaking](https://interestingengineering.com/ai-robotics/robogesture-gives-humanoid-robots-real-time-gestures)**
+
+Galbot's RoboGesture gives humanoid robots real-time gestures that match speech, making human-robot interactions more natural.
+
+Interesting Engineering • 20h ago
+
+---
+
+**[America’s Biggest Military Shipbuilder Targets 15% Higher Shipyard Output With Robotics And AI](https://www.marineinsight.com/americas-biggest-military-shipbuilder-targets-15-higher-shipyard-output-with-robotics-and-ai/)**
+
+Marine Insight - The maritime industry guide.
+
+Marine Insight • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 487K • 👍 9K • 💬 702 • ⏱️ 15:41 • 5d ago
+👁️ 505K • 👍 9K • 💬 717 • ⏱️ 15:41 • 5d ago
 
 ---
 
@@ -206,7 +206,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 285K • 👍 2K • 💬 632 • ⏱️ 1:44 • 4d ago
+👁️ 289K • 👍 2K • 💬 635 • ⏱️ 1:44 • 4d ago
 
 ---
 
@@ -216,17 +216,7 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 76K • 👍 1K • 💬 227 • ⏱️ 19:28 • 6d ago
-
----
-
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
-
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 237K • 👍 2K • 💬 147 • ⏱️ 0:58 • 5d ago
+👁️ 78K • 👍 1K • 💬 228 • ⏱️ 19:28 • 6d ago
 
 ---
 
@@ -236,7 +226,17 @@ After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot
 
 📺 GrislyDeshaun
 
-👁️ 389K • 👍 5K • 💬 345 • ⏱️ 26:59 • 1d ago
+👁️ 440K • 👍 5K • 💬 369 • ⏱️ 26:59 • 1d ago
+
+---
+
+**[Humanoid Robot Goes Haywire And Collapses Mid-Cheer Routine](https://www.youtube.com/watch?v=BqL963OVnYc)**
+
+A humanoid robot suddenly collapsed and began twitching during a synchronized cheerleading routine in Beijing. The bizarre ...
+
+📺 New York Post
+
+👁️ 48K • 👍 174 • 💬 141 • ⏱️ 1:15 • 2d ago
 
 ---
 
@@ -246,7 +246,35 @@ A San Francisco startup has launched a $30-an-hour housecleaning service powered
 
 📺 Associated Press
 
-👁️ 250K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+👁️ 263K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+
+---
+
+**[Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER](https://www.youtube.com/watch?v=dxghuf-iZ_I)**
+
+Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sign Up For 30 Day Free BP Trial: ...
+
+📺 Breaking Points
+
+👁️ 246K • 👍 3K • 💬 1K • ⏱️ 8:51 • 5d ago
+
+---
+
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+
+📺 South China Morning Post
+
+👁️ 189K • 👍 2K • 💬 447 • ⏱️ 3:47 • 4d ago
+
+---
+
+**[Robot Tattoo  #tattoo #tattooartist #shortsviral #fyp #tattoos #tattoohumor #tattooshop](https://www.youtube.com/watch?v=uC2osbAFe4U)**
+
+📺 Unemployable
+
+👁️ 575K • 👍 19K • 💬 304 • ⏱️ 1:37 • 2d ago
 
 ---
 
@@ -256,37 +284,7 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 
 📺 LIGHTS ARE OFF
 
-👁️ 3.8M • 👍 73K • 💬 10K • ⏱️ 25:44 • 1d ago
-
----
-
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
-
-📺 Julia McCoy
-
-👁️ 75K • 👍 614 • 💬 129 • ⏱️ 9:07 • 4d ago
-
----
-
-**[$90 Million Just Went to Put Robots Inside U.S. Ammunition Plants](https://www.youtube.com/watch?v=_zqyeStHMr0)**
-
-Date: September 6, 2026 SOURCES ARM Institute Works with Consortium to Modernize Military Manufacturing Sites ...
-
-📺 Jason Lowe on AI
-
-👁️ 7K • 👍 483 • 💬 26 • ⏱️ 2:08 • 1d ago
-
----
-
-**[Robot FIGHTS BACK After Man Pushes It in Tech Store](https://www.youtube.com/watch?v=he3bdfsSPBw)**
-
-Russian Robot FIGHTS BACK After Man Pushes It in Tech Store Things got intense inside a tech store when a man decided to ...
-
-📺 Faith, Fitness and Financial Freedom
-
-👁️ 164K • 👍 2K • 💬 273 • ⏱️ 0:33 • 4d ago
+👁️ 4.0M • 👍 76K • 💬 10K • ⏱️ 25:44 • 1d ago
 
 ---
 
