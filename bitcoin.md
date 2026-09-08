@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-08T16:08:06.331580+00:00'
+updated: '2026-09-08T19:30:39.455149+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 16:08 UTC  
+**Last Updated:** September 08, 2026 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,528.59
+### $78,833.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +2.2%  
-**30d:** +23.2%  
-**90d:** +23.9%  
-**1y:** -29.4%  
+**24h:** -1.0%  
+**7d:** +1.7%  
+**30d:** +22.7%  
+**90d:** +23.4%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1582.21B
+**Market Cap:** $1573.91B
 Rank #1
 
 **Circulating Supply:** 20,081,431 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.5%
+-37.8%
 
 **All-Time Low:** $67.81
-+116124.7%
++115468.5%
 
 ---
 
@@ -103,7 +103,7 @@ Bitcoin has spent 17 years surviving one of the most adversarial environments in
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-🔗 [liquid.network](https://liquid.network/) • 1d ago
+🔗 [liquid.network](https://liquid.network/) • 2d ago
 
 ---
 
@@ -117,7 +117,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it’s ~$80,000. Now imagine someone posting this on September 6, 2036: “Bitcoin was only $80K back in 2026.” What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. 👀
 
-1d ago
+2d ago
 
 ---
 
@@ -125,7 +125,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea497bc49a46d 😂
 
-22h ago
+1d ago
 
 ---
 
@@ -157,37 +157,11 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 ## Google News: "bitcoin"
 
-**[Bitcoin-based Liquid Network says $320 million withdrawn in hack](https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/)**
+**[Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident - ABC News](https://abcnews.com/Business/wireStory/singapore-man-pleads-guilty-orchestrating-240-million-bitcoin-136279302)**
 
-Reuters • 1d ago
+A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 
----
-
-**[Live updates: Bitcoin below Friday's post-jobs report low as oil and copper surge higher](https://www.coindesk.com/tech/2026/09/08/live-updates)**
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Forms Bullish Golden Cross](https://finance.yahoo.com/markets/crypto/articles/bitcoin-forms-bullish-golden-cross-142000774.html)**
-
-Bitcoin (CRYPTO: $BTC) has once again formed a bullish “golden cross” chart pattern, suggesting that further gains are likely for the largest digital asset. A golden cross is a ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Latest Crypto News: Bitcoin Near $79K as Apeing Announces Presale, Ethereum and Solana Move Forward](https://www.binance.com/en/square/post/364475145675932)**
-
-Binance • 2h ago
-
----
-
-**[Party's over for scammers who went on spending spree after $240M bitcoin theft](https://www.nbcwashington.com/news/local/partys-over-for-scammers-who-went-on-a-spending-spree-after-a-240m-bitcoin-theft/4151017/)**
-
-Here’s how a group of young men allegedly manipulated a wealthy D.C. man to get access to his crypto account.
-
-NBC4 Washington • 23h ago
+ABC News - Breaking News, Latest News and Videos • 2h ago
 
 ---
 
@@ -199,33 +173,57 @@ Fox News • 1d ago
 
 ---
 
-**[Singaporean pleads guilty in $240M Bitcoin theft case involving Gemini impersonation](https://www.tradingview.com/news/cryptobriefing:7ae3f0c1b094b:0-singaporean-pleads-guilty-in-240m-bitcoin-theft-case-involving-gemini-impersonation/)**
+**[Singapore man pleads guilty after massive US bitcoin heist and spending spree](https://www.scmp.com/news/asia/southeast-asia/article/3366830/singapore-man-malone-lam-pleads-guilty-after-massive-us-bitcoin-heist-and-spending-spree)**
 
-The oldest trick in the con artist's handbook, updated for the crypto age: call someone pretending to be from a trusted institution, create enough panic, and walk away with their life savings. In this case, the life savings happened to be more than 4,100 Bitcoin, worth over $240 million at the time…
-
-TradingView • 22h ago
+South China Morning Post • 59m ago
 
 ---
 
-**[Fire Marshal’s report reveals problems at Bitcoin mining data center site](https://kfor.com/news/local/fire-marshals-report-reveals-problems-at-bitcoin-mining-data-center-site/)**
+**[Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack](https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack)**
 
-KFOR.com • 4h ago
-
----
-
-**[Bitcoin mining data center condemned after leaking 3 million gallons of water and forcing school closures — facility operated for years under a city stop-work order](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)**
-
-Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
-
-Tom's Hardware • 2d ago
+Bloomberg.com • 22h ago
 
 ---
 
-**[Hyperscale Data Center in Dowagiac stops bitcoin mining operations](https://www.wndu.com/2026/09/05/hyperscale-data-center-dowagiac-stops-bitcoin-mining-operations/)**
+**[Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6%](https://finance.yahoo.com/markets/stocks/articles/crypto-mining-stocks-rally-while-190045732.html)**
 
-Bitcoin mining ceased operations on Sept. 2.
+Crypto mining stocks are breaking from their traditional playbook Tuesday afternoon, climbing hard even as the coin they exist to mine drifts lower. The move puts fresh weight behind the argument that these names are being repriced as artificial intelligence and high-performance computing plays rather than levered Bitcoin proxies. It’s also the first full session […]
 
-WNDU • 2d ago
+Yahoo Finance • 29m ago
+
+---
+
+**[Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-wall-street-stalls-185935063.html)**
+
+Bitcoin is defending its golden zone support while the S&P 500 grinds inside its tightest range yet, both waiting on Friday's inflation report before the Fed's September 16 rate call.
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Bitcoin price analysis: BTC likely to add to recent gains, says Alexander Blume](https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says)**
+
+CoinDesk • 5d ago
+
+---
+
+**[Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week](https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week)**
+
+Barchart.com • 1d ago
+
+---
+
+**[Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell](https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell)**
+
+Seeking Alpha • 1d ago
+
+---
+
+**[Bitcoin Price Prediction: We Asked ChatGPT if BTC Can Reclaim $87,500 by December 31](https://247wallst.com/investing/cryptocurrency/2026/09/08/bitcoin-price-prediction-we-asked-chatgpt-if-btc-can-reclaim-87500-by-december-31/)**
+
+Bitcoin trades near $78,600 and would need an 11% gain to reach $87,500. Here's what it would take and whether it's realistic by December.
+
+24/7 Wall St. • 2h ago
 
 ---
 
@@ -237,7 +235,7 @@ WNDU • 2d ago
 
 Neha Narula
 
-⬆️ 7 • 💬 1 • 23h ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
+⬆️ 7 • 💬 1 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -245,7 +243,7 @@ Neha Narula
 
 Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 5 • 💬 1 • 21h ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
+⬆️ 5 • 💬 1 • 1d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
 
 ---
 
@@ -253,7 +251,7 @@ Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap�
 
 The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
 
-⬆️ 5 • 💬 0 • 1d ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+⬆️ 5 • 💬 0 • 2d ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
 
 ---
 
@@ -261,7 +259,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed
 
-⬆️ 4 • 💬 1 • 20h ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
+⬆️ 4 • 💬 1 • 23h ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
 
 ---
 
@@ -269,7 +267,7 @@ Self-described white hats promise to return 'most' of the 4,000 BTC once the vul
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-⬆️ 4 • 💬 0 • 1d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+⬆️ 4 • 💬 0 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
 
 ---
 
@@ -321,47 +319,7 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 55K • 👍 2K • 💬 149 • ⏱️ 17:14 • 18h ago
-
----
-
-**[Bitcoin &amp; Altcoin Levels I&#39;m Watching Into PPI + CPI Week](https://www.youtube.com/watch?v=i4lEBvKjMDo)**
-
-CPI and PPI week is here, and the market is already showing signs of derisking. That means potential discounts on Bitcoin and ...
-
-📺 Crypto Banter
-
-👁️ 6K • 👍 133 • ⏱️ 48:38 • 5h ago
-
----
-
-**[Bitcoin Faces Its BIGGEST Test Yet As Oil Nears $100 And CPI Looms](https://www.youtube.com/watch?v=ZGHf3umDUxg)**
-
-Bitcoin is stuck below $80K as markets wait on CPI and PPI, with Fed hike odds still near 60% and oil pushing toward $100 on ...
-
-📺 The Wolf Of All Streets
-
-👁️ 5K • 👍 287 • 💬 112 • ⏱️ 1:05:09 • 1h ago
-
----
-
-**[The $320 Million Dollar Liquid Bitcoin Hack | Explained.](https://www.youtube.com/watch?v=_hDa8aAtBdk)**
-
-Alpha Membership: https://MeetKevin.com COUPON "JayHole" briefly extended to Sept 4 (due to system overload last Friday) ...
-
-📺 Meet Kevin
-
-👁️ 70K • 👍 787 • 💬 112 • ⏱️ 17:35 • 1d ago
-
----
-
-**[NEW ATTACK: 4,000 Bitcoin Stolen OVERNIGHT??? Are You Affected? | EP 1586](https://www.youtube.com/watch?v=q4czTGKKXYY)**
-
-Bitcoin faces another smack to the face as we begin our accent out of the bear market!
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 334 • 💬 36 • ⏱️ 1:09:27 • 22h ago
+👁️ 58K • 👍 2K • 💬 150 • ⏱️ 17:14 • 21h ago
 
 ---
 
@@ -371,7 +329,27 @@ Bitcoin is flashing a bearish divergence with volume fading while price grinds h
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 982 • 💬 14 • ⏱️ 26:56 • 8h ago
+👁️ 20K • 👍 1K • 💬 14 • ⏱️ 26:56 • 11h ago
+
+---
+
+**[Could Trump Trigger a Global Reset? Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=9CWy796Zpds)**
+
+The Iran war was never really about Iran. Bessent has all but said the plan is to strangle China's oil supply, and if China gets ...
+
+📺 Simply Bitcoin
+
+👁️ 42K • 👍 2K • 💬 156 • ⏱️ 20:03 • 1d ago
+
+---
+
+**[Gal Gadot On Doug Liman&#39;s AI-Assisted Movie Bitcoin #galgadot #botcoin #ai](https://www.youtube.com/watch?v=p_qOGjXLdfE)**
+
+Gal Gadot On Doug Liman's AI-Assisted Movie Bitcoin #dougliman #petedavidson.
+
+📺 Collider Interviews
+
+👁️ 201 • 👍 3 • 💬 1 • ⏱️ 0:46 • 30m ago
 
 ---
 
@@ -381,37 +359,57 @@ TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.c
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 22K • 👍 710 • 💬 35 • ⏱️ 21:56 • 9h ago
+👁️ 25K • 👍 800 • 💬 48 • ⏱️ 21:56 • 12h ago
 
 ---
 
-**[Bitcoin Closes at the 50 Week Moving Average](https://www.youtube.com/watch?v=WQ8ZGnoWbiU)**
+**[WHO CAME UP WITH THE $10,000 XRP NARRATIVE? - BTC FAILS IF XRP FAILS! - XRP MOVING GOLD?](https://www.youtube.com/watch?v=QRbmA63WTC4)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+WHO CAME UP WITH THE $10000 XRP NARRATIVE? - BTC FAILS IF XRP FAILS! - XRP MOVING GOLD? NEW OFFICIAL CSC ...
 
-📺 Benjamin Cowen
+📺 Common Sense Crypto
 
-👁️ 240K • 👍 7K • 💬 319 • ⏱️ 14:36 • 1d ago
-
----
-
-**[Bitcoin&#39;s &quot;Referee&quot; Status Between Crypto &amp; U.S. Policy, Volatility Ticks Down](https://www.youtube.com/watch?v=Y9Y1e2v6sR4)**
-
-Sam Callahan, director of Bitcoin strategy at OranjeBTC, explains his take on the cryptocurrency's resurgence as it crosses back ...
-
-📺 Schwab Network
-
-👁️ 22K • 👍 124 • 💬 5 • ⏱️ 10:28 • 1d ago
+👁️ 19K • 👍 1K • 💬 100 • ⏱️ 18:27 • 1d ago
 
 ---
 
-**[Crypto Trading LIVE: BTC Live Trading Bitcoin Analysis | 08 SEP #crypto #bitcoin #btc](https://www.youtube.com/watch?v=AWNLjDDs4vU)**
+**[🚨 CRYPTO GOLDEN CROSS CONFIRMED! — How I&#39;m Trading It...](https://www.youtube.com/watch?v=VQNJbPgPc3o)**
 
-Telegram- https://t.me/+8KPbu4neU41mYjZl ⚠️ Disclaimer – Trade For Profit All content shared by Trade For Profit is for ...
+A major crypto Golden Cross has officially confirmed—signaling potential macro upside ahead! In this video, I break down what ...
 
-📺 Trade For Profit
+📺 Tim Warren
 
-👁️ 9K • 👍 1K • 2h ago
+👁️ 881 • 👍 142 • 1h ago
+
+---
+
+**[Bitcoin Breakout Is Coming Due to These Signals...](https://www.youtube.com/watch?v=WUG_Hf_8P9U)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 761 • 💬 217 • ⏱️ 12:55 • 1d ago
+
+---
+
+**[BITCOIN CLOSED BELOW $81K… THEN I NOTICED THIS](https://www.youtube.com/watch?v=9sfcffW7Pqw)**
+
+TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ LEARN THE SYSTEMS I'VE ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 19K • 👍 938 • 💬 45 • ⏱️ 24:20 • 1d ago
+
+---
+
+**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+
+Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+
+📺 The Modern Investor
+
+👁️ 15K • 👍 790 • 💬 240 • ⏱️ 36:55 • 2d ago
 
 ---
 
