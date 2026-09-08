@@ -8,7 +8,7 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "preview_image": "https://opengraph.githubassets.com/6dc4b0c00891ffbc111086c07cd763d9735320329b54c6d8480f7fcb1d351b50/guillaumemeyer/watermarks-remover",
-      "stars": 21381,
+      "stars": 21390,
       "stars_display": "21.4k",
       "forks": 2460,
       "forks_display": "2.5k",
@@ -30,10 +30,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4481,
+      "stars": 4484,
       "stars_display": "4.5k",
-      "forks": 548,
-      "forks_display": "548",
+      "forks": 553,
+      "forks_display": "553",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -42,7 +42,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-08T18:51:06Z"
+      "updated_at": "2026-09-08T20:15:07Z"
     },
     {
       "full_name": "Hisn00w/ASu-skills",
@@ -52,7 +52,7 @@
       "description": "\ud83d\ude80\u9762\u5411\u6c42\u804c\u4e0e\u5f00\u53d1\u573a\u666f\u7684\u5b9e\u7528 AI Skills \u96c6\u5408\uff0c\u652f\u6301\u7b80\u5386\u4f18\u5316\u3001\u5c97\u4f4d\u6295\u9012\u3001\u9762\u8bd5\u51c6\u5907\u4e0e\u5f00\u53d1\u63d0\u6548\u3002",
       "url": "https://github.com/Hisn00w/ASu-skills",
       "preview_image": "https://opengraph.githubassets.com/c0b8828c74619eb6696fffd4a2bb91fd4c059ef3ebe5dbd5a8e4cdb4d6cd8a35/Hisn00w/ASu-skills",
-      "stars": 4066,
+      "stars": 4067,
       "stars_display": "4.1k",
       "forks": 246,
       "forks_display": "246",
@@ -68,8 +68,8 @@
       "description": "Sprix AI at \u5c7f\u667a\u540c\u884c \u2014 state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "url": "https://github.com/wang2122/sprix-sage-router",
       "preview_image": "https://opengraph.githubassets.com/399f89e2d856a4b1ed13c2aecdf78e0fab60f9aff9777e31d743d9d64abebd79/wang2122/sprix-sage-router",
-      "stars": 3930,
-      "stars_display": "3.9k",
+      "stars": 3727,
+      "stars_display": "3.7k",
       "forks": 440,
       "forks_display": "440",
       "language": "Python",
@@ -92,8 +92,8 @@
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
       "stars": 3526,
       "stars_display": "3.5k",
-      "forks": 447,
-      "forks_display": "447",
+      "forks": 448,
+      "forks_display": "448",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-08T16:10:12Z"
@@ -128,10 +128,10 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 2222,
+      "stars": 2201,
       "stars_display": "2.2k",
-      "forks": 149,
-      "forks_display": "149",
+      "forks": 150,
+      "forks_display": "150",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-09-01T06:42:07Z"
@@ -144,29 +144,13 @@
       "description": "Open-source AI brand visibility and competitor reports",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2141,
-      "stars_display": "2.1k",
-      "forks": 65,
-      "forks_display": "65",
+      "stars": 2159,
+      "stars_display": "2.2k",
+      "forks": 67,
+      "forks_display": "67",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-08T12:33:45Z"
-    },
-    {
-      "full_name": "diudiu-tech/delivery-harness",
-      "name": "delivery-harness",
-      "owner": "diudiu-tech",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/316029388?v=4",
-      "description": "AI harness reference implementation for on-demand delivery workflows",
-      "url": "https://github.com/diudiu-tech/delivery-harness",
-      "preview_image": "https://opengraph.githubassets.com/06ed58572a8e9a392267a55dd50e8ed67485506cbf3c9db53885da447c2c995f/diudiu-tech/delivery-harness",
-      "stars": 2028,
-      "stars_display": "2.0k",
-      "forks": 62,
-      "forks_display": "62",
-      "language": "Java",
-      "topics": [],
-      "updated_at": "2026-09-03T09:55:10Z"
     },
     {
       "full_name": "duty1g/x64dbg-mcp-server",
@@ -189,12 +173,28 @@
         "claude-code"
       ],
       "updated_at": "2026-09-02T20:34:21Z"
+    },
+    {
+      "full_name": "SMNETSTUDIO/WeChat-AI",
+      "name": "WeChat-AI",
+      "owner": "SMNETSTUDIO",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/162035225?v=4",
+      "description": "WeChat AI - \u81ea\u6258\u7ba1\u5fae\u4fe1\u89d2\u8272\u626e\u6f14\u5bf9\u8bdd\u670d\u52a1",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "preview_image": "https://opengraph.githubassets.com/c6760248236b2781111a140ecac75d8c212d896859893e09df58b936097f4c74/SMNETSTUDIO/WeChat-AI",
+      "stars": 1885,
+      "stars_display": "1.9k",
+      "forks": 1283,
+      "forks_display": "1.3k",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-09-08T08:52:20Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-08-09",
   "days": 30,
   "limit": 10,
-  "total_count": 457442,
-  "fetched_at": "2026-09-08T19:30:10.288719+00:00"
+  "total_count": 458502,
+  "fetched_at": "2026-09-08T21:59:16.215184+00:00"
 }
