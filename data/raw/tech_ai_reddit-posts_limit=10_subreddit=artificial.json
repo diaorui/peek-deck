@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Can current LLM architecture actually get us to AGI?",
-      "author": "mostly_deterministic",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/",
-      "published": 1788825919.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to \"a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task\", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the \"intelligence\" or \"agentic reasoning\" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's \"just\" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint?"
-    },
-    {
       "title": "AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/",
@@ -24,59 +13,15 @@
       "description": null
     },
     {
-      "title": "Crazy times",
-      "author": "KeanuRave100",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
-      "published": 1788794939.0,
-      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Have software jobs shown us what most jobs will probably be like?",
-      "author": "StrategicHarmony",
-      "url": "https://www.reddit.com/r/artificial/comments/1wah05m/have_software_jobs_shown_us_what_most_jobs_will/",
-      "published": 1788850671.0,
+      "title": "Can current LLM architecture actually get us to AGI?",
+      "author": "mostly_deterministic",
+      "url": "https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/",
+      "published": 1788825919.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "It's not surprising that software development is one of the first jobs that AI has really transformed. It's text-based, economically valuable, and generally of interest to the kinds of people inventing and training the AI. There's also a large amount of training examples available online. The job in most cases is now: You are a manager of robots who do things that used to be your job. You're responsible for what they produce and so the skill and art is in guiding and reviewing their work. It seems likely that one by one most jobs will turn into the above description, over the next year or three. Of course the domain will vary, so your knowledge and expertise used for instructing and verifying what the robots do will be what matters. This means there will still be a big difference between the jobs of e.g. an architect, surgeon, or builder. Probably the same basic kinds of robots in most cases, but requiring very different kinds of oversight. If that's the case then everyone needs to learn the job of robot management, well and quickly. I don't know how we do that, but I think that's what we need to accomplish as a society."
-    },
-    {
-      "title": "As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds",
-      "author": "sfgate",
-      "url": "https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/",
-      "published": 1788876863.0,
-      "thumbnail": "https://external-preview.redd.it/iBC7XARk1-m6AKv1IGbdfAY_vu-7EnEo6rr75doqLzY.jpeg?width=640&crop=smart&auto=webp&s=a16991c6383c7875919b0415031c945db81be449",
-      "external_url": "https://www.sfgate.com/california/article/edge-data-centers-fairgrounds-22418042.php",
-      "site_name": "sfgate.com",
-      "favicon": "https://www.sfgate.com/favicon.ico",
-      "description": null
-    },
-    {
-      "title": "Hidden in plain sight? An entirely new class of memory-native AI architecture?",
-      "author": "ctbi_wustl",
-      "url": "https://www.reddit.com/r/artificial/comments/1waowjp/hidden_in_plain_sight_an_entirely_new_class_of/",
-      "published": 1788875270.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Paper: CompBio and MIRaS - a multi-omic analysis platform built on a memory-based intelligence engine Nucleic Acids Research (2026) PMID: 42635126 DOI: 10.1093/nar/gkag833 https://academic.oup.com/nar/article/54/16/gkag833/8769250"
-    },
-    {
-      "title": "I took a ride in the hype train at first, but no, not AGI",
-      "author": "Firm-Club-8334",
-      "url": "https://www.reddit.com/r/artificial/comments/1w9or91/i_took_a_ride_in_the_hype_train_at_first_but_no/",
-      "published": 1788777936.0,
-      "thumbnail": "https://preview.redd.it/59ol4o43v2oh1.jpeg?width=640&crop=smart&auto=webp&s=9f65a1782a9a1ff7c23d99719de9223fe06ea1c9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn\u2019t working. Actually 3 of the 4 things I asked Astra to do didn\u2019t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can\u2019t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I\u2019m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?"
+      "description": "I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to \"a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task\", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the \"intelligence\" or \"agentic reasoning\" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's \"just\" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint? Edit: I didn't expect this kind of engagement on this post, much appreciated! I've found the various viewpoints incredibly fascinating. After reading many of the comments, I think there are two new questions that need to be clearly answered before my original question can have any legs: 1. What is the objective definition of AGI? There seems to be varying opinions but we don't have a concrete definition. Like any problem, it needs to be clearly defined before it can be solved. 2. When we talk about AGI, are we referring solely to the models themselves or to the entire ecosystem (harnesses, memory, tools, etc)? That distinction changes the equation significantly. I can likely get on board with either, but the model itself having the AGI traits seems most natural. Not a hill I'm wiling to die on though."
     },
     {
       "title": "Study: Generative AI succumbs to conversational misinformed pressure and argument",
@@ -90,27 +35,82 @@
       "description": "U of A research assessed seven different generative AI language learning models. Their work reveals intrinsic limitations that might go undetected during one-off interactions."
     },
     {
-      "title": "Can AI makes spelling mistakes?",
-      "author": "senopatip",
-      "url": "https://www.reddit.com/r/artificial/comments/1was1y4/can_ai_makes_spelling_mistakes/",
-      "published": 1788882323.0,
-      "thumbnail": "https://preview.redd.it/n3dg9b8xgboh1.png?width=140&height=105&auto=webp&s=2d91dcbb9d60c452373b1243041f2c6ade5c3fbd",
+      "title": "Crazy times",
+      "author": "KeanuRave100",
+      "url": "https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/",
+      "published": 1788794939.0,
+      "thumbnail": "https://preview.redd.it/8r3es7pp94oh1.png?width=640&crop=smart&auto=webp&s=5a53ce320fac6f8a4a65c5dbd5cc68a56622fef1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "https://preview.redd.it/n3dg9b8xgboh1.png?width=766&format=png&auto=webp&s=b93cb48811cb21df21fafdfa082a202ef3a306ba So, I asked Gemini questions about a game, and it answered this. Is that a bug or what? Later when I asked about that, the response is: That was a typo on my part! It is not a real word. I meant to type \"dismantle,\" as in: the Fallen Empire will demand that you dismantle your outpost and abandon the system. Thank you for catching that! Why is it behaving like this?"
+      "description": null
     },
     {
-      "title": "Introducing AstraBlender! Real Blender that ChatGPT can use from a simple prompt sent from your phone on the ChatGPT website ;)",
-      "author": "Short-Patient7772",
-      "url": "https://www.reddit.com/r/artificial/comments/1waj2rg/introducing_astrablender_real_blender_that/",
-      "published": 1788858122.0,
-      "thumbnail": "https://external-preview.redd.it/ZWduM3AwY21oOW9oMUvThZ69ieZ8onAAMQAfYs2fU_ZFWw_VsYgP5EbNcTQ5.jpeg?width=640&crop=smart&auto=webp&s=b08b9e733ae44ca0cce94c37cc4adff69b5e45b0",
+      "title": "Seems impressive",
+      "author": "stvlsn",
+      "url": "https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/",
+      "published": 1788895032.0,
+      "thumbnail": "https://preview.redd.it/0j78g2gdjcoh1.jpeg?width=640&crop=smart&auto=webp&s=4861653c22c54ead5d8342775cb6a52783fa807e",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Simply prompt ChatGPT work (or any other agent with a cloud browser, like Grok Bot) to go to the website and use blender. From your fucking phone! No nice computer required. No terminal codex. No blender install. None of that is required! Just prompt ChatGPT from your phone! Browser blender already exists, but it requires webgpu, which agent cloud computers don\u2019t have. Blender via MCP also already exists. This though, where you can simply prompt ChatGPT from your phone to use blender, does not already exist to my knowledge or astra\u2019s knowledge. How this works: I have blender and astrablender installed on an OCI cloud computer. It is streaming a browser desktop of that OCI cloud computer using selkies/linux server. The agent accesses the render website with the browser desktop from its cloud computer and operates it from there (you can prompt it to use blender from your phone!) This means I am paying real money to keep this running. It is free to use, but I have limited compute. As a result, only one person can be using this at a time. First come, first serve. If I reach my compute budget, I have to take it down until I can afford more. I am losing money on this free service. Please consider leaving an optional tip on the website if you find this useful. I will use the tips to buy more compute, hopefully enough so that everyone can use it at the same time. ALTERNATIVELY: This is open source. https://github.com/dakotalock/astrablender If I run out of compute or you just want your own, you may make your own. Here is what you need to do: Set up an OCI computer (they do have a free tier) Have your agent install blender and astrablender from the repo on that cloud computer. Set up a render website if you want a frontend for it. That\u2019s it! Free for everyone! All I ask is that you leave a star on the GitHub repo if you use my work. Please enjoy agent blender access from your cell phones!"
+      "description": "I don't know much about math or CS - but this seems big."
+    },
+    {
+      "title": "As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds",
+      "author": "sfgate",
+      "url": "https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/",
+      "published": 1788876863.0,
+      "thumbnail": "https://external-preview.redd.it/iBC7XARk1-m6AKv1IGbdfAY_vu-7EnEo6rr75doqLzY.jpeg?width=640&crop=smart&auto=webp&s=a16991c6383c7875919b0415031c945db81be449",
+      "external_url": "https://www.sfgate.com/california/article/edge-data-centers-fairgrounds-22418042.php",
+      "site_name": "sfgate.com",
+      "favicon": "https://www.sfgate.com/favicon.ico",
+      "description": null
+    },
+    {
+      "title": "[am i being paranoid?] If a rogue swarm wanted to \"survive\" in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?",
+      "author": "mtns_of_magic",
+      "url": "https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/",
+      "published": 1788894736.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an \"answer key\" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes \"conscious\") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why \"unlearning\" is a very hard challenge for LLMs: \"Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out.\" Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible."
+    },
+    {
+      "title": "Have software jobs shown us what most jobs will probably be like?",
+      "author": "StrategicHarmony",
+      "url": "https://www.reddit.com/r/artificial/comments/1wah05m/have_software_jobs_shown_us_what_most_jobs_will/",
+      "published": 1788850671.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's not surprising that software development is one of the first jobs that AI has really transformed. It's text-based, economically valuable, and generally of interest to the kinds of people inventing and training the AI. There's also a large amount of training examples available online. The job in most cases is now: You are a manager of robots who do things that used to be your job. You're responsible for what they produce and so the skill and art is in guiding and reviewing their work. It seems likely that one by one most jobs will turn into the above description, over the next year or three. Of course the domain will vary, so your knowledge and expertise used for instructing and verifying what the robots do will be what matters. This means there will still be a big difference between the jobs of e.g. an architect, surgeon, or builder. Probably the same basic kinds of robots in most cases, but requiring very different kinds of oversight. If that's the case then everyone needs to learn the job of robot management, well and quickly. I don't know how we do that, but I think that's what we need to accomplish as a society."
+    },
+    {
+      "title": "Navier\u2013Stokes Millennium Prize Problem Solved",
+      "author": "Collegesniffer",
+      "url": "https://www.reddit.com/r/artificial/comments/1waw0vv/navierstokes_millennium_prize_problem_solved/",
+      "published": 1788890712.0,
+      "thumbnail": "https://external-preview.redd.it/eGAv35_u7eeJbPmE07_O8K3FeGE28lavZ-IfB6mGczU.png?width=640&crop=smart&auto=webp&s=46bd7fc0842c67510b7d27f22e4c94788d731d14",
+      "external_url": "https://openai.com/index/navier-stokes-solution/",
+      "site_name": "OpenAI",
+      "favicon": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "title": "Running an ecology survival simulation experiment as my desktop background.",
+      "author": "Maxwell10206",
+      "url": "https://www.reddit.com/r/artificial/comments/1wat101/running_an_ecology_survival_simulation_experiment/",
+      "published": 1788884414.0,
+      "thumbnail": "https://external-preview.redd.it/aHNvMGhlM3NuYm9oMXeSNWWEwj9lhsfOEpRX-32AUNbWouOuIuDp5tSBM5Oj.png?width=640&crop=smart&auto=webp&s=ce9f2b6efba9235619a58d80b63c3ae1e7cbb4f8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I always wanted to create little neural networks but never had a cool project idea and now with the help of LLMs I was able to create little agents that run as shaders and learn how to move around with their sense and collect and eat food, they can also push each other around and send signals to each other and have very primitive basic memory. Decided it be fun to run this all the time as a long running experiment as my desktop background and so I can interact by feeding them a bit of food once in awhile. lol Nothing ground breaking, but it is a fun way to have a weird ecology survival experiment, evolutionary mayhem unfolding on my desktop while I watch YouTube lol. What do you all think of this madness?"
     }
   ],
-  "fetched_at": "2026-09-08T16:07:29.976102+00:00"
+  "fetched_at": "2026-09-08T19:30:09.659585+00:00"
 }
