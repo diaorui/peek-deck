@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-08T06:18:43.612277+00:00'
+updated: '2026-09-08T11:35:48.294383+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 08, 2026 at 06:18 UTC  
+**Last Updated:** September 08, 2026 at 11:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Crazy times](https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/)**
-
-14h ago
-
----
-
 **[Can current LLM architecture actually get us to AGI?](https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/)**
 
 I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to "a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the "intelligence" or "agentic reasoning" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's "just" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint?
 
-6h ago
+11h ago
 
 ---
 
-**[SymphonyAI says employees need 2–3x productivity after leadership admitted the company was caught flat-footed by AI](https://www.reddit.com/r/artificial/comments/1wacncv/symphonyai_says_employees_need_23x_productivity/)**
+**[Crazy times](https://www.reddit.com/r/artificial/comments/1w9vaet/crazy_times/)**
 
-I work at SymphonyAI, an enterprise software company whose entire identity is built around artificial intelligence. That context makes what is happening internally almost absurd. Leadership has acknowledged that the company was caught flat-footed by how quickly AI changed the software market. At the same time, employees are being told that ordinary productivity gains are no longer enough. The expectation being discussed is two to three times the productivity through AI. Think about the double standard embedded in that. Leadership can be late to the AI transition. Employees cannot be slow. Leadership can build an organization that no longer fits the economics of the business. Employees have to prove the same work can be done with fewer people. Growth disappoints, churn becomes severe, products need modernization, margins come under pressure, and somehow the recurring solution is “workforce transformation.” That phrase deserves scrutiny. Contractors disappear. Positions are not necessarily backfilled. Support functions shrink. Teams absorb more responsibility. Work gets pushed deeper into already-stretched organizations. Employees learn AI tools, automate work, cover vacancies and somehow keep customers supported. Management then looks at the fact that the work is still getting done and concludes that perhaps fewer people were needed all along. That creates an incredibly destructive incentive inside a company supposedly trying to make employees embrace AI. The lesson becomes: if you prove AI makes you more productive, you may simply prove management can remove another person. And every reduction comes wrapped in inspirational language. Fewer resources becomes “agility.” More responsibility becomes “empowerment.” Not replacing people becomes “AI productivity.” Cost reduction becomes “transformation.” Employees are not stupid. We know what austerity looks like even when someone puts “AI first” on the slide. The part I find hardest to accept is the direction of accountability. Employees are expected to know their market, know their products, explain their performance, defend their decisions and hit increasingly aggressive expectations. Yet when leadership misjudges a major market shift, builds too much complexity, allows churn to become a serious problem or fails to create sufficient growth, the consequences seem to land several levels below the people who made those decisions. At some point workforce transformation needs to include the people responsible for making the workforce transformation necessary. Before SymphonyAI asks employees for three times the productivity, there is a simpler question leadership should answer: How did an AI company end up needing its workforce to rescue it from the consequences of moving too slowly on AI?
+20h ago
 
-3h ago
+---
+
+**[Have software jobs shown us what most jobs will probably be like?](https://www.reddit.com/r/artificial/comments/1wah05m/have_software_jobs_shown_us_what_most_jobs_will/)**
+
+It's not surprising that software development is one of the first jobs that AI has really transformed. It's text-based, economically valuable, and generally of interest to the kinds of people inventing and training the AI. There's also a large amount of training examples available online. The job in most cases is now: You are a manager of robots who do things that used to be your job. You're responsible for what they produce and so the skill and art is in guiding and reviewing their work. It seems likely that one by one most jobs will turn into the above description, over the next year or three. Of course the domain will vary, so your knowledge and expertise used for instructing and verifying what the robots do will be what matters. This means there will still be a big difference between the jobs of e.g. an architect, surgeon, or builder. Probably the same basic kinds of robots in most cases, but requiring very different kinds of oversight. If that's the case then everyone needs to learn the job of robot management, well and quickly. I don't know how we do that, but I think that's what we need to accomplish as a society.
+
+4h ago
 
 ---
 
@@ -63,7 +63,21 @@ I work at SymphonyAI, an enterprise software company whose entire identity is bu
 
 Spent the $200 within 8 hours on Astra. At first I was blown away, but checked things more thoroughly the next day, and a lot of the stuff it build wasn’t working. Actually 3 of the 4 things I asked Astra to do didn’t work. Quite disappointed. The demos focus mostly on 3D, Blender and games, but for coding and agentic use it was not an improvement at all for me. Maybe I could have prompted better, but when it spends 2+ hours on each task, you can’t really iterate and steer it. But still I feel like this is something AGI should have handled? Now I’m back to my usual setup with KIMI K.3 and DeepSeek flash trough standardcompute. Also keeping my max plan at both OpenAI and Claude, but $400+/month is starting to hurt. What are your thoughts? Closing in on AGI or was this all a part of a coordinated marketing stunt?
 
-19h ago
+1d ago
+
+---
+
+**[AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers](https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek) • 5h ago
+
+---
+
+**[Introducing AstraBlender! Real Blender that ChatGPT can use from a simple prompt sent from your phone on the ChatGPT website ;)](https://www.reddit.com/r/artificial/comments/1waj2rg/introducing_astrablender_real_blender_that/)**
+
+Simply prompt ChatGPT work (or any other agent with a cloud browser, like Grok Bot) to go to the website and use blender. From your fucking phone! No nice computer required. No terminal codex. No blender install. None of that is required! Just prompt ChatGPT from your phone! Browser blender already exists, but it requires webgpu, which agent cloud computers don’t have. Blender via MCP also already exists. This though, where you can simply prompt ChatGPT from your phone to use blender, does not already exist to my knowledge or astra’s knowledge. How this works: I have blender and astrablender installed on an OCI cloud computer. It is streaming a browser desktop of that OCI cloud computer using selkies/linux server. The agent accesses the render website with the browser desktop from its cloud computer and operates it from there (you can prompt it to use blender from your phone!) This means I am paying real money to keep this running. It is free to use, but I have limited compute. As a result, only one person can be using this at a time. First come, first serve. If I reach my compute budget, I have to take it down until I can afford more. I am losing money on this free service. Please consider leaving an optional tip on the website if you find this useful. I will use the tips to buy more compute, hopefully enough so that everyone can use it at the same time. ALTERNATIVELY: This is open source. https://github.com/dakotalock/astrablender If I run out of compute or you just want your own, you may make your own. Here is what you need to do: Set up an OCI computer (they do have a free tier) Have your agent install blender and astrablender from the repo on that cloud computer. Set up a render website if you want a frontend for it. That’s it! Free for everyone! All I ask is that you leave a star on the GitHub repo if you use my work. Please enjoy agent blender access from your cell phones!
+
+2h ago
 
 ---
 
@@ -75,47 +89,61 @@ Politico reports: A federal judge Friday refused to block a Minnesota law prohib
 
 ---
 
+**[Which AI is the best for helping me study?](https://www.reddit.com/r/artificial/comments/1wal3wc/which_ai_is_the_best_for_helping_me_study/)**
+
+Now, I know this may seem like a dumb question. ''Why would I want AI to help my studies?'' I failed at the first university entrance exams I took. And now, I will study for a year again and try to enter a university. And when I study, I obviously cant solve every question correctly. And whenever I look at the video solutions of those questions, it doesnt help me at all mostly. Sometimes the teachers skip the important details to finish that video as quickly as possible, sometimes their mics barely work or they are too loud, sometimes they dont even bother to explain at all. So, I started using AI for it last year. I tried both GPT and Gemini so far and I concluded that Gemini just solved it better. It is my personal opinion, I might be wrong too, I dont know. And so, I got the paid subscribtion for it. But those prices are expensive in my country. And I can really use only one AI. And now that everyone is saying Gemini is just getting worse, Im worried. I would appreciate any advices or opinions.
+
+39m ago
+
+---
+
 **[Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.](https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/)**
 
 The hikers story happened September 1st. Three guys from Roseville used Gemini to plan a Mount Shasta summit. The AI told them to bring far less food and water than they needed. They summited at 7pm, four hours after the recommended turnaround time, descended in the dark, one of them hurt his knee, and they spent the night stranded in a canyon until rangers found them the next morning. Google says they can't replicate the bad answers Gemini gave. Maybe the prompts were vague. Maybe the AI was overconfident. Doesn't really matter which. What matters is that three people trusted a model's output as expert advice in a context where being wrong had serious consequences. Two days later OpenAI launched GPT-6 Astra. 99.9% on ARC-AGI-3, 97.6% on FrontierMath Tier 4, 100% on ExploitBench. OpenAI is calling this the start of the AGI era. Independent benchmarks from Artificial Analysis are more cautious and show Anthropic's Fable 5.1 still ahead on the broader intelligence index. But here's what I can't stop thinking about. The hikers story and the capability story are not separate things. Every time a model gets more capable, more people trust it in higher stakes situations. That gap between what the model can do and what the person using it understands about its limits doesn't close automatically when capability improves. If anything it gets harder to manage because the outputs get more convincing. I work with organizations on AI adoption and the single most common thing I see is not people being too skeptical of AI. It's people not knowing when to stop trusting it. What's your take? Does more capability make the trust calibration problem better or worse?
 
-8h ago
+13h ago
 
 ---
 
-**[The "AI dependence" argument isn't new — it's 163 years old, and the original version didn't predict domination, but acquiescence](https://www.reddit.com/r/artificial/comments/1w9r1fe/the_ai_dependence_argument_isnt_new_its_163_years/)**
+**[Why aren't ARM chips more prevalent?](https://www.reddit.com/r/artificial/comments/1wahe3m/why_arent_arm_chips_more_prevalent/)**
 
-The idea of whether machines will dominate us is generally treated as a new one in current discussions on AI risk, since in 1863 Samuel Butler published a letter titled 'Darwin Among the Machines' which made an argument closely resembling the one in today's debate. He stated that the real danger was not that machines would gain control of power, but that people would find machines so useful that it would become practically impossible to get rid of them, so that by that stage the question of who was actually in charge would have already been answered — no matter who seemed to be in control. He said that a society which, in principle, could not destroy its machines had already "created a race of beings towards whom it is beyond our power to destroy" and had thus become "acquiescent in our bondage." This is a quite different claim from the one that says 'superintelligence takes over'; it's similar to the sorts of arguments currently being made regarding algorithmic dependence, attention economy lock-in, and infrastructure that is too deeply embedded to be undone — arguments that can be applied to any technology that is sufficiently indispensable, not just to intelligent machines. The full letter, together with the historical background (it is also the immediate source of the "Butlerian Jihad" in Dune, a fact that most people are unaware of) can be found here: https://romaricjannel.substack.com/p/the-rise-of-mechanical-life I'm wondering if people here consider "acquiescence through indispensability" to be a real and separate risk category or whether it's just a rewording of dependence anxiety that appears each time a major technology is introduced.
+So, I've had this question floating around in my head for a while. Given the high amount of power that generative AI uses, why aren't we using ARM based chips for data centers? They consume far less energy than x86 based chips and the technology has improved exponetially in the past ~6yrs. If it's because of hardwar constraints, what exactly would need to change for ARM chips to be considered a viable chip architecture for this purpose?
 
-17h ago
-
----
-
-**[Been building a "block first, generate second" tool for AI video - curious what's still missing](https://www.reddit.com/r/artificial/comments/1wa7ph3/been_building_a_block_first_generate_second_tool/)**
-
-Been experimenting with a workflow on dimension.so where an agent builds out a 3D pre-vis scene first - blocking objects, character motion, and camera - then feeding that directly into Seedance 2.0 Mini as a video-to-video reference instead of prompting from scratch. Added GPT6/Asta into the agent's reasoning layer and I dont think the improvement in multistep task handling is noticeable in how consistent the scene composition turns out. Curious what people think - what went well in the pre-vis scene itself, and what could've been improved before it even got passed to Seedance?
-
-7h ago
-
----
-
-**[AI could pose 'existential' risk to humanity, UN rights chief warns](https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/)**
-
-🔗 [reuters.com](https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/) • 11h ago
-
----
-
-**[continuous diffusion for code generation in one step](https://www.reddit.com/r/artificial/comments/1wa6ouo/continuous_diffusion_for_code_generation_in_one/)**
-
-Can language models write code in one step? Yes: make language continuous, use diffusion, then distill the trajectory to one step. Paper: https://arxiv.org/abs/2609.04531 Code: https://github.com/pengzhangzhi/plaidq
-
-7h ago
+4h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift](https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html)**
+
+The New York Times • 2h ago
+
+---
+
+**[Making sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)**
+
+Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.
+
+mistral.ai • 6h ago
+
+---
+
+**[Mistral AI raises €3 billion in Samsung-led Series D round](https://qz.com/mistral-ai-samsung-series-d-funding-valuation-090826)**
+
+The French AI startup's post-money valuation now exceeds €21 billion, up from €11.7 billion a year ago
+
+qz.com • 16m ago
+
+---
+
+**[Early Data Indicates an A.I.-Generated Drug Could Slow Aging](https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html)**
+
+The New York Times • 1d ago
+
+---
 
 **[An Alien Mind](https://openai.com/index/an-alien-mind/)**
 
@@ -125,79 +153,45 @@ OpenAI • 1d ago
 
 ---
 
-**[OpenAI chief scientist warns no-one is prepared for consequences of AI](https://www.bbc.com/news/articles/cwyzrrd0kp7o)**
+**[The body image battle is real in 2026, but the bodies may not be](https://www.axios.com/2026/09/08/ai-fitness-influencers-body-ideals)**
 
-The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.
-
-BBC • 17h ago
+Axios • 12m ago
 
 ---
 
-**[OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI](https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai)**
+**[The Prodigy Problem](https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/)**
 
-bloomberg.com • 13h ago
+Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions.
+
+The Atlantic • 35m ago
 
 ---
 
-**[AI cancer cures slowed by chip shortage, says UK's biggest tech boss](https://www.bbc.com/news/articles/c0m39g7xzevo)**
+**[China’s AI Computing Boom Is Moving Far Beyond Its Biggest Cities](https://www.bloomberg.com/news/newsletters/2026-09-08/china-s-ai-computing-boom-is-moving-far-beyond-its-biggest-cities)**
+
+Bloomberg.com • 31m ago
+
+---
+
+**[Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts](https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html)**
+
+U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday
+
+CNBC • 1d ago
+
+---
+
+**[AI will cure cancer in our lifetime, claims boss of UK chip giant](https://www.bbc.com/news/articles/c0m39g7xzevo)**
 
 The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are "going to solve it".
 
-BBC • 7h ago
-
----
-
-**[French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift](https://www.nytimes.com/2026/09/08/business/mistral-ai-fund-raising.html)**
-
-The New York Times • 1h ago
-
----
-
-**[Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion](https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html)**
-
-Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.
-
-CNBC • 1h ago
-
----
-
-**[French AI company Mistral hits $24 billion valuation in funding round](https://www.reuters.com/world/europe/french-ai-company-mistral-hits-24-billion-valuation-funding-round-2026-09-08/)**
-
-Reuters • 1h ago
-
----
-
-**[ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges](https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips)**
-
-bloomberg.com • 13m ago
-
----
-
-**[Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)**
-
-Arm Mali G2-Ultra NX brings AI-native graphics and neural acceleration to desktop-class mobile gaming.
-
-Arm Newsroom • 4h ago
-
----
-
-**[AI could pose 'existential' risk to humanity, UN rights chief warns](https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/)**
-
-Reuters • 15h ago
+BBC • 2h ago
 
 ---
 
 ---
 
 ## HackerNews: "ai"
-
-**[AI handles incidents, engineers lose touch with their systems](https://news.ycombinator.com/item?id=49574167)**
-
-AI-assisted incident response can lower MTTR while leaving engineers less prepared for the complex incidents automation cannot solve.
-
-⬆️ 412 • 💬 342 • 2d ago • [sylvainkalache.com](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-
----
 
 **[How I feel about AI](https://news.ycombinator.com/item?id=49587128)**
 
@@ -211,7 +205,7 @@ It's complicated
 
 It’s very tempting to imagine that AI turns everyone into a tool-builder - now everyone can just ask the model to make the software they need, and apps as we know them are dead.  I think that misunderstands how most people think and where software actually comes from, and more importantly, it isn’t
 
-⬆️ 155 • 💬 76 • 2d ago • [Benedict Evans](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+⬆️ 156 • 💬 76 • 2d ago • [Benedict Evans](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
 
 ---
 
@@ -219,13 +213,19 @@ It’s very tempting to imagine that AI turns everyone into a tool-builder - now
 
 $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
-⬆️ 98 • 💬 116 • 11h ago • [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
+⬆️ 100 • 💬 117 • 17h ago • [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses)
 
 ---
 
 **[I refused to train the AI that could replace me](https://news.ycombinator.com/item?id=49593959)**
 
-⬆️ 94 • 💬 113 • 1d ago • [restofworld.org](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+⬆️ 95 • 💬 113 • 1d ago • [restofworld.org](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
+
+---
+
+**[Initial effects of AI technology on employment look positive](https://news.ycombinator.com/item?id=49596610)**
+
+⬆️ 88 • 💬 132 • 1d ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
 
 ---
 
@@ -233,13 +233,7 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped SQLite memory engine for Google Antigravity, Claude Code, Cursor, and Windsurf. Zero cloud lock-in. - timgordontg/engrim
 
-⬆️ 87 • 💬 50 • 1d ago • [GitHub](https://github.com/timgordontg/engrim)
-
----
-
-**[Initial effects of AI technology on employment look positive](https://news.ycombinator.com/item?id=49596610)**
-
-⬆️ 79 • 💬 120 • 19h ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
+⬆️ 88 • 💬 51 • 1d ago • [GitHub](https://github.com/timgordontg/engrim)
 
 ---
 
@@ -247,7 +241,7 @@ The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped 
 
 Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...
 
-⬆️ 78 • 💬 32 • 2d ago • [GitHub](https://github.com/okf-memory/okf-agent-memory)
+⬆️ 79 • 💬 32 • 2d ago • [GitHub](https://github.com/okf-memory/okf-agent-memory)
 
 ---
 
@@ -256,7 +250,7 @@ Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi
 A short list of articles that temper my enthusiasm around AI, and drawing a
 few lines in the sand along the way.
 
-⬆️ 73 • 💬 12 • 11h ago • [allan.reyes.sh](https://allan.reyes.sh/posts/ai-cold-showers/)
+⬆️ 75 • 💬 12 • 16h ago • [allan.reyes.sh](https://allan.reyes.sh/posts/ai-cold-showers/)
 
 ---
 
@@ -268,9 +262,27 @@ The New York City Department of Education and the Los Angeles Unified School Dis
 
 ---
 
+**[Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](https://news.ycombinator.com/item?id=49605511)**
+
+Arm Mali G2-Ultra NX brings AI-native graphics and neural acceleration to desktop-class mobile gaming.
+
+⬆️ 48 • 💬 35 • 7h ago • [Arm Newsroom](https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
+
+**[OpenAI Reveals ALIEN MIND - The Biggest AI Warning Yet](https://www.youtube.com/watch?v=M2aB-2XQ9UU)**
+
+OpenAI's chief scientist just issued one of its strongest AI warnings yet. He says today's systems are becoming alien minds we do ...
+
+📺 AI Revolution
+
+👁️ 56K • 👍 889 • 💬 125 • ⏱️ 15:24 • 11h ago
+
+---
 
 **[The Great AI Die-Off Has Started](https://www.youtube.com/watch?v=aunUOIrbIeM)**
 
@@ -278,7 +290,7 @@ Get the #1 AI wearable: https://www.fieldy.ai/julia* FREE GUIDE: The Content Cre
 
 📺 Julia McCoy
 
-👁️ 76K • 👍 2K • 💬 143 • ⏱️ 8:23 • 2d ago
+👁️ 77K • 👍 2K • 💬 146 • ⏱️ 8:23 • 2d ago
 
 ---
 
@@ -288,17 +300,17 @@ Really American Host Steve Harness Breaks Down The latest batch of anti-Trump AI
 
 📺 Really American
 
-👁️ 437K • 👍 23K • 💬 871 • ⏱️ 12:34 • 1d ago
+👁️ 462K • 👍 24K • 💬 897 • ⏱️ 12:34 • 1d ago
 
 ---
 
-**[I Was Offered Money to Tell You AI Will Kill Us](https://www.youtube.com/watch?v=lPdmYMHrWKg)**
+**[This Lazy AI Side Hustle Makes $11,267/Month (LIVE BREAKDOWN)](https://www.youtube.com/watch?v=NE-62S4OYCg)**
 
-Go to https://ground.news/sabine to get 40% off the Vantage plan and see through sensationalized reporting. Stay fully informed ...
+Join Monetise and let my AI system build you a profitable side hustle: https://link.consulting.com/shs-ep2-yt Message my team ...
 
-📺 Sabine Hossenfelder
+📺 Iman Gadzhi
 
-👁️ 286K • 👍 11K • 💬 2K • ⏱️ 7:21 • 2d ago
+👁️ 1.4M • 👍 41K • 💬 606 • ⏱️ 1:29:33 • 14h ago
 
 ---
 
@@ -308,27 +320,37 @@ Stop asking and start building with Emergent: https://app.emergent.sh/?utm_shift
 
 📺 Ticker Symbol: YOU
 
-👁️ 170K • 👍 5K • 💬 426 • ⏱️ 23:02 • 2d ago
+👁️ 172K • 👍 5K • 💬 428 • ⏱️ 23:02 • 2d ago
 
 ---
 
-**[Neon just quit streaming for AI](https://www.youtube.com/watch?v=SMjDZaglMww)**
+**[The Cheapest 32GB Nvidia GPU You Can Buy for Local AI (Tesla V100)](https://www.youtube.com/watch?v=3P6m_QBIgAo)**
 
-Neon just quit #streaming #ai.
+Buy one on Amazon: https://lon.tv/291nh - also find the aaostar dock here: https://amzn.to/3TcsM5b (compensated affiliate links).
 
-📺 BennySGB
+📺 Lon.TV
 
-👁️ 1K • 👍 48 • 💬 9 • ⏱️ 1:30 • 2h ago
+👁️ 66K • 👍 1K • 💬 116 • ⏱️ 15:09 • 1d ago
 
 ---
 
-**[Long AI Video Kaise Banaye (15 Min) Using Just 1 Prompt🔥|| Ai Automation 2026](https://www.youtube.com/watch?v=U7X6gSWqLTE)**
+**[Grok AI Finally Reveals Who Really Built the Pyramid — With Undeniable Proof](https://www.youtube.com/watch?v=0hr_ahlScik)**
 
-Long AI Video Kaise Banaye (15 Min) Using Just 1 Prompt  || Ai Automation 2026 ‎‎✨MASTER PROMT ...
+Grok AI Finally Reveals Who Built The Pyramids — And The Evidence Is Unbelievable What if the story we've all been taught ...
 
-📺 Editing with piyush
+📺 Ambrose Discovery
 
-👁️ 17K • 💬 47 • ⏱️ 8:11 • 17h ago
+👁️ 147K • 👍 786 • 💬 60 • ⏱️ 26:20 • 19h ago
+
+---
+
+**[I Made AI Cheats Fight My AI Anti-Cheat](https://www.youtube.com/watch?v=Gr8iNYu3eF0)**
+
+BUSINESS EMAIL ▻ KingHaiX7@yandex.ru TWITCH ▻https://www.twitch.tv/haixxd KICK ▻ https://kick.com/kinghaix 2ND ...
+
+📺 HaiX
+
+👁️ 146K • 👍 3K • 💬 285 • ⏱️ 29:30 • 21h ago
 
 ---
 
@@ -338,7 +360,7 @@ Haters will say this is fake AI medicine…
 
 📺 Nick Freitas
 
-👁️ 188K • 👍 17K • 💬 585 • ⏱️ 0:40 • 1d ago
+👁️ 191K • 👍 17K • 💬 592 • ⏱️ 0:40 • 1d ago
 
 ---
 
@@ -346,27 +368,7 @@ Haters will say this is fake AI medicine…
 
 📺 Zack Shutt
 
-👁️ 613K • 👍 40K • 💬 837 • ⏱️ 1:12 • 17h ago
-
----
-
-**[I Turned GPT-6 Astra Into the Ultimate AI Second Brain](https://www.youtube.com/watch?v=yysILVsfLFM)**
-
-My playbook for growing a $1M AI agency: https://app.aiautomationsociety.ai/opaa-ads-optin My FREE resources: ...
-
-📺 Nate Herk | AI Automation
-
-👁️ 101K • 👍 1K • 💬 131 • ⏱️ 19:49 • 1d ago
-
----
-
-**[The Economics of the AI Bubble](https://www.youtube.com/watch?v=TD3FB9NkwSQ)**
-
-Join the Rebel Economists: https://www.skool.com/stevekeen Analyze data effortlessly: https://ravelation.net/ (use ...
-
-📺 ProfSteveKeen
-
-👁️ 114K • 👍 2K • 💬 368 • ⏱️ 21:57 • 1d ago
+👁️ 807K • 👍 48K • 💬 975 • ⏱️ 1:12 • 22h ago
 
 ---
 
@@ -382,7 +384,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 7,216 • ❤️ 764 • 5d ago
+⬇️ 10,661 • ❤️ 797 • 5d ago
 
 ---
 
@@ -394,7 +396,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,416,358 • ❤️ 14,297 • 24d ago
+⬇️ 6,712,160 • ❤️ 14,323 • 24d ago
 
 ---
 
@@ -406,7 +408,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 403,292 • ❤️ 581 • 5d ago
+⬇️ 479,597 • ❤️ 605 • 6d ago
 
 ---
 
@@ -418,19 +420,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 271,713 • ❤️ 588 • 5d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
-
-`image-to-video`
-
-⬇️ 1,584,382 • ❤️ 3,095 • 6d ago
+⬇️ 444,052 • ❤️ 605 • 5d ago
 
 ---
 
@@ -442,7 +432,19 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 13 • ❤️ 396 • 2h ago
+⬇️ 2,879 • ❤️ 534 • 2h ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a diffusion model for generating and manipulating video and audio content. It supports image-to-video, text-to-video, and various other cross-modal generation tasks, enabling creative video production and editing.
+
+`image-to-video`
+
+⬇️ 1,644,796 • ❤️ 3,119 • 7d ago
 
 ---
 
@@ -454,31 +456,7 @@ Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabil
 
 `image-text-to-text` `180.0B`
 
-⬇️ 474,693 • ❤️ 4,984 • 12d ago
-
----
-
-**[DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)**
-
-*DeepSeek*
-
-DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates visual understanding with text-based agent capabilities, enhancing performance on tasks like ApexBench and Agents' Last Exam while maintaining strong text-only agent performance.
-
-`image-text-to-text` `304.6B`
-
-⬇️ 251,611 • ❤️ 804 • 6d ago
-
----
-
-**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
-
-`27.3B`
-
-⬇️ 10,479,045 • ❤️ 3,653 • 18d ago
+⬇️ 503,263 • ❤️ 4,992 • 12d ago
 
 ---
 
@@ -490,13 +468,51 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 258,896 • ❤️ 307 • 4h ago
+⬇️ 348,753 • ❤️ 323 • 9h ago
+
+---
+
+**[DeepSeek-V4-Flash-Vision-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)**
+
+*DeepSeek*
+
+DeepSeek-V4-Flash-Vision-Exp is an experimental multimodal model that integrates visual understanding with text-based agent capabilities, enhancing performance on tasks like ApexBench and Agents' Last Exam while maintaining strong text-only agent performance.
+
+`image-text-to-text` `304.6B`
+
+⬇️ 313,547 • ❤️ 808 • 7d ago
+
+---
+
+**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
+
+*Unsloth AI*
+
+Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for enhanced performance in coding, professional tasks, and agentic applications. It features native image/video understanding, flexible thinking control, and supports context lengths up to 262,144 tokens, extensible to 1M.
+
+`27.3B`
+
+⬇️ 10,675,683 • ❤️ 3,665 • 18d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[AutoResearch: Insight In, Hallucination Out](https://huggingface.co/papers/2608.17906)**
+
+*Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)*
+
+🏢 EvoMap
+
+AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
+
+▲ 16 • 💬 2 • ⭐ 2,171 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
+
+---
 
 **[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
 
@@ -506,7 +522,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 A 150M-parameter reasoning model using recurrent latent reasoning and in-context learning achieves a new cost-accuracy frontier on ARC-AGI-1.
 
-▲ 777 • 💬 6 • ⭐ 11,251 • 29d ago
+▲ 778 • 💬 6 • ⭐ 11,251 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
 
@@ -524,20 +540,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[AutoResearch: Insight In, Hallucination Out](https://huggingface.co/papers/2608.17906)**
-
-*Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)*
-
-🏢 EvoMap
-
-AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
-
-▲ 11 • 💬 2 • ⭐ 1,697 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
-
----
-
 **[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
 
 *Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
@@ -546,9 +548,22 @@ AutoResearch is a two-stage autonomous system that grounds research ideas throug
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 107 • 💬 2 • ⭐ 12,000 • 22d ago
+▲ 107 • 💬 2 • ⭐ 12,074 • 22d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
+**[OpenDevin: An Open Platform for AI Software Developers as Generalist
+  Agents](https://huggingface.co/papers/2407.16741)**
+
+*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
+
+OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
+
+▲ 86 • 💬 7 • ⭐ 86,805 • 25mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -558,7 +573,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 128 • 💬 6 • ⭐ 102,883 • 20mo ago
+▲ 128 • 💬 6 • ⭐ 102,992 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -575,19 +590,6 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 ▲ 206 • 💬 3 • ⭐ 2,202 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
-
----
-
-**[OpenDevin: An Open Platform for AI Software Developers as Generalist
-  Agents](https://huggingface.co/papers/2407.16741)**
-
-*Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)*
-
-OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
-
-▲ 86 • 💬 7 • ⭐ 86,646 • 25mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
@@ -618,15 +620,16 @@ Prime Agent is an open-source harness that uses recursive subagents, persistent 
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
 
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
 
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 46 • 💬 2 • ⭐ 30,998 • 25mo ago
+▲ 68 • 💬 4 • ⭐ 31,087 • 12mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -640,7 +643,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 21.3k • 🔱 2.5k • 9h ago
+⭐ 21.3k • 🔱 2.5k • 15h ago
 
 ---
 
@@ -650,7 +653,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.4k • 🔱 548 • 15h ago
+⭐ 4.5k • 🔱 549 • 21h ago
 
 ---
 
@@ -660,7 +663,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 4.0k • 🔱 239 • 2h ago
+⭐ 4.0k • 🔱 243 • 1h ago
 
 ---
 
@@ -670,7 +673,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.9k • 🔱 438 • 10d ago
+⭐ 3.9k • 🔱 440 • 11d ago
 
 ---
 
@@ -680,7 +683,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 444 • 1d ago
+⭐ 3.5k • 🔱 445 • 1h ago
 
 ---
 
@@ -690,7 +693,17 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 149 • 3h ago
+⭐ 2.4k • 🔱 151 • 4h ago
+
+---
+
+**[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)**
+
+AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
+
+`Python`
+
+⭐ 2.2k • 🔱 145 • 7d ago
 
 ---
 
@@ -700,7 +713,7 @@ AI harness reference implementation for on-demand delivery workflows
 
 `Java`
 
-⭐ 1.9k • 🔱 62 • 4d ago
+⭐ 2.0k • 🔱 62 • 5d ago
 
 ---
 
@@ -720,17 +733,7 @@ WeChat AI - 自托管微信角色扮演对话服务
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 1.3k • 20h ago
-
----
-
-**[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)**
-
-AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
-
-`Python`
-
-⭐ 1.8k • 🔱 133 • 6d ago
+⭐ 1.9k • 🔱 1.3k • 2h ago
 
 ---
 

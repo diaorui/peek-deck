@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-08T06:18:43.624627+00:00'
+updated: '2026-09-08T11:35:48.307238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 08, 2026 at 06:18 UTC  
+**Last Updated:** September 08, 2026 at 11:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Progress on my custom hexapod project over the past few months. In the first few
 
 Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studied optimal control for robot manipulators during my bachelor's and researched reinforcement learning during my master's. Recently, I have been working on transferring simulation-trained RL policies to a real-world robot manipulator (i.e., FR3). I have seen different choices for a robotic agent's action space in machine learning. I think there is not a promising design of the action space, since each choice has advantages and drawbacks. So, I trained an RL agent in simulation (Isaac Sim) with a Cartesian delta action space, which outputs the end-effector's desired Cartesian pose at the next control step based on the robot's world frame. This is the page where the problem begins. I use DifferentialIKController in Isaac Lab for the low-level controller, which maps the delta pose action to the desired joint positions. In Isaac Sim, the desired joint position is controlled by the internal physics engine and a PD control law that computes target joint torques. In a real-world setup, there is no physics engine or plug-and-play low-level controller. You should implement the low-level controller that maps the delta pose actions to joint torque and position commands for the robot's API (e.g., franka_ros2's ROS2 control plugins). Moreover, a safety-violation monitor should be implemented by us to prevent hardware failures. In contrast to simulation, real-world robots are highly sensitive to safety constraints; for instance, collision detection and joint limits. Currently, I have implemented a custom C++ controller that takes Cartesian delta pose commands via the ROS2 topic and computes desired joint torques based on the robot's kinematics and dynamics. However, implementing a safety monitor remains a problem. As another strategy, I have been thinking about using ROS2's MoveIt packages for sending delta commands and monitoring task-space safety violations, which may cost wall-clock time compared to the vanilla C++ controller. How do you guys work on a real-world robot learning setup? I want to hear from you about conducting real-world robot manipulation experiments with neural policies (e.g., BC or RL).
 
-1d ago
+2d ago
 
 ---
 
@@ -78,7 +78,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 **[Special news Ortomi Robot diy code given in github](https://www.reddit.com/r/robotics/comments/1w8qg8m/special_news_ortomi_robot_diy_code_given_in_github/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -94,7 +94,7 @@ This has been my project over the summer. Finally got it to walk after many prot
 
 I want to build the arctos for experimenting with simple automation. Is the arctos 4 open loop kit with all the hardware (except 3d printed parts) a good / fair deal when comparing to gathering all components seperatly? I am still fairly unfamiliary with how much all of these seperate bearings etc. cost, and aliexpress lists 20 different version with huge variations in price.
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 1d ago
+Reuters • 21h ago
 
 ---
 
@@ -134,7 +134,23 @@ understandingai.org • 6d ago
 
 Autonomous blood-drawing devices could help address phlebotomist shortages
 
-IEEE Spectrum • 17h ago
+spectrum.ieee.org • 22h ago
+
+---
+
+**[LSTM opens $23m robotic AI lab for infection research](https://www.yahoo.com/news/science/articles/lstm-opens-23m-robotic-ai-112415402.html)**
+
+The laboratory is expected to open in 2027 and create new jobs in the region.
+
+yahoo.com • 11m ago
+
+---
+
+**[Warehouse Robotics Market: A Building-Shaped Commitment With A Twenty-Year Payback](https://au.finance.yahoo.com/news/warehouse-robotics-market-building-shaped-101400496.html)**
+
+The robotics race is moving beyond the robot itself. AI orchestration, fleet intelligence and flexible automation are becoming the new sources of warehouse advantage.Wilmington, DE, United States, Sept. 08, 2026 (GLOBE NEWSWIRE) -- Warehouse Robotics Market is Rapidly Becoming the New Operating Standard for Modern Fulfilment Warehouse Robotics Market has moved past the proof-of-concept phase that dominated industry conversations for most of the last decade. It now sits at the center of how serio
+
+au.finance.yahoo.com • 1h ago
 
 ---
 
@@ -142,47 +158,29 @@ IEEE Spectrum • 17h ago
 
 Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
 
-therobotreport.com • 16h ago
+therobotreport.com • 22h ago
 
 ---
 
-**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
+**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
 
-Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
+Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
 
-Yahoo Finance UK • 15h ago
-
----
-
-**[Huayan Robotics to Present Chinese Intelligent Manufacturing Solution at IMTS 2026](https://www.prnewswire.com/news-releases/huayan-robotics-to-present-chinese-intelligent-manufacturing-solution-at-imts-2026-302864794.html)**
-
-/PRNewswire/ -- From September 14 to 19, Huayan Robotics will participate in IMTS 2026 at McCormick Place in Chicago, the United States (Booth No.: 236746)....
-
-PR Newswire • 15h ago
+Arm Newsroom • 9h ago
 
 ---
 
-**[New system helps humanoid robots gesture more naturally while speaking](https://interestingengineering.com/ai-robotics/robogesture-gives-humanoid-robots-real-time-gestures)**
+**[Inside The European Factory Where Robots Are Building Robots](https://www.forbes.com/sites/johnkoetsier/2026/09/07/inside-the-european-factory-where-robots-are-building-robots/)**
 
-Galbot's RoboGesture gives humanoid robots real-time gestures that match speech, making human-robot interactions more natural.
-
-Interesting Engineering • 20h ago
+Forbes • 17h ago
 
 ---
 
-**[America’s Biggest Military Shipbuilder Targets 15% Higher Shipyard Output With Robotics And AI](https://www.marineinsight.com/americas-biggest-military-shipbuilder-targets-15-higher-shipyard-output-with-robotics-and-ai/)**
+**[Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home](https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home)**
 
-Marine Insight - The maritime industry guide.
+Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.
 
-Marine Insight • 17h ago
-
----
-
-**[These Light-Powered Robots Can Keep Jumping Forever](https://scitechdaily.com/these-light-powered-robots-can-keep-jumping-forever/)**
-
-A self-resetting soft robot can repeatedly jump under infrared light, with simple design changes controlling how and where it moves.
-
-SciTechDaily • 1d ago
+Live Science • 5h ago
 
 ---
 
@@ -196,7 +194,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 505K • 👍 9K • 💬 717 • ⏱️ 15:41 • 5d ago
+👁️ 512K • 👍 9K • 💬 721 • ⏱️ 15:41 • 5d ago
 
 ---
 
@@ -206,7 +204,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 289K • 👍 2K • 💬 635 • ⏱️ 1:44 • 4d ago
+👁️ 291K • 👍 2K • 💬 639 • ⏱️ 1:44 • 4d ago
 
 ---
 
@@ -216,27 +214,7 @@ I had 7 days to build a walking robot from scratch or I had to give back the 3D 
 
 📺 Kayden Knapik
 
-👁️ 78K • 👍 1K • 💬 228 • ⏱️ 19:28 • 6d ago
-
----
-
-**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
-
-After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
-
-📺 GrislyDeshaun
-
-👁️ 440K • 👍 5K • 💬 369 • ⏱️ 26:59 • 1d ago
-
----
-
-**[Humanoid Robot Goes Haywire And Collapses Mid-Cheer Routine](https://www.youtube.com/watch?v=BqL963OVnYc)**
-
-A humanoid robot suddenly collapsed and began twitching during a synchronized cheerleading routine in Beijing. The bizarre ...
-
-📺 New York Post
-
-👁️ 48K • 👍 174 • 💬 141 • ⏱️ 1:15 • 2d ago
+👁️ 79K • 👍 1K • 💬 234 • ⏱️ 19:28 • 6d ago
 
 ---
 
@@ -246,7 +224,57 @@ A San Francisco startup has launched a $30-an-hour housecleaning service powered
 
 📺 Associated Press
 
-👁️ 263K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+👁️ 267K • 👍 4K • 💬 2K • ⏱️ 1:39 • 6d ago
+
+---
+
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+
+📺 South China Morning Post
+
+👁️ 190K • 👍 2K • 💬 450 • ⏱️ 3:47 • 5d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 9K • 👍 137 • 💬 16 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
+
+A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 242K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
+
+---
+
+**[Elon Musk Warns Against AI Regulation, Predicts 1 Billion Humanoid Robots at G20 Ministerial | AI1N](https://www.youtube.com/watch?v=vbwQByTOoz8)**
+
+Elon Musk says governments should make emerging technologies “default legal” rather than default illegal, warning excessive ...
+
+📺 DRM News
+
+👁️ 143K • 👍 777 • 💬 32 • ⏱️ 12:35 • 6d ago
+
+---
+
+**[These Robots Can Sprint. But Can They Think? | BBC News](https://www.youtube.com/watch?v=IaeTPQh4ewE)**
+
+AI Decoded breaks down the extraordinary scenes from the World Humanoid Robot Games in Beijing, where robotic athletes ...
+
+📺 BBC News
+
+👁️ 61K • 👍 289 • 💬 130 • ⏱️ 25:57 • 3d ago
 
 ---
 
@@ -257,34 +285,6 @@ Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sig
 📺 Breaking Points
 
 👁️ 246K • 👍 3K • 💬 1K • ⏱️ 8:51 • 5d ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 189K • 👍 2K • 💬 447 • ⏱️ 3:47 • 4d ago
-
----
-
-**[Robot Tattoo  #tattoo #tattooartist #shortsviral #fyp #tattoos #tattoohumor #tattooshop](https://www.youtube.com/watch?v=uC2osbAFe4U)**
-
-📺 Unemployable
-
-👁️ 575K • 👍 19K • 💬 304 • ⏱️ 1:37 • 2d ago
-
----
-
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
-
-PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 4.0M • 👍 76K • 💬 10K • ⏱️ 25:44 • 1d ago
 
 ---
 
