@@ -117,6 +117,20 @@
       "site_name": "en.bitcoin.it"
     },
     {
+      "title": "Getdescriptorinfo \u2013 Bitcoin Core RPC Reference \u2013 Chainquery.com",
+      "url": "https://chainquery.com/rpc/getdescriptorinfo",
+      "hn_url": "https://news.ycombinator.com/item?id=49621007",
+      "author": "babatuseyhe",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-09T04:30:21Z",
+      "object_id": "49621007",
+      "image": "https://chainquery.com/static/images/chainquery-logo.png",
+      "description": "analyses a descriptor.",
+      "favicon": "https://chainquery.com/static/favicon.ico",
+      "site_name": "ChainQuery.com"
+    },
+    {
       "title": "From Bitcoin Bankruptcy to Data Center Billions in West Texas",
       "url": "https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/",
       "hn_url": "https://news.ycombinator.com/item?id=49548221",
@@ -129,23 +143,9 @@
       "description": "Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.\u00a0 The site is already",
       "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
       "site_name": "American Buildout"
-    },
-    {
-      "title": "White House Launches Arcade.Gov",
-      "url": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
-      "hn_url": "https://news.ycombinator.com/item?id=49570467",
-      "author": "nosecreek",
-      "points": 17,
-      "num_comments": 2,
-      "created_at": "2026-09-04T21:31:08Z",
-      "object_id": "49570467",
-      "image": "https://assets-prd.ignimgs.com/2026/09/04/screenshot-2026-09-04-120400-1788519849788.png?width=1280&format=jpg&auto=webp&quality=80",
-      "description": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.",
-      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
-      "site_name": "IGN"
     }
   ],
-  "total_hits": 13,
+  "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-09-09T00:02:25.913540+00:00"
+  "fetched_at": "2026-09-09T05:00:24.094970+00:00"
 }

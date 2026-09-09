@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-09T05:00:24.094739+00:00",
+  "data": {
+    "url": "https://chainquery.com/rpc/getdescriptorinfo",
+    "title": "getdescriptorinfo, Bitcoin Core RPC, ChainQuery.com",
+    "description": "analyses a descriptor.",
+    "image": "https://chainquery.com/static/images/chainquery-logo.png",
+    "favicon": "https://chainquery.com/static/favicon.ico",
+    "site_name": "ChainQuery.com",
+    "author": null,
+    "keywords": null
+  }
+}

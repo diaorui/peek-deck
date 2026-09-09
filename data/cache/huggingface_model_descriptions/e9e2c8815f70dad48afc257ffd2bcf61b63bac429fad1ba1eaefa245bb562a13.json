@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-09T05:00:57.133163+00:00",
+  "data": "all-MiniLM-L6-v2 is a sentence-transformers model that encodes sentences and paragraphs into 384-dimensional dense vectors for semantic search, clustering, and similarity tasks.",
+  "model_id": "sentence-transformers/all-MiniLM-L6-v2"
+}

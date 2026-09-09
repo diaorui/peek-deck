@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "pub_date": 1788888023.0,
-      "article_url": "https://openai.com/index/navier-stokes-solution/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "headline": "Tech company discloses first-of-its-kind A.I. cyberattack of one government against another",
-      "source": "nbcnews.com",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYW9BSk5NaVZJXzczSHBuM1J0VG9wR2xrckxWY2JRc2JuOTJqY1NtM1E1RFZYUTNNYlNFZWVnTWhHQmx5S085TzN4VVRic1JhRjY4WlVBVzRCclktLUJnRjBhTkJteHpUTUxLSTY2ZTFMeVZtV1dqS1cxMDVTVjBCQ09yNHc1QTYzcHNCdEJvbVhUal82SHJvZ3JXc3M0UWpyTjhGN1o3RmF2aU9WYmN2MzhDU2NFd2swY1NUWg?oc=5",
-      "pub_date": 1788910232.0,
-      "article_url": "https://www.nbcnews.com/video/tech-company-discloses-first-of-its-kind-a-i-cyberattack-against-a-government-269512773764",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1788909917103_now_hallie_ksi_dream_ai_260908_S3_1920x1080-xjsfy8.jpg",
-      "description": "Israeli cyber security firm Dream says it disclosed an A.I. hack working to compromise a government entity in Asia, thousands of miles away. NBC News\u2019 Keir Simmons reports."
-    },
-    {
-      "headline": "Should promotion depend on how workers use AI?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTVBlTnBWNGJBN0V5R01vemQtM3BxYzkwU0hzRWlHcl9CbFpXV24xdEM5eXNnT25jRFRqQXR6dkhKNnU4SmRoaFZRMGZJSnhHWkVqV0JGbTFYUQ?oc=5",
-      "pub_date": 1788908723.0,
-      "article_url": "https://www.bbc.com/news/articles/c1j1896e973o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg",
-      "description": "More companies are tying career progression to AI use: is that fair?"
-    },
-    {
       "headline": "Exclusive | Anthropic Researcher Quits Over \u2018Out-of-Control\u2019 AI Fears",
-      "source": "WSJ",
+      "source": "wsj.com",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
-      "pub_date": 1788911210.0,
+      "pub_date": 1788911160.0,
       "article_url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
       "image": null,
       "description": null
     },
     {
-      "headline": "The 24-Year-Old Who Lost Billions",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55UXViVlhsNE5xd0FVbTVQeWd0R0tiTm5wRUdxUXJnRzlGdlVvaTJ3bWVtcWh0Vm5hRm84Um5YQlQxbk5YN0FDRW1mYTVfWHJ2bzU4TnRfa0pVUjRPcEw0NDZzWmNtbExMcERoWjFxdVY1dkE1T1lyZnIwa1d1dw?oc=5",
-      "pub_date": 1788865200.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
-      "image": "https://cdn.theatlantic.com/thumbor/OtNjluyoLr6Ihckv5JXLg3fqR_Q=/0x5:3995x2086/1200x625/media/img/mt/2026/09/2026_09_04_The_Culture_That_Produced_Leopold_Aschenbrenner_Theo_Baker/original.jpg",
-      "description": "Leopold Aschenbrenner claimed to know the future of AI. His investors lost billions."
+      "headline": "Anthropic Alignment Lead Issues Warning About AI Killing Humans As Researcher Resigns",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5",
+      "pub_date": 1788927291.0,
+      "article_url": "https://www.forbes.com/sites/siladityaray/2026/09/09/anthropic-alignment-lead-warns-ai-could-kill-all-humans-as-researcher-quits/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmRtd2QzOGxwWXZSVHQ1dGRNM3J2RkpYdFgtNjhacnI5WHloakJXTXpJa0xMUG1jVzJGSWtaNnhfVDJsdGZ3eDBmTG9XdDZqMV9fTk90c2lpMkVUcE5meHM0UzM5eTVzZlZDSHRaM1ZLcHNSNlZ2XzdaYTh0cW5hWkNJb2ZWa2ppeE5CU3JJdjZVTC0tWkRR?oc=5",
-      "pub_date": 1788876490.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png",
-      "description": "We\u2019re introducing AlphaGenome Atlas, a database predicting the effects of every possible single nucleotide variant in the human genome."
+      "headline": "Anthropic withheld latest AI model from UK testing agency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJObGRoR1Q2enZFeHJ0dUx1YVhITDlOVnZpUm53ZjVrMDRrTmFxejdDbUx6dHk3UTlFUFlYS0J2QmExWXQ4aEtRS0tDdlFtRFNWcEdXT0tlemRMTUlGckJzWEtlTUVVVjJ3elI5NUdRcUZPYWQ2OVBmQzFIU2dBbTdLcW0?oc=5",
+      "pub_date": 1788926425.0,
+      "article_url": "https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84297f55-5260-4b98-b92a-4d7c76c5508e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups"
     },
     {
-      "headline": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
-      "pub_date": 1788872992.0,
-      "article_url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
-      "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom."
+      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "pub_date": 1788901323.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk5DTHlGZkg5RE5zV2tXVjNaRV94Q19tTWFRLTh0b0JTY0RMRnhLLVgyV1hqN0V3VHFpelYwdEN4UWcwcnpCZ2tPVHJQUTlEN0R5NUthTVBqNzZZX3d3NVU1eGhVY0EweUhscHo2Mjg0czMwR3Y3ZTNMQ0RMNmVWbEVSa2pLODd1Sk1KZ3hwT19aMWRoQ0xId2I5YWo3M2NUS0dj0gGoAUFVX3lxTE1xa1hULU0xQXo2cXRhdkMyb3J3OUc4QlJ6SnlDdDloVjk1M1EtSTBuUVdXTXFaU295RU5Gc3BhdzBiR2IwVTNVeUU5NjluRjc1aGo0dDE5RTh1VGFvS3VSckRUT21vYk9haEhmX2E4ci1TWkEtTmNsMDBHQU1Ucld3ems3NzA5SW1OeG4wVXEyV2tVbmdnaWZkZnMyZ0xGQWF4RVVBb1JjbA?oc=5",
-      "pub_date": 1788904973.0,
-      "article_url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108302672-1778030248073-260109_cn_30_tech_corning_meta_cleanmp400_00_27_00Still014.jpg?v=1785269699&w=1920&h=1080",
-      "description": "Shares of Qualcom, Corning, Intel, Advanced Micro Devices and others tied to the AI infrastructure trade popped on Tuesday."
+      "headline": "AI borrowing boom shakes up Swiss credit market",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFZmR2laVmtGdFpOQ0NaaWhDWlh2TGM5YVpJZzUzTkIzSVdHSlBRQTRmaXl5X0QzWkJjeWFaY0M3dWVUdmN2TXA0MFhEa1VrRTVEckl6V2ZZbF8wMGFpSVgzbmVmazFreUkzVDVybXc3UFBMLWpKcnZjX2piTm5Jd0cwbFk?oc=5",
+      "pub_date": 1788926470.0,
+      "article_url": "https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f5414d3-0074-4b58-b612-0548865625ed.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Bonds from the likes of Alphabet and Amazon have accounted for more than a quarter of Swiss franc corporate issuance this year"
     },
     {
-      "headline": "AMD Jumps 6.7% While Amazon Opens a $60 Billion AI-Chip Door",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWd4NTYtY3BITmVyUWNSWG1uYlFJc1dqSXJTM0pRbFZTTmt1YjNYeXQ0SVYyVjJKQ2dzR09Xb1dMTWxoVDhQRjBycVkwOWtLMlhGU1E2ei1YeW1fU1BvaXJPTkhGaFZValVzMml1empWWGNNQWtETkRQMDlDNmw4b2ZnR0tERzJ0Y3J3?oc=5",
-      "pub_date": 1788901994.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-6-7-while-211314437.html",
-      "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "description": "The agreement validates demand beyond Nvidia while financing another competitor in AMD's target market."
+      "headline": "Meet Fashion\u2019s Newest Engagement Metric: AI Visibility",
+      "source": "Vogue",
+      "source_url": "https://www.vogue.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWstbldHNE1aeWVzVTdKRExfUzY4SW52UUFCSEt3UUxodzJwWHR2Sm5ZVU1jZ0pjcTFwTFNEb1JSUjMwd0ZvVm9aZlVRaWp2YS15ZzRkMDc1NFBFLUJMZFhqRHo0NDZRbkduMW5PVktidHFTNW5Zc2RUb29UdDFEaW1ZcGtQQ1FCTGc?oc=5",
+      "pub_date": 1788928200.0,
+      "article_url": "https://www.vogue.com/article/meet-fashions-newest-engagement-metric-ai-visibility",
+      "image": "https://assets.vogue.com/photos/6aa042813486addcb4060a4f/16:9/w_1280,c_limit/-social-newsletter%20(61).jpg",
+      "description": "As the models behind AI search increasingly surface earned media, PR is gaining new weight in the battle for brand discovery. Launchmetrics wants to prove, and measure, how brands win at AI search."
     },
     {
       "headline": "Millions of students can now get access to a free year of Kiro from AWS",
-      "source": "aboutamazon.com",
+      "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRG9sTUstNEo3aWk5aE5lUE9MeU1ON1hwQnN0UWdIeVdjbUJZMXRNeHlSQ2RmakVyejhmcGtPLWxfUmdWYU9HaTB4TTNnOFpMZ3VHSWEwT0VfUV8zcFBEaGIwdG5zTFhGS1N0M2RJTmJzM2Y3T1U4alJpT0tZamw1MS1WalkxYmJaVTF1b3pHWWZ2TDgy?oc=5",
       "pub_date": 1788883329.0,
       "article_url": "https://www.aboutamazon.com/news/aws/amazon-expands-free-kiro-access-students-universities",
       "image": "https://assets.aboutamazon.com/dims4/default/7e1ec8c/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2F2b%2Faf%2F4e81149847838a6d029f93c67355%2Faws-kiro-students-amazonnews-cdlt-2026sept7.png",
       "description": "AWS is giving students at 132 universities across 18 countries a full year of free access to Kiro, so they enter the workforce ready to build with AI from day one."
+    },
+    {
+      "headline": "Bessent Warns \u2018Nothing Would Matter\u2019 If China Wins the AI Race",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWhnT0s2WHpDSnFFeGRVa2JvRFhHWXhsUGtPeVJFTFVXQklNTEJBSGpMcTkzejN1cjhDNjVsaHdValk3S0hvZ2Ruc1ZzV2dsNFJKM0t5cUR1dmU1MktKc19MQU1JVUNvSXFGaFpqWlhLcGJtOF9vTWd1d014MVpBdjVUTkt0RUM2eUJnVVB5SXh3NERvZHl3dFE1UDA2MzUwUFVYMEhmSDlYWGlGYlNCbA?oc=5",
+      "pub_date": 1788921840.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/bessent-warns-nothing-would-matter-if-china-wins-the-ai-race",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Introducing Muse: The World\u2019s First Personal AI Agent Built for Everyone",
+      "source": "meta.com",
+      "source_url": "https://about.fb.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
+      "pub_date": 1788894051.0,
+      "article_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "image": "https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare.jpg?w=1200",
+      "description": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas."
+    },
+    {
+      "headline": "Meta Launches a Personal AI Agent Designed to Be Easy to Use",
+      "source": "wsj.com",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSkdCc2Z4M2ZwdHUzYW54azRDb0ptT0NOQ29kdklZQkloR3lXaEFhWGUzQnRYXzQxbmVrTXBybUtQS3JxLUxoRDhzNGJNdXZrMWhDWmxYWTRfVEE5Y19qdDNldldEanl1NW5UbHE5a014bVlSUzdaSm1JSTBIUUdYZ2VsR2Jpd29BZDFyTnI0eVV6cndjdWp0Umg1bFkyQQ?oc=5",
+      "pub_date": 1788894000.0,
+      "article_url": "https://www.wsj.com/tech/ai/meta-launches-a-personal-ai-agent-designed-to-be-easy-to-use-3eb5cfac",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T00:02:47.074652+00:00"
+  "fetched_at": "2026-09-09T05:00:55.795540+00:00"
 }
