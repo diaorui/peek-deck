@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T09:36:42.543585+00:00'
+updated: '2026-09-09T14:12:50.188428+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 09:36 UTC  
+**Last Updated:** September 09, 2026 at 14:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,494.50
+### $2,511.70
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +0.0%  
-**30d:** +33.0%  
-**90d:** +50.2%  
-**1y:** -42.5%  
+**24h:** -0.0%  
+**7d:** -0.4%  
+**30d:** +32.6%  
+**90d:** +49.8%  
+**1y:** -42.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.98B
+**Market Cap:** $305.43B
 Rank #2
 
 **Circulating Supply:** 122,032,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-49.4%
 
 **All-Time Low:** $0.43
-+578983.5%
++577877.2%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Sepolia testnet Glamsterdam upgrade targeting October 6, Privacy Boost V2 live, BuidlGuidl Learning Lab Ethereum 101
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 4d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-38/) • 5d ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?
 
-5d ago
+6d ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **TL;DR**: Platåberget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable.
 
-🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 6d ago
+🔗 [devtoolsguild.xyz](https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update) • 7d ago
 
 ---
 
@@ -164,7 +164,31 @@ ethereum.org • 1d ago
 
 The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance.
 
-CryptoSlate • 1d ago
+CryptoSlate • 2d ago
+
+---
+
+**[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
+
+The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
+
+Fortune • 12m ago
+
+---
+
+**[XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?](https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html)**
+
+Bitcoin, Ethereum, XRP, and Solana have all surged more than 20% off their 2026 lows, yet every one of them remains underwater for the year. The race back to break-even has a clear frontrunner, and it might not be the coin with the biggest recent gains.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Current price of Ethereum for Sept. 9, 2026](https://fortune.com/article/price-of-ethereum-09-09-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 3h ago
 
 ---
 
@@ -172,29 +196,15 @@ CryptoSlate • 1d ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[Bitcoin, Ethereum, Dogecoin Fall; XRP Gains Ahead of Key Inflation Data: Analyst Notes 'Another Strong Bullish Signal' for BTC](https://www.tradingview.com/news/benzinga:a1936b517094b:0-bitcoin-ethereum-dogecoin-fall-xrp-gains-ahead-of-key-inflation-data-analyst-notes-another-strong-bullish-signal-for-btc/)**
 
-CoinDesk • 20h ago
+Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve’s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum‘s advance stalled at $2,500, while…
 
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.93 Million Tokens, and Total Crypto and Total Cash Holdings of $15.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-93-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-7-billion-302871960.html)**
-
-Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
-
-PR Newswire • 21h ago
-
----
-
-**[Bitcoin, Ethereum, Dogecoin Flat as XRP Jumps 2%: Traders Call BTC Pullback 'Normal'](https://www.tradingview.com/news/benzinga:17f991efd094b:0-bitcoin-ethereum-dogecoin-flat-as-xrp-jumps-2-traders-call-btc-pullback-normal/)**
-
-Bitcoin traded sideways around $78,000 as investors awaited key U.S. inflation data and the Federal Reserve’s upcoming policy decision.Notable Statistics:Notable Developments:Trader Notes:Daan Crypto Trades said Bitcoin rebounded strongly after a liquidity grab, but open interest remains elevated…
-
-TradingView • 13h ago
+tradingview.com • 11h ago
 
 ---
 
@@ -206,19 +216,11 @@ The Block • 1d ago
 
 ---
 
-**[Current price of Ethereum for September 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 20h ago
-
----
-
 **[Assessing how Ethereum’s 2027 upgrade could redefine ETH’s utility](https://ambcrypto.com/assessing-how-ethereums-2027-upgrade-could-redefine-eths-utility/)**
 
 Ethereum’s stablecoin-driven fee model could reshape ETH demand and fuel its next DeFi cycle.
 
-AMBCrypto • 9h ago
+AMBCrypto • 14h ago
 
 ---
 
@@ -226,7 +228,7 @@ AMBCrypto • 9h ago
 
 Ethereum OG whale sold 11,023 ETH worth $27.23M through Wintermute, with ETH at $2485.88 on 4h chart showing EMA50 support at $2467.
 
-blockchain.news • 18h ago
+blockchain.news • 23h ago
 
 ---
 
@@ -240,27 +242,25 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 376 • 👍 67 • 💬 10 • ⏱️ 28:10 • 30m ago
+👁️ 5K • 👍 697 • 💬 162 • ⏱️ 28:10 • 5h ago
 
 ---
 
-**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
+**[ETH Just Flipped BULLISH And I&#39;m Already Long!! #ethereum](https://www.youtube.com/watch?v=0XshAWrPAFs)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
-📺 Crypto Nutshell
+📺 Marzell Crypto
 
-👁️ 10K • 👍 211 • 💬 62 • ⏱️ 14:25 • 17h ago
+👁️ 238 • 👍 14 • 💬 27 • ⏱️ 5:04 • 4h ago
 
 ---
 
-**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
+**[ETH is coiling up for a big move](https://www.youtube.com/watch?v=j5urvydu73I)**
 
-BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
+📺 Tyler Hill Crypto
 
-📺 The Bureau Podcast
-
-👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:56 • 16h ago
+👁️ 189 • 👍 12 • 💬 7 • ⏱️ 1:14 • 1h ago
 
 ---
 
@@ -270,17 +270,27 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 17K • 👍 538 • 💬 47 • ⏱️ 3:29 • 1d ago
+👁️ 17K • 👍 537 • 💬 49 • ⏱️ 3:29 • 2d ago
 
 ---
 
-**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
+**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 56K • 👍 653 • 💬 50 • ⏱️ 18:40 • 1d ago
+👁️ 11K • 👍 224 • 💬 63 • ⏱️ 14:25 • 22h ago
+
+---
+
+**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
+
+BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
+
+📺 The Bureau Podcast
+
+👁️ 2K • 👍 29 • 💬 1 • ⏱️ 0:56 • 21h ago
 
 ---
 
@@ -290,17 +300,17 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 285 • 💬 21 • ⏱️ 12:04 • 1d ago
+👁️ 13K • 👍 290 • 💬 21 • ⏱️ 12:04 • 1d ago
 
 ---
 
-**[ETHEREUM&#39;S HUGE PATTERN !!!!!!](https://www.youtube.com/watch?v=s2QeBISYb90)**
+**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
 
-My $3 million Bitcoin trade is still open with $900000 in profits, and my Ethereum position on Bybit is still running too. Ethereum ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 The Moon Show
+📺 Crypto Nutshell
 
-👁️ 558 • 👍 18 • ⏱️ 0:41 • 16h ago
+👁️ 57K • 👍 661 • 💬 49 • ⏱️ 18:40 • 1d ago
 
 ---
 
@@ -310,27 +320,17 @@ A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em 
 
 📺 Luiz Fernando
 
-👁️ 12K • 👍 473 • 💬 91 • ⏱️ 29:01 • 11h ago
+👁️ 14K • 👍 547 • 💬 60 • ⏱️ 29:01 • 16h ago
 
 ---
 
-**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
+**[ETHEREUM&#39;S HUGE PATTERN !!!!!!](https://www.youtube.com/watch?v=s2QeBISYb90)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+My $3 million Bitcoin trade is still open with $900000 in profits, and my Ethereum position on Bybit is still running too. Ethereum ...
 
-📺 Crypto Nutshell
+📺 The Moon Show
 
-👁️ 5K • 👍 151 • 💬 11 • ⏱️ 14:40 • 2d ago
-
----
-
-**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
-
-This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
-
-📺 Crypto Vlog
-
-👁️ 5K • 💬 37 • ⏱️ 0:48 • 2d ago
+👁️ 662 • 👍 22 • ⏱️ 0:41 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-09T09:36:42.539991+00:00'
+updated: '2026-09-09T14:12:50.182286+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 09:36 UTC  
+**Last Updated:** September 09, 2026 at 14:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,385.19
+### $79,606.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -2.3%  
-**30d:** +24.8%  
-**90d:** +24.8%  
-**1y:** -30.4%  
+**24h:** +0.1%  
+**7d:** -2.9%  
+**30d:** +24.1%  
+**90d:** +24.1%  
+**1y:** -30.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1594.74B
+**Market Cap:** $1586.53B
 Rank #1
 
-**Circulating Supply:** 20,081,671 BTC
+**Circulating Supply:** 20,081,850 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.0%
+-37.3%
 
 **All-Time Low:** $67.81
-+116991.9%
++116409.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I've been HODLing since 2013. I've sold probably two thirds of my original stack over time. I have been through multiple cycles and halvings and read more books on the subject that I care to remember. I have traded successfully only once and that was by accident. I have no idea where BTC is going and I am exhausted. I am close to cashing out. I'm close to retiring (pension age) and I don't need the volatility. What would you do? EDIT: specifically, the things that trouble me are: 1. The hassle of getting the cash from an exchange into a UK bank account without friction. 2. The CGT liability - last sale was ~0.33BTC in Dec 2024 and the tax liability was something like £10k. 3. The blind evangelical ramblings in Reddit from people that have been in the market for like 5 minutes. EDIT #2: Thank you to those that offered advice. It has given me food for thought. I think the answer is probably to log out of Reddit ;-)
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ I've been HODLing since 2013. I've sold probably two thirds of my original stack
 
 Bitcoin has spent 17 years surviving one of the most adversarial environments in software. But Bitcoin Core isn’t where most users interact with Bitcoin. They interact through wallets, hardware devices, Lightning implementations, libraries, exchanges, signing infrastructure and other software built around it. Over the past few months, I’ve been researching the security of projects across this ecosystem, and the uncomfortable part isn’t that vulnerabilities exist. It’s how little continuous adversarial security research some important projects actually receive. An audit is a snapshot. Open source doesn’t mean someone capable has actually reviewed the code. A large number of users doesn’t mean the project has been continuously attacked by security researchers. And then there’s the incentive problem. If reporting a vulnerability responsibly means hunting down a contact, waiting weeks for a response, receiving no bounty or recognition, and sometimes being treated as an inconvenience, eventually good researchers spend their time somewhere else. Blackhats don’t need a disclosure policy. That leaves us with a strange situation: Bitcoin teaches us “don’t trust, verify,” while much of the software surrounding Bitcoin is trusted far more than it is independently verified. I ended up writing a fairly detailed piece about what I’ve seen and why I think this is becoming a real problem. I’m not linking it here because I’d rather this not turn into self-promotion. But I’d genuinely like to know whether people working deeper in Bitcoin have noticed the same thing.
 
-1d ago
+2d ago
 
 ---
 
@@ -109,7 +109,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 **["There is a massive restructuring of commerce that has to happen, and Bitcoin will be at the center of that."](https://www.reddit.com/r/Bitcoin/comments/1w9noi6/there_is_a_massive_restructuring_of_commerce_that/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -157,73 +157,77 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 ## Google News: "bitcoin"
 
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
-
-AP News • 1d ago
-
----
-
 **[Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident - ABC News](https://abcnews.com/Business/wireStory/singapore-man-pleads-guilty-orchestrating-240-million-bitcoin-136279302)**
 
 A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 
-ABC News - Breaking News, Latest News and Videos • 16h ago
+ABC News - Breaking News, Latest News and Videos • 20h ago
 
 ---
 
-**[He and His Friends Managed to Steal $245M Worth of Bitcoin](https://www.newser.com/story/396091/he-was-an-8th-grade-dropout-stole-245m-worth-of-bitcoin.html)**
+**[Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)**
 
-Malone Lam, 22, faces a maximum prison sentence of 20 years
-
-Newser • 10h ago
+CoinDesk • 22m ago
 
 ---
 
-**[Bitcoin Hack Drains $320 Million From Crypto Network](https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack)**
+**[Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html)**
 
-Bloomberg.com • 1d ago
+Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
----
-
-**[Bitcoin Wallet Robbery Turns Deadly as Mexican Family Is Killed Over Reported $1.5M Crypto Stash](https://www.yahoo.com/news/world/articles/bitcoin-wallet-robbery-turns-deadly-082227902.html)**
-
-Mexican prosecutors say a deadly home invasion may have been motivated by an attempt to steal Bitcoin held through a cold-storage device. Four people, including ...
-
-Yahoo • 1h ago
+Yahoo Finance • 21h ago
 
 ---
 
-**[Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)**
+**[XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?](https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html)**
 
-CoinDesk • 2h ago
+Bitcoin, Ethereum, XRP, and Solana have all surged more than 20% off their 2026 lows, yet every one of them remains underwater for the year. The race back to break-even has a clear frontrunner, and it might not be the coin with the biggest recent gains.
 
----
-
-**[Bitcoin Rises as Investors Seek Diversification -- Market Talk](https://www.moomoo.com/news/post/75991795/bitcoin-rises-as-investors-seek-diversification-market-talk)**
-
-moomoo.com • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Iran turns to crypto to get around sanctions](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1)**
+**[How Bitcoin Mortgages Work: Bitcoin Backs The American Dream](https://www.forbes.com/sites/davidbirnbaum/2026/09/09/how-bitcoin-mortgages-work-bitcoin-backs-the-american-dream/)**
+
+Forbes • 54m ago
+
+---
+
+**[Iran turns to crypto to shore up economy](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1)**
 
 Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds
 
-ft.com • 5h ago
+Financial Times • 10h ago
 
 ---
 
-**[DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook](https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/)**
+**[CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch](https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault)**
 
-FOREX.com • 16h ago
+British bitcoin exchange CoinCorner is debuting a multisig custody service.
+
+Bitcoin Magazine • 17h ago
 
 ---
 
-**[Strive adds 1,375 bitcoin as SATA approaches 'billion-dollar' milestone](https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800)**
+**[Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin](https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin)**
 
-Strive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock.
+Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.
 
-The Block • 18h ago
+Decrypt • 5h ago
+
+---
+
+**[Current price of Bitcoin for Sept. 9, 2026](https://fortune.com/article/price-of-bitcoin-09-09-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 3h ago
+
+---
+
+**[Bitcoin flashes first golden cross in over 6 months as it hovers near $80K](https://seekingalpha.com/news/4640918-bitcoin-flashes-first-golden-cross-in-over-6-months-as-it-hovers-near-80k)**
+
+Seeking Alpha • 19h ago
 
 ---
 
@@ -271,14 +275,6 @@ Oklahoma, El Reno city asserts that none of the costs related to the water leak 
 
 ---
 
-**[Goodbye Bitcoin, Hello AI Data Center](https://news.ycombinator.com/item?id=49536515)**
-
-Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE
-
-⬆️ 4 • 💬 0 • 6d ago • [American Buildout](https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/)
-
----
-
 **[The Liquid Network (Bitcoin sidechain) is stuck at block 4050335](https://news.ycombinator.com/item?id=49587562)**
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
@@ -297,7 +293,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 5h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 9h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -305,7 +301,15 @@ analyses a descriptor.
 
 Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
 
-⬆️ 1 • 💬 0 • 5d ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
+⬆️ 1 • 💬 0 • 6d ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
+
+---
+
+**[White House Launches Arcade.Gov](https://news.ycombinator.com/item?id=49570467)**
+
+Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
+
+⬆️ 17 • 💬 2 • 4d ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
 
 ---
 
@@ -313,13 +317,23 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Bull Signal Faces Inflation Test](https://www.youtube.com/watch?v=x1OZ4kZbDAM)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
+
+📺 CryptosRUs
+
+👁️ 2K • 👍 193 • 49m ago
+
+---
+
 **[Bitcoin Holders: The Golden Cross Is Here (What Happens Next)](https://www.youtube.com/watch?v=dKqnAIZFoIA)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
 
 📺 Aaron Bennett
 
-👁️ 1K • 👍 139 • 💬 20 • ⏱️ 10:08 • 2h ago
+👁️ 6K • 👍 320 • 💬 32 • ⏱️ 10:08 • 7h ago
 
 ---
 
@@ -329,7 +343,27 @@ Japan dumped $90 billion in US Treasuries as the global financial system faces g
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 1K • 💬 98 • ⏱️ 14:32 • 11h ago
+👁️ 29K • 👍 1K • 💬 82 • ⏱️ 14:32 • 15h ago
+
+---
+
+**[This Crypto Price Prediction Will Change The Way You Invest Bitcoin &amp; Altcoins Are Getting Bigger](https://www.youtube.com/watch?v=oXZn7vC1gTc)**
+
+I dont think many of you understand whats actually happening with the cryptocurrency market right now. The worlds economy is ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 2K • 👍 395 • 💬 166 • ⏱️ 18:03 • 1h ago
+
+---
+
+**[BITCOIN GOLDEN CROSS...IT&#39;S NOT AS IT SEEMS](https://www.youtube.com/watch?v=3_D2aVjQNFk)**
+
+My Private Group: http://t.me/stackerscircle Pionex September Campaign: https://bit.ly/4x6SLca My Trading Strategy ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 194 • 💬 4 • ⏱️ 8:18 • 3h ago
 
 ---
 
@@ -339,47 +373,27 @@ Bitcoin just had a golden cross. Normally we get dumps after golden crosses. Wha
 
 📺 Benjamin Cowen
 
-👁️ 161K • 👍 6K • 💬 225 • ⏱️ 9:37 • 15h ago
+👁️ 181K • 👍 7K • 💬 238 • ⏱️ 9:37 • 20h ago
 
 ---
 
-**[Bitcoin Just Flashed the Signal Bulls Have Been Waiting For](https://www.youtube.com/watch?v=60sdLd9UdCU)**
+**[Are Frontier AI Models a Real Threat to Bitcoin?](https://www.youtube.com/watch?v=xw4E2nnpWqk)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
+BitGo Co-Founder and CEO Mike Belshe tackles the growing fear around quantum computing and Bitcoin security. Mike breaks ...
 
-📺 CryptosRUs
+📺 Natalie Brunell
 
-👁️ 25K • 👍 822 • 💬 66 • ⏱️ 42:49 • 19h ago
-
----
-
-**[The Last Time Bitcoin Did This, It Went Up 9,800% - Are You Ready?](https://www.youtube.com/watch?v=JW3C_BTQWfc)**
-
-Bitcoin just decoupled from the stock market in a way we've only seen once before — and the last time, Bitcoin went on a historic ...
-
-📺 Simply Bitcoin
-
-👁️ 68K • 👍 2K • 💬 192 • ⏱️ 17:14 • 1d ago
+👁️ 206 • 👍 7 • 💬 7 • ⏱️ 0:55 • 46m ago
 
 ---
 
-**[🚨 BITCOIN!!!! DO YOU REALIZE WHAT THIS MEANS?!!!! […most are wrong!]](https://www.youtube.com/watch?v=DZsbF8ezbjE)**
+**[Bitcoin CoreChain Dumpster Fire](https://www.youtube.com/watch?v=vXl1wKy6S0A)**
 
-Bitcoin flashes two more legacy bottom indicators! Price remains flat despite inflows. WTF is actually happening?! BloFin ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the latest news from the dumpster ...
 
-📺 Crypto Zombie
+📺 Bitcoin University
 
-👁️ 21K • 👍 1K • 💬 125 • ⏱️ 30:05 • 15h ago
-
----
-
-**[&quot;Mythical Supercycle&quot;! Crypto About To Do Something It Hasn&#39;t Done Since 2015 (Stocks Can&#39;t Stop it)](https://www.youtube.com/watch?v=4t_3iDOXPuA)**
-
-The "mythical supercycle" may actually be forming — and it lines up with the business cycle setup we've been tracking all year.
-
-📺 Crypto Capital Venture
-
-👁️ 20K • 👍 780 • 💬 280 • ⏱️ 8:47 • 17h ago
+👁️ 13K • 👍 891 • 💬 249 • ⏱️ 8:45 • 15h ago
 
 ---
 
@@ -389,27 +403,17 @@ The Iran war was never really about Iran. Bessent has all but said the plan is t
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 159 • ⏱️ 20:03 • 2d ago
+👁️ 44K • 👍 2K • 💬 160 • ⏱️ 20:03 • 2d ago
 
 ---
 
-**[Bitcoin To $230K+ This Cycle — Here&#39;s The Data (Bitcoin Price Prediction)](https://www.youtube.com/watch?v=VcFdqRKHxmI)**
+**[Bitcoin Golden Cross Just Hit. The Last 11 Times, This Happened First](https://www.youtube.com/watch?v=odh9xZQXP94)**
 
-YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
+Recorded September 8, 2026 — numbers pertain to that date. A golden cross = the 50-day moving average crossing above the ...
 
-📺 Crypto Jebb
+📺 Krown
 
-👁️ 7K • 👍 250 • 💬 84 • ⏱️ 10:44 • 15h ago
-
----
-
-**[🚨 Bitcoin Just Lost $80,000 (Trap Confirmed?)](https://www.youtube.com/watch?v=2ZQX1Scl5ek)**
-
-Bitcoin closed a week above $80000 for the first time this uptrend. By Tuesday, it's trading at $78K. That's the whiplash, guys.
-
-📺 Kyle Chasse crypto
-
-👁️ 8K • 👍 221 • 💬 29 • ⏱️ 20:40 • 13h ago
+👁️ 116 • 👍 13 • 💬 95 • ⏱️ 0:29 • 1h ago
 
 ---
 

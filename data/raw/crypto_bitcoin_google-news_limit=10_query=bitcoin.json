@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
-      "pub_date": 1788781980.0,
-      "article_url": "https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident - ABC News",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "source_url": "https://abcnews.com",
@@ -25,86 +15,96 @@
       "description": "A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds"
     },
     {
-      "headline": "He and His Friends Managed to Steal $245M Worth of Bitcoin",
-      "source": "Newser",
-      "source_url": "https://www.newser.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUI1Mzc5MjFmUEVxNGpZLWJraG5MWVNTbTBTeWI1OHhPWjJVUEgtaUhMaS04a2ExSVFyZ2pOTFd2V1pHUkRGYmVpTFcyeXBhVHhqWC1Mal9mOGdfTXV2UWtUa0U1R294dWhsRllNYTFQemxZOHI2UHVRQjlTcFlRZWY3MkxHSkpUZTlITHlKTko1MUM1OUtEUm9iQko?oc=5",
-      "pub_date": 1788910560.0,
-      "article_url": "https://www.newser.com/story/396091/he-was-an-8th-grade-dropout-stole-245m-worth-of-bitcoin.html",
-      "image": "https://cdn.newser.com/image/1710416-12-20260908185148.jpeg",
-      "description": "Malone Lam, 22, faces a maximum prison sentence of 20 years"
-    },
-    {
-      "headline": "Bitcoin Hack Drains $320 Million From Crypto Network",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5",
-      "pub_date": 1788813984.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-07/bitcoin-network-says-320-million-stolen-in-latest-crypto-hack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Wallet Robbery Turns Deadly as Mexican Family Is Killed Over Reported $1.5M Crypto Stash",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQV84RnJkUzc1Vl9MQmx6dGlPeGo2YVN3VTYwQldDODE4UEFZZGVEWmFyaGQ1bHBqdUU2T1RKaGdZQjI1NEhqaW1YUWctN2UxcnExdlpDS3Y1RW1jdFV6LUplMW52NFo4U1dHa19LRFQwanJZRGhiMHhCYWtZcUVVZzc4WjY0NG03YmJubmpDTkxQN1Ayak5V?oc=5",
-      "pub_date": 1788942147.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/bitcoin-wallet-robbery-turns-deadly-082227902.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ca9be0c583ae24f546184fecd89a287197a32823c7aacddddeb6f83ebeef90f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F3ee03671e19b1faee421ea74f18c88cf",
-      "description": "Mexican prosecutors say a deadly home invasion may have been motivated by an attempt to steal Bitcoin held through a cold-storage device. Four people, including ..."
-    },
-    {
-      "headline": "Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows",
+      "headline": "Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2tYYmtLc3lBUlNGQTdxbHVOUkhNRDlsVXVnbXRSUXQzRUZQbzBsaEc1aUJRSkh1Q0dOLVByR1N1Z0hoOUMxakNnVl96QkZoYXl6bUoyT2VrZ09oY3ZaT3VISWd0aUhpRFRuSUVRYm9HejMyaHowOXU3ZlQyVGJTT1liMXcyMWpLVzc1Y2ZjVWRQeFVpVGhVaWplNVR5eVhnbXBDeW42RVlMc3ZWWHhmOWtRV3RIVEJiMTY2ZDRzeEt2R1FScGthM2NNMEZYMk9u?oc=5",
-      "pub_date": 1788938452.0,
+      "pub_date": 1788961794.0,
       "article_url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Rises as Investors Seek Diversification -- Market Talk",
-      "source": "moomoo.com",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb3VxSEdXSUo1LUNGTERmRnZ3b09DRjZDRjB6TUtWUThfSlBibW9lSzRKQlMwSF9vRDREWHlTbXZhT0FHTGJxaGFWQkpZRWVjVTZ6VlppYXQxRV8wRW9TcllVRXhGeGVYNDdhMHhqYzh4c3ZjSVI1U2dpRXdZV0NQX2VVcXhlZUx2RmlYaHZCbkNWYWI1QUZ0Uld2TUlyQkZKYldF?oc=5",
-      "pub_date": 1788938680.0,
-      "article_url": "https://www.moomoo.com/news/post/75991795/bitcoin-rises-as-investors-seek-diversification-market-talk",
+      "headline": "Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2d5cUdQTnBzS2RCcTBPUHQ2NXNLaHpTUnFxM2hDMzFjeEhIb19JUXRnVExwdFhuWFFLTVhfanhieWoyeC13bnptNlNuTmc0dmJSQ2hueTNMcDU0Rmk2SmdMM1cyMzJFT1czb2t2ODlDelBvcW5jZnFITTVkM21CNVFVak02MThCVzlza1FLTXRQOHFtNUE?oc=5",
+      "pub_date": 1788885023.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c2bbf33d3f2ee7e0bf95c2740a49df9cdfa84c62f5236c858f91e02390d706f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F069cb3861bc5df18b5a5f395a4be1345.jpg",
+      "description": "Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before."
+    },
+    {
+      "headline": "XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjNOM2ZvRXB3VzdUR2RPTVU2bDZrV2NBSmM4T3dBal9RTHZWZVg2MnBmc3BIQkpKZGxJWGl4UkhDMnJkRENqWEU1UXFWVmNtb0k3SkFOLVFvaDJmdWk0R2N6Snh5U3ZER3JhV1lJckpxVjIxNlp6THVqSTFYakRna3phTlZ3cDdoTU84dm5rNVZMd1ZSQVNBNkZvSDE3QQ?oc=5",
+      "pub_date": 1788955214.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/db17d5e498fdaad4103e8805501908216eb686d220e07b70fc87023bb718ecdc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff1d11fd38c57814e4185aab97ee9e35b.jpg",
+      "description": "Bitcoin, Ethereum, XRP, and Solana have all surged more than 20% off their 2026 lows, yet every one of them remains underwater for the year. The race back to break-even has a clear frontrunner, and it might not be the coin with the biggest recent gains."
+    },
+    {
+      "headline": "How Bitcoin Mortgages Work: Bitcoin Backs The American Dream",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMnZuSEQzWlA2NklFS0Vpd3ZVdWdIampkSDZSaGpBc0kyRkRwYXdUT2Zoem1lVXBwOHd4a1BMYllxTFJiNzRyT2llRDBYSzkwRkg1WmJYV1lsdk9YNV9CcEpWcFhqcDVNdUl4NHBCWDRiZUl6dUJkcTdOcEViZVhtZnpwZ2NYQ1c3bVlsazNaaWQzamwzUm9SRUMwekZjVm5HVUJGS1hXS0hkWW1IWEo0c2d5ZkI?oc=5",
+      "pub_date": 1788959902.0,
+      "article_url": "https://www.forbes.com/sites/davidbirnbaum/2026/09/09/how-bitcoin-mortgages-work-bitcoin-backs-the-american-dream/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Iran turns to crypto to get around sanctions",
-      "source": "ft.com",
+      "headline": "Iran turns to crypto to shore up economy",
+      "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORE16aWlUYmRpRzFwb1BEdjdILTBhTkNTSGpvZm0zR1JRNlUzSmtLT19yWURKRjFDejZOS0hEeGk2bU5TSXpPQUlOWndVRVRVVC1XVWk2ZWpQbjg0ai1WUU0zR2VmZllWS2lKcmN1N0hjZ1ptRlRVejVNSlhtaVhfVmZHTjA?oc=5",
-      "pub_date": 1788926407.0,
+      "pub_date": 1788926523.0,
       "article_url": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e17b974-5c4f-4958-853d-61e0f486e1fb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds"
     },
     {
-      "headline": "DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook",
-      "source": "FOREX.com",
-      "source_url": "https://www.forex.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakNSY2wtejFXTlhsRHhYRUR0NTBHMlZfX05aOGRBWVUxZDB4Y05wMnpESC1lZVlmM0NFUGdIWGRlVEFSRDA3VTBXdHR2RzhCNlJCNFpUZGpHTDZTcnc1dXhmSXk1UERCbEtsSXRGVFJkZXlWV0c2NllfMy1mN2dPS0Z4SGgwMVhyMmhxYW9xT25QdFlPMV82UjBOVVJKdy1VOV9BSU92a2hwYklNUVk3b0VMRTJyZ0xvYkpnVTJR0gHKAUFVX3lxTE5ESE54NUR2c1ZhenVQc3hWZXYyX3F5LW5ORGtwY2hzQ19mNjRaYU5EdVFYYnBHbml4ZjZHbmdHUllpSFIzOTk0WHpXMGNiWnBWblRJcl81QjhrcTg0MW9oMFJ3TThSb21xZHB4NHk5SUtKQm9DclNyeUFtUlh6Y0xWeXBQNG9qdGllazd0eEV6cUVBZHkzcG9CTkszZWpNRVR6Z0xVR2JFUjZ6dzl2RTdjUktmLVNGLWVxbC1yenFUVWJZT1Jac1BYOWc?oc=5",
-      "pub_date": 1788886895.0,
-      "article_url": "https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/",
-      "image": null,
-      "description": null
+      "headline": "CoinCorner Launches Lloyd\u2019s-Insured Multisig Bitcoin Vault with AnchorWatch",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtSi1xRHV3OG1xUEpzdzRpZVEwWW15VVpOaXM5dnVzZEh6VmRsTzJobm1yLWg1LXNJLUxZS0dBak1WVlNoclBTMXBiLXVVLUZUT2FZdmNlRDI4U0VCaWZCREh4b1VUTmMxQUZkRTM1SVdlZ0k?oc=5",
+      "pub_date": 1788898743.0,
+      "article_url": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-11.jpg",
+      "description": "British bitcoin exchange CoinCorner is debuting a multisig custody service."
     },
     {
-      "headline": "Strive adds 1,375 bitcoin as SATA approaches 'billion-dollar' milestone",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGl2RzdVYktlLXpHVWxRQnVSbEV4al92SmFmVW0wbnYtV01QM1RIQ0luTG0yd1lMZlRBUWh1ak1WT0pBcTQ1UFM3MDlUdkhlQnlScGhCdTRQUjVVVERtdDVZb3RZaEtkbWQwcWJjMk5HSmRfUGVRZXBJZk1DT19nUHVHU0VDN0pZeHdoN1BGZEZlTExmQ0tFQ3o2Y1N3bGxhdjhmdUoyb09EZlpzYXVWRlpqN3BibGJqaTdnbg?oc=5",
-      "pub_date": 1788880319.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800",
-      "image": "https://www.tbstat.com/wp/uploads/2026/04/20260410_Bitcoin_News_3-1200x675.jpg",
-      "description": "Strive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock."
+      "headline": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWjh0X0prUjZUTUdHOHE3YWZvbG01dC05LVdQcEJsZnMtUC1LNHFpWDBsRlRmTzFBQy04RHBhLVhzQUZDUm9JVEd1NWdmRXk4N2tkdzNiLTV5bVFqbmlON0hFNDkwS3FBcWQ5OU8tUFZ3NHcwTUNzUW1nRE5EZlluV3FjZDBYQ0NXcnAyNFBvaHlrQdIBmgFBVV95cUxOSVUzbVhxS3hGajhhTUVjVHd0UnhxaE11aHdvZFE0eGg4b29CNzRIZVo4c2cwaUhCTWxLdnJkVVRUTC1TOVZEOTk4bWt2T2tLcDBfcTV0MHdmNkViTjZSYVRib3JGR0xRTWEzQ0psdUVMTGxfeGhVN0tEdTdkeUFJUEswenlRenBzNC1SV1kya0JNalVOYnU1REdB?oc=5",
+      "pub_date": 1788942368.0,
+      "article_url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg",
+      "description": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses."
+    },
+    {
+      "headline": "Current price of Bitcoin for Sept. 9, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yc1VVS0FsNWpwRGZFZlVqbF9fajE0VGxpVVZubmlIdkw2QV9tck52emRlUjFVaVNPZTZwUmJhbjJ5WnBRMlFaQ2haM2dsRXdudXBRR3NhenRVMXloS25CWEYzU0U0Vlk?oc=5",
+      "pub_date": 1788951600.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-09-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-9.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin flashes first golden cross in over 6 months as it hovers near $80K",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVzNUeU9rSmZybkNwZl9BVjczZ0NxRkRRN0VCaHd1RHhsOWNNaTJuQjVkRjd0OXB1QTFZNG5mX3ZpaURGazUyUi1TdDI5Q2Exak8zT01ENFRfZ0o0ZVpfVmNOMFFmTE9ITGIwbnUzeGdNaVc0blpRLVlOR3g2eTIzbTBBWVNiaU9FN3pJYUpKZ1BWNWh6SUwyVUpDcGEtNEF1SUhGSDZNM2oxQ3ZsQWQ1WA?oc=5",
+      "pub_date": 1788893833.0,
+      "article_url": "https://seekingalpha.com/news/4640918-bitcoin-flashes-first-golden-cross-in-over-6-months-as-it-hovers-near-80k",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T09:36:35.606283+00:00"
+  "fetched_at": "2026-09-09T14:12:42.916249+00:00"
 }
