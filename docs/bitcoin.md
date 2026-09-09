@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-09T17:55:47.505788+00:00'
+updated: '2026-09-09T20:33:55.529419+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 17:55 UTC  
+**Last Updated:** September 09, 2026 at 20:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.1%  
-**30d:** +23.8%  
-**90d:** +23.8%  
-**1y:** -30.9%  
+**24h:** -0.3%  
+**7d:** -3.7%  
+**30d:** +23.0%  
+**90d:** +23.0%  
+**1y:** -31.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1580.59B
+**Market Cap:** $1569.13B
 Rank #1
 
-**Circulating Supply:** 20,081,962 BTC
+**Circulating Supply:** 20,082,012 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.6%
+-38.0%
 
 **All-Time Low:** $67.81
-+115984.6%
++115161.8%
 
 ---
 
@@ -103,7 +103,7 @@ Bitcoin has spent 17 years surviving one of the most adversarial environments in
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-🔗 [liquid.network](https://liquid.network/) • 2d ago
+🔗 [liquid.network](https://liquid.network/) • 3d ago
 
 ---
 
@@ -165,51 +165,39 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
-**[‘Ferris Bueller Gone Bad’: 22-Year-Old Pleads Guilty in Giant Bitcoin Heist](https://www.nytimes.com/2026/09/09/us/bitcoin-crypto-heist-malone-lam.html)**
-
-nytimes.com • 2h ago
-
----
-
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
-
-AP News • 2d ago
-
----
-
 **[‘I Am The House Now’—Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
 
-Forbes • 7h ago
+Forbes • 10h ago
 
 ---
 
-**[Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions](https://www.yahoo.com/news/us/articles/mexican-musician-family-killed-over-161604190.html)**
+**[Strategy Put $176.3 Million Into Its Own Preferred Stock Instead of Bitcoin, With Its Last BTC Purchase Already Underwater](https://finance.yahoo.com/markets/stocks/articles/strategy-put-176-3-million-194340563.html)**
 
-Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.
+Strategy skipped Bitcoin again and quietly funneled hundreds of millions into its own preferred stock instead, raising a question that should unsettle shareholders: is this still a Bitcoin company, or has something shifted in how management really thinks about capital?
 
-Yahoo • 1h ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Crypto News: Pepeto Announces Presale Stage Near Sellout Following Dogecoin Success While the Bitcoin Price Prediction Jumps to $250,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-presale-stage-near-sellout-following-dogecoin-success-while-the-bitcoin-price-prediction-jumps-to-250-000-1036533062)**
+**[Canaan' revenue craters 68% as Bitcoin holdings hit record](https://finance.yahoo.com/markets/crypto/articles/canaan-revenue-craters-68-bitcoin-192825281.html)**
 
-DUBAI, United Arab Emirates, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto announces its current presale stage is near sellout, and once it clears, ...
+Crypto mining hardware manufacturer Canaan releases unaudited financial results for Q2 2026.
 
-markets.businessinsider.com • 45m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[If you invested $1,000 in gold & Bitcoin 10 years ago, here's how much money you'd have today](https://finance.yahoo.com/markets/commodities/articles/invested-1-000-gold-bitcoin-200203201.html)**
+
+A decade can transform an investment. On September 9, 2016, gold was grinding through a quiet recovery while Bitcoin was still a niche digital asset trading in the low hundreds of dollars.
+
+Yahoo Finance • 31m ago
 
 ---
 
 **[AI Boom Wrecks Trump’s Plan for ‘Made-in-America’ Bitcoin Mining](https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining)**
 
-Bloomberg.com • 5h ago
-
----
-
-**[Top Bitcoin Casinos 2026: Which Crypto Casinos Have the Best Payouts?](https://muddyriversports.com/sponsored-content/top-bitcoin-casinos-2026-which-crypto-casinos-have-the-best-payouts/20260908160000/)**
-
-Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
-
-Muddy River Sports • 20h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -217,13 +205,29 @@ Muddy River Sports • 20h ago
 
 Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds
 
-Financial Times • 13h ago
+ft.com • 16h ago
 
 ---
 
 **[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-CoinDesk • 2h ago
+CoinDesk • 5h ago
+
+---
+
+**[Top Bitcoin Casinos 2026: Which Crypto Casinos Have the Best Payouts?](https://muddyriversports.com/sponsored-content/top-bitcoin-casinos-2026-which-crypto-casinos-have-the-best-payouts/20260908160000/)**
+
+Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
+
+Muddy River Sports • 23h ago
+
+---
+
+**[CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch](https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault)**
+
+British bitcoin exchange CoinCorner is debuting a multisig custody service.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -243,7 +247,7 @@ Neha Narula
 
 Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 5 • 💬 1 • 1d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
+⬆️ 5 • 💬 1 • 2d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
 
 ---
 
@@ -251,7 +255,7 @@ Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap�
 
 The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
 
-⬆️ 5 • 💬 0 • 2d ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+⬆️ 5 • 💬 0 • 3d ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
 
 ---
 
@@ -259,7 +263,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed
 
-⬆️ 4 • 💬 1 • 1d ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
+⬆️ 4 • 💬 1 • 2d ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
 
 ---
 
@@ -289,7 +293,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 13h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 16h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -313,43 +317,13 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Scott Bessent Just Lit the Fuse for a Major Bitcoin Pump!](https://www.youtube.com/watch?v=bA1coiidgsw)**
-
-Ran breaks down the major forces driving Bitcoin and crypto right now as oil approaches a critical level and inflation keeps ...
-
-📺 Crypto Banter
-
-👁️ 10K • 👍 970 • 💬 41 • ⏱️ 27:32 • 3h ago
-
----
-
-**[Wall Street DUMPS Bitcoin Before Bessent Speech](https://www.youtube.com/watch?v=iepJmW6w20c)**
-
-Wall Street dumped Bitcoin right before the Bessent speech. That timing is the story. Trade alongside the Verified Pro Traders ...
-
-📺 Verified Investing
-
-👁️ 895 • 👍 85 • ⏱️ 19:11 • 4m ago
-
----
-
 **[Bitcoin Holders: The Golden Cross Is Here (What Happens Next)](https://www.youtube.com/watch?v=dKqnAIZFoIA)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 385 • 💬 45 • ⏱️ 10:08 • 10h ago
-
----
-
-**[Will Bitcoin Hit $1,000,000?](https://www.youtube.com/watch?v=HEn8kN5B0Mo)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 156 • 💬 78 • ⏱️ 8:32 • 17h ago
+👁️ 12K • 👍 418 • 💬 51 • ⏱️ 10:08 • 13h ago
 
 ---
 
@@ -359,17 +333,37 @@ Japan dumped $90 billion in US Treasuries as the global financial system faces g
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 1K • 💬 78 • ⏱️ 14:32 • 19h ago
+👁️ 32K • 👍 1K • 💬 73 • ⏱️ 14:32 • 22h ago
 
 ---
 
-**[This Crypto Price Prediction Will Change The Way You Invest Bitcoin &amp; Altcoins Are Getting Bigger](https://www.youtube.com/watch?v=oXZn7vC1gTc)**
+**[Will Bitcoin Hit $1,000,000?](https://www.youtube.com/watch?v=HEn8kN5B0Mo)**
 
-I dont think many of you understand whats actually happening with the cryptocurrency market right now. The worlds economy is ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 Money Rules - Investing Tips 
+📺 Discover Crypto
 
-👁️ 6K • 👍 985 • 💬 291 • ⏱️ 18:03 • 4h ago
+👁️ 6K • 👍 159 • 💬 75 • ⏱️ 8:32 • 19h ago
+
+---
+
+**[Miami man, 22, pleads guilty to ringleading $245M international crypto scheme](https://www.youtube.com/watch?v=8hkfcgupyhs)**
+
+A 22-year-old man who lived in Miami pleaded guilty Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in ...
+
+📺 NBC 6 South Florida
+
+👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:32 • 42m ago
+
+---
+
+**[$1 Million Bitcoin Use Case - Iran Just Turned To Bitcoin During War](https://www.youtube.com/watch?v=jkmuqF9H-Cw)**
+
+Bitcoin is being used where the stakes couldn't be higher. Financial Times reports Iran is increasingly using Bitcoin and Tether to ...
+
+📺 Bitcoin News Alerts
+
+👁️ 579 • 👍 87 • 💬 222 • ⏱️ 16:10 • 1h ago
 
 ---
 
@@ -379,27 +373,27 @@ Bitcoin just had a golden cross. Normally we get dumps after golden crosses. Wha
 
 📺 Benjamin Cowen
 
-👁️ 192K • 👍 7K • 💬 244 • ⏱️ 9:37 • 23h ago
+👁️ 199K • 👍 7K • 💬 246 • ⏱️ 9:37 • 1d ago
 
 ---
 
-**[Fake Rally or New Bitcoin Bull Market? Jamie Coutts Explains](https://www.youtube.com/watch?v=rpnP6GAjM-Q)**
+**[Could Trump Trigger a Global Reset? Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=9CWy796Zpds)**
 
-Jamie Coutts joins Mark Moss to explain why Bitcoin has flashed a cycle inflection off the February lows, why unfinished global ...
+The Iran war was never really about Iran. Bessent has all but said the plan is to strangle China's oil supply, and if China gets ...
 
-📺 Market Disruptors Podcast
+📺 Simply Bitcoin
 
-👁️ 11K • 👍 282 • 💬 72 • ⏱️ 59:54 • 19h ago
+👁️ 44K • 👍 2K • 💬 150 • ⏱️ 20:03 • 2d ago
 
 ---
 
-**[BITCOIN GOLDEN CROSS...IT&#39;S NOT AS IT SEEMS](https://www.youtube.com/watch?v=3_D2aVjQNFk)**
+**[🚨 XRP CRASH ALERT! Brad Garlinghouse&#39;s Latest Message | XRP Price Prediction](https://www.youtube.com/watch?v=-fMnxni12sc)**
 
-My Private Group: http://t.me/stackerscircle Pionex September Campaign: https://bit.ly/4x6SLca My Trading Strategy ...
+XRP CRASH ALERT! Brad Garlinghouse's Latest Message | XRP Price Prediction Welcome to our LIVE XRP broadcast! Join us ...
 
-📺 Satoshi Stacker
+📺 My Bizzy Kitchen
 
-👁️ 5K • 👍 244 • 💬 7 • ⏱️ 8:18 • 7h ago
+👁️ 5K • 👍 5K • 2h ago
 
 ---
 
@@ -409,7 +403,17 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 71K • 👍 2K • 💬 183 • ⏱️ 17:14 • 1d ago
+👁️ 72K • 👍 2K • 💬 180 • ⏱️ 17:14 • 1d ago
+
+---
+
+**[The One Breakout Candle Pro Traders Never Ignore 📈🔥 #shorts](https://www.youtube.com/watch?v=tCwlFix0ilI)**
+
+To celebrate my birthday and thank you guys for 10+ years of support, we are doing a buy 3 years get 1 year free for the FFA Go to ...
+
+📺 Crypto Crew University
+
+👁️ 558 • 👍 62 • 💬 3 • ⏱️ 1:33 • 33m ago
 
 ---
 

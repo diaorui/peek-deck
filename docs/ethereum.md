@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T17:55:47.512051+00:00'
+updated: '2026-09-09T20:33:55.533058+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 17:55 UTC  
+**Last Updated:** September 09, 2026 at 20:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** -0.6%  
-**30d:** +32.3%  
-**90d:** +49.5%  
-**1y:** -42.8%  
+**24h:** -0.6%  
+**7d:** -1.5%  
+**30d:** +31.1%  
+**90d:** +48.1%  
+**1y:** -43.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $304.03B
+**Market Cap:** $300.75B
 Rank #2
 
 **Circulating Supply:** 122,032,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.6%
+-50.2%
 
 **All-Time Low:** $0.43
-+575424.4%
++569250.9%
 
 ---
 
@@ -120,7 +120,7 @@ My company performs wealth verifications as part of our user entitlements/verifi
 
 Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I’m excited for you all to get to expe
 
-🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 6d ago
+🔗 [Parithosh Jayanthi](https://parithosh.com/2026-08-26-devcon-india-travel-guide/) • 7d ago
 
 ---
 
@@ -156,7 +156,7 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
 
-blog.ethereum.org • 2d ago
+ethereum.org • 2d ago
 
 ---
 
@@ -168,25 +168,27 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 ---
 
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+**[Here's Why I'm Buying Ethereum Right Now](https://finance.yahoo.com/markets/crypto/articles/heres-why-im-buying-ethereum-182000309.html)**
 
-CoinDesk • 2h ago
-
----
-
-**[Ethereum ETFs Just Posted a $24 Million Outflow After an $824 Million Week. Is the Streak Over?](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-just-posted-24-170029071.html)**
-
-After two weeks of record-breaking inflows, a single outflow session is raising questions about whether institutional appetite for Ethereum ETFs has finally hit a wall, or whether one quiet day is being mistaken for something bigger than it actually is.
-
-Yahoo Finance • 55m ago
-
----
-
-**[$1K in Ethereum Today: What It Could Be Worth by 2030, According to Analysts](https://finance.yahoo.com/markets/crypto/articles/1k-ethereum-today-could-worth-150810287.html)**
-
-For someone investing $1,000, that forecast would mean a return much larger than the same investment in Bitcoin or an S&P 500 index fund. Read on to find out.
+At a price of just $2,500, Ethereum could be significantly undervalued.
 
 Yahoo Finance • 2h ago
+
+---
+
+**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-2026-bitcoin-ethereum-181003287.html)**
+
+<p>Just two years ago, owning cryptocurrency meant setting up a digital wallet, trusting an exchange, and safeguarding a private key. Today, you can own Bitcoin, Ethereum, and even Solana or XRP with a single click in your regular brokerage account through a crypto ETF. The category has exploded into hundreds of billions in assets, led by a single fund that has become one of the most successful ETF launches in history. Here's how crypto ETFs work, what's available in 2026, and what investors nee
+
+Yahoo Finance • 2h ago
+
+---
+
+**[The SEC Cleared XRP, Bitcoin, Ethereum and Solana for Nasdaq Texas Commodity Trusts. What It Does and Does Not Do.](https://finance.yahoo.com/markets/crypto/articles/sec-cleared-xrp-bitcoin-ethereum-194817142.html)**
+
+Social media erupted over an SEC order that appeared to declare XRP, Bitcoin, Ethereum and Solana official commodities under federal law. The reality is far more limited, and far more interesting, than the headlines suggest.
+
+Yahoo Finance • 45m ago
 
 ---
 
@@ -194,7 +196,13 @@ Yahoo Finance • 2h ago
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 3h ago
+Fortune • 6h ago
+
+---
+
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+
+CoinDesk • 5h ago
 
 ---
 
@@ -210,7 +218,7 @@ Yahoo Finance • 1d ago
 
 Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve’s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum‘s advance stalled at $2,500, while…
 
-TradingView • 15h ago
+TradingView • 18h ago
 
 ---
 
@@ -219,14 +227,6 @@ TradingView • 15h ago
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
 The Block • 1d ago
-
----
-
-**[Ethereum (ETH) AMA Set for Sept. 16: Glamsterdam, zkEVM in Focus](https://blockchain.news/news/ethereum-ama-sept-16-glamsterdam-zkevm)**
-
-Ethereum Foundation's Reddit AMA on Sept. 16 to address Glamsterdam, zkEVM, post-quantum roadmap, and more amid $2,490 ETH price.
-
-blockchain.news • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 10K • 👍 846 • 💬 209 • ⏱️ 28:10 • 8h ago
+👁️ 12K • 👍 883 • 💬 194 • ⏱️ 28:10 • 11h ago
 
 ---
 
@@ -250,57 +250,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 728 • 👍 23 • 💬 48 • ⏱️ 5:04 • 8h ago
-
----
-
-**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 236 • 💬 62 • ⏱️ 14:25 • 1d ago
-
----
-
-**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
-
-📺 The Moon Show
-
-👁️ 17K • 👍 540 • 💬 49 • ⏱️ 3:29 • 2d ago
-
----
-
-**[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
-
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
-
-📺 More Crypto Online
-
-👁️ 13K • 👍 297 • 💬 21 • ⏱️ 12:04 • 1d ago
-
----
-
-**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
-
-A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
-
-📺 Luiz Fernando
-
-👁️ 15K • 👍 584 • 💬 61 • ⏱️ 29:01 • 19h ago
-
----
-
-**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 59K • 👍 675 • 💬 47 • ⏱️ 18:40 • 2d ago
+👁️ 1K • 👍 24 • 💬 48 • ⏱️ 5:04 • 10h ago
 
 ---
 
@@ -310,7 +260,55 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 2K • 👍 32 • 💬 2 • ⏱️ 0:56 • 1d ago
+👁️ 2K • 👍 36 • 💬 2 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 239 • 💬 45 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+
+📺 The Moon Show
+
+👁️ 18K • 👍 540 • 💬 48 • ⏱️ 3:29 • 2d ago
+
+---
+
+**[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
+
+Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
+
+📺 More Crypto Online
+
+👁️ 13K • 👍 299 • 💬 22 • ⏱️ 12:04 • 1d ago
+
+---
+
+**[ETH is coiling up for a big move](https://www.youtube.com/watch?v=j5urvydu73I)**
+
+📺 Tyler Hill Crypto
+
+👁️ 717 • 👍 32 • 💬 3 • ⏱️ 1:14 • 7h ago
+
+---
+
+**[The Two Levels That Indicate Ethereum&#39;s Bull Run (Robinhood)](https://www.youtube.com/watch?v=jzy-l0Ohu-8)**
+
+Ethereum is one break away from confirming a brand-new bull run. Two major moving averages, the 50-week and the 200-week, ...
+
+📺 Crypto Archie
+
+👁️ 286 • 👍 14 • ⏱️ 0:32 • 6h ago
 
 ---
 
@@ -320,17 +318,17 @@ BITCOIN LIQUIDATIONS PENDING (Prepare Now)!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 12K • 👍 292 • 💬 218 • ⏱️ 19:21 • 15h ago
+👁️ 12K • 👍 296 • 💬 199 • ⏱️ 19:21 • 18h ago
 
 ---
 
-**[PAS OP: Trade Bitcoin &amp; Ethereum Alleen Op Deze Levels!](https://www.youtube.com/watch?v=IjdPSiRWW3w)**
+**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
 
-Bitcoin beweegt momenteel midden in een belangrijke range. Instappen zonder bevestiging is hier vooral gokken. In deze ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Corné Marchand
+📺 Crypto Nutshell
 
-👁️ 3K • 👍 480 • 💬 31 • ⏱️ 13:34 • 6h ago
+👁️ 60K • 👍 678 • 💬 47 • ⏱️ 18:40 • 2d ago
 
 ---
 
