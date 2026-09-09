@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
-      "pub_date": 1788956100.0,
-      "article_url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/09/f4dcfac8-a0d7-4579-bc02-f5573be76a4a/thumbnail/1200x630/7d1d46ee5599468e390cd44ee46fe0d6/gettyimages-2289530140-1.jpg",
-      "description": "A top Anthropic researcher says there's more than a 10% chance AI \"could kill all humans,\" after a colleague resigned over similar concerns."
+      "headline": "'Gambling with our lives': AI researcher quits Anthropic",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
+      "pub_date": 1788971593.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/theyre-playing-lives-ai-researcher-093308501.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b49240b856060b791de49cdc329b72d9ae4e3498f5f3a2dec29a8e7180d49967/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fab866d5b9d1eaadf2de7a0f1f0af18f3.jpg",
+      "description": "An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of \"gambling with our lives\" in the race to develop AI models capa..."
     },
     {
       "headline": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
@@ -25,86 +25,86 @@
       "description": "Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence"
     },
     {
-      "headline": "AI is making it harder to trust your own eyes this election",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGNkd4blVoV0FxZ2RjNlIxeUI2aHNVcFBDcHUxNzV0ZnVaX25Pd2l1Y3d5R0hMQlUxRms5WDJ2NDNKVzliNGFwNTVOdHh5bVdrQWpIbDk4MWl1OTJWRjZRQ3FjX0RyVUtpQk9pX3FvME4xY25sdVUxN2FVMWw1cFU?oc=5",
-      "pub_date": 1788984799.0,
-      "article_url": "https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sanders to host AI briefing for senators",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1RTTDFZb0xIYTduaVVJLXl2cEk5VmlCaENZTmprTDQzTkhGakp2ZldsZ1lwTVhVeGVXNS1OUEZkdDVhQmFZZGF6UVV1YkdwR0tzV0tYOV9jdVVHRE9UU25KZFFMVEJ0YVJaR0dhQUlVc0lPSHJmdjZqcDdjUnV2ZERxRXpnMXBURnFwNFVnNlFCUXJ2a0hLbkk1OW9rTi1IeVVmdmFVNm4wY1U?oc=5",
-      "pub_date": 1788983312.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/09/congress/sanders-to-host-ai-briefing-for-senators-01069212",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Teachers union reaches AI privacy deal with Microsoft",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5",
-      "pub_date": 1788984000.0,
-      "article_url": "https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft\u2019s move in the AI school debate: controls over how student data gets used",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWtTbjF3QWtvZ3dhR3YwRl9rQ0k4T3hlOWpaMHFEWXNMc3BLLUVuSTNuTG0zRVE5Y0pyQlJIWUlweUhLblY1aTQ1Xy1mWkZDb1ItdTAwMW9LQTVsYWZVR0FCd0d5X3I0Z0hVWHRkTkV3eWdoOHYtQTJNNHQxRTZZLVJOcmppMjNRZ0YweS1sVXlVUQ?oc=5",
-      "pub_date": 1788982860.0,
-      "article_url": "https://fortune.com/2026/09/09/microsoft-school-district-ai-standard-enforceable-safety/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2262181855_b59b53-e1788900325601.jpg?resize=1200,600",
-      "description": "Microsoft will offer AI privacy standards to every school district as Randi Weingarten says OpenAI and Anthropic have \"expressed willingness.\""
-    },
-    {
-      "headline": "AI privacy agreement reached between teachers union and Microsoft",
-      "source": "KATU",
-      "source_url": "https://katu.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbVREckkyUkg2cmxPMk14S3UxS2d0R3JHQVNYT1ozSzhYcU14QnptY3UwMVVCUHo0c2NmUEtZTFdrT1FoN212ZkNWcUZBU1ZyM3NhNjRaWEJQOVhuRjRLRHpUejNDWG9KZ05rRDlGTXRxd2I4eG80MXZpUTFPdzd5QmhEc3VEVEVXVVBpZXU3bzRXMEtmckFpYnlnM2lXQUh3WEFmYU5UVzFYSTNZN05pTWpqNzQwMXkybjNfa2ZSZmZjZFNPTnJ3QjhDQU9Gb3dISDdqOUtrU24?oc=5",
-      "pub_date": 1788985159.0,
-      "article_url": "https://katu.com/news/nation-world/ai-privacy-agreement-reached-between-teachers-union-and-microsoft-artificial-intelligence-randi-weingarten",
-      "image": "https://katu.com/resources/media2/16x9/6000/1320/0x313/90/3cb213db-abdc-4a71-9d9e-3fc6a89247eb-GettyImages2136341675.jpg",
-      "description": "Microsoft and the American Federation of Teachers have made a deal regarding safety and privacy when artificial intelligence is used in school."
-    },
-    {
-      "headline": "The New Folding iPhone Duo\u2019s Biggest AI Feature Is Its Price",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUgwcmJtdEJYSFBvcXZsSXdjSDlzYnJseC1VSVhQZDZwWTJUUHExR184S1drTzd5c0p5TzVsM2h3YWtKWW9XODhGRFk2ZXhoTW5wRjJxbTlNZGQxM0hkQVMxaU90R1JlY0pCcXd5U2E5LWJ5eGxlM0s0eVB5TmlRNTRjelhvTE9OYVYwZE5nYzd0MjlYMHllMEh4N096dw?oc=5",
-      "pub_date": 1788978846.0,
-      "article_url": "https://www.cnet.com/tech/services-and-software/apple-iphone-18-foldable-duo-price-ai-commentary/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-2.14.47-PM.png",
-      "description": "Commentary: More than $2,000 for a folding iPhone? In this economy?"
-    },
-    {
-      "headline": "The hinge for Apple\u2019s new foldable phone was built with AI",
+      "headline": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXQwcWU3aGU5ODlULTJpaU1aV0FpX2lZTUdPOFcweEM4YS1mRnZzalBoRjU0LURSTllWNkx2X3V1cjJ1WE1NY2NtZ29hdkF1NV8xNVBkX0NPbzBfb1BPMlQ2QzRKT1hwLVYzdFlJNmlOdjhiM3NTV2xRdlhiMDlnQkt2NWhpZm9QQmliMU9rTTg1SklwM2Z3?oc=5",
-      "pub_date": 1788981708.0,
-      "article_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687",
-      "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjlFUHBsZzZZUXYzdzY0TVpRXzlzRUlTaWZtM3NYM3daSnNad1NONXl4dl95aVFsdXJybms1eFhGT19VYzNQVTN1UWhIb3cyTjVjZFVGUDB5c1Y3NDJIbkVEalNwWUlGeG1oanRIb0QydlVvR04wMTJGR2lqWEV3STZkbDVmY2RtbkVRU29LQUcwRTB1dm1XTA?oc=5",
+      "pub_date": 1788977315.0,
+      "article_url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
     },
     {
-      "headline": "Apple pitches its new phones, watches, and AirPods as vehicles for AI",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkdzNi1RTkc2ZXJQTjFxR3diYXZxa1RYWm55VnhOR2xjMktOSTMyblZ4YXJTdzRDZG1mUlJmbHBWYmtGdmMzNkJlNUNNaEY3SkNYQUFoSUI2XzRaTHJpS3d1NDV6Q0JoTmlKTjltMDhiUE1nTkg2X3lJRWVBZUt0SGM4YkxsUEw1WnJncUIwNW5tYzVLOElLOWI5T1l1MFNNQ1lGZDJYVQ?oc=5",
-      "pub_date": 1788983749.0,
-      "article_url": "https://www.fastcompany.com/91603657/apple-pitches-its-new-phones-watches-and-airpods-as-vehicles-for-ai",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91603657-apple-is-turning-its-devices-into-personal-ai-hubs.jpg",
-      "description": "At its annual hardware event, the company announced three new iPhones (one of them a foldable device), a couple of new Watches, and some new AirPods."
+      "headline": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5",
+      "pub_date": 1788975475.0,
+      "article_url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-watch-series-12-launch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "description": "The Watch is listening."
+    },
+    {
+      "headline": "Apple Is Actually Talking About AI Now \u2014 a Lot",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0otTXFCbkJZNllxQnpDYmxWWi1UMkxJaE5NM1pILVFoMXg4OEZHQ2VLWU93M3hOTWt6VjIyRGlVR0hKemNmZHppRi1QMmNfeG9zUU1pWUl6Q3JLRVVzMDZTYzJaUDc4NV9YLVQxNkI5QmtfeWZ1dVFENndub29mTkQtcHF6M1pSTUhRTzEzYXRweGRlVWlJag?oc=5",
+      "pub_date": 1788993065.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.10.42-PM.png",
+      "description": "New CEO John Ternus says you already have your personal AI device. It\u2019s called an iPhone."
+    },
+    {
+      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "pub_date": 1788901323.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "pub_date": 1788949912.0,
+      "article_url": "https://openai.com/index/navier-stokes-solution/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
+      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+    },
+    {
+      "headline": "The Fight Over OpenAI\u2019s Math Breakthrough Is a New Kind of Scientific Arms Race",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0xzeWNpT2wwV21ER2lsV1k0a0gzbmlBaE9QNC1qS0M2ODVXZmRMdDFtanZWN1lsQm5hRk00WUdSaHBTRXJ1NVVkVFl6YVVyU05zc0Q5WEZrMDhtMDV0TWtEVUtQWDFWTW50dXJIbExRb3dVd0JRd0hyQ3ZFYUZyQVVKMVA4eFlCNDB6b3haWkx1T3UycmZsMlNwclBMa1FPNXBLcTdpclVKVUNQYkE?oc=5",
+      "pub_date": 1788984019.0,
+      "article_url": "https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Treasury CIO pulled from AI work after upsetting West Wing",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQME84bGFuUWF6Y0EtRVp5VVpINUI2dldHbjNJWTU4VWNkUHk0Q2JyTHJLb0R3UjBGUDhBc05iZWhfUE1Ib1RzV216OVM2c25sZTAxN2ktaFFMNkU5Z0pnVVF6d2tEX1R4dEloMDZ6NzZQcXJvM2pFemtrc2hEODR4Qmc1d2ZSZDJPek4tNTRZenBqMHI4Sl9raG1QZHVVemhPOFNFLVVaeFV3WXNV?oc=5",
+      "pub_date": 1788989940.0,
+      "article_url": "https://www.politico.com/news/2026/09/09/treasury-cio-pulled-from-ai-work-after-upsetting-west-wing-01069562",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "James Talarico says Ken Paxton is \"lying to the people of Texas\" with AI ad that puts \"words in my mouth\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemxuNm13LURJd1pnYl83ak1TZTJILWw3MU9NZndua1I2VHhPOWhIVEM2d2ZDbGw0aUo3M01XTF94SDh4eDI5cXFwZ0pZa2U2Rmo4MzU1VngydzBsSnBSVnlsbzJDaTdIRWxxcDNfVV9iY01Tb0xKMUx1N3VueTNPYlJjLURuSEg0dTVr?oc=5",
+      "pub_date": 1788982860.0,
+      "article_url": "https://www.cbsnews.com/news/james-talarico-interview-ken-paxton-texas-senate-2026/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/0294e51d-dffc-490b-bbd3-0d37b8032c10/thumbnail/1200x630g2/0e76209b07ec53ac505e68ab1d05c528/ap26238088147181.jpg",
+      "description": "Democrat James Talarico told CBS News' Ed O'Keefe he won't use AI in political advertising in the race for the Texas U.S. Senate seat, adding, \"every ad that we put out is made by human beings.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T20:33:54.413680+00:00"
+  "fetched_at": "2026-09-09T22:59:23.135250+00:00"
 }

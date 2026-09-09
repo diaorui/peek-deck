@@ -19,7 +19,7 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788791543.0,
+      "pub_date": 1788772690.0,
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
@@ -39,10 +39,40 @@
       "source": "Sifted",
       "source_url": "https://sifted.eu",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHJYbTB3aTd1VktCQzItd1VmM21UdURSclkwV1NjMzdadGwweW4yUm1ianM0MzJPNk5iMnFLS3ZKaE9VWERDZzBidFlKRndSSmoxZ3VockRGbGtMV3YyWU02aXlhQ1otbEJ0SlgydHhGcUtyRS15eEZEaXBQaG1TUmtKSzRuazRieHpjV1gxRVo?oc=5",
-      "pub_date": 1788926657.0,
+      "pub_date": 1788926658.0,
       "article_url": "https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup",
       "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/08192855/Mistral-Icon-Gradient-RGB.jpg",
       "description": "French AI scaleup Mistral launched its own robotics business unit last year."
+    },
+    {
+      "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
+      "source": "SemiAnalysis",
+      "source_url": "https://newsletter.semianalysis.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQ0JtUjVxQWZaOEtZbFFjME5yQ2E5UzJQa2EwUEhjcDNyTE5Qd3lsMEtRNG1oQllOdHhfZ2VINTVYUVg4bEd5Vl9BVFdnSllsWWRvX1RoNS1ZSEtFRXFrV2F4LVRvSHhQZklPWTI0eGVHVHhyY3N5UjNMTVI?oc=5",
+      "pub_date": 1788987215.0,
+      "article_url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
+      "image": "https://substackcdn.com/image/fetch/$s_!AdT6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75b6506-406e-4606-b427-5d4be75cdafb_1672x941.png",
+      "description": "For most of its short history, AI lived behind a screen."
+    },
+    {
+      "headline": "Industry Insights: Andreessen Horowitz is Better $1.1B on Robotics",
+      "source": "A3 Association for Advancing Automation",
+      "source_url": "https://www.automate.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlFRbXpwWUZud2hjWmwwdVBQeWg2aHk0UW5CQjlIa3ZuczYwVmtyMk4wcWg2VWxNeTBhZFRHVk1XSkgzYm1iOWk4MU9vX0M5Z3h4Y2RtU2ppQUhmcnRtdlozRF9KTnE1SGN0LUlwVXpEbjNqQ0tTbjVuV1E4ZlNYOHUzaF9lTGdqTl9NTnRvaDVod0llN05hNi1uX1hza2xhTTUtRVh3?oc=5",
+      "pub_date": 1788987491.0,
+      "article_url": "https://www.automate.org/robotics/industry-insights/what-happens-when-a16z-starts-investing-in-robotics",
+      "image": null,
+      "description": "Andreessen Horowitz's $1.1 billion Machine Age Fund will back hardware startups that contribute to physical AI."
+    },
+    {
+      "headline": "What bricklaying has taught Monumental about robots in construction",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTVsam9tN1NCaHJnTUtDTUZxMGdYX25BRWNvQXQtV1p0N0dEdC1vS21OU1FvRXgta2JYNFBUelNvYXV3RVE4cnNPYTRackIxUExneUxjX1VqWHlWdkhUMWo3Z2RzaEF2RXF5aGV2a2w1ZTFEb091XzJ0MXlLT0dWaTE3aV82YkJUZ3B0LThYbFgyWC1TejJtb2l1azI?oc=5",
+      "pub_date": 1788988134.0,
+      "article_url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/monumental-featured.jpg",
+      "description": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet."
     },
     {
       "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
@@ -55,24 +85,14 @@
       "description": "Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents."
     },
     {
-      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
-      "pub_date": 1788973140.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
-      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
-    },
-    {
-      "headline": "Hugging Face Is Making A Big Robotics Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd251Ul9EX1hGX2V1dzVZRU16VUswalBSNjhmcXZad0pkUGhLRWVhZGN2T0h2VDNvcEVCS0E1dkJQRDdwcUktdG8xNlQyeXBEVkVaZVhvVFk5RTQwNzktWnZwSGE0LXVmeTFCV3Q4S0JuQmk1QmFZZF9HRGdhMGpyY21DaWtkSEpJWTJ2UEVDWEYtOWwwQ2c?oc=5",
-      "pub_date": 1788894360.0,
-      "article_url": "https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push",
-      "image": null,
-      "description": null
+      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
+      "source": "Arm Newsroom",
+      "source_url": "https://newsroom.arm.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
+      "pub_date": 1788832965.0,
+      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
+      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
+      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
     },
     {
       "headline": "Robotic fish swims like the real thing, and can be built to any size",
@@ -83,28 +103,8 @@
       "article_url": "https://newatlas.com/robotics/scafi-scalable-robotic-fish/",
       "image": "https://assets.newatlas.com/dims4/default/231b0ac/2147483647/strip/true/crop/3000x1575+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F33%2Fcf%2F69b9ee334115af2808d61a6b6e5b%2Ffish-robot.jpeg&na.image_optimisation=0",
       "description": "Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish."
-    },
-    {
-      "headline": "Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays",
-      "source": "fool.com",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTk0NGo3MTRBc0lLRU5rRDBSMHhVVmMyaTFPd0x0MmhtU3FYNzZNT0NzNndKZW1RbmVmSEdxTTBWMGlfaWRFVjVoaVFJaDI0OGdBWVBMZDdDUHh2RFMxMWMwMnR2LTZqQWdIVnN4OWFqNC1lOFdUNC0zZGlYWlVEY2FIbk5zc1R1UzRMck02eEt1czZDWW5fUw?oc=5",
-      "pub_date": 1788956100.0,
-      "article_url": "https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886380%2Fstanley-druckenmiller_duquesne-family-office_chairman_imagesource_getty-images.jpeg&w=1200&op=resize",
-      "description": "Druckenmiller is considered one of the best investors of all time."
-    },
-    {
-      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
-      "source": "Arm Newsroom",
-      "source_url": "https://newsroom.arm.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
-      "pub_date": 1788832965.0,
-      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
-      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T20:33:44.473450+00:00"
+  "fetched_at": "2026-09-09T22:59:23.254958+00:00"
 }
