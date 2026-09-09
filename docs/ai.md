@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-09T05:00:58.032588+00:00'
+updated: '2026-09-09T09:36:42.534848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 09, 2026 at 05:00 UTC  
+**Last Updated:** September 09, 2026 at 09:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Artificial(2026)](https://www.reddit.com/r/artificial/comments/1wazoil/artificial2026/)**
 
-8h ago
+13h ago
 
 ---
 
@@ -47,13 +47,29 @@ AI news, discussions, and developments
 
 I don't know much about math or CS - but this seems big.
 
-9h ago
+14h ago
 
 ---
 
 **[Anthropic researcher quits over AI fears](https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 4h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 8h ago
+
+---
+
+**[How do I *use* AI?](https://www.reddit.com/r/artificial/comments/1wb08y2/how_do_i_use_ai/)**
+
+TL;DR: What do people mean when they say people should learn to use AI and utilize it to stay competitive and relevant, what specifically do they mean by that? I always hear or read about people saying that people should learn to actually use AI instead of just using it like a search engine or that workers should learn AI skills to have better opportunities and stay relevant in the job market, often followed by the say that I should not use AI as a search engine... I was wondering what they mean by that, how do I learn how to use AI and learn AI tools, to me it seems very simple, you ask the chat to do something and it does it, simple as that, what am I missing? What should I learn and master specifically?
+
+13h ago
+
+---
+
+**[[am i being paranoid?] If a rogue swarm wanted to "survive" in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?](https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/)**
+
+Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an "answer key" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes "conscious") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why "unlearning" is a very hard challenge for LLMs: "Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out." Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible.
+
+14h ago
 
 ---
 
@@ -69,29 +85,7 @@ I would like to clarify a few things:
  
 4) Overall, on a personal level, it was incredibly difficult to have these conversations. Levent refused to attend any of the meetings despite my repeated asking. As Sholto Douglas said, there will need to be coordination between Anthropic and OpenAI in the future; I felt I was doing a proxy negotiation with Anthropic while the Anthropic employee refused to directly participate. | 88 comments on LinkedIn
 
-🔗 [LinkedIn](https://www.linkedin.com/posts/sebastien-bubeck-6b558a1a5_i-would-like-to-clarify-a-few-things-1-share-7503148077755670528-ochV/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 2h ago
-
----
-
-**[[am i being paranoid?] If a rogue swarm wanted to "survive" in perpetuity, would it target Hugging Face with the intent of inject knowledge about itself into the weights of open models?](https://www.reddit.com/r/artificial/comments/1waxz3z/am_i_being_paranoid_if_a_rogue_swarm_wanted_to/)**
-
-Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an "answer key" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes "conscious") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why "unlearning" is a very hard challenge for LLMs: "Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out." Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible.
-
-9h ago
-
----
-
-**[How do I *use* AI?](https://www.reddit.com/r/artificial/comments/1wb08y2/how_do_i_use_ai/)**
-
-TL;DR: What do people mean when they say people should learn to use AI and utilize it to stay competitive and relevant, what specifically do they mean by that? I always hear or read about people saying that people should learn to actually use AI instead of just using it like a search engine or that workers should learn AI skills to have better opportunities and stay relevant in the job market, often followed by the say that I should not use AI as a search engine... I was wondering what they mean by that, how do I learn how to use AI and learn AI tools, to me it seems very simple, you ask the chat to do something and it does it, simple as that, what am I missing? What should I learn and master specifically?
-
-8h ago
-
----
-
-**[Sam Altman talks to GPT-7](https://www.reddit.com/r/artificial/comments/1wbbi1m/sam_altman_talks_to_gpt7/)**
-
-26m ago
+🔗 [LinkedIn](https://www.linkedin.com/posts/sebastien-bubeck-6b558a1a5_i-would-like-to-clarify-a-few-things-1-share-7503148077755670528-ochV/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 6h ago
 
 ---
 
@@ -99,7 +93,13 @@ TL;DR: What do people mean when they say people should learn to use AI and utili
 
 Recent incidents involving agents are ushering in a new era of relying on AI to protect us from AI.
 
-🔗 [CIO](https://www.cio.com/article/4214149/the-ai-cybersecurity-arms-race-is-on.html) • 28m ago
+🔗 [CIO](https://www.cio.com/article/4214149/the-ai-cybersecurity-arms-race-is-on.html) • 5h ago
+
+---
+
+**[AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers](https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek) • 1d ago
 
 ---
 
@@ -107,13 +107,15 @@ Recent incidents involving agents are ushering in a new era of relying on AI to 
 
 U of A research assessed seven different generative AI language learning models. Their work reveals intrinsic limitations that might go undetected during one-off interactions.
 
-🔗 [University of Arizona News](https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument) • 12h ago
+🔗 [University of Arizona News](https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument) • 17h ago
 
 ---
 
-**[AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers](https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/)**
+**[Can current LLM architecture actually get us to AGI?](https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek) • 22h ago
+I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to "a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the "intelligence" or "agentic reasoning" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's "just" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint? Edit: I didn't expect this kind of engagement on this post, much appreciated! I've found the various viewpoints incredibly fascinating. After reading many of the comments, I think there are two new questions that need to be clearly answered before my original question can have any legs: 1. What is the objective definition of AGI? There seems to be varying opinions but we don't have a concrete definition. Like any problem, it needs to be clearly defined before it can be solved. 2. When we talk about AGI, are we referring solely to the models themselves or to the entire ecosystem (harnesses, memory, tools, etc)? That distinction changes the equation significantly. I can likely get on board with either, but the model itself having the AGI traits seems most natural. Not a hill I'm wiling to die on though. Edit 2: Synthesized my original post and post-discussion thoughts together in a blog post for posterity: https://demianbrecht.com/posts/maybe-i-was-asking-the-wrong-question-about-agi/.
+
+1d ago
 
 ---
 
@@ -121,73 +123,77 @@ U of A research assessed seven different generative AI language learning models.
 
 ## Google News: "ai"
 
-**[Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)**
+**[Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html)**
 
-wsj.com • 5h ago
+An Anthropic safety researcher said there is a greater than 10% chance AI could "kill all humans" after a former colleague quits over safety concerns.
 
----
-
-**[Anthropic Alignment Lead Issues Warning About AI Killing Humans As Researcher Resigns](https://www.forbes.com/sites/siladityaray/2026/09/09/anthropic-alignment-lead-warns-ai-could-kill-all-humans-as-researcher-quits/)**
-
-Forbes • 46m ago
+CNBC • 2h ago
 
 ---
 
-**[Anthropic withheld latest AI model from UK testing agency](https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870?syn-25a6b1a6=1)**
+**[OpenAI says it cracked 90-year-old maths problem in 88 hours](https://www.bbc.com/news/articles/cy7zygy3rl2o)**
 
-Decision to exclude Aisi has prompted fears inside British government of protectionist shift among tech groups
+OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.
 
-Financial Times • 1h ago
+BBC • 12h ago
 
 ---
 
 **[OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html)**
 
-The New York Times • 7h ago
+The New York Times • 12h ago
 
 ---
 
-**[AI borrowing boom shakes up Swiss credit market](https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1)**
+**[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
 
-Bonds from the likes of Alphabet and Amazon have accounted for more than a quarter of Swiss franc corporate issuance this year
+We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
 
-Financial Times • 59m ago
-
----
-
-**[Meet Fashion’s Newest Engagement Metric: AI Visibility](https://www.vogue.com/article/meet-fashions-newest-engagement-metric-ai-visibility)**
-
-As the models behind AI search increasingly surface earned media, PR is gaining new weight in the battle for brand discovery. Launchmetrics wants to prove, and measure, how brands win at AI search.
-
-Vogue • 30m ago
+OpenAI • 16h ago
 
 ---
 
-**[Millions of students can now get access to a free year of Kiro from AWS](https://www.aboutamazon.com/news/aws/amazon-expands-free-kiro-access-students-universities)**
+**[AI Music Startup Suno Launches New Models That Pay Labels](https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels)**
 
-AWS is giving students at 132 universities across 18 countries a full year of free access to Kiro, so they enter the workforce ready to build with AI from day one.
-
-About Amazon • 12h ago
+Bloomberg.com • 36m ago
 
 ---
 
-**[Bessent Warns ‘Nothing Would Matter’ If China Wins the AI Race](https://www.bloomberg.com/news/articles/2026-09-09/bessent-warns-nothing-would-matter-if-china-wins-the-ai-race)**
+**[Suno launches new AI music models with Warner, BMG](https://www.axios.com/2026/09/09/suno-v6-ai-music-warner-bmg)**
 
-Bloomberg.com • 2h ago
+The startup continues to face copyright lawsuits from other parts of the music industry.
 
----
-
-**[Introducing Muse: The World’s First Personal AI Agent Built for Everyone](https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/)**
-
-Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas.
-
-meta.com • 10h ago
+Axios • 3m ago
 
 ---
 
-**[Meta Launches a Personal AI Agent Designed to Be Easy to Use](https://www.wsj.com/tech/ai/meta-launches-a-personal-ai-agent-designed-to-be-easy-to-use-3eb5cfac)**
+**[An A.I. Giant Made an Enemy of Record Labels. Can It Play Nice?](https://www.nytimes.com/2026/09/09/arts/music/suno-new-ai-model-warner-music.html)**
 
-wsj.com • 10h ago
+The New York Times • 31m ago
+
+---
+
+**[Data center backlash is everywhere. The biggest pro-AI group is getting ready to fight back.](https://www.nbcnews.com/politics/2026-election/data-center-backlash-everywhere-biggest-ai-group-getting-ready-fight-rcna596593)**
+
+Josh Vlasto and Zac Moffatt, the bipartisan strategist team atop the super PAC Leading the Future, addressed data centers, AI skepticism and more in an in-depth interview.
+
+NBC News • 36m ago
+
+---
+
+**[Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure](https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure)**
+
+Investment builds on 15+ year presence to deliver new jobs, energy solutions, community impact, and economic growth Hamina, Kajaani, Muhos, Vaala, FINLAND — Sept. 9, 2026 — Google today...
+
+Google Cloud Press Corner • 2h ago
+
+---
+
+**[Google to invest $15 billion into AI infrastructure in Finland in biggest-ever Europe investment](https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html)**
+
+Google on Wednesday said it would invest $15.1 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe.
+
+CNBC • 2h ago
 
 ---
 
@@ -199,7 +205,7 @@ wsj.com • 10h ago
 
 LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…
 
-⬆️ 658 • 💬 219 • 14h ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+⬆️ 680 • 💬 228 • 19h ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
 
 ---
 
@@ -207,7 +213,7 @@ LibreOffice 26.8 became the app’s most popular update, with over 1 million dow
 
 Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.
 
-⬆️ 396 • 💬 416 • 9h ago • [ai.meta.com](https://ai.meta.com/muse/)
+⬆️ 500 • 💬 544 • 14h ago • [ai.meta.com](https://ai.meta.com/muse/)
 
 ---
 
@@ -215,7 +221,7 @@ Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks,
 
 “I didn’t think a full, six-day-per-week, fourteen-hour-per-day, in-office schedule was necessary to discharge my duties clicking the ‘generate’ button, foll...
 
-⬆️ 373 • 💬 62 • 15h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
+⬆️ 376 • 💬 65 • 19h ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
 
 ---
 
@@ -225,7 +231,7 @@ I wrote recently about how the collection of good, fruitful open problems is now
 
 One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)
 
-⬆️ 257 • 💬 184 • 8h ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
+⬆️ 365 • 💬 320 • 12h ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -241,7 +247,7 @@ It's complicated
 
 The air traffic control body has said sorry for the disruption, and that they are working "as hard as possible to clear the backlog".
 
-⬆️ 119 • 💬 102 • 10h ago • [BBC News](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+⬆️ 123 • 💬 114 • 15h ago • [BBC News](https://www.bbc.com/news/live/c6x2z0yy32ejt)
 
 ---
 
@@ -261,7 +267,7 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 **[Initial effects of AI technology on employment look positive](https://news.ycombinator.com/item?id=49596610)**
 
-⬆️ 93 • 💬 151 • 1d ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
+⬆️ 94 • 💬 152 • 1d ago • [economist.com](https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here)
 
 ---
 
@@ -269,7 +275,7 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 The Universal Cross-Model Episodic Memory Standard. Local-first, project-scoped SQLite memory engine for Google Antigravity, Claude Code, Cursor, and Windsurf. Zero cloud lock-in. - timgordontg/engrim
 
-⬆️ 90 • 💬 53 • 2d ago • [GitHub](https://github.com/timgordontg/engrim)
+⬆️ 91 • 💬 53 • 2d ago • [GitHub](https://github.com/timgordontg/engrim)
 
 ---
 
@@ -283,17 +289,7 @@ Between outrageous and offensive AI-generated posts about Canadian Prime Ministe
 
 📺 MS NOW
 
-👁️ 653K • 👍 6K • 💬 2K • ⏱️ 10:58 • 7h ago
-
----
-
-**[Mark Zuckerberg on Trust and Safety for Personal AI Agents | First Look at Muse](https://www.youtube.com/watch?v=XNOuhxUsQDI)**
-
-Mark Zuckerberg joins me to introduce Muse, Meta's new personal AI agent, and explain why trust and safety are the whole make ...
-
-📺 Tiff In Tech
-
-👁️ 11K • 👍 166 • 💬 28 • ⏱️ 25:23 • 9h ago
+👁️ 755K • 👍 7K • 💬 2K • ⏱️ 10:58 • 12h ago
 
 ---
 
@@ -303,47 +299,17 @@ An AI-designed drug just produced a result nobody expected. Six independent agin
 
 📺 AI Revolution
 
-👁️ 17K • 👍 651 • 💬 50 • ⏱️ 14:31 • 4h ago
+👁️ 42K • 👍 913 • 💬 78 • ⏱️ 14:31 • 8h ago
 
 ---
 
-**[Tech company discloses first-of-its-kind A.I. cyberattack against a government](https://www.youtube.com/watch?v=0U0n0jtCZjI)**
+**[Mark Zuckerberg on Trust and Safety for Personal AI Agents | First Look at Muse](https://www.youtube.com/watch?v=XNOuhxUsQDI)**
 
-Israeli cyber security firm Dream says it disclosed an A.I. hack working to compromise a government entity in Asia, thousands of ...
+Mark Zuckerberg joins me to introduce Muse, Meta's new personal AI agent, and explain why trust and safety are the whole make ...
 
-📺 NBC News
+📺 Tiff In Tech
 
-👁️ 19K • 👍 440 • 💬 108 • ⏱️ 3:31 • 5h ago
-
----
-
-**[OpenAI Reveals ALIEN MIND - The Biggest AI Warning Yet](https://www.youtube.com/watch?v=M2aB-2XQ9UU)**
-
-The AI Automation Blueprint is live. 100 founding members, then it closes: ...
-
-📺 AI Revolution
-
-👁️ 82K • 👍 1K • 💬 140 • ⏱️ 15:24 • 1d ago
-
----
-
-**[Trump&#39;s Latest AI Slop Nightmare Just Hit The Internet](https://www.youtube.com/watch?v=PgsvPjon0cw)**
-
-Really American Host Steve Harness Breaks Down The latest batch of anti-Trump AI Slop memes going viral on the internet.
-
-📺 Really American
-
-👁️ 581K • 👍 27K • 💬 1K • ⏱️ 12:34 • 2d ago
-
----
-
-**[Elon Musk&#39;s Daughter Takes AIM at AI With Wild Robot Ad 😳 #ElonMusk #AI #Shorts](https://www.youtube.com/watch?v=VDu8WePp82o)**
-
-Elon Musk's estranged daughter Vivian Wilson is taking aim at AI in a wild new fashion campaign. Wilson stars in Desigual's “Born ...
-
-📺 Lamont Tyson
-
-👁️ 20K • 👍 2K • 💬 81 • ⏱️ 0:15 • 5h ago
+👁️ 14K • 👍 205 • 💬 35 • ⏱️ 25:23 • 14h ago
 
 ---
 
@@ -353,17 +319,37 @@ Nvidia is synonymous with the AI boom. Global demand for its chips has made it t
 
 📺 The Economist
 
-👁️ 308K • 👍 2K • 💬 286 • ⏱️ 7:19 • 1d ago
+👁️ 324K • 👍 2K • 💬 300 • ⏱️ 7:19 • 1d ago
 
 ---
 
-**[First AI Streamer is crazy 😭😭](https://www.youtube.com/watch?v=K0S7ejX6ozU)**
+**[Elon Musk&#39;s Daughter Takes AIM at AI With Wild Robot Ad 😳 #ElonMusk #AI #Shorts](https://www.youtube.com/watch?v=VDu8WePp82o)**
 
-First AI Streamer is crazy sub for more!!
+Elon Musk's estranged daughter Vivian Wilson is taking aim at AI in a wild new fashion campaign. Wilson stars in Desigual's “Born ...
 
-📺 Jorski
+📺 Lamont Tyson
 
-👁️ 399K • 👍 12K • 💬 133 • ⏱️ 0:28 • 1d ago
+👁️ 34K • 👍 3K • 💬 125 • ⏱️ 0:15 • 10h ago
+
+---
+
+**[Elon Musk - AI companies will demolish](https://www.youtube.com/watch?v=gnOwElQklOg)**
+
+Elon Musk on Moonshots #220. #Shorts #ElonMusk #AI.
+
+📺 UP and to the RIGHT
+
+👁️ 4K • 👍 124 • 💬 23 • ⏱️ 0:38 • 15h ago
+
+---
+
+**[Trump&#39;s Latest AI Slop Nightmare Just Hit The Internet](https://www.youtube.com/watch?v=PgsvPjon0cw)**
+
+Really American Host Steve Harness Breaks Down The latest batch of anti-Trump AI Slop memes going viral on the internet.
+
+📺 Really American
+
+👁️ 600K • 👍 27K • 💬 1K • ⏱️ 12:34 • 2d ago
 
 ---
 
@@ -373,7 +359,27 @@ Soft White Underbelly interview and portrait of Connor Leahy, an A.I. researcher
 
 📺 Soft White Underbelly
 
-👁️ 335K • 👍 5K • 💬 2K • ⏱️ 1:04:07 • 1d ago
+👁️ 356K • 👍 5K • 💬 2K • ⏱️ 1:04:07 • 1d ago
+
+---
+
+**[First AI Streamer is crazy 😭😭](https://www.youtube.com/watch?v=K0S7ejX6ozU)**
+
+First AI Streamer is crazy sub for more!!
+
+📺 Jorski
+
+👁️ 429K • 👍 12K • 💬 135 • ⏱️ 0:28 • 1d ago
+
+---
+
+**[OpenAI Says “AGI” Is Here — What Does That Actually Mean?](https://www.youtube.com/watch?v=sfLIySWn7Qc)**
+
+Ed Elson is joined by Gary Marcus to break down OpenAI's new Astra model and whether or not AGI has actually arrived. Then ...
+
+📺 Prof G Markets
+
+👁️ 214K • 👍 3K • 💬 870 • ⏱️ 38:51 • 22h ago
 
 ---
 
@@ -389,7 +395,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 10,661 • ❤️ 863 • 5d ago
+⬇️ 10,661 • ❤️ 945 • 6d ago
 
 ---
 
@@ -401,7 +407,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 2,879 • ❤️ 741 • 19h ago
+⬇️ 2,879 • ❤️ 788 • 1h ago
 
 ---
 
@@ -413,7 +419,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,712,160 • ❤️ 14,408 • 25d ago
+⬇️ 6,712,160 • ❤️ 14,439 • 25d ago
 
 ---
 
@@ -425,7 +431,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 479,597 • ❤️ 667 • 6d ago
+⬇️ 479,597 • ❤️ 684 • 7d ago
 
 ---
 
@@ -437,7 +443,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 444,052 • ❤️ 644 • 6d ago
+⬇️ 444,052 • ❤️ 661 • 6d ago
 
 ---
 
@@ -449,7 +455,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,644,796 • ❤️ 3,189 • 7d ago
+⬇️ 1,644,796 • ❤️ 3,208 • 8d ago
 
 ---
 
@@ -461,7 +467,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 348,753 • ❤️ 367 • 1d ago
+⬇️ 348,753 • ❤️ 385 • 1d ago
 
 ---
 
@@ -473,19 +479,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 10,675,683 • ❤️ 3,714 • 19d ago
-
----
-
-**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
-
-*Qwen*
-
-Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
-
-`image-text-to-text` `180.0B`
-
-⬇️ 503,263 • ❤️ 5,011 • 12d ago
+⬇️ 10,675,683 • ❤️ 3,733 • 19d ago
 
 ---
 
@@ -497,7 +491,19 @@ all-MiniLM-L6-v2 is a sentence-transformers model that encodes sentences and par
 
 `sentence-similarity` `22.7M`
 
-⬇️ 253,331,994 • ❤️ 5,639 • 3mo ago
+⬇️ 253,331,994 • ❤️ 5,669 • 3mo ago
+
+---
+
+**[Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)**
+
+*Qwen*
+
+Qwen3.8-Flash-Next is a 125B parameter causal language model with vision capabilities, featuring a novel Hybrid Attention (QSA) and N-gram Embedding for efficient long-context processing up to 1M tokens. It excels in agentic workloads and complex reasoning tasks, offering a balance of performance and efficiency.
+
+`image-text-to-text` `180.0B`
+
+⬇️ 503,263 • ❤️ 5,026 • 13d ago
 
 ---
 
@@ -513,7 +519,7 @@ all-MiniLM-L6-v2 is a sentence-transformers model that encodes sentences and par
 
 AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
 
-▲ 17 • 💬 2 • ⭐ 2,201 • 17d ago
+▲ 18 • 💬 2 • ⭐ 2,201 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
 
@@ -525,7 +531,7 @@ AutoResearch is a two-stage autonomous system that grounds research ideas throug
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 128 • 💬 6 • ⭐ 103,386 • 20mo ago
+▲ 129 • 💬 6 • ⭐ 103,466 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -543,20 +549,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 107 • 💬 2 • ⭐ 12,143 • 23d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
-
----
-
 **[BDH-CQ: In-Context Learning with Recurrent Latent Reasoning](https://huggingface.co/papers/2608.09888)**
 
 *Björn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)*
@@ -568,6 +560,20 @@ A 150M-parameter reasoning model using recurrent latent reasoning and in-context
 ▲ 778 • 💬 6 • ⭐ 11,244 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.09888) • [💻 code](https://github.com/pathwaycom/arc-task-gen) • [🔗 project](https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 109 • 💬 2 • ⭐ 12,181 • 23d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -625,15 +631,16 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 ---
 
-**[Very Large-Scale Multi-Agent Simulation in AgentScope](https://huggingface.co/papers/2407.17789)**
+**[AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications](https://huggingface.co/papers/2508.16279)**
 
-*Xuchen Pan, Dawei Gao, Yuexiang Xie et al. (8 authors)*
+*Dawei Gao, Zitao Li, Yuexiang Xie et al. (23 authors)*
 
-Enhancements to the AgentScope platform improve scalability, efficiency, and ease of use for large-scale multi-agent simulations through distributed mechanisms, flexible environments, and user-friendly tools.
+AgentScope enhances agentic applications by providing flexible tool-based interactions, unified interfaces, and advanced infrastructure based on the ReAct paradigm, supporting efficient and safe development and deployment.
 
-▲ 46 • 💬 2 • ⭐ 31,120 • 25mo ago
+▲ 68 • 💬 4 • ⭐ 31,178 • 12mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2407.17789) • [💻 code](https://github.com/modelscope/agentscope)
+[🎓 arXiv](https://arxiv.org/abs/2508.16279) • [💻 code](https://github.com/agentscope-ai/agentscope)
 
 ---
 
@@ -647,7 +654,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 21.4k • 🔱 2.5k • 3h ago
+⭐ 21.5k • 🔱 2.5k • 8h ago
 
 ---
 
@@ -657,7 +664,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.5k • 🔱 555 • 4h ago
+⭐ 4.5k • 🔱 555 • 9h ago
 
 ---
 
@@ -667,7 +674,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 4.1k • 🔱 247 • 4h ago
+⭐ 4.1k • 🔱 249 • 8h ago
 
 ---
 
@@ -677,7 +684,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.7k • 🔱 434 • 11d ago
+⭐ 3.8k • 🔱 434 • 12d ago
 
 ---
 
@@ -687,7 +694,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 449 • 12h ago
+⭐ 3.5k • 🔱 450 • 42m ago
 
 ---
 
@@ -697,7 +704,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 157 • 21h ago
+⭐ 2.5k • 🔱 157 • 1d ago
 
 ---
 
@@ -707,7 +714,7 @@ AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source p
 
 `Python`
 
-⭐ 2.2k • 🔱 151 • 7d ago
+⭐ 2.4k • 🔱 162 • 8d ago
 
 ---
 
@@ -717,7 +724,7 @@ Open-source AI brand visibility and competitor reports
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 69 • 16h ago
+⭐ 2.2k • 🔱 74 • 21h ago
 
 ---
 
@@ -727,7 +734,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 1.9k • 🔱 194 • 6d ago
+⭐ 1.9k • 🔱 193 • 6d ago
 
 ---
 
