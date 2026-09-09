@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T17:55:47.515242+00:00'
+updated: '2026-09-09T20:33:55.534901+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 17:55 UTC  
+**Last Updated:** September 09, 2026 at 20:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-WSJ • 7h ago
+WSJ • 10h ago
 
 ---
 
@@ -122,11 +122,11 @@ Reuters • 2d ago
 
 ---
 
-**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
+**[Automakers rush to humanoid robots for manufacturing and learn their limitations](https://www.autonews.com/technology/ane-ai-auto-robotics-humanoids-0909/)**
 
-Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
+Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
 
-Business Insider • 13h ago
+Automotive News • 8h ago
 
 ---
 
@@ -134,7 +134,7 @@ Business Insider • 13h ago
 
 French AI scaleup Mistral launched its own robotics business unit last year.
 
-Sifted • 13h ago
+Sifted • 16h ago
 
 ---
 
@@ -142,13 +142,21 @@ Sifted • 13h ago
 
 Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
-Futurism • 17h ago
+Futurism • 20h ago
+
+---
+
+**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
+
+Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
+
+Boston.com • 3h ago
 
 ---
 
 **[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
 
-theinformation.com • 22h ago
+The Information • 1d ago
 
 ---
 
@@ -156,29 +164,23 @@ theinformation.com • 22h ago
 
 Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-New Atlas • 23h ago
+New Atlas • 1d ago
 
 ---
 
-**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
+**[Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays](https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/)**
 
-A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
+Druckenmiller is considered one of the best investors of all time.
 
-GeekWire • 1h ago
-
----
-
-**[Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)**
-
-AI News • 1d ago
+fool.com • 8h ago
 
 ---
 
-**[Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics](https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/)**
+**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
 
-Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.
+Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
 
-The Robot Report • 21h ago
+Arm Newsroom • 1d ago
 
 ---
 
@@ -192,17 +194,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 143K • 👍 2K • 💬 469 • ⏱️ 5:02 • 15h ago
-
----
-
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
-
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
-
-📺 XPENG
-
-👁️ 51K • 👍 1K • 💬 117 • ⏱️ 5:52 • 13h ago
+👁️ 168K • 👍 3K • 💬 503 • ⏱️ 5:02 • 18h ago
 
 ---
 
@@ -212,7 +204,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 29K • 👍 443 • 💬 47 • ⏱️ 15:17 • 4d ago
+👁️ 29K • 👍 444 • 💬 48 • ⏱️ 15:17 • 4d ago
 
 ---
 
@@ -222,7 +214,17 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 556K • 👍 9K • 💬 756 • ⏱️ 15:41 • 6d ago
+👁️ 560K • 👍 10K • 💬 757 • ⏱️ 15:41 • 6d ago
+
+---
+
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+
+📺 XPENG
+
+👁️ 62K • 👍 1K • 💬 122 • ⏱️ 5:52 • 16h ago
 
 ---
 
@@ -232,45 +234,27 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 297K • 👍 2K • 💬 644 • ⏱️ 1:44 • 5d ago
+👁️ 298K • 👍 2K • 💬 643 • ⏱️ 1:44 • 5d ago
 
 ---
 
-**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
 
-📺 Opac24MLB
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
 
-👁️ 581 • 👍 7 • ⏱️ 0:16 • 1h ago
+📺 ejunky66
 
----
-
-**[This Robot uses artificial muscles instead of motors!](https://www.youtube.com/watch?v=1rBjJ10VH2M)**
-
-Most robots look human from the outside. Clone Alpha was built human from the inside. The engineering decisions behind this ...
-
-📺 Mangesh Shinde Shorts
-
-👁️ 12K • 👍 2K • 💬 20 • ⏱️ 0:59 • 5h ago
+👁️ 9K • 👍 141 • 💬 16 • ⏱️ 0:59 • 5d ago
 
 ---
 
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
 
-📺 South China Morning Post
+📺 Julia McCoy
 
-👁️ 196K • 👍 2K • 💬 466 • ⏱️ 3:47 • 6d ago
-
----
-
-**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
-
-Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
-
-📺 Joe Lonsdale
-
-👁️ 55K • 👍 419 • 💬 39 • ⏱️ 8:34 • 5d ago
+👁️ 75K • 👍 621 • 💬 129 • ⏱️ 9:07 • 6d ago
 
 ---
 
@@ -281,6 +265,26 @@ A Chinese robot appeared to malfunction attacking customers at an electronics sh
 📺 New York Post
 
 👁️ 59K • 👍 808 • 💬 275 • ⏱️ 1:16 • 6d ago
+
+---
+
+**[The Biggest Robot Vacuum Launches at IFA 2026 | Roborock, Dreame, DJI ROMO, iRobot &amp; Others](https://www.youtube.com/watch?v=zCXcXRmjMhc)**
+
+A hands-on look at the most interesting robot vacuums and cleaning concepts from IFA 2026—including the Roborock Saros 20 ...
+
+📺 Rawan's Reviews
+
+👁️ 38K • 👍 189 • 💬 16 • ⏱️ 9:44 • 4d ago
+
+---
+
+**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
+
+Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
+
+📺 Joe Lonsdale
+
+👁️ 56K • 👍 420 • 💬 39 • ⏱️ 8:34 • 6d ago
 
 ---
 
