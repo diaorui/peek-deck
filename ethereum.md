@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T00:02:51.210181+00:00'
+updated: '2026-09-09T05:00:58.047256+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
 - social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 00:02 UTC  
+**Last Updated:** September 09, 2026 at 05:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,485.91
+### $2,494.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -0.8%  
-**30d:** +32.1%  
-**90d:** +49.3%  
-**1y:** -42.9%  
+**24h:** +1.7%  
+**7d:** +0.1%  
+**30d:** +33.3%  
+**90d:** +50.6%  
+**1y:** -42.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.21B
+**Market Cap:** $306.27B
 Rank #2
 
-**Circulating Supply:** 122,029,705 ETH
+**Circulating Supply:** 122,032,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.8%
+-49.3%
 
 **All-Time Low:** $0.43
-+573773.1%
++579517.0%
 
 ---
 
@@ -172,13 +172,21 @@ CryptoSlate • 1d ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[ETH news: Ethereum makes quantum resistance a top priority with a 2029 deadline](https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline)**
 
-CoinDesk • 10h ago
+CoinDesk • 15h ago
+
+---
+
+**[Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html)**
+
+Bitmine Immersion Technologies (NYSE: $BMNR) added another 28,086 Ether (CRYPTO: $ETH) to its holdings last week, b...
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -186,21 +194,13 @@ CoinDesk • 10h ago
 
 Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
 
-PR Newswire • 11h ago
+PR Newswire • 16h ago
 
 ---
 
-**[ETH news: Ethereum makes quantum resistance a top priority with a 2029 deadline](https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline)**
+**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
 
-CoinDesk • 10h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level](https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/)**
-
-Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
-
-TradingView • 21h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -208,7 +208,15 @@ TradingView • 21h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-The Block • 19h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level](https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/)**
+
+Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
+
+TradingView • 1d ago
 
 ---
 
@@ -216,15 +224,7 @@ The Block • 19h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 10h ago
-
----
-
-**[Ethereum Price Forecast: Retail distributions outweigh whale and ETF buying](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-retail-distributions-outweigh-whale-and-etf-buying-202609072052)**
-
-Ethereum (ETH) continues to consolidate near $2,500 on Monday as distribution from retail wallets outweighed whale optimism.
-
-FXStreet • 1d ago
+Fortune • 16h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 163 • 💬 54 • ⏱️ 14:25 • 8h ago
+👁️ 9K • 👍 189 • 💬 62 • ⏱️ 14:25 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 520 • 👍 12 • 💬 1 • ⏱️ 0:56 • 6h ago
+👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:56 • 11h ago
 
 ---
 
@@ -258,17 +258,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 17K • 👍 533 • 💬 47 • ⏱️ 3:29 • 1d ago
-
----
-
-**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
-
-A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
-
-📺 Luiz Fernando
-
-👁️ 1K • 👍 225 • 💬 17 • ⏱️ 29:01 • 2h ago
+👁️ 17K • 👍 536 • 💬 47 • ⏱️ 3:29 • 1d ago
 
 ---
 
@@ -278,7 +268,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 51K • 👍 623 • 💬 50 • ⏱️ 18:40 • 1d ago
+👁️ 53K • 👍 649 • 💬 50 • ⏱️ 18:40 • 1d ago
+
+---
+
+**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
+
+A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
+
+📺 Luiz Fernando
+
+👁️ 9K • 👍 427 • 💬 40 • ⏱️ 29:01 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 12K • 👍 280 • 💬 21 • ⏱️ 12:04 • 23h ago
+👁️ 13K • 👍 282 • 💬 21 • ⏱️ 12:04 • 1d ago
 
 ---
 
@@ -298,17 +298,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 230 • 👍 7 • 💬 18 • ⏱️ 5:04 • 8h ago
-
----
-
-**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 5K • 👍 151 • 💬 12 • ⏱️ 14:40 • 2d ago
+👁️ 285 • 👍 7 • 💬 18 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -322,13 +312,23 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 ---
 
-**[Ethereum: NON TE LO DICONO...](https://www.youtube.com/watch?v=cwWtPsUbnfc)**
+**[Arthur Hayes &amp; Jack Mallers :&quot;My NEW Prediction For Ethereum &amp; Bitcoin In 2026&quot; (Prepare Now)](https://www.youtube.com/watch?v=bPFiQvDIm8k)**
 
-GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: NON TE LO DICONO... Nuova analisi su ETH ! Vediamo insieme ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Jacopo Marini
+📺 Crypto Nutshell
 
-👁️ 344 • 👍 28 • 💬 2 • ⏱️ 15:44 • 3h ago
+👁️ 5K • 👍 151 • 💬 12 • ⏱️ 14:40 • 2d ago
+
+---
+
+**[🔴 LIVE: XAU GOLD + CRYPTO Price Action | Bitcoin, ETH &amp; Gold Analysis Today | Support Resistance](https://www.youtube.com/watch?v=Cng_-rH58Xg)**
+
+Open Account With Shark Exchange for FREE Access to AK Roxx ALPHA - https://sharkexchange.in/referral?code=AAK787 Open ...
+
+📺 Nifty Technicals by AK
+
+👁️ 961 • 👍 331 • 1h ago
 
 ---
 
