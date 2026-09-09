@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-09T20:33:55.524208+00:00'
+updated: '2026-09-09T22:59:24.358178+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- videos
 - news
 - social
-- videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 09, 2026 at 20:33 UTC  
+**Last Updated:** September 09, 2026 at 22:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**['Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location](https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/)**
+
+A mother’s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children’s images online. Meta claims the issue is resolved.
+
+🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 7h ago
+
+---
+
 **[Maybe Socialism is the answer during the age of AI](https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/)**
 
 Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes. Amazon, Microsoft, Alphabet and Meta have guided somewhere between 720 and 745 billion dollars of capex for 2026. Nearly all of it AI infrastructure. The entire US federal R&D budget across every agency including defence was about 192 billion last year. NIH is 47 billion. So four companies are spending roughly 15x the world's biggest medical research funder on one technology in one year. AI companies took 61 percent of all global venture capital in 2025 per the OECD. In Q1 2026 it was around 80 percent per Crunchbase. Four rounds (OpenAI, Anthropic, xAI, Waymo) were 65 percent of every venture dollar on the planet that quarter. Now look at where that money does not go. The WHO's 2025 pipeline review found 90 antibacterial agents in clinical development, down from 97 in 2023. 15 are innovative. 5 work against a critical priority pathogen. This is the drug class where resistance is already killing people and the pipeline is shrinking. The thing i find interesting is that nobody is being greedy or stupid here. There is a 2015 paper in the American Economic Review (Budish, Roin and Williams) that looks at cancer clinical trials and shows private research systematically avoids projects with long commercialisation periods. Prevention and early stage trials take years longer to prove out than late stage trials so they get less money. Not a correlation, they identify it properly. The length of the feedback loop alone changes what gets funded. Same logic applies to AI. A writing assistant has a customer who pays next month and feedback in days. A diagnostic model for rural hospitals has a customer who cannot pay, a feedback loop in years and regulators on top. Capital is water, it runs downhill, and it will pick the writing assistant every time regardless of which one matters more. So here is where the socialists are right. Someone other than the market has to decide that certain problems get worked on. Every big example of this working was basically that. Apollo employed 400,000 people on a problem with no consumer market. The Human Genome Project cost 2.7 billion and dumped the data into the public domain and the sequencing cost curve fell off a cliff afterwards. There is a 2023 AER paper (Gross and Sampat) showing wartime R&D created tech clusters that were still producing companies in the 1970s. And here is where they are wrong. None of those needed the state to build the thing. It needed the state to be the customer. Pay for the outcome before it exists, let private teams compete, publish the result. The UK is already running this for antibiotics, an annual subscription for access to the drug instead of paying per dose, which is the exact fix for the antibiotic incentive problem. The five things that would actually move talent, in my view : guaranteed demand contracts, prizes paid on outcome, patient sovereign capital, public compute that university researchers can actually reserve, and for countries like India, stop building the fourth best chatbot and pick two problems where you have data nobody else has. Genuinely curious if people here think there is a version of this that does not end up as a prestige project or pork. The paper has a limitations section that i think is honest about that and everything but happy to be told i'm wrong. Disclosure : i wrote the paper this is based on. Not selling anything, it's free. Link in a comment so this post stands on its own.
 
-9h ago
+11h ago
 
 ---
 
@@ -51,11 +59,11 @@ Before anyone gets annoyed by the title, this is not a post saying nationalise O
 
 ---
 
-**['Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location](https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/)**
+**[Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
 
-A mother’s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children’s images online. Meta claims the issue is resolved.
+Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 5h ago
+🔗 [Gadget Review](https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch) • 5h ago
 
 ---
 
@@ -63,7 +71,21 @@ A mother’s viral video reveals how Meta AI surfaced deleted photos and persona
 
 “The people building AI earnestly believe that it could kill us all by the end of the decade.”
 
-🔗 [CNN](https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+🔗 [CNN](https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 7h ago
+
+---
+
+**[AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity](https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/)**
+
+Canada's artificial intelligence minister says Ottawa is monitoring the risks posed by AI as researchers at tech giant Anthropic warn that the increasingly powerful technology could potentially eradicate all human
+
+🔗 [Toronto Star](http://thestar.com/politics/federal/ai-minister-says-warnings-are-not-new-as-experts-predict-the-technology-could-wipe-out-humanity/article_41ea49e9-c9f7-4f6e-80af-7d77341b016c.html) • 21m ago
+
+---
+
+**[Anthropic researcher quits over AI fears](https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/)**
+
+🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 22h ago
 
 ---
 
@@ -71,13 +93,7 @@ A mother’s viral video reveals how Meta AI surfaced deleted photos and persona
 
 I’ve been building something called rolefate.com in my spare time. I want it to be more of a documentation and reference resource for understanding how AI is affecting different occupations and tasks. I kept seeing all these “this job will disappear” or “AI will replace this in 3 years” type of claims, but most of them felt pretty vague. So mostly out of curiosity, I wanted to put together something a bit more structured and based on actual data. On the site you can search for an occupation and see how much it might be affected by AI, which tasks look easier to automate, and things like that. I also try to show the sources behind the data wherever possible. Later I added an AI Radar section too: https://rolefate.com/ai-radar That part is basically my attempt to track how much AI models are actually improving over time. It brings together data from different sources around things like coding, math, long-running tasks, etc. I didn’t want it to be one of those sites saying “this will definitely happen by 2029.” I’d rather have it show what the available data seems to be pointing toward and let people make their own conclusions. Still working on it, so if you notice anything that looks wrong, missing, or just doesn’t make sense, especially on the data side, I’d genuinely like to hear it.
 
-9h ago
-
----
-
-**[Anthropic researcher quits over AI fears](https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/)**
-
-🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 19h ago
+11h ago
 
 ---
 
@@ -89,27 +105,11 @@ I don't know much about math or CS - but this seems big.
 
 ---
 
-**[Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
-
-Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour.
-
-🔗 [Gadget Review](https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch) • 2h ago
-
----
-
 **[Another Microsoft team admits it’s struggling to handle flood of AI-generated code](https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/)**
 
 Increase in vibe-coded browser extensions sees Edge team automate quality assessments
 
-🔗 [theregister](https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185) • 44m ago
-
----
-
-**[Apple adds Audio Intelligence to Watch Series 12](https://www.reddit.com/r/artificial/comments/1wbw4do/apple_adds_audio_intelligence_to_watch_series_12/)**
-
-Apple is adding Audio Intelligence to Apple Watch Series 12 and Ultra 4. The features include Sound Recognition, Live Rewind for the previous 15 seconds as a text snippet, Siri Recap for high-level summaries, and Shazam. Apple says raw audio is processed in the S11 chip's Secure Exclave and immediately deleted. Live Rewind and Siri Recap are opt-in beta features arriving later this year, require an Apple Intelligence-enabled iPhone 16 or later, and will not initially be available in the EU. The useful part is the privacy boundary. Apple says the features do not store audio or identify speakers, while Live Rewind shows a full-screen indicator and plays a chime when active. The catch is that the headline features are still beta and some server-backed features have daily limits. For work conversations, clear consent and visible cues matter as much as the summary quality. Sources: Apple: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ 9to5Mac: https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/
-
-47m ago
+🔗 [theregister](https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185) • 3h ago
 
 ---
 
@@ -117,11 +117,11 @@ Apple is adding Audio Intelligence to Apple Watch Series 12 and Ultra 4. The fea
 
 ## Google News: "ai"
 
-**[Anthropic researcher says more than 10% chance AI "could kill all humans"](https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/)**
+**['Gambling with our lives': AI researcher quits Anthropic](https://www.yahoo.com/news/politics/articles/theyre-playing-lives-ai-researcher-093308501.html)**
 
-A top Anthropic researcher says there's more than a 10% chance AI "could kill all humans," after a colleague resigned over similar concerns.
+An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of "gambling with our lives" in the race to develop AI models capa...
 
-CBS News • 8h ago
+Yahoo • 6h ago
 
 ---
 
@@ -129,65 +129,65 @@ CBS News • 8h ago
 
 Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence
 
-The Guardian • 2h ago
+The Guardian • 5h ago
 
 ---
 
-**[AI is making it harder to trust your own eyes this election](https://www.axios.com/2026/09/09/ai-political-ads-deepfakes-2026-elections)**
+**[Apple has a new way to prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)**
 
-Axios • 20m ago
+Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.
 
----
-
-**[Sanders to host AI briefing for senators](https://www.politico.com/live-updates/2026/09/09/congress/sanders-to-host-ai-briefing-for-senators-01069212)**
-
-Politico • 45m ago
+TechCrunch • 4h ago
 
 ---
 
-**[Teachers union reaches AI privacy deal with Microsoft](https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544)**
+**[Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement)**
 
-Politico • 33m ago
+The Watch is listening.
 
----
-
-**[Microsoft’s move in the AI school debate: controls over how student data gets used](https://fortune.com/2026/09/09/microsoft-school-district-ai-standard-enforceable-safety/)**
-
-Microsoft will offer AI privacy standards to every school district as Randi Weingarten says OpenAI and Anthropic have "expressed willingness."
-
-Fortune • 52m ago
+The Verge • 5h ago
 
 ---
 
-**[AI privacy agreement reached between teachers union and Microsoft](https://katu.com/news/nation-world/ai-privacy-agreement-reached-between-teachers-union-and-microsoft-artificial-intelligence-randi-weingarten)**
+**[Apple Is Actually Talking About AI Now — a Lot](https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/)**
 
-Microsoft and the American Federation of Teachers have made a deal regarding safety and privacy when artificial intelligence is used in school.
+New CEO John Ternus says you already have your personal AI device. It’s called an iPhone.
 
-KATU • 14m ago
-
----
-
-**[The New Folding iPhone Duo’s Biggest AI Feature Is Its Price](https://www.cnet.com/tech/services-and-software/apple-iphone-18-foldable-duo-price-ai-commentary/)**
-
-Commentary: More than $2,000 for a folding iPhone? In this economy?
-
-CNET • 1h ago
+CNET • 28m ago
 
 ---
 
-**[The hinge for Apple’s new foldable phone was built with AI](https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/)**
+**[OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html)**
 
-Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.
-
-TechCrunch • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[Apple pitches its new phones, watches, and AirPods as vehicles for AI](https://www.fastcompany.com/91603657/apple-pitches-its-new-phones-watches-and-airpods-as-vehicles-for-ai)**
+**[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
 
-At its annual hardware event, the company announced three new iPhones (one of them a foldable device), a couple of new Watches, and some new AirPods.
+We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
 
-Fast Company • 38m ago
+OpenAI • 12h ago
+
+---
+
+**[The Fight Over OpenAI’s Math Breakthrough Is a New Kind of Scientific Arms Race](https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240)**
+
+Gizmodo • 2h ago
+
+---
+
+**[Treasury CIO pulled from AI work after upsetting West Wing](https://www.politico.com/news/2026/09/09/treasury-cio-pulled-from-ai-work-after-upsetting-west-wing-01069562)**
+
+Politico • 1h ago
+
+---
+
+**[James Talarico says Ken Paxton is "lying to the people of Texas" with AI ad that puts "words in my mouth"](https://www.cbsnews.com/news/james-talarico-interview-ken-paxton-texas-senate-2026/)**
+
+Democrat James Talarico told CBS News' Ed O'Keefe he won't use AI in political advertising in the race for the Texas U.S. Senate seat, adding, "every ad that we put out is made by human beings."
+
+CBS News • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fast Company • 38m ago
 
 LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…
 
-⬆️ 700 • 💬 234 • 1d ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+⬆️ 702 • 💬 234 • 1d ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
 
 ---
 
@@ -207,7 +207,7 @@ LibreOffice 26.8 became the app’s most popular update, with over 1 million dow
 
 Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.
 
-⬆️ 620 • 💬 678 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
+⬆️ 634 • 💬 691 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
 
 ---
 
@@ -217,7 +217,7 @@ I wrote recently about how the collection of good, fruitful open problems is now
 
 One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)
 
-⬆️ 463 • 💬 390 • 23h ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
+⬆️ 466 • 💬 397 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -225,7 +225,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
 “I didn’t think a full, six-day-per-week, fourteen-hour-per-day, in-office schedule was necessary to discharge my duties clicking the ‘generate’ button, foll...
 
-⬆️ 388 • 💬 67 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
+⬆️ 390 • 💬 68 • 1d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
 
 ---
 
@@ -233,13 +233,13 @@ One can easily generate any number of open problems in mathematics at will, such
 
 Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.
 
-⬆️ 218 • 💬 180 • 2h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+⬆️ 336 • 💬 267 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 ---
 
 **[How An AI math breakthrough ignited a controversy](https://news.ycombinator.com/item?id=49624163)**
 
-⬆️ 208 • 💬 218 • 10h ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+⬆️ 210 • 💬 222 • 12h ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
@@ -281,27 +281,65 @@ Former Anthropic researcher Jacob Coxon warns that AI could kill all of humanity
 
 📺 CNBC Television
 
-👁️ 6K • 👍 232 • 💬 143 • ⏱️ 3:46 • 4h ago
+👁️ 22K • 👍 327 • 💬 195 • ⏱️ 3:46 • 6h ago
 
 ---
 
-**[How AI Will Enslave Humans &amp; Destroy Civilization — 5CAST (#25) Ft. Greg Stoker](https://www.youtube.com/watch?v=ukdCJ5Nt0XM)**
+**[Anthropic researcher raises alarm after quitting job: AI &quot;could kill us all&quot;](https://www.youtube.com/watch?v=nNtAKglFxbk)**
 
-INTRO OFFER: Head to https://chime.yt.link/x5Pl0Si for up to $350 and 5% cash back with Chime® Thanks Chime for sponsoring ...
+Anthropic researcher Jacob Coxon quit his job, alleging that neither Anthropic nor OpenAI is acting ethically and that the two tech ...
 
-📺 Channel 5 with Andrew Callaghan
+📺 CBS News
 
-👁️ 870K • 👍 20K • 💬 3K • ⏱️ 41:49 • 1d ago
+👁️ 30K • 👍 388 • 💬 146 • ⏱️ 2:50 • 9h ago
 
 ---
 
-**[AI may have just solved a million-dollar math problem #maths  #breakingnews #OpenAI #AI](https://www.youtube.com/watch?v=_3FNNa4ZgQ4)**
+**[Anthropic insider warns AI could ‘kill all humans’. Should we be scared? | BBC News](https://www.youtube.com/watch?v=nstTCoxrtNU)**
 
-The field will never be the same. A mathematician compared the feat to the history-making chess competition in which IBM's Deep ...
+A top safety researcher at Anthropic has warned AI is advancing so quickly he believes there is a greater than 10% chance it ...
 
-📺 Scientific American
+📺 BBC News
 
-👁️ 2K • 👍 203 • 💬 19 • ⏱️ 2:05 • 3h ago
+👁️ 22K • 👍 707 • 💬 348 • ⏱️ 8:09 • 3h ago
+
+---
+
+**[Anthropic Team Lead: AI Could Kill All Humans](https://www.youtube.com/watch?v=ZGq9z6l3ZLE)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 178K • 👍 21K • 💬 2K • ⏱️ 1:43 • 6h ago
+
+---
+
+**[Humans ‘might not be alive in ten years’, AI researcher warns #AI #artificialintelligence #anthropic](https://www.youtube.com/watch?v=-VHCmFBLIGM)**
+
+Former governance team member at Open AI Daniel Kokotajlo says humans “might not be alive in ten years”, in a stark warning ...
+
+📺 Channel 4 News
+
+👁️ 7K • 👍 385 • 💬 155 • ⏱️ 1:08 • 5h ago
+
+---
+
+**[Trending 80s look photo editing prompt | Viral 80s Look Ai photo editing Chatgpt Prompt](https://www.youtube.com/watch?v=6dMFyaMjHDs)**
+
+Instagram Trending 80s Look Photo Editing Prompt | Viral 80s Look Ai Photo Editing Chatgpt Prompt YOUTUBE SEARCHES ...
+
+📺 Tarun XYZ
+
+👁️ 115K • 👍 254 • 💬 30 • ⏱️ 2:32 • 13h ago
+
+---
+
+**[AI is convinced I&#39;m from Mexico](https://www.youtube.com/watch?v=a0k8J0-KluY)**
+
+📺 Alberta Tech
+
+👁️ 888K • 👍 52K • 💬 2K • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -311,37 +349,17 @@ An AI-designed drug just produced a result nobody expected. Six independent agin
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 119 • ⏱️ 14:31 • 19h ago
+👁️ 61K • 👍 1K • 💬 126 • ⏱️ 14:31 • 22h ago
 
 ---
 
-**[Grave warning issued on &#39;uncontrollable&#39; AI: &#39;We HAVE to act&#39; #shorts #foxnews #ai](https://www.youtube.com/watch?v=T-odnIan_iI)**
+**[Anthropic researcher says AI ‘could kill all humans’ and other top stories | Global News Podcast](https://www.youtube.com/watch?v=jhNe96Hlnuw)**
 
-Tristan Harris, co-founder of Center for Humane Technology, joined 'Fox & Friends' to discuss his concerns with AI and what ...
+A top safety researcher at the AI giant Anthropic has warned that artificial intelligence is advancing so quickly, he believes there is ...
 
-📺 Fox News
+📺 BBC News
 
-👁️ 2K • 👍 91 • 💬 12 • ⏱️ 1:14 • 3h ago
-
----
-
-**[&#39;Out Of Control By Next Year&#39;: The Resignation Shaking The AI Industry | FP Explains](https://www.youtube.com/watch?v=EMmOSjW8BbE)**
-
-Jacob Coxon, a 27-year-old researcher who spent three years on pre-training at OpenAI and then Anthropic, resigned on Tuesday ...
-
-📺 Firstpost
-
-👁️ 30K • 👍 366 • 💬 64 • ⏱️ 8:13 • 9h ago
-
----
-
-**[Gal Gadot Shares her Thoughts on AI](https://www.youtube.com/watch?v=GD5tdxVhDtw)**
-
-Gal Gadot shares her thoughts on AI in the entertainment industry ahead of the release of "Bitcoin," a movie starring Gadot ...
-
-📺 TODAY
-
-👁️ 3K • 👍 98 • 💬 18 • ⏱️ 0:52 • 6h ago
+👁️ 54K • 👍 563 • 💬 277 • ⏱️ 17:40 • 6h ago
 
 ---
 
@@ -351,27 +369,7 @@ Mark Zuckerberg joins me to introduce Muse, Meta's new personal AI agent, and ex
 
 📺 Tiff In Tech
 
-👁️ 24K • 👍 286 • 💬 54 • ⏱️ 25:23 • 1d ago
-
----
-
-**[CHILLING warning issued on &#39;uncontrollable&#39; AI: This is the RED LINE](https://www.youtube.com/watch?v=1ly_tEJu3z0)**
-
-Center for Humane Technology co-founder Tristan Harris joins 'Fox & Friends' to discuss artificial intelligence safety tests and ...
-
-📺 Fox News
-
-👁️ 88K • 👍 2K • 💬 1K • ⏱️ 5:24 • 6h ago
-
----
-
-**[‘They’re gambling with our lives’: AI engineer&#39;s resignation goes viral](https://www.youtube.com/watch?v=M8MN5Q2zf10)**
-
-Former Anthropic employee Jacob Coxon made a blunt admission: "The people building AI earnestly believe that it could kill us all ...
-
-📺 CNN
-
-👁️ 6K • 👍 315 • 💬 38 • ⏱️ 1:46 • 1h ago
+👁️ 25K • 👍 290 • 💬 54 • ⏱️ 25:23 • 1d ago
 
 ---
 
@@ -387,7 +385,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 10,661 • ❤️ 994 • 6d ago
+⬇️ 10,661 • ❤️ 999 • 6d ago
 
 ---
 
@@ -399,19 +397,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 2,879 • ❤️ 876 • 12h ago
-
----
-
-**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
-
-* IST Austria Distributed Algorithms and Systems Lab*
-
-This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 479,597 • ❤️ 727 • 7d ago
+⬇️ 2,879 • ❤️ 900 • 15h ago
 
 ---
 
@@ -423,19 +409,19 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,712,160 • ❤️ 14,507 • 26d ago
+⬇️ 6,712,160 • ❤️ 14,519 • 26d ago
 
 ---
 
-**[timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)**
+**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
 
-*Google*
+* IST Austria Distributed Algorithms and Systems Lab*
 
-TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-series forecasting, utilizing a Stacked Mixing Transformer architecture with Variate Attention and CPM Iterative RevIN. It excels at predicting future trends across diverse datasets, including web traffic, search queries, and synthetic data, with a context patch length of 32 and forecast horizon of 64.
+This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
 
-`time-series-forecasting` `330.7M`
+`image-text-to-text` `26.9B`
 
-⬇️ 444,052 • ❤️ 685 • 7d ago
+⬇️ 479,597 • ❤️ 731 • 7d ago
 
 ---
 
@@ -447,7 +433,19 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,644,796 • ❤️ 3,256 • 8d ago
+⬇️ 1,644,796 • ❤️ 3,266 • 8d ago
+
+---
+
+**[timesfm-3.0-pytorch](https://huggingface.co/google/timesfm-3.0-pytorch)**
+
+*Google*
+
+TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-series forecasting, utilizing a Stacked Mixing Transformer architecture with Variate Attention and CPM Iterative RevIN. It excels at predicting future trends across diverse datasets, including web traffic, search queries, and synthetic data, with a context patch length of 32 and forecast horizon of 64.
+
+`time-series-forecasting` `330.7M`
+
+⬇️ 444,052 • ❤️ 686 • 7d ago
 
 ---
 
@@ -459,7 +457,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 10,675,683 • ❤️ 3,770 • 20d ago
+⬇️ 10,675,683 • ❤️ 3,777 • 20d ago
 
 ---
 
@@ -471,7 +469,7 @@ all-MiniLM-L6-v2 is a sentence-transformers model that encodes sentences and par
 
 `sentence-similarity` `22.7M`
 
-⬇️ 253,331,994 • ❤️ 5,711 • 3mo ago
+⬇️ 253,331,994 • ❤️ 5,719 • 3mo ago
 
 ---
 
@@ -483,7 +481,7 @@ GPT-2 is a 124M parameter causal language model pretrained on English text, capa
 
 `text-generation` `137.0M`
 
-⬇️ 14,770,863 • ❤️ 3,844 • 31mo ago
+⬇️ 14,770,863 • ❤️ 3,852 • 31mo ago
 
 ---
 
@@ -503,20 +501,6 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[AutoResearch: Insight In, Hallucination Out](https://huggingface.co/papers/2608.17906)**
-
-*Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)*
-
-🏢 EvoMap
-
-AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
-
-▲ 19 • 💬 2 • ⭐ 2,470 • 18d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -529,6 +513,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[AutoResearch: Insight In, Hallucination Out](https://huggingface.co/papers/2608.17906)**
+
+*Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)*
+
+🏢 EvoMap
+
+AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
+
+▲ 19 • 💬 2 • ⭐ 2,405 • 18d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
+
+---
+
 **[AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936)**
 
 *Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)*
@@ -537,7 +535,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 163 • 💬 2 • ⭐ 152 • 2d ago
+▲ 175 • 💬 2 • ⭐ 152 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -551,7 +549,7 @@ AuK is an open-source foundational model that unifies speech generation and edit
 
 Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.
 
-▲ 107 • 💬 1 • ⭐ 137 • 2d ago
+▲ 111 • 💬 1 • ⭐ 137 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
 
@@ -603,7 +601,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 87,005 • 25mo ago
+▲ 86 • 💬 7 • ⭐ 87,082 • 25mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -647,7 +645,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 21.5k • 🔱 2.5k • 19h ago
+⭐ 21.5k • 🔱 2.5k • 21h ago
 
 ---
 
@@ -657,7 +655,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.6k • 🔱 559 • 3h ago
+⭐ 4.6k • 🔱 560 • 5h ago
 
 ---
 
@@ -667,7 +665,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 4.2k • 🔱 251 • 8h ago
+⭐ 4.2k • 🔱 251 • 10h ago
 
 ---
 
@@ -687,7 +685,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 452 • 46m ago
+⭐ 3.5k • 🔱 452 • 22m ago
 
 ---
 
@@ -717,7 +715,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 81 • 10h ago
+⭐ 2.2k • 🔱 81 • 13h ago
 
 ---
 
@@ -727,7 +725,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 1.9k • 🔱 193 • 6d ago
+⭐ 1.9k • 🔱 193 • 7d ago
 
 ---
 
