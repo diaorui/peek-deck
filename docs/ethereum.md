@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T20:33:55.533058+00:00'
+updated: '2026-09-09T22:59:24.367268+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 20:33 UTC  
+**Last Updated:** September 09, 2026 at 22:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** -1.5%  
-**30d:** +31.1%  
-**90d:** +48.1%  
-**1y:** -43.3%  
+**24h:** -1.2%  
+**7d:** -2.0%  
+**30d:** +30.4%  
+**90d:** +47.4%  
+**1y:** -43.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $300.75B
+**Market Cap:** $299.10B
 Rank #2
 
 **Circulating Supply:** 122,032,627 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.2%
+-50.4%
 
 **All-Time Low:** $0.43
-+569250.9%
++565932.1%
 
 ---
 
@@ -168,27 +168,25 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 ---
 
-**[Here's Why I'm Buying Ethereum Right Now](https://finance.yahoo.com/markets/crypto/articles/heres-why-im-buying-ethereum-182000309.html)**
+**[New Crypto Ethereum Based Pepeto Announces 43,000 Buyers While BNB Price Prediction Targets $1,500](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-announces-43-000-buyers-while-bnb-price-prediction-targets-1-500-1036534134)**
 
-At a price of just $2,500, Ethereum could be significantly undervalued.
+DUBAI, United Arab Emirates, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto announces a milestone: the new crypto now counts more than 43,000 presale...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-2026-bitcoin-ethereum-181003287.html)**
-
-<p>Just two years ago, owning cryptocurrency meant setting up a digital wallet, trusting an exchange, and safeguarding a private key. Today, you can own Bitcoin, Ethereum, and even Solana or XRP with a single click in your regular brokerage account through a crypto ETF. The category has exploded into hundreds of billions in assets, led by a single fund that has become one of the most successful ETF launches in history. Here's how crypto ETFs work, what's available in 2026, and what investors nee
-
-Yahoo Finance • 2h ago
+markets.businessinsider.com • 21m ago
 
 ---
 
-**[The SEC Cleared XRP, Bitcoin, Ethereum and Solana for Nasdaq Texas Commodity Trusts. What It Does and Does Not Do.](https://finance.yahoo.com/markets/crypto/articles/sec-cleared-xrp-bitcoin-ethereum-194817142.html)**
+**[Crypto News: Pepeto Announces Final Binance Listing Steps While the Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-binance-listing-steps-while-the-ethereum-price-prediction-targets-10-000-1036533745)**
 
-Social media erupted over an SEC order that appeared to declare XRP, Bitcoin, Ethereum and Solana official commodities under federal law. The reality is far more limited, and far more interesting, than the headlines suggest.
+Dubai, UAE, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto, the viral crypto running on Ethereum, announces its Binance debut is down to the last tas...
 
-Yahoo Finance • 45m ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+
+coindesk.com • 7h ago
 
 ---
 
@@ -196,13 +194,7 @@ Yahoo Finance • 45m ago
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 6h ago
-
----
-
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
-
-CoinDesk • 5h ago
+Fortune • 8h ago
 
 ---
 
@@ -210,7 +202,7 @@ CoinDesk • 5h ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -218,7 +210,7 @@ Yahoo Finance • 1d ago
 
 Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve’s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum‘s advance stalled at $2,500, while…
 
-TradingView • 18h ago
+TradingView • 20h ago
 
 ---
 
@@ -226,7 +218,15 @@ TradingView • 18h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-The Block • 1d ago
+theblock.co • 1d ago
+
+---
+
+**[Here's Why I'm Buying Ethereum Right Now](https://www.fool.com/investing/2026/09/09/heres-why-im-buying-crypto-right-now/)**
+
+At a price of just $2,500, Ethereum could be significantly undervalued.
+
+fool.com • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 883 • 💬 194 • ⏱️ 28:10 • 11h ago
+👁️ 13K • 👍 904 • 💬 200 • ⏱️ 28:10 • 13h ago
 
 ---
 
@@ -250,27 +250,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 24 • 💬 48 • ⏱️ 5:04 • 10h ago
-
----
-
-**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
-
-BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
-
-📺 The Bureau Podcast
-
-👁️ 2K • 👍 36 • 💬 2 • ⏱️ 0:56 • 1d ago
-
----
-
-**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 12K • 👍 239 • 💬 45 • ⏱️ 14:25 • 1d ago
+👁️ 2K • 👍 26 • 💬 95 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -280,7 +260,37 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 18K • 👍 540 • 💬 48 • ⏱️ 3:29 • 2d ago
+👁️ 18K • 👍 541 • 💬 49 • ⏱️ 3:29 • 2d ago
+
+---
+
+**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
+
+BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
+
+📺 The Bureau Podcast
+
+👁️ 2K • 👍 38 • 💬 2 • ⏱️ 0:56 • 1d ago
+
+---
+
+**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 12K • 👍 241 • 💬 45 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrHWO-L5Mww)**
+
+BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 156 • 💬 29 • ⏱️ 18:25 • 2h ago
 
 ---
 
@@ -290,35 +300,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 299 • 💬 22 • ⏱️ 12:04 • 1d ago
-
----
-
-**[ETH is coiling up for a big move](https://www.youtube.com/watch?v=j5urvydu73I)**
-
-📺 Tyler Hill Crypto
-
-👁️ 717 • 👍 32 • 💬 3 • ⏱️ 1:14 • 7h ago
-
----
-
-**[The Two Levels That Indicate Ethereum&#39;s Bull Run (Robinhood)](https://www.youtube.com/watch?v=jzy-l0Ohu-8)**
-
-Ethereum is one break away from confirming a brand-new bull run. Two major moving averages, the 50-week and the 200-week, ...
-
-📺 Crypto Archie
-
-👁️ 286 • 👍 14 • ⏱️ 0:32 • 6h ago
-
----
-
-**[BITCOIN LIQUIDATIONS PENDING (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=UMjmwRigPEk)**
-
-BITCOIN LIQUIDATIONS PENDING (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 296 • 💬 199 • ⏱️ 19:21 • 18h ago
+👁️ 14K • 👍 300 • 💬 23 • ⏱️ 12:04 • 1d ago
 
 ---
 
@@ -328,7 +310,25 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 60K • 👍 678 • 💬 47 • ⏱️ 18:40 • 2d ago
+👁️ 61K • 👍 679 • 💬 48 • ⏱️ 18:40 • 2d ago
+
+---
+
+**[ETH is coiling up for a big move](https://www.youtube.com/watch?v=j5urvydu73I)**
+
+📺 Tyler Hill Crypto
+
+👁️ 982 • 👍 35 • 💬 3 • ⏱️ 1:14 • 9h ago
+
+---
+
+**[BITCOIN, ETHEREUM, XRP &amp; CRYPTO CLARITY ACT BREAKING NEWS!🚨#BTC #ETH #XRP #Crypto #Cryptocurrency](https://www.youtube.com/watch?v=BCTvpcViVPY)**
+
+BITCOIN, ETHEREUM, XRP & CRYPTO CLARITY ACT BREAKING NEWS!  #BTC #ETH #XRP #Crypto #Cryptocurrency.
+
+📺 Crypto AiMan
+
+👁️ 18 • 👍 2 • ⏱️ 0:58 • 29m ago
 
 ---
 

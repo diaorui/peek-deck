@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-09T20:33:55.529419+00:00'
+updated: '2026-09-09T22:59:24.363581+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 20:33 UTC  
+**Last Updated:** September 09, 2026 at 22:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,851.81
+### $78,306.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.7%  
-**30d:** +23.0%  
-**90d:** +23.0%  
-**1y:** -31.4%  
+**24h:** -0.6%  
+**7d:** -4.1%  
+**30d:** +22.5%  
+**90d:** +22.6%  
+**1y:** -31.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1569.13B
+**Market Cap:** $1565.42B
 Rank #1
 
 **Circulating Supply:** 20,082,012 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.0%
+-38.2%
 
 **All-Time Low:** $67.81
-+115161.8%
++114855.0%
 
 ---
 
@@ -77,79 +77,75 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[I'm tired](https://www.reddit.com/r/Bitcoin/comments/1w9ovbz/im_tired/)**
+**[What are your thoughts on the actual inflation rate guys?](https://www.reddit.com/r/Bitcoin/comments/1wbhys5/what_are_your_thoughts_on_the_actual_inflation/)**
 
-I've been HODLing since 2013. I've sold probably two thirds of my original stack over time. I have been through multiple cycles and halvings and read more books on the subject that I care to remember. I have traded successfully only once and that was by accident. I have no idea where BTC is going and I am exhausted. I am close to cashing out. I'm close to retiring (pension age) and I don't need the volatility. What would you do? EDIT: specifically, the things that trouble me are: 1. The hassle of getting the cash from an exchange into a UK bank account without friction. 2. The CGT liability - last sale was ~0.33BTC in Dec 2024 and the tax liability was something like £10k. 3. The blind evangelical ramblings in Reddit from people that have been in the market for like 5 minutes. EDIT #2: Thank you to those that offered advice. It has given me food for thought. I think the answer is probably to log out of Reddit ;-)
+According to the table shared by River, some sectors have experienced inflation almost four times higher than official figures. Based on these figures, what should the interest rate have been?
 
-2d ago
-
----
-
-**[Bitcoin will overtake: The British pound at $214K. The Japanese yen at $499K. The Euro at $943K. The US dollar at $1.2M. Gold at $1.6M.](https://www.reddit.com/r/Bitcoin/comments/1w9upis/bitcoin_will_overtake_the_british_pound_at_214k/)**
-
-2d ago
+12h ago
 
 ---
 
-**[The current uncomfortable state of Bitcoin security](https://www.reddit.com/r/Bitcoin/comments/1w9skrp/the_current_uncomfortable_state_of_bitcoin/)**
+**[Inflation is theft](https://www.reddit.com/r/Bitcoin/comments/1wbzf83/inflation_is_theft/)**
 
-Bitcoin has spent 17 years surviving one of the most adversarial environments in software. But Bitcoin Core isn’t where most users interact with Bitcoin. They interact through wallets, hardware devices, Lightning implementations, libraries, exchanges, signing infrastructure and other software built around it. Over the past few months, I’ve been researching the security of projects across this ecosystem, and the uncomfortable part isn’t that vulnerabilities exist. It’s how little continuous adversarial security research some important projects actually receive. An audit is a snapshot. Open source doesn’t mean someone capable has actually reviewed the code. A large number of users doesn’t mean the project has been continuously attacked by security researchers. And then there’s the incentive problem. If reporting a vulnerability responsibly means hunting down a contact, waiting weeks for a response, receiving no bounty or recognition, and sometimes being treated as an inconvenience, eventually good researchers spend their time somewhere else. Blackhats don’t need a disclosure policy. That leaves us with a strange situation: Bitcoin teaches us “don’t trust, verify,” while much of the software surrounding Bitcoin is trusted far more than it is independently verified. I ended up writing a fairly detailed piece about what I’ve seen and why I think this is becoming a real problem. I’m not linking it here because I’d rather this not turn into self-promotion. But I’d genuinely like to know whether people working deeper in Bitcoin have noticed the same thing.
-
-2d ago
+1h ago
 
 ---
 
-**[Liquid Network appears to have been stalled for 5 hours and had 4,000 BTC moved without authorization.](https://www.reddit.com/r/Bitcoin/comments/1w95fvr/liquid_network_appears_to_have_been_stalled_for_5/)**
+**[The inflation the government won't tell you about...](https://www.reddit.com/r/Bitcoin/comments/1wbq6bs/the_inflation_the_government_wont_tell_you_about/)**
 
-Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
-
-🔗 [liquid.network](https://liquid.network/) • 3d ago
+6h ago
 
 ---
 
-**["There is a massive restructuring of commerce that has to happen, and Bitcoin will be at the center of that."](https://www.reddit.com/r/Bitcoin/comments/1w9noi6/there_is_a_massive_restructuring_of_commerce_that/)**
+**[JUST IN: Bitcoin featured in WSJ - "When dollar users dismiss bitcoin, they aren’t simply ignoring its origin story as a protest against a corrupt system—they are blinded by their financial privilege." - Alex Gladstein](https://www.reddit.com/r/Bitcoin/comments/1wbq5ri/just_in_bitcoin_featured_in_wsj_when_dollar_users/)**
 
-2d ago
+Bitcoin can protect savings and commerce beyond traditional financial systems.
 
----
-
-**[10 Years Ago Bitcoin Was $610. Where Will It Be in 2036?](https://www.reddit.com/r/Bitcoin/comments/1w90yqo/10_years_ago_bitcoin_was_610_where_will_it_be_in/)**
-
-10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it’s ~$80,000. Now imagine someone posting this on September 6, 2036: “Bitcoin was only $80K back in 2026.” What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. 👀
-
-3d ago
+🔗 [The Nakamoto Project](https://partners.wsj.com/the-nakamoto-project/bitcoin-reframed/bitcoins-overlooked-promise-freedom/) • 6h ago
 
 ---
 
-**[the Liquid "Whitehat"-Hacker keeps 600 bitcoin](https://www.reddit.com/r/Bitcoin/comments/1w9y9ac/the_liquid_whitehathacker_keeps_600_bitcoin/)**
+**[The iPhone got cheaper. If you disagree, you simply don’t see the vision!](https://www.reddit.com/r/Bitcoin/comments/1wc0ho4/the_iphone_got_cheaper_if_you_disagree_you_simply/)**
 
-https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea497bc49a46d 😂
-
-2d ago
+32m ago
 
 ---
 
-**[Expert Security Audit for three bitcoin based projects](https://www.reddit.com/r/Bitcoin/comments/1w9tzpw/expert_security_audit_for_three_bitcoin_based/)**
+**[MicroStrategy just launched $250 Bitcoin themed Jordans, but doesn't accept Bitcoin or any crypto as payment. Michael Saylor: ''If you wanna run like a bull then you need to also look like one''](https://www.reddit.com/r/Bitcoin/comments/1wbu9o2/microstrategy_just_launched_250_bitcoin_themed/)**
 
-Over the past few months, we’ve been putting our AI security audit agent against real Bitcoin code. It has already helped us uncover and responsibly report multiple security issues across projects in the Bitcoin ecosystem, including: Bark, Syscoin, RGB, Ledger, Bitcoin, Bitkey, BDK Wallet, Keystone, Lightning Labs, Lightning implementations, Krux, KTH, BitBox, BCHD, Mostro, ACINQ, LDK, Cake Wallet, BIP32/BIP39 implementations, tiny-secp256k1, Blockstream Jade, Elements and others. Now we want to go further. We’re giving 3 Bitcoin projects a security scan at zero cost. We’ll run our agent against the codebase, manually triage anything interesting, and responsibly disclose confirmed security issues to the maintainers. We’re particularly interested in serious open-source Bitcoin infrastructure protecting real users or funds. Maintaining something in the Bitcoin ecosystem? Drop your repo below.
-
-2d ago
+4h ago
 
 ---
 
-**[Bitcoin sentiment is exactly split 25/25 on FOMO vs FUD right now, and the tweets show traders just waiting for a signal near 65k-66k](https://www.reddit.com/r/Bitcoin/comments/1w9w7np/bitcoin_sentiment_is_exactly_split_2525_on_fomo/)**
+**[Iran Continues Using Bitcoin To Keep Economy Stable: Report](https://www.reddit.com/r/Bitcoin/comments/1wbumjq/iran_continues_using_bitcoin_to_keep_economy/)**
 
-Looked at Bitcoin-related tweets from the last six hours and the sentiment split is almost eerily balanced: 25% FOMO, 25% FUD. That's not a huge skew either way, which honestly tells its own story: nobody's convinced of direction right now. The bullish camp is leaning on ETF inflows and institutional adoption as reasons to expect a bottom is forming. The cautious camp keeps bringing up regulatory uncertainty and geopolitical risk as reasons this could still slide. What stands out is that both camps seem to agree on the technical picture even if they disagree on the outcome: resistance sitting around 65k-66k seems to be the level everyone's watching for a potential breakout, with a range-bound market in the meantime. A perfectly even FOMO/FUD split like this usually shows up during consolidation phases when the market hasn't picked a direction yet, rather than during a clear trend. It's less about a specific catalyst and more about traders waiting to see who blinks first. What do you think breaks this stalemate first, a macro/regulatory headline or a clean technical break of that 65k-66k zone?
+Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method.
 
-2d ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy) • 4h ago
 
 ---
 
-**[Bitcoin sentiment right now: FOMO barely edges out FUD (20% vs 15%) while everyone waits on ETF and macro news](https://www.reddit.com/r/Bitcoin/comments/1w9vlvl/bitcoin_sentiment_right_now_fomo_barely_edges_out/)**
+**[Bitbox & Trezor entropy vulnerability warning phishing scams - almost got me!](https://www.reddit.com/r/Bitcoin/comments/1wbxljq/bitbox_trezor_entropy_vulnerability_warning/)**
 
-Looked at the last six hours of Bitcoin-related tweets and the split is closer than I expected: 20% FOMO versus 15% FUD, with the rest sitting in a kind of wait-and-see zone. That's not a wild imbalance either way, which is honestly more interesting than a lopsided reading would be. What stands out is the reasoning behind both sides. The FOMO crowd is leaning on continued institutional and ETF interest as the bullish thread. The FUD side isn't panic-selling type fear, it's more about worry over a slowdown or a breakout getting delayed, tied to regulatory headlines and macro signals like rate expectations. So it reads less like fear of a crash and more like fear of stagnation. The fact that neither sentiment is dominating suggests the market is genuinely undecided rather than euphoric or panicked, which tends to happen when everyone's watching the same external catalysts (regulation, Fed commentary, ETF flows) without a clear resolution yet. What do you think is more likely to break this stalemate first, a regulatory headline or a macro data print?
+Man, these ones were pretty good -- compelling message, urgency, and checked all the typical boxes of authenticity... until they asked me to enter my seed AND passphrase into a form not hosted on these manufacturers' official domains. Absolutely lethal, if you're skittish about hardware wallet vulns (and who isn't rn?), and not paying close attention. Both cos have been notified, and have been super-responsive with follow up. Stay safe out there, folks <3
 
-2d ago
+2h ago
+
+---
+
+**[“All messages will be in plaintext.” The Liquid exploiter announced a switch away from encrypted on-chain messages](https://www.reddit.com/r/Bitcoin/comments/1wbotxw/all_messages_will_be_in_plaintext_the_liquid/)**
+
+The Liquid exploiter and Blockstream have been communicating through messages embedded in Bitcoin transactions, with parts of the exchange encrypted so outside observers couldn’t read them. On September 8, the exploiter announced a change in how they would communicate: All messages will be in plaintext. Transaction ID: 1d690f3b96b878067f3a445b74dfb8fab4201c0455d88ac98cc14a927e7858d7 On September 9, a subsequent plaintext message made the dispute public. Two excerpts: And later: Anyway we are going to publish the privatekey to decrypt our conversations afterwards. The message demanded payment from Blockstream’s own funds and warned that refusing would leave holders facing a 15% loss. That is the sender’s demand and warning—not evidence of an agreed bounty or an independently established outcome for holders. Transaction ID: f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588 What makes this interesting is the distinction between a public transaction and a readable conversation. The exchanges were already visible on Bitcoin, but the encrypted content wasn’t. Now the exploiter is making their demands readable to everyone and saying they will release the material needed to decrypt the earlier exchanges. Blockstream, meanwhile, reportedly continued replying with encrypted messages.
+
+7h ago
+
+---
+
+**[Who else doubles down during the bear market?](https://www.reddit.com/r/Bitcoin/comments/1wbksn0/who_else_doubles_down_during_the_bear_market/)**
+
+This is my first bear market so I apologize if I sound unsure or ill informed. I have been DCA bitcoin for the past three years now with full intentions on doubling down my DCA during the bear market bottom. For the people that DCA, do you ever change your DCA figure or do you truly purchase the same amount throughout the entire course of the cycle?
+
+10h ago
 
 ---
 
@@ -165,39 +161,29 @@ ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
-**[‘I Am The House Now’—Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
+**[California crypto ‘Godfather’ gets 15 years for Bitcoin kidnapping plot](https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/)**
 
-Forbes • 10h ago
-
----
-
-**[Strategy Put $176.3 Million Into Its Own Preferred Stock Instead of Bitcoin, With Its Last BTC Purchase Already Underwater](https://finance.yahoo.com/markets/stocks/articles/strategy-put-176-3-million-194340563.html)**
-
-Strategy skipped Bitcoin again and quietly funneled hundreds of millions into its own preferred stock instead, raising a question that should unsettle shareholders: is this still a Bitcoin company, or has something shifted in how management really thinks about capital?
-
-Yahoo Finance • 50m ago
+KTLA • 2h ago
 
 ---
 
-**[Canaan' revenue craters 68% as Bitcoin holdings hit record](https://finance.yahoo.com/markets/crypto/articles/canaan-revenue-craters-68-bitcoin-192825281.html)**
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-Crypto mining hardware manufacturer Canaan releases unaudited financial results for Q2 2026.
-
-Yahoo Finance • 1h ago
-
----
-
-**[If you invested $1,000 in gold & Bitcoin 10 years ago, here's how much money you'd have today](https://finance.yahoo.com/markets/commodities/articles/invested-1-000-gold-bitcoin-200203201.html)**
-
-A decade can transform an investment. On September 9, 2016, gold was grinding through a quiet recovery while Bitcoin was still a niche digital asset trading in the low hundreds of dollars.
-
-Yahoo Finance • 31m ago
+coindesk.com • 7h ago
 
 ---
 
 **[AI Boom Wrecks Trump’s Plan for ‘Made-in-America’ Bitcoin Mining](https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining)**
 
-Bloomberg.com • 8h ago
+Bloomberg • 10h ago
+
+---
+
+**[Strategy Launches $250 Bitcoin Air Jordans but Won’t Let You Pay in BTC](https://finance.yahoo.com/markets/crypto/articles/strategy-launches-250-bitcoin-air-094201291.html)**
+
+Strategy is to sell Bitcoin-themed Nike Air Jordans for $250 through its official merchandise store. Despite the Bitcoin branding, the store does not currently offer ...
+
+finance.yahoo.com • 13h ago
 
 ---
 
@@ -205,13 +191,15 @@ Bloomberg.com • 8h ago
 
 Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds
 
-ft.com • 16h ago
+Financial Times • 18h ago
 
 ---
 
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+**[AI May Eventually Render Gold Obsolete: The Case For A 5% Bitcoin Hedge Allocation](https://seekingalpha.com/article/4944382-ai-may-eventually-render-gold-obsolete-the-case-for-a-5-percent-bitcoin-hedge-allocation)**
 
-CoinDesk • 5h ago
+While gold remains a strong buy, investors should hedge against AI-driven scarcity disruption with a 5% Bitcoin allocation. Read what investors need to know.
+
+Seeking Alpha • 7h ago
 
 ---
 
@@ -219,13 +207,19 @@ CoinDesk • 5h ago
 
 Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
 
-Muddy River Sports • 23h ago
+Muddy River Sports • 1d ago
 
 ---
 
-**[CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch](https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault)**
+**[‘I Am The House Now’—Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
 
-British bitcoin exchange CoinCorner is debuting a multisig custody service.
+Forbes • 12h ago
+
+---
+
+**[Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption](https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew)**
+
+Burger franchise Steak 'n Shake started accepting bitcoin over Lightning last year and claims business is booming.
 
 Bitcoin Magazine • 1d ago
 
@@ -285,7 +279,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 5d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 6d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -293,7 +287,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 16h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 18h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -309,7 +303,7 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
 
-⬆️ 17 • 💬 2 • 4d ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
+⬆️ 17 • 💬 2 • 5d ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
 
 ---
 
@@ -317,13 +311,23 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: Bull Case Vs. Bear Case](https://www.youtube.com/watch?v=v-36sjL7KSs)**
+
+Let's talk about the Bitcoin bull case vs. the bear case! 0:00 - INTRO bull case vs bear case 2:52 Setting up the indicator tally 3:29 ...
+
+📺 Benjamin Cowen
+
+👁️ 10K • 👍 2K • 💬 197 • ⏱️ 1:18:30 • 3h ago
+
+---
+
 **[Bitcoin Holders: The Golden Cross Is Here (What Happens Next)](https://www.youtube.com/watch?v=dKqnAIZFoIA)**
 
 Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 418 • 💬 51 • ⏱️ 10:08 • 13h ago
+👁️ 14K • 👍 429 • 💬 57 • ⏱️ 10:08 • 15h ago
 
 ---
 
@@ -333,7 +337,27 @@ Japan dumped $90 billion in US Treasuries as the global financial system faces g
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 1K • 💬 73 • ⏱️ 14:32 • 22h ago
+👁️ 34K • 👍 1K • 💬 74 • ⏱️ 14:32 • 1d ago
+
+---
+
+**[🚨 BITCOIN TRAP IS SET… THE NEXT MOVE COULD BE MASSIVE (LIVE TRADING)](https://www.youtube.com/watch?v=auLfZIxFqdI)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 5K • 👍 283 • 💬 44 • ⏱️ 1:16:32 • 3h ago
+
+---
+
+**[Four Reasons ARK&#39;s Still Bullish On Bitcoin](https://www.youtube.com/watch?v=DMjBsmajUPA)**
+
+Is Bitcoin broken, or is it just changing hands? David Puell explains why ARK believes a ~38% drawdown says more about who ...
+
+📺 ARK Invest
+
+👁️ 570 • 👍 38 • 💬 3 • ⏱️ 3:30 • 2h ago
 
 ---
 
@@ -343,27 +367,17 @@ Join - https://www.skool.com/discovercrypto/about ​​If you have ever made mo
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 159 • 💬 75 • ⏱️ 8:32 • 19h ago
+👁️ 6K • 👍 160 • 💬 75 • ⏱️ 8:32 • 22h ago
 
 ---
 
-**[Miami man, 22, pleads guilty to ringleading $245M international crypto scheme](https://www.youtube.com/watch?v=8hkfcgupyhs)**
+**[Bitcoin &amp; Altcoins Are WAKING UP (Almost Time)](https://www.youtube.com/watch?v=Yxt_xPcXIz8)**
 
-A 22-year-old man who lived in Miami pleaded guilty Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 NBC 6 South Florida
+📺 Discover Crypto
 
-👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:32 • 42m ago
-
----
-
-**[$1 Million Bitcoin Use Case - Iran Just Turned To Bitcoin During War](https://www.youtube.com/watch?v=jkmuqF9H-Cw)**
-
-Bitcoin is being used where the stakes couldn't be higher. Financial Times reports Iran is increasingly using Bitcoin and Tether to ...
-
-📺 Bitcoin News Alerts
-
-👁️ 579 • 👍 87 • 💬 222 • ⏱️ 16:10 • 1h ago
+👁️ 7K • 👍 258 • 💬 52 • ⏱️ 1:00:14 • 6h ago
 
 ---
 
@@ -373,27 +387,17 @@ Bitcoin just had a golden cross. Normally we get dumps after golden crosses. Wha
 
 📺 Benjamin Cowen
 
-👁️ 199K • 👍 7K • 💬 246 • ⏱️ 9:37 • 1d ago
+👁️ 204K • 👍 7K • 💬 246 • ⏱️ 9:37 • 1d ago
 
 ---
 
-**[Could Trump Trigger a Global Reset? Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=9CWy796Zpds)**
+**[$1 Million Bitcoin Use Case - Iran Just Turned To Bitcoin During War](https://www.youtube.com/watch?v=jkmuqF9H-Cw)**
 
-The Iran war was never really about Iran. Bessent has all but said the plan is to strangle China's oil supply, and if China gets ...
+Bitcoin is being used where the stakes couldn't be higher. Financial Times reports Iran is increasingly using Bitcoin and Tether to ...
 
-📺 Simply Bitcoin
+📺 Bitcoin News Alerts
 
-👁️ 44K • 👍 2K • 💬 150 • ⏱️ 20:03 • 2d ago
-
----
-
-**[🚨 XRP CRASH ALERT! Brad Garlinghouse&#39;s Latest Message | XRP Price Prediction](https://www.youtube.com/watch?v=-fMnxni12sc)**
-
-XRP CRASH ALERT! Brad Garlinghouse's Latest Message | XRP Price Prediction Welcome to our LIVE XRP broadcast! Join us ...
-
-📺 My Bizzy Kitchen
-
-👁️ 5K • 👍 5K • 2h ago
+👁️ 1K • 👍 143 • 💬 235 • ⏱️ 16:10 • 4h ago
 
 ---
 
@@ -403,17 +407,7 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 72K • 👍 2K • 💬 180 • ⏱️ 17:14 • 1d ago
-
----
-
-**[The One Breakout Candle Pro Traders Never Ignore 📈🔥 #shorts](https://www.youtube.com/watch?v=tCwlFix0ilI)**
-
-To celebrate my birthday and thank you guys for 10+ years of support, we are doing a buy 3 years get 1 year free for the FFA Go to ...
-
-📺 Crypto Crew University
-
-👁️ 558 • 👍 62 • 💬 3 • ⏱️ 1:33 • 33m ago
+👁️ 73K • 👍 2K • 💬 180 • ⏱️ 17:14 • 2d ago
 
 ---
 

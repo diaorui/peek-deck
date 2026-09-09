@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T20:33:55.534901+00:00'
+updated: '2026-09-09T22:59:24.369178+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 20:33 UTC  
+**Last Updated:** September 09, 2026 at 22:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-WSJ • 10h ago
+WSJ • 12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 2d ago
 
 Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
 
-Automotive News • 8h ago
+Automotive News • 10h ago
 
 ---
 
@@ -134,7 +134,31 @@ Automotive News • 8h ago
 
 French AI scaleup Mistral launched its own robotics business unit last year.
 
-Sifted • 16h ago
+Sifted • 18h ago
+
+---
+
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+
+For most of its short history, AI lived behind a screen.
+
+SemiAnalysis • 2h ago
+
+---
+
+**[Industry Insights: Andreessen Horowitz is Better $1.1B on Robotics](https://www.automate.org/robotics/industry-insights/what-happens-when-a16z-starts-investing-in-robotics)**
+
+Andreessen Horowitz's $1.1 billion Machine Age Fund will back hardware startups that contribute to physical AI.
+
+A3 Association for Advancing Automation • 2h ago
+
+---
+
+**[What bricklaying has taught Monumental about robots in construction](https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/)**
+
+The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet.
+
+The Robot Report • 1h ago
 
 ---
 
@@ -142,37 +166,7 @@ Sifted • 16h ago
 
 Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
-Futurism • 20h ago
-
----
-
-**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
-
-Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
-
-Boston.com • 3h ago
-
----
-
-**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
-
-The Information • 1d ago
-
----
-
-**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
-
-Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
-
-New Atlas • 1d ago
-
----
-
-**[Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays](https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/)**
-
-Druckenmiller is considered one of the best investors of all time.
-
-fool.com • 8h ago
+Futurism • 23h ago
 
 ---
 
@@ -181,6 +175,14 @@ fool.com • 8h ago
 Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
 
 Arm Newsroom • 1d ago
+
+---
+
+**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
+
+Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
+
+New Atlas • 1d ago
 
 ---
 
@@ -194,7 +196,17 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 168K • 👍 3K • 💬 503 • ⏱️ 5:02 • 18h ago
+👁️ 188K • 👍 3K • 💬 521 • ⏱️ 5:02 • 20h ago
+
+---
+
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 6K • 👍 51 • 💬 5 • ⏱️ 3:39 • 8h ago
 
 ---
 
@@ -208,23 +220,13 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 ---
 
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
-
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
-
-📺 bycloud
-
-👁️ 560K • 👍 10K • 💬 757 • ⏱️ 15:41 • 6d ago
-
----
-
 **[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
 Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
 📺 XPENG
 
-👁️ 62K • 👍 1K • 💬 122 • ⏱️ 5:52 • 16h ago
+👁️ 67K • 👍 1K • 💬 140 • ⏱️ 5:52 • 18h ago
 
 ---
 
@@ -234,47 +236,35 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 298K • 👍 2K • 💬 643 • ⏱️ 1:44 • 5d ago
+👁️ 298K • 👍 2K • 💬 645 • ⏱️ 1:44 • 6d ago
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+📺 Opac24MLB
 
-📺 ejunky66
-
-👁️ 9K • 👍 141 • 💬 16 • ⏱️ 0:59 • 5d ago
+👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:16 • 6h ago
 
 ---
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[These tiny robots can remove microplastics from soil🔬 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=J1tXex4thQI)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+Researchers in the Czech Republic have built microscopic robots that pull microplastics out of contaminated soil and water.
 
-📺 Julia McCoy
+📺 The Rundown AI
 
-👁️ 75K • 👍 621 • 💬 129 • ⏱️ 9:07 • 6d ago
-
----
-
-**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
-
-A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
-
-📺 New York Post
-
-👁️ 59K • 👍 808 • 💬 275 • ⏱️ 1:16 • 6d ago
+👁️ 15K • 👍 1K • 💬 33 • ⏱️ 1:00 • 2d ago
 
 ---
 
-**[The Biggest Robot Vacuum Launches at IFA 2026 | Roborock, Dreame, DJI ROMO, iRobot &amp; Others](https://www.youtube.com/watch?v=zCXcXRmjMhc)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-A hands-on look at the most interesting robot vacuums and cleaning concepts from IFA 2026—including the Roborock Saros 20 ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-📺 Rawan's Reviews
+📺 South China Morning Post
 
-👁️ 38K • 👍 189 • 💬 16 • ⏱️ 9:44 • 4d ago
+👁️ 197K • 👍 2K • 💬 467 • ⏱️ 3:47 • 6d ago
 
 ---
 
@@ -284,7 +274,17 @@ Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots
 
 📺 Joe Lonsdale
 
-👁️ 56K • 👍 420 • 💬 39 • ⏱️ 8:34 • 6d ago
+👁️ 56K • 👍 422 • 💬 41 • ⏱️ 8:34 • 6d ago
+
+---
+
+**[This Robot uses artificial muscles instead of motors!](https://www.youtube.com/watch?v=1rBjJ10VH2M)**
+
+Most robots look human from the outside. Clone Alpha was built human from the inside. The engineering decisions behind this ...
+
+📺 Mangesh Shinde Shorts
+
+👁️ 30K • 👍 2K • 💬 33 • ⏱️ 0:59 • 10h ago
 
 ---
 
