@@ -5,42 +5,62 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic researcher quits, calls AI an existential threat to humanity",
-      "source": "mashable.com",
-      "source_url": "https://mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-      "pub_date": 1788940510.0,
-      "article_url": "https://mashable.com/tech/anthropic-ai-researcher-quit-ethics-safety",
-      "image": "https://helios-i.mashable.com/imagery/articles/00uHYXuSgiouabJXnKqsldc/hero-image.fill.size_1200x675.v1788937396.png",
-      "description": "An Anthropic spokesperson confirmed it believes AI could kill all humans."
+      "headline": "'Gambling with our lives': AI researcher quits Anthropic",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
+      "pub_date": 1788971593.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/theyre-playing-lives-ai-researcher-093308501.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b49240b856060b791de49cdc329b72d9ae4e3498f5f3a2dec29a8e7180d49967/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fab866d5b9d1eaadf2de7a0f1f0af18f3.jpg",
+      "description": "An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of \"gambling with our lives\" in the race to develop AI models capa..."
     },
     {
-      "headline": "Is AI Music Going Legit? Suno Launches New Models Built on a Major Label Catalog",
-      "source": "Rolling Stone",
-      "source_url": "https://www.rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTN0aHNxeHdjTkxmVF9mb041cl90TVpKTmNoOEZKQjRmbE5haGpfZ3NSVDVfcGFyWldYYU9DYXp2aHRFTFpIaFVrRld6RGI1eHh1bm92cHp5QlU1Q0xLcDM4Wk5qSHRwdl85a2xURGw2NXRraURWRWEtQnhJb3NZTEQyWGNGbGJrb2xnazZLaG5LNnZYZ01UYk5n?oc=5",
-      "pub_date": 1788961480.0,
-      "article_url": "https://www.rollingstone.com/music/music-news/suno-new-model-v6-warner-music-group-1235623431/",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/suno-new-model.jpg?w=1600&h=900&crop=1",
-      "description": "Suno's v6 models were trained on Warner Music Group's songs -- WMG isn't saying whether artists had the ability to opt out"
+      "headline": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
+      "pub_date": 1788967500.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+      "image": "https://i.guim.co.uk/img/media/0e97a66ff2c2cfb9e057c48c443c5c93190ee9e8/0_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64b7ebdd811e9032f4c64b996b2005f7",
+      "description": "Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence"
     },
     {
-      "headline": "AI data centers could leave Earth as SpaceX eyes orbital infrastructure",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51U3RlX3FWUkFVTjIwcXk2elFSa2hJWkF1X3p3U2FpTFJ1bGY1ZzlRQ1ZPVUtiVXh1SkZzQzNVa1I0aGJONjRGZml1S1RXM2JHQ1dnbHlZTi12d3M?oc=5",
-      "pub_date": 1788962162.0,
-      "article_url": "https://www.foxbusiness.com/video/6404820695112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/68a16845-b037-4306-a025-4bb1c60c87f0/98626495-35b4-4876-8fd5-6a3924d1fafd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "NASA administrator Jared Isaacman joins 'Mornings with FOX Business' to discuss data centers in space and the thoughts surrounding NASA's permanence on the moon."
+      "headline": "Tackle your to-do list with new features in our Google AI plans.",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM3FoYV9rTnlleVNaMVFXd2tacXNIdzc0MUthMFhpX2F3WXlLd2FHVFlzbjlQZ2VkTllRcFBkOU9ZUk9UaXhSeTBuQUh5ZnE3Ty1HNU1uMEVCT04xYjZJSVRZQ2J2MC1DMU50aVhYYWZVb1Uwc2l0eW5VX1NWSUttN0k1UW94bVhITmFNOFF6NUM3V1E?oc=5",
+      "pub_date": 1788975281.0,
+      "article_url": "https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-1440x810.jpg",
+      "description": "Subscribers can try Google Pics and Sheets canvas \u2014 plus, new voice features in Gmail, Docs, and Keep."
     },
     {
-      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "pub_date": 1788886813.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+      "headline": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFB2enJMVnNybTBKa1lhWTV5M2xpWXVnSjJLdFY1MHpOSEdBV3k5d3YzMS1kanZ6cWo1RFAzYnhHXzhyQWhUU1BxMkM0NUIzc3EzbmlPUzFvc3VzV19mWV9kYmdfa0Izb2ZWQkIzckhXOUFnZkMzUzFqX3NtX1RTNXJKNE0wUjAzRWxzSGZlZ295VWY3VWM0OGVxcnVBQVA4Y1E?oc=5",
+      "pub_date": 1788975365.0,
+      "article_url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
+      "description": "The company also argued that its on-device models offer consumers more privacy."
+    },
+    {
+      "headline": "Mathematical framework could improve transparency of AI in clinical settings",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnVPeE52NnE5UW8xUVhFRndhUXhqZWNTc3MwU29JQ2tDX0lpbTBtS3dPbmR1c1FsT0pGalpUeHVSaGJHRHVPZHE4ZGNWSldtM2hKdHVCVTdHNHNNaGtaalpUZm9JS3FfbXRMVzhBVnhQQ0ozSmN6NnlRS2NPVExLYVBGZTFVZjY2X1M1NE1Tb0I1Zw?oc=5",
+      "pub_date": 1788974401.0,
+      "article_url": "https://techxplore.com/news/2026-09-mathematical-framework-transparency-ai-clinical.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI adds AI safety official to its board",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3RwcW1oYVI3eDFkejg4QW1aUGZhVDhCY3VTM21CM0tkS0FmVFY5ckRQZGxkcTQzbUdBTXpUY0c0ZDl2cVp0ZjJ4TGpXNURJdGhWX1U4VTl1bXpGaUZRbDBjVC1PdXJSNkJYeERqNjhGVEV1RFdTQlhrNWZ2cWhoUTBB?oc=5",
+      "pub_date": 1788973227.0,
+      "article_url": "https://www.axios.com/2026/09/09/openai-adds-ai-safety-official-to-its-board",
       "image": null,
       "description": null
     },
@@ -55,56 +75,36 @@
       "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
-      "headline": "AI Has Solved One of Math\u2019s $1 Million Millennium Prize Problems",
-      "source": "Quanta Magazine",
-      "source_url": "https://www.quantamagazine.org",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpkWlNudjRIdVZPQTAxOVBpSnZreW5ETHJXSlRHV2VzbFd3bkRoaWVUWXhkZGx4M2Y5Wmd1RWxvWkVOZ08tOWdjQ0t6LTZORTRFUzhYc09PdVFsWEFxcVBaMTdNMzl2Ty1zU2stZ2hILUxYMDR1VjVjMEdQU2NTTlNJenBKZlJnWUMzalZkb0gzRjNfVXpfWWtEUnQ0REp5VDQ2VWRn?oc=5",
-      "pub_date": 1788900327.0,
-      "article_url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
-      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg",
-      "description": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes \u201cblow up.\u201d But the massive result is not without controversy."
-    },
-    {
-      "headline": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
-      "pub_date": 1788938696.0,
-      "article_url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
-      "description": "Google on Wednesday said it would invest $15.1 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe."
-    },
-    {
-      "headline": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "pub_date": 1788952417.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google to Invest $15 Billion in AI Infrastructure in Finland",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5",
-      "pub_date": 1788948360.0,
-      "article_url": "https://www.wsj.com/business/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-      "source": "The New York Times",
+      "headline": "Film and TV Portrayals of A.I. Go Beyond Science Fiction",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVhZcEJvZ3BfMlcxazNWZFlTdUdaN0RZUk16aGh4TndmTTRFMnVrejJnbHA3eTRONzRrOXNlZ2ZrRG1sQlB0dFJqMlVPNzRNVG1PT0RvaDF4bGM0WFhrR2U5dS16VWlnNlUtb2tpWXhHdGVmTW1VdGJWR3dGVFlja0ln?oc=5",
-      "pub_date": 1788858254.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXZ2RmlSMlBqT3RiZEpnTXpGVDR3OVp2U3pBTUtvNWdsbmFsMDZJTUh1LWdFVkw2QXRON2VGVnRvVGRVSFZWNTJyN3VqaEljUUhBcWdCZkVhc3A2U1V4aDc5S09QSUVnNWdPUE1UUFdGTkdDUGhJZS1uMlJzYlh2azliYmRvbUYzMUE?oc=5",
+      "pub_date": 1788952553.0,
+      "article_url": "https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Introducing Muse: The World\u2019s First Personal AI Agent Built for Everyone",
+      "source": "meta.com",
+      "source_url": "https://about.fb.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5",
+      "pub_date": 1788894051.0,
+      "article_url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "image": "https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare.jpg?w=1200",
+      "description": "Muse is a secure, private personal AI agent that proactively helps people meet their goals and suggests ideas."
+    },
+    {
+      "headline": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2%",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSV9VZ0sxb2IzTktBTVpja0Zpd01uLU1EZG5lNXJYMEUxVUtOU0pSTXBjWFQ0UTF4eUs5SS1KSjdLVG5FbVZ6ZUxOSUpYZVk5RkQ0d2o5djFzMmpkNWdBeFFBbDlBbW9jOU5QTmd4ZEk1V0pkbWFnUGlYMHFqZ0NiZ3lVRVpvcXN5UzBsa1h3?oc=5",
+      "pub_date": 1788959967.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-6-muse-ai-131927092.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f6abcaa9069214ef4e19d4626adb6cbec9b20c219770972eabd0acec852803b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F11f5ecb62c111f74c34a283112ed0491.jpg",
+      "description": "Meta just attached a price tag to its AI ambitions, and traders are now asking whether a consumer subscription can justify one of the biggest capital budgets in tech history while a key rival takes an immediate hit."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T14:12:47.837891+00:00"
+  "fetched_at": "2026-09-09T17:55:45.859261+00:00"
 }
