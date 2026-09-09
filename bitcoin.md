@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-09T14:12:50.182286+00:00'
+updated: '2026-09-09T17:55:47.505788+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 14:12 UTC  
+**Last Updated:** September 09, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $79,606.98
+### $78,851.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -2.9%  
-**30d:** +24.1%  
-**90d:** +24.1%  
-**1y:** -30.8%  
+**24h:** +0.4%  
+**7d:** -3.1%  
+**30d:** +23.8%  
+**90d:** +23.8%  
+**1y:** -30.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1586.53B
+**Market Cap:** $1580.59B
 Rank #1
 
-**Circulating Supply:** 20,081,850 BTC
+**Circulating Supply:** 20,081,962 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.3%
+-37.6%
 
 **All-Time Low:** $67.81
-+116409.4%
++115984.6%
 
 ---
 
@@ -87,7 +87,7 @@ I've been HODLing since 2013. I've sold probably two thirds of my original stack
 
 **[Bitcoin will overtake: The British pound at $214K. The Japanese yen at $499K. The Euro at $943K. The US dollar at $1.2M. Gold at $1.6M.](https://www.reddit.com/r/Bitcoin/comments/1w9upis/bitcoin_will_overtake_the_british_pound_at_214k/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -117,7 +117,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 10 years ago today, Bitcoin was ~$610. Nobody knew if it would survive. Today, it’s ~$80,000. Now imagine someone posting this on September 6, 2036: “Bitcoin was only $80K back in 2026.” What do you think the number will be? $100K? $500K? $1M? $5M? RemindMe! 10 years. 👀
 
-2d ago
+3d ago
 
 ---
 
@@ -125,7 +125,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea497bc49a46d 😂
 
-1d ago
+2d ago
 
 ---
 
@@ -133,7 +133,7 @@ https://mempool.space/tx/a6d697a25266ce3c78774fd1d75f896b7af522ada209b0f6228ea49
 
 Over the past few months, we’ve been putting our AI security audit agent against real Bitcoin code. It has already helped us uncover and responsibly report multiple security issues across projects in the Bitcoin ecosystem, including: Bark, Syscoin, RGB, Ledger, Bitcoin, Bitkey, BDK Wallet, Keystone, Lightning Labs, Lightning implementations, Krux, KTH, BitBox, BCHD, Mostro, ACINQ, LDK, Cake Wallet, BIP32/BIP39 implementations, tiny-secp256k1, Blockstream Jade, Elements and others. Now we want to go further. We’re giving 3 Bitcoin projects a security scan at zero cost. We’ll run our agent against the codebase, manually triage anything interesting, and responsibly disclose confirmed security issues to the maintainers. We’re particularly interested in serious open-source Bitcoin infrastructure protecting real users or funds. Maintaining something in the Bitcoin ecosystem? Drop your repo below.
 
-1d ago
+2d ago
 
 ---
 
@@ -141,7 +141,7 @@ Over the past few months, we’ve been putting our AI security audit agent again
 
 Looked at Bitcoin-related tweets from the last six hours and the sentiment split is almost eerily balanced: 25% FOMO, 25% FUD. That's not a huge skew either way, which honestly tells its own story: nobody's convinced of direction right now. The bullish camp is leaning on ETF inflows and institutional adoption as reasons to expect a bottom is forming. The cautious camp keeps bringing up regulatory uncertainty and geopolitical risk as reasons this could still slide. What stands out is that both camps seem to agree on the technical picture even if they disagree on the outcome: resistance sitting around 65k-66k seems to be the level everyone's watching for a potential breakout, with a range-bound market in the meantime. A perfectly even FOMO/FUD split like this usually shows up during consolidation phases when the market hasn't picked a direction yet, rather than during a clear trend. It's less about a specific catalyst and more about traders waiting to see who blinks first. What do you think breaks this stalemate first, a macro/regulatory headline or a clean technical break of that 65k-66k zone?
 
-1d ago
+2d ago
 
 ---
 
@@ -149,7 +149,7 @@ Looked at Bitcoin-related tweets from the last six hours and the sentiment split
 
 Looked at the last six hours of Bitcoin-related tweets and the split is closer than I expected: 20% FOMO versus 15% FUD, with the rest sitting in a kind of wait-and-see zone. That's not a wild imbalance either way, which is honestly more interesting than a lopsided reading would be. What stands out is the reasoning behind both sides. The FOMO crowd is leaning on continued institutional and ETF interest as the bullish thread. The FUD side isn't panic-selling type fear, it's more about worry over a slowdown or a breakout getting delayed, tied to regulatory headlines and macro signals like rate expectations. So it reads less like fear of a crash and more like fear of stagnation. The fact that neither sentiment is dominating suggests the market is genuinely undecided rather than euphoric or panicked, which tends to happen when everyone's watching the same external catalysts (regulation, Fed commentary, ETF flows) without a clear resolution yet. What do you think is more likely to break this stalemate first, a regulatory headline or a macro data print?
 
-1d ago
+2d ago
 
 ---
 
@@ -161,35 +161,55 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 
-ABC News - Breaking News, Latest News and Videos • 20h ago
+ABC News - Breaking News, Latest News and Videos • 1d ago
 
 ---
 
-**[Live updates: Bitcoin climbs past $79,000 as Brent Crude tops $100 for first time since July](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)**
+**[‘Ferris Bueller Gone Bad’: 22-Year-Old Pleads Guilty in Giant Bitcoin Heist](https://www.nytimes.com/2026/09/09/us/bitcoin-crypto-heist-malone-lam.html)**
 
-CoinDesk • 22m ago
-
----
-
-**[Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html)**
-
-Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
-
-Yahoo Finance • 21h ago
+nytimes.com • 2h ago
 
 ---
 
-**[XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?](https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html)**
+**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
 
-Bitcoin, Ethereum, XRP, and Solana have all surged more than 20% off their 2026 lows, yet every one of them remains underwater for the year. The race back to break-even has a clear frontrunner, and it might not be the coin with the biggest recent gains.
-
-Yahoo Finance • 2h ago
+AP News • 2d ago
 
 ---
 
-**[How Bitcoin Mortgages Work: Bitcoin Backs The American Dream](https://www.forbes.com/sites/davidbirnbaum/2026/09/09/how-bitcoin-mortgages-work-bitcoin-backs-the-american-dream/)**
+**[‘I Am The House Now’—Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
 
-Forbes • 54m ago
+Forbes • 7h ago
+
+---
+
+**[Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions](https://www.yahoo.com/news/us/articles/mexican-musician-family-killed-over-161604190.html)**
+
+Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.
+
+Yahoo • 1h ago
+
+---
+
+**[Crypto News: Pepeto Announces Presale Stage Near Sellout Following Dogecoin Success While the Bitcoin Price Prediction Jumps to $250,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-presale-stage-near-sellout-following-dogecoin-success-while-the-bitcoin-price-prediction-jumps-to-250-000-1036533062)**
+
+DUBAI, United Arab Emirates, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto announces its current presale stage is near sellout, and once it clears, ...
+
+markets.businessinsider.com • 45m ago
+
+---
+
+**[AI Boom Wrecks Trump’s Plan for ‘Made-in-America’ Bitcoin Mining](https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Top Bitcoin Casinos 2026: Which Crypto Casinos Have the Best Payouts?](https://muddyriversports.com/sponsored-content/top-bitcoin-casinos-2026-which-crypto-casinos-have-the-best-payouts/20260908160000/)**
+
+Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
+
+Muddy River Sports • 20h ago
 
 ---
 
@@ -197,37 +217,13 @@ Forbes • 54m ago
 
 Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds
 
-Financial Times • 10h ago
+Financial Times • 13h ago
 
 ---
 
-**[CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch](https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault)**
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-British bitcoin exchange CoinCorner is debuting a multisig custody service.
-
-Bitcoin Magazine • 17h ago
-
----
-
-**[Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin](https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin)**
-
-Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.
-
-Decrypt • 5h ago
-
----
-
-**[Current price of Bitcoin for Sept. 9, 2026](https://fortune.com/article/price-of-bitcoin-09-09-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 3h ago
-
----
-
-**[Bitcoin flashes first golden cross in over 6 months as it hovers near $80K](https://seekingalpha.com/news/4640918-bitcoin-flashes-first-golden-cross-in-over-6-months-as-it-hovers-near-80k)**
-
-Seeking Alpha • 19h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -239,7 +235,7 @@ Seeking Alpha • 19h ago
 
 Neha Narula
 
-⬆️ 7 • 💬 1 • 1d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
+⬆️ 7 • 💬 1 • 2d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -271,7 +267,7 @@ Self-described white hats promise to return 'most' of the 4,000 BTC once the vul
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-⬆️ 4 • 💬 0 • 2d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+⬆️ 4 • 💬 0 • 3d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
 
 ---
 
@@ -279,7 +275,7 @@ Oklahoma, El Reno city asserts that none of the costs related to the water leak 
 
 Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
 
-⬆️ 3 • 💬 0 • 2d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
+⬆️ 3 • 💬 0 • 3d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
 
 ---
 
@@ -293,7 +289,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 9h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 13h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -317,13 +313,23 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Bull Signal Faces Inflation Test](https://www.youtube.com/watch?v=x1OZ4kZbDAM)**
+**[Scott Bessent Just Lit the Fuse for a Major Bitcoin Pump!](https://www.youtube.com/watch?v=bA1coiidgsw)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
+Ran breaks down the major forces driving Bitcoin and crypto right now as oil approaches a critical level and inflation keeps ...
 
-📺 CryptosRUs
+📺 Crypto Banter
 
-👁️ 2K • 👍 193 • 49m ago
+👁️ 10K • 👍 970 • 💬 41 • ⏱️ 27:32 • 3h ago
+
+---
+
+**[Wall Street DUMPS Bitcoin Before Bessent Speech](https://www.youtube.com/watch?v=iepJmW6w20c)**
+
+Wall Street dumped Bitcoin right before the Bessent speech. That timing is the story. Trade alongside the Verified Pro Traders ...
+
+📺 Verified Investing
+
+👁️ 895 • 👍 85 • ⏱️ 19:11 • 4m ago
 
 ---
 
@@ -333,7 +339,17 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 320 • 💬 32 • ⏱️ 10:08 • 7h ago
+👁️ 10K • 👍 385 • 💬 45 • ⏱️ 10:08 • 10h ago
+
+---
+
+**[Will Bitcoin Hit $1,000,000?](https://www.youtube.com/watch?v=HEn8kN5B0Mo)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 156 • 💬 78 • ⏱️ 8:32 • 17h ago
 
 ---
 
@@ -343,7 +359,7 @@ Japan dumped $90 billion in US Treasuries as the global financial system faces g
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 82 • ⏱️ 14:32 • 15h ago
+👁️ 31K • 👍 1K • 💬 78 • ⏱️ 14:32 • 19h ago
 
 ---
 
@@ -353,17 +369,7 @@ I dont think many of you understand whats actually happening with the cryptocurr
 
 📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 395 • 💬 166 • ⏱️ 18:03 • 1h ago
-
----
-
-**[BITCOIN GOLDEN CROSS...IT&#39;S NOT AS IT SEEMS](https://www.youtube.com/watch?v=3_D2aVjQNFk)**
-
-My Private Group: http://t.me/stackerscircle Pionex September Campaign: https://bit.ly/4x6SLca My Trading Strategy ...
-
-📺 Satoshi Stacker
-
-👁️ 2K • 👍 194 • 💬 4 • ⏱️ 8:18 • 3h ago
+👁️ 6K • 👍 985 • 💬 291 • ⏱️ 18:03 • 4h ago
 
 ---
 
@@ -373,47 +379,37 @@ Bitcoin just had a golden cross. Normally we get dumps after golden crosses. Wha
 
 📺 Benjamin Cowen
 
-👁️ 181K • 👍 7K • 💬 238 • ⏱️ 9:37 • 20h ago
+👁️ 192K • 👍 7K • 💬 244 • ⏱️ 9:37 • 23h ago
 
 ---
 
-**[Are Frontier AI Models a Real Threat to Bitcoin?](https://www.youtube.com/watch?v=xw4E2nnpWqk)**
+**[Fake Rally or New Bitcoin Bull Market? Jamie Coutts Explains](https://www.youtube.com/watch?v=rpnP6GAjM-Q)**
 
-BitGo Co-Founder and CEO Mike Belshe tackles the growing fear around quantum computing and Bitcoin security. Mike breaks ...
+Jamie Coutts joins Mark Moss to explain why Bitcoin has flashed a cycle inflection off the February lows, why unfinished global ...
 
-📺 Natalie Brunell
+📺 Market Disruptors Podcast
 
-👁️ 206 • 👍 7 • 💬 7 • ⏱️ 0:55 • 46m ago
-
----
-
-**[Bitcoin CoreChain Dumpster Fire](https://www.youtube.com/watch?v=vXl1wKy6S0A)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the latest news from the dumpster ...
-
-📺 Bitcoin University
-
-👁️ 13K • 👍 891 • 💬 249 • ⏱️ 8:45 • 15h ago
+👁️ 11K • 👍 282 • 💬 72 • ⏱️ 59:54 • 19h ago
 
 ---
 
-**[Could Trump Trigger a Global Reset? Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=9CWy796Zpds)**
+**[BITCOIN GOLDEN CROSS...IT&#39;S NOT AS IT SEEMS](https://www.youtube.com/watch?v=3_D2aVjQNFk)**
 
-The Iran war was never really about Iran. Bessent has all but said the plan is to strangle China's oil supply, and if China gets ...
+My Private Group: http://t.me/stackerscircle Pionex September Campaign: https://bit.ly/4x6SLca My Trading Strategy ...
+
+📺 Satoshi Stacker
+
+👁️ 5K • 👍 244 • 💬 7 • ⏱️ 8:18 • 7h ago
+
+---
+
+**[The Last Time Bitcoin Did This, It Went Up 9,800% - Are You Ready?](https://www.youtube.com/watch?v=JW3C_BTQWfc)**
+
+Bitcoin just decoupled from the stock market in a way we've only seen once before — and the last time, Bitcoin went on a historic ...
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 160 • ⏱️ 20:03 • 2d ago
-
----
-
-**[Bitcoin Golden Cross Just Hit. The Last 11 Times, This Happened First](https://www.youtube.com/watch?v=odh9xZQXP94)**
-
-Recorded September 8, 2026 — numbers pertain to that date. A golden cross = the 50-day moving average crossing above the ...
-
-📺 Krown
-
-👁️ 116 • 👍 13 • 💬 95 • ⏱️ 0:29 • 1h ago
+👁️ 71K • 👍 2K • 💬 183 • ⏱️ 17:14 • 1d ago
 
 ---
 
