@@ -9,7 +9,7 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788791543.0,
+      "pub_date": 1788761040.0,
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
@@ -25,14 +25,14 @@
       "description": null
     },
     {
-      "headline": "China Is Turning Its Humanoid Robot Boom Toward the Battlefield",
-      "source": "TechRepublic",
-      "source_url": "https://www.techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGdaLWxZUFNJYU4tRVdoRTlaelcxQ2pTN08xeU4xeVRJTVd5d092RTNrRDdqUXc4dklYWlZ5TzF3TDU3OEFsYmJubjNRTnJtejdialRxc0djZm5FVFNqX184S3pIWHRKMHUzYk92ZTgzLTRFMGt6OUR2eU9RMzFoVjhSU1NRZXkwcXJBZC02V0s0U1BkbkZN?oc=5",
-      "pub_date": 1788895325.0,
-      "article_url": "https://www.techrepublic.com/article/news-china-military-humanoid-robots-urban-warfare-apac/",
-      "image": "https://assets.techrepublic.com/uploads/2026/05/robot-soldier.jpg?f=jpeg",
-      "description": "China\u2019s military is exploring humanoid robots for urban combat as the country\u2019s commercial robotics industry dominates global shipments and manufacturing."
+      "headline": "China\u2019s EV makers see synergy in their race to beat Tesla in humanoid robotics",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?oc=5",
+      "pub_date": 1788746419.0,
+      "article_url": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
@@ -45,18 +45,28 @@
       "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
-      "headline": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW1ZNTZkWmVESFhHRFBpZGp3MFpYQ3ZldlBpcXZrLVdSenFYdVBtdmRSRFZ4dmpQVlpxVG1XZVN3MkJ0c2k4eV9Xa2wzR18tR0llbDlxZG5wSXFKX2RIb3lyZktDWFQxRkFLWllLdE80QmpjcGhrT2NsWUNEWWxsZ3dfSVU4QXpuaE9EMFhNV3RoVXJWTXBuUnJ4RnI4TEZ5cWxkMW1LZHBkYTRXQzdmNkJ4VWI3WXhwWVJTcFVybGw?oc=5",
-      "pub_date": 1788900476.0,
-      "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Founder-Photo-dynamiccreatures-featured.jpg",
-      "description": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments."
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+    },
+    {
+      "headline": "Hugging Face Is Making A Big Robotics Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd251Ul9EX1hGX2V1dzVZRU16VUswalBSNjhmcXZad0pkUGhLRWVhZGN2T0h2VDNvcEVCS0E1dkJQRDdwcUktdG8xNlQyeXBEVkVaZVhvVFk5RTQwNzktWnZwSGE0LXVmeTFCV3Q4S0JuQmk1QmFZZF9HRGdhMGpyY21DaWtkSEpJWTJ2UEVDWEYtOWwwQ2c?oc=5",
+      "pub_date": 1788894623.0,
+      "article_url": "https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
-      "source": "Arm Newsroom",
+      "source": "newsroom.arm.com",
       "source_url": "https://newsroom.arm.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
       "pub_date": 1788832965.0,
@@ -75,16 +85,6 @@
       "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
     },
     {
-      "headline": "Eerily humanlike AI-powered robot enters mass production in China \u2014 its makers say it could soon be helping you out at home",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
-      "pub_date": 1788847200.0,
-      "article_url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
-      "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-2560-80.jpg",
-      "description": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line."
-    },
-    {
       "headline": "Runway News | The Kinetix Team is Joining Runway",
       "source": "Runway",
       "source_url": "https://runway.com",
@@ -95,16 +95,16 @@
       "description": "The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe."
     },
     {
-      "headline": "XTEND AI Robotics CEO on firm's NYSE debut",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWTdyYkZsa21TWFZaeWtSbEN3ZG1rUU5OeFNyaTlLby1USllmMGVzSm1ZTXU4QVVTR1dTUWFkdE1uMWtnSERLNHU4S1Rlc1QxY1d3dWkzVlBBUURscXpWNWs2NVlmbEZjcGUzMw?oc=5",
-      "pub_date": 1788895897.0,
-      "article_url": "https://qz.com/xtend-ai-robotics-ceo-aviv-shapira-nyse-debut",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Screenshot%202026-09-09%20at%203.30.10%E2%80%AFam.png",
-      "description": "XTEND AI Robotics CEO Aviv Shapira delivers remarks following NYSE debut"
+      "headline": "Eerily humanlike AI-powered robot enters mass production in China \u2014 its makers say it could soon be helping you out at home",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
+      "pub_date": 1788847200.0,
+      "article_url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
+      "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-2560-80.jpg",
+      "description": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-08T21:59:39.554307+00:00"
+  "fetched_at": "2026-09-09T00:02:49.438608+00:00"
 }
