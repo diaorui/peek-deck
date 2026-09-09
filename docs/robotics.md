@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T05:00:58.050428+00:00'
+updated: '2026-09-09T09:36:42.545442+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 05:00 UTC  
+**Last Updated:** September 09, 2026 at 09:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Progress on my custom hexapod project over the past few months. In the first few
 
 Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studied optimal control for robot manipulators during my bachelor's and researched reinforcement learning during my master's. Recently, I have been working on transferring simulation-trained RL policies to a real-world robot manipulator (i.e., FR3). I have seen different choices for a robotic agent's action space in machine learning. I think there is not a promising design of the action space, since each choice has advantages and drawbacks. So, I trained an RL agent in simulation (Isaac Sim) with a Cartesian delta action space, which outputs the end-effector's desired Cartesian pose at the next control step based on the robot's world frame. This is the page where the problem begins. I use DifferentialIKController in Isaac Lab for the low-level controller, which maps the delta pose action to the desired joint positions. In Isaac Sim, the desired joint position is controlled by the internal physics engine and a PD control law that computes target joint torques. In a real-world setup, there is no physics engine or plug-and-play low-level controller. You should implement the low-level controller that maps the delta pose actions to joint torque and position commands for the robot's API (e.g., franka_ros2's ROS2 control plugins). Moreover, a safety-violation monitor should be implemented by us to prevent hardware failures. In contrast to simulation, real-world robots are highly sensitive to safety constraints; for instance, collision detection and joint limits. Currently, I have implemented a custom C++ controller that takes Cartesian delta pose commands via the ROS2 topic and computes desired joint torques based on the robot's kinematics and dynamics. However, implementing a safety monitor remains a problem. As another strategy, I have been thinking about using ROS2's MoveIt packages for sending delta commands and monitoring task-space safety violations, which may cost wall-clock time compared to the vanilla C++ controller. How do you guys work on a real-world robot learning setup? I want to hear from you about conducting real-world robot manipulation experiments with neural policies (e.g., BC or RL).
 
-2d ago
+3d ago
 
 ---
 
@@ -78,7 +78,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 **[Special news Ortomi Robot diy code given in github](https://www.reddit.com/r/robotics/comments/1w8qg8m/special_news_ortomi_robot_diy_code_given_in_github/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -94,7 +94,7 @@ This has been my project over the summer. Finally got it to walk after many prot
 
 I want to build the arctos for experimenting with simple automation. Is the arctos 4 open loop kit with all the hardware (except 3d printed parts) a good / fair deal when comparing to gathering all components seperatly? I am still fairly unfamiliary with how much all of these seperate bearings etc. cost, and aliexpress lists 20 different version with huge variations in price.
 
-2d ago
+3d ago
 
 ---
 
@@ -120,13 +120,13 @@ Reuters • 1d ago
 
 China is accelerating research to deploy humanoid combat robots, drawing on a manufacturing sector that supplied 95% of global units in 2025.
 
-UNITED24 Media • 8h ago
+UNITED24 Media • 13h ago
 
 ---
 
 **[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
 
-technology.org • 19h ago
+Technology Org • 1d ago
 
 ---
 
@@ -138,25 +138,25 @@ The Robot Report • 1d ago
 
 ---
 
-**[Medtronic Touts AI, Robotics and Ablation Growth at Wells Fargo Conference](https://finance.yahoo.com/healthcare/articles/medtronic-touts-ai-robotics-ablation-030206563.html)**
+**[First Hydrogen Signs Definitive Agreement for Advanced Robotics Technology with Extensive IP and Prepares to Launch First Humanoid](https://finance.yahoo.com/technology/ai/articles/first-hydrogen-signs-definitive-agreement-070500870.html)**
 
-Medtronic (NYSE:MDT) executives said the medical device maker is seeing accelerating growth across major franchises and emerging product categories, supported by innovation in artificial intelligence, robotics and new therapies. Speaking at the Wells Fargo Healthcare Conference, Chairman and Chief
+Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that further to the February 23, 2026 and June 9, 2026 news releases, that it has signed a Definitive Agreement with Exodus Actuation Solutions Inc. ("RoboticsCo"). RoboticsCo holds a portfolio of patents and related intellectual property ("IP"), focused on advanced actuation, gearbox, motor and robotics technologies....
 
-Yahoo Finance • 1h ago
-
----
-
-**[Want a humanoid in your factory? Here’s how much one could cost you.](https://uk.finance.yahoo.com/news/want-humanoid-factory-much-one-041553957.html)**
-
-Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
-
-Yahoo Finance UK • 45m ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
 
-theinformation.com • 9h ago
+The Information • 14h ago
+
+---
+
+**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
+
+Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
+
+Business Insider • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ theinformation.com • 9h ago
 
 Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-New Atlas • 10h ago
+New Atlas • 15h ago
 
 ---
 
@@ -172,13 +172,13 @@ New Atlas • 10h ago
 
 The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe.
 
-Runway • 12h ago
+Runway • 17h ago
 
 ---
 
 **[Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)**
 
-AI News • 17h ago
+AI News • 21h ago
 
 ---
 
@@ -192,7 +192,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 540K • 👍 9K • 💬 746 • ⏱️ 15:41 • 6d ago
+👁️ 545K • 👍 9K • 💬 749 • ⏱️ 15:41 • 6d ago
 
 ---
 
@@ -202,27 +202,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 296K • 👍 2K • 💬 645 • ⏱️ 1:44 • 5d ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 195K • 👍 2K • 💬 455 • ⏱️ 3:47 • 5d ago
-
----
-
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
-
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
-
-📺 ejunky66
-
-👁️ 9K • 👍 139 • 💬 16 • ⏱️ 0:59 • 4d ago
+👁️ 297K • 👍 2K • 💬 645 • ⏱️ 1:44 • 5d ago
 
 ---
 
@@ -232,17 +212,27 @@ Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots
 
 📺 Joe Lonsdale
 
-👁️ 54K • 👍 406 • 💬 39 • ⏱️ 8:34 • 5d ago
+👁️ 55K • 👍 410 • 💬 39 • ⏱️ 8:34 • 5d ago
 
 ---
 
-**[Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER](https://www.youtube.com/watch?v=dxghuf-iZ_I)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sign Up For 30 Day Free BP Trial: ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-📺 Breaking Points
+📺 South China Morning Post
 
-👁️ 250K • 👍 3K • 💬 1K • ⏱️ 8:51 • 6d ago
+👁️ 195K • 👍 2K • 💬 458 • ⏱️ 3:47 • 5d ago
+
+---
+
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+
+📺 ejunky66
+
+👁️ 9K • 👍 139 • 💬 16 • ⏱️ 0:59 • 5d ago
 
 ---
 
@@ -252,17 +242,7 @@ A hands-on look at the most interesting robot vacuums and cleaning concepts from
 
 📺 Rawan's Reviews
 
-👁️ 37K • 👍 187 • 💬 16 • ⏱️ 9:44 • 3d ago
-
----
-
-**[Batman Recovers a Robot from the Junkyard](https://www.youtube.com/watch?v=hLuHD7ZuoOg)**
-
-Deep inside an abandoned scrap yard, a forgotten robot was discovered buried beneath rusted metal and debris. Most people ...
-
-📺 AI TOOLS
-
-👁️ 55K • 👍 441 • 💬 12 • ⏱️ 9:36 • 6d ago
+👁️ 37K • 👍 187 • 💬 16 • ⏱️ 9:44 • 4d ago
 
 ---
 
@@ -276,13 +256,33 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 ---
 
+**[Humanoid robots tackle household chores as demand grows](https://www.youtube.com/watch?v=868RW3lYZ3M)**
+
+A San Francisco startup is offering humanoid robots for household tasks at $30 an hour, with demand reportedly outpacing ...
+
+📺 CBS19
+
+👁️ 42K • 👍 83 • 💬 60 • ⏱️ 0:27 • 5d ago
+
+---
+
+**[XPeng Opens New IRON Humanoid Robot Factory #robot #robotics #xpeng](https://www.youtube.com/watch?v=XMZtmDCrXmk)**
+
+The first XPeng Iron humanoid robot just walked off the Chinese EV maker's new production line in Guangzhou. The 12-year-old ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:14 • 6h ago
+
+---
+
 **[These Robots Can Sprint. But Can They Think? | BBC News](https://www.youtube.com/watch?v=IaeTPQh4ewE)**
 
 AI Decoded breaks down the extraordinary scenes from the World Humanoid Robot Games in Beijing, where robotic athletes ...
 
 📺 BBC News
 
-👁️ 62K • 👍 292 • 💬 129 • ⏱️ 25:57 • 4d ago
+👁️ 62K • 👍 293 • 💬 129 • ⏱️ 25:57 • 4d ago
 
 ---
 

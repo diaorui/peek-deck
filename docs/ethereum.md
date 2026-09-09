@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T05:00:58.047256+00:00'
+updated: '2026-09-09T09:36:42.543585+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 05:00 UTC  
+**Last Updated:** September 09, 2026 at 09:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +0.1%  
-**30d:** +33.3%  
-**90d:** +50.6%  
-**1y:** -42.3%  
+**24h:** +1.0%  
+**7d:** +0.0%  
+**30d:** +33.0%  
+**90d:** +50.2%  
+**1y:** -42.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.27B
+**Market Cap:** $305.98B
 Rank #2
 
 **Circulating Supply:** 122,032,627 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.3%
 
 **All-Time Low:** $0.43
-+579517.0%
++578983.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -104,7 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -128,7 +128,7 @@ Everything you should know for your trip to India. And a little bit more. Devcon
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -152,9 +152,9 @@ I’ve been looking into crypto payment cards because I’d rather spend directl
 
 ## Google News: "ethereum"
 
-**[EF Protocol: Current and Emerging Priorities](https://blog.ethereum.org/2026/09/07/protocol-priorities)**
+**[EF Protocol: The Hegotá EIP Opinion Post and Tier List](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips)**
 
-What the Protocol cluster is for, the commitments that govern its work through 2029, and what those commitments require of the forks now entering scope.
+The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
 
 ethereum.org • 1d ago
 
@@ -172,21 +172,13 @@ CryptoSlate • 1d ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[ETH news: Ethereum makes quantum resistance a top priority with a 2029 deadline](https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline)**
+**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
 
-CoinDesk • 15h ago
-
----
-
-**[Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html)**
-
-Bitmine Immersion Technologies (NYSE: $BMNR) added another 28,086 Ether (CRYPTO: $ETH) to its holdings last week, b...
-
-Yahoo Finance • 13h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -194,13 +186,15 @@ Yahoo Finance • 13h ago
 
 Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
 
-PR Newswire • 16h ago
+PR Newswire • 21h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[Bitcoin, Ethereum, Dogecoin Flat as XRP Jumps 2%: Traders Call BTC Pullback 'Normal'](https://www.tradingview.com/news/benzinga:17f991efd094b:0-bitcoin-ethereum-dogecoin-flat-as-xrp-jumps-2-traders-call-btc-pullback-normal/)**
 
-CoinDesk • 15h ago
+Bitcoin traded sideways around $78,000 as investors awaited key U.S. inflation data and the Federal Reserve’s upcoming policy decision.Notable Statistics:Notable Developments:Trader Notes:Daan Crypto Trades said Bitcoin rebounded strongly after a liquidity grab, but open interest remains elevated…
+
+TradingView • 13h ago
 
 ---
 
@@ -212,19 +206,27 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level](https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/)**
-
-Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
-
-TradingView • 1d ago
-
----
-
 **[Current price of Ethereum for September 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 16h ago
+Fortune • 20h ago
+
+---
+
+**[Assessing how Ethereum’s 2027 upgrade could redefine ETH’s utility](https://ambcrypto.com/assessing-how-ethereums-2027-upgrade-could-redefine-eths-utility/)**
+
+Ethereum’s stablecoin-driven fee model could reshape ETH demand and fuel its next DeFi cycle.
+
+AMBCrypto • 9h ago
+
+---
+
+**[Ethereum: OG Whale Sells $27M ETH via Wintermute](https://blockchain.news/flashnews/ethereum-og-whale-sells-27m-eth-via-wintermute)**
+
+Ethereum OG whale sold 11,023 ETH worth $27.23M through Wintermute, with ETH at $2485.88 on 4h chart showing EMA50 support at $2467.
+
+blockchain.news • 18h ago
 
 ---
 
@@ -232,13 +234,23 @@ Fortune • 16h ago
 
 ## YouTube Videos: "ethereum"
 
+**[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
+
+You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
+
+📺 The Modern Investor
+
+👁️ 376 • 👍 67 • 💬 10 • ⏱️ 28:10 • 30m ago
+
+---
+
 **[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 189 • 💬 62 • ⏱️ 14:25 • 13h ago
+👁️ 10K • 👍 211 • 💬 62 • ⏱️ 14:25 • 17h ago
 
 ---
 
@@ -248,7 +260,7 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 1K • 👍 19 • 💬 1 • ⏱️ 0:56 • 11h ago
+👁️ 1K • 👍 24 • 💬 1 • ⏱️ 0:56 • 16h ago
 
 ---
 
@@ -258,7 +270,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 17K • 👍 536 • 💬 47 • ⏱️ 3:29 • 1d ago
+👁️ 17K • 👍 538 • 💬 47 • ⏱️ 3:29 • 1d ago
 
 ---
 
@@ -268,17 +280,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 53K • 👍 649 • 💬 50 • ⏱️ 18:40 • 1d ago
-
----
-
-**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
-
-A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
-
-📺 Luiz Fernando
-
-👁️ 9K • 👍 427 • 💬 40 • ⏱️ 29:01 • 7h ago
+👁️ 56K • 👍 653 • 💬 50 • ⏱️ 18:40 • 1d ago
 
 ---
 
@@ -288,27 +290,27 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 282 • 💬 21 • ⏱️ 12:04 • 1d ago
+👁️ 13K • 👍 285 • 💬 21 • ⏱️ 12:04 • 1d ago
 
 ---
 
-**[Ethereum &amp; Bitcoin Hold Into A Fed Rate HIKE!! (still long)](https://www.youtube.com/watch?v=s3WqtKOLy-M)**
+**[ETHEREUM&#39;S HUGE PATTERN !!!!!!](https://www.youtube.com/watch?v=s2QeBISYb90)**
 
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+My $3 million Bitcoin trade is still open with $900000 in profits, and my Ethereum position on Bybit is still running too. Ethereum ...
 
-📺 Marzell Crypto
+📺 The Moon Show
 
-👁️ 285 • 👍 7 • 💬 18 • ⏱️ 5:04 • 13h ago
+👁️ 558 • 👍 18 • ⏱️ 0:41 • 16h ago
 
 ---
 
-**[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
+**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
 
-Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
+A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
 
-📺 The Modern Investor
+📺 Luiz Fernando
 
-👁️ 15K • 👍 790 • 💬 238 • ⏱️ 36:55 • 2d ago
+👁️ 12K • 👍 473 • 💬 91 • ⏱️ 29:01 • 11h ago
 
 ---
 
@@ -318,17 +320,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 151 • 💬 12 • ⏱️ 14:40 • 2d ago
+👁️ 5K • 👍 151 • 💬 11 • ⏱️ 14:40 • 2d ago
 
 ---
 
-**[🔴 LIVE: XAU GOLD + CRYPTO Price Action | Bitcoin, ETH &amp; Gold Analysis Today | Support Resistance](https://www.youtube.com/watch?v=Cng_-rH58Xg)**
+**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
 
-Open Account With Shark Exchange for FREE Access to AK Roxx ALPHA - https://sharkexchange.in/referral?code=AAK787 Open ...
+This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
 
-📺 Nifty Technicals by AK
+📺 Crypto Vlog
 
-👁️ 961 • 👍 331 • 1h ago
+👁️ 5K • 💬 37 • ⏱️ 0:48 • 2d ago
 
 ---
 
