@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-09T05:00:58.041125+00:00'
+updated: '2026-09-09T09:36:42.539991+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 05:00 UTC  
+**Last Updated:** September 09, 2026 at 09:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,993.17
+### $79,385.19
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +1.0%  
-**7d:** -2.6%  
-**30d:** +24.4%  
-**90d:** +24.5%  
-**1y:** -30.6%  
+**7d:** -2.3%  
+**30d:** +24.8%  
+**90d:** +24.8%  
+**1y:** -30.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1589.93B
+**Market Cap:** $1594.74B
 Rank #1
 
 **Circulating Supply:** 20,081,671 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.2%
+-37.0%
 
 **All-Time Low:** $67.81
-+116657.1%
++116991.9%
 
 ---
 
@@ -157,17 +157,17 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 ## Google News: "bitcoin"
 
+**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
+
+AP News • 1d ago
+
+---
+
 **[Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident - ABC News](https://abcnews.com/Business/wireStory/singapore-man-pleads-guilty-orchestrating-240-million-bitcoin-136279302)**
 
 A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 
-ABC News - Breaking News, Latest News and Videos • 11h ago
-
----
-
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
-
-AP News • 1d ago
+ABC News - Breaking News, Latest News and Videos • 16h ago
 
 ---
 
@@ -175,19 +175,7 @@ AP News • 1d ago
 
 Malone Lam, 22, faces a maximum prison sentence of 20 years
 
-Newser • 5h ago
-
----
-
-**[Europe Wants To “Mobilize” €10 Trillion Of Savings. Got Bitcoin?](https://www.forbes.com/sites/davidbirnbaum/2026/09/08/europe-wants-to-mobilize-10-trillion-of-savings-got-bitcoin/)**
-
-Forbes • 1h ago
-
----
-
-**[Bullish signals flash! Bitcoin sees another "golden cross"](https://www.moomoo.com/news/post/75979319/bullish-signals-flash-bitcoin-sees-another-golden-cross-3-8)**
-
-Moomoo • 2h ago
+Newser • 10h ago
 
 ---
 
@@ -197,17 +185,37 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook](https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/)**
+**[Bitcoin Wallet Robbery Turns Deadly as Mexican Family Is Killed Over Reported $1.5M Crypto Stash](https://www.yahoo.com/news/world/articles/bitcoin-wallet-robbery-turns-deadly-082227902.html)**
 
-FOREX.com • 11h ago
+Mexican prosecutors say a deadly home invasion may have been motivated by an attempt to steal Bitcoin held through a cold-storage device. Four people, including ...
+
+Yahoo • 1h ago
 
 ---
 
-**[Castle Opens Its Bitcoin Savings Stack To Individuals](https://bitcoinmagazine.com/news/castle-opens-savings-stack-individuals)**
+**[Live updates: XRP funds stand out among U.S. ETFs as bitcoin, ether, solana funds see outflows](https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows)**
 
-Miami startup Castle is bringing 12% STRC yield to personal accounts — and letting customers route any slice of the payout straight into bitcoin.
+CoinDesk • 2h ago
 
-Bitcoin Magazine • 13h ago
+---
+
+**[Bitcoin Rises as Investors Seek Diversification -- Market Talk](https://www.moomoo.com/news/post/75991795/bitcoin-rises-as-investors-seek-diversification-market-talk)**
+
+moomoo.com • 2h ago
+
+---
+
+**[Iran turns to crypto to get around sanctions](https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1)**
+
+Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds
+
+ft.com • 5h ago
+
+---
+
+**[DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook](https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/)**
+
+FOREX.com • 16h ago
 
 ---
 
@@ -215,13 +223,7 @@ Bitcoin Magazine • 13h ago
 
 Strive CEO Matt Cole said 70% of the capital raised during the week came from sales of its SATA perpetual preferred stock.
 
-The Block • 13h ago
-
----
-
-**[Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week](https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week)**
-
-Barchart.com • 1d ago
+The Block • 18h ago
 
 ---
 
@@ -295,7 +297,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 30m ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 5h ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -311,43 +313,43 @@ Ionic Digital is leasing one of its West Texas sites to an AI infrastructure ope
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Holders: The Golden Cross Is Here (What Happens Next)](https://www.youtube.com/watch?v=dKqnAIZFoIA)**
+
+Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
+
+📺 Aaron Bennett
+
+👁️ 1K • 👍 139 • 💬 20 • ⏱️ 10:08 • 2h ago
+
+---
+
 **[America’s DEBT Problem Just Got WORSE | Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=6mK4TO39OkI)**
 
 Japan dumped $90 billion in US Treasuries as the global financial system faces growing pressure. US interest costs are surging, ...
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 983 • 💬 76 • ⏱️ 14:32 • 6h ago
+👁️ 25K • 👍 1K • 💬 98 • ⏱️ 14:32 • 11h ago
 
 ---
 
-**[Bitcoin CoreChain Dumpster Fire](https://www.youtube.com/watch?v=vXl1wKy6S0A)**
+**[Bitcoin Golden Cross](https://www.youtube.com/watch?v=YHsAbpRoB-A)**
 
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the latest news from the dumpster ...
+Bitcoin just had a golden cross. Normally we get dumps after golden crosses. What is more important is what happens during the ...
 
-📺 Bitcoin University
+📺 Benjamin Cowen
 
-👁️ 7K • 👍 634 • 💬 171 • ⏱️ 8:45 • 6h ago
-
----
-
-**[Arthur Hayes: Why Bitcoin is the Fastest Horse in the Yield Curve Control Era](https://www.youtube.com/watch?v=MLZNfIqRn-g)**
-
-When the Treasury doubled its bond buyback out of the blue, the market read it as one thing: yield curve control by another name.
-
-📺 Bitcoin Magazine
-
-👁️ 3K • 👍 82 • 💬 8 • ⏱️ 32:34 • 7h ago
+👁️ 161K • 👍 6K • 💬 225 • ⏱️ 9:37 • 15h ago
 
 ---
 
-**[Metaplanet Was CAUGHT Doing The UNTHINKABLE??? Here&#39;s What it Means For Bitcoin! | EP 1587](https://www.youtube.com/watch?v=qtTbzCcTxyA)**
+**[Bitcoin Just Flashed the Signal Bulls Have Been Waiting For](https://www.youtube.com/watch?v=60sdLd9UdCU)**
 
-The Bitcoin Treasuries investment thesis takes another hit as Metaplanet got caught doing the unthinkable to shareholders .
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 17K • 👍 261 • 💬 50 • ⏱️ 1:04:48 • 11h ago
+👁️ 25K • 👍 822 • 💬 66 • ⏱️ 42:49 • 19h ago
 
 ---
 
@@ -357,7 +359,27 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 67K • 👍 2K • 💬 194 • ⏱️ 17:14 • 1d ago
+👁️ 68K • 👍 2K • 💬 192 • ⏱️ 17:14 • 1d ago
+
+---
+
+**[🚨 BITCOIN!!!! DO YOU REALIZE WHAT THIS MEANS?!!!! […most are wrong!]](https://www.youtube.com/watch?v=DZsbF8ezbjE)**
+
+Bitcoin flashes two more legacy bottom indicators! Price remains flat despite inflows. WTF is actually happening?! BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 21K • 👍 1K • 💬 125 • ⏱️ 30:05 • 15h ago
+
+---
+
+**[&quot;Mythical Supercycle&quot;! Crypto About To Do Something It Hasn&#39;t Done Since 2015 (Stocks Can&#39;t Stop it)](https://www.youtube.com/watch?v=4t_3iDOXPuA)**
+
+The "mythical supercycle" may actually be forming — and it lines up with the business cycle setup we've been tracking all year.
+
+📺 Crypto Capital Venture
+
+👁️ 20K • 👍 780 • 💬 280 • ⏱️ 8:47 • 17h ago
 
 ---
 
@@ -367,27 +389,7 @@ The Iran war was never really about Iran. Bessent has all but said the plan is t
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 160 • ⏱️ 20:03 • 2d ago
-
----
-
-**[BITCOIN&#39;S KEY MOMENT IS HERE](https://www.youtube.com/watch?v=RpxJY0kOQ7Y)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 8K • 👍 226 • 💬 94 • ⏱️ 8:57 • 11h ago
-
----
-
-**[While Bitcoin Stalls, These Altcoins Are Exploding](https://www.youtube.com/watch?v=5TIPLsQVSHI)**
-
-While Bitcoin stalls, the altcoin market is starting to heat up. In this episode, Sheldon breaks down the altcoins showing the ...
-
-📺 Crypto Banter
-
-👁️ 22K • 👍 614 • 💬 31 • ⏱️ 11:21 • 1d ago
+👁️ 43K • 👍 2K • 💬 159 • ⏱️ 20:03 • 2d ago
 
 ---
 
@@ -397,17 +399,17 @@ YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards 
 
 📺 Crypto Jebb
 
-👁️ 6K • 👍 240 • 💬 85 • ⏱️ 10:44 • 11h ago
+👁️ 7K • 👍 250 • 💬 84 • ⏱️ 10:44 • 15h ago
 
 ---
 
-**[The Man Who Cracked The Crypto Algorithm Reveals MASSIVE Bitcoin Prediction | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
+**[🚨 Bitcoin Just Lost $80,000 (Trap Confirmed?)](https://www.youtube.com/watch?v=2ZQX1Scl5ek)**
 
-Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
+Bitcoin closed a week above $80000 for the first time this uptrend. By Tuesday, it's trading at $78K. That's the whiplash, guys.
 
-📺 Altcoin Daily
+📺 Kyle Chasse crypto
 
-👁️ 83K • 👍 2K • 💬 147 • ⏱️ 42:33 • 2d ago
+👁️ 8K • 👍 221 • 💬 29 • ⏱️ 20:40 • 13h ago
 
 ---
 
