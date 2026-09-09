@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T14:12:50.191691+00:00'
+updated: '2026-09-09T17:55:47.515242+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 14:12 UTC  
+**Last Updated:** September 09, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-2d ago
+3d ago
 
 ---
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Progress on my custom hexapod project over the past few months. In the first few weeks I couldn't even get it to stand up — once I got the gait cycle figured out, everything after that came together a lot faster. Specs: Base: 3D printed 18 servos (mix of 25kg and 35kg) Pololu Maestro servo controller Buck converter for power regulation Controlled by an Android phone, which also acts as the gyro/IMU
 
-3d ago
+4d ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 This has been my project over the summer. Finally got it to walk after many prototypes 😁😁😁. Controls are a bit messy, but I'm still working on it!
 
-3d ago
+4d ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 [Cross-post from r/reinforcementlearning] My full 6-part series on RL for robotics is finally live. While a balance bot is a pretty trivial case (you don't even need RL), it's a great starting point for demonstrating how to train a simple agent via PPO, deploy the agent to real hardware, and tackle the sim-to-real gap using post-processing and domain randomization. If you have any feedback (e.g. I missed something or there's something that could be better), please let me know!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 3d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 4d ago
 
 ---
 
@@ -110,15 +110,15 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
+**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-Reuters • 1d ago
+WSJ • 7h ago
 
 ---
 
-**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
+**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-WSJ • 4h ago
+Reuters • 2d ago
 
 ---
 
@@ -126,7 +126,7 @@ WSJ • 4h ago
 
 Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
 
-Business Insider • 9h ago
+Business Insider • 13h ago
 
 ---
 
@@ -134,29 +134,7 @@ Business Insider • 9h ago
 
 French AI scaleup Mistral launched its own robotics business unit last year.
 
-Sifted • 4h ago
-
----
-
-**[Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays](https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/)**
-
-Druckenmiller is considered one of the best investors of all time.
-
-The Motley Fool • 2h ago
-
----
-
-**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
-
-The Information • 19h ago
-
----
-
-**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
-
-Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
-
-New Atlas • 20h ago
+Sifted • 13h ago
 
 ---
 
@@ -164,23 +142,43 @@ New Atlas • 20h ago
 
 Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
-futurism.com • 14h ago
+Futurism • 17h ago
 
 ---
 
-**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
+**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
 
-Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
-
-Arm Newsroom • 1d ago
+theinformation.com • 22h ago
 
 ---
 
-**[Hackaday Europe 2026: Outdoors With Robots](https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/)**
+**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
 
-Erin Kennedy has been building robots for over a decade now, with a focus on smaller bots that interact with, or maybe even clean up, the outdoor environment. Still other bots are made to interact …
+Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-Hackaday • 22h ago
+New Atlas • 23h ago
+
+---
+
+**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
+
+A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
+
+GeekWire • 1h ago
+
+---
+
+**[Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)**
+
+AI News • 1d ago
+
+---
+
+**[Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics](https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/)**
+
+Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments.
+
+The Robot Report • 21h ago
 
 ---
 
@@ -188,13 +186,23 @@ Hackaday • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
 
-In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
 
-📺 bycloud
+📺 America's Got Talent
 
-👁️ 551K • 👍 9K • 💬 754 • ⏱️ 15:41 • 6d ago
+👁️ 143K • 👍 2K • 💬 469 • ⏱️ 5:02 • 15h ago
+
+---
+
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+
+📺 XPENG
+
+👁️ 51K • 👍 1K • 💬 117 • ⏱️ 5:52 • 13h ago
 
 ---
 
@@ -204,17 +212,45 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 29K • 👍 441 • 💬 47 • ⏱️ 15:17 • 4d ago
+👁️ 29K • 👍 443 • 💬 47 • ⏱️ 15:17 • 4d ago
 
 ---
 
-**[These tiny robots can remove microplastics from soil🔬 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=J1tXex4thQI)**
+**[Robots Just Had Their GPT-3 Moment](https://www.youtube.com/watch?v=cqwKceUSZ5Q)**
 
-Researchers in the Czech Republic have built microscopic robots that pull microplastics out of contaminated soil and water.
+In-context learning for robots has been a long-anticipated capability, as it could allow robots to quickly adapt to new tasks without ...
 
-📺 The Rundown AI
+📺 bycloud
 
-👁️ 14K • 👍 1K • 💬 24 • ⏱️ 1:00 • 1d ago
+👁️ 556K • 👍 9K • 💬 756 • ⏱️ 15:41 • 6d ago
+
+---
+
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
+
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
+
+📺 CBS Chicago
+
+👁️ 297K • 👍 2K • 💬 644 • ⏱️ 1:44 • 5d ago
+
+---
+
+**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
+
+📺 Opac24MLB
+
+👁️ 581 • 👍 7 • ⏱️ 0:16 • 1h ago
+
+---
+
+**[This Robot uses artificial muscles instead of motors!](https://www.youtube.com/watch?v=1rBjJ10VH2M)**
+
+Most robots look human from the outside. Clone Alpha was built human from the inside. The engineering decisions behind this ...
+
+📺 Mangesh Shinde Shorts
+
+👁️ 12K • 👍 2K • 💬 20 • ⏱️ 0:59 • 5h ago
 
 ---
 
@@ -224,7 +260,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 196K • 👍 2K • 💬 460 • ⏱️ 3:47 • 6d ago
+👁️ 196K • 👍 2K • 💬 466 • ⏱️ 3:47 • 6d ago
 
 ---
 
@@ -234,7 +270,7 @@ Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots
 
 📺 Joe Lonsdale
 
-👁️ 55K • 👍 414 • 💬 39 • ⏱️ 8:34 • 5d ago
+👁️ 55K • 👍 419 • 💬 39 • ⏱️ 8:34 • 5d ago
 
 ---
 
@@ -244,47 +280,7 @@ A Chinese robot appeared to malfunction attacking customers at an electronics sh
 
 📺 New York Post
 
-👁️ 58K • 👍 802 • 💬 273 • ⏱️ 1:16 • 5d ago
-
----
-
-**[Best of Aqua Teen Hunger Force | Robot Chicken [adult swim] Special | adult swim](https://www.youtube.com/watch?v=Mx4SWuo_zMs)**
-
-The Robot Chicken [adult swim] Special is streaming on HBO Max. Watch Adult Swim on HBO Max: ...
-
-📺 Adult Swim
-
-👁️ 148K • 👍 2K • 💬 344 • ⏱️ 7:10 • 4d ago
-
----
-
-**[XPENG Robotics Production Line Officially Launched](https://www.youtube.com/watch?v=p9P84bt3AQY)**
-
-We made it! XPENG launches the world's first automated production line for advanced general‑purpose humanoid robots, marking ...
-
-📺 XPENG
-
-👁️ 79K • 👍 580 • 💬 92 • ⏱️ 2:28 • 1d ago
-
----
-
-**[XPeng Opens New IRON Humanoid Robot Factory #robot #robotics #xpeng](https://www.youtube.com/watch?v=XMZtmDCrXmk)**
-
-The first XPeng Iron humanoid robot just walked off the Chinese EV maker's new production line in Guangzhou. The 12-year-old ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 62 • 💬 3 • ⏱️ 1:14 • 10h ago
-
----
-
-**[Making Tentacle Robots Useful](https://www.youtube.com/watch?v=BvGphB0iaHE)**
-
-Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
-
-📺 James Bruton
-
-👁️ 155K • 👍 3K • 💬 290 • ⏱️ 20:27 • 1d ago
+👁️ 59K • 👍 808 • 💬 275 • ⏱️ 1:16 • 6d ago
 
 ---
 

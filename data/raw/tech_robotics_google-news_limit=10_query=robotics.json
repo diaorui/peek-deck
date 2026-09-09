@@ -5,22 +5,22 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "From dance floor to war: China readies humanoid robots for combat",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788791543.0,
-      "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
       "pub_date": 1788948600.0,
       "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "From dance floor to war: China readies humanoid robots for combat",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
+      "pub_date": 1788791543.0,
+      "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
     },
@@ -39,24 +39,24 @@
       "source": "Sifted",
       "source_url": "https://sifted.eu",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHJYbTB3aTd1VktCQzItd1VmM21UdURSclkwV1NjMzdadGwweW4yUm1ianM0MzJPNk5iMnFLS3ZKaE9VWERDZzBidFlKRndSSmoxZ3VockRGbGtMV3YyWU02aXlhQ1otbEJ0SlgydHhGcUtyRS15eEZEaXBQaG1TUmtKSzRuazRieHpjV1gxRVo?oc=5",
-      "pub_date": 1788948258.0,
+      "pub_date": 1788926657.0,
       "article_url": "https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup",
       "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/08192855/Mistral-Icon-Gradient-RGB.jpg",
       "description": "French AI scaleup Mistral launched its own robotics business unit last year."
     },
     {
-      "headline": "Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTk0NGo3MTRBc0lLRU5rRDBSMHhVVmMyaTFPd0x0MmhtU3FYNzZNT0NzNndKZW1RbmVmSEdxTTBWMGlfaWRFVjVoaVFJaDI0OGdBWVBMZDdDUHh2RFMxMWMwMnR2LTZqQWdIVnN4OWFqNC1lOFdUNC0zZGlYWlVEY2FIbk5zc1R1UzRMck02eEt1czZDWW5fUw?oc=5",
-      "pub_date": 1788954429.0,
-      "article_url": "https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886380%2Fstanley-druckenmiller_duquesne-family-office_chairman_imagesource_getty-images.jpeg&w=1200&op=resize",
-      "description": "Druckenmiller is considered one of the best investors of all time."
+      "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzI1OExsS2RTbVVJNXk4Rm4tcVkzQTViVng1QUZGQkJESmNXcTB6WjBWc3RoS0JLNEVBUmxORE40aUd2ZGlxZ2I1dEtLLURQZ3pBMEJVVmdhSEMya0JHMjNOb2tEQ1hnZXg2SDdaUXFxc2NObDNDb3BPc01yb2RrTXdIRmhVMUVI?oc=5",
+      "pub_date": 1788911760.0,
+      "article_url": "https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/glitch-delivery-robots-swarm-chicago-sidewalk.jpg?quality=85&w=1200",
+      "description": "Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents."
     },
     {
       "headline": "Hugging Face Is Making A Big Robotics Push",
-      "source": "The Information",
+      "source": "theinformation.com",
       "source_url": "https://www.theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd251Ul9EX1hGX2V1dzVZRU16VUswalBSNjhmcXZad0pkUGhLRWVhZGN2T0h2VDNvcEVCS0E1dkJQRDdwcUktdG8xNlQyeXBEVkVaZVhvVFk5RTQwNzktWnZwSGE0LXVmeTFCV3Q4S0JuQmk1QmFZZF9HRGdhMGpyY21DaWtkSEpJWTJ2UEVDWEYtOWwwQ2c?oc=5",
       "pub_date": 1788894360.0,
@@ -75,36 +75,36 @@
       "description": "Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish."
     },
     {
-      "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
-      "source": "futurism.com",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzI1OExsS2RTbVVJNXk4Rm4tcVkzQTViVng1QUZGQkJESmNXcTB6WjBWc3RoS0JLNEVBUmxORE40aUd2ZGlxZ2I1dEtLLURQZ3pBMEJVVmdhSEMya0JHMjNOb2tEQ1hnZXg2SDdaUXFxc2NObDNDb3BPc01yb2RrTXdIRmhVMUVI?oc=5",
-      "pub_date": 1788911760.0,
-      "article_url": "https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/glitch-delivery-robots-swarm-chicago-sidewalk.jpg?quality=85&w=1200",
-      "description": "Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents."
+      "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1puOUFHWmVianl3R3BreW5GbjRYemQyZ1M5VkEtTk55WDlxV3hoa1lrNEpDQ3hVMFFnc1RWVVdRaEE4Wm5qZXhrQlNhX3hiWGF5Um5wdzREQk85ek40b0RRblo3R2poc1ZLaWpWNHJlWmtfMFpiODEyYnJHU0Q5SGl1aGd2V20wTXNBOUlLd3RjZG03eEhpX00xYmNqaWNfeXhoSmVheENDTTREOTcyVVNPQTNzNGxEY1FfVUdfTDE?oc=5",
+      "pub_date": 1788970329.0,
+      "article_url": "https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/General-Robotics_Photo3-1260x709.jpg",
+      "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
     },
     {
-      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
-      "source": "Arm Newsroom",
-      "source_url": "https://newsroom.arm.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
-      "pub_date": 1788832965.0,
-      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
-      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
+      "headline": "Arm launches Total Design for Physical AI and robotics framework",
+      "source": "AI News",
+      "source_url": "https://www.artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2lhdmltZHhQbXNFU3Z3dXgxY3hIcEk2ZHh1WHFXYWZfb01KbzVBbC1LSVB2YzUydWJrUmhmbzJxOFQxN3dJam1HSjdYR1VnY2JsQkk1dGhMTmVGVUVRbW1TbkRMTnVKUlRGcnhJVjdVWkpoOUVOUEhSSHBWYnRia01ibVE3a2ctUVB6c2xHLUk5MmNMaTlfY3JfV1RYNUtILXlhWmhiNlc?oc=5",
+      "pub_date": 1788868006.0,
+      "article_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Hackaday Europe 2026: Outdoors With Robots",
-      "source": "Hackaday",
-      "source_url": "https://hackaday.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05R0pRVEVZT1VpbEp5cWtsWUtQaVdNZV9ITTVud0c3ek13aktXSGVGaEVGTHM0bFdVblFIenE4Z2w2eGpfaVJBdG1JVjBHLXhjQlB4UVpZUTNiQnlpTlpFX1pseVpwRDNCUGNUSF9HbGFjUjZCRXp1Z1RrcE9DOTQ?oc=5",
-      "pub_date": 1788881700.0,
-      "article_url": "https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/",
-      "image": "https://hackaday.com/wp-content/uploads/2026/09/hackaday-europe-2026-erin-kennedy-outdoors-with-robots-mp4-shot0005_featured.png",
-      "description": "Erin Kennedy has been building robots for over a decade now, with a focus on smaller bots that interact with, or maybe even clean up, the outdoor environment. Still other bots are made to interact \u2026"
+      "headline": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW1ZNTZkWmVESFhHRFBpZGp3MFpYQ3ZldlBpcXZrLVdSenFYdVBtdmRSRFZ4dmpQVlpxVG1XZVN3MkJ0c2k4eV9Xa2wzR18tR0llbDlxZG5wSXFKX2RIb3lyZktDWFQxRkFLWllLdE80QmpjcGhrT2NsWUNEWWxsZ3dfSVU4QXpuaE9EMFhNV3RoVXJWTXBuUnJ4RnI4TEZ5cWxkMW1LZHBkYTRXQzdmNkJ4VWI3WXhwWVJTcFVybGw?oc=5",
+      "pub_date": 1788900476.0,
+      "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Founder-Photo-dynamiccreatures-featured.jpg",
+      "description": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and environments."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T14:12:45.532772+00:00"
+  "fetched_at": "2026-09-09T17:55:34.651044+00:00"
 }

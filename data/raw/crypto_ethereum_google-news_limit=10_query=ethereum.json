@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "EF Protocol: The Hegot\u00e1 EIP Opinion Post and Tier List",
-      "source": "ethereum.org",
+      "source": "blog.ethereum.org",
       "source_url": "https://blog.ethereum.org",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZU9GRHlIMXFQb2F2YTNIWkl3NEt1WlpSSHMzUlJNazZQWTdPU1BCQnFTOVIwUGxUclk3c1VSUU1kWm9KN1lRU096ejFMMWRYSjFFWWU5d0JrNXpOUUNTUU1oWnUwQkx1?oc=5",
       "pub_date": 1788792916.0,
@@ -15,14 +15,44 @@
       "description": "The EF Protocol cluster\u2019s tier list for Hegot\u00e1 evaluates 62 proposed EIPs in a unified view."
     },
     {
-      "headline": "Ethereum's Vitalik Buterin puts 60% odds on a cryptography breakthrough that could weaken Wall Street middlemen",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZlRlNGMFZhcEwwN3hQazVSNzB3X1FRVE9WRUlsV0Y2TXJJX1NGaUdiMklVTTBDaVBaWVFVbEhOZ1UteWJsRDVmR1VBaGZfaDVxMW9BZXV4UmNZeWhmbUpqR2RPV1FnS2hvN3BZT0dOeXR2TVhwaGxSRm9TdXJHbC1zUDBra05PeEhYcExKd3MwNGdjLXhKaUZvaU9EV1AzbTh6eGNySWVzNjFPa2c3MWxlcU4zMERxRXNJNXh2aXIwdU1abWVVQXdsQ05NSW8?oc=5",
-      "pub_date": 1788782113.0,
-      "article_url": "https://cryptoslate.com/ethereums-vitalik-buterin-puts-60-odds-on-a-cryptography-breakthrough-that-could-weaken-wall-street-middlemen/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-privacy-crossroads.jpg",
-      "description": "The Ethereum co-founder says SNARKs, FHE and iO could eventually run at less than 10 times ordinary compute costs, opening the door to far broader confidential finance."
+      "headline": "Ethereum Is Up 31% in Thirty Days and XRP 33%. Which Is the Better Buy Before the Fed Meets?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDRuaTg3LTE3Skt6dU00NnRfZ2dKZGIwYlpXaG1CUXY0YWYxSTNPd2NBQjNEYVRIRGJhYkYxMEFzSGpjeXdGMkRiSDJIWGV6ME82S0hCaWd6YjFVZ2ZfNXRBemI4WElBR3pPZUE3SWRPTGpUUGRUaVRzaDNWdG13TnlTX3NOTnhsV19Rd0F4ckU1U1N4UlV5WFA0OGdZdFYxd0RIU2VpQmtEN3IzTF9NWmhpa1VVdmFlRU5vUVMxYjUtaTZoMEFHZjJwaFRSNW9JSzhrREVoUmVtSWpWYmN2WA?oc=5",
+      "pub_date": 1788871740.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/ethereum-is-up-31-in-thirty-days-and-xrp-33-which-is-the-better-buy-before-the-fed-meets/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2760853909-huge-licensed-scaled.jpg",
+      "description": "Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision."
+    },
+    {
+      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
+      "pub_date": 1788967800.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ethereum ETFs Just Posted a $24 Million Outflow After an $824 Million Week. Is the Streak Over?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3ZxYW1LWDJaS3E3YXV0Rmpja05WXzhWTEU5UGlzVHducXBLRndvMTdHT1ZGclBLQXRUU3h0aVR6YVVhRW0zeVRzbWlqR2lpcUUxRHRySzZPQUJzbFJpTUx4bnBEcmxjZFJYYWdvVGI3NHYwMGlVUW5XcUt4YVhQMHEwV09JWXpMdWEzQnBDYmw5Wk9YcE1CYg?oc=5",
+      "pub_date": 1788973229.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-just-posted-24-170029071.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/772584e275ebe35551e5ed841e97d975c8a46bc5e7e2d05e5bbd8d49ab551653/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbec197faaf16a4d65164cabf211f540d.jpg",
+      "description": "After two weeks of record-breaking inflows, a single outflow session is raising questions about whether institutional appetite for Ethereum ETFs has finally hit a wall, or whether one quiet day is being mistaken for something bigger than it actually is."
+    },
+    {
+      "headline": "$1K in Ethereum Today: What It Could Be Worth by 2030, According to Analysts",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzVFcGp1Z2ZTdUZHYWpiWnhaMGNDLWJDOHVNSG4tbkNJMFN2RGUtTmIwVURpeUtIclN1a0d2VE0zLUl6RndUZi1qOFFscTZuZVdyb3EyQWhfSkFkRWlIOFBrYk5tRnZ5MGhJbHpKWmdUbTlyUGpUNzhqQVp5Z1U1VjBZb3I2Z3pFRzRFYWdXMUcyc3Zzc2RRaF9B?oc=5",
+      "pub_date": 1788966490.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/1k-ethereum-today-could-worth-150810287.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/774a39a6eefa363ce93057a64496066b6f92530d68fb2dbc14c3f3c42efb207f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneylion_953%2Fdd5cbe2b45896664beca7a28a703cfe0.jpg",
+      "description": "For someone investing $1,000, that forecast would mean a return much larger than the same investment in Bitcoin or an S&P 500 index fund. Read on to find out."
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
@@ -33,26 +63,6 @@
       "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
       "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
-    },
-    {
-      "headline": "XRP, Bitcoin, Ethereum and Solana Are All Up More Than 20% in a Month and Still Down for the Year. Which Recovers First?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYjNOM2ZvRXB3VzdUR2RPTVU2bDZrV2NBSmM4T3dBal9RTHZWZVg2MnBmc3BIQkpKZGxJWGl4UkhDMnJkRENqWEU1UXFWVmNtb0k3SkFOLVFvaDJmdWk0R2N6Snh5U3ZER3JhV1lJckpxVjIxNlp6THVqSTFYakRna3phTlZ3cDdoTU84dm5rNVZMd1ZSQVNBNkZvSDE3QQ?oc=5",
-      "pub_date": 1788955214.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/xrp-bitcoin-ethereum-solana-more-120014287.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/db17d5e498fdaad4103e8805501908216eb686d220e07b70fc87023bb718ecdc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Ff1d11fd38c57814e4185aab97ee9e35b.jpg",
-      "description": "Bitcoin, Ethereum, XRP, and Solana have all surged more than 20% off their 2026 lows, yet every one of them remains underwater for the year. The race back to break-even has a clear frontrunner, and it might not be the coin with the biggest recent gains."
-    },
-    {
-      "headline": "Current price of Ethereum for Sept. 9, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WFFhbkZwLWd3ems2Z25TaENuTnVEaVpSUzhjSG5vUm93U3FPclZOX28wc1Y3cGQ4S1hyd0NJa191Rnk4QzJ3dFpvang1WDhSend1elNUQ1FuazZEejlHOHg4MkFKOS1L?oc=5",
-      "pub_date": 1788951600.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-09-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-9.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First",
@@ -66,7 +76,7 @@
     },
     {
       "headline": "Bitcoin, Ethereum, Dogecoin Fall; XRP Gains Ahead of Key Inflation Data: Analyst Notes 'Another Strong Bullish Signal' for BTC",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVGNRZUlwVVRLeGlIZDNlelQ4YkJfM0xlalVvaEFybkhZTHZCWkhod3FFSXlIWmJlSGozUGpidnA4TFg4RDg2S3RXeDIzdkpuSVUxSV9GSWc1YTQ1eVFPVFhGdENUeHF0SDEyOFhkcGhqZXVOMGtrWHVOVWctcUlQYlBsWkN4Y2JPYXR1UHlHS0NKODhOaGtNeWNGUkx3NzMzUDE4d1FlVGxlVUxRZXhxWmRZNlNzcDdCWXlvcEZOMHdVQmJ3STF6S01pVUxBZU9YU294bnhBMC1yd3RzXzVJUVRpa05JaFRJY0Y1RDdDWUdkbWRZOXAxNU9ROFE3Nnl4ZVlIQjhBajg3OTQ?oc=5",
       "pub_date": 1788920760.0,
@@ -85,26 +95,16 @@
       "description": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegot\u00e1."
     },
     {
-      "headline": "Assessing how Ethereum\u2019s 2027 upgrade could redefine ETH\u2019s utility",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNG56ZzBZOTh0dGVxM0RWYnhUbTl1NXJpR1JYWUlHeFYxa2VfMWs3SzU1emlzVnlBV2ZCemV1UmN4Y1dJVjI1VVNraWdQay0tTUtoLUdKSWFueUJMdHAzd29kdVp1Y1dYLVhWNThOWUF0bGhnSFZSZ3VSSWhzSFRwNG5jQ05rZDUtb0hGenoxTkU?oc=5",
-      "pub_date": 1788912042.0,
-      "article_url": "https://ambcrypto.com/assessing-how-ethereums-2027-upgrade-could-redefine-eths-utility/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/Ritika-1-4-e1788855295793.jpg",
-      "description": "Ethereum\u2019s stablecoin-driven fee model could reshape ETH demand and fuel its next DeFi cycle."
-    },
-    {
-      "headline": "Ethereum: OG Whale Sells $27M ETH via Wintermute",
+      "headline": "Ethereum (ETH) AMA Set for Sept. 16: Glamsterdam, zkEVM in Focus",
       "source": "blockchain.news",
       "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMzdHc1ZOMGJmTnRHNDVDa2tDbmtUTXZLWGhySHpOaU1Nby1qSEdlQ3ZuUWZpNjNnUmJ2VnpQV0hUQmV5QjNFODhOWThSdVVPOVAyOU1BWEZ0RFBKcHlqOU5JV1BNZzJRejc3VDN0X0NZS29lc0sxSzNySklUWUkyN0ZBdEJUZUE?oc=5",
-      "pub_date": 1788879171.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-og-whale-sells-27m-eth-via-wintermute",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Ethereum OG whale sold 11,023 ETH worth $27.23M through Wintermute, with ETH at $2485.88 on 4h chart showing EMA50 support at $2467."
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBadmFvYVJtVUdwSWZHZ2xKN0RwX002VmUtYm9Fc3JERlJuRjhnYXF2cElDbjVhSm9TdGxfaWJsTmlfQVBHeGFSdnRXMkVXY0otdDlHbEkxRkFrNGc1a29RWk1wMExLVmhuVzBxaTM3SzV2UDBuMUE?oc=5",
+      "pub_date": 1788971400.0,
+      "article_url": "https://blockchain.news/news/ethereum-ama-sept-16-glamsterdam-zkevm",
+      "image": "https://image.blockchain.news:443/features/D180AC0788C3E2C92693835739D53F73C19D39A573968751CEEE016182C07E27.jpg",
+      "description": "Ethereum Foundation's Reddit AMA on Sept. 16 to address Glamsterdam, zkEVM, post-quantum roadmap, and more amid $2,490 ETH price."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T14:12:36.702197+00:00"
+  "fetched_at": "2026-09-09T17:55:43.679013+00:00"
 }
