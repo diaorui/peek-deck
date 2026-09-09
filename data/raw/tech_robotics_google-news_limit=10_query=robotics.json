@@ -9,28 +9,28 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788761040.0,
+      "pub_date": 1788791543.0,
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
     },
     {
+      "headline": "How China Is Turning Commercial Humanoid Robots Into Next-Generation Soldiers",
+      "source": "UNITED24 Media",
+      "source_url": "https://united24media.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaDFNR3JHZm9nQjBwVTluYVhaOTVNWHMzaVJyWlk2cG9SelNsZGRnYU51b2pYY3FxdlEzOWZZMkRoVm83X2psSTN2Q3ZCNXktSjh5bTJoaktqTFZSRGliY2ZJaWFjbjE5dG5VQVZ3dW9XNm5WaDk5d3NpeHQ0MXpvcVlMQmNlVzlRTEQ2cFo0NURyZnc5V0ktZXdKVFhXSmZnM2FrdnYxOHFDclhIMTZIaUVXX1Zvdw?oc=5",
+      "pub_date": 1788898682.0,
+      "article_url": "https://united24media.com/world/how-china-is-turning-commercial-humanoid-robots-into-next-generation-soldiers-22374",
+      "image": "https://storage.united24media.com/og/4/ff/4ae6e69a5739415869c12d2975293ff4.png",
+      "description": "China is accelerating research to deploy humanoid combat robots, drawing on a manufacturing sector that supplied 95% of global units in 2025."
+    },
+    {
       "headline": "Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles",
-      "source": "Technology Org",
+      "source": "technology.org",
       "source_url": "https://www.technology.org",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdzZ1lPVG0yeW4xRnFtYXplc3pNRDItcVFMQ25qMTBLYTQ0Q2Y4bnNhOW9qbW5SYWxwX0dBcU9lVWxjX1RkZ0YwUnhZVElNWmUxQ1RmXzRIN2xSTXB0MThkWEd0RXVveEtMdVVQS1NLWmRzZ1pfVFlibkp5VUdpYmxHLXFIbWtySEViakhR?oc=5",
       "pub_date": 1788859800.0,
       "article_url": "https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China\u2019s EV makers see synergy in their race to beat Tesla in humanoid robotics",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkdrdUVDZksxd2t0Y2dJTl9mUkhaNi10WjZBVHY0Q3o3bnRaeWp3bzAzWWpYU1daVFRTS0dDaHNQMEc3cVI1TENlOGpkSzhwdmNPYTNkLW1TSFZnVUtRdUlFNExKb3cxdjZQUXpCUFdFZlFGYmpQSTBkeHhJRmpCNmVOYkRXUVdoTWh2NVJoUmZfQ3AzazMyajJBbGdETmxhSVZ2SF9hcTltdF9LVFB2ZkZ5YnV3eVJwUWFicGxVOHlUdE40RW5pOGxvU01hS0dab043QW9XeGZXQkXSAdsBQVVfeXFMT0RRX0RYVUxiWU96eGhhVzZJa3IyWldKQjEtUnFrOUFoOWFLMjY0SXZTRnBPUlBYS2JNbGE4NHVOTkRBczd0ZXE5NzNESnlTSDVwNjU4UklVOG9MbENZcDh0RFc5c3pWalFaNGFNV2R0M3gzNThJZ0RuQ1ZaUlFYYVY2dXRUNm02SmN3RnBja0pYRFFycmluUEh2RjVmUG1EalY2Q09CNGhXNVJtY3ltOWdPVmVpeEhGaGlxUXEzWXZYNzVtS3lObGZiVTBIanBzeXpwY0JNal9NTGJR?oc=5",
-      "pub_date": 1788746419.0,
-      "article_url": "https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers",
       "image": null,
       "description": null
     },
@@ -45,18 +45,28 @@
       "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+      "headline": "Medtronic Touts AI, Robotics and Ablation Growth at Wells Fargo Conference",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1dPb3ZsdE9aT3F0Tjl3VDdvdGtEQzltOUlVVVRuYThOTEJzLTJnT09rQWxfc2FDcUE4QlZCdDh2MTN6bDNrU0ZEX2pxS3F2SEdlOHY3MUlUcFByTzl0QmtMTmQ4YnNKMXlpSk9NblcwZDFJdzlKbE4xWE1iRk9YYmVzX2NzdjRmdmdZUEFhMFFwMFRXU3RnNzRYSWkzQQ?oc=5",
+      "pub_date": 1788922920.0,
+      "article_url": "https://finance.yahoo.com/healthcare/articles/medtronic-touts-ai-robotics-ablation-030206563.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/437eb312983951522cf648d4fdc600b980c0492cc7bc95aa451b04ce505ffcad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F2d0713f0cec09bc23124da88e196fe08.jpg",
+      "description": "Medtronic (NYSE:MDT) executives said the medical device maker is seeing accelerating growth across major franchises and emerging product categories, supported by innovation in artificial intelligence, robotics and new therapies. Speaking at the Wells Fargo Healthcare Conference, Chairman and Chief"
+    },
+    {
+      "headline": "Want a humanoid in your factory? Here\u2019s how much one could cost you.",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXpIQXdFRUVsTWNlclRaSnJlcy1PTnpnQnd4YmQtRTNiRXlqQnhHSzF6TTZULU9yU1d2YnR1UjhWcmdIbV95VjJRSldWb2VtRDRMSDV5NXg2ZmFZSUpvelh2OWxINnFObUs1STkxdGtDa2pyTTJkTGNFNncxSjVrOUJ5M0IyQQ?oc=5",
+      "pub_date": 1788927300.0,
+      "article_url": "https://uk.finance.yahoo.com/news/want-humanoid-factory-much-one-041553957.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/47215fcd18de5115e963352c0ba59110df403934563ac2afbc6b30897cc096ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc41d4fcdc7b71accd3e1fd1af448d801.jpg",
+      "description": "Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years."
     },
     {
       "headline": "Hugging Face Is Making A Big Robotics Push",
-      "source": "The Information",
+      "source": "theinformation.com",
       "source_url": "https://www.theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd251Ul9EX1hGX2V1dzVZRU16VUswalBSNjhmcXZad0pkUGhLRWVhZGN2T0h2VDNvcEVCS0E1dkJQRDdwcUktdG8xNlQyeXBEVkVaZVhvVFk5RTQwNzktWnZwSGE0LXVmeTFCV3Q4S0JuQmk1QmFZZF9HRGdhMGpyY21DaWtkSEpJWTJ2UEVDWEYtOWwwQ2c?oc=5",
       "pub_date": 1788894623.0,
@@ -65,24 +75,14 @@
       "description": null
     },
     {
-      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
-      "source": "newsroom.arm.com",
-      "source_url": "https://newsroom.arm.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
-      "pub_date": 1788832965.0,
-      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
-      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
-    },
-    {
-      "headline": "Robots protest rampant AI in Poland",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmN0Ulh4a2lHMXhuSm5JZXB3OXRoQlotbmM4OHJXVWRIM1hzUl95blZXRTY1THZxZ0RnVnl0dE1ycmpJcThkeVAxeHU1bjBJUmZqbVl1NWJ2LVpVektIenNoTFdma0xSVmxQMHRjZkZJc1NuSWJmSjVibVpXRU85V0h0S3h5M01Q?oc=5",
-      "pub_date": 1788794013.0,
-      "article_url": "https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1c79bc12dcfc52b00d62d7b2d3723ad0d5236b6db55adbf4ae63ed89f33c67b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.co.uk%2F51b52f4dd2056011dc6a96fd26c81a31.jpg",
-      "description": "Waving flags, \"chanting\" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site."
+      "headline": "Robotic fish swims like the real thing, and can be built to any size",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rNTQ2ZVJmX2UycnAxOU5BbGF3b3NoUWdLXzBOTTVfUzM0Z1czY3FySUJSVXFUaTI5N0Y2ckJFclBWal9Ub2dUS2VRQm11U3V4c3Y5V0pZUi1Sb3NVNUJFNTI2SS1ybkhPRkE?oc=5",
+      "pub_date": 1788890870.0,
+      "article_url": "https://newatlas.com/robotics/scafi-scalable-robotic-fish/",
+      "image": "https://assets.newatlas.com/dims4/default/231b0ac/2147483647/strip/true/crop/3000x1575+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F33%2Fcf%2F69b9ee334115af2808d61a6b6e5b%2Ffish-robot.jpeg&na.image_optimisation=0",
+      "description": "Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish."
     },
     {
       "headline": "Runway News | The Kinetix Team is Joining Runway",
@@ -95,16 +95,16 @@
       "description": "The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe."
     },
     {
-      "headline": "Eerily humanlike AI-powered robot enters mass production in China \u2014 its makers say it could soon be helping you out at home",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGJxUkwyVVNQTU5rOTQ0cnFNOUdVN1BiOThUakhZYU1iU1BPeUdlREZXbFpGcmtfOXcwTTFBUXpXZ1QycVhEQXRfcmtMU3hfRHVjTWh6ajRlX3pJNUEybnNldEFOZnk1ZWhjbnBuNFhlRDJlX25ET0tuY2xQSTFmXzFpb2UzVjFGVXhYR3NqQ01FRzNScEZKLW5RNWY4RndRMDg1WTAzV1NKMk9jdF95akJkLW5LckhjS0hndkRpS3lMeFc2MDJGRzZvWkVneGVVNjMzMkZmWEFUenFldHRDSTA5YTg2bTF3UXA2dUI5R0syYjJOY2NTSEZWRkxFUQ?oc=5",
-      "pub_date": 1788847200.0,
-      "article_url": "https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home",
-      "image": "https://cdn.mos.cms.futurecdn.net/7mfrHMxWeRSuWQWwX3nrXm-2560-80.jpg",
-      "description": "Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line."
+      "headline": "Arm launches Total Design for Physical AI and robotics framework",
+      "source": "AI News",
+      "source_url": "https://www.artificialintelligence-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2lhdmltZHhQbXNFU3Z3dXgxY3hIcEk2ZHh1WHFXYWZfb01KbzVBbC1LSVB2YzUydWJrUmhmbzJxOFQxN3dJam1HSjdYR1VnY2JsQkk1dGhMTmVGVUVRbW1TbkRMTnVKUlRGcnhJVjdVWkpoOUVOUEhSSHBWYnRia01ibVE3a2ctUVB6c2xHLUk5MmNMaTlfY3JfV1RYNUtILXlhWmhiNlc?oc=5",
+      "pub_date": 1788868007.0,
+      "article_url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T00:02:49.438608+00:00"
+  "fetched_at": "2026-09-09T05:00:52.834951+00:00"
 }

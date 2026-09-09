@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T00:02:51.214166+00:00'
+updated: '2026-09-09T05:00:58.050428+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 00:02 UTC  
+**Last Updated:** September 09, 2026 at 05:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studi
 
 I'm a sophomore student in Meche and this is my first robot so it took about 2 months. It's a 3d printed robot arm built from scratch and works pretty well but its a bit wobbly (which I'm working on fixing). Its controlled by an arduino uno and 5 potentiometers. But the issue is that those potentiometers are small and covered in nets of wires. I could cut specific wire lengths and buy bigger potentiometers (and probably will) but I think there's another option. Is there some sort of robot arm simulation software that can let me control my arm smoothly on my computer without having to turn each potentiometer slightly to adjust it? I know there's Robodk but its really expensive so if there's one I can use that's free or free for students that would help a lot. Also, since I'm not really satisfied with just a robot arm since its really common for personal projects in my major, my next step is to replace the robot claw with a claw mount built to hold some sort of sprinkler or pump that waters plants when a soil moisture sensor alerts it to. The robot arm will switch to 4DOF for this, and on the opposite side of the arm link, I will also add another claw mount built to aim a grow light at the plant when a grove light sensor tells it to. Water pump aspect I'm working on, grow light is still just a thought right now.
 
-2d ago
+3d ago
 
 ---
 
@@ -116,15 +116,17 @@ Reuters • 1d ago
 
 ---
 
-**[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
+**[How China Is Turning Commercial Humanoid Robots Into Next-Generation Soldiers](https://united24media.com/world/how-china-is-turning-commercial-humanoid-robots-into-next-generation-soldiers-22374)**
 
-Technology Org • 14h ago
+China is accelerating research to deploy humanoid combat robots, drawing on a manufacturing sector that supplied 95% of global units in 2025.
+
+UNITED24 Media • 8h ago
 
 ---
 
-**[China’s EV makers see synergy in their race to beat Tesla in humanoid robotics](https://www.scmp.com/business/china-business/article/3366417/chinas-tesla-imitators-have-new-mission-build-affordable-humanoid-robots-consumers)**
+**[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
 
-South China Morning Post • 1d ago
+technology.org • 19h ago
 
 ---
 
@@ -136,33 +138,33 @@ The Robot Report • 1d ago
 
 ---
 
-**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+**[Medtronic Touts AI, Robotics and Ablation Growth at Wells Fargo Conference](https://finance.yahoo.com/healthcare/articles/medtronic-touts-ai-robotics-ablation-030206563.html)**
 
-This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+Medtronic (NYSE:MDT) executives said the medical device maker is seeing accelerating growth across major franchises and emerging product categories, supported by innovation in artificial intelligence, robotics and new therapies. Speaking at the Wells Fargo Healthcare Conference, Chairman and Chief
 
-The Washington Post • 7h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Want a humanoid in your factory? Here’s how much one could cost you.](https://uk.finance.yahoo.com/news/want-humanoid-factory-much-one-041553957.html)**
+
+Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
+
+Yahoo Finance UK • 45m ago
 
 ---
 
 **[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
 
-The Information • 4h ago
+theinformation.com • 9h ago
 
 ---
 
-**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
+**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
 
-Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
+Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-newsroom.arm.com • 22h ago
-
----
-
-**[Robots protest rampant AI in Poland](https://uk.finance.yahoo.com/news/robots-protest-rampant-ai-poland-151333617.html)**
-
-Waving flags, "chanting" slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Monday to campaign for AI regulation in front of the Polish digital affairs ministry.The marching robots were met with a visit from Poland's Digital Affairs Minister Krzysztof Gawkowski, who spoke to Kulis on site.
-
-Yahoo Finance UK • 1d ago
+New Atlas • 10h ago
 
 ---
 
@@ -170,15 +172,13 @@ Yahoo Finance UK • 1d ago
 
 The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe.
 
-Runway • 7h ago
+Runway • 12h ago
 
 ---
 
-**[Eerily humanlike AI-powered robot enters mass production in China — its makers say it could soon be helping you out at home](https://www.livescience.com/technology/robotics/eerily-humanlike-ai-powered-robot-enters-mass-production-in-china-its-makers-say-it-could-soon-be-helping-you-out-at-home)**
+**[Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)**
 
-Xpeng's engineers have designed a humanoid robot that they say is the first in the world that will walk itself off the production line.
-
-Live Science • 18h ago
+AI News • 17h ago
 
 ---
 
@@ -192,25 +192,7 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 535K • 👍 9K • 💬 746 • ⏱️ 15:41 • 6d ago
-
----
-
-**[🤖🩺 AI Medical Robot Helps a Sick Hajj Pilgrim in Makkah 🕋 | Future of Smart Healthcare](https://www.youtube.com/watch?v=qJpQz3gF8jA)**
-
-An Al-generated concept showing an advanced medical service robot helping a sick Hajj pilgrim in Makkah. The robot scans ...
-
-📺 FactoBangla
-
-👁️ 154K • 👍 4K • 💬 8 • ⏱️ 0:11 • 4d ago
-
----
-
-**[New robot match loading #automobile #howtogetheroplayersinluckyspin #lego #robot #machine #robotics](https://www.youtube.com/watch?v=yTyamW5-bzs)**
-
-📺 6210H Halapeños
-
-👁️ 6K • 👍 32 • ⏱️ 0:08 • 1d ago
+👁️ 540K • 👍 9K • 💬 746 • ⏱️ 15:41 • 6d ago
 
 ---
 
@@ -224,33 +206,13 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 ---
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
 
-📺 Julia McCoy
+📺 South China Morning Post
 
-👁️ 75K • 👍 619 • 💬 128 • ⏱️ 9:07 • 5d ago
-
----
-
-**[Pt. 8- Humanoid Robots Changed THIS Much in Just 2 Years 🤖](https://www.youtube.com/watch?v=hgURGNQzu_s)**
-
-A few years ago, simply watching a humanoid robot walk steadily, recover its balance, or complete a basic physical task felt ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 249K • 👍 2K • 💬 149 • ⏱️ 0:58 • 6d ago
-
----
-
-**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
-
-Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
-
-📺 Joe Lonsdale
-
-👁️ 53K • 👍 397 • 💬 39 • ⏱️ 8:34 • 5d ago
+👁️ 195K • 👍 2K • 💬 455 • ⏱️ 3:47 • 5d ago
 
 ---
 
@@ -260,17 +222,57 @@ The future isn't coming—it's already here. Today's AI-powered humanoid robots 
 
 📺 ejunky66
 
-👁️ 9K • 👍 138 • 💬 16 • ⏱️ 0:59 • 4d ago
+👁️ 9K • 👍 139 • 💬 16 • ⏱️ 0:59 • 4d ago
 
 ---
 
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
+**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
+Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
 
-📺 South China Morning Post
+📺 Joe Lonsdale
 
-👁️ 194K • 👍 2K • 💬 453 • ⏱️ 3:47 • 5d ago
+👁️ 54K • 👍 406 • 💬 39 • ⏱️ 8:34 • 5d ago
+
+---
+
+**[Elon Predicts ONE BILLION Humanoid Robot AI TAKEOVER](https://www.youtube.com/watch?v=dxghuf-iZ_I)**
+
+Ryan and Emily discuss Elon predicting an AI driven humanoid robot takeover. Sign Up For 30 Day Free BP Trial: ...
+
+📺 Breaking Points
+
+👁️ 250K • 👍 3K • 💬 1K • ⏱️ 8:51 • 6d ago
+
+---
+
+**[The Biggest Robot Vacuum Launches at IFA 2026 | Roborock, Dreame, DJI ROMO, iRobot &amp; Others](https://www.youtube.com/watch?v=zCXcXRmjMhc)**
+
+A hands-on look at the most interesting robot vacuums and cleaning concepts from IFA 2026—including the Roborock Saros 20 ...
+
+📺 Rawan's Reviews
+
+👁️ 37K • 👍 187 • 💬 16 • ⏱️ 9:44 • 3d ago
+
+---
+
+**[Batman Recovers a Robot from the Junkyard](https://www.youtube.com/watch?v=hLuHD7ZuoOg)**
+
+Deep inside an abandoned scrap yard, a forgotten robot was discovered buried beneath rusted metal and debris. Most people ...
+
+📺 AI TOOLS
+
+👁️ 55K • 👍 441 • 💬 12 • ⏱️ 9:36 • 6d ago
+
+---
+
+**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+
+📺 Julia McCoy
+
+👁️ 75K • 👍 621 • 💬 129 • ⏱️ 9:07 • 5d ago
 
 ---
 
@@ -280,7 +282,7 @@ AI Decoded breaks down the extraordinary scenes from the World Humanoid Robot Ga
 
 📺 BBC News
 
-👁️ 62K • 👍 291 • 💬 129 • ⏱️ 25:57 • 4d ago
+👁️ 62K • 👍 292 • 💬 129 • ⏱️ 25:57 • 4d ago
 
 ---
 
