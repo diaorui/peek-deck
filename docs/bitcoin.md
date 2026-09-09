@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-08T21:59:47.026859+00:00'
+updated: '2026-09-09T00:02:51.203394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 21:59 UTC  
+**Last Updated:** September 09, 2026 at 00:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,439.04
+### $78,483.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +1.7%  
-**30d:** +22.7%  
+**24h:** -1.2%  
+**7d:** -3.5%  
+**30d:** +23.4%  
 **90d:** +23.4%  
-**1y:** -29.7%  
+**1y:** -31.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1575.38B
+**Market Cap:** $1575.30B
 Rank #1
 
 **Circulating Supply:** 20,081,584 BTC
@@ -64,13 +64,13 @@ Rank #1
 -37.8%
 
 **All-Time Low:** $67.81
-+115589.4%
++115585.0%
 
 ---
 
 ## Fear & Greed Index
 
-### 69
+### 66
 **GREED**
 
 ---
@@ -157,17 +157,11 @@ Looked at the last six hours of Bitcoin-related tweets and the split is closer t
 
 ## Google News: "bitcoin"
 
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
-
-AP News • 1d ago
-
----
-
 **[Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident - ABC News](https://abcnews.com/Business/wireStory/singapore-man-pleads-guilty-orchestrating-240-million-bitcoin-136279302)**
 
 A 22-year-old man from Singapore has pleaded guilty to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, D.C., resident and then embarking on a wild spending spree with the laundered proceeds
 
-ABC News - Breaking News, Latest News and Videos • 4h ago
+ABC News - Breaking News, Latest News and Videos • 6h ago
 
 ---
 
@@ -179,25 +173,25 @@ Fox News • 1d ago
 
 ---
 
-**[Watch Bitcoin Hack, AMC-Robinhood Feud, Awaiting CLARITY | Bloomberg Crypto 9/8/2026 - Bloomberg](https://www.bloomberg.com/news/videos/2026-09-08/bloomberg-crypto-9-8-2026-video)**
+**[Singapore man pleads guilty to orchestrating $240 million bitcoin theft from DC resident](https://www.seattletimes.com/business/singapore-man-pleads-guilty-to-orchestrating-240-million-bitcoin-theft-from-dc-resident/)**
 
-Bloomberg.com • 24m ago
-
----
-
-**[Cathie Wood issues another bullish call on Bitcoin](https://sg.finance.yahoo.com/news/cathie-wood-issues-another-bullish-212947956.html)**
-
-ARK Invest CEO Cathie Wood analyzes Bitcoin-gold ratio to make a bullish call.
-
-sg.finance.yahoo.com • 30m ago
+The Seattle Times • 7h ago
 
 ---
 
-**[Bitcoin Volatility Is Near Historic Lows With 71% of Supply in Profit. What That Actually Describes](https://finance.yahoo.com/markets/crypto/articles/bitcoin-volatility-near-historic-lows-212505615.html)**
+**[Strategy doubles STRC buyback to $2 billion as Bitcoin treasury grows](https://finance.yahoo.com/markets/crypto/articles/strategy-doubles-strc-buyback-2-223000323.html)**
 
-Bitcoin is sitting in an unusually calm stretch with a large share of its supply quietly turning profitable, but that combination carries a hidden tension that could flip the market in either direction before September ends.
+Michael Saylor announces expanded repurchase program alongside $6.5 billion in USD assets, signaling renewed balance sheet confidence.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[He Was an 8th-Grade Dropout, Stole $245M Worth of Bitcoin](https://www.newser.com/story/396091/he-was-an-8th-grade-dropout-stole-245m-worth-of-bitcoin.html)**
+
+Malone Lam, 22, faces a maximum prison sentence of 20 years
+
+Newser • 26m ago
 
 ---
 
@@ -207,21 +201,27 @@ Reuters • 1d ago
 
 ---
 
-**[Live updates: Bitcoin slips below $78,500 as stocks close lower](https://www.coindesk.com/tech/2026/09/08/live-updates)**
+**[DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook](https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/)**
 
-CoinDesk • 1h ago
+FOREX.com • 7h ago
 
 ---
 
-**[DXY, EUR/USD, AUD/USD, USD/CAD, Gold, Bitcoin Weekly Technical Outlook](https://www.forex.com/en-us/news-and-analysis/dxy-eur-usd-aud-usd-usd-cad-gold-bitcoin-weekly-technical-outlook-9-8-2026/)**
+**[Live updates: Bitcoin slips below $78,500 as stocks close lower](https://www.coindesk.com/tech/2026/09/08/live-updates)**
 
-FOREX.com • 4h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Heavy, Unusual Put Options Volume in IREN after Bitcoin Rises Last Week](https://www.barchart.com/story/news/4476536/heavy-unusual-put-options-volume-in-iren-after-bitcoin-rises-last-week)**
 
 Barchart.com • 1d ago
+
+---
+
+**[Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell](https://seekingalpha.com/news/4640529-mark-yusko-says-he-exited-most-of-his-solana-stake-while-bitcoin-linked-assets-swell)**
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -287,7 +287,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 **[Bitcoinica](https://news.ycombinator.com/item?id=49558143)**
 
-⬆️ 2 • 💬 1 • 4d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
+⬆️ 2 • 💬 1 • 5d ago • [en.bitcoin.it](https://en.bitcoin.it/wiki/Bitcoinica)
 
 ---
 
@@ -311,23 +311,43 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[🚨 BITCOIN!!!! DO YOU REALIZE WHAT THIS MEANS?!!!! […most are wrong!]](https://www.youtube.com/watch?v=DZsbF8ezbjE)**
+**[America’s DEBT Problem Just Got WORSE | Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=6mK4TO39OkI)**
 
-Bitcoin flashes two more legacy bottom indicators! Price remains flat despite inflows. WTF is actually happening?! BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 6K • 👍 739 • 💬 79 • ⏱️ 30:05 • 3h ago
-
----
-
-**[Metaplanet Was CAUGHT Doing The UNTHINKABLE??? Here&#39;s What it Means For Bitcoin! | EP 1587](https://www.youtube.com/watch?v=qtTbzCcTxyA)**
-
-The Bitcoin Treasuries investment thesis takes another hit as Metaplanet got caught doing the unthinkable to shareholders .
+Japan dumped $90 billion in US Treasuries as the global financial system faces growing pressure. US interest costs are surging, ...
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 216 • 💬 44 • ⏱️ 1:04:48 • 4h ago
+👁️ 3K • 👍 410 • 💬 35 • ⏱️ 14:32 • 1h ago
+
+---
+
+**[Bitcoin Golden Cross](https://www.youtube.com/watch?v=YHsAbpRoB-A)**
+
+Bitcoin just had a golden cross. Normally we get dumps after golden crosses. What is more important is what happens during the ...
+
+📺 Benjamin Cowen
+
+👁️ 86K • 👍 4K • 💬 172 • ⏱️ 9:37 • 5h ago
+
+---
+
+**[BITCOIN&#39;S KEY MOMENT IS HERE](https://www.youtube.com/watch?v=RpxJY0kOQ7Y)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 198 • 💬 91 • ⏱️ 8:57 • 6h ago
+
+---
+
+**[Bitcoin To $230K+ This Cycle — Here&#39;s The Data (Bitcoin Price Prediction)](https://www.youtube.com/watch?v=VcFdqRKHxmI)**
+
+YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
+
+📺 Crypto Jebb
+
+👁️ 3K • 👍 189 • 💬 91 • ⏱️ 10:44 • 6h ago
 
 ---
 
@@ -337,7 +357,17 @@ Bitcoin just decoupled from the stock market in a way we've only seen once befor
 
 📺 Simply Bitcoin
 
-👁️ 62K • 👍 2K • 💬 146 • ⏱️ 17:14 • 1d ago
+👁️ 64K • 👍 2K • 💬 149 • ⏱️ 17:14 • 1d ago
+
+---
+
+**[Metaplanet Was CAUGHT Doing The UNTHINKABLE??? Here&#39;s What it Means For Bitcoin! | EP 1587](https://www.youtube.com/watch?v=qtTbzCcTxyA)**
+
+The Bitcoin Treasuries investment thesis takes another hit as Metaplanet got caught doing the unthinkable to shareholders .
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 239 • 💬 62 • ⏱️ 1:04:48 • 6h ago
 
 ---
 
@@ -347,67 +377,37 @@ The Iran war was never really about Iran. Bessent has all but said the plan is t
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 155 • ⏱️ 20:03 • 1d ago
+👁️ 43K • 👍 2K • 💬 158 • ⏱️ 20:03 • 2d ago
 
 ---
 
-**[EVERYONE EXPECTS THIS BITCOIN MOVE NEXT… THAT’S THE WARNING](https://www.youtube.com/watch?v=GCdwo3vTa-4)**
+**[Bitcoin Is Bleeding To Altcoins - The Next Move Will Shock EVERYONE!](https://www.youtube.com/watch?v=ZdaeQUkQe1s)**
 
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
+Crypto Priming Up For A Move That Looks EXACTLY like 2021. It Could Happen Fast! Weex - Trade TradFi, Unlock Lucky ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 The House Of Crypto
 
-👁️ 27K • 👍 837 • 💬 53 • ⏱️ 21:56 • 14h ago
-
----
-
-**[The Man Who Cracked The Crypto Algorithm Reveals MASSIVE Bitcoin Prediction | Crypto Banter](https://www.youtube.com/watch?v=GltJ86-rngo)**
-
-Follow Banter: https://www.youtube.com/@CryptoBanterGroup https://x.com/cryptomanran ✓ Bitunix (no kyc) - Claim $10k ...
-
-📺 Altcoin Daily
-
-👁️ 81K • 👍 2K • 💬 147 • ⏱️ 42:33 • 2d ago
+👁️ 15K • 👍 637 • 💬 100 • ⏱️ 15:34 • 6h ago
 
 ---
 
-**[Bitcoin Breakout Is Coming Due to These Signals...](https://www.youtube.com/watch?v=WUG_Hf_8P9U)**
+**[CAUTION: Is Bitcoin In The Process Of Rejecting? [Do This Now]](https://www.youtube.com/watch?v=HkXmpqkDwi0)**
 
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Predict Market for Crypto, Sports, & Markets ...
+Bitcoin is flashing a bearish divergence with volume fading while price grinds higher. I map the exact if/then plan: lose 76K and ...
 
-📺 CryptosRUs
+📺 Crypto Banter
 
-👁️ 24K • 👍 761 • 💬 212 • ⏱️ 12:55 • 1d ago
-
----
-
-**[WHO CAME UP WITH THE $10,000 XRP NARRATIVE? - BTC FAILS IF XRP FAILS! - XRP MOVING GOLD?](https://www.youtube.com/watch?v=QRbmA63WTC4)**
-
-WHO CAME UP WITH THE $10000 XRP NARRATIVE? - BTC FAILS IF XRP FAILS! - XRP MOVING GOLD? NEW OFFICIAL CSC ...
-
-📺 Common Sense Crypto
-
-👁️ 19K • 👍 1K • 💬 100 • ⏱️ 18:27 • 1d ago
+👁️ 21K • 👍 1K • 💬 15 • ⏱️ 26:56 • 16h ago
 
 ---
 
-**[The World&#39;s Largest Home Solo Bitcoin Miner!](https://www.youtube.com/watch?v=6zeGYkylB3w)**
+**[Bitcoin Closes at the 50 Week Moving Average](https://www.youtube.com/watch?v=WQ8ZGnoWbiU)**
 
-Learn More about the Superheat H1C Bitcoin Water Heater ➡ https://www.superheat.xyz Videos Mentioned in Today's Video ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 The Hobbyist Miner
+📺 Benjamin Cowen
 
-👁️ 15K • 👍 226 • 💬 51 • ⏱️ 14:22 • 1d ago
-
----
-
-**[Why Bitcoin On SHA-256 Is Dead Man Walking](https://www.youtube.com/watch?v=CnBGMs3eRf8)**
-
-Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss why Bitcoin on SHA-256 is ultimately ...
-
-📺 Bitcoin University
-
-👁️ 21K • 👍 1K • 💬 643 • ⏱️ 8:40 • 2d ago
+👁️ 252K • 👍 7K • 💬 324 • ⏱️ 14:36 • 1d ago
 
 ---
 
