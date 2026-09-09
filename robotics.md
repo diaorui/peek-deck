@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T09:36:42.545442+00:00'
+updated: '2026-09-09T14:12:50.191691+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 09:36 UTC  
+**Last Updated:** September 09, 2026 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,39 +116,9 @@ Reuters • 1d ago
 
 ---
 
-**[How China Is Turning Commercial Humanoid Robots Into Next-Generation Soldiers](https://united24media.com/world/how-china-is-turning-commercial-humanoid-robots-into-next-generation-soldiers-22374)**
+**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-China is accelerating research to deploy humanoid combat robots, drawing on a manufacturing sector that supplied 95% of global units in 2025.
-
-UNITED24 Media • 13h ago
-
----
-
-**[Chinese Defence Research Wants Humanoid Robots for Urban Combat Roles](https://www.technology.org/2026/09/08/china-humanoid-robots-military-combat-research/)**
-
-Technology Org • 1d ago
-
----
-
-**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
-
-Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
-
-The Robot Report • 1d ago
-
----
-
-**[First Hydrogen Signs Definitive Agreement for Advanced Robotics Technology with Extensive IP and Prepares to Launch First Humanoid](https://finance.yahoo.com/technology/ai/articles/first-hydrogen-signs-definitive-agreement-070500870.html)**
-
-Vancouver, British Columbia--(Newsfile Corp. - September 9, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that further to the February 23, 2026 and June 9, 2026 news releases, that it has signed a Definitive Agreement with Exodus Actuation Solutions Inc. ("RoboticsCo"). RoboticsCo holds a portfolio of patents and related intellectual property ("IP"), focused on advanced actuation, gearbox, motor and robotics technologies....
-
-Yahoo Finance • 2h ago
-
----
-
-**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
-
-The Information • 14h ago
+WSJ • 4h ago
 
 ---
 
@@ -156,7 +126,29 @@ The Information • 14h ago
 
 Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
 
-Business Insider • 5h ago
+Business Insider • 9h ago
+
+---
+
+**[Exclusive: Mistral robotics chief seeks €200m for new startup](https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup)**
+
+French AI scaleup Mistral launched its own robotics business unit last year.
+
+Sifted • 4h ago
+
+---
+
+**[Billionaire Stanley Druckenmiller Dumped 2 Chip Stocks to Load Up On These 2 Robotics-Focused AI Plays](https://www.fool.com/investing/2026/09/09/billionaire-stanley-druckenmiller-chip-stock-robot/)**
+
+Druckenmiller is considered one of the best investors of all time.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
+
+The Information • 19h ago
 
 ---
 
@@ -164,21 +156,31 @@ Business Insider • 5h ago
 
 Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-New Atlas • 15h ago
+New Atlas • 20h ago
 
 ---
 
-**[Runway News | The Kinetix Team is Joining Runway](https://runway.com/news/company-news/kinetix-joins-runway)**
+**[Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk](https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk)**
 
-The team from Kinetix, a Paris research lab known for 3D human motion and physically-grounded video generation, is joining Runway to advance world models for robotics and grow Runway's research presence in Europe.
+Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
-Runway • 17h ago
+futurism.com • 14h ago
 
 ---
 
-**[Arm launches Total Design for Physical AI and robotics framework](https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/)**
+**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
 
-AI News • 21h ago
+Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
+
+Arm Newsroom • 1d ago
+
+---
+
+**[Hackaday Europe 2026: Outdoors With Robots](https://hackaday.com/2026/09/08/hackaday-europe-2026-outdoors-with-robots/)**
+
+Erin Kennedy has been building robots for over a decade now, with a focus on smaller bots that interact with, or maybe even clean up, the outdoor environment. Still other bots are made to interact …
+
+Hackaday • 22h ago
 
 ---
 
@@ -192,27 +194,27 @@ In-context learning for robots has been a long-anticipated capability, as it cou
 
 📺 bycloud
 
-👁️ 545K • 👍 9K • 💬 749 • ⏱️ 15:41 • 6d ago
+👁️ 551K • 👍 9K • 💬 754 • ⏱️ 15:41 • 6d ago
 
 ---
 
-**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
+**[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
 
-A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
 
-📺 CBS Chicago
+📺 PRO ROBOTS
 
-👁️ 297K • 👍 2K • 💬 645 • ⏱️ 1:44 • 5d ago
+👁️ 29K • 👍 441 • 💬 47 • ⏱️ 15:17 • 4d ago
 
 ---
 
-**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
+**[These tiny robots can remove microplastics from soil🔬 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=J1tXex4thQI)**
 
-Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
+Researchers in the Czech Republic have built microscopic robots that pull microplastics out of contaminated soil and water.
 
-📺 Joe Lonsdale
+📺 The Rundown AI
 
-👁️ 55K • 👍 410 • 💬 39 • ⏱️ 8:34 • 5d ago
+👁️ 14K • 👍 1K • 💬 24 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -222,47 +224,47 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 195K • 👍 2K • 💬 458 • ⏱️ 3:47 • 5d ago
+👁️ 196K • 👍 2K • 💬 460 • ⏱️ 3:47 • 6d ago
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
 
-📺 ejunky66
+📺 Joe Lonsdale
 
-👁️ 9K • 👍 139 • 💬 16 • ⏱️ 0:59 • 5d ago
-
----
-
-**[The Biggest Robot Vacuum Launches at IFA 2026 | Roborock, Dreame, DJI ROMO, iRobot &amp; Others](https://www.youtube.com/watch?v=zCXcXRmjMhc)**
-
-A hands-on look at the most interesting robot vacuums and cleaning concepts from IFA 2026—including the Roborock Saros 20 ...
-
-📺 Rawan's Reviews
-
-👁️ 37K • 👍 187 • 💬 16 • ⏱️ 9:44 • 4d ago
+👁️ 55K • 👍 414 • 💬 39 • ⏱️ 8:34 • 5d ago
 
 ---
 
-**[A Robot Just Beat Usain Bolt. Then It Forgot How to Stop](https://www.youtube.com/watch?v=9eqetq-czOw)**
+**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *Unitree's humanoid hit 12.66 meters per ...
+A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
 
-📺 Julia McCoy
+📺 New York Post
 
-👁️ 75K • 👍 621 • 💬 129 • ⏱️ 9:07 • 5d ago
+👁️ 58K • 👍 802 • 💬 273 • ⏱️ 1:16 • 5d ago
 
 ---
 
-**[Humanoid robots tackle household chores as demand grows](https://www.youtube.com/watch?v=868RW3lYZ3M)**
+**[Best of Aqua Teen Hunger Force | Robot Chicken [adult swim] Special | adult swim](https://www.youtube.com/watch?v=Mx4SWuo_zMs)**
 
-A San Francisco startup is offering humanoid robots for household tasks at $30 an hour, with demand reportedly outpacing ...
+The Robot Chicken [adult swim] Special is streaming on HBO Max. Watch Adult Swim on HBO Max: ...
 
-📺 CBS19
+📺 Adult Swim
 
-👁️ 42K • 👍 83 • 💬 60 • ⏱️ 0:27 • 5d ago
+👁️ 148K • 👍 2K • 💬 344 • ⏱️ 7:10 • 4d ago
+
+---
+
+**[XPENG Robotics Production Line Officially Launched](https://www.youtube.com/watch?v=p9P84bt3AQY)**
+
+We made it! XPENG launches the world's first automated production line for advanced general‑purpose humanoid robots, marking ...
+
+📺 XPENG
+
+👁️ 79K • 👍 580 • 💬 92 • ⏱️ 2:28 • 1d ago
 
 ---
 
@@ -272,17 +274,17 @@ The first XPeng Iron humanoid robot just walked off the Chinese EV maker's new p
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 44 • 💬 2 • ⏱️ 1:14 • 6h ago
+👁️ 2K • 👍 62 • 💬 3 • ⏱️ 1:14 • 10h ago
 
 ---
 
-**[These Robots Can Sprint. But Can They Think? | BBC News](https://www.youtube.com/watch?v=IaeTPQh4ewE)**
+**[Making Tentacle Robots Useful](https://www.youtube.com/watch?v=BvGphB0iaHE)**
 
-AI Decoded breaks down the extraordinary scenes from the World Humanoid Robot Games in Beijing, where robotic athletes ...
+Ad: Check out PCBWay for all your project needs! Get $10 off orders over $30 with code: PCBWay-JamesBruton-10 ...
 
-📺 BBC News
+📺 James Bruton
 
-👁️ 62K • 👍 293 • 💬 129 • ⏱️ 25:57 • 4d ago
+👁️ 155K • 👍 3K • 💬 290 • ⏱️ 20:27 • 1d ago
 
 ---
 
