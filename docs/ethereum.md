@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-08T21:59:47.031033+00:00'
+updated: '2026-09-09T00:02:51.210181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 08, 2026 at 21:59 UTC  
+**Last Updated:** September 09, 2026 at 00:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,488.51
+### $2,485.91
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +3.8%  
-**30d:** +32.5%  
-**90d:** +48.2%  
-**1y:** -42.5%  
+**24h:** -0.7%  
+**7d:** -0.8%  
+**30d:** +32.1%  
+**90d:** +49.3%  
+**1y:** -42.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.63B
+**Market Cap:** $303.21B
 Rank #2
 
 **Circulating Supply:** 122,029,705 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.8%
 
 **All-Time Low:** $0.43
-+572653.0%
++573773.1%
 
 ---
 
@@ -172,15 +172,13 @@ CryptoSlate • 1d ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitmine Buys $69M in Ether, Closes In on 5% of Ethereum Supply](https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html)**
+**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
 
-Bitmine Immersion Technologies (NYSE: $BMNR) added another 28,086 Ether (CRYPTO: $ETH) to its holdings last week, b...
-
-Yahoo Finance • 6h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -188,13 +186,21 @@ Yahoo Finance • 6h ago
 
 Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
 
-PR Newswire • 9h ago
+PR Newswire • 11h ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[ETH news: Ethereum makes quantum resistance a top priority with a 2029 deadline](https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline)**
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level](https://www.tradingview.com/news/benzinga:54b62c1db094b:0-bitcoin-ethereum-xrp-slide-but-dogecoin-gains-analyst-says-we-re-not-in-a-bull-market-if-btc-doesn-t-quickly-bounce-from-this-level/)**
+
+Leading cryptocurrencies fell on Monday as geopolitics and elevated oil prices trimmed risk-on appetite.Long Liquidations SpikeBitcoin bulls awaited a breakout above $80,000, even as trading volume surged 12% over the last 24 hours.Ethereum also recorded a spike in trading activity as the second-la…
+
+TradingView • 21h ago
 
 ---
 
@@ -202,23 +208,15 @@ CoinDesk • 8h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-The Block • 17h ago
+The Block • 19h ago
 
 ---
 
-**[Current price of Ethereum for Sept. 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
+**[Current price of Ethereum for September 8, 2026](https://fortune.com/article/price-of-ethereum-09-08-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 8h ago
-
----
-
-**[Bitcoin has already won its battle, whereas Ethereum is only starting its own](https://investinglive.com/cryptocurrency/bitcoin-has-already-won-its-battle-whereas-ethereum-is-only-starting-its-own/)**
-
-Ethereum is out to prove that it deserves an institutional valuation of its own
-
-investingLive • 12h ago
+Fortune • 10h ago
 
 ---
 
@@ -234,13 +232,23 @@ FXStreet • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 5K • 👍 163 • 💬 54 • ⏱️ 14:25 • 8h ago
+
+---
+
 **[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
 
 BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
 
 📺 The Bureau Podcast
 
-👁️ 299 • 👍 7 • 💬 1 • ⏱️ 0:56 • 4h ago
+👁️ 520 • 👍 12 • 💬 1 • ⏱️ 0:56 • 6h ago
 
 ---
 
@@ -250,7 +258,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 16K • 👍 532 • 💬 47 • ⏱️ 3:29 • 1d ago
+👁️ 17K • 👍 533 • 💬 47 • ⏱️ 3:29 • 1d ago
+
+---
+
+**[A PRÓXIMA ETHEREUM ESTÁ AQUI](https://www.youtube.com/watch?v=3Xz_MeDaF3s)**
+
+A PRÓXIMA ETHEREUM ESTÁ AQUI Proteja suas criptos com a Ledger e ganhe $20 em BTC de bônus     ...
+
+📺 Luiz Fernando
+
+👁️ 1K • 👍 225 • 💬 17 • ⏱️ 29:01 • 2h ago
 
 ---
 
@@ -260,7 +278,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 50K • 👍 615 • 💬 49 • ⏱️ 18:40 • 1d ago
+👁️ 51K • 👍 623 • 💬 50 • ⏱️ 18:40 • 1d ago
+
+---
+
+**[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
+
+Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
+
+📺 More Crypto Online
+
+👁️ 12K • 👍 280 • 💬 21 • ⏱️ 12:04 • 23h ago
 
 ---
 
@@ -270,7 +298,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 171 • 👍 6 • 💬 18 • ⏱️ 5:04 • 6h ago
+👁️ 230 • 👍 7 • 💬 18 • ⏱️ 5:04 • 8h ago
 
 ---
 
@@ -284,26 +312,6 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 ---
 
-**[Ethereum: NON TE LO DICONO...](https://www.youtube.com/watch?v=cwWtPsUbnfc)**
-
-GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: NON TE LO DICONO... Nuova analisi su ETH ! Vediamo insieme ...
-
-📺 Jacopo Marini
-
-👁️ 143 • 👍 20 • 💬 1 • ⏱️ 15:44 • 1h ago
-
----
-
-**[ETH BREAKOUT OR PULLBACK? (Ethereum Price Prediction)](https://www.youtube.com/watch?v=92hwVUJG9Lw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 681 • 👍 18 • 💬 1 • ⏱️ 4:34 • 13h ago
-
----
-
 **[XRP, Bitcoin &amp; Ethereum Are Taking Over The World This Video Will Change How You Invest In Crypto](https://www.youtube.com/watch?v=_Ypiitx5_k8)**
 
 Things are about to get insane in the cryptocurrency market. The last few years have shown us one thing... companies, banks and ...
@@ -314,23 +322,13 @@ Things are about to get insane in the cryptocurrency market. The last few years 
 
 ---
 
-**[BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=VdfFB1p_EWc)**
+**[Ethereum: NON TE LO DICONO...](https://www.youtube.com/watch?v=cwWtPsUbnfc)**
 
-BITCOIN WARNING SIGNAL STILL ACTIVE (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: NON TE LO DICONO... Nuova analisi su ETH ! Vediamo insieme ...
 
-📺 Crypto World
+📺 Jacopo Marini
 
-👁️ 12K • 👍 293 • 💬 561 • ⏱️ 19:13 • 21h ago
-
----
-
-**[Why Ethereum Could Be the Ultimate Long-Term Altcoin](https://www.youtube.com/watch?v=HyAC7IrWU14)**
-
-This video looks at Ethereum's current position within the broader cryptocurrency market and blockchain ecosystem. It covers ...
-
-📺 Crypto Vlog
-
-👁️ 5K • 💬 37 • ⏱️ 0:48 • 1d ago
+👁️ 344 • 👍 28 • 💬 2 • ⏱️ 15:44 • 3h ago
 
 ---
 
