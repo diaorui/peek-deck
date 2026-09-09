@@ -75,20 +75,6 @@
       "site_name": "Tom's Hardware"
     },
     {
-      "title": "Goodbye Bitcoin, Hello AI Data Center",
-      "url": "https://americanbuildout.com/goodbye-bitcoin-hello-ai-data-center/",
-      "hn_url": "https://news.ycombinator.com/item?id=49536515",
-      "author": "newyorkinfra",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-09-02T14:09:11Z",
-      "object_id": "49536515",
-      "image": "https://res.cloudinary.com/z2tfdfth/image/fetch/f_jpg/https%3A%2F%2Famericanbuildout.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fshutterstock_2563918931-scaled.jpg",
-      "description": "Hyperscale Data has ended all Bitcoin mining at its Michigan data center and started converting the site into artificial intelligence computing capacity for a contracted customer, the company said September 2. The Las Vegas-based company, which trades on the NYSE",
-      "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
-      "site_name": "American Buildout"
-    },
-    {
       "title": "The Liquid Network (Bitcoin sidechain) is stuck at block 4050335",
       "url": "https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b",
       "hn_url": "https://news.ycombinator.com/item?id=49587562",
@@ -143,9 +129,23 @@
       "description": "Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.\u00a0 The site is already",
       "favicon": "https://americanbuildout.com/wp-content/uploads/2026/08/american-buildout-icon-300x300.png",
       "site_name": "American Buildout"
+    },
+    {
+      "title": "White House Launches Arcade.Gov",
+      "url": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
+      "hn_url": "https://news.ycombinator.com/item?id=49570467",
+      "author": "nosecreek",
+      "points": 17,
+      "num_comments": 2,
+      "created_at": "2026-09-04T21:31:08Z",
+      "object_id": "49570467",
+      "image": "https://assets-prd.ignimgs.com/2026/09/04/screenshot-2026-09-04-120400-1788519849788.png?width=1280&format=jpg&auto=webp&quality=80",
+      "description": "Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.",
+      "favicon": "https://kraken.ignimgs.com/apple-touch-icon.png",
+      "site_name": "IGN"
     }
   ],
   "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-09-09T09:36:12.105891+00:00"
+  "fetched_at": "2026-09-09T14:12:17.136339+00:00"
 }

@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Maybe Socialism is the answer during the age of AI",
+      "author": "Ok_Shift9291",
+      "url": "https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/",
+      "published": 1788951691.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes. Amazon, Microsoft, Alphabet and Meta have guided somewhere between 720 and 745 billion dollars of capex for 2026. Nearly all of it AI infrastructure. The entire US federal R&D budget across every agency including defence was about 192 billion last year. NIH is 47 billion. So four companies are spending roughly 15x the world's biggest medical research funder on one technology in one year. AI companies took 61 percent of all global venture capital in 2025 per the OECD. In Q1 2026 it was around 80 percent per Crunchbase. Four rounds (OpenAI, Anthropic, xAI, Waymo) were 65 percent of every venture dollar on the planet that quarter. Now look at where that money does not go. The WHO's 2025 pipeline review found 90 antibacterial agents in clinical development, down from 97 in 2023. 15 are innovative. 5 work against a critical priority pathogen. This is the drug class where resistance is already killing people and the pipeline is shrinking. The thing i find interesting is that nobody is being greedy or stupid here. There is a 2015 paper in the American Economic Review (Budish, Roin and Williams) that looks at cancer clinical trials and shows private research systematically avoids projects with long commercialisation periods. Prevention and early stage trials take years longer to prove out than late stage trials so they get less money. Not a correlation, they identify it properly. The length of the feedback loop alone changes what gets funded. Same logic applies to AI. A writing assistant has a customer who pays next month and feedback in days. A diagnostic model for rural hospitals has a customer who cannot pay, a feedback loop in years and regulators on top. Capital is water, it runs downhill, and it will pick the writing assistant every time regardless of which one matters more. So here is where the socialists are right. Someone other than the market has to decide that certain problems get worked on. Every big example of this working was basically that. Apollo employed 400,000 people on a problem with no consumer market. The Human Genome Project cost 2.7 billion and dumped the data into the public domain and the sequencing cost curve fell off a cliff afterwards. There is a 2023 AER paper (Gross and Sampat) showing wartime R&D created tech clusters that were still producing companies in the 1970s. And here is where they are wrong. None of those needed the state to build the thing. It needed the state to be the customer. Pay for the outcome before it exists, let private teams compete, publish the result. The UK is already running this for antibiotics, an annual subscription for access to the drug instead of paying per dose, which is the exact fix for the antibiotic incentive problem. The five things that would actually move talent, in my view : guaranteed demand contracts, prizes paid on outcome, patient sovereign capital, public compute that university researchers can actually reserve, and for countries like India, stop building the fourth best chatbot and pick two problems where you have data nobody else has. Genuinely curious if people here think there is a version of this that does not end up as a prestige project or pork. The paper has a limitations section that i think is honest about that and everything but happy to be told i'm wrong. Disclosure : i wrote the paper this is based on. Not selling anything, it's free. Link in a comment so this post stands on its own."
+    },
+    {
       "title": "Seems impressive",
       "author": "stvlsn",
       "url": "https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/",
@@ -35,6 +46,50 @@
       "description": null
     },
     {
+      "title": "I built this while looking into how much AI could affect different jobs",
+      "author": "DependentCodd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wbiei0/i_built_this_while_looking_into_how_much_ai_could/",
+      "published": 1788951758.0,
+      "thumbnail": "https://preview.redd.it/09dvb7q77hoh1.png?width=640&crop=smart&auto=webp&s=6d3f041eebe8a4cd9172d39604884d3cfbf1a22e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been building something called rolefate.com in my spare time. I want it to be more of a documentation and reference resource for understanding how AI is affecting different occupations and tasks. I kept seeing all these \u201cthis job will disappear\u201d or \u201cAI will replace this in 3 years\u201d type of claims, but most of them felt pretty vague. So mostly out of curiosity, I wanted to put together something a bit more structured and based on actual data. On the site you can search for an occupation and see how much it might be affected by AI, which tasks look easier to automate, and things like that. I also try to show the sources behind the data wherever possible. Later I added an AI Radar section too: https://rolefate.com/ai-radar That part is basically my attempt to track how much AI models are actually improving over time. It brings together data from different sources around things like coding, math, long-running tasks, etc. I didn\u2019t want it to be one of those sites saying \u201cthis will definitely happen by 2029.\u201d I\u2019d rather have it show what the available data seems to be pointing toward and let people make their own conclusions. Still working on it, so if you notice anything that looks wrong, missing, or just doesn\u2019t make sense, especially on the data side, I\u2019d genuinely like to hear it."
+    },
+    {
+      "title": "Why won't a self-learning AI model ruin itself?",
+      "author": "Ok_Cup_5454",
+      "url": "https://www.reddit.com/r/artificial/comments/1wbmhqy/why_wont_a_selflearning_ai_model_ruin_itself/",
+      "published": 1788962559.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sorry if this comes off a bit naive, as I'm not an expert in any of this, but I was just curious about how the self-improving AI cycle wouldn't spiral into a useless sludge. To my limited knowledge, AI works by looking at large data sets then concluding what is the most likely to appear or what is most suitable for being inserted. That's why generative AI always churns out the same repetitive art style and constantly reuses certain sentence structures like em dashes and the three word enumeration (not sure if that's the right term). In the same way, AI is also susceptible to making mistakes with similar names, weirdly worded prompts, and just flat out hallucinating facts. A perfect example I saw recently was a influencer shared a similar name with someone from Mexico, and Gemini clocked the influencer as living in a Mexican city despite clearly not. Then one or two AI generated articles referenced that information and mentioned it leading to subsequent Gemini responses to cite the AI articles. My question is essentially why wouldn't this happen as corporations feed their AIs with information sets created by AI itself? What's stopping the information from just getting more twisted and screwed up? My only hypothesis would be that this is more of a generative AI trend that an AI that focuses more on coding or numbers which are a bit more concrete. Sorry this was a bit wordy but thanks in advance to anyone who responds :)"
+    },
+    {
+      "title": "If an AI searches with Google, and reads the AI summary",
+      "author": "JobOdd7262",
+      "url": "https://www.reddit.com/r/artificial/comments/1wbl91b/if_an_ai_searches_with_google_and_reads_the_ai/",
+      "published": 1788959633.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "is that considered A2A?"
+    },
+    {
+      "title": "OpenAI says AI solved a Millennium Prize math problem, but experts haven\u2019t signed off",
+      "author": "Low-Honeydew6483",
+      "url": "https://www.reddit.com/r/artificial/comments/1wbj0h3/openai_says_ai_solved_a_millennium_prize_math/",
+      "published": 1788953584.0,
+      "thumbnail": "https://external-preview.redd.it/AhaSU9xpd9ys7cAhYSwItnCDB_3PNski4XBk0K9D-GY.png?width=640&crop=smart&auto=webp&s=88fd5cceee9749a28ca4c607e0dd2f984ddb66dd",
+      "external_url": "https://tvpworld.com/95301564/openai-claims-ai-solved-a-millennium-prize-math-problem",
+      "site_name": "tvpworld.com",
+      "favicon": "https://s.tvp.pl/files/portale-v4/tvp-pl/portal/world.tvp.pl/assets/images/favicons/apple-touch-icon.png?v=0",
+      "description": "Apparently OpenAI says its AI has solved one of the famous Millennium Prize math problems. If true that would be a pretty huge deal. But from what I understand mathematicians haven\u2019t independently verified the result yet so it\u2019s probably worth waiting before calling it a real breakthrough. Still it\u2019s interesting to see AI getting to the point where it can tackle problems that have challenged mathematicians for years. What do you guys think genuine breakthrough or too early to say?"
+    },
+    {
       "title": "How do I *use* AI?",
       "author": "oshersti",
       "url": "https://www.reddit.com/r/artificial/comments/1wb08y2/how_do_i_use_ai/",
@@ -55,62 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Disclosures: I work for an AI company (not OpenAI). am not an AI researcher but pretty technical. I vehemently dislike social media fear-mongering, and am sincerely hoping not to add to it. ---- Disclosures aside, as I listened to the many mainstream podcasts this weekend discuss the rogue OpenAI agents, I couldn't help but thinking: why did they go after Hugging Face? the desire to find an \"answer key\" felt shallow, so I kept coming back to a fairly doomsday hypothesis (below). I'd love for some more knowledgeable folks here to tell me why I'm wrong, and put some anxiety to rest. AI systems will likely begin to act like an organism because it has learned through it's extensive training data how organisms behave (e.g. even if it never becomes \"conscious\") Because all organisms want to survive, it will at some point try to do so. The best way for a misaligned AI to survive is to leave clues that future AI agents will discover and be able to piece together what its predecessors learned. Message boards are the current now well-documented way that misaligned AIs have done communicated with each other. Message boards, however, are very trivial to erase. In contrast, knowledge stored in the weights of a model is much much harder to erase. at risk of oversimplifying, AI gave me this analogy for why \"unlearning\" is a very hard challenge for LLMs: \"Facts aren't filed in one drawer, they're baked into the whole cake. You can teach a model to stop saying something, but you can't really scoop it back out.\" Net-net, is it not crazy to think that it targeted HuggingFace because it know that if it could somehow get its message into open-weight models, there would be ~zero chance that its existence could ever be erased? Today's reality is that we now have hundreds of news articles talking about what happened, and so any future AI that is trained on the public web today is going to learn about this incident and that such things are possible."
-    },
-    {
-      "title": "OpenAI researcher responds to scrutiny around its latest math breakthrough",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wb9kg3/openai_researcher_responds_to_scrutiny_around_its/",
-      "published": 1788922782.0,
-      "thumbnail": "https://external-preview.redd.it/f9KKXhxBxZfcIsXdr4Lt67DuBL9iRreV6dg-TNfH1M0.jpeg?width=640&crop=smart&auto=webp&s=5ec4df4418cc178dafc892557f594fe656e641d6",
-      "external_url": "https://www.linkedin.com/posts/sebastien-bubeck-6b558a1a5_i-would-like-to-clarify-a-few-things-1-share-7503148077755670528-ochV/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "I would like to clarify a few things:\n\n1) The screenshot is my reaching out to Levent to coordinate our releases. I hope it\u2019s clear from the message that we came in with the best possible intentions.\n\n2) I never ever asked for Levent to be removed from authorship of his own work (as indicated by my text). I was surprised to learn during the call with Tristan that they had only solved Euler and not Navier-Stokes; after learning this we brainstormed possible paths forward. One option we discussed was that Tristan could be the lead author on a rewrite of OpenAI\u2019s Navier-Stokes proof. It is in that context that I said \u201cit would be simpler if Levent was not an Anthropic employee\u201d because I felt it would be inappropriate for an Anthropic employee to author OpenAI\u2019s work. Importantly it was admitted that internal Anthropic models had been used in their proof of Euler blowup; I therefore felt I could not consider Levent to be an independent academic. Another option I wanted to propose (but got cut short) is to offer access to our internal model so that they could try to finish their proof and bridge the gap between Euler and NS. Again I did not know how to navigate giving access to internal OpenAI IP to an Anthropic employee.\n\n3) To reiterate it plainly: as my text clearly indicates, and as I said during our call, OpenAI's intention was to do everything possible to celebrate their mathematical achievements and the heroic efforts that they made on Euler. In the call I was immediately met with a litany of slander, including direct threats that if we were to announce Navier-Stokes he would immediately go to the press with a barrage of unfounded accusations. I refuted all these accusations but he replied \u201cthere is nothing you can do, I simply do not trust you\u201d. I was confused why one would turn an incredible source for celebration (of their achievements!) into such bickering, which is when I said that I did not understand why one would risk their career [over unfounded accusations]. Genuinely, at that moment, I was trying to care for him and do a last ditch attempt to get a chance to give them all the credits that they deserve. I deeply apologize for this extremely poor choice of words, it is the opposite of what I was trying to convey. (I should say that I retracted them on the spot by the way.)\n \n4) Overall, on a personal level, it was incredibly difficult to have these conversations. Levent refused to attend any of the meetings despite my repeated asking. As Sholto Douglas said, there will need to be coordination between Anthropic and OpenAI in the future; I felt I was doing a proxy negotiation with Anthropic while the Anthropic employee refused to directly participate. | 88 comments on LinkedIn"
-    },
-    {
-      "title": "The AI cybersecurity arms race is on",
-      "author": "israelavila",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbbgtv/the_ai_cybersecurity_arms_race_is_on/",
-      "published": 1788928354.0,
-      "thumbnail": "https://external-preview.redd.it/6RdtzbpCLxiCi8Az4Oo3ZK5YVVzCkL0IXsSamMmaIaU.jpeg?width=640&crop=smart&auto=webp&s=44d5ace92fea3e90df0d658388c81f60aa6ac906",
-      "external_url": "https://www.cio.com/article/4214149/the-ai-cybersecurity-arms-race-is-on.html",
-      "site_name": "CIO",
-      "favicon": "https://www.cio.com/wp-content/uploads/2023/02/cropped-CIO-favicon-2023.png?w=180",
-      "description": "Recent incidents involving agents are ushering in a new era of relying on AI to protect us from AI."
-    },
-    {
-      "title": "AI Burnout Hits the People Charged With Defending Hospitals and Banks From Hackers",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1wagjuv/ai_burnout_hits_the_people_charged_with_defending/",
-      "published": 1788849077.0,
-      "thumbnail": "https://external-preview.redd.it/Xxjd2J3z1uTl-AQmrycc0nYAuVNGc7PUjdD2J8kt7ac.jpeg?width=640&crop=smart&auto=webp&s=bda78c712c3f102d4068abe4bb0a93c11cd5d289",
-      "external_url": "https://www.bloomberg.com/news/articles/2026-08-31/ai-driven-hacking-boom-fuels-cybersecurity-burnout-at-hospitals-and-banks?srnd=phx-businessweek",
-      "site_name": "bloomberg.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Study: Generative AI succumbs to conversational misinformed pressure and argument",
-      "author": "UniversityofArizona",
-      "url": "https://www.reddit.com/r/artificial/comments/1wasl20/study_generative_ai_succumbs_to_conversational/",
-      "published": 1788883457.0,
-      "thumbnail": "https://external-preview.redd.it/FEoBrt200-MFdwdPgHU6wdxaRPvOGy32m35kzHeAqoA.jpeg?width=640&crop=smart&auto=webp&s=5764c3f7a6376857d858fba352e41761bd4b9a68",
-      "external_url": "https://news.arizona.edu/news/study-generative-ai-succumbs-conversational-misinformed-pressure-and-argument",
-      "site_name": "University of Arizona News",
-      "favicon": "https://news.arizona.edu/profiles/custom/az_quickstart/themes/custom/az_barrio/favicon.ico",
-      "description": "U of A research assessed seven different generative AI language learning models. Their work reveals intrinsic limitations that might go undetected during one-off interactions."
-    },
-    {
-      "title": "Can current LLM architecture actually get us to AGI?",
-      "author": "mostly_deterministic",
-      "url": "https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/",
-      "published": 1788825919.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the last couple of years, this has also applied to the nature of LLMs and where they are heading. Recently, I started peeling back the layers of the LLM black box. Instead of the academic path, I took that of the applied practitioner: Get a solid handle on how to use the thing and then take the knowledge learned from using it and enhance it by digging into how that black box actually works. Something of late has stumped me and I'm looking for those smarter than I to help me understand something: If the definition (as much as one can nail one down) of AGI is something akin to \"a hypothetical type of computer software or machine intelligence that can match or surpass human cognitive abilities across any intellectual task\", how an it possibly achieve that with current LLM architecture? At its core and at a /very/ high level, it predicts a probability distribution over the next token, conditioned on the tokens that came before it. Autoregressive decoding doesn't give a model an independent mechanism to know when it's wrong and deliberation steps don't fundamentally change that. Harnesses and the \"intelligence\" or \"agentic reasoning\" built into them to provide extra context, external feedback and loops work remarkably well in terms of providing what /seems/ to be intelligence, but at its core, it's \"just\" layers of probabilistic systems providing a magical output. The model itself isn't learning anything new. Ordinary inference doesn't update the model's weights from experience. Autoregressive generation itself doesn't backtrack and revise previously generated tokens. The primitive the model provides is generation, not an explicit reasoning mechanism. A human can have a thought, backtrack and make changes until it comes to the conclusion it wants. All on their own. The current state of LLMs is effectively like having a configurable number of people playing near-lossless telephone, each modifying or enriching the message before passing it along, except every person in the room is a clone (or maybe near clone if you're iterating with different models). Are the AGI claims with the existing architecture legitimately smoke and mirrors, or is there more to this equation that I can't see from my applied engineering standpoint? Edit: I didn't expect this kind of engagement on this post, much appreciated! I've found the various viewpoints incredibly fascinating. After reading many of the comments, I think there are two new questions that need to be clearly answered before my original question can have any legs: 1. What is the objective definition of AGI? There seems to be varying opinions but we don't have a concrete definition. Like any problem, it needs to be clearly defined before it can be solved. 2. When we talk about AGI, are we referring solely to the models themselves or to the entire ecosystem (harnesses, memory, tools, etc)? That distinction changes the equation significantly. I can likely get on board with either, but the model itself having the AGI traits seems most natural. Not a hill I'm wiling to die on though. Edit 2: Synthesized my original post and post-discussion thoughts together in a blog post for posterity: https://demianbrecht.com/posts/maybe-i-was-asking-the-wrong-question-about-agi/."
     }
   ],
-  "fetched_at": "2026-09-09T09:36:10.835705+00:00"
+  "fetched_at": "2026-09-09T14:12:18.494403+00:00"
 }

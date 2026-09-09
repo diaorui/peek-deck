@@ -5,31 +5,41 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5",
-      "pub_date": 1788937602.0,
-      "article_url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342851-1785448588442-gettyimages-2283765640-AI_MODELS.jpeg?v=1786641567&w=1920&h=1080",
-      "description": "An Anthropic safety researcher said there is a greater than 10% chance AI could \"kill all humans\" after a former colleague quits over safety concerns."
+      "headline": "Anthropic researcher quits, calls AI an existential threat to humanity",
+      "source": "mashable.com",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
+      "pub_date": 1788940510.0,
+      "article_url": "https://mashable.com/tech/anthropic-ai-researcher-quit-ethics-safety",
+      "image": "https://helios-i.mashable.com/imagery/articles/00uHYXuSgiouabJXnKqsldc/hero-image.fill.size_1200x675.v1788937396.png",
+      "description": "An Anthropic spokesperson confirmed it believes AI could kill all humans."
     },
     {
-      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5",
-      "pub_date": 1788901029.0,
-      "article_url": "https://www.bbc.com/news/articles/cy7zygy3rl2o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-      "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy."
+      "headline": "Is AI Music Going Legit? Suno Launches New Models Built on a Major Label Catalog",
+      "source": "Rolling Stone",
+      "source_url": "https://www.rollingstone.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTN0aHNxeHdjTkxmVF9mb041cl90TVpKTmNoOEZKQjRmbE5haGpfZ3NSVDVfcGFyWldYYU9DYXp2aHRFTFpIaFVrRld6RGI1eHh1bm92cHp5QlU1Q0xLcDM4Wk5qSHRwdl85a2xURGw2NXRraURWRWEtQnhJb3NZTEQyWGNGbGJrb2xnazZLaG5LNnZYZ01UYk5n?oc=5",
+      "pub_date": 1788961480.0,
+      "article_url": "https://www.rollingstone.com/music/music-news/suno-new-model-v6-warner-music-group-1235623431/",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/suno-new-model.jpg?w=1600&h=900&crop=1",
+      "description": "Suno's v6 models were trained on Warner Music Group's songs -- WMG isn't saying whether artists had the ability to opt out"
+    },
+    {
+      "headline": "AI data centers could leave Earth as SpaceX eyes orbital infrastructure",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51U3RlX3FWUkFVTjIwcXk2elFSa2hJWkF1X3p3U2FpTFJ1bGY1ZzlRQ1ZPVUtiVXh1SkZzQzNVa1I0aGJONjRGZml1S1RXM2JHQ1dnbHlZTi12d3M?oc=5",
+      "pub_date": 1788962162.0,
+      "article_url": "https://www.foxbusiness.com/video/6404820695112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/68a16845-b037-4306-a025-4bb1c60c87f0/98626495-35b4-4876-8fd5-6a3924d1fafd/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "NASA administrator Jared Isaacman joins 'Mornings with FOX Business' to discuss data centers in space and the thoughts surrounding NASA's permanence on the moon."
     },
     {
       "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "pub_date": 1788901323.0,
+      "pub_date": 1788886813.0,
       "article_url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
       "image": null,
       "description": null
@@ -39,63 +49,23 @@
       "source": "OpenAI",
       "source_url": "https://openai.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "pub_date": 1788888023.0,
+      "pub_date": 1788949912.0,
       "article_url": "https://openai.com/index/navier-stokes-solution/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
       "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
-      "headline": "AI Music Startup Suno Launches New Models That Pay Labels",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOU5fTHJzNkR2N3JZd1NHQndTUFBfSm9KNnJJYmU4eXVtZFQwRWxKQ1pfcEplUjd1bDVndnp0ZkJLYlcwaHBicGNGUXlORnFEMXZ3Y0hWekVjUHREYUJqLWIwMHUyaWhDeHNzQndTUkl5T09KdS1MaWdOd2xUUFE1M3h1dlFvOWlpV2JCV0ZoNVAtWWZLVGVaQTV4SFJQZkxBTS1rajVOb3NHLVhn?oc=5",
-      "pub_date": 1788944400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels",
-      "image": null,
-      "description": null
+      "headline": "AI Has Solved One of Math\u2019s $1 Million Millennium Prize Problems",
+      "source": "Quanta Magazine",
+      "source_url": "https://www.quantamagazine.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGpkWlNudjRIdVZPQTAxOVBpSnZreW5ETHJXSlRHV2VzbFd3bkRoaWVUWXhkZGx4M2Y5Wmd1RWxvWkVOZ08tOWdjQ0t6LTZORTRFUzhYc09PdVFsWEFxcVBaMTdNMzl2Ty1zU2stZ2hILUxYMDR1VjVjMEdQU2NTTlNJenBKZlJnWUMzalZkb0gzRjNfVXpfWWtEUnQ0REp5VDQ2VWRn?oc=5",
+      "pub_date": 1788900327.0,
+      "article_url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/AI-Navier-Stokes-Lede-cr-iStock-Social.jpg",
+      "description": "Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes \u201cblow up.\u201d But the massive result is not without controversy."
     },
     {
-      "headline": "Suno launches new AI music models with Warner, BMG",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTFZZTDBkQlBhblZWM18ydkxabXpDbHlWeFJid05ueDI5N0prZE9jNUtDMEZkUVQ2YTUzSzE1VUtCeFRRNEY3RElyeDVZZVNGZnVDM2E3b0otWEM0NndZVkVlU0hEUFgyRVM4LQ?oc=5",
-      "pub_date": 1788946368.0,
-      "article_url": "https://www.axios.com/2026/09/09/suno-v6-ai-music-warner-bmg",
-      "image": "https://images.axios.com/jZ5JqlPrsgGbX2kuGi_ejt8S_2U=/0x0:1920x1080/1366x768/2025/11/13/1763052875457.jpeg",
-      "description": "The startup continues to face copyright lawsuits from other parts of the music industry."
-    },
-    {
-      "headline": "An A.I. Giant Made an Enemy of Record Labels. Can It Play Nice?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazZXQXlXQURsTjBlOWl3ejRIb0tWTVRWX2s0VzlJNnpOaVdQeUhzZVVKdnNfY2Q0RzZtNmRiejhnMFVDY2hkZVhKNDFaRlBiMlVHS2QtbkpHZWNsOFZ4NFpoMHc4eEg3VmxNYVBtWTNDTGo4aDJPNHkzN3lHOXM5WVJNNmdtOUth?oc=5",
-      "pub_date": 1788944703.0,
-      "article_url": "https://www.nytimes.com/2026/09/09/arts/music/suno-new-ai-model-warner-music.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Data center backlash is everywhere. The biggest pro-AI group is getting ready to fight back.",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkxtV08yRVJJR3V2NzZUWHFvOFd6bExjXzVNOVVxYjZwZFZrTjM0TEFxb2VEZWlnekFtc0ZPanpTNnlnbkpJcHNSTG4wMDlOR2x6cUMyNnlfMTVDQWM3LWQzelFGenptNXFoeTJxM19OYUpZWW9yVkM4eW9iRFF1VTJnUnRFd05jMnc5SGEyRU5NRXBGSTBmX3FOcUh0RHlFZ1NEemdEcGlJRUlyZ2NueVk3RFdlMWhlT0xEWVBrbk1PUlZZ?oc=5",
-      "pub_date": 1788944440.0,
-      "article_url": "https://www.nbcnews.com/politics/2026-election/data-center-backlash-everywhere-biggest-ai-group-getting-ready-fight-rcna596593",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260908-data-center-texas-protest-vl-301p-c03498.jpg",
-      "description": "Josh Vlasto and Zac Moffatt, the bipartisan strategist team atop the super PAC Leading the Future, addressed data centers, AI skepticism and more in an in-depth interview."
-    },
-    {
-      "headline": "Google Deepens Commitment to Finland with Two-Year \u20ac13 Billion investment in AI Infrastructure",
-      "source": "Google Cloud Press Corner",
-      "source_url": "https://www.googlecloudpresscorner.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
-      "pub_date": 1788937475.0,
-      "article_url": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
-      "image": "https://www.googlecloudpresscorner.com/image/GC_Social_New.jpg",
-      "description": "Investment builds on 15+ year presence to deliver new jobs, energy solutions, community impact, and economic growth Hamina, Kajaani, Muhos, Vaala, FINLAND \u2014 Sept. 9, 2026 \u2014 Google today..."
-    },
-    {
-      "headline": "Google to invest $15 billion into AI infrastructure in Finland in biggest-ever Europe investment",
+      "headline": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
@@ -103,8 +73,38 @@
       "article_url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&w=1920&h=1080",
       "description": "Google on Wednesday said it would invest $15.1 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe."
+    },
+    {
+      "headline": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "pub_date": 1788952417.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google to Invest $15 Billion in AI Infrastructure in Finland",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5",
+      "pub_date": 1788948360.0,
+      "article_url": "https://www.wsj.com/business/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVhZcEJvZ3BfMlcxazNWZFlTdUdaN0RZUk16aGh4TndmTTRFMnVrejJnbHA3eTRONzRrOXNlZ2ZrRG1sQlB0dFJqMlVPNzRNVG1PT0RvaDF4bGM0WFhrR2U5dS16VWlnNlUtb2tpWXhHdGVmTW1VdGJWR3dGVFlja0ln?oc=5",
+      "pub_date": 1788858254.0,
+      "article_url": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T09:36:41.095902+00:00"
+  "fetched_at": "2026-09-09T14:12:47.837891+00:00"
 }

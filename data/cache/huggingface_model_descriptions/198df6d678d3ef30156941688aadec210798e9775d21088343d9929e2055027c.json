@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-09T14:12:49.286017+00:00",
+  "data": "GPT-2 is a 124M parameter causal language model pretrained on English text, capable of generating coherent text sequences from a prompt. It's primarily used for text generation tasks and can be fine-tuned for downstream applications.",
+  "model_id": "openai-community/gpt2"
+}
