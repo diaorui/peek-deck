@@ -9,38 +9,8 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
-      "pub_date": 1788999138.0,
+      "pub_date": 1788974076.0,
       "article_url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Small businesses that adopt AI hire more workers",
-      "source": "axios.com",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRHFURVRBLTZ2ejNVeVNmRmMydl9ndlpIRllxMUdiVlJSQWZjOTUyb1pSVDA3VVg2VmJkU0RnZmdJN0dmUzB4WnpxbmtIc3Q3QlJBOFM2RkpVMWpsX01PenBMU054Y3JL?oc=5",
-      "pub_date": 1789032951.0,
-      "article_url": "https://www.axios.com/2026/09/10/ai-hiring-small-business",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
-      "pub_date": 1789035128.0,
-      "article_url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
-      "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models"
-    },
-    {
-      "headline": "Public anger over AI boom triggers GOP midterm worries",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJaREE0RFBYR0NSaGY4YXNpTXpKRm5Ta2JGWE5HM3hpZWJNWDNha29vdmM4VWREUUw1LVpfMU5FV1VrbnlTQUlfXy0zdl9qVC1yWmdXZkdwbFZBTUpWNE0yVTZXbnJET21YSTVWNzMwRjVXY25NRU1uMGV4MktGdUxuc9IBiAFBVV95cUxQQTlkVnA3QmVjS1dXaGQxaDFBZE9yVWtMdTdUQVQ5aHZpQ3Mtc2xxMUhBbU9fN0hFcXRMallibmFIU0xvUW1TVndpQ2MzUGpKUWw5NTEzRUNFMEpKVHl2RTdidThESmh6TDdKMkh1VlFnZFBoRjhmX25vQ0ZmcWIxVGZQc1d4Z1Q3?oc=5",
-      "pub_date": 1789034400.0,
-      "article_url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
       "image": null,
       "description": null
     },
@@ -55,8 +25,58 @@
       "description": null
     },
     {
-      "headline": "Can humans stay in control of AI?",
-      "source": "BBC",
+      "headline": "AI could warn people of dangerous weather patterns",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByRnZsMkFDQlNEdGRxYkd0cUpLX1EzV1pMUU1ZOHpDWEpFa3gwYzRjSkVJczZHaXVZSnlmeU9PczlXc0pnMGhxbFNsOGYteV9QTkR6c2RLZzRRNHZlVUw4VU5uNzF1UkhjNDlkZkNR?oc=5",
+      "pub_date": 1789048870.0,
+      "article_url": "https://www.axios.com/2026/09/10/ai-dangerous-weather-warning",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sam Altman pitches utilities on AI grid defense",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjl1LUpZOFp2aVVYZkpLbVVHczN4dy1tSFl3cnQ4OFA3TnVMbTVxR1hHclJLdW00RmRfYVJfZ1RES0RkamZqNm43b0RoWDdCZHdjdDFKd3ZMNDF6Qm41V0hZWm5kclJtdG5TTUpldlptZ2k0RGhaNWtIZUtwVEFqWXRreEFnQXA1aGxlMU5ybU5Ic21WTmxCbm9IdVZ6Zw?oc=5",
+      "pub_date": 1789049040.0,
+      "article_url": "https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Positron AI raises $875 million Series C at $5 billion valuation",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CR2xIbktVQmNXdlVVZWt4TUFUZ0hPbldILVd3R2Q1Z2FocUFPaFZkVi1vM0lIWk1FWjFybEtLMDZMV29YbUlLYklkb0UxVDJyV1o4Ynd0bHFuOEFoZkNBUG1GX2Z2YUI3R2ZCVDFoZExpdmlJ?oc=5",
+      "pub_date": 1789049463.0,
+      "article_url": "https://qz.com/positron-ai-funding-series-c-inference-chips-091026",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2259313919-300x193.jpg",
+      "description": "The Reno-based startup, which uses commodity memory instead of scarce HBM, raised the round in two tranches led by NEA and Jim Clark"
+    },
+    {
+      "headline": "Former Anthropic researcher warns AI could \u2018kill us all\u2019",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
+      "pub_date": 1789018800.0,
+      "article_url": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/26091001-jacobcoxeninterview-hnk-digvid-vrtc-clean-thumbnail.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Former AI researcher Jacob Coxon tells CNN\u2019s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control."
+    },
+    {
+      "headline": "America's reddest state chases billion-dollar boom as others sour on massive emerging industry",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGZRWEJSSmFVd1luYjVKNmVac3hxNnlIYm1KZmNPUEtWRnA0ekkwSm54dmpsQWVvQlBpX29VNHdoLXlWLXdKX0t6Q0tiT2JvaWZCYVBERDlxM0NWeF9Mem1xTG42MGwyRTVDNng1bGNXYkpIam5qMUNCTzhSeS1WeFZ1cDEwclNta0M2dUtZTmk5cXB5SjBSMXcxdF9Bc1pER3laS2U2R1FfYm5UNHY5dDRCQThRdm1qQWxMRdIBwgFBVV95cUxPMDkxem9jdWlqeENGWGZqZjE1RUxkTUVpS2QzWGI4VUdaYzdhVWpPQXc2OEt2MmxDTWNhSEJWSVR3VEhJemJUaDg0NUF2RGpVVFJiYkd3VnZjVlVKdE1vUVR3Q0JFd2FTU0FIRGVBQmlwLV81WVpCOXJFbnp6a3BCemZfNnVBeDhTUkFwSUEtYm5SRUFSdVZldlNWcVhrY1NIU3hEU2wtNGxHa3h2MWNDNXFMUXhCcWY4VzZuZTNLNnVKZw?oc=5",
+      "pub_date": 1789034426.0,
+      "article_url": "https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/wyoming-scenic-jackson-hole.png",
+      "description": "Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes."
+    },
+    {
+      "headline": "Why some experts increasingly fear AI will take over",
+      "source": "bbc.com",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bXZDUTFvcUJCZmlmeVFhaU1lcVhmV0h6OVBmTnhlYTlKWGh4TlNKbkFyc3kxRGM0ekctR3FPMURnMTJuOWdYTUttcUNfTElFWWxqNXBnc2hEdw?oc=5",
       "pub_date": 1788995853.0,
@@ -65,46 +85,26 @@
       "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried"
     },
     {
-      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "pub_date": 1788949912.0,
-      "article_url": "https://openai.com/index/navier-stokes-solution/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+      "headline": "Inside John Ternus' first Apple launch event as CEO: Foldable iPhone Duo, AI and more",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmN1RTVrU0dvZGJ1Zk80WEJjS3JaU3pWMXF5U29XZDZXdWYta2RsSTBxWTlremp2bkJWcEdDN285eF9xQU13a29MeVV1UEFIVHhmb0lqUTZpaU1iR0Npbnp3QWtyVVRGV29ubkZ5UEw0cHZtclE3ZWRZTTdjT1hLcGlvZUxSanpDZ0RsdFY3aFdkZ2hUS1ozVkxjbFA1RjBtMGkxZjZCTHBweDRTbFVqOXI3c2HSAboBQVVfeXFMTlViN3BoandDWmlWU3V0dWpfY1MzYXNLTldObEhLREZiQVQ2Vmw2Q0VnMFdPZmxRZ25wV25pN1MxV0FHVkg4WVNRdVA5M08tNFdkRmVMUEI4a21kS1AxbVBQNGVjRlZzclNuTWtxYjlyUkdRMDgzcDA5R2JZdDJuWmdrN2xZVHU5R3ZrTTZfVkVuTVd5SFNfQXJ2Q0xUUHpNbjFQSmswR2U5cEVreWk3YTZYUUJGSDM0dkR3?oc=5",
+      "pub_date": 1789034400.0,
+      "article_url": "https://www.foxbusiness.com/technology/inside-john-ternus-first-apple-launch-event-ceo-foldable-iphone-duo-ai-more",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/john-ternus-iphone-duo-01.jpg?ve=1&tl=1",
+      "description": "CEO John Ternus debuted the $1,999 foldable iPhone Duo in his first major product event, marking Apple's long-awaited entry into the foldables market."
     },
     {
-      "headline": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
-      "pub_date": 1788969780.0,
-      "article_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYl9WbFZJWVZKbXo0TnhxTjVzWGxBRk54QTA0VW8wZm9CZFhZMDZNdWdsT2R6dGpkMVNVUkpsNmJfREgyOG82UllIclZRNjZTTUR6RExJbWFoSVg1QzVyWDF0eW1TeWN6LVBrNGttZGtWd3ljdHZqNjhkUnpaSE5vMmxrZWUyWlhYdWFjMTN6ZW5sUFlsVjV2Zl9jM0JwS0VwMnRZcFZWX3pQMGs?oc=5",
-      "pub_date": 1789018500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/tsmc-revenue-rises-53-as-ai-chip-demand-outstrips-supply",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Moonshot capitalism: AI rewrites the venture capital playbook",
-      "source": "ft.com",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5",
-      "pub_date": 1789025283.0,
-      "article_url": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2dc97994-ee7b-4be0-9a69-24fc60d5a6f3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley"
+      "headline": "The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM1hQQ1U3cmliMVJYMkpWNFpteHdEdXU0Sk5DQWhDdmRJY2M5cnpkMExIQldCQkp6bkRJMTk3MWpWY2lZTDBISFZBeGhSbUdLMGYwWU9WSEZLTFAxWWFRYzNBa3laNmkwODdYTFBJYlY1ZXVpWW55NkU0WXZKT1F1Yi1vX2RucUpHeXZTbkxXM2RNVFhEQUJwSS1UaTNqUzVBMFhlczJVNm9WY0s0eS1ZX3lGQ2N5N3Nsd1Q0WThRVXVNQ2RWa3dmdTlIaF9MX1FRVDFMQThEZTJnWVpLaFE?oc=5",
+      "pub_date": 1789043146.0,
+      "article_url": "https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/17bfe916978f5c4c785683b6168ce2fb64e1e2595c6a5ee454eb5e393f1d7314/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F2aae3e28-8581-4866-83dc-12846a795fa8",
+      "description": "A reality check on AI spending from Goldman Sachs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T10:47:25.741471+00:00"
+  "fetched_at": "2026-09-10T14:53:27.796196+00:00"
 }

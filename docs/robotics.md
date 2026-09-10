@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T10:47:29.540808+00:00'
+updated: '2026-09-10T14:53:32.699526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 10:47 UTC  
+**Last Updated:** September 10, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,15 +112,31 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-Reuters • 2d ago
+Reuters • 3d ago
 
 ---
 
-**[Exclusive: Mistral robotics chief seeks €200m for new startup](https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup)**
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
-French AI scaleup Mistral launched its own robotics business unit last year.
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-Sifted • 1d ago
+TechCrunch • 35m ago
+
+---
+
+**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+
+This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+
+The Washington Post • 1d ago
+
+---
+
+**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
+
+Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
+
+GlobeNewswire • 3h ago
 
 ---
 
@@ -130,19 +146,19 @@ wsj.com • 1d ago
 
 ---
 
-**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
 
-Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
+For most of its short history, AI lived behind a screen.
 
-The Robot Report • 2d ago
+SemiAnalysis • 17h ago
 
 ---
 
-**[Automakers rush to humanoid robots for manufacturing and learn their limitations](https://www.autonews.com/technology/ane-ai-auto-robotics-humanoids-0909/)**
+**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
 
-Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
+Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
 
-Automotive News • 22h ago
+Business Insider • 1d ago
 
 ---
 
@@ -150,23 +166,15 @@ Automotive News • 22h ago
 
 A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
 
-GeekWire • 18h ago
+GeekWire • 22h ago
 
 ---
 
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
 
-For most of its short history, AI lived behind a screen.
+Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
 
-SemiAnalysis • 13h ago
-
----
-
-**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
-
-Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
-
-newsroom.arm.com • 2d ago
+boston.com • 21h ago
 
 ---
 
@@ -175,14 +183,6 @@ newsroom.arm.com • 2d ago
 Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
 Futurism • 1d ago
-
----
-
-**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
-
-Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
-
-Boston.com • 17h ago
 
 ---
 
@@ -196,7 +196,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 280K • 👍 4K • 💬 703 • ⏱️ 5:02 • 1d ago
+👁️ 299K • 👍 4K • 💬 806 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -206,7 +206,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 30K • 👍 447 • 💬 47 • ⏱️ 15:17 • 5d ago
+👁️ 30K • 👍 448 • 💬 47 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -216,7 +216,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 122K • 👍 2K • 💬 199 • ⏱️ 5:52 • 1d ago
+👁️ 138K • 👍 2K • 💬 212 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 300K • 👍 2K • 💬 646 • ⏱️ 1:44 • 6d ago
+👁️ 300K • 👍 2K • 💬 647 • ⏱️ 1:44 • 6d ago
 
 ---
 
@@ -236,7 +236,7 @@ Robot hands are one of robotics' genuinely unsolved problems. Routing flexible t
 
 📺 Star AI
 
-👁️ 929 • 👍 15 • 💬 1 • ⏱️ 0:36 • 3h ago
+👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:36 • 7h ago
 
 ---
 
@@ -244,7 +244,7 @@ Robot hands are one of robotics' genuinely unsolved problems. Routing flexible t
 
 📺 6210H Halapeños
 
-👁️ 13K • 👍 48 • 💬 1 • ⏱️ 0:08 • 2d ago
+👁️ 13K • 👍 47 • 💬 1 • ⏱️ 0:08 • 2d ago
 
 ---
 
@@ -254,7 +254,27 @@ The Mimic Hand M1 moves its fingers just like yours. It lifts over 25 kilograms 
 
 📺 The Manav Podcast
 
-👁️ 3K • 👍 201 • 💬 4 • ⏱️ 0:35 • 9h ago
+👁️ 4K • 👍 282 • 💬 6 • ⏱️ 0:35 • 13h ago
+
+---
+
+**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
+
+After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
+
+📺 GrislyDeshaun
+
+👁️ 652K • 👍 6K • 💬 466 • ⏱️ 26:59 • 3d ago
+
+---
+
+**[This Robot Goalkeeper SHOCKED Him 🤖⚽ #shorts](https://www.youtube.com/watch?v=k1ql-dOQMMs)**
+
+Never write off the small robot! ⚽ A guy decided to challenge this humanoid robot's goalkeeping skills — starting with an easy ...
+
+📺 FactBlitz
+
+👁️ 3K • 👍 44 • ⏱️ 0:15 • 8h ago
 
 ---
 
@@ -264,27 +284,7 @@ A Chinese robot appeared to malfunction attacking customers at an electronics sh
 
 📺 New York Post
 
-👁️ 60K • 👍 815 • 💬 275 • ⏱️ 1:16 • 6d ago
-
----
-
-**[Robotics Genius Predicts the Next Decade](https://www.youtube.com/watch?v=vWRIyiJ2x38)**
-
-Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots are arriving in the late 2020s rather than the ...
-
-📺 Joe Lonsdale
-
-👁️ 57K • 👍 429 • 💬 44 • ⏱️ 8:34 • 6d ago
-
----
-
-**[Humanoid robots tackle household chores as demand grows](https://www.youtube.com/watch?v=868RW3lYZ3M)**
-
-A San Francisco startup is offering humanoid robots for household tasks at $30 an hour, with demand reportedly outpacing ...
-
-📺 CBS19
-
-👁️ 42K • 👍 84 • 💬 60 • ⏱️ 0:27 • 6d ago
+👁️ 60K • 👍 816 • 💬 274 • ⏱️ 1:16 • 6d ago
 
 ---
 

@@ -103,6 +103,20 @@
       "site_name": "en.bitcoin.it"
     },
     {
+      "title": "Privacy on Bitcoin: what works and what doesn't",
+      "url": "https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy",
+      "hn_url": "https://news.ycombinator.com/item?id=49643366",
+      "author": "granya",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-10T13:26:51Z",
+      "object_id": "49643366",
+      "image": "https://www.learnbitcoin.com/diagrams/og/chain-analysis-heuristics.png",
+      "description": "Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.",
+      "favicon": "https://www.learnbitcoin.com/apple-touch-icon.png",
+      "site_name": "LearnBitcoin"
+    },
+    {
       "title": "Getdescriptorinfo \u2013 Bitcoin Core RPC Reference \u2013 Chainquery.com",
       "url": "https://chainquery.com/rpc/getdescriptorinfo",
       "hn_url": "https://news.ycombinator.com/item?id=49621007",
@@ -121,7 +135,7 @@
       "url": "https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin",
       "hn_url": "https://news.ycombinator.com/item?id=49570467",
       "author": "nosecreek",
-      "points": 17,
+      "points": 18,
       "num_comments": 2,
       "created_at": "2026-09-04T21:31:08Z",
       "object_id": "49570467",
@@ -131,7 +145,7 @@
       "site_name": "IGN"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-09-10T10:46:56.085555+00:00"
+  "fetched_at": "2026-09-10T14:53:02.068703+00:00"
 }

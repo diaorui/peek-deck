@@ -13,6 +13,39 @@
       "description": null
     },
     {
+      "title": "Is AGI finally here?",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/",
+      "published": 1789047695.0,
+      "thumbnail": "https://preview.redd.it/xyazmjlb5poh1.jpeg?width=640&crop=smart&auto=webp&s=d41d9a31932fa10f1ab6ebf98435edb41ddbb8b2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology",
+      "author": "entelligenceai17",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/",
+      "published": 1789048037.0,
+      "thumbnail": "https://preview.redd.it/6hkugycb6poh1.png?width=140&height=61&auto=webp&s=7a480ee73de90ed78700676926c24fdf6d5804f3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We benchmarked GPT-6 Astra vs GPT-5.6 Sol across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Sol found 107 confirmed bugs vs 91 for Astra, while Astra had higher precision and lower latency. Every finding was independently verified. We\u2019re doing Fable vs Opus next week, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/6hkugycb6poh1.png?width=1080&format=png&auto=webp&s=073833238182e2e36e04a9c8c39f90627adb28b9"
+    },
+    {
+      "title": "Which boring AI use case has actually been more useful than the flashy ones?",
+      "author": "TurbulentPass9946",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/",
+      "published": 1789038415.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The impressive demos get attention, but I\u2019m curious about mundane stuff people now rely on every week. What boring AI use case ended up being genuinely valuable?"
+    },
+    {
       "title": "'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/",
@@ -24,15 +57,15 @@
       "description": "A mother\u2019s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children\u2019s images online. Meta claims the issue is resolved."
     },
     {
-      "title": "How do you keep context when switching between AIs?",
-      "author": "SidequestMatt",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcegk0/how_do_you_keep_context_when_switching_between_ais/",
-      "published": 1789033385.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How do you guys keep context when working on the same project across different AI tools? Cuz I keep running into the problem of switching between ChatGPT/Claude/etc. and having to bring the other one up to speed again. Do you just copy stuff over, keep a separate file, use summaries, or what?"
+      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
+      "author": "ai-edition",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
+      "published": 1789047823.0,
+      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
+      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
     },
     {
       "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks",
@@ -46,37 +79,15 @@
       "description": "Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour."
     },
     {
-      "title": "What AI capability jump felt overhyped vs underhyped to you lately?",
-      "author": "CapitalList8467",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcd7ey/what_ai_capability_jump_felt_overhyped_vs/",
-      "published": 1789029123.0,
+      "title": "How do you keep context when switching between AIs?",
+      "author": "SidequestMatt",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcegk0/how_do_you_keep_context_when_switching_between_ais/",
+      "published": 1789033385.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Curious how people here are sorting signal from noise. Which recent advances looked flashy but did not change day-to-day use much, and which quieter improvements actually stuck for you? Looking for concrete examples rather than vibes."
-    },
-    {
-      "title": "Meet Rysy: a pyschological portrait creation agent!",
-      "author": "Acceptable-Swing1619",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcfcru/meet_rysy_a_pyschological_portrait_creation_agent/",
-      "published": 1789036272.0,
-      "thumbnail": "https://external-preview.redd.it/0e7fjosuCMY06XAl9dU2RCI_26C_hwouDLaLECMBiy8.png?width=640&crop=smart&auto=webp&s=4175e2f64f75e897552ab22956a54f1456386841",
-      "external_url": "https://github.com/transilienceai/Rysy",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "A psychological portrait maps out a person's real-world traits, mindsets, and life experiences to explain why they think, feel, and act the way they do, and it has immense applications in real world use cases such as cold emailing, researching about a person before taking the interview, or conducting a phishing simulation inside your organisation to train the employees. Rysy is an open source agent that reads a person before you write to them, and works out what they are dealing with even when they have never said so publicly. That comes out as a portrait: how they got where they are, what is eating their week, how they prefer to be talked to, which subjects will make them close the tab. Because a lot of it is inference, the portrait marks its own soft spots, the places where the reading goes thin and you should not lean on it. Every draft comes out of that portrait. If the same draft would suit somebody else, it does not go out. It also has a witness that reviews each draft from a stranger's perspective. Returns ship or rewrite or flag with prose to the researcher in it. The witness does not know it is reviewing your work for isolation, which helps it iterate over the drafts it creates. Looking forward to peers that help me further develop it. Github repo: https://github.com/transilienceai/Rysy"
-    },
-    {
-      "title": "What video games of the past were the most prophetic about AI, surveillance technology and cyber security in your opinion? My vote is Metal Gear Solid 2, Deus Ex and Watch Dogs. Those 3 predicted quite a lot about life in 2020-2030.",
-      "author": "MannerNo7000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/",
-      "published": 1789000240.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What others do you think have also been prophetic and come true?"
+      "description": "How do you guys keep context when working on the same project across different AI tools? Cuz I keep running into the problem of switching between ChatGPT/Claude/etc. and having to bring the other one up to speed again. Do you just copy stuff over, keep a separate file, use summaries, or what?"
     },
     {
       "title": "Why does the Anthropic ECON report assume that there will be more 'non knowledge' jobs with AI?",
@@ -90,27 +101,16 @@
       "description": "In https://www.anthropic.com/institute/econ-scenarios, the report seems to suggest that there will be less knowledge jobs and more \"other jobs\". Why does it seem to exclude the advance of robotics along with AI and the automation of jobs such as sanitation worker, janitors, etc.? I feel like those would be the jobs that would technically be more acceptable to automate."
     },
     {
-      "title": "The Growing Push to Ban Superintelligent AI",
-      "author": "GenericNameRandomNum",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcej5w/the_growing_push_to_ban_superintelligent_ai/",
-      "published": 1789033613.0,
-      "thumbnail": "https://external-preview.redd.it/BA0veEDDSxJHtGbHvfJPkQoWey5burp_3RVv6la5i94.jpeg?width=640&crop=smart&auto=webp&s=a23c914f439b818795b70e610000021481ba33c3",
-      "external_url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/",
-      "site_name": "TIME",
-      "favicon": "https://time.com/favicon/apple-touch-icon.png",
-      "description": "Last week, Senator Bernie Sanders announced plans to introduce the Ban Artificial Superintelligence Act, which would prohibit the development of smarter-than-human AI systems and temporarily pause all other advanced AI research until new safety rules can be established. The bill is expected to be introduced in the coming weeks, according to Sanders\u2019 office. And on Tuesday, British lawmaker Alex Sobel stood up in the House of Commons and introduced what he said was the first bill seeking to ban superintelligence in any G7 parliament. The bill defines superintelligent AI as a system that could disempower state authorities, and seeks to give the state new powers to monitor and restrict systems that may be \u201cprecursors\u201d to superintelligence. Both the U.S. and U.K. bills additionally seek to compel each government to pursue a global treaty banning the development of superintelligent AI anywhere in the world. \u201cA national bill does not solve the international problem where superintelligence can be developed somewhere else,\u201d says Andrea Miotti, the founder of ControlAI, a campaign group that wrote the U.K. bill and consulted on the U.S. one. \u201cThe only way to address that is via international agreements between countries.\u201d"
-    },
-    {
-      "title": "Digital life habitat",
-      "author": "rmhollid",
-      "url": "https://www.reddit.com/r/artificial/comments/1wceese/digital_life_habitat/",
-      "published": 1789033231.0,
-      "thumbnail": "https://preview.redd.it/uiuvhw8bynoh1.png?width=640&crop=smart&auto=webp&s=2004bb0a1b23d81d01571352576f3ece9b8b5d48",
+      "title": "What AI capability jump felt overhyped vs underhyped to you lately?",
+      "author": "CapitalList8467",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcd7ey/what_ai_capability_jump_felt_overhyped_vs/",
+      "published": 1789029123.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I just finished an experiment on digital reproduction in a sealed environment and I was wondering if that's a thing for others in the hobby ai world. Not getting into too much detail it was interesting to have Started with 7 units and ended with 87 units each able to process information and do actual work administered by the system. These are not agents, they are self contained digital organisms following a machine based lifecycle using a very small Java based model each one following a self assigned routine and work flow they have to completely want to do. Before the experiment topped out at the prescribed limit the last request they were reporting to have was more information and a higher definition habitat."
+      "description": "Curious how people here are sorting signal from noise. Which recent advances looked flashy but did not change day-to-day use much, and which quieter improvements actually stuck for you? Looking for concrete examples rather than vibes."
     }
   ],
-  "fetched_at": "2026-09-10T10:46:56.836496+00:00"
+  "fetched_at": "2026-09-10T14:53:02.188911+00:00"
 }
