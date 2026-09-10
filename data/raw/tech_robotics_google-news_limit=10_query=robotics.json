@@ -15,14 +15,34 @@
       "description": null
     },
     {
-      "headline": "Exclusive: Mistral robotics chief seeks \u20ac200m for new startup",
-      "source": "Sifted",
-      "source_url": "https://sifted.eu",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHJYbTB3aTd1VktCQzItd1VmM21UdURSclkwV1NjMzdadGwweW4yUm1ianM0MzJPNk5iMnFLS3ZKaE9VWERDZzBidFlKRndSSmoxZ3VockRGbGtMV3YyWU02aXlhQ1otbEJ0SlgydHhGcUtyRS15eEZEaXBQaG1TUmtKSzRuazRieHpjV1gxRVo?oc=5",
-      "pub_date": 1788926658.0,
-      "article_url": "https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup",
-      "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/08192855/Mistral-Icon-Gradient-RGB.jpg",
-      "description": "French AI scaleup Mistral launched its own robotics business unit last year."
+      "headline": "Maven Robotics wants to steal your robot deployment deal",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
+      "pub_date": 1789049857.0,
+      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+    },
+    {
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+    },
+    {
+      "headline": "Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation",
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVp6NHRpZEpPZGtxNE1sMW1EcTBtYlQ2ekI4NTB5Vlh6NE41c3ZWOHhUa2U4SEhocVpxUWgweE1QVEVOb3FIREtBQWxFZXB0bmdUZnhJZHpERWQ5MFJha1BOT0ZUaExNUk93Ml9zSmc5LW5zTkQ3bVRFR3BaVnVyLUI3S212YjZIUVRwTmpHa0tNeEFzeVEwVTItLTBqYTdTQmVVTnNobWVWcHpqb01JMExCRWRfYXRCSXU4QVZRRU54dWExNERaaTBNV1BUVW9FbG5SZERkZXFGU3RMZzdackVTOVZfOWhHZFJ3TQ?oc=5",
+      "pub_date": 1789038000.0,
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html",
+      "image": "https://ml.globenewswire.com/Resource/Download/a8346bc2-7ac7-4d57-8e4f-712855669df8",
+      "description": "Funding will support growing demand and strengthen Vecna Robotics\u2019 increasingly strategic role in North American robotics amid a shifting regulatory..."
     },
     {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
@@ -35,24 +55,24 @@
       "description": null
     },
     {
-      "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
-      "pub_date": 1788787666.0,
-      "article_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
-      "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
+      "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
+      "source": "SemiAnalysis",
+      "source_url": "https://newsletter.semianalysis.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQ0JtUjVxQWZaOEtZbFFjME5yQ2E5UzJQa2EwUEhjcDNyTE5Qd3lsMEtRNG1oQllOdHhfZ2VINTVYUVg4bEd5Vl9BVFdnSllsWWRvX1RoNS1ZSEtFRXFrV2F4LVRvSHhQZklPWTI0eGVHVHhyY3N5UjNMTVI?oc=5",
+      "pub_date": 1788987215.0,
+      "article_url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
+      "image": "https://substackcdn.com/image/fetch/$s_!AdT6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75b6506-406e-4606-b427-5d4be75cdafb_1672x941.png",
+      "description": "For most of its short history, AI lived behind a screen."
     },
     {
-      "headline": "Automakers rush to humanoid robots for manufacturing and learn their limitations",
-      "source": "Automotive News",
-      "source_url": "https://www.autonews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTajlRVkRzemh2N25EQ2VmZG9HSHNuaDhweC1xSnctaGhxZVFxel9FaUtYNGhVRUlSa0JlcVBvMExrMXdIQW5WOHVsdkROWVVkVVl2akR5WmJ2Rnl4UHFvblVsS3RlbzFhQzdvbnVETjRFU1NVc2pVY21JOWY?oc=5",
-      "pub_date": 1788955200.0,
-      "article_url": "https://www.autonews.com/technology/ane-ai-auto-robotics-humanoids-0909/",
-      "image": "https://www.autonews.com/resizer/v2/XAXKCYNENRDIBL55I5YK42CEYI.png?auth=3a46544d2c840929aa851db3606d53b1d681b4fed2cd24f4261d0ca6536b6452&width=1200#.png",
-      "description": "Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines."
+      "headline": "Want a Humanoid in Your Factory? Here's How Much One Could Cost You.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV9oQ3ktOTdqbmhHVmVhenNEcnJIeXhYNmQxaDA2T3JFX1dWa29ZY1F3bTNaYWtIVXpVb1NDaU9MWEVwQWhuVFpXdWtDMjE0d0N3SEtFOENkQTQtcUFVVUhJbWlSY3kxdDA3VFZvYmk5RUhwYTlWeDhBeDZWaVlqYk03bFItV1JUZWMwclF0MWdrWHZ1YnJxTWZfOThJTzJFbTVzXw?oc=5",
+      "pub_date": 1788927300.0,
+      "article_url": "https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9",
+      "image": "https://i.insider.com/6aa0b8d8ec15fe2d3cf14f01?width=1200&format=jpeg",
+      "description": "Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years."
     },
     {
       "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
@@ -65,24 +85,14 @@
       "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
     },
     {
-      "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
-      "source": "SemiAnalysis",
-      "source_url": "https://newsletter.semianalysis.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQ0JtUjVxQWZaOEtZbFFjME5yQ2E5UzJQa2EwUEhjcDNyTE5Qd3lsMEtRNG1oQllOdHhfZ2VINTVYUVg4bEd5Vl9BVFdnSllsWWRvX1RoNS1ZSEtFRXFrV2F4LVRvSHhQZklPWTI0eGVHVHhyY3N5UjNMTVI?oc=5",
-      "pub_date": 1788987215.0,
-      "article_url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
-      "image": "https://substackcdn.com/image/fetch/$s_!AdT6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75b6506-406e-4606-b427-5d4be75cdafb_1672x941.png",
-      "description": "For most of its short history, AI lived behind a screen."
-    },
-    {
-      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
-      "source": "newsroom.arm.com",
-      "source_url": "https://newsroom.arm.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
-      "pub_date": 1788832965.0,
-      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
-      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
-      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
+      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
+      "source": "boston.com",
+      "source_url": "https://www.boston.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
+      "pub_date": 1788973140.0,
+      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
+      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
+      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
     },
     {
       "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
@@ -93,18 +103,8 @@
       "article_url": "https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk",
       "image": "https://futurism.com/wp-content/uploads/2026/09/glitch-delivery-robots-swarm-chicago-sidewalk.jpg?quality=85&w=1200",
       "description": "Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents."
-    },
-    {
-      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
-      "pub_date": 1788973140.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
-      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T10:47:13.763784+00:00"
+  "fetched_at": "2026-09-10T14:53:25.516319+00:00"
 }
