@@ -6,105 +6,105 @@
   "articles": [
     {
       "headline": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
-      "pub_date": 1788974076.0,
+      "pub_date": 1788999138.0,
       "article_url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5ucHMzVUtKTnZxMjJsdGlpNTNtZHhFUWVGRG9XcEhsRHJJWEhlcVItM3d0OHNKdnN3cDQ0X0FFOU5xYzRvUlExUFd3LUl1OTR3TzlIcUF1QWRERU9IRFp1STd2ZlpHVUVySjFrenJOVmVVMy1JNllvU29BZFEwNmFHYlZnTjBvdEFyMWFlZzZ4UW54djNFWlh1bS1pR1VGNmZYNlhlUlFpOWZVWWk2U1JoZ1g3RmthTnhiaTgxajJIcjA?oc=5",
-      "pub_date": 1789016580.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/",
+      "headline": "Small businesses that adopt AI hire more workers",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRHFURVRBLTZ2ejNVeVNmRmMydl9ndlpIRllxMUdiVlJSQWZjOTUyb1pSVDA3VVg2VmJkU0RnZmdJN0dmUzB4WnpxbmtIc3Q3QlJBOFM2RkpVMWpsX01PenBMU054Y3JL?oc=5",
+      "pub_date": 1789032951.0,
+      "article_url": "https://www.axios.com/2026/09/10/ai-hiring-small-business",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI is taking my work, claims graphic designer",
+      "headline": "OpenAI, Anthropic researchers ramp up calls for AI slowdown as warnings of catastrophic risk intensify",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+      "pub_date": 1789035128.0,
+      "article_url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
+      "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models"
+    },
+    {
+      "headline": "Public anger over AI boom triggers GOP midterm worries",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTJaREE0RFBYR0NSaGY4YXNpTXpKRm5Ta2JGWE5HM3hpZWJNWDNha29vdmM4VWREUUw1LVpfMU5FV1VrbnlTQUlfXy0zdl9qVC1yWmdXZkdwbFZBTUpWNE0yVTZXbnJET21YSTVWNzMwRjVXY25NRU1uMGV4MktGdUxuc9IBiAFBVV95cUxQQTlkVnA3QmVjS1dXaGQxaDFBZE9yVWtMdTdUQVQ5aHZpQ3Mtc2xxMUhBbU9fN0hFcXRMallibmFIU0xvUW1TVndpQ2MzUGpKUWw5NTEzRUNFMEpKVHl2RTdidThESmh6TDdKMkh1VlFnZFBoRjhmX25vQ0ZmcWIxVGZQc1d4Z1Q3?oc=5",
+      "pub_date": 1789034400.0,
+      "article_url": "https://thehill.com/homenews/senate/6080338-ai-data-centers-midterm-politics/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | Big Tech Fooled America Once. The Second Time\u2019s Not Going So Well.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjV2eTB1YlJYVExWYWNKLUdlZ3JqU2V1eTRUTXpWVVFSeTNBMHFfS2IwWmtFUlgyRUxsclpqLXNKRnNONEVNQ29sTVJidkFiWkozT2ljRHUwRUJveTlLamRwcFh3TnlfOTFsU1F3czFZRWRlUVNRZm1CU2VJMk5BQTJn?oc=5",
+      "pub_date": 1789031041.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Can humans stay in control of AI?",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CUkpjdmdNUE05YlNQQTZmckc0c2o0US1OWnlYSDlfdUduLWhCT0JMWUoxNnhyQUxnTVI2NWVabGZDZElkdDFGRTR0ckZHNE9aWTEzWXFVTWF3QQ?oc=5",
-      "pub_date": 1789016483.0,
-      "article_url": "https://www.bbc.com/news/articles/c33k68nlmzpo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6a41/live/48313770-ac67-11f1-80f0-9795d1a5edbc.jpg",
-      "description": "Danny Williams says small businesses are increasingly turning to AI to generate posters."
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3bXZDUTFvcUJCZmlmeVFhaU1lcVhmV0h6OVBmTnhlYTlKWGh4TlNKbkFyc3kxRGM0ekctR3FPMURnMTJuOWdYTUttcUNfTElFWWxqNXBnc2hEdw?oc=5",
+      "pub_date": 1788995853.0,
+      "article_url": "https://www.bbc.com/news/articles/c74edv9887eo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/28d8/live/512242b0-acf9-11f1-a540-61c3f7fc4e6c.jpg",
+      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried"
     },
     {
-      "headline": "Meta\u2019s New AI Agent Can Shop For You",
-      "source": "Vogue",
-      "source_url": "https://www.vogue.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JcTliN0FfcE5jSldzcHI2bjRtWDBfU09ORzZ0VGctbzV4TzRGUEJqZnk1aFpzX1JhRm9GWVRzeHJKc3U1VWduZlhZbXV0d3hHWnZSVTBhR3dUN05LSDllZmVlZWZINFVKekY5eHliZU1CZHM?oc=5",
-      "pub_date": 1789016400.0,
-      "article_url": "https://www.vogue.com/article/metas-new-ai-agent-can-shop-for-you",
-      "image": "https://assets.vogue.com/photos/6aa1c55958d4949ffdbd3c95/16:9/w_1280,c_limit/VB-META-AI-NEWS-SEP-26-story.jpg",
-      "description": "Meta\u2019s new personal AI agent can shop and transact on consumers\u2019 behalf, drawing on the company\u2019s greatest advantage: years of social data. But will consumers trust it enough to hand over the reins?"
+      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
+      "pub_date": 1788949912.0,
+      "article_url": "https://openai.com/index/navier-stokes-solution/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
+      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
-      "headline": "60 Posts in 10 Hours: How Trump\u2019s Social Media Reflects His Version of Reality",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2xWRE1CZXRVSUZlbjFaSVRDS1N4dHNSdENkdXBqb2FoQTBSbW9LUWhsMGFiTUlENW5ZblFGS3Uzc1RpZGVYTko0RjI4WnBia1VTVDBxeTJ5UC1JemtUSFpBOXhaQndpWV9GMi1SNjNnT25UNV9XdFVZX2g1SHdtV3Q1NWZHLXN1?oc=5",
-      "pub_date": 1788984350.0,
-      "article_url": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
+      "headline": "EXCLUSIVE: OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+      "pub_date": 1788969780.0,
+      "article_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
       "image": null,
       "description": null
     },
     {
-      "headline": "GPT-6 Astra: The next generation in intelligence for work",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5",
-      "pub_date": 1788990425.0,
-      "article_url": "https://openai.com/index/gpt-6-astra-next-generation-work/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&h=900&fit=fill",
-      "description": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-      "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia\u2019s Data Center Ecosystem",
-      "source": "NVIDIA Newsroom",
-      "source_url": "https://nvidianews.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
-      "pub_date": 1788998996.0,
-      "article_url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
-      "image": "https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_7d2f8234-cc86-4279-9cf8-80a6b485b660-prv.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660",
-      "description": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX\u2122 AI factories, supporting the nation\u2019s growing demand for AI compute \u2014 with up to a 2-gigawatt buildout by 2027."
+      "headline": "TSMC Revenue Rises 53% as AI Chip Demand Outstrips Supply",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYl9WbFZJWVZKbXo0TnhxTjVzWGxBRk54QTA0VW8wZm9CZFhZMDZNdWdsT2R6dGpkMVNVUkpsNmJfREgyOG82UllIclZRNjZTTUR6RExJbWFoSVg1QzVyWDF0eW1TeWN6LVBrNGttZGtWd3ljdHZqNjhkUnpaSE5vMmxrZWUyWlhYdWFjMTN6ZW5sUFlsVjV2Zl9jM0JwS0VwMnRZcFZWX3pQMGs?oc=5",
+      "pub_date": 1789018500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/tsmc-revenue-rises-53-as-ai-chip-demand-outstrips-supply",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Moonshot capitalism: AI rewrites the venture capital playbook",
-      "source": "Financial Times",
+      "source": "ft.com",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1RTLWJJaDh0bWVKZWhCT1Y4OElDQmNRQmVOamY2eVExOFNJQ0k2WE92Y2VBNWpYV0tJNjl0VXNlYmdzbTA0TUNSZWlRakp1bWs1Y01WdGFTUm9XTGVLNWVCMjRWUm9xS1JEaE5HRFU4VnZRSXcyeEdXNkVOaGlhN3VWeHY?oc=5",
-      "pub_date": 1789012810.0,
+      "pub_date": 1789025283.0,
       "article_url": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2dc97994-ee7b-4be0-9a69-24fc60d5a6f3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "description": "Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley"
-    },
-    {
-      "headline": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "source": "The American Prospect",
-      "source_url": "https://prospect.org",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
-      "pub_date": 1788944400.0,
-      "article_url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "FBI now publicly identifies, tracks AI used in crimes. North Carolinians have lost millions",
-      "source": "WRAL",
-      "source_url": "https://www.wral.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3A2MHBqUm9MdnBCLTE3VWxGWFBUalJtc0lUempaZV9MMnRLRHVjTGtkUy05aWtZa2h4ZDZFNkhpUXVXWnZwcGFOUHMzY0NEVEhKRGI4OUN2MGE4N1JzWldaMlN6ODVIandkRUN5SFNEMy1kNkgwRG5vOHZVT0RhVk1kSEJaMzJMSWFkMTRfel9COVFoYXE2ei1nY0w4dTQ3eElXQm85ZnNqVjlTZmRQQUlMU3k?oc=5",
-      "pub_date": 1789008728.0,
-      "article_url": "https://www.wral.com/news/investigates/artificial-intelligence-internet-crimes-fbi-losses-millions-september-2026/",
-      "image": "https://images.wral.com/c27795c1-bb7d-5351-bf55-429cc4c27c14?w=1200&h=630&height=630",
-      "description": "The addition of whether crimes are \"AI related\" signals a notable addition in the agency's internet crime methodology, which agency leaders say speaks to the rising threat of artificial intelligence against consumers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T05:48:48.941151+00:00"
+  "fetched_at": "2026-09-10T10:47:25.741471+00:00"
 }

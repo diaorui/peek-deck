@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-10T10:47:27.297688+00:00",
+  "data": "DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts, featuring a Causal Encoder-Decoder architecture with Compressed Sparse Attention 2 (CSA2) and FP4 KV caching for highly efficient KV cache compression. It excels in agentic workloads and offers controllable reasoning effort, processing both images and text.",
+  "model_id": "deepseek-ai/DeepSeek-V4.1-Flash"
+}

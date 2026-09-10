@@ -35,7 +35,7 @@
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 2405,
+      "github_stars": 2790,
       "project_page": null
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 183,
+      "upvotes": 186,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08977",
       "arxiv_url": "https://arxiv.org/abs/2609.08977",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08977.png",
-      "upvotes": 122,
+      "upvotes": 124,
       "num_comments": 2,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87082,
+      "github_stars": 87175,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2608.09888",
       "arxiv_url": "https://arxiv.org/abs/2608.09888",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.09888.png",
-      "upvotes": 778,
+      "upvotes": 779,
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-10T05:48:37.260187+00:00"
+  "fetched_at": "2026-09-10T10:47:05.371162+00:00"
 }

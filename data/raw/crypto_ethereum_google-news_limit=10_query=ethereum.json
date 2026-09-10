@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "EF Protocol: The Hegot\u00e1 EIP Opinion Post and Tier List",
-      "source": "ethereum.org",
-      "source_url": "https://blog.ethereum.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZU9GRHlIMXFQb2F2YTNIWkl3NEt1WlpSSHMzUlJNazZQWTdPU1BCQnFTOVIwUGxUclk3c1VSUU1kWm9KN1lRU096ejFMMWRYSjFFWWU5d0JrNXpOUUNTUU1oWnUwQkx1?oc=5",
-      "pub_date": 1788792916.0,
-      "article_url": "https://blog.ethereum.org/2026/09/07/protocol-hegota-eips",
-      "image": "https://blog.ethereum.org/images/posts/2026/protocol-post-1.png",
-      "description": "The EF Protocol cluster\u2019s tier list for Hegot\u00e1 evaluates 62 proposed EIPs in a unified view."
+      "headline": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVdtSzQ1RnJFSjdnbjJET09aT0hJdEdkRVFFUWFnVWxjTFIwMHVQMy1QakVnNFVURWEzZVl5cWRhaXl4bHlxSkN4ckp4YmM3cjhsU0tFcHVEOFh6Y05nT1Btek9BeWIxUlVDZXYwR1MyaktCUWI1bElQZWZNaXp6Sl94aFQwUkltSkt6LWF4WlAzQjEtemVQQmZzRFlVVzRVdlR6UndnWmlzM2lHQjhRX1AtTGgtODBvMlRQbV9MRFJHUWh3RzhiYVpB?oc=5",
+      "pub_date": 1788965655.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+      "image": "https://www.tbstat.com/wp/uploads/2025/08/20250819_MetaMask_News-1200x675.jpg",
+      "description": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin."
     },
     {
       "headline": "Ethereum Is Up 31% in Thirty Days and XRP 33%. Which Is the Better Buy Before the Fed Meets?",
@@ -25,28 +25,18 @@
       "description": "Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision."
     },
     {
-      "headline": "Bit Digital (BTBT) Turns Its Ethereum Stash Into a Lending Machine",
-      "source": "Yahoo Finance",
+      "headline": "iPhone 18 Price in Bitcoin and Ethereum Jumps as Apple Breaks a 15-Year Crypto Trend",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2IzbWRUWVc0RVlrQ1FfNVA0cTFzRktNQkhJVGMtYm5zMHJtZjlmQWdsRVlTNC1VZ2NWWXA3NHd2LWZmNHEyUFY3ejVpdkhCVmpiOURTM0k3YVRnNF81UkJoVWpQTGZLd2J1SkFVOVFEaTR4MTNoV3ZnVnMyVFhzemQyX1VGUnJhMUI3emtrMXhGQlpzQTVGbF9sazc?oc=5",
-      "pub_date": 1789009560.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bit-digital-btbt-turns-ethereum-030631658.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/251a8fe7b3d47c229f292a80a2a881d38d16839a0997045d9cfc333af588d810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb6ba05fc340fb35a0b4d512e17de5878.jpg",
-      "description": "On August 13, Bit Digital (NASDAQ:BTBT) reported second-quarter revenue of $32.1 million, up 15% from the prior quarter, while narrowing its net loss to $107.2 million from $146.7 million. But the more interesting move buried in the release wasn\u2019t a growth number. It was how the company chose to fund WhiteFiber\u2019s newest data center: by [\u2026]"
-    },
-    {
-      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
-      "pub_date": 1788962400.0,
-      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
-      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOek1wckJmdFhrb1VIanc2YjdvYjU0SU1sVl91V003M3FPZkZMYWxkVllkMElBSHMybUlvU0dnMTVwNVB0cjNSaFpZbnVUNHUtSXg3Q3l3MHR2STZ2U1l5S2VuS050TDA1ZkRSNnhVOThNSzFwNVZGa2hZekZidmJ5OTFuckFPeDMxS2dubmtGRHJXWl9VSi1BdTVHWVJ6UQ?oc=5",
+      "pub_date": 1789029293.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/iphone-18-price-bitcoin-ethereum-083453682.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0194e1309ff654e284847851d35a17a789016176b1f943273e718a198b9dfc6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fa0bd19198468d87af26b8f2fd43e5c2f.png",
+      "description": "The iPhone 18 Pro costs about 0.0151 BTC or 0.48 ETH, while the Pro Max requires 0.0164 BTC or 0.52 ETH. Both models cost over ..."
     },
     {
       "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
       "pub_date": 1788967800.0,
@@ -55,8 +45,18 @@
       "description": null
     },
     {
+      "headline": "Current price of Ethereum for September 9, 2026",
+      "source": "fortune.com",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WFFhbkZwLWd3ems2Z25TaENuTnVEaVpSUzhjSG5vUm93U3FPclZOX28wc1Y3cGQ4S1hyd0NJa191Rnk4QzJ3dFpvang1WDhSend1elNUQ1FuazZEejlHOHg4MkFKOS1L?oc=5",
+      "pub_date": 1788951600.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-09-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-9.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
       "headline": "Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2d5cUdQTnBzS2RCcTBPUHQ2NXNLaHpTUnFxM2hDMzFjeEhIb19JUXRnVExwdFhuWFFLTVhfanhieWoyeC13bnptNlNuTmc0dmJSQ2hueTNMcDU0Rmk2SmdMM1cyMzJFT1czb2t2ODlDelBvcW5jZnFITTVkM21CNVFVak02MThCVzlza1FLTXRQOHFtNUE?oc=5",
       "pub_date": 1788885023.0,
@@ -65,24 +65,14 @@
       "description": "Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before."
     },
     {
-      "headline": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVdtSzQ1RnJFSjdnbjJET09aT0hJdEdkRVFFUWFnVWxjTFIwMHVQMy1QakVnNFVURWEzZVl5cWRhaXl4bHlxSkN4ckp4YmM3cjhsU0tFcHVEOFh6Y05nT1Btek9BeWIxUlVDZXYwR1MyaktCUWI1bElQZWZNaXp6Sl94aFQwUkltSkt6LWF4WlAzQjEtemVQQmZzRFlVVzRVdlR6UndnWmlzM2lHQjhRX1AtTGgtODBvMlRQbV9MRFJHUWh3RzhiYVpB?oc=5",
-      "pub_date": 1788965655.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
-      "image": "https://www.tbstat.com/wp/uploads/2025/08/20250819_MetaMask_News-1200x675.jpg",
-      "description": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, Dogecoin Flat as XRP Jumps 2%: Traders Call BTC Pullback 'Normal'",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXVfcHk2TEhHYVpqeWJveDR2QzVRZnFJb3FVUHlfb08xQjVMaUhXNUVjZEs1a25HajVuMGNLQWRNUllLWVVRbWgzYWx6bmJRT1V1cUVEQXpWMVlPYkhVanVnTGVHS2k0Tml2ZDZoOGowLUsxbDJnV0Iwa1NrLVBEeFRFa1VvZmJwd19Oc3BQNnotTHIzOXdMNWR5RVg2bWlOaUJjVmppbjhBU29ENG9TMEw5U2V6Ym1LQzhabnNlTmtJT2lIVl9jYnhQOV9CcFRyYzNn?oc=5",
-      "pub_date": 1788898422.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:17f991efd094b:0-bitcoin-ethereum-dogecoin-flat-as-xrp-jumps-2-traders-call-btc-pullback-normal/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin traded sideways around $78,000 as investors awaited key U.S. inflation data and the Federal Reserve\u2019s upcoming policy decision.Notable Statistics:Notable Developments:Trader Notes:Daan Crypto Trades said Bitcoin rebounded strongly after a liquidity grab, but open interest remains elevated\u2026"
+      "headline": "Here's Why I'm Buying Ethereum Right Now",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUJ2VG9UZ2hOYk01UkM0bzFzaU5hbHhYLWtzVDNhbklVZDhUT3pPc2JsZzYya2FRZmJtdlcyeHBKR0dtckJQLVp2ZXluOVRYYlcyYXVLbDdPTWs3TUcxYk9KME9wUWlsSklEb3kxX0pjN2lUU1J4emh6MmxpMmJpY3dBSmQxUQ?oc=5",
+      "pub_date": 1788980400.0,
+      "article_url": "https://www.fool.com/investing/2026/09/09/heres-why-im-buying-crypto-right-now/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885496%2Finvestor-staring-at-trading-screen-at-night.jpg&w=1200&op=resize",
+      "description": "At a price of just $2,500, Ethereum could be significantly undervalued."
     },
     {
       "headline": "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Here's Why I'm Buying Ethereum Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUJ2VG9UZ2hOYk01UkM0bzFzaU5hbHhYLWtzVDNhbklVZDhUT3pPc2JsZzYya2FRZmJtdlcyeHBKR0dtckJQLVp2ZXluOVRYYlcyYXVLbDdPTWs3TUcxYk9KME9wUWlsSklEb3kxX0pjN2lUU1J4emh6MmxpMmJpY3dBSmQxUQ?oc=5",
-      "pub_date": 1788980400.0,
-      "article_url": "https://www.fool.com/investing/2026/09/09/heres-why-im-buying-crypto-right-now/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885496%2Finvestor-staring-at-trading-screen-at-night.jpg&w=1200&op=resize",
-      "description": "At a price of just $2,500, Ethereum could be significantly undervalued."
+      "headline": "Crypto News: Pepeto Announces Final Binance Listing Steps While the Ethereum Price Prediction Targets $10,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdXBZWUNWR0EzTGVlQ3R5X0t1bWZGZDZvenpvNmlpN0k4QUJjdTV3WUJaOF9oTkVnSmZoNGhLcmRZMkZVZ0FPTFJZT0o2RkNjNV84Zm5aRWU1WFQ4V19OS0VvajNYVGhRQUhMLW52UkZFQlFPS2JVQXlFRVYyMlh1bFV5T2hxZHlCODJyeEhHSU9ZQmt1LUxRc3ctc29Fbk5zZ2xVZ2pXQlczMkkwM2YtV0tYaS03ZHVfSUxUOUtiYjhBLWZQN3dpaGo5R1I2ZnMtNXdKTkJjR2toU2p3TlRpdDFrbmFYN0c0MExuSnBkN3FEWlVnMW5zQ3NB?oc=5",
+      "pub_date": 1788983860.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-binance-listing-steps-while-the-ethereum-price-prediction-targets-10-000-1036533745",
+      "image": "https://ml.globenewswire.com/Resource/Download/9d599c3d-2957-435b-8228-aa7e406f36f7/photo-2026-09-09-23-59-50.jpg",
+      "description": "Dubai, UAE, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto, the viral crypto running on Ethereum, announces its Binance debut is down to the last tas..."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, Dogecoin Fall; XRP Gains Ahead of Key Inflation Data: Analyst Notes 'Another Strong Bullish Signal' for BTC",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVGNRZUlwVVRLeGlIZDNlelQ4YkJfM0xlalVvaEFybkhZTHZCWkhod3FFSXlIWmJlSGozUGpidnA4TFg4RDg2S3RXeDIzdkpuSVUxSV9GSWc1YTQ1eVFPVFhGdENUeHF0SDEyOFhkcGhqZXVOMGtrWHVOVWctcUlQYlBsWkN4Y2JPYXR1UHlHS0NKODhOaGtNeWNGUkx3NzMzUDE4d1FlVGxlVUxRZXhxWmRZNlNzcDdCWXlvcEZOMHdVQmJ3STF6S01pVUxBZU9YU294bnhBMC1yd3RzXzVJUVRpa05JaFRJY0Y1RDdDWUdkbWRZOXAxNU9ROFE3Nnl4ZVlIQjhBajg3OTQ?oc=5",
+      "pub_date": 1788920760.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:a1936b517094b:0-bitcoin-ethereum-dogecoin-fall-xrp-gains-ahead-of-key-inflation-data-analyst-notes-another-strong-bullish-signal-for-btc/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve\u2019s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum\u2018s advance stalled at $2,500, while\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T05:48:45.247896+00:00"
+  "fetched_at": "2026-09-10T10:47:12.934637+00:00"
 }

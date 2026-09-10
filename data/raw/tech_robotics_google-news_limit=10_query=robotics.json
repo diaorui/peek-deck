@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
-      "source": "SemiAnalysis",
-      "source_url": "https://newsletter.semianalysis.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQ0JtUjVxQWZaOEtZbFFjME5yQ2E5UzJQa2EwUEhjcDNyTE5Qd3lsMEtRNG1oQllOdHhfZ2VINTVYUVg4bEd5Vl9BVFdnSllsWWRvX1RoNS1ZSEtFRXFrV2F4LVRvSHhQZklPWTI0eGVHVHhyY3N5UjNMTVI?oc=5",
-      "pub_date": 1788987215.0,
-      "article_url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
-      "image": "https://substackcdn.com/image/fetch/$s_!AdT6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75b6506-406e-4606-b427-5d4be75cdafb_1672x941.png",
-      "description": "For most of its short history, AI lived behind a screen."
-    },
-    {
-      "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
-      "pub_date": 1788948600.0,
-      "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "From dance floor to war: China readies humanoid robots for combat",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -33,6 +13,36 @@
       "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Exclusive: Mistral robotics chief seeks \u20ac200m for new startup",
+      "source": "Sifted",
+      "source_url": "https://sifted.eu",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHJYbTB3aTd1VktCQzItd1VmM21UdURSclkwV1NjMzdadGwweW4yUm1ianM0MzJPNk5iMnFLS3ZKaE9VWERDZzBidFlKRndSSmoxZ3VockRGbGtMV3YyWU02aXlhQ1otbEJ0SlgydHhGcUtyRS15eEZEaXBQaG1TUmtKSzRuazRieHpjV1gxRVo?oc=5",
+      "pub_date": 1788926658.0,
+      "article_url": "https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup",
+      "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/08192855/Mistral-Icon-Gradient-RGB.jpg",
+      "description": "French AI scaleup Mistral launched its own robotics business unit last year."
+    },
+    {
+      "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
+      "source": "wsj.com",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
+      "pub_date": 1788948600.0,
+      "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNallKUzktNHBLcnV4YW9sZ3liNGpfVVBQdDZHWUY4UTUwVnZGZXhDUWJ2MExhTWN5M2xGdVFzWkRwT2drMlQ5TmRNeWdCaHdKcW5uQ2ZYSko1WTBFTW56ZnRPR0lXdVlhVmdfWnF5QU9uLVJDZVF2b2RobUViU2F3VEUtQ0NzcHlJU1hIT0NYVUtpeWRtY1E?oc=5",
+      "pub_date": 1788787666.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
+      "description": "Agility Robotics\u2019 S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot."
     },
     {
       "headline": "Automakers rush to humanoid robots for manufacturing and learn their limitations",
@@ -55,6 +65,26 @@
       "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
     },
     {
+      "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
+      "source": "SemiAnalysis",
+      "source_url": "https://newsletter.semianalysis.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQ0JtUjVxQWZaOEtZbFFjME5yQ2E5UzJQa2EwUEhjcDNyTE5Qd3lsMEtRNG1oQllOdHhfZ2VINTVYUVg4bEd5Vl9BVFdnSllsWWRvX1RoNS1ZSEtFRXFrV2F4LVRvSHhQZklPWTI0eGVHVHhyY3N5UjNMTVI?oc=5",
+      "pub_date": 1788987215.0,
+      "article_url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
+      "image": "https://substackcdn.com/image/fetch/$s_!AdT6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75b6506-406e-4606-b427-5d4be75cdafb_1672x941.png",
+      "description": "For most of its short history, AI lived behind a screen."
+    },
+    {
+      "headline": "Arm brings the ecosystem together to build and define the next phase of physical AI",
+      "source": "newsroom.arm.com",
+      "source_url": "https://newsroom.arm.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWRuTXp4VzNOWGtpWXFnSWhhN3dmSjFCTWFUOVpidTdfVWxnaVFhbm5mM1RHZ1Y3SjJCR1h6cWgwU3JzRkpwaUJLcUNhclpkTmlsMzZyT0dFRWRIbGhZVlpxUlItbGhVZU4ySlZPZDZpRG1JODRxYm5xUHEyVVdaamE4WUhDbFhRZ2lfZFk1ZlU4WW54UjdoQUdJOFk?oc=5",
+      "pub_date": 1788832965.0,
+      "article_url": "https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai",
+      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
+      "description": "Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems."
+    },
+    {
       "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
       "source": "Futurism",
       "source_url": "https://futurism.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
       "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
       "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
-    },
-    {
-      "headline": "Hugging Face Is Making A Big Robotics Push",
-      "source": "theinformation.com",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd251Ul9EX1hGX2V1dzVZRU16VUswalBSNjhmcXZad0pkUGhLRWVhZGN2T0h2VDNvcEVCS0E1dkJQRDdwcUktdG8xNlQyeXBEVkVaZVhvVFk5RTQwNzktWnZwSGE0LXVmeTFCV3Q4S0JuQmk1QmFZZF9HRGdhMGpyY21DaWtkSEpJWTJ2UEVDWEYtOWwwQ2c?oc=5",
-      "pub_date": 1788894360.0,
-      "article_url": "https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robotic fish swims like the real thing, and can be built to any size",
-      "source": "New Atlas",
-      "source_url": "https://newatlas.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rNTQ2ZVJmX2UycnAxOU5BbGF3b3NoUWdLXzBOTTVfUzM0Z1czY3FySUJSVXFUaTI5N0Y2ckJFclBWal9Ub2dUS2VRQm11U3V4c3Y5V0pZUi1Sb3NVNUJFNTI2SS1ybkhPRkE?oc=5",
-      "pub_date": 1788890870.0,
-      "article_url": "https://newatlas.com/robotics/scafi-scalable-robotic-fish/",
-      "image": "https://assets.newatlas.com/dims4/default/231b0ac/2147483647/strip/true/crop/3000x1575+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F33%2Fcf%2F69b9ee334115af2808d61a6b6e5b%2Ffish-robot.jpeg&na.image_optimisation=0",
-      "description": "Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish."
-    },
-    {
-      "headline": "XTEND AI Robotics CEO Aviv Shapira on firm\u2019s next chapter after going public",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMVhGVW51M3hMRklTVHMzREIwOTRWV2RmdGNaWjJSRkVPZ09OdDhEcTBobUhaYWRnQno0b0RPbDZsb01ULUJkdS1ST0hwWnFoc19ZRTRuRmN3dEx2UmItMnoteF90YjlES2ZBMzdYdkoxYzFDc1lLUkxLOEdpaFVXWU5Naw?oc=5",
-      "pub_date": 1788991512.0,
-      "article_url": "https://qz.com/xtend-ai-robotics-ceo-on-firms-next-chapter-after-going-public",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/XTEND%20AI%20Robotics%20CEO%20Aviv%20Shapira%20on%20firm%E2%80%99s%20next%20chapter%20after%20going%20public.jpg",
-      "description": "XTEND AI Robotics CEO Aviv Shapira on firm\u2019s next chapter after going public"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T05:48:45.696905+00:00"
+  "fetched_at": "2026-09-10T10:47:13.763784+00:00"
 }
