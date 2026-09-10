@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-10T10:47:29.531531+00:00'
+updated: '2026-09-10T14:53:32.693096+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 10:47 UTC  
+**Last Updated:** September 10, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,000.96
+### $77,253.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -2.1%  
-**30d:** +23.0%  
-**90d:** +21.1%  
-**1y:** -32.4%  
+**24h:** -1.6%  
+**7d:** -2.9%  
+**30d:** +21.9%  
+**90d:** +20.0%  
+**1y:** -33.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1565.94B
+**Market Cap:** $1552.77B
 Rank #1
 
-**Circulating Supply:** 20,082,225 BTC
+**Circulating Supply:** 20,082,346 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.2%
+-38.7%
 
 **All-Time Low:** $67.81
-+114887.5%
++113905.3%
 
 ---
 
@@ -77,6 +77,42 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Good use to for the new phone](https://www.reddit.com/r/Bitcoin/comments/1wcb9yb/good_use_to_for_the_new_phone/)**
+
+8h ago
+
+---
+
+**[Welcome to the Club, Mate](https://www.reddit.com/r/Bitcoin/comments/1wchv12/welcome_to_the_club_mate/)**
+
+2h ago
+
+---
+
+**[We gottem boys](https://www.reddit.com/r/Bitcoin/comments/1wc267o/we_gottem_boys/)**
+
+15h ago
+
+---
+
+**[Inflation is theft](https://www.reddit.com/r/Bitcoin/comments/1wbzf83/inflation_is_theft/)**
+
+17h ago
+
+---
+
+**[The iPhone got cheaper. If you disagree, you simply don’t see the vision!](https://www.reddit.com/r/Bitcoin/comments/1wc0ho4/the_iphone_got_cheaper_if_you_disagree_you_simply/)**
+
+16h ago
+
+---
+
+**[Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case](https://www.reddit.com/r/Bitcoin/comments/1wcggcw/singaporean_22year_old_pleads_guilty_to_being_the/)**
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case) • 3h ago
+
+---
+
 **[What are your thoughts on the actual inflation rate guys?](https://www.reddit.com/r/Bitcoin/comments/1wbhys5/what_are_your_thoughts_on_the_actual_inflation/)**
 
 According to the table shared by River, some sectors have experienced inflation almost four times higher than official figures. Based on these figures, what should the interest rate have been?
@@ -85,67 +121,27 @@ According to the table shared by River, some sectors have experienced inflation 
 
 ---
 
-**[Inflation is theft](https://www.reddit.com/r/Bitcoin/comments/1wbzf83/inflation_is_theft/)**
+**[Jack Mallers shares Behind the Scenes Video of El Salvadors Bitcoin Adoption](https://www.reddit.com/r/Bitcoin/comments/1wck00z/jack_mallers_shares_behind_the_scenes_video_of_el/)**
 
-13h ago
+Watch the Full Video here: https://youtu.be/lT2vmdBvtK0
 
----
-
-**[The inflation the government won't tell you about...](https://www.reddit.com/r/Bitcoin/comments/1wbq6bs/the_inflation_the_government_wont_tell_you_about/)**
-
-18h ago
+55m ago
 
 ---
 
-**[JUST IN: Bitcoin featured in WSJ - "When dollar users dismiss bitcoin, they aren’t simply ignoring its origin story as a protest against a corrupt system—they are blinded by their financial privilege." - Alex Gladstein](https://www.reddit.com/r/Bitcoin/comments/1wbq5ri/just_in_bitcoin_featured_in_wsj_when_dollar_users/)**
+**[In the Wall Street Journal there was a column about the main mission of bitcoin – financial freedom](https://www.reddit.com/r/Bitcoin/comments/1wccmig/in_the_wall_street_journal_there_was_a_column/)**
 
-Bitcoin can protect savings and commerce beyond traditional financial systems.
+An influencing American edition published an article that residents of the developed countries often criticize bitcoin only because of their own financial privilege. While US citizens are accustomed to a stable dollar and reliable banks, for billions of people around the world the first cryptocurrencies was the only salvation from hyperinflation and authoritarian control. The author Alex Gladstein recalls that bitcoin appeared after the crisis of 2008 as a protest against the rescue of bankrupt banks at the expense of taxpayers. Today, in countries such as Nigeria, Egypt or Argentina, where national currencies have collapsed by 70-90%, it protects accumulators of ordinary families from complete annihilation. The main value of bitcoin is a financial system, where no one can arbitrarily froze other people's money or cancel an honest transfer.
 
-🔗 [The Nakamoto Project](https://partners.wsj.com/the-nakamoto-project/bitcoin-reframed/bitcoins-overlooked-promise-freedom/) • 18h ago
-
----
-
-**[The iPhone got cheaper. If you disagree, you simply don’t see the vision!](https://www.reddit.com/r/Bitcoin/comments/1wc0ho4/the_iphone_got_cheaper_if_you_disagree_you_simply/)**
-
-12h ago
+6h ago
 
 ---
 
-**[MicroStrategy just launched $250 Bitcoin themed Jordans, but doesn't accept Bitcoin or any crypto as payment. Michael Saylor: ''If you wanna run like a bull then you need to also look like one''](https://www.reddit.com/r/Bitcoin/comments/1wbu9o2/microstrategy_just_launched_250_bitcoin_themed/)**
+**[How Bitcoin coins actually get traced, and what still protects you after the 2024 coinjoin shutdowns](https://www.reddit.com/r/Bitcoin/comments/1wciy42/how_bitcoin_coins_actually_get_traced_and_what/)**
 
-16h ago
+We just published a new Rabbit Hole on Bitcoin privacy: https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy It tries to do the thing most privacy writeups skip, which is explain the mechanism before the advice. Two heuristics do most of the tracing work (common-input ownership, which Satoshi flagged in the whitepaper, and change detection). Neither one produces a name. The name comes from the exchange record when you withdraw from a KYC account, and that one label spreads across everything the heuristics grouped with it. The chapter is honest about the other side. Chain analysis recovered the Colonial Pipeline ransom and the Bitfinex coins, and we say so. It is also run against every ordinary deposit at every exchange, and in the Bitcoin Fog case a Chainalysis executive testified she was not aware of studies establishing the software's error rate. Both things are true. The 2024 section covers the Samourai arrests, the Wasabi coordinator shutdown, what survived (JoinMarket, and then its own maintenance problems), and the quieter tools that grew in the gap: PayJoin and Silent Payments. The main takeaway is that most leaks are not on the chain. Public wallet servers, home IPs, and people posting balance screenshots leak more than any heuristic, and the fixes for those are free. Every claim is sourced at the bottom of the page (DOJ releases, the BIPs, the 2013 UCSD paper, Chainalysis's own report). If we got something wrong, tell us and we will fix it.
 
----
-
-**[Iran Continues Using Bitcoin To Keep Economy Stable: Report](https://www.reddit.com/r/Bitcoin/comments/1wbumjq/iran_continues_using_bitcoin_to_keep_economy/)**
-
-Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method.
-
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy) • 15h ago
-
----
-
-**[Bitbox & Trezor entropy vulnerability warning phishing scams - almost got me!](https://www.reddit.com/r/Bitcoin/comments/1wbxljq/bitbox_trezor_entropy_vulnerability_warning/)**
-
-Man, these ones were pretty good -- compelling message, urgency, and checked all the typical boxes of authenticity... until they asked me to enter my seed AND passphrase into a form not hosted on these manufacturers' official domains. Absolutely lethal, if you're skittish about hardware wallet vulns (and who isn't rn?), and not paying close attention. Both cos have been notified, and have been super-responsive with follow up. Stay safe out there, folks <3
-
-14h ago
-
----
-
-**[“All messages will be in plaintext.” The Liquid exploiter announced a switch away from encrypted on-chain messages](https://www.reddit.com/r/Bitcoin/comments/1wbotxw/all_messages_will_be_in_plaintext_the_liquid/)**
-
-The Liquid exploiter and Blockstream have been communicating through messages embedded in Bitcoin transactions, with parts of the exchange encrypted so outside observers couldn’t read them. On September 8, the exploiter announced a change in how they would communicate: All messages will be in plaintext. Transaction ID: 1d690f3b96b878067f3a445b74dfb8fab4201c0455d88ac98cc14a927e7858d7 On September 9, a subsequent plaintext message made the dispute public. Two excerpts: And later: Anyway we are going to publish the privatekey to decrypt our conversations afterwards. The message demanded payment from Blockstream’s own funds and warned that refusing would leave holders facing a 15% loss. That is the sender’s demand and warning—not evidence of an agreed bounty or an independently established outcome for holders. Transaction ID: f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588 What makes this interesting is the distinction between a public transaction and a readable conversation. The exchanges were already visible on Bitcoin, but the encrypted content wasn’t. Now the exploiter is making their demands readable to everyone and saying they will release the material needed to decrypt the earlier exchanges. Blockstream, meanwhile, reportedly continued replying with encrypted messages.
-
-19h ago
-
----
-
-**[Who else doubles down during the bear market?](https://www.reddit.com/r/Bitcoin/comments/1wbksn0/who_else_doubles_down_during_the_bear_market/)**
-
-This is my first bear market so I apologize if I sound unsure or ill informed. I have been DCA bitcoin for the past three years now with full intentions on doubling down my DCA during the bear market bottom. For the people that DCA, do you ever change your DCA figure or do you truly purchase the same amount throughout the entire course of the cycle?
-
-21h ago
+1h ago
 
 ---
 
@@ -157,47 +153,55 @@ This is my first bear market so I apologize if I sound unsure or ill informed. I
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree with the laundered proceeds.
 
-CNN • 8h ago
+CNN • 12h ago
 
 ---
 
-**[Bitcoin News: Bond Stress and Regulation Shape Armstrong’s $400K BTC Prediction](https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-bond-stress-regulation-094814552.html)**
+**[Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)**
 
-Brian Armstrong, Coinbase’s CEO, said Bitcoin reaching $400,000 by 2030 is a reasonable target, and described the $300,000-$400,000 range as very likely to be hit within that window, in a CNBC Squawk Box Asia segment. The call is Armstrong’s personal read on where Bitcoin’s price could land, not a formal ...
+Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
 
-finance.yahoo.com • 59m ago
-
----
-
-**[Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green](https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green)**
-
-coindesk.com • 3h ago
+The Block • 4h ago
 
 ---
 
-**[What next as dogecoin drops 5%, bitcoin prints a 'golden cross' near $78,000?](https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level)**
+**[Bitcoin News: Bond Stress and Regulation Shape Armstrong’s $400K BTC Prediction](https://www.tradingview.com/news/cryptonews:569cbb73a094b:0-bitcoin-news-bond-stress-and-regulation-shape-armstrong-s-400k-btc-prediction/)**
 
-coindesk.com • 3h ago
+Brian Armstrong, Coinbase’s CEO, said Bitcoin reaching $400,000 by 2030 is a reasonable target, and described the $300,000-$400,000 range as very likely to be hit within that window, in a . The call is Armstrong’s personal read on where Bitcoin’s price could land, not a formal Coinbase corporate fo…
 
----
-
-**[AI May Eventually Render Gold Obsolete: The Case For A 5% Bitcoin Hedge Allocation](https://seekingalpha.com/article/4944382-ai-may-eventually-render-gold-obsolete-the-case-for-a-5-percent-bitcoin-hedge-allocation)**
-
-While gold remains a strong buy, investors should hedge against AI-driven scarcity disruption with a 5% Bitcoin allocation. Read what investors need to know.
-
-Seeking Alpha • 19h ago
+TradingView • 5h ago
 
 ---
 
-**[AI Boom Wrecks Trump’s Plan for ‘Made-in-America’ Bitcoin Mining](https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining)**
+**[Watch Coinbase CEO Predicts Bitcoin's Downturn Is Over](https://www.bloomberg.com/news/videos/2026-09-10/insight-with-haslinda-amin-9-10-2026-video)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 7h ago
+
+---
+
+**[Coinbase CEO Says Bitcoin Has Bottomed](https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-bitcoin-bottomed-135500049.html)**
+
+Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong said that he believes Bitcoin (CRYPTO: $BTC) has officially bot...
+
+Yahoo Finance • 58m ago
+
+---
+
+**[Bitcoin Slips Further Below $80,000 as the Range Trade Resumes](https://www.bloomberg.com/news/articles/2026-09-10/bitcoin-slips-further-below-80-000-as-the-range-trade-resumes)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+
+CoinDesk • 23h ago
 
 ---
 
 **[California crypto ‘Godfather’ gets 15 years for Bitcoin kidnapping plot](https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/)**
 
-ktla.com • 14h ago
+KTLA • 18h ago
 
 ---
 
@@ -205,21 +209,13 @@ ktla.com • 14h ago
 
 Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
 
-muddyriversports.com • 1d ago
+Muddy River Sports • 1d ago
 
 ---
 
-**[Iran Continues Using Bitcoin To Keep Economy Stable: Report](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy)**
+**[Bessent’s ‘Opening Gambit’—Bitcoin Suddenly Braced For A $32 Trillion Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/10/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
 
-Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method.
-
-Bitcoin Magazine • 16h ago
-
----
-
-**[Bankrupt ATM network sells 2,446 machines below $1M](https://www.thestreet.com/crypto/markets/bankrupt-atm-network-sells-2446-machines-below-1m)**
-
-thestreet.com • 5h ago
+Forbes • 2h ago
 
 ---
 
@@ -281,6 +277,14 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 ---
 
+**[Privacy on Bitcoin: what works and what doesn't](https://news.ycombinator.com/item?id=49643366)**
+
+Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
+
+⬆️ 1 • 💬 0 • 1h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+
+---
+
 **[Getdescriptorinfo – Bitcoin Core RPC Reference – Chainquery.com](https://news.ycombinator.com/item?id=49621007)**
 
 analyses a descriptor.
@@ -293,7 +297,7 @@ analyses a descriptor.
 
 Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
 
-⬆️ 17 • 💬 2 • 5d ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
+⬆️ 18 • 💬 2 • 5d ago • [IGN](https://www.ign.com/articles/white-house-launches-arcadegov-a-minigame-site-where-you-catch-immigrants-build-a-tetris-border-wall-and-fill-your-kids-trump-accounts-with-bitcoin)
 
 ---
 
@@ -301,23 +305,13 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 ## YouTube Videos: "bitcoin"
 
-**[Bessent: “I Am the House Now” | Could Bitcoin Hit $840K as Trust in the System Breaks?](https://www.youtube.com/watch?v=ZdSb3rL9y_A)**
+**[Bitcoin Recovery Halted By Another Macro Trap?](https://www.youtube.com/watch?v=-Jgb_wCC9Ak)**
 
-Treasury Secretary Scott Bessent just dared traders to bet against the yen, calling himself "the house" with "asymmetric ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
 
-📺 Simply Bitcoin
+📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 95 • ⏱️ 17:22 • 11h ago
-
----
-
-**[Bitcoin: Bull Case Vs. Bear Case](https://www.youtube.com/watch?v=v-36sjL7KSs)**
-
-Let's talk about the Bitcoin bull case vs. the bear case! 0:00 - INTRO bull case vs bear case 2:52 Setting up the indicator tally 3:29 ...
-
-📺 Benjamin Cowen
-
-👁️ 132K • 👍 5K • 💬 373 • ⏱️ 1:18:30 • 14h ago
+👁️ 4K • 👍 306 • 💬 21 • ⏱️ 53:02 • 7m ago
 
 ---
 
@@ -327,7 +321,37 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 100 • 💬 28 • ⏱️ 18:12 • 12h ago
+👁️ 8K • 👍 110 • 💬 21 • ⏱️ 18:12 • 16h ago
+
+---
+
+**[Bessent: “I Am the House Now” | Could Bitcoin Hit $840K as Trust in the System Breaks?](https://www.youtube.com/watch?v=ZdSb3rL9y_A)**
+
+Treasury Secretary Scott Bessent just dared traders to bet against the yen, calling himself "the house" with "asymmetric ...
+
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 116 • ⏱️ 17:22 • 15h ago
+
+---
+
+**[Bitcoin: Bull Case Vs. Bear Case](https://www.youtube.com/watch?v=v-36sjL7KSs)**
+
+Let's talk about the Bitcoin bull case vs. the bear case! 0:00 - INTRO bull case vs bear case 2:52 Setting up the indicator tally 3:29 ...
+
+📺 Benjamin Cowen
+
+👁️ 148K • 👍 5K • 💬 408 • ⏱️ 1:18:30 • 19h ago
+
+---
+
+**[America’s DEBT Problem Just Got WORSE | Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=6mK4TO39OkI)**
+
+Japan dumped $90 billion in US Treasuries as the global financial system faces growing pressure. US interest costs are surging, ...
+
+📺 Simply Bitcoin
+
+👁️ 36K • 👍 1K • 💬 58 • ⏱️ 14:32 • 1d ago
 
 ---
 
@@ -337,7 +361,7 @@ Bitcoin just had a golden cross. Normally we get dumps after golden crosses. Wha
 
 📺 Benjamin Cowen
 
-👁️ 212K • 👍 7K • 💬 253 • ⏱️ 9:37 • 1d ago
+👁️ 213K • 👍 7K • 💬 254 • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -347,57 +371,37 @@ Scott Bessent's Operation Economic Outcast may have had the opposite outcome the
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 285 • 💬 22 • ⏱️ 1:17:25 • 4h ago
+👁️ 13K • 👍 293 • 💬 21 • ⏱️ 1:17:25 • 8h ago
 
 ---
 
-**[Bitcoin Holders: The Golden Cross Is Here (What Happens Next)](https://www.youtube.com/watch?v=dKqnAIZFoIA)**
+**[A BITCOIN COLLAPSE IS COMING!](https://www.youtube.com/watch?v=nfroCAoDa64)**
 
-Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit from $100: Get a 5% bonus ➡️ Where I Trade: ...
+Benjamin Cowen puts a 65% probability on Bitcoin falling further—and I agree that the bearish scenario is possible, but ...
 
-📺 Aaron Bennett
+📺 Davinci Jeremie
 
-👁️ 16K • 👍 450 • 💬 56 • ⏱️ 10:08 • 1d ago
-
----
-
-**[This Might Be The Next Bitcoin!😨](https://www.youtube.com/watch?v=Hs3tSTH1h2I)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 10K • 👍 213 • 💬 11 • ⏱️ 0:29 • 2d ago
+👁️ 7K • 👍 219 • 💬 36 • ⏱️ 14:19 • 13h ago
 
 ---
 
-**[Scott Bessent Just Lit the Fuse for a Major Bitcoin Pump!](https://www.youtube.com/watch?v=bA1coiidgsw)**
+**[$1 Million Bitcoin Use Case - Iran Just Turned To Bitcoin During War](https://www.youtube.com/watch?v=jkmuqF9H-Cw)**
 
-Ran breaks down the major forces driving Bitcoin and crypto right now as oil approaches a critical level and inflation keeps ...
+Bitcoin is being used where the stakes couldn't be higher. Financial Times reports Iran is increasingly using Bitcoin and Tether to ...
 
-📺 Crypto Banter
+📺 Bitcoin News Alerts
 
-👁️ 41K • 👍 1K • 💬 60 • ⏱️ 27:32 • 20h ago
-
----
-
-**[BITCOIN: The Next Test Of Resistance Should Break Price Out! [My Top Picks]](https://www.youtube.com/watch?v=oCLL6fHHijU)**
-
-Every tap of Bitcoin into $81500 is draining the sellers. In today's session, Kyle Doops breaks down the market structure, maps the ...
-
-📺 Crypto Banter
-
-👁️ 27K • 👍 1K • 💬 15 • ⏱️ 37:07 • 1d ago
+👁️ 6K • 👍 260 • 💬 92 • ⏱️ 16:10 • 20h ago
 
 ---
 
-**[BITCOIN HIGHER!? WAIT FOR THESE CRYPTO ENTRIES!](https://www.youtube.com/watch?v=q3JhzzghZkw)**
+**[XRP &amp; Bitcoin Are About To Usher In The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=rByJc531jhA)**
 
-TOOBIT — TRADING BOTS & AN EXCLUSIVE 20% DEPOSIT BONUS!
+I'm not sure if everyone else has noticed but there are tons of whales and rich people who are accumulating MASSIVE amounts of ...
 
-📺 100XClub
+📺 Money Rules - Investing Tips 
 
-👁️ 13K • 👍 910 • 💬 219 • ⏱️ 7:18 • 2d ago
+👁️ 4K • 👍 971 • 💬 378 • ⏱️ 14:01 • 3h ago
 
 ---
 

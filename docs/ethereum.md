@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-10T10:47:29.537619+00:00'
+updated: '2026-09-10T14:53:32.697305+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 10:47 UTC  
+**Last Updated:** September 10, 2026 at 14:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,476.78
+### $2,433.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +0.4%  
-**30d:** +31.3%  
-**90d:** +46.8%  
-**1y:** -44.7%  
+**24h:** -2.0%  
+**7d:** -0.6%  
+**30d:** +29.9%  
+**90d:** +45.2%  
+**1y:** -45.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.24B
+**Market Cap:** $297.64B
 Rank #2
 
 **Circulating Supply:** 122,035,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.1%
+-50.7%
 
 **All-Time Low:** $0.43
-+570010.8%
++563206.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 12h ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum co-founder Vitalik Buterin has proposed a new system that could change 
 
 Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasury toward a staggering size that rivals its entire stock market value. But the real question is whether this buying spree moves the price of ETH or simply makes BMNR a turbocharged bet on a coin that has already lost half its value from peak.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 21h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 9h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-3h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We recently made a completely free tool that lets you simulate how an Aave position (leveraged ETH) would have performed over any timeframe in the past. You can either set up a fake Aave position, or search a wallet address with an actual position. Then, you set a timeframe and simulate how that position would have performed. That includes info on your net earning/loss, but also if you would have experienced a liquidation. Would avoid sharing a direct link here as I fully understand and respect apprehension over random links found on Reddit. Instead, I'll share a link to our tweet about the tool, so you can verify that it's legit/harmless before clicking: https://x.com/DeFiSaver/status/2095158683055661235 No need to connect your wallet, and no catch. It's just a fun tool to play around with and test how much leverage would have been too much over certain timeframes - Or, if you expect similar market patterns to repeat in the future (and position yourself accordingly)
 
-1d ago
+2d ago
 
 ---
 
@@ -136,7 +136,7 @@ We recently made a completely free tool that lets you simulate how an Aave posit
 
 Follow up from last week: https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/ Just went ahead and shipped it. Honestly gotta say it almost felt joyful to see it work so cleanly. It took so much less work than I thought it would (compared to something like crypto invoice logic). Thanks for all of the recommended reading you guys gave. I am curious about leveling this up to a zero-knowledge proof implementation. I am doing all my catch up reading on the state of L2s these days. Screenshots are from a local instance running off Sepolia, but we have this working in production today!
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in 
 
 The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.
 
-The Block • 19h ago
+The Block • 23h ago
 
 ---
 
@@ -164,29 +164,37 @@ The Block • 19h ago
 
 Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision.
 
-24/7 Wall St. • 1d ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[iPhone 18 Price in Bitcoin and Ethereum Jumps as Apple Breaks a 15-Year Crypto Trend](https://finance.yahoo.com/markets/crypto/articles/iphone-18-price-bitcoin-ethereum-083453682.html)**
+**[Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html)**
 
-The iPhone 18 Pro costs about 0.0151 BTC or 0.48 ETH, while the Pro Max requires 0.0164 BTC or 0.52 ETH. Both models cost over ...
+Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-coindesk.com • 19h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Current price of Ethereum for September 9, 2026](https://fortune.com/article/price-of-ethereum-09-09-2026/)**
+**[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-fortune.com • 23h ago
+Fortune • 1d ago
+
+---
+
+**[Undervalued Ethereum Proxy: SharpLink Trades At 0.85x mNAV Near Cycle Bottom With No Debt](https://seekingalpha.com/article/4945012-undervalued-ethereum-proxy-sharplink-trades-at-0-85x-mnav-near-cycle-bottom-with-no-debt)**
+
+SharpLink is rated a Buy as a conservative, ETH-focused treasury play trading at 0.85x mNAV, below its crypto holdings. Read more on SBET stock here.
+
+Seeking Alpha • 54m ago
 
 ---
 
@@ -194,37 +202,29 @@ fortune.com • 23h ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Here's Why I'm Buying Ethereum Right Now](https://www.fool.com/investing/2026/09/09/heres-why-im-buying-crypto-right-now/)**
+**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
 
-At a price of just $2,500, Ethereum could be significantly undervalued.
-
-fool.com • 15h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://www.etf.com/sections/features/crypto-etfs-2026-bitcoin-ethereum-and-altcoin-wave-explained)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.93 Million Tokens, and Total Crypto and Total Cash Holdings of $15.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-93-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-7-billion-302871960.html)**
 
-ETF.com • 16h ago
+Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
 
----
-
-**[Crypto News: Pepeto Announces Final Binance Listing Steps While the Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-binance-listing-steps-while-the-ethereum-price-prediction-targets-10-000-1036533745)**
-
-Dubai, UAE, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto, the viral crypto running on Ethereum, announces its Binance debut is down to the last tas...
-
-markets.businessinsider.com • 14h ago
+PR Newswire • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, Dogecoin Fall; XRP Gains Ahead of Key Inflation Data: Analyst Notes 'Another Strong Bullish Signal' for BTC](https://www.tradingview.com/news/benzinga:a1936b517094b:0-bitcoin-ethereum-dogecoin-fall-xrp-gains-ahead-of-key-inflation-data-analyst-notes-another-strong-bullish-signal-for-btc/)**
+**[Ethereum: Vitalik Buterin Advances Privacy Cost Cuts](https://blockchain.news/flashnews/ethereum-vitalik-buterin-advances-privacy-cost-cuts)**
 
-Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve’s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum‘s advance stalled at $2,500, while…
+Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
 
-TradingView • 1d ago
+blockchain.news • 3h ago
 
 ---
 
@@ -238,17 +238,17 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 16K • 👍 947 • 💬 296 • ⏱️ 28:10 • 1d ago
+👁️ 16K • 👍 956 • 💬 261 • ⏱️ 28:10 • 1d ago
 
 ---
 
-**[I’M GOING ALL IN ON ETHEREUM !!!!!!](https://www.youtube.com/watch?v=dO5XExdb_-U)**
+**[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Deposit 100 ...
+These news are not helping Bitcoin and the rest of crypto. Markets are hanging by a thread! Here is all that you need to know!
 
-📺 The Moon Show
+📺 Thomas Kralow
 
-👁️ 18K • 👍 541 • 💬 47 • ⏱️ 3:29 • 2d ago
+👁️ 3K • 👍 1K • 💬 15 • ⏱️ 9:10 • 4h ago
 
 ---
 
@@ -258,7 +258,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 263 • 💬 28 • ⏱️ 14:25 • 1d ago
+👁️ 14K • 👍 272 • 💬 24 • ⏱️ 14:25 • 1d ago
+
+---
+
+**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 297 • 👍 13 • ⏱️ 5:08 • 6h ago
 
 ---
 
@@ -272,13 +282,33 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 ---
 
+**[ETH Bull Flag: Why I’m Not Chasing the Breakout](https://www.youtube.com/watch?v=KR9I7Odg6x4)**
+
+Ethereum is forming a very nice bull flag, and from my opinion ETH still looks bullish. If BTC starts sweeping buy-side liquidity, ...
+
+📺 CryptoHersens
+
+👁️ 426 • 👍 23 • ⏱️ 1:27 • 1h ago
+
+---
+
 **[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 63K • 👍 694 • 💬 51 • ⏱️ 18:40 • 2d ago
+👁️ 64K • 👍 698 • 💬 51 • ⏱️ 18:40 • 2d ago
+
+---
+
+**[🔴 LIVE: XAU GOLD + CRYPTO Price Action | Bitcoin, ETH &amp; Gold Analysis Today | Support Resistance](https://www.youtube.com/watch?v=edr2KNhreVc)**
+
+Open Account With Shark Exchange for FREE Access to AK Roxx ALPHA - https://sharkexchange.in/referral?code=AAK787 Open ...
+
+📺 Nifty Technicals by AK
+
+👁️ 417 • 👍 319 • 1h ago
 
 ---
 
@@ -298,35 +328,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 14K • 👍 304 • 💬 23 • ⏱️ 12:04 • 2d ago
-
----
-
-**[BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrHWO-L5Mww)**
-
-BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 341 • 💬 86 • ⏱️ 18:25 • 14h ago
-
----
-
-**[Ethereum Consolidation Is Creating a Surprising Bullish Setup](https://www.youtube.com/watch?v=v4iApLZO-gw)**
-
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 1K • 👍 18 • 💬 3 • ⏱️ 4:29 • 2d ago
-
----
-
-**[ETH is coiling up for a big move](https://www.youtube.com/watch?v=j5urvydu73I)**
-
-📺 Tyler Hill Crypto
-
-👁️ 2K • 👍 43 • 💬 51 • ⏱️ 1:14 • 21h ago
+👁️ 14K • 👍 307 • 💬 23 • ⏱️ 12:04 • 2d ago
 
 ---
 
