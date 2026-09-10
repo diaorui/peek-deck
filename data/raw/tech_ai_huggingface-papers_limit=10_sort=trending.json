@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.10522",
       "arxiv_url": "https://arxiv.org/abs/2609.10522",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 104,
+      "upvotes": 115,
       "num_comments": 2,
       "published_at": "2026-09-08T20:00:00.000Z",
       "github_repo": "https://github.com/showlab/Show-Harness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-10T21:04:54.593451+00:00"
+  "fetched_at": "2026-09-10T23:20:20.482212+00:00"
 }

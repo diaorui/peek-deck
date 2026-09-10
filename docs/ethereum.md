@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-10T21:05:14.161758+00:00'
+updated: '2026-09-10T23:20:40.417996+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 21:05 UTC  
+**Last Updated:** September 10, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,433.42
+### $2,461.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.2%  
-**30d:** +31.0%  
-**90d:** +46.4%  
-**1y:** -44.9%  
+**24h:** -1.0%  
+**7d:** -0.6%  
+**30d:** +29.8%  
+**90d:** +45.2%  
+**1y:** -45.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $300.46B
+**Market Cap:** $297.70B
 Rank #2
 
 **Circulating Supply:** 122,035,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.2%
+-50.7%
 
 **All-Time Low:** $0.43
-+568336.3%
++563414.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 22h ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 1d ago
 
 ---
 
@@ -96,7 +96,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-14h ago
+16h ago
 
 ---
 
@@ -156,7 +156,7 @@ The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in 
 
 The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
 
-The Block • 8h ago
+theblock.co • 10h ago
 
 ---
 
@@ -168,6 +168,30 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 ---
 
+**[Which Crypto Could Make You a Millionaire by 2028: XRP or Ethereum?](https://finance.yahoo.com/markets/crypto/articles/crypto-could-millionaire-2028-xrp-221708542.html)**
+
+One of these two cryptos already crossed the million-dollar threshold for a specific holding size this year, and the other would need a price that exceeds every company on Earth combined. Figuring out which is which changes everything about a 2028 millionaire strategy.
+
+finance.yahoo.com • 1h ago
+
+---
+
+**[Crypto News: New Meme Coin Pepeto Announces New Presale Stage as Its Ethereum, Solana, and BNB Chain Bridge Nears Launch](https://markets.businessinsider.com/news/stocks/crypto-news-new-meme-coin-pepeto-announces-new-presale-stage-as-its-ethereum-solana-and-bnb-chain-bridge-nears-launch-1036537616)**
+
+DUBAI, United Arab Emirates, Sept.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto ($PEPETO) announces its newest presale stage just opened. The previous ro...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Traders Are Betting Ethereum Falls Back to $2,250 This Year. What Would Have to Go Wrong?.ππ[][,](https://finance.yahoo.com/markets/crypto/articles/traders-betting-ethereum-falls-back-211232373.html)**
+
+Options traders have piled protection around one specific Ethereum price level, and two votes scheduled just 24 hours apart could decide whether that protection pays off before year-end.
+
+finance.yahoo.com • 2h ago
+
+---
+
 **[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
@@ -176,25 +200,17 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html)**
-
-Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
-
-Yahoo Finance • 9h ago
-
----
-
 **[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
-**[Is Ethereum price at risk of losing $2,400 as oil tops $105?](https://www.tradingview.com/news/invezz:89fc51825094b:0-is-ethereum-price-at-risk-of-losing-2-400-as-oil-tops-105/)**
+**[Bitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts](https://www.tradingview.com/news/cryptobriefing:3e8a75f52094b:0-bitcoin-ethereum-options-worth-3b-expire-as-eth-traders-shift-defensively-toward-puts/)**
 
-Ethereum price has fallen nearly 4% over the past 24 hours to around $2,420, putting the $2,400 level at risk after oil climbed above $105 and US Treasury yields rose sharply.CoinGecko puts ETH at roughly $2,419 at the time of writing, down 3.9% over the past day after the token traded as high as r…
+Roughly $3 billion in Bitcoin and Ethereum options expired on Deribit, and the two assets told very different stories heading into settlement. Bitcoin's options book stayed firmly tilted toward calls, the optimistic bets. Ethereum's, meanwhile, drifted toward puts, the kind of contracts you buy whe…
 
-TradingView • 5h ago
+TradingView • 2h ago
 
 ---
 
@@ -202,29 +218,15 @@ TradingView • 5h ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 2d ago
+finance.yahoo.com • 2d ago
 
 ---
 
-**[Ethereum news: Bitmine (BMNR) buys $69 million ETH, expects another sharp price surge](https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume)**
+**[Ethereum: Vitalik Buterin Advances Privacy Cost Cuts | Flash News Detail](https://blockchain.news/flashnews/ethereum-vitalik-buterin-advances-privacy-cost-cuts)**
 
-coindesk.com • 2d ago
+Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
 
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.93 Million Tokens, and Total Crypto and Total Cash Holdings of $15.7 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-93-million-tokens-and-total-crypto-and-total-cash-holdings-of-15-7-billion-302871960.html)**
-
-Bitmine owns 4.9% of the total ETH coin supply of 122.0 million Bitmine is 97% of the way to the 'Alchemy of 5%' in just 15 months Crypto equities are largest...
-
-PR Newswire • 2d ago
-
----
-
-**[Undervalued Ethereum Proxy: SharpLink Trades At 0.85x mNAV Near Cycle Bottom With No Debt](https://seekingalpha.com/article/4945012-undervalued-ethereum-proxy-sharplink-trades-at-0-85x-mnav-near-cycle-bottom-with-no-debt)**
-
-SharpLink is rated a Buy as a conservative, ETH-focused treasury play trading at 0.85x mNAV, below its crypto holdings. Read more on SBET stock here.
-
-Seeking Alpha • 7h ago
+blockchain.news • 11h ago
 
 ---
 
@@ -238,7 +240,17 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 1K • 💬 18 • ⏱️ 9:10 • 10h ago
+👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:10 • 12h ago
+
+---
+
+**[BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aNleUnYn8X0)**
+
+BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 648 • 👍 73 • 💬 66 • ⏱️ 20:01 • 1h ago
 
 ---
 
@@ -248,7 +260,7 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 17K • 👍 969 • 💬 260 • ⏱️ 28:10 • 1d ago
+👁️ 17K • 👍 972 • 💬 262 • ⏱️ 28:10 • 1d ago
 
 ---
 
@@ -258,17 +270,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 277 • 💬 24 • ⏱️ 14:25 • 2d ago
-
----
-
-**[CPI Could Trigger a MASSIVE Bitcoin Move — BTC, ETH &amp; SOL](https://www.youtube.com/watch?v=EM7K-BmqX_o)**
-
-JOIN THE FTA VIP COMMUNITY: https://www.freedomtradingacademy.com/vip-community TRADE CRYPTO WITH BLOFIN: ...
-
-📺 Andrea Cap  | FTA Crypto
-
-👁️ 322 • 👍 12 • 💬 14 • ⏱️ 15:47 • 11h ago
+👁️ 15K • 👍 279 • 💬 25 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -278,17 +280,7 @@ Full Resources & Text Guide: https://tr.ee/eHimgL I built an AI trading bot with
 
 📺 Gage Foster
 
-👁️ 5K • 👍 340 • 💬 10 • ⏱️ 6:46 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=N2Mx-mYjthE)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 561 • 👍 55 • ⏱️ 5:42 • 5h ago
+👁️ 5K • 👍 342 • 💬 10 • ⏱️ 6:46 • 1d ago
 
 ---
 
@@ -302,6 +294,16 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 ---
 
+**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 855 • 👍 16 • ⏱️ 5:08 • 15h ago
+
+---
+
 **[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
 
 Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
@@ -312,23 +314,23 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 ---
 
-**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
+**[CPI Could Trigger a MASSIVE Bitcoin Move — BTC, ETH &amp; SOL](https://www.youtube.com/watch?v=EM7K-BmqX_o)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+JOIN THE FTA VIP COMMUNITY: https://www.freedomtradingacademy.com/vip-community TRADE CRYPTO WITH BLOFIN: ...
 
-📺 Cilinix Crypto
+📺 Andrea Cap  | FTA Crypto
 
-👁️ 688 • 👍 16 • ⏱️ 5:08 • 12h ago
+👁️ 322 • 👍 12 • 💬 14 • ⏱️ 15:47 • 14h ago
 
 ---
 
-**[BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=xrHWO-L5Mww)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=N2Mx-mYjthE)**
 
-BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 Crypto World
+📺 Profit First
 
-👁️ 13K • 👍 376 • 💬 235 • ⏱️ 18:25 • 1d ago
+👁️ 991 • 👍 56 • ⏱️ 5:42 • 8h ago
 
 ---
 
