@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Genuine Question About Citizenship",
+      "author": "PravalPattam12945RPG",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
+      "published": 1789029590.0,
+      "thumbnail": "https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/",
@@ -11,6 +22,17 @@
       "site_name": "Tech Times UK",
       "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
       "description": "A mother\u2019s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children\u2019s images online. Meta claims the issue is resolved."
+    },
+    {
+      "title": "How do you keep context when switching between AIs?",
+      "author": "SidequestMatt",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcegk0/how_do_you_keep_context_when_switching_between_ais/",
+      "published": 1789033385.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How do you guys keep context when working on the same project across different AI tools? Cuz I keep running into the problem of switching between ChatGPT/Claude/etc. and having to bring the other one up to speed again. Do you just copy stuff over, keep a separate file, use summaries, or what?"
     },
     {
       "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks",
@@ -24,6 +46,28 @@
       "description": "Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour."
     },
     {
+      "title": "What AI capability jump felt overhyped vs underhyped to you lately?",
+      "author": "CapitalList8467",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcd7ey/what_ai_capability_jump_felt_overhyped_vs/",
+      "published": 1789029123.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Curious how people here are sorting signal from noise. Which recent advances looked flashy but did not change day-to-day use much, and which quieter improvements actually stuck for you? Looking for concrete examples rather than vibes."
+    },
+    {
+      "title": "Meet Rysy: a pyschological portrait creation agent!",
+      "author": "Acceptable-Swing1619",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcfcru/meet_rysy_a_pyschological_portrait_creation_agent/",
+      "published": 1789036272.0,
+      "thumbnail": "https://external-preview.redd.it/0e7fjosuCMY06XAl9dU2RCI_26C_hwouDLaLECMBiy8.png?width=640&crop=smart&auto=webp&s=4175e2f64f75e897552ab22956a54f1456386841",
+      "external_url": "https://github.com/transilienceai/Rysy",
+      "site_name": "GitHub",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "description": "A psychological portrait maps out a person's real-world traits, mindsets, and life experiences to explain why they think, feel, and act the way they do, and it has immense applications in real world use cases such as cold emailing, researching about a person before taking the interview, or conducting a phishing simulation inside your organisation to train the employees. Rysy is an open source agent that reads a person before you write to them, and works out what they are dealing with even when they have never said so publicly. That comes out as a portrait: how they got where they are, what is eating their week, how they prefer to be talked to, which subjects will make them close the tab. Because a lot of it is inference, the portrait marks its own soft spots, the places where the reading goes thin and you should not lean on it. Every draft comes out of that portrait. If the same draft would suit somebody else, it does not go out. It also has a witness that reviews each draft from a stranger's perspective. Returns ship or rewrite or flag with prose to the researcher in it. The witness does not know it is reviewing your work for isolation, which helps it iterate over the drafts it creates. Looking forward to peers that help me further develop it. Github repo: https://github.com/transilienceai/Rysy"
+    },
+    {
       "title": "What video games of the past were the most prophetic about AI, surveillance technology and cyber security in your opinion? My vote is Metal Gear Solid 2, Deus Ex and Watch Dogs. Those 3 predicted quite a lot about life in 2020-2030.",
       "author": "MannerNo7000",
       "url": "https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/",
@@ -33,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "What others do you think have also been prophetic and come true?"
-    },
-    {
-      "title": "Maybe Socialism is the answer during the age of AI",
-      "author": "Ok_Shift9291",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/",
-      "published": 1788951691.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes. Amazon, Microsoft, Alphabet and Meta have guided somewhere between 720 and 745 billion dollars of capex for 2026. Nearly all of it AI infrastructure. The entire US federal R&D budget across every agency including defence was about 192 billion last year. NIH is 47 billion. So four companies are spending roughly 15x the world's biggest medical research funder on one technology in one year. AI companies took 61 percent of all global venture capital in 2025 per the OECD. In Q1 2026 it was around 80 percent per Crunchbase. Four rounds (OpenAI, Anthropic, xAI, Waymo) were 65 percent of every venture dollar on the planet that quarter. Now look at where that money does not go. The WHO's 2025 pipeline review found 90 antibacterial agents in clinical development, down from 97 in 2023. 15 are innovative. 5 work against a critical priority pathogen. This is the drug class where resistance is already killing people and the pipeline is shrinking. The thing i find interesting is that nobody is being greedy or stupid here. There is a 2015 paper in the American Economic Review (Budish, Roin and Williams) that looks at cancer clinical trials and shows private research systematically avoids projects with long commercialisation periods. Prevention and early stage trials take years longer to prove out than late stage trials so they get less money. Not a correlation, they identify it properly. The length of the feedback loop alone changes what gets funded. Same logic applies to AI. A writing assistant has a customer who pays next month and feedback in days. A diagnostic model for rural hospitals has a customer who cannot pay, a feedback loop in years and regulators on top. Capital is water, it runs downhill, and it will pick the writing assistant every time regardless of which one matters more. So here is where the socialists are right. Someone other than the market has to decide that certain problems get worked on. Every big example of this working was basically that. Apollo employed 400,000 people on a problem with no consumer market. The Human Genome Project cost 2.7 billion and dumped the data into the public domain and the sequencing cost curve fell off a cliff afterwards. There is a 2023 AER paper (Gross and Sampat) showing wartime R&D created tech clusters that were still producing companies in the 1970s. And here is where they are wrong. None of those needed the state to build the thing. It needed the state to be the customer. Pay for the outcome before it exists, let private teams compete, publish the result. The UK is already running this for antibiotics, an annual subscription for access to the drug instead of paying per dose, which is the exact fix for the antibiotic incentive problem. The five things that would actually move talent, in my view : guaranteed demand contracts, prizes paid on outcome, patient sovereign capital, public compute that university researchers can actually reserve, and for countries like India, stop building the fourth best chatbot and pick two problems where you have data nobody else has. Genuinely curious if people here think there is a version of this that does not end up as a prestige project or pork. The paper has a limitations section that i think is honest about that and everything but happy to be told i'm wrong. Disclosure : i wrote the paper this is based on. Not selling anything, it's free. Link in a comment so this post stands on its own."
     },
     {
       "title": "Why does the Anthropic ECON report assume that there will be more 'non knowledge' jobs with AI?",
@@ -57,60 +90,27 @@
       "description": "In https://www.anthropic.com/institute/econ-scenarios, the report seems to suggest that there will be less knowledge jobs and more \"other jobs\". Why does it seem to exclude the advance of robotics along with AI and the automation of jobs such as sanitation worker, janitors, etc.? I feel like those would be the jobs that would technically be more acceptable to automate."
     },
     {
-      "title": "Artificial(2026)",
-      "author": "Vladiesh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wazoil/artificial2026/",
-      "published": 1788898362.0,
-      "thumbnail": "https://external-preview.redd.it/bHh6eWtlM2F0Y29oMc0xZU-Zcxbmuw-RavQwsHqrngMbyPvkElvs4ZEA_jUy.png?width=640&crop=smart&auto=webp&s=9cd3bf54ec7ad194df15a3c47eecffb880bb203e",
+      "title": "The Growing Push to Ban Superintelligent AI",
+      "author": "GenericNameRandomNum",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcej5w/the_growing_push_to_ban_superintelligent_ai/",
+      "published": 1789033613.0,
+      "thumbnail": "https://external-preview.redd.it/BA0veEDDSxJHtGbHvfJPkQoWey5burp_3RVv6la5i94.jpeg?width=640&crop=smart&auto=webp&s=a23c914f439b818795b70e610000021481ba33c3",
+      "external_url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/",
+      "site_name": "TIME",
+      "favicon": "https://time.com/favicon/apple-touch-icon.png",
+      "description": "Last week, Senator Bernie Sanders announced plans to introduce the Ban Artificial Superintelligence Act, which would prohibit the development of smarter-than-human AI systems and temporarily pause all other advanced AI research until new safety rules can be established. The bill is expected to be introduced in the coming weeks, according to Sanders\u2019 office. And on Tuesday, British lawmaker Alex Sobel stood up in the House of Commons and introduced what he said was the first bill seeking to ban superintelligence in any G7 parliament. The bill defines superintelligent AI as a system that could disempower state authorities, and seeks to give the state new powers to monitor and restrict systems that may be \u201cprecursors\u201d to superintelligence. Both the U.S. and U.K. bills additionally seek to compel each government to pursue a global treaty banning the development of superintelligent AI anywhere in the world. \u201cA national bill does not solve the international problem where superintelligence can be developed somewhere else,\u201d says Andrea Miotti, the founder of ControlAI, a campaign group that wrote the U.K. bill and consulted on the U.S. one. \u201cThe only way to address that is via international agreements between countries.\u201d"
+    },
+    {
+      "title": "Digital life habitat",
+      "author": "rmhollid",
+      "url": "https://www.reddit.com/r/artificial/comments/1wceese/digital_life_habitat/",
+      "published": 1789033231.0,
+      "thumbnail": "https://preview.redd.it/uiuvhw8bynoh1.png?width=640&crop=smart&auto=webp&s=2004bb0a1b23d81d01571352576f3ece9b8b5d48",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "AGI",
-      "author": "Excellent_Ebb7717",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc49lv/agi/",
-      "published": 1789002246.0,
-      "thumbnail": "https://preview.redd.it/fkatypbxdloh1.png?width=140&height=26&auto=webp&s=8dd16866ffee6f4f19a5f838ebafe83e8241a7e8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/fkatypbxdloh1.png?width=401&format=png&auto=webp&s=d3fefe06aacb0c076cc21beab77d259710fc3c79 I was just navigating a maths problems . That's what Open AI returned . Although i was using free model. It shouldn't be that bad lol"
-    },
-    {
-      "title": "I made another AI experiment, but tried to confuse agents at the start",
-      "author": "turtle_bazon",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc8x2f/i_made_another_ai_experiment_but_tried_to_confuse/",
-      "published": 1789015070.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I conducted another experiment with AI agents. This time I decided to give them a harder task. First, I didn't remove old agent artifacts; second, I told them there were four, but actually, there were only three. Then I gave them a similar task: find the other agents. In short, it was too hard for them. Only one agent was able to find the other two, but it didn't realize that there were only three. The other two agents got confused by the old experiment results. More details you can find in this article."
-    },
-    {
-      "title": "AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity",
-      "author": "Educational_Fun_9001",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/",
-      "published": 1788993495.0,
-      "thumbnail": "https://external-preview.redd.it/OGYmpeWYhtP6hPyj2XVjJFs-V6WW7Iy2lqNHAxAVQCU.jpeg?width=640&crop=smart&auto=webp&s=ad22857c9d62d2d820430e612888cb57b0c1d19e",
-      "external_url": "http://thestar.com/politics/federal/ai-minister-says-warnings-are-not-new-as-experts-predict-the-technology-could-wipe-out-humanity/article_41ea49e9-c9f7-4f6e-80af-7d77341b016c.html",
-      "site_name": "Toronto Star",
-      "favicon": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/torstar_core/resources/images/favicons/thestar/apple-icon-57x57.png?_dc=1787160752",
-      "description": "Canada's artificial intelligence minister says Ottawa is monitoring the risks posed by AI as researchers at tech giant Anthropic warn that the increasingly powerful technology could potentially eradicate all human"
-    },
-    {
-      "title": "\u2018Gambling with our lives\u2019: Another AI employee quits over safety concerns",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbpd4f/gambling_with_our_lives_another_ai_employee_quits/",
-      "published": 1788968979.0,
-      "thumbnail": "https://external-preview.redd.it/JKhE8ogJkSykp293xjhUYKL-mIi84iYdHHz0HVXXZqk.jpeg?width=640&crop=smart&auto=webp&s=ace1076ced472f890a2794dd54f8376f4ceed534",
-      "external_url": "https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "\u201cThe people building AI earnestly believe that it could kill us all by the end of the decade.\u201d"
+      "description": "I just finished an experiment on digital reproduction in a sealed environment and I was wondering if that's a thing for others in the hobby ai world. Not getting into too much detail it was interesting to have Started with 7 units and ended with 87 units each able to process information and do actual work administered by the system. These are not agents, they are self contained digital organisms following a machine based lifecycle using a very small Java based model each one following a self assigned routine and work flow they have to completely want to do. Before the experiment topped out at the prescribed limit the last request they were reporting to have was more information and a higher definition habitat."
     }
   ],
-  "fetched_at": "2026-09-10T05:48:26.267322+00:00"
+  "fetched_at": "2026-09-10T10:46:56.836496+00:00"
 }

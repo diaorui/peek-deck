@@ -5,82 +5,42 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5",
-      "pub_date": 1788781980.0,
-      "article_url": "https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d",
-      "image": null,
-      "description": null
+      "headline": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdqWHdRM1QyTDNUTGRiQzY3U1lmRGJmTGJjb1JqMmtUNkZBa2lFcUdUZ1Vid1lNNjBIU050MHNMUEVPMXA0a252eWRRcEg1MnJkYlN0ZmhJb0xGTUVDRnhrMUQ0NzFJbDZCVG04VEdYQ19UNEV0cVh2N0FTdWZXZmVwaw?oc=5",
+      "pub_date": 1789006440.0,
+      "article_url": "https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26247717154420.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident \u2014 one of the largest cryptocurrency thefts in US history \u2014 and then embarking on a wild spending spree with the laundered proceeds."
     },
     {
-      "headline": "Steak \u2018n Shake Says Sales Grew Double Digits Since Bitcoin Adoption",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OQjRzQUMwSjNxeS0xdk9Mby01WDBmMjNLWTZiNm5IMVQ2X0ttanpWRERvVnQ2RVIzVUNvMFB5eFZfVEE5ZS1haWNLNVpOOUJHSmxPZVAzWG0wNFpiV2NpOTI1dFl6NE8xdWNkQmphUQ?oc=5",
-      "pub_date": 1788850800.0,
-      "article_url": "https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-14.jpg",
-      "description": "Burger franchise Steak 'n Shake started accepting bitcoin over Lightning last year and claims business is booming."
-    },
-    {
-      "headline": "Watch Coinbase: Think We've Seen Bottom in Bitcoin Price Cycle",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVBWNG8zUWpFdXNPNTZBNmdMVHBLbmpaejdydFB5Q3dOOWptZzByYnV3MFotYjdKc3lKX2R4V0d0SDFJUDNxQnNJZHNOa25RNWRhUl9hWG9BTDQyMUcwUjZhM0RwNGstUkVybDh1UlBMdUI5dWlzazBHZ2lQb2ExYUNSREtWWE1LZ0J3QzdyeXhkYjFxel96akw5c2ZMZGwyVTBMb0VSSGFqTmxBXy1R?oc=5",
-      "pub_date": 1789013797.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-09-10/coinbase-think-we-ve-seen-bottom-in-bitcoin-price-cycle-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "California crypto \u2018Godfather\u2019 gets 15 years for Bitcoin kidnapping plot",
-      "source": "KTLA",
-      "source_url": "https://ktla.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckxfeFNfVkFRRXdBWXVsdnU3aWNIOS1uSDFFd3lha3J6RkZBNnAxdlVram94R0NvVkNyMTYweGRVWEZxRVZ5T0hoUlVlMXVFZUZIRFR1Zzc4cmI1eWYxZW5ERndLVzRuVE9udEVWRS1IWThNYjF0UGtxZUdZX3NpUDlGWll0SVNBa3I4cGxyTXpfXzQ1Xzg3M1ZfcVhfTjVRRDhGUWd30gGrAUFVX3lxTE9aN0dQb0ZDRnZKLXV4M01iRE9HbmRmV3c2VHlEX2JtNUJ0YlQySzNmMlFieEcwdjVRbzFJQWx0UHVfakpBT2xGbnExNlRMZFd0UVFhWGN6dXEtTEk2ZDhILXhoN0xVUDY2bHB0cHUySzFPMUdNUlRibnZFd09lYmhVcnE1aDRkZUU3RTJWNE00a2JpenN5WHhyWU02WUJoVEpQS3E4RmVBbE8xWQ?oc=5",
-      "pub_date": 1788985382.0,
-      "article_url": "https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin just flashed a bullish golden cross signal. Here's what that means for the top crypto.",
-      "source": "businessinsider.com",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2xZT0g1NGNNTnJCNFVYVFU4SXBPdWlqRTByNHJUZ0dzWkxadWZ2NzhXTnNib1Y3dU0zbEppOWZWek1maWs3Uk9GajFxbFVDTXAycUNpTnhzRWxrUnViLVljUkxaX3JfWXFCcWFKYVRwZ2ZVX002RVM2TGRXNjhMVUtGOEEyYWZjcGJyU0FWSDA0N0Rfc1JsbmJrT2VEQ0QtTHNBZTJNNWo?oc=5",
-      "pub_date": 1788968220.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-today-golden-cross-bullish-signal-outlook-btc-crypto-2026-9",
-      "image": "https://i.insider.com/6aa14afbcc23a829a3b8f1ef?width=1200&format=jpeg",
-      "description": "Bitoin has been mired in a brutal bear market for months. The rare golden cross technical pattern could be the buy signal bulls have been waiting for."
-    },
-    {
-      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
-      "pub_date": 1788967800.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy Launches $250 Bitcoin Air Jordans but Won\u2019t Let You Pay in BTC",
-      "source": "Yahoo Finance",
+      "headline": "Bitcoin News: Bond Stress and Regulation Shape Armstrong\u2019s $400K BTC Prediction",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkl5c3ZCNGpkRjI0U3RSX3h5WmNJREdFaWtWU0J2bFRuSkRmbGVILTBSSE9zbmx3cERvamNTZ1lFdGd1aXg4d3YzTnl1Q0h0aFhvMUg1TWJGMDc5emo2NWhha1hTdF9LZVdJSmMyeHAxcUtPMUU2LTJiR0ZtOVNJcjRva3JpLVNsc1ZFVGtrNHBiNnBpbmpPemZ4Wjdndm8?oc=5",
-      "pub_date": 1788946921.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-launches-250-bitcoin-air-094201291.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7033106bc7617fdad57efb1635f5f5a4d760eb3bc7f59eb741fd5df8f7a2eb52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F214debc180aa9bb0733b6101859cee3a",
-      "description": "Strategy is to sell Bitcoin-themed Nike Air Jordans for $250 through its official merchandise store. Despite the Bitcoin branding, the store does not currently offer ..."
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkRzUkI2STBINnU4cm1kalpnQkR2YXpweHFuYnRnTkliTHZ2c21GR0hVWTQ4WEd1dlNKTnZ0UklDZ0F6YVJyUXJxeVY5bFQ0aG00UVkwMlJiQUxWelAtbzNocVdXQjlkY0lfMHJKS201QlVqV01ocXpHckpUZ0J1UDlrSFI2M3ZHNlhHRmVUNWRLVDZWdUZiOFdzZ3k5T0pmOGc?oc=5",
+      "pub_date": 1789033694.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-bond-stress-regulation-094814552.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/75e84f0613bdf64a4b44d277c423264e1c90cd985dc2df203aef90f0492dabfe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F6ecc054fcb17eb2212085ff1134d7323.jpg",
+      "description": "Brian Armstrong, Coinbase\u2019s CEO, said Bitcoin reaching $400,000 by 2030 is a reasonable target, and described the $300,000-$400,000 range as very likely to be hit within that window, in a CNBC Squawk Box Asia segment. The call is Armstrong\u2019s personal read on where Bitcoin\u2019s price could land, not a formal ..."
     },
     {
-      "headline": "\u2018I Am The House Now\u2019\u2014Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbUlRMUk3YmRxbmZyMldYbE9XMzJPaVp3dVh3WGRneXlPU0V4M0JDRVR5aktCWF9mTzlkajhyWGVJOVRlbkNPZ2lJR0ZNNGhyYjJrUl9PTnhfM1ZoNVp6aU5KTHFtTXRxT1JOSkF4QVVRNWhyZVhsUlhPaHpQRDBFT0R0WWRpSUNTV09uRGVzbjdfbHptOXVZd3dHUFFCZ3RGUEdOeUtpT2ppZU1MRW9LRFptZF93bUVmYXZxakxQTnpJcEdqenczTWJYb3VoMGU0TXdVYU1VOHZERkZYdDZnWGFma3NxdkNodU1lV2JUZWw?oc=5",
-      "pub_date": 1788949993.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/",
+      "headline": "Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0NXSkdpeV9qNTNsclVjS1JfLWp5YkVmVU5CLVdLZU44TWtRTUdxR1lldDZlT3ZWLXRwN2dqWnk2SGoyVmZWdU15aGczYUJEcE1Hb1l3VEc2SE16Ty1qVFJKOEowUlRJZlAzNVdJM3A5OGVDX29NaU5ZdDgxMjRCQXUtaFpKaUY0blVIRkgyTktMd2Z6SmdnZWNpRWZsLWJpTzdDbDlVTWF1U01Fb0d6b3lKSkxIel9qMkdRSWFwZ3pSUmNacG04NU9aNUdUUmFqcFE?oc=5",
+      "pub_date": 1789026367.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What next as dogecoin drops 5%, bitcoin prints a 'golden cross' near $78,000?",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQk12dEdkanhwLWd5Y2pQUjgyYVpNam0tLVFmNGlLQTRVUkV5ZGF3aUlJa1JfdTFVbGhtdEVOOWJ2bkpvcGpZVEozUDVNUTExSGZpb1huUGR2MGhZUFdTMnR0bU4tQkRQeWJXa0JuRTFEZWRsYmRtcWZwRUlZQVVnU3hiNVlZUGt3b2hSTVZHdzhVUGZSYllpei1nS1ZZaF9uR2ZwSGdkOVd6TVR0NmFoSUNUZXlMMGhCRjFR?oc=5",
+      "pub_date": 1789026379.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
       "image": null,
       "description": null
     },
@@ -95,16 +55,56 @@
       "description": "While gold remains a strong buy, investors should hedge against AI-driven scarcity disruption with a 5% Bitcoin allocation. Read what investors need to know."
     },
     {
-      "headline": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "source": "The Hacker News",
-      "source_url": "https://thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZVc1U3RuVDVwXy1oV0pmMU9GM2dMVVJteXpOblE2azhGcmtmampsNGFKS2dRLVRvTmVlME9QY1lUaWE5Q05fcGIxeFhzaHdCV1Y3MHZNekZDaHh1Z1puWlFzMUpOeHRwN0lTRkxEVGhYTm9fRENGbUVYSQ?oc=5",
-      "pub_date": 1788950580.0,
-      "article_url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1700-nu-rw-lo-l85-e365/alby-warning.jpg",
-      "description": "Alby warns a critical Hub flaw could let attackers take over internet-exposed wallets; versions 1.19.0 and later are not affected."
+      "headline": "AI Boom Wrecks Trump\u2019s Plan for \u2018Made-in-America\u2019 Bitcoin Mining",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFFGR013SmE5YWJ4S1E1M3B6YmxFSE9hQ0dUQ095a1JCNXpTaTVfLURBOWdrcjlOVGZON2h4aWNod0tDS1h2YzB5T2UwaUtnSUNXX0phSl91RktTZXRyckFjcFJleEFUbkp6QlU1NHlyOWxhRDlpV3Jsdi1HTkVUQnl3M19KdFY3RktfU1ltb01paHBQampOY1dtazU4cGhTcjRlc0hkeENWQTRqSk9DdmRMZw?oc=5",
+      "pub_date": 1788955200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "California crypto \u2018Godfather\u2019 gets 15 years for Bitcoin kidnapping plot",
+      "source": "ktla.com",
+      "source_url": "https://ktla.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckxfeFNfVkFRRXdBWXVsdnU3aWNIOS1uSDFFd3lha3J6RkZBNnAxdlVram94R0NvVkNyMTYweGRVWEZxRVZ5T0hoUlVlMXVFZUZIRFR1Zzc4cmI1eWYxZW5ERndLVzRuVE9udEVWRS1IWThNYjF0UGtxZUdZX3NpUDlGWll0SVNBa3I4cGxyTXpfXzQ1Xzg3M1ZfcVhfTjVRRDhGUWd30gGrAUFVX3lxTE9aN0dQb0ZDRnZKLXV4M01iRE9HbmRmV3c2VHlEX2JtNUJ0YlQySzNmMlFieEcwdjVRbzFJQWx0UHVfakpBT2xGbnExNlRMZFd0UVFhWGN6dXEtTEk2ZDhILXhoN0xVUDY2bHB0cHUySzFPMUdNUlRibnZFd09lYmhVcnE1aDRkZUU3RTJWNE00a2JpenN5WHhyWU02WUJoVEpQS3E4RmVBbE8xWQ?oc=5",
+      "pub_date": 1788985382.0,
+      "article_url": "https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Top Bitcoin Casinos 2026: Which Crypto Casinos Have the Best Payouts?",
+      "source": "muddyriversports.com",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjdhdUQxODBYQnEwS01tajMwSmVxV0Q1akFvQmZsWmhSWnhxQkxSUWZlOUJGOGg1Vmp1MXBscDIxSW56aW1EQUw0a0M1RjNlR0lwNnFJZ3JvMk8wM1JaLXFpQXFZeGx5emlnR2JiQzNvYTZFTk1IZTVKLTlMeVQ2TlpQTVU2UW1hSkZEc1BSUEdCYzJrZEZ3MUpDZ055Y0t5WXRPbVU0eGtmelpzYTQ1SDVjN1puRkpqSHplQVZMbHd6RjJKeVA5TXNR?oc=5",
+      "pub_date": 1788901227.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/top-bitcoin-casinos-2026-which-crypto-casinos-have-the-best-payouts/20260908160000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-748.png",
+      "description": "Best Crypto Casinos \u2013 September 2026 Casinos Welcome Offer Ratings 1\ufe0f\u20e3 JACK.com 100 Wager-Free Spins 4.6/5 2\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3\ufe0f\u20e3 Thunderpick 100% Match Bonus up to \u20ac2,000 4.7/5 4\ufe0f\u20e3 BetWhale 250% up to $2,500 4.6/5 5\ufe0f\u20e3 BitStarz 300% Bonus up to 5 BTC + 180 Free..."
+    },
+    {
+      "headline": "Iran Continues Using Bitcoin To Keep Economy Stable: Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42bU0yZ0hKM3Y5c2VDMDJKZVZaaXhnZGx5ekUtc3lqR0pWZlU4NWZXUDVUYjI0bUhva0s5cFVnSDU5UzNsWTA4RDBZN2RfN0JjelJwNm9mYzl6a3U2R3c0ZnVOc19aRmxkS2tHWkxxRVRZNEc0a19kTE5kRGI1dw?oc=5",
+      "pub_date": 1788978202.0,
+      "article_url": "https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg",
+      "description": "Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method."
+    },
+    {
+      "headline": "Bankrupt ATM network sells 2,446 machines below $1M",
+      "source": "thestreet.com",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDNqcUJ0OHByRm1kQ2NGQlZBNW96S1U5a3l1ZXpjNi1FdEdZV3B4VkNWc21LX2lUMDVXMUR1RFFsUlBHQ1ZZXzNyQjh6c05DVmRnUTE1Y2RndTNJMGZOQkRhZjF3enJIU2lXQV83YWtFTGhOeW11YWZJYks0cGoyZXNfZXYyN2tCMS1WX1ZwTlVnWjRX?oc=5",
+      "pub_date": 1789015726.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/bankrupt-atm-network-sells-2446-machines-below-1m",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T05:48:44.973306+00:00"
+  "fetched_at": "2026-09-10T10:47:22.990391+00:00"
 }
