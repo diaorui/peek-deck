@@ -5,82 +5,62 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "'Gambling with our lives': AI researcher quits Anthropic",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUG5PZVZ2VWF1bklXQ2QwcGM2RmxXZjhoM2djLU92enhfdUZEUmV4Qk5ldHJFamhuOXhjYTBfU1l0Q3dXT2tUcmlvSjIzSDBBR2FPYW9LTEJIenU0UlVPUTQwYmRXWWdIVlZKaWZvYkpKODVhSGl2WlNuc2N1YUdQRnJfSnpUQW9JNUx5cThnZ282Wi1BVExpaXV3?oc=5",
-      "pub_date": 1788971593.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/theyre-playing-lives-ai-researcher-093308501.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/b49240b856060b791de49cdc329b72d9ae4e3498f5f3a2dec29a8e7180d49967/lightyear_networkapi/resizefill_w768_h512%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fab866d5b9d1eaadf2de7a0f1f0af18f3.jpg",
-      "description": "An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of \"gambling with our lives\" in the race to develop AI models capa..."
-    },
-    {
-      "headline": "AI could kill all humans in next decade, warn experts: but how seriously should we take them?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
-      "pub_date": 1788976080.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
-      "image": "https://i.guim.co.uk/img/media/0e97a66ff2c2cfb9e057c48c443c5c93190ee9e8/0_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64b7ebdd811e9032f4c64b996b2005f7",
-      "description": "Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence"
-    },
-    {
-      "headline": "Apple has a new way to prove your iPhone photos aren\u2019t AI slop",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjlFUHBsZzZZUXYzdzY0TVpRXzlzRUlTaWZtM3NYM3daSnNad1NONXl4dl95aVFsdXJybms1eFhGT19VYzNQVTN1UWhIb3cyTjVjZFVGUDB5c1Y3NDJIbkVEalNwWUlGeG1oanRIb0QydlVvR04wMTJGR2lqWEV3STZkbDVmY2RtbkVRU29LQUcwRTB1dm1XTA?oc=5",
-      "pub_date": 1788977315.0,
-      "article_url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
-      "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
-    },
-    {
-      "headline": "Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5",
-      "pub_date": 1788975475.0,
-      "article_url": "https://www.theverge.com/tech/991812/apple-watch-series-12-announcement",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-watch-series-12-launch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "description": "The Watch is listening."
-    },
-    {
-      "headline": "Apple Is Actually Talking About AI Now \u2014 a Lot",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb0otTXFCbkJZNllxQnpDYmxWWi1UMkxJaE5NM1pILVFoMXg4OEZHQ2VLWU93M3hOTWt6VjIyRGlVR0hKemNmZHppRi1QMmNfeG9zUU1pWUl6Q3JLRVVzMDZTYzJaUDc4NV9YLVQxNkI5QmtfeWZ1dVFENndub29mTkQtcHF6M1pSTUhRTzEzYXRweGRlVWlJag?oc=5",
-      "pub_date": 1788993065.0,
-      "article_url": "https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-09-at-1.10.42-PM.png",
-      "description": "New CEO John Ternus says you already have your personal AI device. It\u2019s called an iPhone."
-    },
-    {
-      "headline": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+      "headline": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
-      "pub_date": 1788901323.0,
-      "article_url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
+      "pub_date": 1788985058.0,
+      "article_url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "pub_date": 1788949912.0,
-      "article_url": "https://openai.com/index/navier-stokes-solution/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
+      "headline": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia\u2019s Data Center Ecosystem",
+      "source": "nvidianews.nvidia.com",
+      "source_url": "https://nvidianews.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2dkbUp0Zi13THRQMU1kMXNIZVktQVN5NVR2cEszemg1RWM1cURfcDBCRGhLMGJfc3NTaW12anhJeGVDb1FfTC1SaHUzcnVUTzBnVmJseHBuUngteFBFLUZQT2FkMzBaTEEzclA0WFJGT0FmZ1htaFFSX1YwNnVTNk1yT0dnNVhzUm9Vbms0U0N0ck5UNVpyUlNZZ2JaQ3NDZ0hHUEw1VE5BMjZ0dGFIX2plWTRqRHRDeG5yQTFnY3pHZlFhcG9Ndw?oc=5",
+      "pub_date": 1788998996.0,
+      "article_url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "image": "https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_7d2f8234-cc86-4279-9cf8-80a6b485b660-prv.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660",
+      "description": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX\u2122 AI factories, supporting the nation\u2019s growing demand for AI compute \u2014 with up to a 2-gigawatt buildout by 2027."
     },
     {
-      "headline": "The Fight Over OpenAI\u2019s Math Breakthrough Is a New Kind of Scientific Arms Race",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0xzeWNpT2wwV21ER2lsV1k0a0gzbmlBaE9QNC1qS0M2ODVXZmRMdDFtanZWN1lsQm5hRk00WUdSaHBTRXJ1NVVkVFl6YVVyU05zc0Q5WEZrMDhtMDV0TWtEVUtQWDFWTW50dXJIbExRb3dVd0JRd0hyQ3ZFYUZyQVVKMVA4eFlCNDB6b3haWkx1T3UycmZsMlNwclBMa1FPNXBLcTdpclVKVUNQYkE?oc=5",
-      "pub_date": 1788984019.0,
-      "article_url": "https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240",
+      "headline": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeHVNUGVrNU5UMWtuS0JRQk1hQUtfLTlaeUQ1eE5IUXdSNTdsb2FOcDRuZDk1bmljQ0ViMmZ1aTZ3YjhzZXJLVS0yand4VkJYRUhhTmVNWTJWQTQwcjVlVlUtYlhiNlFmVGp1cEdfRHVmRUozaXB2RFFqVmRNYnlfZTlkZ2hIdXktTDlMMHY5UkdzdTN0MUMwbFRjcFnSAaIBQVVfeXFMUFMtc0wtYTlQczJqX25KSGZnOENlZzJDUUdQTDd3MEQ4dGV1OGc3a2VfZmxhemx2SUI2QzBXT2tPTVU0SV9UYlRYRlpkZ1NGanlGVGhFbGpJTk95aGs0czBhWXhQM3dwSHJOU1dhRDFwNmJfZVI3elpRdTFRWFBFOTlUTzJkTGotLW9JUmlNRHVUYzdDaFlMSzBGTzFFX2tZSTlR?oc=5",
+      "pub_date": 1788998400.0,
+      "article_url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108054462-1730228938192-gettyimages-2115797127-porzycki-visamast240329_np8Ti.jpeg?v=1788941839&w=1920&h=1080",
+      "description": "Visa, Mastercard and Ant International are working on common standards for AI-agent payments \u2014 including ways to verify and monitor their transactions."
+    },
+    {
+      "headline": "The AI policy window is open. We need to act.",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16Nk92bjU2QkFrUWR3enpvc2JRd2RDR2JMRDJpb0RvbFdpOEVDTEtfbVBvbm5NTllaOUNmR1ZDTmtoYXFLalVMSlBtZEpqckZaaTJfMw?oc=5",
+      "pub_date": 1788998213.0,
+      "article_url": "https://openai.com/index/ai-policy-window/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&h=900&fit=fill",
+      "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
+    },
+    {
+      "headline": "60 Posts in 10 Hours: How Trump\u2019s Social Media Reflects His Version of Reality",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2xWRE1CZXRVSUZlbjFaSVRDS1N4dHNSdENkdXBqb2FoQTBSbW9LUWhsMGFiTUlENW5ZblFGS3Uzc1RpZGVYTko0RjI4WnBia1VTVDBxeTJ5UC1JemtUSFpBOXhaQndpWV9GMi1SNjNnT25UNV9XdFVZX2g1SHdtV3Q1NWZHLXN1?oc=5",
+      "pub_date": 1788984349.0,
+      "article_url": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "EXCLUSIVE: OpenAI\u2019s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5",
+      "pub_date": 1788986840.0,
+      "article_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
       "image": null,
       "description": null
     },
@@ -95,16 +75,36 @@
       "description": null
     },
     {
-      "headline": "James Talarico says Ken Paxton is \"lying to the people of Texas\" with AI ad that puts \"words in my mouth\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemxuNm13LURJd1pnYl83ak1TZTJILWw3MU9NZndua1I2VHhPOWhIVEM2d2ZDbGw0aUo3M01XTF94SDh4eDI5cXFwZ0pZa2U2Rmo4MzU1VngydzBsSnBSVnlsbzJDaTdIRWxxcDNfVV9iY01Tb0xKMUx1N3VueTNPYlJjLURuSEg0dTVr?oc=5",
-      "pub_date": 1788982860.0,
-      "article_url": "https://www.cbsnews.com/news/james-talarico-interview-ken-paxton-texas-senate-2026/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/09/0294e51d-dffc-490b-bbd3-0d37b8032c10/thumbnail/1200x630g2/0e76209b07ec53ac505e68ab1d05c528/ap26238088147181.jpg",
-      "description": "Democrat James Talarico told CBS News' Ed O'Keefe he won't use AI in political advertising in the race for the Texas U.S. Senate seat, adding, \"every ad that we put out is made by human beings.\""
+      "headline": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "source": "The American Prospect",
+      "source_url": "https://prospect.org",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSzJ1bl9iZHMzZkNnQ3ZRRGZ5My1UXzd5ZkRfWEFncnBLZ3I3YnA5VUNHUzFfNnowbkVLR2hRM0NyeFc2dVdkUGl1OTBaUDhUQ1F1QTVZaTQ0SUYyd1JwVTJybDdRNndWdmFfckJKY2YzT0NZakR0T2hYN2VZWk1TQjN0UFZHSVVqQ0ZMWGJKTG5PSWplVkg4UHJpUDZUVVdnbDNBVVdQNA?oc=5",
+      "pub_date": 1788944400.0,
+      "article_url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta stock surges with Wall Street bullish on new AI agent",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVU5VM2xXTTFmS0lWVkU4cmgtWFNvSU1EUDItZ3FwbmlaXzBiSnBJU1paVGpqNEl5TEJGc2lBNVE5QmN2c1FpMmVycjBOUm9sRzNxZ25yY0k0M2lBb3pLLTczMU1IX0t1NmFSY3dZTi1TVEdCZW5JYk1JNW1WenZsX3BrdmN1NUNFVm5wQ3M4dTdzaE9TSHlfYmVJZDljNGdMWEwxTHNCWU9DNExRakF0d2F6RkNodUIxb2Zpb1IzNA?oc=5",
+      "pub_date": 1788962999.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/805af3b4a17bc050450dac86e0841df43e1a776567ad1e9030687ff570ef33b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8931724f-437f-4be1-90fc-9fd0c0f8462e",
+      "description": "Meta stock rallied more than 5% on Wednesday."
+    },
+    {
+      "headline": "Google to fund Finnish AI with \u20ac13bn investment and nuclear power pact",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
+      "pub_date": 1788973608.0,
+      "article_url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
+      "description": "The US tech giant says the \u20ac13bn data centre project will create tens of thousands of jobs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-09T22:59:23.135250+00:00"
+  "fetched_at": "2026-09-10T00:59:13.620209+00:00"
 }
