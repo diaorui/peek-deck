@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T05:48:50.605788+00:00'
+updated: '2026-09-10T10:47:29.540808+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 05:48 UTC  
+**Last Updated:** September 10, 2026 at 10:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Progress on my custom hexapod project over the past few months. In the first few
 
 Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studied optimal control for robot manipulators during my bachelor's and researched reinforcement learning during my master's. Recently, I have been working on transferring simulation-trained RL policies to a real-world robot manipulator (i.e., FR3). I have seen different choices for a robotic agent's action space in machine learning. I think there is not a promising design of the action space, since each choice has advantages and drawbacks. So, I trained an RL agent in simulation (Isaac Sim) with a Cartesian delta action space, which outputs the end-effector's desired Cartesian pose at the next control step based on the robot's world frame. This is the page where the problem begins. I use DifferentialIKController in Isaac Lab for the low-level controller, which maps the delta pose action to the desired joint positions. In Isaac Sim, the desired joint position is controlled by the internal physics engine and a PD control law that computes target joint torques. In a real-world setup, there is no physics engine or plug-and-play low-level controller. You should implement the low-level controller that maps the delta pose actions to joint torque and position commands for the robot's API (e.g., franka_ros2's ROS2 control plugins). Moreover, a safety-violation monitor should be implemented by us to prevent hardware failures. In contrast to simulation, real-world robots are highly sensitive to safety constraints; for instance, collision detection and joint limits. Currently, I have implemented a custom C++ controller that takes Cartesian delta pose commands via the ROS2 topic and computes desired joint torques based on the robot's kinematics and dynamics. However, implementing a safety monitor remains a problem. As another strategy, I have been thinking about using ROS2's MoveIt packages for sending delta commands and monitoring task-space safety violations, which may cost wall-clock time compared to the vanilla C++ controller. How do you guys work on a real-world robot learning setup? I want to hear from you about conducting real-world robot manipulation experiments with neural policies (e.g., BC or RL).
 
-3d ago
+4d ago
 
 ---
 
@@ -78,7 +78,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 **[Special news Ortomi Robot diy code given in github](https://www.reddit.com/r/robotics/comments/1w8qg8m/special_news_ortomi_robot_diy_code_given_in_github/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -94,7 +94,7 @@ This has been my project over the summer. Finally got it to walk after many prot
 
 I want to build the arctos for experimenting with simple automation. Is the arctos 4 open loop kit with all the hardware (except 3d printed parts) a good / fair deal when comparing to gathering all components seperatly? I am still fairly unfamiliary with how much all of these seperate bearings etc. cost, and aliexpress lists 20 different version with huge variations in price.
 
-3d ago
+4d ago
 
 ---
 
@@ -110,23 +110,31 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
 
-For most of its short history, AI lived behind a screen.
+Reuters • 2d ago
 
-SemiAnalysis • 8h ago
+---
+
+**[Exclusive: Mistral robotics chief seeks €200m for new startup](https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup)**
+
+French AI scaleup Mistral launched its own robotics business unit last year.
+
+Sifted • 1d ago
 
 ---
 
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-WSJ • 19h ago
+wsj.com • 1d ago
 
 ---
 
-**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
+**[Agility Robotics reports $1.8M revenue ahead of humanoid SPAC](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)**
 
-Reuters • 2d ago
+Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its Digit humanoid robot.
+
+The Robot Report • 2d ago
 
 ---
 
@@ -134,7 +142,7 @@ Reuters • 2d ago
 
 Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
 
-Automotive News • 17h ago
+Automotive News • 22h ago
 
 ---
 
@@ -142,7 +150,23 @@ Automotive News • 17h ago
 
 A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
 
-GeekWire • 13h ago
+GeekWire • 18h ago
+
+---
+
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+
+For most of its short history, AI lived behind a screen.
+
+SemiAnalysis • 13h ago
+
+---
+
+**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
+
+Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
+
+newsroom.arm.com • 2d ago
 
 ---
 
@@ -158,29 +182,7 @@ Futurism • 1d ago
 
 Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
 
-Boston.com • 12h ago
-
----
-
-**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
-
-theinformation.com • 1d ago
-
----
-
-**[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
-
-Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
-
-New Atlas • 1d ago
-
----
-
-**[XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public](https://qz.com/xtend-ai-robotics-ceo-on-firms-next-chapter-after-going-public)**
-
-XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public
-
-qz.com • 7h ago
+Boston.com • 17h ago
 
 ---
 
@@ -194,17 +196,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 247K • 👍 4K • 💬 639 • ⏱️ 5:02 • 1d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 12K • 👍 70 • 💬 8 • ⏱️ 3:39 • 15h ago
+👁️ 280K • 👍 4K • 💬 703 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -214,7 +206,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 30K • 👍 447 • 💬 47 • ⏱️ 15:17 • 4d ago
+👁️ 30K • 👍 447 • 💬 47 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -224,17 +216,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 97K • 👍 2K • 💬 176 • ⏱️ 5:52 • 1d ago
-
----
-
-**[Hong Kong’s first robot-run convenience stores](https://www.youtube.com/watch?v=he_QA7SVI5w)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Beijing-based company Galbot has launched its ...
-
-📺 South China Morning Post
-
-👁️ 198K • 👍 2K • 💬 468 • ⏱️ 3:47 • 6d ago
+👁️ 122K • 👍 2K • 💬 199 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -244,7 +226,17 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 299K • 👍 2K • 💬 645 • ⏱️ 1:44 • 6d ago
+👁️ 300K • 👍 2K • 💬 646 • ⏱️ 1:44 • 6d ago
+
+---
+
+**[AI just spent 48 hours on a problem robotics hasn&#39;t fully solved](https://www.youtube.com/watch?v=E8duv10zZbI)**
+
+Robot hands are one of robotics' genuinely unsolved problems. Routing flexible tendons through a rigid structure so fingers move ...
+
+📺 Star AI
+
+👁️ 929 • 👍 15 • 💬 1 • ⏱️ 0:36 • 3h ago
 
 ---
 
@@ -252,7 +244,17 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 6210H Halapeños
 
-👁️ 13K • 👍 46 • 💬 1 • ⏱️ 0:08 • 2d ago
+👁️ 13K • 👍 48 • 💬 1 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[This Robot Hand Copies Your Every Move](https://www.youtube.com/watch?v=M1BEHDnmGy0)**
+
+The Mimic Hand M1 moves its fingers just like yours. It lifts over 25 kilograms and senses just 50 grams. You teach it simply by ...
+
+📺 The Manav Podcast
+
+👁️ 3K • 👍 201 • 💬 4 • ⏱️ 0:35 • 9h ago
 
 ---
 
@@ -262,7 +264,7 @@ A Chinese robot appeared to malfunction attacking customers at an electronics sh
 
 📺 New York Post
 
-👁️ 60K • 👍 817 • 💬 275 • ⏱️ 1:16 • 6d ago
+👁️ 60K • 👍 815 • 💬 275 • ⏱️ 1:16 • 6d ago
 
 ---
 
@@ -272,17 +274,17 @@ Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots
 
 📺 Joe Lonsdale
 
-👁️ 57K • 👍 428 • 💬 42 • ⏱️ 8:34 • 6d ago
+👁️ 57K • 👍 429 • 💬 44 • ⏱️ 8:34 • 6d ago
 
 ---
 
-**[Imagine a future where smart AI robots help elderly pilgrims in Makkah 🤖🕋 #robotictechnology#shorts](https://www.youtube.com/watch?v=9NI8HPLWKT8)**
+**[Humanoid robots tackle household chores as demand grows](https://www.youtube.com/watch?v=868RW3lYZ3M)**
 
-Imagine a future where smart AI robots help elderly pilgrims in Makkah ❤️ This AI-generated video shows a futuristic ...
+A San Francisco startup is offering humanoid robots for household tasks at $30 an hour, with demand reportedly outpacing ...
 
-📺 Islamic_ jaankari 
+📺 CBS19
 
-👁️ 10K • 👍 575 • 💬 1 • ⏱️ 0:21 • 17h ago
+👁️ 42K • 👍 84 • 💬 60 • ⏱️ 0:27 • 6d ago
 
 ---
 

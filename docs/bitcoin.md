@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-10T05:48:50.596467+00:00'
+updated: '2026-09-10T10:47:29.531531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 05:48 UTC  
+**Last Updated:** September 10, 2026 at 10:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,437.44
+### $78,000.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.6%  
-**30d:** +23.6%  
-**90d:** +21.7%  
-**1y:** -32.1%  
+**24h:** -1.7%  
+**7d:** -2.1%  
+**30d:** +23.0%  
+**90d:** +21.1%  
+**1y:** -32.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1574.57B
+**Market Cap:** $1565.94B
 Rank #1
 
-**Circulating Supply:** 20,082,184 BTC
+**Circulating Supply:** 20,082,225 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.8%
+-38.2%
 
 **All-Time Low:** $67.81
-+115527.5%
++114887.5%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 According to the table shared by River, some sectors have experienced inflation almost four times higher than official figures. Based on these figures, what should the interest rate have been?
 
-19h ago
+1d ago
 
 ---
 
 **[Inflation is theft](https://www.reddit.com/r/Bitcoin/comments/1wbzf83/inflation_is_theft/)**
 
-8h ago
+13h ago
 
 ---
 
 **[The inflation the government won't tell you about...](https://www.reddit.com/r/Bitcoin/comments/1wbq6bs/the_inflation_the_government_wont_tell_you_about/)**
 
-13h ago
+18h ago
 
 ---
 
@@ -101,19 +101,19 @@ According to the table shared by River, some sectors have experienced inflation 
 
 Bitcoin can protect savings and commerce beyond traditional financial systems.
 
-🔗 [The Nakamoto Project](https://partners.wsj.com/the-nakamoto-project/bitcoin-reframed/bitcoins-overlooked-promise-freedom/) • 13h ago
+🔗 [The Nakamoto Project](https://partners.wsj.com/the-nakamoto-project/bitcoin-reframed/bitcoins-overlooked-promise-freedom/) • 18h ago
 
 ---
 
 **[The iPhone got cheaper. If you disagree, you simply don’t see the vision!](https://www.reddit.com/r/Bitcoin/comments/1wc0ho4/the_iphone_got_cheaper_if_you_disagree_you_simply/)**
 
-7h ago
+12h ago
 
 ---
 
 **[MicroStrategy just launched $250 Bitcoin themed Jordans, but doesn't accept Bitcoin or any crypto as payment. Michael Saylor: ''If you wanna run like a bull then you need to also look like one''](https://www.reddit.com/r/Bitcoin/comments/1wbu9o2/microstrategy_just_launched_250_bitcoin_themed/)**
 
-11h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Bitcoin can protect savings and commerce beyond traditional financial systems.
 
 Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method.
 
-🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy) • 10h ago
+🔗 [Bitcoin Magazine](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy) • 15h ago
 
 ---
 
@@ -129,7 +129,7 @@ Rumors of Iran using bitcoin to skirt transactions have been abound for some tim
 
 Man, these ones were pretty good -- compelling message, urgency, and checked all the typical boxes of authenticity... until they asked me to enter my seed AND passphrase into a form not hosted on these manufacturers' official domains. Absolutely lethal, if you're skittish about hardware wallet vulns (and who isn't rn?), and not paying close attention. Both cos have been notified, and have been super-responsive with follow up. Stay safe out there, folks <3
 
-9h ago
+14h ago
 
 ---
 
@@ -137,7 +137,7 @@ Man, these ones were pretty good -- compelling message, urgency, and checked all
 
 The Liquid exploiter and Blockstream have been communicating through messages embedded in Bitcoin transactions, with parts of the exchange encrypted so outside observers couldn’t read them. On September 8, the exploiter announced a change in how they would communicate: All messages will be in plaintext. Transaction ID: 1d690f3b96b878067f3a445b74dfb8fab4201c0455d88ac98cc14a927e7858d7 On September 9, a subsequent plaintext message made the dispute public. Two excerpts: And later: Anyway we are going to publish the privatekey to decrypt our conversations afterwards. The message demanded payment from Blockstream’s own funds and warned that refusing would leave holders facing a 15% loss. That is the sender’s demand and warning—not evidence of an agreed bounty or an independently established outcome for holders. Transaction ID: f7055f6c8dd00f404e48c12483ae740180f658db206733505bb27b015e579588 What makes this interesting is the distinction between a public transaction and a readable conversation. The exchanges were already visible on Bitcoin, but the encrypted content wasn’t. Now the exploiter is making their demands readable to everyone and saying they will release the material needed to decrypt the earlier exchanges. Blockstream, meanwhile, reportedly continued replying with encrypted messages.
 
-14h ago
+19h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Liquid exploiter and Blockstream have been communicating through messages em
 
 This is my first bear market so I apologize if I sound unsure or ill informed. I have been DCA bitcoin for the past three years now with full intentions on doubling down my DCA during the bear market bottom. For the people that DCA, do you ever change your DCA figure or do you truly purchase the same amount throughout the entire course of the cycle?
 
-16h ago
+21h ago
 
 ---
 
@@ -153,57 +153,31 @@ This is my first bear market so I apologize if I sound unsure or ill informed. I
 
 ## Google News: "bitcoin"
 
-**[Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft](https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d)**
+**[22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history](https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk)**
 
-AP News • 2d ago
+A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree with the laundered proceeds.
 
----
-
-**[Steak ‘n Shake Says Sales Grew Double Digits Since Bitcoin Adoption](https://bitcoinmagazine.com/news/steak-n-shake-says-sales-grew)**
-
-Burger franchise Steak 'n Shake started accepting bitcoin over Lightning last year and claims business is booming.
-
-Bitcoin Magazine • 1d ago
+CNN • 8h ago
 
 ---
 
-**[Watch Coinbase: Think We've Seen Bottom in Bitcoin Price Cycle](https://www.bloomberg.com/news/videos/2026-09-10/coinbase-think-we-ve-seen-bottom-in-bitcoin-price-cycle-video)**
+**[Bitcoin News: Bond Stress and Regulation Shape Armstrong’s $400K BTC Prediction](https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-bond-stress-regulation-094814552.html)**
 
-Bloomberg.com • 1h ago
+Brian Armstrong, Coinbase’s CEO, said Bitcoin reaching $400,000 by 2030 is a reasonable target, and described the $300,000-$400,000 range as very likely to be hit within that window, in a CNBC Squawk Box Asia segment. The call is Armstrong’s personal read on where Bitcoin’s price could land, not a formal ...
 
----
-
-**[California crypto ‘Godfather’ gets 15 years for Bitcoin kidnapping plot](https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/)**
-
-KTLA • 9h ago
+finance.yahoo.com • 59m ago
 
 ---
 
-**[Bitcoin just flashed a bullish golden cross signal. Here's what that means for the top crypto.](https://www.businessinsider.com/bitcoin-price-today-golden-cross-bullish-signal-outlook-btc-crypto-2026-9)**
+**[Live updates: Bitcoin ETFs post a second straight outflow while every other fund turns green](https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green)**
 
-Bitoin has been mired in a brutal bear market for months. The rare golden cross technical pattern could be the buy signal bulls have been waiting for.
-
-businessinsider.com • 14h ago
+coindesk.com • 3h ago
 
 ---
 
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+**[What next as dogecoin drops 5%, bitcoin prints a 'golden cross' near $78,000?](https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level)**
 
-CoinDesk • 14h ago
-
----
-
-**[Strategy Launches $250 Bitcoin Air Jordans but Won’t Let You Pay in BTC](https://finance.yahoo.com/markets/crypto/articles/strategy-launches-250-bitcoin-air-094201291.html)**
-
-Strategy is to sell Bitcoin-themed Nike Air Jordans for $250 through its official merchandise store. Despite the Bitcoin branding, the store does not currently offer ...
-
-Yahoo Finance • 20h ago
-
----
-
-**[‘I Am The House Now’—Bessent Issues Serious Warning As Bitcoin And Crypto Brace For A Massive Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/09/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
-
-Forbes • 19h ago
+coindesk.com • 3h ago
 
 ---
 
@@ -211,15 +185,41 @@ Forbes • 19h ago
 
 While gold remains a strong buy, investors should hedge against AI-driven scarcity disruption with a 5% Bitcoin allocation. Read what investors need to know.
 
-Seeking Alpha • 14h ago
+Seeking Alpha • 19h ago
 
 ---
 
-**[Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets](https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html)**
+**[AI Boom Wrecks Trump’s Plan for ‘Made-in-America’ Bitcoin Mining](https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining)**
 
-Alby warns a critical Hub flaw could let attackers take over internet-exposed wallets; versions 1.19.0 and later are not affected.
+Bloomberg.com • 22h ago
 
-The Hacker News • 19h ago
+---
+
+**[California crypto ‘Godfather’ gets 15 years for Bitcoin kidnapping plot](https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/)**
+
+ktla.com • 14h ago
+
+---
+
+**[Top Bitcoin Casinos 2026: Which Crypto Casinos Have the Best Payouts?](https://muddyriversports.com/sponsored-content/top-bitcoin-casinos-2026-which-crypto-casinos-have-the-best-payouts/20260908160000/)**
+
+Best Crypto Casinos – September 2026 Casinos Welcome Offer Ratings 1️⃣ JACK.com 100 Wager-Free Spins 4.6/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins 4.8/5 3️⃣ Thunderpick 100% Match Bonus up to €2,000 4.7/5 4️⃣ BetWhale 250% up to $2,500 4.6/5 5️⃣ BitStarz 300% Bonus up to 5 BTC + 180 Free...
+
+muddyriversports.com • 1d ago
+
+---
+
+**[Iran Continues Using Bitcoin To Keep Economy Stable: Report](https://bitcoinmagazine.com/news/iran-still-using-bitcoin-to-help-economy)**
+
+Rumors of Iran using bitcoin to skirt transactions have been abound for some time now. Business and regime insiders have reportedly said it's a tried and tested method.
+
+Bitcoin Magazine • 16h ago
+
+---
+
+**[Bankrupt ATM network sells 2,446 machines below $1M](https://www.thestreet.com/crypto/markets/bankrupt-atm-network-sells-2446-machines-below-1m)**
+
+thestreet.com • 5h ago
 
 ---
 
@@ -289,14 +289,6 @@ analyses a descriptor.
 
 ---
 
-**[From Bitcoin Bankruptcy to Data Center Billions in West Texas](https://news.ycombinator.com/item?id=49548221)**
-
-Ionic Digital is leasing one of its West Texas sites to an AI infrastructure operator because the most valuable part of the bitcoin mine is not the building or the mining machines. It is the electricity.  The site is already
-
-⬆️ 1 • 💬 0 • 6d ago • [American Buildout](https://americanbuildout.com/from-bitcoin-bankruptcy-to-data-center-billions-in-west-texas/)
-
----
-
 **[White House Launches Arcade.Gov](https://news.ycombinator.com/item?id=49570467)**
 
 Donald Trump's White House has launched Arcade.Gov, a site with mini-games where you catch and deport immigrants, or use Tetris blocks to build a border wall.
@@ -315,17 +307,7 @@ Treasury Secretary Scott Bessent just dared traders to bet against the yen, call
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 80 • ⏱️ 17:22 • 6h ago
-
----
-
-**[&quot;This Massive Catalyst Is About to Send BTC Straight to $105,000&quot; - Mark Yusko](https://www.youtube.com/watch?v=YiTbIryrzoA)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 3K • 👍 86 • 💬 120 • ⏱️ 18:12 • 7h ago
+👁️ 28K • 👍 1K • 💬 95 • ⏱️ 17:22 • 11h ago
 
 ---
 
@@ -335,57 +317,37 @@ Let's talk about the Bitcoin bull case vs. the bear case! 0:00 - INTRO bull case
 
 📺 Benjamin Cowen
 
-👁️ 93K • 👍 4K • 💬 319 • ⏱️ 1:18:30 • 9h ago
+👁️ 132K • 👍 5K • 💬 373 • ⏱️ 1:18:30 • 14h ago
 
 ---
 
-**[America’s DEBT Problem Just Got WORSE | Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=6mK4TO39OkI)**
+**[&quot;This Massive Catalyst Is About to Send BTC Straight to $105,000&quot; - Mark Yusko](https://www.youtube.com/watch?v=YiTbIryrzoA)**
 
-Japan dumped $90 billion in US Treasuries as the global financial system faces growing pressure. US interest costs are surging, ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 100 • 💬 28 • ⏱️ 18:12 • 12h ago
+
+---
+
+**[Bitcoin Golden Cross](https://www.youtube.com/watch?v=YHsAbpRoB-A)**
+
+Bitcoin just had a golden cross. Normally we get dumps after golden crosses. What is more important is what happens during the ...
+
+📺 Benjamin Cowen
+
+👁️ 212K • 👍 7K • 💬 253 • ⏱️ 9:37 • 1d ago
+
+---
+
+**[Scott Bessents Bitcoin ATTACK JUST BACKFIRED! HERES THE PROOF | EP 1588](https://www.youtube.com/watch?v=VQ--Xu-c0wY)**
+
+Scott Bessent's Operation Economic Outcast may have had the opposite outcome they wished .
 
 📺 Simply Bitcoin
 
-👁️ 35K • 👍 1K • 💬 53 • ⏱️ 14:32 • 1d ago
-
----
-
-**[A BITCOIN COLLAPSE IS COMING!](https://www.youtube.com/watch?v=nfroCAoDa64)**
-
-Benjamin Cowen puts a 65% probability on Bitcoin falling further—and I agree that the bearish scenario is possible, but ...
-
-📺 Davinci Jeremie
-
-👁️ 1K • 👍 110 • 💬 83 • ⏱️ 14:19 • 4h ago
-
----
-
-**[$1 Million Bitcoin Use Case - Iran Just Turned To Bitcoin During War](https://www.youtube.com/watch?v=jkmuqF9H-Cw)**
-
-Bitcoin is being used where the stakes couldn't be higher. Financial Times reports Iran is increasingly using Bitcoin and Tether to ...
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 223 • 💬 222 • ⏱️ 16:10 • 11h ago
-
----
-
-**[Bitcoin: This Sell Signal Is Freaking Out Investors (explained)](https://www.youtube.com/watch?v=Nr-ACsiYKUY)**
-
-TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
-
-📺 Jason Pizzino
-
-👁️ 9K • 👍 582 • 💬 41 • ⏱️ 29:06 • 5h ago
-
----
-
-**[Addressing Hunter Biden Crypto Coin](https://www.youtube.com/watch?v=of0XGiy2n4I)**
-
-I made a vague post on Instagram so here's a more thorough explanation of what happened. I did not realize how this would ...
-
-📺 Channel 5 with Andrew Callaghan
-
-👁️ 171K • 👍 11K • 💬 4K • ⏱️ 4:13 • 6h ago
+👁️ 13K • 👍 285 • 💬 22 • ⏱️ 1:17:25 • 4h ago
 
 ---
 
@@ -395,17 +357,47 @@ Welcome back to the channel! ✔️ https://fortisx.fi/kol/aaron ✔️ Deposit 
 
 📺 Aaron Bennett
 
-👁️ 15K • 👍 453 • 💬 55 • ⏱️ 10:08 • 22h ago
+👁️ 16K • 👍 450 • 💬 56 • ⏱️ 10:08 • 1d ago
 
 ---
 
-**[XRP WILL Flip Bitcoin &amp; How The Floodgates Open Clarity Or No Clarity](https://www.youtube.com/watch?v=nbheFFSgfms)**
+**[This Might Be The Next Bitcoin!😨](https://www.youtube.com/watch?v=Hs3tSTH1h2I)**
 
-Buy & Sell Crypto With iTrustCapital → https://www.itrustcapital.com/xrparmy Kalshi XRP Prediction Markets ...
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-📺 Digital Asset Investor
+📺 Crypto Cam
 
-👁️ 40K • 👍 2K • 💬 533 • ⏱️ 25:00 • 16h ago
+👁️ 10K • 👍 213 • 💬 11 • ⏱️ 0:29 • 2d ago
+
+---
+
+**[Scott Bessent Just Lit the Fuse for a Major Bitcoin Pump!](https://www.youtube.com/watch?v=bA1coiidgsw)**
+
+Ran breaks down the major forces driving Bitcoin and crypto right now as oil approaches a critical level and inflation keeps ...
+
+📺 Crypto Banter
+
+👁️ 41K • 👍 1K • 💬 60 • ⏱️ 27:32 • 20h ago
+
+---
+
+**[BITCOIN: The Next Test Of Resistance Should Break Price Out! [My Top Picks]](https://www.youtube.com/watch?v=oCLL6fHHijU)**
+
+Every tap of Bitcoin into $81500 is draining the sellers. In today's session, Kyle Doops breaks down the market structure, maps the ...
+
+📺 Crypto Banter
+
+👁️ 27K • 👍 1K • 💬 15 • ⏱️ 37:07 • 1d ago
+
+---
+
+**[BITCOIN HIGHER!? WAIT FOR THESE CRYPTO ENTRIES!](https://www.youtube.com/watch?v=q3JhzzghZkw)**
+
+TOOBIT — TRADING BOTS & AN EXCLUSIVE 20% DEPOSIT BONUS!
+
+📺 100XClub
+
+👁️ 13K • 👍 910 • 💬 219 • ⏱️ 7:18 • 2d ago
 
 ---
 
