@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 129,
+      "upvotes": 130,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 103784,
+      "github_stars": 104138,
       "project_page": null
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2608.17906",
       "arxiv_url": "https://arxiv.org/abs/2608.17906",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
-      "upvotes": 19,
+      "upvotes": 20,
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 175,
-      "num_comments": 2,
+      "upvotes": 183,
+      "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
-      "github_stars": 152,
+      "github_stars": 197,
       "project_page": "https://auk-project.github.io/"
     },
     {
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2609.08977",
       "arxiv_url": "https://arxiv.org/abs/2609.08977",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08977.png",
-      "upvotes": 111,
-      "num_comments": 1,
+      "upvotes": 122,
+      "num_comments": 2,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
-      "github_stars": 137,
+      "github_stars": 144,
       "project_page": "https://omni-interaction-gander.github.io/Omni-Interaction-Agent/"
     },
     {
@@ -92,46 +92,8 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 32095,
+      "github_stars": 32137,
       "project_page": null
-    },
-    {
-      "id": "2312.06371",
-      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
-      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
-      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
-      "hf_url": "https://huggingface.co/papers/2312.06371",
-      "arxiv_url": "https://arxiv.org/abs/2312.06371",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
-      "upvotes": 0,
-      "num_comments": 0,
-      "published_at": "2023-12-11T08:27:51.000Z",
-      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
-      "github_stars": 1121,
-      "project_page": null
-    },
-    {
-      "id": "2608.16157",
-      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
-      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
-      "organization_name": "UCBerkeley",
-      "organization_fullname": "University of California, Berkeley",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
-      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
-      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
-      "hf_url": "https://huggingface.co/papers/2608.16157",
-      "arxiv_url": "https://arxiv.org/abs/2608.16157",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
-      "upvotes": 109,
-      "num_comments": 2,
-      "published_at": "2026-08-16T20:00:00.000Z",
-      "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 12257,
-      "project_page": "https://www.flashml.ai/"
     },
     {
       "id": "2407.16741",
@@ -153,6 +115,44 @@
       "project_page": null
     },
     {
+      "id": "2608.16157",
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
+      "organization_name": "UCBerkeley",
+      "organization_fullname": "University of California, Berkeley",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63f425c3a096536aeab42dea/bxNKEkprdm5JI1wkjmNAL.png",
+      "summary": "Frontier open-weight models are increasingly available, but serving them still largely assumes datacenter infrastructure. We present FreeToken, an edge-native MoE serving system that treats a personal machine not as a small GPU, but as a unified, elastic inference platform. FreeToken co-designs the full serving stack, including model layout and loading, expert residency, CPU--GPU execution, agentic state reuse, and runtime memory management, around two realities of local AI: agent workloads continuously change their execution pattern, and edge hardware exposes heterogeneous resources whose balance differs from machine to machine. Rather than committing to a fixed offloading strategy, FreeToken continuously maps computation and model state onto the resources actually available. FreeToken supports more than 20 MoE models and real coding and tool-using agents across hardware ranging from an 8GB laptop GPU to a single workstation GPU. More importantly, it changes what these machines can practically serve, from a 35B model on a laptop to a 284B model on a gaming desktop and the 753B GLM-5.2 on a single workstation GPU. FreeToken turns open weights into deployable local software, making the machines users already own a practical platform for frontier-scale intelligence. We release the system at flashml.ai.",
+      "ai_summary": "FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.",
+      "hf_url": "https://huggingface.co/papers/2608.16157",
+      "arxiv_url": "https://arxiv.org/abs/2608.16157",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.16157.png",
+      "upvotes": 109,
+      "num_comments": 2,
+      "published_at": "2026-08-16T20:00:00.000Z",
+      "github_repo": "https://github.com/FlashML-org/FreeToken",
+      "github_stars": 12318,
+      "project_page": "https://www.flashml.ai/"
+    },
+    {
+      "id": "2312.06371",
+      "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
+      "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The ability to accurately predict the trajectory of surrounding vehicles is a\ncritical hurdle to overcome on the journey to fully autonomous vehicles. To\naddress this challenge, we pioneer a novel behavior-aware trajectory prediction\nmodel (BAT) that incorporates insights and findings from traffic psychology,\nhuman behavior, and decision-making. Our model consists of behavior-aware,\ninteraction-aware, priority-aware, and position-aware modules that perceive and\nunderstand the underlying interactions and account for uncertainty and\nvariability in prediction, enabling higher-level learning and flexibility\nwithout rigid categorization of driving behavior. Importantly, this approach\neliminates the need for manual labeling in the training process and addresses\nthe challenges of non-continuous behavior labeling and the selection of\nappropriate time windows. We evaluate BAT's performance across the Next\nGeneration Simulation (NGSIM), Highway Drone (HighD), Roundabout Drone (RounD),\nand Macao Connected Autonomous Driving (MoCAD) datasets, showcasing its\nsuperiority over prevailing state-of-the-art (SOTA) benchmarks in terms of\nprediction accuracy and efficiency. Remarkably, even when trained on reduced\nportions of the training data (25%), our model outperforms most of the\nbaselines, demonstrating its robustness and efficiency in predicting vehicle\ntrajectories, and the potential to reduce the amount of data required to train\nautonomous vehicles, especially in corner cases. In conclusion, the\nbehavior-aware model represents a significant advancement in the development of\nautonomous vehicles capable of predicting trajectories with the same level of\nproficiency as human drivers. The project page is available at\nhttps://github.com/Petrichor625/BATraj-Behavior-aware-Model.",
+      "ai_summary": "A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.",
+      "hf_url": "https://huggingface.co/papers/2312.06371",
+      "arxiv_url": "https://arxiv.org/abs/2312.06371",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2312.06371.png",
+      "upvotes": 0,
+      "num_comments": 0,
+      "published_at": "2023-12-11T08:27:51.000Z",
+      "github_repo": "https://github.com/petrichor625/batraj-behavior-aware-model",
+      "github_stars": 1110,
+      "project_page": null
+    },
+    {
       "id": "2608.09888",
       "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
       "authors": "Bj\u00f6rn Engdahl, Adrian Kosowski, Jan Chorowski et al. (9 authors)",
@@ -168,7 +168,7 @@
       "num_comments": 6,
       "published_at": "2026-08-09T20:00:00.000Z",
       "github_repo": "https://github.com/pathwaycom/arc-task-gen",
-      "github_stars": 11242,
+      "github_stars": 11238,
       "project_page": "https://pathway.com/blog/pathway-150m-model-breaks-arc-agi-1-cost-efficiency-frontier"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 2379,
+      "github_stars": 2436,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-09T22:59:07.933118+00:00"
+  "fetched_at": "2026-09-10T05:48:37.260187+00:00"
 }
