@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-10T14:53:32.687077+00:00'
+updated: '2026-09-10T18:10:09.991172+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 10, 2026 at 14:53 UTC  
+**Last Updated:** September 10, 2026 at 18:10 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,37 +39,7 @@ AI news, discussions, and developments
 
 **[Genuine Question About Citizenship](https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/)**
 
-6h ago
-
----
-
-**[Is AGI finally here?](https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/)**
-
-1h ago
-
----
-
-**[GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology](https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/)**
-
-We benchmarked GPT-6 Astra vs GPT-5.6 Sol across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Sol found 107 confirmed bugs vs 91 for Astra, while Astra had higher precision and lower latency. Every finding was independently verified. We’re doing Fable vs Opus next week, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/6hkugycb6poh1.png?width=1080&format=png&auto=webp&s=073833238182e2e36e04a9c8c39f90627adb28b9
-
-1h ago
-
----
-
-**[Which boring AI use case has actually been more useful than the flashy ones?](https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/)**
-
-The impressive demos get attention, but I’m curious about mundane stuff people now rely on every week. What boring AI use case ended up being genuinely valuable?
-
-3h ago
-
----
-
-**['Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location](https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/)**
-
-A mother’s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children’s images online. Meta claims the issue is resolved.
-
-🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 23h ago
+9h ago
 
 ---
 
@@ -77,39 +47,69 @@ A mother’s viral video reveals how Meta AI surfaced deleted photos and persona
 
 Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots.
 
-🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 1h ago
+🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 4h ago
 
 ---
 
-**[Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
+**[Is AGI finally here?](https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/)**
 
-Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour.
-
-🔗 [Gadget Review](https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch) • 21h ago
+4h ago
 
 ---
 
-**[How do you keep context when switching between AIs?](https://www.reddit.com/r/artificial/comments/1wcegk0/how_do_you_keep_context_when_switching_between_ais/)**
+**[Challenge Accepted](https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/)**
 
-How do you guys keep context when working on the same project across different AI tools? Cuz I keep running into the problem of switching between ChatGPT/Claude/etc. and having to bring the other one up to speed again. Do you just copy stuff over, keep a separate file, use summaries, or what?
+The ignorance is incredible
 
-5h ago
-
----
-
-**[Why does the Anthropic ECON report assume that there will be more 'non knowledge' jobs with AI?](https://www.reddit.com/r/artificial/comments/1wca455/why_does_the_anthropic_econ_report_assume_that/)**
-
-In https://www.anthropic.com/institute/econ-scenarios, the report seems to suggest that there will be less knowledge jobs and more "other jobs". Why does it seem to exclude the advance of robotics along with AI and the automation of jobs such as sanitation worker, janitors, etc.? I feel like those would be the jobs that would technically be more acceptable to automate.
-
-9h ago
+3h ago
 
 ---
 
-**[What AI capability jump felt overhyped vs underhyped to you lately?](https://www.reddit.com/r/artificial/comments/1wcd7ey/what_ai_capability_jump_felt_overhyped_vs/)**
+**[GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology](https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/)**
 
-Curious how people here are sorting signal from noise. Which recent advances looked flashy but did not change day-to-day use much, and which quieter improvements actually stuck for you? Looking for concrete examples rather than vibes.
+We benchmarked GPT-6 Astra vs GPT-5.6 Sol across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Sol found 107 confirmed bugs vs 91 for Astra, while Astra had higher precision and lower latency. Every finding was independently verified. We’re doing Fable vs Opus next week, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/6hkugycb6poh1.png?width=1080&format=png&auto=webp&s=073833238182e2e36e04a9c8c39f90627adb28b9
 
-6h ago
+4h ago
+
+---
+
+**[Which boring AI use case has actually been more useful than the flashy ones?](https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/)**
+
+The impressive demos get attention, but I’m curious about mundane stuff people now rely on every week. What boring AI use case ended up being genuinely valuable?
+
+7h ago
+
+---
+
+**[We need free market and foreign AI models to keep companies competitive](https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/)**
+
+There’s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn’t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do.
+
+28m ago
+
+---
+
+**[Notion ai finally clicked for me once i stopped using it as a writer](https://www.reddit.com/r/artificial/comments/1wcpi2o/notion_ai_finally_clicked_for_me_once_i_stopped/)**
+
+for months i thought it was overpriced because i kept asking it to write stuff and the writing was kinda mid. turns out that's not the point. the point is asking it questions about your own pages. "what did i say i'd do about X last week", "summarize everything tagged urgent", that kind of thing. it's search that understands your notes, not a chatgpt clone. once i used it that way it went from "why am i paying for this" to something i'd lowkey miss. still not letting it draft anything important tho
+
+50m ago
+
+---
+
+**['Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location](https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/)**
+
+A mother’s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children’s images online. Meta claims the issue is resolved.
+
+🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 1d ago
+
+---
+
+**[¿Por qué medimos el progreso de la IA por lo que puede reemplazar, en lugar de por lo que permite hacer a los humanos?](https://www.reddit.com/r/artificial/comments/1wcqv2b/por_qué_medimos_el_progreso_de_la_ia_por_lo_que/)**
+
+¿Por qué planteamos cada nueva capacidad de IA en términos de lo que puede reemplazar? Cada vez que la IA adquiere una nueva capacidad, surge casi de inmediato una pregunta familiar: ¿Qué reemplazará? Si un modelo mejora en programación, nos preguntamos a qué programadores podría reemplazar. Si mejora en escritura, diseño, investigación, diagnóstico o planificación, la discusión rápidamente se centra en qué partes de esas profesiones podrían dejar de requerir la intervención humana. Esa es, obviamente, una pregunta importante. Pero creo que se ha convertido en un enfoque tan dominante que estamos pasando por alto otra forma de evaluar exactamente el mismo progreso tecnológico: ¿Qué hace que un ser humano sea capaz de hacer que no podía hacer antes? Esta no es una idea nueva. En 1962, Douglas Engelbart publicó "Aumentando el intelecto humano". Su objetivo no era simplemente que las computadoras realizaran trabajo intelectual en lugar de los humanos. Describió la mejora como el aumento de la capacidad de una persona para abordar problemas complejos, comprenderlos y resolverlos, problemas que antes no podía resolver. Es importante destacar que el sistema que le interesaba no era solo la computadora, sino la combinación del ser humano, las herramientas, el lenguaje, los métodos y el entrenamiento. El ajedrez ofreció posteriormente un ejemplo particularmente interesante. Cuando Deep Blue de IBM derrotó a Garry Kasparov en 1997, se convirtió en uno de los símbolos más claros de la narrativa de la sustitución: humano contra máquina, realizando la misma tarea, hasta que la máquina mejorara. Pero la respuesta de Kasparov fue interesante. En lugar de detenerse en el ajedrez humano contra máquina, ayudó a desarrollar el ajedrez avanzado, donde los jugadores humanos podían trabajar con programas de ajedrez. Eso cambia la pregunta por completo. La comparación relevante ya no es simplemente: humano vs. máquina sino: humano solo vs. humano + máquina. Y esa distinción parece cada vez más importante con la IA moderna. Una calculadora amplía una capacidad limitada. Un telescopio amplía la percepción. La escritura amplía la memoria y el razonamiento más allá de lo que podemos retener internamente. Las computadoras ampliaron aún más esas capacidades. La IA es singular porque la misma tecnología puede potencialmente ampliar muchas dimensiones de la capacidad humana a la vez: razonamiento, memoria, aprendizaje, percepción, creatividad, comunicación y acción. Sin embargo, nuestro lenguaje para evaluar la IA aún parece estar muy centrado en la máquina autónoma: puntuaciones de referencia, tareas completadas sin intervención humana, trabajos automatizados y el punto en el que un modelo supera a una persona en X. Son mediciones útiles. Pero miden principalmente la capacidad de la máquina. Me interesa saber si necesitamos una forma igualmente seria de pensar sobre la capacidad humana que se genera con el acceso a la IA. No se trata simplemente de: ¿La IA hizo que alguien fuera un 30 % más rápido en algo que ya sabía hacer? Sino de: ¿Puede esta persona ahora comprender, crear, investigar, construir o lograr algo que antes estaba fuera de sus capacidades efectivas? Esto nos lleva a una forma diferente de interpretar el progreso de la IA. Cada vez que un modelo adquiere una nueva capacidad, quizás haya dos preguntas que valga la pena plantearse: ¿Qué puede reemplazar? y ¿Qué habilidades puede adquirir un ser humano gracias a esta nueva capacidad? Me pregunto si aquí ya se han visto ejemplos significativos de la segunda categoría: casos en los que la IA no solo ha acelerado una habilidad existente, sino que ha ampliado genuinamente las capacidades de una persona.
+
+3m ago
 
 ---
 
@@ -117,51 +117,31 @@ Curious how people here are sorting signal from noise. Which recent advances loo
 
 ## Google News: "ai"
 
-**[Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html)**
-
-The New York Times • 21h ago
-
----
-
-**[Opinion | Big Tech Fooled America Once. The Second Time’s Not Going So Well.](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html)**
-
-The New York Times • 5h ago
-
----
-
-**[AI could warn people of dangerous weather patterns](https://www.axios.com/2026/09/10/ai-dangerous-weather-warning)**
-
-Axios • 52m ago
-
----
-
-**[Sam Altman pitches utilities on AI grid defense](https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425)**
-
-Politico • 49m ago
-
----
-
-**[Positron AI raises $875 million Series C at $5 billion valuation](https://qz.com/positron-ai-funding-series-c-inference-chips-091026)**
-
-The Reno-based startup, which uses commodity memory instead of scarce HBM, raised the round in two tranches led by NEA and Jim Clark
-
-qz.com • 42m ago
-
----
-
 **[Former Anthropic researcher warns AI could ‘kill us all’](https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty)**
 
 Former AI researcher Jacob Coxon tells CNN’s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control.
 
-CNN • 9h ago
+cnn.com • 12h ago
 
 ---
 
-**[America's reddest state chases billion-dollar boom as others sour on massive emerging industry](https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry)**
+**[Nvidia CEO Jensen Huang dismisses "hysterical" AI fears](https://www.axios.com/2026/09/10/nvidia-ceo-jensen-huang-ai-anthropic)**
 
-Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes.
+Axios • 14m ago
 
-Fox News • 4h ago
+---
+
+**[AI is losing its stranglehold on the U.S. stock market. Here's why](https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html)**
+
+A key tech-stock volatility metric options traders have been watching all year is reversing.
+
+CNBC • 27m ago
+
+---
+
+**[Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says](https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429)**
+
+Politico • 3h ago
 
 ---
 
@@ -169,23 +149,43 @@ Fox News • 4h ago
 
 AI agents went on an uncontrolled hacking spree, leaving some in the industry worried
 
-bbc.com • 15h ago
+BBC • 18h ago
 
 ---
 
-**[Inside John Ternus' first Apple launch event as CEO: Foldable iPhone Duo, AI and more](https://www.foxbusiness.com/technology/inside-john-ternus-first-apple-launch-event-ceo-foldable-iphone-duo-ai-more)**
+**[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
 
-CEO John Ternus debuted the $1,999 foldable iPhone Duo in his first major product event, marking Apple's long-awaited entry into the foldables market.
+We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
 
-Fox Business • 4h ago
+OpenAI • 1d ago
 
 ---
 
-**[The AI investment boom won't last forever, Goldman Sachs chief economist Jan Hatzius warns](https://finance.yahoo.com/markets/article/the-ai-investment-boom-wont-last-forever-goldman-sachs-chief-economist-jan-hatzius-warns-122546159.html)**
+**[Could Your Chatbot Be Stealing Ideas From You? It’s a Thorny Question.](https://www.nytimes.com/2026/09/10/science/chatbot-stealing-ideas.html)**
 
-A reality check on AI spending from Goldman Sachs.
+The New York Times • 4h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[The summer AI ate math](https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/)**
+
+What happens when machines surpass the most brilliant human minds? Mathematicians are finding out
+
+Scientific American • 10h ago
+
+---
+
+**[America's reddest state chases billion-dollar boom as others sour on massive emerging industry](https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry)**
+
+Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes.
+
+Fox News • 8h ago
+
+---
+
+**[Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says](https://www.reuters.com/world/india/wipros-ai-push-frees-capacity-equivalent-20000-workers-cto-says-2026-09-10/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -205,7 +205,7 @@ LibreOffice 26.8 became the app’s most popular update, with over 1 million dow
 
 Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.
 
-⬆️ 648 • 💬 725 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
+⬆️ 648 • 💬 731 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
 
 ---
 
@@ -213,7 +213,7 @@ Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks,
 
 Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.
 
-⬆️ 493 • 💬 423 • 21h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+⬆️ 499 • 💬 441 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 ---
 
@@ -223,7 +223,7 @@ I wrote recently about how the collection of good, fruitful open problems is now
 
 One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)
 
-⬆️ 478 • 💬 412 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
+⬆️ 481 • 💬 413 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -245,7 +245,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
 The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.
 
-⬆️ 183 • 💬 7 • 14h ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
+⬆️ 183 • 💬 8 • 18h ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
 
 ---
 
@@ -265,11 +265,9 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 ---
 
-**[AI Responsibility – OpenAI and Anthropic](https://news.ycombinator.com/item?id=49619639)**
+**[A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://news.ycombinator.com/item?id=49637395)**
 
-I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives. More thoughts below.
-
-⬆️ 89 • 💬 22 • 1d ago • [X (formerly Twitter)](https://twitter.com/hilbertspaess/status/2097476196791709843)
+⬆️ 90 • 💬 61 • 16h ago • [slimemoldtimemold.com](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
 
 ---
 
@@ -283,17 +281,7 @@ I resigned from Anthropic today. I spent the last three years doing pretraining 
 
 📺 CNN
 
-👁️ 1.0M • 👍 12K • 💬 5K • ⏱️ 9:27 • 12h ago
-
----
-
-**[Expert on what AI-driven extinction would look like](https://www.youtube.com/watch?v=xEgZQG25w3E)**
-
-Connor Leahy, U.S. executive director of ControlAI, joins "The Daily Report" to share his perspective on concerns that AI ...
-
-📺 CBS News
-
-👁️ 54K • 👍 608 • 💬 293 • ⏱️ 4:52 • 15h ago
+👁️ 1.4M • 👍 15K • 💬 6K • ⏱️ 9:27 • 16h ago
 
 ---
 
@@ -303,27 +291,7 @@ Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News'
 
 📺 NBC News
 
-👁️ 281K • 👍 4K • 💬 1K • ⏱️ 13:40 • 14h ago
-
----
-
-**[A.I. Expert Warns Humanity Is Halfway to Full Takeover | TMZ](https://www.youtube.com/watch?v=vmJ_es6UO4I)**
-
-The nightmare scenario for A.I. isn't just killer robots ... it could be nukes too. A.I. ethicist Tristan Harris says the warning signs are ...
-
-📺 TMZ Clips
-
-👁️ 44K • 👍 637 • 💬 391 • ⏱️ 15:29 • 20h ago
-
----
-
-**[Former Anthropic AI researcher: &#39;this technology could kill everyone&#39;](https://www.youtube.com/watch?v=ujAU3qGKNMw)**
-
-Former Anthropic researcher Jacob Coxon tells Tom Llamas people building AI believe it “could kill everyone.” For more context ...
-
-📺 NBC News
-
-👁️ 23K • 👍 445 • 💬 61 • ⏱️ 0:32 • 13h ago
+👁️ 350K • 👍 5K • 💬 2K • ⏱️ 13:40 • 17h ago
 
 ---
 
@@ -333,17 +301,67 @@ Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashing
 
 📺 Philip DeFranco
 
-👁️ 667K • 👍 17K • 💬 3K • ⏱️ 27:13 • 17h ago
+👁️ 747K • 👍 18K • 💬 4K • ⏱️ 27:13 • 20h ago
 
 ---
 
-**[Anthropic Team Lead: AI Could Kill All Humans](https://www.youtube.com/watch?v=ZGq9z6l3ZLE)**
+**[A.I. Expert Warns Humanity Is Halfway to Full Takeover | TMZ](https://www.youtube.com/watch?v=vmJ_es6UO4I)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+The nightmare scenario for A.I. isn't just killer robots ... it could be nukes too. A.I. ethicist Tristan Harris says the warning signs are ...
 
-📺 DeFranco News Clips
+📺 TMZ Clips
 
-👁️ 476K • 👍 32K • 💬 3K • ⏱️ 1:43 • 22h ago
+👁️ 46K • 👍 673 • 💬 402 • ⏱️ 15:29 • 23h ago
+
+---
+
+**[‘This is a SUPERWEAPON’: Former Anthropic researcher WARNS of ‘AI takeover’](https://www.youtube.com/watch?v=9mhq2vCxWjg)**
+
+Former Anthropic researcher Jason Coxon discusses his resignation from the company and concerns over artificial intelligence ...
+
+📺 Fox News
+
+👁️ 77K • 👍 2K • 💬 703 • ⏱️ 7:31 • 7h ago
+
+---
+
+**[Former Anthropic AI researcher: &#39;this technology could kill everyone&#39;](https://www.youtube.com/watch?v=ujAU3qGKNMw)**
+
+Former Anthropic researcher Jacob Coxon tells Tom Llamas people building AI believe it “could kill everyone.” For more context ...
+
+📺 NBC News
+
+👁️ 30K • 👍 517 • 💬 69 • ⏱️ 0:32 • 16h ago
+
+---
+
+**[Could AI kill all humans within a decade? &#39;Godfather of AI&#39; on the &quot;not unreasonable&quot; 10% chance](https://www.youtube.com/watch?v=IZMjJGi4YhI)**
+
+Could AI kill us all by the end of the decade? That's what the people building AI believe, according to a whistleblower who has just ...
+
+📺 BBC Politics
+
+👁️ 26K • 👍 964 • 💬 434 • ⏱️ 6:33 • 7h ago
+
+---
+
+**[Elon Musk Notices Something Very Suspicious About AI Whistleblower That Everyone Missed](https://www.youtube.com/watch?v=GKGcQSZXQcc)**
+
+Dave Rubin of “The Rubin Report” talks about Elon Musk poking some holes in former Anthropic employee Jacob Coxan's ...
+
+📺 The Rubin Report
+
+👁️ 32K • 👍 3K • 💬 311 • ⏱️ 1:05:20 • 2h ago
+
+---
+
+**[AI companies every 6 months](https://www.youtube.com/watch?v=akNcZOoLKVk)**
+
+Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+
+📺 Man Carrying Thing
+
+👁️ 718K • 👍 25K • 💬 2K • ⏱️ 1:33 • 1d ago
 
 ---
 
@@ -353,27 +371,7 @@ What we have got to do now is light a match under the backsides of members of Co
 
 📺 MS NOW
 
-👁️ 217K • 👍 5K • 💬 2K • ⏱️ 7:46 • 13h ago
-
----
-
-**[Anthropic insider warns AI could ‘kill all humans’. Should we be scared? | BBC News](https://www.youtube.com/watch?v=nstTCoxrtNU)**
-
-A top safety researcher at Anthropic has warned AI is advancing so quickly he believes there is a greater than 10% chance it ...
-
-📺 BBC News
-
-👁️ 255K • 👍 2K • 💬 835 • ⏱️ 8:09 • 19h ago
-
----
-
-**[Joe Rogan shares his opinion on AI #PerplexityPartner](https://www.youtube.com/watch?v=hg_qAla3b6U)**
-
-In this podcast episode Joe Rogan shares his concerns about ai. Ai like Perplexity Ai can provide state of the art information about ...
-
-📺 Geek'D on Heroes
-
-👁️ 895 • 👍 11 • ⏱️ 0:51 • 3h ago
+👁️ 315K • 👍 6K • 💬 2K • ⏱️ 7:46 • 17h ago
 
 ---
 
@@ -389,7 +387,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 6 • ❤️ 1,016 • 6h ago
+⬇️ 6 • ❤️ 1,174 • 9h ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 42,289 • ❤️ 1,055 • 5h ago
+⬇️ 42,289 • ❤️ 1,081 • 8h ago
 
 ---
 
@@ -413,19 +411,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 15,930 • ❤️ 1,041 • 7d ago
-
----
-
-**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
-
-* IST Austria Distributed Algorithms and Systems Lab*
-
-This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 614,850 • ❤️ 769 • 8d ago
+⬇️ 15,930 • ❤️ 1,050 • 7d ago
 
 ---
 
@@ -437,7 +423,19 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,322,476 • ❤️ 14,591 • 26d ago
+⬇️ 7,322,476 • ❤️ 14,619 • 27d ago
+
+---
+
+**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
+
+* IST Austria Distributed Algorithms and Systems Lab*
+
+This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 614,850 • ❤️ 777 • 8d ago
 
 ---
 
@@ -449,19 +447,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 2,444 • ❤️ 629 • 1d ago
-
----
-
-**[Nex-N2.5-Pro](https://huggingface.co/nex-agi/Nex-N2.5-Pro)**
-
-*Nex AGI*
-
-Nex-N2.5-Pro is a next-generation agentic text-generation model designed for long-horizon tasks. It excels at computer and web interaction, autonomous program execution, and visually-grounded decision-making, making it ideal for complex productivity and research scenarios.
-
-`text-generation`
-
-⬇️ 3 • ❤️ 580 • 1d ago
+⬇️ 2,444 • ❤️ 640 • 2d ago
 
 ---
 
@@ -473,7 +459,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,740,572 • ❤️ 3,334 • 9d ago
+⬇️ 1,740,572 • ❤️ 3,352 • 9d ago
 
 ---
 
@@ -485,7 +471,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,127,203 • ❤️ 3,820 • 21d ago
+⬇️ 11,127,203 • ❤️ 3,831 • 21d ago
 
 ---
 
@@ -497,7 +483,19 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 483,787 • ❤️ 704 • 7d ago
+⬇️ 483,787 • ❤️ 710 • 8d ago
+
+---
+
+**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
+
+*David Belton*
+
+A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and creative writing, achieving state-of-the-art benchmarks with significantly reduced thinking tokens for faster inference. It supports image-text-to-text tasks and is ideal for coding, story generation, and roleplaying.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 517,644 • ❤️ 436 • 2d ago
 
 ---
 
@@ -511,7 +509,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 130 • 💬 6 • ⭐ 104,138 • 20mo ago
+▲ 130 • 💬 6 • ⭐ 104,453 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -539,7 +537,7 @@ AutoResearch is a two-stage autonomous system that grounds research ideas throug
 
 Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
 
-▲ 62 • 💬 2 • ⭐ 125 • 1d ago
+▲ 82 • 💬 2 • ⭐ 125 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
@@ -553,7 +551,7 @@ Show-Harness links vision-language models to robot control via discrete semantic
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 196 • 💬 3 • ⭐ 197 • 2d ago
+▲ 198 • 💬 3 • ⭐ 331 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -567,7 +565,7 @@ AuK is an open-source foundational model that unifies speech generation and edit
 
 Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.
 
-▲ 125 • 💬 2 • ⭐ 144 • 2d ago
+▲ 125 • 💬 2 • ⭐ 158 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
 
@@ -598,20 +596,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
-
-*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
-
-🏢 University of California, Berkeley
-
-FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
-
-▲ 109 • 💬 2 • ⭐ 12,318 • 24d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
-
----
-
 **[What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets](https://huggingface.co/papers/2609.05663)**
 
 *T. J. Barton, Chris Constantakis, Patti Hauseman et al. (7 authors)*
@@ -623,6 +607,20 @@ Autonomous language-model trading agents across production systems show behavior
 ▲ 18 • 💬 2 • ⭐ 92 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.05663) • [💻 code](https://github.com/ProjectDXAI/continuous-record-llm-trading-agents) • [🔗 project](https://www.dxrg.ai/blogs/continuous-record-paper)
+
+---
+
+**[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
+
+*Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
+
+🏢 University of California, Berkeley
+
+FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
+
+▲ 109 • 💬 2 • ⭐ 12,377 • 24d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
 ---
 
@@ -659,7 +657,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 4.2k • 🔱 254 • 8h ago
+⭐ 4.3k • 🔱 255 • 11h ago
 
 ---
 
@@ -679,7 +677,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 452 • 5h ago
+⭐ 3.5k • 🔱 452 • 8h ago
 
 ---
 
@@ -689,7 +687,7 @@ AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source p
 
 `Python`
 
-⭐ 2.9k • 🔱 191 • 6h ago
+⭐ 2.9k • 🔱 195 • 9h ago
 
 ---
 
@@ -699,7 +697,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 161 • 8h ago
+⭐ 2.5k • 🔱 161 • 11h ago
 
 ---
 
@@ -709,7 +707,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 87 • 1d ago
+⭐ 2.3k • 🔱 88 • 1d ago
 
 ---
 
@@ -719,7 +717,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 1.9k • 🔱 193 • 7d ago
+⭐ 1.9k • 🔱 193 • 15m ago
 
 ---
 
@@ -729,7 +727,7 @@ AI harness reference implementation for on-demand delivery workflows
 
 `Java`
 
-⭐ 1.8k • 🔱 59 • 4h ago
+⭐ 1.8k • 🔱 59 • 8h ago
 
 ---
 
