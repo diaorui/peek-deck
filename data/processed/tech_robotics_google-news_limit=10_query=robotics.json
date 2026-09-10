@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "From dance floor to war: China readies humanoid robots for combat",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQamhrcXpRZjBTb3Q3bTlPX2VUODd2Qnd1NUlGWklQSWZ4dDNpZnRRZ2xlOXlYZ1hFaXE0UUc3Yk8xOEFOZFZmLWthbm4tbXg0eTltVmo0ZFFyUi0zWThENzNFZmJtUXlTM1NHVGVKVVZOS0pIODR1dk5RbnBYV1ZZZ0dhVmZGazlleFM2bFJpR3E1RWRHRWxLSEZpZ1kyMjkxRXc?oc=5",
-      "pub_date": 1788791543.0,
-      "article_url": "https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Maven Robotics wants to steal your robot deployment deal",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -23,16 +13,6 @@
       "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
       "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-    },
-    {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
     },
     {
       "headline": "Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation",
@@ -45,12 +25,42 @@
       "description": "Funding will support growing demand and strengthen Vecna Robotics\u2019 increasingly strategic role in North American robotics amid a shifting regulatory..."
     },
     {
+      "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
+      "pub_date": 1789054202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
-      "source": "wsj.com",
+      "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
       "pub_date": 1788948600.0,
       "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How Mbodi is solving robotics\u2019 scaling problem, with Xavier Chi",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3J6ZTVleWVEWG8yZGZITng1VFlnNHkzbEd3MGN2SGlZcHBJdVBDX2lMX2pPSHJoU1FOVC1aWWpJSlhIU1hHTDYwZGFSam9HeTJacUprMzNOZUlIQ1FSYVBZaEtGV2ZpbnhkcndVejh6YUpFMWJJS3F3R0NWaVd2a01MTXpFT003ZEdTYWdudUhHMi00b0wwOQ?oc=5",
+      "pub_date": 1789061506.0,
+      "article_url": "https://techcrunch.com/podcast/how-mbodi-is-solving-robotics-scaling-problem-with-xavier-chi/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/BMs3e10-featured-pic.png?resize=1200,675",
+      "description": "Robotics is having an AI boom, but don\u2019t expect it to have a ChatGPT moment. In this episode of Build Mode, host Isabelle Johannessen sits down with Xavier Chi, co-founder of Mbodi, a startup building AI software that lets people teach industrial robots new skills using natural language. Xavier first joined Isabelle on the Startup [\u2026]"
+    },
+    {
+      "headline": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
+      "pub_date": 1788998580.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
       "image": null,
       "description": null
     },
@@ -65,14 +75,14 @@
       "description": "For most of its short history, AI lived behind a screen."
     },
     {
-      "headline": "Want a Humanoid in Your Factory? Here's How Much One Could Cost You.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSV9oQ3ktOTdqbmhHVmVhenNEcnJIeXhYNmQxaDA2T3JFX1dWa29ZY1F3bTNaYWtIVXpVb1NDaU9MWEVwQWhuVFpXdWtDMjE0d0N3SEtFOENkQTQtcUFVVUhJbWlSY3kxdDA3VFZvYmk5RUhwYTlWeDhBeDZWaVlqYk03bFItV1JUZWMwclF0MWdrWHZ1YnJxTWZfOThJTzJFbTVzXw?oc=5",
-      "pub_date": 1788927300.0,
-      "article_url": "https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9",
-      "image": "https://i.insider.com/6aa0b8d8ec15fe2d3cf14f01?width=1200&format=jpeg",
-      "description": "Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years."
+      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
+      "source": "Boston.com",
+      "source_url": "https://www.boston.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
+      "pub_date": 1789001156.0,
+      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
+      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
+      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
     },
     {
       "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
@@ -85,26 +95,16 @@
       "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
     },
     {
-      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
-      "source": "boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
-      "pub_date": 1788973140.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
-      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
-    },
-    {
-      "headline": "Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzI1OExsS2RTbVVJNXk4Rm4tcVkzQTViVng1QUZGQkJESmNXcTB6WjBWc3RoS0JLNEVBUmxORE40aUd2ZGlxZ2I1dEtLLURQZ3pBMEJVVmdhSEMya0JHMjNOb2tEQ1hnZXg2SDdaUXFxc2NObDNDb3BPc01yb2RrTXdIRmhVMUVI?oc=5",
-      "pub_date": 1788911760.0,
-      "article_url": "https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/glitch-delivery-robots-swarm-chicago-sidewalk.jpg?quality=85&w=1200",
-      "description": "Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents."
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T14:53:25.516319+00:00"
+  "fetched_at": "2026-09-10T18:10:04.463704+00:00"
 }

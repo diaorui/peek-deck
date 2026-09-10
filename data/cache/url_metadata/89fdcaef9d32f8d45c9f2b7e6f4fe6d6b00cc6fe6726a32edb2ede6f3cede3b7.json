@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-10T18:09:54.192017+00:00",
+  "data": {
+    "url": "https://www.tradingview.com/news/cryptobriefing:deb695fa7094b:0-researchers-cut-quantum-resource-benchmark-20-fold-for-bitcoin-and-ethereum-attack/",
+    "title": "Researchers cut quantum resource benchmark 20-fold for Bitcoin and Ethereum attack",
+    "description": "A collaboration between Google Quantum AI, the Ethereum Foundation, and Stanford has published a whitepaper detailing optimized quantum circuits that could break the elliptic curve cryptography underpinning Bitcoin and Ethereum. The key finding: fewer than 500,000 physical superconducting qubits wo\u2026",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "favicon": "https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png",
+    "site_name": "TradingView",
+    "author": null,
+    "keywords": null
+  }
+}

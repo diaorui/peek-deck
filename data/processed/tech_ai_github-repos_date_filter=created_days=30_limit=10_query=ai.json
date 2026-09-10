@@ -8,7 +8,7 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4599,
+      "stars": 4609,
       "stars_display": "4.6k",
       "forks": 575,
       "forks_display": "575",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-10T13:33:00Z"
+      "updated_at": "2026-09-10T16:51:39Z"
     },
     {
       "full_name": "Hisn00w/ASu-skills",
@@ -30,10 +30,10 @@
       "description": "\ud83d\ude80\u9762\u5411\u6c42\u804c\u4e0e\u5f00\u53d1\u573a\u666f\u7684\u5b9e\u7528 AI Skills \u96c6\u5408\uff0c\u652f\u6301\u7b80\u5386\u4f18\u5316\u3001\u5c97\u4f4d\u6295\u9012\u3001\u9762\u8bd5\u51c6\u5907\u4e0e\u5f00\u53d1\u63d0\u6548\u3002",
       "url": "https://github.com/Hisn00w/ASu-skills",
       "preview_image": "https://opengraph.githubassets.com/c0b8828c74619eb6696fffd4a2bb91fd4c059ef3ebe5dbd5a8e4cdb4d6cd8a35/Hisn00w/ASu-skills",
-      "stars": 4247,
-      "stars_display": "4.2k",
-      "forks": 254,
-      "forks_display": "254",
+      "stars": 4260,
+      "stars_display": "4.3k",
+      "forks": 255,
+      "forks_display": "255",
       "language": "HTML",
       "topics": [],
       "updated_at": "2026-09-10T06:11:00Z"
@@ -68,7 +68,7 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3544,
+      "stars": 3546,
       "stars_display": "3.5k",
       "forks": 452,
       "forks_display": "452",
@@ -84,10 +84,10 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 2912,
+      "stars": 2919,
       "stars_display": "2.9k",
-      "forks": 191,
-      "forks_display": "191",
+      "forks": 195,
+      "forks_display": "195",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-09-10T08:34:26Z"
@@ -100,7 +100,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2520,
+      "stars": 2524,
       "stars_display": "2.5k",
       "forks": 161,
       "forks_display": "161",
@@ -122,10 +122,10 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2285,
+      "stars": 2290,
       "stars_display": "2.3k",
-      "forks": 87,
-      "forks_display": "87",
+      "forks": 88,
+      "forks_display": "88",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-09T09:54:11Z"
@@ -150,7 +150,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-09-02T20:34:21Z"
+      "updated_at": "2026-09-10T17:54:29Z"
     },
     {
       "full_name": "diudiu-tech/delivery-harness",
@@ -176,7 +176,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1731,
+      "stars": 1738,
       "stars_display": "1.7k",
       "forks": 175,
       "forks_display": "175",
@@ -189,6 +189,6 @@
   "search_query": "ai created:>2026-08-11",
   "days": 30,
   "limit": 10,
-  "total_count": 455344,
-  "fetched_at": "2026-09-10T14:52:59.693867+00:00"
+  "total_count": 458439,
+  "fetched_at": "2026-09-10T18:09:33.787857+00:00"
 }

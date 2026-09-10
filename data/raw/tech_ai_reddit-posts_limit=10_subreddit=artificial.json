@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
+      "author": "ai-edition",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
+      "published": 1789047823.0,
+      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
+      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
+    },
+    {
       "title": "Is AGI finally here?",
       "author": "TheOnlyVibemaster",
       "url": "https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/",
@@ -22,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Challenge Accepted",
+      "author": "PUBGM_MightyFine",
+      "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
+      "published": 1789052880.0,
+      "thumbnail": "https://preview.redd.it/009038lqkpoh1.jpeg?width=640&crop=smart&auto=webp&s=2dd897d0c8b8e691d9823ab8ef75ae2017969fc0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The ignorance is incredible"
     },
     {
       "title": "GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology",
@@ -46,6 +68,28 @@
       "description": "The impressive demos get attention, but I\u2019m curious about mundane stuff people now rely on every week. What boring AI use case ended up being genuinely valuable?"
     },
     {
+      "title": "We need free market and foreign AI models to keep companies competitive",
+      "author": "Armored09",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
+      "published": 1789062090.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
+    },
+    {
+      "title": "Notion ai finally clicked for me once i stopped using it as a writer",
+      "author": "aiprotivity_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcpi2o/notion_ai_finally_clicked_for_me_once_i_stopped/",
+      "published": 1789060776.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "for months i thought it was overpriced because i kept asking it to write stuff and the writing was kinda mid. turns out that's not the point. the point is asking it questions about your own pages. \"what did i say i'd do about X last week\", \"summarize everything tagged urgent\", that kind of thing. it's search that understands your notes, not a chatgpt clone. once i used it that way it went from \"why am i paying for this\" to something i'd lowkey miss. still not letting it draft anything important tho"
+    },
+    {
       "title": "'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/",
@@ -57,60 +101,16 @@
       "description": "A mother\u2019s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children\u2019s images online. Meta claims the issue is resolved."
     },
     {
-      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
-      "author": "ai-edition",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
-      "published": 1789047823.0,
-      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
-      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
-    },
-    {
-      "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/",
-      "published": 1788976050.0,
-      "thumbnail": "https://external-preview.redd.it/tcYOW-9McFwoYp_yMLV0w7WGTrkSO1AFgoRaDs9VI2Y.jpeg?width=640&crop=smart&auto=webp&s=c16e8c760eb631dad5405dc33351508a880fcd06",
-      "external_url": "https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch",
-      "site_name": "Gadget Review",
-      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-Favicon-1-240x240.png",
-      "description": "Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour."
-    },
-    {
-      "title": "How do you keep context when switching between AIs?",
-      "author": "SidequestMatt",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcegk0/how_do_you_keep_context_when_switching_between_ais/",
-      "published": 1789033385.0,
+      "title": "\u00bfPor qu\u00e9 medimos el progreso de la IA por lo que puede reemplazar, en lugar de por lo que permite hacer a los humanos?",
+      "author": "Admirable_Wasabi_732",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcqv2b/por_qu\u00e9_medimos_el_progreso_de_la_ia_por_lo_que/",
+      "published": 1789063605.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How do you guys keep context when working on the same project across different AI tools? Cuz I keep running into the problem of switching between ChatGPT/Claude/etc. and having to bring the other one up to speed again. Do you just copy stuff over, keep a separate file, use summaries, or what?"
-    },
-    {
-      "title": "Why does the Anthropic ECON report assume that there will be more 'non knowledge' jobs with AI?",
-      "author": "macnfly23",
-      "url": "https://www.reddit.com/r/artificial/comments/1wca455/why_does_the_anthropic_econ_report_assume_that/",
-      "published": 1789018701.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "In https://www.anthropic.com/institute/econ-scenarios, the report seems to suggest that there will be less knowledge jobs and more \"other jobs\". Why does it seem to exclude the advance of robotics along with AI and the automation of jobs such as sanitation worker, janitors, etc.? I feel like those would be the jobs that would technically be more acceptable to automate."
-    },
-    {
-      "title": "What AI capability jump felt overhyped vs underhyped to you lately?",
-      "author": "CapitalList8467",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcd7ey/what_ai_capability_jump_felt_overhyped_vs/",
-      "published": 1789029123.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Curious how people here are sorting signal from noise. Which recent advances looked flashy but did not change day-to-day use much, and which quieter improvements actually stuck for you? Looking for concrete examples rather than vibes."
+      "description": "\u00bfPor qu\u00e9 planteamos cada nueva capacidad de IA en t\u00e9rminos de lo que puede reemplazar? Cada vez que la IA adquiere una nueva capacidad, surge casi de inmediato una pregunta familiar: \u00bfQu\u00e9 reemplazar\u00e1? Si un modelo mejora en programaci\u00f3n, nos preguntamos a qu\u00e9 programadores podr\u00eda reemplazar. Si mejora en escritura, dise\u00f1o, investigaci\u00f3n, diagn\u00f3stico o planificaci\u00f3n, la discusi\u00f3n r\u00e1pidamente se centra en qu\u00e9 partes de esas profesiones podr\u00edan dejar de requerir la intervenci\u00f3n humana. Esa es, obviamente, una pregunta importante. Pero creo que se ha convertido en un enfoque tan dominante que estamos pasando por alto otra forma de evaluar exactamente el mismo progreso tecnol\u00f3gico: \u00bfQu\u00e9 hace que un ser humano sea capaz de hacer que no pod\u00eda hacer antes? Esta no es una idea nueva. En 1962, Douglas Engelbart public\u00f3 \"Aumentando el intelecto humano\". Su objetivo no era simplemente que las computadoras realizaran trabajo intelectual en lugar de los humanos. Describi\u00f3 la mejora como el aumento de la capacidad de una persona para abordar problemas complejos, comprenderlos y resolverlos, problemas que antes no pod\u00eda resolver. Es importante destacar que el sistema que le interesaba no era solo la computadora, sino la combinaci\u00f3n del ser humano, las herramientas, el lenguaje, los m\u00e9todos y el entrenamiento. El ajedrez ofreci\u00f3 posteriormente un ejemplo particularmente interesante. Cuando Deep Blue de IBM derrot\u00f3 a Garry Kasparov en 1997, se convirti\u00f3 en uno de los s\u00edmbolos m\u00e1s claros de la narrativa de la sustituci\u00f3n: humano contra m\u00e1quina, realizando la misma tarea, hasta que la m\u00e1quina mejorara. Pero la respuesta de Kasparov fue interesante. En lugar de detenerse en el ajedrez humano contra m\u00e1quina, ayud\u00f3 a desarrollar el ajedrez avanzado, donde los jugadores humanos pod\u00edan trabajar con programas de ajedrez. Eso cambia la pregunta por completo. La comparaci\u00f3n relevante ya no es simplemente: humano vs. m\u00e1quina sino: humano solo vs. humano + m\u00e1quina. Y esa distinci\u00f3n parece cada vez m\u00e1s importante con la IA moderna. Una calculadora ampl\u00eda una capacidad limitada. Un telescopio ampl\u00eda la percepci\u00f3n. La escritura ampl\u00eda la memoria y el razonamiento m\u00e1s all\u00e1 de lo que podemos retener internamente. Las computadoras ampliaron a\u00fan m\u00e1s esas capacidades. La IA es singular porque la misma tecnolog\u00eda puede potencialmente ampliar muchas dimensiones de la capacidad humana a la vez: razonamiento, memoria, aprendizaje, percepci\u00f3n, creatividad, comunicaci\u00f3n y acci\u00f3n. Sin embargo, nuestro lenguaje para evaluar la IA a\u00fan parece estar muy centrado en la m\u00e1quina aut\u00f3noma: puntuaciones de referencia, tareas completadas sin intervenci\u00f3n humana, trabajos automatizados y el punto en el que un modelo supera a una persona en X. Son mediciones \u00fatiles. Pero miden principalmente la capacidad de la m\u00e1quina. Me interesa saber si necesitamos una forma igualmente seria de pensar sobre la capacidad humana que se genera con el acceso a la IA. No se trata simplemente de: \u00bfLa IA hizo que alguien fuera un 30 % m\u00e1s r\u00e1pido en algo que ya sab\u00eda hacer? Sino de: \u00bfPuede esta persona ahora comprender, crear, investigar, construir o lograr algo que antes estaba fuera de sus capacidades efectivas? Esto nos lleva a una forma diferente de interpretar el progreso de la IA. Cada vez que un modelo adquiere una nueva capacidad, quiz\u00e1s haya dos preguntas que valga la pena plantearse: \u00bfQu\u00e9 puede reemplazar? y \u00bfQu\u00e9 habilidades puede adquirir un ser humano gracias a esta nueva capacidad? Me pregunto si aqu\u00ed ya se han visto ejemplos significativos de la segunda categor\u00eda: casos en los que la IA no solo ha acelerado una habilidad existente, sino que ha ampliado genuinamente las capacidades de una persona."
     }
   ],
-  "fetched_at": "2026-09-10T14:53:02.188911+00:00"
+  "fetched_at": "2026-09-10T18:09:33.679730+00:00"
 }
