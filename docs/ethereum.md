@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-10T14:53:32.697305+00:00'
+updated: '2026-09-10T18:10:09.999635+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 14:53 UTC  
+**Last Updated:** September 10, 2026 at 18:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -0.6%  
-**30d:** +29.9%  
-**90d:** +45.2%  
-**1y:** -45.3%  
+**24h:** -0.1%  
+**7d:** +0.2%  
+**30d:** +30.9%  
+**90d:** +46.4%  
+**1y:** -44.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.64B
+**Market Cap:** $300.33B
 Rank #2
 
 **Circulating Supply:** 122,035,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.7%
+-50.2%
 
 **All-Time Low:** $0.43
-+563206.8%
++568227.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 16h ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 19h ago
 
 ---
 
@@ -96,7 +96,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 13h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-8h ago
+11h ago
 
 ---
 
@@ -156,7 +156,7 @@ The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in 
 
 The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 23h ago
 
 Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision.
 
-24/7 Wall St. • 2d ago
+247wallst.com • 2d ago
 
 ---
 
@@ -172,13 +172,13 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -190,11 +190,11 @@ Fortune • 1d ago
 
 ---
 
-**[Undervalued Ethereum Proxy: SharpLink Trades At 0.85x mNAV Near Cycle Bottom With No Debt](https://seekingalpha.com/article/4945012-undervalued-ethereum-proxy-sharplink-trades-at-0-85x-mnav-near-cycle-bottom-with-no-debt)**
+**[Researchers cut quantum resource benchmark 20-fold for Bitcoin and Ethereum attack](https://www.tradingview.com/news/cryptobriefing:deb695fa7094b:0-researchers-cut-quantum-resource-benchmark-20-fold-for-bitcoin-and-ethereum-attack/)**
 
-SharpLink is rated a Buy as a conservative, ETH-focused treasury play trading at 0.85x mNAV, below its crypto holdings. Read more on SBET stock here.
+A collaboration between Google Quantum AI, the Ethereum Foundation, and Stanford has published a whitepaper detailing optimized quantum circuits that could break the elliptic curve cryptography underpinning Bitcoin and Ethereum. The key finding: fewer than 500,000 physical superconducting qubits wo…
 
-Seeking Alpha • 54m ago
+TradingView • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Seeking Alpha • 54m ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -220,11 +220,11 @@ PR Newswire • 2d ago
 
 ---
 
-**[Ethereum: Vitalik Buterin Advances Privacy Cost Cuts](https://blockchain.news/flashnews/ethereum-vitalik-buterin-advances-privacy-cost-cuts)**
+**[Undervalued Ethereum Proxy: SharpLink Trades At 0.85x mNAV Near Cycle Bottom With No Debt](https://seekingalpha.com/article/4945012-undervalued-ethereum-proxy-sharplink-trades-at-0-85x-mnav-near-cycle-bottom-with-no-debt)**
 
-Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
+SharpLink is rated a Buy as a conservative, ETH-focused treasury play trading at 0.85x mNAV, below its crypto holdings. Read more on SBET stock here.
 
-blockchain.news • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -232,23 +232,23 @@ blockchain.news • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
-
-You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
-
-📺 The Modern Investor
-
-👁️ 16K • 👍 956 • 💬 261 • ⏱️ 28:10 • 1d ago
-
----
-
 **[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
 
 These news are not helping Bitcoin and the rest of crypto. Markets are hanging by a thread! Here is all that you need to know!
 
 📺 Thomas Kralow
 
-👁️ 3K • 👍 1K • 💬 15 • ⏱️ 9:10 • 4h ago
+👁️ 8K • 👍 1K • 💬 18 • ⏱️ 9:10 • 7h ago
+
+---
+
+**[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
+
+You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
+
+📺 The Modern Investor
+
+👁️ 16K • 👍 967 • 💬 262 • ⏱️ 28:10 • 1d ago
 
 ---
 
@@ -258,27 +258,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 272 • 💬 24 • ⏱️ 14:25 • 1d ago
-
----
-
-**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 297 • 👍 13 • ⏱️ 5:08 • 6h ago
-
----
-
-**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
-
-BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
-
-📺 The Bureau Podcast
-
-👁️ 3K • 👍 47 • 💬 2 • ⏱️ 0:56 • 1d ago
+👁️ 14K • 👍 274 • 💬 24 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -288,27 +268,57 @@ Ethereum is forming a very nice bull flag, and from my opinion ETH still looks b
 
 📺 CryptoHersens
 
-👁️ 426 • 👍 23 • ⏱️ 1:27 • 1h ago
+👁️ 426 • 👍 14 • ⏱️ 1:27 • 5h ago
 
 ---
 
-**[&quot;Ethereum To $250,000, Bitcoin To $1 Million - Here&#39;s WHY&quot;: Tom Lee | Crypto 2026](https://www.youtube.com/watch?v=GpoAXeV-9us)**
+**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto Nutshell
+📺 Cilinix Crypto
 
-👁️ 64K • 👍 698 • 💬 51 • ⏱️ 18:40 • 2d ago
+👁️ 538 • 👍 15 • ⏱️ 5:08 • 9h ago
 
 ---
 
-**[🔴 LIVE: XAU GOLD + CRYPTO Price Action | Bitcoin, ETH &amp; Gold Analysis Today | Support Resistance](https://www.youtube.com/watch?v=edr2KNhreVc)**
+**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
 
-Open Account With Shark Exchange for FREE Access to AK Roxx ALPHA - https://sharkexchange.in/referral?code=AAK787 Open ...
+BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
 
-📺 Nifty Technicals by AK
+📺 The Bureau Podcast
 
-👁️ 417 • 👍 319 • 1h ago
+👁️ 3K • 👍 48 • 💬 2 • ⏱️ 0:56 • 2d ago
+
+---
+
+**[🚨BITCOIN LIVE TRADING: $1,200,000+ BTC SHORT POSITION!!! 🔥🔥🔥](https://www.youtube.com/watch?v=Bv5U5_MmNlg)**
+
+BITUNIX, The BEST OFFER Worldwide   -20% OFF Trading Fees FOR LIFE   +20% Deposit Bonus up to $400   ...
+
+📺 Crypto Claudius
+
+👁️ 4K • 👍 785 • 6h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=N2Mx-mYjthE)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 312 • 👍 50 • ⏱️ 5:42 • 3h ago
+
+---
+
+**[The Ethereum-Bitcoin Crash and the Tupac Trial Verdict](https://www.youtube.com/watch?v=mWiKpvDvwA8)**
+
+In this video, I will be sharing information that I feel confirms the timeline for the Ethereum crash and BTC 80% crash. Prophesy in ...
+
+📺 Thepraise02
+
+👁️ 1K • 👍 103 • 💬 43 • ⏱️ 10:38 • 19h ago
 
 ---
 
@@ -318,17 +328,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 28 • 💬 48 • ⏱️ 5:04 • 1d ago
-
----
-
-**[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
-
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
-
-📺 More Crypto Online
-
-👁️ 14K • 👍 307 • 💬 23 • ⏱️ 12:04 • 2d ago
+👁️ 2K • 👍 29 • 💬 48 • ⏱️ 5:04 • 1d ago
 
 ---
 

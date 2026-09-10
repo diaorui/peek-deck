@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T14:53:32.699526+00:00'
+updated: '2026-09-10T18:10:10.001330+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 14:53 UTC  
+**Last Updated:** September 10, 2026 at 18:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-3d ago
+4d ago
 
 ---
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Progress on my custom hexapod project over the past few months. In the first few weeks I couldn't even get it to stand up — once I got the gait cycle figured out, everything after that came together a lot faster. Specs: Base: 3D printed 18 servos (mix of 25kg and 35kg) Pololu Maestro servo controller Buck converter for power regulation Controlled by an Android phone, which also acts as the gyro/IMU
 
-4d ago
+5d ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 This has been my project over the summer. Finally got it to walk after many prototypes 😁😁😁. Controls are a bit messy, but I'm still working on it!
 
-4d ago
+5d ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 [Cross-post from r/reinforcementlearning] My full 6-part series on RL for robotics is finally live. While a balance bot is a pretty trivial case (you don't even need RL), it's a great starting point for demonstrating how to train a simple agent via PPO, deploy the agent to real hardware, and tackle the sim-to-real gap using post-processing and domain randomization. If you have any feedback (e.g. I missed something or there's something that could be better), please let me know!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 4d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 5d ago
 
 ---
 
@@ -110,25 +110,11 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
-**[From dance floor to war: China readies humanoid robots for combat](https://www.reuters.com/world/china/dance-floor-war-china-readies-humanoid-robots-combat-2026-09-07/)**
-
-Reuters • 3d ago
-
----
-
 **[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 35m ago
-
----
-
-**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
-
-This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
-
-The Washington Post • 1d ago
+TechCrunch • 3h ago
 
 ---
 
@@ -136,13 +122,33 @@ The Washington Post • 1d ago
 
 Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
 
-GlobeNewswire • 3h ago
+GlobeNewswire • 7h ago
+
+---
+
+**[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+
+Bloomberg.com • 2h ago
 
 ---
 
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-wsj.com • 1d ago
+WSJ • 1d ago
+
+---
+
+**[How Mbodi is solving robotics’ scaling problem, with Xavier Chi](https://techcrunch.com/podcast/how-mbodi-is-solving-robotics-scaling-problem-with-xavier-chi/)**
+
+Robotics is having an AI boom, but don’t expect it to have a ChatGPT moment. In this episode of Build Mode, host Isabelle Johannessen sits down with Xavier Chi, co-founder of Mbodi, a startup building AI software that lets people teach industrial robots new skills using natural language. Xavier first joined Isabelle on the Startup […]
+
+TechCrunch • 38m ago
+
+---
+
+**[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
+
+Reuters • 18h ago
 
 ---
 
@@ -150,23 +156,7 @@ wsj.com • 1d ago
 
 For most of its short history, AI lived behind a screen.
 
-SemiAnalysis • 17h ago
-
----
-
-**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
-
-Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
-
-Business Insider • 1d ago
-
----
-
-**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
-
-A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
-
-GeekWire • 22h ago
+SemiAnalysis • 21h ago
 
 ---
 
@@ -174,15 +164,23 @@ GeekWire • 22h ago
 
 Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
 
-boston.com • 21h ago
+Boston.com • 17h ago
 
 ---
 
-**[Bizarre Glitch Causes Delivery Robots to Swarm Busy City Sidewalk](https://futurism.com/future-society/glitch-delivery-robots-swarm-chicago-sidewalk)**
+**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
 
-Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
+A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
 
-Futurism • 1d ago
+GeekWire • 1d ago
+
+---
+
+**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+
+This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+
+The Washington Post • 2d ago
 
 ---
 
@@ -196,7 +194,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 299K • 👍 4K • 💬 806 • ⏱️ 5:02 • 1d ago
+👁️ 335K • 👍 5K • 💬 887 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 30K • 👍 448 • 💬 47 • ⏱️ 15:17 • 5d ago
+👁️ 30K • 👍 449 • 💬 47 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -216,7 +214,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 138K • 👍 2K • 💬 212 • ⏱️ 5:52 • 1d ago
+👁️ 157K • 👍 2K • 💬 219 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -226,45 +224,35 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 CBS Chicago
 
-👁️ 300K • 👍 2K • 💬 647 • ⏱️ 1:44 • 6d ago
+👁️ 300K • 👍 2K • 💬 648 • ⏱️ 1:44 • 6d ago
 
 ---
 
-**[AI just spent 48 hours on a problem robotics hasn&#39;t fully solved](https://www.youtube.com/watch?v=E8duv10zZbI)**
+**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
 
-Robot hands are one of robotics' genuinely unsolved problems. Routing flexible tendons through a rigid structure so fingers move ...
+The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
 
-📺 Star AI
+📺 ejunky66
 
-👁️ 1K • 👍 28 • 💬 2 • ⏱️ 0:36 • 7h ago
-
----
-
-**[New robot match loading #automobile #howtogetheroplayersinluckyspin #lego #robot #machine #robotics](https://www.youtube.com/watch?v=yTyamW5-bzs)**
-
-📺 6210H Halapeños
-
-👁️ 13K • 👍 47 • 💬 1 • ⏱️ 0:08 • 2d ago
+👁️ 9K • 👍 142 • 💬 23 • ⏱️ 0:59 • 6d ago
 
 ---
 
-**[This Robot Hand Copies Your Every Move](https://www.youtube.com/watch?v=M1BEHDnmGy0)**
+**[Is this future AI?#robot #dance #fyp #doll #brazil](https://www.youtube.com/watch?v=QxiaclgavL0)**
 
-The Mimic Hand M1 moves its fingers just like yours. It lifts over 25 kilograms and senses just 50 grams. You teach it simply by ...
+📺 Babyslow’s Dance World
 
-📺 The Manav Podcast
-
-👁️ 4K • 👍 282 • 💬 6 • ⏱️ 0:35 • 13h ago
+👁️ 595K • 💬 631 • ⏱️ 0:22 • 4d ago
 
 ---
 
-**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
+**[NEW Self Aware Robot KILLS ELBERR...](https://www.youtube.com/watch?v=IYAZZq6C3vs)**
 
-After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
+This ROBOT is BETTER than ELBERR at EVERYTHING even at RHYMING ! Instagram!
 
-📺 GrislyDeshaun
+📺 ExpertDeath
 
-👁️ 652K • 👍 6K • 💬 466 • ⏱️ 26:59 • 3d ago
+👁️ 203K • 👍 3K • 💬 403 • ⏱️ 28:15 • 2d ago
 
 ---
 
@@ -274,17 +262,27 @@ Never write off the small robot! ⚽ A guy decided to challenge this humanoid ro
 
 📺 FactBlitz
 
-👁️ 3K • 👍 44 • ⏱️ 0:15 • 8h ago
+👁️ 6K • 👍 165 • 💬 2 • ⏱️ 0:15 • 12h ago
 
 ---
 
-**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
+**[This Robot Hand Copies Your Every Move](https://www.youtube.com/watch?v=M1BEHDnmGy0)**
 
-A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
+The Mimic Hand M1 moves its fingers just like yours. It lifts over 25 kilograms and senses just 50 grams. You teach it simply by ...
 
-📺 New York Post
+📺 The Manav Podcast
 
-👁️ 60K • 👍 816 • 💬 274 • ⏱️ 1:16 • 6d ago
+👁️ 6K • 👍 348 • 💬 7 • ⏱️ 0:35 • 16h ago
+
+---
+
+**[🤖💧 Smart Water Robots in Makkah | A Future of Serving Pilgrims 🕋✨](https://www.youtube.com/watch?v=bDtrtP4TpNA)**
+
+Imagine a future where intelligent robotic systems help distribute drinking water efficiently to pilgrims in busy areas of Makkah.
+
+📺 Makkah madina shorts
+
+👁️ 19K • 👍 1K • 💬 1 • ⏱️ 0:11 • 15h ago
 
 ---
 
