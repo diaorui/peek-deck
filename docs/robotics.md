@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T18:10:10.001330+00:00'
+updated: '2026-09-10T21:05:14.164997+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 18:10 UTC  
+**Last Updated:** September 10, 2026 at 21:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -110,69 +110,31 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
+**[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+
+Bloomberg.com • 5h ago
+
+---
+
 **[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 3h ago
+TechCrunch • 6h ago
 
 ---
 
-**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
+**[Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M](https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/)**
 
-Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
+Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.
 
-GlobeNewswire • 7h ago
-
----
-
-**[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
-
-WSJ • 1d ago
-
----
-
-**[How Mbodi is solving robotics’ scaling problem, with Xavier Chi](https://techcrunch.com/podcast/how-mbodi-is-solving-robotics-scaling-problem-with-xavier-chi/)**
-
-Robotics is having an AI boom, but don’t expect it to have a ChatGPT moment. In this episode of Build Mode, host Isabelle Johannessen sits down with Xavier Chi, co-founder of Mbodi, a startup building AI software that lets people teach industrial robots new skills using natural language. Xavier first joined Isabelle on the Startup […]
-
-TechCrunch • 38m ago
+The Robot Report • 44m ago
 
 ---
 
 **[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
 
-Reuters • 18h ago
-
----
-
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
-
-For most of its short history, AI lived behind a screen.
-
-SemiAnalysis • 21h ago
-
----
-
-**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
-
-Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
-
-Boston.com • 17h ago
-
----
-
-**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
-
-A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
-
-GeekWire • 1d ago
+Reuters • 21h ago
 
 ---
 
@@ -184,19 +146,45 @@ The Washington Post • 2d ago
 
 ---
 
+**[Chinese CEO Laments Many Robotics Firms Fabricate Revenue](https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue)**
+
+theinformation.com • 10h ago
+
+---
+
+**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
+
+WSJ • 1d ago
+
+---
+
+**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
+
+Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
+
+GlobeNewswire • 10h ago
+
+---
+
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+
+For most of its short history, AI lived behind a screen.
+
+SemiAnalysis • 1d ago
+
+---
+
+**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
+
+A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
+
+GeekWire • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
-
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
-
-📺 America's Got Talent
-
-👁️ 335K • 👍 5K • 💬 887 • ⏱️ 5:02 • 1d ago
-
----
 
 **[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
 
@@ -208,13 +196,53 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 ---
 
+**[Humans Can’t Sort Batteries This Fast](https://www.youtube.com/watch?v=rgwaXXkAZUo)**
+
+This high-speed automated system uses robotic arms and machine vision to sort battery cells with remarkable speed and ...
+
+📺 Moshyy
+
+👁️ 4K • 👍 27 • 💬 1 • ⏱️ 0:06 • 8h ago
+
+---
+
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+
+📺 America's Got Talent
+
+👁️ 375K • 👍 5K • 💬 940 • ⏱️ 5:02 • 1d ago
+
+---
+
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 20K • 👍 101 • 💬 19 • ⏱️ 3:39 • 1d ago
+
+---
+
+**[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
+
+Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, demonstrating fully autonomous robot combat ...
+
+📺 DPCcars
+
+👁️ 9K • 👍 64 • 💬 33 • ⏱️ 2:18 • 3d ago
+
+---
+
 **[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
 Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
 📺 XPENG
 
-👁️ 157K • 👍 2K • 💬 219 • ⏱️ 5:52 • 1d ago
+👁️ 171K • 👍 2K • 💬 227 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -228,61 +256,31 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 ---
 
-**[AI humanoid robots and Simulants | Would you Trust one to work alongside you?](https://www.youtube.com/watch?v=MtG3oSOI5c8)**
+**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
 
-The future isn't coming—it's already here. Today's AI-powered humanoid robots can walk, talk, make eye contact, understand ...
+📺 Opac24MLB
 
-📺 ejunky66
-
-👁️ 9K • 👍 142 • 💬 23 • ⏱️ 0:59 • 6d ago
+👁️ 4K • 👍 76 • 💬 2 • ⏱️ 0:16 • 1d ago
 
 ---
 
-**[Is this future AI?#robot #dance #fyp #doll #brazil](https://www.youtube.com/watch?v=QxiaclgavL0)**
+**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
 
-📺 Babyslow’s Dance World
+Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
 
-👁️ 595K • 💬 631 • ⏱️ 0:22 • 4d ago
+📺 RICHLEV
 
----
-
-**[NEW Self Aware Robot KILLS ELBERR...](https://www.youtube.com/watch?v=IYAZZq6C3vs)**
-
-This ROBOT is BETTER than ELBERR at EVERYTHING even at RHYMING ! Instagram!
-
-📺 ExpertDeath
-
-👁️ 203K • 👍 3K • 💬 403 • ⏱️ 28:15 • 2d ago
+👁️ 389K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
 
 ---
 
-**[This Robot Goalkeeper SHOCKED Him 🤖⚽ #shorts](https://www.youtube.com/watch?v=k1ql-dOQMMs)**
+**[SORRY, I can’t come clean right now… my robot already did it. 😂](https://www.youtube.com/watch?v=oaB3_GskrMk)**
 
-Never write off the small robot! ⚽ A guy decided to challenge this humanoid robot's goalkeeping skills — starting with an easy ...
+With ADHD, keeping up with everyday cleaning can feel impossible. Lefant M265 takes one more thing off my mental to-do list.
 
-📺 FactBlitz
+📺 Lefant AU
 
-👁️ 6K • 👍 165 • 💬 2 • ⏱️ 0:15 • 12h ago
-
----
-
-**[This Robot Hand Copies Your Every Move](https://www.youtube.com/watch?v=M1BEHDnmGy0)**
-
-The Mimic Hand M1 moves its fingers just like yours. It lifts over 25 kilograms and senses just 50 grams. You teach it simply by ...
-
-📺 The Manav Podcast
-
-👁️ 6K • 👍 348 • 💬 7 • ⏱️ 0:35 • 16h ago
-
----
-
-**[🤖💧 Smart Water Robots in Makkah | A Future of Serving Pilgrims 🕋✨](https://www.youtube.com/watch?v=bDtrtP4TpNA)**
-
-Imagine a future where intelligent robotic systems help distribute drinking water efficiently to pilgrims in busy areas of Makkah.
-
-📺 Makkah madina shorts
-
-👁️ 19K • 👍 1K • 💬 1 • ⏱️ 0:11 • 15h ago
+👁️ 1.4M • 👍 3K • 💬 7 • ⏱️ 0:06 • 5d ago
 
 ---
 

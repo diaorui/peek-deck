@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2608.17906",
       "arxiv_url": "https://arxiv.org/abs/2608.17906",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
-      "upvotes": 20,
+      "upvotes": 21,
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 2790,
+      "github_stars": 2924,
       "project_page": null
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.10522",
       "arxiv_url": "https://arxiv.org/abs/2609.10522",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 82,
+      "upvotes": 104,
       "num_comments": 2,
       "published_at": "2026-09-08T20:00:00.000Z",
       "github_repo": "https://github.com/showlab/Show-Harness",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 198,
+      "upvotes": 199,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
@@ -96,25 +96,6 @@
       "project_page": "https://omni-interaction-gander.github.io/Omni-Interaction-Agent/"
     },
     {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 86,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87175,
-      "project_page": null
-    },
-    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -131,6 +112,25 @@
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
       "github_stars": 32169,
+      "project_page": null
+    },
+    {
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 86,
+      "num_comments": 7,
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 87253,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-10T18:09:45.400694+00:00"
+  "fetched_at": "2026-09-10T21:04:54.593451+00:00"
 }

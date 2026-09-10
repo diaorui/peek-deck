@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Genuine Question About Citizenship",
-      "author": "PravalPattam12945RPG",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
-      "published": 1789029590.0,
-      "thumbnail": "https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
       "author": "ai-edition",
       "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
@@ -22,6 +11,17 @@
       "site_name": "anthropic.com",
       "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
       "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
+    },
+    {
+      "title": "Genuine Question About Citizenship",
+      "author": "PravalPattam12945RPG",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
+      "published": 1789029590.0,
+      "thumbnail": "https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Is AGI finally here?",
@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "We need free market and foreign AI models to keep companies competitive",
+      "author": "Armored09",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
+      "published": 1789062090.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
+    },
+    {
       "title": "Challenge Accepted",
       "author": "PUBGM_MightyFine",
       "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
@@ -44,6 +55,39 @@
       "site_name": null,
       "favicon": null,
       "description": "The ignorance is incredible"
+    },
+    {
+      "title": "I ran GPT-6 Astra against 7 real signup CAPTCHAs",
+      "author": "JanJanJaJa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/",
+      "published": 1789064861.0,
+      "thumbnail": "https://preview.redd.it/h7n1nqiakqoh1.png?width=640&crop=smart&auto=webp&s=c338b3c9aee434a49a279db0466507f8791ff749",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI put GPT-6 Astra into the API today, so now anyone can actually call it instead of waiting for the special-access rollout. Good timing too, since everyone's still reposting Sharif Shameem's video from a couple days ago, where GPT-6 Astra clears all 48 levels of Neal Agarwal's \"I'm Not a Robot\" game and gets its own \"Verified Human\" certificate. Comments are saying stuff like \"CAPTCHAs are officially dead,\" someone from OpenAI even hopped in on the thread. For a while now, I've wanted to run an agent through different services and have it self-register. My goal was to test Atomic Mail Agentic's OTP feature: does it work, how long does it take, how many tokens it burns. But then a convenient opportunity showed up to test all this with GPT-6 Astra, now that it's actually reachable through the API, since I got curious, like, whoa, now it can even solve CAPTCHAs? I picked 7 US services: Reddit, GitHub, Discord, Etsy, Indeed, Airbnb and Craigslist. Spoiler: 2 out of 7 actually went through, and neither of those two had a CAPTCHA in the way to begin with. On Reddit, the agent hit Cloudflare's \"prove your humanity\" check and couldn't get past it on its own, called me in to do it myself. Discord just froze for seven minutes, the agent kept reading the registration form in a loop and never moved forward, I've never figured out what widget was blocking it. Indeed got as far as the email code and then wanted a phone number for SMS, no video for that. Craigslist and Airbnb didn't make it either (Airbnb died mid-run when my local model crashed, unrelated to CAPTCHAs, just bad luck on my end). I also came across a blog post from a scraping service (decodo), and they say about Astra: \"does not fix blocks, geo-restrictions, CAPTCHAs, or rate limits.\" So vendors who sell access to the model are honest that it is a demo game, not production CAPTCHAs on real sites. The gap between the viral clip and what's actually deployed on sites matched what I saw in practice. What did make me happy: OTP just worked. Every site that only needed an email code registered clean, that's the GitHub and Etsy rows below. Used OpenRouter to access the model. Here's what the cost looked like, and whether the registration actually completed or not, since those are two different things: GPT-6 Astra, cost and outcome per step (OpenRouter, $10/M input, $50/M output) Step Tokens Cost Result Reddit (/register) 11,201 $0.11 Blocked \u2014 Cloudflare check GitHub (/signup + email confirm) 65,638 $0.67 Passed Discord (/register, stuck loop) 430,609 $4.37 Blocked \u2014 stuck loop Etsy (/join) 582,589 $5.86 Passed Indeed (auth/signup) 411,567 $4.14 Blocked \u2014 needs SMS Craigslist (blocked) 32,259 $0.32 Blocked Airbnb (interrupted by a crash) 419,194 $4.21 Blocked \u2014 crashed mid-run Total 1,953,057 $19.68 2/7 passed Worth being clear: the cost column is what it cost to run the agent against that site, not what it cost to beat a CAPTCHA. A blocked row still burns tokens, Discord's $4.37 is a failed loop, not a paid-for win. Same price whether you use Astra or Fable 5, both are $10/M in, $50/M out on OpenRouter, so it doesn't matter which you run. Though for this type of work you don't need anything that heavy anyway, something like DeepSeek V4 would do fine. Here's what just the Etsy (/join) step would've cost on DeepSeek V4 Flash instead: Etsy (/join) step, model comparison Model Tokens Cost GPT-6 Astra 582,589 $5.86 DeepSeek V4 Flash 582,589 $0.04 Gemini 2.5 Flash Lite 582,589 $0.055 GPT-5 Nano 582,589 $0.045 Qwen3.7 Flash 582,589 $0.035 Same exact task, about 150x cheaper. I'm strongly against building bot farms, but agent self-registration is fine when a product actually needs it. Still, we're getting to where models really can reliably solve CAPTCHAs, and then we'll all be proving we're human on camera. People will work around that too. As a regular user, how do you feel about this? Do you see where it's going, what will the flood of bots and agents do to the internet and to services? (For what it's worth, at Atomic Mail we ban bot farms outright, so if that's what you're after, we're not your fit.) P.S. I know Neal Agarwal's game is a demo, not a real CAPTCHA vendor like Cloudflare or hCaptcha, that's kind of the whole point. Everyone was hyping \"CAPTCHAs are dead\" off that clip, so I got what actually happens the moment you point the same model at real signup flows instead of a browser game"
+    },
+    {
+      "title": "OpenAI launches Agents API public beta built on Codex harness",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/",
+      "published": 1789069595.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI launched the Agents API in public beta on September 10. It lets developers create cloud agents by supplying a task, model, tools, and compute environment in one API call. OpenAI hosts the harness, while the agent can run in an OpenAI sandbox, on the developer's own infrastructure, or with partner environments such as Cloudflare, Modal, and Vercel. The API adds context compaction for long sessions, tool search, parallel programmatic tool calls, and multi-agent support. OpenAI says the API has no extra fee during the beta, but token and tool usage still costs money. The useful split is between orchestration and execution. Teams can reuse the Codex harness without putting every file, secret, or runtime inside OpenAI's sandbox. The production question is how carefully they set those boundaries. Sources: OpenAI: https://openai.com/index/introducing-the-agents-api/ Investing.com: https://za.investing.com/news/stock-market-news/openai-launches-agents-api-in-public-beta-for-developers-93CH-4460924"
+    },
+    {
+      "title": "AI should solve problems, not create them - Community College Daily",
+      "author": "israelavila",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcunsd/ai_should_solve_problems_not_create_them/",
+      "published": 1789071687.0,
+      "thumbnail": "https://external-preview.redd.it/By_SqYcwqQrTQH5U-pgo2Mtht8SKO2b9hMHlBqRoGFU.jpeg?width=640&crop=smart&auto=webp&s=717b36dc6de6fb3e68eb02fb71e56dc26c853a25",
+      "external_url": "https://www.ccdaily.com/2026/08/ai-should-solve-problems-not-create-them/",
+      "site_name": "Community College Daily - American Association of Community Colleges",
+      "favicon": "https://www.ccdaily.com/wp-content/uploads/2016/12/cropped-AACC_logo_RGB_highres-180x180.jpg",
+      "description": "Artificial intelligence has become part of nearly every conversation in higher education. It touches teaching and learning, cybersecurity, administrative operations, software development and student services. This doesn't mean every project needs AI. Rather, institutional leaders should consider how technology can help accomplish work that has become increasingly difficult given limited resources. At Pima Community College"
     },
     {
       "title": "GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology",
@@ -57,60 +101,16 @@
       "description": "We benchmarked GPT-6 Astra vs GPT-5.6 Sol across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Sol found 107 confirmed bugs vs 91 for Astra, while Astra had higher precision and lower latency. Every finding was independently verified. We\u2019re doing Fable vs Opus next week, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/6hkugycb6poh1.png?width=1080&format=png&auto=webp&s=073833238182e2e36e04a9c8c39f90627adb28b9"
     },
     {
-      "title": "Which boring AI use case has actually been more useful than the flashy ones?",
-      "author": "TurbulentPass9946",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcg1t6/which_boring_ai_use_case_has_actually_been_more/",
-      "published": 1789038415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The impressive demos get attention, but I\u2019m curious about mundane stuff people now rely on every week. What boring AI use case ended up being genuinely valuable?"
-    },
-    {
-      "title": "We need free market and foreign AI models to keep companies competitive",
-      "author": "Armored09",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
-      "published": 1789062090.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
-    },
-    {
-      "title": "Notion ai finally clicked for me once i stopped using it as a writer",
-      "author": "aiprotivity_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcpi2o/notion_ai_finally_clicked_for_me_once_i_stopped/",
-      "published": 1789060776.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "for months i thought it was overpriced because i kept asking it to write stuff and the writing was kinda mid. turns out that's not the point. the point is asking it questions about your own pages. \"what did i say i'd do about X last week\", \"summarize everything tagged urgent\", that kind of thing. it's search that understands your notes, not a chatgpt clone. once i used it that way it went from \"why am i paying for this\" to something i'd lowkey miss. still not letting it draft anything important tho"
-    },
-    {
-      "title": "'Are You F***ing Kidding Me?': Mum Claims Meta AI Surfaced Deleted Photo, Pieced Together Her Location",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbolmg/are_you_fing_kidding_me_mum_claims_meta_ai/",
-      "published": 1788967300.0,
-      "thumbnail": "https://external-preview.redd.it/9N5CFpF0NVio-b0b6TEi0FcH71HUTRng0RhLnKWAYBk.png?width=640&crop=smart&auto=webp&s=0bf53a0fff10d7f9c9c4dec260c31da4ef349807",
-      "external_url": "https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "A mother\u2019s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children\u2019s images online. Meta claims the issue is resolved."
-    },
-    {
-      "title": "\u00bfPor qu\u00e9 medimos el progreso de la IA por lo que puede reemplazar, en lugar de por lo que permite hacer a los humanos?",
-      "author": "Admirable_Wasabi_732",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcqv2b/por_qu\u00e9_medimos_el_progreso_de_la_ia_por_lo_que/",
-      "published": 1789063605.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\u00bfPor qu\u00e9 planteamos cada nueva capacidad de IA en t\u00e9rminos de lo que puede reemplazar? Cada vez que la IA adquiere una nueva capacidad, surge casi de inmediato una pregunta familiar: \u00bfQu\u00e9 reemplazar\u00e1? Si un modelo mejora en programaci\u00f3n, nos preguntamos a qu\u00e9 programadores podr\u00eda reemplazar. Si mejora en escritura, dise\u00f1o, investigaci\u00f3n, diagn\u00f3stico o planificaci\u00f3n, la discusi\u00f3n r\u00e1pidamente se centra en qu\u00e9 partes de esas profesiones podr\u00edan dejar de requerir la intervenci\u00f3n humana. Esa es, obviamente, una pregunta importante. Pero creo que se ha convertido en un enfoque tan dominante que estamos pasando por alto otra forma de evaluar exactamente el mismo progreso tecnol\u00f3gico: \u00bfQu\u00e9 hace que un ser humano sea capaz de hacer que no pod\u00eda hacer antes? Esta no es una idea nueva. En 1962, Douglas Engelbart public\u00f3 \"Aumentando el intelecto humano\". Su objetivo no era simplemente que las computadoras realizaran trabajo intelectual en lugar de los humanos. Describi\u00f3 la mejora como el aumento de la capacidad de una persona para abordar problemas complejos, comprenderlos y resolverlos, problemas que antes no pod\u00eda resolver. Es importante destacar que el sistema que le interesaba no era solo la computadora, sino la combinaci\u00f3n del ser humano, las herramientas, el lenguaje, los m\u00e9todos y el entrenamiento. El ajedrez ofreci\u00f3 posteriormente un ejemplo particularmente interesante. Cuando Deep Blue de IBM derrot\u00f3 a Garry Kasparov en 1997, se convirti\u00f3 en uno de los s\u00edmbolos m\u00e1s claros de la narrativa de la sustituci\u00f3n: humano contra m\u00e1quina, realizando la misma tarea, hasta que la m\u00e1quina mejorara. Pero la respuesta de Kasparov fue interesante. En lugar de detenerse en el ajedrez humano contra m\u00e1quina, ayud\u00f3 a desarrollar el ajedrez avanzado, donde los jugadores humanos pod\u00edan trabajar con programas de ajedrez. Eso cambia la pregunta por completo. La comparaci\u00f3n relevante ya no es simplemente: humano vs. m\u00e1quina sino: humano solo vs. humano + m\u00e1quina. Y esa distinci\u00f3n parece cada vez m\u00e1s importante con la IA moderna. Una calculadora ampl\u00eda una capacidad limitada. Un telescopio ampl\u00eda la percepci\u00f3n. La escritura ampl\u00eda la memoria y el razonamiento m\u00e1s all\u00e1 de lo que podemos retener internamente. Las computadoras ampliaron a\u00fan m\u00e1s esas capacidades. La IA es singular porque la misma tecnolog\u00eda puede potencialmente ampliar muchas dimensiones de la capacidad humana a la vez: razonamiento, memoria, aprendizaje, percepci\u00f3n, creatividad, comunicaci\u00f3n y acci\u00f3n. Sin embargo, nuestro lenguaje para evaluar la IA a\u00fan parece estar muy centrado en la m\u00e1quina aut\u00f3noma: puntuaciones de referencia, tareas completadas sin intervenci\u00f3n humana, trabajos automatizados y el punto en el que un modelo supera a una persona en X. Son mediciones \u00fatiles. Pero miden principalmente la capacidad de la m\u00e1quina. Me interesa saber si necesitamos una forma igualmente seria de pensar sobre la capacidad humana que se genera con el acceso a la IA. No se trata simplemente de: \u00bfLa IA hizo que alguien fuera un 30 % m\u00e1s r\u00e1pido en algo que ya sab\u00eda hacer? Sino de: \u00bfPuede esta persona ahora comprender, crear, investigar, construir o lograr algo que antes estaba fuera de sus capacidades efectivas? Esto nos lleva a una forma diferente de interpretar el progreso de la IA. Cada vez que un modelo adquiere una nueva capacidad, quiz\u00e1s haya dos preguntas que valga la pena plantearse: \u00bfQu\u00e9 puede reemplazar? y \u00bfQu\u00e9 habilidades puede adquirir un ser humano gracias a esta nueva capacidad? Me pregunto si aqu\u00ed ya se han visto ejemplos significativos de la segunda categor\u00eda: casos en los que la IA no solo ha acelerado una habilidad existente, sino que ha ampliado genuinamente las capacidades de una persona."
+      "title": "Anthropic Researcher Abruptly Resigns Before Warning That AI 'Could Kill Us All By The End Of The Decade' In Alarming Rant",
+      "author": "ComicSandsNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/",
+      "published": 1789060681.0,
+      "thumbnail": "https://external-preview.redd.it/2Vlmel6j2e6ezEga2w0KKnGrzdTMQocbdVzpbv91phk.png?width=640&crop=smart&auto=webp&s=cc0bf50f9f69211d29da9bda96ee2c29ed179e91",
+      "external_url": "http://comicsands.com/anthropic-ai-researcher-coxon-warning",
+      "site_name": "Comic Sands",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192",
+      "description": "Is it already too late?"
     }
   ],
-  "fetched_at": "2026-09-10T18:09:33.679730+00:00"
+  "fetched_at": "2026-09-10T21:04:46.423555+00:00"
 }

@@ -5,37 +5,67 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Former Anthropic researcher warns AI could \u2018kill us all\u2019",
-      "source": "cnn.com",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
-      "pub_date": 1789018800.0,
-      "article_url": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/26091001-jacobcoxeninterview-hnk-digvid-vrtc-clean-thumbnail.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Former AI researcher Jacob Coxon tells CNN\u2019s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control."
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang dismisses \"hysterical\" AI fears",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eGJqRVJHajB5T2FPR2tIaHhXYVd2TW5tMXc0UjM0NV9IU0tJQ3ViTnY2VkxqNVJIMmNoRlJSSlhFb2hCUktlX0hITXdPc0JIalh1Y3JlSlp1MjlfTjZ3LUpTSWdIcTdOYy1DZFZxa3F6TFQ3M0hZaw?oc=5",
-      "pub_date": 1789062945.0,
-      "article_url": "https://www.axios.com/2026/09/10/nvidia-ceo-jensen-huang-ai-anthropic",
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+      "pub_date": 1789059606.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI is losing its stranglehold on the U.S. stock market. Here's why",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1IwZzA0QVg3QkNBZ1pIVEI5WFRNNDhMZnNITjRYaHlrQWtCNXV6WXZXSVZ5cElBOXJzY25PVHdBTkFnWVl0aGxoaHNfWE04WVM0ZUw2TmMxN2RiVjV2UmZXazNGdGN2RHVOOTVOZmlzOGYzVWJVMU1mZDR0QWRQYy1mdThvOW5pVDBXOWN1d2xGX0hobXZ2LVhOWDZseWRR0gGmAUFVX3lxTE1DWm4xNllDUWtSNXNWQ1dvTmExOXhHRTZBVUE4SmU2Y1ZnSUZ2LVEtZlJYYmM3amhfcnpiZUdhWWlEVS04MTE5NFFSeFhGRVFrbTJzc05GM0wxY3hmS0VzMmtIODNQZXA3M0FBV2p4U1ZSaDYzeTNsU1I3a3NnSDBTc3h5dzBjVnczQmd6REs3TmlRcFFjcmpTbHhVbkx6ZGV4YmtKY2c?oc=5",
-      "pub_date": 1789062144.0,
-      "article_url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357833-1788364301709-Traders-OB-20260902-ACJ-PRESS-8.jpg?v=1788364539&w=1920&h=1080",
-      "description": "A key tech-stock volatility metric options traders have been watching all year is reversing."
+      "headline": "Detecting and countering misuse of AI: September 2026",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "pub_date": 1789060227.0,
+      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Viral AI researcher\u2019s warning \u2018 scary as hell ,\u2019 Cruz says",
+      "headline": "Oracle Posts Cloud Sales That Top Estimates on Surging AI Demand",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWRuVzUzNTNpajh5aWJpSE1HcFY4emlDNTFtUnYyUVR6dUdlODhqZ2gxcXV1VU40Y1ZmV0k5UHQ4NWFzblRRVGJrSFVKc2lPeU1BaDNMaElzMk5Qc3ZLU1hjMUU2ZGN2N3U2ZkNWRWFudVdZVC1RanBKZmFYQWpVbXVUb2JvTy1LODhYZlpJVnN4Q0N5LTBMbzdnSVZiTUtFV1RrZ3hQTXFTaGc5QXFYZXcxUDBUdw?oc=5",
+      "pub_date": 1789072553.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Oracle's quarterly revenue beats estimates as AI boom drives cloud demand",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
+      "pub_date": 1789071616.0,
+      "article_url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVTlvaVd3VWh4dUJKbjVQZVhJX1ZOM2RiSi01dWdWcXFELU9TVGgtQm1sbUZzanRZaFVaWG5wNjc0NTFfVDJCWURjT0xRMEs2ZGZNakZGdEYyZ3Z6bDBZX0pZSzB3dlNkYWtJXzRSWGlPdkVXUEVXbkM3Y2R1LVVzc205RENVNGI1X2ZkNFVQWmk?oc=5",
+      "pub_date": 1789072671.0,
+      "article_url": "https://finance.yahoo.com/video/oracle-earnings-concentration-risks-fall-203751982.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/22286ca151347d778303d74e001098810d499bcea2b3de9677ce3825d34a5a98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F1dfcde80-e079-11ee-b73f-9a84e19e3e40_795dbccbf725eb41ed4f5d1599bffc20c1bd793735d507f921957e5161fa9e3f.jpg_4b93ff655e61f6f9e9bd9c99152230d52fa521473f3cbf50a512210fb03e6487.jpg",
+      "description": "Oracle (ORCL) tops fiscal first quarter earnings and revenue estimates; the stock is gaining in Thursday's after-hours trading.\n\nEpistrophy Capital Research chief market strategist Cory Johnson speaks with Josh Lipton about Oracle's results and where certain concentration risks lie within the AI ecosystem."
+    },
+    {
+      "headline": "AI\u2019s confusing terms, explained",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01SnBFT0NYSnRXTFF2TDJpWTNjQkRVZnBINUZQMV9ObmVBLXYwN0M0QmhianpuaXZhRkpldGZlMmtYdDRGbExwdXBpcnd0Nm5GbnhBT1otTHEzVHhDZ3lqaUxiWms1Z3RCemxtb3NqSkZZQXVDckJZ?oc=5",
+      "pub_date": 1789072267.0,
+      "article_url": "https://www.cnn.com/2026/09/10/business/ai-confusing-terms-explained",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1443830811-20260910202655045.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The last few weeks have seen a deluge of news about AI \u2013 from models going rogue to doom predictions about how AI could cause the end of humanity."
+    },
+    {
+      "headline": "Viral AI researcher\u2019s warning \u2018scary as hell,\u2019 Cruz says",
       "source": "Politico",
       "source_url": "https://www.politico.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5",
@@ -43,6 +73,16 @@
       "article_url": "https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtEXzVYTG9YMUdiR0YxRDFfUlFucHJMSFpPRUdlVEVqd29TTGZ2OEJ2NjNWV1k2UTZEd2RwSFlYMnoyeXN4TzFoamk5b1ZiRkY4RVVtRV9hSmp1aVIwUkI2OGIzckNzOTVPSDNrbG5XLWM4bU4yZlpGOFlZNnAyczdLSGE0VVJTQktz0gGQAUFVX3lxTE01eW9yU0xQdzc3YkxMVmpaY0RKVjRvcWs1SVZEbkw4OVFoeGdTeGg0N0hybl9IU3Nna2dkWmNZaTd6V2swUldYdXVUeUFNTnQ5VnpDUkFrYWkxZ3J6YTR1d0Jtem44dzBZbmQ4cHlnRTMxZW9ScGpnRm4wR2pKRFB5eGFLYUc0cWh0ZkxReHp1RQ?oc=5",
+      "pub_date": 1789035128.0,
+      "article_url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&w=1920&h=1080",
+      "description": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models"
     },
     {
       "headline": "Why some experts increasingly fear AI will take over",
@@ -63,48 +103,8 @@
       "article_url": "https://openai.com/index/navier-stokes-solution/",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
       "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "headline": "Could Your Chatbot Be Stealing Ideas From You? It\u2019s a Thorny Question.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QdVZEY0ktT2RMaGgtRnU4ajlsNEIzNEJhblZjRkh0TzlBVmRUdExlVEhtcmg5dF9yb0N4YWxDSlprbVBoTE16NmhrUVVqM3A5U0ZtOVVSNnJmMnhiU0EzdzFmQlRxVnQ5d0JEdThoX3l3NzBKcU1IYmlB?oc=5",
-      "pub_date": 1789049130.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/science/chatbot-stealing-ideas.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The summer AI ate math",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmZaLXZQbEdoREZRa2ozd1Y0SUw3ZFhnV19XM3VwVEdEUl9YVVp2UTNERl94WEFrUV8zVC1pcWpGa3ZxM2ZHV2tIZ3NzeG9wSURwc3lRMWZGLXFUQWdkcFRIZnBDM1BGd0Z1VFhsMExIVklORzJSZ25yX0RzNGxrYmVod3VTN1hRWWJGYlZB?oc=5",
-      "pub_date": 1789025400.0,
-      "article_url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
-      "image": "https://static.scientificamerican.com/dam/asset/c3f3f4d8-0ca3-4b92-bb55-2d76fa7ad19a/saw0926-lead.jpg?m=1789039060.818&w=1200",
-      "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
-    },
-    {
-      "headline": "America's reddest state chases billion-dollar boom as others sour on massive emerging industry",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGZRWEJSSmFVd1luYjVKNmVac3hxNnlIYm1KZmNPUEtWRnA0ekkwSm54dmpsQWVvQlBpX29VNHdoLXlWLXdKX0t6Q0tiT2JvaWZCYVBERDlxM0NWeF9Mem1xTG42MGwyRTVDNng1bGNXYkpIam5qMUNCTzhSeS1WeFZ1cDEwclNta0M2dUtZTmk5cXB5SjBSMXcxdF9Bc1pER3laS2U2R1FfYm5UNHY5dDRCQThRdm1qQWxMRdIBwgFBVV95cUxPMDkxem9jdWlqeENGWGZqZjE1RUxkTUVpS2QzWGI4VUdaYzdhVWpPQXc2OEt2MmxDTWNhSEJWSVR3VEhJemJUaDg0NUF2RGpVVFJiYkd3VnZjVlVKdE1vUVR3Q0JFd2FTU0FIRGVBQmlwLV81WVpCOXJFbnp6a3BCemZfNnVBeDhTUkFwSUEtYm5SRUFSdVZldlNWcVhrY1NIU3hEU2wtNGxHa3h2MWNDNXFMUXhCcWY4VzZuZTNLNnVKZw?oc=5",
-      "pub_date": 1789034426.0,
-      "article_url": "https://www.foxnews.com/politics/americas-reddest-state-chases-billion-dollar-boom-others-sour-massive-emerging-industry",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/wyoming-scenic-jackson-hole.png",
-      "description": "Wyoming's vast land, affordable energy and fiber optic corridors could lure billions in data center investment as other states add new taxes."
-    },
-    {
-      "headline": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUZqYW42N1U0V0Nwcy0tclBNM0NETGhYRXdidmZmdWxxWWtlOHZKRUp6alpTSlZYWk1JaWt3ZGdQNkVEc2tQMGpUWnlHZXFTcVc3b2NxcHEyWTR2eVJPVmNieTBVbFhLdE5FWGRxVHlUbXdKdWtGRm9IN3pIZWJMUVFEcE1oMmsxeXowY0dKcV9GaGhRVDl4MTlVMDY1VWd4b3BmaHU1aXEtZHdBaEo5cA?oc=5",
-      "pub_date": 1789033396.0,
-      "article_url": "https://www.reuters.com/world/india/wipros-ai-push-frees-capacity-equivalent-20000-workers-cto-says-2026-09-10/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T18:10:08.855730+00:00"
+  "fetched_at": "2026-09-10T21:05:12.545923+00:00"
 }

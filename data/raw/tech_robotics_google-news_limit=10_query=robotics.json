@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
+      "pub_date": 1789054202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Maven Robotics wants to steal your robot deployment deal",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -15,22 +25,42 @@
       "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
     },
     {
-      "headline": "Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation",
-      "source": "GlobeNewswire",
-      "source_url": "https://www.globenewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVp6NHRpZEpPZGtxNE1sMW1EcTBtYlQ2ekI4NTB5Vlh6NE41c3ZWOHhUa2U4SEhocVpxUWgweE1QVEVOb3FIREtBQWxFZXB0bmdUZnhJZHpERWQ5MFJha1BOT0ZUaExNUk93Ml9zSmc5LW5zTkQ3bVRFR3BaVnVyLUI3S212YjZIUVRwTmpHa0tNeEFzeVEwVTItLTBqYTdTQmVVTnNobWVWcHpqb01JMExCRWRfYXRCSXU4QVZRRU54dWExNERaaTBNV1BUVW9FbG5SZERkZXFGU3RMZzdackVTOVZfOWhHZFJ3TQ?oc=5",
-      "pub_date": 1789038000.0,
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html",
-      "image": "https://ml.globenewswire.com/Resource/Download/a8346bc2-7ac7-4d57-8e4f-712855669df8",
-      "description": "Funding will support growing demand and strengthen Vecna Robotics\u2019 increasingly strategic role in North American robotics amid a shifting regulatory..."
+      "headline": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSU1MMHREVmo5aFI2bTcwN180bk1DVmZiMTJwWHczY2NBOWlRQVB2SEFZdGxHUFRVY3FQNDcyOFVhaVNIc2NoVmdGeHNOQXgxZU52TENXUzFOM1FwUnVXUWgyOG5QQUdNNWhpMjFObVJkaHMzbDBqcHRnek9jR2htOW8wQ1VGbWpMMjg1dTJHdm5JVDkyUE5Uemw1bVN0TkVTWWc?oc=5",
+      "pub_date": 1789071643.0,
+      "article_url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Ratel_UGV.jpg",
+      "description": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine."
     },
     {
-      "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
-      "pub_date": 1789054202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
+      "headline": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
+      "pub_date": 1788998580.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+    },
+    {
+      "headline": "Chinese CEO Laments Many Robotics Firms Fabricate Revenue",
+      "source": "theinformation.com",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkRPOHNRTWVTSHFiZE9qQ3RnWTJmVTdnelR1aHAzMXg3ZmJYMjVEYVJWM0g4X2JkRWR2WE9FdE0tOFVObzRVaHU3VnAwMnZzaW5aWi0waU9BOWxsZjhUbVBqaTJSM2pzcUtXY0ZpQ004UVpHRjRHV21MRGR4N21aVS0ycElvdnhBVkpYYXhLdlNDMTFCWUVYSQ?oc=5",
+      "pub_date": 1789036140.0,
+      "article_url": "https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue",
       "image": null,
       "description": null
     },
@@ -45,24 +75,14 @@
       "description": null
     },
     {
-      "headline": "How Mbodi is solving robotics\u2019 scaling problem, with Xavier Chi",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3J6ZTVleWVEWG8yZGZITng1VFlnNHkzbEd3MGN2SGlZcHBJdVBDX2lMX2pPSHJoU1FOVC1aWWpJSlhIU1hHTDYwZGFSam9HeTJacUprMzNOZUlIQ1FSYVBZaEtGV2ZpbnhkcndVejh6YUpFMWJJS3F3R0NWaVd2a01MTXpFT003ZEdTYWdudUhHMi00b0wwOQ?oc=5",
-      "pub_date": 1789061506.0,
-      "article_url": "https://techcrunch.com/podcast/how-mbodi-is-solving-robotics-scaling-problem-with-xavier-chi/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/BMs3e10-featured-pic.png?resize=1200,675",
-      "description": "Robotics is having an AI boom, but don\u2019t expect it to have a ChatGPT moment. In this episode of Build Mode, host Isabelle Johannessen sits down with Xavier Chi, co-founder of Mbodi, a startup building AI software that lets people teach industrial robots new skills using natural language. Xavier first joined Isabelle on the Startup [\u2026]"
-    },
-    {
-      "headline": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
-      "pub_date": 1788998580.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
-      "image": null,
-      "description": null
+      "headline": "Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation",
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVp6NHRpZEpPZGtxNE1sMW1EcTBtYlQ2ekI4NTB5Vlh6NE41c3ZWOHhUa2U4SEhocVpxUWgweE1QVEVOb3FIREtBQWxFZXB0bmdUZnhJZHpERWQ5MFJha1BOT0ZUaExNUk93Ml9zSmc5LW5zTkQ3bVRFR3BaVnVyLUI3S212YjZIUVRwTmpHa0tNeEFzeVEwVTItLTBqYTdTQmVVTnNobWVWcHpqb01JMExCRWRfYXRCSXU4QVZRRU54dWExNERaaTBNV1BUVW9FbG5SZERkZXFGU3RMZzdackVTOVZfOWhHZFJ3TQ?oc=5",
+      "pub_date": 1789038000.0,
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html",
+      "image": "https://ml.globenewswire.com/Resource/Download/a8346bc2-7ac7-4d57-8e4f-712855669df8",
+      "description": "Funding will support growing demand and strengthen Vecna Robotics\u2019 increasingly strategic role in North American robotics amid a shifting regulatory..."
     },
     {
       "headline": "Where Does a Robot Think \u2013 On-Device vs Datacenter Inference",
@@ -75,16 +95,6 @@
       "description": "For most of its short history, AI lived behind a screen."
     },
     {
-      "headline": "ICE plans to buy Boston Dynamics\u2019 robot dogs",
-      "source": "Boston.com",
-      "source_url": "https://www.boston.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVlQllGcTZWNDlHOFBacU1KdmFZX0FadHp6Q25zTTBhNkdWRGc3eURHaVk1cmhGZnEyd1ZHNklZU1BwRWhER3RrcnlSM1ZnLXMyb3ZuTi1iNkVvQTVmaFdwVzF2ZUhEeUc1WlVMb1dxRFFGbS1NaXNvMU1vM1dIZ19GRnozM3Z2TDlNMXVLeTF3cDlKN1ctb21n?oc=5",
-      "pub_date": 1789001156.0,
-      "article_url": "https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/",
-      "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/09/Boston-Dynamics-Spot-6aa17fb731219-768x432.jpg",
-      "description": "Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them."
-    },
-    {
       "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
       "source": "GeekWire",
       "source_url": "https://www.geekwire.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/",
       "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/General-Robotics_Photo3-1260x709.jpg",
       "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
-    },
-    {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T18:10:04.463704+00:00"
+  "fetched_at": "2026-09-10T21:05:08.329518+00:00"
 }
