@@ -23,7 +23,7 @@
       "url": "https://ai.meta.com/muse/",
       "hn_url": "https://news.ycombinator.com/item?id=49615537",
       "author": "yks",
-      "points": 650,
+      "points": 652,
       "num_comments": 733,
       "created_at": "2026-09-08T19:25:00Z",
       "object_id": "49615537",
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49630253",
       "author": "awad",
       "points": 501,
-      "num_comments": 442,
+      "num_comments": 444,
       "created_at": "2026-09-09T17:39:24Z",
       "object_id": "49630253",
       "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091908",
@@ -51,8 +51,8 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "hn_url": "https://news.ycombinator.com/item?id=49616968",
       "author": "_alternator_",
-      "points": 483,
-      "num_comments": 415,
+      "points": 484,
+      "num_comments": 417,
       "created_at": "2026-09-08T21:00:52Z",
       "object_id": "49616968",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "X (formerly Twitter)"
     }
   ],
-  "total_hits": 710,
+  "total_hits": 724,
   "has_metadata": true,
-  "fetched_at": "2026-09-10T21:04:43.801455+00:00"
+  "fetched_at": "2026-09-10T23:20:09.189132+00:00"
 }

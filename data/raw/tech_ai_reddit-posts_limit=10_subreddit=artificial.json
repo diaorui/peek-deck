@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
+      "author": "florinandrei",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
+      "published": 1789076637.0,
+      "thumbnail": "https://preview.redd.it/wrl4i7x1jroh1.jpeg?width=640&crop=smart&auto=webp&s=301592e957d4bc35cc9c51e5c57792f6429c20ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
       "author": "ai-edition",
       "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
@@ -35,17 +46,6 @@
       "description": null
     },
     {
-      "title": "We need free market and foreign AI models to keep companies competitive",
-      "author": "Armored09",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
-      "published": 1789062090.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
-    },
-    {
       "title": "Challenge Accepted",
       "author": "PUBGM_MightyFine",
       "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "The ignorance is incredible"
+    },
+    {
+      "title": "We need free market and foreign AI models to keep companies competitive",
+      "author": "Armored09",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
+      "published": 1789062090.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
     },
     {
       "title": "I ran GPT-6 Astra against 7 real signup CAPTCHAs",
@@ -90,27 +101,16 @@
       "description": "Artificial intelligence has become part of nearly every conversation in higher education. It touches teaching and learning, cybersecurity, administrative operations, software development and student services. This doesn't mean every project needs AI. Rather, institutional leaders should consider how technology can help accomplish work that has become increasingly difficult given limited resources. At Pima Community College"
     },
     {
-      "title": "GPT-6 Astra vs GPT-5.6 Sol: benchmark on 50 real PRs, looking for feedback on the methodology",
-      "author": "entelligenceai17",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcjppw/gpt6_astra_vs_gpt56_sol_benchmark_on_50_real_prs/",
-      "published": 1789048037.0,
-      "thumbnail": "https://preview.redd.it/6hkugycb6poh1.png?width=140&height=61&auto=webp&s=7a480ee73de90ed78700676926c24fdf6d5804f3",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We benchmarked GPT-6 Astra vs GPT-5.6 Sol across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Sol found 107 confirmed bugs vs 91 for Astra, while Astra had higher precision and lower latency. Every finding was independently verified. We\u2019re doing Fable vs Opus next week, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/6hkugycb6poh1.png?width=1080&format=png&auto=webp&s=073833238182e2e36e04a9c8c39f90627adb28b9"
-    },
-    {
-      "title": "Anthropic Researcher Abruptly Resigns Before Warning That AI 'Could Kill Us All By The End Of The Decade' In Alarming Rant",
-      "author": "ComicSandsNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcpgig/anthropic_researcher_abruptly_resigns_before/",
-      "published": 1789060681.0,
-      "thumbnail": "https://external-preview.redd.it/2Vlmel6j2e6ezEga2w0KKnGrzdTMQocbdVzpbv91phk.png?width=640&crop=smart&auto=webp&s=cc0bf50f9f69211d29da9bda96ee2c29ed179e91",
-      "external_url": "http://comicsands.com/anthropic-ai-researcher-coxon-warning",
-      "site_name": "Comic Sands",
-      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mjg2MTAzOC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDUyNDU5Nn0.Zb681IaCL4Eaf0rs43in9Fp5Ixl9xt5R3z68ket-VzY/img.png?width=192&height=192",
-      "description": "Is it already too late?"
+      "title": "Government-linked accounts tried to use Claude for work that could lead to bioweapons, Anthropic says",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcvcok/governmentlinked_accounts_tried_to_use_claude_for/",
+      "published": 1789073224.0,
+      "thumbnail": "https://external-preview.redd.it/1ZU9OBDtaeOV3JXStxbYiSl5HSEfcnnm1rnEWhhvwxQ.jpeg?width=640&crop=smart&auto=webp&s=80c70b1f13d66e0cd47712243b9e82b5b392fcc3",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/anthropic-state-linked-scientists-banned-regions-used-claude-virus-res-rcna596859",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "In a threat report, the AI company details five cases in which researchers tied to state institutions evaded its regional blocks to use Claude on dual-use biological research work."
     }
   ],
-  "fetched_at": "2026-09-10T21:04:46.423555+00:00"
+  "fetched_at": "2026-09-10T23:20:10.748408+00:00"
 }
