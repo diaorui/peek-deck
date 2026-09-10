@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T21:05:14.164997+00:00'
+updated: '2026-09-10T23:20:40.420868+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 21:05 UTC  
+**Last Updated:** September 10, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I'm a sophomore student in Meche and this is my first robot so it took about 2 m
 
 I wanted to share this project i've been working on for a few months now. It's a breakaway collar that i made for a my cat, who gets stuck behind doors she can't open for 6 hours on end. It allows her to "talk" to us. And more specifically for us to find her wherever she is in case of any emergency. (This is not that, at least not entirely, this is a proof of concept that will nowhere near reach that, 5mins max with supervision by me) BRIEF It's a whole pipeline, that starts from an ESP32 and all the fun things about detecting a voice, and not chairs creaking. It gets sent over the network to a dedicated server (laptop) that does all the fun stuff. Like translation from Whisper (STT) then to and ollama model who does the thinking, in line with the persona injected into it, and extra context about what "Luna" is doing right now (more on that in a bit), then it feeds into Piper (TTS) which turns it back into a voice and over the network again and played on the ESP32. And with a time to speech, from my last uttered word, to her first of 1.5s. It's very conversational. Sorry if I said "baby" alot in the video, it's the "wake" word to get pass 1 of 12 filters in my pipeline. Tried "Luna" before hand but it was a hit or a miss with the faster-whisper models and my preferences for responsiveness for a conversation with my cat. First time I've said that sentence in my life huh. SAFETY & CONCERNS Every one of your concerns are valid and let me address each one here. Tightness: Luna is a longhaired cat, so on her it might look "tight" but she's just very furry. There is a 2 finger wiggle room between neck and the collar. And the inline of the collar has a satin Silk lining so her fur doesn't rub against it. Weight: The collar ended up weighing 160g (after many many design and part iterations until they met my standards) and she weighs 12.3lb. Meaning a collar to body ration of 2.87%. Which is well below the MAX recommended attachment weight for any mammal of 5%. And in the video you can see in the video that she walks around, grooms herself, and jumps with it perfectly fine. Breakaway: The collar itself is latch at the nape by 8 tiny neo magnets. So quite literally at a flinch it comes of or any sort of sudden movement. Or well, her taking it off herself. Yeah newton level feline somehow learned to get dexterous and use her arm to take it off as shown in the last clip. Volume: The speaker itself is a tiny adafruit special speaker, because to my surprise, regular off the shelf "small" 3W 8-Ohm speakers are really heavy. And it's pointed away from her ear, and in post I increased the volume of her speech. The volume is also hardware limited by the gain pin on the amp. Size: Now this is my current hurdle. The size is fine. Key word, fine. Luna wears the collar perfectly fine, but there is a time limit on that. She gets annoyed by how "bulky" it is when she tries to lay down. And takes it off. (I'll address the fix for the next version below) Context What I want to push home here is I didn't exactly stuff a whole "personified" chat bot into this. It does have real time feedback and context updates. Let me explain. For now on the collar I have to sensors that act like "Context" for Ollama. So first the motion sensor. It pretty tracks her movement in states. The only important state for now is "Running" so when enough movement is detected it fires and outburst is what I call it. What my outburst do is pretty much gaslight an "interaction" that never happened into Ollama history, and since it believes every word it says it will keep that "Context" alive for as many turns as needed (3 turns in my case). So pretty much shoving a preloaded interaction like. (You) Stop running! (Luna) The doors are whispering to me. So then if in the next 3 turns/interactions i ask why she was running she will give a response with that context. Not something random. The second sensor is a piezo ribbon cable, yes that exist, look it up it's sick. That was supposed to detect purrs. WAS is the keyword here. Seem at her neck they are too "quiet" and overwritten by the static bend in the ribbon itself. Currently If theres anything you guys want me to clarify please go right ahead. I'm open to constructive feedback. I'm trying to not go in the details here cuz I'm new to the sub in all. :) But so far I'd consider this "done" for v1, as a proof of concept/prototype. And Luna only wears it for a few minutes and takes it off. I'd say that's perfect for this version at least. But there is a reason why i'm calling this v1. Problems/Help Right now for version 2. I'm looking to improve it on everything in general, but more specially. SIZE. hehe. Cuz for weight honestly it's just dropping one of the 2 batteries on the nape, cuz 1 is more than enough, would just need to fix up center of mass. My ideas so far for the size, is well, when i can afford it atleast, make it on long flex PCB instead of the "parts" that it is now, with that get an smd oven so I can shrink everything, and maybe just buy say the ESP32 Antenna and Microcontroller separately and just work from there, no more solid board or any "extra" board that i'd need to make room for. Keep everything on 1 line. Funny enough now i realized I'm playing the rocket equation here. For me it's weight, size, and functionality. Apart from that, reducing weight and size. if I can I want to get it below 100g, closer to actual tracker collar on the market. Honestly I think just getting rid of 1 battery is enough for that. I'd have to check tho. And if I can squeeze some wiggle room add some more sensors for more context, like a 3d tracker instead of simple motion. or tag readers near her bowl, litter, or bed. (Just to clarify too, she isn't allowed to wear this v1 outside my room, so none of the above lmao) Maybe a tail imaging pipeline cuz her tail is abnormally long and expressive for a cat. Body temp would be easy i think too. But yeah. And no she's not wearing this anymore. Since I finished with my documentation video for this project, I'm not gonna make her wear another collar any time soon, until I start v2. I'm asking for some clarifications here if anyone ever used a flex PCB, and if my "easy going" way of it like it's a normal PCB is unfounded. And well any other tips to save weight or size that I've missed.
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -120,35 +120,35 @@ Bloomberg.com • 5h ago
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 6h ago
+TechCrunch • 9h ago
 
 ---
 
-**[Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M](https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/)**
+**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
 
-Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine.
+Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
 
-The Robot Report • 44m ago
-
----
-
-**[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
-
-Reuters • 21h ago
+GlobeNewswire • 12h ago
 
 ---
 
-**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+**[AI & Robotics in 2026: 16 Recent Developments for Investors](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-in-2026-16-recent-developments-for-investors/)**
 
-This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
-
-The Washington Post • 2d ago
+ETF Trends • 1d ago
 
 ---
 
-**[Chinese CEO Laments Many Robotics Firms Fabricate Revenue](https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue)**
+**[Teradyne Robotics sues JAKA over 3 Universal Robots patents](https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/)**
 
-theinformation.com • 10h ago
+Teradyne Robotics’ patent lawsuit vs. JAKA Robotics centers on 3 Universal Robots patents about robot interfaces, safety brakes, and joints.
+
+The Robot Report • 59m ago
+
+---
+
+**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
+
+Breaking Defense • 4h ago
 
 ---
 
@@ -158,27 +158,25 @@ WSJ • 1d ago
 
 ---
 
-**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
+**[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
 
-Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
-
-GlobeNewswire • 10h ago
+Reuters • 23h ago
 
 ---
 
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
 
-For most of its short history, AI lived behind a screen.
+Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
 
-SemiAnalysis • 1d ago
+Business Insider • 1d ago
 
 ---
 
-**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
+**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
 
-A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
+This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
 
-GeekWire • 1d ago
+The Washington Post • 2d ago
 
 ---
 
@@ -192,17 +190,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 30K • 👍 449 • 💬 47 • ⏱️ 15:17 • 5d ago
-
----
-
-**[Humans Can’t Sort Batteries This Fast](https://www.youtube.com/watch?v=rgwaXXkAZUo)**
-
-This high-speed automated system uses robotic arms and machine vision to sort battery cells with remarkable speed and ...
-
-📺 Moshyy
-
-👁️ 4K • 👍 27 • 💬 1 • ⏱️ 0:06 • 8h ago
+👁️ 31K • 👍 450 • 💬 47 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -212,17 +200,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 375K • 👍 5K • 💬 940 • ⏱️ 5:02 • 1d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 20K • 👍 101 • 💬 19 • ⏱️ 3:39 • 1d ago
+👁️ 397K • 👍 5K • 💬 983 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -242,17 +220,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 171K • 👍 2K • 💬 227 • ⏱️ 5:52 • 1d ago
-
----
-
-**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
-
-A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
-
-📺 CBS Chicago
-
-👁️ 300K • 👍 2K • 💬 648 • ⏱️ 1:44 • 6d ago
+👁️ 185K • 👍 2K • 💬 235 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -260,17 +228,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 Opac24MLB
 
-👁️ 4K • 👍 76 • 💬 2 • ⏱️ 0:16 • 1d ago
-
----
-
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
-
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
-
-📺 RICHLEV
-
-👁️ 389K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
+👁️ 5K • 👍 85 • 💬 2 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -281,6 +239,46 @@ With ADHD, keeping up with everyday cleaning can feel impossible. Lefant M265 ta
 📺 Lefant AU
 
 👁️ 1.4M • 👍 3K • 💬 7 • ⏱️ 0:06 • 5d ago
+
+---
+
+**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
+
+Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
+
+📺 RICHLEV
+
+👁️ 396K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
+
+---
+
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
+
+PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
+
+📺 LIGHTS ARE OFF
+
+👁️ 5.4M • 👍 92K • 💬 12K • ⏱️ 25:44 • 4d ago
+
+---
+
+**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
+
+Unitree R1 humanoid Robot.
+
+📺 İncelemedeyim
+
+👁️ 152K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[China&#39;s Humanoid Robot Bubble Reaches Point Of Absurdity](https://www.youtube.com/watch?v=KbzrqUT5zmU)**
+
+Stop using ONE AI when you can use ALL of them. Try it here https://chatllm.abacus.ai/wsm In this video we analyze the recent ...
+
+📺 Wall Street Millennial
+
+👁️ 206K • 👍 3K • 💬 1K • ⏱️ 15:39 • 3d ago
 
 ---
 

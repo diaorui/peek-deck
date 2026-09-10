@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4619,
+      "stars": 4622,
       "stars_display": "4.6k",
-      "forks": 579,
-      "forks_display": "579",
+      "forks": 581,
+      "forks_display": "581",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -30,7 +30,7 @@
       "description": "\ud83d\ude80\u9762\u5411\u6c42\u804c\u4e0e\u5f00\u53d1\u573a\u666f\u7684\u5b9e\u7528 AI Skills \u96c6\u5408\uff0c\u652f\u6301\u7b80\u5386\u4f18\u5316\u3001\u5c97\u4f4d\u6295\u9012\u3001\u9762\u8bd5\u51c6\u5907\u4e0e\u5f00\u53d1\u63d0\u6548\u3002",
       "url": "https://github.com/Hisn00w/ASu-skills",
       "preview_image": "https://opengraph.githubassets.com/c0b8828c74619eb6696fffd4a2bb91fd4c059ef3ebe5dbd5a8e4cdb4d6cd8a35/Hisn00w/ASu-skills",
-      "stars": 4262,
+      "stars": 4263,
       "stars_display": "4.3k",
       "forks": 255,
       "forks_display": "255",
@@ -74,7 +74,7 @@
       "forks_display": "452",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-09-10T20:34:42Z"
+      "updated_at": "2026-09-10T21:37:53Z"
     },
     {
       "full_name": "EvoMap/AutoResearch",
@@ -84,7 +84,7 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 2925,
+      "stars": 2927,
       "stars_display": "2.9k",
       "forks": 196,
       "forks_display": "196",
@@ -122,7 +122,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2291,
+      "stars": 2296,
       "stars_display": "2.3k",
       "forks": 88,
       "forks_display": "88",
@@ -176,7 +176,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1744,
+      "stars": 1746,
       "stars_display": "1.7k",
       "forks": 176,
       "forks_display": "176",
@@ -189,6 +189,6 @@
   "search_query": "ai created:>2026-08-11",
   "days": 30,
   "limit": 10,
-  "total_count": 460123,
-  "fetched_at": "2026-09-10T21:04:43.881351+00:00"
+  "total_count": 460841,
+  "fetched_at": "2026-09-10T23:20:09.327788+00:00"
 }
