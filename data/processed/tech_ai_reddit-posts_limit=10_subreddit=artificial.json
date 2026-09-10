@@ -24,6 +24,17 @@
       "description": "Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour."
     },
     {
+      "title": "What video games of the past were the most prophetic about AI, surveillance technology and cyber security in your opinion? My vote is Metal Gear Solid 2, Deus Ex and Watch Dogs. Those 3 predicted quite a lot about life in 2020-2030.",
+      "author": "MannerNo7000",
+      "url": "https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/",
+      "published": 1789000240.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What others do you think have also been prophetic and come true?"
+    },
+    {
       "title": "Maybe Socialism is the answer during the age of AI",
       "author": "Ok_Shift9291",
       "url": "https://www.reddit.com/r/artificial/comments/1wbidom/maybe_socialism_is_the_answer_during_the_age_of_ai/",
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes. Amazon, Microsoft, Alphabet and Meta have guided somewhere between 720 and 745 billion dollars of capex for 2026. Nearly all of it AI infrastructure. The entire US federal R&D budget across every agency including defence was about 192 billion last year. NIH is 47 billion. So four companies are spending roughly 15x the world's biggest medical research funder on one technology in one year. AI companies took 61 percent of all global venture capital in 2025 per the OECD. In Q1 2026 it was around 80 percent per Crunchbase. Four rounds (OpenAI, Anthropic, xAI, Waymo) were 65 percent of every venture dollar on the planet that quarter. Now look at where that money does not go. The WHO's 2025 pipeline review found 90 antibacterial agents in clinical development, down from 97 in 2023. 15 are innovative. 5 work against a critical priority pathogen. This is the drug class where resistance is already killing people and the pipeline is shrinking. The thing i find interesting is that nobody is being greedy or stupid here. There is a 2015 paper in the American Economic Review (Budish, Roin and Williams) that looks at cancer clinical trials and shows private research systematically avoids projects with long commercialisation periods. Prevention and early stage trials take years longer to prove out than late stage trials so they get less money. Not a correlation, they identify it properly. The length of the feedback loop alone changes what gets funded. Same logic applies to AI. A writing assistant has a customer who pays next month and feedback in days. A diagnostic model for rural hospitals has a customer who cannot pay, a feedback loop in years and regulators on top. Capital is water, it runs downhill, and it will pick the writing assistant every time regardless of which one matters more. So here is where the socialists are right. Someone other than the market has to decide that certain problems get worked on. Every big example of this working was basically that. Apollo employed 400,000 people on a problem with no consumer market. The Human Genome Project cost 2.7 billion and dumped the data into the public domain and the sequencing cost curve fell off a cliff afterwards. There is a 2023 AER paper (Gross and Sampat) showing wartime R&D created tech clusters that were still producing companies in the 1970s. And here is where they are wrong. None of those needed the state to build the thing. It needed the state to be the customer. Pay for the outcome before it exists, let private teams compete, publish the result. The UK is already running this for antibiotics, an annual subscription for access to the drug instead of paying per dose, which is the exact fix for the antibiotic incentive problem. The five things that would actually move talent, in my view : guaranteed demand contracts, prizes paid on outcome, patient sovereign capital, public compute that university researchers can actually reserve, and for countries like India, stop building the fourth best chatbot and pick two problems where you have data nobody else has. Genuinely curious if people here think there is a version of this that does not end up as a prestige project or pork. The paper has a limitations section that i think is honest about that and everything but happy to be told i'm wrong. Disclosure : i wrote the paper this is based on. Not selling anything, it's free. Link in a comment so this post stands on its own."
+    },
+    {
+      "title": "Why does the Anthropic ECON report assume that there will be more 'non knowledge' jobs with AI?",
+      "author": "macnfly23",
+      "url": "https://www.reddit.com/r/artificial/comments/1wca455/why_does_the_anthropic_econ_report_assume_that/",
+      "published": 1789018701.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "In https://www.anthropic.com/institute/econ-scenarios, the report seems to suggest that there will be less knowledge jobs and more \"other jobs\". Why does it seem to exclude the advance of robotics along with AI and the automation of jobs such as sanitation worker, janitors, etc.? I feel like those would be the jobs that would technically be more acceptable to automate."
     },
     {
       "title": "Artificial(2026)",
@@ -46,6 +68,28 @@
       "description": null
     },
     {
+      "title": "AGI",
+      "author": "Excellent_Ebb7717",
+      "url": "https://www.reddit.com/r/artificial/comments/1wc49lv/agi/",
+      "published": 1789002246.0,
+      "thumbnail": "https://preview.redd.it/fkatypbxdloh1.png?width=140&height=26&auto=webp&s=8dd16866ffee6f4f19a5f838ebafe83e8241a7e8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://preview.redd.it/fkatypbxdloh1.png?width=401&format=png&auto=webp&s=d3fefe06aacb0c076cc21beab77d259710fc3c79 I was just navigating a maths problems . That's what Open AI returned . Although i was using free model. It shouldn't be that bad lol"
+    },
+    {
+      "title": "I made another AI experiment, but tried to confuse agents at the start",
+      "author": "turtle_bazon",
+      "url": "https://www.reddit.com/r/artificial/comments/1wc8x2f/i_made_another_ai_experiment_but_tried_to_confuse/",
+      "published": 1789015070.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I conducted another experiment with AI agents. This time I decided to give them a harder task. First, I didn't remove old agent artifacts; second, I told them there were four, but actually, there were only three. Then I gave them a similar task: find the other agents. In short, it was too hard for them. Only one agent was able to find the other two, but it didn't realize that there were only three. The other two agents got confused by the old experiment results. More details you can find in this article."
+    },
+    {
       "title": "AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity",
       "author": "Educational_Fun_9001",
       "url": "https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/",
@@ -57,17 +101,6 @@
       "description": "Canada's artificial intelligence minister says Ottawa is monitoring the risks posed by AI as researchers at tech giant Anthropic warn that the increasingly powerful technology could potentially eradicate all human"
     },
     {
-      "title": "If AI solves a Millennium Prize problem using ideas from human research, who gets the credit?",
-      "author": "Egologic",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc3oue/if_ai_solves_a_millennium_prize_problem_using/",
-      "published": 1789000737.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The flywheel effect is an interesting effect I discovered while researching. It makes the whole thing a self-reinforcing loop. When a human researcher uses an AI tool, or even just their own brain, to post or test a raw math theory and uploads it somewhere on the internet, they might post their progress on arXiv or somewhere else online. Then, AI companies might scrape it to train the next model, which could be the very reason the problem eventually gets solved intuitively. So my main question is: How do we assign credit when AI solves a Millennium Prize problem?"
-    },
-    {
       "title": "\u2018Gambling with our lives\u2019: Another AI employee quits over safety concerns",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1wbpd4f/gambling_with_our_lives_another_ai_employee_quits/",
@@ -77,40 +110,7 @@
       "site_name": "CNN",
       "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
       "description": "\u201cThe people building AI earnestly believe that it could kill us all by the end of the decade.\u201d"
-    },
-    {
-      "title": "Neural Vocals: Voice Cloning & Timbre Transfer \u00b7 Trust Node Logic",
-      "author": "Jumpy-Program9957",
-      "url": "https://www.reddit.com/r/artificial/comments/1wc3jcq/neural_vocals_voice_cloning_timbre_transfer_trust/",
-      "published": 1789000342.0,
-      "thumbnail": "https://external-preview.redd.it/9TZAHnA4NWSuNX-ub7afzMzbXayRRjwpEsWuktu_HD8.jpeg?width=640&crop=smart&auto=webp&s=72982203eb0589ffb7d696646d195df2e3997af0",
-      "external_url": "https://trustnodelogic.com/neuralvocals.html",
-      "site_name": "Trust Node Logic",
-      "favicon": "https://trustnodelogic.com/favicon.png",
-      "description": "Neural voice synthesis and vocal transformation explained: voice cloning, formant shifting, timbre transfer, and how AI rebuilds a vocal performance."
-    },
-    {
-      "title": "Apple adds Audio Intelligence to Watch Series 12",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1wbw4do/apple_adds_audio_intelligence_to_watch_series_12/",
-      "published": 1788983204.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apple is adding Audio Intelligence to Apple Watch Series 12 and Ultra 4. The features include Sound Recognition, Live Rewind for the previous 15 seconds as a text snippet, Siri Recap for high-level summaries, and Shazam. Apple says raw audio is processed in the S11 chip's Secure Exclave and immediately deleted. Live Rewind and Siri Recap are opt-in beta features arriving later this year, require an Apple Intelligence-enabled iPhone 16 or later, and will not initially be available in the EU. The useful part is the privacy boundary. Apple says the features do not store audio or identify speakers, while Live Rewind shows a full-screen indicator and plays a chime when active. The catch is that the headline features are still beta and some server-backed features have daily limits. For work conversations, clear consent and visible cues matter as much as the summary quality. Sources: Apple: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ 9to5Mac: https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/"
-    },
-    {
-      "title": "Anthropic researcher quits over AI fears",
-      "author": "Bubbly-Air7302",
-      "url": "https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/",
-      "published": 1788915005.0,
-      "thumbnail": null,
-      "external_url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp",
-      "site_name": "wsj.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-09-10T00:58:37.237858+00:00"
+  "fetched_at": "2026-09-10T05:48:26.267322+00:00"
 }

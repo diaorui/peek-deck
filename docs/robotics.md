@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T00:59:14.451425+00:00'
+updated: '2026-09-10T05:48:50.605788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 00:59 UTC  
+**Last Updated:** September 10, 2026 at 05:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studi
 
 I'm a sophomore student in Meche and this is my first robot so it took about 2 months. It's a 3d printed robot arm built from scratch and works pretty well but its a bit wobbly (which I'm working on fixing). Its controlled by an arduino uno and 5 potentiometers. But the issue is that those potentiometers are small and covered in nets of wires. I could cut specific wire lengths and buy bigger potentiometers (and probably will) but I think there's another option. Is there some sort of robot arm simulation software that can let me control my arm smoothly on my computer without having to turn each potentiometer slightly to adjust it? I know there's Robodk but its really expensive so if there's one I can use that's free or free for students that would help a lot. Also, since I'm not really satisfied with just a robot arm since its really common for personal projects in my major, my next step is to replace the robot claw with a claw mount built to hold some sort of sprinkler or pump that waters plants when a soil moisture sensor alerts it to. The robot arm will switch to 4DOF for this, and on the opposite side of the arm link, I will also add another claw mount built to aim a grow light at the plant when a grove light sensor tells it to. Water pump aspect I'm working on, grow light is still just a thought right now.
 
-3d ago
+4d ago
 
 ---
 
@@ -110,9 +110,17 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+
+For most of its short history, AI lived behind a screen.
+
+SemiAnalysis • 8h ago
+
+---
+
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-WSJ • 14h ago
+WSJ • 19h ago
 
 ---
 
@@ -126,23 +134,15 @@ Reuters • 2d ago
 
 Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
 
-Automotive News • 12h ago
+Automotive News • 17h ago
 
 ---
 
-**[Exclusive: Mistral robotics chief seeks €200m for new startup](https://sifted.eu/articles/exclusive-mistral-robotics-chief-seeks-e200m-for-new-startup)**
+**[General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours](https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/)**
 
-French AI scaleup Mistral launched its own robotics business unit last year.
+A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars.
 
-Sifted • 20h ago
-
----
-
-**[XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public](https://qz.com/xtend-ai-robotics-ceo-on-firms-next-chapter-after-going-public)**
-
-XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public
-
-qz.com • 2h ago
+GeekWire • 13h ago
 
 ---
 
@@ -154,27 +154,17 @@ Futurism • 1d ago
 
 ---
 
-**[Arm brings the ecosystem together to build and define the next phase of physical AI](https://newsroom.arm.com/news/arm-total-design-and-robotics-capability-framework-for-physical-ai)**
-
-Arm expands Total Design for Physical AI and introduces a Robotics Capability Framework to help accelerate autonomous systems.
-
-Arm Newsroom • 1d ago
-
----
-
 **[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
 
 Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
 
-Boston.com • 8h ago
+Boston.com • 12h ago
 
 ---
 
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+**[Hugging Face Is Making A Big Robotics Push](https://www.theinformation.com/newsletters/applied-ai/hugging-face-making-big-robotics-push)**
 
-For most of its short history, AI lived behind a screen.
-
-SemiAnalysis • 4h ago
+theinformation.com • 1d ago
 
 ---
 
@@ -182,7 +172,15 @@ SemiAnalysis • 4h ago
 
 Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-newatlas.com • 1d ago
+New Atlas • 1d ago
+
+---
+
+**[XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public](https://qz.com/xtend-ai-robotics-ceo-on-firms-next-chapter-after-going-public)**
+
+XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public
+
+qz.com • 7h ago
 
 ---
 
@@ -196,7 +194,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 188K • 👍 3K • 💬 521 • ⏱️ 5:02 • 22h ago
+👁️ 247K • 👍 4K • 💬 639 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 6K • 👍 51 • 💬 5 • ⏱️ 3:39 • 10h ago
+👁️ 12K • 👍 70 • 💬 8 • ⏱️ 3:39 • 15h ago
 
 ---
 
@@ -216,7 +214,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 29K • 👍 444 • 💬 48 • ⏱️ 15:17 • 4d ago
+👁️ 30K • 👍 447 • 💬 47 • ⏱️ 15:17 • 4d ago
 
 ---
 
@@ -226,35 +224,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 67K • 👍 1K • 💬 140 • ⏱️ 5:52 • 20h ago
-
----
-
-**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
-
-A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
-
-📺 CBS Chicago
-
-👁️ 298K • 👍 2K • 💬 645 • ⏱️ 1:44 • 6d ago
-
----
-
-**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
-
-📺 Opac24MLB
-
-👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:16 • 8h ago
-
----
-
-**[These tiny robots can remove microplastics from soil🔬 #trendingshorts #robot #tech #science](https://www.youtube.com/watch?v=J1tXex4thQI)**
-
-Researchers in the Czech Republic have built microscopic robots that pull microplastics out of contaminated soil and water.
-
-📺 The Rundown AI
-
-👁️ 15K • 👍 1K • 💬 33 • ⏱️ 1:00 • 2d ago
+👁️ 97K • 👍 2K • 💬 176 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -264,7 +234,35 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 197K • 👍 2K • 💬 467 • ⏱️ 3:47 • 6d ago
+👁️ 198K • 👍 2K • 💬 468 • ⏱️ 3:47 • 6d ago
+
+---
+
+**[Video of Coco delivery robots swarm in Lincoln Park goes viral as residents vent frustrations](https://www.youtube.com/watch?v=ZV77XNExrlo)**
+
+A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as residents vented frustration about traffic jams on ...
+
+📺 CBS Chicago
+
+👁️ 299K • 👍 2K • 💬 645 • ⏱️ 1:44 • 6d ago
+
+---
+
+**[New robot match loading #automobile #howtogetheroplayersinluckyspin #lego #robot #machine #robotics](https://www.youtube.com/watch?v=yTyamW5-bzs)**
+
+📺 6210H Halapeños
+
+👁️ 13K • 👍 46 • 💬 1 • ⏱️ 0:08 • 2d ago
+
+---
+
+**[Chinese Humanoid Robot Unleashes a Flurry of Attacks at Customers in Russian Shop](https://www.youtube.com/watch?v=QuEsD-IyThM)**
+
+A Chinese robot appeared to malfunction attacking customers at an electronics shop in Russia. #russia #china #robot #electronics ...
+
+📺 New York Post
+
+👁️ 60K • 👍 817 • 💬 275 • ⏱️ 1:16 • 6d ago
 
 ---
 
@@ -274,17 +272,17 @@ Generalist co-founder Pete Florence and Joe Lonsdale discuss why humanoid robots
 
 📺 Joe Lonsdale
 
-👁️ 56K • 👍 422 • 💬 41 • ⏱️ 8:34 • 6d ago
+👁️ 57K • 👍 428 • 💬 42 • ⏱️ 8:34 • 6d ago
 
 ---
 
-**[This Robot uses artificial muscles instead of motors!](https://www.youtube.com/watch?v=1rBjJ10VH2M)**
+**[Imagine a future where smart AI robots help elderly pilgrims in Makkah 🤖🕋 #robotictechnology#shorts](https://www.youtube.com/watch?v=9NI8HPLWKT8)**
 
-Most robots look human from the outside. Clone Alpha was built human from the inside. The engineering decisions behind this ...
+Imagine a future where smart AI robots help elderly pilgrims in Makkah ❤️ This AI-generated video shows a futuristic ...
 
-📺 Mangesh Shinde Shorts
+📺 Islamic_ jaankari 
 
-👁️ 30K • 👍 2K • 💬 33 • ⏱️ 0:59 • 12h ago
+👁️ 10K • 👍 575 • 💬 1 • ⏱️ 0:21 • 17h ago
 
 ---
 
