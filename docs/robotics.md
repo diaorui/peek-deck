@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-09T22:59:24.369178+00:00'
+updated: '2026-09-10T00:59:14.451425+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 09, 2026 at 22:59 UTC  
+**Last Updated:** September 10, 2026 at 00:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I'm a sophomore student in Meche and this is my first robot so it took about 2 m
 
 I wanted to share this project i've been working on for a few months now. It's a breakaway collar that i made for a my cat, who gets stuck behind doors she can't open for 6 hours on end. It allows her to "talk" to us. And more specifically for us to find her wherever she is in case of any emergency. (This is not that, at least not entirely, this is a proof of concept that will nowhere near reach that, 5mins max with supervision by me) BRIEF It's a whole pipeline, that starts from an ESP32 and all the fun things about detecting a voice, and not chairs creaking. It gets sent over the network to a dedicated server (laptop) that does all the fun stuff. Like translation from Whisper (STT) then to and ollama model who does the thinking, in line with the persona injected into it, and extra context about what "Luna" is doing right now (more on that in a bit), then it feeds into Piper (TTS) which turns it back into a voice and over the network again and played on the ESP32. And with a time to speech, from my last uttered word, to her first of 1.5s. It's very conversational. Sorry if I said "baby" alot in the video, it's the "wake" word to get pass 1 of 12 filters in my pipeline. Tried "Luna" before hand but it was a hit or a miss with the faster-whisper models and my preferences for responsiveness for a conversation with my cat. First time I've said that sentence in my life huh. SAFETY & CONCERNS Every one of your concerns are valid and let me address each one here. Tightness: Luna is a longhaired cat, so on her it might look "tight" but she's just very furry. There is a 2 finger wiggle room between neck and the collar. And the inline of the collar has a satin Silk lining so her fur doesn't rub against it. Weight: The collar ended up weighing 160g (after many many design and part iterations until they met my standards) and she weighs 12.3lb. Meaning a collar to body ration of 2.87%. Which is well below the MAX recommended attachment weight for any mammal of 5%. And in the video you can see in the video that she walks around, grooms herself, and jumps with it perfectly fine. Breakaway: The collar itself is latch at the nape by 8 tiny neo magnets. So quite literally at a flinch it comes of or any sort of sudden movement. Or well, her taking it off herself. Yeah newton level feline somehow learned to get dexterous and use her arm to take it off as shown in the last clip. Volume: The speaker itself is a tiny adafruit special speaker, because to my surprise, regular off the shelf "small" 3W 8-Ohm speakers are really heavy. And it's pointed away from her ear, and in post I increased the volume of her speech. The volume is also hardware limited by the gain pin on the amp. Size: Now this is my current hurdle. The size is fine. Key word, fine. Luna wears the collar perfectly fine, but there is a time limit on that. She gets annoyed by how "bulky" it is when she tries to lay down. And takes it off. (I'll address the fix for the next version below) Context What I want to push home here is I didn't exactly stuff a whole "personified" chat bot into this. It does have real time feedback and context updates. Let me explain. For now on the collar I have to sensors that act like "Context" for Ollama. So first the motion sensor. It pretty tracks her movement in states. The only important state for now is "Running" so when enough movement is detected it fires and outburst is what I call it. What my outburst do is pretty much gaslight an "interaction" that never happened into Ollama history, and since it believes every word it says it will keep that "Context" alive for as many turns as needed (3 turns in my case). So pretty much shoving a preloaded interaction like. (You) Stop running! (Luna) The doors are whispering to me. So then if in the next 3 turns/interactions i ask why she was running she will give a response with that context. Not something random. The second sensor is a piezo ribbon cable, yes that exist, look it up it's sick. That was supposed to detect purrs. WAS is the keyword here. Seem at her neck they are too "quiet" and overwritten by the static bend in the ribbon itself. Currently If theres anything you guys want me to clarify please go right ahead. I'm open to constructive feedback. I'm trying to not go in the details here cuz I'm new to the sub in all. :) But so far I'd consider this "done" for v1, as a proof of concept/prototype. And Luna only wears it for a few minutes and takes it off. I'd say that's perfect for this version at least. But there is a reason why i'm calling this v1. Problems/Help Right now for version 2. I'm looking to improve it on everything in general, but more specially. SIZE. hehe. Cuz for weight honestly it's just dropping one of the 2 batteries on the nape, cuz 1 is more than enough, would just need to fix up center of mass. My ideas so far for the size, is well, when i can afford it atleast, make it on long flex PCB instead of the "parts" that it is now, with that get an smd oven so I can shrink everything, and maybe just buy say the ESP32 Antenna and Microcontroller separately and just work from there, no more solid board or any "extra" board that i'd need to make room for. Keep everything on 1 line. Funny enough now i realized I'm playing the rocket equation here. For me it's weight, size, and functionality. Apart from that, reducing weight and size. if I can I want to get it below 100g, closer to actual tracker collar on the market. Honestly I think just getting rid of 1 battery is enough for that. I'd have to check tho. And if I can squeeze some wiggle room add some more sensors for more context, like a 3d tracker instead of simple motion. or tag readers near her bowl, litter, or bed. (Just to clarify too, she isn't allowed to wear this v1 outside my room, so none of the above lmao) Maybe a tail imaging pipeline cuz her tail is abnormally long and expressive for a cat. Body temp would be easy i think too. But yeah. And no she's not wearing this anymore. Since I finished with my documentation video for this project, I'm not gonna make her wear another collar any time soon, until I start v2. I'm asking for some clarifications here if anyone ever used a flex PCB, and if my "easy going" way of it like it's a normal PCB is unfounded. And well any other tips to save weight or size that I've missed.
 
-3d ago
+4d ago
 
 ---
 
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
 
-WSJ • 12h ago
+WSJ • 14h ago
 
 ---
 
@@ -126,7 +126,7 @@ Reuters • 2d ago
 
 Automakers including BMW, Renault and Mercedes are trialing humanoid robots on factory floors despite battery limitations, insufficient dexterity and costs ranging from $20,000 to $200,000 per unit, raising questions about deployment timelines.
 
-Automotive News • 10h ago
+Automotive News • 12h ago
 
 ---
 
@@ -134,31 +134,15 @@ Automotive News • 10h ago
 
 French AI scaleup Mistral launched its own robotics business unit last year.
 
-Sifted • 18h ago
+Sifted • 20h ago
 
 ---
 
-**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+**[XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public](https://qz.com/xtend-ai-robotics-ceo-on-firms-next-chapter-after-going-public)**
 
-For most of its short history, AI lived behind a screen.
+XTEND AI Robotics CEO Aviv Shapira on firm’s next chapter after going public
 
-SemiAnalysis • 2h ago
-
----
-
-**[Industry Insights: Andreessen Horowitz is Better $1.1B on Robotics](https://www.automate.org/robotics/industry-insights/what-happens-when-a16z-starts-investing-in-robotics)**
-
-Andreessen Horowitz's $1.1 billion Machine Age Fund will back hardware startups that contribute to physical AI.
-
-A3 Association for Advancing Automation • 2h ago
-
----
-
-**[What bricklaying has taught Monumental about robots in construction](https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/)**
-
-The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet.
-
-The Robot Report • 1h ago
+qz.com • 2h ago
 
 ---
 
@@ -166,7 +150,7 @@ The Robot Report • 1h ago
 
 Roughly a dozen Coco delivery robots swarmed a busy Chicago sidewalk due to an apparent glitch, frustrating residents.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
@@ -178,11 +162,27 @@ Arm Newsroom • 1d ago
 
 ---
 
+**[ICE plans to buy Boston Dynamics’ robot dogs](https://www.boston.com/news/local-news/2026/09/09/ice-plans-to-buy-boston-dynamics-robot-dogs/)**
+
+Boston Dynamics says ICE would have to follow the same terms and ethical rules as every other customer, including a ban on weaponizing them.
+
+Boston.com • 8h ago
+
+---
+
+**[Where Does a Robot Think – On-Device vs Datacenter Inference](https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device)**
+
+For most of its short history, AI lived behind a screen.
+
+SemiAnalysis • 4h ago
+
+---
+
 **[Robotic fish swims like the real thing, and can be built to any size](https://newatlas.com/robotics/scafi-scalable-robotic-fish/)**
 
 Nature is undoubtedly the smartest engineer. Scientists have borrowed ideas from armadillos, elephants and birds to build robots capable of doing things that conventional man-made machines struggle with. Now, researchers at New York University's Tandon School of Engineering have turned to fish.
 
-New Atlas • 1d ago
+newatlas.com • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 188K • 👍 3K • 💬 521 • ⏱️ 5:02 • 20h ago
+👁️ 188K • 👍 3K • 💬 521 • ⏱️ 5:02 • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 6K • 👍 51 • 💬 5 • ⏱️ 3:39 • 8h ago
+👁️ 6K • 👍 51 • 💬 5 • ⏱️ 3:39 • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 67K • 👍 1K • 💬 140 • ⏱️ 5:52 • 18h ago
+👁️ 67K • 👍 1K • 💬 140 • ⏱️ 5:52 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ A video of a swarm of Coco delivery robots in Lincoln Park has gone viral as res
 
 📺 Opac24MLB
 
-👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:16 • 6h ago
+👁️ 2K • 👍 41 • 💬 1 • ⏱️ 0:16 • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ Most robots look human from the outside. Clone Alpha was built human from the in
 
 📺 Mangesh Shinde Shorts
 
-👁️ 30K • 👍 2K • 💬 33 • ⏱️ 0:59 • 10h ago
+👁️ 30K • 👍 2K • 💬 33 • ⏱️ 0:59 • 12h ago
 
 ---
 

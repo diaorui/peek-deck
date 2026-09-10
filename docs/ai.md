@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-09T22:59:24.358178+00:00'
+updated: '2026-09-10T00:59:14.440921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - repositories
 - videos
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 09, 2026 at 22:59 UTC  
+**Last Updated:** September 10, 2026 at 00:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 A mother’s viral video reveals how Meta AI surfaced deleted photos and personal data, prompting her to warn parents about sharing children’s images online. Meta claims the issue is resolved.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 7h ago
+🔗 [Tech Times UK](https://www.techtimes.co.uk/mother-warns-parents-meta-ai-reveals-deleted-photos-1808616) • 9h ago
+
+---
+
+**[Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
+
+Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour.
+
+🔗 [Gadget Review](https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch) • 7h ago
 
 ---
 
@@ -49,7 +57,7 @@ A mother’s viral video reveals how Meta AI surfaced deleted photos and persona
 
 Before anyone gets annoyed by the title, this is not a post saying nationalise OpenAI. It is about one thing the market is visibly failing at right now and one thing socialists have always been right about, and they are the same thing. Some numbers first because otherwise this is just vibes. Amazon, Microsoft, Alphabet and Meta have guided somewhere between 720 and 745 billion dollars of capex for 2026. Nearly all of it AI infrastructure. The entire US federal R&D budget across every agency including defence was about 192 billion last year. NIH is 47 billion. So four companies are spending roughly 15x the world's biggest medical research funder on one technology in one year. AI companies took 61 percent of all global venture capital in 2025 per the OECD. In Q1 2026 it was around 80 percent per Crunchbase. Four rounds (OpenAI, Anthropic, xAI, Waymo) were 65 percent of every venture dollar on the planet that quarter. Now look at where that money does not go. The WHO's 2025 pipeline review found 90 antibacterial agents in clinical development, down from 97 in 2023. 15 are innovative. 5 work against a critical priority pathogen. This is the drug class where resistance is already killing people and the pipeline is shrinking. The thing i find interesting is that nobody is being greedy or stupid here. There is a 2015 paper in the American Economic Review (Budish, Roin and Williams) that looks at cancer clinical trials and shows private research systematically avoids projects with long commercialisation periods. Prevention and early stage trials take years longer to prove out than late stage trials so they get less money. Not a correlation, they identify it properly. The length of the feedback loop alone changes what gets funded. Same logic applies to AI. A writing assistant has a customer who pays next month and feedback in days. A diagnostic model for rural hospitals has a customer who cannot pay, a feedback loop in years and regulators on top. Capital is water, it runs downhill, and it will pick the writing assistant every time regardless of which one matters more. So here is where the socialists are right. Someone other than the market has to decide that certain problems get worked on. Every big example of this working was basically that. Apollo employed 400,000 people on a problem with no consumer market. The Human Genome Project cost 2.7 billion and dumped the data into the public domain and the sequencing cost curve fell off a cliff afterwards. There is a 2023 AER paper (Gross and Sampat) showing wartime R&D created tech clusters that were still producing companies in the 1970s. And here is where they are wrong. None of those needed the state to build the thing. It needed the state to be the customer. Pay for the outcome before it exists, let private teams compete, publish the result. The UK is already running this for antibiotics, an annual subscription for access to the drug instead of paying per dose, which is the exact fix for the antibiotic incentive problem. The five things that would actually move talent, in my view : guaranteed demand contracts, prizes paid on outcome, patient sovereign capital, public compute that university researchers can actually reserve, and for countries like India, stop building the fourth best chatbot and pick two problems where you have data nobody else has. Genuinely curious if people here think there is a version of this that does not end up as a prestige project or pork. The paper has a limitations section that i think is honest about that and everything but happy to be told i'm wrong. Disclosure : i wrote the paper this is based on. Not selling anything, it's free. Link in a comment so this post stands on its own.
 
-11h ago
+13h ago
 
 ---
 
@@ -59,11 +67,19 @@ Before anyone gets annoyed by the title, this is not a post saying nationalise O
 
 ---
 
-**[Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks](https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/)**
+**[AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity](https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/)**
 
-Anthropic built a 24/7 intelligence operation to monitor AI activists, classifying dissent alongside terrorism while paying security guards just $22 an hour.
+Canada's artificial intelligence minister says Ottawa is monitoring the risks posed by AI as researchers at tech giant Anthropic warn that the increasingly powerful technology could potentially eradicate all human
 
-🔗 [Gadget Review](https://www.gadgetreview.com/anthropic-is-building-ai-to-predict-which-activists-police-should-watch) • 5h ago
+🔗 [Toronto Star](http://thestar.com/politics/federal/ai-minister-says-warnings-are-not-new-as-experts-predict-the-technology-could-wipe-out-humanity/article_41ea49e9-c9f7-4f6e-80af-7d77341b016c.html) • 2h ago
+
+---
+
+**[If AI solves a Millennium Prize problem using ideas from human research, who gets the credit?](https://www.reddit.com/r/artificial/comments/1wc3oue/if_ai_solves_a_millennium_prize_problem_using/)**
+
+The flywheel effect is an interesting effect I discovered while researching. It makes the whole thing a self-reinforcing loop. When a human researcher uses an AI tool, or even just their own brain, to post or test a raw math theory and uploads it somewhere on the internet, they might post their progress on arXiv or somewhere else online. Then, AI companies might scrape it to train the next model, which could be the very reason the problem eventually gets solved intuitively. So my main question is: How do we assign credit when AI solves a Millennium Prize problem?
+
+20m ago
 
 ---
 
@@ -71,45 +87,29 @@ Anthropic built a 24/7 intelligence operation to monitor AI activists, classifyi
 
 “The people building AI earnestly believe that it could kill us all by the end of the decade.”
 
-🔗 [CNN](https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 7h ago
+🔗 [CNN](https://www.cnn.com/2026/09/09/tech/ai-anthropic-safety?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 9h ago
 
 ---
 
-**[AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity](https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/)**
+**[Neural Vocals: Voice Cloning & Timbre Transfer · Trust Node Logic](https://www.reddit.com/r/artificial/comments/1wc3jcq/neural_vocals_voice_cloning_timbre_transfer_trust/)**
 
-Canada's artificial intelligence minister says Ottawa is monitoring the risks posed by AI as researchers at tech giant Anthropic warn that the increasingly powerful technology could potentially eradicate all human
+Neural voice synthesis and vocal transformation explained: voice cloning, formant shifting, timbre transfer, and how AI rebuilds a vocal performance.
 
-🔗 [Toronto Star](http://thestar.com/politics/federal/ai-minister-says-warnings-are-not-new-as-experts-predict-the-technology-could-wipe-out-humanity/article_41ea49e9-c9f7-4f6e-80af-7d77341b016c.html) • 21m ago
+🔗 [Trust Node Logic](https://trustnodelogic.com/neuralvocals.html) • 26m ago
+
+---
+
+**[Apple adds Audio Intelligence to Watch Series 12](https://www.reddit.com/r/artificial/comments/1wbw4do/apple_adds_audio_intelligence_to_watch_series_12/)**
+
+Apple is adding Audio Intelligence to Apple Watch Series 12 and Ultra 4. The features include Sound Recognition, Live Rewind for the previous 15 seconds as a text snippet, Siri Recap for high-level summaries, and Shazam. Apple says raw audio is processed in the S11 chip's Secure Exclave and immediately deleted. Live Rewind and Siri Recap are opt-in beta features arriving later this year, require an Apple Intelligence-enabled iPhone 16 or later, and will not initially be available in the EU. The useful part is the privacy boundary. Apple says the features do not store audio or identify speakers, while Live Rewind shows a full-screen indicator and plays a chime when active. The catch is that the headline features are still beta and some server-backed features have daily limits. For work conversations, clear consent and visible cues matter as much as the summary quality. Sources: Apple: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ 9to5Mac: https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/
+
+5h ago
 
 ---
 
 **[Anthropic researcher quits over AI fears](https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 22h ago
-
----
-
-**[I built this while looking into how much AI could affect different jobs](https://www.reddit.com/r/artificial/comments/1wbiei0/i_built_this_while_looking_into_how_much_ai_could/)**
-
-I’ve been building something called rolefate.com in my spare time. I want it to be more of a documentation and reference resource for understanding how AI is affecting different occupations and tasks. I kept seeing all these “this job will disappear” or “AI will replace this in 3 years” type of claims, but most of them felt pretty vague. So mostly out of curiosity, I wanted to put together something a bit more structured and based on actual data. On the site you can search for an occupation and see how much it might be affected by AI, which tasks look easier to automate, and things like that. I also try to show the sources behind the data wherever possible. Later I added an AI Radar section too: https://rolefate.com/ai-radar That part is basically my attempt to track how much AI models are actually improving over time. It brings together data from different sources around things like coding, math, long-running tasks, etc. I didn’t want it to be one of those sites saying “this will definitely happen by 2029.” I’d rather have it show what the available data seems to be pointing toward and let people make their own conclusions. Still working on it, so if you notice anything that looks wrong, missing, or just doesn’t make sense, especially on the data side, I’d genuinely like to hear it.
-
-11h ago
-
----
-
-**[Seems impressive](https://www.reddit.com/r/artificial/comments/1way48b/seems_impressive/)**
-
-I don't know much about math or CS - but this seems big.
-
-1d ago
-
----
-
-**[Another Microsoft team admits it’s struggling to handle flood of AI-generated code](https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/)**
-
-Increase in vibe-coded browser extensions sees Edge team automate quality assessments
-
-🔗 [theregister](https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185) • 3h ago
+🔗 [wsj.com](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp) • 1d ago
 
 ---
 
@@ -117,77 +117,73 @@ Increase in vibe-coded browser extensions sees Edge team automate quality assess
 
 ## Google News: "ai"
 
-**['Gambling with our lives': AI researcher quits Anthropic](https://www.yahoo.com/news/politics/articles/theyre-playing-lives-ai-researcher-093308501.html)**
+**[Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity](https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html)**
 
-An artificial intelligence researcher who left OpenAI to join Anthropic has decided to leave the industry, accusing both US companies of "gambling with our lives" in the race to develop AI models capa...
-
-Yahoo • 6h ago
+The New York Times • 4h ago
 
 ---
 
-**[AI could kill all humans in next decade, warn experts: but how seriously should we take them?](https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians)**
+**[NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem](https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem)**
 
-Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence
+NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX™ AI factories, supporting the nation’s growing demand for AI compute — with up to a 2-gigawatt buildout by 2027.
 
-The Guardian • 5h ago
-
----
-
-**[Apple has a new way to prove your iPhone photos aren’t AI slop](https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/)**
-
-Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.
-
-TechCrunch • 4h ago
+nvidianews.nvidia.com • 49m ago
 
 ---
 
-**[Apple Watch Series 12 has an always-on Siri that makes AI recaps of your day](https://www.theverge.com/tech/991812/apple-watch-series-12-announcement)**
+**[Ant International partners with Visa, Mastercard on developing AI payments](https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html)**
 
-The Watch is listening.
+Visa, Mastercard and Ant International are working on common standards for AI-agent payments — including ways to verify and monitor their transactions.
 
-The Verge • 5h ago
-
----
-
-**[Apple Is Actually Talking About AI Now — a Lot](https://www.cnet.com/tech/services-and-software/apple-is-actually-talking-about-ai-now-a-lot/)**
-
-New CEO John Ternus says you already have your personal AI device. It’s called an iPhone.
-
-CNET • 28m ago
+CNBC • 59m ago
 
 ---
 
-**[OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’](https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html)**
+**[The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window/)**
 
-The New York Times • 1d ago
+Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
 
----
-
-**[On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/)**
-
-We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
-
-OpenAI • 12h ago
+OpenAI • 1h ago
 
 ---
 
-**[The Fight Over OpenAI’s Math Breakthrough Is a New Kind of Scientific Arms Race](https://gizmodo.com/the-fight-over-openais-math-breakthrough-is-a-new-kind-of-scientific-arms-race-2000809240)**
+**[60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality](https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html)**
 
-Gizmodo • 2h ago
+The New York Times • 4h ago
+
+---
+
+**[EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say](https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/)**
+
+Reuters • 4h ago
 
 ---
 
 **[Treasury CIO pulled from AI work after upsetting West Wing](https://www.politico.com/news/2026/09/09/treasury-cio-pulled-from-ai-work-after-upsetting-west-wing-01069562)**
 
-Politico • 1h ago
+Politico • 3h ago
 
 ---
 
-**[James Talarico says Ken Paxton is "lying to the people of Texas" with AI ad that puts "words in my mouth"](https://www.cbsnews.com/news/james-talarico-interview-ken-paxton-texas-senate-2026/)**
+**[Anthropic Is Building a Predictive Surveillance System to Monitor Activists](https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/)**
 
-Democrat James Talarico told CBS News' Ed O'Keefe he won't use AI in political advertising in the race for the Texas U.S. Senate seat, adding, "every ad that we put out is made by human beings."
+The American Prospect • 15h ago
 
-CBS News • 3h ago
+---
+
+**[Meta stock surges with Wall Street bullish on new AI agent](https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html)**
+
+Meta stock rallied more than 5% on Wednesday.
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Google to fund Finnish AI with €13bn investment and nuclear power pact](https://www.bbc.com/news/articles/c8r6y4me2g6o)**
+
+The US tech giant says the €13bn data centre project will create tens of thousands of jobs.
+
+BBC • 7h ago
 
 ---
 
@@ -199,7 +195,7 @@ CBS News • 3h ago
 
 LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…
 
-⬆️ 702 • 💬 234 • 1d ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+⬆️ 702 • 💬 235 • 1d ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
 
 ---
 
@@ -207,7 +203,7 @@ LibreOffice 26.8 became the app’s most popular update, with over 1 million dow
 
 Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.
 
-⬆️ 634 • 💬 691 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
+⬆️ 638 • 💬 703 • 1d ago • [ai.meta.com](https://ai.meta.com/muse/)
 
 ---
 
@@ -217,7 +213,7 @@ I wrote recently about how the collection of good, fruitful open problems is now
 
 One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)
 
-⬆️ 466 • 💬 397 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
+⬆️ 468 • 💬 402 • 1d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
@@ -233,13 +229,13 @@ One can easily generate any number of open problems in mathematics at will, such
 
 Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.
 
-⬆️ 336 • 💬 267 • 5h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+⬆️ 364 • 💬 300 • 7h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 ---
 
 **[How An AI math breakthrough ignited a controversy](https://news.ycombinator.com/item?id=49624163)**
 
-⬆️ 210 • 💬 222 • 12h ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+⬆️ 211 • 💬 227 • 14h ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
@@ -248,6 +244,14 @@ Apple today announced AirPods 5, delivering the industry’s best Active Noise C
 The air traffic control body has said sorry for the disruption, and that they are working "as hard as possible to clear the backlog".
 
 ⬆️ 126 • 💬 119 • 1d ago • [BBC News](https://www.bbc.com/news/live/c6x2z0yy32ejt)
+
+---
+
+**[Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://news.ycombinator.com/item?id=49636345)**
+
+The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.
+
+⬆️ 111 • 💬 42 • 1h ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
 
 ---
 
@@ -265,12 +269,6 @@ $12,431 in fake invoices, 2,797 spam emails, $0 revenue.
 
 ---
 
-**[I refused to train the AI that could replace me](https://news.ycombinator.com/item?id=49593959)**
-
-⬆️ 97 • 💬 114 • 2d ago • [restofworld.org](https://restofworld.org/2026/ai-training-jobs-expert-replacement/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +279,7 @@ Former Anthropic researcher Jacob Coxon warns that AI could kill all of humanity
 
 📺 CNBC Television
 
-👁️ 22K • 👍 327 • 💬 195 • ⏱️ 3:46 • 6h ago
+👁️ 22K • 👍 327 • 💬 195 • ⏱️ 3:46 • 8h ago
 
 ---
 
@@ -291,7 +289,7 @@ Anthropic researcher Jacob Coxon quit his job, alleging that neither Anthropic n
 
 📺 CBS News
 
-👁️ 30K • 👍 388 • 💬 146 • ⏱️ 2:50 • 9h ago
+👁️ 30K • 👍 388 • 💬 146 • ⏱️ 2:50 • 11h ago
 
 ---
 
@@ -301,7 +299,7 @@ A top safety researcher at Anthropic has warned AI is advancing so quickly he be
 
 📺 BBC News
 
-👁️ 22K • 👍 707 • 💬 348 • ⏱️ 8:09 • 3h ago
+👁️ 22K • 👍 707 • 💬 348 • ⏱️ 8:09 • 5h ago
 
 ---
 
@@ -311,7 +309,7 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 178K • 👍 21K • 💬 2K • ⏱️ 1:43 • 6h ago
+👁️ 178K • 👍 21K • 💬 2K • ⏱️ 1:43 • 8h ago
 
 ---
 
@@ -321,7 +319,7 @@ Former governance team member at Open AI Daniel Kokotajlo says humans “might n
 
 📺 Channel 4 News
 
-👁️ 7K • 👍 385 • 💬 155 • ⏱️ 1:08 • 5h ago
+👁️ 7K • 👍 385 • 💬 155 • ⏱️ 1:08 • 7h ago
 
 ---
 
@@ -331,7 +329,7 @@ Instagram Trending 80s Look Photo Editing Prompt | Viral 80s Look Ai Photo Editi
 
 📺 Tarun XYZ
 
-👁️ 115K • 👍 254 • 💬 30 • ⏱️ 2:32 • 13h ago
+👁️ 115K • 👍 254 • 💬 30 • ⏱️ 2:32 • 15h ago
 
 ---
 
@@ -349,7 +347,7 @@ An AI-designed drug just produced a result nobody expected. Six independent agin
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 126 • ⏱️ 14:31 • 22h ago
+👁️ 61K • 👍 1K • 💬 126 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -359,7 +357,7 @@ A top safety researcher at the AI giant Anthropic has warned that artificial int
 
 📺 BBC News
 
-👁️ 54K • 👍 563 • 💬 277 • ⏱️ 17:40 • 6h ago
+👁️ 54K • 👍 563 • 💬 277 • ⏱️ 17:40 • 8h ago
 
 ---
 
@@ -397,7 +395,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 2,879 • ❤️ 900 • 15h ago
+⬇️ 2,879 • ❤️ 900 • 17h ago
 
 ---
 
@@ -645,7 +643,7 @@ A privacy-first app that strips AI watermarks from content you own.
 
 `Python` `agent-skill` `ai` `anthropic` `c2pa` `chatgpt`
 
-⭐ 21.5k • 🔱 2.5k • 21h ago
+⭐ 21.5k • 🔱 2.5k • 23h ago
 
 ---
 
@@ -655,7 +653,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.6k • 🔱 560 • 5h ago
+⭐ 4.6k • 🔱 560 • 7h ago
 
 ---
 
@@ -665,7 +663,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `HTML`
 
-⭐ 4.2k • 🔱 251 • 10h ago
+⭐ 4.2k • 🔱 251 • 12h ago
 
 ---
 
@@ -685,7 +683,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 452 • 22m ago
+⭐ 3.5k • 🔱 452 • 2h ago
 
 ---
 
@@ -715,7 +713,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 81 • 13h ago
+⭐ 2.2k • 🔱 81 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-09T22:59:24.367268+00:00'
+updated: '2026-09-10T00:59:14.449647+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 09, 2026 at 22:59 UTC  
+**Last Updated:** September 10, 2026 at 00:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,488.55
+### $2,464.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.2%  
-**7d:** -2.0%  
-**30d:** +30.4%  
-**90d:** +47.4%  
-**1y:** -43.6%  
+**24h:** -1.3%  
+**7d:** +0.4%  
+**30d:** +31.2%  
+**90d:** +46.6%  
+**1y:** -44.8%  
 
 ---
 
@@ -172,21 +172,7 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 DUBAI, United Arab Emirates, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto announces a milestone: the new crypto now counts more than 43,000 presale...
 
-markets.businessinsider.com • 21m ago
-
----
-
-**[Crypto News: Pepeto Announces Final Binance Listing Steps While the Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-final-binance-listing-steps-while-the-ethereum-price-prediction-targets-10-000-1036533745)**
-
-Dubai, UAE, Sept.  09, 2026  (GLOBE NEWSWIRE) -- Pepeto, the viral crypto running on Ethereum, announces its Binance debut is down to the last tas...
-
-markets.businessinsider.com • 3h ago
-
----
-
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
-
-coindesk.com • 7h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -194,7 +180,13 @@ coindesk.com • 7h ago
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 8h ago
+Fortune • 10h ago
+
+---
+
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+
+CoinDesk • 9h ago
 
 ---
 
@@ -202,7 +194,7 @@ Fortune • 8h ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -210,7 +202,7 @@ finance.yahoo.com • 1d ago
 
 Leading cryptocurrencies fell on Tuesday as traders awaited key inflation data for clues on the Federal Reserve’s interest rate policy.Crypto Market Sees Selling PressureBitcoin slid below $78,000 as trading volume jumped nearly 50% in the last 24 hours. Ethereum‘s advance stalled at $2,500, while…
 
-TradingView • 20h ago
+tradingview.com • 22h ago
 
 ---
 
@@ -218,7 +210,13 @@ TradingView • 20h ago
 
 Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.
 
-theblock.co • 1d ago
+The Block • 1d ago
+
+---
+
+**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://www.etf.com/sections/features/crypto-etfs-2026-bitcoin-ethereum-and-altcoin-wave-explained)**
+
+etf.com • 6h ago
 
 ---
 
@@ -226,7 +224,7 @@ theblock.co • 1d ago
 
 At a price of just $2,500, Ethereum could be significantly undervalued.
 
-fool.com • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -240,7 +238,7 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 904 • 💬 200 • ⏱️ 28:10 • 13h ago
+👁️ 13K • 👍 904 • 💬 200 • ⏱️ 28:10 • 15h ago
 
 ---
 
@@ -250,7 +248,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 26 • 💬 95 • ⏱️ 5:04 • 13h ago
+👁️ 2K • 👍 26 • 💬 95 • ⏱️ 5:04 • 15h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN WARNING: LIQUIDATIONS ARE HERE (Price Target)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 1K • 👍 156 • 💬 29 • ⏱️ 18:25 • 2h ago
+👁️ 1K • 👍 156 • 💬 29 • ⏱️ 18:25 • 4h ago
 
 ---
 
@@ -300,7 +298,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 14K • 👍 300 • 💬 23 • ⏱️ 12:04 • 1d ago
+👁️ 14K • 👍 300 • 💬 23 • ⏱️ 12:04 • 2d ago
 
 ---
 
@@ -318,7 +316,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Tyler Hill Crypto
 
-👁️ 982 • 👍 35 • 💬 3 • ⏱️ 1:14 • 9h ago
+👁️ 982 • 👍 35 • 💬 3 • ⏱️ 1:14 • 11h ago
 
 ---
 
@@ -328,7 +326,7 @@ BITCOIN, ETHEREUM, XRP & CRYPTO CLARITY ACT BREAKING NEWS!  #BTC #ETH #XRP #Cryp
 
 📺 Crypto AiMan
 
-👁️ 18 • 👍 2 • ⏱️ 0:58 • 29m ago
+👁️ 18 • 👍 2 • ⏱️ 0:58 • 2h ago
 
 ---
 
