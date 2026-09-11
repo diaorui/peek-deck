@@ -5,84 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDRRd1R2UndNOUhlXzZFSXlIc19RNDlaZlZLWVYyeEc2QmotdnFweGdqRE1DNUZYZWNDemxhMFRBU1RGSlpJRFhScGVxN1FJN0dYUTZVS0pBYVdlakIxMjcxZ2VWalVHM2V3MWRiaV83OThiRmtiNUo1blNTQ3F2R1VJRmNQTml4VTFGYlF4NHdWV2NFS1N6ZG5pZ3hPTHJQNUw5WWdBNnY0aWNYaE9HNjNFLTNiNm1ial9RM1pfQXhLaTVreUtjY2RxbTFGNVl6VFFxWktSTXowREplcG4zaw?oc=5",
-      "pub_date": 1789045200.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-      "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
-      "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
-    },
-    {
-      "headline": "Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.",
+      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzg2a3Y0NVlxQnQ1QWRkUkI3aUJDcnFfQWlsakZxY1AyRTJoRDBLUXlpcDBJazlBdVFtTGdWU25qVWNWM3dtNTVxYWw0WlEtbVBNT1ZpLU5rWVk4dmJWVER1d0FYLXNkU0ppcDJDMWtZN3J6SDdPWi1HR1NVUlNPZzh3dkdmMm4zeDBoLUNEcHBpbW5vSDV4SFFsZ1RDSlpU?oc=5",
-      "pub_date": 1789126200.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-just-made-largest-ethereum-113000644.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e2ab0d30c9992985960918b1171e818c867ba86921ced282df379726e456008c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0cf2ffe55e1a7097318054ccc3a17e42.jpg",
-      "description": "Digital asset treasury companies are helping to keep a floor under the price of Ethereum."
-    },
-    {
-      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
-      "pub_date": 1788962400.0,
-      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
-      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
-    },
-    {
-      "headline": "XRP ETFs Beat Bitcoin, Ethereum Inflows: What Is Going On?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclhpNkN3dWdQdW81VUlWMV8taUpON0hGRlJqR0FIRTY5anBKSUk1Y1J5UkMxYW94UU9Ja1E1OFBGMjJvWm5EYWZYcjBBc29uejB0VmlmRXVFWHA5dnhfWkRnZU5id2t4TDkwcmFFTFpCSXozQjR0UVBna1NxSmt5bVNESl8yWXl3amlCWXRsQ1pEUWFXdUhJenkzaWdJandQSTBBbkxQUEVPckkxMnhmejZ2U2k?oc=5",
-      "pub_date": 1789132370.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:16bbf96af094b:0-xrp-etfs-beat-bitcoin-ethereum-inflows-what-is-going-on/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5\u2026"
-    },
-    {
-      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
-      "pub_date": 1788967800.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum leads way as most big cryptocurrencies post increases",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjh6ZjREcWFGWHlmYlpVYldQbjhWMnpkZFAxa2tfYVlpeXF1YV8wN2t2eDBKTjhMbERfZDNteTBySndod2VFalBvczh2X2NKRGt2emRybHlrQ183WU5YSmZITmRLcGswSkJrVEhZUWd0MHNiODRBQVVUcFJMOXBfTkZOZDE4MUlZbGdrdVUxa043T0Y3VmpoWWtBOHpZY3dOLVFBQzF6c282UzBveVVyVDhWY0hwb1F3V0FRZF9Jcw?oc=5",
-      "pub_date": 1789135200.0,
-      "article_url": "https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFE3YXpHaU40VTU2UDA2blpVMEExSTdDd0o4eXFVamVBZHpadEdUVllxajVjQ09ocDctc2puOTRDaktteF9WUjZFd3NFRDJXSkliQjJUNmllM0EwNWZCblVFLTVGdWg0VkplM2JHMXlmcDMxTzByNmpnUEU3YmppMXdnblVmazQ1dUV5SEJidk5yU21OS21ZU0JjQWFhZU9rS1lZMGNBNlUzZ0hKakhxNA?oc=5",
-      "pub_date": 1789157409.0,
-      "article_url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
-      "description": "Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted."
-    },
-    {
-      "headline": "Ethereum: Hits R2 Resistance on Opportunity Channel",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVNtdEFXWG55ZVd5anF2bC1CdG9xcEYxRjBhcS1pMGRCRkFKcnZNUDFjN0ZPbWdTT1BaTjB4NXBsRTQ3N1MtX0pFem92T1VzaU83WlFhaVNZZjRYb0hObEg1eThSd0dURVlJcmViX1I4WE9OcFM5Y25WSTZ3ckJqa3IyelVJSEVJ?oc=5",
-      "pub_date": 1789139400.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart."
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT05oSWNrMFp4ZDNuVFQ1X1UxTHNGUHVScEZOQmxQbV9iYjFzQ05ISnA3c0hHYUZpWE13eGdiVUZibVhJNFdRU0Zjd0lEYjFuNlFHR3JGSThUTVA0UFZidzRZR2JyaGhqdEd4dlFtQzhQRmNKR1pHWkJMVVpQTzhmNVB3c09oWDF4OWhMNEV4ZzYwTl9jSmVYTA?oc=5",
+      "pub_date": 1789139029.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
+      "description": "About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions."
     },
     {
       "headline": "Current price of Ethereum for September 9, 2026",
@@ -103,8 +33,78 @@
       "article_url": "https://www.tradingview.com/news/invezz:89fc51825094b:0-is-ethereum-price-at-risk-of-losing-2-400-as-oil-tops-105/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Ethereum price has fallen nearly 4% over the past 24 hours to around $2,420, putting the $2,400 level at risk after oil climbed above $105 and US Treasury yields rose sharply.CoinGecko puts ETH at roughly $2,419 at the time of writing, down 3.9% over the past day after the token traded as high as r\u2026"
+    },
+    {
+      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
+      "pub_date": 1788962400.0,
+      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
+      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
+    },
+    {
+      "headline": "Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBQZHNDa056MGFOVHpiWXBJWWlVN3RFWFRmNXU1MlRWSmJZNllrbVBKYzhrY1A0VE1RR0Z1R1BiWXU0Mk9kM1ZYUmlfakhCNmU5MXQtVVhHa3htdm51TUZGTmltRXdfTW5DdVhGMkhiNnVYOG5vM0VSSWZpUFNNYmRCN3dCOFpaR1VvbXlmVHBqUWdYRXVaNV9PQ2YyandLWWFCQy1aREt0UEIta1g5WDNhVXI?oc=5",
+      "pub_date": 1789045200.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "XRP ETFs Beat Bitcoin, Ethereum Inflows: What Is Going On?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOclhpNkN3dWdQdW81VUlWMV8taUpON0hGRlJqR0FIRTY5anBKSUk1Y1J5UkMxYW94UU9Ja1E1OFBGMjJvWm5EYWZYcjBBc29uejB0VmlmRXVFWHA5dnhfWkRnZU5id2t4TDkwcmFFTFpCSXozQjR0UVBna1NxSmt5bVNESl8yWXl3amlCWXRsQ1pEUWFXdUhJenkzaWdJandQSTBBbkxQUEVPckkxMnhmejZ2U2k?oc=5",
+      "pub_date": 1789132370.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:16bbf96af094b:0-xrp-etfs-beat-bitcoin-ethereum-inflows-what-is-going-on/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5\u2026"
+    },
+    {
+      "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDRRd1R2UndNOUhlXzZFSXlIc19RNDlaZlZLWVYyeEc2QmotdnFweGdqRE1DNUZYZWNDemxhMFRBU1RGSlpJRFhScGVxN1FJN0dYUTZVS0pBYVdlakIxMjcxZ2VWalVHM2V3MWRiaV83OThiRmtiNUo1blNTQ3F2R1VJRmNQTml4VTFGYlF4NHdWV2NFS1N6ZG5pZ3hPTHJQNUw5WWdBNnY0aWNYaE9HNjNFLTNiNm1ial9RM1pfQXhLaTVreUtjY2RxbTFGNVl6VFFxWktSTXowREplcG4zaw?oc=5",
+      "pub_date": 1789045200.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
+      "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
+      "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
+    },
+    {
+      "headline": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+      "source": "cryptoslate.com",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFE3YXpHaU40VTU2UDA2blpVMEExSTdDd0o4eXFVamVBZHpadEdUVllxajVjQ09ocDctc2puOTRDaktteF9WUjZFd3NFRDJXSkliQjJUNmllM0EwNWZCblVFLTVGdWg0VkplM2JHMXlmcDMxTzByNmpnUEU3YmppMXdnblVmazQ1dUV5SEJidk5yU21OS21ZU0JjQWFhZU9rS1lZMGNBNlUzZ0hKakhxNA?oc=5",
+      "pub_date": 1789157409.0,
+      "article_url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
+      "description": "Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted."
+    },
+    {
+      "headline": "Ethereum: Hits R2 Resistance on Opportunity Channel",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVNtdEFXWG55ZVd5anF2bC1CdG9xcEYxRjBhcS1pMGRCRkFKcnZNUDFjN0ZPbWdTT1BaTjB4NXBsRTQ3N1MtX0pFem92T1VzaU83WlFhaVNZZjRYb0hObEg1eThSd0dURVlJcmViX1I4WE9OcFM5Y25WSTZ3ckJqa3IyelVJSEVJ?oc=5",
+      "pub_date": 1789139400.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart."
+    },
+    {
+      "headline": "Ethereum leads way as most big cryptocurrencies post increases",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjh6ZjREcWFGWHlmYlpVYldQbjhWMnpkZFAxa2tfYVlpeXF1YV8wN2t2eDBKTjhMbERfZDNteTBySndod2VFalBvczh2X2NKRGt2emRybHlrQ183WU5YSmZITmRLcGswSkJrVEhZUWd0MHNiODRBQVVUcFJMOXBfTkZOZDE4MUlZbGdrdVUxa043T0Y3VmpoWWtBOHpZY3dOLVFBQzF6c282UzBveVVyVDhWY0hwb1F3V0FRZF9Jcw?oc=5",
+      "pub_date": 1789135200.0,
+      "article_url": "https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T21:51:11.792308+00:00"
+  "fetched_at": "2026-09-11T23:54:44.578653+00:00"
 }

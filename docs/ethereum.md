@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-11T21:51:17.800880+00:00'
+updated: '2026-09-11T23:54:51.274355+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 21:51 UTC  
+**Last Updated:** September 11, 2026 at 23:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** +2.1%  
-**30d:** +34.2%  
-**90d:** +46.6%  
-**1y:** -46.1%  
+**24h:** +2.2%  
+**7d:** +1.4%  
+**30d:** +33.2%  
+**90d:** +45.6%  
+**1y:** -46.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $309.13B
+**Market Cap:** $306.61B
 Rank #2
 
 **Circulating Supply:** 122,038,476 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.8%
+-49.2%
 
 **All-Time Low:** $0.43
-+584799.0%
++580170.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -110,7 +110,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 1d ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 2d ago
 
 ---
 
@@ -150,63 +150,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)**
+**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html)**
 
-The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
+About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-The Block • 1d ago
-
----
-
-**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-made-largest-ethereum-113000644.html)**
-
-Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
-
-Yahoo Finance • 10h ago
-
----
-
-**[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
-
-The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
-
-Fortune • 2d ago
-
----
-
-**[XRP ETFs Beat Bitcoin, Ethereum Inflows: What Is Going On?](https://www.tradingview.com/news/benzinga:16bbf96af094b:0-xrp-etfs-beat-bitcoin-ethereum-inflows-what-is-going-on/)**
-
-XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5…
-
-TradingView • 8h ago
-
----
-
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
-
-CoinDesk • 2d ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
-
-MarketWatch • 7h ago
-
----
-
-**[Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users](https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/)**
-
-Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted.
-
-CryptoSlate • 1h ago
-
----
-
-**[Ethereum: Hits R2 Resistance on Opportunity Channel](https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel)**
-
-Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
-
-blockchain.news • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -226,6 +174,58 @@ TradingView • 1d ago
 
 ---
 
+**[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
+
+The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
+
+Fortune • 2d ago
+
+---
+
+**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
+
+CoinDesk • 1d ago
+
+---
+
+**[XRP ETFs Beat Bitcoin, Ethereum Inflows: What Is Going On?](https://www.tradingview.com/news/benzinga:16bbf96af094b:0-xrp-etfs-beat-bitcoin-ethereum-inflows-what-is-going-on/)**
+
+XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5…
+
+TradingView • 10h ago
+
+---
+
+**[Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)**
+
+The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
+
+The Block • 1d ago
+
+---
+
+**[Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users](https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/)**
+
+Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted.
+
+cryptoslate.com • 3h ago
+
+---
+
+**[Ethereum: Hits R2 Resistance on Opportunity Channel](https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel)**
+
+Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
+
+blockchain.news • 8h ago
+
+---
+
+**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
+
+MarketWatch • 9h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -236,7 +236,7 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 5K • 👍 483 • 💬 29 • ⏱️ 11:43 • 3h ago
+👁️ 13K • 👍 587 • 💬 22 • ⏱️ 11:43 • 5h ago
 
 ---
 
@@ -246,7 +246,7 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 10K • 👍 515 • 💬 311 • ⏱️ 17:30 • 6h ago
+👁️ 14K • 👍 546 • 💬 311 • ⏱️ 17:30 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ Join - https://www.skool.com/discovercrypto/about ​​If you have ever made mo
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 349 • 💬 79 • ⏱️ 1:04:53 • 6h ago
+👁️ 9K • 👍 362 • 💬 51 • ⏱️ 1:04:53 • 8h ago
 
 ---
 
@@ -266,7 +266,7 @@ ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Somet
 
 📺 D.I.Y Investing
 
-👁️ 445 • 👍 78 • 💬 12 • ⏱️ 15:04 • 3h ago
+👁️ 1K • 👍 97 • 💬 16 • ⏱️ 15:04 • 5h ago
 
 ---
 
@@ -276,7 +276,7 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 11K • 👍 803 • 💬 364 • ⏱️ 31:34 • 12h ago
+👁️ 11K • 👍 820 • 💬 344 • ⏱️ 31:34 • 14h ago
 
 ---
 
@@ -290,6 +290,16 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 ---
 
+**[🟢 They Hate Ethereum STRENGTH 🧃](https://www.youtube.com/watch?v=CJNuxaVi4Qo)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 344 • 👍 46 • 💬 9 • ⏱️ 24:58 • 1h ago
+
+---
+
 **[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
 
 You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
@@ -300,33 +310,23 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dOUrDpumSBg)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 842 • 👍 62 • ⏱️ 5:24 • 6h ago
-
----
-
 **[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
 
 ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
 
 📺 More Crypto Online
 
-👁️ 11K • 👍 256 • 💬 16 • ⏱️ 12:26 • 21h ago
+👁️ 12K • 👍 256 • 💬 11 • ⏱️ 12:26 • 23h ago
 
 ---
 
-**[ETHEREUM Análisis del Precio Para Zonas Importantes - ETH](https://www.youtube.com/watch?v=yKSyQhbVyC4)**
+**[ETHEREUM : 5 ans d&#39;attente pour ce signal EXPLOSIF (analyse)](https://www.youtube.com/watch?v=Yp_w8YFAKak)**
 
-Ingreso a Pro Plan Trading (Tiempo Limitado) : ➡️ https://www.proplantrading.com/acceso/especial/6meses-page Inicia en ...
+OKX : 8% sur tes dépôts en USDT : https://my.okx.com/fr-fr/campaigns/deposit-bonus-usdt-convert-usdc?channelId=82780213 ...
 
-📺 Julio Alfaro
+📺 Crypto Le Trone
 
-👁️ 114 • 👍 14 • 💬 63 • ⏱️ 11:03 • 42m ago
+👁️ 8K • 👍 465 • 💬 14 • ⏱️ 12:19 • 9h ago
 
 ---
 
