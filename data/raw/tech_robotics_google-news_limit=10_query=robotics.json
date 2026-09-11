@@ -15,48 +15,8 @@
       "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
     },
     {
-      "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
-      "pub_date": 1789054202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
-      "pub_date": 1789150254.0,
-      "article_url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Robots Are Learning to Feel",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
-      "pub_date": 1788937200.0,
-      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "description": "New tactile datasets could solve a longstanding challenge in robotics"
-    },
-    {
-      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
-      "pub_date": 1789058257.0,
-      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
-    },
-    {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
-      "source": "WSJ",
+      "source": "wsj.com",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
       "pub_date": 1788948600.0,
@@ -75,36 +35,76 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Laser weapons, space dogfights, and humanoid robots: The future of the battlefield",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFJaNHhhaGxWX0phYlh4WnRkT0pvVURzblYxbzQ0ZW9id2s4RjRUcW9FLWx1R1FaT2lTMGlDLWtsb3JES3NHUHg2TzJWLVhaSVVfZHhYVm94Slh0VHhWTGotVVRCUmhYc1BNd1NQVHNSNkttTy1zNUg4NmdLTWhOQlZDUDVqSnNWWDE2ZFZ1NVRxem5rVTh6ZV9xQS1oQkZOWnAtVExSU2gtMXBJQjdBZEhSbzZBd3B4?oc=5",
-      "pub_date": 1789136089.0,
-      "article_url": "https://seekingalpha.com/news/4641536-laser-weapons-space-dogfights-and-humanoid-robots-the-future-of-the-battlefield",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229453206/image_2229453206.jpg?io=getty-c-w630",
-      "description": "Laser weapons, space warfare, and humanoid robots are reshaping defense."
-    },
-    {
-      "headline": "Medtronic\u2019s Jim Peichel on AI, robotics and the future of surgery",
-      "source": "Modern Healthcare",
-      "source_url": "https://www.modernhealthcare.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUG12NTEyUlRXSGExdVVkb0tUSzJnckxUTnU4U041NHQtcjZjYUIwM25IUUoyMHo1emREcG9kV0llVmZveWdlNnVtNkQ3elVVZHE3Z19ZZ2xCZlhLcWh1YmFld3JNQ21TeXotTVpka0pCcnlZMmwzQzNHRHlYMzV0S3pFRUhaYnRrNDhUZ0RXbjJHaUtZalRXQUFn?oc=5",
-      "pub_date": 1789034400.0,
-      "article_url": "https://www.modernhealthcare.com/medical-devices/mh-medtronic-jim-peichel-ai-robotics-surgery/",
-      "image": "https://www.modernhealthcare.com/resizer/v2/DKAYHLZTCFHVFFGKCL5U27BLHE.png?auth=6c0d64be0f1b0d407acbaa7f2836e694cff18bc33cddd30cf17f32e005e28c93&width=1200#.png",
-      "description": "Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency."
-    },
-    {
       "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
       "pub_date": 1789049857.0,
       "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
       "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+    },
+    {
+      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
+      "pub_date": 1789065307.0,
+      "article_url": "https://breakingdefense.com/?p=95208",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The National Beat: More lawyers are using AI. Here's what they're doing with it.",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlc0bmFGcm94ejMwNjRjWDR1cmZsQXM5NVFpdTFlQWNvNy13cU5GdU5NZHZtNm9hSF9hbmxha3lSNzRnSzVUZWJTbjZZVk1aYmJmaUk3WFN5VmZEbzhwendqSlhEZnFWeXNVWHNWc1F2REF0OUxOd0k0NWNzblg2OFAyLWdWTkRZbmNfSHR1SE9VSWlYWENXQUNCQnh4RkFw?oc=5",
+      "pub_date": 1789153980.0,
+      "article_url": "https://www.bizjournals.com/memphis/news/2026/09/11/the-national-beat-ai-law-robotics-startups.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
+      "pub_date": 1789054202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
+      "pub_date": 1789058257.0,
+      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+    },
+    {
+      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
+      "pub_date": 1789150254.0,
+      "article_url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T19:07:31.401093+00:00"
+  "fetched_at": "2026-09-11T21:51:16.154023+00:00"
 }
