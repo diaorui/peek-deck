@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-10T23:20:40.420868+00:00'
+updated: '2026-09-11T01:21:34.875993+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 10, 2026 at 23:20 UTC  
+**Last Updated:** September 11, 2026 at 01:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ Hi folks. I am an industrial researcher with an M.S. degree in robotics. I studi
 
 I'm a sophomore student in Meche and this is my first robot so it took about 2 months. It's a 3d printed robot arm built from scratch and works pretty well but its a bit wobbly (which I'm working on fixing). Its controlled by an arduino uno and 5 potentiometers. But the issue is that those potentiometers are small and covered in nets of wires. I could cut specific wire lengths and buy bigger potentiometers (and probably will) but I think there's another option. Is there some sort of robot arm simulation software that can let me control my arm smoothly on my computer without having to turn each potentiometer slightly to adjust it? I know there's Robodk but its really expensive so if there's one I can use that's free or free for students that would help a lot. Also, since I'm not really satisfied with just a robot arm since its really common for personal projects in my major, my next step is to replace the robot claw with a claw mount built to hold some sort of sprinkler or pump that waters plants when a soil moisture sensor alerts it to. The robot arm will switch to 4DOF for this, and on the opposite side of the arm link, I will also add another claw mount built to aim a grow light at the plant when a grove light sensor tells it to. Water pump aspect I'm working on, grow light is still just a thought right now.
 
-4d ago
+5d ago
 
 ---
 
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 7h ago
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 9h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 9h ago
 
 Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
 
-GlobeNewswire • 12h ago
+GlobeNewswire • 14h ago
 
 ---
 
@@ -138,17 +138,17 @@ ETF Trends • 1d ago
 
 ---
 
-**[Teradyne Robotics sues JAKA over 3 Universal Robots patents](https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/)**
+**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
 
-Teradyne Robotics’ patent lawsuit vs. JAKA Robotics centers on 3 Universal Robots patents about robot interfaces, safety brakes, and joints.
-
-The Robot Report • 59m ago
+Breaking Defense • 6h ago
 
 ---
 
-**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
+**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
 
-Breaking Defense • 4h ago
+This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+
+washingtonpost.com • 2d ago
 
 ---
 
@@ -158,9 +158,9 @@ WSJ • 1d ago
 
 ---
 
-**[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
+**[Humanoid robot learns to sprint and perform spin kicks using AI trained on human motion data](https://techxplore.com/news/2026-09-humanoid-robot-sprint-ai-human.html)**
 
-Reuters • 23h ago
+Tech Xplore • 13h ago
 
 ---
 
@@ -172,11 +172,11 @@ Business Insider • 1d ago
 
 ---
 
-**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+**[American company Swarmer buys Ukrainian ground robot maker for US$224m – WSJ](https://www.pravda.com.ua/eng/news/2026/09/10/8052757/)**
 
-This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+US-based defence tech company Swarmer is acquiring Ukrainian ground robotics maker Ratel Robotics in a cash-and-stock deal worth up to US$224 million.
 
-The Washington Post • 2d ago
+Українська правда • 16h ago
 
 ---
 
@@ -184,13 +184,13 @@ The Washington Post • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
+**[Humans Can’t Sort Batteries This Fast](https://www.youtube.com/watch?v=rgwaXXkAZUo)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
+This high-speed automated system uses robotic arms and machine vision to sort battery cells with remarkable speed and ...
 
-📺 PRO ROBOTS
+📺 Moshyy
 
-👁️ 31K • 👍 450 • 💬 47 • ⏱️ 15:17 • 5d ago
+👁️ 9K • 👍 85 • 💬 9 • ⏱️ 0:06 • 12h ago
 
 ---
 
@@ -200,7 +200,17 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 397K • 👍 5K • 💬 983 • ⏱️ 5:02 • 1d ago
+👁️ 416K • 👍 6K • 💬 1K • ⏱️ 5:02 • 1d ago
+
+---
+
+**[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
+
+📺 PRO ROBOTS
+
+👁️ 31K • 👍 451 • 💬 48 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -220,7 +230,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 185K • 👍 2K • 💬 235 • ⏱️ 5:52 • 1d ago
+👁️ 194K • 👍 2K • 💬 238 • ⏱️ 5:52 • 1d ago
 
 ---
 
@@ -228,7 +238,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 Opac24MLB
 
-👁️ 5K • 👍 85 • 💬 2 • ⏱️ 0:16 • 1d ago
+👁️ 5K • 👍 88 • 💬 2 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -248,7 +258,7 @@ Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spot
 
 📺 RICHLEV
 
-👁️ 396K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
+👁️ 402K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
 
 ---
 
@@ -258,7 +268,7 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 
 📺 LIGHTS ARE OFF
 
-👁️ 5.4M • 👍 92K • 💬 12K • ⏱️ 25:44 • 4d ago
+👁️ 5.5M • 👍 92K • 💬 12K • ⏱️ 25:44 • 4d ago
 
 ---
 
@@ -268,17 +278,7 @@ Unitree R1 humanoid Robot.
 
 📺 İncelemedeyim
 
-👁️ 152K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
-
----
-
-**[China&#39;s Humanoid Robot Bubble Reaches Point Of Absurdity](https://www.youtube.com/watch?v=KbzrqUT5zmU)**
-
-Stop using ONE AI when you can use ALL of them. Try it here https://chatllm.abacus.ai/wsm In this video we analyze the recent ...
-
-📺 Wall Street Millennial
-
-👁️ 206K • 👍 3K • 💬 1K • ⏱️ 15:39 • 3d ago
+👁️ 153K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
 
 ---
 
