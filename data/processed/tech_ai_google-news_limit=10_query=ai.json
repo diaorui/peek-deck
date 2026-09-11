@@ -5,6 +5,56 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Detecting and countering misuse of AI: September 2026",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "pub_date": 1789060227.0,
+      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
+    },
+    {
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+      "pub_date": 1789077037.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQdIBlwFBVV95cUxQX0JhaE5BWS1pWGViM3JGTmR2VVFiRTljTS1Ub19WNFR2Mmw4OUhwV25XVnVFUklTcURvME02bWFfZFZrVExCTU1rNWpjNUZWeExtX0tMR0dWdHJMTC14UjZmOVhMUHhPRld2VUF5ZC1nODU2US1ZZDdjZzlEdW1aY0VUWkllZ2pXV1hCVXdQTXRFYXM5OUE4?oc=5",
+      "pub_date": 1789087680.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108291329-1776192386700-gettyimages-2270583563-raa-anthropi260412_npZvE.jpeg?v=1776192426&w=1920&h=1080",
+      "description": "Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems."
+    },
+    {
+      "headline": "Calls for increased regulation of AI as researchers sound the alarm",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MTJVZ09wUWV2dHlVdko1OW8zd1paVE5Rd3FVMGpWYmQ5WThSZ05Sc0Z0d0U2bko3V01RNjI3OXljUVZfaHNuNm9PWW1TSEJmbFpQNXlqNXBYWVFJTzNDUE40TlRralVOYWNkYktVTVE?oc=5",
+      "pub_date": 1789088036.0,
+      "article_url": "https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22972666-1953365-472-thumb-1.jpg?c=16x9&q=w_800,c_fill",
+      "description": "AI industry insiders warn the technology could wipe out humanity within the decade. NYU professor and podcast host Scott Galloway says evil AI isn\u2019t the problem, it\u2019s the lack of regulation. \u201cThis is a failure of governance and leadership,\u201d he warns."
+    },
+    {
+      "headline": "Viral AI researcher\u2019s warning \u2018 scary as hell ,\u2019 Cruz says",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5",
+      "pub_date": 1789086132.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Former Anthropic researcher warns AI could \u2018kill us all\u2019",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -15,32 +65,12 @@
       "description": "Former AI researcher Jacob Coxon tells CNN\u2019s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control."
     },
     {
-      "headline": "Growing chorus of A.I. insiders warns of possible extinction of humans",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEp0NEFUdXlyZW5pbENoSUVqeEFwY0tZb3k5MjRGYlpIZHFSbzNmMHlPUURQd0FBWUoxZ1pfM25LWVEydHRBRjJ6NEFEUVN5R3FPYzczQ1Npc1VQT0t3c0FJS2NtOXI3cG5DcUt3d0VPX0RIWTV2VkxPLU1JNWpONTZrQXNFaDlqQ2tMS2gzUzlDcmdpZElMWkNtQ1FQem5Qak43enQwNm1pdjY1SmVaSnJTTGFDSnZuaGFnbk53TVU3Qkk?oc=5",
-      "pub_date": 1789080553.0,
-      "article_url": "https://www.nbcnews.com/nightly-news/video/growing-chorus-of-a-i-insiders-warns-of-possible-extinction-of-humans-269663301684",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789080188298_nn_cro_ai_insiders_warning_26091026_S3_1920x1080-5f6ozx.jpg",
-      "description": "Former employees from some of the top A.I. companies say the potential of future models is nothing short of the killing of all humans. NBC News\u2019 Christine Romans reports."
-    },
-    {
-      "headline": "'Slow it down' - Bernie Sanders proposes bill to ban AI superintelligence",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zNzJ6Xzl1RWd1NGJLaTZ6VzRLX3lyeXV0SGo0S2g2X1ZMMnhMcTFKd1dobnUtT2FTdUxENENYLWFlSGVabFZDQmw0V1hNNEVNa3MxX3hSTQ?oc=5",
-      "pub_date": 1789080517.0,
-      "article_url": "https://www.bbc.com/news/videos/cgjq11576q2o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4aa2/live/7b5bb340-ad67-11f1-a540-61c3f7fc4e6c.jpg",
-      "description": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies."
-    },
-    {
-      "headline": "Viral AI researcher\u2019s warning \u2018scary as hell,\u2019 Cruz says",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5",
-      "pub_date": 1789050193.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429",
+      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
+      "pub_date": 1789087380.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
       "image": null,
       "description": null
     },
@@ -55,38 +85,8 @@
       "description": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications."
     },
     {
-      "headline": "AI is losing its stranglehold on the U.S. stock market. Here's why",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1IwZzA0QVg3QkNBZ1pIVEI5WFRNNDhMZnNITjRYaHlrQWtCNXV6WXZXSVZ5cElBOXJzY25PVHdBTkFnWVl0aGxoaHNfWE04WVM0ZUw2TmMxN2RiVjV2UmZXazNGdGN2RHVOOTVOZmlzOGYzVWJVMU1mZDR0QWRQYy1mdThvOW5pVDBXOWN1d2xGX0hobXZ2LVhOWDZseWRR0gGmAUFVX3lxTE1DWm4xNllDUWtSNXNWQ1dvTmExOXhHRTZBVUE4SmU2Y1ZnSUZ2LVEtZlJYYmM3amhfcnpiZUdhWWlEVS04MTE5NFFSeFhGRVFrbTJzc05GM0wxY3hmS0VzMmtIODNQZXA3M0FBV2p4U1ZSaDYzeTNsU1I3a3NnSDBTc3h5dzBjVnczQmd6REs3TmlRcFFjcmpTbHhVbkx6ZGV4YmtKY2c?oc=5",
-      "pub_date": 1789062144.0,
-      "article_url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357833-1788364301709-Traders-OB-20260902-ACJ-PRESS-8.jpg?v=1788364539&w=1920&h=1080",
-      "description": "A key tech-stock volatility metric options traders have been watching all year is reversing."
-    },
-    {
-      "headline": "Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemVqdVhpOTlIWWdSMFpqdG9kRjBSV3cyUy1icEpycHRGQVZsN2pnRFhQN3EtRUlHV0E2dFFra19iTFdsTUxrZDhrNWFFUTJVT0N0Y0JGN3dPQ3pNYjZRZG5iTGFCcTVkYnJDWVNyNGxqQkZiTXphSXJ5RERkYjJuekxidHlrdHZVaHEtQUY5VlhUZHdDMU1GcU0ycm9HekRGV0NSaDk3WDkxaFcyRHBjMmdBVmczT0p1TFpsLWpR?oc=5",
-      "pub_date": 1789059837.0,
-      "article_url": "https://www.cnbc.com/2026/09/10/investors-gave-up-on-this-ai-play-but-charts-suggest-its-worth-a-look-jay-woods-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361282-1789055372355-gettyimages-2230437228-TFSPI_20082025-9841.jpeg?v=1789055449&w=1920&h=1080",
-      "description": "This stock grabbed traders attention in early 2026 as momentum drove shares up over 75%. But the sentiment was too euphoric."
-    },
-    {
-      "headline": "NVIDIA vs. AMD After Earnings: Which AI Stock Should You Buy Now?",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDlfSzZLeTl1NFU1WGhzME5JeFEtUUROQXlNT0pDV3JVNUpQY01tUVlNa0RPN2ptcENQTmdSTHBYMVJ5ckk2R2EtdUt0NXI5bnpPaW1MWDNrVWhua3hSZDg2MFB1T2xXMFJXSWZkSGtOOWc2d2IwQ1gwR0xpUmV5YmFQMXc0QXJkdUptYnRGaFRWTmY5N0hfdEQ1WnB3bmNOUUFpVjV3?oc=5",
-      "pub_date": 1789064061.0,
-      "article_url": "https://www.zacks.com/stock/news/2987980/nvidia-vs-amd-after-earnings-which-ai-stock-should-you-buy-now",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "source": "openai.com",
+      "source": "OpenAI",
       "source_url": "https://openai.com",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
       "pub_date": 1788949912.0,
@@ -95,16 +95,16 @@
       "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
     },
     {
-      "headline": "Microsoft Plans Data Center Push to Triple Its Computing Power",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXJMZWdoQWFkTHJITkVsNjYwWkFGZWk4OVlpdS1tTDNyMnNQd0Zicmx0UktIZDFxS0xwOFBlSkxOakxPZ2RjRy13UzduVWdhcUN3WVNXWWpjVEJXRFNpOFlVLUFHMEtxV0I3cWMwZWY1REVYTkhFNGZJZDJmTzRDSU9hQ3hmbGtNNzc3dFlPSzRwVjFlYnh3RDFLbW9UNUxMYWMwb2RTbldvZ3dWZHladi1TYkpnY0hZN1lN?oc=5",
-      "pub_date": 1789074016.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "headline": "Oracle tops estimates as AI demand tempers cash-burn fears",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
+      "pub_date": 1789082903.0,
+      "article_url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T23:20:32.200028+00:00"
+  "fetched_at": "2026-09-11T01:21:27.032471+00:00"
 }
