@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-11T11:43:15.479512+00:00'
+updated: '2026-09-11T16:00:13.561405+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 11, 2026 at 11:43 UTC  
+**Last Updated:** September 11, 2026 at 16:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Titan Mars Rover V1.](https://www.reddit.com/r/robotics/comments/1w8ztdq/titan_mars_rover_v1/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Progress on my custom hexapod project over the past few months. In the first few weeks I couldn't even get it to stand up — once I got the gait cycle figured out, everything after that came together a lot faster. Specs: Base: 3D printed 18 servos (mix of 25kg and 35kg) Pololu Maestro servo controller Buck converter for power regulation Controlled by an Android phone, which also acts as the gyro/IMU
 
-5d ago
+6d ago
 
 ---
 
@@ -102,7 +102,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 [Cross-post from r/reinforcementlearning] My full 6-part series on RL for robotics is finally live. While a balance bot is a pretty trivial case (you don't even need RL), it's a great starting point for demonstrating how to train a simple agent via PPO, deploy the agent to real hardware, and tackle the sim-to-real gap using post-processing and domain randomization. If you have any feedback (e.g. I missed something or there's something that could be better), please let me know!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 5d ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=kGish1q_WC8) • 6d ago
 
 ---
 
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Bloomberg.com • 20h ago
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 21h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -130,17 +130,19 @@ WSJ • 2d ago
 
 ---
 
+**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 29m ago
+
+---
+
 **[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
 
 Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
 
-CNBC • 5h ago
-
----
-
-**[EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)**
-
-Reuters • 1d ago
+CNBC • 9h ago
 
 ---
 
@@ -148,7 +150,7 @@ Reuters • 1d ago
 
 Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
 
-NVIDIA Blog • 19h ago
+NVIDIA Blog • 23h ago
 
 ---
 
@@ -156,21 +158,21 @@ NVIDIA Blog • 19h ago
 
 Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency.
 
-modernhealthcare.com • 1d ago
+Modern Healthcare • 1d ago
 
 ---
 
 **[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
 
-Breaking Defense • 17h ago
+Breaking Defense • 21h ago
 
 ---
 
-**[How effective are food delivery robots? We followed one around D.C.](https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/)**
+**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
 
-This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain.
+MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
 
-The Washington Post • 2d ago
+The Japan Times • 13h ago
 
 ---
 
@@ -192,17 +194,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 31K • 👍 453 • 💬 48 • ⏱️ 15:17 • 6d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 29K • 👍 140 • 💬 23 • ⏱️ 3:39 • 1d ago
+👁️ 32K • 👍 454 • 💬 48 • ⏱️ 15:17 • 6d ago
 
 ---
 
@@ -212,25 +204,7 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 📺 DPCcars
 
-👁️ 10K • 👍 67 • 💬 34 • ⏱️ 2:18 • 3d ago
-
----
-
-**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
-
-📺 Opac24MLB
-
-👁️ 7K • 👍 106 • 💬 2 • ⏱️ 0:16 • 1d ago
-
----
-
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
-
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
-
-📺 America's Got Talent
-
-👁️ 507K • 👍 6K • 💬 1K • ⏱️ 5:02 • 2d ago
+👁️ 10K • 👍 67 • 💬 34 • ⏱️ 2:18 • 4d ago
 
 ---
 
@@ -240,7 +214,35 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 📺 Milk Road Stocks
 
-👁️ 14K • 👍 221 • 💬 24 • ⏱️ 48:57 • 3d ago
+👁️ 14K • 👍 223 • 💬 24 • ⏱️ 48:57 • 4d ago
+
+---
+
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+
+📺 America's Got Talent
+
+👁️ 543K • 👍 7K • 💬 1K • ⏱️ 5:02 • 2d ago
+
+---
+
+**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
+
+📺 Opac24MLB
+
+👁️ 10K • 👍 193 • 💬 2 • ⏱️ 0:16 • 1d ago
+
+---
+
+**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
+
+After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
+
+📺 GrislyDeshaun
+
+👁️ 705K • 👍 7K • 💬 498 • ⏱️ 26:59 • 4d ago
 
 ---
 
@@ -250,7 +252,17 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 228K • 👍 3K • 💬 260 • ⏱️ 5:52 • 2d ago
+👁️ 247K • 👍 3K • 💬 276 • ⏱️ 5:52 • 2d ago
+
+---
+
+**[Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat](https://www.youtube.com/watch?v=qkIJELDgULA)**
+
+UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic ...
+
+📺 Unitree Robotics
+
+👁️ 276K • 👍 679 • 💬 134 • ⏱️ 0:39 • 4d ago
 
 ---
 
@@ -260,27 +272,17 @@ Unitree R1 humanoid Robot.
 
 📺 İncelemedeyim
 
-👁️ 155K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
+👁️ 157K • 👍 2K • 💬 95 • ⏱️ 0:59 • 4d ago
 
 ---
 
-**[Restored Helen Henny Cyberamic PERFORMANCE! #animatronics #chuckecheese #robotics #retro #shorts](https://www.youtube.com/watch?v=VFji8fHKb7g)**
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
 
-This Helen Henny animatronic performs for the first time in over 40 years! TIKTOK: https://www.tiktok.com/@andrewjohn1oo ...
+PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
 
-📺 AndrewJohn100
+📺 LIGHTS ARE OFF
 
-👁️ 4K • 👍 267 • 💬 47 • ⏱️ 0:26 • 7h ago
-
----
-
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
-
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
-
-📺 RICHLEV
-
-👁️ 427K • 👍 8K • 💬 2K • ⏱️ 38:26 • 3d ago
+👁️ 5.7M • 👍 95K • 💬 12K • ⏱️ 25:44 • 5d ago
 
 ---
 

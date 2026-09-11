@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-11T11:43:15.461721+00:00'
+updated: '2026-09-11T16:00:13.543739+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 11, 2026 at 11:43 UTC  
+**Last Updated:** September 11, 2026 at 16:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger equates to 1.9 kg of CO₂e emissions". Google’s 2025 research paper reports that "a median Gemini Apps text prompt generates 0.03 gCO2e". That's 1,900 grams of CO₂e emissions per cheeseburger. That’s 0.03 grams of CO₂e emissions per Gemini text prompt. 1,900 ÷ 0.03 ≈ 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger.
 
-10h ago
+15h ago
 
 ---
 
 **[AI companies pursue the Boromir strategy to deal with the control problem. "It's dangerous. But let that be me. I know what to do with it."](https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/)**
 
-13h ago
+18h ago
 
 ---
 
@@ -55,37 +55,7 @@ A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger 
 
 Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It’s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?
 
-🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 1h ago
-
----
-
-**[Built an AI memory system that actually refuses to hallucinate](https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/)**
-
-Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database. The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses something plausible to please you. That does not work if you need the system for high risk environments like medical decision support, where total auditability and clear provenance chains are mandatory. My System works on a completely different rule: no black box, no unearned answers, no word filters. Instead of using dense vectors, it stores context hypotheses in a shadow layer while reading. It never erases errors or contradicted data because mistakes are valuable evidence. Before a hypothesis becomes an accepted fact, it has to survive multiple slow wave sleep cycles. This is an active consolidation phase where the system uses stochastic replay to test if a hypothesis remains stable over time. If there is no verified anchor in the database for your query, the system simply reports the gap instead of guessing. I am using terms like sleep and neuromodulation on purpose because the code actually mimics those exact functional mechanics at an algorithmic level. For instance, dynamic floating point parameters continuously tune excitation, inhibition, and sleep pressure to keep the system balanced without needing gradient descent. In recent production tests over a 664 MB Wikipedia corpus, it processed around 155k chunks and tracked over 1.4 million hypotheses on a single CPU thread without breaking down or corrupting its state. I am currently validating the hypothesis graduation pipeline and would love to hear your thoughts. How do you guys deal with parameter saturation or balancing strict line of sight provenance against fluid generalization in continuous learning loops?
-
-5h ago
-
----
-
-**[California enacts laws restricting chatbots and banning teens from ‘addictive’ social media](https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/)**
-
-🔗 [calmatters.org](https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/) • 9h ago
-
----
-
-**[How Google AI "thinks"](https://www.reddit.com/r/artificial/comments/1wd70i1/how_google_ai_thinks/)**
-
-Got this as text in a search on a particular kind of plant, " Pet Safety: Note that areca palms are considered [non-toxic or safe? wait, check snippet 0.6.1 says "Unsafe For Pets"]—actually let's look at 0.6.1: "Pet Toxicity Pet Friendly: Unsafe For Pets" is listed under one vendor attribute, but Dypsis lutescens is generally non-toxic to cats and dogs according to ASPCA, though 0.6.1 says unsafe for pets or specifies plastic/other. Wait, let's keep it simple and skip unverified pet info, or just focus on standard care. Let's see general care guide from The Spruce. [1, 2, 3]" Notice all the "hidden"notes the researchers or AI wrote to themselves or itself?
-
-6h ago
-
----
-
-**[Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.](https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/)**
-
-Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots.
-
-🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 21h ago
+🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 5h ago
 
 ---
 
@@ -93,15 +63,45 @@ Three scenarios, explicitly not predictions, no probabilities attached. Modest i
 
 I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?
 
-1h ago
+6h ago
 
 ---
 
-**[Why can't I generate some friticional characters on major AI services](https://www.reddit.com/r/artificial/comments/1wdbew4/why_cant_i_generate_some_friticional_characters/)**
+**[Built an AI memory system that actually refuses to hallucinate](https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/)**
 
-So I've tried to generate Iron Man's depth of view image on an AI website, but it's unsuccessful. Any idea on what's happening.
+Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database. The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses something plausible to please you. That does not work if you need the system for high risk environments like medical decision support, where total auditability and clear provenance chains are mandatory. My System works on a completely different rule: no black box, no unearned answers, no word filters. Instead of using dense vectors, it stores context hypotheses in a shadow layer while reading. It never erases errors or contradicted data because mistakes are valuable evidence. Before a hypothesis becomes an accepted fact, it has to survive multiple slow wave sleep cycles. This is an active consolidation phase where the system uses stochastic replay to test if a hypothesis remains stable over time. If there is no verified anchor in the database for your query, the system simply reports the gap instead of guessing. I am using terms like sleep and neuromodulation on purpose because the code actually mimics those exact functional mechanics at an algorithmic level. For instance, dynamic floating point parameters continuously tune excitation, inhibition, and sleep pressure to keep the system balanced without needing gradient descent. In recent production tests over a 664 MB Wikipedia corpus, it processed around 155k chunks and tracked over 1.4 million hypotheses on a single CPU thread without breaking down or corrupting its state. I am currently validating the hypothesis graduation pipeline and would love to hear your thoughts. How do you guys deal with parameter saturation or balancing strict line of sight provenance against fluid generalization in continuous learning loops?
 
-2h ago
+9h ago
+
+---
+
+**[California enacts laws restricting chatbots and banning teens from ‘addictive’ social media](https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/)**
+
+🔗 [calmatters.org](https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/) • 14h ago
+
+---
+
+**[Mathematicians confront the AI apocalypse](https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/)**
+
+What happens when machines surpass the most brilliant human minds? Mathematicians are finding out
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/) • 1h ago
+
+---
+
+**[Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.](https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/)**
+
+Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots.
+
+🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 1d ago
+
+---
+
+**[AI in Anti-Money Laundering: Use Cases, Benefits & How It Works](https://www.reddit.com/r/artificial/comments/1wdf24n/ai_in_antimoney_laundering_use_cases_benefits_how/)**
+
+Discover how AI helps institutions adapt to evolving AML compliance demands and financial crime risks in 2026.
+
+🔗 [Sumsub](https://sumsub.com/blog/ai-in-anti-money-laundering-and-compliance/?utm_source=reddit&utm_medium=social) • 3h ago
 
 ---
 
@@ -115,53 +115,71 @@ So I've tried to generate Iron Man's depth of view image on an AI website, but i
 
 ## Google News: "ai"
 
-**[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)**
+**[How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate](https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1)**
 
-Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
-
-Anthropic • 18h ago
+WSJ • 1d ago
 
 ---
 
-**[Opinion | The A.I. Threat Is Real. We Need to Act Now.](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)**
+**[Dollars and doomers in the AI safety debate](https://www.axios.com/2026/09/11/dollars-doomers-ai-safety-financial-crisis)**
 
-The New York Times • 2h ago
-
----
-
-**[Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI](https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html)**
-
-AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.
-
-CNBC • 43m ago
+Axios • 1h ago
 
 ---
 
-**[AI debt is surging. A credit ratings agency has concerns](https://www.axios.com/2026/09/11/ai-debt-hyperscalers-sp)**
+**[SpaceX signs another AI computing deal, with $100 billion in ARR 'on track,' CFO says](https://finance.yahoo.com/markets/stocks/article/spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html)**
 
-Axios • 28m ago
+SpaceX just inked another big AI compute deal, one that will take the space and rocket company closer to its $100 billion annual recurring revenue (ARR) target this year, a big metric for investors.
 
----
-
-**[Remembering 9/11 and more AI researchers warn of safety risks: Morning Rundown](https://www.nbcnews.com/news/us-news/remembering-911-ai-researchers-warn-safety-risks-morning-rundown-rcna597175)**
-
-Plus, why Trump’s $5,000 checks could face obstacles and diesel hits a record high.
-
-NBC News • 41m ago
+finance.yahoo.com • 30m ago
 
 ---
 
-**[A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?](https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html)**
+**[Roundup: Meta power case / AI weaponization / Post-9/11 flying](https://www.businessreport.com/article/roundup-meta-power-case-ai-weaponization-post-9-11-flying)**
 
-The New York Times • 13h ago
+More transparency: Entergy Louisiana has agreed to expand access to highly confidential information in its power expansion case tied to Meta’s Richland Parish data center, allowing seven consumer advocates to review protected materials and their experts’ testimony. However, the groups still cannot access Meta records supporting projected jobs, investment and electricity demand. The case involves […]
+
+Baton Rouge Business Report • 1h ago
 
 ---
 
-**[More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’](https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk)**
+**[Rebels used Anthropic’s AI bot to develop guided weapons, report says](https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/)**
 
-Insiders at the firm fear tech’s advancement could cause human extinction, while others are calling their declarations of concern a ‘setup’
+Militants in Yemen sought to use a coding tool to produce guided rockets and missiles, the firm found, noting it was able to block some but not all the requests.
 
-theguardian.com • 8h ago
+The Washington Post • 22m ago
+
+---
+
+**[Houthis used Anthropic AI to try to build ballistic missiles](https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1)**
+
+Missile test by group apparently failed, but exposes limits of AI safeguards
+
+Financial Times • 6h ago
+
+---
+
+**[Anthropic says Yemeni weapons cell used its AI to try to build missile guidance software](https://www.latimes.com/business/story/2026-09-11/anthropic-says-yemeni-weapons-cell-used-its-ai-to-try-to-build-missile-guidance-software)**
+
+Anthropic uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model to support the development of missile and rocket systems, highlighting growing concerns over the use of advanced AI in military programs and by non-state actors.
+
+Los Angeles Times • 1h ago
+
+---
+
+**[Anthropic blocks possible attempt to use AI to make biological weapons](https://www.bbc.com/news/articles/cx2zrrpkx20o)**
+
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
+
+BBC • 7h ago
+
+---
+
+**[The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)**
+
+We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
+
+blog.google • 23h ago
 
 ---
 
@@ -169,21 +187,7 @@ theguardian.com • 8h ago
 
 Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards.
 
-CNBC • 44m ago
-
----
-
-**[Anthropic says it blocked potential AI bioweapon misuse](https://abcnews.com/GMA/News/anthropic-blocked-potential-ai-bioweapon-misuse/story?id=136351654)**
-
-The company said users may have used Claude for biological research that could pose risks.
-
-abcnews.com • 8h ago
-
----
-
-**[Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)**
-
-The New York Times • 18h ago
+CNBC • 5h ago
 
 ---
 
@@ -191,19 +195,17 @@ The New York Times • 18h ago
 
 ## HackerNews: "ai"
 
-**[LibreOffice breaks download records after declaring it has no AI features](https://news.ycombinator.com/item?id=49610538)**
-
-LibreOffice 26.8 became the app’s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn’t come with generative AI features due to the…
-
-⬆️ 711 • 💬 237 • 2d ago • [Manual do Usuário](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
-
----
-
 **[Muse – Meta’s personal AI agent](https://news.ycombinator.com/item?id=49615537)**
 
 Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.
 
-⬆️ 654 • 💬 735 • 2d ago • [ai.meta.com](https://ai.meta.com/muse/)
+⬆️ 655 • 💬 735 • 2d ago • [ai.meta.com](https://ai.meta.com/muse/)
+
+---
+
+**[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
+
+⬆️ 612 • 💬 295 • 2h ago
 
 ---
 
@@ -221,21 +223,21 @@ I wrote recently about how the collection of good, fruitful open problems is now
 
 One can easily generate any number of open problems in mathematics at will, such as working out the 10^10^10th digit of pi.  But the vast majority of such problems are not worth focusing attention on: they show no particular propensity to reveal any further insights or connections to other questions, or may either be too easy or too impossible relative to known techniques to learn anything from the exercise.  (1/4)
 
-⬆️ 487 • 💬 418 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
+⬆️ 488 • 💬 418 • 2d ago • [Mathstodon](https://mathstodon.xyz/@tao/117237320796901560)
 
 ---
 
-**[We Must Return to the Office to Use AI in Person](https://news.ycombinator.com/item?id=49610229)**
+**[The Waymo effect: how AI is quietly making research less collaborative](https://news.ycombinator.com/item?id=49656496)**
 
-“I didn’t think a full, six-day-per-week, fourteen-hour-per-day, in-office schedule was necessary to discharge my duties clicking the ‘generate’ button, foll...
+How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
 
-⬆️ 395 • 💬 68 • 2d ago • [McSweeney's Internet Tendency](https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person)
+⬆️ 297 • 💬 231 • 4h ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
 **[How An AI math breakthrough ignited a controversy](https://news.ycombinator.com/item?id=49624163)**
 
-⬆️ 220 • 💬 230 • 2d ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+⬆️ 220 • 💬 231 • 2d ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
 
 ---
 
@@ -251,7 +253,7 @@ The exact circumstances surrounding the changes aren't clear, but Meta execs hav
 
 Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
 
-⬆️ 140 • 💬 207 • 18h ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
+⬆️ 159 • 💬 223 • 22h ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 ---
 
@@ -267,7 +269,7 @@ The air traffic control body has said sorry for the disruption, and that they ar
 
 Accelerate Your AI Development with the Thelio Mira AI Linux desktop workstation
 
-⬆️ 111 • 💬 102 • 12h ago • [system76](https://system76.com/workstations/thelio-mira-ai)
+⬆️ 116 • 💬 118 • 16h ago • [system76](https://system76.com/workstations/thelio-mira-ai)
 
 ---
 
@@ -281,37 +283,27 @@ Accelerate Your AI Development with the Thelio Mira AI Linux desktop workstation
 
 📺 CNN
 
-👁️ 3.0M • 👍 24K • 💬 9K • ⏱️ 9:27 • 1d ago
+👁️ 3.2M • 👍 26K • 💬 10K • ⏱️ 9:27 • 1d ago
 
 ---
 
-**[A.I. Expert Warns Humanity Is Halfway to Full Takeover | TMZ](https://www.youtube.com/watch?v=vmJ_es6UO4I)**
+**[Here&#39;s the difference between regular AI and superintelligence](https://www.youtube.com/watch?v=nHrP12wa7Qo)**
 
-The nightmare scenario for A.I. isn't just killer robots ... it could be nukes too. A.I. ethicist Tristan Harris says the warning signs are ...
+Public concerns over the threat of "superintelligence" are on the rise following comments from a former Anthropic researcher that ...
 
-📺 TMZ Clips
+📺 CBS News
 
-👁️ 63K • 👍 959 • 💬 506 • ⏱️ 15:29 • 1d ago
-
----
-
-**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
-
-Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
-
-📺 Philip DeFranco
-
-👁️ 890K • 👍 20K • 💬 4K • ⏱️ 27:13 • 1d ago
+👁️ 48K • 👍 409 • 💬 177 • ⏱️ 6:56 • 16h ago
 
 ---
 
-**[AI researcher says there is &#39;substantial probability&#39; AI could kill all humans in next decade](https://www.youtube.com/watch?v=Dy2kbPEwoi4)**
+**[Expert on what AI-driven extinction would look like](https://www.youtube.com/watch?v=xEgZQG25w3E)**
 
-Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News' Tom Llamas about his viral tweet where he ...
+Connor Leahy, U.S. executive director of ControlAI, joins "The Daily Report" to share his perspective on concerns that AI ...
 
-📺 NBC News
+📺 CBS News
 
-👁️ 689K • 👍 7K • 💬 3K • ⏱️ 13:40 • 1d ago
+👁️ 149K • 👍 1K • 💬 548 • ⏱️ 4:52 • 1d ago
 
 ---
 
@@ -321,15 +313,45 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 589K • 👍 36K • 💬 3K • ⏱️ 1:43 • 1d ago
+👁️ 594K • 👍 36K • 💬 4K • ⏱️ 1:43 • 1d ago
 
 ---
 
-**[A Human Just Beat the World’s Strongest Go AI #ai #google #programming](https://www.youtube.com/watch?v=iySQNsNGD7g)**
+**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
 
-📺 Better Stack
+Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
 
-👁️ 28K • 👍 858 • 💬 40 • ⏱️ 1:48 • 15h ago
+📺 Philip DeFranco
+
+👁️ 902K • 👍 20K • 💬 4K • ⏱️ 27:13 • 1d ago
+
+---
+
+**[‘They’re gambling with our lives’: AI engineer&#39;s resignation goes viral](https://www.youtube.com/watch?v=M8MN5Q2zf10)**
+
+Former Anthropic employee Jacob Coxon made a blunt admission: "The people building AI earnestly believe that it could kill us all ...
+
+📺 CNN
+
+👁️ 85K • 👍 2K • 💬 247 • ⏱️ 1:46 • 1d ago
+
+---
+
+**[The world got a &#39;warning shot&#39; with Hugging Face AI attack: Center for Humane Technology&#39;s Harris](https://www.youtube.com/watch?v=RB6UZRmOtHc)**
+
+Tristan Harris, Center for Humane Technology president and co-founder, joins 'Squawk Box' to discuss the AI Hugging Face ...
+
+📺 CNBC Television
+
+👁️ 49K • 👍 314 • 💬 127 • ⏱️ 4:13 • 1d ago
+
+---
+
+**[This is a race we have to win. #AI #datacenters #writing #journalism](https://www.youtube.com/watch?v=EtbswoffLx8)**
+
+📺 Ohh that's RICH
+
+👁️ 111K • 👍 14K • 💬 658 • ⏱️ 2:38 • 1d ago
 
 ---
 
@@ -339,37 +361,17 @@ Could AI kill us all by the end of the decade? That's what the people building A
 
 📺 BBC Politics
 
-👁️ 167K • 👍 2K • 💬 872 • ⏱️ 6:33 • 1d ago
+👁️ 187K • 👍 2K • 💬 954 • ⏱️ 6:33 • 1d ago
 
 ---
 
-**[‘We don’t have months’: Bernie Sanders sounds alarm on AI&#39;s &#39;extinction&#39; threat](https://www.youtube.com/watch?v=PWkMUmEZbq4)**
+**[AI researcher says there is &#39;substantial probability&#39; AI could kill all humans in next decade](https://www.youtube.com/watch?v=Dy2kbPEwoi4)**
 
-What we have got to do now is light a match under the backsides of members of Congress and say, we don't have months.
+Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News' Tom Llamas about his viral tweet where he ...
 
-📺 MS NOW
+📺 NBC News
 
-👁️ 644K • 👍 9K • 💬 3K • ⏱️ 7:46 • 1d ago
-
----
-
-**[A.I.&#39;s threat to humanity given new consideration in Congress](https://www.youtube.com/watch?v=hlnZQ3utAiY)**
-
-Following an alarming warning raised by an Anthropic employee resigning in protest over the threat of artificial intelligence to the ...
-
-📺 MS NOW
-
-👁️ 62K • 👍 1K • 💬 355 • ⏱️ 8:39 • 1d ago
-
----
-
-**[AI World In CHAOS After Whistleblower Sounds Alarm on Human Extinction](https://www.youtube.com/watch?v=3G7hrmfrguY)**
-
-Krystal and Saagar discuss AI whistleblowers sounding off on the dangers of AI development. Sign Up For 30 Day Free BP Trial: ...
-
-📺 Breaking Points
-
-👁️ 363K • 👍 7K • 💬 2K • ⏱️ 31:00 • 19h ago
+👁️ 718K • 👍 8K • 💬 3K • ⏱️ 13:40 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 75,774 • ❤️ 1,635 • 1d ago
+⬇️ 75,774 • ❤️ 1,709 • 1d ago
 
 ---
 
@@ -397,7 +399,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 67,550 • ❤️ 1,154 • 1d ago
+⬇️ 67,550 • ❤️ 1,172 • 1d ago
 
 ---
 
@@ -409,31 +411,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 17,712 • ❤️ 1,080 • 8d ago
-
----
-
-**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
-
-*Qwen*
-
-Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 7,563,763 • ❤️ 14,695 • 27d ago
-
----
-
-**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
-
-* IST Austria Distributed Algorithms and Systems Lab*
-
-This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 682,187 • ❤️ 814 • 9d ago
+⬇️ 17,712 • ❤️ 1,091 • 8d ago
 
 ---
 
@@ -445,7 +423,31 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 3,121 • ❤️ 672 • 2d ago
+⬇️ 3,121 • ❤️ 684 • 2d ago
+
+---
+
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
+
+*Qwen*
+
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 7,563,763 • ❤️ 14,725 • 28d ago
+
+---
+
+**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
+
+* IST Austria Distributed Algorithms and Systems Lab*
+
+This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 682,187 • ❤️ 824 • 9d ago
 
 ---
 
@@ -457,7 +459,7 @@ Nex-N2.5-Pro is a next-generation agentic text-generation model designed for lon
 
 `text-generation` `396.8B`
 
-⬇️ 12,260 • ❤️ 591 • 8h ago
+⬇️ 12,260 • ❤️ 592 • 12h ago
 
 ---
 
@@ -469,7 +471,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,669,564 • ❤️ 3,429 • 10d ago
+⬇️ 1,669,564 • ❤️ 3,445 • 10d ago
 
 ---
 
@@ -481,7 +483,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,339,637 • ❤️ 3,870 • 21d ago
+⬇️ 11,339,637 • ❤️ 3,885 • 22d ago
 
 ---
 
@@ -493,7 +495,7 @@ GLM-5.3-CYBERSECURITY-FP8 is a text-generation model optimized for offensive cyb
 
 `text-generation` `753.3B`
 
-⬇️ 28,328 • ❤️ 376 • 2d ago
+⬇️ 28,328 • ❤️ 378 • 3d ago
 
 ---
 
@@ -535,7 +537,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
 
-▲ 134 • 💬 3 • ⭐ 163 • 2d ago
+▲ 134 • 💬 3 • ⭐ 243 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
@@ -549,7 +551,7 @@ Show-Harness links vision-language models to robot control via discrete semantic
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 206 • 💬 3 • ⭐ 395 • 3d ago
+▲ 208 • 💬 3 • ⭐ 462 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -562,35 +564,9 @@ AuK is an open-source foundational model that unifies speech generation and edit
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 87,325 • 25mo ago
+▲ 86 • 💬 7 • ⭐ 87,325 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977)**
-
-*Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)*
-
-🏢 Tencent Hunyuan
-
-Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.
-
-▲ 125 • 💬 2 • ⭐ 163 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 41 • 💬 1 • ⭐ 32,196 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -602,9 +578,35 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 109 • 💬 2 • ⭐ 12,405 • 25d ago
+▲ 109 • 💬 2 • ⭐ 12,454 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 41 • 💬 1 • ⭐ 32,213 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977)**
+
+*Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)*
+
+🏢 Tencent Hunyuan
+
+Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.
+
+▲ 125 • 💬 2 • ⭐ 176 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
 
 ---
 
@@ -622,16 +624,17 @@ Autonomous language-model trading agents across production systems show behavior
 
 ---
 
-**[BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous
-  Driving](https://huggingface.co/papers/2312.06371)**
+**[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
 
-*Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)*
+*Apodex Team, B. An, B. Li et al. (71 authors)*
 
-A behavior-aware model predicts vehicle trajectories using insights from traffic psychology and human behavior, outperforming state-of-the-art benchmarks with reduced data.
+🏢 Apodex
 
-▲ 0 • 💬 0 • ⭐ 1,110 • 33mo ago
+Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-[🎓 arXiv](https://arxiv.org/abs/2312.06371) • [💻 code](https://github.com/petrichor625/batraj-behavior-aware-model)
+▲ 206 • 💬 3 • ⭐ 2,567 • 18d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
 ---
 
@@ -645,7 +648,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.7k • 🔱 583 • 5h ago
+⭐ 4.7k • 🔱 584 • 2m ago
 
 ---
 
@@ -665,7 +668,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 456 • 14h ago
+⭐ 3.6k • 🔱 457 • 18h ago
 
 ---
 
@@ -685,7 +688,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 163 • 40m ago
+⭐ 2.5k • 🔱 165 • 4h ago
 
 ---
 
@@ -695,17 +698,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 89 • 2d ago
-
----
-
-**[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)**
-
-x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
-
-`Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
-
-⭐ 1.9k • 🔱 194 • 17h ago
+⭐ 2.3k • 🔱 90 • 2d ago
 
 ---
 
@@ -715,7 +708,27 @@ ARTEMIS turns natural-language instructions into reliable Android automation. It
 
 `Python` `ai-agents` `android` `google` `test-automation` `testing`
 
-⭐ 1.8k • 🔱 174 • 2h ago
+⭐ 2.1k • 🔱 190 • 7h ago
+
+---
+
+**[duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)**
+
+x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
+
+`Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
+
+⭐ 1.9k • 🔱 195 • 22h ago
+
+---
+
+**[amosblomqvist/learn](https://github.com/amosblomqvist/learn)**
+
+My AI learning system.
+
+`TypeScript`
+
+⭐ 1.8k • 🔱 178 • 16d ago
 
 ---
 
@@ -726,16 +739,6 @@ AI harness reference implementation for on-demand delivery workflows
 `Java`
 
 ⭐ 1.8k • 🔱 59 • 1d ago
-
----
-
-**[amosblomqvist/learn](https://github.com/amosblomqvist/learn)**
-
-My AI learning system.
-
-`TypeScript`
-
-⭐ 1.8k • 🔱 177 • 16d ago
 
 ---
 
