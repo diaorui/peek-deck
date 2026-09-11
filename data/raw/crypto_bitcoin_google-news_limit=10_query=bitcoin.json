@@ -5,34 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Live updates: Bitcoin heads higher as investors look past looming Fed rate hike",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTJkYXplRVlkT1lYUkFQcjB2YzBSRHJrUzdvY1llc0FJa3lHeHZEVGNXZ3Z6RXZvNmktLWRQM19FR2V3eVpZeFZmX1ZyWlRld04yekNzd3VCVTV5UzJRclNYMUZJbkpiS2RlMkJGTGE4b3NJTVE4ZlNjS190R3BTaXVzS0pYWWx5NzdEalViRlU4MXR6UV9Pb1BySFlGSlpqajZ6Si1mU1BBcVN2dG15bjU1NWpiZGdTRG5Yaw?oc=5",
-      "pub_date": 1789137038.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+      "headline": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWdQS3QwTUFlRXBkY3FIWk1oSjBlcHlXMW8xOUhEM2Y5VlFjQ3JVVzF6c0txTjBSMkswSV94NlI4bTZYRy1NQk1Jdi15YkdpcVZyVFRTR0V3S3dpVEl6OXlsRDR2TWw4SWRQU3BHR0J3SW9CbzB0b2RPa2RBdndZNGpUUXjSAYoBQVVfeXFMUGl5WUJ0dVBFbHZXS0lQZU9uV2FWQ0NiSnBPMUluNnZPaUU2bFJ5aFJIemQ1amRmYlVKRUpCb2RVekFmS2YyYzhVbFQ3NnpFR01udGpxM0tvTTc5eTRmUS1adlh1NFM1SE9Qd0JmTVh6akEyODVzNHRoVGU0THY4VXA3NmdDY2lrM3ln?oc=5",
+      "pub_date": 1789145167.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361837-1789137192360-gettyimages-2291185551-aw1a9203_y44fklha.jpeg?v=1789137385&w=1920&h=1080",
+      "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
+    },
+    {
+      "headline": "Bitcoin\u2019s White-Hat Hack Is Just Old-Fashioned Extortion",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2lHQ01aNTZUcjd2Ukh3dk1wSDhRcmFWVUx0ajhKUzBtUWR5RUhoUngteUE1OXM0MDdJNUtSbnNOMjBXQms2eW5hZDNZUHY3UDZOTmxET3JObW1Va3k5TC1sSW1SbUVnU1lpdm1vXzFlY0ZlNjFpMHpENlJ0MTQtQTJOOGk2eEtCYlk0MHdWTnN1UXdiT0VycXZZdGdmS2dFSndDaXV2SUNEV2J4?oc=5",
+      "pub_date": 1789117202.0,
+      "article_url": "https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin vs. Gold: Cathie Wood Sees a Breakout",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPektEQjJhSVhobUhlQXRaV3BhNzF2Tm44Z2F2UzUzbzZfb2F3VS1tS3FXZ0dRcUxVN0ZsLVJGd2duUkNFZVVWNndXNi1mSDhINzZEN2xYWWpncjQyTEdfeXYycEl6WkdjQ0diOHd6cVdLdHY2R2x1bmVBcng5Wm1GdGdKYU8wbG94YTFzVEVqUnhZeEJXY1FZ?oc=5",
-      "pub_date": 1789135035.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-gold-cathie-wood-135715356.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ba10d5983e9903e1fad709d143614e8bab459607539479e078d9611ceab3c09c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F943ad346641dd308a363523402e6cd6c.jpg",
-      "description": "Cathie Wood is calling a structural breakout in Bitcoin against gold, but the trailing-year data tells a very different story than the one she is pitching right now."
-    },
-    {
-      "headline": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanRRMllnQW1peElrdDM1R2dpRGUwVjg1N0ljVm5yTEtkclVCYVB1aHRRRF9YajFnSXV1T21GaHl1Tmw1SnNsUEJ1UlhNZ3QtV0VhNC1EMklSbC1pQTVkT2JLaUxJUjdMd282V2RfZGJiWUVSaHFINGhJeml0dGxWMkw2OFZ2Y05zNExncVkybEJ5UG53Tkd5SFFKS2JGTWxVYjhFUA?oc=5",
-      "pub_date": 1789136258.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/blockstream-refuses-ransom-return-47m-141738871.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/83ad5296b50a476a0b55c761c8ef067ba2c6cdfac96758a2155fbeaf945ff665/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fd587c4cf34772d205097ad85feb851ef.jpg",
-      "description": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned."
     },
     {
       "headline": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
@@ -45,17 +35,47 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Solana, XRP Tumble Ahead Of CPI \u2013 And Retail Traders Aren\u2019t Feeling Bullish",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbC14WEgyR3F1Unp4WnVUUTlQR3QxZDAyMTRxQnY2NDJabk92dEoyLUR0cS00a0d5d1NmOWF1WC02MVFCeHZhNzZkVUVsclpCTlFXUTh4SjdpYnFTaE1mSHRyVFM3NUFQS0YwaG9lMVZvZkRXbGdzYUIzRFhSNW1JeFE4dDdTbVFGR1o3YThray1HZ3QxZ3lRMk1mQVRpSU9wdmtrTXRrbU1KMmx2d25venBRa1RpZ21lRWJWX0xIT25Gc0ViU0VJbjVValZDNGJITmV5bFlLcXQ?oc=5",
-      "pub_date": 1789128763.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:f9f9f0021094b:0-bitcoin-solana-xrp-tumble-ahead-of-cpi-and-retail-traders-aren-t-feeling-bullish/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC), Solana (SOL), and Ripple\u2019s (XRP) token fell Friday morning, extending a rough week for major cryptocurrencies even as U.S. stock futures pointed to a higher open ahead of the August CPI report.Bitcoin\u2019s price fell 1.5% over the past 24 hours, while Zcash (ZEC) led losses among major\u2026"
+      "headline": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTJkYXplRVlkT1lYUkFQcjB2YzBSRHJrUzdvY1llc0FJa3lHeHZEVGNXZ3Z6RXZvNmktLWRQM19FR2V3eVpZeFZmX1ZyWlRld04yekNzd3VCVTV5UzJRclNYMUZJbkpiS2RlMkJGTGE4b3NJTVE4ZlNjS190R3BTaXVzS0pYWWx5NzdEalViRlU4MXR6UV9Pb1BySFlGSlpqajZ6Si1mU1BBcVN2dG15bjU1NWpiZGdTRG5Yaw?oc=5",
+      "pub_date": 1789147809.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Current price of Bitcoin for September 11, 2026",
+      "headline": "Bitcoin, Ether rebound as short liquidations hit $427 million",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwS21sQ0RlNWhYREVhTjVEdGhnekF0SVVIZ3V3VUxoSXMtS0t6dUlDMGVYenpPeTZEM1ItdDhNZGdNLWlQa2pvQXhYcXVfNjRPOFNLYXFiYS1PY2ZreHVMajRQUHhSNlJ2UUVIcmktOA?oc=5",
+      "pub_date": 1789147192.0,
+      "article_url": "https://qz.com/bitcoin-ether-rebound-short-liquidations-091126",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239689526-300x200.jpg",
+      "description": "Ether jumped as much as 8.3% on Friday as more than $255 million in bearish bets on the token were wiped out in 24 hours"
+    },
+    {
+      "headline": "Bitcoin liquidations exceed $684M in 24 hours as shorts get crushed",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWktpQVJwcEIzc2dpaXg5UXlJUDZFSVktM1MyVkRMRnMyWUtkUUZ5cVFLaUFqU3duZUdwa19IWi1mX1c5ekd6T2tyNENXejRRcW5sSUY3ZGZDNktGaW9uY2FTUjEwNVJRQ0dudGRwci1WQi1WbFd0TGNScF9QVjFGZ1ItTERjQWNGNkp2Y25lcVJmbkRTTVJhVEZpVDVBYlhFMmJsQVprSGlWeW5VeURWYmJRenYyVVk2elRMU0xuZ1pZXzdDV0FqRlBWUQ?oc=5",
+      "pub_date": 1789142937.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:c47db91b4094b:0-bitcoin-liquidations-exceed-684m-in-24-hours-as-shorts-get-crushed/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The crypto derivatives market just had a very expensive day. Over $684 million in leveraged positions were wiped out across exchanges in a 24-hour window, with short sellers absorbing the lion's share of the pain at roughly $422 million in liquidations compared to $261 million from longs.Approximat\u2026"
+    },
+    {
+      "headline": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDc2d2laTVVkMW1JdWJnZnpyeXNtRGdwM0RzTktzT09qYmZ4dDZGREE4U2lubU5wMjlqN0trN0FSeUg3QUN0aHFlWHdkNkpJWUxEbjdKTnUybkRjbjdKQ0RGU1BxNzZ3QW12azYxbVhZWEpiS3JyaXQ0dmVHYXc2TTFnS2Y4bllTUHpjaWdFaTEyWm1sbDBqUlJvVmE2NU8zSmloOGEwYzNzMmd2OTJR0gG3AUFVX3lxTE9YNGFEMzJjVTBGRVI1Ti13b1E5QXVac0p1QnNiNjM5NktnS2VLR0hDdkZUUS1nS1BtMXhucERsZUFmSmZ3dGlEcVF6RklxZlhxdnBqdE5hWi04NHJSU2Z2VEplWWZJazNpeG1SbldBR0VtT09iV3BLTnA3MXNyU3JhLTVYbk1tSW5sWFlwTEozTnFZTkFWM0FZQzBGclhjUmdnM0NPQTVtNnZoTDNIbmhKZUlHTy1Gbw?oc=5",
+      "pub_date": 1789136258.0,
+      "article_url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+      "description": "With 598.5 BTC still outstanding, the company says it will go to law enforcement should the funds not be returned."
+    },
+    {
+      "headline": "Current price of Bitcoin for Sept. 11, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzdXZINHB2Z3h2a3pmd3JQUFY5TlRvZk8zcnhBdGxUQ2FDb3BiZWNiREprRGRscFViVUhhNTI0VXE5NWxDandwN1JOazJLeWt0YWVpTmJCRkdHRUdtQVVMNTQ4RWhuQVU?oc=5",
@@ -65,46 +85,26 @@
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Lyn Alden: Bitcoin Outperforms Gold Next Three Years",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjh0TXREaTg5NjhYSl9Vd1VaVzVENnlnN1JwSUhROEdmWjJFSFRMb1VFeFNFMnFxWlVGdGlfNVZTQzA1aXhXNHFJX1BHTFh4bldWVlJObmNWTEVMbmRwb1VnSWxWMnIxREtGWHpjdmtTY3UxcGw3WE9LdW1Eczh3YUd0QmZkNVVWLWpmbFl3?oc=5",
-      "pub_date": 1789135777.0,
-      "article_url": "https://blockchain.news/flashnews/lyn-alden-bitcoin-outperforms-gold-next-three-years",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Lyn Alden picks Bitcoin over gold for 2-3 years as gold hits fair value at $79328 BTC levels while sentiment stays negative on the four-year cycle."
+      "headline": "Crypto News: New Crypto Pepeto Announces Exchange Final Testing While Bitcoin Price Prediction Targets $1.5 Million",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaEFCY09DWUV6UXhVeEhNMFVTY2UwLS1NdjhtbEFKOWd2VDZ0enV6aGFWUkdvakJMNkdKRzhoSEwtN3pXMVB4ZWJmU0ZDSVFaYW0wUnlRME1sRXNsaDNVSl9OMGduU3RabHUzS1doeG13OG1zOXJZckpTOWJOVHh0cmVlNnZOd3FQTDVtWlpDZmN0a3dvZDFUQVdkTDEwTm5jNzA4MWNBNmE4TFkxQzFOUkMyWnlvQ0JuQVhQUDVUR2lmV19GWTVmN29peUZOck8wQV96ZUcwbXNUeXJuNGVJeGVVR2xDalNCV094NGpnTXUxUHFld09Qa3BWN2Z2TXRpbEE?oc=5",
+      "pub_date": 1789148911.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-exchange-final-testing-while-bitcoin-price-prediction-targets-1-5-million-1036540088",
+      "image": "https://ml.globenewswire.com/Resource/Download/bdbd8f83-0f04-4d20-b5e4-537e33ba2575/photo-2026-09-11-20-53-19.jpg",
+      "description": "Dubai, UAE, Sept.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto just delivered the update its presale buyers have been waiting for: the bridge that connec..."
     },
     {
-      "headline": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVN5cG1uUGxRUnZRSm1US3BWME9SZG9HVGNfbFRKRWExdjItMHBlcnkzUFR6SnU2SUVPQ0k2QllJaHlIbFlBWGdscEJVVzNYalpTcTNkcmh2U0ZTaVhJTk5McFUwdWYzVC1Ea1llTHNVUEY1NEExSVc2a3FRdzNPM09EX3hXRnF5RlRnQndwb0pOX2lLY1drS1dOSm4zM01ZQlpWUzEtZ2RJZmxiOHc?oc=5",
-      "pub_date": 1789134646.0,
-      "article_url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
-      "description": "A 10-year study found more than 50% of Bitcoin\u2019s daily variance now clusters around US trading hours, with the peak moving alongside New York\u2019s clock."
-    },
-    {
-      "headline": "Man pleads guilty to orchestrating $240 million bitcoin theft",
-      "source": "WAFB",
-      "source_url": "https://www.wafb.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXJock5MUERyTVhFdExqVjllS0xONHgwdDNuX0F3ZFNvc21TVXVxb3hQY0pkU2EtdElray15LTZnejlGVVp1V2ZSRXFMRWN1Z0doZVR4Z1NieGRXN0RMaHU1VFRRbGhlVVdsNVVacmlyRlBEMDlLcEptb2xrbHNyTXp6WW9yeTdKUllGRG5Cd1F2TS04Q2l5X1Jaenk?oc=5",
-      "pub_date": 1789123020.0,
-      "article_url": "https://www.wafb.com/video/2026/09/11/man-pleads-guilty-orchestrating-240-million-bitcoin-theft/",
-      "image": "https://gray-wafb-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F09-11-2026%2Ft_761f4b755aaa4e419ae5018edfd283bb_name_file_1280x720_2000_v3_1_.jpg?auth=c553c83f55250b130beab9b291551c9263c17b1397cad191c56712fbd202f44d&width=1200&height=600&smart=true",
-      "description": "The man\u2019s purchases included a $2 million watch and more than 30 cars, according to the FBI. (ASSOCIATED PRESS, AP Photo/Jon Elswick)"
-    },
-    {
-      "headline": "Bitcoin trades at a major support ahead of the US CPI report. What to watch next?",
-      "source": "investingLive",
-      "source_url": "https://investinglive.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWg3dzlfMTBEMkhXVEExMDJsRDJYdEhXT3ZXbTNBaHg3dGVQTDZMQ1hrcWxkSzIzeFh1aEI0eHdGblVTTTdLUVM2TWdiUm8ycTdpbm9XR1lzMFFzLWdjZXVOQllQMk9xNkJnVHpQUWZaS0NRbVNSd0ZDQjY3d2xaWFpLZGZPMlZkVFVsSkZlZjZ5OElHaEdJdDhEeTJaOXhCeGV6VElQYk1kVkE5M3RZOUhLQ1RBUkhSaXZoUkpn?oc=5",
-      "pub_date": 1789117508.0,
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-trades-at-a-major-support-ahead-of-the-us-cpi-report-what-to-watch-next/",
-      "image": "https://investinglive.com/cms/media/bitcoin.png?width=960&format=webp",
-      "description": "Bitcoin has fallen back to the key $76,000 support as surging oil prices boosted Fed rate hike expectations. With markets now pricing a 67% chance of a hike\u2026"
+      "headline": "Bitcoin and Gold Flash Crash: Why a 2.4% CPI Print Still Ran Hot",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84di12aVd0WndRVERjYzRPaUJPclg3aVZnQktLbU0ybC1taTZOYlFUS05waUFBX2hBRTVfV0paaDJ3RTM4azBrdVE3Z0RROFFEZzBoTW9renF6VDRpWHJkTjBR?oc=5",
+      "pub_date": 1789129980.0,
+      "article_url": "https://beincrypto.com/us-cpi-gold-bitcoin-reaction/",
+      "image": "https://assets.beincrypto.com/img/qGbi_0R3lpJFpylkAI6i8oInz3Q=/1200x630/smart/filters:format(jpeg):quality(82)/4fc43dad979b4dad9d2f979afe3ba492",
+      "description": "August core CPI rose 0.3% against a 0.2% forecast, sending Bitcoin and gold into a flash crash before both rebounded."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T16:00:11.852826+00:00"
+  "fetched_at": "2026-09-11T19:07:27.904173+00:00"
 }
