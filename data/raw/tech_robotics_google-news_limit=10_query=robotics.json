@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
+      "pub_date": 1789106560.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361576-1789092834048-aether_openai_astra_Screenshot_2026-09-11_101318.jpg?v=1789097527&w=1920&h=1080",
+      "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
+    },
+    {
       "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -15,14 +25,34 @@
       "description": null
     },
     {
-      "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
-      "pub_date": 1789049857.0,
-      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
-      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
+      "pub_date": 1789150254.0,
+      "article_url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robots Are Learning to Feel",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
+      "pub_date": 1788937200.0,
+      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+      "description": "New tactile datasets could solve a longstanding challenge in robotics"
+    },
+    {
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
+      "pub_date": 1789058257.0,
+      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
     },
     {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
@@ -45,24 +75,14 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
-      "pub_date": 1789106560.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361576-1789092834048-aether_openai_astra_Screenshot_2026-09-11_101318.jpg?v=1789097527&w=1920&h=1080",
-      "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
-    },
-    {
-      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
-      "pub_date": 1789058257.0,
-      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+      "headline": "Laser weapons, space dogfights, and humanoid robots: The future of the battlefield",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFJaNHhhaGxWX0phYlh4WnRkT0pvVURzblYxbzQ0ZW9id2s4RjRUcW9FLWx1R1FaT2lTMGlDLWtsb3JES3NHUHg2TzJWLVhaSVVfZHhYVm94Slh0VHhWTGotVVRCUmhYc1BNd1NQVHNSNkttTy1zNUg4NmdLTWhOQlZDUDVqSnNWWDE2ZFZ1NVRxem5rVTh6ZV9xQS1oQkZOWnAtVExSU2gtMXBJQjdBZEhSbzZBd3B4?oc=5",
+      "pub_date": 1789136089.0,
+      "article_url": "https://seekingalpha.com/news/4641536-laser-weapons-space-dogfights-and-humanoid-robots-the-future-of-the-battlefield",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2229453206/image_2229453206.jpg?io=getty-c-w630",
+      "description": "Laser weapons, space warfare, and humanoid robots are reshaping defense."
     },
     {
       "headline": "Medtronic\u2019s Jim Peichel on AI, robotics and the future of surgery",
@@ -75,36 +95,16 @@
       "description": "Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency."
     },
     {
-      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
-      "pub_date": 1789065307.0,
-      "article_url": "https://breakingdefense.com/?p=95208",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
-      "source": "The Japan Times",
-      "source_url": "https://www.japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
-      "pub_date": 1789094340.0,
-      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
-      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
-    },
-    {
-      "headline": "American company Swarmer buys Ukrainian ground robot maker for US$224m \u2013 WSJ",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-      "source_url": "https://www.pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdk5hV0N5bldkMDN6aHFyVTJCd0NhcmNjcm1VMjRGYzhQMUJFM2lHMVd5aGIzNnpoUmszSk9tRHFCZktDVEt4dWs0LVMxbXZ4a0s3RmNfak1vRXFEakxSZXV2TjTSAXBBVV95cUxOZ3JrSEV1ZHhzdFg1UlZzZzNTN1RfWjBuRWpoWjFfLXA2MmJ5YUkxU0xYNmpEMXU2N0VVdG9TSm9qa2xLZkxMazVxOGRXM1hIRHJQUDlNRzRmTEpPRTR1YnROaDVQTlFJMFFUNThiSVZN?oc=5",
-      "pub_date": 1789031820.0,
-      "article_url": "https://www.pravda.com.ua/eng/news/2026/09/10/8052757/",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/910863/806f18021886e1cd523462980cf6f20a.jpeg?w=1200&q=85&stamp=1789031907",
-      "description": "US-based defence tech company Swarmer is acquiring Ukrainian ground robotics maker Ratel Robotics in a cash-and-stock deal worth up to US$224 million."
+      "headline": "Maven Robotics wants to steal your robot deployment deal",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
+      "pub_date": 1789049857.0,
+      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T15:59:59.994744+00:00"
+  "fetched_at": "2026-09-11T19:07:31.401093+00:00"
 }
