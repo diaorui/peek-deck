@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-11T21:51:17.787621+00:00'
+updated: '2026-09-11T23:54:51.259788+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 11, 2026 at 21:51 UTC  
+**Last Updated:** September 11, 2026 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are "gambling with our lives" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: "Jacob is correct here, we really do earnestly believe AI could kill all humans." He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?
 
-3h ago
+5h ago
 
 ---
 
@@ -49,7 +49,15 @@ Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesda
 
 A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger equates to 1.9 kg of CO₂e emissions". Google’s 2025 research paper reports that "a median Gemini Apps text prompt generates 0.03 gCO2e". That's 1,900 grams of CO₂e emissions per cheeseburger. That’s 0.03 grams of CO₂e emissions per Gemini text prompt. 1,900 ÷ 0.03 ≈ 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger.
 
-20h ago
+23h ago
+
+---
+
+**[UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)](https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/)**
+
+Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humans
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi) • 6h ago
 
 ---
 
@@ -57,13 +65,7 @@ A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger 
 
 Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It’s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?
 
-🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 11h ago
-
----
-
-**[James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks](https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/)**
-
-3h ago
+🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 13h ago
 
 ---
 
@@ -73,11 +75,9 @@ Polish developers made an iPhone app that can detect nearby Meta smart glasses A
 
 ---
 
-**[UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)](https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/)**
+**[James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks](https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/)**
 
-Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humans
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi) • 4h ago
+5h ago
 
 ---
 
@@ -85,7 +85,15 @@ Letter from 70 MPs and peers follows Anthropic employee’s claim new technology
 
 What happens when machines surpass the most brilliant human minds? Mathematicians are finding out
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/) • 7h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/) • 9h ago
+
+---
+
+**[What if AI could keep working inside the experience it created.. and then you entered that creation as a character.. without re-running any code?](https://www.reddit.com/r/artificial/comments/1wdtx3c/what_if_ai_could_keep_working_inside_the/)**
+
+Most AI creation tools follow a generate preview regenerate loop. I wanted something more continuous. I built AskSary LiveLoop, where an AI can create an interactive experience, observe it while it runs, apply new requests without wiping its state, and repair failures inside the same session. In the demo, it modifies persistent worlds, 3D designs, and playable scenes while rendering continues. Instructions can also be queued, so the user can act more like a creative director than someone waiting for each prompt to finish. These are just examples of what you can do with it. You can take an idea from a sketch to fully built website without ever losing vision. You can create a world that starts off as observatory concept to then entering the world your self and navigate as one of the characters. This all happens live where you can queue your ideas up and watch them all come to life with the ability to download the current state at any given moment as a complete self contained file that require no dependencies . With persistent memory that never loses context you can log out the system and return to it on another machine and pick up exactly where you left off at the exact state you left it. I’m interested in whether people see this as an agent runtime, a creative tool, or something else entirely. The system is live and ready to try but unless mod's approve i didn't want to break any rules here with the link. I wanted to gather feedback on what i've built and whether its something your interested in. Any questions welcomed
+
+2h ago
 
 ---
 
@@ -93,7 +101,7 @@ What happens when machines surpass the most brilliant human minds? Mathematician
 
 The PyTorch Foundation announced on September 8 at PyTorch Conference China in Shanghai that Alibaba Cloud and Cambricon joined as Platinum members. Each gets a seat on the Governing Board and one on the Technical Advisory Council. If you build on non-NVIDIA accelerators, the TAC seat is worth watching. Cambricon ships MLU processors into Chinese data centers, and their PyTorch backend has lived out of tree, meaning it can lag or break after major releases. A TAC seat gives them a direct channel to push backend support upstream rather than maintaining a fork. That is a real difference for anyone on that hardware. I want to be clear about what this does not change. A governance seat is not a benchmark, and the silicon itself is not suddenly matching an H100 on throughput. More than 250 Chinese organizations were already contributing to foundation projects before these seats existed. What changed is who has input on framework architecture decisions. Both companies that took those seats are lines in CNQQ, with Alibaba at 8.67% and Cambricon at 2.62% of the latest published holdings. The accelerator maker is a small fraction next to the internet and cloud line. CQQQ overlaps on the larger names but draws from a narrower mainland slice.
 
-10m ago
+2h ago
 
 ---
 
@@ -101,15 +109,7 @@ The PyTorch Foundation announced on September 8 at PyTorch Conference China in S
 
 I posted 11 quotes, with sources, from top scientists They were all predicting doom. You labeled it “GOSSIP” YOU GUYS ARE PART OF THE PROBLEM
 
-39m ago
-
----
-
-**[Comparing Continued Pretraining to RAG (accuracy and performance)](https://www.reddit.com/r/artificial/comments/1wdsbb0/comparing_continued_pretraining_to_rag_accuracy/)**
-
-Mostly as a fun experiment I wanted to do a quick comparison of performance and accuracy between a CPT trained QWEN 3.5 4B model and a RAG implementation against the base model. The point of this exercise is mostly to measure the performance benefit of internalizing the knowledge vs doing reasoning on-the-fly. Sharing my findings here in case anyone is interested: https://www.teachmecoolstuff.com/viewarticle/comparing-rag-and-continued-pretraining-of-llms
-
-1h ago
+2h ago
 
 ---
 
@@ -119,27 +119,39 @@ Mostly as a fun experiment I wanted to do a quick comparison of performance and 
 
 **[Opinion | This Is Really Bad](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)**
 
-The New York Times • 12h ago
+The New York Times • 14h ago
 
 ---
 
 **[Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)**
 
-wsj.com • 8h ago
+WSJ • 10h ago
 
 ---
 
-**[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)**
+**[How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate](https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1)**
 
-Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
-
-Anthropic • 1d ago
+WSJ • 1d ago
 
 ---
 
-**[AI-Obsessed Wall Street Pours Billions Into Inflation-Era Bets](https://www.bloomberg.com/news/articles/2026-09-11/ai-obsessed-wall-street-pours-billions-into-inflation-era-bets)**
+**[Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation](https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9)**
 
-Bloomberg.com • 1h ago
+Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion.
+
+Business Insider • 1h ago
+
+---
+
+**[Senate AI safety bill’s path forward remains unclear](https://www.politico.com/news/2026/09/11/klobuchar-thune-ai-safety-bill-faces-impasse-01073026)**
+
+Politico • 2h ago
+
+---
+
+**[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff](https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff)**
+
+bloomberg.com • 23h ago
 
 ---
 
@@ -147,39 +159,31 @@ Bloomberg.com • 1h ago
 
 A group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the “catastrophic risk posed by advanced artificial intelligence.”
 
-CNN • 12m ago
+CNN • 2h ago
 
 ---
 
-**[Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)**
+**[JPMorgan cut off Situational Awareness lending after AI losses](https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1)**
 
-Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be "a form of public good."
+Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off
 
-techcrunch.com • 51m ago
-
----
-
-**[Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)**
-
-wsj.com • 2d ago
+Financial Times • 6h ago
 
 ---
 
-**[A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?](https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html)**
+**[The Original Sin of AI](https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/)**
 
-The New York Times • 9h ago
+The harms of chatbots are clear enough to do something about them now.
 
----
-
-**[AI helps find hidden human proteins and reveals what they do](https://phys.org/news/2026-09-ai-hidden-human-proteins-reveals.html)**
-
-phys.org • 11m ago
+The Atlantic • 13h ago
 
 ---
 
-**[Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)**
+**[Oil, Lawsuits, AI: Inside Harvard’s Increasingly Opaque $57 Billion Endowment](https://www.thecrimson.com/article/2026/9/11/harvard-endowment-investments/)**
 
-The New York Times • 1d ago
+A Crimson analysis of nearly 3,400 tax records traced Harvard’s endowment through a sprawling network of outside funds, revealing investments tied to fossil fuels, litigation finance, private companies, catastrophe risk, and more.
+
+The Harvard Crimson • 7h ago
 
 ---
 
@@ -189,7 +193,13 @@ The New York Times • 1d ago
 
 **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 721 • 💬 350 • 8h ago
+⬆️ 741 • 💬 359 • 10h ago
+
+---
+
+**[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
+
+⬆️ 556 • 💬 614 • 6h ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
@@ -197,13 +207,7 @@ The New York Times • 1d ago
 
 Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.
 
-⬆️ 507 • 💬 450 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
-
----
-
-**[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
-
-⬆️ 395 • 💬 463 • 4h ago • [mathandai.org](https://mathandai.org/)
+⬆️ 507 • 💬 451 • 2d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 ---
 
@@ -211,7 +215,7 @@ Apple today announced AirPods 5, delivering the industry’s best Active Noise C
 
 How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
 
-⬆️ 317 • 💬 289 • 10h ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
+⬆️ 320 • 💬 292 • 12h ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
@@ -233,15 +237,7 @@ The exact circumstances surrounding the changes aren't clear, but Meta execs hav
 
 Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
 
-⬆️ 167 • 💬 230 • 1d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
-
----
-
-**[Feeling Sad about AI](https://news.ycombinator.com/item?id=49661506)**
-
-Coding in Rust and others; making coding videos.
-
-⬆️ 161 • 💬 257 • 5h ago • [Andy Balaam's Blog](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
+⬆️ 170 • 💬 230 • 1d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 ---
 
@@ -249,7 +245,7 @@ Coding in Rust and others; making coding videos.
 
 A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
 
-⬆️ 159 • 💬 82 • 6h ago • [hcker.news](https://hcker.news/?ai=exclude)
+⬆️ 167 • 💬 83 • 8h ago • [hcker.news](https://hcker.news/?ai=exclude)
 
 ---
 
@@ -257,7 +253,15 @@ A better Hacker News reader for following stories, filtering noise, and keeping 
 
 Hacker News with AI content removed.
 
-⬆️ 158 • 💬 72 • 5h ago • [unslop.news](https://www.unslop.news/)
+⬆️ 167 • 💬 73 • 7h ago • [unslop.news](https://www.unslop.news/)
+
+---
+
+**[Feeling Sad about AI](https://news.ycombinator.com/item?id=49661506)**
+
+Coding in Rust and others; making coding videos.
+
+⬆️ 165 • 💬 262 • 7h ago • [Andy Balaam's Blog](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
 
 ---
 
@@ -271,17 +275,27 @@ Hacker News with AI content removed.
 
 📺 CNN
 
-👁️ 3.6M • 👍 29K • 💬 11K • ⏱️ 9:27 • 1d ago
+👁️ 3.8M • 👍 31K • 💬 11K • ⏱️ 9:27 • 1d ago
 
 ---
 
-**[More AI researchers warn of AI&#39;s threat to humanity](https://www.youtube.com/watch?v=_Fi4cpKCXss)**
+**[When AI acts on its own. #gemini #tech #ai](https://www.youtube.com/watch?v=8ChPt9ybb8w)**
 
-NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.I has to humanity.
+From Shane Smith Has Questions with Aza Raskin. Is Gemini AI capable of deception? Researchers recently observed the model ...
 
-📺 NBC News
+📺 VICE News
 
-👁️ 271K • 👍 2K • 💬 987 • ⏱️ 12:10 • 20h ago
+👁️ 7K • 👍 131 • 💬 8 • ⏱️ 0:21 • 3h ago
+
+---
+
+**[AI News: The AI World is REALLY Scared Right Now](https://www.youtube.com/watch?v=JwTCjarfJYw)**
+
+Here's the AI News you might have missed this week. See what Optimizely's Virtual Teammates can automate for you at ...
+
+📺 Matt Wolfe
+
+👁️ 63K • 👍 2K • 💬 358 • ⏱️ 35:45 • 8h ago
 
 ---
 
@@ -291,7 +305,7 @@ What we have got to do now is light a match under the backsides of members of Co
 
 📺 MS NOW
 
-👁️ 791K • 👍 11K • 💬 3K • ⏱️ 7:46 • 1d ago
+👁️ 839K • 👍 11K • 💬 4K • ⏱️ 7:46 • 1d ago
 
 ---
 
@@ -301,47 +315,7 @@ Public concerns over the threat of "superintelligence" are on the rise following
 
 📺 CBS News
 
-👁️ 57K • 👍 454 • 💬 204 • ⏱️ 6:56 • 22h ago
-
----
-
-**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
-
-Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
-
-📺 Philip DeFranco
-
-👁️ 931K • 👍 20K • 💬 4K • ⏱️ 27:13 • 2d ago
-
----
-
-**[AI Expert Reveals How Long We Have Left... | TMZ Live Clip](https://www.youtube.com/watch?v=qbFJuM3dFZM)**
-
-About TMZ: TMZ has consistently been credited for breaking the biggest stories dominating the entertainment news landscape ...
-
-📺 TMZ
-
-👁️ 118K • 👍 1K • 💬 556 • ⏱️ 11:04 • 1d ago
-
----
-
-**[&#39;Godfather of AI&#39; on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade](https://www.youtube.com/watch?v=IZMjJGi4YhI)**
-
-Could AI kill us all by the end of the decade? That's what the people building AI believe, according to a whistleblower who has just ...
-
-📺 BBC Politics
-
-👁️ 211K • 👍 3K • 💬 1K • ⏱️ 6:33 • 1d ago
-
----
-
-**[AI researcher says there is &#39;substantial probability&#39; AI could kill all humans in next decade](https://www.youtube.com/watch?v=Dy2kbPEwoi4)**
-
-Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News' Tom Llamas about his viral tweet where he ...
-
-📺 NBC News
-
-👁️ 763K • 👍 8K • 💬 3K • ⏱️ 13:40 • 1d ago
+👁️ 59K • 👍 474 • 💬 208 • ⏱️ 6:56 • 1d ago
 
 ---
 
@@ -351,17 +325,47 @@ Connor Leahy, U.S. executive director of ControlAI, joins "The Daily Report" to 
 
 📺 CBS News
 
-👁️ 163K • 👍 1K • 💬 586 • ⏱️ 4:52 • 1d ago
+👁️ 170K • 👍 1K • 💬 595 • ⏱️ 4:52 • 2d ago
 
 ---
 
-**[AI Company Whistleblower Gets REAL About Dangers to Humans](https://www.youtube.com/watch?v=bnPrtPUcUrY)**
+**[There&#39;s no &quot;kill switch&quot; if AI gets out of control, The Atlantic CEO says](https://www.youtube.com/watch?v=Urw-nLawnlw)**
 
-Megyn Kelly is joined by Jacob Coxon, former Anthropic employee, to discuss the very real dangers of artificial intelligence, the ...
+Former and current Anthropic employees issued public warnings this week about the risks of AI development, saying it has the ...
 
-📺 Megyn Kelly
+📺 CBS Mornings
 
-👁️ 136K • 👍 2K • 💬 598 • ⏱️ 17:57 • 1d ago
+👁️ 34K • 👍 245 • 💬 114 • ⏱️ 4:06 • 1d ago
+
+---
+
+**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
+
+Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
+
+📺 Philip DeFranco
+
+👁️ 942K • 👍 20K • 💬 4K • ⏱️ 27:13 • 2d ago
+
+---
+
+**[More AI researchers warn of AI&#39;s threat to humanity](https://www.youtube.com/watch?v=_Fi4cpKCXss)**
+
+NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.I has to humanity.
+
+📺 NBC News
+
+👁️ 289K • 👍 2K • 💬 1K • ⏱️ 12:10 • 22h ago
+
+---
+
+**[Anthropic Team Lead: AI Could Kill All Humans](https://www.youtube.com/watch?v=ZGq9z6l3ZLE)**
+
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 605K • 👍 37K • 💬 4K • ⏱️ 1:43 • 2d ago
 
 ---
 
@@ -377,7 +381,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 75,774 • ❤️ 1,765 • 1d ago
+⬇️ 75,774 • ❤️ 1,783 • 1d ago
 
 ---
 
@@ -389,7 +393,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 67,550 • ❤️ 1,189 • 1d ago
+⬇️ 67,550 • ❤️ 1,192 • 1d ago
 
 ---
 
@@ -401,19 +405,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 17,712 • ❤️ 1,099 • 8d ago
-
----
-
-**[Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)**
-
-*Nex AGI*
-
-Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks, excelling in computer and web browsing operations with visual feedback for self-correction, making it suitable for complex productivity and research scenarios.
-
-`text-generation` `35.1B`
-
-⬇️ 3,121 • ❤️ 687 • 3d ago
+⬇️ 17,712 • ❤️ 1,102 • 8d ago
 
 ---
 
@@ -425,7 +417,19 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,563,763 • ❤️ 14,750 • 28d ago
+⬇️ 7,563,763 • ❤️ 14,757 • 28d ago
+
+---
+
+**[Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)**
+
+*Nex AGI*
+
+Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks, excelling in computer and web browsing operations with visual feedback for self-correction, making it suitable for complex productivity and research scenarios.
+
+`text-generation` `35.1B`
+
+⬇️ 3,121 • ❤️ 690 • 3d ago
 
 ---
 
@@ -437,7 +441,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 682,187 • ❤️ 833 • 9d ago
+⬇️ 682,187 • ❤️ 835 • 9d ago
 
 ---
 
@@ -449,7 +453,7 @@ Nex-N2.5-Pro is a next-generation agentic text-generation model designed for lon
 
 `text-generation` `396.8B`
 
-⬇️ 12,260 • ❤️ 594 • 18h ago
+⬇️ 12,260 • ❤️ 595 • 20h ago
 
 ---
 
@@ -461,7 +465,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,669,564 • ❤️ 3,485 • 10d ago
+⬇️ 1,669,564 • ❤️ 3,498 • 10d ago
 
 ---
 
@@ -473,7 +477,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,339,637 • ❤️ 3,893 • 22d ago
+⬇️ 11,339,637 • ❤️ 3,897 • 22d ago
 
 ---
 
@@ -485,7 +489,7 @@ GLM-5.3-CYBERSECURITY-FP8 is a text-generation model optimized for offensive cyb
 
 `text-generation` `753.3B`
 
-⬇️ 28,328 • ❤️ 383 • 3d ago
+⬇️ 28,328 • ❤️ 384 • 3d ago
 
 ---
 
@@ -541,7 +545,7 @@ Show-Harness links vision-language models to robot control via discrete semantic
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 208 • 💬 3 • ⭐ 462 • 4d ago
+▲ 209 • 💬 3 • ⭐ 462 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -574,18 +578,6 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 41 • 💬 1 • ⭐ 32,213 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977)**
 
 *Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)*
@@ -597,6 +589,18 @@ Gander is an end-to-end framework that integrates continuous multi-modal streami
 ▲ 125 • 💬 2 • ⭐ 176 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 41 • 💬 1 • ⭐ 32,245 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -614,17 +618,15 @@ Autonomous language-model trading agents across production systems show behavior
 
 ---
 
-**[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
 
-*Apodex Team, B. An, B. Li et al. (71 authors)*
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
 
-🏢 Apodex
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
+▲ 19 • 💬 2 • ⭐ 22,959 • 30mo ago
 
-▲ 206 • 💬 3 • ⭐ 2,567 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -638,7 +640,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.7k • 🔱 587 • 29s ago
+⭐ 4.7k • 🔱 589 • 1h ago
 
 ---
 
@@ -678,7 +680,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 165 • 10h ago
+⭐ 2.6k • 🔱 165 • 12h ago
 
 ---
 
@@ -688,7 +690,7 @@ ARTEMIS turns natural-language instructions into reliable Android automation. It
 
 `Python` `ai-agents` `android` `google` `test-automation` `testing`
 
-⭐ 2.4k • 🔱 216 • 13h ago
+⭐ 2.4k • 🔱 223 • 34m ago
 
 ---
 

@@ -15,16 +15,6 @@
       "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
     },
     {
-      "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
-      "source": "wsj.com",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
-      "pub_date": 1788948600.0,
-      "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -35,44 +25,34 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "techcrunch.com",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
-      "pub_date": 1789049857.0,
-      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
-      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-    },
-    {
-      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
-      "pub_date": 1789065307.0,
-      "article_url": "https://breakingdefense.com/?p=95208",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The National Beat: More lawyers are using AI. Here's what they're doing with it.",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlc0bmFGcm94ejMwNjRjWDR1cmZsQXM5NVFpdTFlQWNvNy13cU5GdU5NZHZtNm9hSF9hbmxha3lSNzRnSzVUZWJTbjZZVk1aYmJmaUk3WFN5VmZEbzhwendqSlhEZnFWeXNVWHNWc1F2REF0OUxOd0k0NWNzblg2OFAyLWdWTkRZbmNfSHR1SE9VSWlYWENXQUNCQnh4RkFw?oc=5",
-      "pub_date": 1789153980.0,
-      "article_url": "https://www.bizjournals.com/memphis/news/2026/09/11/the-national-beat-ai-law-robotics-startups.html",
+      "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmwzdkhBYUYyRXQzQ0dTbkx6RktvWTRWeXRLNnpZYUNoTm42aEdCbHVHREJHa19FOEIwTGhfV3NVQ29ocVcyUndmMkpDNUtPZnF1N0hqTEhuRDNtOEJiRDRBS2ZOaHoxT01YUUJrTFk0ZDcxOE9xTHF4R2NUV1lrdkdSUXhtRzBTSjZrbkNZVVBDWFFBYlY1clF5djR1OTdmaG0xaQ?oc=5",
+      "pub_date": 1788948600.0,
+      "article_url": "https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4",
       "image": null,
       "description": null
     },
     {
       "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
       "pub_date": 1789054202.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
+      "pub_date": 1789167497.0,
+      "article_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
       "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -85,8 +65,18 @@
       "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
     },
     {
+      "headline": "Why do humans like to watch robots fall?",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUEgyWWVZeXJ5WDE0djhIMW1oWWtTQWFJSnJCOHZSc1ZVbTV1d2RnbHh2NTNEdEhZZU5GTS10TlBwSmRDLTd3MHRDLUVYS1FZckxlLWs5V1I0UmFVMC1Eb3lhYUZSZVpVZkJvNTNzZlFhSmJsZF9wVzVfNkpTLXdXUUFzendYX1liLTFaVlo5ZmQ2aU5iUnFTdXZtUzVjMllaOW1NMnpCTGdmdkFLNDl0X1lZcHU2ZmN3NElVRl9MYW82alQ5MU95RVJIMWwtR0lwR25KbXcwUXpvcGZFalNnZ1FiSzZxUzA?oc=5",
+      "pub_date": 1789168081.0,
+      "article_url": "https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast?cid=external-feeds_iluminar_google",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22977569-8001-251-thumb.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Robotics expert Changliu Liu explains."
+    },
+    {
       "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "source": "Gizmodo",
+      "source": "gizmodo.com",
       "source_url": "https://gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
       "pub_date": 1789150254.0,
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+      "headline": "Robots \"protest\" in Warsaw to demand regulation of AI and automation",
+      "source": "Notes From Poland",
+      "source_url": "https://notesfrompoland.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTB6UmxtZlFrQ3AzN0hScW53c18xRWVLek15WDN3UFRxb296d0xhQ1JROHJKRS1aVzZia3ByX3hfVGpXd3RIOWxkc1JCRnFZSzVra29oUVlyVk1xWjVPay1nZnJPUklPVDNpNjJVYWNpQUU5UWctd2Nhd0hMR1lYMkl2Qm5zajMtWDlCZUVXTDlyaVBMNlpWUklvRl9lQkI4SDJUakdaNTMtUQ?oc=5",
+      "pub_date": 1788872572.0,
+      "article_url": "https://notesfrompoland.com/2026/09/08/robots-protest-in-warsaw-to-demand-regulation-of-ai-and-automation/",
+      "image": "https://notesfrompoland.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-12.28.46.jpeg",
+      "description": "\u200b"
+    },
+    {
+      "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1puOUFHWmVianl3R3BreW5GbjRYemQyZ1M5VkEtTk55WDlxV3hoa1lrNEpDQ3hVMFFnc1RWVVdRaEE4Wm5qZXhrQlNhX3hiWGF5Um5wdzREQk85ek40b0RRblo3R2poc1ZLaWpWNHJlWmtfMFpiODEyYnJHU0Q5SGl1aGd2V20wTXNBOUlLd3RjZG03eEhpX00xYmNqaWNfeXhoSmVheENDTTREOTcyVVNPQTNzNGxEY1FfVUdfTDE?oc=5",
+      "pub_date": 1788970329.0,
+      "article_url": "https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/General-Robotics_Photo3-1260x709.jpg",
+      "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T21:51:16.154023+00:00"
+  "fetched_at": "2026-09-11T23:54:49.667295+00:00"
 }
