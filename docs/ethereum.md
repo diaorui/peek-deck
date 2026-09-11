@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-10T23:20:40.417996+00:00'
+updated: '2026-09-11T01:21:34.872857+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 23:20 UTC  
+**Last Updated:** September 11, 2026 at 01:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -0.6%  
-**30d:** +29.8%  
-**90d:** +45.2%  
-**1y:** -45.3%  
+**24h:** -0.7%  
+**7d:** -0.9%  
+**30d:** +30.3%  
+**90d:** +42.3%  
+**1y:** -47.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $297.70B
+**Market Cap:** $299.67B
 Rank #2
 
 **Circulating Supply:** 122,035,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.7%
+-50.4%
 
 **All-Time Low:** $0.43
-+563414.6%
++567045.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 22h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-16h ago
+18h ago
 
 ---
 
@@ -144,7 +144,7 @@ Follow up from last week: https://www.reddit.com/r/ethereum/comments/1w633wn/upd
 
 The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips) • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in 
 
 The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
 
-theblock.co • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -168,27 +168,19 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 ---
 
-**[Which Crypto Could Make You a Millionaire by 2028: XRP or Ethereum?](https://finance.yahoo.com/markets/crypto/articles/crypto-could-millionaire-2028-xrp-221708542.html)**
+**[1,000 XRP or 1 Ethereum: Which Is Worth More by 2028?](https://finance.yahoo.com/markets/crypto/articles/1-000-xrp-1-ethereum-003439902.html)**
 
-One of these two cryptos already crossed the million-dollar threshold for a specific holding size this year, and the other would need a price that exceeds every company on Earth combined. Figuring out which is which changes everything about a 2028 millionaire strategy.
+Standard Chartered has published 2028 price targets for both XRP and Ethereum, but the gap between holding 1,000 XRP versus a single ETH is wider than most investors assume, and closing it requires one very specific set of conditions to break just right.
 
-finance.yahoo.com • 1h ago
-
----
-
-**[Crypto News: New Meme Coin Pepeto Announces New Presale Stage as Its Ethereum, Solana, and BNB Chain Bridge Nears Launch](https://markets.businessinsider.com/news/stocks/crypto-news-new-meme-coin-pepeto-announces-new-presale-stage-as-its-ethereum-solana-and-bnb-chain-bridge-nears-launch-1036537616)**
-
-DUBAI, United Arab Emirates, Sept.  10, 2026  (GLOBE NEWSWIRE) -- Pepeto ($PEPETO) announces its newest presale stage just opened. The previous ro...
-
-markets.businessinsider.com • 2h ago
+Yahoo Finance • 47m ago
 
 ---
 
-**[Traders Are Betting Ethereum Falls Back to $2,250 This Year. What Would Have to Go Wrong?.ππ[][,](https://finance.yahoo.com/markets/crypto/articles/traders-betting-ethereum-falls-back-211232373.html)**
+**[Ethereum's "Proof Singularity": Real Technology, Inflated Narrative! EIP-8288](http://www.moomoo.com/community/feed/ethereum-s-proof-singularity-real-technology-inflated-narrative-eip-8288-117249463681030)**
 
-Options traders have piled protection around one specific Ethereum price level, and two votes scheduled just 24 hours apart could decide whether that protection pays off before year-end.
+A genuine technical proposal, and a price prophecy that wrote itself. In the second week of September, Ethereum co-founder Vitalik Buterin posted a note titled "A note on recursive STARK mempools" — EIP-8288. On its face, this was an unremarkable engineering draft which move expensive cryptographic verification off the main chain and into the mempool, compressing it into a recursive STARK proof of a few hundred kilobyte...
 
-finance.yahoo.com • 2h ago
+Moomoo • 1h ago
 
 ---
 
@@ -210,7 +202,7 @@ CoinDesk • 1d ago
 
 Roughly $3 billion in Bitcoin and Ethereum options expired on Deribit, and the two assets told very different stories heading into settlement. Bitcoin's options book stayed firmly tilted toward calls, the optimistic bets. Ethereum's, meanwhile, drifted toward puts, the kind of contracts you buy whe…
 
-TradingView • 2h ago
+TradingView • 4h ago
 
 ---
 
@@ -218,7 +210,7 @@ TradingView • 2h ago
 
 Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
 
-finance.yahoo.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -226,7 +218,13 @@ finance.yahoo.com • 2d ago
 
 Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
 
-blockchain.news • 11h ago
+blockchain.news • 13h ago
+
+---
+
+**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://www.etf.com/sections/features/crypto-etfs-2026-bitcoin-ethereum-and-altcoin-wave-explained)**
+
+ETF.com • 1d ago
 
 ---
 
@@ -240,7 +238,17 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 1K • 💬 26 • ⏱️ 9:10 • 12h ago
+👁️ 15K • 👍 1K • 💬 27 • ⏱️ 9:10 • 14h ago
+
+---
+
+**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
+
+ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+
+📺 More Crypto Online
+
+👁️ 256 • 👍 27 • 💬 1 • ⏱️ 12:26 • 1h ago
 
 ---
 
@@ -250,7 +258,7 @@ BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 648 • 👍 73 • 💬 66 • ⏱️ 20:01 • 1h ago
+👁️ 1K • 👍 158 • 💬 155 • ⏱️ 20:01 • 3h ago
 
 ---
 
@@ -260,7 +268,7 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 17K • 👍 972 • 💬 262 • ⏱️ 28:10 • 1d ago
+👁️ 17K • 👍 973 • 💬 262 • ⏱️ 28:10 • 1d ago
 
 ---
 
@@ -270,17 +278,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 279 • 💬 25 • ⏱️ 14:25 • 2d ago
-
----
-
-**[I Gave the AI Trading Bot 3 ETH for Crypto Arbitrage...Here&#39;s What Happened](https://www.youtube.com/watch?v=jUGKRuyROYU)**
-
-Full Resources & Text Guide: https://tr.ee/eHimgL I built an AI trading bot with Claude AI to test crypto arbitrage. In this video, I ...
-
-📺 Gage Foster
-
-👁️ 5K • 👍 342 • 💬 10 • ⏱️ 6:46 • 1d ago
+👁️ 15K • 👍 280 • 💬 25 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -294,43 +292,43 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 ---
 
-**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 855 • 👍 16 • ⏱️ 5:08 • 15h ago
-
----
-
-**[Ethereum: What Has to Happen for New Highs](https://www.youtube.com/watch?v=1eoZNSK9r_c)**
-
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
-
-📺 More Crypto Online
-
-👁️ 14K • 👍 309 • 💬 23 • ⏱️ 12:04 • 2d ago
-
----
-
-**[CPI Could Trigger a MASSIVE Bitcoin Move — BTC, ETH &amp; SOL](https://www.youtube.com/watch?v=EM7K-BmqX_o)**
-
-JOIN THE FTA VIP COMMUNITY: https://www.freedomtradingacademy.com/vip-community TRADE CRYPTO WITH BLOFIN: ...
-
-📺 Andrea Cap  | FTA Crypto
-
-👁️ 322 • 👍 12 • 💬 14 • ⏱️ 15:47 • 14h ago
-
----
-
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=N2Mx-mYjthE)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Profit First
 
-👁️ 991 • 👍 56 • ⏱️ 5:42 • 8h ago
+👁️ 1K • 👍 57 • ⏱️ 5:42 • 10h ago
+
+---
+
+**[I Gave the AI Trading Bot 3 ETH for Crypto Arbitrage...Here&#39;s What Happened](https://www.youtube.com/watch?v=jUGKRuyROYU)**
+
+Full Resources & Text Guide: https://tr.ee/eHimgL I built an AI trading bot with Claude AI to test crypto arbitrage. In this video, I ...
+
+📺 Gage Foster
+
+👁️ 6K • 👍 345 • 💬 10 • ⏱️ 6:46 • 1d ago
+
+---
+
+**[THIS WILL BE THE NEXT BIG ETHEREUM MOVE! (ETH Price Prediction)](https://www.youtube.com/watch?v=uPf2vVb8ZGw)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 877 • 👍 16 • ⏱️ 5:08 • 17h ago
+
+---
+
+**[ETH Just Flipped BULLISH And I&#39;m Already Long!! #ethereum](https://www.youtube.com/watch?v=0XshAWrPAFs)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 29 • 💬 48 • ⏱️ 5:04 • 1d ago
 
 ---
 

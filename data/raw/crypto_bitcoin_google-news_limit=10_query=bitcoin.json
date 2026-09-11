@@ -15,18 +15,8 @@
       "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident \u2014 one of the largest cryptocurrency thefts in US history \u2014 and then embarking on a wild spending spree with the laundered proceeds."
     },
     {
-      "headline": "Bitcoin Slips Further Below $80,000 as the Range Trade Resumes",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdU1KMG9JdTBEMmc0LVluR2VKa2s0MjlndmhzNTRyQkJ3YnA5aXl2MG5FVWlQSThjeHBLa0NxSU5idVdXMmJqakM5Vk40WjNiRWtRbmJTRHhFVVVDaDN6NG5YVnJXN2w0WWNRVFFvZ1NVT1RYUlJDS2pWY3lYQjlyMnNjVXd6eDYya2pBaXFZcU5LTlRjZGFwc09qd0VreEZpLUJBSXd4a0haMlZaQWZMTzNB?oc=5",
-      "pub_date": 1789072122.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/bitcoin-slips-further-below-80-000-as-the-range-trade-resumes",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Coinbase CEO Says Bitcoin Has Bottomed",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0FYWnNHQ19YRnN0Z2U2b25UamZ6NnctbVpRc0tRcmlUUkR3TzRWSnI4azRuM2lsUkY3RzlweDZiLVRIbzFhOENOSWtUV2dhS1RFS21JcmtCNTFMY3ZjcUlYOHgxTE5HeHRiTUVPMFlvMWgySUpLVnRMblR3N2REM1EzU3l3MXJuTUgtSkpKMzhGcU9YcEE3S0h5Rk8wZFhX?oc=5",
       "pub_date": 1789048500.0,
@@ -35,8 +25,18 @@
       "description": "Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong said that he believes Bitcoin (CRYPTO: $BTC) has officially bot..."
     },
     {
+      "headline": "Coinbase CEO: $400,000 on Bitcoin by 2030 is a \u2018reasonable target\u2019",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFQyMVBMWUcxQURWVFdlYTNkVXFsckdWTTROejdvWHkyb2VPZDdTN2FlZW5sdWx4S2NUczdULXFtbVU4OWdJeXJXYVZ6TDJXTC12VG9tY0RqTWpsZGZhWU12RzhtRk4taWVHUWFVOHB3bU00Z0J2VDVQczZZbU5jcTJyemxrSEVJbHg2Q3g0T0lfS1R5Tk9ydmx0Y3g2VFBCVjk2Mk8yVQ?oc=5",
+      "pub_date": 1789023420.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/10/coinbase-ceo-400000-on-bitcoin-by-2030-is-a-reasonable-target.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361001-17890158571789015854-48283656776-1080pnbcnews.jpg?v=1789015856&w=1920&h=1080",
+      "description": "Coinbase CEO Brian Armstrong discusses the Clarity Act and what greater regulatory clarity could mean for the crypto industry. He also explains why the Bitcoin trade has already hit bottom, expecting upside amid pressure in global bond markets."
+    },
+    {
       "headline": "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
-      "source": "theblock.co",
+      "source": "The Block",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQjFMWk5jUG1BRmM2bHVDRTQ2OE5Bb3J2T09wNnVNd1hBM0F2QVMwMVZzdGU0OGYwN1Job3p5LXducXNmLTNyeFdQLUNuOWJhaU82YWVsTDh5cnp0TmhXeHZzbnFwZ1IzdXdCdENHT0xsWE9NVnBLdVFiLVpNMXZ2T2lseTVtQjA2UURPd1ZQaDJJc084QjRGZFhGVEw5UjBNVF9hbFZ3Slc2azNuU0hyOEUwbDJVSk5vVnYtNEdkWU9CbVBncnN6NjAwZnEwV0VibEdtOWwxUG82MW5fVnNfWHpnS2p1ZGV0RTg3RE1RcnAxWGs4N2c?oc=5",
       "pub_date": 1789036314.0,
@@ -45,44 +45,24 @@
       "description": "Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed."
     },
     {
-      "headline": "Coinbase CEO: $400,000 on Bitcoin by 2030 is a \u2018reasonable target\u2019",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFQyMVBMWUcxQURWVFdlYTNkVXFsckdWTTROejdvWHkyb2VPZDdTN2FlZW5sdWx4S2NUczdULXFtbVU4OWdJeXJXYVZ6TDJXTC12VG9tY0RqTWpsZGZhWU12RzhtRk4taWVHUWFVOHB3bU00Z0J2VDVQczZZbU5jcTJyemxrSEVJbHg2Q3g0T0lfS1R5Tk9ydmx0Y3g2VFBCVjk2Mk8yVQ?oc=5",
-      "pub_date": 1789023467.0,
-      "article_url": "https://www.cnbc.com/video/2026/09/10/coinbase-ceo-400000-on-bitcoin-by-2030-is-a-reasonable-target.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361001-17890158571789015854-48283656776-1080pnbcnews.jpg?v=1789015856&w=1920&h=1080",
-      "description": "Coinbase CEO Brian Armstrong discusses the Clarity Act and what greater regulatory clarity could mean for the crypto industry. He also explains why the Bitcoin trade has already hit bottom, expecting upside amid pressure in global bond markets."
-    },
-    {
-      "headline": "Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBQZHNDa056MGFOVHpiWXBJWWlVN3RFWFRmNXU1MlRWSmJZNllrbVBKYzhrY1A0VE1RR0Z1R1BiWXU0Mk9kM1ZYUmlfakhCNmU5MXQtVVhHa3htdm51TUZGTmltRXdfTW5DdVhGMkhiNnVYOG5vM0VSSWZpUFNNYmRCN3dCOFpaR1VvbXlmVHBqUWdYRXVaNV9PQ2YyandLWWFCQy1aREt0UEIta1g5WDNhVXI?oc=5",
-      "pub_date": 1789045200.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
+      "headline": "Bitcoin Slips Further Below $80,000 as the Range Trade Resumes",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdU1KMG9JdTBEMmc0LVluR2VKa2s0MjlndmhzNTRyQkJ3YnA5aXl2MG5FVWlQSThjeHBLa0NxSU5idVdXMmJqakM5Vk40WjNiRWtRbmJTRHhFVVVDaDN6NG5YVnJXN2w0WWNRVFFvZ1NVT1RYUlJDS2pWY3lYQjlyMnNjVXd6eDYya2pBaXFZcU5LTlRjZGFwc09qd0VreEZpLUJBSXd4a0haMlZaQWZMTzNB?oc=5",
+      "pub_date": 1789046776.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/bitcoin-slips-further-below-80-000-as-the-range-trade-resumes",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbGNHbWZ5eUZ2eFltMEhYckc3RUxXd3VKb0tqWE1GLVRTMnFqbmRnMzZOZ1pTblBtZEdzaGxtQXJnYW81NGtjdTRVYVFZWWFrMkI1cWdNLTh5bmk2WlZHVkZHcE12M2Q5LUYyQVdlSWFfME5Dek5vSWJ5Q3dpVXhUU0p5b2IxeEhHeGNLV2RWTG1DWHBqX0ZfdlF4bXZyc2N6WHZ3UE1UeDZMNUdJVGNyYk1EX0Z2cExTV0sxLWNjVmFfZkJhZkNMbG03QldPMXFpWm5CMnNuV0NQOThpbG5GUDVjZTdrMzJWZi1KMFMyMU02eE1wbnhCMFhfb292V3VOSWNDQ1hKSnFLNktxbnhnQXRzWjVUaEE?oc=5",
-      "pub_date": 1789039818.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
-      "description": "Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92."
-    },
-    {
-      "headline": "Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmgyLTNvWFVaMmZIa2FSbHBya2VlTmhXX19kMmh2TjFXMDE2REQ3Uk9VM3ZDcllpR1VNNzFsNnRRVFRnalpHQndiZGJOVVMwYkt5RVRZUzBLcE1kYy1UQW9fa05SYmZMU1dOTWpjZXZwNGR2MnRNQTljOWNBelNVZ2JydmV2MnRPSkE?oc=5",
-      "pub_date": 1789043316.0,
-      "article_url": "https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?w=1200",
-      "description": "The fire marshal in El Reno, Oklahoma issued a Bitcoin data center a \"failing\" grade due to severe safety issues."
+      "headline": "How Bitcoin Bancorp (BCBC) scooped up 2,500 former Bitcoin Depot kiosks for just $620,000",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVdNNnExSXYyUjZQS2xZY3h4X09faERzRmRYMmxmNE5NZFlrUk1IajhEdzVtZlFLUEQzZ0RlNDVOZy0tQjJ6VnU2UWRGbmZDX011a1VFRG1CcGZzb1JZd2ZxQkhlM0xSdFc1S0doeEVpSkNFM0lxQ3JRYjBJWlJEU2xISGZVeGtGSVZEVWgyUW1oVnlOQkE2ZDNtUUhBbmpPaHEyYloyd1pmSXVmMDcyTTZXMWxpWU1RdzJVOUZJMEhUdlk?oc=5",
+      "pub_date": 1789071924.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+      "image": null,
+      "description": null
     },
     {
       "headline": "California crypto \u2018Godfather\u2019 gets 15 years for Bitcoin kidnapping plot",
@@ -93,6 +73,26 @@
       "article_url": "https://ktla.com/news/local-news/california-crypto-godfather-gets-15-years-for-bitcoin-kidnapping-plot/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Suffers On Renewed US-Iran Fighting",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc01Nb1JwMjZZOGh5S3NraWpoeHBwaTBpcnQxY1Z6Uk1iSmhaWWtYQ1AyN240M1p5QjFmaEc3Zm5KNzZYQ1BnVmZZNjRmS2xBOXByS0hEUkZGM01ZTTBBSTNFcnZjZHZVbTNjOTBiempOV2ZmbTFDNjNEQXAxZEJYbQ?oc=5",
+      "pub_date": 1789057902.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-15.jpg",
+      "description": "The bitcoin price has stumbled on tensions flaring up in the Middle East again."
+    },
+    {
+      "headline": "Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center",
+      "source": "futurism.com",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmgyLTNvWFVaMmZIa2FSbHBya2VlTmhXX19kMmh2TjFXMDE2REQ3Uk9VM3ZDcllpR1VNNzFsNnRRVFRnalpHQndiZGJOVVMwYkt5RVRZUzBLcE1kYy1UQW9fa05SYmZMU1dOTWpjZXZwNGR2MnRNQTljOWNBelNVZ2JydmV2MnRPSkE?oc=5",
+      "pub_date": 1789043316.0,
+      "article_url": "https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/fire-marshall-horror-bitcoin-mining-center.jpg?w=1200",
+      "description": "The fire marshal in El Reno, Oklahoma issued a Bitcoin data center a \"failing\" grade due to severe safety issues."
     },
     {
       "headline": "Bessent\u2019s \u2018Opening Gambit\u2019\u2014Bitcoin Suddenly Braced For A $32 Trillion Price Shock",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T23:20:22.908716+00:00"
+  "fetched_at": "2026-09-11T01:21:28.045966+00:00"
 }
