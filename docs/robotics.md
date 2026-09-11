@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-11T01:21:34.875993+00:00'
+updated: '2026-09-11T06:27:23.696884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 11, 2026 at 01:21 UTC  
+**Last Updated:** September 11, 2026 at 06:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -120,27 +120,59 @@ Bloomberg.com • 9h ago
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 11h ago
+TechCrunch • 16h ago
 
 ---
 
-**[Vecna Robotics Raises $31 Million to Meet Demand for Flexible Dock-to-Dock Automation](https://www.globenewswire.com/news-release/2026/09/10/3359343/0/en/vecna-robotics-raises-31-million-to-meet-demand-for-flexible-dock-to-dock-automation.html)**
+**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
 
-Funding will support growing demand and strengthen Vecna Robotics’ increasingly strategic role in North American robotics amid a shifting regulatory...
+Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
 
-GlobeNewswire • 14h ago
+CNBC • 24m ago
 
 ---
 
-**[AI & Robotics in 2026: 16 Recent Developments for Investors](https://www.etftrends.com/disruptive-technology-content-hub/ai-robotics-in-2026-16-recent-developments-for-investors/)**
+**[Who Gets Paid When Musk Builds 10 Million Robots?](https://investorplace.com/market360/2026/09/who-gets-paid-when-musk-builds-10-million-robots/)**
 
-ETF Trends • 1d ago
+I'll show you evidence that humanoids are beginning to move beyond flashy demonstrations and into real factory work...
+
+InvestorPlace • 5h ago
+
+---
+
+**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
+
+Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
+
+Business Insider • 2d ago
+
+---
+
+**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
+
+WSJ • 1d ago
+
+---
+
+**[Medtronic’s Jim Peichel on AI, robotics and the future of surgery](https://www.modernhealthcare.com/medical-devices/mh-medtronic-jim-peichel-ai-robotics-surgery/)**
+
+Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency.
+
+Modern Healthcare • 20h ago
+
+---
+
+**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
+
+Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
+
+NVIDIA Blog • 13h ago
 
 ---
 
 **[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
 
-Breaking Defense • 6h ago
+Breaking Defense • 11h ago
 
 ---
 
@@ -152,45 +184,17 @@ washingtonpost.com • 2d ago
 
 ---
 
-**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
-
-WSJ • 1d ago
-
----
-
-**[Humanoid robot learns to sprint and perform spin kicks using AI trained on human motion data](https://techxplore.com/news/2026-09-humanoid-robot-sprint-ai-human.html)**
-
-Tech Xplore • 13h ago
-
----
-
-**[Want a Humanoid in Your Factory? Here's How Much One Could Cost You.](https://www.businessinsider.com/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5-2026-9)**
-
-Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years.
-
-Business Insider • 1d ago
-
----
-
-**[American company Swarmer buys Ukrainian ground robot maker for US$224m – WSJ](https://www.pravda.com.ua/eng/news/2026/09/10/8052757/)**
-
-US-based defence tech company Swarmer is acquiring Ukrainian ground robotics maker Ratel Robotics in a cash-and-stock deal worth up to US$224 million.
-
-Українська правда • 16h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Humans Can’t Sort Batteries This Fast](https://www.youtube.com/watch?v=rgwaXXkAZUo)**
+**[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
 
-This high-speed automated system uses robotic arms and machine vision to sort battery cells with remarkable speed and ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
 
-📺 Moshyy
+📺 PRO ROBOTS
 
-👁️ 9K • 👍 85 • 💬 9 • ⏱️ 0:06 • 12h ago
+👁️ 31K • 👍 452 • 💬 48 • ⏱️ 15:17 • 5d ago
 
 ---
 
@@ -200,17 +204,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 416K • 👍 6K • 💬 1K • ⏱️ 5:02 • 1d ago
-
----
-
-**[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
-
-📺 PRO ROBOTS
-
-👁️ 31K • 👍 451 • 💬 48 • ⏱️ 15:17 • 5d ago
+👁️ 465K • 👍 6K • 💬 1K • ⏱️ 5:02 • 2d ago
 
 ---
 
@@ -220,7 +214,17 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 📺 DPCcars
 
-👁️ 9K • 👍 64 • 💬 33 • ⏱️ 2:18 • 3d ago
+👁️ 9K • 👍 66 • 💬 34 • ⏱️ 2:18 • 3d ago
+
+---
+
+**[Humans Can’t Sort Batteries This Fast](https://www.youtube.com/watch?v=rgwaXXkAZUo)**
+
+This high-speed automated system uses robotic arms and machine vision to sort battery cells with remarkable speed and ...
+
+📺 Moshyy
+
+👁️ 23K • 👍 131 • 💬 12 • ⏱️ 0:06 • 17h ago
 
 ---
 
@@ -230,7 +234,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 194K • 👍 2K • 💬 238 • ⏱️ 5:52 • 1d ago
+👁️ 211K • 👍 3K • 💬 249 • ⏱️ 5:52 • 2d ago
 
 ---
 
@@ -238,27 +242,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 Opac24MLB
 
-👁️ 5K • 👍 88 • 💬 2 • ⏱️ 0:16 • 1d ago
-
----
-
-**[SORRY, I can’t come clean right now… my robot already did it. 😂](https://www.youtube.com/watch?v=oaB3_GskrMk)**
-
-With ADHD, keeping up with everyday cleaning can feel impossible. Lefant M265 takes one more thing off my mental to-do list.
-
-📺 Lefant AU
-
-👁️ 1.4M • 👍 3K • 💬 7 • ⏱️ 0:06 • 5d ago
-
----
-
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
-
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
-
-📺 RICHLEV
-
-👁️ 402K • 👍 8K • 💬 1K • ⏱️ 38:26 • 2d ago
+👁️ 6K • 👍 100 • 💬 2 • ⏱️ 0:16 • 1d ago
 
 ---
 
@@ -268,7 +252,7 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 
 📺 LIGHTS ARE OFF
 
-👁️ 5.5M • 👍 92K • 💬 12K • ⏱️ 25:44 • 4d ago
+👁️ 5.5M • 👍 93K • 💬 12K • ⏱️ 25:44 • 4d ago
 
 ---
 
@@ -278,7 +262,27 @@ Unitree R1 humanoid Robot.
 
 📺 İncelemedeyim
 
-👁️ 153K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
+👁️ 154K • 👍 2K • 💬 93 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
+
+Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
+
+📺 RICHLEV
+
+👁️ 416K • 👍 8K • 💬 2K • ⏱️ 38:26 • 3d ago
+
+---
+
+**[XPeng’s IRON Robot Is Coming for Tesla Optimus: Mass Production Begins!](https://www.youtube.com/watch?v=IpuvaBTz7bE)**
+
+XPeng's eerily lifelike IRON humanoid robot has officially walked off a new production line in Guangzhou. The Chinese EV maker ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 29 • 💬 9 • ⏱️ 12:12 • 14h ago
 
 ---
 

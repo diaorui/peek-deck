@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-11T01:21:34.872857+00:00'
+updated: '2026-09-11T06:27:23.693707+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 01:21 UTC  
+**Last Updated:** September 11, 2026 at 06:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,73 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,461.52
+### $2,460.98
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -0.9%  
-**30d:** +30.3%  
-**90d:** +42.3%  
-**1y:** -47.7%  
+**24h:** -0.2%  
+**7d:** -0.5%  
+**30d:** +30.8%  
+**90d:** +42.9%  
+**1y:** -47.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.67B
+**Market Cap:** $301.09B
 Rank #2
 
 **Circulating Supply:** 122,035,557 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.4%
+-50.1%
 
 **All-Time Low:** $0.43
-+567045.3%
++569685.1%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion September 11, 2026](https://www.reddit.com/r/ethereum/comments/1wd6meq/daily_general_discussion_september_11_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
 **[Daily General Discussion September 10, 2026](https://www.reddit.com/r/ethereum/comments/1wc9e4o/daily_general_discussion_september_10_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-20h ago
+1d ago
+
+---
+
+**[Solidity 0.8.37 Released](https://www.reddit.com/r/ethereum/comments/1wckwup/solidity_0837_released/)**
+
+15h ago
+
+---
+
+**[Why has fixed-rate borrowing stayed so thin?](https://www.reddit.com/r/ethereum/comments/1wcnavd/why_has_fixedrate_borrowing_stayed_so_thin/)**
+
+Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won’t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?
+
+14h ago
+
+---
+
+**[Join Us: EF Protocol Reddit AMA - September 16th, 2026](https://www.reddit.com/r/ethereum/comments/1wc4ml7/join_us_ef_protocol_reddit_ama_september_16th_2026/)**
+
+Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 1d ago
 
 ---
 
@@ -92,11 +122,11 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 ---
 
-**[Join Us: EF Protocol Reddit AMA - September 16th, 2026](https://www.reddit.com/r/ethereum/comments/1wc4ml7/join_us_ef_protocol_reddit_ama_september_16th_2026/)**
+**[Daily General Discussion September 09, 2026](https://www.reddit.com/r/ethereum/comments/1wbc0ig/daily_general_discussion_september_09_2026/)**
 
-Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 1d ago
+2d ago
 
 ---
 
@@ -104,15 +134,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-18h ago
-
----
-
-**[Daily General Discussion September 09, 2026](https://www.reddit.com/r/ethereum/comments/1wbc0ig/daily_general_discussion_september_09_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-1d ago
+23h ago
 
 ---
 
@@ -120,31 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
-
----
-
-**[We made a free tool that lets you simulate the performance of a leveraged ETH position over any past timeframe](https://www.reddit.com/r/ethereum/comments/1wan4mj/we_made_a_free_tool_that_lets_you_simulate_the/)**
-
-We recently made a completely free tool that lets you simulate how an Aave position (leveraged ETH) would have performed over any timeframe in the past. You can either set up a fake Aave position, or search a wallet address with an actual position. Then, you set a timeframe and simulate how that position would have performed. That includes info on your net earning/loss, but also if you would have experienced a liquidation. Would avoid sharing a direct link here as I fully understand and respect apprehension over random links found on Reddit. Instead, I'll share a link to our tweet about the tool, so you can verify that it's legit/harmless before clicking: https://x.com/DeFiSaver/status/2095158683055661235 No need to connect your wallet, and no catch. It's just a fun tool to play around with and test how much leverage would have been too much over certain timeframes - Or, if you expect similar market patterns to repeat in the future (and position yourself accordingly)
-
-2d ago
-
----
-
-**[Followup: I built the thing! Added Ethereum-based wealth verification to our app](https://www.reddit.com/r/ethereum/comments/1walauu/followup_i_built_the_thing_added_ethereumbased/)**
-
-Follow up from last week: https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/ Just went ahead and shipped it. Honestly gotta say it almost felt joyful to see it work so cleanly. It took so much less work than I thought it would (compared to something like crypto invoice logic). Thanks for all of the recommended reading you guys gave. I am curious about leveling this up to a zero-knowledge proof implementation. I am doing all my catch up reading on the state of L2s these days. Screenshots are from a local instance running off Sepolia, but we have this working in production today!
-
-2d ago
-
----
-
-**[EF Protocol: The Hegotá EIP Opinion Post and Tier List](https://www.reddit.com/r/ethereum/comments/1wa96qo/ef_protocol_the_hegotá_eip_opinion_post_and_tier/)**
-
-The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in a unified view.
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/07/protocol-hegota-eips) • 3d ago
+3d ago
 
 ---
 
@@ -156,7 +154,7 @@ The EF Protocol cluster’s tier list for Hegotá evaluates 62 proposed EIPs in 
 
 The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
 
-The Block • 12h ago
+The Block • 17h ago
 
 ---
 
@@ -168,27 +166,19 @@ Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one h
 
 ---
 
-**[1,000 XRP or 1 Ethereum: Which Is Worth More by 2028?](https://finance.yahoo.com/markets/crypto/articles/1-000-xrp-1-ethereum-003439902.html)**
-
-Standard Chartered has published 2028 price targets for both XRP and Ethereum, but the gap between holding 1,000 XRP versus a single ETH is wider than most investors assume, and closing it requires one very specific set of conditions to break just right.
-
-Yahoo Finance • 47m ago
-
----
-
-**[Ethereum's "Proof Singularity": Real Technology, Inflated Narrative! EIP-8288](http://www.moomoo.com/community/feed/ethereum-s-proof-singularity-real-technology-inflated-narrative-eip-8288-117249463681030)**
-
-A genuine technical proposal, and a price prophecy that wrote itself. In the second week of September, Ethereum co-founder Vitalik Buterin posted a note titled "A note on recursive STARK mempools" — EIP-8288. On its face, this was an unremarkable engineering draft which move expensive cryptographic verification off the main chain and into the mempool, compressing it into a recursive STARK proof of a few hundred kilobyte...
-
-Moomoo • 1h ago
-
----
-
 **[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 1d ago
+fortune.com • 1d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html)**
+
+Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -202,15 +192,23 @@ CoinDesk • 1d ago
 
 Roughly $3 billion in Bitcoin and Ethereum options expired on Deribit, and the two assets told very different stories heading into settlement. Bitcoin's options book stayed firmly tilted toward calls, the optimistic bets. Ethereum's, meanwhile, drifted toward puts, the kind of contracts you buy whe…
 
-TradingView • 4h ago
+TradingView • 9h ago
 
 ---
 
-**[Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html)**
+**[Crypto News Today: AlphaPepe Announces $2.64 Million Raised While the Ethereum Price Prediction Eyes $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-alphapepe-announces-2-64-million-raised-while-the-ethereum-price-prediction-eyes-10-000-1036538080)**
 
-Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before.
+MONACO, Sept.  10, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale announced over $2.64 million raised, ...
 
-Yahoo Finance • 2d ago
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Ethereum liquidity is rising – Could ETH steal Bitcoin’s spotlight in Q4?](https://ambcrypto.com/ethereum-liquidity-is-rising-could-eth-steal-bitcoins-spotlight-in-q4/)**
+
+Ethereum liquidity is diverging as ETH gains demand from staking, stablecoins, and on-chain activity, boosting ETH/BTC's Q4 outlook.
+
+AMBCrypto • 2h ago
 
 ---
 
@@ -218,7 +216,7 @@ Yahoo Finance • 2d ago
 
 Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
 
-blockchain.news • 13h ago
+blockchain.news • 18h ago
 
 ---
 
@@ -238,7 +236,7 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 📺 Thomas Kralow
 
-👁️ 15K • 👍 1K • 💬 27 • ⏱️ 9:10 • 14h ago
+👁️ 16K • 👍 1K • 💬 27 • ⏱️ 9:10 • 20h ago
 
 ---
 
@@ -248,17 +246,17 @@ ETH could push towards $2750 before a deeper pullback. A break above $2545–$25
 
 📺 More Crypto Online
 
-👁️ 256 • 👍 27 • 💬 1 • ⏱️ 12:26 • 1h ago
+👁️ 2K • 👍 129 • 💬 4 • ⏱️ 12:26 • 6h ago
 
 ---
 
-**[BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aNleUnYn8X0)**
+**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=mMujl7XlSNk)**
 
-BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 1K • 👍 158 • 💬 155 • ⏱️ 20:01 • 3h ago
+👁️ 137 • 👍 12 • ⏱️ 2:42 • 1h ago
 
 ---
 
@@ -268,7 +266,17 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 17K • 👍 973 • 💬 262 • ⏱️ 28:10 • 1d ago
+👁️ 17K • 👍 975 • 💬 262 • ⏱️ 28:10 • 1d ago
+
+---
+
+**[BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aNleUnYn8X0)**
+
+BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 253 • 💬 104 • ⏱️ 20:01 • 8h ago
 
 ---
 
@@ -278,7 +286,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 280 • 💬 25 • ⏱️ 14:25 • 2d ago
+👁️ 15K • 👍 282 • 💬 25 • ⏱️ 14:25 • 2d ago
 
 ---
 
@@ -288,27 +296,17 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 3K • 👍 49 • 💬 2 • ⏱️ 0:56 • 2d ago
+👁️ 3K • 👍 50 • 💬 2 • ⏱️ 0:56 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=N2Mx-mYjthE)**
+**[Ethereum&#39;s Massive Price Surge: What&#39;s Next? #shorts](https://www.youtube.com/watch?v=iumUvsxCxgw)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Ethereum's strong price action hints at what's next for crypto. While traders focus on daily charts, true wealth comes from a ...
 
-📺 Profit First
+📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 57 • ⏱️ 5:42 • 10h ago
-
----
-
-**[I Gave the AI Trading Bot 3 ETH for Crypto Arbitrage...Here&#39;s What Happened](https://www.youtube.com/watch?v=jUGKRuyROYU)**
-
-Full Resources & Text Guide: https://tr.ee/eHimgL I built an AI trading bot with Claude AI to test crypto arbitrage. In this video, I ...
-
-📺 Gage Foster
-
-👁️ 6K • 👍 345 • 💬 10 • ⏱️ 6:46 • 1d ago
+👁️ 9 • ⏱️ 1:29 • 1h ago
 
 ---
 
@@ -318,7 +316,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 877 • 👍 16 • ⏱️ 5:08 • 17h ago
+👁️ 1K • 👍 16 • ⏱️ 5:08 • 22h ago
 
 ---
 

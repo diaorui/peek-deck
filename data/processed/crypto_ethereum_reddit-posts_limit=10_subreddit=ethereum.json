@@ -2,6 +2,17 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion September 11, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1wd6meq/daily_general_discussion_september_11_2026/",
+      "published": 1789102878.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
       "title": "Daily General Discussion September 10, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1wc9e4o/daily_general_discussion_september_10_2026/",
@@ -11,6 +22,39 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Solidity 0.8.37 Released",
+      "author": "r08o",
+      "url": "https://www.reddit.com/r/ethereum/comments/1wckwup/solidity_0837_released/",
+      "published": 1789050753.0,
+      "thumbnail": "https://external-preview.redd.it/vlMQmlWZuMWu0Rlu_CyzakHFlq0JgAjggjBsiS0ipfA.png?width=640&crop=smart&auto=webp&s=ea5b1f604b6c364757775f6eec18ef2e1572b088",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Why has fixed-rate borrowing stayed so thin?",
+      "author": "vinnie_james",
+      "url": "https://www.reddit.com/r/ethereum/comments/1wcnavd/why_has_fixedrate_borrowing_stayed_so_thin/",
+      "published": 1789056044.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won\u2019t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?"
+    },
+    {
+      "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1wc4ml7/join_us_ef_protocol_reddit_ama_september_16th_2026/",
+      "published": 1789003218.0,
+      "thumbnail": "https://external-preview.redd.it/ko5Pim2Z4AOlhlegEiee3y6G8a-pLef5EZS91K1w51A.png?width=640&crop=smart&auto=webp&s=b2a45dff0eca667206599aab6e52baf017a1c961",
+      "external_url": "https://blog.ethereum.org/2026/09/09/reddit-ama",
+      "site_name": "Ethereum Foundation Blog",
+      "favicon": "https://blog.ethereum.org/images/favicon.png",
+      "description": "Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The..."
     },
     {
       "title": "Vitalik Buterin Proposes Recursive STARKs for Ethereum\u2019s I-Star Upgrade | Market Ethereum",
@@ -35,15 +79,15 @@
       "description": "Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasury toward a staggering size that rivals its entire stock market value. But the real question is whether this buying spree moves the price of ETH or simply makes BMNR a turbocharged bet on a coin that has already lost half its value from peak."
     },
     {
-      "title": "Join Us: EF Protocol Reddit AMA - September 16th, 2026",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1wc4ml7/join_us_ef_protocol_reddit_ama_september_16th_2026/",
-      "published": 1789003218.0,
-      "thumbnail": "https://external-preview.redd.it/ko5Pim2Z4AOlhlegEiee3y6G8a-pLef5EZS91K1w51A.png?width=640&crop=smart&auto=webp&s=b2a45dff0eca667206599aab6e52baf017a1c961",
-      "external_url": "https://blog.ethereum.org/2026/09/09/reddit-ama",
-      "site_name": "Ethereum Foundation Blog",
-      "favicon": "https://blog.ethereum.org/images/favicon.png",
-      "description": "Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The..."
+      "title": "Daily General Discussion September 09, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1wbc0ig/daily_general_discussion_september_09_2026/",
+      "published": 1788930071.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "Polybius Bank IPO - recovery case scam?",
@@ -57,17 +101,6 @@
       "description": "Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. \"polybiusrecovery\"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions"
     },
     {
-      "title": "Daily General Discussion September 09, 2026",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1wbc0ig/daily_general_discussion_september_09_2026/",
-      "published": 1788930071.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
       "title": "Daily General Discussion September 08, 2026",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1waewgk/daily_general_discussion_september_08_2026/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "We made a free tool that lets you simulate the performance of a leveraged ETH position over any past timeframe",
-      "author": "SpurdoSparde28",
-      "url": "https://www.reddit.com/r/ethereum/comments/1wan4mj/we_made_a_free_tool_that_lets_you_simulate_the/",
-      "published": 1788870737.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We recently made a completely free tool that lets you simulate how an Aave position (leveraged ETH) would have performed over any timeframe in the past. You can either set up a fake Aave position, or search a wallet address with an actual position. Then, you set a timeframe and simulate how that position would have performed. That includes info on your net earning/loss, but also if you would have experienced a liquidation. Would avoid sharing a direct link here as I fully understand and respect apprehension over random links found on Reddit. Instead, I'll share a link to our tweet about the tool, so you can verify that it's legit/harmless before clicking: https://x.com/DeFiSaver/status/2095158683055661235 No need to connect your wallet, and no catch. It's just a fun tool to play around with and test how much leverage would have been too much over certain timeframes - Or, if you expect similar market patterns to repeat in the future (and position yourself accordingly)"
-    },
-    {
-      "title": "Followup: I built the thing! Added Ethereum-based wealth verification to our app",
-      "author": "SugarvetFounder",
-      "url": "https://www.reddit.com/r/ethereum/comments/1walauu/followup_i_built_the_thing_added_ethereumbased/",
-      "published": 1788865557.0,
-      "thumbnail": "https://preview.redd.it/rj1h3kwa3aoh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=e4395db2787b31ef626d4cab73fc40f586ae064a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Follow up from last week: https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/ Just went ahead and shipped it. Honestly gotta say it almost felt joyful to see it work so cleanly. It took so much less work than I thought it would (compared to something like crypto invoice logic). Thanks for all of the recommended reading you guys gave. I am curious about leveling this up to a zero-knowledge proof implementation. I am doing all my catch up reading on the state of L2s these days. Screenshots are from a local instance running off Sepolia, but we have this working in production today!"
-    },
-    {
-      "title": "EF Protocol: The Hegot\u00e1 EIP Opinion Post and Tier List",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1wa96qo/ef_protocol_the_hegot\u00e1_eip_opinion_post_and_tier/",
-      "published": 1788827061.0,
-      "thumbnail": "https://external-preview.redd.it/DvpcCtXDjNfKVygPJydrFi3jf_Grptby2-USCXRga3A.png?width=640&crop=smart&auto=webp&s=4b8b37968a8bbd7311c53365fcc92a9d95421fa2",
-      "external_url": "https://blog.ethereum.org/2026/09/07/protocol-hegota-eips",
-      "site_name": "Ethereum Foundation Blog",
-      "favicon": "https://blog.ethereum.org/images/favicon.png",
-      "description": "The EF Protocol cluster\u2019s tier list for Hegot\u00e1 evaluates 62 proposed EIPs in a unified view."
     }
   ],
-  "fetched_at": "2026-09-10T10:47:06.501818+00:00"
+  "fetched_at": "2026-09-11T06:27:03.010145+00:00"
 }
