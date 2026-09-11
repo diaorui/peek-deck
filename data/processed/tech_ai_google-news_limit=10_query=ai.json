@@ -15,62 +15,72 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
+      "headline": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+      "source": "apnews.com",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+      "pub_date": 1789099140.0,
+      "article_url": "https://apnews.com/article/anthropic-ai-threat-bioweapon-russia-00266dca90e4f8853f669648998d3bda",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "pub_date": 1789077037.0,
+      "pub_date": 1789059606.0,
       "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVd0QmhZYjdKejdISGxEbEVXOGNpcDlkZlVRV0M5N013T012blR0bHlEeUNmMS1LTWVzU29DTk41TmoyMG5CWVF3aWpBOUFMbmtINkd4VVFqaXRpQ2ZYb3dWU0dSSlpNQ2RRYlBudjdXeHVnYWt0YTVpV1M5SXloZnNKbmRKTFdIcEEtWGMwaC1ZQdIBlwFBVV95cUxQX0JhaE5BWS1pWGViM3JGTmR2VVFiRTljTS1Ub19WNFR2Mmw4OUhwV25XVnVFUklTcURvME02bWFfZFZrVExCTU1rNWpjNUZWeExtX0tMR0dWdHJMTC14UjZmOVhMUHhPRld2VUF5ZC1nODU2US1ZZDdjZzlEdW1aY0VUWkllZ2pXV1hCVXdQTXRFYXM5OUE4?oc=5",
-      "pub_date": 1789087680.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108291329-1776192386700-gettyimages-2270583563-raa-anthropi260412_npZvE.jpeg?v=1776192426&w=1920&h=1080",
-      "description": "Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems."
+      "headline": "Anthropic blocks AI use linked to possible bioweapons research",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXy1yMVdZX3R0LUJmOThkaFZBM1hDMldZY2VxTEhmSXh5Q2FfS3NSYmZWNlg5bnZYeEcwZklhcUtWcTBORkE1enBnV1ZJRzlaeW1FUF9zZko2aXpMSFkwQXRMVERnc0p2RzhPNFVEb1RmcV9QbnVyMEFtSVRNckxaaWJtYW1EQ1NNV1Z4dnhHWnhKY1U0anVfZmtn?oc=5",
+      "pub_date": 1789104780.0,
+      "article_url": "https://www.yahoo.com/news/science/articles/anthropic-blocks-ai-linked-possible-053330886.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/075d1c444dcad9414cfef779d608f574841f4d59e0e92e0aeb02c3c0fe98d1c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F39b595fd1853f5e4662452a1dc930abb.jpg",
+      "description": "AI company Anthropic said on Thursday it had blocked several attempts in recent months by researchers to use versions of its Claude software in connection with the possible development of biological w..."
     },
     {
-      "headline": "Calls for increased regulation of AI as researchers sound the alarm",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04MTJVZ09wUWV2dHlVdko1OW8zd1paVE5Rd3FVMGpWYmQ5WThSZ05Sc0Z0d0U2bko3V01RNjI3OXljUVZfaHNuNm9PWW1TSEJmbFpQNXlqNXBYWVFJTzNDUE40TlRralVOYWNkYktVTVE?oc=5",
-      "pub_date": 1789088036.0,
-      "article_url": "https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22972666-1953365-472-thumb-1.jpg?c=16x9&q=w_800,c_fill",
-      "description": "AI industry insiders warn the technology could wipe out humanity within the decade. NYU professor and podcast host Scott Galloway says evil AI isn\u2019t the problem, it\u2019s the lack of regulation. \u201cThis is a failure of governance and leadership,\u201d he warns."
+      "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3RoSWgyVENhaXVDdFY0bkU1eDN3T2wwQnRJNXkwMk9RYld5ZVJSS0FPcGhtVXdIb3AyMnJ6c2xHZkNhMFZ1Q1BINDl2NVVIejM1NjFkMnZveExXWnh6Y2JUbXctYUxRX0VTaVFBamJhNjFwZ1BPbkh3a3Z0anRmckpiSlJWNWg1U0I3c1NHNjBma0Z1TlB4WTg5anJ3ZjVyOGF6cnVubm00d0s1LXdJ0gG0AUFVX3lxTE5MRVpJa1BQVnU5TlRCZUstMDNNM0hWZFZPdEd2dFlXNTVqeGNZYmY5VHR4aGpvU3lQeEs2ZE5xekJHNnE3Ni1iT21HU3hEV0tNQ3I1VV95dDhublJndVZUVmQyTU0xUndYWVpzWTdlckp6bnJSYUY0blFibS0wYlFzZUxvMGhWeG5JZFJmVnpYaUt3Ym02bjlGVGRXYm1hcFpOVFdHaGVlbTBocG0wSkk0VlVtSA?oc=5",
+      "pub_date": 1789102334.0,
+      "article_url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa37d4d-1789099341.jpg?resize=1920%2C1440",
+      "description": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges."
     },
     {
-      "headline": "Viral AI researcher\u2019s warning \u2018 scary as hell ,\u2019 Cruz says",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5",
-      "pub_date": 1789086132.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429",
+      "headline": "Police launch AI Bobbi chatbot to cut down on non-emergency calls",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QakEtblBZSk5IQjRBWVE5Q0Y3VElVYkVpa1N6SzIwNlF6aVdDa043X2RMVkpzRlQ1QWswajRNX09NR3ZscmNFdHgyRGV1U2RJcldTdm1iZmpTQQ?oc=5",
+      "pub_date": 1789105165.0,
+      "article_url": "https://www.bbc.com/news/articles/c3eq74zwk53o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98c2/live/ad1e1b70-ad26-11f1-980e-4fc6f1211def.png",
+      "description": "Merseyside Police are the first police force in the North West to roll-out an AI-powered chatbot."
+    },
+    {
+      "headline": "How Maersk Is Using AI To Survive The New Era Of Tariff Chaos",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXJiS2xNWmpYdTZGLUV6ZFpFdFFLMHpBNFpXNTNPNWRRb2NTSVBqVEkzUmNvUXl3SDFaeGtyUll1VlZUUlU1QVQ2QXJvYVR3S0Z6VFhia2NuMGVhRURGbDJjSmFFSUphY0pvNG1zNWpmUE5PV3UxMU5zcWdxTFFUeUtXTjRhaEZjc0VJLWlLR0o3TkhvdUhQeWFWaEduOFB0NzVvY1JzRzRkZERiajJFVEsyX3M?oc=5",
+      "pub_date": 1789103728.0,
+      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/09/11/how-maersk-is-using-ai-to-survive-the-new-era-of-tariff-chaos/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Former Anthropic researcher warns AI could \u2018kill us all\u2019",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnF4R0NXdkRxQXIyVVVnQlNVVmg5OElaV1Mzd1ZkV25UaGxibWNNUGhfdm1keUlCVEVyMW9YMGNvOUZGbF9OaWxIY2xVMjhpSWlISVpjdWZzeUdMVFBJX05BdzlJTFFCU1B3YjZYaXM0S2lIaW1xcExwXzY0UnRwU3dYOGtNQi11aUoyb3JaV3FOZ3RTTDVJZnFQTndQZ0lWQUdKMDBQeU5QYUtFMDF5aEdhVS0wMHMzUmRldUJXRWFEWFpDLURaTzU0RHhUYnNGbDV0Q0taNFEzR2hNMHY5bDliajlzNTlPYVBpdk1jQTQ?oc=5",
-      "pub_date": 1789018800.0,
-      "article_url": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/26091001-jacobcoxeninterview-hnk-digvid-vrtc-clean-thumbnail.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Former AI researcher Jacob Coxon tells CNN\u2019s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control."
-    },
-    {
-      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
-      "pub_date": 1789087380.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+      "pub_date": 1789077528.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
       "image": null,
       "description": null
     },
@@ -85,26 +95,16 @@
       "description": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications."
     },
     {
-      "headline": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "pub_date": 1788949912.0,
-      "article_url": "https://openai.com/index/navier-stokes-solution/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7hiHADoMhgN0iDcje9Xdei/2dae059c10a0dfa3e2814ebb522e9df2/navier-stokes-og.png?w=1600&h=900&fit=fill",
-      "description": "We\u2019re sharing an AI-generated solution to the Navier\u2013Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean."
-    },
-    {
-      "headline": "Oracle tops estimates as AI demand tempers cash-burn fears",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYzUyN0FuOGI1QWEwbUFheXRzLW1aTlZvVVBxWkRzSmpBZjhQQmRJMnlkenRiYldtT1VSRnh3c0FnYW9RaVY0ZGtJVmVIWGU0aW9saEV0TUdaWmNXUlhidUQ4SEY2VHpNVUJPVEpVYWFZc1dLUmJlbGZ6Q2pua1F0aVUyU2hMQU4wS0U3cUpJT0J1ckMydVVvMTRtU2VnTmg0VVNYNWRUcVNpd1lWVWRUNTVNRjBZYWs?oc=5",
-      "pub_date": 1789082903.0,
-      "article_url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/",
+      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
+      "pub_date": 1789087380.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T01:21:27.032471+00:00"
+  "fetched_at": "2026-09-11T06:27:22.095420+00:00"
 }
