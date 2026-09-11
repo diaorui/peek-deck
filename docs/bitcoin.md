@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-10T23:20:40.412517+00:00'
+updated: '2026-09-11T01:21:34.866819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 10, 2026 at 23:20 UTC  
+**Last Updated:** September 11, 2026 at 01:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,556.24
+### $76,830.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -3.7%  
-**30d:** +20.9%  
-**90d:** +19.0%  
-**1y:** -33.6%  
+**24h:** -1.8%  
+**7d:** -3.6%  
+**30d:** +21.1%  
+**90d:** +17.0%  
+**1y:** -33.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1539.40B
+**Market Cap:** $1544.03B
 Rank #1
 
 **Circulating Supply:** 20,082,468 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--39.2%
+-39.0%
 
 **All-Time Low:** $67.81
-+112964.4%
++113284.5%
 
 ---
 
 ## Fear & Greed Index
 
-### 69
+### 56
 **GREED**
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Good use to for the new phone](https://www.reddit.com/r/Bitcoin/comments/1wcb9yb/good_use_to_for_the_new_phone/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Welcome to the Club, Mate](https://www.reddit.com/r/Bitcoin/comments/1wchv12/welcome_to_the_club_mate/)**
 
-10h ago
+12h ago
 
 ---
 
 **[We gottem boys](https://www.reddit.com/r/Bitcoin/comments/1wc267o/we_gottem_boys/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case](https://www.reddit.com/r/Bitcoin/comments/1wcggcw/singaporean_22year_old_pleads_guilty_to_being_the/)**
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case) • 11h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ According to the table shared by River, some sectors have experienced inflation 
 
 Watch the Full Video here: https://youtu.be/lT2vmdBvtK0
 
-9h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ Watch the Full Video here: https://youtu.be/lT2vmdBvtK0
 
 An influencing American edition published an article that residents of the developed countries often criticize bitcoin only because of their own financial privilege. While US citizens are accustomed to a stable dollar and reliable banks, for billions of people around the world the first cryptocurrencies was the only salvation from hyperinflation and authoritarian control. The author Alex Gladstein recalls that bitcoin appeared after the crisis of 2008 as a protest against the rescue of bankrupt banks at the expense of taxpayers. Today, in countries such as Nigeria, Egypt or Argentina, where national currencies have collapsed by 70-90%, it protects accumulators of ordinary families from complete annihilation. The main value of bitcoin is a financial system, where no one can arbitrarily froze other people's money or cancel an honest transfer.
 
-15h ago
+17h ago
 
 ---
 
@@ -141,7 +141,7 @@ An influencing American edition published an article that residents of the devel
 
 We just published a new Rabbit Hole on Bitcoin privacy: https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy It tries to do the thing most privacy writeups skip, which is explain the mechanism before the advice. Two heuristics do most of the tracing work (common-input ownership, which Satoshi flagged in the whitepaper, and change detection). Neither one produces a name. The name comes from the exchange record when you withdraw from a KYC account, and that one label spreads across everything the heuristics grouped with it. The chapter is honest about the other side. Chain analysis recovered the Colonial Pipeline ransom and the Bitfinex coins, and we say so. It is also run against every ordinary deposit at every exchange, and in the Bitcoin Fog case a Chainalysis executive testified she was not aware of studies establishing the software's error rate. Both things are true. The 2024 section covers the Samourai arrests, the Wasabi coordinator shutdown, what survived (JoinMarket, and then its own maintenance problems), and the quieter tools that grew in the gap: PayJoin and Silent Payments. The main takeaway is that most leaks are not on the chain. Public wallet servers, home IPs, and people posting balance screenshots leak more than any heuristic, and the fixes for those are free. Every claim is sourced at the bottom of the page (DOJ releases, the BIPs, the 2013 UCSD paper, Chainalysis's own report). If we got something wrong, tell us and we will fix it.
 
-10h ago
+12h ago
 
 ---
 
@@ -153,13 +153,7 @@ We just published a new Rabbit Hole on Bitcoin privacy: https://www.learnbitcoin
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree with the laundered proceeds.
 
-CNN • 21h ago
-
----
-
-**[Bitcoin Slips Further Below $80,000 as the Range Trade Resumes](https://www.bloomberg.com/news/articles/2026-09-10/bitcoin-slips-further-below-80-000-as-the-range-trade-resumes)**
-
-Bloomberg.com • 2h ago
+CNN • 23h ago
 
 ---
 
@@ -167,15 +161,7 @@ Bloomberg.com • 2h ago
 
 Coinbase Global (NASDAQ: $COIN) CEO Brian Armstrong said that he believes Bitcoin (CRYPTO: $BTC) has officially bot...
 
-finance.yahoo.com • 9h ago
-
----
-
-**[Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)**
-
-Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
-
-theblock.co • 12h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -183,29 +169,27 @@ theblock.co • 12h ago
 
 Coinbase CEO Brian Armstrong discusses the Clarity Act and what greater regulatory clarity could mean for the crypto industry. He also explains why the Bitcoin trade has already hit bottom, expecting upside amid pressure in global bond markets.
 
-CNBC • 16h ago
+CNBC • 18h ago
 
 ---
 
-**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
+**[Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years](https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104)**
 
-CoinDesk • 10h ago
+Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.
 
----
-
-**[Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html)**
-
-Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
-
-finance.yahoo.com • 11h ago
+The Block • 14h ago
 
 ---
 
-**[Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center](https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin)**
+**[Bitcoin Slips Further Below $80,000 as the Range Trade Resumes](https://www.bloomberg.com/news/articles/2026-09-10/bitcoin-slips-further-below-80-000-as-the-range-trade-resumes)**
 
-The fire marshal in El Reno, Oklahoma issued a Bitcoin data center a "failing" grade due to severe safety issues.
+Bloomberg.com • 11h ago
 
-Futurism • 10h ago
+---
+
+**[How Bitcoin Bancorp (BCBC) scooped up 2,500 former Bitcoin Depot kiosks for just $620,000](https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million)**
+
+CoinDesk • 4h ago
 
 ---
 
@@ -215,9 +199,25 @@ KTLA • 1d ago
 
 ---
 
+**[Bitcoin Suffers On Renewed US-Iran Fighting](https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting)**
+
+The bitcoin price has stumbled on tensions flaring up in the Middle East again.
+
+Bitcoin Magazine • 8h ago
+
+---
+
+**[Fire Marshal Uncovers House of Horrors Lurking Inside Bitcoin-Mining Data Center](https://futurism.com/future-society/fire-marshal-house-horrors-data-center-bitcoin)**
+
+The fire marshal in El Reno, Oklahoma issued a Bitcoin data center a "failing" grade due to severe safety issues.
+
+futurism.com • 12h ago
+
+---
+
 **[Bessent’s ‘Opening Gambit’—Bitcoin Suddenly Braced For A $32 Trillion Price Shock](https://www.forbes.com/sites/digital-assets/2026/09/10/i-am-the-house-now-bessent-issues-serious-warning-as-bitcoin-and-crypto-brace-for-a-massive-price-shock/)**
 
-Forbes • 10h ago
+Forbes • 12h ago
 
 ---
 
@@ -277,7 +277,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
 
-⬆️ 1 • 💬 0 • 9h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+⬆️ 1 • 💬 0 • 11h ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
 
 ---
 
@@ -299,7 +299,7 @@ Donald Trump's White House has launched Arcade.Gov, a site with mini-games where
 
 **[Keystone's Independent Analysis of the Coldcard Exploit](https://news.ycombinator.com/item?id=49649605)**
 
-⬆️ 1 • 💬 0 • 3h ago • [keystone.com](https://www.keystone.com/case-studies/following-the-bitcoin-inside-keystones-independent-analysis-of-the-coldcard-exploit)
+⬆️ 1 • 💬 0 • 5h ago • [keystone.com](https://www.keystone.com/case-studies/following-the-bitcoin-inside-keystones-independent-analysis-of-the-coldcard-exploit)
 
 ---
 
@@ -313,7 +313,17 @@ Trump's proposed $5000 dividend checks could unleash more than $1 trillion in ne
 
 📺 Simply Bitcoin
 
-👁️ 2K • 👍 304 • 💬 46 • ⏱️ 17:13 • 1h ago
+👁️ 4K • 👍 656 • 💬 136 • ⏱️ 17:13 • 3h ago
+
+---
+
+**[$400K Bitcoin TRIGGER - Coinbase CEO Just Named The Number](https://www.youtube.com/watch?v=ol-FXXDZ1so)**
+
+Coinbase CEO Brian Armstrong says the Bitcoin bottom is already in and $400000 BTC by 2030 is a reasonable target.
+
+📺 Bitcoin News Alerts
+
+👁️ 2K • 👍 183 • 💬 115 • ⏱️ 17:01 • 6h ago
 
 ---
 
@@ -323,7 +333,27 @@ Coinbase CEO Brian Armstrong discusses the Clarity Act and what greater regulato
 
 📺 CNBC International Live
 
-👁️ 559 • 👍 23 • 💬 2 • ⏱️ 5:22 • 2h ago
+👁️ 2K • 👍 62 • 💬 17 • ⏱️ 5:22 • 4h ago
+
+---
+
+**[🌍 Retire on Bitcoin by 2032: Global Wealth Matrix &amp; How Much You Need 🚀](https://www.youtube.com/watch?v=c0X9585-KDI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 10K • 👍 2K • 💬 103 • ⏱️ 30:29 • 3h ago
+
+---
+
+**[Is Bitcoin on the Verge of Its Biggest Bull Run?](https://www.youtube.com/watch?v=LrRtSdsWC0c)**
+
+Ran Neuner, Founder of Crypto Banter, joins Coindesk's Jennifer Sanasie on Markets Outlook with charts in hand to explain why ...
+
+📺 CoinDesk
+
+👁️ 837 • 👍 63 • 💬 28 • ⏱️ 22:55 • 3h ago
 
 ---
 
@@ -333,17 +363,17 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 646 • 💬 186 • ⏱️ 53:02 • 8h ago
+👁️ 21K • 👍 665 • 💬 189 • ⏱️ 53:02 • 10h ago
 
 ---
 
-**[Bessent: “I Am the House Now” | Could Bitcoin Hit $840K as Trust in the System Breaks?](https://www.youtube.com/watch?v=ZdSb3rL9y_A)**
+**[XRP &amp; Bitcoin Are About To Usher In The Largest Wealth Transfer In Human History](https://www.youtube.com/watch?v=rByJc531jhA)**
 
-Treasury Secretary Scott Bessent just dared traders to bet against the yen, calling himself "the house" with "asymmetric ...
+I'm not sure if everyone else has noticed but there are tons of whales and rich people who are accumulating MASSIVE amounts of ...
 
-📺 Simply Bitcoin
+📺 Money Rules - Investing Tips 
 
-👁️ 38K • 👍 2K • 💬 123 • ⏱️ 17:22 • 1d ago
+👁️ 26K • 👍 2K • 💬 596 • ⏱️ 14:01 • 13h ago
 
 ---
 
@@ -353,57 +383,27 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 121 • 💬 21 • ⏱️ 18:12 • 1d ago
+👁️ 10K • 👍 125 • 💬 21 • ⏱️ 18:12 • 1d ago
 
 ---
 
-**[America’s DEBT Problem Just Got WORSE | Why Bitcoin Matters NOW!](https://www.youtube.com/watch?v=6mK4TO39OkI)**
+**[Bitcoin Slides, Inflows Grow: Adam Lynch on Crypto Trends, Clarity Act](https://www.youtube.com/watch?v=MSDIrjJ95zs)**
 
-Japan dumped $90 billion in US Treasuries as the global financial system faces growing pressure. US interest costs are surging, ...
+Price action in Bitcoin took a step down after a hotter-than-expected PPI led to some weakness across Wall Street. That said ...
+
+📺 Schwab Network
+
+👁️ 699 • 👍 23 • 💬 27 • ⏱️ 5:53 • 3h ago
+
+---
+
+**[Bessent: “I Am the House Now” | Could Bitcoin Hit $840K as Trust in the System Breaks?](https://www.youtube.com/watch?v=ZdSb3rL9y_A)**
+
+Treasury Secretary Scott Bessent just dared traders to bet against the yen, calling himself "the house" with "asymmetric ...
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 1K • 💬 57 • ⏱️ 14:32 • 2d ago
-
----
-
-**[US Bans CBDC, Adopts Bitcoin Reserve Strategy #shorts](https://www.youtube.com/watch?v=IlbPmaMfOeI)**
-
-A historic executive order bans central bank digital currency. Project Crypto modernizes financial markets for blockchain, ...
-
-📺 Dr. Mike Favors
-
-👁️ 544 • 👍 5 • 💬 1 • ⏱️ 0:22 • 2h ago
-
----
-
-**[BITCOIN HAS SET A MAJOR TRAP, DON&#39;T GET FOOLED!](https://www.youtube.com/watch?v=r-rfvHRm558)**
-
-TRADE PERPS IN THE USA: https://kalshi.com/p/cryptokid $25 BONUS WEEX: https://cryptokid.io/WEEX-Bonus ...
-
-📺 Crypto Kid
-
-👁️ 6K • 👍 254 • 💬 41 • ⏱️ 8:34 • 10h ago
-
----
-
-**[Bitcoin Golden Cross](https://www.youtube.com/watch?v=YHsAbpRoB-A)**
-
-Bitcoin just had a golden cross. Normally we get dumps after golden crosses. What is more important is what happens during the ...
-
-📺 Benjamin Cowen
-
-👁️ 217K • 👍 7K • 💬 256 • ⏱️ 9:37 • 2d ago
-
----
-
-**[Addressing Hunter Biden Crypto Coin](https://www.youtube.com/watch?v=of0XGiy2n4I)**
-
-I made a vague post on Instagram so here's a more thorough explanation of what happened. I did not realize how this would ...
-
-📺 Channel 5 with Andrew Callaghan
-
-👁️ 494K • 👍 17K • 💬 7K • ⏱️ 4:13 • 23h ago
+👁️ 39K • 👍 2K • 💬 123 • ⏱️ 17:22 • 1d ago
 
 ---
 

@@ -39,25 +39,6 @@
       "project_page": null
     },
     {
-      "id": "2609.10522",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)",
-      "organization_name": "showlab",
-      "organization_fullname": "Show Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1671779505215-63a55320ce5763e06f78519c.png",
-      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining.",
-      "ai_summary": "Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.",
-      "hf_url": "https://huggingface.co/papers/2609.10522",
-      "arxiv_url": "https://arxiv.org/abs/2609.10522",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 115,
-      "num_comments": 2,
-      "published_at": "2026-09-08T20:00:00.000Z",
-      "github_repo": "https://github.com/showlab/Show-Harness",
-      "github_stars": 125,
-      "project_page": "https://showlab.github.io/Show-Harness/"
-    },
-    {
       "id": "2609.08936",
       "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
       "authors": "Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)",
@@ -69,12 +50,31 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 199,
+      "upvotes": 200,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
       "github_stars": 331,
       "project_page": "https://auk-project.github.io/"
+    },
+    {
+      "id": "2609.10522",
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)",
+      "organization_name": "showlab",
+      "organization_fullname": "Show Lab",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1671779505215-63a55320ce5763e06f78519c.png",
+      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining.",
+      "ai_summary": "Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.",
+      "hf_url": "https://huggingface.co/papers/2609.10522",
+      "arxiv_url": "https://arxiv.org/abs/2609.10522",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
+      "upvotes": 127,
+      "num_comments": 2,
+      "published_at": "2026-09-08T20:00:00.000Z",
+      "github_repo": "https://github.com/showlab/Show-Harness",
+      "github_stars": 163,
+      "project_page": "https://showlab.github.io/Show-Harness/"
     },
     {
       "id": "2609.08977",
@@ -94,25 +94,6 @@
       "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
       "github_stars": 158,
       "project_page": "https://omni-interaction-gander.github.io/Omni-Interaction-Agent/"
-    },
-    {
-      "id": "2310.10688",
-      "title": "A decoder-only foundation model for time-series forecasting",
-      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
-      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
-      "hf_url": "https://huggingface.co/papers/2310.10688",
-      "arxiv_url": "https://arxiv.org/abs/2310.10688",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 41,
-      "num_comments": 1,
-      "published_at": "2023-10-14T13:01:37.000Z",
-      "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 32169,
-      "project_page": null
     },
     {
       "id": "2407.16741",
@@ -172,6 +153,25 @@
       "project_page": "https://www.flashml.ai/"
     },
     {
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 41,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 32196,
+      "project_page": null
+    },
+    {
       "id": "2312.06371",
       "title": "BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous\n  Driving",
       "authors": "Haicheng Liao, Zhenning Li, Huanming Shen et al. (8 authors)",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-10T23:20:20.482212+00:00"
+  "fetched_at": "2026-09-11T01:21:19.184778+00:00"
 }

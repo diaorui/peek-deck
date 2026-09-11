@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-10T23:20:40.404750+00:00'
+updated: '2026-09-11T01:21:34.858257+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 10, 2026 at 23:20 UTC  
+**Last Updated:** September 11, 2026 at 01:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies pursue the Boromir strategy to deal with the control problem. "It's dangerous. But let that be me. I know what to do with it."](https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -47,19 +47,27 @@ AI news, discussions, and developments
 
 Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots.
 
-🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 9h ago
+🔗 [anthropic.com](https://www.anthropic.com/institute/econ-scenarios) • 11h ago
 
 ---
 
 **[Genuine Question About Citizenship](https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/)**
 
-14h ago
+16h ago
 
 ---
 
 **[Is AGI finally here?](https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/)**
 
-9h ago
+11h ago
+
+---
+
+**[One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.](https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/)**
+
+A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger equates to 1.9 kg of CO₂e emissions". Google’s 2025 research paper reports that "a median Gemini Apps text prompt generates 0.03 gCO2e". That's 1,900 grams of CO₂e emissions per cheeseburger. That’s 0.03 grams of CO₂e emissions per Gemini text prompt. 1,900 ÷ 0.03 ≈ 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger.
+
+28m ago
 
 ---
 
@@ -67,7 +75,7 @@ Three scenarios, explicitly not predictions, no probabilities attached. Modest i
 
 The ignorance is incredible
 
-8h ago
+10h ago
 
 ---
 
@@ -75,7 +83,15 @@ The ignorance is incredible
 
 There’s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn’t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do.
 
-5h ago
+7h ago
+
+---
+
+**[Google makes $15B AI infrastructure investment in Finland](https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/)**
+
+The tech giant has announced plans to invest at least $15 billion in data centers and other AI infrastructure in Finland through 2028.
+
+🔗 [LinkedIn](https://www.linkedin.com/news/story/google-makes-15b-ai-infrastructure-investment-in-finland-9344618/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial) • 1h ago
 
 ---
 
@@ -83,7 +99,7 @@ There’s a lot of talk from different AI companies that are pushing the narrati
 
 OpenAI put GPT-6 Astra into the API today, so now anyone can actually call it instead of waiting for the special-access rollout. Good timing too, since everyone's still reposting Sharif Shameem's video from a couple days ago, where GPT-6 Astra clears all 48 levels of Neal Agarwal's "I'm Not a Robot" game and gets its own "Verified Human" certificate. Comments are saying stuff like "CAPTCHAs are officially dead," someone from OpenAI even hopped in on the thread. For a while now, I've wanted to run an agent through different services and have it self-register. My goal was to test Atomic Mail Agentic's OTP feature: does it work, how long does it take, how many tokens it burns. But then a convenient opportunity showed up to test all this with GPT-6 Astra, now that it's actually reachable through the API, since I got curious, like, whoa, now it can even solve CAPTCHAs? I picked 7 US services: Reddit, GitHub, Discord, Etsy, Indeed, Airbnb and Craigslist. Spoiler: 2 out of 7 actually went through, and neither of those two had a CAPTCHA in the way to begin with. On Reddit, the agent hit Cloudflare's "prove your humanity" check and couldn't get past it on its own, called me in to do it myself. Discord just froze for seven minutes, the agent kept reading the registration form in a loop and never moved forward, I've never figured out what widget was blocking it. Indeed got as far as the email code and then wanted a phone number for SMS, no video for that. Craigslist and Airbnb didn't make it either (Airbnb died mid-run when my local model crashed, unrelated to CAPTCHAs, just bad luck on my end). I also came across a blog post from a scraping service (decodo), and they say about Astra: "does not fix blocks, geo-restrictions, CAPTCHAs, or rate limits." So vendors who sell access to the model are honest that it is a demo game, not production CAPTCHAs on real sites. The gap between the viral clip and what's actually deployed on sites matched what I saw in practice. What did make me happy: OTP just worked. Every site that only needed an email code registered clean, that's the GitHub and Etsy rows below. Used OpenRouter to access the model. Here's what the cost looked like, and whether the registration actually completed or not, since those are two different things: GPT-6 Astra, cost and outcome per step (OpenRouter, $10/M input, $50/M output) Step Tokens Cost Result Reddit (/register) 11,201 $0.11 Blocked — Cloudflare check GitHub (/signup + email confirm) 65,638 $0.67 Passed Discord (/register, stuck loop) 430,609 $4.37 Blocked — stuck loop Etsy (/join) 582,589 $5.86 Passed Indeed (auth/signup) 411,567 $4.14 Blocked — needs SMS Craigslist (blocked) 32,259 $0.32 Blocked Airbnb (interrupted by a crash) 419,194 $4.21 Blocked — crashed mid-run Total 1,953,057 $19.68 2/7 passed Worth being clear: the cost column is what it cost to run the agent against that site, not what it cost to beat a CAPTCHA. A blocked row still burns tokens, Discord's $4.37 is a failed loop, not a paid-for win. Same price whether you use Astra or Fable 5, both are $10/M in, $50/M out on OpenRouter, so it doesn't matter which you run. Though for this type of work you don't need anything that heavy anyway, something like DeepSeek V4 would do fine. Here's what just the Etsy (/join) step would've cost on DeepSeek V4 Flash instead: Etsy (/join) step, model comparison Model Tokens Cost GPT-6 Astra 582,589 $5.86 DeepSeek V4 Flash 582,589 $0.04 Gemini 2.5 Flash Lite 582,589 $0.055 GPT-5 Nano 582,589 $0.045 Qwen3.7 Flash 582,589 $0.035 Same exact task, about 150x cheaper. I'm strongly against building bot farms, but agent self-registration is fine when a product actually needs it. Still, we're getting to where models really can reliably solve CAPTCHAs, and then we'll all be proving we're human on camera. People will work around that too. As a regular user, how do you feel about this? Do you see where it's going, what will the flood of bots and agents do to the internet and to services? (For what it's worth, at Atomic Mail we ban bot farms outright, so if that's what you're after, we're not your fit.) P.S. I know Neal Agarwal's game is a demo, not a real CAPTCHA vendor like Cloudflare or hCaptcha, that's kind of the whole point. Everyone was hyping "CAPTCHAs are dead" off that clip, so I got what actually happens the moment you point the same model at real signup flows instead of a browser game
 
-4h ago
+6h ago
 
 ---
 
@@ -91,23 +107,7 @@ OpenAI put GPT-6 Astra into the API today, so now anyone can actually call it in
 
 OpenAI launched the Agents API in public beta on September 10. It lets developers create cloud agents by supplying a task, model, tools, and compute environment in one API call. OpenAI hosts the harness, while the agent can run in an OpenAI sandbox, on the developer's own infrastructure, or with partner environments such as Cloudflare, Modal, and Vercel. The API adds context compaction for long sessions, tool search, parallel programmatic tool calls, and multi-agent support. OpenAI says the API has no extra fee during the beta, but token and tool usage still costs money. The useful split is between orchestration and execution. Teams can reuse the Codex harness without putting every file, secret, or runtime inside OpenAI's sandbox. The production question is how carefully they set those boundaries. Sources: OpenAI: https://openai.com/index/introducing-the-agents-api/ Investing.com: https://za.investing.com/news/stock-market-news/openai-launches-agents-api-in-public-beta-for-developers-93CH-4460924
 
-3h ago
-
----
-
-**[AI should solve problems, not create them - Community College Daily](https://www.reddit.com/r/artificial/comments/1wcunsd/ai_should_solve_problems_not_create_them/)**
-
-Artificial intelligence has become part of nearly every conversation in higher education. It touches teaching and learning, cybersecurity, administrative operations, software development and student services. This doesn't mean every project needs AI. Rather, institutional leaders should consider how technology can help accomplish work that has become increasingly difficult given limited resources. At Pima Community College
-
-🔗 [Community College Daily - American Association of Community Colleges](https://www.ccdaily.com/2026/08/ai-should-solve-problems-not-create-them/) • 2h ago
-
----
-
-**[Government-linked accounts tried to use Claude for work that could lead to bioweapons, Anthropic says](https://www.reddit.com/r/artificial/comments/1wcvcok/governmentlinked_accounts_tried_to_use_claude_for/)**
-
-In a threat report, the AI company details five cases in which researchers tied to state institutions evaded its regional blocks to use Claude on dual-use biological research work.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/anthropic-state-linked-scientists-banned-regions-used-claude-virus-res-rcna596859) • 2h ago
+5h ago
 
 ---
 
@@ -115,33 +115,53 @@ In a threat report, the AI company details five cases in which researchers tied 
 
 ## Google News: "ai"
 
+**[Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026)**
+
+Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
+
+Anthropic • 8h ago
+
+---
+
+**[Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says](https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html)**
+
+Anthropic said it detected unauthorized efforts by China-based AI labs including Alibaba and Moonshot AI to use its Claude models to help improve their own AI systems.
+
+CNBC • 33m ago
+
+---
+
+**[Calls for increased regulation of AI as researchers sound the alarm](https://www.cnn.com/2026/09/10/us/video/ac360-scott-galloway-ai)**
+
+AI industry insiders warn the technology could wipe out humanity within the decade. NYU professor and podcast host Scott Galloway says evil AI isn’t the problem, it’s the lack of regulation. “This is a failure of governance and leadership,” he warns.
+
+CNN • 27m ago
+
+---
+
+**[Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says](https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429)**
+
+Politico • 59m ago
+
+---
+
 **[Former Anthropic researcher warns AI could ‘kill us all’](https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty)**
 
 Former AI researcher Jacob Coxon tells CNN’s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control.
 
-CNN • 17h ago
+CNN • 19h ago
 
 ---
 
-**[Growing chorus of A.I. insiders warns of possible extinction of humans](https://www.nbcnews.com/nightly-news/video/growing-chorus-of-a-i-insiders-warns-of-possible-extinction-of-humans-269663301684)**
+**[OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff](https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff)**
 
-Former employees from some of the top A.I. companies say the potential of future models is nothing short of the killing of all humans. NBC News’ Christine Romans reports.
-
-NBC News • 31m ago
-
----
-
-**['Slow it down' - Bernie Sanders proposes bill to ban AI superintelligence](https://www.bbc.com/news/videos/cgjq11576q2o)**
-
-The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.
-
-BBC • 32m ago
-
----
-
-**[Viral AI researcher’s warning ‘scary as hell,’ Cruz says](https://www.politico.com/live-updates/2026/09/10/congress/ted-cruz-ai-regulation-01070429)**
-
-politico.com • 8h ago
+Bloomberg.com • 38m ago
 
 ---
 
@@ -149,29 +169,7 @@ politico.com • 8h ago
 
 We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
 
-blog.google • 7h ago
-
----
-
-**[AI is losing its stranglehold on the U.S. stock market. Here's why](https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html)**
-
-A key tech-stock volatility metric options traders have been watching all year is reversing.
-
-CNBC • 5h ago
-
----
-
-**[Investors gave up on this AI play, but charts suggest it's worth a look, Jay Woods says](https://www.cnbc.com/2026/09/10/investors-gave-up-on-this-ai-play-but-charts-suggest-its-worth-a-look-jay-woods-says.html)**
-
-This stock grabbed traders attention in early 2026 as momentum drove shares up over 75%. But the sentiment was too euphoric.
-
-CNBC • 6h ago
-
----
-
-**[NVIDIA vs. AMD After Earnings: Which AI Stock Should You Buy Now?](https://www.zacks.com/stock/news/2987980/nvidia-vs-amd-after-earnings-which-ai-stock-should-you-buy-now)**
-
-Zacks Investment Research • 5h ago
+blog.google • 9h ago
 
 ---
 
@@ -179,13 +177,13 @@ Zacks Investment Research • 5h ago
 
 We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
 
-openai.com • 1d ago
+OpenAI • 1d ago
 
 ---
 
-**[Microsoft Plans Data Center Push to Triple Its Computing Power](https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute)**
+**[Oracle tops estimates as AI demand tempers cash-burn fears](https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/)**
 
-Bloomberg.com • 2h ago
+Reuters • 1h ago
 
 ---
 
@@ -213,7 +211,7 @@ Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks,
 
 Apple today announced AirPods 5, delivering the industry’s best Active Noise Cancellation in an open-ear design and even better sound quality.
 
-⬆️ 501 • 💬 444 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+⬆️ 503 • 💬 446 • 1d ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 ---
 
@@ -245,7 +243,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
 The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.
 
-⬆️ 183 • 💬 8 • 23h ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
+⬆️ 183 • 💬 8 • 1d ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
 
 ---
 
@@ -259,7 +257,7 @@ The air traffic control body has said sorry for the disruption, and that they ar
 
 **[A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](https://news.ycombinator.com/item?id=49637395)**
 
-⬆️ 90 • 💬 62 • 21h ago • [slimemoldtimemold.com](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
+⬆️ 92 • 💬 62 • 23h ago • [slimemoldtimemold.com](https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/)
 
 ---
 
@@ -281,7 +279,17 @@ I resigned from Anthropic today. I spent the last three years doing pretraining 
 
 📺 CNN
 
-👁️ 2.0M • 👍 18K • 💬 7K • ⏱️ 9:27 • 21h ago
+👁️ 2.2M • 👍 19K • 💬 8K • ⏱️ 9:27 • 23h ago
+
+---
+
+**[The world got a &#39;warning shot&#39; with Hugging Face AI attack: Center for Humane Technology&#39;s Harris](https://www.youtube.com/watch?v=RB6UZRmOtHc)**
+
+Tristan Harris, Center for Humane Technology president and co-founder, joins 'Squawk Box' to discuss the AI Hugging Face ...
+
+📺 CNBC Television
+
+👁️ 32K • 👍 262 • 💬 109 • ⏱️ 4:13 • 11h ago
 
 ---
 
@@ -291,35 +299,17 @@ Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_
 
 📺 DeFranco News Clips
 
-👁️ 554K • 👍 35K • 💬 3K • ⏱️ 1:43 • 1d ago
+👁️ 565K • 👍 35K • 💬 3K • ⏱️ 1:43 • 1d ago
 
 ---
 
-**[‘We don’t have months’: Bernie Sanders sounds alarm on AI&#39;s &#39;extinction&#39; threat](https://www.youtube.com/watch?v=PWkMUmEZbq4)**
+**[AI Expert Reveals How Long We Have Left... | TMZ Live Clip](https://www.youtube.com/watch?v=qbFJuM3dFZM)**
 
-What we have got to do now is light a match under the backsides of members of Congress and say, we don't have months.
+About TMZ: TMZ has consistently been credited for breaking the biggest stories dominating the entertainment news landscape ...
 
-📺 MS NOW
+📺 TMZ
 
-👁️ 431K • 👍 7K • 💬 2K • ⏱️ 7:46 • 22h ago
-
----
-
-**[AI researcher says there is &#39;substantial probability&#39; AI could kill all humans in next decade](https://www.youtube.com/watch?v=Dy2kbPEwoi4)**
-
-Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News' Tom Llamas about his viral tweet where he ...
-
-📺 NBC News
-
-👁️ 478K • 👍 6K • 💬 2K • ⏱️ 13:40 • 23h ago
-
----
-
-**[A Human Just Beat the World’s Strongest Go AI #ai #google #programming](https://www.youtube.com/watch?v=iySQNsNGD7g)**
-
-📺 Better Stack
-
-👁️ 3K • 👍 196 • 💬 11 • ⏱️ 1:48 • 3h ago
+👁️ 20K • 👍 625 • 💬 314 • ⏱️ 11:04 • 7h ago
 
 ---
 
@@ -329,47 +319,55 @@ Could AI kill us all by the end of the decade? That's what the people building A
 
 📺 BBC Politics
 
-👁️ 87K • 👍 1K • 💬 640 • ⏱️ 6:33 • 12h ago
+👁️ 109K • 👍 2K • 💬 688 • ⏱️ 6:33 • 14h ago
 
 ---
 
-**[A.I. Expert Warns Humanity Is Halfway to Full Takeover | TMZ](https://www.youtube.com/watch?v=vmJ_es6UO4I)**
+**[A Human Just Beat the World’s Strongest Go AI #ai #google #programming](https://www.youtube.com/watch?v=iySQNsNGD7g)**
 
-The nightmare scenario for A.I. isn't just killer robots ... it could be nukes too. A.I. ethicist Tristan Harris says the warning signs are ...
+📺 Better Stack
 
-📺 TMZ Clips
-
-👁️ 50K • 👍 721 • 💬 418 • ⏱️ 15:29 • 1d ago
+👁️ 4K • 👍 296 • 💬 16 • ⏱️ 1:48 • 5h ago
 
 ---
 
-**[Former Anthropic AI researcher: &#39;this technology could kill everyone&#39;](https://www.youtube.com/watch?v=ujAU3qGKNMw)**
+**[AI researcher says there is &#39;substantial probability&#39; AI could kill all humans in next decade](https://www.youtube.com/watch?v=Dy2kbPEwoi4)**
 
-Former Anthropic researcher Jacob Coxon tells Tom Llamas people building AI believe it “could kill everyone.” For more context ...
+Former AI researcher for Anthropic and Open AI, Jacob Coxon, talked to NBC News' Tom Llamas about his viral tweet where he ...
 
 📺 NBC News
 
-👁️ 40K • 👍 629 • 💬 90 • ⏱️ 0:32 • 21h ago
+👁️ 538K • 👍 6K • 💬 2K • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[Anthropic researchers say AI could cause human extinction](https://www.youtube.com/watch?v=nEocVwxMz6I)**
+**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
 
-AI researcher Jacob Coxon resigned from Anthropic, warning that the race to build increasingly powerful AI systems could put ...
+Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
+
+📺 Philip DeFranco
+
+👁️ 851K • 👍 19K • 💬 4K • ⏱️ 27:13 • 1d ago
+
+---
+
+**[&#39;A race to the bottom&#39;: Walt Isaacson on AI threat concerns and the struggle to regulate](https://www.youtube.com/watch?v=kT21BXoI86g)**
+
+Historian Walter Isaacson joins Morning Joe to discuss the growing concerns over the threat artificial intelligence poses to ...
 
 📺 MS NOW
 
-👁️ 7K • 👍 155 • 💬 25 • ⏱️ 1:05 • 21h ago
+👁️ 14K • 👍 159 • 💬 74 • ⏱️ 7:00 • 7h ago
 
 ---
 
-**[AI World In CHAOS After Whistleblower Sounds Alarm on Human Extinction](https://www.youtube.com/watch?v=3G7hrmfrguY)**
+**[‘We don’t have months’: Bernie Sanders sounds alarm on AI&#39;s &#39;extinction&#39; threat](https://www.youtube.com/watch?v=PWkMUmEZbq4)**
 
-Krystal and Saagar discuss AI whistleblowers sounding off on the dangers of AI development. Sign Up For 30 Day Free BP Trial: ...
+What we have got to do now is light a match under the backsides of members of Congress and say, we don't have months.
 
-📺 Breaking Points
+📺 MS NOW
 
-👁️ 204K • 👍 6K • 💬 2K • ⏱️ 31:00 • 7h ago
+👁️ 478K • 👍 7K • 💬 2K • ⏱️ 7:46 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 6 • ❤️ 1,319 • 15h ago
+⬇️ 6 • ❤️ 1,365 • 17h ago
 
 ---
 
@@ -397,7 +395,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 42,289 • ❤️ 1,105 • 13h ago
+⬇️ 42,289 • ❤️ 1,115 • 15h ago
 
 ---
 
@@ -409,19 +407,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 15,930 • ❤️ 1,062 • 7d ago
-
----
-
-**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
-
-*Qwen*
-
-Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 7,322,476 • ❤️ 14,640 • 27d ago
+⬇️ 15,930 • ❤️ 1,064 • 7d ago
 
 ---
 
@@ -433,7 +419,19 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 614,850 • ❤️ 793 • 8d ago
+⬇️ 614,850 • ❤️ 796 • 8d ago
+
+---
+
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
+
+*Qwen*
+
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 7,322,476 • ❤️ 14,645 • 27d ago
 
 ---
 
@@ -445,7 +443,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 2,444 • ❤️ 651 • 2d ago
+⬇️ 2,444 • ❤️ 656 • 2d ago
 
 ---
 
@@ -457,7 +455,7 @@ LTX-2.5 is a diffusion model for generating and manipulating video and audio con
 
 `image-to-video`
 
-⬇️ 1,740,572 • ❤️ 3,378 • 9d ago
+⬇️ 1,740,572 • ❤️ 3,388 • 9d ago
 
 ---
 
@@ -469,7 +467,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,127,203 • ❤️ 3,845 • 21d ago
+⬇️ 11,127,203 • ❤️ 3,850 • 21d ago
 
 ---
 
@@ -481,7 +479,7 @@ TimesFM 3.0 is a PyTorch-based foundation model from Google Research for time-se
 
 `time-series-forecasting` `330.7M`
 
-⬇️ 483,787 • ❤️ 715 • 8d ago
+⬇️ 483,787 • ❤️ 716 • 8d ago
 
 ---
 
@@ -493,7 +491,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 517,644 • ❤️ 447 • 2d ago
+⬇️ 517,644 • ❤️ 450 • 2d ago
 
 ---
 
@@ -527,20 +525,6 @@ AutoResearch is a two-stage autonomous system that grounds research ideas throug
 
 ---
 
-**[Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522)**
-
-*Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)*
-
-🏢 Show Lab
-
-Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
-
-▲ 115 • 💬 2 • ⭐ 125 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
-
----
-
 **[AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing](https://huggingface.co/papers/2609.08936)**
 
 *Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)*
@@ -549,9 +533,23 @@ Show-Harness links vision-language models to robot control via discrete semantic
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 199 • 💬 3 • ⭐ 331 • 3d ago
+▲ 200 • 💬 3 • ⭐ 331 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
+
+---
+
+**[Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522)**
+
+*Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)*
+
+🏢 Show Lab
+
+Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
+
+▲ 127 • 💬 2 • ⭐ 163 • 2d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
 ---
 
@@ -566,18 +564,6 @@ Gander is an end-to-end framework that integrates continuous multi-modal streami
 ▲ 125 • 💬 2 • ⭐ 158 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 41 • 💬 1 • ⭐ 32,169 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -622,6 +608,18 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 ---
 
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 41 • 💬 1 • ⭐ 32,196 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
 **[BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous
   Driving](https://huggingface.co/papers/2312.06371)**
 
@@ -645,17 +643,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.6k • 🔱 581 • 6h ago
-
----
-
-**[Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills)**
-
-🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
-
-`HTML`
-
-⭐ 4.3k • 🔱 255 • 17h ago
+⭐ 4.6k • 🔱 581 • 8h ago
 
 ---
 
@@ -675,7 +663,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.5k • 🔱 452 • 1h ago
+⭐ 3.5k • 🔱 452 • 3h ago
 
 ---
 
@@ -685,7 +673,7 @@ AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source p
 
 `Python`
 
-⭐ 2.9k • 🔱 196 • 14h ago
+⭐ 3.0k • 🔱 200 • 16h ago
 
 ---
 
@@ -695,7 +683,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 161 • 17h ago
+⭐ 2.5k • 🔱 162 • 19h ago
 
 ---
 
@@ -715,7 +703,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 1.9k • 🔱 193 • 5h ago
+⭐ 1.9k • 🔱 193 • 7h ago
 
 ---
 
@@ -725,7 +713,7 @@ AI harness reference implementation for on-demand delivery workflows
 
 `Java`
 
-⭐ 1.8k • 🔱 59 • 13h ago
+⭐ 1.8k • 🔱 59 • 15h ago
 
 ---
 
@@ -735,7 +723,17 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 1.7k • 🔱 176 • 16d ago
+⭐ 1.7k • 🔱 177 • 16d ago
+
+---
+
+**[google/artemis](https://github.com/google/artemis)**
+
+ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.
+
+`Python` `ai-agents` `android` `google` `test-automation` `testing`
+
+⭐ 1.6k • 🔱 142 • 6m ago
 
 ---
 

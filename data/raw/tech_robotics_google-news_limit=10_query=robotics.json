@@ -45,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUxoMFo3bGNTVTU0Z3F0VUdaMGxfZEoxeEIxZ1pybDJSSjJpZnV6aDB2X3l6el9kc1RDby02bFR6UGdZcURQYTZYYkh4VnFfQllPQXZyRjlVa08xeHd6TTZxLWd3VlROWW43T2RYaDBJOUNLQ1JkR2FDTFUtczNlMHZ1NTRjcVpzTWMyb0FDOVI4ZjRGQXc?oc=5",
-      "pub_date": 1789078843.0,
-      "article_url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/08/jaka-teradyne-lawsuit.jpg",
-      "description": "Teradyne Robotics\u2019 patent lawsuit vs. JAKA Robotics centers on 3 Universal Robots patents about robot interfaces, safety brakes, and joints."
-    },
-    {
       "headline": "Israeli military creates new branch focused on AI, drones and robotics",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com",
@@ -63,6 +53,16 @@
       "article_url": "https://breakingdefense.com/?p=95208",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "How effective are food delivery robots? We followed one around D.C.",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
+      "pub_date": 1788886800.0,
+      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
+      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
     },
     {
       "headline": "Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings",
@@ -75,12 +75,12 @@
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
-      "pub_date": 1788998580.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
+      "headline": "Humanoid robot learns to sprint and perform spin kicks using AI trained on human motion data",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nSURBU2tuSVZmeWpwejZuOTdCU1VIUkF4MnVicFY0bUdqZHJlYVc4Mng3OUYtUkJZcGtXX2VydDdsbWdlaUxweHVjc0dTNGs1d25xT1JDT25rRElENlJQTXo3Ql9rYXJiWlJhVUZmbWZGMlhUX0p0akg0MA?oc=5",
+      "pub_date": 1789041610.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robot-sprint-ai-human.html",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": "Agility Robotics said in a recent filing that one of its humanoid robots could cost $200,000 and customers can breakeven in about 1.1 years."
     },
     {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+      "headline": "American company Swarmer buys Ukrainian ground robot maker for US$224m \u2013 WSJ",
+      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "source_url": "https://www.pravda.com.ua",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fdk5hV0N5bldkMDN6aHFyVTJCd0NhcmNjcm1VMjRGYzhQMUJFM2lHMVd5aGIzNnpoUmszSk9tRHFCZktDVEt4dWs0LVMxbXZ4a0s3RmNfak1vRXFEakxSZXV2TjTSAXBBVV95cUxOZ3JrSEV1ZHhzdFg1UlZzZzNTN1RfWjBuRWpoWjFfLXA2MmJ5YUkxU0xYNmpEMXU2N0VVdG9TSm9qa2xLZkxMazVxOGRXM1hIRHJQUDlNRzRmTEpPRTR1YnROaDVQTlFJMFFUNThiSVZN?oc=5",
+      "pub_date": 1789031820.0,
+      "article_url": "https://www.pravda.com.ua/eng/news/2026/09/10/8052757/",
+      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/0/910863/806f18021886e1cd523462980cf6f20a.jpeg?w=1200&q=85&stamp=1789031907",
+      "description": "US-based defence tech company Swarmer is acquiring Ukrainian ground robotics maker Ratel Robotics in a cash-and-stock deal worth up to US$224 million."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-10T23:20:38.771236+00:00"
+  "fetched_at": "2026-09-11T01:21:33.224136+00:00"
 }

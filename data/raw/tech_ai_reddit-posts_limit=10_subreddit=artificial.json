@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
+      "author": "recallingmemories",
+      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
+      "published": 1789087986.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+    },
+    {
       "title": "Challenge Accepted",
       "author": "PUBGM_MightyFine",
       "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
@@ -68,6 +79,17 @@
       "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
     },
     {
+      "title": "Google makes $15B AI infrastructure investment in Finland",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/",
+      "published": 1789082771.0,
+      "thumbnail": "https://external-preview.redd.it/DR-nQ-2mwWAawkgN4nt0eTEAMfI30k6JxI6qHwmpH0E.jpeg?width=640&crop=smart&auto=webp&s=754b90a49477f86dc80d36329e5b764bde22e135",
+      "external_url": "https://www.linkedin.com/news/story/google-makes-15b-ai-infrastructure-investment-in-finland-9344618/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "The tech giant has announced plans to invest at least $15 billion in data centers and other AI infrastructure in Finland through 2028."
+    },
+    {
       "title": "I ran GPT-6 Astra against 7 real signup CAPTCHAs",
       "author": "JanJanJaJa",
       "url": "https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "OpenAI launched the Agents API in public beta on September 10. It lets developers create cloud agents by supplying a task, model, tools, and compute environment in one API call. OpenAI hosts the harness, while the agent can run in an OpenAI sandbox, on the developer's own infrastructure, or with partner environments such as Cloudflare, Modal, and Vercel. The API adds context compaction for long sessions, tool search, parallel programmatic tool calls, and multi-agent support. OpenAI says the API has no extra fee during the beta, but token and tool usage still costs money. The useful split is between orchestration and execution. Teams can reuse the Codex harness without putting every file, secret, or runtime inside OpenAI's sandbox. The production question is how carefully they set those boundaries. Sources: OpenAI: https://openai.com/index/introducing-the-agents-api/ Investing.com: https://za.investing.com/news/stock-market-news/openai-launches-agents-api-in-public-beta-for-developers-93CH-4460924"
-    },
-    {
-      "title": "AI should solve problems, not create them - Community College Daily",
-      "author": "israelavila",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcunsd/ai_should_solve_problems_not_create_them/",
-      "published": 1789071687.0,
-      "thumbnail": "https://external-preview.redd.it/By_SqYcwqQrTQH5U-pgo2Mtht8SKO2b9hMHlBqRoGFU.jpeg?width=640&crop=smart&auto=webp&s=717b36dc6de6fb3e68eb02fb71e56dc26c853a25",
-      "external_url": "https://www.ccdaily.com/2026/08/ai-should-solve-problems-not-create-them/",
-      "site_name": "Community College Daily - American Association of Community Colleges",
-      "favicon": "https://www.ccdaily.com/wp-content/uploads/2016/12/cropped-AACC_logo_RGB_highres-180x180.jpg",
-      "description": "Artificial intelligence has become part of nearly every conversation in higher education. It touches teaching and learning, cybersecurity, administrative operations, software development and student services. This doesn't mean every project needs AI. Rather, institutional leaders should consider how technology can help accomplish work that has become increasingly difficult given limited resources. At Pima Community College"
-    },
-    {
-      "title": "Government-linked accounts tried to use Claude for work that could lead to bioweapons, Anthropic says",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcvcok/governmentlinked_accounts_tried_to_use_claude_for/",
-      "published": 1789073224.0,
-      "thumbnail": "https://external-preview.redd.it/1ZU9OBDtaeOV3JXStxbYiSl5HSEfcnnm1rnEWhhvwxQ.jpeg?width=640&crop=smart&auto=webp&s=80c70b1f13d66e0cd47712243b9e82b5b392fcc3",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/anthropic-state-linked-scientists-banned-regions-used-claude-virus-res-rcna596859",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "In a threat report, the AI company details five cases in which researchers tied to state institutions evaded its regional blocks to use Claude on dual-use biological research work."
     }
   ],
-  "fetched_at": "2026-09-10T23:20:10.748408+00:00"
+  "fetched_at": "2026-09-11T01:21:09.985249+00:00"
 }
