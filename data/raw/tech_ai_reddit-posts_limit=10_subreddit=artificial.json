@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
+      "author": "recallingmemories",
+      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
+      "published": 1789087986.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+    },
+    {
       "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
       "author": "florinandrei",
       "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
@@ -13,15 +24,26 @@
       "description": null
     },
     {
-      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
-      "author": "recallingmemories",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
-      "published": 1789087986.0,
+      "title": "Polish developer builds app that detects nearby Meta smart glasses",
+      "author": "Low-Honeydew6483",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/",
+      "published": 1789122930.0,
+      "thumbnail": "https://external-preview.redd.it/zDKmxJpAwBiEOw1AW8fefK3RxMLvbsGaGD3667vTO4o.jpeg?width=640&crop=smart&auto=webp&s=ecbdb2186b94ac8d401c6976e6859668fa454f9a",
+      "external_url": "https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses",
+      "site_name": "tvpworld.com",
+      "favicon": "https://s.tvp.pl/files/portale-v4/tvp-pl/portal/world.tvp.pl/assets/images/favicons/apple-touch-icon.png?v=0",
+      "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
+    },
+    {
+      "title": "Built an AI memory system that actually refuses to hallucinate",
+      "author": "Unikum_01",
+      "url": "https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/",
+      "published": 1789108834.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+      "description": "Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database. The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses something plausible to please you. That does not work if you need the system for high risk environments like medical decision support, where total auditability and clear provenance chains are mandatory. My System works on a completely different rule: no black box, no unearned answers, no word filters. Instead of using dense vectors, it stores context hypotheses in a shadow layer while reading. It never erases errors or contradicted data because mistakes are valuable evidence. Before a hypothesis becomes an accepted fact, it has to survive multiple slow wave sleep cycles. This is an active consolidation phase where the system uses stochastic replay to test if a hypothesis remains stable over time. If there is no verified anchor in the database for your query, the system simply reports the gap instead of guessing. I am using terms like sleep and neuromodulation on purpose because the code actually mimics those exact functional mechanics at an algorithmic level. For instance, dynamic floating point parameters continuously tune excitation, inhibition, and sleep pressure to keep the system balanced without needing gradient descent. In recent production tests over a 664 MB Wikipedia corpus, it processed around 155k chunks and tracked over 1.4 million hypotheses on a single CPU thread without breaking down or corrupting its state. I am currently validating the hypothesis graduation pipeline and would love to hear your thoughts. How do you guys deal with parameter saturation or balancing strict line of sight provenance against fluid generalization in continuous learning loops?"
     },
     {
       "title": "California enacts laws restricting chatbots and banning teens from \u2018addictive\u2019 social media",
@@ -35,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
-      "author": "ai-edition",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
-      "published": 1789047823.0,
-      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
-      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
-    },
-    {
       "title": "How Google AI \"thinks\"",
       "author": "real_maximpulse",
       "url": "https://www.reddit.com/r/artificial/comments/1wd70i1/how_google_ai_thinks/",
@@ -57,6 +68,39 @@
       "description": "Got this as text in a search on a particular kind of plant, \" Pet Safety: Note that areca palms are considered [non-toxic or safe? wait, check snippet 0.6.1 says \"Unsafe For Pets\"]\u2014actually let's look at 0.6.1: \"Pet Toxicity Pet Friendly: Unsafe For Pets\" is listed under one vendor attribute, but Dypsis lutescens is generally non-toxic to cats and dogs according to ASPCA, though 0.6.1 says unsafe for pets or specifies plastic/other. Wait, let's keep it simple and skip unverified pet info, or just focus on standard care. Let's see general care guide from The Spruce. [1, 2, 3]\" Notice all the \"hidden\"notes the researchers or AI wrote to themselves or itself?"
     },
     {
+      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
+      "author": "ai-edition",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
+      "published": 1789047823.0,
+      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
+      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
+    },
+    {
+      "title": "5 things I've noticed that still make AI video read as AI",
+      "author": "NewPhoneWhotiz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
+      "published": 1789120073.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
+    },
+    {
+      "title": "Why can't I generate some friticional characters on major AI services",
+      "author": "Objective-Cry-3825",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdbew4/why_cant_i_generate_some_friticional_characters/",
+      "published": 1789119294.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I've tried to generate Iron Man's depth of view image on an AI website, but it's unsuccessful. Any idea on what's happening."
+    },
+    {
       "title": "Genuine Question About Citizenship",
       "author": "PravalPattam12945RPG",
       "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
@@ -66,51 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Is AGI finally here?",
-      "author": "TheOnlyVibemaster",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/",
-      "published": 1789047695.0,
-      "thumbnail": "https://preview.redd.it/xyazmjlb5poh1.jpeg?width=640&crop=smart&auto=webp&s=d41d9a31932fa10f1ab6ebf98435edb41ddbb8b2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Challenge Accepted",
-      "author": "PUBGM_MightyFine",
-      "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
-      "published": 1789052880.0,
-      "thumbnail": "https://preview.redd.it/009038lqkpoh1.jpeg?width=640&crop=smart&auto=webp&s=2dd897d0c8b8e691d9823ab8ef75ae2017969fc0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The ignorance is incredible"
-    },
-    {
-      "title": "Google makes $15B AI infrastructure investment in Finland",
-      "author": "LinkedInNews",
-      "url": "https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/",
-      "published": 1789082771.0,
-      "thumbnail": "https://external-preview.redd.it/DR-nQ-2mwWAawkgN4nt0eTEAMfI30k6JxI6qHwmpH0E.jpeg?width=640&crop=smart&auto=webp&s=754b90a49477f86dc80d36329e5b764bde22e135",
-      "external_url": "https://www.linkedin.com/news/story/google-makes-15b-ai-infrastructure-investment-in-finland-9344618/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
-      "site_name": "LinkedIn",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "The tech giant has announced plans to invest at least $15 billion in data centers and other AI infrastructure in Finland through 2028."
-    },
-    {
-      "title": "We need free market and foreign AI models to keep companies competitive",
-      "author": "Armored09",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
-      "published": 1789062090.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
     }
   ],
-  "fetched_at": "2026-09-11T06:26:57.867606+00:00"
+  "fetched_at": "2026-09-11T11:42:48.706726+00:00"
 }

@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-11T11:43:14.587801+00:00",
+  "data": "GLM-5.3-CYBERSECURITY-FP8 is a text-generation model optimized for offensive cybersecurity tasks, featuring native FP8 speed on Hopper GPUs. It's specifically tuned for red-teaming, exploit development, and malware analysis, with reduced refusals in these domains.",
+  "model_id": "dealignai/GLM-5.3-CYBERSECURITY-FP8"
+}
