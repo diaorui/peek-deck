@@ -15,64 +15,44 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
-      "source": "apnews.com",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
-      "pub_date": 1789099140.0,
-      "article_url": "https://apnews.com/article/anthropic-ai-threat-bioweapon-russia-00266dca90e4f8853f669648998d3bda",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "headline": "Opinion | The A.I. Threat Is Real. We Need to Act Now.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "pub_date": 1789059606.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
+      "pub_date": 1789117349.0,
+      "article_url": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic blocks AI use linked to possible bioweapons research",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXy1yMVdZX3R0LUJmOThkaFZBM1hDMldZY2VxTEhmSXh5Q2FfS3NSYmZWNlg5bnZYeEcwZklhcUtWcTBORkE1enBnV1ZJRzlaeW1FUF9zZko2aXpMSFkwQXRMVERnc0p2RzhPNFVEb1RmcV9QbnVyMEFtSVRNckxaaWJtYW1EQ1NNV1Z4dnhHWnhKY1U0anVfZmtn?oc=5",
-      "pub_date": 1789104780.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/anthropic-blocks-ai-linked-possible-053330886.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/075d1c444dcad9414cfef779d608f574841f4d59e0e92e0aeb02c3c0fe98d1c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F39b595fd1853f5e4662452a1dc930abb.jpg",
-      "description": "AI company Anthropic said on Thursday it had blocked several attempts in recent months by researchers to use versions of its Claude software in connection with the possible development of biological w..."
+      "headline": "Why fears of AI self-improvement are causing \u2018existential\u2019 concerns at Anthropic and OpenAI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXdFTmVGVWVBRlRkN0ktd3ZJTXBKTE1Da1RnTXB2bmpMTDhHeHR3Wjk1R1Z4el9ZOWxTVVYxTkNzTVk4dlBtTHpoZWNzUHkxZDVnSnZEMkNreERKZW9jekh5M1NhZU9oVGZPODRYMkhBQXpISVF2T1hBV1hfa1N0cjJBSdIBiAFBVV95cUxPR3VZZDNYM2x6VTVzeHM0aG16RmdBZ1JFQ00tc25OOFhjSTFHVmxoclVGanRob1Awb2ZzSXcxQ1o2cW9MS1BtUW45U2xhNG1DVEZUMlVGQjR1STZ0TFd6eDJoQ19fblVYZnRjVnNidHNkeF9Ka2xJbVNrWlJsN2ZIVUVUZ05NTURn?oc=5",
+      "pub_date": 1789124401.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
+      "description": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control."
     },
     {
-      "headline": "Anthropic claims Claude AI used for missile projects, global espionage",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3RoSWgyVENhaXVDdFY0bkU1eDN3T2wwQnRJNXkwMk9RYld5ZVJSS0FPcGhtVXdIb3AyMnJ6c2xHZkNhMFZ1Q1BINDl2NVVIejM1NjFkMnZveExXWnh6Y2JUbXctYUxRX0VTaVFBamJhNjFwZ1BPbkh3a3Z0anRmckpiSlJWNWg1U0I3c1NHNjBma0Z1TlB4WTg5anJ3ZjVyOGF6cnVubm00d0s1LXdJ0gG0AUFVX3lxTE5MRVpJa1BQVnU5TlRCZUstMDNNM0hWZFZPdEd2dFlXNTVqeGNZYmY5VHR4aGpvU3lQeEs2ZE5xekJHNnE3Ni1iT21HU3hEV0tNQ3I1VV95dDhublJndVZUVmQyTU0xUndYWVpzWTdlckp6bnJSYUY0blFibS0wYlFzZUxvMGhWeG5JZFJmVnpYaUt3Ym02bjlGVGRXYm1hcFpOVFdHaGVlbTBocG0wSkk0VlVtSA?oc=5",
-      "pub_date": 1789102334.0,
-      "article_url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa37d4d-1789099341.jpg?resize=1920%2C1440",
-      "description": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges."
-    },
-    {
-      "headline": "Police launch AI Bobbi chatbot to cut down on non-emergency calls",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QakEtblBZSk5IQjRBWVE5Q0Y3VElVYkVpa1N6SzIwNlF6aVdDa043X2RMVkpzRlQ1QWswajRNX09NR3ZscmNFdHgyRGV1U2RJcldTdm1iZmpTQQ?oc=5",
-      "pub_date": 1789105165.0,
-      "article_url": "https://www.bbc.com/news/articles/c3eq74zwk53o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98c2/live/ad1e1b70-ad26-11f1-980e-4fc6f1211def.png",
-      "description": "Merseyside Police are the first police force in the North West to roll-out an AI-powered chatbot."
-    },
-    {
-      "headline": "How Maersk Is Using AI To Survive The New Era Of Tariff Chaos",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXJiS2xNWmpYdTZGLUV6ZFpFdFFLMHpBNFpXNTNPNWRRb2NTSVBqVEkzUmNvUXl3SDFaeGtyUll1VlZUUlU1QVQ2QXJvYVR3S0Z6VFhia2NuMGVhRURGbDJjSmFFSUphY0pvNG1zNWpmUE5PV3UxMU5zcWdxTFFUeUtXTjRhaEZjc0VJLWlLR0o3TkhvdUhQeWFWaEduOFB0NzVvY1JzRzRkZERiajJFVEsyX3M?oc=5",
-      "pub_date": 1789103728.0,
-      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/09/11/how-maersk-is-using-ai-to-survive-the-new-era-of-tariff-chaos/",
+      "headline": "AI debt is surging. A credit ratings agency has concerns",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMjdNenloaURBcFhTNVJERmJGdE9TTG1LS1pNUkljMk5FRjcydUNXNUpNbFZvbzZkU2ZSUGlRMFFYYkRjeUVEdFJfVE1UQmY2SmFaczRfTHlybjRmbzUwYUp1cHo4R3c?oc=5",
+      "pub_date": 1789125300.0,
+      "article_url": "https://www.axios.com/2026/09/11/ai-debt-hyperscalers-sp",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Remembering 9/11 and more AI researchers warn of safety risks: Morning Rundown",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU21qY0gxM2JpV19IQTZwa3NqVDI3V2JPelNFTDdGRjB3WE9XOEpHbXV2dlJJekNJTkpQMEVfdEVzcW1JZ0lNaURBVW5tUUNqOEJ6ZnY5ZnZfZXpQY3BkYnU4aVVTRXRHR1BrcnRkTmN4Yl8zeE1WQzFNTjJVc2NVS3dHZzBFTGdzRHVYekdVcDdVTUhub0xpQTNZODlQbTVQbDVmRG80b3dsWlJlWno3WVl3?oc=5",
+      "pub_date": 1789124514.0,
+      "article_url": "https://www.nbcnews.com/news/us-news/remembering-911-ai-researchers-warn-safety-risks-morning-rundown-rcna597175",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-9-11-vl-1124a-f75b59.jpg",
+      "description": "Plus, why Trump\u2019s $5,000 checks could face obstacles and diesel hits a record high."
     },
     {
       "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
@@ -85,26 +65,46 @@
       "description": null
     },
     {
-      "headline": "The Gemini app is now available for Windows",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5",
-      "pub_date": 1789056446.0,
-      "article_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png",
-      "description": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications."
+      "headline": "More Anthropic researchers warn of AI\u2019s perils but Musk dismisses \u2018psyop\u2019",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+      "pub_date": 1789096500.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "image": "https://i.guim.co.uk/img/media/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/master/2937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62360734033791f995b12f58a811b555",
+      "description": "Insiders at the firm fear tech\u2019s advancement could cause human extinction, while others are calling their declarations of concern a \u2018setup\u2019"
     },
     {
-      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
-      "pub_date": 1789087380.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+      "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5",
+      "pub_date": 1789124304.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
+      "description": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards."
+    },
+    {
+      "headline": "Anthropic says it blocked potential AI bioweapon misuse",
+      "source": "abcnews.com",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHNiU2w4UlN0ZmswWlFZZHBCTFpzZW02U3RNQ29wVUJKQ2NsM2xjV1d4U0dtYjVhWUpmM1N3dm5HYkg3a1ZaMWlYUVdSMFN1SjlfOEt1bVZGNWdMLXFNcGpIZnhjT1FqNVZHdWR0QU40YWs5NlFzY01aekNoaTBja2lfUjRlODJ0c29ObjU2b2c2OHc0OTZQTzFZNNIBoAFBVV95cUxNdFdUcWN0blhrMU85WE55cGo2aldZRTIwT1lxZlA1a2tSS3lUNnJPTFlwRktnZlR0alhrNjlCX1J4T21CMlUwZEItRGhuVTZOajNpNHRoczNsek5nS2RuSTQ4MFFzZUFHRl9Ja01UVUg2VTlUVVozWFA3TVExSWp3d0daZm5KNWY1OHJWNTZEdHZ4ajlYdVF2aFJjVFRTcHZn?oc=5",
+      "pub_date": 1789096467.0,
+      "article_url": "https://abcnews.com/GMA/News/anthropic-blocked-potential-ai-bioweapon-misuse/story?id=136351654",
+      "image": "https://i.abcnewsfe.com/a/6adb6243-fb82-448a-9655-149edbd68943/Anthropic-gty-sn-260910_1789083503772_hpMain_16x9.jpg?w=1600",
+      "description": "The company said users may have used Claude for biological research that could pose risks."
+    },
+    {
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+      "pub_date": 1789059606.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T06:27:22.095420+00:00"
+  "fetched_at": "2026-09-11T11:43:12.489667+00:00"
 }
