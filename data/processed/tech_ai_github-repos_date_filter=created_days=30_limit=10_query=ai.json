@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4716,
+      "stars": 4726,
       "stars_display": "4.7k",
-      "forks": 587,
-      "forks_display": "587",
+      "forks": 589,
+      "forks_display": "589",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-11T21:50:48Z"
+      "updated_at": "2026-09-11T22:12:01Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -68,7 +68,7 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 3433,
+      "stars": 3434,
       "stars_display": "3.4k",
       "forks": 223,
       "forks_display": "223",
@@ -106,10 +106,10 @@
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
       "url": "https://github.com/google/artemis",
       "preview_image": "https://opengraph.githubassets.com/63893f63855826da66a27c278c392062235439542cbf101b9927ee7b7f639048/google/artemis",
-      "stars": 2385,
+      "stars": 2445,
       "stars_display": "2.4k",
-      "forks": 216,
-      "forks_display": "216",
+      "forks": 223,
+      "forks_display": "223",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -118,7 +118,7 @@
         "test-automation",
         "testing"
       ],
-      "updated_at": "2026-09-11T08:48:56Z"
+      "updated_at": "2026-09-11T23:20:21Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
@@ -128,7 +128,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2350,
+      "stars": 2351,
       "stars_display": "2.4k",
       "forks": 91,
       "forks_display": "91",
@@ -166,7 +166,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1791,
+      "stars": 1792,
       "stars_display": "1.8k",
       "forks": 181,
       "forks_display": "181",
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2026-08-12",
   "days": 30,
   "limit": 10,
-  "total_count": 461133,
-  "fetched_at": "2026-09-11T21:50:50.867117+00:00"
+  "total_count": 461762,
+  "fetched_at": "2026-09-11T23:54:27.253822+00:00"
 }

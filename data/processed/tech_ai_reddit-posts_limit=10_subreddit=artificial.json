@@ -24,6 +24,17 @@
       "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
     },
     {
+      "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
+      "author": "GenericNameRandomNum",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
+      "published": 1789148974.0,
+      "thumbnail": "https://external-preview.redd.it/7pyOn-8VnQHflik0ZnqG2CUu0E_ve-R66DJok3nIQWM.jpeg?width=640&crop=smart&auto=webp&s=de4f001d1b97d4739956544c0075805d62b5d4f1",
+      "external_url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
+    },
+    {
       "title": "Polish developer builds app that detects nearby Meta smart glasses",
       "author": "Low-Honeydew6483",
       "url": "https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/",
@@ -33,17 +44,6 @@
       "site_name": "tvpworld.com",
       "favicon": "https://s.tvp.pl/files/portale-v4/tvp-pl/portal/world.tvp.pl/assets/images/favicons/apple-touch-icon.png?v=0",
       "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
-    },
-    {
-      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
-      "author": "absolut_st",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
-      "published": 1789151096.0,
-      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
@@ -57,15 +57,15 @@
       "description": null
     },
     {
-      "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
-      "author": "GenericNameRandomNum",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
-      "published": 1789148974.0,
-      "thumbnail": "https://external-preview.redd.it/7pyOn-8VnQHflik0ZnqG2CUu0E_ve-R66DJok3nIQWM.jpeg?width=640&crop=smart&auto=webp&s=de4f001d1b97d4739956544c0075805d62b5d4f1",
-      "external_url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
+      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+      "author": "absolut_st",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+      "published": 1789151096.0,
+      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Mathematicians confront the AI apocalypse",
@@ -77,6 +77,17 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
+    },
+    {
+      "title": "What if AI could keep working inside the experience it created.. and then you entered that creation as a character.. without re-running any code?",
+      "author": "Beneficial-Cow-7408",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdtx3c/what_if_ai_could_keep_working_inside_the/",
+      "published": 1789163400.0,
+      "thumbnail": "https://external-preview.redd.it/Nnd6eGdodGZueW9oMZO0tC3DGrKDqmy0mw-60VwGEcarOmaPoNf0T04lxJoA.png?width=640&crop=smart&auto=webp&s=889497adb754b4683c689af724c9e2ab16076483",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most AI creation tools follow a generate preview regenerate loop. I wanted something more continuous. I built AskSary LiveLoop, where an AI can create an interactive experience, observe it while it runs, apply new requests without wiping its state, and repair failures inside the same session. In the demo, it modifies persistent worlds, 3D designs, and playable scenes while rendering continues. Instructions can also be queued, so the user can act more like a creative director than someone waiting for each prompt to finish. These are just examples of what you can do with it. You can take an idea from a sketch to fully built website without ever losing vision. You can create a world that starts off as observatory concept to then entering the world your self and navigate as one of the characters. This all happens live where you can queue your ideas up and watch them all come to life with the ability to download the current state at any given moment as a complete self contained file that require no dependencies . With persistent memory that never loses context you can log out the system and return to it on another machine and pick up exactly where you left off at the exact state you left it. I\u2019m interested in whether people see this as an agent runtime, a creative tool, or something else entirely. The system is live and ready to try but unless mod's approve i didn't want to break any rules here with the link. I wanted to gather feedback on what i've built and whether its something your interested in. Any questions welcomed"
     },
     {
       "title": "Alibaba Cloud and Cambricon just took Platinum seats on the PyTorch Foundation board",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I posted 11 quotes, with sources, from top scientists They were all predicting doom. You labeled it \u201cGOSSIP\u201d YOU GUYS ARE PART OF THE PROBLEM"
-    },
-    {
-      "title": "Comparing Continued Pretraining to RAG (accuracy and performance)",
-      "author": "funJS",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdsbb0/comparing_continued_pretraining_to_rag_accuracy/",
-      "published": 1789159703.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Mostly as a fun experiment I wanted to do a quick comparison of performance and accuracy between a CPT trained QWEN 3.5 4B model and a RAG implementation against the base model. The point of this exercise is mostly to measure the performance benefit of internalizing the knowledge vs doing reasoning on-the-fly. Sharing my findings here in case anyone is interested: https://www.teachmecoolstuff.com/viewarticle/comparing-rag-and-continued-pretraining-of-llms"
     }
   ],
-  "fetched_at": "2026-09-11T21:50:50.843964+00:00"
+  "fetched_at": "2026-09-11T23:54:27.101685+00:00"
 }
