@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-11T16:00:13.561405+00:00'
+updated: '2026-09-11T19:07:33.049476+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 11, 2026 at 16:00 UTC  
+**Last Updated:** September 11, 2026 at 19:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[freenove big hexapod ROS2 implementation: gait in simulation](https://www.reddit.com/r/robotics/comments/1w91kgb/freenove_big_hexapod_ros2_implementation_gait_in/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -86,7 +86,7 @@ I wanted to share this project i've been working on for a few months now. It's a
 
 This has been my project over the summer. Finally got it to walk after many prototypes 😁😁😁. Controls are a bit messy, but I'm still working on it!
 
-5d ago
+6d ago
 
 ---
 
@@ -110,17 +110,39 @@ I want to build the arctos for experimenting with simple automation. Is the arct
 
 ## Google News: "robotics"
 
+**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
+
+Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
+
+CNBC • 13h ago
+
+---
+
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
 Bloomberg.com • 1d ago
 
 ---
 
-**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
+**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
 
-Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
+Gizmodo • 56m ago
 
-TechCrunch • 1d ago
+---
+
+**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+
+New tactile datasets could solve a longstanding challenge in robotics
+
+IEEE Spectrum • 2d ago
+
+---
+
+**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
+
+Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
+
+NVIDIA Blog • 1d ago
 
 ---
 
@@ -134,23 +156,15 @@ WSJ • 2d ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 29m ago
+IEEE Spectrum • 3h ago
 
 ---
 
-**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
+**[Laser weapons, space dogfights, and humanoid robots: The future of the battlefield](https://seekingalpha.com/news/4641536-laser-weapons-space-dogfights-and-humanoid-robots-the-future-of-the-battlefield)**
 
-Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
+Laser weapons, space warfare, and humanoid robots are reshaping defense.
 
-CNBC • 9h ago
-
----
-
-**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
-
-Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
-
-NVIDIA Blog • 23h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -162,25 +176,11 @@ Modern Healthcare • 1d ago
 
 ---
 
-**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
-Breaking Defense • 21h ago
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
----
-
-**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
-
-MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
-
-The Japan Times • 13h ago
-
----
-
-**[American company Swarmer buys Ukrainian ground robot maker for US$224m – WSJ](https://www.pravda.com.ua/eng/news/2026/09/10/8052757/)**
-
-US-based defence tech company Swarmer is acquiring Ukrainian ground robotics maker Ratel Robotics in a cash-and-stock deal worth up to US$224 million.
-
-Українська правда • 1d ago
+TechCrunch • 1d ago
 
 ---
 
@@ -188,13 +188,33 @@ US-based defence tech company Swarmer is acquiring Ukrainian ground robotics mak
 
 ## YouTube Videos: "robotics"
 
+**[I Found Tesla’s SECRET Robot Supplier… And Wall Street Hasn’t Caught On Yet](https://www.youtube.com/watch?v=87sKQBQCxDk)**
+
+Tesla has an Optimus problem, and the biggest opportunity in humanoid robotics may not be Tesla stock at all. Trade LIVE with ...
+
+📺 Ross Givens
+
+👁️ 29K • 👍 856 • 💬 150 • ⏱️ 14:47 • 1d ago
+
+---
+
 **[THIS IS TOO REAL! China’s New Robots Look Just Like Humans](https://www.youtube.com/watch?v=Jkwiw2Y4X5o)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting stronger, faster, and ...
 
 📺 PRO ROBOTS
 
-👁️ 32K • 👍 454 • 💬 48 • ⏱️ 15:17 • 6d ago
+👁️ 32K • 👍 455 • 💬 48 • ⏱️ 15:17 • 6d ago
+
+---
+
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+
+📺 America's Got Talent
+
+👁️ 587K • 👍 7K • 💬 1K • ⏱️ 5:02 • 2d ago
 
 ---
 
@@ -214,25 +234,7 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 📺 Milk Road Stocks
 
-👁️ 14K • 👍 223 • 💬 24 • ⏱️ 48:57 • 4d ago
-
----
-
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
-
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
-
-📺 America's Got Talent
-
-👁️ 543K • 👍 7K • 💬 1K • ⏱️ 5:02 • 2d ago
-
----
-
-**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
-
-📺 Opac24MLB
-
-👁️ 10K • 👍 193 • 💬 2 • ⏱️ 0:16 • 1d ago
+👁️ 14K • 👍 224 • 💬 24 • ⏱️ 48:57 • 4d ago
 
 ---
 
@@ -242,37 +244,7 @@ After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot
 
 📺 GrislyDeshaun
 
-👁️ 705K • 👍 7K • 💬 498 • ⏱️ 26:59 • 4d ago
-
----
-
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
-
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
-
-📺 XPENG
-
-👁️ 247K • 👍 3K • 💬 276 • ⏱️ 5:52 • 2d ago
-
----
-
-**[Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat](https://www.youtube.com/watch?v=qkIJELDgULA)**
-
-UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic ...
-
-📺 Unitree Robotics
-
-👁️ 276K • 👍 679 • 💬 134 • ⏱️ 0:39 • 4d ago
-
----
-
-**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
-
-Unitree R1 humanoid Robot.
-
-📺 İncelemedeyim
-
-👁️ 157K • 👍 2K • 💬 95 • ⏱️ 0:59 • 4d ago
+👁️ 712K • 👍 7K • 💬 499 • ⏱️ 26:59 • 4d ago
 
 ---
 
@@ -282,7 +254,35 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 
 📺 LIGHTS ARE OFF
 
-👁️ 5.7M • 👍 95K • 💬 12K • ⏱️ 25:44 • 5d ago
+👁️ 5.8M • 👍 96K • 💬 12K • ⏱️ 25:44 • 5d ago
+
+---
+
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+
+📺 XPENG
+
+👁️ 261K • 👍 3K • 💬 284 • ⏱️ 5:52 • 2d ago
+
+---
+
+**[#robot  #robotics  #robothumanoid](https://www.youtube.com/watch?v=YtHvRj2w4dM)**
+
+📺 Opac24MLB
+
+👁️ 18K • 👍 258 • 💬 2 • ⏱️ 0:16 • 2d ago
+
+---
+
+**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
+
+Unitree R1 humanoid Robot.
+
+📺 İncelemedeyim
+
+👁️ 158K • 👍 2K • 💬 95 • ⏱️ 0:59 • 5d ago
 
 ---
 

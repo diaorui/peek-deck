@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-11T16:00:13.558241+00:00'
+updated: '2026-09-11T19:07:33.046210+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 16:00 UTC  
+**Last Updated:** September 11, 2026 at 19:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,614.81
+### $2,533.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.5%  
-**7d:** +3.1%  
-**30d:** +35.5%  
-**90d:** +48.0%  
-**1y:** -45.6%  
+**24h:** +3.3%  
+**7d:** +2.6%  
+**30d:** +34.9%  
+**90d:** +47.3%  
+**1y:** -45.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $312.11B
+**Market Cap:** $309.77B
 Rank #2
 
 **Circulating Supply:** 122,038,476 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.3%
+-48.7%
 
 **All-Time Low:** $0.43
-+591046.5%
++586251.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won’t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?
 
-23h ago
+1d ago
 
 ---
 
@@ -166,31 +166,35 @@ The Block • 1d ago
 
 ---
 
-**[Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%](https://finance.yahoo.com/markets/crypto/articles/bitmine-surges-8-ethereum-strength-144117927.html)**
+**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-made-largest-ethereum-113000644.html)**
 
-Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
+Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
 
-finance.yahoo.com • 1h ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
-
-MarketWatch • 2h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[$Ethereum(ETH.CC)$ Hits $2,600, Highest Since](https://www.moomoo.com/news/post/76153127/ethereum-hits-2600-highest-since-january-2026-eth-related-stocks)**
+**[Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html)**
 
-Moomoo • 1h ago
+Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Fall as Hot PPI Raises Rate Hike Bets: Analyst Says BTC Not the 'Biggest Runner,' Expects This Coin to Break Out](https://www.tradingview.com/news/benzinga:67992894b094b:0-bitcoin-ethereum-xrp-dogecoin-fall-as-hot-ppi-raises-rate-hike-bets-analyst-says-btc-not-the-biggest-runner-expects-this-coin-to-break-out/)**
+**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/)**
 
-Leading cryptocurrencies dropped further on Thursday after hotter-than-expected producer inflation trimmed investors’ risk appetite.Crypto Slide ContinuesBitcoin dipped below $77,000 as selling pressure accelerated. Ethereum meandered in the $2,400 region, with volume spiking 10% over the last 24 h…
+Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum’s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b…
 
-TradingView • 14h ago
+TradingView • 4h ago
+
+---
+
+**[Current price of Ethereum for September 11, 2026](https://fortune.com/article/price-of-ethereum-09-11-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
 
 ---
 
@@ -200,11 +204,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/)**
+**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
 
-Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
+marketwatch.com • 5h ago
 
-The Motley Fool • 3h ago
+---
+
+**[Ethereum: Hits R2 Resistance on Opportunity Channel](https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel)**
+
+Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
+
+blockchain.news • 3h ago
 
 ---
 
@@ -212,15 +222,7 @@ The Motley Fool • 3h ago
 
 MONACO, Sept.  10, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale announced over $2.64 million raised, ...
 
-markets.businessinsider.com • 11h ago
-
----
-
-**[Ethereum: Vitalik Buterin Advances Privacy Cost Cuts | Flash News Detail](https://blockchain.news/flashnews/ethereum-vitalik-buterin-advances-privacy-cost-cuts)**
-
-Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross.
-
-blockchain.news • 1d ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -234,7 +236,17 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 1K • 👍 194 • 💬 147 • ⏱️ 17:30 • 1h ago
+👁️ 3K • 👍 427 • 💬 219 • ⏱️ 17:30 • 4h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 3K • 👍 323 • 💬 27 • ⏱️ 1:04:53 • 3h ago
 
 ---
 
@@ -248,13 +260,13 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 ---
 
-**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
+**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
 
-ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
 
-📺 More Crypto Online
+📺 The Modern Investor
 
-👁️ 8K • 👍 240 • 💬 10 • ⏱️ 12:26 • 15h ago
+👁️ 9K • 👍 773 • 💬 288 • ⏱️ 31:34 • 10h ago
 
 ---
 
@@ -274,17 +286,37 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 222 • 👍 42 • ⏱️ 5:24 • 1h ago
+👁️ 353 • 👍 57 • ⏱️ 5:24 • 4h ago
 
 ---
 
-**[Cathie Wood :&quot;This Is the Exact Date Ethereum Goes &#39;Completely Parabolic&#39; in 2026&quot; | BTC Update](https://www.youtube.com/watch?v=iWTDgEkrdxI)**
+**[ETHEREUM : 5 ans d&#39;attente pour ce signal EXPLOSIF (analyse)](https://www.youtube.com/watch?v=Yp_w8YFAKak)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+OKX : 8% sur tes dépôts en USDT : https://my.okx.com/fr-fr/campaigns/deposit-bonus-usdt-convert-usdc?channelId=82780213 ...
 
-📺 Crypto Nutshell
+📺 Crypto Le Trone
 
-👁️ 15K • 👍 288 • 💬 25 • ⏱️ 14:25 • 2d ago
+👁️ 3K • 👍 388 • 💬 11 • ⏱️ 12:19 • 5h ago
+
+---
+
+**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
+
+ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
+
+📺 D.I.Y Investing
+
+👍 22 • 💬 7 • ⏱️ 15:04 • 30m ago
+
+---
+
+**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
+
+ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+
+📺 More Crypto Online
+
+👁️ 10K • 👍 249 • 💬 11 • ⏱️ 12:26 • 18h ago
 
 ---
 
@@ -294,37 +326,7 @@ eth is pumping as predicted! #eth #ethereum #crypto.
 
 📺 Data Zero
 
-👁️ 132 • 👍 1 • ⏱️ 0:16 • 1h ago
-
----
-
-**[ETHEREUM LOOKS STRONG TODAY!🔥 (ETH Update)](https://www.youtube.com/watch?v=OENsZ1GLxPY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 225 • 👍 17 • 💬 2 • ⏱️ 5:18 • 6h ago
-
----
-
-**[Why is a crypto billionaire buying Ethereum instead of Bitcoin?](https://www.youtube.com/watch?v=qDWTwtbj0Qk)**
-
-BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term gains he's backing ETH. It's the only major coin ...
-
-📺 The Bureau Podcast
-
-👁️ 3K • 👍 51 • 💬 2 • ⏱️ 0:56 • 2d ago
-
----
-
-**[Live Crypto and Gold Trading | Live Trading BTC ETH | XAU-USD Live Trading](https://www.youtube.com/watch?v=oyH2iB_s0Yg)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 2K • 👍 353 • 1h ago
+👁️ 136 • 👍 2 • ⏱️ 0:16 • 4h ago
 
 ---
 

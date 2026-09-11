@@ -35,37 +35,26 @@
       "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
     },
     {
-      "title": "5 things I've noticed that still make AI video read as AI",
-      "author": "NewPhoneWhotiz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
-      "published": 1789120073.0,
+      "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
+      "author": "GenericNameRandomNum",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
+      "published": 1789148974.0,
+      "thumbnail": "https://external-preview.redd.it/7pyOn-8VnQHflik0ZnqG2CUu0E_ve-R66DJok3nIQWM.jpeg?width=640&crop=smart&auto=webp&s=de4f001d1b97d4739956544c0075805d62b5d4f1",
+      "external_url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
+    },
+    {
+      "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
+      "published": 1789152375.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
-    },
-    {
-      "title": "Built an AI memory system that actually refuses to hallucinate",
-      "author": "Unikum_01",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/",
-      "published": 1789108834.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database. The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses something plausible to please you. That does not work if you need the system for high risk environments like medical decision support, where total auditability and clear provenance chains are mandatory. My System works on a completely different rule: no black box, no unearned answers, no word filters. Instead of using dense vectors, it stores context hypotheses in a shadow layer while reading. It never erases errors or contradicted data because mistakes are valuable evidence. Before a hypothesis becomes an accepted fact, it has to survive multiple slow wave sleep cycles. This is an active consolidation phase where the system uses stochastic replay to test if a hypothesis remains stable over time. If there is no verified anchor in the database for your query, the system simply reports the gap instead of guessing. I am using terms like sleep and neuromodulation on purpose because the code actually mimics those exact functional mechanics at an algorithmic level. For instance, dynamic floating point parameters continuously tune excitation, inhibition, and sleep pressure to keep the system balanced without needing gradient descent. In recent production tests over a 664 MB Wikipedia corpus, it processed around 155k chunks and tracked over 1.4 million hypotheses on a single CPU thread without breaking down or corrupting its state. I am currently validating the hypothesis graduation pipeline and would love to hear your thoughts. How do you guys deal with parameter saturation or balancing strict line of sight provenance against fluid generalization in continuous learning loops?"
-    },
-    {
-      "title": "California enacts laws restricting chatbots and banning teens from \u2018addictive\u2019 social media",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/",
-      "published": 1789091662.0,
-      "thumbnail": "https://external-preview.redd.it/MDkt6L7XryA3XDUL90OaWBWcVXiEopAetLJROzqsVwk.jpeg?width=640&crop=smart&auto=webp&s=e4089fac11ed6ac11b881c34cb5d3b0864b5c761",
-      "external_url": "https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/",
-      "site_name": "calmatters.org",
-      "favicon": null,
-      "description": null
+      "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
     },
     {
       "title": "Mathematicians confront the AI apocalypse",
@@ -79,38 +68,49 @@
       "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
     },
     {
-      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
-      "author": "ai-edition",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
-      "published": 1789047823.0,
-      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
-      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
+      "title": "5 things I've noticed that still make AI video read as AI",
+      "author": "NewPhoneWhotiz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
+      "published": 1789120073.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
     },
     {
-      "title": "AI in Anti-Money Laundering: Use Cases, Benefits & How It Works",
-      "author": "Sumsub_Insights",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdf24n/ai_in_antimoney_laundering_use_cases_benefits_how/",
-      "published": 1789130151.0,
-      "thumbnail": "https://external-preview.redd.it/oTqe9LM3rjYnyKKfVZCA4lCYYX26ZBecDjEPK6JDjII.png?width=640&crop=smart&auto=webp&s=501ddae115d85310b4b838df8a8022e5e918a510",
-      "external_url": "https://sumsub.com/blog/ai-in-anti-money-laundering-and-compliance/?utm_source=reddit&utm_medium=social",
-      "site_name": "Sumsub",
-      "favicon": "https://sumsub.com/apple-touch-icon.png",
-      "description": "Discover how AI helps institutions adapt to evolving AML compliance demands and financial crime risks in 2026."
+      "title": "used chatgpt and claude side by side for two weeks for writing. here's what actually happened",
+      "author": "aiprotivity_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/",
+      "published": 1789151376.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "not a \"which is best\" post because that question is boring. just what i noticed. claude sounds more like a person. when i ask for feedback it actually disagrees with me instead of \"great idea, here's how to make it even better.\" chatgpt is faster to just get stuff out and better when i'm too tired to explain what i want. thing nobody says: the difference matters way less than how well you explain what you want. bad prompt, bad output, both of them. i kept both and that's probably the honest answer most people don't want to hear"
     },
     {
-      "title": "Genuine Question About Citizenship",
-      "author": "PravalPattam12945RPG",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
-      "published": 1789029590.0,
-      "thumbnail": "https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f",
+      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+      "author": "absolut_st",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+      "published": 1789151096.0,
+      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Do output compression tools still matter with newer AI models?",
+      "author": "Bartaseth",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/",
+      "published": 1789144784.0,
+      "thumbnail": "https://preview.redd.it/iy0y29og5xoh1.png?width=640&crop=smart&auto=webp&s=1e81b3cb8b6b8b1a70e581ed11cf283e0ef78dbb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We tried to answer this question by validating one of the most popular tool in this area: RTK (Rust Token Killer). We used Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter on Terminal-Bench 2.1 Research and results: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
     }
   ],
-  "fetched_at": "2026-09-11T15:59:37.394163+00:00"
+  "fetched_at": "2026-09-11T19:07:02.083347+00:00"
 }

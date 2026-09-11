@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4696,
+      "stars": 4709,
       "stars_display": "4.7k",
-      "forks": 584,
-      "forks_display": "584",
+      "forks": 585,
+      "forks_display": "585",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-11T15:57:32Z"
+      "updated_at": "2026-09-11T17:13:35Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -68,7 +68,7 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 3427,
+      "stars": 3428,
       "stars_display": "3.4k",
       "forks": 223,
       "forks_display": "223",
@@ -84,8 +84,8 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2550,
-      "stars_display": "2.5k",
+      "stars": 2552,
+      "stars_display": "2.6k",
       "forks": 165,
       "forks_display": "165",
       "language": "Python",
@@ -106,10 +106,10 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2339,
+      "stars": 2348,
       "stars_display": "2.3k",
-      "forks": 90,
-      "forks_display": "90",
+      "forks": 91,
+      "forks_display": "91",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-09T09:54:11Z"
@@ -122,10 +122,10 @@
       "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
       "url": "https://github.com/google/artemis",
       "preview_image": "https://opengraph.githubassets.com/63893f63855826da66a27c278c392062235439542cbf101b9927ee7b7f639048/google/artemis",
-      "stars": 2108,
-      "stars_display": "2.1k",
-      "forks": 190,
-      "forks_display": "190",
+      "stars": 2265,
+      "stars_display": "2.3k",
+      "forks": 202,
+      "forks_display": "202",
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -146,8 +146,8 @@
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
       "stars": 1935,
       "stars_display": "1.9k",
-      "forks": 195,
-      "forks_display": "195",
+      "forks": 194,
+      "forks_display": "194",
       "language": "Zig",
       "topics": [
         "ai-agents",
@@ -166,10 +166,10 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1775,
+      "stars": 1787,
       "stars_display": "1.8k",
-      "forks": 178,
-      "forks_display": "178",
+      "forks": 181,
+      "forks_display": "181",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-25T21:49:59Z"
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2026-08-12",
   "days": 30,
   "limit": 10,
-  "total_count": 457459,
-  "fetched_at": "2026-09-11T15:59:36.120281+00:00"
+  "total_count": 460000,
+  "fetched_at": "2026-09-11T19:07:00.922198+00:00"
 }

@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-09-11T16:00:13.104390+00:00"
+          "dateModified": "2026-09-11T19:07:32.590779+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -728,21 +728,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/', '_blank')">
                     <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/7pyOn-8VnQHflik0ZnqG2CUu0E_ve-R66DJok3nIQWM.jpeg?width=640&crop=smart&auto=webp&s=de4f001d1b97d4739956544c0075805d62b5d4f1" alt="UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/" target="_blank" onclick="event.stopPropagation();">5 things I've noticed that still make AI video read as AI</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/" target="_blank" onclick="event.stopPropagation();">UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?
+                            Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humans
                         </div>
                         
 
@@ -751,88 +753,58 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1789120073.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/" target="_blank" onclick="event.stopPropagation();">Built an AI memory system that actually refuses to hallucinate</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database. The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses something plausible to please you. That does not work if you need the system for high risk environments like medical decision support, where total auditability and clear provenance chains are mandatory. My System works on a completely different rule: no black box, no unearned answers, no word filters. Instead of using dense vectors, it stores context hypotheses in a shadow layer while reading. It never erases errors or contradicted data because mistakes are valuable evidence. Before a hypothesis becomes an accepted fact, it has to survive multiple slow wave sleep cycles. This is an active consolidation phase where the system uses stochastic replay to test if a hypothesis remains stable over time. If there is no verified anchor in the database for your query, the system simply reports the gap instead of guessing. I am using terms like sleep and neuromodulation on purpose because the code actually mimics those exact functional mechanics at an algorithmic level. For instance, dynamic floating point parameters continuously tune excitation, inhibition, and sleep pressure to keep the system balanced without needing gradient descent. In recent production tests over a 664 MB Wikipedia corpus, it processed around 155k chunks and tracked over 1.4 million hypotheses on a single CPU thread without breaking down or corrupting its state. I am currently validating the hypothesis graduation pipeline and would love to hear your thoughts. How do you guys deal with parameter saturation or balancing strict line of sight provenance against fluid generalization in continuous learning loops?
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1789108834.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/MDkt6L7XryA3XDUL90OaWBWcVXiEopAetLJROzqsVwk.jpeg?width=640&crop=smart&auto=webp&s=e4089fac11ed6ac11b881c34cb5d3b0864b5c761" alt="California enacts laws restricting chatbots and banning teens from ‘addictive’ social media" onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/" target="_blank" onclick="event.stopPropagation();">California enacts laws restricting chatbots and banning teens from ‘addictive’ social media</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1789091662.0"></span>
+                                    <span data-timestamp="1789148974.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                            <img src="https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>calmatters.org</span>
+                                        <span>the Guardian</span>
                                     </a>
                                 </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/" target="_blank" onclick="event.stopPropagation();">Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are "gambling with our lives" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: "Jacob is correct here, we really do earnestly believe AI could kill all humans." He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1789152375.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -889,23 +861,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293" alt="Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%." onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/" target="_blank" onclick="event.stopPropagation();">Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/" target="_blank" onclick="event.stopPropagation();">5 things I've noticed that still make AI video read as AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots.
+                            I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?
                         </div>
                         
 
@@ -914,48 +884,31 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1789047823.0"></span>
+                                    <span data-timestamp="1789120073.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.anthropic.com/institute/econ-scenarios" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.anthropic.com/images/icons/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>anthropic.com</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdf24n/ai_in_antimoney_laundering_use_cases_benefits_how/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/oTqe9LM3rjYnyKKfVZCA4lCYYX26ZBecDjEPK6JDjII.png?width=640&crop=smart&auto=webp&s=501ddae115d85310b4b838df8a8022e5e918a510" alt="AI in Anti-Money Laundering: Use Cases, Benefits & How It Works" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wdf24n/ai_in_antimoney_laundering_use_cases_benefits_how/" target="_blank" onclick="event.stopPropagation();">AI in Anti-Money Laundering: Use Cases, Benefits & How It Works</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/" target="_blank" onclick="event.stopPropagation();">used chatgpt and claude side by side for two weeks for writing. here's what actually happened</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Discover how AI helps institutions adapt to evolving AML compliance demands and financial crime risks in 2026.
+                            not a "which is best" post because that question is boring. just what i noticed. claude sounds more like a person. when i ask for feedback it actually disagrees with me instead of "great idea, here's how to make it even better." chatgpt is faster to just get stuff out and better when i'm too tired to explain what i want. thing nobody says: the difference matters way less than how well you explain what you want. bad prompt, bad output, both of them. i kept both and that's probably the honest answer most people don't want to hear
                         </div>
                         
 
@@ -964,42 +917,27 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1789130151.0"></span>
+                                    <span data-timestamp="1789151376.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://sumsub.com/blog/ai-in-anti-money-laundering-and-compliance/?utm_source=reddit&utm_medium=social" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://sumsub.com/apple-touch-icon.png" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
-                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
-                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
-                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
-                                            </svg>
-                                            
-                                        
-                                        <span>Sumsub</span>
-                                    </a>
-                                </div>
                                 
                             </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f" alt="Genuine Question About Citizenship" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2" alt="James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/" target="_blank" onclick="event.stopPropagation();">Genuine Question About Citizenship</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/" target="_blank" onclick="event.stopPropagation();">James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1010,7 +948,42 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1789029590.0"></span>
+                                    <span data-timestamp="1789151096.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/iy0y29og5xoh1.png?width=640&crop=smart&auto=webp&s=1e81b3cb8b6b8b1a70e581ed11cf283e0ef78dbb" alt="Do output compression tools still matter with newer AI models?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/" target="_blank" onclick="event.stopPropagation();">Do output compression tools still matter with newer AI models?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We tried to answer this question by validating one of the most popular tool in this area: RTK (Rust Token Killer). We used Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter on Terminal-Bench 2.1 Research and results: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1789144784.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1043,7 +1016,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:37.394163+00:00">Updated 2026-09-11T15:59:37.394163+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:02.083347+00:00">Updated 2026-09-11T19:07:02.083347+00:00</small>
     </div>
 </div>
 
@@ -1229,14 +1202,51 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1" target="_blank" onclick="event.stopPropagation();">How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate</a>
+                            <a href="https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html" target="_blank" onclick="event.stopPropagation();">A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789129020.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05" target="_blank" onclick="event.stopPropagation();">Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships</a>
                         </div>
 
                         <!-- Rich description (if available) -->
@@ -1258,249 +1268,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1788999900.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/09/11/dollars-doomers-ai-safety-financial-crisis', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" ></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.axios.com/2026/09/11/dollars-doomers-ai-safety-financial-crisis" target="_blank" onclick="event.stopPropagation();">Dollars and doomers in the AI safety debate</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Axios" class="news-favicon">
-                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789137198.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/markets/stocks/article/spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/lo/mysterio/api/7c703b8cbec6d74e0bb19eb57a965a38c8ed577b477eb2ae087303ea4b83141b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F21e7fb9f-6373-4c94-9f05-ff179d3ab0ba');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://finance.yahoo.com/markets/stocks/article/spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html" target="_blank" onclick="event.stopPropagation();">SpaceX signs another AI computing deal, with $100 billion in ARR 'on track,' CFO says</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            SpaceX just inked another big AI compute deal, one that will take the space and rocket company closer to its $100 billion annual recurring revenue (ARR) target this year, a big metric for investors.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="finance.yahoo.com" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">finance.yahoo.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789140573.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.businessreport.com/article/roundup-meta-power-case-ai-weaponization-post-9-11-flying', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s25562.pcdn.co/wp-content/uploads/2026/05/Business-Report-2026-default-image.jpg.optimal.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.businessreport.com/article/roundup-meta-power-case-ai-weaponization-post-9-11-flying" target="_blank" onclick="event.stopPropagation();">Roundup: Meta power case / AI weaponization / Post-9/11 flying</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            More transparency: Entergy Louisiana has agreed to expand access to highly confidential information in its power expansion case tied to Meta’s Richland Parish data center, allowing seven consumer advocates to review protected materials and their experts’ testimony. However, the groups still cannot access Meta records supporting projected jobs, investment and electricity demand. The case involves […]
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Baton Rouge Business Report" class="news-favicon">
-                                    <a href="https://www.businessreport.com" target="_blank" onclick="event.stopPropagation();">Baton Rouge Business Report</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789137328.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NC6SB65TH6PW4GP3P5TQ7WJCFQ.jpg&w=1440');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/" target="_blank" onclick="event.stopPropagation();">Rebels used Anthropic’s AI bot to develop guided weapons, report says</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Militants in Yemen sought to use a coding tool to produce guided rockets and missiles, the firm found, noting it was able to block some but not all the requests.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Washington Post" class="news-favicon">
-                                    <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789141078.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4db6985f-49da-448f-b3c6-105125cf946a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1" target="_blank" onclick="event.stopPropagation();">Houthis used Anthropic AI to try to build ballistic missiles</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Missile test by group apparently failed, but exposes limits of AI safeguards
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Financial Times" class="news-favicon">
-                                    <a href="https://www.ft.com" target="_blank" onclick="event.stopPropagation();">Financial Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789117374.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.latimes.com/business/story/2026-09-11/anthropic-says-yemeni-weapons-cell-used-its-ai-to-try-to-build-missile-guidance-software', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ca-times.brightspotcdn.com/dims4/default/a8c3e71/2147483647/strip/true/crop/7035x3693+0+499/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2Fff%2F743b14ca4f60b1a3b8fca12a573e%2Fcode-with-claude-conference-08203.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.latimes.com/business/story/2026-09-11/anthropic-says-yemeni-weapons-cell-used-its-ai-to-try-to-build-missile-guidance-software" target="_blank" onclick="event.stopPropagation();">Anthropic says Yemeni weapons cell used its AI to try to build missile guidance software</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Anthropic uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model to support the development of missile and rocket systems, highlighting growing concerns over the use of advanced AI in military programs and by non-state actors.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Los Angeles Times" class="news-favicon">
-                                    <a href="https://www.latimes.com" target="_blank" onclick="event.stopPropagation();">Los Angeles Times</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1789138122.0"></span>
+                                    <span data-timestamp="1789134540.0"></span>
                                 </div>
                                 
                             </div>
@@ -1549,21 +1317,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/" target="_blank" onclick="event.stopPropagation();">The Gemini app is now available for Windows</a>
+                            <a href="https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html" target="_blank" onclick="event.stopPropagation();">Anthropic Says It Blocked Possible Efforts to Build Biological Weapons</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1572,9 +1336,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="blog.google" class="news-favicon">
-                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">blog.google</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
                                     
                                 </div>
                                 
@@ -1582,7 +1346,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1789056446.0"></span>
+                                    <span data-timestamp="1789077038.0"></span>
                                 </div>
                                 
                             </div>
@@ -1590,20 +1354,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.anthropic.com/threat-intelligence-report-september-2026', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html" target="_blank" onclick="event.stopPropagation();">Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown</a>
+                            <a href="https://www.anthropic.com/threat-intelligence-report-september-2026" target="_blank" onclick="event.stopPropagation();">Detecting and countering misuse of AI: September 2026</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards.
+                            Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
                         </div>
                         
 
@@ -1613,9 +1377,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.anthropic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Anthropic" class="news-favicon">
+                                    <a href="https://www.anthropic.com" target="_blank" onclick="event.stopPropagation();">Anthropic</a>
                                     
                                 </div>
                                 
@@ -1623,7 +1387,204 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1789124304.0"></span>
+                                    <span data-timestamp="1789060227.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings" target="_blank" onclick="event.stopPropagation();">Scoop: Mike Johnson urged to cancel House recess over AI warnings</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.axios.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Axios" class="news-favicon">
+                                    <a href="https://www.axios.com" target="_blank" onclick="event.stopPropagation();">Axios</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789149799.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a7771deeef804aeb8f6b3cc5fda87c2');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony" target="_blank" onclick="event.stopPropagation();">New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appeal
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="theguardian.com" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">theguardian.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789149840.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff" target="_blank" onclick="event.stopPropagation();">OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789087380.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/26091001-jacobcoxeninterview-hnk-digvid-vrtc-clean-thumbnail.jpg?c=16x9&q=w_800,c_fill');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty" target="_blank" onclick="event.stopPropagation();">Former Anthropic researcher warns AI could ‘kill us all’</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Former AI researcher Jacob Coxon tells CNN’s Anderson Cooper why he quit Anthropic over fears that rapidly advancing AI could become impossible to control.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789018800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.theatlantic.com/thumbor/NfziaGGjw1TZPktK_wKB6VicUS4=/0x43:2000x1085/1200x625/media/img/mt/2026/09/2026_9_10_The_Meta_Settlement_Sets_a_Bad_Precedent_for_AI/original.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/" target="_blank" onclick="event.stopPropagation();">The Original Sin of AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The harms of chatbots are clear enough to do something about them now.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theatlantic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Atlantic" class="news-favicon">
+                                    <a href="https://www.theatlantic.com" target="_blank" onclick="event.stopPropagation();">The Atlantic</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1789120800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1651,7 +1612,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T16:00:07.691074+00:00">Updated 2026-09-11T16:00:07.691074+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:25.343109+00:00">Updated 2026-09-11T19:07:25.343109+00:00</small>
     </div>
 </div>
 
@@ -1855,6 +1816,40 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="hn-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49657850', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="post-thumbnail" ></div>
+
+                    <div class="post-content">
+                        <!-- Post title (fixed 3-line height) -->
+                        <div class="post-title">
+                            <a href="https://news.ycombinator.com/item?id=49657850" target="_blank" onclick="event.stopPropagation();">Ask HN: Can we please limit the AI news flood?</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (points, comments, time) -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-points">▲ 698</span>
+                                </div>
+                                <div class="post-meta-item">
+                                    <span style="color: #9ca3af;">💬 340</span>
+                                </div>
+                            </div>
+                            <div class="post-meta-line">
+                                <div class="post-meta-item">
+                                    <span class="post-age" data-timestamp="2026-09-11T13:11:04Z"></span>
+                                </div>
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49615537', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="post-thumbnail" style="background-image: url('https://scontent-fra3-2.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=0c6MBFoffqcQ7kNvwFSnuWZ&_nc_oc=AdqSGtvzDKTQ65FO2JA3R9ieNGtzrtTGMNW6_fPEgP9mHjj9HD1sQNo-YGCFqDR2xtYFnzSMJ41wdzHmZDp66XiU&_nc_zt=14&_nc_ht=scontent-fra3-2.xx&_nc_gid=VBDSQQmcWhICSC7UbOknRA&_nc_ss=7b289&oh=00_AQIdeeD2NqZDljK64I673pj7KeNGJ4jWnZwP6NOrT7_3Ug&oe=6AA64F93');"></div>
@@ -1879,7 +1874,7 @@
                                     <span class="post-points">▲ 655</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 735</span>
+                                    <span style="color: #9ca3af;">💬 736</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -1898,40 +1893,6 @@
                                         <span>ai.meta.com</span>
                                     </a>
                                 </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49657850', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" ></div>
-
-                    <div class="post-content">
-                        <!-- Post title (fixed 3-line height) -->
-                        <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49657850" target="_blank" onclick="event.stopPropagation();">Ask HN: Can we please limit the AI news flood?</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata (points, comments, time) -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-points">▲ 612</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 295</span>
-                                </div>
-                            </div>
-                            <div class="post-meta-line">
-                                <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-09-11T13:11:04Z"></span>
-                                </div>
-                                <!-- External article source (on same line as time) -->
                                 
                             </div>
                         </div>
@@ -2010,10 +1971,10 @@ One can easily generate any number of open problems in mathematics at will, such
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 488</span>
+                                    <span class="post-points">▲ 489</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 418</span>
+                                    <span style="color: #9ca3af;">💬 419</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2059,10 +2020,10 @@ One can easily generate any number of open problems in mathematics at will, such
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 297</span>
+                                    <span class="post-points">▲ 311</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 231</span>
+                                    <span style="color: #9ca3af;">💬 278</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2205,10 +2166,10 @@ One can easily generate any number of open problems in mathematics at will, such
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 159</span>
+                                    <span class="post-points">▲ 162</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 223</span>
+                                    <span style="color: #9ca3af;">💬 230</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2233,20 +2194,20 @@ One can easily generate any number of open problems in mathematics at will, such
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49614557', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49661506', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d74/live/7d2d02b0-abb8-11f1-a291-b542ee92de7c.jpg');"></div>
+                    <div class="post-thumbnail" style="background-image: url('https://artificialworlds.net/blog/banner.png');"></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49614557" target="_blank" onclick="event.stopPropagation();">Flights cancelled at UK airports due to ATC issue</a>
+                            <a href="https://news.ycombinator.com/item?id=49661506" target="_blank" onclick="event.stopPropagation();">Feeling Sad about AI</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            The air traffic control body has said sorry for the disruption, and that they are working "as hard as possible to clear the backlog".
+                            Coding in Rust and others; making coding videos.
                         </div>
                         
 
@@ -2254,26 +2215,26 @@ One can easily generate any number of open problems in mathematics at will, such
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 126</span>
+                                    <span class="post-points">▲ 148</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 124</span>
+                                    <span style="color: #9ca3af;">💬 217</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-09-08T18:26:27Z"></span>
+                                    <span class="post-age" data-timestamp="2026-09-11T16:50:51Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://www.bbc.com/news/live/c6x2z0yy32ejt" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png" alt="" class="post-favicon">
+                                            <img src="https://artificialworlds.net/blog/favicon.png" alt="" class="post-favicon">
                                             
                                         
-                                        <span>BBC News</span>
+                                        <span>Andy Balaam's Blog</span>
                                     </a>
                                 </div>
                                 
@@ -2282,47 +2243,46 @@ One can easily generate any number of open problems in mathematics at will, such
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49651372', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://news.ycombinator.com/item?id=49662116', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="post-thumbnail" style="background-image: url('https://cdn11.bigcommerce.com/s-pywjnxrcr2/products/1725/images/2187/thelio-mira-26-frontRR__11359.1772653265.1280.1280__76157.1780080100.1280.1280__57602.1788206893.386.513.jpg?c=1');"></div>
+                    <div class="post-thumbnail" ></div>
 
                     <div class="post-content">
                         <!-- Post title (fixed 3-line height) -->
                         <div class="post-title">
-                            <a href="https://news.ycombinator.com/item?id=49651372" target="_blank" onclick="event.stopPropagation();">Thelio Mira AI Linux Workstation: 192 GB GPU Memory</a>
+                            <a href="https://news.ycombinator.com/item?id=49662116" target="_blank" onclick="event.stopPropagation();">A Misalignment of AI in Mathematics</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            Accelerate Your AI Development with the Thelio Mira AI Linux desktop workstation
-                        </div>
                         
 
                         <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 116</span>
+                                    <span class="post-points">▲ 131</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 118</span>
+                                    <span style="color: #9ca3af;">💬 5</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-age" data-timestamp="2026-09-10T23:10:06Z"></span>
+                                    <span class="post-age" data-timestamp="2026-09-11T17:30:26Z"></span>
                                 </div>
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://system76.com/workstations/thelio-mira-ai" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://cdn11.bigcommerce.com/s-pywjnxrcr2/product_images/system76_logo-fav-32x32.png?t=1711381758" alt="" class="post-favicon">
+                                            <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0;">
+                                                <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
+                                                <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
+                                            </svg>
                                             
                                         
-                                        <span>system76</span>
+                                        <span>terrytao.wordpress.com</span>
                                     </a>
                                 </div>
                                 
@@ -2351,7 +2311,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:37.299221+00:00">Updated 2026-09-11T15:59:37.299221+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:06.614088+00:00">Updated 2026-09-11T19:07:06.614088+00:00</small>
     </div>
 </div>
 
@@ -2583,11 +2543,11 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 3.2M</span>
+                                    <span style="color: #9ca3af;">👁️ 3.4M</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 26K</span>
+                                    <span style="color: #9ca3af;">👍 27K</span>
                                 </div>
                                 
                                 
@@ -2649,16 +2609,16 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 48K</span>
+                                    <span style="color: #9ca3af;">👁️ 52K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 409</span>
+                                    <span style="color: #9ca3af;">👍 434</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 177</span>
+                                    <span style="color: #9ca3af;">💬 189</span>
                                 </div>
                                 
                             </div>
@@ -2715,7 +2675,7 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 149K</span>
+                                    <span style="color: #9ca3af;">👁️ 155K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2724,7 +2684,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 548</span>
+                                    <span style="color: #9ca3af;">💬 571</span>
                                 </div>
                                 
                             </div>
@@ -2742,24 +2702,24 @@ One can easily generate any number of open problems in mathematics at will, such
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=ZGq9z6l3ZLE', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=_Fi4cpKCXss', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/ZGq9z6l3ZLE/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/_Fi4cpKCXss/hqdefault.jpg');">
                         
-                        <span class="duration-badge">1:43</span>
+                        <span class="duration-badge">12:10</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=ZGq9z6l3ZLE" target="_blank" onclick="event.stopPropagation();">Anthropic Team Lead: AI Could Kill All Humans</a>
+                            <a href="https://www.youtube.com/watch?v=_Fi4cpKCXss" target="_blank" onclick="event.stopPropagation();">More AI researchers warn of AI&#39;s threat to humanity</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+                            NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.I has to humanity.
                         </div>
                         
 
@@ -2770,9 +2730,9 @@ One can easily generate any number of open problems in mathematics at will, such
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/gG8APUsfAnGGR-bMkkA-4bei0sFLy8noP45mOkGeOswOZIe3SAMIoRfNTdsOERMZ-EX6IFXJ=s88-c-k-c0x00ffffff-no-rj" alt="DeFranco News Clips" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0x00ffffff-no-rj" alt="NBC News" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCpLB7kBu9O5dbBKhaIOmqcQ" target="_blank" onclick="event.stopPropagation();">DeFranco News Clips</a>
+                                    <a href="https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg" target="_blank" onclick="event.stopPropagation();">NBC News</a>
                                 </div>
                                 
                             </div>
@@ -2781,16 +2741,16 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 594K</span>
+                                    <span style="color: #9ca3af;">👁️ 247K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 36K</span>
+                                    <span style="color: #9ca3af;">👍 2K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 4K</span>
+                                    <span style="color: #9ca3af;">💬 926</span>
                                 </div>
                                 
                             </div>
@@ -2800,7 +2760,73 @@ One can easily generate any number of open problems in mathematics at will, such
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1788971306.0"></span>
+                                    <span data-timestamp="1789090564.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=qbFJuM3dFZM', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/qbFJuM3dFZM/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">11:04</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=qbFJuM3dFZM" target="_blank" onclick="event.stopPropagation();">AI Expert Reveals How Long We Have Left... | TMZ Live Clip</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            About TMZ: TMZ has consistently been credited for breaking the biggest stories dominating the entertainment news landscape ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nfoILEIYa3gd_5E5jQhL4ygzoYEiJHt8y4u7Vf3fLUkNI=s88-c-k-c0x00ffffff-no-rj" alt="TMZ" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCK7IIV6Q2junGSdYK3BmZMg" target="_blank" onclick="event.stopPropagation();">TMZ</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 112K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 1K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 526</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1789064377.0"></span>
                                 </div>
                                 
                             </div>
@@ -2847,7 +2873,7 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 902K</span>
+                                    <span style="color: #9ca3af;">👁️ 917K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2867,266 +2893,6 @@ One can easily generate any number of open problems in mathematics at will, such
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1788988836.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=M8MN5Q2zf10', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/M8MN5Q2zf10/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">1:46</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=M8MN5Q2zf10" target="_blank" onclick="event.stopPropagation();">‘They’re gambling with our lives’: AI engineer&#39;s resignation goes viral</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Former Anthropic employee Jacob Coxon made a blunt admission: "The people building AI earnestly believe that it could kill us all ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj" alt="CNN" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCupvZG-5ko_eiXAupbDfxWw" target="_blank" onclick="event.stopPropagation();">CNN</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 85K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 247</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1788981533.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RB6UZRmOtHc', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RB6UZRmOtHc/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">4:13</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=RB6UZRmOtHc" target="_blank" onclick="event.stopPropagation();">The world got a &#39;warning shot&#39; with Hugging Face AI attack: Center for Humane Technology&#39;s Harris</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Tristan Harris, Center for Humane Technology president and co-founder, joins 'Squawk Box' to discuss the AI Hugging Face ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/m5dRXUmCucfjKzBPXgu_Rztfe2glZ3Otj22pX3hoRkzMYY9A7YcW3CZI-3VMa-KVBQPXE3eQLA=s88-c-k-c0x00ffffff-no-rj" alt="CNBC Television" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw" target="_blank" onclick="event.stopPropagation();">CNBC Television</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 49K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 314</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 127</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1789048652.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=EtbswoffLx8', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/EtbswoffLx8/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">2:38</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=EtbswoffLx8" target="_blank" onclick="event.stopPropagation();">This is a race we have to win. #AI #datacenters #writing #journalism</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/13koZmqy8hWGzAH9Pkxa3FWf8PTzY5IrdUTkwjw_D7vtYqTsYdd8af1YIu-K9kxigLKCPP69=s88-c-k-c0x00ffffff-no-rj" alt="Ohh that's RICH" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC-yJOYXe_gw1dAnFQ5nMhWQ" target="_blank" onclick="event.stopPropagation();">Ohh that's RICH</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 111K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 14K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 658</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1788974702.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=IZMjJGi4YhI', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/IZMjJGi4YhI/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">6:33</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=IZMjJGi4YhI" target="_blank" onclick="event.stopPropagation();">&#39;Godfather of AI&#39; on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Could AI kill us all by the end of the decade? That's what the people building AI believe, according to a whistleblower who has just ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/VYYLNfn52fGQppFjB8zgHeMZCdmbwuQXNZglvHezC4uoQ4C3sWQCrYstb5DyUA3ln_N_pAH65A=s88-c-k-c0x00ffffff-no-rj" alt="BBC Politics" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC6o-wWU-v2ClFMwougmK7dA" target="_blank" onclick="event.stopPropagation();">BBC Politics</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 187K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 2K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 954</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1789037573.0"></span>
                                 </div>
                                 
                             </div>
@@ -3173,7 +2939,7 @@ One can easily generate any number of open problems in mathematics at will, such
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 718K</span>
+                                    <span style="color: #9ca3af;">👁️ 743K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3193,6 +2959,204 @@ One can easily generate any number of open problems in mathematics at will, such
                                 
                                 <div class="video-meta-item">
                                     <span data-timestamp="1788999068.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=k7-eYzKRpSs', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/k7-eYzKRpSs/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">1:33</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=k7-eYzKRpSs" target="_blank" onclick="event.stopPropagation();">What Would an AI Code of Ethics for Creators Look Like?</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            You'd think we were far enough along in the creator economy that there would be some kind of shared traditions or a code of ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/PqGf52eXwkVbuXZ5wg6pmGbMsC0LghDBCeuRIF7SbgZ10hZRK-bWT5lk-95JqlsZZqdSXPXPFsE=s88-c-k-c0x00ffffff-no-rj" alt="On the Media" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UC7nboHPtcKwh4O4cr9js6wg" target="_blank" onclick="event.stopPropagation();">On the Media</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 492</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 36</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 3</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1789144662.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=PWkMUmEZbq4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/PWkMUmEZbq4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">7:46</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=PWkMUmEZbq4" target="_blank" onclick="event.stopPropagation();">‘We don’t have months’: Bernie Sanders sounds alarm on AI&#39;s &#39;extinction&#39; threat</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            What we have got to do now is light a match under the backsides of members of Congress and say, we don't have months.
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj" alt="MS NOW" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCaXkIU1QidjPwiAYu6GcHjg" target="_blank" onclick="event.stopPropagation();">MS NOW</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 745K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 10K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 3K</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1789002609.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=RB6UZRmOtHc', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/RB6UZRmOtHc/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">4:13</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=RB6UZRmOtHc" target="_blank" onclick="event.stopPropagation();">The world got a &#39;warning shot&#39; with Hugging Face AI attack: Center for Humane Technology&#39;s Harris</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Tristan Harris, Center for Humane Technology president and co-founder, joins 'Squawk Box' to discuss the AI Hugging Face ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/m5dRXUmCucfjKzBPXgu_Rztfe2glZ3Otj22pX3hoRkzMYY9A7YcW3CZI-3VMa-KVBQPXE3eQLA=s88-c-k-c0x00ffffff-no-rj" alt="CNBC Television" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw" target="_blank" onclick="event.stopPropagation();">CNBC Television</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 50K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 322</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 128</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1789048652.0"></span>
                                 </div>
                                 
                             </div>
@@ -3220,7 +3184,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:38.047589+00:00">Updated 2026-09-11T15:59:38.047589+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:02.982803+00:00">Updated 2026-09-11T19:07:02.982803+00:00</small>
     </div>
 </div>
 
@@ -3487,7 +3451,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 75,774</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,709</span>
+                                    <span class="model-stats">❤️ 1,746</span>
                                 </div>
                             </div>
                             
@@ -3545,7 +3509,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 67,550</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,172</span>
+                                    <span class="model-stats">❤️ 1,184</span>
                                 </div>
                             </div>
                             
@@ -3603,7 +3567,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 17,712</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,091</span>
+                                    <span class="model-stats">❤️ 1,094</span>
                                 </div>
                             </div>
                             
@@ -3661,7 +3625,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 3,121</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 684</span>
+                                    <span class="model-stats">❤️ 685</span>
                                 </div>
                             </div>
                             
@@ -3719,7 +3683,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 7,563,763</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 14,725</span>
+                                    <span class="model-stats">❤️ 14,742</span>
                                 </div>
                             </div>
                             
@@ -3777,7 +3741,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 682,187</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 824</span>
+                                    <span class="model-stats">❤️ 827</span>
                                 </div>
                             </div>
                             
@@ -3835,7 +3799,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 12,260</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 592</span>
+                                    <span class="model-stats">❤️ 593</span>
                                 </div>
                             </div>
                             
@@ -3891,7 +3855,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 1,669,564</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,445</span>
+                                    <span class="model-stats">❤️ 3,465</span>
                                 </div>
                             </div>
                             
@@ -3947,7 +3911,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 11,339,637</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 3,885</span>
+                                    <span class="model-stats">❤️ 3,889</span>
                                 </div>
                             </div>
                             
@@ -4005,7 +3969,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                     <span class="model-stats">⬇️ 28,328</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 378</span>
+                                    <span class="model-stats">❤️ 380</span>
                                 </div>
                             </div>
                             
@@ -4039,7 +4003,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:46.528728+00:00">Updated 2026-09-11T15:59:46.528728+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:11.284398+00:00">Updated 2026-09-11T19:07:11.284398+00:00</small>
     </div>
 </div>
 
@@ -4366,14 +4330,14 @@ One can easily generate any number of open problems in mathematics at will, such
                         <div class="paper-meta">
                             <div class="paper-meta-line">
                                 <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 131</span>
+                                    <span class="paper-stats">▲ 132</span>
                                 </div>
                                 <div class="paper-meta-item">
                                     <span style="color: #9ca3af;">💬 6</span>
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 104,536</span>
+                                    <span style="color: #9ca3af;">⭐ 104,653</span>
                                 </div>
                                 
                             </div>
@@ -5083,7 +5047,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:47.634664+00:00">Updated 2026-09-11T15:59:47.634664+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:12.445217+00:00">Updated 2026-09-11T19:07:12.445217+00:00</small>
     </div>
 </div>
 
@@ -5365,13 +5329,13 @@ One can easily generate any number of open problems in mathematics at will, such
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">584</span>
+                                <span class="repo-stats">585</span>
                             </div>
                         </div>
                         
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2026-09-11T15:57:32Z"></span>
+                                <span class="repo-age" data-timestamp="2026-09-11T17:13:35Z"></span>
                             </div>
                         </div>
                         
@@ -5607,7 +5571,7 @@ One can easily generate any number of open problems in mathematics at will, such
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.5k</span>
+                                <span class="repo-stats">⭐ 2.6k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5670,7 +5634,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">90</span>
+                                <span class="repo-stats">91</span>
                             </div>
                         </div>
                         
@@ -5731,13 +5695,13 @@ One can easily generate any number of open problems in mathematics at will, such
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 2.1k</span>
+                                <span class="repo-stats">⭐ 2.3k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">190</span>
+                                <span class="repo-stats">202</span>
                             </div>
                         </div>
                         
@@ -5804,7 +5768,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">195</span>
+                                <span class="repo-stats">194</span>
                             </div>
                         </div>
                         
@@ -5861,7 +5825,7 @@ One can easily generate any number of open problems in mathematics at will, such
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">178</span>
+                                <span class="repo-stats">181</span>
                             </div>
                         </div>
                         
@@ -5954,7 +5918,7 @@ One can easily generate any number of open problems in mathematics at will, such
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-09-11T15:59:36.120281+00:00">Updated 2026-09-11T15:59:36.120281+00:00</small>
+        <small data-timestamp="2026-09-11T19:07:00.922198+00:00">Updated 2026-09-11T19:07:00.922198+00:00</small>
     </div>
 </div>
 
