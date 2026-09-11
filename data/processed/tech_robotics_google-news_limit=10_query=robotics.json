@@ -35,6 +35,16 @@
       "description": null
     },
     {
+      "headline": "Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0diZG1rbDl5RUk5eS1JMnFaNGplVnpRZkZpOGY3SDFmWDdEYkFVQlRxa19UV0RCMmlyX2piNTRPZWttck9ocDdhRXZXTWNSNDlEbmxRX0VkS1NfX3dlOWxZbHVhdlM5ZFFxLTdLSXg?oc=5",
+      "pub_date": 1789140618.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67756707&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
+      "description": "Your weekly selection of awesome robot videos"
+    },
+    {
       "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -43,16 +53,6 @@
       "article_url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108361576-1789092834048-aether_openai_astra_Screenshot_2026-09-11_101318.jpg?v=1789097527&w=1920&h=1080",
       "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
-    },
-    {
-      "headline": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
-      "pub_date": 1788998580.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -66,7 +66,7 @@
     },
     {
       "headline": "Medtronic\u2019s Jim Peichel on AI, robotics and the future of surgery",
-      "source": "modernhealthcare.com",
+      "source": "Modern Healthcare",
       "source_url": "https://www.modernhealthcare.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUG12NTEyUlRXSGExdVVkb0tUSzJnckxUTnU4U041NHQtcjZjYUIwM25IUUoyMHo1emREcG9kV0llVmZveWdlNnVtNkQ3elVVZHE3Z19ZZ2xCZlhLcWh1YmFld3JNQ21TeXotTVpka0pCcnlZMmwzQzNHRHlYMzV0S3pFRUhaYnRrNDhUZ0RXbjJHaUtZalRXQUFn?oc=5",
       "pub_date": 1789034400.0,
@@ -85,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "How effective are food delivery robots? We followed one around D.C.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkVxXzE3eUpzTTBFMGhiMGtac0JNZFZBZDVjSmo2THU2UHkyeVNXRjY0ZmpWUTcyMzhSRGhlNWdMT2s1dU5RMnczQlNRaS11NVBiRG94NGd6WkNFWE1XMERoM1NyT2VsR1Iza2RWSnAwTmgxbUJ0bDRNaHZjMHVGeWx0UW1VQ0x3NVBlQkpRNnBUZG5oNTBNNjdqUjQxMlpPRElN?oc=5",
-      "pub_date": 1788886800.0,
-      "article_url": "https://www.washingtonpost.com/dc-md-va/2026/09/08/robots-are-delivering-impersonal-touch-dc-takeout/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q3E5A2N2OQFA263KZMB2ULCNE_size-normalized.JPG&w=1440",
-      "description": "This summer, California-based companies Coco Robotics and competitor Serve Robotics launched in Washington. Reactions from restaurants and customers vary from praise to indifference to disdain."
+      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
+      "pub_date": 1789094340.0,
+      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
+      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
     },
     {
       "headline": "American company Swarmer buys Ukrainian ground robot maker for US$224m \u2013 WSJ",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T11:43:05.031532+00:00"
+  "fetched_at": "2026-09-11T15:59:59.994744+00:00"
 }

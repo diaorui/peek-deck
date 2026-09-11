@@ -5,25 +5,11 @@
   "days": 3,
   "posts": [
     {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=49610538",
-      "author": "rpgbr",
-      "points": 711,
-      "num_comments": 237,
-      "created_at": "2026-09-08T14:05:57Z",
-      "object_id": "49610538",
-      "image": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png",
-      "description": "LibreOffice 26.8 became the app\u2019s most popular update, with over 1 million downloads, after the foundation behind it declared that LibreOffice doesn\u2019t come with generative AI features due to the\u2026",
-      "favicon": "https://manualdousuario.net/apple-touch-icon.png?v=20260630",
-      "site_name": "Manual do Usu\u00e1rio"
-    },
-    {
       "title": "Muse \u2013 Meta\u2019s personal AI agent",
       "url": "https://ai.meta.com/muse/",
       "hn_url": "https://news.ycombinator.com/item?id=49615537",
       "author": "yks",
-      "points": 654,
+      "points": 655,
       "num_comments": 735,
       "created_at": "2026-09-08T19:25:00Z",
       "object_id": "49615537",
@@ -31,6 +17,20 @@
       "description": "Meet Muse, Meta's personal AI agent. Learn what it can do across everyday tasks, how it works, and how it helps you get more done.",
       "favicon": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/0eWKxz9kEoF.webp",
       "site_name": "ai.meta.com"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "hn_url": "https://news.ycombinator.com/item?id=49657850",
+      "author": "cromka",
+      "points": 612,
+      "num_comments": 295,
+      "created_at": "2026-09-11T13:11:04Z",
+      "object_id": "49657850",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     },
     {
       "title": "AirPods 5",
@@ -51,7 +51,7 @@
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "hn_url": "https://news.ycombinator.com/item?id=49616968",
       "author": "_alternator_",
-      "points": 487,
+      "points": 488,
       "num_comments": 418,
       "created_at": "2026-09-08T21:00:52Z",
       "object_id": "49616968",
@@ -61,18 +61,18 @@
       "site_name": "Mathstodon"
     },
     {
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "hn_url": "https://news.ycombinator.com/item?id=49610229",
-      "author": "cainxinth",
-      "points": 395,
-      "num_comments": 68,
-      "created_at": "2026-09-08T13:41:25Z",
-      "object_id": "49610229",
-      "image": "http://tendency-prod.nyc3.cdn.digitaloceanspaces.com/okzkybhv2tecwxbvm0c2u9tkyibz",
-      "description": "\u201cI didn\u2019t think a full, six-day-per-week, fourteen-hour-per-day, in-office schedule was necessary to discharge my duties clicking the \u2018generate\u2019 button, foll...",
-      "favicon": "https://www.mcsweeneys.net/assets/chair-white-b56c46cc6ff30c7d87e754d65dd4f170f7681164c08c91142962b746e0261e19.png",
-      "site_name": "McSweeney's Internet Tendency"
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49656496",
+      "author": "JohnHammersley",
+      "points": 297,
+      "num_comments": 231,
+      "created_at": "2026-09-11T11:17:50Z",
+      "object_id": "49656496",
+      "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
+      "description": "How frictionless technologies teach us to prefer our own company \u2013 and why research leaders should worry.",
+      "favicon": "https://www.researchagenda.news/assets/brand/ra-favicon.svg",
+      "site_name": "Research Agenda"
     },
     {
       "title": "How An AI math breakthrough ignited a controversy",
@@ -80,7 +80,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49624163",
       "author": "pseudolus",
       "points": 220,
-      "num_comments": 230,
+      "num_comments": 231,
       "created_at": "2026-09-09T10:25:41Z",
       "object_id": "49624163",
       "image": null,
@@ -107,8 +107,8 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "hn_url": "https://news.ycombinator.com/item?id=49647300",
       "author": "garo-pro",
-      "points": 140,
-      "num_comments": 207,
+      "points": 159,
+      "num_comments": 223,
       "created_at": "2026-09-10T17:23:42Z",
       "object_id": "49647300",
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
@@ -135,8 +135,8 @@
       "url": "https://system76.com/workstations/thelio-mira-ai",
       "hn_url": "https://news.ycombinator.com/item?id=49651372",
       "author": "jonifico",
-      "points": 111,
-      "num_comments": 102,
+      "points": 116,
+      "num_comments": 118,
       "created_at": "2026-09-10T23:10:06Z",
       "object_id": "49651372",
       "image": "https://cdn11.bigcommerce.com/s-pywjnxrcr2/products/1725/images/2187/thelio-mira-26-frontRR__11359.1772653265.1280.1280__76157.1780080100.1280.1280__57602.1788206893.386.513.jpg?c=1",
@@ -145,7 +145,7 @@
       "site_name": "system76"
     }
   ],
-  "total_hits": 748,
+  "total_hits": 741,
   "has_metadata": true,
-  "fetched_at": "2026-09-11T11:42:48.320471+00:00"
+  "fetched_at": "2026-09-11T15:59:37.299221+00:00"
 }

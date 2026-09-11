@@ -5,74 +5,94 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Detecting and countering misuse of AI: September 2026",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "pub_date": 1789060227.0,
-      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
-      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
-    },
-    {
-      "headline": "Opinion | The A.I. Threat Is Real. We Need to Act Now.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
-      "pub_date": 1789117349.0,
-      "article_url": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
+      "headline": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUotdlJET1huVjdSelVtX19weWxyRjBBS3ViZGZUTXVETE1vMGR2cjhKbEFrYjd1OEZaQ1VZYUlMYmhEdm1rWTFYT3ZzQVE1MzFwYWNESElrUUFocHIxNmdOWUM5TlpCanhObk9nQUNHQ1N5NllWRGxfbGhPUGtfSzByUmdXSlFseUhIejFiZ3V5MWlBdnN5UVhTblJ0T0lKOENDMHBMQ1BGNU1rYVBHcGZn?oc=5",
+      "pub_date": 1788999900.0,
+      "article_url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why fears of AI self-improvement are causing \u2018existential\u2019 concerns at Anthropic and OpenAI",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXdFTmVGVWVBRlRkN0ktd3ZJTXBKTE1Da1RnTXB2bmpMTDhHeHR3Wjk1R1Z4el9ZOWxTVVYxTkNzTVk4dlBtTHpoZWNzUHkxZDVnSnZEMkNreERKZW9jekh5M1NhZU9oVGZPODRYMkhBQXpISVF2T1hBV1hfa1N0cjJBSdIBiAFBVV95cUxPR3VZZDNYM2x6VTVzeHM0aG16RmdBZ1JFQ00tc25OOFhjSTFHVmxoclVGanRob1Awb2ZzSXcxQ1o2cW9MS1BtUW45U2xhNG1DVEZUMlVGQjR1STZ0TFd6eDJoQ19fblVYZnRjVnNidHNkeF9Ka2xJbVNrWlJsN2ZIVUVUZ05NTURn?oc=5",
-      "pub_date": 1789124401.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108125174-1743618895320-OpenAI_Anth.jpg?v=1770839647&w=1920&h=1080",
-      "description": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control."
-    },
-    {
-      "headline": "AI debt is surging. A credit ratings agency has concerns",
+      "headline": "Dollars and doomers in the AI safety debate",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMjdNenloaURBcFhTNVJERmJGdE9TTG1LS1pNUkljMk5FRjcydUNXNUpNbFZvbzZkU2ZSUGlRMFFYYkRjeUVEdFJfVE1UQmY2SmFaczRfTHlybjRmbzUwYUp1cHo4R3c?oc=5",
-      "pub_date": 1789125300.0,
-      "article_url": "https://www.axios.com/2026/09/11/ai-debt-hyperscalers-sp",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb05xelNnUXkwYmx4S3hjcFdNLW1MenNxRXZISlpCWmQ1Y1BFamNQTnhwSGJPaHNjdnJQa245d3dGNzBzaFVmeXdRTnMzSkl1XzdmcGZWaDNnMFpCWGVDQ19GNV93cUNCS0pQbDdCbWxEV1JMbVlBRlFTWmJRVldDUw?oc=5",
+      "pub_date": 1789137198.0,
+      "article_url": "https://www.axios.com/2026/09/11/dollars-doomers-ai-safety-financial-crisis",
       "image": null,
       "description": null
     },
     {
-      "headline": "Remembering 9/11 and more AI researchers warn of safety risks: Morning Rundown",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU21qY0gxM2JpV19IQTZwa3NqVDI3V2JPelNFTDdGRjB3WE9XOEpHbXV2dlJJekNJTkpQMEVfdEVzcW1JZ0lNaURBVW5tUUNqOEJ6ZnY5ZnZfZXpQY3BkYnU4aVVTRXRHR1BrcnRkTmN4Yl8zeE1WQzFNTjJVc2NVS3dHZzBFTGdzRHVYekdVcDdVTUhub0xpQTNZODlQbTVQbDVmRG80b3dsWlJlWno3WVl3?oc=5",
-      "pub_date": 1789124514.0,
-      "article_url": "https://www.nbcnews.com/news/us-news/remembering-911-ai-researchers-warn-safety-risks-morning-rundown-rcna597175",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-9-11-vl-1124a-f75b59.jpg",
-      "description": "Plus, why Trump\u2019s $5,000 checks could face obstacles and diesel hits a record high."
+      "headline": "SpaceX signs another AI computing deal, with $100 billion in ARR 'on track,' CFO says",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlc3LVNhMW9HYkVoNnM2RGVnSXFFeUVYUXhNS3BPLTJ5YWh4QllpclJjU1Vhak9IbUpRbGdsUjVZblBDU3VYd0JTb1ZRZUx4ZjNwdmszOGs4VHlPMHYzdnpWcHF4MGlJWF96dUJPWVkwVmZnNG9jb00zUmowemJGR2RaekprcFBTeEpNSm9HbVZlMjJHcDk1a1d2UEE3Umlpdm5SeW9VaVRmblNfWjBiZ2t1cU1oTXNRTlNfcFptWDRybFNSSHI4VUJXNjNSOUxiRjZ2SXRublo3c3dy?oc=5",
+      "pub_date": 1789140573.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/article/spacex-signs-another-ai-computing-deal-with-100-billion-in-arr-on-track-cfo-says-152933886.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c703b8cbec6d74e0bb19eb57a965a38c8ed577b477eb2ae087303ea4b83141b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F21e7fb9f-6373-4c94-9f05-ff179d3ab0ba",
+      "description": "SpaceX just inked another big AI compute deal, one that will take the space and rocket company closer to its $100 billion annual recurring revenue (ARR) target this year, a big metric for investors."
     },
     {
-      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-      "pub_date": 1789077528.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
-      "image": null,
-      "description": null
+      "headline": "Roundup: Meta power case / AI weaponization / Post-9/11 flying",
+      "source": "Baton Rouge Business Report",
+      "source_url": "https://www.businessreport.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1lZeEt3VEJiUEpXR3Vwbi1PeEQ4X3k1emJUa0J4eVBTS0JMYUxDZy1XMXFma2owYVhmMzhSc0JjdHNVdFFNTXhxTmZOUFNwZmhnZlFfU3Z4MzNFaTVGOHctNzgteXhBTkhXellPRjRibF9TanVJSGFfTDZEdW03RU5rTzZudklNY0xERWRRZUNxLUt4RkxuQkZWdmvSAaQBQVVfeXFMTnpTTTNrZlNZUDFXZmlYUE1wV0ppaElBbkpxRFByR2tSNS00M09hUWtoWlM1bzFXekNGeFh3SGV1Z2RSLUM0NUpGaGVWS2Jfek9uVWdEZGl0UnhTTjBueXFocTY0RWNTVFhkdXJzT1dMeFZpbzlqQXhYakVFSWtuNnZiZ2J2d1N6cVVPUk1qOGg4OHBXSmI3UDE0TEdtN19mbDBqWk8?oc=5",
+      "pub_date": 1789137328.0,
+      "article_url": "https://www.businessreport.com/article/roundup-meta-power-case-ai-weaponization-post-9-11-flying",
+      "image": "https://s25562.pcdn.co/wp-content/uploads/2026/05/Business-Report-2026-default-image.jpg.optimal.jpg",
+      "description": "More transparency: Entergy Louisiana has agreed to expand access to highly confidential information in its power expansion case tied to Meta\u2019s Richland Parish data center, allowing seven consumer advocates to review protected materials and their experts\u2019 testimony. However, the groups still cannot access Meta records supporting projected jobs, investment and electricity demand. The case involves [\u2026]"
     },
     {
-      "headline": "More Anthropic researchers warn of AI\u2019s perils but Musk dismisses \u2018psyop\u2019",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
-      "pub_date": 1789096500.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
-      "image": "https://i.guim.co.uk/img/media/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/master/2937.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62360734033791f995b12f58a811b555",
-      "description": "Insiders at the firm fear tech\u2019s advancement could cause human extinction, while others are calling their declarations of concern a \u2018setup\u2019"
+      "headline": "Rebels used Anthropic\u2019s AI bot to develop guided weapons, report says",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
+      "pub_date": 1789141078.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NC6SB65TH6PW4GP3P5TQ7WJCFQ.jpg&w=1440",
+      "description": "Militants in Yemen sought to use a coding tool to produce guided rockets and missiles, the firm found, noting it was able to block some but not all the requests."
+    },
+    {
+      "headline": "Houthis used Anthropic AI to try to build ballistic missiles",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXE4MDFlendHOEpIVjJfNk02ZUFydzk0d3RBU0FGaE9qSlp3UkdDUHQwM3hQdUhjd182b0ZWZ3B0TUE0Vlh2MnpyRUNKOVp1aFlCNF9UWXVYZTctSkUycUNvWTE0MDd6aVgzYjdSOWhPTThnRS11RzQwUmQyN0E2aHlZTlI?oc=5",
+      "pub_date": 1789117374.0,
+      "article_url": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4db6985f-49da-448f-b3c6-105125cf946a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Missile test by group apparently failed, but exposes limits of AI safeguards"
+    },
+    {
+      "headline": "Anthropic says Yemeni weapons cell used its AI to try to build missile guidance software",
+      "source": "Los Angeles Times",
+      "source_url": "https://www.latimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzFjYTdlRzRYM2kzTU9OSG5GMTlVNWRqb3lfbW1EWDh4RDlwLW1xejNCTThCVWlfZkwtTHFqcTV5LTJTanFXNE0zdGRoTUdrUjVsY2xwd3didmU0dWlKWGVsWkJsV0pBZEx3c3ZNYmUzelRSYXRQR0dnZ2RqVV9nZHlnUHpyS1FHZ1FnYTlBdFo3bTBsb0FmT3kzMEN6MThmcVhHYXNJWGZMRDRKQmNWS0U1aXgtaUs2X0NWTGxNT2NzTllHMzJQTkliU0N3Z2JnWlN2NA?oc=5",
+      "pub_date": 1789138122.0,
+      "article_url": "https://www.latimes.com/business/story/2026-09-11/anthropic-says-yemeni-weapons-cell-used-its-ai-to-try-to-build-missile-guidance-software",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a8c3e71/2147483647/strip/true/crop/7035x3693+0+499/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2Fff%2F743b14ca4f60b1a3b8fca12a573e%2Fcode-with-claude-conference-08203.jpg",
+      "description": "Anthropic uncovered a group in northern Yemen \u2014 where Iran-backed Houthi militants operate \u2014 using its Claude AI model to support the development of missile and rocket systems, highlighting growing concerns over the use of advanced AI in military programs and by non-state actors."
+    },
+    {
+      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
+      "pub_date": 1789114525.0,
+      "article_url": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
+    },
+    {
+      "headline": "The Gemini app is now available for Windows",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5",
+      "pub_date": 1789056446.0,
+      "article_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_2096x1182.width-1300.png",
+      "description": "We\u2019re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications."
     },
     {
       "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
       "description": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards."
-    },
-    {
-      "headline": "Anthropic says it blocked potential AI bioweapon misuse",
-      "source": "abcnews.com",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHNiU2w4UlN0ZmswWlFZZHBCTFpzZW02U3RNQ29wVUJKQ2NsM2xjV1d4U0dtYjVhWUpmM1N3dm5HYkg3a1ZaMWlYUVdSMFN1SjlfOEt1bVZGNWdMLXFNcGpIZnhjT1FqNVZHdWR0QU40YWs5NlFzY01aekNoaTBja2lfUjRlODJ0c29ObjU2b2c2OHc0OTZQTzFZNNIBoAFBVV95cUxNdFdUcWN0blhrMU85WE55cGo2aldZRTIwT1lxZlA1a2tSS3lUNnJPTFlwRktnZlR0alhrNjlCX1J4T21CMlUwZEItRGhuVTZOajNpNHRoczNsek5nS2RuSTQ4MFFzZUFHRl9Ja01UVUg2VTlUVVozWFA3TVExSWp3d0daZm5KNWY1OHJWNTZEdHZ4ajlYdVF2aFJjVFRTcHZn?oc=5",
-      "pub_date": 1789096467.0,
-      "article_url": "https://abcnews.com/GMA/News/anthropic-blocked-potential-ai-bioweapon-misuse/story?id=136351654",
-      "image": "https://i.abcnewsfe.com/a/6adb6243-fb82-448a-9655-149edbd68943/Anthropic-gty-sn-260910_1789083503772_hpMain_16x9.jpg?w=1600",
-      "description": "The company said users may have used Claude for biological research that could pose risks."
-    },
-    {
-      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
-      "pub_date": 1789059606.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T11:43:12.489667+00:00"
+  "fetched_at": "2026-09-11T16:00:07.691074+00:00"
 }
