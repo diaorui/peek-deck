@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
+      "pub_date": 1788962400.0,
+      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
+      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
+    },
+    {
       "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -15,34 +25,24 @@
       "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
     },
     {
-      "headline": "Ethereum Is Up 31% in Thirty Days and XRP 33%. Which Is the Better Buy Before the Fed Meets?",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDRuaTg3LTE3Skt6dU00NnRfZ2dKZGIwYlpXaG1CUXY0YWYxSTNPd2NBQjNEYVRIRGJhYkYxMEFzSGpjeXdGMkRiSDJIWGV6ME82S0hCaWd6YjFVZ2ZfNXRBemI4WElBR3pPZUE3SWRPTGpUUGRUaVRzaDNWdG13TnlTX3NOTnhsV19Rd0F4ckU1U1N4UlV5WFA0OGdZdFYxd0RIU2VpQmtEN3IzTF9NWmhpa1VVdmFlRU5vUVMxYjUtaTZoMEFHZjJwaFRSNW9JSzhrREVoUmVtSWpWYmN2WA?oc=5",
-      "pub_date": 1788871740.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/ethereum-is-up-31-in-thirty-days-and-xrp-33-which-is-the-better-buy-before-the-fed-meets/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2760853909-huge-licensed-scaled.jpg",
-      "description": "Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision."
-    },
-    {
-      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "fortune.com",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
-      "pub_date": 1788962400.0,
-      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
-      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
-    },
-    {
-      "headline": "Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap",
+      "headline": "Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbGNHbWZ5eUZ2eFltMEhYckc3RUxXd3VKb0tqWE1GLVRTMnFqbmRnMzZOZ1pTblBtZEdzaGxtQXJnYW81NGtjdTRVYVFZWWFrMkI1cWdNLTh5bmk2WlZHVkZHcE12M2Q5LUYyQVdlSWFfME5Dek5vSWJ5Q3dpVXhUU0p5b2IxeEhHeGNLV2RWTG1DWHBqX0ZfdlF4bXZyc2N6WHZ3UE1UeDZMNUdJVGNyYk1EX0Z2cExTV0sxLWNjVmFfZkJhZkNMbG03QldPMXFpWm5CMnNuV0NQOThpbG5GUDVjZTdrMzJWZi1KMFMyMU02eE1wbnhCMFhfb292V3VOSWNDQ1hKSnFLNktxbnhnQXRzWjVUaEE?oc=5",
-      "pub_date": 1789039818.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7f01ff25b8e01a2739c75b57e31b5a895c116c4bcdc3961b45dccd9e008ee285/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_0304.jpg",
-      "description": "Bitcoin opened at $78,291.64 on Thursday, September 10, 2026, down 0.2% compared to Wednesday's opening price. As of 7:19 a.m. ET this morning, the price of bitcoin slid back to $77,941.56. Ethereum opened at $2,467 today, down 0.7% from Wednesday's opening price. The price of ethereum slid this morning to $2,464.92."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUzg2a3Y0NVlxQnQ1QWRkUkI3aUJDcnFfQWlsakZxY1AyRTJoRDBLUXlpcDBJazlBdVFtTGdWU25qVWNWM3dtNTVxYWw0WlEtbVBNT1ZpLU5rWVk4dmJWVER1d0FYLXNkU0ppcDJDMWtZN3J6SDdPWi1HR1NVUlNPZzh3dkdmMm4zeDBoLUNEcHBpbW5vSDV4SFFsZ1RDSlpU?oc=5",
+      "pub_date": 1789126200.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-just-made-largest-ethereum-113000644.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e2ab0d30c9992985960918b1171e818c867ba86921ced282df379726e456008c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F0cf2ffe55e1a7097318054ccc3a17e42.jpg",
+      "description": "Digital asset treasury companies are helping to keep a floor under the price of Ethereum."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUDUtd29hQ1Vra3IzWDFybVpaUUtJZG5Da3R6RDFpT002ckJ0VkdLcjV5V0VBNTFneHhjOVdLNlZORUU2U1plZkd0bWdQOFRmZjJTcWFEbEMwSnlfWm5TZ0J6eGctdkgzVUtRNVQ1alNLdTN3aFRCVGhvN2NsQVl0RW16dkRNd1VtNEljdFhQU2lOMDlvd0FsNks3UTlfaVo5R3Z6cnM4RTNVYmI4V0dCWUxENUtJMDM1aUhhOF8zdzRLSTdselJsTEphTDZJRlhfQUYtTjB3VkVjT09leGVEaVRZM0ZtZ016YjZIZmh5SlctYTc0V0F5ZzIwQmtaeC0zUEF2eUIxUFZ3aTd0emwteDNlUUQyeFVLVVdkYw?oc=5",
+      "pub_date": 1789126745.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
+      "description": "Bitcoin opened at $76,535.95 on Friday, September 11, 2026, 2.2% lower than Thursday's opening price. As of 7:23 a.m. ET this morning, the price of bitcoin shifted to $76,758.63. Ethereum opened at $2,437.02 today, down 1.2% from Thursday's opening price. The price of ethereum moved to $2,453.68 as of 7:23 a.m. ET."
     },
     {
       "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
@@ -55,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
+      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Fall as Hot PPI Raises Rate Hike Bets: Analyst Says BTC Not the 'Biggest Runner,' Expects This Coin to Break Out",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTJ3ZmVyakVIelptUWVBVXBBY1d5VnNFZGtvcUNtemw1V2EyUFl1WGtTMElIMGNtVnd5VXBnaDlDZ3JfMHpKNnV0cnBVdjZvQ1V5dl94eWFBVUNLTlhRVDhTSXlGVHhFMFdHUHhqcDBmdTNoemRCeHdIenZFTHJkMmJlajFRTkRMc3g2dndPazQxNktwNU4xc29iQXJJWklPRlNFd1dkclBDMnJ5WGFDUk5qbmZmOEpUUlNKekx2eS1weTBmM0xJcU9VODVnUGs4VVc5bEdPd09zMkRXSHVPY0Z0VlE?oc=5",
-      "pub_date": 1789074824.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:3e8a75f52094b:0-bitcoin-ethereum-options-worth-3b-expire-as-eth-traders-shift-defensively-toward-puts/",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPclNzMDgxemRTVVFrQWNUZDlMNFBCQm1UaTRzV0l2NTlIbV9BSzM3dzJTRWVUMjVMMFVRZFZCaHRobEhsWHh0NU5IdTV3OWtiQjUteWwtRjI2M0dSaDFXa3Y2UE1EVE50UTJhZzFKZDEtbzhnci1ZVU83d3Mtck5kX3pjME9vQklhYXV2MzBTRmNlUmh3UTNKSFhGa2FpanFiNU1HdzR3RGFOakdFSl9CMGlDcE5QZ1JZOVVIaHluSXBMRU5hSTMzalV1N3JVbWNhS2psdURRalhNaXdNdWotUlVBc3BlcjYzR1VycFE4ZEgwVmJGcDgzZlN4RzJJTlV2b2M5VmxkZGdmdENtYm1fV21TMWRwX3ZuYk5XNnVsWW5IdGs?oc=5",
+      "pub_date": 1789091460.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:67992894b094b:0-bitcoin-ethereum-xrp-dogecoin-fall-as-hot-ppi-raises-rate-hike-bets-analyst-says-btc-not-the-biggest-runner-expects-this-coin-to-break-out/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Roughly $3 billion in Bitcoin and Ethereum options expired on Deribit, and the two assets told very different stories heading into settlement. Bitcoin's options book stayed firmly tilted toward calls, the optimistic bets. Ethereum's, meanwhile, drifted toward puts, the kind of contracts you buy whe\u2026"
+      "description": "Leading cryptocurrencies dropped further on Thursday after hotter-than-expected producer inflation trimmed investors\u2019 risk appetite.Crypto Slide ContinuesBitcoin dipped below $77,000 as selling pressure accelerated. Ethereum meandered in the $2,400 region, with volume spiking 10% over the last 24 h\u2026"
     },
     {
       "headline": "Crypto News Today: AlphaPepe Announces $2.64 Million Raised While the Ethereum Price Prediction Eyes $10,000",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T06:27:13.453148+00:00"
+  "fetched_at": "2026-09-11T11:43:08.252281+00:00"
 }
