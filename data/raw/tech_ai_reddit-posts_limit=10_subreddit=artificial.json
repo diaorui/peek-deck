@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
+      "published": 1789152375.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
+    },
+    {
       "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
       "author": "recallingmemories",
       "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
@@ -11,17 +22,6 @@
       "site_name": null,
       "favicon": null,
       "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
-    },
-    {
-      "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
-      "author": "florinandrei",
-      "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
-      "published": 1789076637.0,
-      "thumbnail": "https://preview.redd.it/wrl4i7x1jroh1.jpeg?width=640&crop=smart&auto=webp&s=301592e957d4bc35cc9c51e5c57792f6429c20ea",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Polish developer builds app that detects nearby Meta smart glasses",
@@ -35,6 +35,28 @@
       "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
     },
     {
+      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+      "author": "absolut_st",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+      "published": 1789151096.0,
+      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
+      "author": "florinandrei",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
+      "published": 1789076637.0,
+      "thumbnail": "https://preview.redd.it/wrl4i7x1jroh1.jpeg?width=640&crop=smart&auto=webp&s=301592e957d4bc35cc9c51e5c57792f6429c20ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
       "author": "GenericNameRandomNum",
       "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
@@ -44,17 +66,6 @@
       "site_name": "the Guardian",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
-    },
-    {
-      "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
-      "published": 1789152375.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
     },
     {
       "title": "Mathematicians confront the AI apocalypse",
@@ -68,49 +79,38 @@
       "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
     },
     {
-      "title": "5 things I've noticed that still make AI video read as AI",
-      "author": "NewPhoneWhotiz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
-      "published": 1789120073.0,
+      "title": "Alibaba Cloud and Cambricon just took Platinum seats on the PyTorch Foundation board",
+      "author": "OkCan8173",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdtoh7/alibaba_cloud_and_cambricon_just_took_platinum/",
+      "published": 1789162843.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
+      "description": "The PyTorch Foundation announced on September 8 at PyTorch Conference China in Shanghai that Alibaba Cloud and Cambricon joined as Platinum members. Each gets a seat on the Governing Board and one on the Technical Advisory Council. If you build on non-NVIDIA accelerators, the TAC seat is worth watching. Cambricon ships MLU processors into Chinese data centers, and their PyTorch backend has lived out of tree, meaning it can lag or break after major releases. A TAC seat gives them a direct channel to push backend support upstream rather than maintaining a fork. That is a real difference for anyone on that hardware. I want to be clear about what this does not change. A governance seat is not a benchmark, and the silicon itself is not suddenly matching an H100 on throughput. More than 250 Chinese organizations were already contributing to foundation projects before these seats existed. What changed is who has input on framework architecture decisions. Both companies that took those seats are lines in CNQQ, with Alibaba at 8.67% and Cambricon at 2.62% of the latest published holdings. The accelerator maker is a small fraction next to the internet and cloud line. CQQQ overlaps on the larger names but draws from a narrower mainland slice."
     },
     {
-      "title": "used chatgpt and claude side by side for two weeks for writing. here's what actually happened",
-      "author": "aiprotivity_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdohel/used_chatgpt_and_claude_side_by_side_for_two/",
-      "published": 1789151376.0,
+      "title": "Wtf Mods",
+      "author": "vibrance9460",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdsxhd/wtf_mods/",
+      "published": 1789161084.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "not a \"which is best\" post because that question is boring. just what i noticed. claude sounds more like a person. when i ask for feedback it actually disagrees with me instead of \"great idea, here's how to make it even better.\" chatgpt is faster to just get stuff out and better when i'm too tired to explain what i want. thing nobody says: the difference matters way less than how well you explain what you want. bad prompt, bad output, both of them. i kept both and that's probably the honest answer most people don't want to hear"
+      "description": "I posted 11 quotes, with sources, from top scientists They were all predicting doom. You labeled it \u201cGOSSIP\u201d YOU GUYS ARE PART OF THE PROBLEM"
     },
     {
-      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
-      "author": "absolut_st",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
-      "published": 1789151096.0,
-      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "title": "Comparing Continued Pretraining to RAG (accuracy and performance)",
+      "author": "funJS",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdsbb0/comparing_continued_pretraining_to_rag_accuracy/",
+      "published": 1789159703.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Do output compression tools still matter with newer AI models?",
-      "author": "Bartaseth",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdlf3k/do_output_compression_tools_still_matter_with/",
-      "published": 1789144784.0,
-      "thumbnail": "https://preview.redd.it/iy0y29og5xoh1.png?width=640&crop=smart&auto=webp&s=1e81b3cb8b6b8b1a70e581ed11cf283e0ef78dbb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We tried to answer this question by validating one of the most popular tool in this area: RTK (Rust Token Killer). We used Claude Code with Fable 5.0, and OpenCode with DeepSeek V4 Pro 0813 through OpenRouter on Terminal-Bench 2.1 Research and results: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/"
+      "description": "Mostly as a fun experiment I wanted to do a quick comparison of performance and accuracy between a CPT trained QWEN 3.5 4B model and a RAG implementation against the base model. The point of this exercise is mostly to measure the performance benefit of internalizing the knowledge vs doing reasoning on-the-fly. Sharing my findings here in case anyone is interested: https://www.teachmecoolstuff.com/viewarticle/comparing-rag-and-continued-pretraining-of-llms"
     }
   ],
-  "fetched_at": "2026-09-11T19:07:02.083347+00:00"
+  "fetched_at": "2026-09-11T21:50:50.843964+00:00"
 }
