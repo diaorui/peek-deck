@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4664,
+      "stars": 4696,
       "stars_display": "4.7k",
-      "forks": 583,
-      "forks_display": "583",
+      "forks": 584,
+      "forks_display": "584",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-11T06:17:41Z"
+      "updated_at": "2026-09-11T15:57:32Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -52,10 +52,10 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3565,
+      "stars": 3566,
       "stars_display": "3.6k",
-      "forks": 456,
-      "forks_display": "456",
+      "forks": 457,
+      "forks_display": "457",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-10T21:37:53Z"
@@ -68,7 +68,7 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 3420,
+      "stars": 3427,
       "stars_display": "3.4k",
       "forks": 223,
       "forks_display": "223",
@@ -84,10 +84,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2547,
+      "stars": 2550,
       "stars_display": "2.5k",
-      "forks": 163,
-      "forks_display": "163",
+      "forks": 165,
+      "forks_display": "165",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -106,13 +106,35 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2326,
+      "stars": 2339,
       "stars_display": "2.3k",
-      "forks": 89,
-      "forks_display": "89",
+      "forks": 90,
+      "forks_display": "90",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-09T09:54:11Z"
+    },
+    {
+      "full_name": "google/artemis",
+      "name": "artemis",
+      "owner": "google",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
+      "url": "https://github.com/google/artemis",
+      "preview_image": "https://opengraph.githubassets.com/63893f63855826da66a27c278c392062235439542cbf101b9927ee7b7f639048/google/artemis",
+      "stars": 2108,
+      "stars_display": "2.1k",
+      "forks": 190,
+      "forks_display": "190",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "android",
+        "google",
+        "test-automation",
+        "testing"
+      ],
+      "updated_at": "2026-09-11T08:48:56Z"
     },
     {
       "full_name": "duty1g/x64dbg-mcp-server",
@@ -122,10 +144,10 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1930,
+      "stars": 1935,
       "stars_display": "1.9k",
-      "forks": 194,
-      "forks_display": "194",
+      "forks": 195,
+      "forks_display": "195",
       "language": "Zig",
       "topics": [
         "ai-agents",
@@ -137,26 +159,20 @@
       "updated_at": "2026-09-10T17:54:29Z"
     },
     {
-      "full_name": "google/artemis",
-      "name": "artemis",
-      "owner": "google",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4",
-      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
-      "url": "https://github.com/google/artemis",
-      "preview_image": "https://opengraph.githubassets.com/63893f63855826da66a27c278c392062235439542cbf101b9927ee7b7f639048/google/artemis",
-      "stars": 1820,
+      "full_name": "amosblomqvist/learn",
+      "name": "learn",
+      "owner": "amosblomqvist",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "description": "My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
+      "stars": 1775,
       "stars_display": "1.8k",
-      "forks": 174,
-      "forks_display": "174",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "android",
-        "google",
-        "test-automation",
-        "testing"
-      ],
-      "updated_at": "2026-09-11T08:48:56Z"
+      "forks": 178,
+      "forks_display": "178",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-08-25T21:49:59Z"
     },
     {
       "full_name": "diudiu-tech/delivery-harness",
@@ -173,28 +189,12 @@
       "language": "Java",
       "topics": [],
       "updated_at": "2026-09-10T09:54:51Z"
-    },
-    {
-      "full_name": "amosblomqvist/learn",
-      "name": "learn",
-      "owner": "amosblomqvist",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "description": "My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1761,
-      "stars_display": "1.8k",
-      "forks": 177,
-      "forks_display": "177",
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-08-25T21:49:59Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-08-12",
   "days": 30,
   "limit": 10,
-  "total_count": 454500,
-  "fetched_at": "2026-09-11T11:42:46.449270+00:00"
+  "total_count": 457459,
+  "fetched_at": "2026-09-11T15:59:36.120281+00:00"
 }

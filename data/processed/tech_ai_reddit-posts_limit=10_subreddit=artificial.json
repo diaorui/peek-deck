@@ -35,6 +35,17 @@
       "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
     },
     {
+      "title": "5 things I've noticed that still make AI video read as AI",
+      "author": "NewPhoneWhotiz",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
+      "published": 1789120073.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
+    },
+    {
       "title": "Built an AI memory system that actually refuses to hallucinate",
       "author": "Unikum_01",
       "url": "https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/",
@@ -57,15 +68,15 @@
       "description": null
     },
     {
-      "title": "How Google AI \"thinks\"",
-      "author": "real_maximpulse",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd70i1/how_google_ai_thinks/",
-      "published": 1789104120.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Got this as text in a search on a particular kind of plant, \" Pet Safety: Note that areca palms are considered [non-toxic or safe? wait, check snippet 0.6.1 says \"Unsafe For Pets\"]\u2014actually let's look at 0.6.1: \"Pet Toxicity Pet Friendly: Unsafe For Pets\" is listed under one vendor attribute, but Dypsis lutescens is generally non-toxic to cats and dogs according to ASPCA, though 0.6.1 says unsafe for pets or specifies plastic/other. Wait, let's keep it simple and skip unverified pet info, or just focus on standard care. Let's see general care guide from The Spruce. [1, 2, 3]\" Notice all the \"hidden\"notes the researchers or AI wrote to themselves or itself?"
+      "title": "Mathematicians confront the AI apocalypse",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/",
+      "published": 1789136503.0,
+      "thumbnail": "https://external-preview.redd.it/98v1Qor89x9KNnv_2V6zaDIm_yiX-sRZl_07NnfnNVw.jpeg?width=640&crop=smart&auto=webp&s=8abfd1b6c83c522d02a1086bc75de949f52c81a0",
+      "external_url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
     },
     {
       "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
@@ -79,26 +90,15 @@
       "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
     },
     {
-      "title": "5 things I've noticed that still make AI video read as AI",
-      "author": "NewPhoneWhotiz",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdbmwj/5_things_ive_noticed_that_still_make_ai_video/",
-      "published": 1789120073.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have been messing around with generated videos for a while, and did a bit of research trying to figure out why clips that look great on their own can still feel off when you put them in sequence. It's mostly not the obvious stuff people used to complain about. The physics of small things, Faces and bodies are getting pretty convincing, but smaller physical details still give away constantly. Hair, clothes, water, smoke, loose objects, etc. are things that our brains are wired to notice when they're not behaving correctly. A coat that looks like it has no weight to it is the easiest tell. Specifing material, weight and how it should move instead of just describing how it looks tends to somewhat do the trick. (Here's a CogVideoX tech paper on unnatural physics.) The camera has no operator, Real hand held footage has breathing, hesitation, little corrections and changes in speed. Generated hand held gets the general movement right but smooths out the small human imperfections. For example, a clip that's supposed to feel like a person running away from an SCP or something with a camera ends up feeling more like a gimbal or drone. Can't figure out how to fix at generation, so I just add actual handheld movement in post. Everything sits at roughly the same distance from the lens, This one kept showing up in my own generations. You can have technically different shots, but they all end up with roughly the same framing and subject size, the sequence starts feeling weird before I can explain why. Real coverage tends to jump between wides, mediums, close-ups, inserts, reaction shots etc. Six medium-ish shots in a row feels ... Wrong. Specifying the shot size everytime tends to alleviate it. (Link here for what I researched through) Light does not carry between shots, This one's brutal. Two shots can look completely believable on their own, but if one has the key light/sun coming from the left and the next cut shows it coming from somewhere completely different, it immediately seems artificial. There are actual papers researching this so I am apparently not the only person annoyed. Mostly seems like a workflow problem imo. Locking the time of day, general light direction and quality then keep repeating it seems like a good choice. Uniform shot length, Everything comes out around the same length that the tool gives you, so it's really easy to just use the whole clip everytime. Do that five or six times in a row and suddenly! You're watching a slideshow instead of a sequence. Shot duration and editing rhythm obviously aren't an AI specific problem, but there's plenty of film research on how much they affect pacing and perception. This one is completely fixable in post, but people really underestimate how much it matters. (Link!) These are just things I have started noticing the most. I'm curious as to see what others have found. What's your AI-Video tell that you just can't unsee?"
-    },
-    {
-      "title": "Why can't I generate some friticional characters on major AI services",
-      "author": "Objective-Cry-3825",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdbew4/why_cant_i_generate_some_friticional_characters/",
-      "published": 1789119294.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I've tried to generate Iron Man's depth of view image on an AI website, but it's unsuccessful. Any idea on what's happening."
+      "title": "AI in Anti-Money Laundering: Use Cases, Benefits & How It Works",
+      "author": "Sumsub_Insights",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdf24n/ai_in_antimoney_laundering_use_cases_benefits_how/",
+      "published": 1789130151.0,
+      "thumbnail": "https://external-preview.redd.it/oTqe9LM3rjYnyKKfVZCA4lCYYX26ZBecDjEPK6JDjII.png?width=640&crop=smart&auto=webp&s=501ddae115d85310b4b838df8a8022e5e918a510",
+      "external_url": "https://sumsub.com/blog/ai-in-anti-money-laundering-and-compliance/?utm_source=reddit&utm_medium=social",
+      "site_name": "Sumsub",
+      "favicon": "https://sumsub.com/apple-touch-icon.png",
+      "description": "Discover how AI helps institutions adapt to evolving AML compliance demands and financial crime risks in 2026."
     },
     {
       "title": "Genuine Question About Citizenship",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2026-09-11T11:42:48.706726+00:00"
+  "fetched_at": "2026-09-11T15:59:37.394163+00:00"
 }

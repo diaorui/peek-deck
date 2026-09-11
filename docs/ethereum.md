@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-11T11:43:15.476360+00:00'
+updated: '2026-09-11T16:00:13.558241+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 11:43 UTC  
+**Last Updated:** September 11, 2026 at 16:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,460.98
+### $2,614.81
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** -0.9%  
-**30d:** +30.3%  
-**90d:** +42.4%  
-**1y:** -47.6%  
+**24h:** +4.5%  
+**7d:** +3.1%  
+**30d:** +35.5%  
+**90d:** +48.0%  
+**1y:** -45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.69B
+**Market Cap:** $312.11B
 Rank #2
 
 **Circulating Supply:** 122,038,476 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.3%
+-48.3%
 
 **All-Time Low:** $0.43
-+567324.7%
++591046.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Solidity 0.8.37 Released](https://www.reddit.com/r/ethereum/comments/1wckwup/solidity_0837_released/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won’t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?
 
-19h ago
+23h ago
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum co-founder Vitalik Buterin has proposed a new system that could change 
 
 Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasury toward a staggering size that rivals its entire stock market value. But the real question is whether this buying spree moves the price of ETH or simply makes BMNR a turbocharged bet on a coin that has already lost half its value from peak.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -162,29 +162,27 @@ Fortune • 1d ago
 
 The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
 
-The Block • 22h ago
+The Block • 1d ago
 
 ---
 
-**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://finance.yahoo.com/markets/crypto/articles/bitmine-just-made-largest-ethereum-113000644.html)**
+**[Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%](https://finance.yahoo.com/markets/crypto/articles/bitmine-surges-8-ethereum-strength-144117927.html)**
 
-Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
+Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
 
-Yahoo Finance • 13m ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html)**
-
-Bitcoin opened at $76,535.95 on Friday, September 11, 2026, 2.2% lower than Thursday's opening price. As of 7:23 a.m. ET this morning, the price of bitcoin shifted to $76,758.63. Ethereum opened at $2,437.02 today, down 1.2% from Thursday's opening price. The price of ethereum moved to $2,453.68 as of 7:23 a.m. ET.
-
-Yahoo Finance • 4m ago
+finance.yahoo.com • 1h ago
 
 ---
 
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
 
-CoinDesk • 1d ago
+MarketWatch • 2h ago
+
+---
+
+**[$Ethereum(ETH.CC)$ Hits $2,600, Highest Since](https://www.moomoo.com/news/post/76153127/ethereum-hits-2600-highest-since-january-2026-eth-related-stocks)**
+
+Moomoo • 1h ago
 
 ---
 
@@ -192,7 +190,21 @@ CoinDesk • 1d ago
 
 Leading cryptocurrencies dropped further on Thursday after hotter-than-expected producer inflation trimmed investors’ risk appetite.Crypto Slide ContinuesBitcoin dipped below $77,000 as selling pressure accelerated. Ethereum meandered in the $2,400 region, with volume spiking 10% over the last 24 h…
 
-TradingView • 9h ago
+TradingView • 14h ago
+
+---
+
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/)**
+
+Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -200,15 +212,7 @@ TradingView • 9h ago
 
 MONACO, Sept.  10, 2026  (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe after the presale announced over $2.64 million raised, ...
 
-markets.businessinsider.com • 7h ago
-
----
-
-**[Ethereum liquidity is rising – Could ETH steal Bitcoin’s spotlight in Q4?](https://ambcrypto.com/ethereum-liquidity-is-rising-could-eth-steal-bitcoins-spotlight-in-q4/)**
-
-Ethereum liquidity is diverging as ETH gains demand from staking, stablecoins, and on-chain activity, boosting ETH/BTC's Q4 outlook.
-
-AMBCrypto • 7h ago
+markets.businessinsider.com • 11h ago
 
 ---
 
@@ -220,15 +224,19 @@ blockchain.news • 1d ago
 
 ---
 
-**[Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained](https://www.etf.com/sections/features/crypto-etfs-2026-bitcoin-ethereum-and-altcoin-wave-explained)**
-
-ETF.com • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 1K • 👍 194 • 💬 147 • ⏱️ 17:30 • 1h ago
+
+---
 
 **[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
 
@@ -236,7 +244,7 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 1K • 💬 14 • ⏱️ 9:10 • 1d ago
+👁️ 17K • 👍 1K • 💬 15 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -246,7 +254,7 @@ ETH could push towards $2750 before a deeper pullback. A break above $2545–$25
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 207 • 💬 7 • ⏱️ 12:26 • 11h ago
+👁️ 8K • 👍 240 • 💬 10 • ⏱️ 12:26 • 15h ago
 
 ---
 
@@ -256,7 +264,17 @@ You heard it here first. What is expected to be the largest and most intense alt
 
 📺 The Modern Investor
 
-👁️ 17K • 👍 976 • 💬 257 • ⏱️ 28:10 • 2d ago
+👁️ 17K • 👍 978 • 💬 257 • ⏱️ 28:10 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=dOUrDpumSBg)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 222 • 👍 42 • ⏱️ 5:24 • 1h ago
 
 ---
 
@@ -266,17 +284,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 286 • 💬 25 • ⏱️ 14:25 • 2d ago
+👁️ 15K • 👍 288 • 💬 25 • ⏱️ 14:25 • 2d ago
 
 ---
 
-**[BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aNleUnYn8X0)**
+**[ETH Is PUMPING As PREDICTED!](https://www.youtube.com/watch?v=4-uGoCu4YNo)**
 
-BITCOIN PULLBACK: BEARISH PRICE TARGETS REVEALED!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+eth is pumping as predicted! #eth #ethereum #crypto.
 
-📺 Crypto World
+📺 Data Zero
 
-👁️ 9K • 👍 296 • 💬 57 • ⏱️ 20:01 • 13h ago
+👁️ 132 • 👍 1 • ⏱️ 0:16 • 1h ago
+
+---
+
+**[ETHEREUM LOOKS STRONG TODAY!🔥 (ETH Update)](https://www.youtube.com/watch?v=OENsZ1GLxPY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 225 • 👍 17 • 💬 2 • ⏱️ 5:18 • 6h ago
 
 ---
 
@@ -286,47 +314,17 @@ BitMEX co-founder Arthur Hayes still sees $1M Bitcoin by 2030, but for near-term
 
 📺 The Bureau Podcast
 
-👁️ 3K • 👍 50 • 💬 2 • ⏱️ 0:56 • 2d ago
+👁️ 3K • 👍 51 • 💬 2 • ⏱️ 0:56 • 2d ago
 
 ---
 
-**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=mMujl7XlSNk)**
+**[Live Crypto and Gold Trading | Live Trading BTC ETH | XAU-USD Live Trading](https://www.youtube.com/watch?v=oyH2iB_s0Yg)**
 
-ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
 
-📺 More Crypto Online
+📺 Invest For Wealth
 
-👁️ 322 • 👍 20 • 💬 1 • ⏱️ 2:42 • 6h ago
-
----
-
-**[Ethereum&#39;s Massive Price Surge: What&#39;s Next? #shorts](https://www.youtube.com/watch?v=iumUvsxCxgw)**
-
-Ethereum's strong price action hints at what's next for crypto. While traders focus on daily charts, true wealth comes from a ...
-
-📺 🌟yourfriendsommi
-
-👁️ 92 • 👍 4 • ⏱️ 1:29 • 6h ago
-
----
-
-**[ETH Just Flipped BULLISH And I&#39;m Already Long!! #ethereum](https://www.youtube.com/watch?v=0XshAWrPAFs)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 29 • 💬 48 • ⏱️ 5:04 • 2d ago
-
----
-
-**[The Ethereum-Bitcoin Crash and the Tupac Trial Verdict](https://www.youtube.com/watch?v=mWiKpvDvwA8)**
-
-In this video, I will be sharing information that I feel confirms the timeline for the Ethereum crash and BTC 80% crash. Prophesy in ...
-
-📺 Thepraise02
-
-👁️ 2K • 👍 112 • 💬 53 • ⏱️ 10:38 • 1d ago
+👁️ 2K • 👍 353 • 1h ago
 
 ---
 
