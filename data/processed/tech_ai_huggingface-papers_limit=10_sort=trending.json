@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 3733,
+      "github_stars": 4096,
       "project_page": null
     },
     {
@@ -54,8 +54,27 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87580,
+      "github_stars": 87651,
       "project_page": null
+    },
+    {
+      "id": "2503.08638",
+      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
+      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
+      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
+      "hf_url": "https://huggingface.co/papers/2503.08638",
+      "arxiv_url": "https://arxiv.org/abs/2503.08638",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
+      "upvotes": 75,
+      "num_comments": 3,
+      "published_at": "2025-03-11T13:26:50.000Z",
+      "github_repo": "https://github.com/multimodal-art-projection/YuE",
+      "github_stars": 7205,
+      "project_page": "https://map-yue.github.io/"
     },
     {
       "id": "2609.08936",
@@ -69,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 213,
+      "upvotes": 214,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
@@ -153,25 +172,6 @@
       "project_page": null
     },
     {
-      "id": "2503.08638",
-      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
-      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
-      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
-      "hf_url": "https://huggingface.co/papers/2503.08638",
-      "arxiv_url": "https://arxiv.org/abs/2503.08638",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
-      "upvotes": 75,
-      "num_comments": 3,
-      "published_at": "2025-03-11T13:26:50.000Z",
-      "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 6962,
-      "project_page": "https://map-yue.github.io/"
-    },
-    {
       "id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
       "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-12T18:09:31.954756+00:00"
+  "fetched_at": "2026-09-12T20:47:50.991486+00:00"
 }
