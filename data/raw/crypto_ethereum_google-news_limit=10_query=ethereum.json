@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT05oSWNrMFp4ZDNuVFQ1X1UxTHNGUHVScEZOQmxQbV9iYjFzQ05ISnA3c0hHYUZpWE13eGdiVUZibVhJNFdRU0Zjd0lEYjFuNlFHR3JGSThUTVA0UFZidzRZR2JyaGhqdEd4dlFtQzhQRmNKR1pHWkJMVVpQTzhmNVB3c09oWDF4OWhMNEV4ZzYwTl9jSmVYTA?oc=5",
-      "pub_date": 1789139029.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
-      "description": "About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions."
-    },
-    {
-      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
-      "pub_date": 1788967800.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
@@ -33,6 +13,16 @@
       "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/",
       "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
       "description": "We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict."
+    },
+    {
+      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT05oSWNrMFp4ZDNuVFQ1X1UxTHNGUHVScEZOQmxQbV9iYjFzQ05ISnA3c0hHYUZpWE13eGdiVUZibVhJNFdRU0Zjd0lEYjFuNlFHR3JGSThUTVA0UFZidzRZR2JyaGhqdEd4dlFtQzhQRmNKR1pHWkJMVVpQTzhmNVB3c09oWDF4OWhMNEV4ZzYwTl9jSmVYTA?oc=5",
+      "pub_date": 1789139029.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
+      "description": "About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions."
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
@@ -45,6 +35,36 @@
       "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
     },
     {
+      "headline": "Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDA5QUZVS3AyUGZGR05Nejhjcnp4dWo1STFuVmk3N1BrT2dyOUNLeTFKeU5RMjdwZ3lpYmpTZHh2bmowUlZ0cmFjcXpaYnZTbUpKa19aZ0NabzNPMlVSUS01ajJDZFBReXlsbkV2UW5OVUdFS2s2YWFMODF1aUVRZlZqdXNDUXBMdG5EMkNZV2FjNWpHMXIyTTc4ZUc0Rm1TWVRCZDFURXZVWmlTc05xc3J4ZEF5YXMzZ1cxU2tYNWFCbmxEVTc0MkFwenljQUU3R0tQSl9sT1dueGc?oc=5",
+      "pub_date": 1789187220.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:30416ef3b094b:0-bitcoin-etfs-see-13m-outflows-while-ethereum-etfs-pull-in-216m-in-a-single-day/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th\u2026"
+    },
+    {
+      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
+      "pub_date": 1788967800.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDRRd1R2UndNOUhlXzZFSXlIc19RNDlaZlZLWVYyeEc2QmotdnFweGdqRE1DNUZYZWNDemxhMFRBU1RGSlpJRFhScGVxN1FJN0dYUTZVS0pBYVdlakIxMjcxZ2VWalVHM2V3MWRiaV83OThiRmtiNUo1blNTQ3F2R1VJRmNQTml4VTFGYlF4NHdWV2NFS1N6ZG5pZ3hPTHJQNUw5WWdBNnY0aWNYaE9HNjNFLTNiNm1ial9RM1pfQXhLaTVreUtjY2RxbTFGNVl6VFFxWktSTXowREplcG4zaw?oc=5",
+      "pub_date": 1789045200.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
+      "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
+      "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
+    },
+    {
       "headline": "New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -53,6 +73,16 @@
       "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062",
       "image": "https://ml.globenewswire.com/Resource/Download/cd3d10cc-0681-4dd3-b68f-29550bc9df8f/pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000.jpg",
       "description": "DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number..."
+    },
+    {
+      "headline": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVN5cG1uUGxRUnZRSm1US3BWME9SZG9HVGNfbFRKRWExdjItMHBlcnkzUFR6SnU2SUVPQ0k2QllJaHlIbFlBWGdscEJVVzNYalpTcTNkcmh2U0ZTaVhJTk5McFUwdWYzVC1Ea1llTHNVUEY1NEExSVc2a3FRdzNPM09EX3hXRnF5RlRnQndwb0pOX2lLY1drS1dOSm4zM01ZQlpWUzEtZ2RJZmxiOHc?oc=5",
+      "pub_date": 1789134646.0,
+      "article_url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
+      "description": "A 10-year study found more than 50% of Bitcoin\u2019s daily variance now clusters around US trading hours, with the peak moving alongside New York\u2019s clock."
     },
     {
       "headline": "Ethereum: Hits R2 Resistance on Opportunity Channel",
@@ -73,38 +103,8 @@
       "article_url": "https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUjVsa2lDdkRsTGQ4cWY1VDZqQmhUU0R2ZjUzejRMbjdPd25OQ0tCdi1wNWpZVnhBakZZZUd2bk1PMjJ0WTZmRmwzNUFoQXBINnlIMlhCenhWMTI5a3NvQUdIWHJpWHotc3BEVWc0U3RWaUt4OUp1cG02ZjhhclVtcm8tYktkaktWZTVYUGZQcnd2YmQ2akNXVg?oc=5",
-      "pub_date": 1789128600.0,
-      "article_url": "https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886077%2Fperson-looking-thoughtfully-at-screen-computer.jpg&w=1200&op=resize",
-      "description": "Digital asset treasury companies are helping to keep a floor under the price of Ethereum."
-    },
-    {
-      "headline": "Ethereum Glamsterdam Upgrade Tentatively Set for Sepolia on October 6, Mainnet Date Still Uncertain",
-      "source": "FinanceFeeds",
-      "source_url": "https://financefeeds.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2NuQ0xJRDhQdnR1NGJyVVVyOW1iaXlOTTc5VXIyT3lvNFBqVUdfcjdNOS00T0gzRWxpVnVob091aFZvZ21SaUQxODRSUGVNdklwb0Zpb0hGNnB1ZU56a1lHcXUtZTNaVUNxcTd3OUNXOWdsSmlWSGh0TENrY2Z5WGRUQmRaazQxcEgySFZDb09SODVXdHd6SFVtODVVclp1XzA3eUs4VVh3ZE1ZOWxyRlpEcmxHbG82SFNYamdYdTdMQQ?oc=5",
-      "pub_date": 1789108309.0,
-      "article_url": "https://financefeeds.com/ethereum-glamsterdam-upgrade-tentatively-set-for-sepolia-on-october-6-mainnet-date-still-uncertain/",
-      "image": "https://financefeeds.com/wp-content/uploads/2026/07/How-to-Implement-Peer-to-Peer-Data-Availability-Sampling-PeerDAS-Under-the-New-Ethereum-Framework.png",
-      "description": "Ethereum developers have tentatively agreed to activate the Glamsterdam upgrade on the Sepolia testnet on October 6 at 13:53 UTC, providing the clearest"
-    },
-    {
-      "headline": "Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDJuWjNqbFpZN1ZIYXdRTk9aZXI0UC00OHdTU0Z1Q091ekVaTTBUTHM5Q0l6al9FeXAzeV83dEJJa3NTeTlKYldQVWI1SVptN0ZnajFEM1J6RWtXSGtQeFNrQ1ZhdmdjSDlzT1REMEE2TURNa1d2YktEWmhobERHSTNSSEZDNW9kaVkyQVphS3p3NWd3Z2dsa2JHNEppLXdW?oc=5",
-      "pub_date": 1789137677.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-surges-8-ethereum-strength-144117927.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/47b5cce749ead1bfda124e892b88ec284e8f1d98a64a0d53c9f7557c6b0b5e5b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1f04afb2d06284eb26f3d7301648a106.jpg",
-      "description": "Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T12:18:38.522731+00:00"
+  "fetched_at": "2026-09-12T15:44:39.289423+00:00"
 }

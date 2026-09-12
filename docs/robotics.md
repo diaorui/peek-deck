@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T12:18:40.104560+00:00'
+updated: '2026-09-12T15:44:46.488402+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 12:18 UTC  
+**Last Updated:** September 12, 2026 at 15:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 For robots to truly enter our homes, they need hands that are not only capable — but also soft and safe. SoftSync FlexHand V1 can gently handle delicate objects like tofu, eggs, buns, and strawberries, while its compliant structure also enables safer physical interaction with people and everyday objects. A softer hand for robots interacting with the real world. #SoftSyncFlexHand #EmbodiedAI #DexterousHand #SoftRobotics #HomeRobotics
 
-20h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 “Dull, dirty, dangerous” gets used constantly as the case for robotics. Kate Darling’s point here is that the industry often skips a pretty important step: actually defining what those jobs are from the worker’s perspective. She gives sanitation work as an example. On paper, trash collection seems like an obvious target for automation. But some automation proposals can also remove the part of the job workers actually enjoy. The better approach may be less about replacing the entire task and more about using robotics to remove the dangerous or repetitive parts without making the job worse. It gets at a bigger issue in robotics: the people building the systems aren’t always the people doing the work they’re trying to automate. Full episode: https://www.youtube.com/watch?v=odORVBoO7ss
 
-21h ago
+1d ago
 
 ---
 
@@ -52,19 +52,19 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
 
-16h ago
+20h ago
 
 ---
 
 **[I am 14 and kinda proud of myself.](https://www.reddit.com/r/robotics/comments/1wclckh/i_am_14_and_kinda_proud_of_myself/)**
 
-1d ago
+2d ago
 
 ---
 
 **[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
-15h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 17h ago
+🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 21h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I added ROS to my app #smartphone #tech #andriod #robot #robotics #autonomousvehicles
 
-🔗 [YouTube](https://www.youtube.com/shorts/aQ_2-2e3cTc) • 22h ago
+🔗 [YouTube](https://www.youtube.com/shorts/aQ_2-2e3cTc) • 1d ago
 
 ---
 
@@ -120,7 +120,15 @@ CNBC • 1d ago
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Construction robots attack America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
+
+America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
+
+CNBC • 2h ago
 
 ---
 
@@ -130,25 +138,25 @@ Reuters • 1d ago
 
 ---
 
-**[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
-
-The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-
-TechCrunch • 13h ago
-
----
-
 **[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
 
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
-The Diplomat – Asia-Pacific Current Affairs Magazine • 21h ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 ---
 
-**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+**[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
 
-New tactile datasets could solve a longstanding challenge in robotics
+The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+
+TechCrunch • 16h ago
+
+---
+
+**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
+
+Your weekly selection of awesome robot videos
 
 IEEE Spectrum • 1d ago
 
@@ -156,7 +164,7 @@ IEEE Spectrum • 1d ago
 
 **[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
 
-Gizmodo • 18h ago
+gizmodo.com • 21h ago
 
 ---
 
@@ -174,14 +182,6 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
-
-MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
-
-The Japan Times • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +192,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 805K • 👍 9K • 💬 1K • ⏱️ 5:02 • 3d ago
+👁️ 855K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 📺 DPCcars
 
-👁️ 10K • 👍 67 • 💬 34 • ⏱️ 2:18 • 4d ago
+👁️ 10K • 👍 67 • 💬 34 • ⏱️ 2:18 • 5d ago
 
 ---
 
@@ -212,17 +212,17 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 50K • 👍 215 • 💬 53 • ⏱️ 3:39 • 2d ago
+👁️ 52K • 👍 224 • 💬 54 • ⏱️ 3:39 • 3d ago
 
 ---
 
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
 
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
 
-📺 XPENG
+📺 States 2050
 
-👁️ 334K • 👍 3K • 💬 309 • ⏱️ 5:52 • 3d ago
+👁️ 647K • 👍 10K • 💬 512 • ⏱️ 23:25 • 4d ago
 
 ---
 
@@ -232,7 +232,17 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 📺 Milk Road Stocks
 
-👁️ 14K • 👍 226 • 💬 24 • ⏱️ 48:57 • 4d ago
+👁️ 14K • 👍 226 • 💬 24 • ⏱️ 48:57 • 5d ago
+
+---
+
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+
+📺 XPENG
+
+👁️ 350K • 👍 3K • 💬 312 • ⏱️ 5:52 • 3d ago
 
 ---
 
@@ -242,7 +252,7 @@ Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speak
 
 📺 Sky News
 
-👁️ 33K • 👍 188 • 💬 142 • ⏱️ 6:28 • 4d ago
+👁️ 33K • 👍 189 • 💬 143 • ⏱️ 6:28 • 4d ago
 
 ---
 
@@ -252,17 +262,7 @@ Unitree R1 humanoid Robot.
 
 📺 İncelemedeyim
 
-👁️ 166K • 👍 2K • 💬 96 • ⏱️ 0:59 • 5d ago
-
----
-
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
-
-PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
-
-📺 LIGHTS ARE OFF
-
-👁️ 6.1M • 👍 100K • 💬 13K • ⏱️ 25:44 • 6d ago
+👁️ 168K • 👍 2K • 💬 96 • ⏱️ 0:59 • 5d ago
 
 ---
 
@@ -272,17 +272,17 @@ Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spot
 
 📺 RICHLEV
 
-👁️ 487K • 👍 9K • 💬 2K • ⏱️ 38:26 • 4d ago
+👁️ 499K • 👍 9K • 💬 2K • ⏱️ 38:26 • 4d ago
 
 ---
 
-**[Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat](https://www.youtube.com/watch?v=qkIJELDgULA)**
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
 
-UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic ...
+PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
 
-📺 Unitree Robotics
+📺 LIGHTS ARE OFF
 
-👁️ 414K • 👍 727 • 💬 137 • ⏱️ 0:39 • 5d ago
+👁️ 6.2M • 👍 101K • 💬 13K • ⏱️ 25:44 • 6d ago
 
 ---
 

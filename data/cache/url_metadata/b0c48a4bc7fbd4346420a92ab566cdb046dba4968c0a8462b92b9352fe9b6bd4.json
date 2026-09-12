@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-12T15:44:22.952186+00:00",
+  "data": {
+    "url": "https://www.rubyhack.ai/",
+    "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+    "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.",
+    "image": "https://rubyhack.ai/img/rubyhack-social.png?v=2",
+    "favicon": "https://www.rubyhack.ai/apple-touch-icon.png",
+    "site_name": "The RubyGems attack",
+    "author": "Spencer Kitts, Thomas Larsen, Sydney Von Arx",
+    "keywords": null
+  }
+}
