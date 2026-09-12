@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-12T20:48:05.310799+00:00'
+updated: '2026-09-12T22:52:23.163461+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 20:48 UTC  
+**Last Updated:** September 12, 2026 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,533.15
+### $2,524.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
+**24h:** +0.2%  
 **7d:** +0.3%  
 **30d:** +34.0%  
 **90d:** +40.4%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.77B
+**Market Cap:** $307.70B
 Rank #2
 
 **Circulating Supply:** 122,041,373 ETH
@@ -62,7 +62,7 @@ No max supply
 -49.0%
 
 **All-Time Low:** $0.43
-+582196.1%
++582203.1%
 
 ---
 
@@ -110,7 +110,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 2d ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 3d ago
 
 ---
 
@@ -158,43 +158,27 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
+**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
+
+Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum staking fees vary widely, with providers taking 0-50% of rewards, impacting net yields significantly.](https://pluang.com/en/news-feed/biaya-staking-ethereum-perbandingan-14-penyedia)**
 
 A survey of 14 Ethereum staking providers accessible in Germany reveals that only five clearly state their commission fees, which range from 0% to 50% depending on the reward component. The network's annual percentage rate (APR) was 2.46% on September 12, 2026, meaning commissions can significantly reduce investors' net returns. Providers often split fees between consensus layer rewards and execution layer tips (MEV), making comparisons complex. Many popular custodians like Kraken and Bitpanda do not disclose exact fees upfront, complicating transparency. Investors should verify commission rates in writing, consider waiting times in the staking queue, and understand tax implications before staking Ethereum.
 
-Pluang • 1h ago
-
----
-
-**[Ethereum's Glamsterdam upgrade faces bugs, dela...](https://pluang.com/en/news-feed/ethereum-bug-mengancam-jadwal-glamsterdam)**
-
-Ethereum aims to activate the Glamsterdam upgrade on the Sepolia testnet by October 6, but unresolved bugs and network finalization issues on the devnet-9 with 1,000 validators have made this date uncertain. A critical bug related to EIP-8037 requires execution layer client updates, causing further delays. Developers are now focusing on a new devnet-11 test before confirming the timeline. The mainnet deployment remains targeted for Q4 2026 without a fixed date, as the upgrade involves significant changes to Ethereum's block building and verification processes.
-
 Pluang • 3h ago
 
 ---
 
-**[Ethereum eyes major breakout, targeting $15,000 after retesting key resistance zone.](https://pluang.com/en/news-feed/ethereum-menguji-zona-resistensi-multi-tahun-dengan-potensi-breakout-target)**
+**[Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86% ahead of Sept 16 meeting.](https://pluang.com/en/news-feed/bitcoin-eth-xrp-tertekan-kenaikan-suku-bunga-fed-16-september)**
 
-Ethereum is potentially setting up for a major breakout as it retests a multi-year resistance zone for the third time, following a period of strong accumulation support. Analysts note this pattern resembles Ethereum's 2020 setup before it surged to nearly $5,000. Fundstrat's Tom Lee highlights Ethereum's role as a future settlement platform for Wall Street and AI, predicting increased investor interest and a rally. Another analyst suggests a minor correction below $2,500 could precede a rise to $2,800, indicating potential short-term volatility before a continued upward trend.
+The likelihood of a Federal Reserve interest rate hike on September 16 has surged to 86.5%, putting pressure on major cryptocurrencies like Bitcoin, Ethereum, and XRP. This potential rate increase is driven by rising U.S. inflation data, which has unsettled crypto markets. Bitcoin is consolidating near key resistance levels, Ethereum eyes a move toward $3,000 if it breaks current resistance, while XRP struggles to hold critical support at $1.35 amid whale selling and reduced network activity. The Fed's decision will significantly impact borrowing costs and risk assets, making the upcoming meeting crucial for crypto traders.
 
-Pluang • 3h ago
-
----
-
-**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html)**
-
-About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day](https://www.tradingview.com/news/cryptobriefing:30416ef3b094b:0-bitcoin-etfs-see-13m-outflows-while-ethereum-etfs-pull-in-216m-in-a-single-day/)**
-
-The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th…
-
-TradingView • 16h ago
+Pluang • 20m ago
 
 ---
 
@@ -212,11 +196,19 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/)**
+
+Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum’s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b…
+
+TradingView • 1d ago
+
+---
+
 **[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
 
 DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 15h ago
 
 ---
 
@@ -224,7 +216,15 @@ markets.businessinsider.com • 13h ago
 
 Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
 
-blockchain.news • 3h ago
+blockchain.news • 5h ago
+
+---
+
+**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
+
+A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -238,7 +238,17 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 14K • 👍 458 • 💬 55 • ⏱️ 7:35 • 8h ago
+👁️ 17K • 👍 482 • 💬 60 • ⏱️ 7:35 • 10h ago
+
+---
+
+**[ETH MASSIVE BREAKOUT IS COMING - Get Ready](https://www.youtube.com/watch?v=95M9DjBnPSY)**
+
+ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ MAXFI Tutorials: ...
+
+📺 Big Time Trades
+
+👁️ 783 • 👍 66 • 💬 10 • ⏱️ 21:47 • 6h ago
 
 ---
 
@@ -248,27 +258,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 22K • 👍 410 • 💬 128 • ⏱️ 22:54 • 19h ago
-
----
-
-**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
-
-Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
-
-📺 Crypto Capital Venture
-
-👁️ 23K • 👍 657 • 💬 485 • ⏱️ 17:30 • 1d ago
-
----
-
-**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 73 • 💬 14 • ⏱️ 9:47 • 1d ago
+👁️ 23K • 👍 420 • 💬 130 • ⏱️ 22:54 • 21h ago
 
 ---
 
@@ -278,7 +268,47 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 37K • 👍 899 • 💬 50 • ⏱️ 11:43 • 1d ago
+👁️ 38K • 👍 909 • 💬 50 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 73 • 💬 15 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 24K • 👍 661 • 💬 485 • ⏱️ 17:30 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 387 • 💬 53 • ⏱️ 1:04:53 • 1d ago
+
+---
+
+**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
+
+ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
+
+📺 D.I.Y Investing
+
+👁️ 5K • 👍 150 • 💬 28 • ⏱️ 15:04 • 1d ago
 
 ---
 
@@ -292,43 +322,13 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
 
-📺 Discover Crypto
+📺 More Crypto Online
 
-👁️ 11K • 👍 386 • 💬 53 • ⏱️ 1:04:53 • 1d ago
-
----
-
-**[🟢 They Hate Ethereum STRENGTH 🧃](https://www.youtube.com/watch?v=CJNuxaVi4Qo)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 180 • 💬 24 • ⏱️ 24:58 • 22h ago
-
----
-
-**[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
-
-These news are not helping Bitcoin and the rest of crypto. Markets are hanging by a thread! Here is all that you need to know!
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 1K • 💬 15 • ⏱️ 9:10 • 2d ago
-
----
-
-**[BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vrOZjn2ekqw)**
-
-BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 371 • 💬 351 • ⏱️ 22:03 • 18h ago
+👁️ 13K • 👍 283 • 💬 11 • ⏱️ 12:26 • 1d ago
 
 ---
 

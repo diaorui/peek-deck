@@ -2,6 +2,72 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Cubic Doggo: new friend Cubic Wouf! Just one leg at the moment though",
+      "author": "SphericalCowww",
+      "url": "https://www.reddit.com/r/robotics/comments/1weblv2/cubic_doggo_new_friend_cubic_wouf_just_one_leg_at/",
+      "published": 1789216846.0,
+      "thumbnail": "https://external-preview.redd.it/dXZtbXYzcDh5MnBoMTLtukJuXkUpMOAMAdu1JF2fuf13YnYxyPz0RrLZ1UJk.png?width=640&crop=smart&auto=webp&s=bf984cd6625342a76da4246dece9343d27872888",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T originally). In principle, it's half the price, twice the torque, but the mount design is rather odd and required a complete CAD update (+ I already killed like 3 of them by accidentally drilling all the way to their control board, geez). The high torque also means high current, and so a potential hazard if multiple of them run at high load. Need to monitor it. If it's capable of jumping, it is likely also capable of catching fire while doing it. The firmware is also updated for ST-3215, but the commander uses the original unoptimized one-leg test code, which may explain the sluggishness in its \"failed walk gait\". I am a bit afraid that if the servos simply cannot move fast enough, even with optimal PID, then making it walk may be more difficult despite higher torque. Either way, if successful, the full DIY robot would be in the 300-400 euro range (still mostly from servos), ~3 kg, with twice the load performance; all the load after the body weight will be extra! Cubic Wouf GitHub: https://github.com/SphericalCowww/CubicDoggo_07B Cubic Doggo GitHub: https://github.com/SphericalCowww/CubicDoggo_06R"
+    },
+    {
+      "title": "see and find",
+      "author": "DueHearing1315",
+      "url": "https://www.reddit.com/r/robotics/comments/1weeixz/see_and_find/",
+      "published": 1789224432.0,
+      "thumbnail": "https://external-preview.redd.it/bjgyeG9qYXFxM3BoMerEb6-CMA0dYTNW0eEV-9PeJqaLme59nL1uePcDhm3j.png?width=640&crop=smart&auto=webp&s=354720eae417ed16e462bcf2613442a17a8ab4a6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Really cool drone detection",
+      "author": "Herodont5915",
+      "url": "https://www.reddit.com/r/robotics/comments/1wenlp8/really_cool_drone_detection/",
+      "published": 1789245572.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m not sure if I\u2019m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It\u2019s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it\u2019s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h"
+    },
+    {
+      "title": "We\u2019re trying to make one soft hand useful for both robots and people",
+      "author": "LSunround",
+      "url": "https://www.reddit.com/r/robotics/comments/1weio4z/were_trying_to_make_one_soft_hand_useful_for_both/",
+      "published": 1789234235.0,
+      "thumbnail": "https://external-preview.redd.it/MHg1OXRycm9qNHBoMft-TqGumb2bYzYhnGwt93XYg087uAcZ9Tx_PaWF2RkH.png?width=640&crop=smart&auto=webp&s=cfdaff8adf0c514b1c2c625365d49f81d0315b2d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue\u2026 a few things we\u2019ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I\u2019m curious about the small, awkward tasks that don\u2019t usually make it into robot demos."
+    },
+    {
+      "title": "Does anyone have a published \"nothing is attacking it\" failure rate for their policy?",
+      "author": "Available_Teaching83",
+      "url": "https://www.reddit.com/r/robotics/comments/1wegml3/does_anyone_have_a_published_nothing_is_attacking/",
+      "published": 1789229518.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic."
+    },
+    {
+      "title": "ROS and Open Source Robotics News for the Week of September 7th, 2026",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1wdqc8b/ros_and_open_source_robotics_news_for_the_week_of/",
+      "published": 1789155283.0,
+      "thumbnail": "https://preview.redd.it/0htgkjpzyxoh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=58df17b46efb75727710f46f549ebbae986ceb64",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse."
+    },
+    {
       "title": "A Softer, Safer Hand for Home Robots",
       "author": "LSunround",
       "url": "https://www.reddit.com/r/robotics/comments/1wdjmf5/a_softer_safer_hand_for_home_robots/",
@@ -24,28 +90,6 @@
       "description": "\u201cDull, dirty, dangerous\u201d gets used constantly as the case for robotics. Kate Darling\u2019s point here is that the industry often skips a pretty important step: actually defining what those jobs are from the worker\u2019s perspective. She gives sanitation work as an example. On paper, trash collection seems like an obvious target for automation. But some automation proposals can also remove the part of the job workers actually enjoy. The better approach may be less about replacing the entire task and more about using robotics to remove the dangerous or repetitive parts without making the job worse. It gets at a bigger issue in robotics: the people building the systems aren\u2019t always the people doing the work they\u2019re trying to automate. Full episode: https://www.youtube.com/watch?v=odORVBoO7ss"
     },
     {
-      "title": "ROS and Open Source Robotics News for the Week of September 7th, 2026",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1wdqc8b/ros_and_open_source_robotics_news_for_the_week_of/",
-      "published": 1789155283.0,
-      "thumbnail": "https://preview.redd.it/0htgkjpzyxoh1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=58df17b46efb75727710f46f549ebbae986ceb64",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse."
-    },
-    {
-      "title": "I am 14 and kinda proud of myself.",
-      "author": "UltimateCuber0",
-      "url": "https://www.reddit.com/r/robotics/comments/1wclckh/i_am_14_and_kinda_proud_of_myself/",
-      "published": 1789051738.0,
-      "thumbnail": "https://external-preview.redd.it/am8zYmg2ZzhocG9oMSsRajzpmg5L21ubV8dYpx99bqe06KnNbLhzfX3IRnV0.jpeg?width=640&crop=smart&auto=webp&s=6f8841cebe9b368784e5b911be594b4fc82059d0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "My first ever KiCAD schematics, made for Project-LOKI",
       "author": "Ajaz607",
       "url": "https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/",
@@ -57,60 +101,16 @@
       "description": null
     },
     {
-      "title": "Utilizo un arduino para manejar cilindros hidr\u00e1ulicos.",
-      "author": "pepepako2",
-      "url": "https://www.reddit.com/r/robotics/comments/1wdousl/utilizo_un_arduino_para_manejar_cilindros/",
-      "published": 1789152183.0,
-      "thumbnail": "https://external-preview.redd.it/4MGa0SodxpqLabd8Lala-6MHgcwQqT7hwtzipqTbi04.jpeg?width=320&crop=smart&auto=webp&s=a4953c38c06ba6bb1fc63f590337b56fb1d1bd0f",
-      "external_url": "https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "I built ROS for Android",
-      "author": "low-control-labs",
-      "url": "https://www.reddit.com/r/robotics/comments/1wdhgq3/i_built_ros_for_android/",
-      "published": 1789135982.0,
-      "thumbnail": "https://external-preview.redd.it/YETp75tzVxihrXdjKstyFhJ919CCZKRp0Ik3oLsQI5k.jpeg?width=320&crop=smart&auto=webp&s=9a711eb1688bbc1636c08b214eaf77830dde808f",
-      "external_url": "https://www.youtube.com/shorts/aQ_2-2e3cTc",
-      "site_name": "YouTube",
-      "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon.ico",
-      "description": "I added ROS to my app #smartphone #tech #andriod #robot #robotics #autonomousvehicles"
-    },
-    {
-      "title": "My DIY Microduck took its first steps today. Somehow, it felt alive.",
-      "author": "WuBuilt",
-      "url": "https://www.reddit.com/r/robotics/comments/1wceqjg/my_diy_microduck_took_its_first_steps_today/",
-      "published": 1789034297.0,
-      "thumbnail": "https://external-preview.redd.it/Y3cwdWJpMWwwb29oMa1o4eLYsEfvy9PvJjj_XVaJBEXLbYBvOMaihgdX9SRr.png?width=640&crop=smart&auto=webp&s=910292ccaedd66ea76be8811c042dcc4bf4c61c5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Yesterday I posted the first assembled version of my Microduck, and a few people asked me to keep sharing updates. So, here\u2019s today\u2019s progress: it walks now. Kind of. The gait is still pretty rough and there\u2019s a lot left to tune, but seeing all the servos finally work together and watching it take those first few steps was pretty exciting. And the little sound at the end got me way more than I expected. After spending all this time staring at servos, wires and printed parts, seeing it move and make a sound suddenly made it feel a little bit alive. This thing is honestly way more fun than I expected. Next goal: make it walk a little less like it\u2019s drunk. I\u2019ll keep posting as I make progress, including the stuff that doesn\u2019t work. If anyone else is building a Microduck or another small biped, I\u2019d love to compare notes."
-    },
-    {
-      "title": "We're creating a bounty. First person who can stack a tower of 3 blocks and place a ducky on top gets $100.",
-      "author": "Lumpy_Week7304",
-      "url": "https://www.reddit.com/r/robotics/comments/1wd1oxw/were_creating_a_bounty_first_person_who_can_stack/",
-      "published": 1789088827.0,
-      "thumbnail": null,
+      "title": "I am 14 and kinda proud of myself.",
+      "author": "UltimateCuber0",
+      "url": "https://www.reddit.com/r/robotics/comments/1wclckh/i_am_14_and_kinda_proud_of_myself/",
+      "published": 1789051738.0,
+      "thumbnail": "https://external-preview.redd.it/am8zYmg2ZzhocG9oMSsRajzpmg5L21ubV8dYpx99bqe06KnNbLhzfX3IRnV0.jpeg?width=640&crop=smart&auto=webp&s=6f8841cebe9b368784e5b911be594b4fc82059d0",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "SynROV: Multi-robot platform",
-      "author": "Spidoug",
-      "url": "https://www.reddit.com/r/robotics/comments/1wdc15w/synrov_multirobot_platform/",
-      "published": 1789121387.0,
-      "thumbnail": "https://external-preview.redd.it/-aw4f4nwpTS3xFxrL1SKTReOp70ll2gmVWzXURbvo60.png?width=140&height=95&auto=webp&s=cffa2ac6cde6abcc79d408ad2eef00db84fe1afe",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://preview.redd.it/damuq3cb8voh1.png?width=1402&format=png&auto=webp&s=7d9387417489e6bfe70c6de233daaeb97559cc98 GitHub repo: https://github.com/Spidoug/SynROV I\u2019m sharing my project SynROV. SynROV is a modular control stack for seven robot classes: Manipulator, Vehicle, Drone, Boat, Submarine, Biped and Quadruped. This repository contains the complete Version 1 implementation. The project combines Leap Motion gesture tracking, an Arduino-controlled servo system, Processing-based 3D visualization, and a browser dashboard using WebSocket communication."
     }
   ],
-  "fetched_at": "2026-09-11T21:51:06.882161+00:00"
+  "fetched_at": "2026-09-12T22:52:02.404334+00:00"
 }
