@@ -5,82 +5,52 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRThhVDEycUF4VXdwR2MwaUNxWXZyQjA5QUt6VHhwMTFZUnpwYUducVduTmNmd3I4UWU5ZnVreXJQdnNIZ3lnZXc2SXJZTWJCVmFRWWxJQWFVdjJqaDEzdjZOSXR1MGczRDJKdXFjQVpSMHV4eFp1X213Mk5nNS1JSl82d0lHazhqclBSczdYaGxSb2VkRnRoRzY0bmRnc1NTcnd3R3dJczl1VVFEX1Uxcy1OeENUNzFnWFRRQXk4eHY?oc=5",
+      "pub_date": 1789210202.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "White House Issues Serious Crypto Warning\u2014Bitcoin Price On The Brink Of $8 Trillion Shock",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaXA2WXZEN1U4bE51bXRCZy1uWHBkWGZuR3ZDWmNIby1aRkNxdHpmNl9QanNBWXFVMXBqSVc2SVRWZXdQYlg2ekRfTFVoc3JMM1RUMU9DZEh0Y19LTXBCV1RDbGowRHVORlJyODNhUzVSVU9VRmNXYmdnVjlmTnp5N2J3V3JHM2JVcS1rUTJublFwcHE0RXczX3NCVkl3aEJHX2RBR1NfNUhBWnJJU2pHRHcxTXNtM0pja19vS3NXTDlrSDZFbGIzR01GdTVIXzIzSTNGWnRBeGszb0xr?oc=5",
+      "pub_date": 1789212626.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/12/white-house-issues-serious-crypto-warning-bitcoin-price-on-the-brink-of-8-trillion-shock/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will the Fed Raise Rates on September 16? Polymarket Now Says 83%. Here\u2019s What It Means for XRP and Bitcoin",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY20zTnEyVTB3WG1JN0ZwQnZsTFNOdXBOOVJGSF9oWklzeFBfQU5RV3dTX3F5U1VRQmFnSmIxN2V3VEpLRU9VYnFzdTdocWdELWk4cUtFdnFWZW8xTUlVcE8wZ2F6aE9hMFNpcFBNVlJUWGNXU29IbjRIZTc4T0duMG1JaHJTRjA0WHFlWDYzLVp0WnhtX3ZLeA?oc=5",
+      "pub_date": 1789217122.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/fed-raise-rates-september-16-124522934.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/709a520e360579d37f1196e99aa27ec4efa8c5dd05db2251d2e741dbc096066c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0283cfa86fb0b33fc5465d31e2f52ada.jpg",
+      "description": "Polymarket odds on a September Fed hike have nearly tripled in three weeks, and the 10-year Treasury is already moving like the decision is done. What that tightening path does to XRP and Bitcoin on meeting day depends entirely on which outcome traders have stopped pricing in."
+    },
+    {
+      "headline": "Tom Lee Says \u2018Economists Are Fighting Last Year\u2019s Wars\u2019 As Fundstrat\u2019s 2% Bitcoin Bet Swells To 85%",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjF0UHNPTVhzSWVXWjl3REdRMmh4OTlaTmw0WUFqV1RTTXV5NEhtTFdtUk5pVjBfbGFTY3VjVWJ5d3ctdVFSOEo2NndkcDVWZkZXdHE5a3BabEpZTmZEWkQxQllzemp0ZThEYVk3N3BrVU1oWWQ4MHM4YTJ5eDNHZXB4ak9OTGFkNGl3SXFIQXBLeUNyNUtzM25xU0czUQ?oc=5",
+      "pub_date": 1789221606.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-economists-fighting-140006981.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/44b24e5952e34574cbe18dda626d5040cc032e6f3e30c40dafc0a42cce5e8e0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fa69abc871fd60845c844240b820df886.jpg",
+      "description": "Tom Lee said inflation may be less severe than economists think while he remained bullish on Ethereum."
+    },
+    {
       "headline": "\u2018Ferris Bueller Gone Bad\u2019: 22-Year-Old Pleads Guilty in Giant Bitcoin Heist",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVG01U1NHR2tZMGhDX2lvQzdIT1piNjI3UHFNNlhUMEM3SWgtcHRjZHppTi1feDA4bFZ5VVRHV1dOY1RoNzdJVUkwanVfZXd2dzNUZ24taldfdGlvRGxpYWlZeC1RNFVBNnhzNnE4OXNmdmwzbzd1c0FNaVZ0ZUE?oc=5",
       "pub_date": 1788966981.0,
       "article_url": "https://www.nytimes.com/2026/09/09/us/bitcoin-crypto-heist-malone-lam.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdqWHdRM1QyTDNUTGRiQzY3U1lmRGJmTGJjb1JqMmtUNkZBa2lFcUdUZ1Vid1lNNjBIU050MHNMUEVPMXA0a252eWRRcEg1MnJkYlN0ZmhJb0xGTUVDRnhrMUQ0NzFJbDZCVG04VEdYQ19UNEV0cVh2N0FTdWZXZmVwaw?oc=5",
-      "pub_date": 1789006440.0,
-      "article_url": "https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26247717154420.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident \u2014 one of the largest cryptocurrency thefts in US history \u2014 and then embarking on a wild spending spree with the laundered proceeds."
-    },
-    {
-      "headline": "An eighth grade dropout admitted to stealing $245 million in Bitcoin and going on a spending spree",
-      "source": "NJ.com",
-      "source_url": "https://www.nj.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlJYZFRZdzhEeV9LanRuVy1CNHNEQTF1QVl4V3ZweUVGQTFHeHJzMmVqSlhhRGpJZTFDVU9nbFFDb2E5RTJSSWNJQWpwbEtBVzVhaVZaU01FOWFId2dMSmRITFMzYTFyN3N5TG5pQzhrbnp0TVFwOFhfRi1wU3pDMkhUYXFzUDh3c2M1UjhDZk9saFR1YUt2aU4zUXBiRkM5NXdrOUpYVC1Dd2xMQ1dhYXJ2R0xZXzcwTlNlSjZuc1FZNlphTG5xX08wc3FzQmPSAeMBQVVfeXFMTk13bVBfdXRlMmktTDk1aHVLSm5JaDQ1Sk41ZS1iVlBfQm5iTFZ1ejVxeW5ZMVNtZWd6RG9BZURsUnFOcFBDbW1wTkFFMHdkWF9DLTBmNF9vUmlCZnBqLXNuOHpuazd4dWNHbTBKTlNyX3NhdmhreG9fNHVMV0N6NVR5UnF6ajl1UnV1ajVMVHVEeTQ5Z3cxVGZvX2J5cG9QWGloT1pSWEJpc2lZUG1mQVZ5Wm9ieU5NMV9hb0lSYWFqNk1ZSG56aGl6VXJrZXpZNHhNS2R6cDZhREJWemJaT2xIUW8?oc=5",
-      "pub_date": 1789060860.0,
-      "article_url": "https://www.nj.com/news/2026/09/an-eighth-grade-dropout-admitted-to-stealing-245-million-in-bitcoin-and-going-on-a-spending-spree.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUw3S2x3eWNjQXh4a3gyVm02WDhBb2sxT2RlUG9kSzVKTFZoMTVkZGNONHo5NTA1MUI0SVhmQ3FvV0x3aXpYWm1WZmZDQkZOQkQtSXhMTVpfWF9tRzhRb3VCQlpzUkI1eFZUX1p6SjFkaW5YMUI2ZHQ3MHNrNk5lZy1XcXlGcXp0Ri1CUzd3UVVoanRLczh5SlZvc0I5ZE9pRExON2NxV0xla2tJVGllVUlZZ3RIZHl2bWVhaVRTV20yMVk?oc=5",
-      "pub_date": 1789164180.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/01/shutterstock-1977165767-huge-licensed-scaled.jpg",
-      "description": "We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict."
-    },
-    {
-      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRThhVDEycUF4VXdwR2MwaUNxWXZyQjA5QUt6VHhwMTFZUnpwYUducVduTmNmd3I4UWU5ZnVreXJQdnNIZ3lnZXc2SXJZTWJCVmFRWWxJQWFVdjJqaDEzdjZOSXR1MGczRDJKdXFjQVpSMHV4eFp1X213Mk5nNS1JSl82d0lHazhqclBSczdYaGxSb2VkRnRoRzY0bmRnc1NTcnd3R3dJczl1VVFEX1Uxcy1OeENUNzFnWFRRQXk4eHY?oc=5",
-      "pub_date": 1789207989.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy Sold Bitcoin at $60K and Then Bought It at $80K. That's Why I'm Not Buying Bitcoin Treasury Companies Right Now.",
-      "source": "Currently.com",
-      "source_url": "https://currently.att.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNThLRnlIbTh4Z1BxRkE4UnNQX0JmQUNkNDk5MGxNQUJMSXZJMXpBUF9lV0JxbzhXUFNISjRtdFVCWm94c2c5TzUzeENTWlExLWFHN3p5RUhLTnVJX0xSOHNTaG9JVlBNRFJvUy1NQ2ZqQVc1UjNvcmI3NlJRaWhhOXBPWVVQb3JW?oc=5",
-      "pub_date": 1789207020.0,
-      "article_url": "https://currently.att.yahoo.com/att/strategy-sold-bitcoin-60k-then-095700741.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/003c7ef5eaf12429342dfed5a587e50baeb20f7bc66820cfb0debcd793794562/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F8c46fa657fa91c106b1955138d8f87af.jpg",
-      "description": "Right now, Bitcoin treasury companies are a clear stay-away."
-    },
-    {
-      "headline": "Bitcoin Sentiment Hits 2-Year High As Spot Demand Rises: Is A Market Turn Coming?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWG9zelV0R3oyWGRNR3V4TFk0NmF2SUlNYmRMY1JJVnVfZXN6UjFRM3dLTlVlOW82d0NRcGJFQS1PM3BoemVDdHllMWc1Wk5FUGt6OWhlc0M5WXNuQ2c3SmU4NFJteUowSXpzZHI1TW1WcXVkd1FzQ1VVNDROMmUtYm5ybFNzNXlfMFNvT2E1S1BXMDZGeUFtaXhB?oc=5",
-      "pub_date": 1789207173.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-sentiment-hits-2-high-095933688.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cca53307135b8c3b4d7c4fef812a9dcb7409eece0acf037b425c4124aa4a9fb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F7ba2a0e8e5f100a77320b79b5c57cb3b.jpg",
-      "description": "Bitcoin sentiment hit its strongest level since March 2024 even as the token stayed below $80,000 and spot momentum weakened."
-    },
-    {
-      "headline": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2s3UWJhY3NySWdCdWhQeWJGYzZ4TzNib0VrWWt5TmktVzFiYnI2MkVrVldwZHROTGFrUzNJVTY4QlVyOWd2VVVXYUdvMV9qanNJc2dRWkl6UWdsZ0RGRVJudFZidGRXejd1R2ZsbU1zN1o3N3M2V01iMU5Hazdxb2ZTSHJRUjJ3NjlfODlLWVVtbFJwVjJUNVlmMDVOTjNZemZnSHlPSlZ4czF1Z0M3OXZyNVo?oc=5",
-      "pub_date": 1789140476.0,
-      "article_url": "https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/",
       "image": null,
       "description": null
     },
@@ -95,8 +65,38 @@
       "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
     },
     {
+      "headline": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2s3UWJhY3NySWdCdWhQeWJGYzZ4TzNib0VrWWt5TmktVzFiYnI2MkVrVldwZHROTGFrUzNJVTY4QlVyOWd2VVVXYUdvMV9qanNJc2dRWkl6UWdsZ0RGRVJudFZidGRXejd1R2ZsbU1zN1o3N3M2V01iMU5Hazdxb2ZTSHJRUjJ3NjlfODlLWVVtbFJwVjJUNVlmMDVOTjNZemZnSHlPSlZ4czF1Z0M3OXZyNVo?oc=5",
+      "pub_date": 1789140476.0,
+      "article_url": "https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdqWHdRM1QyTDNUTGRiQzY3U1lmRGJmTGJjb1JqMmtUNkZBa2lFcUdUZ1Vid1lNNjBIU050MHNMUEVPMXA0a252eWRRcEg1MnJkYlN0ZmhJb0xGTUVDRnhrMUQ0NzFJbDZCVG04VEdYQ19UNEV0cVh2N0FTdWZXZmVwaw?oc=5",
+      "pub_date": 1789006440.0,
+      "article_url": "https://www.cnn.com/2026/09/09/us/man-pleads-guilty-massive-crypto-heists-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap26247717154420.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident \u2014 one of the largest cryptocurrency thefts in US history \u2014 and then embarking on a wild spending spree with the laundered proceeds."
+    },
+    {
+      "headline": "Strategy Sold Bitcoin at $60K and Then Bought It at $80K. That's Why I'm Not Buying Bitcoin Treasury Companies Right Now.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbU9Ga3RlN0tQRzFqeUNhd3V3am1XRVVfdER4cm53cEg3WkdlTkhwU1E1VmJVREhBRkxTNmlCcU5FTEJOcVd2OGgteXluTl9qYUVuWjRTYmdQZllHUU56RlhERjNONTZFSGNqd21EYzhQeVpJUWQ3OHFPZUtCaUpLcnRzM2ZDVVdJZDUxMkRxSXJKOVFIenRfWQ?oc=5",
+      "pub_date": 1789209420.0,
+      "article_url": "https://www.fool.com/investing/2026/09/12/strategy-sold-bitcoin-at-60k-and-then-bought-it-at/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886088%2Fbitcoin-hit-by-lightning-crypto.jpg&w=1200&op=resize",
+      "description": "Right now, Bitcoin treasury companies are a clear stay-away."
+    },
+    {
       "headline": "Bitcoin\u2019s White-Hat Hack Is Just Old-Fashioned Extortion",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2lHQ01aNTZUcjd2Ukh3dk1wSDhRcmFWVUx0ajhKUzBtUWR5RUhoUngteUE1OXM0MDdJNUtSbnNOMjBXQms2eW5hZDNZUHY3UDZOTmxET3JObW1Va3k5TC1sSW1SbUVnU1lpdm1vXzFlY0ZlNjFpMHpENlJ0MTQtQTJOOGk2eEtCYlk0MHdWTnN1UXdiT0VycXZZdGdmS2dFSndDaXV2SUNEV2J4?oc=5",
       "pub_date": 1789117202.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T12:18:26.848592+00:00"
+  "fetched_at": "2026-09-12T15:44:44.769133+00:00"
 }

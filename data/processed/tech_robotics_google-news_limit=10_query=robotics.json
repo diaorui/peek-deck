@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "Construction robots attack America's housing shortage, but we're a long way from humanoid homebuilders",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
+      "pub_date": 1789218001.0,
+      "article_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108208386-17597761832025-10-06t184130z_1342918111_rc2g6haq2z4o_rtrmadp_0_usa-economy.jpeg?v=1789155801&w=1920&h=1080",
+      "description": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders."
+    },
+    {
       "headline": "Behind the killer robots of Ukraine's new warfare 'revolution'",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -33,16 +43,6 @@
       "article_url": "https://www.reuters.com/business/aerospace-defense/behind-killer-robots-ukraines-new-warfare-revolution-2026-09-11/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
-      "pub_date": 1789167497.0,
-      "article_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
       "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
@@ -55,18 +55,28 @@
       "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
     },
     {
-      "headline": "Robots Are Learning to Feel",
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
+      "pub_date": 1789167497.0,
+      "article_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+    },
+    {
+      "headline": "Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
-      "pub_date": 1789064710.0,
-      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "description": "New tactile datasets could solve a longstanding challenge in robotics"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0diZG1rbDl5RUk5eS1JMnFaNGplVnpRZkZpOGY3SDFmWDdEYkFVQlRxa19UV0RCMmlyX2piNTRPZWttck9ocDdhRXZXTWNSNDlEbmxRX0VkS1NfX3dlOWxZbHVhdlM5ZFFxLTdLSXg?oc=5",
+      "pub_date": 1789140618.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67756707&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "source": "Gizmodo",
+      "source": "gizmodo.com",
       "source_url": "https://gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
       "pub_date": 1789150254.0,
@@ -93,18 +103,8 @@
       "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
       "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
-    },
-    {
-      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
-      "source": "The Japan Times",
-      "source_url": "https://www.japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
-      "pub_date": 1789094340.0,
-      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
-      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T12:18:26.579629+00:00"
+  "fetched_at": "2026-09-12T15:44:41.514491+00:00"
 }
