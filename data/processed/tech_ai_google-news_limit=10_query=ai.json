@@ -5,14 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
-      "pub_date": 1789203781.0,
-      "article_url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+      "pub_date": 1789129020.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why the AI race has its creators fearing human extinction",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5",
+      "pub_date": 1789143074.0,
+      "article_url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F764fb1e3-7fde-429a-94a8-20ca52ad9553.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream"
+    },
+    {
+      "headline": "Coxon\u2019s AI Warning Is Mainstream. Now What?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVks3NjV1OG1JaWhLdTM4dGFwaVd1by1Wd0x2bnZ2bjlFU2RLa2FKMXphWHJSZHdfSFNRTldqb2FtVWVLemNvYkhVTkhXTTNEQ3lISE5zZGk5WmdRLXRfWl9BcGhtd0wyX25kSFVRVzVsZnc1emU5TWdCdkh0QTIzZ0xoVHh1QUsxdUZ4UXpuWjhPRkJ4MFVIUS13?oc=5",
+      "pub_date": 1789223428.0,
+      "article_url": "https://www.forbes.com/sites/hamiltonmann/2026/09/12/coxons-ai-warning-is-mainstream-now-what/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "We Must Pace the Frontier",
+      "source": "darioamodei.com",
+      "source_url": "https://darioamodei.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+      "pub_date": 1789222502.0,
+      "article_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "image": "https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg",
+      "description": null
+    },
+    {
+      "headline": "Anthropic CEO calls for \u2018pacing the frontier\u2019 of AI race amid safety concerns",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWkVaSWZ5cFk1S1hPOHJxeHU3b1ptZzgzYS1JMHZhczhjN2dXaDR2WnpJS0drTzRQekpPSmFGRTVPQVl2ZkJDbVVINVM3dXk1UjFnMzlkdTM1T0lFcHRWa1R4QjlOUU5GVHc?oc=5",
+      "pub_date": 1789222578.0,
+      "article_url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Amodei\u2019s essay comes on the heels of an Anthropic researcher\u2019s resignation over concerns that the firm and its competitors are not acting responsibly with AI development."
+    },
+    {
+      "headline": "Anthropic CEO calls for the AI industry to slow down",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
+      "pub_date": 1789227357.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/USMFSHJVB56LOV3LHA3GT67DMQ.jpg&w=1440",
+      "description": "Anthropic CEO Dario Amodei said he was worried about the ability to control self-improving AI models."
+    },
+    {
+      "headline": "AI virtual cell uses protein dynamics to predict personalized breast cancer treatments",
+      "source": "Medical Xpress",
+      "source_url": "https://medicalxpress.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXZqWFdGN1NhSnJQR29hbHh1bDNvR0xsZk8wekRCRjloaDZjT3hsSURNd1JpbVFVekc0Qm1BQVNjZE5Wc1JDNEM2RWFsNFhCRWZFY3pCWnhvTGFlWi0zR3V2TVhrTDYwMkkycWhfRzNUX3JwNGxkUHpzWmlieWRrLWRB?oc=5",
+      "pub_date": 1789226401.0,
+      "article_url": "https://medicalxpress.com/news/2026-09-ai-virtual-cell-protein-dynamics.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "You Already Have a Digital Twin. Are You in Control?",
+      "source": "inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREN5c3VPXzhQdTZZNnc4cDZqOExZUjhqM1R3ZDY2NUVwamZmbGw0bnRzRGEyVHFlWHVVdk5Wak52U21abVNnNHJMbTJ1QU90d01zWXdNVzBPaDEtT09aMm83M1hkenFJRGE0ZzB2UzJLSjdWV19XWGJmRGJQb1RLZHlyRGRrbjhGbzBaZkJucmpsMWttNjZHV0pMVG5wWHFtcWpITXIweVktMjd3YVNJ?oc=5",
+      "pub_date": 1789225875.0,
+      "article_url": "https://www.inc.com/entrepreneurs-organization/you-already-have-a-digital-twin-but-are-you-in-control/91402700",
+      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/GettyImages-1924349815.jpg",
+      "description": "Leaders are build a digital twin through their data. The key is deciding whether AI reflects their best self or most reactive moments."
     },
     {
       "headline": "Detecting and countering misuse of AI: September 2026",
@@ -25,86 +95,16 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Behind the Curtain: It's not too late",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSVJnVDhYczVoWkRhcTFpMXpOLUJGb1Q5N01wMkFYM3AycFU2MWJuRmpCY0doOUNyN0dtY2RLQnR5SE9OblhuMjV4N0k4N1pGTWV0WEhnS0hfWXNIeGdJbl9WS0dGT29yaERadVNvYjE?oc=5",
-      "pub_date": 1789214641.0,
-      "article_url": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
+      "headline": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3RxODh4LWhOS0o0UFBGNUhHODA0Z2dqbTcyTlFmYVRwRzJVVnhKMFl4U2dqQUQwZXV6d0c1c0gwRHZXeF9wOFRTN2xCengtRnRuR0tJLUNDTlI3VjAyekRzRngwMWY4M01hSUVwWURFUFAxdkRjRC1HZUM3cG9YTnZ4UVFNcVlnT200?oc=5",
+      "pub_date": 1789059606.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Hot Summers, Water Supply And Frivolous AI Use On Social Media",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY01FMVBoeGMyelc3bXpMZEVELVY3VWNBU1V4NXRHclJ2VkpQREMtMEpJN05UMERfMG03SEVESS0tYVNOaW1TMVgyZW1fN0xNNEhTelJXaFk1dnZaaS14ekQ1andITWNScmRIRUNOYlpnYlQ2LVUyT2loMkhkTjdnQkI2QTZFY1gxeFFQbURXU1RTOFBIMXJCa2JqVnEtTFJkUWdMa0phbkdGaThBRWF6djdQSl9LcDlTYy1r?oc=5",
-      "pub_date": 1789214816.0,
-      "article_url": "https://www.forbes.com/sites/marshallshepherd/2026/09/12/hot-summers-water-supply-and-frivolous-ai-use-on-social-media/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI reveals another rogue AI attack",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
-      "pub_date": 1789175040.0,
-      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Immature playground boasting\u2019: Mathematicians uneasy at OpenAI\u2019s latest scalp",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUg2U3V2NmxnMjFYSVpTdVdQS1dyM19fUjY0S2V6MWItakVCNFF2R3pRRk8tWHJ1aG5CVnB1N3BvckRJWDZ4RjEwTUhPTnZ5U2hnZEREd0RXQXYxcW54NUZFYVVkUnNSQ0QwTWFxaWhXRGFyN0NzQ29TZVd2d2dJdEhhVXVSaVNBOEQwaExYemVPRUo2UTdKTjZ3?oc=5",
-      "pub_date": 1789200000.0,
-      "article_url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
-      "image": "https://i.guim.co.uk/img/media/2ef5f466c1ffa22c4d545e7d74155b5dd8b38e24/557_0_3390_2712/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=200303cb3b1e8ca6cbc5659ada439aaf",
-      "description": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change"
-    },
-    {
-      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-      "pub_date": 1789134540.0,
-      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNUaDJOTzNWbmEzcTBCaWhKV0RBY1NOMkptS3MxRFE2MURUd09NRWxaUmZvTV83NzNkeFJsS21ITENfUTdWU1FTN3NlajhDb1N1c3ZiWVJWS2U3QkhzM05tdzVlMk5MU1NDS19vbGRrNUFwSzhzQ3lsQXl4ckZpTzJPcVlRVFJpaFpidUZ4aFJpa0ZYd3ZLenBUOF8?oc=5",
-      "pub_date": 1789207200.0,
-      "article_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "image": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-      "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work."
-    },
-    {
-      "headline": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing \u2018catastrophic\u2019 risk",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
-      "pub_date": 1789162725.0,
-      "article_url": "https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293016693.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the \u201ccatastrophic risk posed by advanced artificial intelligence.\u201d"
-    },
-    {
-      "headline": "Oracle stock trims gains as AI cloud demand outpaces supply",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWJFeUhQUHA3ZlZUOTQ2aWNpeURtNG53Y3dWYkNSYjhmb0Z2bWNqSzdpSDVaNmtGODNLYnMxdjhpSGhJM1l6YUJuRU1GcHAyRUR0OTdlUDMyRmJaYXJVekRObDh0TzlUc1JWQm82Wk9RVmRWUTZrRW9iNkdxZ0tDWjRncDQ3R2FtbXEwV1QxY2FISjJZZkFWdFlXR2ZPNFlfMmhXeWNvRUI2bE9OcHhZeE1RTVFIeEE?oc=5",
-      "pub_date": 1789139140.0,
-      "article_url": "https://finance.yahoo.com/markets/article/oracle-stock-trims-gains-as-ai-cloud-demand-outpaces-supply-122103986.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/69fb394505a931e81ea0db3d559c488367cdb1f045bf5ac303a61bdf93cc8df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fd16be1d8-6e61-4d09-a369-374397ebb46e",
-      "description": "Oracle stock jumped after cloud revenue sales grew by 121% last quarter"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T12:18:28.250664+00:00"
+  "fetched_at": "2026-09-12T15:44:44.769333+00:00"
 }
