@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-12T15:44:46.485735+00:00'
+updated: '2026-09-12T18:09:43.828464+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 15:44 UTC  
+**Last Updated:** September 12, 2026 at 18:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,535.89
+### $2,533.15
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +0.8%  
-**30d:** +34.7%  
-**90d:** +41.1%  
-**1y:** -45.5%  
+**24h:** -0.5%  
+**7d:** +0.5%  
+**30d:** +34.2%  
+**90d:** +40.6%  
+**1y:** -45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $309.27B
+**Market Cap:** $308.18B
 Rank #2
 
 **Circulating Supply:** 122,041,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.8%
+-48.9%
 
 **All-Time Low:** $0.43
-+585194.0%
++583143.1%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won’t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?
 
-1d ago
+2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict.
 
-24/7 Wall St. • 17h ago
+24/7 Wall St. • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's i
 
 About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-finance.yahoo.com • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Fortune • 3d ago
 
 The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -188,19 +188,19 @@ CoinDesk • 3d ago
 
 ---
 
-**[Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)**
-
-The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
-
-The Block • 2d ago
-
----
-
 **[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
 
 DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 10h ago
+
+---
+
+**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
+
+Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
+
+blockchain.news • 40m ago
 
 ---
 
@@ -208,21 +208,21 @@ markets.businessinsider.com • 8h ago
 
 A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
 
-CryptoSlate • 1d ago
-
----
-
-**[Ethereum: Hits R2 Resistance on Opportunity Channel](https://blockchain.news/flashnews/ethereum-hits-r2-resistance-opportunity-channel)**
-
-Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
-
-blockchain.news • 1d ago
+cryptoslate.com • 1d ago
 
 ---
 
 **[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
 
 MarketWatch • 1d ago
+
+---
+
+**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/)**
+
+Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -236,27 +236,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 14K • 👍 357 • 💬 97 • ⏱️ 22:54 • 14h ago
-
----
-
-**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
-
-Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
-
-📺 Paul Barron Network
-
-👁️ 35K • 👍 861 • 💬 37 • ⏱️ 11:43 • 21h ago
-
----
-
-**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 66 • 💬 14 • ⏱️ 9:47 • 23h ago
+👁️ 18K • 👍 389 • 💬 130 • ⏱️ 22:54 • 16h ago
 
 ---
 
@@ -266,17 +246,27 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 22K • 👍 645 • 💬 490 • ⏱️ 17:30 • 1d ago
+👁️ 23K • 👍 653 • 💬 490 • ⏱️ 17:30 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
 
-📺 Discover Crypto
+📺 Paul Barron Network
 
-👁️ 11K • 👍 384 • 💬 52 • ⏱️ 1:04:53 • 1d ago
+👁️ 36K • 👍 881 • 💬 50 • ⏱️ 11:43 • 23h ago
+
+---
+
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 70 • 💬 14 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -290,23 +280,23 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 ---
 
+**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 385 • 💬 53 • ⏱️ 1:04:53 • 1d ago
+
+---
+
 **[BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vrOZjn2ekqw)**
 
 BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 11K • 👍 342 • 💬 131 • ⏱️ 22:03 • 13h ago
-
----
-
-**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
-
-ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
-
-📺 D.I.Y Investing
-
-👁️ 4K • 👍 145 • 💬 28 • ⏱️ 15:04 • 21h ago
+👁️ 13K • 👍 359 • 💬 175 • ⏱️ 22:03 • 16h ago
 
 ---
 
@@ -316,7 +306,17 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 857 • 💬 393 • ⏱️ 31:34 • 1d ago
+👁️ 13K • 👍 860 • 💬 392 • ⏱️ 31:34 • 1d ago
+
+---
+
+**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
+
+ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
+
+📺 D.I.Y Investing
+
+👁️ 5K • 👍 146 • 💬 28 • ⏱️ 15:04 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 172 • 💬 24 • ⏱️ 24:58 • 17h ago
+👁️ 2K • 👍 177 • 💬 24 • ⏱️ 24:58 • 19h ago
 
 ---
 
