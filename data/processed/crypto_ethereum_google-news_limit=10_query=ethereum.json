@@ -15,6 +15,16 @@
       "description": "Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close."
     },
     {
+      "headline": "Ethereum ETFs Took In $216 Million on Friday. Bitcoin\u2019s Lost Money for a Fourth Day and XRP\u2019s Took Zero",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzd3MWRReEljQjZ5ZkcyektpUFBRVDloVEFaMWRGVV92N2VQbTBXbl9rekpyb1Z2d3YtRUI2SXFBQUVIQjhuN1U4WmVoYnlMQWhpUnJPNi1XT1dMb2FkekN2TnUxOFpsSENFenBIWHJWY0RaejE2emp1WlhNSFBFZzFOVzQxcEFDS2R2WWhGeFM5UGlhUmJmUjVIdw?oc=5",
+      "pub_date": 1789247500.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/892715dd7fd4a55820bfd11650927571f3354d0e04bec668f79dd688b34640dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Feb8a0ab8da91c974723d941899af96fb.jpg",
+      "description": "Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading."
+    },
+    {
       "headline": "Ethereum staking fees vary widely, with providers taking 0-50% of rewards, impacting net yields significantly.",
       "source": "Pluang",
       "source_url": "https://pluang.com",
@@ -25,44 +35,14 @@
       "description": "A survey of 14 Ethereum staking providers accessible in Germany reveals that only five clearly state their commission fees, which range from 0% to 50% depending on the reward component. The network's annual percentage rate (APR) was 2.46% on September 12, 2026, meaning commissions can significantly reduce investors' net returns. Providers often split fees between consensus layer rewards and execution layer tips (MEV), making comparisons complex. Many popular custodians like Kraken and Bitpanda do not disclose exact fees upfront, complicating transparency. Investors should verify commission rates in writing, consider waiting times in the staking queue, and understand tax implications before staking Ethereum."
     },
     {
-      "headline": "Ethereum's Glamsterdam upgrade faces bugs, dela...",
+      "headline": "Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86% ahead of Sept 16 meeting.",
       "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RcDBvNU9Fa1lGNnBZM3UzTWRPb2ZuSHJhQjQ2QzZ2QVpXZndhWVFYSkZVTVkwcVpYTjl0bTBpTWRYYWYzWXdVSWJEUGVOUlFmeXVsSHR1TjJsclRib2hzOHpnbk1GRGxjelVOQk5ybnBEdjJpblhLcmNMY1Vhdw?oc=5",
-      "pub_date": 1789234168.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-bug-mengancam-jadwal-glamsterdam",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/618c5c0b7351052750edd2f0b1ab0db384e989fbbf1324ddcea310da27b96465-en.webp",
-      "description": "Ethereum aims to activate the Glamsterdam upgrade on the Sepolia testnet by October 6, but unresolved bugs and network finalization issues on the devnet-9 with 1,000 validators have made this date uncertain. A critical bug related to EIP-8037 requires execution layer client updates, causing further delays. Developers are now focusing on a new devnet-11 test before confirming the timeline. The mainnet deployment remains targeted for Q4 2026 without a fixed date, as the upgrade involves significant changes to Ethereum's block building and verification processes."
-    },
-    {
-      "headline": "Ethereum eyes major breakout, targeting $15,000 after retesting key resistance zone.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZE8zMFFYc09IQjJlUUV2V0xSRlBqQ2ZFNHpuQkJ0UnVfeUNqYjFLUjU4UEpmNXNtcTJyb2JkenJoVVZRaThyazFYVFhHT1JqaXh1bzF5VUhYeDZodUpxM2NNdEN1Wm9DUlhNX1hNU2REa1FiQzJ3aWsyYmJkajR5V0JEU1dJY1hwaXJCdUhEVVVwNzFicDc2MGYxTTA3cnZkQUdPYlAybzNELTQ?oc=5",
-      "pub_date": 1789235071.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-menguji-zona-resistensi-multi-tahun-dengan-potensi-breakout-target",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/65e324c30fe9e67b22e3c1ce93c22d345596cd081203bbd4dd682227875b05bf-en.webp",
-      "description": "Ethereum is potentially setting up for a major breakout as it retests a multi-year resistance zone for the third time, following a period of strong accumulation support. Analysts note this pattern resembles Ethereum's 2020 setup before it surged to nearly $5,000. Fundstrat's Tom Lee highlights Ethereum's role as a future settlement platform for Wall Street and AI, predicting increased investor interest and a rally. Another analyst suggests a minor correction below $2,500 could precede a rise to $2,800, indicating potential short-term volatility before a continued upward trend."
-    },
-    {
-      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT05oSWNrMFp4ZDNuVFQ1X1UxTHNGUHVScEZOQmxQbV9iYjFzQ05ISnA3c0hHYUZpWE13eGdiVUZibVhJNFdRU0Zjd0lEYjFuNlFHR3JGSThUTVA0UFZidzRZR2JyaGhqdEd4dlFtQzhQRmNKR1pHWkJMVVpQTzhmNVB3c09oWDF4OWhMNEV4ZzYwTl9jSmVYTA?oc=5",
-      "pub_date": 1789139029.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/425fe4ad5cb2aad84e2f128dc273fcc79dba877b13e77746a1bea2469be10d14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F2c997bef5deed6ac65cf482b846d499d",
-      "description": "About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions."
-    },
-    {
-      "headline": "Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUDA5QUZVS3AyUGZGR05Nejhjcnp4dWo1STFuVmk3N1BrT2dyOUNLeTFKeU5RMjdwZ3lpYmpTZHh2bmowUlZ0cmFjcXpaYnZTbUpKa19aZ0NabzNPMlVSUS01ajJDZFBReXlsbkV2UW5OVUdFS2s2YWFMODF1aUVRZlZqdXNDUXBMdG5EMkNZV2FjNWpHMXIyTTc4ZUc0Rm1TWVRCZDFURXZVWmlTc05xc3J4ZEF5YXMzZ1cxU2tYNWFCbmxEVTc0MkFwenljQUU3R0tQSl9sT1dueGc?oc=5",
-      "pub_date": 1789187220.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:30416ef3b094b:0-bitcoin-etfs-see-13m-outflows-while-ethereum-etfs-pull-in-216m-in-a-single-day/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th\u2026"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3lzUTRXa2tzc0c4enp6bl9oeFZUeVpSYm9uMFMtSFEwSW1ZOXNKS0JlamUwcFRDcHZpc0JScXZONGE5UUdkUU5LX3VzZmlKRk5jcE5rOE9mbC1iZVJ4Vmt0Y0VybF95ajc4NTJ0ZEx6MV9xRnpKSDJaa19ZZ1Vkb2JDRUpacDlPTEdOSWI3OGhfWmF2QjVEUQ?oc=5",
+      "pub_date": 1789252302.0,
+      "article_url": "https://pluang.com/en/news-feed/bitcoin-eth-xrp-tertekan-kenaikan-suku-bunga-fed-16-september",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/17516b0ad224dc1e72bf81e2163a65236e33cd4049686a72c7ecd5e2c7b2a841-en.webp",
+      "description": "The likelihood of a Federal Reserve interest rate hike on September 16 has surged to 86.5%, putting pressure on major cryptocurrencies like Bitcoin, Ethereum, and XRP. This potential rate increase is driven by rising U.S. inflation data, which has unsettled crypto markets. Bitcoin is consolidating near key resistance levels, Ethereum eyes a move toward $3,000 if it breaks current resistance, while XRP struggles to hold critical support at $1.35 amid whale selling and reduced network activity. The Fed's decision will significantly impact borrowing costs and risk assets, making the upcoming meeting crucial for crypto traders."
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
@@ -85,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORFdnSlhnWVQ2N19jMlJqWG1aMkVnQ2VyWVgxejNVMnBIODVRRXBMNnlYQ2RRT2JJaWhzeTZwbkMxVzVVRjBiWGVHa3RiX2N5TEJNWmc1V2h2c0dCeXkyNk80Y1ZURXpkV3Z4WmlUYUNlc3hITFMtMGo0WUtSY0V6QjBQdTlYbGpOZ0paOG1QSXhiTHJvMUl3MW9VeVU5YTc1S29nV2ZVdU1oRjUyMVdQUXd6ZDctZEZEbDYzeTBkRC1PaGJ2MHNYcFhkWHB6YUtQOTItWGtTX3JmdkxQeUhtVXV0Yw?oc=5",
+      "pub_date": 1789139029.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum\u2019s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b\u2026"
+    },
+    {
       "headline": "New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -103,8 +93,18 @@
       "article_url": "https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy",
       "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
       "description": "Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD."
+    },
+    {
+      "headline": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVN5cG1uUGxRUnZRSm1US3BWME9SZG9HVGNfbFRKRWExdjItMHBlcnkzUFR6SnU2SUVPQ0k2QllJaHlIbFlBWGdscEJVVzNYalpTcTNkcmh2U0ZTaVhJTk5McFUwdWYzVC1Ea1llTHNVUEY1NEExSVc2a3FRdzNPM09EX3hXRnF5RlRnQndwb0pOX2lLY1drS1dOSm4zM01ZQlpWUzEtZ2RJZmxiOHc?oc=5",
+      "pub_date": 1789134646.0,
+      "article_url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
+      "description": "A 10-year study found more than 50% of Bitcoin\u2019s daily variance now clusters around US trading hours, with the peak moving alongside New York\u2019s clock."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T20:48:01.885509+00:00"
+  "fetched_at": "2026-09-12T22:52:08.482541+00:00"
 }

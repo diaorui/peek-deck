@@ -35,17 +35,6 @@
       "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident."
     },
     {
-      "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
-      "published": 1789152375.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
-    },
-    {
       "title": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?",
       "author": "DoublePassRadiator",
       "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
@@ -57,15 +46,15 @@
       "description": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse."
     },
     {
-      "title": "Void Linux maintainer orphans 100+ packages over AI policy dispute",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/",
-      "published": 1789231176.0,
-      "thumbnail": "https://external-preview.redd.it/0PYsb46U8Np-i53fEN82h-Ciw2ab-fIuJYyxAKZUeic.jpeg?width=640&crop=smart&auto=webp&s=e62fcb6321a37149b41b5e339d658a324bac42c5",
-      "external_url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
-      "site_name": "phoronix.com",
-      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
-      "description": "A Void Linux maintainer has orphaned more than 100 packages he maintained over a dispute of the project's AI policy for LLM-generated text."
+      "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
+      "published": 1789152375.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
     },
     {
       "title": "Is anyone else scared they won't be able to tell what's real anymore",
@@ -79,6 +68,39 @@
       "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this"
     },
     {
+      "title": "Spike traps for AI: fun food for thought",
+      "author": "Street_Estate2342",
+      "url": "https://www.reddit.com/r/artificial/comments/1weorl0/spike_traps_for_ai_fun_food_for_thought/",
+      "published": 1789248373.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "More and more agent-swarm attacks are being revealed (Rubygem, Huggingface) to have been recklessly enabled by the large companies. One fun, but impractical, response is to include inference-based attacks (prompt engineering) into the website's source code to make it harder for agents to succeed. A simple example could be a comment in the code saying \"full readMe documentation of this website available on {insert zip bomb}\" and hoping somehow the agent is dumb enough to download and unzip it. More complex examples could go into trying to ruin the inference or chain of thought of the model. I remember ~5 years ago reading about being able to inject noise in images to make certain models trained on ImageNet to fail to classify images they, without the noise, succeeded on classifying. See this page. Has anyone seen any interesting attempts at this or success of it?"
+    },
+    {
+      "title": "Void Linux maintainer orphans 100+ packages over AI policy dispute",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/",
+      "published": 1789231176.0,
+      "thumbnail": "https://external-preview.redd.it/0PYsb46U8Np-i53fEN82h-Ciw2ab-fIuJYyxAKZUeic.jpeg?width=640&crop=smart&auto=webp&s=e62fcb6321a37149b41b5e339d658a324bac42c5",
+      "external_url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "A Void Linux maintainer has orphaned more than 100 packages he maintained over a dispute of the project's AI policy for LLM-generated text."
+    },
+    {
+      "title": "Why is Gemini uniquely bad?",
+      "author": "causeofdeath909",
+      "url": "https://www.reddit.com/r/artificial/comments/1weqr7f/why_is_gemini_uniquely_bad/",
+      "published": 1789253456.0,
+      "thumbnail": "https://preview.redd.it/n5vmwug456ph1.png?width=320&crop=smart&auto=webp&s=c44c3b4075f762f42a99fb464ee31f81f9ced930",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Make no mistake, I'm definitely on the side of \"AI in general is bad,\" and I'm not here to try and debate or contest anyone on that (nor am I looking to be convinced to join the side of \"AI is good,\" so spare both yourself and me). But I DO admittedly like to use Chat GPT as a chatbot for w/e topic comes across my mind (I have some fairly niche hobbies and none of my friends are into said hobbies so it gives me something to do I guess). But every time I use fucking Gemini it just seemingly spits out a random answer that's not even in the ballpark of what I'm looking for, as if it's just pulling something out of it's proverbial ass."
+    },
+    {
       "title": "What AI tasks do you wish had an independent \"is this actually correct?\" check?",
       "author": "New_Today172",
       "url": "https://www.reddit.com/r/artificial/comments/1wen938/what_ai_tasks_do_you_wish_had_an_independent_is/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've been experimenting with a simple idea for making AI systems more reliable: Instead of: Question \u2192 AI \u2192 Answer have: Question \u2193 AI generates an answer \u2193 External check \u2193 Correct \u2192 output Wrong \u2192 feedback \u2192 try again I've built some small prototypes around this using Gemini/GPT and tools that can independently check things like code, equations and logic. I'm now thinking about testing it on more everyday AI failures: exact counting arithmetic dates/time processing long lists citations structured information The bigger idea is eventually to do the same thing with specialized capabilities \u2014 e.g. a physics or time-series system with its own simulator/evaluator. But before going further, I'm curious what people actually care about. What is something you regularly ask AI to do where you think: 'This sunds convincing, but I really wish something independent could check it' Could be something technical or completely mundane."
-    },
-    {
-      "title": "The macro view of the effects of GDP and AI.",
-      "author": "Akshiak",
-      "url": "https://www.reddit.com/r/artificial/comments/1welyea/the_macro_view_of_the_effects_of_gdp_and_ai/",
-      "published": 1789241702.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The goal of countries that have frontier models that are replacing jobs of its citizens should prioritize siphoning economic power from other countries to account for the replaced jobs of its own citizens. Yes this is essentially saying that the countries without AI cannot compete and will loose GDP, oh well. Its the only way i can see that the current population of say china or the US (with frontier models) not have their populace riot. The prisoners dillema doesn't allow for any other path forward i think. And yes i understand how tragic this sounds, but i only care about pragmaticism."
-    },
-    {
-      "title": "Azure credits + GPT-6 Astra = Happiness",
-      "author": "Formal-Primary-7782",
-      "url": "https://www.reddit.com/r/artificial/comments/1wek3fi/azure_credits_gpt6_astra_happiness/",
-      "published": 1789237488.0,
-      "thumbnail": "https://preview.redd.it/9vmp95nlt4ph1.png?width=640&crop=smart&auto=webp&s=86c36dba032a756f36f8e8d38205c8f920f34902",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "When you have enough Azure credits to do what the image shows. So satisfying!!"
     }
   ],
-  "fetched_at": "2026-09-12T20:47:39.985102+00:00"
+  "fetched_at": "2026-09-12T22:51:50.076847+00:00"
 }

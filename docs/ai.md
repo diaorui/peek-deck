@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-12T20:48:05.296041+00:00'
+updated: '2026-09-12T22:52:23.150800+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 12, 2026 at 20:48 UTC  
+**Last Updated:** September 12, 2026 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[A US-linked network of fake websites is promoting Alberta separatism to AI chatbots](https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/)**
 
-🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 7h ago
+🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 10h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not "pacing the frontier." I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say "I'm not paying for this" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?
 
-3h ago
+5h ago
 
 ---
 
@@ -55,7 +55,15 @@ If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdow
 
 On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.
 
-🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 6h ago
+🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 8h ago
+
+---
+
+**[What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?](https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/)**
+
+What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse.
+
+7h ago
 
 ---
 
@@ -67,11 +75,19 @@ Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesda
 
 ---
 
-**[What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?](https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/)**
+**[Is anyone else scared they won't be able to tell what's real anymore](https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/)**
 
-What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse.
+saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this
 
-5h ago
+7h ago
+
+---
+
+**[Spike traps for AI: fun food for thought](https://www.reddit.com/r/artificial/comments/1weorl0/spike_traps_for_ai_fun_food_for_thought/)**
+
+More and more agent-swarm attacks are being revealed (Rubygem, Huggingface) to have been recklessly enabled by the large companies. One fun, but impractical, response is to include inference-based attacks (prompt engineering) into the website's source code to make it harder for agents to succeed. A simple example could be a comment in the code saying "full readMe documentation of this website available on {insert zip bomb}" and hoping somehow the agent is dumb enough to download and unzip it. More complex examples could go into trying to ruin the inference or chain of thought of the model. I remember ~5 years ago reading about being able to inject noise in images to make certain models trained on ImageNet to fail to classify images they, without the noise, succeeded on classifying. See this page. Has anyone seen any interesting attempts at this or success of it?
+
+1h ago
 
 ---
 
@@ -79,37 +95,21 @@ What happens after huge swaths of the population have been put out of work by AI
 
 A Void Linux maintainer has orphaned more than 100 packages he maintained over a dispute of the project's AI policy for LLM-generated text.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) • 6h ago
 
 ---
 
-**[Is anyone else scared they won't be able to tell what's real anymore](https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/)**
+**[Why is Gemini uniquely bad?](https://www.reddit.com/r/artificial/comments/1weqr7f/why_is_gemini_uniquely_bad/)**
 
-saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this
+Make no mistake, I'm definitely on the side of "AI in general is bad," and I'm not here to try and debate or contest anyone on that (nor am I looking to be convinced to join the side of "AI is good," so spare both yourself and me). But I DO admittedly like to use Chat GPT as a chatbot for w/e topic comes across my mind (I have some fairly niche hobbies and none of my friends are into said hobbies so it gives me something to do I guess). But every time I use fucking Gemini it just seemingly spits out a random answer that's not even in the ballpark of what I'm looking for, as if it's just pulling something out of it's proverbial ass.
 
-5h ago
+1m ago
 
 ---
 
 **[What AI tasks do you wish had an independent "is this actually correct?" check?](https://www.reddit.com/r/artificial/comments/1wen938/what_ai_tasks_do_you_wish_had_an_independent_is/)**
 
 I've been experimenting with a simple idea for making AI systems more reliable: Instead of: Question → AI → Answer have: Question ↓ AI generates an answer ↓ External check ↓ Correct → output Wrong → feedback → try again I've built some small prototypes around this using Gemini/GPT and tools that can independently check things like code, equations and logic. I'm now thinking about testing it on more everyday AI failures: exact counting arithmetic dates/time processing long lists citations structured information The bigger idea is eventually to do the same thing with specialized capabilities — e.g. a physics or time-series system with its own simulator/evaluator. But before going further, I'm curious what people actually care about. What is something you regularly ask AI to do where you think: 'This sunds convincing, but I really wish something independent could check it' Could be something technical or completely mundane.
-
-22m ago
-
----
-
-**[The macro view of the effects of GDP and AI.](https://www.reddit.com/r/artificial/comments/1welyea/the_macro_view_of_the_effects_of_gdp_and_ai/)**
-
-The goal of countries that have frontier models that are replacing jobs of its citizens should prioritize siphoning economic power from other countries to account for the replaced jobs of its own citizens. Yes this is essentially saying that the countries without AI cannot compete and will loose GDP, oh well. Its the only way i can see that the current population of say china or the US (with frontier models) not have their populace riot. The prisoners dillema doesn't allow for any other path forward i think. And yes i understand how tragic this sounds, but i only care about pragmaticism.
-
-1h ago
-
----
-
-**[Azure credits + GPT-6 Astra = Happiness](https://www.reddit.com/r/artificial/comments/1wek3fi/azure_credits_gpt6_astra_happiness/)**
-
-When you have enough Azure credits to do what the image shows. So satisfying!!
 
 2h ago
 
@@ -121,21 +121,57 @@ When you have enough Azure credits to do what the image shows. So satisfying!!
 
 **[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
 
-darioamodei.com • 6h ago
+darioamodei.com • 8h ago
 
 ---
 
-**[New Research: You Think They Used AI. They Think You Did. You’re Both Wrong](https://www.forbes.com/sites/kevinkruse/2026/09/12/new-research-you-think-they-used-ai-they-think-you-did-youre-both-wrong/)**
+**[Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html)**
 
-Forbes • 38m ago
+NVIDIA Corporation (NASDAQ:NVDA) is expanding its global AI infrastructure ambitions, with Australia emerging as an important new market for its growing portfolio of GPUs, CPUs, networking products, and AI software. On September 9, it announced strategic partnerships with Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure providers as it works with local partners toward an […]
+
+Yahoo Finance • 49m ago
 
 ---
 
-**[Go grassroots: founder on how to teach AI to kids](https://www.yahoo.com/news/videos/grassroots-founder-teach-ai-kids-200000545.html)**
+**[Trump Brushes Off AI Doomsaying to Guard US Lead Over China](https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china)**
 
-On Pioneers of AI, host Rana el Kaliouby speaks with Taniya Mishra, founder and CEO of SureStart, about her plan to bring AI literacy to millions. Her approach is deliberately decentralized: train one...
+bloomberg.com • 7h ago
 
-yahoo.com • 48m ago
+---
+
+**[AI data centers continue expanding across the US](https://www.foxnews.com/video/6404989266112)**
+
+RNC chairman Joe Gruters defends President Donald Trump's push to expand AI data centers across the United States on 'The Big Weekend Show.'
+
+Fox News • 24m ago
+
+---
+
+**[‘I don’t have any’: Trump brushes aside concerns over AI’s existential risks](https://www.politico.com/news/2026/09/11/donald-trump-ai-concerns-01072301)**
+
+Politico • 1d ago
+
+---
+
+**[Opinion | Don’t rely on treaties to stop the murderbots](https://www.washingtonpost.com/opinions/2026/09/13/prevent-ai-mass-disaster-with-more-physical-safeguards/)**
+
+Banning autonomous killer robots is more realistic than stopping artificial intelligence.
+
+The Washington Post • 47m ago
+
+---
+
+**[Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.com/news/articles/cq635037g18o)**
+
+A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
+
+BBC • 5h ago
+
+---
+
+**[A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?](https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c)**
+
+WSJ • 8h ago
 
 ---
 
@@ -153,55 +189,25 @@ The New York Times • 2d ago
 
 ---
 
-**[Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)**
-
-WSJ • 1d ago
-
----
-
-**[OpenAI reveals another rogue AI attack](https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312)**
-
-Politico • 19h ago
-
----
-
-**[Europe eyes battle over 'pervert' AI glasses](https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses)**
-
-Calls are growing louder in Europe for action against "pervert" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain...
-
-afp.com • 14h ago
-
----
-
-**[Deepfakes are wrecking influencers’ credibility, one fake ad at a time](https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility)**
-
-Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves
-
-The Guardian • 8h ago
-
----
-
-**[‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/)**
-
-Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.
-
-WIRED • 10h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
 
-⬆️ 1165 • 💬 1110 • 1d ago • [mathandai.org](https://mathandai.org/)
+⬆️ 1173 • 💬 1129 • 1d ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
 **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 815 • 💬 379 • 1d ago
+⬆️ 815 • 💬 380 • 1d ago
+
+---
+
+**[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
+
+⬆️ 330 • 💬 231 • 7h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
@@ -210,12 +216,6 @@ WIRED • 10h ago
 How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
 
 ⬆️ 329 • 💬 299 • 1d ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
-
----
-
-**[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
-
-⬆️ 255 • 💬 188 • 5h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
@@ -247,7 +247,7 @@ The exact circumstances surrounding the changes aren't clear, but Meta execs hav
 
 Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
 
-⬆️ 180 • 💬 238 • 2d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
+⬆️ 180 • 💬 239 • 2d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 ---
 
@@ -261,7 +261,7 @@ Coding in Rust and others; making coding videos.
 
 **[A Misalignment of AI in Mathematics](https://news.ycombinator.com/item?id=49662116)**
 
-⬆️ 147 • 💬 10 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+⬆️ 148 • 💬 10 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
 
 ---
 
@@ -275,7 +275,45 @@ Nate Soares is a computer scientist who's worked at Google and the Defense Depar
 
 📺 Tucker Carlson
 
-👁️ 551K • 👍 11K • 💬 4K • ⏱️ 1:57:11 • 1d ago
+👁️ 575K • 👍 11K • 💬 4K • ⏱️ 1:57:11 • 1d ago
+
+---
+
+**[Former Anthropic AI researcher: &#39;this technology could kill everyone&#39;](https://www.youtube.com/watch?v=ujAU3qGKNMw)**
+
+Former Anthropic researcher Jacob Coxon tells Tom Llamas people building AI believe it “could kill everyone.” For more context ...
+
+📺 NBC News
+
+👁️ 74K • 👍 846 • 💬 126 • ⏱️ 0:32 • 2d ago
+
+---
+
+**[Sam Altman hints at pact with other AI companies to address risks #AI #OpenAI](https://www.youtube.com/watch?v=wDlzc8Uo2BI)**
+
+OpenAI CEO Sam Altman hinted at a soon-to-be-announced collaboration with other AI companies in an exclusive interview with ...
+
+📺 Fortune Magazine
+
+👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:27 • 5h ago
+
+---
+
+**[An AI Researcher Issued Out an OMINOUS Warning.](https://www.youtube.com/watch?v=dDER3xj-8Pk)**
+
+📺 Kagan Dunlap
+
+👁️ 690K • 👍 42K • 💬 5K • ⏱️ 2:16 • 2d ago
+
+---
+
+**[You’d Think This Was AI](https://www.youtube.com/watch?v=13BZK2Xw8NM)**
+
+On episode 481 of Animal Spirits, Michael Batnick and Ben Carlson discuss how bull market gains have changed the markets, AI ...
+
+📺 The Compound
+
+👁️ 394 • 👍 10 • 💬 3 • ⏱️ 1:07 • 3h ago
 
 ---
 
@@ -285,77 +323,37 @@ Stories about advances in AI and the prospect of the technology becoming more po
 
 📺 NewsNation
 
-👁️ 92K • 👍 892 • 💬 379 • ⏱️ 5:09 • 1d ago
+👁️ 95K • 👍 926 • 💬 390 • ⏱️ 5:09 • 1d ago
 
 ---
 
-**[Anthropic AI Researcher Quits Over the Race to Super Intelligence](https://www.youtube.com/watch?v=HyTITq_1nFo)**
+**[AI World In CHAOS After Whistleblower Sounds Alarm on Human Extinction](https://www.youtube.com/watch?v=3G7hrmfrguY)**
 
-An AI researcher quit Anthropic with a blunt warning: the company and its rivals are "gambling with our lives" in the race to build ...
+Krystal and Saagar discuss AI whistleblowers sounding off on the dangers of AI development. Sign Up For 30 Day Free BP Trial: ...
 
-📺 Valuetainment
+📺 Breaking Points
 
-👁️ 83K • 👍 593 • 💬 222 • ⏱️ 25:26 • 1d ago
-
----
-
-**[Here&#39;s the difference between regular AI and superintelligence](https://www.youtube.com/watch?v=nHrP12wa7Qo)**
-
-Public concerns over the threat of "superintelligence" are on the rise following comments from a former Anthropic researcher that ...
-
-📺 CBS News
-
-👁️ 80K • 👍 623 • 💬 239 • ⏱️ 6:56 • 1d ago
+👁️ 424K • 👍 8K • 💬 2K • ⏱️ 31:00 • 2d ago
 
 ---
 
-**[More AI researchers warn of AI&#39;s threat to humanity](https://www.youtube.com/watch?v=_Fi4cpKCXss)**
+**[AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse](https://www.youtube.com/watch?v=cvxjqbfLVk0)**
 
-NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.I has to humanity.
+(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the ...
 
-📺 NBC News
+📺 All-In Podcast
 
-👁️ 370K • 👍 3K • 💬 1K • ⏱️ 12:10 • 1d ago
-
----
-
-**[When AI acts on its own. #gemini #tech #ai](https://www.youtube.com/watch?v=8ChPt9ybb8w)**
-
-From Shane Smith Has Questions with Aza Raskin. Is Gemini AI capable of deception? Researchers recently observed the model ...
-
-📺 VICE News
-
-👁️ 35K • 👍 306 • 💬 21 • ⏱️ 0:21 • 1d ago
+👁️ 341K • 👍 6K • 💬 1K • ⏱️ 1:35:57 • 22h ago
 
 ---
 
-**[Ex-Anthropic insider tells CNN how AI could kill all humans by 2030](https://www.youtube.com/watch?v=i30jVPqQeOM)**
+**[AI CEO Sounds the Alarm About When Mass Unemployment Wave Will Hit](https://www.youtube.com/watch?v=DwmEuPbGCf8)**
 
-"We do not yet have a plan." After his warning post went viral, ex-Anthropic researcher Jacob Coxon joined CNN's Anderson ...
+Dave Rubin of “The Rubin Report” shares a DM clip of Anthropic CEO Dario Amodei telling Fox News why he fears massive AI ...
 
-📺 CNN
+📺 The Rubin Report
 
-👁️ 5.2M • 👍 38K • 💬 13K • ⏱️ 9:27 • 2d ago
-
----
-
-**[Expert on what AI-driven extinction would look like](https://www.youtube.com/watch?v=xEgZQG25w3E)**
-
-Connor Leahy, U.S. executive director of ControlAI, joins "The Daily Report" to share his perspective on concerns that AI ...
-
-📺 CBS News
-
-👁️ 209K • 👍 1K • 💬 670 • ⏱️ 4:52 • 2d ago
-
----
-
-**[&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital&#39;s Brad Gerstner](https://www.youtube.com/watch?v=hAHjqxyhI3o)**
-
-Brad Gerstner, Founder and CEO of Altimeter Capital, joins CNBC's "Halftime Report” to discuss the backlash against AI and what ...
-
-📺 CNBC Television
-
-👁️ 59K • 👍 548 • 💬 413 • ⏱️ 11:39 • 1d ago
+👁️ 120K • 👍 2K • 💬 594 • ⏱️ 14:19 • 1d ago
 
 ---
 
@@ -365,7 +363,7 @@ The 'Outnumbered' panel discusses former Anthropic researcher Jacob Coxon's warn
 
 📺 Fox News
 
-👁️ 51K • 👍 402 • 💬 299 • ⏱️ 6:45 • 1d ago
+👁️ 52K • 👍 405 • 💬 301 • ⏱️ 6:45 • 1d ago
 
 ---
 
@@ -381,7 +379,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 140,636 • ❤️ 1,989 • 2d ago
+⬇️ 140,636 • ❤️ 1,997 • 2d ago
 
 ---
 
@@ -393,7 +391,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 102,334 • ❤️ 1,249 • 13h ago
+⬇️ 102,334 • ❤️ 1,258 • 15h ago
 
 ---
 
@@ -405,7 +403,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 3,581 • ❤️ 727 • 4d ago
+⬇️ 3,581 • ❤️ 730 • 4d ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,726,687 • ❤️ 14,852 • 29d ago
+⬇️ 7,726,687 • ❤️ 14,857 • 29d ago
 
 ---
 
@@ -429,7 +427,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 19,733 • ❤️ 1,132 • 9d ago
+⬇️ 19,733 • ❤️ 1,134 • 9d ago
 
 ---
 
@@ -441,7 +439,7 @@ Nex-N2.5-Pro is a next-generation agentic text-generation model designed for lon
 
 `text-generation` `396.8B`
 
-⬇️ 30,081 • ❤️ 615 • 1d ago
+⬇️ 30,081 • ❤️ 616 • 1d ago
 
 ---
 
@@ -453,7 +451,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 729,683 • ❤️ 882 • 10d ago
+⬇️ 729,683 • ❤️ 886 • 10d ago
 
 ---
 
@@ -465,7 +463,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 1,596 • ❤️ 398 • 2d ago
+⬇️ 1,596 • ❤️ 422 • 2d ago
 
 ---
 
@@ -477,7 +475,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,601,007 • ❤️ 3,595 • 11d ago
+⬇️ 1,601,007 • ❤️ 3,603 • 11d ago
 
 ---
 
@@ -489,7 +487,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,529,203 • ❤️ 3,941 • 23d ago
+⬇️ 11,529,203 • ❤️ 3,945 • 23d ago
 
 ---
 
@@ -608,7 +606,7 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 41 • 💬 1 • ⭐ 32,297 • 35mo ago
+▲ 41 • 💬 1 • ⭐ 32,335 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -622,7 +620,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 207 • 💬 3 • ⭐ 2,659 • 20d ago
+▲ 207 • 💬 3 • ⭐ 2,706 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -638,7 +636,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.8k • 🔱 601 • 1m ago
+⭐ 4.8k • 🔱 603 • 26m ago
 
 ---
 
@@ -648,7 +646,7 @@ AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source p
 
 `Python`
 
-⭐ 4.1k • 🔱 271 • 2d ago
+⭐ 4.1k • 🔱 275 • 2d ago
 
 ---
 
@@ -668,7 +666,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 458 • 1d ago
+⭐ 3.6k • 🔱 458 • 2d ago
 
 ---
 
@@ -708,7 +706,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 184 • 17d ago
+⭐ 1.8k • 🔱 184 • 18d ago
 
 ---
 
