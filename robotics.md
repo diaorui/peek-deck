@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T15:44:46.488402+00:00'
+updated: '2026-09-12T18:09:43.830649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 15:44 UTC  
+**Last Updated:** September 12, 2026 at 18:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
 
-20h ago
+22h ago
 
 ---
 
@@ -64,7 +64,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 **[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
-18h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 21h ago
+🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 23h ago
 
 ---
 
@@ -124,11 +124,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Construction robots attack America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
-America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-CNBC • 2h ago
+TechCrunch • 2d ago
+
+---
+
+**[Medtronic’s Jim Peichel on AI, robotics and the future of surgery](https://www.modernhealthcare.com/medical-devices/mh-medtronic-jim-peichel-ai-robotics-surgery/)**
+
+Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency.
+
+Modern Healthcare • 2d ago
 
 ---
 
@@ -146,25 +154,11 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 ---
 
-**[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
+**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast)**
 
-The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+Robotics expert Changliu Liu explains.
 
-TechCrunch • 16h ago
-
----
-
-**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 1d ago
-
----
-
-**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
-
-gizmodo.com • 21h ago
+cnn.com • 19h ago
 
 ---
 
@@ -174,11 +168,19 @@ Breaking Defense • 1d ago
 
 ---
 
+**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+
+New tactile datasets could solve a longstanding challenge in robotics
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
 
 Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
 
-NVIDIA Blog • 1d ago
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -192,7 +194,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 855K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
+👁️ 898K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
 
 ---
 
@@ -206,33 +208,33 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 ---
 
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 52K • 👍 224 • 💬 54 • ⏱️ 3:39 • 3d ago
-
----
-
 **[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
 
 The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
 
 📺 States 2050
 
-👁️ 647K • 👍 10K • 💬 512 • ⏱️ 23:25 • 4d ago
+👁️ 651K • 👍 10K • 💬 517 • ⏱️ 23:25 • 4d ago
 
 ---
 
-**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
 
-We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
-📺 Milk Road Stocks
+📺 Blakwoodz
 
-👁️ 14K • 👍 226 • 💬 24 • ⏱️ 48:57 • 5d ago
+👁️ 44K • 👍 1K • 💬 422 • ⏱️ 13:22 • 1d ago
+
+---
+
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 55K • 👍 240 • 💬 55 • ⏱️ 3:39 • 3d ago
 
 ---
 
@@ -242,7 +244,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 350K • 👍 3K • 💬 312 • ⏱️ 5:52 • 3d ago
+👁️ 362K • 👍 3K • 💬 315 • ⏱️ 5:52 • 3d ago
 
 ---
 
@@ -256,33 +258,31 @@ Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speak
 
 ---
 
-**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
-
-Unitree R1 humanoid Robot.
-
-📺 İncelemedeyim
-
-👁️ 168K • 👍 2K • 💬 96 • ⏱️ 0:59 • 5d ago
-
----
-
 **[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
 
 Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
 
 📺 RICHLEV
 
-👁️ 499K • 👍 9K • 💬 2K • ⏱️ 38:26 • 4d ago
+👁️ 510K • 👍 10K • 💬 2K • ⏱️ 38:26 • 4d ago
 
 ---
 
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
+**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
 
-PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
+Unitree R1 humanoid Robot.
 
-📺 LIGHTS ARE OFF
+📺 İncelemedeyim
 
-👁️ 6.2M • 👍 101K • 💬 13K • ⏱️ 25:44 • 6d ago
+👁️ 170K • 👍 2K • 💬 96 • ⏱️ 0:59 • 6d ago
+
+---
+
+**[3D-Printed Robot Arm Output #3dprinting #satisfying #robot #3dprinted #robotics](https://www.youtube.com/watch?v=lfSlPKkJ0lg)**
+
+📺 Stuff Gets Made
+
+👁️ 3K • 👍 29 • 💬 1 • ⏱️ 0:31 • 1d ago
 
 ---
 
