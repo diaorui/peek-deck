@@ -16,7 +16,7 @@
     },
     {
       "headline": "Current price of Ethereum for September 9, 2026",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WFFhbkZwLWd3ems2Z25TaENuTnVEaVpSUzhjSG5vUm93U3FPclZOX28wc1Y3cGQ4S1hyd0NJa191Rnk4QzJ3dFpvang1WDhSend1elNUQ1FuazZEejlHOHg4MkFKOS1L?oc=5",
       "pub_date": 1788951600.0,
@@ -36,7 +36,7 @@
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
       "pub_date": 1788962400.0,
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBQZHNDa056MGFOVHpiWXBJWWlVN3RFWFRmNXU1MlRWSmJZNllrbVBKYzhrY1A0VE1RR0Z1R1BiWXU0Mk9kM1ZYUmlfakhCNmU5MXQtVVhHa3htdm51TUZGTmltRXdfTW5DdVhGMkhiNnVYOG5vM0VSSWZpUFNNYmRCN3dCOFpaR1VvbXlmVHBqUWdYRXVaNV9PQ2YyandLWWFCQy1aREt0UEIta1g5WDNhVXI?oc=5",
       "pub_date": 1789045200.0,
@@ -65,24 +65,24 @@
       "description": "XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5\u2026"
     },
     {
-      "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDRRd1R2UndNOUhlXzZFSXlIc19RNDlaZlZLWVYyeEc2QmotdnFweGdqRE1DNUZYZWNDemxhMFRBU1RGSlpJRFhScGVxN1FJN0dYUTZVS0pBYVdlakIxMjcxZ2VWalVHM2V3MWRiaV83OThiRmtiNUo1blNTQ3F2R1VJRmNQTml4VTFGYlF4NHdWV2NFS1N6ZG5pZ3hPTHJQNUw5WWdBNnY0aWNYaE9HNjNFLTNiNm1ial9RM1pfQXhLaTVreUtjY2RxbTFGNVl6VFFxWktSTXowREplcG4zaw?oc=5",
-      "pub_date": 1789045200.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-      "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
-      "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
-    },
-    {
-      "headline": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
+      "headline": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFE3YXpHaU40VTU2UDA2blpVMEExSTdDd0o4eXFVamVBZHpadEdUVllxajVjQ09ocDctc2puOTRDaktteF9WUjZFd3NFRDJXSkliQjJUNmllM0EwNWZCblVFLTVGdWg0VkplM2JHMXlmcDMxTzByNmpnUEU3YmppMXdnblVmazQ1dUV5SEJidk5yU21OS21ZU0JjQWFhZU9rS1lZMGNBNlUzZ0hKakhxNA?oc=5",
-      "pub_date": 1789157409.0,
-      "article_url": "https://cryptoslate.com/philadelphia-fed-finds-bitcoin-traders-follow-whale-signals-faster-than-ethereum-users/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-whale-wallet-wake.jpg",
-      "description": "Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted."
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVN5cG1uUGxRUnZRSm1US3BWME9SZG9HVGNfbFRKRWExdjItMHBlcnkzUFR6SnU2SUVPQ0k2QllJaHlIbFlBWGdscEJVVzNYalpTcTNkcmh2U0ZTaVhJTk5McFUwdWYzVC1Ea1llTHNVUEY1NEExSVc2a3FRdzNPM09EX3hXRnF5RlRnQndwb0pOX2lLY1drS1dOSm4zM01ZQlpWUzEtZ2RJZmxiOHc?oc=5",
+      "pub_date": 1789134646.0,
+      "article_url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
+      "description": "A 10-year study found more than 50% of Bitcoin\u2019s daily variance now clusters around US trading hours, with the peak moving alongside New York\u2019s clock."
+    },
+    {
+      "headline": "New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONDlRVnM0V0JvbVZkYjEwTFhNdTFXM2RyNHR0c0d6SHhLYVBrX0ZqTTVwaHBrTFpuNDA1NmZzNEtRWEp4YnpTcGE5UTN1NWYtakFoT213UnhfSDVCX3pBQnIyUm5VRmg5anEtOTdGVkFWRU41MXc2dHFacGVHaThZazlTRmlPNWl3MEVnRVZMQWdNVDBReE9CU1UtZ3NISVdOTHhlVWxFb1JmMFE1ZkREYnlaOW13VlFHbUh1X0VyaThoaUMzWlBlQ1llejV3dDcxaHBqNDlVZ1hKdzM3cWlXcm9VMA?oc=5",
+      "pub_date": 1789198273.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062",
+      "image": "https://ml.globenewswire.com/Resource/Download/cd3d10cc-0681-4dd3-b68f-29550bc9df8f/pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000.jpg",
+      "description": "DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number..."
     },
     {
       "headline": "Ethereum: Hits R2 Resistance on Opportunity Channel",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T03:28:05.382936+00:00"
+  "fetched_at": "2026-09-12T08:06:16.334359+00:00"
 }

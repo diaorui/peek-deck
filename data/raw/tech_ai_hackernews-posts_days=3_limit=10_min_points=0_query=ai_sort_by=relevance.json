@@ -5,32 +5,32 @@
   "days": 3,
   "posts": [
     {
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "hn_url": "https://news.ycombinator.com/item?id=49657850",
-      "author": "cromka",
-      "points": 758,
-      "num_comments": 364,
-      "created_at": "2026-09-11T13:11:04Z",
-      "object_id": "49657850",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49662371",
       "author": "meredydd",
-      "points": 716,
-      "num_comments": 741,
+      "points": 860,
+      "num_comments": 842,
       "created_at": "2026-09-11T17:45:12Z",
       "object_id": "49662371",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "mathandai.org"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "hn_url": "https://news.ycombinator.com/item?id=49657850",
+      "author": "cromka",
+      "points": 784,
+      "num_comments": 365,
+      "created_at": "2026-09-11T13:11:04Z",
+      "object_id": "49657850",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     },
     {
       "title": "AirPods 5",
@@ -51,8 +51,8 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "hn_url": "https://news.ycombinator.com/item?id=49656496",
       "author": "JohnHammersley",
-      "points": 321,
-      "num_comments": 295,
+      "points": 324,
+      "num_comments": 297,
       "created_at": "2026-09-11T11:17:50Z",
       "object_id": "49656496",
       "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
@@ -75,6 +75,34 @@
       "site_name": "science.org"
     },
     {
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
+      "hn_url": "https://news.ycombinator.com/item?id=49659647",
+      "author": "postalcoder",
+      "points": 186,
+      "num_comments": 84,
+      "created_at": "2026-09-11T15:01:19Z",
+      "object_id": "49659647",
+      "image": "https://hcker.news/android-chrome-512x512.png",
+      "description": "A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.",
+      "favicon": "https://hcker.news/apple-touch-icon.png",
+      "site_name": "hcker.news"
+    },
+    {
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "hn_url": "https://news.ycombinator.com/item?id=49660783",
+      "author": "otherayden",
+      "points": 185,
+      "num_comments": 78,
+      "created_at": "2026-09-11T16:08:50Z",
+      "object_id": "49660783",
+      "image": null,
+      "description": "Hacker News with AI content removed.",
+      "favicon": "https://www.unslop.news/favicon.ico",
+      "site_name": "unslop.news"
+    },
+    {
       "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
       "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "hn_url": "https://news.ycombinator.com/item?id=49636345",
@@ -89,39 +117,11 @@
       "site_name": "Engadget"
     },
     {
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "hn_url": "https://news.ycombinator.com/item?id=49659647",
-      "author": "postalcoder",
-      "points": 177,
-      "num_comments": 83,
-      "created_at": "2026-09-11T15:01:19Z",
-      "object_id": "49659647",
-      "image": "https://hcker.news/android-chrome-512x512.png",
-      "description": "A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.",
-      "favicon": "https://hcker.news/apple-touch-icon.png",
-      "site_name": "hcker.news"
-    },
-    {
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news/",
-      "hn_url": "https://news.ycombinator.com/item?id=49660783",
-      "author": "otherayden",
-      "points": 175,
-      "num_comments": 76,
-      "created_at": "2026-09-11T16:08:50Z",
-      "object_id": "49660783",
-      "image": null,
-      "description": "Hacker News with AI content removed.",
-      "favicon": "https://www.unslop.news/favicon.ico",
-      "site_name": "unslop.news"
-    },
-    {
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "hn_url": "https://news.ycombinator.com/item?id=49647300",
       "author": "garo-pro",
-      "points": 171,
+      "points": 173,
       "num_comments": 235,
       "created_at": "2026-09-10T17:23:42Z",
       "object_id": "49647300",
@@ -135,8 +135,8 @@
       "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49661506",
       "author": "encyclopedism",
-      "points": 168,
-      "num_comments": 275,
+      "points": 172,
+      "num_comments": 278,
       "created_at": "2026-09-11T16:50:51Z",
       "object_id": "49661506",
       "image": "https://artificialworlds.net/blog/banner.png",
@@ -145,7 +145,7 @@
       "site_name": "Andy Balaam's Blog"
     }
   ],
-  "total_hits": 728,
+  "total_hits": 719,
   "has_metadata": true,
-  "fetched_at": "2026-09-12T03:27:46.846822+00:00"
+  "fetched_at": "2026-09-12T08:05:58.862243+00:00"
 }

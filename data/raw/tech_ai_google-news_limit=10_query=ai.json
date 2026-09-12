@@ -15,32 +15,52 @@
       "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream"
     },
     {
-      "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5",
-      "pub_date": 1789124304.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
-      "description": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards."
-    },
-    {
-      "headline": "Opinion | This Is Really Bad",
+      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlVNVmVmRkpaMmdEZ2dFdTB6Q0JsUUM1YVpCTC1DcHBVVE45b1otS1djRWJHSFlFX0N2bVAzVkRaaTdpVVpmVFU4UEdQc0NYSVllZ0lxcGliaWpBbmVaZFZGMHRWLVlkYWVSWDVzZ3BaVWtCdXE0b1hBMF8yVWJZWA?oc=5",
-      "pub_date": 1789117350.0,
-      "article_url": "https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
+      "pub_date": 1789129020.0,
+      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "headline": "Here\u2019s why it\u2019s so hard to keep AI agents from going rogue",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5",
+      "pub_date": 1789142400.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AOTVHMVCLFAALMZGBPXPOACXZA.jpg&w=1440",
+      "description": "The techniques that made chatbots more capable can also bake in a tendency to hack, cheat and evade human oversight."
+    },
+    {
+      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
+      "pub_date": 1789170960.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
+      "description": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems"
+    },
+    {
+      "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-      "pub_date": 1789134540.0,
-      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5",
+      "pub_date": 1789165500.0,
+      "article_url": "https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI reveals another rogue AI attack",
+      "source": "politico.com",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "pub_date": 1789175040.0,
+      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
       "image": null,
       "description": null
     },
@@ -55,56 +75,36 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+      "headline": "Okta Targets AI Agent Confusion With Identity Security Push",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUNfbUhaclY1Sm9VSkdMVUQ2TllHVUp3THBJZTd3NFhVUG05VWVyeEpTS1JHaHFlYlVVOEYzYmJjR2dwMXNiX2JrdVo0M1RwaEF4aWxsZUR5bTd1RFZZeTN1bENJOU9PV2lLS2JPMmU2NFA1M2s1enlobjFVektVR0lJYVlHTU95Zi1SYWVicTdwUTQ3MW9WT3lDWQ?oc=5",
+      "pub_date": 1789192919.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/okta-targets-ai-agent-confusion-060159554.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/474046190fe088670f000f5f5fd2c052d9369671f98a83db6f764c09a8f4627c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fe916e7fcf91604c187fd3af21c94bd0d.png",
+      "description": "Okta (NASDAQ:OKTA) President and COO Eric Kelleher said enterprise customers are increasingly seeking guidance on securing AI agents, with uncertainty around the emerging technology representing a central challenge for the identity-security market. Speaking at the Goldman Sachs Communacopia + Techn"
+    },
+    {
+      "headline": "Congress Considers Guardrails for AI After Researcher\u2019s Warning",
+      "source": "The Presidential Prayer Team",
+      "source_url": "https://www.presidentialprayerteam.org",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU9fMXgxVTNOQldBZWs0anFSaldPbjdmVHdpNEtkOEQxb2JVSV9tYS1TVVNKZFNkVmFJN2JxNXFQZXVQMkRxM1lmMU00X0hXcXRXa1JhT29MM3M4ck96ZjBYdTNEaFoxNUwxYVFjdTZWN0ZJSGw4d01HQkhuYUhhelZLSHFidzB3YmMtRngxTkxLTnpZLVlGN1hQWmNBUjY4aHRWMTZjcGt2Yi1kaEVWbzlsbw?oc=5",
+      "pub_date": 1789200000.0,
+      "article_url": "https://www.presidentialprayerteam.org/2026/09/12/congress-considers-guardrails-for-ai-after-researchers-warning/",
+      "image": "https://www.presidentialprayerteam.org/wp-content/uploads/2020/03/PPT-Seal-Social-Meta-Image-1920x1080-1-e1584050686764.png",
+      "description": "Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority."
+    },
+    {
+      "headline": "AI may be denting computer science graduates\u2019 job prospects, UK data shows",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
-      "pub_date": 1789170960.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
-      "description": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems"
-    },
-    {
-      "headline": "OpenAI reveals another rogue AI attack",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
-      "pub_date": 1789175040.0,
-      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Can A.I. \u201cGo Rogue\u201d?",
-      "source": "The New Yorker",
-      "source_url": "https://www.newyorker.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lWkpLT0xFVjYtYWVvRmdfbDdobDhFWldqTjdTZmdxUU4tNEpkVTl5ejBCNW5qZDFYd2Q5WHowMXRFUVhhNTlPWkkwRFlnWUhjVG9waHN4VlZaNU1HcmlfbFEzTDBINC1iM293NkJfRk5TZw?oc=5",
-      "pub_date": 1789120800.0,
-      "article_url": "https://www.newyorker.com/culture/open-questions/can-ai-go-rogue",
-      "image": "https://media.newyorker.com/photos/6aa302a1307dd65de9fa4723/16:9/w_1280,c_limit/OpenQuestions_AI_Personification_final-1___.jpg",
-      "description": "In the wake of turmoil at OpenAI and Anthropic, it\u2019s become common to describe A.I. as a kind of person, hatching plans and pursuing desires. The truth is a little trickier."
-    },
-    {
-      "headline": "Ukraine war briefing: Russian developers used AI to build \u2018kamikaze\u2019 attack drone software, Anthropic says",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1pNN1E2LTdmelB4VUxzNkxvRThpTmNFc012M3lyWDBiYXc2c2VvUms2LTg2cjBqZGs0ZFJyN3pGU3doRVdkNnVzWVBFM0s3cWRtYVdHdUhtRS0wWEY3TjlBTG02V2czS2tjOVlsbkRMM0s4TV9heWo4UHh6ZFpjcW9pVlhCdXVmUnJFRWZldE5OWlVFQUFYcEhQcWUwRzdER0NKanB6SlIwLU5nSThMUTBsbDlSSk1JSkR0Y19VeHo4VEthNjZzZi1fVTU3S21FbDdRQWl3UGxXNGlMd3NEdVhB?oc=5",
-      "pub_date": 1789179120.0,
-      "article_url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-      "image": "https://i.guim.co.uk/img/media/2cea145a5f5a416d622770e2c2450b94cdea9135/509_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e78a9470bd3799625e767787fdf6de72",
-      "description": "Anthropic also found that hackers used AI in attacks against targets in Ukrainian government, military and diplomatic sectors."
-    },
-    {
-      "headline": "Nvidia says AGI is here. How are China\u2019s top AI labs catching up?",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1cVAxeDJLVDktY2hsVjZOV1U4YWlQVjdJVjY3ME9PaEdWeFo4WDRpb3BQZVpzbnpaMFJMWVl1NEdZNlZqa2xXbDFiODNWb3VpNFFmNFBlel9iZk1mYmNpQWdtSU15WWdlcFJ0OUZ2dTVVckxzTGdtcWhuR0xiMm53QUktZ09UTVZiRTNWQzhyMUNTek5PdkI5WW5uUVpmM3RLTnRYVWdRSV9yRndWZkg0TXBlZnh1bHg5LW1DRdIBvwFBVV95cUxNNHBaYTJvZFhUVHYzeFF1NHViNTNpZU0tUG53OEtQMzRRNGVsLVkybWZOc3IwbVNxTE83VDQwUlFoeTkySGh6Xy1lVFVDUkR5OXA2cDQzc2VKTWpGc3JodExBaHVKMEV0QkFrRjJPNEpwa3ZXeWxJNGt3Vzlxd2hIcVZ2ZDBnaUxlY0lPcEdIRkp1YWd0RDFDZENDWGp5a2tqNFVXSUIwTjJOakZLWUx5S0RNNE83eDgzZGo0RlY3TQ?oc=5",
-      "pub_date": 1789182009.0,
-      "article_url": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnEwT0RsQ21pVWk3eXVLcU5feGpNVzJ0cU5aNG84RV9vUE9HNFpCdXNXT0FDWmRQYklNYk1hTmJUSnhhcml6MW8zRks2TWV2ZEJ6dlJyQmlNcm01Z3lXRUJ1WDlOU3FTZElKOXIzZE9PaVJzaGJCZXZIcFlvRThQN3l1YWxIaHlFdFRybFlpVjZhOGV6VVphNkwxQkgtUjhpNnlB?oc=5",
+      "pub_date": 1789196400.0,
+      "article_url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+      "image": "https://i.guim.co.uk/img/media/fe746a73da419d2c972bac95b3ec2b2833706c92/625_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0729a9d98b3e5d04505cc3a776a130b",
+      "description": "Economics graduates also appear to be affected as demand for them falls in well-paid roles in finance"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T03:28:14.178518+00:00"
+  "fetched_at": "2026-09-12T08:06:21.144375+00:00"
 }
