@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
+      "author": "PerAsperaAdMars",
+      "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
+      "published": 1789217471.0,
+      "thumbnail": "https://external-preview.redd.it/Aysmxc6YIZB5iKfMQ5hE255gUoKb6tUz_mqeQdNuy7s.jpeg?width=640&crop=smart&auto=webp&s=b4b0bb206a41ae0b930dedfdbd96b56fad019a21",
+      "external_url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
+      "site_name": "nationalobserver.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "author": "rowrowrobot",
+      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
+      "published": 1789221371.0,
+      "thumbnail": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2",
+      "external_url": "https://www.rubyhack.ai/",
+      "site_name": "The RubyGems attack",
+      "favicon": "https://www.rubyhack.ai/apple-touch-icon.png",
+      "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident."
+    },
+    {
       "title": "Three Anthropic researchers went public this week saying AI might kill everyone. One of them quit to say it. Nobody seems to know what we're supposed to do with that.",
       "author": "Dapper-Tale-4021",
       "url": "https://www.reddit.com/r/artificial/comments/1wdoy1g/three_anthropic_researchers_went_public_this_week/",
@@ -13,26 +35,37 @@
       "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
     },
     {
-      "title": "A lot of people are using AI without knowing why",
-      "author": "davidisfunn",
-      "url": "https://www.reddit.com/r/artificial/comments/1weay2y/a_lot_of_people_are_using_ai_without_knowing_why/",
-      "published": 1789214957.0,
+      "title": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?",
+      "author": "DoublePassRadiator",
+      "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
+      "published": 1789227025.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "AI has become something people feel they need to use, even without a clear purpose. Are we seeing real productivity gains, or are people just trying to keep up with the hype? What\u2019s one AI use case that\u2019s genuinely useful and one that\u2019s unnecessary?"
+      "description": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse."
     },
     {
-      "title": "How Far Are We from the \"ChatGPT Moment\" for Embodied Intelligence? Opinion",
-      "author": "globalsouthworld",
-      "url": "https://www.reddit.com/r/artificial/comments/1weapgz/how_far_are_we_from_the_chatgpt_moment_for/",
-      "published": 1789214301.0,
-      "thumbnail": "https://external-preview.redd.it/By-YbF0zv9YxlqMUnbEzCavX7CAfvnlUo_iE1RVuw_8.png?width=640&crop=smart&auto=webp&s=fd8b6d748a773c24ea374e50aea20447bf3616d2",
-      "external_url": "http://globalsouthworld.com/article/how-far-are-we-from-the-chatgpt-moment-for-embodied-intelligence-opinion",
-      "site_name": "Global South World",
-      "favicon": "http://globalsouthworld.com/apple-icon.png?8995fbd5f880786b",
-      "description": "A year ago, in early summer in Beijing, I accompanied a delegation of British entrepreneurs and investors on an in-depth tour of the Robot World in..."
+      "title": "Is anyone else scared they won't be able to tell what's real anymore",
+      "author": "Past-Ad2067",
+      "url": "https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/",
+      "published": 1789224851.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this"
+    },
+    {
+      "title": "Steven Johnson (Google Labs) just described exactly how to clone a writer's voice without asking",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1webqoe/steven_johnson_google_labs_just_described_exactly/",
+      "published": 1789217224.0,
+      "thumbnail": "https://external-preview.redd.it/emVzNDk1Z2Q1M3BoMc_DEkAdAaqT-1zV9GpFVq7ERh9_Y0llpn-wEoj_PXGl.png?width=640&crop=smart&auto=webp&s=2152a3a1ac2a1a96d9722ae30c900ca757c92c27",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: The guy Google put in charge of its own AI writing tool just admitted, on camera, that he can't fully protect the one thing his career runs on. That's not hypothetical. Steven Johnson runs editorial for Google Labs' NotebookLM and has fourteen books behind his name, and he still walked an interviewer through the mechanism step by step: feed a model his own catalog, tell it to write like him, skip the invoice. No lawsuit required. No password stolen. His own counter isn't a lawsuit either. It's a price tag \u2014 $199 for an authorized version of his own style, paid on purpose instead of taken by default. He said it plainly, then admitted the harder part: someone could build the unauthorized version tonight, and he'd have no way to prove it happened. Tbh, that's the entire freelance economy in one clip. If a 14-book author with a title at Google can't fully protect his own voice, the going rate for \"get him, he's got a way with it\" just became a live question, not a someday one. https://preview.redd.it/gvkwclgb53ph1.jpg?width=1024&format=pjpg&auto=webp&s=675fe4e6e248a0c01a73a2755cc06e4aef8f0948 Mmm... This is kind of like impersonation. Borderline fraud or downright scams. Back in Malaysia, we have plenty of such too. The spectrum is so wide, sometimes, even when we open our eyes wide, we still can't tell the difference. For example, you guys have Amazon. We have our local ones, called Lazada. If you drive through our Penang Georgetown, you'll notice a shop called Ladaza. Not Lazada. They kind of switched the alphabets around. Sounds like Lazada. But it's not. Giving people the illusion that they are same-same, but in actual fact different. It's as if we open a shop right next to the Amazon HQ, and calling it \"Azamon\". Phonically sounds adjacent. But they are not the same thing. And if you follow the news, you'd hear about our very infamous 1MDB (Malaysia Sovereign Fund) case -- one of largest kleptocracy criminal fraud case in the history of Malaysia (even the world) -- involving our now disgraced and incarcerated former-prime minister, Najib Razak. His enabler and facilitator, Jho Low (Low Taek Jho) (still currently at large) was the mastermind behind all these siphoning of funds, to fund his once extravagant livestyle. Kind of brilliant. But it was so evil. He once got Najib to force the board of 1MDB to approved a transfer of billions through a supposedly legitimate company, but in actual fact, was a shell company through the Caymen Islands with a very similar company name. Like how Ron Weisley, in the Harry Potter Movie, would say, \"Wicked!\" They say impersonation is the highest form of flattery. But in this case, I say, bullshit. _______________________ You don't get to choose whether your work gets copied. You only get to choose whether you were paid before it happened. Every version of this story \u2014 Google Labs or a Georgetown shopfront \u2014 ends the same way: the fix was never stopping the copy. It was owning the original loudly enough that the copy has nowhere to hide. Justin Welsh built a $15M solo business on the one variable a cloned voice can't fake: what he actually lived through to get there. Drop your take: what's the closest you've come to catching a copy passing itself off as the real thing? Clip credit: Nicholas Thompson / Atlantic Re:think \u2014 full video on their channel. DM for credit or removal requests."
     },
     {
       "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
@@ -46,71 +79,38 @@
       "description": null
     },
     {
-      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
-      "author": "absolut_st",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
-      "published": 1789151096.0,
-      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "title": "OpenAI just went directly after junior banker jobs and called it a financial services product",
+      "author": "perspicacity_ai",
+      "url": "https://www.reddit.com/r/artificial/comments/1wee9m4/openai_just_went_directly_after_junior_banker/",
+      "published": 1789223767.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
+      "description": "OpenAI launched ChatGPT for Financial Services and the feature list is not subtle. Research, financial modeling, pitchbook prep. Those are the three things that justify hiring a class of analysts at \ud835\udfcf\ud835\udfce\ud835\udfce \ud835\udc2d\ud835\udc28 \ud835\udfcf\ud835\udfd1\ud835\udfce \ud835\udc24 a year on Wall Street. The product is not framed as a tool to help junior bankers. It is framed as a replacement for the workload. Anthropic published projections this week showing AI could push GDP growth to 15% annually by 2030 while displacing nearly \ud835\udc28\ud835\udc27\ud835\udc1e \ud835\udc22\ud835\udc27 \ud835\udc1f\ud835\udc22\ud835\udc2f\ud835\udc1e \ud835\udc28\ud835\udc1f\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc30\ud835\udc28\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2b\ud835\udc2c. The financial services move fits that trajectory exactly. High-margin, document-heavy, process-repetitive work is the obvious first target. \ud83e\udd16 Dell is up nearly 350% in 2026 on AI infrastructure spending alone. The revenue story for platform and infrastructure names is real, even if the broader macro environment is making everything else uncomfortable to hold right now."
+    },
+    {
+      "title": "Dario Amodei \u2014 We Must Pace the Frontier",
+      "author": "dayanruben",
+      "url": "https://www.reddit.com/r/artificial/comments/1wee5pu/dario_amodei_we_must_pace_the_frontier/",
+      "published": 1789223497.0,
+      "thumbnail": "https://external-preview.redd.it/O8Bu9xCUI6CYmUQGKme-uUFrwgWqdSA2GejtiMB9qLc.jpeg?width=640&crop=smart&auto=webp&s=553462b8a95c1c67d972ac5efa935db562a01924",
+      "external_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "site_name": "darioamodei.com",
+      "favicon": "https://cdn.prod.website-files.com/67e201a6a390d00a0ca1cbf3/67f34ed4b5b7dea3e6bcdb2d_dario-webclip.png",
       "description": null
     },
     {
-      "title": "AI Shopping Summary Survey \u2013 research study \u2013 University of Brighton",
-      "author": "grahamperrin",
-      "url": "https://www.reddit.com/r/artificial/comments/1we6cdc/ai_shopping_summary_survey_research_study/",
-      "published": 1789199489.0,
-      "thumbnail": null,
-      "external_url": "https://brightonbusiness.co1.qualtrics.com/jfe/form/SV_3V6tHbgyo8t4Ul0",
-      "site_name": "brightonbusiness.co1.qualtrics.com",
-      "favicon": "https://brightonbusiness.co1.qualtrics.com/brand-management/brand-assets/brightonbusiness/favicon.ico",
-      "description": "\u2026 You will view a short AI-generated shopping summary about a personal-care product and answer questions about your impressions of the summary and possible purchase decisions. There are no right or wrong answers; please respond based on your own views. The full purpose of the study will be explained at the end of the survey. \u2026 Via https://www.linkedin.com/feed/update/urn:li:share:7500558876078014464/ and a LinkedIn post from the student's supervisor: Please help my brilliant MSc Digital Marketing student Mira Beshara who is conducting her research into how consumers respond to Ai generated summaries in their everyday sustainable shopping decisions \u2026 Ethics reference: 15776"
-    },
-    {
-      "title": "Sunny Nights Exclusive: the week the AI labs said the quiet part in writing",
-      "author": "presentofai",
-      "url": "https://www.reddit.com/r/artificial/comments/1we52am/sunny_nights_exclusive_the_week_the_ai_labs_said/",
-      "published": 1789195150.0,
-      "thumbnail": null,
-      "external_url": "https://youtu.be/TJp0simbdMM",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Polish developer builds app that detects nearby Meta smart glasses",
-      "author": "Low-Honeydew6483",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/",
-      "published": 1789122930.0,
-      "thumbnail": "https://external-preview.redd.it/zDKmxJpAwBiEOw1AW8fefK3RxMLvbsGaGD3667vTO4o.jpeg?width=640&crop=smart&auto=webp&s=ecbdb2186b94ac8d401c6976e6859668fa454f9a",
-      "external_url": "https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses",
-      "site_name": "tvpworld.com",
-      "favicon": "https://s.tvp.pl/files/portale-v4/tvp-pl/portal/world.tvp.pl/assets/images/favicons/apple-touch-icon.png?v=0",
-      "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
-    },
-    {
-      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
-      "author": "recallingmemories",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
-      "published": 1789087986.0,
+      "title": "We just ran 10 builds through OpenAI, Claude, and RESORSA simultaneously, and the results took me by surprise.",
+      "author": "KicksStandLabs",
+      "url": "https://www.reddit.com/r/artificial/comments/1wedwqr/we_just_ran_10_builds_through_openai_claude_and/",
+      "published": 1789222866.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
-    },
-    {
-      "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
-      "author": "GenericNameRandomNum",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/",
-      "published": 1789148974.0,
-      "thumbnail": "https://external-preview.redd.it/7pyOn-8VnQHflik0ZnqG2CUu0E_ve-R66DJok3nIQWM.jpeg?width=640&crop=smart&auto=webp&s=de4f001d1b97d4739956544c0075805d62b5d4f1",
-      "external_url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
-      "site_name": "the Guardian",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
+      "description": "I\u2019ve been trying to answer a pretty important question with the product I\u2019m building: Can an AI actually help someone make better business decisions, or does it just give them convincing-sounding answers? So I built a small test. I took 10 simulated business ideas and ran the same scenarios through ChatGPT, Claude, and RESORSA \u2014 the platform I\u2019ve been building. Same starting information. Same businesses. No special prompts designed to make one platform perform better than another. What I cared about wasn\u2019t which AI wrote the nicest response. I tracked things like: estimated money required to get to a meaningful test whether the system challenged unnecessary spending whether it identified assumptions that needed validation whether it recommended a pivot when the original direction wasn\u2019t holding up whether the simulated business could actually reach launch The cost difference was the part I wasn\u2019t expecting. Across the 10 simulations, RESORSA\u2019s recommended paths averaged roughly $13,500 less per build than the alternatives. A lot of that came from relatively boring decisions: validate before building, rent instead of buy, manually test something before automating it, use existing tools instead of commissioning custom infrastructure, etc. That\u2019s actually what I wanted the system to do. Another interesting result: 7/10 businesses made it through the original path. The remaining three only made it after changing direction based on problems uncovered during the process. In those three cases, RESORSA recommended changing the approach while the other two models continued pushing the original plan. We also got median Time-to-Artifact down to about 38 seconds, although one hilariously bad ~4-minute outlier reminded me that there\u2019s still plenty to optimize. I\u2019m obviously biased here because I\u2019m building RESORSA, and 10 simulated businesses is nowhere near enough data to make sweeping claims. But this was encouraging because the thing I\u2019m trying to optimize isn\u2019t \u201cgive the smartest sounding answer.\u201d It\u2019s: Help the builder discover what they don\u2019t know while spending as little time and money as necessary to learn it. Next step is more simulations, followed by comparing the results against actual builder behavior instead of synthetic cases. I\u2019ll keep publishing the results as I get them \u2014 including the ugly ones. For anyone building with AI: what would you test next to make this comparison more rigorous?"
     }
   ],
-  "fetched_at": "2026-09-12T12:18:09.019953+00:00"
+  "fetched_at": "2026-09-12T15:44:24.107825+00:00"
 }
