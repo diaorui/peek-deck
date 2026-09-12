@@ -9,8 +9,8 @@
       "url": "https://mathandai.org/",
       "hn_url": "https://news.ycombinator.com/item?id=49662371",
       "author": "meredydd",
-      "points": 1144,
-      "num_comments": 1079,
+      "points": 1165,
+      "num_comments": 1110,
       "created_at": "2026-09-11T17:45:12Z",
       "object_id": "49662371",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://news.ycombinator.com/item?id=49657850",
       "hn_url": "https://news.ycombinator.com/item?id=49657850",
       "author": "cromka",
-      "points": 808,
-      "num_comments": 378,
+      "points": 815,
+      "num_comments": 379,
       "created_at": "2026-09-11T13:11:04Z",
       "object_id": "49657850",
       "image": null,
@@ -37,7 +37,7 @@
       "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "hn_url": "https://news.ycombinator.com/item?id=49656496",
       "author": "JohnHammersley",
-      "points": 328,
+      "points": 329,
       "num_comments": 299,
       "created_at": "2026-09-11T11:17:50Z",
       "object_id": "49656496",
@@ -45,6 +45,20 @@
       "description": "How frictionless technologies teach us to prefer our own company \u2013 and why research leaders should worry.",
       "favicon": "https://www.researchagenda.news/assets/brand/ra-favicon.svg",
       "site_name": "Research Agenda"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49673098",
+      "author": "tolugenius",
+      "points": 255,
+      "num_comments": 188,
+      "created_at": "2026-09-12T15:08:27Z",
+      "object_id": "49673098",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "economist.com"
     },
     {
       "title": "Show HN: Hacker News, without AI",
@@ -108,27 +122,13 @@
       "hn_url": "https://news.ycombinator.com/item?id=49661506",
       "author": "encyclopedism",
       "points": 176,
-      "num_comments": 302,
+      "num_comments": 305,
       "created_at": "2026-09-11T16:50:51Z",
       "object_id": "49661506",
       "image": "https://artificialworlds.net/blog/banner.png",
       "description": "Coding in Rust and others; making coding videos.",
       "favicon": "https://artificialworlds.net/blog/favicon.png",
       "site_name": "Andy Balaam's Blog"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=49673098",
-      "author": "tolugenius",
-      "points": 173,
-      "num_comments": 147,
-      "created_at": "2026-09-12T15:08:27Z",
-      "object_id": "49673098",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "economist.com"
     },
     {
       "title": "A Misalignment of AI in Mathematics",
@@ -145,7 +145,7 @@
       "site_name": "terrytao.wordpress.com"
     }
   ],
-  "total_hits": 648,
+  "total_hits": 655,
   "has_metadata": true,
-  "fetched_at": "2026-09-12T18:09:24.735141+00:00"
+  "fetched_at": "2026-09-12T20:47:40.184779+00:00"
 }

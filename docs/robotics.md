@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T18:09:43.830649+00:00'
+updated: '2026-09-12T20:48:05.314016+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 18:09 UTC  
+**Last Updated:** September 12, 2026 at 20:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
 
-22h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 **[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -72,7 +72,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 23h ago
+🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 1d ago
 
 ---
 
@@ -124,28 +124,6 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
-
-Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
-
-TechCrunch • 2d ago
-
----
-
-**[Medtronic’s Jim Peichel on AI, robotics and the future of surgery](https://www.modernhealthcare.com/medical-devices/mh-medtronic-jim-peichel-ai-robotics-surgery/)**
-
-Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency.
-
-Modern Healthcare • 2d ago
-
----
-
-**[Behind the killer robots of Ukraine's new warfare 'revolution'](https://www.reuters.com/business/aerospace-defense/behind-killer-robots-ukraines-new-warfare-revolution-2026-09-11/)**
-
-Reuters • 1d ago
-
----
-
 **[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
 
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
@@ -158,13 +136,27 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 Robotics expert Changliu Liu explains.
 
-cnn.com • 19h ago
+CNN • 21h ago
+
+---
+
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
+
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
+
+TechCrunch • 2d ago
+
+---
+
+**[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
+
+Reuters • 2d ago
 
 ---
 
 **[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
 
-Breaking Defense • 1d ago
+Breaking Defense • 2d ago
 
 ---
 
@@ -172,7 +164,7 @@ Breaking Defense • 1d ago
 
 New tactile datasets could solve a longstanding challenge in robotics
 
-IEEE Spectrum • 1d ago
+spectrum.ieee.org • 2d ago
 
 ---
 
@@ -181,6 +173,14 @@ IEEE Spectrum • 1d ago
 Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
 
 NVIDIA Blog • 2d ago
+
+---
+
+**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
+
+MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
+
+The Japan Times • 1d ago
 
 ---
 
@@ -194,7 +194,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 898K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
+👁️ 934K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
 
 ---
 
@@ -214,27 +214,17 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 651K • 👍 10K • 💬 517 • ⏱️ 23:25 • 4d ago
+👁️ 654K • 👍 10K • 💬 523 • ⏱️ 23:25 • 4d ago
 
 ---
 
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
 
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
+We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
 
-📺 Blakwoodz
+📺 Milk Road Stocks
 
-👁️ 44K • 👍 1K • 💬 422 • ⏱️ 13:22 • 1d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 55K • 👍 240 • 💬 55 • ⏱️ 3:39 • 3d ago
+👁️ 14K • 👍 226 • 💬 24 • ⏱️ 48:57 • 5d ago
 
 ---
 
@@ -244,7 +234,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 362K • 👍 3K • 💬 315 • ⏱️ 5:52 • 3d ago
+👁️ 375K • 👍 3K • 💬 320 • ⏱️ 5:52 • 3d ago
 
 ---
 
@@ -254,7 +244,7 @@ Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speak
 
 📺 Sky News
 
-👁️ 33K • 👍 189 • 💬 143 • ⏱️ 6:28 • 4d ago
+👁️ 34K • 👍 192 • 💬 144 • ⏱️ 6:28 • 4d ago
 
 ---
 
@@ -264,25 +254,37 @@ Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spot
 
 📺 RICHLEV
 
-👁️ 510K • 👍 10K • 💬 2K • ⏱️ 38:26 • 4d ago
+👁️ 522K • 👍 10K • 💬 2K • ⏱️ 38:26 • 4d ago
 
 ---
 
-**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
 
-Unitree R1 humanoid Robot.
+PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
 
-📺 İncelemedeyim
+📺 LIGHTS ARE OFF
 
-👁️ 170K • 👍 2K • 💬 96 • ⏱️ 0:59 • 6d ago
+👁️ 6.4M • 👍 103K • 💬 13K • ⏱️ 25:44 • 6d ago
 
 ---
 
-**[3D-Printed Robot Arm Output #3dprinting #satisfying #robot #3dprinted #robotics](https://www.youtube.com/watch?v=lfSlPKkJ0lg)**
+**[We Spoke With Dyson About Its All-New 2026 Robot Lineup](https://www.youtube.com/watch?v=sgVTPmCE63w)**
 
-📺 Stuff Gets Made
+Our Top 20 Robot Vacuums at the Vacuum Wars website: https://vacuumwars.com/vacuum-wars-best-robot-vacuums/ Best ...
 
-👁️ 3K • 👍 29 • 💬 1 • ⏱️ 0:31 • 1d ago
+📺 Vacuum Wars
+
+👁️ 26K • 👍 401 • 💬 77 • ⏱️ 9:10 • 1d ago
+
+---
+
+**[The REAL Reason the Self-Aware Robot Wanted Human Skin | ELBERR The Self-Aware](https://www.youtube.com/watch?v=P58Wjcpx3kA)**
+
+Elberr threatens to wear his creator's skin then decides human flesh is inferior. This breakdown of LIGHTS ARE OFF's Self-Aware ...
+
+📺 GrislyDeshaun
+
+👁️ 65K • 👍 974 • 💬 74 • ⏱️ 23:50 • 2d ago
 
 ---
 
