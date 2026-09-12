@@ -96,6 +96,25 @@
       "project_page": "https://showlab.github.io/Show-Harness/"
     },
     {
+      "id": "2403.08299",
+      "title": "AutoDev: Automated AI-Driven Development",
+      "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The landscape of software development has witnessed a paradigm shift with the\nadvent of AI-powered assistants, exemplified by GitHub Copilot. However,\nexisting solutions are not leveraging all the potential capabilities available\nin an IDE such as building, testing, executing code, git operations, etc.\nTherefore, they are constrained by their limited capabilities, primarily\nfocusing on suggesting code snippets and file manipulation within a chat-based\ninterface. To fill this gap, we present AutoDev, a fully automated AI-driven\nsoftware development framework, designed for autonomous planning and execution\nof intricate software engineering tasks. AutoDev enables users to define\ncomplex software engineering objectives, which are assigned to AutoDev's\nautonomous AI Agents to achieve. These AI agents can perform diverse operations\non a codebase, including file editing, retrieval, build processes, execution,\ntesting, and git operations. They also have access to files, compiler output,\nbuild and testing logs, static analysis tools, and more. This enables the AI\nAgents to execute tasks in a fully automated manner with a comprehensive\nunderstanding of the contextual information required. Furthermore, AutoDev\nestablishes a secure development environment by confining all operations within\nDocker containers. This framework incorporates guardrails to ensure user\nprivacy and file security, allowing users to define specific permitted or\nrestricted commands and operations within AutoDev. In our evaluation, we tested\nAutoDev on the HumanEval dataset, obtaining promising results with 91.5% and\n87.8% of Pass@1 for code generation and test generation respectively,\ndemonstrating its effectiveness in automating software engineering tasks while\nmaintaining a secure and user-controlled development environment.",
+      "ai_summary": "AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.",
+      "hf_url": "https://huggingface.co/papers/2403.08299",
+      "arxiv_url": "https://arxiv.org/abs/2403.08299",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
+      "upvotes": 19,
+      "num_comments": 2,
+      "published_at": "2024-03-13T03:12:03.000Z",
+      "github_repo": "https://github.com/vxcontrol/pentagi",
+      "github_stars": 23223,
+      "project_page": null
+    },
+    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -153,25 +172,6 @@
       "project_page": "https://map-yue.github.io/"
     },
     {
-      "id": "2403.08299",
-      "title": "AutoDev: Automated AI-Driven Development",
-      "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The landscape of software development has witnessed a paradigm shift with the\nadvent of AI-powered assistants, exemplified by GitHub Copilot. However,\nexisting solutions are not leveraging all the potential capabilities available\nin an IDE such as building, testing, executing code, git operations, etc.\nTherefore, they are constrained by their limited capabilities, primarily\nfocusing on suggesting code snippets and file manipulation within a chat-based\ninterface. To fill this gap, we present AutoDev, a fully automated AI-driven\nsoftware development framework, designed for autonomous planning and execution\nof intricate software engineering tasks. AutoDev enables users to define\ncomplex software engineering objectives, which are assigned to AutoDev's\nautonomous AI Agents to achieve. These AI agents can perform diverse operations\non a codebase, including file editing, retrieval, build processes, execution,\ntesting, and git operations. They also have access to files, compiler output,\nbuild and testing logs, static analysis tools, and more. This enables the AI\nAgents to execute tasks in a fully automated manner with a comprehensive\nunderstanding of the contextual information required. Furthermore, AutoDev\nestablishes a secure development environment by confining all operations within\nDocker containers. This framework incorporates guardrails to ensure user\nprivacy and file security, allowing users to define specific permitted or\nrestricted commands and operations within AutoDev. In our evaluation, we tested\nAutoDev on the HumanEval dataset, obtaining promising results with 91.5% and\n87.8% of Pass@1 for code generation and test generation respectively,\ndemonstrating its effectiveness in automating software engineering tasks while\nmaintaining a secure and user-controlled development environment.",
-      "ai_summary": "AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.",
-      "hf_url": "https://huggingface.co/papers/2403.08299",
-      "arxiv_url": "https://arxiv.org/abs/2403.08299",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
-      "upvotes": 19,
-      "num_comments": 2,
-      "published_at": "2024-03-13T03:12:03.000Z",
-      "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 23007,
-      "project_page": null
-    },
-    {
       "id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
       "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-12T15:44:29.516840+00:00"
+  "fetched_at": "2026-09-12T18:09:31.954756+00:00"
 }
