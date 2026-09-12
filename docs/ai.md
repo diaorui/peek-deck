@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-12T03:28:15.763158+00:00'
+updated: '2026-09-12T08:06:23.423258+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 12, 2026 at 03:28 UTC  
+**Last Updated:** September 12, 2026 at 08:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,29 +41,45 @@ AI news, discussions, and developments
 
 Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are "gambling with our lives" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: "Jacob is correct here, we really do earnestly believe AI could kill all humans." He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?
 
-8h ago
-
----
-
-**[Will AI help us cure cancer by 2030?](https://www.reddit.com/r/artificial/comments/1wdz75c/will_ai_help_us_cure_cancer_by_2030/)**
-
-What do you think?
-
-1h ago
-
----
-
-**[UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)](https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/)**
-
-Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humans
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi) • 9h ago
+13h ago
 
 ---
 
 **[James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks](https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/)**
 
-9h ago
+13h ago
+
+---
+
+**[AI Shopping Summary Survey – research study – University of Brighton](https://www.reddit.com/r/artificial/comments/1we6cdc/ai_shopping_summary_survey_research_study/)**
+
+… You will view a short AI-generated shopping summary about a personal-care product and answer questions about your impressions of the summary and possible purchase decisions. There are no right or wrong answers; please respond based on your own views. The full purpose of the study will be explained at the end of the survey. … Via https://www.linkedin.com/feed/update/urn:li:share:7500558876078014464/ and a LinkedIn post from the student's supervisor: Please help my brilliant MSc Digital Marketing student Mira Beshara who is conducting her research into how consumers respond to Ai generated summaries in their everyday sustainable shopping decisions … Ethics reference: 15776
+
+🔗 [brightonbusiness.co1.qualtrics.com](https://brightonbusiness.co1.qualtrics.com/jfe/form/SV_3V6tHbgyo8t4Ul0) • 14m ago
+
+---
+
+**[I need help or reassurance to deal with my AI Anxiety](https://www.reddit.com/r/artificial/comments/1we58t8/i_need_help_or_reassurance_to_deal_with_my_ai/)**
+
+As the title says. My algorithm is all doomsday-propaganda and it’s really gotten to me. I’m worried for my children and keep imagining horrible futures for them. The more I search for it the more scary content I get. Anyone with any good news to share or recommendations on how to deal with this?
+
+1h ago
+
+---
+
+**[Sunny Nights Exclusive: the week the AI labs said the quiet part in writing](https://www.reddit.com/r/artificial/comments/1we52am/sunny_nights_exclusive_the_week_the_ai_labs_said/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/TJp0simbdMM) • 1h ago
+
+---
+
+**[Polish developer builds app that detects nearby Meta smart glasses](https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/)**
+
+Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It’s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?
+
+🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 21h ago
 
 ---
 
@@ -75,39 +91,25 @@ A 2024 University of Wisconsin–Madison paper estimates that "one cheeseburger 
 
 ---
 
-**[Polish developer builds app that detects nearby Meta smart glasses](https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/)**
+**[Alibaba Cloud and Cambricon just took Platinum seats on the PyTorch Foundation board](https://www.reddit.com/r/artificial/comments/1wdtoh7/alibaba_cloud_and_cambricon_just_took_platinum/)**
 
-Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It’s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?
+The PyTorch Foundation announced on September 8 at PyTorch Conference China in Shanghai that Alibaba Cloud and Cambricon joined as Platinum members. Each gets a seat on the Governing Board and one on the Technical Advisory Council. If you build on non-NVIDIA accelerators, the TAC seat is worth watching. Cambricon ships MLU processors into Chinese data centers, and their PyTorch backend has lived out of tree, meaning it can lag or break after major releases. A TAC seat gives them a direct channel to push backend support upstream rather than maintaining a fork. That is a real difference for anyone on that hardware. I want to be clear about what this does not change. A governance seat is not a benchmark, and the silicon itself is not suddenly matching an H100 on throughput. More than 250 Chinese organizations were already contributing to foundation projects before these seats existed. What changed is who has input on framework architecture decisions. Both companies that took those seats are lines in CNQQ, with Alibaba at 8.67% and Cambricon at 2.62% of the latest published holdings. The accelerator maker is a small fraction next to the internet and cloud line. CQQQ overlaps on the larger names but draws from a narrower mainland slice.
 
-🔗 [tvpworld.com](https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses) • 16h ago
+10h ago
 
 ---
 
-**[AI Could Fulfill Prophecies of Control in Revelation 13:15-18. Future Forecast Insights & Preparation](https://www.reddit.com/r/artificial/comments/1we1e41/ai_could_fulfill_prophecies_of_control_in/)**
+**[UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)](https://www.reddit.com/r/artificial/comments/1wdnd3u/uk_lawmakers_urge_burnham_to_back_ban_on/)**
 
-The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 "He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.” Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; "The Hebrew equivalent of our "w" is the letter "vav" or "waw". The numerical value of vav is 6. So the English "www" transliterated into Hebrew is "vav vav vav", which numerically is 666.” Is "www" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) The unthinkable eternal consequences of taking this Mark when eventually forced- Revelation 14:9-13 Revelation 14:9-13 KJV - And the third angel followed them, - Bible Gateway History Preceding the book of Revelation This article explains many of the “natural signs, spiritual signs, sociological signs, technological signs, and political signs,” foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, plagues, moral decline, wars, earthquakes, growing governmental dominance/deception ("with all power, signs, and lying wonders," 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org End Times Timeline: A summary of the timeline from the hope of the soon rapture of the believers in Jesus (1 Thessalonians 4:13-18), the 7 year tribulation period (Revelation 6–16), until the creation of the new heavens and earth (Revelation 21–22). What is the end times timeline? | GotQuestions.org "For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.” John 3:16 Going to heaven—how can I guarantee my eternal destination? | GotQuestions.org More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested.
+Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humans
 
-just now
+🔗 [the Guardian](https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi) • 14h ago
 
 ---
 
 **[AI companies pursue the Boromir strategy to deal with the control problem. "It's dangerous. But let that be me. I know what to do with it."](https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/)**
 
 1d ago
-
----
-
-**[Altman on GPT7](https://www.reddit.com/r/artificial/comments/1we0le1/altman_on_gpt7/)**
-
-40m ago
-
----
-
-**[Why does A.I suddenly seem awful at science? and are there decent A.I for science questions/research](https://www.reddit.com/r/artificial/comments/1wdxbsd/why_does_ai_suddenly_seem_awful_at_science_and/)**
-
-Gemini is just incorrect most the time and has zero issue just making stuff up, then GPT refuses to say any specific and when called out for this it just HARD stops any conversation. I mean i swear they used to be better then they are now. Anyone got any recs though? With how terrible normal search engines are getting it seems impossible to find even foundational info without sifting through textbooks and papers. Also honestly if anyone's got a browser rec that can actually damn find stuff lmk. (yes ive seen the rules but this has been a self sustaining circle of shitty searches giving shitty answers and untimely failing to do something as basic as supply a tool name.)
-
-3h ago
 
 ---
 
@@ -119,27 +121,41 @@ Gemini is just incorrect most the time and has zero issue just making stuff up, 
 
 Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream
 
-Financial Times • 11h ago
+Financial Times • 15h ago
 
 ---
 
-**[Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown](https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html)**
+**[A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?](https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html)**
 
-Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards.
-
-CNBC • 16h ago
+The New York Times • 19h ago
 
 ---
 
-**[Opinion | This Is Really Bad](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)**
+**[Here’s why it’s so hard to keep AI agents from going rogue](https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/)**
 
-The New York Times • 18h ago
+The techniques that made chatbots more capable can also bake in a tendency to hack, cheat and evade human oversight.
+
+The Washington Post • 16h ago
 
 ---
 
-**[Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)**
+**[AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers](https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages)**
 
-WSJ • 13h ago
+Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems
+
+The Guardian • 8h ago
+
+---
+
+**[Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents](https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352)**
+
+WSJ • 9h ago
+
+---
+
+**[OpenAI reveals another rogue AI attack](https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312)**
+
+politico.com • 7h ago
 
 ---
 
@@ -151,39 +167,27 @@ Anthropic • 1d ago
 
 ---
 
-**[AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers](https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages)**
+**[Okta Targets AI Agent Confusion With Identity Security Push](https://finance.yahoo.com/technology/ai/articles/okta-targets-ai-agent-confusion-060159554.html)**
 
-Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems
+Okta (NASDAQ:OKTA) President and COO Eric Kelleher said enterprise customers are increasingly seeking guidance on securing AI agents, with uncertainty around the emerging technology representing a central challenge for the identity-security market. Speaking at the Goldman Sachs Communacopia + Techn
 
-The Guardian • 3h ago
-
----
-
-**[OpenAI reveals another rogue AI attack](https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312)**
-
-Politico • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Can A.I. “Go Rogue”?](https://www.newyorker.com/culture/open-questions/can-ai-go-rogue)**
+**[Congress Considers Guardrails for AI After Researcher’s Warning](https://www.presidentialprayerteam.org/2026/09/12/congress-considers-guardrails-for-ai-after-researchers-warning/)**
 
-In the wake of turmoil at OpenAI and Anthropic, it’s become common to describe A.I. as a kind of person, hatching plans and pursuing desires. The truth is a little trickier.
+Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority.
 
-The New Yorker • 17h ago
+The Presidential Prayer Team • 6m ago
 
 ---
 
-**[Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says](https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says)**
+**[AI may be denting computer science graduates’ job prospects, UK data shows](https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data)**
 
-Anthropic also found that hackers used AI in attacks against targets in Ukrainian government, military and diplomatic sectors.
+Economics graduates also appear to be affected as demand for them falls in well-paid roles in finance
 
 The Guardian • 1h ago
-
----
-
-**[Nvidia says AGI is here. How are China’s top AI labs catching up?](https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate)**
-
-South China Morning Post • 28m ago
 
 ---
 
@@ -191,15 +195,15 @@ South China Morning Post • 28m ago
 
 ## HackerNews: "ai"
 
-**[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
+**[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
 
-⬆️ 758 • 💬 364 • 14h ago
+⬆️ 860 • 💬 842 • 14h ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
-**[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
+**[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 716 • 💬 741 • 9h ago • [mathandai.org](https://mathandai.org/)
+⬆️ 784 • 💬 365 • 18h ago
 
 ---
 
@@ -215,13 +219,29 @@ Apple today announced AirPods 5, delivering the industry’s best Active Noise C
 
 How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
 
-⬆️ 321 • 💬 295 • 16h ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
+⬆️ 324 • 💬 297 • 20h ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
 **[How An AI math breakthrough ignited a controversy](https://news.ycombinator.com/item?id=49624163)**
 
 ⬆️ 220 • 💬 231 • 2d ago • [science.org](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+
+---
+
+**[Show HN: Hacker News, without AI](https://news.ycombinator.com/item?id=49659647)**
+
+A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
+
+⬆️ 186 • 💬 84 • 17h ago • [hcker.news](https://hcker.news/?ai=exclude)
+
+---
+
+**[Show HN: Hacker News, Without AI](https://news.ycombinator.com/item?id=49660783)**
+
+Hacker News with AI content removed.
+
+⬆️ 185 • 💬 78 • 15h ago • [unslop.news](https://www.unslop.news/)
 
 ---
 
@@ -233,27 +253,11 @@ The exact circumstances surrounding the changes aren't clear, but Meta execs hav
 
 ---
 
-**[Show HN: Hacker News, without AI](https://news.ycombinator.com/item?id=49659647)**
-
-A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
-
-⬆️ 177 • 💬 83 • 12h ago • [hcker.news](https://hcker.news/?ai=exclude)
-
----
-
-**[Show HN: Hacker News, Without AI](https://news.ycombinator.com/item?id=49660783)**
-
-Hacker News with AI content removed.
-
-⬆️ 175 • 💬 76 • 11h ago • [unslop.news](https://www.unslop.news/)
-
----
-
 **[Detecting and countering misuse of AI: September 2026](https://news.ycombinator.com/item?id=49647300)**
 
 Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
 
-⬆️ 171 • 💬 235 • 1d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
+⬆️ 173 • 💬 235 • 1d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
 ---
 
@@ -261,7 +265,7 @@ Case studies from threat actors disrupted between December 2025 and August 2026 
 
 Coding in Rust and others; making coding videos.
 
-⬆️ 168 • 💬 275 • 10h ago • [Andy Balaam's Blog](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
+⬆️ 172 • 💬 278 • 15h ago • [Andy Balaam's Blog](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
 
 ---
 
@@ -275,27 +279,17 @@ Coding in Rust and others; making coding videos.
 
 📺 CNN
 
-👁️ 4.2M • 👍 32K • 💬 11K • ⏱️ 9:27 • 2d ago
+👁️ 4.5M • 👍 34K • 💬 12K • ⏱️ 9:27 • 2d ago
 
 ---
 
-**[Anthropic Team Lead: AI Could Kill All Humans](https://www.youtube.com/watch?v=ZGq9z6l3ZLE)**
+**[The AI insider warning us it&#39;s already too late | CUOMO](https://www.youtube.com/watch?v=17ijHaNlhXQ)**
 
-Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+Stories about advances in AI and the prospect of the technology becoming more powerful than humans can comprehend are ...
 
-📺 DeFranco News Clips
+📺 NewsNation
 
-👁️ 608K • 👍 37K • 💬 4K • ⏱️ 1:43 • 2d ago
-
----
-
-**[Here&#39;s the difference between regular AI and superintelligence](https://www.youtube.com/watch?v=nHrP12wa7Qo)**
-
-Public concerns over the threat of "superintelligence" are on the rise following comments from a former Anthropic researcher that ...
-
-📺 CBS News
-
-👁️ 62K • 👍 503 • 💬 212 • ⏱️ 6:56 • 1d ago
+👁️ 83K • 👍 771 • 💬 345 • ⏱️ 5:09 • 1d ago
 
 ---
 
@@ -305,67 +299,75 @@ New episode with John Schulman, Charlie O'Neill, and Beren Millidge. I got toget
 
 📺 Dwarkesh Patel
 
-👁️ 132K • 👍 1K • 💬 313 • ⏱️ 1:37:01 • 10h ago
+👁️ 228K • 👍 2K • 💬 372 • ⏱️ 1:37:01 • 15h ago
 
 ---
 
-**[‘We don’t have months’: Bernie Sanders sounds alarm on AI&#39;s &#39;extinction&#39; threat](https://www.youtube.com/watch?v=PWkMUmEZbq4)**
+**[Anthropic Team Lead: AI Could Kill All Humans](https://www.youtube.com/watch?v=ZGq9z6l3ZLE)**
 
-What we have got to do now is light a match under the backsides of members of Congress and say, we don't have months.
+Watch the full Daily DeFranco Show: https://www.youtube.com/@PhilipDeFranco?sub_confirmation=1 Get More News Clips: ...
+
+📺 DeFranco News Clips
+
+👁️ 612K • 👍 37K • 💬 4K • ⏱️ 1:43 • 2d ago
+
+---
+
+**[Here&#39;s the difference between regular AI and superintelligence](https://www.youtube.com/watch?v=nHrP12wa7Qo)**
+
+Public concerns over the threat of "superintelligence" are on the rise following comments from a former Anthropic researcher that ...
+
+📺 CBS News
+
+👁️ 68K • 👍 546 • 💬 223 • ⏱️ 6:56 • 1d ago
+
+---
+
+**[AI could KILL EVERYONE soon, says AI whistleblower! (Anthropic vet on MS NOW)](https://www.youtube.com/watch?v=jGkdhPiou54)**
+
+MS NOW's Ari Melber is joined by former Anthropic AI researcher Jacob Coxon, who sounds the alarm on artificial intelligence ...
 
 📺 MS NOW
 
-👁️ 910K • 👍 12K • 💬 4K • ⏱️ 7:46 • 2d ago
+👁️ 99K • 👍 1K • 💬 522 • ⏱️ 12:40 • 1d ago
 
 ---
 
-**[AI Could End Humanity Soon](https://www.youtube.com/watch?v=LEE_iBMpBMo)**
+**[An AI Researcher Issued Out an OMINOUS Warning.](https://www.youtube.com/watch?v=dDER3xj-8Pk)**
 
-Researchers are warning that AI could potentially wipe out humanity within the next 10 years. That's why it's alarming that Peter ...
+📺 Kagan Dunlap
 
-📺 NowThis Impact
-
-👁️ 591K • 👍 20K • 💬 3K • ⏱️ 0:16 • 1d ago
+👁️ 647K • 👍 40K • 💬 5K • ⏱️ 2:16 • 2d ago
 
 ---
 
-**[The AI Human Extinction Problem is Worse Than You Think](https://www.youtube.com/watch?v=WXK3s-TITuc)**
+**[More AI researchers warn of AI&#39;s threat to humanity](https://www.youtube.com/watch?v=_Fi4cpKCXss)**
 
-Grab your tickets for this weekend San Fran, Phoenix, & Denver!! http://crashingouttour.com SeatGeek: ...
+NBC News' Tom Llamas spoke to two more artificial intelligence researchers about the potential threat A.I has to humanity.
 
-📺 Philip DeFranco
+📺 NBC News
 
-👁️ 952K • 👍 20K • 💬 4K • ⏱️ 27:13 • 2d ago
-
----
-
-**[You’re Paying for AI — Even If You Never Use It](https://www.youtube.com/watch?v=lFvd-CSA42c)**
-
-AI data centers are expanding fast — and America's power grid is being asked to prepare for electricity demand that may not even ...
-
-📺 Everyday Casual Finance
-
-👁️ 787 • 👍 23 • 💬 1 • ⏱️ 1:16 • 3h ago
+👁️ 334K • 👍 3K • 💬 1K • ⏱️ 12:10 • 1d ago
 
 ---
 
-**[Instagram Viral 90s LOOK Ai Photo Editing In Chatgpt | Trending 90s Look Ai Photo Kaise Banaye? #ai](https://www.youtube.com/watch?v=pFb1a-MhxCI)**
+**[Expert on what AI-driven extinction would look like](https://www.youtube.com/watch?v=xEgZQG25w3E)**
 
-Instagram Viral 90s LOOK Ai Photo Editing In Chatgpt | Trending 90s Look Ai Photo Kaise Banaye? prompt: - Create an ...
+Connor Leahy, U.S. executive director of ControlAI, joins "The Daily Report" to share his perspective on concerns that AI ...
 
-📺 Techy prajapati
+📺 CBS News
 
-👁️ 209K • 👍 1K • 💬 60 • ⏱️ 0:16 • 23h ago
+👁️ 190K • 👍 1K • 💬 617 • ⏱️ 4:52 • 2d ago
 
 ---
 
-**[‘They’re gambling with our lives’: AI engineer&#39;s resignation goes viral](https://www.youtube.com/watch?v=M8MN5Q2zf10)**
+**[AI Company Whistleblower Gets REAL About Dangers to Humans](https://www.youtube.com/watch?v=bnPrtPUcUrY)**
 
-Former Anthropic employee Jacob Coxon made a blunt admission: "The people building AI earnestly believe that it could kill us all ...
+Megyn Kelly is joined by Jacob Coxon, former Anthropic employee, to discuss the very real dangers of artificial intelligence, the ...
 
-📺 CNN
+📺 Megyn Kelly
 
-👁️ 91K • 👍 2K • 💬 255 • ⏱️ 1:46 • 2d ago
+👁️ 163K • 👍 2K • 💬 655 • ⏱️ 17:57 • 1d ago
 
 ---
 
@@ -381,7 +383,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 75,774 • ❤️ 1,809 • 1d ago
+⬇️ 75,774 • ❤️ 1,855 • 1d ago
 
 ---
 
@@ -393,7 +395,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 67,550 • ❤️ 1,199 • 1d ago
+⬇️ 67,550 • ❤️ 1,212 • 46m ago
 
 ---
 
@@ -405,7 +407,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 17,712 • ❤️ 1,107 • 8d ago
+⬇️ 17,712 • ❤️ 1,122 • 9d ago
 
 ---
 
@@ -417,7 +419,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 3,121 • ❤️ 692 • 3d ago
+⬇️ 3,121 • ❤️ 703 • 3d ago
 
 ---
 
@@ -429,7 +431,7 @@ Qwen3.8-27B is a 27B parameter vision-language model with native image and video
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,563,763 • ❤️ 14,767 • 28d ago
+⬇️ 7,563,763 • ❤️ 14,790 • 28d ago
 
 ---
 
@@ -441,7 +443,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 682,187 • ❤️ 838 • 9d ago
+⬇️ 682,187 • ❤️ 850 • 9d ago
 
 ---
 
@@ -453,7 +455,7 @@ Nex-N2.5-Pro is a next-generation agentic text-generation model designed for lon
 
 `text-generation` `396.8B`
 
-⬇️ 12,260 • ❤️ 597 • 23h ago
+⬇️ 12,260 • ❤️ 605 • 1d ago
 
 ---
 
@@ -465,7 +467,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,669,564 • ❤️ 3,506 • 10d ago
+⬇️ 1,669,564 • ❤️ 3,530 • 11d ago
 
 ---
 
@@ -477,19 +479,19 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,339,637 • ❤️ 3,900 • 22d ago
+⬇️ 11,339,637 • ❤️ 3,917 • 22d ago
 
 ---
 
-**[GLM-5.3-CYBERSECURITY-FP8](https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8)**
+**[Minimax-h3_Singularity](https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity)**
 
-*dealign.ai*
+*AIGC Singularity*
 
-GLM-5.3-CYBERSECURITY-FP8 is a text-generation model optimized for offensive cybersecurity tasks, featuring native FP8 speed on Hopper GPUs. It's specifically tuned for red-teaming, exploit development, and malware analysis, with reduced refusals in these domains.
+Minimax-h3_Singularity is a fine-tuned multimodal video generation model supporting Text-to-Video, Image-to-Video, Reference-to-Video, and Video-to-Video workflows in ComfyUI, optimized for HDR quality, reduced motion blur, and enhanced dynamic action sequences.
 
-`text-generation` `753.3B`
+`image-to-video`
 
-⬇️ 28,328 • ❤️ 384 • 3d ago
+⬇️ 103,178 • ❤️ 317 • 5h ago
 
 ---
 
@@ -505,7 +507,7 @@ GLM-5.3-CYBERSECURITY-FP8 is a text-generation model optimized for offensive cyb
 
 AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
 
-▲ 22 • 💬 2 • ⭐ 3,428 • 20d ago
+▲ 22 • 💬 2 • ⭐ 3,733 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
 
@@ -530,7 +532,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 87,494 • 26mo ago
+▲ 86 • 💬 7 • ⭐ 87,580 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -544,7 +546,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
 
-▲ 135 • 💬 3 • ⭐ 259 • 3d ago
+▲ 136 • 💬 3 • ⭐ 259 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
@@ -558,7 +560,7 @@ Show-Harness links vision-language models to robot control via discrete semantic
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 209 • 💬 3 • ⭐ 501 • 4d ago
+▲ 210 • 💬 3 • ⭐ 501 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -590,18 +592,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 19 • 💬 2 • ⭐ 22,959 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
 **[Omni Interaction Agent Technical Report](https://huggingface.co/papers/2609.08977)**
 
 *Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)*
@@ -610,9 +600,21 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.
 
-▲ 125 • 💬 2 • ⭐ 177 • 4d ago
+▲ 126 • 💬 2 • ⭐ 177 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08977) • [💻 code](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent) • [🔗 project](https://omni-interaction-gander.github.io/Omni-Interaction-Agent/)
+
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 19 • 💬 2 • ⭐ 23,007 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -640,7 +642,17 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.7k • 🔱 588 • 5h ago
+⭐ 4.8k • 🔱 594 • 9h ago
+
+---
+
+**[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)**
+
+AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
+
+`Python`
+
+⭐ 3.8k • 🔱 242 • 1d ago
 
 ---
 
@@ -654,23 +666,13 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 ---
 
-**[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)**
-
-AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
-
-`Python`
-
-⭐ 3.6k • 🔱 231 • 1d ago
-
----
-
 **[yetone/cumora](https://github.com/yetone/cumora)**
 
 Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 457 • 1d ago
+⭐ 3.6k • 🔱 458 • 1d ago
 
 ---
 
@@ -680,7 +682,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 166 • 16h ago
+⭐ 2.6k • 🔱 165 • 21h ago
 
 ---
 
@@ -690,7 +692,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 91 • 2d ago
+⭐ 2.4k • 🔱 92 • 2d ago
 
 ---
 
@@ -710,7 +712,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 182 • 17d ago
+⭐ 1.8k • 🔱 183 • 17d ago
 
 ---
 
@@ -730,7 +732,7 @@ Infrastructure for the next generation of voice agents, designed to provide univ
 
 `Python` `ai` `ai-agents` `ai-tools` `application` `audio-streaming`
 
-⭐ 1.4k • 🔱 100 • 7d ago
+⭐ 1.4k • 🔱 102 • 7d ago
 
 ---
 

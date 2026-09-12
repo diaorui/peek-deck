@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T03:28:15.781292+00:00'
+updated: '2026-09-12T08:06:23.441304+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 03:28 UTC  
+**Last Updated:** September 12, 2026 at 08:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 For robots to truly enter our homes, they need hands that are not only capable — but also soft and safe. SoftSync FlexHand V1 can gently handle delicate objects like tofu, eggs, buns, and strawberries, while its compliant structure also enables safer physical interaction with people and everyday objects. A softer hand for robots interacting with the real world. #SoftSyncFlexHand #EmbodiedAI #DexterousHand #SoftRobotics #HomeRobotics
 
-11h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 “Dull, dirty, dangerous” gets used constantly as the case for robotics. Kate Darling’s point here is that the industry often skips a pretty important step: actually defining what those jobs are from the worker’s perspective. She gives sanitation work as an example. On paper, trash collection seems like an obvious target for automation. But some automation proposals can also remove the part of the job workers actually enjoy. The better approach may be less about replacing the entire task and more about using robotics to remove the dangerous or repetitive parts without making the job worse. It gets at a bigger issue in robotics: the people building the systems aren’t always the people doing the work they’re trying to automate. Full episode: https://www.youtube.com/watch?v=odORVBoO7ss
 
-12h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
 
-7h ago
+12h ago
 
 ---
 
@@ -64,7 +64,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 **[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
-6h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 8h ago
+🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I added ROS to my app #smartphone #tech #andriod #robot #robotics #autonomousvehicles
 
-🔗 [YouTube](https://www.youtube.com/shorts/aQ_2-2e3cTc) • 13h ago
+🔗 [YouTube](https://www.youtube.com/shorts/aQ_2-2e3cTc) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Yesterday I posted the first assembled version of my Microduck, and a few people
 
 https://preview.redd.it/damuq3cb8voh1.png?width=1402&format=png&auto=webp&s=7d9387417489e6bfe70c6de233daaeb97559cc98 GitHub repo: https://github.com/Spidoug/SynROV I’m sharing my project SynROV. SynROV is a modular control stack for seven robot classes: Manipulator, Vehicle, Drone, Boat, Submarine, Biped and Quadruped. This repository contains the complete Version 1 implementation. The project combines Leap Motion gesture tracking, an Arduino-controlled servo system, Processing-based 3D visualization, and a browser dashboard using WebSocket communication.
 
-17h ago
+21h ago
 
 ---
 
@@ -114,7 +114,7 @@ https://preview.redd.it/damuq3cb8voh1.png?width=1402&format=png&auto=webp&s=7d93
 
 Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
 
-CNBC • 21h ago
+CNBC • 1d ago
 
 ---
 
@@ -122,35 +122,23 @@ CNBC • 21h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 11h ago
+IEEE Spectrum • 16h ago
 
 ---
 
-**[Chinese Regulators Seek Higher Bar for Humanoid-Robotics Listings](https://www.wsj.com/finance/chinese-regulators-seek-higher-bar-for-humanoid-robotics-listings-95773ce4)**
+**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
 
-WSJ • 2d ago
+MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
 
----
-
-**[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
-
-Bloomberg.com • 1d ago
+The Japan Times • 1d ago
 
 ---
 
-**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast?cid=external-feeds_iluminar_google)**
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
-Robotics expert Changliu Liu explains.
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-CNN • 4h ago
-
----
-
-**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
-
-New tactile datasets could solve a longstanding challenge in robotics
-
-IEEE Spectrum • 1d ago
+TechCrunch • 1d ago
 
 ---
 
@@ -162,17 +150,15 @@ NVIDIA Blog • 1d ago
 
 ---
 
-**[Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data](https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/)**
+**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
 
-The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-
-TechCrunch • 4h ago
+Gizmodo • 13h ago
 
 ---
 
-**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
+**[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-gizmodo.com • 9h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -182,17 +168,31 @@ Breaking Defense • 1d ago
 
 ---
 
+**[Medtronic’s Jim Peichel on AI, robotics and the future of surgery](https://www.modernhealthcare.com/medical-devices/mh-medtronic-jim-peichel-ai-robotics-surgery/)**
+
+Chief Technology Officer Jim Peichel said the company is leveraging AI to personalize procedures and improve efficiency.
+
+Modern Healthcare • 1d ago
+
+---
+
+**[Chinese CEO Laments Many Robotics Firms Fabricate Revenue](https://www.theinformation.com/briefings/chinese-ceo-laments-robotics-firms-fabricate-revenue)**
+
+The Information • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+**[Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat](https://www.youtube.com/watch?v=qkIJELDgULA)**
 
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic ...
 
-📺 America's Got Talent
+📺 Unitree Robotics
 
-👁️ 670K • 👍 8K • 💬 1K • ⏱️ 5:02 • 3d ago
+👁️ 388K • 👍 713 • 💬 138 • ⏱️ 0:39 • 4d ago
 
 ---
 
@@ -206,6 +206,24 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 ---
 
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
+
+The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
+
+📺 States 2050
+
+👁️ 639K • 👍 10K • 💬 501 • ⏱️ 23:25 • 3d ago
+
+---
+
+**[Check out my latest video! #robot #robotics #technology #engineering](https://www.youtube.com/watch?v=iXLlDliC-q4)**
+
+📺 SNeuroRobotics
+
+👁️ 98K • 👍 369 • 💬 9 • ⏱️ 0:10 • 6d ago
+
+---
+
 **[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
 
 Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, demonstrating fully autonomous robot combat ...
@@ -216,73 +234,53 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 ---
 
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+**[How Robotics Makes Partial Knee Replacement Better](https://www.youtube.com/watch?v=3ThZm_D85jA)**
 
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+Robotic Partial Knee Replacement: Precision Changes Everything #shorts Partial knee replacement can be technically ...
 
-📺 DPCcars
+📺 Bone Doctor
 
-👁️ 41K • 👍 189 • 💬 44 • ⏱️ 3:39 • 2d ago
-
----
-
-**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
-
-We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
-
-📺 Milk Road Stocks
-
-👁️ 14K • 👍 225 • 💬 24 • ⏱️ 48:57 • 4d ago
+👁️ 102K • ⏱️ 0:46 • 5d ago
 
 ---
 
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=Xd2E7_JAZZQ)**
+**[China is Now Ready For... 🇨🇳🤖 #military  #ai  #robotics](https://www.youtube.com/watch?v=D8qKPuG7ymU)**
 
-PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat ...
+Robots are becoming part of everyday life in China! From public spaces to different service roles, technology is becoming more ...
 
-📺 LIGHTS ARE OFF
+📺 Universal Files
 
-👁️ 5.9M • 👍 98K • 💬 13K • ⏱️ 25:44 • 5d ago
-
----
-
-**[He Built a Second Robot to KILL His First Creation | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=HpbhH-XJ6g8)**
-
-After losing control of E.L.B.E.R.R., a creator builds a second self-aware robot, R.R.E.B.L.E., to destroy him. I react to LIGHTS ARE ...
-
-📺 GrislyDeshaun
-
-👁️ 739K • 👍 7K • 💬 526 • ⏱️ 26:59 • 5d ago
+👁️ 53K • 👍 1K • 💬 146 • ⏱️ 0:58 • 6d ago
 
 ---
 
-**[Unitree Breakthrough: The World’s First Fully Autonomous Humanoid Robot Combat](https://www.youtube.com/watch?v=qkIJELDgULA)**
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
 
-UnifoLM-X2-1.0 breaks through world-action foundation models' bottlenecks in instant planning, decision-making, and dynamic ...
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
 
-📺 Unitree Robotics
+📺 America's Got Talent
 
-👁️ 340K • 👍 698 • 💬 138 • ⏱️ 0:39 • 4d ago
-
----
-
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
-
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
-
-📺 RICHLEV
-
-👁️ 469K • 👍 9K • 💬 2K • ⏱️ 38:26 • 4d ago
+👁️ 749K • 👍 9K • 💬 1K • ⏱️ 5:02 • 3d ago
 
 ---
 
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+**[Humanoid Robots playing football #humanoidrobot #robot #robots #robotics #robotgame #robotic #tech](https://www.youtube.com/watch?v=QPy_DzkZbwM)**
 
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+Humanoid Robots learning how to play football. so far it's adorable play by robots.
 
-📺 XPENG
+📺 Code by Nadiia
 
-👁️ 304K • 👍 3K • 💬 297 • ⏱️ 5:52 • 2d ago
+👁️ 26K • 👍 135 • 💬 1 • ⏱️ 0:15 • 5d ago
+
+---
+
+**[Pt. 11- Why are we teaching humanoid robots to fight? 🤖🥊](https://www.youtube.com/watch?v=650LZ3C9cEA)**
+
+This is the EngineAI T800, a full-size humanoid built to perform highly dynamic movements including punches, kicks, rapid ...
+
+📺 BI️ Studio of Emotional Intelligence 
+
+👁️ 82K • 👍 1K • 💬 162 • ⏱️ 0:56 • 5d ago
 
 ---
 
