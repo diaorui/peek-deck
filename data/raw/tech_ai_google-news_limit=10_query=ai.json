@@ -5,6 +5,26 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Why the AI race has its creators fearing human extinction",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5",
+      "pub_date": 1789143074.0,
+      "article_url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F764fb1e3-7fde-429a-94a8-20ca52ad9553.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream"
+    },
+    {
+      "headline": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFQmxROTdQNUMtdlp6WWt5NEJ4clJ3cXhXcmhCbWNSeHo3RWpkUzlsNVBqYldaVlFtYmtGdGl6ZklWczgyem0zbzcxWEM3R0Q5S2RwZElPNDdFYmtfbG9TeWFvc0tyVWt3U1FHd18wb9IBdEFVX3lxTE1ITHNmX3NhN1dBQ29pS3gzZ0JnX1dmQzNNUHdERWZuY3AwZXJmUXNDWVFaVFIxbF9GYkk3QWJKTkdabGdYX1F5Vkh6YU1OYVRaMUQ3aGMyVFVuM1VEOG1yTDFPS045d1NXd1o2VDcxMjhrUGF6?oc=5",
+      "pub_date": 1789124304.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&w=1920&h=1080",
+      "description": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards."
+    },
+    {
       "headline": "Opinion | This Is Really Bad",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,86 +45,66 @@
       "description": null
     },
     {
-      "headline": "How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUotdlJET1huVjdSelVtX19weWxyRjBBS3ViZGZUTXVETE1vMGR2cjhKbEFrYjd1OEZaQ1VZYUlMYmhEdm1rWTFYT3ZzQVE1MzFwYWNESElrUUFocHIxNmdOWUM5TlpCanhObk9nQUNHQ1N5NllWRGxfbGhPUGtfSzByUmdXSlFseUhIejFiZ3V5MWlBdnN5UVhTblJ0T0lKOENDMHBMQ1BGNU1rYVBHcGZn?oc=5",
-      "pub_date": 1788999900.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-would-ai-actually-kill-us-all-what-to-know-about-the-ai-doomsday-debate-034270d1",
-      "image": null,
-      "description": null
+      "headline": "Detecting and countering misuse of AI: September 2026",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "pub_date": 1789060227.0,
+      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEF4YVFKUDYwTE1jZW5wcmJJTWxlWGpadnNVWUt3WVQ2TU9BZDVFbTNJVzdGaDhMNVdzZTZ1OUdBSWNQMFZKWnBFb3RoX2ZfSDVpUG4tYUItcFBnLW9tamdQcEJzMmpFYUNuOFZHb01JdlE1aTlRRHhDeUxscjZWdE5TS3FmQkxwMU04d2RhclJubC1qWDVqcXhR?oc=5",
-      "pub_date": 1789166559.0,
-      "article_url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
-      "image": "https://i.insider.com/6aa48348ec15fe2d3cf1697e?width=1200&format=jpeg",
-      "description": "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion."
+      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
+      "pub_date": 1789170960.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
+      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
+      "description": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems"
     },
     {
-      "headline": "Senate AI safety bill\u2019s path forward remains unclear",
+      "headline": "OpenAI reveals another rogue AI attack",
       "source": "Politico",
       "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTVZN29Qd2NLNEEycmdpNUxrWDlzaUJZbnFKeEhYdHFHaXNJYWdjbjVZYkhOYXVQZ09IRVVITktZM2wzYmJRTGxhQXdwSnlwRjE3NmJaTkk4UHJtMFdYajVKVF91VzRhMnEtdzdWQjVBYW14OWNKZTBPY05Ca2lvb2l4V2ZFMUpkUTFiTEM4Y255d2pZTVlBaGZn?oc=5",
-      "pub_date": 1789163400.0,
-      "article_url": "https://www.politico.com/news/2026/09/11/klobuchar-thune-ai-safety-bill-faces-impasse-01073026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "pub_date": 1789175040.0,
+      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaE5RVzVKR09WQ0pick9xYjhVaXhnYUFpOUt2OElxZjBwbTRvT2d3U2FnRmFacXd5TWFvVnpwRUo5M0lEeWVNbWJURzdlRXFLbnFHa1Y4WU43SmxKYWcwUGRFQmdjV2FGeUg4TVdPVEFkTzJtNUtQV0xtVHROLV9XekJKSTZFbmFNb0xwaFNMejRHYmpwbUdpOGRlYXoza2hjWXRTdVdNcng0cmFNV2ZwTkFYT0tma1kzTkpN?oc=5",
-      "pub_date": 1789087380.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing \u2018catastrophic\u2019 risk",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
-      "pub_date": 1789162725.0,
-      "article_url": "https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293016693.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the \u201ccatastrophic risk posed by advanced artificial intelligence.\u201d"
-    },
-    {
-      "headline": "JPMorgan cut off Situational Awareness lending after AI losses",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHFCRWNlOGV6b2dNSUlNbUU0OFFWcWlncFZLY0hjZnRtTW5nQng3dm85djRHNDRaS3BZX280T1F6OEw2d1VqVThnUk16WnF2a3FMQWNJTXA5S3V1V25fcGtKU0FtalpTUGkxa1UwMW9jZG1OQkJsSEV5dFd4el9hTXlRenU?oc=5",
-      "pub_date": 1789146928.0,
-      "article_url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ffd0b92-c8c2-457d-8c7c-1a52e5ccfa1f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Leopold Aschenbrenner\u2019s hedge fund previously shed billions of dollars during sell-off"
-    },
-    {
-      "headline": "The Original Sin of AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNW9JUHRuSDFVbDVseThteTY1YTZDMkpXQ19LVFBnWkxBRml2YjVKTnY0MWJ1Y0ZsUUxxZE1zbjVVblFyck1ycERVMlYxQldtXzYzZHhUaWdqR1otQnRSejVUZ2pIYWpGblhONEVTX1liUjhOMlhFVzNZaENvMHhlVTBBZkg0QVBjMk1sV2U2RWdzcU80LU1kTGl3?oc=5",
+      "headline": "Can A.I. \u201cGo Rogue\u201d?",
+      "source": "The New Yorker",
+      "source_url": "https://www.newyorker.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lWkpLT0xFVjYtYWVvRmdfbDdobDhFWldqTjdTZmdxUU4tNEpkVTl5ejBCNW5qZDFYd2Q5WHowMXRFUVhhNTlPWkkwRFlnWUhjVG9waHN4VlZaNU1HcmlfbFEzTDBINC1iM293NkJfRk5TZw?oc=5",
       "pub_date": 1789120800.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/",
-      "image": "https://cdn.theatlantic.com/thumbor/NfziaGGjw1TZPktK_wKB6VicUS4=/0x43:2000x1085/1200x625/media/img/mt/2026/09/2026_9_10_The_Meta_Settlement_Sets_a_Bad_Precedent_for_AI/original.jpg",
-      "description": "The harms of chatbots are clear enough to do something about them now."
+      "article_url": "https://www.newyorker.com/culture/open-questions/can-ai-go-rogue",
+      "image": "https://media.newyorker.com/photos/6aa302a1307dd65de9fa4723/16:9/w_1280,c_limit/OpenQuestions_AI_Personification_final-1___.jpg",
+      "description": "In the wake of turmoil at OpenAI and Anthropic, it\u2019s become common to describe A.I. as a kind of person, hatching plans and pursuing desires. The truth is a little trickier."
     },
     {
-      "headline": "Oil, Lawsuits, AI: Inside Harvard\u2019s Increasingly Opaque $57 Billion Endowment",
-      "source": "The Harvard Crimson",
-      "source_url": "https://www.thecrimson.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNG9BX2NwQlVGVVJxUHRqeUhoUkg2b3ZhR2FWeTNWTEpPV3Z5R1dtdm1jc3pjQ01SVzh4Y3ZYTG5PcWxGakVOY0hFTkVzUXMzV1U3OWtSNmZrcE83eWI1VGpvcnNxTk5QX1I4emlIcWFWSlI0Nkh6OGRCOGV4cDkwYg?oc=5",
-      "pub_date": 1789143728.0,
-      "article_url": "https://www.thecrimson.com/article/2026/9/11/harvard-endowment-investments/",
-      "image": "https://thumbnails.thecrimson.com/photos/2026/09/11/141429_1387664.PNG.1500x900_q95_crop-smart_upscale.png",
-      "description": "A Crimson analysis of nearly 3,400 tax records traced Harvard\u2019s endowment through a sprawling network of outside funds, revealing investments tied to fossil fuels, litigation finance, private companies, catastrophe risk, and more."
+      "headline": "Ukraine war briefing: Russian developers used AI to build \u2018kamikaze\u2019 attack drone software, Anthropic says",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1pNN1E2LTdmelB4VUxzNkxvRThpTmNFc012M3lyWDBiYXc2c2VvUms2LTg2cjBqZGs0ZFJyN3pGU3doRVdkNnVzWVBFM0s3cWRtYVdHdUhtRS0wWEY3TjlBTG02V2czS2tjOVlsbkRMM0s4TV9heWo4UHh6ZFpjcW9pVlhCdXVmUnJFRWZldE5OWlVFQUFYcEhQcWUwRzdER0NKanB6SlIwLU5nSThMUTBsbDlSSk1JSkR0Y19VeHo4VEthNjZzZi1fVTU3S21FbDdRQWl3UGxXNGlMd3NEdVhB?oc=5",
+      "pub_date": 1789179120.0,
+      "article_url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "image": "https://i.guim.co.uk/img/media/2cea145a5f5a416d622770e2c2450b94cdea9135/509_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e78a9470bd3799625e767787fdf6de72",
+      "description": "Anthropic also found that hackers used AI in attacks against targets in Ukrainian government, military and diplomatic sectors."
+    },
+    {
+      "headline": "Nvidia says AGI is here. How are China\u2019s top AI labs catching up?",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGd1cVAxeDJLVDktY2hsVjZOV1U4YWlQVjdJVjY3ME9PaEdWeFo4WDRpb3BQZVpzbnpaMFJMWVl1NEdZNlZqa2xXbDFiODNWb3VpNFFmNFBlel9iZk1mYmNpQWdtSU15WWdlcFJ0OUZ2dTVVckxzTGdtcWhuR0xiMm53QUktZ09UTVZiRTNWQzhyMUNTek5PdkI5WW5uUVpmM3RLTnRYVWdRSV9yRndWZkg0TXBlZnh1bHg5LW1DRdIBvwFBVV95cUxNNHBaYTJvZFhUVHYzeFF1NHViNTNpZU0tUG53OEtQMzRRNGVsLVkybWZOc3IwbVNxTE83VDQwUlFoeTkySGh6Xy1lVFVDUkR5OXA2cDQzc2VKTWpGc3JodExBaHVKMEV0QkFrRjJPNEpwa3ZXeWxJNGt3Vzlxd2hIcVZ2ZDBnaUxlY0lPcEdIRkp1YWd0RDFDZENDWGp5a2tqNFVXSUIwTjJOakZLWUx5S0RNNE83eDgzZGo0RlY3TQ?oc=5",
+      "pub_date": 1789182009.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T23:54:47.871494+00:00"
+  "fetched_at": "2026-09-12T03:28:14.178518+00:00"
 }

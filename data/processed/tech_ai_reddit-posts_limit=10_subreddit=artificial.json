@@ -13,15 +13,15 @@
       "description": "Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesday, specifically so he could say publicly that both OpenAI and Anthropic are \"gambling with our lives\" and racing toward self-improving superintelligence without acting responsibly. He'd spent three years doing pretraining research at both companies. Then it got stranger. Evan Hubinger, who currently runs alignment science at Anthropic, responded confirming it. His words: \"Jacob is correct here, we really do earnestly believe AI could kill all humans.\" He put it above 10% within the decade and said Anthropic doesn't have a plan for aligning superintelligence and isn't clearly on track to get one. Samuel Marks, who leads scalable oversight there, said something similar. So the safety team at the safety-focused lab publicly agreed with the guy who quit over safety. I've read a lot of takes on this over the last two days and most of them fall into two camps. Either it's marketing to make the tech sound more powerful than it is, or it's a genuine warning we should all be terrified by. I don't think either read is right, but I also don't think I'm qualified to settle it. What I do know is the practical side. I work with companies deploying this technology and nobody in those rooms is thinking about extinction. They're thinking about whether an agent with write access to their CRM is going to do something stupid at 3am with nobody watching. They're thinking about who signs off when the output is wrong and a customer gets hurt. Those two conversations have almost nothing to do with each other, and yet they're now happening in the same news cycle. Which means the people who have to make practical decisions about AI adoption are getting their signal completely scrambled. If the people building this can't agree on whether it's an existential threat, what exactly is a mid-sized company supposed to base their risk assessment on?"
     },
     {
-      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
-      "author": "recallingmemories",
-      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
-      "published": 1789087986.0,
-      "thumbnail": null,
+      "title": "Will AI help us cure cancer by 2030?",
+      "author": "Icy_Wishbone658",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdz75c/will_ai_help_us_cure_cancer_by_2030/",
+      "published": 1789177263.0,
+      "thumbnail": "https://preview.redd.it/xs89a1fluzoh1.jpeg?width=640&crop=smart&auto=webp&s=ce4ddc4cdc9a3cfa8377b4ccce6beee62006a835",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+      "description": "What do you think?"
     },
     {
       "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings | AI (artificial intelligence)",
@@ -35,6 +35,28 @@
       "description": "Letter from 70 MPs and peers follows Anthropic employee\u2019s claim new technology could wipe out humans"
     },
     {
+      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
+      "author": "absolut_st",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
+      "published": 1789151096.0,
+      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
+      "author": "recallingmemories",
+      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
+      "published": 1789087986.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+    },
+    {
       "title": "Polish developer builds app that detects nearby Meta smart glasses",
       "author": "Low-Honeydew6483",
       "url": "https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/",
@@ -44,6 +66,17 @@
       "site_name": "tvpworld.com",
       "favicon": "https://s.tvp.pl/files/portale-v4/tvp-pl/portal/world.tvp.pl/assets/images/favicons/apple-touch-icon.png?v=0",
       "description": "Polish developers made an iPhone app that can detect nearby Meta smart glasses Apparently a group of Polish developers created an iPhone app that can detect nearby Meta smart glasses. It\u2019s an interesting idea especially with the privacy concerns around smart glasses and cameras. Knowing that someone nearby might be wearing one could be useful. At the same time I am curious how accurate the app actually is and whether it can reliably detect the glasses in real world situations. Would you guys actually use something like this?"
+    },
+    {
+      "title": "AI Could Fulfill Prophecies of Control in Revelation 13:15-18. Future Forecast Insights & Preparation",
+      "author": "understand-the-times",
+      "url": "https://www.reddit.com/r/artificial/comments/1we1e41/ai_could_fulfill_prophecies_of_control_in/",
+      "published": 1789183650.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The internet is integral in most peoples lives around the world. It is conceivable that the 'Beast', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18; 15 \"He was granted power to give breath to the image of the beast, that the image of the beast should both speak and cause as many as would not worship the image of the beast to be killed. 16 He causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, 17 and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name. 18 Here is wisdom. Let him who has understanding calculate the number of the beast, for it is the number of a man: His number is 666.\u201d Does World Wide Web 'www' = 666? Originally the Bible was written in Hebrew; \"The Hebrew equivalent of our \"w\" is the letter \"vav\" or \"waw\". The numerical value of vav is 6. So the English \"www\" transliterated into Hebrew is \"vav vav vav\", which numerically is 666.\u201d Is \"www\" in Hebrew equal to 666? Dial-the-Truth Ministries (av1611.org) The unthinkable eternal consequences of taking this Mark when eventually forced- Revelation 14:9-13 Revelation 14:9-13 KJV - And the third angel followed them, - Bible Gateway History Preceding the book of Revelation This article explains many of the \u201cnatural signs, spiritual signs, sociological signs, technological signs, and political signs,\u201d foretold in bible prophecy coming to pass that indicates the end of the age, a time foretold to include various and increasing environmental calamities, plagues, moral decline, wars, earthquakes, growing governmental dominance/deception (\"with all power, signs, and lying wonders,\" 2 Thessalonians 2:9), and how to prepare. Are we living in the end times? | GotQuestions.org End Times Timeline: A summary of the timeline from the hope of the soon rapture of the believers in Jesus (1 Thessalonians 4:13-18), the 7 year tribulation period (Revelation 6\u201316), until the creation of the new heavens and earth (Revelation 21\u201322). What is the end times timeline? | GotQuestions.org \"For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.\u201d John 3:16 Going to heaven\u2014how can I guarantee my eternal destination? | GotQuestions.org More Bible prophecy fulfillments and resources for growing in faith and hope is in previous posts if interested."
     },
     {
       "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
@@ -57,60 +90,27 @@
       "description": null
     },
     {
-      "title": "James Cameron saw it in 1984 even with 128 KB of RAM and floppy disks",
-      "author": "absolut_st",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdocnr/james_cameron_saw_it_in_1984_even_with_128_kb_of/",
-      "published": 1789151096.0,
-      "thumbnail": "https://preview.redd.it/gr9l6ke2oxoh1.jpeg?width=640&crop=smart&auto=webp&s=1d11dd329530f2251425ec600da9e446c34c49d2",
+      "title": "Altman on GPT7",
+      "author": "Popular_Slip_5311",
+      "url": "https://www.reddit.com/r/artificial/comments/1we0le1/altman_on_gpt7/",
+      "published": 1789181283.0,
+      "thumbnail": "https://external-preview.redd.it/ZDllenB2ZGk2MHBoMQ1Uat0kNLrkWVOwxeIVvA8eUcYGydpDe8UpwFY5YgGO.jpeg?width=640&crop=smart&auto=webp&s=1f8faaaf63d481fa0a7520db209e28e74e917db3",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "Mathematicians confront the AI apocalypse",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/",
-      "published": 1789136503.0,
-      "thumbnail": "https://external-preview.redd.it/98v1Qor89x9KNnv_2V6zaDIm_yiX-sRZl_07NnfnNVw.jpeg?width=640&crop=smart&auto=webp&s=8abfd1b6c83c522d02a1086bc75de949f52c81a0",
-      "external_url": "https://www.scientificamerican.com/article/mathematicians-confront-the-ai-apocalypse/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "What happens when machines surpass the most brilliant human minds? Mathematicians are finding out"
-    },
-    {
-      "title": "What if AI could keep working inside the experience it created.. and then you entered that creation as a character.. without re-running any code?",
-      "author": "Beneficial-Cow-7408",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdtx3c/what_if_ai_could_keep_working_inside_the/",
-      "published": 1789163400.0,
-      "thumbnail": "https://external-preview.redd.it/Nnd6eGdodGZueW9oMZO0tC3DGrKDqmy0mw-60VwGEcarOmaPoNf0T04lxJoA.png?width=640&crop=smart&auto=webp&s=889497adb754b4683c689af724c9e2ab16076483",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Most AI creation tools follow a generate preview regenerate loop. I wanted something more continuous. I built AskSary LiveLoop, where an AI can create an interactive experience, observe it while it runs, apply new requests without wiping its state, and repair failures inside the same session. In the demo, it modifies persistent worlds, 3D designs, and playable scenes while rendering continues. Instructions can also be queued, so the user can act more like a creative director than someone waiting for each prompt to finish. These are just examples of what you can do with it. You can take an idea from a sketch to fully built website without ever losing vision. You can create a world that starts off as observatory concept to then entering the world your self and navigate as one of the characters. This all happens live where you can queue your ideas up and watch them all come to life with the ability to download the current state at any given moment as a complete self contained file that require no dependencies . With persistent memory that never loses context you can log out the system and return to it on another machine and pick up exactly where you left off at the exact state you left it. I\u2019m interested in whether people see this as an agent runtime, a creative tool, or something else entirely. The system is live and ready to try but unless mod's approve i didn't want to break any rules here with the link. I wanted to gather feedback on what i've built and whether its something your interested in. Any questions welcomed"
-    },
-    {
-      "title": "Alibaba Cloud and Cambricon just took Platinum seats on the PyTorch Foundation board",
-      "author": "OkCan8173",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdtoh7/alibaba_cloud_and_cambricon_just_took_platinum/",
-      "published": 1789162843.0,
+      "title": "Why does A.I suddenly seem awful at science? and are there decent A.I for science questions/research",
+      "author": "Responsible-Ice6534",
+      "url": "https://www.reddit.com/r/artificial/comments/1wdxbsd/why_does_ai_suddenly_seem_awful_at_science_and/",
+      "published": 1789172107.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "The PyTorch Foundation announced on September 8 at PyTorch Conference China in Shanghai that Alibaba Cloud and Cambricon joined as Platinum members. Each gets a seat on the Governing Board and one on the Technical Advisory Council. If you build on non-NVIDIA accelerators, the TAC seat is worth watching. Cambricon ships MLU processors into Chinese data centers, and their PyTorch backend has lived out of tree, meaning it can lag or break after major releases. A TAC seat gives them a direct channel to push backend support upstream rather than maintaining a fork. That is a real difference for anyone on that hardware. I want to be clear about what this does not change. A governance seat is not a benchmark, and the silicon itself is not suddenly matching an H100 on throughput. More than 250 Chinese organizations were already contributing to foundation projects before these seats existed. What changed is who has input on framework architecture decisions. Both companies that took those seats are lines in CNQQ, with Alibaba at 8.67% and Cambricon at 2.62% of the latest published holdings. The accelerator maker is a small fraction next to the internet and cloud line. CQQQ overlaps on the larger names but draws from a narrower mainland slice."
-    },
-    {
-      "title": "Wtf Mods",
-      "author": "vibrance9460",
-      "url": "https://www.reddit.com/r/artificial/comments/1wdsxhd/wtf_mods/",
-      "published": 1789161084.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I posted 11 quotes, with sources, from top scientists They were all predicting doom. You labeled it \u201cGOSSIP\u201d YOU GUYS ARE PART OF THE PROBLEM"
+      "description": "Gemini is just incorrect most the time and has zero issue just making stuff up, then GPT refuses to say any specific and when called out for this it just HARD stops any conversation. I mean i swear they used to be better then they are now. Anyone got any recs though? With how terrible normal search engines are getting it seems impossible to find even foundational info without sifting through textbooks and papers. Also honestly if anyone's got a browser rec that can actually damn find stuff lmk. (yes ive seen the rules but this has been a self sustaining circle of shitty searches giving shitty answers and untimely failing to do something as basic as supply a tool name.)"
     }
   ],
-  "fetched_at": "2026-09-11T23:54:27.101685+00:00"
+  "fetched_at": "2026-09-12T03:27:46.896226+00:00"
 }

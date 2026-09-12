@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-11T23:54:51.274355+00:00'
+updated: '2026-09-12T03:28:15.778109+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 23:54 UTC  
+**Last Updated:** September 12, 2026 at 03:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +1.4%  
-**30d:** +33.2%  
-**90d:** +45.6%  
-**1y:** -46.5%  
+**24h:** +2.1%  
+**7d:** -0.1%  
+**30d:** +33.4%  
+**90d:** +39.8%  
+**1y:** -46.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.61B
+**Market Cap:** $306.45B
 Rank #2
 
-**Circulating Supply:** 122,038,476 ETH
+**Circulating Supply:** 122,041,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -49.2%
 
 **All-Time Low:** $0.43
-+580170.6%
++579849.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ Variable rates are still the default for most onchain credit. That makes leverag
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2d ago
+fortune.com • 2d ago
 
 ---
 
@@ -178,13 +178,13 @@ TradingView • 1d ago
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 2d ago
+fortune.com • 2d ago
 
 ---
 
 **[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
@@ -192,7 +192,7 @@ CoinDesk • 1d ago
 
 XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5…
 
-TradingView • 10h ago
+TradingView • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ The Block • 1d ago
 
 Philadelphia Fed research found Bitcoin wallets followed whale alerts within 15 minutes, while Ethereum participation stayed muted.
 
-cryptoslate.com • 3h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -216,13 +216,13 @@ cryptoslate.com • 3h ago
 
 Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
 
-blockchain.news • 8h ago
+blockchain.news • 12h ago
 
 ---
 
 **[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
 
-MarketWatch • 9h ago
+MarketWatch • 13h ago
 
 ---
 
@@ -230,13 +230,23 @@ MarketWatch • 9h ago
 
 ## YouTube Videos: "ethereum"
 
+**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+
+John Gillen says Ethereum could hit $4000 before the end of the year, and he's been making that case in a viral essay series ...
+
+📺 The Rollup
+
+👁️ 419 • 👍 43 • 💬 10 • ⏱️ 22:54 • 2h ago
+
+---
+
 **[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
 
 Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 587 • 💬 22 • ⏱️ 11:43 • 5h ago
+👁️ 23K • 👍 687 • 💬 31 • ⏱️ 11:43 • 8h ago
 
 ---
 
@@ -246,37 +256,17 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 14K • 👍 546 • 💬 311 • ⏱️ 17:30 • 8h ago
+👁️ 17K • 👍 584 • 💬 356 • ⏱️ 17:30 • 12h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
 
-📺 Discover Crypto
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 9K • 👍 362 • 💬 51 • ⏱️ 1:04:53 • 8h ago
-
----
-
-**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
-
-ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
-
-📺 D.I.Y Investing
-
-👁️ 1K • 👍 97 • 💬 16 • ⏱️ 15:04 • 5h ago
-
----
-
-**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
-
-One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
-
-📺 The Modern Investor
-
-👁️ 11K • 👍 820 • 💬 344 • ⏱️ 31:34 • 14h ago
+👁️ 2K • 👍 50 • 💬 12 • ⏱️ 9:47 • 11h ago
 
 ---
 
@@ -290,43 +280,53 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 ---
 
-**[🟢 They Hate Ethereum STRENGTH 🧃](https://www.youtube.com/watch?v=CJNuxaVi4Qo)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 344 • 👍 46 • 💬 9 • ⏱️ 24:58 • 1h ago
-
----
-
 **[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
 
 You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
 
 📺 The Modern Investor
 
-👁️ 17K • 👍 979 • 💬 257 • ⏱️ 28:10 • 2d ago
+👁️ 17K • 👍 979 • 💬 256 • ⏱️ 28:10 • 2d ago
 
 ---
 
-**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
+**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
 
-ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
 
-📺 More Crypto Online
+📺 Discover Crypto
 
-👁️ 12K • 👍 256 • 💬 11 • ⏱️ 12:26 • 23h ago
+👁️ 10K • 👍 370 • 💬 51 • ⏱️ 1:04:53 • 11h ago
 
 ---
 
-**[ETHEREUM : 5 ans d&#39;attente pour ce signal EXPLOSIF (analyse)](https://www.youtube.com/watch?v=Yp_w8YFAKak)**
+**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
 
-OKX : 8% sur tes dépôts en USDT : https://my.okx.com/fr-fr/campaigns/deposit-bonus-usdt-convert-usdc?channelId=82780213 ...
+ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
 
-📺 Crypto Le Trone
+📺 D.I.Y Investing
 
-👁️ 8K • 👍 465 • 💬 14 • ⏱️ 12:19 • 9h ago
+👁️ 2K • 👍 116 • 💬 21 • ⏱️ 15:04 • 8h ago
+
+---
+
+**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
+
+One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
+
+📺 The Modern Investor
+
+👁️ 12K • 👍 835 • 💬 380 • ⏱️ 31:34 • 18h ago
+
+---
+
+**[ETHEREUM Análisis del Precio Para Zonas Importantes - ETH](https://www.youtube.com/watch?v=yKSyQhbVyC4)**
+
+Ingreso a Pro Plan Trading (Tiempo Limitado) : ➡️ https://www.proplantrading.com/acceso/especial/6meses-page Inicia en ...
+
+📺 Julio Alfaro
+
+👁️ 696 • 👍 54 • 💬 56 • ⏱️ 11:03 • 6h ago
 
 ---
 
