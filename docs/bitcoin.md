@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-12T03:28:15.771939+00:00'
+updated: '2026-09-12T08:06:23.431918+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 03:28 UTC  
+**Last Updated:** September 12, 2026 at 08:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** -3.8%  
-**30d:** +22.5%  
+**30d:** +22.6%  
 **90d:** +16.5%  
 **1y:** -33.4%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1551.23B
+**Market Cap:** $1551.65B
 Rank #1
 
-**Circulating Supply:** 20,083,009 BTC
+**Circulating Supply:** 20,083,175 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -38.7%
 
 **All-Time Low:** $67.81
-+113799.1%
++113858.1%
 
 ---
 
@@ -77,45 +77,59 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Sweet heavens folks, we’re spiking !](https://www.reddit.com/r/Bitcoin/comments/1wdhc8h/sweet_heavens_folks_were_spiking/)**
-
-13h ago
-
----
-
 **[Here is who you are trading against](https://www.reddit.com/r/Bitcoin/comments/1wd9t6i/here_is_who_you_are_trading_against/)**
-
-19h ago
-
----
-
-**[BTC wiping out the bears again](https://www.reddit.com/r/Bitcoin/comments/1wdi11d/btc_wiping_out_the_bears_again/)**
-
-12h ago
-
----
-
-**[They are real](https://www.reddit.com/r/Bitcoin/comments/1wcw3mo/they_are_real/)**
-
-Bitcoin only
 
 1d ago
 
 ---
 
-**[OSFI Clears Canadian Banks To Launch Blockchain Deposit Products In 2026 | OneBullEx](https://www.reddit.com/r/Bitcoin/comments/1wdk22n/osfi_clears_canadian_banks_to_launch_blockchain/)**
+**[Sweet heavens folks, we’re spiking !](https://www.reddit.com/r/Bitcoin/comments/1wdhc8h/sweet_heavens_folks_were_spiking/)**
 
-Canada's Office of the Superintendent of Financial Institutions (OSFI) has confirmed that tokenized deposits carry the same legal status as traditional bank deposits, clearing a regulatory path for federally regulated financial institutions to build blockchain-based deposit products in 2026. The clarification, issued in 2026, resolves a foundational legal question that had been holding back Canadian banks from developing on-chain deposit offerings. By treating tokenized deposits as functionally equivalent to conventional deposits, OSFI has signaled that federally regulated financial institutions can proceed with blockchain-based deposit products without needing a separate legal classification or bespoke regulatory regime. The move positions Canada among the first major jurisdictions to explicitly address the legal treatment of tokenized deposits, a category distinct from stablecoins in that tokenized deposits represent claims on a regulated bank rather than on a private issuer.
-
-🔗 [OneBullEx](https://www.onebullex.com/news/articles/osfi-clears-canadian-banks-to-launch-blockchain-deposit-products-in-2026) • 11h ago
+17h ago
 
 ---
 
-**[Selloff inc , i bought. Welcome bears](https://www.reddit.com/r/Bitcoin/comments/1wd7k3v/selloff_inc_i_bought_welcome_bears/)**
+**[Normies and Bitcoiners](https://www.reddit.com/r/Bitcoin/comments/1wdr4i2/normies_and_bitcoiners/)**
 
-I just achieved my first milestole 1/100 of btc. Moments later i see a micro double top has formed. So anyways right after i bought it seems like we are headed lower. Good. Gonna dca more for cheaper.
+12h ago
 
-21h ago
+---
+
+**[Bitcoin ATM](https://www.reddit.com/r/Bitcoin/comments/1wdzpp0/bitcoin_atm/)**
+
+How do these work? Have you ever tried using one?
+
+6h ago
+
+---
+
+**[BTC wiping out the bears again](https://www.reddit.com/r/Bitcoin/comments/1wdi11d/btc_wiping_out_the_bears_again/)**
+
+17h ago
+
+---
+
+**[The importance of BTC milestones](https://www.reddit.com/r/Bitcoin/comments/1wdt1u3/the_importance_of_btc_milestones/)**
+
+As someone who has reshuffled and gone BTC only. What is the importance of 0.1 btc 0.25 btc 0.5 btc 1btc In 10 or even 20 years how valuable will this be and currently what % of holders has hit these milestones
+
+10h ago
+
+---
+
+**[So I made a seed phrase generator the only way I knew how...](https://www.reddit.com/r/Bitcoin/comments/1we1159/so_i_made_a_seed_phrase_generator_the_only_way_i/)**
+
+With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus
+
+4h ago
+
+---
+
+**[Are we rebuilding the middlemen Bitcoin was meant to remove?](https://www.reddit.com/r/Bitcoin/comments/1wdvhsj/are_we_rebuilding_the_middlemen_bitcoin_was_meant/)**
+
+Bitcoin was created around the idea of allowing people to transact directly, without relying on trusted third parties. But today, exchanges, custodians, payment companies, and ETFs sit between many people and their Bitcoin. They’re useful and clearly helping with adoption. But I wonder if, in making Bitcoin easier to use, we’re also rebuilding some of the intermediary system that Bitcoin was trying to move away from. Maybe that’s not necessarily a contradiction. Bitcoin still gives people the choice: use an intermediary for convenience, or hold and transact directly through self-custody. That tension is what I find interesting.
+
+9h ago
 
 ---
 
@@ -123,31 +137,15 @@ I just achieved my first milestole 1/100 of btc. Moments later i see a micro dou
 
 Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/) • 12h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/) • 17h ago
 
 ---
 
-**[Bitcoin Optech Newsletter #422](https://www.reddit.com/r/Bitcoin/comments/1wdio9r/bitcoin_optech_newsletter_422/)**
+**[When do we think the actual BTC bottom is coming? What’s your playbook?](https://www.reddit.com/r/Bitcoin/comments/1we34se/when_do_we_think_the_actual_btc_bottom_is_coming/)**
 
-Bitcoin Optech newsletter #422 is here: describes a proposed protocol for probabilistic coinjoins disguised as covert bets summarizes benchmarks of a silent payments indexing server against compact block filters for light clients Optech Newsletter #422 Podcast https://bitcoinops.org/en/newsletters/2026/09/11/ Adam Gibson posted to Delving Bitcoin about Babilonia, a proposal for a new probabilistic coinjoin and covert betting protocol... https://bitcoinops.org/en/newsletters/2026/09/11/#a-protocol-for-probabilistic-coinjoin-and-covert-betting Rob Segers posted to the Bitcoin-Dev mailing list providing specifications for silent payments light clients and measuring performance of different ways to retrieve data from blocks... https://bitcoinops.org/en/newsletters/2026/09/11/#update-on-silent-payments-light-clients Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
+Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I’m curious where the sentiment is: - ​Timeline: Are you expecting the bottom in the next few months or dragging into next year? - ​Signals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - ​Playbook: DCA'ing now, or sitting on cash waiting for a deeper dump? ​Not asking for financial advice, just curious how everyone's positioning
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/09/11/) • 12h ago
-
----
-
-**[Bitcoin History Trivia 🧠 — how many can you get right ?](https://www.reddit.com/r/Bitcoin/comments/1wdiqjx/bitcoin_history_trivia_how_many_can_you_get_right/)**
-
-have fun with this one guys, answer a question then swipe to view the answer on the next slide don't forget to post your score in the comments. if you got the last one right you are a true bitcoin OG
-
-12h ago
-
----
-
-**[Bitcoin Entropy Tools - Offline dice key generation, coin flips, and more wallet tools.](https://www.reddit.com/r/Bitcoin/comments/1wdh0y5/bitcoin_entropy_tools_offline_dice_key_generation/)**
-
-A 100% offline, client-side Bitcoin address and private key generator utilizing physical entropy. - hybridsole/bitcoin-entropy-tools
-
-🔗 [GitHub](https://github.com/hybridsole/bitcoin-entropy-tools) • 13h ago
+3h ago
 
 ---
 
@@ -159,7 +157,7 @@ A 100% offline, client-side Bitcoin address and private key generator utilizing 
 
 Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
 
-CNBC • 10h ago
+CNBC • 15h ago
 
 ---
 
@@ -167,27 +165,27 @@ CNBC • 10h ago
 
 Investor Anthony Pompliano says Donald Trump’s proposed $5,000 stimulus checks could push Bitcoin, gold, and land prices higher, echoing crypto’s rally after past stimulus rounds.
 
-Yahoo Finance • 8h ago
-
----
-
-**[5 Best Crypto Casinos 2026 – Trusted Bitcoin Sites with Fast, Secure & Provably Fair](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-sites-with-fast-secure-provably-fair/20260911073000/)**
-
-Best Crypto & Bitcoin Casinos For September 2026 Casinos Welcome Bonus Expert Ratings 1️⃣JACK.com 100 No-Wagering Free Spins ⭐ 4.9/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BetWhale 250% up to $2,500 ⭐ 4.7/5 5️⃣ BitStarz 300% up to 5...
-
-Muddy River Sports • 14h ago
-
----
-
-**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
-
-Reuters • 12h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 23h ago
+
+---
+
+**[Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook](https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287)**
+
+Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.
+
+The Block • 14h ago
+
+---
+
+**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
+
+Reuters • 16h ago
 
 ---
 
@@ -195,37 +193,39 @@ Bloomberg.com • 18h ago
 
 Ether jumped as much as 8.3% on Friday as more than $255 million in bearish bets on the token were wiped out in 24 hours
 
-qz.com • 10h ago
+qz.com • 14h ago
 
 ---
 
-**[Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes](https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70)**
+**[5 Best Crypto Casinos 2026 – Trusted Bitcoin Sites with Fast, Secure & Provably Fair](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-sites-with-fast-secure-provably-fair/20260911073000/)**
 
-coindesk.com • 9h ago
+Best Crypto & Bitcoin Casinos For September 2026 Casinos Welcome Bonus Expert Ratings 1️⃣JACK.com 100 No-Wagering Free Spins ⭐ 4.9/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BetWhale 250% up to $2,500 ⭐ 4.7/5 5️⃣ BitStarz 300% up to 5...
 
----
-
-**[Bitcoin Price Spikes, Shrugs Off Hot US Inflation Data](https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data)**
-
-The price of bitcoin is up, despite the fact that an interest rate hike could be just around the corner.
-
-bitcoinmagazine.com • 11h ago
+muddyriversports.com • 19h ago
 
 ---
 
-**[Bitcoin and Gold Prices Crash As Core CPI Runs Hot](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-prices-crash-core-123326049.html)**
+**[Coinbase CEO sees Bitcoin at $400,000, but first it has to clear $81,000](https://cryptoslate.com/coinbase-ceo-sees-bitcoin-at-400000-but-first-it-has-to-clear-81000/)**
 
-August core CPI rose 0.3% against a 0.2% forecast, sending Bitcoin and gold into a flash crash before both rebounded.
+Coinbase’s CEO expects a new upcycle and sees $400,000 by 2030, while Bitcoin remains below its 50-week moving average.
 
-Yahoo Finance • 14h ago
+CryptoSlate • 10h ago
 
 ---
 
-**['Return the bitcoin': Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)**
+**[Crypto News: New Crypto Pepeto Announces Exchange Final Testing While Bitcoin Price Prediction Targets $1.5 Million](https://markets.businessinsider.com/news/stocks/crypto-news-new-crypto-pepeto-announces-exchange-final-testing-while-bitcoin-price-prediction-targets-1-5-million-1036540088)**
 
-Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.
+Dubai, UAE, Sept.  11, 2026  (GLOBE NEWSWIRE) -- Pepeto just delivered the update its presale buyers have been waiting for: the bridge that connec...
 
-The Block • 16h ago
+markets.businessinsider.com • 14h ago
+
+---
+
+**[Man pleads guilty to orchestrating $240 million bitcoin theft](https://www.wafb.com/video/2026/09/11/man-pleads-guilty-orchestrating-240-million-bitcoin-theft/)**
+
+The man’s purchases included a $2 million watch and more than 30 cars, according to the FBI. (ASSOCIATED PRESS, AP Photo/Jon Elswick)
+
+WAFB • 21h ago
 
 ---
 
@@ -293,7 +293,7 @@ Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins
 
 analyses a descriptor.
 
-⬆️ 1 • 💬 0 • 2d ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+⬆️ 1 • 💬 0 • 3d ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -313,7 +313,17 @@ Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Tr
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 1K • 💬 93 • ⏱️ 11:37 • 5h ago
+👁️ 35K • 👍 1K • 💬 132 • ⏱️ 11:37 • 10h ago
+
+---
+
+**[Why the Dollar Doesn&#39;t Have to Break for Bitcoin to Win](https://www.youtube.com/watch?v=9AYHbFhyh3I)**
+
+There are three ways Bitcoin could go hyperbolic, and only one of them requires the dollar to break. Cory Klippsten makes the ...
+
+📺 Swan Bitcoin
+
+👁️ 14K • 👍 407 • 💬 52 • ⏱️ 12:44 • 12h ago
 
 ---
 
@@ -323,27 +333,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 778 • 💬 145 • ⏱️ 48:14 • 12h ago
-
----
-
-**[Bitcoin Just Did This At Every Bear Market Low. The Test Is ON! (DO NOT Be Distracted)](https://www.youtube.com/watch?v=cVeKJTzftbg)**
-
-Bitcoin rejected at the 50-week around $80K. Not a bull trap. Normal structure forming on the way out of a bear market. Previous ...
-
-📺 Crypto Capital Venture
-
-👁️ 19K • 👍 546 • 💬 153 • ⏱️ 11:55 • 1d ago
-
----
-
-**[Why Trump’s $5K Check Is Generational Wealth With Bitcoin!](https://www.youtube.com/watch?v=gb3Vzz7vezA)**
-
-Trump is floating a $5000 check for Americans while Bitcoin trades below $80000 and the U.S. debt continues climbing. The last ...
-
-📺 Simply Bitcoin
-
-👁️ 9K • 👍 703 • 💬 128 • ⏱️ 12:15 • 6h ago
+👁️ 29K • 👍 796 • 💬 144 • ⏱️ 48:14 • 16h ago
 
 ---
 
@@ -353,27 +343,17 @@ Bitcoin is holding strong while global markets buckle under macro pressure. In t
 
 📺 Crypto Banter
 
-👁️ 36K • 👍 1K • 💬 39 • ⏱️ 29:08 • 13h ago
+👁️ 39K • 👍 1K • 💬 41 • ⏱️ 29:08 • 17h ago
 
 ---
 
-**[🚨Bitcoin REJECTS AGAIN: 3 Reasons Why a Big Move is Next!](https://www.youtube.com/watch?v=mvNw-AXguyQ)**
+**[Bitcoin: Is the Next Big Move Starting Now? (BTC Price Analysis Today)](https://www.youtube.com/watch?v=AGHAaYC1DGc)**
 
-Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
+Are we on the verge of a major crypto shift? In this bitcoin price analysis today, we break down the latest charts, historical cycle ...
 
-📺 Frankie Candles 
+📺 Crypto Nitro
 
-👁️ 4K • 👍 289 • 💬 37 • ⏱️ 1:27:25 • 3h ago
-
----
-
-**[The BRUTAL Truth About Crypto No One Tells You](https://www.youtube.com/watch?v=fr1_eJTjf7Y)**
-
-Michael Saylor, whose company holds 847000 Bitcoin, more than anyone on earth except its anonymous creator, addresses the ...
-
-📺 The Diary Of A CEO Clips
-
-👁️ 243K • 👍 3K • 💬 482 • ⏱️ 14:07 • 1d ago
+👁️ 5K • 💬 1 • ⏱️ 1:02 • 2h ago
 
 ---
 
@@ -383,27 +363,47 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 69K • 👍 3K • 💬 213 • ⏱️ 30:29 • 1d ago
+👁️ 71K • 👍 3K • 💬 216 • ⏱️ 30:29 • 1d ago
 
 ---
 
-**[Bessent: “I Am the House Now” | Could Bitcoin Hit $840K as Trust in the System Breaks?](https://www.youtube.com/watch?v=ZdSb3rL9y_A)**
+**[Bitcoin: Bull Case Vs. Bear Case](https://www.youtube.com/watch?v=v-36sjL7KSs)**
 
-Treasury Secretary Scott Bessent just dared traders to bet against the yen, calling himself "the house" with "asymmetric ...
+Let's talk about the Bitcoin bull case vs. the bear case! 0:00 - INTRO bull case vs bear case 2:52 Setting up the indicator tally 3:29 ...
+
+📺 Benjamin Cowen
+
+👁️ 229K • 👍 7K • 💬 474 • ⏱️ 1:18:30 • 2d ago
+
+---
+
+**[Is Bitcoin on the Verge of Its Biggest Bull Run?](https://www.youtube.com/watch?v=LrRtSdsWC0c)**
+
+Ran Neuner, Founder of Crypto Banter, joins Coindesk's Jennifer Sanasie on Markets Outlook with charts in hand to explain why ...
+
+📺 CoinDesk
+
+👁️ 16K • 👍 257 • 💬 24 • ⏱️ 22:55 • 1d ago
+
+---
+
+**[Why Trump’s $5K Check Is Generational Wealth With Bitcoin!](https://www.youtube.com/watch?v=gb3Vzz7vezA)**
+
+Trump is floating a $5000 check for Americans while Bitcoin trades below $80000 and the U.S. debt continues climbing. The last ...
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 106 • ⏱️ 17:22 • 2d ago
+👁️ 18K • 👍 851 • 💬 165 • ⏱️ 12:15 • 11h ago
 
 ---
 
-**[$400K Bitcoin TRIGGER - Coinbase CEO Just Named The Number](https://www.youtube.com/watch?v=ol-FXXDZ1so)**
+**[Bitcoin&#39;s Mythical Supercycle Is Finally Starting](https://www.youtube.com/watch?v=KBWfKENxs1U)**
 
-Coinbase CEO Brian Armstrong says the Bitcoin bottom is already in and $400000 BTC by 2030 is a reasonable target.
+When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator with 5 of the top Bitcoin forecast models built in ...
 
-📺 Bitcoin News Alerts
+📺 Mark Moss
 
-👁️ 7K • 👍 260 • 💬 104 • ⏱️ 17:01 • 1d ago
+👁️ 106K • 👍 2K • 💬 392 • ⏱️ 45:54 • 1d ago
 
 ---
 
