@@ -2,6 +2,28 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "Lambos are temporary, the dip is forever.",
+      "author": "degen_to_sensei",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/",
+      "published": 1789213665.0,
+      "thumbnail": "https://preview.redd.it/v8usqwzpu2ph1.jpeg?width=640&crop=smart&auto=webp&s=0e4930de67fb2071880d85e7f6bf52bd25f77063",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Bears don\u2019t stand a chance",
+      "author": "TerribleBluebird09",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1we6azq/bears_dont_stand_a_chance/",
+      "published": 1789199355.0,
+      "thumbnail": "https://external-preview.redd.it/bG04aHhubTlvMXBoMWbMkykGbdxiDpEfFMBQom-DmqZYZ-XXuVLOPhU9TGKO.jpeg?width=640&crop=smart&auto=webp&s=127fd9ae53e434e518f95ef427bb1aff6cf6a511",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Here is who you are trading against",
       "author": "nag1bator1",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wd9t6i/here_is_who_you_are_trading_against/",
@@ -11,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Bitcoin ATM",
+      "author": "Stinklefresh",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdzpp0/bitcoin_atm/",
+      "published": 1789178748.0,
+      "thumbnail": "https://preview.redd.it/mw973c50zzoh1.jpeg?width=640&crop=smart&auto=webp&s=ac08290da4c90f44b450bac604e1c4c5e9f8dd6c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How do these work? Have you ever tried using one?"
     },
     {
       "title": "Sweet heavens folks, we\u2019re spiking !",
@@ -35,15 +68,26 @@
       "description": null
     },
     {
-      "title": "Bitcoin ATM",
-      "author": "Stinklefresh",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdzpp0/bitcoin_atm/",
-      "published": 1789178748.0,
-      "thumbnail": "https://preview.redd.it/mw973c50zzoh1.jpeg?width=640&crop=smart&auto=webp&s=ac08290da4c90f44b450bac604e1c4c5e9f8dd6c",
+      "title": "So I made a seed phrase generator the only way I knew how...",
+      "author": "Captain_Chapster",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1we1159/so_i_made_a_seed_phrase_generator_the_only_way_i/",
+      "published": 1789182567.0,
+      "thumbnail": "https://external-preview.redd.it/oDgGiTFLVxxZLIqnFli-9IczJAXHy3PceI_Fk7tBYuM.png?width=140&height=70&auto=webp&s=45cbcb53504594e85dfed9805a17b9b253e3c663",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How do these work? Have you ever tried using one?"
+      "description": "With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus"
+    },
+    {
+      "title": "When do we think the actual BTC bottom is coming? What\u2019s your playbook?",
+      "author": "Ok_Application6123",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1we34se/when_do_we_think_the_actual_btc_bottom_is_coming/",
+      "published": 1789188971.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I\u2019m curious where the sentiment is: - \u200bTimeline: Are you expecting the bottom in the next few months or dragging into next year? - \u200bSignals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - \u200bPlaybook: DCA'ing now, or sitting on cash waiting for a deeper dump? \u200bNot asking for financial advice, just curious how everyone's positioning"
     },
     {
       "title": "BTC wiping out the bears again",
@@ -57,60 +101,16 @@
       "description": null
     },
     {
-      "title": "The importance of BTC milestones",
-      "author": "andysime1",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdt1u3/the_importance_of_btc_milestones/",
-      "published": 1789161364.0,
+      "title": "Daily Discussion, September 12, 2026",
+      "author": "rBitcoinMod",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1we5ghi/daily_discussion_september_12_2026/",
+      "published": 1789196446.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "As someone who has reshuffled and gone BTC only. What is the importance of 0.1 btc 0.25 btc 0.5 btc 1btc In 10 or even 20 years how valuable will this be and currently what % of holders has hit these milestones"
-    },
-    {
-      "title": "So I made a seed phrase generator the only way I knew how...",
-      "author": "Captain_Chapster",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we1159/so_i_made_a_seed_phrase_generator_the_only_way_i/",
-      "published": 1789182567.0,
-      "thumbnail": "https://external-preview.redd.it/oDgGiTFLVxxZLIqnFli-9IczJAXHy3PceI_Fk7tBYuM.png?width=140&height=70&auto=webp&s=45cbcb53504594e85dfed9805a17b9b253e3c663",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus"
-    },
-    {
-      "title": "Are we rebuilding the middlemen Bitcoin was meant to remove?",
-      "author": "fevi1",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdvhsj/are_we_rebuilding_the_middlemen_bitcoin_was_meant/",
-      "published": 1789167340.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Bitcoin was created around the idea of allowing people to transact directly, without relying on trusted third parties. But today, exchanges, custodians, payment companies, and ETFs sit between many people and their Bitcoin. They\u2019re useful and clearly helping with adoption. But I wonder if, in making Bitcoin easier to use, we\u2019re also rebuilding some of the intermediary system that Bitcoin was trying to move away from. Maybe that\u2019s not necessarily a contradiction. Bitcoin still gives people the choice: use an intermediary for convenience, or hold and transact directly through self-custody. That tension is what I find interesting."
-    },
-    {
-      "title": "Trezor hackers sent phishing emails from Trezor's actual domain",
-      "author": "PreferenceOk2716",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdiqzk/trezor_hackers_sent_phishing_emails_from_trezors/",
-      "published": 1789138917.0,
-      "thumbnail": "https://external-preview.redd.it/BuPyIj66VJStO43LPoE80ieMXCaQUc-ElitFO9hIUsA.jpeg?width=640&crop=smart&auto=webp&s=fbffebb84aaf154c0f684c2bcf49e408addb628d",
-      "external_url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "site_name": "BleepingComputer",
-      "favicon": "https://www.bleepstatic.com/icons/apple-touch-icon.png",
-      "description": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks."
-    },
-    {
-      "title": "When do we think the actual BTC bottom is coming? What\u2019s your playbook?",
-      "author": "Ok_Application6123",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we34se/when_do_we_think_the_actual_btc_bottom_is_coming/",
-      "published": 1789188971.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I\u2019m curious where the sentiment is: - \u200bTimeline: Are you expecting the bottom in the next few months or dragging into next year? - \u200bSignals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - \u200bPlaybook: DCA'ing now, or sitting on cash waiting for a deeper dump? \u200bNot asking for financial advice, just curious how everyone's positioning"
+      "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
     }
   ],
-  "fetched_at": "2026-09-12T08:06:01.779698+00:00"
+  "fetched_at": "2026-09-12T12:18:01.633077+00:00"
 }
