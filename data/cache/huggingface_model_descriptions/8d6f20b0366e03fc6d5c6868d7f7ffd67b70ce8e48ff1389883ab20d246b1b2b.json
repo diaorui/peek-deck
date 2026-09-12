@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-12T18:09:43.138090+00:00",
+  "data": "Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in under 3 GiB of active memory at 15 tok/s using SSD offload and prerouting. It's ideal for on-device applications and batch serving where memory is constrained, maintaining quality with 4-bit quantization and LoRA adapters.",
+  "model_id": "Edge0/Edge0-35B-A3B-preview"
+}
