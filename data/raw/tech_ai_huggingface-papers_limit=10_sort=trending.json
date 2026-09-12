@@ -168,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 32297,
+      "github_stars": 32335,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 2659,
+      "github_stars": 2706,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-12T20:47:50.991486+00:00"
+  "fetched_at": "2026-09-12T22:52:01.794687+00:00"
 }

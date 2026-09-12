@@ -5,54 +5,24 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5",
-      "pub_date": 1789106560.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361576-1789092834048-aether_openai_astra_Screenshot_2026-09-11_101318.jpg?v=1789097527&w=1920&h=1080",
-      "description": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
+      "pub_date": 1789218001.0,
+      "article_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108208386-17597761832025-10-06t184130z_1342918111_rc2g6haq2z4o_rtrmadp_0_usa-economy.jpeg?v=1789155801&w=1920&h=1080",
+      "description": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders."
     },
     {
       "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
       "pub_date": 1789054202.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
-      "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-      "source_url": "https://thediplomat.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTV4Z3dSUklrdDlHd00yZWNpRVVwUlZGUm9sNUw1cjlPS3kzOTl5anVpaGpVeUJfakllQjh5YkR3V1BhZW9aUU9VYmFJYWhsYkNYeTJWTjh0cXdvVGJMT2xMU29wcWdaRi1WX1ZBQ1ZfZ180alJ1OURqYlZBV1c3NVFNTU1Xc2plUzNHZEZfSzFKcGNQbFBiX284bV85Wl82a0gzZV9B?oc=5",
-      "pub_date": 1789139369.0,
-      "article_url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
-      "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-11-234520.jpg",
-      "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
-    },
-    {
-      "headline": "Why do humans like to watch robots fall?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUE1a3VNOHlZYno2cTg2ZkNqZHV3dkJTSm9jMGdzYnFpM3M3QUliOTUzc1IyX0xQam1vZy01a3hsbnBMcFRlemxQaVRnUXlha3NOcmQyMnNKblBmOURkV2lpOWZ6QVRKN3NmU2E0MHMyN3J4c05wOVZMTlY5aWtINGVZT0pkckFSaHB3SUh5T0ZHVEpNMjZrMm44WVBlX2pMTkZPdUxCWFEyRl9Oak1EdVZJNlJ4MmZI?oc=5",
-      "pub_date": 1789168081.0,
-      "article_url": "https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22977569-8001-251-thumb.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Robotics expert Changliu Liu explains."
-    },
-    {
-      "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
-      "pub_date": 1789049857.0,
-      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
-      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
     },
     {
       "headline": "Robots 'protest' outside Poland ministry demanding AI oversight",
@@ -75,14 +45,14 @@
       "description": null
     },
     {
-      "headline": "Robots Are Learning to Feel",
-      "source": "spectrum.ieee.org",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
-      "pub_date": 1789064710.0,
-      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
-      "description": "New tactile datasets could solve a longstanding challenge in robotics"
+      "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
+      "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+      "source_url": "https://thediplomat.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTV4Z3dSUklrdDlHd00yZWNpRVVwUlZGUm9sNUw1cjlPS3kzOTl5anVpaGpVeUJfakllQjh5YkR3V1BhZW9aUU9VYmFJYWhsYkNYeTJWTjh0cXdvVGJMT2xMU29wcWdaRi1WX1ZBQ1ZfZ180alJ1OURqYlZBV1c3NVFNTU1Xc2plUzNHZEZfSzFKcGNQbFBiX284bV85Wl82a0gzZV9B?oc=5",
+      "pub_date": 1789139369.0,
+      "article_url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
+      "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-11-234520.jpg",
+      "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
     },
     {
       "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -93,6 +63,36 @@
       "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
       "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+    },
+    {
+      "headline": "Why do humans like to watch robots fall?",
+      "source": "cnn.com",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVUE1a3VNOHlZYno2cTg2ZkNqZHV3dkJTSm9jMGdzYnFpM3M3QUliOTUzc1IyX0xQam1vZy01a3hsbnBMcFRlemxQaVRnUXlha3NOcmQyMnNKblBmOURkV2lpOWZ6QVRKN3NmU2E0MHMyN3J4c05wOVZMTlY5aWtINGVZT0pkckFSaHB3SUh5T0ZHVEpNMjZrMm44WVBlX2pMTkZPdUxCWFEyRl9Oak1EdVZJNlJ4MmZI?oc=5",
+      "pub_date": 1789168081.0,
+      "article_url": "https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22977569-8001-251-thumb.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Robotics expert Changliu Liu explains."
+    },
+    {
+      "headline": "Maven Robotics wants to steal your robot deployment deal",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
+      "pub_date": 1789049857.0,
+      "article_url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+      "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
+    },
+    {
+      "headline": "Robots Are Learning to Feel",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
+      "pub_date": 1789064710.0,
+      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+      "description": "New tactile datasets could solve a longstanding challenge in robotics"
     },
     {
       "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T20:48:03.725605+00:00"
+  "fetched_at": "2026-09-12T22:52:10.228160+00:00"
 }

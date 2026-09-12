@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T20:48:05.314016+00:00'
+updated: '2026-09-12T22:52:23.166193+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 20:48 UTC  
+**Last Updated:** September 12, 2026 at 22:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,52 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[Cubic Doggo: new friend Cubic Wouf! Just one leg at the moment though](https://www.reddit.com/r/robotics/comments/1weblv2/cubic_doggo_new_friend_cubic_wouf_just_one_leg_at/)**
+
+Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T originally). In principle, it's half the price, twice the torque, but the mount design is rather odd and required a complete CAD update (+ I already killed like 3 of them by accidentally drilling all the way to their control board, geez). The high torque also means high current, and so a potential hazard if multiple of them run at high load. Need to monitor it. If it's capable of jumping, it is likely also capable of catching fire while doing it. The firmware is also updated for ST-3215, but the commander uses the original unoptimized one-leg test code, which may explain the sluggishness in its "failed walk gait". I am a bit afraid that if the servos simply cannot move fast enough, even with optimal PID, then making it walk may be more difficult despite higher torque. Either way, if successful, the full DIY robot would be in the 300-400 euro range (still mostly from servos), ~3 kg, with twice the load performance; all the load after the body weight will be extra! Cubic Wouf GitHub: https://github.com/SphericalCowww/CubicDoggo_07B Cubic Doggo GitHub: https://github.com/SphericalCowww/CubicDoggo_06R
+
+10h ago
+
+---
+
+**[see and find](https://www.reddit.com/r/robotics/comments/1weeixz/see_and_find/)**
+
+8h ago
+
+---
+
+**[Really cool drone detection](https://www.reddit.com/r/robotics/comments/1wenlp8/really_cool_drone_detection/)**
+
+I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
+
+2h ago
+
+---
+
+**[We’re trying to make one soft hand useful for both robots and people](https://www.reddit.com/r/robotics/comments/1weio4z/were_trying_to_make_one_soft_hand_useful_for_both/)**
+
+Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue… a few things we’ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I’m curious about the small, awkward tasks that don’t usually make it into robot demos.
+
+5h ago
+
+---
+
+**[Does anyone have a published "nothing is attacking it" failure rate for their policy?](https://www.reddit.com/r/robotics/comments/1wegml3/does_anyone_have_a_published_nothing_is_attacking/)**
+
+I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic.
+
+6h ago
+
+---
+
+**[ROS and Open Source Robotics News for the Week of September 7th, 2026](https://www.reddit.com/r/robotics/comments/1wdqc8b/ros_and_open_source_robotics_news_for_the_week_of/)**
+
+Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
+
+1d ago
+
+---
 
 **[A Softer, Safer Hand for Home Robots](https://www.reddit.com/r/robotics/comments/1wdjmf5/a_softer_safer_hand_for_home_robots/)**
 
@@ -48,9 +94,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 ---
 
-**[ROS and Open Source Robotics News for the Week of September 7th, 2026](https://www.reddit.com/r/robotics/comments/1wdqc8b/ros_and_open_source_robotics_news_for_the_week_of/)**
-
-Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
+**[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
 1d ago
 
@@ -62,89 +106,21 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 ---
 
-**[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
-
-23h ago
-
----
-
-**[Utilizo un arduino para manejar cilindros hidráulicos.](https://www.reddit.com/r/robotics/comments/1wdousl/utilizo_un_arduino_para_manejar_cilindros/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/ieLTAmJKi6g?is=jz9KvLK4KJJaVee9) • 1d ago
-
----
-
-**[I built ROS for Android](https://www.reddit.com/r/robotics/comments/1wdhgq3/i_built_ros_for_android/)**
-
-I added ROS to my app #smartphone #tech #andriod #robot #robotics #autonomousvehicles
-
-🔗 [YouTube](https://www.youtube.com/shorts/aQ_2-2e3cTc) • 1d ago
-
----
-
-**[My DIY Microduck took its first steps today. Somehow, it felt alive.](https://www.reddit.com/r/robotics/comments/1wceqjg/my_diy_microduck_took_its_first_steps_today/)**
-
-Yesterday I posted the first assembled version of my Microduck, and a few people asked me to keep sharing updates. So, here’s today’s progress: it walks now. Kind of. The gait is still pretty rough and there’s a lot left to tune, but seeing all the servos finally work together and watching it take those first few steps was pretty exciting. And the little sound at the end got me way more than I expected. After spending all this time staring at servos, wires and printed parts, seeing it move and make a sound suddenly made it feel a little bit alive. This thing is honestly way more fun than I expected. Next goal: make it walk a little less like it’s drunk. I’ll keep posting as I make progress, including the stuff that doesn’t work. If anyone else is building a Microduck or another small biped, I’d love to compare notes.
-
-2d ago
-
----
-
-**[We're creating a bounty. First person who can stack a tower of 3 blocks and place a ducky on top gets $100.](https://www.reddit.com/r/robotics/comments/1wd1oxw/were_creating_a_bounty_first_person_who_can_stack/)**
-
-1d ago
-
----
-
-**[SynROV: Multi-robot platform](https://www.reddit.com/r/robotics/comments/1wdc15w/synrov_multirobot_platform/)**
-
-https://preview.redd.it/damuq3cb8voh1.png?width=1402&format=png&auto=webp&s=7d9387417489e6bfe70c6de233daaeb97559cc98 GitHub repo: https://github.com/Spidoug/SynROV I’m sharing my project SynROV. SynROV is a modular control stack for seven robot classes: Manipulator, Vehicle, Drone, Boat, Submarine, Biped and Quadruped. This repository contains the complete Version 1 implementation. The project combines Leap Motion gesture tracking, an Arduino-controlled servo system, Processing-based 3D visualization, and a browser dashboard using WebSocket communication.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
+**[Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
 
-Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
+America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-CNBC • 1d ago
+CNBC • 9h ago
 
 ---
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Bloomberg.com • 2d ago
-
----
-
-**[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
-
-In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
-
-The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
-
----
-
-**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast)**
-
-Robotics expert Changliu Liu explains.
-
-CNN • 21h ago
-
----
-
-**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
-
-Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
-
-TechCrunch • 2d ago
+bloomberg.com • 2d ago
 
 ---
 
@@ -160,11 +136,11 @@ Breaking Defense • 2d ago
 
 ---
 
-**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+**[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
 
-New tactile datasets could solve a longstanding challenge in robotics
+In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
-spectrum.ieee.org • 2d ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
 
 ---
 
@@ -173,6 +149,30 @@ spectrum.ieee.org • 2d ago
 Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
 
 NVIDIA Blog • 2d ago
+
+---
+
+**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast)**
+
+Robotics expert Changliu Liu explains.
+
+cnn.com • 23h ago
+
+---
+
+**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
+
+Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
+
+TechCrunch • 2d ago
+
+---
+
+**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+
+New tactile datasets could solve a longstanding challenge in robotics
+
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -194,7 +194,17 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 934K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
+👁️ 955K • 👍 10K • 💬 2K • ⏱️ 5:02 • 3d ago
+
+---
+
+**[Robot carnage! NHRL Pro Tour Round 2 KO Show is LIVE from New York City | 10am EST](https://www.youtube.com/watch?v=3hy0IWst58s)**
+
+Professional Robot Fighting takes over NYC! The National Havoc Robot League is LIVE from Terminal 5 in New York City for ...
+
+📺 NHRL
+
+👁️ 23K • 👍 409 • 💬 2 • ⏱️ 8:05:42 • 22m ago
 
 ---
 
@@ -208,33 +218,33 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 ---
 
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 58K • 👍 245 • 💬 55 • ⏱️ 3:39 • 3d ago
+
+---
+
 **[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
 
 The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
 
 📺 States 2050
 
-👁️ 654K • 👍 10K • 💬 523 • ⏱️ 23:25 • 4d ago
+👁️ 656K • 👍 10K • 💬 524 • ⏱️ 23:25 • 4d ago
 
 ---
 
-**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
 
-We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
-📺 Milk Road Stocks
+📺 Blakwoodz
 
-👁️ 14K • 👍 226 • 💬 24 • ⏱️ 48:57 • 5d ago
-
----
-
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
-
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
-
-📺 XPENG
-
-👁️ 375K • 👍 3K • 💬 320 • ⏱️ 5:52 • 3d ago
+👁️ 49K • 👍 1K • 💬 452 • ⏱️ 13:22 • 1d ago
 
 ---
 
@@ -244,17 +254,27 @@ Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speak
 
 📺 Sky News
 
-👁️ 34K • 👍 192 • 💬 144 • ⏱️ 6:28 • 4d ago
+👁️ 34K • 👍 195 • 💬 144 • ⏱️ 6:28 • 4d ago
 
 ---
 
-**[He DESTROYED The Self-Aware Robot😳](https://www.youtube.com/watch?v=YaAq8gDay0w)**
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
-Original video: https://www.youtube.com/watch?v=Xd2E7_JAZZQ Watch videos on spotify: ...
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
-📺 RICHLEV
+📺 XPENG
 
-👁️ 522K • 👍 10K • 💬 2K • ⏱️ 38:26 • 4d ago
+👁️ 383K • 👍 3K • 💬 322 • ⏱️ 5:52 • 3d ago
+
+---
+
+**[Unboxing Humanoid Robot 🤖](https://www.youtube.com/watch?v=RyvzZ1iph6I)**
+
+Unitree R1 humanoid Robot.
+
+📺 İncelemedeyim
+
+👁️ 174K • 👍 2K • 💬 99 • ⏱️ 0:59 • 6d ago
 
 ---
 
@@ -265,26 +285,6 @@ PART 4: I built a new self-aware robot named R.R.E.B.L.E. that is designed to de
 📺 LIGHTS ARE OFF
 
 👁️ 6.4M • 👍 103K • 💬 13K • ⏱️ 25:44 • 6d ago
-
----
-
-**[We Spoke With Dyson About Its All-New 2026 Robot Lineup](https://www.youtube.com/watch?v=sgVTPmCE63w)**
-
-Our Top 20 Robot Vacuums at the Vacuum Wars website: https://vacuumwars.com/vacuum-wars-best-robot-vacuums/ Best ...
-
-📺 Vacuum Wars
-
-👁️ 26K • 👍 401 • 💬 77 • ⏱️ 9:10 • 1d ago
-
----
-
-**[The REAL Reason the Self-Aware Robot Wanted Human Skin | ELBERR The Self-Aware](https://www.youtube.com/watch?v=P58Wjcpx3kA)**
-
-Elberr threatens to wear his creator's skin then decides human flesh is inferior. This breakdown of LIGHTS ARE OFF's Self-Aware ...
-
-📺 GrislyDeshaun
-
-👁️ 65K • 👍 974 • 💬 74 • ⏱️ 23:50 • 2d ago
 
 ---
 
