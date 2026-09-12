@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-12T18:09:43.828464+00:00'
+updated: '2026-09-12T20:48:05.310799+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 18:09 UTC  
+**Last Updated:** September 12, 2026 at 20:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +0.5%  
-**30d:** +34.2%  
-**90d:** +40.6%  
-**1y:** -45.6%  
+**24h:** +0.3%  
+**7d:** +0.3%  
+**30d:** +34.0%  
+**90d:** +40.4%  
+**1y:** -45.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $308.18B
+**Market Cap:** $307.77B
 Rank #2
 
 **Circulating Supply:** 122,041,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.9%
+-49.0%
 
 **All-Time Low:** $0.43
-+583143.1%
++582196.1%
 
 ---
 
@@ -150,11 +150,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher](https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/)**
+**[Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%](https://247wallst.com/investing/2026/09/11/bitmine-surges-8-on-ethereum-strength-after-cantor-fitzgerald-doubles-its-target-sharplink-advances-9-strategy-gains-4/)**
 
-We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict.
+Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
 
-24/7 Wall St. • 20h ago
+24/7 Wall St. • 1d ago
+
+---
+
+**[Ethereum staking fees vary widely, with providers taking 0-50% of rewards, impacting net yields significantly.](https://pluang.com/en/news-feed/biaya-staking-ethereum-perbandingan-14-penyedia)**
+
+A survey of 14 Ethereum staking providers accessible in Germany reveals that only five clearly state their commission fees, which range from 0% to 50% depending on the reward component. The network's annual percentage rate (APR) was 2.46% on September 12, 2026, meaning commissions can significantly reduce investors' net returns. Providers often split fees between consensus layer rewards and execution layer tips (MEV), making comparisons complex. Many popular custodians like Kraken and Bitpanda do not disclose exact fees upfront, complicating transparency. Investors should verify commission rates in writing, consider waiting times in the staking queue, and understand tax implications before staking Ethereum.
+
+Pluang • 1h ago
+
+---
+
+**[Ethereum's Glamsterdam upgrade faces bugs, dela...](https://pluang.com/en/news-feed/ethereum-bug-mengancam-jadwal-glamsterdam)**
+
+Ethereum aims to activate the Glamsterdam upgrade on the Sepolia testnet by October 6, but unresolved bugs and network finalization issues on the devnet-9 with 1,000 validators have made this date uncertain. A critical bug related to EIP-8037 requires execution layer client updates, causing further delays. Developers are now focusing on a new devnet-11 test before confirming the timeline. The mainnet deployment remains targeted for Q4 2026 without a fixed date, as the upgrade involves significant changes to Ethereum's block building and verification processes.
+
+Pluang • 3h ago
+
+---
+
+**[Ethereum eyes major breakout, targeting $15,000 after retesting key resistance zone.](https://pluang.com/en/news-feed/ethereum-menguji-zona-resistensi-multi-tahun-dengan-potensi-breakout-target)**
+
+Ethereum is potentially setting up for a major breakout as it retests a multi-year resistance zone for the third time, following a period of strong accumulation support. Analysts note this pattern resembles Ethereum's 2020 setup before it surged to nearly $5,000. Fundstrat's Tom Lee highlights Ethereum's role as a future settlement platform for Wall Street and AI, predicting increased investor interest and a rally. Another analyst suggests a minor correction below $2,500 could precede a rise to $2,800, indicating potential short-term volatility before a continued upward trend.
+
+Pluang • 3h ago
 
 ---
 
@@ -166,6 +190,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day](https://www.tradingview.com/news/cryptobriefing:30416ef3b094b:0-bitcoin-etfs-see-13m-outflows-while-ethereum-etfs-pull-in-216m-in-a-single-day/)**
+
+The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th…
+
+TradingView • 16h ago
+
+---
+
 **[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
@@ -174,17 +206,9 @@ Fortune • 3d ago
 
 ---
 
-**[Bitcoin ETFs see $13M outflows while Ethereum ETFs pull in $216M in a single day](https://www.tradingview.com/news/cryptobriefing:30416ef3b094b:0-bitcoin-etfs-see-13m-outflows-while-ethereum-etfs-pull-in-216m-in-a-single-day/)**
+**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
 
-The crypto ETF market delivered a split verdict on September 11. Bitcoin funds bled $13.29 million in net outflows on the day, while Ethereum ETFs absorbed $216 million in fresh capital.The $13.29 million Bitcoin ETF outflow figure comes from SoSoValue's tracker, but context matters here. In the th…
-
-TradingView • 13h ago
-
----
-
-**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
-
-CoinDesk • 3d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -192,7 +216,7 @@ CoinDesk • 3d ago
 
 DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
 
-markets.businessinsider.com • 10h ago
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -200,29 +224,7 @@ markets.businessinsider.com • 10h ago
 
 Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
 
-blockchain.news • 40m ago
-
----
-
-**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
-
-A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
-
-cryptoslate.com • 1d ago
-
----
-
-**[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
-
-MarketWatch • 1d ago
-
----
-
-**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/)**
-
-Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
-
-The Motley Fool • 1d ago
+blockchain.news • 3h ago
 
 ---
 
@@ -230,13 +232,23 @@ The Motley Fool • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[ETHEREUM… WTF IS WRONG WITH TOM LEE???](https://www.youtube.com/watch?v=Zq8szZ642wI)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 14K • 👍 458 • 💬 55 • ⏱️ 7:35 • 8h ago
+
+---
+
 **[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
 
 John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
 
 📺 The Rollup
 
-👁️ 18K • 👍 389 • 💬 130 • ⏱️ 22:54 • 16h ago
+👁️ 22K • 👍 410 • 💬 128 • ⏱️ 22:54 • 19h ago
 
 ---
 
@@ -246,17 +258,7 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 23K • 👍 653 • 💬 490 • ⏱️ 17:30 • 1d ago
-
----
-
-**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
-
-Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
-
-📺 Paul Barron Network
-
-👁️ 36K • 👍 881 • 💬 50 • ⏱️ 11:43 • 23h ago
+👁️ 23K • 👍 657 • 💬 485 • ⏱️ 17:30 • 1d ago
 
 ---
 
@@ -266,7 +268,47 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 70 • 💬 14 • ⏱️ 9:47 • 1d ago
+👁️ 5K • 👍 73 • 💬 14 • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
+
+Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
+
+📺 Paul Barron Network
+
+👁️ 37K • 👍 899 • 💬 50 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
+
+One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
+
+📺 The Modern Investor
+
+👁️ 13K • 👍 865 • 💬 389 • ⏱️ 31:34 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+
+Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 386 • 💬 53 • ⏱️ 1:04:53 • 1d ago
+
+---
+
+**[🟢 They Hate Ethereum STRENGTH 🧃](https://www.youtube.com/watch?v=CJNuxaVi4Qo)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 3K • 👍 180 • 💬 24 • ⏱️ 24:58 • 22h ago
 
 ---
 
@@ -280,53 +322,13 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
-
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
-
-📺 Discover Crypto
-
-👁️ 11K • 👍 385 • 💬 53 • ⏱️ 1:04:53 • 1d ago
-
----
-
 **[BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vrOZjn2ekqw)**
 
 BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 13K • 👍 359 • 💬 175 • ⏱️ 22:03 • 16h ago
-
----
-
-**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
-
-One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
-
-📺 The Modern Investor
-
-👁️ 13K • 👍 860 • 💬 392 • ⏱️ 31:34 • 1d ago
-
----
-
-**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
-
-ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
-
-📺 D.I.Y Investing
-
-👁️ 5K • 👍 146 • 💬 28 • ⏱️ 15:04 • 23h ago
-
----
-
-**[🟢 They Hate Ethereum STRENGTH 🧃](https://www.youtube.com/watch?v=CJNuxaVi4Qo)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 177 • 💬 24 • ⏱️ 24:58 • 19h ago
+👁️ 14K • 👍 371 • 💬 351 • ⏱️ 22:03 • 18h ago
 
 ---
 

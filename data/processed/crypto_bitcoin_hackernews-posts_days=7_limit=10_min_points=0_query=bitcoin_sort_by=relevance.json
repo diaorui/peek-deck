@@ -75,6 +75,20 @@
       "site_name": "theregister"
     },
     {
+      "title": "A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase",
+      "url": "https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase",
+      "hn_url": "https://news.ycombinator.com/item?id=49673026",
+      "author": "geox",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-09-12T15:03:26Z",
+      "object_id": "49673026",
+      "image": "https://www.gadgetreview.com/wp-content/uploads/Stonkfly.jpg",
+      "description": "Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.",
+      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-Favicon-1-240x240.png",
+      "site_name": "Gadget Review"
+    },
+    {
       "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
       "url": "https://beincrypto.com/revolut-data-breach-fake-government-request/",
       "hn_url": "https://news.ycombinator.com/item?id=49670849",
@@ -101,20 +115,6 @@
       "description": "Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1741255/apple-touch-icon.png",
       "site_name": "Tom's Hardware"
-    },
-    {
-      "title": "A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase",
-      "url": "https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase",
-      "hn_url": "https://news.ycombinator.com/item?id=49673026",
-      "author": "geox",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-09-12T15:03:26Z",
-      "object_id": "49673026",
-      "image": "https://www.gadgetreview.com/wp-content/uploads/Stonkfly.jpg",
-      "description": "Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.",
-      "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-Favicon-1-240x240.png",
-      "site_name": "Gadget Review"
     },
     {
       "title": "The Liquid Network (Bitcoin sidechain) is stuck at block 4050335",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 13,
+  "total_hits": 14,
   "has_metadata": true,
-  "fetched_at": "2026-09-12T18:09:21.992236+00:00"
+  "fetched_at": "2026-09-12T20:47:41.460641+00:00"
 }

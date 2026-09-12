@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4799,
+      "stars": 4809,
       "stars_display": "4.8k",
-      "forks": 600,
-      "forks_display": "600",
+      "forks": 601,
+      "forks_display": "601",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-12T18:02:44Z"
+      "updated_at": "2026-09-12T20:46:50Z"
     },
     {
       "full_name": "EvoMap/AutoResearch",
@@ -30,10 +30,10 @@
       "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
       "url": "https://github.com/EvoMap/AutoResearch",
       "preview_image": "https://opengraph.githubassets.com/ac6ceee0e9643c40cea29336a7d0fe5470948b4609fc958e6535b4aee7a7aed4/EvoMap/AutoResearch",
-      "stars": 4096,
+      "stars": 4127,
       "stars_display": "4.1k",
-      "forks": 268,
-      "forks_display": "268",
+      "forks": 271,
+      "forks_display": "271",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-09-10T08:34:26Z"
@@ -106,7 +106,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2375,
+      "stars": 2377,
       "stars_display": "2.4k",
       "forks": 93,
       "forks_display": "93",
@@ -144,10 +144,10 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1821,
+      "stars": 1827,
       "stars_display": "1.8k",
-      "forks": 183,
-      "forks_display": "183",
+      "forks": 184,
+      "forks_display": "184",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-25T21:49:59Z"
@@ -160,10 +160,10 @@
       "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
       "url": "https://github.com/xzf-thu/VoiceMem",
       "preview_image": "https://opengraph.githubassets.com/2c9f33948506498cc46a642f0c9ffacc8c2b90a47012abccab6c98a8e0252588/xzf-thu/VoiceMem",
-      "stars": 1431,
+      "stars": 1434,
       "stars_display": "1.4k",
-      "forks": 105,
-      "forks_display": "105",
+      "forks": 106,
+      "forks_display": "106",
       "language": "Python",
       "topics": [
         "ai",
@@ -182,10 +182,10 @@
       "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
       "url": "https://github.com/jeremy-prt/bloub",
       "preview_image": "https://repository-images.githubusercontent.com/1335104760/d032a25d-ee20-400b-aa73-536ef27d8ea6",
-      "stars": 1414,
+      "stars": 1417,
       "stars_display": "1.4k",
-      "forks": 180,
-      "forks_display": "180",
+      "forks": 182,
+      "forks_display": "182",
       "language": "TypeScript",
       "topics": [
         "animation",
@@ -201,6 +201,6 @@
   "search_query": "ai created:>2026-08-13",
   "days": 30,
   "limit": 10,
-  "total_count": 458944,
-  "fetched_at": "2026-09-12T18:09:20.719243+00:00"
+  "total_count": 460439,
+  "fetched_at": "2026-09-12T20:47:40.040260+00:00"
 }
