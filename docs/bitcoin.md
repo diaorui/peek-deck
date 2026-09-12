@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-11T23:54:51.268331+00:00'
+updated: '2026-09-12T03:28:15.771939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 11, 2026 at 23:54 UTC  
+**Last Updated:** September 12, 2026 at 03:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,108.00
+### $77,360.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -3.3%  
-**30d:** +21.6%  
-**90d:** +17.4%  
-**1y:** -33.6%  
+**24h:** +0.2%  
+**7d:** -3.8%  
+**30d:** +22.5%  
+**90d:** +16.5%  
+**1y:** -33.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.63B
+**Market Cap:** $1551.23B
 Rank #1
 
 **Circulating Supply:** 20,083,009 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.7%
 
 **All-Time Low:** $67.81
-+113691.5%
++113799.1%
 
 ---
 
 ## Fear & Greed Index
 
-### 56
+### 63
 **GREED**
 
 ---
@@ -79,19 +79,19 @@ Rank #1
 
 **[Sweet heavens folks, we’re spiking !](https://www.reddit.com/r/Bitcoin/comments/1wdhc8h/sweet_heavens_folks_were_spiking/)**
 
-9h ago
+13h ago
 
 ---
 
 **[Here is who you are trading against](https://www.reddit.com/r/Bitcoin/comments/1wd9t6i/here_is_who_you_are_trading_against/)**
 
-15h ago
+19h ago
 
 ---
 
 **[BTC wiping out the bears again](https://www.reddit.com/r/Bitcoin/comments/1wdi11d/btc_wiping_out_the_bears_again/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin only
 
 Canada's Office of the Superintendent of Financial Institutions (OSFI) has confirmed that tokenized deposits carry the same legal status as traditional bank deposits, clearing a regulatory path for federally regulated financial institutions to build blockchain-based deposit products in 2026. The clarification, issued in 2026, resolves a foundational legal question that had been holding back Canadian banks from developing on-chain deposit offerings. By treating tokenized deposits as functionally equivalent to conventional deposits, OSFI has signaled that federally regulated financial institutions can proceed with blockchain-based deposit products without needing a separate legal classification or bespoke regulatory regime. The move positions Canada among the first major jurisdictions to explicitly address the legal treatment of tokenized deposits, a category distinct from stablecoins in that tokenized deposits represent claims on a regulated bank rather than on a private issuer.
 
-🔗 [OneBullEx](https://www.onebullex.com/news/articles/osfi-clears-canadian-banks-to-launch-blockchain-deposit-products-in-2026) • 8h ago
+🔗 [OneBullEx](https://www.onebullex.com/news/articles/osfi-clears-canadian-banks-to-launch-blockchain-deposit-products-in-2026) • 11h ago
 
 ---
 
@@ -115,7 +115,7 @@ Canada's Office of the Superintendent of Financial Institutions (OSFI) has confi
 
 I just achieved my first milestole 1/100 of btc. Moments later i see a micro double top has formed. So anyways right after i bought it seems like we are headed lower. Good. Gonna dca more for cheaper.
 
-18h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ I just achieved my first milestole 1/100 of btc. Moments later i see a micro dou
 
 Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks.
 
-🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/) • 8h ago
+🔗 [BleepingComputer](https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/) • 12h ago
 
 ---
 
@@ -131,7 +131,7 @@ Trezor warned customers on Wednesday that threat actors who breached its third-p
 
 Bitcoin Optech newsletter #422 is here: describes a proposed protocol for probabilistic coinjoins disguised as covert bets summarizes benchmarks of a silent payments indexing server against compact block filters for light clients Optech Newsletter #422 Podcast https://bitcoinops.org/en/newsletters/2026/09/11/ Adam Gibson posted to Delving Bitcoin about Babilonia, a proposal for a new probabilistic coinjoin and covert betting protocol... https://bitcoinops.org/en/newsletters/2026/09/11/#a-protocol-for-probabilistic-coinjoin-and-covert-betting Rob Segers posted to the Bitcoin-Dev mailing list providing specifications for silent payments light clients and measuring performance of different ways to retrieve data from blocks... https://bitcoinops.org/en/newsletters/2026/09/11/#update-on-silent-payments-light-clients Bitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.
 
-🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/09/11/) • 8h ago
+🔗 [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2026/09/11/) • 12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bitcoin Optech newsletter #422 is here: describes a proposed protocol for probab
 
 have fun with this one guys, answer a question then swipe to view the answer on the next slide don't forget to post your score in the comments. if you got the last one right you are a true bitcoin OG
 
-8h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ have fun with this one guys, answer a question then swipe to view the answer on 
 
 A 100% offline, client-side Bitcoin address and private key generator utilizing physical entropy. - hybridsole/bitcoin-entropy-tools
 
-🔗 [GitHub](https://github.com/hybridsole/bitcoin-entropy-tools) • 9h ago
+🔗 [GitHub](https://github.com/hybridsole/bitcoin-entropy-tools) • 13h ago
 
 ---
 
@@ -155,47 +155,19 @@ A 100% offline, client-side Bitcoin address and private key generator utilizing 
 
 ## Google News: "bitcoin"
 
-**[Ripple’s David Schwartz Says XRP Can Flip Bitcoin. Here’s the $24.50 Math](https://finance.yahoo.com/markets/crypto/articles/ripple-david-schwartz-says-xrp-222937740.html)**
-
-Ripple's CTO Emeritus says XRP flipping Bitcoin is more likely than not, but the math behind that prediction reveals just how extraordinary the conditions would have to be for it to happen.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price Prediction: We Asked ChatGPT and Grok Where BTC Trades by the End of September](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-asked-chatgpt-222543002.html)**
-
-ChatGPT and Grok looked at the same Bitcoin chart and came back with targets so far apart that one of them has to be badly wrong. The $82,000 level sits at the center of the disagreement, and September is running out.
-
-Yahoo Finance • 1h ago
-
----
-
-**[What Is the Best Crypto to Buy Right Now: XRP or Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/best-crypto-buy-now-xrp-223841295.html)**
-
-XRP and Bitcoin are heading into a week packed with regulatory votes and a Fed decision that could reshape both trades, and the better buy depends on a tradeoff most investors overlook.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices](https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html)**
 
 Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
 
-CNBC • 7h ago
+CNBC • 10h ago
 
 ---
 
-**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
+**[Analyst says Trump's $5,000 plan could lift Bitcoin and gold](https://finance.yahoo.com/markets/crypto/articles/analyst-says-trumps-5-000-192623615.html)**
 
-Reuters • 8h ago
+Investor Anthony Pompliano says Donald Trump’s proposed $5,000 stimulus checks could push Bitcoin, gold, and land prices higher, echoing crypto’s rally after past stimulus rounds.
 
----
-
-**[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
-
-bloomberg.com • 14h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -203,29 +175,57 @@ bloomberg.com • 14h ago
 
 Best Crypto & Bitcoin Casinos For September 2026 Casinos Welcome Bonus Expert Ratings 1️⃣JACK.com 100 No-Wagering Free Spins ⭐ 4.9/5 2️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BetWhale 250% up to $2,500 ⭐ 4.7/5 5️⃣ BitStarz 300% up to 5...
 
-Muddy River Sports • 11h ago
+Muddy River Sports • 14h ago
+
+---
+
+**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
+
+Reuters • 12h ago
+
+---
+
+**[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Bitcoin, Ether rebound as short liquidations hit $427 million](https://qz.com/bitcoin-ether-rebound-short-liquidations-091126)**
+
+Ether jumped as much as 8.3% on Friday as more than $255 million in bearish bets on the token were wiped out in 24 hours
+
+qz.com • 10h ago
 
 ---
 
 **[Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes](https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70)**
 
-CoinDesk • 5h ago
+coindesk.com • 9h ago
 
 ---
 
-**[Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision](https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-markets-digest-inflation-153208022.html)**
+**[Bitcoin Price Spikes, Shrugs Off Hot US Inflation Data](https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data)**
 
-Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.
+The price of bitcoin is up, despite the fact that an interest rate hike could be just around the corner.
 
-Yahoo Finance • 8h ago
+bitcoinmagazine.com • 11h ago
 
 ---
 
-**[CoinShares says latest CPI print offers no support for Bitcoin](https://www.tradingview.com/news/cryptobriefing:51911f214094b:0-coinshares-says-latest-cpi-print-offers-no-support-for-bitcoin/)**
+**[Bitcoin and Gold Prices Crash As Core CPI Runs Hot](https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-prices-crash-core-123326049.html)**
 
-Bitcoin bulls were hoping the August inflation report would give them something to work with. CoinShares says it didn't.In a market update published on September 11, the digital asset investment firm laid out why the latest Consumer Price Index data does essentially nothing for Bitcoin's short-term…
+August core CPI rose 0.3% against a 0.2% forecast, sending Bitcoin and gold into a flash crash before both rebounded.
 
-TradingView • 7h ago
+Yahoo Finance • 14h ago
+
+---
+
+**['Return the bitcoin': Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit](https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247)**
+
+Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.
+
+The Block • 16h ago
 
 ---
 
@@ -307,23 +307,13 @@ analyses a descriptor.
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Today’s CPI Result Is BIG Indicator for Bitcoin!](https://www.youtube.com/watch?v=VCzX8uCezik)**
-
-Bitcoin is holding strong while global markets buckle under macro pressure. In this show, Ran Neuner breaks down why hot ...
-
-📺 Crypto Banter
-
-👁️ 33K • 👍 971 • 💬 37 • ⏱️ 29:08 • 9h ago
-
----
-
 **[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
 
 Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
 
 📺 Altcoin Daily
 
-👁️ 5K • 👍 505 • 💬 47 • ⏱️ 11:37 • 1h ago
+👁️ 14K • 👍 1K • 💬 93 • ⏱️ 11:37 • 5h ago
 
 ---
 
@@ -333,7 +323,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 760 • 💬 143 • ⏱️ 48:14 • 8h ago
+👁️ 27K • 👍 778 • 💬 145 • ⏱️ 48:14 • 12h ago
 
 ---
 
@@ -343,17 +333,7 @@ Bitcoin rejected at the 50-week around $80K. Not a bull trap. Normal structure f
 
 📺 Crypto Capital Venture
 
-👁️ 19K • 👍 544 • 💬 158 • ⏱️ 11:55 • 1d ago
-
----
-
-**[Bitcoin After CPI — Path To The Bull Market Just Got Harder](https://www.youtube.com/watch?v=v-gsjB4CVmw)**
-
-YUBIT – The Premier Exchange for Crypto & TradFi Up to $50000 Welcome Rewards Instant VIP2 – 25% OFF Trading ...
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 129 • 💬 28 • ⏱️ 10:01 • 5h ago
+👁️ 19K • 👍 546 • 💬 153 • ⏱️ 11:55 • 1d ago
 
 ---
 
@@ -363,27 +343,47 @@ Trump is floating a $5000 check for Americans while Bitcoin trades below $80000 
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 435 • 💬 81 • ⏱️ 12:15 • 2h ago
+👁️ 9K • 👍 703 • 💬 128 • ⏱️ 12:15 • 6h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+**[Why Today’s CPI Result Is BIG Indicator for Bitcoin!](https://www.youtube.com/watch?v=VCzX8uCezik)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+Bitcoin is holding strong while global markets buckle under macro pressure. In this show, Ran Neuner breaks down why hot ...
 
-📺 Discover Crypto
+📺 Crypto Banter
 
-👁️ 9K • 👍 362 • 💬 51 • ⏱️ 1:04:53 • 8h ago
+👁️ 36K • 👍 1K • 💬 39 • ⏱️ 29:08 • 13h ago
 
 ---
 
-**[Bitcoin&#39;s Mythical Supercycle Is Finally Starting](https://www.youtube.com/watch?v=KBWfKENxs1U)**
+**[🚨Bitcoin REJECTS AGAIN: 3 Reasons Why a Big Move is Next!](https://www.youtube.com/watch?v=mvNw-AXguyQ)**
 
-When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator with 5 of the top Bitcoin forecast models built in ...
+Channel Sponsors (Affiliate Links)   Phemex https://phemex.com/en/affiliate/H3XTK3 ...
 
-📺 Mark Moss
+📺 Frankie Candles 
 
-👁️ 98K • 👍 2K • 💬 423 • ⏱️ 45:54 • 1d ago
+👁️ 4K • 👍 289 • 💬 37 • ⏱️ 1:27:25 • 3h ago
+
+---
+
+**[The BRUTAL Truth About Crypto No One Tells You](https://www.youtube.com/watch?v=fr1_eJTjf7Y)**
+
+Michael Saylor, whose company holds 847000 Bitcoin, more than anyone on earth except its anonymous creator, addresses the ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 243K • 👍 3K • 💬 482 • ⏱️ 14:07 • 1d ago
+
+---
+
+**[🌍 Retire on Bitcoin by 2032: Global Wealth Matrix &amp; How Much You Need 🚀](https://www.youtube.com/watch?v=c0X9585-KDI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 69K • 👍 3K • 💬 213 • ⏱️ 30:29 • 1d ago
 
 ---
 
@@ -393,17 +393,17 @@ Treasury Secretary Scott Bessent just dared traders to bet against the yen, call
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 2K • 💬 110 • ⏱️ 17:22 • 2d ago
+👁️ 43K • 👍 2K • 💬 106 • ⏱️ 17:22 • 2d ago
 
 ---
 
-**[Bitcoin DROPS As Treasury’s $6 BILLION Bond Rescue BACKFIRES | Matt Cole](https://www.youtube.com/watch?v=dwWKnzLrHgU)**
+**[$400K Bitcoin TRIGGER - Coinbase CEO Just Named The Number](https://www.youtube.com/watch?v=ol-FXXDZ1so)**
 
-Bitcoin #Crypto #finance Bitcoin and markets are heading into a major political and macro week as Trump ties a $5000 dividend ...
+Coinbase CEO Brian Armstrong says the Bitcoin bottom is already in and $400000 BTC by 2030 is a reasonable target.
 
-📺 The Wolf Of All Streets
+📺 Bitcoin News Alerts
 
-👁️ 32K • 👍 805 • 💬 168 • ⏱️ 49:21 • 1d ago
+👁️ 7K • 👍 260 • 💬 104 • ⏱️ 17:01 • 1d ago
 
 ---
 

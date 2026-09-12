@@ -16,7 +16,7 @@
     },
     {
       "headline": "Current price of Ethereum for September 9, 2026",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WFFhbkZwLWd3ems2Z25TaENuTnVEaVpSUzhjSG5vUm93U3FPclZOX28wc1Y3cGQ4S1hyd0NJa191Rnk4QzJ3dFpvang1WDhSend1elNUQ1FuazZEejlHOHg4MkFKOS1L?oc=5",
       "pub_date": 1788951600.0,
@@ -36,7 +36,7 @@
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
       "pub_date": 1788962400.0,
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBQZHNDa056MGFOVHpiWXBJWWlVN3RFWFRmNXU1MlRWSmJZNllrbVBKYzhrY1A0VE1RR0Z1R1BiWXU0Mk9kM1ZYUmlfakhCNmU5MXQtVVhHa3htdm51TUZGTmltRXdfTW5DdVhGMkhiNnVYOG5vM0VSSWZpUFNNYmRCN3dCOFpaR1VvbXlmVHBqUWdYRXVaNV9PQ2YyandLWWFCQy1aREt0UEIta1g5WDNhVXI?oc=5",
       "pub_date": 1789045200.0,
@@ -76,7 +76,7 @@
     },
     {
       "headline": "Philadelphia Fed finds Bitcoin traders follow whale signals faster than Ethereum users",
-      "source": "cryptoslate.com",
+      "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFE3YXpHaU40VTU2UDA2blpVMEExSTdDd0o4eXFVamVBZHpadEdUVllxajVjQ09ocDctc2puOTRDaktteF9WUjZFd3NFRDJXSkliQjJUNmllM0EwNWZCblVFLTVGdWg0VkplM2JHMXlmcDMxTzByNmpnUEU3YmppMXdnblVmazQ1dUV5SEJidk5yU21OS21ZU0JjQWFhZU9rS1lZMGNBNlUzZ0hKakhxNA?oc=5",
       "pub_date": 1789157409.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T23:54:44.578653+00:00"
+  "fetched_at": "2026-09-12T03:28:05.382936+00:00"
 }

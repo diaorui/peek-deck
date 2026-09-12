@@ -36,33 +36,13 @@
     },
     {
       "headline": "Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
       "pub_date": 1789054202.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
-      "pub_date": 1789167497.0,
-      "article_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
-    },
-    {
-      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
-      "pub_date": 1789058257.0,
-      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
     },
     {
       "headline": "Why do humans like to watch robots fall?",
@@ -75,6 +55,36 @@
       "description": "Robotics expert Changliu Liu explains."
     },
     {
+      "headline": "Robots Are Learning to Feel",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5POFc1RkZzSzhlSlUtZVlwOVBVVFBOWTVuR0dNQ3Ayam9ZWk5xSHU0Vk95ZE9pVEhXWFMwVHVVa0pCd2hHMk9wSWlqZ1pOLTVua294aEotRV8?oc=5",
+      "pub_date": 1789064710.0,
+      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67745224&width=1200&height=600&coordinates=0%2C50%2C0%2C50",
+      "description": "New tactile datasets could solve a longstanding challenge in robotics"
+    },
+    {
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
+      "pub_date": 1789058257.0,
+      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+    },
+    {
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
+      "pub_date": 1789167497.0,
+      "article_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+    },
+    {
       "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
       "source": "gizmodo.com",
       "source_url": "https://gizmodo.com",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Robots \"protest\" in Warsaw to demand regulation of AI and automation",
-      "source": "Notes From Poland",
-      "source_url": "https://notesfrompoland.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVTB6UmxtZlFrQ3AzN0hScW53c18xRWVLek15WDN3UFRxb296d0xhQ1JROHJKRS1aVzZia3ByX3hfVGpXd3RIOWxkc1JCRnFZSzVra29oUVlyVk1xWjVPay1nZnJPUklPVDNpNjJVYWNpQUU5UWctd2Nhd0hMR1lYMkl2Qm5zajMtWDlCZUVXTDlyaVBMNlpWUklvRl9lQkI4SDJUakdaNTMtUQ?oc=5",
-      "pub_date": 1788872572.0,
-      "article_url": "https://notesfrompoland.com/2026/09/08/robots-protest-in-warsaw-to-demand-regulation-of-ai-and-automation/",
-      "image": "https://notesfrompoland.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-08-at-12.28.46.jpeg",
-      "description": "\u200b"
-    },
-    {
-      "headline": "General Robotics, led by Microsoft vets, says its AI has cut robot setup from a month to hours",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1puOUFHWmVianl3R3BreW5GbjRYemQyZ1M5VkEtTk55WDlxV3hoa1lrNEpDQ3hVMFFnc1RWVVdRaEE4Wm5qZXhrQlNhX3hiWGF5Um5wdzREQk85ek40b0RRblo3R2poc1ZLaWpWNHJlWmtfMFpiODEyYnJHU0Q5SGl1aGd2V20wTXNBOUlLd3RjZG03eEhpX00xYmNqaWNfeXhoSmVheENDTTREOTcyVVNPQTNzNGxEY1FfVUdfTDE?oc=5",
-      "pub_date": 1788970329.0,
-      "article_url": "https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/General-Robotics_Photo3-1260x709.jpg",
-      "description": "A Redmond startup founded by former Microsoft researchers says its GRID platform now automates much of the engineering that keeps robots stuck in pilot projects. CEO Ashish Kapoor says the company has roughly a dozen customers and revenue in the millions of dollars."
+      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
+      "pub_date": 1789065307.0,
+      "article_url": "https://breakingdefense.com/?p=95208",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T23:54:49.667295+00:00"
+  "fetched_at": "2026-09-12T03:28:07.669854+00:00"
 }
