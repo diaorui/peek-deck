@@ -5,36 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Ripple\u2019s David Schwartz Says XRP Can Flip Bitcoin. Here\u2019s the $24.50 Math",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTRJb2VPdTRrcFA5WXJ5dEJzeGVuYndQcWVKXzFfMHlwcjR4RGhrOHdIcjdGTVhXWDRPeDh3ekdSWmNUTHVzekJpVVpNUld1eE5QWWhWSzZBYVBmcW1xNmJWY29QR0Y4MG1jamlqeVQySTEySTZfMVd4b29QNnd2ajFVOXlzWk96T3hIT2VRcUhVX1NmaVZRTFVlVQ?oc=5",
-      "pub_date": 1789165777.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ripple-david-schwartz-says-xrp-222937740.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/433fce221a698cc3026a628b08f7e002444b4beb4b075b8c2c3c5a591a2a98f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F524a4df317f0d101a7be2956301c2202.jpg",
-      "description": "Ripple's CTO Emeritus says XRP flipping Bitcoin is more likely than not, but the math behind that prediction reveals just how extraordinary the conditions would have to be for it to happen."
-    },
-    {
-      "headline": "Bitcoin Price Prediction: We Asked ChatGPT and Grok Where BTC Trades by the End of September",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmM0SnBBQTJSeEdmV1IyYzhUYzZWQ3NXdnBoeHdGa081X2Q3TVRrUmh3LW8xR0xydWtaM1VTOUxzY19iaHRpWjdXaksxU0NURmYzTGlkOG1iRHJFSE8zSlJmUWhMc2hYMUhzRXFDNVNsUTNkQ2xYMnlEQ09NVk45SHF6b3VpelRCVUg3UFBCcEdmWGFqNnIxalhNTmJyd3ZGM1VjSmJ3?oc=5",
-      "pub_date": 1789165543.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-prediction-asked-chatgpt-222543002.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ef896fc45d4a97d262526d20512ed8ab136d23fd158a2846c9f2557c907fa8a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F939eeb2e5d2e3fa396036bb3691eec70.jpg",
-      "description": "ChatGPT and Grok looked at the same Bitcoin chart and came back with targets so far apart that one of them has to be badly wrong. The $82,000 level sits at the center of the disagreement, and September is running out."
-    },
-    {
-      "headline": "What Is the Best Crypto to Buy Right Now: XRP or Bitcoin?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORC1zUTBWWk9mZTlJVFYtc1N3dUNvaHh6TzJjZlFyd0kyZWhjYlZSRVd2MkJCXzNYSDBBNllNSEFHSktSRzFZQjI4dWYwOFRtYi1SdUF1YjRBdHlxWGxteHJaalFXWVk3MDFqNlk0UkdVemJOSTUwOE9CRVdJRmJBYVJTejZHbEdpRkhGWHh1Vlp6Zw?oc=5",
-      "pub_date": 1789166321.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/best-crypto-buy-now-xrp-223841295.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/151dd5b5fad3d4812b4d6083c6f6650a10b75904a66e7ad48ed7b563330cc978/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2631495f79a75de91cacef81eba7e602.jpg",
-      "description": "XRP and Bitcoin are heading into a week packed with regulatory votes and a Fed decision that could reshape both trades, and the better buy depends on a tradeoff most investors overlook."
-    },
-    {
       "headline": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -43,6 +13,26 @@
       "article_url": "https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108361837-1789137192360-gettyimages-2291185551-aw1a9203_y44fklha.jpeg?v=1789137385&w=1920&h=1080",
       "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
+    },
+    {
+      "headline": "Analyst says Trump's $5,000 plan could lift Bitcoin and gold",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjlQSDF1YjgtWGFWdFZNTklFa2VaOFJpRzBzNGR0MjJVMm9TQlREM2s2Rkx1cGxuSkxwZ0k3OWdMdXUzZ0Y3eXZqc0RucGN4Q3VIcGo3TWZFdGJCRkdxNktHby1HRUMwam1rdFVjeTZRQWllNWpSb09FWDc3SVhhZG5VX09KOVcxMHVJSjMweEhHa3hr?oc=5",
+      "pub_date": 1789154783.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/analyst-says-trumps-5-000-192623615.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5d7a0cd686abbf206cb0beb18466c5d6d16f625456fdf2f81cc4f5b328dfdd7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F578c578c71b2ce4d1f0a9a3195268b7b.png",
+      "description": "Investor Anthony Pompliano says Donald Trump\u2019s proposed $5,000 stimulus checks could push Bitcoin, gold, and land prices higher, echoing crypto\u2019s rally after past stimulus rounds."
+    },
+    {
+      "headline": "5 Best Crypto Casinos 2026 \u2013 Trusted Bitcoin Sites with Fast, Secure & Provably Fair",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObDFWcmx0YlBQRlNRZmdzd2VRenk1RzhpY1lRVDBxNjh2cVVVNm1xWEZFOXNFdFJhUXJ6U2RBejkwV2x0bkN4QWhaTUVOVEVBRkliTE02YWtVNWRSaEpqaEEwXzRlNUZmWl9lbExWM29rM0R5bTg4WVVrUlFxdWNEbW1DaUFjTmthZEw5bjltSzZGbVlLc1RUUmJhYmZCdzhTRHZSeU5SNG01U1RpWWN0Qm4zQXZxWTlHby10V1J0THM0TTBmS3M5WWhLNmJGS3FjOU9QRzcyR1p3QQ?oc=5",
+      "pub_date": 1789129816.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-sites-with-fast-secure-provably-fair/20260911073000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1105.png",
+      "description": "Best Crypto & Bitcoin Casinos For September 2026 Casinos Welcome Bonus Expert Ratings 1\ufe0f\u20e3JACK.com 100 No-Wagering Free Spins \u2b50 4.9/5 2\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins \u2b50 4.8/5 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 \u2b50 4.7/5 4\ufe0f\u20e3 BetWhale 250% up to $2,500 \u2b50 4.7/5 5\ufe0f\u20e3 BitStarz 300% up to 5..."
     },
     {
       "headline": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
@@ -56,7 +46,7 @@
     },
     {
       "headline": "Bitcoin\u2019s White-Hat Hack Is Just Old-Fashioned Extortion",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2lHQ01aNTZUcjd2Ukh3dk1wSDhRcmFWVUx0ajhKUzBtUWR5RUhoUngteUE1OXM0MDdJNUtSbnNOMjBXQms2eW5hZDNZUHY3UDZOTmxET3JObW1Va3k5TC1sSW1SbUVnU1lpdm1vXzFlY0ZlNjFpMHpENlJ0MTQtQTJOOGk2eEtCYlk0MHdWTnN1UXdiT0VycXZZdGdmS2dFSndDaXV2SUNEV2J4?oc=5",
       "pub_date": 1789117202.0,
@@ -65,18 +55,18 @@
       "description": null
     },
     {
-      "headline": "5 Best Crypto Casinos 2026 \u2013 Trusted Bitcoin Sites with Fast, Secure & Provably Fair",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObDFWcmx0YlBQRlNRZmdzd2VRenk1RzhpY1lRVDBxNjh2cVVVNm1xWEZFOXNFdFJhUXJ6U2RBejkwV2x0bkN4QWhaTUVOVEVBRkliTE02YWtVNWRSaEpqaEEwXzRlNUZmWl9lbExWM29rM0R5bTg4WVVrUlFxdWNEbW1DaUFjTmthZEw5bjltSzZGbVlLc1RUUmJhYmZCdzhTRHZSeU5SNG01U1RpWWN0Qm4zQXZxWTlHby10V1J0THM0TTBmS3M5WWhLNmJGS3FjOU9QRzcyR1p3QQ?oc=5",
-      "pub_date": 1789129816.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-trusted-bitcoin-sites-with-fast-secure-provably-fair/20260911073000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1105.png",
-      "description": "Best Crypto & Bitcoin Casinos For September 2026 Casinos Welcome Bonus Expert Ratings 1\ufe0f\u20e3JACK.com 100 No-Wagering Free Spins \u2b50 4.9/5 2\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins \u2b50 4.8/5 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 \u2b50 4.7/5 4\ufe0f\u20e3 BetWhale 250% up to $2,500 \u2b50 4.7/5 5\ufe0f\u20e3 BitStarz 300% up to 5..."
+      "headline": "Bitcoin, Ether rebound as short liquidations hit $427 million",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwS21sQ0RlNWhYREVhTjVEdGhnekF0SVVIZ3V3VUxoSXMtS0t6dUlDMGVYenpPeTZEM1ItdDhNZGdNLWlQa2pvQXhYcXVfNjRPOFNLYXFiYS1PY2ZreHVMajRQUHhSNlJ2UUVIcmktOA?oc=5",
+      "pub_date": 1789147192.0,
+      "article_url": "https://qz.com/bitcoin-ether-rebound-short-liquidations-091126",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239689526-300x200.jpg",
+      "description": "Ether jumped as much as 8.3% on Friday as more than $255 million in bearish bets on the token were wiped out in 24 hours"
     },
     {
       "headline": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNTJkYXplRVlkT1lYUkFQcjB2YzBSRHJrUzdvY1llc0FJa3lHeHZEVGNXZ3Z6RXZvNmktLWRQM19FR2V3eVpZeFZmX1ZyWlRld04yekNzd3VCVTV5UzJRclNYMUZJbkpiS2RlMkJGTGE4b3NJTVE4ZlNjS190R3BTaXVzS0pYWWx5NzdEalViRlU4MXR6UV9Pb1BySFlGSlpqajZ6Si1mU1BBcVN2dG15bjU1NWpiZGdTRG5Yaw?oc=5",
       "pub_date": 1789151001.0,
@@ -85,26 +75,36 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUZ2WE93UERVdFhYR2xPVUw2dktBQS1nVmR4U19WWEktZGNMLW40dm5TOWFoMUZaUXE5MnVmQ25samxjVDdtSERldy1jcUoycFN2VG5pbklVR3lIbXdoc1N6TWFUX3kzZ19QN1FFVzlrTlpySE9rNUVJdi1aSFFBbjFZZ2h2dl9Iamhwb3RHSE1hbTR6aGpjQjEtZVRVeWltd1EyTHZn?oc=5",
-      "pub_date": 1789140728.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rises-markets-digest-inflation-153208022.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6ba3d696eb61a0151bb7a0e7a9b5a35874c469abb81e67f8ab7e8fb94030ceb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F4cb7083d6ff87b522f9feff7c285d4a0.jpg",
-      "description": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly."
+      "headline": "Bitcoin Price Spikes, Shrugs Off Hot US Inflation Data",
+      "source": "bitcoinmagazine.com",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXhreVgtNFY2YVV3eUtzX0ExeXlyanZFVXBvdUtQZ0s3MjdyamJBUEdzRk9RYk95Y0lIR21UNHVrb3FaODVJMm1yUUdGcGtuYml2eHNzVU1qc2tXOTFfN21pQW9hTUtMVWJuNVpnc1VUZkExYTRlalg0bWhURHp6bEcwUW0?oc=5",
+      "pub_date": 1789141565.0,
+      "article_url": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-17.jpg",
+      "description": "The price of bitcoin is up, despite the fact that an interest rate hike could be just around the corner."
     },
     {
-      "headline": "CoinShares says latest CPI print offers no support for Bitcoin",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVhXMmc4cXVUcHlWSmhMWl9nM1M3WVhHcjN1M0hjcUhkLWFEanY1TkxfMGdibGh6a0JhNVBvVm9CU1J4dEQ5UE1EdmhRUUU1TDVuNnIyVjM3d1RqaUt3anBiQkZkY2pzQlhxX0o4QWltYVNZdmtsZEVWRnNHTHJoVVJxcHpDdjg3a3d2M2Fyb1ZxSlV4YVh0ckF3NXF4b2J3UE55SEtjdTIxQURfZmtBTmZsWTdPQ2drVmY2MGlnTm9keVpIbkE?oc=5",
-      "pub_date": 1789144757.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:51911f214094b:0-coinshares-says-latest-cpi-print-offers-no-support-for-bitcoin/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin bulls were hoping the August inflation report would give them something to work with. CoinShares says it didn't.In a market update published on September 11, the digital asset investment firm laid out why the latest Consumer Price Index data does essentially nothing for Bitcoin's short-term\u2026"
+      "headline": "Bitcoin and Gold Prices Crash As Core CPI Runs Hot",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONG5mVEJJcFNZMzNWZkotdm1veEx1QldiZHEzVUNROXRTNzh1cGZPcVhLWUphcTFhVHdNV1A3YUpMbkVzNVpYbmFZMFh1LUpYNDRmV1hkZVpZejhlTTMxY0RhaHpnZ2h1RkJIclNCSzVTaUoxWmJqbnJRSHdXTy1JeWJSeGdFaTVaOW96UHdYX3NCVEp4Q2VNLWNTTQ?oc=5",
+      "pub_date": 1789130006.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-gold-prices-crash-core-123326049.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dc9b7153bd0dd63dc0543af8abe8f3b17ae32af1568d9f2285f968645e98defe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fa54bdb09d4b1d5d61e083b9c668ece57.jpg",
+      "description": "August core CPI rose 0.3% against a 0.2% forecast, sending Bitcoin and gold into a flash crash before both rebounded."
+    },
+    {
+      "headline": "'Return the bitcoin': Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb01vYjBLVXVhYm5wNDkyb2xBTWMtYzdGaTduUTVuMVkwQUNUSnVpMmFmV2tBRG1rWXJxdkowcVR2ZXVleS1QcWRLN25MQXJiTk1CV1NDUGN3NVdJdTJlT1FwTWhIVU1RV2tvc0lSNXYwLUxvdFF4Zkg3OHNNa2U2SDV4Mlp5X3ZUODhVU2MtWHM1czBIQV9tQ215WGtRYnhtc2xJSjlrVHp3Y05LMlRFU1JOb203WHZCWWRaeDE0UVhHd0IySkN6VFVzVkRLTElhUjJ6WWFuU1Njb1VTSHgwV2l3WndDUnM?oc=5",
+      "pub_date": 1789125677.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
+      "image": "https://www.tbstat.com/wp/uploads/2019/05/Blockstream-1200x675.jpg",
+      "description": "Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-11T23:54:47.173504+00:00"
+  "fetched_at": "2026-09-12T03:28:06.007497+00:00"
 }
