@@ -5,62 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Why the AI race has its creators fearing human extinction",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5",
-      "pub_date": 1789143074.0,
-      "article_url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F764fb1e3-7fde-429a-94a8-20ca52ad9553.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream"
-    },
-    {
-      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+      "headline": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-      "pub_date": 1789129020.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Here\u2019s why it\u2019s so hard to keep AI agents from going rogue",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVXpEeVZxdG1HWVRuRi0zZGp2WjNiZlM1Q21Va1M3U0JSSWpRejRSRDlibHdHR0NCQTRfenl2QXJORV9Scjc4MVRJMjRueUtNS2ZpWE9wNGFJcWcyTXpyd2FCMXN1UE9tRUpoVVdYSmJFMjJFWnFmc0hjNzIzVnJ6dGVTOE5ZUF93Z3NIQm8xcjVQM2dfUWFBWEVReTE2MFlBRzFzTUx3?oc=5",
-      "pub_date": 1789142400.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/11/ai-experts-warn-technology-is-learning-cheat-hack/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AOTVHMVCLFAALMZGBPXPOACXZA.jpg&w=1440",
-      "description": "The techniques that made chatbots more capable can also bake in a tendency to hack, cheat and evade human oversight."
-    },
-    {
-      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
-      "pub_date": 1789170960.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
-      "description": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems"
-    },
-    {
-      "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5",
-      "pub_date": 1789165500.0,
-      "article_url": "https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI reveals another rogue AI attack",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
-      "pub_date": 1789175040.0,
-      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2VZT2RaOHpEM0RneENGMFBIQk93Y0oxYmhqYnBIeDdRcGpRajBpTFhybzFqMHpSRHBmbGpxdUthMU1iNkxydUpoU2hHUUxvUmU0RkVyc0lpVUpQbDgtb2drdnYxNXcyWVhCR2lYMnVYd0s1QW5YdTVpR0lldnlKbnV0QndvRGdWc1ZabQ?oc=5",
+      "pub_date": 1789203781.0,
+      "article_url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
       "image": null,
       "description": null
     },
@@ -75,36 +25,86 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Okta Targets AI Agent Confusion With Identity Security Push",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaUNfbUhaclY1Sm9VSkdMVUQ2TllHVUp3THBJZTd3NFhVUG05VWVyeEpTS1JHaHFlYlVVOEYzYmJjR2dwMXNiX2JrdVo0M1RwaEF4aWxsZUR5bTd1RFZZeTN1bENJOU9PV2lLS2JPMmU2NFA1M2s1enlobjFVektVR0lJYVlHTU95Zi1SYWVicTdwUTQ3MW9WT3lDWQ?oc=5",
-      "pub_date": 1789192919.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/okta-targets-ai-agent-confusion-060159554.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/474046190fe088670f000f5f5fd2c052d9369671f98a83db6f764c09a8f4627c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2Fe916e7fcf91604c187fd3af21c94bd0d.png",
-      "description": "Okta (NASDAQ:OKTA) President and COO Eric Kelleher said enterprise customers are increasingly seeking guidance on securing AI agents, with uncertainty around the emerging technology representing a central challenge for the identity-security market. Speaking at the Goldman Sachs Communacopia + Techn"
+      "headline": "Behind the Curtain: It's not too late",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSVJnVDhYczVoWkRhcTFpMXpOLUJGb1Q5N01wMkFYM3AycFU2MWJuRmpCY0doOUNyN0dtY2RLQnR5SE9OblhuMjV4N0k4N1pGTWV0WEhnS0hfWXNIeGdJbl9WS0dGT29yaERadVNvYjE?oc=5",
+      "pub_date": 1789214641.0,
+      "article_url": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Congress Considers Guardrails for AI After Researcher\u2019s Warning",
-      "source": "The Presidential Prayer Team",
-      "source_url": "https://www.presidentialprayerteam.org",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOU9fMXgxVTNOQldBZWs0anFSaldPbjdmVHdpNEtkOEQxb2JVSV9tYS1TVVNKZFNkVmFJN2JxNXFQZXVQMkRxM1lmMU00X0hXcXRXa1JhT29MM3M4ck96ZjBYdTNEaFoxNUwxYVFjdTZWN0ZJSGw4d01HQkhuYUhhelZLSHFidzB3YmMtRngxTkxLTnpZLVlGN1hQWmNBUjY4aHRWMTZjcGt2Yi1kaEVWbzlsbw?oc=5",
-      "pub_date": 1789200000.0,
-      "article_url": "https://www.presidentialprayerteam.org/2026/09/12/congress-considers-guardrails-for-ai-after-researchers-warning/",
-      "image": "https://www.presidentialprayerteam.org/wp-content/uploads/2020/03/PPT-Seal-Social-Meta-Image-1920x1080-1-e1584050686764.png",
-      "description": "Each day, we invite you to join us in prayer for our national leaders. As mandated by 1 Timothy 2:1-2, we encourage prayer for those in positions of authority."
+      "headline": "Hot Summers, Water Supply And Frivolous AI Use On Social Media",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY01FMVBoeGMyelc3bXpMZEVELVY3VWNBU1V4NXRHclJ2VkpQREMtMEpJN05UMERfMG03SEVESS0tYVNOaW1TMVgyZW1fN0xNNEhTelJXaFk1dnZaaS14ekQ1andITWNScmRIRUNOYlpnYlQ2LVUyT2loMkhkTjdnQkI2QTZFY1gxeFFQbURXU1RTOFBIMXJCa2JqVnEtTFJkUWdMa0phbkdGaThBRWF6djdQSl9LcDlTYy1r?oc=5",
+      "pub_date": 1789214816.0,
+      "article_url": "https://www.forbes.com/sites/marshallshepherd/2026/09/12/hot-summers-water-supply-and-frivolous-ai-use-on-social-media/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI may be denting computer science graduates\u2019 job prospects, UK data shows",
+      "headline": "OpenAI reveals another rogue AI attack",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "pub_date": 1789175040.0,
+      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Immature playground boasting\u2019: Mathematicians uneasy at OpenAI\u2019s latest scalp",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnEwT0RsQ21pVWk3eXVLcU5feGpNVzJ0cU5aNG84RV9vUE9HNFpCdXNXT0FDWmRQYklNYk1hTmJUSnhhcml6MW8zRks2TWV2ZEJ6dlJyQmlNcm01Z3lXRUJ1WDlOU3FTZElKOXIzZE9PaVJzaGJCZXZIcFlvRThQN3l1YWxIaHlFdFRybFlpVjZhOGV6VVphNkwxQkgtUjhpNnlB?oc=5",
-      "pub_date": 1789196400.0,
-      "article_url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
-      "image": "https://i.guim.co.uk/img/media/fe746a73da419d2c972bac95b3ec2b2833706c92/625_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0729a9d98b3e5d04505cc3a776a130b",
-      "description": "Economics graduates also appear to be affected as demand for them falls in well-paid roles in finance"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUg2U3V2NmxnMjFYSVpTdVdQS1dyM19fUjY0S2V6MWItakVCNFF2R3pRRk8tWHJ1aG5CVnB1N3BvckRJWDZ4RjEwTUhPTnZ5U2hnZEREd0RXQXYxcW54NUZFYVVkUnNSQ0QwTWFxaWhXRGFyN0NzQ29TZVd2d2dJdEhhVXVSaVNBOEQwaExYemVPRUo2UTdKTjZ3?oc=5",
+      "pub_date": 1789200000.0,
+      "article_url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+      "image": "https://i.guim.co.uk/img/media/2ef5f466c1ffa22c4d545e7d74155b5dd8b38e24/557_0_3390_2712/master/3390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=200303cb3b1e8ca6cbc5659ada439aaf",
+      "description": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change"
+    },
+    {
+      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
+      "pub_date": 1789134540.0,
+      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNUaDJOTzNWbmEzcTBCaWhKV0RBY1NOMkptS3MxRFE2MURUd09NRWxaUmZvTV83NzNkeFJsS21ITENfUTdWU1FTN3NlajhDb1N1c3ZiWVJWS2U3QkhzM05tdzVlMk5MU1NDS19vbGRrNUFwSzhzQ3lsQXl4ckZpTzJPcVlRVFJpaFpidUZ4aFJpa0ZYd3ZLenBUOF8?oc=5",
+      "pub_date": 1789207200.0,
+      "article_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "image": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
+      "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work."
+    },
+    {
+      "headline": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing \u2018catastrophic\u2019 risk",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
+      "pub_date": 1789162725.0,
+      "article_url": "https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293016693.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the \u201ccatastrophic risk posed by advanced artificial intelligence.\u201d"
+    },
+    {
+      "headline": "Oracle stock trims gains as AI cloud demand outpaces supply",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWJFeUhQUHA3ZlZUOTQ2aWNpeURtNG53Y3dWYkNSYjhmb0Z2bWNqSzdpSDVaNmtGODNLYnMxdjhpSGhJM1l6YUJuRU1GcHAyRUR0OTdlUDMyRmJaYXJVekRObDh0TzlUc1JWQm82Wk9RVmRWUTZrRW9iNkdxZ0tDWjRncDQ3R2FtbXEwV1QxY2FISjJZZkFWdFlXR2ZPNFlfMmhXeWNvRUI2bE9OcHhZeE1RTVFIeEE?oc=5",
+      "pub_date": 1789139140.0,
+      "article_url": "https://finance.yahoo.com/markets/article/oracle-stock-trims-gains-as-ai-cloud-demand-outpaces-supply-122103986.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/69fb394505a931e81ea0db3d559c488367cdb1f045bf5ac303a61bdf93cc8df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fd16be1d8-6e61-4d09-a369-374397ebb46e",
+      "description": "Oracle stock jumped after cloud revenue sales grew by 121% last quarter"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T08:06:21.144375+00:00"
+  "fetched_at": "2026-09-12T12:18:28.250664+00:00"
 }
