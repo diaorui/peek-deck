@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-12T08:06:23.438107+00:00'
+updated: '2026-09-12T12:18:40.101353+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 08:06 UTC  
+**Last Updated:** September 12, 2026 at 12:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,531.08
+### $2,532.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +0.4%  
-**30d:** +34.1%  
-**90d:** +40.6%  
-**1y:** -45.7%  
+**24h:** -3.5%  
+**7d:** +0.8%  
+**30d:** +34.7%  
+**90d:** +41.1%  
+**1y:** -45.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.88B
+**Market Cap:** $309.16B
 Rank #2
 
 **Circulating Supply:** 122,041,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.0%
+-48.8%
 
 **All-Time Low:** $0.43
-+582623.4%
++584905.3%
 
 ---
 
@@ -154,23 +154,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-Yahoo Finance • 17h ago
+finance.yahoo.com • 21h ago
 
 ---
 
-**[Current price of Ethereum for September 9, 2026](https://fortune.com/article/price-of-ethereum-09-09-2026/)**
+**[Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push](https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
+coindesk.com • 2d ago
 
 ---
 
-**[Is Ethereum price at risk of losing $2,400 as oil tops $105?](https://www.tradingview.com/news/invezz:89fc51825094b:0-is-ethereum-price-at-risk-of-losing-2-400-as-oil-tops-105/)**
+**[We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher](https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/)**
 
-Ethereum price has fallen nearly 4% over the past 24 hours to around $2,420, putting the $2,400 level at risk after oil climbed above $105 and US Treasury yields rose sharply.CoinGecko puts ETH at roughly $2,419 at the time of writing, down 3.9% over the past day after the token traded as high as r…
+We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict.
 
-TradingView • 1d ago
+24/7 Wall St. • 14h ago
 
 ---
 
@@ -182,33 +180,11 @@ Fortune • 2d ago
 
 ---
 
-**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
-
-CoinDesk • 1d ago
-
----
-
-**[XRP ETFs Beat Bitcoin, Ethereum Inflows: What Is Going On?](https://www.tradingview.com/news/benzinga:16bbf96af094b:0-xrp-etfs-beat-bitcoin-ethereum-inflows-what-is-going-on/)**
-
-XRP (CRYPTO: XRP) spot ETFs pulled in $18.98 million this week while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) ETFs bled a combined $479 million in outflows.What the ETF Flow Data ShowsU.S. spot XRP ETFs recorded inflows of $1.55 million on September 8, $12.29 million on September 9, and $5…
-
-TradingView • 18h ago
-
----
-
-**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
-
-A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
-
-CryptoSlate • 18h ago
-
----
-
 **[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
 
 DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
 
-markets.businessinsider.com • 35m ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -216,13 +192,37 @@ markets.businessinsider.com • 35m ago
 
 Ethereum hits R2 resistance on the Opportunity channel at $2606.58 with RSI at 70.65 and bullish MACD golden cross on 4h chart.
 
-blockchain.news • 16h ago
+blockchain.news • 21h ago
 
 ---
 
 **[Ethereum leads way as most big cryptocurrencies post increases](https://www.marketwatch.com/data-news/ethereum-leads-way-as-most-big-cryptocurrencies-post-increases-8ebade01-0656499be798)**
 
-MarketWatch • 18h ago
+MarketWatch • 22h ago
+
+---
+
+**[Bitmine Just Made Its Largest Ethereum Purchase Since June. Here's Why That Matters For Ethereum Investors.](https://www.fool.com/investing/2026/09/11/bitmine-just-made-its-largest-ethereum-purchase-si/)**
+
+Digital asset treasury companies are helping to keep a floor under the price of Ethereum.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Glamsterdam Upgrade Tentatively Set for Sepolia on October 6, Mainnet Date Still Uncertain](https://financefeeds.com/ethereum-glamsterdam-upgrade-tentatively-set-for-sepolia-on-october-6-mainnet-date-still-uncertain/)**
+
+Ethereum developers have tentatively agreed to activate the Glamsterdam upgrade on the Sepolia testnet on October 6 at 13:53 UTC, providing the clearest
+
+FinanceFeeds • 1d ago
+
+---
+
+**[Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%](https://finance.yahoo.com/markets/crypto/articles/bitmine-surges-8-ethereum-strength-144117927.html)**
+
+Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
+
+finance.yahoo.com • 21h ago
 
 ---
 
@@ -236,17 +236,7 @@ John Gillen says Ethereum could hit $4000 before the end of the year, and he's b
 
 📺 The Rollup
 
-👁️ 3K • 👍 171 • 💬 35 • ⏱️ 22:54 • 6h ago
-
----
-
-**[BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vrOZjn2ekqw)**
-
-BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 3K • 👍 240 • 💬 109 • ⏱️ 22:03 • 6h ago
+👁️ 9K • 👍 272 • 💬 83 • ⏱️ 22:54 • 10h ago
 
 ---
 
@@ -256,7 +246,7 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 19K • 👍 619 • 💬 380 • ⏱️ 17:30 • 17h ago
+👁️ 21K • 👍 629 • 💬 487 • ⏱️ 17:30 • 21h ago
 
 ---
 
@@ -266,7 +256,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 56 • 💬 13 • ⏱️ 9:47 • 16h ago
+👁️ 4K • 👍 63 • 💬 13 • ⏱️ 9:47 • 20h ago
 
 ---
 
@@ -276,7 +266,7 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 30K • 👍 756 • 💬 33 • ⏱️ 11:43 • 13h ago
+👁️ 32K • 👍 818 • 💬 35 • ⏱️ 11:43 • 17h ago
 
 ---
 
@@ -286,7 +276,27 @@ These news are not helping Bitcoin and the rest of crypto. Markets are hanging b
 
 📺 Thomas Kralow
 
-👁️ 18K • 👍 1K • 💬 15 • ⏱️ 9:10 • 1d ago
+👁️ 19K • 👍 1K • 💬 15 • ⏱️ 9:10 • 2d ago
+
+---
+
+**[BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vrOZjn2ekqw)**
+
+BITCOIN PRICE TARGET CONFIRMED (This is Next)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 300 • 💬 127 • ⏱️ 22:03 • 10h ago
+
+---
+
+**[ETH BREAKOUT OR FAKEOUT? (Ethereum Update)](https://www.youtube.com/watch?v=Fj1Nkx0G9nY)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 98 • 👍 12 • 💬 1 • ⏱️ 4:24 • 3h ago
 
 ---
 
@@ -296,7 +306,7 @@ Join - https://www.skool.com/discovercrypto/about ​​If you have ever made mo
 
 📺 Discover Crypto
 
-👁️ 10K • 👍 377 • 💬 52 • ⏱️ 1:04:53 • 16h ago
+👁️ 11K • 👍 379 • 💬 52 • ⏱️ 1:04:53 • 20h ago
 
 ---
 
@@ -306,17 +316,7 @@ ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Somet
 
 📺 D.I.Y Investing
 
-👁️ 4K • 👍 133 • 💬 22 • ⏱️ 15:04 • 13h ago
-
----
-
-**[&quot;Largest Altcoin Bull Run Of All Time Is Loading&quot; XRP &amp; Ethereum Are Going To Make People VERY Happy](https://www.youtube.com/watch?v=BeEcO2-ebfY)**
-
-You heard it here first. What is expected to be the largest and most intense altcoin bull run of all time is on its way.
-
-📺 The Modern Investor
-
-👁️ 17K • 👍 979 • 💬 254 • ⏱️ 28:10 • 2d ago
+👁️ 4K • 👍 141 • 💬 26 • ⏱️ 15:04 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 12K • 👍 848 • 💬 379 • ⏱️ 31:34 • 23h ago
+👁️ 12K • 👍 854 • 💬 395 • ⏱️ 31:34 • 1d ago
 
 ---
 
