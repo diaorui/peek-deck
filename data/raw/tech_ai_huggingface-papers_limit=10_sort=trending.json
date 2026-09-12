@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 3428,
+      "github_stars": 3733,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87494,
+      "github_stars": 87580,
       "project_page": null
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.10522",
       "arxiv_url": "https://arxiv.org/abs/2609.10522",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 135,
+      "upvotes": 136,
       "num_comments": 3,
       "published_at": "2026-09-08T20:00:00.000Z",
       "github_repo": "https://github.com/showlab/Show-Harness",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 209,
+      "upvotes": 210,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
@@ -134,6 +134,25 @@
       "project_page": null
     },
     {
+      "id": "2609.08977",
+      "title": "Omni Interaction Agent Technical Report",
+      "authors": "Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, speech, and text, enabling natural full-duplex interaction in both everyday conversations and complex workflow-oriented agent scenarios. Users can interrupt the model at any time, while the model can also proactively provide intermediate feedback or ask follow up questions. To natively support these capabilities, Gander adopts two key architectural designs: 1) It employs a Cerebellum-Brain collaborative framework, in which the Cerebellum is responsible for realtime interaction and omni conversational capabilities, while the Brain handles complex reasoning and higher-level agentic tasks. The two components interact continuously through tool calling and the agent orchestration runtime. 2) The Cerebellum is built upon a streaming Thinker-Talker architecture, user inputs and model outputs are further flattened into an ordered token stream at the chunk level, providing a unified representation for low latency, continuous interaction. We conduct comprehensive evaluations of Gander across four dimensions: conversational ability, omni understanding, interactive capability, and agentic intelligence. Internal human evaluations demonstrate that Gander maintains the natural and expressive spoken dialogue capabilities of SOTA open source models while achieving competitive performance in omni interaction. Gander also demonstrates robustness in challenging real-world scenarios, including background noise interference, multi-party interactions, and backchannel communication. We release Gander together with its models, code, and data to facilitate further research and development in the community.",
+      "ai_summary": "Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.",
+      "hf_url": "https://huggingface.co/papers/2609.08977",
+      "arxiv_url": "https://arxiv.org/abs/2609.08977",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08977.png",
+      "upvotes": 126,
+      "num_comments": 2,
+      "published_at": "2026-09-07T20:00:00.000Z",
+      "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
+      "github_stars": 177,
+      "project_page": "https://omni-interaction-gander.github.io/Omni-Interaction-Agent/"
+    },
+    {
       "id": "2403.08299",
       "title": "AutoDev: Automated AI-Driven Development",
       "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
@@ -149,27 +168,8 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 22959,
+      "github_stars": 23007,
       "project_page": null
-    },
-    {
-      "id": "2609.08977",
-      "title": "Omni Interaction Agent Technical Report",
-      "authors": "Orantqing, Shengpeng Ji, Junlong Tong et al. (23 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "In this work, we present Gander, an end-to-end model that unifies omni perception, realtime interaction, and agentic capabilities within a single framework. In contrast to turn-based conventional paradigms, Gander continuously receives streaming inputs across multiple modalities, including video, speech, and text, enabling natural full-duplex interaction in both everyday conversations and complex workflow-oriented agent scenarios. Users can interrupt the model at any time, while the model can also proactively provide intermediate feedback or ask follow up questions. To natively support these capabilities, Gander adopts two key architectural designs: 1) It employs a Cerebellum-Brain collaborative framework, in which the Cerebellum is responsible for realtime interaction and omni conversational capabilities, while the Brain handles complex reasoning and higher-level agentic tasks. The two components interact continuously through tool calling and the agent orchestration runtime. 2) The Cerebellum is built upon a streaming Thinker-Talker architecture, user inputs and model outputs are further flattened into an ordered token stream at the chunk level, providing a unified representation for low latency, continuous interaction. We conduct comprehensive evaluations of Gander across four dimensions: conversational ability, omni understanding, interactive capability, and agentic intelligence. Internal human evaluations demonstrate that Gander maintains the natural and expressive spoken dialogue capabilities of SOTA open source models while achieving competitive performance in omni interaction. Gander also demonstrates robustness in challenging real-world scenarios, including background noise interference, multi-party interactions, and backchannel communication. We release Gander together with its models, code, and data to facilitate further research and development in the community.",
-      "ai_summary": "Gander is an end-to-end framework that integrates continuous multi-modal streaming, real-time full-duplex interaction, and agentic reasoning through a Cerebellum-Brain architecture and a chunk-level token stream design.",
-      "hf_url": "https://huggingface.co/papers/2609.08977",
-      "arxiv_url": "https://arxiv.org/abs/2609.08977",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08977.png",
-      "upvotes": 125,
-      "num_comments": 2,
-      "published_at": "2026-09-07T20:00:00.000Z",
-      "github_repo": "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent",
-      "github_stars": 177,
-      "project_page": "https://omni-interaction-gander.github.io/Omni-Interaction-Agent/"
     },
     {
       "id": "2608.23283",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-12T03:27:58.427325+00:00"
+  "fetched_at": "2026-09-12T08:06:09.672677+00:00"
 }
