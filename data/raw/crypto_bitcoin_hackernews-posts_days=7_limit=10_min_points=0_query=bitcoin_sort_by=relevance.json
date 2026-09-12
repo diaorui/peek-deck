@@ -75,6 +75,20 @@
       "site_name": "theregister"
     },
     {
+      "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
+      "url": "https://beincrypto.com/revolut-data-breach-fake-government-request/",
+      "hn_url": "https://news.ycombinator.com/item?id=49670849",
+      "author": "Daniel_sk",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-09-12T10:12:56Z",
+      "object_id": "49670849",
+      "image": "https://assets.beincrypto.com/img/kPda0N9r0E7m33vKKtTzVC3qfL8=/1200x630/smart/filters:format(jpeg):quality(82)/5794a8b2db9e4862ae9bc2de34e2215c",
+      "description": "Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.",
+      "favicon": "https://beincrypto.com/apple-touch-icon.png",
+      "site_name": "BeInCrypto"
+    },
+    {
       "title": "Bitcoin mining data center condemned after leaking 3M gallons of water",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
       "hn_url": "https://news.ycombinator.com/item?id=49588413",
@@ -101,20 +115,6 @@
       "description": "Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.",
       "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-Favicon-1-240x240.png",
       "site_name": "Gadget Review"
-    },
-    {
-      "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
-      "url": "https://beincrypto.com/revolut-data-breach-fake-government-request/",
-      "hn_url": "https://news.ycombinator.com/item?id=49670849",
-      "author": "Daniel_sk",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-09-12T10:12:56Z",
-      "object_id": "49670849",
-      "image": "https://assets.beincrypto.com/img/kPda0N9r0E7m33vKKtTzVC3qfL8=/1200x630/smart/filters:format(jpeg):quality(82)/5794a8b2db9e4862ae9bc2de34e2215c",
-      "description": "Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.",
-      "favicon": "https://beincrypto.com/apple-touch-icon.png",
-      "site_name": "BeInCrypto"
     },
     {
       "title": "The Liquid Network (Bitcoin sidechain) is stuck at block 4050335",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2026-09-12T15:44:19.880748+00:00"
+  "fetched_at": "2026-09-12T18:09:21.992236+00:00"
 }

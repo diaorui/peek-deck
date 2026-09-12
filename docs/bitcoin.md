@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-12T15:44:46.480632+00:00'
+updated: '2026-09-12T18:09:43.824298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 15:44 UTC  
+**Last Updated:** September 12, 2026 at 18:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -3.6%  
-**30d:** +22.8%  
-**90d:** +16.7%  
-**1y:** -33.2%  
+**24h:** -0.2%  
+**7d:** -3.9%  
+**30d:** +22.5%  
+**90d:** +16.4%  
+**1y:** -33.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1554.57B
+**Market Cap:** $1549.92B
 Rank #1
 
-**Circulating Supply:** 20,083,337 BTC
+**Circulating Supply:** 20,083,390 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.6%
+-38.8%
 
 **All-Time Low:** $67.81
-+114045.4%
++113709.2%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Lambos are temporary, the dip is forever.](https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/)**
 
-3h ago
+6h ago
 
 ---
 
 **[Bears don’t stand a chance](https://www.reddit.com/r/Bitcoin/comments/1we6azq/bears_dont_stand_a_chance/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 How do these work? Have you ever tried using one?
 
-13h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ How do these work? Have you ever tried using one?
 
 **[Normies and Bitcoiners](https://www.reddit.com/r/Bitcoin/comments/1wdr4i2/normies_and_bitcoiners/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ How do these work? Have you ever tried using one?
 
 With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus
 
-12h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ With everything that's been going on lately I felt like there was nothing we cou
 
 Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I’m curious where the sentiment is: - ​Timeline: Are you expecting the bottom in the next few months or dragging into next year? - ​Signals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - ​Playbook: DCA'ing now, or sitting on cash waiting for a deeper dump? ​Not asking for financial advice, just curious how everyone's positioning
 
-10h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Som
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+11h ago
 
 ---
 
@@ -151,29 +151,37 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Bitcoin activity, passports exposed after Revolut falls for fake government request](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request)**
 
-CoinDesk • 4h ago
+CoinDesk • 7h ago
 
 ---
 
 **[White House Issues Serious Crypto Warning—Bitcoin Price On The Brink Of $8 Trillion Shock](https://www.forbes.com/sites/digital-assets/2026/09/12/white-house-issues-serious-crypto-warning-bitcoin-price-on-the-brink-of-8-trillion-shock/)**
 
-Forbes • 4h ago
+Forbes • 6h ago
 
 ---
 
-**[Will the Fed Raise Rates on September 16? Polymarket Now Says 83%. Here’s What It Means for XRP and Bitcoin](https://finance.yahoo.com/markets/crypto/articles/fed-raise-rates-september-16-124522934.html)**
+**[Strategy CEO Says Banks Pushed Firm To Selling Bitcoin: ‘Never Sell’ Was Never A Rule](https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-says-banks-pushed-160530307.html)**
 
-Polymarket odds on a September Fed hike have nearly tripled in three weeks, and the 10-year Treasury is already moving like the decision is done. What that tightening path does to XRP and Bitcoin on meeting day depends entirely on which outcome traders have stopped pricing in.
+Strategy CEO Phong Le said that banks pushed the company to show it was willing to sell Bitcoin before treating the asset as usable collateral.
 
-finance.yahoo.com • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Tom Lee Says ‘Economists Are Fighting Last Year’s Wars’ As Fundstrat’s 2% Bitcoin Bet Swells To 85%](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-economists-fighting-140006981.html)**
+**[Zcash Is Leaving Bitcoin In The Dust As ZEC Surges To 9-Year High With Miners Cashing In](https://finance.yahoo.com/markets/crypto/articles/zcash-leaving-bitcoin-dust-zec-154338122.html)**
 
-Tom Lee said inflation may be less severe than economists think while he remained bullish on Ethereum.
+Grayscale's Zcash ETP attracted $179 million in 11 trading days with its total asset under management reaching nearly $700 million, supporting Zcash's surge.
 
-finance.yahoo.com • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[US House Panel To Vote On Crypto Tax Rules That Could Reshape Bitcoin Mining And Trading](https://finance.yahoo.com/markets/crypto/articles/us-house-panel-vote-crypto-172620772.html)**
+
+The U.S. House Ways and Means Committee is set to vote on a package of crypto tax bills on September 16.
+
+Yahoo Finance • 43m ago
 
 ---
 
@@ -187,7 +195,7 @@ The New York Times • 3d ago
 
 Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
@@ -201,15 +209,7 @@ Reuters • 1d ago
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree with the laundered proceeds.
 
-CNN • 2d ago
-
----
-
-**[Strategy Sold Bitcoin at $60K and Then Bought It at $80K. That's Why I'm Not Buying Bitcoin Treasury Companies Right Now.](https://www.fool.com/investing/2026/09/12/strategy-sold-bitcoin-at-60k-and-then-bought-it-at/)**
-
-Right now, Bitcoin treasury companies are a clear stay-away.
-
-The Motley Fool • 5h ago
+cnn.com • 2d ago
 
 ---
 
@@ -227,7 +227,7 @@ Bloomberg.com • 1d ago
 
 Neha Narula
 
-⬆️ 7 • 💬 1 • 4d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
+⬆️ 7 • 💬 1 • 5d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -235,7 +235,7 @@ Neha Narula
 
 Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
 
-⬆️ 6 • 💬 0 • 4h ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
+⬆️ 6 • 💬 0 • 7h ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
 
 ---
 
@@ -263,11 +263,19 @@ Self-described white hats promise to return 'most' of the 4,000 BTC once the vul
 
 ---
 
+**[Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://news.ycombinator.com/item?id=49670849)**
+
+Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.
+
+⬆️ 4 • 💬 0 • 7h ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
+
+---
+
 **[Bitcoin mining data center condemned after leaking 3M gallons of water](https://news.ycombinator.com/item?id=49588413)**
 
 Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
 
-⬆️ 4 • 💬 0 • 5d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
+⬆️ 4 • 💬 0 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
 
 ---
 
@@ -275,15 +283,7 @@ Oklahoma, El Reno city asserts that none of the costs related to the water leak 
 
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
-⬆️ 3 • 💬 0 • 41m ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
-
----
-
-**[Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://news.ycombinator.com/item?id=49670849)**
-
-Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.
-
-⬆️ 3 • 💬 0 • 5h ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
+⬆️ 3 • 💬 0 • 3h ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -297,7 +297,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 **[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
 
-⬆️ 1 • 💬 1 • 1h ago
+⬆️ 1 • 💬 1 • 3h ago
 
 ---
 
@@ -305,13 +305,23 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 15K • 👍 1K • 💬 36 • ⏱️ 53:38 • 5h ago
+
+---
+
 **[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
 
 Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 301 • ⏱️ 11:37 • 17h ago
+👁️ 57K • 👍 2K • 💬 329 • ⏱️ 11:37 • 20h ago
 
 ---
 
@@ -331,7 +341,17 @@ There are three ways Bitcoin could go hyperbolic, and only one of them requires 
 
 📺 Swan Bitcoin
 
-👁️ 18K • 👍 509 • 💬 77 • ⏱️ 12:44 • 19h ago
+👁️ 19K • 👍 524 • 💬 78 • ⏱️ 12:44 • 22h ago
+
+---
+
+**[Bitcoin&#39;s Mythical Supercycle Is Finally Starting](https://www.youtube.com/watch?v=KBWfKENxs1U)**
+
+When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator with 5 of the top Bitcoin forecast models built in ...
+
+📺 Mark Moss
+
+👁️ 112K • 👍 2K • 💬 395 • ⏱️ 45:54 • 1d ago
 
 ---
 
@@ -341,17 +361,7 @@ Warsh is delivering the FOMC decision RIGHT NOW at 2PM ET. Bitcoin at $77005 goi
 
 📺 The Calm Investor
 
-👁️ 7K • 👍 72 • 💬 83 • ⏱️ 18:28 • 21h ago
-
----
-
-**[Why $800K Bitcoin Targets Miss the Real Story](https://www.youtube.com/watch?v=otZ6P3iAZAY)**
-
-Cake Wallet founder and CEO Vik Sharma reflects on why expecting an $800000 Bitcoin price target was over-optimistic. Despite ...
-
-📺 Natalie Brunell
-
-👁️ 6K • 👍 90 • 💬 19 • ⏱️ 0:52 • 20h ago
+👁️ 8K • 👍 77 • 💬 84 • ⏱️ 18:28 • 23h ago
 
 ---
 
@@ -361,27 +371,27 @@ Get my indicators: https://rt1m.com/indicators Kraken 10% Cashback on Trading Fe
 
 📺 Road To $1 Million USD
 
-👁️ 8K • 👍 265 • 💬 35 • ⏱️ 9:37 • 17h ago
+👁️ 9K • 👍 272 • 💬 36 • ⏱️ 9:37 • 20h ago
 
 ---
 
-**[Robinhood CEO Caught &#39;Physically Squirming&#39; When Asked About Crypto Tokenization on CNBC](https://www.youtube.com/watch?v=AqM1Mx-Nwec)**
+**[Bitcoin&#39;s True Promise: Freedom for Billions!](https://www.youtube.com/watch?v=KclnYk0yhes)**
 
-WEEX AI Wars ($100K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
+Hurley talks about Bitcoin's True Promise: Freedom for Billions! Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
 
-📺 Altcoin Daily
+📺 Simply Bitcoin
 
-👁️ 69K • 👍 2K • 💬 100 • ⏱️ 10:31 • 1d ago
+👁️ 509 • 👍 39 • 💬 6 • ⏱️ 1:06 • 2h ago
 
 ---
 
-**[Why Bitcoin Doesn&#39;t Need the Dollar to Fail #bitcoin #investing #money](https://www.youtube.com/watch?v=-80M_bFiw5U)**
+**[Why $800K Bitcoin Targets Miss the Real Story](https://www.youtube.com/watch?v=otZ6P3iAZAY)**
 
-There are three ways Bitcoin could go hyperbolic, and only one of them requires the dollar to break. Cory Klippsten makes the ...
+Cake Wallet founder and CEO Vik Sharma reflects on why expecting an $800000 Bitcoin price target was over-optimistic. Despite ...
 
-📺 Swan Bitcoin
+📺 Natalie Brunell
 
-👁️ 818 • 👍 40 • 💬 52 • ⏱️ 2:51 • 17h ago
+👁️ 7K • 👍 100 • 💬 20 • ⏱️ 0:52 • 23h ago
 
 ---
 
@@ -391,17 +401,7 @@ Unlock my TradingView Indicators! https://rt1m.com/indicators Watch my Free Trad
 
 📺 Road To $1 Million USD
 
-👁️ 9K • 👍 313 • 💬 38 • ⏱️ 9:48 • 1d ago
-
----
-
-**[Why Today’s CPI Result Is BIG Indicator for Bitcoin!](https://www.youtube.com/watch?v=VCzX8uCezik)**
-
-Bitcoin is holding strong while global markets buckle under macro pressure. In this show, Ran Neuner breaks down why hot ...
-
-📺 Crypto Banter
-
-👁️ 43K • 👍 1K • 💬 43 • ⏱️ 29:08 • 1d ago
+👁️ 9K • 👍 314 • 💬 38 • ⏱️ 9:48 • 1d ago
 
 ---
 

@@ -5,36 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOEw0b2pDcnc1a0lwSW52OHFnazc4Q1RIMVZFbXZoajlORm4zenpOODBpcmh5VUptcWo1V1g4OURiX3h1cXZSNjVUTE1yT05EYkUzcHMyQVpUaUxHa3JjMWdlV1RySTUtLWhuMjlEc0ZWdw?oc=5",
-      "pub_date": 1789129020.0,
-      "article_url": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why the AI race has its creators fearing human extinction",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTWtHNERvOUJaQ0Z4Yk5XdWgzYXpqU1lIX2p6MnIwdDBLNk0tWEhxZ2pTeTdmNWdnUW5fUXdEdm5CbVlURUgtVEd0a3RicEFaOUxVd2ljUERWSk9DVEhsb3NlbkZ0MmNfUExoMVRYYkFUb3VTU3c5clJpYlNJdWh2MTIyLV8?oc=5",
-      "pub_date": 1789143074.0,
-      "article_url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F764fb1e3-7fde-429a-94a8-20ca52ad9553.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream"
-    },
-    {
-      "headline": "Coxon\u2019s AI Warning Is Mainstream. Now What?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVks3NjV1OG1JaWhLdTM4dGFwaVd1by1Wd0x2bnZ2bjlFU2RLa2FKMXphWHJSZHdfSFNRTldqb2FtVWVLemNvYkhVTkhXTTNEQ3lISE5zZGk5WmdRLXRfWl9BcGhtd0wyX25kSFVRVzVsZnc1emU5TWdCdkh0QTIzZ0xoVHh1QUsxdUZ4UXpuWjhPRkJ4MFVIUS13?oc=5",
-      "pub_date": 1789223428.0,
-      "article_url": "https://www.forbes.com/sites/hamiltonmann/2026/09/12/coxons-ai-warning-is-mainstream-now-what/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "We Must Pace the Frontier",
       "source": "darioamodei.com",
       "source_url": "https://darioamodei.com",
@@ -45,48 +15,38 @@
       "description": null
     },
     {
+      "headline": "Better AI Chip Stock: Broadcom vs. Nvidia",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWVISUF0SDAwUlNZM2FZSWlHZE9qMlVJOUo4UjMxQzFaVjk0a3BUSXVWc0RJS1paRnJ4QmJpc3FheDBoV2tneU1PZkxqVnpGLTB5WVRXUTBIcktQLWhxSE0tS2xGZ2RhNWxnUzRlcnAyUWV3OUFCNlVrRFZFWDlrMjZTeTA0MFJQOXlZbXRkZTdqSk8yNkFnNg?oc=5",
+      "pub_date": 1789235160.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/better-ai-chip-stock-broadcom-174600948.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e809422673aead6b926f573932393996e611baac4ebef8e92d77cf8c5395cb28/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fb8b7712e960ef880893cef906578d4b5.jpg",
+      "description": "Nvidia and Broadcom both benefit from the AI infrastructure boom, but one is still a better stock pick."
+    },
+    {
       "headline": "Anthropic CEO calls for \u2018pacing the frontier\u2019 of AI race amid safety concerns",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWkVaSWZ5cFk1S1hPOHJxeHU3b1ptZzgzYS1JMHZhczhjN2dXaDR2WnpJS0drTzRQekpPSmFGRTVPQVl2ZkJDbVVINVM3dXk1UjFnMzlkdTM1T0lFcHRWa1R4QjlOUU5GVHc?oc=5",
-      "pub_date": 1789222578.0,
-      "article_url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280291575.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Amodei\u2019s essay comes on the heels of an Anthropic researcher\u2019s resignation over concerns that the firm and its competitors are not acting responsibly with AI development."
+      "source": "WMUR",
+      "source_url": "https://www.wmur.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3pCdXFFakZpQnRnVl9SY2xDVVJGbHg4S2ItV1ZZZlMtYWdjc1NsbGFZMlcyLWFFcmtSYTM1NGp5QTRYVnZzWFlNQzllMmYwMkxaUVBzYWFITEVtY2hrZXZiZF9oSk5PbzM5TURybTFJQmZXLXhfWE5LSzRaY0pSQnNFcGJkMmc?oc=5",
+      "pub_date": 1789235100.0,
+      "article_url": "https://www.wmur.com/article/anthropic-ai-ceo-slow-down-safety-concerns/73700143",
+      "image": "https://kubrick.htvapps.com/htv-prod/images/b3818a8d-3209-4867-9e04-939aa53cb450.jpg?crop=1.00xw%3A0.847xh%3B0%2C0.0120xh&resize=1200%3A*",
+      "description": "The race to develop artificial intelligence is in dire need of a slowdown, Anthropic\u2019s chief executive said in an essay posted early Saturday."
     },
     {
-      "headline": "Anthropic CEO calls for the AI industry to slow down",
-      "source": "washingtonpost.com",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5",
-      "pub_date": 1789227357.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/12/anthropic-ceo-dario-amodei-calls-ai-industry-slow-down/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/USMFSHJVB56LOV3LHA3GT67DMQ.jpg&w=1440",
-      "description": "Anthropic CEO Dario Amodei said he was worried about the ability to control self-improving AI models."
-    },
-    {
-      "headline": "AI virtual cell uses protein dynamics to predict personalized breast cancer treatments",
-      "source": "Medical Xpress",
-      "source_url": "https://medicalxpress.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXZqWFdGN1NhSnJQR29hbHh1bDNvR0xsZk8wekRCRjloaDZjT3hsSURNd1JpbVFVekc0Qm1BQVNjZE5Wc1JDNEM2RWFsNFhCRWZFY3pCWnhvTGFlWi0zR3V2TVhrTDYwMkkycWhfRzNUX3JwNGxkUHpzWmlieWRrLWRB?oc=5",
-      "pub_date": 1789226401.0,
-      "article_url": "https://medicalxpress.com/news/2026-09-ai-virtual-cell-protein-dynamics.html",
+      "headline": "OpenAI reveals another rogue AI attack",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
+      "pub_date": 1789175040.0,
+      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
       "image": null,
       "description": null
     },
     {
-      "headline": "You Already Have a Digital Twin. Are You in Control?",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREN5c3VPXzhQdTZZNnc4cDZqOExZUjhqM1R3ZDY2NUVwamZmbGw0bnRzRGEyVHFlWHVVdk5Wak52U21abVNnNHJMbTJ1QU90d01zWXdNVzBPaDEtT09aMm83M1hkenFJRGE0ZzB2UzJLSjdWV19XWGJmRGJQb1RLZHlyRGRrbjhGbzBaZkJucmpsMWttNjZHV0pMVG5wWHFtcWpITXIweVktMjd3YVNJ?oc=5",
-      "pub_date": 1789225875.0,
-      "article_url": "https://www.inc.com/entrepreneurs-organization/you-already-have-a-digital-twin-but-are-you-in-control/91402700",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/GettyImages-1924349815.jpg",
-      "description": "Leaders are build a digital twin through their data. The key is deciding whether AI reflects their best self or most reactive moments."
-    },
-    {
       "headline": "Detecting and countering misuse of AI: September 2026",
-      "source": "Anthropic",
+      "source": "anthropic.com",
       "source_url": "https://www.anthropic.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
       "pub_date": 1789060227.0,
@@ -103,8 +63,48 @@
       "article_url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
+      "pub_date": 1789134540.0,
+      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Europe eyes battle over 'pervert' AI glasses",
+      "source": "afp.com",
+      "source_url": "https://www.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uelJLSE04cHpCNDFSWUhmQWlyNXE3X1ZTTlBMQ0JMcUFlZ1RSN3JqVHJWQkJTVkdxc1JQdFo3U1VEalNZSHBXb0pKak5LTE90UWlnVU9yZUtnR1YtZTV6MGtkUEhaZVJlbnNzNE9OTm9tbEk?oc=5",
+      "pub_date": 1789194319.0,
+      "article_url": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
+      "image": "https://www.afp.com/sites/default/files/styles/afp_mea/public/afp-stories/822df833cb47e1eccf1d835a7542ed37-0.jpg?itok=WYbYOl6y",
+      "description": "Calls are growing louder in Europe for action against \"pervert\" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain..."
+    },
+    {
+      "headline": "House Democrats urge Speaker Johnson to cancel recess to pass AI safeguards, citing \u2018catastrophic\u2019 risk",
+      "source": "cnn.com",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aVB2S2lrdE9FdF9LV3Z1NEI0b2R5VXVhR3NZcGNUQUYxVzlHRXpVdlZlY3MtUWtZeUtHUGpCV1YzTzc2Nm5FbEg0a0RlLXNUZnBrWmE5MURyeWhWTFhzcHk4NE1sTl9ITExqbzl1NXlvQVYxY2Zz?oc=5",
+      "pub_date": 1789162725.0,
+      "article_url": "https://www.cnn.com/2026/09/11/politics/mike-johnson-house-recess-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2293016693.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A group of House Democratic lawmakers is pressuring Speaker Mike Johnson to reconvene the chamber immediately and cancel an upcoming break to address what they describe as the \u201ccatastrophic risk posed by advanced artificial intelligence.\u201d"
+    },
+    {
+      "headline": "Behind the Curtain: It's not too late",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iSVJnVDhYczVoWkRhcTFpMXpOLUJGb1Q5N01wMkFYM3AycFU2MWJuRmpCY0doOUNyN0dtY2RLQnR5SE9OblhuMjV4N0k4N1pGTWV0WEhnS0hfWXNIeGdJbl9WS0dGT29yaERadVNvYjE?oc=5",
+      "pub_date": 1789214641.0,
+      "article_url": "https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T15:44:44.769333+00:00"
+  "fetched_at": "2026-09-12T18:09:37.183820+00:00"
 }
