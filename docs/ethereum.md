@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-12T22:52:23.163461+00:00'
+updated: '2026-09-13T00:39:07.734076+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 22:52 UTC  
+**Last Updated:** September 13, 2026 at 00:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,524.89
+### $2,525.37
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +0.3%  
-**30d:** +34.0%  
-**90d:** +40.4%  
-**1y:** -45.7%  
+**24h:** +0.5%  
+**7d:** +1.4%  
+**30d:** +34.1%  
+**90d:** +41.0%  
+**1y:** -45.2%  
 
 ---
 
@@ -162,15 +162,15 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum staking fees vary widely, with providers taking 0-50% of rewards, impacting net yields significantly.](https://pluang.com/en/news-feed/biaya-staking-ethereum-perbandingan-14-penyedia)**
+**[Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86.5%.](https://pluang.com/en/news-feed/bitcoin-ethereum-dan-xrp-tertekan-karena-peluang-kenaikan-suku-bunga-fed)**
 
-A survey of 14 Ethereum staking providers accessible in Germany reveals that only five clearly state their commission fees, which range from 0% to 50% depending on the reward component. The network's annual percentage rate (APR) was 2.46% on September 12, 2026, meaning commissions can significantly reduce investors' net returns. Providers often split fees between consensus layer rewards and execution layer tips (MEV), making comparisons complex. Many popular custodians like Kraken and Bitpanda do not disclose exact fees upfront, complicating transparency. Investors should verify commission rates in writing, consider waiting times in the staking queue, and understand tax implications before staking Ethereum.
+Bitcoin, Ethereum, and XRP are under pressure due to rising expectations of a Federal Reserve interest rate hike at the September 15-16 meeting, with an 86.5% chance of a 25 basis point increase. This would be the Fed's first rate hike in three years, potentially tightening financial conditions for risk assets like cryptocurrencies. Despite this, Bitcoin's outlook remains positive with potential for further gains after consolidation, Ethereum is testing key resistance levels, and XRP is more vulnerable but may recover if key support holds. Traders are closely watching the Fed decision as higher rates could dampen crypto momentum.
 
-Pluang • 3h ago
+Pluang • 33m ago
 
 ---
 
@@ -178,7 +178,7 @@ Pluang • 3h ago
 
 The likelihood of a Federal Reserve interest rate hike on September 16 has surged to 86.5%, putting pressure on major cryptocurrencies like Bitcoin, Ethereum, and XRP. This potential rate increase is driven by rising U.S. inflation data, which has unsettled crypto markets. Bitcoin is consolidating near key resistance levels, Ethereum eyes a move toward $3,000 if it breaks current resistance, while XRP struggles to hold critical support at $1.35 amid whale selling and reduced network activity. The Fed's decision will significantly impact borrowing costs and risk assets, making the upcoming meeting crucial for crypto traders.
 
-Pluang • 20m ago
+Pluang • 2h ago
 
 ---
 
@@ -186,13 +186,21 @@ Pluang • 20m ago
 
 The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
 
-Fortune • 3d ago
+fortune.com • 3d ago
 
 ---
 
 **[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
 
-CoinDesk • 2d ago
+coindesk.com • 2d ago
+
+---
+
+**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
+
+DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
+
+markets.businessinsider.com • 17h ago
 
 ---
 
@@ -204,27 +212,19 @@ TradingView • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
-
-DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
-
-markets.businessinsider.com • 15h ago
-
----
-
 **[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
 
 Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
 
-blockchain.news • 5h ago
+blockchain.news • 7h ago
 
 ---
 
-**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
+**[Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…](https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/)**
 
-A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
+Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-CryptoSlate • 1d ago
+AMBCrypto • 38m ago
 
 ---
 
@@ -238,7 +238,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 17K • 👍 482 • 💬 60 • ⏱️ 7:35 • 10h ago
+👁️ 17K • 👍 482 • 💬 60 • ⏱️ 7:35 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 783 • 👍 66 • 💬 10 • ⏱️ 21:47 • 6h ago
+👁️ 783 • 👍 66 • 💬 10 • ⏱️ 21:47 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 23K • 👍 420 • 💬 130 • ⏱️ 22:54 • 21h ago
+👁️ 23K • 👍 420 • 💬 130 • ⏱️ 22:54 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ ETH could push towards $2750 before a deeper pullback. A break above $2545–$25
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 283 • 💬 11 • ⏱️ 12:26 • 1d ago
+👁️ 13K • 👍 283 • 💬 11 • ⏱️ 12:26 • 2d ago
 
 ---
 
