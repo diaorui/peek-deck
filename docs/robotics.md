@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-13T21:02:25.039335+00:00'
+updated: '2026-09-13T23:20:58.136546+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 13, 2026 at 21:02 UTC  
+**Last Updated:** September 13, 2026 at 23:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 **[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -134,7 +134,15 @@ CNBC • 2d ago
 
 **[Humanoid Robots And The Cyborg Future Of Human-Machine Integration](https://www.forbes.com/sites/chuckbrooks/2026/09/13/humanoid-robots-and-the-cyborg-future-of-human-machine-integration/)**
 
-Forbes • 1h ago
+Forbes • 3h ago
+
+---
+
+**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
+
+Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
+
+Interesting Engineering • 9h ago
 
 ---
 
@@ -158,19 +166,9 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
-**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
+**[UT Austin launches $30 million effort to study what happens when robots move into everyday life](https://www.kxan.com/news/local/ut-austin-launches-30-million-effort-to-study-what-happens-when-robots-move-into-everyday-life/)**
 
-New tactile datasets could solve a longstanding challenge in robotics
-
-IEEE Spectrum • 3d ago
-
----
-
-**[How a Texas A&M professor’s 9/11 mission sparked a revolution in disaster robotics](https://www.kbtx.com/2026/09/12/how-texas-am-professors-911-mission-sparked-revolution-disaster-robotics/)**
-
-Pioneer in disaster robotics Dr. Robin Murphy reflects on deploying experimental robots at ground zero after the Sept. 11 attacks.
-
-KBTX News 3 • 1d ago
+KXAN Austin • 2d ago
 
 ---
 
@@ -206,13 +204,23 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 ---
 
+**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
+
+Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
+
+📺 Expand Knowledge
+
+👁️ 77K • 👍 828 • 💬 75 • ⏱️ 26:26 • 4d ago
+
+---
+
 **[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
 
 The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
 
 📺 States 2050
 
-👁️ 673K • 👍 10K • 💬 533 • ⏱️ 23:25 • 5d ago
+👁️ 678K • 👍 10K • 💬 534 • ⏱️ 23:25 • 5d ago
 
 ---
 
@@ -222,7 +230,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 68K • 👍 280 • 💬 66 • ⏱️ 3:39 • 4d ago
+👁️ 69K • 👍 283 • 💬 66 • ⏱️ 3:39 • 4d ago
 
 ---
 
@@ -242,7 +250,7 @@ In August 2026, Beijing's National Speed Skating Oval transformed from a Winter 
 
 📺 Gain Theory
 
-👁️ 97K • 👍 941 • 💬 43 • ⏱️ 21:36 • 4d ago
+👁️ 97K • 👍 943 • 💬 43 • ⏱️ 21:36 • 4d ago
 
 ---
 
@@ -252,7 +260,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 62K • 👍 2K • 💬 513 • ⏱️ 13:22 • 2d ago
+👁️ 66K • 👍 2K • 💬 522 • ⏱️ 13:22 • 2d ago
 
 ---
 
@@ -262,7 +270,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 422K • 👍 4K • 💬 334 • ⏱️ 5:52 • 4d ago
+👁️ 429K • 👍 4K • 💬 336 • ⏱️ 5:52 • 4d ago
 
 ---
 
@@ -272,17 +280,7 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 610K • 👍 3K • 💬 1K • ⏱️ 2:28 • 1d ago
-
----
-
-**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
-
-Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
-
-📺 Sky News
-
-👁️ 36K • 👍 202 • 💬 145 • ⏱️ 6:28 • 5d ago
+👁️ 653K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
 
 ---
 
