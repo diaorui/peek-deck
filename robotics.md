@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-13T14:59:39.864884+00:00'
+updated: '2026-09-13T18:04:53.172898+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 13, 2026 at 14:59 UTC  
+**Last Updated:** September 13, 2026 at 18:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T o
 
 I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
 
-18h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’m not sure if I’m tagging this correctly, but I came across this post by a
 
 Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue… a few things we’ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I’m curious about the small, awkward tasks that don’t usually make it into robot demos.
 
-21h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissu
 
 I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic.
 
-22h ago
+1d ago
 
 ---
 
@@ -82,7 +82,7 @@ Get all of the best open source robotics projects, repositories, events, and ann
 
 For robots to truly enter our homes, they need hands that are not only capable — but also soft and safe. SoftSync FlexHand V1 can gently handle delicate objects like tofu, eggs, buns, and strawberries, while its compliant structure also enables safer physical interaction with people and everyday objects. A softer hand for robots interacting with the real world. #SoftSyncFlexHand #EmbodiedAI #DexterousHand #SoftRobotics #HomeRobotics
 
-1d ago
+2d ago
 
 ---
 
@@ -114,15 +114,13 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-cnbc.com • 1d ago
+CNBC • 1d ago
 
 ---
 
-**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
+**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
-
-NVIDIA Blog • 2d ago
+Bloomberg.com • 3d ago
 
 ---
 
@@ -132,9 +130,11 @@ Reuters • 2d ago
 
 ---
 
-**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
 
-Bloomberg.com • 2d ago
+Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
+
+NVIDIA Blog • 3d ago
 
 ---
 
@@ -148,7 +148,7 @@ Gizmodo • 1d ago
 
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
-The Diplomat – Asia-Pacific Current Affairs Magazine • 1d ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
@@ -174,17 +174,27 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
+**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
 
-Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
+MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
 
-Interesting Engineering • 1h ago
+The Japan Times • 2d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
+
+Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, demonstrating fully autonomous robot combat ...
+
+📺 DPCcars
+
+👁️ 10K • 👍 68 • 💬 34 • ⏱️ 2:18 • 6d ago
+
+---
 
 **[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
 
@@ -196,13 +206,23 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 ---
 
-**[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
+**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
 
-Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, demonstrating fully autonomous robot combat ...
+We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
 
-📺 DPCcars
+📺 Milk Road Stocks
 
-👁️ 10K • 👍 68 • 💬 34 • ⏱️ 2:18 • 5d ago
+👁️ 14K • 👍 227 • 💬 24 • ⏱️ 48:57 • 6d ago
+
+---
+
+**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
+
+Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
+
+📺 Expand Knowledge
+
+👁️ 76K • 👍 819 • 💬 75 • ⏱️ 26:26 • 3d ago
 
 ---
 
@@ -212,17 +232,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 668K • 👍 10K • 💬 535 • ⏱️ 23:25 • 5d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 65K • 👍 269 • 💬 63 • ⏱️ 3:39 • 4d ago
+👁️ 670K • 👍 10K • 💬 532 • ⏱️ 23:25 • 5d ago
 
 ---
 
@@ -232,27 +242,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 58K • 👍 2K • 💬 484 • ⏱️ 13:22 • 1d ago
-
----
-
-**[SCARY AI Robots Right NOW, Inside IFA Next 2026: Next-Gen Humanoids](https://www.youtube.com/watch?v=QWDe5tHUVW4)**
-
-Join us on the floor at IFA Berlin 2026 as we explore Halle 25, "IFA Next"—the core showcase for cutting-edge Physical AI and ...
-
-📺 The Laughing Lion
-
-👁️ 9K • 👍 103 • 💬 65 • ⏱️ 37:45 • 2d ago
-
----
-
-**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
-
-Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
-
-📺 NBC News
-
-👁️ 544K • 👍 3K • 💬 997 • ⏱️ 2:28 • 1d ago
+👁️ 60K • 👍 2K • 💬 494 • ⏱️ 13:22 • 2d ago
 
 ---
 
@@ -266,23 +256,33 @@ Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speak
 
 ---
 
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 67K • 👍 274 • 💬 63 • ⏱️ 3:39 • 4d ago
+
+---
+
 **[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
 Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
 📺 XPENG
 
-👁️ 412K • 👍 4K • 💬 331 • ⏱️ 5:52 • 4d ago
+👁️ 418K • 👍 4K • 💬 334 • ⏱️ 5:52 • 4d ago
 
 ---
 
-**[Robot carnage! NHRL Pro Tour Round 2 KO Show is LIVE from New York City | 10am EST](https://www.youtube.com/watch?v=3hy0IWst58s)**
+**[We Weren&#39;t Ready for *ROBOT CHICKEN* Watching the Star Wars Special for the First Time!](https://www.youtube.com/watch?v=w1iILg6nqRA)**
 
-Professional Robot Fighting takes over NYC! The National Havoc Robot League is LIVE from Terminal 5 in New York City for ...
+EARLY ACCESS AND FULL LENGTH REACTIONS: https://www.patreon.com/doscavazos For Business Inquiries: ...
 
-📺 NHRL
+📺 Dos Cavazos
 
-👁️ 38K • 👍 473 • 💬 44 • ⏱️ 8:05:42 • 16h ago
+👁️ 118K • 👍 3K • 💬 379 • ⏱️ 17:55 • 4d ago
 
 ---
 
