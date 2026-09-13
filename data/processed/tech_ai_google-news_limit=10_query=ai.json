@@ -15,24 +15,64 @@
       "description": null
     },
     {
-      "headline": "AI could make holiday planning easier for overwhelmed travelers",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EdGFVaF8ta21XeXhObjdYUGhPNXdXWmw3ZnU5R2N3cEo4YmVFMVFEaDc4dE9zMUVQNTgzLVJ1Wm8yejQyS2N1VzRNTjl3cUpNN3FMME5BS1poS2loYldCdU4zT2RNakJsQVk3UlZheW5yZw?oc=5",
-      "pub_date": 1789259401.0,
-      "article_url": "https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html",
+      "headline": "China\u2019s Data Regulator Plans Standards Push for Embodied AI",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXNLVDluQlM5RlpUb1RyazQ0bTl0eHc3dWh1RnVtMVBqakFJWWVIbE1LZkNCQ3JqS1RfanVDdkpGZXB0YlNWcFdtZWx0ZU9fQjdGVmhCa3BxRHVDbWE1ejdQUjdOSVl1bllramFmYXprQkF4NzdaaFdBTUo4TWxfTFQ2VTdQcXhTQ1h2WU5tRVZ5bmI1cFJqQ0x0Y1ZlRlFHckNId0tCU3pocy13UzZj?oc=5",
+      "pub_date": 1789270140.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
       "image": null,
       "description": null
     },
     {
-      "headline": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FVjItcENBSE5fVXE2akkyM1pla1A3SE83NXMyQnA5SmwyOVN0NW93UUhsZlMyVVhJdWlYUVVJNHF0T29MNTBsZXpBMWhYMjJ2X2ZrS3l3am9RcUMzcmJ3X0pYVWxIelRXVVp2N1Zvck9xM3A2NzRJVnR0YVB5Zw?oc=5",
-      "pub_date": 1789221600.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
+      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2lvbFRfNmtTMXkzMlE0RVpXbzdzSmRLdjkyMzcweEM3TXZXM09tWENaVXNBelc5NWtGcm5WUG9jc1dkM1hRZzRtakdoR2EzWEZURy13NDhZcHpEczBJLTVLY3BDSXY5ZmhrTGUtYjdpUjFxaEhYNEthMS1OSF91NkRoSzFna0JpSlBRWnFZaWZ5MFpuMzZTNGNPTTdqVVNjVUQ1ZExRdkUwRllZd1lsMQ?oc=5",
+      "pub_date": 1789277220.0,
+      "article_url": "https://www.reuters.com/legal/government/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-2026-09-13/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
+      "pub_date": 1789273844.0,
+      "article_url": "https://www.bbc.com/news/articles/c1kx0gyje9wo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
+      "description": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in."
+    },
+    {
+      "headline": "Detecting and countering misuse of AI: September 2026",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "pub_date": 1789060227.0,
+      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
+      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
+    },
+    {
+      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
+      "pub_date": 1789134540.0,
+      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
+      "pub_date": 1789114525.0,
+      "article_url": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
     },
     {
       "headline": "Europe eyes battle over 'pervert' AI glasses",
@@ -45,66 +85,26 @@
       "description": "Calls are growing louder in Europe for action against \"pervert\" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain..."
     },
     {
-      "headline": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZjNUaDJOTzNWbmEzcTBCaWhKV0RBY1NOMkptS3MxRFE2MURUd09NRWxaUmZvTV83NzNkeFJsS21ITENfUTdWU1FTN3NlajhDb1N1c3ZiWVJWS2U3QkhzM05tdzVlMk5MU1NDS19vbGRrNUFwSzhzQ3lsQXl4ckZpTzJPcVlRVFJpaFpidUZ4aFJpa0ZYd3ZLenBUOF8?oc=5",
-      "pub_date": 1789207200.0,
-      "article_url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "image": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-      "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work."
-    },
-    {
-      "headline": "Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents",
+      "headline": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5",
-      "pub_date": 1789165500.0,
-      "article_url": "https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FVjItcENBSE5fVXE2akkyM1pla1A3SE83NXMyQnA5SmwyOVN0NW93UUhsZlMyVVhJdWlYUVVJNHF0T29MNTBsZXpBMWhYMjJ2X2ZrS3l3am9RcUMzcmJ3X0pYVWxIelRXVVp2N1Zvck9xM3A2NzRJVnR0YVB5Zw?oc=5",
+      "pub_date": 1789221600.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "OpenAI reveals another rogue AI attack",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXZXNlk4VC1HcDRMVVZkUDBBcW5KQmJPZWpPWHFPdXZWV1d2MDlqeWNBcWRLUFZFN2dPWFZxV2xDSW55anpnM2RZcHVDeXVUeDZ0ZlBBdGtndVBrM3YyZkt1VUxTaVdLcHhtN1J2YVlqMno0TjI2blBhZTV0WE1QZlBaZkxiU19BSGdyLUsxN0ZNdw?oc=5",
-      "pub_date": 1789175040.0,
-      "article_url": "https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUHZKUnc5TTdXbm1ZSmFOMkFkVTlnemdWSjlpeHlXMDdEdlZjeTVWNHVQSVZNUDgwY2sxeHowZEZNOFlCU3BBeFdFOUIwUUREQzA0V0JNVmFZam1KVVZqU1JUYVhwbVo5dWU0N2g5a1Q1VUI0eDdGNFllaTNjSUIyVXVqRk5xTGFuV0lxWXlzaEdqLXJYUGI4?oc=5",
-      "pub_date": 1789170960.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages",
-      "image": "https://i.guim.co.uk/img/media/65486c2e45ba4ef565230ab1fceaa0e07eedff11/331_0_5136_4109/master/5136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=212871c2c52648c8147374cb66ee346a",
-      "description": "Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems"
     },
     {
       "headline": "Deepfakes are wrecking influencers\u2019 credibility, one fake ad at a time",
-      "source": "theguardian.com",
+      "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkNSMUdhWTRQdWExNGNiVUpvRnJpOG84OUQ5TmQzelQwYWpfSnFuZGplX19NLS1FWkI3OVk5WWhhTE9ndF9nM3NJQVBhbjBNZmlZWnZkejJaTXM1elBoTEtoQWZrQ09PcDZ5TWE2S2ZvNURfX25UZUVubkNkbl9oNlJtSTRTbFgzbEx4NDBETTJDNzJvYi1FaQ?oc=5",
       "pub_date": 1789214460.0,
       "article_url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
       "image": "https://i.guim.co.uk/img/media/74ef4a57313deee80f91d1e3804385fee98f92b1/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a864c6787df8164d579c4be29569e67",
       "description": "Influencers aren\u2019t just battling competitors for brand deals. They\u2019re now battling AI versions of themselves"
-    },
-    {
-      "headline": "Detecting and countering misuse of AI: September 2026",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "pub_date": 1789060227.0,
-      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
-      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T00:39:05.811966+00:00"
+  "fetched_at": "2026-09-13T05:42:52.723163+00:00"
 }
