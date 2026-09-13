@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-13T05:42:33.728916+00:00",
+  "data": {
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "title": "Real-SWE Benchmark \u2014 Specific Labs",
+    "description": "Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.",
+    "image": null,
+    "favicon": "https://withspecific.com/icon?70317f5ff00e501d",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}
