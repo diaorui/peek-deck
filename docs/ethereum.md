@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T05:42:54.437969+00:00'
+updated: '2026-09-13T11:13:28.615919+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 05:42 UTC  
+**Last Updated:** September 13, 2026 at 11:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,521.93
+### $2,479.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.3%  
-**30d:** +34.0%  
-**90d:** +40.8%  
-**1y:** -45.2%  
+**24h:** -2.4%  
+**7d:** -0.8%  
+**30d:** +31.2%  
+**90d:** +37.9%  
+**1y:** -46.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.86B
+**Market Cap:** $301.80B
 Rank #2
 
 **Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.0%
+-50.0%
 
 **All-Time Low:** $0.43
-+582487.1%
++570985.4%
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-2d ago
+3d ago
 
 ---
 
@@ -158,11 +158,11 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
-**[Bitcoin ETFs see $462M outflows amid price dip; Ethereum ETFs gain $216M inflows in contrast.](https://pluang.com/en/news-feed/bitcoin-vs-ethereum-etf-pertempuran-aliran-september)**
+**[Apeing Presale Surpasses $80,000 as Stage 3 Progresses Toward Scheduled Stage 4 Launch](https://markets.businessinsider.com/news/stocks/apeing-presale-surpasses-80-000-as-stage-3-progresses-toward-scheduled-stage-4-launch-1036541281)**
 
-After a strong August, Bitcoin Spot ETFs faced $462.73 million in outflows from September 8-11, coinciding with Bitcoin's price dropping from about $79K to $77.3K. Major outflows came from Grayscale GBTC and Ark Invest's ARKB. Conversely, Ethereum ETFs diverged, recording a strong $216.4 million inflow on September 11, led by BlackRock's ETHA. Other altcoin ETFs showed mixed flows. Despite outflows, Bitcoin remains dominant, supported by a bullish investor sentiment indicated by the Crypto Fear and Greed Index in the 'Greed' zone. This suggests the outflows may be a temporary pause amid positive macroeconomic expectations.
+Ethereum-based Apeing token reports more than 228 holders and 410 million tokens sold as its 33-stage presale advances NEW YORK, Sept.  13, 2026  ...
 
-Pluang • 3h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -174,11 +174,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
+**[Ethereum Spot Volume Growth Outpaces Bitcoin Seven-Fold As ETH Eyes $3000 Next](https://www.tradingview.com/news/stocktwits:03878bb3d094b:0-ethereum-spot-volume-growth-outpaces-bitcoin-seven-fold-as-eth-eyes-3000-next/)**
 
-DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
+Ethereum’s (ETH) spot volume jumped nearly 50% over the past 24 hours, seven times the 7% increase in Bitcoin (BTC) spot volume, as Ethereum extended its outperformance over the largest cryptocurrency.According to Glassnode data, spot volume for Ethereum stood at $6.14 billion in comparison to Bitc…
 
-markets.businessinsider.com • 22h ago
+TradingView • 22h ago
+
+---
+
+**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
+
+CoinDesk • 2d ago
 
 ---
 
@@ -190,17 +196,11 @@ Fortune • 1d ago
 
 ---
 
-**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
-
-CoinDesk • 2d ago
-
----
-
 **[Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…](https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/)**
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-AMBCrypto • 5h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -208,15 +208,7 @@ AMBCrypto • 5h ago
 
 Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
 
-blockchain.news • 12h ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Whipsaw, Brace for 'Classic Weekend Sweep'](https://www.tradingview.com/news/benzinga:625d29968094b:0-bitcoin-ethereum-xrp-dogecoin-whipsaw-brace-for-classic-weekend-sweep/)**
-
-Bitcoin briefly topped $79,000 before pulling back markets await next week’s interest rate decision and the CLARITY Act vote.Notable Statistics:Notable Developments:Trader Notes:Trader Michaël van de Poppe expects Bitcoin to briefly sweep below recent lows over the weekend before reversing higher a…
-
-TradingView • 1d ago
+blockchain.news • 17h ago
 
 ---
 
@@ -224,7 +216,15 @@ TradingView • 1d ago
 
 A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
 
-cryptoslate.com • 1d ago
+CryptoSlate • 1d ago
+
+---
+
+**[Ethereum Price Prediction: ETH Rips 33% as Whales Load Up, and Pepeto's $10.9M Presale Offers ETH's 2014 Entry Again](https://financefeeds.com/ethereum-price-prediction-eth-rips-33-as-whales-load-up-and-pepetos-10-9m-presale-offers-eths-2014-entry-again/)**
+
+Anyone reading an ethereum price prediction this week wants proof the rebound is real before adding more. ETH ripped 33% higher from August 11 to September
+
+FinanceFeeds • 9h ago
 
 ---
 
@@ -232,13 +232,13 @@ cryptoslate.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
+**[ETHEREUM FAKEOUT WARNING! (Ethereum Update)](https://www.youtube.com/watch?v=9grcec5zJNk)**
 
-BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 4K • 👍 237 • 💬 163 • ⏱️ 17:26 • 7h ago
+👁️ 51 • 👍 8 • 💬 2 • ⏱️ 3:53 • 28m ago
 
 ---
 
@@ -248,7 +248,17 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 22K • 👍 529 • 💬 73 • ⏱️ 7:35 • 17h ago
+👁️ 24K • 👍 556 • 💬 79 • ⏱️ 7:35 • 23h ago
+
+---
+
+**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
+
+CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 251 • 💬 2 • ⏱️ 6:51 • 17h ago
 
 ---
 
@@ -258,17 +268,17 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 3K • 👍 99 • 💬 12 • ⏱️ 21:47 • 13h ago
+👁️ 4K • 👍 109 • 💬 14 • ⏱️ 21:47 • 18h ago
 
 ---
 
-**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
 
-John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Rollup
+📺 Crypto World
 
-👁️ 25K • 👍 450 • 💬 97 • ⏱️ 22:54 • 1d ago
+👁️ 9K • 👍 309 • 💬 161 • ⏱️ 17:26 • 12h ago
 
 ---
 
@@ -278,7 +288,7 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 25K • 👍 676 • 💬 486 • ⏱️ 17:30 • 1d ago
+👁️ 25K • 👍 693 • 💬 488 • ⏱️ 17:30 • 1d ago
 
 ---
 
@@ -288,7 +298,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 76 • 💬 15 • ⏱️ 9:47 • 1d ago
+👁️ 6K • 👍 76 • 💬 15 • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -298,7 +308,17 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 39K • 👍 926 • 💬 52 • ⏱️ 11:43 • 1d ago
+👁️ 41K • 👍 938 • 💬 53 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+
+John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+
+📺 The Rollup
+
+👁️ 26K • 👍 467 • 💬 100 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -308,27 +328,7 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 867 • 💬 389 • ⏱️ 31:34 • 1d ago
-
----
-
-**[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
-
-These news are not helping Bitcoin and the rest of crypto. Markets are hanging by a thread! Here is all that you need to know!
-
-📺 Thomas Kralow
-
-👁️ 19K • 👍 1K • 💬 15 • ⏱️ 9:10 • 2d ago
-
----
-
-**[Ethereum Cleared It And I&#39;m Buying SUNDAY!!](https://www.youtube.com/watch?v=FNaX9OvBbUQ)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 387 • 👍 15 • 💬 43 • ⏱️ 5:21 • 14h ago
+👁️ 13K • 👍 870 • 💬 389 • ⏱️ 31:34 • 2d ago
 
 ---
 
