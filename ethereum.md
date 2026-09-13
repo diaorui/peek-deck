@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T00:39:07.734076+00:00'
+updated: '2026-09-13T05:42:54.437969+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 00:39 UTC  
+**Last Updated:** September 13, 2026 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,525.37
+### $2,521.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +1.4%  
-**30d:** +34.1%  
-**90d:** +41.0%  
+**24h:** +0.1%  
+**7d:** +1.3%  
+**30d:** +34.0%  
+**90d:** +40.8%  
 **1y:** -45.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.70B
+**Market Cap:** $307.86B
 Rank #2
 
-**Circulating Supply:** 122,041,373 ETH
+**Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -49.0%
 
 **All-Time Low:** $0.43
-+582203.1%
++582487.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -102,7 +102,7 @@ Variable rates are still the default for most onchain credit. That makes leverag
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 2d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 3d ago
 
 ---
 
@@ -126,7 +126,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -158,41 +158,19 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
-**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
+**[Bitcoin ETFs see $462M outflows amid price dip; Ethereum ETFs gain $216M inflows in contrast.](https://pluang.com/en/news-feed/bitcoin-vs-ethereum-etf-pertempuran-aliran-september)**
 
-Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
+After a strong August, Bitcoin Spot ETFs faced $462.73 million in outflows from September 8-11, coinciding with Bitcoin's price dropping from about $79K to $77.3K. Major outflows came from Grayscale GBTC and Ark Invest's ARKB. Conversely, Ethereum ETFs diverged, recording a strong $216.4 million inflow on September 11, led by BlackRock's ETHA. Other altcoin ETFs showed mixed flows. Despite outflows, Bitcoin remains dominant, supported by a bullish investor sentiment indicated by the Crypto Fear and Greed Index in the 'Greed' zone. This suggests the outflows may be a temporary pause amid positive macroeconomic expectations.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86.5%.](https://pluang.com/en/news-feed/bitcoin-ethereum-dan-xrp-tertekan-karena-peluang-kenaikan-suku-bunga-fed)**
-
-Bitcoin, Ethereum, and XRP are under pressure due to rising expectations of a Federal Reserve interest rate hike at the September 15-16 meeting, with an 86.5% chance of a 25 basis point increase. This would be the Fed's first rate hike in three years, potentially tightening financial conditions for risk assets like cryptocurrencies. Despite this, Bitcoin's outlook remains positive with potential for further gains after consolidation, Ethereum is testing key resistance levels, and XRP is more vulnerable but may recover if key support holds. Traders are closely watching the Fed decision as higher rates could dampen crypto momentum.
-
-Pluang • 33m ago
+Pluang • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86% ahead of Sept 16 meeting.](https://pluang.com/en/news-feed/bitcoin-eth-xrp-tertekan-kenaikan-suku-bunga-fed-16-september)**
+**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html)**
 
-The likelihood of a Federal Reserve interest rate hike on September 16 has surged to 86.5%, putting pressure on major cryptocurrencies like Bitcoin, Ethereum, and XRP. This potential rate increase is driven by rising U.S. inflation data, which has unsettled crypto markets. Bitcoin is consolidating near key resistance levels, Ethereum eyes a move toward $3,000 if it breaks current resistance, while XRP struggles to hold critical support at $1.35 amid whale selling and reduced network activity. The Fed's decision will significantly impact borrowing costs and risk assets, making the upcoming meeting crucial for crypto traders.
+About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-Pluang • 2h ago
-
----
-
-**[Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans](https://fortune.com/2026/09/09/metamask-consensys/)**
-
-The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software.
-
-fortune.com • 3d ago
-
----
-
-**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
-
-coindesk.com • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -200,23 +178,21 @@ coindesk.com • 2d ago
 
 DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
 
-markets.businessinsider.com • 17h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
-**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/)**
+**[Current price of Ethereum for Sept. 11, 2026](https://fortune.com/article/price-of-ethereum-09-11-2026/)**
 
-Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum’s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 1d ago
+Fortune • 1d ago
 
 ---
 
-**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
+**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
 
-Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
-
-blockchain.news • 7h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -224,7 +200,31 @@ blockchain.news • 7h ago
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-AMBCrypto • 38m ago
+AMBCrypto • 5h ago
+
+---
+
+**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
+
+Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
+
+blockchain.news • 12h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Whipsaw, Brace for 'Classic Weekend Sweep'](https://www.tradingview.com/news/benzinga:625d29968094b:0-bitcoin-ethereum-xrp-dogecoin-whipsaw-brace-for-classic-weekend-sweep/)**
+
+Bitcoin briefly topped $79,000 before pulling back markets await next week’s interest rate decision and the CLARITY Act vote.Notable Statistics:Notable Developments:Trader Notes:Trader Michaël van de Poppe expects Bitcoin to briefly sweep below recent lows over the weekend before reversing higher a…
+
+TradingView • 1d ago
+
+---
+
+**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
+
+A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
+
+cryptoslate.com • 1d ago
 
 ---
 
@@ -232,13 +232,23 @@ AMBCrypto • 38m ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
+
+BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 237 • 💬 163 • ⏱️ 17:26 • 7h ago
+
+---
+
 **[ETHEREUM… WTF IS WRONG WITH TOM LEE???](https://www.youtube.com/watch?v=Zq8szZ642wI)**
 
 AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
 📺 Lark Davis
 
-👁️ 17K • 👍 482 • 💬 60 • ⏱️ 7:35 • 12h ago
+👁️ 22K • 👍 529 • 💬 73 • ⏱️ 7:35 • 17h ago
 
 ---
 
@@ -248,7 +258,7 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 783 • 👍 66 • 💬 10 • ⏱️ 21:47 • 8h ago
+👁️ 3K • 👍 99 • 💬 12 • ⏱️ 21:47 • 13h ago
 
 ---
 
@@ -258,27 +268,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 23K • 👍 420 • 💬 130 • ⏱️ 22:54 • 23h ago
-
----
-
-**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
-
-Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
-
-📺 Paul Barron Network
-
-👁️ 38K • 👍 909 • 💬 50 • ⏱️ 11:43 • 1d ago
-
----
-
-**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 73 • 💬 15 • ⏱️ 9:47 • 1d ago
+👁️ 25K • 👍 450 • 💬 97 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -288,27 +278,27 @@ Ethereum just hit its 20-month moving average for the first time since May 2020 
 
 📺 Crypto Capital Venture
 
-👁️ 24K • 👍 661 • 💬 485 • ⏱️ 17:30 • 1d ago
+👁️ 25K • 👍 676 • 💬 486 • ⏱️ 17:30 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Flash MAJOR Signal (Hyper Bullish)](https://www.youtube.com/watch?v=M5d9II3ANKU)**
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
 
-Join - https://www.skool.com/discovercrypto/about ​​If you have ever made money watching this channel we need your help!
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
 
-📺 Discover Crypto
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 11K • 👍 387 • 💬 53 • ⏱️ 1:04:53 • 1d ago
+👁️ 5K • 👍 76 • 💬 15 • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[ETHEREUM BROKE OUT AGAINST BTC FOR THE FIRST TIME SINCE 2017!](https://www.youtube.com/watch?v=z0Jgc15moYQ)**
+**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
 
-ETHEREUM JUST BROKE OUT AGAINST BITCOIN — FOR THE FIRST TIME SINCE 2017! Something VERY important just ...
+Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
 
-📺 D.I.Y Investing
+📺 Paul Barron Network
 
-👁️ 5K • 👍 150 • 💬 28 • ⏱️ 15:04 • 1d ago
+👁️ 39K • 👍 926 • 💬 52 • ⏱️ 11:43 • 1d ago
 
 ---
 
@@ -318,17 +308,27 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 13K • 👍 865 • 💬 389 • ⏱️ 31:34 • 1d ago
+👁️ 13K • 👍 867 • 💬 389 • ⏱️ 31:34 • 1d ago
 
 ---
 
-**[Ethereum: Could the Next Pullback Create an Opportunity?](https://www.youtube.com/watch?v=ZyunF1yDg_E)**
+**[🚨 BTC &amp; ETH: OH HOLY MOLY!!!!!!!](https://www.youtube.com/watch?v=q5MO2067PgM)**
 
-ETH could push towards $2750 before a deeper pullback. A break above $2545–$2567 would support upside; below $2355 ...
+These news are not helping Bitcoin and the rest of crypto. Markets are hanging by a thread! Here is all that you need to know!
 
-📺 More Crypto Online
+📺 Thomas Kralow
 
-👁️ 13K • 👍 283 • 💬 11 • ⏱️ 12:26 • 2d ago
+👁️ 19K • 👍 1K • 💬 15 • ⏱️ 9:10 • 2d ago
+
+---
+
+**[Ethereum Cleared It And I&#39;m Buying SUNDAY!!](https://www.youtube.com/watch?v=FNaX9OvBbUQ)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 387 • 👍 15 • 💬 43 • ⏱️ 5:21 • 14h ago
 
 ---
 
