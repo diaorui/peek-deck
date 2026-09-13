@@ -15,34 +15,64 @@
       "description": null
     },
     {
-      "headline": "China\u2019s Data Regulator Plans Standards Push for Embodied AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXNLVDluQlM5RlpUb1RyazQ0bTl0eHc3dWh1RnVtMVBqakFJWWVIbE1LZkNCQ3JqS1RfanVDdkpGZXB0YlNWcFdtZWx0ZU9fQjdGVmhCa3BxRHVDbWE1ejdQUjdOSVl1bllramFmYXprQkF4NzdaaFdBTUo4TWxfTFQ2VTdQcXhTQ1h2WU5tRVZ5bmI1cFJqQ0x0Y1ZlRlFHckNId0tCU3pocy13UzZj?oc=5",
-      "pub_date": 1789270140.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+      "headline": "Every Word My Employee Writes Reeks of A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSmRSQzZ2dUxZWThMZm9HUzF2YUd1bVdPTm5SVjhOV183QXFTWVhnMnFMMWVmQVZQa3FqZEllYzdKNEtja0hXMEpnZnFUQkpnekRCZnlsckhWY1VmZGFqQnpfUWF5aFhrMVFWT3VKbzBidw?oc=5",
+      "pub_date": 1789290200.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/business/employee-ai-use.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "headline": "What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGZmcEwwRURYdWZBeWdrdFFSU2hsMW9GbDA5d0htSGxwOWZPV2RLb0RXMXNTR2w4aktjWUcwd3VtTzBHaE90bTM2c3lvbWxPaWUya3dWWHIzMVpUTVFnbE1nS0Z6ekVyc2RKbEFyVmt3aURwVXBrdk4tUUpYdDM3M043eF9wU0ZuMHI1RmRWbHNlT2JpU3pjRF9RYUJSeVF1elJRUHQxNA?oc=5",
+      "pub_date": 1789291215.0,
+      "article_url": "https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9",
+      "image": "https://i.insider.com/6aa458cbcc23a829a3b90921?width=1200&format=jpeg",
+      "description": "Economists at Morgan Stanley say that veterans of the white-collar labor force actually stand to benefit most from the productivity gains delivered by AI."
+    },
+    {
+      "headline": "He was close to a $1 million breakthrough. Then OpenAI swooped in.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
+      "pub_date": 1789295079.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
+      "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work."
+    },
+    {
+      "headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2lvbFRfNmtTMXkzMlE0RVpXbzdzSmRLdjkyMzcweEM3TXZXM09tWENaVXNBelc5NWtGcm5WUG9jc1dkM1hRZzRtakdoR2EzWEZURy13NDhZcHpEczBJLTVLY3BDSXY5ZmhrTGUtYjdpUjFxaEhYNEthMS1OSF91NkRoSzFna0JpSlBRWnFZaWZ5MFpuMzZTNGNPTTdqVVNjVUQ1ZExRdkUwRllZd1lsMQ?oc=5",
-      "pub_date": 1789277220.0,
-      "article_url": "https://www.reuters.com/legal/government/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-2026-09-13/",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+      "pub_date": 1789245480.0,
+      "article_url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IMkFTZ25QYzR0R0V3UnUteU9DTl9KZzRRd0ZKMjhYS0tqVUFDYjlLaFYtSW45eVpjeGg3Q0EybnlKQ1JLUWZiQ25DTVBYUjJlVEhGeVQtR1JuQQ?oc=5",
-      "pub_date": 1789273844.0,
-      "article_url": "https://www.bbc.com/news/articles/c1kx0gyje9wo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/40b3/live/461a8aa0-af13-11f1-b1d1-571ed4d7ff2c.jpg",
-      "description": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in."
+      "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
+      "pub_date": 1789230137.0,
+      "article_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
+      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
+    },
+    {
+      "headline": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEdoQ2QteHUtOWkzSF9uZ0NTcHNiTk9MREpyX2NVbHdicXBYbnFEdXpaVVRxNmR0cTJMdXhPaVZ0QXl5ZmpobnZ4RlBkTU1CLUczWHZES0NfM3BlQngxT18wcjE2RUgzdHVuc2c3Y1A4SjI0emswb1FOejV0VVprTnNMZjEzUnZwdlR0RXhCUnlVdkZWbktWMWRWSQ?oc=5",
+      "pub_date": 1789254000.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
+      "image": "https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b77a0b465c5e65a8d1eb2c6c5c842870",
+      "description": "OpenAI\u2019s decision comes after dire warnings about rapidly progressing technology and lawmakers\u2019 calls for new rules"
     },
     {
       "headline": "Detecting and countering misuse of AI: September 2026",
@@ -55,56 +85,26 @@
       "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
     },
     {
-      "headline": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5",
-      "pub_date": 1789134540.0,
-      "article_url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
-      "image": null,
+      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
+      "pub_date": 1789282902.0,
+      "article_url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108324132-1781806488552-gettyimages-2282235201-6e6a1266_jx5txjwj.jpeg?v=1781808268&w=1920&h=1080",
       "description": null
-    },
-    {
-      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
-      "pub_date": 1789114525.0,
-      "article_url": "https://www.bbc.com/news/articles/cx2zrrpkx20o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
-    },
-    {
-      "headline": "Europe eyes battle over 'pervert' AI glasses",
-      "source": "afp.com",
-      "source_url": "https://www.afp.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uelJLSE04cHpCNDFSWUhmQWlyNXE3X1ZTTlBMQ0JMcUFlZ1RSN3JqVHJWQkJTVkdxc1JQdFo3U1VEalNZSHBXb0pKak5LTE90UWlnVU9yZUtnR1YtZTV6MGtkUEhaZVJlbnNzNE9OTm9tbEk?oc=5",
-      "pub_date": 1789194319.0,
-      "article_url": "https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses",
-      "image": "https://www.afp.com/sites/default/files/styles/afp_mea/public/afp-stories/822df833cb47e1eccf1d835a7542ed37-0.jpg?itok=WYbYOl6y",
-      "description": "Calls are growing louder in Europe for action against \"pervert\" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain..."
     },
     {
       "headline": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FVjItcENBSE5fVXE2akkyM1pla1A3SE83NXMyQnA5SmwyOVN0NW93UUhsZlMyVVhJdWlYUVVJNHF0T29MNTBsZXpBMWhYMjJ2X2ZrS3l3am9RcUMzcmJ3X0pYVWxIelRXVVp2N1Zvck9xM3A2NzRJVnR0YVB5Zw?oc=5",
-      "pub_date": 1789221600.0,
+      "pub_date": 1789110000.0,
       "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Deepfakes are wrecking influencers\u2019 credibility, one fake ad at a time",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkNSMUdhWTRQdWExNGNiVUpvRnJpOG84OUQ5TmQzelQwYWpfSnFuZGplX19NLS1FWkI3OVk5WWhhTE9ndF9nM3NJQVBhbjBNZmlZWnZkejJaTXM1elBoTEtoQWZrQ09PcDZ5TWE2S2ZvNURfX25UZUVubkNkbl9oNlJtSTRTbFgzbEx4NDBETTJDNzJvYi1FaQ?oc=5",
-      "pub_date": 1789214460.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
-      "image": "https://i.guim.co.uk/img/media/74ef4a57313deee80f91d1e3804385fee98f92b1/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a864c6787df8164d579c4be29569e67",
-      "description": "Influencers aren\u2019t just battling competitors for brand deals. They\u2019re now battling AI versions of themselves"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T05:42:52.723163+00:00"
+  "fetched_at": "2026-09-13T11:13:27.022269+00:00"
 }

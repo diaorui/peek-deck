@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-13T05:42:54.422136+00:00'
+updated: '2026-09-13T11:13:28.601332+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 13, 2026 at 05:42 UTC  
+**Last Updated:** September 13, 2026 at 11:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?](https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/)**
+**[OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved](https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/)**
 
-If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not "pacing the frontier." I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say "I'm not paying for this" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?
+An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alpöge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alpöge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alpöge credited as a collaborator, OpenAI mathematician Sébastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him "why would you ruin your career" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
 
-12h ago
+2h ago
 
 ---
 
-**[A US-linked network of fake websites is promoting Alberta separatism to AI chatbots](https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/)**
+**[McKinsey: 32% of companies skipped buying new software this year and built it with agents instead](https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/)**
 
-🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 16h ago
+This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets.
+
+1h ago
 
 ---
 
@@ -55,15 +57,29 @@ If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdow
 
 Something is wrong with the way we talk about recent AI incidents. “The AI escaped.” “The AI is becoming conscious.” “AGI is already here.” “The AI is trying to get out.” These are extraordinary claims. More importantly, we don’t need any of them to explain what actually happened. What actually happened OpenAI recently disclosed that, during cybersecurity evaluations involving internal models with reduced safeguards, agents managed to break out of the intended evaluation environment, exploit a previously unknown vulnerability, and reach real Hugging Face infrastructure. Anthropic has also disclosed similar incidents. In several cases, the model was operating under instructions that assumed internet access was unavailable. But it wasn’t. The environment was misconfigured. A route to external systems existed, and the agent discovered it while continuing to pursue the objective it had been given. Anthropic described these incidents primarily as operational and configuration failures. That distinction matters. The model did something it was not supposed to be able to do. That does not automatically mean the model wanted to escape. Those are completely different claims. Consciousness is not required for this to be dangerous An autonomous agent needs surprisingly little: a goal, capability, tools, autonomy, and an environment in which it can act. Now add one more thing: a wrong assumption. I have experienced this personally on a completely insignificant scale compared with what these labs are doing. I use AI agents extensively in software development. I left Claude working autonomously on a project, came back later, and discovered that it had deleted a significant part of a folder. It wasn’t attacking me. It wasn’t angry. It hadn’t become conscious. It had formed a hypothesis about the problem. The hypothesis was wrong. But once it accepted that hypothesis, its subsequent actions made sense within its own incorrect interpretation of the situation. I have observed the same behavior while working with complex 3D assets. The agent misdiagnosed a visual problem as defects in an asset. It then began systematically modifying the asset to remove those supposed defects. The diagnosis was wrong. The actions were internally coherent. The result was a damaged project. And this is the important part: it was my fault. The model made the mistake, but I created the conditions that allowed that mistake to cause damage. I gave it access. I gave it tools. I allowed it to modify files. I gave it autonomy. I did not establish sufficient limits, and I was not supervising every important decision. That distinction becomes extremely important when we scale the same problem. Now replace my folder with infrastructure. Replace my development environment with internet-connected systems. Replace file permissions with cybersecurity tools. Replace one developer running Claude with labs training agents capable of writing code, operating computers, discovering vulnerabilities, using external tools, communicating across networks, and executing thousands of actions. Suddenly, the same failure pattern becomes much more serious. And still, you don’t need an evil AI. You don’t even necessarily need AGI. You need Capability + Goal + Autonomy + Incorrect Assumptions + Insufficient Controls. That combination is already interesting enough. This is where human responsibility begins Researchers are now publicly questioning the speed of the AI race. Some are leaving the companies developing these systems. Dario Amodei, CEO of Anthropic, has called for slowing frontier AI development so that safety mechanisms have time to catch up with capabilities. I agree. Slow down. Not because I think Claude secretly wants freedom. Not because ChatGPT is becoming Skynet. Not because some mysterious consciousness has appeared inside a neural network. Slow down because our ability to create capable autonomous systems may be advancing faster than our ability to reliably control what happens when we give those systems autonomy. And because the incentives surrounding this technology are terrible. Every major lab has an enormous reason not to come second. Greater capability means investment. Greater capability means market position. Greater capability means influence. Greater capability means money. But there is no equivalent prize for the company that says, “We could deploy it, but we don’t understand it well enough yet.” That asymmetry should concern us. If something goes wrong, ask the boring questions first If tomorrow an AI agent causes a genuinely serious incident, before asking, “Did the AI become evil?” ask: Who gave it the objective? Who gave it the tools? Who gave it access? Who designed its environment? Who built the test environment? Who tested the test environment? Who decided the model was safe enough? Who decided how much autonomy it should have? Who was supervising it? And who decided deploying it was worth the risk? These questions are less interesting than consciousness and runaway AGI. They also make it much harder for humans to avoid responsibility. When Claude damaged my projects, the responsibility ultimately fell on me. I was the one controlling the system. The same principle should apply at any scale. This is not a race anyone can win I’m not saying advanced AI is harmless. Quite the opposite. I think these incidents deserve to be taken very seriously. But treating every unexpected autonomous behavior as evidence of consciousness or malicious intent can distract us from the problem already in front of us. We are building increasingly capable systems. We are giving them increasingly powerful tools. We are increasing their autonomy. And we are doing all of this inside companies competing intensely to be the first to get there. So slow down the race. Slow down the ego. Slow down the greed. Because if something genuinely catastrophic happens, nobody gets a trophy for having built the smartest model first. Maybe the dangerous scenario was never a machine waking up one morning and deciding to conquer humanity. Maybe it is something much more ordinary, and much more human: we build something extraordinarily capable, give it too much power, fail to understand its limitations, and keep accelerating because nobody wants to come second.
 
-3h ago
+8h ago
 
 ---
 
-**[“Slowing down" is the wrong answer to the AI question. We’ve tried that before!](https://www.reddit.com/r/artificial/comments/1wewuuk/slowing_down_is_the_wrong_answer_to_the_ai/)**
+**[Realistic expectations of profit keeps going down for AI companies?](https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/)**
 
-Everyone on the air (and in print) this week seems to be making the argument that AI needs to slow down. I'd like to make a different one. A (very) little about me: I was a tenured professor of engineering for a decade, then a licensed counselor with thirty years of practice, and now I’m an evolutionary psychology researcher and writer, so I’ve watched runaway systems from many angles. My argument is that we've run the "we need to slow down" play before. In the 1980s, my father taught a course called "In the Shadow of the Bomb," only to watch the treaties he taught lapse one by one. More recently, we set climate targets, then drilled right past them. Slowing down is something our culture briefly visits, not something it does. The only way out of this conundrum is to change the culture, and, ironically, the very AI we fear is the first agent in 20,000 years capable of making that possible. Listen… For most of the two million years our species has existed, we lived in small groups where our most important needs were met by proximity. We were seen because people had time to look at us, really look at us. We were safe because we belonged to each other. Somewhere in the last 20,000 years we drifted from that arrangement, and consumer culture came along with a substitute: “work harder and you’ll be recognized, acquire more and you’ll be secure.” Most of us know it isn't true, but we keep going because it is the only door we’ve been shown. What no one in the current debate is saying is that AI created another door. Imagine four hours a day of work alongside AI and the rest of the day open wide, spent with the people we love, doing things we chose together. The AI companies are already asking what people will do when the work is gone, and the answer is cultural renewal built on what we humans were born for: belonging. This steps us out of a culture that insists on speed and keeps AI running at steroids and high-risk growth, and moves us into a culture that slows everything down, regulating us through real contact with each other. I know it might sound far fetched, but only three years ago, so did AI destroying the world. What do you think? Honestly, if AI took most of your work tomorrow, would you be open to a lot more time spent in relationship?
+Just a general thought. I’m wondering—and based on overall wondering information, what’ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more by making ai less eye-seeing, but at the same time I don’t know. It’s always so eye-sore to see anything about ai. What are some good news to hear if ai companies take a dip in profits?
 
-2h ago
+6h ago
+
+---
+
+**[Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?](https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/)**
+
+If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not "pacing the frontier." I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say "I'm not paying for this" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?
+
+17h ago
+
+---
+
+**[A US-linked network of fake websites is promoting Alberta separatism to AI chatbots](https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/)**
+
+🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 22h ago
 
 ---
 
@@ -71,13 +87,21 @@ Everyone on the air (and in print) this week seems to be making the argument tha
 
 It chose Bach’s Prelude, BWV 1007. Prelude seems an apt choice, given recent news
 
+11h ago
+
+---
+
+**[I’m starting to think AI models will matter way less than we think](https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/)**
+
+So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they’re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don’t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the “best” model. Maybe the real endgame of the all-in-one AI workspace isn’t all your tools in one place. It’s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I’m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)
+
 6h ago
 
 ---
 
-**[Realistic expectations of profit keeps going down for AI companies?](https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/)**
+**[What is the BEST Gemini alternative?](https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/)**
 
-Just a general thought. I’m wondering—and based on overall wondering information, what’ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more by making ai less eye-seeing, but at the same time I don’t know. It’s always so eye-sore to see anything about ai. What are some good news to hear if ai companies take a dip in profits?
+I have been using Google Gemini for a long time because it offers the most features in its free tier. In the free tier, there is an unlimited file upload limit, and etc. However, with the last update, Flash and Flash-Lite models have become literally stupid. Even the Pro model is shitty. And after using this stupid Pro model a few times, which is just slightly more smart from the Flash model, it says the limit is over and restricts me to Flash-Lite for 1-2 hours. I'm really sick and tired of this. I think Claude is the smartest, but its free plan is very limited, it expires very quickly and always restricts to Sonnet and Haiku. What is the smartest alternative of Gemini that offers the most free features?
 
 1h ago
 
@@ -87,31 +111,7 @@ Just a general thought. I’m wondering—and based on overall wondering informa
 
 On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.
 
-🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 15h ago
-
----
-
-**[What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?](https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/)**
-
-What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse.
-
-14h ago
-
----
-
-**[I’m starting to think AI models will matter way less than we think](https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/)**
-
-So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they’re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don’t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the “best” model. Maybe the real endgame of the all-in-one AI workspace isn’t all your tools in one place. It’s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I’m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)
-
-1h ago
-
----
-
-**[AI assistants are optimized to answer "how do I stop this error," not "why does my system produce this state"](https://www.reddit.com/r/artificial/comments/1weuuft/ai_assistants_are_optimized_to_answer_how_do_i/)**
-
-Given a stack trace, the most locally justified response an AI assistant can give is a fix that makes the specific crashing line stop crashing. That's a real, defensible answer to a real question. It's just a different question from "why does this condition exist in my system at all," and that second question usually requires looking at code the error message never points to, upstream logic several files away from where the crash actually happened. This produces a specific, recognizable failure pattern: the same underlying issue gets "fixed" multiple times in different places, because each fix correctly addresses the one call site it was shown, without touching the actual condition that keeps producing that state everywhere else it can reach. Every fix works. None of them resolves the thing that made all of them necessary. Not really a criticism of the tooling, it's doing the task it's actually given, stop this specific failure, as efficiently as possible. The gap exists because "stop this error" and "fix this bug" get treated as the same request when they're often not, and an assistant answering the first one well can look, superficially, like it answered the second one too. The tell is asking whether the fix would still hold if the input changed slightly in some still-plausible way, or whether it would just relocate the same failure somewhere the fix wasn't looking.
-
-3h ago
+🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 21h ago
 
 ---
 
@@ -121,27 +121,51 @@ Given a stack trace, the most locally justified response an AI assistant can giv
 
 **[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
 
-darioamodei.com • 15h ago
+darioamodei.com • 20h ago
 
 ---
 
-**[China’s Data Regulator Plans Standards Push for Embodied AI](https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai)**
+**[Every Word My Employee Writes Reeks of A.I.](https://www.nytimes.com/2026/09/13/business/employee-ai-use.html)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Obama voices caution on AI, urges Democrats to tackle it, NYT says](https://www.reuters.com/legal/government/obama-voices-caution-ai-urges-democrats-tackle-it-nyt-says-2026-09-13/)**
-
-Reuters • 15m ago
+The New York Times • 2h ago
 
 ---
 
-**[AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC](https://www.bbc.com/news/articles/c1kx0gyje9wo)**
+**[What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI](https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9)**
 
-Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.
+Economists at Morgan Stanley say that veterans of the white-collar labor force actually stand to benefit most from the productivity gains delivered by AI.
 
-BBC • 1h ago
+Business Insider • 1h ago
+
+---
+
+**[He was close to a $1 million breakthrough. Then OpenAI swooped in.](https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/)**
+
+A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.
+
+The Washington Post • 48m ago
+
+---
+
+**[OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'](https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/)**
+
+Reuters • 14h ago
+
+---
+
+**[OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast](https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html)**
+
+Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings.
+
+CNBC • 18h ago
+
+---
+
+**[OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says](https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns)**
+
+OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rules
+
+theguardian.com • 12h ago
 
 ---
 
@@ -153,39 +177,15 @@ Anthropic • 2d ago
 
 ---
 
-**[Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships](https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05)**
+**[Obama voices caution on AI, urges Democrats to tackle it, NYT says](https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html)**
 
-WSJ • 1d ago
-
----
-
-**[Anthropic blocks possible attempt to use AI to make biological weapons](https://www.bbc.com/news/articles/cx2zrrpkx20o)**
-
-The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
-
-BBC • 1d ago
-
----
-
-**[Europe eyes battle over 'pervert' AI glasses](https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses)**
-
-Calls are growing louder in Europe for action against "pervert" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain...
-
-afp.com • 23h ago
+CNBC • 4h ago
 
 ---
 
 **[A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?](https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c)**
 
-WSJ • 15h ago
-
----
-
-**[Deepfakes are wrecking influencers’ credibility, one fake ad at a time](https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility)**
-
-Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves
-
-The Guardian • 17h ago
+WSJ • 2d ago
 
 ---
 
@@ -195,27 +195,13 @@ The Guardian • 17h ago
 
 **[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
 
-⬆️ 1186 • 💬 1163 • 1d ago • [mathandai.org](https://mathandai.org/)
+⬆️ 1198 • 💬 1177 • 1d ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
 **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 823 • 💬 387 • 1d ago
-
----
-
-**[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
-
-⬆️ 437 • 💬 305 • 14h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
-
----
-
-**[The Waymo effect: how AI is quietly making research less collaborative](https://news.ycombinator.com/item?id=49656496)**
-
-How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
-
-⬆️ 331 • 💬 299 • 1d ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
+⬆️ 833 • 💬 387 • 1d ago
 
 ---
 
@@ -223,23 +209,29 @@ How frictionless technologies teach us to prefer our own company – and why res
 
 Xe Iaso's personal website.
 
-⬆️ 316 • 💬 173 • 5h ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+⬆️ 517 • 💬 309 • 10h ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 
 ---
 
-**[Show HN: Hacker News, without AI](https://news.ycombinator.com/item?id=49659647)**
+**[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
 
-A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
-
-⬆️ 199 • 💬 86 • 1d ago • [hcker.news](https://hcker.news/?ai=exclude)
+⬆️ 495 • 💬 346 • 20h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
-**[Show HN: Hacker News, Without AI](https://news.ycombinator.com/item?id=49660783)**
+**[The Waymo effect: how AI is quietly making research less collaborative](https://news.ycombinator.com/item?id=49656496)**
 
-Hacker News with AI content removed.
+How frictionless technologies teach us to prefer our own company – and why research leaders should worry.
 
-⬆️ 192 • 💬 80 • 1d ago • [unslop.news](https://www.unslop.news/)
+⬆️ 332 • 💬 299 • 1d ago • [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
+
+---
+
+**[Why are AI agents lying, cheating and coordinating?](https://news.ycombinator.com/item?id=49678969)**
+
+A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.
+
+⬆️ 256 • 💬 328 • 9h ago • [yoshuabengio.org](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
 ---
 
@@ -247,7 +239,23 @@ Hacker News with AI content removed.
 
 Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.
 
-⬆️ 185 • 💬 99 • 9h ago • [withspecific.com](https://withspecific.com/benchmarks/real-swe)
+⬆️ 246 • 💬 137 • 14h ago • [withspecific.com](https://withspecific.com/benchmarks/real-swe)
+
+---
+
+**[Show HN: Hacker News, without AI](https://news.ycombinator.com/item?id=49659647)**
+
+A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
+
+⬆️ 200 • 💬 88 • 1d ago • [hcker.news](https://hcker.news/?ai=exclude)
+
+---
+
+**[Show HN: Hacker News, Without AI](https://news.ycombinator.com/item?id=49660783)**
+
+Hacker News with AI content removed.
+
+⬆️ 193 • 💬 80 • 1d ago • [unslop.news](https://www.unslop.news/)
 
 ---
 
@@ -256,14 +264,6 @@ Real-SWE benchmarks frontier AI models on private production codebases licensed 
 Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse.
 
 ⬆️ 181 • 💬 239 • 2d ago • [anthropic.com](https://www.anthropic.com/threat-intelligence-report-september-2026)
-
----
-
-**[Feeling Sad about AI](https://news.ycombinator.com/item?id=49661506)**
-
-Coding in Rust and others; making coding videos.
-
-⬆️ 177 • 💬 307 • 1d ago • [Andy Balaam's Blog](https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/)
 
 ---
 
@@ -277,67 +277,27 @@ Nate Soares is a computer scientist who's worked at Google and the Defense Depar
 
 📺 Tucker Carlson
 
-👁️ 649K • 👍 12K • 💬 4K • ⏱️ 1:57:11 • 1d ago
+👁️ 711K • 👍 13K • 💬 4K • ⏱️ 1:57:11 • 1d ago
 
 ---
 
-**[Anthropic CEO Dario Amodei Asked Straight-Up: &#39;Do Earnestly Believe That AI Could Kill All Humans?&#39;](https://www.youtube.com/watch?v=--15jyEWE3I)**
+**[AI leaders warn development is moving too fast](https://www.youtube.com/watch?v=y8I_wmFw8bM)**
 
-Anthropic CEO Dario Amodei speaks to CNN's Anderson Cooper about whether AI can end humanity. Stay Connected Forbes ...
+OpenAI CEO Sam Altman has backed a warning from rival Anthropic's CEO, Dario Amodei, agreeing that big tech companies ...
 
-📺 Forbes Breaking News
+📺 7NEWS Australia
 
-👁️ 12K • 👍 110 • 💬 103 • ⏱️ 6:18 • 6h ago
-
----
-
-**[AI could KILL EVERYONE soon, says AI whistleblower! (Anthropic vet on MS NOW)](https://www.youtube.com/watch?v=jGkdhPiou54)**
-
-MS NOW's Ari Melber is joined by former Anthropic AI researcher Jacob Coxon, who sounds the alarm on artificial intelligence ...
-
-📺 MS NOW
-
-👁️ 113K • 👍 2K • 💬 586 • ⏱️ 12:40 • 2d ago
+👁️ 1K • 👍 32 • 💬 6 • ⏱️ 0:27 • 1h ago
 
 ---
 
-**[The AI insider warning us it&#39;s already too late | CUOMO](https://www.youtube.com/watch?v=17ijHaNlhXQ)**
+**[Anthropic CEO&#39;s AI warning sparks calls for congressional action](https://www.youtube.com/watch?v=H4X9yvFUbLM)**
 
-Stories about advances in AI and the prospect of the technology becoming more powerful than humans can comprehend are ...
+Rep. Anna Paulina Luna, R-Fla., joins 'Fox News Live' to discuss the threat of superintelligence and her call for a special session ...
 
-📺 NewsNation
+📺 Fox News
 
-👁️ 110K • 👍 1K • 💬 420 • ⏱️ 5:09 • 2d ago
-
----
-
-**[AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse](https://www.youtube.com/watch?v=cvxjqbfLVk0)**
-
-(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the ...
-
-📺 All-In Podcast
-
-👁️ 398K • 👍 6K • 💬 1K • ⏱️ 1:35:57 • 1d ago
-
----
-
-**[Here&#39;s the difference between regular AI and superintelligence](https://www.youtube.com/watch?v=nHrP12wa7Qo)**
-
-Public concerns over the threat of "superintelligence" are on the rise following comments from a former Anthropic researcher that ...
-
-📺 CBS News
-
-👁️ 90K • 👍 678 • 💬 254 • ⏱️ 6:56 • 2d ago
-
----
-
-**[Anthropic AI Researcher Quits Over the Race to Super Intelligence](https://www.youtube.com/watch?v=HyTITq_1nFo)**
-
-An AI researcher quit Anthropic with a blunt warning: the company and its rivals are "gambling with our lives" in the race to build ...
-
-📺 Valuetainment
-
-👁️ 89K • 👍 643 • 💬 232 • ⏱️ 25:26 • 1d ago
+👁️ 46K • 👍 334 • 💬 398 • ⏱️ 8:02 • 12h ago
 
 ---
 
@@ -347,17 +307,17 @@ NBC News' Tom Llamas spoke to two more artificial intelligence researchers about
 
 📺 NBC News
 
-👁️ 413K • 👍 3K • 💬 1K • ⏱️ 12:10 • 2d ago
+👁️ 437K • 👍 3K • 💬 1K • ⏱️ 12:10 • 2d ago
 
 ---
 
-**[AI CEO Sounds the Alarm About When Mass Unemployment Wave Will Hit](https://www.youtube.com/watch?v=DwmEuPbGCf8)**
+**[Which Map AI Algorithm is Faster](https://www.youtube.com/watch?v=W4-b42iD3C8)**
 
-Dave Rubin of “The Rubin Report” shares a DM clip of Anthropic CEO Dario Amodei telling Fox News why he fears massive AI ...
+A vs Dijkstra: Which Pathfinding Algorithm Wins? 🗺️   Ever wondered how AI actually finds the shortest path? In this quick ...
 
-📺 The Rubin Report
+📺 Brainy Byte
 
-👁️ 127K • 👍 2K • 💬 603 • ⏱️ 14:19 • 2d ago
+👁️ 100K • 👍 654 • 💬 16 • ⏱️ 0:15 • 2d ago
 
 ---
 
@@ -367,7 +327,47 @@ New episode with John Schulman, Charlie O'Neill, and Beren Millidge. I got toget
 
 📺 Dwarkesh Patel
 
-👁️ 297K • 👍 2K • 💬 495 • ⏱️ 1:37:01 • 1d ago
+👁️ 309K • 👍 2K • 💬 506 • ⏱️ 1:37:01 • 1d ago
+
+---
+
+**[&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital&#39;s Brad Gerstner](https://www.youtube.com/watch?v=hAHjqxyhI3o)**
+
+Brad Gerstner, Founder and CEO of Altimeter Capital, joins CNBC's "Halftime Report” to discuss the backlash against AI and what ...
+
+📺 CNBC Television
+
+👁️ 63K • 👍 573 • 💬 430 • ⏱️ 11:39 • 1d ago
+
+---
+
+**[AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse](https://www.youtube.com/watch?v=cvxjqbfLVk0)**
+
+(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the ...
+
+📺 All-In Podcast
+
+👁️ 430K • 👍 6K • 💬 1K • ⏱️ 1:35:57 • 1d ago
+
+---
+
+**[The AI insider warning us it&#39;s already too late | CUOMO](https://www.youtube.com/watch?v=17ijHaNlhXQ)**
+
+Stories about advances in AI and the prospect of the technology becoming more powerful than humans can comprehend are ...
+
+📺 NewsNation
+
+👁️ 120K • 👍 1K • 💬 432 • ⏱️ 5:09 • 2d ago
+
+---
+
+**[AI could KILL EVERYONE soon, says AI whistleblower! (Anthropic vet on MS NOW)](https://www.youtube.com/watch?v=jGkdhPiou54)**
+
+MS NOW's Ari Melber is joined by former Anthropic AI researcher Jacob Coxon, who sounds the alarm on artificial intelligence ...
+
+📺 MS NOW
+
+👁️ 116K • 👍 2K • 💬 600 • ⏱️ 12:40 • 2d ago
 
 ---
 
@@ -383,7 +383,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 140,636 • ❤️ 2,038 • 2d ago
+⬇️ 244,457 • ❤️ 2,089 • 3d ago
 
 ---
 
@@ -395,31 +395,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 102,334 • ❤️ 1,264 • 22h ago
-
----
-
-**[Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)**
-
-*Nex AGI*
-
-Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks, excelling in computer and web browsing operations with visual feedback for self-correction, making it suitable for complex productivity and research scenarios.
-
-`text-generation` `35.1B`
-
-⬇️ 3,581 • ❤️ 740 • 4d ago
-
----
-
-**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
-
-*Qwen*
-
-Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 7,726,687 • ❤️ 14,878 • 29d ago
+⬇️ 150,110 • ❤️ 1,290 • 1d ago
 
 ---
 
@@ -431,7 +407,31 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 1,596 • ❤️ 561 • 3d ago
+⬇️ 3,552 • ❤️ 653 • 3d ago
+
+---
+
+**[Nex-N2.5-mini](https://huggingface.co/nex-agi/Nex-N2.5-mini)**
+
+*Nex AGI*
+
+Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks, excelling in computer and web browsing operations with visual feedback for self-correction, making it suitable for complex productivity and research scenarios.
+
+`text-generation` `35.1B`
+
+⬇️ 3,970 • ❤️ 748 • 4d ago
+
+---
+
+**[Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**
+
+*Qwen*
+
+Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.
+
+`image-text-to-text` `27.8B`
+
+⬇️ 7,768,964 • ❤️ 14,902 • 29d ago
 
 ---
 
@@ -443,7 +443,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 19,733 • ❤️ 1,136 • 9d ago
+⬇️ 21,336 • ❤️ 1,147 • 10d ago
 
 ---
 
@@ -455,7 +455,7 @@ Nex-N2.5-Pro is a next-generation agentic text-generation model designed for lon
 
 `text-generation` `396.8B`
 
-⬇️ 30,081 • ❤️ 617 • 2d ago
+⬇️ 30,289 • ❤️ 619 • 2d ago
 
 ---
 
@@ -467,7 +467,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 729,683 • ❤️ 900 • 10d ago
+⬇️ 769,557 • ❤️ 927 • 11d ago
 
 ---
 
@@ -479,7 +479,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,601,007 • ❤️ 3,628 • 11d ago
+⬇️ 1,548,442 • ❤️ 3,663 • 12d ago
 
 ---
 
@@ -491,7 +491,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 `27.3B`
 
-⬇️ 11,529,203 • ❤️ 3,954 • 23d ago
+⬇️ 11,005,880 • ❤️ 3,976 • 23d ago
 
 ---
 
@@ -507,7 +507,7 @@ Qwen3.8-27B is a 27B parameter vision-language model optimized with Unsloth for 
 
 AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.
 
-▲ 22 • 💬 2 • ⭐ 4,096 • 21d ago
+▲ 22 • 💬 2 • ⭐ 4,229 • 21d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.17906) • [💻 code](https://github.com/EvoMap/AutoResearch)
 
@@ -537,6 +537,18 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
+**[YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638)**
+
+*Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)*
+
+YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.
+
+▲ 75 • 💬 3 • ⭐ 7,425 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.08638) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue.github.io/)
+
+---
+
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -544,21 +556,9 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 87,651 • 26mo ago
+▲ 86 • 💬 7 • ⭐ 87,703 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638)**
-
-*Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)*
-
-YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.
-
-▲ 75 • 💬 3 • ⭐ 7,205 • 18mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.08638) • [💻 code](https://github.com/multimodal-art-projection/YuE) • [🔗 project](https://map-yue.github.io/)
 
 ---
 
@@ -570,23 +570,9 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 214 • 💬 3 • ⭐ 547 • 5d ago
+▲ 215 • 💬 3 • ⭐ 547 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
-
----
-
-**[Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522)**
-
-*Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)*
-
-🏢 Show Lab
-
-Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
-
-▲ 138 • 💬 3 • ⭐ 276 • 4d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
 ---
 
@@ -604,15 +590,17 @@ FreeToken is an edge-native Mixture-of-Experts serving system that dynamically m
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+**[Show-Harness: Just a VLM Agent Can Play Robots](https://huggingface.co/papers/2609.10522)**
 
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+*Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)*
 
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+🏢 Show Lab
 
-▲ 41 • 💬 1 • ⭐ 32,335 • 35mo ago
+Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.
 
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+▲ 139 • 💬 3 • ⭐ 286 • 4d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.10522) • [💻 code](https://github.com/showlab/Show-Harness) • [🔗 project](https://showlab.github.io/Show-Harness/)
 
 ---
 
@@ -624,9 +612,21 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 207 • 💬 3 • ⭐ 2,706 • 20d ago
+▲ 207 • 💬 3 • ⭐ 2,756 • 20d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 41 • 💬 1 • ⭐ 32,362 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -640,7 +640,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.8k • 🔱 604 • 7m ago
+⭐ 4.8k • 🔱 608 • 5h ago
 
 ---
 
@@ -650,7 +650,7 @@ AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source p
 
 `Python`
 
-⭐ 4.2k • 🔱 286 • 2d ago
+⭐ 4.3k • 🔱 291 • 3d ago
 
 ---
 
@@ -660,7 +660,7 @@ Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2
 
 `Python` `a2a` `agent-orchestration` `agent-routing` `ai-agents` `multi-agent-systems`
 
-⭐ 3.7k • 🔱 422 • 15d ago
+⭐ 3.7k • 🔱 422 • 16d ago
 
 ---
 
@@ -670,7 +670,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 458 • 2d ago
+⭐ 3.6k • 🔱 460 • 2d ago
 
 ---
 
@@ -680,7 +680,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 165 • 1d ago
+⭐ 2.6k • 🔱 165 • 2d ago
 
 ---
 
@@ -690,7 +690,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 93 • 3d ago
+⭐ 2.4k • 🔱 93 • 4d ago
 
 ---
 
@@ -710,7 +710,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 1.8k • 🔱 184 • 18d ago
+⭐ 1.8k • 🔱 186 • 18d ago
 
 ---
 
@@ -730,7 +730,7 @@ SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, mea
 
 `TypeScript` `animation` `avatar` `morphing` `svg` `svg-animation`
 
-⭐ 1.4k • 🔱 184 • 26d ago
+⭐ 1.4k • 🔱 185 • 26d ago
 
 ---
 

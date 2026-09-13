@@ -35,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
-      "pub_date": 1789065307.0,
-      "article_url": "https://breakingdefense.com/?p=95208",
-      "image": null,
-      "description": null
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "source": "blogs.nvidia.com",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
+      "pub_date": 1789058257.0,
+      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
     },
     {
       "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
@@ -55,18 +55,18 @@
       "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
     },
     {
-      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
-      "pub_date": 1789058257.0,
-      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+      "headline": "Israeli military creates new branch focused on AI, drones and robotics",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jbTZWZklFVi1rQm8wWHR4R3MzWUNhWnhZOGZxeGR0LTJOYm03V1FKRHhuR1JfVGd3c19OMFVQbFBnZk9jd0x5RXp6QTM?oc=5",
+      "pub_date": 1789065307.0,
+      "article_url": "https://breakingdefense.com/?p=95208",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWJQVzk2MXBsTm9lNmw2a3VoUmMzd3lRLWZkTk4wTVRMb190dXdvTTFvSkY2azI3NDI0UXU0blEtcEVnb0ZfaW5nTnpkOUNxYzIyYkZCbFZPd2FtT3pOVkExd2tzS3o3X3ZCNU9RcVFDamFUN0FOdTZQWHdPTnloVDB1TnBqakZGT051aWMtTlpPTFF3QkE?oc=5",
       "pub_date": 1789049857.0,
@@ -95,16 +95,16 @@
       "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
     },
     {
-      "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
-      "pub_date": 1789150254.0,
-      "article_url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
-      "image": null,
-      "description": null
+      "headline": "How a Texas A&M professor\u2019s 9/11 mission sparked a revolution in disaster robotics",
+      "source": "KBTX News 3",
+      "source_url": "https://www.kbtx.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1IxZUlLQ0lpVU8yeW5DUU50RWtqTTVhbUNUQWd4N3kwV21TeTljVUJpdVZIeVFqVU9xNy1sT0lRdHEweUxiZHdKQVRKZTV3RE4tS3JzZkZ4MVlhOVhLWjZpdGM4Q29MWDZzMFNWUDBOMXNWV0t6TDJzdjI5LXVzRlo1SjhwM01jQ1dlanpIWjRheWY1NnBRS2Uwb053VXRJYlpFZ2V3YVbSAbwBQVVfeXFMTVhZMlh3S053Y001dG1ZR3N6WVdET19COFlDQTJ1ZEdWd3pYN3otSWhGVkJ6c0pHYlVHTllQMjlSMlVkbXlHbTB3dkpmSHZsbjI3QURzZ3Z3RFE1M1FaNU8yTUI2YmFMbUJla19VR1VPejI3YkwtQjloOGlaQVlNQW8yZjRyXzBldGdfcU5zSkJqOVZYZnhUQmFPZHplQ1Y5TktMNVlvYWRrZHYwN2RaYk5YNGFfZTFzYk1ISXc?oc=5",
+      "pub_date": 1789174320.0,
+      "article_url": "https://www.kbtx.com/2026/09/12/how-texas-am-professors-911-mission-sparked-revolution-disaster-robotics/",
+      "image": "https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/AAKAMEKE6VBXRDOW2UUVN3WH7E.png?auth=ad81037014399e30a45c983f5c64f4978d4934171f52c54e45673748365f3202&width=1200&height=600&smart=true",
+      "description": "Pioneer in disaster robotics Dr. Robin Murphy reflects on deploying experimental robots at ground zero after the Sept. 11 attacks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T05:42:49.975135+00:00"
+  "fetched_at": "2026-09-13T11:13:21.611607+00:00"
 }
