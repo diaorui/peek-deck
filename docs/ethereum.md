@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T21:02:25.037157+00:00'
+updated: '2026-09-13T23:20:58.133347+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 21:02 UTC  
+**Last Updated:** September 13, 2026 at 23:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +0.9%  
-**30d:** +33.5%  
-**90d:** +40.3%  
-**1y:** -45.4%  
+**24h:** -2.0%  
+**7d:** -0.8%  
+**30d:** +31.3%  
+**90d:** +38.0%  
+**1y:** -46.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.57B
+**Market Cap:** $301.66B
 Rank #2
 
 **Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.2%
+-50.0%
 
 **All-Time Low:** $0.43
-+580089.8%
++570759.1%
 
 ---
 
@@ -110,7 +110,7 @@ Every year since January 2019, teams from the Ethereum Foundation have spent an 
 
 Ethereum co-founder Vitalik Buterin has proposed a new system that could change how the network processes transactions as it prepares for its planned I-Star
 
-🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 3d ago
+🔗 [CryptoRank](https://cryptorank.io/news/feed/4f865-vitalik-buterin-proposes-recursive-starks-for-ethereums) • 4d ago
 
 ---
 
@@ -154,23 +154,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
 
-247wallst.com • 2d ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[XRP could outperform Ethereum by 306% based on technical analysis of XRP/ETH ratio.](https://pluang.com/en/news-feed/xrp-berpotensi-lebih-baik-dari-bitcoin-dan-ethereum-analisis-306-persen)**
+**[Harmony plans to shut down its Layer 1 blockcha...](https://pluang.com/en/news-feed/harmony-rencanakan-berhenti-layer-1-dan-pindahkan-token-one-ke-ethereum-untuk)**
 
-Crypto analyst Dark Defender projects that XRP could significantly outperform Ethereum, with the XRP/ETH ratio potentially rising about 306% from its current level. This forecast is based on an Elliott Wave technical pattern targeting a fifth-wave extension to 0.002238 ETH per XRP. However, this projection reflects relative performance, not XRP's absolute price or market cap surpassing Ethereum or Bitcoin. XRP's market cap is currently $86 billion, far below Ethereum's $300 billion and Bitcoin's $1.55 trillion. Institutional access to XRP is expanding through U.S.-listed ETFs, supporting regulated exposure amid mixed market conditions. The key technical levels to watch are the intermediate Fibonacci zones between 0.0006487 and 0.0007773 before the larger target is reached.
+Harmony has proposed ending its independent Layer 1 blockchain due to severe attacks and shifting focus to a new AI video project on Ethereum. Validators may stop running nodes by September 10, 2026, with a token migration that snapshots ONE tokens and airdrops new ERC-20 tokens on Ethereum. The team offers incentives for validators to become governors in the new project, which centers on AI-driven video remixing and operator revenue. The plan follows a major exploit in August and marks a strategic pivot from maintaining the original chain to rebuilding on Ethereum.
 
-Pluang • 4h ago
-
----
-
-**[BNB Chain leads 2026 with $3.6B surge in real-w...](https://pluang.com/en/news-feed/pertumbuhan-nilai-rwa-bnb-chain-lebih-cepat-dari-solana-ethereum-harga-bnb-bakal)**
-
-BNB Chain, part of the Binance ecosystem, has become the fastest-growing blockchain for real-world assets (RWA) in 2026, adding $3.6 billion in tokenized asset value. This growth surpasses competitors like Solana ($2.6B) and Ethereum ($1.6B), highlighting BNB Chain's expanding role in the tokenized financial products market. The network's scalability, low transaction costs, and increasing user adoption are driving this momentum, potentially positioning BNB for a price rally if market conditions remain favorable. Ethereum still leads overall RWA market share, but BNB Chain's rapid growth signals a shift in institutional and user interest toward its ecosystem.
-
-Pluang • 4h ago
+Pluang • 2h ago
 
 ---
 
@@ -178,7 +170,7 @@ Pluang • 4h ago
 
 Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +178,7 @@ Yahoo Finance • 23h ago
 
 Ethereum (ETH) is set to break its longest losing streak on record, a prediction Bitmine Immersion (BMNR) chairman Tom Lee already made back in August.The second-largest cryptocurrency fell by nearly 29% in the fourth quarter of 2025, roughly 30% in the first quarter of 2026, and nearly 26% in the…
 
-tradingview.com • 5h ago
+TradingView • 7h ago
 
 ---
 
@@ -194,7 +186,7 @@ tradingview.com • 5h ago
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-AMBCrypto • 21h ago
+AMBCrypto • 23h ago
 
 ---
 
@@ -224,7 +216,15 @@ CryptoSlate • 2d ago
 
 About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-stocktwits.com • 2d ago
+Stocktwits • 2d ago
+
+---
+
+**[Ethereum Price Prediction: ETH Rips 33% as Whales Load Up, and Pepeto's $10.9M Presale Offers ETH's 2014 Entry Again](https://financefeeds.com/ethereum-price-prediction-eth-rips-33-as-whales-load-up-and-pepetos-10-9m-presale-offers-eths-2014-entry-again/)**
+
+Anyone reading an ethereum price prediction this week wants proof the rebound is real before adding more. ETH ripped 33% higher from August 11 to September
+
+financefeeds.com • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 6K • 👍 270 • 💬 22 • ⏱️ 15:15 • 7h ago
+👁️ 9K • 👍 291 • 💬 23 • ⏱️ 15:15 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 27K • 👍 586 • 💬 88 • ⏱️ 7:35 • 1d ago
+👁️ 27K • 👍 590 • 💬 88 • ⏱️ 7:35 • 1d ago
 
 ---
 
@@ -268,17 +268,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 29K • 👍 517 • 💬 94 • ⏱️ 22:54 • 1d ago
-
----
-
-**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
-
-BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 14K • 👍 356 • 💬 208 • ⏱️ 17:26 • 22h ago
+👁️ 31K • 👍 527 • 💬 95 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -298,7 +288,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 6K • 👍 80 • 💬 15 • ⏱️ 9:47 • 2d ago
+👁️ 6K • 👍 82 • 💬 15 • ⏱️ 9:47 • 2d ago
+
+---
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 27K • 👍 700 • 💬 489 • ⏱️ 17:30 • 2d ago
 
 ---
 
@@ -308,27 +308,27 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 991 • 💬 55 • ⏱️ 11:43 • 2d ago
+👁️ 45K • 👍 997 • 💬 56 • ⏱️ 11:43 • 2d ago
 
 ---
 
-**[ETHEREUM FAKEOUT WARNING! (Ethereum Update)](https://www.youtube.com/watch?v=9grcec5zJNk)**
+**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 380 • 👍 20 • 💬 2 • ⏱️ 3:53 • 10h ago
+👁️ 15K • 👍 359 • 💬 210 • ⏱️ 17:26 • 1d ago
 
 ---
 
-**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
+**[ETHEREUM Análisis del Precio Para Zonas Importantes - ETH](https://www.youtube.com/watch?v=yKSyQhbVyC4)**
 
-One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
+Ingreso a Pro Plan Trading (Tiempo Limitado) : ➡️ https://www.proplantrading.com/acceso/especial/6meses-page Inicia en ...
 
-📺 The Modern Investor
+📺 Julio Alfaro
 
-👁️ 14K • 👍 875 • 💬 387 • ⏱️ 31:34 • 2d ago
+👁️ 4K • 👍 96 • 💬 62 • ⏱️ 11:03 • 2d ago
 
 ---
 

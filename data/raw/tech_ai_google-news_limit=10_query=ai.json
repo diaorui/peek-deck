@@ -5,14 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "What Anthropic\u2019s C.E.O. Argued in His Call for Slower A.I. Development",
+      "headline": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-      "pub_date": 1789315131.0,
-      "article_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "pub_date": 1789228981.0,
+      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObU80LU1pUWlIdUM4bHNGYXJ2cjBERnFnRzVQaEQwQWl5UHFqbUpONDZuV2NTSEkwWk42REJBUnl0ODNYOHhTQWJuUk52c3NoN3l4MUJ4RlNFWldHTUxaUzMxSDExQjdyMnQxNUlxZXRTX3NmZkI5MzIwcTAxa2RsRUZn?oc=5",
+      "pub_date": 1789331027.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "pub_date": 1789338300.0,
+      "article_url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "description": "The three major averages are coming off a losing week."
     },
     {
       "headline": "AI and the end of humanity? OK, \u2018doomer\u2019 says one Trump official",
@@ -25,24 +45,14 @@
       "description": "The latest warning from a former AI engineer was supposed to boggle minds and shock everyone into action."
     },
     {
-      "headline": "Chip Roy is leaving Congress \u2014 but not before warning his colleagues about AI",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
-      "pub_date": 1789324860.0,
-      "article_url": "https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
-      "pub_date": 1789318577.0,
-      "article_url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108279107-1773772538515-gettyimages-2267071488-_s010514_2opooioo.jpeg?v=1773772591&w=1920&h=1080",
-      "description": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation."
+      "headline": "Top AI chief executives publicly agree on slowing AI development",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2pkUm1xNnVlR3BDWldEczM5czE0QTd6WXIweDZsN1NSRHh4clFmS3FuMGJKWWZXWnlvMTBvanM1TXZ3MHZQQTNJOGNiOUJsMWFBMTN3UmhudTlmd1RldURmektiQVl5cmN0UEE3T1NYZ0xUR1phc25hczd5TWoyYzhfT2lTSFh1OE5NSUlyblJ4eDBsQzdBbkhpOE9xTk1pbE5EQ0dZcXJqc2ZQMUhOaF9BNjM0a1UzTVBzVg?oc=5",
+      "pub_date": 1789339742.0,
+      "article_url": "https://www.nbcnews.com/nightly-news/video/top-ai-chief-executives-publicly-agree-on-slowing-ai-development-269795397829",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789339351560_wnn_aca_ai_chiefs_slow_down_260913_S3_1920x1080-ozfcto.jpg",
+      "description": "The CEOs of two of the world\u2019s leading AI companies are publicly agreeing that the race to build increasingly powerful AI systems needs to be slowed, continuing the cascade of warnings from researchers working on the technology. NBC News\u2019 Allie Canal reports."
     },
     {
       "headline": "He was close to a huge math breakthrough. Then he got scooped by AI.",
@@ -55,6 +65,16 @@
       "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work."
     },
     {
+      "headline": "Chip Roy is leaving Congress \u2014 but not before warning his colleagues about AI",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
+      "pub_date": 1789324860.0,
+      "article_url": "https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "It\u2019s All Fun and Games Until You Give AI Your Credit Card",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
@@ -65,6 +85,16 @@
       "description": "AI personal assistants are now acting on people\u2019s behalf in the real world\u2014and all sorts of strange things are going wrong."
     },
     {
+      "headline": "Self-learning AI releases NFL picks, score predictions every Week 1 game",
+      "source": "CBS Sports",
+      "source_url": "https://www.cbssports.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMU82RE8xUE1vQXdwRjNJRHBJOGpQVkNPcUhrSjg1NENFOHdsaW5XSXI4OWVPbHlLc0MtSGJraDN2bXM3cnBpVW53emREZUFxcGhCdnJoOW9RV2V1RDFZVE82dF84X2lhQ3NtT0Q4R1FEV3dVaWxDZlpBQ1I5TjRFWVRFbUNZRXNxM0hnNzl5dVBEa2VkZzRBb19oaWpSN3RSY2JsTFpB?oc=5",
+      "pub_date": 1789311240.0,
+      "article_url": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-every-week-1-2026-game/",
+      "image": "https://sportshub.cbsistatic.com/i/r/2025/10/29/1bf6927e-3bcc-46ea-a311-a35a81f15c18/thumbnail/1200x675/dbe054ba6e166e629894d50416c596d5/zay-flowers.jpg",
+      "description": "SportsLine's self-learning AI reveals its betting guide for the rest of the Week 1 NFL schedule"
+    },
+    {
       "headline": "Can robots beat treasure hunters to keep Seattle-area Goodwill afloat?",
       "source": "The Seattle Times",
       "source_url": "https://www.seattletimes.com",
@@ -73,38 +103,8 @@
       "article_url": "https://www.seattletimes.com/business/evergreen-goodwill-is-losing-millions-can-ai-and-restructuring-help/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
-      "pub_date": 1789230137.0,
-      "article_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
-      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
-    },
-    {
-      "headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
-      "pub_date": 1789245480.0,
-      "article_url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sam Altman says OpenAI will not go public this year as AI fears grow",
-      "source": "San Francisco Chronicle",
-      "source_url": "https://www.sfchronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXFUVC1oTVFZREs4RFlZSTlELUx1MEdCWjZkNE1zcWZCQlJtOEpneWdXZGVuMTJIRVAtTlNiMUYyN21UdjVXeGsxSVBveThsbUlwMGU1NzgtRVlrMEREWjJ2blF5S2JOTkw0TDJoei1CNVlDZmV5NGpVY05QOS01bGg1OA?oc=5",
-      "pub_date": 1789331292.0,
-      "article_url": "https://www.sfchronicle.com/tech/article/openai-ipo-delay-altman-22430043.php",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T21:02:23.764030+00:00"
+  "fetched_at": "2026-09-13T23:20:54.177635+00:00"
 }
