@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-08-22T20:00:00.000Z",
       "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 4229,
+      "github_stars": 4299,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 23494,
+      "github_stars": 23757,
       "project_page": null
     },
     {
@@ -77,6 +77,25 @@
       "project_page": "https://map-yue.github.io/"
     },
     {
+      "id": "2609.08936",
+      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+      "authors": "Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million hours of effective supervision across five task families: speech generation, content editing, enhancement and separation, paralinguistic editing, and acoustic editing. AuK combines a multimodal large language model for semantic conditioning, an VAE jointly trained on speech, general audio, and music for acoustic conditioning, and a hybrid rectified-flow Transformer that performs dual-stream MMDiT blocks followed by unified single-stream DiT blocks for generation. Training begins with generation-only warm-up and proceeds to joint generation--editing pre-training. We then apply complementary post-training strategies: human-feedback preference optimization for open-ended editing and reward-based reinforcement learning for speech generation. To reduce inference cost, we further distill the model with consistency initialization and task-routed Decoupled DMD. The resulting AuK-Flash performs 4-step inference without classifier-free guidance and achieves a 4.5 wall-clock speedup over the full model under matched conditions. Experiments demonstrate leading performance on zero-shot and instruction-controlled speech generation and general instruction-guided editing, while remaining competitive on signal-level restoration tasks. We release both the source code and model weights to support reproducibility and further research.",
+      "ai_summary": "AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.",
+      "hf_url": "https://huggingface.co/papers/2609.08936",
+      "arxiv_url": "https://arxiv.org/abs/2609.08936",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
+      "upvotes": 217,
+      "num_comments": 3,
+      "published_at": "2026-09-07T20:00:00.000Z",
+      "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
+      "github_stars": 671,
+      "project_page": "https://auk-project.github.io/"
+    },
+    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -92,27 +111,8 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87703,
+      "github_stars": 87755,
       "project_page": null
-    },
-    {
-      "id": "2609.08936",
-      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-      "authors": "Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million hours of effective supervision across five task families: speech generation, content editing, enhancement and separation, paralinguistic editing, and acoustic editing. AuK combines a multimodal large language model for semantic conditioning, an VAE jointly trained on speech, general audio, and music for acoustic conditioning, and a hybrid rectified-flow Transformer that performs dual-stream MMDiT blocks followed by unified single-stream DiT blocks for generation. Training begins with generation-only warm-up and proceeds to joint generation--editing pre-training. We then apply complementary post-training strategies: human-feedback preference optimization for open-ended editing and reward-based reinforcement learning for speech generation. To reduce inference cost, we further distill the model with consistency initialization and task-routed Decoupled DMD. The resulting AuK-Flash performs 4-step inference without classifier-free guidance and achieves a 4.5 wall-clock speedup over the full model under matched conditions. Experiments demonstrate leading performance on zero-shot and instruction-controlled speech generation and general instruction-guided editing, while remaining competitive on signal-level restoration tasks. We release both the source code and model weights to support reproducibility and further research.",
-      "ai_summary": "AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.",
-      "hf_url": "https://huggingface.co/papers/2609.08936",
-      "arxiv_url": "https://arxiv.org/abs/2609.08936",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 216,
-      "num_comments": 3,
-      "published_at": "2026-09-07T20:00:00.000Z",
-      "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
-      "github_stars": 671,
-      "project_page": "https://auk-project.github.io/"
     },
     {
       "id": "2608.16157",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.10522",
       "arxiv_url": "https://arxiv.org/abs/2609.10522",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 142,
+      "upvotes": 144,
       "num_comments": 3,
       "published_at": "2026-09-08T20:00:00.000Z",
       "github_repo": "https://github.com/showlab/Show-Harness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-13T14:59:07.564368+00:00"
+  "fetched_at": "2026-09-13T18:04:40.678139+00:00"
 }

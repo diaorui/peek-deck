@@ -9,54 +9,34 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "pub_date": 1789258554.0,
+      "pub_date": 1789228981.0,
       "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump says 'very negative forces' raising exaggerated concerns over AI",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
-      "pub_date": 1789309964.0,
-      "article_url": "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
-      "image": null,
-      "description": null
+      "headline": "Trump dismisses AI leaders\u2019 calls to slow down, citing Chinese competition",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+      "pub_date": 1789318983.0,
+      "article_url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUWBFHURSIW2HII66QLT35CRUI_size-normalized.jpg&w=1440",
+      "description": "Democrats are increasingly attacking the administration\u2019s hands-off approach to artificial-intelligence regulation as midterms approach."
     },
     {
-      "headline": "Trump Downplays AI Concerns as CEOs Call for Slowing Technology",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1vSDAyWm9XdVFqVm5sNmRwc3AxNXZ1MjhrSXpPZDRqeWdOaFZIbklQT25RUDZGZFdaYVN3a0xkM2FjTmZDYTBnelJmRHhXNklQQUVoSlFjY3ZrY2FrMjlRbEZ2YzdRWG5GTnl1RU1fSWFLWDh6Vm1HSTdYVC1oaWVaUDZSSTVLLWYxU1BEbWJIU0wyS3ZERUdrQzBPRVk3blktTWFzRFRGNHY2RWZ6MGwwVG8?oc=5",
-      "pub_date": 1789307988.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump splits with AI execs, says 'negative forces' impacting industry",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV19aX1c3UHRTN3NKeDZ5VGJWMU5FMGZCM0xRbTlnZW9HY0tmcjZxUjdfS21Lelp5ZjY4SUlQZlpqRjRDUFZ4ZGZnbWFUaHpldnJCdHlYeE9QT0M0MldXSUZyLVl6VmxuemdtbnBTWkJrREFjLS01M1FxQl9sZkpYcW9rR09xZ1pYVmgxb2p6c0t2eTJpaTU0dV9MN3Y0Rm9VclRER21KMG9ydw?oc=5",
-      "pub_date": 1789308120.0,
-      "article_url": "https://www.usatoday.com/story/news/politics/2026/09/13/donald-trump-ai-slowdown-dario-amodei/91745098007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/13/USAT/91745168007-20260913-t-131855-z-830808040-rc-2-dinajvvuf-rtrmadp-3-usatrumpireland.JPG?crop=5499,3093,x0,y550&width=3200&height=1800&format=pjpg&auto=webp",
-      "description": "Trump criticized \"negative\" voices around the AI industry, saying they are \"bringing up things that won't happen.\""
-    },
-    {
-      "headline": "Speaker Johnson calls for AI \u2018guardrails\u2019 but won\u2019t set a pre-election timetable",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejZNMVlzOE9Gb25velRXWVhhNjBfZzlXX3ZWN181VWYycGNhWE1oZXBRVm5leTZ2U21jU2paeGFNRlVFaXE2cnZMdGcyX3VwQ0pTVEJONzFZVFhGQjkyZUhGNlhFZGNSTDU2VXJIRlNfOTlpM1BDT0Y1SmFsSEltUTk0a3ZRSmFtV0hqdkJYWU1OdjRWUGRnb1JKdzUxSWZGYjA4aGNpdEFTWjNackh1cFlVTl9oSVQ4ZV9uVndoWVAzbmVaMmxRUkROWDZmWE9oa1E?oc=5",
-      "pub_date": 1789307767.0,
-      "article_url": "https://www.nbcnews.com/meet-the-press/video/speaker-johnson-calls-for-ai-guardrails-but-won-t-set-a-pre-election-timetable-269787717732",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789304400706_mtp_clip_johnsonai_260913_S3_1920x1080-giscer.jpg",
-      "description": "In an interview with Meet the Press, House Speaker Mike Johnson (R-La.) says he\u2019d call the House back into session \u201cif we had the solution\u201d to AI guardrails after an Anthropic whistleblower warned that AI could \u201ckill\u201d off humanity in the next decade."
+      "headline": "'It\u2019s really embarrassing that this is still a possibility' \u2014 AI could exploit a flaw in Georgia's voting equipment and match voters to their ballots",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUxjVV9kVUJPZkJWV2FRUGRwTjAtUklzM2ktQTFMN1BGQk53aG0xWmlkeHE3OFFTQzl1ZWpSTXdkTDJjZFd2c2xPWnJFM1ZaYkRadU1WWHFTSzRBRXUxMFR1dm1BbURRaE9FOGdqQkcteUN5VDIxRmhDQktLOXdnVlFhcUhJajQ5LUtLZDBR?oc=5",
+      "pub_date": 1789309440.0,
+      "article_url": "https://fortune.com/2026/09/13/ai-flaw-georgia-voting-equipment-match-voters-ballots/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26254690137685-e1789308913709.jpg?resize=1200,600",
+      "description": "Georgia election officials say they have taken steps to address the potential harm, but some advocates say the state is not going far enough."
     },
     {
       "headline": "Johnson calls for AI solutions but says Congress won't take the lead",
-      "source": "axios.com",
+      "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
       "pub_date": 1789308239.0,
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "Tech companies must be responsible for AI safety, Mike Johnson says, not Congress",
+      "headline": "Tech companies must be primarily responsible for AI safety, Mike Johnson says",
       "source": "Politico",
       "source_url": "https://www.politico.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
-      "pub_date": 1789308840.0,
+      "pub_date": 1789315200.0,
       "article_url": "https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI whistleblower calls for \u2018global coordination\u2019 to mitigate AI risks: Full interview",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmhDaU9iWUxqUmdhRVR0WTNNb09uWEU2QnY5WUI5WWtRUzk1UHR1NnF4em44YXZ6YWIyYXR6YWhZU2VUWlN5VDg4QldKMUZ0d21GY3YtSkhVaXNPX18zQnhEbUJZOFRLMGpJUThVa0FtTXd5SmtaT1BQZmI3OFJ3b0QyVFVibW1neUxTaEFPaFlCTmFQRlg4VS03a0JFb21PYWI4NWVwdHNpZGYxaTVmVmJqcXQ4VlFLQkdlaHQ4ZUVfTmZvLS1XLTlBdWlKVExDcW9hV2xFMA?oc=5",
-      "pub_date": 1789304655.0,
-      "article_url": "https://www.nbcnews.com/meet-the-press/video/ai-whistleblower-calls-for-global-coordination-to-mitigate-ai-risks-full-interview-269786693730",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789304400571_mtp_full_coxon_260913_S3_1920x1080-cjxn8b.jpg",
-      "description": "In an interview with Meet the Press, former Anthropic AI researcher Jacob Coxon says he expects that AI\u2019s capability could become \u201cquite scary\u201d within 6 months to a year."
+      "headline": "Speaker Johnson: \u2018Don\u2019t panic\u2019 on AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JNHFaeUVNYjc1SDJwaHFSbG5WTWd5UUFISVdqUndiLUQ0OWFxVjJMdUczaFByZDE0UXBMVTJqYjdTSjc4WjlkVV9sYWltT1N1LUQ5TUlUcmJfeHA2QlpjOUlCRXl6bFI3a01Sb1dJRnAtOTlQY2FqYw?oc=5",
+      "pub_date": 1789315560.0,
+      "article_url": "https://www.cnn.com/2026/09/13/us/video/22980508-johnson-ai-race-vrtc",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/johnson-ai-thumb.jpg?c=16x9&q=w_800,c_fill",
+      "description": "House Speaker Mike Johnson (R) says Americans should not panic on AI regulation, warning that a rushed response could affect American innovation and threaten national security."
     },
     {
-      "headline": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
-      "source": "axios.com",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5",
-      "pub_date": 1789260225.0,
-      "article_url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "headline": "He was close to a huge math breakthrough. Then he got scooped by AI.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
+      "pub_date": 1789318800.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
+      "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work."
+    },
+    {
+      "headline": "It\u2019s All Fun and Games Until You Give AI Your Credit Card",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2QzZ0NxU3pWZkRLLTBiV0t1SFRSSmh4TkpBZTNGenBDWDh2Q25MSW51ay1oSklxR25Qdnk4WnRxTV90SU01UTV3d1NfQWdNSF9HcEU0VE5aZXdIdWRYU2tfRU1nYlE1ckNNZlRzV3B3bGxidjJyWURDSUI0RWJiWWd0dUVMQlhtSEROUjlwM1J4U2M4a2k0SDVDRGU3dw?oc=5",
+      "pub_date": 1789299000.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "image": "https://cdn.theatlantic.com/thumbor/3YdrXv-D5uQTQEXdEbyhnrIWD18=/0x32:1498x812/1200x625/media/img/mt/2026/09/2026_09_11_chatbt_mpg/original.gif",
+      "description": "AI personal assistants are now acting on people\u2019s behalf in the real world\u2014and all sorts of strange things are going wrong."
+    },
+    {
+      "headline": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+      "pub_date": 1789317469.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "source": "cnbc.com",
+      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
-      "pub_date": 1789230137.0,
-      "article_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
-      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
+      "pub_date": 1789282902.0,
+      "article_url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108324132-1781806488552-gettyimages-2282235201-6e6a1266_jx5txjwj.jpeg?v=1781808268&w=1920&h=1080",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T14:59:37.416107+00:00"
+  "fetched_at": "2026-09-13T18:04:50.926204+00:00"
 }
