@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-13T14:59:39.855428+00:00'
+updated: '2026-09-13T18:04:53.163453+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 14:59 UTC  
+**Last Updated:** September 13, 2026 at 18:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -2.5%  
-**30d:** +22.3%  
-**90d:** +17.5%  
-**1y:** -33.2%  
+**24h:** +0.2%  
+**7d:** -2.3%  
+**30d:** +22.6%  
+**90d:** +17.7%  
+**1y:** -33.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1549.58B
+**Market Cap:** $1552.59B
 Rank #1
 
-**Circulating Supply:** 20,083,712 BTC
+**Circulating Supply:** 20,083,837 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.8%
+-38.7%
 
 **All-Time Low:** $67.81
-+113682.6%
++113902.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Renaissance](https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/)**
 
-5h ago
+8h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+11h ago
 
 ---
 
 **[Lock in.](https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/)**
 
-15h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 KYC is getting more dangerous by day. Once you'll have enough of this, have a look at BISQ, Robosats, HodlHodl, PeachBitcoin or Vexl instead.
 
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request) • 20h ago
+🔗 [coindesk.com](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request) • 23h ago
 
 ---
 
@@ -121,13 +121,13 @@ KYC is getting more dangerous by day. Once you'll have enough of this, have a lo
 
 I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
 
-2h ago
+5h ago
 
 ---
 
 **[case trezor safe 5 print 3D](https://www.reddit.com/r/Bitcoin/comments/1wet2e0/case_trezor_safe_5_print_3d/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -135,7 +135,7 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 Can someone explain for example how insecure of would be to have 1 vendor that's compromised? I mean they would need the other keys plus the descriptor to. 2-3. Like they said remove the coldcard if you have one. Even with 2 corrupted wallets you would need the descriptor
 
-4h ago
+7h ago
 
 ---
 
@@ -143,7 +143,7 @@ Can someone explain for example how insecure of would be to have 1 vendor that's
 
 I received emails wich seems legit hardware wallet support, either asking to update, or addressing some alleged "compliance" issues, all these targeted my public known email linked to reddit (never use your public email for hardware wallet or exchange subscription or support) got similar emails from "coinkite" "trezor" "Geyscale" "unstoppable". DO NOT OPEN ANY LINKS NEITHER FOLLOW ANY PROCEDURE SUGGESTED BY THESE EMAIL
 
-23m ago
+3h ago
 
 ---
 
@@ -163,11 +163,11 @@ Forbes • 1d ago
 
 ---
 
-**[Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’](https://finance.yahoo.com/markets/crypto/articles/jordi-visser-puts-bitcoin-same-113859921.html)**
+**[Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market](https://finance.yahoo.com/markets/crypto/articles/analysts-think-bitcoin-less-5-170511162.html)**
 
-Jordi Visser grouped Bitcoin, SpaceX, Anthropic, and OpenAI as future-defining assets that do not rely on profits.
+Bitcoin sits $4,900 below a bull market confirmation as whales sell the rally and US funds stay out. Everything you need to know.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 59m ago
 
 ---
 
@@ -175,7 +175,13 @@ Yahoo Finance • 3h ago
 
 Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
 
-cnbc.com • 1d ago
+CNBC • 2d ago
+
+---
+
+**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -183,7 +189,23 @@ cnbc.com • 1d ago
 
 American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
 
-Business Insider Africa • 22h ago
+Business Insider Africa • 1d ago
+
+---
+
+**[Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’](https://www.tradingview.com/news/stocktwits:df3732b61094b:0-jordi-visser-puts-bitcoin-in-the-same-bucket-as-spacex-anthropic-and-openai-says-none-of-them-make-money/)**
+
+Veteran macro investor Jordi Visser said Bitcoin (BTC) is in the same bucket as SpaceX (SPCX), Anthropic (ANTHZZX), and OpenAI (OPEAZZX)—four assets he estimated are worth around $8 trillion combined, none of which turn profits at the moment.In an interview with Anthony Pompliano published on Satur…
+
+TradingView • 6h ago
+
+---
+
+**[Why Is Bitcoin Dropping Today?](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-today-204955824.html)**
+
+Hot inflation data, a looming Fed decision, and four straight days of ETF outflows are hitting Bitcoin from three directions at once, and the next 72 hours could determine whether the floor holds or breaks.
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -193,33 +215,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Why Is Bitcoin Dropping Today?](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-today-204955824.html)**
+**[With the Midterm Elections Coming Up, This Is the Only Cryptocurrency I'm Buying Right Now](https://www.fool.com/investing/2026/09/13/with-the-midterm-elections-coming-up-this-is-the-o/)**
 
-Hot inflation data, a looming Fed decision, and four straight days of ETF outflows are hitting Bitcoin from three directions at once, and the next 72 hours could determine whether the floor holds or breaks.
+Bitcoin has the support of both the White House and Wall Street, making it a less risky play than other cryptocurrencies.
 
-Yahoo Finance • 18h ago
-
----
-
-**[Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure](https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares)**
-
-A new CoinShares report said bitcoin's price could be hurt in the short-term but benefit in the long-term.
-
-Bitcoin Magazine • 1d ago
-
----
-
-**[How Low Can Bitcoin Go?](https://247wallst.com/investing/cryptocurrency/2026/09/12/how-low-can-bitcoin-go/)**
-
-Bitcoin's bear calls run from a 20% flush to a 75% crash. Here is which level the evidence supports and what would invalidate it.
-
-24/7 Wall St. • 18h ago
-
----
-
-**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
-
-Reuters • 1d ago
+fool.com • 6h ago
 
 ---
 
@@ -231,7 +231,7 @@ Reuters • 1d ago
 
 Neha Narula
 
-⬆️ 7 • 💬 1 • 5d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
+⬆️ 7 • 💬 1 • 6d ago • [nehanarula.org](https://nehanarula.org/2026/09/07/liquid-hack.html)
 
 ---
 
@@ -239,7 +239,7 @@ Neha Narula
 
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
-⬆️ 6 • 💬 1 • 23h ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
+⬆️ 6 • 💬 1 • 1d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -283,25 +283,25 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 ---
 
-**[Bitcoin mining data center condemned after leaking 3M gallons of water](https://news.ycombinator.com/item?id=49588413)**
-
-Oklahoma, El Reno city asserts that none of the costs related to the water leak at the property will be passed on to citizens.
-
-⬆️ 4 • 💬 0 • 6d ago • [Tom's Hardware](https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order)
-
----
-
-**[The Liquid Network (Bitcoin sidechain) is stuck at block 4050335](https://news.ycombinator.com/item?id=49587562)**
-
-Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See Liquid transactions & assets, get network info, and more.
-
-⬆️ 3 • 💬 0 • 6d ago • [liquid.network](https://liquid.network/es/block/aad24e4fb64ca8adf4961667da87820cd48e553957ac64e75de7cdb298b5d66b)
-
----
-
 **[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
 
 ⬆️ 1 • 💬 1 • 1d ago
+
+---
+
+**[Privacy on Bitcoin: what works and what doesn't](https://news.ycombinator.com/item?id=49643366)**
+
+Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
+
+⬆️ 1 • 💬 0 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+
+---
+
+**[Getdescriptorinfo – Bitcoin Core RPC Reference – Chainquery.com](https://news.ycombinator.com/item?id=49621007)**
+
+analyses a descriptor.
+
+⬆️ 1 • 💬 0 • 4d ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
 
 ---
 
@@ -315,47 +315,7 @@ Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($10
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 2K • 💬 254 • ⏱️ 39:00 • 16h ago
-
----
-
-**[I Made A Huge Mistake Investing In Bitcoin](https://www.youtube.com/watch?v=Jh91F5qCswQ)**
-
-This is the crazy story of what happened to me investing from 2024-2026. My story of bitcoin and why consistency is key. Open ...
-
-📺 IanOnYouTube
-
-👁️ 33K • 👍 2K • 💬 542 • ⏱️ 15:21 • 15h ago
-
----
-
-**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 108K • 👍 3K • 💬 99 • ⏱️ 53:38 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Target Is $109,000. Here&#39;s Why...](https://www.youtube.com/watch?v=sWowB0wxyCU)**
-
-Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
-
-📺 Crypto Banter
-
-👁️ 20K • 👍 385 • 💬 22 • ⏱️ 43:02 • 20h ago
-
----
-
-**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
-
-Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
-
-📺 Altcoin Daily
-
-👁️ 74K • 👍 2K • 💬 299 • ⏱️ 11:37 • 1d ago
+👁️ 65K • 👍 2K • 💬 349 • ⏱️ 39:00 • 19h ago
 
 ---
 
@@ -365,47 +325,87 @@ Fox News chief congressional correspondent Chad Pergram reports as the Senate pr
 
 📺 Fox News Clips
 
-👁️ 2K • 👍 96 • 💬 106 • ⏱️ 2:15 • 3h ago
+👁️ 9K • 👍 346 • 💬 191 • ⏱️ 2:15 • 6h ago
 
 ---
 
-**[Bitcoin Is Built For The Economy Nobody Sees Coming | Mark Moss](https://www.youtube.com/watch?v=QfJXV85FMrk)**
+**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
 
-Bitcoin #Crypto #finance Mark Moss joins the show to break down Bitcoin's sharp rebound, why institutional buyers accumulated ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 The Wolf Of All Streets
+📺 Anthony Pompliano
 
-👁️ 28K • 👍 655 • 💬 311 • ⏱️ 58:14 • 1d ago
-
----
-
-**[Why $800K Bitcoin Targets Miss the Real Story](https://www.youtube.com/watch?v=otZ6P3iAZAY)**
-
-Cake Wallet founder and CEO Vik Sharma reflects on why expecting an $800000 Bitcoin price target was over-optimistic. Despite ...
-
-📺 Natalie Brunell
-
-👁️ 10K • 👍 133 • 💬 22 • ⏱️ 0:52 • 1d ago
+👁️ 114K • 👍 3K • 💬 99 • ⏱️ 53:38 • 1d ago
 
 ---
 
-**[Bitcoin Investment: Company vs Individual Strategy](https://www.youtube.com/watch?v=4N9fVeQVDTA)**
+**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
 
-Rustin talks about Bitcoin Investment: Company vs Individual Strategy Brought to you by Bitcoinwell.com a bitcoin-only platform on ...
+Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 308 • 👍 19 • 💬 11 • ⏱️ 0:31 • 1h ago
+👁️ 76K • 👍 2K • 💬 299 • ⏱️ 11:37 • 1d ago
 
 ---
 
-**[Bitcoin vs. the Fed: What This Means for Michael Saylor&#39;s Strategy Moves](https://www.youtube.com/watch?v=KaVEvKVRFdw)**
+**[I Made A Huge Mistake Investing In Bitcoin](https://www.youtube.com/watch?v=Jh91F5qCswQ)**
 
-The Federal Reserve is expected to raise interest rates next week, the first hike since July 2023. Bitcoin's largest corporate holder ...
+This is the crazy story of what happened to me investing from 2024-2026. My story of bitcoin and why consistency is key. Open ...
 
-📺 Dana Love, PhD
+📺 IanOnYouTube
 
-👁️ 26K • 👍 793 • 💬 172 • ⏱️ 22:16 • 1d ago
+👁️ 37K • 👍 2K • 💬 592 • ⏱️ 15:21 • 18h ago
+
+---
+
+**[Bitcoin&#39;s Next Target Is $109,000. Here&#39;s Why...](https://www.youtube.com/watch?v=sWowB0wxyCU)**
+
+Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
+
+📺 Crypto Banter
+
+👁️ 22K • 👍 406 • 💬 23 • ⏱️ 43:02 • 23h ago
+
+---
+
+**[Fed Rate Hike Wednesday: Gold, Oil, Bitcoin Charts And A Bigger Risk Than Nukes Now Reality!](https://www.youtube.com/watch?v=leWFKuETS7s)**
+
+In this special Sunday edition, Gareth Soloway breaks down the Federal Reserve meeting on Tuesday and Wednesday and what ...
+
+📺 Gareth Soloway
+
+👁️ 27K • 👍 4K • 💬 427 • ⏱️ 17:21 • 4h ago
+
+---
+
+**[Bitcoin&#39;s Mythical Supercycle Is Finally Starting](https://www.youtube.com/watch?v=KBWfKENxs1U)**
+
+When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator with 5 of the top Bitcoin forecast models built in ...
+
+📺 Mark Moss
+
+👁️ 129K • 👍 2K • 💬 400 • ⏱️ 45:54 • 2d ago
+
+---
+
+**[🌍 Retire on Bitcoin by 2032: Global Wealth Matrix &amp; How Much You Need 🚀](https://www.youtube.com/watch?v=c0X9585-KDI)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+
+📺 InvestAnswers
+
+👁️ 91K • 👍 4K • 💬 224 • ⏱️ 30:29 • 2d ago
+
+---
+
+**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
+
+BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 348 • 💬 207 • ⏱️ 17:26 • 19h ago
 
 ---
 
