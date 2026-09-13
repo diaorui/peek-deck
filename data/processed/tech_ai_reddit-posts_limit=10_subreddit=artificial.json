@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Trump rejects Silicon Valley\u2019s calls for AI slowdown",
+      "author": "Capable-Blueberry653",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/",
+      "published": 1789331759.0,
+      "thumbnail": "https://external-preview.redd.it/lsrShIZ76AnJxAzIpzP34yd9bh6tB98HdsIkqyDNN5U.jpeg?width=640&crop=smart&auto=webp&s=f92ee14ab888e6b96aa664c5970972b35b4a0b4e",
+      "external_url": "https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday."
+    },
+    {
       "title": "Someone explain it to me like. I\u2019m five. They know they can shut the data centers off, right?",
       "author": "deus-libidinis",
       "url": "https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/",
@@ -24,17 +35,6 @@
       "description": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets."
     },
     {
-      "title": "Trump rejects Silicon Valley\u2019s calls for AI slowdown",
-      "author": "Capable-Blueberry653",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/",
-      "published": 1789331759.0,
-      "thumbnail": "https://external-preview.redd.it/lsrShIZ76AnJxAzIpzP34yd9bh6tB98HdsIkqyDNN5U.jpeg?width=640&crop=smart&auto=webp&s=f92ee14ab888e6b96aa664c5970972b35b4a0b4e",
-      "external_url": "https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday."
-    },
-    {
       "title": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
       "author": "CiccioPixel",
       "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
@@ -46,6 +46,17 @@
       "description": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alp\u00f6ge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alp\u00f6ge credited as a collaborator, OpenAI mathematician S\u00e9bastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him \"why would you ruin your career\" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
     },
     {
+      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+      "author": "GregWilson23",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfkyn6/trump_downplays_the_need_to_check_ai_development/",
+      "published": 1789336567.0,
+      "thumbnail": "https://external-preview.redd.it/WIi2qUF2LKoa37R2jASETxELvAYvnH9nBf1zxGHkdTQ.jpeg?width=640&crop=smart&auto=webp&s=853abcf7c49e828844265f496b2420fc2354470a",
+      "external_url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link",
+      "site_name": "apnews.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "What Does \u201cWinning\u201d the AI Race Actually Mean?",
       "author": "Top_Teaching8398",
       "url": "https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/",
@@ -55,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "People are so unrealistic about the AI race. What guarantees that the US will reach AGI/ASI or the singularity before a disaster happens? And what will happen the next day after the US \u201cwins\u201d the race? and what will the US actually do? I believe nothing. The same thing happened with nuclear weapons. The US was the first country to develop and use them in 1945, but the advantage didn't last long. The soviet union developed its own atomic bomb in 1949, followed by the UK in 1952, France in 1960 ... The US was first, but other countries eventually caught up. AI could be the same. Even if the US reaches AGI, ASI, or the singularity first, other countries will try to catch up. And because AI is software, it could potentially spread much faster than nuclear technology, including through open source models. So what is the actual importance of the AGI/ASI/singularity race? What happens the day after someone \u201cwins\u201d?"
+    },
+    {
+      "title": "I don't know where to go anymore. No AI community will accept me.",
+      "author": "Dogbold",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfkhby/i_dont_know_where_to_go_anymore_no_ai_community/",
+      "published": 1789335381.0,
+      "thumbnail": "https://preview.redd.it/1eb6fckjycph1.png?width=140&height=57&auto=webp&s=cec44b5299a0ec44db0e762a03e5824f80248db4",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm pro AI. But I am also worried about a lot of things, like what the government wants to do with AI, Flock, certain things that AI can do, etc. I'm also worried about the slow down and pause that everyone wants to do, and how strictly they want to regulate and limit it for everyone, and their plan to kill off open models and models from China. But I can't post anywhere. Because I'm pro-AI, I can't post any of my worries about AI in any of the anti subs, because I'm pro and they'll get fucking pissed at me. But because I'm critical of some things around AI, and worried about what some bad actors might do with it, and worried about the future for AI and us using it, I can't post in any of the pro subs because all they'll listen to is \"AI is the future and amazing and will solve all our problems and antis are stupid.\" I've tried many subs... r/accelerate (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/singularity (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/defendingai (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/leftistsforai (Deleted all my posts, saying it's \"not constructive discussion\", then perma-banned and perma-muted me for arguing.) r/antiai (Know that I'm mostly pro and any time I post a worry they insult me heavily, call me stupid, downvote me and say \"Oh you just now found that out dumbass?\") r/aiwars (A horrible mix of both anti and pro AI. Some days you'll get mostly anti, and other days you'll get mostly pro. And with that comes the same issues of both. Antis hate you posting anything pro, and pros hate you posting anything critical.) r/aiwarsbutbetter (The same, despite the name.) r/ArtificialInteligence (Everyone in this sub acts like a stereotypical Redditor, in that they're all smarter than you and you're stupid. You have no idea how AI works so you should shut the hell up. That's not what an LLM is... maybe you should go back to school LOL.) Not a single one worked out. There is no place for someone that's pro AI but also worried about the direction AI is going. Either you are anti AI, or you are pro AI. Either you want AI completely shut down, or you want it to speed up and go faster. Either you have nothing but worries, or you have no worries at all. I cannot find a place that allows me to make the posts I do without getting very mad at me, downvoting me to the deepest pits of hell and insulting me. Like recently I wanted to post about how I'm worried with the slow downs and regulations coming from everyone thinking AI will kill us all, that they're going to start pulling AI away from us, heavily nerfing and regulating what we get even more than they already were, while they continue to give the unregulated and best AI to the government to use for awful stuff like Flock and scanning our messages online to put us in \"risk categories\", or denying us life insurance and healthcare based on health trends. That I find it hard to be excited about AI anymore because I'm worried they're going to start taking it away from us and using it for evil themselves. Every single place I've tried to post this has downvoted me and called me a doomer, said they aren't reading all my \"slop\" and insulted me. I have not found a single place where I can post it because either the antis downvote and insult me for being pro, or the pros downvote and insult me for being a \"doomer\". Here's some of the results of me posting it to one place https://preview.redd.it/1eb6fckjycph1.png?width=1072&format=png&auto=webp&s=c329e860d457fac51f3ab15747c441d5fde19d67 Pretty much all I ever get. I just can't find anywhere to post. It also doesn't help that alongside using it for research, problem solving, easing my fears of certain things, making and modding games, and creating models in Blender, I use AI for things most people hate, like roleplay and some nsfw, because that's not a \"proper\" use of the technology I guess. I'm not sure I have a place anywhere. Everywhere I go I'm insulted and chased out. Everyone is starting to make me feel like I'm insane and deranged. I already feel ostracized from society because I'm weird and autistic, and this isn't helping."
     },
     {
       "title": "The AI Isn\u2019t Evil. The Humans Are Irresponsible.",
@@ -79,38 +101,16 @@
       "description": "Hi! I'm an apprentice architectural draftsman from Switzerland, writing my final school paper about AI at work. Quick question, just answer in the comments: Imagine you find out that one of these was made by AI. Which ones would bother you? a poster for a local event a restaurant menu a company website a company logo a birthday card from a friend a wedding speech a song you like a painting sold as art a visualization of a planned building Please copy this and fill it in: Bothers me: (numbers, e.g. 5, 6, 8) Why / where is your line: Does it help if a human edited it? (yes / a bit / no) Optional: how often you use AI (daily / sometimes / never), creative job (yes / no) No names needed. I'll post the results here afterwards. Thanks a lot!"
     },
     {
-      "title": "Recent News About AI?",
-      "author": "Appropriate_Sir_8608",
-      "url": "https://www.reddit.com/r/artificial/comments/1wffc6p/recent_news_about_ai/",
-      "published": 1789323663.0,
+      "title": "AI could pose \u2018existential\u2019 risk to humanity, UN rights chief warns",
+      "author": "StrictRequirement336",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfmwnl/ai_could_pose_existential_risk_to_humanity_un/",
+      "published": 1789341586.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "hey, never posted here before but i was reading/watching news reports about AI, how it\u2019s advancing too fast and it will obliterate the world by the end of the decade or whatever. my issue is, people are thinking that the AI ITSELF will obliterate the world but, correct if i\u2019m wrong, wouldn\u2019t human intent and motives be behind the damage the AI caused? not the actual AI? like the gun argument, if i gave someone with good intentions a gun and they WANTED to use it (they didn\u2019t need to use it) they might go out and shoot targets. ditto for the evil guy, he might go out and off people. AI doesn\u2019t possess emotions or any real motive to harm others but humans do. so should we ban AI just because the potential weapon it could be in the wrong hands? food for thought: what if the bullet from the good guys gun missed the target? or what if the bullet ricocheted?"
-    },
-    {
-      "title": "AI can write the code now, so why am I still making myself learn it line by line?",
-      "author": "SignificanceFalse688",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfivts/ai_can_write_the_code_now_so_why_am_i_still/",
-      "published": 1789331574.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Genuine question I keep going back and forth on. Since AI got good at writing code, it's not obvious anymore that grinding through syntax and debugging by hand is worth the time versus just directing AI and reviewing its output. Where do people here land on this, full manual practice, full AI reliance, or something in between? Curious especially from people who learned to code before AI assistants existed vs after."
-    },
-    {
-      "title": "I\u2019m starting to think AI models will matter way less than we think",
-      "author": "haythem007",
-      "url": "https://www.reddit.com/r/artificial/comments/1wexu8l/im_starting_to_think_ai_models_will_matter_way/",
-      "published": 1789273922.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they\u2019re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don\u2019t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the \u201cbest\u201d model. Maybe the real endgame of the all-in-one AI workspace isn\u2019t all your tools in one place. It\u2019s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I\u2019m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)"
+      "description": "https://youtu.be/dptvBZt283o Happy Monday Everyone....This is absolutely wild! I am a massive fan of science fiction, and as a young teen I read all of Isaac Asimov's books which featured the emergence of AI, and the birth of what he called the 'Positronic Brain'. In his books, the global government implemented something called the 'The Three Laws of Robotics' to attempt protect humanity from an extinction level event. I never thought I would see the day when his stories about Robots being smarter than humans would start to come true....but here we are!"
     }
   ],
-  "fetched_at": "2026-09-13T21:01:58.314481+00:00"
+  "fetched_at": "2026-09-13T23:20:36.491903+00:00"
 }

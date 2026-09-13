@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-13T21:02:25.033018+00:00'
+updated: '2026-09-13T23:20:58.127210+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 21:02 UTC  
+**Last Updated:** September 13, 2026 at 23:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,758.29
+### $76,862.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -2.2%  
-**30d:** +22.6%  
-**90d:** +17.8%  
-**1y:** -33.1%  
+**24h:** -0.8%  
+**7d:** -3.1%  
+**30d:** +21.5%  
+**90d:** +16.7%  
+**1y:** -33.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1552.73B
+**Market Cap:** $1539.21B
 Rank #1
 
 **Circulating Supply:** 20,083,928 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.7%
+-39.2%
 
 **All-Time Low:** $67.81
-+113912.7%
++112920.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Even without the order I don't think so..](https://www.reddit.com/r/Bitcoin/comments/1wf27c2/even_without_the_order_i_dont_think_so/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 The debt line is almost a patient slope. The bitcoin line is a weather report: the 2018 winter, the 2021 peak, the 2022 cut, the long rise into 2025, the fall from the October high near $126,000, the recovery toward seventy-seven thousand by this Sunday.
 
-34m ago
+2h ago
 
 ---
 
 **[Bitcoin Renaissance](https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ The debt line is almost a patient slope. The bitcoin line is a weather report: t
 
 Lots of new people buy the dip then sell the moment it ticks down again. They treat every small move like it means the end is near. Bitcoin rewards patience more than timing. I learned that the hard way a few cycles ago. Stick to what you understand about the network and ignore the noise.
 
-4h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Lots of new people buy the dip then sell the moment it ticks down again. They tr
 
 I currently have a basic Trezor and a basic Ledger, and I have two separate Bitcoin wallets with two metal seed backups. I keep them well hidden, and I also have two fake seed plates stored in a safe at home as decoys. I’m worried about something happening to one of my hardware wallets, similar to what happened with Coldcard, so I’m thinking about splitting my Bitcoin holdings across four separate wallets instead of two. What hardware wallets would you recommend I buy next? I don’t want a hardware wallet with a battery because I’m a long-term Bitcoin-only holder and I barely use the wallets. They’re mainly backups, so I don’t see a need for a battery. It’s also quite difficult to buy hardware wallets in my country, so i will let my mom buy then when she travel direct from a website. What would you recommend as my next step
 
-36m ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ I currently have a basic Trezor and a basic Ledger, and I have two separate Bitc
 
 I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m assuming that this transaction bypasses the need for exchanges like Crypto.com, which in turn, allows me to purchase Bitcoin for a bit cheaper, since there is no spread. Does anyone else do this?
 
-4h ago
+6h ago
 
 ---
 
@@ -131,13 +131,13 @@ I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m as
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+16h ago
 
 ---
 
 **[Lock in.](https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
 
-8h ago
+10h ago
 
 ---
 
@@ -165,11 +165,19 @@ Forbes • 1d ago
 
 ---
 
-**[MicroStrategy's Bitcoin Guide Issues a 93% Crash Warning to Investors](https://finance.yahoo.com/markets/crypto/articles/microstrategys-bitcoin-guide-issues-93-101501318.html)**
+**[Kevin O'Leary's New Investment Is Not Bitcoin or Stocks](https://finance.yahoo.com/markets/stocks/articles/kevin-olearys-investment-not-bitcoin-200000747.html)**
 
-MicroStrategy's Bitcoin guide warns of a 93% crash. Strategy sits just 2% above its own cost on 845,050 BTC.
+Kevin O'Leary's investment play now points at sports cards, not Bitcoin. He wants 5% of his portfolio in them.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-87-fed-hike-230000027.html)**
+
+Traders price an 87% chance of a Fed rate hike Wednesday as Caitlin Long argues Treasury now holds the real power.
+
+Yahoo Finance • 20m ago
 
 ---
 
@@ -187,14 +195,6 @@ reuters.com • 2d ago
 
 ---
 
-**[Bitcoin billionaire Tim Draper’s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle](https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d)**
-
-American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
-
-africa.businessinsider.com • 1d ago
-
----
-
 **[Why Is Bitcoin Dropping Today?](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-today-204955824.html)**
 
 Hot inflation data, a looming Fed decision, and four straight days of ETF outflows are hitting Bitcoin from three directions at once, and the next 72 hours could determine whether the floor holds or breaks.
@@ -203,25 +203,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’](https://www.tradingview.com/news/stocktwits:df3732b61094b:0-jordi-visser-puts-bitcoin-in-the-same-bucket-as-spacex-anthropic-and-openai-says-none-of-them-make-money/)**
+**[CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market](https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519)**
 
-Veteran macro investor Jordi Visser said Bitcoin (BTC) is in the same bucket as SpaceX (SPCX), Anthropic (ANTHZZX), and OpenAI (OPEAZZX)—four assets he estimated are worth around $8 trillion combined, none of which turn profits at the moment.In an interview with Anthony Pompliano published on Satur…
+Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.
 
-tradingview.com • 9h ago
-
----
-
-**[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
-
-Bloomberg.com • 2d ago
+theblock.co • 1d ago
 
 ---
 
-**[With the Midterm Elections Coming Up, This Is the Only Cryptocurrency I'm Buying Right Now](https://www.fool.com/investing/2026/09/13/with-the-midterm-elections-coming-up-this-is-the-o/)**
+**[Bitcoin’s ‘Unusual Mix’: Bearish Inflation Print, Bullish Buyback Failure](https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares)**
 
-Bitcoin has the support of both the White House and Wall Street, making it a less risky play than other cryptocurrencies.
+A new CoinShares report said bitcoin's price could be hurt in the short-term but benefit in the long-term.
 
-The Motley Fool • 9h ago
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin billionaire Tim Draper’s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle](https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d)**
+
+American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
+
+Business Insider Africa • 1d ago
 
 ---
 
@@ -311,33 +313,23 @@ Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized 
 
 ## YouTube Videos: "bitcoin"
 
-**[CRYPTO CLASH: Senate prepares key test vote on landmark cryptocurrency bill](https://www.youtube.com/watch?v=qIzQmMXOmAY)**
-
-Fox News chief congressional correspondent Chad Pergram reports as the Senate prepares for a key test vote on landmark ...
-
-📺 Fox News Clips
-
-👁️ 32K • 👍 456 • 💬 227 • ⏱️ 2:15 • 9h ago
-
----
-
 **[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
 
 Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 2K • 💬 355 • ⏱️ 39:00 • 22h ago
+👁️ 76K • 👍 2K • 💬 360 • ⏱️ 39:00 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Next Target Is $109,000. Here&#39;s Why...](https://www.youtube.com/watch?v=sWowB0wxyCU)**
+**[CRYPTO CLASH: Senate prepares key test vote on landmark cryptocurrency bill](https://www.youtube.com/watch?v=qIzQmMXOmAY)**
 
-Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
+Fox News chief congressional correspondent Chad Pergram reports as the Senate prepares for a key test vote on landmark ...
 
-📺 Crypto Banter
+📺 Fox News Clips
 
-👁️ 22K • 👍 414 • 💬 24 • ⏱️ 43:02 • 1d ago
+👁️ 56K • 👍 525 • 💬 288 • ⏱️ 2:15 • 11h ago
 
 ---
 
@@ -347,17 +339,7 @@ In this special Sunday edition, Gareth Soloway breaks down the Federal Reserve m
 
 📺 Gareth Soloway
 
-👁️ 90K • 👍 5K • 💬 556 • ⏱️ 17:21 • 7h ago
-
----
-
-**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 116K • 👍 3K • 💬 98 • ⏱️ 53:38 • 1d ago
+👁️ 134K • 👍 5K • 💬 628 • ⏱️ 17:21 • 9h ago
 
 ---
 
@@ -367,17 +349,37 @@ Bitcoin just flashed a signal that has NEVER delivered a false weekly signal his
 
 📺 Crypto Love
 
-👁️ 991 • 👍 197 • 💬 138 • ⏱️ 7:11 • 4h ago
+👁️ 3K • 👍 254 • 💬 144 • ⏱️ 7:11 • 6h ago
 
 ---
 
-**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
+**[Bitcoin&#39;s Next Target Is $109,000. Here&#39;s Why...](https://www.youtube.com/watch?v=sWowB0wxyCU)**
 
-Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
+Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
 
-📺 Altcoin Daily
+📺 Crypto Banter
 
-👁️ 78K • 👍 2K • 💬 301 • ⏱️ 11:37 • 1d ago
+👁️ 23K • 👍 421 • 💬 24 • ⏱️ 43:02 • 1d ago
+
+---
+
+**[&quot;Regulatory Skies Clearing&quot; for Crypto? Tyrone Ross, Jr. on Bitcoin&#39;s Path Ahead](https://www.youtube.com/watch?v=EBkNomarPkg)**
+
+Tyrone Ross, Jr. discusses the regulatory path ahead for Bitcoin and other cryptocurrencies, which he sees clearing as institutions ...
+
+📺 Schwab Network
+
+👁️ 851 • 👍 27 • 💬 2 • ⏱️ 7:52 • 3h ago
+
+---
+
+**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 120K • 👍 3K • 💬 98 • ⏱️ 53:38 • 1d ago
 
 ---
 
@@ -387,27 +389,27 @@ This is the crazy story of what happened to me investing from 2024-2026. My stor
 
 📺 IanOnYouTube
 
-👁️ 39K • 👍 2K • 💬 627 • ⏱️ 15:21 • 21h ago
+👁️ 43K • 👍 2K • 💬 646 • ⏱️ 15:21 • 1d ago
 
 ---
 
-**[Why $800K Bitcoin Targets Miss the Real Story](https://www.youtube.com/watch?v=otZ6P3iAZAY)**
+**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
 
-Cake Wallet founder and CEO Vik Sharma reflects on why expecting an $800000 Bitcoin price target was over-optimistic. Despite ...
+Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
 
-📺 Natalie Brunell
+📺 Altcoin Daily
 
-👁️ 11K • 👍 138 • 💬 23 • ⏱️ 0:52 • 2d ago
+👁️ 79K • 👍 2K • 💬 301 • ⏱️ 11:37 • 2d ago
 
 ---
 
-**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
+**[Bitcoin Is Coming For A $1.2 Quadrillion Market | Mark Moss](https://www.youtube.com/watch?v=QfJXV85FMrk)**
 
-BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Bitcoin #Crypto #finance Mark Moss joins the show to break down Bitcoin's sharp rebound, why institutional buyers accumulated ...
 
-📺 Crypto World
+📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 356 • 💬 208 • ⏱️ 17:26 • 22h ago
+👁️ 31K • 👍 720 • 💬 327 • ⏱️ 58:14 • 1d ago
 
 ---
 
