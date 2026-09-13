@@ -5,64 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+      "headline": "What Anthropic\u2019s C.E.O. Argued in His Call for Slower A.I. Development",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "pub_date": 1789228981.0,
-      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
+      "pub_date": 1789315131.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump dismisses AI leaders\u2019 calls to slow down, citing Chinese competition",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
-      "pub_date": 1789318983.0,
-      "article_url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUWBFHURSIW2HII66QLT35CRUI_size-normalized.jpg&w=1440",
-      "description": "Democrats are increasingly attacking the administration\u2019s hands-off approach to artificial-intelligence regulation as midterms approach."
-    },
-    {
-      "headline": "'It\u2019s really embarrassing that this is still a possibility' \u2014 AI could exploit a flaw in Georgia's voting equipment and match voters to their ballots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUxjVV9kVUJPZkJWV2FRUGRwTjAtUklzM2ktQTFMN1BGQk53aG0xWmlkeHE3OFFTQzl1ZWpSTXdkTDJjZFd2c2xPWnJFM1ZaYkRadU1WWHFTSzRBRXUxMFR1dm1BbURRaE9FOGdqQkcteUN5VDIxRmhDQktLOXdnVlFhcUhJajQ5LUtLZDBR?oc=5",
-      "pub_date": 1789309440.0,
-      "article_url": "https://fortune.com/2026/09/13/ai-flaw-georgia-voting-equipment-match-voters-ballots/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26254690137685-e1789308913709.jpg?resize=1200,600",
-      "description": "Georgia election officials say they have taken steps to address the potential harm, but some advocates say the state is not going far enough."
-    },
-    {
-      "headline": "Johnson calls for AI solutions but says Congress won't take the lead",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
-      "pub_date": 1789308239.0,
-      "article_url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech companies must be primarily responsible for AI safety, Mike Johnson says",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
-      "pub_date": 1789315200.0,
-      "article_url": "https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Speaker Johnson: \u2018Don\u2019t panic\u2019 on AI",
+      "headline": "AI and the end of humanity? OK, \u2018doomer\u2019 says one Trump official",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JNHFaeUVNYjc1SDJwaHFSbG5WTWd5UUFISVdqUndiLUQ0OWFxVjJMdUczaFByZDE0UXBMVTJqYjdTSjc4WjlkVV9sYWltT1N1LUQ5TUlUcmJfeHA2QlpjOUlCRXl6bFI3a01Sb1dJRnAtOTlQY2FqYw?oc=5",
-      "pub_date": 1789315560.0,
-      "article_url": "https://www.cnn.com/2026/09/13/us/video/22980508-johnson-ai-race-vrtc",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/johnson-ai-thumb.jpg?c=16x9&q=w_800,c_fill",
-      "description": "House Speaker Mike Johnson (R) says Americans should not panic on AI regulation, warning that a rushed response could affect American innovation and threaten national security."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObzd6WTRIWEdDZ0VSMDVPNVVFRUFwb1UxdVNrbDFQcnN2bjNzM1NoUnh5R3RZUU9ocFBKdXdpM1FqNVRVQ2J0Zk5BTHQ1ZFZGSmN0VEZyYjZycnRFVGRWM1ZlbU1kTEZIOGFGemdjT3c2bUFpMG44VWlDUGpXaEZqUA?oc=5",
+      "pub_date": 1789315229.0,
+      "article_url": "https://www.cnn.com/2026/09/13/politics/trump-administration-ai-legislation",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2294192811.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The latest warning from a former AI engineer was supposed to boggle minds and shock everyone into action."
+    },
+    {
+      "headline": "Chip Roy is leaving Congress \u2014 but not before warning his colleagues about AI",
+      "source": "politico.com",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
+      "pub_date": 1789324860.0,
+      "article_url": "https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43ZFdOcUNiZmFDbmRDV3RyN3ZxekV1S3BONUxRZ0twQWlCcFFublhOanpUS3VUaHNiZFBBQ2FiN08wZGxKMW5KTHB3SV9Nc0lYcjhMQTdZZjdkMUtZbzU5dG9aX0t6SWJTUGhLVkJjeGprc2NkbUVtS1RHUk_SAYIBQVVfeXFMTjRGRTZPVklWdGtRb1N3NF8yZlBfTmxSNjZnRHp1WE5ybzZlZXJMZWdNT3JmbGJnTjlQR1JFbEhkQUxzZkdfNGZNeVJkYklSdDd4NGVRdkRBdmZrRi1CS1F5Z2sxZmpFYTlSb0o1WlBiTWI1Z3djM1dUeVFjRlJETjR6Zw?oc=5",
+      "pub_date": 1789318577.0,
+      "article_url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108279107-1773772538515-gettyimages-2267071488-_s010514_2opooioo.jpeg?v=1773772591&w=1920&h=1080",
+      "description": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation."
     },
     {
       "headline": "He was close to a huge math breakthrough. Then he got scooped by AI.",
@@ -85,26 +65,46 @@
       "description": "AI personal assistants are now acting on people\u2019s behalf in the real world\u2014and all sorts of strange things are going wrong."
     },
     {
-      "headline": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
-      "pub_date": 1789317469.0,
-      "article_url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+      "headline": "Can robots beat treasure hunters to keep Seattle-area Goodwill afloat?",
+      "source": "The Seattle Times",
+      "source_url": "https://www.seattletimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ3FIZkdnWVNYdXVVM2tQdlBNdlhhSFZmZXRjQWU5ZFlFREVrSXNYWXQ4OWVHMTlJTWp4QTBWZHNNSnEyQ1lwZHFzZ0FhODI1UkxxR0NpcWZLYUFWeVNDeFpuaXB6UTFVc2M4SFRURTZ1S0F0aVh4SDZzWE5jN1k5UXZjX1llUmhNMW9IaTR0bm1HZS01bU1YVkl5bWk5cWFSQXY4bmY4VWFoUQ?oc=5",
+      "pub_date": 1789304400.0,
+      "article_url": "https://www.seattletimes.com/business/evergreen-goodwill-is-losing-millions-can-ai-and-restructuring-help/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
+      "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
-      "pub_date": 1789282902.0,
-      "article_url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324132-1781806488552-gettyimages-2282235201-6e6a1266_jx5txjwj.jpeg?v=1781808268&w=1920&h=1080",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
+      "pub_date": 1789230137.0,
+      "article_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
+      "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
+    },
+    {
+      "headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+      "pub_date": 1789245480.0,
+      "article_url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sam Altman says OpenAI will not go public this year as AI fears grow",
+      "source": "San Francisco Chronicle",
+      "source_url": "https://www.sfchronicle.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXFUVC1oTVFZREs4RFlZSTlELUx1MEdCWjZkNE1zcWZCQlJtOEpneWdXZGVuMTJIRVAtTlNiMUYyN21UdjVXeGsxSVBveThsbUlwMGU1NzgtRVlrMEREWjJ2blF5S2JOTkw0TDJoei1CNVlDZmV5NGpVY05QOS01bGg1OA?oc=5",
+      "pub_date": 1789331292.0,
+      "article_url": "https://www.sfchronicle.com/tech/article/openai-ipo-delay-altman-22430043.php",
+      "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T18:04:50.926204+00:00"
+  "fetched_at": "2026-09-13T21:02:23.764030+00:00"
 }
