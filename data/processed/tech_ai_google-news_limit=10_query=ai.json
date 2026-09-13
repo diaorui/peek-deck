@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "We Must Pace the Frontier",
-      "source": "darioamodei.com",
-      "source_url": "https://darioamodei.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
-      "pub_date": 1789222502.0,
-      "article_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "image": "https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg",
-      "description": null
-    },
-    {
-      "headline": "Every Word My Employee Writes Reeks of A.I.",
+      "headline": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSmRSQzZ2dUxZWThMZm9HUzF2YUd1bVdPTm5SVjhOV183QXFTWVhnMnFMMWVmQVZQa3FqZEllYzdKNEtja0hXMEpnZnFUQkpnekRCZnlsckhWY1VmZGFqQnpfUWF5aFhrMVFWT3VKbzBidw?oc=5",
-      "pub_date": 1789290200.0,
-      "article_url": "https://www.nytimes.com/2026/09/13/business/employee-ai-use.html",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "pub_date": 1789258554.0,
+      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "What jobs wipeout? Morgan Stanley says white-collar workers might benefit the most from AI",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGZmcEwwRURYdWZBeWdrdFFSU2hsMW9GbDA5d0htSGxwOWZPV2RLb0RXMXNTR2w4aktjWUcwd3VtTzBHaE90bTM2c3lvbWxPaWUya3dWWHIzMVpUTVFnbE1nS0Z6ekVyc2RKbEFyVmt3aURwVXBrdk4tUUpYdDM3M043eF9wU0ZuMHI1RmRWbHNlT2JpU3pjRF9RYUJSeVF1elJRUHQxNA?oc=5",
-      "pub_date": 1789291215.0,
-      "article_url": "https://www.businessinsider.com/ai-jobs-employment-wall-street-high-income-economy-morgan-stanley-2026-9",
-      "image": "https://i.insider.com/6aa458cbcc23a829a3b90921?width=1200&format=jpeg",
-      "description": "Economists at Morgan Stanley say that veterans of the white-collar labor force actually stand to benefit most from the productivity gains delivered by AI."
-    },
-    {
-      "headline": "He was close to a $1 million breakthrough. Then OpenAI swooped in.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
-      "pub_date": 1789295079.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
-      "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work."
-    },
-    {
-      "headline": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
+      "headline": "Trump says 'very negative forces' raising exaggerated concerns over AI",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
-      "pub_date": 1789245480.0,
-      "article_url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
+      "pub_date": 1789309964.0,
+      "article_url": "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump Downplays AI Concerns as CEOs Call for Slowing Technology",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1vSDAyWm9XdVFqVm5sNmRwc3AxNXZ1MjhrSXpPZDRqeWdOaFZIbklQT25RUDZGZFdaYVN3a0xkM2FjTmZDYTBnelJmRHhXNklQQUVoSlFjY3ZrY2FrMjlRbEZ2YzdRWG5GTnl1RU1fSWFLWDh6Vm1HSTdYVC1oaWVaUDZSSTVLLWYxU1BEbWJIU0wyS3ZERUdrQzBPRVk3blktTWFzRFRGNHY2RWZ6MGwwVG8?oc=5",
+      "pub_date": 1789307988.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump splits with AI execs, says 'negative forces' impacting industry",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV19aX1c3UHRTN3NKeDZ5VGJWMU5FMGZCM0xRbTlnZW9HY0tmcjZxUjdfS21Lelp5ZjY4SUlQZlpqRjRDUFZ4ZGZnbWFUaHpldnJCdHlYeE9QT0M0MldXSUZyLVl6VmxuemdtbnBTWkJrREFjLS01M1FxQl9sZkpYcW9rR09xZ1pYVmgxb2p6c0t2eTJpaTU0dV9MN3Y0Rm9VclRER21KMG9ydw?oc=5",
+      "pub_date": 1789308120.0,
+      "article_url": "https://www.usatoday.com/story/news/politics/2026/09/13/donald-trump-ai-slowdown-dario-amodei/91745098007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/13/USAT/91745168007-20260913-t-131855-z-830808040-rc-2-dinajvvuf-rtrmadp-3-usatrumpireland.JPG?crop=5499,3093,x0,y550&width=3200&height=1800&format=pjpg&auto=webp",
+      "description": "Trump criticized \"negative\" voices around the AI industry, saying they are \"bringing up things that won't happen.\""
+    },
+    {
+      "headline": "Speaker Johnson calls for AI \u2018guardrails\u2019 but won\u2019t set a pre-election timetable",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejZNMVlzOE9Gb25velRXWVhhNjBfZzlXX3ZWN181VWYycGNhWE1oZXBRVm5leTZ2U21jU2paeGFNRlVFaXE2cnZMdGcyX3VwQ0pTVEJONzFZVFhGQjkyZUhGNlhFZGNSTDU2VXJIRlNfOTlpM1BDT0Y1SmFsSEltUTk0a3ZRSmFtV0hqdkJYWU1OdjRWUGRnb1JKdzUxSWZGYjA4aGNpdEFTWjNackh1cFlVTl9oSVQ4ZV9uVndoWVAzbmVaMmxRUkROWDZmWE9oa1E?oc=5",
+      "pub_date": 1789307767.0,
+      "article_url": "https://www.nbcnews.com/meet-the-press/video/speaker-johnson-calls-for-ai-guardrails-but-won-t-set-a-pre-election-timetable-269787717732",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789304400706_mtp_clip_johnsonai_260913_S3_1920x1080-giscer.jpg",
+      "description": "In an interview with Meet the Press, House Speaker Mike Johnson (R-La.) says he\u2019d call the House back into session \u201cif we had the solution\u201d to AI guardrails after an Anthropic whistleblower warned that AI could \u201ckill\u201d off humanity in the next decade."
+    },
+    {
+      "headline": "Johnson calls for AI solutions but says Congress won't take the lead",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
+      "pub_date": 1789308239.0,
+      "article_url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech companies must be responsible for AI safety, Mike Johnson says, not Congress",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
+      "pub_date": 1789308840.0,
+      "article_url": "https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI whistleblower calls for \u2018global coordination\u2019 to mitigate AI risks: Full interview",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmhDaU9iWUxqUmdhRVR0WTNNb09uWEU2QnY5WUI5WWtRUzk1UHR1NnF4em44YXZ6YWIyYXR6YWhZU2VUWlN5VDg4QldKMUZ0d21GY3YtSkhVaXNPX18zQnhEbUJZOFRLMGpJUThVa0FtTXd5SmtaT1BQZmI3OFJ3b0QyVFVibW1neUxTaEFPaFlCTmFQRlg4VS03a0JFb21PYWI4NWVwdHNpZGYxaTVmVmJqcXQ4VlFLQkdlaHQ4ZUVfTmZvLS1XLTlBdWlKVExDcW9hV2xFMA?oc=5",
+      "pub_date": 1789304655.0,
+      "article_url": "https://www.nbcnews.com/meet-the-press/video/ai-whistleblower-calls-for-global-coordination-to-mitigate-ai-risks-full-interview-269786693730",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789304400571_mtp_full_coxon_260913_S3_1920x1080-cjxn8b.jpg",
+      "description": "In an interview with Meet the Press, former Anthropic AI researcher Jacob Coxon says he expects that AI\u2019s capability could become \u201cquite scary\u201d within 6 months to a year."
+    },
+    {
+      "headline": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+      "source": "axios.com",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kOTVXM1dpbzZyS3lOVnlHTFBkQlIxZUJDTWRoZ1doeEg2TWl5czhzWnVsWWRuclZLcThWM3RjN3J0Ym5nWEdHRl9LM0cyckVyLW9aWGxMU05XbVpVcThqVEZIYndSTm04V2tLUll6QVV1YVlaUWc?oc=5",
+      "pub_date": 1789260225.0,
+      "article_url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
       "image": null,
       "description": null
     },
     {
       "headline": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWdEQ1p3VzJkd2E3ZmYwWmRkRWlwWEhFSm1PTjQ3Y1N1bGNPd1lXcjZncEhPVVNrd3dFT3oxd1FVbzVMZmZTVEJVZGJ6MHNxTUd0eVI5MkpuY191WG9CaUozc3AzWkhPQUlzUDh0dXFqQzlNd09CR0NrQ01NaVBERHhCUE9vcmR1UmlfMFVXdmFlcDNocnJkMkJOa0pWQ0p0SVhia1QwS3A4LVZjYXdfLWhiRTHSAboBQVVfeXFMUE44bkREVTl5S1B2R2RMNUlMSlZlT1N0RU5yeTJLaDhFd0dWZ2wwRmdaVUpWRGpYbTBtVVlITnRNLTJRcW43RlhKQzZFVTluc2E2dVhuSzNOWWtoVzFwRDFDX0wxVWszTDk5NkcxQjNaN3JCWGlpUnhTdGM4dzliVHFQam1IV2x6dW1jMkh4SkFNWjVRbzlSQVpaZEFvbE9QZHNiSWJMS3l4aDVMLVFRdk9FbGYxLXBZdjNB?oc=5",
       "pub_date": 1789230137.0,
       "article_url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108361067-1789037433629-gettyimages-2281437466-HL_IBENYOUSSEF_3200131.jpeg?v=1789037452&w=1920&h=1080",
       "description": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings."
-    },
-    {
-      "headline": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEdoQ2QteHUtOWkzSF9uZ0NTcHNiTk9MREpyX2NVbHdicXBYbnFEdXpaVVRxNmR0cTJMdXhPaVZ0QXl5ZmpobnZ4RlBkTU1CLUczWHZES0NfM3BlQngxT18wcjE2RUgzdHVuc2c3Y1A4SjI0emswb1FOejV0VVprTnNMZjEzUnZwdlR0RXhCUnlVdkZWbktWMWRWSQ?oc=5",
-      "pub_date": 1789254000.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns",
-      "image": "https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b77a0b465c5e65a8d1eb2c6c5c842870",
-      "description": "OpenAI\u2019s decision comes after dire warnings about rapidly progressing technology and lawmakers\u2019 calls for new rules"
-    },
-    {
-      "headline": "Detecting and countering misuse of AI: September 2026",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "pub_date": 1789060227.0,
-      "article_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg",
-      "description": "Case studies from threat actors disrupted between December 2025 and August 2026 across seven areas of harm, from cyber operations to biological misuse."
-    },
-    {
-      "headline": "Obama voices caution on AI, urges Democrats to tackle it, NYT says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTU5nNTZCelg4VHpDOEQ4NkttTTBBbHVoNXUyV3Y2QlRnZlZ4anlsM1FmRzVPUGZValpRbWF6R0tHX2hTem5XSnpKRlJINVktOWU3V3RRS0tuTERaZ25oc1NuSVI5ZDF6UE1zbk9mQnJLLV85V2xHRE04VXpkcHJFRXlHRE1BbVVPZjZUbWhNZERsSXR0dTE1Y0ZRY2paaE9LMWlF0gGoAUFVX3lxTE5CZ1IzaW40RFZsdE5ONm96SjNLbnd1OGxHanlvelVIc3U2SmlkazFTRWZxZlVIWEVUOGFxaTNmdmNmNFRCRExiMFE1MkdHYWdrZUJaZWxnTWlsY21MWVJ0c2otVzRqQlRYQmpPclB5SE4wNmh5WXlPVjU0RXJJS0p4QkhyRG1odmhmeFdpdi0xQVJxNlN5eDgxaERtUHRVeGx3SW5Sb0Rlcg?oc=5",
-      "pub_date": 1789282902.0,
-      "article_url": "https://www.cnbc.com/2026/09/13/obama-voices-caution-on-ai-urges-democrats-to-tackle-it-nyt-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324132-1781806488552-gettyimages-2282235201-6e6a1266_jx5txjwj.jpeg?v=1781808268&w=1920&h=1080",
-      "description": null
-    },
-    {
-      "headline": "A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FVjItcENBSE5fVXE2akkyM1pla1A3SE83NXMyQnA5SmwyOVN0NW93UUhsZlMyVVhJdWlYUVVJNHF0T29MNTBsZXpBMWhYMjJ2X2ZrS3l3am9RcUMzcmJ3X0pYVWxIelRXVVp2N1Zvck9xM3A2NzRJVnR0YVB5Zw?oc=5",
-      "pub_date": 1789110000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T11:13:27.022269+00:00"
+  "fetched_at": "2026-09-13T14:59:37.416107+00:00"
 }

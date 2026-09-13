@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-13T11:13:28.619101+00:00'
+updated: '2026-09-13T14:59:39.864884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 13, 2026 at 11:13 UTC  
+**Last Updated:** September 13, 2026 at 14:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T originally). In principle, it's half the price, twice the torque, but the mount design is rather odd and required a complete CAD update (+ I already killed like 3 of them by accidentally drilling all the way to their control board, geez). The high torque also means high current, and so a potential hazard if multiple of them run at high load. Need to monitor it. If it's capable of jumping, it is likely also capable of catching fire while doing it. The firmware is also updated for ST-3215, but the commander uses the original unoptimized one-leg test code, which may explain the sluggishness in its "failed walk gait". I am a bit afraid that if the servos simply cannot move fast enough, even with optimal PID, then making it walk may be more difficult despite higher torque. Either way, if successful, the full DIY robot would be in the 300-400 euro range (still mostly from servos), ~3 kg, with twice the load performance; all the load after the body weight will be extra! Cubic Wouf GitHub: https://github.com/SphericalCowww/CubicDoggo_07B Cubic Doggo GitHub: https://github.com/SphericalCowww/CubicDoggo_06R
 
-22h ago
+1d ago
 
 ---
 
 **[see and find](https://www.reddit.com/r/robotics/comments/1weeixz/see_and_find/)**
 
-20h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T o
 
 I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
 
-14h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’m not sure if I’m tagging this correctly, but I came across this post by a
 
 Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue… a few things we’ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I’m curious about the small, awkward tasks that don’t usually make it into robot demos.
 
-17h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissu
 
 I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic.
 
-19h ago
+22h ago
 
 ---
 
@@ -90,7 +90,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 “Dull, dirty, dangerous” gets used constantly as the case for robotics. Kate Darling’s point here is that the industry often skips a pretty important step: actually defining what those jobs are from the worker’s perspective. She gives sanitation work as an example. On paper, trash collection seems like an obvious target for automation. But some automation proposals can also remove the part of the job workers actually enjoy. The better approach may be less about replacing the entire task and more about using robotics to remove the dangerous or repetitive parts without making the job worse. It gets at a bigger issue in robotics: the people building the systems aren’t always the people doing the work they’re trying to automate. Full episode: https://www.youtube.com/watch?v=odORVBoO7ss
 
-1d ago
+2d ago
 
 ---
 
@@ -102,7 +102,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 **[I am 14 and kinda proud of myself.](https://www.reddit.com/r/robotics/comments/1wclckh/i_am_14_and_kinda_proud_of_myself/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -114,13 +114,15 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-CNBC • 22h ago
+cnbc.com • 1d ago
 
 ---
 
-**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
 
-Bloomberg.com • 2d ago
+Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
+
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -130,11 +132,15 @@ Reuters • 2d ago
 
 ---
 
-**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
+**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
+Bloomberg.com • 2d ago
 
-blogs.nvidia.com • 2d ago
+---
+
+**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
+
+Gizmodo • 1d ago
 
 ---
 
@@ -156,7 +162,7 @@ Breaking Defense • 2d ago
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
-TechCrunch • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -168,19 +174,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
+**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
 
-MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
+Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
 
-The Japan Times • 2d ago
-
----
-
-**[How a Texas A&M professor’s 9/11 mission sparked a revolution in disaster robotics](https://www.kbtx.com/2026/09/12/how-texas-am-professors-911-mission-sparked-revolution-disaster-robotics/)**
-
-Pioneer in disaster robotics Dr. Robin Murphy reflects on deploying experimental robots at ground zero after the Sept. 11 attacks.
-
-KBTX News 3 • 1d ago
+Interesting Engineering • 1h ago
 
 ---
 
@@ -214,7 +212,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 666K • 👍 10K • 💬 534 • ⏱️ 23:25 • 4d ago
+👁️ 668K • 👍 10K • 💬 535 • ⏱️ 23:25 • 5d ago
 
 ---
 
@@ -224,7 +222,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 63K • 👍 263 • 💬 61 • ⏱️ 3:39 • 3d ago
+👁️ 65K • 👍 269 • 💬 63 • ⏱️ 3:39 • 4d ago
 
 ---
 
@@ -234,7 +232,17 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 57K • 👍 2K • 💬 478 • ⏱️ 13:22 • 1d ago
+👁️ 58K • 👍 2K • 💬 484 • ⏱️ 13:22 • 1d ago
+
+---
+
+**[SCARY AI Robots Right NOW, Inside IFA Next 2026: Next-Gen Humanoids](https://www.youtube.com/watch?v=QWDe5tHUVW4)**
+
+Join us on the floor at IFA Berlin 2026 as we explore Halle 25, "IFA Next"—the core showcase for cutting-edge Physical AI and ...
+
+📺 The Laughing Lion
+
+👁️ 9K • 👍 103 • 💬 65 • ⏱️ 37:45 • 2d ago
 
 ---
 
@@ -244,17 +252,7 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 526K • 👍 2K • 💬 964 • ⏱️ 2:28 • 1d ago
-
----
-
-**[Robot carnage! NHRL Pro Tour Round 2 KO Show is LIVE from New York City | 10am EST](https://www.youtube.com/watch?v=3hy0IWst58s)**
-
-Professional Robot Fighting takes over NYC! The National Havoc Robot League is LIVE from Terminal 5 in New York City for ...
-
-📺 NHRL
-
-👁️ 37K • 👍 463 • 💬 39 • ⏱️ 8:05:42 • 12h ago
+👁️ 544K • 👍 3K • 💬 997 • ⏱️ 2:28 • 1d ago
 
 ---
 
@@ -274,17 +272,17 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 405K • 👍 4K • 💬 331 • ⏱️ 5:52 • 4d ago
+👁️ 412K • 👍 4K • 💬 331 • ⏱️ 5:52 • 4d ago
 
 ---
 
-**[Top 6 Projects](https://www.youtube.com/watch?v=1eQ9AC9Dd2Y)**
+**[Robot carnage! NHRL Pro Tour Round 2 KO Show is LIVE from New York City | 10am EST](https://www.youtube.com/watch?v=3hy0IWst58s)**
 
-Top 6 Projects, which ones your favorite? #engineering #robotics #3dprinting #bowling #stem.
+Professional Robot Fighting takes over NYC! The National Havoc Robot League is LIVE from Terminal 5 in New York City for ...
 
-📺 Danny Lum
+📺 NHRL
 
-👁️ 11K • 👍 924 • 💬 15 • ⏱️ 0:46 • 7h ago
+👁️ 38K • 👍 473 • 💬 44 • ⏱️ 8:05:42 • 16h ago
 
 ---
 
