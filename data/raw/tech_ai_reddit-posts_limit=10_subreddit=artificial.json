@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
-      "author": "CiccioPixel",
-      "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
-      "published": 1789289064.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alp\u00f6ge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alp\u00f6ge credited as a collaborator, OpenAI mathematician S\u00e9bastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him \"why would you ruin your career\" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-    },
-    {
       "title": "McKinsey: 32% of companies skipped buying new software this year and built it with agents instead",
       "author": "Separate_Pea_3699",
       "url": "https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/",
@@ -22,6 +11,28 @@
       "site_name": null,
       "favicon": null,
       "description": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets."
+    },
+    {
+      "title": "Someone explain it to me like. I\u2019m five. They know they can shut the data centers off, right?",
+      "author": "deus-libidinis",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/",
+      "published": 1789315595.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "All this \u201cOh we need to pause because AI can kill us all\u201d talk coming from the people that spent the largest capital in human history for the non existent ROI\u2026. How? How can a trillion parameter model \u201ccopy itself\u201d? Where? This is not a 256kb virus. How can \u201cthe internet be overtaken in 6 months\u201d if the data center for those \u201cswarms of bots\u201d is down with a 504? All this apocalypse scenario talk assumes we will have \u201crogue agents\u201d that wreak havoc yet happily call a model behind a REST API that gives it a LLM to talk to."
+    },
+    {
+      "title": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
+      "author": "CiccioPixel",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
+      "published": 1789289064.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alp\u00f6ge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alp\u00f6ge credited as a collaborator, OpenAI mathematician S\u00e9bastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him \"why would you ruin your career\" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
     },
     {
       "title": "The AI Isn\u2019t Evil. The Humans Are Irresponsible.",
@@ -46,17 +57,6 @@
       "description": "Just a general thought. I\u2019m wondering\u2014and based on overall wondering information, what\u2019ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more by making ai less eye-seeing, but at the same time I don\u2019t know. It\u2019s always so eye-sore to see anything about ai. What are some good news to hear if ai companies take a dip in profits?"
     },
     {
-      "title": "Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?",
-      "author": "mattyjoe0706",
-      "url": "https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/",
-      "published": 1789234127.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not \"pacing the frontier.\" I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say \"I'm not paying for this\" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?"
-    },
-    {
       "title": "I had Astra make a digital violin with a physics engine. It has to make music by pulling the bow across the string and forming the finger positioning for arpeggios, the same way a human would. If the motion is wrong, it sounds badly (trust me I tried it). It played Bach.",
       "author": "Short-Patient7772",
       "url": "https://www.reddit.com/r/artificial/comments/1werrtw/i_had_astra_make_a_digital_violin_with_a_physics/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It chose Bach\u2019s Prelude, BWV 1007. Prelude seems an apt choice, given recent news"
+    },
+    {
+      "title": "Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?",
+      "author": "mattyjoe0706",
+      "url": "https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/",
+      "published": 1789234127.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not \"pacing the frontier.\" I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say \"I'm not paying for this\" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?"
     },
     {
       "title": "I\u2019m starting to think AI models will matter way less than we think",
@@ -79,38 +90,27 @@
       "description": "So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they\u2019re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don\u2019t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the \u201cbest\u201d model. Maybe the real endgame of the all-in-one AI workspace isn\u2019t all your tools in one place. It\u2019s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I\u2019m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)"
     },
     {
-      "title": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
-      "author": "PerAsperaAdMars",
-      "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
-      "published": 1789217471.0,
-      "thumbnail": "https://external-preview.redd.it/Aysmxc6YIZB5iKfMQ5hE255gUoKb6tUz_mqeQdNuy7s.jpeg?width=640&crop=smart&auto=webp&s=b4b0bb206a41ae0b930dedfdbd96b56fad019a21",
-      "external_url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
-      "site_name": "nationalobserver.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "What is the BEST Gemini alternative?",
-      "author": "TheLunarixx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/",
-      "published": 1789291662.0,
+      "title": "A Little Black Humor Fun",
+      "author": "Taelasky",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfcr8r/a_little_black_humor_fun/",
+      "published": 1789317923.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I have been using Google Gemini for a long time because it offers the most features in its free tier. In the free tier, there is an unlimited file upload limit, and etc. However, with the last update, Flash and Flash-Lite models have become literally stupid. Even the Pro model is shitty. And after using this stupid Pro model a few times, which is just slightly more smart from the Flash model, it says the limit is over and restricts me to Flash-Lite for 1-2 hours. I'm really sick and tired of this. I think Claude is the smartest, but its free plan is very limited, it expires very quickly and always restricts to Sonnet and Haiku. What is the smartest alternative of Gemini that offers the most free features?"
+      "description": "I wanted to list out all the options for how AI could go wrong. Wrong being major human suffering or extinction. No using AI. Let's do some good old fashioned brainstorming and maybe even rabbit hole following. This is what I have so far. What am I missing. Feel free to add to the list or offer subtypes under any of these Options on how AI could go wrong: An ASI actively trying to destroy us because it dislikes us An ASI doing what is best for it and we are an inpediment. Doesn't hate us but we are in the way An ASI doing what is best for it while not even considering impact to humans (ant hill theory) A capable model or more likely Agentic aystem with the ability to get the right access doing bad while trying to do good (misalignment or is this the 3 wishes problem) AGI with the ability to get the right access and someone writing poor instructions (paperclip optimizer) A capable model with the ability to get the right access and a nepharious human writing destructive instructions A capable model and a nepharious human having it help the design a doomsday weapon (biological or other) A capable model and a good intentioned person trying to do good but ending up doing wrong (people do this all the time but not at the scale AI may allow) At this point we want general feasibility, possible even if improbable is ok. Might have to do a separate one of these on actual feasibility. But I'm betting I'll want to do some grouping of ideas first"
     },
     {
-      "title": "ai governance and esg platform reviews reddit",
-      "author": "Ok_Surround_4749",
-      "url": "https://www.reddit.com/r/artificial/comments/1wf6va5/ai_governance_and_esg_platform_reviews_reddit/",
-      "published": 1789303888.0,
+      "title": "Which coding agent is everyone actually using in 2026?",
+      "author": "VoidEqualZero",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfc39x/which_coding_agent_is_everyone_actually_using_in/",
+      "published": 1789316415.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Our company is expanding its sustainability reporting while simultanously deploying enterprise AI initiatives, and leadership wants a unified software strategy to handle both ESG/carbon accounting and AI compliance. Are there platforms that genuinely handle both, or are companies stuck running separate silos for ESG and AI governance?"
+      "description": "Genuinely curious what the split looks like these days. I built a small open source tool called bough ( https://github.com/nickelsec/bough ) that reads the session history your coding agent leaves on disk and draws what you actually built with it. Right now it handles Claude Code and Codex CLI, because those are the two I use daily and the two I can properly verify against my own work. Someone just opened an issue asking for Pi support, which I hadn't used before, and it made me realize I have no idea what people are actually running. My sense of the landscape is basically my own two tools plus whatever shows up on here. So: what are you using day to day? And if you've switched, what moved you? Mostly asking because adding an agent means learning its transcript format properly, and I'd rather spend that on something a decent number of people use than guess. But I'm also just curious whether Claude Code and Codex really are the default now or whether that's my bubble talking."
     }
   ],
-  "fetched_at": "2026-09-13T14:58:56.610171+00:00"
+  "fetched_at": "2026-09-13T18:04:29.710547+00:00"
 }

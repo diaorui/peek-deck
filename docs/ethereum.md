@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T14:59:39.861687+00:00'
+updated: '2026-09-13T18:04:53.169638+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 14:59 UTC  
+**Last Updated:** September 13, 2026 at 18:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,480.52
+### $2,504.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** +0.0%  
-**30d:** +32.4%  
-**90d:** +39.1%  
-**1y:** -45.9%  
+**24h:** -0.6%  
+**7d:** +0.6%  
+**30d:** +33.1%  
+**90d:** +39.8%  
+**1y:** -45.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.99B
+**Market Cap:** $305.74B
 Rank #2
 
 **Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.6%
+-49.3%
 
 **All-Time Low:** $0.43
-+575181.9%
++578493.9%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Variable rates are still the default for most onchain credit. That makes leverage and yield farming messy: you can size a position, then the borrow rate or farm APY moves against you before the thesis plays out.Fixed-rate markets exist in TradFi because treasurers and lenders need duration. Onchain, that layer has been thinner for years. Curious what people here think is the actual bottleneck: Liquidity fragmentation (borrowers and lenders won’t sit in a fixed pool) Smart-contract / oracle risk making duration unattractive Better returns still living in variable money markets and points farms UX (term matching, early exit, collateral management) Something else If you do use leverage or farm on Ethereum today, do you hedge rate risk at all, or just keep terms short and eat the variability?
 
-2d ago
+3d ago
 
 ---
 
@@ -158,19 +158,27 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
-**[Bitcoin, Ethereum, and XRP hold steady near key levels ahead of Fed's Sept 16 decision amid rising Treasury yields.](https://pluang.com/en/news-feed/bitcoin-eth-xrp-menjelang-keputusan-fed-16-september-dengan-yield-treasury)**
+**[XRP could outperform Ethereum by 306% based on technical analysis of XRP/ETH ratio.](https://pluang.com/en/news-feed/xrp-berpotensi-lebih-baik-dari-bitcoin-dan-ethereum-analisis-306-persen)**
 
-Bitcoin, Ethereum, and XRP are maintaining stable prices as the Federal Reserve's September 16 meeting approaches, despite rising Treasury yields nearing 5%. This resilience suggests the crypto market may be adapting to a higher interest rate environment rather than reacting solely to monetary tightening. Key Bitcoin price levels between $75,000 and $82,000 will indicate whether crypto can absorb these conditions or if traditional pressures like higher yields and a stronger dollar will dominate. The Fed's decision could clarify the future trajectory for cryptocurrencies amid ongoing inflation and economic concerns.
+Crypto analyst Dark Defender projects that XRP could significantly outperform Ethereum, with the XRP/ETH ratio potentially rising about 306% from its current level. This forecast is based on an Elliott Wave technical pattern targeting a fifth-wave extension to 0.002238 ETH per XRP. However, this projection reflects relative performance, not XRP's absolute price or market cap surpassing Ethereum or Bitcoin. XRP's market cap is currently $86 billion, far below Ethereum's $300 billion and Bitcoin's $1.55 trillion. Institutional access to XRP is expanding through U.S.-listed ETFs, supporting regulated exposure amid mixed market conditions. The key technical levels to watch are the intermediate Fibonacci zones between 0.0006487 and 0.0007773 before the larger target is reached.
 
-Pluang • 2h ago
+Pluang • 1h ago
 
 ---
 
-**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
+**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://finance.yahoo.com/markets/crypto/articles/ethereum-track-snap-longest-quarterly-152634021.html)**
 
-Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
+Ethereum is up about 58% in the third quarter, putting it on track to snap its first-ever three-quarter losing streak.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[BNB Chain leads 2026 with $3.6B surge in real-w...](https://pluang.com/en/news-feed/pertumbuhan-nilai-rwa-bnb-chain-lebih-cepat-dari-solana-ethereum-harga-bnb-bakal)**
+
+BNB Chain, part of the Binance ecosystem, has become the fastest-growing blockchain for real-world assets (RWA) in 2026, adding $3.6 billion in tokenized asset value. This growth surpasses competitors like Solana ($2.6B) and Ethereum ($1.6B), highlighting BNB Chain's expanding role in the tokenized financial products market. The network's scalability, low transaction costs, and increasing user adoption are driving this momentum, potentially positioning BNB for a price rally if market conditions remain favorable. Ethereum still leads overall RWA market share, but BNB Chain's rapid growth signals a shift in institutional and user interest toward its ecosystem.
+
+Pluang • 1h ago
 
 ---
 
@@ -182,27 +190,11 @@ TradingView • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
-
-DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
-
-markets.businessinsider.com • 1d ago
-
----
-
 **[Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…](https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/)**
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-ambcrypto.com • 14h ago
-
----
-
-**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
-
-Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
-
-blockchain.news • 21h ago
+AMBCrypto • 18h ago
 
 ---
 
@@ -211,6 +203,14 @@ blockchain.news • 21h ago
 A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
+
+Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
+
+blockchain.news • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 3d ago
 
 About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
 
-Stocktwits • 1d ago
+stocktwits.com • 2d ago
 
 ---
 
@@ -232,43 +232,23 @@ Stocktwits • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[ETHEREUM… WTF IS WRONG WITH TOM LEE???](https://www.youtube.com/watch?v=Zq8szZ642wI)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 25K • 👍 566 • 💬 88 • ⏱️ 7:35 • 1d ago
-
----
-
 **[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
 
 Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 10 • ⏱️ 15:15 • 1h ago
+👁️ 2K • 👍 229 • 💬 16 • ⏱️ 15:15 • 4h ago
 
 ---
 
-**[ETHEREUM FAKEOUT WARNING! (Ethereum Update)](https://www.youtube.com/watch?v=9grcec5zJNk)**
+**[ETHEREUM… WTF IS WRONG WITH TOM LEE???](https://www.youtube.com/watch?v=Zq8szZ642wI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 Cilinix Crypto
+📺 Lark Davis
 
-👁️ 159 • 👍 18 • 💬 2 • ⏱️ 3:53 • 4h ago
-
----
-
-**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
-
-CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 258 • 💬 10 • ⏱️ 6:51 • 21h ago
+👁️ 26K • 👍 574 • 💬 88 • ⏱️ 7:35 • 1d ago
 
 ---
 
@@ -278,47 +258,7 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 5K • 👍 113 • 💬 15 • ⏱️ 21:47 • 22h ago
-
----
-
-**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
-
-BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 336 • 💬 198 • ⏱️ 17:26 • 16h ago
-
----
-
-**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
-
-Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
-
-📺 Crypto Capital Venture
-
-👁️ 26K • 👍 697 • 💬 491 • ⏱️ 17:30 • 2d ago
-
----
-
-**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
-
-Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
-
-📺 Paul Barron Network
-
-👁️ 41K • 👍 957 • 💬 54 • ⏱️ 11:43 • 1d ago
-
----
-
-**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 6K • 👍 77 • 💬 15 • ⏱️ 9:47 • 1d ago
+👁️ 5K • 👍 113 • 💬 16 • ⏱️ 21:47 • 1d ago
 
 ---
 
@@ -328,7 +268,67 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 27K • 👍 482 • 💬 101 • ⏱️ 22:54 • 1d ago
+👁️ 28K • 👍 503 • 💬 93 • ⏱️ 22:54 • 1d ago
+
+---
+
+**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
+
+BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 348 • 💬 207 • ⏱️ 17:26 • 19h ago
+
+---
+
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 6K • 👍 80 • 💬 15 • ⏱️ 9:47 • 2d ago
+
+---
+
+**[Surprise ETH Breakout?🔥Rate Hike Odds Hit 82%](https://www.youtube.com/watch?v=o-vkp7SJpCI)**
+
+Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and oil. It came as inflation data pushed September ...
+
+📺 Paul Barron Network
+
+👁️ 42K • 👍 975 • 💬 54 • ⏱️ 11:43 • 1d ago
+
+---
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 26K • 👍 701 • 💬 491 • ⏱️ 17:30 • 2d ago
+
+---
+
+**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
+
+CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 261 • 💬 10 • ⏱️ 6:51 • 1d ago
+
+---
+
+**[ETH BREAKOUT! Altcoin Season Incoming or Massive Bull Trap? (CRYPTO TRADING)](https://www.youtube.com/watch?v=-ejWtH7b9fE)**
+
+Ethereum has officially broken out of its daily consolidation range, sending shockwaves across the altcoin market. As ETH pushes ...
+
+📺 Chart Hackers
+
+👁️ 10K • 👍 283 • 💬 3 • ⏱️ 1:20:53 • 1d ago
 
 ---
 

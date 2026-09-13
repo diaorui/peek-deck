@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
       "pub_date": 1789218001.0,
@@ -15,14 +15,14 @@
       "description": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders."
     },
     {
-      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
-      "pub_date": 1789058257.0,
-      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
-      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
+      "headline": "Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
+      "pub_date": 1789054202.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Robots 'protest' outside Poland ministry demanding AI oversight",
@@ -35,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDRnMVBkQzlWX2d4UGlyT3VHYXdkVDdfM0xRdC1IbEh5WllNVzBRSmtPSXRRVlBpMFZzT2dmclB0LU9sYjVhcERLV2dXclRCWXp5bUsxcjlRNTQxMkYyMGNMN082MUdXdkVJQ0Y2cWZ0RVlWRW1BMW41VTBOLWV5bTNZMkxyUlZTenQtQ1BoTGdzblZHNmRJOGpaS2k5THBRTkRiR2tsdGpzSDdHWmI2azZwaw?oc=5",
-      "pub_date": 1789054202.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate",
-      "image": null,
-      "description": null
+      "headline": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1RVFpRE82YW1qMFZaaTQxTkF4OC1aaE9xOXpydUZ6OXpPRm5wajZmQW1zQ3JxT3BPNlBHanA3MlNkYV9SSWlUdlNRZEhrM1V0c1llTEgtbXBaSkJYTEhQX3dydXE?oc=5",
+      "pub_date": 1789058257.0,
+      "article_url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/skildai-kv-1920x1080-1.jpg",
+      "description": "Skild AI\u2019s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment."
     },
     {
       "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
@@ -95,16 +95,16 @@
       "description": "New tactile datasets could solve a longstanding challenge in robotics"
     },
     {
-      "headline": "Top 7 AI humanoid companies transforming factories and homes",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYmJEZWo0MXllaGlPeE9lSlNkYndTQWoyazFFSHFMaW9xT0ZVNlZ3UDdnT2lwNFA1T3E4TU1qYTdaMjM3RnVYNWE3S2NKaC0wb05NMnI4bXJpZEV3WkJ5Wkozc1BjOG1GWWVSdjJnMndLS2hsMDV1Smp0dXJRQ3lnSC1QMkZLakE?oc=5",
-      "pub_date": 1789306500.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/ai-humanoids.jpg",
-      "description": "Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work."
+      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
+      "pub_date": 1789094340.0,
+      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
+      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-13T14:59:17.603547+00:00"
+  "fetched_at": "2026-09-13T18:04:49.117782+00:00"
 }
