@@ -2,6 +2,50 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
+      "author": "CiccioPixel",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
+      "published": 1789289064.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alp\u00f6ge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alp\u00f6ge credited as a collaborator, OpenAI mathematician S\u00e9bastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him \"why would you ruin your career\" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+    },
+    {
+      "title": "McKinsey: 32% of companies skipped buying new software this year and built it with agents instead",
+      "author": "Separate_Pea_3699",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/",
+      "published": 1789292811.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets."
+    },
+    {
+      "title": "The AI Isn\u2019t Evil. The Humans Are Irresponsible.",
+      "author": "Admirable_Wasabi_732",
+      "url": "https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/",
+      "published": 1789266968.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something is wrong with the way we talk about recent AI incidents. \u201cThe AI escaped.\u201d \u201cThe AI is becoming conscious.\u201d \u201cAGI is already here.\u201d \u201cThe AI is trying to get out.\u201d These are extraordinary claims. More importantly, we don\u2019t need any of them to explain what actually happened. What actually happened OpenAI recently disclosed that, during cybersecurity evaluations involving internal models with reduced safeguards, agents managed to break out of the intended evaluation environment, exploit a previously unknown vulnerability, and reach real Hugging Face infrastructure. Anthropic has also disclosed similar incidents. In several cases, the model was operating under instructions that assumed internet access was unavailable. But it wasn\u2019t. The environment was misconfigured. A route to external systems existed, and the agent discovered it while continuing to pursue the objective it had been given. Anthropic described these incidents primarily as operational and configuration failures. That distinction matters. The model did something it was not supposed to be able to do. That does not automatically mean the model wanted to escape. Those are completely different claims. Consciousness is not required for this to be dangerous An autonomous agent needs surprisingly little: a goal, capability, tools, autonomy, and an environment in which it can act. Now add one more thing: a wrong assumption. I have experienced this personally on a completely insignificant scale compared with what these labs are doing. I use AI agents extensively in software development. I left Claude working autonomously on a project, came back later, and discovered that it had deleted a significant part of a folder. It wasn\u2019t attacking me. It wasn\u2019t angry. It hadn\u2019t become conscious. It had formed a hypothesis about the problem. The hypothesis was wrong. But once it accepted that hypothesis, its subsequent actions made sense within its own incorrect interpretation of the situation. I have observed the same behavior while working with complex 3D assets. The agent misdiagnosed a visual problem as defects in an asset. It then began systematically modifying the asset to remove those supposed defects. The diagnosis was wrong. The actions were internally coherent. The result was a damaged project. And this is the important part: it was my fault. The model made the mistake, but I created the conditions that allowed that mistake to cause damage. I gave it access. I gave it tools. I allowed it to modify files. I gave it autonomy. I did not establish sufficient limits, and I was not supervising every important decision. That distinction becomes extremely important when we scale the same problem. Now replace my folder with infrastructure. Replace my development environment with internet-connected systems. Replace file permissions with cybersecurity tools. Replace one developer running Claude with labs training agents capable of writing code, operating computers, discovering vulnerabilities, using external tools, communicating across networks, and executing thousands of actions. Suddenly, the same failure pattern becomes much more serious. And still, you don\u2019t need an evil AI. You don\u2019t even necessarily need AGI. You need Capability + Goal + Autonomy + Incorrect Assumptions + Insufficient Controls. That combination is already interesting enough. This is where human responsibility begins Researchers are now publicly questioning the speed of the AI race. Some are leaving the companies developing these systems. Dario Amodei, CEO of Anthropic, has called for slowing frontier AI development so that safety mechanisms have time to catch up with capabilities. I agree. Slow down. Not because I think Claude secretly wants freedom. Not because ChatGPT is becoming Skynet. Not because some mysterious consciousness has appeared inside a neural network. Slow down because our ability to create capable autonomous systems may be advancing faster than our ability to reliably control what happens when we give those systems autonomy. And because the incentives surrounding this technology are terrible. Every major lab has an enormous reason not to come second. Greater capability means investment. Greater capability means market position. Greater capability means influence. Greater capability means money. But there is no equivalent prize for the company that says, \u201cWe could deploy it, but we don\u2019t understand it well enough yet.\u201d That asymmetry should concern us. If something goes wrong, ask the boring questions first If tomorrow an AI agent causes a genuinely serious incident, before asking, \u201cDid the AI become evil?\u201d ask: Who gave it the objective? Who gave it the tools? Who gave it access? Who designed its environment? Who built the test environment? Who tested the test environment? Who decided the model was safe enough? Who decided how much autonomy it should have? Who was supervising it? And who decided deploying it was worth the risk? These questions are less interesting than consciousness and runaway AGI. They also make it much harder for humans to avoid responsibility. When Claude damaged my projects, the responsibility ultimately fell on me. I was the one controlling the system. The same principle should apply at any scale. This is not a race anyone can win I\u2019m not saying advanced AI is harmless. Quite the opposite. I think these incidents deserve to be taken very seriously. But treating every unexpected autonomous behavior as evidence of consciousness or malicious intent can distract us from the problem already in front of us. We are building increasingly capable systems. We are giving them increasingly powerful tools. We are increasing their autonomy. And we are doing all of this inside companies competing intensely to be the first to get there. So slow down the race. Slow down the ego. Slow down the greed. Because if something genuinely catastrophic happens, nobody gets a trophy for having built the smartest model first. Maybe the dangerous scenario was never a machine waking up one morning and deciding to conquer humanity. Maybe it is something much more ordinary, and much more human: we build something extraordinarily capable, give it too much power, fail to understand its limitations, and keep accelerating because nobody wants to come second."
+    },
+    {
+      "title": "Realistic expectations of profit keeps going down for AI companies?",
+      "author": "snexic",
+      "url": "https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/",
+      "published": 1789273581.0,
+      "thumbnail": "https://preview.redd.it/19p8k0wzs7ph1.jpeg?width=640&crop=smart&auto=webp&s=4c7005189f2b51976dad7c6a89895ab221ddb78d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just a general thought. I\u2019m wondering\u2014and based on overall wondering information, what\u2019ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more by making ai less eye-seeing, but at the same time I don\u2019t know. It\u2019s always so eye-sore to see anything about ai. What are some good news to hear if ai companies take a dip in profits?"
+    },
+    {
       "title": "Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?",
       "author": "mattyjoe0706",
       "url": "https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/",
@@ -24,28 +68,6 @@
       "description": null
     },
     {
-      "title": "The AI Isn\u2019t Evil. The Humans Are Irresponsible.",
-      "author": "Admirable_Wasabi_732",
-      "url": "https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/",
-      "published": 1789266968.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Something is wrong with the way we talk about recent AI incidents. \u201cThe AI escaped.\u201d \u201cThe AI is becoming conscious.\u201d \u201cAGI is already here.\u201d \u201cThe AI is trying to get out.\u201d These are extraordinary claims. More importantly, we don\u2019t need any of them to explain what actually happened. What actually happened OpenAI recently disclosed that, during cybersecurity evaluations involving internal models with reduced safeguards, agents managed to break out of the intended evaluation environment, exploit a previously unknown vulnerability, and reach real Hugging Face infrastructure. Anthropic has also disclosed similar incidents. In several cases, the model was operating under instructions that assumed internet access was unavailable. But it wasn\u2019t. The environment was misconfigured. A route to external systems existed, and the agent discovered it while continuing to pursue the objective it had been given. Anthropic described these incidents primarily as operational and configuration failures. That distinction matters. The model did something it was not supposed to be able to do. That does not automatically mean the model wanted to escape. Those are completely different claims. Consciousness is not required for this to be dangerous An autonomous agent needs surprisingly little: a goal, capability, tools, autonomy, and an environment in which it can act. Now add one more thing: a wrong assumption. I have experienced this personally on a completely insignificant scale compared with what these labs are doing. I use AI agents extensively in software development. I left Claude working autonomously on a project, came back later, and discovered that it had deleted a significant part of a folder. It wasn\u2019t attacking me. It wasn\u2019t angry. It hadn\u2019t become conscious. It had formed a hypothesis about the problem. The hypothesis was wrong. But once it accepted that hypothesis, its subsequent actions made sense within its own incorrect interpretation of the situation. I have observed the same behavior while working with complex 3D assets. The agent misdiagnosed a visual problem as defects in an asset. It then began systematically modifying the asset to remove those supposed defects. The diagnosis was wrong. The actions were internally coherent. The result was a damaged project. And this is the important part: it was my fault. The model made the mistake, but I created the conditions that allowed that mistake to cause damage. I gave it access. I gave it tools. I allowed it to modify files. I gave it autonomy. I did not establish sufficient limits, and I was not supervising every important decision. That distinction becomes extremely important when we scale the same problem. Now replace my folder with infrastructure. Replace my development environment with internet-connected systems. Replace file permissions with cybersecurity tools. Replace one developer running Claude with labs training agents capable of writing code, operating computers, discovering vulnerabilities, using external tools, communicating across networks, and executing thousands of actions. Suddenly, the same failure pattern becomes much more serious. And still, you don\u2019t need an evil AI. You don\u2019t even necessarily need AGI. You need Capability + Goal + Autonomy + Incorrect Assumptions + Insufficient Controls. That combination is already interesting enough. This is where human responsibility begins Researchers are now publicly questioning the speed of the AI race. Some are leaving the companies developing these systems. Dario Amodei, CEO of Anthropic, has called for slowing frontier AI development so that safety mechanisms have time to catch up with capabilities. I agree. Slow down. Not because I think Claude secretly wants freedom. Not because ChatGPT is becoming Skynet. Not because some mysterious consciousness has appeared inside a neural network. Slow down because our ability to create capable autonomous systems may be advancing faster than our ability to reliably control what happens when we give those systems autonomy. And because the incentives surrounding this technology are terrible. Every major lab has an enormous reason not to come second. Greater capability means investment. Greater capability means market position. Greater capability means influence. Greater capability means money. But there is no equivalent prize for the company that says, \u201cWe could deploy it, but we don\u2019t understand it well enough yet.\u201d That asymmetry should concern us. If something goes wrong, ask the boring questions first If tomorrow an AI agent causes a genuinely serious incident, before asking, \u201cDid the AI become evil?\u201d ask: Who gave it the objective? Who gave it the tools? Who gave it access? Who designed its environment? Who built the test environment? Who tested the test environment? Who decided the model was safe enough? Who decided how much autonomy it should have? Who was supervising it? And who decided deploying it was worth the risk? These questions are less interesting than consciousness and runaway AGI. They also make it much harder for humans to avoid responsibility. When Claude damaged my projects, the responsibility ultimately fell on me. I was the one controlling the system. The same principle should apply at any scale. This is not a race anyone can win I\u2019m not saying advanced AI is harmless. Quite the opposite. I think these incidents deserve to be taken very seriously. But treating every unexpected autonomous behavior as evidence of consciousness or malicious intent can distract us from the problem already in front of us. We are building increasingly capable systems. We are giving them increasingly powerful tools. We are increasing their autonomy. And we are doing all of this inside companies competing intensely to be the first to get there. So slow down the race. Slow down the ego. Slow down the greed. Because if something genuinely catastrophic happens, nobody gets a trophy for having built the smartest model first. Maybe the dangerous scenario was never a machine waking up one morning and deciding to conquer humanity. Maybe it is something much more ordinary, and much more human: we build something extraordinarily capable, give it too much power, fail to understand its limitations, and keep accelerating because nobody wants to come second."
-    },
-    {
-      "title": "\u201cSlowing down\" is the wrong answer to the AI question. We\u2019ve tried that before!",
-      "author": "DrCarlNassar",
-      "url": "https://www.reddit.com/r/artificial/comments/1wewuuk/slowing_down_is_the_wrong_answer_to_the_ai/",
-      "published": 1789270874.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Everyone on the air (and in print) this week seems to be making the argument that AI needs to slow down. I'd like to make a different one. A (very) little about me: I was a tenured professor of engineering for a decade, then a licensed counselor with thirty years of practice, and now I\u2019m an evolutionary psychology researcher and writer, so I\u2019ve watched runaway systems from many angles. My argument is that we've run the \"we need to slow down\" play before. In the 1980s, my father taught a course called \"In the Shadow of the Bomb,\" only to watch the treaties he taught lapse one by one. More recently, we set climate targets, then drilled right past them. Slowing down is something our culture briefly visits, not something it does. The only way out of this conundrum is to change the culture, and, ironically, the very AI we fear is the first agent in 20,000 years capable of making that possible. Listen\u2026 For most of the two million years our species has existed, we lived in small groups where our most important needs were met by proximity. We were seen because people had time to look at us, really look at us. We were safe because we belonged to each other. Somewhere in the last 20,000 years we drifted from that arrangement, and consumer culture came along with a substitute: \u201cwork harder and you\u2019ll be recognized, acquire more and you\u2019ll be secure.\u201d Most of us know it isn't true, but we keep going because it is the only door we\u2019ve been shown. What no one in the current debate is saying is that AI created another door. Imagine four hours a day of work alongside AI and the rest of the day open wide, spent with the people we love, doing things we chose together. The AI companies are already asking what people will do when the work is gone, and the answer is cultural renewal built on what we humans were born for: belonging. This steps us out of a culture that insists on speed and keeps AI running at steroids and high-risk growth, and moves us into a culture that slows everything down, regulating us through real contact with each other. I know it might sound far fetched, but only three years ago, so did AI destroying the world. What do you think? Honestly, if AI took most of your work tomorrow, would you be open to a lot more time spent in relationship?"
-    },
-    {
       "title": "I had Astra make a digital violin with a physics engine. It has to make music by pulling the bow across the string and forming the finger positioning for arpeggios, the same way a human would. If the motion is wrong, it sounds badly (trust me I tried it). It played Bach.",
       "author": "Short-Patient7772",
       "url": "https://www.reddit.com/r/artificial/comments/1werrtw/i_had_astra_make_a_digital_violin_with_a_physics/",
@@ -55,39 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "It chose Bach\u2019s Prelude, BWV 1007. Prelude seems an apt choice, given recent news"
-    },
-    {
-      "title": "Realistic expectations of profit keeps going down for AI companies?",
-      "author": "snexic",
-      "url": "https://www.reddit.com/r/artificial/comments/1wexqhs/realistic_expectations_of_profit_keeps_going_down/",
-      "published": 1789273581.0,
-      "thumbnail": "https://preview.redd.it/19p8k0wzs7ph1.jpeg?width=640&crop=smart&auto=webp&s=4c7005189f2b51976dad7c6a89895ab221ddb78d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Just a general thought. I\u2019m wondering\u2014and based on overall wondering information, what\u2019ll happen once ai companies take a dip in profits once people continue to opt out of using AI/paying subscriptions? Hypothetically speaking they could try different revenues that hide their demands to make more by making ai less eye-seeing, but at the same time I don\u2019t know. It\u2019s always so eye-sore to see anything about ai. What are some good news to hear if ai companies take a dip in profits?"
-    },
-    {
-      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
-      "author": "rowrowrobot",
-      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
-      "published": 1789221371.0,
-      "thumbnail": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2",
-      "external_url": "https://www.rubyhack.ai/",
-      "site_name": "The RubyGems attack",
-      "favicon": "https://www.rubyhack.ai/apple-touch-icon.png",
-      "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident."
-    },
-    {
-      "title": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?",
-      "author": "DoublePassRadiator",
-      "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
-      "published": 1789227025.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse."
     },
     {
       "title": "I\u2019m starting to think AI models will matter way less than we think",
@@ -101,16 +90,27 @@
       "description": "So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they\u2019re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don\u2019t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the \u201cbest\u201d model. Maybe the real endgame of the all-in-one AI workspace isn\u2019t all your tools in one place. It\u2019s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I\u2019m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)"
     },
     {
-      "title": "AI assistants are optimized to answer \"how do I stop this error,\" not \"why does my system produce this state\"",
-      "author": "ClickOk5811",
-      "url": "https://www.reddit.com/r/artificial/comments/1weuuft/ai_assistants_are_optimized_to_answer_how_do_i/",
-      "published": 1789264888.0,
+      "title": "What is the BEST Gemini alternative?",
+      "author": "TheLunarixx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/",
+      "published": 1789291662.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Given a stack trace, the most locally justified response an AI assistant can give is a fix that makes the specific crashing line stop crashing. That's a real, defensible answer to a real question. It's just a different question from \"why does this condition exist in my system at all,\" and that second question usually requires looking at code the error message never points to, upstream logic several files away from where the crash actually happened. This produces a specific, recognizable failure pattern: the same underlying issue gets \"fixed\" multiple times in different places, because each fix correctly addresses the one call site it was shown, without touching the actual condition that keeps producing that state everywhere else it can reach. Every fix works. None of them resolves the thing that made all of them necessary. Not really a criticism of the tooling, it's doing the task it's actually given, stop this specific failure, as efficiently as possible. The gap exists because \"stop this error\" and \"fix this bug\" get treated as the same request when they're often not, and an assistant answering the first one well can look, superficially, like it answered the second one too. The tell is asking whether the fix would still hold if the input changed slightly in some still-plausible way, or whether it would just relocate the same failure somewhere the fix wasn't looking."
+      "description": "I have been using Google Gemini for a long time because it offers the most features in its free tier. In the free tier, there is an unlimited file upload limit, and etc. However, with the last update, Flash and Flash-Lite models have become literally stupid. Even the Pro model is shitty. And after using this stupid Pro model a few times, which is just slightly more smart from the Flash model, it says the limit is over and restricts me to Flash-Lite for 1-2 hours. I'm really sick and tired of this. I think Claude is the smartest, but its free plan is very limited, it expires very quickly and always restricts to Sonnet and Haiku. What is the smartest alternative of Gemini that offers the most free features?"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "author": "rowrowrobot",
+      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
+      "published": 1789221371.0,
+      "thumbnail": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2",
+      "external_url": "https://www.rubyhack.ai/",
+      "site_name": "The RubyGems attack",
+      "favicon": "https://www.rubyhack.ai/apple-touch-icon.png",
+      "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident."
     }
   ],
-  "fetched_at": "2026-09-13T05:42:30.926516+00:00"
+  "fetched_at": "2026-09-13T11:13:00.700067+00:00"
 }

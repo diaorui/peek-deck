@@ -2,6 +2,17 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "Bitcoin Renaissance",
+      "author": "Suitable_Acadia_190",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/",
+      "published": 1789291878.0,
+      "thumbnail": "https://external-preview.redd.it/d3lucXNrd2RiOXBoMbJ2HLdKcGLF-Y2IpsPTAizAgEx39XtxLgUpONYZZvft.png?width=640&crop=smart&auto=webp&s=ae085ab83c5baafd09a8b87bf6340d84c21b4ead",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Lambos are temporary, the dip is forever.",
       "author": "degen_to_sensei",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/",
@@ -13,104 +24,93 @@
       "description": null
     },
     {
-      "title": "Bears don\u2019t stand a chance",
-      "author": "TerribleBluebird09",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we6azq/bears_dont_stand_a_chance/",
-      "published": 1789199355.0,
-      "thumbnail": "https://external-preview.redd.it/bG04aHhubTlvMXBoMWbMkykGbdxiDpEfFMBQom-DmqZYZ-XXuVLOPhU9TGKO.jpeg?width=640&crop=smart&auto=webp&s=127fd9ae53e434e518f95ef427bb1aff6cf6a511",
+      "title": "bitcoin shark knows the bottom already happened",
+      "author": "desimus0019",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wedj9f/bitcoin_shark_knows_the_bottom_already_happened/",
+      "published": 1789221925.0,
+      "thumbnail": "https://preview.redd.it/rzgsy6cej3ph1.jpeg?width=320&crop=smart&auto=webp&s=94bf29e809686a65436be08418497eeb5b176763",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "Here is who you are trading against",
-      "author": "nag1bator1",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wd9t6i/here_is_who_you_are_trading_against/",
-      "published": 1789113698.0,
-      "thumbnail": "https://external-preview.redd.it/OG1oZXVlM2tsdW9oMesN7FGG7zJrmoKcKLau1zq0_6aUQ-c9VPQYGBokgLVb.jpeg?width=640&crop=smart&auto=webp&s=d0bb533cc38fb13f9fc2fd0522ce80f843b303b8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Bitcoin ATM",
-      "author": "Stinklefresh",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdzpp0/bitcoin_atm/",
-      "published": 1789178748.0,
-      "thumbnail": "https://preview.redd.it/mw973c50zzoh1.jpeg?width=640&crop=smart&auto=webp&s=ac08290da4c90f44b450bac604e1c4c5e9f8dd6c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How do these work? Have you ever tried using one?"
-    },
-    {
-      "title": "Sweet heavens folks, we\u2019re spiking !",
-      "author": "HipPasta",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdhc8h/sweet_heavens_folks_were_spiking/",
-      "published": 1789135687.0,
-      "thumbnail": "https://preview.redd.it/0wt202vyewoh1.jpeg?width=640&crop=smart&auto=webp&s=09e6d314c2aaa484c3d15392fb2032f4af4c167e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Normies and Bitcoiners",
-      "author": "Practical_Mango7633",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdr4i2/normies_and_bitcoiners/",
-      "published": 1789157025.0,
-      "thumbnail": "https://external-preview.redd.it/d2tueTNlaGM2eW9oMWxNx8-xgAcgj6vYkPYtreDW7hUb2UoZ51aGQi5_E7x5.png?width=320&crop=smart&auto=webp&s=15253a2d3abc93556bf44594c5ed7b53fb43209d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "So I made a seed phrase generator the only way I knew how...",
-      "author": "Captain_Chapster",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we1159/so_i_made_a_seed_phrase_generator_the_only_way_i/",
-      "published": 1789182567.0,
-      "thumbnail": "https://external-preview.redd.it/oDgGiTFLVxxZLIqnFli-9IczJAXHy3PceI_Fk7tBYuM.png?width=140&height=70&auto=webp&s=45cbcb53504594e85dfed9805a17b9b253e3c663",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus"
-    },
-    {
-      "title": "When do we think the actual BTC bottom is coming? What\u2019s your playbook?",
-      "author": "Ok_Application6123",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we34se/when_do_we_think_the_actual_btc_bottom_is_coming/",
-      "published": 1789188971.0,
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "author": "TheresNoSecondBest",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wejz8c/bitcoin_activity_passports_exposed_after_revolut/",
+      "published": 1789237221.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "site_name": "coindesk.com",
       "favicon": null,
-      "description": "Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I\u2019m curious where the sentiment is: - \u200bTimeline: Are you expecting the bottom in the next few months or dragging into next year? - \u200bSignals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - \u200bPlaybook: DCA'ing now, or sitting on cash waiting for a deeper dump? \u200bNot asking for financial advice, just curious how everyone's positioning"
+      "description": "KYC is getting more dangerous by day. Once you'll have enough of this, have a look at BISQ, Robosats, HodlHodl, PeachBitcoin or Vexl instead."
     },
     {
-      "title": "BTC wiping out the bears again",
-      "author": "Cryptomuscom",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wdi11d/btc_wiping_out_the_bears_again/",
-      "published": 1789137264.0,
-      "thumbnail": "https://preview.redd.it/s3ntcnjhjwoh1.jpeg?width=640&crop=smart&auto=webp&s=51a0b5512aaf988c4b21cb418eb57e214de13e91",
+      "title": "Lock in.",
+      "author": "1-gill",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/",
+      "published": 1789254787.0,
+      "thumbnail": "https://preview.redd.it/g64cxo2496ph1.jpeg?width=640&crop=smart&auto=webp&s=a5ac7d6ff63a203dddef5cc9dd1da1e9018ea8f5",
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": null
     },
     {
-      "title": "Daily Discussion, September 12, 2026",
+      "title": "Daily Discussion, September 13, 2026",
       "author": "rBitcoinMod",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1we5ghi/daily_discussion_september_12_2026/",
-      "published": 1789196446.0,
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf0ijh/daily_discussion_september_13_2026/",
+      "published": 1789282804.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
       "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
+    },
+    {
+      "title": "case trezor safe 5 print 3D",
+      "author": "rex1929",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wet2e0/case_trezor_safe_5_print_3d/",
+      "published": 1789259769.0,
+      "thumbnail": "https://preview.redd.it/ojkkec1vn6ph1.jpeg?width=640&crop=smart&auto=webp&s=bb7ef088eba86dca974d38f129792fefea15e79a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Clarity act fail",
+      "author": "Extreme_Exam7914",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf261u/clarity_act_fail/",
+      "published": 1789288608.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Clarity act fail How big a pullback do we see if the clarity act doesn\u2019t get voted through ? 10% 20% ? Do you think that would be probably be the last big dip prior to the end of the bear market"
+    },
+    {
+      "title": "Canada just quietly said \"yeah tokenized deposits are just deposits\" and it's a bigger deal than it sounds",
+      "author": "bitNomad22",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wedsbb/canada_just_quietly_said_yeah_tokenized_deposits/",
+      "published": 1789222553.0,
+      "thumbnail": "https://preview.redd.it/g93w4el7l3ph1.jpeg?width=640&crop=smart&auto=webp&s=92146a32f321b3a096438255f38126a1db17c8d6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Canada's bank regulator (OSFI) just said tokenized deposits are \"not legally distinct\" from regular bank deposits. translation: banks have wanted to put deposits on-chain for a while now, tech's been ready. the thing actually holding it up was regulators just... never clearly saying what these things legally ARE. no clear answer = no bank touching it, too much legal risk. Canada just removed that excuse. same rules, no new framework, just \"this counts as a normal deposit, go ahead.\" this is the boring-sounding stuff that actually matters, this is a literal door opening for real banks to start building on-chain instead of just talking about it in press releases curious if US/EU regulators follow suit or if Canada's just built different rn."
+    },
+    {
+      "title": "I built a small BIP-39 checksum device for manually generated entropy",
+      "author": "nyenycproject",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wehrvl/i_built_a_small_bip39_checksum_device_for/",
+      "published": 1789232225.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The idea started from something that bothered me with hardware wallets and other similar devices, and it really sparked during the coldcard mishap (which shows that letting the hw generate the seed for you is not ideal for real cold storage). Dont get me wrong, I still really like the coldcard hw but the reality of things is that software bugs will always be present no matter what. Ledger and Trezor are no exceptions. Of course some hardware wallets allow you to provide your own entropy, for example using dice rolls. This is already much better than blindly trusting an internal rng, but imho there is still one part of the process you have to trust: you cannot usually verify, step by step, that the entropy bits you provided are actually being mapped to the correct BIP-39 words. You provide the entropy, and eventually the wallet shows you a mnemonic. But what happened in between? This device is meant to solve exactly this problem. I made a similar project before this one but the word-building process wasn't fully auditable, Redditors pointed out this problem, which I really appreciated. This device does not generate entropy. You generate it yourself using coin flips or dice rolls. The device only helps you convert that entropy into a BIP-39 mnemonic and calculate the checksum required for the final word. While entering the entropy, the 2x16 LCD shows the current 11-bit group being built. When the 11 bits are complete, it shows the decimal index and the corresponding BIP-39 word. For example, this is the 7th word while being built, with only 5 bits entered so far: +----------------+ |W07 11000______ | |A:H=0 B:T=1 | +----------------+ ...and this is the final result once all 11 bits have been entered: +----------------+ |W07 11000010110 | |1558 security | +----------------+ So you can independently check: 11000010110 -> 1558 -> security against any BIP-39 wordlist, even a wordlist as pdf or txt file on your computer, it doesn't have to be on paper. Indexes are 0-based !!! This happens for every word. The final word is the only special one because part of its 11 bits comes from the SHA-256 checksum. For a 24-word mnemonic, for example: +----------------+ |W24 101|01100110| |1382 <word> | +----------------+ The 101 bits come directly from your entropy, while the remaining 8 bits are the checksum calculated by the device. Unlike the previous project, this one currently supports 12, 18 and 24 word BIP-39 mnemonics, with three entropy input methods: direct coin flips, Von Neumann debiased coin flips, and dice rolls. Von Neumann allows to get statistically fair results from a biased coin (any real word coin is slightly biased of course). The goal is basically to have a very small device where you provide the randomness and you can audit the entropy-to-word conversion while it happens, instead of trusting a hardware wallet to do that part correctly behind the scenes. Project here: https://github.com/gianlucag/LastWord I would really appreciate any feedback, or simply whether you think this approach makes sense"
     }
   ],
-  "fetched_at": "2026-09-12T12:18:01.633077+00:00"
+  "fetched_at": "2026-09-13T11:13:01.555290+00:00"
 }
