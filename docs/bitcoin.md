@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-12T22:52:23.158165+00:00'
+updated: '2026-09-13T00:39:07.729541+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 12, 2026 at 22:52 UTC  
+**Last Updated:** September 13, 2026 at 00:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,469.39
+### $77,291.62
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.0%  
-**7d:** -3.9%  
+**7d:** -2.3%  
 **30d:** +22.5%  
-**90d:** +16.4%  
-**1y:** -33.4%  
+**90d:** +17.7%  
+**1y:** -33.1%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Lambos are temporary, the dip is forever.](https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Bears don’t stand a chance](https://www.reddit.com/r/Bitcoin/comments/1we6azq/bears_dont_stand_a_chance/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 How do these work? Have you ever tried using one?
 
-20h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ How do these work? Have you ever tried using one?
 
 With everything that's been going on lately I felt like there was nothing we could do but trust something responsible for making us a seed phrase, aside from rolling dice but even still what happens after that? I needed something for myself first and foremost, something I knew front to back was doing what I expected it to do. I needed a seed phrase derived from radioactive decay... https://preview.redd.it/b3ew5lfy80ph1.png?width=6000&format=png&auto=webp&s=cfdf16eb28839896a5e02fb0061ee42c55e3cb88 So I came up with Entropy32, an AVR based seed generator that observes Geiger counter clicks and takes the time between them as the entropy source. It started off on a breadboard, migrated to the first PCB which was a monster and used through hole components: https://preview.redd.it/1vt77b0r80ph1.jpg?width=1542&format=pjpg&auto=webp&s=ad1afa7f3ca5949a2acdde78167aed101989093f I then took everything that worked from this version and compressed it down to a PCB a quarter of the size of this one, something that could now fit in the palm of your hand: https://preview.redd.it/yqdwobiv80ph1.png?width=3072&format=png&auto=webp&s=720b52e7858bab124cdd7d28ac022eb95df7379c I wanted to show this off to people who like me, are feeling a bit concerned about recent AI advancements targeting hardware we used to rely on. I wanted to prove how we can always overcome these challenges in creative and powerful ways - anyone can build this or something like this. I don't want you to trust me or this device, I want to inspire people out there to build the things we need to make this work. I don't want to trust anyone or anything anymore, that's why I have this. The firmware, hardware and everything in between is open source and on GitHub for those interested, this hasn't been properly tested yet to determine if the entropy source passes critical tests like NIST - so please don't use this to secure real world funds. This is strictly educational. You can learn more here: https://github.com/captainchapster/Entropy32-Plus
 
-19h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ With everything that's been going on lately I felt like there was nothing we cou
 
 Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Some of you are waiting for one last brutal capitulation wick, while others think we're already carving out a macro floor. I know nobody has a working crystal ball, but I’m curious where the sentiment is: - ​Timeline: Are you expecting the bottom in the next few months or dragging into next year? - ​Signals: What are you watching most closely? (MVRV, hash ribbons, macro, pure TA?) - ​Playbook: DCA'ing now, or sitting on cash waiting for a deeper dump? ​Not asking for financial advice, just curious how everyone's positioning
 
-17h ago
+19h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey guys, seeing tons of mixed takes on where we are in the cycle right now. Som
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+17h ago
 
 ---
 
@@ -151,21 +151,13 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Bitcoin activity, passports exposed after Revolut falls for fake government request](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request)**
 
-CoinDesk • 12h ago
+coindesk.com • 13h ago
 
 ---
 
 **[White House Issues Serious Crypto Warning—Bitcoin Price On The Brink Of $8 Trillion Shock](https://www.forbes.com/sites/digital-assets/2026/09/12/white-house-issues-serious-crypto-warning-bitcoin-price-on-the-brink-of-8-trillion-shock/)**
 
-Forbes • 11h ago
-
----
-
-**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
-
-Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
-
-Yahoo Finance • 1h ago
+Forbes • 13h ago
 
 ---
 
@@ -173,13 +165,21 @@ Yahoo Finance • 1h ago
 
 Every time Bitcoin pushes past a key price ceiling, sellers materialize and swat it back down within days. Understanding who those sellers are and what it would take to finally silence them changes how you read the current stall.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Revolut leak ties Bitcoin wallets to home addresses](https://sg.finance.yahoo.com/news/revolut-leak-ties-bitcoin-wallets-233921466.html)**
+
+Revolut exposes sensitive customer data to an unauthorized party.
+
+Yahoo Finance Singapore • 59m ago
 
 ---
 
 **[‘Ferris Bueller Gone Bad’: 22-Year-Old Pleads Guilty in Giant Bitcoin Heist](https://www.nytimes.com/2026/09/09/us/bitcoin-crypto-heist-malone-lam.html)**
 
-The New York Times • 3d ago
+nytimes.com • 3d ago
 
 ---
 
@@ -191,6 +191,14 @@ CNBC • 1d ago
 
 ---
 
+**[Bitcoin billionaire Tim Draper’s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle](https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d)**
+
+American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
+
+Business Insider Africa • 8h ago
+
+---
+
 **[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
 
 Reuters • 1d ago
@@ -199,15 +207,7 @@ Reuters • 1d ago
 
 **[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
 
-bloomberg.com • 1d ago
-
----
-
-**[Bitcoin billionaire Tim Draper’s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle](https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d)**
-
-American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
-
-Business Insider Africa • 6h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -215,7 +215,7 @@ Business Insider Africa • 6h ago
 
 A 22-year-old man pleaded guilty on Tuesday to teaming up with friends to steal nearly a quarter-billion dollars in bitcoin from a Washington, DC, resident — one of the largest cryptocurrency thefts in US history — and then embarking on a wild spending spree with the laundered proceeds.
 
-cnn.com • 2d ago
+CNN • 2d ago
 
 ---
 
@@ -235,7 +235,7 @@ Neha Narula
 
 Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
 
-⬆️ 6 • 💬 0 • 11h ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
+⬆️ 6 • 💬 0 • 13h ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
 
 ---
 
@@ -259,7 +259,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
-⬆️ 4 • 💬 1 • 7h ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
+⬆️ 4 • 💬 1 • 9h ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -275,7 +275,7 @@ Self-described white hats promise to return 'most' of the 4,000 BTC once the vul
 
 Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.
 
-⬆️ 4 • 💬 0 • 12h ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
+⬆️ 4 • 💬 0 • 14h ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
 
 ---
 
@@ -297,7 +297,7 @@ Explore the full Bitcoin ecosystem with The Mempool Open Source Project®. See L
 
 **[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
 
-⬆️ 1 • 💬 1 • 8h ago
+⬆️ 1 • 💬 1 • 10h ago
 
 ---
 
@@ -311,7 +311,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 99 • ⏱️ 53:38 • 9h ago
+👁️ 59K • 👍 2K • 💬 99 • ⏱️ 53:38 • 11h ago
 
 ---
 
@@ -361,7 +361,7 @@ When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator wit
 
 📺 Mark Moss
 
-👁️ 116K • 👍 2K • 💬 402 • ⏱️ 45:54 • 1d ago
+👁️ 116K • 👍 2K • 💬 402 • ⏱️ 45:54 • 2d ago
 
 ---
 

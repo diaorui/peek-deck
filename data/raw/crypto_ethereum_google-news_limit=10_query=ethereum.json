@@ -25,14 +25,14 @@
       "description": "Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading."
     },
     {
-      "headline": "Ethereum staking fees vary widely, with providers taking 0-50% of rewards, impacting net yields significantly.",
+      "headline": "Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86.5%.",
       "source": "Pluang",
       "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGdjNnR5cEw2YlhwNTg1dEUyV1lHUEVTZG13LVJTb2pHUHpUSlNtU3dvTXMwZmhyS3ZOS1pfNXUtQ1NEOWZCR2Z0dXpmMzlFaWxGU21ZRVY0bmJ2WktJMTRuTDNreW5hVmh4dmpwR1FFTDdULWF6TTRMOXEwT19PUG9JY0p3dw?oc=5",
-      "pub_date": 1789239344.0,
-      "article_url": "https://pluang.com/en/news-feed/biaya-staking-ethereum-perbandingan-14-penyedia",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/74c509aa94ef58cc82312e492420d7f5faa7695ca33e718e4757ef02aa49b8cc-en.webp",
-      "description": "A survey of 14 Ethereum staking providers accessible in Germany reveals that only five clearly state their commission fees, which range from 0% to 50% depending on the reward component. The network's annual percentage rate (APR) was 2.46% on September 12, 2026, meaning commissions can significantly reduce investors' net returns. Providers often split fees between consensus layer rewards and execution layer tips (MEV), making comparisons complex. Many popular custodians like Kraken and Bitpanda do not disclose exact fees upfront, complicating transparency. Investors should verify commission rates in writing, consider waiting times in the staking queue, and understand tax implications before staking Ethereum."
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTZkU0dHYWc1Ym5VTVNGc0c4LUp1dVRwaG9JbkRDeFNUa3JLVTcyMXh5c0Q1NzROT1FFQ2RxYXNZNktNT2o4X1BzQmc1d09tVDYtLTRGcGJVbGpZcHJLamNHNjVXTGdVYWRfTGFKVG9lWHZwdkJPZW5TaEdZby1QZW5mbWRqT3BiXzkzOVRPWDlMWVpNWXJ5LUFkRjRuZm9BRy0tWEVBOA?oc=5",
+      "pub_date": 1789257926.0,
+      "article_url": "https://pluang.com/en/news-feed/bitcoin-ethereum-dan-xrp-tertekan-karena-peluang-kenaikan-suku-bunga-fed",
+      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/d06787296c43d50b9bb36b41b013b4c6bd11dcf301bf2f6ae16d85f81817789b-en.webp",
+      "description": "Bitcoin, Ethereum, and XRP are under pressure due to rising expectations of a Federal Reserve interest rate hike at the September 15-16 meeting, with an 86.5% chance of a 25 basis point increase. This would be the Fed's first rate hike in three years, potentially tightening financial conditions for risk assets like cryptocurrencies. Despite this, Bitcoin's outlook remains positive with potential for further gains after consolidation, Ethereum is testing key resistance levels, and XRP is more vulnerable but may recover if key support holds. Traders are closely watching the Fed decision as higher rates could dampen crypto momentum."
     },
     {
       "headline": "Bitcoin, Ethereum, and XRP face pressure as Fed rate hike odds jump to 86% ahead of Sept 16 meeting.",
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
-      "source": "Fortune",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
       "pub_date": 1788962400.0,
@@ -56,23 +56,13 @@
     },
     {
       "headline": "Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDBQZHNDa056MGFOVHpiWXBJWWlVN3RFWFRmNXU1MlRWSmJZNllrbVBKYzhrY1A0VE1RR0Z1R1BiWXU0Mk9kM1ZYUmlfakhCNmU5MXQtVVhHa3htdm51TUZGTmltRXdfTW5DdVhGMkhiNnVYOG5vM0VSSWZpUFNNYmRCN3dCOFpaR1VvbXlmVHBqUWdYRXVaNV9PQ2YyandLWWFCQy1aREt0UEIta1g5WDNhVXI?oc=5",
       "pub_date": 1789045200.0,
       "article_url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORFdnSlhnWVQ2N19jMlJqWG1aMkVnQ2VyWVgxejNVMnBIODVRRXBMNnlYQ2RRT2JJaWhzeTZwbkMxVzVVRjBiWGVHa3RiX2N5TEJNWmc1V2h2c0dCeXkyNk80Y1ZURXpkV3Z4WmlUYUNlc3hITFMtMGo0WUtSY0V6QjBQdTlYbGpOZ0paOG1QSXhiTHJvMUl3MW9VeVU5YTc1S29nV2ZVdU1oRjUyMVdQUXd6ZDctZEZEbDYzeTBkRC1PaGJ2MHNYcFhkWHB6YUtQOTItWGtTX3JmdkxQeUhtVXV0Yw?oc=5",
-      "pub_date": 1789139029.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum\u2019s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b\u2026"
     },
     {
       "headline": "New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000",
@@ -85,6 +75,16 @@
       "description": "DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number..."
     },
     {
+      "headline": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORFdnSlhnWVQ2N19jMlJqWG1aMkVnQ2VyWVgxejNVMnBIODVRRXBMNnlYQ2RRT2JJaWhzeTZwbkMxVzVVRjBiWGVHa3RiX2N5TEJNWmc1V2h2c0dCeXkyNk80Y1ZURXpkV3Z4WmlUYUNlc3hITFMtMGo0WUtSY0V6QjBQdTlYbGpOZ0paOG1QSXhiTHJvMUl3MW9VeVU5YTc1S29nV2ZVdU1oRjUyMVdQUXd6ZDctZEZEbDYzeTBkRC1PaGJ2MHNYcFhkWHB6YUtQOTItWGtTX3JmdkxQeUhtVXV0Yw?oc=5",
+      "pub_date": 1789139029.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:0e9f63849094b:0-ethereum-s-price-surges-past-2-600-for-first-time-in-8-months-outruns-bitcoin-xrp-solana/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum (ETH) surged on Friday morning, crossing $2,600 for the first time since January and leading the broader rebound in major cryptocurrencies.Ethereum\u2019s price jumped more than 8% in the last 24 hours to touch $2,660, according to Coinbase data. Bitmine Immersion Technologies (BMNR), chaired b\u2026"
+    },
+    {
       "headline": "Ethereum: Trader Seeks Reasons Against Token Buy",
       "source": "blockchain.news",
       "source_url": "https://blockchain.news",
@@ -95,16 +95,16 @@
       "description": "Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD."
     },
     {
-      "headline": "Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVN5cG1uUGxRUnZRSm1US3BWME9SZG9HVGNfbFRKRWExdjItMHBlcnkzUFR6SnU2SUVPQ0k2QllJaHlIbFlBWGdscEJVVzNYalpTcTNkcmh2U0ZTaVhJTk5McFUwdWYzVC1Ea1llTHNVUEY1NEExSVc2a3FRdzNPM09EX3hXRnF5RlRnQndwb0pOX2lLY1drS1dOSm4zM01ZQlpWUzEtZ2RJZmxiOHc?oc=5",
-      "pub_date": 1789134646.0,
-      "article_url": "https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-wall-street-pendulum-1.jpg",
-      "description": "A 10-year study found more than 50% of Bitcoin\u2019s daily variance now clusters around US trading hours, with the peak moving alongside New York\u2019s clock."
+      "headline": "Ethereum volatility spikes after Wintermute\u2019s $160M deposit \u2013 ETH rebound possible IF\u2026",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTM5dWctcG92VTVldVROdk9RMW83N2JldnM5UHZ6UTJ3WTJYM0NGWHFUek1CSG1KTDZ0Sm04eXR1Wk1xYUxXRERVQWtaOXBYWEFscXZqYXQ2V1RFcmxIZDdITVk1VFMxNmJUYWozcHlqZW1qaFdyczhjUXZOMXQwckFFTjc0LWNLV05SREs4QmpXcHFqZ1dxU0RHMGl1NzVyZzRPVVdiRQ?oc=5",
+      "pub_date": 1789257627.0,
+      "article_url": "https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/Gladys-39-e1789204513931.jpg",
+      "description": "Can 196 distributing whales overpower Ethereum\u2019s deepest exchange supply contraction since 2016?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T22:52:08.482541+00:00"
+  "fetched_at": "2026-09-13T00:39:06.755524+00:00"
 }

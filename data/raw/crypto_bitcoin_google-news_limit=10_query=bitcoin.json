@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRThhVDEycUF4VXdwR2MwaUNxWXZyQjA5QUt6VHhwMTFZUnpwYUducVduTmNmd3I4UWU5ZnVreXJQdnNIZ3lnZXc2SXJZTWJCVmFRWWxJQWFVdjJqaDEzdjZOSXR1MGczRDJKdXFjQVpSMHV4eFp1X213Mk5nNS1JSl82d0lHazhqclBSczdYaGxSb2VkRnRoRzY0bmRnc1NTcnd3R3dJczl1VVFEX1Uxcy1OeENUNzFnWFRRQXk4eHY?oc=5",
       "pub_date": 1789210202.0,
@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Ethereum ETFs Took In $216 Million on Friday. Bitcoin\u2019s Lost Money for a Fourth Day and XRP\u2019s Took Zero",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzd3MWRReEljQjZ5ZkcyektpUFBRVDloVEFaMWRGVV92N2VQbTBXbl9rekpyb1Z2d3YtRUI2SXFBQUVIQjhuN1U4WmVoYnlMQWhpUnJPNi1XT1dMb2FkekN2TnUxOFpsSENFenBIWHJWY0RaejE2emp1WlhNSFBFZzFOVzQxcEFDS2R2WWhGeFM5UGlhUmJmUjVIdw?oc=5",
-      "pub_date": 1789247500.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/892715dd7fd4a55820bfd11650927571f3354d0e04bec668f79dd688b34640dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Feb8a0ab8da91c974723d941899af96fb.jpg",
-      "description": "Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading."
-    },
-    {
       "headline": "Why Is Bitcoin Stuck Below $80,000?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,8 +35,18 @@
       "description": "Every time Bitcoin pushes past a key price ceiling, sellers materialize and swat it back down within days. Understanding who those sellers are and what it would take to finally silence them changes how you read the current stall."
     },
     {
+      "headline": "Revolut leak ties Bitcoin wallets to home addresses",
+      "source": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHdNUEhsdUZycWE5Uk5QeGlWeVlTVzFVanRVSFYyZDFqa2R4MTRtdEllTUR5clo2dFVsSDZRcl9rMlN5NFRudHRldDRhOHFUZFZHSWFqYl9nX3ZTSEFHQW42cnB3R2hjM291SmVhZ2Yza19tbGNGeEpxU2pYRllWZHlTUTZhU0pqRlE?oc=5",
+      "pub_date": 1789256361.0,
+      "article_url": "https://sg.finance.yahoo.com/news/revolut-leak-ties-bitcoin-wallets-233921466.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/77b5e2393313ec5e228006b823945265db29310d2efb38e6f5548acc08bb3012/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F75a534ebc1ed3d22cdd69c73a4074042.jpg",
+      "description": "Revolut exposes sensitive customer data to an unauthorized party."
+    },
+    {
       "headline": "\u2018Ferris Bueller Gone Bad\u2019: 22-Year-Old Pleads Guilty in Giant Bitcoin Heist",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kVG01U1NHR2tZMGhDX2lvQzdIT1piNjI3UHFNNlhUMEM3SWgtcHRjZHppTi1feDA4bFZ5VVRHV1dOY1RoNzdJVUkwanVfZXd2dzNUZ24taldfdGlvRGxpYWlZeC1RNFVBNnhzNnE4OXNmdmwzbzd1c0FNaVZ0ZUE?oc=5",
       "pub_date": 1788966981.0,
@@ -65,6 +65,16 @@
       "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
     },
     {
+      "headline": "Bitcoin billionaire Tim Draper\u2019s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle",
+      "source": "Business Insider Africa",
+      "source_url": "https://africa.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYS1jSnV5NG9zZHN3RkhNSU9WUlR2MjhqbkZjQ2tvQklZRUNPZlA3U00xbnBLal9EUzFLN0h5ZjhTdXhqX25kNFQ5Rmo0OHhDZVBMM2RnVzlQWWFjWnE3ZXZ0MHJNR05ZRDhHb0V3TkIxeXRmY0Ezb3BZQWdEM3gyRlhPRjNxY1VnNWlFLUF0NEU4b0tTaEhVOVRUeFM3S0pwQ3czdHk4RGNzZDRxMDVHcUVUNktQaGtZTFVvbk5hSUdCUXpfVmlkNnI1NjlnVmlUWGVmZHpfQ1hpZw?oc=5",
+      "pub_date": 1789229954.0,
+      "article_url": "https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d",
+      "image": "https://ocdn.eu/pulscms-transforms/1/89QktkpTURBXy83ZWYwNzIzMjkzOTgyZGM5YjM0NjQ1OGViZDM1NDNhZi5qcGeSlQMBAM0C4c0Bn5MFzQSwzQJ2",
+      "description": "American venture capitalist and bitcoin investor Tim Draper\u2019s plan to sell his luxury resort investment in Tanzania for $7"
+    },
+    {
       "headline": "Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -76,7 +86,7 @@
     },
     {
       "headline": "Bitcoin\u2019s White-Hat Hack Is Just Old-Fashioned Extortion",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2lHQ01aNTZUcjd2Ukh3dk1wSDhRcmFWVUx0ajhKUzBtUWR5RUhoUngteUE1OXM0MDdJNUtSbnNOMjBXQms2eW5hZDNZUHY3UDZOTmxET3JObW1Va3k5TC1sSW1SbUVnU1lpdm1vXzFlY0ZlNjFpMHpENlJ0MTQtQTJOOGk2eEtCYlk0MHdWTnN1UXdiT0VycXZZdGdmS2dFSndDaXV2SUNEV2J4?oc=5",
       "pub_date": 1789117202.0,
@@ -85,18 +95,8 @@
       "description": null
     },
     {
-      "headline": "Bitcoin billionaire Tim Draper\u2019s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle",
-      "source": "Business Insider Africa",
-      "source_url": "https://africa.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYS1jSnV5NG9zZHN3RkhNSU9WUlR2MjhqbkZjQ2tvQklZRUNPZlA3U00xbnBLal9EUzFLN0h5ZjhTdXhqX25kNFQ5Rmo0OHhDZVBMM2RnVzlQWWFjWnE3ZXZ0MHJNR05ZRDhHb0V3TkIxeXRmY0Ezb3BZQWdEM3gyRlhPRjNxY1VnNWlFLUF0NEU4b0tTaEhVOVRUeFM3S0pwQ3czdHk4RGNzZDRxMDVHcUVUNktQaGtZTFVvbk5hSUdCUXpfVmlkNnI1NjlnVmlUWGVmZHpfQ1hpZw?oc=5",
-      "pub_date": 1789229954.0,
-      "article_url": "https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d",
-      "image": "https://ocdn.eu/pulscms-transforms/1/89QktkpTURBXy83ZWYwNzIzMjkzOTgyZGM5YjM0NjQ1OGViZDM1NDNhZi5qcGeSlQMBAM0C4c0Bn5MFzQSwzQJ2",
-      "description": "American venture capitalist and bitcoin investor Tim Draper\u2019s plan to sell his luxury resort investment in Tanzania for $7"
-    },
-    {
       "headline": "22-year-old pleads guilty in $240 million bitcoin heist, one of the largest in US history",
-      "source": "cnn.com",
+      "source": "CNN",
       "source_url": "https://www.cnn.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdqWHdRM1QyTDNUTGRiQzY3U1lmRGJmTGJjb1JqMmtUNkZBa2lFcUdUZ1Vid1lNNjBIU050MHNMUEVPMXA0a252eWRRcEg1MnJkYlN0ZmhJb0xGTUVDRnhrMUQ0NzFJbDZCVG04VEdYQ19UNEV0cVh2N0FTdWZXZmVwaw?oc=5",
       "pub_date": 1789006440.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-12T22:52:09.259768+00:00"
+  "fetched_at": "2026-09-13T00:39:04.151556+00:00"
 }
