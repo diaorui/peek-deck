@@ -24,6 +24,28 @@
       "description": null
     },
     {
+      "title": "Daily Discussion, September 13, 2026",
+      "author": "rBitcoinMod",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf0ijh/daily_discussion_september_13_2026/",
+      "published": 1789282804.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
+    },
+    {
+      "title": "Lock in.",
+      "author": "1-gill",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/",
+      "published": 1789254787.0,
+      "thumbnail": "https://preview.redd.it/g64cxo2496ph1.jpeg?width=640&crop=smart&auto=webp&s=a5ac7d6ff63a203dddef5cc9dd1da1e9018ea8f5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "bitcoin shark knows the bottom already happened",
       "author": "desimus0019",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wedj9f/bitcoin_shark_knows_the_bottom_already_happened/",
@@ -46,26 +68,15 @@
       "description": "KYC is getting more dangerous by day. Once you'll have enough of this, have a look at BISQ, Robosats, HodlHodl, PeachBitcoin or Vexl instead."
     },
     {
-      "title": "Lock in.",
-      "author": "1-gill",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/",
-      "published": 1789254787.0,
-      "thumbnail": "https://preview.redd.it/g64cxo2496ph1.jpeg?width=640&crop=smart&auto=webp&s=a5ac7d6ff63a203dddef5cc9dd1da1e9018ea8f5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Daily Discussion, September 13, 2026",
-      "author": "rBitcoinMod",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf0ijh/daily_discussion_september_13_2026/",
-      "published": 1789282804.0,
+      "title": "Utxo management",
+      "author": "LittlePrince6987",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf6zcy/utxo_management/",
+      "published": 1789304198.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
+      "description": "I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?"
     },
     {
       "title": "case trezor safe 5 print 3D",
@@ -79,38 +90,27 @@
       "description": null
     },
     {
-      "title": "Clarity act fail",
-      "author": "Extreme_Exam7914",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf261u/clarity_act_fail/",
-      "published": 1789288608.0,
+      "title": "Same vendor multisig",
+      "author": "Intelligent_Map_246",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf43ma/same_vendor_multisig/",
+      "published": 1789295442.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Clarity act fail How big a pullback do we see if the clarity act doesn\u2019t get voted through ? 10% 20% ? Do you think that would be probably be the last big dip prior to the end of the bear market"
+      "description": "Can someone explain for example how insecure of would be to have 1 vendor that's compromised? I mean they would need the other keys plus the descriptor to. 2-3. Like they said remove the coldcard if you have one. Even with 2 corrupted wallets you would need the descriptor"
     },
     {
-      "title": "Canada just quietly said \"yeah tokenized deposits are just deposits\" and it's a bigger deal than it sounds",
-      "author": "bitNomad22",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wedsbb/canada_just_quietly_said_yeah_tokenized_deposits/",
-      "published": 1789222553.0,
-      "thumbnail": "https://preview.redd.it/g93w4el7l3ph1.jpeg?width=640&crop=smart&auto=webp&s=92146a32f321b3a096438255f38126a1db17c8d6",
+      "title": "Phising camapign on public knoww email",
+      "author": "AcostaJA",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wf9duq/phising_camapign_on_public_knoww_email/",
+      "published": 1789310165.0,
+      "thumbnail": "https://preview.redd.it/4mk2o0hmtaph1.png?width=140&height=108&auto=webp&s=a7e2e0404e63ae435972fc83c6e3faf7c4d2d656",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Canada's bank regulator (OSFI) just said tokenized deposits are \"not legally distinct\" from regular bank deposits. translation: banks have wanted to put deposits on-chain for a while now, tech's been ready. the thing actually holding it up was regulators just... never clearly saying what these things legally ARE. no clear answer = no bank touching it, too much legal risk. Canada just removed that excuse. same rules, no new framework, just \"this counts as a normal deposit, go ahead.\" this is the boring-sounding stuff that actually matters, this is a literal door opening for real banks to start building on-chain instead of just talking about it in press releases curious if US/EU regulators follow suit or if Canada's just built different rn."
-    },
-    {
-      "title": "I built a small BIP-39 checksum device for manually generated entropy",
-      "author": "nyenycproject",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wehrvl/i_built_a_small_bip39_checksum_device_for/",
-      "published": 1789232225.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The idea started from something that bothered me with hardware wallets and other similar devices, and it really sparked during the coldcard mishap (which shows that letting the hw generate the seed for you is not ideal for real cold storage). Dont get me wrong, I still really like the coldcard hw but the reality of things is that software bugs will always be present no matter what. Ledger and Trezor are no exceptions. Of course some hardware wallets allow you to provide your own entropy, for example using dice rolls. This is already much better than blindly trusting an internal rng, but imho there is still one part of the process you have to trust: you cannot usually verify, step by step, that the entropy bits you provided are actually being mapped to the correct BIP-39 words. You provide the entropy, and eventually the wallet shows you a mnemonic. But what happened in between? This device is meant to solve exactly this problem. I made a similar project before this one but the word-building process wasn't fully auditable, Redditors pointed out this problem, which I really appreciated. This device does not generate entropy. You generate it yourself using coin flips or dice rolls. The device only helps you convert that entropy into a BIP-39 mnemonic and calculate the checksum required for the final word. While entering the entropy, the 2x16 LCD shows the current 11-bit group being built. When the 11 bits are complete, it shows the decimal index and the corresponding BIP-39 word. For example, this is the 7th word while being built, with only 5 bits entered so far: +----------------+ |W07 11000______ | |A:H=0 B:T=1 | +----------------+ ...and this is the final result once all 11 bits have been entered: +----------------+ |W07 11000010110 | |1558 security | +----------------+ So you can independently check: 11000010110 -> 1558 -> security against any BIP-39 wordlist, even a wordlist as pdf or txt file on your computer, it doesn't have to be on paper. Indexes are 0-based !!! This happens for every word. The final word is the only special one because part of its 11 bits comes from the SHA-256 checksum. For a 24-word mnemonic, for example: +----------------+ |W24 101|01100110| |1382 <word> | +----------------+ The 101 bits come directly from your entropy, while the remaining 8 bits are the checksum calculated by the device. Unlike the previous project, this one currently supports 12, 18 and 24 word BIP-39 mnemonics, with three entropy input methods: direct coin flips, Von Neumann debiased coin flips, and dice rolls. Von Neumann allows to get statistically fair results from a biased coin (any real word coin is slightly biased of course). The goal is basically to have a very small device where you provide the randomness and you can audit the entropy-to-word conversion while it happens, instead of trusting a hardware wallet to do that part correctly behind the scenes. Project here: https://github.com/gianlucag/LastWord I would really appreciate any feedback, or simply whether you think this approach makes sense"
+      "description": "I received emails wich seems legit hardware wallet support, either asking to update, or addressing some alleged \"compliance\" issues, all these targeted my public known email linked to reddit (never use your public email for hardware wallet or exchange subscription or support) got similar emails from \"coinkite\" \"trezor\" \"Geyscale\" \"unstoppable\". DO NOT OPEN ANY LINKS NEITHER FOLLOW ANY PROCEDURE SUGGESTED BY THESE EMAIL"
     }
   ],
-  "fetched_at": "2026-09-13T11:13:01.555290+00:00"
+  "fetched_at": "2026-09-13T14:59:01.752954+00:00"
 }

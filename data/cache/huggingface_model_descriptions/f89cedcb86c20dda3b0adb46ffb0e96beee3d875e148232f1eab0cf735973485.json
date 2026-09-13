@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-13T14:59:38.936721+00:00",
+  "data": "YuE2-3B is a text-to-audio model capable of generating high-quality music with vocals and accompaniment from lyrics and style prompts. It features editable score generation, agentic editing for iterative refinement, and can run locally on a 24GB GPU.",
+  "model_id": "m-a-p/YuE2-3B"
+}
