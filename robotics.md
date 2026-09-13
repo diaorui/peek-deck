@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-13T18:04:53.172898+00:00'
+updated: '2026-09-13T21:02:25.039335+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 13, 2026 at 18:04 UTC  
+**Last Updated:** September 13, 2026 at 21:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T o
 
 I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
 
-21h ago
+1d ago
 
 ---
 
@@ -74,7 +74,7 @@ I have been trying to find a number and cannot, so I am asking people who might 
 
 Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
 
-1d ago
+2d ago
 
 ---
 
@@ -124,23 +124,29 @@ Bloomberg.com • 3d ago
 
 ---
 
+**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
+
+Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
+
+CNBC • 2d ago
+
+---
+
+**[Humanoid Robots And The Cyborg Future Of Human-Machine Integration](https://www.forbes.com/sites/chuckbrooks/2026/09/13/humanoid-robots-and-the-cyborg-future-of-human-machine-integration/)**
+
+Forbes • 1h ago
+
+---
+
 **[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
 
-Reuters • 2d ago
+reuters.com • 3d ago
 
 ---
 
-**[Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video](https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/)**
+**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
 
-Skild AI’s S1 robotic foundation model harnesses NVIDIA technologies spanning synthetic data generation, model training, simulation and real-world deployment.
-
-NVIDIA Blog • 3d ago
-
----
-
-**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
-
-Gizmodo • 1d ago
+Breaking Defense • 3d ago
 
 ---
 
@@ -152,9 +158,19 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
-**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
+**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
 
-Breaking Defense • 2d ago
+New tactile datasets could solve a longstanding challenge in robotics
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[How a Texas A&M professor’s 9/11 mission sparked a revolution in disaster robotics](https://www.kbtx.com/2026/09/12/how-texas-am-professors-911-mission-sparked-revolution-disaster-robotics/)**
+
+Pioneer in disaster robotics Dr. Robin Murphy reflects on deploying experimental robots at ground zero after the Sept. 11 attacks.
+
+KBTX News 3 • 1d ago
 
 ---
 
@@ -163,22 +179,6 @@ Breaking Defense • 2d ago
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
 TechCrunch • 3d ago
-
----
-
-**[Robots Are Learning to Feel](https://spectrum.ieee.org/tactile-data-robots)**
-
-New tactile datasets could solve a longstanding challenge in robotics
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
-
-MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
-
-The Japan Times • 2d ago
 
 ---
 
@@ -202,7 +202,27 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 1.1M • 👍 11K • 💬 2K • ⏱️ 5:02 • 4d ago
+👁️ 1.2M • 👍 11K • 💬 2K • ⏱️ 5:02 • 4d ago
+
+---
+
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
+
+The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
+
+📺 States 2050
+
+👁️ 673K • 👍 10K • 💬 533 • ⏱️ 23:25 • 5d ago
+
+---
+
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 68K • 👍 280 • 💬 66 • ⏱️ 3:39 • 4d ago
 
 ---
 
@@ -216,23 +236,13 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 ---
 
-**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
+**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
 
-Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
+In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
 
-📺 Expand Knowledge
+📺 Gain Theory
 
-👁️ 76K • 👍 819 • 💬 75 • ⏱️ 26:26 • 3d ago
-
----
-
-**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
-
-The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
-
-📺 States 2050
-
-👁️ 670K • 👍 10K • 💬 532 • ⏱️ 23:25 • 5d ago
+👁️ 97K • 👍 941 • 💬 43 • ⏱️ 21:36 • 4d ago
 
 ---
 
@@ -242,27 +252,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 60K • 👍 2K • 💬 494 • ⏱️ 13:22 • 2d ago
-
----
-
-**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
-
-Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
-
-📺 Sky News
-
-👁️ 35K • 👍 201 • 💬 145 • ⏱️ 6:28 • 5d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 67K • 👍 274 • 💬 63 • ⏱️ 3:39 • 4d ago
+👁️ 62K • 👍 2K • 💬 513 • ⏱️ 13:22 • 2d ago
 
 ---
 
@@ -272,17 +262,27 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 418K • 👍 4K • 💬 334 • ⏱️ 5:52 • 4d ago
+👁️ 422K • 👍 4K • 💬 334 • ⏱️ 5:52 • 4d ago
 
 ---
 
-**[We Weren&#39;t Ready for *ROBOT CHICKEN* Watching the Star Wars Special for the First Time!](https://www.youtube.com/watch?v=w1iILg6nqRA)**
+**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
 
-EARLY ACCESS AND FULL LENGTH REACTIONS: https://www.patreon.com/doscavazos For Business Inquiries: ...
+Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
 
-📺 Dos Cavazos
+📺 NBC News
 
-👁️ 118K • 👍 3K • 💬 379 • ⏱️ 17:55 • 4d ago
+👁️ 610K • 👍 3K • 💬 1K • ⏱️ 2:28 • 1d ago
+
+---
+
+**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
+
+Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
+
+📺 Sky News
+
+👁️ 36K • 👍 202 • 💬 145 • ⏱️ 6:28 • 5d ago
 
 ---
 
