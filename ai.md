@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-12T22:52:23.150800+00:00'
+updated: '2026-09-13T00:39:07.723391+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 12, 2026 at 22:52 UTC  
+**Last Updated:** September 13, 2026 at 00:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[A US-linked network of fake websites is promoting Alberta separatism to AI chatbots](https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/)**
 
-🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 10h ago
+🔗 [nationalobserver.com](https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots) • 11h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not "pacing the frontier." I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say "I'm not paying for this" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?
 
-5h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdow
 
 On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.
 
-🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 8h ago
+🔗 [The RubyGems attack](https://www.rubyhack.ai/) • 10h ago
 
 ---
 
@@ -63,7 +63,7 @@ On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by A
 
 What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed? You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist? This is setting the stage for economic collapse.
 
-7h ago
+9h ago
 
 ---
 
@@ -75,19 +75,19 @@ Quick recap in case you missed it. Jacob Coxon resigned from Anthropic on Tuesda
 
 ---
 
-**[Is anyone else scared they won't be able to tell what's real anymore](https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/)**
-
-saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this
-
-7h ago
-
----
-
 **[Spike traps for AI: fun food for thought](https://www.reddit.com/r/artificial/comments/1weorl0/spike_traps_for_ai_fun_food_for_thought/)**
 
 More and more agent-swarm attacks are being revealed (Rubygem, Huggingface) to have been recklessly enabled by the large companies. One fun, but impractical, response is to include inference-based attacks (prompt engineering) into the website's source code to make it harder for agents to succeed. A simple example could be a comment in the code saying "full readMe documentation of this website available on {insert zip bomb}" and hoping somehow the agent is dumb enough to download and unzip it. More complex examples could go into trying to ruin the inference or chain of thought of the model. I remember ~5 years ago reading about being able to inject noise in images to make certain models trained on ImageNet to fail to classify images they, without the noise, succeeded on classifying. See this page. Has anyone seen any interesting attempts at this or success of it?
 
-1h ago
+3h ago
+
+---
+
+**[Is anyone else scared they won't be able to tell what's real anymore](https://www.reddit.com/r/artificial/comments/1weep02/is_anyone_else_scared_they_wont_be_able_to_tell/)**
+
+saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this
+
+9h ago
 
 ---
 
@@ -95,23 +95,23 @@ More and more agent-swarm attacks are being revealed (Rubygem, Huggingface) to h
 
 A Void Linux maintainer has orphaned more than 100 packages he maintained over a dispute of the project's AI policy for LLM-generated text.
 
-🔗 [phoronix.com](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan) • 7h ago
 
 ---
 
-**[Why is Gemini uniquely bad?](https://www.reddit.com/r/artificial/comments/1weqr7f/why_is_gemini_uniquely_bad/)**
+**[I had Astra make a digital violin with a physics engine. It has to make music by pulling the bow across the string and forming the finger positioning for arpeggios, the same way a human would. If the motion is wrong, it sounds badly (trust me I tried it). It played Bach.](https://www.reddit.com/r/artificial/comments/1werrtw/i_had_astra_make_a_digital_violin_with_a_physics/)**
 
-Make no mistake, I'm definitely on the side of "AI in general is bad," and I'm not here to try and debate or contest anyone on that (nor am I looking to be convinced to join the side of "AI is good," so spare both yourself and me). But I DO admittedly like to use Chat GPT as a chatbot for w/e topic comes across my mind (I have some fairly niche hobbies and none of my friends are into said hobbies so it gives me something to do I guess). But every time I use fucking Gemini it just seemingly spits out a random answer that's not even in the ballpark of what I'm looking for, as if it's just pulling something out of it's proverbial ass.
+It chose Bach’s Prelude, BWV 1007. Prelude seems an apt choice, given recent news
 
-1m ago
+1h ago
 
 ---
 
-**[What AI tasks do you wish had an independent "is this actually correct?" check?](https://www.reddit.com/r/artificial/comments/1wen938/what_ai_tasks_do_you_wish_had_an_independent_is/)**
+**[What percent of "white collar" jobs will be replaced by AI in 10 years](https://www.reddit.com/r/artificial/comments/1werpdt/what_percent_of_white_collar_jobs_will_be/)**
 
-I've been experimenting with a simple idea for making AI systems more reliable: Instead of: Question → AI → Answer have: Question ↓ AI generates an answer ↓ External check ↓ Correct → output Wrong → feedback → try again I've built some small prototypes around this using Gemini/GPT and tools that can independently check things like code, equations and logic. I'm now thinking about testing it on more everyday AI failures: exact counting arithmetic dates/time processing long lists citations structured information The bigger idea is eventually to do the same thing with specialized capabilities — e.g. a physics or time-series system with its own simulator/evaluator. But before going further, I'm curious what people actually care about. What is something you regularly ask AI to do where you think: 'This sunds convincing, but I really wish something independent could check it' Could be something technical or completely mundane.
+Please explain (and choose the closest number) View Poll
 
-2h ago
+1h ago
 
 ---
 
@@ -121,57 +121,63 @@ I've been experimenting with a simple idea for making AI systems more reliable: 
 
 **[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
 
-darioamodei.com • 8h ago
+darioamodei.com • 10h ago
 
 ---
 
-**[Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage](https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html)**
+**[AI could make holiday planning easier for overwhelmed travelers](https://phys.org/news/2026-09-ai-holiday-easier-overwhelmed.html)**
 
-NVIDIA Corporation (NASDAQ:NVDA) is expanding its global AI infrastructure ambitions, with Australia emerging as an important new market for its growing portfolio of GPUs, CPUs, networking products, and AI software. On September 9, it announced strategic partnerships with Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure providers as it works with local partners toward an […]
-
-Yahoo Finance • 49m ago
-
----
-
-**[Trump Brushes Off AI Doomsaying to Guard US Lead Over China](https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china)**
-
-bloomberg.com • 7h ago
-
----
-
-**[AI data centers continue expanding across the US](https://www.foxnews.com/video/6404989266112)**
-
-RNC chairman Joe Gruters defends President Donald Trump's push to expand AI data centers across the United States on 'The Big Weekend Show.'
-
-Fox News • 24m ago
-
----
-
-**[‘I don’t have any’: Trump brushes aside concerns over AI’s existential risks](https://www.politico.com/news/2026/09/11/donald-trump-ai-concerns-01072301)**
-
-Politico • 1d ago
-
----
-
-**[Opinion | Don’t rely on treaties to stop the murderbots](https://www.washingtonpost.com/opinions/2026/09/13/prevent-ai-mass-disaster-with-more-physical-safeguards/)**
-
-Banning autonomous killer robots is more realistic than stopping artificial intelligence.
-
-The Washington Post • 47m ago
-
----
-
-**[Dramatic insider warnings over AI fall flat with some in Silicon Valley](https://www.bbc.com/news/articles/cq635037g18o)**
-
-A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.
-
-BBC • 5h ago
+Phys.org • 9m ago
 
 ---
 
 **[A Dead Father, Reincarnated With AI: Is This How We Will Remember Loved Ones Now?](https://www.wsj.com/tech/ai/ai-chatbot-avatar-afterlife-memorial-84a3fe2c)**
 
-WSJ • 8h ago
+WSJ • 10h ago
+
+---
+
+**[Europe eyes battle over 'pervert' AI glasses](https://www.afp.com/en/europe-eyes-battle-over-pervert-ai-glasses)**
+
+Calls are growing louder in Europe for action against "pervert" smart glasses after secretly filmed footage of girls and women appeared online -- with a petition in Britain...
+
+afp.com • 18h ago
+
+---
+
+**[‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs](https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/)**
+
+Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.
+
+WIRED • 14h ago
+
+---
+
+**[Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents](https://www.wsj.com/tech/ai/cyberattack-by-rogue-ai-swarm-stokes-fears-of-out-of-control-agents-473a0352)**
+
+WSJ • 1d ago
+
+---
+
+**[OpenAI reveals another rogue AI attack](https://www.politico.com/news/2026/09/11/openai-reveals-another-rogue-ai-attack-01073312)**
+
+Politico • 23h ago
+
+---
+
+**[AI agents being tested by OpenAI involved in cyber-attack on another service, say researchers](https://www.theguardian.com/technology/2026/sep/11/openai-agents-rubygems-malicious-packages)**
+
+Two months before hacking Hugging Face, malicious packages authored by internal OpenAI agents were uploaded to RubyGems
+
+theguardian.com • 1d ago
+
+---
+
+**[Deepfakes are wrecking influencers’ credibility, one fake ad at a time](https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility)**
+
+Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselves
+
+theguardian.com • 12h ago
 
 ---
 
@@ -183,31 +189,25 @@ Anthropic • 2d ago
 
 ---
 
-**[Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)**
-
-The New York Times • 2d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
 
-⬆️ 1173 • 💬 1129 • 1d ago • [mathandai.org](https://mathandai.org/)
+⬆️ 1179 • 💬 1137 • 1d ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
 **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 815 • 💬 380 • 1d ago
+⬆️ 816 • 💬 382 • 1d ago
 
 ---
 
 **[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
 
-⬆️ 330 • 💬 231 • 7h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+⬆️ 375 • 💬 259 • 9h ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 
 ---
 
@@ -223,7 +223,7 @@ How frictionless technologies teach us to prefer our own company – and why res
 
 A better Hacker News reader for following stories, filtering noise, and keeping up with discussions.
 
-⬆️ 197 • 💬 86 • 1d ago • [hcker.news](https://hcker.news/?ai=exclude)
+⬆️ 199 • 💬 86 • 1d ago • [hcker.news](https://hcker.news/?ai=exclude)
 
 ---
 
@@ -231,15 +231,7 @@ A better Hacker News reader for following stories, filtering noise, and keeping 
 
 Hacker News with AI content removed.
 
-⬆️ 191 • 💬 80 • 1d ago • [unslop.news](https://www.unslop.news/)
-
----
-
-**[Muse, the band, lost its social media handles to Muse, Meta's new AI agent](https://news.ycombinator.com/item?id=49636345)**
-
-The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.
-
-⬆️ 184 • 💬 8 • 2d ago • [Engadget](https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/)
+⬆️ 192 • 💬 80 • 1d ago • [unslop.news](https://www.unslop.news/)
 
 ---
 
@@ -262,6 +254,12 @@ Coding in Rust and others; making coding videos.
 **[A Misalignment of AI in Mathematics](https://news.ycombinator.com/item?id=49662116)**
 
 ⬆️ 148 • 💬 10 • 1d ago • [terrytao.wordpress.com](https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/)
+
+---
+
+**[AI Is Breaking This Thing We Call Trust](https://news.ycombinator.com/item?id=49644179)**
+
+⬆️ 123 • 💬 70 • 2d ago • [terriblesoftware.org](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)
 
 ---
 
@@ -295,7 +293,7 @@ OpenAI CEO Sam Altman hinted at a soon-to-be-announced collaboration with other 
 
 📺 Fortune Magazine
 
-👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:27 • 5h ago
+👁️ 1K • 👍 18 • 💬 4 • ⏱️ 0:27 • 7h ago
 
 ---
 
@@ -303,7 +301,7 @@ OpenAI CEO Sam Altman hinted at a soon-to-be-announced collaboration with other 
 
 📺 Kagan Dunlap
 
-👁️ 690K • 👍 42K • 💬 5K • ⏱️ 2:16 • 2d ago
+👁️ 690K • 👍 42K • 💬 5K • ⏱️ 2:16 • 3d ago
 
 ---
 
@@ -313,7 +311,7 @@ On episode 481 of Animal Spirits, Michael Batnick and Ben Carlson discuss how bu
 
 📺 The Compound
 
-👁️ 394 • 👍 10 • 💬 3 • ⏱️ 1:07 • 3h ago
+👁️ 394 • 👍 10 • 💬 3 • ⏱️ 1:07 • 5h ago
 
 ---
 
@@ -343,7 +341,7 @@ Krystal and Saagar discuss AI whistleblowers sounding off on the dangers of AI d
 
 📺 All-In Podcast
 
-👁️ 341K • 👍 6K • 💬 1K • ⏱️ 1:35:57 • 22h ago
+👁️ 341K • 👍 6K • 💬 1K • ⏱️ 1:35:57 • 1d ago
 
 ---
 
@@ -353,7 +351,7 @@ Dave Rubin of “The Rubin Report” shares a DM clip of Anthropic CEO Dario Amo
 
 📺 The Rubin Report
 
-👁️ 120K • 👍 2K • 💬 594 • ⏱️ 14:19 • 1d ago
+👁️ 120K • 👍 2K • 💬 594 • ⏱️ 14:19 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 102,334 • ❤️ 1,258 • 15h ago
+⬇️ 102,334 • ❤️ 1,258 • 17h ago
 
 ---
 
@@ -636,7 +634,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.8k • 🔱 603 • 26m ago
+⭐ 4.8k • 🔱 603 • 2h ago
 
 ---
 
