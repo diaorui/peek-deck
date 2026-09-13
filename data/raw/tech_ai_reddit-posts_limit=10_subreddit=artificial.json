@@ -57,17 +57,6 @@
       "description": "If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not \"pacing the frontier.\" I've seen two common reasons for why they are coming out calling for this. A. Genuine concern for safety. B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China. These are probably all possible but I have some theories as well: A. It is getting more and more unaffordable to pay for these powerful models in the data centers and the revenue these companies are getting from subscriptions aren't enough (I mean openai pro new subs being paused kinda points to this) B. Kinda similar to A but basically that these companies are having trouble meeting the demand. C. These companies are worried that the better AI gets the more they'll have to raise costs on the consumer side and too many people will finally say \"I'm not paying for this\" we already have people quitting chatgpt subscriptions due to Astra usage limits. What do you guys think are the reasons?"
     },
     {
-      "title": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
-      "author": "PerAsperaAdMars",
-      "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
-      "published": 1789217471.0,
-      "thumbnail": "https://external-preview.redd.it/Aysmxc6YIZB5iKfMQ5hE255gUoKb6tUz_mqeQdNuy7s.jpeg?width=640&crop=smart&auto=webp&s=b4b0bb206a41ae0b930dedfdbd96b56fad019a21",
-      "external_url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
-      "site_name": "nationalobserver.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "I had Astra make a digital violin with a physics engine. It has to make music by pulling the bow across the string and forming the finger positioning for arpeggios, the same way a human would. If the motion is wrong, it sounds badly (trust me I tried it). It played Bach.",
       "author": "Short-Patient7772",
       "url": "https://www.reddit.com/r/artificial/comments/1werrtw/i_had_astra_make_a_digital_violin_with_a_physics/",
@@ -90,6 +79,17 @@
       "description": "So recently I watched the speech by Genspark CEO at AGI Playground 2026, and one point has been stuck in my head. Models are probably going to become commodities. There are already too many of them, they\u2019re getting closer in capability, and the cost keeps dropping. And honestly, as a normal user, I really don\u2019t want to think about whether this particular task should go to Claude, GPT, Gemini, or whatever model drops next week. I just want the work done. Which made me think the more interesting battle might actually be happening one layer above the models: who has your context? Like your emails, decks, docs, spreadsheets, meetings, research, previous projects, the way you work, the decisions you made months ago. Right now all of that is scattered across 20 different apps. So every time I open a new AI tool, I basically have to introduce myself again. But imagine most of that gradually living inside one AI workspace. The more work it does with you, the more context it accumulates. And the more context it has, the less explaining you have to do next time. That feels like a much stronger flywheel than simply having access to the \u201cbest\u201d model. Maybe the real endgame of the all-in-one AI workspace isn\u2019t all your tools in one place. It\u2019s all your context in one place. Just like Genspark. Maybe a lot of people realized this way before I did, and I\u2019m just catching up. Is it just me, or does this seem like where the real AI competition is heading? Curious what you guys think. No judgment please :)"
     },
     {
+      "title": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
+      "author": "PerAsperaAdMars",
+      "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
+      "published": 1789217471.0,
+      "thumbnail": "https://external-preview.redd.it/Aysmxc6YIZB5iKfMQ5hE255gUoKb6tUz_mqeQdNuy7s.jpeg?width=640&crop=smart&auto=webp&s=b4b0bb206a41ae0b930dedfdbd96b56fad019a21",
+      "external_url": "https://www.nationalobserver.com/2026/09/04/investigations/network-fake-websites-alberta-separatism-ai-chatbots",
+      "site_name": "nationalobserver.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "What is the BEST Gemini alternative?",
       "author": "TheLunarixx",
       "url": "https://www.reddit.com/r/artificial/comments/1wf30oo/what_is_the_best_gemini_alternative/",
@@ -101,16 +101,16 @@
       "description": "I have been using Google Gemini for a long time because it offers the most features in its free tier. In the free tier, there is an unlimited file upload limit, and etc. However, with the last update, Flash and Flash-Lite models have become literally stupid. Even the Pro model is shitty. And after using this stupid Pro model a few times, which is just slightly more smart from the Flash model, it says the limit is over and restricts me to Flash-Lite for 1-2 hours. I'm really sick and tired of this. I think Claude is the smartest, but its free plan is very limited, it expires very quickly and always restricts to Sonnet and Haiku. What is the smartest alternative of Gemini that offers the most free features?"
     },
     {
-      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
-      "author": "rowrowrobot",
-      "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
-      "published": 1789221371.0,
-      "thumbnail": "https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&crop=smart&auto=webp&s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2",
-      "external_url": "https://www.rubyhack.ai/",
-      "site_name": "The RubyGems attack",
-      "favicon": "https://www.rubyhack.ai/apple-touch-icon.png",
-      "description": "On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident."
+      "title": "ai governance and esg platform reviews reddit",
+      "author": "Ok_Surround_4749",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf6va5/ai_governance_and_esg_platform_reviews_reddit/",
+      "published": 1789303888.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Our company is expanding its sustainability reporting while simultanously deploying enterprise AI initiatives, and leadership wants a unified software strategy to handle both ESG/carbon accounting and AI compliance. Are there platforms that genuinely handle both, or are companies stuck running separate silos for ESG and AI governance?"
     }
   ],
-  "fetched_at": "2026-09-13T11:13:00.700067+00:00"
+  "fetched_at": "2026-09-13T14:58:56.610171+00:00"
 }
