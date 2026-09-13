@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-13T18:04:53.163453+00:00'
+updated: '2026-09-13T21:02:25.033018+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 18:04 UTC  
+**Last Updated:** September 13, 2026 at 21:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -2.3%  
+**24h:** +0.1%  
+**7d:** -2.2%  
 **30d:** +22.6%  
-**90d:** +17.7%  
+**90d:** +17.8%  
 **1y:** -33.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1552.59B
+**Market Cap:** $1552.73B
 Rank #1
 
-**Circulating Supply:** 20,083,837 BTC
+**Circulating Supply:** 20,083,928 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -38.7%
 
 **All-Time Low:** $67.81
-+113902.4%
++113912.7%
 
 ---
 
@@ -77,9 +77,39 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Even without the order I don't think so..](https://www.reddit.com/r/Bitcoin/comments/1wf27c2/even_without_the_order_i_dont_think_so/)**
+
+12h ago
+
+---
+
+**[It literally looks like Fiat is the ocean and Bitcoin the buoys.](https://www.reddit.com/r/Bitcoin/comments/1wfirfb/it_literally_looks_like_fiat_is_the_ocean_and/)**
+
+The debt line is almost a patient slope. The bitcoin line is a weather report: the 2018 winter, the 2021 peak, the 2022 cut, the long rise into 2025, the fall from the October high near $126,000, the recovery toward seventy-seven thousand by this Sunday.
+
+34m ago
+
+---
+
 **[Bitcoin Renaissance](https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/)**
 
-8h ago
+11h ago
+
+---
+
+**[Mistake I keep seeing with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wfbvns/mistake_i_keep_seeing_with_bitcoin/)**
+
+Lots of new people buy the dip then sell the moment it ticks down again. They treat every small move like it means the end is near. Bitcoin rewards patience more than timing. I learned that the hard way a few cycles ago. Stick to what you understand about the network and ignore the noise.
+
+4h ago
+
+---
+
+**[what should i buy next ?](https://www.reddit.com/r/Bitcoin/comments/1wfipq4/what_should_i_buy_next/)**
+
+I currently have a basic Trezor and a basic Ledger, and I have two separate Bitcoin wallets with two metal seed backups. I keep them well hidden, and I also have two fake seed plates stored in a safe at home as decoys. I’m worried about something happening to one of my hardware wallets, similar to what happened with Coldcard, so I’m thinking about splitting my Bitcoin holdings across four separate wallets instead of two. What hardware wallets would you recommend I buy next? I don’t want a hardware wallet with a battery because I’m a long-term Bitcoin-only holder and I barely use the wallets. They’re mainly backups, so I don’t see a need for a battery. It’s also quite difficult to buy hardware wallets in my country, so i will let my mom buy then when she travel direct from a website. What would you recommend as my next step
+
+36m ago
 
 ---
 
@@ -89,31 +119,25 @@ Rank #1
 
 ---
 
+**[Buying Without Exchange?](https://www.reddit.com/r/Bitcoin/comments/1wfcwql/buying_without_exchange/)**
+
+I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m assuming that this transaction bypasses the need for exchanges like Crypto.com, which in turn, allows me to purchase Bitcoin for a bit cheaper, since there is no spread. Does anyone else do this?
+
+4h ago
+
+---
+
 **[Daily Discussion, September 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1wf0ijh/daily_discussion_september_13_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+14h ago
 
 ---
 
 **[Lock in.](https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/)**
 
-18h ago
-
----
-
-**[bitcoin shark knows the bottom already happened](https://www.reddit.com/r/Bitcoin/comments/1wedj9f/bitcoin_shark_knows_the_bottom_already_happened/)**
-
-1d ago
-
----
-
-**[Bitcoin activity, passports exposed after Revolut falls for fake government request](https://www.reddit.com/r/Bitcoin/comments/1wejz8c/bitcoin_activity_passports_exposed_after_revolut/)**
-
-KYC is getting more dangerous by day. Once you'll have enough of this, have a look at BISQ, Robosats, HodlHodl, PeachBitcoin or Vexl instead.
-
-🔗 [coindesk.com](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request) • 23h ago
+21h ago
 
 ---
 
@@ -121,29 +145,7 @@ KYC is getting more dangerous by day. Once you'll have enough of this, have a lo
 
 I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
 
-5h ago
-
----
-
-**[case trezor safe 5 print 3D](https://www.reddit.com/r/Bitcoin/comments/1wet2e0/case_trezor_safe_5_print_3d/)**
-
-17h ago
-
----
-
-**[Same vendor multisig](https://www.reddit.com/r/Bitcoin/comments/1wf43ma/same_vendor_multisig/)**
-
-Can someone explain for example how insecure of would be to have 1 vendor that's compromised? I mean they would need the other keys plus the descriptor to. 2-3. Like they said remove the coldcard if you have one. Even with 2 corrupted wallets you would need the descriptor
-
-7h ago
-
----
-
-**[Phising camapign on public knoww email](https://www.reddit.com/r/Bitcoin/comments/1wf9duq/phising_camapign_on_public_knoww_email/)**
-
-I received emails wich seems legit hardware wallet support, either asking to update, or addressing some alleged "compliance" issues, all these targeted my public known email linked to reddit (never use your public email for hardware wallet or exchange subscription or support) got similar emails from "coinkite" "trezor" "Geyscale" "unstoppable". DO NOT OPEN ANY LINKS NEITHER FOLLOW ANY PROCEDURE SUGGESTED BY THESE EMAIL
-
-3h ago
+8h ago
 
 ---
 
@@ -163,11 +165,11 @@ Forbes • 1d ago
 
 ---
 
-**[Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market](https://finance.yahoo.com/markets/crypto/articles/analysts-think-bitcoin-less-5-170511162.html)**
+**[MicroStrategy's Bitcoin Guide Issues a 93% Crash Warning to Investors](https://finance.yahoo.com/markets/crypto/articles/microstrategys-bitcoin-guide-issues-93-101501318.html)**
 
-Bitcoin sits $4,900 below a bull market confirmation as whales sell the rally and US funds stay out. Everything you need to know.
+MicroStrategy's Bitcoin guide warns of a 93% crash. Strategy sits just 2% above its own cost on 845,050 BTC.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -181,7 +183,7 @@ CNBC • 2d ago
 
 **[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
 
-Reuters • 2d ago
+reuters.com • 2d ago
 
 ---
 
@@ -189,15 +191,7 @@ Reuters • 2d ago
 
 American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
 
-Business Insider Africa • 1d ago
-
----
-
-**[Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’](https://www.tradingview.com/news/stocktwits:df3732b61094b:0-jordi-visser-puts-bitcoin-in-the-same-bucket-as-spacex-anthropic-and-openai-says-none-of-them-make-money/)**
-
-Veteran macro investor Jordi Visser said Bitcoin (BTC) is in the same bucket as SpaceX (SPCX), Anthropic (ANTHZZX), and OpenAI (OPEAZZX)—four assets he estimated are worth around $8 trillion combined, none of which turn profits at the moment.In an interview with Anthony Pompliano published on Satur…
-
-TradingView • 6h ago
+africa.businessinsider.com • 1d ago
 
 ---
 
@@ -205,7 +199,15 @@ TradingView • 6h ago
 
 Hot inflation data, a looming Fed decision, and four straight days of ETF outflows are hitting Bitcoin from three directions at once, and the next 72 hours could determine whether the floor holds or breaks.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’](https://www.tradingview.com/news/stocktwits:df3732b61094b:0-jordi-visser-puts-bitcoin-in-the-same-bucket-as-spacex-anthropic-and-openai-says-none-of-them-make-money/)**
+
+Veteran macro investor Jordi Visser said Bitcoin (BTC) is in the same bucket as SpaceX (SPCX), Anthropic (ANTHZZX), and OpenAI (OPEAZZX)—four assets he estimated are worth around $8 trillion combined, none of which turn profits at the moment.In an interview with Anthony Pompliano published on Satur…
+
+tradingview.com • 9h ago
 
 ---
 
@@ -219,7 +221,7 @@ Bloomberg.com • 2d ago
 
 Bitcoin has the support of both the White House and Wall Street, making it a less risky play than other cryptocurrencies.
 
-fool.com • 6h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -255,15 +257,7 @@ Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des 
 
 Read this crypto post from greatHydra_997 posted on 2026/09/07 on CoinMarketCap’s Community message board. See user comments and interaction, plus replies from greatHydra_997 as they discuss up-to-date cryptocurrency topics.
 
-⬆️ 5 • 💬 1 • 5d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
-
----
-
-**[The first AI-run ransomware attack copied its Bitcoin address out of a tutorial](https://news.ycombinator.com/item?id=49589728)**
-
-The thing that gets me isn’t that it worked. It’s that it worked while being this dumb.
-
-⬆️ 5 • 💬 0 • 6d ago • [Medium](https://medium.com/@thenewgencoder/the-first-fully-ai-run-ransomware-attack-copied-its-bitcoin-address-out-of-a-tutorial-a630ee3224dc)
+⬆️ 5 • 💬 1 • 6d ago • [coinmarketcap.com](https://coinmarketcap.com/community/post/379112837/)
 
 ---
 
@@ -271,7 +265,7 @@ The thing that gets me isn’t that it worked. It’s that it worked while being
 
 Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed
 
-⬆️ 4 • 💬 1 • 5d ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
+⬆️ 4 • 💬 1 • 6d ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
 
 ---
 
@@ -305,19 +299,17 @@ analyses a descriptor.
 
 ---
 
+**[Revolut handed over personal details to fake government request](https://news.ycombinator.com/item?id=49676088)**
+
+Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.
+
+⬆️ 2 • 💬 0 • 1d ago • [The Crypto Times](https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
-
-**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
-
-Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 2K • 💬 349 • ⏱️ 39:00 • 19h ago
-
----
 
 **[CRYPTO CLASH: Senate prepares key test vote on landmark cryptocurrency bill](https://www.youtube.com/watch?v=qIzQmMXOmAY)**
 
@@ -325,37 +317,17 @@ Fox News chief congressional correspondent Chad Pergram reports as the Senate pr
 
 📺 Fox News Clips
 
-👁️ 9K • 👍 346 • 💬 191 • ⏱️ 2:15 • 6h ago
+👁️ 32K • 👍 456 • 💬 227 • ⏱️ 2:15 • 9h ago
 
 ---
 
-**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
+**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 114K • 👍 3K • 💬 99 • ⏱️ 53:38 • 1d ago
-
----
-
-**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
-
-Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
+Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 2K • 💬 299 • ⏱️ 11:37 • 1d ago
-
----
-
-**[I Made A Huge Mistake Investing In Bitcoin](https://www.youtube.com/watch?v=Jh91F5qCswQ)**
-
-This is the crazy story of what happened to me investing from 2024-2026. My story of bitcoin and why consistency is key. Open ...
-
-📺 IanOnYouTube
-
-👁️ 37K • 👍 2K • 💬 592 • ⏱️ 15:21 • 18h ago
+👁️ 70K • 👍 2K • 💬 355 • ⏱️ 39:00 • 22h ago
 
 ---
 
@@ -365,7 +337,7 @@ Bitcoin's 50-day moving average just crossed its 200-day for the first time sinc
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 406 • 💬 23 • ⏱️ 43:02 • 23h ago
+👁️ 22K • 👍 414 • 💬 24 • ⏱️ 43:02 • 1d ago
 
 ---
 
@@ -375,27 +347,57 @@ In this special Sunday edition, Gareth Soloway breaks down the Federal Reserve m
 
 📺 Gareth Soloway
 
-👁️ 27K • 👍 4K • 💬 427 • ⏱️ 17:21 • 4h ago
+👁️ 90K • 👍 5K • 💬 556 • ⏱️ 17:21 • 7h ago
 
 ---
 
-**[Bitcoin&#39;s Mythical Supercycle Is Finally Starting](https://www.youtube.com/watch?v=KBWfKENxs1U)**
+**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
 
-When will Bitcoin hit $1m? Access the new free Bitcoin retirement calculator with 5 of the top Bitcoin forecast models built in ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Mark Moss
+📺 Anthony Pompliano
 
-👁️ 129K • 👍 2K • 💬 400 • ⏱️ 45:54 • 2d ago
+👁️ 116K • 👍 3K • 💬 98 • ⏱️ 53:38 • 1d ago
 
 ---
 
-**[🌍 Retire on Bitcoin by 2032: Global Wealth Matrix &amp; How Much You Need 🚀](https://www.youtube.com/watch?v=c0X9585-KDI)**
+**[🚨 BITCOIN!!! 🚨](https://www.youtube.com/watch?v=4nedqLRKhRE)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+Bitcoin just flashed a signal that has NEVER delivered a false weekly signal historically… but that's not even the crazy part. We've ...
 
-📺 InvestAnswers
+📺 Crypto Love
 
-👁️ 91K • 👍 4K • 💬 224 • ⏱️ 30:29 • 2d ago
+👁️ 991 • 👍 197 • 💬 138 • ⏱️ 7:11 • 4h ago
+
+---
+
+**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
+
+Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
+
+📺 Altcoin Daily
+
+👁️ 78K • 👍 2K • 💬 301 • ⏱️ 11:37 • 1d ago
+
+---
+
+**[I Made A Huge Mistake Investing In Bitcoin](https://www.youtube.com/watch?v=Jh91F5qCswQ)**
+
+This is the crazy story of what happened to me investing from 2024-2026. My story of bitcoin and why consistency is key. Open ...
+
+📺 IanOnYouTube
+
+👁️ 39K • 👍 2K • 💬 627 • ⏱️ 15:21 • 21h ago
+
+---
+
+**[Why $800K Bitcoin Targets Miss the Real Story](https://www.youtube.com/watch?v=otZ6P3iAZAY)**
+
+Cake Wallet founder and CEO Vik Sharma reflects on why expecting an $800000 Bitcoin price target was over-optimistic. Despite ...
+
+📺 Natalie Brunell
+
+👁️ 11K • 👍 138 • 💬 23 • ⏱️ 0:52 • 2d ago
 
 ---
 
@@ -405,7 +407,7 @@ BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 13K • 👍 348 • 💬 207 • ⏱️ 17:26 • 19h ago
+👁️ 14K • 👍 356 • 💬 208 • ⏱️ 17:26 • 22h ago
 
 ---
 

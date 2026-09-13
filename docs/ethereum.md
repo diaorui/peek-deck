@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T18:04:53.169638+00:00'
+updated: '2026-09-13T21:02:25.037157+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 18:04 UTC  
+**Last Updated:** September 13, 2026 at 21:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +0.6%  
-**30d:** +33.1%  
-**90d:** +39.8%  
-**1y:** -45.6%  
+**24h:** -0.4%  
+**7d:** +0.9%  
+**30d:** +33.5%  
+**90d:** +40.3%  
+**1y:** -45.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $305.74B
+**Market Cap:** $306.57B
 Rank #2
 
 **Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.3%
+-49.2%
 
 **All-Time Low:** $0.43
-+578493.9%
++580089.8%
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
 
-24/7 Wall St. • 2d ago
+247wallst.com • 2d ago
 
 ---
 
@@ -162,15 +162,7 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 Crypto analyst Dark Defender projects that XRP could significantly outperform Ethereum, with the XRP/ETH ratio potentially rising about 306% from its current level. This forecast is based on an Elliott Wave technical pattern targeting a fifth-wave extension to 0.002238 ETH per XRP. However, this projection reflects relative performance, not XRP's absolute price or market cap surpassing Ethereum or Bitcoin. XRP's market cap is currently $86 billion, far below Ethereum's $300 billion and Bitcoin's $1.55 trillion. Institutional access to XRP is expanding through U.S.-listed ETFs, supporting regulated exposure amid mixed market conditions. The key technical levels to watch are the intermediate Fibonacci zones between 0.0006487 and 0.0007773 before the larger target is reached.
 
-Pluang • 1h ago
-
----
-
-**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://finance.yahoo.com/markets/crypto/articles/ethereum-track-snap-longest-quarterly-152634021.html)**
-
-Ethereum is up about 58% in the third quarter, putting it on track to snap its first-ever three-quarter losing streak.
-
-Yahoo Finance • 2h ago
+Pluang • 4h ago
 
 ---
 
@@ -178,15 +170,23 @@ Yahoo Finance • 2h ago
 
 BNB Chain, part of the Binance ecosystem, has become the fastest-growing blockchain for real-world assets (RWA) in 2026, adding $3.6 billion in tokenized asset value. This growth surpasses competitors like Solana ($2.6B) and Ethereum ($1.6B), highlighting BNB Chain's expanding role in the tokenized financial products market. The network's scalability, low transaction costs, and increasing user adoption are driving this momentum, potentially positioning BNB for a price rally if market conditions remain favorable. Ethereum still leads overall RWA market share, but BNB Chain's rapid growth signals a shift in institutional and user interest toward its ecosystem.
 
-Pluang • 1h ago
+Pluang • 4h ago
 
 ---
 
-**[Ethereum Spot Volume Growth Outpaces Bitcoin Seven-Fold As ETH Eyes $3000 Next](https://www.tradingview.com/news/stocktwits:03878bb3d094b:0-ethereum-spot-volume-growth-outpaces-bitcoin-seven-fold-as-eth-eyes-3000-next/)**
+**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
 
-Ethereum’s (ETH) spot volume jumped nearly 50% over the past 24 hours, seven times the 7% increase in Bitcoin (BTC) spot volume, as Ethereum extended its outperformance over the largest cryptocurrency.According to Glassnode data, spot volume for Ethereum stood at $6.14 billion in comparison to Bitc…
+Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
 
-TradingView • 1d ago
+Yahoo Finance • 23h ago
+
+---
+
+**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://www.tradingview.com/news/stocktwits:5c2c2031e094b:0-ethereum-on-track-to-snap-its-longest-quarterly-losing-streak-on-record/)**
+
+Ethereum (ETH) is set to break its longest losing streak on record, a prediction Bitmine Immersion (BMNR) chairman Tom Lee already made back in August.The second-largest cryptocurrency fell by nearly 29% in the fourth quarter of 2025, roughly 30% in the first quarter of 2026, and nearly 26% in the…
+
+tradingview.com • 5h ago
 
 ---
 
@@ -194,15 +194,7 @@ TradingView • 1d ago
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-AMBCrypto • 18h ago
-
----
-
-**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
-
-A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
-
-CryptoSlate • 2d ago
+AMBCrypto • 21h ago
 
 ---
 
@@ -217,6 +209,14 @@ blockchain.news • 1d ago
 **[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
 
 CoinDesk • 3d ago
+
+---
+
+**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
+
+A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 229 • 💬 16 • ⏱️ 15:15 • 4h ago
+👁️ 6K • 👍 270 • 💬 22 • ⏱️ 15:15 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 26K • 👍 574 • 💬 88 • ⏱️ 7:35 • 1d ago
+👁️ 27K • 👍 586 • 💬 88 • ⏱️ 7:35 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 28K • 👍 503 • 💬 93 • ⏱️ 22:54 • 1d ago
+👁️ 29K • 👍 517 • 💬 94 • ⏱️ 22:54 • 1d ago
 
 ---
 
@@ -278,7 +278,17 @@ BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 13K • 👍 348 • 💬 207 • ⏱️ 17:26 • 19h ago
+👁️ 14K • 👍 356 • 💬 208 • ⏱️ 17:26 • 22h ago
+
+---
+
+**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
+
+CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
+
+📺 CryptoWendyO
+
+👁️ 7K • 👍 262 • 💬 10 • ⏱️ 6:51 • 1d ago
 
 ---
 
@@ -298,37 +308,27 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 975 • 💬 54 • ⏱️ 11:43 • 1d ago
+👁️ 44K • 👍 991 • 💬 55 • ⏱️ 11:43 • 2d ago
 
 ---
 
-**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+**[ETHEREUM FAKEOUT WARNING! (Ethereum Update)](https://www.youtube.com/watch?v=9grcec5zJNk)**
 
-Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto Capital Venture
+📺 Cilinix Crypto
 
-👁️ 26K • 👍 701 • 💬 491 • ⏱️ 17:30 • 2d ago
-
----
-
-**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
-
-CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
-
-📺 CryptoWendyO
-
-👁️ 7K • 👍 261 • 💬 10 • ⏱️ 6:51 • 1d ago
+👁️ 380 • 👍 20 • 💬 2 • ⏱️ 3:53 • 10h ago
 
 ---
 
-**[ETH BREAKOUT! Altcoin Season Incoming or Massive Bull Trap? (CRYPTO TRADING)](https://www.youtube.com/watch?v=-ejWtH7b9fE)**
+**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
 
-Ethereum has officially broken out of its daily consolidation range, sending shockwaves across the altcoin market. As ETH pushes ...
+One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
 
-📺 Chart Hackers
+📺 The Modern Investor
 
-👁️ 10K • 👍 283 • 💬 3 • ⏱️ 1:20:53 • 1d ago
+👁️ 14K • 👍 875 • 💬 387 • ⏱️ 31:34 • 2d ago
 
 ---
 
