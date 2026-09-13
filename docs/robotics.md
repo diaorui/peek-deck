@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-12T22:52:23.166193+00:00'
+updated: '2026-09-13T00:39:07.736296+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 12, 2026 at 22:52 UTC  
+**Last Updated:** September 13, 2026 at 00:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T originally). In principle, it's half the price, twice the torque, but the mount design is rather odd and required a complete CAD update (+ I already killed like 3 of them by accidentally drilling all the way to their control board, geez). The high torque also means high current, and so a potential hazard if multiple of them run at high load. Need to monitor it. If it's capable of jumping, it is likely also capable of catching fire while doing it. The firmware is also updated for ST-3215, but the commander uses the original unoptimized one-leg test code, which may explain the sluggishness in its "failed walk gait". I am a bit afraid that if the servos simply cannot move fast enough, even with optimal PID, then making it walk may be more difficult despite higher torque. Either way, if successful, the full DIY robot would be in the 300-400 euro range (still mostly from servos), ~3 kg, with twice the load performance; all the load after the body weight will be extra! Cubic Wouf GitHub: https://github.com/SphericalCowww/CubicDoggo_07B Cubic Doggo GitHub: https://github.com/SphericalCowww/CubicDoggo_06R
 
-10h ago
+11h ago
 
 ---
 
 **[see and find](https://www.reddit.com/r/robotics/comments/1weeixz/see_and_find/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T o
 
 I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ I’m not sure if I’m tagging this correctly, but I came across this post by a
 
 Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue… a few things we’ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I’m curious about the small, awkward tasks that don’t usually make it into robot demos.
 
-5h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissu
 
 I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic.
 
-6h ago
+8h ago
 
 ---
 
@@ -114,19 +114,13 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
 **[Robotics Startup Skild AI Hits $100 Million in Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-bloomberg.com • 2d ago
-
----
-
-**[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
-
-Reuters • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -152,19 +146,25 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast)**
-
-Robotics expert Changliu Liu explains.
-
-cnn.com • 23h ago
-
----
-
 **[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
 
 Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
 
 TechCrunch • 2d ago
+
+---
+
+**[Why do humans like to watch robots fall?](https://www.cnn.com/2026/09/11/world/video/robots-artificial-intelligence-humans-liu-live-091104pseg2-cnni-world-fast)**
+
+Robotics expert Changliu Liu explains.
+
+CNN • 1d ago
+
+---
+
+**[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -204,7 +204,7 @@ Professional Robot Fighting takes over NYC! The National Havoc Robot League is L
 
 📺 NHRL
 
-👁️ 23K • 👍 409 • 💬 2 • ⏱️ 8:05:42 • 22m ago
+👁️ 23K • 👍 409 • 💬 2 • ⏱️ 8:05:42 • 2h ago
 
 ---
 
