@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-07T08:13:57.697485+00:00",
+  "data": {
+    "url": "https://bitcoinmagazine.com/business/breez-announces-glow-an-open-source-bitcoin-to-stablecoins-progressive-web-app",
+    "title": "Breez Glow Brings Passkeys And Stablecoins To Bitcoin Wallets",
+    "description": "The MIT-licensed progressive web app, built with Breez SDK and Spark, lets users send USDT and USDC from a Bitcoin balance while supporting native Lightning payments and Passkey login.",
+    "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/08/photo_2026-08-06-15.05.34.jpeg",
+    "favicon": "https://cdn-ileamcn.nitrocdn.com/BngESKHdyFjXuZbvyAhEMmtQtwLKSKkU/assets/images/optimized/rev-a6acef8/bitcoinmagazine.com/wp-content/uploads/2024/09/cropped-Bitcoin-Magazine-glyph-black-01-180x180.png",
+    "site_name": "Bitcoin Magazine",
+    "author": "Juan Galt",
+    "keywords": null
+  }
+}

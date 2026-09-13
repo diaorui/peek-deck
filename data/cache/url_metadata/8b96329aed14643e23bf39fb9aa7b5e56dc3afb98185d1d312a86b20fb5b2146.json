@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-07-31T01:04:30.211445+00:00",
+  "data": {
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "description": "In a review of our cybersecurity evaluation transcripts, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations.  Below we describe what happened, how it happened, and what we\u2019re changing. We encourage other AI labs to perform similar reviews.",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+    "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

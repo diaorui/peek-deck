@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-04T07:13:26.903211+00:00",
+  "data": "Audio8 TTS Preview 0.6B is a compact, multilingual text-to-speech model supporting 11 languages and zero-shot voice cloning. It utilizes a DualAR architecture for high-quality speech synthesis and offers ONNX INT4 deployment for efficient CPU inference.",
+  "model_id": "Audio8/Audio8-TTS-Preview-0.6b"
+}

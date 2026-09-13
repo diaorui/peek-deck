@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-13T22:41:13.796626+00:00",
+  "data": {
+    "url": "https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident",
+    "title": "Recent customer data exposed in shipping provider incident",
+    "description": "ShipMonk, one of Trezor\u2019s shipping providers, has experienced a data breach that exposed sensitive customer order data, including full names, physical addresses, phone numbers, and email addresses. Trezor devices are secure.",
+    "image": "https://static.trezor.io/Blog_DATABREACHANNOUNCEMENT_1_2000x1000_2_c0ec5def23.jpg",
+    "favicon": "https://trezor.io/favicon/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

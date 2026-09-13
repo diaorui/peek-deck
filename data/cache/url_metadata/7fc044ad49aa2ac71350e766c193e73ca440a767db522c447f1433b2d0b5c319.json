@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-01T20:53:06.371892+00:00",
+  "data": {
+    "url": "http://techpotions.com/lab/claude-api-cost",
+    "title": "techpotions \u2014 What the Claude API Actually Costs",
+    "description": "The real Claude API cost isn't the sticker price\u2014it's output tokens (5\u00d7 pricier) and the expiry of Sonnet 5's intro rate. See our verified July 2026 per-model prices and a calculator that never goes stale.",
+    "image": "https://techpotions.com/api/media/file/claude-api-cost-cover.webp",
+    "favicon": "http://techpotions.com/apple-icon-4usi79?9a71c63482bac14d",
+    "site_name": null,
+    "author": "techpotions",
+    "keywords": "AI,API,pricing"
+  }
+}

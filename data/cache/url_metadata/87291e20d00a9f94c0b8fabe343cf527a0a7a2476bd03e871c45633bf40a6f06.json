@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-07T00:23:36.175986+00:00",
+  "data": {
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays",
+    "description": "Results from AI agent permission game: which attacks beat human reviewers, and which safe commands got blocked instead.",
+    "image": "https://scalex.dev/img/permission_game_stats_card.png",
+    "favicon": "https://scalex.dev/apple-touch-icon.png",
+    "site_name": "Scale X",
+    "author": "Alex Wauters",
+    "keywords": "security ,llm ,agents ,claude ,statistics"
+  }
+}

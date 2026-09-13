@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-21T16:34:20.538023+00:00",
+  "data": {
+    "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents | NVIDIA Technical Blog",
+    "description": "A frontier language model is only one component of an AI agent. The surrounding agent system\u2014often called a harness\u2014determines how the model receives context, uses tools, maintains state\u2026",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/08/agentic-ai-visual-cybersecurity-avo-1.webp",
+    "favicon": "https://developer-blogs.nvidia.com/wp-content/themes/nvidia/dist/images/favicon_300a1064.ico",
+    "site_name": "NVIDIA Technical Blog",
+    "author": null,
+    "keywords": null
+  }
+}

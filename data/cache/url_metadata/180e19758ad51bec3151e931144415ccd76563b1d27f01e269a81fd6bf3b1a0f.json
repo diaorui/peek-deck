@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-10T08:26:23.109341+00:00",
+  "data": {
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "title": "Docker Sandboxes | Sandboxes for Coding Agents | Docker",
+    "description": "Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.",
+    "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
+    "favicon": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-180x180.png",
+    "site_name": "Docker",
+    "author": null,
+    "keywords": null
+  }
+}

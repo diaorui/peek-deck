@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-04T17:12:29.139489+00:00",
+  "data": {
+    "url": "https://thedefiant.io/news/blockchains/eip-8361-tapered-issuance-burn-ethereum-staking-yield",
+    "title": "New Ethereum Proposal Would Burn Validator Rewards to Kill the Incentive to Stake More | The Defiant",
+    "description": "EIP-8361 would burn a rising share of validator rewards as the staking ratio climbs, cancelling Ethereum consensus issuance at a 50% staking ratio.",
+    "image": "https://cdn.thedefiant.io/eth-burn-thumbnail-jpg-32f94149-fdae-4041-9cad-877c98eb1aac.jpg",
+    "favicon": "https://thedefiant.io/favicon.ico",
+    "site_name": null,
+    "author": "The Defiant Team",
+    "keywords": null
+  }
+}

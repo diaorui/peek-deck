@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-20T22:27:22.330378+00:00",
+  "data": {
+    "url": "https://epochbtc.github.io/satd/tour.html",
+    "title": "satd \u2014 A Guided Tour of the Codebase",
+    "description": "A guided, code-level tour of the satd codebase: every major module with real source snippets, interfaces, tradeoffs, and Bitcoin Core comparisons.",
+    "image": null,
+    "favicon": "https://epochbtc.github.io/favicon.ico",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

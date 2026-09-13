@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-14T01:58:14.222794+00:00",
+  "data": "MiniMax Music 3 is a text-to-audio model capable of generating complete, five-minute songs with lyrics and detailed musical descriptions. It utilizes a hybrid LLM architecture and Flow Matching for coherent, high-fidelity 32 kHz stereo audio output, suitable for complex music production.",
+  "model_id": "MiniMaxAI/MiniMax-Music3"
+}

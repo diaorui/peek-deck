@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-13T18:26:47.448504+00:00",
+  "data": {
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "title": "More models, more choice: Comparing 11 different AI models",
+    "description": "Netlify now runs any OpenRouter model, including Kimi K3, GLM 5.2 and DeepSeek V4. We tested 11 of them on the same build prompt to see how they differ.",
+    "image": "https://cdn.sanity.io/images/o0o2tn5x/production/61190f2745496c269dd071680edec773a29eaef7-1800x1013.png",
+    "favicon": "https://www.netlify.com/favicon/apple-touch-icon.png",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

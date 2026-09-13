@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-05T08:36:17.147939+00:00",
+  "data": {
+    "url": "https://hackernoon.com/how-the-verus-ethereum-bridge-exploit-bypassed-cross-chain-validation",
+    "title": "How the Verus-Ethereum Bridge Exploit Bypassed Cross-Chain Validation | HackerNoon",
+    "description": "Forensic deep-dive into the Verus-Ethereum bridge exploit. Discover how compromised cross-chain validation and fabricated Merkle proofs drained $7.54M.",
+    "image": "https://hackernoon.imgix.net/images/aY9Ptt5NXfW71wl1wOCWKyP6nsT2-gy83c51.png",
+    "favicon": "https://hackernoon.com/favicon.ico",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}
