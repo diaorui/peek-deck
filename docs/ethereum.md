@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-14T01:24:40.140319+00:00'
+updated: '2026-09-14T06:47:31.077000+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 14, 2026 at 01:24 UTC  
+**Last Updated:** September 14, 2026 at 06:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -0.3%  
-**30d:** +32.0%  
-**90d:** +41.5%  
-**1y:** -45.2%  
+**24h:** +0.1%  
+**7d:** +1.5%  
+**30d:** +34.4%  
+**90d:** +44.0%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $302.32B
+**Market Cap:** $307.40B
 Rank #2
 
-**Circulating Supply:** 122,044,302 ETH
+**Circulating Supply:** 122,047,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.9%
+-49.1%
 
 **All-Time Low:** $0.43
-+571955.5%
++581565.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -126,7 +126,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -158,35 +158,27 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
-**[Harmony plans to shut down its Layer 1 blockcha...](https://pluang.com/en/news-feed/harmony-rencanakan-berhenti-layer-1-dan-pindahkan-token-one-ke-ethereum-untuk)**
+**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://finance.yahoo.com/markets/crypto/articles/ethereum-track-snap-longest-quarterly-152634021.html)**
 
-Harmony has proposed ending its independent Layer 1 blockchain due to severe attacks and shifting focus to a new AI video project on Ethereum. Validators may stop running nodes by September 10, 2026, with a token migration that snapshots ONE tokens and airdrops new ERC-20 tokens on Ethereum. The team offers incentives for validators to become governors in the new project, which centers on AI-driven video remixing and operator revenue. The plan follows a major exploit in August and marks a strategic pivot from maintaining the original chain to rebuilding on Ethereum.
+Ethereum is up about 58% in the third quarter, putting it on track to snap its first-ever three-quarter losing streak.
 
-Pluang • 4h ago
-
----
-
-**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
-
-Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
-
-Yahoo Finance • 1d ago
+finance.yahoo.com • 15h ago
 
 ---
 
-**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://www.tradingview.com/news/stocktwits:5c2c2031e094b:0-ethereum-on-track-to-snap-its-longest-quarterly-losing-streak-on-record/)**
+**[Ethereum Spot Volume Growth Outpaces Bitcoin Seven-Fold As ETH Eyes $3000 Next](https://www.tradingview.com/news/stocktwits:03878bb3d094b:0-ethereum-spot-volume-growth-outpaces-bitcoin-seven-fold-as-eth-eyes-3000-next/)**
 
-Ethereum (ETH) is set to break its longest losing streak on record, a prediction Bitmine Immersion (BMNR) chairman Tom Lee already made back in August.The second-largest cryptocurrency fell by nearly 29% in the fourth quarter of 2025, roughly 30% in the first quarter of 2026, and nearly 26% in the…
+Ethereum’s (ETH) spot volume jumped nearly 50% over the past 24 hours, seven times the 7% increase in Bitcoin (BTC) spot volume, as Ethereum extended its outperformance over the largest cryptocurrency.According to Glassnode data, spot volume for Ethereum stood at $6.14 billion in comparison to Bitc…
 
-TradingView • 9h ago
+TradingView • 1d ago
 
 ---
 
-**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
+**[LIT: Ethereum Contributor Withdraws 500K Tokens](https://blockchain.news/flashnews/lit-ethereum-contributor-withdraws-500k-tokens)**
 
-DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
+LIT at $0.74 as billΞ.eth-linked address pulls 500,000 LIT worth $2.07M from Lighter protocol amid 97% monthly gains and Robinhood Wallet volume spike.
 
-markets.businessinsider.com • 1d ago
+blockchain.news • 3h ago
 
 ---
 
@@ -198,27 +190,11 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum: Trader Seeks Reasons Against Token Buy](https://blockchain.news/flashnews/ethereum-trader-seeks-reasons-against-token-buy)**
-
-Ethereum token 0xce82213c4bae42e1c04880ea64a53eef73e195de faces scrutiny below 10m cap as ETH trades at $2531.82 with bullish MACD.
-
-blockchain.news • 1d ago
-
----
-
 **[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
 
 A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
 
 CryptoSlate • 2d ago
-
----
-
-**[Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)**
-
-The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
-
-The Block • 3d ago
 
 ---
 
@@ -230,27 +206,41 @@ Stocktwits • 2d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Senate Prepares to Vote on CLARITY: Analyst Sees BTC Rallying to](https://www.benzinga.com/crypto/cryptocurrency/26/09/61756157/bitcoin-ethereum-xrp-dogecoin-dip-senate-clarity-vote-btc-rally)**
+
+Leading cryptocurrencies fell alongside stock futures on Sunday evening amid warnings from AI CEOs about major safety risks and calls to slow the pace of development.
+
+Benzinga • 4h ago
+
+---
+
+**[Ethereum Price Prediction: ETH Rips 33% as Whales Load Up, and Pepeto's $10.9M Presale Offers ETH's 2014 Entry Again](https://financefeeds.com/ethereum-price-prediction-eth-rips-33-as-whales-load-up-and-pepetos-10-9m-presale-offers-eths-2014-entry-again/)**
+
+Anyone reading an ethereum price prediction this week wants proof the rebound is real before adding more. ETH ripped 33% higher from August 11 to September
+
+FinanceFeeds • 1d ago
+
+---
+
+**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
+
+Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
+
+finance.yahoo.com • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
+**[Arthur Hayes: Why Ethereum Is My Biggest Position Right Now (Most Hated Mega Cap)](https://www.youtube.com/watch?v=C2ahxun9Ryc)**
 
-BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Arthur Hayes argues that if you want maximum risk outside Bitcoin without protocol blowup fear, ETH is the trade, and the fact that ...
 
-📺 Crypto World
+📺 The Rollup
 
-👁️ 487 • 👍 46 • 💬 16 • ⏱️ 17:07 • 37m ago
-
----
-
-**[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
-
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
-
-📺 More Crypto Online
-
-👁️ 9K • 👍 300 • 💬 23 • ⏱️ 15:15 • 12h ago
+👁️ 955 • 👍 64 • 💬 22 • ⏱️ 8:39 • 4h ago
 
 ---
 
@@ -260,7 +250,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 28K • 👍 589 • 💬 89 • ⏱️ 7:35 • 1d ago
+👁️ 29K • 👍 604 • 💬 92 • ⏱️ 7:35 • 1d ago
 
 ---
 
@@ -270,7 +260,17 @@ CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with R
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 263 • 💬 10 • ⏱️ 6:51 • 1d ago
+👁️ 8K • 👍 266 • 💬 10 • ⏱️ 6:51 • 1d ago
+
+---
+
+**[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
+
+Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
+
+📺 More Crypto Online
+
+👁️ 11K • 👍 308 • 💬 21 • ⏱️ 15:15 • 17h ago
 
 ---
 
@@ -280,17 +280,7 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 5K • 👍 114 • 💬 16 • ⏱️ 21:47 • 1d ago
-
----
-
-**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 6K • 👍 82 • 💬 15 • ⏱️ 9:47 • 2d ago
+👁️ 5K • 👍 117 • 💬 16 • ⏱️ 21:47 • 1d ago
 
 ---
 
@@ -300,7 +290,7 @@ One of the main topics in the cryptocurrency space right now revolve around one 
 
 📺 The Modern Investor
 
-👁️ 14K • 👍 875 • 💬 387 • ⏱️ 31:34 • 2d ago
+👁️ 14K • 👍 875 • 💬 386 • ⏱️ 31:34 • 2d ago
 
 ---
 
@@ -310,7 +300,27 @@ John Gillen says Ethereum could hit explode before the end of the year, and he's
 
 📺 The Rollup
 
-👁️ 31K • 👍 536 • 💬 96 • ⏱️ 22:54 • 2d ago
+👁️ 33K • 👍 547 • 💬 108 • ⏱️ 22:54 • 2d ago
+
+---
+
+**[🚀 Big Money Loves Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=af3b6Uxnmrk)**
+
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 7K • 👍 85 • 💬 15 • ⏱️ 9:47 • 2d ago
+
+---
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 27K • 👍 703 • 💬 489 • ⏱️ 17:30 • 2d ago
 
 ---
 
@@ -320,17 +330,7 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 1K • 💬 56 • ⏱️ 11:43 • 2d ago
-
----
-
-**[ETHEREUM Análisis del Precio Para Zonas Importantes - ETH](https://www.youtube.com/watch?v=yKSyQhbVyC4)**
-
-Ingreso a Pro Plan Trading (Tiempo Limitado) : ➡️ https://www.proplantrading.com/acceso/especial/6meses-page Inicia en ...
-
-📺 Julio Alfaro
-
-👁️ 4K • 👍 96 • 💬 62 • ⏱️ 11:03 • 2d ago
+👁️ 46K • 👍 1K • 💬 56 • ⏱️ 11:43 • 2d ago
 
 ---
 
