@@ -5,74 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Speaker Johnson: \u2018Don\u2019t panic\u2019 on AI",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JNHFaeUVNYjc1SDJwaHFSbG5WTWd5UUFISVdqUndiLUQ0OWFxVjJMdUczaFByZDE0UXBMVTJqYjdTSjc4WjlkVV9sYWltT1N1LUQ5TUlUcmJfeHA2QlpjOUlCRXl6bFI3a01Sb1dJRnAtOTlQY2FqYw?oc=5",
-      "pub_date": 1789315560.0,
-      "article_url": "https://www.cnn.com/2026/09/13/us/video/22980508-johnson-ai-race-vrtc",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/johnson-ai-thumb.jpg?c=16x9&q=w_800,c_fill",
-      "description": "House Speaker Mike Johnson (R) says Americans should not panic on AI regulation, warning that a rushed response could affect American innovation and threaten national security."
-    },
-    {
-      "headline": "Tech companies must be primarily responsible for AI safety, Mike Johnson says",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
-      "pub_date": 1789315200.0,
-      "article_url": "https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "House Speaker Johnson says Congress shouldn't lead AI safety efforts",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ25CNWJINlIxVDhOVTNwYXc2M3BPdkFvS3AxVjdlOE1feEQ1Wl93dEFwRkw3TzRIc044OUE3WHVDNTBXaUhJVEsyVTFHRjR2RE9pVXZ0SlB6OVRyQWFFMHpRb1lobWRfZmxBeWp3Uzd0bF9haEUtNTI5cVgwZ2hEbThwTVd4Y2NXUm1JX01oWk0weFc4dlk3NGNjVVZwS2Y3VVhfTXJQU0hzTmZ6clotQ2o4NlVJVmRf?oc=5",
-      "pub_date": 1789344960.0,
-      "article_url": "https://www.usatoday.com/story/news/politics/2026/09/13/mike-johnson-ai-safety-developers-responsibility/91750965007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/13/USAT/91752089007-20260910-t-223804-z-1113759911-rc-2-hgnaikugm-rtrmadp-3-usaelectionrepublicans.JPG?crop=1678,944,x391,y391&width=1678&height=944&format=pjpg&auto=webp",
-      "description": "House Speaker Mike Johnson told CNN's \"State of the Union\" that AI developers, not Congress, bear responsibility for ensuring their products are safe."
-    },
-    {
-      "headline": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "source": "nytimes.com",
+      "headline": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "pub_date": 1789347600.0,
-      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
+      "pub_date": 1789347860.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-      "pub_date": 1789338300.0,
-      "article_url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "description": "The three major averages are coming off a losing week."
-    },
-    {
-      "headline": "US Stock Futures Fall on AI Warnings, Oil Gains: Markets Wrap",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2lGQUtDelJmdFZJeERjWWxaVXVFeEcwUUxtQjJ1bG40VVJZZmZyR1dzMDRvVkg4aG4zWFZaOWRtTlVRTW9lY05sZ3JzNGFSbTZwc25DNG9ONlZTUEJGSlkwTDZLSlJ1MmVtMm01SGZhdmxTRTBHWnowWmlrMFhDUmF4WWtHRnRqX1FUTE9Sbk1PMFJEU29fWFZhQTRpS3ZGcGljYWJneXgzb3EtYVE?oc=5",
-      "pub_date": 1789337161.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTgxYjBHZXNGVFRDVXdTdGJBQ3ZUaXB3Q2RvdFB5aHIydVdRLWdBUXRiSzJTZ3p5dVdnTi1zUlhLVEtJeVJpUEhWakw1d2FralNhdktDUEhQYWVhdC0wQzRrYkFjR1VxYkkwODFwTjBHelZDVzdxX2JzNnl0OUIzclVkY2JXQWl6TTF3TjJKZ1RYLUozTUZCTEZzVUJOMmEyRDJpNkpiNUs3STVVMEppZlVzQ1ZUb2xNN2o5VzNtcy1BbnljczFFb0dITHJtYUxnRm9nUTY2SVROZ0RXcTltNTdlOA?oc=5",
-      "pub_date": 1789347720.0,
-      "article_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-AIcyber-Head-adobe.jpg",
-      "description": "Anthropic CEO Dario Amodei wants to \"slow the pace\" of improving AI models."
     },
     {
       "headline": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
@@ -85,26 +25,86 @@
       "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
     },
     {
-      "headline": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
-      "pub_date": 1789317469.0,
-      "article_url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+      "headline": "Trump downplays calls for AI slowdown",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVdHY1FYd2RBVTlXQ1F4cTVobHh0X3c4VHVNTnJjTzgxdi03NzlrVlAwYV9uVXhfOF9BVkRvd20zM1MtZUlMRzlhNnhiSldhMGtqck5JV1YzWDI4RHhYem5Ub2RKdEhPek1sNE01M0Y3eTZWXzRSMU81b2tNRTRtSg?oc=5",
+      "pub_date": 1789338759.0,
+      "article_url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3682x2071+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fc4%2F5be7a97d47de84dedd8b5180b45c%2Fap26256495459897.jpg",
+      "description": "President Trump said the dire warnings about AI were exaggerated and that \"negative forces\" are making claims about things that won't happen. This comes after leaders in the industry called for putting the brakes on AI development."
+    },
+    {
+      "headline": "A fateful turning point for humanity and AI could redefine American politics",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVnF4Q0U2X1NITm96V1p5QkVtVkl3a19jcFNqZElpN3ZralJpRV8wRGtKT2ZQYUhNX1FtUVYxYUlZWkpHU1VyUGFHUUFFb3UzaDh3X2tuaWN6LTI4U2ctaVowSUJhalViM0RlcldSd01SVkxKbm9kZGJYVktmWlZoeDRSclE?oc=5",
+      "pub_date": 1789358429.0,
+      "article_url": "https://www.cnn.com/2026/09/14/politics/trump-ai-warning-sacks-coxon-anthropic",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2292674000.jpg?c=16x9&q=w_800,c_fill",
+      "description": "If a terrorist threat led subject experts to warn of a near-term existential menace to humanity, the weight of the US government would mobilize in an immediate and limitless effort to save the day."
+    },
+    {
+      "headline": "\u2018Tidal wave\u2019 of Pfas being launched to satisfy AI industry, campaigners warn",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHNtN3pXQ0x1aHdwbC1kR3ZQYkNfeC11VTcyaFNweUNsNTJLZFBmeklFMFlrZXJhWDRQOXNHNkJMQWJURS0zX1g3YlNLeU5fRFZZajUyTWdqNkVLTnVSRmhiSXhHSEtoNzFmOU50bThZbGdzdFY5RG9sd1hrdF9hb3YtVWxKTzBGMXN5aEV2TElvdi1vZndFSkwyYjhyM0JlbUhTXzRia0ozbUc2bV9XeEg1U3RGOU8wam93MEtZVQ?oc=5",
+      "pub_date": 1789365600.0,
+      "article_url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+      "image": "https://i.guim.co.uk/img/media/383d2bea1e3bf96683eae24cb6a9f8335690c4c4/397_0_4762_3808/master/4762.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d563638eb073c6c470227725b917c59",
+      "description": "Big manufacturers planning to produce more of the forever chemicals to meet demand from datacentres"
+    },
+    {
+      "headline": "AI-linked stocks fall after call for development slowdown worries investors \u2013 business live",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZkZSc002dHRMQV9vX1BPUVN3OXkxWlJBbXNsSXNoMlFIdEZLWXFoYXFDSGhoaDBWclQ5VkVnMWRscm56aTY3UXhscnV5SFY5aG91N1piWU1FRGYxc2NJTjluV3BVN2w0eDlibFkyUVBsaW1OdjZ1elpObG1TZFFQZFBzN3BYWFlxNHRJRjNFQlo3X2JuVlBDVTNPdVZ0Yk9YLTNvdWNkdldqUUo3STdUTjQ0U3lLTlVUVEpvNTYtOGJsVU8tS012bHByX051T0lZSWc?oc=5",
+      "pub_date": 1789366080.0,
+      "article_url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/a099044b916e09c60455b058bacdf742cf0eb1fb/172_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4457c39665e9da13a499efdf00a308f6",
+      "description": "Rolling coverage of the latest economic and financial news"
+    },
+    {
+      "headline": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2lGQUtDelJmdFZJeERjWWxaVXVFeEcwUUxtQjJ1bG40VVJZZmZyR1dzMDRvVkg4aG4zWFZaOWRtTlVRTW9lY05sZ3JzNGFSbTZwc25DNG9ONlZTUEJGSlkwTDZLSlJ1MmVtMm01SGZhdmxTRTBHWnowWmlrMFhDUmF4WWtHRnRqX1FUTE9Sbk1PMFJEU29fWFZhQTRpS3ZGcGljYWJneXgzb3EtYVE?oc=5",
+      "pub_date": 1789337161.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
       "image": null,
       "description": null
     },
     {
-      "headline": "Obama says Democrats should have a \u2018very clear plan\u2019 on AI policy",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzJRbGVPWkg4d1FkdjFvOUFJajI2RUpHa1FIMjJQamFTWHRVc200NDlSZDg5OXJIdmM5OC1BdnZkSjBHVGxDcEllelFnQWpqYV9HbHJkNHBBX0hxYzRQQ2dHeUk3QW14dEJYVW5yejVfZmQ2ck9VcUVJcTdKb284YW1HOGM1M3RvLUpZUUpfc1ROSTc5amdRRThR?oc=5",
-      "pub_date": 1789336603.0,
-      "article_url": "https://www.nbcnews.com/politics/congress/obama-says-democrats-clear-plan-ai-policy-rcna597555",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260913-barack-obama-chicago-ww-1413-daefc1.jpg",
-      "description": "Researchers at AI companies have been warning about safety risks, and industry leaders have called for a slowdown in development."
+      "headline": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSllsUVJYdGdsYVFkeWtpT1d3SHRYS1lvbkhtcUVtRFJfTVEyUmVwRjNsSG8xMGNrSEhtYVoweFE4dFZzMGFoeHdBTVJCcklCZVYtZFVwaTBYSzJMQkFSaUg3dUw0VXBNOHQtdENIUUdoQ3RCNkJ1YXZFaWVsV3FTVmNrYjl3MUVfV3lBRzVRTQ?oc=5",
+      "pub_date": 1789352400.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-intc-amd-chip-022018383.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/52dffc7e94e352ff2556891c71eb794769e6136b31cff2706cd5ccd405abf328/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F413dd025bc23ccc3e865649516aa81f3.jpg",
+      "description": "AI safety push sparks fresh debate even as investors weigh its potential impact on the massive infrastructure spending cycle."
+    },
+    {
+      "headline": "He was close to a huge math breakthrough. Then he got scooped by AI.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOEU2c2tLazZ6eDhNZThjN2dLOTc1VUx6RmpiclRac3YyZU5UUXd2MGp5aVdhdmJHcng0MlVnZlhPdXg2NW84VDZ4QWtfYmJ4MWVrZnNXQ2VjN0QycXR1YVY1VUNWTEZtN2d3OUtQalZ0VWE4bHRJRVZUVDNwcEU2OGNBdjRSWHdpRXBLcC04OUxZTG44UmpUalRnSUpXVlAtM1NZUUw1SjJpWmFjS3c?oc=5",
+      "pub_date": 1789318800.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
+      "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work."
+    },
+    {
+      "headline": "It\u2019s All Fun and Games Until You Give AI Your Credit Card",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2QzZ0NxU3pWZkRLLTBiV0t1SFRSSmh4TkpBZTNGenBDWDh2Q25MSW51ay1oSklxR25Qdnk4WnRxTV90SU01UTV3d1NfQWdNSF9HcEU0VE5aZXdIdWRYU2tfRU1nYlE1ckNNZlRzV3B3bGxidjJyWURDSUI0RWJiWWd0dUVMQlhtSEROUjlwM1J4U2M4a2k0SDVDRGU3dw?oc=5",
+      "pub_date": 1789299000.0,
+      "article_url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "image": "https://cdn.theatlantic.com/thumbor/3YdrXv-D5uQTQEXdEbyhnrIWD18=/0x32:1498x812/1200x625/media/img/mt/2026/09/2026_09_11_chatbt_mpg/original.gif",
+      "description": "AI personal assistants are now acting on people\u2019s behalf in the real world\u2014and all sorts of strange things are going wrong."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T01:24:38.584063+00:00"
+  "fetched_at": "2026-09-14T06:47:23.969550+00:00"
 }
