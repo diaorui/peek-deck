@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-14T13:42:26.124614+00:00'
+updated: '2026-09-14T19:04:06.942675+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 14, 2026 at 13:42 UTC  
+**Last Updated:** September 14, 2026 at 19:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-22h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-3h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-7h ago
+12h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 27m ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 5h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 17h ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 23h ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 3h ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 8h ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-5h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-23h ago
+1d ago
 
 ---
 
@@ -120,43 +120,15 @@ cnbc.com • 2d ago
 
 ---
 
-**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
+**[Humanoid Robots Are Coming, Here’s What Everyone Needs To Know](https://www.forbes.com/sites/bernardmarr/2026/09/14/humanoid-robots-are-coming-heres-what-everyone-needs-to-know/)**
 
-Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
-
-Interesting Engineering • 1d ago
+Forbes • 13h ago
 
 ---
 
-**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
+**[EXCLUSIVE: IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says](https://www.reuters.com/business/media-telecom/ipo-humanoid-robot-maker-boston-dynamics-unlikely-2027-executive-says-2026-09-14/)**
 
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 2d ago
-
----
-
-**[Humanoids will have their ‘GPT-3.5’ moment within 5 years, says AGIBOT co-founder Yao Maoqing](https://fortune.com/2026/09/14/humanoids-gpt-3-5-moment-agibot/)**
-
-Robot dance shows grab headlines, but China's humanoid makers are racing to find real uses in hotels and factories.
-
-Fortune • 5h ago
-
----
-
-**[Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says](https://www.ksl.com/article/51623596/exclusive-ipo-for-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says)**
-
-Boston Dynamics, Hyundai Motor Group's humanoid robot unit, is unlikely to pursue an initial public offering next year, a senior executive at the parent company with ​direct knowledge of the matter said, as it has yet to deploy its flagship Atlas robots at scale and remains unprofitable.
-
-ksl.com • 6h ago
-
----
-
-**[Laser weapons, space dogfights, and humanoid robots: The future of the battlefield](https://seekingalpha.com/news/4641536-laser-weapons-space-dogfights-and-humanoid-robots-the-future-of-the-battlefield)**
-
-Laser weapons, space warfare, and humanoid robots are reshaping defense.
-
-Seeking Alpha • 2d ago
+Reuters • 11h ago
 
 ---
 
@@ -164,21 +136,37 @@ Seeking Alpha • 2d ago
 
 MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
 
-Interesting Engineering • 7m ago
+Interesting Engineering • 5h ago
 
 ---
 
 **[Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.](https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock)**
 
-Barchart.com • 19h ago
+barchart.com • 1d ago
 
 ---
 
-**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
+**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
 
-MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
+America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
 
-The Japan Times • 3d ago
+Baton Rouge Business Report • 4h ago
+
+---
+
+**[Wonder debuts its robotic bowl maker](https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker)**
+
+The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain’s plans to automate more of its operations.
+
+Nation’s Restaurant News • 11m ago
+
+---
+
+**[From autonomous tractors to robot swarms: Elbit’s path to the battlefield of the future](https://www.ynetnews.com/tech-and-digital/article/rykyk5rkzg)**
+
+To keep pace with rapidly evolving defense tech, Israeli defense giant Elbit Systems launched Fuse, an agile startup developing drones for intelligence and strike missions and, following its acquisition of Israel’s BWR, ground robots and robotic swarms
+
+Ynetnews • 3h ago
 
 ---
 
@@ -186,7 +174,13 @@ The Japan Times • 3d ago
 
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
-The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 3d ago
+
+---
+
+**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
+
+gizmodo.com • 3d ago
 
 ---
 
@@ -200,17 +194,17 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 1.3M • 👍 12K • 💬 2K • ⏱️ 5:02 • 5d ago
+👁️ 1.4M • 👍 12K • 💬 2K • ⏱️ 5:02 • 5d ago
 
 ---
 
-**[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
 
-Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, demonstrating fully autonomous robot combat ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
 
-📺 DPCcars
+📺 PRO ROBOTS
 
-👁️ 11K • 👍 68 • 💬 34 • ⏱️ 2:18 • 6d ago
+👁️ 30K • 👍 503 • 💬 71 • ⏱️ 21:46 • 4d ago
 
 ---
 
@@ -220,17 +214,7 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 854K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
-
----
-
-**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
-
-Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
-
-📺 Expand Knowledge
-
-👁️ 79K • 👍 864 • 💬 76 • ⏱️ 26:26 • 4d ago
+👁️ 952K • 👍 4K • 💬 1K • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -240,17 +224,27 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 72K • 👍 299 • 💬 69 • ⏱️ 3:39 • 4d ago
+👁️ 73K • 👍 307 • 💬 73 • ⏱️ 3:39 • 5d ago
 
 ---
 
-**[Robotics Could Be the Next AI Infrastructure Trade - Here’s How We’re Playing It](https://www.youtube.com/watch?v=OjablaMNndk)**
+**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
 
-We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) before their big runs. Want to see what we're ...
+Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
 
-📺 Milk Road Stocks
+📺 Expand Knowledge
 
-👁️ 14K • 👍 227 • 💬 24 • ⏱️ 48:57 • 6d ago
+👁️ 79K • 👍 880 • 💬 76 • ⏱️ 26:26 • 4d ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 75K • 👍 2K • 💬 551 • ⏱️ 13:22 • 3d ago
 
 ---
 
@@ -260,17 +254,17 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 693K • 👍 11K • 💬 542 • ⏱️ 23:25 • 6d ago
+👁️ 694K • 👍 11K • 💬 542 • ⏱️ 23:25 • 6d ago
 
 ---
 
-**[A Robot Kidnapped Someone and Asked FOR HIS SKIN…](https://www.youtube.com/watch?v=VuzZF05dnJE)**
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
 
-Wait, there was a robot who woke up and started asking for HIS skin?! Sounds like a Life of Luxury video to me but somehow it's ...
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
 
-📺 LaurenZside
+📺 Cleo Abram
 
-👁️ 201K • 👍 10K • 💬 1K • ⏱️ 34:05 • 23h ago
+👁️ 34K • 👍 4K • 💬 102 • ⏱️ 0:37 • 4h ago
 
 ---
 
@@ -280,15 +274,17 @@ In August 2026, Beijing's National Speed Skating Oval transformed from a Winter 
 
 📺 Gain Theory
 
-👁️ 98K • 👍 948 • 💬 43 • ⏱️ 21:36 • 4d ago
+👁️ 98K • 👍 951 • 💬 44 • ⏱️ 21:36 • 5d ago
 
 ---
 
-**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
+**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
-📺 Kyle Krueger
+In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
-👁️ 1.6M • 👍 70K • 💬 1K • ⏱️ 0:40 • 13h ago
+📺 Steven Ndukwu
+
+👁️ 267K • 👍 3K • 💬 444 • ⏱️ 27:23 • 2d ago
 
 ---
 
