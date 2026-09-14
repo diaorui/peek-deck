@@ -15,26 +15,6 @@
       "description": null
     },
     {
-      "headline": "Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVdpZmgzVXIzUVlGbU9mTFVnVFlZZGl3WkRnSTNJZUU2VEQ1cmgtY0FNNVdnZHVRdi11VWp1cHo4ZzEzbXA0ckVTVmNTZzlMVlJPSlR4Z0lBdm03RkV5T21UVkptNEhjZlVhNC1fY1F4QzNhaDJpcXA3N1hGbzBmZEthOW5TUGZzRUZWa2lBUjk4aHZBTi1xMU5iSDdiXzAyZ2pHUlc0OVRkVHNYNDNzbWVEdw?oc=5",
-      "pub_date": 1789394566.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa1RKZ1RNM3NDOUFOUE15SWpNXzhGWExSM2hQU2V6MG1PQ2F6d0hBS2JEN3AtaGVoRkMyc1dJZGx2X09TSFkzcldvd2tVTGNPZHBPUnFGYlo1WnFwWkhJdFo1RDN3ZU5XMTF0dXV6M0dscjMydmFtQmh6NWwxQWItd2F3OHpvUkJfcktsR0FEVTd6MWt1T3NIdXhmckVWeWdGLVpvN0NmaVVGUjRzRTN2NTBwSlNZbWZIUTBvOEFydFNZZEJ3WHBQSFI1LTF1UUdKWmkyT0JpODA?oc=5",
-      "pub_date": 1789380120.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:07ae6687e094b:0-clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin (BTC) is starting the third week of September below key weekly support levels as traders eye volatility cues.Fed\u2019s Warsh seen hiking rates despite Trump pressureThe Federal Reserve takes the spotlight for risk-asset traders this week as Wednesday\u2019s decision on interest rates dictates the mo\u2026"
-    },
-    {
       "headline": "\u2018Buckle Up\u2019\u2014Bitcoin Is Suddenly Braced For An \u2018Extraordinary\u2019 Fed Price Earthquake",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -43,6 +23,46 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/14/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "What $100 in Bitcoin in 2015 is worth today",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81U0VTVkdrTGF0NlJ4UnEwNDNrcVM1VTMweGlUdk1wbDNTMk94WU1FbEVFeHhCVktOWlk2LXVScE81Z3NIYmNZR0doLU1zMWN1NFdWUVk3LUc4cWVOR1pyeXFnaDBCUQ?oc=5",
+      "pub_date": 1789422080.0,
+      "article_url": "https://qz.com/what-100-in-bitcoin-would-be-worth-today",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/pexels-shutter-speed-7634157-300x169.jpg",
+      "description": "From a $0.30 bitcoin in 2010 to buying at October 2025's all-time high, the exact math behind what $100 at 9 different moments in crypto history would actually be worth today"
+    },
+    {
+      "headline": "Has the Bitcoin Rally Fizzled Out?",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNWeEpyNUF1d0FaTG1rNFk0NlVmQ1F5QWExRk9yc21BWTBPb0xGSU0wdkEzZnhsSTdOS0cwNGVCZUstOFBKblR3RTU4clJmSFZWaG05akRYRGhuMmNhMzg3bE5zRTAtYTVZOGFPeE56TzU3MEVzTEVvdDVUQlJwXzNfX0pkXzBn?oc=5",
+      "pub_date": 1789395218.0,
+      "article_url": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFJSRGM3T3JPZC1EaEdJX2dPWnIxZTFLZ3N4ZUZrYk1JUXR3c3lNVVRFeE9nRnBWdHNFdFFONS1vZHJzNmFsOVJURW1ZS1h0RDR4LVdncG0tU2ZKOG5LcXNldU9keC1NRnVxc3ZSLTJMM2FwWDRZaW1DMWM5cjMyYTRLR1dpLTNmanZtdVpFNUs4S0Fn?oc=5",
+      "pub_date": 1789340400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-87-fed-hike-230000027.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/78149d388c30d5942724714f5fef14d06df28d8944742404e3ad7c7bc75cd2fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fd4651451e984d8fbc9fa6ef8b3226426.png",
+      "description": "Traders price an 87% chance of a Fed rate hike Wednesday as Caitlin Long argues Treasury now holds the real power."
+    },
+    {
+      "headline": "Current price of Bitcoin for September 14, 2026",
+      "source": "fortune.com",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxd3FEOXZGUEFXMEFhWmN4YlhuaE9jNUp6OU4wMmwzRU9LZjFBSDJ6VjBlcDhHRS1FbklHajcwdmJIWVZaUHB3SF9oeWs2cmRpRmtRX0NWSlRhT1ZkanpmZXhrVjk3ZGM?oc=5",
+      "pub_date": 1789391700.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-14-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-14.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
@@ -55,56 +75,36 @@
       "description": null
     },
     {
-      "headline": "Has the Bitcoin Rally Fizzled Out?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNWeEpyNUF1d0FaTG1rNFk0NlVmQ1F5QWExRk9yc21BWTBPb0xGSU0wdkEzZnhsSTdOS0cwNGVCZUstOFBKblR3RTU4clJmSFZWaG05akRYRGhuMmNhMzg3bE5zRTAtYTVZOGFPeE56TzU3MEVzTEVvdDVUQlJwXzNfX0pkXzBn?oc=5",
-      "pub_date": 1789395120.0,
-      "article_url": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a",
+      "headline": "Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVdpZmgzVXIzUVlGbU9mTFVnVFlZZGl3WkRnSTNJZUU2VEQ1cmgtY0FNNVdnZHVRdi11VWp1cHo4ZzEzbXA0ckVTVmNTZzlMVlJPSlR4Z0lBdm03RkV5T21UVkptNEhjZlVhNC1fY1F4QzNhaDJpcXA3N1hGbzBmZEthOW5TUGZzRUZWa2lBUjk4aHZBTi1xMU5iSDdiXzAyZ2pHUlc0OVRkVHNYNDNzbWVEdw?oc=5",
+      "pub_date": 1789394566.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage",
       "image": null,
       "description": null
     },
     {
-      "headline": "Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDRFZ0MyVE8wRW1nYkU2a3ljTHh4VGJrT3R6cDFELTR4eHJwcU9vUjY0QldVenY1MjlUMExMeS1DdnNJdEZHUTk2MVlCRk1rTFBDZ3V2WllyTTJzN3J5bFMzYmxqbnd5dmJ6VVhOXzlqQUljN0NXSjNFc2h0OWlRVTBzTjlmUXBNR3NzRGdJa2N4cWJnbDZkWWNR?oc=5",
-      "pub_date": 1789319111.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/analysts-think-bitcoin-less-5-170511162.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/65db158b429ba6409400bbc7823cf789880e1dc325a54eb72baa9457e3282acd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9a385619a5d5be38994330dbb5b119a1.png",
-      "description": "Bitcoin sits $4,900 below a bull market confirmation as whales sell the rally and US funds stay out. Everything you need to know."
+      "headline": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWdQS3QwTUFlRXBkY3FIWk1oSjBlcHlXMW8xOUhEM2Y5VlFjQ3JVVzF6c0txTjBSMkswSV94NlI4bTZYRy1NQk1Jdi15YkdpcVZyVFRTR0V3S3dpVEl6OXlsRDR2TWw4SWRQU3BHR0J3SW9CbzB0b2RPa2RBdndZNGpUUXjSAYoBQVVfeXFMUGl5WUJ0dVBFbHZXS0lQZU9uV2FWQ0NiSnBPMUluNnZPaUU2bFJ5aFJIemQ1amRmYlVKRUpCb2RVekFmS2YyYzhVbFQ3NnpFR01udGpxM0tvTTc5eTRmUS1adlh1NFM1SE9Qd0JmTVh6akEyODVzNHRoVGU0THY4VXA3NmdDY2lrM3ln?oc=5",
+      "pub_date": 1789145167.0,
+      "article_url": "https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108361837-1789137192360-gettyimages-2291185551-aw1a9203_y44fklha.jpeg?v=1789137385&w=1920&h=1080",
+      "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
     },
     {
-      "headline": "A Bitcoin Berkshire Model: Orange Juice",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlY1LWR5cnRXaTlBNVdpOHdwWFhXLThqRXlPRWEtcWxnb1dER3o2al8tejhZS0FtaGwxQWtBWU9DcEhfWmwyTWZUSnY2Zl8zaC1Wa3huR05iRTMxUmdETGxKSk1RYWNjNlV3YVl0NUZwbnl1X3NZZGh3NHREY19hOXFZZkNub1ZKc3hZ?oc=5",
-      "pub_date": 1789389806.0,
-      "article_url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-berkshire-orange-juice",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/orange-juice-bitcoin.png",
-      "description": "Orange Juice is a new corporate Bitcoin playbook imitating Berkshire Hathaway."
-    },
-    {
-      "headline": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged",
+      "headline": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1JHTGxVWkk3WnZFR3pqVWJxcFlBTmlZMTdWcE5Pc29uZngyTkVhTjdnRzlldVM0cXBpYXpWR0dRaVVwYUZpRkFVb0c5QTNBcy1BQ1hkTm8zMTk5bTJmTFVHLVRrVHZtVmdBTERacUJrZVZNT19yRlRuS3p0VGJVd201bVF3dDE1YUE?oc=5",
-      "pub_date": 1789387717.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
-      "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
-      "description": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap \u2014 worth roughly $66 billion."
-    },
-    {
-      "headline": "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPejJtcWM1VXlOdEZ4NUFhNW1fSGtqYWhJOUlUVFllWlhuWWZjQ1UtUXZZLUppb3ZiS3pQUUxzR29rdTFqZmlmUEJFLW82LVpleGtCWXY1TzFOaVhQTVc4aTlkOTMwSFA5WklpV0Q2T2l3eldFd2xfRE1NdmZVNVFwa3hNNmNRMDlMX3FSRlN5QmF3anc5ZUczSXJ1WGF2TThOX1pETHJOV25fZXVvTDlKZEotMHZ3QTVreDFOWUtSWk1sQW9PbUdGcHZoc3hibGNLVDU5T2pRUDM1WEhhc3k2YQ?oc=5",
-      "pub_date": 1789398000.0,
-      "article_url": "https://247wallst.com/investing/2026/09/14/coinbase-jumps-6-on-compass-point-upgrade-ahead-of-senate-clarity-act-vote-strategy-climbs-3-mara-slips/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/08/Trump-bitcoin.jpg",
-      "description": "A Senate floor vote on crypto market-structure legislation is splitting the sector in real time, lifting some names while a JPMorgan downgrade punishes a miner that Bitcoin's rally cannot save."
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHVnbHlGUVM3MHd5VE1zWWU3cWo1dWptQnV2RWRlTG1oUkpRazlHVkZVWGtmbkVUTTlWeTJERWdUeklvR1BCZFpwTk5vRmtiejk4UGVfNHVjSy1mU2xKLThPTlpUQzZlSGc4MFhvOWpyRmpUWC1JRkQtYmJNcE5mWmJXeGdOU2FWVzdaczFLa2hjR0N4aTRjM183ajdZMUpETWV0RGNaVnZiVFhPX0J3N3N0Wm9kMTdvQ1otc29ybXBsUHRTeE01akk0dkd3YUE?oc=5",
+      "pub_date": 1789408895.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+      "image": "https://www.tbstat.com/wp/uploads/2023/12/20231204_BitcoinMining_News-1200x675.jpg",
+      "description": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T19:04:04.575237+00:00"
+  "fetched_at": "2026-09-14T22:39:05.144794+00:00"
 }

@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
       "pub_date": 1789218001.0,
@@ -15,44 +15,24 @@
       "description": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders."
     },
     {
-      "headline": "Humanoid Robots Are Coming, Here\u2019s What Everyone Needs To Know",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHpFZVdoNldBVVdvMEIwMDUyQTRMR3hxYkNiV3VOLXNwNXlRZEl5eEp6LWhPcFRRR1lmNi03emZlVEQyRzJzbHJRdlpRWVdVd2VScFF2NGsycEp1NHBmSGEzYVZ5Y1djVTlET2J5U2o1YUl1aFE0enh6b252c0Ewd1pzdm1tRkx6dmtaN3NUOWtPdVNhN3NSRE1XQkpHT0NKbjlHVWhrWHkxLTdaTjBJaUZQUQ?oc=5",
-      "pub_date": 1789362830.0,
-      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/09/14/humanoid-robots-are-coming-heres-what-everyone-needs-to-know/",
-      "image": null,
-      "description": null
+      "headline": "Founder\u2019s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2xjeHlRZ1JPbXZFdTlHQmVwcTlrcUNxZHhiRHVNUURUc0daVlBMcVZhYld3QkZ6V291S1lSVFFCT3BPU0dIT0kwMFUtZDJVU1JBNEFSYnM1M0FtamlpZGFtcmN4aHhZM3B5VkJpQWVkdkI4U05qZ3VlTWx0Y3ZWN0hQQ21vX1hXZGFnUEVOM0IwV1FNYzcxVW1LT2o5aWJKeWNqZktTU3VwWFFxUFBIUQ?oc=5",
+      "pub_date": 1789414726.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-2560x1440.jpg",
+      "description": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?"
     },
     {
-      "headline": "EXCLUSIVE: IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9xNjNSb3NaNnQtX1dBNzV0WmJFTFdCRS1uLXkzQUt3OTJFTmxzWUZ0c2l2RFUxZGU1R1lKcHgydDBURVozRmlZTU41aXZvVTBuQmFfM2RUSFJFVmRnY2w4Qm1fWEFUdnpoVVFCd3o5RFRncjhaNGN3NHNVaHNqUFhFMnBJanJHM1lCSHlmTzN3dFJqT2RKY3N0TG9keUo3al94SEJCSGlnT3drTjU0UF85Rkt3YU14U21TTXZqcURKY09XUF9V?oc=5",
-      "pub_date": 1789370007.0,
-      "article_url": "https://www.reuters.com/business/media-telecom/ipo-humanoid-robot-maker-boston-dynamics-unlikely-2027-executive-says-2026-09-14/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
-      "pub_date": 1789392900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
-      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
-    },
-    {
-      "headline": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
-      "source": "barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGU4SnNyZkhVa2hkRmZSbTU2VC00RjJMTlJXM2dEWlQ0MVp5SHVSdncwZFVCa2M5SGlzdTJOUlY0ck1aRGN0Y2hfdkwtTk5obDJReDd1b2J5LU9xWFl1RmxGOUdsbDUtRVlRUHhQMjJSYmdudlhOOUR4b25tS09Hdy14RExSdF9NcFRrOE1QaUV2VFFTU051c0s4UTJTbGRGQWVTS1lwTHYxaGkzR203WEh0Vy13RTkyXzJoTlR6cktfRmF2TEJBcDNzN0p6UmJBVVZaRnBJTHdyWDR6?oc=5",
-      "pub_date": 1789324345.0,
-      "article_url": "https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock",
-      "image": null,
-      "description": null
+      "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
+      "source": "theconversation.com",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUkzRGpCV3UtWTRDSzZCN19yRFRmV3VqbjlDOGgtQWdiaWhVcVVjSDRUdWlfejllZGJXSlh3SnQzZDJzZVhHOFpGai1Ka2k2aGU1SHBJQjdBRWhRRkdhMmVZWmVTY0JEbDlfMHlyUjBxeU5NU2I1VVVIWGc2b2ZHTUJGTDRIRkxDeGF6VlhaaHducEhiRWREdTI2bXY5OFJKMFJsc0h6U2FoNWM?oc=5",
+      "pub_date": 1789398303.0,
+      "article_url": "https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813",
+      "image": "https://images.theconversation.com/files/759396/original/file-20260911-60-ff70jd.jpg?ixlib=rb-4.1.1&rect=0%2C244%2C5997%2C2998&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "The People\u2019s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses."
     },
     {
       "headline": "Robots reshape the future of homebuilding",
@@ -65,14 +45,14 @@
       "description": "America\u2019s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.\u00a0 The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion [\u2026]"
     },
     {
-      "headline": "Wonder debuts its robotic bowl maker",
-      "source": "Nation\u2019s Restaurant News",
-      "source_url": "https://www.nrn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGJITGswZHc5R0ozbDl2Z0JIWml6TVJIX0VJNy12SGExWHdKRnFGclRnUHBTa3BEa1o0dXZtYjltdG05NjgxLTZRTXNLTXVtVEtKMVIzcWh1bjZ2a3R2VmVnTGNTSHdka201UHo0SkJmQkhvMXR2dklHdmF2bEhFZk10MlY?oc=5",
-      "pub_date": 1789411951.0,
-      "article_url": "https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker",
-      "image": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt928ce88cffe00b77/6aa840a626147b4e798350d2/WONDER_MAKELINE_042.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
+      "headline": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGU4SnNyZkhVa2hkRmZSbTU2VC00RjJMTlJXM2dEWlQ0MVp5SHVSdncwZFVCa2M5SGlzdTJOUlY0ck1aRGN0Y2hfdkwtTk5obDJReDd1b2J5LU9xWFl1RmxGOUdsbDUtRVlRUHhQMjJSYmdudlhOOUR4b25tS09Hdy14RExSdF9NcFRrOE1QaUV2VFFTU051c0s4UTJTbGRGQWVTS1lwTHYxaGkzR203WEh0Vy13RTkyXzJoTlR6cktfRmF2TEJBcDNzN0p6UmJBVVZaRnBJTHdyWDR6?oc=5",
+      "pub_date": 1789324345.0,
+      "article_url": "https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock",
+      "image": null,
+      "description": null
     },
     {
       "headline": "From autonomous tractors to robot swarms: Elbit\u2019s path to the battlefield of the future",
@@ -96,15 +76,35 @@
     },
     {
       "headline": "FCC Grants First Robotics Ban Exemption to a Robomower Company",
-      "source": "gizmodo.com",
+      "source": "Gizmodo",
       "source_url": "https://gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEZyRDRONXUwNFAxU2NUWHpXRG96VG82RjBKb3d6X2JVM2Q4eU16Y0dtenJRb2VDT19DU1IxSDNYb1Vvb1lnQmZXZERjdThuTXlua0RlUS1OR0pwQmxUMzBZaXdvZHU0U2haRjVkTG1rcllWLTB3Q2phZktiRGtnTHF6djllbElQTEpLQzRSekMzNVhXb3NWdA?oc=5",
       "pub_date": 1789150254.0,
       "article_url": "https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0diZG1rbDl5RUk5eS1JMnFaNGplVnpRZkZpOGY3SDFmWDdEYkFVQlRxa19UV0RCMmlyX2piNTRPZWttck9ocDdhRXZXTWNSNDlEbmxRX0VkS1NfX3dlOWxZbHVhdlM5ZFFxLTdLSXg?oc=5",
+      "pub_date": 1789140618.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67756707&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
+      "description": "Your weekly selection of awesome robot videos"
+    },
+    {
+      "headline": "Universal Robots launches its seventh generation robot platform at IMTS",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1ZtelNXU1RvYnNuM2x4azlfNHIzSUp5QmRZNVVuVVJjWC1IdWxJLVU4SU1GMk10OE1kMThZb3JkQUxPS0YzR1dUcWtWRkRCZXp0bDRHNXZXODFlaXp3SjJiTjNlenN6TDlnd19xc3o1NTZQejl3NEFTM1hMcXF2U25DaGhIRHdNa2xiQWJiMU11aldXNjdGeXM0RUlQNnR4QXk3RjNB?oc=5",
+      "pub_date": 1789392413.0,
+      "article_url": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/09_2026_Gen-7_Jake_Images-08-featured.jpg",
+      "description": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T19:04:03.795631+00:00"
+  "fetched_at": "2026-09-14T22:39:11.622336+00:00"
 }

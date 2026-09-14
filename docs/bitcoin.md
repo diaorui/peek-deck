@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-14T19:04:06.934497+00:00'
+updated: '2026-09-14T22:39:24.145711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 14, 2026 at 19:04 UTC  
+**Last Updated:** September 14, 2026 at 22:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $78,715.52
+### $79,503.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +0.9%  
-**30d:** +25.8%  
-**90d:** +22.8%  
-**1y:** -31.4%  
+**24h:** +2.2%  
+**7d:** +0.1%  
+**30d:** +24.8%  
+**90d:** +21.8%  
+**1y:** -31.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1590.85B
+**Market Cap:** $1577.00B
 Rank #1
 
-**Circulating Supply:** 20,084,256 BTC
+**Circulating Supply:** 20,084,421 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--37.2%
+-37.7%
 
 **All-Time Low:** $67.81
-+116624.7%
++115705.9%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The debt line is almost a patient slope. The bitcoin line is a weather report: the 2018 winter, the 2021 peak, the 2022 cut, the long rise into 2025, the fall from the October high near $126,000, the recovery toward seventy-seven thousand by this Sunday.
 
-22h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ Lots of new people buy the dip then sell the moment it ticks down again. They tr
 
 I currently have a basic Trezor and a basic Ledger, and I have two separate Bitcoin wallets with two metal seed backups. I keep them well hidden, and I also have two fake seed plates stored in a safe at home as decoys. I’m worried about something happening to one of my hardware wallets, similar to what happened with Coldcard, so I’m thinking about splitting my Bitcoin holdings across four separate wallets instead of two. What hardware wallets would you recommend I buy next? I don’t want a hardware wallet with a battery because I’m a long-term Bitcoin-only holder and I barely use the wallets. They’re mainly backups, so I don’t see a need for a battery. It’s also quite difficult to buy hardware wallets in my country, so i will let my mom buy then when she travel direct from a website. What would you recommend as my next step
 
-22h ago
+1d ago
 
 ---
 
@@ -155,71 +155,71 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 **[Bitcoin's late summer rally set to face off against the Fed, Congress](https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/)**
 
-Reuters • 3h ago
-
----
-
-**[Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage](https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage)**
-
-Bloomberg.com • 5h ago
-
----
-
-**[CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:07ae6687e094b:0-clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week/)**
-
-Bitcoin (BTC) is starting the third week of September below key weekly support levels as traders eye volatility cues.Fed’s Warsh seen hiking rates despite Trump pressureThe Federal Reserve takes the spotlight for risk-asset traders this week as Wednesday’s decision on interest rates dictates the mo…
-
-TradingView • 9h ago
+Reuters • 6h ago
 
 ---
 
 **[‘Buckle Up’—Bitcoin Is Suddenly Braced For An ‘Extraordinary’ Fed Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/09/14/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/)**
 
-Forbes • 4h ago
+Forbes • 8h ago
 
 ---
 
-**[Live updates: Bitcoin climbs near $79,000 as stocks narrow declines](https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges)**
+**[What $100 in Bitcoin in 2015 is worth today](https://qz.com/what-100-in-bitcoin-would-be-worth-today)**
 
-CoinDesk • 1h ago
+From a $0.30 bitcoin in 2010 to buying at October 2025's all-time high, the exact math behind what $100 at 9 different moments in crypto history would actually be worth today
+
+qz.com • 58m ago
 
 ---
 
 **[Has the Bitcoin Rally Fizzled Out?](https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a)**
 
-WSJ • 4h ago
+WSJ • 8h ago
 
 ---
 
-**[Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market](https://finance.yahoo.com/markets/crypto/articles/analysts-think-bitcoin-less-5-170511162.html)**
+**[Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-87-fed-hike-230000027.html)**
 
-Bitcoin sits $4,900 below a bull market confirmation as whales sell the rally and US funds stay out. Everything you need to know.
+Traders price an 87% chance of a Fed rate hike Wednesday as Caitlin Long argues Treasury now holds the real power.
 
-Yahoo Finance • 1d ago
-
----
-
-**[A Bitcoin Berkshire Model: Orange Juice](https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-berkshire-orange-juice)**
-
-Orange Juice is a new corporate Bitcoin playbook imitating Berkshire Hathaway.
-
-Bitcoin Magazine • 6h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged](https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603)**
+**[Current price of Bitcoin for September 14, 2026](https://fortune.com/article/price-of-bitcoin-09-14-2026/)**
 
-Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap — worth roughly $66 billion.
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-The Block • 6h ago
+fortune.com • 9h ago
 
 ---
 
-**[Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips](https://247wallst.com/investing/2026/09/14/coinbase-jumps-6-on-compass-point-upgrade-ahead-of-senate-clarity-act-vote-strategy-climbs-3-mara-slips/)**
+**[Live updates: Bitcoin climbs near $79,000 as stocks narrow declines](https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges)**
 
-A Senate floor vote on crypto market-structure legislation is splitting the sector in real time, lifting some names while a JPMorgan downgrade punishes a miner that Bitcoin's rally cannot save.
+CoinDesk • 4h ago
 
-24/7 Wall St. • 4h ago
+---
+
+**[Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage](https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage)**
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices](https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html)**
+
+Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
+
+CNBC • 3d ago
+
+---
+
+**[Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips](https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660)**
+
+Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.
+
+The Block • 4h ago
 
 ---
 
@@ -240,14 +240,6 @@ Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trade
 Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
 
 ⬆️ 6 • 💬 0 • 2d ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
-
----
-
-**[Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys](https://news.ycombinator.com/item?id=49602430)**
-
-Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed
-
-⬆️ 4 • 💬 1 • 6d ago • [theregister](https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770)
 
 ---
 
@@ -285,13 +277,13 @@ analyses a descriptor.
 
 Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.
 
-⬆️ 2 • 💬 0 • 1d ago • [The Crypto Times](https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/)
+⬆️ 2 • 💬 0 • 2d ago • [The Crypto Times](https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/)
 
 ---
 
 **[Keystone's Independent Analysis of the Coldcard Exploit](https://news.ycombinator.com/item?id=49649605)**
 
-⬆️ 1 • 💬 0 • 3d ago • [keystone.com](https://www.keystone.com/case-studies/following-the-bitcoin-inside-keystones-independent-analysis-of-the-coldcard-exploit)
+⬆️ 1 • 💬 0 • 4d ago • [keystone.com](https://www.keystone.com/case-studies/following-the-bitcoin-inside-keystones-independent-analysis-of-the-coldcard-exploit)
 
 ---
 
@@ -299,23 +291,13 @@ Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized 
 
 ## YouTube Videos: "bitcoin"
 
-**[Trillions Flooding Into Bitcoin on September 15?!](https://www.youtube.com/watch?v=yXk-3GkSbLc)**
+**[Bitcoin’s Next BIG Move Could Be Decided In The Next 48 Hours | Jordi Visser &amp; Jim Bianco](https://www.youtube.com/watch?v=-e_b5T3-g4I)**
 
-September 15 could become a major turning point for Bitcoin. The Clarity Act could unlock trillions in liquidity, establish clear rules ...
+Bitcoin is holding near $78K even as AI fears hit global stocks, while markets now price an 85% chance of a Fed rate hike this ...
 
-📺 Simply Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 38K • 👍 2K • 💬 182 • ⏱️ 13:47 • 19h ago
-
----
-
-**[WARNING: AI Meltdown Begins....Can Bitcoin Hold?](https://www.youtube.com/watch?v=GVt4G7U2hQs)**
-
-AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
-
-📺 CryptosRUs
-
-👁️ 14K • 👍 630 • 💬 71 • ⏱️ 46:11 • 4h ago
+👁️ 38K • 👍 1K • 💬 405 • ⏱️ 1:05:23 • 8h ago
 
 ---
 
@@ -325,37 +307,57 @@ The CLARITY Act vote is tomorrow, and Bitcoin is bracing for the move. Trade alo
 
 📺 Verified Investing
 
-👁️ 2K • 👍 257 • 💬 5 • ⏱️ 19:24 • 1h ago
+👁️ 9K • 👍 438 • 💬 16 • ⏱️ 19:24 • 4h ago
 
 ---
 
-**[&quot;Regulatory Skies Clearing&quot; for Crypto? Tyrone Ross, Jr. on Bitcoin&#39;s Path Ahead](https://www.youtube.com/watch?v=EBkNomarPkg)**
+**[The Clarity Act Vote: What&#39;s at stake for crypto?](https://www.youtube.com/watch?v=aGSdeAqzpSU)**
 
-Tyrone Ross, Jr. discusses the regulatory path ahead for Bitcoin and other cryptocurrencies, which he sees clearing as institutions ...
+The Senate votes on cloture for the Clarity Act on Tuesday at 2:15pm ET, and it needs 60 votes to proceed. Republicans hold 53 ...
 
-📺 Schwab Network
+📺 Yahoo Finance
 
-👁️ 12K • 👍 77 • 💬 6 • ⏱️ 7:52 • 23h ago
-
----
-
-**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
-
-Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 93K • 👍 3K • 💬 329 • ⏱️ 39:00 • 1d ago
+👁️ 2K • 👍 100 • 💬 83 • ⏱️ 6:38 • 1h ago
 
 ---
 
-**[BITCOIN: THIS CHANGES EVERYTHING...](https://www.youtube.com/watch?v=JNU4iGisycw)**
+**[WARNING: AI Meltdown Begins....Can Bitcoin Hold?](https://www.youtube.com/watch?v=GVt4G7U2hQs)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
 
-📺 Crypto Rover
+📺 CryptosRUs
 
-👁️ 17K • 👍 625 • 💬 32 • ⏱️ 11:03 • 12h ago
+👁️ 21K • 👍 688 • 💬 93 • ⏱️ 46:11 • 7h ago
+
+---
+
+**[Trillions Flooding Into Bitcoin on September 15?!](https://www.youtube.com/watch?v=yXk-3GkSbLc)**
+
+September 15 could become a major turning point for Bitcoin. The Clarity Act could unlock trillions in liquidity, establish clear rules ...
+
+📺 Simply Bitcoin
+
+👁️ 42K • 👍 2K • 💬 192 • ⏱️ 13:47 • 22h ago
+
+---
+
+**[BITCOIN *SLOPPY SPECIAL* BREAKOUT SIGNAL ...CRYPTO CLARITY AND FOMC BREAKOUT THIS WEEK](https://www.youtube.com/watch?v=0GVxnGhX5fw)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 10K • 👍 571 • 💬 166 • ⏱️ 14:18 • 7h ago
+
+---
+
+**[BREAKING: The Clarity Act is BACK and Will FORCE Bitcoin to EXPLODE!!! | EP 1591](https://www.youtube.com/watch?v=cFVQWFyHj1s)**
+
+Clarity Act dropped last night and has a final last minute chance to cloture ...
+
+📺 Simply Bitcoin
+
+👁️ 9K • 👍 279 • 💬 61 • ⏱️ 1:10:05 • 4h ago
 
 ---
 
@@ -365,37 +367,27 @@ Crypto Clarity Act just got legs. Over the weekend Trump agreed to the ethics re
 
 📺 Crypto Capital Venture
 
-👁️ 7K • 👍 598 • 💬 202 • ⏱️ 9:03 • 4h ago
+👁️ 20K • 👍 801 • 💬 257 • ⏱️ 9:03 • 8h ago
 
 ---
 
-**[Bitcoin Could Hit $102k in Q4](https://www.youtube.com/watch?v=sWowB0wxyCU)**
+**[BITCOIN: HIGHER HIGHER HIGHER!!!!!](https://www.youtube.com/watch?v=nQfqwnl9Mz0)**
 
-Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
+KALSHI PERPS DEAL (scroll down a bit): https://www.bullmania.com/partners Newsletter: https://bullmania.com/subscribe ...
 
-📺 Crypto Banter
+📺 Ivan on Tech
 
-👁️ 26K • 👍 448 • 💬 24 • ⏱️ 43:02 • 2d ago
-
----
-
-**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
-
-Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
-
-📺 Altcoin Daily
-
-👁️ 84K • 👍 2K • 💬 286 • ⏱️ 11:37 • 2d ago
+👁️ 34K • 👍 1K • 💬 70 • ⏱️ 1:04:10 • 12h ago
 
 ---
 
-**[Bitcoin Is Coming For A $1.2 Quadrillion Market | Mark Moss](https://www.youtube.com/watch?v=QfJXV85FMrk)**
+**[Bitcoin Bull Market CONFIRMED — 3 Altcoins I’m Watching Right Now (Get Bullish NOW!)](https://www.youtube.com/watch?v=lDC6LHyAzmU)**
 
-Bitcoin #Crypto #finance Mark Moss joins the show to break down Bitcoin's sharp rebound, why institutional buyers accumulated ...
+Summary: Bitcoin (BTC) has officially flipped into a confirmed bullish trend on the weekly Money Line, signaling that the next ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Casey
 
-👁️ 37K • 👍 796 • 💬 303 • ⏱️ 58:14 • 2d ago
+👁️ 38K • 👍 2K • 💬 138 • ⏱️ 13:55 • 1d ago
 
 ---
 
