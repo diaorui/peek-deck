@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-13T23:20:58.133347+00:00'
+updated: '2026-09-14T01:24:40.140319+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 13, 2026 at 23:20 UTC  
+**Last Updated:** September 14, 2026 at 01:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -0.8%  
-**30d:** +31.3%  
-**90d:** +38.0%  
-**1y:** -46.3%  
+**24h:** -1.8%  
+**7d:** -0.3%  
+**30d:** +32.0%  
+**90d:** +41.5%  
+**1y:** -45.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $301.66B
+**Market Cap:** $302.32B
 Rank #2
 
 **Circulating Supply:** 122,044,302 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.0%
+-49.9%
 
 **All-Time Low:** $0.43
-+570759.1%
++571955.5%
 
 ---
 
@@ -102,7 +102,7 @@ Variable rates are still the default for most onchain credit. That makes leverag
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 3d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 4d ago
 
 ---
 
@@ -162,7 +162,7 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 Harmony has proposed ending its independent Layer 1 blockchain due to severe attacks and shifting focus to a new AI video project on Ethereum. Validators may stop running nodes by September 10, 2026, with a token migration that snapshots ONE tokens and airdrops new ERC-20 tokens on Ethereum. The team offers incentives for validators to become governors in the new project, which centers on AI-driven video remixing and operator revenue. The plan follows a major exploit in August and marks a strategic pivot from maintaining the original chain to rebuilding on Ethereum.
 
-Pluang • 2h ago
+Pluang • 4h ago
 
 ---
 
@@ -178,7 +178,15 @@ Yahoo Finance • 1d ago
 
 Ethereum (ETH) is set to break its longest losing streak on record, a prediction Bitmine Immersion (BMNR) chairman Tom Lee already made back in August.The second-largest cryptocurrency fell by nearly 29% in the fourth quarter of 2025, roughly 30% in the first quarter of 2026, and nearly 26% in the…
 
-TradingView • 7h ago
+TradingView • 9h ago
+
+---
+
+**[New Crypto: Pepeto Announces $10.96M Raised While Ethereum Price Prediction Climbs to $40,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-10-96m-raised-while-ethereum-price-prediction-climbs-to-40-000-1036541062)**
+
+DUBAI, United Arab Emirates, Sept.  12, 2026  (GLOBE NEWSWIRE) -- Ethereum based crypto Pepeto announced its newest presale update, and the number...
+
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -186,7 +194,7 @@ TradingView • 7h ago
 
 Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
 
-AMBCrypto • 23h ago
+AMBCrypto • 1d ago
 
 ---
 
@@ -198,17 +206,19 @@ blockchain.news • 1d ago
 
 ---
 
-**[Attention BTC, ETH developers: Quantum attack estimate for bitcoin and ethereum drops more than 50%](https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50)**
-
-CoinDesk • 3d ago
-
----
-
 **[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
 
 A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack](https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121)**
+
+The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.
+
+The Block • 3d ago
 
 ---
 
@@ -220,17 +230,19 @@ Stocktwits • 2d ago
 
 ---
 
-**[Ethereum Price Prediction: ETH Rips 33% as Whales Load Up, and Pepeto's $10.9M Presale Offers ETH's 2014 Entry Again](https://financefeeds.com/ethereum-price-prediction-eth-rips-33-as-whales-load-up-and-pepetos-10-9m-presale-offers-eths-2014-entry-again/)**
-
-Anyone reading an ethereum price prediction this week wants proof the rebound is real before adding more. ETH ripped 33% higher from August 11 to September
-
-financefeeds.com • 21h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
+
+BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 487 • 👍 46 • 💬 16 • ⏱️ 17:07 • 37m ago
+
+---
 
 **[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
 
@@ -238,7 +250,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 291 • 💬 23 • ⏱️ 15:15 • 9h ago
+👁️ 9K • 👍 300 • 💬 23 • ⏱️ 15:15 • 12h ago
 
 ---
 
@@ -248,27 +260,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 27K • 👍 590 • 💬 88 • ⏱️ 7:35 • 1d ago
-
----
-
-**[ETH MASSIVE BREAKOUT IS COMING - Get Ready](https://www.youtube.com/watch?v=95M9DjBnPSY)**
-
-ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ MAXFI Tutorials: ...
-
-📺 Big Time Trades
-
-👁️ 5K • 👍 113 • 💬 16 • ⏱️ 21:47 • 1d ago
-
----
-
-**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
-
-John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
-
-📺 The Rollup
-
-👁️ 31K • 👍 527 • 💬 95 • ⏱️ 22:54 • 1d ago
+👁️ 28K • 👍 589 • 💬 89 • ⏱️ 7:35 • 1d ago
 
 ---
 
@@ -278,7 +270,17 @@ CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with R
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 262 • 💬 10 • ⏱️ 6:51 • 1d ago
+👁️ 7K • 👍 263 • 💬 10 • ⏱️ 6:51 • 1d ago
+
+---
+
+**[ETH MASSIVE BREAKOUT IS COMING - Get Ready](https://www.youtube.com/watch?v=95M9DjBnPSY)**
+
+ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ MAXFI Tutorials: ...
+
+📺 Big Time Trades
+
+👁️ 5K • 👍 114 • 💬 16 • ⏱️ 21:47 • 1d ago
 
 ---
 
@@ -292,13 +294,23 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 ---
 
-**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
 
-Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
 
-📺 Crypto Capital Venture
+📺 The Modern Investor
 
-👁️ 27K • 👍 700 • 💬 489 • ⏱️ 17:30 • 2d ago
+👁️ 14K • 👍 875 • 💬 387 • ⏱️ 31:34 • 2d ago
+
+---
+
+**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+
+John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+
+📺 The Rollup
+
+👁️ 31K • 👍 536 • 💬 96 • ⏱️ 22:54 • 2d ago
 
 ---
 
@@ -308,17 +320,7 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 997 • 💬 56 • ⏱️ 11:43 • 2d ago
-
----
-
-**[BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=4VY9db8fH2c)**
-
-BITCOIN: The Calm Before the Storm (GET READY)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 359 • 💬 210 • ⏱️ 17:26 • 1d ago
+👁️ 45K • 👍 1K • 💬 56 • ⏱️ 11:43 • 2d ago
 
 ---
 

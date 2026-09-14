@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-13T23:20:58.136546+00:00'
+updated: '2026-09-14T01:24:40.143476+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 13, 2026 at 23:20 UTC  
+**Last Updated:** September 14, 2026 at 01:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,9 +118,9 @@ CNBC • 1d ago
 
 ---
 
-**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+**[Humanoid Robots And The Cyborg Future Of Human-Machine Integration](https://www.forbes.com/sites/chuckbrooks/2026/09/13/humanoid-robots-and-the-cyborg-future-of-human-machine-integration/)**
 
-Bloomberg.com • 3d ago
+Forbes • 5h ago
 
 ---
 
@@ -132,23 +132,15 @@ CNBC • 2d ago
 
 ---
 
-**[Humanoid Robots And The Cyborg Future Of Human-Machine Integration](https://www.forbes.com/sites/chuckbrooks/2026/09/13/humanoid-robots-and-the-cyborg-future-of-human-machine-integration/)**
+**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
 
-Forbes • 3h ago
-
----
-
-**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
-
-Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
-
-Interesting Engineering • 9h ago
+Bloomberg.com • 3d ago
 
 ---
 
 **[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
 
-reuters.com • 3d ago
+Reuters • 3d ago
 
 ---
 
@@ -166,9 +158,9 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
-**[UT Austin launches $30 million effort to study what happens when robots move into everyday life](https://www.kxan.com/news/local/ut-austin-launches-30-million-effort-to-study-what-happens-when-robots-move-into-everyday-life/)**
+**[Zuila Services Expands Robotics Engineering Services in Birmingham](https://www.nbcrightnow.com/online_features/press_releases/zuila-services-expands-robotics-engineering-services-in-birmingham/article_2012aaeb-1b55-5a18-829b-1baefdb7e919.html)**
 
-KXAN Austin • 2d ago
+Nonstop Local News • 1d ago
 
 ---
 
@@ -180,9 +172,27 @@ TechCrunch • 3d ago
 
 ---
 
+**[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
+
+MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
+
+The Japan Times • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+
+Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+
+📺 America's Got Talent
+
+👁️ 1.2M • 👍 12K • 💬 2K • ⏱️ 5:02 • 4d ago
+
+---
 
 **[Unitree Humanoid Robots Can Now Fight Fully Autonomously](https://www.youtube.com/watch?v=8EtORVQj41w)**
 
@@ -194,23 +204,13 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 ---
 
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
-
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
-
-📺 America's Got Talent
-
-👁️ 1.2M • 👍 11K • 💬 2K • ⏱️ 5:02 • 4d ago
-
----
-
 **[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
 
 Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
 
 📺 Expand Knowledge
 
-👁️ 77K • 👍 828 • 💬 75 • ⏱️ 26:26 • 4d ago
+👁️ 77K • 👍 834 • 💬 75 • ⏱️ 26:26 • 4d ago
 
 ---
 
@@ -220,7 +220,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 678K • 👍 10K • 💬 534 • ⏱️ 23:25 • 5d ago
+👁️ 679K • 👍 10K • 💬 536 • ⏱️ 23:25 • 5d ago
 
 ---
 
@@ -230,7 +230,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 69K • 👍 283 • 💬 66 • ⏱️ 3:39 • 4d ago
+👁️ 69K • 👍 286 • 💬 69 • ⏱️ 3:39 • 4d ago
 
 ---
 
@@ -250,7 +250,7 @@ In August 2026, Beijing's National Speed Skating Oval transformed from a Winter 
 
 📺 Gain Theory
 
-👁️ 97K • 👍 943 • 💬 43 • ⏱️ 21:36 • 4d ago
+👁️ 97K • 👍 945 • 💬 43 • ⏱️ 21:36 • 4d ago
 
 ---
 
@@ -260,7 +260,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 66K • 👍 2K • 💬 522 • ⏱️ 13:22 • 2d ago
+👁️ 67K • 👍 2K • 💬 525 • ⏱️ 13:22 • 2d ago
 
 ---
 
@@ -270,17 +270,15 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 429K • 👍 4K • 💬 336 • ⏱️ 5:52 • 4d ago
+👁️ 430K • 👍 4K • 💬 340 • ⏱️ 5:52 • 4d ago
 
 ---
 
-**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
+**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
 
-Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
+📺 Kyle Krueger
 
-📺 NBC News
-
-👁️ 653K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
+👁️ 193K • 👍 10K • 💬 333 • ⏱️ 0:40 • 1h ago
 
 ---
 
