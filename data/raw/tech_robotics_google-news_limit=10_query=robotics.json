@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
       "pub_date": 1789218001.0,
@@ -25,14 +25,34 @@
       "description": "Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work."
     },
     {
-      "headline": "Humanoids\u2019 First Mass Market: The Night Shift America Can\u2019t Staff",
-      "source": "InvestorPlace",
-      "source_url": "https://investorplace.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVppbC16b2F0OFJUMHAxVXQtT0RWX0dnU2xUNkFBMHVkam9LOWNxbU5paGRPZFgwLTRqUHRRNWZVUC03ODdPUzhIeHJXbGxiRVYxS09Icm5INlk5My1iQnpfeHFMdzBfREFPYUQtQjJtSDFyajh5LTNVeFNKR3hmUlJENVljZTBYYk1BcEVIWURoemJSNGF0WjdYVXd2aEwycDE1VHd3?oc=5",
-      "pub_date": 1789304313.0,
-      "article_url": "https://investorplace.com/hypergrowthinvesting/2026/09/the-50-trillion-robot-boom-starts-at-10-an-hour/",
-      "image": "https://investorplace.com/wp-content/uploads/2026/09/humanoid-robots-assembly-line-1600.png",
-      "description": "Humanoid robots could soon cost less than factory labor, opening a Physical AI market across chips, sensors, motors, and software."
+      "headline": "Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0diZG1rbDl5RUk5eS1JMnFaNGplVnpRZkZpOGY3SDFmWDdEYkFVQlRxa19UV0RCMmlyX2piNTRPZWttck9ocDdhRXZXTWNSNDlEbmxRX0VkS1NfX3dlOWxZbHVhdlM5ZFFxLTdLSXg?oc=5",
+      "pub_date": 1789140604.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.gif?id=67756707&width=1200&height=600&coordinates=0%2C128%2C0%2C128",
+      "description": "Your weekly selection of awesome robot videos"
+    },
+    {
+      "headline": "Humanoids will have their \u2018GPT-3.5\u2019 moment within 5 years, says AGIBOT co-founder Yao Maoqing",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQVg2MEVva3NjN3dJNmZ4VlFMWmlBaWZFd3BxZzlraFI5UjlRcFJfMTZIWkhEUm5xNmN2QloyLTZGRkpSWElRQ1B5Y3p4WGZlWk5BYUhBa0tVNmc1OV9YS01kV3p3RUI4MDNqbktlUlo?oc=5",
+      "pub_date": 1789373700.0,
+      "article_url": "https://fortune.com/2026/09/14/humanoids-gpt-3-5-moment-agibot/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/55515292424_84848b1763_o.jpg?resize=1200,600",
+      "description": "Robot dance shows grab headlines, but China's humanoid makers are racing to find real uses in hotels and factories."
+    },
+    {
+      "headline": "Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says",
+      "source": "ksl.com",
+      "source_url": "https://www.ksl.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnVRNkZpRkM5TXhhempRWDlrZ21UOXFrcDRvd3lvZ2t1c3k0V0pVcXNFNmFxRzJaWm1sN3BhVnpKUTZWcFpHenJyMk03SjZhcVB6TkN0OU9CYWhvLXBJc3Vzako1TG9ubEZ3ZG5uWHI5eFo0RVFtaDhMTFktNkNObU1CbWpyNWszQkk2MnpVb19IdmFFbzdVTnhBU3J4NGtwOWFOQThYZnJOUUZHOWhKWHVlN1lFNGRHZWNBb3N6TGU?oc=5",
+      "pub_date": 1789370208.0,
+      "article_url": "https://www.ksl.com/article/51623596/exclusive-ipo-for-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says",
+      "image": "https://img.ksl.com/slc/3201/320174/32017499.JPG?filter=kslv2/responsive_story_lg",
+      "description": "Boston Dynamics, Hyundai Motor Group's humanoid robot unit, is unlikely to pursue an initial public offering next year, a senior executive at the parent company with \u200bdirect knowledge of the matter said, as it has yet to deploy its flagship Atlas robots at scale and remains unprofitable."
     },
     {
       "headline": "Laser weapons, space dogfights, and humanoid robots: The future of the battlefield",
@@ -45,44 +65,14 @@
       "description": "Laser weapons, space warfare, and humanoid robots are reshaping defense."
     },
     {
-      "headline": "Robots 'protest' outside Poland ministry demanding AI oversight",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CX0I4Y3ZaVDJHX0ItSnlIdDRNMnlUNUphcTEyU2Y3OHpwZlJJeE1RRFl6X0VicXp2a0NyOGlhOTQ5Z09scXVOeU1yWDV2aUoyWlNleHQzQ1BsV1U4VzlaQm1ZWXhZems?oc=5",
-      "pub_date": 1789070843.0,
-      "article_url": "https://www.reuters.com/video/watch/idRW184610092026RP1/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Engineering The Future Expands Its Robotics Engineering Services in Orlando",
-      "source": "WKOW",
-      "source_url": "https://www.wkow.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZGU1cmtiQlRNMzU1TkNTS3JLWjcwcmNkbDlyTjV1cFI1U3dmNy1kWThsRzV5VUpZb3BEWVRkOEszaVBaTTg3NXhsRG8tTmhIQjEzc1dQWjNwZ3VvSFBCdFVBd0tzUkFXd3FBOWZaYTlFbzY5V1lZSHQzbTVBRmdnOVJGTXAtT2NMMHEybHNUWmNZdEVtVFhia2hud0REcTdaYWVCaG1ZaU5BMWpUT1ktSm1xZ3YtRHNTczdaREk1ZlFRREJkYXBEM2hJbFhYRi1McnZKZVZ2Z3pzSDJURkpLczhxSWVDalg2YmktNTdVcGF5QjQyczFoc3VldWRxdlQ5YWtoR2pWcEY?oc=5",
-      "pub_date": 1789192802.0,
-      "article_url": "https://www.wkow.com/online_features/press_releases/engineering-the-future-expands-its-robotics-engineering-services-in-orlando/article_27896e7a-85bd-56e3-b2e9-6219910b17ae.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/0/ec/0ecf0ad1-d0e5-5616-bcd5-3161f3a66429/6aa6515827966.image.jpg?crop=686%2C360%2C197%2C0",
-      "description": null
-    },
-    {
-      "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
-      "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
-      "source_url": "https://thediplomat.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTV4Z3dSUklrdDlHd00yZWNpRVVwUlZGUm9sNUw1cjlPS3kzOTl5anVpaGpVeUJfakllQjh5YkR3V1BhZW9aUU9VYmFJYWhsYkNYeTJWTjh0cXdvVGJMT2xMU29wcWdaRi1WX1ZBQ1ZfZ180alJ1OURqYlZBV1c3NVFNTU1Xc2plUzNHZEZfSzFKcGNQbFBiX284bV85Wl82a0gzZV9B?oc=5",
-      "pub_date": 1789139369.0,
-      "article_url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
-      "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-11-234520.jpg",
-      "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
-    },
-    {
-      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
-      "source": "The Japan Times",
-      "source_url": "https://www.japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
-      "pub_date": 1789094340.0,
-      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
-      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
+      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
+      "pub_date": 1789392900.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
+      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
     },
     {
       "headline": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Zuila Services Expands Robotics Engineering Services in Birmingham",
-      "source": "WKOW",
-      "source_url": "https://www.wkow.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbEtoTlcxN2I2WTZqOVQxLWlWZi1GUWhORXRkanBCRWVGdGZlMWJvR3JmSjM4MnB6SmlwRUpaVHlJS2tINkdfdjdwMC1HWUU0UVV5dnN4NHdRd1gxeE1QQkM4Vk5PVUswSmd3S2ZpOFVtZFNucDB6dDFhLVFISE1IUUE3ZUxDdVc0eTBLRzhhUWFWa2ZjS2htdC1YNmpJQ2Q2c3RaMDhfOXh4UEdqT3dmU3lid2w3ZmpSQlV5Y1NaVElXaXBNTi10R1NwbzlDX2RmYl84WGhSOFZqMzBUVUM1NGJQcUd6Y0R6V1dEdUVMNEZuQjd4M0l6emVSUy0?oc=5",
-      "pub_date": 1789190702.0,
-      "article_url": "https://www.wkow.com/online_features/press_releases/zuila-services-expands-robotics-engineering-services-in-birmingham/article_09f1ace6-7ad6-5c62-aff2-aab251dad0c8.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/1/61/1611ea88-6fc1-5db6-a9cb-9c70839d8eae/6aa6515bc9452.image.jpg?crop=1024%2C538%2C0%2C19",
-      "description": null
+      "headline": "Japanese startup bets Iron Man-inspired homes can beat humanoids",
+      "source": "The Japan Times",
+      "source_url": "https://www.japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDA1bDhpd2NkYnl4RnFZY2ljbTRVWWQwZ0R4LXYyWnptOEhMd3FyazZzMGZwZEt1QXYxQ1RIeXl4SlMyVTVmck92eDFMaG0zU2RoZnNNeXh0VGFHOW5XR0cwYkdlZS1lYUFLR29BNWc1b1JJc3A5cEVLa0Q0dkduMjBNQXBoVzBLWGpGdXFn?oc=5",
+      "pub_date": 1789094340.0,
+      "article_url": "https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562515.jpg?v=3.1",
+      "description": "MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035."
+    },
+    {
+      "headline": "AI, Robotics and the Coming Economic, Military, and Political Revolutions",
+      "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+      "source_url": "https://thediplomat.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTV4Z3dSUklrdDlHd00yZWNpRVVwUlZGUm9sNUw1cjlPS3kzOTl5anVpaGpVeUJfakllQjh5YkR3V1BhZW9aUU9VYmFJYWhsYkNYeTJWTjh0cXdvVGJMT2xMU29wcWdaRi1WX1ZBQ1ZfZ180alJ1OURqYlZBV1c3NVFNTU1Xc2plUzNHZEZfSzFKcGNQbFBiX284bV85Wl82a0gzZV9B?oc=5",
+      "pub_date": 1789139369.0,
+      "article_url": "https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/",
+      "image": "https://thediplomat.com/wp-content/uploads/2026/09/sizes/td-story-s-2/thediplomat_2026-09-11-234520.jpg",
+      "description": "In the context of ongoing transformations to the economy, society, and military, China\u2019s current strategy is particularly alarming, and potentially transformational."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T06:47:29.951929+00:00"
+  "fetched_at": "2026-09-14T13:42:12.622303+00:00"
 }

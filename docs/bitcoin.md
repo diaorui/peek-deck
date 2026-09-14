@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-14T06:47:31.073467+00:00'
+updated: '2026-09-14T13:42:26.115367+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 14, 2026 at 06:47 UTC  
+**Last Updated:** September 14, 2026 at 13:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $77,734.74
+### $77,848.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.9%  
-**30d:** +23.6%  
-**90d:** +20.6%  
-**1y:** -32.5%  
+**24h:** +1.0%  
+**7d:** -0.6%  
+**30d:** +24.0%  
+**90d:** +21.0%  
+**1y:** -32.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1559.98B
+**Market Cap:** $1566.90B
 Rank #1
 
-**Circulating Supply:** 20,084,093 BTC
+**Circulating Supply:** 20,084,115 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--38.4%
+-38.0%
 
 **All-Time Low:** $67.81
-+114428.8%
++115111.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Even without the order I don't think so..](https://www.reddit.com/r/Bitcoin/comments/1wf27c2/even_without_the_order_i_dont_think_so/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 The debt line is almost a patient slope. The bitcoin line is a weather report: the 2018 winter, the 2021 peak, the 2022 cut, the long rise into 2025, the fall from the October high near $126,000, the recovery toward seventy-seven thousand by this Sunday.
 
-10h ago
+17h ago
 
 ---
 
 **[Bitcoin Renaissance](https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -101,7 +101,7 @@ The debt line is almost a patient slope. The bitcoin line is a weather report: t
 
 Lots of new people buy the dip then sell the moment it ticks down again. They treat every small move like it means the end is near. Bitcoin rewards patience more than timing. I learned that the hard way a few cycles ago. Stick to what you understand about the network and ignore the noise.
 
-14h ago
+21h ago
 
 ---
 
@@ -109,13 +109,13 @@ Lots of new people buy the dip then sell the moment it ticks down again. They tr
 
 I currently have a basic Trezor and a basic Ledger, and I have two separate Bitcoin wallets with two metal seed backups. I keep them well hidden, and I also have two fake seed plates stored in a safe at home as decoys. I’m worried about something happening to one of my hardware wallets, similar to what happened with Coldcard, so I’m thinking about splitting my Bitcoin holdings across four separate wallets instead of two. What hardware wallets would you recommend I buy next? I don’t want a hardware wallet with a battery because I’m a long-term Bitcoin-only holder and I barely use the wallets. They’re mainly backups, so I don’t see a need for a battery. It’s also quite difficult to buy hardware wallets in my country, so i will let my mom buy then when she travel direct from a website. What would you recommend as my next step
 
-10h ago
+17h ago
 
 ---
 
 **[Lambos are temporary, the dip is forever.](https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -123,7 +123,7 @@ I currently have a basic Trezor and a basic Ledger, and I have two separate Bitc
 
 I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m assuming that this transaction bypasses the need for exchanges like Crypto.com, which in turn, allows me to purchase Bitcoin for a bit cheaper, since there is no spread. Does anyone else do this?
 
-13h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m as
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-23h ago
+1d ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
 
-17h ago
+1d ago
 
 ---
 
@@ -153,33 +153,69 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 ## Google News: "bitcoin"
 
-**[Shock Leak Reveals An 'Extraordinary' Fed Earthquake Could Be About To Hit The Bitcoin Price](https://www.forbes.com/sites/digital-assets/2026/09/13/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/)**
-
-forbes.com • 19h ago
-
----
-
 **[Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty](https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568)**
 
 Blockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds.
 
-The Block • 8h ago
+The Block • 15h ago
 
 ---
 
-**[MicroStrategy's Bitcoin Guide Issues a 93% Crash Warning to Investors](https://finance.yahoo.com/markets/crypto/articles/microstrategys-bitcoin-guide-issues-93-101501318.html)**
+**[Bitcoin activity, passports exposed after Revolut falls for fake government request](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request)**
 
-MicroStrategy's Bitcoin guide warns of a 93% crash. Strategy sits just 2% above its own cost on 845,050 BTC.
-
-finance.yahoo.com • 20h ago
+CoinDesk • 2d ago
 
 ---
 
-**[An undercover German reporter posed as a Putin superfan online. Suspected Russian agents quickly offered her Bitcoin to run local errands.](https://meduza.io/en/feature/2026/09/14/an-undercover-german-reporter-posed-as-a-putin-superfan-online-suspected-russian-agents-quickly-offered-her-bitcoin-to-run-local-errands)**
+**[Bitcoin is helping build a historic tall ship in San Diego](https://www.axios.com/local/san-diego/2026/09/14/san-diego-mission-bay-pilgrim-iii-tall-ship-floating-classroom)**
 
-German journalist Angelique Geray posed as a fan of Vladimir Putin on social media while investigating how covert Russian agents operate in Germany. A documentary chronicling the investigation aired on the German television network RTL in early September.
+Axios • 11m ago
 
-Meduza • 7h ago
+---
+
+**[Biggest Macro Risk for Bitcoin Presents for the First Time Since 2006](https://finance.yahoo.com/markets/crypto/articles/biggest-macro-risk-bitcoin-presents-125221257.html)**
+
+The Fed, ECB, and Bank of Japan may tighten together for the first time since 2006, reviving Bitcoin's biggest macro risk.
+
+Yahoo Finance • 50m ago
+
+---
+
+**[Michael Saylor's Strategy Goes 3 Weeks Without Touching Bitcoin Stash, Keeps Buying STRC Stock](https://finance.yahoo.com/markets/stocks/articles/michael-saylors-strategy-goes-3-124544057.html)**
+
+Strategy left its Bitcoin holdings unchanged at approximately 845,050 coins for a third consecutive week.
+
+Yahoo Finance • 56m ago
+
+---
+
+**[Bitcoin's late summer rally set to face off against the Fed, Congress](https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/)**
+
+Reuters • 2h ago
+
+---
+
+**[CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week](https://www.tradingview.com/news/cointelegraph:07ae6687e094b:0-clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week/)**
+
+Bitcoin (BTC) is starting the third week of September below key weekly support levels as traders eye volatility cues.Fed’s Warsh seen hiking rates despite Trump pressureThe Federal Reserve takes the spotlight for risk-asset traders this week as Wednesday’s decision on interest rates dictates the mo…
+
+TradingView • 3h ago
+
+---
+
+**[Bitcoin at risk of a "sell the fact" reaction on the CLARITY Act vote as FOMC decision looms](https://investinglive.com/cryptocurrency/bitcoin-at-risk-of-a-sell-the-fact-reaction-on-the-clarity-act-vote-as-fomc-decision-looms/)**
+
+Bitcoin has remained resilient despite hotter US inflation, rising oil prices and a hawkish repricing of Fed rate expectations. The upcoming CLARITY Act…
+
+investingLive • 3h ago
+
+---
+
+**[5 Best Bitcoin Casinos 2026 – Top Bitcoin Sites for Faster Deposits & Payouts](https://muddyriversports.com/sponsored-content/5-best-bitcoin-casinos-2026-top-bitcoin-sites-for-faster-deposits-payouts/20260913213000/)**
+
+5 Top Bitcoin & Crypto Casinos Listed Casinos Welcome Bonus Ratings ↪️ mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 ⭐ ↪️ JACK.com 100 Wager-Free Spins 4.8/5 ⭐ ↪️ Thunderpick 100% Match Bonus up to €2,000 4.8/5 ⭐ ↪️ BitStarz Up to 5 BTC + 180 Free Spins 4.7/5 ⭐ ↪️ Lucky...
+
+muddyriversports.com • 11h ago
 
 ---
 
@@ -187,41 +223,7 @@ Meduza • 7h ago
 
 Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.
 
-CNBC • 2d ago
-
----
-
-**[Crypto firm Bitcoin Suisse to cut up to half of jobs in Switzerland](https://www.reuters.com/business/world-at-work/crypto-firm-bitcoin-suisse-cut-up-half-jobs-switzerland-2026-09-11/)**
-
-Reuters • 2d ago
-
----
-
-**[Bitcoin activity, passports exposed after Revolut falls for fake government request](https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request)**
-
-CoinDesk • 1d ago
-
----
-
-**[From 'Digital Gold' to $10,000: Bloomberg Strategist Flags Crucial Bitcoin Sell Signals](https://www.tradingview.com/news/u_today:45a339d54094b:0-from-digital-gold-to-10-000-bloomberg-strategist-flags-crucial-bitcoin-sell-signals/)**
-
-Bitcoin is rapidly losing its status as independent digital gold and turning into an ordinary stock market puppet, Bloomberg Intelligence senior macro strategist Mike McGlone warns in a new review. In his assessment, its rigid correlation with U.S. equities and the inevitable tightening of Federal…
-
-TradingView • 15h ago
-
----
-
-**[Bitcoin billionaire Tim Draper’s $7.9 million Tanzania resort sale draws bids in gold mines, houses and cattle](https://africa.businessinsider.com/local/lifestyle/bitcoin-billionaire-tim-drapers-dollar79-million-tanzania-resort-sale-draws-bids-in/tegx93d)**
-
-American venture capitalist and bitcoin investor Tim Draper’s plan to sell his luxury resort investment in Tanzania for $7
-
-Business Insider Africa • 1d ago
-
----
-
-**[Bitcoin’s White-Hat Hack Is Just Old-Fashioned Extortion](https://www.bloomberg.com/opinion/articles/2026-09-11/bitcoin-white-hat-hack-is-just-old-fashioned-extortion)**
-
-Bloomberg.com • 2d ago
+cnbc.com • 2d ago
 
 ---
 
@@ -249,7 +251,7 @@ Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trade
 
 Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
 
-⬆️ 6 • 💬 0 • 1d ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
+⬆️ 6 • 💬 0 • 2d ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
 
 ---
 
@@ -273,7 +275,7 @@ Self-described white hats promise to return 'most' of the 4,000 BTC once the vul
 
 Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.
 
-⬆️ 4 • 💬 0 • 1d ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
+⬆️ 4 • 💬 0 • 2d ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
 
 ---
 
@@ -287,7 +289,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
 
-⬆️ 1 • 💬 0 • 3d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+⬆️ 1 • 💬 0 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
 
 ---
 
@@ -317,17 +319,7 @@ September 15 could become a major turning point for Bitcoin. The Clarity Act cou
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 993 • 💬 111 • ⏱️ 13:47 • 6h ago
-
----
-
-**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
-
-Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 83K • 👍 2K • 💬 345 • ⏱️ 39:00 • 1d ago
+👁️ 28K • 👍 1K • 💬 150 • ⏱️ 13:47 • 13h ago
 
 ---
 
@@ -337,37 +329,27 @@ Tyrone Ross, Jr. discusses the regulatory path ahead for Bitcoin and other crypt
 
 📺 Schwab Network
 
-👁️ 6K • 👍 59 • 💬 6 • ⏱️ 7:52 • 10h ago
+👁️ 9K • 👍 70 • 💬 6 • ⏱️ 7:52 • 17h ago
 
 ---
 
-**[CRYPTO CLASH: Senate prepares key test vote on landmark cryptocurrency bill](https://www.youtube.com/watch?v=qIzQmMXOmAY)**
+**[HUGE CLARITY ACT NEWS! DEMOCRATS MEET TO DISCUSS CRYPTO BILL &amp; TRUMP MEETS WITH ETHICS ADVISORS!](https://www.youtube.com/watch?v=Cq_92JvP2MA)**
 
-Fox News chief congressional correspondent Chad Pergram reports as the Senate prepares for a key test vote on landmark ...
+Crypto News: Senate Democrats to meet tonight to discuss crypto Clarity Act. President Trump met with advisers Friday to discuss ...
 
-📺 Fox News Clips
+📺 Thinking Crypto
 
-👁️ 84K • 👍 627 • 💬 379 • ⏱️ 2:15 • 19h ago
-
----
-
-**[Fed Rate Hike Wednesday: Gold, Oil, Bitcoin Charts And A Bigger Risk Than Nukes Now Reality!](https://www.youtube.com/watch?v=leWFKuETS7s)**
-
-In this special Sunday edition, Gareth Soloway breaks down the Federal Reserve meeting on Tuesday and Wednesday and what ...
-
-📺 Gareth Soloway
-
-👁️ 175K • 👍 6K • 💬 626 • ⏱️ 17:21 • 17h ago
+👁️ 22K • 👍 1K • 💬 198 • ⏱️ 13:44 • 11h ago
 
 ---
 
-**[Clarity Act Rumor , XRP Ledger Record &amp; Overnight Crypto Millionaires](https://www.youtube.com/watch?v=gx0UCbuCFUI)**
+**[Protecting Bitcoin From 51% Attacks](https://www.youtube.com/watch?v=bwaTHO1QFzQ)**
 
-Buy & Sell Crypto With iTrustCapital → https://www.itrustcapital.com/xrparmy Kalshi XRP Prediction Markets ...
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss the dangers of hashrate ...
 
-📺 Digital Asset Investor
+📺 Bitcoin University
 
-👁️ 53K • 👍 2K • 💬 225 • ⏱️ 22:30 • 16h ago
+👁️ 9K • 👍 609 • 💬 178 • ⏱️ 12:51 • 15h ago
 
 ---
 
@@ -377,37 +359,57 @@ Are we on the verge of a major crypto shift? In this bitcoin price analysis toda
 
 📺 Crypto Nitro
 
-👁️ 11K • 👍 2 • 💬 25 • ⏱️ 1:02 • 2d ago
+👁️ 11K • 👍 2 • 💬 41 • ⏱️ 1:02 • 2d ago
 
 ---
 
-**[Bitcoin&#39;s Next Target Is $109,000. Here&#39;s Why...](https://www.youtube.com/watch?v=sWowB0wxyCU)**
+**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
+
+Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
+
+📺 Altcoin Daily
+
+👁️ 87K • 👍 2K • 💬 328 • ⏱️ 39:00 • 1d ago
+
+---
+
+**[Why Bitcoin Wins No Matter What The Fed Does](https://www.youtube.com/watch?v=Uzc3tBB9pLg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 133K • 👍 3K • 💬 149 • ⏱️ 53:38 • 2d ago
+
+---
+
+**[BITCOIN: THIS CHANGES EVERYTHING...](https://www.youtube.com/watch?v=JNU4iGisycw)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 7K • 👍 542 • 💬 43 • ⏱️ 11:03 • 7h ago
+
+---
+
+**[Bitcoin Could Hit $102k in Q4](https://www.youtube.com/watch?v=sWowB0wxyCU)**
 
 Bitcoin's 50-day moving average just crossed its 200-day for the first time since May 2025, and Eric Krown says the pullback that ...
 
 📺 Crypto Banter
 
-👁️ 24K • 👍 431 • 💬 24 • ⏱️ 43:02 • 1d ago
+👁️ 25K • 👍 441 • 💬 24 • ⏱️ 43:02 • 1d ago
 
 ---
 
-**[Crypto’s Biggest CEO: My Final Warning To Bitcoin Holders!](https://www.youtube.com/watch?v=FBMJl3WGi04)**
+**[Bitcoin Bull Market CONFIRMED — 3 Altcoins I’m Watching Right Now (Get Bullish NOW!)](https://www.youtube.com/watch?v=lDC6LHyAzmU)**
 
-Crypto's Biggest CEO: My Final Warning To Bitcoin Holders Win $100000 in WEEX Trading Competition: ...
+Summary: Bitcoin (BTC) has officially flipped into a confirmed bullish trend on the weekly Money Line, signaling that the next ...
 
-📺 Altcoin Daily
+📺 Crypto Casey
 
-👁️ 82K • 👍 2K • 💬 302 • ⏱️ 11:37 • 2d ago
-
----
-
-**[I Made A Huge Mistake Investing In Bitcoin](https://www.youtube.com/watch?v=Jh91F5qCswQ)**
-
-This is the crazy story of what happened to me investing from 2024-2026. My story of bitcoin and why consistency is key. Open ...
-
-📺 IanOnYouTube
-
-👁️ 48K • 👍 2K • 💬 679 • ⏱️ 15:21 • 1d ago
+👁️ 34K • 👍 2K • 💬 180 • ⏱️ 13:55 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-14T06:47:31.077000+00:00'
+updated: '2026-09-14T13:42:26.121433+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 14, 2026 at 06:47 UTC  
+**Last Updated:** September 14, 2026 at 13:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.5%  
-**30d:** +34.4%  
-**90d:** +44.0%  
-**1y:** -44.2%  
+**24h:** +0.4%  
+**7d:** +0.7%  
+**30d:** +33.4%  
+**90d:** +42.9%  
+**1y:** -44.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $307.40B
+**Market Cap:** $305.59B
 Rank #2
 
 **Circulating Supply:** 122,047,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.1%
+-49.3%
 
 **All-Time Low:** $0.43
-+581565.6%
++578974.3%
 
 ---
 
@@ -118,7 +118,7 @@ Ethereum co-founder Vitalik Buterin has proposed a new system that could change 
 
 Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasury toward a staggering size that rivals its entire stock market value. But the real question is whether this buying spree moves the price of ETH or simply makes BMNR a turbocharged bet on a coin that has already lost half its value from peak.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 4d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/markets/crypto/articles/bitmine-ethereum-holdings-near-15-130052977.html) • 5d ago
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-3d ago
+4d ago
 
 ---
 
@@ -158,19 +158,65 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 ---
 
-**[Ethereum On Track To Snap Its Longest Quarterly Losing Streak On Record](https://finance.yahoo.com/markets/crypto/articles/ethereum-track-snap-longest-quarterly-152634021.html)**
+**[Wintermute Builds $102M Crypto Short as Ethereum Leads Bearish Bets](https://finance.yahoo.com/markets/crypto/articles/wintermute-builds-102m-crypto-short-125715106.html)**
 
-Ethereum is up about 58% in the third quarter, putting it on track to snap its first-ever three-quarter losing streak.
+Wintermute holds roughly $102.1 million in crypto shorts, with total exposure of about $122.23 million. Ethereum leads the bearish positions, with a short of ...
 
-finance.yahoo.com • 15h ago
+Yahoo Finance • 45m ago
 
 ---
 
-**[Ethereum Spot Volume Growth Outpaces Bitcoin Seven-Fold As ETH Eyes $3000 Next](https://www.tradingview.com/news/stocktwits:03878bb3d094b:0-ethereum-spot-volume-growth-outpaces-bitcoin-seven-fold-as-eth-eyes-3000-next/)**
+**[Current price of Ethereum for MM-DD-YYYY](https://fortune.com/article/price-of-ethereum-09-14-2026/)**
 
-Ethereum’s (ETH) spot volume jumped nearly 50% over the past 24 hours, seven times the 7% increase in Bitcoin (BTC) spot volume, as Ethereum extended its outperformance over the largest cryptocurrency.According to Glassnode data, spot volume for Ethereum stood at $6.14 billion in comparison to Bitc…
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-TradingView • 1d ago
+Fortune • 27m ago
+
+---
+
+**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Senate Prepares to Vote on CLARITY: Analyst Sees BTC Rallying to $90,000, but Only If...](https://www.tradingview.com/news/benzinga:b7db0c144094b:0-bitcoin-ethereum-xrp-dogecoin-dip-as-senate-prepares-to-vote-on-clarity-analyst-sees-btc-rallying-to-90-000-but-only-if/)**
+
+Leading cryptocurrencies fell alongside stock futures on Sunday evening amid speculation over CLARITY Act passage and AI CEOs’ warnings of major safety risks.Crypto Market Comes Under StrainBitcoin dropped to an intraday low of $76,367 late in the evening, while 24-hour trading volume spiked 10%. E…
+
+TradingView • 11h ago
+
+---
+
+**[Ethereum news: Bitmine (BMNR) bought $68M ETH as Tom Lee sees more upside ahead](https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead)**
+
+CoinDesk • 43m ago
+
+---
+
+**[Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.](https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/)**
+
+Could the Clarity Act really become a super-catalyst for Ethereum?
+
+The Motley Fool • 2m ago
+
+---
+
+**[Robinhood's New Blockchain Is Now Making More Money Than Ethereum. Does That Make Robinhood Stock a Buy?](https://www.theglobeandmail.com/investing/markets/markets-news/motley/4584667/robinhood-s-new-blockchain-is-now-making-more-money-than-ethereum-does-that-make-robinhood-stock-a-buy/)**
+
+Motley Fool Press Release.
+
+The Globe and Mail • 3h ago
+
+---
+
+**[Ethereum now dominates Bitmine Immersion's $15.8B crypto treasury](https://seekingalpha.com/news/4642481-ethereum-now-dominates-bitmine-immersions-158b-crypto-treasury)**
+
+Bitmine Immersion (BMNR) reports a $15.8B crypto treasury led by 5.96M ETH, staking yields, and key catalysts like CLARITY Act—read the update.
+
+Seeking Alpha • 13m ago
+
+---
+
+**[Will Bitcoin, Ethereum and XRP Prices Rally if the CLARITY Act Passes on September 15?](https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-rally-if-the-clarity-act-passes-on-september-15/)**
+
+Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
+
+Coinpedia • 7h ago
 
 ---
 
@@ -178,55 +224,7 @@ TradingView • 1d ago
 
 LIT at $0.74 as billΞ.eth-linked address pulls 500,000 LIT worth $2.07M from Lighter protocol amid 97% monthly gains and Robinhood Wallet volume spike.
 
-blockchain.news • 3h ago
-
----
-
-**[Ethereum volatility spikes after Wintermute’s $160M deposit – ETH rebound possible IF…](https://ambcrypto.com/ethereum-volatility-spikes-after-wintermutes-160m-deposit-eth-rebound-possible-if/)**
-
-Can 196 distributing whales overpower Ethereum’s deepest exchange supply contraction since 2016?
-
-AMBCrypto • 1d ago
-
----
-
-**[Crypto never closes, but Bitcoin, Ethereum, XRP and Solana now move on Wall Street time](https://cryptoslate.com/crypto-never-closes-but-bitcoin-ethereum-xrp-and-solana-now-move-on-wall-street-time/)**
-
-A 10-year study found more than 50% of Bitcoin’s daily variance now clusters around US trading hours, with the peak moving alongside New York’s clock.
-
-CryptoSlate • 2d ago
-
----
-
-**[Ethereum’s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana](https://stocktwits.com/news-articles/markets/equity/ethereum-price-surges-past-2600-for-first-time-in-8-months-outruns-bitcoin/cZtXNRKRBGU)**
-
-About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.
-
-Stocktwits • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Senate Prepares to Vote on CLARITY: Analyst Sees BTC Rallying to](https://www.benzinga.com/crypto/cryptocurrency/26/09/61756157/bitcoin-ethereum-xrp-dogecoin-dip-senate-clarity-vote-btc-rally)**
-
-Leading cryptocurrencies fell alongside stock futures on Sunday evening amid warnings from AI CEOs about major safety risks and calls to slow the pace of development.
-
-Benzinga • 4h ago
-
----
-
-**[Ethereum Price Prediction: ETH Rips 33% as Whales Load Up, and Pepeto's $10.9M Presale Offers ETH's 2014 Entry Again](https://financefeeds.com/ethereum-price-prediction-eth-rips-33-as-whales-load-up-and-pepetos-10-9m-presale-offers-eths-2014-entry-again/)**
-
-Anyone reading an ethereum price prediction this week wants proof the rebound is real before adding more. ETH ripped 33% higher from August 11 to September
-
-FinanceFeeds • 1d ago
-
----
-
-**[Ethereum ETFs Took In $216 Million on Friday. Bitcoin’s Lost Money for a Fourth Day and XRP’s Took Zero](https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-took-216-million-211140668.html)**
-
-Three crypto ETFs each reversed course on the same day, but they reversed in three completely different directions, and only one of those reversals carries enough weight to signal where institutional money is actually heading.
-
-finance.yahoo.com • 1d ago
+blockchain.news • 10h ago
 
 ---
 
@@ -240,7 +238,7 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 955 • 👍 64 • 💬 22 • ⏱️ 8:39 • 4h ago
+👁️ 5K • 👍 124 • 💬 38 • ⏱️ 8:39 • 11h ago
 
 ---
 
@@ -250,27 +248,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 29K • 👍 604 • 💬 92 • ⏱️ 7:35 • 1d ago
-
----
-
-**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
-
-CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Support The O Show with Ref Links: ✨$25 Sign-Up ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 266 • 💬 10 • ⏱️ 6:51 • 1d ago
-
----
-
-**[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
-
-Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
-
-📺 More Crypto Online
-
-👁️ 11K • 👍 308 • 💬 21 • ⏱️ 15:15 • 17h ago
+👁️ 30K • 👍 618 • 💬 97 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -280,27 +258,27 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 5K • 👍 117 • 💬 16 • ⏱️ 21:47 • 1d ago
+👁️ 5K • 👍 120 • 💬 16 • ⏱️ 21:47 • 1d ago
 
 ---
 
-**[&quot;Massive Bull Run&quot; Prediction For Bitcoin &amp; Ethereum Things Are About To Heat Up For Altcoins](https://www.youtube.com/watch?v=wnJa_EtBsJg)**
+**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
 
-One of the main topics in the cryptocurrency space right now revolve around one single thing... exactly how high are prices going ...
+BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 The Modern Investor
+📺 Crypto World
 
-👁️ 14K • 👍 875 • 💬 386 • ⏱️ 31:34 • 2d ago
+👁️ 8K • 👍 226 • 💬 197 • ⏱️ 17:07 • 12h ago
 
 ---
 
-**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
 
-John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Ethereum broke out above $2500 yesterday and hit ...
 
-📺 The Rollup
+📺 CryptoWendyO
 
-👁️ 33K • 👍 547 • 💬 108 • ⏱️ 22:54 • 2d ago
+👁️ 8K • 👍 272 • 💬 10 • ⏱️ 6:51 • 1d ago
 
 ---
 
@@ -310,17 +288,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 7K • 👍 85 • 💬 15 • ⏱️ 9:47 • 2d ago
+👁️ 7K • 👍 86 • 💬 15 • ⏱️ 9:47 • 2d ago
 
 ---
 
-**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+**[Every Ethereum Bull Market Started With This Pattern](https://www.youtube.com/watch?v=E5RmJX4u3hI)**
 
-Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a level representing a major resistance cluster as of 3 ...
 
-📺 Crypto Capital Venture
+📺 More Crypto Online
 
-👁️ 27K • 👍 703 • 💬 489 • ⏱️ 17:30 • 2d ago
+👁️ 12K • 👍 321 • 💬 22 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -330,7 +308,27 @@ Ethereum led the market today, outperforming Bitcoin, Uniswap, Bitmine, gold and
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 1K • 💬 56 • ⏱️ 11:43 • 2d ago
+👁️ 47K • 👍 1K • 💬 58 • ⏱️ 11:43 • 2d ago
+
+---
+
+**[&quot;It&#39;s Happening&quot;! CRYPTO Is Triggering Its 2020 Bull Signal! (ETH, SUI, ADA, DOG, NIGHT)](https://www.youtube.com/watch?v=WT_HRQFgDvs)**
+
+Ethereum just hit its 20-month moving average for the first time since May 2020 — the same signal that kicked off the last ...
+
+📺 Crypto Capital Venture
+
+👁️ 28K • 👍 704 • 💬 484 • ⏱️ 17:30 • 2d ago
+
+---
+
+**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+
+John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+
+📺 The Rollup
+
+👁️ 35K • 👍 566 • 💬 107 • ⏱️ 22:54 • 2d ago
 
 ---
 

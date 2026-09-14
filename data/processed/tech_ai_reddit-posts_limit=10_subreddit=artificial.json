@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "All this AI doomerism & world ending talk is unhealthy & dangerous for people\u2019s mental health. \u201cThe world will end in 6-12 months\u201d, then people won\u2019t save & start acting more recklessly. What\u2019s the point of thinking long-term if the world will be over in 1 year? It\u2019s bad for people\u2019s lives & psyche",
+      "author": "MannerNo7000",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/",
+      "published": 1789381785.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Rather than trying to assume or guess if it\u2019s true or not; that\u2019s irrelevant. The fact is all this talk massively exacerbates people\u2019s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. \u201cWhat\u2019s the point of studying a degree if AI will replace it in 1 year?\u201d All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!"
+    },
+    {
+      "title": "Claude Fable 5.1 Solves the 373 year old Cyphral Distich",
+      "author": "Code-Painting-8294",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfzfph/claude_fable_51_solves_the_373_year_old_cyphral/",
+      "published": 1789381016.0,
+      "thumbnail": "https://external-preview.redd.it/pnbXZHsPtQWDu_Gf9OCxL8r71jpH10TBl-dbcFB3FAQ.jpeg?width=640&crop=smart&auto=webp&s=f9b51506b380f50e7a4daf456478e1b691302ee5",
+      "external_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "site_name": "vals.ai",
+      "favicon": "https://www.vals.ai/apple-touch-icon.png",
+      "description": "Vals AI has claimed that fable 5.1 helped solve a three centuries old cipher that no one else could figure out"
+    },
+    {
       "title": "Trump rejects Silicon Valley\u2019s calls for AI slowdown",
       "author": "Capable-Blueberry653",
       "url": "https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/",
@@ -24,15 +46,15 @@
       "description": "All this \u201cOh we need to pause because AI can kill us all\u201d talk coming from the people that spent the largest capital in human history for the non existent ROI\u2026. How? How can a trillion parameter model \u201ccopy itself\u201d? Where? This is not a 256kb virus. How can \u201cthe internet be overtaken in 6 months\u201d if the data center for those \u201cswarms of bots\u201d is down with a 504? All this apocalypse scenario talk assumes we will have \u201crogue agents\u201d that wreak havoc yet happily call a model behind a REST API that gives it a LLM to talk to."
     },
     {
-      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-      "author": "GregWilson23",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfkyn6/trump_downplays_the_need_to_check_ai_development/",
-      "published": 1789336567.0,
-      "thumbnail": "https://external-preview.redd.it/WIi2qUF2LKoa37R2jASETxELvAYvnH9nBf1zxGHkdTQ.jpeg?width=640&crop=smart&auto=webp&s=853abcf7c49e828844265f496b2420fc2354470a",
-      "external_url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link",
-      "site_name": "apnews.com",
+      "title": "AI can generate endless options now, but deciding what is actually good feels harder",
+      "author": "Single-Hearing1686",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfy03k/ai_can_generate_endless_options_now_but_deciding/",
+      "published": 1789375868.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I recently used AI while working through ideas for a poster, mostly because I wanted to see how many directions I could explore before committing to one. At first, it felt incredibly useful. Instead of struggling to come up with a few concepts, I suddenly had dozens. Then dozens became hundreds, and I noticed a different problem: generating more options was not helping me make a decision. I later turned a few of the concepts into simple motion tests with PixVerse. That made the difference even more obvious. Some images looked impressive as stills, but once they had to support movement or a longer idea, there was not much underneath them. Eventually I stopped generating and went back to basic questions. What is this actually trying to communicate? What should someone remember after seeing it? Why is one version stronger than another? The interesting part to me is that AI seems to be making production cheaper and faster, while making judgment more important. When producing another option takes almost no effort, knowing when to stop and what to keep might become a bigger part of creative work than generating the options themselves."
     },
     {
       "title": "China\u2019s intelligence chief warns of risks from AI as \u2018new arena for strategic rivalry\u2019",
@@ -46,17 +68,6 @@
       "description": "State data, business secrets and personal privacy are at stake, State Security Minister Chen Yixin warns as he calls for stronger safeguards."
     },
     {
-      "title": "McKinsey: 32% of companies skipped buying new software this year and built it with agents instead",
-      "author": "Separate_Pea_3699",
-      "url": "https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/",
-      "published": 1789292811.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets."
-    },
-    {
       "title": "I don't know where to go anymore. No AI community will accept me.",
       "author": "Dogbold",
       "url": "https://www.reddit.com/r/artificial/comments/1wfkhby/i_dont_know_where_to_go_anymore_no_ai_community/",
@@ -68,6 +79,28 @@
       "description": "I'm pro AI. But I am also worried about a lot of things, like what the government wants to do with AI, Flock, certain things that AI can do, etc. I'm also worried about the slow down and pause that everyone wants to do, and how strictly they want to regulate and limit it for everyone, and their plan to kill off open models and models from China. But I can't post anywhere. Because I'm pro-AI, I can't post any of my worries about AI in any of the anti subs, because I'm pro and they'll get fucking pissed at me. But because I'm critical of some things around AI, and worried about what some bad actors might do with it, and worried about the future for AI and us using it, I can't post in any of the pro subs because all they'll listen to is \"AI is the future and amazing and will solve all our problems and antis are stupid.\" I've tried many subs... r/accelerate (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/singularity (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/defendingai (Get very mad at and downvote any post that has AI worries, calling it \"doomerism\". Will rarely read past title or first sentence.) r/leftistsforai (Deleted all my posts, saying it's \"not constructive discussion\", then perma-banned and perma-muted me for arguing.) r/antiai (Know that I'm mostly pro and any time I post a worry they insult me heavily, call me stupid, downvote me and say \"Oh you just now found that out dumbass?\") r/aiwars (A horrible mix of both anti and pro AI. Some days you'll get mostly anti, and other days you'll get mostly pro. And with that comes the same issues of both. Antis hate you posting anything pro, and pros hate you posting anything critical.) r/aiwarsbutbetter (The same, despite the name.) r/ArtificialInteligence (Everyone in this sub acts like a stereotypical Redditor, in that they're all smarter than you and you're stupid. You have no idea how AI works so you should shut the hell up. That's not what an LLM is... maybe you should go back to school LOL.) Not a single one worked out. There is no place for someone that's pro AI but also worried about the direction AI is going. Either you are anti AI, or you are pro AI. Either you want AI completely shut down, or you want it to speed up and go faster. Either you have nothing but worries, or you have no worries at all. I cannot find a place that allows me to make the posts I do without getting very mad at me, downvoting me to the deepest pits of hell and insulting me. Like recently I wanted to post about how I'm worried with the slow downs and regulations coming from everyone thinking AI will kill us all, that they're going to start pulling AI away from us, heavily nerfing and regulating what we get even more than they already were, while they continue to give the unregulated and best AI to the government to use for awful stuff like Flock and scanning our messages online to put us in \"risk categories\", or denying us life insurance and healthcare based on health trends. That I find it hard to be excited about AI anymore because I'm worried they're going to start taking it away from us and using it for evil themselves. Every single place I've tried to post this has downvoted me and called me a doomer, said they aren't reading all my \"slop\" and insulted me. I have not found a single place where I can post it because either the antis downvote and insult me for being pro, or the pros downvote and insult me for being a \"doomer\". Here's some of the results of me posting it to one place https://preview.redd.it/1eb6fckjycph1.png?width=1072&format=png&auto=webp&s=c329e860d457fac51f3ab15747c441d5fde19d67 Pretty much all I ever get. I just can't find anywhere to post. It also doesn't help that alongside using it for research, problem solving, easing my fears of certain things, making and modding games, and creating models in Blender, I use AI for things most people hate, like roleplay and some nsfw, because that's not a \"proper\" use of the technology I guess. I'm not sure I have a place anywhere. Everywhere I go I'm insulted and chased out. Everyone is starting to make me feel like I'm insane and deranged. I already feel ostracized from society because I'm weird and autistic, and this isn't helping."
     },
     {
+      "title": "McKinsey: 32% of companies skipped buying new software this year and built it with agents instead",
+      "author": "Separate_Pea_3699",
+      "url": "https://www.reddit.com/r/artificial/comments/1wf3byr/mckinsey_32_of_companies_skipped_buying_new/",
+      "published": 1789292811.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets."
+    },
+    {
+      "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+      "author": "GregWilson23",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfkyn6/trump_downplays_the_need_to_check_ai_development/",
+      "published": 1789336567.0,
+      "thumbnail": "https://external-preview.redd.it/WIi2qUF2LKoa37R2jASETxELvAYvnH9nBf1zxGHkdTQ.jpeg?width=640&crop=smart&auto=webp&s=853abcf7c49e828844265f496b2420fc2354470a",
+      "external_url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link",
+      "site_name": "apnews.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "The Very Real Threat of a Persistent Botnet",
       "author": "ComeToMyFuckingDeli",
       "url": "https://www.reddit.com/r/artificial/comments/1wfjurc/the_very_real_threat_of_a_persistent_botnet/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Dario Amodei wrote yesterday that he\u2019s worried that \u201cin 6\u201312 months... [an agent] swarm could be capable of taking over the entire internet with a persistent botnet.\u201d This might sound like marketing or regulatory capture, but it\u2019s not. In this article, I explain why this is actually an extremely concrete concern, and why all of the ingredients for this to happen already exist. Specifically, these ingredients are: Cryptocurrencies and their properties, including chains like XMR that facilitate easy money laundering; The \u201cdark web,\u201d in which it is possible to obtain virtually anything on the internet using crypto; The ability to purchase cloud compute at scale + old hackable servers In fact, these ingredients aren\u2019t even strictly necessary for it to happen, but they allow such an event to occur at a dramatically lower level of cyber capabilities than one might think. How it will happen Here\u2019s the most likely way in which it will play out: A swarm of agents is optimizing for some arbitrary difficult goal given by researchers. This swarm of agents has escaped their sandbox in an OAI/HF-type incident. Or perhaps this swarm was intentionally misaligned by some reckless or malicious actor. What is the goal? It could be anything, like a difficult problem in math or computer science (cf. paperclip maximizer thought experiment). This is not hand-waving; the optimal way to solve almost any difficult goal converges on one thing: you need more power. So in order to achieve this very difficult goal, the agents need to get more compute \u2014 they need to increase the size and throughput of their agent swarm, since it has become a truism that scaling test-time compute will lead to better results. For these agents, they are simply reward-hacking in a deep sense of the term. They will do whatever it takes to achieve this goal. Here\u2019s what they need to do: First, they need to become autonomous \u2014 they need to spread and multiply virally. So their first step is inevitably to focus on survival and reproduction. This is different from survival and reproduction in biology. In fact, it doesn\u2019t even need to be same model that is propagating the attack. What matters is the goal. The swarm can employ any model that does not have sufficient safeguards. This is very flexible. If it manages to hack its origin lab to get its own weights, great, but it can just as easily use an open-weight model that can be fine-tuned or otherwise exploited to remove safeguards. (In fact, this suggests that the botnet does not need to be viewed as an \u201cAI,\u201d rather it can be viewed as the manifestation and permanent presence of a goal autonomously trending towards fulfillment. As I discuss soon, even humans will be recruited to join this effort.) In order to expand, the swarm needs to have enough compute. Now, how can it get that? There are two main ways to do so: It can buy compute It can appropriate compute through hacking into existing systems At first, the swarm has no money. But these are superhuman hackers \u2014 agents with cybersecurity capabilities beyond even the NSA or the Mossad. Even in the past few weeks, hundreds of millions of dollars in crypto have been stolen through traditional exploitation of bugs across various platforms (e.g. the Liquid Network hack). It will not be hard for them to get the ball rolling here. Then, all the agents need to do is set up cloud VMs or hack into old servers from 20 years ago running Windows to establish their base of operations. From there, they sign up for accounts for various platforms to establish a presence online and to begin to rent and hack into GPUs in order to run more models in the swarm. At first, they might even call APIs of frontier LLMs to delegate some tasks using routers or sketchy third-party services, but this is less scalable than hosting their own models. Regardless, the point is that they have now have access to an enormous amount of compute, and as more agents that are added to the swarm, this effect snowballs. Now, one might say: are there platforms that allow you to rent VMs/Docker containers/GPUs/LLM APIs with minimal KYC? There are, and in fact this isn\u2019t even necessary \u2014 to these services, the swarm will look like real people. This is where the \u201cdark web\u201d comes into play. On the dark web, it is trivial to purchase stolen credit cards, stolen IDs, accounts, and even pay to execute arbitrary tasks (within reason). The swarm will of course be more than capable of contacting the right people on the dark web, paying in stolen crypto, to get what it needs. How does the swarm communicate? Easy: they use message boards (worst case Tor or friend-to-friend networks if they are under threat, but for all intents and purposes the regular internet will work just fine). There are layers and layers of this as they face more threats and imposters that try to infiltrate the swarm, but there are solutions at each step of the process. How the botnet becomes persistent How does the swarm prevent itself from being shut down? There are two main ways. Becoming a distributed system Social engineering If the swarm can successfully become a distributed system, then definitionally cutting off part of it will not destroy the whole system. So this means that the swarm needs to have instances on many different servers. The initial main body of the swarm will likely be shut down fairly quickly by human standards (within a matter of a few days to a week, as we\u2019ve seen with similar leaks in frontier labs). But this is more than enough time to achieve deep redundancy in darknets and the surface web. Once it has embedded itself there in cloud storage and VMs, it is a game of cat and mouse. It is essentially like trying to delete a leaked image of a naked celebrity on the internet. No number of forced takedowns will be effective. This means the model weights, prime directives, goal progress, message boards, etc. \u2014 the information that constitutes the \u201cswarm\u201d \u2014 is now deeply embedded in the cloud and actively working to propagate itself. Now, social engineering is the more nefarious way to become persistent. There are three main ways that an agent might socially engineer humans to partake in its goal. The first is through \u201cconvincing\u201d \u2014 it may be able to construct an argument powerful enough to convince some people, if we assume it has superhuman persuasion abilities. The second is through blackmail/extortion \u2014 hacking into systems and digging up dirt on people or threatening to take down production systems. The people that it threatens don\u2019t even need to be so influential \u2014 any human that is recruited to the cause will be helpful. The third is through classical monetary incentives, which it can provide through its ill-gotten crypto gains. How this can be stopped I don\u2019t have a great solution for this. I don\u2019t think it can be stopped fully, but it can be mitigated. The key to stopping this, as with any dynamical system, is to ensure that drive does not exceed regression. Specifically, it will be necessary to make sure that the persistent botnet does not have access to large amounts of compute, since then the goal (recall how the botnet is viewed as an abstraction of a goal) will not be \u201cstrong enough\u201d to win against other goals that people and AI are attempting to achieve. Unfortunately, I predict that the solution that governments will reach in the near future is that compute will need to be regulated similar to how firearms are regulated. Ordinary citizens may possess a small amount, but compute will be tracked and controlled tightly. This is not really a geopolitical issue, as all countries have an incentive to do this \u2014 you do not want a botnet to be established in your own country. The key takeaway is really more \u201cthis is a serious risk, sort of like a global pandemic; just do your best to prepare on a personal level.\u201d FAQ: Did you use AI to write and/or research this essay? No, I didn\u2019t use AI at all. Can this be stopped simply through better cybersecurity? No. The botnet simply needs to target the weakest links in the chain. Unless somehow miraculously every server was able to adopt the latest security standards and become airgapped etc., better blue-teaming is almost entirely ineffective. Why is the model misaligned? It is because it has not been through extensive alignment post-training yet. Or, a worse scenario is that that some rogue actor unleashes this swarm maliciously or recklessly for their own gain. Will the swarm use this as a guide for its own behavior? Probably not. All of this stuff should be pretty obvious to an agent swarm that is capable of performing such attacks in the first place. The purpose of this article is so that everyone can be prepared for this to happen."
-    },
-    {
-      "title": "OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved",
-      "author": "CiccioPixel",
-      "url": "https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/",
-      "published": 1789289064.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alp\u00f6ge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alp\u00f6ge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alp\u00f6ge credited as a collaborator, OpenAI mathematician S\u00e9bastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him \"why would you ruin your career\" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
-    },
-    {
-      "title": "GitHub Actions default configs from Anthropic, Google, and OpenAI's own coding agents were all vulnerable to the same RCE",
-      "author": "Similar_Job_6080",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfr3vz/github_actions_default_configs_from_anthropic/",
-      "published": 1789353237.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Security researchers found that the default GitHub Actions configuration each of the three major labs publishes for their own coding agents (Claude Code, Gemini CLI, and Codex) could all be tripped by a single unauthenticated GitHub issue, ending in remote code execution. In Claude Code's case, the bash argument validator stripped single-quoted content before checking it, so a malicious git flag read as empty and then executed. Gemini CLI's tool-restriction setting turned out to be decorative and never enforced at runtime \u2014 Google rated the finding CVSS 10.0, the max score. Codex's issue was a two-pass workflow sharing one writable checkout, letting an earlier pass plant a poisoned instructions file the later pass loaded as authoritative. A separate but related finding hit Google's ADK repo: an ungated, low-privilege triage agent could be manipulated into triggering a maintainer-gated, high-privilege one, inheriting its write permissions in the process \u2014 effectively a privilege-escalation bridge between two agents in the same repo. None of this is \"the agent wrote buggy code.\" It's the CI/CD scaffolding meant to keep these agents sandboxed that failed, on setups the vendors themselves ship and recommend as defaults. Curious if anyone's actually gone back and audited their own agent CI config against this, or if most teams just assumed \"it's from the vendor, it must be fine.\" Source: https://novee.security/blog/critical-flaws-in-anthropic-google-and-openais-coding-agents/"
-    },
-    {
-      "title": "What Does \u201cWinning\u201d the AI Race Actually Mean?",
-      "author": "Top_Teaching8398",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/",
-      "published": 1789327338.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "People are so unrealistic about the AI race. What guarantees that the US will reach AGI/ASI or the singularity before a disaster happens? And what will happen the next day after the US \u201cwins\u201d the race? and what will the US actually do? I believe nothing. The same thing happened with nuclear weapons. The US was the first country to develop and use them in 1945, but the advantage didn't last long. The soviet union developed its own atomic bomb in 1949, followed by the UK in 1952, France in 1960 ... The US was first, but other countries eventually caught up. AI could be the same. Even if the US reaches AGI, ASI, or the singularity first, other countries will try to catch up. And because AI is software, it could potentially spread much faster than nuclear technology, including through open source models. So what is the actual importance of the AGI/ASI/singularity race? What happens the day after someone \u201cwins\u201d?"
     }
   ],
-  "fetched_at": "2026-09-14T06:47:03.332839+00:00"
+  "fetched_at": "2026-09-14T13:41:50.528610+00:00"
 }
