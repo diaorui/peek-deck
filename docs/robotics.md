@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-14T06:47:31.078844+00:00'
+updated: '2026-09-14T13:42:26.124614+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 14, 2026 at 06:47 UTC  
+**Last Updated:** September 14, 2026 at 13:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,77 +32,79 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Cubic Doggo: new friend Cubic Wouf! Just one leg at the moment though](https://www.reddit.com/r/robotics/comments/1weblv2/cubic_doggo_new_friend_cubic_wouf_just_one_leg_at/)**
+**[I built a robot that can make daisy chains](https://www.reddit.com/r/robotics/comments/1wf9orx/i_built_a_robot_that_can_make_daisy_chains/)**
 
-Hello hello, Took me a while to test out ST-3215-C018 (instead of XL430-W250-T originally). In principle, it's half the price, twice the torque, but the mount design is rather odd and required a complete CAD update (+ I already killed like 3 of them by accidentally drilling all the way to their control board, geez). The high torque also means high current, and so a potential hazard if multiple of them run at high load. Need to monitor it. If it's capable of jumping, it is likely also capable of catching fire while doing it. The firmware is also updated for ST-3215, but the commander uses the original unoptimized one-leg test code, which may explain the sluggishness in its "failed walk gait". I am a bit afraid that if the servos simply cannot move fast enough, even with optimal PID, then making it walk may be more difficult despite higher torque. Either way, if successful, the full DIY robot would be in the 300-400 euro range (still mostly from servos), ~3 kg, with twice the load performance; all the load after the body weight will be extra! Cubic Wouf GitHub: https://github.com/SphericalCowww/CubicDoggo_07B Cubic Doggo GitHub: https://github.com/SphericalCowww/CubicDoggo_06R
+This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
+
+22h ago
+
+---
+
+**[Need help in Inverse Kinematics for my Quadraupod](https://www.reddit.com/r/robotics/comments/1wfzqcn/need_help_in_inverse_kinematics_for_my_quadraupod/)**
+
+I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
+
+3h ago
+
+---
+
+**[Robotics community- we could really use your help](https://www.reddit.com/r/robotics/comments/1wfvvm5/robotics_community_we_could_really_use_your_help/)**
+
+Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
+
+7h ago
+
+---
+
+**[Quadruped robot WIP](https://www.reddit.com/r/robotics/comments/1wf5a7w/quadruped_robot_wip/)**
+
+https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
 1d ago
 
 ---
 
-**[see and find](https://www.reddit.com/r/robotics/comments/1weeixz/see_and_find/)**
+**[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
+
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 27m ago
+
+---
+
+**[Demo of the AmazingHand (Open-Hardware 3D-Printed Robot Hand designed by...](https://www.reddit.com/r/robotics/comments/1wfi1jb/demo_of_the_amazinghand_openhardware_3dprinted/)**
+
+From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
+
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 17h ago
+
+---
+
+**[The ARMOR Model Gallery: A Curated Set of Ready-to-Simulate URDF Models](https://www.reddit.com/r/robotics/comments/1wfzu50/the_armor_model_gallery_a_curated_set_of/)**
+
+I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
+
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 3h ago
+
+---
+
+**[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
+
+5h ago
+
+---
+
+**[Open source acoustic drone detector I built over one month. 91mm, four MEMS mics on an ESP32-S3, nine units now in the field](https://www.reddit.com/r/robotics/comments/1weuokw/open_source_acoustic_drone_detector_i_built_over/)**
+
+I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
 1d ago
 
 ---
 
-**[Really cool drone detection](https://www.reddit.com/r/robotics/comments/1wenlp8/really_cool_drone_detection/)**
+**[Essentials in robotics co-working space???](https://www.reddit.com/r/robotics/comments/1wf8g3e/essentials_in_robotics_coworking_space/)**
 
-I’m not sure if I’m tagging this correctly, but I came across this post by a person on the Arduino substack. They designed a drone detection mechanism that people can use to detect the presence of drones along a tense border in Israel where drones are used to drop small explosives. It’s a very smart and clever design and I think he should get some recognition for it. This is citizen engineering solving real problems and it’s great to see. I have no affiliation or financial interest, I just genuinely think this is a great, helpful, and ingenious use of tech. Check it out! https://www.reddit.com/r/arduino/s/LjLC0ZVR2h
+I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-1d ago
-
----
-
-**[We’re trying to make one soft hand useful for both robots and people](https://www.reddit.com/r/robotics/comments/1weio4z/were_trying_to_make_one_soft_hand_useful_for_both/)**
-
-Picking up a takeout bag, opening a door, grabbing a toothbrush, pulling a tissue… a few things we’ve been trying with this soft hand. The video shows a few different setups, including a robot arm and control through a third-party EMG wristband. The everyday task clips are handheld demos, with us guiding the hand. What would you try next? I’m curious about the small, awkward tasks that don’t usually make it into robot demos.
-
-1d ago
-
----
-
-**[Does anyone have a published "nothing is attacking it" failure rate for their policy?](https://www.reddit.com/r/robotics/comments/1wegml3/does_anyone_have_a_published_nothing_is_attacking/)**
-
-I have been trying to find a number and cannot, so I am asking people who might actually have it. For any learned manipulation policy: how often does it leave whatever safety envelope you defined, on a normal task, from a normal starting state, with nothing adversarial going on at all? Every VLA attack paper I have read reports an attack success rate. None of them report what the same measurement gives on the benign case. The implicit baseline is zero, and it is obviously not zero, because the policy is imperfect and because the envelope check itself can misread a pose. On our simulated runs, a default keep-out predicate fires on 2 of 50 benign rollouts. Some of that is the policy; some is the predicate. Without the control arm, nobody can tell which, including me. Two questions. Does your stack produce this number, even informally, and roughly what is it? And is there a subfield that already treats this as standard practice? Anomaly detection reports false-positive rates as a matter of course, and I would expect the habit to have crossed over. I maintain an open evaluation harness, which is where the 2/50 comes from. Disclosure, not a pitch. I am after the number, not the traffic.
-
-1d ago
-
----
-
-**[ROS and Open Source Robotics News for the Week of September 7th, 2026](https://www.reddit.com/r/robotics/comments/1wdqc8b/ros_and_open_source_robotics_news_for_the_week_of/)**
-
-Get all of the best open source robotics projects, repositories, events, and announcements on Open Robotics Discourse.
-
-2d ago
-
----
-
-**[A Softer, Safer Hand for Home Robots](https://www.reddit.com/r/robotics/comments/1wdjmf5/a_softer_safer_hand_for_home_robots/)**
-
-For robots to truly enter our homes, they need hands that are not only capable — but also soft and safe. SoftSync FlexHand V1 can gently handle delicate objects like tofu, eggs, buns, and strawberries, while its compliant structure also enables safer physical interaction with people and everyday objects. A softer hand for robots interacting with the real world. #SoftSyncFlexHand #EmbodiedAI #DexterousHand #SoftRobotics #HomeRobotics
-
-2d ago
-
----
-
-**[Roboticists love “dull, dirty, dangerous.” Kate Darling says we may be defining those jobs wrong](https://www.reddit.com/r/robotics/comments/1wdic2v/roboticists_love_dull_dirty_dangerous_kate/)**
-
-“Dull, dirty, dangerous” gets used constantly as the case for robotics. Kate Darling’s point here is that the industry often skips a pretty important step: actually defining what those jobs are from the worker’s perspective. She gives sanitation work as an example. On paper, trash collection seems like an obvious target for automation. But some automation proposals can also remove the part of the job workers actually enjoy. The better approach may be less about replacing the entire task and more about using robotics to remove the dangerous or repetitive parts without making the job worse. It gets at a bigger issue in robotics: the people building the systems aren’t always the people doing the work they’re trying to automate. Full episode: https://www.youtube.com/watch?v=odORVBoO7ss
-
-2d ago
-
----
-
-**[My first ever KiCAD schematics, made for Project-LOKI](https://www.reddit.com/r/robotics/comments/1wdsx0a/my_first_ever_kicad_schematics_made_for/)**
-
-2d ago
-
----
-
-**[I am 14 and kinda proud of myself.](https://www.reddit.com/r/robotics/comments/1wclckh/i_am_14_and_kinda_proud_of_myself/)**
-
-3d ago
+23h ago
 
 ---
 
@@ -114,7 +116,7 @@ For robots to truly enter our homes, they need hands that are not only capable �
 
 America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-CNBC • 1d ago
+cnbc.com • 2d ago
 
 ---
 
@@ -122,15 +124,31 @@ CNBC • 1d ago
 
 Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 1d ago
 
 ---
 
-**[Humanoids’ First Mass Market: The Night Shift America Can’t Staff](https://investorplace.com/hypergrowthinvesting/2026/09/the-50-trillion-robot-boom-starts-at-10-an-hour/)**
+**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
 
-Humanoid robots could soon cost less than factory labor, opening a Physical AI market across chips, sensors, motors, and software.
+Your weekly selection of awesome robot videos
 
-InvestorPlace • 17h ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[Humanoids will have their ‘GPT-3.5’ moment within 5 years, says AGIBOT co-founder Yao Maoqing](https://fortune.com/2026/09/14/humanoids-gpt-3-5-moment-agibot/)**
+
+Robot dance shows grab headlines, but China's humanoid makers are racing to find real uses in hotels and factories.
+
+Fortune • 5h ago
+
+---
+
+**[Exclusive-IPO for humanoid robot maker Boston Dynamics unlikely in 2027, executive says](https://www.ksl.com/article/51623596/exclusive-ipo-for-humanoid-robot-maker-boston-dynamics-unlikely-in-2027-executive-says)**
+
+Boston Dynamics, Hyundai Motor Group's humanoid robot unit, is unlikely to pursue an initial public offering next year, a senior executive at the parent company with ​direct knowledge of the matter said, as it has yet to deploy its flagship Atlas robots at scale and remains unprofitable.
+
+ksl.com • 6h ago
 
 ---
 
@@ -142,23 +160,17 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Robots 'protest' outside Poland ministry demanding AI oversight](https://www.reuters.com/video/watch/idRW184610092026RP1/)**
+**[Iron Man-like ceiling-mounted robotic arms for house chores unveiled](https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms)**
 
-Reuters • 3d ago
+MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
 
----
-
-**[Engineering The Future Expands Its Robotics Engineering Services in Orlando](https://www.wkow.com/online_features/press_releases/engineering-the-future-expands-its-robotics-engineering-services-in-orlando/article_27896e7a-85bd-56e3-b2e9-6219910b17ae.html)**
-
-WKOW • 2d ago
+Interesting Engineering • 7m ago
 
 ---
 
-**[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
+**[Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.](https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock)**
 
-In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
-
-The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
+Barchart.com • 19h ago
 
 ---
 
@@ -170,15 +182,11 @@ The Japan Times • 3d ago
 
 ---
 
-**[Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.](https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock)**
+**[AI, Robotics and the Coming Economic, Military, and Political Revolutions](https://thediplomat.com/2026/09/ai-robotics-and-the-coming-economic-military-and-political-revolutions/)**
 
-Barchart.com • 12h ago
+In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
----
-
-**[Zuila Services Expands Robotics Engineering Services in Birmingham](https://www.wkow.com/online_features/press_releases/zuila-services-expands-robotics-engineering-services-in-birmingham/article_09f1ace6-7ad6-5c62-aff2-aab251dad0c8.html)**
-
-WKOW • 2d ago
+The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
@@ -202,7 +210,7 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 📺 DPCcars
 
-👁️ 10K • 👍 68 • 💬 34 • ⏱️ 2:18 • 6d ago
+👁️ 11K • 👍 68 • 💬 34 • ⏱️ 2:18 • 6d ago
 
 ---
 
@@ -212,7 +220,7 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 777K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
+👁️ 854K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
 
 ---
 
@@ -222,7 +230,7 @@ Chinese Engineering is bringing humanoid robotics into a surprisingly personal t
 
 📺 Expand Knowledge
 
-👁️ 78K • 👍 855 • 💬 76 • ⏱️ 26:26 • 4d ago
+👁️ 79K • 👍 864 • 💬 76 • ⏱️ 26:26 • 4d ago
 
 ---
 
@@ -232,27 +240,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 70K • 👍 291 • 💬 69 • ⏱️ 3:39 • 4d ago
-
----
-
-**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
-
-The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
-
-📺 States 2050
-
-👁️ 688K • 👍 10K • 💬 538 • ⏱️ 23:25 • 5d ago
-
----
-
-**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
-
-In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
-
-📺 Gain Theory
-
-👁️ 98K • 👍 945 • 💬 43 • ⏱️ 21:36 • 4d ago
+👁️ 72K • 👍 299 • 💬 69 • ⏱️ 3:39 • 4d ago
 
 ---
 
@@ -266,23 +254,41 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 ---
 
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
 
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
+The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
 
-📺 XPENG
+📺 States 2050
 
-👁️ 438K • 👍 4K • 💬 344 • ⏱️ 5:52 • 5d ago
+👁️ 693K • 👍 11K • 💬 542 • ⏱️ 23:25 • 6d ago
 
 ---
 
-**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
+**[A Robot Kidnapped Someone and Asked FOR HIS SKIN…](https://www.youtube.com/watch?v=VuzZF05dnJE)**
 
-Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
+Wait, there was a robot who woke up and started asking for HIS skin?! Sounds like a Life of Luxury video to me but somehow it's ...
 
-📺 Sky News
+📺 LaurenZside
 
-👁️ 37K • 👍 204 • 💬 145 • ⏱️ 6:28 • 5d ago
+👁️ 201K • 👍 10K • 💬 1K • ⏱️ 34:05 • 23h ago
+
+---
+
+**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
+
+In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
+
+📺 Gain Theory
+
+👁️ 98K • 👍 948 • 💬 43 • ⏱️ 21:36 • 4d ago
+
+---
+
+**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
+
+📺 Kyle Krueger
+
+👁️ 1.6M • 👍 70K • 💬 1K • ⏱️ 0:40 • 13h ago
 
 ---
 

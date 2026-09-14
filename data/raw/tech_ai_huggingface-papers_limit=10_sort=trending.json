@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 105416,
+      "github_stars": 105705,
       "project_page": null
     },
     {
@@ -69,12 +69,31 @@
       "hf_url": "https://huggingface.co/papers/2503.08638",
       "arxiv_url": "https://arxiv.org/abs/2503.08638",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
-      "upvotes": 75,
+      "upvotes": 76,
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
       "github_stars": 7910,
       "project_page": "https://map-yue.github.io/"
+    },
+    {
+      "id": "1910.03771",
+      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
+      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
+      "organization_name": "huggingface",
+      "organization_fullname": "Hugging Face",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
+      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
+      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
+      "hf_url": "https://huggingface.co/papers/1910.03771",
+      "arxiv_url": "https://arxiv.org/abs/1910.03771",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
+      "upvotes": 29,
+      "num_comments": 7,
+      "published_at": "2019-10-08T23:23:22.000Z",
+      "github_repo": "https://github.com/huggingface/transformers",
+      "github_stars": 165811,
+      "project_page": "https://huggingface.co"
     },
     {
       "id": "2609.08936",
@@ -92,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
-      "github_stars": 761,
+      "github_stars": 841,
       "project_page": "https://auk-project.github.io/"
     },
     {
@@ -115,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "1910.03771",
-      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
-      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
-      "organization_name": "huggingface",
-      "organization_fullname": "Hugging Face",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
-      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
-      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
-      "hf_url": "https://huggingface.co/papers/1910.03771",
-      "arxiv_url": "https://arxiv.org/abs/1910.03771",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
-      "upvotes": 29,
-      "num_comments": 7,
-      "published_at": "2019-10-08T23:23:22.000Z",
-      "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 165529,
-      "project_page": "https://huggingface.co"
-    },
-    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -149,27 +149,8 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 12711,
+      "github_stars": 12767,
       "project_page": "https://www.flashml.ai/"
-    },
-    {
-      "id": "2609.10522",
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al. (10 authors)",
-      "organization_name": "showlab",
-      "organization_fullname": "Show Lab",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1671779505215-63a55320ce5763e06f78519c.png",
-      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VLM directly responsible for fine-grained physical decisions. Through the same interface, Show-Harness demonstrates the feasibility of (1) directly unlocking closed-source frontier VLMs for zero-shot robot control, and (2) adapting small-scale open-source VLMs for low-cost deployment with just a few GPU-hours of fine-tuning. We further develop GUMI (GUI Manipulation Interface), which extends the same semantic action space to GUI-based demonstration collection, allowing humans and agents to \"play\" robots across embodiments without specialized teleoperation hardware. Extensive experiments show that Show-Harness-equipped VLM agents generalize robustly across tasks, embodiments, and environments, outperforming representative agentic and VLA paradigms. These results suggest that the right interface can unlock substantial embodied capability from foundation VLMs, without requiring additional model capacity or costly embodiment-specific pretraining.",
-      "ai_summary": "Show-Harness links vision-language models to robot control via discrete semantic actions interpreted by embodiment-specific modules, enabling zero-shot and efficient fine-tuned deployment across robots and GUIs.",
-      "hf_url": "https://huggingface.co/papers/2609.10522",
-      "arxiv_url": "https://arxiv.org/abs/2609.10522",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 147,
-      "num_comments": 3,
-      "published_at": "2026-09-08T20:00:00.000Z",
-      "github_repo": "https://github.com/showlab/Show-Harness",
-      "github_stars": 301,
-      "project_page": "https://showlab.github.io/Show-Harness/"
     },
     {
       "id": "2608.23283",
@@ -187,11 +168,30 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 2793,
+      "github_stars": 2846,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
+      "id": "2608.26005",
+      "title": "VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction",
+      "authors": "Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)",
+      "organization_name": "nanyang-technological-university-singapore",
+      "organization_fullname": "Nanyang Technological University Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/637146c5afbe42caa5a75e1b/sZyHSA1AQaAS4nrGan682.png",
+      "summary": "Conversational systems, such as duplex speech language models (SLMs), still lack a streaming, accurate, and empathetic memory system as their soul. We introduce VoiceMem, a simple memory architecture with a parallel informational left brain, an emotional right brain, and streaming memory I/O mechanisms. We further build a complete pipeline for memory-aware SLM training, long-horizon evaluation, and decoupled deployment with interchangeable memory backends. Experiments and real-world deployment show three advantages: i) Accuracy: under top-5 retrieval, the left brain outperforms classical systems such as Mem0 at top-200 by nearly 30 points; ii) Emotional & Personal: the right brain, with short- and long-horizon affective attribution and dual-node persona modeling, achieves state-of-the-art performance across three persona benchmarks and improves the aggregate score by 4.29 points over the previous best system; and iii) Real-Time & Cheap: VoiceMem completes retrieval in 134 ms, well within standard VAD latency, adding no extra conversational delay while maintaining high accuracy and low cost. These results show that VoiceMem provides a practical memory foundation for real-time, personalized, and emotionally aware speech interaction.",
+      "ai_summary": "VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.",
+      "hf_url": "https://huggingface.co/papers/2608.26005",
+      "arxiv_url": "https://arxiv.org/abs/2608.26005",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.26005.png",
+      "upvotes": 180,
+      "num_comments": 2,
+      "published_at": "2026-08-25T20:00:00.000Z",
+      "github_repo": "https://github.com/xzf-thu/VoiceMem",
+      "github_stars": 1619,
+      "project_page": "https://xzf-thu.github.io/VoiceMem/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-14T06:47:15.166403+00:00"
+  "fetched_at": "2026-09-14T13:42:01.419647+00:00"
 }
