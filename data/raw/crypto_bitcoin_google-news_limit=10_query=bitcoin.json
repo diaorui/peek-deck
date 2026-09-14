@@ -5,62 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Symbiosis says it recovered 15 BTC after Bitcoin bridge exploit, offers attacker 20% bounty",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmFrSmRtQjZhc0puX1FPRnQ3SVIxYXBsMDBEeFQ4M1FLd1UwY0lYMTNiTENXRi1Yb0sxQ2tPZTM4NzREUUs4eU1lX3l1aG9sMUswQlM2LTdOSF8xaEJWVG1RUzJsWXhOTWFJZkY4WHkxMXJFbkVlYlQzbXpZSDA4ZGJESnlGdkVZQXFCT1JBcjNsM25ub2ZLLTdadDQ5MmI2Rk9rODJGcGxTNHU1VGdWczluaUVUSHhKaWRjVkZnU09JaUpteUozU3N2MmYwemNNdDk5aDh5UUk?oc=5",
-      "pub_date": 1789336271.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568",
-      "image": "https://www.tbstat.com/wp/uploads/2024/07/20240710_Cypherpunks_News_1-1200x675.jpg",
-      "description": "Blockchain security firm Blockaid said roughly 46.1 billion syBTC were minted but the attacker realized only about $336,000 in proceeds."
-    },
-    {
-      "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRThhVDEycUF4VXdwR2MwaUNxWXZyQjA5QUt6VHhwMTFZUnpwYUducVduTmNmd3I4UWU5ZnVreXJQdnNIZ3lnZXc2SXJZTWJCVmFRWWxJQWFVdjJqaDEzdjZOSXR1MGczRDJKdXFjQVpSMHV4eFp1X213Mk5nNS1JSl82d0lHazhqclBSczdYaGxSb2VkRnRoRzY0bmRnc1NTcnd3R3dJczl1VVFEX1Uxcy1OeENUNzFnWFRRQXk4eHY?oc=5",
-      "pub_date": 1789207861.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin is helping build a historic tall ship in San Diego",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXRWeXp6UkFWQ0Vzd0c0MDFEdFd5c0FLUFVVVEw4VFpqMFJuYXRqZVdQX29LUk85eE05OEVTcHFZMkx3ZDJ1RUpUYTg2dXIyX3FuMmRpYkhmbmkxTnAtcmNkeU9MN2ZSOGItX0Z4UDBsd2s1MC1VWFROTHZsdldsTjF5VVk5NUl0YTB3QXJDRjkxelNNcmctYnlrMmdfZ2JiY0c1dXE5OENtVU80bEtGZQ?oc=5",
-      "pub_date": 1789392660.0,
-      "article_url": "https://www.axios.com/local/san-diego/2026/09/14/san-diego-mission-bay-pilgrim-iii-tall-ship-floating-classroom",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Biggest Macro Risk for Bitcoin Presents for the First Time Since 2006",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeE9nTm85TFVkeEtWWlhwcHhBT2x2V0lac0NrMmp6YXNNR1pOdDQtamlFSnVEV0libHpWLWszeXp0WUNaTlMtcjkzdE5CYUNPUXBVazlSclVuczR6WnJIWFNCVzI3Z242eElfVWxYZXZlSC1fbFcwSHVMeFhTbE03ZkNtT2dRWjNXQXA4RjFVREM4VF9laFFpVnAyZkdtM3IyN2c?oc=5",
-      "pub_date": 1789390341.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/biggest-macro-risk-bitcoin-presents-125221257.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e3a793413289fd3a0592cf44abd92bd6d2103e739f4d85b207d1bb0b4050b232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1806c0da2a5a78790467470de854956a.jpg",
-      "description": "The Fed, ECB, and Bank of Japan may tighten together for the first time since 2006, reviving Bitcoin's biggest macro risk."
-    },
-    {
-      "headline": "Michael Saylor's Strategy Goes 3 Weeks Without Touching Bitcoin Stash, Keeps Buying STRC Stock",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmtzMHpfN2tGaGZfT1k1Qy1kbUFjRDBiblpCSWVieHMyc3k3TmFvX3NrU2FFOW95YkMwbTVoVURnUHhNRWhEUVh2MV9fVlR5c25xOHhJbnFtT1h4MWhPNDdHQkVoMDdqb2J0OU85LTRlNS1COU5VNUVNUVd1bGhjeU4xeDk0VDVmMlRmczNXZXhrY1J4bzBCYVlNY3I?oc=5",
-      "pub_date": 1789389944.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/michael-saylors-strategy-goes-3-124544057.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/df10fc253c5a2bd62166f896f4f62cfd10ed0a4e46e8187ac0ed598d760ca7ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F4769e3baa8b19295a9a7ff9068fbab01",
-      "description": "Strategy left its Bitcoin holdings unchanged at approximately 845,050 coins for a third consecutive week."
-    },
-    {
       "headline": "Bitcoin's late summer rally set to face off against the Fed, Congress",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
-      "pub_date": 1789384577.0,
+      "pub_date": 1789400730.0,
       "article_url": "https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto Rises as Long-Shot US Bill Gains Better Odds of Passage",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVdpZmgzVXIzUVlGbU9mTFVnVFlZZGl3WkRnSTNJZUU2VEQ1cmgtY0FNNVdnZHVRdi11VWp1cHo4ZzEzbXA0ckVTVmNTZzlMVlJPSlR4Z0lBdm03RkV5T21UVkptNEhjZlVhNC1fY1F4QzNhaDJpcXA3N1hGbzBmZEthOW5TUGZzRUZWa2lBUjk4aHZBTi1xMU5iSDdiXzAyZ2pHUlc0OVRkVHNYNDNzbWVEdw?oc=5",
+      "pub_date": 1789394566.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-14/crypto-rises-as-long-shot-us-bill-gains-better-odds-of-passage",
       "image": null,
       "description": null
     },
@@ -75,36 +35,76 @@
       "description": "Bitcoin (BTC) is starting the third week of September below key weekly support levels as traders eye volatility cues.Fed\u2019s Warsh seen hiking rates despite Trump pressureThe Federal Reserve takes the spotlight for risk-asset traders this week as Wednesday\u2019s decision on interest rates dictates the mo\u2026"
     },
     {
-      "headline": "Bitcoin at risk of a \"sell the fact\" reaction on the CLARITY Act vote as FOMC decision looms",
-      "source": "investingLive",
-      "source_url": "https://investinglive.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlRjTWw5MzZ3QXRDal9lLUYyZjd1UmRaOW5QZ3JmTFhQVEFFOWlSakY1eU5TcWdwWG5XX1VKcmI4STVwbWVhU0ZmLTNySk1PcDRJMGFyREtPVTB2VHBwZ0tjZktUN2NxNHUwd2ZLa2ExQ0YtRGdSVXprTHhyQTN0T0hCLWtndXU0Ykx6MjFQVmhnbHlCVzVRWU1oa1YwNnByc3BQSnVDZzJtSWtMR3VjUGhISFRoUTIwVWxTNUsyVm1tdWRjd05scWpkeVE?oc=5",
-      "pub_date": 1789380739.0,
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-at-risk-of-a-sell-the-fact-reaction-on-the-clarity-act-vote-as-fomc-decision-looms/",
-      "image": "https://investinglive.com/cms/media/bitcoin.png?width=960&format=webp",
-      "description": "Bitcoin has remained resilient despite hotter US inflation, rising oil prices and a hawkish repricing of Fed rate expectations. The upcoming CLARITY Act\u2026"
+      "headline": "\u2018Buckle Up\u2019\u2014Bitcoin Is Suddenly Braced For An \u2018Extraordinary\u2019 Fed Price Earthquake",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR3RROEdvZnMwYmcyZjJvTUM3X1pEcl9kYmFHOThjRjl1Rk1zUXZVZWRTVDBIVkJfYnBNQi1iRFRzb3Q5QzVUbHF4ZXpuR0xsekg5NFJzSUozdmc2NDhtZ3IwWG04VjFkdnJSdktSd3RTVEVHMGYwaXAzN1U5Nkl5S3hudGRmOTlRcEl5b3JaM2JpS1FEVlpXcEF6Q09DQldKY2g1Y1d4aFhnZExNTEJYcU5XNWQyWmVSbUE?oc=5",
+      "pub_date": 1789394940.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/14/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "5 Best Bitcoin Casinos 2026 \u2013 Top Bitcoin Sites for Faster Deposits & Payouts",
-      "source": "muddyriversports.com",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT2V4OTktQkVfSkk3V2RvMUxoU01xRkRWOFdlQTJvbFU1NEN3cDBacGhtY3lIbXc3ZkxoVWYyTXZmVDFCTm9WNEFkSmJxQXZYRkdPemxqV3JjSUk2VHNISDVvSXowMDBUWTVOMTczYmFIczJ2M2xXd0t4YTVCc3FPUktuSnNhcEFadGtZa1Fnc2NZQzdLYkozalpDb1dkN21SUk5ZaWJLTDMwQl96YzRTb0xmdUczWExMQkk4T0JnOE1mVG1sQmdXTEJBU0Y3UUQ4YVE?oc=5",
-      "pub_date": 1789353057.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/5-best-bitcoin-casinos-2026-top-bitcoin-sites-for-faster-deposits-payouts/20260913213000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1424.png",
-      "description": "5 Top Bitcoin & Crypto Casinos Listed Casinos Welcome Bonus Ratings \u21aa\ufe0f mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f JACK.com 100 Wager-Free Spins 4.8/5 \u2b50 \u21aa\ufe0f Thunderpick 100% Match Bonus up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f BitStarz Up to 5 BTC + 180 Free Spins 4.7/5 \u2b50 \u21aa\ufe0f Lucky..."
+      "headline": "Live updates: Bitcoin climbs near $79,000 as stocks narrow declines",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMTJkdFFRYVA3c2NNVXRxbVdvblEyYkdUMnBMQ0g1UzYxZjRUbk12bnp4NHhmX1ZSM2RFN1NVckdhaFpiUVRQNHBaZHQzWUt3cFk1ZHlQSkhoOXNYRjYxUWN3ZEtkTHdMejhkZmtUVU51MjRYc2dCaGNzb3hnd1JjdjhhRlhDS0hsNnZtcXFQQmVLU3AwVVdYelpPVzljUGVYc3BhVlNHT3RQbW1LTS1seHhzUDRSLVhjVlBzY2RB?oc=5",
+      "pub_date": 1789407963.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWdQS3QwTUFlRXBkY3FIWk1oSjBlcHlXMW8xOUhEM2Y5VlFjQ3JVVzF6c0txTjBSMkswSV94NlI4bTZYRy1NQk1Jdi15YkdpcVZyVFRTR0V3S3dpVEl6OXlsRDR2TWw4SWRQU3BHR0J3SW9CbzB0b2RPa2RBdndZNGpUUXjSAYoBQVVfeXFMUGl5WUJ0dVBFbHZXS0lQZU9uV2FWQ0NiSnBPMUluNnZPaUU2bFJ5aFJIemQ1amRmYlVKRUpCb2RVekFmS2YyYzhVbFQ3NnpFR01udGpxM0tvTTc5eTRmUS1adlh1NFM1SE9Qd0JmTVh6akEyODVzNHRoVGU0THY4VXA3NmdDY2lrM3ln?oc=5",
-      "pub_date": 1789145167.0,
-      "article_url": "https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361837-1789137192360-gettyimages-2291185551-aw1a9203_y44fklha.jpeg?v=1789137385&w=1920&h=1080",
-      "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds."
+      "headline": "Has the Bitcoin Rally Fizzled Out?",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNWeEpyNUF1d0FaTG1rNFk0NlVmQ1F5QWExRk9yc21BWTBPb0xGSU0wdkEzZnhsSTdOS0cwNGVCZUstOFBKblR3RTU4clJmSFZWaG05akRYRGhuMmNhMzg3bE5zRTAtYTVZOGFPeE56TzU3MEVzTEVvdDVUQlJwXzNfX0pkXzBn?oc=5",
+      "pub_date": 1789395120.0,
+      "article_url": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Analysts Think Bitcoin is Less Than $5,000 Away From a Bull Market",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDRFZ0MyVE8wRW1nYkU2a3ljTHh4VGJrT3R6cDFELTR4eHJwcU9vUjY0QldVenY1MjlUMExMeS1DdnNJdEZHUTk2MVlCRk1rTFBDZ3V2WllyTTJzN3J5bFMzYmxqbnd5dmJ6VVhOXzlqQUljN0NXSjNFc2h0OWlRVTBzTjlmUXBNR3NzRGdJa2N4cWJnbDZkWWNR?oc=5",
+      "pub_date": 1789319111.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/analysts-think-bitcoin-less-5-170511162.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/65db158b429ba6409400bbc7823cf789880e1dc325a54eb72baa9457e3282acd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9a385619a5d5be38994330dbb5b119a1.png",
+      "description": "Bitcoin sits $4,900 below a bull market confirmation as whales sell the rally and US funds stay out. Everything you need to know."
+    },
+    {
+      "headline": "A Bitcoin Berkshire Model: Orange Juice",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZlY1LWR5cnRXaTlBNVdpOHdwWFhXLThqRXlPRWEtcWxnb1dER3o2al8tejhZS0FtaGwxQWtBWU9DcEhfWmwyTWZUSnY2Zl8zaC1Wa3huR05iRTMxUmdETGxKSk1RYWNjNlV3YVl0NUZwbnl1X3NZZGh3NHREY19hOXFZZkNub1ZKc3hZ?oc=5",
+      "pub_date": 1789389806.0,
+      "article_url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-berkshire-orange-juice",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/orange-juice-bitcoin.png",
+      "description": "Orange Juice is a new corporate Bitcoin playbook imitating Berkshire Hathaway."
+    },
+    {
+      "headline": "Strategy repurchases $139 million of STRC shares, leaves bitcoin holdings unchanged",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1JHTGxVWkk3WnZFR3pqVWJxcFlBTmlZMTdWcE5Pc29uZngyTkVhTjdnRzlldVM0cXBpYXpWR0dRaVVwYUZpRkFVb0c5QTNBcy1BQ1hkTm8zMTk5bTJmTFVHLVRrVHZtVmdBTERacUJrZVZNT19yRlRuS3p0VGJVd201bVF3dDE1YUE?oc=5",
+      "pub_date": 1789387717.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-14-strategy-strc-bitcoin-mstr-414603",
+      "image": "https://www.tbstat.com/wp/uploads/2025/12/20251208_Microstrategy_News-1200x675.jpg",
+      "description": "Strategy's total holdings account for roughly 4% of the 21 million bitcoin supply cap \u2014 worth roughly $66 billion."
+    },
+    {
+      "headline": "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPejJtcWM1VXlOdEZ4NUFhNW1fSGtqYWhJOUlUVFllWlhuWWZjQ1UtUXZZLUppb3ZiS3pQUUxzR29rdTFqZmlmUEJFLW82LVpleGtCWXY1TzFOaVhQTVc4aTlkOTMwSFA5WklpV0Q2T2l3eldFd2xfRE1NdmZVNVFwa3hNNmNRMDlMX3FSRlN5QmF3anc5ZUczSXJ1WGF2TThOX1pETHJOV25fZXVvTDlKZEotMHZ3QTVreDFOWUtSWk1sQW9PbUdGcHZoc3hibGNLVDU5T2pRUDM1WEhhc3k2YQ?oc=5",
+      "pub_date": 1789398000.0,
+      "article_url": "https://247wallst.com/investing/2026/09/14/coinbase-jumps-6-on-compass-point-upgrade-ahead-of-senate-clarity-act-vote-strategy-climbs-3-mara-slips/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/08/Trump-bitcoin.jpg",
+      "description": "A Senate floor vote on crypto market-structure legislation is splitting the sector in real time, lifting some names while a JPMorgan downgrade punishes a miner that Bitcoin's rally cannot save."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T13:42:22.237960+00:00"
+  "fetched_at": "2026-09-14T19:04:04.575237+00:00"
 }

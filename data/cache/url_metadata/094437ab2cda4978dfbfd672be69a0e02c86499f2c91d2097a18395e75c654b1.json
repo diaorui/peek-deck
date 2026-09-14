@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-14T19:03:29.980721+00:00",
+  "data": {
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
+    "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+    "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
+    "site_name": "MacRumors",
+    "author": null,
+    "keywords": "iOS 27, macOS Golden Gate, ChatGPT, Claude, Siri, Siri AI"
+  }
+}

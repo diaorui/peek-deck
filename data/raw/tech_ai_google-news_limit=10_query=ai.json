@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI CEO Sam Altman on AI: We may lose control",
+      "headline": "Trump dismisses AI alarms as a \u2018HOAX\u2019 \u2014 worrying White House officials",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNlFrWURuMElVQTVJYktYVWdWaHVueXVzV004SnRnQkx5SFFZM1JfSnJnTVBmaVZCSU5vanFnVFdFdGpQbk1YaHRjeVZJbDFTclFESy1JbldlRFhnSERteXdIc0E1Y0xmOGpnR3RR?oc=5",
+      "pub_date": 1789401289.0,
+      "article_url": "https://www.cnn.com/2026/09/14/politics/trump-vance-ai-alarms",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295083446.jpg?c=16x9&q=w_800,c_fill",
+      "description": "President Donald Trump on Monday all but rejected calls from AI industry leaders for more government regulation on their cutting-edge models, making clear he considers outpacing China a higher priority than addressing growing public concerns."
+    },
+    {
+      "headline": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmFIWG1qMktWVG9la3hFdFBRZG1nc1RXV3p6bFZuWUYwTl9nSEUwUTMwTDB5UnRFeGV4MlJ3alp2WG9OdU1KR3V3ekJhWmh4enRZcjVGWkdzN28zSG5UU09wbWtFSGxmZ1RsaHU3blZsMXVqTlQ5SVBHcjNETGRHVmh3NU1VbVpKNzF0bTVrRC1iUkx4WkliZTdQVnM2SmdlQVdLc3J1aGl6Ym1aUkV6TllNaWdZRE1RLWFUZG1yRlpSQzI5emk5VGRSbXRfZXJOZUHSAdcBQVVfeXFMUDZlMzhnZDVDcVNjSE1oV2toUlh3SGRYWEtnYm5KSEJHMk1KOEhDSWFLSW13cWp6d0hBcEZDMlB0azFKSkk0cFNVTm1idjVpRzNUMXpqS2w4ZTA0aXNmdjN1aXZoSHhPUnVxbVZZYlZGTnZLOEhRQzJybjV4aHlDMlRMNndGUUxhdWhXZ19tcGhvaXFqVmlkWElRRHpQR3hvV2l3Z0xnV2JDRnBVRGNLRUd0bXpfMmJaN3dVbUlzU3JIVVhlVEpxNHpOaUVnY0lQSE5JTEU0V00?oc=5",
+      "pub_date": 1789408897.0,
+      "article_url": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362435-1789395217514-gettyimages-2295226866-mms19360_eksiao20.jpeg?v=1789395248&w=1920&h=1080",
+      "description": "Volatility measured by the Cboe VIX Index jumped to 18 Monday."
+    },
+    {
+      "headline": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5%",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+      "pub_date": 1789405920.0,
+      "article_url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The AI bubble is leaking air, some economists say. Should investors worry?",
+      "source": "cbsnews.com",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03T0pQLVlRVXZ3RUlobkVOWlBCZ3NhYXBrdERqU08wUnllWjk1WFg4aE0xd3NHUWlSVnBjTUZ1ZDNTZUJxVGhfeXZ1VnlIajZJN2JXX2E4RmluN3pNdHVFaUNCeVZzXzg?oc=5",
+      "pub_date": 1789412312.0,
+      "article_url": "https://www.cbsnews.com/news/ai-bubble-stocks-investors/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/14/8a669d76-97f2-4c2c-a80f-9d7943352665/thumbnail/1200x630/1d9a7a9e421e26231d5accbc63b75918/gettyimages-1158933034.jpg",
+      "description": "AI has fueled a stock boom in recent years. Now, some Wall Street analysts think that epic run is coming to an end."
+    },
+    {
+      "headline": "Capitol agenda: Congress isn\u2019t rushing after AI alarms",
+      "source": "politico.com",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWdTZ3BULWNHZ1QzT0FOcnV0eFBNRnJWSjNoZnJLTkgxSl9HNjdSbGZjZjlaN3RVNWROWWdtc0ItRF9lU3dfT0NHYldxNzZGalZzelREZHNsWGdqTGpOSzlpWDFCUVBhSl9NVXdtUmNDUm9tRGhaUWcwVHZyQ2VxSjh4aEJ0NGNQQUhRS2tn?oc=5",
+      "pub_date": 1789387200.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/14/congress/what-were-watching-01074046",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "With AI panic spreading among Americans, Congress is under the gun to act",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnBMSFJUNEtESnE4MlZRREgtR3VhLUwyczZCazVDcTBtMDBMSDRVV3N1dV9pU2h4OE9HY0N0NGNxWUpYWUpKWjVZOHFYcm9yc2JVc2dVN0FMRmI1RFN0WXhhaU5UUkhwX2ROelg0SzVuUzdqdi1RRG1zaDlXQ0VDZjRfbENjeDlyLTZoMmdDMm1iMU05NVdvckRXVWN6S1dn?oc=5",
+      "pub_date": 1789408680.0,
+      "article_url": "https://www.usatoday.com/story/news/politics/2026/09/14/ai-congress-capitol-hill-panic/91757105007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/14/USAT/91760365007-us-capitol-dome.JPG?crop=8234,4632,x0,y823&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "Senate Minority Leader Chuck Schumer is calling for an all-senators briefing from the Trump administration about AI guardrails."
+    },
+    {
+      "headline": "Watch live: Jeffries gives remarks as AI safety concerns mount",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORndYWUtWNEhrR1RQZjBUZkl0WDMyMURhSndkRkhpb3NtMGRGazZjVEpqblMySlQ1MmJfbzRSeE91Z1BXOXZpMy1BSndiUmNMbXFiWGROSmllUGxmM2lRMFMwLTVDMldUZVlta0NVdDFnbUMyZGNwdVVJR29EY0ZvekVXRjQ5c2prei05RHpsQS16OFo4NlZLSkNzVGJzdHUxXzZuUdIBqgFBVV95cUxQUm1tWXdCMzNNWXRwTXJRX3hfMkxjaHdUQWl4NDZNX1kxZm1jZWw5UkIwM2Rfdk1rSWEzSU1VS1dEVGcyUzFEYnF1WjAzc3FHTk4zNU9TWFlZWHZoMUJVcnhscGRzU1BzX29nbk5uNjVRR0ExVk1kNE13UzFzY2xKNGd4VTVtNFdCQWM1elBhc2lqd04zR2lzZndFZi1RT0NYTGw5QmxsZHFydw?oc=5",
+      "pub_date": 1789410840.0,
+      "article_url": "https://thehill.com/video-clips/6088601-watch-live-hakeem-jeffries-press-conference-midterms-ai-fears/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sam Altman reveals the 2 AI threats that scare him most",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFJRd0ZIS0JGZDFybTBTcXcxblF6QS1aSFBUSC1pYnRPRjQ4alU1QkNfenE0WEV1SzNSNEMwRUJOM3NmYXlKZ203WDU3ZGxjQXZ6WHdfS2pQR1lyODhRZmF6ZDgtckJ4Wk9wcXJmaG83QS1xWmJBLThERkk3YWJQZg?oc=5",
+      "pub_date": 1789397318.0,
+      "article_url": "https://www.axios.com/2026/09/14/openai-sam-altman-ai-threat-doom-doomerism",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman on AI: 'We could lose control'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNS1JYmRvUk1EWWtpUjdSeEFYYmZUZHgtTVJUYlBtc05OVmxTS1ZHMUdYMlRxMlUzRDBwMHNYZk95TDI5ZFlGcGNfNnRreHJ0Z19FeGQyTjJDZWtfaVVPT0FyXzBqV0xHV04xV0xabXBwSmVnbzE4dEY1bWVyRER4UTJDM1ZmOGoxaWp5VVMzaWx1VGFYSW5KN01LVnUtN2FoLWp3cl9ZX3NsX1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2RPZm8yNWFPclE5WVBzc2ZtT0M0bDJZNURQblpGeXdfRk1DS2lKcXB6WWhoMGlOaWlxQjhrYzlaZEpTREdlcElSTlNqd0h1U1pNTFdxSGJ1WkN3cmVtRzl0dnBqbmZycTh3eEVwaG51YXJRQUVCTXRBYXBZYlp5eVRiazI4RF9VOXhGYVRUTlVsYl9HeEFOUjdWdUR6bHJwazNiRDE0VEVrRktBX0E?oc=5",
       "pub_date": 1789380996.0,
-      "article_url": "https://finance.yahoo.com/technology/article/openai-ceo-sam-altman-on-ai-we-may-lose-control-091146594.html",
+      "article_url": "https://finance.yahoo.com/technology/article/openai-ceo-sam-altman-on-ai-we-could-lose-control-091146594.html",
       "image": "https://s.yimg.com/lo/mysterio/api/06ab44f3d8d325692c053303a164f004395f24f72206d5c262e481e122665024/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F38f7f750-7ee2-47a2-b23a-162fc623063d",
       "description": "OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping."
     },
     {
-      "headline": "Microsoft: \"People matter more than AI\"",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iazVJRlkweUZBcy0tMk9pOXFzY2Mwck5aWlk3dUdOT3VsRVFKSEo4UnVDc0hTQTFhRnR5WDhQMlFjaV9SUGlmY0JDZVY0cFY0ZVJzdkhiLXlJUWNES2U0cWw2Y0VWMHdF?oc=5",
-      "pub_date": 1789390966.0,
-      "article_url": "https://www.axios.com/2026/09/14/microsoft-ai-people-code",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft drafts code of conduct to keep its AI under human control",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHh5QVYwWDZ2bUR1V20yb0ZhQ1lzdjVST1hheU9DODdUNjRWN2Y4aUt1NG0zMElMSnRfYjJ5Yi1ncnMyRUlWTWhIUnNHYlZHel9LMXYxcWE2MEp0UTYtR0U4SWhkTHM3ZjQ2ODcwUUg1Vk9zNGtWZzNmVEh6QU9mNUZTU244MTRDaG1ETUh6bDRtWl9WczJTZm9iYmZuWkpESW5PWUhRSGg0WU53NEp0OXgyS2U?oc=5",
-      "pub_date": 1789391122.0,
-      "article_url": "https://www.reuters.com/legal/litigation/microsoft-drafts-code-conduct-keep-its-ai-under-human-control-2026-09-14/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaVJhV3dmUHlTZjhJaGgxS3lYUnZZR1RuOEhmX0ZtYjItZE90MndnMy12T0VkWXdCcUxncnBaTlBuYnlxVnNHczhDczJfTHVjLXlNSlNPd2RWYWdVeWdaNU5MNU9nR2NNSkxyWnJtX0dpQkVjSV9LbGRwdVBCV3M?oc=5",
-      "pub_date": 1789390800.0,
-      "article_url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Microsoft has created a \u2018humanist AI code of conduct\u2019 in response to safety concerns."
-    },
-    {
-      "headline": "AI stocks tumble on safety warnings. How to proceed \u2014 including 2 names on our shopping list",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVl3NktNWFFaV1dTZGptVUhsTlVUN25feHg3U2lHVlZMTHFmNDF6RW9RWGotbjVZdzZxa0NRWldlaDBKVk4xNWpzaHl3MlFrSjJEdEE4elYwbDIyc1ozTC10eTVGS1lkTmphSEF3a25qeF90Z0xYUTdXMU1xQl85eU4wRERsWUpMT1ZEWGJ0UDNEV1Bsd2J6bk5CMXRGQXoxZWxtUFd3Rlp4MzZ4SXF4SHlHVk9xOC1vVk5YT2Rlak02Nno1?oc=5",
-      "pub_date": 1789390500.0,
-      "article_url": "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108269269-1771956501574-gettyimages-2261852583-INDIA_AI_SUMMIT.jpeg?v=1774360265&w=1920&h=1080",
-      "description": "Jim Cramer offers a roadmap to navigate Monday's sell-off in AI stocks."
-    },
-    {
-      "headline": "US stocks on course for lower open as AI jitters hit Nvidia, chipmakers",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUFFaDBPNXQyQ3J4aUp3M3NsenNDMWU2SFRVQUhseDZTcHdMVTZSLVZ1dFBXZUNDcnROWHdxM2c0N0N5QW9xbVVWUWZ4ZnV0R1hVWmhWd0xyMWpWRUxpWHVYR093bVRERmlIb2pFYWJ5NzNxcU1kNzVReDFiOWZWcnVad01fS0xMSlZWRWhkVm1MUmR0Uk5VUHRQOGw?oc=5",
-      "pub_date": 1789390237.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/5c0ca08ca4c8325030c91b1fca4eaf634d9c520421e2a18735a2291e79c4d8a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8089a33376eb79a9c05db30e8c7d8182.jpg",
-      "description": "By Niket Nishant and Tharuniyaa Lakshmi Sept 14 (Reuters) - Wall Street's main indexes were on track to open lower on Monday, weighed down by a selloff in big AI stocks after top U.S. executives cited"
-    },
-    {
-      "headline": "Stock Market Today: Dow, S&P 500 and Nasdaq open lower as AI slowdown fears and rising oil prices weigh on stocks",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUzlweFhFUzk0UGhCUmpCVWVvQTFvLXZadDRvQ0YtaV96WHMxTlY4bE5CelRBOVZPWGVfdTBXT080ZXdxbXlWdFlmcWVjeDBnYlhFd3ZZZHNnQjdqYWE5SzVLckthZGVZelQybGRtZnJGaU5XeDRLd2hWWUNaYTNJRFE1MHVEU3I5NTN3NHQ5eTZOSnVQWVlQNzBTUk4zZHRCbGcyVG5POGJ2d2xUZUJkVnVTZnZjejYybXhuU2NzN1VYc3dNOVFaX3pNRXIwZw?oc=5",
-      "pub_date": 1789392900.0,
-      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-ai-safety-concerns-grow-oil-prices-tension-middle-east",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Attacks will be fully autonomous\u2019: Russia, Ukraine race towards AI warfare",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0VNaWp1eEdUbG1BTk1sMXNDNG92Z0s3d1RTYXJnOEhEZmNBOXFjYkluU1gyOU9vRjFSMkVYUWxoSlJzY1J0LS1LRGlGRXR4TENWc1VXaklmUVdWamNDcnY0eGo0SFNYeVhEZWpzZFRpMk5fdi1MdGxrOU9DZ0d0cjBtY2ZvTHdFN1ZwcE5SMkNHYTE3dFFHNVhJU0QtNnNYOFJvU0x2Nmt4V3plckdaSGp30gG3AUFVX3lxTFBESTF4R3hLc1hFZjdTOGhOdmhicllJUnFsUEZpRkppbFRfXzJMSTRFNGptb1czVWYta3BpODltaTJsSGd6dlNWSHFTOThBSHZBYnVGNFEyUEtfSHRET01KZDRHV3BVLVAxWThzc1pkMWRmdVRBYkQyVkd6SkJhMHhxODNTUWtPODk1ZFBkSkdPSTlrS1BocHNENVBuQlF1NWtIYzhwLUxCLW5vV3g3a1lhOTZQZW1NWQ?oc=5",
-      "pub_date": 1789392494.0,
-      "article_url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa0209799f9-1788878999.jpg?resize=1920%2C1440",
-      "description": "Automated AI drones are just one component of an ultimate chain of destruction both sides are building."
-    },
-    {
-      "headline": "Trump downplays calls for AI slowdown",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVdHY1FYd2RBVTlXQ1F4cTVobHh0X3c4VHVNTnJjTzgxdi03NzlrVlAwYV9uVXhfOF9BVkRvd20zM1MtZUlMRzlhNnhiSldhMGtqck5JV1YzWDI4RHhYem5Ub2RKdEhPek1sNE01M0Y3eTZWXzRSMU81b2tNRTRtSg?oc=5",
-      "pub_date": 1789338759.0,
-      "article_url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3682x2071+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fc4%2F5be7a97d47de84dedd8b5180b45c%2Fap26256495459897.jpg",
-      "description": "President Trump said the dire warnings about AI were exaggerated and that \"negative forces\" are making claims about things that won't happen. This comes after leaders in the industry called for putting the brakes on AI development."
-    },
-    {
-      "headline": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5",
-      "pub_date": 1789340100.0,
-      "article_url": "https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d",
-      "image": null,
-      "description": null
+      "headline": "AI leaders Amodei, Altman warn of safety dangers as Trump blasts 'sick conspiracy'",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWt4bTJMbUEwbmswV3F6VHdacjE1clFiRmc5YUpsUUxaVXY1aE56UXNSUTFBMVA4SDIxblBYVXRwOGRhUGlhMTB1X0Q5LTF1ZFl5aV9vWHkzMVR3ZjF2TlBkaklCcGQwN09FWmZVWGlzUEVMN3VrcWItd09uYmRSNk5rY09xYWZrSHEtTw?oc=5",
+      "pub_date": 1789408338.0,
+      "article_url": "https://www.foxnews.com/live-news/artificial-intelligence-openai-sam-altman-09-14-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/219a9f3a48c097c63153354d68147be9.jpg",
+      "description": "Sam Altman sounds the alarm over the risks of rapidly advancing AI as tech leaders weigh safety, regulation and the race to develop increasingly powerful models."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T13:42:24.513021+00:00"
+  "fetched_at": "2026-09-14T19:04:05.412274+00:00"
 }
