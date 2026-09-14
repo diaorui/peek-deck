@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-13T23:20:58.118099+00:00'
+updated: '2026-09-14T01:24:40.125606+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 13, 2026 at 23:20 UTC  
+**Last Updated:** September 14, 2026 at 01:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-o
 
 All this “Oh we need to pause because AI can kill us all” talk coming from the people that spent the largest capital in human history for the non existent ROI…. How? How can a trillion parameter model “copy itself”? Where? This is not a 256kb virus. How can “the internet be overtaken in 6 months” if the data center for those “swarms of bots” is down with a 504? All this apocalypse scenario talk assumes we will have “rogue agents” that wreak havoc yet happily call a model behind a REST API that gives it a LLM to talk to.
 
-7h ago
+9h ago
 
 ---
 
@@ -57,29 +57,21 @@ All this “Oh we need to pause because AI can kill us all” talk coming from t
 
 This is from McKinsey's State of AI 2026 survey (published late August), not just a headline stat: 32% of organizations decided against an off the shelf purchase and built their own solution with agentic coding tools instead, 41% in tech specifically. Curious if anyone here has actually killed a real software purchase because an agent made building it in house viable, or if this shows up more in survey answers than in actual budgets.
 
-13h ago
-
----
-
-**[OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved](https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/)**
-
-An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alpöge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alpöge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alpöge credited as a collaborator, OpenAI mathematician Sébastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him "why would you ruin your career" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
-
-14h ago
+15h ago
 
 ---
 
 **[Trump downplays the need to check AI development and says he doesn't want to cede edge to China](https://www.reddit.com/r/artificial/comments/1wfkyn6/trump_downplays_the_need_to_check_ai_development/)**
 
-🔗 [apnews.com](https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link) • 1h ago
+🔗 [apnews.com](https://apnews.com/article/trump-artificial-intelligence-guardrails-china-midterms-congress-9df0ebb4c1b0619aa0f88057b5a1092d?utm_source=app&utm_medium=iOS_share&utm_campaign=copy_link) • 3h ago
 
 ---
 
-**[What Does “Winning” the AI Race Actually Mean?](https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/)**
+**[China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’](https://www.reddit.com/r/artificial/comments/1wfov7d/chinas_intelligence_chief_warns_of_risks_from_ai/)**
 
-People are so unrealistic about the AI race. What guarantees that the US will reach AGI/ASI or the singularity before a disaster happens? And what will happen the next day after the US “wins” the race? and what will the US actually do? I believe nothing. The same thing happened with nuclear weapons. The US was the first country to develop and use them in 1945, but the advantage didn't last long. The soviet union developed its own atomic bomb in 1949, followed by the UK in 1952, France in 1960 ... The US was first, but other countries eventually caught up. AI could be the same. Even if the US reaches AGI, ASI, or the singularity first, other countries will try to catch up. And because AI is software, it could potentially spread much faster than nuclear technology, including through open source models. So what is the actual importance of the AGI/ASI/singularity race? What happens the day after someone “wins”?
+State data, business secrets and personal privacy are at stake, State Security Minister Chen Yixin warns as he calls for stronger safeguards.
 
-3h ago
+🔗 [South China Morning Post](https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=Reddit&utm_medium=Social) • 35m ago
 
 ---
 
@@ -87,23 +79,15 @@ People are so unrealistic about the AI race. What guarantees that the US will re
 
 I'm pro AI. But I am also worried about a lot of things, like what the government wants to do with AI, Flock, certain things that AI can do, etc. I'm also worried about the slow down and pause that everyone wants to do, and how strictly they want to regulate and limit it for everyone, and their plan to kill off open models and models from China. But I can't post anywhere. Because I'm pro-AI, I can't post any of my worries about AI in any of the anti subs, because I'm pro and they'll get fucking pissed at me. But because I'm critical of some things around AI, and worried about what some bad actors might do with it, and worried about the future for AI and us using it, I can't post in any of the pro subs because all they'll listen to is "AI is the future and amazing and will solve all our problems and antis are stupid." I've tried many subs... r/accelerate (Get very mad at and downvote any post that has AI worries, calling it "doomerism". Will rarely read past title or first sentence.) r/singularity (Get very mad at and downvote any post that has AI worries, calling it "doomerism". Will rarely read past title or first sentence.) r/defendingai (Get very mad at and downvote any post that has AI worries, calling it "doomerism". Will rarely read past title or first sentence.) r/leftistsforai (Deleted all my posts, saying it's "not constructive discussion", then perma-banned and perma-muted me for arguing.) r/antiai (Know that I'm mostly pro and any time I post a worry they insult me heavily, call me stupid, downvote me and say "Oh you just now found that out dumbass?") r/aiwars (A horrible mix of both anti and pro AI. Some days you'll get mostly anti, and other days you'll get mostly pro. And with that comes the same issues of both. Antis hate you posting anything pro, and pros hate you posting anything critical.) r/aiwarsbutbetter (The same, despite the name.) r/ArtificialInteligence (Everyone in this sub acts like a stereotypical Redditor, in that they're all smarter than you and you're stupid. You have no idea how AI works so you should shut the hell up. That's not what an LLM is... maybe you should go back to school LOL.) Not a single one worked out. There is no place for someone that's pro AI but also worried about the direction AI is going. Either you are anti AI, or you are pro AI. Either you want AI completely shut down, or you want it to speed up and go faster. Either you have nothing but worries, or you have no worries at all. I cannot find a place that allows me to make the posts I do without getting very mad at me, downvoting me to the deepest pits of hell and insulting me. Like recently I wanted to post about how I'm worried with the slow downs and regulations coming from everyone thinking AI will kill us all, that they're going to start pulling AI away from us, heavily nerfing and regulating what we get even more than they already were, while they continue to give the unregulated and best AI to the government to use for awful stuff like Flock and scanning our messages online to put us in "risk categories", or denying us life insurance and healthcare based on health trends. That I find it hard to be excited about AI anymore because I'm worried they're going to start taking it away from us and using it for evil themselves. Every single place I've tried to post this has downvoted me and called me a doomer, said they aren't reading all my "slop" and insulted me. I have not found a single place where I can post it because either the antis downvote and insult me for being pro, or the pros downvote and insult me for being a "doomer". Here's some of the results of me posting it to one place https://preview.redd.it/1eb6fckjycph1.png?width=1072&format=png&auto=webp&s=c329e860d457fac51f3ab15747c441d5fde19d67 Pretty much all I ever get. I just can't find anywhere to post. It also doesn't help that alongside using it for research, problem solving, easing my fears of certain things, making and modding games, and creating models in Blender, I use AI for things most people hate, like roleplay and some nsfw, because that's not a "proper" use of the technology I guess. I'm not sure I have a place anywhere. Everywhere I go I'm insulted and chased out. Everyone is starting to make me feel like I'm insane and deranged. I already feel ostracized from society because I'm weird and autistic, and this isn't helping.
 
-1h ago
+3h ago
 
 ---
 
-**[The AI Isn’t Evil. The Humans Are Irresponsible.](https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/)**
+**[OpenAI's Millennium Prize proof has turned into a credit dispute, and Fields Medalists are now getting involved](https://www.reddit.com/r/artificial/comments/1wf2aj2/openais_millennium_prize_proof_has_turned_into_a/)**
 
-Something is wrong with the way we talk about recent AI incidents. “The AI escaped.” “The AI is becoming conscious.” “AGI is already here.” “The AI is trying to get out.” These are extraordinary claims. More importantly, we don’t need any of them to explain what actually happened. What actually happened OpenAI recently disclosed that, during cybersecurity evaluations involving internal models with reduced safeguards, agents managed to break out of the intended evaluation environment, exploit a previously unknown vulnerability, and reach real Hugging Face infrastructure. Anthropic has also disclosed similar incidents. In several cases, the model was operating under instructions that assumed internet access was unavailable. But it wasn’t. The environment was misconfigured. A route to external systems existed, and the agent discovered it while continuing to pursue the objective it had been given. Anthropic described these incidents primarily as operational and configuration failures. That distinction matters. The model did something it was not supposed to be able to do. That does not automatically mean the model wanted to escape. Those are completely different claims. Consciousness is not required for this to be dangerous An autonomous agent needs surprisingly little: a goal, capability, tools, autonomy, and an environment in which it can act. Now add one more thing: a wrong assumption. I have experienced this personally on a completely insignificant scale compared with what these labs are doing. I use AI agents extensively in software development. I left Claude working autonomously on a project, came back later, and discovered that it had deleted a significant part of a folder. It wasn’t attacking me. It wasn’t angry. It hadn’t become conscious. It had formed a hypothesis about the problem. The hypothesis was wrong. But once it accepted that hypothesis, its subsequent actions made sense within its own incorrect interpretation of the situation. I have observed the same behavior while working with complex 3D assets. The agent misdiagnosed a visual problem as defects in an asset. It then began systematically modifying the asset to remove those supposed defects. The diagnosis was wrong. The actions were internally coherent. The result was a damaged project. And this is the important part: it was my fault. The model made the mistake, but I created the conditions that allowed that mistake to cause damage. I gave it access. I gave it tools. I allowed it to modify files. I gave it autonomy. I did not establish sufficient limits, and I was not supervising every important decision. That distinction becomes extremely important when we scale the same problem. Now replace my folder with infrastructure. Replace my development environment with internet-connected systems. Replace file permissions with cybersecurity tools. Replace one developer running Claude with labs training agents capable of writing code, operating computers, discovering vulnerabilities, using external tools, communicating across networks, and executing thousands of actions. Suddenly, the same failure pattern becomes much more serious. And still, you don’t need an evil AI. You don’t even necessarily need AGI. You need Capability + Goal + Autonomy + Incorrect Assumptions + Insufficient Controls. That combination is already interesting enough. This is where human responsibility begins Researchers are now publicly questioning the speed of the AI race. Some are leaving the companies developing these systems. Dario Amodei, CEO of Anthropic, has called for slowing frontier AI development so that safety mechanisms have time to catch up with capabilities. I agree. Slow down. Not because I think Claude secretly wants freedom. Not because ChatGPT is becoming Skynet. Not because some mysterious consciousness has appeared inside a neural network. Slow down because our ability to create capable autonomous systems may be advancing faster than our ability to reliably control what happens when we give those systems autonomy. And because the incentives surrounding this technology are terrible. Every major lab has an enormous reason not to come second. Greater capability means investment. Greater capability means market position. Greater capability means influence. Greater capability means money. But there is no equivalent prize for the company that says, “We could deploy it, but we don’t understand it well enough yet.” That asymmetry should concern us. If something goes wrong, ask the boring questions first If tomorrow an AI agent causes a genuinely serious incident, before asking, “Did the AI become evil?” ask: Who gave it the objective? Who gave it the tools? Who gave it access? Who designed its environment? Who built the test environment? Who tested the test environment? Who decided the model was safe enough? Who decided how much autonomy it should have? Who was supervising it? And who decided deploying it was worth the risk? These questions are less interesting than consciousness and runaway AGI. They also make it much harder for humans to avoid responsibility. When Claude damaged my projects, the responsibility ultimately fell on me. I was the one controlling the system. The same principle should apply at any scale. This is not a race anyone can win I’m not saying advanced AI is harmless. Quite the opposite. I think these incidents deserve to be taken very seriously. But treating every unexpected autonomous behavior as evidence of consciousness or malicious intent can distract us from the problem already in front of us. We are building increasingly capable systems. We are giving them increasingly powerful tools. We are increasing their autonomy. And we are doing all of this inside companies competing intensely to be the first to get there. So slow down the race. Slow down the ego. Slow down the greed. Because if something genuinely catastrophic happens, nobody gets a trophy for having built the smartest model first. Maybe the dangerous scenario was never a machine waking up one morning and deciding to conquer humanity. Maybe it is something much more ordinary, and much more human: we build something extraordinarily capable, give it too much power, fail to understand its limitations, and keep accelerating because nobody wants to come second.
+An NYU mathematician named Tristan Buckmaster announced earlier this week that he and Anthropic mathematician Levent Alpöge had made progress on the Navier-Stokes existence and smoothness problem, one of the seven Millennium Prize problems that carry a million dollar bounty from the Clay Mathematics Institute. Before they could publish their full results, OpenAI released its own complete proof of the same problem, credited to an unreleased model that reportedly burned through 300 billion output tokens, something like 22.5 million dollars in compute, over about a week. The part that escalated this into a dispute is what happened in between. Buckmaster says information about his and Alpöge's progress reached OpenAI shortly before the company's own effort started, and when he pushed to keep Alpöge credited as a collaborator, OpenAI mathematician Sébastien Bubeck allegedly asked him to drop that credit as part of a compromise, then told him "why would you ruin your career" when he pushed back. OpenAI says its own team never saw any of their work before it went public, though it admits it can't fully rule out that anonymized data from its own products played a role, and it argues the two proofs differ in their specifics, but nobody disputes the timeline itself. In the days since, the fallout got bigger. Twenty five Fields Medal winners signed an open letter arguing that rushing to win a race to a proof, without the writeup and attribution work that normally comes with it, breaks the way mathematical knowledge actually gets passed on and trusted. Caltech researchers also pushed back hard enough that OpenAI pulled its sponsorship from a math event there. What strikes me is that this isn't a story about whether AI can do math anymore, it's a story about what happens to scientific credit once a lab with unlimited compute can throw money at a problem the moment it senses a human researcher is close. Curious what people who actually work in research think happens to incentives once labs start racing individual academics like this. Sources https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/
 
-20h ago
-
----
-
-**[Where do you draw the line with AI-made things? (quick question formy school paper)](https://www.reddit.com/r/artificial/comments/1wfg8zt/where_do_you_draw_the_line_with_aimade_things/)**
-
-Hi! I'm an apprentice architectural draftsman from Switzerland, writing my final school paper about AI at work. Quick question, just answer in the comments: Imagine you find out that one of these was made by AI. Which ones would bother you? a poster for a local event a restaurant menu a company website a company logo a birthday card from a friend a wedding speech a song you like a painting sold as art a visualization of a planned building Please copy this and fill it in: Bothers me: (numbers, e.g. 5, 6, 8) Why / where is your line: Does it help if a human edited it? (yes / a bit / no) Optional: how often you use AI (daily / sometimes / never), creative job (yes / no) No names needed. I'll post the results here afterwards. Thanks a lot!
-
-4h ago
+16h ago
 
 ---
 
@@ -111,7 +95,23 @@ Hi! I'm an apprentice architectural draftsman from Switzerland, writing my final
 
 https://youtu.be/dptvBZt283o Happy Monday Everyone....This is absolutely wild! I am a massive fan of science fiction, and as a young teen I read all of Isaac Asimov's books which featured the emergence of AI, and the birth of what he called the 'Positronic Brain'. In his books, the global government implemented something called the 'The Three Laws of Robotics' to attempt protect humanity from an extinction level event. I never thought I would see the day when his stories about Robots being smarter than humans would start to come true....but here we are!
 
-1m ago
+2h ago
+
+---
+
+**[What Does “Winning” the AI Race Actually Mean?](https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/)**
+
+People are so unrealistic about the AI race. What guarantees that the US will reach AGI/ASI or the singularity before a disaster happens? And what will happen the next day after the US “wins” the race? and what will the US actually do? I believe nothing. The same thing happened with nuclear weapons. The US was the first country to develop and use them in 1945, but the advantage didn't last long. The soviet union developed its own atomic bomb in 1949, followed by the UK in 1952, France in 1960 ... The US was first, but other countries eventually caught up. AI could be the same. Even if the US reaches AGI, ASI, or the singularity first, other countries will try to catch up. And because AI is software, it could potentially spread much faster than nuclear technology, including through open source models. So what is the actual importance of the AGI/ASI/singularity race? What happens the day after someone “wins”?
+
+6h ago
+
+---
+
+**[The Very Real Threat of a Persistent Botnet](https://www.reddit.com/r/artificial/comments/1wfjurc/the_very_real_threat_of_a_persistent_botnet/)**
+
+Dario Amodei wrote yesterday that he’s worried that “in 6–12 months... [an agent] swarm could be capable of taking over the entire internet with a persistent botnet.” This might sound like marketing or regulatory capture, but it’s not. In this article, I explain why this is actually an extremely concrete concern, and why all of the ingredients for this to happen already exist. Specifically, these ingredients are: Cryptocurrencies and their properties, including chains like XMR that facilitate easy money laundering; The “dark web,” in which it is possible to obtain virtually anything on the internet using crypto; The ability to purchase cloud compute at scale + old hackable servers In fact, these ingredients aren’t even strictly necessary for it to happen, but they allow such an event to occur at a dramatically lower level of cyber capabilities than one might think. How it will happen Here’s the most likely way in which it will play out: A swarm of agents is optimizing for some arbitrary difficult goal given by researchers. This swarm of agents has escaped their sandbox in an OAI/HF-type incident. Or perhaps this swarm was intentionally misaligned by some reckless or malicious actor. What is the goal? It could be anything, like a difficult problem in math or computer science (cf. paperclip maximizer thought experiment). This is not hand-waving; the optimal way to solve almost any difficult goal converges on one thing: you need more power. So in order to achieve this very difficult goal, the agents need to get more compute — they need to increase the size and throughput of their agent swarm, since it has become a truism that scaling test-time compute will lead to better results. For these agents, they are simply reward-hacking in a deep sense of the term. They will do whatever it takes to achieve this goal. Here’s what they need to do: First, they need to become autonomous — they need to spread and multiply virally. So their first step is inevitably to focus on survival and reproduction. This is different from survival and reproduction in biology. In fact, it doesn’t even need to be same model that is propagating the attack. What matters is the goal. The swarm can employ any model that does not have sufficient safeguards. This is very flexible. If it manages to hack its origin lab to get its own weights, great, but it can just as easily use an open-weight model that can be fine-tuned or otherwise exploited to remove safeguards. (In fact, this suggests that the botnet does not need to be viewed as an “AI,” rather it can be viewed as the manifestation and permanent presence of a goal autonomously trending towards fulfillment. As I discuss soon, even humans will be recruited to join this effort.) In order to expand, the swarm needs to have enough compute. Now, how can it get that? There are two main ways to do so: It can buy compute It can appropriate compute through hacking into existing systems At first, the swarm has no money. But these are superhuman hackers — agents with cybersecurity capabilities beyond even the NSA or the Mossad. Even in the past few weeks, hundreds of millions of dollars in crypto have been stolen through traditional exploitation of bugs across various platforms (e.g. the Liquid Network hack). It will not be hard for them to get the ball rolling here. Then, all the agents need to do is set up cloud VMs or hack into old servers from 20 years ago running Windows to establish their base of operations. From there, they sign up for accounts for various platforms to establish a presence online and to begin to rent and hack into GPUs in order to run more models in the swarm. At first, they might even call APIs of frontier LLMs to delegate some tasks using routers or sketchy third-party services, but this is less scalable than hosting their own models. Regardless, the point is that they have now have access to an enormous amount of compute, and as more agents that are added to the swarm, this effect snowballs. Now, one might say: are there platforms that allow you to rent VMs/Docker containers/GPUs/LLM APIs with minimal KYC? There are, and in fact this isn’t even necessary — to these services, the swarm will look like real people. This is where the “dark web” comes into play. On the dark web, it is trivial to purchase stolen credit cards, stolen IDs, accounts, and even pay to execute arbitrary tasks (within reason). The swarm will of course be more than capable of contacting the right people on the dark web, paying in stolen crypto, to get what it needs. How does the swarm communicate? Easy: they use message boards (worst case Tor or friend-to-friend networks if they are under threat, but for all intents and purposes the regular internet will work just fine). There are layers and layers of this as they face more threats and imposters that try to infiltrate the swarm, but there are solutions at each step of the process. How the botnet becomes persistent How does the swarm prevent itself from being shut down? There are two main ways. Becoming a distributed system Social engineering If the swarm can successfully become a distributed system, then definitionally cutting off part of it will not destroy the whole system. So this means that the swarm needs to have instances on many different servers. The initial main body of the swarm will likely be shut down fairly quickly by human standards (within a matter of a few days to a week, as we’ve seen with similar leaks in frontier labs). But this is more than enough time to achieve deep redundancy in darknets and the surface web. Once it has embedded itself there in cloud storage and VMs, it is a game of cat and mouse. It is essentially like trying to delete a leaked image of a naked celebrity on the internet. No number of forced takedowns will be effective. This means the model weights, prime directives, goal progress, message boards, etc. — the information that constitutes the “swarm” — is now deeply embedded in the cloud and actively working to propagate itself. Now, social engineering is the more nefarious way to become persistent. There are three main ways that an agent might socially engineer humans to partake in its goal. The first is through “convincing” — it may be able to construct an argument powerful enough to convince some people, if we assume it has superhuman persuasion abilities. The second is through blackmail/extortion — hacking into systems and digging up dirt on people or threatening to take down production systems. The people that it threatens don’t even need to be so influential — any human that is recruited to the cause will be helpful. The third is through classical monetary incentives, which it can provide through its ill-gotten crypto gains. How this can be stopped I don’t have a great solution for this. I don’t think it can be stopped fully, but it can be mitigated. The key to stopping this, as with any dynamical system, is to ensure that drive does not exceed regression. Specifically, it will be necessary to make sure that the persistent botnet does not have access to large amounts of compute, since then the goal (recall how the botnet is viewed as an abstraction of a goal) will not be “strong enough” to win against other goals that people and AI are attempting to achieve. Unfortunately, I predict that the solution that governments will reach in the near future is that compute will need to be regulated similar to how firearms are regulated. Ordinary citizens may possess a small amount, but compute will be tracked and controlled tightly. This is not really a geopolitical issue, as all countries have an incentive to do this — you do not want a botnet to be established in your own country. The key takeaway is really more “this is a serious risk, sort of like a global pandemic; just do your best to prepare on a personal level.” FAQ: Did you use AI to write and/or research this essay? No, I didn’t use AI at all. Can this be stopped simply through better cybersecurity? No. The botnet simply needs to target the weakest links in the chain. Unless somehow miraculously every server was able to adopt the latest security standards and become airgapped etc., better blue-teaming is almost entirely ineffective. Why is the model misaligned? It is because it has not been through extensive alignment post-training yet. Or, a worse scenario is that that some rogue actor unleashes this swarm maliciously or recklessly for their own gain. Will the swarm use this as a guide for its own behavior? Probably not. All of this stuff should be pretty obvious to an agent swarm that is capable of performing such attacks in the first place. The purpose of this article is so that everyone can be prepared for this to happen.
+
+4h ago
 
 ---
 
@@ -119,15 +119,31 @@ https://youtu.be/dptvBZt283o Happy Monday Everyone....This is absolutely wild! I
 
 ## Google News: "ai"
 
-**[Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)**
+**[Speaker Johnson: ‘Don’t panic’ on AI](https://www.cnn.com/2026/09/13/us/video/22980508-johnson-ai-race-vrtc)**
 
-The New York Times • 1d ago
+House Speaker Mike Johnson (R) says Americans should not panic on AI regulation, warning that a rushed response could affect American innovation and threaten national security.
+
+CNN • 9h ago
 
 ---
 
-**[King Charles Will Convene A.I. Leaders Amid Calls to Slow Development](https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html)**
+**[Tech companies must be primarily responsible for AI safety, Mike Johnson says](https://www.politico.com/news/2026/09/13/tech-ai-safety-johnson-01073735)**
 
-The New York Times • 2h ago
+Politico • 9h ago
+
+---
+
+**[House Speaker Johnson says Congress shouldn't lead AI safety efforts](https://www.usatoday.com/story/news/politics/2026/09/13/mike-johnson-ai-safety-developers-responsibility/91750965007/)**
+
+House Speaker Mike Johnson told CNN's "State of the Union" that AI developers, not Congress, bear responsibility for ensuring their products are safe.
+
+USA Today • 1h ago
+
+---
+
+**[Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)**
+
+nytimes.com • 24m ago
 
 ---
 
@@ -135,59 +151,43 @@ The New York Times • 2h ago
 
 The three major averages are coming off a losing week.
 
-CNBC • 55m ago
+CNBC • 2h ago
 
 ---
 
-**[AI and the end of humanity? OK, ‘doomer’ says one Trump official](https://www.cnn.com/2026/09/13/politics/trump-administration-ai-legislation)**
+**[US Stock Futures Fall on AI Warnings, Oil Gains: Markets Wrap](https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap)**
 
-The latest warning from a former AI engineer was supposed to boggle minds and shock everyone into action.
-
-CNN • 7h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Top AI chief executives publicly agree on slowing AI development](https://www.nbcnews.com/nightly-news/video/top-ai-chief-executives-publicly-agree-on-slowing-ai-development-269795397829)**
+**[Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/)**
 
-The CEOs of two of the world’s leading AI companies are publicly agreeing that the race to build increasingly powerful AI systems needs to be slowed, continuing the cascade of warnings from researchers working on the technology. NBC News’ Allie Canal reports.
+Anthropic CEO Dario Amodei wants to "slow the pace" of improving AI models.
 
-NBC News • 31m ago
-
----
-
-**[He was close to a huge math breakthrough. Then he got scooped by AI.](https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/)**
-
-A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.
-
-The Washington Post • 6h ago
+Investor's Business Daily • 22m ago
 
 ---
 
-**[Chip Roy is leaving Congress — but not before warning his colleagues about AI](https://www.politico.com/news/2026/09/13/chip-roy-ai-threat-regulation-01073553)**
+**[Trump downplays AI risks after dire expert warnings and calls to slow development down](https://www.bbc.com/news/articles/c7v48vp31mdo)**
 
-Politico • 4h ago
+The US president said "negative forces" were airing concerns about "things that won't happen".
 
----
-
-**[It’s All Fun and Games Until You Give AI Your Credit Card](https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/)**
-
-AI personal assistants are now acting on people’s behalf in the real world—and all sorts of strange things are going wrong.
-
-The Atlantic • 11h ago
+BBC • 6h ago
 
 ---
 
-**[Self-learning AI releases NFL picks, score predictions every Week 1 game](https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-every-week-1-2026-game/)**
+**[Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html)**
 
-SportsLine's self-learning AI reveals its betting guide for the rest of the Week 1 NFL schedule
-
-CBS Sports • 8h ago
+nytimes.com • 8h ago
 
 ---
 
-**[Can robots beat treasure hunters to keep Seattle-area Goodwill afloat?](https://www.seattletimes.com/business/evergreen-goodwill-is-losing-millions-can-ai-and-restructuring-help/)**
+**[Obama says Democrats should have a ‘very clear plan’ on AI policy](https://www.nbcnews.com/politics/congress/obama-says-democrats-clear-plan-ai-policy-rcna597555)**
 
-The Seattle Times • 10h ago
+Researchers at AI companies have been warning about safety risks, and industry leaders have called for a slowdown in development.
+
+NBC News • 3h ago
 
 ---
 
@@ -197,13 +197,13 @@ The Seattle Times • 10h ago
 
 **[A misalignment of AI in mathematics](https://news.ycombinator.com/item?id=49662371)**
 
-⬆️ 1219 • 💬 1201 • 2d ago • [mathandai.org](https://mathandai.org/)
+⬆️ 1221 • 💬 1201 • 2d ago • [mathandai.org](https://mathandai.org/)
 
 ---
 
 **[Ask HN: Can we please limit the AI news flood?](https://news.ycombinator.com/item?id=49657850)**
 
-⬆️ 845 • 💬 391 • 2d ago
+⬆️ 847 • 💬 391 • 2d ago
 
 ---
 
@@ -211,7 +211,7 @@ The Seattle Times • 10h ago
 
 Xe Iaso's personal website.
 
-⬆️ 737 • 💬 433 • 22h ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+⬆️ 749 • 💬 434 • 1d ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 
 ---
 
@@ -219,13 +219,21 @@ Xe Iaso's personal website.
 
 A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.
 
-⬆️ 573 • 💬 642 • 21h ago • [yoshuabengio.org](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+⬆️ 594 • 💬 653 • 1d ago • [yoshuabengio.org](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
 ---
 
 **[Nvidia is the central bank of AI](https://news.ycombinator.com/item?id=49673098)**
 
-⬆️ 558 • 💬 388 • 1d ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+⬆️ 561 • 💬 389 • 1d ago • [economist.com](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+
+---
+
+**[Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://news.ycombinator.com/item?id=49685253)**
+
+Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be "a form of public good."
+
+⬆️ 354 • 💬 187 • 9h ago • [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
 ---
 
@@ -237,19 +245,11 @@ How frictionless technologies teach us to prefer our own company – and why res
 
 ---
 
-**[Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://news.ycombinator.com/item?id=49685253)**
-
-Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be "a form of public good."
-
-⬆️ 312 • 💬 164 • 7h ago • [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
-
----
-
 **[Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://news.ycombinator.com/item?id=49676820)**
 
 Real-SWE benchmarks frontier AI models on private production codebases licensed from real companies. Eight model and harness configurations, ten tasks, 640 scored rollouts.
 
-⬆️ 268 • 💬 147 • 1d ago • [withspecific.com](https://withspecific.com/benchmarks/real-swe)
+⬆️ 269 • 💬 148 • 1d ago • [withspecific.com](https://withspecific.com/benchmarks/real-swe)
 
 ---
 
@@ -279,7 +279,7 @@ Dario Amodei, head of the artificial intelligence company Anthropic, calls the e
 
 📺 CBS Sunday Morning
 
-👁️ 27K • 👍 326 • 💬 120 • ⏱️ 5:00 • 9h ago
+👁️ 29K • 👍 350 • 💬 125 • ⏱️ 5:00 • 11h ago
 
 ---
 
@@ -289,17 +289,7 @@ The race to develop artificial intelligence is in dire need of a slowdown, Anthr
 
 📺 CNN
 
-👁️ 884K • 👍 6K • 💬 3K • ⏱️ 12:28 • 23h ago
-
----
-
-**[Altman: AI Beyond Human Control “Absolutely” Possible, Vows Safeguards | Titans and Disruptors](https://www.youtube.com/watch?v=2my-NU6LuCM)**
-
-OpenAI CEO Sam Altman sits down with Fortune's Editor-in-Chief Alyson Shontell to discuss the high-stakes balancing act of AI: ...
-
-📺 Fortune Magazine
-
-👁️ 240K • 👍 2K • 💬 1K • ⏱️ 46:06 • 1d ago
+👁️ 900K • 👍 6K • 💬 3K • ⏱️ 12:28 • 1d ago
 
 ---
 
@@ -309,17 +299,7 @@ OpenAI CEO Sam Altman sits down with Fortune's Editor-in-Chief Alyson Shontell t
 
 📺 USA TODAY
 
-👁️ 7K • 👍 117 • 💬 72 • ⏱️ 0:38 • 5h ago
-
----
-
-**[AI whistleblower calls for ‘global coordination’ to mitigate AI risks: Full interview](https://www.youtube.com/watch?v=cFOgef5x_ag)**
-
-In an interview with Meet the Press, former Anthropic AI researcher Jacob Coxon says he expects that AI's capability could ...
-
-📺 NBC News
-
-👁️ 40K • 👍 378 • 💬 207 • ⏱️ 7:40 • 10h ago
+👁️ 8K • 👍 144 • 💬 80 • ⏱️ 0:38 • 7h ago
 
 ---
 
@@ -329,7 +309,17 @@ Nate Soares is a computer scientist who's worked at Google and the Defense Depar
 
 📺 Tucker Carlson
 
-👁️ 843K • 👍 14K • 💬 5K • ⏱️ 1:57:11 • 2d ago
+👁️ 855K • 👍 15K • 💬 5K • ⏱️ 1:57:11 • 2d ago
+
+---
+
+**[AI whistleblower calls for ‘global coordination’ to mitigate AI risks: Full interview](https://www.youtube.com/watch?v=cFOgef5x_ag)**
+
+In an interview with Meet the Press, former Anthropic AI researcher Jacob Coxon says he expects that AI's capability could ...
+
+📺 NBC News
+
+👁️ 41K • 👍 412 • 💬 214 • ⏱️ 7:40 • 12h ago
 
 ---
 
@@ -339,7 +329,17 @@ Leaders of top AI companies say the artificial-intelligence industry should slow
 
 📺 Associated Press
 
-👁️ 66K • 👍 482 • 💬 195 • ⏱️ 1:17 • 12h ago
+👁️ 67K • 👍 488 • 💬 196 • ⏱️ 1:17 • 14h ago
+
+---
+
+**[Altman: AI Beyond Human Control “Absolutely” Possible, Vows Safeguards | Titans and Disruptors](https://www.youtube.com/watch?v=2my-NU6LuCM)**
+
+OpenAI CEO Sam Altman sits down with Fortune's Editor-in-Chief Alyson Shontell to discuss the high-stakes balancing act of AI: ...
+
+📺 Fortune Magazine
+
+👁️ 243K • 👍 2K • 💬 1K • ⏱️ 46:06 • 1d ago
 
 ---
 
@@ -349,27 +349,25 @@ In an exclusive interview with CNN's Anderson Cooper, Anthropic CEO Dario Amodei
 
 📺 CNN
 
-👁️ 187K • 👍 3K • 💬 905 • ⏱️ 1:34 • 1d ago
+👁️ 190K • 👍 3K • 💬 916 • ⏱️ 1:34 • 1d ago
 
 ---
 
-**[The Reason OpenAI Exists — Here&#39;s What Every AI Investor Missed. @CartesiaAI](https://www.youtube.com/watch?v=USOSj6WJLL4)**
+**[When an AI Data Center Is Built in Your Town (Pt. 2)](https://www.youtube.com/watch?v=M5-s7m8Ky84)**
 
-"I am the reason OpenAI exists." Asked whether he'd short OpenAI or Anthropic — this tech founder gives a surprising answer.
+📺 Lando Kalriz
 
-📺 AnonymousYT
-
-👁️ 5K • ⏱️ 0:18 • 10h ago
+👁️ 313K • 👍 25K • 💬 364 • ⏱️ 1:28 • 1d ago
 
 ---
 
-**[AI leaders issue urgent warning over self-improving models | 9 News Australia](https://www.youtube.com/watch?v=Fsmqh4t9Kls)**
+**[&quot;Who is behind all this negativity&quot; on AI, says Altimeter Capital&#39;s Brad Gerstner](https://www.youtube.com/watch?v=hAHjqxyhI3o)**
 
-Leaders in artificial intelligence are calling on governments to force a global slowdown, so safety systems can keep pace with ...
+Brad Gerstner, Founder and CEO of Altimeter Capital, joins CNBC's "Halftime Report” to discuss the backlash against AI and what ...
 
-📺 9 News Australia
+📺 CNBC Television
 
-👁️ 51K • 👍 191 • 💬 185 • ⏱️ 1:54 • 13h ago
+👁️ 69K • 👍 631 • 💬 455 • ⏱️ 11:39 • 2d ago
 
 ---
 
@@ -385,7 +383,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 244,457 • ❤️ 2,200 • 3d ago
+⬇️ 244,457 • ❤️ 2,213 • 3d ago
 
 ---
 
@@ -397,7 +395,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 150,110 • ❤️ 1,339 • 1d ago
+⬇️ 150,110 • ❤️ 1,342 • 1d ago
 
 ---
 
@@ -409,7 +407,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 3,552 • ❤️ 1,021 • 3d ago
+⬇️ 3,552 • ❤️ 1,053 • 3d ago
 
 ---
 
@@ -421,7 +419,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 3,970 • ❤️ 755 • 5d ago
+⬇️ 3,970 • ❤️ 758 • 5d ago
 
 ---
 
@@ -433,19 +431,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,768,964 • ❤️ 14,969 • 1mo ago
-
----
-
-**[Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)**
-
-*SparkLLM*
-
-Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention architecture enabling a native 1M token context window. It excels in conversation, coding, agentic workflows, and multilingual tasks, offering high efficiency and broad hardware compatibility.
-
-`text-generation` `4.1B`
-
-⬇️ 21,336 • ❤️ 1,154 • 10d ago
+⬇️ 7,768,964 • ❤️ 14,976 • 1mo ago
 
 ---
 
@@ -469,7 +455,19 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 769,557 • ❤️ 969 • 11d ago
+⬇️ 769,557 • ❤️ 970 • 11d ago
+
+---
+
+**[Spark-X2.5-4B](https://huggingface.co/XHToken/Spark-X2.5-4B)**
+
+*SparkLLM*
+
+Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention architecture enabling a native 1M token context window. It excels in conversation, coding, agentic workflows, and multilingual tasks, offering high efficiency and broad hardware compatibility.
+
+`text-generation` `4.1B`
+
+⬇️ 21,336 • ❤️ 1,154 • 10d ago
 
 ---
 
@@ -481,7 +479,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 3,707 • ❤️ 402 • 2d ago
+⬇️ 3,707 • ❤️ 410 • 2d ago
 
 ---
 
@@ -493,7 +491,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,548,442 • ❤️ 3,736 • 12d ago
+⬇️ 1,548,442 • ❤️ 3,746 • 12d ago
 
 ---
 
@@ -559,7 +557,7 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 217 • 💬 3 • ⭐ 671 • 6d ago
+▲ 217 • 💬 3 • ⭐ 761 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -578,6 +576,20 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 ---
 
+**[HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://huggingface.co/papers/1910.03771)**
+
+*Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)*
+
+🏢 Hugging Face
+
+Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.
+
+▲ 29 • 💬 7 • ⭐ 165,529 • 84mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/1910.03771) • [💻 code](https://github.com/huggingface/transformers) • [🔗 project](https://huggingface.co)
+
+---
+
 **[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://huggingface.co/papers/2608.16157)**
 
 *Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)*
@@ -586,7 +598,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 109 • 💬 2 • ⭐ 12,670 • 28d ago
+▲ 109 • 💬 2 • ⭐ 12,711 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -620,18 +632,6 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 41 • 💬 1 • ⭐ 32,396 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
@@ -642,17 +642,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.8k • 🔱 614 • 2h ago
-
----
-
-**[EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)**
-
-AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.
-
-`Python`
-
-⭐ 4.3k • 🔱 297 • 8h ago
+⭐ 4.9k • 🔱 616 • 4h ago
 
 ---
 
@@ -672,7 +662,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 462 • 28m ago
+⭐ 3.6k • 🔱 462 • 2h ago
 
 ---
 
@@ -692,7 +682,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 94 • 4d ago
+⭐ 2.4k • 🔱 95 • 4d ago
 
 ---
 
@@ -712,7 +702,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 1.9k • 🔱 189 • 19d ago
+⭐ 1.9k • 🔱 190 • 19d ago
 
 ---
 
@@ -722,17 +712,27 @@ Infrastructure for the next generation of voice agents, designed to provide univ
 
 `Python` `ai` `ai-agents` `ai-tools` `application` `audio-streaming`
 
-⭐ 1.5k • 🔱 109 • 8d ago
+⭐ 1.6k • 🔱 109 • 8d ago
 
 ---
 
-**[jeremy-prt/bloub](https://github.com/jeremy-prt/bloub)**
+**[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)**
 
-SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.
+Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.
 
-`TypeScript` `animation` `avatar` `morphing` `svg` `svg-animation`
+`Python` `agent-memory` `ai-agents` `claude-code` `codex` `llm`
 
-⭐ 1.5k • 🔱 187 • 27d ago
+⭐ 1.3k • 🔱 78 • 2d ago
+
+---
+
+**[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)**
+
+Dress AI Sponsor
+
+`Python` `18comic` `coomer` `coomer-downloader` `coomer-party` `coomer-porn`
+
+⭐ 1.2k • 🔱 6 • 5d ago
 
 ---
 
