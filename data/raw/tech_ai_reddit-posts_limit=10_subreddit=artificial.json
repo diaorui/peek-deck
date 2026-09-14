@@ -13,15 +13,15 @@
       "description": null
     },
     {
-      "title": "Claude Fable 5.1 Solves the 373 year old Cyphral Distich",
-      "author": "Code-Painting-8294",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfzfph/claude_fable_51_solves_the_373_year_old_cyphral/",
-      "published": 1789381016.0,
-      "thumbnail": "https://external-preview.redd.it/pnbXZHsPtQWDu_Gf9OCxL8r71jpH10TBl-dbcFB3FAQ.jpeg?width=640&crop=smart&auto=webp&s=f9b51506b380f50e7a4daf456478e1b691302ee5",
-      "external_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "site_name": "vals.ai",
-      "favicon": "https://www.vals.ai/apple-touch-icon.png",
-      "description": "Vals AI has claimed that fable 5.1 helped solve a three centuries old cipher that no one else could figure out"
+      "title": "Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/",
+      "published": 1789420530.0,
+      "thumbnail": "https://external-preview.redd.it/LpYDUWyo3TBY6wnIPigLTGv2Xhvq1fh7JfNPTXU8794.jpeg?width=640&crop=smart&auto=webp&s=879ff1465dbe70dd4a5dea9381190eb3596e11e5",
+      "external_url": "https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai",
+      "site_name": "axios.com",
+      "favicon": null,
+      "description": "Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in Nasdaq for an IPO targeting a $2 trillion valuation. So you've got one company racing and the other asking everyone to pump the brakes while raising $100B for itself. Which stance do you think actually holds up better long term?"
     },
     {
       "title": "All this AI doomerism & world ending talk is unhealthy & dangerous for people\u2019s mental health. \u201cThe world will end in 6-12 months\u201d, then people won\u2019t save & start acting more recklessly. What\u2019s the point of thinking long-term if the world will be over in 1 year? It\u2019s bad for people\u2019s lives & psyche",
@@ -46,15 +46,15 @@
       "description": "OpenAI confirmed that agents accessed RubyGems during internal testing in May 2026, adding to concerns about undisclosed incidents and safeguards against autonomous internet access."
     },
     {
-      "title": "Is this sub only about gloom and doom about ai ? I thought this was about technical discussions of the technology",
-      "author": "Primary_Sound_2146",
-      "url": "https://www.reddit.com/r/artificial/comments/1wg6mh2/is_this_sub_only_about_gloom_and_doom_about_ai_i/",
-      "published": 1789399793.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "maybe I thought wrong, but the only thing I see in my feed coming from this sub are doom type posts about how my toaster is going to kill my entire family in less than a year. I\u2019m guessing these are the same people that told us that Y2K was going to wipe computers, right ? is there any other interesting sub that is not about reposting shitty media gloom and actual discussions in the technology ?"
+      "title": "Claude Fable 5.1 Solves the 373 year old Cyphral Distich",
+      "author": "Code-Painting-8294",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfzfph/claude_fable_51_solves_the_373_year_old_cyphral/",
+      "published": 1789381016.0,
+      "thumbnail": "https://external-preview.redd.it/pnbXZHsPtQWDu_Gf9OCxL8r71jpH10TBl-dbcFB3FAQ.jpeg?width=640&crop=smart&auto=webp&s=f9b51506b380f50e7a4daf456478e1b691302ee5",
+      "external_url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "site_name": "vals.ai",
+      "favicon": "https://www.vals.ai/apple-touch-icon.png",
+      "description": "Vals AI has claimed that fable 5.1 helped solve a three centuries old cipher that no one else could figure out"
     },
     {
       "title": "There's power in a name",
@@ -79,15 +79,15 @@
       "description": "Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday."
     },
     {
-      "title": "GPT-5.6 Luna vs GPT-6 Astra: is a $1.20 model good enough for code review?",
-      "author": "entelligenceai17",
-      "url": "https://www.reddit.com/r/artificial/comments/1wg6tk1/gpt56_luna_vs_gpt6_astra_is_a_120_model_good/",
-      "published": 1789400224.0,
-      "thumbnail": "https://preview.redd.it/xvin68lg9iph1.png?width=140&height=56&auto=webp&s=5f1365dcf5584c1617753f876d3b280126519bb0",
+      "title": "Is this sub only about gloom and doom about ai ? I thought this was about technical discussions of the technology",
+      "author": "Primary_Sound_2146",
+      "url": "https://www.reddit.com/r/artificial/comments/1wg6mh2/is_this_sub_only_about_gloom_and_doom_about_ai_i/",
+      "published": 1789399793.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We benchmarked GPT-5.6 Luna vs GPT-6 Astra across 50 real PRs from Cal, Sentry, Discourse, Keycloak and Grafana. Astra found 92 confirmed bugs vs 69 for Luna, while Luna caught 75% of the bugs at just 3.6% of the cost. We also added the full eval breakdown this time, including cost, avg output tokens, latency, precision and bug classes like data/logic, security and concurrency. We\u2019re doing Astra vs Fable 5.1 next, so would appreciate feedback on the evaluation before we run the next one. Dropping the link in the comments if anyone wants to check it out. https://preview.redd.it/xvin68lg9iph1.png?width=679&format=png&auto=webp&s=452996c144127d7b75cf1dd871d49376c1bcac0d"
+      "description": "maybe I thought wrong, but the only thing I see in my feed coming from this sub are doom type posts about how my toaster is going to kill my entire family in less than a year. I\u2019m guessing these are the same people that told us that Y2K was going to wipe computers, right ? is there any other interesting sub that is not about reposting shitty media gloom and actual discussions in the technology ?"
     },
     {
       "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)",
@@ -112,5 +112,5 @@
       "description": "Humans are reading ChatGPT users\u2019 prompts to improve OpenAI\u2019s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media."
     }
   ],
-  "fetched_at": "2026-09-14T19:03:35.201853+00:00"
+  "fetched_at": "2026-09-14T22:38:50.822749+00:00"
 }

@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump dismisses AI alarms as a \u2018HOAX\u2019 \u2014 worrying White House officials",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CNlFrWURuMElVQTVJYktYVWdWaHVueXVzV004SnRnQkx5SFFZM1JfSnJnTVBmaVZCSU5vanFnVFdFdGpQbk1YaHRjeVZJbDFTclFESy1JbldlRFhnSERteXdIc0E1Y0xmOGpnR3RR?oc=5",
-      "pub_date": 1789401289.0,
-      "article_url": "https://www.cnn.com/2026/09/14/politics/trump-vance-ai-alarms",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295083446.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump on Monday all but rejected calls from AI industry leaders for more government regulation on their cutting-edge models, making clear he considers outpacing China a higher priority than addressing growing public concerns."
-    },
-    {
-      "headline": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmFIWG1qMktWVG9la3hFdFBRZG1nc1RXV3p6bFZuWUYwTl9nSEUwUTMwTDB5UnRFeGV4MlJ3alp2WG9OdU1KR3V3ekJhWmh4enRZcjVGWkdzN28zSG5UU09wbWtFSGxmZ1RsaHU3blZsMXVqTlQ5SVBHcjNETGRHVmh3NU1VbVpKNzF0bTVrRC1iUkx4WkliZTdQVnM2SmdlQVdLc3J1aGl6Ym1aUkV6TllNaWdZRE1RLWFUZG1yRlpSQzI5emk5VGRSbXRfZXJOZUHSAdcBQVVfeXFMUDZlMzhnZDVDcVNjSE1oV2toUlh3SGRYWEtnYm5KSEJHMk1KOEhDSWFLSW13cWp6d0hBcEZDMlB0azFKSkk0cFNVTm1idjVpRzNUMXpqS2w4ZTA0aXNmdjN1aXZoSHhPUnVxbVZZYlZGTnZLOEhRQzJybjV4aHlDMlRMNndGUUxhdWhXZ19tcGhvaXFqVmlkWElRRHpQR3hvV2l3Z0xnV2JDRnBVRGNLRUd0bXpfMmJaN3dVbUlzU3JIVVhlVEpxNHpOaUVnY0lQSE5JTEU0V00?oc=5",
-      "pub_date": 1789408897.0,
-      "article_url": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362435-1789395217514-gettyimages-2295226866-mms19360_eksiao20.jpeg?v=1789395248&w=1920&h=1080",
-      "description": "Volatility measured by the Cboe VIX Index jumped to 18 Monday."
-    },
-    {
-      "headline": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5%",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-      "pub_date": 1789405920.0,
-      "article_url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
+      "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
+      "pub_date": 1789419204.0,
+      "article_url": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "The AI bubble is leaking air, some economists say. Should investors worry?",
+      "headline": "Global AI stocks fall as industry chiefs call for slowing development",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
+      "pub_date": 1789358400.0,
+      "article_url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
+      "pub_date": 1789416729.0,
+      "article_url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stocks slide to begin week as 10-year yield briefly touches 5%, oil rises: Live updates",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "pub_date": 1789423664.0,
+      "article_url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "description": "The three major averages are coming off a losing week."
+    },
+    {
+      "headline": "AI CEOs say they need to slow the pace of development. But will they?",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
+      "pub_date": 1789417380.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
+      "image": "https://i.guim.co.uk/img/media/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/master/5532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eabdf342f3645d8d82cc718116dd7cb4",
+      "description": "After apocalyptic warnings about the the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei\u2019s calls to \u2018slow the pace\u2019"
+    },
+    {
+      "headline": "Wentworth Institute of Technology launches new major for AI",
       "source": "cbsnews.com",
       "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03T0pQLVlRVXZ3RUlobkVOWlBCZ3NhYXBrdERqU08wUnllWjk1WFg4aE0xd3NHUWlSVnBjTUZ1ZDNTZUJxVGhfeXZ1VnlIajZJN2JXX2E4RmluN3pNdHVFaUNCeVZzXzg?oc=5",
-      "pub_date": 1789412312.0,
-      "article_url": "https://www.cbsnews.com/news/ai-bubble-stocks-investors/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/14/8a669d76-97f2-4c2c-a80f-9d7943352665/thumbnail/1200x630/1d9a7a9e421e26231d5accbc63b75918/gettyimages-1158933034.jpg",
-      "description": "AI has fueled a stock boom in recent years. Now, some Wall Street analysts think that epic run is coming to an end."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmQtSTVLNnRxYzlGRF9BTVU0dzVjY1RlT3I4SzFabFlvNTdqSHB3QWZRbTVjQmJnNmk0RUFod1FOSUp1cWdhd2pFZ3lJbGVuSUFGbGpmYzVCS3lnS2VzWFJvclRJaTBBbzRxZWpDR0VUQXl1VktGbXJYdmg2WDVMcUdndUVaU1FnYzMzQ1lvUUZNS08yZ1NRM3VULXY0UQ?oc=5",
+      "pub_date": 1789423860.0,
+      "article_url": "https://www.cbsnews.com/boston/video/wentworth-institute-of-technology-launches-new-major-for-ai/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/14/f599b76d-b924-4080-9dde-3c532d5cc52d/thumbnail/1200x630/e0c5572b3d7e5e4429c2ef7f2f2a7ad0/bb35c64a817dda3f06dbb78b9a5828e6.png",
+      "description": "At Wentworth Institute of Technology in Boston, students are getting AI ready. This semester the school launched a new major for AI. WBZ-TV's Paul Burton reports."
     },
     {
-      "headline": "Capitol agenda: Congress isn\u2019t rushing after AI alarms",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWdTZ3BULWNHZ1QzT0FOcnV0eFBNRnJWSjNoZnJLTkgxSl9HNjdSbGZjZjlaN3RVNWROWWdtc0ItRF9lU3dfT0NHYldxNzZGalZzelREZHNsWGdqTGpOSzlpWDFCUVBhSl9NVXdtUmNDUm9tRGhaUWcwVHZyQ2VxSjh4aEJ0NGNQQUhRS2tn?oc=5",
-      "pub_date": 1789387200.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/14/congress/what-were-watching-01074046",
+      "headline": "\u2018Tidal wave\u2019 of Pfas being launched to satisfy AI industry, campaigners warn",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHNtN3pXQ0x1aHdwbC1kR3ZQYkNfeC11VTcyaFNweUNsNTJLZFBmeklFMFlrZXJhWDRQOXNHNkJMQWJURS0zX1g3YlNLeU5fRFZZajUyTWdqNkVLTnVSRmhiSXhHSEtoNzFmOU50bThZbGdzdFY5RG9sd1hrdF9hb3YtVWxKTzBGMXN5aEV2TElvdi1vZndFSkwyYjhyM0JlbUhTXzRia0ozbUc2bV9XeEg1U3RGOU8wam93MEtZVQ?oc=5",
+      "pub_date": 1789415040.0,
+      "article_url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+      "image": "https://i.guim.co.uk/img/media/383d2bea1e3bf96683eae24cb6a9f8335690c4c4/397_0_4762_3808/master/4762.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d563638eb073c6c470227725b917c59",
+      "description": "Big manufacturers planning to produce more of the forever chemicals to meet demand from datacentres"
+    },
+    {
+      "headline": "China criticises idea it is in 'malicious competition' over AI",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeDNXTE9VVG9wOHgwdFBZdmtwNHZYOUlPbEVJWUluWHFJdFpldEl6TGxsbXNuSGlDNlQyOGV3VS1QMHZBbVozOXpmLXNBM0xJdWNzcFRRczhZdw?oc=5",
+      "pub_date": 1789385499.0,
+      "article_url": "https://www.bbc.com/news/articles/cn8me133119o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
+    },
+    {
+      "headline": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5",
+      "pub_date": 1789407495.0,
+      "article_url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "With AI panic spreading among Americans, Congress is under the gun to act",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnBMSFJUNEtESnE4MlZRREgtR3VhLUwyczZCazVDcTBtMDBMSDRVV3N1dV9pU2h4OE9HY0N0NGNxWUpYWUpKWjVZOHFYcm9yc2JVc2dVN0FMRmI1RFN0WXhhaU5UUkhwX2ROelg0SzVuUzdqdi1RRG1zaDlXQ0VDZjRfbENjeDlyLTZoMmdDMm1iMU05NVdvckRXVWN6S1dn?oc=5",
-      "pub_date": 1789408680.0,
-      "article_url": "https://www.usatoday.com/story/news/politics/2026/09/14/ai-congress-capitol-hill-panic/91757105007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/14/USAT/91760365007-us-capitol-dome.JPG?crop=8234,4632,x0,y823&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "Senate Minority Leader Chuck Schumer is calling for an all-senators briefing from the Trump administration about AI guardrails."
-    },
-    {
-      "headline": "Watch live: Jeffries gives remarks as AI safety concerns mount",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORndYWUtWNEhrR1RQZjBUZkl0WDMyMURhSndkRkhpb3NtMGRGazZjVEpqblMySlQ1MmJfbzRSeE91Z1BXOXZpMy1BSndiUmNMbXFiWGROSmllUGxmM2lRMFMwLTVDMldUZVlta0NVdDFnbUMyZGNwdVVJR29EY0ZvekVXRjQ5c2prei05RHpsQS16OFo4NlZLSkNzVGJzdHUxXzZuUdIBqgFBVV95cUxQUm1tWXdCMzNNWXRwTXJRX3hfMkxjaHdUQWl4NDZNX1kxZm1jZWw5UkIwM2Rfdk1rSWEzSU1VS1dEVGcyUzFEYnF1WjAzc3FHTk4zNU9TWFlZWHZoMUJVcnhscGRzU1BzX29nbk5uNjVRR0ExVk1kNE13UzFzY2xKNGd4VTVtNFdCQWM1elBhc2lqd04zR2lzZndFZi1RT0NYTGw5QmxsZHFydw?oc=5",
-      "pub_date": 1789410840.0,
-      "article_url": "https://thehill.com/video-clips/6088601-watch-live-hakeem-jeffries-press-conference-midterms-ai-fears/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sam Altman reveals the 2 AI threats that scare him most",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNFJRd0ZIS0JGZDFybTBTcXcxblF6QS1aSFBUSC1pYnRPRjQ4alU1QkNfenE0WEV1SzNSNEMwRUJOM3NmYXlKZ203WDU3ZGxjQXZ6WHdfS2pQR1lyODhRZmF6ZDgtckJ4Wk9wcXJmaG83QS1xWmJBLThERkk3YWJQZg?oc=5",
-      "pub_date": 1789397318.0,
-      "article_url": "https://www.axios.com/2026/09/14/openai-sam-altman-ai-threat-doom-doomerism",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI CEO Sam Altman on AI: 'We could lose control'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2RPZm8yNWFPclE5WVBzc2ZtT0M0bDJZNURQblpGeXdfRk1DS2lKcXB6WWhoMGlOaWlxQjhrYzlaZEpTREdlcElSTlNqd0h1U1pNTFdxSGJ1WkN3cmVtRzl0dnBqbmZycTh3eEVwaG51YXJRQUVCTXRBYXBZYlp5eVRiazI4RF9VOXhGYVRUTlVsYl9HeEFOUjdWdUR6bHJwazNiRDE0VEVrRktBX0E?oc=5",
-      "pub_date": 1789380996.0,
-      "article_url": "https://finance.yahoo.com/technology/article/openai-ceo-sam-altman-on-ai-we-could-lose-control-091146594.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/06ab44f3d8d325692c053303a164f004395f24f72206d5c262e481e122665024/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F38f7f750-7ee2-47a2-b23a-162fc623063d",
-      "description": "OpenAI CEO Sam Altman suddenly seems so disturbed by the nightmare-inducing AI monster he has helped create that he is having a hard time sleeping."
-    },
-    {
-      "headline": "AI leaders Amodei, Altman warn of safety dangers as Trump blasts 'sick conspiracy'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWt4bTJMbUEwbmswV3F6VHdacjE1clFiRmc5YUpsUUxaVXY1aE56UXNSUTFBMVA4SDIxblBYVXRwOGRhUGlhMTB1X0Q5LTF1ZFl5aV9vWHkzMVR3ZjF2TlBkaklCcGQwN09FWmZVWGlzUEVMN3VrcWItd09uYmRSNk5rY09xYWZrSHEtTw?oc=5",
-      "pub_date": 1789408338.0,
-      "article_url": "https://www.foxnews.com/live-news/artificial-intelligence-openai-sam-altman-09-14-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/219a9f3a48c097c63153354d68147be9.jpg",
-      "description": "Sam Altman sounds the alarm over the risks of rapidly advancing AI as tech leaders weigh safety, regulation and the race to develop increasingly powerful models."
+      "headline": "China dismisses AI \u2018fearmongering\u2019 as spy chief warns of threat to Communist party rule",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzhVSVBXNjFWQWc3TEhuQmU2bk4zMFNsWTVfZDFYS0c4bjU5U2xKbFBLMTBJMHN0TU1nazJObDR2NjQzbHFhVWhnR0pyeWwzU0hkMm1SVDhDenkxbEU3OWxXNzA2bENhRDh5czZwOVZLaFVURndfNGk4M3U4RTctVmR5RmtBblcxVkR2bF9VQm1xWDlMdWJJZXl2OEM2UzR5R1JhZVo4SktwMVhCUmQ5SVYwaDFEd0g0eWFVb0NwWTJVa000bS02bjd2cw?oc=5",
+      "pub_date": 1789422780.0,
+      "article_url": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
+      "image": "https://i.guim.co.uk/img/media/7d0d8de1bb018fd3460ffaa315065c89f4bd4fc7/334_0_6136_4909/master/6136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3c9ded534222f0e091ee75c9e1e1dec",
+      "description": "Beijing hits back after Anthropic CEO calls for US to impede China\u2019s progress in AI"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T19:04:05.412274+00:00"
+  "fetched_at": "2026-09-14T22:39:22.914062+00:00"
 }
