@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-14T01:24:40.143476+00:00'
+updated: '2026-09-14T06:47:31.078844+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 14, 2026 at 01:24 UTC  
+**Last Updated:** September 14, 2026 at 06:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,23 +118,27 @@ CNBC • 1d ago
 
 ---
 
-**[Humanoid Robots And The Cyborg Future Of Human-Machine Integration](https://www.forbes.com/sites/chuckbrooks/2026/09/13/humanoid-robots-and-the-cyborg-future-of-human-machine-integration/)**
+**[Top 7 AI humanoid companies transforming factories and homes](https://interestingengineering.com/ai-robotics/top-7-ai-humanoid-robot-companies)**
 
-Forbes • 5h ago
+Discover seven leading AI humanoid robot companies developing intelligent machines for manufacturing, logistics, research, and everyday work.
 
----
-
-**[A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model](https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html)**
-
-Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications.
-
-CNBC • 2d ago
+Interesting Engineering • 17h ago
 
 ---
 
-**[Robotics Startup Skild AI Hits $100 Million in Recurring Revenue Run Rate As Customer List Grows](https://www.bloomberg.com/news/articles/2026-09-10/robotics-startup-skild-ai-hits-100-million-in-revenue-run-rate)**
+**[Humanoids’ First Mass Market: The Night Shift America Can’t Staff](https://investorplace.com/hypergrowthinvesting/2026/09/the-50-trillion-robot-boom-starts-at-10-an-hour/)**
 
-Bloomberg.com • 3d ago
+Humanoid robots could soon cost less than factory labor, opening a Physical AI market across chips, sensors, motors, and software.
+
+InvestorPlace • 17h ago
+
+---
+
+**[Laser weapons, space dogfights, and humanoid robots: The future of the battlefield](https://seekingalpha.com/news/4641536-laser-weapons-space-dogfights-and-humanoid-robots-the-future-of-the-battlefield)**
+
+Laser weapons, space warfare, and humanoid robots are reshaping defense.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -144,9 +148,9 @@ Reuters • 3d ago
 
 ---
 
-**[Israeli military creates new branch focused on AI, drones and robotics](https://breakingdefense.com/?p=95208)**
+**[Engineering The Future Expands Its Robotics Engineering Services in Orlando](https://www.wkow.com/online_features/press_releases/engineering-the-future-expands-its-robotics-engineering-services-in-orlando/article_27896e7a-85bd-56e3-b2e9-6219910b17ae.html)**
 
-Breaking Defense • 3d ago
+WKOW • 2d ago
 
 ---
 
@@ -158,25 +162,23 @@ The Diplomat – Asia-Pacific Current Affairs Magazine • 2d ago
 
 ---
 
-**[Zuila Services Expands Robotics Engineering Services in Birmingham](https://www.nbcrightnow.com/online_features/press_releases/zuila-services-expands-robotics-engineering-services-in-birmingham/article_2012aaeb-1b55-5a18-829b-1baefdb7e919.html)**
-
-Nonstop Local News • 1d ago
-
----
-
-**[Maven Robotics wants to steal your robot deployment deal](https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/)**
-
-Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.
-
-TechCrunch • 3d ago
-
----
-
 **[Japanese startup bets Iron Man-inspired homes can beat humanoids](https://www.japantimes.co.jp/business/2026/09/11/companies/robotic-housekeeping-arms/)**
 
 MW aims to sell its first robot-equipped home in Tokyo by 2028 and build as many as 10,000 units a year by 2035.
 
-The Japan Times • 2d ago
+The Japan Times • 3d ago
+
+---
+
+**[Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.](https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock)**
+
+Barchart.com • 12h ago
+
+---
+
+**[Zuila Services Expands Robotics Engineering Services in Birmingham](https://www.wkow.com/online_features/press_releases/zuila-services-expands-robotics-engineering-services-in-birmingham/article_09f1ace6-7ad6-5c62-aff2-aab251dad0c8.html)**
+
+WKOW • 2d ago
 
 ---
 
@@ -190,7 +192,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 1.2M • 👍 12K • 💬 2K • ⏱️ 5:02 • 4d ago
+👁️ 1.3M • 👍 12K • 💬 2K • ⏱️ 5:02 • 5d ago
 
 ---
 
@@ -204,23 +206,23 @@ Unitree Robotics is pushing humanoid robots into a new era with UnifoLM-X2-1.0, 
 
 ---
 
+**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
+
+Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
+
+📺 NBC News
+
+👁️ 777K • 👍 3K • 💬 1K • ⏱️ 2:28 • 2d ago
+
+---
+
 **[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
 
 Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
 
 📺 Expand Knowledge
 
-👁️ 77K • 👍 834 • 💬 75 • ⏱️ 26:26 • 4d ago
-
----
-
-**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
-
-The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
-
-📺 States 2050
-
-👁️ 679K • 👍 10K • 💬 536 • ⏱️ 23:25 • 5d ago
+👁️ 78K • 👍 855 • 💬 76 • ⏱️ 26:26 • 4d ago
 
 ---
 
@@ -230,7 +232,27 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 69K • 👍 286 • 💬 69 • ⏱️ 3:39 • 4d ago
+👁️ 70K • 👍 291 • 💬 69 • ⏱️ 3:39 • 4d ago
+
+---
+
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
+
+The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
+
+📺 States 2050
+
+👁️ 688K • 👍 10K • 💬 538 • ⏱️ 23:25 • 5d ago
+
+---
+
+**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
+
+In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
+
+📺 Gain Theory
+
+👁️ 98K • 👍 945 • 💬 43 • ⏱️ 21:36 • 4d ago
 
 ---
 
@@ -244,41 +266,23 @@ We called Micron (217%), Credo (191%), Nebius (146%), and Bloom Energy (130%) be
 
 ---
 
-**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
-
-In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
-
-📺 Gain Theory
-
-👁️ 97K • 👍 945 • 💬 43 • ⏱️ 21:36 • 4d ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 67K • 👍 2K • 💬 525 • ⏱️ 13:22 • 2d ago
-
----
-
 **[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
 Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
 📺 XPENG
 
-👁️ 430K • 👍 4K • 💬 340 • ⏱️ 5:52 • 4d ago
+👁️ 438K • 👍 4K • 💬 344 • ⏱️ 5:52 • 5d ago
 
 ---
 
-**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
+**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
 
-📺 Kyle Krueger
+Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
 
-👁️ 193K • 👍 10K • 💬 333 • ⏱️ 0:40 • 1h ago
+📺 Sky News
+
+👁️ 37K • 👍 204 • 💬 145 • ⏱️ 6:28 • 5d ago
 
 ---
 

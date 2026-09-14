@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2608.17906",
-      "title": "AutoResearch: Insight In, Hallucination Out",
-      "authors": "Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)",
-      "organization_name": "EvoMapAI",
-      "organization_fullname": "EvoMap",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a17125b59649e2b654d5f64/4saZt2-EUjmOt2sWi0VMS.png",
-      "summary": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce AutoResearch, a two-stage system that connects Idea Generation with Idea Execution to address both how research ideas are formed and how they are reliably established through experimentation. In Idea Generation, AutoResearch continuously integrates emerging research signals with accumulated domain knowledge, identifies transferable mechanistic insights, and uses multi-model generation and cross-review to produce grounded, testable research plans. In Idea Execution, coordinated agents decompose these plans into experiments, iteratively implement and diagnose them, and employ independent evidence-based review before accepting research conclusions. Across representative settings in cross-modal retrieval, systems optimization, and benchmark-driven machine learning, AutoResearch turns generated ideas into measurable progress, detects and corrects unreliable experimental results, and makes evidence-conditioned decisions to continue, revise, or terminate research directions. For example, on RSICD benchmark, an AutoResearch-generated idea improves mean Recall from 32.84 to 34.69, while recording only 5 audit-confirmed issue events compared with 11-27 for other autonomous research systems. These results demonstrate a research process in which meaningful insight is grounded before experimentation and conclusions are grounded before acceptance: Insight In, Hallucination Out.",
-      "ai_summary": "AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.",
-      "hf_url": "https://huggingface.co/papers/2608.17906",
-      "arxiv_url": "https://arxiv.org/abs/2608.17906",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
-      "upvotes": 22,
-      "num_comments": 2,
-      "published_at": "2026-08-22T20:00:00.000Z",
-      "github_repo": "https://github.com/EvoMap/AutoResearch",
-      "github_stars": 4299,
-      "project_page": null
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -35,7 +16,26 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 105019,
+      "github_stars": 105416,
+      "project_page": null
+    },
+    {
+      "id": "2608.17906",
+      "title": "AutoResearch: Insight In, Hallucination Out",
+      "authors": "Yiming Ren, Xiang Liu, Qumeng Sun et al. (7 authors)",
+      "organization_name": "EvoMapAI",
+      "organization_fullname": "EvoMap",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6a17125b59649e2b654d5f64/4saZt2-EUjmOt2sWi0VMS.png",
+      "summary": "Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce AutoResearch, a two-stage system that connects Idea Generation with Idea Execution to address both how research ideas are formed and how they are reliably established through experimentation. In Idea Generation, AutoResearch continuously integrates emerging research signals with accumulated domain knowledge, identifies transferable mechanistic insights, and uses multi-model generation and cross-review to produce grounded, testable research plans. In Idea Execution, coordinated agents decompose these plans into experiments, iteratively implement and diagnose them, and employ independent evidence-based review before accepting research conclusions. Across representative settings in cross-modal retrieval, systems optimization, and benchmark-driven machine learning, AutoResearch turns generated ideas into measurable progress, detects and corrects unreliable experimental results, and makes evidence-conditioned decisions to continue, revise, or terminate research directions. For example, on RSICD benchmark, an AutoResearch-generated idea improves mean Recall from 32.84 to 34.69, while recording only 5 audit-confirmed issue events compared with 11-27 for other autonomous research systems. These results demonstrate a research process in which meaningful insight is grounded before experimentation and conclusions are grounded before acceptance: Insight In, Hallucination Out.",
+      "ai_summary": "AutoResearch is a two-stage autonomous system that grounds research ideas through integrated generation and evidence-based execution to improve experimental reliability and measurable outcomes.",
+      "hf_url": "https://huggingface.co/papers/2608.17906",
+      "arxiv_url": "https://arxiv.org/abs/2608.17906",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.17906.png",
+      "upvotes": 22,
+      "num_comments": 2,
+      "published_at": "2026-08-22T20:00:00.000Z",
+      "github_repo": "https://github.com/EvoMap/AutoResearch",
+      "github_stars": 4323,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 23757,
+      "github_stars": 24014,
       "project_page": null
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 7637,
+      "github_stars": 7910,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.08936",
       "arxiv_url": "https://arxiv.org/abs/2609.08936",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 217,
+      "upvotes": 218,
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 87755,
+      "github_stars": 87815,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2609.10522",
       "arxiv_url": "https://arxiv.org/abs/2609.10522",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.10522.png",
-      "upvotes": 145,
+      "upvotes": 147,
       "num_comments": 3,
       "published_at": "2026-09-08T20:00:00.000Z",
       "github_repo": "https://github.com/showlab/Show-Harness",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-14T01:24:29.163153+00:00"
+  "fetched_at": "2026-09-14T06:47:15.166403+00:00"
 }
