@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-15T12:02:01.945107+00:00'
+updated: '2026-09-15T17:12:28.027901+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 15, 2026 at 12:02 UTC  
+**Last Updated:** September 15, 2026 at 17:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-1d ago
+2d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 22h ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-1d ago
+2d ago
 
 ---
 
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
 
-The Conversation • 20h ago
+The Conversation • 1d ago
 
 ---
 
@@ -124,35 +124,61 @@ The Conversation • 20h ago
 
 The world's first intelligent manufacturing facility for humanoid robots designed for 10,000-unit capacity has begun operating in Liuzhou, South China's Guangxi Zhuang Autonomous Region, UBTECH Robotics, China's humanoid robot developer, announced on Sunday, noting that the factory can roll out one industrial humanoid robot every 10 minutes.
 
-Global Times • 21h ago
+Global Times • 1d ago
 
 ---
 
-**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+**[The Biggest Issues With Delivery Robots Are Exactly What You'd Think](https://www.engadget.com/2255845/delivery-robots-biggest-issues/)**
 
-bloomberg.com • 1h ago
+Too often, delivery robots just don't understand the rules of the road (or sidewalk).
+
+Engadget • 1h ago
 
 ---
 
-**[Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/)**
+**[Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
 
-Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
+The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
 
-arstechnica.com • 16h ago
+The Robot Report • 6h ago
+
+---
+
+**[Agility's new humanoid is supposed to stop before it gets too close to humans](https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9)**
+
+Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid.
+
+Business Insider • 3h ago
+
+---
+
+**[Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety)**
+
+Agility Robotics’ latest is big enough, and safe enough, to do useful work
+
+IEEE Spectrum • 1h ago
+
+---
+
+**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
+
+Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
+
+Business Insider • 16h ago
+
+---
+
+**[3 AI Robotics Stocks Worth Owning Over Tesla Right Now](https://finance.yahoo.com/markets/stocks/articles/3-ai-robotics-stocks-worth-043500684.html)**
+
+AI robots can create many millionaires, but Tesla may not be the best way to play it.
+
+Yahoo Finance • 12h ago
 
 ---
 
 **[Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics](https://www.forbes.com/sites/johnkoetsier/2026/09/14/construction-robots-just-took-a-giant-leap-forward-hello-holy-grail-of-robotics/)**
 
-Forbes • 17h ago
-
----
-
-**[Google DeepMind wants to build an AI brain that can jump between robot bodies](https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/)**
-
-The company’s push into physical AI is putting Gemini inside humanoids—and testing whether its intelligence can survive in the real world
-
-Scientific American • 2h ago
+Forbes • 22h ago
 
 ---
 
@@ -160,29 +186,7 @@ Scientific American • 2h ago
 
 Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
 
-BBC • 6h ago
-
----
-
-**[Humans first: Microsoft sets extreme safety rules to prevent machines escaping control](https://interestingengineering.com/ai-robotics/microsoft-machine-model-safety-rules)**
-
-Microsoft has published new model safety rules designed to keep increasingly capable systems under human control.
-
-interestingengineering.com • 15h ago
-
----
-
-**[Factory robots long posed a safety threat to human workers. One company says it’s solved that problem.](https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297)**
-
-MarketWatch • 1h ago
-
----
-
-**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
-
-America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
-
-Baton Rouge Business Report • 21h ago
+bbc.com • 11h ago
 
 ---
 
@@ -196,7 +200,7 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 📺 America's Got Talent
 
-👁️ 1.4M • 👍 13K • 💬 2K • ⏱️ 5:02 • 6d ago
+👁️ 1.5M • 👍 13K • 💬 2K • ⏱️ 5:02 • 6d ago
 
 ---
 
@@ -206,7 +210,27 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 77K • 👍 321 • 💬 74 • ⏱️ 3:39 • 5d ago
+👁️ 79K • 👍 328 • 💬 74 • ⏱️ 3:39 • 6d ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 75K • 👍 1K • 💬 188 • ⏱️ 0:25 • 4d ago
+
+---
+
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+
+📺 PRO ROBOTS
+
+👁️ 31K • 👍 515 • 💬 72 • ⏱️ 21:46 • 5d ago
 
 ---
 
@@ -220,23 +244,23 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
-
-📺 PRO ROBOTS
-
-👁️ 30K • 👍 510 • 💬 71 • ⏱️ 21:46 • 4d ago
-
----
-
 **[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
 
 Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
 
 📺 Expand Knowledge
 
-👁️ 83K • 👍 927 • 💬 79 • ⏱️ 26:26 • 5d ago
+👁️ 84K • 👍 936 • 💬 79 • ⏱️ 26:26 • 5d ago
+
+---
+
+**[China’s Snake Robot Is Crawling Along Power Lines](https://www.youtube.com/watch?v=EJEH84n1wys)**
+
+China is testing a fascinating new approach to power-grid maintenance: a snake-shaped robot that crawls directly along electrical ...
+
+📺 Alchetron
+
+👁️ 4K • 👍 195 • 💬 4 • ⏱️ 0:22 • 8h ago
 
 ---
 
@@ -246,27 +270,15 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 80K • 👍 2K • 💬 575 • ⏱️ 13:22 • 3d ago
+👁️ 80K • 👍 2K • 💬 584 • ⏱️ 13:22 • 3d ago
 
 ---
 
-**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=2_mJwvudG3Q)**
+**[Robots protesting… themselves?](https://www.youtube.com/watch?v=vO1dd21GX4E)**
 
-The United States has quietly become the center of a humanoid robot revolution, and this video counts down the eight most ...
+📺 John Casterline
 
-📺 States 2050
-
-👁️ 699K • 👍 11K • 💬 547 • ⏱️ 23:25 • 6d ago
-
----
-
-**[Match 1 | BIOBUZZ Robot in 30 Hours | FIRST Tech Challenge](https://www.youtube.com/watch?v=K5YZrcz5puc)**
-
-Match 1 | BIOBUZZ Robot in 30 Hours | FIRST Tech Challenge Blue 65 Red 14 #biobuzz #ftcbiobuzz #firsttechchallenge ...
-
-📺 FUN Robotics Network
-
-👁️ 16K • 👍 111 • 💬 4 • ⏱️ 3:23 • 1d ago
+👁️ 461K • 👍 33K • 💬 737 • ⏱️ 0:31 • 13h ago
 
 ---
 
@@ -276,17 +288,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 459K • 👍 4K • 💬 354 • ⏱️ 5:52 • 6d ago
-
----
-
-**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
-
-In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
-
-📺 Gain Theory
-
-👁️ 97K • 👍 957 • 💬 44 • ⏱️ 21:36 • 5d ago
+👁️ 463K • 👍 4K • 💬 359 • ⏱️ 5:52 • 6d ago
 
 ---
 
