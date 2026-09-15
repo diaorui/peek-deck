@@ -8,10 +8,10 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "url": "https://github.com/CopilotKit/OpenBot",
       "preview_image": "https://opengraph.githubassets.com/40fc36d9610db8e155264c647186f44c2936bafffa37caefeecd4121ac18e9ad/CopilotKit/OpenBot",
-      "stars": 4891,
+      "stars": 4903,
       "stars_display": "4.9k",
-      "forks": 620,
-      "forks_display": "620",
+      "forks": 622,
+      "forks_display": "622",
       "language": "TypeScript",
       "topics": [
         "ag-ui",
@@ -20,7 +20,7 @@
         "browser-automation",
         "copilotkit"
       ],
-      "updated_at": "2026-09-15T01:02:27Z"
+      "updated_at": "2026-09-15T01:17:18Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
@@ -32,8 +32,8 @@
       "preview_image": "https://opengraph.githubassets.com/399f89e2d856a4b1ed13c2aecdf78e0fab60f9aff9777e31d743d9d64abebd79/wang2122/sprix-sage-router",
       "stars": 3689,
       "stars_display": "3.7k",
-      "forks": 421,
-      "forks_display": "421",
+      "forks": 187,
+      "forks_display": "187",
       "language": "Python",
       "topics": [
         "a2a",
@@ -52,13 +52,35 @@
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with cloud or bring-your-own (Claude Code / Codex) brains.",
       "url": "https://github.com/yetone/cumora",
       "preview_image": "https://opengraph.githubassets.com/b4a2b7fb2a0b59464d68c184afee32895dfaf6d3b7dcb42f150e0ba57b6a05b4/yetone/cumora",
-      "stars": 3597,
+      "stars": 3602,
       "stars_display": "3.6k",
       "forks": 464,
       "forks_display": "464",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-13T22:52:58Z"
+    },
+    {
+      "full_name": "bojieli/ai-infra-book",
+      "name": "ai-infra-book",
+      "owner": "bojieli",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/1421793?v=4",
+      "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
+      "url": "https://github.com/bojieli/ai-infra-book",
+      "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
+      "stars": 2852,
+      "stars_display": "2.9k",
+      "forks": 201,
+      "forks_display": "201",
+      "language": "Python",
+      "topics": [
+        "accelerator",
+        "ai-infra",
+        "ai-infrastructure",
+        "book",
+        "datacenter-network"
+      ],
+      "updated_at": "2026-09-15T01:34:21Z"
     },
     {
       "full_name": "Nanako0129/sepia",
@@ -68,10 +90,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2607,
+      "stars": 2609,
       "stars_display": "2.6k",
-      "forks": 165,
-      "forks_display": "165",
+      "forks": 167,
+      "forks_display": "167",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -92,33 +114,11 @@
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
       "stars": 2415,
       "stars_display": "2.4k",
-      "forks": 95,
-      "forks_display": "95",
+      "forks": 94,
+      "forks_display": "94",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-14T12:33:22Z"
-    },
-    {
-      "full_name": "bojieli/ai-infra-book",
-      "name": "ai-infra-book",
-      "owner": "bojieli",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/1421793?v=4",
-      "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
-      "url": "https://github.com/bojieli/ai-infra-book",
-      "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
-      "stars": 2397,
-      "stars_display": "2.4k",
-      "forks": 176,
-      "forks_display": "176",
-      "language": "Python",
-      "topics": [
-        "accelerator",
-        "ai-infra",
-        "ai-infrastructure",
-        "book",
-        "datacenter-network"
-      ],
-      "updated_at": "2026-09-14T06:55:36Z"
     },
     {
       "full_name": "duty1g/x64dbg-mcp-server",
@@ -128,10 +128,10 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1962,
+      "stars": 1966,
       "stars_display": "2.0k",
-      "forks": 196,
-      "forks_display": "196",
+      "forks": 197,
+      "forks_display": "197",
       "language": "Zig",
       "topics": [
         "ai-agents",
@@ -150,7 +150,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 1930,
+      "stars": 1938,
       "stars_display": "1.9k",
       "forks": 191,
       "forks_display": "191",
@@ -166,8 +166,8 @@
       "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
       "url": "https://github.com/xzf-thu/VoiceMem",
       "preview_image": "https://opengraph.githubassets.com/2c9f33948506498cc46a642f0c9ffacc8c2b90a47012abccab6c98a8e0252588/xzf-thu/VoiceMem",
-      "stars": 1645,
-      "stars_display": "1.6k",
+      "stars": 1712,
+      "stars_display": "1.7k",
       "forks": 115,
       "forks_display": "115",
       "language": "Python",
@@ -188,7 +188,7 @@
       "description": "Long-term memory runtime for AI agents \u2014 plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
       "url": "https://github.com/tigerless-labs/agent-memory",
       "preview_image": "https://opengraph.githubassets.com/e2e77686d0105c1ea1c15b34062a55c2637b58296f0d97d4e2f1b7101c446ef2/tigerless-labs/agent-memory",
-      "stars": 1444,
+      "stars": 1446,
       "stars_display": "1.4k",
       "forks": 86,
       "forks_display": "86",
@@ -207,6 +207,6 @@
   "search_query": "ai created:>2026-08-16",
   "days": 30,
   "limit": 10,
-  "total_count": 450718,
-  "fetched_at": "2026-09-15T01:12:19.376696+00:00"
+  "total_count": 453623,
+  "fetched_at": "2026-09-15T06:28:37.438173+00:00"
 }
