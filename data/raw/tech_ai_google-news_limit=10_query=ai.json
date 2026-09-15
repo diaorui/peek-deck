@@ -5,62 +5,62 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
-      "pub_date": 1789431900.0,
-      "article_url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Global AI stocks fall as industry chiefs call for slowing development",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
-      "pub_date": 1789358400.0,
-      "article_url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Stocks slide to begin week as 10-year yield briefly touches 5%, oil rises: Live updates",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-      "pub_date": 1789423664.0,
-      "article_url": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "description": "The three major averages are coming off a losing week."
-    },
-    {
       "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
-      "pub_date": 1789419204.0,
+      "pub_date": 1789400963.0,
       "article_url": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Top A.I. Leaders Call for Slowing Down A.I. Development",
+      "headline": "China dismisses AI \u2018fearmongering\u2019 as spy chief warns of threat to Communist party rule",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzhVSVBXNjFWQWc3TEhuQmU2bk4zMFNsWTVfZDFYS0c4bjU5U2xKbFBLMTBJMHN0TU1nazJObDR2NjQzbHFhVWhnR0pyeWwzU0hkMm1SVDhDenkxbEU3OWxXNzA2bENhRDh5czZwOVZLaFVURndfNGk4M3U4RTctVmR5RmtBblcxVkR2bF9VQm1xWDlMdWJJZXl2OEM2UzR5R1JhZVo4SktwMVhCUmQ5SVYwaDFEd0g0eWFVb0NwWTJVa000bS02bjd2cw?oc=5",
+      "pub_date": 1789422780.0,
+      "article_url": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
+      "image": "https://i.guim.co.uk/img/media/7d0d8de1bb018fd3460ffaa315065c89f4bd4fc7/334_0_6136_4909/master/6136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3c9ded534222f0e091ee75c9e1e1dec",
+      "description": "Beijing hits back after Anthropic CEO calls for US to impede China\u2019s progress in AI"
+    },
+    {
+      "headline": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
-      "pub_date": 1789396980.0,
-      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5",
+      "pub_date": 1789407495.0,
+      "article_url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-      "pub_date": 1789315131.0,
-      "article_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "headline": "How China is preparing for the risk of AI escaping human control",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
+      "pub_date": 1789412557.0,
+      "article_url": "https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0x1dy1VVUlFQXJ2c2hKQ2xuY2s4Ukk2SGpodktxVEJnQU9YNzhrVVVLRHFUd0diMWFCdTg3VFh2QkZGbG1EN2tKdGg1R196Q2Fya3I4WmNkcERQd2VsYW9icnNxejRrOERpZlVKTTVrOWVoLUx0SUJhcERpbU9qSk5VdjFOeV9k0gGOAUFVX3lxTE5QSWhQNnEzV0Y0LWdDalpDVUN5V0lyWU9ITXFXa2V3TjROd3VkQV9nMjJRS3drZEVUVWNHRngzeUYtOVVvazcza00wdFhZZTh1YXRVc2s2SHY1U0d2RFFRandZa3c0ZHBUWnh2Rkc5UGZ1b1FoWkktM21uV0hWMGpQcTQ0RDBWbFJla1JzX3c?oc=5",
+      "pub_date": 1789376358.0,
+      "article_url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357960-1788373276791-gettyimages-2292640346-g20_7000.jpeg?v=1788373294&w=1920&h=1080",
+      "description": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns."
+    },
+    {
+      "headline": "Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFU5RG1vWUx4LW5tTnVlWmxVaExUb1JiYks2N01JbTJFWl9NY3ZFRUpxaGc3LURuZ2xST2VkZ1hFNFROcjM4U0RPeGFqczRCamt4Z3FqWFBteC1seWxSdUJLRE9HUDlqeGxlczE4M0JJTEp1WC1VWGJXcmpJUjgzU0g1OGxHN0N6RWZtTjJBNktPTUJqU2Y0N2J2QTR1ZHRjQTNQZVk1UU4weXRvZGJvMDRYZkh0VkNvMXQtVg?oc=5",
+      "pub_date": 1789449360.0,
+      "article_url": "https://www.reuters.com/technology/ex-google-deepmind-researcher-adds-warnings-that-ai-could-kill-all-humans-2026-09-15/",
       "image": null,
       "description": null
     },
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "Thune sees role for Congress on AI \u2014 Trump does not",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVc4WUhyV2xZV0puOVJvWlU0VTlXblVHX0U4M2lXd0l6Vm1Wd2Y1WjNkMkVHYXJzLVFzNUJndXZkZzgybFlEN2g1ZzQydG9qWjdHekxWenlSelJDcDdrSGRlNVZvb2hHbEVYRFVwU3k0QjlvZlQtNGpXb2NRX3VLZWR3Y2JJNEE?oc=5",
-      "pub_date": 1789429766.0,
-      "article_url": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+      "headline": "Gates Foundation bets $1B on AI to boost global health, agriculture and education",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJUVFVXRTB0dzRUZ2I2cno0c1RGLTBEN0xUd3BoZndkendLQXFMY3lFLXgxSF9qeFNsYjlSM21HcW03empUSmU0RXBZMGR4MXMyYTdBd1A5S255VHBBMmdkTWs4RWhTQTdGWVQtbTBTeHhubEViSlNjRXJrMS1PRDFOaHV2OGVIalZhMzg5MTR6R0tGQjJYVlFyc1g2alY3RFVrRmR1NUhwem4zV0x3?oc=5",
+      "pub_date": 1789450954.0,
+      "article_url": "https://www.geekwire.com/2026/gates-foundation-bets-1b-on-ai-to-boost-global-health-agriculture-and-education/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2020/02/gates-1-1260x836.jpg",
+      "description": "The Gates Foundation is committing at least $1 billion over the next two years to AI tools for health workers, farmers and teachers. CEO Mark Suzman told GeekWire he expects the figure to grow, but said AI efficiencies cannot make up for the billions governments have cut from global health."
+    },
+    {
+      "headline": "Governments worldwide are way behind on AI, says Bill Gates",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnE4S3JkY1VydWx3RkhxYnhhWG12dFA4Yy1aZVBLVDB6cWdQYWtzckhvZWVHc053YVg2Q3pLR0hFOGFYeVBlMTdQSlR1R1o5OGxTZWp4cUw3OG0wWEtJbWE4V1d4djBvcE5jb3lCb3FqbGNNcjh1MjAzSE44YVdNRW85YnhQRWRnZ0ZIaU1tOGF5UlhNalg5TkNYSTRlRTVwVmw2UUh0LWwyVGVsNzFR?oc=5",
+      "pub_date": 1789445100.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/governments-worldwide-are-way-behind-ai-says-bill-gates-2026-09-15/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Senior Democrat pushes back against AI select committee",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUYyQ3R2VFRpSEJlcUtuc3ZKdU03OEpMQzhnRFBkcGlyeEZ3UVlGVDVxMW4zMTI1YVo1MUJEM3IyUy12d3l5ZXVKV2JkTWQ4ZUU3MGJBZlFTNE92anZ4R1pmYVZKR1BpclM4N1hURUkwVmxYRHg1dUcyUUJDQTN1MGpSbDJNdUhYS3dGR0ZvaUxOd0JHWXM1QXRzWDM5MGxmU092NzRlMmNZRThWRlBwRW5SbjlYRk9WNldzWUJnZw?oc=5",
-      "pub_date": 1789406839.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/14/congress/senior-democrat-pushes-back-against-ai-select-committee-01074809",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will Congress get an AI regulation bill done before midterms?",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTF6cHllOG1oUDB5TEFvTnd5WXR3ak9OSkg3X3dsSG1KNFZFYWNRZUdjTDlNaEJwalN0MEZNNFFpbGVJNmZlRXUyd2daSVBBMF8zc01xa3NuNVU0TGxVZ0VvVkhrbVZCems3ejV0N3FYQUJqX1M0OUZPWFJvWDhnenM4VjZxLVQ3LTl2MjFmenpDUWdUTGM1WTV6YnJiTUxrTEVKS01zX0U0VnJHUXFZ?oc=5",
-      "pub_date": 1789432389.0,
-      "article_url": "https://www.nbcnews.com/video/shorts/will-congress-get-an-ai-regulation-bill-done-before-midterms-269852229752",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/HtS_9.14_tn_2-gmjsn7.jpg",
-      "description": "NBC News' Ryan Nobles joins \"Here's the Scoop\" to discuss a number of different bills introduced by lawmakers on Capitol Hill to regulate artificial intelligence explain why getting one passed before the midterms is \"a fantasy.\""
+      "headline": "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access",
+      "source": "WRAL",
+      "source_url": "https://www.wral.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLURxeHV0LWVWOEFyTWliVjVFdkxhcHNCRzZ2UXpFOGpuejVYWV9oQTdQdnZJMHBEUk1VQUFBekU4UHhPTVVaa3NHVU1NWVAwLW9Cb3J4a0dQSGhfUU85dE5FY0NVaE9icGNSbW1JRVFDMXFnSVFPTXhXZXNZQzRFdm9KQjZKUXlDVWI1anZYLXBXZG1nejRUd1VONjhzOVVHY1ZkVW5PbjV2c0dJT0VKbXNZMmRIUjdubFBSRXI1R05QNUU2?oc=5",
+      "pub_date": 1789445246.0,
+      "article_url": "https://www.wral.com/news/ap/26ce2-gates-foundation-warns-ai-could-widen-inequality-as-foundation-pledges-1b-to-expand-access/",
+      "image": "https://images.wral.com/5470e9c5-7b7f-5cff-b5b5-f41127840d48?w=1200&h=630&height=630",
+      "description": "NEW YORK (AP) \u2014 Bill Gates is warning technology companies and world leaders that they must act now to ensure artificial intelligence combats social inequities rather than deepening disparities \u2014 and his foundation is pledging $1 billion to improve access."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T01:12:41.232982+00:00"
+  "fetched_at": "2026-09-15T06:29:07.371457+00:00"
 }

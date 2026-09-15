@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-15T01:12:43.920122+00:00'
+updated: '2026-09-15T06:29:12.304603+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 15, 2026 at 01:12 UTC  
+**Last Updated:** September 15, 2026 at 06:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.9%  
-**30d:** +31.3%  
-**90d:** +46.9%  
-**1y:** -44.2%  
+**24h:** -1.3%  
+**7d:** +0.9%  
+**30d:** +30.1%  
+**90d:** +45.5%  
+**1y:** -44.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $306.46B
+**Market Cap:** $303.96B
 Rank #2
 
-**Circulating Supply:** 122,047,243 ETH
+**Circulating Supply:** 122,050,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.2%
+-49.7%
 
 **All-Time Low:** $0.43
-+579681.0%
++574999.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -102,7 +102,7 @@ Variable rates are still the default for most onchain credit. That makes leverag
 
 Every year since January 2019, teams from the Ethereum Foundation have spent an afternoon or two on r/ethereum answering questions from the community. The...
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 4d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/09/09/reddit-ama) • 5d ago
 
 ---
 
@@ -126,7 +126,7 @@ Bitmine just loaded up on nearly 30,000 more Ethereum tokens, pushing its treasu
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -142,7 +142,7 @@ Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-6d ago
+7d ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
 
-Coinpedia • 6h ago
+Coinpedia • 1h ago
 
 ---
 
@@ -166,17 +166,31 @@ We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's i
 
 ---
 
+**[Ethereum Slides 3.1% -- Crypto Mover](https://www.moomoo.com/news/post/76256740/ethereum-slides-3-1-crypto-mover)**
+
+Moomoo • 1h ago
+
+---
+
 **[Tom Lee's BMNR Adds 1 BTC, Expands ORBS Stake By $7M Amid Ethereum Buying Spree](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bmnr-adds-1-160327214.html)**
 
 BitMine expanded its crypto and equity holdings while keeping its focus on building a 5% stake in Ethereum.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 14h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) bought $68M ETH as Tom Lee sees more upside ahead](https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead)**
 
-coindesk.com • 12h ago
+CoinDesk • 17h ago
+
+---
+
+**[Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026](https://www.tradingview.com/news/coinmarketcal:cf9c99704094b:0-lisk-chain-shutdown-requires-holders-to-bridge-funds-to-ethereum-31-oct-2026/)**
+
+Lisk has confirmed that Lisk Chain shuts down, and users must bridge their funds to Ethereum before closure. Withdrawal takes about 8 days, with unstaking adding a 3-day waiting period, so a complete move can span roughly 11 days. The deadline applies to all LSK holders on the chain.This is a force…
+
+TradingView • 19h ago
 
 ---
 
@@ -184,15 +198,15 @@ coindesk.com • 12h ago
 
 Could the Clarity Act really become a super-catalyst for Ethereum?
 
-The Motley Fool • 11h ago
+The Motley Fool • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Dip as Senate Prepares to Vote on CLARITY: Analyst Sees BTC Rallying to $90,000, but Only If...](https://www.tradingview.com/news/benzinga:b7db0c144094b:0-bitcoin-ethereum-xrp-dogecoin-dip-as-senate-prepares-to-vote-on-clarity-analyst-sees-btc-rallying-to-90-000-but-only-if/)**
+**[Coinbase-backed Base just exposed the uncomfortable truth about Ethereum’s L2s](https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/)**
 
-Leading cryptocurrencies fell alongside stock futures on Sunday evening amid speculation over CLARITY Act passage and AI CEOs’ warnings of major safety risks.Crypto Market Comes Under StrainBitcoin dropped to an intraday low of $76,367 late in the evening, while 24-hour trading volume spiked 10%. E…
+Base’s split with Ethereum over account abstraction shows how market pressure is pushing L2s toward independent protocol choices.
 
-TradingView • 23h ago
+CryptoSlate • 3h ago
 
 ---
 
@@ -200,29 +214,13 @@ TradingView • 23h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
-
----
-
-**[BlackRock’s staking Ethereum ETF pays yield but investors still prefer its $9 billion ETHA fund](https://cryptoslate.com/blackrocks-staking-ethereum-etf-pays-yield-but-investors-still-prefer-its-9-billion-etha-fund/)**
-
-BlackRock’s $9 billion Ethereum fund still dwarfs its yield-paying rival and trades about 30 times more heavily.
-
-CryptoSlate • 10h ago
+Fortune • 17h ago
 
 ---
 
 **[Wintermute Builds $102M Crypto Short as Ethereum Leads Bearish Bets](https://www.ccn.com/news/crypto/wintermute-102m-crypto-shorts-ethereum/)**
 
-CCN.com • 12h ago
-
----
-
-**[Ethereum: Clarity Act Signals BTC Outperformance](https://blockchain.news/flashnews/ethereum-clarity-act-signals-btc-outperformance)**
-
-Ethereum at $2516.69 holds retest support on 4h chart as Clarity Act positions ETH to outperform Bitcoin amid neutral RSI and MACD death cross.
-
-blockchain.news • 14h ago
+CCN.com • 17h ago
 
 ---
 
@@ -236,7 +234,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 9K • 👍 331 • 💬 60 • ⏱️ 18:56 • 10h ago
+👁️ 13K • 👍 375 • 💬 98 • ⏱️ 18:56 • 15h ago
 
 ---
 
@@ -246,7 +244,17 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 10K • 👍 189 • 💬 50 • ⏱️ 8:39 • 22h ago
+👁️ 11K • 👍 196 • 💬 49 • ⏱️ 8:39 • 1d ago
+
+---
+
+**[BITCOIN PUMP &amp; DUMP (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=veE0B-b_fNs)**
+
+BITCOIN PUMP & DUMP (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* https://bit.ly/LBankBonus ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 210 • 💬 99 • ⏱️ 18:28 • 5h ago
 
 ---
 
@@ -256,7 +264,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 33K • 👍 629 • 💬 100 • ⏱️ 7:35 • 2d ago
+👁️ 33K • 👍 632 • 💬 101 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -266,7 +274,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 336 • 💬 20 • ⏱️ 15:15 • 1d ago
+👁️ 13K • 👍 341 • 💬 20 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -276,7 +284,37 @@ CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Ethereum broke out above 
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 276 • 💬 10 • ⏱️ 6:51 • 2d ago
+👁️ 8K • 👍 277 • 💬 9 • ⏱️ 6:51 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum, WARUM diese Woche EXTREM explosiv werden wird. Das musst du JETZT wissen](https://www.youtube.com/watch?v=Cg0xQPFOSvI)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 333 • 💬 23 • ⏱️ 13:52 • 2h ago
+
+---
+
+**[ETH MASSIVE BREAKOUT IS COMING - Get Ready](https://www.youtube.com/watch?v=95M9DjBnPSY)**
+
+ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ MAXFI Tutorials: ...
+
+📺 Big Time Trades
+
+👁️ 6K • 👍 125 • 💬 25 • ⏱️ 21:47 • 2d ago
+
+---
+
+**[CANTON + ETHEREUM: IS THIS THE END OF THE OLD SYSTEM?](https://www.youtube.com/watch?v=Re7j_wvMDck)**
+
+THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
+
+📺 Grow Rich Grow Happy
+
+👁️ 554 • 👍 56 • 💬 12 • ⏱️ 18:03 • 6h ago
 
 ---
 
@@ -286,47 +324,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 703 • 👍 20 • 💬 38 • ⏱️ 5:16 • 15h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Uhh9_Ggo3x0)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 62 • ⏱️ 6:08 • 10h ago
-
----
-
-**[Ethereum es el nuevo favorito de Wall Street y lo vas a pagar muy caro](https://www.youtube.com/watch?v=LobpaUXXT2A)**
-
-En el noticiero de hoy, veremos como Wall Street acaba de elegir a Ethereum como su activo estrella en bolsa y el Nasdaq ...
-
-📺 Valentín Santamaría
-
-👁️ 2K • 👍 194 • 💬 5 • ⏱️ 17:29 • 15h ago
-
----
-
-**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
-
-BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 254 • 💬 130 • ⏱️ 17:07 • 1d ago
-
----
-
-**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
-
-John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
-
-📺 The Rollup
-
-👁️ 37K • 👍 587 • 💬 69 • ⏱️ 22:54 • 2d ago
+👁️ 799 • 👍 21 • 💬 37 • ⏱️ 5:16 • 21h ago
 
 ---
 
