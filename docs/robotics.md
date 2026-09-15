@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-15T06:29:12.307382+00:00'
+updated: '2026-09-15T12:02:01.945107+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 15, 2026 at 06:29 UTC  
+**Last Updated:** September 15, 2026 at 12:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-19h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-23h ago
+1d ago
 
 ---
 
@@ -60,13 +60,13 @@ Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon 
 
 https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
-1d ago
+2d ago
 
 ---
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 17h ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 22h ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 19h ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 1d ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -112,11 +112,11 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
+**[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
 
-America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
+The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
 
-CNBC • 2d ago
+The Conversation • 20h ago
 
 ---
 
@@ -124,13 +124,35 @@ CNBC • 2d ago
 
 The world's first intelligent manufacturing facility for humanoid robots designed for 10,000-unit capacity has begun operating in Liuzhou, South China's Guangxi Zhuang Autonomous Region, UBTECH Robotics, China's humanoid robot developer, announced on Sunday, noting that the factory can roll out one industrial humanoid robot every 10 minutes.
 
-Global Times • 15h ago
+Global Times • 21h ago
+
+---
+
+**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+
+bloomberg.com • 1h ago
+
+---
+
+**[Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/)**
+
+Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
+
+arstechnica.com • 16h ago
 
 ---
 
 **[Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics](https://www.forbes.com/sites/johnkoetsier/2026/09/14/construction-robots-just-took-a-giant-leap-forward-hello-holy-grail-of-robotics/)**
 
-Forbes • 11h ago
+Forbes • 17h ago
+
+---
+
+**[Google DeepMind wants to build an AI brain that can jump between robot bodies](https://www.scientificamerican.com/article/google-deepmind-wants-gemini-to-power-many-different-robots/)**
+
+The company’s push into physical AI is putting Gemini inside humanoids—and testing whether its intelligence can survive in the real world
+
+Scientific American • 2h ago
 
 ---
 
@@ -138,21 +160,21 @@ Forbes • 11h ago
 
 Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
 
-BBC • 1h ago
+BBC • 6h ago
 
 ---
 
-**[Wonder debuts its first robotic meal assembly system after acquiring the tech from Sweetgreen](https://www.fastcompany.com/91606368/marc-lore-startup-wonder-infinite-makeline-robotic-food-prep)**
+**[Humans first: Microsoft sets extreme safety rules to prevent machines escaping control](https://interestingengineering.com/ai-robotics/microsoft-machine-model-safety-rules)**
 
-'The goal is to get the price of your food delivered to your door cheaper than getting deliveries and cooking,' the founder, Marc Lore, tells Fast Company.
+Microsoft has published new model safety rules designed to keep increasingly capable systems under human control.
 
-Fast Company • 18h ago
+interestingengineering.com • 15h ago
 
 ---
 
-**[Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.](https://www.barchart.com/story/news/4580443/wonder-deal-240m-cash-and-31-short-interest-a-short-squeeze-could-be-brewing-in-serve-robotics-stock)**
+**[Factory robots long posed a safety threat to human workers. One company says it’s solved that problem.](https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297)**
 
-Barchart.com • 1d ago
+MarketWatch • 1h ago
 
 ---
 
@@ -160,29 +182,7 @@ Barchart.com • 1d ago
 
 America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
 
-Baton Rouge Business Report • 15h ago
-
----
-
-**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
-
-Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
-
-Business Insider • 5h ago
-
----
-
-**[Unitree’s US$30 billion stock wipe-off spurs caution on humanoid robot IPOs](https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos)**
-
-South China Morning Post • 27m ago
-
----
-
-**[From autonomous tractors to robot swarms: Elbit’s path to the battlefield of the future](https://www.ynetnews.com/tech-and-digital/article/rykyk5rkzg)**
-
-To keep pace with rapidly evolving defense tech, Israeli defense giant Elbit Systems launched Fuse, an agile startup developing drones for intelligence and strike missions and, following its acquisition of Israel’s BWR, ground robots and robotic swarms
-
-Ynetnews • 15h ago
+Baton Rouge Business Report • 21h ago
 
 ---
 
@@ -206,7 +206,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 76K • 👍 315 • 💬 73 • ⏱️ 3:39 • 5d ago
+👁️ 77K • 👍 321 • 💬 74 • ⏱️ 3:39 • 5d ago
 
 ---
 
@@ -226,7 +226,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 30K • 👍 507 • 💬 71 • ⏱️ 21:46 • 4d ago
+👁️ 30K • 👍 510 • 💬 71 • ⏱️ 21:46 • 4d ago
 
 ---
 
@@ -236,7 +236,7 @@ Chinese Engineering is bringing humanoid robotics into a surprisingly personal t
 
 📺 Expand Knowledge
 
-👁️ 82K • 👍 913 • 💬 79 • ⏱️ 26:26 • 5d ago
+👁️ 83K • 👍 927 • 💬 79 • ⏱️ 26:26 • 5d ago
 
 ---
 
@@ -246,7 +246,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 79K • 👍 2K • 💬 570 • ⏱️ 13:22 • 3d ago
+👁️ 80K • 👍 2K • 💬 575 • ⏱️ 13:22 • 3d ago
 
 ---
 
@@ -256,7 +256,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 698K • 👍 11K • 💬 547 • ⏱️ 23:25 • 6d ago
+👁️ 699K • 👍 11K • 💬 547 • ⏱️ 23:25 • 6d ago
 
 ---
 
@@ -266,17 +266,17 @@ Match 1 | BIOBUZZ Robot in 30 Hours | FIRST Tech Challenge Blue 65 Red 14 #biobu
 
 📺 FUN Robotics Network
 
-👁️ 15K • 👍 110 • 💬 4 • ⏱️ 3:23 • 1d ago
+👁️ 16K • 👍 111 • 💬 4 • ⏱️ 3:23 • 1d ago
 
 ---
 
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
 
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
 
-📺 Cleo Abram
+📺 XPENG
 
-👁️ 130K • 👍 8K • 💬 238 • ⏱️ 0:37 • 15h ago
+👁️ 459K • 👍 4K • 💬 354 • ⏱️ 5:52 • 6d ago
 
 ---
 
