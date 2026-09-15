@@ -24,6 +24,28 @@
       "description": null
     },
     {
+      "title": "So is the American Right Full on Accelerationist now?",
+      "author": "Vladiesh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/",
+      "published": 1789499179.0,
+      "thumbnail": "https://external-preview.redd.it/c3NlaWViZXRmcXBoMQkrlPie4UEOcnuFjvlCXcxqrGUzsjScrUHbuXibBwy0.png?width=640&crop=smart&auto=webp&s=8baea4e23354b01805e72f8656780299f3eb7ac9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1whfbhr/oracle_cfo_says_doing_more_with_less_isnt_the/",
+      "published": 1789512066.0,
+      "thumbnail": "https://external-preview.redd.it/q8eIwzOT3_sjquEhh9Eryefomdf_G33KjyW_r7J5cxM.jpeg?width=640&crop=smart&auto=webp&s=f80b8704c2a1db30f22528fd799f2e1d190659a4",
+      "external_url": "https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year."
+    },
+    {
       "title": "What do we think about the paperclip maximizer?",
       "author": "EverTokki",
       "url": "https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/",
@@ -46,26 +68,15 @@
       "description": "I've gotten really good feedback on these positive \"Friendly Reminder\" posts, so I'm going to keep them posting. For new coders doing vibe coding, new software engineers, or anyone who's suddenly spending a lot more time on a computer because of AI (or for any other reasons): Make sure you're using the 20-20-20 rule. An eye doctor told me about this: every 20 minutes, look at something about 20 (meters/feet) away for at least 20 seconds. I guess meters/feet changes from which part of the world you are. For many people, a dark background can feel easier on the eyes, but for some people with astigmatism, the opposite can actually be true. So if you're getting headaches or eye strain, your background colour might be worth experimenting with. I've also heard that overhead or monitor lighting can help reduce eye strain, although I can't say for sure how much of a difference it makes. You can also try yellow-tinted glasses for longer sessions. I've found that they really help. There are lots of other tips suggestions on eye health as well, so make sure you are aware of those as well."
     },
     {
-      "title": "So is the American Right Full on Accelerationist now?",
-      "author": "Vladiesh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/",
-      "published": 1789499179.0,
-      "thumbnail": "https://external-preview.redd.it/c3NlaWViZXRmcXBoMQkrlPie4UEOcnuFjvlCXcxqrGUzsjScrUHbuXibBwy0.png?width=640&crop=smart&auto=webp&s=8baea4e23354b01805e72f8656780299f3eb7ac9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner",
-      "author": "TheRealBigLou",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/",
-      "published": 1789495404.0,
-      "thumbnail": "https://external-preview.redd.it/kQKjvxyCBQU-B6yMrFmu15J08s2cBCHo907cpGrZbPw.jpeg?width=640&crop=smart&auto=webp&s=a95e64593460c072fca28572e554632a60adcf7e",
-      "external_url": "https://www.linkedin.com/pulse/orchestrate-dont-generate-how-i-used-ai-build-my-linkedin-brian-lewis-jf5dc/",
-      "site_name": "linkedin.com",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "I recently updated my LinkedIn banner. Sure, AI would make quick work of it, and the fastest way to get one would have been to type a prompt into an image generator and take whatever came back."
+      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
+      "author": "Capable-Blueberry653",
+      "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
+      "published": 1789511799.0,
+      "thumbnail": "https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&crop=smart&auto=webp&s=dd0708ae7c207d4c674edddeb323513c59a6c64e",
+      "external_url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Jacob Coxon, the researcher who left Anthropic warning AI could kill us all by the end of the decade, did an X AMA today and doubled down hard. His whole argument is that Anthropic leadership justifies racing to the frontier with this \"well someone's gonna do it anyway\" logic, and Coxon basically says that's a cop out, his exact line was \"if the race is inevitable you should not contribute.\" He also went after their push into recursive self-improvement, letting AI models improve themselves and build their own successors, calling that the genuinely reckless part."
     },
     {
       "title": "Combining RAG with Continued Pretraining of LLMs",
@@ -79,6 +90,17 @@
       "description": "For leaning purposes, I ran an experiment where I used Unsloth to train a model on a new domain using continued pretraining. Then to make it more flexible, I added a RAG step to inject dynamic data to augment the stable training data. The specific example is training qwen 3.5 4B on a fictional subway system to where the model learns the map well enough to provide travel routes (including multiple transfers, etc). A key point here is to avoid a training corpus that relies on memorization. Once the subway map was stable and generalized through CPT, I added a RAG step to support dynamic travel announcements (e.g. station closure, concerts near a station, etc). It's definitely been a fun experiment. Check it out here in case you are interested: https://www.teachmecoolstuff.com/viewarticle/combining-rag-with-continued-pretraining-of-llms"
     },
     {
+      "title": "Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner",
+      "author": "TheRealBigLou",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/",
+      "published": 1789495404.0,
+      "thumbnail": "https://external-preview.redd.it/kQKjvxyCBQU-B6yMrFmu15J08s2cBCHo907cpGrZbPw.jpeg?width=640&crop=smart&auto=webp&s=a95e64593460c072fca28572e554632a60adcf7e",
+      "external_url": "https://www.linkedin.com/pulse/orchestrate-dont-generate-how-i-used-ai-build-my-linkedin-brian-lewis-jf5dc/",
+      "site_name": "linkedin.com",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "I recently updated my LinkedIn banner. Sure, AI would make quick work of it, and the fastest way to get one would have been to type a prompt into an image generator and take whatever came back."
+    },
+    {
       "title": "Speed is the wrong question, safety is one of the components of performance",
       "author": "StrategicHarmony",
       "url": "https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Users don't want an agent that will secretly hack their network (and maybe someone else's network) if it is having trouble completing a task. That's not what most users would consider high performance. A poorly aligned AI is not more advanced overall, it's relatively primitive compared to one of that does a given task when it has the ability and resources, but won't try to cheat or lie when it doesn't. Most models are not chosen for a single metric, benchmark, or behaviour, while ignoring all others. It's undesirable, for example, to maximise correct answers if that also means maximising random confident guesses/hallucinations when it doesn't know the answer. Most people wouldn't want a model that's great at porting from one programming language to another but doesn't understand plain/natural-language instructions about what to change, fix, add, etc. Requirements for \"quality\" or \"performance\" are multi-factor things. Putting more emphasis on obedience, honesty, transparency, etc, isn't - by itself - \"slowing down\" any more than adding a new language or subject area to a model's training. It's a kind of progress in itself, if those new behaviours are desired and useful. So whether we slow down or speed up is a useless way to predict or control safety. What matters is whether our definition - and measurement - of progress captures the things we care about; whether it's consistent with what we consider to be broadly useful. If decent alignment to user instructions, constraints, and security, at the very least, is not high, then it's not a very advanced model. When a vendor says we all need to slow down, I read that as meaning \"we have been training and testing our models poorly, so they're starting to become less useful. We need to change our approach, but we don't want to fall behind on a narrow set of shiny numbers that make us look good, like raw coding ability\""
-    },
-    {
-      "title": "Trump doubles down on his no AI slowdown stance, also mocks Dario",
-      "author": "CartographerAble9446",
-      "url": "https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/",
-      "published": 1789396092.0,
-      "thumbnail": "https://preview.redd.it/hf54jgr9xhph1.png?width=320&crop=smart&auto=webp&s=d3bc31c5248085f448a3659b906b6183c4ef699c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "The Embodiment Gap in Robotics and the Race to Close It",
-      "author": "enlightened_none",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh2jky/the_embodiment_gap_in_robotics_and_the_race_to/",
-      "published": 1789483871.0,
-      "thumbnail": "https://external-preview.redd.it/nwYomqI7irxud8w3WWgu8KEs_KPylIl_T8dE5qUr_V8.png?width=640&crop=smart&auto=webp&s=7ca69f11b439ff07267d4c176361fdcdb91c4954",
-      "external_url": "https://bonafider.com/blog/the-embodiment-gap-in-robotics-and-the-race-to-close-it",
-      "site_name": "bonafider.com",
-      "favicon": "https://bonafider.com/favicon.png",
-      "description": "In robotics, intelligence is never purely abstract. It is shaped by the physical body that perceives the world and acts upon it. This fundamental connection creates one of the field\u2019s most persistent obstacles: the embodiment gap."
     }
   ],
-  "fetched_at": "2026-09-15T20:22:21.299222+00:00"
+  "fetched_at": "2026-09-15T23:03:45.568558+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
+      "pub_date": 1789470017.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Oregon robotics company says its newest humanoid can work safely with people",
       "source": "OregonLive.com",
       "source_url": "https://www.oregonlive.com",
@@ -25,16 +35,6 @@
       "description": "Robots can start working outside physical cages and without safety barriers."
     },
     {
-      "headline": "Agility\u2019s Digit 5 humanoid has new legs, batteries and safety upgrades",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVVMM3FzenI0Z0NyYnBWeExHRWZxckJGLWtJNGFqRzQ4MW5scUJmOXpGVjRCZDlCTWx2cThxN2hKMWk5M3pscnBEbE14TjRuWmVoNjM0WndvZWI0Vnl2eVUtdDZndEZnLXdUZ0dTWVIyRURUUWJRNWNKcTZOaEhKSks2V0ZKMVJCZkF1QkZ4V2Y2NGFNNkYwaDB5Skw?oc=5",
-      "pub_date": 1789470651.0,
-      "article_url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
-      "description": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture."
-    },
-    {
       "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
       "source": "The Conversation",
       "source_url": "https://theconversation.com",
@@ -53,6 +53,16 @@
       "article_url": "https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9",
       "image": "https://i.insider.com/6aa88f239b8974787b1cc15e?width=1200&format=jpeg",
       "description": "Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms."
+    },
+    {
+      "headline": "These Robot Soldiers Are Getting Downright Terrifying",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjQ0ZXFDc2l0OExzZldrd3JOSlUxWGVfa0ZfOUowZXBYa3NXSlQtdGtIeWJwc3hzS3RPRFI0NXFQaDhXTWZzYjJaTUM3TXRRbXY0ZjhVT3lDc0Z5ZU5NYXV6VjliR3VhSXU0UHRzU2x5djhlbDdNQlQ0Uk13dEE?oc=5",
+      "pub_date": 1789495704.0,
+      "article_url": "https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/robot-soldiers-getting-terrifying.jpg?w=1200",
+      "description": "San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war."
     },
     {
       "headline": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
@@ -93,18 +103,8 @@
       "article_url": "https://www.bbc.com/news/articles/c689j81q548qo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee7d/live/9104f3e0-b04c-11f1-89e4-0bbff5cb7e23.jpg",
       "description": "Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus."
-    },
-    {
-      "headline": "Wonder debuts its robotic bowl maker",
-      "source": "Nation\u2019s Restaurant News",
-      "source_url": "https://www.nrn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGJITGswZHc5R0ozbDl2Z0JIWml6TVJIX0VJNy12SGExWHdKRnFGclRnUHBTa3BEa1o0dXZtYjltdG05NjgxLTZRTXNLTXVtVEtKMVIzcWh1bjZ2a3R2VmVnTGNTSHdka201UHo0SkJmQkhvMXR2dklHdmF2bEhFZk10MlY?oc=5",
-      "pub_date": 1789411951.0,
-      "article_url": "https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker",
-      "image": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt928ce88cffe00b77/6aa840a626147b4e798350d2/WONDER_MAKELINE_042.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T20:22:44.774358+00:00"
+  "fetched_at": "2026-09-15T23:04:05.516109+00:00"
 }

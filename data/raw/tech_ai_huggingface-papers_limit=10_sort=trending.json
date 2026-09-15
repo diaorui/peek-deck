@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.15818",
       "arxiv_url": "https://arxiv.org/abs/2609.15818",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 368,
+      "upvotes": 369,
       "num_comments": 2,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.15364",
       "arxiv_url": "https://arxiv.org/abs/2609.15364",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
-      "upvotes": 26,
+      "upvotes": 52,
       "num_comments": 1,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-15T20:22:31.887051+00:00"
+  "fetched_at": "2026-09-15T23:03:55.332807+00:00"
 }
