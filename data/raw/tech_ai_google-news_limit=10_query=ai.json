@@ -15,44 +15,14 @@
       "description": null
     },
     {
-      "headline": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjU0dSbnpYVm1oZDM1bWlqZkdoZF9FaDlYX2E1WFpjaWZ2RnVkei0yRXBvUjhVV2Z2LWlOT2JhSGN6VW50ZXBRbkEyMXVMZ3VzQnZmS2pXQmZsT1VCX3BTblJjRVRjZ3VQTXRjLTdoS3g0ZkE5Z2N4TmxFUWRWUdIBgwFBVV95cUxNUzJ3cUtGZkJDVWV0dnoxX1pOd1piSjZzdXlEalhEMmlmQVZ0am55MDJZUWJVNm1ZUEpjY05OeERPSHd6NzJISzExemJpeTRoZWNRZ0ZXNkRweDUtbWpBYi00cm8ya2RmT2NPQ3ZzLVhGNVBMMGY2LXFGZXpiWTBIZWFtTQ?oc=5",
-      "pub_date": 1789478451.0,
-      "article_url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108054757-1730287861252-gettyimages-1692966368-ALL_IN_MONTREAL.jpeg?v=1730287975&w=1920&h=1080",
-      "description": "AI pioneers and \"godfathers\" have weighed in on Anthropic and OpenAI researcher concerns over existential safety risks around the technology."
-    },
-    {
-      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "source": "techcrunch.com",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcF8yQlQ5WlpPaXc5QUlwZEVLTVpPdThDemRORmJfQ0FkbnNNeF91T0ZZRWtwQ214bldVelM4Si1lSUV2WW85NUVkLUo4cUZKZUcwQXZDM1ktbHpnbGFNcWtXQmY0MEZNZFR1ZFJYZEphbHZCcGRZbkRNSGxtempiNklKZTNUQlV1eVloVFpKdjFHYUhjekNtMGtrazFrOWtLdE9TaFlSQWw4ZUVsSEE?oc=5",
-      "pub_date": 1789503173.0,
-      "article_url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-      "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
-    },
-    {
-      "headline": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
-      "source": "The Guardian",
+      "headline": "Could AI really wipe out humanity \u2013 six experts spell out the risks",
+      "source": "theguardian.com",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWdHbHRjZFlCeUljRDZJVDV6bERLWTRhLTRkUW1vZGRDQ1c3UHNxbTJLMGxaNFpHaDNrRWFfNmQ5MlBzdmJreUxERW1MQnFiVUxMS1ZEaFE5d29OODd6SEV6ZWZOTEhCbFgtZWNfUG9BZDE1b1pSLXQ2OFFZdVNXS3Z4T09pS3FLSEw2VHNYYw?oc=5",
-      "pub_date": 1789500420.0,
-      "article_url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
-      "image": "https://i.guim.co.uk/img/media/b00a421c4c12b9f8872a3a0ff6b53b04e2a9dc7f/378_0_3764_3013/master/3764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a12983e171d730e14f4b9eeb9aca3c5",
-      "description": "The Texas star had joked about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping Rowe, a college football reporter for ESPN"
-    },
-    {
-      "headline": "Texas QB Arch Manning apologizes for \u2018insensitive comment\u2019 over AI video",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0F0VnkyWHBzY0l4Y1Z4U2lNemNpbW41V0JkZWJ1c1lkYzVha1RudXQ2SWtZMVdRRmhKT21ydW0wenRpbTE0QVo4ZzRUWng4OXFlU1VWTUliODItd2x5dE9tdnhoaDFkOGF1UnJudE9hb3hsLXZ0WU1EQjFndlo0dWpfREJ0cExacUhNc2Y3bE00Q2UxQ2hXcnh6NTBCQWhJWFZTeV8tTktaUG5va2xmbXdxcS10YnZBd2xHVA?oc=5",
-      "pub_date": 1789499485.0,
-      "article_url": "https://www.nbcnews.com/sports/college-football/texas-qb-arch-manning-apologizes-insensitive-comment-ai-video-rcna598000",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260915-Arch-Manning-ch-1343-91d079.jpg",
-      "description": "Manning, the nephew of Peyton and Eli Manning, laughed about an AI video depicting his coach, Steve Sarkisian, slapping ESPN reporter Holly Rowe after Texas\u2019 win over Ohio State."
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "pub_date": 1789505700.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+      "image": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69476f847904bcbde87e677efb585076",
+      "description": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI development"
     },
     {
       "headline": "Texas' Arch Manning apologizes for reaction to violent AI video",
@@ -65,46 +35,76 @@
       "description": null
     },
     {
+      "headline": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWdHbHRjZFlCeUljRDZJVDV6bERLWTRhLTRkUW1vZGRDQ1c3UHNxbTJLMGxaNFpHaDNrRWFfNmQ5MlBzdmJreUxERW1MQnFiVUxMS1ZEaFE5d29OODd6SEV6ZWZOTEhCbFgtZWNfUG9BZDE1b1pSLXQ2OFFZdVNXS3Z4T09pS3FLSEw2VHNYYw?oc=5",
+      "pub_date": 1789500420.0,
+      "article_url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
+      "image": "https://i.guim.co.uk/img/media/b00a421c4c12b9f8872a3a0ff6b53b04e2a9dc7f/378_0_3764_3013/master/3764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a12983e171d730e14f4b9eeb9aca3c5",
+      "description": "The Texas star had joked about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping Rowe, a college football reporter for ESPN"
+    },
+    {
+      "headline": "Texas college quarterback apologizes for comments about violent AI video",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3l6bjJvYUE3WXlXclRGbWZrMVdfZ0llV0NCanNTMk0yOXJXbDJaRGlwajFIWkJRUDQ0NlZxdWJOQjBJQ0FXdFhjTm1TUkp2WWRYZ051b0dsYjNxS0lnTElPVmcyS2hGRTRSSWo2VjVPM2M3bTlxXzJLUmJrVjlLUUFxenprcUJCV2xza3UtWjYtZVNHZU9GTXR5dXRHNVRxMHQyX2Zvd082cmU3WHU4d3FKd1ltdw?oc=5",
+      "pub_date": 1789511746.0,
+      "article_url": "https://www.nbcnews.com/video/texas-college-quarterback-apologizes-for-comments-about-violent-ai-video-269916741845",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789511661708_now_hallie_ai_football_video_260915_S3_1920x1080-t9mh56.jpg",
+      "description": "Texas Longhorns quarterback Arch Manning apologized for referencing an AI video showing his coach slapping ESPN sideline reporter Holly Rowe. \u201cIn my press conference yesterday, I made an insensitive comment about an AI video. There is nothing funny about it,\u201d Manning wrote."
+    },
+    {
+      "headline": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5",
+      "pub_date": 1789504539.0,
+      "article_url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bernie Sanders and Steve Bannon call for curbs on AI",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVlUeG1kd3c0LWItU2VsWlBxaEVTX1RZN3cwUHZmdmJOMmNxYklsbnpVSkVUMVFmTHhyenhHU0JfWGdyU0tKQ2hQZUlDNkNETkZaWXBLaUhKaFBzMnlIcW5pQ3NrOUhQUVZTYmRnZVhkSERUQXRMZU9tdUtQSkFWcDlIc3RiYmZKb2djcDhkU1RiWFVpX2d2NmdxRnhJc0VvbHNibllTTzFrQmpkQVd2RnFWTWFSbVk?oc=5",
+      "pub_date": 1789462800.0,
+      "article_url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F99%2F77740fc4442eb560062face82027%2Fsanders-bannon-diptych.jpg",
+      "description": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI."
+    },
+    {
+      "headline": "Why Bernie Sanders and Steve Bannon teamed up in the AI fight",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGJsNFFsRHQyN0huMlF6Zms5R0dGMUlyUWdKMlR5OE9aTXl0OC1faGh4cENNTXk2MDZ4WkdnZjBDSHZxaThVR3E4VXpwTDFIOHVab2xXbjE0YmQtdU9WTXpQTGJWSzJ6S0EzSDZxcGdZMF9iMXcwTEk1TlVvOE9TQVNiMV9zNkZVOG1NclJWZDRoR2xJY2c?oc=5",
+      "pub_date": 1789509600.0,
+      "article_url": "https://www.nbcnews.com/news/us-news/bernie-sanders-steve-bannon-teamed-ai-fight-rcna598005",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Bernie-Sanders-Steve-Bannon-vsb-2141-copy-669ca2.jpg",
+      "description": "The progressive senator and the former aide to President Trump are blasting the handful of \u201coligarchs\u201d who have fueled the tech\u2019s explosive growth."
+    },
+    {
+      "headline": "Salesforce CEO Marc Benioff joins growing chorus of tech leaders warning about AI risks",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMzNwN3p5dWZ4TXg0eFJuOFo3eXh4VGNEc0RtUG5QaFM2S3EyMndoOE90NF9pNEhyamN0eUd1VWNFeVR1YjdSNVBiUGNrMWZYT2xJbTBWb0tWMmFzdXRjWW13b1JKeUNDSThER04wSUk0dzFzcnBDQ9IBfkFVX3lxTE5GY0t4S2lPUXFVZ25tUi1fU2Z5MGQ2Xy10Tm4tV2NvWWpYZEtNR2prM09zWXlJY2F6T1NMV0xIaFdNWXh4NU01R3AwdFdTME5XcG5wUzlHTkFvZWoyX1BKVUoxSjcwbWlxX1pnc0c3SUMtS0h1bE1INUsxR0Nzdw?oc=5",
+      "pub_date": 1789511505.0,
+      "article_url": "https://www.cnbc.com/2026/09/15/salesforce-marc-benioff-ai-risks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363179-17894932302026-09-15t172318z_1680229340_rc2tjna00lf7_rtrmadp_0_tech-ai.jpeg?v=1789493269&w=1920&h=1080",
+      "description": "Salesforce CEO Marc Benioff urged the AI industry to act responsibly as increasingly powerful models are developed."
+    },
+    {
       "headline": "Universities Sound Warnings About A.I. Even as They Embrace It",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEdtTFUzeW5hMGVpa21sSWJnT0NYVVZza3VyckFNN2FkSTZIdmsteXB0NmI1MHVKTDFfSDNSUVVQdk5rVVBVNTVyRG9sUXQ1UHlybXFMa1JTbUJiSkxLRTRfV1lKWHlKbWNjVVc5Q213c2I0Rk5qaFBfdFNpeUhQZXlObzM?oc=5",
       "pub_date": 1789479181.0,
       "article_url": "https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Trump calls AI fears a 'hoax' as tech exec warns of 'unseen hand' in regulation push",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3F0eDVLem83MjQ1eV9idTdoQm5rM0xsS2pBOEdVdDB2QXlYNVdDSHJuRVE0aVNHMEdwYTdXNzZJVVFWSEI5NThfbmZTY1lnbzRHSUZiUWM5cWVIRnRWREN3akhwcVpMekJWNVNYUTV4ekY3SGt4Sm5VbTBtWjgxTklEd25USi1OenAzNXlISkV6STU1ZGRfd3VPazMyN19Qa2xBNDRsNG1OY3BU?oc=5",
-      "pub_date": 1789493895.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-china-trump-artificial-intelligence-big-tech-congress-september-15",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/c309670feea8de732e5ba90621950690.jpg",
-      "description": "As President Trump dismisses AI fears as a \"hoax\" akin to past climate scams, tech executives sound the alarm on an \"unseen hand\" driving AI regulation. Get the latest AI news, warnings on the dangers of AI, and updates on the U.S.-China technology race involving OpenAI, Google AI, Anthropic, and ChatGPT."
-    },
-    {
-      "headline": "Trump facing AI backlash in Congress as push for guardrails intensifies",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHk0cnRVWlZ6WVhQWVVwUTlyNHFEWGVWM2loUXpYOFBqOXBrZ0ZBQ0JDQzFwYkJDRm10RXVMS20yM1ZJanVhWmJ6RVdrNHV2OG9LNVFjeVdjcW9BeWhkc296RUhEbnpsa1M5Slk5bndkNkJoWEVYaDhsemlxXzBUc3VCX2NUUGx4Tm5wVVN2VGViVWQxSURV?oc=5",
-      "pub_date": 1789489920.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "image": "https://i.guim.co.uk/img/media/b76e62dba5809d0a43d1f5e325b0400264186ad4/340_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e672a2ef07ba5e10225349608ba39b71",
-      "description": "President has dismissed anxieties over AI\u2019s dangerous potential even as Democrats and some Republicans acknowledge risks"
-    },
-    {
-      "headline": "Two camps have emerged in the debate over AI safety and regulation",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnNsRGxHeU9DS2taUXhjcmxfZWFMMllzUzJFTU9lMExQSE9QOGQ1UnNVNm1JM0toT3htcGVIdDJSUW5TaDRpYlhzR0hlTTg4djkyXzFEdU91S2VQNWJTWFA5UFV0b3NRc2VnMm44azg0RnJJSzhQSUdUY1dmWDJjYjJDbmIzdmPSAYwBQVVfeXFMTm5YQ0VnTHFCdDR0alBBTVRLSTN3Tjd1dk9hd2ZzTTB2b1pGN29aUmFlMVNFX3hBMmtLNkxzQ3ZwaEVrYUxTMGNnZ2lVeVBnQk9ENWhjaTNyVHdwaHBVdmJaTzJGaW1rdElMMktYY3JEeDg5VWVyQm5xOEFzU203akJFX0VtNWN4T0pFdHU?oc=5",
-      "pub_date": 1789502732.0,
-      "article_url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363145-1789489950253-Trump_Amodei_Altman.jpg?v=1789490005&w=1920&h=1080",
-      "description": "Two opposing camps are emerging in the AI regulation debate, with Trump and Huang on one side and Amodei. Altman and Musk on the other."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T20:22:45.534742+00:00"
+  "fetched_at": "2026-09-15T23:04:06.348453+00:00"
 }

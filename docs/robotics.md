@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-15T20:22:56.732968+00:00'
+updated: '2026-09-15T23:04:07.727595+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 15, 2026 at 20:22 UTC  
+**Last Updated:** September 15, 2026 at 23:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,9 +112,15 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+
+Bloomberg.com • 12h ago
+
+---
+
 **[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
 
-OregonLive.com • 3h ago
+OregonLive.com • 6h ago
 
 ---
 
@@ -122,15 +128,7 @@ OregonLive.com • 3h ago
 
 Robots can start working outside physical cages and without safety barriers.
 
-Ars Technica • 1h ago
-
----
-
-**[Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
-
-The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
-
-The Robot Report • 9h ago
+Ars Technica • 4h ago
 
 ---
 
@@ -146,7 +144,15 @@ The Conversation • 1d ago
 
 Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
 
-Business Insider • 19h ago
+Business Insider • 22h ago
+
+---
+
+**[These Robot Soldiers Are Getting Downright Terrifying](https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying)**
+
+San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war.
+
+Futurism • 4h ago
 
 ---
 
@@ -154,7 +160,7 @@ Business Insider • 19h ago
 
 AI robots can create many millionaires, but Tesla may not be the best way to play it.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -162,7 +168,7 @@ Yahoo Finance • 15h ago
 
 Too often, delivery robots just don't understand the rules of the road (or sidewalk).
 
-Engadget • 4h ago
+Engadget • 7h ago
 
 ---
 
@@ -178,15 +184,7 @@ Baton Rouge Business Report • 1d ago
 
 Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
 
-BBC • 15h ago
-
----
-
-**[Wonder debuts its robotic bowl maker](https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker)**
-
-The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain’s plans to automate more of its operations.
-
-Nation’s Restaurant News • 1d ago
+BBC • 17h ago
 
 ---
 
@@ -204,63 +202,23 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 ---
 
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 79K • 👍 331 • 💬 74 • ⏱️ 3:39 • 6d ago
-
----
-
 **[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
 
 Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
 
 📺 FutureTech Zone
 
-👁️ 76K • 👍 1K • 💬 188 • ⏱️ 0:25 • 4d ago
+👁️ 77K • 👍 1K • 💬 197 • ⏱️ 0:25 • 4d ago
 
 ---
 
-**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
 
-📺 PRO ROBOTS
+📺 DPCcars
 
-👁️ 31K • 👍 518 • 💬 72 • ⏱️ 21:46 • 5d ago
-
----
-
-**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
-
-Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
-
-📺 NBC News
-
-👁️ 1.1M • 👍 4K • 💬 2K • ⏱️ 2:28 • 3d ago
-
----
-
-**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
-
-Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
-
-📺 Expand Knowledge
-
-👁️ 84K • 👍 945 • 💬 79 • ⏱️ 26:26 • 5d ago
-
----
-
-**[China’s Snake Robot Is Crawling Along Power Lines](https://www.youtube.com/watch?v=EJEH84n1wys)**
-
-China is testing a fascinating new approach to power-grid maintenance: a snake-shaped robot that crawls directly along electrical ...
-
-📺 Alchetron
-
-👁️ 5K • 👍 226 • 💬 4 • ⏱️ 0:22 • 11h ago
+👁️ 80K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
 
 ---
 
@@ -270,15 +228,57 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 81K • 👍 2K • 💬 587 • ⏱️ 13:22 • 4d ago
+👁️ 82K • 👍 2K • 💬 590 • ⏱️ 13:22 • 4d ago
 
 ---
 
-**[Robots protesting… themselves?](https://www.youtube.com/watch?v=vO1dd21GX4E)**
+**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
 
-📺 John Casterline
+Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
 
-👁️ 555K • 👍 40K • 💬 842 • ⏱️ 0:31 • 17h ago
+📺 NBC News
+
+👁️ 1.2M • 👍 4K • 💬 2K • ⏱️ 2:28 • 4d ago
+
+---
+
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+
+📺 PRO ROBOTS
+
+👁️ 31K • 👍 521 • 💬 72 • ⏱️ 21:46 • 5d ago
+
+---
+
+**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
+
+Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
+
+📺 Expand Knowledge
+
+👁️ 84K • 👍 948 • 💬 79 • ⏱️ 26:26 • 6d ago
+
+---
+
+**[China’s Snake Robot Is Crawling Along Power Lines](https://www.youtube.com/watch?v=EJEH84n1wys)**
+
+China is testing a fascinating new approach to power-grid maintenance: a snake-shaped robot that crawls directly along electrical ...
+
+📺 Alchetron
+
+👁️ 10K • 👍 221 • 💬 4 • ⏱️ 0:22 • 14h ago
+
+---
+
+**[Heaviest Robot Worker #robot #robotics #ai](https://www.youtube.com/watch?v=U074tzXdGT4)**
+
+Agility's Digit v5 has a much more humanlike silhouette and possibly a wheeled variant The design abandons the bird-like legs ...
+
+📺 Kalil 4.0
+
+👁️ 780 • 👍 42 • 💬 1 • ⏱️ 0:57 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 465K • 👍 4K • 💬 359 • ⏱️ 5:52 • 6d ago
+👁️ 468K • 👍 4K • 💬 360 • ⏱️ 5:52 • 6d ago
 
 ---
 

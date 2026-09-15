@@ -33,6 +33,20 @@
       "site_name": "BeInCrypto"
     },
     {
+      "title": "Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check",
+      "url": "https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T",
+      "hn_url": "https://news.ycombinator.com/item?id=49719674",
+      "author": "joeymabia1",
+      "points": 4,
+      "num_comments": 1,
+      "created_at": "2026-09-15T22:22:12Z",
+      "object_id": "49719674",
+      "image": "https://images.fika.bar/post/01M2HE34ZAXGSSTQB0D5DFBE3T/b376a4201c37d92950c7028073a5ae2b/PredX-Infographics-2026-09-15T104603.626.png",
+      "description": "Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test",
+      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
+      "site_name": "predx-article"
+    },
+    {
       "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
       "url": "https://beincrypto.com/revolut-data-breach-fake-government-request/",
       "hn_url": "https://news.ycombinator.com/item?id=49670849",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": "https://cdn.prod.website-files.com/6942f8bd84f14beec5b2a72a/6942f8bd84f14beec5b2a7da_webclip%20(2).png",
       "site_name": "keystone.com"
-    },
-    {
-      "title": "LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)",
-      "url": "https://github.com/bmartin-systems/cortex-serving-arena-preview",
-      "hn_url": "https://news.ycombinator.com/item?id=49711702",
-      "author": "bmartin-systems",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-09-15T12:45:35Z",
-      "object_id": "49711702",
-      "image": "https://opengraph.githubassets.com/065d1c3f3c28c9d6813d4a46cdf09411aa401cbbe5cc81944d3ef466b71696c9/bmartin-systems/cortex-serving-arena-preview",
-      "description": "High-Throughput Continuous Batching & Paged KV Cache Engine (1-vCPU Benchmark) - bmartin-systems/cortex-serving-arena-preview",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     }
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-09-15T20:22:22.041915+00:00"
+  "fetched_at": "2026-09-15T23:03:45.853164+00:00"
 }
