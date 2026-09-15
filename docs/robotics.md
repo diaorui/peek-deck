@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-14T22:39:24.151986+00:00'
+updated: '2026-09-15T01:12:43.923661+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 14, 2026 at 22:39 UTC  
+**Last Updated:** September 15, 2026 at 01:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-12h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-15h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 9h ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 11h ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 11h ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 14h ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -120,19 +120,27 @@ CNBC • 2d ago
 
 ---
 
-**[Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/)**
-
-Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
-
-Ars Technica • 3h ago
-
----
-
 **[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
 
 The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
 
-theconversation.com • 7h ago
+The Conversation • 10h ago
+
+---
+
+**[Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/)**
+
+Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
+
+Ars Technica • 5h ago
+
+---
+
+**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
+
+Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
+
+Business Insider • 27m ago
 
 ---
 
@@ -140,7 +148,15 @@ theconversation.com • 7h ago
 
 America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
 
-Baton Rouge Business Report • 7h ago
+Baton Rouge Business Report • 10h ago
+
+---
+
+**[Wonder debuts its first robotic meal assembly system after acquiring the tech from Sweetgreen](https://www.fastcompany.com/91606368/marc-lore-startup-wonder-infinite-makeline-robotic-food-prep)**
+
+'The goal is to get the price of your food delivered to your door cheaper than getting deliveries and cooking,' the founder, Marc Lore, tells Fast Company.
+
+Fast Company • 12h ago
 
 ---
 
@@ -150,11 +166,19 @@ Barchart.com • 1d ago
 
 ---
 
+**[Belgium EU Robotics](https://www.nola.com/belgium-eu-robotics/image_aea0da5c-8afe-403d-b91d-4d2b8145e5bf.html)**
+
+A robot hangs from its harness in front of a painting prior to a demonstration of AI-based robotics in Europe at the European Parliament in Brussels, Wednesday, Sept. 2, 2026.
+
+NOLA.com • 2h ago
+
+---
+
 **[From autonomous tractors to robot swarms: Elbit’s path to the battlefield of the future](https://www.ynetnews.com/tech-and-digital/article/rykyk5rkzg)**
 
 To keep pace with rapidly evolving defense tech, Israeli defense giant Elbit Systems launched Fuse, an agile startup developing drones for intelligence and strike missions and, following its acquisition of Israel’s BWR, ground robots and robotic swarms
 
-Ynetnews • 7h ago
+Ynetnews • 9h ago
 
 ---
 
@@ -163,28 +187,6 @@ Ynetnews • 7h ago
 In the context of ongoing transformations to the economy, society, and military, China’s current strategy is particularly alarming, and potentially transformational.
 
 The Diplomat – Asia-Pacific Current Affairs Magazine • 3d ago
-
----
-
-**[FCC Grants First Robotics Ban Exemption to a Robomower Company](https://gizmodo.com/fcc-grants-first-robotics-ban-exemption-to-a-robomower-company-2000810687)**
-
-Gizmodo • 3d ago
-
----
-
-**[Humanoids Tackle Monkey Bars: Now What Do We Traverse to Escape Them?](https://spectrum.ieee.org/video-friday-disaster-response-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 3d ago
-
----
-
-**[Universal Robots launches its seventh generation robot platform at IMTS](https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/)**
-
-Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more.
-
-The Robot Report • 9h ago
 
 ---
 
@@ -218,7 +220,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 74K • 👍 309 • 💬 73 • ⏱️ 3:39 • 5d ago
+👁️ 75K • 👍 312 • 💬 73 • ⏱️ 3:39 • 5d ago
 
 ---
 
@@ -228,7 +230,7 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 1.0M • 👍 4K • 💬 1K • ⏱️ 2:28 • 2d ago
+👁️ 1.0M • 👍 4K • 💬 2K • ⏱️ 2:28 • 3d ago
 
 ---
 
@@ -238,7 +240,27 @@ Chinese Engineering is bringing humanoid robotics into a surprisingly personal t
 
 📺 Expand Knowledge
 
-👁️ 80K • 👍 898 • 💬 79 • ⏱️ 26:26 • 4d ago
+👁️ 81K • 👍 903 • 💬 79 • ⏱️ 26:26 • 5d ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 78K • 👍 2K • 💬 565 • ⏱️ 13:22 • 3d ago
+
+---
+
+**[Match 1 | BIOBUZZ Robot in 30 Hours | FIRST Tech Challenge](https://www.youtube.com/watch?v=K5YZrcz5puc)**
+
+Match 1 | BIOBUZZ Robot in 30 Hours | FIRST Tech Challenge Blue 65 Red 14 #biobuzz #ftcbiobuzz #firsttechchallenge ...
+
+📺 FUN Robotics Network
+
+👁️ 14K • 👍 106 • 💬 4 • ⏱️ 3:23 • 1d ago
 
 ---
 
@@ -248,7 +270,7 @@ The United States has quietly become the center of a humanoid robot revolution, 
 
 📺 States 2050
 
-👁️ 694K • 👍 11K • 💬 544 • ⏱️ 23:25 • 6d ago
+👁️ 695K • 👍 11K • 💬 546 • ⏱️ 23:25 • 6d ago
 
 ---
 
@@ -258,7 +280,7 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 65K • 👍 5K • 💬 143 • ⏱️ 0:37 • 8h ago
+👁️ 84K • 👍 6K • 💬 172 • ⏱️ 0:37 • 10h ago
 
 ---
 
@@ -268,27 +290,7 @@ In August 2026, Beijing's National Speed Skating Oval transformed from a Winter 
 
 📺 Gain Theory
 
-👁️ 98K • 👍 954 • 💬 44 • ⏱️ 21:36 • 5d ago
-
----
-
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
-
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
-
-📺 XPENG
-
-👁️ 453K • 👍 4K • 💬 350 • ⏱️ 5:52 • 5d ago
-
----
-
-**[Will China deploy humanoid robots to fight?](https://www.youtube.com/watch?v=9Q0NAwkXReI)**
-
-Could humanoid robots become the soldiers of the future? Sky's Yalda Hakim speaks to Georgetown researcher Sam Bresnik ...
-
-📺 Sky News
-
-👁️ 39K • 👍 217 • 💬 149 • ⏱️ 6:28 • 6d ago
+👁️ 98K • 👍 955 • 💬 44 • ⏱️ 21:36 • 5d ago
 
 ---
 

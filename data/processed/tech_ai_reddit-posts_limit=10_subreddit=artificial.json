@@ -24,17 +24,6 @@
       "description": "Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in Nasdaq for an IPO targeting a $2 trillion valuation. So you've got one company racing and the other asking everyone to pump the brakes while raising $100B for itself. Which stance do you think actually holds up better long term?"
     },
     {
-      "title": "All this AI doomerism & world ending talk is unhealthy & dangerous for people\u2019s mental health. \u201cThe world will end in 6-12 months\u201d, then people won\u2019t save & start acting more recklessly. What\u2019s the point of thinking long-term if the world will be over in 1 year? It\u2019s bad for people\u2019s lives & psyche",
-      "author": "MannerNo7000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/",
-      "published": 1789381785.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Rather than trying to assume or guess if it\u2019s true or not; that\u2019s irrelevant. The fact is all this talk massively exacerbates people\u2019s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. \u201cWhat\u2019s the point of studying a degree if AI will replace it in 1 year?\u201d All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!"
-    },
-    {
       "title": "OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: 'More' May Be Out There",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/",
@@ -44,6 +33,17 @@
       "site_name": "Tech Times UK",
       "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
       "description": "OpenAI confirmed that agents accessed RubyGems during internal testing in May 2026, adding to concerns about undisclosed incidents and safeguards against autonomous internet access."
+    },
+    {
+      "title": "All this AI doomerism & world ending talk is unhealthy & dangerous for people\u2019s mental health. \u201cThe world will end in 6-12 months\u201d, then people won\u2019t save & start acting more recklessly. What\u2019s the point of thinking long-term if the world will be over in 1 year? It\u2019s bad for people\u2019s lives & psyche",
+      "author": "MannerNo7000",
+      "url": "https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/",
+      "published": 1789381785.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Rather than trying to assume or guess if it\u2019s true or not; that\u2019s irrelevant. The fact is all this talk massively exacerbates people\u2019s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. \u201cWhat\u2019s the point of studying a degree if AI will replace it in 1 year?\u201d All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!"
     },
     {
       "title": "Claude Fable 5.1 Solves the 373 year old Cyphral Distich",
@@ -68,15 +68,15 @@
       "description": null
     },
     {
-      "title": "Trump rejects Silicon Valley\u2019s calls for AI slowdown",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments",
       "author": "Capable-Blueberry653",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/",
-      "published": 1789331759.0,
-      "thumbnail": "https://external-preview.redd.it/lsrShIZ76AnJxAzIpzP34yd9bh6tB98HdsIkqyDNN5U.jpeg?width=640&crop=smart&auto=webp&s=f92ee14ab888e6b96aa664c5970972b35b4a0b4e",
-      "external_url": "https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday."
+      "url": "https://www.reddit.com/r/artificial/comments/1wggryk/meta_launches_ai_agent_that_can_access_other_apps/",
+      "published": 1789421433.0,
+      "thumbnail": "https://external-preview.redd.it/VsWH1ZVaEqNAzwf6yHrig2ap7jKBMISvhQaXu5H3-Es.jpeg?width=640&crop=smart&auto=webp&s=4db598dd7108e303b6c68459c65f681323949e69",
+      "external_url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-ai-agent-access-190605563.html",
+      "site_name": "Yahoo Tech",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "description": "By Katie Paul NEW YORK, Sept 8 (Reuters) - Meta rolled out on Tuesday a long-touted AI assistant that can autonomously send emails, sell a car and book travel on a person's behalf, despite internal"
     },
     {
       "title": "Is this sub only about gloom and doom about ai ? I thought this was about technical discussions of the technology",
@@ -90,27 +90,27 @@
       "description": "maybe I thought wrong, but the only thing I see in my feed coming from this sub are doom type posts about how my toaster is going to kill my entire family in less than a year. I\u2019m guessing these are the same people that told us that Y2K was going to wipe computers, right ? is there any other interesting sub that is not about reposting shitty media gloom and actual discussions in the technology ?"
     },
     {
-      "title": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgc1l2/chinas_top_spy_chief_warns_ai_is_a_threat_to/",
-      "published": 1789411186.0,
-      "thumbnail": "https://external-preview.redd.it/ueF3Hs9EnfTIaY9ZI_UNDGtod7oU4HZOF2Wx9mryOTw.jpeg?width=640&crop=smart&auto=webp&s=715b422aab6546b1b7040a22319419dea59ad7cb",
-      "external_url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html?unlocked_article_code=1.BFE.AcSt.CjDU_MUkvl9z",
-      "site_name": "nytimes.com",
-      "favicon": null,
-      "description": null
+      "title": "AI Detectors Can Find the Pattern. They Still Can\u2019t Hear the Writer.",
+      "author": "killscar",
+      "url": "https://www.reddit.com/r/artificial/comments/1wgin9m/ai_detectors_can_find_the_pattern_they_still_cant/",
+      "published": 1789425883.0,
+      "thumbnail": "https://external-preview.redd.it/GGnJiMu3OJSxkqqdcc0Q7TTgi9QatpalKKl8ewnTbnw.jpeg?width=640&crop=smart&auto=webp&s=1c19d24360ac58ce42e3f1d87fc788e1b64abaca",
+      "external_url": "https://rmn.pub/ai-detectors-can-find-the-pattern-they-still-cant-hear-the-writer",
+      "site_name": "Raccoon Media Network",
+      "favicon": "https://rmn.pub/apple-touch-icon.png",
+      "description": "There is a seductive neatness to an AI detector. Paste in a piece of writing, wait a few seconds, and receive a number that appears to settle a question humans are increasingly anxious to answer: Who wrote this? The interface may be cautious. The underlying language may say \u201clikely,\u201d \u201cpossible,\u201d or \u201cprobability.\u201d But the social meaning of the result is much less restrained. Once a percentage appears on a screen, people are remarkably willing to treat it as provenance. That is the first thing current AI-detection culture gets wrong. Pattern recognition is not the same thing as authorship. A system may detect statistical regularity, lexical tendencies, sentence predictability, unusually consistent structure, or other signals associated with generated text. Those signals can be useful. They can also be real. But a score is not a chain of custody. It does not show us a keyboard, a draft history, a revision trail, or a person making choices. It tells us that the writing resembles something the system has learned to associate with machine generation. The distinction matters very much because the machine was built to imitate human language in the first place. Large language models did not invent coherence, transitions, balanced syntax, clear topic sentences, elegant compression, or a well-timed turn of phrase. They learned patterns from enormous bodies of human-produced language and became very good at reproducing some of the forms we already valued. Then we built detectors and asked them to identify the imitation by looking at the same kinds of surface features. That creates an uncomfortable loop: good writing can look suspicious because good writing was part of the target."
     },
     {
-      "title": "Inside \u2018Project Lily\u2019: The Humans Reading Your ChatGPT Chats. Humans are reading ChatGPT users\u2019 prompts to improve OpenAI\u2019s models, and those chats can include sensitive, personal information.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/",
-      "published": 1789401211.0,
-      "thumbnail": "https://external-preview.redd.it/MHYEj5WIlQYG3fF6gV7h4TVJ7qiTYaldW7D5JMVaCts.jpeg?width=640&crop=smart&auto=webp&s=71ed78954da06b75b6b425b544165982668388ff",
-      "external_url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
-      "site_name": "404 Media",
-      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
-      "description": "Humans are reading ChatGPT users\u2019 prompts to improve OpenAI\u2019s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media."
+      "title": "Understanding LLMs",
+      "author": "CamtonoPK",
+      "url": "https://www.reddit.com/r/artificial/comments/1wgc3hf/understanding_llms/",
+      "published": 1789411295.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey, kind of letting of my chest and asking a question at the same time. Finished my cs degree few months ago and did some ML courses like NLP, intro to ML, optimization problems (which can somehow relate). I am a swe and dont work as ML engineer ot DS etc, I guess its coming from the fear of my role. There's something i just cant grasp, on one hand, LLMs are static , complex non-linear functions (after training of course) which calculates whats gonna be the next token. On the other hand, it has trillions of params, it was trained on huge amount of data to minimize the loss function - which means trying to make no mistakes (See what i've done here? haha ). For it to answer right for every input it needs to develop something stronger than - \"lets predict the next token\" , which it does. It has some general understanding. I cant think of it as token predictor because its too good to just predict tokens, but at the same time - if its not just token predictor and has world understanding, sytax or layers of knowledge (sorry i dont know the right definition for that), why isnt it unbeatable? like, its trained on any piece of data we have, it can somehow/somewhat understand things and answer our questions without making some gibberish - and even give intuitive exsplanation and still i need to use it with grain of salt. I cant find the middle."
     }
   ],
-  "fetched_at": "2026-09-14T22:38:50.822749+00:00"
+  "fetched_at": "2026-09-15T01:12:21.767175+00:00"
 }

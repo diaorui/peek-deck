@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-14T22:39:24.149809+00:00'
+updated: '2026-09-15T01:12:43.920122+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 14, 2026 at 22:39 UTC  
+**Last Updated:** September 15, 2026 at 01:12 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,533.72
+### $2,515.14
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +2.2%  
-**30d:** +35.3%  
-**90d:** +45.0%  
-**1y:** -43.8%  
+**24h:** +0.1%  
+**7d:** +1.9%  
+**30d:** +31.3%  
+**90d:** +46.9%  
+**1y:** -44.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $309.91B
+**Market Cap:** $306.46B
 Rank #2
 
 **Circulating Supply:** 122,047,243 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--48.7%
+-49.2%
 
 **All-Time Low:** $0.43
-+586473.5%
++579681.0%
 
 ---
 
@@ -154,13 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
 
-Coinpedia • 4h ago
+Coinpedia • 6h ago
 
 ---
 
-**[Bitmine Surges 8% on Ethereum Strength After Cantor Fitzgerald Doubles Its Target, SharpLink Advances 9%, Strategy Gains 4%](https://247wallst.com/investing/2026/09/11/bitmine-surges-8-on-ethereum-strength-after-cantor-fitzgerald-doubles-its-target-sharplink-advances-9-strategy-gains-4/)**
+**[We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher](https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/)**
 
-Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitting on millions of Ethereum tokens, and the timing of Friday's rally raises a question every holder needs to answer before the U.S. close.
+We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict.
 
 24/7 Wall St. • 3d ago
 
@@ -170,13 +170,13 @@ Cantor Fitzgerald just doubled its price target on a crypto treasury stock sitti
 
 BitMine expanded its crypto and equity holdings while keeping its focus on building a 5% stake in Ethereum.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
 **[Ethereum news: Bitmine (BMNR) bought $68M ETH as Tom Lee sees more upside ahead](https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead)**
 
-CoinDesk • 9h ago
+coindesk.com • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ CoinDesk • 9h ago
 
 Could the Clarity Act really become a super-catalyst for Ethereum?
 
-The Motley Fool • 8h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Motley Fool • 8h ago
 
 Leading cryptocurrencies fell alongside stock futures on Sunday evening amid speculation over CLARITY Act passage and AI CEOs’ warnings of major safety risks.Crypto Market Comes Under StrainBitcoin dropped to an intraday low of $76,367 late in the evening, while 24-hour trading volume spiked 10%. E…
 
-TradingView • 20h ago
+TradingView • 23h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 20h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 9h ago
+Fortune • 11h ago
 
 ---
 
@@ -208,13 +208,13 @@ fortune.com • 9h ago
 
 BlackRock’s $9 billion Ethereum fund still dwarfs its yield-paying rival and trades about 30 times more heavily.
 
-CryptoSlate • 7h ago
+CryptoSlate • 10h ago
 
 ---
 
 **[Wintermute Builds $102M Crypto Short as Ethereum Leads Bearish Bets](https://www.ccn.com/news/crypto/wintermute-102m-crypto-shorts-ethereum/)**
 
-CCN.com • 9h ago
+CCN.com • 12h ago
 
 ---
 
@@ -222,7 +222,7 @@ CCN.com • 9h ago
 
 Ethereum at $2516.69 holds retest support on 4h chart as Clarity Act positions ETH to outperform Bitcoin amid neutral RSI and MACD death cross.
 
-blockchain.news • 12h ago
+blockchain.news • 14h ago
 
 ---
 
@@ -236,7 +236,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 7K • 👍 281 • 💬 67 • ⏱️ 18:56 • 8h ago
+👁️ 9K • 👍 331 • 💬 60 • ⏱️ 18:56 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 9K • 👍 184 • 💬 74 • ⏱️ 8:39 • 20h ago
+👁️ 10K • 👍 189 • 💬 50 • ⏱️ 8:39 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH TH
 
 📺 Lark Davis
 
-👁️ 32K • 👍 626 • 💬 99 • ⏱️ 7:35 • 2d ago
+👁️ 33K • 👍 629 • 💬 100 • ⏱️ 7:35 • 2d ago
 
 ---
 
@@ -266,17 +266,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 335 • 💬 22 • ⏱️ 15:15 • 1d ago
-
----
-
-**[ETH Missed The Weekly Close And I Went LONG Anyway!!](https://www.youtube.com/watch?v=_DqJl9e9ZbE)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 619 • 👍 20 • 💬 42 • ⏱️ 5:16 • 13h ago
+👁️ 13K • 👍 336 • 💬 20 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -290,33 +280,23 @@ CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Ethereum broke out above 
 
 ---
 
-**[ETH MASSIVE BREAKOUT IS COMING - Get Ready](https://www.youtube.com/watch?v=95M9DjBnPSY)**
+**[ETH Missed The Weekly Close And I Went LONG Anyway!!](https://www.youtube.com/watch?v=_DqJl9e9ZbE)**
 
-ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ MAXFI Tutorials: ...
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
-📺 Big Time Trades
+📺 Marzell Crypto
 
-👁️ 6K • 👍 124 • 💬 25 • ⏱️ 21:47 • 2d ago
-
----
-
-**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
-
-BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 250 • 💬 278 • ⏱️ 17:07 • 21h ago
+👁️ 703 • 👍 20 • 💬 38 • ⏱️ 5:16 • 15h ago
 
 ---
 
-**[Ethereum Y Altcoins: Analisis A Largo Plazo #6](https://www.youtube.com/watch?v=-6BfeIdS6W4)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Uhh9_Ggo3x0)**
 
-Registrate en Bitget (20% de descuento en comisiones EN SPOT Y FUTUROS DE POR VIDA) ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 CdeCripto
+📺 Profit First
 
-👁️ 2K • 👍 344 • 💬 63 • ⏱️ 16:44 • 3h ago
+👁️ 2K • 👍 62 • ⏱️ 6:08 • 10h ago
 
 ---
 
@@ -326,7 +306,27 @@ En el noticiero de hoy, veremos como Wall Street acaba de elegir a Ethereum como
 
 📺 Valentín Santamaría
 
-👁️ 2K • 👍 193 • 💬 13 • ⏱️ 17:29 • 12h ago
+👁️ 2K • 👍 194 • 💬 5 • ⏱️ 17:29 • 15h ago
+
+---
+
+**[BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=WwY4DvD4mZw)**
+
+BITCOIN WARNING: MORE LIQUIDATIONS PENDING (Soon)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 254 • 💬 130 • ⏱️ 17:07 • 1d ago
+
+---
+
+**[John Gillen: Ethereum Will Fly From Here And Most Investors Aren&#39;t Ready (Here&#39;s Why)](https://www.youtube.com/watch?v=Bf4yWt5iovI)**
+
+John Gillen says Ethereum could hit explode before the end of the year, and he's been making that case in a viral essay series ...
+
+📺 The Rollup
+
+👁️ 37K • 👍 587 • 💬 69 • ⏱️ 22:54 • 2d ago
 
 ---
 

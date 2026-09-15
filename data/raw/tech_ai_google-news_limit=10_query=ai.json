@@ -5,12 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
-      "pub_date": 1789419204.0,
-      "article_url": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
+      "headline": "AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+      "pub_date": 1789431900.0,
+      "article_url": "https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a",
       "image": null,
       "description": null
     },
@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "pub_date": 1789416729.0,
-      "article_url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Stocks slide to begin week as 10-year yield briefly touches 5%, oil rises: Live updates",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -45,66 +35,76 @@
       "description": "The three major averages are coming off a losing week."
     },
     {
-      "headline": "AI CEOs say they need to slow the pace of development. But will they?",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XQlp1T0FKUFNtVnFFME44cGFabC1iYlp4YXVWaWtXaWtfR0l3b1FRbEh1NTd2RmxjazNmcGIzX1lJQm1Ub2pMNDR3R0VYbG8tUGpOUXFuTUZXQWpiSERMOUdscExGZS05NzA3cWtmZWFjODFRZzg3YlFEWWNEQQ?oc=5",
-      "pub_date": 1789417380.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
-      "image": "https://i.guim.co.uk/img/media/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/master/5532.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eabdf342f3645d8d82cc718116dd7cb4",
-      "description": "After apocalyptic warnings about the the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei\u2019s calls to \u2018slow the pace\u2019"
-    },
-    {
-      "headline": "Wentworth Institute of Technology launches new major for AI",
-      "source": "cbsnews.com",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmQtSTVLNnRxYzlGRF9BTVU0dzVjY1RlT3I4SzFabFlvNTdqSHB3QWZRbTVjQmJnNmk0RUFod1FOSUp1cWdhd2pFZ3lJbGVuSUFGbGpmYzVCS3lnS2VzWFJvclRJaTBBbzRxZWpDR0VUQXl1VktGbXJYdmg2WDVMcUdndUVaU1FnYzMzQ1lvUUZNS08yZ1NRM3VULXY0UQ?oc=5",
-      "pub_date": 1789423860.0,
-      "article_url": "https://www.cbsnews.com/boston/video/wentworth-institute-of-technology-launches-new-major-for-ai/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/14/f599b76d-b924-4080-9dde-3c532d5cc52d/thumbnail/1200x630/e0c5572b3d7e5e4429c2ef7f2f2a7ad0/bb35c64a817dda3f06dbb78b9a5828e6.png",
-      "description": "At Wentworth Institute of Technology in Boston, students are getting AI ready. This semester the school launched a new major for AI. WBZ-TV's Paul Burton reports."
-    },
-    {
-      "headline": "\u2018Tidal wave\u2019 of Pfas being launched to satisfy AI industry, campaigners warn",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZHNtN3pXQ0x1aHdwbC1kR3ZQYkNfeC11VTcyaFNweUNsNTJLZFBmeklFMFlrZXJhWDRQOXNHNkJMQWJURS0zX1g3YlNLeU5fRFZZajUyTWdqNkVLTnVSRmhiSXhHSEtoNzFmOU50bThZbGdzdFY5RG9sd1hrdF9hb3YtVWxKTzBGMXN5aEV2TElvdi1vZndFSkwyYjhyM0JlbUhTXzRia0ozbUc2bV9XeEg1U3RGOU8wam93MEtZVQ?oc=5",
-      "pub_date": 1789415040.0,
-      "article_url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
-      "image": "https://i.guim.co.uk/img/media/383d2bea1e3bf96683eae24cb6a9f8335690c4c4/397_0_4762_3808/master/4762.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d563638eb073c6c470227725b917c59",
-      "description": "Big manufacturers planning to produce more of the forever chemicals to meet demand from datacentres"
-    },
-    {
-      "headline": "China criticises idea it is in 'malicious competition' over AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeDNXTE9VVG9wOHgwdFBZdmtwNHZYOUlPbEVJWUluWHFJdFpldEl6TGxsbXNuSGlDNlQyOGV3VS1QMHZBbVozOXpmLXNBM0xJdWNzcFRRczhZdw?oc=5",
-      "pub_date": 1789385499.0,
-      "article_url": "https://www.bbc.com/news/articles/cn8me133119o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
-    },
-    {
-      "headline": "China\u2019s Top Spy Chief Warns A.I. Is a Threat to Party Rule",
+      "headline": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic\u2019s CEO",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnliOXZJeEJxZVNWd1RHbjdRam5qeXN4Y25OUTlkODQzd29SSkFadDhFanBNY0J5UnlxM29GY3R0R1c3amVfb1FldzdYZW5sclJBdDNYc2l0TjM2NGVmU2MwWDlsUF9MUGVjMld2ZU52Rnltd3dmbUx5WUZYSFpaOHd1Mm5zVUR5YUF0TQ?oc=5",
-      "pub_date": 1789407495.0,
-      "article_url": "https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHdfc3I3SlJyd1JBdUZLcWxVSE5TeHRHUlotMVNZSFlhU3RxRTJtZGIxUExBRXdhRXBQbHBFbm9TcVZMNTJvSnZ6OVcxTjdyazFhTWg3WVhQbVdLd0xFY0JWbkk2aUZsdVFrZHgwTk51RkM3TlUzMnhRQTMwWEgwLWo0RTFuM1dMX3kzQ2NkS0hnNzJfRUxsd0dn?oc=5",
+      "pub_date": 1789419204.0,
+      "article_url": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "China dismisses AI \u2018fearmongering\u2019 as spy chief warns of threat to Communist party rule",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzhVSVBXNjFWQWc3TEhuQmU2bk4zMFNsWTVfZDFYS0c4bjU5U2xKbFBLMTBJMHN0TU1nazJObDR2NjQzbHFhVWhnR0pyeWwzU0hkMm1SVDhDenkxbEU3OWxXNzA2bENhRDh5czZwOVZLaFVURndfNGk4M3U4RTctVmR5RmtBblcxVkR2bF9VQm1xWDlMdWJJZXl2OEM2UzR5R1JhZVo4SktwMVhCUmQ5SVYwaDFEd0g0eWFVb0NwWTJVa000bS02bjd2cw?oc=5",
-      "pub_date": 1789422780.0,
-      "article_url": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
-      "image": "https://i.guim.co.uk/img/media/7d0d8de1bb018fd3460ffaa315065c89f4bd4fc7/334_0_6136_4909/master/6136.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3c9ded534222f0e091ee75c9e1e1dec",
-      "description": "Beijing hits back after Anthropic CEO calls for US to impede China\u2019s progress in AI"
+      "headline": "Top A.I. Leaders Call for Slowing Down A.I. Development",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+      "pub_date": 1789396980.0,
+      "article_url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
+      "pub_date": 1789315131.0,
+      "article_url": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "We Must Pace the Frontier",
+      "source": "darioamodei.com",
+      "source_url": "https://darioamodei.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+      "pub_date": 1789222502.0,
+      "article_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "image": "https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg",
+      "description": null
+    },
+    {
+      "headline": "Thune sees role for Congress on AI \u2014 Trump does not",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVc4WUhyV2xZV0puOVJvWlU0VTlXblVHX0U4M2lXd0l6Vm1Wd2Y1WjNkMkVHYXJzLVFzNUJndXZkZzgybFlEN2g1ZzQydG9qWjdHekxWenlSelJDcDdrSGRlNVZvb2hHbEVYRFVwU3k0QjlvZlQtNGpXb2NRX3VLZWR3Y2JJNEE?oc=5",
+      "pub_date": 1789429766.0,
+      "article_url": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Senior Democrat pushes back against AI select committee",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUYyQ3R2VFRpSEJlcUtuc3ZKdU03OEpMQzhnRFBkcGlyeEZ3UVlGVDVxMW4zMTI1YVo1MUJEM3IyUy12d3l5ZXVKV2JkTWQ4ZUU3MGJBZlFTNE92anZ4R1pmYVZKR1BpclM4N1hURUkwVmxYRHg1dUcyUUJDQTN1MGpSbDJNdUhYS3dGR0ZvaUxOd0JHWXM1QXRzWDM5MGxmU092NzRlMmNZRThWRlBwRW5SbjlYRk9WNldzWUJnZw?oc=5",
+      "pub_date": 1789406839.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/14/congress/senior-democrat-pushes-back-against-ai-select-committee-01074809",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will Congress get an AI regulation bill done before midterms?",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTF6cHllOG1oUDB5TEFvTnd5WXR3ak9OSkg3X3dsSG1KNFZFYWNRZUdjTDlNaEJwalN0MEZNNFFpbGVJNmZlRXUyd2daSVBBMF8zc01xa3NuNVU0TGxVZ0VvVkhrbVZCems3ejV0N3FYQUJqX1M0OUZPWFJvWDhnenM4VjZxLVQ3LTl2MjFmenpDUWdUTGM1WTV6YnJiTUxrTEVKS01zX0U0VnJHUXFZ?oc=5",
+      "pub_date": 1789432389.0,
+      "article_url": "https://www.nbcnews.com/video/shorts/will-congress-get-an-ai-regulation-bill-done-before-midterms-269852229752",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/HtS_9.14_tn_2-gmjsn7.jpg",
+      "description": "NBC News' Ryan Nobles joins \"Here's the Scoop\" to discuss a number of different bills introduced by lawmakers on Capitol Hill to regulate artificial intelligence explain why getting one passed before the midterms is \"a fantasy.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-14T22:39:22.914062+00:00"
+  "fetched_at": "2026-09-15T01:12:41.232982+00:00"
 }
