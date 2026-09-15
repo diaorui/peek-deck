@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-15T12:02:01.937384+00:00'
+updated: '2026-09-15T17:12:28.018681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 15, 2026 at 12:02 UTC  
+**Last Updated:** September 15, 2026 at 17:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,896.41
+### $76,422.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.7%  
-**30d:** +19.3%  
-**90d:** +22.2%  
-**1y:** -34.1%  
+**24h:** -3.8%  
+**7d:** -2.7%  
+**30d:** +18.1%  
+**90d:** +21.0%  
+**1y:** -34.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1544.82B
+**Market Cap:** $1530.81B
 Rank #1
 
-**Circulating Supply:** 20,084,696 BTC
+**Circulating Supply:** 20,084,784 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--39.0%
+-39.6%
 
 **All-Time Low:** $67.81
-+113331.6%
++112292.0%
 
 ---
 
@@ -101,7 +101,7 @@ The debt line is almost a patient slope. The bitcoin line is a weather report: t
 
 Lots of new people buy the dip then sell the moment it ticks down again. They treat every small move like it means the end is near. Bitcoin rewards patience more than timing. I learned that the hard way a few cycles ago. Stick to what you understand about the network and ignore the noise.
 
-1d ago
+2d ago
 
 ---
 
@@ -123,7 +123,7 @@ I currently have a basic Trezor and a basic Ledger, and I have two separate Bitc
 
 I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m assuming that this transaction bypasses the need for exchanges like Crypto.com, which in turn, allows me to purchase Bitcoin for a bit cheaper, since there is no spread. Does anyone else do this?
 
-1d ago
+2d ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
 
-1d ago
+2d ago
 
 ---
 
@@ -153,37 +153,47 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 ## Google News: "bitcoin"
 
-**[Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act](https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act)**
+**[Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.](https://www.barrons.com/articles/bitcoin-price-clarity-act-crypto-cathie-wood-c2471654)**
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin Drops Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.](https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/bitcoin-drops-ahead-of-clarity-act-vote-why-cathie-wood-s-dumping-crypto-stocks--i1cJ6GgK4lzPaEfrMifa?modCode=hp_LEDE_C_LC_2)**
-
-Barron's • 1h ago
+barrons.com • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html)**
+**[Bathhouse is bringing 36,000 square feet of Bitcoin-powered pools and ‘party’ saunas to Philly](https://www.inquirer.com/life/bathhouse-center-city-philly-saunas-bitcoin-pools-20260915.html)**
 
-Bitcoin opened at $78,181.33 on Tuesday, September 15, 2026, 1.8% higher than Monday's opening price. Yet, as of 7:24 a.m. ET this morning, the price of bitcoin slid to $76,931.56. Ethereum opened at $2,515.17 today, up 1.6% from Monday's opening price. Ethereum fell to $2,480.37 as of 7:24 a.m. ET.
+The New York City-based wellness brand is opening in the bottom of the Bellevue hotel with three saunas, three pools, and a steam room to start.
 
-Yahoo Finance • 24m ago
+Inquirer.com • 3h ago
 
 ---
 
 **[Has the Bitcoin Rally Fizzled Out?](https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a)**
 
-WSJ • 21h ago
+WSJ • 1d ago
 
 ---
 
-**[Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)**
+**[Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote](https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/)**
 
-Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
+Cathie Wood sells more than $60 million worth of Coinbase, Bullish, Circle and ARK's Bitcoin ETF with the Clarity Act vote due.v
 
-The Block • 2h ago
+Investor's Business Daily • 3h ago
+
+---
+
+**[A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge](https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge)**
+
+Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin ETFs buy $160M on Monday, total assets surpass $100B](https://www.tradingview.com/news/cryptobriefing:b22758253094b:0-bitcoin-etfs-buy-160m-on-monday-total-assets-surpass-100b/)**
+
+US spot Bitcoin ETFs attracted $160 million in net inflows on Monday, September 14, pushing the category's total net assets past the $100 billion threshold. The buying spree snapped a streak of outflows that had persisted from September 8 through 11.BlackRock's iShares Bitcoin Trust (IBIT) did most…
+
+TradingView • 4h ago
 
 ---
 
@@ -191,13 +201,13 @@ The Block • 2h ago
 
 5 Top Bitcoin & Crypto Casinos Listed Casinos Welcome Bonus Ratings ↪️ mBit Casino Up to 4 BTC + 325 Free Spins 4.9/5 ⭐ ↪️ JACK.com 100 Wager-Free Spins 4.8/5 ⭐ ↪️ Thunderpick 100% Match Bonus up to €2,000 4.8/5 ⭐ ↪️ BitStarz Up to 5 BTC + 180 Free Spins 4.7/5 ⭐ ↪️ Lucky...
 
-Muddy River Sports • 1d ago
+muddyriversports.com • 1d ago
 
 ---
 
 **[Bitcoin is helping build a historic tall ship in San Diego](https://www.axios.com/local/san-diego/2026/09/14/san-diego-mission-bay-pilgrim-iii-tall-ship-floating-classroom)**
 
-Axios • 22h ago
+Axios • 14h ago
 
 ---
 
@@ -205,21 +215,15 @@ Axios • 22h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 22h ago
+Fortune • 1d ago
 
 ---
 
-**[‘Buckle Up’—Bitcoin Is Suddenly Braced For An ‘Extraordinary’ Fed Price Earthquake](https://www.forbes.com/sites/digital-assets/2026/09/14/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/)**
+**[Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)**
 
-Forbes • 21h ago
+Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
 
----
-
-**[Morgan Stanley’s Bitcoin Investment Recommendation Explained W/ Amy Oldenburg](https://bitcoinmagazine.com/videos/morgan-stanleys-bitcoin-investment-recommendation)**
-
-Morgan Stanley’s Digital Assets Head Amy Oldenburg joins Spencer Nichols to break down their $600M+ spot Bitcoin ETP, portfolio models, and more.
-
-Bitcoin Magazine • 18h ago
+The Block • 7h ago
 
 ---
 
@@ -231,7 +235,7 @@ Bitcoin Magazine • 18h ago
 
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
-⬆️ 6 • 💬 1 • 2d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
+⬆️ 6 • 💬 1 • 3d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -253,7 +257,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 **[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
 
-⬆️ 1 • 💬 1 • 2d ago
+⬆️ 1 • 💬 1 • 3d ago
 
 ---
 
@@ -261,7 +265,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
 
-⬆️ 1 • 💬 0 • 4d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+⬆️ 1 • 💬 0 • 5d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
 
 ---
 
@@ -270,6 +274,14 @@ Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins
 analyses a descriptor.
 
 ⬆️ 1 • 💬 0 • 6d ago • [ChainQuery.com](https://chainquery.com/rpc/getdescriptorinfo)
+
+---
+
+**[Show HN: Eleuteria – a privacy-first RoboSats coordinator](https://news.ycombinator.com/item?id=49711766)**
+
+Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
+
+⬆️ 2 • 💬 0 • 4h ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -287,9 +299,37 @@ Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized 
 
 ---
 
+**[LLM continuous batching host scheduler in Rust (191k tok/s on 1 vCPU)](https://news.ycombinator.com/item?id=49711702)**
+
+High-Throughput Continuous Batching & Paged KV Cache Engine (1-vCPU Benchmark) - bmartin-systems/cortex-serving-arena-preview
+
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/bmartin-systems/cortex-serving-arena-preview)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Bitcoin WARNING: A Yield Shock Is Coming](https://www.youtube.com/watch?v=G42_AFP6UMs)**
+
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
+
+📺 CryptosRUs
+
+👁️ 9K • 👍 708 • 💬 70 • ⏱️ 46:30 • 2h ago
+
+---
+
+**[Bitcoin Waited Years For Today. It&#39;s Already Going Wrong](https://www.youtube.com/watch?v=iEiSSMXS7dE)**
+
+Bitcoin #Crypto #finance Markets are heading into a huge week with the Fed decision and Clarity Act vote in focus, while the ...
+
+📺 The Wolf Of All Streets
+
+👁️ 8K • 👍 451 • 💬 124 • ⏱️ 1:03:18 • 3h ago
+
+---
 
 **[Trillions Flooding Into Bitcoin on September 15?!](https://www.youtube.com/watch?v=yXk-3GkSbLc)**
 
@@ -297,27 +337,7 @@ September 15 could become a major turning point for Bitcoin. The Clarity Act cou
 
 📺 Simply Bitcoin
 
-👁️ 47K • 👍 2K • 💬 160 • ⏱️ 13:47 • 1d ago
-
----
-
-**[The Clarity Act Vote: What&#39;s at stake for crypto?](https://www.youtube.com/watch?v=aGSdeAqzpSU)**
-
-The Senate votes on cloture for the Clarity Act on Tuesday at 2:15pm ET, and it needs 60 votes to proceed. Republicans hold 53 ...
-
-📺 Yahoo Finance
-
-👁️ 132K • 👍 812 • 💬 154 • ⏱️ 6:38 • 14h ago
-
----
-
-**[Gareth Soloway: My Final Warning To Bitcoin Investors](https://www.youtube.com/watch?v=FnmvjWBsS6s)**
-
-Follow Gareth: https://www.youtube.com/@GarethSolowayProTrader WEEX AI Wars ($100K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 105K • 👍 3K • 💬 253 • ⏱️ 39:00 • 2d ago
+👁️ 49K • 👍 2K • 💬 166 • ⏱️ 13:47 • 1d ago
 
 ---
 
@@ -327,7 +347,17 @@ WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-ha
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 2K • 💬 182 • ⏱️ 9:17 • 12h ago
+👁️ 72K • 👍 3K • 💬 200 • ⏱️ 9:17 • 17h ago
+
+---
+
+**[Bitcoin’s Next BIG Move Could Be Decided In The Next 48 Hours | Jordi Visser &amp; Jim Bianco](https://www.youtube.com/watch?v=-e_b5T3-g4I)**
+
+Bitcoin is holding near $78K even as AI fears hit global stocks, while markets now price an 85% chance of a Fed rate hike this ...
+
+📺 The Wolf Of All Streets
+
+👁️ 61K • 👍 2K • 💬 386 • ⏱️ 1:05:23 • 1d ago
 
 ---
 
@@ -337,47 +367,27 @@ TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-ch
 
 📺 Jason Pizzino
 
-👁️ 14K • 👍 601 • 💬 38 • ⏱️ 18:21 • 7h ago
+👁️ 26K • 👍 752 • 💬 59 • ⏱️ 18:21 • 12h ago
 
 ---
 
-**[BREAKING: The Clarity Act is BACK and Will FORCE Bitcoin to EXPLODE!!! | EP 1591](https://www.youtube.com/watch?v=cFVQWFyHj1s)**
+**[The Clarity Act Vote: What&#39;s at stake for crypto?](https://www.youtube.com/watch?v=aGSdeAqzpSU)**
 
-Clarity Act dropped last night and has a final last minute chance to cloture ...
+The Senate votes on cloture for the Clarity Act on Tuesday at 2:15pm ET, and it needs 60 votes to proceed. Republicans hold 53 ...
 
-📺 Simply Bitcoin
+📺 Yahoo Finance
 
-👁️ 16K • 👍 335 • 💬 62 • ⏱️ 1:10:05 • 17h ago
-
----
-
-**[CRYPTO CLARITY ACT: Trump Caved! (Democrats Got Everything) Here&#39;s What Comes Next for CRYPTO.](https://www.youtube.com/watch?v=bXbvG4gRkIA)**
-
-Crypto Clarity Act just got legs. Over the weekend Trump agreed to the ethics restrictions on himself, elected officials, and judges, ...
-
-📺 Crypto Capital Venture
-
-👁️ 36K • 👍 931 • 💬 332 • ⏱️ 9:03 • 21h ago
+👁️ 152K • 👍 889 • 💬 167 • ⏱️ 6:38 • 20h ago
 
 ---
 
-**[Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute](https://www.youtube.com/watch?v=4cLLjIShLDs)**
+**[86% Odds. 6/7 Crashes. Is Bitcoin Next?](https://www.youtube.com/watch?v=Ti6XTcnx6Sg)**
 
-The Clarity Act reaches a make-or-break moment as the Senate holds a cloture vote that requires 60 votes from a chamber ...
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
 
-📺 Bitcoin Magazine
+📺 Lark Davis
 
-👁️ 28K • 👍 322 • 💬 23 • ⏱️ 10:41 • 13h ago
-
----
-
-**[🚨 BITCOIN WARNING: SHOCKWAVES INCOMING!!!! [THE ULTIMATE TEST!?!!] 🚨](https://www.youtube.com/watch?v=5TL0mogpMYg)**
-
-Bitcoin and crypto head into the most important week possibly ever! What happens next could cause shockwaves! BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 20K • 👍 1K • 💬 166 • ⏱️ 32:44 • 18h ago
+👁️ 7K • 👍 322 • 💬 19 • ⏱️ 7:02 • 5h ago
 
 ---
 
@@ -387,7 +397,17 @@ KALSHI: https://bullmania.com/kalshi Newsletter: https://bullmania.com/subscribe
 
 📺 Ivan on Tech
 
-👁️ 8K • 👍 722 • 💬 55 • ⏱️ 45:52 • 1h ago
+👁️ 23K • 👍 1K • 💬 109 • ⏱️ 45:52 • 6h ago
+
+---
+
+**[CLARITY Act reaches MAKE-OR-BREAK Senate moment as crypto industry FIGHTS for passage](https://www.youtube.com/watch?v=IL1UTv2zYP4)**
+
+Host Taylor Riggs and Blockchain.com CEO Peter Smith discuss President Donald Trump's support for new cryptocurrency ethics ...
+
+📺 Fox Business
+
+👁️ 24K • 👍 571 • 💬 196 • ⏱️ 2:29 • 5h ago
 
 ---
 
