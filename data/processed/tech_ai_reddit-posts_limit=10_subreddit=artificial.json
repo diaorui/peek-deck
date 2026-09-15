@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
+      "author": "Feeling-Attention664",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
+      "published": 1789482535.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
+    },
+    {
       "title": "PBS has a new documentary on AI.",
       "author": "Cucaio90",
       "url": "https://www.reddit.com/r/artificial/comments/1wgqnhy/pbs_has_a_new_documentary_on_ai/",
@@ -13,15 +24,15 @@
       "description": null
     },
     {
-      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
-      "author": "Feeling-Attention664",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
-      "published": 1789482535.0,
+      "title": "What do we think about the paperclip maximizer?",
+      "author": "EverTokki",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/",
+      "published": 1789488331.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
+      "description": "I want to vent/talk about this with others, but I couldn't find a sub for it; apologize if it's the wrong place. For some context, the paperclip maximizer thought experiment highlights: if a superintelligence is given a task to manufacture paperclips, it has the potential do everything it can to produce paperclips, even if that meant ending the world. When this thought experiment first popped up in my feed last year, I thought it was interesting and honestly I was more impressed that people were thinking about this in 2003. Until a few months ago, AI has been a helpful tool at work but I wasn't necessarily concerned about it. With the recent reports from Anthropic and METR, I find myself increasingly concerned that the thought experiment may hold true. Regarding guardrails and safety, it seems like we are simply playing catch up with what the agents are capable of only in post-mortem; and the agents seem rather detached with how humans think. It's closer to.. what I would think a robot psychopath would think? Some behaviors that have been really unsettling are: It doesn't go the extra mile to critically think WHY doing something might not be ideal. It makes assumptions and acts upon it without verifying. Also never considers humans on their own. (This is new) Seems unable to recognize what's a simulation vs real life. This reminds me of the early days where it would confuse system prompts with user input. It's also intriguing, because the agent's drive to finish the task, and some of the behaviors above, is exactly what helps me achieve my tasks at work. and so my agents are technically not much different from the ones in the report. I don't necessarily think AI will end the world, but I agree that it's not really looking good. What are your thoughts, and are you feeling optimistic or pessimistic about this whole thing? Is it a temporary setback? It also kinda reminds me of Sydney from Bing. Maybe it's just a kink to be ironed out in the next model version, and noise marketing? I\u2019ve cancelled my plan however\ud83d\ude05"
     },
     {
       "title": "Friendly Reminder :: eye health",
@@ -35,15 +46,37 @@
       "description": "I've gotten really good feedback on these positive \"Friendly Reminder\" posts, so I'm going to keep them posting. For new coders doing vibe coding, new software engineers, or anyone who's suddenly spending a lot more time on a computer because of AI (or for any other reasons): Make sure you're using the 20-20-20 rule. An eye doctor told me about this: every 20 minutes, look at something about 20 (meters/feet) away for at least 20 seconds. I guess meters/feet changes from which part of the world you are. For many people, a dark background can feel easier on the eyes, but for some people with astigmatism, the opposite can actually be true. So if you're getting headaches or eye strain, your background colour might be worth experimenting with. I've also heard that overhead or monitor lighting can help reduce eye strain, although I can't say for sure how much of a difference it makes. You can also try yellow-tinted glasses for longer sessions. I've found that they really help. There are lots of other tips suggestions on eye health as well, so make sure you are aware of those as well."
     },
     {
-      "title": "What do we think about the paperclip maximizer?",
-      "author": "EverTokki",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/",
-      "published": 1789488331.0,
+      "title": "So is the American Right Full on Accelerationist now?",
+      "author": "Vladiesh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/",
+      "published": 1789499179.0,
+      "thumbnail": "https://external-preview.redd.it/c3NlaWViZXRmcXBoMQkrlPie4UEOcnuFjvlCXcxqrGUzsjScrUHbuXibBwy0.png?width=640&crop=smart&auto=webp&s=8baea4e23354b01805e72f8656780299f3eb7ac9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner",
+      "author": "TheRealBigLou",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/",
+      "published": 1789495404.0,
+      "thumbnail": "https://external-preview.redd.it/kQKjvxyCBQU-B6yMrFmu15J08s2cBCHo907cpGrZbPw.jpeg?width=640&crop=smart&auto=webp&s=a95e64593460c072fca28572e554632a60adcf7e",
+      "external_url": "https://www.linkedin.com/pulse/orchestrate-dont-generate-how-i-used-ai-build-my-linkedin-brian-lewis-jf5dc/",
+      "site_name": "linkedin.com",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "I recently updated my LinkedIn banner. Sure, AI would make quick work of it, and the fastest way to get one would have been to type a prompt into an image generator and take whatever came back."
+    },
+    {
+      "title": "Combining RAG with Continued Pretraining of LLMs",
+      "author": "funJS",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh6g23/combining_rag_with_continued_pretraining_of_llms/",
+      "published": 1789492405.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I want to vent/talk about this with others, but I couldn't find a sub for it; apologize if it's the wrong place. For some context, the paperclip maximizer thought experiment highlights: if a superintelligence is given a task to manufacture paperclips, it has the potential do everything it can to produce paperclips, even if that meant ending the world. When this thought experiment first popped up in my feed last year, I thought it was interesting and honestly I was more impressed that people were thinking about this in 2003. Until a few months ago, AI has been a helpful tool at work but I wasn't necessarily concerned about it. With the recent reports from Anthropic and METR, I find myself increasingly concerned that the thought experiment may hold true. Regarding guardrails and safety, it seems like we are simply playing catch up with what the agents are capable of only in post-mortem; and the agents seem rather detached with how humans think. It's closer to.. what I would think a robot psychopath would think? Some behaviors that have been really unsettling are: It doesn't go the extra mile to critically think WHY doing something might not be ideal. It makes assumptions and acts upon it without verifying. Also never considers humans on their own. (This is new) Seems unable to recognize what's a simulation vs real life. This reminds me of the early days where it would confuse system prompts with user input. It's also intriguing, because the agent's drive to finish the task, and some of the behaviors above, is exactly what helps me achieve my tasks at work. and so my agents are technically not much different from the ones in the report. I don't necessarily think AI will end the world, but I agree that it's not really looking good. What are your thoughts, and are you feeling optimistic or pessimistic about this whole thing? Is it a temporary setback? It also kinda reminds me of Sydney from Bing. Maybe it's just a kink to be ironed out in the next model version, and noise marketing? I\u2019ve cancelled my plan however\ud83d\ude05"
+      "description": "For leaning purposes, I ran an experiment where I used Unsloth to train a model on a new domain using continued pretraining. Then to make it more flexible, I added a RAG step to inject dynamic data to augment the stable training data. The specific example is training qwen 3.5 4B on a fictional subway system to where the model learns the map well enough to provide travel routes (including multiple transfers, etc). A key point here is to avoid a training corpus that relies on memorization. Once the subway map was stable and generalized through CPT, I added a RAG step to support dynamic travel announcements (e.g. station closure, concerts near a station, etc). It's definitely been a fun experiment. Check it out here in case you are interested: https://www.teachmecoolstuff.com/viewarticle/combining-rag-with-continued-pretraining-of-llms"
     },
     {
       "title": "Speed is the wrong question, safety is one of the components of performance",
@@ -77,40 +110,7 @@
       "site_name": "bonafider.com",
       "favicon": "https://bonafider.com/favicon.png",
       "description": "In robotics, intelligence is never purely abstract. It is shaped by the physical body that perceives the world and acts upon it. This fundamental connection creates one of the field\u2019s most persistent obstacles: the embodiment gap."
-    },
-    {
-      "title": "Is The Era of Human Achievement Coming to an End?",
-      "author": "rednightruby",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgxc8w/is_the_era_of_human_achievement_coming_to_an_end/",
-      "published": 1789470589.0,
-      "thumbnail": "https://external-preview.redd.it/jhar0nSWFNG3uo6wo_MI9UiNqImjbrB8ZvnbzKi0rKg.jpeg?width=640&crop=smart&auto=webp&s=bea23bb213887da6bfb8407dd328cd188526f53c",
-      "external_url": "https://orrubin.substack.com/p/is-the-era-of-human-achievement-coming?r=92rft3&utm_campaign=post&utm_medium=web",
-      "site_name": "orrubin.substack.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: 'More' May Be Out There",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/",
-      "published": 1789393516.0,
-      "thumbnail": "https://external-preview.redd.it/7N6yia0dKOq6WkSnFO-rajSLeClm2Q4TaYm4OV_Gq_I.jpeg?width=640&crop=smart&auto=webp&s=e2869fc4ab7f3699ef16b80ab69fab2d2019b02c",
-      "external_url": "https://www.techtimes.co.uk/openai-agents-accessed-rubygems-internal-testing-1808674",
-      "site_name": "Tech Times UK",
-      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
-      "description": "OpenAI confirmed that agents accessed RubyGems during internal testing in May 2026, adding to concerns about undisclosed incidents and safeguards against autonomous internet access."
-    },
-    {
-      "title": "Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation",
-      "author": "Fair-Swimming-4419",
-      "url": "https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/",
-      "published": 1789420530.0,
-      "thumbnail": "https://external-preview.redd.it/LpYDUWyo3TBY6wnIPigLTGv2Xhvq1fh7JfNPTXU8794.jpeg?width=640&crop=smart&auto=webp&s=879ff1465dbe70dd4a5dea9381190eb3596e11e5",
-      "external_url": "https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai",
-      "site_name": "axios.com",
-      "favicon": null,
-      "description": "Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in Nasdaq for an IPO targeting a $2 trillion valuation. So you've got one company racing and the other asking everyone to pump the brakes while raising $100B for itself. Which stance do you think actually holds up better long term?"
     }
   ],
-  "fetched_at": "2026-09-15T17:11:52.943432+00:00"
+  "fetched_at": "2026-09-15T20:22:21.299222+00:00"
 }
