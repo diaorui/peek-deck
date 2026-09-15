@@ -5,24 +5,54 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "XRP Price Could Hit $89.52 Under Viral 306% Ethereum Forecast \u2014 Is It Likely?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ1JNSE9nR1BDSGlaU2pwelFVMWk3NUljM0Iwb0FGLVpfTGRQellERFkxTUhrNk5WS2JNVzVwbkU0Z3BYUWRYZmJweUs4RlpSdWs3d1p3MnhBbkxZcWFINjZzRlFpcGlINHhmdnpqcGxQODY4MTBudEN2NkhXQ1FMWWRJMTQ1QjVZUXhMYm5nVzg?oc=5",
-      "pub_date": 1789393635.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-could-hit-89-134715433.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6a539e5114da9bcfb6f5e3bf00a9b5b0a4d855fa999e997e5a9f49c15e5f0ee9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fe90364dec93c3a1039965856e7bac5d3.png",
-      "description": "Crypto analyst Dark Defender\u2019s chart projects XRP rising 306% against Ethereum, not gaining 306% in dollar terms. The target would value XRP at approximately $5.62 ..."
-    },
-    {
-      "headline": "SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmY0WE94VW82c3NBN1EzSjhWWmxzS1BocDlaSnVRV2FCcW9xbTB0YVFvUlQwVzg5SHdET0dMdkt4cXNnS3loa3dmMFd3dWtTNUplRTYtT3ZCa0VBT2k2Vm1KMjZYbFZoVnNsOHF5V3BqSlF0VkJrZ21SLTVDbEdvcWtIODU5TnU1SzJkNzlsUGJEV3lFTXgzXy1kT3RMa0JaZVhoY290LVhVbURJM01tOTN0bW94aTJSdEVLQUxmZnA?oc=5",
-      "pub_date": 1789450678.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+      "headline": "Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails",
+      "source": "forbes.com",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
+      "pub_date": 1789499685.0,
+      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Clarity Act will have 'large positive impact' on crypto and global economy, Ethereum co-founder says",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqVGJ2MFZNeXhTRzJNdzlIQnNYOFVLVU12VjZzTzBJbmxMN24xTmxKNTRYeXZabFlqTDUwWDVhOXhNR2IxeF9nekNHTzBKa3hqRGlYQU8tbmg2LTA?oc=5",
+      "pub_date": 1789499520.0,
+      "article_url": "https://www.foxbusiness.com/video/6405095552112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/33722c11-a34f-49f3-8df1-20e173fd7fb0/5ddbace4-e4b6-4acb-bc28-bcd7eb800fd0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact of the Clarity Act on cryptocurrency and the economy and MetaMask's protections against crypto scams on 'Varney & Co.'"
+    },
+    {
+      "headline": "What Is the Crypto Clarity Act? What Tuesday's Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1pqSDRSajRzazZZWU5kLU4wdWNTVEVvV244bWUzY3d5X3JDSW9CamdpV3l2TDZpTDZhRVVGMnJabHA0d0lNdUJUaUNXc2VxdGNfbkNGTTFvOTZzWXFwT3FYQUNkUEt0WWlBSUFpNllTZE1ZOE13WFVzZXpoRjlua0NrSnpFS3pxcGR2bmlxRkhlb1Y1bHdzc0ZSQ2F1WmdKQ1h3NkZZZk1wbmZuaEQ0bm56SUc0NDNuOFo0YVctZTlMYVZYZmg0cG1Dd0V5X082eFpzSlo3RndENURaVVFlclFDZFV0d25yX0pDUzl6N0U?oc=5",
+      "pub_date": 1789496100.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/15/what-is-the-crypto-clarity-act-what-tuesdays-senate-vote-decides-for-xrp-bitcoin-ethereum-and-solana/",
+      "image": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry29-exr.jpg",
+      "description": "The Senate votes at 2:15 p.m. ET on the CLARITY Act. Here is what the bill does and what it would change for XRP, Bitcoin, ETH, and Solana."
+    },
+    {
+      "headline": "Will Bitcoin, Ethereum and XRP Prices Rally if the CLARITY Act Passes on September 15?",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2pOa2Z3NXRYazZvZTY1R2ZLaWZOYmtJZWwza2dNSkFIX2NIR1FrcUJvM052Q21QaWdmalZpSFBMUHl1eW9kNWhnNUxWeTBNMl9OZ09EMTJGR0MxaWpVTDVPdzQ2MHhWdXVZemV3R3FZemljMkZwaVBTV2Y5cTZCdG1DbExrNlQ1NG9oS052VVF5ODdqQzFILUJlMGVtWWw2NWhQbU9RQlpUUThVb2NsbTVn0gG3AUFVX3lxTE5ZV3RQZE1CaGkxS3lDVFdoTzVBVnRXckFYbTJWc0hiYUhwMElsX2JmZS1qNENla29odUpCOUMxa1lNVk54am8zdjZOanFrajB4WHZhakFRTWlZc2NfbXJLN2NhSkRnNjJkN19HbTU3Ti1hbGdTcEZWUzRad01hRFhiQTFVV2s0am9OeXRhT1M3dERweVpYUmEwRkhITEtxaHVkLThWRGFkcHVwdlpVcTVOQWpJTlR0QQ?oc=5",
+      "pub_date": 1789360200.0,
+      "article_url": "https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-rally-if-the-clarity-act-passes-on-september-15/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/06/02193011/CLARITY-Act-Faces-Make-or-Break-June-as-Senate-Returns-to-Washington-1-1.jpg",
+      "description": "Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part"
+    },
+    {
+      "headline": "CLARITY Act Could Fail Today \u2014 Analysts Still Target $80K Bitcoin, $3K Ethereum and $4 XRP",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnZPcWRHX3FFOEZmZnJVY2xrTzQ2WXV4TmYxaEQ1akVDWGNPNVZlTzdGcEFGcTU1RFhINmNuOVpqY1ppQkFSSS1HanoxUE9WeEFOM1F0VlVQRlEzeUlsOTVmSHhyaWRtRWdoajctUlotdFJ6cWNnVnltSV9mRkQwRVFPN0h2OHVONDc3NGxOWUZUQUJ3TGJUQg?oc=5",
+      "pub_date": 1789475235.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-could-fail-today-122715787.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/50732b0412f7e37b022418c85c68690bbe6c5d2e0eac937f2bf3df89ece305dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F7fc23a03baa0ea1f86d30be9cf94cd64.png",
+      "description": "The Senate will hold a crucial procedural vote on the CLARITY Act at 2:15 pm ET on Sept. 15, with 60 votes required to advance ..."
     },
     {
       "headline": "Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum",
@@ -33,6 +63,16 @@
       "article_url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
       "image": "https://www.tbstat.com/wp/uploads/2022/04/20220422_Bullion-Vault-1200x675.jpg",
       "description": "Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products."
+    },
+    {
+      "headline": "SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmY0WE94VW82c3NBN1EzSjhWWmxzS1BocDlaSnVRV2FCcW9xbTB0YVFvUlQwVzg5SHdET0dMdkt4cXNnS3loa3dmMFd3dWtTNUplRTYtT3ZCa0VBT2k2Vm1KMjZYbFZoVnNsOHF5V3BqSlF0VkJrZ21SLTVDbEdvcWtIODU5TnU1SzJkNzlsUGJEV3lFTXgzXy1kT3RMa0JaZVhoY290LVhVbURJM01tOTN0bW94aTJSdEVLQUxmZnA?oc=5",
+      "pub_date": 1789450678.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Current price of Ethereum for Sept. 15, 2026",
@@ -55,26 +95,6 @@
       "description": null
     },
     {
-      "headline": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TVlYX0JqZmhTX0N2Y0hYSjFaZktQZDZvY3F1OTJNeTY3MzkzcmxJOXNPQllFa1JTOGhFUE1QVzVLR0txWFQzWnlDbkFTNU1nWTBnakhLaFI0bXkzcjU5VUdsS3RMOVVnNWfSAXJBVV95cUxNYU9BM1RreEp3QmhpX0ZvUDU4c0NtY21FMFNycjZBRnhfaXpGWThWM19qQkVwY3piZ3FsdFVvcFVYTzNGQWloUlEyZW1fN1I1VjhWbGNfX1V2S3UxbV9OcXYtTy1VN2VzS01nQzRXanNVMEE?oc=5",
-      "pub_date": 1789401745.0,
-      "article_url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-      "description": "The purchase brings Bitmine closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards."
-    },
-    {
-      "headline": "Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM040dXFqZG13OElUS0xialBiaWdtd0FRemlJSkhkaUNKTy03M19naGR6Si04ZTJLdGNVeDR6Y3NYQXdNVkMzNWMxZ2d5TUNpc3hQd0ZiTWNVOFpOUlV1TUZ3Rkttc2xjbVdsdTJHRTR1V2hOZnkxejVDd2J5MVYxQWRMeHBENVpvWUVVSVFHOHNWem1NRl9NWjFpNFZuZnJIQVJ1RlVnOGhiOHB1emtUVEVZRnpNVWVYd2hxTzBPbnFQSXhqNGp6Rnh6a3JMREpEMzI0bzYtUQ?oc=5",
-      "pub_date": 1789383706.0,
-      "article_url": "https://www.tradingview.com/news/coinmarketcal:cf9c99704094b:0-lisk-chain-shutdown-requires-holders-to-bridge-funds-to-ethereum-31-oct-2026/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Lisk has confirmed that Lisk Chain shuts down, and users must bridge their funds to Ethereum before closure. Withdrawal takes about 8 days, with unstaking adding a 3-day waiting period, so a complete move can span roughly 11 days. The deadline applies to all LSK holders on the chain.This is a force\u2026"
-    },
-    {
       "headline": "Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887192%2Fsad-businessman.jpg&w=1200&op=resize",
       "description": "Could the Clarity Act really become a super-catalyst for Ethereum?"
-    },
-    {
-      "headline": "Coinbase-backed Base just exposed the uncomfortable truth about Ethereum\u2019s L2s",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkFlS290UktvMVk0SWVBa2lCVWdmQkdVSWh0YzVpbkZKVW1IRGUzWFIxd3p5dENOMkpvQjdOWmNPU3Y3OWpub0piWHlQU3k2TWl4R3h2Ymxkc05fXzBLNU5ib0N6ak84ZV9zaGFNdWs0U0d2M25Ka1Rqb0hjSWRxYXc5UkVVcTlsM2FzcDRrRHpMTkNqbklXamRKVko0UURoM3I0Mg?oc=5",
-      "pub_date": 1789442448.0,
-      "article_url": "https://cryptoslate.com/coinbase-backed-base-just-exposed-the-uncomfortable-truth-about-ethereums-l2s/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_eDk8lj1bvf.jpg",
-      "description": "Base\u2019s split with Ethereum over account abstraction shows how market pressure is pushing L2s toward independent protocol choices."
-    },
-    {
-      "headline": "$350M in Ethereum exits exchanges as Q4 battle with Bitcoin begins",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbnZZc1JMUXM3QjJLckppb3o2TEgzWkRZOTJyaDZqMGhZZkRFNi16YVdwUGkyOUdPVGZfYkp3cGx3Z0RFemRFRnEzdy1oX1hWT0E4bkJSTmtHcG5PblU4b3Bhdmd6M2FwQWxTTktVeF9zT3JsemdPX3RBelNCbE5qenZORmNybGFYLWhCSU9jTWJDQQ?oc=5",
-      "pub_date": 1789491621.0,
-      "article_url": "https://ambcrypto.com/350m-in-ethereum-exits-exchanges-as-q4-battle-with-bitcoin-begins/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/Ritika-1-7-e1789458448607.jpg",
-      "description": "Ethereum is entering Q4 with tighter supply, record staking, and rising accumulation, strengthening its case for a divergence from historical trends."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T17:12:20.343205+00:00"
+  "fetched_at": "2026-09-15T20:22:44.996808+00:00"
 }
