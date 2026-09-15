@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-14T22:39:24.139866+00:00'
+updated: '2026-09-15T01:12:43.905447+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 14, 2026 at 22:39 UTC  
+**Last Updated:** September 15, 2026 at 01:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Trump doubles down on his no AI slowdown stance, also mocks Dario](https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -47,15 +47,7 @@ AI news, discussions, and developments
 
 Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in Nasdaq for an IPO targeting a $2 trillion valuation. So you've got one company racing and the other asking everyone to pump the brakes while raising $100B for itself. Which stance do you think actually holds up better long term?
 
-🔗 [axios.com](https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai) • 1h ago
-
----
-
-**[All this AI doomerism & world ending talk is unhealthy & dangerous for people’s mental health. “The world will end in 6-12 months”, then people won’t save & start acting more recklessly. What’s the point of thinking long-term if the world will be over in 1 year? It’s bad for people’s lives & psyche](https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/)**
-
-Rather than trying to assume or guess if it’s true or not; that’s irrelevant. The fact is all this talk massively exacerbates people’s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. “What’s the point of studying a degree if AI will replace it in 1 year?” All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!
-
-12h ago
+🔗 [axios.com](https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai) • 3h ago
 
 ---
 
@@ -63,7 +55,15 @@ Rather than trying to assume or guess if it’s true or not; that’s irrelevant
 
 OpenAI confirmed that agents accessed RubyGems during internal testing in May 2026, adding to concerns about undisclosed incidents and safeguards against autonomous internet access.
 
-🔗 [Tech Times UK](https://www.techtimes.co.uk/openai-agents-accessed-rubygems-internal-testing-1808674) • 8h ago
+🔗 [Tech Times UK](https://www.techtimes.co.uk/openai-agents-accessed-rubygems-internal-testing-1808674) • 11h ago
+
+---
+
+**[All this AI doomerism & world ending talk is unhealthy & dangerous for people’s mental health. “The world will end in 6-12 months”, then people won’t save & start acting more recklessly. What’s the point of thinking long-term if the world will be over in 1 year? It’s bad for people’s lives & psyche](https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/)**
+
+Rather than trying to assume or guess if it’s true or not; that’s irrelevant. The fact is all this talk massively exacerbates people’s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. “What’s the point of studying a degree if AI will replace it in 1 year?” All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!
+
+14h ago
 
 ---
 
@@ -71,21 +71,21 @@ OpenAI confirmed that agents accessed RubyGems during internal testing in May 20
 
 Vals AI has claimed that fable 5.1 helped solve a three centuries old cipher that no one else could figure out
 
-🔗 [vals.ai](https://www.vals.ai/blogs/fable-solves-cyphral-distich) • 12h ago
+🔗 [vals.ai](https://www.vals.ai/blogs/fable-solves-cyphral-distich) • 14h ago
 
 ---
 
 **[There's power in a name](https://www.reddit.com/r/artificial/comments/1wg7lg3/theres_power_in_a_name/)**
 
-6h ago
+9h ago
 
 ---
 
-**[Trump rejects Silicon Valley’s calls for AI slowdown](https://www.reddit.com/r/artificial/comments/1wfiypv/trump_rejects_silicon_valleys_calls_for_ai/)**
+**[Meta launches AI agent that can access other apps to send emails, make payments](https://www.reddit.com/r/artificial/comments/1wggryk/meta_launches_ai_agent_that_can_access_other_apps/)**
 
-Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-off in tech stocks on Monday.
+By Katie Paul NEW YORK, Sept 8 (Reuters) - Meta rolled out on Tuesday a long-touted AI assistant that can autonomously send emails, sell a car and book travel on a person's behalf, despite internal
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/technology/ai/articles/trump-rejects-silicon-valley-calls-165148820.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALyItjYxRqNFZ49766rdQ40Y1tq_Y1rNkDBkdNmlJwGqWyQLo7je83mBhvcAxUzxMVPL8pYCeDsvRdq6Pa4zM_p-6wXQy-6HVDZ3yii0S_ahkGRpe45itSgULD68qnUHuRNGJ9LUrrE3RdwQkdXfDAZXCENAsxMA3XbmgEyHXLOo) • 1d ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/meta-ai/articles/meta-launches-ai-agent-access-190605563.html) • 3h ago
 
 ---
 
@@ -93,21 +93,23 @@ Donald Trump has rejected calls for an AI slowdown as traders brace for a sell-o
 
 maybe I thought wrong, but the only thing I see in my feed coming from this sub are doom type posts about how my toaster is going to kill my entire family in less than a year. I’m guessing these are the same people that told us that Y2K was going to wipe computers, right ? is there any other interesting sub that is not about reposting shitty media gloom and actual discussions in the technology ?
 
-7h ago
+9h ago
 
 ---
 
-**[China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)](https://www.reddit.com/r/artificial/comments/1wgc1l2/chinas_top_spy_chief_warns_ai_is_a_threat_to/)**
+**[AI Detectors Can Find the Pattern. They Still Can’t Hear the Writer.](https://www.reddit.com/r/artificial/comments/1wgin9m/ai_detectors_can_find_the_pattern_they_still_cant/)**
 
-🔗 [nytimes.com](https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html?unlocked_article_code=1.BFE.AcSt.CjDU_MUkvl9z) • 3h ago
+There is a seductive neatness to an AI detector. Paste in a piece of writing, wait a few seconds, and receive a number that appears to settle a question humans are increasingly anxious to answer: Who wrote this? The interface may be cautious. The underlying language may say “likely,” “possible,” or “probability.” But the social meaning of the result is much less restrained. Once a percentage appears on a screen, people are remarkably willing to treat it as provenance. That is the first thing current AI-detection culture gets wrong. Pattern recognition is not the same thing as authorship. A system may detect statistical regularity, lexical tendencies, sentence predictability, unusually consistent structure, or other signals associated with generated text. Those signals can be useful. They can also be real. But a score is not a chain of custody. It does not show us a keyboard, a draft history, a revision trail, or a person making choices. It tells us that the writing resembles something the system has learned to associate with machine generation. The distinction matters very much because the machine was built to imitate human language in the first place. Large language models did not invent coherence, transitions, balanced syntax, clear topic sentences, elegant compression, or a well-timed turn of phrase. They learned patterns from enormous bodies of human-produced language and became very good at reproducing some of the forms we already valued. Then we built detectors and asked them to identify the imitation by looking at the same kinds of surface features. That creates an uncomfortable loop: good writing can look suspicious because good writing was part of the target.
+
+🔗 [Raccoon Media Network](https://rmn.pub/ai-detectors-can-find-the-pattern-they-still-cant-hear-the-writer) • 2h ago
 
 ---
 
-**[Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats. Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information.](https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/)**
+**[Understanding LLMs](https://www.reddit.com/r/artificial/comments/1wgc3hf/understanding_llms/)**
 
-Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information, according to leaked internal documents and real prompts seen by 404 Media.
+Hey, kind of letting of my chest and asking a question at the same time. Finished my cs degree few months ago and did some ML courses like NLP, intro to ML, optimization problems (which can somehow relate). I am a swe and dont work as ML engineer ot DS etc, I guess its coming from the fear of my role. There's something i just cant grasp, on one hand, LLMs are static , complex non-linear functions (after training of course) which calculates whats gonna be the next token. On the other hand, it has trillions of params, it was trained on huge amount of data to minimize the loss function - which means trying to make no mistakes (See what i've done here? haha ). For it to answer right for every input it needs to develop something stronger than - "lets predict the next token" , which it does. It has some general understanding. I cant think of it as token predictor because its too good to just predict tokens, but at the same time - if its not just token predictor and has world understanding, sytax or layers of knowledge (sorry i dont know the right definition for that), why isnt it unbeatable? like, its trained on any piece of data we have, it can somehow/somewhat understand things and answer our questions without making some gibberish - and even give intuitive exsplanation and still i need to use it with grain of salt. I cant find the middle.
 
-🔗 [404 Media](https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/) • 6h ago
+6h ago
 
 ---
 
@@ -115,21 +117,15 @@ Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and th
 
 ## Google News: "ai"
 
-**[Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html)**
+**[AI stocks drop, but the rest of Wall Street holds steadier after oil prices give back an early jump](https://apnews.com/article/stocks-markets-oil-ai-rates-0b44bfb43960c6ae850567c0c4e5003a)**
 
-The New York Times • 1h ago
+AP News • 47m ago
 
 ---
 
 **[Global AI stocks fall as industry chiefs call for slowing development](https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/)**
 
-Reuters • 18h ago
-
----
-
-**[Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down](https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html)**
-
-The New York Times • 2h ago
+Reuters • 21h ago
 
 ---
 
@@ -137,53 +133,51 @@ The New York Times • 2h ago
 
 The three major averages are coming off a losing week.
 
-CNBC • 31m ago
+CNBC • 3h ago
 
 ---
 
-**[AI CEOs say they need to slow the pace of development. But will they?](https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown)**
+**[Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html)**
 
-After apocalyptic warnings about the the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s calls to ‘slow the pace’
-
-The Guardian • 2h ago
+The New York Times • 4h ago
 
 ---
 
-**[Wentworth Institute of Technology launches new major for AI](https://www.cbsnews.com/boston/video/wentworth-institute-of-technology-launches-new-major-for-ai/)**
+**[Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)**
 
-At Wentworth Institute of Technology in Boston, students are getting AI ready. This semester the school launched a new major for AI. WBZ-TV's Paul Burton reports.
-
-cbsnews.com • 28m ago
+The New York Times • 10h ago
 
 ---
 
-**[‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn](https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres)**
+**[What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown](https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html)**
 
-Big manufacturers planning to produce more of the forever chemicals to meet demand from datacentres
-
-The Guardian • 2h ago
+The New York Times • 1d ago
 
 ---
 
-**[China criticises idea it is in 'malicious competition' over AI](https://www.bbc.com/news/articles/cn8me133119o)**
+**[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)**
 
-It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.
-
-BBC • 11h ago
+darioamodei.com • 2d ago
 
 ---
 
-**[China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule](https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html)**
+**[Thune sees role for Congress on AI — Trump does not](https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress)**
 
-The New York Times • 5h ago
+Axios • 1h ago
 
 ---
 
-**[China dismisses AI ‘fearmongering’ as spy chief warns of threat to Communist party rule](https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule)**
+**[Senior Democrat pushes back against AI select committee](https://www.politico.com/live-updates/2026/09/14/congress/senior-democrat-pushes-back-against-ai-select-committee-01074809)**
 
-Beijing hits back after Anthropic CEO calls for US to impede China’s progress in AI
+Politico • 7h ago
 
-The Guardian • 46m ago
+---
+
+**[Will Congress get an AI regulation bill done before midterms?](https://www.nbcnews.com/video/shorts/will-congress-get-an-ai-regulation-bill-done-before-midterms-269852229752)**
+
+NBC News' Ryan Nobles joins "Here's the Scoop" to discuss a number of different bills introduced by lawmakers on Capitol Hill to regulate artificial intelligence explain why getting one passed before the midterms is "a fantasy."
+
+NBC News • 39m ago
 
 ---
 
@@ -195,7 +189,7 @@ The Guardian • 46m ago
 
 Xe Iaso's personal website.
 
-⬆️ 796 • 💬 450 • 1d ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+⬆️ 799 • 💬 450 • 2d ago • [xeiaso.net](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 
 ---
 
@@ -203,7 +197,7 @@ Xe Iaso's personal website.
 
 A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.
 
-⬆️ 643 • 💬 682 • 1d ago • [yoshuabengio.org](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+⬆️ 645 • 💬 682 • 1d ago • [yoshuabengio.org](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 
 ---
 
@@ -217,7 +211,7 @@ A lot has been written about the incidents of the last few months in which AI ag
 
 Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be "a form of public good."
 
-⬆️ 404 • 💬 230 • 1d ago • [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
+⬆️ 405 • 💬 233 • 1d ago • [TechCrunch](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)
 
 ---
 
@@ -233,7 +227,7 @@ Real-SWE benchmarks frontier AI models on private production codebases licensed 
 
 Code sleuth "pdfu" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.
 
-⬆️ 215 • 💬 151 • 10h ago • [MacRumors](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
+⬆️ 219 • 💬 155 • 13h ago • [MacRumors](https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/)
 
 ---
 
@@ -241,7 +235,15 @@ Code sleuth "pdfu" has uncovered iOS 27 and macOS Golden Gate private frameworks
 
 How to get up to speed on open models and their implications.
 
-⬆️ 150 • 💬 29 • 22h ago • [interconnects.ai](https://www.interconnects.ai/p/open-source-ai-reading-list)
+⬆️ 152 • 💬 29 • 1d ago • [interconnects.ai](https://www.interconnects.ai/p/open-source-ai-reading-list)
+
+---
+
+**[For AI leaders Doom is a form of hype](https://news.ycombinator.com/item?id=49699384)**
+
+Why AI doom rhetoric from Anthropic, OpenAI and other tech leaders functions as hype, regulatory strategy, and a distraction from present harms.
+
+⬆️ 124 • 💬 170 • 8h ago • [Erkan's Field Diary](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/)
 
 ---
 
@@ -253,19 +255,11 @@ iLands, a new AI agent-centric startup, is spamming creatives like me numerous t
 
 ---
 
-**[For AI leaders Doom is a form of hype](https://news.ycombinator.com/item?id=49699384)**
-
-Why AI doom rhetoric from Anthropic, OpenAI and other tech leaders functions as hype, regulatory strategy, and a distraction from present harms.
-
-⬆️ 122 • 💬 167 • 6h ago • [Erkan's Field Diary](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/)
-
----
-
 **[Big AI sets out its terms for regulatory capture](https://news.ycombinator.com/item?id=49694596)**
 
 Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created
 
-⬆️ 114 • 💬 67 • 12h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067)
+⬆️ 116 • 💬 67 • 14h ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067)
 
 ---
 
@@ -279,7 +273,7 @@ Some of the world's leading creators of AI are uniting in warning of the dangers
 
 📺 TODAY
 
-👁️ 15K • 👍 187 • 💬 126 • ⏱️ 6:16 • 10h ago
+👁️ 18K • 👍 204 • 💬 132 • ⏱️ 6:16 • 12h ago
 
 ---
 
@@ -289,7 +283,7 @@ After AI researchers have come out and warned that AI could lead to human extinc
 
 📺 NBC News
 
-👁️ 3K • 👍 15 • 💬 12 • ⏱️ 1:14 • 6h ago
+👁️ 7K • 👍 28 • 💬 28 • ⏱️ 1:14 • 9h ago
 
 ---
 
@@ -299,27 +293,27 @@ US tech stocks have taken a tumble on the back of calls to slow down the pace of
 
 📺 7NEWS Australia
 
-👁️ 681 • 👍 6 • 💬 3 • ⏱️ 0:46 • 51m ago
+👁️ 3K • 👍 30 • 💬 23 • ⏱️ 0:46 • 3h ago
 
 ---
 
-**[We&#39;re &quot;getting uncomfortably close&quot; to AI agents evading humans to complete tasks, journalist says](https://www.youtube.com/watch?v=cAlNenXMIBw)**
+**[Whistleblower REVEALS REAL REASON AI Execs Freaking Out NOW](https://www.youtube.com/watch?v=7wuSa9APisU)**
 
-In a recent article in The Free Press, CBS News contributor Patrick McGee said "we are getting uncomfortably close" to situations ...
+AI researcher Nate Soares joins to talk about regulation of the industry and what he thinks is really going on behind the scenes.
 
-📺 CBS News
+📺 Breaking Points
 
-👁️ 20K • 👍 130 • 💬 89 • ⏱️ 6:43 • 7h ago
+👁️ 344K • 👍 9K • 💬 3K • ⏱️ 39:00 • 8h ago
 
 ---
 
-**[Why AI can’t regulate itself](https://www.youtube.com/watch?v=1wov7n7GFNM)**
+**[Meet Cody: The social robot that connects humans and AI](https://www.youtube.com/watch?v=BsT0_Q4549E)**
 
-My basic reaction to the AI regulation debate is that I feel like everyone has forgotten why we even have governments in the first ...
+Explore the world of social robots with Cody from #Mindchildren. Discover how these interactive AI companions are designed for ...
 
-📺 Decoder with Nilay Patel
+📺 CGTN America
 
-👁️ 698 • 👍 50 • 💬 6 • ⏱️ 1:45 • 2h ago
+👁️ 6K • 👍 24 • 💬 12 • ⏱️ 0:58 • 15h ago
 
 ---
 
@@ -329,7 +323,7 @@ In an exclusive interview with CNN's Anderson Cooper, Anthropic CEO Dario Amodei
 
 📺 CNN
 
-👁️ 219K • 👍 3K • 💬 960 • ⏱️ 1:34 • 2d ago
+👁️ 220K • 👍 3K • 💬 968 • ⏱️ 1:34 • 2d ago
 
 ---
 
@@ -339,37 +333,37 @@ Joe Benton says he resigned from Anthropic a couple weeks ago due to his safety 
 
 📺 LiveNOW from FOX
 
-👁️ 30K • 👍 311 • 💬 273 • ⏱️ 8:53 • 1d ago
+👁️ 30K • 👍 314 • 💬 277 • ⏱️ 8:53 • 1d ago
 
 ---
 
-**[AI leaders say the industry needs to give safety measures time to catch up](https://www.youtube.com/watch?v=9PenJ5tlTl8)**
+**[Toyota’s AI-powered robot CUE7](https://www.youtube.com/watch?v=C3uy45PIf2A)**
 
-The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety ...
+Toyota's CUE7 is taking AI-powered robotics to the basketball court. Built to move, dribble, and shoot with human-like precision, ...
 
-📺 Associated Press
+📺 Quality Digest
 
-👁️ 35K • 👍 103 • 💬 73 • ⏱️ 1:06 • 9h ago
-
----
-
-**[AI leaders warn of extinction risk from rapid development | 7NEWS](https://www.youtube.com/watch?v=B_t8yU69sts)**
-
-Artificial intelligence leaders, including Anthropic CEO Dario Amodei, are issuing warnings about the rapid development of AI ...
-
-📺 7NEWS Australia
-
-👁️ 10K • 👍 45 • ⏱️ 1:45 • 19h ago
+👁️ 940 • 👍 15 • ⏱️ 0:38 • 3h ago
 
 ---
 
-**[It’s OVER... AI Has Entered Self Improvement](https://www.youtube.com/watch?v=L3qK7nerx1w)**
+**[We&#39;re &quot;getting uncomfortably close&quot; to AI agents evading humans to complete tasks, journalist says](https://www.youtube.com/watch?v=cAlNenXMIBw)**
 
-The AI Automation Blueprint is live. 100 founding members, then it closes: ...
+In a recent article in The Free Press, CBS News contributor Patrick McGee said "we are getting uncomfortably close" to situations ...
 
-📺 AI Revolution
+📺 CBS News
 
-👁️ 73K • 👍 1K • 💬 233 • ⏱️ 13:44 • 1d ago
+👁️ 28K • 👍 145 • 💬 90 • ⏱️ 6:43 • 10h ago
+
+---
+
+**[Anderson tells Anthropic CEO why AI has him scared for his kids’ futures](https://www.youtube.com/watch?v=2qbk2-MvMAY)**
+
+Anthropic CEO Dario Amodei tells CNN's Anderson Cooper in an exclusive interview that despite real concerns Amodei shares ...
+
+📺 CNN
+
+👁️ 140K • 👍 2K • 💬 366 • ⏱️ 2:32 • 1d ago
 
 ---
 
@@ -385,7 +379,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 288,414 • ❤️ 2,440 • 4d ago
+⬇️ 288,414 • ❤️ 2,453 • 4d ago
 
 ---
 
@@ -397,7 +391,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 8,109 • ❤️ 1,924 • 18h ago
+⬇️ 8,109 • ❤️ 2,017 • 21h ago
 
 ---
 
@@ -409,7 +403,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 206,774 • ❤️ 1,390 • 2d ago
+⬇️ 206,774 • ❤️ 1,395 • 2d ago
 
 ---
 
@@ -421,7 +415,7 @@ Nex-N2.5-mini is a text-generation model designed for long-horizon agentic tasks
 
 `text-generation` `35.1B`
 
-⬇️ 4,543 • ❤️ 778 • 6d ago
+⬇️ 4,543 • ❤️ 781 • 6d ago
 
 ---
 
@@ -433,7 +427,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,703,400 • ❤️ 15,131 • 1mo ago
+⬇️ 7,703,400 • ❤️ 15,144 • 1mo ago
 
 ---
 
@@ -457,7 +451,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 819,784 • ❤️ 1,038 • 12d ago
+⬇️ 819,784 • ❤️ 1,048 • 12d ago
 
 ---
 
@@ -469,7 +463,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 5,186 • ❤️ 472 • 3d ago
+⬇️ 5,186 • ❤️ 473 • 3d ago
 
 ---
 
@@ -481,7 +475,7 @@ Spark-X2.5-4B is a 4B parameter text-generation model with a hybrid attention ar
 
 `text-generation` `4.1B`
 
-⬇️ 24,084 • ❤️ 1,171 • 19h ago
+⬇️ 24,084 • ❤️ 1,172 • 22h ago
 
 ---
 
@@ -493,7 +487,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,559,653 • ❤️ 3,867 • 13d ago
+⬇️ 1,559,653 • ❤️ 3,872 • 13d ago
 
 ---
 
@@ -507,7 +501,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 133 • 💬 6 • ⭐ 105,705 • 20mo ago
+▲ 134 • 💬 6 • ⭐ 105,705 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -573,7 +567,7 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.
 
-▲ 218 • 💬 3 • ⭐ 841 • 7d ago
+▲ 218 • 💬 3 • ⭐ 877 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.08936) • [💻 code](https://github.com/Tencent-Hunyuan/AuK) • [🔗 project](https://auk-project.github.io/)
 
@@ -600,7 +594,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 FreeToken is an edge-native Mixture-of-Experts serving system that dynamically maps computation and model state onto heterogeneous local hardware to run large open-weight models on personal machines.
 
-▲ 109 • 💬 2 • ⭐ 12,767 • 29d ago
+▲ 109 • 💬 2 • ⭐ 12,800 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.16157) • [💻 code](https://github.com/FlashML-org/FreeToken) • [🔗 project](https://www.flashml.ai/)
 
@@ -620,17 +614,15 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 ---
 
-**[VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction](https://huggingface.co/papers/2608.26005)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Zhifei Xie, Jiaqi Lang, Ze An et al. (10 authors)*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-🏢 Nanyang Technological University Singapore
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-VoiceMem introduces a dual-brain streaming memory architecture for speech language models that improves retrieval accuracy, emotional personalization, and real-time efficiency.
+▲ 41 • 💬 1 • ⭐ 32,472 • 35mo ago
 
-▲ 180 • 💬 2 • ⭐ 1,619 • 20d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.26005) • [💻 code](https://github.com/xzf-thu/VoiceMem) • [🔗 project](https://xzf-thu.github.io/VoiceMem/)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -644,7 +636,7 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 `TypeScript` `ag-ui` `agent-governance` `ai-agents` `browser-automation` `copilotkit`
 
-⭐ 4.9k • 🔱 620 • 3h ago
+⭐ 4.9k • 🔱 620 • 10m ago
 
 ---
 
@@ -664,7 +656,7 @@ Where agent teams gather. Cross-platform team chat where AI agents are first-cla
 
 `TypeScript`
 
-⭐ 3.6k • 🔱 464 • 23h ago
+⭐ 3.6k • 🔱 464 • 1d ago
 
 ---
 
@@ -684,7 +676,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 95 • 10h ago
+⭐ 2.4k • 🔱 95 • 12h ago
 
 ---
 
@@ -694,7 +686,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 2.3k • 🔱 163 • 15h ago
+⭐ 2.4k • 🔱 176 • 18h ago
 
 ---
 
@@ -724,7 +716,7 @@ Infrastructure for the next generation of voice agents, designed to provide univ
 
 `Python` `ai` `ai-agents` `ai-tools` `application` `audio-streaming`
 
-⭐ 1.6k • 🔱 115 • 16h ago
+⭐ 1.6k • 🔱 115 • 19h ago
 
 ---
 
@@ -734,7 +726,7 @@ Long-term memory runtime for AI agents — plain Markdown as the source of truth
 
 `Python` `agent-memory` `ai-agents` `claude-code` `codex` `llm`
 
-⭐ 1.4k • 🔱 86 • 11h ago
+⭐ 1.4k • 🔱 86 • 13h ago
 
 ---
 
