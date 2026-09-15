@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-15T17:12:28.027901+00:00'
+updated: '2026-09-15T20:22:56.732968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 15, 2026 at 17:12 UTC  
+**Last Updated:** September 15, 2026 at 20:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 1d ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 2d ago
 
 ---
 
@@ -112,6 +112,28 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+
+OregonLive.com • 3h ago
+
+---
+
+**[Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/)**
+
+Robots can start working outside physical cages and without safety barriers.
+
+Ars Technica • 1h ago
+
+---
+
+**[Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
+
+The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
+
+The Robot Report • 9h ago
+
+---
+
 **[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
 
 The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
@@ -120,51 +142,11 @@ The Conversation • 1d ago
 
 ---
 
-**[‘Robots building robots’: World’s 1st 10,000-unit-scale industrial humanoid robot smart factory starts production](https://www.globaltimes.cn/page/202609/1370528.shtml)**
-
-The world's first intelligent manufacturing facility for humanoid robots designed for 10,000-unit capacity has begun operating in Liuzhou, South China's Guangxi Zhuang Autonomous Region, UBTECH Robotics, China's humanoid robot developer, announced on Sunday, noting that the factory can roll out one industrial humanoid robot every 10 minutes.
-
-Global Times • 1d ago
-
----
-
-**[The Biggest Issues With Delivery Robots Are Exactly What You'd Think](https://www.engadget.com/2255845/delivery-robots-biggest-issues/)**
-
-Too often, delivery robots just don't understand the rules of the road (or sidewalk).
-
-Engadget • 1h ago
-
----
-
-**[Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
-
-The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
-
-The Robot Report • 6h ago
-
----
-
-**[Agility's new humanoid is supposed to stop before it gets too close to humans](https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9)**
-
-Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid.
-
-Business Insider • 3h ago
-
----
-
-**[Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety)**
-
-Agility Robotics’ latest is big enough, and safe enough, to do useful work
-
-IEEE Spectrum • 1h ago
-
----
-
 **[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
 
 Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
 
-Business Insider • 16h ago
+Business Insider • 19h ago
 
 ---
 
@@ -172,13 +154,23 @@ Business Insider • 16h ago
 
 AI robots can create many millionaires, but Tesla may not be the best way to play it.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Construction Robots Just Took A Giant Leap Forward: Hello Holy Grail Of Robotics](https://www.forbes.com/sites/johnkoetsier/2026/09/14/construction-robots-just-took-a-giant-leap-forward-hello-holy-grail-of-robotics/)**
+**[The Biggest Issues With Delivery Robots Are Exactly What You'd Think](https://www.engadget.com/2255845/delivery-robots-biggest-issues/)**
 
-Forbes • 22h ago
+Too often, delivery robots just don't understand the rules of the road (or sidewalk).
+
+Engadget • 4h ago
+
+---
+
+**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
+
+America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
+
+Baton Rouge Business Report • 1d ago
 
 ---
 
@@ -186,7 +178,15 @@ Forbes • 22h ago
 
 Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
 
-bbc.com • 11h ago
+BBC • 15h ago
+
+---
+
+**[Wonder debuts its robotic bowl maker](https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker)**
+
+The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain’s plans to automate more of its operations.
+
+Nation’s Restaurant News • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 79K • 👍 328 • 💬 74 • ⏱️ 3:39 • 6d ago
+👁️ 79K • 👍 331 • 💬 74 • ⏱️ 3:39 • 6d ago
 
 ---
 
@@ -220,7 +220,7 @@ Tesla Optimus is moving from a futuristic demo to a much bigger question: can a 
 
 📺 FutureTech Zone
 
-👁️ 75K • 👍 1K • 💬 188 • ⏱️ 0:25 • 4d ago
+👁️ 76K • 👍 1K • 💬 188 • ⏱️ 0:25 • 4d ago
 
 ---
 
@@ -230,7 +230,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 31K • 👍 515 • 💬 72 • ⏱️ 21:46 • 5d ago
+👁️ 31K • 👍 518 • 💬 72 • ⏱️ 21:46 • 5d ago
 
 ---
 
@@ -250,7 +250,7 @@ Chinese Engineering is bringing humanoid robotics into a surprisingly personal t
 
 📺 Expand Knowledge
 
-👁️ 84K • 👍 936 • 💬 79 • ⏱️ 26:26 • 5d ago
+👁️ 84K • 👍 945 • 💬 79 • ⏱️ 26:26 • 5d ago
 
 ---
 
@@ -260,7 +260,7 @@ China is testing a fascinating new approach to power-grid maintenance: a snake-s
 
 📺 Alchetron
 
-👁️ 4K • 👍 195 • 💬 4 • ⏱️ 0:22 • 8h ago
+👁️ 5K • 👍 226 • 💬 4 • ⏱️ 0:22 • 11h ago
 
 ---
 
@@ -270,7 +270,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 80K • 👍 2K • 💬 584 • ⏱️ 13:22 • 3d ago
+👁️ 81K • 👍 2K • 💬 587 • ⏱️ 13:22 • 4d ago
 
 ---
 
@@ -278,7 +278,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 John Casterline
 
-👁️ 461K • 👍 33K • 💬 737 • ⏱️ 0:31 • 13h ago
+👁️ 555K • 👍 40K • 💬 842 • ⏱️ 0:31 • 17h ago
 
 ---
 
@@ -288,7 +288,7 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 463K • 👍 4K • 💬 359 • ⏱️ 5:52 • 6d ago
+👁️ 465K • 👍 4K • 💬 359 • ⏱️ 5:52 • 6d ago
 
 ---
 
