@@ -9,7 +9,7 @@
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
       "hn_url": "https://news.ycombinator.com/item?id=49678683",
       "author": "xena",
-      "points": 796,
+      "points": 799,
       "num_comments": 450,
       "created_at": "2026-09-13T00:30:44Z",
       "object_id": "49678683",
@@ -23,7 +23,7 @@
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "hn_url": "https://news.ycombinator.com/item?id=49678969",
       "author": "jonifico",
-      "points": 643,
+      "points": 645,
       "num_comments": 682,
       "created_at": "2026-09-13T01:22:31Z",
       "object_id": "49678969",
@@ -51,8 +51,8 @@
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "hn_url": "https://news.ycombinator.com/item?id=49685253",
       "author": "TheJCDenton",
-      "points": 404,
-      "num_comments": 230,
+      "points": 405,
+      "num_comments": 233,
       "created_at": "2026-09-13T15:44:38Z",
       "object_id": "49685253",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
@@ -79,8 +79,8 @@
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "hn_url": "https://news.ycombinator.com/item?id=49695409",
       "author": "tosh",
-      "points": 215,
-      "num_comments": 151,
+      "points": 219,
+      "num_comments": 155,
       "created_at": "2026-09-14T12:01:32Z",
       "object_id": "49695409",
       "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
@@ -93,7 +93,7 @@
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "hn_url": "https://news.ycombinator.com/item?id=49690260",
       "author": "simonpure",
-      "points": 150,
+      "points": 152,
       "num_comments": 29,
       "created_at": "2026-09-14T00:22:51Z",
       "object_id": "49690260",
@@ -101,6 +101,20 @@
       "description": "How to get up to speed on open models and their implications.",
       "favicon": "https://substackcdn.com/image/fetch/$s_!FMpY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f0da424-dc5e-43bf-ae0d-56b947e43c23%2Fapple-touch-icon-57x57.png",
       "site_name": "interconnects.ai"
+    },
+    {
+      "title": "For AI leaders Doom is a form of hype",
+      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+      "hn_url": "https://news.ycombinator.com/item?id=49699384",
+      "author": "luk4",
+      "points": 124,
+      "num_comments": 170,
+      "created_at": "2026-09-14T16:15:05Z",
+      "object_id": "49699384",
+      "image": null,
+      "description": "Why AI doom rhetoric from Anthropic, OpenAI and other tech leaders functions as hype, regulatory strategy, and a distraction from present harms.",
+      "favicon": "https://erkansaka.net/favicon.ico",
+      "site_name": "Erkan's Field Diary"
     },
     {
       "title": "The worst spam emails: iLands AI agent hustle",
@@ -117,25 +131,11 @@
       "site_name": "Tedium: The Dull Side of the Internet."
     },
     {
-      "title": "For AI leaders Doom is a form of hype",
-      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
-      "hn_url": "https://news.ycombinator.com/item?id=49699384",
-      "author": "luk4",
-      "points": 122,
-      "num_comments": 167,
-      "created_at": "2026-09-14T16:15:05Z",
-      "object_id": "49699384",
-      "image": null,
-      "description": "Why AI doom rhetoric from Anthropic, OpenAI and other tech leaders functions as hype, regulatory strategy, and a distraction from present harms.",
-      "favicon": "https://erkansaka.net/favicon.ico",
-      "site_name": "Erkan's Field Diary"
-    },
-    {
       "title": "Big AI sets out its terms for regulatory capture",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
       "hn_url": "https://news.ycombinator.com/item?id=49694596",
       "author": "joebuckwilliams",
-      "points": 114,
+      "points": 116,
       "num_comments": 67,
       "created_at": "2026-09-14T10:28:28Z",
       "object_id": "49694596",
@@ -145,7 +145,7 @@
       "site_name": "theregister"
     }
   ],
-  "total_hits": 592,
+  "total_hits": 602,
   "has_metadata": true,
-  "fetched_at": "2026-09-14T22:38:47.963447+00:00"
+  "fetched_at": "2026-09-15T01:12:19.259209+00:00"
 }
