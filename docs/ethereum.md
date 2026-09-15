@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-15T06:29:12.304603+00:00'
+updated: '2026-09-15T12:02:01.942461+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 15, 2026 at 06:29 UTC  
+**Last Updated:** September 15, 2026 at 12:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +0.9%  
-**30d:** +30.1%  
-**90d:** +45.5%  
-**1y:** -44.7%  
+**24h:** -0.9%  
+**7d:** +0.4%  
+**30d:** +29.4%  
+**90d:** +44.8%  
+**1y:** -45.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $303.96B
+**Market Cap:** $302.17B
 Rank #2
 
 **Circulating Supply:** 122,050,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--49.7%
+-49.9%
 
 **All-Time Low:** $0.43
-+574999.5%
++571726.8%
 
 ---
 
@@ -134,7 +134,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi, 2017 i bought into the scam polybius bank. just a few days ago i got a mail to register myself for potential refunds. "polybiusrecovery"dotcom - but is this site legit? or is it just an idendity theft side? i am not sure. i dont mind giving them my mail adress and amount of pltb ( i bought it with ethereum) tho. not sure how it works, but if i register i shall give 1/3 of the refunded amount to the helpers. but do i even need them? so many questions
 
-4d ago
+5d ago
 
 ---
 
@@ -154,43 +154,45 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
 
-Coinpedia • 1h ago
+Coinpedia • 7h ago
 
 ---
 
-**[We Asked ChatGPT Whether Ethereum or Bitcoin Ends September Higher](https://247wallst.com/investing/cryptocurrency/2026/09/11/we-asked-chatgpt-whether-ethereum-or-bitcoin-ends-september-higher/)**
+**[Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html)**
 
-We asked ChatGPT whether Bitcoin or Ethereum finishes September higher. Here's its pick, the ETF data behind it, and our verdict.
+Bitcoin opened at $78,181.33 on Tuesday, September 15, 2026, 1.8% higher than Monday's opening price. Yet, as of 7:24 a.m. ET this morning, the price of bitcoin slid to $76,931.56. Ethereum opened at $2,515.17 today, up 1.6% from Monday's opening price. Ethereum fell to $2,480.37 as of 7:24 a.m. ET.
 
-24/7 Wall St. • 3d ago
-
----
-
-**[Ethereum Slides 3.1% -- Crypto Mover](https://www.moomoo.com/news/post/76256740/ethereum-slides-3-1-crypto-mover)**
-
-Moomoo • 1h ago
+Yahoo Finance • 24m ago
 
 ---
 
-**[Tom Lee's BMNR Adds 1 BTC, Expands ORBS Stake By $7M Amid Ethereum Buying Spree](https://finance.yahoo.com/markets/crypto/articles/tom-lees-bmnr-adds-1-160327214.html)**
+**[🚨𝗝𝗨𝗦𝗧 𝗜𝗡: ethereum:native drops below $2,500](https://www.moomoo.com/community/feed/ethereum-native-drops-below-2-500-117274375750437)**
 
-BitMine expanded its crypto and equity holdings while keeping its focus on building a 5% stake in Ethereum.
+@DustyBC Crypto 2821 Views
 
-Yahoo Finance • 14h ago
-
----
-
-**[Ethereum news: Bitmine (BMNR) bought $68M ETH as Tom Lee sees more upside ahead](https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead)**
-
-CoinDesk • 17h ago
+Moomoo • 2h ago
 
 ---
 
-**[Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026](https://www.tradingview.com/news/coinmarketcal:cf9c99704094b:0-lisk-chain-shutdown-requires-holders-to-bridge-funds-to-ethereum-31-oct-2026/)**
+**[SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum](https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum)**
 
-Lisk has confirmed that Lisk Chain shuts down, and users must bridge their funds to Ethereum before closure. Withdrawal takes about 8 days, with unstaking adding a 3-day waiting period, so a complete move can span roughly 11 days. The deadline applies to all LSK holders on the chain.This is a force…
+CoinDesk • 6h ago
 
-TradingView • 19h ago
+---
+
+**[Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)**
+
+Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
+
+The Block • 2h ago
+
+---
+
+**[Ethereum gets jittery ahead of CLARITY Act vote and Fed decision. What to watch next?](https://investinglive.com/cryptocurrency/ethereum-gets-jittery-ahead-of-clarity-act-vote-and-fed-decision-what-to-watch-next/)**
+
+Ethereum has shown resilience despite hotter US inflation, oil above $100 and a broader hawkish shift in monetary policy expectations. Optimism around today's…
+
+investingLive • 4h ago
 
 ---
 
@@ -198,7 +200,15 @@ TradingView • 19h ago
 
 Could the Clarity Act really become a super-catalyst for Ethereum?
 
-The Motley Fool • 16h ago
+The Motley Fool • 22h ago
+
+---
+
+**[Lisk: Chain Shutdown Requires Holders to Bridge Funds to Ethereum - 31 Oct 2026](https://www.tradingview.com/news/coinmarketcal:cf9c99704094b:0-lisk-chain-shutdown-requires-holders-to-bridge-funds-to-ethereum-31-oct-2026/)**
+
+Lisk has confirmed that Lisk Chain shuts down, and users must bridge their funds to Ethereum before closure. Withdrawal takes about 8 days, with unstaking adding a 3-day waiting period, so a complete move can span roughly 11 days. The deadline applies to all LSK holders on the chain.This is a force…
+
+TradingView • 1d ago
 
 ---
 
@@ -206,21 +216,15 @@ The Motley Fool • 16h ago
 
 Base’s split with Ethereum over account abstraction shows how market pressure is pushing L2s toward independent protocol choices.
 
-CryptoSlate • 3h ago
+CryptoSlate • 8h ago
 
 ---
 
-**[Current price of Ethereum for September 14, 2026](https://fortune.com/article/price-of-ethereum-09-14-2026/)**
+**[Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH](https://decrypt.co/378132/bitmine-adds-68-million-ethereum)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+The purchase brings Bitmine closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.
 
-Fortune • 17h ago
-
----
-
-**[Wintermute Builds $102M Crypto Short as Ethereum Leads Bearish Bets](https://www.ccn.com/news/crypto/wintermute-102m-crypto-shorts-ethereum/)**
-
-CCN.com • 17h ago
+Decrypt • 19h ago
 
 ---
 
@@ -228,13 +232,43 @@ CCN.com • 17h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 BTC &amp; ETH: RED ALERT!!!!](https://www.youtube.com/watch?v=UfA2L20fhxk)**
+
+Urgent news update on bitcoin, crypto, and the rest of the markets! Its not looking great! ---------- Join My FREE Trading Group ...
+
+📺 Thomas Kralow
+
+👁️ 1K • 👍 998 • 💬 19 • ⏱️ 8:58 • 1h ago
+
+---
+
+**[Ethereum Has TWO Votes In 24 Hours And I&#39;m Still Long!!](https://www.youtube.com/watch?v=VMQ32sFQJgw)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 88 • 👍 7 • 💬 82 • ⏱️ 5:11 • 1h ago
+
+---
+
 **[ITS HAPPENING... Watch BEFORE Tuesday (BMNR / ETH)](https://www.youtube.com/watch?v=A_4jzi6cxlI)**
 
 BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
 📺 Tevis
 
-👁️ 13K • 👍 375 • 💬 98 • ⏱️ 18:56 • 15h ago
+👁️ 15K • 👍 404 • 💬 111 • ⏱️ 18:56 • 21h ago
+
+---
+
+**[WILL ETH DUMP LOWER TODAY? (Ethereum Update)](https://www.youtube.com/watch?v=JLv1FmLQBmo)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 87 • 👍 8 • 💬 1 • ⏱️ 5:17 • 2h ago
 
 ---
 
@@ -244,7 +278,7 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 11K • 👍 196 • 💬 49 • ⏱️ 8:39 • 1d ago
+👁️ 11K • 👍 200 • 💬 49 • ⏱️ 8:39 • 1d ago
 
 ---
 
@@ -254,17 +288,7 @@ BITCOIN PUMP & DUMP (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoi
 
 📺 Crypto World
 
-👁️ 4K • 👍 210 • 💬 99 • ⏱️ 18:28 • 5h ago
-
----
-
-**[ETHEREUM… WTF IS WRONG WITH TOM LEE???](https://www.youtube.com/watch?v=Zq8szZ642wI)**
-
-AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
-
-📺 Lark Davis
-
-👁️ 33K • 👍 632 • 💬 101 • ⏱️ 7:35 • 2d ago
+👁️ 8K • 👍 256 • 💬 120 • ⏱️ 18:28 • 10h ago
 
 ---
 
@@ -274,27 +298,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 341 • 💬 20 • ⏱️ 15:15 • 1d ago
-
----
-
-**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
-
-CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Ethereum broke out above $2500 and traded as high as ...
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 277 • 💬 9 • ⏱️ 6:51 • 2d ago
-
----
-
-**[Bitcoin &amp; Ethereum, WARUM diese Woche EXTREM explosiv werden wird. Das musst du JETZT wissen](https://www.youtube.com/watch?v=Cg0xQPFOSvI)**
-
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
-
-📺 Krypto Trading & Investing
-
-👁️ 1K • 👍 333 • 💬 23 • ⏱️ 13:52 • 2h ago
+👁️ 13K • 👍 347 • 💬 20 • ⏱️ 15:15 • 1d ago
 
 ---
 
@@ -304,7 +308,17 @@ ETHEREUM IS GETTING READY TO ERUPT Learn More - MaxFi: https://www.Maxfi.tech/ M
 
 📺 Big Time Trades
 
-👁️ 6K • 👍 125 • 💬 25 • ⏱️ 21:47 • 2d ago
+👁️ 6K • 👍 126 • 💬 25 • ⏱️ 21:47 • 2d ago
+
+---
+
+**[🚨CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?!](https://www.youtube.com/watch?v=nqfqTIDfwiM)**
+
+CRAZY ETHEREUM WHALES ARE DUMPING BULLISH OR BEARISH?! Ethereum broke out above $2500 and traded as high as ...
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 278 • 💬 10 • ⏱️ 6:51 • 2d ago
 
 ---
 
@@ -314,17 +328,7 @@ THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.
 
 📺 Grow Rich Grow Happy
 
-👁️ 554 • 👍 56 • 💬 12 • ⏱️ 18:03 • 6h ago
-
----
-
-**[ETH Missed The Weekly Close And I Went LONG Anyway!!](https://www.youtube.com/watch?v=_DqJl9e9ZbE)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 799 • 👍 21 • 💬 37 • ⏱️ 5:16 • 21h ago
+👁️ 1K • 👍 64 • 💬 13 • ⏱️ 18:03 • 12h ago
 
 ---
 

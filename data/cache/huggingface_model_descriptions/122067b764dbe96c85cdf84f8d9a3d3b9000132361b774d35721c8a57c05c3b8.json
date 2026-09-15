@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-15T12:02:01.129021+00:00",
+  "data": "NeoHorse-1-4B is a 4B parameter causal language model fine-tuned from Qwen3.5-4B, specializing in agentic behavior, tool use, coding, and instruction following, serving as a prototype for recursive self-improvement.",
+  "model_id": "TokenRhythm/NeoHorse-1-4B"
+}
