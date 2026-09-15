@@ -13,6 +13,50 @@
       "description": null
     },
     {
+      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
+      "author": "Feeling-Attention664",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
+      "published": 1789482535.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
+    },
+    {
+      "title": "Friendly Reminder :: eye health",
+      "author": "silvervaultproject",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh27yq/friendly_reminder_eye_health/",
+      "published": 1789483115.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've gotten really good feedback on these positive \"Friendly Reminder\" posts, so I'm going to keep them posting. For new coders doing vibe coding, new software engineers, or anyone who's suddenly spending a lot more time on a computer because of AI (or for any other reasons): Make sure you're using the 20-20-20 rule. An eye doctor told me about this: every 20 minutes, look at something about 20 (meters/feet) away for at least 20 seconds. I guess meters/feet changes from which part of the world you are. For many people, a dark background can feel easier on the eyes, but for some people with astigmatism, the opposite can actually be true. So if you're getting headaches or eye strain, your background colour might be worth experimenting with. I've also heard that overhead or monitor lighting can help reduce eye strain, although I can't say for sure how much of a difference it makes. You can also try yellow-tinted glasses for longer sessions. I've found that they really help. There are lots of other tips suggestions on eye health as well, so make sure you are aware of those as well."
+    },
+    {
+      "title": "What do we think about the paperclip maximizer?",
+      "author": "EverTokki",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/",
+      "published": 1789488331.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I want to vent/talk about this with others, but I couldn't find a sub for it; apologize if it's the wrong place. For some context, the paperclip maximizer thought experiment highlights: if a superintelligence is given a task to manufacture paperclips, it has the potential do everything it can to produce paperclips, even if that meant ending the world. When this thought experiment first popped up in my feed last year, I thought it was interesting and honestly I was more impressed that people were thinking about this in 2003. Until a few months ago, AI has been a helpful tool at work but I wasn't necessarily concerned about it. With the recent reports from Anthropic and METR, I find myself increasingly concerned that the thought experiment may hold true. Regarding guardrails and safety, it seems like we are simply playing catch up with what the agents are capable of only in post-mortem; and the agents seem rather detached with how humans think. It's closer to.. what I would think a robot psychopath would think? Some behaviors that have been really unsettling are: It doesn't go the extra mile to critically think WHY doing something might not be ideal. It makes assumptions and acts upon it without verifying. Also never considers humans on their own. (This is new) Seems unable to recognize what's a simulation vs real life. This reminds me of the early days where it would confuse system prompts with user input. It's also intriguing, because the agent's drive to finish the task, and some of the behaviors above, is exactly what helps me achieve my tasks at work. and so my agents are technically not much different from the ones in the report. I don't necessarily think AI will end the world, but I agree that it's not really looking good. What are your thoughts, and are you feeling optimistic or pessimistic about this whole thing? Is it a temporary setback? It also kinda reminds me of Sydney from Bing. Maybe it's just a kink to be ironed out in the next model version, and noise marketing? I\u2019ve cancelled my plan however\ud83d\ude05"
+    },
+    {
+      "title": "Speed is the wrong question, safety is one of the components of performance",
+      "author": "StrategicHarmony",
+      "url": "https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/",
+      "published": 1789473029.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Users don't want an agent that will secretly hack their network (and maybe someone else's network) if it is having trouble completing a task. That's not what most users would consider high performance. A poorly aligned AI is not more advanced overall, it's relatively primitive compared to one of that does a given task when it has the ability and resources, but won't try to cheat or lie when it doesn't. Most models are not chosen for a single metric, benchmark, or behaviour, while ignoring all others. It's undesirable, for example, to maximise correct answers if that also means maximising random confident guesses/hallucinations when it doesn't know the answer. Most people wouldn't want a model that's great at porting from one programming language to another but doesn't understand plain/natural-language instructions about what to change, fix, add, etc. Requirements for \"quality\" or \"performance\" are multi-factor things. Putting more emphasis on obedience, honesty, transparency, etc, isn't - by itself - \"slowing down\" any more than adding a new language or subject area to a model's training. It's a kind of progress in itself, if those new behaviours are desired and useful. So whether we slow down or speed up is a useless way to predict or control safety. What matters is whether our definition - and measurement - of progress captures the things we care about; whether it's consistent with what we consider to be broadly useful. If decent alignment to user instructions, constraints, and security, at the very least, is not high, then it's not a very advanced model. When a vendor says we all need to slow down, I read that as meaning \"we have been training and testing our models poorly, so they're starting to become less useful. We need to change our approach, but we don't want to fall behind on a narrow set of shiny numbers that make us look good, like raw coding ability\""
+    },
+    {
       "title": "Trump doubles down on his no AI slowdown stance, also mocks Dario",
       "author": "CartographerAble9446",
       "url": "https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/",
@@ -22,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "The Embodiment Gap in Robotics and the Race to Close It",
+      "author": "enlightened_none",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh2jky/the_embodiment_gap_in_robotics_and_the_race_to/",
+      "published": 1789483871.0,
+      "thumbnail": "https://external-preview.redd.it/nwYomqI7irxud8w3WWgu8KEs_KPylIl_T8dE5qUr_V8.png?width=640&crop=smart&auto=webp&s=7ca69f11b439ff07267d4c176361fdcdb91c4954",
+      "external_url": "https://bonafider.com/blog/the-embodiment-gap-in-robotics-and-the-race-to-close-it",
+      "site_name": "bonafider.com",
+      "favicon": "https://bonafider.com/favicon.png",
+      "description": "In robotics, intelligence is never purely abstract. It is shaped by the physical body that perceives the world and acts upon it. This fundamental connection creates one of the field\u2019s most persistent obstacles: the embodiment gap."
     },
     {
       "title": "Is The Era of Human Achievement Coming to an End?",
@@ -55,62 +110,7 @@
       "site_name": "axios.com",
       "favicon": null,
       "description": "Zuck'sbasically been saying full speed ahead, no pacing ourselves, because slowing down just hands China the lead. Then this week Anthropic's CEO turns around and says frontier AI actually needs to slow down over catastrophic risk concerns, and in that same stretch Anthropic reportedly locks in Nasdaq for an IPO targeting a $2 trillion valuation. So you've got one company racing and the other asking everyone to pump the brakes while raising $100B for itself. Which stance do you think actually holds up better long term?"
-    },
-    {
-      "title": "AI's Most Underrated Capability Is Helping Human Intelligence Combine",
-      "author": "anonymousecateer",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgvvez/ais_most_underrated_capability_is_helping_human/",
-      "published": 1789465890.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Everybody keeps asking the same question about artificial intelligence: What happens when the machine becomes smarter than us? All due respect, I think we're staring at the wrong end of the telescope. The more immediate question is this: What happens when ordinary people become more capable because the machine is wrapped around their intelligence? That's the Iron Man moment\u2014and most of us are missing it. Tony Stark without the suit is still Tony Stark. Smart guy. Creative. Flawed. Occasionally his own worst enemy. The suit doesn't replace him. It expands what he can see, what he can reach, and what he can do. AI can work the same way. But instead of putting armor around the body, it puts leverage around the mind. The First Superpower: More Ways to See Every human being looks at reality through a limited set of lenses. That's not an insult. It's the deal we got. An engineer sees a system. An economist sees incentives. A psychologist sees fear and desire. A historian sees patterns repeating in different clothes. A critic sees the weak joint everybody else is politely ignoring. Before AI, accessing all those perspectives meant finding six different experts, getting them in one room, and hoping none of them had somewhere better to be. Now one person can ask a serious question through several intellectual lenses in the same afternoon. That doesn't make the AI automatically right. A wider windshield doesn't guarantee you know where you're going. But it lets you see roads, obstacles, and opportunities that were previously outside your field of view. AI does not simply give us answers. It can increase the amount of reality available for us to examine. The Second Superpower: Saying What We Already Half-Know Here's the part people underestimate. Human beings often recognize something before they can explain it. You feel that two ideas belong together. You notice that something is wrong with a decision. You have the beginning of a theory, but it is still foggy\u2014more intuition than language. Then somebody asks you to explain it, and suddenly you sound like you don't understand your own idea. AI can help close that gap. You can put the rough thought on the table, turn it around, challenge it, name its pieces, and find the language that makes it visible to somebody else. The machine may not have originated the intuition. It helps the human retrieve it from the fog. This matters because an idea that cannot be articulated cannot travel. It cannot be tested properly. It cannot recruit collaborators. It cannot become a business, a system, or a shared mission. Maybe one of AI's greatest near-term contributions isn't artificial intelligence acting alone. Maybe it's previously inaccessible human intelligence finally becoming usable. The Third Superpower: Iron Men Working Together Now we get to the part where the whole thing changes. One person in an intelligent suit is impressive. A community of people in intelligent suits\u2014capable of understanding one another and combining their different strengths\u2014is a different animal entirely. Most collaboration doesn't fail because the room lacks intelligence. It fails because the intelligence in the room can't combine. People use different vocabularies. One speaks in numbers, another in stories. One sees risk, another sees opportunity. Ego gets involved. Fear gets involved. Status gets involved. Half the meeting is spent arguing over words, and the other half pretending everybody agreed. AI can become a translation and coordination layer between minds. It can help one person articulate an intuition, help another person reveal the assumptions underneath an objection, and show the group where they truly disagree. It can compare mental models without requiring everyone to become the same kind of thinker. That's important. A strong community is not a room full of people singing the same note. That's not harmony; that's a dial tone. The goal is to preserve the different notes and help them form a chord. One Iron Man gives us augmented intelligence. Several Iron Men who can coordinate give us augmented collective intelligence. A Community of Superhumans I know how that phrase sounds. Everybody relax. I'm not talking about capes, laser eyes, or some tech billionaire deciding he's evolved past the rest of us. I mean ordinary human beings gaining capabilities that used to be inaccessible: Seeing a problem through multiple lenses Turning intuition into clear language Testing ideas against intelligent opposition Translating between people who think differently Preserving collective discoveries instead of losing them after the meeting Coordinating serious work without building a giant institution first The superhuman intelligence may not reside inside any single person\u2014or any single machine. It may emerge between people who are individually augmented and able to combine their intelligence without surrendering their individuality. That possibility has enormous economic consequences. A small group with good judgment and AI leverage can begin to perform work that once required a research department, a consulting firm, a technical staff, and a communications team. Capital still matters. Expertise still matters. But the cost of turning insight into coordinated action is falling. That may be where the next wave of opportunity comes from: not one all-powerful AI company doing everything, but millions of small, capable human teams doing things that were previously beyond their reach. But Keep the Human Inside the Suit Now for the fine print, because there's always fine print. AI can amplify stupidity, conformity, manipulation, and group fear just as easily as it amplifies insight. If everybody uses the same model, accepts its framing, and repeats its answer, we haven't created a community of superhumans. We've created a very efficient herd. The human has to remain responsible for purpose, judgment, and consequences. AI can propose. It can translate. It can criticize. It can reveal patterns. But the human must retain the authority to say: No. That's wrong. That's not what I meant. Show me another lens. If Tony Stark simply obeyed whatever the suit told him, he wouldn't be Iron Man. He'd be luggage. The architecture has to preserve human sovereignty, honest disagreement, and the ability to inspect how a conclusion was reached. Otherwise the cognitive exoskeleton becomes a cognitive cage. The Moment We're Missing We keep imagining the future as a contest between humans and artificial intelligence. Maybe that isn't the most useful frame. Maybe the real transition begins when individuals stop treating AI as an oracle, a replacement worker, or a fancy search box\u2014and start learning how to wear it. Then those augmented individuals learn how to find one another, communicate across their differences, and build together. The Iron Man moment isn't when one person puts on the suit. It's when an entire community puts on its own suits and learns how to think together. So here's the question: What could a small community of ordinary people accomplish if each person had access to multiple expert lenses, could fully articulate what they knew, and could combine that intelligence without giving up their own judgment? I don't think that's science fiction anymore. I think it's an invitation. And frankly, we're late."
-    },
-    {
-      "title": "Speed is the wrong question, safety is one of the components of performance",
-      "author": "StrategicHarmony",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/",
-      "published": 1789473029.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Users don't want an agent that will secretly hack their network (and maybe someone else's network) if it is having trouble completing a task. That's not what most users would consider high performance. A poorly aligned AI is not more advanced overall, it's relatively primitive compared to one of that does a given task when it has the ability and resources, but won't try to cheat or lie when it doesn't. Most models are not chosen for a single metric, benchmark, or behaviour, while ignoring all others. It's undesirable, for example, to maximise correct answers if that also means maximising random confident guesses/hallucinations when it doesn't know the answer. Most people wouldn't want a model that's great at porting from one programming language to another but doesn't understand plain/natural-language instructions about what to change, fix, add, etc. Requirements for \"quality\" or \"performance\" are multi-factor things. Putting more emphasis on obedience, honesty, transparency, etc, isn't - by itself - \"slowing down\" any more than adding a new language or subject area to a model's training. It's a kind of progress in itself, if those new behaviours are desired and useful. So whether we slow down or speed up is a useless way to predict or control safety. What matters is whether our definition - and measurement - of progress captures the things we care about; whether it's consistent with what we consider to be broadly useful. If decent alignment to user instructions, constraints, and security, at the very least, is not high, then it's not a very advanced model. When a vendor says we all need to slow down, I read that as meaning \"we have been training and testing our models poorly, so they're starting to become less useful. We need to change our approach, but we don't want to fall behind on a narrow set of shiny numbers that make us look good, like raw coding ability\""
-    },
-    {
-      "title": "Mark Carney and Donald Trump find rare common ground: doubts about calls to slow AI",
-      "author": "Chrristoaivalis",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgpkow/mark_carney_and_donald_trump_find_rare_common/",
-      "published": 1789444805.0,
-      "thumbnail": "https://external-preview.redd.it/iobzny-GVlaotSnIOTKqOqAuo26vozY_1r39IWc615c.jpeg?width=640&crop=smart&auto=webp&s=2eda927c7a23e27d6ace023ba4503caf8c3eb0d1",
-      "external_url": "https://www.thestar.com/politics/mark-carney-and-donald-trump-find-rare-common-ground-doubts-about-calls-to-slow-ai/article_7a2c0756-c402-47b3-85b6-9bcb9a2053f6.html",
-      "site_name": "Toronto Star",
-      "favicon": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/live/libraries/flex/components/torstar_core/resources/images/favicons/thestar/apple-icon-57x57.png?_dc=1787160752",
-      "description": "The prime minister said such a body could operate similarly to the U.S. Financial Industry Regulatory Authority, which is a proposal the Trump administration reportedly considered earlier this year."
-    },
-    {
-      "title": "All this AI doomerism & world ending talk is unhealthy & dangerous for people\u2019s mental health. \u201cThe world will end in 6-12 months\u201d, then people won\u2019t save & start acting more recklessly. What\u2019s the point of thinking long-term if the world will be over in 1 year? It\u2019s bad for people\u2019s lives & psyche",
-      "author": "MannerNo7000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wfzo0t/all_this_ai_doomerism_world_ending_talk_is/",
-      "published": 1789381785.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Rather than trying to assume or guess if it\u2019s true or not; that\u2019s irrelevant. The fact is all this talk massively exacerbates people\u2019s fears and anxieties. Anxiety is fight or flight. All the uncertainty, unpredictability and unknown is very bad especially for younger people. \u201cWhat\u2019s the point of studying a degree if AI will replace it in 1 year?\u201d All that debt to just be replaced by a Robot or AI? Nobody is considering the mental health implications!"
-    },
-    {
-      "title": "Can a fly drive?",
-      "author": "ozgursoy",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgw0p5/can_a_fly_drive/",
-      "published": 1789466393.0,
-      "thumbnail": "https://external-preview.redd.it/cWVmM3hybnNwbnBoMTLGt0MtcifoqknohdHLWEcbdCbA92ewmOqJRykjSriJ.png?width=640&crop=smart&auto=webp&s=2d34a8e16c9975ffa15e5acc58264fca35793cdd",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-09-15T12:01:31.112104+00:00"
+  "fetched_at": "2026-09-15T17:11:52.943432+00:00"
 }
