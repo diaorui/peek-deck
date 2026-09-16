@@ -37,8 +37,8 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "hn_url": "https://news.ycombinator.com/item?id=49706223",
       "author": "throwworhtthrow",
-      "points": 223,
-      "num_comments": 134,
+      "points": 225,
+      "num_comments": 135,
       "created_at": "2026-09-15T00:40:14Z",
       "object_id": "49706223",
       "image": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
@@ -51,8 +51,8 @@
       "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
       "hn_url": "https://news.ycombinator.com/item?id=49715113",
       "author": "pavel_lishin",
-      "points": 219,
-      "num_comments": 159,
+      "points": 224,
+      "num_comments": 162,
       "created_at": "2026-09-15T16:38:45Z",
       "object_id": "49715113",
       "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
@@ -75,11 +75,25 @@
       "site_name": "interconnects.ai"
     },
     {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "hn_url": "https://news.ycombinator.com/item?id=49723408",
+      "author": "vertigoruntime",
+      "points": 152,
+      "num_comments": 39,
+      "created_at": "2026-09-16T08:08:57Z",
+      "object_id": "49723408",
+      "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
+      "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
+      "favicon": "https://mistral.ai/favicon.ico",
+      "site_name": "Mistral"
+    },
+    {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
       "hn_url": "https://news.ycombinator.com/item?id=49697477",
       "author": "nathannaveen",
-      "points": 150,
+      "points": 152,
       "num_comments": 29,
       "created_at": "2026-09-14T14:29:23Z",
       "object_id": "49697477",
@@ -108,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49694596",
       "author": "joebuckwilliams",
       "points": 119,
-      "num_comments": 70,
+      "num_comments": 71,
       "created_at": "2026-09-14T10:28:28Z",
       "object_id": "49694596",
       "image": "https://image.theregister.com/262625.jpg?imageId=262625&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
@@ -129,23 +143,9 @@
       "description": "Adversarial attire can\u2019t stop AI cameras, but can disrupt them",
       "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
       "site_name": "IEEE Spectrum"
-    },
-    {
-      "title": "Cartesian \u2013 AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "hn_url": "https://news.ycombinator.com/item?id=49713999",
-      "author": "eustoria",
-      "points": 106,
-      "num_comments": 78,
-      "created_at": "2026-09-15T15:26:45Z",
-      "object_id": "49713999",
-      "image": "https://www.formas.ai/cartesian/assets/restaurant-one-point-final.webp",
-      "description": "Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.",
-      "favicon": "https://www.formas.ai/cartesian/assets/cartesian-apple-touch-icon.png?v=1",
-      "site_name": "formas.ai"
     }
   ],
-  "total_hits": 703,
+  "total_hits": 718,
   "has_metadata": true,
-  "fetched_at": "2026-09-16T07:19:18.891719+00:00"
+  "fetched_at": "2026-09-16T12:43:28.592389+00:00"
 }

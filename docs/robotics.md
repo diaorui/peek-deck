@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-16T07:19:48.480150+00:00'
+updated: '2026-09-16T12:44:03.063743+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 16, 2026 at 07:19 UTC  
+**Last Updated:** September 16, 2026 at 12:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-1d ago
+2d ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon 
 
 https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
-2d ago
+3d ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 1d ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 2d ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -112,6 +112,22 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/)**
+
+Robots can start working outside physical cages and without safety barriers.
+
+Ars Technica • 18h ago
+
+---
+
+**[Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
+
+The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
+
+The Robot Report • 1d ago
+
+---
+
 **[Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety)**
 
 Agility Robotics’ latest is big enough, and safe enough, to do useful work
@@ -120,65 +136,39 @@ IEEE Spectrum • 2d ago
 
 ---
 
+**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+
+OregonLive.com • 19h ago
+
+---
+
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
+**[Agility's new humanoid is supposed to stop before it gets too close to humans](https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9)**
 
-The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
+Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid.
 
-The Robot Report • 20h ago
-
----
-
-**[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
-
-The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
-
-theconversation.com • 1d ago
+Business Insider • 23h ago
 
 ---
 
-**[Delivery robots’ presence expands in Arlington amid regionwide shift](https://www.arlnow.com/2026/09/15/delivery-robots-presence-expands-in-arlington-amid-regionwide-shift/)**
+**[Meet Digit 5: Agility Robotics’ humanoid built to work with people](https://interestingengineering.com/videos/meet-digit-5-agility-robotics-humanoid-built-to-work-with-people)**
 
-Roaming fleets of delivery robots have been expanding throughout the D.C. area in recent months, including in Arlington. In the three months since the company Avride began having robots carry Uber Eats orders in Arlington, the company says it has added more bots in response to market demand. The company declined to disclose how many
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required by earlier models.
 
-ARLnow • 18h ago
-
----
-
-**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
-
-Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
-
-Business Insider • 1d ago
+Interesting Engineering • 1h ago
 
 ---
 
-**[I’m a female founder with a liberal arts degree and my company has raised $280 million. You don’t need a PhD to build a robotics startup](https://fortune.com/2026/09/16/robotics-needs-more-women-and-nontraditional-talent/)**
+**[Iron Man-like ceiling-mounted robotic arms for house chores unveiled](https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms)**
 
-Robotics needs to broaden its pitch beyond hardware to attract women and other talent drawn to solving real-world problems.
+MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
 
-Fortune • 19m ago
-
----
-
-**[3 AI Robotics Stocks Worth Owning Over Tesla Right Now](https://finance.yahoo.com/markets/stocks/articles/3-ai-robotics-stocks-worth-043500684.html)**
-
-AI robots can create many millionaires, but Tesla may not be the best way to play it.
-
-finance.yahoo.com • 1d ago
-
----
-
-**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
-
-America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
-
-Baton Rouge Business Report • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -190,35 +180,35 @@ Nation’s Restaurant News • 1d ago
 
 ---
 
+**[XPeng Shares Fall to Lowest Since October 2024 Despite Robotics Push](https://eletric-vehicles.com/xpeng/xpeng-shares-fall-to-lowest-since-october-2024-despite-robotics-push/)**
+
+XPeng's US-listed shares fell to their lowest level since October 2024 on Tuesday, two days before the Chinese carmaker launches the second of its two flagship SUVs and three weeks after investors valued its robotics arm at more than $6.3 billion.
+
+eletric-vehicles.com • 19h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
 
-In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
 
-📺 Gain Theory
+📺 The AI Nexus
 
-👁️ 97K • 👍 959 • 💬 44 • ⏱️ 21:36 • 6d ago
-
----
-
-**[Robots in Poland ‘protest’ against AI](https://www.youtube.com/watch?v=Dl90C7JZDcM)**
-
-Robots in Poland "protested" outside the Digital Affairs Ministry on Monday, demanding greater regulation of AI, as organizers ...
-
-📺 CNN
-
-👁️ 94K • 👍 3K • 💬 200 • ⏱️ 0:39 • 4d ago
+👁️ 22K • 👍 294 • 💬 18 • ⏱️ 24:48 • 4d ago
 
 ---
 
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=QZK2e-TZarA)**
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
 
-📺 SNeuroRobotics
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
-👁️ 13K • 👍 418 • 💬 18 • ⏱️ 0:08 • 4d ago
+📺 Blakwoodz
+
+👁️ 84K • 👍 2K • 💬 594 • ⏱️ 13:22 • 4d ago
 
 ---
 
@@ -228,25 +218,7 @@ XPENG has reached a major milestone with its humanoid robot as the company confi
 
 📺 DPCcars
 
-👁️ 82K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
-
----
-
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=GSBANiWbmOs)**
-
-📺 SNeuroRobotics
-
-👁️ 36K • 👍 271 • 💬 3 • ⏱️ 0:12 • 6d ago
-
----
-
-**[Humanoid Robots Marathon In Beijing China #humanoidrobot #robot #robotics #robotgame #technology](https://www.youtube.com/watch?v=Zc38ziE4ilA)**
-
-Humanoid Robot marathon in Beijing China. it's so impressive that robots can run marathons so well.
-
-📺 Code by Nadiia
-
-👁️ 35K • 👍 215 • 💬 6 • ⏱️ 0:15 • 5d ago
+👁️ 83K • 👍 335 • 💬 75 • ⏱️ 3:39 • 6d ago
 
 ---
 
@@ -260,31 +232,63 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[13 BIOBUZZ Robot Reveals | Robot in 30 Hours | FIRST Tech Challenge](https://www.youtube.com/watch?v=9kbtAI-P6iM)**
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
 
-13 BIOBUZZ Robot Reveals | Robot in 30 Hours | FIRST Tech Challenge Check out these 13 quick build Robot in 30 Hours ...
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
 
-📺 FUN Robotics Network
+📺 Cleo Abram
 
-👁️ 12K • 👍 107 • 💬 9 • ⏱️ 1:14:31 • 1d ago
-
----
-
-**[Future of Umrah Transport: AI Robot Serving Pilgrims 🚌✨ #shorts](https://www.youtube.com/watch?v=YMiAeyw07mA)**
-
-Experience the future of Umrah transport in Makkah! Inside a modern pilgrim bus heading to Masjid al-Haram, a futuristic AI ...
-
-📺 RoboElite
-
-👁️ 319K • 👍 5K • 💬 6 • ⏱️ 0:11 • 5d ago
+👁️ 270K • 👍 15K • 💬 381 • ⏱️ 0:37 • 1d ago
 
 ---
 
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=ELxs0W-MPjc)**
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
 
-📺 SNeuroRobotics
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
 
-👁️ 30K • 👍 232 • 💬 4 • ⏱️ 0:10 • 6d ago
+📺 FutureTech Zone
+
+👁️ 80K • 👍 1K • 💬 211 • ⏱️ 0:25 • 5d ago
+
+---
+
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+
+📺 PRO ROBOTS
+
+👁️ 32K • 👍 535 • 💬 73 • ⏱️ 21:46 • 5d ago
+
+---
+
+**[hiding in goated robotics to see if anyone notices #first  #ftc  #robotics](https://www.youtube.com/watch?v=Gh9DC-Re-C0)**
+
+do you think anyone noticed?
+
+📺 Solar Flare FTC
+
+👁️ 4K • 👍 293 • 💬 3 • ⏱️ 0:19 • 13h ago
+
+---
+
+**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
+
+Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
+
+📺 Unseen Vault
+
+👁️ 211K • 👍 6K • 💬 310 • ⏱️ 33:11 • 3d ago
+
+---
+
+**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
+
+In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
+
+📺 Steven Ndukwu
+
+👁️ 413K • 👍 5K • 💬 630 • ⏱️ 27:23 • 3d ago
 
 ---
 

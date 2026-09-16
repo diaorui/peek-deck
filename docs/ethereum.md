@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-16T07:19:48.476989+00:00'
+updated: '2026-09-16T12:44:03.060933+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 16, 2026 at 07:19 UTC  
+**Last Updated:** September 16, 2026 at 12:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,402.96
+### $2,395.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
+**24h:** -1.9%  
 **7d:** -1.5%  
 **30d:** +25.3%  
 **90d:** +40.3%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $293.17B
+**Market Cap:** $293.60B
 Rank #2
 
 **Circulating Supply:** 122,053,083 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.4%
 
 **All-Time Low:** $0.43
-+554446.5%
++555596.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is one thing that would make Ethereum meaningfully safer? The ETHSecurity Initiatives Round aims to answer that question and fund the best answers. The round is live starting today at initiatives.thedao.fund, with several initiatives on it already and room for a hundred more. In our first funding round, more than 20 ecosystem funders and 3,934 donors joined us, and together we put over $1.6M into diverse Ethereum security projects. To date, we've coordinated the funding of over 1,000 ETH...
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 14h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 19h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NOTICE: This AMA will open on 16 September at 1400 UTC! Have a question you'd like answered then? Post below today! Members of the Protocol Cluster at Ethereum Foundation are back to answer your questions throughout the day! This is their 15th AMA. There are a lot of members taking part, so keep the questions coming, and enjoy! Oh! And to make it easier for us to respond to everyone, please post just one question per comment. Prior AMAs: #14, Aug 2025 #13, Feb 2025 #12, Sep 2024 #11, Jan 2024 #10, Jul 2023 #9, Jan 2023 #8, Jul 2022 #7, Jan 2022 #6, Jun 2021 #5, Nov 2020 #4, Jul 2020 #3, Feb 2020 #2, Jul 2019 #1, Jan 2019
 
-2d ago
+3d ago
 
 ---
 
@@ -152,7 +152,15 @@ Frame transactions added as Hegotá upgrade headliner, Nomic Foundation slang-so
 
 **[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
-Forbes • 12h ago
+Forbes • 17h ago
+
+---
+
+**[XRP Price Could Hit $89.52 Under Viral 306% Ethereum Forecast — Is It Likely?](https://finance.yahoo.com/markets/crypto/articles/xrp-price-could-hit-89-134715433.html)**
+
+Crypto analyst Dark Defender’s chart projects XRP rising 306% against Ethereum, not gaining 306% in dollar terms. The target would value XRP at approximately $5.62 ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -160,23 +168,29 @@ Forbes • 12h ago
 
 Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act’s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do…
 
-TradingView • 5h ago
+TradingView • 10h ago
 
 ---
 
-**[Will Bitcoin, Ethereum and XRP Prices Rally if the CLARITY Act Passes on September 15?](https://coinpedia.org/news/will-bitcoin-ethereum-and-xrp-prices-rally-if-the-clarity-act-passes-on-september-15/)**
+**[Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html)**
 
-Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
+Bitcoin opened at $75,586.51 on Wednesday, September 16, 2026, 3.3% lower than Tuesday's opening price. As of 7:12 a.m. ET this morning, the price of bitcoin moved higher to $75,885.53. Ethereum opened at $2,397.64 today, down 4.6% from Tuesday's opening price. The price of ethereum moved up to $2,404.43 as of 7:12 a.m. ET.
 
-coinpedia.org • 18h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum ETFs Bleed $592 Million as Clarity Act Fails in Senate](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-bleed-592-062413032.html)**
+**[SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum](https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum)**
 
-Bitcoin and Ethereum ETFs lost $591.8 million on September 15, posting their deepest single-day outflows in months.
+CoinDesk • 1d ago
 
-finance.yahoo.com • 55m ago
+---
+
+**[Current price of Ethereum for Sept. 16, 2026](https://fortune.com/article/price-of-ethereum-09-16-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1h ago
 
 ---
 
@@ -188,17 +202,11 @@ The Block • 1d ago
 
 ---
 
-**[SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum](https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum)**
+**[$350M in Ethereum exits exchanges as Q4 battle with Bitcoin begins](https://ambcrypto.com/350m-in-ethereum-exits-exchanges-as-q4-battle-with-bitcoin-begins/)**
 
-CoinDesk • 1d ago
+Ethereum is entering Q4 with tighter supply, record staking, and rising accumulation, strengthening its case for a divergence from historical trends.
 
----
-
-**[Current price of Ethereum for Sept. 15, 2026](https://fortune.com/article/price-of-ethereum-09-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -206,15 +214,7 @@ Fortune • 16h ago
 
 Bitmine Immersion Technologies (NYSE: $BMNR) bought another 27,180 Ethereum (CRYPTO: $ETH) over the pas...
 
-finance.yahoo.com • 1d ago
-
----
-
-**[Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.](https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/)**
-
-Could the Clarity Act really become a super-catalyst for Ethereum?
-
-The Motley Fool • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -228,13 +228,13 @@ CoinDesk • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IN-iJntTt_8)**
+**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
 
-BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
 
-📺 Crypto World
+📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 221 • 💬 44 • ⏱️ 24:14 • 5h ago
+👁️ 2K • 👍 535 • 💬 119 • ⏱️ 13:54 • 1h ago
 
 ---
 
@@ -244,7 +244,7 @@ Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact
 
 📺 Fox Business
 
-👁️ 53K • 👍 364 • 💬 156 • ⏱️ 3:26 • 11h ago
+👁️ 59K • 👍 383 • 💬 195 • ⏱️ 3:26 • 16h ago
 
 ---
 
@@ -254,7 +254,17 @@ Urgent news update on bitcoin, crypto, and the rest of the markets! Its not look
 
 📺 Thomas Kralow
 
-👁️ 14K • 👍 1K • 💬 25 • ⏱️ 8:58 • 20h ago
+👁️ 14K • 👍 1K • 💬 25 • ⏱️ 8:58 • 1d ago
+
+---
+
+**[BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IN-iJntTt_8)**
+
+BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 12K • 👍 285 • 💬 122 • ⏱️ 24:14 • 10h ago
 
 ---
 
@@ -264,7 +274,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 17K • 👍 428 • 💬 146 • ⏱️ 18:56 • 1d ago
+👁️ 17K • 👍 428 • 💬 145 • ⏱️ 18:56 • 1d ago
+
+---
+
+**[WILL ETH BREAKDOWN TODAY? (Ethereum Update)](https://www.youtube.com/watch?v=dLiCgojcZKI)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 112 • 👍 14 • 💬 1 • ⏱️ 4:52 • 4h ago
 
 ---
 
@@ -274,7 +294,7 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 14K • 👍 228 • 💬 50 • ⏱️ 8:39 • 2d ago
+👁️ 15K • 👍 234 • 💬 50 • ⏱️ 8:39 • 2d ago
 
 ---
 
@@ -284,7 +304,7 @@ Bitcoin, Ethereum and XRP: breakout or another backtest? In this September 15 ma
 
 📺 YaBoySkey
 
-👁️ 306 • 👍 31 • 💬 3 • ⏱️ 17:42 • 7h ago
+👁️ 1K • 👍 33 • 💬 3 • ⏱️ 17:42 • 12h ago
 
 ---
 
@@ -294,7 +314,7 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 📺 More Crypto Online
 
-👁️ 14K • 👍 351 • 💬 21 • ⏱️ 15:15 • 2d ago
+👁️ 15K • 👍 355 • 💬 21 • ⏱️ 15:15 • 2d ago
 
 ---
 
@@ -304,27 +324,7 @@ I haven't been this bullish on crypto since 2020, and it mostly comes down to Et
 
 📺 Crypto Archie
 
-👁️ 497 • 👍 17 • ⏱️ 0:53 • 17h ago
-
----
-
-**[This Ethereum Structure Could Signal a Historic Entry Setup](https://www.youtube.com/watch?v=YVQzB4x0_MA)**
-
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 1K • 👍 12 • 💬 4 • ⏱️ 4:45 • 12h ago
-
----
-
-**[Warum Ethereum JETZT explodieren könnte!](https://www.youtube.com/watch?v=4tUZUSMTVw8)**
-
-Jetzt gratis sichern → https://premium.blockchain-investor.de/store Die neue „Blockchain-Investor“-App – mit exklusiven ...
-
-📺 Krypto Report
-
-👁️ 7K • 👍 366 • 💬 14 • ⏱️ 16:55 • 15h ago
+👁️ 594 • 👍 21 • ⏱️ 0:53 • 22h ago
 
 ---
 
