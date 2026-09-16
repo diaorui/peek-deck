@@ -5,94 +5,34 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
-      "pub_date": 1789520360.0,
-      "article_url": "https://www.bbc.com/news/articles/cqx2zpj4y525o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
-    },
-    {
-      "headline": "Could AI really wipe out humanity \u2013 six experts spell out the risks",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
-      "pub_date": 1789505700.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
-      "image": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69476f847904bcbde87e677efb585076",
-      "description": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI development"
-    },
-    {
-      "headline": "Microsoft Publishes Draft Document Outlining Rules for AI Training",
-      "source": "80 Level",
-      "source_url": "https://80.lv",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1FVeEt3Rk40U05jd0w1STMzNWhPQ0tJbjBKNUo2TUdDZkpfRUVyaGw2U2pNWThLMmllSUVqSjlEdEVTaE40QXY0M2FKVXNOLVhKaWU2TEtGUE9sSnRPc2ViWlUxbG1WcjB1UDZablVqamFmRXdBNXlmT2NDNFNYUWVqcUdLeHFaYm1IdjFKMEQwRTA?oc=5",
-      "pub_date": 1789542376.0,
-      "article_url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training",
-      "image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
-      "description": "You can participate in crafting it by giving feedback."
-    },
-    {
-      "headline": "Watch: Why is Donald Trump so opposed to regulating AI?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcFNzYjNhc2l3M19SaGpRWGFwS3ozS3k2TW0yLVEtT0RYNjJKOTdJa2dNV3oyRDhzdnRCQnVoQkJaSFlmdlJ2TWNxS2Z6bTRUTmlPamhCMlQ?oc=5",
-      "pub_date": 1789504500.0,
-      "article_url": "https://www.bbc.com/news/videos/cmvgyp7n98zvo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5cad/live/cc1f3b00-b143-11f1-a430-4d16ee157c41.jpg",
-      "description": "The BBC's North America editor Sarah Smith looks at why the US president is contradicting AI leaders, who are calling for the technology's development to be slowed down."
-    },
-    {
-      "headline": "Trump Has Few Good Options To Slow China's Rise As AI Superpower",
-      "source": "NDTV",
-      "source_url": "https://www.ndtv.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2RaZmh0bkViZ2ZWY0hrX1BsWHU5Tl9fRWM0cWY1WWJVeGYxMzJWaWhRZ1BkUEdfUFpmR0p1Q0p5YjR1VlRERXRVRHBJemctZ09KRXZ6bm1kTlBtel9ncmlyZ214M2NDMkxYaDlqUWFJdldBUmNZMGpiMnFwc0JDYkZWR3pvYUFYdlZvVHRiSDl4RGNRdWNPTDFJZmhIUFFXTUZhbnVwZ9IBrwFBVV95cUxOeUUybmEtQ2swcGtjcjhkb3VheFhacTdrY1RnTld1ZXMtRHV6dGxhTDI3UDJvWWVVVHpMOU5CXzFPWFFsSHB4Y1ROWURQbU1oUU9pVVdqVzRVaGljRVhyQW56Wm03bENUaFhkR2dadGVYVFhpRmlzRF80bHZzbnVDU3AwWFBCakFjak9ZUVI3YkZwZ0VzOGlxem5vTGl1VmRkZ1R4c2hfTmRnWTQ4dkx3?oc=5",
-      "pub_date": 1789536276.0,
-      "article_url": "https://www.ndtv.com/world-news/trump-has-few-good-options-to-slow-chinas-rise-as-ai-superpower-12052761",
-      "image": "https://c.ndtvimg.com/2026-09/efa67c6k_trump_625x300_16_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "description": "China has continuously narrowed the gap with the US on AI despite the restrictions, as Xi pours money into becoming self-sufficient on the entire tech stack."
-    },
-    {
-      "headline": "What Trump\u2019s Bizarre Posts Are Teaching Us About AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWxVZzA2eWxDQkhPUV9UN2NmTXJ0bmlDcXczT3Z5SGJpeDRXakxONlBkQlNZUFBQNlJtc09YekJBdWFuMTFCY3NSdDdpckFsb1ZCZWVPT3M3Mzg2bm5PdXY5a1Q0Mms5am9NeGtBSlhEWkNELVVNTVlqNDQwQ25TT0Z1RjRnWEpkWEpNV2hrMGlPR0E5VUZmRVlmM2otTE5GcWltOA?oc=5",
-      "pub_date": 1789477200.0,
-      "article_url": "https://www.theatlantic.com/culture/2026/09/what-trumps-bizarre-posts-are-teaching-us-about-ai/688617/",
-      "image": "https://cdn.theatlantic.com/thumbor/ESciCqoy7tzJWW4hOCuUi7VGGdE=/0x43:2000x1085/1200x625/media/img/mt/2026/09/TrumpAiNarcasissm/original.png",
-      "description": "The president\u2019s recent Truth Social barrage of fake images reflects the dangers\u2014for all of us\u2014of virtual self-aggrandizement."
-    },
-    {
-      "headline": "Bond yields are spiking, oil is up \u2014 but investors aren\u2019t giving up on stocks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTB1eUt0VThoUllsTWV2UzVJQXc0TEpiNHFVamRyRGNFQnRpcnFSdHV0N1BySFF5dkVoUXdVQ0U5TzZUay1ZNjNVSjFKSEZleFlCOVFxZDZWTV9iNzB0NHFkWTNoUW1zeG9xdk1ra2VQeVZuNnpyRjNsWkZxbDB0dNIBhgFBVV95cUxQbDNiMmt6clJmRjRtMkQ1UzNwVFU5NWF6ckJHYnp3a2tManJOUHZ6RlVJMlJpYXpXbktQNkQzQ0R2NHBKTGdNcmxwa1lWZEVHVVYtdXlYeldHR1NuS1d2WTZ2NmVRSmhwaWtKdi1tN0x4UzJNaWs1Sm9hSUYtMkdsckFmeWpaUQ?oc=5",
-      "pub_date": 1789537873.0,
-      "article_url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
-      "description": "Rising Treasury yields, geopolitical risk and fresh AI safety concerns are hitting markets, but many investors remain bullish on AI spending and earnings."
-    },
-    {
-      "headline": "Software, Platform Stocks Top Asian AI Picks, BofA Survey Shows",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDEtMFdocW9tX1g1Z3ZBUlFYRndwalZTSmtOQWxDOFZXUW93Vlp3TGhfR3o3TlVyU21pUl9YUDJ0Ujg3OHFkWGVKM3NhME04eW5CNnBENjB3dXFqSDRMcjY1WTVmWFBHOFo1REFLb1kzblhPOGFMV1BWUkxKM09rdzhIaG9tS1VRYUQ4ODFqLTBQMkRfWFJIdHFNbmpTb25XQkZsRUpOZnV4Y1RNWU9LdTFn?oc=5",
-      "pub_date": 1789538940.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/software-platform-stocks-top-asian-ai-picks-bofa-survey-shows",
+      "headline": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
+      "pub_date": 1789512784.0,
+      "article_url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Millennials are getting 60% of all the top AI jobs and earning $236K salaries\u2014but most are men",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2pnMDBxeExoS1VrcllEMncwcXdxQXY4LUZQRnpFa1F3VktiQ3BGSTlfUk9qY1NwRnhZd1NHNVpYUE9zNnBJalhFeC1SNEcyRzRkNWI3WlUxYVlLbHRHYTdsWm9mVUNVVGEwSjJMLS11ZExmTDZzNUFjZ1ItMlRfRzdBMGExSHlyVGlJclEzM21aZV80Q2ZHWjhVNGVEeXJ6VTZhMWZlRjdhVGlqZndsWjVYaFduR2RMNFRkUU5JWkV5SVlwSlp6eXlyYVc?oc=5",
-      "pub_date": 1789542000.0,
-      "article_url": "https://fortune.com/2026/09/16/millennials-winning-ai-talent-wars-linkedin-research-236k-salaries-men-degrees-gender-gap-inequality/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1159375196-e1789404909721.jpg?resize=1200,600",
-      "description": "The highest-paid AI managers have two things in common: a degree, and being a man. While women and workers without one are stuck in AI's lowest-paying jobs."
+      "headline": "AI Debt Boom Heads From Wall Street to Europe Despite Tech Angst",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3R3TGtfM3NvM3Y1Q3Q3VmVOMFU5RnRtcU9xYl9lczdkTTdubEhUVHk0akNqcHZucHV6QzljRGEwRU0yS2JKNkt2Mzg5d0R2b0NjeEF5SlZZWTh6NF9JdXdkdlBpcEFIN0Y5eURGWmROSWN2aFc5czl1OERSaE5rMVJEclNVeVVLX2w1RnppUXNTNUZPMkx0RTJWYTVzMkZoVVhEbDdTNnhGdUhNODVYRW9CVFpYZw?oc=5",
+      "pub_date": 1789556982.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/ai-debt-boom-heads-from-wall-street-to-europe-despite-tech-angst",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The AI Tipping Point",
+      "source": "time.com",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmpRbnhYV3JKSk1ickdjVks3SEYtLXY1VWFRZEJSYS1oNEJiLTQxMjltbE1BTTNaWnB5QlY0SmpKNnJiQS00UGFGci1CeGt6SVRXTTA2YmZVLWJyYnJnUC1HZWl1d3NrQmRtT055eFdRWUFOVEZ5aTEtSVpqaGNnalcwV3hSMHZf?oc=5",
+      "pub_date": 1789470003.0,
+      "article_url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt27a261dea3854f3b/6aa8af11ef556fe002c29f7e/AI-Cover-Vertical-01.jpg?branch=production&width=2520&quality=75&auto=webp&crop=16:9",
+      "description": "Inside the industry's growing alarm\u2014and the struggle to turn warnings into action."
     },
     {
       "headline": "Texas' Arch Manning apologizes for reaction to violent AI video",
@@ -103,8 +43,68 @@
       "article_url": "https://www.espn.com/college-football/story/_/id/49950893/texas-arch-manning-apologizes-reaction-violent-ai-video",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWdHbHRjZFlCeUljRDZJVDV6bERLWTRhLTRkUW1vZGRDQ1c3UHNxbTJLMGxaNFpHaDNrRWFfNmQ5MlBzdmJreUxERW1MQnFiVUxMS1ZEaFE5d29OODd6SEV6ZWZOTEhCbFgtZWNfUG9BZDE1b1pSLXQ2OFFZdVNXS3Z4T09pS3FLSEw2VHNYYw?oc=5",
+      "pub_date": 1789500420.0,
+      "article_url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
+      "image": "https://i.guim.co.uk/img/media/b00a421c4c12b9f8872a3a0ff6b53b04e2a9dc7f/378_0_3764_3013/master/3764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a12983e171d730e14f4b9eeb9aca3c5",
+      "description": "The Texas star had joked about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping Rowe, a college football reporter for ESPN"
+    },
+    {
+      "headline": "Texas QB Arch Manning 'deeply sorry' for thinking AI video of Steve Sarkisian slapping a female reporter was funny",
+      "source": "Yahoo Sports",
+      "source_url": "https://sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOYTEzWXpTUWtJeWpVajFndVVic282d2JscVdqbjRQX0ZoTF83S3FtTmh5b2RSejcwaTV0THRPMTc3eE5lUWpiNzZCSnpaWXYxd2FJR0dtS0F3WHBOZ3FxRExlYm9TYmtmVG1HdUVPc3ZrN0huWDNuU3ZUYzRJT09fY3o5M0RBZWQ4MlZ2am9zWnRSSGZhWk1SSGdpVWo3RThMWDhBUU5HQmc3UzhLLTM1b0ZBSFFCUEk4cEV0M3VMc0VPZGdKdFFrcGNkZ05lSUkxYldSd19RQXRtbkJWN1JNTVBXS0tTNllKcTJBcFJ1dDN5Nk01bmYxRzFwemtCWkxuWW5TdV8tdzh1SDVfLVNseHYzZlNqUDJnZGVj?oc=5",
+      "pub_date": 1789496089.0,
+      "article_url": "https://sports.yahoo.com/college-football/breaking-news/article/texas-qb-arch-manning-deeply-sorry-for-thinking-ai-video-of-steve-sarkisian-slapping-a-female-reporter-was-funny-181449943.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/87e0e215fbc0cab537d1452535a3d34667746c5f6a4277942cf715e1502be2c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F91abc9bb-1c93-42ba-bfb8-031908d69518",
+      "description": "Manning specifically apologized to ESPN's Holly Rowe in his statement."
+    },
+    {
+      "headline": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUU3a0YtdWVPbVZMOEJuM3dETXRIV1I5LXF2QWpmVy1EU0FZcDZ3ZlRUTzM2Vk0yMkVhSE9LeG85NDdwVEx0R2M0MDhYRVlqMXFneldVQUk0b1BiR1A4Zm00YlhPWlgzZXhRekdWck84dzNPSF8zN2RBWjBrNUQyenBIVGRwYjlYbkozTDNEOC1mVWc5M0FiN2xkeHQwR2d2VGkyMlR5cTk?oc=5",
+      "pub_date": 1789556100.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+      "image": "https://i.guim.co.uk/img/media/2a29a3d6979b1db484649ea644abd122682b1d13/855_0_4262_3411/master/4262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11232676dffb55036c4e626f76d59f88",
+      "description": "US vice-president\u2019s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity"
+    },
+    {
+      "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
+      "pub_date": 1789523760.0,
+      "article_url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
+      "description": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei."
+    },
+    {
+      "headline": "Zuckerberg Has an AI Empire to Build. Meet the Adviser Who Handles the Details",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNFYnhUQnFYempwS0puWklDWUZfazJES0RXVmRoUkEtSmRhTk83ZzZQSHBrVHdnbV9PZXFzclZVYmVkVDFfbXIzSlVTRU9rQXo0Ml9aY0dFaTAzUm9nZW10VVZoQUJoekE1RDBwSXV5S2FPTlpOcHRROEJOYnpXN3ZXMktiMWxwQXNidW9JU0VNU3lwWmotUkRyMUE5M0otWGNtOEtWUjZQZDZUWFNXWDZuNm1nUDZFcWFlYy1TWQ?oc=5",
+      "pub_date": 1789552800.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0xX19Ja3JjQjFBX0E3YmpFNkFhOGRSdkNVdHdQRWhvNUFITGFqVm1peGVHRzVrSjMzYUF2QWVIZ2tETmJfekVORXRjN2hfcEtTZk5KeFRIZGRzNU9BRll2d2RGWHVEckNkWVBDc1ZUV2lhczUwZzRhbmVCVU9MSFpUVVRXUVNkNVRaY1RMNGZhWnc?oc=5",
+      "pub_date": 1789558236.0,
+      "article_url": "https://www.foxnews.com/live-news/artificial-intelligence-safety-mark-zuckerberg-09-16-26",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/d8032c988b5a15e8b3540949e52285fe.jpg",
+      "description": "Mark Zuckerberg argues AI labs can take their own safety measures as Anthropic\u2019s Dario Amodei pushes regulation and OpenAI\u2019s Sam Altman backs slowing development."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T07:19:46.536517+00:00"
+  "fetched_at": "2026-09-16T12:43:58.199855+00:00"
 }

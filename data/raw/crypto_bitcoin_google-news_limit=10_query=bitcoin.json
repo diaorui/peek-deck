@@ -5,8 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUFd1eW9UMkMwSDdHU3Q1eTBEY1ozMFYtX1E0NTBublZfdTBFbDFOYUp2X0E4ODZEM2huaU5xMEhjVXFQaUVyNEx1QXBDd1kyQzJwV0hmZlRzNERwZ0pvZ1RzMFo5NU1ieGxpVEZmYnJBdmlWU2N1WFpWa2dEODBNWjVObXY4dF9YOWI0OEdlbnhfTzI2bkxXLU9yZDFoVEFveXVsNml1U0o0SVdXQzVyakp0SzEyMlB2NE9pZkJ4SHA?oc=5",
+      "pub_date": 1789540942.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c113b39af04fe5a9700ed1765841f345087018a-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank\u2019s inflation-fighting credibility."
+    },
+    {
       "headline": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBvR3VucDJlZ1JiVktNTGdoNVMzSVVwbUZxZFdhTHRYZk45M2JoVF9QOEhyWkNWb3JMRUtWbHlFYXlmeU5BLVNza1FjbktLZFZneDlidGlIS0Z3RVk0ZkhLWHotNnBOaXl0LW1DVUVCX20xcEtGR2N6R1BTN2gzcncxd213NktYSHFNNTVNV3RXMFZSbWlvYVd2ay1fX2hEM1p0d0RIMnNkVnhoMjNSQWwzMGtqZ0hRQkZ1elBwTTJYajdqR3JFdGFR?oc=5",
       "pub_date": 1789486287.0,
@@ -15,96 +25,86 @@
       "description": "Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes."
     },
     {
-      "headline": "Bitcoin, Ethereum ETFs Bleed $592 Million as Clarity Act Fails in Senate",
-      "source": "finance.yahoo.com",
+      "headline": "ABTC Stock Gains On BTIG \u2018Buy\u2019 Rating \u2013 Eric Trump-Backed Company Was \u2018Built\u2019 To Buy Bitcoin, Says Analyst",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0ZMZDg4czFyR212S1paNXVndnZzQTFhZ1F3dTRJNDdxel9qd2Z0bFQ2UEJzWG4xM0F4YUtWeGtLdlZ6QTJPaDlVWVpSdnZXdWxYUWRGRlpWdUZCMzl6ZjNFZmZMUk5rTVNMejZGM3VZd1U1Ymxwam9GSjJVYzRCVmJhcWd0d0JTbGlFVVBQSGc2Zk1YUWJmU0tINng?oc=5",
-      "pub_date": 1789539853.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-bleed-592-062413032.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/e3a793413289fd3a0592cf44abd92bd6d2103e739f4d85b207d1bb0b4050b232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1806c0da2a5a78790467470de854956a.jpg",
-      "description": "Bitcoin and Ethereum ETFs lost $591.8 million on September 15, posting their deepest single-day outflows in months."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGNwVjhnTFc3SkduWWdwdDNKUExkSnZEcWN1UGRtQzJoMUdJa3M1RWp4MlNkT1VRNFdXeS1ralE5c05FWFFIV2M4NF9Dd0F4Nk5tM3o4dFZYTnZYdjVCQkVaQnJySlVmNTFydzRfMlowcGV1YXFGUFlPbkNOUzhOdE44SlRUS2I3TzlLcUlJN1QyaGpI?oc=5",
+      "pub_date": 1789559199.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/abtc-stock-gains-btig-buy-114639280.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6a01ed4dab6ba942671e14a16ed9819ee3cb49e392c96f1ff1dcaf12f1403e20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Fe37ca297990c8cffb6e05440531e3710",
+      "description": "Shares of ABTC have rebounded about 60% from their late-July low, though the stock remains down for the year."
     },
     {
-      "headline": "Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes",
+      "headline": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNTjRWejhTekIxbXVEWjUtTWpRelRxeE10QnJ4NF80Q3htQzVVS2JSbk5HcEVJbEFwQnRpRy1oa290bDB5Y2VGMEhndlJxTTdoWmNsTWRWb3lsdF9FaVd3WkxoaFZTMXZzamd2SzBGTjRYX2hCbUpDRWVVVHd3Qk03MWhzeGZwMmE0VElCZXh0cW9ybUhtS3FuWHdZdmJuVmI5VkhPMjM5djlCNF85dldfZkFrRDl0WXUxdU91ZFBRdE5HOVllVHNZRnhQd0hudFZndk8xeFlDYV9IREVGMXV5bjdUMTRWeVlUbzdzWmI0MkNwVk5qc21NRVduMHMxeTZxWWZQQ3dLMFBkLXB2dXdXTW0yaHlnZHJiQVF3YXlxMzRKT1NDT0RuWlYybXlhdHM?oc=5",
+      "pub_date": 1789557917.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5095a644c2d1c91f29d896c669cef21e72e10f130d105a3b4de6be16545e77cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_4_7197.jpg",
+      "description": "Bitcoin opened at $75,586.51 on Wednesday, September 16, 2026, 3.3% lower than Tuesday's opening price. As of 7:12 a.m. ET this morning, the price of bitcoin moved higher to $75,885.53. Ethereum opened at $2,397.64 today, down 4.6% from Tuesday's opening price. The price of ethereum moved up to $2,404.43 as of 7:12 a.m. ET."
+    },
+    {
+      "headline": "Bitcoin Under Renewed Pressure as Looming Fed Hike Adds to Woes",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmZMSzVFeWhfc1M5dnJnVkh0dlhqNTRUbFVvOUZCQzItb1lyOThLMFhOc0VISkpGUm0xQTZvWk1OOXZjYzlxQy0xV2ZfNHNQcUhsVGM5YjlNV3dDVUwyaV9SX3dwU3hRVWpmQm5hbThtWXkzb2h1LXU0V1pqYllwQzZEYkkxR0F0YVZoQVQ2aFBxTGRibnhHQmJPV0VrSGd6NS1xQXp5VUpUdnVXSUdB?oc=5",
-      "pub_date": 1789485822.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/bitcoin-rally-stalls-as-optimism-about-us-crypto-bill-wanes",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONE4zcDhlRVI5a2ZSd05RMEExUXFVQzZrR3hTR0pjRmNJaXZma3FreS16aWRWVloyY0tORUhMdk5Db3pCT3FLSEc1U0FWdHNzUGtWQmx4SmNBeUIzUWZid0c5Sk5TU1J2Y1MtYjE5dnIzcHhRS2VDSXRscUpNd3VaRWRhMTJmU2RQcnVDWW9YRWpmcmFBbF9ya05BNll4Y2dubDVkb0lhdWZCYjlTbUltMFZ3d2I?oc=5",
+      "pub_date": 1789553904.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/bitcoin-under-renewed-pressure-as-looming-fed-hike-adds-to-woes",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why Is Bitcoin Down Today?",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbU8wdTNsUnQtZDQ2OUcyQjRVSjFhOTdnanp2cEFyZnhjSVhzTGpDY0I5Zy02eDljdjBFU2tDYmNtTjhUSjEzblN6SUp2SFZ4NjdUZmE0VW14NXB5TUhCZEtrVWM2dWQ0TTNKMlFsMzFnYjIycFJtd3VHS08yV3FZN2RFMnJRZXJmOHdjUXRQZXI?oc=5",
-      "pub_date": 1789496051.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-down-today-181411191.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/15e6f31819bda1ff03e9bfaf5a4af50aea969deff2e4ed93853c71ccd1064d5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fcaa7274cc1d42958aea050f0816c1766.jpg",
-      "description": "Bitcoin fell 4% Tuesday morning."
-    },
-    {
-      "headline": "Has the Bitcoin Rally Fizzled Out?",
-      "source": "wsj.com",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNWeEpyNUF1d0FaTG1rNFk0NlVmQ1F5QWExRk9yc21BWTBPb0xGSU0wdkEzZnhsSTdOS0cwNGVCZUstOFBKblR3RTU4clJmSFZWaG05akRYRGhuMmNhMzg3bE5zRTAtYTVZOGFPeE56TzU3MEVzTEVvdDVUQlJwXzNfX0pkXzBn?oc=5",
-      "pub_date": 1789395120.0,
-      "article_url": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a",
+      "headline": "Bitcoin\u2019s Network Hashrate Is 50% Below Trend as Miners Shift to AI",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWRCVU5Zd2F0UE55MFByVVQ2YWxlTm9mYUlyU2VpN19hbHdTNVYzbmlIMTFndy02dWFyd0toSDd3Wm94VlRDam1fdUs2NXlaV0tTQm9uRXRWWjJEMHllR1ltVERGN2lTZkpJdFFOTHZrWlhZR1lCdDZlZGxOV250blpJNmJHbVNSSUh3UHhKaGxyLUg3UkQxNnotOGg?oc=5",
+      "pub_date": 1789551046.0,
+      "article_url": "https://gizmodo.com/bitcoins-network-hashrate-is-50-below-trend-as-miners-shift-to-ai-2000811882",
       "image": null,
       "description": null
     },
     {
-      "headline": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTlvWFN6dm5HajZTc2xNYnh6V25xREE1ZXl3bUtxSXJCTFZkLWtXVGVFekFRZWRZdFM3SVFsUmk4Wm1YNndCdG1WQi12UUtHdzdNOHl0LUg4ZnlFVjN5TUItZS1meGFwNFljb2hRTU9SR1JVYUQ3c29jZ2dZSkNPaElJWFAydTczZE5MTHgwUF9zeUF3Mm9FTFRDazhoekE1RU95VzVfdjF4dVhvQTFLSWJJTnBNVXFhNHFFeHp3?oc=5",
-      "pub_date": 1789538044.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network\u2019s existing halving schedule."
+      "headline": "Current price of Bitcoin for Sept. 16, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84MXBOQ2M1MUlsV0E3SHFpbFMxakVCQ25lek0waTQ3RVJjZE52Q3ZtUXVVNndHU041ZmRIdkt6RHlFcmt3MUItVDRpNUgwRkhUV1RNVWtiWkNMdVcybW1EZ1ZDVlR6TVk?oc=5",
+      "pub_date": 1789557300.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-16-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-16.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Bitcoin's late summer rally set to face off against the Fed, Congress",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
-      "pub_date": 1789400730.0,
-      "article_url": "https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/",
+      "headline": "Odell Beckham Jr. Took His $750,000 Rams Salary in Bitcoin and Was \u2018Happy\u2019 When It Hit Record Highs \u2014 Here\u2019s What It\u2019s Worth Now After the Crash",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNVh6S3EyMWRGSEE4QWRsUThmX3VxbHpOV3BKVmUxQU1xczJXaXpXTGF2U09jekR5UjRHX0s2eGg1dlQxRWwtTGUzcVlrSk9qc2tsZnZUQmZnR0RtWUdwVktJaEFHOU51cWNzVGRUeDREamhrbERIZnYxbjFMbFRkUGpZU0dTWVBmQ2xEbWZnVlhyQzc3MlVMWVliNnN2aTk2ajdENDBsbF91LUhDM283TmN1VS02YWo3SzhGc0NzR2xQWFlkdG9ueWNfVEhEcGs2SVAyeUFmTnFyNWVrV2ZNS0dGZWRCR2dQeVFNSjU3YjNnM3NXUVhLa1RhODJoTFozcWxlWW5wYUQtLVlS?oc=5",
+      "pub_date": 1789482311.0,
+      "article_url": "https://www.barchart.com/story/news/4613505/odell-beckham-jr-took-his-750-000-rams-salary-in-bitcoin-and-was-happy-when-it-hit-record-highs-heres-what-its-worth-now-after-the-crash",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin Falls Below $75,000 Before Clarity Act Stumbles",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlwUGpncnQya2doTXdqNVFCTzl4N0I3a3VWYUdlQkpBWjBvN0trYXZHMkZYcjBzUHhfTW9VNS1yMVplY3dqQzBtUXk4MmU2VkRobnlHSmpzWE9ieEJXTGJvSUxiMVo4MUhhdk1wWGg2X0JYR3ctVWFqOFBsOTgtUkN5RTZYckNrRDBNaTNmbWZyN1VSTkZ0MkNKXy1WeTVKcG83TXQ3alJGMG5jUFE?oc=5",
-      "pub_date": 1789506793.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/15/bitcoin-falls-below-75000-before-clarity-act-stumbles/",
-      "image": null,
-      "description": null
+      "headline": "AI Could Be Bitcoin\u2019s Next Onboarding Engine, Nakamoto CEO Says",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vRGw2S1QwQzJPLUp4cm5kVFBVc3NLMmt5UTVaeXZMSU5HcVV1U3lNTWRFSjhxVXhVYWpnLV9TN09heE1TNm12dUJUdGlqcnh0OXE2dE5UXzVmWUNrRzJsY3doa0I1LVduRDlKQVMzYw?oc=5",
+      "pub_date": 1789493666.0,
+      "article_url": "https://bitcoinmagazine.com/news/ai-could-be-bitcoin-onboarder",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-21.jpg",
+      "description": "Speaking to the investment bank, Nakamoto CEO David Bailey said that AI could drive Bitcoin adoption."
     },
     {
-      "headline": "Bitcoin Drops Below $77K Ahead Of Potential Fed Rate Hike \u2013 CLARITY Act Vote Set To Add Crypto Volatility, Says Analyst",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVpPUGpxUlhNNmpVLV9yVk5KVmNpaDNRX3QxZ2JIanh3Uk1kdDcxMEpqZlFJQWxMNkpxT1BaLVlTLVlaV043c1FoS09sNWV6ekN5TndOQjVWM2J1WlV3STNLdHRtekxuZE8xdmxMdUx1YUFsZ09YX2xTaEJDbXFLV3pGelVNUG1CdXMzSkw1NkRYVEpwa2FoczV3?oc=5",
-      "pub_date": 1789494705.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-77k-ahead-175145912.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cca53307135b8c3b4d7c4fef812a9dcb7409eece0acf037b425c4124aa4a9fb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F7ba2a0e8e5f100a77320b79b5c57cb3b.jpg",
-      "description": "The last time the Federal Reserve hiked rates, Bitcoin\u2019s price remained steady \u2013 but that was over three years ago."
-    },
-    {
-      "headline": "Bitcoin Drops the Most Since June After US Senate Blocks Bill",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXR5VjNOS090QVl2LTlkbEVqeS1YaWlrZmZhS0Q4eWF1OTZMSW1ZSklkT1VRdXVfWktTeVNPSmRKWUlGMnRodWI2ZmpDYjBSbm00bmk1a244eG1meDU1M1pfS3JWbDJIMWIxLVl2dEtUSVdEeWJkREJ6UDhpU1NTRUVadEFZS0pPRnFfZ21CR2RnRG1VMzg1TDdmSmJiVFRIZmMxb1p4QUdFSF9vbGsxZHBLMGY?oc=5",
-      "pub_date": 1789498308.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail",
-      "image": null,
-      "description": null
+      "headline": "Will Bitcoin Hit $50,000 or $100,000 First? Kalshi Traders Put It at 17 to 83",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkttc0FSUjVPTUJHVlF4N2VyWlNIcXlkejN4TTI2VUR4Wkxpc1lqaG5VT1hTck5jckF1V3BUZFJiS2M4aGVnSW5WeC1MV3RiVm85ZjQwQmViQzB1bmI4S0dTZnRhZjM2RWVua1FSR180QjR4MGxtQXNpOTN6ajlleXF0M2xPRlNHSWwwSW50dlpIMDZoQVRveVNPWC1EYXZGNk5MdzYyMFhRcnJzb3pMdll0MERRYXZBVWttWUNsYWVqNnRwQnlUdnI5Yw?oc=5",
+      "pub_date": 1789505880.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/15/will-bitcoin-hit-50000-or-100000-first-kalshi-traders-put-it-at-17-to-83/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2279003661-huge-licensed-scaled.jpg",
+      "description": "Kalshi traders give Bitcoin an 83% chance of hitting $100,000 before $50,000. Here\u2019s what could drive BTC toward either target in 2026."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T07:19:41.210637+00:00"
+  "fetched_at": "2026-09-16T12:44:01.491494+00:00"
 }

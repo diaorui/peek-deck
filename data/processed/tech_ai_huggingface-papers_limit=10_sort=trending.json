@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 136,
+      "upvotes": 137,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.15818",
       "arxiv_url": "https://arxiv.org/abs/2609.15818",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 415,
+      "upvotes": 421,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.13356",
       "arxiv_url": "https://arxiv.org/abs/2609.13356",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.13356.png",
-      "upvotes": 297,
+      "upvotes": 302,
       "num_comments": 7,
       "published_at": "2026-09-10T20:00:00.000Z",
       "github_repo": "https://github.com/zgcagi/ZGCM-1",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2609.15364",
       "arxiv_url": "https://arxiv.org/abs/2609.15364",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
-      "upvotes": 67,
+      "upvotes": 68,
       "num_comments": 2,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-09-07T20:00:00.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
-      "github_stars": 957,
+      "github_stars": 1018,
       "project_page": "https://auk-project.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-16T07:19:30.094016+00:00"
+  "fetched_at": "2026-09-16T12:43:38.675086+00:00"
 }
