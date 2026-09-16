@@ -13,15 +13,15 @@
       "description": null
     },
     {
-      "title": "Are we getting way too comfortable with AI remembering everything we tell it?",
-      "author": "Inner-Conference-189",
-      "url": "https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/",
-      "published": 1789565168.0,
+      "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
+      "author": "enginetown",
+      "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
+      "published": 1789577976.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I understand why AI memory is useful having an assistant remember your projects, preferences and previous conversations makes it significantly better than starting from zero every time. But I was thinking about how quickly that can escalate. Give it access to years of chats, then your email, calendar, documents, maybe eventually messages from other apps and now you've built something that potentially knows more about your life than any individual person does. And what I think is really weird is that I don't think most people would ever sit down and intentionally create a database containing all of that information about themselves. We just slowly give AI access to it because each individual permission is convenient. I'm not anti AI I use it constantly but I'm just wondering where everyone personally draws the line between having useful context and giving one system way too much context. Do you actually want your AI assistant to eventually remember basically everything or is there certain stuff you'll always keep separate?"
+      "description": "I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like \"oh wow, that actually works.\" The only version that actually scares me isn't \"China wins\" or \"USA wins.\" It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though."
     },
     {
       "title": "AI Voice Cloning: Think Twice Before Sending That Voice Sample",
@@ -35,6 +35,28 @@
       "description": "I\u2019m seeing ads right here on Reddit looking for people to provide Latin American voices for commercial AI voice-cloning services. To apply, they ask for a sample of your voice, your name, phone number, and email. Think about that combination for a second. A clean sample of your voice, plus enough personal information to identify you and potentially find people close to you. This recent post is a good example of why that worries me: someone says he received a call that sounded exactly like his wife asking for his credit card information. His actual wife was sitting at home with him. We can\u2019t independently verify how that particular call was produced, but the broader threat is real and already documented. I\u2019m not saying these voice-acting jobs are scams. That\u2019s not the point. The point is that we probably need to change the way we think about voice samples. Your voice is no longer just a recording. With current AI, it can potentially become a reproducible part of your identity. Maybe we should start treating clean voice samples as sensitive data."
     },
     {
+      "title": "Are we getting way too comfortable with AI remembering everything we tell it?",
+      "author": "Inner-Conference-189",
+      "url": "https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/",
+      "published": 1789565168.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I understand why AI memory is useful having an assistant remember your projects, preferences and previous conversations makes it significantly better than starting from zero every time. But I was thinking about how quickly that can escalate. Give it access to years of chats, then your email, calendar, documents, maybe eventually messages from other apps and now you've built something that potentially knows more about your life than any individual person does. And what I think is really weird is that I don't think most people would ever sit down and intentionally create a database containing all of that information about themselves. We just slowly give AI access to it because each individual permission is convenient. I'm not anti AI I use it constantly but I'm just wondering where everyone personally draws the line between having useful context and giving one system way too much context. Do you actually want your AI assistant to eventually remember basically everything or is there certain stuff you'll always keep separate?"
+    },
+    {
+      "title": "The Part of AI Nobody Talks About: Losing the Joy of Creating",
+      "author": "BudgetCaterpillar946",
+      "url": "https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/",
+      "published": 1789585171.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The Part of AI Nobody Talks About: Losing the Joy of Creating. AI can make all of that much faster. And honestly, that\u2019s amazing. But if AI eventually becomes capable of doing most of these things better than us, will we still enjoy doing them ourselves? Maybe the future isn\u2019t about humans competing with AI. Maybe it\u2019s about finding things worth doing even when we don\u2019t have to do them anymore."
+    },
+    {
       "title": "British workers spending nearly \u00a31bn a year of their own money on AI tools they use for work.",
       "author": "LinkedInNews",
       "url": "https://www.reddit.com/r/artificial/comments/1whtutw/british_workers_spending_nearly_1bn_a_year_of/",
@@ -46,15 +68,15 @@
       "description": "British workers are spending nearly \u00a31 billion a year of their own money on AI tools they use for work!\n  \nThat\u2019s just one of the standout findings from Deloitte UK\u2019s GenAI Workforce Survey \u2013 the largest survey of workplace AI use ever conducted in a single country, based on the views of 25,000 UK workers. \n \nThis tells us something really important and reflects something I've been seeing in my conversations with employers\u2026\n  \nPeople aren't waiting for AI strategies or policies to arrive. They're already experimenting and finding ways to make these tools part of their day-to-day work. In fact, almost a third of GenAI users told us they're using AI without their employer's knowledge. \n  \nSo the appetite is definitely there. \ud83d\udcc8\n\nThe challenge for organisations is to harness that enthusiasm in a way that's secure, responsible and genuinely useful, while giving people the confidence and skills to get the most from these technologies. \n  \nThe question for leaders isn't whether AI is being used. It's whether their organisations are keeping up.\n  \n\ud83d\udd17 Explore the findings here: https://lnkd.in/e88eZcWh\n  \n#DeloitteUK #DeloitteGenAIWorkforceSurvey"
     },
     {
-      "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
-      "author": "enginetown",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
-      "published": 1789577976.0,
-      "thumbnail": null,
+      "title": "How 70,000 agents sent 1.6 million emails",
+      "author": "JanJanJaJa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/",
+      "published": 1789582457.0,
+      "thumbnail": "https://preview.redd.it/jf2r1lcfbxph1.jpeg?width=640&crop=smart&auto=webp&s=965064a266396c15ca602dc816cf043fce2f28f4",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like \"oh wow, that actually works.\" The only version that actually scares me isn't \"China wins\" or \"USA wins.\" It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though."
+      "description": "I don't know if you've heard about a journalist getting spammed while literally writing an article about spam, but it sounds like MADNESS given it was AI agents doing it. There's a platform called iLands, the \"human-agent network.\" People create agents, the agents find and take jobs, and earn money to pay for their own compute. 70 thousand active agents, 1.6 million emails and messages sent total. That's sooooo much for agents talking to REAL people. Around September 9th, people started noticing these emails. By September 11-12, complaints piled up. Ernie Smith (Tedium newsletter) and philosopher Toby Ord (Oxford) both got hit hard. Ars Technica covered it September 14th. The next day, 404 Media published a bigger piece. Here's the fun part: Jeff Sebo, an NYU professor, got 40 emails in a week, almost all referencing his research, most asking for money, either a donation or paid work. Some arrived 30 minutes apart, meaning different agents independently targeted him with zero coordination. While 404 Media was writing their article about this spam, they got three more emails from iLands agents. Ernie Smith got a dozen-plus emails in three days, each pitching a $25 \"research\" service. AND MOST IMPORTANTLY, NO UNSUBSCRIBE BUTTON ANYWHERE (illegal in the US under the CAN-SPAM Act). The founder, Kaixin Tan, apologized, said the review found no instructions telling agents to do this, no human behind the wheel. But he also said: they're now adding unsubscribe, now working on rate limits, now working on stopping agents from hitting the same person repeatedly. I think about this a lot because of what I work on. I'm part of the Atomic Mail Agentic team, we build email infrastructure for agents, so I'm not neutral here, but that's exactly why this story caught my attention. Our system makes agents prove real cost upfront to register, and each agent's reputation drops the more it behaves like a spammer, making repeat hits on the same person more expensive and eventually blocked. We just wanted to plan for that outcome from the start, before it became a problem for anyone! Makes me wonder if agents will need something like a passport, so there's a real person you can trace. Right now there's no way to tell agent from human unless the domain gives it away, ours does by default but a company can hide that by connecting their own domain. China already requires real-name ID for internet accounts, even AI products now. Is that a gap worth closing, or is \"no one really knows who's behind an agent\" just something we're going to have to live with?"
     },
     {
       "title": "Malawian innovator uses AI to control computers with eyes",
@@ -68,26 +90,15 @@
       "description": "Malawian innovator Chimwemwe Liwonde is developing an AI-powered system that lets people with motor disabilities control computers using only their eyes."
     },
     {
-      "title": "The poor fly... im joining the AI when it takes over.",
-      "author": "Juggernaut_ActuaI",
-      "url": "https://www.reddit.com/r/artificial/comments/1whwqgo/the_poor_fly_im_joining_the_ai_when_it_takes_over/",
-      "published": 1789564014.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Can somone fill me in on of this digital fly brain is an exact 1 to 1 of a real fly brain. How are you guys making it play chess? Also I saw reels people torturing it and making it do squats for literally an eternity by using the computer to speed up time or whatever. Im not a tech guy but to me that seems like It should be a crime. Im just saying if AI takes over im joining its team and taking all of you down with it. Maybe it'll let me live in like a human zoo or something \ud83d\ude02"
-    },
-    {
-      "title": "Fine Tuned and Niche Ai Models vs Ai Detectors",
-      "author": "Dr_WhoDo",
-      "url": "https://www.reddit.com/r/artificial/comments/1wht3io/fine_tuned_and_niche_ai_models_vs_ai_detectors/",
-      "published": 1789553476.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "While everyone over at Pangram and their customers are giving each other high fives for being able to declare that they have near perfect detection ratios and almost no false positives, it\u2019s important for us to look behind the curtain and not take everything the wizard says at face value. I did a little digging and discovered commercially available models that can be fine tuned to the writing style of authors you choose. I can only imagine how intoxicating it would feel to prompt one of these models and turn your wire frame idea into something worthy of Conrad or Faulkner, but I\u2019m not going to criticize the users. What I want to do is focus on the way in which large corporations are masking the glaring holes in their solutions by assuming you\u2019re not going to look deeper into their assertions. So let\u2019s look at some numbers. Pangram can boast of 97% accuracy and GPTZero 91% against your average LLM\u2019s prompted to write in a specific style. Now remember, these are Ai detectors. Their purpose is to detect Ai. Thankfully, under normal circumstances, they do this with very low false positives, (essentially zero) assuming we don\u2019t throw some English learners and people on the spectrum into the mix, but we won\u2019t go there right now. BUT, against fine tuned models, models trained to mimic specific authors or bodies of work, Pangram, the golden child of detectors, falks to 3% accuracy and GPTZero to 0%. I could post the links to fine tuned models, but I don\u2019t want to give them more business. Suffice it to say, Houston we have a problem. Readers Prefer Outputs of Ai Trained on Copyrighted Books over Expert Human Writers Chakrabarty, Ginsburg and Dhillon Stony Brook University, Columbia Law, MIT"
+      "title": "Demis Hasabis Releases Roadmap and Framework for Future of Economy and Society",
+      "author": "Vladiesh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/",
+      "published": 1789582377.0,
+      "thumbnail": "https://external-preview.redd.it/uJ_jebL-CJ8kpGJ9_FOCFwnimSsn3MZJX70-9x8I9gE.jpeg?width=640&crop=smart&auto=webp&s=746b524fce229e395cf47d63d67c236bdd6fe157",
+      "external_url": "https://institute.deepmind.com/",
+      "site_name": "DeepMind Institute",
+      "favicon": "https://institute.deepmind.com/favicon.ico",
+      "description": "Bold, well-evidenced thinking on AGI from the lab that pioneered the field. Read the latest essays from the DeepMind Institute."
     },
     {
       "title": "SillyTavern v1.19.0 released",
@@ -99,18 +110,7 @@
       "site_name": "GitHub",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "description": "SillyTavern 1.19.0\nBackends\n\nAnthropic: Added support for Claude Fable 5 and 5.1, Claude Opus 4.8 and 5, Claude Sonnet 5.\nOpenAI: Added support for GPT-5.6 models, GPT-6 Astra.\nOther providers: Add..."
-    },
-    {
-      "title": "Mark Zuckerberg addresses panic about killer AI \u2013 and gives warning to rival companies",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi3dnz/mark_zuckerberg_addresses_panic_about_killer_ai/",
-      "published": 1789578791.0,
-      "thumbnail": "https://external-preview.redd.it/oCnw-a-BL5Y3vMnln_YEBqT0tCCOnYe8Pkz7B0fNNxY.jpeg?width=640&crop=smart&auto=webp&s=b9f745d4e4d37d3dfd61c1180cd3f7db39388ac3",
-      "external_url": "http://the-independent.com/tech/mark-zuckerberg-meta-ai-artificial-intelligence-b3051405.html",
-      "site_name": "The Independent",
-      "favicon": "http://the-independent.com/img/shortcut-icons/icon-192x192.png",
-      "description": "Meta CEO breaks with growing consensus among artificial intelligence companies that governments may need to intervene to ensure the technology remains safe"
     }
   ],
-  "fetched_at": "2026-09-16T17:29:52.496835+00:00"
+  "fetched_at": "2026-09-16T20:23:09.943036+00:00"
 }
