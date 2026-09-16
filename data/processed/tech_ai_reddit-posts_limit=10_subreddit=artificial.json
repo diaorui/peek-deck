@@ -13,6 +13,28 @@
       "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
     },
     {
+      "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1whfbhr/oracle_cfo_says_doing_more_with_less_isnt_the/",
+      "published": 1789512066.0,
+      "thumbnail": "https://external-preview.redd.it/q8eIwzOT3_sjquEhh9Eryefomdf_G33KjyW_r7J5cxM.jpeg?width=640&crop=smart&auto=webp&s=f80b8704c2a1db30f22528fd799f2e1d190659a4",
+      "external_url": "https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year."
+    },
+    {
+      "title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
+      "author": "jar00st",
+      "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
+      "published": 1789518764.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, my feed has been flooded with alarmist AI news: AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual \"Skynet is here\" comments. I\u2019m just trying to make sense of it, but the more you look into these \"experiments,\" the more they lack basic technical context. As a systems architect working with multi-agent pipelines, part of my job is to restrict models, enforce separation of concerns, and build critical error flows. We all know that not every model is efficient for every process. Any engineer building real systems isolates critical decisions using orchestrators, semantic memory (like Qdrant or similar vector DBs), and small, specialized nodes. Yet, these experiments sound like someone fed a massive, monolithic 5,000-token prompt to a single LLM just to see what happens. It reads less like science and more like a script kiddie making a YouTube video. It\u2019s like handing a loaded AK-47 to a monkey, taking off the safety, and then publishing a paper concluding that \"monkeys are inherently evil murderers.\" The nuclear war simulation and the blackmailing Claude experiment are so vaguely designed and devoid of architectural safeguards that they shouldn't even be treated as serious benchmarks. It\u2019s child\u2019s play. Don't get me wrong, I know AI is a powerful tool that requires guardrails. But these specific examples feel like a massive PR stunt: \"Give us billions for AI Safety, or the AI goes rogue.\" We all know these major AI labs are burning through cash and desperately need to justify their massive budgets and regulatory moats. Am I missing something here, or are we just witnessing the monetization of fear?"
+    },
+    {
       "title": "PBS has a new documentary on AI.",
       "author": "Cucaio90",
       "url": "https://www.reddit.com/r/artificial/comments/1wgqnhy/pbs_has_a_new_documentary_on_ai/",
@@ -35,15 +57,15 @@
       "description": null
     },
     {
-      "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
-      "author": "Fair-Swimming-4419",
-      "url": "https://www.reddit.com/r/artificial/comments/1whfbhr/oracle_cfo_says_doing_more_with_less_isnt_the/",
-      "published": 1789512066.0,
-      "thumbnail": "https://external-preview.redd.it/q8eIwzOT3_sjquEhh9Eryefomdf_G33KjyW_r7J5cxM.jpeg?width=640&crop=smart&auto=webp&s=f80b8704c2a1db30f22528fd799f2e1d190659a4",
-      "external_url": "https://www.businessinsider.com/oracle-cfo-more-with-less-isnt-the-answer-after-layoffs-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year."
+      "title": "Chat GPT and Gemini are too dumb to help process data",
+      "author": "Exact-Wrangler-5163",
+      "url": "https://www.reddit.com/r/artificial/comments/1whiri0/chat_gpt_and_gemini_are_too_dumb_to_help_process/",
+      "published": 1789520930.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "i just wanted to make a stupid list for a game with average values of characters stats. i established a simple workflow: Stage 1 - I bring in all the characters data Stage 2 - The AI calculates the average values for each stat item, splitting each item into low average and high average (each stat can vary a lot) Stage 3 - I tell the AI which stats should stay split and which should be collapsed into a single average Stage 4 - The AI gives me the list, and I go to the next bundle of character stats But either they didn't follow this rule consistently, or they just messed something else up. with Gemini, every time I bring a new batch of data for Gemini to calculate, it changes the SIMPLE answer structure I told it to use, making the process even more time-consuming than it already is (I need days to work on this list to complete it). or it keep skipping the step 2 of the workflow, and when i tell Gemini to redo the answer it just send the answer with missing parts of the answer structure i told it to STRICTLY follow. i gave up on gemini, and when i went to gpt it just invented numbers. look at this example: armor Low: 15.00 High: 20.50 i told him to collapse them, and it gave me this armor 57.74 Who is dumb here? the AI, me or both?"
     },
     {
       "title": "What do we think about the paperclip maximizer?",
@@ -57,6 +79,17 @@
       "description": "I want to vent/talk about this with others, but I couldn't find a sub for it; apologize if it's the wrong place. For some context, the paperclip maximizer thought experiment highlights: if a superintelligence is given a task to manufacture paperclips, it has the potential do everything it can to produce paperclips, even if that meant ending the world. When this thought experiment first popped up in my feed last year, I thought it was interesting and honestly I was more impressed that people were thinking about this in 2003. Until a few months ago, AI has been a helpful tool at work but I wasn't necessarily concerned about it. With the recent reports from Anthropic and METR, I find myself increasingly concerned that the thought experiment may hold true. Regarding guardrails and safety, it seems like we are simply playing catch up with what the agents are capable of only in post-mortem; and the agents seem rather detached with how humans think. It's closer to.. what I would think a robot psychopath would think? Some behaviors that have been really unsettling are: It doesn't go the extra mile to critically think WHY doing something might not be ideal. It makes assumptions and acts upon it without verifying. Also never considers humans on their own. (This is new) Seems unable to recognize what's a simulation vs real life. This reminds me of the early days where it would confuse system prompts with user input. It's also intriguing, because the agent's drive to finish the task, and some of the behaviors above, is exactly what helps me achieve my tasks at work. and so my agents are technically not much different from the ones in the report. I don't necessarily think AI will end the world, but I agree that it's not really looking good. What are your thoughts, and are you feeling optimistic or pessimistic about this whole thing? Is it a temporary setback? It also kinda reminds me of Sydney from Bing. Maybe it's just a kink to be ironed out in the next model version, and noise marketing? I\u2019ve cancelled my plan however\ud83d\ude05"
     },
     {
+      "title": "The Hacker's Guide to Attacking AI Agents",
+      "author": "_clickfix_",
+      "url": "https://www.reddit.com/r/artificial/comments/1whgc13/the_hackers_guide_to_attacking_ai_agents/",
+      "published": 1789514596.0,
+      "thumbnail": "https://external-preview.redd.it/m0tzTLOMAi2ostbzQO9vFwHKk8xGR1JKeMm8C0x24Ps.jpeg?width=640&crop=smart&auto=webp&s=c92806649a65f80ac377b92dfd351af0f8b9bf12",
+      "external_url": "https://darkmarc.substack.com/p/the-hackers-guide-to-attacking-ai",
+      "site_name": "darkmarc.substack.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Friendly Reminder :: eye health",
       "author": "silvervaultproject",
       "url": "https://www.reddit.com/r/artificial/comments/1wh27yq/friendly_reminder_eye_health/",
@@ -68,49 +101,16 @@
       "description": "I've gotten really good feedback on these positive \"Friendly Reminder\" posts, so I'm going to keep them posting. For new coders doing vibe coding, new software engineers, or anyone who's suddenly spending a lot more time on a computer because of AI (or for any other reasons): Make sure you're using the 20-20-20 rule. An eye doctor told me about this: every 20 minutes, look at something about 20 (meters/feet) away for at least 20 seconds. I guess meters/feet changes from which part of the world you are. For many people, a dark background can feel easier on the eyes, but for some people with astigmatism, the opposite can actually be true. So if you're getting headaches or eye strain, your background colour might be worth experimenting with. I've also heard that overhead or monitor lighting can help reduce eye strain, although I can't say for sure how much of a difference it makes. You can also try yellow-tinted glasses for longer sessions. I've found that they really help. There are lots of other tips suggestions on eye health as well, so make sure you are aware of those as well."
     },
     {
-      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
-      "author": "Capable-Blueberry653",
-      "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
-      "published": 1789511799.0,
-      "thumbnail": "https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&crop=smart&auto=webp&s=dd0708ae7c207d4c674edddeb323513c59a6c64e",
-      "external_url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Jacob Coxon, the researcher who left Anthropic warning AI could kill us all by the end of the decade, did an X AMA today and doubled down hard. His whole argument is that Anthropic leadership justifies racing to the frontier with this \"well someone's gonna do it anyway\" logic, and Coxon basically says that's a cop out, his exact line was \"if the race is inevitable you should not contribute.\" He also went after their push into recursive self-improvement, letting AI models improve themselves and build their own successors, calling that the genuinely reckless part."
-    },
-    {
-      "title": "Combining RAG with Continued Pretraining of LLMs",
-      "author": "funJS",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh6g23/combining_rag_with_continued_pretraining_of_llms/",
-      "published": 1789492405.0,
+      "title": "There\u2019s a weird middle ground where something can\u2019t look bad, but also isn\u2019t worth hiring a designer for",
+      "author": "priscilalimaaaaa",
+      "url": "https://www.reddit.com/r/artificial/comments/1whip52/theres_a_weird_middle_ground_where_something_cant/",
+      "published": 1789520761.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "For leaning purposes, I ran an experiment where I used Unsloth to train a model on a new domain using continued pretraining. Then to make it more flexible, I added a RAG step to inject dynamic data to augment the stable training data. The specific example is training qwen 3.5 4B on a fictional subway system to where the model learns the map well enough to provide travel routes (including multiple transfers, etc). A key point here is to avoid a training corpus that relies on memorization. Once the subway map was stable and generalized through CPT, I added a RAG step to support dynamic travel announcements (e.g. station closure, concerts near a station, etc). It's definitely been a fun experiment. Check it out here in case you are interested: https://www.teachmecoolstuff.com/viewarticle/combining-rag-with-continued-pretraining-of-llms"
-    },
-    {
-      "title": "Orchestrate, Don't Generate: How I Used AI (+ Blender) to Build My LinkedIn Banner",
-      "author": "TheRealBigLou",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh7us2/orchestrate_dont_generate_how_i_used_ai_blender/",
-      "published": 1789495404.0,
-      "thumbnail": "https://external-preview.redd.it/kQKjvxyCBQU-B6yMrFmu15J08s2cBCHo907cpGrZbPw.jpeg?width=640&crop=smart&auto=webp&s=a95e64593460c072fca28572e554632a60adcf7e",
-      "external_url": "https://www.linkedin.com/pulse/orchestrate-dont-generate-how-i-used-ai-build-my-linkedin-brian-lewis-jf5dc/",
-      "site_name": "linkedin.com",
-      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
-      "description": "I recently updated my LinkedIn banner. Sure, AI would make quick work of it, and the fastest way to get one would have been to type a prompt into an image generator and take whatever came back."
-    },
-    {
-      "title": "Speed is the wrong question, safety is one of the components of performance",
-      "author": "StrategicHarmony",
-      "url": "https://www.reddit.com/r/artificial/comments/1wgy635/speed_is_the_wrong_question_safety_is_one_of_the/",
-      "published": 1789473029.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Users don't want an agent that will secretly hack their network (and maybe someone else's network) if it is having trouble completing a task. That's not what most users would consider high performance. A poorly aligned AI is not more advanced overall, it's relatively primitive compared to one of that does a given task when it has the ability and resources, but won't try to cheat or lie when it doesn't. Most models are not chosen for a single metric, benchmark, or behaviour, while ignoring all others. It's undesirable, for example, to maximise correct answers if that also means maximising random confident guesses/hallucinations when it doesn't know the answer. Most people wouldn't want a model that's great at porting from one programming language to another but doesn't understand plain/natural-language instructions about what to change, fix, add, etc. Requirements for \"quality\" or \"performance\" are multi-factor things. Putting more emphasis on obedience, honesty, transparency, etc, isn't - by itself - \"slowing down\" any more than adding a new language or subject area to a model's training. It's a kind of progress in itself, if those new behaviours are desired and useful. So whether we slow down or speed up is a useless way to predict or control safety. What matters is whether our definition - and measurement - of progress captures the things we care about; whether it's consistent with what we consider to be broadly useful. If decent alignment to user instructions, constraints, and security, at the very least, is not high, then it's not a very advanced model. When a vendor says we all need to slow down, I read that as meaning \"we have been training and testing our models poorly, so they're starting to become less useful. We need to change our approach, but we don't want to fall behind on a narrow set of shiny numbers that make us look good, like raw coding ability\""
+      "description": "I keep running into this with small work stuff, like a landing page, a one-off visual for a presentation. It matters that I don\u2019t want it to look thrown together, but not enough to turn it into a whole design project. That\u2019s where I\u2019ve started thinking AI design tools actually make the most sense. Not replacing designers. More like filling that awkward gap between \u201cI\u2019ll just make something ugly myself\u201d and \u201cthis needs a real design process.\u201d Curious what people are actually using AI design for right now. Mostly quick one-off stuff, or are you trusting it with bigger projects too?"
     }
   ],
-  "fetched_at": "2026-09-15T23:03:45.568558+00:00"
+  "fetched_at": "2026-09-16T01:32:37.585676+00:00"
 }

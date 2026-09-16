@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-15T23:04:07.727595+00:00'
+updated: '2026-09-16T01:32:55.430076+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 15, 2026 at 23:04 UTC  
+**Last Updated:** September 16, 2026 at 01:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -114,13 +114,13 @@ I'm creating co-working space within the industry of robotics in my native count
 
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
 **[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
 
-OregonLive.com • 6h ago
+oregonlive.com • 8h ago
 
 ---
 
@@ -128,7 +128,7 @@ OregonLive.com • 6h ago
 
 Robots can start working outside physical cages and without safety barriers.
 
-Ars Technica • 4h ago
+Ars Technica • 6h ago
 
 ---
 
@@ -140,19 +140,19 @@ The Conversation • 1d ago
 
 ---
 
-**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
-
-Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
-
-Business Insider • 22h ago
-
----
-
 **[These Robot Soldiers Are Getting Downright Terrifying](https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying)**
 
 San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war.
 
-Futurism • 4h ago
+futurism.com • 7h ago
+
+---
+
+**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
+
+Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
+
+Business Insider • 1d ago
 
 ---
 
@@ -160,23 +160,15 @@ Futurism • 4h ago
 
 AI robots can create many millionaires, but Tesla may not be the best way to play it.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[The Biggest Issues With Delivery Robots Are Exactly What You'd Think](https://www.engadget.com/2255845/delivery-robots-biggest-issues/)**
+**[Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
 
-Too often, delivery robots just don't understand the rules of the road (or sidewalk).
+America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
 
-Engadget • 7h ago
-
----
-
-**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
-
-America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
-
-Baton Rouge Business Report • 1d ago
+CNBC • 3d ago
 
 ---
 
@@ -184,7 +176,15 @@ Baton Rouge Business Report • 1d ago
 
 Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
 
-BBC • 17h ago
+BBC • 20h ago
+
+---
+
+**[Wonder debuts its robotic bowl maker](https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker)**
+
+The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain’s plans to automate more of its operations.
+
+Nation’s Restaurant News • 1d ago
 
 ---
 
@@ -202,33 +202,13 @@ Unitree pushes the limits with a jaw-dropping routine where robots and dancers f
 
 ---
 
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 77K • 👍 1K • 💬 197 • ⏱️ 0:25 • 4d ago
-
----
-
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
-
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
-
-📺 DPCcars
-
-👁️ 80K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
-
----
-
 **[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
 
 This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 82K • 👍 2K • 💬 590 • ⏱️ 13:22 • 4d ago
+👁️ 82K • 👍 2K • 💬 592 • ⏱️ 13:22 • 4d ago
 
 ---
 
@@ -242,43 +222,33 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 81K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
+
+---
+
 **[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
 
 For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
 
 📺 PRO ROBOTS
 
-👁️ 31K • 👍 521 • 💬 72 • ⏱️ 21:46 • 5d ago
+👁️ 31K • 👍 523 • 💬 73 • ⏱️ 21:46 • 5d ago
 
 ---
 
-**[China Just Unveiled a Female Robot That Could Replace Your Girlfriend!](https://www.youtube.com/watch?v=tSNm7x4hP34)**
+**[Can OLD Lasers Make Vulcan OVERPOWERED? | Does It Work? #8 - War Robots](https://www.youtube.com/watch?v=8lIL8RGpq4w)**
 
-Chinese Engineering is bringing humanoid robotics into a surprisingly personal territory. On June 30, 2026, in Shenzhen, China, ...
+Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons to see if old-school lasers can still dominate in ...
 
-📺 Expand Knowledge
+📺 Adrian Chong
 
-👁️ 84K • 👍 948 • 💬 79 • ⏱️ 26:26 • 6d ago
-
----
-
-**[China’s Snake Robot Is Crawling Along Power Lines](https://www.youtube.com/watch?v=EJEH84n1wys)**
-
-China is testing a fascinating new approach to power-grid maintenance: a snake-shaped robot that crawls directly along electrical ...
-
-📺 Alchetron
-
-👁️ 10K • 👍 221 • 💬 4 • ⏱️ 0:22 • 14h ago
-
----
-
-**[Heaviest Robot Worker #robot #robotics #ai](https://www.youtube.com/watch?v=U074tzXdGT4)**
-
-Agility's Digit v5 has a much more humanlike silhouette and possibly a wheeled variant The design abandons the bird-like legs ...
-
-📺 Kalil 4.0
-
-👁️ 780 • 👍 42 • 💬 1 • ⏱️ 0:57 • 2h ago
+👁️ 7K • 👍 248 • 💬 71 • ⏱️ 17:00 • 12h ago
 
 ---
 
@@ -288,7 +258,37 @@ Real innovation can't be built on slides. From hardware to AI, true breakthrough
 
 📺 XPENG
 
-👁️ 468K • 👍 4K • 💬 360 • ⏱️ 5:52 • 6d ago
+👁️ 472K • 👍 4K • 💬 360 • ⏱️ 5:52 • 6d ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 77K • 👍 1K • 💬 203 • ⏱️ 0:25 • 4d ago
+
+---
+
+**[Chinese Robot Launches Flurry of Attacks Against It&#39;s Developer](https://www.youtube.com/watch?v=G7MuEYC1tKE)**
+
+A humanoid robot turned on its developer and kicked a remote control clean out of his hand, it then proceeded to jump in the air ...
+
+📺 New York Post
+
+👁️ 178K • 👍 2K • 💬 892 • ⏱️ 1:32 • 5d ago
+
+---
+
+**[The Filthiest Robots at IFA 2026](https://www.youtube.com/watch?v=0z2SFaGHXz0)**
+
+I did NOT expect some of the things I saw at IFA 2026 Enjoy a fairly bizarre round up of everything from Smart home tech to...
+
+📺 Paul Hibbert (Hibbert Home Tech)
+
+👁️ 121K • 👍 3K • 💬 332 • ⏱️ 34:20 • 6d ago
 
 ---
 

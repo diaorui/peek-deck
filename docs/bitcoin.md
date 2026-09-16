@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-15T23:04:07.720209+00:00'
+updated: '2026-09-16T01:32:55.421964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 15, 2026 at 23:04 UTC  
+**Last Updated:** September 16, 2026 at 01:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,40 +38,40 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $75,389.76
+### $75,787.43
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -3.3%  
-**30d:** +17.4%  
-**90d:** +20.2%  
-**1y:** -35.2%  
+**24h:** -2.6%  
+**7d:** -1.0%  
+**30d:** +17.1%  
+**90d:** +19.4%  
+**1y:** -34.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1519.02B
+**Market Cap:** $1523.84B
 Rank #1
 
 **Circulating Supply:** 20,084,928 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--40.0%
+-39.8%
 
 **All-Time Low:** $67.81
-+111455.8%
++111741.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 69
-**GREED**
+### 51
+**NEUTRAL**
 
 ---
 
@@ -137,7 +137,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Lock in.](https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -153,21 +153,25 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks.](https://www.barrons.com/articles/bitcoin-price-clarity-act-crypto-cathie-wood-c2471654)**
+**[Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade](https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html)**
 
-Barron's • 2h ago
+Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes.
+
+Yahoo Finance • 10h ago
 
 ---
 
-**[The Debasement Trade Splits as Gold and Bitcoin Bets Diverge](https://www.bloomberg.com/news/articles/2026-09-15/the-debasement-trade-splits-as-gold-and-bitcoin-bets-diverge)**
+**[Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote](https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-crypto-stocks-decline-011426654.html)**
 
-Bloomberg.com • 11h ago
+Bitcoin and crypto-related stocks fell sharply on Tuesday after the Senate failed to advance the CLARITY Act.
+
+Yahoo Finance • 18m ago
 
 ---
 
 **[Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes](https://www.bloomberg.com/news/articles/2026-09-15/bitcoin-rally-stalls-as-optimism-about-us-crypto-bill-wanes)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -175,15 +179,7 @@ Bloomberg.com • 7h ago
 
 Bitcoin fell 4% Tuesday morning.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin Futures](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin)**
-
-Find information for Bitcoin Overview provided by CME Group. View Overview
-
-cmegroup.com • 3d ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -193,11 +189,11 @@ WSJ • 1d ago
 
 ---
 
-**[A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge](https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge)**
+**[BTC news: A 25-cent bitcoin deposit let a hacker mint 46 billion fake bitcoin tokens](https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge)**
 
 Two software bugs allowed the attacker to create more than 2,000 times Bitcoin’s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -205,13 +201,21 @@ CoinDesk • 9h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 8h ago
+Fortune • 10h ago
 
 ---
 
 **[Bitcoin Falls Below $75,000 Before Clarity Act Stumbles](https://www.forbes.com/sites/digital-assets/2026/09/15/bitcoin-falls-below-75000-before-clarity-act-stumbles/)**
 
-Forbes • 1h ago
+Forbes • 4h ago
+
+---
+
+**[Bitcoin Price Wobbles as Leverage Falls Ahead of CLARITY Vote and Fed Decision](https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-wobbles-leverage-falls-105029007.html)**
+
+Bitcoin open interest fell by 13.5% in 10 days, dropping from 321,497 BTC to 278,151 BTC even as the underlying price declined only about 5% over the same window. That gap between derivatives unwind, and spot price action signals deliberate repositioning.Bitcoin price currently trades under $77,000, down from its September ...
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -224,6 +228,14 @@ Reuters • 1d ago
 ---
 
 ## HackerNews: "bitcoin"
+
+**[Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check](https://news.ycombinator.com/item?id=49719674)**
+
+Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test
+
+⬆️ 8 • 💬 1 • 3h ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
+
+---
 
 **[A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase](https://news.ycombinator.com/item?id=49673026)**
 
@@ -238,14 +250,6 @@ Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trade
 Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
 
 ⬆️ 6 • 💬 0 • 3d ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
-
----
-
-**[Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check](https://news.ycombinator.com/item?id=49719674)**
-
-Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test
-
-⬆️ 4 • 💬 1 • 41m ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
 
 ---
 
@@ -283,7 +287,7 @@ analyses a descriptor.
 
 Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
 
-⬆️ 2 • 💬 0 • 10h ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
+⬆️ 2 • 💬 0 • 12h ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -311,17 +315,7 @@ The Clarity Act did not clear a key procedural vote in the Senate, a headline th
 
 📺 Schwab Network
 
-👁️ 5K • 👍 603 • 💬 198 • ⏱️ 5:58 • 3h ago
-
----
-
-**[Congress is coming for crypto&#39;s last real tax advantage](https://www.youtube.com/watch?v=zJrZb6Lu2f4)**
-
-Crypto has one real tax edge over stocks. Congress moved to kill it. Crypto investors have had one tax advantage stocks never got ...
-
-📺 Yahoo Finance
-
-👁️ 7K • 👍 322 • 💬 80 • ⏱️ 14:52 • 5h ago
+👁️ 28K • 👍 813 • 💬 262 • ⏱️ 5:58 • 6h ago
 
 ---
 
@@ -331,67 +325,17 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 862 • 💬 166 • ⏱️ 46:30 • 8h ago
+👁️ 30K • 👍 882 • 💬 153 • ⏱️ 46:30 • 10h ago
 
 ---
 
-**[Bitcoin Dumps Below $76K Ahead of Massive Fed Decision](https://www.youtube.com/watch?v=YmaqH3xwdcE)**
+**[Why Bitcoin Could Be the Biggest Winner of the AI Boom](https://www.youtube.com/watch?v=MAdmuXHOBV0)**
 
-Bitcoin lost $76K — the level the whole desk was watching — right before the Fed. Trade alongside the Verified Pro Traders in ...
+America is going all in on AI, but the biggest investment opportunity may be the one thing AI cannot create more of. As intelligence ...
 
-📺 Verified Investing
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 365 • 💬 33 • ⏱️ 14:45 • 5h ago
-
----
-
-**[CLARITY ACT FAILS VOTE! BREAKING BITCOIN NEWS #xrp #bitcoin #clarityact](https://www.youtube.com/watch?v=q_z1EN69lcI)**
-
-CLARITY ACT FAILS VOTE! BREAKING BITCOIN NEWS #xrp #bitcoin #clarityact.
-
-📺 Randi Hipper
-
-👁️ 2K • 👍 140 • 💬 30 • ⏱️ 1:09 • 3h ago
-
----
-
-**[Bitcoin Waited Years For Today. It&#39;s Already Going Wrong](https://www.youtube.com/watch?v=iEiSSMXS7dE)**
-
-Bitcoin #Crypto #finance Markets are heading into a huge week with the Fed decision and Clarity Act vote in focus, while the ...
-
-📺 The Wolf Of All Streets
-
-👁️ 28K • 👍 580 • 💬 214 • ⏱️ 1:03:18 • 8h ago
-
----
-
-**[Fed To Hike Into ‘Train Wreck’; How Will Stocks, Bitcoin, Gold, Bonds React? | Gareth Soloway](https://www.youtube.com/watch?v=NRQZSGV-4p4)**
-
-Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code LIN to sign up and trade today! Gareth Soloway ...
-
-📺 David Lin 
-
-👁️ 11K • 👍 2K • 💬 323 • ⏱️ 38:17 • 4h ago
-
----
-
-**[Why Jack Mallers Won&#39;t Diversify: Bitcoin vs. Gold](https://www.youtube.com/watch?v=BF7M2grzIYQ)**
-
-Jack Mallers explains why he holds Bitcoin only. #Bitcoin #JackMallers #BitcoinVsGold #Gold #Inflation #HardMoney ...
-
-📺 Bitcoin Magazine
-
-👁️ 395 • 👍 22 • 💬 1 • ⏱️ 1:01 • 4h ago
-
----
-
-**[Crypto&#39;s Biggest Vote EVER Is Happening RIGHT NOW (CLARITY Act LIVE)](https://www.youtube.com/watch?v=eZUuiabg8lM)**
-
-CRYPTO Clarity Act Live! The Senate votes on the CLARITY Act at 2:15 PM ET today and we're covering the roll call live. This is a ...
-
-📺 Crypto Capital Venture
-
-👁️ 33K • 👍 1K • 💬 178 • ⏱️ 1:10:04 • 3h ago
+👁️ 2K • 👍 307 • 💬 72 • ⏱️ 15:04 • 1h ago
 
 ---
 
@@ -401,7 +345,67 @@ Democrats last minute rejection of Republicans concessions almost certainly mean
 
 📺 Simply Bitcoin
 
-👁️ 9K • 👍 457 • 💬 100 • ⏱️ 1:10:04 • 3h ago
+👁️ 18K • 👍 493 • 💬 89 • ⏱️ 1:10:04 • 6h ago
+
+---
+
+**[Crypto Died Today? Fully Explained in Less than 11 minutes](https://www.youtube.com/watch?v=DXtyaG9X8zo)**
+
+the face of a man who knows crypto is done vs the face of the woman who killed it ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 7K • 👍 1K • 💬 383 • ⏱️ 13:26 • 3h ago
+
+---
+
+**[Crypto&#39;s Biggest Vote EVER Is Happening RIGHT NOW (CLARITY Act LIVE)](https://www.youtube.com/watch?v=eZUuiabg8lM)**
+
+CRYPTO Clarity Act Live! The Senate votes on the CLARITY Act at 2:15 PM ET today and we're covering the roll call live. This is a ...
+
+📺 Crypto Capital Venture
+
+👁️ 78K • 👍 1K • 💬 173 • ⏱️ 1:10:04 • 6h ago
+
+---
+
+**[Bitcoin CLARITY Act BLOCKED - Senate Vote Just Failed](https://www.youtube.com/watch?v=TvbjV6KQVq4)**
+
+The CLARITY Act just FAILED its critical Senate test after lawmakers failed to deliver the 60 votes needed to advance the bill.
+
+📺 Bitcoin News Alerts
+
+👁️ 1K • 👍 213 • 💬 123 • ⏱️ 15:10 • 3h ago
+
+---
+
+**[Fed To Hike Into ‘Train Wreck’; How Will Stocks, Bitcoin, Gold, Bonds React? | Gareth Soloway](https://www.youtube.com/watch?v=NRQZSGV-4p4)**
+
+Click the link http://kalshi.com/r/LIN or download the Kalshi App and use code LIN to sign up and trade today! Gareth Soloway ...
+
+📺 David Lin 
+
+👁️ 52K • 👍 2K • 💬 420 • ⏱️ 38:17 • 6h ago
+
+---
+
+**[BITCOIN WARNING: This Could Change EVERYTHING Tomorrow 🚨 (LIVE TRADING)](https://www.youtube.com/watch?v=lJ5VozEpODU)**
+
+BitBase Get $32000 + Low Fees   https://www.bitbase.com/en/accounts/register?ref=UGWQBC ANTARCTIC EXCHANGE ...
+
+📺 Jayson Casper
+
+👁️ 15K • 👍 354 • 💬 51 • ⏱️ 1:35:50 • 5h ago
+
+---
+
+**[Awaiting THE BREAK as Bitcoin Price Chart, Altcoin Market and XRP in a Holding Pattern Under 50-Week](https://www.youtube.com/watch?v=r2_cSNEZLDc)**
+
+Blockchain Backer Newsletter - https://blockchainbacker.substack.com Blockchain Backer's Technical Analysis Toolkit for Crypto ...
+
+📺 Blockchain Backer
+
+👁️ 39K • 👍 3K • 💬 73 • ⏱️ 9:28 • 1d ago
 
 ---
 
