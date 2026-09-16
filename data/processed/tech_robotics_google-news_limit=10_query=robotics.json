@@ -5,6 +5,26 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robotics Tipping Point: A Citrini Field Trip",
+      "source": "citriniresearch.com",
+      "source_url": "https://www.citriniresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
+      "pub_date": 1789569274.0,
+      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
+      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
+      "description": "Seeing is Believing"
+    },
+    {
+      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
+      "pub_date": 1789491060.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -25,54 +45,24 @@
       "description": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture."
     },
     {
-      "headline": "Digit 5 May Be the First Humanoid Robot Worker That\u2019s Truly Safe",
+      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rY1dfSDVTNzBEQmdaNzFLMFREZEZuYW4weTRnbWNGaEhEdF9FZGk5eFd5eGJCejRfNzJEZ1AwUGV4S0I1TUxYMk5CR2JYejYzOEVoczJxRUpSSTA?oc=5",
-      "pub_date": 1789369200.0,
-      "article_url": "https://spectrum.ieee.org/humanoid-robot-safety",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67776761&width=1200&height=600&coordinates=0%2C19%2C0%2C81",
-      "description": "Agility Robotics\u2019 latest is big enough, and safe enough, to do useful work"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
+      "pub_date": 1789577483.0,
+      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
     },
     {
-      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
-      "pub_date": 1789491060.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
-      "pub_date": 1789470017.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Agility's new humanoid is supposed to stop before it gets too close to humans",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWkxtS0p6cDBjVnBNWGJMRGxvOHVnZzVwdDZmYVhYemZ2Y18tcWxRa3RhYW9hbjRPaHotZDFvWEVhcTlmcHBQZDJfYmJOb0xERk1XcVhqRFhJejl0cUJXUlgxSVRTY1VnZXhjZ3VjWjdWT0ZGb1dEeE5wWHNVeTJNczhRX0x1RTRCanNtSXIwZ0xHeEhrWU9EQlhIQzJ4VDllUGc?oc=5",
-      "pub_date": 1789479480.0,
-      "article_url": "https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9",
-      "image": "https://i.insider.com/6aa880ca9b8974787b1cc0e3?width=1200&format=jpeg",
-      "description": "Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid."
-    },
-    {
-      "headline": "Meet Digit 5: Agility Robotics\u2019 humanoid built to work with people",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXRPNDktejJsVll5WGU0Zzg1RGpiN2NrZW1OaU5KMTg2QkxLS1hTamVpcnFpXzFNSm02STk0eFBqWm84eTgxR0JCel95OTBiNXlXZWRVNzFnVTMzUTZDcVJtbi03X3RXb2N5T1BvRFNIb0JsMnJTd1RRRHZIbkJoWWZ5cnlGQjJFSUpPalRRemVyeHJvSzA5T3otVGE2MGRPX1d5cUc0TEZxdw?oc=5",
-      "pub_date": 1789557044.0,
-      "article_url": "https://interestingengineering.com/videos/meet-digit-5-agility-robotics-humanoid-built-to-work-with-people",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IEX-Horizontal.jpg",
-      "description": "Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required by earlier models."
+      "headline": "Nvidia\u2019s Les Karpas joins the agenda lineup at Disrupt 2026",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
+      "pub_date": 1789570800.0,
+      "article_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "description": "Nvidia's Les Karpas explains how robots are waiting\u00a0for\u00a0their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass."
     },
     {
       "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
@@ -95,6 +85,16 @@
       "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
     },
     {
+      "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
+      "source": "theconversation.com",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUkzRGpCV3UtWTRDSzZCN19yRFRmV3VqbjlDOGgtQWdiaWhVcVVjSDRUdWlfejllZGJXSlh3SnQzZDJzZVhHOFpGai1Ka2k2aGU1SHBJQjdBRWhRRkdhMmVZWmVTY0JEbDlfMHlyUjBxeU5NU2I1VVVIWGc2b2ZHTUJGTDRIRkxDeGF6VlhaaHducEhiRWREdTI2bXY5OFJKMFJsc0h6U2FoNWM?oc=5",
+      "pub_date": 1789398303.0,
+      "article_url": "https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813",
+      "image": "https://images.theconversation.com/files/759396/original/file-20260911-60-ff70jd.jpg?ixlib=rb-4.1.1&rect=0%2C244%2C5997%2C2998&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "The People\u2019s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses."
+    },
+    {
       "headline": "XPeng Shares Fall to Lowest Since October 2024 Despite Robotics Push",
       "source": "eletric-vehicles.com",
       "source_url": "https://eletric-vehicles.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T12:43:50.634113+00:00"
+  "fetched_at": "2026-09-16T17:30:11.436241+00:00"
 }
