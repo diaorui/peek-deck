@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 106669,
+      "github_stars": 106896,
       "project_page": null
     },
     {
@@ -35,7 +35,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9046,
+      "github_stars": 9255,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2609.15818",
       "arxiv_url": "https://arxiv.org/abs/2609.15818",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 421,
+      "upvotes": 424,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "github_stars": 330,
+      "github_stars": 407,
       "project_page": "https://atria-asi.ai"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 7,
       "published_at": "2026-09-10T20:00:00.000Z",
       "github_repo": "https://github.com/zgcagi/ZGCM-1",
-      "github_stars": 302,
+      "github_stars": 379,
       "project_page": "https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ"
     },
     {
@@ -92,8 +92,46 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 24495,
+      "github_stars": 24555,
       "project_page": null
+    },
+    {
+      "id": "2609.16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "authors": "Meng Luo, Yanlin Li, Hao Li et al. (10 authors)",
+      "organization_name": "NationalUniversityofSingapore",
+      "organization_fullname": "National University of Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
+      "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.16679",
+      "arxiv_url": "https://arxiv.org/abs/2609.16679",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
+      "upvotes": 104,
+      "num_comments": 1,
+      "published_at": "2026-09-14T20:00:00.000Z",
+      "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
+      "github_stars": 146,
+      "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
+    },
+    {
+      "id": "2609.15364",
+      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
+      "organization_name": "AetherLabs-AI",
+      "organization_fullname": "AetherLabs-AI",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
+      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
+      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
+      "hf_url": "https://huggingface.co/papers/2609.15364",
+      "arxiv_url": "https://arxiv.org/abs/2609.15364",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
+      "upvotes": 70,
+      "num_comments": 2,
+      "published_at": "2026-09-13T20:00:00.000Z",
+      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
+      "github_stars": 215,
+      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
     },
     {
       "id": "1910.03771",
@@ -111,27 +149,8 @@
       "num_comments": 7,
       "published_at": "2019-10-08T23:23:22.000Z",
       "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 166197,
+      "github_stars": 166244,
       "project_page": "https://huggingface.co"
-    },
-    {
-      "id": "2609.15364",
-      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
-      "organization_name": "AetherLabs-AI",
-      "organization_fullname": "AetherLabs-AI",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
-      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
-      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
-      "hf_url": "https://huggingface.co/papers/2609.15364",
-      "arxiv_url": "https://arxiv.org/abs/2609.15364",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
-      "upvotes": 68,
-      "num_comments": 2,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
-      "github_stars": 215,
-      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
     },
     {
       "id": "2608.23283",
@@ -168,30 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 88057,
+      "github_stars": 88155,
       "project_page": null
-    },
-    {
-      "id": "2609.08936",
-      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
-      "authors": "Ziyang Ma, Zhikang Niu, Wenming Tu et al. (33 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we construct approximately 3.03 billion instruction--audio instances and 1.95 million hours of effective supervision across five task families: speech generation, content editing, enhancement and separation, paralinguistic editing, and acoustic editing. AuK combines a multimodal large language model for semantic conditioning, an VAE jointly trained on speech, general audio, and music for acoustic conditioning, and a hybrid rectified-flow Transformer that performs dual-stream MMDiT blocks followed by unified single-stream DiT blocks for generation. Training begins with generation-only warm-up and proceeds to joint generation--editing pre-training. We then apply complementary post-training strategies: human-feedback preference optimization for open-ended editing and reward-based reinforcement learning for speech generation. To reduce inference cost, we further distill the model with consistency initialization and task-routed Decoupled DMD. The resulting AuK-Flash performs 4-step inference without classifier-free guidance and achieves a 4.5 wall-clock speedup over the full model under matched conditions. Experiments demonstrate leading performance on zero-shot and instruction-controlled speech generation and general instruction-guided editing, while remaining competitive on signal-level restoration tasks. We release both the source code and model weights to support reproducibility and further research.",
-      "ai_summary": "AuK is an open-source foundational model that unifies speech generation and editing via natural-language instructions and audio context, using a multimodal language model, joint VAE, hybrid rectified-flow Transformer, and efficient distillation for fast inference.",
-      "hf_url": "https://huggingface.co/papers/2609.08936",
-      "arxiv_url": "https://arxiv.org/abs/2609.08936",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.08936.png",
-      "upvotes": 218,
-      "num_comments": 3,
-      "published_at": "2026-09-07T20:00:00.000Z",
-      "github_repo": "https://github.com/Tencent-Hunyuan/AuK",
-      "github_stars": 1018,
-      "project_page": "https://auk-project.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-16T12:43:38.675086+00:00"
+  "fetched_at": "2026-09-16T17:29:58.505002+00:00"
 }
