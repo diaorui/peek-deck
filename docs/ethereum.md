@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-15T23:04:07.725052+00:00'
+updated: '2026-09-16T01:32:55.427313+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 15, 2026 at 23:04 UTC  
+**Last Updated:** September 16, 2026 at 01:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,401.56
+### $2,402.51
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -2.7%  
+**24h:** -4.3%  
+**7d:** -1.5%  
 **30d:** +25.4%  
-**90d:** +40.3%  
-**1y:** -46.7%  
+**90d:** +40.4%  
+**1y:** -47.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $292.68B
+**Market Cap:** $293.17B
 Rank #2
 
 **Circulating Supply:** 122,050,161 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--51.5%
+-51.4%
 
 **All-Time Low:** $0.43
-+553774.4%
++554610.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is one thing that would make Ethereum meaningfully safer? The ETHSecurity Initiatives Round aims to answer that question and fund the best answers. The round is live starting today at initiatives.thedao.fund, with several initiatives on it already and room for a hundred more. In our first funding round, more than 20 ecosystem funders and 3,934 donors joined us, and together we put over $1.6M into diverse Ethereum security projects. To date, we've coordinated the funding of over 1,000 ETH...
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 5h ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 8h ago
 
 ---
 
@@ -152,7 +152,7 @@ Frame transactions added as Hegotá upgrade headliner, Nomic Foundation slang-so
 
 **[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
-Forbes • 3h ago
+Forbes • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ Forbes • 3h ago
 
 The Senate vote at 2:15 p.m. ET on September 15 could lock in permanent legal ground for XRP, Bitcoin, Ethereum, and Solana, or leave their commodity status resting on a document the next administration can erase overnight.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 10h ago
 
 Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact of the Clarity Act on cryptocurrency and the economy and MetaMask's protections against crypto scams on 'Varney & Co.'
 
-Fox Business • 3h ago
+foxbusiness.com • 6h ago
 
 ---
 
@@ -184,7 +184,7 @@ TradingView • 1d ago
 
 Washington is sending mixed signals on the CLARITY Act just over a day before its make-or-break Senate vote, and the disagreement itself is becoming part
 
-coinpedia.org • 10h ago
+coinpedia.org • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ coinpedia.org • 10h ago
 
 The Senate will hold a crucial procedural vote on the CLARITY Act at 2:15 pm ET on Sept. 15, with 60 votes required to advance ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -200,21 +200,13 @@ Yahoo Finance • 10h ago
 
 Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.
 
-The Block • 15h ago
+The Block • 18h ago
 
 ---
 
 **[SOL news: Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum](https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum)**
 
-CoinDesk • 17h ago
-
----
-
-**[Current price of Ethereum for Sept. 15, 2026](https://fortune.com/article/price-of-ethereum-09-15-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 10h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -223,6 +215,14 @@ Fortune • 10h ago
 Could the Clarity Act really become a super-catalyst for Ethereum?
 
 The Motley Fool • 1d ago
+
+---
+
+**[Current price of Ethereum for Sept. 15, 2026](https://fortune.com/article/price-of-ethereum-09-15-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 10h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact
 
 📺 Fox Business
 
-👁️ 6K • 👍 281 • 💬 108 • ⏱️ 3:26 • 3h ago
+👁️ 14K • 👍 330 • 💬 84 • ⏱️ 3:26 • 5h ago
 
 ---
 
@@ -246,27 +246,7 @@ Urgent news update on bitcoin, crypto, and the rest of the markets! Its not look
 
 📺 Thomas Kralow
 
-👁️ 11K • 👍 1K • 💬 27 • ⏱️ 8:58 • 12h ago
-
----
-
-**[ITS HAPPENING... Watch BEFORE Tuesday (BMNR / ETH)](https://www.youtube.com/watch?v=A_4jzi6cxlI)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 17K • 👍 424 • 💬 148 • ⏱️ 18:56 • 1d ago
-
----
-
-**[This Ethereum Structure Could Signal a Historic Entry Setup](https://www.youtube.com/watch?v=YVQzB4x0_MA)**
-
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 185 • 👍 11 • 💬 4 • ⏱️ 4:45 • 4h ago
+👁️ 12K • 👍 1K • 💬 28 • ⏱️ 8:58 • 15h ago
 
 ---
 
@@ -276,17 +256,37 @@ Arthur Hayes argues that if you want maximum risk outside Bitcoin without protoc
 
 📺 The Rollup
 
-👁️ 12K • 👍 217 • 💬 50 • ⏱️ 8:39 • 1d ago
+👁️ 12K • 👍 220 • 💬 50 • ⏱️ 8:39 • 1d ago
 
 ---
 
-**[ETH Looks Ready for GO TIME](https://www.youtube.com/watch?v=pUMV7QbhvTc)**
+**[ITS HAPPENING... Watch BEFORE Tuesday (BMNR / ETH)](https://www.youtube.com/watch?v=A_4jzi6cxlI)**
 
-I haven't been this bullish on crypto since 2020, and it mostly comes down to Ethereum. ETH has already formed a macro higher ...
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-📺 Crypto Archie
+📺 Tevis
 
-👁️ 328 • 👍 16 • ⏱️ 0:53 • 9h ago
+👁️ 17K • 👍 426 • 💬 148 • ⏱️ 18:56 • 1d ago
+
+---
+
+**[This Ethereum Structure Could Signal a Historic Entry Setup](https://www.youtube.com/watch?v=YVQzB4x0_MA)**
+
+Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
+
+📺 Trade Confident
+
+👁️ 519 • 👍 11 • 💬 3 • ⏱️ 4:45 • 6h ago
+
+---
+
+**[Bitcoin, Ethereum, &amp; The CLARITY Act: What You Need To Know | LIVE](https://www.youtube.com/watch?v=6W4Ww5Q4rjQ)**
+
+Bitcoin, Ethereum and XRP: breakout or another backtest? In this September 15 market update, I break down the chart levels ...
+
+📺 YaBoySkey
+
+👁️ 105 • 👍 13 • 💬 1 • ⏱️ 17:42 • 1h ago
 
 ---
 
@@ -300,33 +300,33 @@ Ethereum shows bullish Elliott Wave progress as it nears the $2750 target, a lev
 
 ---
 
-**[Ethereum Has TWO Votes In 24 Hours And I&#39;m Still Long!!](https://www.youtube.com/watch?v=VMQ32sFQJgw)**
+**[ETH Missed The Weekly Close And I Went LONG Anyway!!](https://www.youtube.com/watch?v=_DqJl9e9ZbE)**
 
 WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 316 • 👍 16 • 💬 72 • ⏱️ 5:11 • 12h ago
+👁️ 934 • 👍 18 • 💬 37 • ⏱️ 5:16 • 1d ago
 
 ---
 
-**[Ethereum gets jittery ahead of CLARITY Act vote and Fed decision. What to watch next?](https://www.youtube.com/watch?v=csK9cOQu1kM)**
+**[CANTON + ETHEREUM: IS THIS THE END OF THE OLD SYSTEM?](https://www.youtube.com/watch?v=Re7j_wvMDck)**
 
-In this video you will learn about the latest fundamental developments for Ethereum. You will also find technical analysis across ...
+THE WEALTH MINDSET   *** GET IN TOUCH *** SPONSOR INTEREST: mrforesightbs@gmail.com Tangem ...
 
-📺 investingLive
+📺 Grow Rich Grow Happy
 
-👁️ 35 • ⏱️ 4:03 • 15h ago
+👁️ 2K • 👍 79 • 💬 18 • ⏱️ 18:03 • 1d ago
 
 ---
 
-**[BITCOIN PUMP &amp; DUMP (Don&#39;t Be Fooled)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=veE0B-b_fNs)**
+**[WILL ETH DUMP LOWER TODAY? (Ethereum Update)](https://www.youtube.com/watch?v=JLv1FmLQBmo)**
 
-BITCOIN PUMP & DUMP (Don't Be Fooled)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* https://bit.ly/LBankBonus ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 11K • 👍 288 • 💬 251 • ⏱️ 18:28 • 21h ago
+👁️ 842 • 👍 10 • 💬 1 • ⏱️ 5:17 • 16h ago
 
 ---
 

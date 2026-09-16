@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check",
+      "url": "https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T",
+      "hn_url": "https://news.ycombinator.com/item?id=49719674",
+      "author": "joeymabia1",
+      "points": 8,
+      "num_comments": 1,
+      "created_at": "2026-09-15T22:22:12Z",
+      "object_id": "49719674",
+      "image": "https://images.fika.bar/post/01M2HE34ZAXGSSTQB0D5DFBE3T/b376a4201c37d92950c7028073a5ae2b/PredX-Infographics-2026-09-15T104603.626.png",
+      "description": "Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test",
+      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
+      "site_name": "predx-article"
+    },
+    {
       "title": "A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase",
       "url": "https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase",
       "hn_url": "https://news.ycombinator.com/item?id=49673026",
@@ -31,20 +45,6 @@
       "description": "Revolut confirme \u00e0 BeInCrypto qu\u2019un faux email gouvernemental a d\u00e9rob\u00e9 des donn\u00e9es clients, dont passeports et dossiers Bitcoin.",
       "favicon": "https://fr.beincrypto.com/apple-touch-icon.png",
       "site_name": "BeInCrypto"
-    },
-    {
-      "title": "Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check",
-      "url": "https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T",
-      "hn_url": "https://news.ycombinator.com/item?id=49719674",
-      "author": "joeymabia1",
-      "points": 4,
-      "num_comments": 1,
-      "created_at": "2026-09-15T22:22:12Z",
-      "object_id": "49719674",
-      "image": "https://images.fika.bar/post/01M2HE34ZAXGSSTQB0D5DFBE3T/b376a4201c37d92950c7028073a5ae2b/PredX-Infographics-2026-09-15T104603.626.png",
-      "description": "Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test",
-      "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
-      "site_name": "predx-article"
     },
     {
       "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-09-15T23:03:45.853164+00:00"
+  "fetched_at": "2026-09-16T01:32:36.341976+00:00"
 }

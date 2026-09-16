@@ -26,7 +26,7 @@
     },
     {
       "headline": "Clarity Act will have 'large positive impact' on crypto and global economy, Ethereum co-founder says",
-      "source": "Fox Business",
+      "source": "foxbusiness.com",
       "source_url": "https://www.foxbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqVGJ2MFZNeXhTRzJNdzlIQnNYOFVLVU12VjZzTzBJbmxMN24xTmxKNTRYeXZabFlqTDUwWDVhOXhNR2IxeF9nekNHTzBKa3hqRGlYQU8tbmg2LTA?oc=5",
       "pub_date": 1789499520.0,
@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "Current price of Ethereum for Sept. 15, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xQURjQ29wOXJoY3doTU9VaWc4WnNIdW1GVkZ2UFROQ3ZNR1NuRFo5Z2hfTmNtc0lpcmdfbThNMXJIR2stYzFXYVViRHc4Y0NCYWhTdVpZZ1lqd09aWW5DYWVoeGlJX1Za?oc=5",
-      "pub_date": 1789477200.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-15-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-15.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
       "headline": "Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887192%2Fsad-businessman.jpg&w=1200&op=resize",
       "description": "Could the Clarity Act really become a super-catalyst for Ethereum?"
+    },
+    {
+      "headline": "Current price of Ethereum for Sept. 15, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xQURjQ29wOXJoY3doTU9VaWc4WnNIdW1GVkZ2UFROQ3ZNR1NuRFo5Z2hfTmNtc0lpcmdfbThNMXJIR2stYzFXYVViRHc4Y0NCYWhTdVpZZ1lqd09aWW5DYWVoeGlJX1Za?oc=5",
+      "pub_date": 1789485161.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-15-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-15.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T23:04:03.327370+00:00"
+  "fetched_at": "2026-09-16T01:32:52.476984+00:00"
 }
