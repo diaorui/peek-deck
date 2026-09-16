@@ -5,44 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin tumbles 4% to $75,000 as hopes of CLARITY Act passage this year fade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk5NTFFuS0pBQV9Zckt5ejlZMVU2TFNScjRMYTl2Q2ZnWHN1d2pRa0s1Ykw3dm0xeDBkUFJkVGpBVk42dWY4TVMzdjAzQnVpNFB3VDJ1VUNfUWNwLTJST1NMbXFFbEQ0NUx1emJ2eUdYdHFnM3BlZ05nSWV5RThITDFFbC1zQmlmVF9kSEItWWpvOW10M0lLVkU0S2tlVjdWQ0lnXzVuZl9sNi1fcDB5bjlDUF9XSlhXMlBic2UyUmI2U0E4T0JBa0JR?oc=5",
-      "pub_date": 1789499200.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-4-to-75000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
-      "description": "Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes."
-    },
-    {
-      "headline": "What does a Fed rate hike mean for bitcoin prices?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcF94Zmpob2VtSHotVmp0XzZWUGxuZG1lM01WeXYyNEYxVV9VSEcwMXIzd1Z6T2JuOFZCczR4VUFxM005eXNJc1dBaWNHSGJNNlRyVk0xc0JULUx5Zmktdnl5Y3RuZDdUY3JodlRWRG16TThUUFNzR2JUSXpDS0V2RmdTMnhhSXRxNU5RUkpEYTlLYXllcG5UNEtnWHQ?oc=5",
-      "pub_date": 1789577697.0,
-      "article_url": "https://finance.yahoo.com/video/what-does-a-fed-rate-hike-mean-for-bitcoin-prices-165457988.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cfeee2428fc1cda1b06dfb27e9871912900b394e0ea2ca59cfaea1329d22a4cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2f4bf133-9844-4ade-ba67-5851451796f3_f468bed42d036d177598eb872822ce602a197b3fd5b1619574466bdaaacad592.jpg",
-      "description": "In this episode, Scott Melker explains how an interest rate hike from the Federal Reserve could impact bitcoin (BTC-USD) and crypto in the short and long term.\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\nMake sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news."
-    },
-    {
-      "headline": "Strategy Is Buying Bitcoin Again. Here's What That Means for the Price of Bitcoin.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUhsNEtFSmk4MDlZengyMDM1NDhlRGNjY2lHSUFlcFRUYkhuZTZtUGhsX2NTQlV4emQxaUY4ZWNwR1VaWWJtTzRSSnFMOEtjaWpmWjh5RGNKNUF3dXlHbEc2OGxtam9HVlk1WkY3WGZUZGcwOEoyVHhSQW9oLXZ3TC00X3FyUlVfNTluOFJjeHdfd3pFZDdLODlzLTF3dmdUMVE?oc=5",
-      "pub_date": 1789578420.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/strategy-buying-bitcoin-again-heres-170700016.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7690346bc2c28b69db3ce79bfbf39d455972ba0dd5fad4aaeddfd2bdd71ebb40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa40f53cd20a4197aa9beb694a7ed71f2.png",
-      "description": "Strategy is back to buying Bitcoin after a summer of sales. The headlines matter more than the coins."
-    },
-    {
-      "headline": "Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmVpUXdQdmtOUnNRRVJ1TXRVQy1acy14c0hvbFVjWkFuOUtHcHpNWXZYeGNNeGcyNXhoY3JtWldpdW5RRGFYUjNoN081R1VfWVlTX1QyZ1hrSE9OTml0anYwelhyTU1NZGdYd2hJT1dqNzZiU18tSW1TM1J1WWpQek9ncF9haXJpUVVqYWRuWnpyRXZQYjAtM0lOelVpWjVSbkRpS3h2YUVuNWpxUUlIZ0F3dFlMd1FTazFPMW5JWVpCZmFaV3cw?oc=5",
-      "pub_date": 1789559880.0,
-      "article_url": "https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150",
+      "headline": "Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
+      "pub_date": 1789499685.0,
+      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s most-used software is getting a major update. Here\u2019s what actually changes",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcFJIOEhJVHlheEFHNUt3MnhhaVByaXBaV0t3QThrVWdxYjF2d3FhVVhoamNxNXJONXlaVEdUcnc1Y1NuUzlmM2dtdzBPSXJqV2M2RXdUTnFiT0I4SFdOMTBJaWFsTVY1ZHFDS0xaYThRbC1Hck9tRjRmRmoxZ1Y4Zl9LSHp6eHJ6VXlnN0locUZQZjJfTS1BNjNZZjh3MHA1YlQ3bTc1QWVfSlJLbnhlNUQyc21YeXZjMGJMSWxIakZLS0ZIU3hERTZTSQ?oc=5",
+      "pub_date": 1789560041.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a157306e943dd581a50f1881a075dc427bda6fad-1920x1080.jpg?auto=format&q=75",
+      "description": "The October update changes how nodes estimate transaction fees and process blocks, while fixing a wallet flaw that could let an authenticated user run commands on a node."
     },
     {
       "headline": "Bitcoin Under Renewed Pressure as Looming Fed Hike Adds to Woes",
@@ -55,14 +35,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekJiV3NDSjFIcWdLdUo3YzZ0OWJzY3Rzc3dwU0pZdDRsaUs3a2xnMWZ0WElNaFU4WlRLdGFRM0YyLVZ6aURzYXZMTnR2Q0FpNUtpR3AtWlB2OGx1UUpYdGw5UmtQWHlTVnhLNHZfQTRXbzh6WGduQWVzZUllY2RhM3prX2hsSkM2ZXZORW1vSF83S3VNOEtzOXJxYkk2YVZZNkptRU5oOGdESDh2bURDdVdFOGtRVGtubGpwOVFR?oc=5",
-      "pub_date": 1789509830.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d1655a19e778e4e75df0ba088282ada6352c0206-7924x5285.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Bitcoin is stuck near $80,000 as traders build stablecoin positions that could return to the market once Fed uncertainty clears."
+      "headline": "Bathhouse is bringing 36,000 square feet of Bitcoin-powered pools and saunas to Philly",
+      "source": "Inquirer.com",
+      "source_url": "https://www.inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQl8zMmdfS052TEVvUnF3bXJzUGRyN0QwN1BGRTBFMnFaamhtZ1o4OFpjcTg0YkFuN0x3WmpfUHVCNnoySWtrOExaRUlZU0pvTlNzYS1GQ3NCS0hxeUhpVF80aTN5NnVXZDFNMG82Q1JwMTRjcVF2RklBam5wd2d4OW4zWTNZNF92eW9BRlU3S0lOY2NMV2dVWA?oc=5",
+      "pub_date": 1789480800.0,
+      "article_url": "https://www.inquirer.com/life/bathhouse-center-city-philly-saunas-bitcoin-pools-20260915.html",
+      "image": "https://www.inquirer.com/resizer/v2/VOIMC645LJCGJKNTRAPB3WSB7A.jpg?auth=4589c3d6ce32e567570858bcb1b4db3031eb9290ec8a9a1d87bd5d9d374f7875&width=760&height=507&smart=true",
+      "description": "The New York City-based wellness brand is opening in the bottom of the Bellevue hotel with three saunas, three pools, and a steam room to start."
+    },
+    {
+      "headline": "It\u2019s no longer a debate: Hold both gold and Bitcoin as global sovereign debt drives demand for alternatives - 3iQ\u2019s Mancuso",
+      "source": "KITCO",
+      "source_url": "https://www.kitco.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON0pOOXQ1SmozQmpGYnNIM3M0V3ZFWmJxbW1iQlNYaVFFT3JwOXpqUTAyelBqZTlTWWZKSk9wZGxiSlZFV2ZJekdkd1hFaFZVaVMyeUhManc0Skl5NzV4MHV3dVgxM2RYZ2F0S1RsSjcxVlFHXzg0eTFVcmhibTNOVUEtdzlncHZjQWhYbENoMUpfRkFHckFJeElLdlJhTDZzTUtGOWp0SzgzMkdwNG1LRW5ZWTljUQ?oc=5",
+      "pub_date": 1789582685.0,
+      "article_url": "https://www.kitco.com/news/article/2026-09-16/its-no-longer-debate-hold-both-gold-and-bitcoin-global-sovereign-debt",
+      "image": "https://image-api.prod.kitco.com/image/e16bb3ee-49f9-4ac7-9a76-dc90843a3927.jpeg?top=0.45445110701107&left=0&width=1000&height=562.09109778598&scale_width=1920&token=f6c206d723f21f26fe34903227e2eaf4a286fa25b052fa2db6ff67ae25959a2b",
+      "description": "(Kitco News) - Persistent fiscal deficits, ballooning sovereign debt and rising geopolitical fragmentation are forcing investors to rethink what constitutes a safe-haven asset, and one digital asset executive says the answer increasingly includes both gold and Bitcoin.In an exclusive commentary for Kitco News, Tommaso Mancuso, President and Chief Investment Officer at global digital asset investment manager 3iQ, said the long-running debate over whether Bitcoin can replace gold has become outdated. Instead, institutional investors should view the two assets as complementary components of a broader hard-asset allocation.Mancuso noted that central banks accumulated an average of roughly 1,000 tonnes of gold annually between 2022 and 2025, about twice the average pace of the previous decade. At the same time, Bitcoin has moved deeper into mainstream finance through spot exchange-traded funds, corporate treasury adoption and increased institutional participation.The common denominator, according to Mancuso, is growing concern about the sustainability of traditional sovereign assets. In recent weeks, fears over an unsustainable rise in global sovereign debt have pushed gold prices back above $4,300 an ounce, while Bitcoin is currently trading above $75,000 per token.Mancuso explained that developed economies are facing structurally higher debt burdens and persistent fiscal deficits. Citing International Monetary Fund projections, Mancuso said average government debt among G7 economies is expected to reach 123.7% of GDP in 2026. At the same time, geopolitical tensions are increasing demand for reserve diversification and drawing more attention to sovereign counterparty risk.\u201cThis environment has accelerated the flight toward assets outside traditional sovereign liabilities,\u201d Mancuso wrote.While Bitcoin is increasingly being considered within the same conversation, Mancuso said gold continues to occupy a unique position as a mature global monetary asset.\u201cGold has historically fulfilled this role as a reserve asset during periods of monetary instability, but Bitcoin is increasingly viewed through a similar lens,\u201d he said.Mancuso pointed out that gold and Bitcoin share what he described as similar \u201cmonetary DNA.\u201d Both have constrained supplies, can be owned outside the traditional sovereign financial system and derive a significant portion of their value from their perceived ability to preserve purchasing power rather than from their industrial or transactional utility.However, he said those similarities mask important differences in how investors should use the two assets.He pointed out that gold\u2019s monetary network has developed over centuries and is supported by central banks and other institutional investors. Sovereign institutions alone hold more than 36,000 tonnes of physical gold, valued in the report at close to $5 trillion.\u201cGold operates primarily as a defensive portfolio anchor,\u201d Mancuso said. \u201cIt serves as a reliable ballast against systemic shocks and currency debasement.\u201dAccording to the report, gold has historically exhibited annualized volatility of around 12% to 15%, with drawdowns rarely exceeding 30% in modern market regimes. Bitcoin, by comparison, has typically experienced annualized volatility between 40% and 50%, along with historical drawdowns of between 70% and 80%.Mancuso said that difference means Bitcoin should not simply be considered a digital substitute for gold. Instead, Bitcoin represents a potentially higher-growth and substantially more volatile monetary network, while gold provides stability and liquidity within a hard-asset allocation.\u201cGold offers deep, liquid stability to the hard-asset sleeve of a portfolio,\u201d he said. \u201cBitcoin, by contrast, operates as a high-convexity vehicle with asymmetric upside potential if network expansion continues.\u201dAt the same time, Mancuso said technology is beginning to eliminate some of gold\u2019s traditional disadvantages compared with digital assets.Tokenized gold products such as Tether Gold and Pax Gold allow investors to retain exposure to physical, vault-secured bullion while taking advantage of blockchain settlement, including 24-hour trading, fractional ownership and the ability to use tokenized bullion as collateral.The report said the tokenized gold market surpassed $6 billion in early 2026. Although that remains a fraction of the roughly $30 trillion above-ground gold market cited by 3iQ, Mancuso argued that its growth demonstrates how the ancient monetary asset is increasingly adopting infrastructure originally developed for cryptocurrencies.That development could also address one of gold\u2019s most persistent criticisms: unlike bonds or dividend-paying equities, bullion generates no income and carries storage and insurance costs.Mancuso noted that tokenized gold can potentially be deployed in lending markets or used as collateral, allowing investors to generate returns while retaining exposure to the metal. However, he cautioned that those returns are not inherent to gold itself and introduce additional smart-contract, counterparty and liquidity risks that physical bullion does not carry.Ultimately, Mancuso said investors may be asking the wrong question when they debate whether gold or Bitcoin will emerge as the dominant alternative monetary asset.For portfolio managers, he described gold as the \u201cdefensive anchor,\u201d providing a deeply liquid strategic reserve against geopolitical shocks and monetary stress. Bitcoin, meanwhile, represents a \u201cconvex growth engine,\u201d offering higher-risk exposure to the continued expansion of an emerging monetary network.With sovereign debt continuing to rise and confidence in traditional fiscal frameworks facing greater scrutiny, Mancuso said both assets could have increasingly important\u2014but distinctly different\u2014roles in institutional portfolios.\u201cGold offers the stability and liquidity of a mature monetary asset, while Bitcoin provides exposure to a monetary network that continues to institutionalise through expanding market infrastructure and growing institutional participation,\u201d he wrote.See live precious metals prices for gold, silver, platinum and palladium \u2014 in USD, CAD and 12 more currencies."
     },
     {
       "headline": "Bitcoin\u2019s Network Hashrate Is 50% Below Trend as Miners Shift to AI",
@@ -75,24 +65,24 @@
       "description": null
     },
     {
-      "headline": "Saylor says SEC, CFTC and Treasury can advance Bitcoin rules without Congress",
-      "source": "TradingView",
+      "headline": "2,269 Bitcoin transferred from unknown wallet to Coinbase Institutional in $171M move",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkY3THhTdzVqenZXUU5lWHdDNFdZd1hTOEUzQjdUV3R6Tk1VQnBudHJRbC1JMEVWZG5XLTVqek1LZ2QwelhzZldyaVdvNHRIM0NYdjhEMVpPUnlMWU9PT214RUZjOTY0N2NnS3VUZUpuSjlPV09na0wwSnZ0elNpRUl0RjJlcGEyQXgweFdzTmxaNjZlb2xfMHRJMVNoTXF0MGZoYncwVWJsT3BEaW5mdFJTU1U1UGlMbnNEdFJNR3BnYmFjMHdTWkpZZmN6b3JHTmY2OTFmdE8?oc=5",
-      "pub_date": 1789564704.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:fbc420751094b:0-saylor-says-sec-cftc-and-treasury-can-advance-bitcoin-rules-without-congress/",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRlZNLWRISFJobEhTb2R2TjZZTGhwLWNiaUwxMFNqSmg3NS1vd1preVh6TkNERmNnU3JiSTZVMEJfYUg2cWdFN0xjaWJVX0oxNTVkMTRjX2V1R29FQVctVGNtbTVaNXBMRWxubEx5eUJQbm1sVnd1Wm1PQUhsbThOakZHbzRnbU1oSHhWUk1fWTB3cXE5UFRKZFNTLV91bjBRSmo5LTFiQzNoYXNBTng1Q1pBdEVlWjNNOHdDeTBESzRBdHBVS2tETXRKd2k0b1ZKbDJ0dDR5dmxPRVZZd1psOUNyUQ?oc=5",
+      "pub_date": 1789569850.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:89dfed44b094b:0-2-269-bitcoin-transferred-from-unknown-wallet-to-coinbase-institutional-in-171m-move/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Michael Saylor said US crypto markets can continue developing even as the CLARITY Act remains stalled. He expects the SEC, CFTC and Treasury to pursue regulatory measures under existing law, alongside an expansion of bank services involving Bitcoin custody and lending against the crypto asset.Saylo\u2026"
+      "description": "Someone just moved 2,269 BTC, worth north of $171 million, from an unidentified wallet straight into Coinbase Institutional. Blockchain tracking service Whale Alert flagged the transaction, and it immediately caught the attention of market watchers trying to decode what big players are doing with t\u2026"
     },
     {
-      "headline": "The New Crypto Bull Market Could Be Coming. I Predict That These 3 Coins Will Lead It.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWVJGNndGMUswaEN4OU1vemZlNzFsM3gtRnBWTmp3Sm9LRldyLUR0cm9xR0gya0xxWl92cXZyRm95alE0Wi01b0JXN2FLa1JTaUY5MnpMazhkRWs5UHFzS1o5ZERzaDNVZmVUVmU4bm5OdkVzdWZaejR5U1F2TGpyNXdCWWhhUklydm5sWkg5cVZLNzdJSm81Yg?oc=5",
-      "pub_date": 1789560900.0,
-      "article_url": "https://www.fool.com/investing/2026/09/16/the-new-crypto-bull-market-could-be-coming-i-predi/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887245%2Fcrypto-bitcoin-up-and-down-arrows.jpg&w=1200&op=resize",
-      "description": "With crypto prices rebounding, there are already a few leaders pulling ahead of the pack."
+      "headline": "Bitcoin Price Prediction: What Could Bitcoin Be Worth Before Q4?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamJRZTdQdTFHVlNEcFM4T0dBYkRNYXY1aDhtU1NUTFJFOXA1eng3eTJhNm1TWk9MQWpWNjFYT2hqMkJJLW9TaUdMTlRYTkZtM1hsemlpVDdfZHJENEhSemsyVmdUbFNPdFJ6OVhRNEFSanBJZ0FkVXFJak9VeG9MXzBJX3JmM191RHItUEdzbk5YaWs2ak5SVTk0YnpBcWkya3hYQWJQYzFoUWFYRFQ0NjdyV0hfemk5dzRUNzZR?oc=5",
+      "pub_date": 1789572840.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/16/bitcoin-price-prediction-what-could-bitcoin-be-worth-before-q4/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-2084049748-huge-licensed-scaled.jpg",
+      "description": "Bitcoin trades near $76,000 with the Fed decision ahead. Here are three scenarios for where BTC could trade by September 30 and enter Q4."
     },
     {
       "headline": "Odell Beckham Jr. Took His $750,000 Rams Salary in Bitcoin and Was \u2018Happy\u2019 When It Hit Record Highs \u2014 Here\u2019s What It\u2019s Worth Now After the Crash",
@@ -103,8 +93,18 @@
       "article_url": "https://www.barchart.com/story/news/4613505/odell-beckham-jr-took-his-750-000-rams-salary-in-bitcoin-and-was-happy-when-it-hit-record-highs-heres-what-its-worth-now-after-the-crash",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI Could Be Bitcoin\u2019s Next Onboarding Engine, Nakamoto CEO Says",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vRGw2S1QwQzJPLUp4cm5kVFBVc3NLMmt5UTVaeXZMSU5HcVV1U3lNTWRFSjhxVXhVYWpnLV9TN09heE1TNm12dUJUdGlqcnh0OXE2dE5UXzVmWUNrRzJsY3doa0I1LVduRDlKQVMzYw?oc=5",
+      "pub_date": 1789493666.0,
+      "article_url": "https://bitcoinmagazine.com/news/ai-could-be-bitcoin-onboarder",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-21.jpg",
+      "description": "Speaking to the investment bank, Nakamoto CEO David Bailey said that AI could drive Bitcoin adoption."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T17:30:15.053917+00:00"
+  "fetched_at": "2026-09-16T20:23:29.467358+00:00"
 }

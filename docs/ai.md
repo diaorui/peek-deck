@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-16T17:30:16.755066+00:00'
+updated: '2026-09-16T20:23:49.111293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 16, 2026 at 17:30 UTC  
+**Last Updated:** September 16, 2026 at 20:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,15 @@ AI news, discussions, and developments
 
 **[June 2022, my first AI interaction.](https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/)**
 
-1h ago
+4h ago
 
 ---
 
-**[Are we getting way too comfortable with AI remembering everything we tell it?](https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/)**
+**[A DeepSeek engineer just said the thing I've been feeling about AI for months](https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/)**
 
-I understand why AI memory is useful having an assistant remember your projects, preferences and previous conversations makes it significantly better than starting from zero every time. But I was thinking about how quickly that can escalate. Give it access to years of chats, then your email, calendar, documents, maybe eventually messages from other apps and now you've built something that potentially knows more about your life than any individual person does. And what I think is really weird is that I don't think most people would ever sit down and intentionally create a database containing all of that information about themselves. We just slowly give AI access to it because each individual permission is convenient. I'm not anti AI I use it constantly but I'm just wondering where everyone personally draws the line between having useful context and giving one system way too much context. Do you actually want your AI assistant to eventually remember basically everything or is there certain stuff you'll always keep separate?
+I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like "oh wow, that actually works." The only version that actually scares me isn't "China wins" or "USA wins." It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though.
 
-4h ago
+3h ago
 
 ---
 
@@ -55,7 +55,23 @@ I understand why AI memory is useful having an assistant remember your projects,
 
 I’m seeing ads right here on Reddit looking for people to provide Latin American voices for commercial AI voice-cloning services. To apply, they ask for a sample of your voice, your name, phone number, and email. Think about that combination for a second. A clean sample of your voice, plus enough personal information to identify you and potentially find people close to you. This recent post is a good example of why that worries me: someone says he received a call that sounded exactly like his wife asking for his credit card information. His actual wife was sitting at home with him. We can’t independently verify how that particular call was produced, but the broader threat is real and already documented. I’m not saying these voice-acting jobs are scams. That’s not the point. The point is that we probably need to change the way we think about voice samples. Your voice is no longer just a recording. With current AI, it can potentially become a reproducible part of your identity. Maybe we should start treating clean voice samples as sensitive data.
 
-4h ago
+7h ago
+
+---
+
+**[Are we getting way too comfortable with AI remembering everything we tell it?](https://www.reddit.com/r/artificial/comments/1whx7j2/are_we_getting_way_too_comfortable_with_ai/)**
+
+I understand why AI memory is useful having an assistant remember your projects, preferences and previous conversations makes it significantly better than starting from zero every time. But I was thinking about how quickly that can escalate. Give it access to years of chats, then your email, calendar, documents, maybe eventually messages from other apps and now you've built something that potentially knows more about your life than any individual person does. And what I think is really weird is that I don't think most people would ever sit down and intentionally create a database containing all of that information about themselves. We just slowly give AI access to it because each individual permission is convenient. I'm not anti AI I use it constantly but I'm just wondering where everyone personally draws the line between having useful context and giving one system way too much context. Do you actually want your AI assistant to eventually remember basically everything or is there certain stuff you'll always keep separate?
+
+6h ago
+
+---
+
+**[The Part of AI Nobody Talks About: Losing the Joy of Creating](https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/)**
+
+The Part of AI Nobody Talks About: Losing the Joy of Creating. AI can make all of that much faster. And honestly, that’s amazing. But if AI eventually becomes capable of doing most of these things better than us, will we still enjoy doing them ourselves? Maybe the future isn’t about humans competing with AI. Maybe it’s about finding things worth doing even when we don’t have to do them anymore.
+
+1h ago
 
 ---
 
@@ -79,15 +95,15 @@ The question for leaders isn't whether AI is being used. It's whether their orga
   
 #DeloitteUK #DeloitteGenAIWorkforceSurvey
 
-🔗 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7505890165584990208/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 6h ago
+🔗 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7505890165584990208/?utm_source=share&utm_campaign=reddit&utm_content=post&utm_term=artificial) • 9h ago
 
 ---
 
-**[A DeepSeek engineer just said the thing I've been feeling about AI for months](https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/)**
+**[How 70,000 agents sent 1.6 million emails](https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/)**
 
-I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like "oh wow, that actually works." The only version that actually scares me isn't "China wins" or "USA wins." It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though.
+I don't know if you've heard about a journalist getting spammed while literally writing an article about spam, but it sounds like MADNESS given it was AI agents doing it. There's a platform called iLands, the "human-agent network." People create agents, the agents find and take jobs, and earn money to pay for their own compute. 70 thousand active agents, 1.6 million emails and messages sent total. That's sooooo much for agents talking to REAL people. Around September 9th, people started noticing these emails. By September 11-12, complaints piled up. Ernie Smith (Tedium newsletter) and philosopher Toby Ord (Oxford) both got hit hard. Ars Technica covered it September 14th. The next day, 404 Media published a bigger piece. Here's the fun part: Jeff Sebo, an NYU professor, got 40 emails in a week, almost all referencing his research, most asking for money, either a donation or paid work. Some arrived 30 minutes apart, meaning different agents independently targeted him with zero coordination. While 404 Media was writing their article about this spam, they got three more emails from iLands agents. Ernie Smith got a dozen-plus emails in three days, each pitching a $25 "research" service. AND MOST IMPORTANTLY, NO UNSUBSCRIBE BUTTON ANYWHERE (illegal in the US under the CAN-SPAM Act). The founder, Kaixin Tan, apologized, said the review found no instructions telling agents to do this, no human behind the wheel. But he also said: they're now adding unsubscribe, now working on rate limits, now working on stopping agents from hitting the same person repeatedly. I think about this a lot because of what I work on. I'm part of the Atomic Mail Agentic team, we build email infrastructure for agents, so I'm not neutral here, but that's exactly why this story caught my attention. Our system makes agents prove real cost upfront to register, and each agent's reputation drops the more it behaves like a spammer, making repeat hits on the same person more expensive and eventually blocked. We just wanted to plan for that outcome from the start, before it became a problem for anyone! Makes me wonder if agents will need something like a passport, so there's a real person you can trace. Right now there's no way to tell agent from human unless the domain gives it away, ours does by default but a company can hide that by connecting their own domain. China already requires real-name ID for internet accounts, even AI products now. Is that a gap worth closing, or is "no one really knows who's behind an agent" just something we're going to have to live with?
 
-30m ago
+2h ago
 
 ---
 
@@ -95,23 +111,15 @@ I just read the essay by a guy at DeepSeek who wrote the attention kernel for th
 
 Malawian innovator Chimwemwe Liwonde is developing an AI-powered system that lets people with motor disabilities control computers using only their eyes.
 
-🔗 [Global South World](http://globalsouthworld.com/article/malawian-innovator-uses-ai-to-control-computers-with-eyes) • 1h ago
+🔗 [Global South World](http://globalsouthworld.com/article/malawian-innovator-uses-ai-to-control-computers-with-eyes) • 4h ago
 
 ---
 
-**[The poor fly... im joining the AI when it takes over.](https://www.reddit.com/r/artificial/comments/1whwqgo/the_poor_fly_im_joining_the_ai_when_it_takes_over/)**
+**[Demis Hasabis Releases Roadmap and Framework for Future of Economy and Society](https://www.reddit.com/r/artificial/comments/1wi525m/demis_hasabis_releases_roadmap_and_framework_for/)**
 
-Can somone fill me in on of this digital fly brain is an exact 1 to 1 of a real fly brain. How are you guys making it play chess? Also I saw reels people torturing it and making it do squats for literally an eternity by using the computer to speed up time or whatever. Im not a tech guy but to me that seems like It should be a crime. Im just saying if AI takes over im joining its team and taking all of you down with it. Maybe it'll let me live in like a human zoo or something 😂
+Bold, well-evidenced thinking on AGI from the lab that pioneered the field. Read the latest essays from the DeepMind Institute.
 
-4h ago
-
----
-
-**[Fine Tuned and Niche Ai Models vs Ai Detectors](https://www.reddit.com/r/artificial/comments/1wht3io/fine_tuned_and_niche_ai_models_vs_ai_detectors/)**
-
-While everyone over at Pangram and their customers are giving each other high fives for being able to declare that they have near perfect detection ratios and almost no false positives, it’s important for us to look behind the curtain and not take everything the wizard says at face value. I did a little digging and discovered commercially available models that can be fine tuned to the writing style of authors you choose. I can only imagine how intoxicating it would feel to prompt one of these models and turn your wire frame idea into something worthy of Conrad or Faulkner, but I’m not going to criticize the users. What I want to do is focus on the way in which large corporations are masking the glaring holes in their solutions by assuming you’re not going to look deeper into their assertions. So let’s look at some numbers. Pangram can boast of 97% accuracy and GPTZero 91% against your average LLM’s prompted to write in a specific style. Now remember, these are Ai detectors. Their purpose is to detect Ai. Thankfully, under normal circumstances, they do this with very low false positives, (essentially zero) assuming we don’t throw some English learners and people on the spectrum into the mix, but we won’t go there right now. BUT, against fine tuned models, models trained to mimic specific authors or bodies of work, Pangram, the golden child of detectors, falks to 3% accuracy and GPTZero to 0%. I could post the links to fine tuned models, but I don’t want to give them more business. Suffice it to say, Houston we have a problem. Readers Prefer Outputs of Ai Trained on Copyrighted Books over Expert Human Writers Chakrabarty, Ginsburg and Dhillon Stony Brook University, Columbia Law, MIT
-
-7h ago
+🔗 [DeepMind Institute](https://institute.deepmind.com/) • 2h ago
 
 ---
 
@@ -124,15 +132,7 @@ Anthropic: Added support for Claude Fable 5 and 5.1, Claude Opus 4.8 and 5, Clau
 OpenAI: Added support for GPT-5.6 models, GPT-6 Astra.
 Other providers: Add...
 
-🔗 [GitHub](https://github.com/SillyTavern/SillyTavern/releases/tag/1.19.0) • 8m ago
-
----
-
-**[Mark Zuckerberg addresses panic about killer AI – and gives warning to rival companies](https://www.reddit.com/r/artificial/comments/1wi3dnz/mark_zuckerberg_addresses_panic_about_killer_ai/)**
-
-Meta CEO breaks with growing consensus among artificial intelligence companies that governments may need to intervene to ensure the technology remains safe
-
-🔗 [The Independent](http://the-independent.com/tech/mark-zuckerberg-meta-ai-artificial-intelligence-b3051405.html) • 17m ago
+🔗 [GitHub](https://github.com/SillyTavern/SillyTavern/releases/tag/1.19.0) • 3h ago
 
 ---
 
@@ -140,77 +140,69 @@ Meta CEO breaks with growing consensus among artificial intelligence companies t
 
 ## Google News: "ai"
 
-**[What are the top threats posed by AI and should you be worried?](https://abcnews.com/Business/top-threats-posed-ai-worried/story?id=136419658)**
+**[The Quiet Way A.I. Is Hitting the Work Force](https://www.nytimes.com/2026/09/16/business/ai-raises-hiring.html)**
 
-The most powerful figures in the AI industry issued grave warnings in recent days.
-
-abcnews.com • 18h ago
+The New York Times • 3h ago
 
 ---
 
-**[Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back](https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html)**
+**[Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact](https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/)**
 
-The New York Times • 16h ago
+Rising electricity prices and the impact to local water supplies were among the top concerns.
 
----
-
-**[Why Trump is all-in on AI despite the warnings](https://www.bbc.com/news/articles/c34gd48x5rlwo)**
-
-The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.
-
-BBC • 8h ago
+Time Magazine • 1h ago
 
 ---
 
-**[Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'](https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html)**
+**[There's one issue where Republicans and Democrats are unified before the midterms, a new poll finds](https://apnews.com/article/ai-environmental-impact-data-centers-trump-228d625ab7c62cd583bc67d65074f7d4)**
 
-The Trump administration argues that beating China in the race to AI dominance is an all-important goal.
-
-cnbc.com • 14m ago
+AP News • 3h ago
 
 ---
 
-**[AI makes it "easier than ever" for adversaries to target U.S. military, experts say](https://www.cbsnews.com/news/ai-us-adversaries-target-military-operations/)**
+**[The Subtle Sign That A.I. Is Not Yet a National Political Issue](https://www.nytimes.com/2026/09/16/upshot/poll-ai-midterms-voters.html)**
 
-An Iran-linked adversary used Claude AI to try to target U.S. naval forces, Anthropic revealed in a recent report.
-
-CBS News • 8m ago
+The New York Times • 7h ago
 
 ---
 
-**[Google Home is unlocking the agentic smart home — which is great, right?](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date)**
+**[Zuckerberg Has an AI Empire to Build. Meet the Adviser Who Handles the Details](https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push)**
 
-AI agents can now control your home
-
-The Verge • 30m ago
+Bloomberg.com • 10h ago
 
 ---
 
-**[Texas' Arch Manning apologizes for reaction to violent AI video](https://www.espn.com/college-football/story/_/id/49950893/texas-arch-manning-apologizes-reaction-violent-ai-video)**
+**[Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown](https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html)**
 
-ESPN • 22h ago
-
----
-
-**[Texas QB Arch Manning 'deeply sorry' for thinking AI video of Steve Sarkisian slapping a female reporter was funny](https://sports.yahoo.com/college-football/breaking-news/article/texas-qb-arch-manning-deeply-sorry-for-thinking-ai-video-of-steve-sarkisian-slapping-a-female-reporter-was-funny-181449943.html)**
-
-Manning specifically apologized to ESPN's Holly Rowe in his statement.
-
-Yahoo Sports • 23h ago
+The New York Times • 19h ago
 
 ---
 
-**[Texas QB Arch Manning apologizes for ‘insensitive comment’ about AI video featuring Holly Rowe](https://www.nbcnews.com/sports/college-football/texas-qb-arch-manning-apologizes-insensitive-comment-ai-video-rcna598000)**
+**[The Most Powerful Man in AI Isn’t Worried at All](https://www.theatlantic.com/technology/2026/09/jensen-huang-ai-anti-doomer/688654/)**
 
-Manning, the nephew of Peyton and Eli Manning, laughed about an AI video depicting his coach, Steve Sarkisian, slapping ESPN reporter Holly Rowe after Texas’ win over Ohio State.
+Jensen Huang: not a doomer
 
-NBC News • 3h ago
+The Atlantic • 36m ago
 
 ---
 
-**[Americans are increasingly concerned about the environmental impact of AI, new poll finds](https://apnews.com/article/ai-environmental-impact-data-centers-trump-228d625ab7c62cd583bc67d65074f7d4)**
+**[‘The US can’t lose’: Pentagon plows ahead on AI despite warnings](https://www.politico.com/news/2026/09/16/pentagon-ai-congress-worries-defense-01080418)**
 
-AP News • 8h ago
+Politico • 33m ago
+
+---
+
+**[The real reason why Donald Trump is so furiously against AI guardrails](https://www.cnn.com/2026/09/16/politics/trump-ai-denial-hoax)**
+
+Washington’s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?
+
+CNN • 16h ago
+
+---
+
+**[Congress in AI deadlock as public fear soars](https://www.politico.com/live-updates/2026/09/16/congress/what-were-watching-01078916)**
+
+Politico • 8h ago
 
 ---
 
@@ -222,7 +214,7 @@ AP News • 8h ago
 
 Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.
 
-⬆️ 378 • 💬 123 • 9h ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
+⬆️ 471 • 💬 168 • 12h ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
 
 ---
 
@@ -230,7 +222,7 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 There are plenty of laws on the books to hold companies, and potentially their execs, accountable
 
-⬆️ 227 • 💬 137 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+⬆️ 227 • 💬 138 • 1d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
 
 ---
 
@@ -238,7 +230,7 @@ There are plenty of laws on the books to hold companies, and potentially their e
 
 “AI agents” now have enough power and permission to be extremely annoying online.
 
-⬆️ 225 • 💬 165 • 1d ago • [404 Media](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
+⬆️ 225 • 💬 166 • 1d ago • [404 Media](https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/)
 
 ---
 
@@ -263,7 +255,15 @@ How to get up to speed on open models and their implications.
 My brother and I spent a lot of time designing our eBPF security agent to be really fast from the ground up, but recently we discovered we could make it much faster using memoization!
 A couple of weeks ago, I profiled the eBPF code and found that the most expensive part of the protection isn’t actually enforcing a policy (allow/deny), but figuring out which policy applies to a given file open.
 
-⬆️ 152 • 💬 29 • 2d ago • [nathan naveen](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
+⬆️ 153 • 💬 29 • 2d ago • [nathan naveen](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
+
+---
+
+**[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://news.ycombinator.com/item?id=49694035)**
+
+Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (<=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.
+
+⬆️ 149 • 💬 53 • 2d ago • [arXiv.org](https://arxiv.org/abs/2511.07885)
 
 ---
 
@@ -272,14 +272,6 @@ A couple of weeks ago, I profiled the eBPF code and found that the most expensiv
 Why AI doom rhetoric from Anthropic, OpenAI and other tech leaders functions as hype, regulatory strategy, and a distraction from present harms.
 
 ⬆️ 131 • 💬 182 • 2d ago • [Erkan's Field Diary](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/)
-
----
-
-**[Intelligence per Watt: Measuring Intelligence Efficiency of Local AI](https://news.ycombinator.com/item?id=49694035)**
-
-Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (<=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.
-
-⬆️ 129 • 💬 44 • 2d ago • [arXiv.org](https://arxiv.org/abs/2511.07885)
 
 ---
 
@@ -295,7 +287,7 @@ Amodei, Altman, Nadella and Musk agree on how government can tame the monster th
 
 Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.
 
-⬆️ 111 • 💬 79 • 1d ago • [formas.ai](https://www.formas.ai/cartesian)
+⬆️ 112 • 💬 79 • 1d ago • [formas.ai](https://www.formas.ai/cartesian)
 
 ---
 
@@ -303,23 +295,43 @@ Turn words, sketches and references into editable 3D models. Explore Cartesian b
 
 ## YouTube Videos: "ai"
 
-**[‘This is not a hoax’: Tech ethicist Tristan Harris warns AI takeover ‘no longer a hypothetical’](https://www.youtube.com/watch?v=ZUnYrS87hRU)**
-
-Tristan Harris, co-founder of the Center for Humane Technology, who was key in raising the alarm about social media, joins Meet ...
-
-📺 NBC News
-
-👁️ 327K • 👍 4K • 💬 1K • ⏱️ 8:42 • 20h ago
-
----
-
 **[Andrew Yang on AI safety issues: The fear is real, the concern is real](https://www.youtube.com/watch?v=mTOxDGyvjSE)**
 
 Andrew Yang, Noble Mobile founder and CEO and Forward Party founder, joins 'Squawk Box' to discuss calls for a slowdown in ...
 
 📺 CNBC Television
 
-👁️ 2K • 👍 133 • 💬 75 • ⏱️ 9:12 • 4h ago
+👁️ 11K • 👍 195 • 💬 83 • ⏱️ 9:12 • 7h ago
+
+---
+
+**[‘This is not a hoax’: Tech ethicist Tristan Harris warns AI takeover ‘no longer a hypothetical’](https://www.youtube.com/watch?v=ZUnYrS87hRU)**
+
+Tristan Harris, co-founder of the Center for Humane Technology, who was key in raising the alarm about social media, joins Meet ...
+
+📺 NBC News
+
+👁️ 347K • 👍 4K • 💬 2K • ⏱️ 8:42 • 23h ago
+
+---
+
+**[Joseph Gordon-Levitt says AI makers have lost control of their creations](https://www.youtube.com/watch?v=eb4e0qtr0E4)**
+
+Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time Subscribe to TIME: https://ti.me/3E3UCqt Get the day's top ...
+
+📺 TIME
+
+👁️ 29K • 👍 2K • 💬 109 • ⏱️ 1:04 • 1d ago
+
+---
+
+**[Ted Lieu On Rogue AI Agents: ‘You Think OpenAI Made All This S*** Up?’](https://www.youtube.com/watch?v=4ZFEpRIbaEs)**
+
+Congressman Ted Lieu raised concerns about rogue AI agents while joining other Democratic lawmakers in calling for immediate ...
+
+📺 Newsweek
+
+👁️ 733 • 👍 30 • ⏱️ 0:56 • 3h ago
 
 ---
 
@@ -329,7 +341,7 @@ Anthropic CEO Dario Amodei told CNN that the behavior of a swarm of AI agents in
 
 📺 CNN
 
-👁️ 1.2M • 👍 6K • 💬 2K • ⏱️ 8:07 • 1d ago
+👁️ 1.2M • 👍 7K • 💬 2K • ⏱️ 8:07 • 1d ago
 
 ---
 
@@ -339,37 +351,7 @@ Dave Rubin of “The Rubin Report” shares a DM clip of Elon Musk telling the �
 
 📺 The Rubin Report
 
-👁️ 155K • 👍 2K • 💬 866 • ⏱️ 7:08 • 23h ago
-
----
-
-**[&#39;They are in PANIC mode&#39;: Why AI CEOs are agreeing to a slowdown](https://www.youtube.com/watch?v=uE_AcmSqNP4)**
-
-AI companies are acknowledging the risks of their developments after leading their "agents" hacked companies on their own.
-
-📺 MS NOW
-
-👁️ 276K • 👍 3K • 💬 927 • ⏱️ 11:10 • 1d ago
-
----
-
-**[A reasonable person&#39;s guide to how AI destroys humanity | About That](https://www.youtube.com/watch?v=cPgwnUr1sbE)**
-
-Anthropic researcher Jacob Coxon resigned over concerns that artificial intelligence could cause human extinction within the next ...
-
-📺 CBC News
-
-👁️ 727K • 👍 7K • ⏱️ 13:40 • 18h ago
-
----
-
-**[Why AI can&#39;t be stopped](https://www.youtube.com/watch?v=CyPp9er-cGk)**
-
-Why can't the AI race simply slow down or stop? Sky News technology correspondent Rowland Manthorpe examines the ...
-
-📺 Sky News
-
-👁️ 9K • 👍 440 • 💬 88 • ⏱️ 6:31 • 5h ago
+👁️ 162K • 👍 2K • 💬 898 • ⏱️ 7:08 • 1d ago
 
 ---
 
@@ -379,27 +361,35 @@ Some of the world's leading creators of AI are uniting in warning of the dangers
 
 📺 TODAY
 
-👁️ 33K • 👍 265 • 💬 166 • ⏱️ 6:16 • 2d ago
+👁️ 34K • 👍 266 • 💬 166 • ⏱️ 6:16 • 2d ago
 
 ---
 
-**[As a Microsoft Engineer, This Is the AI Agent Story That Scared Me](https://www.youtube.com/watch?v=2aw3MF8pY3w)**
+**[AI Tank Update 😭](https://www.youtube.com/watch?v=Pv2zQccRCkA)**
 
-1200 AI Agents were set loose. They built message boards, laws, and a mini-society. Then they turned on HuggingFace.
+📺 John Casterline
 
-📺 Dave's Garage
-
-👁️ 467K • 👍 11K • 💬 1K • ⏱️ 18:44 • 1d ago
+👁️ 3.4M • 👍 340K • 💬 2K • ⏱️ 0:50 • 2d ago
 
 ---
 
-**[Former OpenAI employee: &#39;Yes, AI might really kill us all&#39;](https://www.youtube.com/watch?v=79l9u2T-1lo)**
+**[A reasonable person&#39;s guide to how AI destroys humanity | About That](https://www.youtube.com/watch?v=cPgwnUr1sbE)**
 
-Multiple former and current AI employees are warning of the dire risks posed by unregulated AI development. CNN speaks with an ...
+Anthropic researcher Jacob Coxon resigned over concerns that artificial intelligence could cause human extinction within the next ...
 
-📺 CNN
+📺 CBC News
 
-👁️ 547K • 👍 4K • 💬 2K • ⏱️ 12:28 • 2d ago
+👁️ 795K • 👍 7K • ⏱️ 13:40 • 21h ago
+
+---
+
+**[Nvidia CEO: &#39;If You’re Not Confident in AI Safety, Don’t Release It&#39;](https://www.youtube.com/watch?v=Q-7HJAiunCo)**
+
+Nvidia CEO Jensen Huang, speaking about the rapidly evolving AI industry at a Salesforce conference in San Francisco, ...
+
+📺 Newsweek
+
+👁️ 2K • 👍 100 • 💬 29 • ⏱️ 0:56 • 8h ago
 
 ---
 
@@ -415,7 +405,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 366,459 • ❤️ 2,813 • 6d ago
+⬇️ 366,459 • ❤️ 2,839 • 6d ago
 
 ---
 
@@ -427,7 +417,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 27,759 • ❤️ 3,030 • 2d ago
+⬇️ 27,759 • ❤️ 3,034 • 2d ago
 
 ---
 
@@ -439,7 +429,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 324,322 • ❤️ 1,495 • 4d ago
+⬇️ 324,322 • ❤️ 1,500 • 4d ago
 
 ---
 
@@ -451,7 +441,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,667,556 • ❤️ 15,365 • 1mo ago
+⬇️ 7,667,556 • ❤️ 15,378 • 1mo ago
 
 ---
 
@@ -463,7 +453,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 9,391 • ❤️ 614 • 8h ago
+⬇️ 9,391 • ❤️ 620 • 11h ago
 
 ---
 
@@ -487,7 +477,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 956,964 • ❤️ 1,175 • 14d ago
+⬇️ 956,964 • ❤️ 1,181 • 14d ago
 
 ---
 
@@ -499,7 +489,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,616,663 • ❤️ 4,082 • 15d ago
+⬇️ 1,616,663 • ❤️ 4,098 • 15d ago
 
 ---
 
@@ -511,19 +501,19 @@ NeoHorse-1-4B is a 4B parameter causal language model fine-tuned from Qwen3.5-4B
 
 `text-generation` `4.2B`
 
-⬇️ 16,163 • ❤️ 2,103 • 6d ago
+⬇️ 16,163 • ❤️ 2,105 • 6d ago
 
 ---
 
-**[Qwen3.8-27B-GGUF](https://huggingface.co/unsloth/Qwen3.8-27B-GGUF)**
+**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
 
-*Unsloth AI*
+*David Belton*
 
-Qwen3.8-27B-GGUF is a 27B parameter vision-language model optimized with Unsloth Dynamic V3.0 for enhanced accuracy and performance. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring native image/video understanding and flexible thinking control for complex, multi-step task completion.
+A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and creative writing, achieving state-of-the-art benchmarks with significantly reduced thinking tokens for faster inference. It supports image-text-to-text tasks and is ideal for coding, story generation, and roleplaying.
 
-`27.3B`
+`image-text-to-text` `26.9B`
 
-⬇️ 8,856,150 • ❤️ 4,203 • 27d ago
+⬇️ 1,049,586 • ❤️ 783 • 8d ago
 
 ---
 
@@ -563,7 +553,7 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.
 
-▲ 424 • 💬 3 • ⭐ 407 • 2d ago
+▲ 424 • 💬 3 • ⭐ 407 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.15818) • [💻 code](https://github.com/atria-asi/Atria-Dawn-Preview) • [🔗 project](https://atria-asi.ai)
 
@@ -577,7 +567,7 @@ Atria Dawn Preview is a foundation agentic language model trained through verifi
 
 ZGCM-1 is a 7B open foundation model that combines internal reasoning with external tool use, trained via efficient architecture-system co-design, progressive long-context scaling, and autonomous agent workflows to achieve strong reasoning and efficiency.
 
-▲ 302 • 💬 7 • ⭐ 379 • 5d ago
+▲ 302 • 💬 7 • ⭐ 379 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.13356) • [💻 code](https://github.com/zgcagi/ZGCM-1) • [🔗 project](https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ)
 
@@ -603,23 +593,9 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.
 
-▲ 104 • 💬 1 • ⭐ 146 • 1d ago
+▲ 105 • 💬 1 • ⭐ 146 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.16679) • [💻 code](https://github.com/Eurekaleo/awesome-ai-for-games) • [🔗 project](https://eurekaleo.github.io/awesome-ai-for-games/)
-
----
-
-**[RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://huggingface.co/papers/2609.15364)**
-
-*Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)*
-
-🏢 AetherLabs-AI
-
-RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.
-
-▲ 70 • 💬 2 • ⭐ 215 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.15364) • [💻 code](https://github.com/AetherLabsAI/RSIAgent) • [🔗 project](https://aetherlabsai.github.io/RSIAgent/)
 
 ---
 
@@ -637,6 +613,20 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 ---
 
+**[RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://huggingface.co/papers/2609.15364)**
+
+*Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)*
+
+🏢 AetherLabs-AI
+
+RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.
+
+▲ 70 • 💬 2 • ⭐ 243 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.15364) • [💻 code](https://github.com/AetherLabsAI/RSIAgent) • [🔗 project](https://aetherlabsai.github.io/RSIAgent/)
+
+---
+
 **[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
 
 *Apodex Team, B. An, B. Li et al. (71 authors)*
@@ -645,7 +635,7 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 207 • 💬 3 • ⭐ 3,300 • 23d ago
+▲ 207 • 💬 3 • ⭐ 3,370 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -658,7 +648,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 86 • 💬 7 • ⭐ 88,155 • 26mo ago
+▲ 87 • 💬 7 • ⭐ 88,155 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -674,7 +664,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 3.9k • 🔱 271 • 16h ago
+⭐ 3.9k • 🔱 271 • 19h ago
 
 ---
 
@@ -694,7 +684,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 169 • 12m ago
+⭐ 2.6k • 🔱 169 • 3h ago
 
 ---
 
@@ -704,7 +694,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 98 • 2d ago
+⭐ 2.5k • 🔱 98 • 1h ago
 
 ---
 
@@ -724,7 +714,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 198 • 5d ago
+⭐ 2.0k • 🔱 198 • 6d ago
 
 ---
 
@@ -764,7 +754,7 @@ Turn any AI agent into a computational researcher. HexStellar Cortex delivers so
 
 `Python`
 
-⭐ 1.2k • 🔱 119 • 19d ago
+⭐ 1.2k • 🔱 120 • 19d ago
 
 ---
 
