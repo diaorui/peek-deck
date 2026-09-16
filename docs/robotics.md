@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-16T20:23:49.127214+00:00'
+updated: '2026-09-16T23:10:43.822026+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 16, 2026 at 20:23 UTC  
+**Last Updated:** September 16, 2026 at 23:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 Seeing is Believing
 
-citriniresearch.com • 5h ago
+citriniresearch.com • 8h ago
 
 ---
 
@@ -136,7 +136,15 @@ The Robot Report • 1d ago
 
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
-Bloomberg.com • 1d ago
+bloomberg.com • 1d ago
+
+---
+
+**[Robotics and Discovery Day comes to Pittsburgh convention center](https://www.cbsnews.com/pittsburgh/video/robotics-and-discovery-day-comes-to-pittsburgh-convention-center/)**
+
+The Pittsburgh area is often referred to as the powerhouse region of robotics and AI. Once a year, the robotics industry puts on a one-day convention. Barry Pintar has an inside look.
+
+cbsnews.com • 56m ago
 
 ---
 
@@ -152,15 +160,7 @@ The Conversation • 2d ago
 
 Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
 
-techcrunch.com • 5h ago
-
----
-
-**[CSX and Wounded Warrior Project host robotics, drone training for 21 veterans](https://www.yahoo.com/news/us/articles/csx-wounded-warrior-project-host-194257119.html)**
-
-Twenty-one military veterans gathered at the CSX Moncrief Yard on Tuesday for a hands-on training session in robotics and drone flight.
-
-Yahoo • 40m ago
+TechCrunch • 8h ago
 
 ---
 
@@ -172,19 +172,17 @@ Ars Technica • 2d ago
 
 ---
 
-**[Iron Man-like ceiling-mounted robotic arms for house chores unveiled](https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms)**
+**[AI robots will now be on San Mateo County’s radar](https://www.mercurynews.com/2026/09/16/ai-robots-will-now-be-on-san-mateo-countys-radar/)**
 
-MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
+The permitting system takes effect mid-October and only applies to unincorporated of the county.
 
-Interesting Engineering • 2d ago
+The Mercury News • 32m ago
 
 ---
 
-**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
+**[CSX and Wounded Warrior Project host robotics, drone training for 21 veterans](https://www.actionnewsjax.com/news/local/csx-wounded-warrior-project-host-robotics-drone-training-21-veterans/1701f7c3-35bf-4d73-ac1b-15bc42867106/)**
 
-How to secure today’s AI robots against stealth cyber threats
-
-IEEE Spectrum • 3h ago
+Action News Jax • 2m ago
 
 ---
 
@@ -198,7 +196,7 @@ Unitree brought the future to the AGT 2026 stage with a groundbreaking performan
 
 📺 Talent Replay
 
-👁️ 25K • 👍 87 • 💬 12 • ⏱️ 4:51 • 21h ago
+👁️ 28K • 👍 93 • 💬 13 • ⏱️ 4:51 • 1d ago
 
 ---
 
@@ -208,7 +206,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 85K • 👍 2K • 💬 597 • ⏱️ 13:22 • 5d ago
+👁️ 85K • 👍 2K • 💬 601 • ⏱️ 13:22 • 5d ago
 
 ---
 
@@ -218,17 +216,7 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 📺 The AI Nexus
 
-👁️ 23K • 👍 298 • 💬 19 • ⏱️ 24:48 • 4d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 8K • 👍 165 • 💬 15 • ⏱️ 57:02 • 1d ago
+👁️ 23K • 👍 299 • 💬 19 • ⏱️ 24:48 • 4d ago
 
 ---
 
@@ -238,17 +226,17 @@ Tesla Optimus is moving from a futuristic demo to a much bigger question: can a 
 
 📺 FutureTech Zone
 
-👁️ 82K • 👍 1K • 💬 213 • ⏱️ 0:25 • 5d ago
+👁️ 83K • 👍 1K • 💬 218 • ⏱️ 0:25 • 5d ago
 
 ---
 
-**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 NBC News
+📺 The AI Nexus
 
-👁️ 1.2M • 👍 4K • 💬 2K • ⏱️ 2:28 • 4d ago
+👁️ 8K • 👍 171 • 💬 15 • ⏱️ 57:02 • 1d ago
 
 ---
 
@@ -258,7 +246,17 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 293K • 👍 16K • 💬 398 • ⏱️ 0:37 • 2d ago
+👁️ 302K • 👍 17K • 💬 407 • ⏱️ 0:37 • 2d ago
+
+---
+
+**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
+
+Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
+
+📺 NBC News
+
+👁️ 1.2M • 👍 4K • 💬 2K • ⏱️ 2:28 • 5d ago
 
 ---
 
@@ -278,7 +276,7 @@ Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons t
 
 📺 Adrian Chong
 
-👁️ 12K • 👍 319 • 💬 82 • ⏱️ 17:00 • 1d ago
+👁️ 12K • 👍 324 • 💬 82 • ⏱️ 17:00 • 1d ago
 
 ---
 

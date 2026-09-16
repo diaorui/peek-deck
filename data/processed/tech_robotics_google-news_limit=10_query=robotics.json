@@ -36,13 +36,23 @@
     },
     {
       "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
       "pub_date": 1789470017.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Robotics and Discovery Day comes to Pittsburgh convention center",
+      "source": "cbsnews.com",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUlaY0JmZHRqSHFpcWFpZUJ3eXB0X29MZE01OWU3emVBTEpQUFZRS2ZNTC1ZcGhzTWR3QzdnNFlORTRKMGtsR3VSUkNtRzRySlNoc3dCMFh6MVpqRlFCSFlaVWJFUF9IZVg0UFgybTdueTYxdkdRdnRIX3pUck8ta2Z0TFNGSm42VzY3aWlpWWhfaGN4WU5abjZrUHZCQ01BSnJuQURwY0tYUQ?oc=5",
+      "pub_date": 1789596840.0,
+      "article_url": "https://www.cbsnews.com/pittsburgh/video/robotics-and-discovery-day-comes-to-pittsburgh-convention-center/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/16/31e7dbc6-41d6-4e1b-9b07-28dd65617c57/thumbnail/1200x630/08a5619307b1b19de0d589a1a6e230dc/79ae39dd662cb88625a800cbddc086f0.jpg",
+      "description": "The Pittsburgh area is often referred to as the powerhouse region of robotics and AI. Once a year, the robotics industry puts on a one-day convention. Barry Pintar has an inside look."
     },
     {
       "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
@@ -56,23 +66,13 @@
     },
     {
       "headline": "Nvidia\u2019s Les Karpas joins the agenda lineup at Disrupt 2026",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
       "pub_date": 1789570800.0,
       "article_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
       "description": "Nvidia's Les Karpas explains how robots are waiting\u00a0for\u00a0their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass."
-    },
-    {
-      "headline": "CSX and Wounded Warrior Project host robotics, drone training for 21 veterans",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjk2QnJrM0RKeUhZekpwVERhUlRlOUNPNUFjZ01SNlNRNWl6M2EzQmpFQ3BLZ0pHejdVTktIc2U0U1pOdF9mVS1CV3M1WGpyOVJIN2xKRG1YNDRiRTgzY2MtMDlTMUZqaFdXaG5nRzBGVDBYMjh0YVpyYjl3SlZoRERPTFBzVnhQUGpwbFFVcw?oc=5",
-      "pub_date": 1789587777.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/csx-wounded-warrior-project-host-194257119.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6cf3905d21b3a6d25f81fb0f87b117954d07e0ae679fb6eab53da4567b2dbf9b/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjax_cox_articles_158%2F81040d9917fa90ace43ef7ba37d50d61.jpg",
-      "description": "Twenty-one military veterans gathered at the CSX Moncrief Yard on Tuesday for a hands-on training session in robotics and drone flight."
     },
     {
       "headline": "Founder\u2019s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
@@ -85,26 +85,26 @@
       "description": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?"
     },
     {
-      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
-      "pub_date": 1789392900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
-      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
+      "headline": "AI robots will now be on San Mateo County\u2019s radar",
+      "source": "The Mercury News",
+      "source_url": "https://www.mercurynews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU28xMk14YldPdnFYLWtiem1MTkwxUWVHMi1sMVhjdXZTSG5lZVduclF4aENRZkdrZ2VQSlRhVzFSdUQ2RjRPaG8tMkgwMzNnY01TcERrcm50cVM4N29hbnFUSWRQaU83Z05SLWVFeGFINlJtWnVGdFJ2blBoSkhBbHh6amxmdnR4REZPSUNQQ1NEd9IBlwFBVV95cUxPeWVYQ0NXamNpOThkNGFnUWNKSHBLdVU0TF81MTVFLTJLejhjZEJrd2g1UFVaVG5sS1ozMmNCOVFsU01wT2ZRLVNCMGlLaHFmYmJVeWxqQXBkcVV3T19pTmF1ZUZNLXNxRjZ2WWloOFZKdGZVdEFXTmpZUHUtelJueWlxSEItb21FTHZIdWxhY2hMYmJlMnRB?oc=5",
+      "pub_date": 1789598302.0,
+      "article_url": "https://www.mercurynews.com/2026/09/16/ai-robots-will-now-be-on-san-mateo-countys-radar/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/08/SJM-L-ROBOTFAIR-0811-22.jpg?w=4800&h=3243",
+      "description": "The permitting system takes effect mid-October and only applies to unincorporated of the county."
     },
     {
-      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
-      "pub_date": 1789577483.0,
-      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
+      "headline": "CSX and Wounded Warrior Project host robotics, drone training for 21 veterans",
+      "source": "Action News Jax",
+      "source_url": "https://www.actionnewsjax.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLU4xdlRGdW5uUVBCemdGNS1nbzZyeU5CdTBrSnpOTFIxd25KRnFoYTdrY1ZKdGtSalRVcHBKVDBfQzlPWFFvQ01VVml0dmdRU3BGT2w4bWRSVnBkN1JxWHhaQUVsMkZLVEk0azF5LUR3QVhhRXMyZ3J2OUg1a193YjQ4RnFfNWtPaXNyc0ZBenY0YzV0WmFsTjVsMUppWTc1clROR1BVTURLSHJvV2t1U0hvYXdISkc0NE5SWWh3NzBJNEt1akh6UDhXdjRQNkFNV3lZajFEcGh0NlduRTRIRQ?oc=5",
+      "pub_date": 1789600110.0,
+      "article_url": "https://www.actionnewsjax.com/news/local/csx-wounded-warrior-project-host-robotics-drone-training-21-veterans/1701f7c3-35bf-4d73-ac1b-15bc42867106/",
+      "image": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F09-16-2026%2Ft_f8cdd454679b42c8a7c5e9009b22fd8c_name_file_1920x1080_5400_v4_.jpg?auth=a8671a91d11462fd0ece343a9c1a61d67dad2247e176b81342689d746db93cc9&width=1200&height=630&smart=true",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T20:23:31.434736+00:00"
+  "fetched_at": "2026-09-16T23:10:34.535998+00:00"
 }
