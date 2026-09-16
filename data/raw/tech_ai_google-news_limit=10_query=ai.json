@@ -5,34 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "What are the top threats posed by AI and should you be worried?",
+      "source": "abcnews.com",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0RCZlR6TWY3TUNZS1B4ZlFZY2MwMUx2UlNhbk1xQ1Nrb1FGWTJqZGs4Mk12MWJuUGhOUU56QmpuSWRVNThsNDRnSjVOZlk2dGpPMXo2ZDNQOG52OHlZQmV6elpEcGY5cjI5anlhWVNLc3BqbzBuWDUtVG5LQ0RuMWtR0gGHAUFVX3lxTE1iZW45ekFQM19nMzd4YlZxcWw4Z0J0c3dVc3k0UzFraHVBMGl4NEtqaVd5T3FQemE1emJBaEpRVEdEUGJaMU9UX1JDaFQtQm9rR2E5YzdsbDQxVTQtT21MTFpiWlBRMDVXaEJKWC1YTVBtZm5CVERMeXBZZkUzWktGZi13MHM1NA?oc=5",
+      "pub_date": 1789512768.0,
+      "article_url": "https://abcnews.com/Business/top-threats-posed-ai-worried/story?id=136419658",
+      "image": "https://i.abcnewsfe.com/a/a459472d-482b-4b25-aaaa-542883c693ca/ai-gty-er-240326_1711481220849_hpMain_16x9.jpg?w=1600",
+      "description": "The most powerful figures in the AI industry issued grave warnings in recent days."
+    },
+    {
       "headline": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
-      "pub_date": 1789512784.0,
+      "pub_date": 1789521659.0,
       "article_url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI Debt Boom Heads From Wall Street to Europe Despite Tech Angst",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3R3TGtfM3NvM3Y1Q3Q3VmVOMFU5RnRtcU9xYl9lczdkTTdubEhUVHk0akNqcHZucHV6QzljRGEwRU0yS2JKNkt2Mzg5d0R2b0NjeEF5SlZZWTh6NF9JdXdkdlBpcEFIN0Y5eURGWmROSWN2aFc5czl1OERSaE5rMVJEclNVeVVLX2w1RnppUXNTNUZPMkx0RTJWYTVzMkZoVVhEbDdTNnhGdUhNODVYRW9CVFpYZw?oc=5",
-      "pub_date": 1789556982.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/ai-debt-boom-heads-from-wall-street-to-europe-despite-tech-angst",
-      "image": null,
-      "description": null
+      "headline": "Why Trump is all-in on AI despite the warnings",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTjhzMW9DbzJ3ZjJkZlVjOTJRSWpMa3N6emZORlpQRjc1WFZOUTl3UllXZF9UTlZ4dXFXc1llYzczZjFMN2J4OXo2Z3A1bG5kelpDenVGRU5RV1k?oc=5",
+      "pub_date": 1789548104.0,
+      "article_url": "https://www.bbc.com/news/articles/c34gd48x5rlwo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fd71/live/87418770-b1bd-11f1-b1d1-571ed4d7ff2c.jpg",
+      "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters."
     },
     {
-      "headline": "The AI Tipping Point",
-      "source": "time.com",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmpRbnhYV3JKSk1ickdjVks3SEYtLXY1VWFRZEJSYS1oNEJiLTQxMjltbE1BTTNaWnB5QlY0SmpKNnJiQS00UGFGci1CeGt6SVRXTTA2YmZVLWJyYnJnUC1HZWl1d3NrQmRtT055eFdRWUFOVEZ5aTEtSVpqaGNnalcwV3hSMHZf?oc=5",
-      "pub_date": 1789470003.0,
-      "article_url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt27a261dea3854f3b/6aa8af11ef556fe002c29f7e/AI-Cover-Vertical-01.jpg?branch=production&width=2520&quality=75&auto=webp&crop=16:9",
-      "description": "Inside the industry's growing alarm\u2014and the struggle to turn warnings into action."
+      "headline": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaksyV1dQZGd5OHdJZFpxM2J0M3ItYnBXQjRpUG5TbEx6UFl3Tk9wbWNla0F3OUhjLTk0dlVCZ1pac3FyUV9tQi1vTkF0U3BuYU5iQUlBOU9ldDVZTWVMN0F1dTEzYUNzM0tQaVlDRXpSX0hTbkZPX0JmcHFrckw1dHRkQ1jSAYoBQVVfeXFMT2JHeUVvUjhGdUhfNXFBQVVkc1l4MXBSRUc0a0RKQTVBYl8wVU9mTnhzS19JN1VpdGJPc0poODBRN0lIWHpqYzc1bnVDUTl4MnQyNWw5TE54T19XeGgyWEtXb3U3SDhEUnZnWEtsdjNqbDIyVFN4UWxhUFItZDFRZHpEcWdHTlNueDBB?oc=5",
+      "pub_date": 1789578950.0,
+      "article_url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107010232-16438254542022-02-02t180204z_1484995815_rc2sbs9dufr7_rtrmadp_0_afghanistan-conflict-usa.jpeg?v=1676474619&w=1920&h=1080",
+      "description": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal."
+    },
+    {
+      "headline": "AI makes it \"easier than ever\" for adversaries to target U.S. military, experts say",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bzJZYTFuNEFXTVlmMnNyc1NKYmo1Rk16YjUwM0ZrT2J2WEJIekRCUzlZb2xLVVNScVRuX1g1S0gxcFE2NmJCY2p3U3JfUGxnQTVlSy1CSmNoQ2hiZnkzMl9KaEtpdU9kendKaUdPRkFsdnNJUFphUV9qTmVXanM?oc=5",
+      "pub_date": 1789579289.0,
+      "article_url": "https://www.cbsnews.com/news/ai-us-adversaries-target-military-operations/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/16/acfd6e01-c506-4c61-8dae-8bae61df8f18/thumbnail/1200x630/84529ce05b355dcd9e40145a2e46858d/gettyimages-2263711616.jpg",
+      "description": "An Iran-linked adversary used Claude AI to try to target U.S. naval forces, Anthropic revealed in a recent report."
+    },
+    {
+      "headline": "Google Home is unlocking the agentic smart home \u2014 which is great, right?",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUJlQkVtU1NCNXVYbEFsdVUtd2hsNVJQek5aenpaZ2d6NUoxT0JNdzBlcjRpRW8xTzllaTNyMjBBZktOakFiaVFaTUxKdmZKbUZRM1JyNDdBajZZVXM3UEdDem1CQm13bUdGanlpZjQ0TlFDTDlXaUF0SVIzQ04xOGc5RUFKSFV2S2FUeFB5NUYzUWJUY3ZoMENVaWt1b3dyLU8zMk1aNWM?oc=5",
+      "pub_date": 1789578000.0,
+      "article_url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&strip=all&crop=0%2C3.4128369206903%2C100%2C93.174326158619&w=1200",
+      "description": "AI agents can now control your home"
     },
     {
       "headline": "Texas' Arch Manning apologizes for reaction to violent AI video",
@@ -45,16 +75,6 @@
       "description": null
     },
     {
-      "headline": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWdHbHRjZFlCeUljRDZJVDV6bERLWTRhLTRkUW1vZGRDQ1c3UHNxbTJLMGxaNFpHaDNrRWFfNmQ5MlBzdmJreUxERW1MQnFiVUxMS1ZEaFE5d29OODd6SEV6ZWZOTEhCbFgtZWNfUG9BZDE1b1pSLXQ2OFFZdVNXS3Z4T09pS3FLSEw2VHNYYw?oc=5",
-      "pub_date": 1789500420.0,
-      "article_url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
-      "image": "https://i.guim.co.uk/img/media/b00a421c4c12b9f8872a3a0ff6b53b04e2a9dc7f/378_0_3764_3013/master/3764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a12983e171d730e14f4b9eeb9aca3c5",
-      "description": "The Texas star had joked about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping Rowe, a college football reporter for ESPN"
-    },
-    {
       "headline": "Texas QB Arch Manning 'deeply sorry' for thinking AI video of Steve Sarkisian slapping a female reporter was funny",
       "source": "Yahoo Sports",
       "source_url": "https://sports.yahoo.com",
@@ -65,46 +85,26 @@
       "description": "Manning specifically apologized to ESPN's Holly Rowe in his statement."
     },
     {
-      "headline": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUU3a0YtdWVPbVZMOEJuM3dETXRIV1I5LXF2QWpmVy1EU0FZcDZ3ZlRUTzM2Vk0yMkVhSE9LeG85NDdwVEx0R2M0MDhYRVlqMXFneldVQUk0b1BiR1A4Zm00YlhPWlgzZXhRekdWck84dzNPSF8zN2RBWjBrNUQyenBIVGRwYjlYbkozTDNEOC1mVWc5M0FiN2xkeHQwR2d2VGkyMlR5cTk?oc=5",
-      "pub_date": 1789556100.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
-      "image": "https://i.guim.co.uk/img/media/2a29a3d6979b1db484649ea644abd122682b1d13/855_0_4262_3411/master/4262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11232676dffb55036c4e626f76d59f88",
-      "description": "US vice-president\u2019s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity"
+      "headline": "Texas QB Arch Manning apologizes for \u2018insensitive comment\u2019 about AI video featuring Holly Rowe",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0F0VnkyWHBzY0l4Y1Z4U2lNemNpbW41V0JkZWJ1c1lkYzVha1RudXQ2SWtZMVdRRmhKT21ydW0wenRpbTE0QVo4ZzRUWng4OXFlU1VWTUliODItd2x5dE9tdnhoaDFkOGF1UnJudE9hb3hsLXZ0WU1EQjFndlo0dWpfREJ0cExacUhNc2Y3bE00Q2UxQ2hXcnh6NTBCQWhJWFZTeV8tTktaUG5va2xmbXdxcS10YnZBd2xHVA?oc=5",
+      "pub_date": 1789567200.0,
+      "article_url": "https://www.nbcnews.com/sports/college-football/texas-qb-arch-manning-apologizes-insensitive-comment-ai-video-rcna598000",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260915-Arch-Manning-ch-1343-91d079.jpg",
+      "description": "Manning, the nephew of Peyton and Eli Manning, laughed about an AI video depicting his coach, Steve Sarkisian, slapping ESPN reporter Holly Rowe after Texas\u2019 win over Ohio State."
     },
     {
-      "headline": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
-      "pub_date": 1789523760.0,
-      "article_url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
-      "description": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei."
-    },
-    {
-      "headline": "Zuckerberg Has an AI Empire to Build. Meet the Adviser Who Handles the Details",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNFYnhUQnFYempwS0puWklDWUZfazJES0RXVmRoUkEtSmRhTk83ZzZQSHBrVHdnbV9PZXFzclZVYmVkVDFfbXIzSlVTRU9rQXo0Ml9aY0dFaTAzUm9nZW10VVZoQUJoekE1RDBwSXV5S2FPTlpOcHRROEJOYnpXN3ZXMktiMWxwQXNidW9JU0VNU3lwWmotUkRyMUE5M0otWGNtOEtWUjZQZDZUWFNXWDZuNm1nUDZFcWFlYy1TWQ?oc=5",
-      "pub_date": 1789552800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push",
+      "headline": "Americans are increasingly concerned about the environmental impact of AI, new poll finds",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRuY2Jucy1oTW9YNF9ZaXEybXMtMENxZGQ3Y3ItU2JSTW5DNlJ5VzV4S0Fua2EzZ1dKLWtTS3JTQjdUaEozNGQ1U2E3cnpzSzllaE1oaVlIZW9rT1dMM1AtR2RyWFBqdjdWTk8tcmw4VVk1TmM3TUxYelV3bURteGwzX2tRSDFodC1kYURZeFVJaEFPbUV0QktQdUxDR2wteXo1NQ?oc=5",
+      "pub_date": 1789549500.0,
+      "article_url": "https://apnews.com/article/ai-environmental-impact-data-centers-trump-228d625ab7c62cd583bc67d65074f7d4",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0xX19Ja3JjQjFBX0E3YmpFNkFhOGRSdkNVdHdQRWhvNUFITGFqVm1peGVHRzVrSjMzYUF2QWVIZ2tETmJfekVORXRjN2hfcEtTZk5KeFRIZGRzNU9BRll2d2RGWHVEckNkWVBDc1ZUV2lhczUwZzRhbmVCVU9MSFpUVVRXUVNkNVRaY1RMNGZhWnc?oc=5",
-      "pub_date": 1789558236.0,
-      "article_url": "https://www.foxnews.com/live-news/artificial-intelligence-safety-mark-zuckerberg-09-16-26",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/d8032c988b5a15e8b3540949e52285fe.jpg",
-      "description": "Mark Zuckerberg argues AI labs can take their own safety measures as Anthropic\u2019s Dario Amodei pushes regulation and OpenAI\u2019s Sam Altman backs slowing development."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T12:43:58.199855+00:00"
+  "fetched_at": "2026-09-16T17:30:10.164829+00:00"
 }

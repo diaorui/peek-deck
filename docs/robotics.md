@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-16T12:44:03.063743+00:00'
+updated: '2026-09-16T17:30:16.773827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 16, 2026 at 12:44 UTC  
+**Last Updated:** September 16, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-2d ago
+3d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 1d ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 2d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-2d ago
+3d ago
 
 ---
 
@@ -112,11 +112,25 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+
+Seeing is Believing
+
+citriniresearch.com • 2h ago
+
+---
+
+**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+
+OregonLive.com • 1d ago
+
+---
+
 **[Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/)**
 
 Robots can start working outside physical cages and without safety barriers.
 
-Ars Technica • 18h ago
+Ars Technica • 22h ago
 
 ---
 
@@ -128,39 +142,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety)**
+**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
 
-Agility Robotics’ latest is big enough, and safe enough, to do useful work
+How to secure today’s AI robots against stealth cyber threats
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
-
-OregonLive.com • 19h ago
+IEEE Spectrum • 38m ago
 
 ---
 
-**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+**[Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
 
-Bloomberg.com • 1d ago
+Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
 
----
-
-**[Agility's new humanoid is supposed to stop before it gets too close to humans](https://www.businessinsider.com/agility-robotics-reveals-early-look-at-digit-5-humanoid-robot-2026-9)**
-
-Agility Robotics gave Business Insider a first look at renderings of Digit 5, its next humanoid.
-
-Business Insider • 23h ago
-
----
-
-**[Meet Digit 5: Agility Robotics’ humanoid built to work with people](https://interestingengineering.com/videos/meet-digit-5-agility-robotics-humanoid-built-to-work-with-people)**
-
-Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required by earlier models.
-
-Interesting Engineering • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -168,7 +162,7 @@ Interesting Engineering • 1h ago
 
 MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
 
-Interesting Engineering • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -180,11 +174,19 @@ Nation’s Restaurant News • 1d ago
 
 ---
 
+**[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
+
+The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
+
+theconversation.com • 2d ago
+
+---
+
 **[XPeng Shares Fall to Lowest Since October 2024 Despite Robotics Push](https://eletric-vehicles.com/xpeng/xpeng-shares-fall-to-lowest-since-october-2024-despite-robotics-push/)**
 
 XPeng's US-listed shares fell to their lowest level since October 2024 on Tuesday, two days before the Chinese carmaker launches the second of its two flagship SUVs and three weeks after investors valued its robotics arm at more than $6.3 billion.
 
-eletric-vehicles.com • 19h ago
+eletric-vehicles.com • 1d ago
 
 ---
 
@@ -192,13 +194,33 @@ eletric-vehicles.com • 19h ago
 
 ## YouTube Videos: "robotics"
 
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+
+📺 Talent Replay
+
+👁️ 22K • 👍 80 • 💬 11 • ⏱️ 4:51 • 18h ago
+
+---
+
 **[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
 
 Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
 
 📺 The AI Nexus
 
-👁️ 22K • 👍 294 • 💬 18 • ⏱️ 24:48 • 4d ago
+👁️ 22K • 👍 296 • 💬 18 • ⏱️ 24:48 • 4d ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 81K • 👍 1K • 💬 213 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -208,17 +230,37 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 84K • 👍 2K • 💬 594 • ⏱️ 13:22 • 4d ago
+👁️ 85K • 👍 2K • 💬 596 • ⏱️ 13:22 • 4d ago
 
 ---
 
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
 
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
 
-📺 DPCcars
+📺 Cleo Abram
 
-👁️ 83K • 👍 335 • 💬 75 • ⏱️ 3:39 • 6d ago
+👁️ 283K • 👍 16K • 💬 396 • ⏱️ 0:37 • 2d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 7K • 👍 159 • 💬 14 • ⏱️ 57:02 • 1d ago
+
+---
+
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+
+📺 PRO ROBOTS
+
+👁️ 32K • 👍 537 • 💬 73 • ⏱️ 21:46 • 6d ago
 
 ---
 
@@ -232,53 +274,13 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+**[Can OLD Lasers Make Vulcan OVERPOWERED? | Does It Work? #8 - War Robots](https://www.youtube.com/watch?v=8lIL8RGpq4w)**
 
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons to see if old-school lasers can still dominate in ...
 
-📺 Cleo Abram
+📺 Adrian Chong
 
-👁️ 270K • 👍 15K • 💬 381 • ⏱️ 0:37 • 1d ago
-
----
-
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 80K • 👍 1K • 💬 211 • ⏱️ 0:25 • 5d ago
-
----
-
-**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
-
-📺 PRO ROBOTS
-
-👁️ 32K • 👍 535 • 💬 73 • ⏱️ 21:46 • 5d ago
-
----
-
-**[hiding in goated robotics to see if anyone notices #first  #ftc  #robotics](https://www.youtube.com/watch?v=Gh9DC-Re-C0)**
-
-do you think anyone noticed?
-
-📺 Solar Flare FTC
-
-👁️ 4K • 👍 293 • 💬 3 • ⏱️ 0:19 • 13h ago
-
----
-
-**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
-
-Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
-
-📺 Unseen Vault
-
-👁️ 211K • 👍 6K • 💬 310 • ⏱️ 33:11 • 3d ago
+👁️ 11K • 👍 315 • 💬 82 • ⏱️ 17:00 • 1d ago
 
 ---
 
@@ -288,7 +290,7 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 413K • 👍 5K • 💬 630 • ⏱️ 27:23 • 3d ago
+👁️ 430K • 👍 5K • 💬 678 • ⏱️ 27:23 • 4d ago
 
 ---
 
