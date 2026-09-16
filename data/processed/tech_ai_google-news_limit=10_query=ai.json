@@ -5,82 +5,62 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The Quiet Way A.I. Is Hitting the Work Force",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN1J4VEllRVd5dTBaMlpDazlYUUxodnA1d2dYbnF1ZHl4UlJKVUpsY0pkYU91bXJuM09VM1RaT3Q0YW1makJRVWpXVnZYMWFxMTJkM0cxUjF5bWhGQlQ2UFFvMFI0cjJyalNFN29pWGdNeVk?oc=5",
-      "pub_date": 1789576219.0,
-      "article_url": "https://www.nytimes.com/2026/09/16/business/ai-raises-hiring.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact",
-      "source": "Time Magazine",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnI1cGM1a00zMEN3ekZIa3dqeFYxaFJUUGNmbFFoNWhTbWVJYXVCX0JwZWg0QkxvWFNaRjl5SHpMNGJtTEk2QnJXeVFSYUgyREVZSXd0WkxHOFc5Y1B0X3pCLU9YRGdCVlhTYWZCd05aaVRRQ3RTZzRLaUJVdmdZVERFRjU4Y3JsTC1NZDFB?oc=5",
-      "pub_date": 1789586424.0,
-      "article_url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf3c4028b4f83faf1/6aaae6a4bce81b480b41eea8/data-center-poll.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-      "description": "Rising electricity prices and the impact to local water supplies were among the top concerns."
-    },
-    {
-      "headline": "There's one issue where Republicans and Democrats are unified before the midterms, a new poll finds",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXRuY2Jucy1oTW9YNF9ZaXEybXMtMENxZGQ3Y3ItU2JSTW5DNlJ5VzV4S0Fua2EzZ1dKLWtTS3JTQjdUaEozNGQ1U2E3cnpzSzllaE1oaVlIZW9rT1dMM1AtR2RyWFBqdjdWTk8tcmw4VVk1TmM3TUxYelV3bURteGwzX2tRSDFodC1kYURZeFVJaEFPbUV0QktQdUxDR2wteXo1NQ?oc=5",
-      "pub_date": 1789576080.0,
-      "article_url": "https://apnews.com/article/ai-environmental-impact-data-centers-trump-228d625ab7c62cd583bc67d65074f7d4",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Subtle Sign That A.I. Is Not Yet a National Political Issue",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSHlneWYwRHdPN0VHREJFWWd0Mk1EUVUzYnpIX0lCOTNoYlVJOUlEVU5oWUVWaGpMcVVENjFXUHpRRmlSTlhBMVhmQmpvaVpvcGpiWDg2TDFDRUJ1QjBVSjRPamlyc1dYR3VUeUFlV1dVTVBZRThjRTBR?oc=5",
-      "pub_date": 1789563110.0,
-      "article_url": "https://www.nytimes.com/2026/09/16/upshot/poll-ai-midterms-voters.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Zuckerberg Has an AI Empire to Build. Meet the Adviser Who Handles the Details",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkNFYnhUQnFYempwS0puWklDWUZfazJES0RXVmRoUkEtSmRhTk83ZzZQSHBrVHdnbV9PZXFzclZVYmVkVDFfbXIzSlVTRU9rQXo0Ml9aY0dFaTAzUm9nZW10VVZoQUJoekE1RDBwSXV5S2FPTlpOcHRROEJOYnpXN3ZXMktiMWxwQXNidW9JU0VNU3lwWmotUkRyMUE5M0otWGNtOEtWUjZQZDZUWFNXWDZuNm1nUDZFcWFlYy1TWQ?oc=5",
-      "pub_date": 1789552800.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-ceo-zuckerberg-leans-on-powell-mccormick-to-clear-path-for-ai-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
-      "pub_date": 1789518417.0,
-      "article_url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Most Powerful Man in AI Isn\u2019t Worried at All",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUZteWtCYjlMUzZGNW50aFVjWVR3NzNaVHZEVnVMLS1KUDk0MWYtd2Fqd1ZHdUpEVE1PUDhKTFRlMUFIbjJrdFRHd3d2b2V0dUxEQjdXREpDSVVqUWU5YzEya3pvYklUUkluanhyOGlTXzJHdURYUG96cy12SDZsc050a0tHSy03S1E?oc=5",
-      "pub_date": 1789588069.0,
-      "article_url": "https://www.theatlantic.com/technology/2026/09/jensen-huang-ai-anti-doomer/688654/",
-      "image": "https://cdn.theatlantic.com/thumbor/oPZctn5HDPn8t5lQ2MI0L0UgJlg=/0x68:3218x1744/1200x625/media/img/mt/2026/09/2026_09_16_The_Most_Powerful_Man_in_AI_Doesnt_Care_About_Safety/original.jpg",
-      "description": "Jensen Huang: not a doomer"
-    },
-    {
-      "headline": "\u2018The US can\u2019t lose\u2019: Pentagon plows ahead on AI despite warnings",
+      "headline": "Congress in AI deadlock as public fear soars",
       "source": "Politico",
       "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmRGSXJNS1BNSndxZk51THRqX0VxbUgxV2lhT2xoVHprMUhZTUhnRmJRcWdycHBMd0ZSblMxeVcyM2M2R3ZGYVFFSU12RXFORWwxajZ3Y2JrcWh3RUdWSlNyR0VYb1VJOHNQY0tSbGVza3hmRi1wVFNQVVpGNHE5MFJINF9WYkl2S0VpSzVJMA?oc=5",
-      "pub_date": 1789588200.0,
-      "article_url": "https://www.politico.com/news/2026/09/16/pentagon-ai-congress-worries-defense-01080418",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hnWGhQUXc2RHUxbjFMbDQzWEdLOWFWZWMwb3ZadUpKODc5SVliUTltV29nVmZBTmpYbG5UTTVKVnNvV3FDajZpQjNTbXc3ZWVEbGdqX1FhalJQWlVlQ3haY1pDYktfck5hQlZmMFEyallwU3YzWGRJd2dJMF9hS1JSVnU5cndNMVM4Y1RR?oc=5",
+      "pub_date": 1789560000.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/16/congress/what-were-watching-01078916",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "House votes to curb AI data center costs",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41NjN0Qi0ta3A3U3JRYWM2MENyVjFET19Zc2xpXy1OWWJZOHVsU0d6aDR3VllCY0lqcXhPUXBieml4bVRCd2RnSS1MYklLVFNQTlliTlZmSUlaSkNjUGFFWFNWZ29GVDIxVWoyMTB1ZlEtZmM?oc=5",
+      "pub_date": 1789599386.0,
+      "article_url": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "House speaker calls early recess before midterms amid AI regulation frenzy",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUdIZ01uN2V6UUZkS2F4eXQ3Wng5YnphRnZiQldPZ3kyZFV0cTNJckhkZFJYbW5zbkJuS2JtN0J3dTN6clVtQTYyV1l0VFFvdzc5UWlDeUlDb2dBc0tEczRUdHEzYjN3MmZNYXZHRlRyMngwVmtXQ09KN1FTS1o5RnhFb3hwX000d0pscVV3dXg?oc=5",
+      "pub_date": 1789575960.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth",
+      "image": "https://i.guim.co.uk/img/media/cb5731324e1ba2cb93c9867cfb3153e1559a69a2/776_498_3946_3157/master/3946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6680207588de7e16fc4022549078bf38",
+      "description": "Mike Johnson cancels votes on Thursday, meaning House members will avoid voting on impeaching Pete Hegseth"
+    },
+    {
+      "headline": "The Liftoff Scenario That Terrifies A.I. Doomsayers",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFBzNEsya0lCSHdGM0ZCaDlVRG1rOWRnRWVxZXBfbmZTNWhKeWFDbG4yVjRMWWxPejROOHV5VnZCMDY5WVJxTXpJRmlySlVBRkRjN2J1ZWtESURFSG5MX3BTU0twSmhXeHlUZHduR2NoR0t0Tzg4Ri1qRU9FcUxKMnFEdw?oc=5",
+      "pub_date": 1789549329.0,
+      "article_url": "https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZloxWlZBOWdQOG1OVUVSLXJHUTFzRmhhdUxwZDZyajJWdXB2em9rRVBLSWNrdDEwNDRCS1lXZzRyXzRfbFljZEQyY1ZKd25CdW5oQ2VycFF6N3pHbmp1c3NLY0Vydlg4R1ZKcWNPNHZWcHNWTXU2UU9VMy0zRDV5M19xSGVZSWMwd2M3VWxOUDV4eXRudjk4UENfcHB5cmota2tFT1NCSdIBrAFBVV95cUxQdU91elVSV1RfWENhNFQ0QXFOc0Y4TjdXV2hGME5xajJLUHpVUURKd1lxbWt0ejVHTm1yUkt4cVc3WWtxM0F6UG4yV2dMaXFaS2xqOFF1eVNBUzQ3LS1DUlNzSF9xUWNwN2ZQUFlvcHZ6Y0g3VDEteHlDM2NGaERwMC1xSkMxajJHWXo3aTF1cDRyTmJqWDY2SEtlWjBQazh2NzQ4RnZzMDRGQ0dt?oc=5",
+      "pub_date": 1789583721.0,
+      "article_url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363769-1789576513126-gettyimages-2173285508-AFP_36H26AA.jpeg?v=1789576568&w=1920&h=1080",
+      "description": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies."
+    },
+    {
+      "headline": "Republicans clash on Senate floor over AI kill switch",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44REVlUnYxZDR0Y192M0JVYjNidklaV2ZIMTNoeTUxb1psNklrMTZTcFlobXh4S25LdDBRam5ZRGd6d3p4anN1NkdrUlpQTlFtaU1jRkc5a1UzcTRaS1NFRWtsaXRYaGpGM0U4SWFrMnhNR3dOdlpibi1BeFbSAYIBQVVfeXFMTmVZUUgxeXFyLXc4RDBfMFp5bGhsb2VVLWYxRjhveEVEMWdPXzVEVlRkYl9RSF9pY1dLUk5ZNFo3YzEzcDMzTjVSSzMxd2NTWThtckpKek1oREh3ekFDTGtzUjh0T1N5SHg4WlJ6bjRKM055QnRZaXN5YVhDVmJ3OTRUZw?oc=5",
+      "pub_date": 1789596600.0,
+      "article_url": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/",
       "image": null,
       "description": null
     },
@@ -95,16 +75,36 @@
       "description": "Washington\u2019s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?"
     },
     {
-      "headline": "Congress in AI deadlock as public fear soars",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hnWGhQUXc2RHUxbjFMbDQzWEdLOWFWZWMwb3ZadUpKODc5SVliUTltV29nVmZBTmpYbG5UTTVKVnNvV3FDajZpQjNTbXc3ZWVEbGdqX1FhalJQWlVlQ3haY1pDYktfck5hQlZmMFEyallwU3YzWGRJd2dJMF9hS1JSVnU5cndNMVM4Y1RR?oc=5",
-      "pub_date": 1789560000.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/16/congress/what-were-watching-01078916",
+      "headline": "Reimagining research papers as interactive and reliable AI agents",
+      "source": "Nature",
+      "source_url": "https://www.nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14OXhicHZBTDBkdVFiUDJ4OU1KMC1zWF9EMzRjTlZsRVp6NVVaR3cxdVhoY1AtRkJyZHpKOThZNUtXcDBjclY3enU0a1ludWtONzRUb2poNlZYeDlMNVFn?oc=5",
+      "pub_date": 1789573895.0,
+      "article_url": "https://www.nature.com/articles/s41586-026-11044-y",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Andrew Yang on AI safety issues: The fear is real, the concern is real",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9oWWtuM2FJaW1SS1pqSlZCeTFweXVlb3BuWVdnYl9ncUFkODFiNHNVQWVyeUlfZkNQczBjWFRoaGFPX3d2cTVqaHJnb1poUlBCQjNZb3NzdUl2OG1IbHpjVTBxd2xBWnJuUm1ZUGtMYXZsN19sTVoxS3pPNzBYMUFPRUJMbXRJejNkbF9KVU16TGY1Vm1BLUhrVFRJQWw5dld3bXhXSTFXZEp3dGp2ag?oc=5",
+      "pub_date": 1789562940.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363577-17895615951789561591-48414097802-1080pnbcnews.jpg?v=1789561594&w=1920&h=1080",
+      "description": "Andrew Yang, Noble Mobile founder and CEO and Forward Party founder, joins 'Squawk Box' to discuss calls for a slowdown in AI development, future of AI regulation, and more."
+    },
+    {
+      "headline": "Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact",
+      "source": "time.com",
+      "source_url": "https://time.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnI1cGM1a00zMEN3ekZIa3dqeFYxaFJUUGNmbFFoNWhTbWVJYXVCX0JwZWg0QkxvWFNaRjl5SHpMNGJtTEk2QnJXeVFSYUgyREVZSXd0WkxHOFc5Y1B0X3pCLU9YRGdCVlhTYWZCd05aaVRRQ3RTZzRLaUJVdmdZVERFRjU4Y3JsTC1NZDFB?oc=5",
+      "pub_date": 1789586424.0,
+      "article_url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf3c4028b4f83faf1/6aaae6a4bce81b480b41eea8/data-center-poll.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
+      "description": "Rising electricity prices and the impact to local water supplies were among the top concerns."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T20:23:47.541405+00:00"
+  "fetched_at": "2026-09-16T23:10:42.223826+00:00"
 }
