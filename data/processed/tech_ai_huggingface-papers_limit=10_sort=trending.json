@@ -107,31 +107,12 @@
       "hf_url": "https://huggingface.co/papers/2609.16679",
       "arxiv_url": "https://arxiv.org/abs/2609.16679",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
-      "upvotes": 104,
+      "upvotes": 105,
       "num_comments": 1,
       "published_at": "2026-09-14T20:00:00.000Z",
       "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
       "github_stars": 146,
       "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
-    },
-    {
-      "id": "2609.15364",
-      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
-      "organization_name": "AetherLabs-AI",
-      "organization_fullname": "AetherLabs-AI",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
-      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
-      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
-      "hf_url": "https://huggingface.co/papers/2609.15364",
-      "arxiv_url": "https://arxiv.org/abs/2609.15364",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
-      "upvotes": 70,
-      "num_comments": 2,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
-      "github_stars": 215,
-      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
     },
     {
       "id": "1910.03771",
@@ -153,6 +134,25 @@
       "project_page": "https://huggingface.co"
     },
     {
+      "id": "2609.15364",
+      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
+      "organization_name": "AetherLabs-AI",
+      "organization_fullname": "AetherLabs-AI",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
+      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
+      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
+      "hf_url": "https://huggingface.co/papers/2609.15364",
+      "arxiv_url": "https://arxiv.org/abs/2609.15364",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
+      "upvotes": 70,
+      "num_comments": 2,
+      "published_at": "2026-09-13T20:00:00.000Z",
+      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
+      "github_stars": 243,
+      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
+    },
+    {
       "id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
       "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 3300,
+      "github_stars": 3370,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2407.16741",
       "arxiv_url": "https://arxiv.org/abs/2407.16741",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 86,
+      "upvotes": 87,
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-16T17:29:58.505002+00:00"
+  "fetched_at": "2026-09-16T20:23:20.290313+00:00"
 }
