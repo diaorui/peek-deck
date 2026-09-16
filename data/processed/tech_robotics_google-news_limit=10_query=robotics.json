@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeno1MVk4NGVOUGxwM2pKMXVHejJFRnQyRGo5VjRBQUp3VmlveTQ4SUtNVDZXaEFOV2d3VHV4TTZEWHJwZUhSNVowX3ZLZlVCeTJxVDVUdkJyMXBRb21ld1hmcXRTU2R1UU9aRVJsTHBub1JwTmdMZUJUejVobUM5T3ZiVEtoU2VKOE9Tdll3Q1J5MEhybEZqRkZoS18zZHl5SG1OOTdvbmdZUjhBUnNtRzZn?oc=5",
-      "pub_date": 1789497182.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Agility_Digit5_04-2560x1440.png",
-      "description": "Robots can start working outside physical cages and without safety barriers."
-    },
-    {
       "headline": "Agility\u2019s Digit 5 humanoid has new legs, batteries, and safety upgrades",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -45,24 +35,54 @@
       "description": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture."
     },
     {
-      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
-      "pub_date": 1789577483.0,
-      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
+      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
+      "pub_date": 1789470017.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
+      "source": "The Conversation",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUkzRGpCV3UtWTRDSzZCN19yRFRmV3VqbjlDOGgtQWdiaWhVcVVjSDRUdWlfejllZGJXSlh3SnQzZDJzZVhHOFpGai1Ka2k2aGU1SHBJQjdBRWhRRkdhMmVZWmVTY0JEbDlfMHlyUjBxeU5NU2I1VVVIWGc2b2ZHTUJGTDRIRkxDeGF6VlhaaHducEhiRWREdTI2bXY5OFJKMFJsc0h6U2FoNWM?oc=5",
+      "pub_date": 1789398303.0,
+      "article_url": "https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813",
+      "image": "https://images.theconversation.com/files/759396/original/file-20260911-60-ff70jd.jpg?ixlib=rb-4.1.1&rect=0%2C244%2C5997%2C2998&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "The People\u2019s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses."
     },
     {
       "headline": "Nvidia\u2019s Les Karpas joins the agenda lineup at Disrupt 2026",
-      "source": "TechCrunch",
+      "source": "techcrunch.com",
       "source_url": "https://techcrunch.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
       "pub_date": 1789570800.0,
       "article_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
       "description": "Nvidia's Les Karpas explains how robots are waiting\u00a0for\u00a0their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass."
+    },
+    {
+      "headline": "CSX and Wounded Warrior Project host robotics, drone training for 21 veterans",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUjk2QnJrM0RKeUhZekpwVERhUlRlOUNPNUFjZ01SNlNRNWl6M2EzQmpFQ3BLZ0pHejdVTktIc2U0U1pOdF9mVS1CV3M1WGpyOVJIN2xKRG1YNDRiRTgzY2MtMDlTMUZqaFdXaG5nRzBGVDBYMjh0YVpyYjl3SlZoRERPTFBzVnhQUGpwbFFVcw?oc=5",
+      "pub_date": 1789587777.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/csx-wounded-warrior-project-host-194257119.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6cf3905d21b3a6d25f81fb0f87b117954d07e0ae679fb6eab53da4567b2dbf9b/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjax_cox_articles_158%2F81040d9917fa90ace43ef7ba37d50d61.jpg",
+      "description": "Twenty-one military veterans gathered at the CSX Moncrief Yard on Tuesday for a hands-on training session in robotics and drone flight."
+    },
+    {
+      "headline": "Founder\u2019s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2xjeHlRZ1JPbXZFdTlHQmVwcTlrcUNxZHhiRHVNUURUc0daVlBMcVZhYld3QkZ6V291S1lSVFFCT3BPU0dIT0kwMFUtZDJVU1JBNEFSYnM1M0FtamlpZGFtcmN4aHhZM3B5VkJpQWVkdkI4U05qZ3VlTWx0Y3ZWN0hQQ21vX1hXZGFnUEVOM0IwV1FNYzcxVW1LT2o5aWJKeWNqZktTU3VwWFFxUFBIUQ?oc=5",
+      "pub_date": 1789414726.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-2560x1440.jpg",
+      "description": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?"
     },
     {
       "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
@@ -75,36 +95,16 @@
       "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
     },
     {
-      "headline": "Wonder debuts its robotic bowl maker",
-      "source": "Nation\u2019s Restaurant News",
-      "source_url": "https://www.nrn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGJITGswZHc5R0ozbDl2Z0JIWml6TVJIX0VJNy12SGExWHdKRnFGclRnUHBTa3BEa1o0dXZtYjltdG05NjgxLTZRTXNLTXVtVEtKMVIzcWh1bjZ2a3R2VmVnTGNTSHdka201UHo0SkJmQkhvMXR2dklHdmF2bEhFZk10MlY?oc=5",
-      "pub_date": 1789411951.0,
-      "article_url": "https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker",
-      "image": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt928ce88cffe00b77/6aa840a626147b4e798350d2/WONDER_MAKELINE_042.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
-    },
-    {
-      "headline": "China is exploring humanoid robots for war \u2013 but what role could they play?",
-      "source": "theconversation.com",
-      "source_url": "https://theconversation.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUkzRGpCV3UtWTRDSzZCN19yRFRmV3VqbjlDOGgtQWdiaWhVcVVjSDRUdWlfejllZGJXSlh3SnQzZDJzZVhHOFpGai1Ka2k2aGU1SHBJQjdBRWhRRkdhMmVZWmVTY0JEbDlfMHlyUjBxeU5NU2I1VVVIWGc2b2ZHTUJGTDRIRkxDeGF6VlhaaHducEhiRWREdTI2bXY5OFJKMFJsc0h6U2FoNWM?oc=5",
-      "pub_date": 1789398303.0,
-      "article_url": "https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813",
-      "image": "https://images.theconversation.com/files/759396/original/file-20260911-60-ff70jd.jpg?ixlib=rb-4.1.1&rect=0%2C244%2C5997%2C2998&q=45&auto=format&w=1356&h=668&fit=crop",
-      "description": "The People\u2019s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses."
-    },
-    {
-      "headline": "XPeng Shares Fall to Lowest Since October 2024 Despite Robotics Push",
-      "source": "eletric-vehicles.com",
-      "source_url": "https://eletric-vehicles.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUZyaVhqdUN2ejRaX1NnajQ2RC1uRmhIaGoxRUZxcFpDWm9MN0g4X2RZYXJCMnB1clFwVy1QX1doU3NVd3RLTEpVU2VfR2ZZU2llOUNzZy1PSmRxblhPdmtuQllzWHMxRXdPMFRraGJaTzhGaXhzSGd1S0Q3eXhwYklWUkJ6cFNGY3k2cXJlQ2tfdmphcGN5NXBxOUJjV2Zqbm4zd0hUcw?oc=5",
-      "pub_date": 1789491651.0,
-      "article_url": "https://eletric-vehicles.com/xpeng/xpeng-shares-fall-to-lowest-since-october-2024-despite-robotics-push/",
-      "image": "https://eletric-vehicles.com/wp-content/uploads/2026/09/XPeng_HeXiaopeng_07.webp",
-      "description": "XPeng's US-listed shares fell to their lowest level since October 2024 on Tuesday, two days before the Chinese carmaker launches the second of its two flagship SUVs and three weeks after investors valued its robotics arm at more than $6.3 billion."
+      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
+      "pub_date": 1789577483.0,
+      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T17:30:11.436241+00:00"
+  "fetched_at": "2026-09-16T20:23:31.434736+00:00"
 }
