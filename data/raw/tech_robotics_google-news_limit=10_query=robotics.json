@@ -16,7 +16,7 @@
     },
     {
       "headline": "Oregon robotics company says its newest humanoid can work safely with people",
-      "source": "OregonLive.com",
+      "source": "oregonlive.com",
       "source_url": "https://www.oregonlive.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
       "pub_date": 1789491060.0,
@@ -45,6 +45,16 @@
       "description": "The People\u2019s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses."
     },
     {
+      "headline": "These Robot Soldiers Are Getting Downright Terrifying",
+      "source": "futurism.com",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjQ0ZXFDc2l0OExzZldrd3JOSlUxWGVfa0ZfOUowZXBYa3NXSlQtdGtIeWJwc3hzS3RPRFI0NXFQaDhXTWZzYjJaTUM3TXRRbXY0ZjhVT3lDc0Z5ZU5NYXV6VjliR3VhSXU0UHRzU2x5djhlbDdNQlQ0Uk13dEE?oc=5",
+      "pub_date": 1789495704.0,
+      "article_url": "https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/robot-soldiers-getting-terrifying.jpg?w=1200",
+      "description": "San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war."
+    },
+    {
       "headline": "Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -53,16 +63,6 @@
       "article_url": "https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9",
       "image": "https://i.insider.com/6aa88f239b8974787b1cc15e?width=1200&format=jpeg",
       "description": "Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms."
-    },
-    {
-      "headline": "These Robot Soldiers Are Getting Downright Terrifying",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LRjQ0ZXFDc2l0OExzZldrd3JOSlUxWGVfa0ZfOUowZXBYa3NXSlQtdGtIeWJwc3hzS3RPRFI0NXFQaDhXTWZzYjJaTUM3TXRRbXY0ZjhVT3lDc0Z5ZU5NYXV6VjliR3VhSXU0UHRzU2x5djhlbDdNQlQ0Uk13dEE?oc=5",
-      "pub_date": 1789495704.0,
-      "article_url": "https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/robot-soldiers-getting-terrifying.jpg?w=1200",
-      "description": "San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war."
     },
     {
       "headline": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
@@ -75,24 +75,14 @@
       "description": "AI robots can create many millionaires, but Tesla may not be the best way to play it."
     },
     {
-      "headline": "The Biggest Issues With Delivery Robots Are Exactly What You'd Think",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sX0tlSnFmZ0NtUzduNW1UaUVFZ3VLc24tSjVMUnRCY29NRmFaQllZVlJkR3p2MG9VQ0x1OFlFcVRPSzNwaXNNYWpqeDFxbEVCeDBnd0tycjYzbmt2SWZfQktTRnNpR2M0Y1RUSm1TdFh5QQ?oc=5",
-      "pub_date": 1789486200.0,
-      "article_url": "https://www.engadget.com/2255845/delivery-robots-biggest-issues/",
-      "image": "https://www.engadget.com/img/gallery/the-biggest-issues-with-delivery-robots-are-exactly-what-youd-think/l-intro-1789135688.jpg",
-      "description": "Too often, delivery robots just don't understand the rules of the road (or sidewalk)."
-    },
-    {
-      "headline": "Robots reshape the future of homebuilding",
-      "source": "Baton Rouge Business Report",
-      "source_url": "https://www.businessreport.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGJHd0hxa01WRWpqVzVuYzd1cV80cFM0MExuam9xU09BOWdfMlBPeTJmbnJjR05DNXdqQm1Sc1NvV25YT2F5NnpyWnYyeXB2dEJqOUN3bVVUVmc1Ym1qYW9qaTdFVjBxaGExdTdTdkdVMlR3aW1TYWlVT21TeFozaGxOdGY2WVnSAY8BQVVfeXFMT09aOXQxaGNCZHdGZVJMRV9CblVBblNDYlZoTTEwemcyV3gxUU9XNExuMGJzaWEzcmpFXzVuZmQ3amt5TFotSkRyMFloX1FCa3RoLVNXLXJKUUZPQ040Y09rUkczZk5LV3ZUd29IM0F2UEttR0JmVDlUZDNsdDVKb09oLWhicm5UYThiTGYwYzg?oc=5",
-      "pub_date": 1789397467.0,
-      "article_url": "https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding",
-      "image": "https://s25562.pcdn.co/wp-content/uploads/2026/05/Business-Report-2026-default-image.jpg.optimal.jpg",
-      "description": "America\u2019s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.\u00a0 The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion [\u2026]"
+      "headline": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRjJaSmFKeFc1Z09JcF9naEZMd25MblhOYjJ4YzRIVjBzbGdNN08yQktYTEktRHRJYzVpTXhUcTZ4Z1RlT1l4d0tMY0ZJQ05RUXhPUmRnYlQ0SDZjbmRLZ0ZWdWg0QWxRVTlGZTYzR3V2SkxGNXlfUVB0NnkwOHdHc2piakzSAYoBQVVfeXFMT2h4OWpTaUw1WEs2aGtkbGVyYU1QQzBzWVFZcmNrNTNpRnFQczNqam5qcEJ1THBNM1BOdmp6S21FcUVyY1VzV1pDY3Nick1NTVlNcTkzYW5ETUdKWlY5ZHR4M0J4Qm1OdWJ1Tmp3MVNVRHBYazVyVGg5OUFvZEdhVUQtUjFqbHF1b1pB?oc=5",
+      "pub_date": 1789218001.0,
+      "article_url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108208386-17597761832025-10-06t184130z_1342918111_rc2g6haq2z4o_rtrmadp_0_usa-economy.jpeg?v=1789155801&w=1920&h=1080",
+      "description": "America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders."
     },
     {
       "headline": "Research centre aims to pioneer 'responsible AI'",
@@ -103,8 +93,18 @@
       "article_url": "https://www.bbc.com/news/articles/c689j81q548qo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ee7d/live/9104f3e0-b04c-11f1-89e4-0bbff5cb7e23.jpg",
       "description": "Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus."
+    },
+    {
+      "headline": "Wonder debuts its robotic bowl maker",
+      "source": "Nation\u2019s Restaurant News",
+      "source_url": "https://www.nrn.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGJITGswZHc5R0ozbDl2Z0JIWml6TVJIX0VJNy12SGExWHdKRnFGclRnUHBTa3BEa1o0dXZtYjltdG05NjgxLTZRTXNLTXVtVEtKMVIzcWh1bjZ2a3R2VmVnTGNTSHdka201UHo0SkJmQkhvMXR2dklHdmF2bEhFZk10MlY?oc=5",
+      "pub_date": 1789411951.0,
+      "article_url": "https://www.nrn.com/restaurant-technology/wonder-debuts-its-robotic-bowl-maker",
+      "image": "https://eu-images.contentstack.com/v3/assets/bltea7aee2fca050a19/blt928ce88cffe00b77/6aa840a626147b4e798350d2/WONDER_MAKELINE_042.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "description": "The Infinite Makeline can produce meals from six Wonder concepts and is part of the chain\u2019s plans to automate more of its operations."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T23:04:05.516109+00:00"
+  "fetched_at": "2026-09-16T01:32:54.016241+00:00"
 }

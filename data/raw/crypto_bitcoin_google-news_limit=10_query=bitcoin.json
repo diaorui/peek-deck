@@ -5,24 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood\u2019s Dumping Crypto Stocks.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVQ0SVUyMkxrN3R6RXh3MEFDN3dWQlQ2YmN6aE9RdWRmalhjMExjRGNKM1pfbzhKT1JJOVYyQ1R2RnlxMEdseGlsUGxfLXdGUFlBSkJkS0U1WVpaMlhLcTZ1ZnZTUngwS0xnY3dZY2QzeUJxYlQxNHZoM3ZjUFMzbTNzcDVrekRYRWlvcU5UVQ?oc=5",
-      "pub_date": 1789503000.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-clarity-act-crypto-cathie-wood-c2471654",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBvR3VucDJlZ1JiVktNTGdoNVMzSVVwbUZxZFdhTHRYZk45M2JoVF9QOEhyWkNWb3JMRUtWbHlFYXlmeU5BLVNza1FjbktLZFZneDlidGlIS0Z3RVk0ZkhLWHotNnBOaXl0LW1DVUVCX20xcEtGR2N6R1BTN2gzcncxd213NktYSHFNNTVNV3RXMFZSbWlvYVd2ay1fX2hEM1p0d0RIMnNkVnhoMjNSQWwzMGtqZ0hRQkZ1elBwTTJYajdqR3JFdGFR?oc=5",
+      "pub_date": 1789486287.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes."
     },
     {
-      "headline": "The Debasement Trade Splits as Gold and Bitcoin Bets Diverge",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnRHR2J0dUlIdUFkSWttVVBpY2FuRFdJLXNWVTNrV215dFQxbGJZLVA0cjdNOFRHTE9xWVM5NC0wUFJic1pObDFoY2E1OGs1bXA3cUo0RWZjbl96QVlMbjlaVHRKZmp4ZXJiS2pDdUhpb3A0MjZDdENmRXVza3ZMMDNIcG40RG9VamVCNTN0R0JpQlBxTENaTkwxUDNoR3VxNS1pZURRS1R3SWg0d2RKZQ?oc=5",
-      "pub_date": 1789473600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/the-debasement-trade-splits-as-gold-and-bitcoin-bets-diverge",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFR2T2tBdVktcFlfUDB5TFpnM2ZwZHhXb3p5ZUNMLVlMV2ZKSlJVOG9pdHMxNTFvTnpwY01tREdpdDBoSEphVy1VYzFDR0o5QXRWN0NSdmc4TWQyUm1aa3liSFhvZDF0RjN2UG5uUmg0YUhIWVdGQnJiV0hnZWUxVVUwVFVhRWViVTBPc21MMmM5VEQ3MVB3WVBOVC12NzZmN00w?oc=5",
+      "pub_date": 1789521240.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-crypto-stocks-decline-011426654.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/64f794d7a5a5f972b4c9a15d6f77dc60236e26c683a719761d6f08ee05b76d74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F9707e20ac8ceb4b576c56a86d9f7944d.jpg",
+      "description": "Bitcoin and crypto-related stocks fell sharply on Tuesday after the Senate failed to advance the CLARITY Act."
     },
     {
       "headline": "Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes",
@@ -45,16 +45,6 @@
       "description": "Bitcoin fell 4% Tuesday morning."
     },
     {
-      "headline": "Bitcoin Futures",
-      "source": "cmegroup.com",
-      "source_url": "https://www.cmegroup.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Db1M3SWg3WG9OOU9xZ1QwTjlKUDZvSVpVektnRnFTSXFvdXBmQm5lS2h5ODFwdWl2eFlQT0hRZWR1ZUxfdzFHVXhBZUNKRl9Semw3NG55S0lrUXFXNFR4eVZwdHFtLVZxU1NZeS1Va0RZNU0?oc=5",
-      "pub_date": 1789231007.0,
-      "article_url": "https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin",
-      "image": "https://www.cmegroup.com/content/dam/cmegroup/images/og-cme-group.jpg",
-      "description": "Find information for Bitcoin Overview provided by CME Group. View Overview"
-    },
-    {
       "headline": "Has the Bitcoin Rally Fizzled Out?",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
@@ -65,7 +55,7 @@
       "description": null
     },
     {
-      "headline": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+      "headline": "BTC news: A 25-cent bitcoin deposit let a hacker mint 46 billion fake bitcoin tokens",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2wtYWN5X2Y0S2tOakdNRG9IYV8ySTZXSmRvRDJQMlVSdk1va1J1ZGh0c3NVWXdZRGxiaTZKVzEycVg1TFRZY2JhVk9EYWpudDE0cmNMTkN2ZU9yalFBYWN2OUtvekdpT3JKVEFhbEFla1ljSU1nVXJuNkcxZ19FWTdaLVB0SjhJUVZZRnpTYTZQdWNVSElaR0oyQ190ckw4bk05eDBJd19tUW11QURTeHp2U0xMeU5vNDNpM19yNi1MTXM?oc=5",
@@ -95,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Bitcoin Price Wobbles as Leverage Falls Ahead of CLARITY Vote and Fed Decision",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEMzY0lkWUkzS0N1ZFBqeWoxcUREaFJJVzBEQ1JENUhIMVJqNHcwd3EyWnVrcWFXTGRKdnBiWnVtOTVMRENjRmxZSXlCQm81NEFJYXFOLXpPMkhaZjlOWXRJTnZDZlVkVDFSbjJtSnNyYTB3b2hfbVhHQ2psel9hdVlKbXdzeXU2MUF1VzU0MTZTTGhqNzdtZmZyT21reDR3Zk1v?oc=5",
+      "pub_date": 1789469429.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-wobbles-leverage-falls-105029007.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7ca3dcee0114bb0a6a59d2b4d6ffe40e042a9038c393521b5ef923b25c3ca5ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F01a3a76de906f0fc5ded523e27d682d8",
+      "description": "Bitcoin open interest fell by 13.5% in 10 days, dropping from 321,497 BTC to 278,151 BTC even as the underlying price declined only about 5% over the same window. That gap between derivatives unwind, and spot price action signals deliberate repositioning.Bitcoin price currently trades under $77,000, down from its September ..."
+    },
+    {
       "headline": "Bitcoin's late summer rally set to face off against the Fed, Congress",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-15T23:04:06.235500+00:00"
+  "fetched_at": "2026-09-16T01:32:53.377764+00:00"
 }
