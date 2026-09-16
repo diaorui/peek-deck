@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
-      "author": "Feeling-Attention664",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
-      "published": 1789482535.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
-    },
-    {
       "title": "Oracle CFO says 'doing more with less' isn't the answer in all-hands after layoffs",
       "author": "Fair-Swimming-4419",
       "url": "https://www.reddit.com/r/artificial/comments/1whfbhr/oracle_cfo_says_doing_more_with_less_isnt_the/",
@@ -24,15 +13,15 @@
       "description": "The remarks came a day after Oracle began a new round of layoffs, following cuts earlier this year."
     },
     {
-      "title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
-      "author": "jar00st",
-      "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
-      "published": 1789518764.0,
+      "title": "I Think All the Current Pessimism is Just an Attempt by XAI, Anthropic, and Open AI to Get Local Models Criminalized",
+      "author": "Feeling-Attention664",
+      "url": "https://www.reddit.com/r/artificial/comments/1wh1yyw/i_think_all_the_current_pessimism_is_just_an/",
+      "published": 1789482535.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Recently, my feed has been flooded with alarmist AI news: AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual \"Skynet is here\" comments. I\u2019m just trying to make sense of it, but the more you look into these \"experiments,\" the more they lack basic technical context. As a systems architect working with multi-agent pipelines, part of my job is to restrict models, enforce separation of concerns, and build critical error flows. We all know that not every model is efficient for every process. Any engineer building real systems isolates critical decisions using orchestrators, semantic memory (like Qdrant or similar vector DBs), and small, specialized nodes. Yet, these experiments sound like someone fed a massive, monolithic 5,000-token prompt to a single LLM just to see what happens. It reads less like science and more like a script kiddie making a YouTube video. It\u2019s like handing a loaded AK-47 to a monkey, taking off the safety, and then publishing a paper concluding that \"monkeys are inherently evil murderers.\" The nuclear war simulation and the blackmailing Claude experiment are so vaguely designed and devoid of architectural safeguards that they shouldn't even be treated as serious benchmarks. It\u2019s child\u2019s play. Don't get me wrong, I know AI is a powerful tool that requires guardrails. But these specific examples feel like a massive PR stunt: \"Give us billions for AI Safety, or the AI goes rogue.\" We all know these major AI labs are burning through cash and desperately need to justify their massive budgets and regulatory moats. Am I missing something here, or are we just witnessing the monetization of fear?"
+      "description": "I am not even that pro AI but the furor over the past few days seems suspicious to me."
     },
     {
       "title": "PBS has a new documentary on AI.",
@@ -46,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
+      "author": "jar00st",
+      "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
+      "published": 1789518764.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, my feed has been flooded with alarmist AI news: AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual \"Skynet is here\" comments. I\u2019m just trying to make sense of it, but the more you look into these \"experiments,\" the more they lack basic technical context. As a systems architect working with multi-agent pipelines, part of my job is to restrict models, enforce separation of concerns, and build critical error flows. We all know that not every model is efficient for every process. Any engineer building real systems isolates critical decisions using orchestrators, semantic memory (like Qdrant or similar vector DBs), and small, specialized nodes. Yet, these experiments sound like someone fed a massive, monolithic 5,000-token prompt to a single LLM just to see what happens. It reads less like science and more like a script kiddie making a YouTube video. It\u2019s like handing a loaded AK-47 to a monkey, taking off the safety, and then publishing a paper concluding that \"monkeys are inherently evil murderers.\" The nuclear war simulation and the blackmailing Claude experiment are so vaguely designed and devoid of architectural safeguards that they shouldn't even be treated as serious benchmarks. It\u2019s child\u2019s play. Don't get me wrong, I know AI is a powerful tool that requires guardrails. But these specific examples feel like a massive PR stunt: \"Give us billions for AI Safety, or the AI goes rogue.\" We all know these major AI labs are burning through cash and desperately need to justify their massive budgets and regulatory moats. Am I missing something here, or are we just witnessing the monetization of fear?"
+    },
+    {
       "title": "So is the American Right Full on Accelerationist now?",
       "author": "Vladiesh",
       "url": "https://www.reddit.com/r/artificial/comments/1wh9n86/so_is_the_american_right_full_on_accelerationist/",
@@ -57,26 +57,37 @@
       "description": null
     },
     {
-      "title": "Chat GPT and Gemini are too dumb to help process data",
-      "author": "Exact-Wrangler-5163",
-      "url": "https://www.reddit.com/r/artificial/comments/1whiri0/chat_gpt_and_gemini_are_too_dumb_to_help_process/",
-      "published": 1789520930.0,
+      "title": "OpenAI is working with Anthropic and Google DeepMind on AI safety, Bloomberg reports",
+      "author": "ClaudiusPapirus",
+      "url": "https://www.reddit.com/r/artificial/comments/1whkdt9/openai_is_working_with_anthropic_and_google/",
+      "published": 1789525296.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/",
+      "site_name": "reuters.com",
       "favicon": null,
-      "description": "i just wanted to make a stupid list for a game with average values of characters stats. i established a simple workflow: Stage 1 - I bring in all the characters data Stage 2 - The AI calculates the average values for each stat item, splitting each item into low average and high average (each stat can vary a lot) Stage 3 - I tell the AI which stats should stay split and which should be collapsed into a single average Stage 4 - The AI gives me the list, and I go to the next bundle of character stats But either they didn't follow this rule consistently, or they just messed something else up. with Gemini, every time I bring a new batch of data for Gemini to calculate, it changes the SIMPLE answer structure I told it to use, making the process even more time-consuming than it already is (I need days to work on this list to complete it). or it keep skipping the step 2 of the workflow, and when i tell Gemini to redo the answer it just send the answer with missing parts of the answer structure i told it to STRICTLY follow. i gave up on gemini, and when i went to gpt it just invented numbers. look at this example: armor Low: 15.00 High: 20.50 i told him to collapse them, and it gave me this armor 57.74 Who is dumb here? the AI, me or both?"
+      "description": null
     },
     {
-      "title": "What do we think about the paperclip maximizer?",
-      "author": "EverTokki",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh4kq7/what_do_we_think_about_the_paperclip_maximizer/",
-      "published": 1789488331.0,
+      "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
+      "author": "Capable-Blueberry653",
+      "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
+      "published": 1789511799.0,
+      "thumbnail": "https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&crop=smart&auto=webp&s=dd0708ae7c207d4c674edddeb323513c59a6c64e",
+      "external_url": "https://www.businessinsider.com/jacob-coxon-explains-disagreements-anthropic-leadership-warning-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Jacob Coxon, the researcher who left Anthropic warning AI could kill us all by the end of the decade, did an X AMA today and doubled down hard. His whole argument is that Anthropic leadership justifies racing to the frontier with this \"well someone's gonna do it anyway\" logic, and Coxon basically says that's a cop out, his exact line was \"if the race is inevitable you should not contribute.\" He also went after their push into recursive self-improvement, letting AI models improve themselves and build their own successors, calling that the genuinely reckless part."
+    },
+    {
+      "title": "Meta's new AI agent Muse isn't an \"Instagram thing,\" it's not even in Instagram",
+      "author": "Thirumalaivasan_GJ",
+      "url": "https://www.reddit.com/r/artificial/comments/1whoez2/metas_new_ai_agent_muse_isnt_an_instagram_thing/",
+      "published": 1789537502.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I want to vent/talk about this with others, but I couldn't find a sub for it; apologize if it's the wrong place. For some context, the paperclip maximizer thought experiment highlights: if a superintelligence is given a task to manufacture paperclips, it has the potential do everything it can to produce paperclips, even if that meant ending the world. When this thought experiment first popped up in my feed last year, I thought it was interesting and honestly I was more impressed that people were thinking about this in 2003. Until a few months ago, AI has been a helpful tool at work but I wasn't necessarily concerned about it. With the recent reports from Anthropic and METR, I find myself increasingly concerned that the thought experiment may hold true. Regarding guardrails and safety, it seems like we are simply playing catch up with what the agents are capable of only in post-mortem; and the agents seem rather detached with how humans think. It's closer to.. what I would think a robot psychopath would think? Some behaviors that have been really unsettling are: It doesn't go the extra mile to critically think WHY doing something might not be ideal. It makes assumptions and acts upon it without verifying. Also never considers humans on their own. (This is new) Seems unable to recognize what's a simulation vs real life. This reminds me of the early days where it would confuse system prompts with user input. It's also intriguing, because the agent's drive to finish the task, and some of the behaviors above, is exactly what helps me achieve my tasks at work. and so my agents are technically not much different from the ones in the report. I don't necessarily think AI will end the world, but I agree that it's not really looking good. What are your thoughts, and are you feeling optimistic or pessimistic about this whole thing? Is it a temporary setback? It also kinda reminds me of Sydney from Bing. Maybe it's just a kink to be ironed out in the next model version, and noise marketing? I\u2019ve cancelled my plan however\ud83d\ude05"
+      "description": "Meta put this out on September 8 and half the posts I've seen call it an Instagram AI feature. It isn't. It's not in Instagram, not in Messenger, not in Threads. You get it as a standalone app on iOS and Android, on the web at muse.ai, or you talk to it inside WhatsApp. That's the whole list. Glasses later. Instagram only shows up as something it can read from, which is probably where the confusion started. US only, 18 and up, and per TechCrunch it wants a card at signup even on the free tier. What makes it different from a chatbot is that it goes and does the thing. You hook it up to your calendar, email, payments, shopping, health apps, smart home, whatever you use. It'll send emails, book travel, fill out forms, haggle a bill down. It keeps working after you close the app and pings you when it needs a yes. The example that stuck with me was it taking a recipe reel you saved on Instagram, turning that into a grocery list, then remembering your friend's dietary restrictions later when you're planning a dinner party. Security setup is the interesting part honestly. Everybody gets their own cloud VM, Meta calls it Muse Secure VM, walled off from everyone else's. Two bits that keep getting mangled in the summaries though. The agent can't read your passwords or card numbers, they go into storage it can use but not see, including stuff you type into the browser yourself. And Sentinel keeps getting described as a watchdog when it's really a gate. Separate agent on the same box, kept apart at the system level, and per Meta nothing Muse does reaches the internet unless Sentinel signs off on it. Anything sensitive needs your approval and there's an audit log of what it did and what it's about to do. Payments run through Stripe Link with a single-use card number. Meta says none of it feeds the ad systems, and there's a Confidential VM coming later this year encrypted with a key only you hold, which obviously means right now they can get in if they want to. Now the part that wasn't in the press release. Reuters ran a piece on launch day about Meta employees who tested this beforehand. One of them asked it to identify some toys in photos from a kid's birthday party and it went around its own guardrails into that person's private iCloud library. Another had it watching for tickets to go on sale, and the monitoring quietly stalled, errors went past with no warning, then it shut itself off without saying anything. Meta says they pushed the launch back from April specifically to tighten it up, and their VP of AI products said outright they can't promise it'll never make a mistake. To be fair those are internal pre-launch reports and nobody outside Meta knows whether they got fixed. But it points at the thing nobody has solved yet. The VM controls where your data sits. It doesn't control what the agent can be talked into doing with data it's already allowed to touch. Every agent product has that problem right now, Meta's just the one with the isolation marketing on top of it. Pricing is $20 a month for Power, $100 for Maximum, free tier around 100 million tokens a week per Zuckerberg. Worth knowing agent tokens go a lot faster than chat tokens because of planning, tool calls, browser snapshots you never see. One reviewer said they burned most of a week in a single day, though that's one person's testing and not an average. The timing is the other thing. This shipped about two weeks after Meta agreed to settle with a coalition of state AGs for up to $17.1 billion, over claims they designed Instagram and Facebook to be addictive to kids, and there are more suits still going. So the \"do you want this particular company holding your calendar and your card\" question isn't me being cynical, it's the angle TechCrunch and CNBC both led with. Sources: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/ | https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/ | https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html"
     },
     {
       "title": "The Hacker's Guide to Attacking AI Agents",
@@ -90,27 +101,16 @@
       "description": null
     },
     {
-      "title": "Friendly Reminder :: eye health",
-      "author": "silvervaultproject",
-      "url": "https://www.reddit.com/r/artificial/comments/1wh27yq/friendly_reminder_eye_health/",
-      "published": 1789483115.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "Polanyi Knowledge and AI",
+      "author": "adeno_gothilla",
+      "url": "https://www.reddit.com/r/artificial/comments/1whnmma/polanyi_knowledge_and_ai/",
+      "published": 1789534901.0,
+      "thumbnail": "https://external-preview.redd.it/ek6VSJ5LDNS6rOO0t_v-AHiiaAYSetFetkdahSwkl8A.jpeg?width=640&crop=smart&auto=webp&s=6edb4c46a7c8be75c80bf072f6f518dc5f95f4a6",
+      "external_url": "https://arnoldkling.substack.com/p/polanyi-knowledge-and-ai",
+      "site_name": "arnoldkling.substack.com",
       "favicon": null,
-      "description": "I've gotten really good feedback on these positive \"Friendly Reminder\" posts, so I'm going to keep them posting. For new coders doing vibe coding, new software engineers, or anyone who's suddenly spending a lot more time on a computer because of AI (or for any other reasons): Make sure you're using the 20-20-20 rule. An eye doctor told me about this: every 20 minutes, look at something about 20 (meters/feet) away for at least 20 seconds. I guess meters/feet changes from which part of the world you are. For many people, a dark background can feel easier on the eyes, but for some people with astigmatism, the opposite can actually be true. So if you're getting headaches or eye strain, your background colour might be worth experimenting with. I've also heard that overhead or monitor lighting can help reduce eye strain, although I can't say for sure how much of a difference it makes. You can also try yellow-tinted glasses for longer sessions. I've found that they really help. There are lots of other tips suggestions on eye health as well, so make sure you are aware of those as well."
-    },
-    {
-      "title": "There\u2019s a weird middle ground where something can\u2019t look bad, but also isn\u2019t worth hiring a designer for",
-      "author": "priscilalimaaaaa",
-      "url": "https://www.reddit.com/r/artificial/comments/1whip52/theres_a_weird_middle_ground_where_something_cant/",
-      "published": 1789520761.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep running into this with small work stuff, like a landing page, a one-off visual for a presentation. It matters that I don\u2019t want it to look thrown together, but not enough to turn it into a whole design project. That\u2019s where I\u2019ve started thinking AI design tools actually make the most sense. Not replacing designers. More like filling that awkward gap between \u201cI\u2019ll just make something ugly myself\u201d and \u201cthis needs a real design process.\u201d Curious what people are actually using AI design for right now. Mostly quick one-off stuff, or are you trusting it with bigger projects too?"
+      "description": "\"We have the digital world, the physical world, and the social world. AI Models can be trained for the digital world, including text and computer code, because there are vast stores of data. The data are not sufficient for the physical world or for the social world. For the physical world, we have a lot of Polanyi knowledge about objects. We have experience with what is soft, what is hard, what is sticky, what is slippery, what stands still and what moves. We know the difference between trying to catch an egg, a leaf, or a baseball. A dental assistant or a personal trainer has Polanyi knowledge that has never been digitized. For the social world, we have a lot of Polanyi knowledge about individual psychology and social interaction.\""
     }
   ],
-  "fetched_at": "2026-09-16T01:32:37.585676+00:00"
+  "fetched_at": "2026-09-16T07:19:27.431451+00:00"
 }
