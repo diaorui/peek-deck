@@ -5,84 +5,94 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Cruz and Hawley shut down antitrust exemptions for AI companies - Live Updates",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd0tEVW16UTJGYURuZ0diWk5sSEItMHk3S2NIYWoyUXI2NmZkdGNuTlNzcDR0M3R4cjRNVU9KWnVnRmxDRVZpeVl4djB6XzY1bVFFZG9YXzJmWTAxemo5R0JIN1VwRl9leWlLTXZ4bW5WQlVHS2dmQzR1NXI4cklnRmhnbEJUdEZDMm4zSlhFTnUxZw?oc=5",
-      "pub_date": 1789500448.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/15/congress/cruz-and-hawley-on-ai-01077817",
-      "image": null,
-      "description": null
+      "headline": "OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUZ1NWNqazRyUWpPazM4OTJxTHFvNWdDYzZmSjh0Q3lJb0lDa0d1S1ZISG9CVlBSeEpheUN6ZTJNTEFKaEdfN3hoc0JqM3ZOUVFqanhFanhYRkk?oc=5",
+      "pub_date": 1789520360.0,
+      "article_url": "https://www.bbc.com/news/articles/cqx2zpj4y525o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
     },
     {
-      "headline": "Bipartisan, big tech push for AI regulation comes as Trump claims 'hoax'",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3F0eDVLem83MjQ1eV9idTdoQm5rM0xsS2pBOEdVdDB2QXlYNVdDSHJuRVE0aVNHMEdwYTdXNzZJVVFWSEI5NThfbmZTY1lnbzRHSUZiUWM5cWVIRnRWREN3akhwcVpMekJWNVNYUTV4ekY3SGt4Sm5VbTBtWjgxTklEd25USi1OenAzNXlISkV6STU1ZGRfd3VPazMyN19Qa2xBNDRsNG1OY3BU?oc=5",
-      "pub_date": 1789514583.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-news-china-trump-artificial-intelligence-big-tech-congress-september-15",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/c309670feea8de732e5ba90621950690.jpg",
-      "description": "As President Trump dismisses AI fears as a \"hoax\" akin to past climate scams, tech executives sound the alarm on an \"unseen hand\" driving AI regulation. Get the latest AI news, warnings on the dangers of AI, and updates on the U.S.-China technology race involving OpenAI, Google AI, Anthropic, and ChatGPT."
-    },
-    {
-      "headline": "Trump facing AI backlash in Congress as push for guardrails intensifies",
+      "headline": "Could AI really wipe out humanity \u2013 six experts spell out the risks",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHk0cnRVWlZ6WVhQWVVwUTlyNHFEWGVWM2loUXpYOFBqOXBrZ0ZBQ0JDQzFwYkJDRm10RXVMS20yM1ZJanVhWmJ6RVdrNHV2OG9LNVFjeVdjcW9BeWhkc296RUhEbnpsa1M5Slk5bndkNkJoWEVYaDhsemlxXzBUc3VCX2NUUGx4Tm5wVVN2VGViVWQxSURV?oc=5",
-      "pub_date": 1789489920.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "image": "https://i.guim.co.uk/img/media/b76e62dba5809d0a43d1f5e325b0400264186ad4/340_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e672a2ef07ba5e10225349608ba39b71",
-      "description": "President has dismissed anxieties over AI\u2019s dangerous potential even as Democrats and some Republicans acknowledge risks"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "pub_date": 1789505700.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+      "image": "https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69476f847904bcbde87e677efb585076",
+      "description": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI development"
     },
     {
-      "headline": "Larry Elder questions timing of AI regulation push ahead of midterms",
-      "source": "foxbusiness.com",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdXdncFlXRGJhLXhNdlh4Z05fUU5hWExVT1VWTV9VM1ZjTXNXMzlMdTRUb1lCWTJ3dTdJcGJLSnVoOHlhdmc5bGtSc3BHOGhQTVRPQzRYNUk0dkE?oc=5",
-      "pub_date": 1789521535.0,
-      "article_url": "https://www.foxbusiness.com/video/6405109357112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/143c0387-a024-4d61-8e61-1f7d027eb262/252030bc-680b-4669-9a31-ae82fdce1fba/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Former presidential candidate Larry Elder discusses heightened AI fears ahead of midterm elections on 'The Evening Edit.'"
+      "headline": "Microsoft Publishes Draft Document Outlining Rules for AI Training",
+      "source": "80 Level",
+      "source_url": "https://80.lv",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1FVeEt3Rk40U05jd0w1STMzNWhPQ0tJbjBKNUo2TUdDZkpfRUVyaGw2U2pNWThLMmllSUVqSjlEdEVTaE40QXY0M2FKVXNOLVhKaWU2TEtGUE9sSnRPc2ViWlUxbG1WcjB1UDZablVqamFmRXdBNXlmT2NDNFNYUWVqcUdLeHFaYm1IdjFKMEQwRTA?oc=5",
+      "pub_date": 1789542376.0,
+      "article_url": "https://80.lv/articles/microsoft-publishes-draft-document-outlining-rules-for-ai-training",
+      "image": "https://cdn.80.lv/api/upload/meta/50227/images/6aaa3f6a83eb2/contain_1200x630.jpg",
+      "description": "You can participate in crafting it by giving feedback."
     },
     {
-      "headline": "Live updates: Bernie Sanders and Steve Bannon join AI skeptics at \u2018Pro-Human\u2019 conference as Washington debates next steps",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbXJCQVVXb1VNTkl3Mm1aZ1pnNXJidkFnVTRtRlV4SXhrSl9tcnBDSnk4UzJvOVNLam9Hc1Vhc0xNNTByWkp3eW82cUQxQ19taVhVYW1aakV6NVFjV2ZWRnRPSzN6V2hfelVKX25OV21VemM0Tk5TbHRUTFZkMXNvMTRGQ1FTWlZna253TzVYN1ZyUTBMU2FwR21nOS14Ml9rY0tyMHgxbERrUFFhOFlTNDlOYUo3MnNpTVhyLXhobHlMd2VMc1lGYTd0aHBEeEoyeWJV?oc=5",
-      "pub_date": 1789520280.0,
-      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-tech-congress-2026-midterm-election-iran-live-updates-rcna597782",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Bernie-Sanders-Steve-Bannon-vsb-2141-copy-669ca2.jpg",
-      "description": "Live updates and the latest news as lawmakers, actors and religious leaders join \u2018Pro-Human\u2019 summit to discuss curbs on artificial intelligence, while Trump has characterized concerns about AI development a \u201choax.\u201d"
+      "headline": "Watch: Why is Donald Trump so opposed to regulating AI?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HcFNzYjNhc2l3M19SaGpRWGFwS3ozS3k2TW0yLVEtT0RYNjJKOTdJa2dNV3oyRDhzdnRCQnVoQkJaSFlmdlJ2TWNxS2Z6bTRUTmlPamhCMlQ?oc=5",
+      "pub_date": 1789504500.0,
+      "article_url": "https://www.bbc.com/news/videos/cmvgyp7n98zvo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5cad/live/cc1f3b00-b143-11f1-a430-4d16ee157c41.jpg",
+      "description": "The BBC's North America editor Sarah Smith looks at why the US president is contradicting AI leaders, who are calling for the technology's development to be slowed down."
     },
     {
-      "headline": "Steve Bannon and Bernie Sanders Condemn Tech \u2018Oligarchs\u2019 and Demand A.I. Reforms",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5",
-      "pub_date": 1789510676.0,
-      "article_url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+      "headline": "Trump Has Few Good Options To Slow China's Rise As AI Superpower",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2RaZmh0bkViZ2ZWY0hrX1BsWHU5Tl9fRWM0cWY1WWJVeGYxMzJWaWhRZ1BkUEdfUFpmR0p1Q0p5YjR1VlRERXRVRHBJemctZ09KRXZ6bm1kTlBtel9ncmlyZ214M2NDMkxYaDlqUWFJdldBUmNZMGpiMnFwc0JDYkZWR3pvYUFYdlZvVHRiSDl4RGNRdWNPTDFJZmhIUFFXTUZhbnVwZ9IBrwFBVV95cUxOeUUybmEtQ2swcGtjcjhkb3VheFhacTdrY1RnTld1ZXMtRHV6dGxhTDI3UDJvWWVVVHpMOU5CXzFPWFFsSHB4Y1ROWURQbU1oUU9pVVdqVzRVaGljRVhyQW56Wm03bENUaFhkR2dadGVYVFhpRmlzRF80bHZzbnVDU3AwWFBCakFjak9ZUVI3YkZwZ0VzOGlxem5vTGl1VmRkZ1R4c2hfTmRnWTQ4dkx3?oc=5",
+      "pub_date": 1789536276.0,
+      "article_url": "https://www.ndtv.com/world-news/trump-has-few-good-options-to-slow-chinas-rise-as-ai-superpower-12052761",
+      "image": "https://c.ndtvimg.com/2026-09/efa67c6k_trump_625x300_16_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "description": "China has continuously narrowed the gap with the US on AI despite the restrictions, as Xi pours money into becoming self-sufficient on the entire tech stack."
+    },
+    {
+      "headline": "What Trump\u2019s Bizarre Posts Are Teaching Us About AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWxVZzA2eWxDQkhPUV9UN2NmTXJ0bmlDcXczT3Z5SGJpeDRXakxONlBkQlNZUFBQNlJtc09YekJBdWFuMTFCY3NSdDdpckFsb1ZCZWVPT3M3Mzg2bm5PdXY5a1Q0Mms5am9NeGtBSlhEWkNELVVNTVlqNDQwQ25TT0Z1RjRnWEpkWEpNV2hrMGlPR0E5VUZmRVlmM2otTE5GcWltOA?oc=5",
+      "pub_date": 1789477200.0,
+      "article_url": "https://www.theatlantic.com/culture/2026/09/what-trumps-bizarre-posts-are-teaching-us-about-ai/688617/",
+      "image": "https://cdn.theatlantic.com/thumbor/ESciCqoy7tzJWW4hOCuUi7VGGdE=/0x43:2000x1085/1200x625/media/img/mt/2026/09/TrumpAiNarcasissm/original.png",
+      "description": "The president\u2019s recent Truth Social barrage of fake images reflects the dangers\u2014for all of us\u2014of virtual self-aggrandizement."
+    },
+    {
+      "headline": "Bond yields are spiking, oil is up \u2014 but investors aren\u2019t giving up on stocks",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTB1eUt0VThoUllsTWV2UzVJQXc0TEpiNHFVamRyRGNFQnRpcnFSdHV0N1BySFF5dkVoUXdVQ0U5TzZUay1ZNjNVSjFKSEZleFlCOVFxZDZWTV9iNzB0NHFkWTNoUW1zeG9xdk1ra2VQeVZuNnpyRjNsWkZxbDB0dNIBhgFBVV95cUxQbDNiMmt6clJmRjRtMkQ1UzNwVFU5NWF6ckJHYnp3a2tManJOUHZ6RlVJMlJpYXpXbktQNkQzQ0R2NHBKTGdNcmxwa1lWZEVHVVYtdXlYeldHR1NuS1d2WTZ2NmVRSmhwaWtKdi1tN0x4UzJNaWs1Sm9hSUYtMkdsckFmeWpaUQ?oc=5",
+      "pub_date": 1789537873.0,
+      "article_url": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108359876-17888859102026-09-08t164114z_796718044_rc22fna0e8bt_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "description": "Rising Treasury yields, geopolitical risk and fresh AI safety concerns are hitting markets, but many investors remain bullish on AI spending and earnings."
+    },
+    {
+      "headline": "Software, Platform Stocks Top Asian AI Picks, BofA Survey Shows",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDEtMFdocW9tX1g1Z3ZBUlFYRndwalZTSmtOQWxDOFZXUW93Vlp3TGhfR3o3TlVyU21pUl9YUDJ0Ujg3OHFkWGVKM3NhME04eW5CNnBENjB3dXFqSDRMcjY1WTVmWFBHOFo1REFLb1kzblhPOGFMV1BWUkxKM09rdzhIaG9tS1VRYUQ4ODFqLTBQMkRfWFJIdHFNbmpTb25XQkZsRUpOZnV4Y1RNWU9LdTFn?oc=5",
+      "pub_date": 1789538940.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-16/software-platform-stocks-top-asian-ai-picks-bofa-survey-shows",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bernie Sanders and Steve Bannon call for curbs on AI",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVlUeG1kd3c0LWItU2VsWlBxaEVTX1RZN3cwUHZmdmJOMmNxYklsbnpVSkVUMVFmTHhyenhHU0JfWGdyU0tKQ2hQZUlDNkNETkZaWXBLaUhKaFBzMnlIcW5pQ3NrOUhQUVZTYmRnZVhkSERUQXRMZU9tdUtQSkFWcDlIc3RiYmZKb2djcDhkU1RiWFVpX2d2NmdxRnhJc0VvbHNibllTTzFrQmpkQVd2RnFWTWFSbVk?oc=5",
-      "pub_date": 1789462800.0,
-      "article_url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2F99%2F77740fc4442eb560062face82027%2Fsanders-bannon-diptych.jpg",
-      "description": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI."
-    },
-    {
-      "headline": "Mark Zuckerberg says AI labs can slow down on their own when safety demands it",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzNPeU9Qc1NoTkNVYUgySDFQT2RCUUlOT05NZk5jSlUxWmY5clhiOHdmUTZrOUNlb2IxbDBOM2tnbHdvQi1CZENyRE9hU3R3SWZYWjBILUdUaU53cEFYVG1aWTBhQzR4cVpZSTVGZUlpU25zeUxnMzZvN3VtVVdJa09LMXRUS3FueGlmR2R1NEo1Z3c1RjhlazhJWGw2MnE3?oc=5",
-      "pub_date": 1789521945.0,
-      "article_url": "https://www.businessinsider.com/zuckerberg-says-ai-labs-slow-down-market-pressure-for-safety-2026-9",
-      "image": "https://i.insider.com/6aa9e2bbec15fe2d3cf17dea?width=1200&format=jpeg",
-      "description": "Mark Zuckerberg said AI labs can slow development independently and that market pressure will reward companies that prioritize alignment."
+      "headline": "Millennials are getting 60% of all the top AI jobs and earning $236K salaries\u2014but most are men",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2pnMDBxeExoS1VrcllEMncwcXdxQXY4LUZQRnpFa1F3VktiQ3BGSTlfUk9qY1NwRnhZd1NHNVpYUE9zNnBJalhFeC1SNEcyRzRkNWI3WlUxYVlLbHRHYTdsWm9mVUNVVGEwSjJMLS11ZExmTDZzNUFjZ1ItMlRfRzdBMGExSHlyVGlJclEzM21aZV80Q2ZHWjhVNGVEeXJ6VTZhMWZlRjdhVGlqZndsWjVYaFduR2RMNFRkUU5JWkV5SVlwSlp6eXlyYVc?oc=5",
+      "pub_date": 1789542000.0,
+      "article_url": "https://fortune.com/2026/09/16/millennials-winning-ai-talent-wars-linkedin-research-236k-salaries-men-degrees-gender-gap-inequality/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1159375196-e1789404909721.jpg?resize=1200,600",
+      "description": "The highest-paid AI managers have two things in common: a degree, and being a man. While women and workers without one are stuck in AI's lowest-paying jobs."
     },
     {
       "headline": "Texas' Arch Manning apologizes for reaction to violent AI video",
@@ -93,18 +103,8 @@
       "article_url": "https://www.espn.com/college-football/story/_/id/49950893/texas-arch-manning-apologizes-reaction-violent-ai-video",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWdHbHRjZFlCeUljRDZJVDV6bERLWTRhLTRkUW1vZGRDQ1c3UHNxbTJLMGxaNFpHaDNrRWFfNmQ5MlBzdmJreUxERW1MQnFiVUxMS1ZEaFE5d29OODd6SEV6ZWZOTEhCbFgtZWNfUG9BZDE1b1pSLXQ2OFFZdVNXS3Z4T09pS3FLSEw2VHNYYw?oc=5",
-      "pub_date": 1789500420.0,
-      "article_url": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
-      "image": "https://i.guim.co.uk/img/media/b00a421c4c12b9f8872a3a0ff6b53b04e2a9dc7f/378_0_3764_3013/master/3764.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a12983e171d730e14f4b9eeb9aca3c5",
-      "description": "The Texas star had joked about an AI-generated video that depicted Longhorns coach Steve Sarkisian slapping Rowe, a college football reporter for ESPN"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T01:32:50.972622+00:00"
+  "fetched_at": "2026-09-16T07:19:46.536517+00:00"
 }

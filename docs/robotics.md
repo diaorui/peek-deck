@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-16T01:32:55.430076+00:00'
+updated: '2026-09-16T07:19:48.480150+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 16, 2026 at 01:32 UTC  
+**Last Updated:** September 16, 2026 at 07:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-2d ago
+3d ago
 
 ---
 
@@ -112,23 +112,25 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe](https://spectrum.ieee.org/humanoid-robot-safety)**
+
+Agility Robotics’ latest is big enough, and safe enough, to do useful work
+
+IEEE Spectrum • 2d ago
+
+---
+
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 20h ago
 
 ---
 
-**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+**[Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
 
-oregonlive.com • 8h ago
+The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
 
----
-
-**[Agility’s new humanoid robot will stop, squat to avoid harming human coworkers](https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/)**
-
-Robots can start working outside physical cages and without safety barriers.
-
-Ars Technica • 6h ago
+The Robot Report • 20h ago
 
 ---
 
@@ -136,15 +138,15 @@ Ars Technica • 6h ago
 
 The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
 
-The Conversation • 1d ago
+theconversation.com • 1d ago
 
 ---
 
-**[These Robot Soldiers Are Getting Downright Terrifying](https://futurism.com/robots-and-machines/robot-soldiers-getting-terrifying)**
+**[Delivery robots’ presence expands in Arlington amid regionwide shift](https://www.arlnow.com/2026/09/15/delivery-robots-presence-expands-in-arlington-amid-regionwide-shift/)**
 
-San Francisco-based tech company Foundation recently signed a $24 million Pentagon contract to develop humanoid robot soldiers for war.
+Roaming fleets of delivery robots have been expanding throughout the D.C. area in recent months, including in Arlington. In the three months since the company Avride began having robots carry Uber Eats orders in Arlington, the company says it has added more bots in response to market demand. The company declined to disclose how many
 
-futurism.com • 7h ago
+ARLnow • 18h ago
 
 ---
 
@@ -156,27 +158,27 @@ Business Insider • 1d ago
 
 ---
 
+**[I’m a female founder with a liberal arts degree and my company has raised $280 million. You don’t need a PhD to build a robotics startup](https://fortune.com/2026/09/16/robotics-needs-more-women-and-nontraditional-talent/)**
+
+Robotics needs to broaden its pitch beyond hardware to attract women and other talent drawn to solving real-world problems.
+
+Fortune • 19m ago
+
+---
+
 **[3 AI Robotics Stocks Worth Owning Over Tesla Right Now](https://finance.yahoo.com/markets/stocks/articles/3-ai-robotics-stocks-worth-043500684.html)**
 
 AI robots can create many millionaires, but Tesla may not be the best way to play it.
 
-Yahoo Finance • 20h ago
+finance.yahoo.com • 1d ago
 
 ---
 
-**[Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders](https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html)**
+**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
 
-America's housing market is short inventory and workers, pressuring home affordability. Constructions robots are reality, but to date not humanoid homebuilders.
+America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
 
-CNBC • 3d ago
-
----
-
-**[Research centre aims to pioneer 'responsible AI'](https://www.bbc.com/news/articles/c689j81q548qo)**
-
-Sheffield Hallam University says its Centre of Excellence in AI and Robotics has an ethical focus.
-
-BBC • 20h ago
+Baton Rouge Business Report • 1d ago
 
 ---
 
@@ -192,23 +194,59 @@ Nation’s Restaurant News • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Brings Robots And Humans Together For An EPIC Routine! | Quarterfinals | AGT 2026](https://www.youtube.com/watch?v=7TKP3YRbVmM)**
+**[China’s Massive Robot Army is Shocking the Entire World](https://www.youtube.com/watch?v=KXoNZwIMy8A)**
 
-Unitree pushes the limits with a jaw-dropping routine where robots and dancers flip, kick, and move in perfect sync. Watch ...
+In August 2026, Beijing's National Speed Skating Oval transformed from a Winter Olympics venue into the stage for the second ...
 
-📺 America's Got Talent
+📺 Gain Theory
 
-👁️ 1.5M • 👍 13K • 💬 2K • ⏱️ 5:02 • 6d ago
+👁️ 97K • 👍 959 • 💬 44 • ⏱️ 21:36 • 6d ago
 
 ---
 
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+**[Robots in Poland ‘protest’ against AI](https://www.youtube.com/watch?v=Dl90C7JZDcM)**
 
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
+Robots in Poland "protested" outside the Digital Affairs Ministry on Monday, demanding greater regulation of AI, as organizers ...
 
-📺 Blakwoodz
+📺 CNN
 
-👁️ 82K • 👍 2K • 💬 592 • ⏱️ 13:22 • 4d ago
+👁️ 94K • 👍 3K • 💬 200 • ⏱️ 0:39 • 4d ago
+
+---
+
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=QZK2e-TZarA)**
+
+📺 SNeuroRobotics
+
+👁️ 13K • 👍 418 • 💬 18 • ⏱️ 0:08 • 4d ago
+
+---
+
+**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+
+XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+
+📺 DPCcars
+
+👁️ 82K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
+
+---
+
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=GSBANiWbmOs)**
+
+📺 SNeuroRobotics
+
+👁️ 36K • 👍 271 • 💬 3 • ⏱️ 0:12 • 6d ago
+
+---
+
+**[Humanoid Robots Marathon In Beijing China #humanoidrobot #robot #robotics #robotgame #technology](https://www.youtube.com/watch?v=Zc38ziE4ilA)**
+
+Humanoid Robot marathon in Beijing China. it's so impressive that robots can run marathons so well.
+
+📺 Code by Nadiia
+
+👁️ 35K • 👍 215 • 💬 6 • ⏱️ 0:15 • 5d ago
 
 ---
 
@@ -222,73 +260,31 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[XPENG Humanoid Robot Production Officially Begins](https://www.youtube.com/watch?v=RdtzMhvqGlY)**
+**[13 BIOBUZZ Robot Reveals | Robot in 30 Hours | FIRST Tech Challenge](https://www.youtube.com/watch?v=9kbtAI-P6iM)**
 
-XPENG has reached a major milestone with its humanoid robot as the company confirms its robot production line has been ...
+13 BIOBUZZ Robot Reveals | Robot in 30 Hours | FIRST Tech Challenge Check out these 13 quick build Robot in 30 Hours ...
 
-📺 DPCcars
+📺 FUN Robotics Network
 
-👁️ 81K • 👍 332 • 💬 74 • ⏱️ 3:39 • 6d ago
-
----
-
-**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
-
-📺 PRO ROBOTS
-
-👁️ 31K • 👍 523 • 💬 73 • ⏱️ 21:46 • 5d ago
+👁️ 12K • 👍 107 • 💬 9 • ⏱️ 1:14:31 • 1d ago
 
 ---
 
-**[Can OLD Lasers Make Vulcan OVERPOWERED? | Does It Work? #8 - War Robots](https://www.youtube.com/watch?v=8lIL8RGpq4w)**
+**[Future of Umrah Transport: AI Robot Serving Pilgrims 🚌✨ #shorts](https://www.youtube.com/watch?v=YMiAeyw07mA)**
 
-Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons to see if old-school lasers can still dominate in ...
+Experience the future of Umrah transport in Makkah! Inside a modern pilgrim bus heading to Masjid al-Haram, a futuristic AI ...
 
-📺 Adrian Chong
+📺 RoboElite
 
-👁️ 7K • 👍 248 • 💬 71 • ⏱️ 17:00 • 12h ago
-
----
-
-**[XPENG ROBOTICS: ONE STEP AT A TIME](https://www.youtube.com/watch?v=ZgBm8PdtpGo)**
-
-Real innovation can't be built on slides. From hardware to AI, true breakthroughs take persistence. No shortcuts, no quick fixes.
-
-📺 XPENG
-
-👁️ 472K • 👍 4K • 💬 360 • ⏱️ 5:52 • 6d ago
+👁️ 319K • 👍 5K • 💬 6 • ⏱️ 0:11 • 5d ago
 
 ---
 
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=ELxs0W-MPjc)**
 
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+📺 SNeuroRobotics
 
-📺 FutureTech Zone
-
-👁️ 77K • 👍 1K • 💬 203 • ⏱️ 0:25 • 4d ago
-
----
-
-**[Chinese Robot Launches Flurry of Attacks Against It&#39;s Developer](https://www.youtube.com/watch?v=G7MuEYC1tKE)**
-
-A humanoid robot turned on its developer and kicked a remote control clean out of his hand, it then proceeded to jump in the air ...
-
-📺 New York Post
-
-👁️ 178K • 👍 2K • 💬 892 • ⏱️ 1:32 • 5d ago
-
----
-
-**[The Filthiest Robots at IFA 2026](https://www.youtube.com/watch?v=0z2SFaGHXz0)**
-
-I did NOT expect some of the things I saw at IFA 2026 Enjoy a fairly bizarre round up of everything from Smart home tech to...
-
-📺 Paul Hibbert (Hibbert Home Tech)
-
-👁️ 121K • 👍 3K • 💬 332 • ⏱️ 34:20 • 6d ago
+👁️ 30K • 👍 232 • 💬 4 • ⏱️ 0:10 • 6d ago
 
 ---
 

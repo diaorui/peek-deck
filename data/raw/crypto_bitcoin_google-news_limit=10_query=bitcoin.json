@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBvR3VucDJlZ1JiVktNTGdoNVMzSVVwbUZxZFdhTHRYZk45M2JoVF9QOEhyWkNWb3JMRUtWbHlFYXlmeU5BLVNza1FjbktLZFZneDlidGlIS0Z3RVk0ZkhLWHotNnBOaXl0LW1DVUVCX20xcEtGR2N6R1BTN2gzcncxd213NktYSHFNNTVNV3RXMFZSbWlvYVd2ay1fX2hEM1p0d0RIMnNkVnhoMjNSQWwzMGtqZ0hRQkZ1elBwTTJYajdqR3JFdGFR?oc=5",
       "pub_date": 1789486287.0,
@@ -15,14 +15,14 @@
       "description": "Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes."
     },
     {
-      "headline": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
-      "source": "Yahoo Finance",
+      "headline": "Bitcoin, Ethereum ETFs Bleed $592 Million as Clarity Act Fails in Senate",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFR2T2tBdVktcFlfUDB5TFpnM2ZwZHhXb3p5ZUNMLVlMV2ZKSlJVOG9pdHMxNTFvTnpwY01tREdpdDBoSEphVy1VYzFDR0o5QXRWN0NSdmc4TWQyUm1aa3liSFhvZDF0RjN2UG5uUmg0YUhIWVdGQnJiV0hnZWUxVVUwVFVhRWViVTBPc21MMmM5VEQ3MVB3WVBOVC12NzZmN00w?oc=5",
-      "pub_date": 1789521240.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-crypto-stocks-decline-011426654.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/64f794d7a5a5f972b4c9a15d6f77dc60236e26c683a719761d6f08ee05b76d74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F9707e20ac8ceb4b576c56a86d9f7944d.jpg",
-      "description": "Bitcoin and crypto-related stocks fell sharply on Tuesday after the Senate failed to advance the CLARITY Act."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0ZMZDg4czFyR212S1paNXVndnZzQTFhZ1F3dTRJNDdxel9qd2Z0bFQ2UEJzWG4xM0F4YUtWeGtLdlZ6QTJPaDlVWVpSdnZXdWxYUWRGRlpWdUZCMzl6ZjNFZmZMUk5rTVNMejZGM3VZd1U1Ymxwam9GSjJVYzRCVmJhcWd0d0JTbGlFVVBQSGc2Zk1YUWJmU0tINng?oc=5",
+      "pub_date": 1789539853.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-etfs-bleed-592-062413032.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/e3a793413289fd3a0592cf44abd92bd6d2103e739f4d85b207d1bb0b4050b232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F1806c0da2a5a78790467470de854956a.jpg",
+      "description": "Bitcoin and Ethereum ETFs lost $591.8 million on September 15, posting their deepest single-day outflows in months."
     },
     {
       "headline": "Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes",
@@ -36,7 +36,7 @@
     },
     {
       "headline": "Why Is Bitcoin Down Today?",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbU8wdTNsUnQtZDQ2OUcyQjRVSjFhOTdnanp2cEFyZnhjSVhzTGpDY0I5Zy02eDljdjBFU2tDYmNtTjhUSjEzblN6SUp2SFZ4NjdUZmE0VW14NXB5TUhCZEtrVWM2dWQ0TTNKMlFsMzFnYjIycFJtd3VHS08yV3FZN2RFMnJRZXJmOHdjUXRQZXI?oc=5",
       "pub_date": 1789496051.0,
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Has the Bitcoin Rally Fizzled Out?",
-      "source": "WSJ",
+      "source": "wsj.com",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNWeEpyNUF1d0FaTG1rNFk0NlVmQ1F5QWExRk9yc21BWTBPb0xGSU0wdkEzZnhsSTdOS0cwNGVCZUstOFBKblR3RTU4clJmSFZWaG05akRYRGhuMmNhMzg3bE5zRTAtYTVZOGFPeE56TzU3MEVzTEVvdDVUQlJwXzNfX0pkXzBn?oc=5",
       "pub_date": 1789395120.0,
@@ -55,24 +55,24 @@
       "description": null
     },
     {
-      "headline": "BTC news: A 25-cent bitcoin deposit let a hacker mint 46 billion fake bitcoin tokens",
+      "headline": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2wtYWN5X2Y0S2tOakdNRG9IYV8ySTZXSmRvRDJQMlVSdk1va1J1ZGh0c3NVWXdZRGxiaTZKVzEycVg1TFRZY2JhVk9EYWpudDE0cmNMTkN2ZU9yalFBYWN2OUtvekdpT3JKVEFhbEFla1ljSU1nVXJuNkcxZ19FWTdaLVB0SjhJUVZZRnpTYTZQdWNVSElaR0oyQ190ckw4bk05eDBJd19tUW11QURTeHp2U0xMeU5vNDNpM19yNi1MTXM?oc=5",
-      "pub_date": 1789479830.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Two software bugs allowed the attacker to create more than 2,000 times Bitcoin\u2019s maximum supply in unbacked syBTC. Symbiosis puts preliminary losses at 9.97 BTC."
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTlvWFN6dm5HajZTc2xNYnh6V25xREE1ZXl3bUtxSXJCTFZkLWtXVGVFekFRZWRZdFM3SVFsUmk4Wm1YNndCdG1WQi12UUtHdzdNOHl0LUg4ZnlFVjN5TUItZS1meGFwNFljb2hRTU9SR1JVYUQ3c29jZ2dZSkNPaElJWFAydTczZE5MTHgwUF9zeUF3Mm9FTFRDazhoekE1RU95VzVfdjF4dVhvQTFLSWJJTnBNVXFhNHFFeHp3?oc=5",
+      "pub_date": 1789538044.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Nearly 2.4 million ZEC participated, with 99.9% backing 25-second blocks and 98.9% voting to preserve the network\u2019s existing halving schedule."
     },
     {
-      "headline": "Current price of Bitcoin for Sept. 15, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GYi10RWVRejA1MTJXa1BObC01ck1iNC00YkwwaWtMSXdUdnkxZVpZY0I0ZE83czItSkllYkFvQ1hyY1pLa2JLcFdXRlpXS0JDNVBQdnBHU21PdFZfcW1aNWI2M25NSDQ?oc=5",
-      "pub_date": 1789484504.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-15-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-15.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+      "headline": "Bitcoin's late summer rally set to face off against the Fed, Congress",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
+      "pub_date": 1789400730.0,
+      "article_url": "https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin Falls Below $75,000 Before Clarity Act Stumbles",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Price Wobbles as Leverage Falls Ahead of CLARITY Vote and Fed Decision",
-      "source": "Yahoo Finance",
+      "headline": "Bitcoin Drops Below $77K Ahead Of Potential Fed Rate Hike \u2013 CLARITY Act Vote Set To Add Crypto Volatility, Says Analyst",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEMzY0lkWUkzS0N1ZFBqeWoxcUREaFJJVzBEQ1JENUhIMVJqNHcwd3EyWnVrcWFXTGRKdnBiWnVtOTVMRENjRmxZSXlCQm81NEFJYXFOLXpPMkhaZjlOWXRJTnZDZlVkVDFSbjJtSnNyYTB3b2hfbVhHQ2psel9hdVlKbXdzeXU2MUF1VzU0MTZTTGhqNzdtZmZyT21reDR3Zk1v?oc=5",
-      "pub_date": 1789469429.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-wobbles-leverage-falls-105029007.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/7ca3dcee0114bb0a6a59d2b4d6ffe40e042a9038c393521b5ef923b25c3ca5ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F01a3a76de906f0fc5ded523e27d682d8",
-      "description": "Bitcoin open interest fell by 13.5% in 10 days, dropping from 321,497 BTC to 278,151 BTC even as the underlying price declined only about 5% over the same window. That gap between derivatives unwind, and spot price action signals deliberate repositioning.Bitcoin price currently trades under $77,000, down from its September ..."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVpPUGpxUlhNNmpVLV9yVk5KVmNpaDNRX3QxZ2JIanh3Uk1kdDcxMEpqZlFJQWxMNkpxT1BaLVlTLVlaV043c1FoS09sNWV6ekN5TndOQjVWM2J1WlV3STNLdHRtekxuZE8xdmxMdUx1YUFsZ09YX2xTaEJDbXFLV3pGelVNUG1CdXMzSkw1NkRYVEpwa2FoczV3?oc=5",
+      "pub_date": 1789494705.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-77k-ahead-175145912.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/cca53307135b8c3b4d7c4fef812a9dcb7409eece0acf037b425c4124aa4a9fb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F7ba2a0e8e5f100a77320b79b5c57cb3b.jpg",
+      "description": "The last time the Federal Reserve hiked rates, Bitcoin\u2019s price remained steady \u2013 but that was over three years ago."
     },
     {
-      "headline": "Bitcoin's late summer rally set to face off against the Fed, Congress",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEV1dXlZWDh3VTJpMHVvclNtOWY1WVZXSGFIM3JZa1h0bDYyNVUzd0lvcUFpdVJtVjFZemVZSGotMnJmR3Q5aDN5MzVaenluWUhseElqVEltb2RBQU8zTnktd3hOaWZnQ20yTG5OY3ltMjlXZU9ta0tvTkpnTlhncW1DcEg0bl9BNWdnVEdJOFc5THpPZmZYNjFNZEhPdEVvU1ZtWW5vWUlVMFp5VDd2RXpBcw?oc=5",
-      "pub_date": 1789400730.0,
-      "article_url": "https://www.reuters.com/business/finance/bitcoins-late-summer-rally-set-face-off-against-fed-congress-2026-09-14/",
+      "headline": "Bitcoin Drops the Most Since June After US Senate Blocks Bill",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXR5VjNOS090QVl2LTlkbEVqeS1YaWlrZmZhS0Q4eWF1OTZMSW1ZSklkT1VRdXVfWktTeVNPSmRKWUlGMnRodWI2ZmpDYjBSbm00bmk1a244eG1meDU1M1pfS3JWbDJIMWIxLVl2dEtUSVdEeWJkREJ6UDhpU1NTRUVadEFZS0pPRnFfZ21CR2RnRG1VMzg1TDdmSmJiVFRIZmMxb1p4QUdFSF9vbGsxZHBLMGY?oc=5",
+      "pub_date": 1789498308.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T01:32:53.377764+00:00"
+  "fetched_at": "2026-09-16T07:19:41.210637+00:00"
 }
