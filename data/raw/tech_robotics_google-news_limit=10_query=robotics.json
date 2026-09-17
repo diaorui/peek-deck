@@ -5,32 +5,12 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Tipping Point: A Citrini Field Trip",
-      "source": "citriniresearch.com",
-      "source_url": "https://www.citriniresearch.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
-      "pub_date": 1789569274.0,
-      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
-      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
-      "description": "Seeing is Believing"
-    },
-    {
       "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
       "pub_date": 1789470017.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
-      "pub_date": 1789491060.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
       "image": null,
       "description": null
     },
@@ -45,6 +25,26 @@
       "description": "The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees."
     },
     {
+      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
+      "pub_date": 1789491060.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Robotics Tipping Point: A Citrini Field Trip",
+      "source": "citriniresearch.com",
+      "source_url": "https://www.citriniresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
+      "pub_date": 1789569274.0,
+      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
+      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
+      "description": "Seeing is Believing"
+    },
+    {
       "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
       "source": "SpaceNews",
       "source_url": "https://spacenews.com",
@@ -53,6 +53,16 @@
       "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Robotic lab sets up and runs optics experiments on demand",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
+      "pub_date": 1789617600.0,
+      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
+      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
     },
     {
       "headline": "'Scoff at your own risk:\u2019 Viral investment research firm says AI robots are a coming mega-trend",
@@ -75,6 +85,16 @@
       "description": "How to secure today\u2019s AI robots against stealth cyber threats"
     },
     {
+      "headline": "Why do some robots feel creepy? We deliberately built one to find out",
+      "source": "The Conversation",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajFiRFByd1hJVTdieWhyb0RYeXctU0FENnBDNVE1OHl4Y05qTV9YSTVoU0dQVno4ZEVHZGZkMjRoQ181d3MzNnNvQmJ0ZzRyOGp2Tkl0MjVMcTJrTTZtYkQ1M0JPdWxMX05SOXRHSWtfVlFlcU9oT0dmR1BvR041WGFXQ2N6MFdrMXpfX2VUQ2tCakpRQW4zUDJlLUZyZTdvQTJsSDRB?oc=5",
+      "pub_date": 1789609500.0,
+      "article_url": "https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231",
+      "image": "https://images.theconversation.com/files/760358/original/file-20260916-50-9pnhtz.jpg?ixlib=rb-4.1.1&rect=0%2C643%2C6796%2C3398&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "Why do some people perceive a robot as \u2018creepy\u2019 while others don\u2019t? It seems our response to these increasingly common non-human companions is highly subjective."
+    },
+    {
       "headline": "Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs",
       "source": "Engadget",
       "source_url": "https://www.engadget.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/",
       "image": "https://www.engadget.com/img/gallery/japanese-company-develops-a-humanoid-robot-ambulance-for-on-the-spot-repairs/l-intro-1789506872.jpg",
       "description": "It turns out that breaking down at work isn\u2019t a uniquely human experience."
-    },
-    {
-      "headline": "Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1lVNUh6cm1STUVPV0JrNG96TFN4R2xLLTd5eXZuZk1SNFhuQlJ2NUo0T05rRUdIYzlMLVJLaU42bWNNR0VIOFlLMzNoUlhaa3MzcUtPVm1VZUZyWmRkMTdZaU41RS1GUGpFSWw2dTZkWjU4akNMV1dIZFNGbnZ5QlY2OWZaWEgwUEM1aV9UcTRRbDZ5dFBGS2JoUkJUV253NXRWN0xqb2JlVW5wbG41aVpFZWN6VGRDMlV3?oc=5",
-      "pub_date": 1789571415.0,
-      "article_url": "https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
-      "pub_date": 1789392900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
-      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T17:30:30.861787+00:00"
+  "fetched_at": "2026-09-17T20:31:27.443197+00:00"
 }
