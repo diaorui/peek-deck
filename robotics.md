@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-17T17:30:32.493623+00:00'
+updated: '2026-09-17T20:31:30.968607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 17, 2026 at 17:30 UTC  
+**Last Updated:** September 17, 2026 at 20:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 3d ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 4d ago
 
 ---
 
@@ -112,17 +112,17 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
-
-Seeing is Believing
-
-citriniresearch.com • 1d ago
-
----
-
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled](https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5)**
+
+The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees.
+
+Interesting Engineering • 7h ago
 
 ---
 
@@ -132,17 +132,25 @@ OregonLive.com • 2d ago
 
 ---
 
-**[20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled](https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5)**
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
 
-The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees.
+Seeing is Believing
 
-Interesting Engineering • 4h ago
+citriniresearch.com • 1d ago
 
 ---
 
 **[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-SpaceNews • 4h ago
+SpaceNews • 7h ago
+
+---
+
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+
+MIT News • 16h ago
 
 ---
 
@@ -150,7 +158,7 @@ SpaceNews • 4h ago
 
 Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -162,25 +170,19 @@ IEEE Spectrum • 1d ago
 
 ---
 
+**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+
+Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+
+The Conversation • 18h ago
+
+---
+
 **[Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs](https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/)**
 
 It turns out that breaking down at work isn’t a uniquely human experience.
 
-Engadget • 18h ago
-
----
-
-**[Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse](https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953)**
-
-Gizmodo • 1d ago
-
----
-
-**[Iron Man-like ceiling-mounted robotic arms for house chores unveiled](https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms)**
-
-MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
-
-Interesting Engineering • 3d ago
+Engadget • 21h ago
 
 ---
 
@@ -192,17 +194,7 @@ Interesting Engineering • 3d ago
 
 📺 Robotic Haika🤖💖
 
-👁️ 923 • 👍 25 • ⏱️ 0:25 • 2h ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 87K • 👍 818 • 💬 607 • ⏱️ 13:22 • 5d ago
+👁️ 1K • 👍 25 • ⏱️ 0:25 • 5h ago
 
 ---
 
@@ -212,7 +204,17 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 938 • 👍 60 • 💬 2 • ⏱️ 1:00 • 4h ago
+👁️ 2K • 👍 106 • 💬 6 • ⏱️ 1:00 • 7h ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 87K • 👍 825 • 💬 607 • ⏱️ 13:22 • 6d ago
 
 ---
 
@@ -222,7 +224,7 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 📺 The AI Nexus
 
-👁️ 24K • 👍 301 • 💬 20 • ⏱️ 24:48 • 5d ago
+👁️ 24K • 👍 302 • 💬 20 • ⏱️ 24:48 • 5d ago
 
 ---
 
@@ -232,7 +234,7 @@ Tesla Optimus is moving from a futuristic demo to a much bigger question: can a 
 
 📺 FutureTech Zone
 
-👁️ 88K • 👍 1K • 💬 223 • ⏱️ 0:25 • 6d ago
+👁️ 89K • 👍 1K • 💬 224 • ⏱️ 0:25 • 6d ago
 
 ---
 
@@ -256,33 +258,33 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[Automated Robotic Arm Unpacking And Emptying Plastic Sacks](https://www.youtube.com/watch?v=Nc4BYzCE7zM)**
-
-Discover how an advanced robotic system uses precision automation to pick up stacked plastic sacks, cut them open, and empty ...
-
-📺 MNTechCrafts
-
-👁️ 3K • 👍 25 • ⏱️ 0:05 • 2h ago
-
----
-
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
-
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
-
-📺 Cleo Abram
-
-👁️ 347K • 👍 18K • 💬 453 • ⏱️ 0:37 • 3d ago
-
----
-
 **[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
 In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
 📺 Steven Ndukwu
 
-👁️ 513K • 👍 5K • 💬 774 • ⏱️ 27:23 • 5d ago
+👁️ 521K • 👍 6K • 💬 785 • ⏱️ 27:23 • 5d ago
+
+---
+
+**[Automated Robotic Arm Unpacking And Emptying Plastic Sacks](https://www.youtube.com/watch?v=Nc4BYzCE7zM)**
+
+Discover how an advanced robotic system uses precision automation to pick up stacked plastic sacks, cut them open, and empty ...
+
+📺 MNTechCrafts
+
+👁️ 5K • 👍 45 • ⏱️ 0:05 • 5h ago
+
+---
+
+**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
+
+📺 PRO ROBOTS
+
+👁️ 23K • 👍 214 • 💬 28 • ⏱️ 16:01 • 5d ago
 
 ---
 
