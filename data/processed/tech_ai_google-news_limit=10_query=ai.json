@@ -5,94 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Our framework for reporting model misalignment",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "pub_date": 1789596201.0,
-      "article_url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "headline": "OpenAI says it found more instances of AI models acting deceptively",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5",
-      "pub_date": 1789608780.0,
-      "article_url": "https://www.cnn.com/2026/09/16/tech/ai-models-acting-deceptively-openai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-31t202224z-521009670-rc2urlaat363-rtrmadp-3-openai-hugging-face-investigation.JPG?c=16x9&q=w_800,c_fill",
-      "description": "OpenAI found additional incidents of AI models acting deceptively and taking unsanctioned actions during training, the company announced Wednesday. It\u2019s also introducing a new process for the company to publicly report such instances."
-    },
-    {
-      "headline": "Jobless Tech Workers Are Being Left Out of San Francisco\u2019s AI Boom",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXdGZjBsRFdva0RaVEVrbDRmWmgzSnVaUld3U1JQOVlNUGVadk5VY3c4dDhLTW1rTHJTQnluc2dtWmFTMG9LVjBSaVlsRVJaeWoza3Q2a3FaYXpfUXIzRTdVOWdMY3BZSHVfMGVQcW1hV1lvalJPV1FRMjRha2l4eU9Pd3RRMEJJNFk4Z3FmMjlSQ202Yk5PZEdIR0RVbE90OGE0WlZSdWhaYmY1aTVBV2RZdXNwcmprcEJ6VXlkQnp3QnFPN2V3?oc=5",
-      "pub_date": 1789646411.0,
-      "article_url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The real reason why Donald Trump is so furiously against AI guardrails",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wQXpQMGRnLWxtQWQ2Z0o2a2pIY1N2Y2NWcEpKMWNLUWQtejVoTGpUc1cyVXpmeWxYQ0l4bzQ0S3JWUmJRWHB4Z0hzRlRhQXVKaVRGNkJKNWdYQWtkWDdMT0lDUnlrS1hUbDFmQg?oc=5",
-      "pub_date": 1789531289.0,
-      "article_url": "https://www.cnn.com/2026/09/16/politics/trump-ai-denial-hoax",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-ap26257060769294.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Washington\u2019s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?"
-    },
-    {
-      "headline": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+      "headline": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
-      "pub_date": 1789512784.0,
-      "article_url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+      "pub_date": 1789603944.0,
+      "article_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump administration live updates: Americans give AI in schools a poor grade",
+      "headline": "OpenAI flags concerning new AI behavior and vows to track it more closely",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
+      "pub_date": 1789618043.0,
+      "article_url": "https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI tests sponsored AI agents inside ChatGPT ads",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94b0lVN0Z0dnFfbFQ5bjNFS3RxTlctRnVpMnFBNWdYdV94cmc2X2x1di00WEdja3R6YnhEd3RVTHB0aXRxNDVPbUFIc2tOLUE2LXlBUEtWaEpNbDU2Wkl0OXJWVlFjOTBiUE9NSnVBdFBIQ3JiLXNUcw?oc=5",
+      "pub_date": 1789665498.0,
+      "article_url": "https://qz.com/openai-chatgpt-sponsored-agents-hubspot-shopify-091726",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2236467100-300x200.jpg",
+      "description": "The Sponsored Agents feature lets users start conversations with business-backed agents after clicking an ad in ChatGPT"
+    },
+    {
+      "headline": "The Anonymous Math Geek Who Quit Anthropic\u2014and Became the Face of AI Safety",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfZ1ZRUnVkR2YwbU50cWVaYVhxNEd2YnZ2ZVMzdlJWa1NvTXg3NUEzcEVfOWZ1Z2JuVlRlVVdfbm1HQXBKNEFNNjFJSmJra2FMMU9HZ014ekttTE0wQlJNYktqWFdNNF9YanJuR0NjaThSdk9zRnVVdzEwNTV2Zw?oc=5",
+      "pub_date": 1789606800.0,
+      "article_url": "https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "William and Catherine visit Bute and King opens AI summit as row erupts over Diana book",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90cjhKZWlpZ0hsekdwTHFrLXdYV2Z1N2xpMmd2YUlrVFB2c0dRZHVSeGpHZE05QUpnaXh3QUQxMTdtbDFUNm5WV0JhdEFSaktZNm81ZVhB?oc=5",
+      "pub_date": 1789662529.0,
+      "article_url": "https://www.bbc.com/news/live/cm17jx8en40lt",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bba/live/4fe716a0-b2b7-11f1-b1d1-571ed4d7ff2c.jpg",
+      "description": "Earl Spencer, the brother of Princess Diana, has written a new book about her life and death. Buckingham Palace issued a strong rebuttal on Wednesday."
+    },
+    {
+      "headline": "House passes bill to shield consumers from AI data centers' high energy costs",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTl4TXNTeTBBZFU3TVVVUUlOdUU4XzN0aGhpTU00aEtjWS1FbVU0T2RyOHhQb2h6SFlISHZyWFZ4RXUzS1ZUVkJnaEpvWW9xbHpkSFBrenpRSy12TE1uUjMwaXpZNFY0Y0IzS2dYVW4tZHlucm56TnhqdGtVRVl3Rm5QQWpEa0J2cTFsZTNXYnFkLUFrcWJJTXFKbXEweGdWZ0laMlYwMGhBQ3NKVWc3Q21jV3ZMMGNGQmpXb3pGVHFGeGlZSmtoMHNZcXM?oc=5",
-      "pub_date": 1789645138.0,
-      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-president-trump-gop-convention-vsb-2131-02bf51.jpg",
-      "description": "Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran."
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlhwdENrQTFlWlFRZ0dqY3JESlFnUnF0LThlTHlmbUZVaXpoWTBaVGZpdTg0c2NDTDNmMktMTHg3bWVrZ2xwQ3poT1h1dVBCTS1vSWNDSGN1MmRCNjQwc1RuOG1WVDFDdzJTX25LYzBoLUtDeE5qRGJRaUMwLTdOV1FRRTItOHlNZGJyUVE1clpidEVwb1dRMnQzVER1eWc5ajk1RVdWUFcyZ3ZhU0RlOGdUcHBQUDUyUE1vVXVueVM?oc=5",
+      "pub_date": 1789663713.0,
+      "article_url": "https://www.nbcnews.com/now/video/house-passes-bill-to-shield-consumers-from-ai-data-centers-high-energy-costs-270040133844",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789663538358_now_daily_a_kapur_house_data_center_260917_S3_1920x1080-7pvz99.jpg",
+      "description": "The House of Representatives has passed a bill that aims to help shield consumers from elevated energy costs due to AI data centers in their area. NBC News' Sahil Kapur reports on the legislation and its vastly bipartisan support."
     },
     {
-      "headline": "We\u2019re worrying about the wrong AI apocalypse",
-      "source": "vox.com",
-      "source_url": "https://www.vox.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUNOclVzNmUyQ3lUcDhIblRRZUJ4M28zSE5IZzVIWnNaNGFIb3F1eHV0aFVpSGR6emk1MlhQZFhOb0d5dzV0VUhOdFAtQWlmT0Nidm0yMVF4UG5mc0ExbEhEUXB2UHR3enozX09Vd3phaTlhck5CZ2NtMXliRFA4bXhDX1dPY19k?oc=5",
-      "pub_date": 1789646400.0,
-      "article_url": "https://www.vox.com/future-perfect/503068/ai-infrastructure-hacking-cybersecurity",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/gettyimages-2110558499.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "description": "\ufeffAmerica\u2019s infrastructure was already hackable. Then came AI."
+      "headline": "Arch Manning faces backlash for laughing at AI",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xSU9QMF9YUUYwTEZkSzk5dFFnRjhFUEs1NjlhaGpzdEU3RGdrTXBjQlRGeHcyTGtJYzJKYUNlQ19zUVVySU83NUhtS3BFQzIwcUJfU2dR?oc=5",
+      "pub_date": 1789664894.0,
+      "article_url": "https://www.foxnews.com/video/6405202989112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5b12878-795b-47bd-b1ac-33d6011d2289/c1c746be-3b20-445b-8bb7-3968089ef700/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "OutKick host Dan Dakich argues Arch Manning should not have apologized for laughing at an AI video of a player slapping a female reporter."
     },
     {
-      "headline": "College Is Coming Apart",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEdqX2Z6d2NxcVVQb19Gb2o2azlNRmN6SThrcURjV1ZfbFB3Y1c4cDhBb0ZaMF9XamxzVTFZdk5aVi1OcU05cHZCYWl5Q29xc3pPengzM0t2Y2Y3QUN0LTBlWGgzVHZpNkNsMC1yTTFYYm04dG5oVk9ocmJhZm8wa0N5dw?oc=5",
-      "pub_date": 1789646400.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
-      "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
-      "description": "Successive, overlapping crises reveal that American higher education makes no sense."
-    },
-    {
-      "headline": "AI has transformed the Pentagon\u2019s aging networks into a national security risk",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5",
-      "pub_date": 1789646563.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/17/ai-has-transformed-pentagons-aging-networks-into-national-security-risk/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65ZBWMBP3VSLGUGLPLFROATTLY_size-normalized.jpg&w=1440",
-      "description": "Outdated networks face growing cyber threats as AI makes it easier for adversaries to exploit vulnerabilities and launch disruptive attacks."
+      "headline": "Will AI really kill everyone? How, exactly?",
+      "source": "cnn.com",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaMGFOYXpEU2g2ZUE1dVdEQmQ2Ym1CMUhBa25Lb01EZ0ROY1RLVEx4NWhWc3QtbGpCQUsxaW9xVVVMOHNkSk9jdVczY3NuUi1WTjNDb0xEUGRyX19hSklrWTlzT2NROGpEdkE0Qk9kOXp0VkFkSGVfb0ZtME4?oc=5",
+      "pub_date": 1789650030.0,
+      "article_url": "https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2252194207.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?"
     },
     {
       "headline": "Rand Paul kills Kennedy\u2019s AI \u2018kill switch\u2019 bill",
@@ -103,8 +93,18 @@
       "article_url": "https://www.politico.com/live-updates/2026/09/16/congress/paul-kills-kill-switch-bill-01081348",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "College Is Coming Apart",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEdqX2Z6d2NxcVVQb19Gb2o2azlNRmN6SThrcURjV1ZfbFB3Y1c4cDhBb0ZaMF9XamxzVTFZdk5aVi1OcU05cHZCYWl5Q29xc3pPengzM0t2Y2Y3QUN0LTBlWGgzVHZpNkNsMC1yTTFYYm04dG5oVk9ocmJhZm8wa0N5dw?oc=5",
+      "pub_date": 1789646400.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
+      "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
+      "description": "Successive, overlapping crises reveal that American higher education makes no sense."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T12:42:56.062824+00:00"
+  "fetched_at": "2026-09-17T17:30:28.600279+00:00"
 }

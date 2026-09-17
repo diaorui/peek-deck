@@ -9,8 +9,8 @@
       "url": "https://news.ycombinator.com/item?id=49738879",
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
-      "points": 154,
-      "num_comments": 43,
+      "points": 288,
+      "num_comments": 229,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "bitcointalk.org"
     },
     {
+      "title": "A single Bitcoin transaction carried an average water footprint of 16K litres",
+      "url": "https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/",
+      "hn_url": "https://news.ycombinator.com/item?id=49741004",
+      "author": "sharemywin",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-09-17T14:08:44Z",
+      "object_id": "49741004",
+      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cryptocurrency-mining-rigs.png",
+      "description": "As Bitcoin's price swings, so does its hidden cost in freshwater\u2014each transaction now demands enough water to fill an Olympic swimming pool.",
+      "favicon": "https://spacedaily.com/wp-content/uploads/2024/01/icon.png",
+      "site_name": "Space Daily"
+    },
+    {
       "title": "Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?",
       "url": "https://news.ycombinator.com/item?id=49672539",
       "hn_url": "https://news.ycombinator.com/item?id=49672539",
@@ -117,20 +131,6 @@
       "site_name": "CoinMarketCap"
     },
     {
-      "title": "Privacy on Bitcoin: what works and what doesn't",
-      "url": "https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy",
-      "hn_url": "https://news.ycombinator.com/item?id=49643366",
-      "author": "granya",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-09-10T13:26:51Z",
-      "object_id": "49643366",
-      "image": "https://www.learnbitcoin.com/diagrams/og/chain-analysis-heuristics.png",
-      "description": "Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.",
-      "favicon": "https://www.learnbitcoin.com/apple-touch-icon.png",
-      "site_name": "LearnBitcoin"
-    },
-    {
       "title": "Show HN: Eleuteria \u2013 a privacy-first RoboSats coordinator",
       "url": "https://eleuteria-robosat.github.io/",
       "hn_url": "https://news.ycombinator.com/item?id=49711766",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T12:42:37.150569+00:00"
+  "fetched_at": "2026-09-17T17:30:02.331405+00:00"
 }

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-17T12:43:03.556390+00:00'
+updated: '2026-09-17T17:30:32.490416+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 17, 2026 at 12:43 UTC  
+**Last Updated:** September 17, 2026 at 17:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** -2.0%  
-**30d:** +9.5%  
-**90d:** +41.7%  
-**1y:** -46.2%  
+**24h:** +3.2%  
+**7d:** -1.6%  
+**30d:** +9.9%  
+**90d:** +42.2%  
+**1y:** -46.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $300.81B
+**Market Cap:** $301.59B
 Rank #2
 
 **Circulating Supply:** 122,056,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.2%
+-50.0%
 
 **All-Time Low:** $0.43
-+569204.7%
++570791.4%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is one thing that would make Ethereum meaningfully safer? The ETHSecurity Initiatives Round aims to answer that question and fund the best answers. The round is live starting today at initiatives.thedao.fund, with several initiatives on it already and room for a hundred more. In our first funding round, more than 20 ecosystem funders and 3,934 donors joined us, and together we put over $1.6M into diverse Ethereum security projects. To date, we've coordinated the funding of over 1,000 ETH...
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 1d ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 2d ago
 
 ---
 
@@ -150,81 +150,81 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Current price of Ethereum for Sept. 17, 2026](https://fortune.com/article/price-of-ethereum-09-17-2026/)**
+**[This Ethereum Treasury Company Is Close to Owning 5% of All ETH in Circulation. Does That Make It a Buy?](https://finance.yahoo.com/markets/crypto/articles/ethereum-treasury-company-close-owning-010100563.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+BitMine continues to buy Ethereum at a rapid clip, but where's the payoff for investors?
 
-Fortune • 28m ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
+**[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
 Forbes • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP, Dogecoin Sink Amid Crypto Bill Failure, Rate Hike Expectations: Analyst Says 'Don't Chase' BTC Bottom, Shares Level They Are Watching](https://www.tradingview.com/news/benzinga:96917d2ab094b:0-bitcoin-ethereum-xrp-dogecoin-sink-amid-crypto-bill-failure-rate-hike-expectations-analyst-says-don-t-chase-btc-bottom-shares-level-they-are-watching/)**
+**[Solana and XRP spot ETFs see inflows as Bitcoin and Ethereum face combined $520M in outflows](https://www.tradingview.com/news/cryptobriefing:8e105e110094b:0-solana-and-xrp-spot-etfs-see-inflows-as-bitcoin-and-ethereum-face-combined-520m-in-outflows/)**
 
-Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act’s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do…
+Bitcoin and Ethereum spot ETFs hemorrhaged a combined $520 million on September 16, while Solana and XRP quietly absorbed fresh capital.Bitcoin ETFs shed $295.98 million in net outflows, with Ethereum not far behind at $224.11 million. Meanwhile, XRP ETFs pulled in $3.50 million and Solana ETFs att…
 
-TradingView • 1d ago
+TradingView • 9h ago
 
 ---
 
-**[What Is the Crypto Clarity Act? What Tuesday's Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana](https://247wallst.com/investing/cryptocurrency/2026/09/15/what-is-the-crypto-clarity-act-what-tuesdays-senate-vote-decides-for-xrp-bitcoin-ethereum-and-solana/)**
+**[Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity)**
 
-The Senate votes at 2:15 p.m. ET on the CLARITY Act. Here is what the bill does and what it would change for XRP, Bitcoin, ETH, and Solana.
+The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.
+
+CoinDesk • 4h ago
+
+---
+
+**[Current price of Ethereum for Sept. 17, 2026](https://fortune.com/article/price-of-ethereum-09-17-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 5h ago
+
+---
+
+**[The Fed Decides at 2 pm ET Wednesday. What a Hike Does to Bitcoin, XRP and Ethereum the Day After Congress Failed.](https://247wallst.com/investing/cryptocurrency/2026/09/16/the-fed-decides-at-2-pm-et-wednesday-what-a-hike-does-to-bitcoin-xrp-and-ethereum-the-day-after-congress-failed/)**
+
+The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot plot and Kevin Warsh's press conference do to crypto prices.
 
 24/7 Wall St. • 1d ago
 
 ---
 
-**[A $7.8 million crypto heist was just hijacked by a bot named Yoink](https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet)**
+**[Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)**
 
-Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself.
-
-CoinDesk • 2d ago
-
----
-
-**[Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)**
-
-Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
+The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared standard after the two sides diverged on priorities.
 
 The Block • 2d ago
 
 ---
 
-**[Ethereum’s liquidity engine warms up: Should you expect a Q4 risk-on move?](https://ambcrypto.com/ethereums-liquidity-engine-warms-up-should-you-expect-a-q4-risk-on-move/)**
+**[Ethereum Price Forecast: ETH continues to attract capital despite impending rate hike and Clarity Act failure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-continues-to-attract-capital-despite-impending-rate-hike-and-clarity-act-failure-202609152206)**
 
-Ethereum sees rising stablecoin liquidity as market flows recover, creating fresh fuel for its risk-on move.
+Ethereum (ETH) declined to $2,400 on Tuesday after the Clarity Act failed to progress in the Senate. Despite that and the market's near certainty of an interest rate hike at the next Federal Reserve (Fed) meeting, the top altcoin has continued to attract fresh capital.
 
-AMBCrypto • 14h ago
-
----
-
-**[New Crypto: Pepeto Announces $11.01M Raised While the Ethereum Price Prediction Points to $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-11-01m-raised-while-the-ethereum-price-prediction-points-to-6-000-1036550077)**
-
-DUBAI, United Arab Emirates, Sept.  16, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has released its latest presale update, with total funding now...
-
-markets.businessinsider.com • 23h ago
+FXStreet • 1d ago
 
 ---
 
-**[Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH](https://decrypt.co/378132/bitmine-adds-68-million-ethereum)**
+**[Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.](https://www.fool.com/investing/2026/09/17/over-the-past-90-days-40-of-altcoins-are-outperfor/)**
 
-The purchase brings Bitmine closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.
+Ether, Solana, and Zcash deserve a lot more attention.
 
-Decrypt • 2d ago
+The Motley Fool • 25m ago
 
 ---
 
-**[Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.](https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/)**
+**[Ethereum client diversity metrics split three ways as key tracking tools break](https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/)**
 
-Could the Clarity Act really become a super-catalyst for Ethereum?
+Ethereum client estimates already disagree, while daily key rotation could weaken the public traces used to detect concentrated risk.
 
-The Motley Fool • 2d ago
+CryptoSlate • 13h ago
 
 ---
 
@@ -232,43 +232,23 @@ The Motley Fool • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
-
-Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 34K • 👍 2K • 💬 348 • ⏱️ 13:54 • 1d ago
-
----
-
-**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
-
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 207 • 💬 27 • ⏱️ 19:57 • 20h ago
-
----
-
 **[&#39;OPEN THE FLOODGATES&#39;: Ethereum co-founder details large impact of Clarity Act](https://www.youtube.com/watch?v=25VBaErxoQY)**
 
 Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact of the Clarity Act on cryptocurrency and ...
 
 📺 Fox Business
 
-👁️ 68K • 👍 402 • 💬 184 • ⏱️ 3:26 • 1d ago
+👁️ 69K • 👍 411 • 💬 196 • ⏱️ 3:26 • 1d ago
 
 ---
 
-**[BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Gm15Zbhi4Kg)**
+**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
 
-BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 12K • 👍 361 • 💬 93 • ⏱️ 24:48 • 11h ago
+👁️ 77K • 👍 3K • 💬 136 • ⏱️ 12:52 • 17h ago
 
 ---
 
@@ -278,17 +258,27 @@ Urgent news update on bitcoin, crypto, and the rest of the markets! Its not look
 
 📺 Thomas Kralow
 
-👁️ 16K • 👍 1K • 💬 17 • ⏱️ 8:58 • 2d ago
+👁️ 17K • 👍 1K • 💬 17 • ⏱️ 8:58 • 2d ago
 
 ---
 
-**[Ethereum Holds on FED Hike... I&#39;m Long ETH!!](https://www.youtube.com/watch?v=78bq6ejoAHI)**
+**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
 
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
 
-📺 Marzell Crypto
+📺 Money Rules - Investing Tips 
 
-👁️ 439 • 👍 16 • 💬 18 • ⏱️ 4:55 • 16h ago
+👁️ 35K • 👍 2K • 💬 348 • ⏱️ 13:54 • 1d ago
+
+---
+
+**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 11K • 👍 218 • 💬 29 • ⏱️ 19:57 • 1d ago
 
 ---
 
@@ -298,7 +288,17 @@ Crypto's Future: Bitcoin, Ethereum, and ICP #jerrybanfield #icp #bitcoin #ethere
 
 📺 Jerry Banfield Money
 
-👁️ 888 • 👍 23 • 💬 4 • ⏱️ 0:38 • 1d ago
+👁️ 954 • 👍 23 • 💬 4 • ⏱️ 0:38 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=SH4xpLRJKfo)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 455 • 👍 56 • ⏱️ 6:13 • 5h ago
 
 ---
 
@@ -308,27 +308,27 @@ BMNR and ETH in trouble? - The Fed just raised rates, so what does that actually
 
 📺 Big Time Trades
 
-👁️ 4K • 👍 78 • 💬 17 • ⏱️ 20:41 • 13h ago
+👁️ 5K • 👍 85 • 💬 16 • ⏱️ 20:41 • 18h ago
 
 ---
 
-**[BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=IN-iJntTt_8)**
+**[BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Gm15Zbhi4Kg)**
 
-BITCOIN WARNING: FED RATE HIKE TOMORROW (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
 📺 Crypto World
 
-👁️ 20K • 👍 320 • 💬 178 • ⏱️ 24:14 • 1d ago
+👁️ 15K • 👍 390 • 💬 122 • ⏱️ 24:48 • 16h ago
 
 ---
 
-**[Bitcoin, Ethereum, &amp; The CLARITY Act: What You Need To Know | LIVE](https://www.youtube.com/watch?v=6W4Ww5Q4rjQ)**
+**[Ethereum Is Outperforming Bitcoin Right Now](https://www.youtube.com/watch?v=A9XYUKFd4o0)**
 
-Bitcoin, Ethereum and XRP: breakout or another backtest? In this September 15 market update, I break down the chart levels ...
+Ethereum Elliott Wave analysis 16 Sep 2026. Watch $2170 support for a deeper correction trigger. We assess whether Ethereum ...
 
-📺 YaBoySkey
+📺 More Crypto Online
 
-👁️ 2K • 👍 44 • 💬 5 • ⏱️ 17:42 • 1d ago
+👁️ 8K • 👍 238 • 💬 21 • ⏱️ 9:10 • 17h ago
 
 ---
 
