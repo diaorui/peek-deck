@@ -8,10 +8,10 @@
       "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
       "url": "https://github.com/bojieli/ai-infra-book",
       "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
-      "stars": 4076,
+      "stars": 4120,
       "stars_display": "4.1k",
-      "forks": 286,
-      "forks_display": "286",
+      "forks": 290,
+      "forks_display": "290",
       "language": "Python",
       "topics": [
         "accelerator",
@@ -23,6 +23,22 @@
       "updated_at": "2026-09-17T03:18:53Z"
     },
     {
+      "full_name": "ai-sucks-butt/ai-sucks-butt",
+      "name": "ai-sucks-butt",
+      "owner": "ai-sucks-butt",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/328935899?v=4",
+      "description": "If you think AI sucks, star the repo.",
+      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "preview_image": "https://opengraph.githubassets.com/9621e27decef9327196b22892bcf6a4569443a0707f3983a3de49c0818c3c233/ai-sucks-butt/ai-sucks-butt",
+      "stars": 2747,
+      "stars_display": "2.7k",
+      "forks": 0,
+      "forks_display": "0",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2026-09-16T03:53:04Z"
+    },
+    {
       "full_name": "Nanako0129/sepia",
       "name": "sepia",
       "owner": "Nanako0129",
@@ -30,7 +46,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2660,
+      "stars": 2666,
       "stars_display": "2.7k",
       "forks": 174,
       "forks_display": "174",
@@ -42,7 +58,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-16T22:13:01Z"
+      "updated_at": "2026-09-17T14:47:35Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
@@ -61,22 +77,6 @@
       "updated_at": "2026-09-16T19:11:03Z"
     },
     {
-      "full_name": "ai-sucks-butt/ai-sucks-butt",
-      "name": "ai-sucks-butt",
-      "owner": "ai-sucks-butt",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/328935899?v=4",
-      "description": "If you think AI sucks, star the repo.",
-      "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
-      "preview_image": "https://opengraph.githubassets.com/9621e27decef9327196b22892bcf6a4569443a0707f3983a3de49c0818c3c233/ai-sucks-butt/ai-sucks-butt",
-      "stars": 2442,
-      "stars_display": "2.4k",
-      "forks": 0,
-      "forks_display": "0",
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2026-09-16T03:53:04Z"
-    },
-    {
       "full_name": "amosblomqvist/learn",
       "name": "learn",
       "owner": "amosblomqvist",
@@ -84,10 +84,10 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2038,
+      "stars": 2048,
       "stars_display": "2.0k",
-      "forks": 204,
-      "forks_display": "204",
+      "forks": 206,
+      "forks_display": "206",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-25T21:49:59Z"
@@ -100,10 +100,10 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2007,
+      "stars": 2031,
       "stars_display": "2.0k",
-      "forks": 34,
-      "forks_display": "34",
+      "forks": 35,
+      "forks_display": "35",
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -112,7 +112,7 @@
         "design-system",
         "design-tools"
       ],
-      "updated_at": "2026-09-17T12:39:36Z"
+      "updated_at": "2026-09-17T17:06:14Z"
     },
     {
       "full_name": "duty1g/x64dbg-mcp-server",
@@ -122,7 +122,7 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1983,
+      "stars": 1988,
       "stars_display": "2.0k",
       "forks": 199,
       "forks_display": "199",
@@ -134,7 +134,7 @@
         "claude",
         "claude-code"
       ],
-      "updated_at": "2026-09-10T17:54:29Z"
+      "updated_at": "2026-09-17T13:02:00Z"
     },
     {
       "full_name": "larashero3-dotcom/lieflat-less-ai-tone",
@@ -144,10 +144,10 @@
       "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
       "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
       "preview_image": "https://opengraph.githubassets.com/620f28e743614df1ec5e91c466afabd3dae31014e50cb8e04b82515319bcba69/larashero3-dotcom/lieflat-less-ai-tone",
-      "stars": 1721,
+      "stars": 1732,
       "stars_display": "1.7k",
-      "forks": 116,
-      "forks_display": "116",
+      "forks": 117,
+      "forks_display": "117",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-08-24T06:57:13Z"
@@ -182,7 +182,7 @@
       "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
       "url": "https://github.com/brayonpi/hexstellar",
       "preview_image": "https://repository-images.githubusercontent.com/1348932500/472bdb70-c44e-4a22-aa4e-a7347cba34d7",
-      "stars": 1257,
+      "stars": 1259,
       "stars_display": "1.3k",
       "forks": 121,
       "forks_display": "121",
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2026-08-18",
   "days": 30,
   "limit": 10,
-  "total_count": 458452,
-  "fetched_at": "2026-09-17T12:42:34.803500+00:00"
+  "total_count": 462470,
+  "fetched_at": "2026-09-17T17:29:59.890027+00:00"
 }

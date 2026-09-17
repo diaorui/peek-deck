@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-17T12:43:03.559802+00:00'
+updated: '2026-09-17T17:30:32.493623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 17, 2026 at 12:43 UTC  
+**Last Updated:** September 17, 2026 at 17:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-3d ago
+4d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 2d ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 3d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-3d ago
+4d ago
 
 ---
 
@@ -112,17 +112,53 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+
+Seeing is Believing
+
+citriniresearch.com • 1d ago
+
+---
+
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
 Bloomberg.com • 2d ago
 
 ---
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
 
-Seeing is Believing
+OregonLive.com • 2d ago
 
-citriniresearch.com • 22h ago
+---
+
+**[20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled](https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5)**
+
+The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees.
+
+Interesting Engineering • 4h ago
+
+---
+
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+
+SpaceNews • 4h ago
+
+---
+
+**['Scoff at your own risk:’ Viral investment research firm says AI robots are a coming mega-trend](https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html)**
+
+Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
+
+How to secure today’s AI robots against stealth cyber threats
+
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -130,63 +166,85 @@ citriniresearch.com • 22h ago
 
 It turns out that breaking down at work isn’t a uniquely human experience.
 
-Engadget • 13h ago
-
----
-
-**[Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
-
-Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
-
-TechCrunch • 21h ago
+Engadget • 18h ago
 
 ---
 
 **[Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse](https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953)**
 
-Gizmodo • 21h ago
+Gizmodo • 1d ago
 
 ---
 
-**[Robots reshape the future of homebuilding](https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding)**
+**[Iron Man-like ceiling-mounted robotic arms for house chores unveiled](https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms)**
 
-America’s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.  The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion […]
+MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids.
 
-Baton Rouge Business Report • 2d ago
-
----
-
-**[Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them](https://siliconangle.com/2026/09/16/tutor-intelligence-launches-second-generation-intelligent-warehouse-robotics-with-a-classroom-to-teach-them/)**
-
-Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them - SiliconANGLE
-
-SiliconANGLE • 21h ago
-
----
-
-**[Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction](https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html)**
-
-Phys.org • 1d ago
-
----
-
-**[Wonder debuts its first robotic meal assembly system after acquiring the tech from Sweetgreen](https://www.fastcompany.com/91606368/marc-lore-startup-wonder-infinite-makeline-robotic-food-prep)**
-
-'The goal is to get the price of your food delivered to your door cheaper than getting deliveries and cooking,' the founder, Marc Lore, tells Fast Company.
-
-Fast Company • 3d ago
-
----
-
-**[Faraday Future to Unveil Nine New AI-Powered Robots and Four Industry Solutions at Its Annual 919 Launch Event, Completing Its "One-Brain Multi-Form Multi-Capability" Robot World 2.0](https://www.morningstar.com/news/business-wire/20260916196720/faraday-future-to-unveil-nine-new-ai-powered-robots-and-four-industry-solutions-at-its-annual-919-launch-event-completing-its-one-brain-multi-form-multi-capability-robot-world-20)**
-
-Morningstar • 11h ago
+Interesting Engineering • 3d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
+
+**[Robotic-Gathoni🤖🥰 #robot #robotics #fyp](https://www.youtube.com/watch?v=wdnbeCQdyOM)**
+
+📺 Robotic Haika🤖💖
+
+👁️ 923 • 👍 25 • ⏱️ 0:25 • 2h ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 87K • 👍 818 • 💬 607 • ⏱️ 13:22 • 5d ago
+
+---
+
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+
+📺 ejunky66
+
+👁️ 938 • 👍 60 • 💬 2 • ⏱️ 1:00 • 4h ago
+
+---
+
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 24K • 👍 301 • 💬 20 • ⏱️ 24:48 • 5d ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 88K • 👍 1K • 💬 223 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[Why robots welcome All-Solid-State Batteries](https://www.youtube.com/watch?v=7HeOPQtKg9c)**
+
+We recommend watching with YouTube subtitles Audio and subtitles are available in both English and Korean. Even robots get ...
+
+📺 삼성SDI
+
+👁️ 165K • 👍 22 • ⏱️ 0:54 • 1d ago
+
+---
 
 **[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
 
@@ -198,43 +256,23 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+**[Automated Robotic Arm Unpacking And Emptying Plastic Sacks](https://www.youtube.com/watch?v=Nc4BYzCE7zM)**
 
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
+Discover how an advanced robotic system uses precision automation to pick up stacked plastic sacks, cut them open, and empty ...
 
-📺 Blakwoodz
+📺 MNTechCrafts
 
-👁️ 86K • 👍 818 • 💬 607 • ⏱️ 13:22 • 5d ago
-
----
-
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
-
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
-
-📺 Talent Replay
-
-👁️ 32K • 👍 105 • 💬 15 • ⏱️ 4:51 • 1d ago
+👁️ 3K • 👍 25 • ⏱️ 0:05 • 2h ago
 
 ---
 
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
 
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
 
-📺 The AI Nexus
+📺 Cleo Abram
 
-👁️ 24K • 👍 297 • 💬 19 • ⏱️ 24:48 • 5d ago
-
----
-
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 87K • 👍 1K • 💬 222 • ⏱️ 0:25 • 6d ago
+👁️ 347K • 👍 18K • 💬 453 • ⏱️ 0:37 • 3d ago
 
 ---
 
@@ -244,47 +282,7 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 501K • 👍 5K • 💬 753 • ⏱️ 27:23 • 4d ago
-
----
-
-**[Chinese Robot Launches Flurry of Attacks Against It&#39;s Developer](https://www.youtube.com/watch?v=G7MuEYC1tKE)**
-
-A humanoid robot turned on its developer and kicked a remote control clean out of his hand, it then proceeded to jump in the air ...
-
-📺 New York Post
-
-👁️ 209K • 👍 2K • 💬 990 • ⏱️ 1:32 • 6d ago
-
----
-
-**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
-
-New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
-
-📺 Baprimo
-
-👁️ 173K • 👍 1K • 💬 10 • ⏱️ 12:08 • 4d ago
-
----
-
-**[Can OLD Lasers Make Vulcan OVERPOWERED? | Does It Work? #8 - War Robots](https://www.youtube.com/watch?v=8lIL8RGpq4w)**
-
-Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons to see if old-school lasers can still dominate in ...
-
-📺 Adrian Chong
-
-👁️ 13K • 👍 326 • 💬 85 • ⏱️ 17:00 • 1d ago
-
----
-
-**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
-
-Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
-
-📺 Unseen Vault
-
-👁️ 219K • 👍 6K • 💬 312 • ⏱️ 33:11 • 4d ago
+👁️ 513K • 👍 5K • 💬 774 • ⏱️ 27:23 • 5d ago
 
 ---
 

@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Robotics Tipping Point: A Citrini Field Trip",
+      "source": "citriniresearch.com",
+      "source_url": "https://www.citriniresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
+      "pub_date": 1789569274.0,
+      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
+      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
+      "description": "Seeing is Believing"
+    },
+    {
       "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -15,14 +25,54 @@
       "description": null
     },
     {
-      "headline": "Robotics Tipping Point: A Citrini Field Trip",
-      "source": "citriniresearch.com",
-      "source_url": "https://www.citriniresearch.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
-      "pub_date": 1789569274.0,
-      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
-      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
-      "description": "Seeing is Believing"
+      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
+      "source": "OregonLive.com",
+      "source_url": "https://www.oregonlive.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
+      "pub_date": 1789491060.0,
+      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Td0NRaV8ybGNoMjhoNnJ3U1FTN3F3UEwtN2ppV3piM2RGckNOa1Y5VjdiNXV2cGZqT1FSV0l2aTlxWW9ITWkyU2NoaXgwTUhJdEgxemI1QmQxWmVCUE9COHEwVHZhZVJwWldIajN1SXNrZEtPMnpJcEJWWGQ1Zw?oc=5",
+      "pub_date": 1789648500.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/humanoid-lifting-weight.jpg",
+      "description": "The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees."
+    },
+    {
+      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
+      "pub_date": 1789650000.0,
+      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'Scoff at your own risk:\u2019 Viral investment research firm says AI robots are a coming mega-trend",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUNfMGNzeGZiZ05NRm9nUWtSV0RkQ2RHVTN3SjUzRE1SZDNXWm9FYy1wSENSWndldW80TjdZU0M0S004a0RrOENWdTJLbVdfd3hfWC1SMDZpT3RySy1qTVdHX3VGOU9uSS1XWWoyd1hqcktWUzZzdDF4T3RHRkdYcFpKaHpsaDdsemN0OTZGTGgtNHlmWV9ZMk1fcw?oc=5",
+      "pub_date": 1789638301.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ce40349f0d414848162fd7b11a655ac3dd17bca814687716ac71b8a7a320f7a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F30102d2834d64d78fdf25d4310da4395.jpg",
+      "description": "Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market."
+    },
+    {
+      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
+      "pub_date": 1789577483.0,
+      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
     },
     {
       "headline": "Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs",
@@ -35,16 +85,6 @@
       "description": "It turns out that breaking down at work isn\u2019t a uniquely human experience."
     },
     {
-      "headline": "Nvidia\u2019s Les Karpas joins the agenda lineup at Disrupt 2026",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemdEM0NyM3lTYlJaZG5Ub1F1WWplRXRXQ3QwOG96eFhuZnFhbERQSWx4UUc2R29KRVk4aWJibThyM3NKQUp5YTh4Zmd3TUIxbkFjV2JkU1JRU0FRN2ExU2s1LXdIVEFRMWdxZ0hTVVh0eENBaGNjNzZhVUJ3dEV3TjU3SFdZYWViRkhhb014dVhsOGRNV3NISmJ1elZ1REMyTy05SFYwUFFUVmVEQnNtdUx3S0xvQVgyUW00QTJNLUlKZ1JnTV9Geks4MUFVUQ?oc=5",
-      "pub_date": 1789570800.0,
-      "article_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-      "description": "Nvidia's Les Karpas explains how robots are waiting\u00a0for\u00a0their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass."
-    },
-    {
       "headline": "Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse",
       "source": "Gizmodo",
       "source_url": "https://gizmodo.com",
@@ -55,56 +95,16 @@
       "description": null
     },
     {
-      "headline": "Robots reshape the future of homebuilding",
-      "source": "Baton Rouge Business Report",
-      "source_url": "https://www.businessreport.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGJHd0hxa01WRWpqVzVuYzd1cV80cFM0MExuam9xU09BOWdfMlBPeTJmbnJjR05DNXdqQm1Sc1NvV25YT2F5NnpyWnYyeXB2dEJqOUN3bVVUVmc1Ym1qYW9qaTdFVjBxaGExdTdTdkdVMlR3aW1TYWlVT21TeFozaGxOdGY2WVnSAY8BQVVfeXFMT09aOXQxaGNCZHdGZVJMRV9CblVBblNDYlZoTTEwemcyV3gxUU9XNExuMGJzaWEzcmpFXzVuZmQ3amt5TFotSkRyMFloX1FCa3RoLVNXLXJKUUZPQ040Y09rUkczZk5LV3ZUd29IM0F2UEttR0JmVDlUZDNsdDVKb09oLWhicm5UYThiTGYwYzg?oc=5",
-      "pub_date": 1789397467.0,
-      "article_url": "https://www.businessreport.com/article/robots-reshape-the-future-of-homebuilding",
-      "image": "https://s25562.pcdn.co/wp-content/uploads/2026/05/Business-Report-2026-default-image.jpg.optimal.jpg",
-      "description": "America\u2019s housing industry is facing a severe labor shortage and a longstanding productivity problem, creating growing interest in robotics and automation to increase homebuilding capacity, CNBC reports.\u00a0 The U.S. is short roughly 1.2 million homes, while nearly 300,000 construction jobs were open at the end of 2025. Labor shortages cost builders an estimated $11 billion [\u2026]"
-    },
-    {
-      "headline": "Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa0hRTXRFVi1lckJxN1NkdmRrc2d4S01CNEREWjZuUVVqVGg2am1IeEx1YVRyZExCS0Q3QUhZQzRGek1Nb0JybHVHRk9sV3FYTkhLQ3RwekRDOEJidTVwTFRTeEJuXzMxVTgwUlBYUlJubVdhZkJyZFRIR3VhOWxDVGdudzdZR1NWblNqZUJJbU5zYktsdEZVdm1RLXI3TTZyVVJ0cWt3ZU9vNnRFRlRHRGFaVFAwb1Jlc2NZZTNfbFdpM01jUVJxYkhzSXpCWmdTcWptZDVLQ0VUWUJu?oc=5",
-      "pub_date": 1789572000.0,
-      "article_url": "https://siliconangle.com/2026/09/16/tutor-intelligence-launches-second-generation-intelligent-warehouse-robotics-with-a-classroom-to-teach-them/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/6aa860eb07c28de600997c2d_cassie.png",
-      "description": "Tutor Intelligence launches second-generation intelligent warehouse robotics with a classroom to teach them - SiliconANGLE"
-    },
-    {
-      "headline": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
-      "source": "Phys.org",
-      "source_url": "https://phys.org",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0TVNyQ24xN24zbUNwTW9OcmhOWjFhWjBWWldGd2VheEpwUlBKRFpKSmdzeklRbTg5YWFLT0M2aDlmVlRZS1ZhZU5BckpLWDJrU1Y3Wm9WMHVQaW1IRlBwZE56bnNINzZNMTlFaVZYQmRJNkstazV3Q0V6aw?oc=5",
-      "pub_date": 1789480801.0,
-      "article_url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wonder debuts its first robotic meal assembly system after acquiring the tech from Sweetgreen",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkxhN3IzenlfUXZNUkw5SElOa2EwZ0ZXS0ZUbE1TWVRaWS1aTm55b1BDaHQwTkhDS3YzX1V4aDFaRDIxUVhjcVRwU3Q4SE94ODdmaFAyRll2M25GS1pMVmRZQ3FEOFFjWXpEcjBvbHQ4UVp2S0duWWN2Q2NzNnl1S1Uwa2FNZWg0LWlESVV4V2w1NVk5MXhKN2Z5NVBWQQ?oc=5",
-      "pub_date": 1789388077.0,
-      "article_url": "https://www.fastcompany.com/91606368/marc-lore-startup-wonder-infinite-makeline-robotic-food-prep",
-      "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/09/p-1-91606368-wonder-infinite-makeline-robot.jpg",
-      "description": "'The goal is to get the price of your food delivered to your door cheaper than getting deliveries and cooking,' the founder, Marc Lore, tells Fast Company."
-    },
-    {
-      "headline": "Faraday Future to Unveil Nine New AI-Powered Robots and Four Industry Solutions at Its Annual 919 Launch Event, Completing Its \"One-Brain Multi-Form Multi-Capability\" Robot World 2.0",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOcmcwMFE3WElKT3NBOVNlS0phZ0lmMHBVcE5FZ192dnVxY19fejNNQlZWUUVzaUNIVG5OcFVZY0FORjV0b3ZaY0tlQkhNazAtNFB5bmRhcmVIVzNUeFJUWDEyd3dVaWlKZlJsemNkUHVEYXF5STFvdHBrSU5JVVJHZGdZVS1McWZmcFRWVFRWRE1PeVU1MEVydy12Q1ZuUGZtN3p5b1h3enU5Q0NLb3FwSmR6MGZQcGxWTDVEMlppRG5IVXduS1E5Mm5MdGY1cFNKTDdKM0pWUEpnZ2FVQWRaYmdqN3REUHRkb0F2bGJLanAxbXZPeTVPalRCR2c3RFhBenh1TGhxeG1VTEFpc1dGU214NFlUbUhSaW41V1dwOHI2WkhXMTNXQ25NcVBrTFpZbWo2UXo2TTkta2RNX21JSnI1M3RMbDI4aGZvVXM4SUEtclJvcGtub3FKbkY?oc=5",
-      "pub_date": 1789609137.0,
-      "article_url": "https://www.morningstar.com/news/business-wire/20260916196720/faraday-future-to-unveil-nine-new-ai-powered-robots-and-four-industry-solutions-at-its-annual-919-launch-event-completing-its-one-brain-multi-form-multi-capability-robot-world-20",
-      "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-      "description": null
+      "headline": "Iron Man-like ceiling-mounted robotic arms for house chores unveiled",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXSTNFSXA4T2NzVjN2RWJBamdyeXpOdUNicHZZaUtFYUxZNmVNUjhBTHhNdHYwV29LVGpvRm0xOXdhdEdRaHRvX2VMbXBVbkhlTTh2S3VqVTJjc2NjVWdVYnhkbEZLTkhMX1RlVzB2NVczcmltTFQ2NDdmMkt1V3k1c2xKUlZLQ0NkcW0xeklYZjdjaGFv?oc=5",
+      "pub_date": 1789392900.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/iron-man-inspired-homes-built-in-robotic-arms",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Copy-of-whitebar-Kopyasi-1.jpg",
+      "description": "MW is developing homes with integrated, ceiling-mounted robotic arms, offering an alternative to bipedal humanoids."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T12:43:01.204940+00:00"
+  "fetched_at": "2026-09-17T17:30:30.861787+00:00"
 }
