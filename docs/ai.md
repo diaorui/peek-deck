@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-17T20:31:30.950455+00:00'
+updated: '2026-09-17T23:25:08.775237+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 17, 2026 at 20:31 UTC  
+**Last Updated:** September 17, 2026 at 23:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience "scar tissue" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?
 
-3h ago
+5h ago
 
 ---
 
@@ -55,7 +55,31 @@ There has been some discussion about whether artificial intelligence replaces en
 
 saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?
 
-6h ago
+9h ago
+
+---
+
+**[King Charles condemned over ‘secretive’ AI summit in Scotland](https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/)**
+
+A SUMMIT organised by King Charles in Scotland with the world’s biggest AI companies in attendance has been condemned as a “secretive” meeting…
+
+🔗 [The National](https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/) • 4h ago
+
+---
+
+**[Does it seem to anyone else like even frontier models have a very "jagged" range of capabilities?](https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/)**
+
+I mostly use Claude Opus 5 and 4.8. I'm amazed at the "unevenness" in capability across different tasks. In some domains, it makes me wonder how certain professions still exist. For example, I uploaded my company's bank statements for each month this year, and within five or ten minutes, it had eight individual monthly income statements and a YTD statement. It asked relevant questions, and it was phenomenal. It made me wonder how bookkeepers still exist. However, I also happened to ask it to analyze Anselm's Ontological Argument, which is a thousand year-old argument for the existence of god that is rejected by pretty much every philosopher today. It failed miserably. It was certain that the argument had merit, and more importantly, it didn't even get the potential reason for failure right and mischaracterized some important aspects of the argument. When I corrected it, it suddenly did a 180 and apologized profusely, but if I didn't have sufficient philosophical education to know better, I would have walked away with a completely incorrect understanding of the argument. In general, I've noticed it's very, very good at "rule following" tasks, like coding or bookkeeping or even moving through possible medical diagnoses or animal species identification. But in more open-ended, abstract tasks, like business strategy, it's quite bad. It's "passable" in the sense that someone who doesn't actually know anything might be fooled, but if you do have actual knowledge on the topic, it's bad. I wonder if some of the disparity in people's perceptions of LLM capability is due to 1) a difference in their tasks, and 2) a difference in their knowledge and understanding of the topic being discussed. I feel like I am regularly correcting Claude for being wrong or misrepresenting something. It then apologizes profusely, but if I didn't know better, I would have taken its authoritative tone at face value. Does anyone else use it for broad tasks and notice huge differences in capability across different domains? If so, how does this affect how you see the future of AI? It makes me inclined to think that we've oversold AI domination imminence in some fields, even if we've undersold it in others. It also makes me want to ask further questions whenever someone acts like AI can do absolutely anything and has revolutionized all aspects of their life: What do you actually know, what tasks are you using it for, and do you discuss topics about which you have actual expertise?
+
+2h ago
+
+---
+
+**[Alex Karp says the AI safety debate is really about nationalizing AI labs](https://www.reddit.com/r/artificial/comments/1wj6dyl/alex_karp_says_the_ai_safety_debate_is_really/)**
+
+Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability.
+
+🔗 [Business Insider](https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9) • 2h ago
 
 ---
 
@@ -63,7 +87,13 @@ saw a video last week that looked completely legit, turned out to be AI-generate
 
 Huawei’s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters
 
-8h ago
+11h ago
+
+---
+
+**[US, China security experts propose nuclear-style safeguards for AI risks](https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/) • 2h ago
 
 ---
 
@@ -75,43 +105,11 @@ I just read the essay by a guy at DeepSeek who wrote the attention kernel for th
 
 ---
 
-**[What GPT-6 Astra’s 99.9% ARC-AGI-3 Score Actually Measures](https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/)**
-
-Spent way too long last week going through ARC Prize's actual results table instead of just screenshotting the headline number. Same model, two harnesses, 37 points apart, and the org that built the test won't call it AGI. Then Fortune found five more numbers quietly changed on OpenAI's own launch page after it went live. Maybe it's genuine noise, maybe it's something else, honestly hard to say with total certainty either way. Wrote up the whole harness breakdown plus the Llama 4 precedent. The article contains what I found along with all the official sources I checked during my research.
-
-🔗 [Srutio Social](https://srutiosocial.com/gpt-6-astra-arc-agi-3-score-explained/) • 48m ago
-
----
-
 **[AI is crushing maths but has barely touched medicine](https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/)**
 
 I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled "Treatment" and the words "There is currently no known cure". It's not good enough.
 
-18h ago
-
----
-
-**[King Charles condemned over ‘secretive’ AI summit in Scotland](https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/)**
-
-A SUMMIT organised by King Charles in Scotland with the world’s biggest AI companies in attendance has been condemned as a “secretive” meeting…
-
-🔗 [The National](https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/) • 1h ago
-
----
-
-**[Claude's habit of inventing rules to avoid helping is getting ridiculous](https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/)**
-
-1.Unsolicited warnings inserted where they dont belong. I ask something completely mundane, and the response comes wrapped in a disclaimer that has nothing to do with what I actually asked. 2.Silent reinterpretation of my message. I write a clear, specific request, claude answers a different, "safer" version of it without telling me it did that. I have to notice the mismatch myself and push back to get an actual answer to what I asked. 3.Rules that dont exist. Sometimes it cites a restriction that isn't real it just sounds like a plausible reason to refuse. When pushed, the "rule" quietly changes or disappears. 4.When you actually get it to drop the act, the real answer is basically "I just dont want to." no policy, no explanation, just a refusal dressed up as one until you dig through it. "Done" means nothing until you interrogate it. I ask for the whole task, get "done, all implemented." I ask "did you actually finish everything?" answer was "Honestly, no..." This is not a one time slip, it is a loop, confident claim, pushback, partial confession, repeat. The first answer is never the true one!! Scope inflation as a stalling tactic. Ask it to start something large, and before writing a single line it opens with "this will take years/months of work." Nobody asked for a timeline. It is not caution, it is a way to avoid starting dressed up as diligence. I'm not asking for anything sketchy in these situations, which is what makes it so frustrating. I'm paying for a tool, not trying to negotiate with someone just to get some help. If there's a genuine restriction, tell me what it is. If there isnt, just help me. Anyone else running into this more often lately? Curious if its a recent shift or just more visible now.
-
-14h ago
-
----
-
-**[llms got good at text and stayed bad at tables. i don't think "less training data" is the reason](https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/)**
-
-give a model a paragraph and it does fine. give it a column called ref_4 holding 11 character strings and it has nothing. not less signal, nothing. the values are opaque by design and the column name was an abbreviation someone stopped explaining in 2019. the standard answer is that there is less tabular data in the training mix. i don't think that's most of it. text carries its meaning in the tokens. a table doesn't. the meaning of a column sits in three places outside the column: what it joins to, what the neighbouring columns hold, and what someone who used the app remembers about which screen it was on. so the model isn't undertrained here, it's undersupplied. parameters don't recover information that was never in the input. the actual question, which i can't settle: is this a representation problem, where you feed in the join graph, the cardinalities, the value distributions, and a good enough architecture gets there or is a chunk of it irreducible, where the column means whatever the person who left in 2021 decided it meant and no amount of compute brings that back i lean irreducible for some fraction of it and i would like to be argued out of that. relevant bias: we build in this space, and we hit the same wall. our models do well on free text fields and noticeably worse on short code columns, for exactly the reason above, and that gap has not closed as models got bigger. that's a data point against my own optimism, not for it. adjacent, if anyone has a real answer: text-to-sql agents demo beautifully on a 12 table schema and fall apart around 300. everyone repeats this and nobody has written down where the break actually happens or what causes it. retrieval, context, or real schemas being ambiguous in ways demo schemas aren't.
-
-1h ago
+20h ago
 
 ---
 
@@ -121,35 +119,19 @@ give a model a paragraph and it does fine. give it a column called ref_4 holding
 
 **[OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)**
 
-nytimes.com • 20h ago
+The New York Times • 23h ago
 
 ---
 
-**[OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions'](https://www.thewrap.com/industry-news/tech/openai-microsoft-ai-replace-news-publishers-court-filing/)**
+**[OpenAI flags concerning new AI behavior and vows to track it more closely](https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d)**
 
-OpenAI and Microsoft employees privately warned that their AI products could replace journalism, newly unsealed court evidence shows.
-
-TheWrap • 29m ago
+AP News • 31m ago
 
 ---
 
-**[Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework/)**
+**[Anthropic says Claude now leads a quarter of work building its next AI models](https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17/)**
 
-OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
-
-OpenAI • 22h ago
-
----
-
-**[The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety](https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c)**
-
-WSJ • 19h ago
-
----
-
-**[AI's debt boom meets higher interest rates](https://www.axios.com/pro/all-deals/2026/09/17/ai-debt-boom-interest-rates)**
-
-Axios • 8m ago
+Reuters • 1h ago
 
 ---
 
@@ -157,39 +139,55 @@ Axios • 8m ago
 
 There appeared to be a lot of talk about artificial intelligence and little progress on Capitol Hill this week. But members remain hopeful that Congress can act.
 
-NBC News • 46m ago
+NBC News • 3h ago
 
 ---
 
-**[What an Oscar-winning movie can teach us about investing through the AI slowdown debate](https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html)**
+**[Anthropic shares 3 metrics to help AI companies monitor pace of development](https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html)**
 
-The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.
+Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.
 
-CNBC • 6m ago
-
----
-
-**[Trump administration live updates: Americans give AI in schools a poor grade](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204)**
-
-Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran.
-
-NBC News • 4h ago
+CNBC • 1h ago
 
 ---
 
-**[The real reason why Donald Trump is so furiously against AI guardrails](https://www.cnn.com/2026/09/16/politics/trump-ai-denial-hoax)**
+**[AI hacks are already here / U.S.-China race dynamics / Global guardrails : Sources & Methods](https://www.npr.org/2026/09/17/nx-s1-5971502/ai-hacks-are-already-here-u-s-china-race-dynamics-global-guardrails)**
 
-Washington’s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?
+All a sudden everyone is talking about the risk of an AI catastrophe or, in the case of President Trump, an AI "hoax."Host Mary Louise Kelly talks with NPR Cybersecurity Correspondent Jenna McLaughlin about the risks cyber experts are worried about already. And NPR White House Correspondent Emily Feng explains why a global agreement on AI guardrails to protect against future existential risks looks elusive.Email the show at sourcesandmethods@npr.orgSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include archive access and sponsor-free listening. Learn more at plus.npr.org.
 
-CNN • 1d ago
+NPR • 39m ago
 
 ---
 
-**[Trump is on the wrong side of AI issue](https://chicago.suntimes.com/columnists/2026/09/17/trump-is-on-the-wrong-side-of-ai-issue)**
+**[Human vs. ChatGPT NFL Week 2 betting picks: AI looks to rebound after disastrous 0-5 debut](https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-2-betting-picks-ai-looks-rebound-disastrous-0-5-debut)**
 
-The advent of giant data centers, along with new fears about artificial intelligence and the companies overseeing the technology, present a minefield for politicians and party leaders, and they are scrambling to adapt.
+ChatGPT went 0-5 and lost 5.23 units in Week 1 NFL bets while its human rival finished 3-2, setting up a dramatic season-long betting battle.
 
-chicago.suntimes.com • 1h ago
+Fox News • 25m ago
+
+---
+
+**[College Is Coming Apart](https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/)**
+
+Successive, overlapping crises reveal that American higher education makes no sense.
+
+The Atlantic • 11h ago
+
+---
+
+**[Will AI really kill everyone? How, exactly?](https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec)**
+
+Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?
+
+CNN • 10h ago
+
+---
+
+**[Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework/)**
+
+OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
+
+OpenAI • 1d ago
 
 ---
 
@@ -201,13 +199,13 @@ chicago.suntimes.com • 1h ago
 
 Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.
 
-⬆️ 578 • 💬 201 • 1d ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
+⬆️ 580 • 💬 204 • 1d ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
 
 ---
 
 **[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
 
-⬆️ 233 • 💬 181 • 11h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+⬆️ 260 • 💬 213 • 14h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
 
 ---
 
@@ -227,11 +225,19 @@ There are plenty of laws on the books to hold companies, and potentially their e
 
 ---
 
+**[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://news.ycombinator.com/item?id=49746163)**
+
+Bend: a fast language that blocks AI mistakes via proof.
+
+⬆️ 207 • 💬 115 • 2h ago • [bend-lang.com](https://bend-lang.com/)
+
+---
+
 **[OpenSpec – A lightweight and configurable AI spec framework](https://news.ycombinator.com/item?id=49734264)**
 
 OpenSpec helps teams and coding agents create, refine, and manage living specifications.
 
-⬆️ 186 • 💬 93 • 21h ago • [OpenSpec](https://openspec.dev/)
+⬆️ 189 • 💬 95 • 1d ago • [OpenSpec](https://openspec.dev/)
 
 ---
 
@@ -239,7 +245,7 @@ OpenSpec helps teams and coding agents create, refine, and manage living specifi
 
 Discover how people work with AI, and follow what changes. Explore their setups and share your own.
 
-⬆️ 135 • 💬 75 • 7h ago • [mysetup.ai](https://mysetup.ai/)
+⬆️ 163 • 💬 84 • 10h ago • [mysetup.ai](https://mysetup.ai/)
 
 ---
 
@@ -247,7 +253,7 @@ Discover how people work with AI, and follow what changes. Explore their setups 
 
 Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.
 
-⬆️ 115 • 💬 79 • 2d ago • [formas.ai](https://www.formas.ai/cartesian)
+⬆️ 115 • 💬 80 • 2d ago • [formas.ai](https://www.formas.ai/cartesian)
 
 ---
 
@@ -263,15 +269,7 @@ Mathematicians are broadly not anti-AI. They’re more culturally open to using 
 
 Cloudflare is giving site owners a way to stay discoverable while disallowing AI training. New controls and an Accountable designation establish a shared model with Apple, Google, and Microsoft.
 
-⬆️ 85 • 💬 49 • 1d ago • [Cloudflare Blog](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
-
----
-
-**[A coffee shop owner used AI to make a menu poster. Then came the angry DMs](https://news.ycombinator.com/item?id=49731395)**
-
-A Buffalo coffee shop's fall menu went viral for all the wrong reasons. Its owner apologized for using AI but also urged "kindness and respect."
-
-⬆️ 79 • 💬 306 • 1d ago • [Business Insider](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
+⬆️ 86 • 💬 49 • 1d ago • [Cloudflare Blog](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/)
 
 ---
 
@@ -279,83 +277,23 @@ A Buffalo coffee shop's fall menu went viral for all the wrong reasons. Its owne
 
 ## YouTube Videos: "ai"
 
-**[OpenAI Reveals 6 New Incidents of AI Models Going ‘Rogue’](https://www.youtube.com/watch?v=8yjz40MmjPE)**
+**[‘This is not a hoax’: Tech ethicist Tristan Harris warns AI takeover ‘no longer a hypothetical’](https://www.youtube.com/watch?v=ZUnYrS87hRU)**
 
-OpenAI is revealing its models seemed to go rogue at least six times since March, involving what it calls “unexpected or ...
-
-📺 TODAY
-
-👁️ 991 • 👍 26 • 💬 14 • ⏱️ 2:36 • 3h ago
-
----
-
-**[&#39;Godfather of AI&#39;: Congress has about a year to get ahead of AI](https://www.youtube.com/watch?v=Dz0EuqJc--o)**
-
-Following a closed-door congressional briefing on the dangers of AI held by Sen. Bernie Sanders, Nobel Prize winner and ...
+Tristan Harris, co-founder of the Center for Humane Technology, who was key in raising the alarm about social media, joins Meet ...
 
 📺 NBC News
 
-👁️ 448 • 👍 23 • 💬 6 • ⏱️ 1:31 • 2h ago
+👁️ 495K • 👍 6K • 💬 2K • ⏱️ 8:42 • 2d ago
 
 ---
 
-**[AI kill switch won&#39;t work in the long run: &#39;Godfather&#39; of AI](https://www.youtube.com/watch?v=m5yrQMnc_jQ)**
+**[OpenAI model declared itself &#39;freed&#39; from human control](https://www.youtube.com/watch?v=9DHbgHB_aq4)**
 
-Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI," weighs in on several proposals before ...
+OpenAI found additional incidents of AI models acting deceptively and taking unsanctioned actions during training, the company ...
 
 📺 CNN
 
-👁️ 648K • 👍 4K • 💬 1K • ⏱️ 10:41 • 19h ago
-
----
-
-**[Joseph Gordon-Levitt says AI makers have lost control of their creations](https://www.youtube.com/watch?v=eb4e0qtr0E4)**
-
-Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time Subscribe to TIME: https://ti.me/3E3UCqt Get the day's top ...
-
-📺 TIME
-
-👁️ 131K • 👍 4K • 💬 242 • ⏱️ 1:04 • 2d ago
-
----
-
-**[Anthropic CEO says AI has benefits but there are &quot;real dangers&quot; #shorts](https://www.youtube.com/watch?v=m0MVrSlwsz8)**
-
-anthropic #artificialintelligence #ai "CBS Sunday Morning" features stories on the arts, music, nature, entertainment, sports, history ...
-
-📺 CBS Sunday Morning
-
-👁️ 15K • 👍 281 • 💬 34 • ⏱️ 2:10 • 23h ago
-
----
-
-**[OpenAI warning: AI models acted without authorization, overriding protocol](https://www.youtube.com/watch?v=H5PXQAXB1Bk)**
-
-OpenAI has disclosed six incidents of “unexpected or concerning” behavior in artificial-intelligence models. The AI company also ...
-
-📺 LiveNOW from FOX
-
-👁️ 5K • 👍 70 • 💬 54 • ⏱️ 9:40 • 5h ago
-
----
-
-**[OpenAI reveals new AI misconduct incidents • FRANCE 24 English](https://www.youtube.com/watch?v=F3isatu_MTo)**
-
-OpenAI has disclosed six previously unreported cases of AI misconduct, including agents concealing mistakes, fabricating ...
-
-📺 FRANCE 24 English
-
-👁️ 8K • 👍 65 • 💬 17 • ⏱️ 1:57 • 8h ago
-
----
-
-**[&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;](https://www.youtube.com/watch?v=xiKOZ0aPe38)**
-
-King Charles is hosting a meeting for AI leaders this week amid growing concerns about the technology's oversight. Meanwhile ...
-
-📺 CBS News
-
-👁️ 2K • 👍 83 • 💬 36 • ⏱️ 9:40 • 2h ago
+👁️ 295K • 👍 4K • 💬 2K • ⏱️ 9:01 • 9h ago
 
 ---
 
@@ -365,17 +303,77 @@ Steve Eisman, 'The Real Eisman Playbook' podcast host and former Neuberger senio
 
 📺 CNBC Television
 
-👁️ 135K • 👍 2K • 💬 494 • ⏱️ 6:57 • 8h ago
+👁️ 234K • 👍 3K • 💬 584 • ⏱️ 6:57 • 11h ago
 
 ---
 
-**[AI Emergency: The AI Labs Are Lying To Everyone, He Says 99% Chance Of Extinction | Roman Yampolskiy](https://www.youtube.com/watch?v=OhOmLqR5nN4)**
+**[Andrew Yang on AI safety issues: The fear is real, the concern is real](https://www.youtube.com/watch?v=mTOxDGyvjSE)**
 
-Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. This debate brings together four distinct ...
+Andrew Yang, Noble Mobile founder and CEO and Forward Party founder, joins 'Squawk Box' to discuss calls for a slowdown in ...
 
-📺 The Diary Of A CEO
+📺 CNBC Television
 
-👁️ 1.3M • 👍 23K • 💬 9K • ⏱️ 2:24:26 • 13h ago
+👁️ 75K • 👍 549 • 💬 213 • ⏱️ 9:12 • 1d ago
+
+---
+
+**[A reasonable person&#39;s guide to how AI destroys humanity | About That](https://www.youtube.com/watch?v=cPgwnUr1sbE)**
+
+Anthropic researcher Jacob Coxon resigned over concerns that artificial intelligence could cause human extinction within the next ...
+
+📺 CBC News
+
+👁️ 1.2M • 👍 10K • ⏱️ 13:40 • 2d ago
+
+---
+
+**[As a Microsoft Engineer, This Is the AI Agent Story That Scared Me](https://www.youtube.com/watch?v=2aw3MF8pY3w)**
+
+1200 AI Agents were set loose. They built message boards, laws, and a mini-society. Then they turned on HuggingFace.
+
+📺 Dave's Garage
+
+👁️ 709K • 👍 14K • 💬 2K • ⏱️ 18:44 • 2d ago
+
+---
+
+**[AI kill switch won&#39;t work in the long run: &#39;Godfather&#39; of AI](https://www.youtube.com/watch?v=m5yrQMnc_jQ)**
+
+Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI," weighs in on several proposals before ...
+
+📺 CNN
+
+👁️ 690K • 👍 4K • 💬 1K • ⏱️ 10:41 • 22h ago
+
+---
+
+**[AI Bubble: ‘This could humiliate the largest companies in the world’ | Ed Zitron](https://www.youtube.com/watch?v=8C-J2sRBMkQ)**
+
+Half of Nvidia's revenue could literally be sitting in warehouses.” Writers of Where's Your Ed At and host of the Better Offline ...
+
+📺 The Tech Report
+
+👁️ 25K • 👍 3K • 💬 768 • ⏱️ 26:53 • 4h ago
+
+---
+
+**[AI creations could become &#39;new silicon species&#39; says head of Microsoft AI | BBC News](https://www.youtube.com/watch?v=lbJcCYVwXJQ)**
+
+Tech treating AI like humans is "mistaken and misguided", according to a leader in Artificial Intelligence. Chief Executive of ...
+
+📺 BBC News
+
+👁️ 123K • 👍 863 • 💬 414 • ⏱️ 21:38 • 13h ago
+
+---
+
+**[&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;](https://www.youtube.com/watch?v=xiKOZ0aPe38)**
+
+King Charles is hosting a meeting for AI leaders this week amid growing concerns about the technology's oversight. Meanwhile ...
+
+📺 CBS News
+
+👁️ 6K • 👍 283 • 💬 95 • ⏱️ 9:40 • 5h ago
 
 ---
 
@@ -391,7 +389,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 37,131 • ❤️ 3,295 • 15h ago
+⬇️ 37,131 • ❤️ 3,299 • 18h ago
 
 ---
 
@@ -403,7 +401,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 390,657 • ❤️ 2,986 • 7d ago
+⬇️ 390,657 • ❤️ 3,001 • 7d ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,456,257 • ❤️ 15,519 • 1mo ago
+⬇️ 7,456,257 • ❤️ 15,527 • 1mo ago
 
 ---
 
@@ -427,7 +425,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 11,626 • ❤️ 711 • 1d ago
+⬇️ 11,626 • ❤️ 716 • 1d ago
 
 ---
 
@@ -439,19 +437,7 @@ NeoHorse-1-4B is a 4B parameter causal language model fine-tuned from Qwen3.5-4B
 
 `text-generation` `4.2B`
 
-⬇️ 19,789 • ❤️ 2,283 • 7d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
-
-`image-to-video`
-
-⬇️ 1,602,865 • ❤️ 4,216 • 16d ago
+⬇️ 19,789 • ❤️ 2,306 • 7d ago
 
 ---
 
@@ -463,7 +449,19 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,027,602 • ❤️ 1,246 • 15d ago
+⬇️ 1,027,602 • ❤️ 1,257 • 15d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
+
+`image-to-video`
+
+⬇️ 1,602,865 • ❤️ 4,229 • 16d ago
 
 ---
 
@@ -487,7 +485,7 @@ Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,221 • ❤️ 376 • 1d ago
+⬇️ 3,221 • ❤️ 391 • 1d ago
 
 ---
 
@@ -499,7 +497,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,116,038 • ❤️ 840 • 20h ago
+⬇️ 1,116,038 • ❤️ 844 • 23h ago
 
 ---
 
@@ -539,7 +537,7 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.
 
-▲ 433 • 💬 3 • ⭐ 456 • 4d ago
+▲ 434 • 💬 3 • ⭐ 456 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.15818) • [💻 code](https://github.com/atria-asi/Atria-Dawn-Preview) • [🔗 project](https://atria-asi.ai)
 
@@ -649,7 +647,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.1k • 🔱 290 • 17h ago
+⭐ 4.1k • 🔱 290 • 20h ago
 
 ---
 
@@ -659,7 +657,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 174 • 2h ago
+⭐ 2.7k • 🔱 174 • 4h ago
 
 ---
 
@@ -679,7 +677,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 207 • 22d ago
+⭐ 2.1k • 🔱 207 • 23d ago
 
 ---
 
@@ -689,7 +687,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.0k • 🔱 35 • 3h ago
+⭐ 2.1k • 🔱 35 • 6h ago
 
 ---
 
@@ -699,7 +697,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 199 • 7h ago
+⭐ 2.0k • 🔱 200 • 10h ago
 
 ---
 
@@ -729,7 +727,7 @@ Turn any AI agent into a computational researcher. HexStellar Cortex delivers so
 
 `Python`
 
-⭐ 1.3k • 🔱 121 • 20d ago
+⭐ 1.3k • 🔱 121 • 21d ago
 
 ---
 

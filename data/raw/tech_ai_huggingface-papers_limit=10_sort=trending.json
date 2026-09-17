@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2609.15818",
       "arxiv_url": "https://arxiv.org/abs/2609.15818",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 433,
+      "upvotes": 434,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-17T20:31:19.569552+00:00"
+  "fetched_at": "2026-09-17T23:24:55.894496+00:00"
 }
