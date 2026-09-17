@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-17T12:43:03.550068+00:00'
+updated: '2026-09-17T17:30:32.484329+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 17, 2026 at 12:43 UTC  
+**Last Updated:** September 17, 2026 at 17:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,537.46
+### $76,916.84
 
 ---
 
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.7%  
 **7d:** -0.4%  
-**30d:** +11.0%  
+**30d:** +10.9%  
 **90d:** +19.6%  
 **1y:** -34.2%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1544.22B
+**Market Cap:** $1543.51B
 Rank #1
 
-**Circulating Supply:** 20,085,603 BTC
+**Circulating Supply:** 20,085,665 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--39.0%
+-39.1%
 
 **All-Time Low:** $67.81
-+113291.8%
++113201.9%
 
 ---
 
@@ -77,75 +77,75 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Even without the order I don't think so..](https://www.reddit.com/r/Bitcoin/comments/1wf27c2/even_without_the_order_i_dont_think_so/)**
+**[So if the Clarity Act getting rejected and the fed hiking rates didn’t do anything, how are 4-year cycle bros going to get Bitcoin down to $40k in 3 weeks?](https://www.reddit.com/r/Bitcoin/comments/1wiuag6/so_if_the_clarity_act_getting_rejected_and_the/)**
 
-4d ago
+Obligatory photo
 
----
-
-**[It literally looks like Fiat is the ocean and Bitcoin the buoys.](https://www.reddit.com/r/Bitcoin/comments/1wfirfb/it_literally_looks_like_fiat_is_the_ocean_and/)**
-
-The debt line is almost a patient slope. The bitcoin line is a weather report: the 2018 winter, the 2021 peak, the 2022 cut, the long rise into 2025, the fall from the October high near $126,000, the recovery toward seventy-seven thousand by this Sunday.
-
-3d ago
+3h ago
 
 ---
 
-**[Bitcoin Renaissance](https://www.reddit.com/r/Bitcoin/comments/1wf32si/bitcoin_renaissance/)**
+**[$1 = 1 Satoshi coming in 10 years](https://www.reddit.com/r/Bitcoin/comments/1wiozon/1_1_satoshi_coming_in_10_years/)**
 
-4d ago
-
----
-
-**[Mistake I keep seeing with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wfbvns/mistake_i_keep_seeing_with_bitcoin/)**
-
-Lots of new people buy the dip then sell the moment it ticks down again. They treat every small move like it means the end is near. Bitcoin rewards patience more than timing. I learned that the hard way a few cycles ago. Stick to what you understand about the network and ignore the noise.
-
-3d ago
+8h ago
 
 ---
 
-**[what should i buy next ?](https://www.reddit.com/r/Bitcoin/comments/1wfipq4/what_should_i_buy_next/)**
+**[War, shit economy, shit America leaderships, oil price, cold card hacks, fork drama, rate hikes, no clarity and BTC still sitting above 75k](https://www.reddit.com/r/Bitcoin/comments/1wiosjn/war_shit_economy_shit_america_leaderships_oil/)**
 
-I currently have a basic Trezor and a basic Ledger, and I have two separate Bitcoin wallets with two metal seed backups. I keep them well hidden, and I also have two fake seed plates stored in a safe at home as decoys. I’m worried about something happening to one of my hardware wallets, similar to what happened with Coldcard, so I’m thinking about splitting my Bitcoin holdings across four separate wallets instead of two. What hardware wallets would you recommend I buy next? I don’t want a hardware wallet with a battery because I’m a long-term Bitcoin-only holder and I barely use the wallets. They’re mainly backups, so I don’t see a need for a battery. It’s also quite difficult to buy hardware wallets in my country, so i will let my mom buy then when she travel direct from a website. What would you recommend as my next step
+If this is not the bottom, I am unsure what to say. The resilience of BTC is remarkable this cycle. It demonstrates that BTC has never required anything or anyone. BTC will act as it chooses. DCA n Chill 🙌🏽 Update: I would add that less than 5 years ago, two or three of the events mentioned would have driven the price down sharply. Now, the shift barely exceeds 5 percent; interestingly, the reverse holds as well, since two or three positive reports also fail to move the price. So when does it shift? On a random Tuesday when no one is watching. I was pooping when the price jump 60k to 75k 😅
 
-3d ago
-
----
-
-**[Lambos are temporary, the dip is forever.](https://www.reddit.com/r/Bitcoin/comments/1weahzr/lambos_are_temporary_the_dip_is_forever/)**
-
-5d ago
+8h ago
 
 ---
 
-**[Buying Without Exchange?](https://www.reddit.com/r/Bitcoin/comments/1wfcwql/buying_without_exchange/)**
+**[The Bitcoin CEO just released new video. The bear's officially dead](https://www.reddit.com/r/Bitcoin/comments/1wiu4yx/the_bitcoin_ceo_just_released_new_video_the_bears/)**
 
-I just found out that I can buy Bitcoin directly from my Trezor Safe 5. I’m assuming that this transaction bypasses the need for exchanges like Crypto.com, which in turn, allows me to purchase Bitcoin for a bit cheaper, since there is no spread. Does anyone else do this?
-
-3d ago
+3h ago
 
 ---
 
-**[Daily Discussion, September 13, 2026](https://www.reddit.com/r/Bitcoin/comments/1wf0ijh/daily_discussion_september_13_2026/)**
+**[Hodl Hodl silently introduced AML](https://www.reddit.com/r/Bitcoin/comments/1wiugcz/hodl_hodl_silently_introduced_aml/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+I've been trading P2P on Hodl Hodl for a long time. Its main selling point has always been "no KYC/AML", and their FAQ still says so today. As of this week that no longer seems to be true. What happened Contract 1: I deposited BTC into escrow for a sell contract. After confirmation, the contract was automatically canceled with the message: "The contract was automatically canceled after the AML check." The coins came entirely from trades previously completed on Hodl Hodl itself. Contract 2: I reopened the same trade using a different UTXO. After the first confirmation the contract switched to "AML review in progress", shown as a dispute, funds locked, no timeframe given. About 40 minutes later it moved to "In progress" with no explanation. Until yesterday, contracts went straight from confirmation to the payment step. Screenshots attached (counterparty and amounts redacted). What support said I emailed them asking when this was introduced, what is screened, who does it, and whether my account is flagged. The reply called it a "standard AML compliance check" applied automatically to all transactions, said it doesn't necessarily indicate wrongdoing, and said they can't share any further details. None of my questions were answered. The problem No public announcement The current Terms of Service don't mention automated AML screening of escrow deposits The FAQ still advertises "no KYC/AML" No information on who does the screening (in-house or a chain analysis provider), what criteria are used, or how long reviews take Your coins can sit locked in escrow for an unknown time, or the contract gets canceled, with zero explanation I'm not asking them to avoid complying with whatever rules they think apply to them. I'm asking for transparency. If a platform built its reputation on being a no-KYC/AML P2P marketplace changes that, users deserve to be told clearly and publicly, before their coins get stuck. Has anyone else run into this?
 
-4d ago
-
----
-
-**[Lock in.](https://www.reddit.com/r/Bitcoin/comments/1wer97v/lock_in/)**
-
-4d ago
+3h ago
 
 ---
 
-**[Utxo management](https://www.reddit.com/r/Bitcoin/comments/1wf6zcy/utxo_management/)**
+**[Water from the pump?](https://www.reddit.com/r/Bitcoin/comments/1wisvvx/water_from_the_pump/)**
 
-I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is the optimal utxo management taxwise and feewise?
+4h ago
 
-3d ago
+---
+
+**[A Democrat co-sponsored the bitcoin reserve bill that passed committee on Wednesday](https://www.reddit.com/r/Bitcoin/comments/1wivko9/a_democrat_cosponsored_the_bitcoin_reserve_bill/)**
+
+H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the coverage is calling it a Trump bill, which misses something. Nick Begich wrote it but Jared Golden, a Democrat, is co-lead on it. Two days earlier CLARITY died in the Senate on what was basically a party-line vote. So narrow bills about one thing are moving. Big sweeping ones aren't. A few details I thought were more interesting than the vote count: The lock is 20 years. Treasury can't sell it, swap it or use it as collateral. That's long enough to outlast a few presidents. Every federal agency has 60 days after it becomes law to say what they actually hold. Right now nobody really knows the total across all of them. There's a line directing a study on buying more bitcoin without spending new money. That's the interesting bit, and probably the first thing to get cut. It also says outright that people have the right to hold their own keys. Still has to pass the full House and then the Senate, so it's not law. But no reserve bill has got this far before.
+
+3h ago
+
+---
+
+**[We’re better at bitcoin mining than making coffee.We made a barrel of coffee with heat from our miners and tested Braiins OS at 45°C. The firmware automatically adjusts power to help prevent heat-related shutdowns. Less downtime means more time mining bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1wix3gp/were_better_at_bitcoin_mining_than_making/)**
+
+2h ago
+
+---
+
+**[Taproot is a third of all unspent outputs by count and about 1 percent by value. About 5 percent of transactions spend one. How Taproot Actually Works:](https://www.reddit.com/r/Bitcoin/comments/1wiwu8t/taproot_is_a_third_of_all_unspent_outputs_by/)**
+
+One key, two doors. How a Taproot output is built, why every one looks the same until it is spent, what Schnorr signatures changed, what Tapscript left open for the future, and what has actually been done with it since 2021, inscriptions included.
+
+🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 2h ago
+
+---
+
+**[The bottom is very close. Clarity Act Failed, and 25 bps rate hike barely moved BTC, still at $75k+](https://www.reddit.com/r/Bitcoin/comments/1wi4v3i/the_bottom_is_very_close_clarity_act_failed_and/)**
+
+No future major uncertain policy changes, should be up from here.
+
+23h ago
 
 ---
 
@@ -153,11 +153,9 @@ I'm stacking sats, monthly DCA, will be holding for the next 15+ years, What is 
 
 ## Google News: "bitcoin"
 
-**[House committee moves to codify Trump's Strategic Bitcoin Reserve](https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317)**
+**[Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote](https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150)**
 
-A House committee advanced a bill to create a strategic bitcoin reserve, which would codify Trump's plan for permanent bitcoin holdings.
-
-The Block • 11h ago
+WSJ • 1d ago
 
 ---
 
@@ -169,27 +167,25 @@ CoinDesk • 1d ago
 
 ---
 
-**[Fed’s Dot Plot Just Sent a Huge Warning for Bitcoin: 4.1% Rates Through 2027](https://finance.yahoo.com/markets/crypto/articles/fed-dot-plot-just-sent-113233254.html)**
+**[Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.](https://finance.yahoo.com/markets/crypto/articles/over-past-90-days-38-162500317.html)**
 
-The Fed’s new dot plot keeps the median federal funds rate at 4.1% through the end of 2027. Policymakers project another 25-basis-point hike by year-end ...
+Ether, Solana, and Zcash deserve a lot more attention.
 
-finance.yahoo.com • 1h ago
-
----
-
-**[Falling Bitcoin Prices Drag Down Products and Mining Revenue for Canaan (CAN)](https://finance.yahoo.com/markets/crypto/articles/falling-bitcoin-prices-drag-down-115121991.html)**
-
-On September 8, Canaan Inc. (NASDAQ:CAN) announced its second quarter FY26 results, which did not inspire confidence. The computing and energy infrastructure innovator posted total revenue of $31.9 million during the quarter. The topline figure went down compared to $100.2 million in Q2 FY25 and $62.7 million posted during the first quarter of 2026. Canaan […]
-
-finance.yahoo.com • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Looks Resilient After 2 Blows, The On-Chain Data Disagrees](https://finance.yahoo.com/markets/crypto/articles/bitcoin-looks-resilient-2-blows-095120319.html)**
+**[Bitcoin Could Be Headed for $230,000 in Less Than a Decade](https://www.moomoo.com/news/post/76412986/bitcoin-could-be-headed-for-230000-in-less-than-a)**
 
-Bitcoin (BTC) confirmed a range break after two closes below $76,700. New demand has stopped arriving on-chain.
+Moomoo • 1h ago
 
-finance.yahoo.com • 2h ago
+---
+
+**[Is America's $40 Trillion Debt Load Bullish or Bearish For Bitcoin? The Answer Might Surprise You.](https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4662944/is-americas-40-trillion-debt-load-bullish-or-bearish-for-bitcoin-the-answer-might-surprise-you/)**
+
+Detailed price information for Nvidia Corp (NVDA-Q) from The Globe and Mail including charting and trades.
+
+theglobeandmail.com • 1h ago
 
 ---
 
@@ -199,31 +195,35 @@ Forbes • 1d ago
 
 ---
 
-**[Deutsche Bank To Debut Bitcoin Custody For Institutional Clients](https://bitcoinmagazine.com/news/deutsche-bank-to-debut-bitcoin-custody)**
+**[Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors](https://www.businesswire.com/news/home/20260917945475/en/Bitcoin-Life-Granted-Full-Life-Insurance-Licence-Launches-Regulated-Bitcoin-Product-for-International-Investors)**
 
-Deutsche Bank said Wednesday that it would debut a bitcoin custody service this year.
-
-Bitcoin Magazine • 21h ago
+Business Wire • 10h ago
 
 ---
 
-**[Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote](https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150)**
+**[A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted — roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)**
 
-WSJ • 1d ago
+As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
----
-
-**[It’s no longer a debate: Hold both gold and Bitcoin as global sovereign debt drives demand for alternatives - 3iQ’s Mancuso](https://www.kitco.com/news/article/2026-09-16/its-no-longer-debate-hold-both-gold-and-bitcoin-global-sovereign-debt)**
-
-(Kitco News) - Persistent fiscal deficits, ballooning sovereign debt and rising geopolitical fragmentation are forcing investors to rethink what constitutes a safe-haven asset, and one digital asset executive says the answer increasingly includes both gold and Bitcoin.In an exclusive commentary for Kitco News, Tommaso Mancuso, President and Chief Investment Officer at global digital asset investment manager 3iQ, said the long-running debate over whether Bitcoin can replace gold has become outdated. Instead, institutional investors should view the two assets as complementary components of a broader hard-asset allocation.Mancuso noted that central banks accumulated an average of roughly 1,000 tonnes of gold annually between 2022 and 2025, about twice the average pace of the previous decade. At the same time, Bitcoin has moved deeper into mainstream finance through spot exchange-traded funds, corporate treasury adoption and increased institutional participation.The common denominator, according to Mancuso, is growing concern about the sustainability of traditional sovereign assets. In recent weeks, fears over an unsustainable rise in global sovereign debt have pushed gold prices back above $4,300 an ounce, while Bitcoin is currently trading above $75,000 per token.Mancuso explained that developed economies are facing structurally higher debt burdens and persistent fiscal deficits. Citing International Monetary Fund projections, Mancuso said average government debt among G7 economies is expected to reach 123.7% of GDP in 2026. At the same time, geopolitical tensions are increasing demand for reserve diversification and drawing more attention to sovereign counterparty risk.“This environment has accelerated the flight toward assets outside traditional sovereign liabilities,” Mancuso wrote.While Bitcoin is increasingly being considered within the same conversation, Mancuso said gold continues to occupy a unique position as a mature global monetary asset.“Gold has historically fulfilled this role as a reserve asset during periods of monetary instability, but Bitcoin is increasingly viewed through a similar lens,” he said.Mancuso pointed out that gold and Bitcoin share what he described as similar “monetary DNA.” Both have constrained supplies, can be owned outside the traditional sovereign financial system and derive a significant portion of their value from their perceived ability to preserve purchasing power rather than from their industrial or transactional utility.However, he said those similarities mask important differences in how investors should use the two assets.He pointed out that gold’s monetary network has developed over centuries and is supported by central banks and other institutional investors. Sovereign institutions alone hold more than 36,000 tonnes of physical gold, valued in the report at close to $5 trillion.“Gold operates primarily as a defensive portfolio anchor,” Mancuso said. “It serves as a reliable ballast against systemic shocks and currency debasement.”According to the report, gold has historically exhibited annualized volatility of around 12% to 15%, with drawdowns rarely exceeding 30% in modern market regimes. Bitcoin, by comparison, has typically experienced annualized volatility between 40% and 50%, along with historical drawdowns of between 70% and 80%.Mancuso said that difference means Bitcoin should not simply be considered a digital substitute for gold. Instead, Bitcoin represents a potentially higher-growth and substantially more volatile monetary network, while gold provides stability and liquidity within a hard-asset allocation.“Gold offers deep, liquid stability to the hard-asset sleeve of a portfolio,” he said. “Bitcoin, by contrast, operates as a high-convexity vehicle with asymmetric upside potential if network expansion continues.”At the same time, Mancuso said technology is beginning to eliminate some of gold’s traditional disadvantages compared with digital assets.Tokenized gold products such as Tether Gold and Pax Gold allow investors to retain exposure to physical, vault-secured bullion while taking advantage of blockchain settlement, including 24-hour trading, fractional ownership and the ability to use tokenized bullion as collateral.The report said the tokenized gold market surpassed $6 billion in early 2026. Although that remains a fraction of the roughly $30 trillion above-ground gold market cited by 3iQ, Mancuso argued that its growth demonstrates how the ancient monetary asset is increasingly adopting infrastructure originally developed for cryptocurrencies.That development could also address one of gold’s most persistent criticisms: unlike bonds or dividend-paying equities, bullion generates no income and carries storage and insurance costs.Mancuso noted that tokenized gold can potentially be deployed in lending markets or used as collateral, allowing investors to generate returns while retaining exposure to the metal. However, he cautioned that those returns are not inherent to gold itself and introduce additional smart-contract, counterparty and liquidity risks that physical bullion does not carry.Ultimately, Mancuso said investors may be asking the wrong question when they debate whether gold or Bitcoin will emerge as the dominant alternative monetary asset.For portfolio managers, he described gold as the “defensive anchor,” providing a deeply liquid strategic reserve against geopolitical shocks and monetary stress. Bitcoin, meanwhile, represents a “convex growth engine,” offering higher-risk exposure to the continued expansion of an emerging monetary network.With sovereign debt continuing to rise and confidence in traditional fiscal frameworks facing greater scrutiny, Mancuso said both assets could have increasingly important—but distinctly different—roles in institutional portfolios.“Gold offers the stability and liquidity of a mature monetary asset, while Bitcoin provides exposure to a monetary network that continues to institutionalise through expanding market infrastructure and growing institutional participation,” he wrote.See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
-
-KITCO • 18h ago
+spacedaily.com • 15h ago
 
 ---
 
-**[Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.](https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab)**
+**[What does a Fed rate hike mean for bitcoin prices?](https://finance.yahoo.com/video/what-does-a-fed-rate-hike-mean-for-bitcoin-prices-165457988.html)**
 
-MarketWatch • 33m ago
+In this episode, Scott Melker explains how an interest rate hike from the Federal Reserve could impact bitcoin (BTC-USD) and crypto in the short and long term."The Daily Wolf with Scott Melker" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.
+
+Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s 40% decline echoes 2022 as Fed returns to rate hikes](https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes)**
+
+Bitcoin’s drawdown mirrors its position before the Fed’s first hike in March 2022, raising questions over whether a relief rally could precede further losses.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -233,7 +233,7 @@ MarketWatch • 33m ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 154 • 💬 43 • 1h ago
+⬆️ 288 • 💬 229 • 6h ago
 
 ---
 
@@ -249,7 +249,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
-⬆️ 7 • 💬 1 • 4d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
+⬆️ 7 • 💬 1 • 5d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -273,13 +273,21 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Ḽava AI : Proof of Content
 
-⬆️ 3 • 💬 0 • 9h ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
+⬆️ 3 • 💬 0 • 14h ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
+
+---
+
+**[A single Bitcoin transaction carried an average water footprint of 16K litres](https://news.ycombinator.com/item?id=49741004)**
+
+As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
+
+⬆️ 2 • 💬 1 • 3h ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
 **[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
 
-⬆️ 1 • 💬 1 • 4d ago
+⬆️ 1 • 💬 1 • 5d ago
 
 ---
 
@@ -287,15 +295,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 1h ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
-
----
-
-**[Privacy on Bitcoin: what works and what doesn't](https://news.ycombinator.com/item?id=49643366)**
-
-Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins, where your real name attaches to the ledger, what the 2024 CoinJoin shutdowns changed, and the defenses that still work.
-
-⬆️ 1 • 💬 0 • 6d ago • [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy)
+⬆️ 1 • 💬 0 • 5h ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin is pseudonymous, not anonymous. How chain analysis actually traces coins
 
 Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
 
-⬆️ 2 • 💬 0 • 1d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
+⬆️ 2 • 💬 0 • 2d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -311,13 +311,13 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Stable After Its Biggest Test In Years. WINNING!](https://www.youtube.com/watch?v=DZFcFPxH3Gg)**
+**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
 
-The Fed just hiked rates for the first time since 2023 — the kind of move that's crushed Bitcoin before. This time it barely moved.
+WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
 
-📺 Digital Asset News
+📺 Altcoin Daily
 
-👁️ 15K • 👍 400 • 💬 33 • ⏱️ 22:11 • 16h ago
+👁️ 77K • 👍 3K • 💬 136 • ⏱️ 12:52 • 17h ago
 
 ---
 
@@ -327,17 +327,7 @@ Bitcoin is sitting right on top of its line in the sand at $75500, and Gareth So
 
 📺 Gareth Soloway
 
-👁️ 104K • 👍 3K • 💬 186 • ⏱️ 13:57 • 20h ago
-
----
-
-**[Bitcoin - Look To See If It&#39;s A Lower High Or Higher High](https://www.youtube.com/watch?v=9nCz29dOcqg)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 14K • 👍 308 • 💬 9 • ⏱️ 0:55 • 16h ago
+👁️ 113K • 👍 3K • 💬 138 • ⏱️ 13:57 • 1d ago
 
 ---
 
@@ -347,27 +337,17 @@ Bitcoin faces a major test after the CLARITY Act vote failed and the Federal Res
 
 📺 EllioTrades
 
-👁️ 21K • 👍 514 • 💬 22 • ⏱️ 9:01 • 16h ago
+👁️ 25K • 👍 546 • 💬 23 • ⏱️ 9:01 • 21h ago
 
 ---
 
-**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
+**[Bitcoin and Markets Rally After Fed Hike - WTF?](https://www.youtube.com/watch?v=RmAj8qRB0gQ)**
 
-WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
+AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/ Prediction Market for Crypto, Sports, & Markets ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 60K • 👍 3K • 💬 127 • ⏱️ 12:52 • 12h ago
-
----
-
-**[Bitcoin Post FOMC Volatility! Live Trading &amp; TA](https://www.youtube.com/watch?v=4nDtfpkrONY)**
-
-WEN BUY? WEN SELL? Find out live with Zen Master JP Today focus: FOMC Live Trading — levels, reaction, and live trades ...
-
-📺 Sin City Crypto
-
-👁️ 10K • 👍 219 • 💬 23 • ⏱️ 4:02:36 • 11h ago
+👁️ 5K • 👍 684 • 💬 82 • ⏱️ 35:24 • 3h ago
 
 ---
 
@@ -377,7 +357,37 @@ Stocks are showing real technical weakness and the broader TradFi market is unde
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 913 • 💬 20 • ⏱️ 33:55 • 4h ago
+👁️ 24K • 👍 1K • 💬 27 • ⏱️ 33:55 • 9h ago
+
+---
+
+**[The Bitcoin Bottom Signal With a 100% Hit Rate Just Triggered](https://www.youtube.com/watch?v=GsgiM31Vrh4)**
+
+AMERICANS LONG AND SHORT CRYPTO ON KALSHI - $25 FREE and 0.01% FEES ONLY WITH THIS LINK ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 344 • 💬 37 • ⏱️ 9:54 • 5h ago
+
+---
+
+**[Bitcoin Post FOMC Volatility! Live Trading &amp; TA](https://www.youtube.com/watch?v=4nDtfpkrONY)**
+
+WEN BUY? WEN SELL? Find out live with Zen Master JP Today focus: FOMC Live Trading — levels, reaction, and live trades ...
+
+📺 Sin City Crypto
+
+👁️ 10K • 👍 219 • 💬 24 • ⏱️ 4:02:36 • 16h ago
+
+---
+
+**[Crypto Died Today? Fully Explained in Less than 11 minutes](https://www.youtube.com/watch?v=DXtyaG9X8zo)**
+
+the face of a man who knows crypto is done vs the face of the woman who killed it ⭐ Follow Altcoin Daily on X: ...
+
+📺 Altcoin Daily
+
+👁️ 121K • 👍 3K • 💬 685 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -387,27 +397,17 @@ What happens to gold, real estate and equities when intelligence becomes almost 
 
 📺 Bitcoin Magazine
 
-👁️ 11K • 👍 184 • 💬 25 • ⏱️ 19:43 • 15h ago
+👁️ 14K • 👍 222 • 💬 33 • ⏱️ 19:43 • 20h ago
 
 ---
 
-**[Bitcoin Sold Off On The Crypto Vote. The Fed Could Send It Higher Today | Laura Shin](https://www.youtube.com/watch?v=JX1AcYKHsAg)**
+**[THIS IS MY NEXT MILLION DOLLAR BITCOIN TRADE...](https://www.youtube.com/watch?v=zKEwX9HJHWs)**
 
-Bitcoin #Crypto #finance Bitcoin is trading near $76K ahead of today's Fed decision, while the Clarity Act failed its key Senate vote ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Rover
 
-👁️ 31K • 👍 818 • 💬 319 • ⏱️ 52:56 • 22h ago
-
----
-
-**[Why Bitcoin Could Be the Biggest Winner of the AI Boom](https://www.youtube.com/watch?v=MAdmuXHOBV0)**
-
-America is going all in on AI, but the biggest investment opportunity may be the one thing AI cannot create more of. As intelligence ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 1K • 💬 84 • ⏱️ 15:04 • 1d ago
+👁️ 20K • 👍 891 • 💬 57 • ⏱️ 13:01 • 11h ago
 
 ---
 

@@ -5,6 +5,46 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "This Ethereum Treasury Company Is Close to Owning 5% of All ETH in Circulation. Does That Make It a Buy?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGRFempfd1ZVdHBmOEFlUHU1VEt5VlRzTWpsZEczeHFwYzY3MUpfcEpRaXluMUk5bGkzT0FLZm1Zd2NVbC02dDN3MmlNRmoycEdfQmpqX2VqNnFrX3pialctRGFzY1E2TThLSUZNM3MzS2VYazEybDFvU3dIQm9BTlZTbjZQUnJNdHU3MkRZbkgydFlhNFlIallFWXQ2WjFrUUEtU3pB?oc=5",
+      "pub_date": 1789606860.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-treasury-company-close-owning-010100563.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2cbc511f16ec552156b85316a2d6d067e5d0daab4b274dfd102454cc2963449d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F3e5115867eada65d841253c1d4378206.jpg",
+      "description": "BitMine continues to buy Ethereum at a rapid clip, but where's the payoff for investors?"
+    },
+    {
+      "headline": "Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
+      "pub_date": 1789499685.0,
+      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Solana and XRP spot ETFs see inflows as Bitcoin and Ethereum face combined $520M in outflows",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSDJ1dDEwZGY4WXhmQXZNLS1aTHNRcmc1T0psV0RPS3JydEhoVVNSUFdfNm5hSEJrQ0xkMVVNV3FsZTZ2aXBHNXJ1X01pS2tGVXlDTnhUek5tVVh2T0JxT3hwYWMwWHZDMVZUTUZTY0xuem1NeTRzV0RkT3gyaHVKc04xdnZOTlVvVnJFVTFBNDdhc1J0SGV3Z3l0c3ZvR3ZNMlhPdW9pTDNyMHRsMXJUbWZ0dXVNSnVfWWlPanJyQlMwVVN2Y0Ywcmg1aU1BMFBveVVocTR2My1YSno1NW9kM0M5Z29mQW5yaDlkVQ?oc=5",
+      "pub_date": 1789630612.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:8e105e110094b:0-solana-and-xrp-spot-etfs-see-inflows-as-bitcoin-and-ethereum-face-combined-520m-in-outflows/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin and Ethereum spot ETFs hemorrhaged a combined $520 million on September 16, while Solana and XRP quietly absorbed fresh capital.Bitcoin ETFs shed $295.98 million in net outflows, with Ethereum not far behind at $224.11 million. Meanwhile, XRP ETFs pulled in $3.50 million and Solana ETFs att\u2026"
+    },
+    {
+      "headline": "Ethereum\u2019s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmEzeWJ0Uk56blFLQVpxSEdBQV9Hcm1pMkJmWkk4My1Ob2txd2lQWURKOGlwMHV2U0NlZldEUUNmVTNRb3NNR1BFb1JEdjNjWFp6VkpRMVJMbmRodjBDSEtKdHNGeUJiYkxjcVlzUVJQUjJ0ekNlOGJldkE0cl9qLXBtcU5HMmVhZjRGeGkzU0h2eVUyd3RNd055OEFjTERxSW80bXR0ZmF2Y3NvT2dXUFZCckhXMU1kLW9QU3BGM3BSUQ?oc=5",
+      "pub_date": 1789648641.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test."
+    },
+    {
       "headline": "Current price of Ethereum for Sept. 17, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -15,96 +55,56 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
-      "pub_date": 1789499685.0,
-      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP, Dogecoin Sink Amid Crypto Bill Failure, Rate Hike Expectations: Analyst Says 'Don't Chase' BTC Bottom, Shares Level They Are Watching",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTFpUM2FKVzdRRE0xYTFfd2x4d25jTDhySW1HS1k4TzNHN0JrY3FUcVh1eXR6c0lkM3ZzYWdBWG5Jam9DU3NCZ2VBdEdHUTVycy1SWFBMSnd5a2VrT0MyTDVLOThQRlcwbHMzMGR1TVJyVnR2ZEE4NjhBTGlqTTU5YnlfNWVUUWRndzFFU1dyYklhRF85V0ppNVpCcVVQMlpqd1JUdVlqV0hRZXpWcVF3N21UVHNwdzdBa0s0cThhc0xVa1JKb0xaVHk4WnpPWHhYZkc0SzFDRTNPdnU3MDRRaGpYb2FReC1BeHhXX3hEWXhfUVJqYW1GVkRSMUl6SkZoR0Rmb3FKYnY0S1JkSm8wMno2VFNFU3ZmZGtCbFNQQnlVMS1CQ0o2cWVVV3ZkbmxIOEE?oc=5",
-      "pub_date": 1789524120.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:96917d2ab094b:0-bitcoin-ethereum-xrp-dogecoin-sink-amid-crypto-bill-failure-rate-hike-expectations-analyst-says-don-t-chase-btc-bottom-shares-level-they-are-watching/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act\u2019s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do\u2026"
-    },
-    {
-      "headline": "What Is the Crypto Clarity Act? What Tuesday's Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
+      "headline": "The Fed Decides at 2 pm ET Wednesday. What a Hike Does to Bitcoin, XRP and Ethereum the Day After Congress Failed.",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1pqSDRSajRzazZZWU5kLU4wdWNTVEVvV244bWUzY3d5X3JDSW9CamdpV3l2TDZpTDZhRVVGMnJabHA0d0lNdUJUaUNXc2VxdGNfbkNGTTFvOTZzWXFwT3FYQUNkUEt0WWlBSUFpNllTZE1ZOE13WFVzZXpoRjlua0NrSnpFS3pxcGR2bmlxRkhlb1Y1bHdzc0ZSQ2F1WmdKQ1h3NkZZZk1wbmZuaEQ0bm56SUc0NDNuOFo0YVctZTlMYVZYZmg0cG1Dd0V5X082eFpzSlo3RndENURaVVFlclFDZFV0d25yX0pDUzl6N0U?oc=5",
-      "pub_date": 1789496100.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/15/what-is-the-crypto-clarity-act-what-tuesdays-senate-vote-decides-for-xrp-bitcoin-ethereum-and-solana/",
-      "image": "https://247wallst.com/wp-content/uploads/2019/09/imageforentry29-exr.jpg",
-      "description": "The Senate votes at 2:15 p.m. ET on the CLARITY Act. Here is what the bill does and what it would change for XRP, Bitcoin, ETH, and Solana."
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORlFlRFlXQXh4eGdVQ183S3FwZjFmR3k0dEpoYk03M3N6SXpZdVpEZWJDZW5qYmJ5bC1WMGE1TUw5TUJWekxqQThuT2k5TEZBay0wMGJMLXNqWF82M3NEYUR5S3NwenVDYS1QSGdSaWZTWUdDcS1nZFVPS3ZIbTAzT1BJSVpGNVFraTNrX18xZlE4NmhCaXVSLWxpTERra015bEFSVGkxLUlSVXNYTEFMSllRZ0Z1M3RHeDFzcEhuN19KTW1aak8yNUZBNW9yUzI5cHEzRDFVVWhRNWFaSFNUTlk2Tk1TMGE5bkhodlNobzY3R0xuUWRVU2dhWTg3bGs?oc=5",
+      "pub_date": 1789563300.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/16/the-fed-decides-at-2-pm-et-wednesday-what-a-hike-does-to-bitcoin-xrp-and-ethereum-the-day-after-congress-failed/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock_2403852401.jpg",
+      "description": "The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot plot and Kevin Warsh's press conference do to crypto prices."
     },
     {
-      "headline": "A $7.8 million crypto heist was just hijacked by a bot named Yoink",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnVKLWxvZFExV1RWcjVsazlaVnJTTlRGa3E0TmdMTGdKR2pYMGR4RXBDTGd5Q0xmZGZhQ01DaG82NHBxbmp4TmRwck5mTVRUNkx3dkJDYWNvYWpYOUdHaTdnbWV2MnJESm5yU280enRqLXNjV1VYRV90aGdEeVJCMWFvZUxoaFRNTkNoaWhFa09nS3liYlVWaVl4Zlo3b2tGbVV2QkdCNVRVekdTUW0xbE1qTU85d1FKWm5yRG9nNWt3ekIxYXc?oc=5",
-      "pub_date": 1789468075.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Security firms traced the $7.8 million loss to a helper contract the wallet owner had authorized, not to Safe itself."
-    },
-    {
-      "headline": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
+      "headline": "Ethereum, Base developers abandon effort to align account abstraction proposals",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGFMMk5ndlEyTnp0SXBpMFlUYURkanlCdEJTT096WFRVa0c3b1d3RE96b1BIajgtQUZyYWc2TURlR0prWnF0T2NUTmtLTHBfclFvR25PNlNsdHcyVkd1RWk4WmdZT2ZmMkVPT3pROTk2dlduTkpTQWc2TVRkclJHYVhSLVBMX2FwakNCRUNDTXZhcElfTTRMQWh3ZjRaUTA0WmpjUTZ4cHFGYmpHY2V5eVBtY2Uwa3BQd2x2ZUVCaFBlNXRLcEhmVG9rY0J6YnJ1Um8tSncyaUdUbFU?oc=5",
-      "pub_date": 1789464902.0,
-      "article_url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
-      "image": "https://www.tbstat.com/wp/uploads/2023/09/20230811_WalletsCryptoPayments_News2-1200x675.jpg",
-      "description": "Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum."
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc29LN2JoWUdKc0Mxb19ibHhFQTF3ajR6WDNPMXYycUxjVnVwaHNnR1NuWDk3OVVFNFU2SllfS2pRTm0tTTE2aGo2bGZ3SGh0U2tlMzRNaTJZYUQwODJhSktwTDV1WTBBdFkybFdjZUZ4UHg3ai13UzVVMTE3WGFsR3FpZXVYblBtRFJ4RmJ1WElpbHBYczBXdGxOWXlYbVpsZ0sw?oc=5",
+      "pub_date": 1789446926.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775",
+      "image": "https://www.tbstat.com/wp/uploads/2023/04/ethereum-ether-eth-network-1200x675.jpg",
+      "description": "The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared standard after the two sides diverged on priorities."
     },
     {
-      "headline": "Ethereum\u2019s liquidity engine warms up: Should you expect a Q4 risk-on move?",
-      "source": "AMBCrypto",
-      "source_url": "https://ambcrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTUwWkIzSHBIVlAwaUtBeHhZZzF1MXN2c3V0TUUxcmZ0ZHVpUGVTM19ySnpXSlN5bmtTTV9uTzNNM1J6LWFsZ2ZNYjdZX3ZzTS0xdExkNmJVY2RnNHlsUVM2MHlGMEFjT0J4UDRJMUlvY3l5NDlSa2F6akFGeUpmcUpmeDJ3bVlTd3hRYVhudEgtdUxfTlE1Z0ln?oc=5",
-      "pub_date": 1789596017.0,
-      "article_url": "https://ambcrypto.com/ethereums-liquidity-engine-warms-up-should-you-expect-a-q4-risk-on-move/",
-      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/FI_METRIC_ETHEREUM_STABLECOIN_16-09-2026.webp",
-      "description": "Ethereum sees rising stablecoin liquidity as market flows recover, creating fresh fuel for its risk-on move."
+      "headline": "Ethereum Price Forecast: ETH continues to attract capital despite impending rate hike and Clarity Act failure",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMUZHSUFvNzNUZkNFNmVETVZnbzNOSkZfVXFWSndBTVdQckhQUm43bFEzQ2x5d0R4d0RwY2NvaGVoeU8zRHVrdnVtdmFyS1c4RzFZWmtGbGRsYlpLZDNCTjZkTV9taS1rRXpyWk15aDhrczhSVXZCWjZCZWM0SlJXVVVQRVduOWg0cFpFVjYtMkdmaDdLRERwWWxUbDlkaldmcERoeGVuTnhYdjBFenhaVktSZTJnVjh6WkZMaEVsTGlNMGxRMjNabFJ4U00zNlRYUVF3WWJvel9lMmlpREt3SW5YcmF3bmtSbmdOcW9rVVZJWXBlSWpmT09vblI?oc=5",
+      "pub_date": 1789509988.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-continues-to-attract-capital-despite-impending-rate-hike-and-clarity-act-failure-202609152206",
+      "image": "https://editorial.fxsstatic.com/images/i/discover-53_Medium.png",
+      "description": "Ethereum (ETH) declined to $2,400 on Tuesday after the Clarity Act failed to progress in the Senate. Despite that and the market's near certainty of an interest rate hike at the next Federal Reserve (Fed) meeting, the top altcoin has continued to attract fresh capital."
     },
     {
-      "headline": "New Crypto: Pepeto Announces $11.01M Raised While the Ethereum Price Prediction Points to $6,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSU1FTFZQMExtNGIzeWp0UDBUUHZnX1NLbkxBcTdlZ1BSTnNqOVJCcFA4MGpaYzVUT1J4ZnhrZ1NUUU5JSUgtQ2FVRVNCNjdmRnhSLTk1M1VWenF0SFU0bEJJSUZPZnhnbjZaSmQ2a1dGRW5jWnhaOUJiSV9zcE0wekMzdE1iRUtMVV92RHZSNGZCZk1LNkQ5Vndka2w4enM0cTg0LTBlSkY0R2RiT3NLSUxveG5vMDNZQlQ2UjBLdVdpMTBubkVEMnBaUDlPSEtFcHh4cjRUZG5sZ3I2NF93cEFKZEtUMmM?oc=5",
-      "pub_date": 1789562831.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-11-01m-raised-while-the-ethereum-price-prediction-points-to-6-000-1036550077",
-      "image": "https://ml.globenewswire.com/Resource/Download/e2846ec0-1761-4f92-8ae3-107428709f2d/new-crypto-pepeto-announces-11-01m-raised-while-the-ethereum-price-prediction-points-to-6-000.jpg",
-      "description": "DUBAI, United Arab Emirates, Sept.  16, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto has released its latest presale update, with total funding now..."
-    },
-    {
-      "headline": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TVlYX0JqZmhTX0N2Y0hYSjFaZktQZDZvY3F1OTJNeTY3MzkzcmxJOXNPQllFa1JTOGhFUE1QVzVLR0txWFQzWnlDbkFTNU1nWTBnakhLaFI0bXkzcjU5VUdsS3RMOVVnNWfSAXJBVV95cUxNYU9BM1RreEp3QmhpX0ZvUDU4c0NtY21FMFNycjZBRnhfaXpGWThWM19qQkVwY3piZ3FsdFVvcFVYTzNGQWloUlEyZW1fN1I1VjhWbGNfX1V2S3UxbV9OcXYtTy1VN2VzS01nQzRXanNVMEE?oc=5",
-      "pub_date": 1789401745.0,
-      "article_url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg",
-      "description": "The purchase brings Bitmine closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards."
-    },
-    {
-      "headline": "Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.",
+      "headline": "Over the Past 90 Days, 38% of Altcoins Outperformed Bitcoin. These 3 Altcoins Need To Be On Your Investment Radar.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEhCeHdNUko5eWZkUm50QzdLalBoQlVQZGJtNC1pNUFvdkc4QVh2LVcydEhqa3JHMElRVHA0Q05vU3VXZTU3NjdrSDJIbzRHRkFTbnhIazVlV0IyM2MzQ0RhaHdKaEFBUV9OX0NKNGdkVW1IYXdkVHJwV0Zrd3Yyc3hGWVBockZxWno1ZGpOQzRVaFdQQzk5Xw?oc=5",
-      "pub_date": 1789393860.0,
-      "article_url": "https://www.fool.com/investing/2026/09/14/wall-street-strategist-tom-lee-says-ethereum-is-go/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887192%2Fsad-businessman.jpg&w=1200&op=resize",
-      "description": "Could the Clarity Act really become a super-catalyst for Ethereum?"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWdHVHBjbUlBQkZVcmRiVG8yOS1CNjRlcVBBSDJxTUZWcV9kOWI5WDJaVjJ2MzkwU2cyQVR5bS1iRjZlZnNxeG1Nc0hzX2twckMyQ0VWTEY3cFNueFB6U2ZZTElxRVU1NVR3cTJncmdsWlhRZmI3cjBERERwWFpISzMtSXo4YWdXZDYzWW9VZjFNaXpEVzVKTw?oc=5",
+      "pub_date": 1789664700.0,
+      "article_url": "https://www.fool.com/investing/2026/09/17/over-the-past-90-days-40-of-altcoins-are-outperfor/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887082%2Fa-block-labeled-crypto-on-a-digital-screen.jpg&w=1200&op=resize",
+      "description": "Ether, Solana, and Zcash deserve a lot more attention."
+    },
+    {
+      "headline": "Ethereum client diversity metrics split three ways as key tracking tools break",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMTBXcjItMnBFNUZMcEZEZXRtd0gzVGptT2JMbGFwVlZzbFIzdFI1Z0hxUFFhMmdzcjhqc291WlE5Y1NBcVVuZ3ZCU3VSYjl5dUlFZzFzYTRld2dVZHVBd0dxOW8zdjhRUFkxRm53ZnJmSUhIdkVlcG5lSEdYdGhMVzNtNzNpUkhaaDI2U1F3ekRFQ1ZISXlkVk43NjVlWGc?oc=5",
+      "pub_date": 1789615837.0,
+      "article_url": "https://cryptoslate.com/ethereums-client-diversity-picture-fractures-under-incompatible-estimates/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/brave_yU2ZX1xZdq.jpg",
+      "description": "Ethereum client estimates already disagree, while daily key rotation could weaken the public traces used to detect concentrated risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T12:42:54.189447+00:00"
+  "fetched_at": "2026-09-17T17:30:25.413343+00:00"
 }
