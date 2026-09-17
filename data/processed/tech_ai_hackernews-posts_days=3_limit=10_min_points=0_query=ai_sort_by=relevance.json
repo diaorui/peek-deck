@@ -9,14 +9,28 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "hn_url": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
-      "points": 511,
-      "num_comments": 182,
+      "points": 537,
+      "num_comments": 186,
       "created_at": "2026-09-16T08:08:57Z",
       "object_id": "49723408",
       "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
       "description": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
       "favicon": "https://mistral.ai/favicon.ico",
       "site_name": "Mistral"
+    },
+    {
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49715113",
+      "author": "pavel_lishin",
+      "points": 229,
+      "num_comments": 167,
+      "created_at": "2026-09-15T16:38:45Z",
+      "object_id": "49715113",
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
+      "description": "\u201cAI agents\u201d now have enough power and permission to be extremely annoying online.",
+      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
+      "site_name": "404 Media"
     },
     {
       "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
@@ -31,20 +45,6 @@
       "description": "There are plenty of laws on the books to hold companies, and potentially their execs, accountable",
       "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
       "site_name": "theregister"
-    },
-    {
-      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
-      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
-      "hn_url": "https://news.ycombinator.com/item?id=49715113",
-      "author": "pavel_lishin",
-      "points": 227,
-      "num_comments": 167,
-      "created_at": "2026-09-15T16:38:45Z",
-      "object_id": "49715113",
-      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
-      "description": "\u201cAI agents\u201d now have enough power and permission to be extremely annoying online.",
-      "favicon": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
-      "site_name": "404 Media"
     },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
@@ -65,28 +65,14 @@
       "url": "https://arxiv.org/abs/2511.07885",
       "hn_url": "https://news.ycombinator.com/item?id=49694035",
       "author": "pythonic_hell",
-      "points": 157,
-      "num_comments": 54,
+      "points": 160,
+      "num_comments": 58,
       "created_at": "2026-09-14T09:16:39Z",
       "object_id": "49694035",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "description": "Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (<=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.",
       "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
       "site_name": "arXiv.org"
-    },
-    {
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "hn_url": "https://news.ycombinator.com/item?id=49690260",
-      "author": "simonpure",
-      "points": 157,
-      "num_comments": 30,
-      "created_at": "2026-09-14T00:22:51Z",
-      "object_id": "49690260",
-      "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
-      "description": "How to get up to speed on open models and their implications.",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!FMpY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f0da424-dc5e-43bf-ae0d-56b947e43c23%2Fapple-touch-icon-57x57.png",
-      "site_name": "interconnects.ai"
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
@@ -143,9 +129,23 @@
       "description": "Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.",
       "favicon": "https://www.formas.ai/cartesian/assets/cartesian-apple-touch-icon.png?v=1",
       "site_name": "formas.ai"
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "hn_url": "https://news.ycombinator.com/item?id=49697094",
+      "author": "rbanffy",
+      "points": 112,
+      "num_comments": 48,
+      "created_at": "2026-09-14T14:04:53Z",
+      "object_id": "49697094",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67764230&width=1200&height=600&coordinates=0%2C207%2C0%2C293",
+      "description": "Adversarial attire can\u2019t stop AI cameras, but can disrupt them",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
+      "site_name": "IEEE Spectrum"
     }
   ],
-  "total_hits": 786,
+  "total_hits": 785,
   "has_metadata": true,
-  "fetched_at": "2026-09-16T23:10:09.764452+00:00"
+  "fetched_at": "2026-09-17T01:36:55.150842+00:00"
 }
