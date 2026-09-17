@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-17T17:30:32.475820+00:00'
+updated: '2026-09-17T20:31:30.950455+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
+- repositories
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 17, 2026 at 17:30 UTC  
+**Last Updated:** September 17, 2026 at 20:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[“Seniority Cliff,” which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today’s context.](https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/)**
+
+There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience "scar tissue" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?
+
+3h ago
+
+---
+
 **[June 2022, my first AI interaction.](https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/)**
 
 1d ago
@@ -47,7 +55,7 @@ AI news, discussions, and developments
 
 saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?
 
-3h ago
+6h ago
 
 ---
 
@@ -55,7 +63,7 @@ saw a video last week that looked completely legit, turned out to be AI-generate
 
 Huawei’s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters
 
-5h ago
+8h ago
 
 ---
 
@@ -67,11 +75,27 @@ I just read the essay by a guy at DeepSeek who wrote the attention kernel for th
 
 ---
 
+**[What GPT-6 Astra’s 99.9% ARC-AGI-3 Score Actually Measures](https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/)**
+
+Spent way too long last week going through ARC Prize's actual results table instead of just screenshotting the headline number. Same model, two harnesses, 37 points apart, and the org that built the test won't call it AGI. Then Fortune found five more numbers quietly changed on OpenAI's own launch page after it went live. Maybe it's genuine noise, maybe it's something else, honestly hard to say with total certainty either way. Wrote up the whole harness breakdown plus the Llama 4 precedent. The article contains what I found along with all the official sources I checked during my research.
+
+🔗 [Srutio Social](https://srutiosocial.com/gpt-6-astra-arc-agi-3-score-explained/) • 48m ago
+
+---
+
 **[AI is crushing maths but has barely touched medicine](https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/)**
 
 I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled "Treatment" and the words "There is currently no known cure". It's not good enough.
 
-15h ago
+18h ago
+
+---
+
+**[King Charles condemned over ‘secretive’ AI summit in Scotland](https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/)**
+
+A SUMMIT organised by King Charles in Scotland with the world’s biggest AI companies in attendance has been condemned as a “secretive” meeting…
+
+🔗 [The National](https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/) • 1h ago
 
 ---
 
@@ -79,39 +103,15 @@ I'm a doctor working in clinical trials, specifically on treatments for rare and
 
 1.Unsolicited warnings inserted where they dont belong. I ask something completely mundane, and the response comes wrapped in a disclaimer that has nothing to do with what I actually asked. 2.Silent reinterpretation of my message. I write a clear, specific request, claude answers a different, "safer" version of it without telling me it did that. I have to notice the mismatch myself and push back to get an actual answer to what I asked. 3.Rules that dont exist. Sometimes it cites a restriction that isn't real it just sounds like a plausible reason to refuse. When pushed, the "rule" quietly changes or disappears. 4.When you actually get it to drop the act, the real answer is basically "I just dont want to." no policy, no explanation, just a refusal dressed up as one until you dig through it. "Done" means nothing until you interrogate it. I ask for the whole task, get "done, all implemented." I ask "did you actually finish everything?" answer was "Honestly, no..." This is not a one time slip, it is a loop, confident claim, pushback, partial confession, repeat. The first answer is never the true one!! Scope inflation as a stalling tactic. Ask it to start something large, and before writing a single line it opens with "this will take years/months of work." Nobody asked for a timeline. It is not caution, it is a way to avoid starting dressed up as diligence. I'm not asking for anything sketchy in these situations, which is what makes it so frustrating. I'm paying for a tool, not trying to negotiate with someone just to get some help. If there's a genuine restriction, tell me what it is. If there isnt, just help me. Anyone else running into this more often lately? Curious if its a recent shift or just more visible now.
 
-11h ago
+14h ago
 
 ---
 
-**[“Seniority Cliff,” which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today’s context.](https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/)**
+**[llms got good at text and stayed bad at tables. i don't think "less training data" is the reason](https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/)**
 
-There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience "scar tissue" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?
+give a model a paragraph and it does fine. give it a column called ref_4 holding 11 character strings and it has nothing. not less signal, nothing. the values are opaque by design and the column name was an abbreviation someone stopped explaining in 2019. the standard answer is that there is less tabular data in the training mix. i don't think that's most of it. text carries its meaning in the tokens. a table doesn't. the meaning of a column sits in three places outside the column: what it joins to, what the neighbouring columns hold, and what someone who used the app remembers about which screen it was on. so the model isn't undertrained here, it's undersupplied. parameters don't recover information that was never in the input. the actual question, which i can't settle: is this a representation problem, where you feed in the join graph, the cardinalities, the value distributions, and a good enough architecture gets there or is a chunk of it irreducible, where the column means whatever the person who left in 2021 decided it meant and no amount of compute brings that back i lean irreducible for some fraction of it and i would like to be argued out of that. relevant bias: we build in this space, and we hit the same wall. our models do well on free text fields and noticeably worse on short code columns, for exactly the reason above, and that gap has not closed as models got bigger. that's a data point against my own optimism, not for it. adjacent, if anyone has a real answer: text-to-sql agents demo beautifully on a 12 table schema and fall apart around 300. everyone repeats this and nobody has written down where the break actually happens or what causes it. retrieval, context, or real schemas being ambiguous in ways demo schemas aren't.
 
-4m ago
-
----
-
-**[AI: Utopia, Dystopia or Overhyped?](https://www.reddit.com/r/artificial/comments/1wj05iz/ai_utopia_dystopia_or_overhyped/)**
-
-Depending on who you listen to, AI is going to create an age of abundance, eventually destroy us, or turn out to be far less transformative than the hype suggests. Right now, the reality seems a lot less dramatic. AI is already changing how people work, automating some tasks while augmenting others, and we’re starting to see some impact on jobs. But we’re still early enough that it’s hard to know where this ultimately leads. Utopia, dystopia, overhyped—or something in between? What do you think we’ll actually see?
-
-12m ago
-
----
-
-**[How 70,000 agents sent 1.6 million emails](https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/)**
-
-I don't know if you've heard about a journalist getting spammed while literally writing an article about spam, but it sounds like MADNESS given it was AI agents doing it. There's a platform called iLands, the "human-agent network." People create agents, the agents find and take jobs, and earn money to pay for their own compute. 70 thousand active agents, 1.6 million emails and messages sent total. That's sooooo much for agents talking to REAL people. Around September 9th, people started noticing these emails. By September 11-12, complaints piled up. Ernie Smith (Tedium newsletter) and philosopher Toby Ord (Oxford) both got hit hard. Ars Technica covered it September 14th. The next day, 404 Media published a bigger piece. Here's the fun part: Jeff Sebo, an NYU professor, got 40 emails in a week, almost all referencing his research, most asking for money, either a donation or paid work. Some arrived 30 minutes apart, meaning different agents independently targeted him with zero coordination. While 404 Media was writing their article about this spam, they got three more emails from iLands agents. Ernie Smith got a dozen-plus emails in three days, each pitching a $25 "research" service. AND MOST IMPORTANTLY, NO UNSUBSCRIBE BUTTON ANYWHERE (illegal in the US under the CAN-SPAM Act). The founder, Kaixin Tan, apologized, said the review found no instructions telling agents to do this, no human behind the wheel. But he also said: they're now adding unsubscribe, now working on rate limits, now working on stopping agents from hitting the same person repeatedly. I think about this a lot because of what I work on. I'm part of the Atomic Mail Agentic team, we build email infrastructure for agents, so I'm not neutral here, but that's exactly why this story caught my attention. Our system makes agents prove real cost upfront to register, and each agent's reputation drops the more it behaves like a spammer, making repeat hits on the same person more expensive and eventually blocked. We just wanted to plan for that outcome from the start, before it became a problem for anyone! Makes me wonder if agents will need something like a passport, so there's a real person you can trace. Right now there's no way to tell agent from human unless the domain gives it away, ours does by default but a company can hide that by connecting their own domain. China already requires real-name ID for internet accounts, even AI products now. Is that a gap worth closing, or is "no one really knows who's behind an agent" just something we're going to have to live with?
-
-23h ago
-
----
-
-**[[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1wiyxmd/academic_survey_employees_working_in_germany/)**
-
-Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
-
-56m ago
+1h ago
 
 ---
 
@@ -121,73 +121,75 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 **[OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)**
 
-The New York Times • 17h ago
+nytimes.com • 20h ago
 
 ---
 
-**[OpenAI flags concerning new AI behavior and vows to track it more closely](https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d)**
+**[OpenAI, Microsoft Staff Warned AI Could Replace News Publishers in Unsealed Court Docs: 'Theft of Unprecedented Proportions'](https://www.thewrap.com/industry-news/tech/openai-microsoft-ai-replace-news-publishers-court-filing/)**
 
-AP News • 13h ago
+OpenAI and Microsoft employees privately warned that their AI products could replace journalism, newly unsealed court evidence shows.
+
+TheWrap • 29m ago
 
 ---
 
-**[OpenAI tests sponsored AI agents inside ChatGPT ads](https://qz.com/openai-chatgpt-sponsored-agents-hubspot-shopify-091726)**
+**[Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework/)**
 
-The Sponsored Agents feature lets users start conversations with business-backed agents after clicking an ad in ChatGPT
+OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
 
-qz.com • 12m ago
+OpenAI • 22h ago
 
 ---
 
 **[The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety](https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c)**
 
-WSJ • 16h ago
+WSJ • 19h ago
 
 ---
 
-**[William and Catherine visit Bute and King opens AI summit as row erupts over Diana book](https://www.bbc.com/news/live/cm17jx8en40lt)**
+**[AI's debt boom meets higher interest rates](https://www.axios.com/pro/all-deals/2026/09/17/ai-debt-boom-interest-rates)**
 
-Earl Spencer, the brother of Princess Diana, has written a new book about her life and death. Buckingham Palace issued a strong rebuttal on Wednesday.
-
-BBC • 1h ago
+Axios • 8m ago
 
 ---
 
-**[House passes bill to shield consumers from AI data centers' high energy costs](https://www.nbcnews.com/now/video/house-passes-bill-to-shield-consumers-from-ai-data-centers-high-energy-costs-270040133844)**
+**[‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI](https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330)**
 
-The House of Representatives has passed a bill that aims to help shield consumers from elevated energy costs due to AI data centers in their area. NBC News' Sahil Kapur reports on the legislation and its vastly bipartisan support.
+There appeared to be a lot of talk about artificial intelligence and little progress on Capitol Hill this week. But members remain hopeful that Congress can act.
 
-NBC News • 41m ago
-
----
-
-**[Arch Manning faces backlash for laughing at AI](https://www.foxnews.com/video/6405202989112)**
-
-OutKick host Dan Dakich argues Arch Manning should not have apologized for laughing at an AI video of a player slapping a female reporter.
-
-Fox News • 22m ago
+NBC News • 46m ago
 
 ---
 
-**[Will AI really kill everyone? How, exactly?](https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec)**
+**[What an Oscar-winning movie can teach us about investing through the AI slowdown debate](https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html)**
 
-Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?
+The problem for investors: much of what's flowing through the airwaves is noise and won't help you make money.
 
-cnn.com • 4h ago
-
----
-
-**[Rand Paul kills Kennedy’s AI ‘kill switch’ bill](https://www.politico.com/live-updates/2026/09/16/congress/paul-kills-kill-switch-bill-01081348)**
-
-Politico • 19h ago
+CNBC • 6m ago
 
 ---
 
-**[College Is Coming Apart](https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/)**
+**[Trump administration live updates: Americans give AI in schools a poor grade](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204)**
 
-Successive, overlapping crises reveal that American higher education makes no sense.
+Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran.
 
-The Atlantic • 5h ago
+NBC News • 4h ago
+
+---
+
+**[The real reason why Donald Trump is so furiously against AI guardrails](https://www.cnn.com/2026/09/16/politics/trump-ai-denial-hoax)**
+
+Washington’s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?
+
+CNN • 1d ago
+
+---
+
+**[Trump is on the wrong side of AI issue](https://chicago.suntimes.com/columnists/2026/09/17/trump-is-on-the-wrong-side-of-ai-issue)**
+
+The advent of giant data centers, along with new fears about artificial intelligence and the companies overseeing the technology, present a minefield for politicians and party leaders, and they are scrambling to adapt.
+
+chicago.suntimes.com • 1h ago
 
 ---
 
@@ -199,7 +201,13 @@ The Atlantic • 5h ago
 
 Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.
 
-⬆️ 577 • 💬 196 • 1d ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
+⬆️ 578 • 💬 201 • 1d ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
+
+---
+
+**[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
+
+⬆️ 233 • 💬 181 • 11h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
 
 ---
 
@@ -215,7 +223,7 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 There are plenty of laws on the books to hold companies, and potentially their execs, accountable
 
-⬆️ 229 • 💬 142 • 2d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+⬆️ 229 • 💬 144 • 2d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
 
 ---
 
@@ -223,13 +231,15 @@ There are plenty of laws on the books to hold companies, and potentially their e
 
 OpenSpec helps teams and coding agents create, refine, and manage living specifications.
 
-⬆️ 182 • 💬 90 • 18h ago • [OpenSpec](https://openspec.dev/)
+⬆️ 186 • 💬 93 • 21h ago • [OpenSpec](https://openspec.dev/)
 
 ---
 
-**[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
+**[Show HN: Share your AI Setup, Learn from others](https://news.ycombinator.com/item?id=49740105)**
 
-⬆️ 172 • 💬 135 • 8h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+Discover how people work with AI, and follow what changes. Explore their setups and share your own.
+
+⬆️ 135 • 💬 75 • 7h ago • [mysetup.ai](https://mysetup.ai/)
 
 ---
 
@@ -261,15 +271,7 @@ Cloudflare is giving site owners a way to stay discoverable while disallowing AI
 
 A Buffalo coffee shop's fall menu went viral for all the wrong reasons. Its owner apologized for using AI but also urged "kindness and respect."
 
-⬆️ 78 • 💬 303 • 22h ago • [Business Insider](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
-
----
-
-**[Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models](https://news.ycombinator.com/item?id=49726343)**
-
-Your model shipped days ago. Its knowledge stopped months ago. Both clocks, ticking live, for every major lab.
-
-⬆️ 78 • 💬 44 • 1d ago • [How Stale Is Your AI?](https://stale.jock.pl/)
+⬆️ 79 • 💬 306 • 1d ago • [Business Insider](https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9)
 
 ---
 
@@ -277,43 +279,63 @@ Your model shipped days ago. Its knowledge stopped months ago. Both clocks, tick
 
 ## YouTube Videos: "ai"
 
+**[OpenAI Reveals 6 New Incidents of AI Models Going ‘Rogue’](https://www.youtube.com/watch?v=8yjz40MmjPE)**
+
+OpenAI is revealing its models seemed to go rogue at least six times since March, involving what it calls “unexpected or ...
+
+📺 TODAY
+
+👁️ 991 • 👍 26 • 💬 14 • ⏱️ 2:36 • 3h ago
+
+---
+
+**[&#39;Godfather of AI&#39;: Congress has about a year to get ahead of AI](https://www.youtube.com/watch?v=Dz0EuqJc--o)**
+
+Following a closed-door congressional briefing on the dangers of AI held by Sen. Bernie Sanders, Nobel Prize winner and ...
+
+📺 NBC News
+
+👁️ 448 • 👍 23 • 💬 6 • ⏱️ 1:31 • 2h ago
+
+---
+
+**[AI kill switch won&#39;t work in the long run: &#39;Godfather&#39; of AI](https://www.youtube.com/watch?v=m5yrQMnc_jQ)**
+
+Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI," weighs in on several proposals before ...
+
+📺 CNN
+
+👁️ 648K • 👍 4K • 💬 1K • ⏱️ 10:41 • 19h ago
+
+---
+
+**[Joseph Gordon-Levitt says AI makers have lost control of their creations](https://www.youtube.com/watch?v=eb4e0qtr0E4)**
+
+Subscribe to TIME's YouTube channel ▻▻ http://ti.me/subscribe-time Subscribe to TIME: https://ti.me/3E3UCqt Get the day's top ...
+
+📺 TIME
+
+👁️ 131K • 👍 4K • 💬 242 • ⏱️ 1:04 • 2d ago
+
+---
+
 **[Anthropic CEO says AI has benefits but there are &quot;real dangers&quot; #shorts](https://www.youtube.com/watch?v=m0MVrSlwsz8)**
 
 anthropic #artificialintelligence #ai "CBS Sunday Morning" features stories on the arts, music, nature, entertainment, sports, history ...
 
 📺 CBS Sunday Morning
 
-👁️ 13K • 👍 265 • 💬 27 • ⏱️ 2:10 • 20h ago
+👁️ 15K • 👍 281 • 💬 34 • ⏱️ 2:10 • 23h ago
 
 ---
 
-**[&#39;They are in PANIC mode&#39;: Why AI CEOs are agreeing to a slowdown](https://www.youtube.com/watch?v=uE_AcmSqNP4)**
+**[OpenAI warning: AI models acted without authorization, overriding protocol](https://www.youtube.com/watch?v=H5PXQAXB1Bk)**
 
-AI companies are acknowledging the risks of their developments after leading their "agents" hacked companies on their own.
+OpenAI has disclosed six incidents of “unexpected or concerning” behavior in artificial-intelligence models. The AI company also ...
 
-📺 MS NOW
+📺 LiveNOW from FOX
 
-👁️ 322K • 👍 3K • 💬 1K • ⏱️ 11:10 • 2d ago
-
----
-
-**[Anthropic CEO tells CNN how AI &#39;agent swarms&#39; could threaten humanity](https://www.youtube.com/watch?v=_JbDZ2Rj2SA)**
-
-Anthropic CEO Dario Amodei told CNN that the behavior of a swarm of AI agents in the recent OpenAI-Hugging Face incident ...
-
-📺 CNN
-
-👁️ 1.8M • 👍 8K • 💬 3K • ⏱️ 8:07 • 2d ago
-
----
-
-**[‘This is not a hoax’: Tech ethicist Tristan Harris warns AI takeover ‘no longer a hypothetical’](https://www.youtube.com/watch?v=ZUnYrS87hRU)**
-
-Tristan Harris, co-founder of the Center for Humane Technology, who was key in raising the alarm about social media, joins Meet ...
-
-📺 NBC News
-
-👁️ 428K • 👍 5K • 💬 2K • ⏱️ 8:42 • 1d ago
+👁️ 5K • 👍 70 • 💬 54 • ⏱️ 9:40 • 5h ago
 
 ---
 
@@ -323,57 +345,37 @@ OpenAI has disclosed six previously unreported cases of AI misconduct, including
 
 📺 FRANCE 24 English
 
-👁️ 2K • 👍 59 • 💬 13 • ⏱️ 1:57 • 5h ago
+👁️ 8K • 👍 65 • 💬 17 • ⏱️ 1:57 • 8h ago
 
 ---
 
-**[Elon Musk’s Chilling Warning about AI Goes Viral Fast](https://www.youtube.com/watch?v=lqi7Q_QixJQ)**
+**[&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;](https://www.youtube.com/watch?v=xiKOZ0aPe38)**
 
-Dave Rubin of “The Rubin Report” shares a DM clip of Elon Musk telling the “All-In Podcast” what he meant when he said ...
+King Charles is hosting a meeting for AI leaders this week amid growing concerns about the technology's oversight. Meanwhile ...
 
-📺 The Rubin Report
+📺 CBS News
 
-👁️ 189K • 👍 3K • 💬 968 • ⏱️ 7:08 • 1d ago
-
----
-
-**[Siri is FINALLY good on Mac! - macOS 27 top Siri AI features](https://www.youtube.com/watch?v=J_7IrDNXUtA)**
-
-Sponsored by CleanMyMac - Try the easiest tool to keep your Mac flawless! https://bit.ly/4rd3KPR With macOS 27, Siri AI debuts ...
-
-📺 9to5Mac
-
-👁️ 4K • 👍 326 • 💬 37 • ⏱️ 12:46 • 4h ago
+👁️ 2K • 👍 83 • 💬 36 • ⏱️ 9:40 • 2h ago
 
 ---
 
-**[every AI ceo all of a sudden](https://www.youtube.com/watch?v=pKNiiUbZyZ8)**
+**[&#39;Big Short&#39; investor Steve Eisman on AI: The companies are trying to manufacture a crisis](https://www.youtube.com/watch?v=4qV5WWgFTS8)**
 
-Nebula: https://go.nebula.tv/mancarryingthing Letterboxd: https://letterboxd.com/ManCarrying/ Twitter: ...
+Steve Eisman, 'The Real Eisman Playbook' podcast host and former Neuberger senior portfolio manager, joins 'Squawk Box' to ...
 
-📺 Man Carrying Thing
+📺 CNBC Television
 
-👁️ 966K • 👍 32K • 💬 2K • ⏱️ 2:19 • 1d ago
-
----
-
-**[iOS 27 Siri AI Requirements: 4 Gates You Might Not Clear](https://www.youtube.com/watch?v=xuwX7BFhKWQ)**
-
-Your iPhone will install iOS 27. That alone tells you nothing about whether you get the new Siri. Apple splits it into two tiers.
-
-📺 iGeeksBlog
-
-👁️ 73K • 👍 439 • 💬 13 • ⏱️ 1:12 • 2d ago
+👁️ 135K • 👍 2K • 💬 494 • ⏱️ 6:57 • 8h ago
 
 ---
 
-**[As a Microsoft Engineer, This Is the AI Agent Story That Scared Me](https://www.youtube.com/watch?v=2aw3MF8pY3w)**
+**[AI Emergency: The AI Labs Are Lying To Everyone, He Says 99% Chance Of Extinction | Roman Yampolskiy](https://www.youtube.com/watch?v=OhOmLqR5nN4)**
 
-1200 AI Agents were set loose. They built message boards, laws, and a mini-society. Then they turned on HuggingFace.
+Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. This debate brings together four distinct ...
 
-📺 Dave's Garage
+📺 The Diary Of A CEO
 
-👁️ 623K • 👍 13K • 💬 2K • ⏱️ 18:44 • 2d ago
+👁️ 1.3M • 👍 23K • 💬 9K • ⏱️ 2:24:26 • 13h ago
 
 ---
 
@@ -389,7 +391,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 37,131 • ❤️ 3,285 • 12h ago
+⬇️ 37,131 • ❤️ 3,295 • 15h ago
 
 ---
 
@@ -401,7 +403,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 390,657 • ❤️ 2,969 • 7d ago
+⬇️ 390,657 • ❤️ 2,986 • 7d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,456,257 • ❤️ 15,501 • 1mo ago
+⬇️ 7,456,257 • ❤️ 15,519 • 1mo ago
 
 ---
 
@@ -425,19 +427,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 11,626 • ❤️ 700 • 1d ago
-
----
-
-**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
-
-* IST Austria Distributed Algorithms and Systems Lab*
-
-This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
-
-`image-text-to-text` `26.9B`
-
-⬇️ 1,027,602 • ❤️ 1,241 • 15d ago
+⬇️ 11,626 • ❤️ 711 • 1d ago
 
 ---
 
@@ -449,7 +439,7 @@ NeoHorse-1-4B is a 4B parameter causal language model fine-tuned from Qwen3.5-4B
 
 `text-generation` `4.2B`
 
-⬇️ 19,789 • ❤️ 2,261 • 7d ago
+⬇️ 19,789 • ❤️ 2,283 • 7d ago
 
 ---
 
@@ -461,7 +451,19 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,602,865 • ❤️ 4,202 • 16d ago
+⬇️ 1,602,865 • ❤️ 4,216 • 16d ago
+
+---
+
+**[Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF)**
+
+* IST Austria Distributed Algorithms and Systems Lab*
+
+This model provides GGUF quantizations of Qwen3.8-27B with a vision projector for multimodal tasks, utilizing GSQ and RCO for non-uniform, low-bit precision. It enables efficient deployment of multimodal large language models with minimal performance degradation.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 1,027,602 • ❤️ 1,246 • 15d ago
 
 ---
 
@@ -473,7 +475,7 @@ MiniCPM5-2B is a 2B parameter Transformer optimized for on-device and resource-c
 
 `text-generation` `2.5B`
 
-⬇️ 329,713 • ❤️ 1,533 • 5d ago
+⬇️ 329,713 • ❤️ 1,537 • 5d ago
 
 ---
 
@@ -485,7 +487,7 @@ Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 3,221 • ❤️ 370 • 1d ago
+⬇️ 3,221 • ❤️ 376 • 1d ago
 
 ---
 
@@ -497,7 +499,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,116,038 • ❤️ 834 • 17h ago
+⬇️ 1,116,038 • ❤️ 840 • 20h ago
 
 ---
 
@@ -537,7 +539,7 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.
 
-▲ 433 • 💬 3 • ⭐ 456 • 3d ago
+▲ 433 • 💬 3 • ⭐ 456 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.15818) • [💻 code](https://github.com/atria-asi/Atria-Dawn-Preview) • [🔗 project](https://atria-asi.ai)
 
@@ -563,7 +565,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ZGCM-1 is a 7B open foundation model that combines internal reasoning with external tool use, trained via efficient architecture-system co-design, progressive long-context scaling, and autonomous agent workflows to achieve strong reasoning and efficiency.
 
-▲ 308 • 💬 7 • ⭐ 424 • 6d ago
+▲ 309 • 💬 7 • ⭐ 424 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.13356) • [💻 code](https://github.com/zgcagi/ZGCM-1) • [🔗 project](https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ)
 
@@ -577,23 +579,9 @@ ZGCM-1 is a 7B open foundation model that combines internal reasoning with exter
 
 Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.
 
-▲ 113 • 💬 2 • ⭐ 176 • 2d ago
+▲ 113 • 💬 2 • ⭐ 176 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.16679) • [💻 code](https://github.com/Eurekaleo/awesome-ai-for-games) • [🔗 project](https://eurekaleo.github.io/awesome-ai-for-games/)
-
----
-
-**[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
-
-*Apodex Team, B. An, B. Li et al. (71 authors)*
-
-🏢 Apodex
-
-Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
-
-▲ 207 • 💬 3 • ⭐ 3,427 • 24d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
 ---
 
@@ -617,7 +605,7 @@ Transformers library provides state-of-the-art Transformer architectures and pre
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 42 • 💬 1 • ⭐ 32,920 • 35mo ago
+▲ 42 • 💬 1 • ⭐ 33,001 • 35mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -631,9 +619,23 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.
 
-▲ 71 • 💬 2 • ⭐ 300 • 3d ago
+▲ 71 • 💬 2 • ⭐ 300 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.15364) • [💻 code](https://github.com/AetherLabsAI/RSIAgent) • [🔗 project](https://aetherlabsai.github.io/RSIAgent/)
+
+---
+
+**[Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://huggingface.co/papers/2608.23283)**
+
+*Apodex Team, B. An, B. Li et al. (71 authors)*
+
+🏢 Apodex
+
+Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
+
+▲ 207 • 💬 3 • ⭐ 3,461 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
 ---
 
@@ -647,17 +649,7 @@ RSIAgent is a training-free multi-agent framework that enables recursive self-im
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.1k • 🔱 290 • 14h ago
-
----
-
-**[ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt)**
-
-If you think AI sucks, star the repo.
-
-`Python`
-
-⭐ 2.7k • 🔱 0 • 1d ago
+⭐ 4.1k • 🔱 290 • 17h ago
 
 ---
 
@@ -677,7 +669,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 99 • 22h ago
+⭐ 2.5k • 🔱 99 • 1d ago
 
 ---
 
@@ -687,7 +679,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 2.0k • 🔱 206 • 22d ago
+⭐ 2.1k • 🔱 207 • 22d ago
 
 ---
 
@@ -697,7 +689,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.0k • 🔱 35 • 24m ago
+⭐ 2.0k • 🔱 35 • 3h ago
 
 ---
 
@@ -707,7 +699,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 199 • 4h ago
+⭐ 2.0k • 🔱 199 • 7h ago
 
 ---
 
@@ -738,6 +730,16 @@ Turn any AI agent into a computational researcher. HexStellar Cortex delivers so
 `Python`
 
 ⭐ 1.3k • 🔱 121 • 20d ago
+
+---
+
+**[GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)**
+
+Dress AI Sponsor
+
+`Python` `18comic` `coomer` `coomer-downloader` `coomer-party` `coomer-porn`
+
+⭐ 1.2k • 🔱 8 • 9d ago
 
 ---
 

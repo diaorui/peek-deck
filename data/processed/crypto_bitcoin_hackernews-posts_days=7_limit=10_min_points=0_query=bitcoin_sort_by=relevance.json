@@ -9,8 +9,8 @@
       "url": "https://news.ycombinator.com/item?id=49738879",
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
-      "points": 288,
-      "num_comments": 229,
+      "points": 295,
+      "num_comments": 238,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "eleuteria-robosat.github.io"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T17:30:02.331405+00:00"
+  "fetched_at": "2026-09-17T20:31:10.619381+00:00"
 }
