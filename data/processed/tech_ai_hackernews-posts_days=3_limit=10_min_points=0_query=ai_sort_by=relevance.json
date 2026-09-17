@@ -9,8 +9,8 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "hn_url": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
-      "points": 561,
-      "num_comments": 192,
+      "points": 572,
+      "num_comments": 196,
       "created_at": "2026-09-16T08:08:57Z",
       "object_id": "49723408",
       "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
@@ -47,32 +47,18 @@
       "site_name": "theregister"
     },
     {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "hn_url": "https://news.ycombinator.com/item?id=49695409",
-      "author": "tosh",
-      "points": 225,
-      "num_comments": 161,
-      "created_at": "2026-09-14T12:01:32Z",
-      "object_id": "49695409",
-      "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
-      "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to work with third-party AI models at what appears to be a surprisingly deep level. One mechanism called Model Delegation allows Claude to appear as a Siri extension in the same way as the existing built-in ChatGPT extension.",
-      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
-      "site_name": "MacRumors"
-    },
-    {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "url": "https://arxiv.org/abs/2511.07885",
-      "hn_url": "https://news.ycombinator.com/item?id=49694035",
-      "author": "pythonic_hell",
-      "points": 164,
-      "num_comments": 62,
-      "created_at": "2026-09-14T09:16:39Z",
-      "object_id": "49694035",
-      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "description": "Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances create an opportunity to rethink it: small, local LMs (<=20B active parameters) now achieve competitive performance to frontier models on many tasks, and local accelerators (e.g., Apple M4 Max) can host these models at interactive latencies. This raises the question: can local inference viably redistribute demand from centralized infrastructure? This requires measuring both whether local LMs can accurately answer real-world queries and whether they can do so efficiently on power-constrained devices (e.g., laptops). We propose intelligence per watt (IPW), task accuracy per unit of power, as a unified metric for the capability and efficiency of local inference across model-accelerator configurations. We evaluate 20+ state-of-the-art local LMs, 8 hardware accelerators (local and cloud), and 1M real-world single-turn chat and reasoning queries. For each query, we measure accuracy (local LM win rate against frontier models), energy, latency, and power. We find three key results. First, local LMs successfully answer 88.7% of these queries, with accuracy varying by domain. Second, longitudinal analysis from 2023-2025 shows IPW improved 5.3x, driven by both algorithmic and accelerator advances, with locally-serviceable query coverage rising from 23.2% to 71.3%. Third, local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, revealing significant headroom for local accelerator optimization. These findings demonstrate that local inference can meaningfully redistribute demand from centralized infrastructure for a substantial subset of queries, with IPW serving as the critical metric for tracking this transition.",
-      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
-      "site_name": "arXiv.org"
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49734264",
+      "author": "etoxin",
+      "points": 158,
+      "num_comments": 72,
+      "created_at": "2026-09-16T23:06:39Z",
+      "object_id": "49734264",
+      "image": "https://openspec.dev/og-card.jpg",
+      "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
+      "favicon": "https://openspec.dev/apple-touch-icon.png",
+      "site_name": "OpenSpec"
     },
     {
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
@@ -89,6 +75,20 @@
       "site_name": "nathan naveen"
     },
     {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "hn_url": "https://news.ycombinator.com/item?id=49737985",
+      "author": "Tomte",
+      "points": 136,
+      "num_comments": 105,
+      "created_at": "2026-09-17T08:36:37Z",
+      "object_id": "49737985",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "skywriter.blue"
+    },
+    {
       "title": "For AI leaders Doom is a form of hype",
       "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
       "hn_url": "https://news.ycombinator.com/item?id=49699384",
@@ -103,39 +103,11 @@
       "site_name": "Erkan's Field Diary"
     },
     {
-      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49734264",
-      "author": "etoxin",
-      "points": 125,
-      "num_comments": 51,
-      "created_at": "2026-09-16T23:06:39Z",
-      "object_id": "49734264",
-      "image": "https://openspec.dev/og-card.jpg",
-      "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
-      "favicon": "https://openspec.dev/apple-touch-icon.png",
-      "site_name": "OpenSpec"
-    },
-    {
-      "title": "Big AI sets out its terms for regulatory capture",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-      "hn_url": "https://news.ycombinator.com/item?id=49694596",
-      "author": "joebuckwilliams",
-      "points": 120,
-      "num_comments": 71,
-      "created_at": "2026-09-14T10:28:28Z",
-      "object_id": "49694596",
-      "image": "https://image.theregister.com/262625.jpg?imageId=262625&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "description": "Amodei, Altman, Nadella and Musk agree on how government can tame the monster they created",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "site_name": "theregister"
-    },
-    {
       "title": "Cartesian \u2013 AI 3D Modeling for Design",
       "url": "https://www.formas.ai/cartesian",
       "hn_url": "https://news.ycombinator.com/item?id=49713999",
       "author": "eustoria",
-      "points": 113,
+      "points": 115,
       "num_comments": 79,
       "created_at": "2026-09-15T15:26:45Z",
       "object_id": "49713999",
@@ -143,9 +115,37 @@
       "description": "Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.",
       "favicon": "https://www.formas.ai/cartesian/assets/cartesian-apple-touch-icon.png?v=1",
       "site_name": "formas.ai"
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "hn_url": "https://news.ycombinator.com/item?id=49697094",
+      "author": "rbanffy",
+      "points": 112,
+      "num_comments": 48,
+      "created_at": "2026-09-14T14:04:53Z",
+      "object_id": "49697094",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67764230&width=1200&height=600&coordinates=0%2C207%2C0%2C293",
+      "description": "Adversarial attire can\u2019t stop AI cameras, but can disrupt them",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
+      "site_name": "IEEE Spectrum"
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "hn_url": "https://news.ycombinator.com/item?id=49712416",
+      "author": "jbkcc",
+      "points": 92,
+      "num_comments": 78,
+      "created_at": "2026-09-15T13:41:55Z",
+      "object_id": "49712416",
+      "image": null,
+      "description": "Mathematicians are broadly not anti-AI. They\u2019re more culturally open to using AI as a tool than, say, artists or writers. However, now that more and more\u2026",
+      "favicon": "https://www.seangoedecke.com/icons/icon-48x48.png?v=ac7bb3aa286bd21c42741d9c9aa60cb7",
+      "site_name": "seangoedecke.com"
     }
   ],
-  "total_hits": 788,
+  "total_hits": 783,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T07:14:47.001667+00:00"
+  "fetched_at": "2026-09-17T12:42:40.061318+00:00"
 }

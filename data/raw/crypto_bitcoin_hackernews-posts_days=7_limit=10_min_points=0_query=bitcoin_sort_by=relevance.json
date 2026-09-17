@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "hn_url": "https://news.ycombinator.com/item?id=49738879",
+      "author": "jakemanger",
+      "points": 154,
+      "num_comments": 43,
+      "created_at": "2026-09-17T10:44:49Z",
+      "object_id": "49738879",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Bitcoin's Momentum Cools as Washington's Crypto Promise Faces a Reality Check",
       "url": "https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T",
       "hn_url": "https://news.ycombinator.com/item?id=49719674",
@@ -89,6 +103,20 @@
       "site_name": null
     },
     {
+      "title": "Play Bitcoin Bird",
+      "url": "https://coinmarketcap.com/?play=bitcoinbird",
+      "hn_url": "https://news.ycombinator.com/item?id=49739330",
+      "author": "module1973",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-17T11:38:40Z",
+      "object_id": "49739330",
+      "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=0d29ac8",
+      "description": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.",
+      "favicon": "https://coinmarketcap.com/apple-touch-icon.png",
+      "site_name": "CoinMarketCap"
+    },
+    {
       "title": "Privacy on Bitcoin: what works and what doesn't",
       "url": "https://www.learnbitcoin.com/rabbit-hole/bitcoin-privacy",
       "hn_url": "https://news.ycombinator.com/item?id=49643366",
@@ -115,37 +143,9 @@
       "description": "Eleuteria \u2014 independent RoboSats coordinator for private peer-to-peer Bitcoin trading.",
       "favicon": "https://eleuteria-robosat.github.io/favicon.ico",
       "site_name": "eleuteria-robosat.github.io"
-    },
-    {
-      "title": "Revolut handed over personal details to fake government request",
-      "url": "https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/",
-      "hn_url": "https://news.ycombinator.com/item?id=49676088",
-      "author": "defied",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2026-09-12T19:15:43Z",
-      "object_id": "49676088",
-      "image": "https://www.cryptotimes.io/wp-content/uploads/2026/09/Revolut.png",
-      "description": "Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.",
-      "favicon": "https://www.cryptotimes.io/wp-content/uploads/2025/10/cropped-android-chrome-512x512-1-180x180.png",
-      "site_name": "The Crypto Times"
-    },
-    {
-      "title": "Keystone's Independent Analysis of the Coldcard Exploit",
-      "url": "https://www.keystone.com/case-studies/following-the-bitcoin-inside-keystones-independent-analysis-of-the-coldcard-exploit",
-      "hn_url": "https://news.ycombinator.com/item?id=49649605",
-      "author": "Anon84",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-09-10T20:15:25Z",
-      "object_id": "49649605",
-      "image": null,
-      "description": null,
-      "favicon": "https://cdn.prod.website-files.com/6942f8bd84f14beec5b2a72a/6942f8bd84f14beec5b2a7da_webclip%20(2).png",
-      "site_name": "keystone.com"
     }
   ],
-  "total_hits": 10,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T07:14:48.526850+00:00"
+  "fetched_at": "2026-09-17T12:42:37.150569+00:00"
 }
