@@ -35,7 +35,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9255,
+      "github_stars": 9450,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2609.15818",
       "arxiv_url": "https://arxiv.org/abs/2609.15818",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 424,
+      "upvotes": 428,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "github_stars": 407,
+      "github_stars": 422,
       "project_page": "https://atria-asi.ai"
     },
     {
@@ -69,31 +69,12 @@
       "hf_url": "https://huggingface.co/papers/2609.13356",
       "arxiv_url": "https://arxiv.org/abs/2609.13356",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.13356.png",
-      "upvotes": 302,
+      "upvotes": 303,
       "num_comments": 7,
       "published_at": "2026-09-10T20:00:00.000Z",
       "github_repo": "https://github.com/zgcagi/ZGCM-1",
-      "github_stars": 379,
+      "github_stars": 396,
       "project_page": "https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ"
-    },
-    {
-      "id": "2609.16679",
-      "title": "AI for Games in the Foundation Model Era",
-      "authors": "Meng Luo, Yanlin Li, Hao Li et al. (10 authors)",
-      "organization_name": "NationalUniversityofSingapore",
-      "organization_fullname": "National University of Singapore",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
-      "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.16679",
-      "arxiv_url": "https://arxiv.org/abs/2609.16679",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
-      "upvotes": 108,
-      "num_comments": 2,
-      "published_at": "2026-09-14T20:00:00.000Z",
-      "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
-      "github_stars": 146,
-      "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
     },
     {
       "id": "2403.08299",
@@ -115,23 +96,23 @@
       "project_page": null
     },
     {
-      "id": "2609.15364",
-      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
-      "organization_name": "AetherLabs-AI",
-      "organization_fullname": "AetherLabs-AI",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
-      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
-      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
-      "hf_url": "https://huggingface.co/papers/2609.15364",
-      "arxiv_url": "https://arxiv.org/abs/2609.15364",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
-      "upvotes": 70,
+      "id": "2609.16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "authors": "Meng Luo, Yanlin Li, Hao Li et al. (10 authors)",
+      "organization_name": "NationalUniversityofSingapore",
+      "organization_fullname": "National University of Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
+      "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.16679",
+      "arxiv_url": "https://arxiv.org/abs/2609.16679",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
+      "upvotes": 113,
       "num_comments": 2,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
-      "github_stars": 243,
-      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
+      "published_at": "2026-09-14T20:00:00.000Z",
+      "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
+      "github_stars": 167,
+      "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
     },
     {
       "id": "1910.03771",
@@ -153,6 +134,25 @@
       "project_page": "https://huggingface.co"
     },
     {
+      "id": "2609.15364",
+      "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+      "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang et al. (6 authors)",
+      "organization_name": "AetherLabs-AI",
+      "organization_fullname": "AetherLabs-AI",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/66f4fcbc29b10ae4c990a2e0/48L5Xsw_rF8WKtMtWvlMm.png",
+      "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework for recursive self-improvement through autonomous memory construction. RSIAgent coordinates curriculum, actor, and verifier agents to continually explore the environment, validate outcomes, and retain environment-specific knowledge, including reusable causal relationships between actions, conditions, and consequences. It further adopts a broad-then-deep exploration strategy, combining parallel broad recursive self-exploration for discovering diverse environment structures with focused deep self-exploration for uncovering hard cases, hidden constraints, boundary conditions, and previously unknown causal dependencies. The resulting memory is frozen and can be directly reused for downstream tasks without updating model parameters. Experiments on OSWorld-v2 and Agent's Last Exam show that RSIAgent substantially improves strong open-source models, enabling Kimi-K3 and GLM-5.3 to outperform frontier closed-source models including GPT-6.",
+      "ai_summary": "RSIAgent is a training-free multi-agent framework that enables recursive self-improvement via autonomous memory construction and broad-then-deep exploration to adapt digital agents to new environments.",
+      "hf_url": "https://huggingface.co/papers/2609.15364",
+      "arxiv_url": "https://arxiv.org/abs/2609.15364",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15364.png",
+      "upvotes": 71,
+      "num_comments": 2,
+      "published_at": "2026-09-13T20:00:00.000Z",
+      "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
+      "github_stars": 279,
+      "project_page": "https://aetherlabsai.github.io/RSIAgent/"
+    },
+    {
       "id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
       "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 3370,
+      "github_stars": 3427,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 88155,
+      "github_stars": 88207,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-17T01:37:06.324609+00:00"
+  "fetched_at": "2026-09-17T07:14:57.658780+00:00"
 }

@@ -9,8 +9,8 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "hn_url": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
-      "points": 537,
-      "num_comments": 186,
+      "points": 561,
+      "num_comments": 192,
       "created_at": "2026-09-16T08:08:57Z",
       "object_id": "49723408",
       "image": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg",
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49715113",
       "author": "pavel_lishin",
       "points": 229,
-      "num_comments": 167,
+      "num_comments": 168,
       "created_at": "2026-09-15T16:38:45Z",
       "object_id": "49715113",
       "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg",
@@ -37,8 +37,8 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
       "hn_url": "https://news.ycombinator.com/item?id=49706223",
       "author": "throwworhtthrow",
-      "points": 228,
-      "num_comments": 139,
+      "points": 229,
+      "num_comments": 142,
       "created_at": "2026-09-15T00:40:14Z",
       "object_id": "49706223",
       "image": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
@@ -65,8 +65,8 @@
       "url": "https://arxiv.org/abs/2511.07885",
       "hn_url": "https://news.ycombinator.com/item?id=49694035",
       "author": "pythonic_hell",
-      "points": 160,
-      "num_comments": 58,
+      "points": 164,
+      "num_comments": 62,
       "created_at": "2026-09-14T09:16:39Z",
       "object_id": "49694035",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -103,6 +103,20 @@
       "site_name": "Erkan's Field Diary"
     },
     {
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49734264",
+      "author": "etoxin",
+      "points": 125,
+      "num_comments": 51,
+      "created_at": "2026-09-16T23:06:39Z",
+      "object_id": "49734264",
+      "image": "https://openspec.dev/og-card.jpg",
+      "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
+      "favicon": "https://openspec.dev/apple-touch-icon.png",
+      "site_name": "OpenSpec"
+    },
+    {
       "title": "Big AI sets out its terms for regulatory capture",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
       "hn_url": "https://news.ycombinator.com/item?id=49694596",
@@ -129,23 +143,9 @@
       "description": "Turn words, sketches and references into editable 3D models. Explore Cartesian by Formas for architecture and product design. Join the preview waitlist.",
       "favicon": "https://www.formas.ai/cartesian/assets/cartesian-apple-touch-icon.png?v=1",
       "site_name": "formas.ai"
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "url": "https://spectrum.ieee.org/adversarial-fashion",
-      "hn_url": "https://news.ycombinator.com/item?id=49697094",
-      "author": "rbanffy",
-      "points": 112,
-      "num_comments": 48,
-      "created_at": "2026-09-14T14:04:53Z",
-      "object_id": "49697094",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67764230&width=1200&height=600&coordinates=0%2C207%2C0%2C293",
-      "description": "Adversarial attire can\u2019t stop AI cameras, but can disrupt them",
-      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNjU5NjY0OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTg0ODgxODUwNn0.1LlzHtxZSVXyzapxWjeSrRIRu5qo3CeB8FaWpd2tl_o/img.png?width=192&height=192",
-      "site_name": "IEEE Spectrum"
     }
   ],
-  "total_hits": 785,
+  "total_hits": 788,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T01:36:55.150842+00:00"
+  "fetched_at": "2026-09-17T07:14:47.001667+00:00"
 }
