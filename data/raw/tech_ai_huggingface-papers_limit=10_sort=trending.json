@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 137,
+      "upvotes": 138,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 106896,
+      "github_stars": 107023,
       "project_page": null
     },
     {
@@ -77,6 +77,25 @@
       "project_page": "https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ"
     },
     {
+      "id": "2609.16679",
+      "title": "AI for Games in the Foundation Model Era",
+      "authors": "Meng Luo, Yanlin Li, Hao Li et al. (10 authors)",
+      "organization_name": "NationalUniversityofSingapore",
+      "organization_fullname": "National University of Singapore",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
+      "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.16679",
+      "arxiv_url": "https://arxiv.org/abs/2609.16679",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
+      "upvotes": 108,
+      "num_comments": 2,
+      "published_at": "2026-09-14T20:00:00.000Z",
+      "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
+      "github_stars": 146,
+      "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
+    },
+    {
       "id": "2403.08299",
       "title": "AutoDev: Automated AI-Driven Development",
       "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
@@ -92,46 +111,8 @@
       "num_comments": 2,
       "published_at": "2024-03-13T03:12:03.000Z",
       "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 24555,
+      "github_stars": 24591,
       "project_page": null
-    },
-    {
-      "id": "2609.16679",
-      "title": "AI for Games in the Foundation Model Era",
-      "authors": "Meng Luo, Yanlin Li, Hao Li et al. (10 authors)",
-      "organization_name": "NationalUniversityofSingapore",
-      "organization_fullname": "National University of Singapore",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/630ca0817dacb93b33506ce7/ZYUmpSMsa5Whihw3me2Bw.png",
-      "summary": "Foundation models, alongside advances in learned game-world models, are reshaping AI across the game lifecycle. Beyond playing games, recent systems model players and game dynamics, support design and development, adapt player-facing experiences at runtime, and evaluate resulting artifacts. Yet these directions have evolved largely separately, obscuring which capabilities transfer across settings and which remain tied to particular games, engines, interfaces, or player populations. We organize the literature into six roles according to the immediate use of AI output: playing and acting; modeling players and games; designing games; building and maintaining games; generating and adapting at runtime; and testing and evaluating games. For each role, we examine what structure is supplied by the game or workflow, what AI learns or produces, which capabilities and artifacts transfer across settings and roles, and what evidence supports the claims. We identify cross-role connections: trajectories train world models, learned environments provide experience for agents, design specifications drive executable implementations, and play or testing feedback guides revision. However, control schemes, rules, engine interfaces, state representations, and player contexts often remain setting-specific, so downstream claims require validation in the target setting. Evaluation is most standardized for bounded game playing and selected learned environments, while persistent state in learned worlds, repeated software revision, validated player modeling, sustained runtime adaptation, and representative automated testing remain less established. The central challenge is to reuse or transfer outputs and capabilities across roles while re-establishing evidence for effectiveness in the game-specific contexts where they are used.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.16679",
-      "arxiv_url": "https://arxiv.org/abs/2609.16679",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
-      "upvotes": 106,
-      "num_comments": 1,
-      "published_at": "2026-09-14T20:00:00.000Z",
-      "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
-      "github_stars": 146,
-      "project_page": "https://eurekaleo.github.io/awesome-ai-for-games/"
-    },
-    {
-      "id": "1910.03771",
-      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
-      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
-      "organization_name": "huggingface",
-      "organization_fullname": "Hugging Face",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
-      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
-      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
-      "hf_url": "https://huggingface.co/papers/1910.03771",
-      "arxiv_url": "https://arxiv.org/abs/1910.03771",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
-      "upvotes": 29,
-      "num_comments": 7,
-      "published_at": "2019-10-08T23:23:22.000Z",
-      "github_repo": "https://github.com/huggingface/transformers",
-      "github_stars": 166244,
-      "project_page": "https://huggingface.co"
     },
     {
       "id": "2609.15364",
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/AetherLabsAI/RSIAgent",
       "github_stars": 243,
       "project_page": "https://aetherlabsai.github.io/RSIAgent/"
+    },
+    {
+      "id": "1910.03771",
+      "title": "HuggingFace's Transformers: State-of-the-art Natural Language Processing",
+      "authors": "Thomas Wolf, Lysandre Debut, Victor Sanh et al. (22 authors)",
+      "organization_name": "huggingface",
+      "organization_fullname": "Hugging Face",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583856921041-5dd96eb166059660ed1ee413.png",
+      "summary": "Recent progress in natural language processing has been driven by advances in\nboth model architecture and model pretraining. Transformer architectures have\nfacilitated building higher-capacity models and pretraining has made it\npossible to effectively utilize this capacity for a wide variety of tasks.\nTransformers is an open-source library with the goal of opening up\nthese advances to the wider machine learning community. The library consists of\ncarefully engineered state-of-the art Transformer architectures under a unified\nAPI. Backing this library is a curated collection of pretrained models made by\nand available for the community. Transformers is designed to be\nextensible by researchers, simple for practitioners, and fast and robust in\nindustrial deployments. The library is available at\nhttps://github.com/huggingface/transformers.",
+      "ai_summary": "Transformers library provides state-of-the-art Transformer architectures and pretrained models for natural language processing tasks with a unified API and emphasis on extensibility and robust deployment.",
+      "hf_url": "https://huggingface.co/papers/1910.03771",
+      "arxiv_url": "https://arxiv.org/abs/1910.03771",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/1910.03771.png",
+      "upvotes": 29,
+      "num_comments": 7,
+      "published_at": "2019-10-08T23:23:22.000Z",
+      "github_repo": "https://github.com/huggingface/transformers",
+      "github_stars": 166257,
+      "project_page": "https://huggingface.co"
     },
     {
       "id": "2608.23283",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-16T23:10:21.813396+00:00"
+  "fetched_at": "2026-09-17T01:37:06.324609+00:00"
 }

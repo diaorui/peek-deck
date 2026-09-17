@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-16T23:10:43.822026+00:00'
+updated: '2026-09-17T01:37:24.773068+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 16, 2026 at 23:10 UTC  
+**Last Updated:** September 17, 2026 at 01:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 Seeing is Believing
 
-citriniresearch.com • 8h ago
+citriniresearch.com • 11h ago
 
 ---
 
@@ -136,7 +136,21 @@ The Robot Report • 1d ago
 
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
-bloomberg.com • 1d ago
+Bloomberg • 1d ago
+
+---
+
+**[Delivery robots’ presence expands in Arlington amid regionwide shift](https://www.arlnow.com/2026/09/15/delivery-robots-presence-expands-in-arlington-amid-regionwide-shift/)**
+
+Roaming fleets of delivery robots have been expanding throughout the D.C. area in recent months, including in Arlington. In the three months since the company Avride began having robots carry Uber Eats orders in Arlington, the company says it has added more bots in response to market demand. The company declined to disclose how many
+
+ARLnow • 1d ago
+
+---
+
+**[Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse](https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953)**
+
+Gizmodo • 10h ago
 
 ---
 
@@ -144,15 +158,7 @@ bloomberg.com • 1d ago
 
 The Pittsburgh area is often referred to as the powerhouse region of robotics and AI. Once a year, the robotics industry puts on a one-day convention. Barry Pintar has an inside look.
 
-cbsnews.com • 56m ago
-
----
-
-**[China is exploring humanoid robots for war – but what role could they play?](https://theconversation.com/china-is-exploring-humanoid-robots-for-war-but-what-role-could-they-play-291813)**
-
-The People’s Liberation Army called for researchers to accelerate progress on building humanoid robots designed for military uses.
-
-The Conversation • 2d ago
+CBS News • 3h ago
 
 ---
 
@@ -160,7 +166,13 @@ The Conversation • 2d ago
 
 Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
 
-TechCrunch • 8h ago
+techcrunch.com • 10h ago
+
+---
+
+**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
+
+Asia Times • 21h ago
 
 ---
 
@@ -169,20 +181,6 @@ TechCrunch • 8h ago
 Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
 
 Ars Technica • 2d ago
-
----
-
-**[AI robots will now be on San Mateo County’s radar](https://www.mercurynews.com/2026/09/16/ai-robots-will-now-be-on-san-mateo-countys-radar/)**
-
-The permitting system takes effect mid-October and only applies to unincorporated of the county.
-
-The Mercury News • 32m ago
-
----
-
-**[CSX and Wounded Warrior Project host robotics, drone training for 21 veterans](https://www.actionnewsjax.com/news/local/csx-wounded-warrior-project-host-robotics-drone-training-21-veterans/1701f7c3-35bf-4d73-ac1b-15bc42867106/)**
-
-Action News Jax • 2m ago
 
 ---
 
@@ -196,7 +194,7 @@ Unitree brought the future to the AGT 2026 stage with a groundbreaking performan
 
 📺 Talent Replay
 
-👁️ 28K • 👍 93 • 💬 13 • ⏱️ 4:51 • 1d ago
+👁️ 30K • 👍 94 • 💬 13 • ⏱️ 4:51 • 1d ago
 
 ---
 
@@ -206,7 +204,7 @@ This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 85K • 👍 2K • 💬 601 • ⏱️ 13:22 • 5d ago
+👁️ 86K • 👍 2K • 💬 602 • ⏱️ 13:22 • 5d ago
 
 ---
 
@@ -216,7 +214,7 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 📺 The AI Nexus
 
-👁️ 23K • 👍 299 • 💬 19 • ⏱️ 24:48 • 4d ago
+👁️ 23K • 👍 302 • 💬 19 • ⏱️ 24:48 • 4d ago
 
 ---
 
@@ -226,7 +224,7 @@ Tesla Optimus is moving from a futuristic demo to a much bigger question: can a 
 
 📺 FutureTech Zone
 
-👁️ 83K • 👍 1K • 💬 218 • ⏱️ 0:25 • 5d ago
+👁️ 84K • 👍 1K • 💬 219 • ⏱️ 0:25 • 5d ago
 
 ---
 
@@ -236,7 +234,7 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 📺 The AI Nexus
 
-👁️ 8K • 👍 171 • 💬 15 • ⏱️ 57:02 • 1d ago
+👁️ 8K • 👍 173 • 💬 15 • ⏱️ 57:02 • 1d ago
 
 ---
 
@@ -246,7 +244,7 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 302K • 👍 17K • 💬 407 • ⏱️ 0:37 • 2d ago
+👁️ 310K • 👍 17K • 💬 415 • ⏱️ 0:37 • 2d ago
 
 ---
 
@@ -266,27 +264,27 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Huma
 
 📺 PRO ROBOTS
 
-👁️ 32K • 👍 537 • 💬 73 • ⏱️ 21:46 • 6d ago
+👁️ 32K • 👍 538 • 💬 73 • ⏱️ 21:46 • 6d ago
 
 ---
 
-**[Can OLD Lasers Make Vulcan OVERPOWERED? | Does It Work? #8 - War Robots](https://www.youtube.com/watch?v=8lIL8RGpq4w)**
+**[Robot Reacts After Being Pushed](https://www.youtube.com/watch?v=zIxDG3sLAqY)**
 
-Testing out @elizabethtey's Vulcan setup equipped with Yeoje and Taeja weapons to see if old-school lasers can still dominate in ...
+Robot #AI #Robotics #Tech #CulturaColectiva AD / TR.
 
-📺 Adrian Chong
+📺 Cultura Colectiva Plus
 
-👁️ 12K • 👍 324 • 💬 82 • ⏱️ 17:00 • 1d ago
+👁️ 711 • 👍 18 • 💬 2 • ⏱️ 0:33 • 2h ago
 
 ---
 
-**[China’s Snake Robot Is Crawling Along Power Lines](https://www.youtube.com/watch?v=EJEH84n1wys)**
+**[Meet Digit 5: Agility Robotics’ humanoid built to work with people](https://www.youtube.com/watch?v=I8Hy2B0ayM4)**
 
-China is testing a fascinating new approach to power-grid maintenance: a snake-shaped robot that crawls directly along electrical ...
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
 
-📺 Alchetron
+📺 Interesting Engineering Explains
 
-👁️ 11K • 👍 219 • 💬 5 • ⏱️ 0:22 • 1d ago
+👁️ 3K • 👍 102 • 💬 25 • ⏱️ 1:43 • 8h ago
 
 ---
 
