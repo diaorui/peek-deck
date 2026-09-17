@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-17T01:37:24.773068+00:00'
+updated: '2026-09-17T07:15:21.035623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 17, 2026 at 01:37 UTC  
+**Last Updated:** September 17, 2026 at 07:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-2d ago
+3d ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-3d ago
+4d ago
 
 ---
 
@@ -116,7 +116,51 @@ I'm creating co-working space within the industry of robotics in my native count
 
 Seeing is Believing
 
-citriniresearch.com • 11h ago
+citriniresearch.com • 16h ago
+
+---
+
+**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs](https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/)**
+
+It turns out that breaking down at work isn’t a uniquely human experience.
+
+Engadget • 8h ago
+
+---
+
+**[Musk Says a Billion Robots Will Outproduce All Humans, So Why Are Robot Funds Losing Money?](https://finance.yahoo.com/markets/stocks/articles/musk-says-billion-robots-outproduce-212135205.html)**
+
+Sponsors are rushing to launch robot-themed ETFs at a pace not seen in years, betting billions on humanoid factories that do not yet exist. The funds already trading tell a very different story about who is actually winning.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
+
+How to secure today’s AI robots against stealth cyber threats
+
+IEEE Spectrum • 14h ago
+
+---
+
+**[Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
+
+Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
+
+TechCrunch • 16h ago
+
+---
+
+**[Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse](https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953)**
+
+Gizmodo • 16h ago
 
 ---
 
@@ -126,61 +170,19 @@ OregonLive.com • 1d ago
 
 ---
 
-**[Agility’s Digit 5 humanoid has new legs, batteries, and safety upgrades](https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/)**
+**[Travis Kalanick's Robotics Startup Taps Meta Veteran for Top AI Role](https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9)**
 
-The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture.
+Vikas Chandra, a longtime Meta AI executive who led AI work for the company's smart glasses, is joining Atoms.
 
-The Robot Report • 1d ago
-
----
-
-**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
-
-Bloomberg • 1d ago
+Business Insider • 2d ago
 
 ---
 
-**[Delivery robots’ presence expands in Arlington amid regionwide shift](https://www.arlnow.com/2026/09/15/delivery-robots-presence-expands-in-arlington-amid-regionwide-shift/)**
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
 
-Roaming fleets of delivery robots have been expanding throughout the D.C. area in recent months, including in Arlington. In the three months since the company Avride began having robots carry Uber Eats orders in Arlington, the company says it has added more bots in response to market demand. The company declined to disclose how many
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
 
-ARLnow • 1d ago
-
----
-
-**[Noted Brain Genius Tyler Winklevoss Thinks Isaac Asimov Already Solved the AI Apocalypse](https://gizmodo.com/noted-brain-genius-tyler-winklevoss-thinks-isaac-asimov-already-solved-the-ai-apocalypse-2000811953)**
-
-Gizmodo • 10h ago
-
----
-
-**[Robotics and Discovery Day comes to Pittsburgh convention center](https://www.cbsnews.com/pittsburgh/video/robotics-and-discovery-day-comes-to-pittsburgh-convention-center/)**
-
-The Pittsburgh area is often referred to as the powerhouse region of robotics and AI. Once a year, the robotics industry puts on a one-day convention. Barry Pintar has an inside look.
-
-CBS News • 3h ago
-
----
-
-**[Nvidia’s Les Karpas joins the agenda lineup at Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/)**
-
-Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.
-
-techcrunch.com • 10h ago
-
----
-
-**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
-
-Asia Times • 21h ago
-
----
-
-**[Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots](https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/)**
-
-Wang Xingxing micromanaged Unitree to success—will his leadership style scale?
-
-Ars Technica • 2d ago
+MIT News • 3h ago
 
 ---
 
@@ -188,23 +190,13 @@ Ars Technica • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
-
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
-
-📺 Talent Replay
-
-👁️ 30K • 👍 94 • 💬 13 • ⏱️ 4:51 • 1d ago
-
----
-
 **[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
 
 This is all I know of Elon Musk's Optimus Robot selling to everyone.
 
 📺 Blakwoodz
 
-👁️ 86K • 👍 2K • 💬 602 • ⏱️ 13:22 • 5d ago
+👁️ 86K • 👍 2K • 💬 605 • ⏱️ 13:22 • 5d ago
 
 ---
 
@@ -214,7 +206,7 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 📺 The AI Nexus
 
-👁️ 23K • 👍 302 • 💬 19 • ⏱️ 24:48 • 4d ago
+👁️ 24K • 👍 303 • 💬 19 • ⏱️ 24:48 • 5d ago
 
 ---
 
@@ -224,17 +216,37 @@ Tesla Optimus is moving from a futuristic demo to a much bigger question: can a 
 
 📺 FutureTech Zone
 
-👁️ 84K • 👍 1K • 💬 219 • ⏱️ 0:25 • 5d ago
+👁️ 86K • 👍 1K • 💬 222 • ⏱️ 0:25 • 5d ago
 
 ---
 
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
 
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
 
-📺 The AI Nexus
+📺 Talent Replay
 
-👁️ 8K • 👍 173 • 💬 15 • ⏱️ 57:02 • 1d ago
+👁️ 32K • 👍 98 • 💬 13 • ⏱️ 4:51 • 1d ago
+
+---
+
+**[Why robots welcome All-Solid-State Batteries](https://www.youtube.com/watch?v=7HeOPQtKg9c)**
+
+We recommend watching with YouTube subtitles Audio and subtitles are available in both English and Korean. Even robots get ...
+
+📺 삼성SDI
+
+👁️ 163K • 👍 20 • ⏱️ 0:54 • 1d ago
+
+---
+
+**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+
+📺 PRO ROBOTS
+
+👁️ 32K • 👍 539 • 💬 74 • ⏱️ 21:46 • 6d ago
 
 ---
 
@@ -244,7 +256,7 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 310K • 👍 17K • 💬 415 • ⏱️ 0:37 • 2d ago
+👁️ 325K • 👍 17K • 💬 425 • ⏱️ 0:37 • 2d ago
 
 ---
 
@@ -258,33 +270,23 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[Why Boston Dynamics Gave Up on Humanoid Robots](https://www.youtube.com/watch?v=xD1hSWNk1JI)**
+**[Robot kicks developer, knocking remote from his hand #shorts #breaking #foxnews #media #robot](https://www.youtube.com/watch?v=6yuh8sMQ1fs)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Humanoid robots are getting faster, smarter, and ...
+A viral video shows a humanoid robot kicking a developer and knocking the remote that controls the robot out of his hand.
 
-📺 PRO ROBOTS
+📺 Fox News
 
-👁️ 32K • 👍 538 • 💬 73 • ⏱️ 21:46 • 6d ago
-
----
-
-**[Robot Reacts After Being Pushed](https://www.youtube.com/watch?v=zIxDG3sLAqY)**
-
-Robot #AI #Robotics #Tech #CulturaColectiva AD / TR.
-
-📺 Cultura Colectiva Plus
-
-👁️ 711 • 👍 18 • 💬 2 • ⏱️ 0:33 • 2h ago
+👁️ 18K • 👍 820 • 💬 294 • ⏱️ 0:18 • 3h ago
 
 ---
 
-**[Meet Digit 5: Agility Robotics’ humanoid built to work with people](https://www.youtube.com/watch?v=I8Hy2B0ayM4)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 Interesting Engineering Explains
+📺 The AI Nexus
 
-👁️ 3K • 👍 102 • 💬 25 • ⏱️ 1:43 • 8h ago
+👁️ 9K • 👍 180 • 💬 15 • ⏱️ 57:02 • 2d ago
 
 ---
 
