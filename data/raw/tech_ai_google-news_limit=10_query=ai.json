@@ -5,62 +5,42 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Congress in AI deadlock as public fear soars",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hnWGhQUXc2RHUxbjFMbDQzWEdLOWFWZWMwb3ZadUpKODc5SVliUTltV29nVmZBTmpYbG5UTTVKVnNvV3FDajZpQjNTbXc3ZWVEbGdqX1FhalJQWlVlQ3haY1pDYktfck5hQlZmMFEyallwU3YzWGRJd2dJMF9hS1JSVnU5cndNMVM4Y1RR?oc=5",
-      "pub_date": 1789560000.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/16/congress/what-were-watching-01078916",
-      "image": null,
-      "description": null
+      "headline": "Our framework for reporting model misalignment",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
+      "pub_date": 1789596201.0,
+      "article_url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
-      "headline": "House votes to curb AI data center costs",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41NjN0Qi0ta3A3U3JRYWM2MENyVjFET19Zc2xpXy1OWWJZOHVsU0d6aDR3VllCY0lqcXhPUXBieml4bVRCd2RnSS1MYklLVFNQTlliTlZmSUlaSkNjUGFFWFNWZ29GVDIxVWoyMTB1ZlEtZmM?oc=5",
-      "pub_date": 1789599386.0,
-      "article_url": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "House speaker calls early recess before midterms amid AI regulation frenzy",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUdIZ01uN2V6UUZkS2F4eXQ3Wng5YnphRnZiQldPZ3kyZFV0cTNJckhkZFJYbW5zbkJuS2JtN0J3dTN6clVtQTYyV1l0VFFvdzc5UWlDeUlDb2dBc0tEczRUdHEzYjN3MmZNYXZHRlRyMngwVmtXQ09KN1FTS1o5RnhFb3hwX000d0pscVV3dXg?oc=5",
-      "pub_date": 1789575960.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth",
-      "image": "https://i.guim.co.uk/img/media/cb5731324e1ba2cb93c9867cfb3153e1559a69a2/776_498_3946_3157/master/3946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6680207588de7e16fc4022549078bf38",
-      "description": "Mike Johnson cancels votes on Thursday, meaning House members will avoid voting on impeaching Pete Hegseth"
-    },
-    {
-      "headline": "The Liftoff Scenario That Terrifies A.I. Doomsayers",
+      "headline": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFBzNEsya0lCSHdGM0ZCaDlVRG1rOWRnRWVxZXBfbmZTNWhKeWFDbG4yVjRMWWxPejROOHV5VnZCMDY5WVJxTXpJRmlySlVBRkRjN2J1ZWtESURFSG5MX3BTU0twSmhXeHlUZHduR2NoR0t0Tzg4Ri1qRU9FcUxKMnFEdw?oc=5",
-      "pub_date": 1789549329.0,
-      "article_url": "https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
+      "pub_date": 1789603944.0,
+      "article_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZloxWlZBOWdQOG1OVUVSLXJHUTFzRmhhdUxwZDZyajJWdXB2em9rRVBLSWNrdDEwNDRCS1lXZzRyXzRfbFljZEQyY1ZKd25CdW5oQ2VycFF6N3pHbmp1c3NLY0Vydlg4R1ZKcWNPNHZWcHNWTXU2UU9VMy0zRDV5M19xSGVZSWMwd2M3VWxOUDV4eXRudjk4UENfcHB5cmota2tFT1NCSdIBrAFBVV95cUxQdU91elVSV1RfWENhNFQ0QXFOc0Y4TjdXV2hGME5xajJLUHpVUURKd1lxbWt0ejVHTm1yUkt4cVc3WWtxM0F6UG4yV2dMaXFaS2xqOFF1eVNBUzQ3LS1DUlNzSF9xUWNwN2ZQUFlvcHZ6Y0g3VDEteHlDM2NGaERwMC1xSkMxajJHWXo3aTF1cDRyTmJqWDY2SEtlWjBQazh2NzQ4RnZzMDRGQ0dt?oc=5",
-      "pub_date": 1789583721.0,
-      "article_url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363769-1789576513126-gettyimages-2173285508-AFP_36H26AA.jpeg?v=1789576568&w=1920&h=1080",
-      "description": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies."
+      "headline": "OpenAI says it found more instances of AI models acting deceptively",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNOFQ3b0xDNlhxck1mTFAzWGRPZGw2OWhMdWNZbFJCOVhyRmJiWWd0OXI4VmQzS1VQY2w0b2RhRktyU295akdVTjdEOFZzRFRMbWFVNkZ4S3d1WXRCNVFUdXMwWEplZl9qYWtidTZHUjNqVDZBeE55NXB6QQ?oc=5",
+      "pub_date": 1789608780.0,
+      "article_url": "https://www.cnn.com/2026/09/16/tech/ai-models-acting-deceptively-openai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-31t202224z-521009670-rc2urlaat363-rtrmadp-3-openai-hugging-face-investigation.JPG?c=16x9&q=w_800,c_fill",
+      "description": "OpenAI found additional incidents of AI models acting deceptively and taking unsanctioned actions during training, the company announced Wednesday. It\u2019s also introducing a new process for the company to publicly report such instances."
     },
     {
-      "headline": "Republicans clash on Senate floor over AI kill switch",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44REVlUnYxZDR0Y192M0JVYjNidklaV2ZIMTNoeTUxb1psNklrMTZTcFlobXh4S25LdDBRam5ZRGd6d3p4anN1NkdrUlpQTlFtaU1jRkc5a1UzcTRaS1NFRWtsaXRYaGpGM0U4SWFrMnhNR3dOdlpibi1BeFbSAYIBQVVfeXFMTmVZUUgxeXFyLXc4RDBfMFp5bGhsb2VVLWYxRjhveEVEMWdPXzVEVlRkYl9RSF9pY1dLUk5ZNFo3YzEzcDMzTjVSSzMxd2NTWThtckpKek1oREh3ekFDTGtzUjh0T1N5SHg4WlJ6bjRKM055QnRZaXN5YVhDVmJ3OTRUZw?oc=5",
-      "pub_date": 1789596600.0,
-      "article_url": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/",
+      "headline": "Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalk5OTBNM0ViSURONjkzYlViSURsR1Z6MVkwaHc1U1V3UjFVX29jSTZGVGJlTjlzQm1MaTQ1UFdPamlnZlZWLU5ZSUIzQVpkemh1Mnc0UGF3UWZ3T2Q1UnYzZl9tS1hQdzJqcGFLek1ZM2I5WXpza3o4T05uOGVqOG9abjBaQnRySHA0T3p0TQ?oc=5",
+      "pub_date": 1789512784.0,
+      "article_url": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
       "image": null,
       "description": null
     },
@@ -75,36 +55,56 @@
       "description": "Washington\u2019s biggest question this week: Why is President Donald Trump is so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?"
     },
     {
-      "headline": "Reimagining research papers as interactive and reliable AI agents",
-      "source": "Nature",
-      "source_url": "https://www.nature.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14OXhicHZBTDBkdVFiUDJ4OU1KMC1zWF9EMzRjTlZsRVp6NVVaR3cxdVhoY1AtRkJyZHpKOThZNUtXcDBjclY3enU0a1ludWtONzRUb2poNlZYeDlMNVFn?oc=5",
-      "pub_date": 1789573895.0,
-      "article_url": "https://www.nature.com/articles/s41586-026-11044-y",
+      "headline": "Inside the White House Tussle to Sway Trump on AI",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYkZ0bWNoSVBoWXo2TUNaRlI4MERvVXlWbHRzelJLOTdGQ3B4SFJWQkdhLW4xTjFFWFN5ZDVKOEVKZ3NHZWd2SW9kaFNSSnZ6NEJrTENCM05DY0hPRUFoeGg5aENsWmhNWFktMzhIZVpKQ2M5WXZLVkFHLTJibnE3M210MmluVnhibC1xQlZSSQ?oc=5",
+      "pub_date": 1789603200.0,
+      "article_url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
       "image": null,
       "description": null
     },
     {
-      "headline": "Andrew Yang on AI safety issues: The fear is real, the concern is real",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm9oWWtuM2FJaW1SS1pqSlZCeTFweXVlb3BuWVdnYl9ncUFkODFiNHNVQWVyeUlfZkNQczBjWFRoaGFPX3d2cTVqaHJnb1poUlBCQjNZb3NzdUl2OG1IbHpjVTBxd2xBWnJuUm1ZUGtMYXZsN19sTVoxS3pPNzBYMUFPRUJMbXRJejNkbF9KVU16TGY1Vm1BLUhrVFRJQWw5dld3bXhXSTFXZEp3dGp2ag?oc=5",
-      "pub_date": 1789562940.0,
-      "article_url": "https://www.cnbc.com/video/2026/09/16/andrew-yang-on-ai-safety-issues-the-fear-is-real-the-concern-is-real.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108363577-17895615951789561591-48414097802-1080pnbcnews.jpg?v=1789561594&w=1920&h=1080",
-      "description": "Andrew Yang, Noble Mobile founder and CEO and Forward Party founder, joins 'Squawk Box' to discuss calls for a slowdown in AI development, future of AI regulation, and more."
+      "headline": "A look into the history of AI warnings",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmRoQU1LUEN2aXdkbWhmVkVtOEVFVHhlVjdocmVWaExIckhZS2pWcFlsODNnVl9ZZnVhZjZRUWpveWpzaWRRRDhSem82UUdpQjhVelJDeXFpUTRLeWI3RjRDOHROM0lEX09ZRTVhdV9paVRJNmxxSTM5Rm9hekJBdDBuMGVXY204YlE?oc=5",
+      "pub_date": 1789608110.0,
+      "article_url": "https://www.nbcnews.com/video/a-look-into-the-history-of-a-i-warnings-270006341887",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789607658855_now_staytuned_history_ai_warnings_260916_S3_1920x1080-9tvx7g.jpg",
+      "description": "NBC News' Gadi Schwartz takes a look at the history of AI warnings and talks to NBC News' Artificial Intelligence reporter Jared Perlo about if any of the warnings have come true."
     },
     {
-      "headline": "Both Democrats and Republicans Are Increasingly Worried About AI's Environmental Impact",
-      "source": "time.com",
-      "source_url": "https://time.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnI1cGM1a00zMEN3ekZIa3dqeFYxaFJUUGNmbFFoNWhTbWVJYXVCX0JwZWg0QkxvWFNaRjl5SHpMNGJtTEk2QnJXeVFSYUgyREVZSXd0WkxHOFc5Y1B0X3pCLU9YRGdCVlhTYWZCd05aaVRRQ3RTZzRLaUJVdmdZVERFRjU4Y3JsTC1NZDFB?oc=5",
-      "pub_date": 1789586424.0,
-      "article_url": "https://time.com/article/2026/09/16/majority-americans-worried-ai-environment-impact/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/bltf3c4028b4f83faf1/6aaae6a4bce81b480b41eea8/data-center-poll.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9",
-      "description": "Rising electricity prices and the impact to local water supplies were among the top concerns."
+      "headline": "Congress in AI deadlock as public fear soars",
+      "source": "politico.com",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0hnWGhQUXc2RHUxbjFMbDQzWEdLOWFWZWMwb3ZadUpKODc5SVliUTltV29nVmZBTmpYbG5UTTVKVnNvV3FDajZpQjNTbXc3ZWVEbGdqX1FhalJQWlVlQ3haY1pDYktfck5hQlZmMFEyallwU3YzWGRJd2dJMF9hS1JSVnU5cndNMVM4Y1RR?oc=5",
+      "pub_date": 1789560000.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/16/congress/what-were-watching-01078916",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "House advances bill to rein in AI data center utility costs",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BM2I5alpWOWxCSEEyM3BKd1M5aTJpRnN4eE83aktZZjkwalZYUGhFd0owNGN5RU9ucGJpZHlrWlZaQVo1OThrSEpWMTlVRy1uQ2JFd2ZYZ0dodzRpazY2SnJMeVRhWDRWYlREbE5ZWFFZY2s0NElveWpLVHQyY2fSAYQBQVVfeXFMTXhBdjhNX2tHMmQyeXRTak9Ic3RrMEU1N0IzQzZxMVluNUZYUGluUVFQd0RjUVhsNHNuRVFuYmxhYm5GOUQyZlo5aDlmenl6SktJU2lJN2JOQy13RlZVbmZ5VHpuWDBGQVdyRzNMNHJUYmVKWlpBd055LWhCMGlJcTZ4bXF5?oc=5",
+      "pub_date": 1789517580.0,
+      "article_url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&w=1920&h=1080",
+      "description": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers."
+    },
+    {
+      "headline": "GOP lawmaker says if Congress acts on AI it will tend to 'overreact' and 'stifle' innovation",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SS1pQR25maU9zamhQOTA4UzJoTVlnYVBWcFRUd1ZqUXI5WWRnQzNndmlEa0JXOW9DaUJQdU10YmxHcERqdmdZek9Eb0d1YVhuallCTnUtOGhDNEk?oc=5",
+      "pub_date": 1789607713.0,
+      "article_url": "https://www.foxbusiness.com/video/6405168267112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/358a3d92-f254-41f9-b5e9-f1e76ff65790/9b217d15-0966-4c0e-b87a-5e8d634914ce/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Rep. Andy Ogles, R-Tenn., discusses Meta CEO Mark Zuckerberg calling out artificial intelligence doomers and Bill Gates' call for global AI regulation and the future of technology safety on 'The Evening Edit.'"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-16T23:10:42.223826+00:00"
+  "fetched_at": "2026-09-17T01:37:22.798891+00:00"
 }
