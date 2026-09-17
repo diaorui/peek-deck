@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-17T20:31:30.965340+00:00'
+updated: '2026-09-17T23:25:08.790553+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 17, 2026 at 20:31 UTC  
+**Last Updated:** September 17, 2026 at 23:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,453.34
+### $2,450.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** -2.3%  
-**30d:** +9.1%  
-**90d:** +41.2%  
-**1y:** -46.4%  
+**24h:** +1.2%  
+**7d:** -2.7%  
+**30d:** +8.7%  
+**90d:** +40.7%  
+**1y:** -46.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $299.86B
+**Market Cap:** $298.63B
 Rank #2
 
 **Circulating Supply:** 122,056,010 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.3%
+-50.5%
 
 **All-Time Low:** $0.43
-+567260.1%
++564994.4%
 
 ---
 
@@ -150,25 +150,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-17-2026-crypto-prices-move-up-following-feds-rate-increase-114024955.html)**
+**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
 
-Bitcoin opened at $76,143.81 on Thursday, September 17, 2026, up 0.7% compared to Wednesday's opening price. As of 7:23 a.m. ET this morning, the price of bitcoin moved up to $76,264.91. Ethereum opened at $2,416.14 today, also up 0.7% from Wednesday's opening price. The price of ethereum moved up to $2,432.60 as of 7:23 a.m. ET.
+The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 37m ago
 
 ---
 
-**[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
+**[What Is Ethereum? How It Works and How It Differs From Bitcoin](https://finance.yahoo.com/markets/crypto/articles/ethereum-works-differs-bitcoin-222206524.html)**
+
+Ethereum was built to run software that no company controls, but its token has lost ground even as activity across its network keeps climbing. Understanding why reveals a fundamental tension at the heart of how Ethereum actually works.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
 Forbes • 2d ago
-
----
-
-**[What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana](https://finance.yahoo.com/markets/crypto/articles/crypto-clarity-act-tuesday-senate-124041399.html)**
-
-The Senate vote at 2:15 p.m. ET on September 15 could lock in permanent legal ground for XRP, Bitcoin, Ethereum, and Solana, or leave their commodity status resting on a document the next administration can erase overnight.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -180,33 +180,41 @@ TradingView • 1d ago
 
 ---
 
+**[What Is the Crypto Clarity Act? What Tuesday’s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana](https://finance.yahoo.com/markets/crypto/articles/crypto-clarity-act-tuesday-senate-124041399.html)**
+
+The Senate vote at 2:15 p.m. ET on September 15 could lock in permanent legal ground for XRP, Bitcoin, Ethereum, and Solana, or leave their commodity status resting on a document the next administration can erase overnight.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[The Fed Decides at 2 pm ET Wednesday. What a Hike Does to Bitcoin, XRP and Ethereum the Day After Congress Failed.](https://247wallst.com/investing/cryptocurrency/2026/09/16/the-fed-decides-at-2-pm-et-wednesday-what-a-hike-does-to-bitcoin-xrp-and-ethereum-the-day-after-congress-failed/)**
+
+The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot plot and Kevin Warsh's press conference do to crypto prices.
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[XRP ETF Inflows Beat Bitcoin, Ethereum Again: What Is Going On?](https://www.tradingview.com/news/benzinga:aed6a6e0b094b:0-xrp-etf-inflows-beat-bitcoin-ethereum-again-what-is-going-on/)**
 
 XRP (CRYPTO: XRP) spot ETFs pulled in $3.50 million over two days with zero outflows while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) funds bled $1.11 billion combined.What the ETF Flows ShowFranklin Templeton’s XRPZ (NYSE:XRPZ) drove the entire Sept. 16 inflow, adding 2.71 million XRP worth…
 
-TradingView • 7h ago
+TradingView • 10h ago
 
 ---
 
-**[Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?](https://247wallst.com/investing/cryptocurrency/2026/09/17/tom-lee-says-q4-could-bring-one-of-the-biggest-rallies-of-our-lifetime-can-bitcoin-ethereum-and-xrp-reach-new-highs/)**
+**[Ethereum, Base give up on common wallet standard after months of talks](https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks)**
 
-Tom Lee expects one of the biggest rallies of our lifetime in Q4 2026. Can BTC and XRP follow stocks higher after the Fed's latest rate hike?
+Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.
 
-24/7 Wall St. • 3h ago
-
----
-
-**[Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity)**
-
-The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.
-
-coindesk.com • 7h ago
+CoinDesk • 1d ago
 
 ---
 
-**[Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum](https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807)**
+**[Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)**
 
-Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.
+Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.
 
 The Block • 2d ago
 
@@ -216,15 +224,7 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 8h ago
-
----
-
-**[Ethereum Price Forecast: ETH continues to attract capital despite impending rate hike and Clarity Act failure](https://www.fxstreet.com/cryptocurrencies/news/ethereum-price-forecast-eth-continues-to-attract-capital-despite-impending-rate-hike-and-clarity-act-failure-202609152206)**
-
-Ethereum (ETH) declined to $2,400 on Tuesday after the Clarity Act failed to progress in the Senate. Despite that and the market's near certainty of an interest rate hike at the next Federal Reserve (Fed) meeting, the top altcoin has continued to attract fresh capital.
-
-FXStreet • 1d ago
+Fortune • 11h ago
 
 ---
 
@@ -238,7 +238,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 631 • 👍 48 • 💬 125 • ⏱️ 49:49 • 1h ago
+👁️ 839 • 👍 91 • 💬 86 • ⏱️ 49:49 • 4h ago
+
+---
+
+**[Ethereum Just Squeezed The Shorts And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=bHOKhEmYPy0)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 90 • 👍 7 • 💬 21 • ⏱️ 3:49 • 4h ago
 
 ---
 
@@ -252,33 +262,13 @@ Urgent news update on bitcoin, crypto, and the rest of the markets! Its not look
 
 ---
 
-**[Bitcoin: Big Breakout Coming? 💰](https://www.youtube.com/watch?v=EiHITgTRwJQ)**
-
-This is all about why the big move everyone has been waiting for will be happening soon. Big news for all Bitcoin, Ethereum, ...
-
-📺 Investing Made Simple
-
-👁️ 8K • 👍 476 • ⏱️ 11:26 • 7h ago
-
----
-
 **[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
 
 Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 35K • 👍 2K • 💬 348 • ⏱️ 13:54 • 1d ago
-
----
-
-**[🚨 BREAKING CRYPTO NEWS: SEC DID IT! (XRP, ETH, ONDO, HYPE, Tokenization)](https://www.youtube.com/watch?v=cmCkBjo60qA)**
-
-The SEC finally makes move for crypto industry. This decision by the SEC is huge for tokenization and crypto market. MAJOR ...
-
-📺 Zach Humphries
-
-👁️ 2K • 👍 353 • 💬 41 • ⏱️ 8:13 • 5h ago
+👁️ 35K • 👍 2K • 💬 346 • ⏱️ 13:54 • 1d ago
 
 ---
 
@@ -288,7 +278,7 @@ Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact
 
 📺 Fox Business
 
-👁️ 70K • 👍 416 • 💬 199 • ⏱️ 3:26 • 2d ago
+👁️ 71K • 👍 423 • 💬 199 • ⏱️ 3:26 • 2d ago
 
 ---
 
@@ -298,7 +288,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 12K • 👍 224 • 💬 31 • ⏱️ 19:57 • 1d ago
+👁️ 13K • 👍 229 • 💬 29 • ⏱️ 19:57 • 1d ago
+
+---
+
+**[🚨 BREAKING CRYPTO NEWS: SEC DID IT! (XRP, ETH, ONDO, HYPE, Tokenization)](https://www.youtube.com/watch?v=cmCkBjo60qA)**
+
+The SEC finally makes move for crypto industry. This decision by the SEC is huge for tokenization and crypto market. MAJOR ...
+
+📺 Zach Humphries
+
+👁️ 7K • 👍 391 • 💬 37 • ⏱️ 8:13 • 8h ago
 
 ---
 
@@ -308,27 +308,27 @@ WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-ha
 
 📺 Altcoin Daily
 
-👁️ 85K • 👍 3K • 💬 168 • ⏱️ 12:52 • 20h ago
+👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 23h ago
 
 ---
 
-**[ETH Holders Are MISSING This Altcoin Rotation (ZEC +169%)](https://www.youtube.com/watch?v=oaU303zoF5o)**
+**[Bitcoin: Big Breakout Coming? 💰](https://www.youtube.com/watch?v=EiHITgTRwJQ)**
 
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+This is all about why the big move everyone has been waiting for will be happening soon. Big news for all Bitcoin, Ethereum, ...
 
-📺 Marzell Crypto
+📺 Investing Made Simple
 
-👁️ 431 • 👍 11 • 💬 38 • ⏱️ 4:59 • 11h ago
+👁️ 14K • 👍 558 • ⏱️ 11:26 • 10h ago
 
 ---
 
-**[BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Gm15Zbhi4Kg)**
+**[Crypto&#39;s Future Is Bitcoin, Ethereum, and ICP](https://www.youtube.com/watch?v=BU-MNThe-oo)**
 
-BITCOIN SIGNAL CONFIRMING (Exact Price Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Crypto's Future: Bitcoin, Ethereum, and ICP #jerrybanfield #icp #bitcoin #ethereum #crypto.
 
-📺 Crypto World
+📺 Jerry Banfield Money
 
-👁️ 17K • 👍 397 • 💬 131 • ⏱️ 24:48 • 19h ago
+👁️ 1K • 👍 23 • 💬 4 • ⏱️ 0:38 • 1d ago
 
 ---
 
