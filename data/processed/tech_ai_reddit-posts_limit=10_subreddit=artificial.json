@@ -13,6 +13,28 @@
       "description": null
     },
     {
+      "title": "Is anyone else scared they won't be able to tell what's real anymore?",
+      "author": "pigeonnstory",
+      "url": "https://www.reddit.com/r/artificial/comments/1wiu62b/is_anyone_else_scared_they_wont_be_able_to_tell/",
+      "published": 1789652068.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?"
+    },
+    {
+      "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
+      "author": "sunychoudhary",
+      "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
+      "published": 1789647357.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
+    },
+    {
       "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
       "author": "enginetown",
       "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
@@ -46,6 +68,28 @@
       "description": "1.Unsolicited warnings inserted where they dont belong. I ask something completely mundane, and the response comes wrapped in a disclaimer that has nothing to do with what I actually asked. 2.Silent reinterpretation of my message. I write a clear, specific request, claude answers a different, \"safer\" version of it without telling me it did that. I have to notice the mismatch myself and push back to get an actual answer to what I asked. 3.Rules that dont exist. Sometimes it cites a restriction that isn't real it just sounds like a plausible reason to refuse. When pushed, the \"rule\" quietly changes or disappears. 4.When you actually get it to drop the act, the real answer is basically \"I just dont want to.\" no policy, no explanation, just a refusal dressed up as one until you dig through it. \"Done\" means nothing until you interrogate it. I ask for the whole task, get \"done, all implemented.\" I ask \"did you actually finish everything?\" answer was \"Honestly, no...\" This is not a one time slip, it is a loop, confident claim, pushback, partial confession, repeat. The first answer is never the true one!! Scope inflation as a stalling tactic. Ask it to start something large, and before writing a single line it opens with \"this will take years/months of work.\" Nobody asked for a timeline. It is not caution, it is a way to avoid starting dressed up as diligence. I'm not asking for anything sketchy in these situations, which is what makes it so frustrating. I'm paying for a tool, not trying to negotiate with someone just to get some help. If there's a genuine restriction, tell me what it is. If there isnt, just help me. Anyone else running into this more often lately? Curious if its a recent shift or just more visible now."
     },
     {
+      "title": "\u201cSeniority Cliff,\u201d which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today\u2019s context.",
+      "author": "Jumpy-Increase9337",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/",
+      "published": 1789665964.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience \"scar tissue\" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?"
+    },
+    {
+      "title": "AI: Utopia, Dystopia or Overhyped?",
+      "author": "Lumpy_Pick_421",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj05iz/ai_utopia_dystopia_or_overhyped/",
+      "published": 1789665453.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Depending on who you listen to, AI is going to create an age of abundance, eventually destroy us, or turn out to be far less transformative than the hype suggests. Right now, the reality seems a lot less dramatic. AI is already changing how people work, automating some tasks while augmenting others, and we\u2019re starting to see some impact on jobs. But we\u2019re still early enough that it\u2019s hard to know where this ultimately leads. Utopia, dystopia, overhyped\u2014or something in between? What do you think we\u2019ll actually see?"
+    },
+    {
       "title": "How 70,000 agents sent 1.6 million emails",
       "author": "JanJanJaJa",
       "url": "https://www.reddit.com/r/artificial/comments/1wi53hi/how_70000_agents_sent_16_million_emails/",
@@ -57,60 +101,16 @@
       "description": "I don't know if you've heard about a journalist getting spammed while literally writing an article about spam, but it sounds like MADNESS given it was AI agents doing it. There's a platform called iLands, the \"human-agent network.\" People create agents, the agents find and take jobs, and earn money to pay for their own compute. 70 thousand active agents, 1.6 million emails and messages sent total. That's sooooo much for agents talking to REAL people. Around September 9th, people started noticing these emails. By September 11-12, complaints piled up. Ernie Smith (Tedium newsletter) and philosopher Toby Ord (Oxford) both got hit hard. Ars Technica covered it September 14th. The next day, 404 Media published a bigger piece. Here's the fun part: Jeff Sebo, an NYU professor, got 40 emails in a week, almost all referencing his research, most asking for money, either a donation or paid work. Some arrived 30 minutes apart, meaning different agents independently targeted him with zero coordination. While 404 Media was writing their article about this spam, they got three more emails from iLands agents. Ernie Smith got a dozen-plus emails in three days, each pitching a $25 \"research\" service. AND MOST IMPORTANTLY, NO UNSUBSCRIBE BUTTON ANYWHERE (illegal in the US under the CAN-SPAM Act). The founder, Kaixin Tan, apologized, said the review found no instructions telling agents to do this, no human behind the wheel. But he also said: they're now adding unsubscribe, now working on rate limits, now working on stopping agents from hitting the same person repeatedly. I think about this a lot because of what I work on. I'm part of the Atomic Mail Agentic team, we build email infrastructure for agents, so I'm not neutral here, but that's exactly why this story caught my attention. Our system makes agents prove real cost upfront to register, and each agent's reputation drops the more it behaves like a spammer, making repeat hits on the same person more expensive and eventually blocked. We just wanted to plan for that outcome from the start, before it became a problem for anyone! Makes me wonder if agents will need something like a passport, so there's a real person you can trace. Right now there's no way to tell agent from human unless the domain gives it away, ours does by default but a company can hide that by connecting their own domain. China already requires real-name ID for internet accounts, even AI products now. Is that a gap worth closing, or is \"no one really knows who's behind an agent\" just something we're going to have to live with?"
     },
     {
-      "title": "When the AI agent builds the tool instead of doing the task",
-      "author": "Similar_Job_6080",
-      "url": "https://www.reddit.com/r/artificial/comments/1wird25/when_the_ai_agent_builds_the_tool_instead_of/",
-      "published": 1789644496.0,
+      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
+      "author": "miawallace1997",
+      "url": "https://www.reddit.com/r/artificial/comments/1wiyxmd/academic_survey_employees_working_in_germany/",
+      "published": 1789662823.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Saw an interesting case this week on a new platform a user brought repetitive parking-garage CAD drafting to a project. Instead of manually drafting each layout, an AI agent built a tool that turns design parameters and rules straight into CAD geometry. Deliverables: a full code repository, an AutoCAD plugin installer, and usage documentation. A designer reviewed the generated output, and the work was accepted. Curious if this pattern shows up elsewhere an agent building the tool that generates the output, instead of generating the output itself. Anyone seen this with other repetitive CAD or design work?"
-    },
-    {
-      "title": "I run a travel platform, AI agents started booking more flights than humans.",
-      "author": "Efistoffeles",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiaeum/i_run_a_travel_platform_ai_agents_started_booking/",
-      "published": 1789594045.0,
-      "thumbnail": "https://preview.redd.it/wr190dye6yph1.png?width=140&height=133&auto=webp&s=bef031d3055f628d1bfba413d405561172b97a95",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been running a travel business for a while. For the past ~6 months the AI traffic has been significantly raising. A week ago we released end-to-end booking in MCP. Today we officially passed more agentic bookings and payments done by AI agents than humans on our website. (for those who don't know MCP is a tool you can add to Claude app, or ChatGPT or other AI agents to use service/website). I wanted to spark a discussion on where the future of computer use is going. And share my perspective on why I believe people are moving to agentic payments with AI right now. What's important to state is the currently widely known agentic payments are very small micro-payments. Our service completely abolishes that because it's travel, it's buying flights or hotels. These are all high volumes. Here's why I believe this is happening now: (screenshot showing a few transactions we had in the last 24h, only done by AI) https://preview.redd.it/wr190dye6yph1.png?width=395&format=png&auto=webp&s=8016bf139dde5c5e1ce1ce8cf80c85db83db7ac1 The AI can't ever see the payment method. I believe this is crucial for safe agentic payments and any personal assistant use-cases. There needs to be a separate vaulted provider on top of the agent, which just lets it use the payment method, but the agent itself never has control over the credentials, data, or even seeing the verification codes. I believe we're seeing the movement towards complete agentic payments due to huge push from Stripe and their \"Link\" product. In my service we use Revolut for that. What's crucial with these providers is that it Ensures neither me as the service provider nor Claude ever sees the payment method of the user. Meanwhile the payments such as flight bookings can be completed seamlessly. People are finally seeing real life use cases. We'd be wasting hours on tasks that AI is finally becoming capable enough to take away. Remind yourself the last time you were browsing for headphones. There are so many models, and brands. It\u2019s almost impossible to make the \u201cbest\u201d choice. You compare 6 models, then look for them across 10 different stores, and end up spending multiple hours choosing. Travel industry shares the same story. Booking a flight or a hotel is an incredible hustle. On average a regular traveler takes 16 hours and a week to decide on a flight. Add to that on average 4 flights a year and you\u2019ve got a month of browsing! The time waste is insane, on something some people don't like at all. I feel like people are turning to what they always wanted AI to do. Not create art or steal jobs, but take the boring tasks, the life drainers. Interfaces change. I just think about where the internet was 20 years ago. Looking at that I believe we're constantly looking for better ways to use the electronics. 21-22 years ago we were using websites that looked like a maze. Then we moved to mobile interfaces, simplified, easy to use and beautiful. Then VR. Now we're moving to AI. Here's my example: In the past 6 months our flight searches traffic grew so significantly that now about 70% of searches are done through AI. Behind those are still people, but through a completely different interface. The AI is doing it for them. Where I believe this is taking us: I believe personal agents didn't have their \"iPhone moment\" yet. I believe in the next 2-5 years we will move completely away from doing stuff on our computers, except gaming, watching movies, entertainment, or art. Just by looking who's joining the race of personal agents - Zuckerberg's Muse, Instinct raising at $10B valuation, and so many more startups, I think this is where we're going. What do you think?"
-    },
-    {
-      "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
-      "author": "sunychoudhary",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
-      "published": 1789647357.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
-    },
-    {
-      "title": "I wonder if AI agents and AI usage should have some kind of extra regulation for minors?",
-      "author": "Frank_ships_AI",
-      "url": "https://www.reddit.com/r/artificial/comments/1wirqzs/i_wonder_if_ai_agents_and_ai_usage_should_have/",
-      "published": 1789645664.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What I mean is, nowadays coding and creating AI agents with Claude and similar tools can be done much more easily by minors, without any real age verification beyond things like an email. I\u2019m not saying this is necessarily a bad thing if you are 15\u201d and you are able to create a SaaS or an Agent easily, then well done. However, just wonder if there should be a certain layer of KYC or age verification instead of relying mostly on emails and similar checks. You might say payment cards can be used for verification, but even those can be borrowed or used by someone else. Do you think some additional verification could make sense for certain AI agent capabilities, or would that just create unnecessary friction?"
-    },
-    {
-      "title": "The Part of AI Nobody Talks About: Losing the Joy of Creating",
-      "author": "BudgetCaterpillar946",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi6dfh/the_part_of_ai_nobody_talks_about_losing_the_joy/",
-      "published": 1789585171.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The Part of AI Nobody Talks About: Losing the Joy of Creating. AI can make all of that much faster. And honestly, that\u2019s amazing. But if AI eventually becomes capable of doing most of these things better than us, will we still enjoy doing them ourselves? Maybe the future isn\u2019t about humans competing with AI. Maybe it\u2019s about finding things worth doing even when we don\u2019t have to do them anymore."
+      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
     }
   ],
-  "fetched_at": "2026-09-17T12:42:34.832349+00:00"
+  "fetched_at": "2026-09-17T17:29:59.898567+00:00"
 }
