@@ -35,6 +35,39 @@
       "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?"
     },
     {
+      "title": "King Charles condemned over \u2018secretive\u2019 AI summit in Scotland",
+      "author": "ValuableDetail6",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/",
+      "published": 1789672659.0,
+      "thumbnail": "https://external-preview.redd.it/BGerKDv3GvTPK3w8RgAXRnP3RJMXGd4XY0fWUwHLbV0.jpeg?width=640&crop=smart&auto=webp&s=33cb8b3a94664e31cd432820389fd9ae8eb8e7d6",
+      "external_url": "https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/",
+      "site_name": "The National",
+      "favicon": "https://www.thenational.scot/resources/images/17401920/",
+      "description": "A SUMMIT organised by King Charles in Scotland with the world\u2019s biggest AI companies in attendance has been condemned as a \u201csecretive\u201d meeting\u2026"
+    },
+    {
+      "title": "Does it seem to anyone else like even frontier models have a very \"jagged\" range of capabilities?",
+      "author": "Extreme_Pudding3226",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/",
+      "published": 1789680082.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I mostly use Claude Opus 5 and 4.8. I'm amazed at the \"unevenness\" in capability across different tasks. In some domains, it makes me wonder how certain professions still exist. For example, I uploaded my company's bank statements for each month this year, and within five or ten minutes, it had eight individual monthly income statements and a YTD statement. It asked relevant questions, and it was phenomenal. It made me wonder how bookkeepers still exist. However, I also happened to ask it to analyze Anselm's Ontological Argument, which is a thousand year-old argument for the existence of god that is rejected by pretty much every philosopher today. It failed miserably. It was certain that the argument had merit, and more importantly, it didn't even get the potential reason for failure right and mischaracterized some important aspects of the argument. When I corrected it, it suddenly did a 180 and apologized profusely, but if I didn't have sufficient philosophical education to know better, I would have walked away with a completely incorrect understanding of the argument. In general, I've noticed it's very, very good at \"rule following\" tasks, like coding or bookkeeping or even moving through possible medical diagnoses or animal species identification. But in more open-ended, abstract tasks, like business strategy, it's quite bad. It's \"passable\" in the sense that someone who doesn't actually know anything might be fooled, but if you do have actual knowledge on the topic, it's bad. I wonder if some of the disparity in people's perceptions of LLM capability is due to 1) a difference in their tasks, and 2) a difference in their knowledge and understanding of the topic being discussed. I feel like I am regularly correcting Claude for being wrong or misrepresenting something. It then apologizes profusely, but if I didn't know better, I would have taken its authoritative tone at face value. Does anyone else use it for broad tasks and notice huge differences in capability across different domains? If so, how does this affect how you see the future of AI? It makes me inclined to think that we've oversold AI domination imminence in some fields, even if we've undersold it in others. It also makes me want to ask further questions whenever someone acts like AI can do absolutely anything and has revolutionized all aspects of their life: What do you actually know, what tasks are you using it for, and do you discuss topics about which you have actual expertise?"
+    },
+    {
+      "title": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
+      "author": "Capable-Blueberry653",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj6dyl/alex_karp_says_the_ai_safety_debate_is_really/",
+      "published": 1789679267.0,
+      "thumbnail": "https://external-preview.redd.it/W_uXTaDs8hbrTDvNOpRYtmY9SpiV98xRrIzW7ekaS2E.jpeg?width=640&crop=smart&auto=webp&s=f118752ed31afd74ea2f819f2635917c87cbb0cb",
+      "external_url": "https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability."
+    },
+    {
       "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
       "author": "sunychoudhary",
       "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
@@ -44,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
+    },
+    {
+      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/",
+      "published": 1789679803.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
@@ -57,17 +101,6 @@
       "description": "I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like \"oh wow, that actually works.\" The only version that actually scares me isn't \"China wins\" or \"USA wins.\" It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though."
     },
     {
-      "title": "What GPT-6 Astra\u2019s 99.9% ARC-AGI-3 Score Actually Measures",
-      "author": "mixtapedmonk",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj44au/what_gpt6_astras_999_arcagi3_score_actually/",
-      "published": 1789674177.0,
-      "thumbnail": "https://external-preview.redd.it/jPurFEy_BA4CC8Rch5xUsugRJpTMyJY9guBrnBon7Jg.jpeg?width=640&crop=smart&auto=webp&s=8683e538a6ccdb88f51f59fa4cd20535b6a57ac7",
-      "external_url": "https://srutiosocial.com/gpt-6-astra-arc-agi-3-score-explained/",
-      "site_name": "Srutio Social",
-      "favicon": "https://srutiosocial.com/wp-content/uploads/2026/06/cropped-cropped-logoMonogram_logo_on_paper_202606162314-180x180.jpg",
-      "description": "Spent way too long last week going through ARC Prize's actual results table instead of just screenshotting the headline number. Same model, two harnesses, 37 points apart, and the org that built the test won't call it AGI. Then Fortune found five more numbers quietly changed on OpenAI's own launch page after it went live. Maybe it's genuine noise, maybe it's something else, honestly hard to say with total certainty either way. Wrote up the whole harness breakdown plus the Llama 4 precedent. The article contains what I found along with all the official sources I checked during my research."
-    },
-    {
       "title": "AI is crushing maths but has barely touched medicine",
       "author": "LaCaipirinha",
       "url": "https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled \"Treatment\" and the words \"There is currently no known cure\". It's not good enough."
-    },
-    {
-      "title": "King Charles condemned over \u2018secretive\u2019 AI summit in Scotland",
-      "author": "ValuableDetail6",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj3fsf/king_charles_condemned_over_secretive_ai_summit/",
-      "published": 1789672659.0,
-      "thumbnail": "https://external-preview.redd.it/BGerKDv3GvTPK3w8RgAXRnP3RJMXGd4XY0fWUwHLbV0.jpeg?width=640&crop=smart&auto=webp&s=33cb8b3a94664e31cd432820389fd9ae8eb8e7d6",
-      "external_url": "https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/",
-      "site_name": "The National",
-      "favicon": "https://www.thenational.scot/resources/images/17401920/",
-      "description": "A SUMMIT organised by King Charles in Scotland with the world\u2019s biggest AI companies in attendance has been condemned as a \u201csecretive\u201d meeting\u2026"
-    },
-    {
-      "title": "Claude's habit of inventing rules to avoid helping is getting ridiculous",
-      "author": "qwentens",
-      "url": "https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/",
-      "published": 1789623338.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "1.Unsolicited warnings inserted where they dont belong. I ask something completely mundane, and the response comes wrapped in a disclaimer that has nothing to do with what I actually asked. 2.Silent reinterpretation of my message. I write a clear, specific request, claude answers a different, \"safer\" version of it without telling me it did that. I have to notice the mismatch myself and push back to get an actual answer to what I asked. 3.Rules that dont exist. Sometimes it cites a restriction that isn't real it just sounds like a plausible reason to refuse. When pushed, the \"rule\" quietly changes or disappears. 4.When you actually get it to drop the act, the real answer is basically \"I just dont want to.\" no policy, no explanation, just a refusal dressed up as one until you dig through it. \"Done\" means nothing until you interrogate it. I ask for the whole task, get \"done, all implemented.\" I ask \"did you actually finish everything?\" answer was \"Honestly, no...\" This is not a one time slip, it is a loop, confident claim, pushback, partial confession, repeat. The first answer is never the true one!! Scope inflation as a stalling tactic. Ask it to start something large, and before writing a single line it opens with \"this will take years/months of work.\" Nobody asked for a timeline. It is not caution, it is a way to avoid starting dressed up as diligence. I'm not asking for anything sketchy in these situations, which is what makes it so frustrating. I'm paying for a tool, not trying to negotiate with someone just to get some help. If there's a genuine restriction, tell me what it is. If there isnt, just help me. Anyone else running into this more often lately? Curious if its a recent shift or just more visible now."
-    },
-    {
-      "title": "llms got good at text and stayed bad at tables. i don't think \"less training data\" is the reason",
-      "author": "FamiliarSlide7685",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj2jub/llms_got_good_at_text_and_stayed_bad_at_tables_i/",
-      "published": 1789670722.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "give a model a paragraph and it does fine. give it a column called ref_4 holding 11 character strings and it has nothing. not less signal, nothing. the values are opaque by design and the column name was an abbreviation someone stopped explaining in 2019. the standard answer is that there is less tabular data in the training mix. i don't think that's most of it. text carries its meaning in the tokens. a table doesn't. the meaning of a column sits in three places outside the column: what it joins to, what the neighbouring columns hold, and what someone who used the app remembers about which screen it was on. so the model isn't undertrained here, it's undersupplied. parameters don't recover information that was never in the input. the actual question, which i can't settle: is this a representation problem, where you feed in the join graph, the cardinalities, the value distributions, and a good enough architecture gets there or is a chunk of it irreducible, where the column means whatever the person who left in 2021 decided it meant and no amount of compute brings that back i lean irreducible for some fraction of it and i would like to be argued out of that. relevant bias: we build in this space, and we hit the same wall. our models do well on free text fields and noticeably worse on short code columns, for exactly the reason above, and that gap has not closed as models got bigger. that's a data point against my own optimism, not for it. adjacent, if anyone has a real answer: text-to-sql agents demo beautifully on a 12 table schema and fall apart around 300. everyone repeats this and nobody has written down where the break actually happens or what causes it. retrieval, context, or real schemas being ambiguous in ways demo schemas aren't."
     }
   ],
-  "fetched_at": "2026-09-17T20:31:10.122810+00:00"
+  "fetched_at": "2026-09-17T23:24:49.943227+00:00"
 }
