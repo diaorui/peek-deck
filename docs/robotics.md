@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-17T20:31:30.968607+00:00'
+updated: '2026-09-17T23:25:08.793836+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 17, 2026 at 20:31 UTC  
+**Last Updated:** September 17, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,6 +112,14 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+
+Seeing is Believing
+
+citriniresearch.com • 1d ago
+
+---
+
 **[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
 
 Bloomberg.com • 2d ago
@@ -122,7 +130,7 @@ Bloomberg.com • 2d ago
 
 The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees.
 
-Interesting Engineering • 7h ago
+interestingengineering.com • 10h ago
 
 ---
 
@@ -132,17 +140,11 @@ OregonLive.com • 2d ago
 
 ---
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+**[Helix 2.5: Zero-Shot 30-Home Generalization](https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization)**
 
-Seeing is Believing
+Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
 
-citriniresearch.com • 1d ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 7h ago
+Figure • 10h ago
 
 ---
 
@@ -150,15 +152,21 @@ SpaceNews • 7h ago
 
 The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
 
-MIT News • 16h ago
+MIT News • 19h ago
 
 ---
 
-**['Scoff at your own risk:’ Viral investment research firm says AI robots are a coming mega-trend](https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html)**
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
+SpaceNews • 10h ago
 
-Yahoo Finance • 10h ago
+---
+
+**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+
+Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+
+The Conversation • 21h ago
 
 ---
 
@@ -170,19 +178,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+**[David L. Lawrence Convention Center brimming with robotics, AI during discovery day](https://www.yahoo.com/news/science/articles/david-l-lawrence-convention-center-203609372.html)**
 
-Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+Channel 11 got an up-close look at the future of robotics Wednesday.
 
-The Conversation • 18h ago
-
----
-
-**[Japanese Company Develops A Humanoid Robot 'Ambulance' For On-The-Spot Repairs](https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/)**
-
-It turns out that breaking down at work isn’t a uniquely human experience.
-
-Engadget • 21h ago
+Yahoo • 2h ago
 
 ---
 
@@ -190,61 +190,13 @@ Engadget • 21h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robotic-Gathoni🤖🥰 #robot #robotics #fyp](https://www.youtube.com/watch?v=wdnbeCQdyOM)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-📺 Robotic Haika🤖💖
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-👁️ 1K • 👍 25 • ⏱️ 0:25 • 5h ago
+📺 MindSeeded
 
----
-
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
-
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
-
-📺 ejunky66
-
-👁️ 2K • 👍 106 • 💬 6 • ⏱️ 1:00 • 7h ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 87K • 👍 825 • 💬 607 • ⏱️ 13:22 • 6d ago
-
----
-
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
-
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
-
-📺 The AI Nexus
-
-👁️ 24K • 👍 302 • 💬 20 • ⏱️ 24:48 • 5d ago
-
----
-
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 89K • 👍 1K • 💬 224 • ⏱️ 0:25 • 6d ago
-
----
-
-**[Why robots welcome All-Solid-State Batteries](https://www.youtube.com/watch?v=7HeOPQtKg9c)**
-
-We recommend watching with YouTube subtitles Audio and subtitles are available in both English and Korean. Even robots get ...
-
-📺 삼성SDI
-
-👁️ 165K • 👍 22 • ⏱️ 0:54 • 1d ago
+👁️ 104K • 👍 4K • 💬 490 • ⏱️ 16:24 • 7h ago
 
 ---
 
@@ -254,7 +206,47 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 1.3M • 👍 4K • 💬 2K • ⏱️ 2:28 • 5d ago
+👁️ 1.3M • 👍 5K • 💬 2K • ⏱️ 2:28 • 6d ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 87K • 👍 827 • 💬 611 • ⏱️ 13:22 • 6d ago
+
+---
+
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
+
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
+
+📺 DPCcars
+
+👁️ 935 • 👍 36 • 💬 3 • ⏱️ 2:56 • 9h ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 89K • 👍 1K • 💬 226 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 24K • 👍 314 • 💬 20 • ⏱️ 24:48 • 5d ago
 
 ---
 
@@ -264,27 +256,37 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 521K • 👍 6K • 💬 785 • ⏱️ 27:23 • 5d ago
+👁️ 531K • 👍 6K • 💬 787 • ⏱️ 27:23 • 5d ago
 
 ---
 
-**[Automated Robotic Arm Unpacking And Emptying Plastic Sacks](https://www.youtube.com/watch?v=Nc4BYzCE7zM)**
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
 
-Discover how an advanced robotic system uses precision automation to pick up stacked plastic sacks, cut them open, and empty ...
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
 
-📺 MNTechCrafts
+📺 Ai Futuristic Robotics
 
-👁️ 5K • 👍 45 • ⏱️ 0:05 • 5h ago
+👁️ 42K • 👍 350 • 💬 36 • ⏱️ 18:12 • 4d ago
 
 ---
 
-**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
+**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
+New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
 
-📺 PRO ROBOTS
+📺 Baprimo
 
-👁️ 23K • 👍 214 • 💬 28 • ⏱️ 16:01 • 5d ago
+👁️ 201K • 👍 1K • 💬 12 • ⏱️ 12:08 • 5d ago
+
+---
+
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+
+📺 ejunky66
+
+👁️ 4K • 👍 170 • 💬 7 • ⏱️ 1:00 • 9h ago
 
 ---
 
