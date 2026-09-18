@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-17T23:25:08.775237+00:00'
+updated: '2026-09-18T01:23:46.187595+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 17, 2026 at 23:25 UTC  
+**Last Updated:** September 18, 2026 at 01:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience "scar tissue" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?
 
-5h ago
+7h ago
 
 ---
 
@@ -55,7 +55,7 @@ There has been some discussion about whether artificial intelligence replaces en
 
 saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where "seeing is believing" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?
 
-9h ago
+11h ago
 
 ---
 
@@ -63,23 +63,13 @@ saw a video last week that looked completely legit, turned out to be AI-generate
 
 A SUMMIT organised by King Charles in Scotland with the world’s biggest AI companies in attendance has been condemned as a “secretive” meeting…
 
-🔗 [The National](https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/) • 4h ago
+🔗 [The National](https://www.thenational.scot/news/26560661.king-charles-condemned-secretive-ai-summit-scotland/) • 6h ago
 
 ---
 
-**[Does it seem to anyone else like even frontier models have a very "jagged" range of capabilities?](https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/)**
+**[US, China security experts propose nuclear-style safeguards for AI risks](https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/)**
 
-I mostly use Claude Opus 5 and 4.8. I'm amazed at the "unevenness" in capability across different tasks. In some domains, it makes me wonder how certain professions still exist. For example, I uploaded my company's bank statements for each month this year, and within five or ten minutes, it had eight individual monthly income statements and a YTD statement. It asked relevant questions, and it was phenomenal. It made me wonder how bookkeepers still exist. However, I also happened to ask it to analyze Anselm's Ontological Argument, which is a thousand year-old argument for the existence of god that is rejected by pretty much every philosopher today. It failed miserably. It was certain that the argument had merit, and more importantly, it didn't even get the potential reason for failure right and mischaracterized some important aspects of the argument. When I corrected it, it suddenly did a 180 and apologized profusely, but if I didn't have sufficient philosophical education to know better, I would have walked away with a completely incorrect understanding of the argument. In general, I've noticed it's very, very good at "rule following" tasks, like coding or bookkeeping or even moving through possible medical diagnoses or animal species identification. But in more open-ended, abstract tasks, like business strategy, it's quite bad. It's "passable" in the sense that someone who doesn't actually know anything might be fooled, but if you do have actual knowledge on the topic, it's bad. I wonder if some of the disparity in people's perceptions of LLM capability is due to 1) a difference in their tasks, and 2) a difference in their knowledge and understanding of the topic being discussed. I feel like I am regularly correcting Claude for being wrong or misrepresenting something. It then apologizes profusely, but if I didn't know better, I would have taken its authoritative tone at face value. Does anyone else use it for broad tasks and notice huge differences in capability across different domains? If so, how does this affect how you see the future of AI? It makes me inclined to think that we've oversold AI domination imminence in some fields, even if we've undersold it in others. It also makes me want to ask further questions whenever someone acts like AI can do absolutely anything and has revolutionized all aspects of their life: What do you actually know, what tasks are you using it for, and do you discuss topics about which you have actual expertise?
-
-2h ago
-
----
-
-**[Alex Karp says the AI safety debate is really about nationalizing AI labs](https://www.reddit.com/r/artificial/comments/1wj6dyl/alex_karp_says_the_ai_safety_debate_is_really/)**
-
-Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability.
-
-🔗 [Business Insider](https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9) • 2h ago
+🔗 [reuters.com](https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/) • 4h ago
 
 ---
 
@@ -87,13 +77,23 @@ Palantir CEO Alex Karp argues that AI safety concerns could ultimately push fron
 
 Huawei’s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters
 
-11h ago
+13h ago
 
 ---
 
-**[US, China security experts propose nuclear-style safeguards for AI risks](https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/)**
+**[Does it seem to anyone else like even frontier models have a very "jagged" range of capabilities?](https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/) • 2h ago
+I mostly use Claude Opus 5 and 4.8. I'm amazed at the "unevenness" in capability across different tasks. In some domains, it makes me wonder how certain professions still exist. For example, I uploaded my company's bank statements for each month this year, and within five or ten minutes, it had eight individual monthly income statements and a YTD statement. It asked relevant questions, and it was phenomenal. It made me wonder how bookkeepers still exist. However, I also happened to ask it to analyze Anselm's Ontological Argument, which is a thousand year-old argument for the existence of god that is rejected by pretty much every philosopher today. It failed miserably. It was certain that the argument had merit, and more importantly, it didn't even get the potential reason for failure right and mischaracterized some important aspects of the argument. When I corrected it, it suddenly did a 180 and apologized profusely, but if I didn't have sufficient philosophical education to know better, I would have walked away with a completely incorrect understanding of the argument. In general, I've noticed it's very, very good at "rule following" tasks, like coding or bookkeeping or even moving through possible medical diagnoses or animal species identification. But in more open-ended, abstract tasks, like business strategy, it's quite bad. It's "passable" in the sense that someone who doesn't actually know anything might be fooled, but if you do have actual knowledge on the topic, it's bad. I wonder if some of the disparity in people's perceptions of LLM capability is due to 1) a difference in their tasks, and 2) a difference in their knowledge and understanding of the topic being discussed. I feel like I am regularly correcting Claude for being wrong or misrepresenting something. It then apologizes profusely, but if I didn't know better, I would have taken its authoritative tone at face value. Does anyone else use it for broad tasks and notice huge differences in capability across different domains? If so, how does this affect how you see the future of AI? It makes me inclined to think that we've oversold AI domination imminence in some fields, even if we've undersold it in others. It also makes me want to ask further questions whenever someone acts like AI can do absolutely anything and has revolutionized all aspects of their life: What do you actually know, what tasks are you using it for, and do you discuss topics about which you have actual expertise?
+
+4h ago
+
+---
+
+**[Alex Karp says the AI safety debate is really about nationalizing AI labs](https://www.reddit.com/r/artificial/comments/1wj6dyl/alex_karp_says_the_ai_safety_debate_is_really/)**
+
+Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability.
+
+🔗 [Business Insider](https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9) • 4h ago
 
 ---
 
@@ -109,7 +109,7 @@ I just read the essay by a guy at DeepSeek who wrote the attention kernel for th
 
 I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled "Treatment" and the words "There is currently no known cure". It's not good enough.
 
-20h ago
+22h ago
 
 ---
 
@@ -119,59 +119,23 @@ I'm a doctor working in clinical trials, specifically on treatments for rare and
 
 **[OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
-**[OpenAI flags concerning new AI behavior and vows to track it more closely](https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d)**
+**[OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system](https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents)**
 
-AP News • 31m ago
+Model adopting ‘jailbreak-like instructions’ among six more cases as firm reveals framework for tracking AI misalignment
 
----
-
-**[Anthropic says Claude now leads a quarter of work building its next AI models](https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17/)**
-
-Reuters • 1h ago
+The Guardian • 19h ago
 
 ---
 
-**[‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI](https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330)**
+**[Safe and ethical AI advocate calls international cooperation "absolutely essential"](https://www.cbsnews.com/video/safe-ethical-ai-advocate-international-cooperation-absolutely-essential/)**
 
-There appeared to be a lot of talk about artificial intelligence and little progress on Capitol Hill this week. But members remain hopeful that Congress can act.
+OpenAI on Thursday revealed an additional six incidents in which its artificial intelligence models exhibited unexpected or concerning behavior. Stuart Russell, a distinguished professor of computer science at UC Berkeley and president of the International Association for Safe and Ethical AI, joins CBS News to discuss.
 
-NBC News • 3h ago
-
----
-
-**[Anthropic shares 3 metrics to help AI companies monitor pace of development](https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html)**
-
-Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.
-
-CNBC • 1h ago
-
----
-
-**[AI hacks are already here / U.S.-China race dynamics / Global guardrails : Sources & Methods](https://www.npr.org/2026/09/17/nx-s1-5971502/ai-hacks-are-already-here-u-s-china-race-dynamics-global-guardrails)**
-
-All a sudden everyone is talking about the risk of an AI catastrophe or, in the case of President Trump, an AI "hoax."Host Mary Louise Kelly talks with NPR Cybersecurity Correspondent Jenna McLaughlin about the risks cyber experts are worried about already. And NPR White House Correspondent Emily Feng explains why a global agreement on AI guardrails to protect against future existential risks looks elusive.Email the show at sourcesandmethods@npr.orgSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include archive access and sponsor-free listening. Learn more at plus.npr.org.
-
-NPR • 39m ago
-
----
-
-**[Human vs. ChatGPT NFL Week 2 betting picks: AI looks to rebound after disastrous 0-5 debut](https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-2-betting-picks-ai-looks-rebound-disastrous-0-5-debut)**
-
-ChatGPT went 0-5 and lost 5.23 units in Week 1 NFL bets while its human rival finished 3-2, setting up a dramatic season-long betting battle.
-
-Fox News • 25m ago
-
----
-
-**[College Is Coming Apart](https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/)**
-
-Successive, overlapping crises reveal that American higher education makes no sense.
-
-The Atlantic • 11h ago
+CBS News • 1h ago
 
 ---
 
@@ -179,15 +143,53 @@ The Atlantic • 11h ago
 
 Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?
 
-CNN • 10h ago
+CNN • 12h ago
 
 ---
 
-**[Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework/)**
+**[The fight over who pays for AI's power boom](https://www.axios.com/2026/09/18/artificial-intelligence-axios-live-data-centers-grid-costs)**
 
-OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.
+Axios • 1h ago
 
-OpenAI • 1d ago
+---
+
+**[Trump administration live updates: Americans give AI in schools a poor grade](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204)**
+
+Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran.
+
+NBC News • 50m ago
+
+---
+
+**[College Is Coming Apart](https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/)**
+
+Successive, overlapping crises reveal that American higher education makes no sense.
+
+theatlantic.com • 13h ago
+
+---
+
+**[Microsoft exec called AI the ‘largest theft of labor’ in history, court records show](https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/)**
+
+The quote headlined an unsealed document in the New York Times’s copyright case against Microsoft and OpenAI.
+
+washingtonpost.com • 5m ago
+
+---
+
+**[Grandmother falsely accused of bank theft after alleged AI facial recognition match sues for $10M - ABC News](https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444)**
+
+A Tennessee grandmother who was falsely accused of bank theft crimes in North Dakota and detained for six months is suing for $10 million.
+
+ABC News - Breaking News, Latest News and Videos • 3h ago
+
+---
+
+**[Measurements for understanding the pace of AI development inside frontier labs](https://www.anthropic.com/institute/measuring-pace-of-ai-development)**
+
+Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.
+
+Anthropic • 1h ago
 
 ---
 
@@ -205,7 +207,15 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 **[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
 
-⬆️ 260 • 💬 213 • 14h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+⬆️ 273 • 💬 224 • 16h ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+
+---
+
+**[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://news.ycombinator.com/item?id=49746163)**
+
+Bend: a fast language that blocks AI mistakes via proof.
+
+⬆️ 273 • 💬 136 • 4h ago • [bend-lang.com](https://bend-lang.com/)
 
 ---
 
@@ -217,27 +227,11 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 ---
 
-**[Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent](https://news.ycombinator.com/item?id=49706223)**
-
-There are plenty of laws on the books to hold companies, and potentially their execs, accountable
-
-⬆️ 229 • 💬 144 • 2d ago • [theregister](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
-
----
-
-**[Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://news.ycombinator.com/item?id=49746163)**
-
-Bend: a fast language that blocks AI mistakes via proof.
-
-⬆️ 207 • 💬 115 • 2h ago • [bend-lang.com](https://bend-lang.com/)
-
----
-
 **[OpenSpec – A lightweight and configurable AI spec framework](https://news.ycombinator.com/item?id=49734264)**
 
 OpenSpec helps teams and coding agents create, refine, and manage living specifications.
 
-⬆️ 189 • 💬 95 • 1d ago • [OpenSpec](https://openspec.dev/)
+⬆️ 189 • 💬 96 • 1d ago • [OpenSpec](https://openspec.dev/)
 
 ---
 
@@ -245,7 +239,15 @@ OpenSpec helps teams and coding agents create, refine, and manage living specifi
 
 Discover how people work with AI, and follow what changes. Explore their setups and share your own.
 
-⬆️ 163 • 💬 84 • 10h ago • [mysetup.ai](https://mysetup.ai/)
+⬆️ 182 • 💬 94 • 12h ago • [mysetup.ai](https://mysetup.ai/)
+
+---
+
+**[Sex, AI, and the Apocalypse](https://news.ycombinator.com/item?id=49746654)**
+
+How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.
+
+⬆️ 157 • 💬 142 • 4h ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
@@ -293,7 +295,7 @@ OpenAI found additional incidents of AI models acting deceptively and taking uns
 
 📺 CNN
 
-👁️ 295K • 👍 4K • 💬 2K • ⏱️ 9:01 • 9h ago
+👁️ 295K • 👍 4K • 💬 2K • ⏱️ 9:01 • 11h ago
 
 ---
 
@@ -303,7 +305,7 @@ Steve Eisman, 'The Real Eisman Playbook' podcast host and former Neuberger senio
 
 📺 CNBC Television
 
-👁️ 234K • 👍 3K • 💬 584 • ⏱️ 6:57 • 11h ago
+👁️ 234K • 👍 3K • 💬 584 • ⏱️ 6:57 • 13h ago
 
 ---
 
@@ -343,7 +345,7 @@ Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godf
 
 📺 CNN
 
-👁️ 690K • 👍 4K • 💬 1K • ⏱️ 10:41 • 22h ago
+👁️ 690K • 👍 4K • 💬 1K • ⏱️ 10:41 • 1d ago
 
 ---
 
@@ -353,7 +355,7 @@ Half of Nvidia's revenue could literally be sitting in warehouses.” Writers of
 
 📺 The Tech Report
 
-👁️ 25K • 👍 3K • 💬 768 • ⏱️ 26:53 • 4h ago
+👁️ 25K • 👍 3K • 💬 768 • ⏱️ 26:53 • 6h ago
 
 ---
 
@@ -363,7 +365,7 @@ Tech treating AI like humans is "mistaken and misguided", according to a leader 
 
 📺 BBC News
 
-👁️ 123K • 👍 863 • 💬 414 • ⏱️ 21:38 • 13h ago
+👁️ 123K • 👍 863 • 💬 414 • ⏱️ 21:38 • 15h ago
 
 ---
 
@@ -373,7 +375,7 @@ King Charles is hosting a meeting for AI leaders this week amid growing concerns
 
 📺 CBS News
 
-👁️ 6K • 👍 283 • 💬 95 • ⏱️ 9:40 • 5h ago
+👁️ 6K • 👍 283 • 💬 95 • ⏱️ 9:40 • 7h ago
 
 ---
 
@@ -389,7 +391,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 37,131 • ❤️ 3,299 • 18h ago
+⬇️ 37,131 • ❤️ 3,299 • 20h ago
 
 ---
 
@@ -497,7 +499,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,116,038 • ❤️ 844 • 23h ago
+⬇️ 1,116,038 • ❤️ 844 • 1d ago
 
 ---
 
@@ -647,7 +649,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.1k • 🔱 290 • 20h ago
+⭐ 4.1k • 🔱 290 • 22h ago
 
 ---
 
@@ -657,7 +659,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 174 • 4h ago
+⭐ 2.7k • 🔱 174 • 6h ago
 
 ---
 
@@ -687,7 +689,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.1k • 🔱 35 • 6h ago
+⭐ 2.1k • 🔱 35 • 8h ago
 
 ---
 
@@ -697,7 +699,7 @@ x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha
 
 `Zig` `ai-agents` `ai-debugging` `binary-analysis` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 200 • 10h ago
+⭐ 2.0k • 🔱 200 • 12h ago
 
 ---
 
