@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
+      "pub_date": 1789756320.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -15,24 +25,14 @@
       "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint."
     },
     {
-      "headline": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJoVjIwS3gwelR2MUF3bnEtSlZfVjZuZ1dUY1hZWFIzeHZBbTZ4RmtPa08xR1J5eTduTTViZnY5cHNkZjNFQnFBNVB5eDB5dF9SYkRPNE5kNVVjRUVVXzFpNjBfOXBiNFZZZVgwUUNhMlRSTVA3T2VWUllLenlZR3NaUVdzOXdoVWxuNWVhR3RsekxjNFo2NUFwWTZHVDQ0SkZ4NlBmVlhIaEhDZUUwY05lemlrZw?oc=5",
-      "pub_date": 1789758074.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3548c11431a517c6030291bf9f6ba1276cefd01-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen."
-    },
-    {
-      "headline": "Bitcoin\u2019s Fifth-Wave Rally Can Target $93K",
-      "source": "Investing.com Nigeria",
-      "source_url": "https://ng.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTJ2d3FFSmNhcnh1dl94YURsN1VHWG1iOVo4NFpxdF9LLU1XS09hS3prNk5kSHp4NURXdEtqV2dnTVI3eld0dkVPM1BZT0NWdXE5aW93TFpmRVJBM0ZQUUFkZFRycmRHY0hLWDlGS2d5SEs5UWtnUE40Q09MNVpvQmNkdHZyRDA?oc=5",
-      "pub_date": 1789764199.0,
-      "article_url": "https://ng.investing.com/analysis/bitcoins-fifthwave-rally-can-target-93k-219465",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin\u2019s Production Cost Is $78,000. What Happens When Miners Lose Money?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUVJdlBhUl9fdkc5enF2NGpxVHktSkUyQ25GYk1hcTR1R1VELU5GQnFqMkhSMW43YmN5aF81UUtyWVdCcmI1a0xfbmZCNkx6NzVGcXRLUWVRUzRGRzBpbVA4U3hfRW1JQVNlWHJDZ29wMDFYc2xsWFgwUVFYcTdnWWxtelJTZ2NWYWNjRnpONVNfdHFORzlSbXRNZw?oc=5",
+      "pub_date": 1789772386.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-production-cost-78-000-225946967.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2d82fe14b323e03dd12ba5be27db2f3550bf064234df3df1bf81323753ffecaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9e0d2e7ae3ddd3071fa5033b94fca0cb.jpg",
+      "description": "JPMorgan pegs Bitcoin's production cost above its current market price, and miners have already broken records to stay afloat. What built-in network forces determine whether this becomes a prolonged bleed or a setup for recovery?"
     },
     {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
@@ -45,6 +45,46 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
+      "headline": "Bitcoin Price Forecast: BTC/USD 42% Rally Puts Major Trend Reversal in Play",
+      "source": "FOREX.com",
+      "source_url": "https://www.forex.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNzJMN2VldVU0MEFSbzgxcWVSZkwzTTc0Zm1TYmFpYVJqNEZpa19FNjVFMkZhakt1SUwwZm5oSjlrWG5mWnFBSmctbmJYUFBlUEhUVnRSZUc0UkQ0NndMd0t2QWt6OG5Ta0lqNTVzMFZaV05vNncyX2JVRFhYMTRjMkhDUzhpdHFfdFRjaHJVX2JNRlZDM2lpbW5ZazhsUy12Vm9RLW5zenp5WW9CQkpOU1ZSdDQ2RDVNN1FoQlpHTHV5VFAyODYzc2duTGdUQQ?oc=5",
+      "pub_date": 1789751608.0,
+      "article_url": "https://www.forex.com/en-sg/news-and-analysis/bitcoin-price-forecast-btc-usd-42pct-rally-puts-major-trend-reversal-in-play-9-18-2026/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGZvQmlYX2lYWEpualpDbXBXS0NOZGc5cThPOW81c1VnVGI4dDEtYXZaQ2xJZUlPckRoeVVXUjB2S09UejVsX2NaTGdpcXZlUWRheUdzNmhDQW94V0dubjFxNHlFemtYNkpIUFZxbVdjM0c0YlJLZkU1bU5vaVRRMDBn?oc=5",
+      "pub_date": 1789667331.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
+      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
+      "description": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts."
+    },
+    {
+      "headline": "Why Bitcoin Is Up Today",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdUlfRXplbjNVTThoZzZqWGF2MjlvU1RlMjh1aEF0TFRCWkZTX19Ia0JBNGxWYXFIYjVZNmd1aGpNSml0V1dGZDJpQWx2VVBBaTE1SzY1Y3Q1bFBaRUhLT1QtUUtfelZiblowc0lvaHVKOGlK?oc=5",
+      "pub_date": 1789761480.0,
+      "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
+      "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
+    },
+    {
+      "headline": "Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOGdQQ0k4UTRxd2tiLVdvUWRuSWd2NTNDSXN4Y3ZUTXcteTZvakgzLWlicjF4Wm1OcmQ1eVRyWm9Vd1lLdWZDamlhQzl5RzlPMVdnVXhGTk54N1U2VHhIQzRDUG5xUlRmdlJ0YnlrbXJfa284MnJvc1drendZM3g0X1ZYX3FIQmtYVUNiSlpuQmNpa0MxdjgxQms1RlZzUURGVnZabWJSRFdrU0tYZ05zYUVqN2xPRUZOb0pKanluTHdmUHVITkpwMVRBaHYtX1VUczQ4Zk5aTDd2eVFIalV4YUdtaFpmRDROY3kzQXE0bXRjSHJNd002QVVn?oc=5",
+      "pub_date": 1789763511.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:0b65b62fb094b:0-strive-acquires-469-bitcoin-worth-36-6m-through-preferred-stock-trades-pushing-holdings-to-25-000-btc/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Strive, Inc. has added 469 Bitcoin to its treasury over a four-day stretch, spending approximately $36.6 million at an average price of $77,954 per coin. The purchase, executed between September 8 and 11, pushes the Nasdaq-listed asset management firm's total Bitcoin stash to a clean 25,000 BTC, wo\u2026"
+    },
+    {
       "headline": "Current price of Bitcoin for September 18, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -55,26 +95,6 @@
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
-      "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
-      "pub_date": 1789698773.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1885.png",
-      "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
-    },
-    {
-      "headline": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGZvQmlYX2lYWEpualpDbXBXS0NOZGc5cThPOW81c1VnVGI4dDEtYXZaQ2xJZUlPckRoeVVXUjB2S09UejVsX2NaTGdpcXZlUWRheUdzNmhDQW94V0dubjFxNHlFemtYNkpIUFZxbVdjM0c0YlJLZkU1bU5vaVRRMDBn?oc=5",
-      "pub_date": 1789667331.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
-      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
-      "description": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts."
-    },
-    {
       "headline": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
@@ -83,28 +103,8 @@
       "article_url": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-26.jpg",
       "description": "Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk."
-    },
-    {
-      "headline": "Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQei05SGU3aXVHRnhnRVhyQ1ByS3RrVENiQzRjaHJTQ1JZOWFabldZR3Jkc29VbFpxVVJvdjl4ck1LZTlnSjd3ZDU3UDE3OHNqTXU0SGQxZ1ZBb1BnQlVJcVp2eHNfQmFxaThseGJWckJhV3ozS3dkaW1oVzlhcWpLVW44WjkxcFhJTlpUN2dObm5Wb2kzS1BvTGlKT1A0MXNRSWd0b3ZMVnJLTTZFVGhOeV95d0NmYU9ZTzUtUTFLYlgwazBoMENVbTNiVWxocjFxVHFkQmNKdHJUU2daMVYzRld0UzdRU0VLYmV2eEhscXdDZXJpR29DQ0ZLZjk?oc=5",
-      "pub_date": 1789630238.0,
-      "article_url": "https://www.businesswire.com/news/home/20260917945475/en/Bitcoin-Life-Granted-Full-Life-Insurance-Licence-Launches-Regulated-Bitcoin-Product-for-International-Investors",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy CEO Says 'We're Never Going To Stop' Buying Bitcoin as MSTR Surges 11%",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY3ZuUF9NZkZkRXJ6WlR0ZEVaYzlEeUpFMnRYWVF3dE1PMU9CM3dfWXNkX0JCdGM4NmVPWjdWR3pyaDhZbHVvSXhQckowdHpzQmx3OEF5ZkJSV0ItY3ZQRTdzZEZrblFJSDBfYzdRT2NpeDhhVW1oUWZuOWE1bnF1cTJwVEZ3TDZGcDRjQkJkXzJHNFJVUzhLSGJRUDd0MXR2cjFfd1NoUXI4bzhHNk1tTWgtLVl1ZWgwTG5OdzhONXgxcUwxalo5LVRBTWVrdDBxYkR3?oc=5",
-      "pub_date": 1789748116.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61874434/strategy-ceo-says-were-never-going-to-stop-buying-bitcoin-as-mstr-surges-11",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/18/Apex--North-Carolina---May-7-2025-Strate.jpg",
-      "description": "MSTR stock jumps 11% as Strategy CEO Phong Le vows to keep buying Bitcoin while allowing small strategic sales."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T21:34:04.588011+00:00"
+  "fetched_at": "2026-09-18T23:55:36.138659+00:00"
 }
