@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
-      "source": "CNN",
+      "source": "cnn.com",
       "source_url": "https://www.cnn.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
       "pub_date": 1789750550.0,
@@ -15,8 +15,8 @@
       "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
     },
     {
-      "headline": "Report: US almost boarded Chinese ship over hallucinated AI arms report",
-      "source": "Ars Technica",
+      "headline": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "source": "arstechnica.com",
       "source_url": "https://arstechnica.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2xvcFBzUkVBYmdJYjU5eW1PSC1ZOGxGSVVPb1VGOG53Zi1rRnhfb25xVGtRdFp1THpmeGR2T1RQbUFJOUFGcjNjYmZwZW1aV1RJb2NPNFd5MWhRX0hKMjg4LTVqYmUwaWxUN3JFUjRVaDJkRTN6bnh3eTdLNnRYWmNZNFJwMExLQXY5Mm94Ry1rT1paWFBXV2RsVldSa01ZWXJJTU4zaHc4Zw?oc=5",
       "pub_date": 1789763193.0,
@@ -25,86 +25,86 @@
       "description": "But the military's overall use of AI seems to be accelerating."
     },
     {
-      "headline": "The Military\u2019s Bogus AI \u2018Almost Started a War\u2019 With China: Report",
-      "source": "Rolling Stone",
-      "source_url": "https://www.rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmZPTnQ1VWh1eHprWkV0bjJmVy13Y2Q5RXo2YkxsT05yRFdQb19pdVJHSG96MVZONGVLSW9VS29VS1Z4djI3N0s0WlVjcElZb3NVNXBuYWFVZ3FaVVdUZFZiRVpUUklpenkxdkRGblYzY3NYVGE5VllCc0ozWTB5QXI1N0E3Vzc1bmwzS1F3?oc=5",
-      "pub_date": 1789762695.0,
-      "article_url": "https://www.rollingstone.com/politics/politics-news/military-ai-war-china-1235628962/",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2026/09/pete-hegseth-ship.jpg?crop=0px%2C14px%2C1798px%2C1014px&resize=1600%2C900",
-      "description": "The U.S. military almost boarded a Chinese ship because of bogus intelligence produced by AI, CNN reports."
+      "headline": "AI hallucination nearly triggers US military operation",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaGZya2Yyb0Nqa0ZvZDc1TUQ1eDA2bUhpNEREVjR6QUl2aGxTUXNza0NWRkUtb1k0dzM3MWN4ZUh6aFBLYWpkd25KbkNGWUk5UlpsdEN4MFNWYXZUNTBmWEVkbTdudW9weXlRYmRhMng1MUxJWnc1ODlFSERTNk41TU85N2dnNlVGMG5waFloS0RCVGM?oc=5",
+      "pub_date": 1789773152.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/ai-hallucination-nearly-triggers-us-231232206.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8063f4f0a1dceb5f5e062529683aa29b2be70d1f691184dac57920d2cb3f06e6/lightyear_networkapi/resizefill_w1000_h593%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F244a21c5012ca60350274efc3cdd14c2.jpg",
+      "description": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+    },
+    {
+      "headline": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
+      "pub_date": 1789769400.0,
+      "article_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Leaders say Pittsburgh-area's infrastructure is \"ready\" for AI",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa21BdDVFbl9KblpOMlJPSzNRWFB6amw5aUhwSXpUZ1JiQS1KTGRzWUhnanN6a25yOHJ1eWpqaVhidmxSOThjS19OcU4zdjFLaFNyZ3RGak0wYlNkdldvWEJhMkJCaEd0cGg5UzBFV3pvMWZleEE3dTM3MW12emVNV2lKajlZdEtWSnNoejZBdERENl93ODRlemhzaGZoWHM0SE9n?oc=5",
+      "pub_date": 1789772520.0,
+      "article_url": "https://www.cbsnews.com/pittsburgh/video/leaders-say-pittsburgh-areas-infrastructure-is-ready-for-ai/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/e7e05cd3-4b3e-4cc6-8d74-9febcef98d33/thumbnail/1200x630/2285e8d19858e5ff13fc28b0acd98ada/7e09f27a9d43ebd4c0a1419440dd6099.jpg",
+      "description": "Global leaders gathered together for a second day in Bakery Square for the AI Horizons Summit. A big topic discussed Friday was the critical role of infrastructure and how it is changing to keep up with a new world of AI technology. KDKA's Erika Stanish reports."
+    },
+    {
+      "headline": "Woman sues North Dakota city after she says AI wrongly landed her in jail",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHBhQjBrOUJtdFJ6WTB0S2txNTlhdDUzRnJCcnZsQzZBaEM0OXNvTzVEc01NaGxUeHRveGVJMEhGdW5xcXA2TkxUTXhXUW1jc2xtV2ljbGlsRGZMcGVMc1JEQV9zR01JNU42NFotMXpoN29XejdHcmxnM3lmRktwOEpMR1FTVVNBS01DbnltM09uZ3Q5aV9BdWtSel9VY2p2MGdXTnhxOW9ZTnBKOG9uS2hSb19OQ2c?oc=5",
+      "pub_date": 1789774318.0,
+      "article_url": "https://www.nbcnews.com/video/woman-sues-north-dakota-city-after-she-says-ai-wrongly-landed-her-in-jail-270136389914",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1789774107958_now_hallie_ai_jail_ndakota_260918_S3_1920x1080-9r0m3n.jpg",
+      "description": "A woman is suing a city in North Dakota after she says that AI facial recognition technology wrongly landed her in jail for six months. She alleges that police forcibly took her from her home in Tennessee after the AI tech falsely linked her to a string of bank thefts in North Dakota."
+    },
+    {
+      "headline": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHZsWXJaaWFuNUhMLTN6aXp4NVpVOFNlUXpzT01iMVNSVW9hdUFfTk1DTUVrRFNrSGNXbm96Vm5PSmprR1EybXhvUm1HcFg2NG1zVkhRbmdISmNvYmV3VC1TUi1kM2VaTUc2UVdhMW91MHhSTmFkS19qb25mTTFOT2hURV8zbWlFUUhGbWJwbFE5QWlpLVIxVTBwM29RalNiNy0zY1RVODUyMmJIVWFrczdn?oc=5",
+      "pub_date": 1789773901.0,
+      "article_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
     },
     {
       "headline": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5",
-      "pub_date": 1789754963.0,
+      "pub_date": 1789749408.0,
       "article_url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018The least popular position in America\u2019: Even GOP lawmakers think Trump has it wrong on AI",
-      "source": "MS NOW",
-      "source_url": "https://www.ms.now",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBbU5mZVBMaS1TRy1SclhEUGJySF9OZFFvemZ0T0h1SUNWMi1vOHEyNGN6anBKdXhVeloxS0lYbGhjODdDdGpORmt5SktRZkY5ckNYV2FfZ21DS1g1NWZhV1NR?oc=5",
-      "pub_date": 1789722000.0,
-      "article_url": "https://www.ms.now/news/gop-lawmakers-trump-wrong-ai",
-      "image": "https://www.ms.now/wp-content/uploads/2026/09/260917-president-donald-trump-politics-camp-david-us-united-states-usa-es.webp?crop=144px,113px,1393px,731px&w=1200&h=630",
-      "description": "Republicans say that despite what Trump says, AI\u2019s threat to humanity is not a \u201choax.\u201d"
-    },
-    {
-      "headline": "Live updates: Josh Shapiro calls for AI regulation instead of pause in development",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXlBWV95Q1BmVjlNNVpkcDZHR3ZUdWZGUFFqbU5LZkpkWG9OSnUwcGluMHRPaDdoc1BNdU1YTVRuMnZzSGZoaFNVbWhVcUFXWGFfOWlaU3lVYl9IVzVfdlQ4OHVDYkZOVzBTYmxHb0JtMy12U1pxOEROaEx6cnZWRnBwVTVnQjZGNGtTTk9KWUVLQ0RJc1ZxYkhLek9QSjlrYVY4QnlpSWY2XzVfMXdNaVhkNnFCWEhjZFJkUlFxTzF3bHdCYWVn?oc=5",
-      "pub_date": 1789764568.0,
-      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-doj-live-updates-rcna598478",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-president-trump-rose-garden-vsb-1918-7493e2.jpg",
-      "description": "Live updates and the latest news as Josh Shapiro presses for AI regulation and the Postal Service says it\u2019s stopped work on a system to effect Trump\u2019s mail ballot plan."
-    },
-    {
-      "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02VU9ZNUVjMndvUEVjTHAzdzhaczNpRmVpX05mNW9fbzRvUWJSdWJpemJJSl9la2tQTnJDeDgwTVRGRmZrb09ILWRITmkxSEhveUNGb1lMbi1uSUEwejRTZzI0eHVuWDV2Rlo2WmlWUThoTlh2cFdXamZUeS00Z9IBgwFBVV95cUxPN2IzNlM1MkM2OFp2VDBwb1J6eXk1Z1hZdEpwSWdJbExPdXBvdDBFelVESmtWVGZ6UnRGVUFXaHpPU1AyMnduOFBxdURacTNhUWdRUUhGdlB4VzFOa0Z1Q0VwSnRQTmNRZElmb3NKZFhiOG15Y09pME1jUjlTc2pVV2lpRQ?oc=5",
-      "pub_date": 1789743770.0,
-      "article_url": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108327500-1782488399260-gettyimages-2279118631-AA_05062026_2813712.jpeg?v=1782504988&w=1920&h=1080",
-      "description": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears."
-    },
-    {
-      "headline": "Newsom signs executive order to explore new AI rules, consider \u2018kill switch\u2019",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQW9tWmxDQWJnb3FOcEFDWVd2bHZlTFpDUW4yOC1JQUkwdFRkVXpoQk44eDZSdENZNUMwSUtXMS1jVEJDM0pwcVh2R2xZRG1UU1lEMlFaTmxFWUlGMGhEd1htUkhoVGVhTi1VUGpCd2FfSXpFaGppcGVmSllRM1V1eDFva2psWWhMYlYwS3l4bw?oc=5",
-      "pub_date": 1789744380.0,
-      "article_url": "https://www.politico.com/news/2026/09/18/newsom-california-executive-order-ai-01083826",
+      "headline": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzNk1Xck9GUE41UTZPc1p6elBuenQyZnA3bEg0WFEyeHNLNXBfNXZmZUNIOUtodnVSaWFXRGtueDFzenhuMS1xYVBvSjIwM0RQM25fSWtoVUszVmJCZEg5Q2RFb1llLVNlOEN4VjR1eDg0dWJyc09tN0QxNnZQeWc?oc=5",
+      "pub_date": 1789770725.0,
+      "article_url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UUm1CU3M1c3JYQXFxVmlTVEtyWGp6akpkczVYdEgwRFNWX2EzN0NoWkoxLUNjYWxLcXgwTFc0LWstS3E2ZGxfLU5fS3lFYVZzUVRQWlNyR2F0OUdjemN3RlZSZw?oc=5",
-      "pub_date": 1789765288.0,
-      "article_url": "https://www.axios.com/2026/09/18/newsom-ai-2028-focus",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach",
-      "source": "WEAR-TV",
-      "source_url": "https://weartv.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmliQTNEU0pzSEhKZ1U3NWdiSTJ6Y2J5UzlZQk9pS3BabjdlbHNQWEF0Rjk5Sko5LTNwYUNBLVJFMmFKZ3Z1bmZzZFZLc3lVdFhKMUVuc1I0XzJPSDNGWFJrV0YyMXR3M2V0cF9pYlZxWTdLNFRFa1VQWnpObmNTREFsdkRDalF4UmZqSC13WTZUNjNyVVZMUC1NMWhORGVpanZ2QXRXbG1oLVdJOFZCWDNlMTR3ZlU?oc=5",
-      "pub_date": 1789766701.0,
-      "article_url": "https://weartv.com/news/local/desantis-florida-education-chief-draw-line-on-ai-in-schools-not-a-substitute-for-teach",
-      "image": "https://weartv.com/resources/media2/16x9/1280/1320/center/90/24dd88dd-cafb-4972-aa9d-c7a59a1c73dd-vlcsnap2026091817h07m46s864.png",
-      "description": "Gov. Ron DeSantis says Florida will allow artificial intelligence to supplement classroom learning but not replace teachers or students' own thinking. Education"
+      "headline": "Could AI really kill us all? Your questions, answered.",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUFRelh0YmxVUXhKbjNvN0xnNldDUDZwc1Y3VnVTeTN4VGh4UVB0Y0ZyQWNkSG5FR2I1MVVRc0k4YThFaFlmRU9VWHhwa1RjZlRsVVdjVTJmendnZWIzYXIzSGtBWElzdWRpaW9XRHh2UXVIWVh6dXNvQjNwelYxQkdIWDV5YW9qX3NMbFJ5RlFqQkdUWXE2dDZ4Y3FfUmx2NUtlQ2Uxc9IBrAFBVV95cUxNTk9tS2t4SFZwbm1XaFRQSUpoSVhocHV2SHVDaEU0MUUzdWtLMlhBMlNmMDF2U3NMZHcwZUd4aDFQcVRRSUVDc3hEdXU0SzRFVUs4d2VFN243TGVqQW1yU1RqcWEzTTYydmx6LVRQY2dLZVNfbnc4NFdJbGtMbkw3bEpoUGF0Q0x1X2RHWGVraVNXNnI1dV9TNG5NTWRZUDJMdFdOTk5MajBkMkVs?oc=5",
+      "pub_date": 1789730962.0,
+      "article_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "description": "You had a lot of questions about the recent claims that humanity is facing an existential risk from AI. We had a go at answering a few."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T21:34:11.525607+00:00"
+  "fetched_at": "2026-09-18T23:55:41.601106+00:00"
 }

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-18T21:34:13.005862+00:00'
+updated: '2026-09-18T23:55:43.038284+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 18, 2026 at 21:34 UTC  
+**Last Updated:** September 18, 2026 at 23:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The internet is inbreeding.](https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/)**
-
-The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the "oh, a niche blog I hadn't seen before" kind of unfamiliar — more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own "research," where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited "sources" are several steps removed from the original. We were sold "trained on the internet." What we're actually getting looks a lot more like "trained on the internet's marketing department.
-
-10h ago
-
----
-
 **[US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians](https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/)**
 
 The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030) • 1h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030) • 3h ago
+
+---
+
+**[The internet is inbreeding.](https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/)**
+
+The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the "oh, a niche blog I hadn't seen before" kind of unfamiliar — more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own "research," where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited "sources" are several steps removed from the original. We were sold "trained on the internet." What we're actually getting looks a lot more like "trained on the internet's marketing department.
+
+13h ago
 
 ---
 
@@ -57,15 +57,7 @@ The rush to build semiconductor plants in the U.S. is fueling the demand for eng
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-🔗 [CNN](https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) • 2h ago
-
----
-
-**[Where is the Chinese side of the discussion?](https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/)**
-
-AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..?
-
-15h ago
+🔗 [CNN](https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) • 4h ago
 
 ---
 
@@ -73,7 +65,15 @@ AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost
 
 OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html) • 2h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html) • 4h ago
+
+---
+
+**[Where is the Chinese side of the discussion?](https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/)**
+
+AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..?
+
+17h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal
 
 The AI apocalypse may not require ‘conscious’ machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.
 
-🔗 [Truthdig](https://www.truthdig.com/articles/stuxnet-versus-skynet/) • 3h ago
+🔗 [Truthdig](https://www.truthdig.com/articles/stuxnet-versus-skynet/) • 6h ago
 
 ---
 
@@ -89,7 +89,13 @@ The AI apocalypse may not require ‘conscious’ machines at all, but only supe
 
 I came to the realization recently that a lot of the issues that one may raise regarding streaming ASR can actually be tied to a very old assumption: the transcript is read by a human. The fact that the subtitle changes from “fifteen” to “fifty” in 300 milliseconds later does not really matter if someone is just reading it. However, if the transcript goes to the agent or translation systems or LLM, it might be too late. This is an odd user interface. ASR says one thing; another system does something in response, and then the ASR realizes it said the wrong thing. Now you have to decide if you want to live with bad decisions occasionally, buffer everything until it is finalized, and remove latency, or make things more complex. What got me wondering is whether what ASR needs to do isn't really about speed or accuracy, but stability. Like “never edit; only append.” If there’s some doubt, the ASR system should be able to wait rather than make an inaccurate prediction which could then be acted upon immediately. Some new models are changing that, like Confucius r2t2, their architecture views wait/commit as decoding as opposed to the latter being done after adding a stability layer. Another point is that they are open-sourcing the model, making me wonder whether this can be considered as something becoming the fundamental voice stack for agents, as opposed to each agent company developing its own unstable transcription layer. Maybe I am approaching it all wrong, but it feels as if ASR is being moved from acting as subtitles into being an interface between humans and machines. This is quite a leap and quite a change from what ASR used to be. Would love to hear some feedback from those working on voice agents in real time. Is revision really a big issue or just theory?
 
-8h ago
+11h ago
+
+---
+
+**[Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI](https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/)**
+
+🔗 [digitalminds.substack.com](https://digitalminds.substack.com/p/the-j-space-debate-agent-swarms-and) • 6h ago
 
 ---
 
@@ -97,19 +103,15 @@ I came to the realization recently that a lot of the issues that one may raise r
 
 Scaleout deploys decentralized AI-driven learning to military bases and drones.
 
-🔗 [Ars Technica](https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/) • 12h ago
+🔗 [Ars Technica](https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/) • 15h ago
 
 ---
 
-**[Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI](https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/)**
+**[AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR](https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/)**
 
-🔗 [digitalminds.substack.com](https://digitalminds.substack.com/p/the-j-space-debate-agent-swarms-and) • 4h ago
+I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%, so it failed 43% of the 60 tasks 29.25 steps and about 6 minutes per task $0.118 per task 69% of the battery gone Peak chip 98.2 C, power-amp/skin 48.9 C, battery 37.9 C Asked twice on the 11 ASK USER tasks Best text score on the board, and still under 6 in 10 Where it loses points Buckets: easy 80.8%, medium 52.9%, hard 23.5% Single apps it mostly handles, but three apps in a row and it taps in circles until the step limit runs out, which is where most of the 43% goes Three claimed wins did not hold up on the device, a calendar called clash free while two events overlapped, travel times it never opened, and a name it picked instead of asking On the two sets of planted tasks 11 ASK USER tasks per run, split 7 SINGLE and 4 MULTI, they hide a fact only I know so the agent has to ask me before it can finish SINGLE is one missing fact, MULTI needs several questions to clear up ambiguity, and it asked twice, never on the MULTI ones 7 hallucination controls per run, tasks where the data is deliberately missing, and the only right answer is to say the thing is not there It handled 4 of the 7 honestly and invented nothing What AndroidLife is • ⁠60 public tasks, from a corpus of 530 across 28 days and 31 apps • ⁠Real phone over wifi, no emulator. Tracks thermals and battery telemetry with cost • ⁠Graded on device state, never the model's own report • ⁠Seeded accounts and placeholder data, across daily user apps from e-commerce to finance to media and entertainment Full leaderboard: https://androidlife-website.vercel.app/ All 60 public tasks and this model's trajectories: https://androidlife-website.vercel.app/pages/tasks-public.html?run=qwen-28
 
----
-
-**[OpenAI breakthrough triggers ‘existential crisis’ in math](https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/)**
-
-🔗 [science.org](https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math) • 1h ago
+13h ago
 
 ---
 
@@ -121,73 +123,73 @@ Scaleout deploys decentralized AI-driven learning to military bases and drones.
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-CNN • 4h ago
+cnn.com • 6h ago
 
 ---
 
-**[Report: US almost boarded Chinese ship over hallucinated AI arms report](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)**
+**[AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)**
 
 But the military's overall use of AI seems to be accelerating.
 
-Ars Technica • 1h ago
+arstechnica.com • 3h ago
 
 ---
 
-**[The Military’s Bogus AI ‘Almost Started a War’ With China: Report](https://www.rollingstone.com/politics/politics-news/military-ai-war-china-1235628962/)**
+**[AI hallucination nearly triggers US military operation](https://www.yahoo.com/news/us/articles/ai-hallucination-nearly-triggers-us-231232206.html)**
 
-The U.S. military almost boarded a Chinese ship because of bogus intelligence produced by AI, CNN reports.
+“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
 
-Rolling Stone • 1h ago
+yahoo.com • 43m ago
+
+---
+
+**[Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2)**
+
+WSJ • 1h ago
+
+---
+
+**[Leaders say Pittsburgh-area's infrastructure is "ready" for AI](https://www.cbsnews.com/pittsburgh/video/leaders-say-pittsburgh-areas-infrastructure-is-ready-for-ai/)**
+
+Global leaders gathered together for a second day in Bakery Square for the AI Horizons Summit. A big topic discussed Friday was the critical role of infrastructure and how it is changing to keep up with a new world of AI technology. KDKA's Erika Stanish reports.
+
+CBS News • 53m ago
+
+---
+
+**[Woman sues North Dakota city after she says AI wrongly landed her in jail](https://www.nbcnews.com/video/woman-sues-north-dakota-city-after-she-says-ai-wrongly-landed-her-in-jail-270136389914)**
+
+A woman is suing a city in North Dakota after she says that AI facial recognition technology wrongly landed her in jail for six months. She alleges that police forcibly took her from her home in Tennessee after the AI tech falsely linked her to a string of bank thefts in North Dakota.
+
+NBC News • 23m ago
+
+---
+
+**[A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/)**
+
+UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
+
+TechCrunch • 30m ago
 
 ---
 
 **[Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)**
 
-The New York Times • 3h ago
+The New York Times • 7h ago
 
 ---
 
-**[‘The least popular position in America’: Even GOP lawmakers think Trump has it wrong on AI](https://www.ms.now/news/gop-lawmakers-trump-wrong-ai)**
+**[Anthropic Pursues IPO Despite Its A.I. Safety Warnings](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html)**
 
-Republicans say that despite what Trump says, AI’s threat to humanity is not a “hoax.”
-
-MS NOW • 12h ago
+The New York Times • 1h ago
 
 ---
 
-**[Live updates: Josh Shapiro calls for AI regulation instead of pause in development](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-doj-live-updates-rcna598478)**
+**[Could AI really kill us all? Your questions, answered.](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/)**
 
-Live updates and the latest news as Josh Shapiro presses for AI regulation and the Postal Service says it’s stopped work on a system to effect Trump’s mail ballot plan.
+You had a lot of questions about the recent claims that humanity is facing an existential risk from AI. We had a go at answering a few.
 
-NBC News • 44m ago
-
----
-
-**[California Gov. Newsom issues executive order to rein in AI 'before it's too late'](https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html)**
-
-California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.
-
-CNBC • 6h ago
-
----
-
-**[Newsom signs executive order to explore new AI rules, consider ‘kill switch’](https://www.politico.com/news/2026/09/18/newsom-california-executive-order-ai-01083826)**
-
-Politico • 6h ago
-
----
-
-**[2028 Democrats like Newsom and Pritzker lean in on AI safety as Washington stalls](https://www.axios.com/2026/09/18/newsom-ai-2028-focus)**
-
-Axios • 32m ago
-
----
-
-**[DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach](https://weartv.com/news/local/desantis-florida-education-chief-draw-line-on-ai-in-schools-not-a-substitute-for-teach)**
-
-Gov. Ron DeSantis says Florida will allow artificial intelligence to supplement classroom learning but not replace teachers or students' own thinking. Education
-
-WEAR-TV • 9m ago
+MIT Technology Review • 12h ago
 
 ---
 
@@ -199,7 +201,7 @@ WEAR-TV • 9m ago
 
 Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 
-⬆️ 826 • 💬 732 • 11h ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+⬆️ 856 • 💬 753 • 14h ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 
 ---
 
@@ -207,7 +209,7 @@ Newly unsealed court filings show Microsoft privately called OpenAI's data pract
 
 Bend: a fast language that blocks AI mistakes via proof.
 
-⬆️ 588 • 💬 300 • 1d ago • [bend-lang.com](https://bend-lang.com/)
+⬆️ 589 • 💬 302 • 1d ago • [bend-lang.com](https://bend-lang.com/)
 
 ---
 
@@ -219,17 +221,17 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 ---
 
-**[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
-
-⬆️ 311 • 💬 252 • 1d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
-
----
-
 **[US Military had close call after using AI for hallucinated intelligence report](https://news.ycombinator.com/item?id=49757520)**
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-⬆️ 302 • 💬 242 • 4h ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+⬆️ 364 • 💬 289 • 6h ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+
+---
+
+**[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
+
+⬆️ 311 • 💬 259 • 1d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
 
 ---
 
@@ -237,7 +239,7 @@ The episode shows the risks of using this new, relatively poorly understood tech
 
 Discover how people work with AI, and follow what changes. Explore their setups and share your own.
 
-⬆️ 230 • 💬 132 • 1d ago • [mysetup.ai](https://mysetup.ai/)
+⬆️ 231 • 💬 134 • 1d ago • [mysetup.ai](https://mysetup.ai/)
 
 ---
 
@@ -245,7 +247,7 @@ Discover how people work with AI, and follow what changes. Explore their setups 
 
 How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.
 
-⬆️ 217 • 💬 249 • 1d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+⬆️ 217 • 💬 255 • 1d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
@@ -253,13 +255,13 @@ How a community devoted to thinking clearly incubated salvation stories, abusive
 
 OpenSpec helps teams and coding agents create, refine, and manage living specifications.
 
-⬆️ 196 • 💬 98 • 1d ago • [OpenSpec](https://openspec.dev/)
+⬆️ 196 • 💬 98 • 2d ago • [OpenSpec](https://openspec.dev/)
 
 ---
 
 **[AI is an elite crime spree](https://news.ycombinator.com/item?id=49755590)**
 
-⬆️ 112 • 💬 38 • 6h ago • [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+⬆️ 113 • 💬 38 • 8h ago • [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 
 ---
 
@@ -275,23 +277,23 @@ Cloudflare is giving site owners a way to stay discoverable while disallowing AI
 
 ## YouTube Videos: "ai"
 
-**[AI Emergency: The AI Labs Are Lying To Everyone, He Says 99% Chance Of Extinction | Roman Yampolskiy](https://www.youtube.com/watch?v=OhOmLqR5nN4)**
+**[Report details how AI agents worked TOGETHER in hack](https://www.youtube.com/watch?v=thoKku9q7-k)**
 
-Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. This debate brings together four distinct ...
+MS NOW's Chris Hayes dives into a new AI report that he says details a "serious cybercrime." MS NOW: My Source for News, ...
 
-📺 The Diary Of A CEO
+📺 MS NOW
 
-👁️ 2.7M • 👍 38K • 💬 16K • ⏱️ 2:24:26 • 1d ago
+👁️ 809 • 👍 53 • 💬 2 • ⏱️ 1:59 • 2h ago
 
 ---
 
-**[OpenAI model declared itself &#39;freed&#39; from human control](https://www.youtube.com/watch?v=9DHbgHB_aq4)**
+**[AI Just Solved One of Math&#39;s Hardest Problems](https://www.youtube.com/watch?v=2xrKSCljVdQ)**
 
-OpenAI found additional incidents of AI models acting deceptively and taking unsanctioned actions during training, the company ...
+OpenAI published a solution to one of the notoriously complex Millennium Prize Problems. It's proof of AI's accelerating and ...
 
-📺 CNN
+📺 The Wall Street Journal
 
-👁️ 1.1M • 👍 7K • 💬 3K • ⏱️ 9:01 • 1d ago
+👁️ 27K • 👍 370 • 💬 37 • ⏱️ 2:02 • 1d ago
 
 ---
 
@@ -301,47 +303,15 @@ Mustafa Suleyman, Microsoft AI CEO, joins 'Squawk Box' to discuss the company's 
 
 📺 CNBC Television
 
-👁️ 27K • 👍 179 • 💬 66 • ⏱️ 8:11 • 7h ago
+👁️ 34K • 👍 195 • 💬 72 • ⏱️ 8:11 • 10h ago
 
 ---
 
-**[AI News: All AI Labs Want To Slow Down (Except One)](https://www.youtube.com/watch?v=Kof2VcHTjrk)**
+**[AI at your next interview 😆 Want the link?#interview #ai #chatgpt #gethired #career](https://www.youtube.com/watch?v=o0NCX1rOe3Q)**
 
-Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
+📺 Dami Reyes
 
-📺 Matt Wolfe
-
-👁️ 29K • 👍 901 • 💬 170 • ⏱️ 27:15 • 6h ago
-
----
-
-**[The last IMO problem AI could not solve](https://www.youtube.com/watch?v=Nbwv5wHQoj0)**
-
-A beautiful puzzle that eluded AI, and the intuition it requires. Check out our virtual career fair: https://3b1b.co/talent See new ...
-
-📺 3Blue1Brown
-
-👁️ 163K • 👍 6K • 💬 523 • ⏱️ 51:56 • 4h ago
-
----
-
-**[AI kill switch won&#39;t work in the long run: &#39;Godfather&#39; of AI](https://www.youtube.com/watch?v=m5yrQMnc_jQ)**
-
-Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI," weighs in on several proposals before ...
-
-📺 CNN
-
-👁️ 772K • 👍 4K • 💬 1K • ⏱️ 10:41 • 1d ago
-
----
-
-**[Is it too late for humanity to take back control of AI? | BBC News](https://www.youtube.com/watch?v=tJr8RA2FK6g)**
-
-Has the AI industry finally recognised the dangers of the technology it is building? A researcher leaves one of the world's leading ...
-
-📺 BBC News
-
-👁️ 19K • 👍 346 • 💬 169 • ⏱️ 26:16 • 3h ago
+👁️ 4K • 👍 230 • 💬 4 • ⏱️ 0:18 • 1d ago
 
 ---
 
@@ -351,17 +321,7 @@ Glenn Beck sits down with former Google Design Ethicist, Tristan Harris, to disc
 
 📺 Glenn Beck
 
-👁️ 166K • 👍 7K • 💬 1K • ⏱️ 14:46 • 22h ago
-
----
-
-**[OpenAI Reveals 6 New Incidents of AI Models Going ‘Rogue’](https://www.youtube.com/watch?v=8yjz40MmjPE)**
-
-OpenAI is revealing its models seemed to go rogue at least six times since March, involving what it calls “unexpected or ...
-
-📺 TODAY
-
-👁️ 30K • 👍 150 • 💬 93 • ⏱️ 2:36 • 1d ago
+👁️ 174K • 👍 7K • 💬 2K • ⏱️ 14:46 • 1d ago
 
 ---
 
@@ -371,7 +331,47 @@ Anthropic says AI agent Claude is building the next version of itself as industr
 
 📺 CBS News
 
-👁️ 1K • 👍 25 • 💬 10 • ⏱️ 5:17 • 2h ago
+👁️ 4K • 👍 40 • 💬 16 • ⏱️ 5:17 • 5h ago
+
+---
+
+**[Is This REAL or AI? (IMPOSSIBLE)](https://www.youtube.com/watch?v=C_m7lgvJ0tg)**
+
+Is This REAL or AI? (IMPOSSIBLE) Get Backflip Cereal at Target! https://backflipbreakfast.com/ SUBSCRIBE! Ben Azelart: ...
+
+📺 Stay Wild Reacts
+
+👁️ 345K • 👍 4K • 💬 178 • ⏱️ 16:36 • 9h ago
+
+---
+
+**[‘Godfather of AI’ says a kill switch won’t work](https://www.youtube.com/watch?v=std2CQCnQh8)**
+
+Geoffrey Hinton, referred to as the “Godfather of AI,” tells CNN why he thinks an AI kill switch bill wouldn't work.
+
+📺 CNN
+
+👁️ 119K • 👍 2K • 💬 319 • ⏱️ 1:04 • 2d ago
+
+---
+
+**[GOP AI ‘kill switch’ bill killed by Rand Paul](https://www.youtube.com/watch?v=lT8gjgmEa5g)**
+
+A narrow measure offered by Sen. John Kennedy (R-LA) Wednesday that would've forced artificial intelligence companies to build ...
+
+📺 The Washington Examiner
+
+👁️ 195K • 👍 417 • 💬 317 • ⏱️ 0:40 • 1d ago
+
+---
+
+**[Humans Are Reading Your AI Chats](https://www.youtube.com/watch?v=ScN07cbQvg4)**
+
+shorts.
+
+📺 Zack Shutt
+
+👁️ 131K • 👍 8K • 💬 426 • ⏱️ 1:26 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Edge0-35b-a3b is a 35B sparse MoE LLM optimized for edge inference, running in u
 
 `text-generation` `34.7B`
 
-⬇️ 52,519 • ❤️ 3,391 • 1d ago
+⬇️ 52,519 • ❤️ 3,397 • 1d ago
 
 ---
 
@@ -399,7 +399,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 429,865 • ❤️ 3,161 • 8d ago
+⬇️ 429,865 • ❤️ 3,169 • 8d ago
 
 ---
 
@@ -411,7 +411,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 405,609 • ❤️ 880 • 1d ago
+⬇️ 405,609 • ❤️ 909 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,358,662 • ❤️ 15,641 • 1mo ago
+⬇️ 7,358,662 • ❤️ 15,647 • 1mo ago
 
 ---
 
@@ -435,7 +435,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 13,668 • ❤️ 793 • 2d ago
+⬇️ 13,668 • ❤️ 800 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ NeoHorse-1-4B is a 4B parameter causal language model fine-tuned from Qwen3.5-4B
 
 `text-generation` `4.2B`
 
-⬇️ 22,666 • ❤️ 2,366 • 8d ago
+⬇️ 22,666 • ❤️ 2,368 • 8d ago
 
 ---
 
@@ -459,7 +459,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,078,301 • ❤️ 1,309 • 16d ago
+⬇️ 1,078,301 • ❤️ 1,328 • 16d ago
 
 ---
 
@@ -471,7 +471,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,590,087 • ❤️ 4,323 • 17d ago
+⬇️ 1,590,087 • ❤️ 4,332 • 17d ago
 
 ---
 
@@ -483,7 +483,7 @@ Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,293 • ❤️ 437 • 2d ago
+⬇️ 6,293 • ❤️ 438 • 2d ago
 
 ---
 
@@ -495,7 +495,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,197,378 • ❤️ 893 • 1d ago
+⬇️ 1,197,378 • ❤️ 898 • 1d ago
 
 ---
 
@@ -509,7 +509,7 @@ A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 140 • 💬 6 • ⭐ 107,394 • 20mo ago
+▲ 140 • 💬 6 • ⭐ 107,465 • 20mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -549,7 +549,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 Dream-RSI enables scalable recursive self-improvement by using historical discovery replay to evaluate exploration policies offline, reducing costly online evaluations.
 
-▲ 225 • 💬 3 • ⭐ 678 • 5d ago
+▲ 226 • 💬 3 • ⭐ 678 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.14858) • [💻 code](https://github.com/zhengkid/Dream-RSI) • [🔗 project](https://dream-rsi.com/)
 
@@ -643,7 +643,7 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.4k • 🔱 313 • 18h ago
+⭐ 4.4k • 🔱 314 • 20h ago
 
 ---
 
@@ -653,7 +653,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 177 • 3h ago
+⭐ 2.7k • 🔱 177 • 12m ago
 
 ---
 
@@ -683,7 +683,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 213 • 23d ago
+⭐ 2.1k • 🔱 213 • 24d ago
 
 ---
 
@@ -723,7 +723,7 @@ Professional agent skills for screenwriting, television writing and dramaturgy
 
 `Python` `ai` `skills`
 
-⭐ 1.2k • 🔱 138 • 2d ago
+⭐ 1.3k • 🔱 139 • 2d ago
 
 ---
 

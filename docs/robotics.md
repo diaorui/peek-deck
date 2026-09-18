@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T21:34:13.020936+00:00'
+updated: '2026-09-18T23:55:43.053896+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 21:34 UTC  
+**Last Updated:** September 18, 2026 at 23:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,29 +112,81 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
+
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
+
+The Robot Report • 5h ago
+
+---
+
+**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+
+OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
+
+Business Insider • 14h ago
+
+---
+
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+
+Bloomberg.com • 14h ago
+
+---
+
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+
+IEEE Spectrum • 7h ago
+
+---
+
+**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
+
+Reuters • 11h ago
+
+---
+
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 1d ago
+
+---
+
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+
+MIT News • 1d ago
+
+---
+
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+
+SpaceNews • 1d ago
+
+---
+
+**[A quieter corner of robotics is gaining traction](https://www.axios.com/pro/all-deals/2026/09/18/automomous-robotics-investing-viabot)**
+
+Axios • 7h ago
+
+---
+
+**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+
+Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+
+The Conversation • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
-
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
-
-📺 MindSeeded
-
-👁️ 464K • 👍 8K • 💬 935 • ⏱️ 16:24 • 1d ago
-
----
-
-**[Chinese company releases video of humanoid robot walking off assembly line](https://www.youtube.com/watch?v=_2hL9iabiEM)**
-
-Chinese company Xpeng released a video showing its new humanoid robot IRON walking off the assembly line on its own. It's the ...
-
-📺 NBC News
-
-👁️ 1.4M • 👍 5K • 💬 2K • ⏱️ 2:28 • 6d ago
-
----
 
 **[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
 
@@ -146,13 +198,13 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 ---
 
-**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-📺 Steven Ndukwu
+📺 MindSeeded
 
-👁️ 585K • 👍 6K • 💬 839 • ⏱️ 27:23 • 6d ago
+👁️ 521K • 👍 8K • 💬 973 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -166,53 +218,73 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why 
 
 ---
 
-**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
-
-New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
-
-📺 Baprimo
-
-👁️ 257K • 👍 2K • 💬 16 • ⏱️ 12:08 • 6d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 46K • 👍 376 • 💬 40 • ⏱️ 18:12 • 5d ago
-
----
-
 **[Manufacturing 50,000 Humanoid Robots Next Year | Bernt Børnich, 1X](https://www.youtube.com/watch?v=DXSs6yIL00w)**
 
 Bernt Børnich is the founder and CEO of 1X, a California-based humanoid robotics company. After years of developing NEO, ...
 
 📺 Relentless
 
-👁️ 3K • 👍 153 • 💬 18 • ⏱️ 43:02 • 4h ago
+👁️ 12K • 👍 236 • 💬 34 • ⏱️ 43:02 • 6h ago
 
 ---
 
-**[Robotic parking rolled out at Gatwick airport](https://www.youtube.com/watch?v=Kg5PZu_bvtc)**
+**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
-To fast track passengers at Gatwick airport, robots are being introduced to park people's cars. But questions are being asked as to ...
+In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
-📺 Sky News
+📺 Steven Ndukwu
 
-👁️ 1.3M • 👍 4K • 💬 626 • ⏱️ 2:50 • 5d ago
+👁️ 595K • 👍 6K • 💬 843 • ⏱️ 27:23 • 6d ago
 
 ---
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
 
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
 
-📺 Reward AI
+📺 Dear Time
 
-👁️ 118K • 👍 1K • 💬 104 • ⏱️ 2:20 • 4d ago
+👁️ 22K • 👍 128 • 💬 4 • ⏱️ 20:25 • 5d ago
+
+---
+
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+
+📺 Cleo Abram
+
+👁️ 398K • 👍 20K • 💬 490 • ⏱️ 0:37 • 4d ago
+
+---
+
+**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
+
+Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
+
+📺 Unseen Vault
+
+👁️ 226K • 👍 6K • 💬 326 • ⏱️ 33:11 • 6d ago
+
+---
+
+**[A Player Said I Need To Try This ASAP... Dune Bagliore CRUSHING Meta Shoggoths | War Robots](https://www.youtube.com/watch?v=q5HYG9dIsBE)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR Theres no way this actually works. Someone told me to try ...
+
+📺 PREDATOR WR
+
+👁️ 7K • 👍 226 • 💬 53 • ⏱️ 15:18 • 11h ago
+
+---
+
+**[China’s Factories Are Going Big on Robots](https://www.youtube.com/watch?v=Mxj_Us0XQww)**
+
+China's manufacturing sector is undergoing a huge automation shift. While viral posts claim that one Chinese factory cut its ...
+
+📺 Alchetron
+
+👁️ 42K • 👍 136 • 💬 16 • ⏱️ 0:10 • 3d ago
 
 ---
 
