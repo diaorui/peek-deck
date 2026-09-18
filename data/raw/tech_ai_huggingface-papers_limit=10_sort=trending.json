@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 139,
+      "upvotes": 140,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 107319,
+      "github_stars": 107394,
       "project_page": null
     },
     {
@@ -96,6 +96,25 @@
       "project_page": "https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ"
     },
     {
+      "id": "2609.14858",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "authors": "Tong Zheng, Xidong Wu, Zheng Zhang et al. (17 authors)",
+      "organization_name": "google",
+      "organization_fullname": "Google",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
+      "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and recursively self-improving exploration. A lightweight orchestration layer makes exploration explicit and programmable while leaving the underlying coding agent unchanged. Our key insight is that accumulated discovery history can serve as a replay simulator over the realized search space. By performing dreaming in the replay simulator constructed from historical discovery trees, Dream-RSI secures immediate, low-cost off-policy feedback to evaluate and refine exploration policies without invoking repetitive, expensive online evaluations. The improved policy is subsequently redeployed online to drive further discovery, continuously expanding the simulator pool in a self-improving loop. Across algorithm engineering, mathematical optimization, and GPU kernel engineering, Dream-RSI achieves competitive or improved discovery quality while substantially reducing discovery cost in several settings.",
+      "ai_summary": "Dream-RSI enables scalable recursive self-improvement by using historical discovery replay to evaluate exploration policies offline, reducing costly online evaluations.",
+      "hf_url": "https://huggingface.co/papers/2609.14858",
+      "arxiv_url": "https://arxiv.org/abs/2609.14858",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
+      "upvotes": 300,
+      "num_comments": 3,
+      "published_at": "2026-09-13T20:00:00.000Z",
+      "github_repo": "https://github.com/zhengkid/Dream-RSI",
+      "github_stars": 553,
+      "project_page": "https://dream-rsi.com/"
+    },
+    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -111,27 +130,8 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33001,
+      "github_stars": 33053,
       "project_page": null
-    },
-    {
-      "id": "2609.14858",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "authors": "Tong Zheng, Xidong Wu, Zheng Zhang et al. (17 authors)",
-      "organization_name": "google",
-      "organization_fullname": "Google",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
-      "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effective exploration, however, managing and improving exploration strategies remains a major bottleneck. Current systems face a fundamental dilemma: fixed strategies fail to adapt as search spaces scale, while online policy optimization requires navigating vast meta-search spaces under delayed and expensive feedback over long-horizon rollouts. We introduce Dream-RSI, a framework for scalable and recursively self-improving exploration. A lightweight orchestration layer makes exploration explicit and programmable while leaving the underlying coding agent unchanged. Our key insight is that accumulated discovery history can serve as a replay simulator over the realized search space. By performing dreaming in the replay simulator constructed from historical discovery trees, Dream-RSI secures immediate, low-cost off-policy feedback to evaluate and refine exploration policies without invoking repetitive, expensive online evaluations. The improved policy is subsequently redeployed online to drive further discovery, continuously expanding the simulator pool in a self-improving loop. Across algorithm engineering, mathematical optimization, and GPU kernel engineering, Dream-RSI achieves competitive or improved discovery quality while substantially reducing discovery cost in several settings.",
-      "ai_summary": "Dream-RSI enables scalable recursive self-improvement by using historical discovery replay to evaluate exploration policies offline, reducing costly online evaluations.",
-      "hf_url": "https://huggingface.co/papers/2609.14858",
-      "arxiv_url": "https://arxiv.org/abs/2609.14858",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 295,
-      "num_comments": 3,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/zhengkid/Dream-RSI",
-      "github_stars": 553,
-      "project_page": "https://dream-rsi.com/"
     },
     {
       "id": "2609.16679",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.16679",
       "arxiv_url": "https://arxiv.org/abs/2609.16679",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.16679.png",
-      "upvotes": 119,
+      "upvotes": 122,
       "num_comments": 2,
       "published_at": "2026-09-14T20:00:00.000Z",
       "github_repo": "https://github.com/Eurekaleo/awesome-ai-for-games",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-18T06:22:06.372981+00:00"
+  "fetched_at": "2026-09-18T11:38:21.739711+00:00"
 }

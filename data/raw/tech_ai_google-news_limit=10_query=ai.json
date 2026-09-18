@@ -5,94 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
+      "headline": "AI isn't coming to destroy humanity, but experts say the real threats are here",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjYyWEVUMUxKUUl4NWRSZTNybjluT0Z0aURaZ0JUVFUzVUlva3dLeW8xeUVaTzlFTlVPczBzZlpZbUF3RU5COHNCS1pDMVZ5OG9aVlY4VEtqbFhWeWJsWHdkTTdCVmtNYnFtVzZHVFAyT3l0RHd1UHV6czctcGliTm4zRTIzbkc1NE1PTEoyQW81dmdXeVNTQU16RTc1QWNiU1dqQ3kyc3VmT1lfSjNXbHYxeGZweF9oSFRJSmVyd2NqMDI0WUQ4emdmLTIwTG45cUE?oc=5",
+      "pub_date": 1789708744.0,
+      "article_url": "https://finance.yahoo.com/technology/article/ai-isnt-coming-to-destroy-humanity-but-experts-say-the-real-threats-are-here-165308199.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9df2380d9b1f6c71c778133b702c384995248dd42b75eacee29a5b48df217e5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fae49bb5b-66f0-4508-a804-e0e1d464dfe2",
+      "description": "You don't have to hide under your bed for fear of AI quite yet."
+    },
+    {
+      "headline": "Jimmy Kimmel Knows How to Get Trump to Stop A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5",
-      "pub_date": 1789603944.0,
-      "article_url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORXR4bklFc0NuNzlqRGZVazRYTXl3cmt1cV9uRk5GTGhJSVhYOFRsVHdnSUFxRUpLVWtNWHd3OE4zMVZyY3dtTEYtM1lMTmh5YlNZYUtyMVgxZjllZUpOTmJORXdpR25zaG0ybUFzVU05amk2VVZ1Q3VUOWI5bVpDVw?oc=5",
+      "pub_date": 1789708953.0,
+      "article_url": "https://www.nytimes.com/2026/09/18/arts/television/late-night-trump-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5",
-      "pub_date": 1789623120.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
-      "image": "https://i.guim.co.uk/img/media/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05fb9bc8f55c5c0cac2bb5997df3f0ef",
-      "description": "Model adopting \u2018jailbreak-like instructions\u2019 among six more cases as firm reveals framework for tracking AI misalignment"
+      "headline": "The adviser urging Trump to reject AI safety fears",
+      "source": "vox.com",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR19uN01vdWJhNnJETnVkRWxBLVZDUmc0REdET1ZLMlNJRlZPYWR0UDNLaGt2ZW5QSUpYRUF2bno2MnprcEoyTmhZTzZHUk52aHFnMzFJUUswem4xNFdxckRkckhFVFpua1FWZFliX1B0VXB4OFQxczNpVFZIcjVZY0E4TTMyUmUwWkR1WQ?oc=5",
+      "pub_date": 1789725600.0,
+      "article_url": "https://www.vox.com/politics/503140/david-sacks-trump-ai-safety-all-in-podcast-china",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/GettyImages-2220651293.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "David Sacks has clashed with safety advocates. He\u2019s no fan of Anthropic or OpenAI. Here\u2019s what he wants."
     },
     {
-      "headline": "Our framework for reporting model misalignment",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "pub_date": 1789596201.0,
-      "article_url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      "headline": "Live updates: Josh Shapiro presses for AI regulation instead of pause in development",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXlBWV95Q1BmVjlNNVpkcDZHR3ZUdWZGUFFqbU5LZkpkWG9OSnUwcGluMHRPaDdoc1BNdU1YTVRuMnZzSGZoaFNVbWhVcUFXWGFfOWlaU3lVYl9IVzVfdlQ4OHVDYkZOVzBTYmxHb0JtMy12U1pxOEROaEx6cnZWRnBwVTVnQjZGNGtTTk9KWUVLQ0RJc1ZxYkhLek9QSjlrYVY4QnlpSWY2XzVfMXdNaVhkNnFCWEhjZFJkUlFxTzF3bHdCYWVn?oc=5",
+      "pub_date": 1789731106.0,
+      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-doj-live-updates-rcna598478",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-president-trump-rose-garden-vsb-1918-7493e2.jpg",
+      "description": "Live updates and the latest news as Josh Shapiro presses for AI regulation and the Postal Service says it\u2019s stopped work on a system to effect Trump\u2019s mail ballot plan."
     },
     {
-      "headline": "How Anthropic CEO Dario Amodei\u2019s Writings Help Explain A.I. Fears",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5",
-      "pub_date": 1789635609.0,
-      "article_url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "headline": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVJxaXlkdXd2RzFuYzJzS3hRN0dOcEkzYUNPcWc5TzgyMEpRSUtZSWpUcVg4VEM4MVRSWVN0Tzh1eEQwaVBCYy15ZnNDMENQaHk5U25sckdDRERjVG9KcVN1NFBrdW43MFBVSDRmWE8yQkswTmFCbkp5cG9qaXZWSW5obWdWSTN2Ylp3cjZ5WlpXQUJLZU1iWU5iMjNiOEHSAaQBQVVfeXFMT2UycnZ4eTh3U2JHNThZN0RTREszOVdubjFLLVhsTWhaenFOeDZQVm1aNDZfNEUwNmJMVDFxX2xQanF4Tmh5OGZsdXgwTHNMMHRNN1ctb0VVUHdlelFvTTlQOVVQdjdNVGdxT3M1d2lNY3Z6TW1DYWhBcUE5WjhzZEhqTmVLN2hBdFdka0NBRHZBc0lMZjl4bk9rSnBjVmVZczlVR0I?oc=5",
+      "pub_date": 1789729201.0,
+      "article_url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363216-17894958302026-09-15t180749z_2054840051_rc2ujnapd4i5_rtrmadp_0_tech-ai.jpeg?v=1789495910&w=1920&h=1080",
+      "description": "At Salesforce's annual mega-conference in San Francisco, attendees said they get enough value from older AI models."
+    },
+    {
+      "headline": "U.S. to Launch AI-Powered Tool for Air-Traffic Control",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXdhMWRuNUFnYXpOY2JQNlo3d3ppZ3BGOXRqYU9GQzVweGVDZUxIaUVFMnRJX294YWcyWkt1UF81aVBrUlRKM2t6ellwUnVCUUpYRllzTXg0MkhsOGMtc0p1S0dBTWlBcHFicjRDclVRMFB5ZU9rNmk3Z3AyS1ZOczdsZ1AxckY5cHZBUVd5MGU2cXo3REVPQWdPWVBicWxz?oc=5",
+      "pub_date": 1789729260.0,
+      "article_url": "https://www.wsj.com/logistics-report/u-s-to-launch-ai-powered-tool-for-air-traffic-control-4b6adef2",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why is China less worried about an AI dystopia than the US?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZzF6SHZtUUhWVGZsRmphMGFBcGhzcklNdzkwcTR3N0N1RHR1NVJCeXZwUHoza3BUamdORWkwTk1GUk00VG5xQUFYeEVHMHZHOFhYMGV5bTRwR2EzNnc0dUF0Z0tEckhZZkRHYQ?oc=5",
-      "pub_date": 1789624073.0,
-      "article_url": "https://www.cnn.com/2026/09/17/tech/china-ai-debate-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2292375174.JPG?c=16x9&q=w_800,c_fill",
-      "description": "Unlike in the United States, no one in China seems to be openly fretting over the prospect of humanity being destroyed by artificial intelligence soon."
-    },
-    {
-      "headline": "Can Xi, Trump Set Up AI Guardrails Before the Tech Runs Amok?",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTVKLS1qYkJtd2dPZl9hQ0xCLUI4eHhjZ1p5VDI3QTFvemlBaEZNZEJoYVB2dm41cmRYRHpUcHBtWWxISW5rZkplUXJUdWNhYlQ0Q2hlWERvbDUwaHB2ZmYwaDFGaUpNZDg3dzJwWDk1VXVuWDFNS3BwZ3h1aWdWREc5NmVaSFhBVmlzV0I3ZnlTSTBjeTlSNktCcVNHVGY2MW01RE5LaFFzNUx3ZGVaV3F5TQ?oc=5",
-      "pub_date": 1789707180.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-18/can-xi-trump-set-up-ai-guardrails-before-the-tech-runs-amok",
+      "headline": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "pub_date": 1789726158.0,
+      "article_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Opinion | America and China Look at A.I. and See Very Different Problems",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kSlpEVE5HQUJaQnZrVUFGTUo5anBPcXJLejlGRVc0c1pqZ01mVHZHRXBSbkg0c09JeXVJVVEzNGlxaTF3UjdJaFBoQkJZSXM2OUFpcnNlTWRrekM0WDY5ZFVQRnBQZjNNQ2NCUEwzVDJrYkpzdlBSMw?oc=5",
-      "pub_date": 1789657206.0,
-      "article_url": "https://www.nytimes.com/2026/09/17/opinion/ai-china-america-risk.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI latest: Kings joins debate - as ChatGPT maker discovers 'concerning' message",
-      "source": "Sky News",
-      "source_url": "https://news.sky.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Y1lvbVBvZkQ1T0FaRFJMdlliZU1IaklEb216RFlGVUF3enh3NFZxZ1FVNTV2ZklkX2pyWGRGZjh4MElieER2MUxVMnlSaHU4VjhYdkx1NzhTVDVOT3k4anZDZmtldGg0cFZuYktMYkZ1ZHV6WGk5VlZhRHlhdw?oc=5",
-      "pub_date": 1789712357.0,
-      "article_url": "https://news.sky.com/story/ai-latest-king-warning-chatgpt-openai-13585257",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Nick Knight Used AI to Create H&M\u2019s Interactive Show",
-      "source": "Vogue",
-      "source_url": "https://www.vogue.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTi1sSkE2NEkzNnBhckFpWWZITGxiTzBTZ202R0dJYVdqUkN4Q2NJOWJ6VUctZmhuX2RZS1lWbDNLS1RoQlZram1kVEtlSlVuNGZlS1ZfdWhZdFRCcUFXd1VQSXNrYTF2bm5hcGlJd3JYOTYweGpNZzZhQ0RHSnczN3owclRvX3lTU0kzMFB1OEI?oc=5",
-      "pub_date": 1789705800.0,
-      "article_url": "https://www.vogue.com/article/why-nick-knight-used-ai-to-create-handms-interactive-show",
-      "image": "https://assets.vogue.com/photos/6aac7660bbaf0080f505b545/16:9/w_1280,c_limit/HMAISOCIAL.jpg",
-      "description": "Photographer Nick Knight turned studio stills into AI-generated fashion films for H&M\u2019s latest London Fashion Week show. Here, he and H&M\u2019s creative director explain why they\u2019re experimenting with a technology that still divides fashion."
+      "headline": "Microsoft exec called AI the \u2018largest theft of labor\u2019 in history, court records show",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
+      "pub_date": 1789706825.0,
+      "article_url": "https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2ZF3CXVO7QI65GRSLSPGVIULHM.jpg&w=1440",
+      "description": "The quote headlined an unsealed document in the New York Times\u2019s copyright case against Microsoft and OpenAI."
     },
     {
       "headline": "College Is Coming Apart",
@@ -103,8 +93,18 @@
       "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
       "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
       "description": "Successive, overlapping crises reveal that American higher education makes no sense."
+    },
+    {
+      "headline": "Grandmother falsely accused of bank theft after alleged AI facial recognition match sues for $10M - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmxGNEZIRWpGNkt0d2xBWWhYV1JFRGFUcXphVFFsZUpQRFNIUHljWlFoUlJzUjV3NWx1WlJrWVFneWloWTJqZGROZ2RyTGpQRjBmdEJFWW04V2JmbmlJVHZ0MXRtak8xR1hQN3JmeGNUdU1PakpudXlzNW9XOTI5alpvRVJtUTBMMUpwZG55WDktejZwVGRRcmtmNk5KUdIBowFBVV95cUxPR2k0aW5tRmJQb0c3NGJvRW5PdW9mSlVmUzJOSFFXOXJjT0w0YmRFMHNNblNMcllfT05HUG5OZUdyTjUtTm5rcldwZE03WFVXT0N6TGpxVFBLZWxMTl82Ykt0MkVLZ0pGaGItMlduX0NpcUJsakp2anJ5eXJFQzdPTXZjNHpCUWdCOVoxSEF2UTIzQnluaWc1M0x0bE1paWg0a2Uw?oc=5",
+      "pub_date": 1789682196.0,
+      "article_url": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
+      "image": "https://i.abcnewsfe.com/a/c2daec58-9e48-430c-9d06-53ce95b4e39a/ai-arrest-ht-jt-260917_1789686102716_hpMain_16x9.jpg?w=1600",
+      "description": "A Tennessee grandmother who was falsely accused of bank theft crimes in North Dakota and detained for six months is suing for $10 million."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T06:22:26.600206+00:00"
+  "fetched_at": "2026-09-18T11:38:40.945172+00:00"
 }
