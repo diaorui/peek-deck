@@ -35,8 +35,27 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9578,
+      "github_stars": 9673,
       "project_page": "https://map-yue.github.io/"
+    },
+    {
+      "id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
+      "organization_name": "apodex",
+      "organization_fullname": "Apodex",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
+      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
+      "hf_url": "https://huggingface.co/papers/2608.23283",
+      "arxiv_url": "https://arxiv.org/abs/2608.23283",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
+      "upvotes": 207,
+      "num_comments": 3,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+      "github_stars": 3742,
+      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
       "id": "2609.14858",
@@ -50,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.14858",
       "arxiv_url": "https://arxiv.org/abs/2609.14858",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 223,
+      "upvotes": 224,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
@@ -153,25 +172,6 @@
       "project_page": "https://huggingface.co/spaces/Paper2Agent/alphagenome_agent"
     },
     {
-      "id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
-      "organization_name": "apodex",
-      "organization_fullname": "Apodex",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
-      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
-      "hf_url": "https://huggingface.co/papers/2608.23283",
-      "arxiv_url": "https://arxiv.org/abs/2608.23283",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 207,
-      "num_comments": 3,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 3525,
-      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
-    },
-    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-18T15:57:29.998065+00:00"
+  "fetched_at": "2026-09-18T18:57:37.109188+00:00"
 }
