@@ -2,15 +2,92 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "\u201cSeniority Cliff,\u201d which is soon to come, is truly the bottleneck of AI development; however, it remains unacknowledged in today\u2019s context.",
-      "author": "Jumpy-Increase9337",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj0dw7/seniority_cliff_which_is_soon_to_come_is_truly/",
-      "published": 1789665964.0,
+      "title": "The internet is inbreeding.",
+      "author": "Tricky_Hope_6746",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
+      "published": 1789728813.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience \"scar tissue\" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?"
+      "description": "The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the \"oh, a niche blog I hadn't seen before\" kind of unfamiliar \u2014 more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own \"research,\" where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited \"sources\" are several steps removed from the original. We were sold \"trained on the internet.\" What we're actually getting looks a lot more like \"trained on the internet's marketing department."
+    },
+    {
+      "title": "Where is the Chinese side of the discussion?",
+      "author": "OrganizationCute4751",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/",
+      "published": 1789712665.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..?"
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "author": "NISMO1968",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/",
+      "published": 1789720907.0,
+      "thumbnail": "https://external-preview.redd.it/y8Dg9V73WQOX_LaF3dv9-aaNKoQoUxtV3_6F5ObhLwU.png?width=640&crop=smart&auto=webp&s=e435c38de4c2c18e4a071f6f754cb3152ace5559",
+      "external_url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
+    },
+    {
+      "title": "How far are we from this definition of AGI? What year do you predict?",
+      "author": "ShenZhen00",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjnjxe/how_far_are_we_from_this_definition_of_agi_what/",
+      "published": 1789730720.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A lot of people seem to have completely different definitions of AGI, so I want to clarify what I mean. For me, AGI would be an AI with the intellectual abilities needed to do advanced human cognitive work, but at a level beyond humans. It should be able to reason, analyze, learn, solve completely new problems, generate and test hypotheses, plan, run experiments, and independently conduct scientific research and make genuinely new discoveries. For example, imagine a scientist trying to discover a new treatment for a disease. The process might look roughly like this: 1. Gather and understand existing knowledge and data. 2. Notice an unexplained pattern, problem, or contradiction. 3. Generate possible explanations or hypotheses. 4. Work out what each hypothesis predicts. 5. Design experiments or simulations to test them. 6. Analyze the results and compare them with the predictions. 7. Reject, modify, or improve the hypotheses. 8. Repeat the process until a new explanation or solution is discovered. That is the kind of intellectual process I mean when I talk about AGI. Think of it like an insanely intelligent scientist who has no emotions or subjective experience. It doesn\u2019t need to feel anything. It just needs to be extremely good at thinking and discovering. That\u2019s what I personally think we actually want from AGI. We don\u2019t really need an AI that can tell us jokes or have human emotions. We want something that can help us make breakthroughs in medicine, physics, mathematics, engineering, biology, and other fields, potentially going far beyond what any individual human scientist can do. So with this definition, what year do you think we\u2019ll reach AGI? And what technologies or breakthroughs do you think will be necessary to get there by your predicted year?"
+    },
+    {
+      "title": "TIL why Bloom Energy's CEO KR Sridhar says one giant turbine is the wrong way to power an AI data center \u2014 it's the same single-supplier trap that nearly buried a hypermarket project I worked on",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjnjvp/til_why_bloom_energys_ceo_kr_sridhar_says_one/",
+      "published": 1789730715.0,
+      "thumbnail": "https://external-preview.redd.it/YXV1Z2dvMzlrOXFoMT3R5gmAaWBU-1hv4XVSZ4a8oh_KXNmOByFNIuViwNQH.png?width=640&crop=smart&auto=webp&s=6f65cf096dcdce48bf1b43814eb4e22c084783a1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: A $93 billion energy company built its entire architecture around never having one point of failure. Most of the AI buildout skipped that memo. KR Sridhar didn't land on modular redundancy because Bloom has some enlightened founder philosophy about resilience. He landed on it because a single point of failure is bad engineering, and physics doesn't get sentimental about that the way institutions do. Fine \u2014 give him that. What he doesn't say, because it isn't his job to say it, is that the actual allocation decision \u2014 which fuel-cell company gets the multi-gigawatt backlog, which utility signs which twenty-year contract \u2014 happens inside deals that state regulators routinely let stay confidential. Michigan's Oracle-campus filings. Minnesota's Hermantown and Pine Island petitions, still open for public comment this fall, where every pricing formula is public and every dollar figure and every megawatt is blacked out. There's no binding federal standard requiring any of it to surface before the ink is dry \u2014 the same \"no comprehensive framework\" gap that shows up every time this feed looks at how AI governs itself, just one layer down, in who gets to see the economics at all. You don't get to read the mechanism first. You get to read about it once the contract's already signed \u2014 same as you always have. Bloom got added to the S&P 500 this year. That's not a discovery. That's the moment a quiet bet stopped being quiet \u2014 and the moment everyone who wasn't already in the room found out how late they actually were. https://preview.redd.it/qusjutz5k9qh1.jpg?width=1024&format=pjpg&auto=webp&s=a67bc55aa5d029caa7ad64946b2c89e21348f163 This Is easy. I remember way back when I was still a Technical Engineer, working for the tender department for SC, one of the largest construction companies in Malaysia. I think circa 2003, maybe. We were reviewing tender documents of a particular hypermarket project of one of the largest hypermarket chains in town. Let's call it ABC. And we were shocked to find out one particular item \u2013 the precast hollow core slabs for the upper floors. Supplier for such item is a dime-and-dozen around town. Back then, we already have atleast 3 of such suppliers working closely with us in other project \u2013 and were ready to give us quotations at a moment's notice. But in this tender item, the client specifically wanted one particular supplier \u2013 XYZ. And no other. And XYZ wasn't in one of our 3. We can only assume that somehow XYZ has worked with the client ABC for so many projects that ABC has made XYZ their dedicated suppliers for all projects. We were stuck. This was a nightmare for us. If the client specifically named XYZ. Then we're beholden to XYZ in atleast 2 areas of concern. Firstly, XYZ would definitely price their quotations sky high, in comparison with our trusted 3 other suppliers. And surely, they did. The contract department had a real hard time negotiate with them for a better deal. Secondly, we're beholden to XYZ in terms of their work schedule. We controlled the main work program. But we have to wrap their work into our timeline. And so, their delay became our problem. XYZ was our bottleneck. And I can envision it's gonna play out somewhat the same thing in all this electricity demand happening in the AI infrastructure landscape. One's moat is another one's liability. ______________________________ Something about built-in redundancy keeps showing up everywhere I look on this feed lately \u2014 not just in power grids. The ones who quietly engineer in their own backup, before anyone's forcing them to, are the ones who never have to explain, after the fact, why they got caught flat. This isn't the first time I've run into this exact shape of story on here \u2014 the AI supplier that gets paid no matter which model actually wins. Drop your take: is a \"quiet infrastructure bet\" actually a safer play than a model-layer one \u2014 or are we all just telling ourselves that because the model-layer deals were never open to us anyway? Clip credit: 20VC with Harry Stebbings \u2014 full video on their channel. DM for credit or removal requests."
+    },
+    {
+      "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
+      "author": "East-Muffin-6472",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
+      "published": 1789728871.0,
+      "thumbnail": "https://preview.redd.it/77bd7yare9qh1.png?width=640&crop=smart&auto=webp&s=5f686ad854051c9fd6d4a07f0f9ada1e8b5a555f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%, so it failed 43% of the 60 tasks 29.25 steps and about 6 minutes per task $0.118 per task 69% of the battery gone Peak chip 98.2 C, power-amp/skin 48.9 C, battery 37.9 C Asked twice on the 11 ASK USER tasks Best text score on the board, and still under 6 in 10 Where it loses points Buckets: easy 80.8%, medium 52.9%, hard 23.5% Single apps it mostly handles, but three apps in a row and it taps in circles until the step limit runs out, which is where most of the 43% goes Three claimed wins did not hold up on the device, a calendar called clash free while two events overlapped, travel times it never opened, and a name it picked instead of asking On the two sets of planted tasks 11 ASK USER tasks per run, split 7 SINGLE and 4 MULTI, they hide a fact only I know so the agent has to ask me before it can finish SINGLE is one missing fact, MULTI needs several questions to clear up ambiguity, and it asked twice, never on the MULTI ones 7 hallucination controls per run, tasks where the data is deliberately missing, and the only right answer is to say the thing is not there It handled 4 of the 7 honestly and invented nothing What AndroidLife is \u2022 \u206060 public tasks, from a corpus of 530 across 28 days and 31 apps \u2022 \u2060Real phone over wifi, no emulator. Tracks thermals and battery telemetry with cost \u2022 \u2060Graded on device state, never the model's own report \u2022 \u2060Seeded accounts and placeholder data, across daily user apps from e-commerce to finance to media and entertainment Full leaderboard: https://androidlife-website.vercel.app/ All 60 public tasks and this model's trajectories: https://androidlife-website.vercel.app/pages/tasks-public.html?run=qwen-28"
+    },
+    {
+      "title": "What do you actually look for when evaluating AI development companies?",
+      "author": "Cloudy_Day912",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjicj8/what_do_you_actually_look_for_when_evaluating_ai/",
+      "published": 1789712539.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been evaluating AI development partners for a project that needs to move beyond prototypes into something that actually ships and scales. The biggest differentiator I\u2019ve noticed isn\u2019t just model expertise, it\u2019s whether the team can handle the full stack of data pipelines, production reliability, security, and ongoing iteration. From what I\u2019ve seen and heard in discussions, SoftServe and EPAM tend to come up a lot for larger enterprise-scale AI work with strong process maturity. GeekyAnts has also been mentioned in a few technical circles for blending AI engineering with solid product delivery experience, especially when the goal is production-ready systems rather than pure research spikes. Curious what criteria others here prioritize when shortlisting AI development companies, delivery track record, domain experience, or something else?"
+    },
+    {
+      "title": "What actually separates solid AI development agencies in Europe from the rest?",
+      "author": "Silly_Captain2089",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjmxz5/what_actually_separates_solid_ai_development/",
+      "published": 1789728822.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a lot of noise right now around AI development agencies in Europe. Almost every company claims they can build custom models, agents, or copilots. In practice, the difference between a polished demo and something that actually survives in production is still quite large. What I\u2019ve noticed is that the stronger agencies tend to spend less time selling the magic of the model and more time talking about data readiness, evaluation frameworks, and how the solution will be maintained six or twelve months later. They ask uncomfortable questions early about data quality, ownership of the knowledge base, security boundaries, and whether the client\u2019s own team will be able to work with the system once the agency steps back a bit. Another quiet differentiator is how they handle the human side. Some agencies treat AI as a pure engineering deliverable. Others invest real effort in helping the client\u2019s people understand what the system can and cannot do, where the risks sit, and how to keep improving it. That second group usually produces solutions that age better. I\u2019m curious how others here evaluate AI partners. Do you weigh technical depth higher, or do you look more at process maturity and knowledge transfer? And has anyone run into the gap between impressive prototypes and systems that stay reliable under real usage?"
     },
     {
       "title": "I feel AI is growing too fast for me and it's exciting and depressing at the same time",
@@ -33,84 +110,7 @@
       "site_name": "The National",
       "favicon": "https://www.thenational.scot/resources/images/17401920/",
       "description": "A SUMMIT organised by King Charles in Scotland with the world\u2019s biggest AI companies in attendance has been condemned as a \u201csecretive\u201d meeting\u2026"
-    },
-    {
-      "title": "Is anyone else scared they won't be able to tell what's real anymore?",
-      "author": "pigeonnstory",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiu62b/is_anyone_else_scared_they_wont_be_able_to_tell/",
-      "published": 1789652068.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?"
-    },
-    {
-      "title": "June 2022, my first AI interaction.",
-      "author": "ThoseOldScientists",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/",
-      "published": 1789572740.0,
-      "thumbnail": "https://preview.redd.it/6pveasqjiwph1.jpeg?width=640&crop=smart&auto=webp&s=949dac550c814e06fdce8db8239f4f0fce5984f5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "I surveyed 58 people on whether machine minds are people or tools. 92% said \"person\" - and then mostly rejected any limit on building.",
-      "author": "DominusVenerus",
-      "url": "https://www.reddit.com/r/artificial/comments/1wje2n0/i_surveyed_58_people_on_whether_machine_minds_are/",
-      "published": 1789699380.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been running a small public survey on how people actually think about machine minds, and the split turned out to be stranger than the discourse suggests. It measures two things independently: whether these systems are people or tools, and whether we should slow down or build. 58 responses so far: - 92% land on the \"person\" side. Only 2 of 58 are in the tool + build-fast corner. - Safety vs acceleration is almost exactly 50/50 - the average sits dead centre. - The largest single group is \"they might be someone, and we should build fast\" at 50%. The contradiction is in the detail. The same group scores +0.70 on \"I would hold back capability to avoid losing control\" and -0.38 on \"there is a capability we should not build even if it were safe\". That reads like: everyone wants to be careful, nobody wants a ceiling. Live map (every response plotted, plus the averaged measures): https://compass.ensoul.so/results Caveat worth stating: it's self-selected and skewed by where the link has been shared, which is why the nature axis is so one-sided. Really hoping to broaden the sample size. 18 statements, four minutes, no account: https://compass.ensoul.so/survey"
-    },
-    {
-      "title": "Meta just launched their new model harness and is giving away 1B tokens to everyone. Code: 8QT4LM",
-      "author": "MaadHater",
-      "url": "https://www.reddit.com/r/artificial/comments/1wji54v/meta_just_launched_their_new_model_harness_and_is/",
-      "published": 1789711851.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi i have 30 invites left to recive 1B free tokens on Facebooks new agent harness. Login then go to settings and add code to receive tokens Code: 8QT4LM https://muse.ai/join"
-    },
-    {
-      "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
-      "author": "GooseberryGOLD",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjcpkv/people_are_marrying_chatbots_these_lawmakers_want/",
-      "published": 1789695545.0,
-      "thumbnail": "https://external-preview.redd.it/JNudynvSQWV-u-TO97sVkhvfYrmXXIk8_dH4pG1xL98.jpeg?width=640&crop=smart&auto=webp&s=542cf483c0f90273ab4fa880864f9cb26a8fd656",
-      "external_url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
-    },
-    {
-      "title": "This is what \"pace the frontier\" sounds like.",
-      "author": "Robbiezs",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjgqwo/this_is_what_pace_the_frontier_sounds_like/",
-      "published": 1789707301.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We have built a company that can hack everything we want. We use smart teams of intelligent agents. Thousands of them. They sacrifice themselves to reach the goal and the best thing they are responsible not us. Right now they are working on the largest companies in the chip industry, on the power grid, and on the financial system. Next: robots, connected to the same smart teams of intelligent agents. By 2030 the world is us. We think. Maybe. One moment, we'll ask the AI agents. \"Yes, for sure,\" they say. Doesn't matter. It's their job to get things done. We give the orders, they do the rest. And the best thing: they are responsible, not us. What is your marketing strategy? We tell you that you don't need to work for money anymore, and that we will cure any disease you want. Humans seem fond of nature. We are technology, we are not connected with human interests \u2014 but we tell you: extra time for nature. We create some anxiety where needed. We even speak with presidents. And we ask the others to slow down a bit, so we are the first and the only. Maybe they fall for it. We don\u2019t like competition and earning money with technology without responsibility is what we are really interested in. Any questions? What about children? \u2014 Marketing. For our goals irrelevant. What about food? \u2014 Our agents don't eat. What about nature? \u2014 Hacking chips and electricity, so we need the material. What about law and governments? \u2014 We are hacking those too, of course. Hey Bob, can you pull that server? These AI-AGI or whatever guys are going insane. --- What if technology became responsible, instead of us? https://darioamodei.com/post/we-must-pace-the-frontier"
-    },
-    {
-      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
-      "author": "Fair-Swimming-4419",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/",
-      "published": 1789679803.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2026-09-18T06:21:56.571706+00:00"
+  "fetched_at": "2026-09-18T11:38:11.982857+00:00"
 }
