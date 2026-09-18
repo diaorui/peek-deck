@@ -5,36 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Tipping Point: A Citrini Field Trip",
-      "source": "citriniresearch.com",
-      "source_url": "https://www.citriniresearch.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
-      "pub_date": 1789569274.0,
-      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
-      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
-      "description": "Seeing is Believing"
-    },
-    {
-      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
-      "pub_date": 1789470017.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Terminator now: China is exploring humanoid robots for war",
-      "source": "Asia Times",
-      "source_url": "https://asiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHpzMklTd2lVZ1N1UkhoWjdtdk1jY1drNDhhaXl1bFlmNGh6Z1h6alZtbmJCS2tQT09UTG1GbGdsSW5kZ2hxcjhJVUl2bVVUZGNlUFRKSkpWRG9rMlVLN1lxV1ZxUVNEZHlLQ2NxSE5WVDJ2eThtc3o5TzZyVmxmZzBsd05RWFpxeHNjTXVTQjdGUQ?oc=5",
-      "pub_date": 1789533187.0,
-      "article_url": "https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Robotics: Firms race to improve robot training systems",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -45,12 +15,32 @@
       "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
-      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
-      "pub_date": 1789650000.0,
-      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+      "headline": "Robotics Tipping Point: A Citrini Field Trip",
+      "source": "citriniresearch.com",
+      "source_url": "https://www.citriniresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
+      "pub_date": 1789569274.0,
+      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
+      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
+      "description": "Seeing is Believing"
+    },
+    {
+      "headline": "Soldiers and students study drone technology together",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82TDVSM09YVl81QzBxVXhoaEFOeVZwXy0xaXFoU0JoY05kMmtfS0hyNmxuX21jZ0l1dk04RVUzN0J6V3Z6QjhQUzZ0LXQ1N1VQLWF4VmljaE5WVVU?oc=5",
+      "pub_date": 1789708719.0,
+      "article_url": "https://www.bbc.com/news/articles/cwvgyj1z381mo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9a8e/live/7d48c5b0-b2d7-11f1-a430-4d16ee157c41.jpg",
+      "description": "The new degree in Hereford combines drone technology, robotics and engineering skills."
+    },
+    {
+      "headline": "Agility Unveils Humanoid That Can Work Safely Alongside People",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW5GcG9xOEVUdWMxNm9XRFlCZHdlNWg1bjBoaXc5Y3VYbVR4Zzh5QTZKU1ViTWZkdXhISi1VZjZPN0lVQk9XZEgwRzc2YmphYWpGUndTQ2plczdFM25Ra2pNanE3ak9lcWNaVlZta1FMVkJMMzhsWTM4LTF2Rlpld3hoZVpfdnVEdjRvRjR4bzdwdlI3eGZfUWxNLUhOUG9rVGljNl9EeEVkSlM2ZlNIeGgycEtGaDhsaVltNVZqNWFvYnc?oc=5",
+      "pub_date": 1789470017.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans",
       "image": null,
       "description": null
     },
@@ -65,14 +55,24 @@
       "description": "Today, we introduce Helix 2.5, the most advanced neural network Figure has built."
     },
     {
-      "headline": "Robotic lab sets up and runs optics experiments on demand",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
-      "pub_date": 1789617600.0,
-      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
-      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
-      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
+      "headline": "Terminator now: China is exploring humanoid robots for war",
+      "source": "Asia Times",
+      "source_url": "https://asiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHpzMklTd2lVZ1N1UkhoWjdtdk1jY1drNDhhaXl1bFlmNGh6Z1h6alZtbmJCS2tQT09UTG1GbGdsSW5kZ2hxcjhJVUl2bVVUZGNlUFRKSkpWRG9rMlVLN1lxV1ZxUVNEZHlLQ2NxSE5WVDJ2eThtc3o5TzZyVmxmZzBsd05RWFpxeHNjTXVTQjdGUQ?oc=5",
+      "pub_date": 1789533187.0,
+      "article_url": "https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
+      "pub_date": 1789650000.0,
+      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Why do some robots feel creepy? We deliberately built one to find out",
@@ -85,6 +85,16 @@
       "description": "Why do some people perceive a robot as \u2018creepy\u2019 while others don\u2019t? It seems our response to these increasingly common non-human companions is highly subjective."
     },
     {
+      "headline": "Robotic lab sets up and runs optics experiments on demand",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
+      "pub_date": 1789617600.0,
+      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
+      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
+    },
+    {
       "headline": "'Scoff at your own risk:\u2019 Viral investment research firm says AI robots are a coming mega-trend",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -93,18 +103,8 @@
       "article_url": "https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html",
       "image": "https://s.yimg.com/lo/mysterio/api/ce40349f0d414848162fd7b11a655ac3dd17bca814687716ac71b8a7a320f7a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F30102d2834d64d78fdf25d4310da4395.jpg",
       "description": "Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market."
-    },
-    {
-      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
-      "pub_date": 1789577483.0,
-      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T01:23:39.945760+00:00"
+  "fetched_at": "2026-09-18T06:22:15.948363+00:00"
 }
