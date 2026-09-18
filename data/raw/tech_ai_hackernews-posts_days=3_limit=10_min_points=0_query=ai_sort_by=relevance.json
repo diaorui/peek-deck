@@ -9,7 +9,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "hn_url": "https://news.ycombinator.com/item?id=49723408",
       "author": "vertigoruntime",
-      "points": 580,
+      "points": 582,
       "num_comments": 204,
       "created_at": "2026-09-16T08:08:57Z",
       "object_id": "49723408",
@@ -19,32 +19,32 @@
       "site_name": "Mistral"
     },
     {
-      "title": "AI safety is mostly a sex cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-      "hn_url": "https://news.ycombinator.com/item?id=49737985",
-      "author": "Tomte",
-      "points": 273,
-      "num_comments": 224,
-      "created_at": "2026-09-17T08:36:37Z",
-      "object_id": "49737985",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "skywriter.blue"
-    },
-    {
       "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
       "url": "https://bend-lang.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49746163",
       "author": "nicolas-siplis",
-      "points": 273,
-      "num_comments": 136,
+      "points": 398,
+      "num_comments": 194,
       "created_at": "2026-09-17T20:36:13Z",
       "object_id": "49746163",
       "image": null,
       "description": "Bend: a fast language that blocks AI mistakes via proof.",
       "favicon": "https://bend-lang.com/favicon.ico",
       "site_name": "bend-lang.com"
+    },
+    {
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "hn_url": "https://news.ycombinator.com/item?id=49737985",
+      "author": "Tomte",
+      "points": 288,
+      "num_comments": 235,
+      "created_at": "2026-09-17T08:36:37Z",
+      "object_id": "49737985",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "skywriter.blue"
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
@@ -61,26 +61,12 @@
       "site_name": "404 Media"
     },
     {
-      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=49734264",
-      "author": "etoxin",
-      "points": 189,
-      "num_comments": 96,
-      "created_at": "2026-09-16T23:06:39Z",
-      "object_id": "49734264",
-      "image": "https://openspec.dev/og-card.jpg",
-      "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
-      "favicon": "https://openspec.dev/apple-touch-icon.png",
-      "site_name": "OpenSpec"
-    },
-    {
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49740105",
       "author": "steveybrown",
-      "points": 182,
-      "num_comments": 94,
+      "points": 206,
+      "num_comments": 118,
       "created_at": "2026-09-17T13:01:44Z",
       "object_id": "49740105",
       "image": "https://mysetup.ai/social-preview.png",
@@ -89,12 +75,26 @@
       "site_name": "mysetup.ai"
     },
     {
+      "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=49734264",
+      "author": "etoxin",
+      "points": 193,
+      "num_comments": 97,
+      "created_at": "2026-09-16T23:06:39Z",
+      "object_id": "49734264",
+      "image": "https://openspec.dev/og-card.jpg",
+      "description": "OpenSpec helps teams and coding agents create, refine, and manage living specifications.",
+      "favicon": "https://openspec.dev/apple-touch-icon.png",
+      "site_name": "OpenSpec"
+    },
+    {
       "title": "Sex, AI, and the Apocalypse",
       "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
       "hn_url": "https://news.ycombinator.com/item?id=49746654",
       "author": "Anon84",
-      "points": 157,
-      "num_comments": 142,
+      "points": 179,
+      "num_comments": 186,
       "created_at": "2026-09-17T21:15:52Z",
       "object_id": "49746654",
       "image": "https://iankduncan.com/portrait.jpg",
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49712416",
       "author": "jbkcc",
       "points": 92,
-      "num_comments": 78,
+      "num_comments": 79,
       "created_at": "2026-09-15T13:41:55Z",
       "object_id": "49712416",
       "image": null,
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49721435",
       "author": "djfergus",
       "points": 86,
-      "num_comments": 49,
+      "num_comments": 50,
       "created_at": "2026-09-16T02:25:18Z",
       "object_id": "49721435",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2JFGHWHDDM5TY9NKS0TY8B3.01M2JFGJS6SBSH4SX8FC56CVPD.png",
@@ -145,7 +145,7 @@
       "site_name": "Cloudflare Blog"
     }
   ],
-  "total_hits": 790,
+  "total_hits": 793,
   "has_metadata": true,
-  "fetched_at": "2026-09-18T01:23:22.406420+00:00"
+  "fetched_at": "2026-09-18T06:21:55.333645+00:00"
 }

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T01:23:46.204238+00:00'
+updated: '2026-09-18T06:22:28.930770+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 01:23 UTC  
+**Last Updated:** September 18, 2026 at 06:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-4d ago
+5d ago
 
 ---
 
@@ -112,11 +112,27 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 7h ago
+
+---
+
 **[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
 
 Seeing is Believing
 
 citriniresearch.com • 1d ago
+
+---
+
+**[Soldiers and students study drone technology together](https://www.bbc.com/news/articles/cwvgyj1z381mo)**
+
+The new degree in Hereford combines drone technology, robotics and engineering skills.
+
+BBC • 1h ago
 
 ---
 
@@ -126,39 +142,23 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
+**[Helix 2.5: Zero-Shot 30-Home Generalization](https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization)**
 
-Asia Times • 1d ago
+Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
+
+Figure • 17h ago
 
 ---
 
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
 
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
-
-BBC • 2h ago
+Asia Times • 2d ago
 
 ---
 
 **[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-SpaceNews • 12h ago
-
----
-
-**[Helix 2.5: Zero-Shot 30-Home Generalization](https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization)**
-
-Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
-
-Figure • 12h ago
-
----
-
-**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
-
-The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
-
-MIT News • 21h ago
+SpaceNews • 17h ago
 
 ---
 
@@ -166,7 +166,15 @@ MIT News • 21h ago
 
 Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
 
-The Conversation • 23h ago
+The Conversation • 1d ago
+
+---
+
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+
+MIT News • 1d ago
 
 ---
 
@@ -174,15 +182,7 @@ The Conversation • 23h ago
 
 Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
 
-Yahoo Finance • 15h ago
-
----
-
-**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
-
-How to secure today’s AI robots against stealth cyber threats
-
-IEEE Spectrum • 1d ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -196,7 +196,55 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 104K • 👍 4K • 💬 490 • ⏱️ 16:24 • 9h ago
+👁️ 299K • 👍 6K • 💬 706 • ⏱️ 16:24 • 14h ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 88K • 👍 2K • 💬 615 • ⏱️ 13:22 • 6d ago
+
+---
+
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 25K • 👍 318 • 💬 20 • ⏱️ 24:48 • 5d ago
+
+---
+
+**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
+
+Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
+
+📺 FutureTech Zone
+
+👁️ 91K • 👍 1K • 💬 226 • ⏱️ 0:25 • 6d ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 44K • 👍 364 • 💬 38 • ⏱️ 18:12 • 4d ago
+
+---
+
+**[Robotic-Gathoni🤖🥰 #robot #robotics #fyp](https://www.youtube.com/watch?v=wdnbeCQdyOM)**
+
+📺 Robotic Haika🤖💖
+
+👁️ 1K • 👍 25 • ⏱️ 0:25 • 15h ago
 
 ---
 
@@ -210,83 +258,33 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 87K • 👍 827 • 💬 611 • ⏱️ 13:22 • 6d ago
-
----
-
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
-
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
-
-📺 DPCcars
-
-👁️ 935 • 👍 36 • 💬 3 • ⏱️ 2:56 • 11h ago
-
----
-
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 89K • 👍 1K • 💬 226 • ⏱️ 0:25 • 6d ago
-
----
-
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
-
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
-
-📺 The AI Nexus
-
-👁️ 24K • 👍 314 • 💬 20 • ⏱️ 24:48 • 5d ago
-
----
-
 **[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
 In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
 📺 Steven Ndukwu
 
-👁️ 531K • 👍 6K • 💬 787 • ⏱️ 27:23 • 5d ago
+👁️ 558K • 👍 6K • 💬 804 • ⏱️ 27:23 • 5d ago
 
 ---
 
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+**[WE NEED TO KNOW: Which Robot is actually BETTER? War Robots UE Showdown](https://www.youtube.com/watch?v=A-abjlVHBvQ)**
 
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+War Robots Gameplay: UE Hawk Vs UE Typhon - Which Ultimate Robot is actually the better one? This is the showdown of ...
 
-📺 Ai Futuristic Robotics
+📺 Manni-Gaming
 
-👁️ 42K • 👍 350 • 💬 36 • ⏱️ 18:12 • 4d ago
-
----
-
-**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
-
-New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
-
-📺 Baprimo
-
-👁️ 201K • 👍 1K • 💬 12 • ⏱️ 12:08 • 5d ago
+👁️ 11K • 👍 333 • 💬 69 • ⏱️ 23:12 • 18h ago
 
 ---
 
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
 
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
 
-📺 ejunky66
+📺 PRO ROBOTS
 
-👁️ 4K • 👍 170 • 💬 7 • ⏱️ 1:00 • 11h ago
+👁️ 23K • 👍 214 • 💬 28 • ⏱️ 16:01 • 5d ago
 
 ---
 
