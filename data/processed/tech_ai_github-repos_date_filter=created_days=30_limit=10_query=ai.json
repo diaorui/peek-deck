@@ -8,10 +8,10 @@
       "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
       "url": "https://github.com/bojieli/ai-infra-book",
       "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
-      "stars": 4372,
+      "stars": 4375,
       "stars_display": "4.4k",
-      "forks": 313,
-      "forks_display": "313",
+      "forks": 314,
+      "forks_display": "314",
       "language": "Python",
       "topics": [
         "accelerator",
@@ -30,7 +30,7 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2680,
+      "stars": 2681,
       "stars_display": "2.7k",
       "forks": 177,
       "forks_display": "177",
@@ -42,7 +42,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-18T18:20:23Z"
+      "updated_at": "2026-09-18T23:43:20Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
@@ -68,7 +68,7 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2130,
+      "stars": 2134,
       "stars_display": "2.1k",
       "forks": 37,
       "forks_display": "37",
@@ -90,7 +90,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2093,
+      "stars": 2094,
       "stars_display": "2.1k",
       "forks": 213,
       "forks_display": "213",
@@ -106,7 +106,7 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1998,
+      "stars": 1999,
       "stars_display": "2.0k",
       "forks": 199,
       "forks_display": "199",
@@ -166,10 +166,10 @@
       "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
       "url": "https://github.com/jtydhr88/screenwriting-skills",
       "preview_image": "https://opengraph.githubassets.com/6202796650758594e951ea6ff88d3661478127ef213cd39e2aa79e4149103652/jtydhr88/screenwriting-skills",
-      "stars": 1249,
-      "stars_display": "1.2k",
-      "forks": 138,
-      "forks_display": "138",
+      "stars": 1251,
+      "stars_display": "1.3k",
+      "forks": 139,
+      "forks_display": "139",
       "language": "Python",
       "topics": [
         "ai",
@@ -204,6 +204,6 @@
   "search_query": "ai created:>2026-08-19",
   "days": 30,
   "limit": 10,
-  "total_count": 464871,
-  "fetched_at": "2026-09-18T21:33:39.986846+00:00"
+  "total_count": 465623,
+  "fetched_at": "2026-09-18T23:55:12.369083+00:00"
 }
