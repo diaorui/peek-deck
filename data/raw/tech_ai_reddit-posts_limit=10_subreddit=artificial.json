@@ -13,6 +13,28 @@
       "description": "The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the \"oh, a niche blog I hadn't seen before\" kind of unfamiliar \u2014 more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own \"research,\" where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited \"sources\" are several steps removed from the original. We were sold \"trained on the internet.\" What we're actually getting looks a lot more like \"trained on the internet's marketing department."
     },
     {
+      "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking \u2014 despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+      "author": "xx_HeckinChonker_xx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/",
+      "published": 1789762333.0,
+      "thumbnail": "https://external-preview.redd.it/RCEz5Wf0kKy-l90RbfOIF8ZBa0vvXuXmL5oGUQ8XldI.png?width=640&crop=smart&auto=webp&s=32eda970772965070be6253327666b33bb016e28",
+      "external_url": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
+      "description": "The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians."
+    },
+    {
+      "title": "US military had close call after using AI for false intelligence report, sources say",
+      "author": "PerAsperaAdMars",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/",
+      "published": 1789758190.0,
+      "thumbnail": "https://external-preview.redd.it/cAv-ChJHEQyBRThoctkgrHPwBmVXg4oGIxi3jVL5ElA.jpeg?width=640&crop=smart&auto=webp&s=e4c4ce3d3c4e2d39a4c204f865fd0db5fe7c5997",
+      "external_url": "https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "site_name": "CNN",
+      "favicon": "https://edition.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
+    },
+    {
       "title": "Where is the Chinese side of the discussion?",
       "author": "OrganizationCute4751",
       "url": "https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/",
@@ -22,6 +44,28 @@
       "site_name": null,
       "favicon": null,
       "description": "AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..?"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "author": "Adventurous-Host8062",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
+      "published": 1789759604.0,
+      "thumbnail": "https://external-preview.redd.it/YQon0B1e0EfcHiLUr--hGInt6j4kGn9MDzKJffBDtqQ.jpeg?width=640&crop=smart&auto=webp&s=500b848df756ebd4f9baf9db874428f17913ac5c",
+      "external_url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html",
+      "site_name": "Yahoo Tech",
+      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
+      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
+    },
+    {
+      "title": "Stuxnet Versus Skynet. The AI apocalypse may not require \u201cconscious\u201d machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/",
+      "published": 1789753995.0,
+      "thumbnail": "https://external-preview.redd.it/1rxNj5MEgV5YhUCHY0thDcyhDkSS_PG1OrLtniGugBY.jpeg?width=640&crop=smart&auto=webp&s=d2729446682c4efcb7e38e7934f4534391c32f92",
+      "external_url": "https://www.truthdig.com/articles/stuxnet-versus-skynet/",
+      "site_name": "Truthdig",
+      "favicon": "https://truthdig.b-cdn.net/wp-content/uploads/2022/05/cropped-favicon.png?fit=180,180",
+      "description": "The AI apocalypse may not require \u2018conscious\u2019 machines at all, but only supercharged digital attack worms like the one released against Iran in 2010."
     },
     {
       "title": "Stability vs. speed: Rethinking ASR for the age of voice agents",
@@ -46,17 +90,6 @@
       "description": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
     },
     {
-      "title": "Stuxnet Versus Skynet. The AI apocalypse may not require \u201cconscious\u201d machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.",
-      "author": "coolbern",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/",
-      "published": 1789753995.0,
-      "thumbnail": "https://external-preview.redd.it/1rxNj5MEgV5YhUCHY0thDcyhDkSS_PG1OrLtniGugBY.jpeg?width=640&crop=smart&auto=webp&s=d2729446682c4efcb7e38e7934f4534391c32f92",
-      "external_url": "https://www.truthdig.com/articles/stuxnet-versus-skynet/",
-      "site_name": "Truthdig",
-      "favicon": "https://truthdig.b-cdn.net/wp-content/uploads/2022/05/cropped-favicon.png?fit=180,180",
-      "description": "The AI apocalypse may not require \u2018conscious\u2019 machines at all, but only supercharged digital attack worms like the one released against Iran in 2010."
-    },
-    {
       "title": "Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI",
       "author": "willm8032",
       "url": "https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/",
@@ -68,49 +101,16 @@
       "description": null
     },
     {
-      "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
-      "author": "East-Muffin-6472",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
-      "published": 1789728871.0,
-      "thumbnail": "https://preview.redd.it/77bd7yare9qh1.png?width=640&crop=smart&auto=webp&s=5f686ad854051c9fd6d4a07f0f9ada1e8b5a555f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%, so it failed 43% of the 60 tasks 29.25 steps and about 6 minutes per task $0.118 per task 69% of the battery gone Peak chip 98.2 C, power-amp/skin 48.9 C, battery 37.9 C Asked twice on the 11 ASK USER tasks Best text score on the board, and still under 6 in 10 Where it loses points Buckets: easy 80.8%, medium 52.9%, hard 23.5% Single apps it mostly handles, but three apps in a row and it taps in circles until the step limit runs out, which is where most of the 43% goes Three claimed wins did not hold up on the device, a calendar called clash free while two events overlapped, travel times it never opened, and a name it picked instead of asking On the two sets of planted tasks 11 ASK USER tasks per run, split 7 SINGLE and 4 MULTI, they hide a fact only I know so the agent has to ask me before it can finish SINGLE is one missing fact, MULTI needs several questions to clear up ambiguity, and it asked twice, never on the MULTI ones 7 hallucination controls per run, tasks where the data is deliberately missing, and the only right answer is to say the thing is not there It handled 4 of the 7 honestly and invented nothing What AndroidLife is \u2022 \u206060 public tasks, from a corpus of 530 across 28 days and 31 apps \u2022 \u2060Real phone over wifi, no emulator. Tracks thermals and battery telemetry with cost \u2022 \u2060Graded on device state, never the model's own report \u2022 \u2060Seeded accounts and placeholder data, across daily user apps from e-commerce to finance to media and entertainment Full leaderboard: https://androidlife-website.vercel.app/ All 60 public tasks and this model's trajectories: https://androidlife-website.vercel.app/pages/tasks-public.html?run=qwen-28"
-    },
-    {
-      "title": "I tried to build an AI that can't be talked out of a correct answer \u2014 here's what actually breaks that in practice",
-      "author": "Acceptable_Army_6472",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjxc27/i_tried_to_build_an_ai_that_cant_be_talked_out_of/",
-      "published": 1789754102.0,
+      "title": "OpenAI breakthrough triggers \u2018existential crisis\u2019 in math",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk0xx0/openai_breakthrough_triggers_existential_crisis/",
+      "published": 1789762086.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
+      "site_name": "science.org",
       "favicon": null,
-      "description": "Every \"brutally honest\" AI feedback tool I've tried eventually folds. You push back, express a little frustration, or just repeat yourself, and it quietly walks the criticism back \u2014 not because you gave it new information, but because it's optimized to keep you comfortable. That's not a prompting failure, it's a structural one: a model tuned to be liked and a model tuned to be accurate will diverge over a long enough conversation. I spent the last few weeks trying to build around that specifically, using myself as the test case (placement prep \u2014 repos, resumes, project pitches). The interesting part wasn't the \"give harsh feedback\" prompt, which is trivial. The interesting part was making the harshness durable under pressure. A few things I learned building it: Every critique needs a citation stored as its own row, not just text in a response, or you have no way to check later whether pushback is pointing at something real. \"Did the user provide new evidence\" turned out to be a genuinely hard classification problem \u2014 early versions treated confident-sounding pushback as evidence even when it was fabricated. Fixed by having the system re-fetch the live source and verify the claim before ever updating a verdict, rather than trusting the user's description of it. The failure mode I didn't expect: retrieved context (for a memory/recall feature) started leaking its formatting and tone into new responses through pure in-context pattern-matching, even with the correct system prompt in place and never bypassed. The prompt being \"right\" wasn't sufficient \u2014 the examples in context mattered just as much as the instructions. Live Link - https://raw-take-amber.vercel.app/ I've deployed a working version (5 modules: repo/resume/pitch analysis, a free-form \"callout\" mode with cross-conversation memory, and a mode that fact-checks another AI's response against the same evidence). Not asking anyone to sign up for anything \u2014 genuinely more interested in whether people here can find a way to talk it out of a verdict it shouldn't change, or whether the \"won't fold\" claim actually holds against real adversarial pushback. Happy for any kind of feedback"
-    },
-    {
-      "title": "AI Research Agent: 100+ ML Papers \u2192 One Personalized Research Report",
-      "author": "Formal-Primary-7782",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjo5o5/ai_research_agent_100_ml_papers_one_personalized/",
-      "published": 1789732586.0,
-      "thumbnail": "https://preview.redd.it/j4nnmk62o9qh1.png?width=640&crop=smart&auto=webp&s=ad50e87c3444014157f4be487bd3c80249172f03",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "So I like keeping up with ML research by reading papers as they come out. Cool in theory, except... there are a lot of them. At some point it stops being fun and just becomes a filtering problem \u2014 which ones are actually relevant to me, have I seen this one already, is this worth my Sunday afternoon or not. That annoyance is basically the origin story of the Research Intelligence System, an AI agent that does the boring part of research for you. You set up a research profile (your interests, basically), and the agent goes off and searches for new papers from places like arXiv and Hugging Face Papers, checks if it already processed a paper before (no duplicates), ranks everything against your profile, and picks the best matches. Then it analyzes each one and spits out a full report ,in English and Portuguese. split into four sections: Overview, Recommended Papers, Comparison, and Points for Further Study. Each paper gets a summary hitting its main points, just enough for you to decide \"yeah I wanna dig into this one\" or \"nah, next.\" To be clear, the goal isn't to replace actually reading the papers. It's just handling the repetitive discovery/filtering/ranking grind so you spend your actual reading time on stuff that matters to you. I also really wanted this to run on its own without me babysitting it, so there's a scheduler baked in ,set it to run every Sunday (or whenever) and it just... does its thing. Searches, ranks, generates the report. No clicking required. For this first version I kept it intentionally bare-bones: run info prints straight to the terminal, report comes out as a Markdown file. No dashboard, no extra UI on top. Wanted the core pipeline solid before adding any of that. It's open source, README walks through setup start to finish \u2014 pretty quick to get running. If you try it and have ideas for improvements, open an issue. It's open source so hey, it's kinda yours too now lol. GitHub: https://github.com/MarcosSete/research-agent-2 #AI #MachineLearning #AgenticAI #AIResearch #LLM #DeepLearning #OpenSource #Python #Research"
-    },
-    {
-      "title": "Killer AI is already here\u2014we\u2019re using it in Iran",
-      "author": "motherjonesmag",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjwzu3/killer_ai_is_already_herewere_using_it_in_iran/",
-      "published": 1789753356.0,
-      "thumbnail": "https://external-preview.redd.it/yCZ1aLUQc4GUeDREAaepChJehgt-KmrbH4mBcplK2uk.jpeg?width=640&crop=smart&auto=webp&s=8289059b0c738f9ec4be4a79582d2b9be8d2600b",
-      "external_url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
-      "site_name": "Mother Jones",
-      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
-      "description": "Despite AI fears, a new poll shows few Americans know about the Pentagon's AI-assisted massacres."
+      "description": null
     }
   ],
-  "fetched_at": "2026-09-18T18:57:32.276920+00:00"
+  "fetched_at": "2026-09-18T21:33:48.626508+00:00"
 }
