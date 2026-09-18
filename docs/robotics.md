@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T15:57:50.879720+00:00'
+updated: '2026-09-18T18:57:54.646806+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 15:57 UTC  
+**Last Updated:** September 18, 2026 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-Business Insider • 6h ago
+Business Insider • 9h ago
 
 ---
 
@@ -124,33 +124,19 @@ Business Insider • 6h ago
 
 Training systems that allow robots to negotiate the real world are getting more sophisticated.
 
-bbc.com • 16h ago
+BBC • 19h ago
 
 ---
 
-**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
+**[A quieter corner of robotics is gaining traction](https://www.axios.com/pro/all-deals/2026/09/18/automomous-robotics-investing-viabot)**
 
-Reuters • 3h ago
-
----
-
-**[Helix 2.5: Zero-Shot 30-Home Generalization](https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization)**
-
-Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
-
-Figure • 1d ago
+Axios • 2h ago
 
 ---
 
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg.com • 6h ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 1d ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -159,6 +145,28 @@ SpaceNews • 1d ago
 Seeing is Believing
 
 citriniresearch.com • 2d ago
+
+---
+
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+
+IEEE Spectrum • 2h ago
+
+---
+
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
+
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
+
+The Robot Report • 1h ago
+
+---
+
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+
+SpaceNews • 1d ago
 
 ---
 
@@ -178,12 +186,6 @@ The Conversation • 1d ago
 
 ---
 
-**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
-
-Tech Xplore • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,47 +196,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 401K • 👍 7K • 💬 849 • ⏱️ 16:24 • 1d ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 88K • 👍 2K • 💬 618 • ⏱️ 13:22 • 6d ago
-
----
-
-**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
-
-📺 PRO ROBOTS
-
-👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 5d ago
-
----
-
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
-
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
-
-📺 The AI Nexus
-
-👁️ 25K • 👍 319 • 💬 20 • ⏱️ 24:48 • 6d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 46K • 👍 369 • 💬 40 • ⏱️ 18:12 • 4d ago
+👁️ 437K • 👍 8K • 💬 896 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -248,43 +210,81 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 25K • 👍 318 • 💬 20 • ⏱️ 24:48 • 6d ago
+
+---
+
 **[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
 In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
 📺 Steven Ndukwu
 
-👁️ 572K • 👍 6K • 💬 830 • ⏱️ 27:23 • 5d ago
+👁️ 579K • 👍 6K • 💬 835 • ⏱️ 27:23 • 6d ago
 
 ---
 
-**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
 
-Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
 
-📺 Unseen Vault
+📺 Ai Futuristic Robotics
 
-👁️ 224K • 👍 6K • 💬 324 • ⏱️ 33:11 • 5d ago
-
----
-
-**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
-
-America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
-
-📺 Dear Time
-
-👁️ 21K • 👍 125 • 💬 4 • ⏱️ 20:25 • 4d ago
+👁️ 46K • 👍 374 • 💬 40 • ⏱️ 18:12 • 4d ago
 
 ---
 
-**[China’s Factories Are Going Big on Robots](https://www.youtube.com/watch?v=Mxj_Us0XQww)**
+**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
 
-China's manufacturing sector is undergoing a huge automation shift. While viral posts claim that one Chinese factory cut its ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
 
-📺 Alchetron
+📺 PRO ROBOTS
 
-👁️ 40K • 👍 132 • 💬 16 • ⏱️ 0:10 • 3d ago
+👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 5d ago
+
+---
+
+**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
+
+New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
+
+📺 Baprimo
+
+👁️ 251K • 👍 2K • 💬 16 • ⏱️ 12:08 • 6d ago
+
+---
+
+**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
+
+📺 Kyle Krueger
+
+👁️ 4.1M • 👍 144K • 💬 2K • ⏱️ 0:40 • 4d ago
+
+---
+
+**[The Robot Is Tired!” 😂 AI Robot Gives Up After 8-Hour Shift — Is Your Job Next?](https://www.youtube.com/watch?v=-sMTfweuJHM)**
+
+A hilarious clip showing an AI-powered robot apparently struggling after what looks like a long work shift has sparked reactions ...
+
+📺 Agogo107.5fm
+
+👁️ 1.6M • 👍 6K • 💬 2K • ⏱️ 0:16 • 4d ago
+
+---
+
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+
+📺 Cleo Abram
+
+👁️ 392K • 👍 20K • 💬 486 • ⏱️ 0:37 • 4d ago
 
 ---
 

@@ -9,7 +9,7 @@
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
-      "pub_date": 1789740780.0,
+      "pub_date": 1789744860.0,
       "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
       "image": null,
       "description": null
@@ -25,26 +25,6 @@
       "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint."
     },
     {
-      "headline": "Fake Federal Agent Told Massachusetts Woman $340,000 in Gold and Bitcoin Would Help \u2018Stop the Russians,\u2019 Police Say",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDZjZ2d1aG5vdHFtZjdaRmRTVmY2UHpibnRpV3duLXYxY2JlWDZIVHdrYkFKZ1JRWEV0MmNpRWg1U0kycDJMMlFlaHFFYXZsbTdvTnZfUTBpTkJ4aEptT2lfTVRpbFY3cUdCOGFCb2VEU09IREhSemcwbU9kVGpiVjAtRFRCWVFPcTRjVjdOVVRGYndSenc?oc=5",
-      "pub_date": 1789745147.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/fake-federal-agent-told-massachusetts-152547113.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/22d42629fc444ee291576929da3b083babbc13a0534ed6baa16f34f4eceb758a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0d3e49c108cf86e50c5998ce16f65079.jpg",
-      "description": "A Massachusetts woman lost approximately $340,000 in gold bars and Bitcoin after authorities say she was drawn into a government impersonation scheme involving a man ... Read More"
-    },
-    {
-      "headline": "Bitcoin Climbs Above $80,000",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS16M2pEVkNhSGxSTUg0ZHdlMjh2R19KQjhmY19naU1ac1hvU1Z5X2hXbmF0Wjc1MGtYNUI1Y05zSjdJM1dwX2pEemMwOGJrQXNzby05WnU1b3pHU2V5TGJkR2psZl9SUW4ySjNyTkhQaGdPYl9Gb3ltTU40S0dWSm5OejY5YlZnd2IzdXlpNXlOem5TYWJHajJ6MmdmSjdtbTZQVENjWXZpXy1WNWlTRUd2Y2VEcWoxZmVGRzk0MUJJTk1YdmlKMmJ4SmljSUU?oc=5",
-      "pub_date": 1789744565.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/bitcoin-climbs-above-80-000-ndw4CMftrZiZoLm0fxDg",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -55,8 +35,48 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
+      "headline": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDlLMl9LRmhuM244Q3BWOWRmUzVxaXJ1Skd2OHMtT3ZDZENwdk4zaDV0SFZCMnd0dVR0UWJDMkxWeFRjZjg0aFVzNVppX3F1dmFlSS1Bc0hHZ2hLYWtYeEw0NTZrb2w1SXN6WjZNTllfN210NDd6c0RfSlduS1JJMkpJVHQ0LUplcF9ITmV4UFotTkctWHRFbENGOTVyemxLWjZGbEZDNGlsZEJualQ0X05HRUxwZExFTHVNMXFFam1BS2c?oc=5",
+      "pub_date": 1789726053.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/993df2e2bfe6457f309bb7771a210877078feee1-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar."
+    },
+    {
+      "headline": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjBvR3VucDJlZ1JiVktNTGdoNVMzSVVwbUZxZFdhTHRYZk45M2JoVF9QOEhyWkNWb3JMRUtWbHlFYXlmeU5BLVNza1FjbktLZFZneDlidGlIS0Z3RVk0ZkhLWHotNnBOaXl0LW1DVUVCX20xcEtGR2N6R1BTN2gzcncxd213NktYSHFNNTVNV3RXMFZSbWlvYVd2ay1fX2hEM1p0d0RIMnNkVnhoMjNSQWwzMGtqZ0hRQkZ1elBwTTJYajdqR3JFdGFR?oc=5",
+      "pub_date": 1789486287.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes."
+    },
+    {
+      "headline": "Bitcoin drops after US Senate blocks landmark crypto bill",
+      "source": "euronews.com",
+      "source_url": "https://www.euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1o4NkJsamhCTUdHb1ZodlhiWXBuWEY1Mm1sWXJTSlIxYVA2c0FicWU1T2lKZjBtNnF1YVhVSmh2Q2tUZ1c3cUZuZlhZRUtIeTJCR2RYNkthUkVZNHJpbFJLRk9uNVV2cGdYUy1wZ0JuN29XZmJpLVVZOE9xZUZOU1RlQnEwU1dRWGRvMUtNa3VoOWF4UTNOWG9ROWV6VDBneHlhRQ?oc=5",
+      "pub_date": 1789549419.0,
+      "article_url": "https://www.euronews.com/business/2026/09/16/bitcoin-drops-after-us-senate-blocks-landmark-crypto-bill",
+      "image": "https://images.euronews.com/articles/stories/09/91/52/90/1200x675_cmsv2_ef47a6a0-99dc-5885-b343-3393fc0b85a0-9915290.jpg",
+      "description": "Bitcoin has fallen almost 4% over the past 24 hours to below $76,000 after the US Senate blocked the CLARITY Act late on Tuesday, derailing more than a year of bipartisan negotiations and leaving the crypto industry without the federal rulebook it has spent years pursuing."
+    },
+    {
+      "headline": "Bitcoin Climbs Above $80,000",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS16M2pEVkNhSGxSTUg0ZHdlMjh2R19KQjhmY19naU1ac1hvU1Z5X2hXbmF0Wjc1MGtYNUI1Y05zSjdJM1dwX2pEemMwOGJrQXNzby05WnU1b3pHU2V5TGJkR2psZl9SUW4ySjNyTkhQaGdPYl9Gb3ltTU40S0dWSm5OejY5YlZnd2IzdXlpNXlOem5TYWJHajJ6MmdmSjdtbTZQVENjWXZpXy1WNWlTRUd2Y2VEcWoxZmVGRzk0MUJJTk1YdmlKMmJ4SmljSUU?oc=5",
+      "pub_date": 1789721880.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/bitcoin-climbs-above-80-000-ndw4CMftrZiZoLm0fxDg",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u2018I\u2019m Back\u2019\u2014Kevin O\u2019Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars",
-      "source": "forbes.com",
+      "source": "Forbes",
       "source_url": "https://www.forbes.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXR5R3FZX0lzZWdBY0hpcG5BWWlKRS13VG9FVzZYOERyZ3l0RDlYOUxsYk15YXNIT1pLMnFNelMyTTdpbkhKeFE5LTVoTXpHcmNhTlVUR2FnZ1V4bFI2d1ZJTDdpMS03YXd2UE83T1psNjc5RGRIdnRhQzIxZE03TTQ4WWwzYVpNVTBKNDZnaUZTZ2c0YjlyMTI1OWhLckQ2LWRzVE1NZ1JBbmpxcTlpSkg2NUNqQUZrOXdnWUhrYU1ZazUtamRUbTRpTlUtMXZFZUZZ?oc=5",
       "pub_date": 1789732114.0,
@@ -65,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin surges above $80,000, triggering $183M in shorts liquidated",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1htWHVWRE1uU2VTNTM0RkhnQVdMLUoxU3d1NGp1dU9GbmFyZXRDNUN0SzhnWERHNlFEMXZCdGZXUnRabFg1VmF4T3o4Njd1WmJPSkRnemRqblE5cFljZ29XXzhvOTF4cFo2eWI4V1MxclZzaThjVjdBUG4zS3hQSmhNOVdpU1NnSG0zSFhMT0Z0Z1M0bWZCNl9MTnBYVlJUd3ROQVl1U19ZQWhlalFqaURFTWxreUVzb0djQ09Ud203QndYZnZBTw?oc=5",
-      "pub_date": 1789742928.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:f67e749d7094b:0-bitcoin-surges-above-80-000-triggering-183m-in-shorts-liquidated/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin crossed the $80,000 threshold, and the traders betting against it paid dearly. In the span of a single hour, roughly $230 million in crypto short positions were liquidated as Bitcoin's price punched through a level that had been acting as a ceiling for much of the preceding trading session\u2026"
+      "headline": "Current price of Bitcoin for Sept. 18, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
+      "pub_date": 1789732800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
@@ -83,28 +103,8 @@
       "article_url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
       "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
       "description": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts."
-    },
-    {
-      "headline": "Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQei05SGU3aXVHRnhnRVhyQ1ByS3RrVENiQzRjaHJTQ1JZOWFabldZR3Jkc29VbFpxVVJvdjl4ck1LZTlnSjd3ZDU3UDE3OHNqTXU0SGQxZ1ZBb1BnQlVJcVp2eHNfQmFxaThseGJWckJhV3ozS3dkaW1oVzlhcWpLVW44WjkxcFhJTlpUN2dObm5Wb2kzS1BvTGlKT1A0MXNRSWd0b3ZMVnJLTTZFVGhOeV95d0NmYU9ZTzUtUTFLYlgwazBoMENVbTNiVWxocjFxVHFkQmNKdHJUU2daMVYzRld0UzdRU0VLYmV2eEhscXdDZXJpR29DQ0ZLZjk?oc=5",
-      "pub_date": 1789630238.0,
-      "article_url": "https://www.businesswire.com/news/home/20260917945475/en/Bitcoin-Life-Granted-Full-Life-Insurance-Licence-Launches-Regulated-Bitcoin-Product-for-International-Investors",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin climbs to $78k as markets look past Clarity setback",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFpmLUx1eE5CeXlHRE1yVDFFUEJ5RDdwQnVPV2hULTNhY1dvOHg3REhkS2ZtbGlHeE9QY1BpTEpHeVlBYXlNYXhjd001bWZ4Nm5CSXYyZ2RqX0dRUHozLVVobWxJaFNfLUJNUFd2V3hmMDdSV2VGWEcwaDZJQzF5MmNUelk4S1NJTS1qdC1TUXFrRDhtbElXR1JqN3RNdE9rZENKT3VLTE1nTzJBVFZYdE14YUpFX1hL?oc=5",
-      "pub_date": 1789714254.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T15:57:49.286482+00:00"
+  "fetched_at": "2026-09-18T18:57:43.587206+00:00"
 }
