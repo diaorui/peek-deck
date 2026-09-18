@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-18T18:57:54.640019+00:00'
+updated: '2026-09-18T21:34:13.013167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 18, 2026 at 18:57 UTC  
+**Last Updated:** September 18, 2026 at 21:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,971.98
+### $81,207.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.5%  
-**7d:** +4.7%  
-**30d:** +10.8%  
-**90d:** +27.8%  
-**1y:** -30.0%  
+**24h:** +6.2%  
+**7d:** +5.0%  
+**30d:** +11.1%  
+**90d:** +28.2%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1627.29B
+**Market Cap:** $1630.56B
 Rank #1
 
-**Circulating Supply:** 20,086,171 BTC
+**Circulating Supply:** 20,086,206 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.6%
 
 **All-Time Low:** $67.81
-+119324.9%
++119612.4%
 
 ---
 
@@ -153,17 +153,25 @@ No future major uncertain policy changes, should be up from here.
 
 ## Google News: "bitcoin"
 
-**[Why Bitcoin and Strategy Stock Are Rallying Against All the Odds](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
-
-Barron's • 3h ago
-
----
-
 **[BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June](https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says)**
 
 The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.
 
-CoinDesk • 12h ago
+CoinDesk • 14h ago
+
+---
+
+**[Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates](https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000)**
+
+Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin’s Fifth-Wave Rally Can Target $93K](https://ng.investing.com/analysis/bitcoins-fifthwave-rally-can-target-93k-219465)**
+
+Investing.com Nigeria • 50m ago
 
 ---
 
@@ -171,51 +179,23 @@ CoinDesk • 12h ago
 
 Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
 
-CNBC • 12h ago
+CNBC • 15h ago
 
 ---
 
-**[Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls](https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls)**
-
-Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar.
-
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade](https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html)**
-
-Bitcoin tumbled on Tuesday as a key vote in the Senate over the CLARITY Act failed to garner enough votes.
-
-Yahoo Finance • 3d ago
-
----
-
-**[Bitcoin drops after US Senate blocks landmark crypto bill](https://www.euronews.com/business/2026/09/16/bitcoin-drops-after-us-senate-blocks-landmark-crypto-bill)**
-
-Bitcoin has fallen almost 4% over the past 24 hours to below $76,000 after the US Senate blocked the CLARITY Act late on Tuesday, derailing more than a year of bipartisan negotiations and leaving the crypto industry without the federal rulebook it has spent years pursuing.
-
-euronews.com • 2d ago
-
----
-
-**[Bitcoin Climbs Above $80,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/bitcoin-climbs-above-80-000-ndw4CMftrZiZoLm0fxDg)**
-
-WSJ • 9h ago
-
----
-
-**[‘I’m Back’—Kevin O’Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
-
-Forbes • 7h ago
-
----
-
-**[Current price of Bitcoin for Sept. 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
+**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 6h ago
+Fortune • 9h ago
+
+---
+
+**[Best Crypto Casinos 2026 – 5 Fastest Bitcoin Gambling Sites Ranked by Trust](https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/)**
+
+Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings ↪️ Thunderpick 🎁 100% up to €2,000 4.8/5 ⭐ ↪️ JACK.com 🎁 100 Wager-Free Free Spins 4.8/5 ⭐ ↪️ BitStarz 🎁 300% up to 5 BTC + 180 Free Spins 4.9/5 ⭐ ↪️ Lucky Rebel (USA only) 🎁 200% up to $2,500 + 50...
+
+Muddy River Sports • 19h ago
 
 ---
 
@@ -227,13 +207,35 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Community Recognizes Quantum Computing Risk: VanEck](https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk)**
+
+Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors](https://www.businesswire.com/news/home/20260917945475/en/Bitcoin-Life-Granted-Full-Life-Insurance-Licence-Launches-Regulated-Bitcoin-Product-for-International-Investors)**
+
+Business Wire • 1d ago
+
+---
+
+**[Strategy CEO Says 'We're Never Going To Stop' Buying Bitcoin as MSTR Surges 11%](https://www.benzinga.com/crypto/cryptocurrency/26/09/61874434/strategy-ceo-says-were-never-going-to-stop-buying-bitcoin-as-mstr-surges-11)**
+
+MSTR stock jumps 11% as Strategy CEO Phong Le vows to keep buying Bitcoin while allowing small strategic sales.
+
+Benzinga • 5h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 309 • 💬 261 • 1d ago
+⬆️ 309 • 💬 264 • 1d ago
 
 ---
 
@@ -311,23 +313,13 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ## YouTube Videos: "bitcoin"
 
-**[Crypto Is About To Get CRAZY… You’ve Been Warned](https://www.youtube.com/watch?v=tqW1GIOAfSQ)**
+**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
 
-SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Follow Altcoin Daily on X: ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Altcoin Daily
+📺 My Financial Friend
 
-👁️ 112K • 👍 4K • 💬 278 • ⏱️ 12:43 • 20h ago
-
----
-
-**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
-
-Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
-
-📺 Crypto Zombie
-
-👁️ 3K • 👍 527 • 💬 73 • ⏱️ 28:09 • 2h ago
+👁️ 1K • 👍 125 • 💬 165 • ⏱️ 21:55 • 1h ago
 
 ---
 
@@ -337,77 +329,87 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 7K • 👍 931 • 💬 74 • ⏱️ 11:24 • 1h ago
+👁️ 26K • 👍 2K • 💬 131 • ⏱️ 11:24 • 3h ago
 
 ---
 
-**[The Fed Hiked, CLARITY Died - Here&#39;s Why Bitcoin Is Still Ready to Explode!](https://www.youtube.com/watch?v=xyK4C1QMmyI)**
+**[🚀 Clarity Dies Bitcoin Flies: Hikes, Tokenization, AI, Oil, DEXs](https://www.youtube.com/watch?v=osP-Deenecc)**
 
-Bitcoin just absorbed a Fed rate hike, the collapse of the CLARITY Act, heavy ETF outflows, rising Treasury yields and brutal ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Simply Bitcoin
+📺 InvestAnswers
 
-👁️ 40K • 👍 2K • 💬 111 • ⏱️ 15:14 • 21h ago
-
----
-
-**[Bitcoin At $80K Looks Exactly Like February 2023](https://www.youtube.com/watch?v=Z458bBEn0P8)**
-
-Bitcoin is pressed against the moving average this channel treats as its bull and bear line, and the setup looks a lot like the one ...
-
-📺 VirtualBacon
-
-👁️ 12K • 👍 566 • 💬 55 • ⏱️ 1:38:17 • 2h ago
+👁️ 9K • 👍 1K • 💬 44 • ⏱️ 24:24 • 2h ago
 
 ---
 
-**[🚨 EMERGENCY BITCOIN UPDATE!!! [BULL TRAP!!!!!!!!!!!!!!?]](https://www.youtube.com/watch?v=ILBqu0ygtRA)**
+**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
 
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
+Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
 
-📺 Crypto Kid
+📺 Crypto Zombie
 
-👁️ 3K • 👍 260 • 💬 36 • ⏱️ 13:41 • 4h ago
-
----
-
-**[If Your Bitcoin Retirement Plan Is Like This, It&#39;ll Go to Zero.](https://www.youtube.com/watch?v=6LCBWwavR8s)**
-
-MY 5-YEAR BITCOIN RETIREMENT CALCULATOR AND CHEAT SHEET: https://links.marketdisruptors.io/retire. Most people ...
-
-📺 Mark Moss
-
-👁️ 68K • 👍 1K • 💬 185 • ⏱️ 18:49 • 1d ago
+👁️ 9K • 👍 843 • 💬 110 • ⏱️ 28:09 • 5h ago
 
 ---
 
-**[This Needs to Happen for Bitcoin to Reach New All-Time Highs](https://www.youtube.com/watch?v=AdAiP883fJw)**
+**[Crypto CYCLE BREAKOUT! The 5-Year Cycle Shift Is Here (It&#39;s Happening)](https://www.youtube.com/watch?v=SOGagel9F84)**
 
-Bitcoin Elliott Wave update 18 Sept 2026: Price breaks 50-week SMA at $79200, the key resistance level. We analyze the Bitcoin ...
+Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your rewards! ▻ COINBASE Get up to 250 USDC in ...
 
-📺 More Crypto Online
+📺 Crypto Capital Venture
 
-👁️ 3K • 👍 344 • 💬 20 • ⏱️ 13:24 • 3h ago
-
----
-
-**[Bitcoin SHOCK: $746 Million Drained and Price Barely MOVED!](https://www.youtube.com/watch?v=kwaWJnU22nE)**
-
-Hurley talks about Bitcoin SHOCK: $746 Million Drained and Price Barely MOVED! Brought to you by Bitcoinwell.com a ...
-
-📺 Simply Bitcoin
-
-👁️ 442 • 👍 8 • 💬 29 • ⏱️ 0:26 • 2h ago
+👁️ 11K • 👍 554 • 💬 190 • ⏱️ 20:18 • 5h ago
 
 ---
 
-**[Bitcoin - Look To See If It&#39;s A Lower High Or Higher High](https://www.youtube.com/watch?v=9nCz29dOcqg)**
+**[Crypto Is About To Get CRAZY… You’ve Been Warned](https://www.youtube.com/watch?v=tqW1GIOAfSQ)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 33K • 👍 534 • 💬 20 • ⏱️ 0:55 • 1d ago
+👁️ 119K • 👍 4K • 💬 282 • ⏱️ 12:43 • 22h ago
+
+---
+
+**[Bitcoin Rallying HARD!](https://www.youtube.com/watch?v=Q5_2IlYzjVQ)**
+
+Taiwan talks are today and Monday. Micron's union rejected a one-off bonus and wants 15% of operating profit. No one is walking ...
+
+📺 Crypto Jebb
+
+👁️ 8K • 👍 240 • 💬 17 • ⏱️ 1:19:31 • 6h ago
+
+---
+
+**[Will Coinbase Steal Customers&#39; Bitcoin?](https://www.youtube.com/watch?v=VAXWamr77mM)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss how many Bitcoin on Blake2B that ...
+
+📺 Bitcoin University
+
+👁️ 13K • 👍 697 • 💬 214 • ⏱️ 5:53 • 1d ago
+
+---
+
+**[Bitcoin BTC Price Prediction: 18th of September](https://www.youtube.com/watch?v=QkOy0Q2p3ac)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 581 • 👍 41 • 💬 6 • ⏱️ 14:59 • 4h ago
+
+---
+
+**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
+
+Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
+
+📺 The Wolf Of All Streets
+
+👁️ 18K • 👍 496 • 💬 130 • ⏱️ 1:06:33 • 7h ago
 
 ---
 
