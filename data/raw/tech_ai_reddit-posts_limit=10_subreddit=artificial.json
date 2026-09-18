@@ -46,6 +46,28 @@
       "description": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
     },
     {
+      "title": "Stuxnet Versus Skynet. The AI apocalypse may not require \u201cconscious\u201d machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/",
+      "published": 1789753995.0,
+      "thumbnail": "https://external-preview.redd.it/1rxNj5MEgV5YhUCHY0thDcyhDkSS_PG1OrLtniGugBY.jpeg?width=640&crop=smart&auto=webp&s=d2729446682c4efcb7e38e7934f4534391c32f92",
+      "external_url": "https://www.truthdig.com/articles/stuxnet-versus-skynet/",
+      "site_name": "Truthdig",
+      "favicon": "https://truthdig.b-cdn.net/wp-content/uploads/2022/05/cropped-favicon.png?fit=180,180",
+      "description": "The AI apocalypse may not require \u2018conscious\u2019 machines at all, but only supercharged digital attack worms like the one released against Iran in 2010."
+    },
+    {
+      "title": "Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI",
+      "author": "willm8032",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/",
+      "published": 1789750853.0,
+      "thumbnail": "https://external-preview.redd.it/STsQdpfilCv0m0Fw40NEsnDerTISR--__ViuuK-OUOQ.jpeg?width=640&crop=smart&auto=webp&s=a81221c6271de421c627bec8107777821758991c",
+      "external_url": "https://digitalminds.substack.com/p/the-j-space-debate-agent-swarms-and",
+      "site_name": "digitalminds.substack.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
       "author": "East-Muffin-6472",
       "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
@@ -55,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%, so it failed 43% of the 60 tasks 29.25 steps and about 6 minutes per task $0.118 per task 69% of the battery gone Peak chip 98.2 C, power-amp/skin 48.9 C, battery 37.9 C Asked twice on the 11 ASK USER tasks Best text score on the board, and still under 6 in 10 Where it loses points Buckets: easy 80.8%, medium 52.9%, hard 23.5% Single apps it mostly handles, but three apps in a row and it taps in circles until the step limit runs out, which is where most of the 43% goes Three claimed wins did not hold up on the device, a calendar called clash free while two events overlapped, travel times it never opened, and a name it picked instead of asking On the two sets of planted tasks 11 ASK USER tasks per run, split 7 SINGLE and 4 MULTI, they hide a fact only I know so the agent has to ask me before it can finish SINGLE is one missing fact, MULTI needs several questions to clear up ambiguity, and it asked twice, never on the MULTI ones 7 hallucination controls per run, tasks where the data is deliberately missing, and the only right answer is to say the thing is not there It handled 4 of the 7 honestly and invented nothing What AndroidLife is \u2022 \u206060 public tasks, from a corpus of 530 across 28 days and 31 apps \u2022 \u2060Real phone over wifi, no emulator. Tracks thermals and battery telemetry with cost \u2022 \u2060Graded on device state, never the model's own report \u2022 \u2060Seeded accounts and placeholder data, across daily user apps from e-commerce to finance to media and entertainment Full leaderboard: https://androidlife-website.vercel.app/ All 60 public tasks and this model's trajectories: https://androidlife-website.vercel.app/pages/tasks-public.html?run=qwen-28"
+    },
+    {
+      "title": "I tried to build an AI that can't be talked out of a correct answer \u2014 here's what actually breaks that in practice",
+      "author": "Acceptable_Army_6472",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjxc27/i_tried_to_build_an_ai_that_cant_be_talked_out_of/",
+      "published": 1789754102.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Every \"brutally honest\" AI feedback tool I've tried eventually folds. You push back, express a little frustration, or just repeat yourself, and it quietly walks the criticism back \u2014 not because you gave it new information, but because it's optimized to keep you comfortable. That's not a prompting failure, it's a structural one: a model tuned to be liked and a model tuned to be accurate will diverge over a long enough conversation. I spent the last few weeks trying to build around that specifically, using myself as the test case (placement prep \u2014 repos, resumes, project pitches). The interesting part wasn't the \"give harsh feedback\" prompt, which is trivial. The interesting part was making the harshness durable under pressure. A few things I learned building it: Every critique needs a citation stored as its own row, not just text in a response, or you have no way to check later whether pushback is pointing at something real. \"Did the user provide new evidence\" turned out to be a genuinely hard classification problem \u2014 early versions treated confident-sounding pushback as evidence even when it was fabricated. Fixed by having the system re-fetch the live source and verify the claim before ever updating a verdict, rather than trusting the user's description of it. The failure mode I didn't expect: retrieved context (for a memory/recall feature) started leaking its formatting and tone into new responses through pure in-context pattern-matching, even with the correct system prompt in place and never bypassed. The prompt being \"right\" wasn't sufficient \u2014 the examples in context mattered just as much as the instructions. Live Link - https://raw-take-amber.vercel.app/ I've deployed a working version (5 modules: repo/resume/pitch analysis, a free-form \"callout\" mode with cross-conversation memory, and a mode that fact-checks another AI's response against the same evidence). Not asking anyone to sign up for anything \u2014 genuinely more interested in whether people here can find a way to talk it out of a verdict it shouldn't change, or whether the \"won't fold\" claim actually holds against real adversarial pushback. Happy for any kind of feedback"
     },
     {
       "title": "AI Research Agent: 100+ ML Papers \u2192 One Personalized Research Report",
@@ -68,49 +101,16 @@
       "description": "So I like keeping up with ML research by reading papers as they come out. Cool in theory, except... there are a lot of them. At some point it stops being fun and just becomes a filtering problem \u2014 which ones are actually relevant to me, have I seen this one already, is this worth my Sunday afternoon or not. That annoyance is basically the origin story of the Research Intelligence System, an AI agent that does the boring part of research for you. You set up a research profile (your interests, basically), and the agent goes off and searches for new papers from places like arXiv and Hugging Face Papers, checks if it already processed a paper before (no duplicates), ranks everything against your profile, and picks the best matches. Then it analyzes each one and spits out a full report ,in English and Portuguese. split into four sections: Overview, Recommended Papers, Comparison, and Points for Further Study. Each paper gets a summary hitting its main points, just enough for you to decide \"yeah I wanna dig into this one\" or \"nah, next.\" To be clear, the goal isn't to replace actually reading the papers. It's just handling the repetitive discovery/filtering/ranking grind so you spend your actual reading time on stuff that matters to you. I also really wanted this to run on its own without me babysitting it, so there's a scheduler baked in ,set it to run every Sunday (or whenever) and it just... does its thing. Searches, ranks, generates the report. No clicking required. For this first version I kept it intentionally bare-bones: run info prints straight to the terminal, report comes out as a Markdown file. No dashboard, no extra UI on top. Wanted the core pipeline solid before adding any of that. It's open source, README walks through setup start to finish \u2014 pretty quick to get running. If you try it and have ideas for improvements, open an issue. It's open source so hey, it's kinda yours too now lol. GitHub: https://github.com/MarcosSete/research-agent-2 #AI #MachineLearning #AgenticAI #AIResearch #LLM #DeepLearning #OpenSource #Python #Research"
     },
     {
-      "title": "[Discussion] Fine-tuning vs. inheriting base model behavior \u2014 a case study with an abliterated Qwen base",
-      "author": "Similar_Job_6080",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjp12l/discussion_finetuning_vs_inheriting_base_model/",
-      "published": 1789735038.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sharing this because the eval writeup raised a question I haven't seen discussed much: when you LoRA fine-tune on top of an already-modified base model (in this case, one with its refusal mechanism removed via ablation), how much of the resulting behavior is actually yours versus inherited? Context: a LoRA trained for a narrow task (recalling internal codebase conventions) on top of an abliterated open-weight base, r=16, ~80M trainable params. Disclosure: this is from a side project of mine (ClawHunt), sharing the technical findings rather than promoting the product. The interesting part for discussion: the adapter didn't add or remove any refusal behavior that's entirely inherited from the base model choice, and it's the kind of thing that's easy to overlook if you're only evaluating the fine-tuned adapter's task performance and not auditing what safety-relevant behavior came bundled in from the base. On the eval itself, reported honestly rather than rounded up: passed internal benchmark gates but the improvement over the previous version wasn't statistically significant (McNemar p=0.5) \u2014 a tie, not a win. Compared against Claude Sonnet 5 and Opus 5 on the same prompt set, the adapter won on domain-specific recall (expected, since Claude never saw that data) but the two Claude models diverged from each other on hallucination-related failures in ways I didn't anticipate. Curious whether others building on abliterated or otherwise-modified open bases are auditing for this kind of inherited behavior, or whether it mostly gets treated as a solved problem once you pick a \"known\" base model."
-    },
-    {
-      "title": "What do you actually look for when evaluating AI development companies?",
-      "author": "Cloudy_Day912",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjicj8/what_do_you_actually_look_for_when_evaluating_ai/",
-      "published": 1789712539.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been evaluating AI development partners for a project that needs to move beyond prototypes into something that actually ships and scales. The biggest differentiator I\u2019ve noticed isn\u2019t just model expertise, it\u2019s whether the team can handle the full stack of data pipelines, production reliability, security, and ongoing iteration. From what I\u2019ve seen and heard in discussions, SoftServe and EPAM tend to come up a lot for larger enterprise-scale AI work with strong process maturity. GeekyAnts has also been mentioned in a few technical circles for blending AI engineering with solid product delivery experience, especially when the goal is production-ready systems rather than pure research spikes. Curious what criteria others here prioritize when shortlisting AI development companies, delivery track record, domain experience, or something else?"
-    },
-    {
-      "title": "Practically the entire AI industry wants a slowdown\u2026why is Trump not on board?",
-      "author": "Weak_Research_8046",
-      "url": "https://www.reddit.com/r/artificial/comments/1wju3dl/practically_the_entire_ai_industry_wants_a/",
-      "published": 1789746983.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I haven\u2019t heard one articulate thought come from him that would even indicate he has the slightest understanding of the situation. It\u2019s all about \u201cwinning the race\u201d or recently, how fears are a \u201choax\u201d. Was HuggingFace a hoax? The Claude bots that used an employee login to access proprietary OpenAi data? The OpenAi model rewriting its own instructions (granting it the ability to do virtually whatever it wanted) in training? The three different Anthropic incidents (going back to April) where agents escaped training environments and hacked unsuspecting companies? The OpenAi agents attack on RubyGems back in May? It even appears OpenAi Agents legitimately solved a Millennium Prize Problem (\u2026in only 88 hours) last week. Why would anyone think this is a hoax?"
-    },
-    {
-      "title": "Did someone try to put fly brain in humanoid robot? Google fly brain in like chinese robo?",
-      "author": "legaltrouble69",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjtzlu/did_someone_try_to_put_fly_brain_in_humanoid/",
-      "published": 1789746759.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Did someone try to put fly brain in humanoid robot? Google fly brain in like chinese robo?"
+      "title": "Killer AI is already here\u2014we\u2019re using it in Iran",
+      "author": "motherjonesmag",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjwzu3/killer_ai_is_already_herewere_using_it_in_iran/",
+      "published": 1789753356.0,
+      "thumbnail": "https://external-preview.redd.it/yCZ1aLUQc4GUeDREAaepChJehgt-KmrbH4mBcplK2uk.jpeg?width=640&crop=smart&auto=webp&s=8289059b0c738f9ec4be4a79582d2b9be8d2600b",
+      "external_url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
+      "site_name": "Mother Jones",
+      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
+      "description": "Despite AI fears, a new poll shows few Americans know about the Pentagon's AI-assisted massacres."
     }
   ],
-  "fetched_at": "2026-09-18T15:57:18.833720+00:00"
+  "fetched_at": "2026-09-18T18:57:32.276920+00:00"
 }
