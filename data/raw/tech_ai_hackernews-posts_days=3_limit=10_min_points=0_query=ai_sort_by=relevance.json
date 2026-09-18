@@ -23,14 +23,28 @@
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "hn_url": "https://news.ycombinator.com/item?id=49737985",
       "author": "Tomte",
-      "points": 260,
-      "num_comments": 213,
+      "points": 273,
+      "num_comments": 224,
       "created_at": "2026-09-17T08:36:37Z",
       "object_id": "49737985",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "skywriter.blue"
+    },
+    {
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49746163",
+      "author": "nicolas-siplis",
+      "points": 273,
+      "num_comments": 136,
+      "created_at": "2026-09-17T20:36:13Z",
+      "object_id": "49746163",
+      "image": null,
+      "description": "Bend: a fast language that blocks AI mistakes via proof.",
+      "favicon": "https://bend-lang.com/favicon.ico",
+      "site_name": "bend-lang.com"
     },
     {
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
@@ -47,40 +61,12 @@
       "site_name": "404 Media"
     },
     {
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "hn_url": "https://news.ycombinator.com/item?id=49706223",
-      "author": "throwworhtthrow",
-      "points": 229,
-      "num_comments": 144,
-      "created_at": "2026-09-15T00:40:14Z",
-      "object_id": "49706223",
-      "image": "https://image.theregister.com/240353.jpg?imageId=240353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "description": "There are plenty of laws on the books to hold companies, and potentially their execs, accountable",
-      "favicon": "https://www.theregister.com/view-resources/dachser2/public/theregister/favicons/apple-touch-icon.png",
-      "site_name": "theregister"
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49746163",
-      "author": "nicolas-siplis",
-      "points": 207,
-      "num_comments": 115,
-      "created_at": "2026-09-17T20:36:13Z",
-      "object_id": "49746163",
-      "image": null,
-      "description": "Bend: a fast language that blocks AI mistakes via proof.",
-      "favicon": "https://bend-lang.com/favicon.ico",
-      "site_name": "bend-lang.com"
-    },
-    {
       "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
       "url": "https://openspec.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=49734264",
       "author": "etoxin",
       "points": 189,
-      "num_comments": 95,
+      "num_comments": 96,
       "created_at": "2026-09-16T23:06:39Z",
       "object_id": "49734264",
       "image": "https://openspec.dev/og-card.jpg",
@@ -93,14 +79,28 @@
       "url": "https://mysetup.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49740105",
       "author": "steveybrown",
-      "points": 163,
-      "num_comments": 84,
+      "points": 182,
+      "num_comments": 94,
       "created_at": "2026-09-17T13:01:44Z",
       "object_id": "49740105",
       "image": "https://mysetup.ai/social-preview.png",
       "description": "Discover how people work with AI, and follow what changes. Explore their setups and share your own.",
       "favicon": "https://mysetup.ai/favicon.svg",
       "site_name": "mysetup.ai"
+    },
+    {
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "hn_url": "https://news.ycombinator.com/item?id=49746654",
+      "author": "Anon84",
+      "points": 157,
+      "num_comments": 142,
+      "created_at": "2026-09-17T21:15:52Z",
+      "object_id": "49746654",
+      "image": "https://iankduncan.com/portrait.jpg",
+      "description": "How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.",
+      "favicon": "https://www.iankduncan.com/favicon.jpg",
+      "site_name": "Ian Duncan"
     },
     {
       "title": "Cartesian \u2013 AI 3D Modeling for Design",
@@ -145,7 +145,7 @@
       "site_name": "Cloudflare Blog"
     }
   ],
-  "total_hits": 795,
+  "total_hits": 790,
   "has_metadata": true,
-  "fetched_at": "2026-09-17T23:24:45.927062+00:00"
+  "fetched_at": "2026-09-18T01:23:22.406420+00:00"
 }
