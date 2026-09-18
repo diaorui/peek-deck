@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-17T23:25:08.793836+00:00'
+updated: '2026-09-18T01:23:46.204238+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 17, 2026 at 23:25 UTC  
+**Last Updated:** September 18, 2026 at 01:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,17 +126,23 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled](https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5)**
+**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
 
-The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees.
-
-interestingengineering.com • 10h ago
+Asia Times • 1d ago
 
 ---
 
-**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
 
-OregonLive.com • 2d ago
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 2h ago
+
+---
+
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+
+SpaceNews • 12h ago
 
 ---
 
@@ -144,7 +150,7 @@ OregonLive.com • 2d ago
 
 Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
 
-Figure • 10h ago
+Figure • 12h ago
 
 ---
 
@@ -152,13 +158,7 @@ Figure • 10h ago
 
 The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
 
-MIT News • 19h ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 10h ago
+MIT News • 21h ago
 
 ---
 
@@ -166,7 +166,15 @@ SpaceNews • 10h ago
 
 Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
 
-The Conversation • 21h ago
+The Conversation • 23h ago
+
+---
+
+**['Scoff at your own risk:’ Viral investment research firm says AI robots are a coming mega-trend](https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html)**
+
+Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -175,14 +183,6 @@ The Conversation • 21h ago
 How to secure today’s AI robots against stealth cyber threats
 
 IEEE Spectrum • 1d ago
-
----
-
-**[David L. Lawrence Convention Center brimming with robotics, AI during discovery day](https://www.yahoo.com/news/science/articles/david-l-lawrence-convention-center-203609372.html)**
-
-Channel 11 got an up-close look at the future of robotics Wednesday.
-
-Yahoo • 2h ago
 
 ---
 
@@ -196,7 +196,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 104K • 👍 4K • 💬 490 • ⏱️ 16:24 • 7h ago
+👁️ 104K • 👍 4K • 💬 490 • ⏱️ 16:24 • 9h ago
 
 ---
 
@@ -226,7 +226,7 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 935 • 👍 36 • 💬 3 • ⏱️ 2:56 • 9h ago
+👁️ 935 • 👍 36 • 💬 3 • ⏱️ 2:56 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 4K • 👍 170 • 💬 7 • ⏱️ 1:00 • 9h ago
+👁️ 4K • 👍 170 • 💬 7 • ⏱️ 1:00 • 11h ago
 
 ---
 

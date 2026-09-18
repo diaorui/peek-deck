@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-17T23:25:08.790553+00:00'
+updated: '2026-09-18T01:23:46.201260+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 17, 2026 at 23:25 UTC  
+**Last Updated:** September 18, 2026 at 01:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,450.73
+### $2,448.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.2%  
-**7d:** -2.7%  
-**30d:** +8.7%  
-**90d:** +40.7%  
-**1y:** -46.6%  
+**24h:** +0.9%  
+**7d:** -3.0%  
+**30d:** +5.3%  
+**90d:** +43.6%  
+**1y:** -45.2%  
 
 ---
 
@@ -150,23 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
-
-The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
-
-Yahoo Finance • 37m ago
-
----
-
-**[What Is Ethereum? How It Works and How It Differs From Bitcoin](https://finance.yahoo.com/markets/crypto/articles/ethereum-works-differs-bitcoin-222206524.html)**
-
-Ethereum was built to run software that no company controls, but its token has lost ground even as activity across its network keeps climbing. Understanding why reveals a fundamental tension at the heart of how Ethereum actually works.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
+**[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
 Forbes • 2d ago
 
@@ -188,6 +172,22 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html)**
+
+Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.
+
+Yahoo Finance • 8h ago
+
+---
+
+**[Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity)**
+
+The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.
+
+CoinDesk • 12h ago
+
+---
+
 **[The Fed Decides at 2 pm ET Wednesday. What a Hike Does to Bitcoin, XRP and Ethereum the Day After Congress Failed.](https://247wallst.com/investing/cryptocurrency/2026/09/16/the-fed-decides-at-2-pm-et-wednesday-what-a-hike-does-to-bitcoin-xrp-and-ethereum-the-day-after-congress-failed/)**
 
 The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot plot and Kevin Warsh's press conference do to crypto prices.
@@ -200,23 +200,15 @@ The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot p
 
 XRP (CRYPTO: XRP) spot ETFs pulled in $3.50 million over two days with zero outflows while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) funds bled $1.11 billion combined.What the ETF Flows ShowFranklin Templeton’s XRPZ (NYSE:XRPZ) drove the entire Sept. 16 inflow, adding 2.71 million XRP worth…
 
-TradingView • 10h ago
+TradingView • 12h ago
 
 ---
 
-**[Ethereum, Base give up on common wallet standard after months of talks](https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks)**
+**[Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security](https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security)**
 
-Ethereum is moving ahead with EIP-8141 while Coinbase-backed Base backs EIP-8130, leaving wallets and apps that span both networks facing different transaction systems.
+Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense.
 
-CoinDesk • 1d ago
-
----
-
-**[Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum](https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613)**
-
-Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.
-
-The Block • 2d ago
+Decrypt • 6h ago
 
 ---
 
@@ -224,7 +216,15 @@ The Block • 2d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 11h ago
+Fortune • 13h ago
+
+---
+
+**[Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)**
+
+The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared standard after the two sides diverged on priorities.
+
+The Block • 2d ago
 
 ---
 
@@ -238,7 +238,7 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 839 • 👍 91 • 💬 86 • ⏱️ 49:49 • 4h ago
+👁️ 839 • 👍 91 • 💬 86 • ⏱️ 49:49 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 90 • 👍 7 • 💬 21 • ⏱️ 3:49 • 4h ago
+👁️ 90 • 👍 7 • 💬 21 • ⏱️ 3:49 • 6h ago
 
 ---
 
@@ -298,7 +298,7 @@ The SEC finally makes move for crypto industry. This decision by the SEC is huge
 
 📺 Zach Humphries
 
-👁️ 7K • 👍 391 • 💬 37 • ⏱️ 8:13 • 8h ago
+👁️ 7K • 👍 391 • 💬 37 • ⏱️ 8:13 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-ha
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 23h ago
+👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -318,7 +318,7 @@ This is all about why the big move everyone has been waiting for will be happeni
 
 📺 Investing Made Simple
 
-👁️ 14K • 👍 558 • ⏱️ 11:26 • 10h ago
+👁️ 14K • 👍 558 • ⏱️ 11:26 • 12h ago
 
 ---
 
