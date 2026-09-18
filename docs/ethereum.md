@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-18T18:57:54.644560+00:00'
+updated: '2026-09-18T21:34:13.018310+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 18, 2026 at 18:57 UTC  
+**Last Updated:** September 18, 2026 at 21:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,606.55
+### $2,633.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.5%  
-**7d:** +3.3%  
-**30d:** +12.2%  
-**90d:** +52.9%  
-**1y:** -41.6%  
+**24h:** +7.5%  
+**7d:** +4.0%  
+**30d:** +12.9%  
+**90d:** +53.9%  
+**1y:** -41.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $319.25B
+**Market Cap:** $321.26B
 Rank #2
 
 **Circulating Supply:** 122,058,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.1%
+-46.8%
 
 **All-Time Low:** $0.43
-+603945.5%
++607710.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+16h ago
 
 ---
 
@@ -144,7 +144,7 @@ NOTICE: This AMA is LIVE as of 16 September at 1400 UTC! It remains open until a
 
 We have a website with a system where users need to deposit money as a security deposit or collateral (Forum). For security and trust reasons, I don't want the money to be held directly by us. Instead, I'm looking into whether we could use a blockchain smart contract or some other decentralized solution to hold the funds. The idea is that people who advertise/promote content that has a deposit attached to it would receive a commission, for example 10% or 15%, based on predefined rules. The commission would be handled automatically by the system, while users would still be able to see and track their funds from their own wallets at all times. We are also considering creating a kind of hot wallet network that users could use to send and receive funds between each other within our platform. My main question is: would something like this be possible to build on the Ethereum network using smart contracts? I'm still researching the technical side of this and I don't know all the details yet, so I'd really appreciate any advice or suggestions from people who have experience with Ethereum, smart contracts, or similar systems. Thanks in advance, and I appreciate any input.
 
-5d ago
+6d ago
 
 ---
 
@@ -156,27 +156,23 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 12h ago
+CoinDesk • 15h ago
 
 ---
 
-**[Ethereum Climbs 5.8% -- Crypto Mover](https://www.moomoo.com/news/post/76472716/ethereum-climbs-5-8-crypto-mover)**
+**[Ethereum price jumps above $2,600 driven by a s...](https://pluang.com/en/news-feed/ethereum-tembus-2600-yang-harus-dicek)**
 
-Moomoo • 1h ago
+Ethereum surged past the $2,600 mark, reaching $2,616 on September 18, 2026, boosted by a short squeeze that forced $85 million in short positions to close. This rapid price rise reflects forced buying rather than organic demand, so its sustainability depends on continued buying without leverage. Despite recent gains, Ethereum remains 47% below its all-time high of $4,946 from August 2025. Regulatory developments, including US crypto rule proposals, also supported the market. Investors should watch if $2,600 holds as new support and be cautious with leveraged positions due to high volatility and liquidation risks.
 
----
-
-**[Ethereum Rallies 5.9% -- Crypto Mover](https://www.moomoo.com/news/post/76471857/ethereum-rallies-5-9-crypto-mover)**
-
-Moomoo • 2h ago
+Pluang • 1h ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-18-2026-crypto-prices-rise-as-investors-move-past-claritys-failure-114025818.html)**
+**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
 
-Bitcoin opened at $76,350.68 on Friday, September 18, 2026, 0.3% higher than Thursday's opening price. As of 7:25 a.m. ET this morning, the price of bitcoin lifted to $77,991.09. Ethereum opened at $2,445.49 today, up 1.2% from Thursday's opening price. The price of ethereum moved up to $2,501.16 as of 7:25 a.m. ET.
+The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -184,7 +180,15 @@ Yahoo Finance • 7h ago
 
 Bitcoin (CRYPTO: BTC) on Friday picked up momentum to reclaim $78,000 for the first time in three days, while Ethereum (CRYPTO: ETH) followed higher to touch $2,500.XRP (CRYPTO: XRP) climbed above $1.30, while Dogecoin (CRYPTO: DOGE) jumped roughly 6%.Ripple Chief Legal Officer Stuart Alderoty said…
 
-TradingView • 6h ago
+tradingview.com • 8h ago
+
+---
+
+**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
+
+Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
+
+The Motley Fool • 1h ago
 
 ---
 
@@ -192,13 +196,27 @@ TradingView • 6h ago
 
 XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
 
-24/7 Wall St. • 20h ago
+24/7 Wall St. • 22h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security](https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security)**
+
+Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense.
+
+Decrypt • 1d ago
+
+---
+
+**[Crypto stocks surge as bitcoin and ethereum rally sharply](https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701)**
+
+Investing.com • 4h ago
 
 ---
 
 **[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
-Forbes • 2d ago
+Forbes • 3d ago
 
 ---
 
@@ -206,23 +224,7 @@ Forbes • 2d ago
 
 Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act’s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do…
 
-TradingView • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRPHit by CLARITY Act 'Setback,' Fed Hike: What's Next?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61827534/bitcoin-ethereum-xrphit-by-clarity-act-setback-fed-hike-whats-next)**
-
-Crypto fell after the Clarity Act failed, but analyst Ray Salmond calls it a setback, not a derailment, as regulators may sustain adoption.
-
-Benzinga • 1d ago
-
----
-
-**[Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.](https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/)**
-
-Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
-
-The Motley Fool • 30m ago
+tradingview.com • 2d ago
 
 ---
 
@@ -230,23 +232,23 @@ The Motley Fool • 30m ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
+
+Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
+
+📺 Trade Confident
+
+👁️ 223 • 👍 8 • 💬 37 • ⏱️ 4:53 • 2h ago
+
+---
+
 **[Crypto CYCLE BREAKOUT! The 5-Year Cycle Shift Is Here (It&#39;s Happening)](https://www.youtube.com/watch?v=SOGagel9F84)**
 
 Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your rewards! ▻ COINBASE Get up to 250 USDC in ...
 
 📺 Crypto Capital Venture
 
-👁️ 4K • 👍 408 • 💬 128 • ⏱️ 20:18 • 3h ago
-
----
-
-**[ETH Is One Close From A Breakout And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=qV44x4C-lkk)**
-
-Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedrip ...
-
-📺 Marzell Crypto
-
-👁️ 501 • 👍 9 • 💬 16 • ⏱️ 4:11 • 8h ago
+👁️ 11K • 👍 554 • 💬 190 • ⏱️ 20:18 • 5h ago
 
 ---
 
@@ -256,7 +258,17 @@ Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bi
 
 📺 VirtualBacon
 
-👁️ 7K • 👍 99 • 💬 15 • ⏱️ 1:07 • 18h ago
+👁️ 8K • 👍 110 • 💬 17 • ⏱️ 1:07 • 20h ago
+
+---
+
+**[ETH Is One Close From A Breakout And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=qV44x4C-lkk)**
+
+Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedrip ...
+
+📺 Marzell Crypto
+
+👁️ 767 • 👍 9 • 💬 16 • ⏱️ 4:11 • 10h ago
 
 ---
 
@@ -270,53 +282,13 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=pBjChrOlgg8)**
+**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
 
-📺 Profit First
+📺 Money Rules - Investing Tips 
 
-👁️ 533 • 👍 68 • ⏱️ 7:10 • 3h ago
-
----
-
-**[&#39;OPEN THE FLOODGATES&#39;: Ethereum co-founder details large impact of Clarity Act](https://www.youtube.com/watch?v=25VBaErxoQY)**
-
-Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact of the Clarity Act on cryptocurrency and ...
-
-📺 Fox Business
-
-👁️ 73K • 👍 432 • 💬 198 • ⏱️ 3:26 • 2d ago
-
----
-
-**[🚀 Clarity Dies Bitcoin Flies: Hikes, Tokenization, AI, Oil, DEXs](https://www.youtube.com/watch?v=osP-Deenecc)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 914 • 👍 125 • 21m ago
-
----
-
-**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
-
-WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
-
-📺 Altcoin Daily
-
-👁️ 99K • 👍 4K • 💬 175 • ⏱️ 12:52 • 1d ago
-
----
-
-**[SEC CHAIRMAN CRYPTO CLARITY ACT WARNING!🚨#btc #bitcoin #ethereum #xrp #crypto](https://www.youtube.com/watch?v=H9F_mukcuLY)**
-
-SEC CHAIRMAN CRYPTO CLARITY ACT WARNING!  #btc #bitcoin #ethereum #xrp #crypto.
-
-📺 Crypto AiMan
-
-👁️ 218 • 👍 11 • 💬 2 • ⏱️ 0:57 • 2h ago
+👁️ 37K • 👍 2K • 💬 375 • ⏱️ 13:54 • 2d ago
 
 ---
 
@@ -326,7 +298,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 258 • 💬 30 • ⏱️ 19:57 • 2d ago
+👁️ 16K • 👍 265 • 💬 30 • ⏱️ 19:57 • 2d ago
+
+---
+
+**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
+
+WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
+
+📺 Altcoin Daily
+
+👁️ 99K • 👍 4K • 💬 176 • ⏱️ 12:52 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=pBjChrOlgg8)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 2K • 👍 78 • ⏱️ 7:10 • 6h ago
+
+---
+
+**[BITCOIN JUST FLIPPED: This is Coming Next (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=n8b94eR16to)**
+
+BITCOIN JUST FLIPPED: This is Coming Next (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 16K • 👍 285 • 💬 119 • ⏱️ 19:17 • 18h ago
 
 ---
 

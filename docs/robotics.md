@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T18:57:54.646806+00:00'
+updated: '2026-09-18T21:34:13.020936+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 18:57 UTC  
+**Last Updated:** September 18, 2026 at 21:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 4d ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 5d ago
 
 ---
 
@@ -112,80 +112,6 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
-
-OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
-
-Business Insider • 9h ago
-
----
-
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
-
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
-
-BBC • 19h ago
-
----
-
-**[A quieter corner of robotics is gaining traction](https://www.axios.com/pro/all-deals/2026/09/18/automomous-robotics-investing-viabot)**
-
-Axios • 2h ago
-
----
-
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
-
-Seeing is Believing
-
-citriniresearch.com • 2d ago
-
----
-
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
-
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
-
-IEEE Spectrum • 2h ago
-
----
-
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
-
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
-
-The Robot Report • 1h ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 1d ago
-
----
-
-**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
-
-The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
-
-MIT News • 1d ago
-
----
-
-**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
-
-Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
-
-The Conversation • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +122,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 437K • 👍 8K • 💬 896 • ⏱️ 16:24 • 1d ago
+👁️ 464K • 👍 8K • 💬 935 • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -216,7 +142,7 @@ Chinese robots just took over Berlin — and IFA 2026 might be the moment humano
 
 📺 The AI Nexus
 
-👁️ 25K • 👍 318 • 💬 20 • ⏱️ 24:48 • 6d ago
+👁️ 26K • 👍 320 • 💬 20 • ⏱️ 24:48 • 6d ago
 
 ---
 
@@ -226,17 +152,7 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 579K • 👍 6K • 💬 835 • ⏱️ 27:23 • 6d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 46K • 👍 374 • 💬 40 • ⏱️ 18:12 • 4d ago
+👁️ 585K • 👍 6K • 💬 839 • ⏱️ 27:23 • 6d ago
 
 ---
 
@@ -246,7 +162,7 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why 
 
 📺 PRO ROBOTS
 
-👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 5d ago
+👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 6d ago
 
 ---
 
@@ -256,35 +172,47 @@ New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R.
 
 📺 Baprimo
 
-👁️ 251K • 👍 2K • 💬 16 • ⏱️ 12:08 • 6d ago
+👁️ 257K • 👍 2K • 💬 16 • ⏱️ 12:08 • 6d ago
 
 ---
 
-**[My $7,000 Iron Man Robot Is Finally ALIVE](https://www.youtube.com/watch?v=IXB-GqVnOaA)**
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
 
-📺 Kyle Krueger
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
 
-👁️ 4.1M • 👍 144K • 💬 2K • ⏱️ 0:40 • 4d ago
+📺 Ai Futuristic Robotics
 
----
-
-**[The Robot Is Tired!” 😂 AI Robot Gives Up After 8-Hour Shift — Is Your Job Next?](https://www.youtube.com/watch?v=-sMTfweuJHM)**
-
-A hilarious clip showing an AI-powered robot apparently struggling after what looks like a long work shift has sparked reactions ...
-
-📺 Agogo107.5fm
-
-👁️ 1.6M • 👍 6K • 💬 2K • ⏱️ 0:16 • 4d ago
+👁️ 46K • 👍 376 • 💬 40 • ⏱️ 18:12 • 5d ago
 
 ---
 
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+**[Manufacturing 50,000 Humanoid Robots Next Year | Bernt Børnich, 1X](https://www.youtube.com/watch?v=DXSs6yIL00w)**
 
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+Bernt Børnich is the founder and CEO of 1X, a California-based humanoid robotics company. After years of developing NEO, ...
 
-📺 Cleo Abram
+📺 Relentless
 
-👁️ 392K • 👍 20K • 💬 486 • ⏱️ 0:37 • 4d ago
+👁️ 3K • 👍 153 • 💬 18 • ⏱️ 43:02 • 4h ago
+
+---
+
+**[Robotic parking rolled out at Gatwick airport](https://www.youtube.com/watch?v=Kg5PZu_bvtc)**
+
+To fast track passengers at Gatwick airport, robots are being introduced to park people's cars. But questions are being asked as to ...
+
+📺 Sky News
+
+👁️ 1.3M • 👍 4K • 💬 626 • ⏱️ 2:50 • 5d ago
+
+---
+
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+
+📺 Reward AI
+
+👁️ 118K • 👍 1K • 💬 104 • ⏱️ 2:20 • 4d ago
 
 ---
 
