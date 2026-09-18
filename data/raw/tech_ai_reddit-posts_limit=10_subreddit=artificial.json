@@ -46,6 +46,28 @@
       "description": "A SUMMIT organised by King Charles in Scotland with the world\u2019s biggest AI companies in attendance has been condemned as a \u201csecretive\u201d meeting\u2026"
     },
     {
+      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
+      "author": "Fair-Swimming-4419",
+      "url": "https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/",
+      "published": 1789679803.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
+      "author": "sunychoudhary",
+      "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
+      "published": 1789647357.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
+    },
+    {
       "title": "Does it seem to anyone else like even frontier models have a very \"jagged\" range of capabilities?",
       "author": "Extreme_Pudding3226",
       "url": "https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/",
@@ -66,28 +88,6 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability."
-    },
-    {
-      "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
-      "author": "sunychoudhary",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
-      "published": 1789647357.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
-    },
-    {
-      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
-      "author": "Fair-Swimming-4419",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/",
-      "published": 1789679803.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
     },
     {
       "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
@@ -112,5 +112,5 @@
       "description": "I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled \"Treatment\" and the words \"There is currently no known cure\". It's not good enough."
     }
   ],
-  "fetched_at": "2026-09-17T23:24:49.943227+00:00"
+  "fetched_at": "2026-09-18T01:23:21.146307+00:00"
 }

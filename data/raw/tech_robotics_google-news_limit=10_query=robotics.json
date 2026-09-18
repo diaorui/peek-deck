@@ -25,22 +25,32 @@
       "description": null
     },
     {
-      "headline": "20 hours of work on 9-minute charge: US-made Digit 5 humanoid robot unveiled",
-      "source": "interestingengineering.com",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Td0NRaV8ybGNoMjhoNnJ3U1FTN3F3UEwtN2ppV3piM2RGckNOa1Y5VjdiNXV2cGZqT1FSV0l2aTlxWW9ITWkyU2NoaXgwTUhJdEgxemI1QmQxWmVCUE9COHEwVHZhZVJwWldIajN1SXNrZEtPMnpJcEJWWGQ1Zw?oc=5",
-      "pub_date": 1789648500.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/new-humanoid-robot-digit-5",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/humanoid-lifting-weight.jpg",
-      "description": "The Digit 5 humanoid lifts 50 pounds, charges in nine minutes and uses new safety systems to work alongside warehouse employees."
+      "headline": "Terminator now: China is exploring humanoid robots for war",
+      "source": "Asia Times",
+      "source_url": "https://asiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHpzMklTd2lVZ1N1UkhoWjdtdk1jY1drNDhhaXl1bFlmNGh6Z1h6alZtbmJCS2tQT09UTG1GbGdsSW5kZ2hxcjhJVUl2bVVUZGNlUFRKSkpWRG9rMlVLN1lxV1ZxUVNEZHlLQ2NxSE5WVDJ2eThtc3o5TzZyVmxmZzBsd05RWFpxeHNjTXVTQjdGUQ?oc=5",
+      "pub_date": 1789533187.0,
+      "article_url": "https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Oregon robotics company says its newest humanoid can work safely with people",
-      "source": "OregonLive.com",
-      "source_url": "https://www.oregonlive.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVVc19HbXJKT3Bwb0ZRWTFHQndUUjZ4Qk5ua3lfblo1TDczdmxOeVVmelRaejQ1ZmF2XzU0V0czQ05Id0xYaWZTSmdGUHFUYS1JMUdIV1ZTTmd1ZmowaXNpVHJRWU13d3dqcjVNRUItWlRCVk41Ung5cEhXX19zcDVHWnhBY2xhMzJNVHpraURFUDNCSW1QT2xwRFNicDRBeHQwcFdKZ1QxbkdRaUJoMDc5NHRQNE1iRHQ0QjZicnY4RkVMbzVFMS1Iaw?oc=5",
-      "pub_date": 1789491060.0,
-      "article_url": "https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html",
+      "headline": "Robotics: Firms race to improve robot training systems",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
+      "pub_date": 1789686047.0,
+      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
+    },
+    {
+      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
+      "pub_date": 1789650000.0,
+      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
       "image": null,
       "description": null
     },
@@ -65,16 +75,6 @@
       "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
     },
     {
-      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "source": "SpaceNews",
-      "source_url": "https://spacenews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
-      "pub_date": 1789650000.0,
-      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Why do some robots feel creepy? We deliberately built one to find out",
       "source": "The Conversation",
       "source_url": "https://theconversation.com",
@@ -85,6 +85,16 @@
       "description": "Why do some people perceive a robot as \u2018creepy\u2019 while others don\u2019t? It seems our response to these increasingly common non-human companions is highly subjective."
     },
     {
+      "headline": "'Scoff at your own risk:\u2019 Viral investment research firm says AI robots are a coming mega-trend",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUNfMGNzeGZiZ05NRm9nUWtSV0RkQ2RHVTN3SjUzRE1SZDNXWm9FYy1wSENSWndldW80TjdZU0M0S004a0RrOENWdTJLbVdfd3hfWC1SMDZpT3RySy1qTVdHX3VGOU9uSS1XWWoyd1hqcktWUzZzdDF4T3RHRkdYcFpKaHpsaDdsemN0OTZGTGgtNHlmWV9ZMk1fcw?oc=5",
+      "pub_date": 1789638301.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ce40349f0d414848162fd7b11a655ac3dd17bca814687716ac71b8a7a320f7a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F30102d2834d64d78fdf25d4310da4395.jpg",
+      "description": "Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market."
+    },
+    {
       "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -93,18 +103,8 @@
       "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
       "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
       "description": "How to secure today\u2019s AI robots against stealth cyber threats"
-    },
-    {
-      "headline": "David L. Lawrence Convention Center brimming with robotics, AI during discovery day",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWdGNkpCSUk3WWJWaXBvTUxuRzhlN3VScHNiM0pJZmRfVkc3a2trQ0Z2SjFOZm9Icl9hWjdjWXNXaVlQSjIwR0hnZDI1Vi1SY2ZnN0hzazlRN0tMamFHdldwV3poa3VVWUN1cVo2eG1VNGxUZkhxNVNxdUNDOGpSV19fQ0FsZjNZdWF2anc1QWZhU3dRZE8ySQ?oc=5",
-      "pub_date": 1789677369.0,
-      "article_url": "https://www.yahoo.com/news/science/articles/david-l-lawrence-convention-center-203609372.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ed08e76e43ab37b28be43d106a68e5236fe101df8b0bf7d5886925d9d79b15e4/lightyear_networkapi/resizefill_w300_h169%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwpxi_cox_articles_540%2F219b646c8a4e8291a4cc4598b6ba154d.jpg",
-      "description": "Channel 11 got an up-close look at the future of robotics Wednesday."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T23:25:06.996208+00:00"
+  "fetched_at": "2026-09-18T01:23:39.945760+00:00"
 }
