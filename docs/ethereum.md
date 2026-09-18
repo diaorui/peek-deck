@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-18T01:23:46.201260+00:00'
+updated: '2026-09-18T06:22:28.927570+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 18, 2026 at 01:23 UTC  
+**Last Updated:** September 18, 2026 at 06:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,39 +36,47 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,448.43
+### $2,474.26
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** -3.0%  
-**30d:** +5.3%  
-**90d:** +43.6%  
-**1y:** -45.2%  
+**24h:** +1.6%  
+**7d:** -1.7%  
+**30d:** +6.7%  
+**90d:** +45.5%  
+**1y:** -44.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $298.63B
+**Market Cap:** $302.99B
 Rank #2
 
-**Circulating Supply:** 122,056,010 ETH
+**Circulating Supply:** 122,058,931 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--50.5%
+-49.8%
 
 **All-Time Low:** $0.43
-+564994.4%
++573373.5%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion September 16, 2026](https://www.reddit.com/r/ethereum/comments/1whnme5/daily_general_discussion_september_16_2026/)**
+**[Daily General Discussion September 18, 2026](https://www.reddit.com/r/ethereum/comments/1wjgvd6/daily_general_discussion_september_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
+
+**[Daily General Discussion September 17, 2026](https://www.reddit.com/r/ethereum/comments/1wikici/daily_general_discussion_september_17_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
@@ -76,11 +84,27 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion September 15, 2026](https://www.reddit.com/r/ethereum/comments/1wgqusn/daily_general_discussion_september_15_2026/)**
+**[Why using P2P?](https://www.reddit.com/r/ethereum/comments/1wiw1z7/why_using_p2p/)**
+
+Hi everyone! I used to buy ETH on Binance P2P because I thought it was the cheapest option. Now I am trying HashKey. For the same amount of money, HashKey shows I will get more ETH than Binance P2P, which confuses me. I have two questions: Hidden Fees: Are there extra taxes or hidden fees on HashKey that I need to know about? Final Amount: Will I actually receive less ETH than the amount shown on the screen after I pay? I don't understand why the P2P network exists if you get less at the end...
+
+15h ago
+
+---
+
+**[Daily General Discussion September 16, 2026](https://www.reddit.com/r/ethereum/comments/1whnme5/daily_general_discussion_september_16_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 2d ago
+
+---
+
+**[Daily General Discussion September 15, 2026](https://www.reddit.com/r/ethereum/comments/1wgqusn/daily_general_discussion_september_15_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+3d ago
 
 ---
 
@@ -96,7 +120,7 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -104,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -124,33 +148,11 @@ We have a website with a system where users need to deposit money as a security 
 
 ---
 
-**[Daily General Discussion September 12, 2026](https://www.reddit.com/r/ethereum/comments/1we38j1/daily_general_discussion_september_12_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-5d ago
-
----
-
-**[Daily General Discussion September 11, 2026](https://www.reddit.com/r/ethereum/comments/1wd6meq/daily_general_discussion_september_11_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[Weekly Doots Podcast - namespace.ninja - maxi.eth](https://www.reddit.com/r/ethereum/comments/1wdn36y/weekly_doots_podcast_namespaceninja_maxieth/)**
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=EDlAu3bdkMk) • 6d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
+**[Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate](https://www.forbes.com/sites/antoniopequenoiv/2026/09/15/bitcoin-ethereum-and-other-major-cryptocurrencies-tumble-as-clarity-act-fails/)**
 
 Forbes • 2d ago
 
@@ -160,7 +162,7 @@ Forbes • 2d ago
 
 Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act’s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do…
 
-TradingView • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -176,15 +178,23 @@ Yahoo Finance • 2d ago
 
 Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity)**
+**[Ethereum developers warn ‘any teenager’ could disrupt upcoming Glamsterdam test](https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain)**
 
-The test network raised its limit on work per block toward 200 million gas as developers prepare for a proposed October 6 public test.
+Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 12h ago
+CoinDesk • 58m ago
+
+---
+
+**[XRP ETF Inflows Beat Bitcoin, Ethereum Again: What Is Going On?](https://www.tradingview.com/news/benzinga:aed6a6e0b094b:0-xrp-etf-inflows-beat-bitcoin-ethereum-again-what-is-going-on/)**
+
+XRP (CRYPTO: XRP) spot ETFs pulled in $3.50 million over two days with zero outflows while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) funds bled $1.11 billion combined.What the ETF Flows ShowFranklin Templeton’s XRPZ (NYSE:XRPZ) drove the entire Sept. 16 inflow, adding 2.71 million XRP worth…
+
+TradingView • 17h ago
 
 ---
 
@@ -196,19 +206,11 @@ The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot p
 
 ---
 
-**[XRP ETF Inflows Beat Bitcoin, Ethereum Again: What Is Going On?](https://www.tradingview.com/news/benzinga:aed6a6e0b094b:0-xrp-etf-inflows-beat-bitcoin-ethereum-again-what-is-going-on/)**
-
-XRP (CRYPTO: XRP) spot ETFs pulled in $3.50 million over two days with zero outflows while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) funds bled $1.11 billion combined.What the ETF Flows ShowFranklin Templeton’s XRPZ (NYSE:XRPZ) drove the entire Sept. 16 inflow, adding 2.71 million XRP worth…
-
-TradingView • 12h ago
-
----
-
 **[Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security](https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security)**
 
 Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense.
 
-Decrypt • 6h ago
+Decrypt • 11h ago
 
 ---
 
@@ -216,15 +218,15 @@ Decrypt • 6h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 13h ago
+Fortune • 18h ago
 
 ---
 
-**[Ethereum, Base developers abandon effort to align account abstraction proposals](https://www.theblock.co/news/ecosystems/2026-09-15-ethereum-base-account-abstraction-proposals-414775)**
+**[This Ethereum Treasury Company Is Close to Owning 5% of All ETH in Circulation. Does That Make It a Buy?](https://www.fool.com/investing/2026/09/16/is-this-ethereum-treasury-company-a-buy/)**
 
-The talks to align two proposals, EIP-8130 and EIP-8141, fell short of a shared standard after the two sides diverged on priorities.
+BitMine continues to buy Ethereum at a rapid clip, but where's the payoff for investors?
 
-The Block • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -238,37 +240,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 839 • 👍 91 • 💬 86 • ⏱️ 49:49 • 6h ago
+👁️ 7K • 👍 157 • 💬 97 • ⏱️ 49:49 • 11h ago
 
 ---
 
-**[Ethereum Just Squeezed The Shorts And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=bHOKhEmYPy0)**
+**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
 
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
 
-📺 Marzell Crypto
+📺 VirtualBacon
 
-👁️ 90 • 👍 7 • 💬 21 • ⏱️ 3:49 • 6h ago
-
----
-
-**[🚨 BTC &amp; ETH: RED ALERT!!!!](https://www.youtube.com/watch?v=UfA2L20fhxk)**
-
-Urgent news update on bitcoin, crypto, and the rest of the markets! Its not looking great! ---------- Join My FREE Trading Group ...
-
-📺 Thomas Kralow
-
-👁️ 17K • 👍 1K • 💬 17 • ⏱️ 8:58 • 2d ago
-
----
-
-**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
-
-Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 35K • 👍 2K • 💬 346 • ⏱️ 13:54 • 1d ago
+👁️ 927 • 👍 38 • 💬 13 • ⏱️ 1:07 • 5h ago
 
 ---
 
@@ -278,27 +260,17 @@ Ethereum co-founder and MetaMask Chairman and CEO Joe Lubin discusses the impact
 
 📺 Fox Business
 
-👁️ 71K • 👍 423 • 💬 199 • ⏱️ 3:26 • 2d ago
+👁️ 73K • 👍 427 • 💬 199 • ⏱️ 3:26 • 2d ago
 
 ---
 
-**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
+**[BITCOIN JUST FLIPPED: This is Coming Next (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=n8b94eR16to)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+BITCOIN JUST FLIPPED: This is Coming Next (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Crypto Nutshell
+📺 Crypto World
 
-👁️ 13K • 👍 229 • 💬 29 • ⏱️ 19:57 • 1d ago
-
----
-
-**[🚨 BREAKING CRYPTO NEWS: SEC DID IT! (XRP, ETH, ONDO, HYPE, Tokenization)](https://www.youtube.com/watch?v=cmCkBjo60qA)**
-
-The SEC finally makes move for crypto industry. This decision by the SEC is huge for tokenization and crypto market. MAJOR ...
-
-📺 Zach Humphries
-
-👁️ 7K • 👍 391 • 💬 37 • ⏱️ 8:13 • 10h ago
+👁️ 1K • 👍 156 • 💬 30 • ⏱️ 19:17 • 3h ago
 
 ---
 
@@ -308,27 +280,57 @@ WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-ha
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 1d ago
+👁️ 99K • 👍 3K • 💬 173 • ⏱️ 12:52 • 1d ago
 
 ---
 
-**[Bitcoin: Big Breakout Coming? 💰](https://www.youtube.com/watch?v=EiHITgTRwJQ)**
+**[John Gillen: Why Ethereum Is Positioned Better Than Bitcoin Right Now (ETH/BTC Setup)](https://www.youtube.com/watch?v=FeM2h0ASkYs)**
 
-This is all about why the big move everyone has been waiting for will be happening soon. Big news for all Bitcoin, Ethereum, ...
+The Clarity Act dying might be the most bullish thing that could happen to this industry. John Gillen argues it had drifted from a ...
 
-📺 Investing Made Simple
+📺 The Rollup
 
-👁️ 14K • 👍 558 • ⏱️ 11:26 • 12h ago
+👁️ 404 • 👍 19 • 💬 44 • ⏱️ 5:27 • 7h ago
 
 ---
 
-**[Crypto&#39;s Future Is Bitcoin, Ethereum, and ICP](https://www.youtube.com/watch?v=BU-MNThe-oo)**
+**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
 
-Crypto's Future: Bitcoin, Ethereum, and ICP #jerrybanfield #icp #bitcoin #ethereum #crypto.
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Jerry Banfield Money
+📺 Crypto Nutshell
 
-👁️ 1K • 👍 23 • 💬 4 • ⏱️ 0:38 • 1d ago
+👁️ 13K • 👍 242 • 💬 29 • ⏱️ 19:57 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: RED ALERT!!!!](https://www.youtube.com/watch?v=UfA2L20fhxk)**
+
+Urgent news update on bitcoin, crypto, and the rest of the markets! Its not looking great! ---------- Join My FREE Trading Group ...
+
+📺 Thomas Kralow
+
+👁️ 18K • 👍 1K • 💬 17 • ⏱️ 8:58 • 2d ago
+
+---
+
+**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
+
+Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 36K • 👍 2K • 💬 376 • ⏱️ 13:54 • 1d ago
+
+---
+
+**[ETH Holders Are MISSING This Altcoin Rotation (ZEC +169%)](https://www.youtube.com/watch?v=oaU303zoF5o)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 765 • 👍 11 • 💬 11 • ⏱️ 4:59 • 21h ago
 
 ---
 

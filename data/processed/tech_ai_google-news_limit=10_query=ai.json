@@ -25,86 +25,86 @@
       "description": "Model adopting \u2018jailbreak-like instructions\u2019 among six more cases as firm reveals framework for tracking AI misalignment"
     },
     {
-      "headline": "Safe and ethical AI advocate calls international cooperation \"absolutely essential\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRSSmdnUExYWGxoZmNDOFpRenlwWnVIVFdCdnNiRFlBTUVmNVFHdmthSlZUc1NZTGZOcjc4S3dSMFFhNEVXMkNEc2JIS3hBaWhfZUtObl9xZEJ2QktHd3Q3Z0Z1UXVKSEM1U204STRocUJQN1gwR09HbVlmaUt1Q1hvZlVQS1h2UlZxdV81bjVrS2RoX0J3WE1TSW14b3k2Y3Ywcg?oc=5",
-      "pub_date": 1789687980.0,
-      "article_url": "https://www.cbsnews.com/video/safe-ethical-ai-advocate-international-cooperation-absolutely-essential/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/18/1477e938-b72d-4b27-861f-a858e1f1421a/thumbnail/1200x630/a3f41e6c907fde1a1e8a0e960f370c70/cbsn-fusion-safe-ethical-ai-advocate-international-cooperation-absolutely-essential-thumbnail.jpg",
-      "description": "OpenAI on Thursday revealed an additional six incidents in which its artificial intelligence models exhibited unexpected or concerning behavior. Stuart Russell, a distinguished professor of computer science at UC Berkeley and president of the International Association for Safe and Ethical AI, joins CBS News to discuss."
+      "headline": "Our framework for reporting model misalignment",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
+      "pub_date": 1789596201.0,
+      "article_url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
-      "headline": "Will AI really kill everyone? How, exactly?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaMGFOYXpEU2g2ZUE1dVdEQmQ2Ym1CMUhBa25Lb01EZ0ROY1RLVEx4NWhWc3QtbGpCQUsxaW9xVVVMOHNkSk9jdVczY3NuUi1WTjNDb0xEUGRyX19hSklrWTlzT2NROGpEdkE0Qk9kOXp0VkFkSGVfb0ZtME4?oc=5",
-      "pub_date": 1789650030.0,
-      "article_url": "https://www.cnn.com/2026/09/17/tech/how-will-ai-exterminate-humanity-cec",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2252194207.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?"
-    },
-    {
-      "headline": "The fight over who pays for AI's power boom",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXFyeXB1VHdERjg2alE2bm9HY1BWYjI1LUJ6RkdUNjJSR0dMdGg1T0xEVjZTdWZGZnlCRkhmVV9LcjlWSXhiRGxrZkpyMzFWd0dkczBITl80R3pUcnRBLXBsS2IxejNiYTMtRGk2SEZPWjh3NUpqSFVvQ1dtWFZmSzNFeXBJV25KTUJULUptX0hXQmY0SWc?oc=5",
-      "pub_date": 1789690490.0,
-      "article_url": "https://www.axios.com/2026/09/18/artificial-intelligence-axios-live-data-centers-grid-costs",
+      "headline": "How Anthropic CEO Dario Amodei\u2019s Writings Help Explain A.I. Fears",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5",
+      "pub_date": 1789635609.0,
+      "article_url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump administration live updates: Americans give AI in schools a poor grade",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTl4TXNTeTBBZFU3TVVVUUlOdUU4XzN0aGhpTU00aEtjWS1FbVU0T2RyOHhQb2h6SFlISHZyWFZ4RXUzS1ZUVkJnaEpvWW9xbHpkSFBrenpRSy12TE1uUjMwaXpZNFY0Y0IzS2dYVW4tZHlucm56TnhqdGtVRVl3Rm5QQWpEa0J2cTFsZTNXYnFkLUFrcWJJTXFKbXEweGdWZ0laMlYwMGhBQ3NKVWc3Q21jV3ZMMGNGQmpXb3pGVHFGeGlZSmtoMHNZcXM?oc=5",
-      "pub_date": 1789691580.0,
-      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-president-trump-gop-convention-vsb-2131-02bf51.jpg",
-      "description": "Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran."
+      "headline": "Why is China less worried about an AI dystopia than the US?",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZzF6SHZtUUhWVGZsRmphMGFBcGhzcklNdzkwcTR3N0N1RHR1NVJCeXZwUHoza3BUamdORWkwTk1GUk00VG5xQUFYeEVHMHZHOFhYMGV5bTRwR2EzNnc0dUF0Z0tEckhZZkRHYQ?oc=5",
+      "pub_date": 1789624073.0,
+      "article_url": "https://www.cnn.com/2026/09/17/tech/china-ai-debate-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2292375174.JPG?c=16x9&q=w_800,c_fill",
+      "description": "Unlike in the United States, no one in China seems to be openly fretting over the prospect of humanity being destroyed by artificial intelligence soon."
+    },
+    {
+      "headline": "Can Xi, Trump Set Up AI Guardrails Before the Tech Runs Amok?",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTVKLS1qYkJtd2dPZl9hQ0xCLUI4eHhjZ1p5VDI3QTFvemlBaEZNZEJoYVB2dm41cmRYRHpUcHBtWWxISW5rZkplUXJUdWNhYlQ0Q2hlWERvbDUwaHB2ZmYwaDFGaUpNZDg3dzJwWDk1VXVuWDFNS3BwZ3h1aWdWREc5NmVaSFhBVmlzV0I3ZnlTSTBjeTlSNktCcVNHVGY2MW01RE5LaFFzNUx3ZGVaV3F5TQ?oc=5",
+      "pub_date": 1789707180.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-18/can-xi-trump-set-up-ai-guardrails-before-the-tech-runs-amok",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | America and China Look at A.I. and See Very Different Problems",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kSlpEVE5HQUJaQnZrVUFGTUo5anBPcXJLejlGRVc0c1pqZ01mVHZHRXBSbkg0c09JeXVJVVEzNGlxaTF3UjdJaFBoQkJZSXM2OUFpcnNlTWRrekM0WDY5ZFVQRnBQZjNNQ2NCUEwzVDJrYkpzdlBSMw?oc=5",
+      "pub_date": 1789657206.0,
+      "article_url": "https://www.nytimes.com/2026/09/17/opinion/ai-china-america-risk.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI latest: Kings joins debate - as ChatGPT maker discovers 'concerning' message",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Y1lvbVBvZkQ1T0FaRFJMdlliZU1IaklEb216RFlGVUF3enh3NFZxZ1FVNTV2ZklkX2pyWGRGZjh4MElieER2MUxVMnlSaHU4VjhYdkx1NzhTVDVOT3k4anZDZmtldGg0cFZuYktMYkZ1ZHV6WGk5VlZhRHlhdw?oc=5",
+      "pub_date": 1789712357.0,
+      "article_url": "https://news.sky.com/story/ai-latest-king-warning-chatgpt-openai-13585257",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Nick Knight Used AI to Create H&M\u2019s Interactive Show",
+      "source": "Vogue",
+      "source_url": "https://www.vogue.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTi1sSkE2NEkzNnBhckFpWWZITGxiTzBTZ202R0dJYVdqUkN4Q2NJOWJ6VUctZmhuX2RZS1lWbDNLS1RoQlZram1kVEtlSlVuNGZlS1ZfdWhZdFRCcUFXd1VQSXNrYTF2bm5hcGlJd3JYOTYweGpNZzZhQ0RHSnczN3owclRvX3lTU0kzMFB1OEI?oc=5",
+      "pub_date": 1789705800.0,
+      "article_url": "https://www.vogue.com/article/why-nick-knight-used-ai-to-create-handms-interactive-show",
+      "image": "https://assets.vogue.com/photos/6aac7660bbaf0080f505b545/16:9/w_1280,c_limit/HMAISOCIAL.jpg",
+      "description": "Photographer Nick Knight turned studio stills into AI-generated fashion films for H&M\u2019s latest London Fashion Week show. Here, he and H&M\u2019s creative director explain why they\u2019re experimenting with a technology that still divides fashion."
     },
     {
       "headline": "College Is Coming Apart",
-      "source": "theatlantic.com",
+      "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEdqX2Z6d2NxcVVQb19Gb2o2azlNRmN6SThrcURjV1ZfbFB3Y1c4cDhBb0ZaMF9XamxzVTFZdk5aVi1OcU05cHZCYWl5Q29xc3pPengzM0t2Y2Y3QUN0LTBlWGgzVHZpNkNsMC1yTTFYYm04dG5oVk9ocmJhZm8wa0N5dw?oc=5",
       "pub_date": 1789646400.0,
       "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
       "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
       "description": "Successive, overlapping crises reveal that American higher education makes no sense."
-    },
-    {
-      "headline": "Microsoft exec called AI the \u2018largest theft of labor\u2019 in history, court records show",
-      "source": "washingtonpost.com",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
-      "pub_date": 1789694316.0,
-      "article_url": "https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2ZF3CXVO7QI65GRSLSPGVIULHM.jpg&w=1440",
-      "description": "The quote headlined an unsealed document in the New York Times\u2019s copyright case against Microsoft and OpenAI."
-    },
-    {
-      "headline": "Grandmother falsely accused of bank theft after alleged AI facial recognition match sues for $10M - ABC News",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "source_url": "https://abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmxGNEZIRWpGNkt0d2xBWWhYV1JFRGFUcXphVFFsZUpQRFNIUHljWlFoUlJzUjV3NWx1WlJrWVFneWloWTJqZGROZ2RyTGpQRjBmdEJFWW04V2JmbmlJVHZ0MXRtak8xR1hQN3JmeGNUdU1PakpudXlzNW9XOTI5alpvRVJtUTBMMUpwZG55WDktejZwVGRRcmtmNk5KUdIBowFBVV95cUxPR2k0aW5tRmJQb0c3NGJvRW5PdW9mSlVmUzJOSFFXOXJjT0w0YmRFMHNNblNMcllfT05HUG5OZUdyTjUtTm5rcldwZE03WFVXT0N6TGpxVFBLZWxMTl82Ykt0MkVLZ0pGaGItMlduX0NpcUJsakp2anJ5eXJFQzdPTXZjNHpCUWdCOVoxSEF2UTIzQnluaWc1M0x0bE1paWg0a2Uw?oc=5",
-      "pub_date": 1789682196.0,
-      "article_url": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
-      "image": "https://i.abcnewsfe.com/a/c2daec58-9e48-430c-9d06-53ce95b4e39a/ai-arrest-ht-jt-260917_1789686102716_hpMain_16x9.jpg?w=1600",
-      "description": "A Tennessee grandmother who was falsely accused of bank theft crimes in North Dakota and detained for six months is suing for $10 million."
-    },
-    {
-      "headline": "Measurements for understanding the pace of AI development inside frontier labs",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
-      "pub_date": 1789690163.0,
-      "article_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "image": "https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg",
-      "description": "Today, the world can\u2019t see what\u2019s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T01:23:45.041940+00:00"
+  "fetched_at": "2026-09-18T06:22:26.600206+00:00"
 }

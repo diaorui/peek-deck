@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-18T06:22:28.058488+00:00",
+  "data": "Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for on-device inference using llama.cpp. It achieves ~98.2% of FP16 intelligence with a drastically reduced ~5.9 GB footprint by employing end-to-end ternary transformer weights (1.72 bits/weight), enabling efficient reasoning and long context (262K tokens) on consumer hardware with CUDA and Metal support.",
+  "model_id": "prism-ml/Ternary-Bonsai-2-27B-gguf"
+}
