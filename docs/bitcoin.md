@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-17T23:25:08.784364+00:00'
+updated: '2026-09-18T01:23:46.195394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 17, 2026 at 23:25 UTC  
+**Last Updated:** September 18, 2026 at 01:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $76,445.64
+### $76,524.63
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.3%  
 **7d:** -0.9%  
-**30d:** +10.3%  
-**90d:** +18.9%  
-**1y:** -34.6%  
+**30d:** +4.9%  
+**90d:** +21.0%  
+**1y:** -33.7%  
 
 ---
 
@@ -70,8 +70,8 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 50
-**NEUTRAL**
+### 56
+**GREED**
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Obligatory photo
 
-9h ago
+11h ago
 
 ---
 
 **[$1 = 1 Satoshi coming in 10 years](https://www.reddit.com/r/Bitcoin/comments/1wiozon/1_1_satoshi_coming_in_10_years/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -95,13 +95,13 @@ Obligatory photo
 
 If this is not the bottom, I am unsure what to say. The resilience of BTC is remarkable this cycle. It demonstrates that BTC has never required anything or anyone. BTC will act as it chooses. DCA n Chill 🙌🏽 Update: I would add that less than 5 years ago, two or three of the events mentioned would have driven the price down sharply. Now, the shift barely exceeds 5 percent; interestingly, the reverse holds as well, since two or three positive reports also fail to move the price. So when does it shift? On a random Tuesday when no one is watching. I was pooping when the price jump 60k to 75k 😅
 
-14h ago
+16h ago
 
 ---
 
 **[The Bitcoin CEO just released new video. The bear's officially dead](https://www.reddit.com/r/Bitcoin/comments/1wiu4yx/the_bitcoin_ceo_just_released_new_video_the_bears/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -109,13 +109,13 @@ If this is not the bottom, I am unsure what to say. The resilience of BTC is rem
 
 I've been trading P2P on Hodl Hodl for a long time. Its main selling point has always been "no KYC/AML", and their FAQ still says so today. As of this week that no longer seems to be true. What happened Contract 1: I deposited BTC into escrow for a sell contract. After confirmation, the contract was automatically canceled with the message: "The contract was automatically canceled after the AML check." The coins came entirely from trades previously completed on Hodl Hodl itself. Contract 2: I reopened the same trade using a different UTXO. After the first confirmation the contract switched to "AML review in progress", shown as a dispute, funds locked, no timeframe given. About 40 minutes later it moved to "In progress" with no explanation. Until yesterday, contracts went straight from confirmation to the payment step. Screenshots attached (counterparty and amounts redacted). What support said I emailed them asking when this was introduced, what is screened, who does it, and whether my account is flagged. The reply called it a "standard AML compliance check" applied automatically to all transactions, said it doesn't necessarily indicate wrongdoing, and said they can't share any further details. None of my questions were answered. The problem No public announcement The current Terms of Service don't mention automated AML screening of escrow deposits The FAQ still advertises "no KYC/AML" No information on who does the screening (in-house or a chain analysis provider), what criteria are used, or how long reviews take Your coins can sit locked in escrow for an unknown time, or the contract gets canceled, with zero explanation I'm not asking them to avoid complying with whatever rules they think apply to them. I'm asking for transparency. If a platform built its reputation on being a no-KYC/AML P2P marketplace changes that, users deserve to be told clearly and publicly, before their coins get stuck. Has anyone else run into this?
 
-9h ago
+11h ago
 
 ---
 
 **[Water from the pump?](https://www.reddit.com/r/Bitcoin/comments/1wisvvx/water_from_the_pump/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -123,13 +123,13 @@ I've been trading P2P on Hodl Hodl for a long time. Its main selling point has a
 
 H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the coverage is calling it a Trump bill, which misses something. Nick Begich wrote it but Jared Golden, a Democrat, is co-lead on it. Two days earlier CLARITY died in the Senate on what was basically a party-line vote. So narrow bills about one thing are moving. Big sweeping ones aren't. A few details I thought were more interesting than the vote count: The lock is 20 years. Treasury can't sell it, swap it or use it as collateral. That's long enough to outlast a few presidents. Every federal agency has 60 days after it becomes law to say what they actually hold. Right now nobody really knows the total across all of them. There's a line directing a study on buying more bitcoin without spending new money. That's the interesting bit, and probably the first thing to get cut. It also says outright that people have the right to hold their own keys. Still has to pass the full House and then the Senate, so it's not law. But no reserve bill has got this far before.
 
-8h ago
+10h ago
 
 ---
 
 **[We’re better at bitcoin mining than making coffee.We made a barrel of coffee with heat from our miners and tested Braiins OS at 45°C. The firmware automatically adjusts power to help prevent heat-related shutdowns. Less downtime means more time mining bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1wix3gp/were_better_at_bitcoin_mining_than_making/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -137,7 +137,7 @@ H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the c
 
 One key, two doors. How a Taproot output is built, why every one looks the same until it is spent, what Schnorr signatures changed, what Tapscript left open for the future, and what has actually been done with it since 2021, inscriptions included.
 
-🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 8h ago
+🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 10h ago
 
 ---
 
@@ -157,35 +157,33 @@ No future major uncertain policy changes, should be up from here.
 
 Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts.
 
-The Block • 5h ago
+The Block • 7h ago
+
+---
+
+**[Bitcoin ETF Outflows Hit $450mn as CLARITY Act Stalls in Senate](https://sg.finance.yahoo.com/news/bitcoin-etf-outflows-hit-450mn-172252010.html)**
+
+US spot Bitcoin ETFs lost $450.4 million as the CLARITY Act stalled in the Senate, adding regulatory uncertainty to an already weak crypto market.
+
+Yahoo Finance Singapore • 1d ago
+
+---
+
+**[Bitcoin ETFs Lose $746 Million As Fed Hikes Rates To 4%](https://www.forbes.com/sites/boazsobrado/2026/09/17/fed-hike-shock-blackrock-leads-746-million-bitcoin-etf-exodus/)**
+
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the cryptocurrency.](https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab)**
 
-MarketWatch • 11h ago
+MarketWatch • 13h ago
 
 ---
 
-**[The Fed just hiked and Bitcoin is stuck at $75k. Frank Holmes says it could be at $100k by the end of 2026](https://finance.yahoo.com/markets/crypto/articles/fed-just-hiked-bitcoin-stuck-221344911.html)**
+**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
 
-Bitcoin just had its best month of 2026 in August, then ran into a hawkish Fed. Holmes says the US-Japan bailout is the tell that money printing has already started.
-
-Yahoo Finance • 1h ago
-
----
-
-**[What Is Ethereum? How It Works and How It Differs From Bitcoin](https://finance.yahoo.com/markets/crypto/articles/ethereum-works-differs-bitcoin-222206524.html)**
-
-Ethereum was built to run software that no company controls, but its token has lost ground even as activity across its network keeps climbing. Understanding why reveals a fundamental tension at the heart of how Ethereum actually works.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bloomberg’s ETF Analyst Says Bitcoin Funds Will Triple Gold Hours After Admitting They Burned Cash](https://finance.yahoo.com/markets/crypto/articles/bloomberg-etf-analyst-says-bitcoin-205658538.html)**
-
-Bloomberg's top ETF analyst made two posts ninety minutes apart that told very different stories about Bitcoin funds, and the price charts make one of those posts much harder to defend than the other.
+The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
 
 Yahoo Finance • 2h ago
 
@@ -199,7 +197,15 @@ Forbes • 2d ago
 
 **[Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors](https://www.businesswire.com/news/home/20260917945475/en/Bitcoin-Life-Granted-Full-Life-Insurance-Licence-Launches-Regulated-Bitcoin-Product-for-International-Investors)**
 
-Business Wire • 15h ago
+Business Wire • 17h ago
+
+---
+
+**[Live updates: Bitcoin edges higher as Nasdaq climbs 1.7% in wake of Fed rate hike](https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders)**
+
+The SEC debuted its long-awaited "innovation exemption," providing a roadmap for blockchain-based venues to offer tokenized securities.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -221,19 +227,13 @@ CoinDesk • 1d ago
 
 ---
 
-**[Eyes on Fed Decision After Bitcoin Trades Near 4-Week Low on Failed Clarity Vote](https://www.wsj.com/finance/currencies/eyes-on-fed-decision-after-bitcoin-trades-near-4-week-low-on-failed-clarity-vote-2b8af150)**
-
-WSJ • 1d ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 299 • 💬 240 • 12h ago
+⬆️ 300 • 💬 240 • 14h ago
 
 ---
 
@@ -273,7 +273,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Ḽava AI : Proof of Content
 
-⬆️ 3 • 💬 0 • 20h ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
+⬆️ 3 • 💬 0 • 22h ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
 
 ---
 
@@ -281,7 +281,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-⬆️ 2 • 💬 1 • 9h ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
+⬆️ 2 • 💬 1 • 11h ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
@@ -295,7 +295,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 11h ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
+⬆️ 1 • 💬 0 • 13h ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -317,7 +317,7 @@ WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-ha
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 23h ago
+👁️ 91K • 👍 3K • 💬 172 • ⏱️ 12:52 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ The Clarity Act failing a key Senate vote won't waver Bitcoin, Ethereum, and oth
 
 📺 Schwab Network
 
-👁️ 2K • 👍 23 • 💬 1 • ⏱️ 7:11 • 5h ago
+👁️ 2K • 👍 23 • 💬 1 • ⏱️ 7:11 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Congress could not pass a crypto bill this week. The SEC just moved anyway. Trad
 
 📺 Verified Investing
 
-👁️ 7K • 👍 490 • 💬 24 • ⏱️ 18:12 • 5h ago
+👁️ 7K • 👍 490 • 💬 24 • ⏱️ 18:12 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin may have already bottomed — and investors waiting for the traditional 
 
 📺 Cointelegraph
 
-👁️ 6K • 👍 140 • 💬 17 • ⏱️ 26:55 • 8h ago
+👁️ 6K • 👍 140 • 💬 17 • ⏱️ 26:55 • 10h ago
 
 ---
 
@@ -377,7 +377,7 @@ AskClash - *AI Tools, Charts, and Intel for Crypto* ▻ https://www.askclash.ai/
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 845 • 💬 78 • ⏱️ 35:24 • 9h ago
+👁️ 25K • 👍 845 • 💬 78 • ⏱️ 35:24 • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ Stocks are showing real technical weakness and the broader TradFi market is unde
 
 📺 Crypto Banter
 
-👁️ 31K • 👍 1K • 💬 28 • ⏱️ 33:55 • 15h ago
+👁️ 31K • 👍 1K • 💬 28 • ⏱️ 33:55 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ HUGE crypto news today: the SEC just issued a five-year "Innovation Exemption" t
 
 📺 Crypto Capital Venture
 
-👁️ 22K • 👍 1K • 💬 225 • ⏱️ 8:12 • 8h ago
+👁️ 22K • 👍 1K • 💬 225 • ⏱️ 8:12 • 10h ago
 
 ---
 
@@ -407,7 +407,7 @@ HUGE crypto news today: the SEC just issued a five-year "Innovation Exemption" t
 
 📺 Cointelegraph
 
-👁️ 290 • 👍 10 • 💬 6 • ⏱️ 0:52 • 5h ago
+👁️ 290 • 👍 10 • 💬 6 • ⏱️ 0:52 • 7h ago
 
 ---
 

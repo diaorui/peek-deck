@@ -15,74 +15,24 @@
       "description": null
     },
     {
-      "headline": "OpenAI flags concerning new AI behavior and vows to track it more closely",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYzBMbjczYWt1SGJLdVUwYlppSnhRNGc2amRmbjZLQlBGS3ZzdTVXYUM5ZXViQXQ4clFkZXZ2cERxc3NmdENzRTRqRno0Q3pxM0ozTExsSXJGYmY0RkNzUFlFX21FOUtpODA2V0phX3k4OXZaZktpUy1WUjZKb3p5WV9DWUhzejBoazBKdmVuQQ?oc=5",
-      "pub_date": 1789685640.0,
-      "article_url": "https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d",
-      "image": null,
-      "description": null
+      "headline": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5",
+      "pub_date": 1789623120.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+      "image": "https://i.guim.co.uk/img/media/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05fb9bc8f55c5c0cac2bb5997df3f0ef",
+      "description": "Model adopting \u2018jailbreak-like instructions\u2019 among six more cases as firm reveals framework for tracking AI misalignment"
     },
     {
-      "headline": "Anthropic says Claude now leads a quarter of work building its next AI models",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
-      "pub_date": 1789683455.0,
-      "article_url": "https://www.reuters.com/business/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models-2026-09-17/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Godfather of AI\u2019 warns Congress has \u2018maybe a year\u2019 left to regulate AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGhqbWpUNXgwTDNFQjBVNmkzc0Roa1A0akhTVjUzS3puS21YZnVuOXB4a2pmWVVUdnFsazRFZ01HbzZlZHRuZF8xejhPNnJYYXQtOW4zdVY0SmhxRWZLeS0xeEdDN2F4dTBCNm5FQ0NEdm1fSXlYWXRRSnN0a3FGYi1yX2FUWXBvbWk2dlNlcnplbFpncGs1eGRSLVMxUzNUdFlWd3hzVlFhM3Nv?oc=5",
-      "pub_date": 1789674309.0,
-      "article_url": "https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260917-Geoffrey-Hinton-ch-1028-47ae0d.jpg",
-      "description": "There appeared to be a lot of talk about artificial intelligence and little progress on Capitol Hill this week. But members remain hopeful that Congress can act."
-    },
-    {
-      "headline": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzN2eUY3RnNGdHJMYWNMdS12T3g4WjB0SW1lOUIzNF85bC03a2lZVVo0QXVGc2cyMUUzS0lzUThUZ3BPZkZOalRkejJ0MkwwSC1VQVN6ck9yZHJzUEhoTGstQUEwRll6WHo0dWVxV21kR1FwTTVubWdDWTByWGJpUU1YeU9FYzZOektWZ1dMNmtWUTdveE1id1Y4Q2lHUWhuQ1FKTTFEY9IBrAFBVV95cUxQenhKVjFMSlpUdXlCc21oZTZvR3Ywa0Q3Rk9ILTAteUlXT3ZENFZxOHJxLVlrS0REcnM2NHFzaE9BMFR4N2ZDMnc3djhWN0hrcGN3WlhsZkd0SWs1aThJdk1FSWp5YTdQOS04ZWtVVTB6UzVMTVVURGhPclJjbGpWNUtzUTI2eEJPNjhVQlhxVmk5R09JaURYX3A4UFJYR0sybGdfak9JUHhlcEpZ?oc=5",
-      "pub_date": 1789683773.0,
-      "article_url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
-      "description": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company."
-    },
-    {
-      "headline": "AI hacks are already here / U.S.-China race dynamics / Global guardrails : Sources & Methods",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVmpmOUc2V3JNWFFHVHlOdnl2UUtxSlREVEJIWVJvNFRXMVhyZVZmWmNsZ2ViaW55XzJ2X3ptdG15a29YcHQyRmFyU2E0RWVDQTJtTkE3U2tPVXBZT1o2bGdXVmhxbnFSdHRJS3pEdU9NZ2lNSTg3ZHZSSG9aUFpLT3gxRF95SXZyVUpkMzNQY0s2S0MxMzdHUVpfTFdzVEZoLXVtNHBnOTZFanI5Z3lveVhn?oc=5",
-      "pub_date": 1789685140.0,
-      "article_url": "https://www.npr.org/2026/09/17/nx-s1-5971502/ai-hacks-are-already-here-u-s-china-race-dynamics-global-guardrails",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2194+0+1/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2F0b%2F43febd4b4613852948e4532b21a6%2F96d3c348-fce6-4ab3-8e2e-92641114725a.jpg",
-      "description": "All a sudden everyone is talking about the risk of an AI catastrophe or, in the case of President Trump, an AI \"hoax.\"Host Mary Louise Kelly talks with NPR Cybersecurity Correspondent Jenna McLaughlin about the risks cyber experts are worried about already. And NPR White House Correspondent Emily Feng explains why a global agreement on AI guardrails to protect against future existential risks looks elusive.Email the show at\u00a0sourcesandmethods@npr.orgSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include archive access and sponsor-free listening. Learn more at plus.npr.org."
-    },
-    {
-      "headline": "Human vs. ChatGPT NFL Week 2 betting picks: AI looks to rebound after disastrous 0-5 debut",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDM1QXBrYnItcHowOTdzRG5RSEV2UVMxTjRsMEgyWXJUVzJkVk1TWU9rMlhQcVFUVTMwNnpSSW9ianp6YnZJN1dkcFhPbUIxNnZLQkNma3RKVE1sZ3FoaXNuSVlGa29CaEQyclFtaWpYUGdKbS1rTHBYejl4cmo1Tjgxbjd5YndrM2h4c2lyaHVQM2tfMlNFSHV3VFF6N1U0eXZLQWY2bVYtMlNpajVwc3E3Ym9oN1lRRWc?oc=5",
-      "pub_date": 1789685998.0,
-      "article_url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-2-betting-picks-ai-looks-rebound-disastrous-0-5-debut",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jordan-love-packers-vikings-minneapolis.jpg",
-      "description": "ChatGPT went 0-5 and lost 5.23 units in Week 1 NFL bets while its human rival finished 3-2, setting up a dramatic season-long betting battle."
-    },
-    {
-      "headline": "College Is Coming Apart",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEdqX2Z6d2NxcVVQb19Gb2o2azlNRmN6SThrcURjV1ZfbFB3Y1c4cDhBb0ZaMF9XamxzVTFZdk5aVi1OcU05cHZCYWl5Q29xc3pPengzM0t2Y2Y3QUN0LTBlWGgzVHZpNkNsMC1yTTFYYm04dG5oVk9ocmJhZm8wa0N5dw?oc=5",
-      "pub_date": 1789646400.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
-      "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
-      "description": "Successive, overlapping crises reveal that American higher education makes no sense."
+      "headline": "Safe and ethical AI advocate calls international cooperation \"absolutely essential\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWRSSmdnUExYWGxoZmNDOFpRenlwWnVIVFdCdnNiRFlBTUVmNVFHdmthSlZUc1NZTGZOcjc4S3dSMFFhNEVXMkNEc2JIS3hBaWhfZUtObl9xZEJ2QktHd3Q3Z0Z1UXVKSEM1U204STRocUJQN1gwR09HbVlmaUt1Q1hvZlVQS1h2UlZxdV81bjVrS2RoX0J3WE1TSW14b3k2Y3Ywcg?oc=5",
+      "pub_date": 1789687980.0,
+      "article_url": "https://www.cbsnews.com/video/safe-ethical-ai-advocate-international-cooperation-absolutely-essential/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/18/1477e938-b72d-4b27-861f-a858e1f1421a/thumbnail/1200x630/a3f41e6c907fde1a1e8a0e960f370c70/cbsn-fusion-safe-ethical-ai-advocate-international-cooperation-absolutely-essential-thumbnail.jpg",
+      "description": "OpenAI on Thursday revealed an additional six incidents in which its artificial intelligence models exhibited unexpected or concerning behavior. Stuart Russell, a distinguished professor of computer science at UC Berkeley and president of the International Association for Safe and Ethical AI, joins CBS News to discuss."
     },
     {
       "headline": "Will AI really kill everyone? How, exactly?",
@@ -95,16 +45,66 @@
       "description": "Industry insiders are once again warning that a superpowered artificial intelligence could exterminate the human race. But how? And which scenarios are actually plausible?"
     },
     {
-      "headline": "Our framework for reporting model misalignment",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YcmZMVzhRdVd1WUM1QUhIZXZYSUxYZGh6WHptVzhyX1BOOWNIUlYtcW5XVV9Ec2VoNTVIU2JPUjRaX25VOWoyaVNBTVUwLUgyb1FBUEc3a0RyUS1SRjd3WG1fWlVZZkpJQUM1b0pydncwdw?oc=5",
-      "pub_date": 1789596201.0,
-      "article_url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/1ZIYnl31jt9gPO8qCbMGBZ/aaf74083a5332be1cb265dbdb6e652e0/model-misalignment-reporting-framework--seo-v002.png?w=1600&h=900&fit=fill",
-      "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      "headline": "The fight over who pays for AI's power boom",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXFyeXB1VHdERjg2alE2bm9HY1BWYjI1LUJ6RkdUNjJSR0dMdGg1T0xEVjZTdWZGZnlCRkhmVV9LcjlWSXhiRGxrZkpyMzFWd0dkczBITl80R3pUcnRBLXBsS2IxejNiYTMtRGk2SEZPWjh3NUpqSFVvQ1dtWFZmSzNFeXBJV25KTUJULUptX0hXQmY0SWc?oc=5",
+      "pub_date": 1789690490.0,
+      "article_url": "https://www.axios.com/2026/09/18/artificial-intelligence-axios-live-data-centers-grid-costs",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump administration live updates: Americans give AI in schools a poor grade",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTl4TXNTeTBBZFU3TVVVUUlOdUU4XzN0aGhpTU00aEtjWS1FbVU0T2RyOHhQb2h6SFlISHZyWFZ4RXUzS1ZUVkJnaEpvWW9xbHpkSFBrenpRSy12TE1uUjMwaXpZNFY0Y0IzS2dYVW4tZHlucm56TnhqdGtVRVl3Rm5QQWpEa0J2cTFsZTNXYnFkLUFrcWJJTXFKbXEweGdWZ0laMlYwMGhBQ3NKVWc3Q21jV3ZMMGNGQmpXb3pGVHFGeGlZSmtoMHNZcXM?oc=5",
+      "pub_date": 1789691580.0,
+      "article_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-ai-congress-2026-election-iran-economy-live-updates-rcna598204",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260909-president-trump-gop-convention-vsb-2131-02bf51.jpg",
+      "description": "Live updates and the latest news on the Trump administration as Americans give AI in schools a poor grade, Trump focuses on crime in N.C. rally remarks and a U.N. mission finds grounds for U.S. war crimes in Iran."
+    },
+    {
+      "headline": "College Is Coming Apart",
+      "source": "theatlantic.com",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeEdqX2Z6d2NxcVVQb19Gb2o2azlNRmN6SThrcURjV1ZfbFB3Y1c4cDhBb0ZaMF9XamxzVTFZdk5aVi1OcU05cHZCYWl5Q29xc3pPengzM0t2Y2Y3QUN0LTBlWGgzVHZpNkNsMC1yTTFYYm04dG5oVk9ocmJhZm8wa0N5dw?oc=5",
+      "pub_date": 1789646400.0,
+      "article_url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/",
+      "image": "https://cdn.theatlantic.com/thumbor/pCR-o4yu90wSntWXlBojVP3qC64=/0x43:2000x1085/1200x625/media/img/mt/2026/09/CollegeCooked/original.png",
+      "description": "Successive, overlapping crises reveal that American higher education makes no sense."
+    },
+    {
+      "headline": "Microsoft exec called AI the \u2018largest theft of labor\u2019 in history, court records show",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5JUWVLTF8yTV9JX2c5eFRtVm1PbE42LTg4eEVLTWRSVkctRUZ1M3l1dDZnYWxfSXdheDRmeWl2VVdQU0JSX1VFeXRqM2cxZVE3T0J0dVpkcGlQVGVYUnZCT1puSTgwUVFSbENObzZ3MjRZX01lM0hIVFl1ZjNodlJHYTUwZUE4eTFYSUNUaUNyRHZoNXRNRG4tTTZQc1AzQkVVVkRqU1ZJMU5iQXFfcDlUS05KajBUcVlkaHdtbzI?oc=5",
+      "pub_date": 1789694316.0,
+      "article_url": "https://www.washingtonpost.com/business/2026/09/17/microsoft-exec-called-ai-largest-theft-labor-history-court-records-show/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2ZF3CXVO7QI65GRSLSPGVIULHM.jpg&w=1440",
+      "description": "The quote headlined an unsealed document in the New York Times\u2019s copyright case against Microsoft and OpenAI."
+    },
+    {
+      "headline": "Grandmother falsely accused of bank theft after alleged AI facial recognition match sues for $10M - ABC News",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_url": "https://abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmxGNEZIRWpGNkt0d2xBWWhYV1JFRGFUcXphVFFsZUpQRFNIUHljWlFoUlJzUjV3NWx1WlJrWVFneWloWTJqZGROZ2RyTGpQRjBmdEJFWW04V2JmbmlJVHZ0MXRtak8xR1hQN3JmeGNUdU1PakpudXlzNW9XOTI5alpvRVJtUTBMMUpwZG55WDktejZwVGRRcmtmNk5KUdIBowFBVV95cUxPR2k0aW5tRmJQb0c3NGJvRW5PdW9mSlVmUzJOSFFXOXJjT0w0YmRFMHNNblNMcllfT05HUG5OZUdyTjUtTm5rcldwZE03WFVXT0N6TGpxVFBLZWxMTl82Ykt0MkVLZ0pGaGItMlduX0NpcUJsakp2anJ5eXJFQzdPTXZjNHpCUWdCOVoxSEF2UTIzQnluaWc1M0x0bE1paWg0a2Uw?oc=5",
+      "pub_date": 1789682196.0,
+      "article_url": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
+      "image": "https://i.abcnewsfe.com/a/c2daec58-9e48-430c-9d06-53ce95b4e39a/ai-arrest-ht-jt-260917_1789686102716_hpMain_16x9.jpg?w=1600",
+      "description": "A Tennessee grandmother who was falsely accused of bank theft crimes in North Dakota and detained for six months is suing for $10 million."
+    },
+    {
+      "headline": "Measurements for understanding the pace of AI development inside frontier labs",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "pub_date": 1789690163.0,
+      "article_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/9cf3a514384821aeb53ff34d878b210715cd5c06-1200x630.jpg",
+      "description": "Today, the world can\u2019t see what\u2019s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-17T23:25:05.135998+00:00"
+  "fetched_at": "2026-09-18T01:23:45.041940+00:00"
 }
