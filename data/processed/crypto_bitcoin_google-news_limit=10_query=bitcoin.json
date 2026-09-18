@@ -5,54 +5,44 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGZvQmlYX2lYWEpualpDbXBXS0NOZGc5cThPOW81c1VnVGI4dDEtYXZaQ2xJZUlPckRoeVVXUjB2S09UejVsX2NaTGdpcXZlUWRheUdzNmhDQW94V0dubjFxNHlFemtYNkpIUFZxbVdjM0c0YlJLZkU1bU5vaVRRMDBn?oc=5",
-      "pub_date": 1789667331.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
-      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
-      "description": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts."
-    },
-    {
-      "headline": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the cryptocurrency.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFdPbDY4MlRaeWd2aDh0aHM4bXpSNk16VXI2anlHNmp1aW94MzJ1dThqLW52NTc4NXlLWk05dnFaRTRwZ1dUV0FRdjJrT1R2ZS1oZXl4aW5HcTJweWZNMFB2VzN5c0lySklrRFZkbDlkUlMyUFZFRkxQWjNxRmQwM2t3MDFwQVJfTVFDMEZ2RmwwWmJIUkZPR09MUDhnSnV5dEJ1UUhYWDlTZzBMY2RWR2NsdkxSVkwyOEFLV25ERmstNG43X2xBVUxGU0ZWRHU1VTI5WmVCWQ?oc=5",
-      "pub_date": 1789647000.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVDlLMl9LRmhuM244Q3BWOWRmUzVxaXJ1Skd2OHMtT3ZDZENwdk4zaDV0SFZCMnd0dVR0UWJDMkxWeFRjZjg0aFVzNVppX3F1dmFlSS1Bc0hHZ2hLYWtYeEw0NTZrb2w1SXN6WjZNTllfN210NDd6c0RfSlduS1JJMkpJVHQ0LUplcF9ITmV4UFotTkctWHRFbENGOTVyemxLWjZGbEZDNGlsZEJualQ0X05HRUxwZExFTHVNMXFFam1BS2c?oc=5",
-      "pub_date": 1789726053.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/993df2e2bfe6457f309bb7771a210877078feee1-1534x969.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Bitcoin is down just 1.5% in its historically weakest month and remains on track for its first quarterly gain in a year, despite rising rates, surging oil and a stronger dollar."
-    },
-    {
       "headline": "Why Bitcoin and Strategy Stock Are Rallying Against All the Odds",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
-      "pub_date": 1789726860.0,
+      "pub_date": 1789740780.0,
       "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin to $100,000 Next Year? VanEck Reveals What Gets It There",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGZ6ejlfTGhpUHdrVzJibURjQ1NmaFFNMzdIbms3NnpzLXROSnp6RU9LZ0J5amRhQ2UwbGpINTM3U2xFbG5DVnV1NVY2Uzh4ei13MjcxaEZnYjdnWTZ3b1Q3bWM5NDNpV0t2MWFONEkyWUhucHVVcEFjeGwxbjF3cnU1M3EtWlEyTzFXZ2RaMENFX01hNWEw?oc=5",
-      "pub_date": 1789728032.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-100-000-next-vaneck-104032318.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/037d3eaee3c53ef2fc2bc34d77c704660168a75e01a66bcd8ff22659d01402d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fdb3aba55efc03063481175b09ca7d85a.jpg",
-      "description": "VanEck's Matthew Sigel repeats his $100,000 Bitcoin call for next year, pointing to government debt and easing liquidity."
+      "headline": "BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVOa3BVUE1iUTV1MTdMOWcwcW1MaFNKREhLSmdiTUQteGY5QVFJZUFyUDBKSEU1UFFqQUxMSDZvdk9GZUd3MWJ1cnd5OU1hSklpbnZjLVRfZ2UtVzAwUVhGaUdwd2tpUlpFLUFZSWp5UUF3UDVaVHlBOTgtY1BSZ2NoMkRST3YxcGxVR09Pa1ZfemNZLW1TRG1mczZ4WGJkUDdUNFN6cFhQRTBFVkh0UEVmaGtqU2tP?oc=5",
+      "pub_date": 1789714343.0,
+      "article_url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint."
+    },
+    {
+      "headline": "Fake Federal Agent Told Massachusetts Woman $340,000 in Gold and Bitcoin Would Help \u2018Stop the Russians,\u2019 Police Say",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUDZjZ2d1aG5vdHFtZjdaRmRTVmY2UHpibnRpV3duLXYxY2JlWDZIVHdrYkFKZ1JRWEV0MmNpRWg1U0kycDJMMlFlaHFFYXZsbTdvTnZfUTBpTkJ4aEptT2lfTVRpbFY3cUdCOGFCb2VEU09IREhSemcwbU9kVGpiVjAtRFRCWVFPcTRjVjdOVVRGYndSenc?oc=5",
+      "pub_date": 1789745147.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/fake-federal-agent-told-massachusetts-152547113.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/22d42629fc444ee291576929da3b083babbc13a0534ed6baa16f34f4eceb758a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0d3e49c108cf86e50c5998ce16f65079.jpg",
+      "description": "A Massachusetts woman lost approximately $340,000 in gold bars and Bitcoin after authorities say she was drawn into a government impersonation scheme involving a man ... Read More"
+    },
+    {
+      "headline": "Bitcoin Climbs Above $80,000",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS16M2pEVkNhSGxSTUg0ZHdlMjh2R19KQjhmY19naU1ac1hvU1Z5X2hXbmF0Wjc1MGtYNUI1Y05zSjdJM1dwX2pEemMwOGJrQXNzby05WnU1b3pHU2V5TGJkR2psZl9SUW4ySjNyTkhQaGdPYl9Gb3ltTU40S0dWSm5OejY5YlZnd2IzdXlpNXlOem5TYWJHajJ6MmdmSjdtbTZQVENjWXZpXy1WNWlTRUd2Y2VEcWoxZmVGRzk0MUJJTk1YdmlKMmJ4SmljSUU?oc=5",
+      "pub_date": 1789744565.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/bitcoin-climbs-above-80-000-ndw4CMftrZiZoLm0fxDg",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
@@ -65,24 +55,34 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
-      "headline": "Deutsche Bank To Launch Bitcoin And Ether Custody This Year",
-      "source": "Forbes",
+      "headline": "\u2018I\u2019m Back\u2019\u2014Kevin O\u2019Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars",
+      "source": "forbes.com",
       "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1FOdGlCeHkwMzc5TEZHY295d3lBYVVqYnFnSFZhR1p6VUU1TlFOcVNmRERFUjZ6a05sSFJ4WkRGbE95WjR0eTQwOEZ5S1BRN3ppMXc1MkIzalBPUDRTaEZ5OGhtSTg1VmRMREx6eDFGVkFhQzNzdG8yWXdRWldoZmxoeUZGUWo1VWtNZGZFNUVteno2clZkYktGbXZBdmdDODZjMzAtQjBlUUMzamlvMEFvMEhzLXBrYW40?oc=5",
-      "pub_date": 1789700415.0,
-      "article_url": "https://www.forbes.com/sites/boazsobrado/2026/09/17/deutsche-bank-shock-bitcoin-custody-launch-lands-with-btc-at-75500/",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXR5R3FZX0lzZWdBY0hpcG5BWWlKRS13VG9FVzZYOERyZ3l0RDlYOUxsYk15YXNIT1pLMnFNelMyTTdpbkhKeFE5LTVoTXpHcmNhTlVUR2FnZ1V4bFI2d1ZJTDdpMS03YXd2UE83T1psNjc5RGRIdnRhQzIxZE03TTQ4WWwzYVpNVTBKNDZnaUZTZ2c0YjlyMTI1OWhLckQ2LWRzVE1NZ1JBbmpxcTlpSkg2NUNqQUZrOXdnWUhrYU1ZazUtamRUbTRpTlUtMXZFZUZZ?oc=5",
+      "pub_date": 1789732114.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dan Hillery: Digital Credit Could Rival BTC\u2019s $1.5 Trillion Market Cap",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2JIX194dVRsREJEY3pCaVUwRGxmSEtTTm44T3BIRmZIYzhidlJ2ZXkxQ3VRSVhiRGkyWDZTSjhwclIyYW9VY0pGWDMwbHVIWGttZGZXSWgxdmRjekd0c3BRREE0TU1jVk5CQ2pZVHRWSElYaWZfMU1uSW9zRmRjR0xkTmRnWm9QQmxzRDQ4Z3NfTzdueW1Pb0xhSDQ2Y2dJN1hxRw?oc=5",
-      "pub_date": 1789693058.0,
-      "article_url": "https://bitcoinmagazine.com/videos/dan-hillery-digital-credit-could-rival-btcs-1-5-trillion-market-cap",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Dan-Hillery-Digital-Credit-Could-Rival-BTCs-1.5-Trillion-Market-Cap.jpg",
-      "description": "Two years ago, Bitcoin credit barely existed. Today, UTXO\u2019s Dan Hillery breaks down how a $16B market could one day rival the network itself."
+      "headline": "Bitcoin surges above $80,000, triggering $183M in shorts liquidated",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1htWHVWRE1uU2VTNTM0RkhnQVdMLUoxU3d1NGp1dU9GbmFyZXRDNUN0SzhnWERHNlFEMXZCdGZXUnRabFg1VmF4T3o4Njd1WmJPSkRnemRqblE5cFljZ29XXzhvOTF4cFo2eWI4V1MxclZzaThjVjdBUG4zS3hQSmhNOVdpU1NnSG0zSFhMT0Z0Z1M0bWZCNl9MTnBYVlJUd3ROQVl1U19ZQWhlalFqaURFTWxreUVzb0djQ09Ud203QndYZnZBTw?oc=5",
+      "pub_date": 1789742928.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:f67e749d7094b:0-bitcoin-surges-above-80-000-triggering-183m-in-shorts-liquidated/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin crossed the $80,000 threshold, and the traders betting against it paid dearly. In the span of a single hour, roughly $230 million in crypto short positions were liquidated as Bitcoin's price punched through a level that had been acting as a ceiling for much of the preceding trading session\u2026"
+    },
+    {
+      "headline": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcGZvQmlYX2lYWEpualpDbXBXS0NOZGc5cThPOW81c1VnVGI4dDEtYXZaQ2xJZUlPckRoeVVXUjB2S09UejVsX2NaTGdpcXZlUWRheUdzNmhDQW94V0dubjFxNHlFemtYNkpIUFZxbVdjM0c0YlJLZkU1bU5vaVRRMDBn?oc=5",
+      "pub_date": 1789667331.0,
+      "article_url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
+      "image": "https://www.tbstat.com/wp/uploads/2024/05/20240501_JpMorgan_News_3-1200x673.jpg",
+      "description": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts."
     },
     {
       "headline": "Bitcoin Life Granted Full Life Insurance Licence; Launches Regulated Bitcoin Product for International Investors",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted \u2014 roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o",
-      "source": "Space Daily",
-      "source_url": "https://spacedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWUZZRzd6ZHBMSFkya2lFQmh4ZnFMV3JEWDEyczNDZE9TVG9QNkVwZ2sxa0Y3Z09uMlJoS1lJRS1NeF9FWGVFLVhlTDJRVFdXX2FDNU0wcE5jOWNMdzIzMFlLR0FMOVlkQzFPMDBmWGdjNElFV2oxMWpnNVVNNVlCTVoyTERKZTBOTHdxRUdNTEhCcEdVNTJOaENYbnBVZGhtVHdMMlhtSy1HV1poZllrMjVsWWRMVGxidnlNU2k5cFhzMUFweEtGelFKcjJuMW13ZTZTQWxEWEljbS0zRDBBY0hOVEtMVGtUZklkZC1CN2pKS2cybDAtZEotQXRZYVdHUGZGMC1UeXVUSU12T1JYTUJtSWlJdm5oc0FnNVRyTkotQzFONjhV?oc=5",
-      "pub_date": 1789610426.0,
-      "article_url": "https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cryptocurrency-mining-rigs.png",
-      "description": "As Bitcoin's price swings, so does its hidden cost in freshwater\u2014each transaction now demands enough water to fill an Olympic swimming pool."
+      "headline": "Bitcoin climbs to $78k as markets look past Clarity setback",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFpmLUx1eE5CeXlHRE1yVDFFUEJ5RDdwQnVPV2hULTNhY1dvOHg3REhkS2ZtbGlHeE9QY1BpTEpHeVlBYXlNYXhjd001bWZ4Nm5CSXYyZ2RqX0dRUHozLVVobWxJaFNfLUJNUFd2V3hmMDdSV2VGWEcwaDZJQzF5MmNUelk4S1NJTS1qdC1TUXFrRDhtbElXR1JqN3RNdE9rZENKT3VLTE1nTzJBVFZYdE14YUpFX1hL?oc=5",
+      "pub_date": 1789714254.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T11:38:39.337040+00:00"
+  "fetched_at": "2026-09-18T15:57:49.286482+00:00"
 }
