@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T11:38:42.546827+00:00'
+updated: '2026-09-18T15:57:50.879720+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 11:38 UTC  
+**Last Updated:** September 18, 2026 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-4d ago
+5d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 3d ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 4d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-4d ago
+5d ago
 
 ---
 
@@ -112,31 +112,25 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+
+OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
+
+Business Insider • 6h ago
+
+---
+
 **[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
 
 Training systems that allow robots to negotiate the real world are getting more sophisticated.
 
-BBC • 12h ago
+bbc.com • 16h ago
 
 ---
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
 
-Seeing is Believing
-
-citriniresearch.com • 1d ago
-
----
-
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
-
-asiatimes.com • 2d ago
+Reuters • 3h ago
 
 ---
 
@@ -144,27 +138,27 @@ asiatimes.com • 2d ago
 
 Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
 
-Figure • 22h ago
+Figure • 1d ago
 
 ---
 
-**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-OregonLive.com • 2d ago
+Bloomberg.com • 6h ago
 
 ---
 
 **[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-SpaceNews • 22h ago
+SpaceNews • 1d ago
 
 ---
 
-**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
 
-Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+Seeing is Believing
 
-The Conversation • 1d ago
+citriniresearch.com • 2d ago
 
 ---
 
@@ -176,11 +170,17 @@ MIT News • 1d ago
 
 ---
 
-**['Scoff at your own risk:’ Viral investment research firm says AI robots are a coming mega-trend](https://finance.yahoo.com/technology/ai/articles/scoff-own-risk-viral-investment-094501731.html)**
+**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
 
-Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
+Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
 
-Yahoo Finance • 1d ago
+The Conversation • 1d ago
+
+---
+
+**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
+
+Tech Xplore • 1h ago
 
 ---
 
@@ -194,7 +194,47 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 368K • 👍 7K • 💬 794 • ⏱️ 16:24 • 19h ago
+👁️ 401K • 👍 7K • 💬 849 • ⏱️ 16:24 • 1d ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 88K • 👍 2K • 💬 618 • ⏱️ 13:22 • 6d ago
+
+---
+
+**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
+
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
+
+📺 PRO ROBOTS
+
+👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 5d ago
+
+---
+
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 25K • 👍 319 • 💬 20 • ⏱️ 24:48 • 6d ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 46K • 👍 369 • 💬 40 • ⏱️ 18:12 • 4d ago
 
 ---
 
@@ -208,83 +248,43 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 ---
 
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
-
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
-
-📺 The AI Nexus
-
-👁️ 25K • 👍 321 • 💬 20 • ⏱️ 24:48 • 6d ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 88K • 👍 2K • 💬 617 • ⏱️ 13:22 • 6d ago
-
----
-
 **[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
 
 In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
 
 📺 Steven Ndukwu
 
-👁️ 563K • 👍 6K • 💬 815 • ⏱️ 27:23 • 5d ago
+👁️ 572K • 👍 6K • 💬 830 • ⏱️ 27:23 • 5d ago
 
 ---
 
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
 
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
 
-📺 Ai Futuristic Robotics
+📺 Unseen Vault
 
-👁️ 45K • 👍 368 • 💬 40 • ⏱️ 18:12 • 4d ago
-
----
-
-**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
-
-New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
-
-📺 Baprimo
-
-👁️ 229K • 👍 1K • 💬 14 • ⏱️ 12:08 • 5d ago
+👁️ 224K • 👍 6K • 💬 324 • ⏱️ 33:11 • 5d ago
 
 ---
 
-**[WE NEED TO KNOW: Which Robot is actually BETTER? War Robots UE Showdown](https://www.youtube.com/watch?v=A-abjlVHBvQ)**
+**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
 
-War Robots Gameplay: UE Hawk Vs UE Typhon - Which Ultimate Robot is actually the better one? This is the showdown of ...
+America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
 
-📺 Manni-Gaming
+📺 Dear Time
 
-👁️ 12K • 👍 341 • 💬 73 • ⏱️ 23:12 • 1d ago
-
----
-
-**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
-
-📺 PRO ROBOTS
-
-👁️ 23K • 👍 214 • 💬 28 • ⏱️ 16:01 • 5d ago
+👁️ 21K • 👍 125 • 💬 4 • ⏱️ 20:25 • 4d ago
 
 ---
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+**[China’s Factories Are Going Big on Robots](https://www.youtube.com/watch?v=Mxj_Us0XQww)**
 
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+China's manufacturing sector is undergoing a huge automation shift. While viral posts claim that one Chinese factory cut its ...
 
-📺 Reward AI
+📺 Alchetron
 
-👁️ 109K • 👍 1K • 💬 101 • ⏱️ 2:20 • 3d ago
+👁️ 40K • 👍 132 • 💬 16 • ⏱️ 0:10 • 3d ago
 
 ---
 
