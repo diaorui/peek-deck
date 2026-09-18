@@ -5,6 +5,36 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum Rises 2.1% -- Crypto Mover",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xUGhRWHBTQmdNVE0zUzdOSzNwQTFOLVlrSjNLbndET0s5OHJBc3Q3cVNQcTJVVk1RWTlYall1WDl4Mm1qa0VfVWtfMF9sd3VKemlZd05VTk03Sk8ta1dCYU1hcC0yc3loY0VsNzNlSmZ2dWhicEN5OWsyX1pSZw?oc=5",
+      "pub_date": 1789721308.0,
+      "article_url": "https://www.moomoo.com/news/post/76447369/ethereum-rises-2-1-crypto-mover",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSExwd3FNUEppc2ZUb3h3TzlnYWNrR1VodnVrYnE3ZEZGa0NvcklwekRVa0k2YzNQRnQ2Tjd4bHZkVkZBOUtTU1QxcG91V2ZsbEhscXk4Q0xaLXB6ckVIOUlpOGNtVU1LTDZuV3lrdVpjUXpRRkJ4Q2YyMWVNVHRFRWczMDU5R3dBcUp1aDRENWp5V2lqUXg0Qi1QYnBmMGM?oc=5",
+      "pub_date": 1789685240.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/eade35841797845307fb440525e2462a97adf019b233d5c2cda996aaebb95867/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Feeea2b35b3613f0ca45de429ed1a3fef.jpg",
+      "description": "The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place."
+    },
+    {
+      "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
+      "pub_date": 1789712275.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia."
+    },
+    {
       "headline": "Bitcoin, Ethereum And More Tumble As CLARITY Act Fails In Senate",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -25,54 +55,34 @@
       "description": "Leading cryptocurrencies tumbled on Tuesday as investors reacted to the CLARITY Act\u2019s failure in the Senate and growing expectations of an interest-rate hikeCrypto Market PlungesBitcoin sank below $74,000, alongside a 27% drop in 24-hour trading volume. Ethereum dived below $2,400, while XRP and Do\u2026"
     },
     {
-      "headline": "What Is the Crypto Clarity Act? What Tuesday\u2019s Senate Vote Decides for XRP, Bitcoin, Ethereum, and Solana",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzU5ak0tVlNhaFZ4RGd1Y2Fvb04yNi13UEx3RUgtLTRSSmVobGZlMjNJZEsxQ0NmUmtaRVMyNC1LTDJpc0N0TDZjSEd5RnAzTHVhaWF2bXFRTTJrRDVJNktfc1Vwb2JKX2ZwMG9JTmxtNzV0SXFOZEg5R0U4MlZBNFBTSTVveE9lVlVMVERjUThkT1lWckpOdUFyb1p3QkE?oc=5",
-      "pub_date": 1789476041.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-clarity-act-tuesday-senate-124041399.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/29e76fa391bb8ff5e3c321ab2461d053d339d35df1345e8f005cc7041d3bbad9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F1eb824577e07f7c84e8d74f637444450.jpg",
-      "description": "The Senate vote at 2:15 p.m. ET on September 15 could lock in permanent legal ground for XRP, Bitcoin, Ethereum, and Solana, or leave their commodity status resting on a document the next administration can erase overnight."
+      "headline": "Bitcoin, Ethereum, XRPHit by CLARITY Act 'Setback,' Fed Hike: What's Next?",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcE9MS0dfRER0ZnpnZGMtTnRFMnF6MDZRSUxFWmhkX2RpVVladm1OandrQjVPMkZNaU1sM09FYk8wNnd4ZkxMV21CVWt6dGRSdklmY0ZuRDdjRW11LWhxTUYxN0I4WWJlcWhuNkJWeHMwck04RmdhdHpmV0J6b1JIOU1wUmVvZXA3RWVRNDMyOVc2aUg2VFVKek5xU0ZXTHg4N3BtdDdOc0k2MFhDcklYcnl6LWdPWVFqVlc4QWZ3c29oVW1hbVBr?oc=5",
+      "pub_date": 1789586482.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61827534/bitcoin-ethereum-xrphit-by-clarity-act-setback-fed-hike-whats-next",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/16/Bitcoin-Gold-Coin--Cryptocurrency-Concep.jpg",
+      "description": "Crypto fell after the Clarity Act failed, but analyst Ray Salmond calls it a setback, not a derailment, as regulators may sustain adoption."
     },
     {
-      "headline": "Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2ZmdE9INldKWElVVzZvVUhKZXQ5UktieXZpVFdqX3g2VHNXT0hOX2otb215REFfX0tTOFdKajJmNHlpSEFCSjNWcnM1MjJ1ajZDRWFIRDNuY0tXYkp0UTYzcTVrakdCZ1JVZTN1SEFwaFhnR25MczhYTlhSbFNLS2tXNkZrNGprTWNfRTlRRQ?oc=5",
-      "pub_date": 1789662896.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4d0a38d3d4bb3dfc67dd5865c79c0d041a51a0d1a946fb5f9a92ec85b8eeb1dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F472fa506025f53c325529da830e30b7c.jpg",
-      "description": "Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on."
-    },
-    {
-      "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
-      "pub_date": 1789709009.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia."
-    },
-    {
-      "headline": "XRP ETF Inflows Beat Bitcoin, Ethereum Again: What Is Going On?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenhhdDR2LXYwRFVfQUNyNDJ1MDNWei1rbG9OZVgyR2V1VklEejJaUVdZNkNhTHp3MHN2endqUmtBRmQ0V1dfMTJpS1VXeXo2ZEhtcTRvdXZsRXVmVFBqVlZqejh3dVhYTjVTY1dYU3JXNU5lNnp5SWYxdmNMYWhIdVBMTGVsNjA2VGJTZy1Xc1YtalpPdVRyZ28zcFgzazhhSnpwNGZsaHJiVnBRM1RUTy1PX3JrdmFxeTNV?oc=5",
-      "pub_date": 1789649973.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:aed6a6e0b094b:0-xrp-etf-inflows-beat-bitcoin-ethereum-again-what-is-going-on/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "XRP (CRYPTO: XRP) spot ETFs pulled in $3.50 million over two days with zero outflows while Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) funds bled $1.11 billion combined.What the ETF Flows ShowFranklin Templeton\u2019s XRPZ (NYSE:XRPZ) drove the entire Sept. 16 inflow, adding 2.71 million XRP worth\u2026"
-    },
-    {
-      "headline": "The Fed Decides at 2 pm ET Wednesday. What a Hike Does to Bitcoin, XRP and Ethereum the Day After Congress Failed.",
+      "headline": "We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?",
       "source": "24/7 Wall St.",
       "source_url": "https://247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORlFlRFlXQXh4eGdVQ183S3FwZjFmR3k0dEpoYk03M3N6SXpZdVpEZWJDZW5qYmJ5bC1WMGE1TUw5TUJWekxqQThuT2k5TEZBay0wMGJMLXNqWF82M3NEYUR5S3NwenVDYS1QSGdSaWZTWUdDcS1nZFVPS3ZIbTAzT1BJSVpGNVFraTNrX18xZlE4NmhCaXVSLWxpTERra015bEFSVGkxLUlSVXNYTEFMSllRZ0Z1M3RHeDFzcEhuN19KTW1aak8yNUZBNW9yUzI5cHEzRDFVVWhRNWFaSFNUTlk2Tk1TMGE5bkhodlNobzY3R0xuUWRVU2dhWTg3bGs?oc=5",
-      "pub_date": 1789563300.0,
-      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/16/the-fed-decides-at-2-pm-et-wednesday-what-a-hike-does-to-bitcoin-xrp-and-ethereum-the-day-after-congress-failed/",
-      "image": "https://247wallst.com/wp-content/uploads/2026/06/shutterstock_2403852401.jpg",
-      "description": "The Fed decides at 2 PM ET and traders put a hike at 92%. Here is what the dot plot and Kevin Warsh's press conference do to crypto prices."
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2VOci02dnJGV2xoeW9tdDFoQWRVSjdVYk5mbDNVMTBYamhNMHFsQ1I5QXRnaFhyc05zTGlVRWg3SFpMRVNBbmhMbnZORXFvWElxX1JVczJ5M0VNZmNQMG5vVXViMmlfMnlRQkNpa0g1VG4tMUxhR3pwSURJUGxUSDVRcXJ3aXZMd01XNkl4SHpiWWdNRldrQjVoUjNTNWZLTXBYVTdrMHJHN2VuamlKb1ltaHkxRi1aaUxSRk5pdFZLVTdiWXV3bkZmMDNUckEwdGJWVkdlNUVMRHVVc21Ianp6UQ?oc=5",
+      "pub_date": 1789684680.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/02/shutterstock-2402305921-huge-licensed-scaled.jpg",
+      "description": "XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here\u2019s which coin lost the most and what the failed bill means for each."
+    },
+    {
+      "headline": "Ethereum Price Eyes Breakout as Exchange Supply Falls\u2014Can ETH Reach $3,000?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmFpblN1RXljcE1hekc0WFpVWkJ3dF8tb0ZoZVZvU2t2alZHdm5pSkZWR0RaNU83T0hRTlpnSnlNVnpJYlJON004ZS1VZVhEcFMwR1J6bGZVanVQSWVFcDRwTzQ2WWxwVVRuOVdfNHV2U1JObHhRWDR3ZGt0bFRkdHpFY0VGNXJNdDNjQVhRM1hPRmZMYmJoRFhlRDBhOUNYMUJFZXdhUTNEeHBlSUJ1UDBpSjd1SXF1Sk0yOHNYbkVxVVRYR1gyVU1xQnZ2dw?oc=5",
+      "pub_date": 1789659663.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:e88e62610094b:0-ethereum-price-eyes-breakout-as-exchange-supply-falls-can-eth-reach-3-000/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum price is eyeing $2,570 as falling exchange supply adds fuel to its recovery narrative. ETH remains trapped inside a four-hour descending channel, making the next breakout crucial. A sharp move above $2,570 could open the path toward $2,700 and potentially $3,000, while another rejection ma\u2026"
     },
     {
       "headline": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
@@ -85,26 +95,16 @@
       "description": "Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense."
     },
     {
-      "headline": "Current price of Ethereum for Sept. 17, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bWxZQnhSbmRpN001UG5aUjE5UWMzUkk3eDNKZmRiMW5Cd01kYms5d0VoUHFLcEJvcy1SUFZBZ3F1Y2Z1eUtWcko0dmpHdlB3cG1qX0pFdGZwemwwRmRKSzg3RHJpLURq?oc=5",
-      "pub_date": 1789647300.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-17-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-17.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "This Ethereum Treasury Company Is Close to Owning 5% of All ETH in Circulation. Does That Make It a Buy?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUQtSGFmVTlaTzlvSGkwek05NmloWEE3S1JPTXdoU1FJajh0UFBkZkFjd2NyRDkzNHFSVllYQU9heTJ3OTZOUWdtbE5ubFljRm9EdERqcFJmTlpuWmw2OE5sZV9hbFFKY2swR25SQ2lnS3h2ME5KYTFzeGQ3Z29UYXRGOHkzc0ZXdHc?oc=5",
-      "pub_date": 1789609260.0,
-      "article_url": "https://www.fool.com/investing/2026/09/16/is-this-ethereum-treasury-company-a-buy/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887200%2Finvestor-using-ethereum.jpg&w=1200&op=resize",
-      "description": "BitMine continues to buy Ethereum at a rapid clip, but where's the payoff for investors?"
+      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC extends recovery, ETH eyes $2,500, XRP holds $1.30",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM3dNbzdidWJIMk42QTBpc0gwSmh1NVFYM0pQYUZwcVM3UEJpRkw5X3F1TGVDS1ozUFdkekk2YlpxYXF5bFFfQVpncUVzRHVpYVhyNDVleF9kNmhNVVQ2MXlNYy1aWXdHQ044enUzWFN4aDNuUDdmVnpYWDFqQ0lwcGs5Tm1rUnpZNWlpNVpPMUhzVFlCTUw4X1ZTVml0d01qNVdpTUtvZ0JQcW92Q0Jra1FiOUFSUGctSmFMX1owWkU1OVRtcEh5X3YxemhzdkJvdjh5TkdLN0lFb3lVdmhRMVA3TjlKaXRhWmx3TQ?oc=5",
+      "pub_date": 1789702334.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-recovery-eth-eyes-2-500-xrp-holds-130-202609180332",
+      "image": "https://editorial.fxsstatic.com/images/i/Discover-f-67_Medium.jpg",
+      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery, trading above $76,700, $2,400 and $1.300, respectively, on Friday. These top three cryptocurrencies now face key technical levels that could determine whether their recoveries extend further or pull back."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T06:22:15.129756+00:00"
+  "fetched_at": "2026-09-18T11:38:33.976804+00:00"
 }
