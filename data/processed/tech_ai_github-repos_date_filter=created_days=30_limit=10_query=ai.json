@@ -8,7 +8,7 @@
       "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
       "url": "https://github.com/bojieli/ai-infra-book",
       "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
-      "stars": 4362,
+      "stars": 4368,
       "stars_display": "4.4k",
       "forks": 311,
       "forks_display": "311",
@@ -42,7 +42,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-17T18:26:36Z"
+      "updated_at": "2026-09-18T18:20:23Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
@@ -52,7 +52,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2517,
+      "stars": 2518,
       "stars_display": "2.5k",
       "forks": 99,
       "forks_display": "99",
@@ -68,10 +68,10 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2117,
+      "stars": 2124,
       "stars_display": "2.1k",
-      "forks": 35,
-      "forks_display": "35",
+      "forks": 37,
+      "forks_display": "37",
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -90,7 +90,7 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2086,
+      "stars": 2090,
       "stars_display": "2.1k",
       "forks": 212,
       "forks_display": "212",
@@ -106,7 +106,7 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1995,
+      "stars": 1998,
       "stars_display": "2.0k",
       "forks": 199,
       "forks_display": "199",
@@ -128,7 +128,7 @@
       "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
       "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
       "preview_image": "https://opengraph.githubassets.com/620f28e743614df1ec5e91c466afabd3dae31014e50cb8e04b82515319bcba69/larashero3-dotcom/lieflat-less-ai-tone",
-      "stars": 1793,
+      "stars": 1796,
       "stars_display": "1.8k",
       "forks": 119,
       "forks_display": "119",
@@ -166,7 +166,7 @@
       "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
       "url": "https://github.com/jtydhr88/screenwriting-skills",
       "preview_image": "https://opengraph.githubassets.com/6202796650758594e951ea6ff88d3661478127ef213cd39e2aa79e4149103652/jtydhr88/screenwriting-skills",
-      "stars": 1247,
+      "stars": 1248,
       "stars_display": "1.2k",
       "forks": 138,
       "forks_display": "138",
@@ -178,26 +178,32 @@
       "updated_at": "2026-09-16T01:18:59Z"
     },
     {
-      "full_name": "brayonpi/hexstellar",
-      "name": "hexstellar",
-      "owner": "brayonpi",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/100501194?v=4",
-      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-      "url": "https://github.com/brayonpi/hexstellar",
-      "preview_image": "https://repository-images.githubusercontent.com/1348932500/472bdb70-c44e-4a22-aa4e-a7347cba34d7",
-      "stars": 1240,
+      "full_name": "2akouwu/reverify",
+      "name": "reverify",
+      "owner": "2akouwu",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/14812897?v=4",
+      "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "url": "https://github.com/2akouwu/reverify",
+      "preview_image": "https://opengraph.githubassets.com/6aa8730af5a701f75845355a62776d830f4dc96f7a6d1ae6a159b4bed6e63f95/2akouwu/reverify",
+      "stars": 1226,
       "stars_display": "1.2k",
-      "forks": 119,
-      "forks_display": "119",
+      "forks": 239,
+      "forks_display": "239",
       "language": "Python",
-      "topics": [],
-      "updated_at": "2026-08-27T21:07:24Z"
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-coding",
+        "anti-hallucination",
+        "binary-analysis"
+      ],
+      "updated_at": "2026-09-07T10:12:07Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2026-08-19",
   "days": 30,
   "limit": 10,
-  "total_count": 461282,
-  "fetched_at": "2026-09-18T15:57:18.795604+00:00"
+  "total_count": 463660,
+  "fetched_at": "2026-09-18T18:57:28.209151+00:00"
 }

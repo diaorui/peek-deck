@@ -5,6 +5,26 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
+      "pub_date": 1789750550.0,
+      "article_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
+    },
+    {
+      "headline": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnh4czlpREt3SjNqZkhVb01vQVVJVTBiYlRhVlJ0Z0xiRnF4YnoyOU5YWXdDa05NS051aFFOS2E3ZmlxWDNpTHVoRjN2Mm5IYmVtQVM0ekpDT0UxR0Vjb0dLNHVWMnRlU1RhWlRxeWx2ZTNRYTFCTTNtLWdFMzJTRnFMc2VsQTZwV29iSkctZ3R2Smx4bnFkWjVWeUVNOVFCbHFtQtIBqgFBVV95cUxQVjZvU293cGh2VURVdGV6eUUyTlEwbWI3QzFESFFwajZHSnpuQktpaTZWSHU3ZFhsMWxFUmdrYVJmN0lOWnd4d1A5Qjd3eFkxWnk4ZkZQRVVhaF9WN3BtVzlETE12a0VuM0dYU1lSSW00UW1JNlNFMVc0VURJd18yMjZueDlrM2xmWlk1Qk1aSHp6SXRmS3dmTXJreWJRUVlfcExPUmZzLVIzZw?oc=5",
+      "pub_date": 1789737838.0,
+      "article_url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
+      "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week."
+    },
+    {
       "headline": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,24 +35,24 @@
       "description": "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears."
     },
     {
-      "headline": "Governor Newsom issues executive order to accelerate independent oversight and advance the creation of an AI kill switch",
-      "source": "California State Portal | CA.gov",
-      "source_url": "https://www.gov.ca.gov",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdWNuQ1N2RC1DOTdndklPb2NYbDAwWUx1azRBZjE1R1pCelpZUU9UdEVhNlJUUm9zeDkzcUdTX3laMVU1UkRHaUN5VEY0WWk4S0NuSXNnXzRFMUhVT3RNU3RFWU1PdlowcFFXalMwbHFIR1V6V254c0ZNQ1hkVGFHVnp0Z3BMUzlreFplYTJveHFJZk93Mk5UcUR3cllPT0tGUUdCbU5zbU9rZUp2aWxzTVh2dV9XbXcyWDQ3YUhPdmdJOFhycktnZ1Z3akFwQVhtSUpaRjVRaU9wdUREZm1pNlQ3UXhKa2Uwa2hN?oc=5",
-      "pub_date": 1789744156.0,
-      "article_url": "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/",
-      "image": "https://www.gov.ca.gov/wp-content/uploads/2026/09/Governor-Newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-AI-kill-switch-SEO-GFX.png",
+      "headline": "California Governor Issues Executive Order on A.I. Safety",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalM2cDR5dVdUVmdTUnBqaWF4OTRvMl9veUd4YlpBMlFRakl6Z3NOa05JbTRKNl9Ob2o1NFV5WExXZkk1bl9aTlctQ19Ra0xUOFVKUmxKRlRqMVFOeFJEVm1QMTlpR21nRUtxMGxhdVlGc25sNnQ4S1A0NFZhRGk1d1VGaXpzSWZYT0dZeA?oc=5",
+      "pub_date": 1789752434.0,
+      "article_url": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
+      "image": null,
       "description": null
     },
     {
-      "headline": "Newsom Issues Executive Order on Creation of AI \u2018Kill Switch\u2019",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTQ3ejdRYU1ZWlcwbjQtV2o3Sm10R1l3WFpKdmpLMVMzb2h3QTAtY3ZYSlRveHpFYktaOVc4V0JzQlE2eVdkWTkzY010T3owcm53RmlNMW1tdGdXX25TUkdiY0NsVjdQdVFqWE96ajRmSm4ydmpZenY4YXM3QXEzY1hhLWxwT1FwOVpGSmItcG1NS2QwS2xKR1F2NWctMlJTUGl1UElIMTlwV0NJLTVj?oc=5",
-      "pub_date": 1789744373.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california",
-      "image": null,
-      "description": null
+      "headline": "California governor proposes AI \u2018kill switch\u2019 amid fears of rogue tech",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVNDbDBFdF9UeHJOZmdaRlBoRXdOTFNmU2p1UzQ4QjNCQzg2aEpiNWs2Z0NIOHloR2FfYVNTOE81RjJMVGgtS3pOVnFQSTdnaVEwSF9Eby1ELUlIYUx6aUppX1c3VmVGaERkVHRveGpXZmRQaTZtOW0yYjkwVWg3V0tvU0ZITkhpVTdsVmpvUklpQ2JDbmpkLTZDZkY?oc=5",
+      "pub_date": 1789753028.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/california-governor-proposes-ai-kill-173708572.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7c8d1298079749c565af42f210eb47295d52cd69688a6c87810be768656eb2e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F8f0a377a857470537e84efcc0278fadc.jpg",
+      "description": "Newsom is accelerating AI regulation after recent incidents sparked new fears about powerful systems operating beyond control."
     },
     {
       "headline": "Will A.I. Kill Us? Can It Hack My Bank Account? Your A.I. Questions Answered",
@@ -45,37 +65,37 @@
       "description": null
     },
     {
-      "headline": "The Other Way AI Impairs Our Thinking",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmdFRE1zdUVfM1p4Rm5pMFQ0UGYzZGRLNF85TmlfUXFvai10TjREQm5najAwdlhGVmxKRFdEWWU0c3NNWmpEQWFKNFdIcEZxRzJDblRGOVR6ZWlEcDE2d0NmX1phRmJ5a0JvT21FOTNSNTRmZ0RyeWtsV0NwWFNsdWxOWQ?oc=5",
-      "pub_date": 1789744560.0,
-      "article_url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/",
-      "image": "https://cdn.theatlantic.com/thumbor/UPK0L3L_wAKbLF6uXaQCj0nDunE=/0x28:1400x757/1200x625/media/img/mt/2026/09/2026_09_17_brain_AI_mpg/original.gif",
-      "description": "Suddenly the technology is sapping people\u2019s concentration in a new way, one that abstaining from AI won\u2019t fix."
+      "headline": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
+      "pub_date": 1789751910.0,
+      "article_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Controversy over Manning comment on AI video showing coach hit female reporter",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUF3a09MaXpmTHhLRkloVWpwQmcwNlF4cE9fVXduVEVsWERVUDFOTDktVnZ5ZER1TWMyMDRlOHgxZjUtZGVmX0cyLVdGenZuc2xEOFhINTlGSGdiM3JVUTN0LVhZMncwaU91NnZRTkRXdTZDTXN0ZS1XbndjVi1neWV2WGNGdUstTkJHOWNUbm53N2JNUnRRMFZ5Q0xNRE5CeEk4SEVkaUJWNURUT0gxUFJCZzVUaGs4?oc=5",
-      "pub_date": 1789745520.0,
-      "article_url": "https://www.cbsnews.com/chicago/video/controversy-over-manning-comment-on-ai-video-showing-coach-hit-female-reporter/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/18/5ab12929-598f-4f1c-a534-b8d8f6af604b/thumbnail/1200x630/e9b2e682934b055bd172f575177cef35/319624bc31edd15b880f91b4d0c92d9b-0-1789745540624.jpg",
-      "description": "Texas quarterback Arch Manning is apologizing for his \"insensitive comments\" reacting to a fake AI video showing Steve Sarkisian hitting reporter Holly Rowe."
+      "headline": "Why AI is speeding up scientific research but not lab experiments",
+      "source": "scientificamerican.com",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkpVWl9qM1JfeFB5akw0UkNvS01QU0ZCb3F1RjltWFBfcFpTSWR5U0FzcDBKaTRVc0NvdEVKUUlyNnc2Mk9yZTBKMlpyblBjVU1GeExqUUR5c2JWRzZfWmZmMzVMaGxWeE1SekNHanFQUF9tN2x6WVczUHB4eHdqSDgyd0dIbEVEdFVtUEt3ZlB4dTB5OTlJY3lYc2JZdmF3amhBelJrM0NjZi1Rd2c?oc=5",
+      "pub_date": 1789755600.0,
+      "article_url": "https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/",
+      "image": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1789753871.883&w=1200",
+      "description": "A new report from Google, Google DeepMind and M.I.T. finds that researchers are using AI\u2014a lot. It\u2019s just not helping as much in the lab"
     },
     {
-      "headline": "I\u2019m so mad that I love Orion\u2019s $2,195 AI mattress pad",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOGhOZUszZTlzaXBqVHNnaDFHSHpBMjVpNWNVcjcwMDVmSWVLekN2Zl9sd1B4ckZlUUxiZ2wzbDFOSDRsNFVwbzdoVzE0aGpyZmpPNmhfMFE1aUFwOXRIdEE2bDdLUWlEZ1Ruc0tZM056NjlkR0J1WHV1eU1uSV84REFoSnFDLU5CNmRidA?oc=5",
-      "pub_date": 1789744936.0,
-      "article_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Orion_Product-1.png?resize=1200,828",
-      "description": "Sleeping on the Orion is like flipping your pillow to find \u201cthe cool side,\u201d except that your whole entire bed is the cool side."
+      "headline": "Anthropic builds wet lab for AI-driven drug discovery",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUk3aTVhNmRFSjZxLWFySXBSN19mRjJFYUZBUUdFWGp5U1JuSXlTaVdiNlI3Z1JNcGN5cTJBWmZfazdDakNGemM3ZVJuZ2liaUdGLXFUSFR4QXR2ME9fbi1pMUxjbVdxQ2U2RGJvaExadFFZTWltSy1wNXFXcGtGVDY3WXJIYlloT0RmVTJqeG9pUQ?oc=5",
+      "pub_date": 1789736501.0,
+      "article_url": "https://finance.yahoo.com/healthcare/articles/anthropic-builds-wet-lab-ai-130141303.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ca2a475162a45f3d19999cc1fc9a094a0056a239d09e5ad843b7a1d5a7bcb54e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2Fc66a4debde16692431d505543faae63c.jpg",
+      "description": "The AI startup confirmed it has set up a Bay Area lab for physical experiments as it pursues drug programs in diseases pharma has overlooked"
     },
     {
-      "headline": "AI companies worry about the tech harming humans in the future. But it may damage the US economy even sooner",
+      "headline": "The real reason for Trump\u2019s pedal-to-the-metal approach on AI",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PemxCQl85dWNFR3hXZk5sZ1Nia3JlQ3JLMG5VMmVqbUNkYXZTLTV6NG1MdVVfRHl6TV93RWdFX1cybC1rZHQ0M1UtOWRjeG8tREVueFFuc0FDUDlGT1cxT1JxT0Q4dw?oc=5",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnn.com/2026/09/18/economy/trump-ai-economy",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295660832.jpg?c=16x9&q=w_800,c_fill",
       "description": "President Donald Trump is suddenly at odds with AI\u2019s leading executives over the largely unchecked development of AI technology. And it may be because our economy can\u2019t afford a slowdown."
-    },
-    {
-      "headline": "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5",
-      "pub_date": 1789736637.0,
-      "article_url": "https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWVDWHVZSXRaSnJENExMeU1PSjI3dXFEMUY3NWdsT1VOTU53NzJ6MXRZRl9Od3FQRFNpSllldGxYenM4RmdhVlp5MjJ1YmVvV01KTTI1Xy1BSTJrNmRuS24tME9DckN1ejRxQno5elpteEV6RlRGNFRaNkUzb1EtN0Q3SnExQlnSAYwBQVVfeXFMTlVtampvZjJYUEo4WERsUnYxd3AxdG9MWTdFY0pUcXNQYWp6Q2tsS1lfZTNESEdBaHV1T0VfcVpIVVNjSDRkV09wMDROWWZtaXlTQ1Jrd3NGVXBCdXMtWE1GWVlzSk9aekpRek00U3NwMXdWa2ttZFZlU3UtZmsxS2F6bHh6a25STXI0dHI?oc=5",
-      "pub_date": 1789724297.0,
-      "article_url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108227464-1763479721013-gettyimages-2245836911-kokovlis-notitle251112_nppPs.jpeg?v=1771016381&w=1920&h=1080",
-      "description": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T15:57:48.956031+00:00"
+  "fetched_at": "2026-09-18T18:57:47.616992+00:00"
 }
