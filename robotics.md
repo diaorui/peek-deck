@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T06:22:28.930770+00:00'
+updated: '2026-09-18T11:38:42.546827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 06:22 UTC  
+**Last Updated:** September 18, 2026 at 11:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-3d ago
+4d ago
 
 ---
 
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-3d ago
+4d ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon 
 
 https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
-4d ago
+5d ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 3d ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 4d ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 Training systems that allow robots to negotiate the real world are getting more sophisticated.
 
-BBC • 7h ago
+BBC • 12h ago
 
 ---
 
@@ -128,17 +128,15 @@ citriniresearch.com • 1d ago
 
 ---
 
-**[Soldiers and students study drone technology together](https://www.bbc.com/news/articles/cwvgyj1z381mo)**
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-The new degree in Hereford combines drone technology, robotics and engineering skills.
-
-BBC • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Agility Unveils Humanoid That Can Work Safely Alongside People](https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans)**
+**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
 
-Bloomberg.com • 2d ago
+asiatimes.com • 2d ago
 
 ---
 
@@ -146,19 +144,19 @@ Bloomberg.com • 2d ago
 
 Today, we introduce Helix 2.5, the most advanced neural network Figure has built.
 
-Figure • 17h ago
+Figure • 22h ago
 
 ---
 
-**[Terminator now: China is exploring humanoid robots for war](https://asiatimes.com/2026/09/terminator-now-china-is-exploring-humanoid-robots-for-war/)**
+**[Oregon robotics company says its newest humanoid can work safely with people](https://www.oregonlive.com/silicon-forest/2026/09/oregon-robotics-company-says-its-newest-humanoid-can-work-safely-with-people.html)**
 
-Asia Times • 2d ago
+OregonLive.com • 2d ago
 
 ---
 
 **[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-SpaceNews • 17h ago
+SpaceNews • 22h ago
 
 ---
 
@@ -182,7 +180,7 @@ MIT News • 1d ago
 
 Citrini Research said China is advancing in humanoid AI, running the same playbook that allowed it to dominate the EV market.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,55 +194,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 299K • 👍 6K • 💬 706 • ⏱️ 16:24 • 14h ago
-
----
-
-**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
-
-This is all I know of Elon Musk's Optimus Robot selling to everyone.
-
-📺 Blakwoodz
-
-👁️ 88K • 👍 2K • 💬 615 • ⏱️ 13:22 • 6d ago
-
----
-
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
-
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
-
-📺 The AI Nexus
-
-👁️ 25K • 👍 318 • 💬 20 • ⏱️ 24:48 • 5d ago
-
----
-
-**[Tesla Optimus: The Humanoid Robot Is Getting Real #shorts](https://www.youtube.com/watch?v=ngFcvXtFERI)**
-
-Tesla Optimus is moving from a futuristic demo to a much bigger question: can a humanoid robot actually become useful in ...
-
-📺 FutureTech Zone
-
-👁️ 91K • 👍 1K • 💬 226 • ⏱️ 0:25 • 6d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 44K • 👍 364 • 💬 38 • ⏱️ 18:12 • 4d ago
-
----
-
-**[Robotic-Gathoni🤖🥰 #robot #robotics #fyp](https://www.youtube.com/watch?v=wdnbeCQdyOM)**
-
-📺 Robotic Haika🤖💖
-
-👁️ 1K • 👍 25 • ⏱️ 0:25 • 15h ago
+👁️ 368K • 👍 7K • 💬 794 • ⏱️ 16:24 • 19h ago
 
 ---
 
@@ -254,7 +204,27 @@ Chinese company Xpeng released a video showing its new humanoid robot IRON walki
 
 📺 NBC News
 
-👁️ 1.3M • 👍 5K • 💬 2K • ⏱️ 2:28 • 6d ago
+👁️ 1.4M • 👍 5K • 💬 2K • ⏱️ 2:28 • 6d ago
+
+---
+
+**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+
+Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+
+📺 The AI Nexus
+
+👁️ 25K • 👍 321 • 💬 20 • ⏱️ 24:48 • 6d ago
+
+---
+
+**[They Are Selling Home Robots Now ❗❗😱 Mark Of The Beast](https://www.youtube.com/watch?v=CmV-dqCoexY)**
+
+This is all I know of Elon Musk's Optimus Robot selling to everyone.
+
+📺 Blakwoodz
+
+👁️ 88K • 👍 2K • 💬 617 • ⏱️ 13:22 • 6d ago
 
 ---
 
@@ -264,7 +234,27 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 558K • 👍 6K • 💬 804 • ⏱️ 27:23 • 5d ago
+👁️ 563K • 👍 6K • 💬 815 • ⏱️ 27:23 • 5d ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 45K • 👍 368 • 💬 40 • ⏱️ 18:12 • 4d ago
+
+---
+
+**[999 Self-Aware Robot GIRL ❤️ R.R.E.B.L.E | How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=-tmGIYm-pGM)**
+
+New self-aware robot named R.R.E.B.L.E. that is designed to destroy E.L.B.E.R.R. Can this new robot defeat Elberr? Are we able ...
+
+📺 Baprimo
+
+👁️ 229K • 👍 1K • 💬 14 • ⏱️ 12:08 • 5d ago
 
 ---
 
@@ -274,7 +264,7 @@ War Robots Gameplay: UE Hawk Vs UE Typhon - Which Ultimate Robot is actually the
 
 📺 Manni-Gaming
 
-👁️ 11K • 👍 333 • 💬 69 • ⏱️ 23:12 • 18h ago
+👁️ 12K • 👍 341 • 💬 73 • ⏱️ 23:12 • 1d ago
 
 ---
 
@@ -285,6 +275,16 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why 
 📺 PRO ROBOTS
 
 👁️ 23K • 👍 214 • 💬 28 • ⏱️ 16:01 • 5d ago
+
+---
+
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+
+📺 Reward AI
+
+👁️ 109K • 👍 1K • 💬 101 • ⏱️ 2:20 • 3d ago
 
 ---
 
