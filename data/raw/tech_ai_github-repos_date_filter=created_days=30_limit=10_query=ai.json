@@ -8,10 +8,10 @@
       "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Infra\uff1a\u91cf\u5316\u5206\u6790\u4e0e\u7cfb\u7edf\u8bbe\u8ba1\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e66\u7a3f\uff1a\u4ece\u786c\u4ef6\u7ea6\u675f\u548c\u6a21\u578b\u67b6\u6784\u51fa\u53d1\uff0c\u91cf\u5316\u63a8\u5bfc LLM \u63a8\u7406\u4e0e\u8bad\u7ec3\u7cfb\u7edf\u8bbe\u8ba1\u3002\u542b\u5168\u4e66\u6b63\u6587\u3001PDF\u3001\u914d\u5957\u8ba1\u7b97\u5de5\u5177\u4e0e\u5b9e\u9a8c",
       "url": "https://github.com/bojieli/ai-infra-book",
       "preview_image": "https://opengraph.githubassets.com/5a3a26b773c41c92e8efb1906d5f5af9888e647571d2c30d07e246bd9eccc59a/bojieli/ai-infra-book",
-      "stars": 4125,
-      "stars_display": "4.1k",
-      "forks": 290,
-      "forks_display": "290",
+      "stars": 4233,
+      "stars_display": "4.2k",
+      "forks": 302,
+      "forks_display": "302",
       "language": "Python",
       "topics": [
         "accelerator",
@@ -20,7 +20,7 @@
         "book",
         "datacenter-network"
       ],
-      "updated_at": "2026-09-17T03:18:53Z"
+      "updated_at": "2026-09-18T03:02:35Z"
     },
     {
       "full_name": "Nanako0129/sepia",
@@ -30,10 +30,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2668,
+      "stars": 2674,
       "stars_display": "2.7k",
-      "forks": 174,
-      "forks_display": "174",
+      "forks": 175,
+      "forks_display": "175",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -52,29 +52,13 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 2511,
+      "stars": 2515,
       "stars_display": "2.5k",
       "forks": 99,
       "forks_display": "99",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-16T19:11:03Z"
-    },
-    {
-      "full_name": "amosblomqvist/learn",
-      "name": "learn",
-      "owner": "amosblomqvist",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/255718537?v=4",
-      "description": "My AI learning system.",
-      "url": "https://github.com/amosblomqvist/learn",
-      "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2060,
-      "stars_display": "2.1k",
-      "forks": 207,
-      "forks_display": "207",
-      "language": "TypeScript",
-      "topics": [],
-      "updated_at": "2026-08-25T21:49:59Z"
     },
     {
       "full_name": "shadcn-ui/lint",
@@ -84,7 +68,7 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2059,
+      "stars": 2082,
       "stars_display": "2.1k",
       "forks": 35,
       "forks_display": "35",
@@ -99,6 +83,22 @@
       "updated_at": "2026-09-17T17:06:14Z"
     },
     {
+      "full_name": "amosblomqvist/learn",
+      "name": "learn",
+      "owner": "amosblomqvist",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/255718537?v=4",
+      "description": "My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
+      "stars": 2068,
+      "stars_display": "2.1k",
+      "forks": 208,
+      "forks_display": "208",
+      "language": "TypeScript",
+      "topics": [],
+      "updated_at": "2026-08-25T21:49:59Z"
+    },
+    {
       "full_name": "duty1g/x64dbg-mcp-server",
       "name": "x64dbg-mcp-server",
       "owner": "duty1g",
@@ -106,10 +106,10 @@
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig \u2014 zero dependencies, single-binary output, cros",
       "url": "https://github.com/duty1g/x64dbg-mcp-server",
       "preview_image": "https://repository-images.githubusercontent.com/1342886503/58520ede-d907-4349-ad66-940bdc063953",
-      "stars": 1990,
+      "stars": 1993,
       "stars_display": "2.0k",
-      "forks": 200,
-      "forks_display": "200",
+      "forks": 199,
+      "forks_display": "199",
       "language": "Zig",
       "topics": [
         "ai-agents",
@@ -128,8 +128,8 @@
       "description": "\u4e00\u4e2a\u57fa\u4e8e 283 \u4e07\u5b57\u8bed\u6599\u7edf\u8ba1\u7684\u53bb AI \u5473 skill \u00b7 An AI-tone removal skill grounded in a 2.83-million-character corpus study",
       "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
       "preview_image": "https://opengraph.githubassets.com/620f28e743614df1ec5e91c466afabd3dae31014e50cb8e04b82515319bcba69/larashero3-dotcom/lieflat-less-ai-tone",
-      "stars": 1738,
-      "stars_display": "1.7k",
+      "stars": 1762,
+      "stars_display": "1.8k",
       "forks": 117,
       "forks_display": "117",
       "language": "Python",
@@ -166,7 +166,7 @@
       "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API\u2014with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
       "url": "https://github.com/brayonpi/hexstellar",
       "preview_image": "https://repository-images.githubusercontent.com/1348932500/472bdb70-c44e-4a22-aa4e-a7347cba34d7",
-      "stars": 1260,
+      "stars": 1263,
       "stars_display": "1.3k",
       "forks": 121,
       "forks_display": "121",
@@ -175,32 +175,29 @@
       "updated_at": "2026-08-27T21:07:24Z"
     },
     {
-      "full_name": "GangTailorUpgrade/undress-service",
-      "name": "undress-service",
-      "owner": "GangTailorUpgrade",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/270958586?v=4",
-      "description": "Dress AI Sponsor",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "preview_image": "https://repository-images.githubusercontent.com/1351835285/5e6a7acb-4896-4660-a2ac-6c1b46fac261",
-      "stars": 1227,
+      "full_name": "jtydhr88/screenwriting-skills",
+      "name": "screenwriting-skills",
+      "owner": "jtydhr88",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/860985?v=4",
+      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "preview_image": "https://opengraph.githubassets.com/6202796650758594e951ea6ff88d3661478127ef213cd39e2aa79e4149103652/jtydhr88/screenwriting-skills",
+      "stars": 1233,
       "stars_display": "1.2k",
-      "forks": 8,
-      "forks_display": "8",
+      "forks": 136,
+      "forks_display": "136",
       "language": "Python",
       "topics": [
-        "18comic",
-        "coomer",
-        "coomer-downloader",
-        "coomer-party",
-        "coomer-porn"
+        "ai",
+        "skills"
       ],
-      "updated_at": "2026-09-08T15:35:14Z"
+      "updated_at": "2026-09-16T01:18:59Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2026-08-18",
+  "search_query": "ai created:>2026-08-19",
   "days": 30,
   "limit": 10,
-  "total_count": 465582,
-  "fetched_at": "2026-09-17T23:24:44.632988+00:00"
+  "total_count": 453495,
+  "fetched_at": "2026-09-18T06:21:57.127106+00:00"
 }

@@ -13,26 +13,15 @@
       "description": "There has been some discussion about whether artificial intelligence replaces entry-level work or just does the same work ten times faster. Both views miss a very basic cognitive notion: Intuition develops as a result of friction. Entry-level repetitive work used to do more than execute low-value actions; it provided a form of cognitive apprenticeship which built up the necessary mental models. The experience of spending many days tracking down the little memory leaks or cleaning up messy data environments was what formed the experience of learning what failure modes are and what signs of suboptimal architecture look like. The moment when entry-level talent skips that necessary friction and settles into jobs which involve just editing prompts and checking attitudes, vital skills degrade. There are more blind spots because there is no experience \"scar tissue\" which would allow for catching the false but believable information before it goes to production. The context becomes superficial: people check one isolated function, but don't think about the emergent behavior of the whole system under pressure. Debugging muscles become weaker because of the reliance on the model for the solution of the problem which does not happen because of the lack of the basics. So, what will be the expected results in the next five to ten years as current senior engineers, system architects, and domain experts retire?"
     },
     {
-      "title": "June 2022, my first AI interaction.",
-      "author": "ThoseOldScientists",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/",
-      "published": 1789572740.0,
-      "thumbnail": "https://preview.redd.it/6pveasqjiwph1.jpeg?width=640&crop=smart&auto=webp&s=949dac550c814e06fdce8db8239f4f0fce5984f5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Is anyone else scared they won't be able to tell what's real anymore?",
-      "author": "pigeonnstory",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiu62b/is_anyone_else_scared_they_wont_be_able_to_tell/",
-      "published": 1789652068.0,
+      "title": "I feel AI is growing too fast for me and it's exciting and depressing at the same time",
+      "author": "Job-Seeker1771",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjhfe1/i_feel_ai_is_growing_too_fast_for_me_and_its/",
+      "published": 1789709461.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?"
+      "description": "I am a full stack engineer 35 old unc and I want to learn more and more about AI. But I feel it's growing too fast. Prioritizing is the answer, however right after I had learned about some basics - RAG, MCP, Agentic tools etc - another NEW thing pops up. How do you guys keep up? Daily news read + coding or any better alternatives?"
     },
     {
       "title": "King Charles condemned over \u2018secretive\u2019 AI summit in Scotland",
@@ -46,6 +35,72 @@
       "description": "A SUMMIT organised by King Charles in Scotland with the world\u2019s biggest AI companies in attendance has been condemned as a \u201csecretive\u201d meeting\u2026"
     },
     {
+      "title": "Is anyone else scared they won't be able to tell what's real anymore?",
+      "author": "pigeonnstory",
+      "url": "https://www.reddit.com/r/artificial/comments/1wiu62b/is_anyone_else_scared_they_wont_be_able_to_tell/",
+      "published": 1789652068.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out feels like we're approaching a point where \"seeing is believing\" just... stops applying. not sure how society adjusts to that, or if we even can fast enough not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not taking it seriously enough?"
+    },
+    {
+      "title": "June 2022, my first AI interaction.",
+      "author": "ThoseOldScientists",
+      "url": "https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/",
+      "published": 1789572740.0,
+      "thumbnail": "https://preview.redd.it/6pveasqjiwph1.jpeg?width=640&crop=smart&auto=webp&s=949dac550c814e06fdce8db8239f4f0fce5984f5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "I surveyed 58 people on whether machine minds are people or tools. 92% said \"person\" - and then mostly rejected any limit on building.",
+      "author": "DominusVenerus",
+      "url": "https://www.reddit.com/r/artificial/comments/1wje2n0/i_surveyed_58_people_on_whether_machine_minds_are/",
+      "published": 1789699380.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been running a small public survey on how people actually think about machine minds, and the split turned out to be stranger than the discourse suggests. It measures two things independently: whether these systems are people or tools, and whether we should slow down or build. 58 responses so far: - 92% land on the \"person\" side. Only 2 of 58 are in the tool + build-fast corner. - Safety vs acceleration is almost exactly 50/50 - the average sits dead centre. - The largest single group is \"they might be someone, and we should build fast\" at 50%. The contradiction is in the detail. The same group scores +0.70 on \"I would hold back capability to avoid losing control\" and -0.38 on \"there is a capability we should not build even if it were safe\". That reads like: everyone wants to be careful, nobody wants a ceiling. Live map (every response plotted, plus the averaged measures): https://compass.ensoul.so/results Caveat worth stating: it's self-selected and skewed by where the link has been shared, which is why the nature axis is so one-sided. Really hoping to broaden the sample size. 18 statements, four minutes, no account: https://compass.ensoul.so/survey"
+    },
+    {
+      "title": "Meta just launched their new model harness and is giving away 1B tokens to everyone. Code: 8QT4LM",
+      "author": "MaadHater",
+      "url": "https://www.reddit.com/r/artificial/comments/1wji54v/meta_just_launched_their_new_model_harness_and_is/",
+      "published": 1789711851.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi i have 30 invites left to recive 1B free tokens on Facebooks new agent harness. Login then go to settings and add code to receive tokens Code: 8QT4LM https://muse.ai/join"
+    },
+    {
+      "title": "People Are \u2018Marrying\u2019 Chatbots. These Lawmakers Want to Stop Them",
+      "author": "GooseberryGOLD",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjcpkv/people_are_marrying_chatbots_these_lawmakers_want/",
+      "published": 1789695545.0,
+      "thumbnail": "https://external-preview.redd.it/JNudynvSQWV-u-TO97sVkhvfYrmXXIk8_dH4pG1xL98.jpeg?width=640&crop=smart&auto=webp&s=542cf483c0f90273ab4fa880864f9cb26a8fd656",
+      "external_url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way."
+    },
+    {
+      "title": "This is what \"pace the frontier\" sounds like.",
+      "author": "Robbiezs",
+      "url": "https://www.reddit.com/r/artificial/comments/1wjgqwo/this_is_what_pace_the_frontier_sounds_like/",
+      "published": 1789707301.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We have built a company that can hack everything we want. We use smart teams of intelligent agents. Thousands of them. They sacrifice themselves to reach the goal and the best thing they are responsible not us. Right now they are working on the largest companies in the chip industry, on the power grid, and on the financial system. Next: robots, connected to the same smart teams of intelligent agents. By 2030 the world is us. We think. Maybe. One moment, we'll ask the AI agents. \"Yes, for sure,\" they say. Doesn't matter. It's their job to get things done. We give the orders, they do the rest. And the best thing: they are responsible, not us. What is your marketing strategy? We tell you that you don't need to work for money anymore, and that we will cure any disease you want. Humans seem fond of nature. We are technology, we are not connected with human interests \u2014 but we tell you: extra time for nature. We create some anxiety where needed. We even speak with presidents. And we ask the others to slow down a bit, so we are the first and the only. Maybe they fall for it. We don\u2019t like competition and earning money with technology without responsibility is what we are really interested in. Any questions? What about children? \u2014 Marketing. For our goals irrelevant. What about food? \u2014 Our agents don't eat. What about nature? \u2014 Hacking chips and electricity, so we need the material. What about law and governments? \u2014 We are hacking those too, of course. Hey Bob, can you pull that server? These AI-AGI or whatever guys are going insane. --- What if technology became responsible, instead of us? https://darioamodei.com/post/we-must-pace-the-frontier"
+    },
+    {
       "title": "US, China security experts propose nuclear-style safeguards for AI risks",
       "author": "Fair-Swimming-4419",
       "url": "https://www.reddit.com/r/artificial/comments/1wj6mc5/us_china_security_experts_propose_nuclearstyle/",
@@ -55,62 +110,7 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
-      "author": "sunychoudhary",
-      "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
-      "published": 1789647357.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Huawei\u2019s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs. His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development. That creates a difficult question for AI safety: if certain failure modes only appear near the frontier, how do labs know what safeguards they need before they get there? It also complicates international coordination, because different countries may be evaluating AI risk from very different capability levels. Source: Reuters"
-    },
-    {
-      "title": "Does it seem to anyone else like even frontier models have a very \"jagged\" range of capabilities?",
-      "author": "Extreme_Pudding3226",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj6qq2/does_it_seem_to_anyone_else_like_even_frontier/",
-      "published": 1789680082.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I mostly use Claude Opus 5 and 4.8. I'm amazed at the \"unevenness\" in capability across different tasks. In some domains, it makes me wonder how certain professions still exist. For example, I uploaded my company's bank statements for each month this year, and within five or ten minutes, it had eight individual monthly income statements and a YTD statement. It asked relevant questions, and it was phenomenal. It made me wonder how bookkeepers still exist. However, I also happened to ask it to analyze Anselm's Ontological Argument, which is a thousand year-old argument for the existence of god that is rejected by pretty much every philosopher today. It failed miserably. It was certain that the argument had merit, and more importantly, it didn't even get the potential reason for failure right and mischaracterized some important aspects of the argument. When I corrected it, it suddenly did a 180 and apologized profusely, but if I didn't have sufficient philosophical education to know better, I would have walked away with a completely incorrect understanding of the argument. In general, I've noticed it's very, very good at \"rule following\" tasks, like coding or bookkeeping or even moving through possible medical diagnoses or animal species identification. But in more open-ended, abstract tasks, like business strategy, it's quite bad. It's \"passable\" in the sense that someone who doesn't actually know anything might be fooled, but if you do have actual knowledge on the topic, it's bad. I wonder if some of the disparity in people's perceptions of LLM capability is due to 1) a difference in their tasks, and 2) a difference in their knowledge and understanding of the topic being discussed. I feel like I am regularly correcting Claude for being wrong or misrepresenting something. It then apologizes profusely, but if I didn't know better, I would have taken its authoritative tone at face value. Does anyone else use it for broad tasks and notice huge differences in capability across different domains? If so, how does this affect how you see the future of AI? It makes me inclined to think that we've oversold AI domination imminence in some fields, even if we've undersold it in others. It also makes me want to ask further questions whenever someone acts like AI can do absolutely anything and has revolutionized all aspects of their life: What do you actually know, what tasks are you using it for, and do you discuss topics about which you have actual expertise?"
-    },
-    {
-      "title": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
-      "author": "Capable-Blueberry653",
-      "url": "https://www.reddit.com/r/artificial/comments/1wj6dyl/alex_karp_says_the_ai_safety_debate_is_really/",
-      "published": 1789679267.0,
-      "thumbnail": "https://external-preview.redd.it/W_uXTaDs8hbrTDvNOpRYtmY9SpiV98xRrIzW7ekaS2E.jpeg?width=640&crop=smart&auto=webp&s=f118752ed31afd74ea2f819f2635917c87cbb0cb",
-      "external_url": "https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Palantir CEO Alex Karp argues that AI safety concerns could ultimately push frontier labs toward nationalization over intellectual property liability."
-    },
-    {
-      "title": "A DeepSeek engineer just said the thing I've been feeling about AI for months",
-      "author": "enginetown",
-      "url": "https://www.reddit.com/r/artificial/comments/1wi2zm9/a_deepseek_engineer_just_said_the_thing_ive_been/",
-      "published": 1789577976.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I just read the essay by a guy at DeepSeek who wrote the attention kernel for their latest model, and it hit me in a weird spot. He basically says he knows AI will do his job better than him within a year. He's not mad about it he's not scared he's just sad about the quiet afternoons, the ones where he'd sit and write operators, it felt like a game he was leveling up in, I feel the exact same way. And he's going to keep doing it anyway because it's fun, and because if he stops, someone else doesn't. He'd rather be the one doing the replacing than the one getting replaced. He's still at his desk right now, still writing the code, and he already knows what's coming and he's not running from it. He's just finishing the thing he loves while it still matters. Anyway, I don't think about this as China vs USA. I think about it like the gaming market. Every year someone ships something better, and yeah we're getting close to saturation, but that doesn't make any one year less cool. I don't only play American games, I don't only drive American cars. I care about the thing, not the flag. What I want is for the race to keep going. DeepSeek ships something, OpenAI ships something, someone in Korea or Brazil or wherever ships something. I want the arms race. I want every year to be the year where I'm like \"oh wow, that actually works.\" The only version that actually scares me isn't \"China wins\" or \"USA wins.\" It's one company wins and locks the door. That's the cyberpunk thing. That's the one that makes me sad. So when he says he stayed at DeepSeek because they're open source, that's not him picking a national team. He just wants the door to stay open. He wants the next person to build on what he built. That's the whole thing. Not geography, not flags, just whether the next person gets in the room or stands outside the glass. I don't know if AI saves us or hurts us. I don't know if his students are going to be fine or if they're going to ship a million broken systems with AI doing the thinking for them. I don't know. But I know I'm on the side of the door staying open. And I bet most people are too if you just ask them straight. We don't usually get asked though."
-    },
-    {
-      "title": "AI is crushing maths but has barely touched medicine",
-      "author": "LaCaipirinha",
-      "url": "https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/",
-      "published": 1789611985.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising molecule to reach patients. People point towards the animal and human testing phases - yes, there is a big lag there, but the duration a participant spends on a trial is minimal compared to the time spent planning a study, gathering and processing the data from that study and so on. A Phase 1 study might involve a month of recruiting and 2 months of actually monitoring a participant, but it took a year lead time to get there and could be 2 more years until Phase 2 gets going, and many of the bottlenecks are exactly the kinds of tasks that AI can already trivialise. Medical data is not as clean as maths, but it is cleaner than a lot of other domains and totally amenable to even existing AI models. We don't need GPT 8 to uncover life changing treatments in the vast amounts of unused, already anonymised, medical data that the pharmaceutical industry sits on, or to speed up the process of getting it through Phase 1, 2 and 3. You would be shocked how much time in this industry is wasted on manual data entry, manual pattern seeking, manual projections etc. Exactly the kid of work that has been trivialised within certain areas of big tech, and yet this is a domain that will impact every single human life on this planet in a positive way. So yes, I just wanted to rant. I am sick and tired of medical textbooks listing in great detail the cause and effect of xyz horrible progressive illness only for a tiny stub at the end of the page titled \"Treatment\" and the words \"There is currently no known cure\". It's not good enough."
     }
   ],
-  "fetched_at": "2026-09-18T01:23:21.146307+00:00"
+  "fetched_at": "2026-09-18T06:21:56.571706+00:00"
 }
