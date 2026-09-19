@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49766055",
       "author": "roscas",
       "points": 1,
-      "num_comments": 2,
+      "num_comments": 3,
       "created_at": "2026-09-19T12:35:21Z",
       "object_id": "49766055",
       "image": null,
@@ -119,5 +119,5 @@
   ],
   "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-09-19T16:16:28.775971+00:00"
+  "fetched_at": "2026-09-19T18:43:03.835527+00:00"
 }
