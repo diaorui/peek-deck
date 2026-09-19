@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 140,
+      "upvotes": 141,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 107540,
+      "github_stars": 107609,
       "project_page": null
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2608.23283",
       "arxiv_url": "https://arxiv.org/abs/2608.23283",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 207,
+      "upvotes": 208,
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2609.14858",
       "arxiv_url": "https://arxiv.org/abs/2609.14858",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 229,
+      "upvotes": 230,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
-      "github_stars": 821,
+      "github_stars": 863,
       "project_page": "https://dream-rsi.com/"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2310.10688",
       "arxiv_url": "https://arxiv.org/abs/2310.10688",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 42,
+      "upvotes": 43,
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2403.08299",
-      "title": "AutoDev: Automated AI-Driven Development",
-      "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "The landscape of software development has witnessed a paradigm shift with the\nadvent of AI-powered assistants, exemplified by GitHub Copilot. However,\nexisting solutions are not leveraging all the potential capabilities available\nin an IDE such as building, testing, executing code, git operations, etc.\nTherefore, they are constrained by their limited capabilities, primarily\nfocusing on suggesting code snippets and file manipulation within a chat-based\ninterface. To fill this gap, we present AutoDev, a fully automated AI-driven\nsoftware development framework, designed for autonomous planning and execution\nof intricate software engineering tasks. AutoDev enables users to define\ncomplex software engineering objectives, which are assigned to AutoDev's\nautonomous AI Agents to achieve. These AI agents can perform diverse operations\non a codebase, including file editing, retrieval, build processes, execution,\ntesting, and git operations. They also have access to files, compiler output,\nbuild and testing logs, static analysis tools, and more. This enables the AI\nAgents to execute tasks in a fully automated manner with a comprehensive\nunderstanding of the contextual information required. Furthermore, AutoDev\nestablishes a secure development environment by confining all operations within\nDocker containers. This framework incorporates guardrails to ensure user\nprivacy and file security, allowing users to define specific permitted or\nrestricted commands and operations within AutoDev. In our evaluation, we tested\nAutoDev on the HumanEval dataset, obtaining promising results with 91.5% and\n87.8% of Pass@1 for code generation and test generation respectively,\ndemonstrating its effectiveness in automating software engineering tasks while\nmaintaining a secure and user-controlled development environment.",
-      "ai_summary": "AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.",
-      "hf_url": "https://huggingface.co/papers/2403.08299",
-      "arxiv_url": "https://arxiv.org/abs/2403.08299",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
-      "upvotes": 20,
-      "num_comments": 2,
-      "published_at": "2024-03-13T03:12:03.000Z",
-      "github_repo": "https://github.com/vxcontrol/pentagi",
-      "github_stars": 24738,
-      "project_page": null
-    },
-    {
       "id": "2609.15818",
       "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
       "authors": "Honglin Guo, Tao Gui, Yicheng Chen et al. (143 authors)",
@@ -183,15 +164,34 @@
       "hf_url": "https://huggingface.co/papers/2609.20519",
       "arxiv_url": "https://arxiv.org/abs/2609.20519",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
       "github_stars": 2344,
       "project_page": "https://nvlabs.github.io/SoL-Pi/"
+    },
+    {
+      "id": "2403.08299",
+      "title": "AutoDev: Automated AI-Driven Development",
+      "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The landscape of software development has witnessed a paradigm shift with the\nadvent of AI-powered assistants, exemplified by GitHub Copilot. However,\nexisting solutions are not leveraging all the potential capabilities available\nin an IDE such as building, testing, executing code, git operations, etc.\nTherefore, they are constrained by their limited capabilities, primarily\nfocusing on suggesting code snippets and file manipulation within a chat-based\ninterface. To fill this gap, we present AutoDev, a fully automated AI-driven\nsoftware development framework, designed for autonomous planning and execution\nof intricate software engineering tasks. AutoDev enables users to define\ncomplex software engineering objectives, which are assigned to AutoDev's\nautonomous AI Agents to achieve. These AI agents can perform diverse operations\non a codebase, including file editing, retrieval, build processes, execution,\ntesting, and git operations. They also have access to files, compiler output,\nbuild and testing logs, static analysis tools, and more. This enables the AI\nAgents to execute tasks in a fully automated manner with a comprehensive\nunderstanding of the contextual information required. Furthermore, AutoDev\nestablishes a secure development environment by confining all operations within\nDocker containers. This framework incorporates guardrails to ensure user\nprivacy and file security, allowing users to define specific permitted or\nrestricted commands and operations within AutoDev. In our evaluation, we tested\nAutoDev on the HumanEval dataset, obtaining promising results with 91.5% and\n87.8% of Pass@1 for code generation and test generation respectively,\ndemonstrating its effectiveness in automating software engineering tasks while\nmaintaining a secure and user-controlled development environment.",
+      "ai_summary": "AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.",
+      "hf_url": "https://huggingface.co/papers/2403.08299",
+      "arxiv_url": "https://arxiv.org/abs/2403.08299",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
+      "upvotes": 20,
+      "num_comments": 2,
+      "published_at": "2024-03-13T03:12:03.000Z",
+      "github_repo": "https://github.com/vxcontrol/pentagi",
+      "github_stars": 24750,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-19T21:19:34.682785+00:00"
+  "fetched_at": "2026-09-19T23:21:07.449311+00:00"
 }
