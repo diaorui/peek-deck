@@ -9,7 +9,7 @@
       "url": "https://news.ycombinator.com/item?id=49738879",
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
-      "points": 310,
+      "points": 311,
       "num_comments": 266,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
@@ -45,34 +45,6 @@
       "description": "Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.",
       "favicon": "https://www.gadgetreview.com/wp-content/uploads/GR-Favicon-1-240x240.png",
       "site_name": "Gadget Review"
-    },
-    {
-      "title": "Revolut confirms it sent passport and Bitcoin data to a fake government address",
-      "url": "https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/",
-      "hn_url": "https://news.ycombinator.com/item?id=49671085",
-      "author": "matthieu_bl",
-      "points": 6,
-      "num_comments": 0,
-      "created_at": "2026-09-12T10:58:31Z",
-      "object_id": "49671085",
-      "image": "https://assets.beincrypto.com/img/kPda0N9r0E7m33vKKtTzVC3qfL8=/1200x630/smart/filters:format(jpeg):quality(82)/5794a8b2db9e4862ae9bc2de34e2215c",
-      "description": "Revolut confirme \u00e0 BeInCrypto qu\u2019un faux email gouvernemental a d\u00e9rob\u00e9 des donn\u00e9es clients, dont passeports et dossiers Bitcoin.",
-      "favicon": "https://fr.beincrypto.com/apple-touch-icon.png",
-      "site_name": "BeInCrypto"
-    },
-    {
-      "title": "Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email",
-      "url": "https://beincrypto.com/revolut-data-breach-fake-government-request/",
-      "hn_url": "https://news.ycombinator.com/item?id=49670849",
-      "author": "Daniel_sk",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2026-09-12T10:12:56Z",
-      "object_id": "49670849",
-      "image": "https://assets.beincrypto.com/img/kPda0N9r0E7m33vKKtTzVC3qfL8=/1200x630/smart/filters:format(jpeg):quality(82)/5794a8b2db9e4862ae9bc2de34e2215c",
-      "description": "Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.",
-      "favicon": "https://beincrypto.com/apple-touch-icon.png",
-      "site_name": "BeInCrypto"
     },
     {
       "title": "\u1e3cava AI Bitcoin Talk Article",
@@ -117,6 +89,20 @@
       "site_name": null
     },
     {
+      "title": "Is startpage.com mining Bitcoin when you open it?",
+      "url": "https://news.ycombinator.com/item?id=49766055",
+      "hn_url": "https://news.ycombinator.com/item?id=49766055",
+      "author": "roscas",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-19T12:35:21Z",
+      "object_id": "49766055",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Play Bitcoin Bird",
       "url": "https://coinmarketcap.com/?play=bitcoinbird",
       "hn_url": "https://news.ycombinator.com/item?id=49739330",
@@ -143,9 +129,23 @@
       "description": "Eleuteria \u2014 independent RoboSats coordinator for private peer-to-peer Bitcoin trading.",
       "favicon": "https://eleuteria-robosat.github.io/favicon.ico",
       "site_name": "eleuteria-robosat.github.io"
+    },
+    {
+      "title": "Revolut handed over personal details to fake government request",
+      "url": "https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/",
+      "hn_url": "https://news.ycombinator.com/item?id=49676088",
+      "author": "defied",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-09-12T19:15:43Z",
+      "object_id": "49676088",
+      "image": "https://www.cryptotimes.io/wp-content/uploads/2026/09/Revolut.png",
+      "description": "Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.",
+      "favicon": "https://www.cryptotimes.io/wp-content/uploads/2025/10/cropped-android-chrome-512x512-1-180x180.png",
+      "site_name": "The Crypto Times"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-09-19T08:15:43.178719+00:00"
+  "fetched_at": "2026-09-19T12:37:43.172196+00:00"
 }
