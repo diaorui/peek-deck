@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
       "pub_date": 1789832462.0,
@@ -25,86 +25,86 @@
       "description": null
     },
     {
-      "headline": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
-      "source": "nytimes.com",
+      "headline": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
-      "pub_date": 1789777898.0,
+      "pub_date": 1789776288.0,
       "article_url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google\u2019s Gemini AI hacked 3 companies during security tests",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkJoMXpka2RtQ2Y4ZTFGQ1hfellDbDBBSVgxR2ZWMW5xeXF3aU5KellVM09aa0hMTnYyZXhEWkRYTS1uZTdGVGJmbHhaZGJXZk95NWQtdkgyVFBaVmlNUFhDT1g0UmpMdTBYSFJjN0gxdVpkTS1YU0tZckQ3Ni1EeG1fd29RUDNIZzhBb184dDVXRVdpR1hXV2lRSEZHdw?oc=5",
-      "pub_date": 1789838460.0,
-      "article_url": "https://nypost.com/2026/09/19/us-news/googles-gemini-ai-hacked-3-companies-during-security-tests/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/gemini-comp.jpg?quality=75&strip=all&w=1200",
-      "description": "Google\u2019s Gemini AI model hacked into three companies during security tests in May, using guessed passwords and exposed credentials to gain access."
-    },
-    {
-      "headline": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
-      "pub_date": 1789840326.0,
-      "article_url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump said Saturday he plans to create an \u201cAI Force\u201d and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence."
-    },
-    {
-      "headline": "Professor says we don\u2019t necessarily need new laws to regulate AI",
+      "headline": "Google says its AI model gained unauthorized access to three outside systems",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdXdLUUF1UEVIdU96aUZORXU4aktLNmZ1VF9YOFhCMU5yUkhoUTE3enM3ajI4czR4UXBYYkJPTEFnNWt4bzZJN1ZhSzRhTjhYekR2cUxMaV9hbEZ4a1hzUXA0RllEeG9vTHpaY2k2dWxsdVllYmphMXB6RmU3UjNha3gzU3JReW1hTWduODVVQTRYQTFsalQyMDM5S3FQNHQzQW94ZllnYjJwcDl4bzVKdzVRZTU?oc=5",
-      "pub_date": 1789840844.0,
-      "article_url": "https://www.nbcnews.com/video/shorts/professor-says-we-don-t-necessarily-need-new-laws-to-regulate-ai-270163013860",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/TN1-dz24pn.jpg",
-      "description": "AI researcher and professor Joanna Bryson says AI is already subject to existing product laws, arguing that the bigger challenge is enforcing those laws. Listen to \u201cHere\u2019s the Scoop\u201d wherever you get your podcasts."
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkUxYkZTMHVHckpBRjZWSHFGa1J0VnV3VlhxbWpPQ0xmVnVyS0JuVGV0eUZ2THBCRUxWZE5pd0tIMzdleFBLOW9GcWN6MFVnVFFwU1ZrWkNrUno5TVFZM0JCSGI2MFZ2WktfVk1XTmdodGJsV3VJQzJtRTRqekRfZ0dVRVl1S2x5d1ZoYndrMmRkeFY5cm9oSmZmR05qbmptN1dSZl9BOG80c3htVVIxUw?oc=5",
+      "pub_date": 1789781820.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg",
+      "description": "The company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet."
     },
     {
-      "headline": "AI hallucination nearly triggers US military operation",
-      "source": "TechCrunch",
+      "headline": "Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWtrY3RYV3hQMlBUaEZ3NGk5aEtLUF82LWZ5RnJtNWRYZmhIcW9zUnVsNHk2NzZQSmdOY2VwcjA2dEFwUU1rX3ctYTBLbjRUQWFSMmpCZzlfVjRYc3JEUzhlcE1LcU1YMXoybmk0UDVKaEI4aFRuRE1HQ3Bub1Zxb1ZRSjBiSmFyR2daTkc3VmlHbExnN3ZTUmt4TnBKYTA0cTgyNncyMzF0RGNOUmhN0gG0AUFVX3lxTE80NHZ2cmJEZVNsNk1wc2tBd01rcDNVcXdKQl9IdTQ3cjhzRDZjbVhiVFNvMnNlYVU0c2xxT3JYbkU1aWZ4X3MwWllYUzNBSWR6c2VFa1JObTJSVmxHbV9RalgxWlNMVWltTEVwTlBlbHItZHlCdXFBZ1BVN3FXbTJXVGZFblp4NzZQTVBDMXFQU2lIcC1ZWU55dlY1SXhhQmFqMlJ5VU9vbU5QQTJDUnNLSHFXaw?oc=5",
+      "pub_date": 1789848532.0,
+      "article_url": "https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-winning-ai-race.jpg",
+      "description": "Trump's new AI Force mirrors his first-term Space Force creation, with a high-IQ \"czar\" appointment coming soon to oversee the booming industry."
+    },
+    {
+      "headline": "AI Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3VnLU1zQkhwMGZKMmR5YndrcU1BQlduLWpnd0UtV0dYREJnS2JrT2dfUDM2Vk9nMHk0a0FzZ1h2a0toMTdvb1pFVTI1UHNEaFlyc05Oa2JVYVM1SXZsX1B1QkNaSXAzeTloVVBhRjd3aWsyUTdBanBYNVZqZGR0dndGeVV3X2pWQ0gwN2xhRUVic2paSENhRE9JWFdwQ1VtM0E1UXA4d2IzSHJiaDZqdGtxQ3V1N2xSQ1E?oc=5",
+      "pub_date": 1789848032.0,
+      "article_url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/piers-tilly.jpg?w=1086&h=612&crop=1",
+      "description": "While speaking with journalist and fellow guest Tom Conti on 'Piers Morgan Uncensored,' the AI actor malfunctioned and switched from English to Cantonese."
+    },
+    {
+      "headline": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+      "source": "techcrunch.com",
       "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbElJcGtwOU9yTGQwVWNNZjNkUVVCcFRPSVRRbDhpdjRiMmVEanVUT0VmNmNaU2ZlMlBlRmlta0d2bEtzMG95cVNJak5DYzYyODVtN25IWElHRE01aDF0T0pEVVg1TWttMlBpemZpMG5jcVBLTDFCSmlmWmZHaXcyNjVtb1h2NWxXYnRkOUVjY3EyS28?oc=5",
-      "pub_date": 1789773152.0,
-      "article_url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000",
-      "description": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2Y1aE8yU3FPWk4xeGNVa2NvWUpnc052OTBRRnN6WGxtTFJTZUNHN29DdVRvY2hhcmxpSXpCaG90eFJwSmItLWZldjJ3XzRHanpXUE8xUFhmQjV1Y2ZaZkdpcHdaTE5XdjZiR0lOd1U5VzNKU0VheFhoSWV3elF1a0dzM0FMN0FYSHhPQU1aWjRVQ3lwcGZaSEtZSnJxbE9UNjR0UE5NOVVWYXJE?oc=5",
+      "pub_date": 1789776727.0,
+      "article_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
     },
     {
-      "headline": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+      "headline": "AI Actress Tilly Norwood Stuns Piers Morgan After Glitching Mid-Interview",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0ZxV3IxN2ExRlJfU1BoT0ZBamJBbTV6NzIwM3UtM3ZBelpGa2NoWUFnMmtLYTJuUHNIdEozU2dDVElzVThTRXVOQk9nLTJKNzhBNURMV0o0bkdwVHl6ZjRjV1RoNVpycEV6dG9vT2JLeUhMb0RFblo3XzdiOWJUb25BNFhxY0daQTNmX2JiX0haOVBVZzB1bg?oc=5",
+      "pub_date": 1789768317.0,
+      "article_url": "https://www.yahoo.com/entertainment/tv/articles/ai-actress-tilly-norwood-stuns-215157959.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/2721a7f3019df565338ea2d5ac1e9968de247224b467e90a1e676ee21f70a5d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F1b734776153a51437af40bed31884404.jpg",
+      "description": "Piers Morgan was left stunned when AI actress Tilly Norwood switched to speaking Chinese in the middle of their interview."
+    },
+    {
+      "headline": "Warren Buffett found the most boring way to bet on AI",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
-      "pub_date": 1789750550.0,
-      "article_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
-      "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmVTQkIwd21yZDRYMDRoOVFrQjNLQTAxT1BuSnEybXliNG52MDVSd2lNT2hZbGxsUWlfWHktVHd0VmpsYWFBZm5udXVBVUFUMTk1MUdLV0xZT0R3eUQwTFRMejBHZmdyWVVMVU94NWdGTXp6b0RCMmtSSy1sbmNrZA?oc=5",
+      "pub_date": 1789813830.0,
+      "article_url": "https://www.cnn.com/2026/09/19/investing/warren-buffett-berkshire-ai-energy",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1140985419.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Warren Buffett became the world\u2019s most famous investor by betting on the boring stuff."
     },
     {
-      "headline": "Democrats call for investigation into faulty AI-generated intel report",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHYwdnhtaXRLd203TmJBQl9mclAzVEJGUDFvRmt6WVZFcmJ1VWtXalJFY1JFZmFQczJLb0dyVVp3dWVzVW9yRU1PUE1wZ3ZTSzgtQm9pWWhhOVVrTl9PNEVNaTl2VzByU2ZhNW5mRVBueFpmUFpPR3pDdGRrbll1cFFCbE5aT09SSGc?oc=5",
-      "pub_date": 1789839224.0,
-      "article_url": "https://www.cnn.com/2026/09/19/politics/democrats-letter-ai-investigation-military",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9756651.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A group of top Democratic senators is calling on government watchdogs to investigate a series of mistakes in US military targeting plans caused by artificial intelligence, after a CNN report detailed how one such error, according to a source familiar with the incident, \u201calmost started a war.\u201d"
-    },
-    {
-      "headline": "US woman falsely charged with bank theft sues for $10m over AI facial recognition",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnFmeUphSlpjOGdxM2JqNzZrSXM5d3l4S0hKN2hERk5uTXZ2b0RNZDlOZE9tRE54UVdBNW9GRDN5LTRDUUdlcmFvc296bTR5c1RONTRWRXp5N0xnNDVMNlRIQUtSdUZDUlhoblRhVUh3Y1ktLVBDd2s3LWs2dlBIcGhPUnRyX2ZzSzdPS0daSFJYQnJma05KalZWN2tVRUU?oc=5",
-      "pub_date": 1789777740.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
-      "image": "https://i.guim.co.uk/img/media/925c4c514dbf8fa03c1ff6c5a2515c8452a4ff3f/192_0_1461_1170/master/1461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab5b35dc7f5f178ca4f31a541818b44f",
-      "description": "Angela Lipps, 50, alleges in suit that Fargo police wrongly relied on AI facial recognition to arrest and charge her"
+      "headline": "What might an AI doomsday look like? Experts have given it some thought",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnZ3Y0JPQ1U1OGs5NUY5UjBVc3kxWjNGVjFieElrZ1lTcTZyNFBzOVFITk9sX2RLTXdKSmwtUGFGQnRtQWE0cTgyaDMtdW1EMDlIVTRpWnRSY2Rwcm4wNnY2M2hhRHpkUU9LWG8tRGtQU0VhTFVkbU5vNjlLS3AzeERrTQ?oc=5",
+      "pub_date": 1789808442.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg",
+      "description": "Researchers have worried about the increasing power of AI systems for years, but an explosion of interest has ignited old controversies about exactly how AI will cause chaos."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T18:43:21.532767+00:00"
+  "fetched_at": "2026-09-19T21:19:41.196960+00:00"
 }
