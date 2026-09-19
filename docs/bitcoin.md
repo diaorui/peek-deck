@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T18:43:25.599566+00:00'
+updated: '2026-09-19T21:19:45.363778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 18:43 UTC  
+**Last Updated:** September 19, 2026 at 21:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,748.66
+### $81,370.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +6.1%  
-**30d:** +4.1%  
-**90d:** +27.3%  
-**1y:** -29.6%  
+**24h:** -0.2%  
+**7d:** +5.4%  
+**30d:** +3.4%  
+**90d:** +26.5%  
+**1y:** -30.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1636.67B
+**Market Cap:** $1627.03B
 Rank #1
 
-**Circulating Supply:** 20,086,618 BTC
+**Circulating Supply:** 20,086,640 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.4%
+-35.8%
 
 **All-Time Low:** $67.81
-+120050.4%
++119329.3%
 
 ---
 
@@ -157,7 +157,7 @@ No future major uncertain policy changes, should be up from here.
 
 Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -165,31 +165,7 @@ Yahoo Finance • 6h ago
 
 "Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
 
-coindesk.com • 6h ago
-
----
-
-**[This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know](https://finance.yahoo.com/markets/crypto/articles/bitcoin-signal-flashed-just-4-163011340.html)**
-
-Bitcoin’s rebound above $80,000 puts focus on whether demand and longer-term technical levels could support further gains.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations](https://finance.yahoo.com/markets/crypto/articles/bitcoins-sharpest-rally-two-years-160103232.html)**
-
-A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Seminole County gas station stops Bitcoin ATM scams](https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678)**
-
-A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims.
-
-WESH • 16h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -197,7 +173,7 @@ WESH • 16h ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-VanEck • 1d ago
+vaneck.com • 1d ago
 
 ---
 
@@ -213,15 +189,15 @@ CNBC • 1d ago
 
 Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings ↪️ Thunderpick 🎁 100% up to €2,000 4.8/5 ⭐ ↪️ JACK.com 🎁 100 Wager-Free Free Spins 4.8/5 ⭐ ↪️ BitStarz 🎁 300% up to 5 BTC + 180 Free Spins 4.9/5 ⭐ ↪️ Lucky Rebel (USA only) 🎁 200% up to $2,500 + 50...
 
-Muddy River Sports • 1d ago
+muddyriversports.com • 1d ago
 
 ---
 
-**[A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted — roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)**
+**[Why Bitcoin Is Up Today](https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/)**
 
-As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
+Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
 
-Space Daily • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -229,7 +205,31 @@ Space Daily • 2d ago
 
 The CFTC has already sent a proposal to the White House following this week's failed Clarity Act vote.
 
-Bitcoin Magazine • 22h ago
+bitcoinmagazine.com • 1d ago
+
+---
+
+**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin shows strong demand as entity-adjusted SOPR stays above 1](https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/)**
+
+Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco…
+
+TradingView • 11h ago
+
+---
+
+**['Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead](https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860)**
+
+Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
+
+The Block • 1d ago
 
 ---
 
@@ -239,7 +239,7 @@ Bitcoin Magazine • 22h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 311 • 💬 267 • 2d ago
+⬆️ 312 • 💬 267 • 2d ago
 
 ---
 
@@ -269,7 +269,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 1 • 💬 3 • 6h ago
+⬆️ 1 • 💬 3 • 8h ago
 
 ---
 
@@ -289,14 +289,6 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ---
 
-**[Revolut handed over personal details to fake government request](https://news.ycombinator.com/item?id=49676088)**
-
-Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.
-
-⬆️ 2 • 💬 0 • 6d ago • [The Crypto Times](https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -307,17 +299,7 @@ Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy W
 
 📺 Lark Davis
 
-👁️ 14K • 👍 481 • 💬 23 • ⏱️ 6:51 • 6h ago
-
----
-
-**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
-
-Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 41K • 👍 1K • 💬 41 • ⏱️ 1:27 • 15h ago
+👁️ 20K • 👍 535 • 💬 24 • ⏱️ 6:51 • 9h ago
 
 ---
 
@@ -327,17 +309,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 5h ago
+👁️ 62K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 8h ago
 
 ---
 
-**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
+**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
 
-Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
+Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 208 • ⏱️ 16:49 • 20h ago
+👁️ 46K • 👍 1K • 💬 46 • ⏱️ 1:27 • 17h ago
 
 ---
 
@@ -347,37 +329,7 @@ Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week
 
 📺 Crypto Casey
 
-👁️ 7K • 👍 461 • 💬 55 • ⏱️ 6:21 • 4h ago
-
----
-
-**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
-
-Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
-
-📺 Altcoin Daily
-
-👁️ 79K • 👍 3K • 💬 219 • ⏱️ 13:18 • 17h ago
-
----
-
-**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
-
-Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
-
-📺 Gareth Soloway
-
-👁️ 110K • 👍 4K • 💬 171 • ⏱️ 11:24 • 1d ago
-
----
-
-**[🚀 Clarity Dies Bitcoin Flies: Hikes, Tokenization, AI, Oil, DEXs](https://www.youtube.com/watch?v=osP-Deenecc)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 54K • 👍 3K • 💬 122 • ⏱️ 24:24 • 23h ago
+👁️ 16K • 👍 592 • 💬 79 • ⏱️ 6:21 • 6h ago
 
 ---
 
@@ -387,17 +339,57 @@ Join Telegram & Talk about Crypto: https://t.me/+WPsnvLl_JKoFT8FB Bitcoin just h
 
 📺 CryptoJack
 
-👁️ 2K • 👍 199 • 💬 52 • ⏱️ 7:14 • 5h ago
+👁️ 6K • 👍 221 • 💬 62 • ⏱️ 7:14 • 8h ago
 
 ---
 
-**[BlackRock Confirmed Bitcoin Is Here To Stay](https://www.youtube.com/watch?v=ESF3DZooOLQ)**
+**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
 
-Jay Jacobs is the US Head of Equity ETFs at BlackRock. In this conversation, we break down the real impact of the bitcoin ETFs ...
+Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
 
-📺 Anthony Pompliano
+📺 Simply Bitcoin
 
-👁️ 80K • 👍 968 • 💬 27 • ⏱️ 50:39 • 1d ago
+👁️ 43K • 👍 2K • 💬 221 • ⏱️ 16:49 • 23h ago
+
+---
+
+**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 19K • 👍 444 • 💬 207 • ⏱️ 21:55 • 1d ago
+
+---
+
+**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
+
+Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 581 • 💬 137 • ⏱️ 1:06:33 • 1d ago
+
+---
+
+**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
+
+Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
+
+📺 Altcoin Daily
+
+👁️ 85K • 👍 3K • 💬 169 • ⏱️ 13:18 • 20h ago
+
+---
+
+**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+
+Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+
+📺 Gareth Soloway
+
+👁️ 112K • 👍 4K • 💬 171 • ⏱️ 11:24 • 1d ago
 
 ---
 

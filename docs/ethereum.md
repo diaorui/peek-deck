@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-19T18:43:25.605573+00:00'
+updated: '2026-09-19T21:19:45.368120+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 18:43 UTC  
+**Last Updated:** September 19, 2026 at 21:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +6.7%  
-**30d:** +5.1%  
-**90d:** +52.9%  
-**1y:** -41.0%  
+**24h:** +0.1%  
+**7d:** +5.9%  
+**30d:** +4.3%  
+**90d:** +51.8%  
+**1y:** -41.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $322.58B
+**Market Cap:** $320.50B
 Rank #2
 
 **Circulating Supply:** 122,061,837 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.6%
+-46.9%
 
 **All-Time Low:** $0.43
-+610151.3%
++606171.9%
 
 ---
 
@@ -144,7 +144,7 @@ NOTICE: This AMA is LIVE as of 16 September at 1400 UTC! It remains open until a
 
 We have a website with a system where users need to deposit money as a security deposit or collateral (Forum). For security and trust reasons, I don't want the money to be held directly by us. Instead, I'm looking into whether we could use a blockchain smart contract or some other decentralized solution to hold the funds. The idea is that people who advertise/promote content that has a deposit attached to it would receive a commission, for example 10% or 15%, based on predefined rules. The commission would be handled automatically by the system, while users would still be able to see and track their funds from their own wallets at all times. We are also considering creating a kind of hot wallet network that users could use to send and receive funds between each other within our platform. My main question is: would something like this be possible to build on the Ethereum network using smart contracts? I'm still researching the technical side of this and I don't know all the details yet, so I'd really appreciate any advice or suggestions from people who have experience with Ethereum, smart contracts, or similar systems. Thanks in advance, and I appreciate any input.
 
-6d ago
+7d ago
 
 ---
 
@@ -156,7 +156,7 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,15 +164,7 @@ coindesk.com • 1d ago
 
 Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH has since rebounded 10% from its recent low.
 
-24/7 Wall St. • 23h ago
-
----
-
-**[Ethereum breaks $2,500 after a month, showing s...](https://pluang.com/en/news-feed/tekanan-beli-kembali-ethereum-eth-sasar-3ribu)**
-
-Ethereum (ETH) has surged about 5.6%, closing above $2,500 for the first time in nearly a month, signaling a potential breakout from its previous sideways trading range. Currently trading around $2,644 with strong buying pressure confirmed by technical indicators like MACD and RSI, ETH faces resistance near $2,680 and targets up to $3,000 if momentum holds. However, the daily RSI indicates overbought conditions, suggesting caution as a short-term consolidation could occur. The next daily candle close above $2,500 will confirm if the breakout is sustained or if prices retreat back into the range.
-
-Pluang • 2h ago
+24/7 Wall St. • 1d ago
 
 ---
 
@@ -180,31 +172,29 @@ Pluang • 2h ago
 
 Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times](https://www.tradingview.com/news/cointelegraph:dc7cf012d094b:0-ethereum-institutional-signals-support-for-ethlabs-motion-to-reduce-ethereum-block-times/)**
+**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.tradingview.com/news/financemagnates:de97e038e094b:0-why-is-crypto-up-today-bitcoin-tops-80-000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
 
-Ethereum Institutional signaled support for Ethlabs’ motion to reduce block times and create a faster Ethereum to address increasing competition from other networks.“Make Ethereum faster,” wrote the non-profit organization in a Friday X post, arguing that reducing block times is needed as “more ins…
+The crypto market is up today (Friday), with Bitcoin back above $80,000 and Ethereum, XRP and Dogecoin rising 6% to 7%. Bitcoin traded at $80,914 on Binance at 18:07 UTC, up 5.9% on the day, while Ether rose 6.4% to $2,603, XRP gained 7.3% to $1.39 and Dogecoin added 7% to $0.0874 on Bitstamp.The m…
 
 TradingView • 1d ago
 
 ---
 
-**[New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700)**
+**[Crypto stocks surge as bitcoin and ethereum rally sharply](https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701)**
 
-MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
-
-markets.businessinsider.com • 3h ago
+Investing.com • 1d ago
 
 ---
 
-**[Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.](https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/)**
+**[Bitcoin Cracks $78,000 and Ethereum, XRP, Dogecoin May Be 'About To Explode'](https://www.benzinga.com/crypto/cryptocurrency/26/09/61866043/bitcoin-cracks-78000-and-ethereum-xrp-dogecoin-may-be-about-to-explode)**
 
-Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
+Bitcoin reclaims $78,000 as analysts see long-term upside; ETH targets $2,570-$3,000, XRP could reach $2, and DOGE signals a potential major rebound.
 
-The Motley Fool • 23h ago
+Benzinga • 1d ago
 
 ---
 
@@ -212,7 +202,23 @@ The Motley Fool • 23h ago
 
 The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
 
-Coinpedia • 7h ago
+Coinpedia • 10h ago
+
+---
+
+**[Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.](https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/)**
+
+Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
+
+The Motley Fool • 1d ago
+
+---
+
+**[New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700)**
+
+MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
+
+markets.businessinsider.com • 5h ago
 
 ---
 
@@ -221,14 +227,6 @@ Coinpedia • 7h ago
 Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model’s control.
 
 CryptoSlate • 2d ago
-
----
-
-**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
-
-Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
-
-Finance Magnates • 1d ago
 
 ---
 
@@ -242,7 +240,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 760 • 👍 18 • 💬 57 • ⏱️ 3:44 • 7h ago
+👁️ 1K • 👍 22 • 💬 58 • ⏱️ 3:44 • 9h ago
 
 ---
 
@@ -252,17 +250,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 9K • 👍 291 • 💬 14 • ⏱️ 9:40 • 11h ago
-
----
-
-**[REAL ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=isn8pKmNk0A)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 495 • 👍 23 • 💬 28 • ⏱️ 5:12 • 9h ago
+👁️ 10K • 👍 302 • 💬 15 • ⏱️ 9:40 • 14h ago
 
 ---
 
@@ -272,7 +260,7 @@ FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy
 
 📺 The Rollup
 
-👁️ 147 • 👍 5 • 💬 8 • ⏱️ 0:37 • 4h ago
+👁️ 278 • 👍 11 • 💬 14 • ⏱️ 0:37 • 7h ago
 
 ---
 
@@ -282,17 +270,17 @@ Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradec
 
 📺 Trade Confident
 
-👁️ 3K • 👍 19 • 💬 2 • ⏱️ 4:53 • 23h ago
+👁️ 3K • 👍 19 • 💬 2 • ⏱️ 4:53 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=_70E8VqinNY)**
+**[REAL ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=isn8pKmNk0A)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Profit First
+📺 Cilinix Crypto
 
-👁️ 663 • 👍 70 • ⏱️ 7:02 • 4h ago
+👁️ 670 • 👍 24 • 💬 6 • ⏱️ 5:12 • 11h ago
 
 ---
 
@@ -302,27 +290,7 @@ Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bi
 
 📺 VirtualBacon
 
-👁️ 11K • 👍 142 • 💬 20 • ⏱️ 1:07 • 1d ago
-
----
-
-**[BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mmpTNOFFvn8)**
-
-BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 16K • 👍 445 • 💬 167 • ⏱️ 26:00 • 15h ago
-
----
-
-**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
-
-RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
-
-📺 BULLRUNNERS
-
-👁️ 14K • 👍 268 • 💬 26 • ⏱️ 1:06 • 20h ago
+👁️ 11K • 👍 145 • 💬 18 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -332,7 +300,37 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 14K • 👍 222 • 💬 130 • ⏱️ 49:49 • 1d ago
+👁️ 14K • 👍 223 • 💬 130 • ⏱️ 49:49 • 2d ago
+
+---
+
+**[ETH Is One Close From A Breakout And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=qV44x4C-lkk)**
+
+Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedrip ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 15 • 💬 13 • ⏱️ 4:11 • 1d ago
+
+---
+
+**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
+
+RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
+
+📺 BULLRUNNERS
+
+👁️ 15K • 👍 283 • 💬 27 • ⏱️ 1:06 • 23h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=_70E8VqinNY)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 1K • 👍 79 • ⏱️ 7:02 • 7h ago
 
 ---
 
