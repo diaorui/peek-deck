@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
+      "pub_date": 1789754930.0,
+      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
+      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+    },
+    {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
       "source": "businessinsider.com",
       "source_url": "https://www.businessinsider.com",
@@ -15,14 +25,14 @@
       "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
     },
     {
-      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
-      "pub_date": 1789754930.0,
-      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
-      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+      "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
+      "pub_date": 1789747384.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67790149&width=1200&height=600&coordinates=0%2C2%2C0%2C2",
+      "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
     },
     {
       "headline": "Robotics: Firms race to improve robot training systems",
@@ -46,23 +56,13 @@
     },
     {
       "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
       "pub_date": 1789722230.0,
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
-      "pub_date": 1789747384.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67790149&width=1200&height=600&coordinates=0%2C2%2C0%2C2",
-      "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
     },
     {
       "headline": "Robotic lab sets up and runs optics experiments on demand",
@@ -73,6 +73,16 @@
       "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
       "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
       "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
+    },
+    {
+      "headline": "Humanoid Robots Break Records In Beijing",
+      "source": "DOGO News",
+      "source_url": "https://www.dogonews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTVxQ05XWDBxSTZQald6aUlMTnlmdW9IOXZlRmpCbUZTWEdUZTZWbmhrbFZNNWxnVlBteWpjSzNwZ1d5SUF1TUt6ank0MFVOSVNrU2RhazVXNVd6Tm16aHdYTk9RdTQ1VGJHbjl4ZkM1M3BEM2FJYlFFOUxLaWR1Sg?oc=5",
+      "pub_date": 1789746513.0,
+      "article_url": "https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing",
+      "image": "https://cdn4.dogonews.com/images/b70a8994-c5c5-412a-8072-ea0aacea1788/w020260815393558879739.png",
+      "description": "Humanoid Robots Break Records In Beijing has 16 comments."
     },
     {
       "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
@@ -93,18 +103,8 @@
       "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
       "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
       "description": "Seeing is Believing"
-    },
-    {
-      "headline": "KIDZ AI is developing robot lessons for schools after securing $1.9 million",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZU1lY0JzVEpUdTlyR3hyTWpCMXNramRqcWlJcFRaODlTajVCSmRKdEhOT21EMzM2a3FZTFd6NTRwY0JwR0xjWjl6Sm9rbGJiN2VpNi1QN3FJY245YXhFMy1Lb21hUkFNSzdzcEw2SnVETWQ4M0hZRzZFdW5YTTJwTTgzbTItVzVvdmFfal9MWlBZdE5jdFA0Qm01SnVFdnBUWlZaMGY5RS1oYUp0U0c4NTFlWktJNk0?oc=5",
-      "pub_date": 1789730400.0,
-      "article_url": "https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html",
-      "image": "https://www.stocktitan.net/news_covers/KIDZ_AI_Secures_New_Financing_to_Advance_KIDZBot_Physical_AI_Robotics_Ecosystem_1506331.webp",
-      "description": "KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T21:19:43.086192+00:00"
+  "fetched_at": "2026-09-19T23:21:16.620077+00:00"
 }
