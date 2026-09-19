@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
       "pub_date": 1789743537.0,
@@ -15,24 +15,34 @@
       "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
     },
     {
-      "headline": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLVdWcEc4MUdxT0xvVjRHb1ptTXhLZmx5SmNHdjZoLTFqUk9HbUhCYXZlSFM0TDJpenh3a3VBOVh6Y0sydWNLQXRrSGQ1eHc2UE5qYUdZZVBtSXJZWUY3bnBacWhZc1NpTVQydkpzWEg2ckJrM2dXUV9Cb1NSN3M?oc=5",
-      "pub_date": 1789768223.0,
-      "article_url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg",
-      "description": "A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union."
+      "headline": "BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVOa3BVUE1iUTV1MTdMOWcwcW1MaFNKREhLSmdiTUQteGY5QVFJZUFyUDBKSEU1UFFqQUxMSDZvdk9GZUd3MWJ1cnd5OU1hSklpbnZjLVRfZ2UtVzAwUVhGaUdwd2tpUlpFLUFZSWp5UUF3UDVaVHlBOTgtY1BSZ2NoMkRST3YxcGxVR09Pa1ZfemNZLW1TRG1mczZ4WGJkUDdUNFN6cFhQRTBFVkh0UEVmaGtqU2tP?oc=5",
+      "pub_date": 1789714343.0,
+      "article_url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint."
     },
     {
-      "headline": "$Bitcoin (BTC.CC)$",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WOVJaZnZVVVlYSWVQWmROVHVhNnRaeGdVSU1zazF5ZGYzZ3E3Z1plVzYyQ291RGU2eVBhd1FJUkF2Wk0xRlM2TldrSEJ0ZlV6by1KMTJMU3Z3a0NXWnltWThLeTlUemtpdzB6bUZzR0xTQkJfeGNn?oc=5",
-      "pub_date": 1789802397.0,
-      "article_url": "https://www.moomoo.com/community/feed/bitcoin-btc-cc-117296489890197",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/71887509/20260919/1789802383087-random2299-71887509-android-org.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "$Bitcoin (BTC.CC)$"
+      "headline": "Kevin O'Leary Names the One Thing Standing Between Bitcoin and $1 Million",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNaOC1JQndsN0s2ckFIRWlzR1hidkI5WXhzNkxLYlY5dVhfV1ZYOUF6aDhybmZTWlZSM0x6cHdHazlvSkFMZldzQVNFSWpUQ3dMWFIwZmd1RVJkdGV0REsyakdaOVBKcEZSQ2FCQXJUUUhqYVFOdTFBQzA1U2hOTTU3WHZqYmllT1AzSHpYR05LdzNSTmJ5OQ?oc=5",
+      "pub_date": 1789814949.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-names-one-thing-104909714.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/5ecf1ebee0b60fa7099013e62af7cab491274f853057a7874c17fdcb8234cced/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F16ac789813e71577b2b45b8f02104f3b.jpg",
+      "description": "Mr. Wonderful Kevin O'Leary backs $1 million Bitcoin on one condition, as 6.04 million BTC sit exposed to quantum risk."
+    },
+    {
+      "headline": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREJCWC1GV25HM0x1bTVJZ0pFNU85UmVXMHNRVWdNb0tyeTFKTnRUWFZMMVE0dEtRaHNLdHBpSDFlZ3ZzYm53d3dOb3RFYmwzdVd2a0E0WGRqUkppeXN1bDRhRWYxYUpxZ2Y3U0VPYkk4X3htZWtVQ0ZyenVXVWNsdmI2TjAtWGdnZGF2b25kR3pRaU9YdmFmS3h1a2tTZlZ4dTFoVldmLVotSWRTVUUwV25ENFlGczJLdl9FS2xKak5TQ0NQdXRheXhxU1g?oc=5",
+      "pub_date": 1789819195.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin has jumped more than 3% on a week when the headlines were not in its favor."
     },
     {
       "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
@@ -65,24 +75,24 @@
       "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
     },
     {
+      "headline": "Bitcoin shows strong demand as entity-adjusted SOPR stays above 1",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FFbnJUc0MtT3diNFFMTGNxak8tQkJZclVrWG51NW1MN1VqdHdLQUlQbzVEa2pPUlotbzVSblZmNXhiTGtCVjJLWmdYTzJGNmhfSkxLcGEwN01aZDZ4d3oxNW5PTGRNMC1ieEczYTdyZFBPRjFtcUtyby1UajJMSWx1UlNsTWxMZGVQZDAwbEpuQnZCd1dzdzBOTDhGbW13TzJ3bm9XbTNwM3ZOdUc1UnFQSjNLTkdVSXhXcDdxM1NGU19mbUtUWnVB?oc=5",
+      "pub_date": 1789811605.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco\u2026"
+    },
+    {
       "headline": "Current price of Bitcoin for September 18, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
-      "pub_date": 1789732800.0,
+      "pub_date": 1789733187.0,
       "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "\u2018I\u2019m Back\u2019\u2014Kevin O\u2019Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXR5R3FZX0lzZWdBY0hpcG5BWWlKRS13VG9FVzZYOERyZ3l0RDlYOUxsYk15YXNIT1pLMnFNelMyTTdpbkhKeFE5LTVoTXpHcmNhTlVUR2FnZ1V4bFI2d1ZJTDdpMS03YXd2UE83T1psNjc5RGRIdnRhQzIxZE03TTQ4WWwzYVpNVTBKNDZnaUZTZ2c0YjlyMTI1OWhLckQ2LWRzVE1NZ1JBbmpxcTlpSkg2NUNqQUZrOXdnWUhrYU1ZazUtamRUbTRpTlUtMXZFZUZZ?oc=5",
-      "pub_date": 1789732114.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "'Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead",
@@ -93,18 +103,8 @@
       "article_url": "https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_4.jpg",
       "description": "Demirors said crypto\u2019s head start in specialized hardware and cheap power has helped fuel today\u2019s AI infrastructure buildout."
-    },
-    {
-      "headline": "Why Bitcoin Is Up Today",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdUlfRXplbjNVTThoZzZqWGF2MjlvU1RlMjh1aEF0TFRCWkZTX19Ia0JBNGxWYXFIYjVZNmd1aGpNSml0V1dGZDJpQWx2VVBBaTE1SzY1Y3Q1bFBaRUhLT1QtUUtfelZiblowc0lvaHVKOGlK?oc=5",
-      "pub_date": 1789761480.0,
-      "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
-      "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T08:16:01.242558+00:00"
+  "fetched_at": "2026-09-19T12:37:59.386510+00:00"
 }
