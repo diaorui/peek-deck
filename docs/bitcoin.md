@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T03:30:12.864999+00:00'
+updated: '2026-09-19T08:16:10.562471+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 03:30 UTC  
+**Last Updated:** September 19, 2026 at 08:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,289.24
+### $81,054.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.7%  
+**24h:** +3.9%  
 **7d:** +5.7%  
 **30d:** +3.7%  
-**90d:** +26.8%  
+**90d:** +26.9%  
 **1y:** -29.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1630.18B
+**Market Cap:** $1631.15B
 Rank #1
 
-**Circulating Supply:** 20,086,368 BTC
+**Circulating Supply:** 20,086,450 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
 -35.6%
 
 **All-Time Low:** $67.81
-+119593.3%
++119640.5%
 
 ---
 
@@ -153,31 +153,27 @@ No future major uncertain policy changes, should be up from here.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
+**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
 
-Barron's • 8h ago
+Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
 
----
-
-**[BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June](https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says)**
-
-The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.
-
-CoinDesk • 20h ago
+Yahoo Finance • 17h ago
 
 ---
 
-**[Gold and Bitcoin Are Starting to Rhyme? — But They Are Still Not the Same Hedge](https://www.moomoo.com/community/feed/gold-and-bitcoin-are-starting-to-rhyme-but-they-are-117295253422086)**
+**[European Central Bank President Blocked Binance’s EU Entry: Report](https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance)**
 
-The more important question is not whether Bitcoin is “digital gold.” It is whether the two assets are beginning to respond to the same macro forces.  For a long time, gold and Bitcoin belonged to very different parts of the market.  Gold was associated with monetary uncertainty, falling real yields, currency weakness, geopolitical stress and reserve diversification. Bitcoin was driven more heavily by adoption, crypto...
+A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union.
 
-Moomoo • 1h ago
+Bitcoin Magazine • 10h ago
 
 ---
 
-**[Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure](https://ng.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-2701932)**
+**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117296489890197)**
 
-Investing.com Nigeria • 26m ago
+$Bitcoin (BTC.CC)$
+
+Moomoo • 56m ago
 
 ---
 
@@ -185,7 +181,15 @@ Investing.com Nigeria • 26m ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-VanEck • 15h ago
+VanEck • 20h ago
+
+---
+
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
+
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
+
+CNBC • 1d ago
 
 ---
 
@@ -197,33 +201,33 @@ Muddy River Sports • 1d ago
 
 ---
 
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-CNBC • 21h ago
-
----
-
 **[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-fortune.com • 10h ago
-
----
-
-**[Bitcoin Community Recognizes Quantum Computing Risk: VanEck](https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk)**
-
-Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk.
-
-Bitcoin Magazine • 11h ago
+Fortune • 20h ago
 
 ---
 
 **[‘I’m Back’—Kevin O’Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
 
-Forbes • 15h ago
+Forbes • 20h ago
+
+---
+
+**['Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead](https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860)**
+
+Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
+
+The Block • 14h ago
+
+---
+
+**[Why Bitcoin Is Up Today](https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/)**
+
+Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
+
+The Motley Fool • 12h ago
 
 ---
 
@@ -317,47 +321,7 @@ Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vot
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 101 • ⏱️ 16:49 • 5h ago
-
----
-
-**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
-
-Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
-
-📺 Gareth Soloway
-
-👁️ 78K • 👍 3K • 💬 131 • ⏱️ 11:24 • 9h ago
-
----
-
-**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 10K • 👍 344 • 💬 170 • ⏱️ 21:55 • 7h ago
-
----
-
-**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
-
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
-
-📺 Bloomberg Television
-
-👁️ 10K • 👍 102 • 💬 9 • ⏱️ 10:06 • 7h ago
-
----
-
-**[🚀 Clarity Dies Bitcoin Flies: Hikes, Tokenization, AI, Oil, DEXs](https://www.youtube.com/watch?v=osP-Deenecc)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
-
-📺 InvestAnswers
-
-👁️ 33K • 👍 2K • 💬 85 • ⏱️ 24:24 • 8h ago
+👁️ 29K • 👍 1K • 💬 125 • ⏱️ 16:49 • 10h ago
 
 ---
 
@@ -367,7 +331,37 @@ Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ..
 
 📺 Altcoin Daily
 
-👁️ 366 • 👍 42 • ⏱️ 1:27 • 8m ago
+👁️ 10K • 👍 516 • 💬 14 • ⏱️ 1:27 • 4h ago
+
+---
+
+**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+
+Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+
+📺 Gareth Soloway
+
+👁️ 92K • 👍 3K • 💬 145 • ⏱️ 11:24 • 14h ago
+
+---
+
+**[Bitcoin - Look To See If It&#39;s A Lower High Or Higher High](https://www.youtube.com/watch?v=9nCz29dOcqg)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 39K • 👍 583 • 💬 22 • ⏱️ 0:55 • 2d ago
+
+---
+
+**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
+
+WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
+
+📺 Altcoin Daily
+
+👁️ 104K • 👍 4K • 💬 152 • ⏱️ 12:52 • 2d ago
 
 ---
 
@@ -377,37 +371,47 @@ Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stro
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 540 • 💬 147 • ⏱️ 1:06:33 • 13h ago
+👁️ 23K • 👍 562 • 💬 102 • ⏱️ 1:06:33 • 18h ago
 
 ---
 
-**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
+**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
 
-Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
+Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
 
-📺 Crypto Zombie
+📺 Bloomberg Television
 
-👁️ 22K • 👍 1K • 💬 125 • ⏱️ 28:09 • 11h ago
-
----
-
-**[🚨🚨A Bitcoin Emergency!!!!!!!!!!!!!! Watch Immediately! BTC Elliott Wave Update🚨🚨](https://www.youtube.com/watch?v=dBNDqjSrFr8)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 5K • 👍 527 • ⏱️ 31:06 • 5h ago
+👁️ 14K • 👍 113 • 💬 9 • ⏱️ 10:06 • 11h ago
 
 ---
 
-**[Bitcoin &amp; Crypto-Stocks Soar Into Weekend | Closing Bell](https://www.youtube.com/watch?v=PsdnP-DAWQE)**
+**[Crypto Lost the CLARITY Act. Then Won 3 Times in 48 Hours.](https://www.youtube.com/watch?v=AqOn66CJduw)**
 
-Watch comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and ...
+The CLARITY Act died in the Senate 49 to 50. The biggest crypto legislation news of the week was not that vote. It was the crypto ...
 
-📺 Bloomberg Podcasts
+📺 Dana Love, PhD
 
-👁️ 1K • 👍 10 • 💬 1 • ⏱️ 10:06 • 6h ago
+👁️ 46K • 👍 1K • 💬 107 • ⏱️ 24:47 • 15h ago
+
+---
+
+**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
+
+Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
+
+📺 Altcoin Daily
+
+👁️ 34K • 👍 2K • 💬 89 • ⏱️ 13:18 • 7h ago
+
+---
+
+**[🚨 &quot;No CLARITY Act, NO PROBLEM!&quot; The SEC &amp; CFTC HUGE Crypto Plans!](https://www.youtube.com/watch?v=GnDDbJ51xN8)**
+
+With the failed Clarity Act vote in the Senate the SEC and CFTC vow to provide crypto regulatory guidance. ⭐️ Trade crypto ...
+
+📺 Thinking Crypto
+
+👁️ 21K • 👍 355 • 💬 31 • ⏱️ 1:26 • 1d ago
 
 ---
 

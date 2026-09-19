@@ -13,6 +13,17 @@
       "description": "The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians."
     },
     {
+      "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
+      "author": "theepi_pillodu",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
+      "published": 1789783192.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
+    },
+    {
       "title": "The internet is inbreeding.",
       "author": "Tricky_Hope_6746",
       "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
@@ -46,17 +57,6 @@
       "description": "The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta."
     },
     {
-      "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
-      "author": "theepi_pillodu",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
-      "published": 1789783192.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
-    },
-    {
       "title": "California Gov. Gavin Newsom inks AI oversight executive order to improve safety 'before it's too late'",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1wk7xu2/california_gov_gavin_newsom_inks_ai_oversight/",
@@ -66,17 +66,6 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "Newsom is the latest Democrat and potential White House contender to call for regulation of AI amid concerns over the rapidly advancing technology."
-    },
-    {
-      "title": "Which AI is worth subscribing too.",
-      "author": "canicular_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk7pxs/which_ai_is_worth_subscribing_too/",
-      "published": 1789778870.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m currently using free versions of all the popular AI\u2019s. If I were to subscribe to just on, at the going rate of \u00a320/month, which one stands out as offering the most, as in, writing code, producing top notch infographics, Engineering solutions. Any advice will be very much appreciated, thank you."
     },
     {
       "title": "Gemini hacked three companies in first known breakout by Google's AI",
@@ -90,6 +79,17 @@
       "description": "Google's opens new tab Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, \u200bthe first known example of the company's AI systems autonomously committing \u200csuch an act."
     },
     {
+      "title": "AI Hate.",
+      "author": "Illustrious_Job8884",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk76kr/ai_hate/",
+      "published": 1789777375.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been thinking about this after posting in a Brazilian community. My original point was basically this: Using Claude at work isn't about using it as a replacement for Google or blindly asking it to do your job. It's about understanding your own processes well enough to recognize where AI can automate, simplify, or improve them. I said that the real problem isn't someone who doesn't use AI. It's the employee who doesn't understand the processes they're executing, can't identify unnecessary steps, and treats their workflow as something that must simply be followed because \"that's how it's done.\" The post got a lot of negative responses, but surprisingly few people actually argued against that point. Most of the pushback seemed to be directed at AI itself Concerns about hallucinations, laziness, job replacement, people becoming dependent on it, etc. That got me wondering: Would people react the same way if I replaced \"AI\" with \"Excel\"? Imagine the exact same argument: \"Don't use Excel as a calculator. Understand your process first, then identify what Excel can automate, simplify, or eliminate.\" Nobody would find that particularly controversial. And if someone said: \"The problem isn't people who don't use Excel. The problem is employees who spend hours manually doing repetitive work without understanding that the process could be automated.\" That would probably be interpreted as normal workplace advice. But replace Excel with AI, and suddenly the discussion becomes much more emotional. I'm not saying AI is equivalent to Excel, or that every task should be handed over to an LLM. AI has obvious limitations, and understanding when not to use it is part of knowing how to use it. What i find interesting is the difference in the reaction. Why does AI seem to trigger so much more hostility than other tools that also automate work?"
+    },
+    {
       "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
       "author": "Adventurous-Host8062",
       "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
@@ -101,16 +101,16 @@
       "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
     },
     {
-      "title": "AI in DC?",
-      "author": "AutonomousHoag",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkb16p/ai_in_dc/",
-      "published": 1789788368.0,
+      "title": "Built a complete AI Analytics dashboard for B2B SaaS feedback at age 13.",
+      "author": "Decent_Grape_1059",
+      "url": "https://www.reddit.com/r/artificial/comments/1wke6f1/built_a_complete_ai_analytics_dashboard_for_b2b/",
+      "published": 1789798157.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I\u2019m not sure what I was expecting as a tech/AI-focused lawyer coming from SF, but spending a few days in DC right now, I\u2019m utterly stunned by the complete lack of conversation about AI at restaurants, cafes, etc."
+      "description": "Hey guys, I wanted to show you my latest project that combines LLMs with product management. It\u2019s a B2B SaaS platform called FeedbackAI (temporary name). How the AI Engine works in the app: When a raw user comment comes in (e.g., \"The mobile app is loading extremely slow on my phone\"), the background AI automatically parses it and structured outputs it into: - Category: Performance - Priority: High - Summary: \"Improve mobile speed\" It also clusters similar feedbacks together to create global recommendations for product teams. I\u2019m 13 and still learning, so this is currently a non-commercial validation project. The app is live but locked with a password so my OpenAI credits don't vanish overnight. Bypass Code: BETA2026 Link: https://feedback-ai-beta.lovable.app Would love to get some feedback on how the AI behaves and if you can manage to break the input parser! (This isn\u2019t self-promotion, just asking for your opinions)"
     }
   ],
-  "fetched_at": "2026-09-19T03:29:50.353651+00:00"
+  "fetched_at": "2026-09-19T08:15:41.598640+00:00"
 }

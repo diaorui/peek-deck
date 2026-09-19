@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T03:30:12.874302+00:00'
+updated: '2026-09-19T08:16:10.569898+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 03:30 UTC  
+**Last Updated:** September 19, 2026 at 08:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-4d ago
+5d ago
 
 ---
 
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-Business Insider • 18h ago
+Business Insider • 23h ago
 
 ---
 
@@ -124,13 +124,19 @@ Business Insider • 18h ago
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-The Robot Report • 9h ago
+The Robot Report • 14h ago
 
 ---
 
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg.com • 18h ago
+Bloomberg • 23h ago
+
+---
+
+**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
+
+reuters.com • 20h ago
 
 ---
 
@@ -138,13 +144,7 @@ Bloomberg.com • 18h ago
 
 US Must Act to Counter China's Combat Robotics Dominance
 
-yahoo.com • 17h ago
-
----
-
-**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
-
-Reuters • 15h ago
+Yahoo • 22h ago
 
 ---
 
@@ -160,7 +160,7 @@ BBC • 1d ago
 
 The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
 
-MIT News • 1d ago
+MIT News • 2d ago
 
 ---
 
@@ -182,7 +182,7 @@ The Conversation • 2d ago
 
 KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled.
 
-Stock Titan • 16h ago
+Stock Titan • 20h ago
 
 ---
 
@@ -190,13 +190,13 @@ Stock Titan • 16h ago
 
 ## YouTube Videos: "robotics"
 
-**[IFA 2026 Revealed How Shockingly Human Robots Are Becoming](https://www.youtube.com/watch?v=pI2kpu-Kal8)**
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
-Chinese robots just took over Berlin — and IFA 2026 might be the moment humanoidXiaomi walked CyberOne straight into the ...
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
 
-📺 The AI Nexus
+📺 Reward AI
 
-👁️ 26K • 👍 320 • 💬 20 • ⏱️ 24:48 • 6d ago
+👁️ 129K • 👍 1K • 💬 106 • ⏱️ 2:20 • 4d ago
 
 ---
 
@@ -206,7 +206,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 548K • 👍 8K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 565K • 👍 9K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -226,17 +226,7 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 12K • 👍 90 • 💬 27 • ⏱️ 2:56 • 1d ago
-
----
-
-**[Figure Helix 2.5 Robot Works in Homes It Has Never Seen](https://www.youtube.com/watch?v=JBoghD18rCo)**
-
-Figure's new Helix 2.5 humanoid robot system is being tested inside 30 homes it has never seen before. Even more impressive ...
-
-📺 DPCcars
-
-👁️ 5K • 👍 25 • 💬 7 • ⏱️ 9:19 • 13h ago
+👁️ 13K • 👍 96 • 💬 30 • ⏱️ 2:56 • 1d ago
 
 ---
 
@@ -246,27 +236,7 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 121K • 👍 925 • 💬 334 • ⏱️ 1:04 • 3d ago
-
----
-
-**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
-
-In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
-
-📺 Steven Ndukwu
-
-👁️ 602K • 👍 6K • 💬 848 • ⏱️ 27:23 • 6d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 11K • 👍 223 • 💬 25 • ⏱️ 57:02 • 3d ago
+👁️ 123K • 👍 934 • 💬 345 • ⏱️ 1:04 • 3d ago
 
 ---
 
@@ -276,17 +246,47 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 403K • 👍 20K • 💬 498 • ⏱️ 0:37 • 4d ago
+👁️ 407K • 👍 20K • 💬 499 • ⏱️ 0:37 • 4d ago
 
 ---
 
-**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 Dear Time
+📺 The AI Nexus
 
-👁️ 22K • 👍 129 • 💬 4 • ⏱️ 20:25 • 5d ago
+👁️ 12K • 👍 226 • 💬 25 • ⏱️ 57:02 • 4d ago
+
+---
+
+**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
+
+In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
+
+📺 Steven Ndukwu
+
+👁️ 609K • 👍 6K • 💬 865 • ⏱️ 27:23 • 6d ago
+
+---
+
+**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
+
+Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
+
+📺 Unseen Vault
+
+👁️ 228K • 👍 6K • 💬 327 • ⏱️ 33:11 • 6d ago
+
+---
+
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
+
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
+
+📺 NextGen Humanoids
+
+👁️ 41K • 👍 272 • 💬 62 • ⏱️ 11:33 • 3d ago
 
 ---
 
