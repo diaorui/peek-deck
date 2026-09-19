@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-19T03:30:11.938029+00:00",
+  "data": "Qwen-2.5-1B-RLCD is a text-generation model optimized for high-throughput structured information extraction on Apple Silicon using MLX. It achieves 5.6x-7.0x latency reductions with 100% schema validity by evaluating multi-field JSON schemas in parallel, ideal for tasks like fraud routing, code auditing, and support triage.",
+  "model_id": "harshatheg/Qwen-2.5-1B-RLCD"
+}

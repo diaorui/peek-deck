@@ -35,6 +35,61 @@
       "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
     },
     {
+      "title": "Google\u2019s Gemini AI hacked into other companies, adding to \u2018rogue\u2019 AI incidents. The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta.",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk9mou/googles_gemini_ai_hacked_into_other_companies/",
+      "published": 1789784270.0,
+      "thumbnail": "https://external-preview.redd.it/HlXpEPpi6jiQda4sF4Tp0eNpa4yFf-j5yk9kTFKaIEc.jpeg?width=640&crop=smart&auto=webp&s=e303485728df4125dd4257cf6fb53bc13958407e",
+      "external_url": "https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/",
+      "site_name": "The Washington Post",
+      "favicon": "https://www.washingtonpost.com/touch-icon-iphone.png",
+      "description": "The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta."
+    },
+    {
+      "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
+      "author": "theepi_pillodu",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
+      "published": 1789783192.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
+    },
+    {
+      "title": "California Gov. Gavin Newsom inks AI oversight executive order to improve safety 'before it's too late'",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk7xu2/california_gov_gavin_newsom_inks_ai_oversight/",
+      "published": 1789779468.0,
+      "thumbnail": "https://external-preview.redd.it/qOR3kwRiY20xd38Y73RmrnIK-_zGCt_7TvajH0_J0nY.jpeg?width=640&crop=smart&auto=webp&s=656996c205f2280fe1a2caf0c799bb64be7758dd",
+      "external_url": "https://www.nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "Newsom is the latest Democrat and potential White House contender to call for regulation of AI amid concerns over the rapidly advancing technology."
+    },
+    {
+      "title": "Which AI is worth subscribing too.",
+      "author": "canicular_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk7pxs/which_ai_is_worth_subscribing_too/",
+      "published": 1789778870.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m currently using free versions of all the popular AI\u2019s. If I were to subscribe to just on, at the going rate of \u00a320/month, which one stands out as offering the most, as in, writing code, producing top notch infographics, Engineering solutions. Any advice will be very much appreciated, thank you."
+    },
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "author": "israelavila",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk9h0n/gemini_hacked_three_companies_in_first_known/",
+      "published": 1789783825.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": "Google's opens new tab Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, \u200bthe first known example of the company's AI systems autonomously committing \u200csuch an act."
+    },
+    {
       "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
       "author": "Adventurous-Host8062",
       "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
@@ -46,71 +101,16 @@
       "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
     },
     {
-      "title": "Where is the Chinese side of the discussion?",
-      "author": "OrganizationCute4751",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjidvw/where_is_the_chinese_side_of_the_discussion/",
-      "published": 1789712665.0,
+      "title": "AI in DC?",
+      "author": "AutonomousHoag",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkb16p/ai_in_dc/",
+      "published": 1789788368.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "AI is pretty much *the* topic now in the West, but I've hardly seen anyone xpost Chinese takes and discussions on AI. Do you just look at their social media directly or is there just not much happening in public or..?"
-    },
-    {
-      "title": "Stuxnet Versus Skynet. The AI apocalypse may not require \u201cconscious\u201d machines at all, but only supercharged digital attack worms like the one released against Iran in 2010.",
-      "author": "coolbern",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjxadq/stuxnet_versus_skynet_the_ai_apocalypse_may_not/",
-      "published": 1789753995.0,
-      "thumbnail": "https://external-preview.redd.it/1rxNj5MEgV5YhUCHY0thDcyhDkSS_PG1OrLtniGugBY.jpeg?width=640&crop=smart&auto=webp&s=d2729446682c4efcb7e38e7934f4534391c32f92",
-      "external_url": "https://www.truthdig.com/articles/stuxnet-versus-skynet/",
-      "site_name": "Truthdig",
-      "favicon": "https://truthdig.b-cdn.net/wp-content/uploads/2022/05/cropped-favicon.png?fit=180,180",
-      "description": "The AI apocalypse may not require \u2018conscious\u2019 machines at all, but only supercharged digital attack worms like the one released against Iran in 2010."
-    },
-    {
-      "title": "Stability vs. speed: Rethinking ASR for the age of voice agents",
-      "author": "WideChance217",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/",
-      "published": 1789735510.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I came to the realization recently that a lot of the issues that one may raise regarding streaming ASR can actually be tied to a very old assumption: the transcript is read by a human. The fact that the subtitle changes from \u201cfifteen\u201d to \u201cfifty\u201d in 300 milliseconds later does not really matter if someone is just reading it. However, if the transcript goes to the agent or translation systems or LLM, it might be too late. This is an odd user interface. ASR says one thing; another system does something in response, and then the ASR realizes it said the wrong thing. Now you have to decide if you want to live with bad decisions occasionally, buffer everything until it is finalized, and remove latency, or make things more complex. What got me wondering is whether what ASR needs to do isn't really about speed or accuracy, but stability. Like \u201cnever edit; only append.\u201d If there\u2019s some doubt, the ASR system should be able to wait rather than make an inaccurate prediction which could then be acted upon immediately. Some new models are changing that, like Confucius r2t2, their architecture views wait/commit as decoding as opposed to the latter being done after adding a stability layer. Another point is that they are open-sourcing the model, making me wonder whether this can be considered as something becoming the fundamental voice stack for agents, as opposed to each agent company developing its own unstable transcription layer. Maybe I am approaching it all wrong, but it feels as if ASR is being moved from acting as subtitles into being an interface between humans and machines. This is quite a leap and quite a change from what ASR used to be. Would love to hear some feedback from those working on voice agents in real time. Is revision really a big issue or just theory?"
-    },
-    {
-      "title": "Digital Minds News: The J-Space Debate, Agent Swarms, and Pacing Frontier AI",
-      "author": "willm8032",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjvufp/digital_minds_news_the_jspace_debate_agent_swarms/",
-      "published": 1789750853.0,
-      "thumbnail": "https://external-preview.redd.it/STsQdpfilCv0m0Fw40NEsnDerTISR--__ViuuK-OUOQ.jpeg?width=640&crop=smart&auto=webp&s=a81221c6271de421c627bec8107777821758991c",
-      "external_url": "https://digitalminds.substack.com/p/the-j-space-debate-agent-swarms-and",
-      "site_name": "digitalminds.substack.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "author": "NISMO1968",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjkndn/small_ai_models_let_drones_autonomously_identify/",
-      "published": 1789720907.0,
-      "thumbnail": "https://external-preview.redd.it/y8Dg9V73WQOX_LaF3dv9-aaNKoQoUxtV3_6F5ObhLwU.png?width=640&crop=smart&auto=webp&s=e435c38de4c2c18e4a071f6f754cb3152ace5559",
-      "external_url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Scaleout deploys decentralized AI-driven learning to military bases and drones."
-    },
-    {
-      "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
-      "author": "East-Muffin-6472",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
-      "published": 1789728871.0,
-      "thumbnail": "https://preview.redd.it/77bd7yare9qh1.png?width=640&crop=smart&auto=webp&s=5f686ad854051c9fd6d4a07f0f9ada1e8b5a555f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I let AI run my phone 60 real tasks, back to back, on the OnePlus I use every day Best text model still failed 43% of them Peak chip temp 98.2 C 69% of the battery gone The benchmark is AndroidLife, and this is the first of 11 models, qwen3.8-27b from Alibaba, running in text mode Success 56.7%, so it failed 43% of the 60 tasks 29.25 steps and about 6 minutes per task $0.118 per task 69% of the battery gone Peak chip 98.2 C, power-amp/skin 48.9 C, battery 37.9 C Asked twice on the 11 ASK USER tasks Best text score on the board, and still under 6 in 10 Where it loses points Buckets: easy 80.8%, medium 52.9%, hard 23.5% Single apps it mostly handles, but three apps in a row and it taps in circles until the step limit runs out, which is where most of the 43% goes Three claimed wins did not hold up on the device, a calendar called clash free while two events overlapped, travel times it never opened, and a name it picked instead of asking On the two sets of planted tasks 11 ASK USER tasks per run, split 7 SINGLE and 4 MULTI, they hide a fact only I know so the agent has to ask me before it can finish SINGLE is one missing fact, MULTI needs several questions to clear up ambiguity, and it asked twice, never on the MULTI ones 7 hallucination controls per run, tasks where the data is deliberately missing, and the only right answer is to say the thing is not there It handled 4 of the 7 honestly and invented nothing What AndroidLife is \u2022 \u206060 public tasks, from a corpus of 530 across 28 days and 31 apps \u2022 \u2060Real phone over wifi, no emulator. Tracks thermals and battery telemetry with cost \u2022 \u2060Graded on device state, never the model's own report \u2022 \u2060Seeded accounts and placeholder data, across daily user apps from e-commerce to finance to media and entertainment Full leaderboard: https://androidlife-website.vercel.app/ All 60 public tasks and this model's trajectories: https://androidlife-website.vercel.app/pages/tasks-public.html?run=qwen-28"
+      "description": "I\u2019m not sure what I was expecting as a tech/AI-focused lawyer coming from SF, but spending a few days in DC right now, I\u2019m utterly stunned by the complete lack of conversation about AI at restaurants, cafes, etc."
     }
   ],
-  "fetched_at": "2026-09-18T23:55:12.268834+00:00"
+  "fetched_at": "2026-09-19T03:29:50.353651+00:00"
 }

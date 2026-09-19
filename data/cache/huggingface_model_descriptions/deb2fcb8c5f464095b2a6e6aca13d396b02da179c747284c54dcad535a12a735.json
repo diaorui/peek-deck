@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-19T03:30:11.414504+00:00",
+  "data": "Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for complex engineering tasks and agent-oriented architectures. It features a 256K context length (extensible to 512K) and supports multi-step planning and tool calling, making it suitable for domain-specific fine-tuning in areas like contract auditing and knowledge-based QA.",
+  "model_id": "XingChen-AGI/Xing4.0-29B-A4B"
+}

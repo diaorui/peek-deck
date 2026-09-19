@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
+      "pub_date": 1789722000.0,
+      "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
+      "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
+      "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
+    },
+    {
       "headline": "SoftBank agrees to acquire Robotics and AI Institute",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -13,16 +23,6 @@
       "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
       "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
-    },
-    {
-      "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
-      "pub_date": 1789722014.0,
-      "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
-      "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
-      "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
     },
     {
       "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
@@ -35,14 +35,14 @@
       "description": null
     },
     {
-      "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
-      "pub_date": 1789747384.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67790149&width=1200&height=600&coordinates=0%2C2%2C0%2C2",
-      "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
+      "headline": "US Must Act to Counter China's Combat Robotics Dominance",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXhHY3Y3M0FHME9DWVNIODR5bmExMHRVdTVvTzN5Rm1DRTI0ekUydDJNVlBGaU1uLXpWd1RDS1pUZnFjbkRvMjNOZDhYcHhSbUs3OG5oRDRtUXY2c01HQ1AybnJIa0Jwb0Q4eDZDUWd0V0ViRVR1MTFsU04yazZXZjdkal9jSXlINDlMZG5EYw?oc=5",
+      "pub_date": 1789724685.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/30f46a7d5a2ab986d030299de2b7ac947fc11015d9c503125311defb7cf28ae5/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fc7f8fe322030e049efed464a9d2836a0.jpg",
+      "description": "US Must Act to Counter China's Combat Robotics Dominance"
     },
     {
       "headline": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year",
@@ -85,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "A quieter corner of robotics is gaining traction",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX29qN2cxTThRemlWS1BuOHl4TnBTVGVMakFob1pWZG5VSDBlS3hTNE1JYlQtRU1wSlJ2bHM5NG5Wb3JONHJuV0F5TFdPeEIxSGVkTHRJTkxfcDhwNTlHbndlVFQ3SkZUc004Ym5SWUpYSGxTOWM1RVpjcWtXbDRoY0FHdXFsbUFvQXVj?oc=5",
-      "pub_date": 1789750346.0,
-      "article_url": "https://www.axios.com/pro/all-deals/2026/09/18/automomous-robotics-investing-viabot",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Why do some robots feel creepy? We deliberately built one to find out",
       "source": "The Conversation",
       "source_url": "https://theconversation.com",
@@ -103,8 +93,18 @@
       "article_url": "https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231",
       "image": "https://images.theconversation.com/files/760358/original/file-20260916-50-9pnhtz.jpg?ixlib=rb-4.1.1&rect=0%2C643%2C6796%2C3398&q=45&auto=format&w=1356&h=668&fit=crop",
       "description": "Why do some people perceive a robot as \u2018creepy\u2019 while others don\u2019t? It seems our response to these increasingly common non-human companions is highly subjective."
+    },
+    {
+      "headline": "KIDZ AI is developing robot lessons for schools after securing $1.9 million",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZU1lY0JzVEpUdTlyR3hyTWpCMXNramRqcWlJcFRaODlTajVCSmRKdEhOT21EMzM2a3FZTFd6NTRwY0JwR0xjWjl6Sm9rbGJiN2VpNi1QN3FJY245YXhFMy1Lb21hUkFNSzdzcEw2SnVETWQ4M0hZRzZFdW5YTTJwTTgzbTItVzVvdmFfal9MWlBZdE5jdFA0Qm01SnVFdnBUWlZaMGY5RS1oYUp0U0c4NTFlWktJNk0?oc=5",
+      "pub_date": 1789730400.0,
+      "article_url": "https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html",
+      "image": "https://www.stocktitan.net/news_covers/KIDZ_AI_Secures_New_Financing_to_Advance_KIDZBot_Physical_AI_Robotics_Ecosystem_1506331.webp",
+      "description": "KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-18T23:55:33.163835+00:00"
+  "fetched_at": "2026-09-19T03:30:06.431321+00:00"
 }
