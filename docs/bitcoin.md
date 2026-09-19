@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T16:16:56.917403+00:00'
+updated: '2026-09-19T18:43:25.599566+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 16:16 UTC  
+**Last Updated:** September 19, 2026 at 18:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,598.24
+### $81,748.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** +6.4%  
-**30d:** +4.4%  
-**90d:** +27.7%  
-**1y:** -29.4%  
+**24h:** +0.4%  
+**7d:** +6.1%  
+**30d:** +4.1%  
+**90d:** +27.3%  
+**1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1641.68B
+**Market Cap:** $1636.67B
 Rank #1
 
-**Circulating Supply:** 20,086,568 BTC
+**Circulating Supply:** 20,086,618 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.2%
+-35.4%
 
 **All-Time Low:** $67.81
-+120427.9%
++120050.4%
 
 ---
 
@@ -145,7 +145,7 @@ One key, two doors. How a Taproot output is built, why every one looks the same 
 
 No future major uncertain policy changes, should be up from here.
 
-2d ago
+3d ago
 
 ---
 
@@ -157,7 +157,7 @@ No future major uncertain policy changes, should be up from here.
 
 Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -165,21 +165,15 @@ Yahoo Finance • 4h ago
 
 "Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
 
-CoinDesk • 4h ago
+coindesk.com • 6h ago
 
 ---
 
-**[Bitcoin Reclaims the Spotlight as Macro Pressure Fails to Break Crypto Demand](https://www.binance.com/en-BH/square/post/368373006999529)**
+**[This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms — Here’s What To Know](https://finance.yahoo.com/markets/crypto/articles/bitcoin-signal-flashed-just-4-163011340.html)**
 
-Binance • 2h ago
+Bitcoin’s rebound above $80,000 puts focus on whether demand and longer-term technical levels could support further gains.
 
----
-
-**[Cathie Wood Says ‘Bitcoin Is Not A Dead Cat’, Days After ARK Sold Its Own Bitcoin ETF](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-says-bitcoin-not-142346227.html)**
-
-Bitcoin is a “hedge against deflation,” Wood said on ARK’s Bitcoin Brainstorm podcast.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +181,7 @@ Yahoo Finance • 1h ago
 
 A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.
 
-Yahoo Finance • 15m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -195,7 +189,7 @@ Yahoo Finance • 15m ago
 
 A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims.
 
-wesh.com • 13h ago
+WESH • 16h ago
 
 ---
 
@@ -203,7 +197,15 @@ wesh.com • 13h ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-vaneck.com • 1d ago
+VanEck • 1d ago
+
+---
+
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
+
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
+
+CNBC • 1d ago
 
 ---
 
@@ -215,19 +217,19 @@ Muddy River Sports • 1d ago
 
 ---
 
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-cnbc.com • 1d ago
-
----
-
 **[A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted — roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)**
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
 Space Daily • 2d ago
+
+---
+
+**[CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail](https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail)**
+
+The CFTC has already sent a proposal to the White House following this week's failed Clarity Act vote.
+
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -267,7 +269,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 1 • 💬 2 • 3h ago
+⬆️ 1 • 💬 3 • 6h ago
 
 ---
 
@@ -299,13 +301,23 @@ Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized 
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
+
+Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
+
+📺 Lark Davis
+
+👁️ 14K • 👍 481 • 💬 23 • ⏱️ 6:51 • 6h ago
+
+---
+
 **[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
 
 Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 1K • 💬 38 • ⏱️ 1:27 • 12h ago
+👁️ 41K • 👍 1K • 💬 41 • ⏱️ 1:27 • 15h ago
 
 ---
 
@@ -315,7 +327,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 9K • 👍 1K • 💬 62 • ⏱️ 1:07:54 • 3h ago
+👁️ 34K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 5h ago
 
 ---
 
@@ -325,27 +337,17 @@ Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vot
 
 📺 Simply Bitcoin
 
-👁️ 39K • 👍 2K • 💬 223 • ⏱️ 16:49 • 18h ago
+👁️ 41K • 👍 2K • 💬 208 • ⏱️ 16:49 • 20h ago
 
 ---
 
-**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
+**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
 
-Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
+Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
 
-📺 Lark Davis
+📺 Crypto Casey
 
-👁️ 6K • 👍 383 • 💬 21 • ⏱️ 6:51 • 4h ago
-
----
-
-**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
-
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
-
-📺 Bloomberg Television
-
-👁️ 16K • 👍 120 • 💬 9 • ⏱️ 10:06 • 19h ago
+👁️ 7K • 👍 461 • 💬 55 • ⏱️ 6:21 • 4h ago
 
 ---
 
@@ -355,7 +357,7 @@ Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 2K • 💬 215 • ⏱️ 13:18 • 15h ago
+👁️ 79K • 👍 3K • 💬 219 • ⏱️ 13:18 • 17h ago
 
 ---
 
@@ -365,27 +367,7 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 106K • 👍 3K • 💬 172 • ⏱️ 11:24 • 22h ago
-
----
-
-**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
-
-Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 574 • 💬 144 • ⏱️ 1:06:33 • 1d ago
-
----
-
-**[Grant Cardone Bought 1,000 Bitcoin at $90,000 💀](https://www.youtube.com/watch?v=9gYZPgFsawI)**
-
-No Coupon ReinvestAI: https://Reinvest.co/ Reinvest App in Apple Store: https://meetkevin.com/app Reinvest App in ...
-
-📺 Meet Kevin
-
-👁️ 22K • 👍 134 • 💬 6 • ⏱️ 0:41 • 2d ago
+👁️ 110K • 👍 4K • 💬 171 • ⏱️ 11:24 • 1d ago
 
 ---
 
@@ -395,7 +377,27 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 52K • 👍 3K • 💬 119 • ⏱️ 24:24 • 20h ago
+👁️ 54K • 👍 3K • 💬 122 • ⏱️ 24:24 • 23h ago
+
+---
+
+**[BITCOIN: THIS WEEKEND CHANGES HISTORY!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=BDOjRuzcHqA)**
+
+Join Telegram & Talk about Crypto: https://t.me/+WPsnvLl_JKoFT8FB Bitcoin just hit one of the most important levels of the entire ...
+
+📺 CryptoJack
+
+👁️ 2K • 👍 199 • 💬 52 • ⏱️ 7:14 • 5h ago
+
+---
+
+**[BlackRock Confirmed Bitcoin Is Here To Stay](https://www.youtube.com/watch?v=ESF3DZooOLQ)**
+
+Jay Jacobs is the US Head of Equity ETFs at BlackRock. In this conversation, we break down the real impact of the bitcoin ETFs ...
+
+📺 Anthony Pompliano
+
+👁️ 80K • 👍 968 • 💬 27 • ⏱️ 50:39 • 1d ago
 
 ---
 
