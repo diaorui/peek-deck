@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
-      "pub_date": 1789722000.0,
-      "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
-      "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
-      "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
-    },
-    {
       "headline": "SoftBank agrees to acquire Robotics and AI Institute",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
       "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+    },
+    {
+      "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
+      "source": "businessinsider.com",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
+      "pub_date": 1789722000.0,
+      "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
+      "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
+      "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
     },
     {
       "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
@@ -35,16 +35,6 @@
       "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
     },
     {
-      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
-      "pub_date": 1789722230.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "US Must Act to Counter China's Combat Robotics Dominance",
       "source": "Yahoo",
       "source_url": "https://www.yahoo.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html",
       "image": "https://s.yimg.com/lo/mysterio/api/30f46a7d5a2ab986d030299de2b7ac947fc11015d9c503125311defb7cf28ae5/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fc7f8fe322030e049efed464a9d2836a0.jpg",
       "description": "US Must Act to Counter China's Combat Robotics Dominance"
+    },
+    {
+      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
+      "pub_date": 1789722230.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Robotics: Firms race to improve robot training systems",
@@ -65,34 +65,24 @@
       "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
-      "headline": "Ukrainian Ratel H ground robotic system fitted with 12.7mm combat turret",
-      "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
-      "source_url": "https://www.pravda.com.ua",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GVnk5eVhBSUZSUUxmMzhESGlYVzlJZF9TWHZGTXRMMU1MLWZDbHJYNEZvcDhPWlNURk5NTS1SSldwUU5TX0Q2Y3JucV9IdWthQ05LSHZockhmRDlqMU53a04xWkbSAXBBVV95cUxNcFFvbmltdnJKcUJ3b3JnelU4SDFpRVloQnE0M2N6T1h2VVVPTGMzWEZ2WkZ4SEVEWmRveFZvd01sRUdDWnNYakh6MkJXQXBSaVNrUE1aUzR4VjBhZHZWNFg0N3ZfLTNJaDlmSFJhNFdq?oc=5",
-      "pub_date": 1789806120.0,
-      "article_url": "https://www.pravda.com.ua/eng/news/2026/09/19/8054203/",
-      "image": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/1/917592/41497791000adda36746241419c6f58e.jpeg?w=1200&q=85&stamp=1789805978",
-      "description": "Ukraine's Ratel Robotics is testing its Ratel H ground robotic system with a remotely controlled 12.7mm turret."
-    },
-    {
-      "headline": "How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5",
-      "pub_date": 1789577483.0,
-      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "image": "https://spectrum.ieee.org/media-library/humanoid-robots-and-people-walking-through-a-modern-city-street-with-glass-buildings.jpg?id=67745861&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "How to secure today\u2019s AI robots against stealth cyber threats"
-    },
-    {
       "headline": "Humanoid Robots Break Records In Beijing",
-      "source": "dogonews.com",
+      "source": "DOGO News",
       "source_url": "https://www.dogonews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTVxQ05XWDBxSTZQald6aUlMTnlmdW9IOXZlRmpCbUZTWEdUZTZWbmhrbFZNNWxnVlBteWpjSzNwZ1d5SUF1TUt6ank0MFVOSVNrU2RhazVXNVd6Tm16aHdYTk9RdTQ1VGJHbjl4ZkM1M3BEM2FJYlFFOUxLaWR1Sg?oc=5",
       "pub_date": 1789746513.0,
       "article_url": "https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing",
       "image": "https://cdn4.dogonews.com/images/b70a8994-c5c5-412a-8072-ea0aacea1788/w020260815393558879739.png",
       "description": "Humanoid Robots Break Records In Beijing has 16 comments."
+    },
+    {
+      "headline": "Robotic lab sets up and runs optics experiments on demand",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
+      "pub_date": 1789617600.0,
+      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
+      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
     },
     {
       "headline": "Robotics Tipping Point: A Citrini Field Trip",
@@ -103,8 +93,18 @@
       "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
       "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
       "description": "Seeing is Believing"
+    },
+    {
+      "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "source": "SpaceNews",
+      "source_url": "https://spacenews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2pXV3hyOU5TVVNadHYyMnQ5NkxJSTlTNXpIVHF3M1Vmb1JCS0xidGl3allPU05UTEpnN3Z5MTlOWlZSMGM1RVFCUjNZWGEyRk1rSDY2OHdlVUw5d3FUMUptRHdaRkZxUXliV0xYcGJST2RXZGNCbnhqeXhVVEFlM21UNlc?oc=5",
+      "pub_date": 1789650000.0,
+      "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T12:38:03.864793+00:00"
+  "fetched_at": "2026-09-19T16:16:48.220918+00:00"
 }
