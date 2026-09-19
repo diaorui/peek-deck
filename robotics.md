@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-18T23:55:43.053896+00:00'
+updated: '2026-09-19T03:30:12.874302+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 18, 2026 at 23:55 UTC  
+**Last Updated:** September 19, 2026 at 03:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-5d ago
+6d ago
 
 ---
 
@@ -112,39 +112,39 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
-
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
-
-The Robot Report • 5h ago
-
----
-
 **[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-Business Insider • 14h ago
+Business Insider • 18h ago
+
+---
+
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
+
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
+
+The Robot Report • 9h ago
 
 ---
 
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+**[US Must Act to Counter China's Combat Robotics Dominance](https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html)**
 
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+US Must Act to Counter China's Combat Robotics Dominance
 
-IEEE Spectrum • 7h ago
+yahoo.com • 17h ago
 
 ---
 
 **[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
 
-Reuters • 11h ago
+Reuters • 15h ago
 
 ---
 
@@ -170,17 +170,19 @@ SpaceNews • 1d ago
 
 ---
 
-**[A quieter corner of robotics is gaining traction](https://www.axios.com/pro/all-deals/2026/09/18/automomous-robotics-investing-viabot)**
-
-Axios • 7h ago
-
----
-
 **[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
 
 Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
 
-The Conversation • 1d ago
+The Conversation • 2d ago
+
+---
+
+**[KIDZ AI is developing robot lessons for schools after securing $1.9 million](https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html)**
+
+KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled.
+
+Stock Titan • 16h ago
 
 ---
 
@@ -204,7 +206,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 521K • 👍 8K • 💬 973 • ⏱️ 16:24 • 1d ago
+👁️ 548K • 👍 8K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
@@ -218,13 +220,33 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why 
 
 ---
 
-**[Manufacturing 50,000 Humanoid Robots Next Year | Bernt Børnich, 1X](https://www.youtube.com/watch?v=DXSs6yIL00w)**
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
 
-Bernt Børnich is the founder and CEO of 1X, a California-based humanoid robotics company. After years of developing NEO, ...
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
 
-📺 Relentless
+📺 DPCcars
 
-👁️ 12K • 👍 236 • 💬 34 • ⏱️ 43:02 • 6h ago
+👁️ 12K • 👍 90 • 💬 27 • ⏱️ 2:56 • 1d ago
+
+---
+
+**[Figure Helix 2.5 Robot Works in Homes It Has Never Seen](https://www.youtube.com/watch?v=JBoghD18rCo)**
+
+Figure's new Helix 2.5 humanoid robot system is being tested inside 30 homes it has never seen before. Even more impressive ...
+
+📺 DPCcars
+
+👁️ 5K • 👍 25 • 💬 7 • ⏱️ 9:19 • 13h ago
+
+---
+
+**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
+
+One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
+
+📺 UBTECH Robotics
+
+👁️ 121K • 👍 925 • 💬 334 • ⏱️ 1:04 • 3d ago
 
 ---
 
@@ -234,17 +256,17 @@ In today's episode, I entered the city of the future, where humanoid robots roam
 
 📺 Steven Ndukwu
 
-👁️ 595K • 👍 6K • 💬 843 • ⏱️ 27:23 • 6d ago
+👁️ 602K • 👍 6K • 💬 848 • ⏱️ 27:23 • 6d ago
 
 ---
 
-**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 Dear Time
+📺 The AI Nexus
 
-👁️ 22K • 👍 128 • 💬 4 • ⏱️ 20:25 • 5d ago
+👁️ 11K • 👍 223 • 💬 25 • ⏱️ 57:02 • 3d ago
 
 ---
 
@@ -254,37 +276,17 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 398K • 👍 20K • 💬 490 • ⏱️ 0:37 • 4d ago
+👁️ 403K • 👍 20K • 💬 498 • ⏱️ 0:37 • 4d ago
 
 ---
 
-**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
+**[America&#39;s Got Talent Didn&#39;t Tell You This About Unitree Dancing Robots](https://www.youtube.com/watch?v=uUlU9I8k4Pw)**
 
-Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
+America's Got Talent Didn't Tell You This About Unitree Dancing Robots Eight humanoid robots walked onto the America's Got ...
 
-📺 Unseen Vault
+📺 Dear Time
 
-👁️ 226K • 👍 6K • 💬 326 • ⏱️ 33:11 • 6d ago
-
----
-
-**[A Player Said I Need To Try This ASAP... Dune Bagliore CRUSHING Meta Shoggoths | War Robots](https://www.youtube.com/watch?v=q5HYG9dIsBE)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR Theres no way this actually works. Someone told me to try ...
-
-📺 PREDATOR WR
-
-👁️ 7K • 👍 226 • 💬 53 • ⏱️ 15:18 • 11h ago
-
----
-
-**[China’s Factories Are Going Big on Robots](https://www.youtube.com/watch?v=Mxj_Us0XQww)**
-
-China's manufacturing sector is undergoing a huge automation shift. While viral posts claim that one Chinese factory cut its ...
-
-📺 Alchetron
-
-👁️ 42K • 👍 136 • 💬 16 • ⏱️ 0:10 • 3d ago
+👁️ 22K • 👍 129 • 💬 4 • ⏱️ 20:25 • 5d ago
 
 ---
 
