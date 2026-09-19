@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
       "pub_date": 1789712275.0,
@@ -25,16 +25,6 @@
       "description": "Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH has since rebounded 10% from its recent low."
     },
     {
-      "headline": "Ethereum breaks $2,500 after a month, showing s...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1ZYVzgzWktJUWJhRU1rMldhUTFQRWllZGtBQ1BQMFVSS19YSi1xM1R2TFlacTYtODVNa1BDMVhHMHdFSjBLVTJ5ZnJ4Qzg5NlFjX04tYk80UDdUTU9lQWRPdTR5WWNuTkpJT3dYakRfWGo0aHI2ZUlTV2twN09waS0xbw?oc=5",
-      "pub_date": 1789833868.0,
-      "article_url": "https://pluang.com/en/news-feed/tekanan-beli-kembali-ethereum-eth-sasar-3ribu",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/ee0cc2be7b8273da3ba5137d469d6c921769201493ff634706e28fd8e2a3810f-en.webp",
-      "description": "Ethereum (ETH) has surged about 5.6%, closing above $2,500 for the first time in nearly a month, signaling a potential breakout from its previous sideways trading range. Currently trading around $2,644 with strong buying pressure confirmed by technical indicators like MACD and RSI, ETH faces resistance near $2,680 and targets up to $3,000 if momentum holds. However, the daily RSI indicates overbought conditions, suggesting caution as a short-term consolidation could occur. The next daily candle close above $2,500 will confirm if the breakout is sustained or if prices retreat back into the range."
-    },
-    {
       "headline": "Why Ethereum Jumped 5.8% Today",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,34 +35,34 @@
       "description": "Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped."
     },
     {
-      "headline": "Ethereum Institutional signals support for Ethlabs\u2019 motion to reduce Ethereum block times",
+      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa0R5dEFNb0c0VC00RGNwcjBWS0o1YVNYZlI3QVd3elhnUjdOb2RVdDZGUUtJOEhxeHRuSlJqeXJfREdScTFzWGRWM19TM2FQWFdzWUstUUlKOE05R2hyTlgyYlJab2pvczAzd3M2dTVxRDhQM0tWNE1NdXBIMVNmS1I5LTZSeWREMF9uNHZfc3FxR0ZmUTg4NVNZVV9wS3BFRnhGZzNSNlhwWHZMLThVbmpyN0hyMkZaWXAzcUdDSnM1MjdfQjJhOW1HVXlCUlN0SGlCNHZ2NHBQcWdBNVVsZnNwNEJaSjQ?oc=5",
-      "pub_date": 1789735204.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:dc7cf012d094b:0-ethereum-institutional-signals-support-for-ethlabs-motion-to-reduce-ethereum-block-times/",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX0NrQVpXV1VRSWw5VlFnRm9mWV9KV3VCQ0daSkk0Y1hyMHZiVm9oTmY2aGtvTDFya1h6VldUSFk2djVhV2xHTHZQSUJJZnJhTGFFeHQ4OTNGckFEX3l5b3Y3QmJtWFJyZW4yTzc0ZkJqbXJOcXl5bUZ1REc4MnZDOUFaUzBJRm9UYmhjX1I0bWwtNHVmYUxFcnAxMjVPT3lnaGpFSWZiVlRuZTY4cFR0NGhZb2RldXNKSHNiSFpTNjVCNlBEejJTOW5teHhIcHR6ZEpfYnVwV3drdGFLWnkyLUM3R2U?oc=5",
+      "pub_date": 1789755997.0,
+      "article_url": "https://www.tradingview.com/news/financemagnates:de97e038e094b:0-why-is-crypto-up-today-bitcoin-tops-80-000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum Institutional signaled support for Ethlabs\u2019 motion to reduce block times and create a faster Ethereum to address increasing competition from other networks.\u201cMake Ethereum faster,\u201d wrote the non-profit organization in a Friday X post, arguing that reducing block times is needed as \u201cmore ins\u2026"
+      "description": "The crypto market is up today (Friday), with Bitcoin back above $80,000 and Ethereum, XRP and Dogecoin rising 6% to 7%. Bitcoin traded at $80,914 on Binance at 18:07 UTC, up 5.9% on the day, while Ether rose 6.4% to $2,603, XRP gained 7.3% to $1.39 and Dogecoin added 7% to $0.0874 on Bitstamp.The m\u2026"
     },
     {
-      "headline": "New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLUFuaUtoZEZmaTlIWVRQekZjajlJMzBQdEl6T1JsN0xDVGYwRmx3cHA5X3NrUWZQNHpSelJtYkIwTVRYSVh4X1dXenI0SWpkTUZKandmZmd0VG9NSkEzNUluV0JvYmdsd1dTdW9rcTRhZGJUUVdSMWZFT0R5ek5qdW9na0g5V1hvUjJhS0hCbVRscXB6Uy14OVNFUlNsZWdRYXVyVUJFRkNab3cxZF9pa3Z4SmM2NUIwNnU2NnBMVWp5MmVnaEZ3NGtzVVJBdnhMSVZvZXkySzVqM3U2dktrQ3ZpVU9OS2FmTW5Sdw?oc=5",
-      "pub_date": 1789831303.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700",
-      "image": "https://ml.globenewswire.com/Resource/Download/a2c793db-b398-41ad-8c67-9d608bf90d74/remittix.png",
-      "description": "MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT..."
+      "headline": "Crypto stocks surge as bitcoin and ethereum rally sharply",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQamNCamtBOWlVLXFIa0hFUnBVSmw3WEhzeXFSbHF3dFRXY1ZWR2FNUGxBc1lubW9ybU9sLXNiaWpEQWJUblM4ajV5MHFtcFMwdVNMUXlvbVBWSklGaGx6YUdFRzhTYnh2R1lTN0Q5YjdMTmlyTDQtQzRocUpwLTVBWUVwMkNsRE54WVpFdVdXYWxvbEItaEhmNDJGOUFtRWtWMkdaaTZxTkxIZzJOMDhuSmtmRy1lYUFrMWJj?oc=5",
+      "pub_date": 1789750155.0,
+      "article_url": "https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkwxX1QwbkxGYXMwWThmSEoyT051a3NNVTZUSG5OWnlTSEtnMkVicHBzZmpvR2tsanpqQzZ3SGNidWZrVnRkeFlLWmp1MDRNVDR2VDNYeEZaWUV2MlhydTVmSUwtMDhWc2djbXo3ZlRQYjV4UEo4aW5McVJtOGVoT2xNV0pOTmc?oc=5",
-      "pub_date": 1789759260.0,
-      "article_url": "https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887197%2Fbitcoin-symbol-on-red-question-mark-getty-images.jpg&w=1200&op=resize",
-      "description": "Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500."
+      "headline": "Bitcoin Cracks $78,000 and Ethereum, XRP, Dogecoin May Be 'About To Explode'",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0NfbXY5Sk9tX2hmUmZ6VndHTHhHbjRGaW1tMUZNM0U5cDJ4VmF1TGN4cnhpWmNnSzRxOW8weFpOb3lHZlZZZEFERmpFSUdkRFg1aFlUaUhrR2RNdm5Yakt0YlJGXzlhRWpDTlpwaGJDM25IYi1NZWZWZi1lT0dvM1NsSDdmRERDVGtFVGNZdnlTeEl6MzNUbm1BX19JSE5NdUVUZzNncWt2UWE1X1RuazdfZEEyR21aeVFTZlVnNVZQdWY0WDVsVnZOMUU?oc=5",
+      "pub_date": 1789735000.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61866043/bitcoin-cracks-78000-and-ethereum-xrp-dogecoin-may-be-about-to-explode",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/18/Coins-On-Black-Background---Litecoin--Bi.jpg",
+      "description": "Bitcoin reclaims $78,000 as analysts see long-term upside; ETH targets $2,570-$3,000, XRP could reach $2, and DOGE signals a potential major rebound."
     },
     {
       "headline": "Solana vs Ethereum: Who Is Winning the On-Chain Race?",
@@ -85,6 +75,26 @@
       "description": "The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum\u2019s dominance"
     },
     {
+      "headline": "Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkwxX1QwbkxGYXMwWThmSEoyT051a3NNVTZUSG5OWnlTSEtnMkVicHBzZmpvR2tsanpqQzZ3SGNidWZrVnRkeFlLWmp1MDRNVDR2VDNYeEZaWUV2MlhydTVmSUwtMDhWc2djbXo3ZlRQYjV4UEo4aW5McVJtOGVoT2xNV0pOTmc?oc=5",
+      "pub_date": 1789759260.0,
+      "article_url": "https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887197%2Fbitcoin-symbol-on-red-question-mark-getty-images.jpg&w=1200&op=resize",
+      "description": "Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500."
+    },
+    {
+      "headline": "New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLUFuaUtoZEZmaTlIWVRQekZjajlJMzBQdEl6T1JsN0xDVGYwRmx3cHA5X3NrUWZQNHpSelJtYkIwTVRYSVh4X1dXenI0SWpkTUZKandmZmd0VG9NSkEzNUluV0JvYmdsd1dTdW9rcTRhZGJUUVdSMWZFT0R5ek5qdW9na0g5V1hvUjJhS0hCbVRscXB6Uy14OVNFUlNsZWdRYXVyVUJFRkNab3cxZF9pa3Z4SmM2NUIwNnU2NnBMVWp5MmVnaEZ3NGtzVVJBdnhMSVZvZXkySzVqM3U2dktrQ3ZpVU9OS2FmTW5Sdw?oc=5",
+      "pub_date": 1789831303.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700",
+      "image": "https://ml.globenewswire.com/Resource/Download/a2c793db-b398-41ad-8c67-9d608bf90d74/remittix.png",
+      "description": "MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT..."
+    },
+    {
       "headline": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
       "source": "CryptoSlate",
       "source_url": "https://cryptoslate.com",
@@ -93,18 +103,8 @@
       "article_url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg",
       "description": "Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model\u2019s control."
-    },
-    {
-      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
-      "source": "Finance Magnates",
-      "source_url": "https://www.financemagnates.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1RRMndWQUptTThQRjBjb1VxUVJwbnJKYkJlVUVHbGNVSEUtbEJ2bVhScUZxVzFBbG1kMHdyeENVS01iclpTUGRxNHcwTkdienJjU1RTUE1WRVFHMThwSHlDd2JfdHVSSmNranJ5UUoycmJ0cGlqZGlhSWlPMGM4eWctaVJQVl9aaTREeGNCY2VkVllVbEFtaThUY2RkMzFrN0htWlhvTHBvWlg4aU1NLWtaU2ZvRTZpc2FMR08xRjgxanc?oc=5",
-      "pub_date": 1789755997.0,
-      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
-      "image": "https://images.financemagnates.com/images/Cryptocurrency%20on%20Binance%20trading%20app%2C%20Bitcoin%20BTC%20with%20BNB%2C%20Ethereum%2C%20Dogecoin%2C%20Cardano%2C%20Litcoin_id_96eb97fa-195f-4739-bebb-51ebbbc7726f_size900.jpg",
-      "description": "Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T18:43:22.780357+00:00"
+  "fetched_at": "2026-09-19T21:19:44.035303+00:00"
 }

@@ -16,7 +16,7 @@
     },
     {
       "headline": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VLSm5MTk4yakhMd3ZYam4yMXM0NjRLYkZkWnJCUm9mTXBmS3RpdFh5UkpNdUcwWnBWNngxdU84ODJ5WmtONGpzWVBDa2VEaHlKTzY5WExQTWd5OWd4TGVhRlJfRk1XVW4zTEhPTzRreXJUcVhvOWtKUnVrbjZBelZpSFkwM1hnZ25FR3ZiaWVfUGZaSFJNczdlTmZ4aS1Bb2Z3M2RJQXEyS2t2dlNOcUtPa1A5cjZHZHdpLXlURkM2Rks1Y0d2UQ?oc=5",
       "pub_date": 1789820037.0,
@@ -25,38 +25,8 @@
       "description": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis."
     },
     {
-      "headline": "This Bitcoin Signal Has Flashed Just 4 Times In History, And The Prior 3 Coincided With Bear-Market Bottoms \u2014 Here\u2019s What To Know",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEF5amVYSEJPTTF3LW5zV2pkVlpkVUVuWFd0QTZwYTkxbk8tdlZscGRoVzRiZFRLWVFQcWx3N28tbzM1djFQM0RDa01VNEoyVnROa1c3UldyX2Uzd2YwZlVGOTNNXzFJaW1uVVpGVnZDdEhLSGIxejdyWVNQeWh6ekhTSUtDNkVSX1RTNzhndHhiODQ4Z0FTSUpn?oc=5",
-      "pub_date": 1789835411.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-signal-flashed-just-4-163011340.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/57e20c94f4412bb8efacce0fb4829cc5456f9a43ef356b18fed3e47e0b9952fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F014cef592b2cf1b29098633414946472",
-      "description": "Bitcoin\u2019s rebound above $80,000 puts focus on whether demand and longer-term technical levels could support further gains."
-    },
-    {
-      "headline": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ042Z1RiSUUxRlkzZV9VdDZQZlJybkM2NzFJa1ZCNHZlNUk1cEU3WGdPOHFsUm4xOUo3V05Oek9ub3RzRTVQMHEySHZreFB2WFRwWnB1QWRBa2J1emZCOXpRSnNlbzJIV1drNGJIZkJFMjIyUDEtOG9ycEFDY2lpUDRTYnhHajNKSmpJeDdsTjdrWGo3elA1ZnctcGtXV2s?oc=5",
-      "pub_date": 1789833663.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoins-sharpest-rally-two-years-160103232.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1dabaf3e99b5ecc91bfe67a2af5d8e756203ccc145e42f21987f7e0f5dabd4a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fbe1b7ab35e5ff40a79dbc62dd019dc4f.png",
-      "description": "A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar."
-    },
-    {
-      "headline": "Seminole County gas station stops Bitcoin ATM scams",
-      "source": "WESH",
-      "source_url": "https://www.wesh.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnF5SS1UNHFRY0VjYm5Icmw1MlJfampTamRERWlKNzdKUWtrZ04tYVpuYVQ1WFc0eV9pRUc4NUk1NHAtYTFjczZnTDF1RnVqTEE0TXhfR2RId3JBbGVmQjZQWkhKZVdmMHU5VUFadHdxWGlLS0JRTGxRcV9YY0tQMmM0MTM4eFVnV0FuZGVRS2tDcHM?oc=5",
-      "pub_date": 1789784280.0,
-      "article_url": "https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678",
-      "image": "https://kubrick.htvapps.com/vidthumb/bdf58094-0ee9-44c9-84ae-513bab2526ad/853defc6-ad75-4599-a89b-ef56869be237.jpg?crop=0.819xw%3A0.818xh%3B0.0879xw%2C0&resize=1200%3A*",
-      "description": "A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims."
-    },
-    {
       "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
-      "source": "VanEck",
+      "source": "vaneck.com",
       "source_url": "https://www.vaneck.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmpNNk04MlFTcDF3Zm5ONTlzSmlxVXhYVTRxSXJ1ZjVXXzJnQk5MR3pvTW9CaldPb0NEM1M1ZFJkd3o1UG1SNTAzRjVPVGNlUXJNVFBZTnhHQWJ0Z00zRTlWY1F1WkN1dlhjcEFUS0ZUckNHUmlicms4bVRWQ1BfMmpTRFBoX2RubUs1TUxEVm1HSkJRUGZjVWt1bjlHMkJzV2JZZ2FHZTEwdkdJOEE?oc=5",
       "pub_date": 1789731236.0,
@@ -76,7 +46,7 @@
     },
     {
       "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
-      "source": "Muddy River Sports",
+      "source": "muddyriversports.com",
       "source_url": "https://muddyriversports.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
       "pub_date": 1789698773.0,
@@ -85,26 +55,56 @@
       "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
     },
     {
-      "headline": "A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted \u2014 roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o",
-      "source": "Space Daily",
-      "source_url": "https://spacedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPWUZZRzd6ZHBMSFkya2lFQmh4ZnFMV3JEWDEyczNDZE9TVG9QNkVwZ2sxa0Y3Z09uMlJoS1lJRS1NeF9FWGVFLVhlTDJRVFdXX2FDNU0wcE5jOWNMdzIzMFlLR0FMOVlkQzFPMDBmWGdjNElFV2oxMWpnNVVNNVlCTVoyTERKZTBOTHdxRUdNTEhCcEdVNTJOaENYbnBVZGhtVHdMMlhtSy1HV1poZllrMjVsWWRMVGxidnlNU2k5cFhzMUFweEtGelFKcjJuMW13ZTZTQWxEWEljbS0zRDBBY0hOVEtMVGtUZklkZC1CN2pKS2cybDAtZEotQXRZYVdHUGZGMC1UeXVUSU12T1JYTUJtSWlJdm5oc0FnNVRyTkotQzFONjhV?oc=5",
-      "pub_date": 1789610426.0,
-      "article_url": "https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cryptocurrency-mining-rigs.png",
-      "description": "As Bitcoin's price swings, so does its hidden cost in freshwater\u2014each transaction now demands enough water to fill an Olympic swimming pool."
+      "headline": "Why Bitcoin Is Up Today",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdUlfRXplbjNVTThoZzZqWGF2MjlvU1RlMjh1aEF0TFRCWkZTX19Ia0JBNGxWYXFIYjVZNmd1aGpNSml0V1dGZDJpQWx2VVBBaTE1SzY1Y3Q1bFBaRUhLT1QtUUtfelZiblowc0lvaHVKOGlK?oc=5",
+      "pub_date": 1789761480.0,
+      "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
+      "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
     },
     {
       "headline": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
-      "source": "Bitcoin Magazine",
+      "source": "bitcoinmagazine.com",
       "source_url": "https://bitcoinmagazine.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkhGdmsyeVBlYUdTMHBVTW1lY2xpQ01sUS1fM1Mtb2l0Q09hZ2VZVkVBY3pKVXEzNHN6QjUzSEdPV2hPRlpYR240MTlaY2EzbmNXdFZOVTFERjI3eFNLbFdqdXVSS3VqVExibnpkZldfeXBFeUlWSndJNU5JOU1Hcw?oc=5",
       "pub_date": 1789761613.0,
       "article_url": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg",
       "description": "The CFTC has already sent a proposal to the White House following this week's failed Clarity Act vote."
+    },
+    {
+      "headline": "Current price of Bitcoin for September 18, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
+      "pub_date": 1789733187.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
+    },
+    {
+      "headline": "Bitcoin shows strong demand as entity-adjusted SOPR stays above 1",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FFbnJUc0MtT3diNFFMTGNxak8tQkJZclVrWG51NW1MN1VqdHdLQUlQbzVEa2pPUlotbzVSblZmNXhiTGtCVjJLWmdYTzJGNmhfSkxLcGEwN01aZDZ4d3oxNW5PTGRNMC1ieEczYTdyZFBPRjFtcUtyby1UajJMSWx1UlNsTWxMZGVQZDAwbEpuQnZCd1dzdzBOTDhGbW13TzJ3bm9XbTNwM3ZOdUc1UnFQSjNLTkdVSXhXcDdxM1NGU19mbUtUWnVB?oc=5",
+      "pub_date": 1789811605.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco\u2026"
+    },
+    {
+      "headline": "'Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJkR3c3dUsyQVFBQmFjYVd6aWJvZ3N1YnVITXFONlM0cHlRSWc1SFBwbE1Va01PUjRZWnZtWGJ5Vi1mYkVRc2ZFcno3bnRmVl8wOXR2NnRqcjNzSzNUQlAzNXBYVDd5NDJxSENCUnc1aXJKbVJRSDFVOGFOYVdKQWMxRXJqSFlmQXZGeThONnl1Y3Y3dEQ2aHVoS2VZbmdOeThsWTE2V25xY0luZnZ0NFI1WExZLVJ6ZUtLT3pJLTg4ZUtmWDNReVRVeGlaUGtyc19nOGNR?oc=5",
+      "pub_date": 1789755292.0,
+      "article_url": "https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_4.jpg",
+      "description": "Demirors said crypto\u2019s head start in specialized hardware and cheap power has helped fuel today\u2019s AI infrastructure buildout."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T18:43:18.952378+00:00"
+  "fetched_at": "2026-09-19T21:19:37.335599+00:00"
 }

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T18:43:25.608729+00:00'
+updated: '2026-09-19T21:19:45.370469+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 18:43 UTC  
+**Last Updated:** September 19, 2026 at 21:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 5d ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 6d ago
 
 ---
 
@@ -112,14 +112,6 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
-
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
-
-The Robot Report • 1d ago
-
----
-
 **[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
@@ -128,11 +120,19 @@ businessinsider.com • 1d ago
 
 ---
 
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-IEEE Spectrum • 1d ago
+The Robot Report • 1d ago
+
+---
+
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 1d ago
 
 ---
 
@@ -150,11 +150,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
 
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
 
-BBC • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -166,27 +166,25 @@ MIT News • 2d ago
 
 ---
 
-**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
 
-Humanoid Robots Break Records In Beijing has 16 comments.
-
-DOGO News • 1d ago
+SpaceNews • 2d ago
 
 ---
 
-**[Humanoid Robots Are Getting Smarter and Capable — But Researchers Mull If Their ‘ChatGPT Moment’ Is Here?](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-getting-smarter-capable-213040189.html)**
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
 
-Humanoid robots are showing meaningful progress beyond controlled demonstrations, with advances in autonomy, dexterity, and the ability to perform repetitive real-world tasks. But widespread commercial deployment still remains a work in progress. After spending a week meeting with leading robotics...
+Seeing is Believing
 
-Yahoo Finance • 21h ago
+citriniresearch.com • 3d ago
 
 ---
 
-**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
+**[KIDZ AI is developing robot lessons for schools after securing $1.9 million](https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html)**
 
-How to secure today’s AI robots against stealth cyber threats
+KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled.
 
-IEEE Spectrum • 3d ago
+Stock Titan • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ LIVE from Bellarmine College Prep in San Jose, California, the best in the west 
 
 📺 RoboSports Network
 
-👁️ 2K • 👍 39 • 2d ago
+👁️ 5K • 👍 63 • 2d ago
 
 ---
 
@@ -210,7 +208,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 603K • 👍 9K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 633K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -220,7 +218,7 @@ Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation 
 
 📺 Reward AI
 
-👁️ 134K • 👍 1K • 💬 108 • ⏱️ 2:20 • 4d ago
+👁️ 136K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
 
 ---
 
@@ -230,17 +228,7 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 16K • 👍 117 • 💬 34 • ⏱️ 2:56 • 2d ago
-
----
-
-**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
-
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
-
-📺 PRO ROBOTS
-
-👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 6d ago
+👁️ 17K • 👍 122 • 💬 34 • ⏱️ 2:56 • 2d ago
 
 ---
 
@@ -250,7 +238,37 @@ These New American Construction Robots Will Leave You Speechless Every year, the
 
 📺 Future Core
 
-👁️ 184K • 👍 700 • 💬 42 • ⏱️ 9:07 • 4d ago
+👁️ 184K • 👍 705 • 💬 42 • ⏱️ 9:07 • 4d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 231 • 💬 25 • ⏱️ 57:02 • 4d ago
+
+---
+
+**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
+
+A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
+
+📺 Auren Voss Insights
+
+👁️ 4K • 👍 116 • 💬 12 • ⏱️ 0:36 • 8h ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 48K • 👍 398 • 💬 49 • ⏱️ 18:12 • 5d ago
 
 ---
 
@@ -264,33 +282,13 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 ---
 
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
 
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
 
-📺 Ai Futuristic Robotics
+📺 UBTECH Robotics
 
-👁️ 48K • 👍 389 • 💬 48 • ⏱️ 18:12 • 5d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 230 • 💬 25 • ⏱️ 57:02 • 4d ago
-
----
-
-**[Manufacturing 50,000 Humanoid Robots Next Year | Bernt Børnich, 1X](https://www.youtube.com/watch?v=DXSs6yIL00w)**
-
-Bernt Børnich is the founder and CEO of 1X, a California-based humanoid robotics company. After years of developing NEO, ...
-
-📺 Relentless
-
-👁️ 36K • 👍 411 • 💬 67 • ⏱️ 43:02 • 1d ago
+👁️ 127K • 👍 987 • 💬 364 • ⏱️ 1:04 • 4d ago
 
 ---
 
