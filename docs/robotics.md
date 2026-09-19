@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T08:16:10.569898+00:00'
+updated: '2026-09-19T12:38:09.481725+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 08:16 UTC  
+**Last Updated:** September 19, 2026 at 12:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-4d ago
+5d ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon 
 
 https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
-5d ago
+6d ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 4d ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 5d ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
@@ -124,19 +124,21 @@ Business Insider • 23h ago
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-The Robot Report • 14h ago
+The Robot Report • 18h ago
+
+---
+
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+
+IEEE Spectrum • 20h ago
 
 ---
 
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg • 23h ago
-
----
-
-**[Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year](https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/)**
-
-reuters.com • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -144,7 +146,7 @@ reuters.com • 20h ago
 
 US Must Act to Counter China's Combat Robotics Dominance
 
-Yahoo • 22h ago
+Yahoo • 1d ago
 
 ---
 
@@ -156,33 +158,35 @@ BBC • 1d ago
 
 ---
 
-**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+**[Ukrainian Ratel H ground robotic system fitted with 12.7mm combat turret](https://www.pravda.com.ua/eng/news/2026/09/19/8054203/)**
 
-The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+Ukraine's Ratel Robotics is testing its Ratel H ground robotic system with a remotely controlled 12.7mm turret.
 
-MIT News • 2d ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 1d ago
+Українська правда • 4h ago
 
 ---
 
-**[Why do some robots feel creepy? We deliberately built one to find out](https://theconversation.com/why-do-some-robots-feel-creepy-we-deliberately-built-one-to-find-out-290231)**
+**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
 
-Why do some people perceive a robot as ‘creepy’ while others don’t? It seems our response to these increasingly common non-human companions is highly subjective.
+How to secure today’s AI robots against stealth cyber threats
 
-The Conversation • 2d ago
+IEEE Spectrum • 2d ago
 
 ---
 
-**[KIDZ AI is developing robot lessons for schools after securing $1.9 million](https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html)**
+**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
 
-KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled.
+Humanoid Robots Break Records In Beijing has 16 comments.
 
-Stock Titan • 20h ago
+dogonews.com • 20h ago
+
+---
+
+**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+
+Seeing is Believing
+
+citriniresearch.com • 2d ago
 
 ---
 
@@ -190,33 +194,71 @@ Stock Titan • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 129K • 👍 1K • 💬 106 • ⏱️ 2:20 • 4d ago
-
----
-
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
 AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
 📺 MindSeeded
 
-👁️ 565K • 👍 9K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 573K • 👍 9K • 💬 1K • ⏱️ 16:24 • 1d ago
 
 ---
 
-**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
 
-For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
 
-📺 PRO ROBOTS
+📺 ejunky66
 
-👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 6d ago
+👁️ 301K • 👍 3K • 💬 320 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+
+📺 Talent Replay
+
+👁️ 60K • 👍 215 • 💬 39 • ⏱️ 4:51 • 3d ago
+
+---
+
+**[Humanoid Robots 100 meter race in World Humanoid Robot Games #humanoidrobot #robot #robotics #tech](https://www.youtube.com/watch?v=O6T3g_nDa_M)**
+
+Humanoid Robots race during the World Humanoid Robot Games in Beijing China.
+
+📺 Code by Nadiia
+
+👁️ 8K • 👍 234 • 💬 8 • ⏱️ 0:16 • 8h ago
+
+---
+
+**[Why robots welcome All-Solid-State Batteries](https://www.youtube.com/watch?v=7HeOPQtKg9c)**
+
+We recommend watching with YouTube subtitles Audio and subtitles are available in both English and Korean. Even robots get ...
+
+📺 삼성SDI
+
+👁️ 173K • 👍 23 • ⏱️ 0:54 • 3d ago
+
+---
+
+**[The Wild Robot - MOVIE REACTION!!](https://www.youtube.com/watch?v=st5rjD4ZE7U)**
+
+Eric, Janci, Obi & Calvin react to and discuss Dreamworks' The Wild Robot! Blind Wave BEYOND members and Raw Rider ...
+
+📺 Blind Wave
+
+👁️ 44K • 👍 1K • 💬 126 • ⏱️ 59:48 • 1d ago
+
+---
+
+**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
+
+📺 Prasadtechshorts
+
+👁️ 23K • 👍 2K • 💬 19 • ⏱️ 0:37 • 3h ago
 
 ---
 
@@ -226,67 +268,27 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 13K • 👍 96 • 💬 30 • ⏱️ 2:56 • 1d ago
+👁️ 15K • 👍 105 • 💬 31 • ⏱️ 2:56 • 1d ago
 
 ---
 
-**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
+**[ROBOT SAVED THAT?!”#shorts #viral](https://www.youtube.com/watch?v=EEhss-6W2Jk)**
 
-One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
+ROBOT SAVED THAT?!” ⚠️important This channel is providing knowledge about the world and peoples. The Videos in this ...
 
-📺 UBTECH Robotics
+📺 ZainuTalk
 
-👁️ 123K • 👍 934 • 💬 345 • ⏱️ 1:04 • 3d ago
-
----
-
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
-
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
-
-📺 Cleo Abram
-
-👁️ 407K • 👍 20K • 💬 499 • ⏱️ 0:37 • 4d ago
+👁️ 452K • 💬 648 • ⏱️ 0:32 • 1d ago
 
 ---
 
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+**[Robotic Hand Copies Your Fingers in Real Time](https://www.youtube.com/watch?v=F-4YS7E-i1I)**
 
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+Wuji Hand 2 moves almost exactly like a human hand. It has 20 independently controlled joints across all fingers. Wear the glove ...
 
-📺 The AI Nexus
+📺 The Manav Podcast
 
-👁️ 12K • 👍 226 • 💬 25 • ⏱️ 57:02 • 4d ago
-
----
-
-**[this country is ahead the rest of the world...humanoid robot, AI, smart city EP. 1](https://www.youtube.com/watch?v=zR9191rcesU)**
-
-In today's episode, I entered the city of the future, where humanoid robots roam the streets, bullet trains go at 400km/h, and ...
-
-📺 Steven Ndukwu
-
-👁️ 609K • 👍 6K • 💬 865 • ⏱️ 27:23 • 6d ago
-
----
-
-**[America’s Massive Robot Parade Just Stunned the Entire World](https://www.youtube.com/watch?v=M0VJlksXy4Y)**
-
-Grab Your Ebook Here : https://hiddenglobe.space contact business: toponmedia@gmail.com Over Labor Day weekend, the ...
-
-📺 Unseen Vault
-
-👁️ 228K • 👍 6K • 💬 327 • ⏱️ 33:11 • 6d ago
-
----
-
-**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
-
-China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
-
-📺 NextGen Humanoids
-
-👁️ 41K • 👍 272 • 💬 62 • ⏱️ 11:33 • 3d ago
+👁️ 2K • 👍 135 • 💬 7 • ⏱️ 0:32 • 15h ago
 
 ---
 

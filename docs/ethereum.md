@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-19T08:16:10.567367+00:00'
+updated: '2026-09-19T12:38:09.478266+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 08:16 UTC  
+**Last Updated:** September 19, 2026 at 12:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,619.24
+### $2,651.52
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.1%  
-**7d:** +6.4%  
-**30d:** +4.8%  
-**90d:** +52.5%  
-**1y:** -41.2%  
+**24h:** +3.5%  
+**7d:** +6.6%  
+**30d:** +5.0%  
+**90d:** +52.8%  
+**1y:** -41.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $321.40B
+**Market Cap:** $322.22B
 Rank #2
 
 **Circulating Supply:** 122,061,837 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.8%
+-46.6%
 
 **All-Time Low:** $0.43
-+607959.5%
++609737.9%
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NOTICE: This AMA is LIVE as of 16 September at 1400 UTC! It remains open until a closure notice replaces this line :)! Have a question you'd like answered? Post below! Members of the Protocol Cluster at Ethereum Foundation are back to answer your questions throughout the day! This is their 15th AMA. There are a lot of members taking part, so keep the questions coming, and enjoy! Oh! And to make it easier for us to respond to everyone, please post just one question per comment. Prior AMAs: #14, Aug 2025 #13, Feb 2025 #12, Sep 2024 #11, Jan 2024 #10, Jul 2023 #9, Jan 2023 #8, Jul 2022 #7, Jan 2022 #6, Jun 2021 #5, Nov 2020 #4, Jul 2020 #3, Feb 2020 #2, Jul 2019 #1, Jan 2019
 
-5d ago
+6d ago
 
 ---
 
@@ -156,7 +156,7 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-coindesk.com • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -164,23 +164,23 @@ coindesk.com • 1d ago
 
 Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH has since rebounded 10% from its recent low.
 
-24/7 Wall St. • 12h ago
+24/7 Wall St. • 17h ago
 
 ---
 
-**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
+**[Ethereum challenges $2,550 resistance as ETF in...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-di-atas-2550)**
 
-The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
+Ethereum (ETH) has bounced back from a recent selloff and is testing the $2,500–$2,550 resistance zone, a key level it has struggled to surpass. This time, renewed inflows into U.S. spot Ethereum ETFs, totaling about $66.4 million on September 18, signal growing institutional interest after several days of outflows. If ETH can sustain a move above $2,550, it may open the way to higher targets at $2,700, $2,800, and potentially the psychological $3,000 level. Additionally, with around 35% of ETH staked and thus less liquid, supply constraints could support price gains. However, confirmation of the breakout is crucial to avoid a reversal back into the current range.
 
-Yahoo Finance • 1d ago
+Pluang • 32m ago
 
 ---
 
-**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
+**[Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html)**
 
-XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
+Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.
 
-24/7 Wall St. • 1d ago
+finance.yahoo.com • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coi
 
 Bitcoin (CRYPTO: BTC) on Friday picked up momentum to reclaim $78,000 for the first time in three days, while Ethereum (CRYPTO: ETH) followed higher to touch $2,500.XRP (CRYPTO: XRP) climbed above $1.30, while Dogecoin (CRYPTO: DOGE) jumped roughly 6%.Ripple Chief Legal Officer Stuart Alderoty said…
 
-TradingView • 19h ago
+TradingView • 1d ago
 
 ---
 
@@ -196,15 +196,7 @@ TradingView • 19h ago
 
 Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
 
-The Motley Fool • 12h ago
-
----
-
-**[Current price of Ethereum for Sept. 18, 2026](https://fortune.com/article/price-of-ethereum-09-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -212,21 +204,29 @@ Fortune • 16h ago
 
 Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model’s control.
 
-CryptoSlate • 3h ago
+CryptoSlate • 2d ago
+
+---
+
+**[Which Crypto ETF Drew the Most Money Last Week? Not Bitcoin, and Not Ethereum](https://beincrypto.com/zcash-ethereum-crypto-etf-weekly-flows/)**
+
+Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
+
+BeInCrypto • 4h ago
+
+---
+
+**[Current price of Ethereum for Sept. 18, 2026](https://fortune.com/article/price-of-ethereum-09-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 20h ago
 
 ---
 
 **[Crypto stocks surge as bitcoin and ethereum rally sharply](https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701)**
 
-Investing.com • 15h ago
-
----
-
-**[Ethereum Reclaims $2,600 After a Week — Is a Bigger Rally Ahead?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61880462/ethereum-reclaims-2600-after-a-week-is-a-bigger-rally-ahead)**
-
-Ethereum reclaims $2,600 as fees plunge. Analysts see $2,700-$3,000 upside above $2,570, though demand remains uncertain.
-
-Benzinga • 12h ago
+Investing.com • 19h ago
 
 ---
 
@@ -234,23 +234,33 @@ Benzinga • 12h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mmpTNOFFvn8)**
+**[Ethereum Just Broke Out. Is It A TRAP?? (My Trade)](https://www.youtube.com/watch?v=uBH_WkIIoJ4)**
 
-BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum price prediction: yesterday I said ETH was one close from a breakout. Last night it got it. ETH closed the day at $2612, ...
 
-📺 Crypto World
+📺 Marzell Crypto
 
-👁️ 5K • 👍 274 • 💬 23 • ⏱️ 26:00 • 5h ago
+👁️ 89 • 👍 7 • 💬 37 • ⏱️ 3:44 • 1h ago
 
 ---
 
-**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
+**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
 
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
+Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
 
-📺 Trade Confident
+📺 More Crypto Online
 
-👁️ 2K • 👍 16 • 💬 2 • ⏱️ 4:53 • 13h ago
+👁️ 4K • 👍 216 • 💬 12 • ⏱️ 9:40 • 5h ago
+
+---
+
+**[REAL ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=isn8pKmNk0A)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 102 • 👍 16 • 💬 39 • ⏱️ 5:12 • 3h ago
 
 ---
 
@@ -260,17 +270,27 @@ Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your r
 
 📺 Crypto Capital Venture
 
-👁️ 24K • 👍 713 • 💬 200 • ⏱️ 20:18 • 16h ago
+👁️ 26K • 👍 734 • 💬 208 • ⏱️ 20:18 • 20h ago
 
 ---
 
-**[ETH Is One Close From A Breakout And I&#39;m STILL Long!!](https://www.youtube.com/watch?v=qV44x4C-lkk)**
+**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
 
-Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedrip ...
+Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
 
-📺 Marzell Crypto
+📺 Trade Confident
 
-👁️ 1K • 👍 13 • 💬 17 • ⏱️ 4:11 • 21h ago
+👁️ 2K • 👍 18 • 💬 2 • ⏱️ 4:53 • 17h ago
+
+---
+
+**[BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mmpTNOFFvn8)**
+
+BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 383 • 💬 65 • ⏱️ 26:00 • 9h ago
 
 ---
 
@@ -280,27 +300,7 @@ BMNR, Ethereum (ETH), Strategy (MSTR) and Bitcoin (BTC) are exploding higher - a
 
 📺 Big Time Trades
 
-👁️ 4K • 👍 105 • 💬 23 • ⏱️ 18:33 • 11h ago
-
----
-
-**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
-
-RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
-
-📺 BULLRUNNERS
-
-👁️ 8K • 👍 200 • 💬 17 • ⏱️ 1:06 • 10h ago
-
----
-
-**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 13K • 👍 216 • 💬 111 • ⏱️ 49:49 • 1d ago
+👁️ 5K • 👍 112 • 💬 23 • ⏱️ 18:33 • 15h ago
 
 ---
 
@@ -310,27 +310,27 @@ Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bi
 
 📺 VirtualBacon
 
-👁️ 10K • 👍 125 • 💬 15 • ⏱️ 1:07 • 1d ago
+👁️ 10K • 👍 128 • 💬 18 • ⏱️ 1:07 • 1d ago
 
 ---
 
-**[&quot;The Largest Altcoin Season Of All Time Is Loading&quot; XRP, Ethereum &amp; Bitcoin Are About To Turn Heads](https://www.youtube.com/watch?v=dUFoQIrCExg)**
+**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
 
-Well everyone, its officially over. We all knew it would eventually happen, but maybe some of us didnt expect it to happen so ...
+RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
 
-📺 Money Rules - Investing Tips 
+📺 BULLRUNNERS
 
-👁️ 37K • 👍 2K • 💬 377 • ⏱️ 13:54 • 2d ago
+👁️ 11K • 👍 232 • 💬 18 • ⏱️ 1:06 • 14h ago
 
 ---
 
-**[SORRY Bears - BOTTOM is in for Ethereum and Altcoins  (Bull Run STARTED)](https://www.youtube.com/watch?v=x2HkmxM9KTQ)**
+**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
 
-Join The VIP Discord: https://whop.com/joined/cryptocamel/products/cryptocamel/ LAST Discord Win: $AI (130x) ⚡ Follow me ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Crypto Camel
+📺 Milk Road
 
-👁️ 500 • 👍 33 • 💬 8 • ⏱️ 10:11 • 16h ago
+👁️ 13K • 👍 217 • 💬 111 • ⏱️ 49:49 • 1d ago
 
 ---
 

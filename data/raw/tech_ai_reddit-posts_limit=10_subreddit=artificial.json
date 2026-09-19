@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "AI is a better teacher than most human teachers",
+      "author": "Chemical_Job7027",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
+      "published": 1789812577.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so obviously I had a LOT of questions ( including really basic ones). I remember during my 1st year asking professors things and sometimes literally being made fun of because apparently my question was \"stupid\" or something I should already know. Which is great when you're already insecure because everyone around you seems to know more than you lol. And honestly a lot of my professors just weren't good at explaining things. Like they'd come into class, open a PowerPoint, read the slides, maybe explain a couple things and then sit down with their laptop. That was basically the class. I'd go home and realize I understood almost nothing and had to figure it out myself anyway. And asking questions wasn't always helpful either. Sometimes they'd explain it again but in basically the exact same way so obviously if I didn't understand it the first time I still didn't understand it. And then what? Ask them a 3rd time? At some point you just feel embarrassed and say \"yeah okay I get it\" even though you absolutely don't. That's where AI entered and changed my life. I can ask the dumbest question ever and it doesn't care. I can literally say \"I don't understand a single word you just said, explain it to me like I know absolutely nothing about this\" and it will. It never makes me feel stupid for not knowing something. I'm still the one studying. I'm still the one doing the assignments and taking the exams. But I genuinely don't think I would have gotten this far without it. I also think AI could eventually be really useful for grading. Obviously AI can make mistakes too, I'm not denying that. But professors are human too. They're tired, they can misunderstand an answer, accidentally give someone the wrong grade, be inconsistent when correcting 30 exams, etc. I really don't understand why people act like human grading is somehow completely objective and error-free. I'd honestly trust more a well designed AI grading system with clear criteria. And I know people are probably going to hate this part but AI has genuinely been a better teacher to me than most of the actual teachers I've had. I also don't understand why whenever AI and education are mentioned people immediately jump to \"students use it to cheat\". Yeah, obviously some do. People use basically every technology for shitty things. That doesn't make the technology itself useless. I've never used it because I don't want to do anything myself. It's literally the opposite. I use it because I WANT to understand what I'm doing. So yeah. I understand being worried about how AI is used. I understand being against people using it to cheat or replace their own thinking. But being against AI itself? I genuinely don't get it. I'm the one who has done the work for these 3 years, but AI is a huge part of the reason I was able to understand that work instead of giving up"
+    },
+    {
       "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking \u2014 despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
       "author": "xx_HeckinChonker_xx",
       "url": "https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/",
@@ -24,6 +35,17 @@
       "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
     },
     {
+      "title": "Building a cool project with AI takes more than one prompt",
+      "author": "niosurfer",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/",
+      "published": 1789818394.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A GitHub repository once reflected much of a programmer\u2019s intellectual effort. Today, AI may write much of the code, while the human contribution happens behind the scenes: defining the architecture, setting constraints, catching mistakes, and steering countless iterations. As programmers, we want that effort and direction recorded. We want to show that a project was not created from a single simplistic prompt. Our AI projects could maintain a chronological PROMPT_SOURCE.md containing the prompts, follow-ups, corrections, attachments, and results of each interaction. The code shows what was built. The prompt history shows why it was built that way and how the programmer directed the process. It becomes both an archive of that contribution and a record others can examine to understand the work and the decisions behind the final result. Would you want your projects to have a prompt history, or is it just glorified logging?"
+    },
+    {
       "title": "The internet is inbreeding.",
       "author": "Tricky_Hope_6746",
       "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
@@ -33,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the \"oh, a niche blog I hadn't seen before\" kind of unfamiliar \u2014 more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own \"research,\" where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited \"sources\" are several steps removed from the original. We were sold \"trained on the internet.\" What we're actually getting looks a lot more like \"trained on the internet's marketing department."
+    },
+    {
+      "title": "Anyone combined GPT-6 Astra + Higgsfield AI in Blender via MCP to save tokens for 3D printing?",
+      "author": "Julianw20012",
+      "url": "https://www.reddit.com/r/artificial/comments/1wki3h0/anyone_combined_gpt6_astra_higgsfield_ai_in/",
+      "published": 1789811791.0,
+      "thumbnail": "https://preview.redd.it/0fkln5999gqh1.png?width=640&crop=smart&auto=webp&s=c0057536f9ec88653ef484eb63fe675606b1593e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I've been experimenting with using GPT-6 Astra via Codex connected to Blender through MCP (port 9876) to generate 3D models for multicolor 3D printing (exported to .3MF for Bambu Studio with separate color bodies/materials). So far, I've managed to build around 22 models directly in Blender (including a clean mechanical fatbike and a Dutch traffic/town sign in full color). Astra's precision and CAD-like layering are honestly impressive, and the printed results came out great. However, running long Python code generation inside Blender alongside web dev tasks (and some OS control automation) completely ate through my weekly GPT Pro token limits. To stop burning so many tokens on raw geometric mesh scripting, I\u2019m looking into offloading the actual 3D generation to Higgsfield AI using their Blender plugin and MCP bridge (bridge.higgsfield.ai/mcp), while keeping Astra as the director/orchestrator. I'm currently looking at Higgsfield's PLUS plan (1,000 credits/mo, where generating a 3D asset costs 3 credits). Before I jump in, I have a few questions for anyone who has tried this exact combo: Quality & Printability: How does Higgsfield's 3D mesh quality compare to Astra's direct geometric modeling? Tools like Meshy often produce single organic \"blobs\" with wrapped UV textures, which are a nightmare for multi-material FDM slicing compared to clean, distinct bodies. Layered signage/reliefs: Attached is my next project: a layered door nameplate (\"Melissa\"). Would Higgsfield generate sharp, separated embossed parts (letters, ribbon, butterflies, base plate)that a slicer can split by color, or will it just slap a flat texture onto a messy mesh? Token efficiency: Does triggering Higgsfield via MCP actually reduce the heavy LLM context load compared to letting Astra script every boolean and vertex natively? Would love to hear from anyone actively running Astra 6 + Higgsfield via Blender MCP, especially if you print your assets!"
     },
     {
       "title": "US military had close call after using AI for false intelligence report, sources say",
@@ -46,6 +79,17 @@
       "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
     },
     {
+      "title": "Qwen 3.8 27B running on a single RTX 5090 researches and creates a full animation using only code.",
+      "author": "Acceptable-Object390",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkl1nc/qwen_38_27b_running_on_a_single_rtx_5090/",
+      "published": 1789821168.0,
+      "thumbnail": "https://external-preview.redd.it/ejJlc2UyYnAwaHFoMftzsOycPfGJkafLtXlEDoRMHtNFA8HBuuXjOdjQa1YP.png?width=640&crop=smart&auto=webp&s=696e4643a06e1a8ec767d6c5f8c996df693d74ae",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The goal of this post is 2 fold. First, I wanted to show what a local model like Qwen 3.8 27B running on a single RTX 5090 GPU in a harness like Row-Bot can do. Second, I wanted to create a full feature video of what Row-Bot can do. So I decided to combine the two with one prompt: \"I want to create a single animation showing everything row-bot can do and also emphasizing the open source, local-first, privacy and model agnostic angle. the animation needs to be accurate and have a wow visual impact and should cover everything row-bot can do. read the feature list from the Row-Bot public features page. do not use video generation, make it as long as necessary to convey the full message. structure it so it tells a coherent impactful story. use whatever else makes sense like html, javascript, three.js. keep iterating till you think you have built the perfect complete animation.\" This combined research, accurate drafting, staying on brief, coding, 3d work and iterating on a long running task, all locally and privately. This is the result. Even the background eerie music was generated with code. Row-Bot is designed with local models in mind and is the best harness to get the most out of local, open-source or even frontier models."
+    },
+    {
       "title": "Google\u2019s Gemini AI hacked into other companies, adding to \u2018rogue\u2019 AI incidents. The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta.",
       "author": "coolbern",
       "url": "https://www.reddit.com/r/artificial/comments/1wk9mou/googles_gemini_ai_hacked_into_other_companies/",
@@ -57,28 +101,6 @@
       "description": "The incursions came during tests of its cybersecurity skills \u2014 similar to other incidents disclosed by OpenAI, Anthropic and Meta."
     },
     {
-      "title": "California Gov. Gavin Newsom inks AI oversight executive order to improve safety 'before it's too late'",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk7xu2/california_gov_gavin_newsom_inks_ai_oversight/",
-      "published": 1789779468.0,
-      "thumbnail": "https://external-preview.redd.it/qOR3kwRiY20xd38Y73RmrnIK-_zGCt_7TvajH0_J0nY.jpeg?width=640&crop=smart&auto=webp&s=656996c205f2280fe1a2caf0c799bb64be7758dd",
-      "external_url": "https://www.nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "Newsom is the latest Democrat and potential White House contender to call for regulation of AI amid concerns over the rapidly advancing technology."
-    },
-    {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "author": "israelavila",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk9h0n/gemini_hacked_three_companies_in_first_known/",
-      "published": 1789783825.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": "Google's opens new tab Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, \u200bthe first known example of the company's AI systems autonomously committing \u200csuch an act."
-    },
-    {
       "title": "AI Hate.",
       "author": "Illustrious_Job8884",
       "url": "https://www.reddit.com/r/artificial/comments/1wk76kr/ai_hate/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I've been thinking about this after posting in a Brazilian community. My original point was basically this: Using Claude at work isn't about using it as a replacement for Google or blindly asking it to do your job. It's about understanding your own processes well enough to recognize where AI can automate, simplify, or improve them. I said that the real problem isn't someone who doesn't use AI. It's the employee who doesn't understand the processes they're executing, can't identify unnecessary steps, and treats their workflow as something that must simply be followed because \"that's how it's done.\" The post got a lot of negative responses, but surprisingly few people actually argued against that point. Most of the pushback seemed to be directed at AI itself Concerns about hallucinations, laziness, job replacement, people becoming dependent on it, etc. That got me wondering: Would people react the same way if I replaced \"AI\" with \"Excel\"? Imagine the exact same argument: \"Don't use Excel as a calculator. Understand your process first, then identify what Excel can automate, simplify, or eliminate.\" Nobody would find that particularly controversial. And if someone said: \"The problem isn't people who don't use Excel. The problem is employees who spend hours manually doing repetitive work without understanding that the process could be automated.\" That would probably be interpreted as normal workplace advice. But replace Excel with AI, and suddenly the discussion becomes much more emotional. I'm not saying AI is equivalent to Excel, or that every task should be handed over to an LLM. AI has obvious limitations, and understanding when not to use it is part of knowing how to use it. What i find interesting is the difference in the reaction. Why does AI seem to trigger so much more hostility than other tools that also automate work?"
-    },
-    {
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "author": "Adventurous-Host8062",
-      "url": "https://www.reddit.com/r/artificial/comments/1wjzud8/openai_caught_its_models_leaving_notes_to/",
-      "published": 1789759604.0,
-      "thumbnail": "https://external-preview.redd.it/YQon0B1e0EfcHiLUr--hGInt6j4kGn9MDzKJffBDtqQ.jpeg?width=640&crop=smart&auto=webp&s=500b848df756ebd4f9baf9db874428f17913ac5c",
-      "external_url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html",
-      "site_name": "Yahoo Tech",
-      "favicon": "https://tech.yahoo.com/favicon.ico?favicon.1exqu8dce77s7.ico",
-      "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
-    },
-    {
-      "title": "Built a complete AI Analytics dashboard for B2B SaaS feedback at age 13.",
-      "author": "Decent_Grape_1059",
-      "url": "https://www.reddit.com/r/artificial/comments/1wke6f1/built_a_complete_ai_analytics_dashboard_for_b2b/",
-      "published": 1789798157.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys, I wanted to show you my latest project that combines LLMs with product management. It\u2019s a B2B SaaS platform called FeedbackAI (temporary name). How the AI Engine works in the app: When a raw user comment comes in (e.g., \"The mobile app is loading extremely slow on my phone\"), the background AI automatically parses it and structured outputs it into: - Category: Performance - Priority: High - Summary: \"Improve mobile speed\" It also clusters similar feedbacks together to create global recommendations for product teams. I\u2019m 13 and still learning, so this is currently a non-commercial validation project. The app is live but locked with a password so my OpenAI credits don't vanish overnight. Bypass Code: BETA2026 Link: https://feedback-ai-beta.lovable.app Would love to get some feedback on how the AI behaves and if you can manage to break the input parser! (This isn\u2019t self-promotion, just asking for your opinions)"
     }
   ],
-  "fetched_at": "2026-09-19T08:15:41.598640+00:00"
+  "fetched_at": "2026-09-19T12:37:41.950722+00:00"
 }

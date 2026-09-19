@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T08:16:10.562471+00:00'
+updated: '2026-09-19T12:38:09.471495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - videos
 - cryptocurrency
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 08:16 UTC  
+**Last Updated:** September 19, 2026 at 12:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,054.00
+### $81,272.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.9%  
-**7d:** +5.7%  
-**30d:** +3.7%  
-**90d:** +26.9%  
-**1y:** -29.9%  
+**24h:** +1.5%  
+**7d:** +5.8%  
+**30d:** +3.8%  
+**90d:** +27.0%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.15B
+**Market Cap:** $1631.59B
 Rank #1
 
-**Circulating Supply:** 20,086,450 BTC
-95.6% of max
+**Circulating Supply:** 20,086,521 BTC
+95.7% of max
 
 **All-Time High:** $126,080.00
 -35.6%
 
 **All-Time Low:** $67.81
-+119640.5%
++119695.0%
 
 ---
 
@@ -87,7 +87,7 @@ Obligatory photo
 
 **[$1 = 1 Satoshi coming in 10 years](https://www.reddit.com/r/Bitcoin/comments/1wiozon/1_1_satoshi_coming_in_10_years/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -95,7 +95,7 @@ Obligatory photo
 
 If this is not the bottom, I am unsure what to say. The resilience of BTC is remarkable this cycle. It demonstrates that BTC has never required anything or anyone. BTC will act as it chooses. DCA n Chill 🙌🏽 Update: I would add that less than 5 years ago, two or three of the events mentioned would have driven the price down sharply. Now, the shift barely exceeds 5 percent; interestingly, the reverse holds as well, since two or three positive reports also fail to move the price. So when does it shift? On a random Tuesday when no one is watching. I was pooping when the price jump 60k to 75k 😅
 
-1d ago
+2d ago
 
 ---
 
@@ -157,23 +157,31 @@ No future major uncertain policy changes, should be up from here.
 
 Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
 
-Yahoo Finance • 17h ago
+finance.yahoo.com • 21h ago
 
 ---
 
-**[European Central Bank President Blocked Binance’s EU Entry: Report](https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance)**
+**[BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June](https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says)**
 
-A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union.
+The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.
 
-Bitcoin Magazine • 10h ago
+CoinDesk • 1d ago
 
 ---
 
-**[$Bitcoin (BTC.CC)$](https://www.moomoo.com/community/feed/bitcoin-btc-cc-117296489890197)**
+**[Kevin O'Leary Names the One Thing Standing Between Bitcoin and $1 Million](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-names-one-thing-104909714.html)**
 
-$Bitcoin (BTC.CC)$
+Mr. Wonderful Kevin O'Leary backs $1 million Bitcoin on one condition, as 6.04 million BTC sit exposed to quantum risk.
 
-Moomoo • 56m ago
+finance.yahoo.com • 1h ago
+
+---
+
+**[Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day](https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html)**
+
+Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
+
+finance.yahoo.com • 38m ago
 
 ---
 
@@ -181,7 +189,7 @@ Moomoo • 56m ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-VanEck • 20h ago
+VanEck • 1d ago
 
 ---
 
@@ -201,17 +209,19 @@ Muddy River Sports • 1d ago
 
 ---
 
+**[Bitcoin shows strong demand as entity-adjusted SOPR stays above 1](https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/)**
+
+Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco…
+
+TradingView • 2h ago
+
+---
+
 **[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 20h ago
-
----
-
-**[‘I’m Back’—Kevin O’Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
-
-Forbes • 20h ago
+Fortune • 1d ago
 
 ---
 
@@ -219,15 +229,7 @@ Forbes • 20h ago
 
 Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
 
-The Block • 14h ago
-
----
-
-**[Why Bitcoin Is Up Today](https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/)**
-
-Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
-
-The Motley Fool • 12h ago
+The Block • 18h ago
 
 ---
 
@@ -237,7 +239,7 @@ The Motley Fool • 12h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 310 • 💬 266 • 1d ago
+⬆️ 311 • 💬 266 • 2d ago
 
 ---
 
@@ -254,22 +256,6 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
 
 ⬆️ 7 • 💬 1 • 6d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
-
----
-
-**[Revolut confirms it sent passport and Bitcoin data to a fake government address](https://news.ycombinator.com/item?id=49671085)**
-
-Revolut confirme à BeInCrypto qu’un faux email gouvernemental a dérobé des données clients, dont passeports et dossiers Bitcoin.
-
-⬆️ 6 • 💬 0 • 6d ago • [BeInCrypto](https://fr.beincrypto.com/revolut-fuite-donnees-fausse-demande-gouvernement/)
-
----
-
-**[Revolut Confirms Sending Passport and Bitcoin Records to Fake Government Email](https://news.ycombinator.com/item?id=49670849)**
-
-Revolut confirms to BeInCrypto a fake government email pulled customer data, including passports and Bitcoin records.
-
-⬆️ 4 • 💬 0 • 6d ago • [BeInCrypto](https://beincrypto.com/revolut-data-breach-fake-government-request/)
 
 ---
 
@@ -295,11 +281,17 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 ---
 
+**[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
+
+⬆️ 1 • 💬 0 • 2m ago
+
+---
+
 **[Play Bitcoin Bird](https://news.ycombinator.com/item?id=49739330)**
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 1d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
+⬆️ 1 • 💬 0 • 2d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -308,6 +300,14 @@ Top cryptocurrency prices and charts, listed by market capitalization. Free acce
 Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
 
 ⬆️ 2 • 💬 0 • 3d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
+
+---
+
+**[Revolut handed over personal details to fake government request](https://news.ycombinator.com/item?id=49676088)**
+
+Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized third party after accepting a fake government information request.
+
+⬆️ 2 • 💬 0 • 6d ago • [The Crypto Times](https://www.cryptotimes.io/2026/09/12/revolut-handed-over-bitcoin-histories-passports-on-spoofed-government-email/)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vot
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 1K • 💬 125 • ⏱️ 16:49 • 10h ago
+👁️ 35K • 👍 2K • 💬 176 • ⏱️ 16:49 • 14h ago
 
 ---
 
@@ -331,7 +331,7 @@ Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ..
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 516 • 💬 14 • ⏱️ 1:27 • 4h ago
+👁️ 23K • 👍 808 • 💬 28 • ⏱️ 1:27 • 9h ago
 
 ---
 
@@ -341,57 +341,7 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 92K • 👍 3K • 💬 145 • ⏱️ 11:24 • 14h ago
-
----
-
-**[Bitcoin - Look To See If It&#39;s A Lower High Or Higher High](https://www.youtube.com/watch?v=9nCz29dOcqg)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 39K • 👍 583 • 💬 22 • ⏱️ 0:55 • 2d ago
-
----
-
-**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
-
-WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
-
-📺 Altcoin Daily
-
-👁️ 104K • 👍 4K • 💬 152 • ⏱️ 12:52 • 2d ago
-
----
-
-**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
-
-Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 562 • 💬 102 • ⏱️ 1:06:33 • 18h ago
-
----
-
-**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
-
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
-
-📺 Bloomberg Television
-
-👁️ 14K • 👍 113 • 💬 9 • ⏱️ 10:06 • 11h ago
-
----
-
-**[Crypto Lost the CLARITY Act. Then Won 3 Times in 48 Hours.](https://www.youtube.com/watch?v=AqOn66CJduw)**
-
-The CLARITY Act died in the Senate 49 to 50. The biggest crypto legislation news of the week was not that vote. It was the crypto ...
-
-📺 Dana Love, PhD
-
-👁️ 46K • 👍 1K • 💬 107 • ⏱️ 24:47 • 15h ago
+👁️ 100K • 👍 3K • 💬 160 • ⏱️ 11:24 • 18h ago
 
 ---
 
@@ -401,17 +351,67 @@ Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 89 • ⏱️ 13:18 • 7h ago
+👁️ 57K • 👍 2K • 💬 129 • ⏱️ 13:18 • 11h ago
 
 ---
 
-**[🚨 &quot;No CLARITY Act, NO PROBLEM!&quot; The SEC &amp; CFTC HUGE Crypto Plans!](https://www.youtube.com/watch?v=GnDDbJ51xN8)**
+**[🚀 Clarity Dies Bitcoin Flies: Hikes, Tokenization, AI, Oil, DEXs](https://www.youtube.com/watch?v=osP-Deenecc)**
 
-With the failed Clarity Act vote in the Senate the SEC and CFTC vow to provide crypto regulatory guidance. ⭐️ Trade crypto ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
 
-📺 Thinking Crypto
+📺 InvestAnswers
 
-👁️ 21K • 👍 355 • 💬 31 • ⏱️ 1:26 • 1d ago
+👁️ 48K • 👍 3K • 💬 117 • ⏱️ 24:24 • 17h ago
+
+---
+
+**[Bitcoin History Is Repeating](https://www.youtube.com/watch?v=6L4_AE8Z6cc)**
+
+Bitcoin History Is Repeating Want access to the Platinum Group? Join here: ...
+
+📺 Mister Crypto
+
+👁️ 1K • 👍 80 • 💬 48 • ⏱️ 9:34 • 4h ago
+
+---
+
+**[MSTR CEO Phong Le: Becoming the JP Morgan of Bitcoin](https://www.youtube.com/watch?v=p-LlLGxqD4o)**
+
+Strategy's aspiration isn't to be a Bitcoin holding company — it's to be the JPMorgan of Bitcoin. CEO Phong Le explains what that ...
+
+📺 Bitcoin Magazine
+
+👁️ 18K • 👍 343 • 💬 22 • ⏱️ 16:35 • 16h ago
+
+---
+
+**[The Bitcoin Retirement Trap Nobody Warned You About](https://www.youtube.com/watch?v=6LCBWwavR8s)**
+
+MY 5-YEAR BITCOIN RETIREMENT CALCULATOR AND CHEAT SHEET: https://links.marketdisruptors.io/retire. Most people ...
+
+📺 Mark Moss
+
+👁️ 85K • 👍 2K • 💬 205 • ⏱️ 18:49 • 1d ago
+
+---
+
+**[BITCOIN: You NEED To See This! (Final Resistance)](https://www.youtube.com/watch?v=umLn_wyhVrE)**
+
+Opening Statement & Video Context 0:00-3:12 Analysis 3:12-11:06 My Market Bottom Buying Strategy ...
+
+📺 Wolves of Crypto
+
+👁️ 5K • 👍 307 • 💬 116 • ⏱️ 11:07 • 10h ago
+
+---
+
+**[Bear Market Officially OVER? The Exact Metric BTC Just Triggered](https://www.youtube.com/watch?v=LJbQe8zGnnY)**
+
+Bitcoin may have just broken the four-year cycle. One metric says the bear market is done. Trade alongside the Verified Pro ...
+
+📺 Verified Investing
+
+👁️ 13K • 👍 529 • 💬 29 • ⏱️ 21:03 • 18h ago
 
 ---
 
