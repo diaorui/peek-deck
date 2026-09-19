@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-19T03:30:12.871148+00:00'
+updated: '2026-09-19T08:16:10.567367+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 03:30 UTC  
+**Last Updated:** September 19, 2026 at 08:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.6%  
-**7d:** +5.8%  
-**30d:** +4.2%  
-**90d:** +51.6%  
-**1y:** -41.5%  
+**24h:** +5.1%  
+**7d:** +6.4%  
+**30d:** +4.8%  
+**90d:** +52.5%  
+**1y:** -41.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $320.09B
+**Market Cap:** $321.40B
 Rank #2
 
 **Circulating Supply:** 122,061,837 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.0%
+-46.8%
 
 **All-Time Low:** $0.43
-+605559.9%
++607959.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone! I used to buy ETH on Binance P2P because I thought it was the cheap
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-3d ago
+4d ago
 
 ---
 
@@ -120,7 +120,7 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-4d ago
+5d ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-5d ago
+6d ago
 
 ---
 
@@ -156,7 +156,7 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 21h ago
+coindesk.com • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 21h ago
 
 Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH has since rebounded 10% from its recent low.
 
-24/7 Wall St. • 7h ago
+24/7 Wall St. • 12h ago
 
 ---
 
@@ -176,11 +176,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
+
+XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[Bitcoin Cracks $78,000 and Ethereum, XRP, Dogecoin May Be 'About To Explode'](https://www.tradingview.com/news/benzinga:b14ae6010094b:0-bitcoin-cracks-78-000-and-ethereum-xrp-dogecoin-may-be-about-to-explode/)**
 
 Bitcoin (CRYPTO: BTC) on Friday picked up momentum to reclaim $78,000 for the first time in three days, while Ethereum (CRYPTO: ETH) followed higher to touch $2,500.XRP (CRYPTO: XRP) climbed above $1.30, while Dogecoin (CRYPTO: DOGE) jumped roughly 6%.Ripple Chief Legal Officer Stuart Alderoty said…
 
-TradingView • 14h ago
+TradingView • 19h ago
 
 ---
 
@@ -188,7 +196,7 @@ TradingView • 14h ago
 
 Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
 
-The Motley Fool • 8h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -196,37 +204,29 @@ The Motley Fool • 8h ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-fortune.com • 11h ago
+Fortune • 16h ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Says AI Won’t Doom Crypto Security](https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security)**
+**[Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed](https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/)**
 
-Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense.
+Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model’s control.
 
-Decrypt • 1d ago
+CryptoSlate • 3h ago
 
 ---
 
 **[Crypto stocks surge as bitcoin and ethereum rally sharply](https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701)**
 
-Investing.com • 10h ago
+Investing.com • 15h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends recovery, ETH eyes $2,500, XRP holds $1.30](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-recovery-eth-eyes-2-500-xrp-holds-130-202609180332)**
+**[Ethereum Reclaims $2,600 After a Week — Is a Bigger Rally Ahead?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61880462/ethereum-reclaims-2600-after-a-week-is-a-bigger-rally-ahead)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery, trading above $76,700, $2,400 and $1.300, respectively, on Friday. These top three cryptocurrencies now face key technical levels that could determine whether their recoveries extend further or pull back.
+Ethereum reclaims $2,600 as fees plunge. Analysts see $2,700-$3,000 upside above $2,570, though demand remains uncertain.
 
-FXStreet • 23h ago
-
----
-
-**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
-
-Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
-
-Finance Magnates • 9h ago
+Benzinga • 12h ago
 
 ---
 
@@ -234,23 +234,23 @@ Finance Magnates • 9h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mmpTNOFFvn8)**
+
+BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 274 • 💬 23 • ⏱️ 26:00 • 5h ago
+
+---
+
 **[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
 
 Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
 
 📺 Trade Confident
 
-👁️ 1K • 👍 10 • 💬 2 • ⏱️ 4:53 • 8h ago
-
----
-
-**[🔥 BMNR Holders: ETH &amp; BTC Just Exploded - Tokenized Stocks Changed Everything](https://www.youtube.com/watch?v=CwKTyxC8EtQ)**
-
-BMNR, Ethereum (ETH), Strategy (MSTR) and Bitcoin (BTC) are exploding higher - and one of the biggest stories behind this ...
-
-📺 Big Time Trades
-
-👁️ 2K • 👍 79 • 💬 19 • ⏱️ 18:33 • 6h ago
+👁️ 2K • 👍 16 • 💬 2 • ⏱️ 4:53 • 13h ago
 
 ---
 
@@ -260,17 +260,7 @@ Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your r
 
 📺 Crypto Capital Venture
 
-👁️ 22K • 👍 678 • 💬 244 • ⏱️ 20:18 • 11h ago
-
----
-
-**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
-
-RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
-
-📺 BULLRUNNERS
-
-👁️ 4K • 👍 146 • 💬 12 • ⏱️ 1:06 • 5h ago
+👁️ 24K • 👍 713 • 💬 200 • ⏱️ 20:18 • 16h ago
 
 ---
 
@@ -280,17 +270,27 @@ Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedri
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 10 • 💬 11 • ⏱️ 4:11 • 16h ago
+👁️ 1K • 👍 13 • 💬 17 • ⏱️ 4:11 • 21h ago
 
 ---
 
-**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
+**[🔥 BMNR Holders: ETH &amp; BTC Just Exploded - Tokenized Stocks Changed Everything](https://www.youtube.com/watch?v=CwKTyxC8EtQ)**
 
-Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
+BMNR, Ethereum (ETH), Strategy (MSTR) and Bitcoin (BTC) are exploding higher - and one of the biggest stories behind this ...
 
-📺 VirtualBacon
+📺 Big Time Trades
 
-👁️ 9K • 👍 121 • 💬 12 • ⏱️ 1:07 • 1d ago
+👁️ 4K • 👍 105 • 💬 23 • ⏱️ 18:33 • 11h ago
+
+---
+
+**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
+
+RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
+
+📺 BULLRUNNERS
+
+👁️ 8K • 👍 200 • 💬 17 • ⏱️ 1:06 • 10h ago
 
 ---
 
@@ -300,17 +300,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 12K • 👍 215 • 💬 111 • ⏱️ 49:49 • 1d ago
+👁️ 13K • 👍 216 • 💬 111 • ⏱️ 49:49 • 1d ago
 
 ---
 
-**[Best Crypto Wallet? Here’s What Actually Matters (Bitcoin Ethereum PulseChain)](https://www.youtube.com/watch?v=L-zWsfHrSA8)**
+**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
 
-Get limited edition cold wallet card: https://pulsechaincards.com Wallets mentioned: https://zkxwallet.com | https://internetmoney.io ...
+Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
 
-📺 Crypto Coffee
+📺 VirtualBacon
 
-👁️ 130 • 👍 24 • ⏱️ 11:02 • 2h ago
+👁️ 10K • 👍 125 • 💬 15 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -320,17 +320,17 @@ Well everyone, its officially over. We all knew it would eventually happen, but 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 37K • 👍 2K • 💬 375 • ⏱️ 13:54 • 2d ago
+👁️ 37K • 👍 2K • 💬 377 • ⏱️ 13:54 • 2d ago
 
 ---
 
-**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
+**[SORRY Bears - BOTTOM is in for Ethereum and Altcoins  (Bull Run STARTED)](https://www.youtube.com/watch?v=x2HkmxM9KTQ)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+Join The VIP Discord: https://whop.com/joined/cryptocamel/products/cryptocamel/ LAST Discord Win: $AI (130x) ⚡ Follow me ...
 
-📺 Crypto Nutshell
+📺 Crypto Camel
 
-👁️ 17K • 👍 278 • 💬 30 • ⏱️ 19:57 • 2d ago
+👁️ 500 • 👍 33 • 💬 8 • ⏱️ 10:11 • 16h ago
 
 ---
 
