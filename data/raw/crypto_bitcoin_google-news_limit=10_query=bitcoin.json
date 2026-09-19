@@ -26,7 +26,7 @@
     },
     {
       "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
-      "source": "vaneck.com",
+      "source": "VanEck",
       "source_url": "https://www.vaneck.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmpNNk04MlFTcDF3Zm5ONTlzSmlxVXhYVTRxSXJ1ZjVXXzJnQk5MR3pvTW9CaldPb0NEM1M1ZFJkd3o1UG1SNTAzRjVPVGNlUXJNVFBZTnhHQWJ0Z00zRTlWY1F1WkN1dlhjcEFUS0ZUckNHUmlicms4bVRWQ1BfMmpTRFBoX2RubUs1TUxEVm1HSkJRUGZjVWt1bjlHMkJzV2JZZ2FHZTEwdkdJOEE?oc=5",
       "pub_date": 1789731236.0,
@@ -46,7 +46,7 @@
     },
     {
       "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
-      "source": "muddyriversports.com",
+      "source": "Muddy River Sports",
       "source_url": "https://muddyriversports.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
       "pub_date": 1789698773.0,
@@ -63,16 +63,6 @@
       "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
       "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
-    },
-    {
-      "headline": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
-      "source": "bitcoinmagazine.com",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkhGdmsyeVBlYUdTMHBVTW1lY2xpQ01sUS1fM1Mtb2l0Q09hZ2VZVkVBY3pKVXEzNHN6QjUzSEdPV2hPRlpYR240MTlaY2EzbmNXdFZOVTFERjI3eFNLbFdqdXVSS3VqVExibnpkZldfeXBFeUlWSndJNU5JOU1Hcw?oc=5",
-      "pub_date": 1789761613.0,
-      "article_url": "https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg",
-      "description": "The CFTC has already sent a proposal to the White House following this week's failed Clarity Act vote."
     },
     {
       "headline": "Current price of Bitcoin for September 18, 2026",
@@ -96,15 +86,25 @@
     },
     {
       "headline": "'Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead",
-      "source": "The Block",
+      "source": "theblock.co",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJkR3c3dUsyQVFBQmFjYVd6aWJvZ3N1YnVITXFONlM0cHlRSWc1SFBwbE1Va01PUjRZWnZtWGJ5Vi1mYkVRc2ZFcno3bnRmVl8wOXR2NnRqcjNzSzNUQlAzNXBYVDd5NDJxSENCUnc1aXJKbVJRSDFVOGFOYVdKQWMxRXJqSFlmQXZGeThONnl1Y3Y3dEQ2aHVoS2VZbmdOeThsWTE2V25xY0luZnZ0NFI1WExZLVJ6ZUtLT3pJLTg4ZUtmWDNReVRVeGlaUGtyc19nOGNR?oc=5",
       "pub_date": 1789755292.0,
       "article_url": "https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860",
       "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_4.jpg",
       "description": "Demirors said crypto\u2019s head start in specialized hardware and cheap power has helped fuel today\u2019s AI infrastructure buildout."
+    },
+    {
+      "headline": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50U1BmMm9Ma0ZaNlpidC13dG1TYW9jUDB2LWI0OUMtZTgxbDhVc1BXNk5qb2Y3SUJ3SXc4Yy1UNEo2NWJveVRKWEpKaTcwSWJMcFk4bzFVeDVpM2pkb2JoQU55SzNBLTF1bXRkQ0hZY3BmTjdQdHl5R3E5U1E5aWM?oc=5",
+      "pub_date": 1789746952.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-26.jpg",
+      "description": "Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T21:19:37.335599+00:00"
+  "fetched_at": "2026-09-19T23:21:10.664727+00:00"
 }

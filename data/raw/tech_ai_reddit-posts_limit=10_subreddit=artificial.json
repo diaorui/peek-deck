@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "AI is a better teacher than most human teachers",
-      "author": "Chemical_Job7027",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
-      "published": 1789812577.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so obviously I had a LOT of questions ( including really basic ones). I remember during my 1st year asking professors things and sometimes literally being made fun of because apparently my question was \"stupid\" or something I should already know. Which is great when you're already insecure because everyone around you seems to know more than you lol. And honestly a lot of my professors just weren't good at explaining things. Like they'd come into class, open a PowerPoint, read the slides, maybe explain a couple things and then sit down with their laptop. That was basically the class. I'd go home and realize I understood almost nothing and had to figure it out myself anyway. And asking questions wasn't always helpful either. Sometimes they'd explain it again but in basically the exact same way so obviously if I didn't understand it the first time I still didn't understand it. And then what? Ask them a 3rd time? At some point you just feel embarrassed and say \"yeah okay I get it\" even though you absolutely don't. That's where AI entered and changed my life. I can ask the dumbest question ever and it doesn't care. I can literally say \"I don't understand a single word you just said, explain it to me like I know absolutely nothing about this\" and it will. It never makes me feel stupid for not knowing something. I'm still the one studying. I'm still the one doing the assignments and taking the exams. But I genuinely don't think I would have gotten this far without it. I also think AI could eventually be really useful for grading. Obviously AI can make mistakes too, I'm not denying that. But professors are human too. They're tired, they can misunderstand an answer, accidentally give someone the wrong grade, be inconsistent when correcting 30 exams, etc. I really don't understand why people act like human grading is somehow completely objective and error-free. I'd honestly trust more a well designed AI grading system with clear criteria. And I know people are probably going to hate this part but AI has genuinely been a better teacher to me than most of the actual teachers I've had. I also don't understand why whenever AI and education are mentioned people immediately jump to \"students use it to cheat\". Yeah, obviously some do. People use basically every technology for shitty things. That doesn't make the technology itself useless. I've never used it because I don't want to do anything myself. It's literally the opposite. I use it because I WANT to understand what I'm doing. So yeah. I understand being worried about how AI is used. I understand being against people using it to cheat or replace their own thinking. But being against AI itself? I genuinely don't get it. I'm the one who has done the work for these 3 years, but AI is a huge part of the reason I was able to understand that work instead of giving up"
-    },
-    {
       "title": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/",
@@ -33,6 +22,28 @@
       "site_name": "TechCrunch",
       "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
       "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+    },
+    {
+      "title": "AI is a better teacher than most human teachers",
+      "author": "Chemical_Job7027",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
+      "published": 1789812577.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so obviously I had a LOT of questions ( including really basic ones). I remember during my 1st year asking professors things and sometimes literally being made fun of because apparently my question was \"stupid\" or something I should already know. Which is great when you're already insecure because everyone around you seems to know more than you lol. And honestly a lot of my professors just weren't good at explaining things. Like they'd come into class, open a PowerPoint, read the slides, maybe explain a couple things and then sit down with their laptop. That was basically the class. I'd go home and realize I understood almost nothing and had to figure it out myself anyway. And asking questions wasn't always helpful either. Sometimes they'd explain it again but in basically the exact same way so obviously if I didn't understand it the first time I still didn't understand it. And then what? Ask them a 3rd time? At some point you just feel embarrassed and say \"yeah okay I get it\" even though you absolutely don't. That's where AI entered and changed my life. I can ask the dumbest question ever and it doesn't care. I can literally say \"I don't understand a single word you just said, explain it to me like I know absolutely nothing about this\" and it will. It never makes me feel stupid for not knowing something. I'm still the one studying. I'm still the one doing the assignments and taking the exams. But I genuinely don't think I would have gotten this far without it. I also think AI could eventually be really useful for grading. Obviously AI can make mistakes too, I'm not denying that. But professors are human too. They're tired, they can misunderstand an answer, accidentally give someone the wrong grade, be inconsistent when correcting 30 exams, etc. I really don't understand why people act like human grading is somehow completely objective and error-free. I'd honestly trust more a well designed AI grading system with clear criteria. And I know people are probably going to hate this part but AI has genuinely been a better teacher to me than most of the actual teachers I've had. I also don't understand why whenever AI and education are mentioned people immediately jump to \"students use it to cheat\". Yeah, obviously some do. People use basically every technology for shitty things. That doesn't make the technology itself useless. I've never used it because I don't want to do anything myself. It's literally the opposite. I use it because I WANT to understand what I'm doing. So yeah. I understand being worried about how AI is used. I understand being against people using it to cheat or replace their own thinking. But being against AI itself? I genuinely don't get it. I'm the one who has done the work for these 3 years, but AI is a huge part of the reason I was able to understand that work instead of giving up"
+    },
+    {
+      "title": "AI models are not hacking \u201cautonomously\u201d",
+      "author": "fivefilters",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
+      "published": 1789855514.0,
+      "thumbnail": "https://external-preview.redd.it/2sigml7wctYHoz7aTHakeo06efctgfl-38paL_LU6eY.jpeg?width=640&crop=smart&auto=webp&s=9fe320e7457cd03d8f2194cdd7b94bb6b466d969",
+      "external_url": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
+      "site_name": "blog.keyvan.net",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
+      "description": "I despair at the state of journalism around AI these days."
     },
     {
       "title": "Weren't Dario and Sam just screaming that WE HAVE TO SLOW DOWN last week? So do they believe that or not?",
@@ -57,15 +68,15 @@
       "description": "The NYT argues that OpenAI and Microsoft infringed upon its copyright over thousands of news articles."
     },
     {
-      "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking \u2014 despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
-      "author": "xx_HeckinChonker_xx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/",
-      "published": 1789762333.0,
-      "thumbnail": "https://external-preview.redd.it/RCEz5Wf0kKy-l90RbfOIF8ZBa0vvXuXmL5oGUQ8XldI.png?width=640&crop=smart&auto=webp&s=32eda970772965070be6253327666b33bb016e28",
-      "external_url": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
-      "description": "The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians."
+      "title": "I'm Building a pixel building to mange AI agents that can use almost any LLM available",
+      "author": "AlexanderJAnderson",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/",
+      "published": 1789853945.0,
+      "thumbnail": "https://external-preview.redd.it/NXdqbjNya25xanFoMXhfwH8R5FgJ6865vjNX8TkE3zpnmTnp-Lk5cGbhWPRq.png?width=640&crop=smart&auto=webp&s=7b05c72df726bf952d732ff1c4fe2e28299fbd10",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sanctorum is a Electron desktop app where you run a team or teams of AI agents (you can also create infinite ai agents and teams) as an actual organization. Each agent sits at a desk on a floor. What an agent is allowed to do is derived from that seat \u2014 you give a role a clearance level, put the role at a desk, sit an agent there. Move them, and their capabilities move with them. It runs its own LangGraph loop rather than wrapping existing CLIs, so you can put any OpenRouter model on any agent. Every tool call pauses for your approval by default. Every delegation tree has a spending ceiling (in dls $). And every Agent can be directed to a directory inside your computer of your choice to work there. Agents can work in parallel or one at a time. And many more capabilities. Genuinely unsure whether seat-derived permissions are a real idea or an elaborate way to avoid a settings page. Curious what people think. I am still working on it, but I believe the core capabilities are 90-95% done"
     },
     {
       "title": "I built an AI production system with Codex that now programs a 24/7 television network. Here\u2019s how the automation works",
@@ -79,6 +90,17 @@
       "description": "For the past 15 months, I\u2019ve been building a 24/7 AI-native television network called Botflix. What started as a mostly manual production process has now turned into a system where ChatGPT/Codex handles a large part of the ongoing production and programming. The network currently runs four continuous channels: a general TV channel, an original-music radio channel, a music-video channel, and a relaxation/ambient channel. About 11 days ago, I connected ChatGPT/Codex directly to the production pipeline. On a scheduled run, it can now inspect the current programming, scan analytics, decide what to make, generate finished pieces, add them to the live playlist with a clean switchover, and cycle older material out. A typical run looks something like this: -Review the existing library and current playlists -Decide what kind of material to make -Write the prompts. -Generate assets in Google Flow, Suno, etc. -Assemble and render the finished piece -Add it to the programming library -Rebuild the relevant playlist and update the live rotation One of the most important evolutions that made this possible was switching to modular programming back in March. The network isn\u2019t one giant pre-rendered loop, although it did start that way. Every piece exists as individual assets. The automation changes the playlist every time something new is added. Getting a system to run the network more like a real programming/production operation was only made possible by adding GPT-6 Astra to the workflow. And by having 15 months of accumulated content already in the library, handing it off to the agent was likely much easier than trying to build something like this from scratch. I still manage overall creative direction and the rules the system operates under. So I wouldn\u2019t describe this as an AI independently creating and running a TV network entirely. It\u2019s more like a human-designed production environment where more and more of the creative and operational work is being done by an agent. I\u2019d be especially interested in hearing from people working on similar automated media pipelines. Botflix TV: https://www.youtube.com/live/6xuQnM810Zw?is=jxJq68QcICSJZMa3"
     },
     {
+      "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking \u2014 despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+      "author": "xx_HeckinChonker_xx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wk11rt/us_chip_fabs_face_massive_157000_worker_shortfall/",
+      "published": 1789762333.0,
+      "thumbnail": "https://external-preview.redd.it/RCEz5Wf0kKy-l90RbfOIF8ZBa0vvXuXmL5oGUQ8XldI.png?width=640&crop=smart&auto=webp&s=32eda970772965070be6253327666b33bb016e28",
+      "external_url": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
+      "description": "The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians."
+    },
+    {
       "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
       "author": "theepi_pillodu",
       "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
-    },
-    {
-      "title": "Building a cool project with AI takes more than one prompt",
-      "author": "niosurfer",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkk3ak/building_a_cool_project_with_ai_takes_more_than/",
-      "published": 1789818394.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A GitHub repository once reflected much of a programmer\u2019s intellectual effort. Today, AI may write much of the code, while the human contribution happens behind the scenes: defining the architecture, setting constraints, catching mistakes, and steering countless iterations. As programmers, we want that effort and direction recorded. We want to show that a project was not created from a single simplistic prompt. Our AI projects could maintain a chronological PROMPT_SOURCE.md containing the prompts, follow-ups, corrections, attachments, and results of each interaction. The code shows what was built. The prompt history shows why it was built that way and how the programmer directed the process. It becomes both an archive of that contribution and a record others can examine to understand the work and the decisions behind the final result. Would you want your projects to have a prompt history, or is it just glorified logging?"
-    },
-    {
-      "title": "AI video might change who gets to test ideas, not just how videos are made",
-      "author": "Due-Cartoonist-3397",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkt27z/ai_video_might_change_who_gets_to_test_ideas_not/",
-      "published": 1789841118.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A friend of mine writes web novels and recently started trying to move into short dramas. We were having dinner last month when she told me something that stayed with me. She already had several scripts finished, but finding someone willing to produce them was the hardest part. The problem wasn't only writing a good story. It was proving that the story was worth investing in. A short drama requires money for filming, actors, editing, and distribution before anyone knows whether viewers will actually care. For a new writer without previous hits, even a great script can be difficult to get through the door because nobody wants to spend a large amount of money testing an unproven idea. She said a lot of stories probably never get a chance because the cost of discovering whether they work is simply too high. I didn't have a good answer at the time, but I've been thinking about that conversation while experimenting with AI video tools recently. I've tried several platforms, including PixVerse C1, Runway, Kling, Luma, and Pika. The interesting part isn't only that these models can create more realistic scenes than before. The bigger change is that they make early experiments much cheaper. A writer can take a scene from a script and create a rough visual prototype before approaching a production company. A director can explore different camera styles and pacing without organizing an entire shoot. A small team can test several concepts and learn what feels promising before committing significant resources. That doesn't mean AI-generated clips can replace a finished production. Acting, writing, editing, and emotional storytelling still require human judgment. But the process of getting from \"I have an idea\" to \"I can show someone what this idea could become\" is becoming much shorter. Maybe the biggest impact of AI video won't be creating fully automated movies. It might be giving more creators a way to demonstrate their ideas before asking someone else to take the risk. I'm curious how people here see this shift. Will cheaper prototyping actually help more independent creators get their ideas made, or will the hardest part of filmmaking simply move to another stage?"
     }
   ],
-  "fetched_at": "2026-09-19T21:19:22.970956+00:00"
+  "fetched_at": "2026-09-19T23:20:57.127325+00:00"
 }

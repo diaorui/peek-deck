@@ -5,14 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
-      "pub_date": 1789832462.0,
-      "article_url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+      "headline": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVR5Y1BLeFdPZFJXQkZmNXhGbFZPWXBBTGRPU0hhMHhqYjFUTmIwamI0aWNldkRnZ0RPZDl4TzdNeWpxclRha1dCelNCcHN3eUtMNzBRVWFwcUpVZUo5TGhRbTM4Y2duamRIUzdEWGdmQXlkSk9JSDZGczhHQUVHcEk0RmhESFZXTGxIQXVkd1k5MUR3dElSVVNWSkYtSWZiWkRnRjJ3eTk1eUs0WkpDZURyalRWbU00cWc?oc=5",
+      "pub_date": 1789850040.0,
+      "article_url": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26262593036783-e1789849457140.jpg?resize=1200,600",
+      "description": "The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation."
+    },
+    {
+      "headline": "Anthropic, OpenAI, SpaceXAI, Google sued over call to \u2018pace\u2019 AI development",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
+      "pub_date": 1789779840.0,
+      "article_url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "pub_date": 1789855500.0,
+      "article_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Gemini hacked three companies in first known breakout by Google\u2019s AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlU0lRY09QWEgwWU5TZnloNGluUENkYVJqeUZmQ051YnFuSEdJbHczT3F0ZDBER3JMdDhxNjJFS0VJN1pQTFRMQVlFM3ZKUENVci03ZVlpcWEwUWY1WUppRVlFOHoyUnNzVTJPWS1EVjQ?oc=5",
+      "pub_date": 1789821894.0,
+      "article_url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act."
     },
     {
       "headline": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
@@ -21,16 +51,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
       "pub_date": 1789769400.0,
       "article_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5",
-      "pub_date": 1789776288.0,
-      "article_url": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
       "image": null,
       "description": null
     },
@@ -45,6 +65,26 @@
       "description": "The company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet."
     },
     {
+      "headline": "Patel says FBI has used AI to stop school shootings",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0ZwV19CN2NZb2NtRHpJOEp2UGFNSTc2VmZ6MW5mSjk3LTJTaG55bUVsd29zS3Nua1RZbEpydTVyQUMyN0ozTGp6R09JSzkxTWtpdHQ5VmJjTmpCOHBPMFRSY3QzQmtDODhMY0RfZEFHa0xPQlNOY1BBcEFxMXRzcXE2UVIyakNrelHSAY8BQVVfeXFMT2owZzlwYzNFbXZoOTV0dUZCZkh6Rll3NV82WHV2dUlkN3ZGQjVQVlRlMHdpaldncHpDaUVVWjY0Ujc4R0xoMXVKdkVtU3Q1Mm5ZTm9UN005NGZtMEdpUHREanpvaUVibU1fdmktR1pHX3VLWUZfOFNhbkxjT0pxMnpBajh6OGZwUm5yTDJSdGs?oc=5",
+      "pub_date": 1789855740.0,
+      "article_url": "https://thehill.com/homenews/administration/6100038-patel-fbi-ai-school-shootings/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump says he will form new 'AI Force' but continues to call AI fears a 'hoax'",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3lteWxpaTl0WVBDTGhYbzhURkVqZ3Y2bFpodUZhR0R6Z3VwSnAwMmUtU0VLYWZpUFk1QWU5M3V1SDZiNTBxUWdoN1VaQU1ENFpGOHNTelRkeFl5SzYtX05MQndlOGR0cUJFR3FLNHdGUWRuaF9PRmhMU2JIQjhXejQ5QzJvVWl0SnRpMg?oc=5",
+      "pub_date": 1789857343.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/trump-says-form-ai-force-223543221.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dfc42e9839ad606bfd1249ec4b0338e0017ed0c5935f14d2ac72f27502415885/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F139d14c8e9e2145e2bd39deb89fb3144.jpg",
+      "description": "Trump likened it to Space Force and also said he would name an AI czar."
+    },
+    {
       "headline": "Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -55,56 +95,16 @@
       "description": "Trump's new AI Force mirrors his first-term Space Force creation, with a high-IQ \"czar\" appointment coming soon to oversee the booming industry."
     },
     {
-      "headline": "AI Actor Tilly Norwood Glitches During Piers Morgan Interview, Suddenly Switches Languages",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3VnLU1zQkhwMGZKMmR5YndrcU1BQlduLWpnd0UtV0dYREJnS2JrT2dfUDM2Vk9nMHk0a0FzZ1h2a0toMTdvb1pFVTI1UHNEaFlyc05Oa2JVYVM1SXZsX1B1QkNaSXAzeTloVVBhRjd3aWsyUTdBanBYNVZqZGR0dndGeVV3X2pWQ0gwN2xhRUVic2paSENhRE9JWFdwQ1VtM0E1UXA4d2IzSHJiaDZqdGtxQ3V1N2xSQ1E?oc=5",
-      "pub_date": 1789848032.0,
-      "article_url": "https://www.hollywoodreporter.com/news/general-news/tilly-norwood-glitches-piers-morgan-switches-languages-1236706114/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/piers-tilly.jpg?w=1086&h=612&crop=1",
-      "description": "While speaking with journalist and fellow guest Tom Conti on 'Piers Morgan Uncensored,' the AI actor malfunctioned and switched from English to Cantonese."
-    },
-    {
-      "headline": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
-      "source": "techcrunch.com",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2Y1aE8yU3FPWk4xeGNVa2NvWUpnc052OTBRRnN6WGxtTFJTZUNHN29DdVRvY2hhcmxpSXpCaG90eFJwSmItLWZldjJ3XzRHanpXUE8xUFhmQjV1Y2ZaZkdpcHdaTE5XdjZiR0lOd1U5VzNKU0VheFhoSWV3elF1a0dzM0FMN0FYSHhPQU1aWjRVQ3lwcGZaSEtZSnJxbE9UNjR0UE5NOVVWYXJE?oc=5",
-      "pub_date": 1789776727.0,
-      "article_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-      "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
-    },
-    {
-      "headline": "AI Actress Tilly Norwood Stuns Piers Morgan After Glitching Mid-Interview",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0ZxV3IxN2ExRlJfU1BoT0ZBamJBbTV6NzIwM3UtM3ZBelpGa2NoWUFnMmtLYTJuUHNIdEozU2dDVElzVThTRXVOQk9nLTJKNzhBNURMV0o0bkdwVHl6ZjRjV1RoNVpycEV6dG9vT2JLeUhMb0RFblo3XzdiOWJUb25BNFhxY0daQTNmX2JiX0haOVBVZzB1bg?oc=5",
-      "pub_date": 1789768317.0,
-      "article_url": "https://www.yahoo.com/entertainment/tv/articles/ai-actress-tilly-norwood-stuns-215157959.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2721a7f3019df565338ea2d5ac1e9968de247224b467e90a1e676ee21f70a5d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F1b734776153a51437af40bed31884404.jpg",
-      "description": "Piers Morgan was left stunned when AI actress Tilly Norwood switched to speaking Chinese in the middle of their interview."
-    },
-    {
-      "headline": "Warren Buffett found the most boring way to bet on AI",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbmVTQkIwd21yZDRYMDRoOVFrQjNLQTAxT1BuSnEybXliNG52MDVSd2lNT2hZbGxsUWlfWHktVHd0VmpsYWFBZm5udXVBVUFUMTk1MUdLV0xZT0R3eUQwTFRMejBHZmdyWVVMVU94NWdGTXp6b0RCMmtSSy1sbmNrZA?oc=5",
-      "pub_date": 1789813830.0,
-      "article_url": "https://www.cnn.com/2026/09/19/investing/warren-buffett-berkshire-ai-energy",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1140985419.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Warren Buffett became the world\u2019s most famous investor by betting on the boring stuff."
-    },
-    {
-      "headline": "What might an AI doomsday look like? Experts have given it some thought",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnZ3Y0JPQ1U1OGs5NUY5UjBVc3kxWjNGVjFieElrZ1lTcTZyNFBzOVFITk9sX2RLTXdKSmwtUGFGQnRtQWE0cTgyaDMtdW1EMDlIVTRpWnRSY2Rwcm4wNnY2M2hhRHpkUU9LWG8tRGtQU0VhTFVkbU5vNjlLS3AzeERrTQ?oc=5",
-      "pub_date": 1789808442.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg",
-      "description": "Researchers have worried about the increasing power of AI systems for years, but an explosion of interest has ignited old controversies about exactly how AI will cause chaos."
+      "headline": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzUFZ1NmVuRDZ0WGhvT1BiZUdldFg3ZkpIS1VLOHg0RTdDc0pCQnFKc25tZUNnQnJzcVgyaHNzX3JLdFZqa1h4RjFJT0NGaC1JN1pXZWpPNEZtdlprQlhMdk9YVDBEX01BYkNxYzNQaw?oc=5",
+      "pub_date": 1789808419.0,
+      "article_url": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T21:19:41.196960+00:00"
+  "fetched_at": "2026-09-19T23:21:21.513504+00:00"
 }

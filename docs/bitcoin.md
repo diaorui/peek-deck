@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T21:19:45.363778+00:00'
+updated: '2026-09-19T23:21:22.888773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 21:19 UTC  
+**Last Updated:** September 19, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,370.65
+### $81,056.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +5.4%  
-**30d:** +3.4%  
-**90d:** +26.5%  
-**1y:** -30.1%  
+**24h:** -0.5%  
+**7d:** +5.8%  
+**30d:** +3.7%  
+**90d:** +26.9%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1627.03B
+**Market Cap:** $1632.44B
 Rank #1
 
 **Circulating Supply:** 20,086,640 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.5%
 
 **All-Time Low:** $67.81
-+119329.3%
++119749.6%
 
 ---
 
@@ -77,75 +77,69 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[So if the Clarity Act getting rejected and the fed hiking rates didn’t do anything, how are 4-year cycle bros going to get Bitcoin down to $40k in 3 weeks?](https://www.reddit.com/r/Bitcoin/comments/1wiuag6/so_if_the_clarity_act_getting_rejected_and_the/)**
+**[Bitcoin since July:](https://www.reddit.com/r/Bitcoin/comments/1wkppdv/bitcoin_since_july/)**
 
-Obligatory photo
-
-2d ago
+7h ago
 
 ---
 
-**[$1 = 1 Satoshi coming in 10 years](https://www.reddit.com/r/Bitcoin/comments/1wiozon/1_1_satoshi_coming_in_10_years/)**
+**[81K](https://www.reddit.com/r/Bitcoin/comments/1wkor71/81k/)**
 
-2d ago
-
----
-
-**[War, shit economy, shit America leaderships, oil price, cold card hacks, fork drama, rate hikes, no clarity and BTC still sitting above 75k](https://www.reddit.com/r/Bitcoin/comments/1wiosjn/war_shit_economy_shit_america_leaderships_oil/)**
-
-If this is not the bottom, I am unsure what to say. The resilience of BTC is remarkable this cycle. It demonstrates that BTC has never required anything or anyone. BTC will act as it chooses. DCA n Chill 🙌🏽 Update: I would add that less than 5 years ago, two or three of the events mentioned would have driven the price down sharply. Now, the shift barely exceeds 5 percent; interestingly, the reverse holds as well, since two or three positive reports also fail to move the price. So when does it shift? On a random Tuesday when no one is watching. I was pooping when the price jump 60k to 75k 😅
-
-2d ago
+8h ago
 
 ---
 
-**[The Bitcoin CEO just released new video. The bear's officially dead](https://www.reddit.com/r/Bitcoin/comments/1wiu4yx/the_bitcoin_ceo_just_released_new_video_the_bears/)**
+**[Going short on Bitcoin be like](https://www.reddit.com/r/Bitcoin/comments/1wkjn8a/going_short_on_bitcoin_be_like/)**
 
-2d ago
-
----
-
-**[Hodl Hodl silently introduced AML](https://www.reddit.com/r/Bitcoin/comments/1wiugcz/hodl_hodl_silently_introduced_aml/)**
-
-I've been trading P2P on Hodl Hodl for a long time. Its main selling point has always been "no KYC/AML", and their FAQ still says so today. As of this week that no longer seems to be true. What happened Contract 1: I deposited BTC into escrow for a sell contract. After confirmation, the contract was automatically canceled with the message: "The contract was automatically canceled after the AML check." The coins came entirely from trades previously completed on Hodl Hodl itself. Contract 2: I reopened the same trade using a different UTXO. After the first confirmation the contract switched to "AML review in progress", shown as a dispute, funds locked, no timeframe given. About 40 minutes later it moved to "In progress" with no explanation. Until yesterday, contracts went straight from confirmation to the payment step. Screenshots attached (counterparty and amounts redacted). What support said I emailed them asking when this was introduced, what is screened, who does it, and whether my account is flagged. The reply called it a "standard AML compliance check" applied automatically to all transactions, said it doesn't necessarily indicate wrongdoing, and said they can't share any further details. None of my questions were answered. The problem No public announcement The current Terms of Service don't mention automated AML screening of escrow deposits The FAQ still advertises "no KYC/AML" No information on who does the screening (in-house or a chain analysis provider), what criteria are used, or how long reviews take Your coins can sit locked in escrow for an unknown time, or the contract gets canceled, with zero explanation I'm not asking them to avoid complying with whatever rules they think apply to them. I'm asking for transparency. If a platform built its reputation on being a no-KYC/AML P2P marketplace changes that, users deserve to be told clearly and publicly, before their coins get stuck. Has anyone else run into this?
-
-2d ago
+11h ago
 
 ---
 
-**[Water from the pump?](https://www.reddit.com/r/Bitcoin/comments/1wisvvx/water_from_the_pump/)**
+**[Bears in absolute shambles right now](https://www.reddit.com/r/Bitcoin/comments/1wkj749/bears_in_absolute_shambles_right_now/)**
 
-2d ago
-
----
-
-**[A Democrat co-sponsored the bitcoin reserve bill that passed committee on Wednesday](https://www.reddit.com/r/Bitcoin/comments/1wivko9/a_democrat_cosponsored_the_bitcoin_reserve_bill/)**
-
-H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the coverage is calling it a Trump bill, which misses something. Nick Begich wrote it but Jared Golden, a Democrat, is co-lead on it. Two days earlier CLARITY died in the Senate on what was basically a party-line vote. So narrow bills about one thing are moving. Big sweeping ones aren't. A few details I thought were more interesting than the vote count: The lock is 20 years. Treasury can't sell it, swap it or use it as collateral. That's long enough to outlast a few presidents. Every federal agency has 60 days after it becomes law to say what they actually hold. Right now nobody really knows the total across all of them. There's a line directing a study on buying more bitcoin without spending new money. That's the interesting bit, and probably the first thing to get cut. It also says outright that people have the right to hold their own keys. Still has to pass the full House and then the Senate, so it's not law. But no reserve bill has got this far before.
-
-2d ago
+12h ago
 
 ---
 
-**[We’re better at bitcoin mining than making coffee.We made a barrel of coffee with heat from our miners and tested Braiins OS at 45°C. The firmware automatically adjusts power to help prevent heat-related shutdowns. Less downtime means more time mining bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1wix3gp/were_better_at_bitcoin_mining_than_making/)**
+**[How I've felt the last several months](https://www.reddit.com/r/Bitcoin/comments/1wkvayu/how_ive_felt_the_last_several_months/)**
 
-2d ago
-
----
-
-**[Taproot is a third of all unspent outputs by count and about 1 percent by value. About 5 percent of transactions spend one. How Taproot Actually Works:](https://www.reddit.com/r/Bitcoin/comments/1wiwu8t/taproot_is_a_third_of_all_unspent_outputs_by/)**
-
-One key, two doors. How a Taproot output is built, why every one looks the same until it is spent, what Schnorr signatures changed, what Tapscript left open for the future, and what has actually been done with it since 2021, inscriptions included.
-
-🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 2d ago
+3h ago
 
 ---
 
-**[The bottom is very close. Clarity Act Failed, and 25 bps rate hike barely moved BTC, still at $75k+](https://www.reddit.com/r/Bitcoin/comments/1wi4v3i/the_bottom_is_very_close_clarity_act_failed_and/)**
+**[Benji seems to be coping](https://www.reddit.com/r/Bitcoin/comments/1wkoc1b/benji_seems_to_be_coping/)**
 
-No future major uncertain policy changes, should be up from here.
+Ill admit I bought into the likely theory we would have a bottom in October, but it's looking like chances are slim
 
-3d ago
+8h ago
+
+---
+
+**[Halloween](https://www.reddit.com/r/Bitcoin/comments/1wkysoc/halloween/)**
+
+Looking forward to the conversations this sparks up on Halloween!
+
+1h ago
+
+---
+
+**[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
+
+17m ago
+
+---
+
+**[Sold my car to buy btc](https://www.reddit.com/r/Bitcoin/comments/1wki1q0/sold_my_car_to_buy_btc/)**
+
+Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advice ? Is this full bull now ? Should I FOMO in ? Any thoughts appreciated cheers..
+
+13h ago
+
+---
+
+**[Actually November, wait, ngl December fr fr](https://www.reddit.com/r/Bitcoin/comments/1wk5jpl/actually_november_wait_ngl_december_fr_fr/)**
+
+1d ago
 
 ---
 
@@ -157,7 +151,7 @@ No future major uncertain policy changes, should be up from here.
 
 Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -165,7 +159,7 @@ Yahoo Finance • 9h ago
 
 "Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
 
-CoinDesk • 9h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -173,7 +167,7 @@ CoinDesk • 9h ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-vaneck.com • 1d ago
+VanEck • 1d ago
 
 ---
 
@@ -189,7 +183,7 @@ CNBC • 1d ago
 
 Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings ↪️ Thunderpick 🎁 100% up to €2,000 4.8/5 ⭐ ↪️ JACK.com 🎁 100 Wager-Free Free Spins 4.8/5 ⭐ ↪️ BitStarz 🎁 300% up to 5 BTC + 180 Free Spins 4.9/5 ⭐ ↪️ Lucky Rebel (USA only) 🎁 200% up to $2,500 + 50...
 
-muddyriversports.com • 1d ago
+Muddy River Sports • 1d ago
 
 ---
 
@@ -198,14 +192,6 @@ muddyriversports.com • 1d ago
 Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
 
 The Motley Fool • 1d ago
-
----
-
-**[CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail](https://bitcoinmagazine.com/news/cftc-proposes-rules-following-clarity-fail)**
-
-The CFTC has already sent a proposal to the White House following this week's failed Clarity Act vote.
-
-bitcoinmagazine.com • 1d ago
 
 ---
 
@@ -221,7 +207,7 @@ Fortune • 1d ago
 
 Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco…
 
-TradingView • 11h ago
+TradingView • 13h ago
 
 ---
 
@@ -229,7 +215,15 @@ TradingView • 11h ago
 
 Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
 
-The Block • 1d ago
+theblock.co • 1d ago
+
+---
+
+**[Bitcoin Community Recognizes Quantum Computing Risk: VanEck](https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk)**
+
+Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk.
+
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -247,7 +241,7 @@ The Block • 1d ago
 
 Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test
 
-⬆️ 12 • 💬 1 • 3d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
+⬆️ 12 • 💬 1 • 4d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
 
 ---
 
@@ -269,7 +263,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 1 • 💬 3 • 8h ago
+⬆️ 1 • 💬 3 • 10h ago
 
 ---
 
@@ -293,43 +287,23 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
-
-Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
-
-📺 Lark Davis
-
-👁️ 20K • 👍 535 • 💬 24 • ⏱️ 6:51 • 9h ago
-
----
-
 **[Bitcoin Is About To Go PARABOLIC Because Of AI Agents](https://www.youtube.com/watch?v=0Xz5_SQTkcU)**
 
 Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
 📺 Anthony Pompliano
 
-👁️ 62K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 8h ago
+👁️ 80K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 10h ago
 
 ---
 
-**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
+**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
 
-Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
+Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
 
-📺 Altcoin Daily
+📺 Lark Davis
 
-👁️ 46K • 👍 1K • 💬 46 • ⏱️ 1:27 • 17h ago
-
----
-
-**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
-
-Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
-
-📺 Crypto Casey
-
-👁️ 16K • 👍 592 • 💬 79 • ⏱️ 6:21 • 6h ago
+👁️ 24K • 👍 554 • 💬 27 • ⏱️ 6:51 • 11h ago
 
 ---
 
@@ -339,7 +313,27 @@ Join Telegram & Talk about Crypto: https://t.me/+WPsnvLl_JKoFT8FB Bitcoin just h
 
 📺 CryptoJack
 
-👁️ 6K • 👍 221 • 💬 62 • ⏱️ 7:14 • 8h ago
+👁️ 8K • 👍 227 • 💬 63 • ⏱️ 7:14 • 10h ago
+
+---
+
+**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
+
+Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
+
+📺 Crypto Casey
+
+👁️ 22K • 👍 654 • 💬 86 • ⏱️ 6:21 • 8h ago
+
+---
+
+**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
+
+Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
+
+📺 Altcoin Daily
+
+👁️ 50K • 👍 1K • 💬 48 • ⏱️ 1:27 • 20h ago
 
 ---
 
@@ -349,27 +343,17 @@ Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vot
 
 📺 Simply Bitcoin
 
-👁️ 43K • 👍 2K • 💬 221 • ⏱️ 16:49 • 23h ago
+👁️ 44K • 👍 2K • 💬 223 • ⏱️ 16:49 • 1d ago
 
 ---
 
-**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
+**[Tim Draper: &quot;$250,000 Bitcoin by May or June](https://www.youtube.com/watch?v=xTEaaFIZ33E)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Tim Draper backed Tesla, SpaceX, Skype, Robinhood, and Hotmail before anyone believed in them. Now he's making his boldest ...
 
-📺 My Financial Friend
+📺 Kyle Chasse crypto
 
-👁️ 19K • 👍 444 • 💬 207 • ⏱️ 21:55 • 1d ago
-
----
-
-**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
-
-Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 581 • 💬 137 • ⏱️ 1:06:33 • 1d ago
+👁️ 1K • 👍 23 • ⏱️ 1:13 • 8h ago
 
 ---
 
@@ -379,7 +363,7 @@ Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.
 
 📺 Altcoin Daily
 
-👁️ 85K • 👍 3K • 💬 169 • ⏱️ 13:18 • 20h ago
+👁️ 90K • 👍 3K • 💬 178 • ⏱️ 13:18 • 22h ago
 
 ---
 
@@ -389,7 +373,17 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 112K • 👍 4K • 💬 171 • ⏱️ 11:24 • 1d ago
+👁️ 114K • 👍 4K • 💬 170 • ⏱️ 11:24 • 1d ago
+
+---
+
+**[This Needs to Happen for Bitcoin to Reach New All-Time Highs](https://www.youtube.com/watch?v=1fGTRiSypi4)**
+
+Bitcoin Elliott Wave analysis for 19 September 2026 focusing on the $120000 target as a potential result of a five-wave move up.
+
+📺 More Crypto Online
+
+👁️ 4K • 👍 316 • 💬 17 • ⏱️ 17:18 • 4h ago
 
 ---
 
