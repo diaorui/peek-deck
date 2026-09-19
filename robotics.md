@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T21:19:45.370469+00:00'
+updated: '2026-09-19T23:21:22.895118+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 21:19 UTC  
+**Last Updated:** September 19, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,14 +112,6 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
-
-OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
-
-businessinsider.com • 1d ago
-
----
-
 **[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
@@ -128,11 +120,27 @@ The Robot Report • 1d ago
 
 ---
 
+**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+
+OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
+
+businessinsider.com • 1d ago
+
+---
+
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+
+IEEE Spectrum • 1d ago
+
+---
+
 **[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
 
 Training systems that allow robots to negotiate the real world are getting more sophisticated.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -146,15 +154,7 @@ Yahoo • 1d ago
 
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
-
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
-
-IEEE Spectrum • 1d ago
+bloomberg.com • 1d ago
 
 ---
 
@@ -163,6 +163,14 @@ IEEE Spectrum • 1d ago
 The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
 
 MIT News • 2d ago
+
+---
+
+**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
+
+Humanoid Robots Break Records In Beijing has 16 comments.
+
+DOGO News • 1d ago
 
 ---
 
@@ -180,27 +188,9 @@ citriniresearch.com • 3d ago
 
 ---
 
-**[KIDZ AI is developing robot lessons for schools after securing $1.9 million](https://www.stocktitan.net/news/KIDZ/kidz-ai-secures-new-financing-to-advance-kidz-bot-physical-ai-alv4ptjwj09p.html)**
-
-KIDZ AI formed Classover Robix to explore hardware partnerships; Android apps operate, iOS versions are in development, and a December conference is scheduled.
-
-Stock Titan • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Chezy Champs 2026- Saturday](https://www.youtube.com/watch?v=zQ8Oibbg9Ro)**
-
-LIVE from Bellarmine College Prep in San Jose, California, the best in the west compete at Chezy Champs 2026 hosted by team ...
-
-📺 RoboSports Network
-
-👁️ 5K • 👍 63 • 2d ago
-
----
 
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
@@ -208,17 +198,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 633K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
-
----
-
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 136K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
+👁️ 658K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -228,47 +208,27 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 17K • 👍 122 • 💬 34 • ⏱️ 2:56 • 2d ago
+👁️ 17K • 👍 126 • 💬 34 • ⏱️ 2:56 • 2d ago
 
 ---
 
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
 
-📺 Future Core
+📺 Reward AI
 
-👁️ 184K • 👍 705 • 💬 42 • ⏱️ 9:07 • 4d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 231 • 💬 25 • ⏱️ 57:02 • 4d ago
+👁️ 137K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
 
 ---
 
-**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
 
-A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
 
-📺 Auren Voss Insights
+📺 EmortalMarcus
 
-👁️ 4K • 👍 116 • 💬 12 • ⏱️ 0:36 • 8h ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 48K • 👍 398 • 💬 49 • ⏱️ 18:12 • 5d ago
+👁️ 47K • 👍 4K • 💬 425 • ⏱️ 55:24 • 4h ago
 
 ---
 
@@ -278,7 +238,47 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 81K • 👍 283 • 💬 51 • ⏱️ 9:44 • 4d ago
+👁️ 81K • 👍 284 • 💬 51 • ⏱️ 9:44 • 4d ago
+
+---
+
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 185K • 👍 710 • 💬 42 • ⏱️ 9:07 • 4d ago
+
+---
+
+**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
+
+A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
+
+📺 Auren Voss Insights
+
+👁️ 6K • 👍 144 • 💬 17 • ⏱️ 0:36 • 10h ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 232 • 💬 25 • ⏱️ 57:02 • 4d ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 49K • 👍 401 • 💬 49 • ⏱️ 18:12 • 6d ago
 
 ---
 
@@ -288,7 +288,7 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 127K • 👍 987 • 💬 364 • ⏱️ 1:04 • 4d ago
+👁️ 128K • 👍 990 • 💬 370 • ⏱️ 1:04 • 4d ago
 
 ---
 
