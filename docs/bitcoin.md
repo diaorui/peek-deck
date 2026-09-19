@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T12:38:09.471495+00:00'
+updated: '2026-09-19T16:16:56.917403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 12:38 UTC  
+**Last Updated:** September 19, 2026 at 16:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,272.59
+### $81,598.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +5.8%  
-**30d:** +3.8%  
-**90d:** +27.0%  
-**1y:** -29.8%  
+**24h:** +0.9%  
+**7d:** +6.4%  
+**30d:** +4.4%  
+**90d:** +27.7%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1631.59B
+**Market Cap:** $1641.68B
 Rank #1
 
-**Circulating Supply:** 20,086,521 BTC
+**Circulating Supply:** 20,086,568 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.6%
+-35.2%
 
 **All-Time Low:** $67.81
-+119695.0%
++120427.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Obligatory photo
 
-1d ago
+2d ago
 
 ---
 
@@ -101,7 +101,7 @@ If this is not the bottom, I am unsure what to say. The resilience of BTC is rem
 
 **[The Bitcoin CEO just released new video. The bear's officially dead](https://www.reddit.com/r/Bitcoin/comments/1wiu4yx/the_bitcoin_ceo_just_released_new_video_the_bears/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -109,13 +109,13 @@ If this is not the bottom, I am unsure what to say. The resilience of BTC is rem
 
 I've been trading P2P on Hodl Hodl for a long time. Its main selling point has always been "no KYC/AML", and their FAQ still says so today. As of this week that no longer seems to be true. What happened Contract 1: I deposited BTC into escrow for a sell contract. After confirmation, the contract was automatically canceled with the message: "The contract was automatically canceled after the AML check." The coins came entirely from trades previously completed on Hodl Hodl itself. Contract 2: I reopened the same trade using a different UTXO. After the first confirmation the contract switched to "AML review in progress", shown as a dispute, funds locked, no timeframe given. About 40 minutes later it moved to "In progress" with no explanation. Until yesterday, contracts went straight from confirmation to the payment step. Screenshots attached (counterparty and amounts redacted). What support said I emailed them asking when this was introduced, what is screened, who does it, and whether my account is flagged. The reply called it a "standard AML compliance check" applied automatically to all transactions, said it doesn't necessarily indicate wrongdoing, and said they can't share any further details. None of my questions were answered. The problem No public announcement The current Terms of Service don't mention automated AML screening of escrow deposits The FAQ still advertises "no KYC/AML" No information on who does the screening (in-house or a chain analysis provider), what criteria are used, or how long reviews take Your coins can sit locked in escrow for an unknown time, or the contract gets canceled, with zero explanation I'm not asking them to avoid complying with whatever rules they think apply to them. I'm asking for transparency. If a platform built its reputation on being a no-KYC/AML P2P marketplace changes that, users deserve to be told clearly and publicly, before their coins get stuck. Has anyone else run into this?
 
-1d ago
+2d ago
 
 ---
 
 **[Water from the pump?](https://www.reddit.com/r/Bitcoin/comments/1wisvvx/water_from_the_pump/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -123,13 +123,13 @@ I've been trading P2P on Hodl Hodl for a long time. Its main selling point has a
 
 H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the coverage is calling it a Trump bill, which misses something. Nick Begich wrote it but Jared Golden, a Democrat, is co-lead on it. Two days earlier CLARITY died in the Senate on what was basically a party-line vote. So narrow bills about one thing are moving. Big sweeping ones aren't. A few details I thought were more interesting than the vote count: The lock is 20 years. Treasury can't sell it, swap it or use it as collateral. That's long enough to outlast a few presidents. Every federal agency has 60 days after it becomes law to say what they actually hold. Right now nobody really knows the total across all of them. There's a line directing a study on buying more bitcoin without spending new money. That's the interesting bit, and probably the first thing to get cut. It also says outright that people have the right to hold their own keys. Still has to pass the full House and then the Senate, so it's not law. But no reserve bill has got this far before.
 
-1d ago
+2d ago
 
 ---
 
 **[We’re better at bitcoin mining than making coffee.We made a barrel of coffee with heat from our miners and tested Braiins OS at 45°C. The firmware automatically adjusts power to help prevent heat-related shutdowns. Less downtime means more time mining bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1wix3gp/were_better_at_bitcoin_mining_than_making/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -137,7 +137,7 @@ H.R. 8957 got through House Financial Services 28-21 on Wednesday. Most of the c
 
 One key, two doors. How a Taproot output is built, why every one looks the same until it is spent, what Schnorr signatures changed, what Tapscript left open for the future, and what has actually been done with it since 2021, inscriptions included.
 
-🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 1d ago
+🔗 [LearnBitcoin](https://www.learnbitcoin.com/rabbit-hole/how-taproot-works) • 2d ago
 
 ---
 
@@ -153,35 +153,49 @@ No future major uncertain policy changes, should be up from here.
 
 ## Google News: "bitcoin"
 
-**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
-
-Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
-
-finance.yahoo.com • 21h ago
-
----
-
-**[BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June](https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says)**
-
-The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.
-
-CoinDesk • 1d ago
-
----
-
-**[Kevin O'Leary Names the One Thing Standing Between Bitcoin and $1 Million](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-names-one-thing-104909714.html)**
-
-Mr. Wonderful Kevin O'Leary backs $1 million Bitcoin on one condition, as 6.04 million BTC sit exposed to quantum risk.
-
-finance.yahoo.com • 1h ago
-
----
-
 **[Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day](https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html)**
 
 Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
 
-finance.yahoo.com • 38m ago
+Yahoo Finance • 4h ago
+
+---
+
+**['The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary](https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary)**
+
+"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
+
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin Reclaims the Spotlight as Macro Pressure Fails to Break Crypto Demand](https://www.binance.com/en-BH/square/post/368373006999529)**
+
+Binance • 2h ago
+
+---
+
+**[Cathie Wood Says ‘Bitcoin Is Not A Dead Cat’, Days After ARK Sold Its Own Bitcoin ETF](https://finance.yahoo.com/markets/crypto/articles/cathie-wood-says-bitcoin-not-142346227.html)**
+
+Bitcoin is a “hedge against deflation,” Wood said on ARK’s Bitcoin Brainstorm podcast.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations](https://finance.yahoo.com/markets/crypto/articles/bitcoins-sharpest-rally-two-years-160103232.html)**
+
+A Glassnode and Bybit report found Bitcoin climbed 24.6% in five August days even as active leverage fell, with short positions supplying 89% of every liquidated dollar.
+
+Yahoo Finance • 15m ago
+
+---
+
+**[Seminole County gas station stops Bitcoin ATM scams](https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678)**
+
+A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims.
+
+wesh.com • 13h ago
 
 ---
 
@@ -189,15 +203,7 @@ finance.yahoo.com • 38m ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-VanEck • 1d ago
-
----
-
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-CNBC • 1d ago
+vaneck.com • 1d ago
 
 ---
 
@@ -209,27 +215,19 @@ Muddy River Sports • 1d ago
 
 ---
 
-**[Bitcoin shows strong demand as entity-adjusted SOPR stays above 1](https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/)**
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
 
-Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco…
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
 
-TradingView • 2h ago
-
----
-
-**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+cnbc.com • 1d ago
 
 ---
 
-**['Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead](https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860)**
+**[A single Bitcoin transaction carried an average water footprint of about 16,000 litres in 2021 once the electricity and cooling behind it were counted — roughly 6.2 million times the water behind one credit-card swipe, and the figure rises and falls with the price o](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)**
 
-Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
+As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-The Block • 18h ago
+Space Daily • 2d ago
 
 ---
 
@@ -239,7 +237,7 @@ The Block • 18h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 311 • 💬 266 • 2d ago
+⬆️ 311 • 💬 267 • 2d ago
 
 ---
 
@@ -248,14 +246,6 @@ The Block • 18h ago
 Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test
 
 ⬆️ 12 • 💬 1 • 3d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
-
----
-
-**[A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase](https://news.ycombinator.com/item?id=49673026)**
-
-Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trades on Coinbase with $100, but no profitable results have been shown.
-
-⬆️ 7 • 💬 1 • 6d ago • [Gadget Review](https://www.gadgetreview.com/a-fruit-flys-disembodied-brain-is-now-trading-bitcoin-on-coinbase)
 
 ---
 
@@ -271,19 +261,13 @@ Stonkfly uses a fruit fly's 166,700-neuron brain map to place real Bitcoin trade
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-⬆️ 2 • 💬 1 • 1d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
-
----
-
-**[Ask HN: Anyone kicking around the idea that AI came from a state like Bitcoin?](https://news.ycombinator.com/item?id=49672539)**
-
-⬆️ 1 • 💬 1 • 6d ago
+⬆️ 2 • 💬 1 • 2d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 1 • 💬 0 • 2m ago
+⬆️ 1 • 💬 2 • 3h ago
 
 ---
 
@@ -299,7 +283,7 @@ Top cryptocurrency prices and charts, listed by market capitalization. Free acce
 
 Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
 
-⬆️ 2 • 💬 0 • 3d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
+⬆️ 2 • 💬 0 • 4d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -315,33 +299,53 @@ Revolut disclosed Bitcoin transaction histories and KYC data to an unauthorized 
 
 ## YouTube Videos: "bitcoin"
 
-**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
-
-Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
-
-📺 Simply Bitcoin
-
-👁️ 35K • 👍 2K • 💬 176 • ⏱️ 16:49 • 14h ago
-
----
-
 **[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
 
 Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 808 • 💬 28 • ⏱️ 1:27 • 9h ago
+👁️ 35K • 👍 1K • 💬 38 • ⏱️ 1:27 • 12h ago
 
 ---
 
-**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+**[Bitcoin Is About To Go PARABOLIC Because Of AI Agents](https://www.youtube.com/watch?v=0Xz5_SQTkcU)**
 
-Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 Gareth Soloway
+📺 Anthony Pompliano
 
-👁️ 100K • 👍 3K • 💬 160 • ⏱️ 11:24 • 18h ago
+👁️ 9K • 👍 1K • 💬 62 • ⏱️ 1:07:54 • 3h ago
+
+---
+
+**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
+
+Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
+
+📺 Simply Bitcoin
+
+👁️ 39K • 👍 2K • 💬 223 • ⏱️ 16:49 • 18h ago
+
+---
+
+**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
+
+Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
+
+📺 Lark Davis
+
+👁️ 6K • 👍 383 • 💬 21 • ⏱️ 6:51 • 4h ago
+
+---
+
+**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
+
+Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
+
+📺 Bloomberg Television
+
+👁️ 16K • 👍 120 • 💬 9 • ⏱️ 10:06 • 19h ago
 
 ---
 
@@ -351,7 +355,37 @@ Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 129 • ⏱️ 13:18 • 11h ago
+👁️ 71K • 👍 2K • 💬 215 • ⏱️ 13:18 • 15h ago
+
+---
+
+**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+
+Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+
+📺 Gareth Soloway
+
+👁️ 106K • 👍 3K • 💬 172 • ⏱️ 11:24 • 22h ago
+
+---
+
+**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
+
+Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 574 • 💬 144 • ⏱️ 1:06:33 • 1d ago
+
+---
+
+**[Grant Cardone Bought 1,000 Bitcoin at $90,000 💀](https://www.youtube.com/watch?v=9gYZPgFsawI)**
+
+No Coupon ReinvestAI: https://Reinvest.co/ Reinvest App in Apple Store: https://meetkevin.com/app Reinvest App in ...
+
+📺 Meet Kevin
+
+👁️ 22K • 👍 134 • 💬 6 • ⏱️ 0:41 • 2d ago
 
 ---
 
@@ -361,57 +395,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 48K • 👍 3K • 💬 117 • ⏱️ 24:24 • 17h ago
-
----
-
-**[Bitcoin History Is Repeating](https://www.youtube.com/watch?v=6L4_AE8Z6cc)**
-
-Bitcoin History Is Repeating Want access to the Platinum Group? Join here: ...
-
-📺 Mister Crypto
-
-👁️ 1K • 👍 80 • 💬 48 • ⏱️ 9:34 • 4h ago
-
----
-
-**[MSTR CEO Phong Le: Becoming the JP Morgan of Bitcoin](https://www.youtube.com/watch?v=p-LlLGxqD4o)**
-
-Strategy's aspiration isn't to be a Bitcoin holding company — it's to be the JPMorgan of Bitcoin. CEO Phong Le explains what that ...
-
-📺 Bitcoin Magazine
-
-👁️ 18K • 👍 343 • 💬 22 • ⏱️ 16:35 • 16h ago
-
----
-
-**[The Bitcoin Retirement Trap Nobody Warned You About](https://www.youtube.com/watch?v=6LCBWwavR8s)**
-
-MY 5-YEAR BITCOIN RETIREMENT CALCULATOR AND CHEAT SHEET: https://links.marketdisruptors.io/retire. Most people ...
-
-📺 Mark Moss
-
-👁️ 85K • 👍 2K • 💬 205 • ⏱️ 18:49 • 1d ago
-
----
-
-**[BITCOIN: You NEED To See This! (Final Resistance)](https://www.youtube.com/watch?v=umLn_wyhVrE)**
-
-Opening Statement & Video Context 0:00-3:12 Analysis 3:12-11:06 My Market Bottom Buying Strategy ...
-
-📺 Wolves of Crypto
-
-👁️ 5K • 👍 307 • 💬 116 • ⏱️ 11:07 • 10h ago
-
----
-
-**[Bear Market Officially OVER? The Exact Metric BTC Just Triggered](https://www.youtube.com/watch?v=LJbQe8zGnnY)**
-
-Bitcoin may have just broken the four-year cycle. One metric says the bear market is done. Trade alongside the Verified Pro ...
-
-📺 Verified Investing
-
-👁️ 13K • 👍 529 • 💬 29 • ⏱️ 21:03 • 18h ago
+👁️ 52K • 👍 3K • 💬 119 • ⏱️ 24:24 • 20h ago
 
 ---
 
