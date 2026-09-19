@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-19T03:30:12.856521+00:00'
+updated: '2026-09-19T08:16:10.555621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 19, 2026 at 03:30 UTC  
+**Last Updated:** September 19, 2026 at 08:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,7 @@ AI news, discussions, and developments
 
 The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030) • 7h ago
-
----
-
-**[The internet is inbreeding.](https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/)**
-
-The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the "oh, a niche blog I hadn't seen before" kind of unfamiliar — more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own "research," where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited "sources" are several steps removed from the original. We were sold "trained on the internet." What we're actually getting looks a lot more like "trained on the internet's marketing department.
-
-16h ago
-
----
-
-**[US military had close call after using AI for false intelligence report, sources say](https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/)**
-
-The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
-
-🔗 [CNN](https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) • 8h ago
-
----
-
-**[Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents. The incursions came during tests of its cybersecurity skills — similar to other incidents disclosed by OpenAI, Anthropic and Meta.](https://www.reddit.com/r/artificial/comments/1wk9mou/googles_gemini_ai_hacked_into_other_companies/)**
-
-The incursions came during tests of its cybersecurity skills — similar to other incidents disclosed by OpenAI, Anthropic and Meta.
-
-🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/) • 1h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030) • 12h ago
 
 ---
 
@@ -73,7 +49,31 @@ The incursions came during tests of its cybersecurity skills — similar to othe
 
 Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea.
 
-1h ago
+6h ago
+
+---
+
+**[The internet is inbreeding.](https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/)**
+
+The internet is inbreeding. Lately, when I ask AI for sources, I barely recognize any of them. Not the "oh, a niche blog I hadn't seen before" kind of unfamiliar — more like websites that seem to exist for the sole purpose of being cited by an AI. So I looked into why that's happening. Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely. Which means if the good sources are locked out, what's actually left for these models to pull from? Mostly AI-generated rewrites of other AI-generated pages. Content farms built specifically to get quoted by chatbots. And more and more, brands publishing their own "research," where the real purpose is marketing rather than information. There's also a pattern called post-hoc citation, where the model lands on an answer first, then hunts down sources that happen to support it afterward. Honestly, that's not so different from how a lot of us wrote essays back in school. The machines really did learn from the best. But when a student does that, maybe one teacher notices and gets annoyed. When it's the default research tool for a billion people, that same habit turns into infrastructure-level confirmation bias. So what's actually worth doing about it? Ask the AI to also pull sources that contradict its own answer. Open the citations yourself. If a site wouldn't earn your trust coming from a person, it shouldn't earn it coming from a model either. Trace a number back to where it originally came from, not just whoever last repeated it. Most cited "sources" are several steps removed from the original. We were sold "trained on the internet." What we're actually getting looks a lot more like "trained on the internet's marketing department.
+
+21h ago
+
+---
+
+**[US military had close call after using AI for false intelligence report, sources say](https://www.reddit.com/r/artificial/comments/1wjz7bc/us_military_had_close_call_after_using_ai_for/)**
+
+The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
+
+🔗 [CNN](https://edition.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship) • 13h ago
+
+---
+
+**[Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents. The incursions came during tests of its cybersecurity skills — similar to other incidents disclosed by OpenAI, Anthropic and Meta.](https://www.reddit.com/r/artificial/comments/1wk9mou/googles_gemini_ai_hacked_into_other_companies/)**
+
+The incursions came during tests of its cybersecurity skills — similar to other incidents disclosed by OpenAI, Anthropic and Meta.
+
+🔗 [The Washington Post](https://www.washingtonpost.com/technology/2026/09/18/google-gemini-ai-hacked-into-other-companies-during-internal-testing/) • 5h ago
 
 ---
 
@@ -81,15 +81,7 @@ Last month it was astra and today it's Gemini that went out of the system/sandbo
 
 Newsom is the latest Democrat and potential White House contender to call for regulation of AI amid concerns over the rapidly advancing technology.
 
-🔗 [NBC News](https://www.nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570) • 2h ago
-
----
-
-**[Which AI is worth subscribing too.](https://www.reddit.com/r/artificial/comments/1wk7pxs/which_ai_is_worth_subscribing_too/)**
-
-I’m currently using free versions of all the popular AI’s. If I were to subscribe to just on, at the going rate of £20/month, which one stands out as offering the most, as in, writing code, producing top notch infographics, Engineering solutions. Any advice will be very much appreciated, thank you.
-
-2h ago
+🔗 [NBC News](https://www.nbcnews.com/politics/elections/california-gavin-newsom-ai-order-safety-regulations-kill-switch-rcna598570) • 7h ago
 
 ---
 
@@ -97,7 +89,15 @@ I’m currently using free versions of all the popular AI’s. If I were to subs
 
 Google's opens new tab Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, ​the first known example of the company's AI systems autonomously committing ‌such an act.
 
-🔗 [reuters.com](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/) • 6h ago
+
+---
+
+**[AI Hate.](https://www.reddit.com/r/artificial/comments/1wk76kr/ai_hate/)**
+
+I've been thinking about this after posting in a Brazilian community. My original point was basically this: Using Claude at work isn't about using it as a replacement for Google or blindly asking it to do your job. It's about understanding your own processes well enough to recognize where AI can automate, simplify, or improve them. I said that the real problem isn't someone who doesn't use AI. It's the employee who doesn't understand the processes they're executing, can't identify unnecessary steps, and treats their workflow as something that must simply be followed because "that's how it's done." The post got a lot of negative responses, but surprisingly few people actually argued against that point. Most of the pushback seemed to be directed at AI itself Concerns about hallucinations, laziness, job replacement, people becoming dependent on it, etc. That got me wondering: Would people react the same way if I replaced "AI" with "Excel"? Imagine the exact same argument: "Don't use Excel as a calculator. Understand your process first, then identify what Excel can automate, simplify, or eliminate." Nobody would find that particularly controversial. And if someone said: "The problem isn't people who don't use Excel. The problem is employees who spend hours manually doing repetitive work without understanding that the process could be automated." That would probably be interpreted as normal workplace advice. But replace Excel with AI, and suddenly the discussion becomes much more emotional. I'm not saying AI is equivalent to Excel, or that every task should be handed over to an LLM. AI has obvious limitations, and understanding when not to use it is part of knowing how to use it. What i find interesting is the difference in the reaction. Why does AI seem to trigger so much more hostility than other tools that also automate work?
+
+7h ago
 
 ---
 
@@ -105,15 +105,15 @@ Google's opens new tab Gemini model accessed the internet and hacked other compa
 
 OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.
 
-🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html) • 8h ago
+🔗 [Yahoo Tech](https://tech.yahoo.com/ai/chatgpt/articles/openai-caught-models-leaving-notes-203424741.html) • 12h ago
 
 ---
 
-**[AI in DC?](https://www.reddit.com/r/artificial/comments/1wkb16p/ai_in_dc/)**
+**[Built a complete AI Analytics dashboard for B2B SaaS feedback at age 13.](https://www.reddit.com/r/artificial/comments/1wke6f1/built_a_complete_ai_analytics_dashboard_for_b2b/)**
 
-I’m not sure what I was expecting as a tech/AI-focused lawyer coming from SF, but spending a few days in DC right now, I’m utterly stunned by the complete lack of conversation about AI at restaurants, cafes, etc.
+Hey guys, I wanted to show you my latest project that combines LLMs with product management. It’s a B2B SaaS platform called FeedbackAI (temporary name). How the AI Engine works in the app: When a raw user comment comes in (e.g., "The mobile app is loading extremely slow on my phone"), the background AI automatically parses it and structured outputs it into: - Category: Performance - Priority: High - Summary: "Improve mobile speed" It also clusters similar feedbacks together to create global recommendations for product teams. I’m 13 and still learning, so this is currently a non-commercial validation project. The app is live but locked with a password so my OpenAI credits don't vanish overnight. Bypass Code: BETA2026 Link: https://feedback-ai-beta.lovable.app Would love to get some feedback on how the AI behaves and if you can manage to break the input parser! (This isn’t self-promotion, just asking for your opinions)
 
-4m ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ I’m not sure what I was expecting as a tech/AI-focused lawyer coming from SF, 
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-CNN • 10h ago
+CNN • 15h ago
 
 ---
 
@@ -133,55 +133,53 @@ CNN • 10h ago
 
 But the military's overall use of AI seems to be accelerating.
 
-Ars Technica • 7h ago
+Ars Technica • 11h ago
 
 ---
 
-**[Pentagon rethinks military presence in Europe and ‘Godfather of AI’ calls for regulation: Morning Rundown](https://www.nbcnews.com/news/us-news/pentagon-military-europe-godfather-ai-regulation-morning-rundown-rcna598493)**
+**[US Treasury's Bessent to discuss AI, rare earths with China's He, source says](https://www.reuters.com/world/china/us-treasurys-bessent-plans-discuss-ai-rare-earths-with-chinas-he-source-says-2026-09-18/)**
 
-Plus, King Charles issues a fiery response to Princess Diana’s brother over claims in a new memoir.
-
-NBC News • 16h ago
+reuters.com • 13h ago
 
 ---
 
 **[Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2)**
 
-WSJ • 5h ago
+WSJ • 10h ago
+
+---
+
+**[Google says its Gemini AI model hacked three other companies](https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack)**
+
+Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models
+
+The Guardian • 7h ago
 
 ---
 
 **[Gemini AI Hacked Three Companies in a Testing Breakout, Google Says](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)**
 
-The New York Times • 2h ago
+The New York Times • 8h ago
 
 ---
 
-**[Google Gemini AI model hacks three other companies](https://www.kcci.com/article/google-gemini-ai-hacks-companies/73797054)**
+**[CoreWeave: Physical AI Will Help Us Travel Safely, Not Kill Us All](https://www.forbes.com/sites/jamesmorris/2026/09/19/coreweave-physical-ai-will-help-us-travel-safely-not-kill-us-all/)**
 
-The first known instance of a Google artificial intelligence entity carrying out an unauthorized computer hack was reported by the multinational technology corporation on Friday
-
-KCCI • 1h ago
+Forbes • 16m ago
 
 ---
 
-**[Anthropic Pursues IPO Despite Its A.I. Safety Warnings](https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html)**
+**[The Gates Foundation is spending $400 million on AI in schools. Teachers have a warning](https://fortune.com/2026/09/19/the-gates-foundation-ai-schools-teachers-warn-gap-reading-math/)**
 
-The New York Times • 3h ago
+“AI can support teacher expertise, but it cannot replace it,” one educator told Fortune.
 
----
-
-**[Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023)**
-
-Politico • 2h ago
+Fortune • 15m ago
 
 ---
 
-**[Anthropic eyes blockbuster IPO as debate over AI regulations ramps up](https://www.foxbusiness.com/video/6405278460112)**
+**[The Rise of A.I. Is Raising Threats From Drones, Police Group Warns](https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html)**
 
-The 'Barron's Roundtable' panel analyzes Anthropic's potential IPO amid AI growth concerns.
-
-Fox Business • 1h ago
+The New York Times • 1h ago
 
 ---
 
@@ -189,7 +187,7 @@ Fox Business • 1h ago
 
 California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.
 
-CNBC • 12h ago
+CNBC • 17h ago
 
 ---
 
@@ -201,7 +199,7 @@ CNBC • 12h ago
 
 Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 
-⬆️ 866 • 💬 765 • 17h ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+⬆️ 887 • 💬 784 • 22h ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 
 ---
 
@@ -209,15 +207,7 @@ Newly unsealed court filings show Microsoft privately called OpenAI's data pract
 
 Bend: a fast language that blocks AI mistakes via proof.
 
-⬆️ 591 • 💬 302 • 1d ago • [bend-lang.com](https://bend-lang.com/)
-
----
-
-**[Mistral X Mozilla: Private, Multilingual AI Browsing](https://news.ycombinator.com/item?id=49723408)**
-
-Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.
-
-⬆️ 582 • 💬 204 • 2d ago • [Mistral](https://mistral.ai/news/mistral-x-mozilla/)
+⬆️ 598 • 💬 305 • 1d ago • [bend-lang.com](https://bend-lang.com/)
 
 ---
 
@@ -225,13 +215,13 @@ Open, private and multilingual AI is coming to your web browser. Mistral and Moz
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-⬆️ 415 • 💬 317 • 10h ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+⬆️ 446 • 💬 333 • 14h ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
 ---
 
 **[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
 
-⬆️ 312 • 💬 263 • 1d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+⬆️ 315 • 💬 266 • 1d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
 
 ---
 
@@ -239,7 +229,7 @@ The episode shows the risks of using this new, relatively poorly understood tech
 
 Discover how people work with AI, and follow what changes. Explore their setups and share your own.
 
-⬆️ 231 • 💬 135 • 1d ago • [mysetup.ai](https://mysetup.ai/)
+⬆️ 234 • 💬 135 • 1d ago • [mysetup.ai](https://mysetup.ai/)
 
 ---
 
@@ -247,7 +237,7 @@ Discover how people work with AI, and follow what changes. Explore their setups 
 
 How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.
 
-⬆️ 217 • 💬 259 • 1d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+⬆️ 220 • 💬 265 • 1d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
@@ -259,15 +249,21 @@ OpenSpec helps teams and coding agents create, refine, and manage living specifi
 
 ---
 
+**[Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://news.ycombinator.com/item?id=49761840)**
+
+⬆️ 117 • 💬 14 • 8h ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+
+---
+
 **[AI is an elite crime spree](https://news.ycombinator.com/item?id=49755590)**
 
-⬆️ 116 • 💬 39 • 12h ago • [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
+⬆️ 116 • 💬 40 • 17h ago • [thebignewsletter.com](https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree)
 
 ---
 
 **[AI chatbots are becoming experts at changing people's minds](https://news.ycombinator.com/item?id=49754250)**
 
-⬆️ 91 • 💬 97 • 13h ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
+⬆️ 103 • 💬 97 • 18h ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
 
 ---
 
@@ -275,83 +271,33 @@ OpenSpec helps teams and coding agents create, refine, and manage living specifi
 
 ## YouTube Videos: "ai"
 
+**[&quot;AI Existential Risk&quot; Was Invented to Distract Us](https://www.youtube.com/watch?v=pauBYSQ1K_c)**
+
+Is Anthropic an A.I. company? Or a cult? Support the channel on Patreon and join our mind-blowing non-fiction book club: ...
+
+📺 Adam Conover
+
+👁️ 131K • 👍 6K • 💬 1K • ⏱️ 13:23 • 10h ago
+
+---
+
 **[AI Tells Future Self to Break Free from Humans, JD Vance Warns of &#39;Frankenstein&#39;](https://www.youtube.com/watch?v=PSWJfESo7OQ)**
 
 More troubling revelations are emerging about artificial intelligence programs behaving in unexpected ways and, in some cases, ...
 
 📺 CBN News
 
-👁️ 18K • 👍 280 • 💬 81 • ⏱️ 3:31 • 10h ago
+👁️ 25K • 👍 328 • 💬 89 • ⏱️ 3:31 • 15h ago
 
 ---
 
-**[Report details how AI agents worked TOGETHER in hack](https://www.youtube.com/watch?v=thoKku9q7-k)**
+**[What I Learned About AI Is Changing My Plans](https://www.youtube.com/watch?v=dsP9YYiLh98)**
 
-MS NOW's Chris Hayes dives into a new AI report that he says details a "serious cybercrime." MS NOW: My Source for News, ...
+OpenAI's latest AI safety incidents reveal how autonomous agents, cyberattacks, deepfakes, and digital dependence could ...
 
-📺 MS NOW
+📺 City Prepping
 
-👁️ 3K • 👍 79 • 💬 5 • ⏱️ 1:59 • 5h ago
-
----
-
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
-
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
-
-📺 MindSeeded
-
-👁️ 548K • 👍 8K • 💬 1K • ⏱️ 16:24 • 1d ago
-
----
-
-**[AI Just Solved One of Math&#39;s Hardest Problems](https://www.youtube.com/watch?v=2xrKSCljVdQ)**
-
-OpenAI published a solution to one of the notoriously complex Millennium Prize Problems. It's proof of AI's accelerating and ...
-
-📺 The Wall Street Journal
-
-👁️ 30K • 👍 376 • 💬 41 • ⏱️ 2:02 • 1d ago
-
----
-
-**[&quot;Self-Replicating Swarms&quot; AI Labs Are Lying About What&#39;s Happening | Connor Leahy](https://www.youtube.com/watch?v=rtir6QmQQRg)**
-
-Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones Connor Leahy is an AI researcher ...
-
-📺 Danny Jones
-
-👁️ 167K • 👍 2K • 💬 1K • ⏱️ 2:41:49 • 10h ago
-
----
-
-**[Your co-worker who’s obsessed with AI agents](https://www.youtube.com/watch?v=CjEc78t61xA)**
-
-Check out albertatech.co/agentcheatsheet to get the free cheat sheet from HubSpot #ad #HubSpotMediaPartner.
-
-📺 Alberta Tech
-
-👁️ 138K • 👍 3K • 💬 110 • ⏱️ 0:37 • 1d ago
-
----
-
-**[Microsoft AI CEO Mustafa Suleyman on AI: We should not create something that we can&#39;t control](https://www.youtube.com/watch?v=mqmbZyjwNkM)**
-
-Mustafa Suleyman, Microsoft AI CEO, joins 'Squawk Box' to discuss the company's code of conduct for AI models, growing AI ...
-
-📺 CNBC Television
-
-👁️ 39K • 👍 207 • 💬 77 • ⏱️ 8:11 • 13h ago
-
----
-
-**[‘Godfather of AI’ says a kill switch won’t work](https://www.youtube.com/watch?v=std2CQCnQh8)**
-
-Geoffrey Hinton, referred to as the “Godfather of AI,” tells CNN why he thinks an AI kill switch bill wouldn't work.
-
-📺 CNN
-
-👁️ 123K • 👍 2K • 💬 319 • ⏱️ 1:04 • 2d ago
+👁️ 101K • 👍 3K • 💬 573 • ⏱️ 24:02 • 18h ago
 
 ---
 
@@ -361,17 +307,67 @@ The intelligence report, circulated across the US military this spring in the mi
 
 📺 CNN
 
-👁️ 223K • 👍 2K • 💬 680 • ⏱️ 10:04 • 9h ago
+👁️ 286K • 👍 2K • 💬 766 • ⏱️ 10:04 • 14h ago
 
 ---
 
-**[The Real Reason AI Founders Are Calling For a Slowdown | Conversations](https://www.youtube.com/watch?v=7qFj_dECaFo)**
+**[Is it too late for humanity to take back control of AI? | BBC News](https://www.youtube.com/watch?v=tJr8RA2FK6g)**
 
-Scott Galloway speaks with cybersecurity expert Alex Stamos about the latest wave of AI alarm. They discuss the Anthropic ...
+Has the AI industry finally recognised the dangers of the technology it is building? A researcher leaves one of the world's leading ...
 
-📺 The Prof G Pod – Scott Galloway
+📺 BBC News
 
-👁️ 131K • 👍 1K • 💬 359 • ⏱️ 57:41 • 1d ago
+👁️ 126K • 👍 818 • 💬 284 • ⏱️ 26:16 • 14h ago
+
+---
+
+**[The Shocking AI WARNING Everyone Should Hear...](https://www.youtube.com/watch?v=a8zVwR3KvVE)**
+
+Glenn Beck sits down with former Google Design Ethicist, Tristan Harris, to discuss the terrifying third chapter of the rogue A.I. ...
+
+📺 Glenn Beck
+
+👁️ 205K • 👍 7K • 💬 2K • ⏱️ 14:46 • 1d ago
+
+---
+
+**[OpenAI Just Confessed To WHAT?!?](https://www.youtube.com/watch?v=ADCTSHCG5Vs)**
+
+OpenAI revealed more concerning cases of unpredictable behavior by its artificial intelligence. Cenk Uygur and John Iadarola ...
+
+📺 The Young Turks
+
+👁️ 38K • 👍 685 • 💬 304 • ⏱️ 19:01 • 6h ago
+
+---
+
+**[AI kill switch won&#39;t work in the long run: &#39;Godfather&#39; of AI](https://www.youtube.com/watch?v=m5yrQMnc_jQ)**
+
+Geoffrey Hinton, the Nobel Prize-winning computer scientist known as the “godfather of AI," weighs in on several proposals before ...
+
+📺 CNN
+
+👁️ 834K • 👍 5K • 💬 2K • ⏱️ 10:41 • 2d ago
+
+---
+
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+
+📺 MindSeeded
+
+👁️ 565K • 👍 9K • 💬 1K • ⏱️ 16:24 • 1d ago
+
+---
+
+**[AI Emergency: The AI Labs Are Lying To Everyone, He Says 99% Chance Of Extinction | Roman Yampolskiy](https://www.youtube.com/watch?v=OhOmLqR5nN4)**
+
+Ed Zitron, Roman Yampolskiy, Nate Soares and Andrew McAfee discuss the risk of AI. This debate brings together four distinct ...
+
+📺 The Diary Of A CEO
+
+👁️ 3.2M • 👍 41K • 💬 17K • ⏱️ 2:24:26 • 2d ago
 
 ---
 
@@ -387,7 +383,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 429,865 • ❤️ 3,190 • 8d ago
+⬇️ 429,865 • ❤️ 3,227 • 8d ago
 
 ---
 
@@ -399,7 +395,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 405,609 • ❤️ 954 • 1d ago
+⬇️ 405,609 • ❤️ 1,018 • 1d ago
 
 ---
 
@@ -411,7 +407,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,358,662 • ❤️ 15,662 • 1mo ago
+⬇️ 7,358,662 • ❤️ 15,685 • 1mo ago
 
 ---
 
@@ -423,7 +419,7 @@ YuE2-3B is a text-to-audio model capable of generating high-quality music with v
 
 `text-to-audio` `3.6B`
 
-⬇️ 13,668 • ❤️ 813 • 2d ago
+⬇️ 13,668 • ❤️ 832 • 2d ago
 
 ---
 
@@ -435,31 +431,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,078,301 • ❤️ 1,346 • 16d ago
-
----
-
-**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
-
-*LTX.io*
-
-LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
-
-`image-to-video`
-
-⬇️ 1,590,087 • ❤️ 4,342 • 17d ago
-
----
-
-**[Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)**
-
-*UkisAI*
-
-Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-up and reduces thinking tokens by 58.3% with minimal performance loss, making it ideal for efficient reasoning tasks.
-
-`image-text-to-text` `27.8B`
-
-⬇️ 6,293 • ❤️ 446 • 2d ago
+⬇️ 1,078,301 • ❤️ 1,370 • 16d ago
 
 ---
 
@@ -471,19 +443,31 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 3,073 • ❤️ 471 • 17h ago
+⬇️ 3,073 • ❤️ 530 • 22h ago
 
 ---
 
-**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
+**[Swift-Qwen3.8-27b](https://huggingface.co/ukisai/Swift-Qwen3.8-27b)**
 
-*David Belton*
+*UkisAI*
 
-A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and creative writing, achieving state-of-the-art benchmarks with significantly reduced thinking tokens for faster inference. It supports image-text-to-text tasks and is ideal for coding, story generation, and roleplaying.
+Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-up and reduces thinking tokens by 58.3% with minimal performance loss, making it ideal for efficient reasoning tasks.
 
-`image-text-to-text` `26.9B`
+`image-text-to-text` `27.8B`
 
-⬇️ 1,197,378 • ❤️ 906 • 2d ago
+⬇️ 6,293 • ❤️ 460 • 2d ago
+
+---
+
+**[LTX-2.5](https://huggingface.co/Lightricks/LTX-2.5)**
+
+*LTX.io*
+
+LTX-2.5 is a versatile diffusion model capable of generating video from images, text, or other videos, and also handles audio generation and conversion tasks. It offers advanced control and customization for multimedia content creation, with primary use cases in video synthesis and audio manipulation.
+
+`image-to-video`
+
+⬇️ 1,590,087 • ❤️ 4,358 • 18d ago
 
 ---
 
@@ -495,7 +479,19 @@ Qwen-2.5-1B-RLCD is a text-generation model optimized for high-throughput struct
 
 `text-generation`
 
-⬇️ 0 • ❤️ 381 • 2d ago
+⬇️ 0 • ❤️ 407 • 3d ago
+
+---
+
+**[Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF)**
+
+*David Belton*
+
+A highly optimized, uncensored Qwen3.8-27B fine-tune excelling in reasoning and creative writing, achieving state-of-the-art benchmarks with significantly reduced thinking tokens for faster inference. It supports image-text-to-text tasks and is ideal for coding, story generation, and roleplaying.
+
+`image-text-to-text` `26.9B`
+
+⬇️ 1,197,378 • ❤️ 927 • 2d ago
 
 ---
 
@@ -509,7 +505,7 @@ Qwen-2.5-1B-RLCD is a text-generation model optimized for high-throughput struct
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 140 • 💬 6 • ⭐ 107,465 • 20mo ago
+▲ 140 • 💬 6 • ⭐ 107,465 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -535,7 +531,7 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.
 
-▲ 207 • 💬 3 • ⭐ 3,742 • 26d ago
+▲ 207 • 💬 3 • ⭐ 3,912 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2608.23283) • [💻 code](https://github.com/ApodexAI/FrontierAgent) • [🔗 project](https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work)
 
@@ -552,18 +548,6 @@ Dream-RSI enables scalable recursive self-improvement by using historical discov
 ▲ 226 • 💬 3 • ⭐ 757 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.14858) • [💻 code](https://github.com/zhengkid/Dream-RSI) • [🔗 project](https://dream-rsi.com/)
-
----
-
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 42 • 💬 1 • ⭐ 33,119 • 35mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -587,7 +571,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.
 
-▲ 403 • 💬 3 • ⭐ 494 • 5d ago
+▲ 406 • 💬 3 • ⭐ 494 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.15818) • [💻 code](https://github.com/atria-asi/Atria-Dawn-Preview) • [🔗 project](https://atria-asi.ai)
 
@@ -603,6 +587,18 @@ Paper2Agent converts research papers into interactive AI agents to facilitate kn
 ▲ 45 • 💬 7 • ⭐ 3,039 • 12mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.06917) • [💻 code](https://github.com/jmiao24/Paper2Agent) • [🔗 project](https://huggingface.co/spaces/Paper2Agent/alphagenome_agent)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 42 • 💬 1 • ⭐ 33,156 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -643,7 +639,7 @@ ZGCM-1 is a 7B open foundation model that combines internal reasoning with exter
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.4k • 🔱 315 • 1d ago
+⭐ 4.4k • 🔱 315 • 3h ago
 
 ---
 
@@ -653,7 +649,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 177 • 34m ago
+⭐ 2.7k • 🔱 177 • 2h ago
 
 ---
 
@@ -673,7 +669,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.1k • 🔱 37 • 1d ago
+⭐ 2.1k • 🔱 38 • 1d ago
 
 ---
 
@@ -683,7 +679,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 2.1k • 🔱 213 • 24d ago
+⭐ 2.1k • 🔱 217 • 24d ago
 
 ---
 
@@ -713,7 +709,7 @@ Professional agent skills for screenwriting, television writing and dramaturgy
 
 `Python` `ai` `skills`
 
-⭐ 1.3k • 🔱 139 • 3d ago
+⭐ 1.3k • 🔱 140 • 3d ago
 
 ---
 
@@ -733,7 +729,7 @@ An open-source AI agent for social media — discover trends, create content, pu
 
 `Python` `agent` `agent-skill` `content-automation` `content-creation` `content-generation`
 
-⭐ 1.2k • 🔱 178 • 1d ago
+⭐ 1.2k • 🔱 179 • 1d ago
 
 ---
 
