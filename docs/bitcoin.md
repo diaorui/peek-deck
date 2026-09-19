@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-18T23:55:43.045788+00:00'
+updated: '2026-09-19T03:30:12.864999+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 18, 2026 at 23:55 UTC  
+**Last Updated:** September 19, 2026 at 03:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,923.91
+### $81,289.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.6%  
-**7d:** +4.7%  
-**30d:** +10.8%  
-**90d:** +27.8%  
-**1y:** -30.0%  
+**24h:** +4.7%  
+**7d:** +5.7%  
+**30d:** +3.7%  
+**90d:** +26.8%  
+**1y:** -29.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1624.74B
+**Market Cap:** $1630.18B
 Rank #1
 
-**Circulating Supply:** 20,086,284 BTC
+**Circulating Supply:** 20,086,368 BTC
 95.6% of max
 
 **All-Time High:** $126,080.00
--35.8%
+-35.6%
 
 **All-Time Low:** $67.81
-+119214.3%
++119593.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 56
+### 71
 **GREED**
 
 ---
@@ -155,7 +155,7 @@ No future major uncertain policy changes, should be up from here.
 
 **[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
 
-Barron's • 5h ago
+Barron's • 8h ago
 
 ---
 
@@ -163,15 +163,37 @@ Barron's • 5h ago
 
 The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world’s most important oil chokepoint.
 
-CoinDesk • 17h ago
+CoinDesk • 20h ago
 
 ---
 
-**[Bitcoin’s Production Cost Is $78,000. What Happens When Miners Lose Money?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-production-cost-78-000-225946967.html)**
+**[Gold and Bitcoin Are Starting to Rhyme? — But They Are Still Not the Same Hedge](https://www.moomoo.com/community/feed/gold-and-bitcoin-are-starting-to-rhyme-but-they-are-117295253422086)**
 
-JPMorgan pegs Bitcoin's production cost above its current market price, and miners have already broken records to stay afloat. What built-in network forces determine whether this becomes a prolonged bleed or a setup for recovery?
+The more important question is not whether Bitcoin is “digital gold.” It is whether the two assets are beginning to respond to the same macro forces.  For a long time, gold and Bitcoin belonged to very different parts of the market.  Gold was associated with monetary uncertainty, falling real yields, currency weakness, geopolitical stress and reserve diversification. Bitcoin was driven more heavily by adoption, crypto...
 
-Yahoo Finance • 55m ago
+Moomoo • 1h ago
+
+---
+
+**[Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure](https://ng.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-2701932)**
+
+Investing.com Nigeria • 26m ago
+
+---
+
+**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
+
+Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
+
+VanEck • 15h ago
+
+---
+
+**[Best Crypto Casinos 2026 – 5 Fastest Bitcoin Gambling Sites Ranked by Trust](https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/)**
+
+Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings ↪️ Thunderpick 🎁 100% up to €2,000 4.8/5 ⭐ ↪️ JACK.com 🎁 100 Wager-Free Free Spins 4.8/5 ⭐ ↪️ BitStarz 🎁 300% up to 5 BTC + 180 Free Spins 4.9/5 ⭐ ↪️ Lucky Rebel (USA only) 🎁 200% up to $2,500 + 50...
+
+Muddy River Sports • 1d ago
 
 ---
 
@@ -179,37 +201,7 @@ Yahoo Finance • 55m ago
 
 Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
 
-CNBC • 17h ago
-
----
-
-**[Bitcoin Price Forecast: BTC/USD 42% Rally Puts Major Trend Reversal in Play](https://www.forex.com/en-sg/news-and-analysis/bitcoin-price-forecast-btc-usd-42pct-rally-puts-major-trend-reversal-in-play-9-18-2026/)**
-
-FOREX.com • 6h ago
-
----
-
-**[JPMorgan says bitcoin could get more support than gold if ETF hedging eases](https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421)**
-
-Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts.
-
-theblock.co • 1d ago
-
----
-
-**[Why Bitcoin Is Up Today](https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/)**
-
-Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
-
-fool.com • 3h ago
-
----
-
-**[Strive acquires 469 Bitcoin worth $36.6M through preferred stock trades, pushing holdings to 25,000 BTC](https://www.tradingview.com/news/cryptobriefing:0b65b62fb094b:0-strive-acquires-469-bitcoin-worth-36-6m-through-preferred-stock-trades-pushing-holdings-to-25-000-btc/)**
-
-Strive, Inc. has added 469 Bitcoin to its treasury over a four-day stretch, spending approximately $36.6 million at an average price of $77,954 per coin. The purchase, executed between September 8 and 11, pushes the Nasdaq-listed asset management firm's total Bitcoin stash to a clean 25,000 BTC, wo…
-
-TradingView • 3h ago
+CNBC • 21h ago
 
 ---
 
@@ -217,7 +209,7 @@ TradingView • 3h ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 11h ago
+fortune.com • 10h ago
 
 ---
 
@@ -225,7 +217,13 @@ Fortune • 11h ago
 
 Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 11h ago
+
+---
+
+**[‘I’m Back’—Kevin O’Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
+
+Forbes • 15h ago
 
 ---
 
@@ -235,7 +233,7 @@ Bitcoin Magazine • 7h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 309 • 💬 264 • 1d ago
+⬆️ 310 • 💬 266 • 1d ago
 
 ---
 
@@ -275,7 +273,7 @@ Revolut confirms to BeInCrypto a fake government email pulled customer data, inc
 
 Ḽava AI : Proof of Content
 
-⬆️ 3 • 💬 0 • 1d ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
+⬆️ 3 • 💬 0 • 2d ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
 
 ---
 
@@ -319,27 +317,7 @@ Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vot
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 499 • 💬 44 • ⏱️ 16:49 • 1h ago
-
----
-
-**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
-
-Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
-
-📺 Bloomberg Television
-
-👁️ 4K • 👍 77 • 💬 35 • ⏱️ 10:06 • 3h ago
-
----
-
-**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 4K • 👍 253 • 💬 194 • ⏱️ 21:55 • 3h ago
+👁️ 14K • 👍 1K • 💬 101 • ⏱️ 16:49 • 5h ago
 
 ---
 
@@ -349,27 +327,27 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 54K • 👍 3K • 💬 129 • ⏱️ 11:24 • 6h ago
+👁️ 78K • 👍 3K • 💬 131 • ⏱️ 11:24 • 9h ago
 
 ---
 
-**[🚨🚨A Bitcoin Emergency!!!!!!!!!!!!!! Watch Immediately! BTC Elliott Wave Update🚨🚨](https://www.youtube.com/watch?v=dBNDqjSrFr8)**
+**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Doctor of Pump & Dump
+📺 My Financial Friend
 
-👁️ 2K • 👍 320 • ⏱️ 31:06 • 1h ago
+👁️ 10K • 👍 344 • 💬 170 • ⏱️ 21:55 • 7h ago
 
 ---
 
-**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
+**[Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell](https://www.youtube.com/watch?v=sJ6SbMfI2Zw)**
 
-Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
+Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with ...
 
-📺 Crypto Zombie
+📺 Bloomberg Television
 
-👁️ 16K • 👍 988 • 💬 115 • ⏱️ 28:09 • 7h ago
+👁️ 10K • 👍 102 • 💬 9 • ⏱️ 10:06 • 7h ago
 
 ---
 
@@ -379,37 +357,57 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 19K • 👍 2K • 💬 67 • ⏱️ 24:24 • 4h ago
+👁️ 33K • 👍 2K • 💬 85 • ⏱️ 24:24 • 8h ago
 
 ---
 
-**[U.S. Treasury ATTACKS Iran&#39;s STRATEGIC BITCOIN RESERVE!!! | EP 1595](https://www.youtube.com/watch?v=oym3oltFli4)**
+**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
 
-Operation Economic Outcast STRIKES AGAIN!!! This time targeting the straight of hormuz bitcoin fees.
+Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
 
-📺 Simply Bitcoin
+📺 Altcoin Daily
 
-👁️ 10K • 👍 235 • 💬 42 • ⏱️ 1:27:36 • 5h ago
-
----
-
-**[BREAKING: BITCOIN GOLDEN CROSS QUICKLY APPROACHES](https://www.youtube.com/watch?v=KZO05qek-Xo)**
-
-DOMINATE THE BOTTOM ⬇️JOIN THE WAITLIST ⬇️ https://cryptocrewuniversity.com/mr5 Trade Like A Tourist Or ...
-
-📺 Crypto Crew University
-
-👁️ 52K • 👍 2K • 💬 91 • ⏱️ 10:48 • 2d ago
+👁️ 366 • 👍 42 • ⏱️ 1:27 • 8m ago
 
 ---
 
-**[Crypto CYCLE BREAKOUT! The 5-Year Cycle Shift Is Here (It&#39;s Happening)](https://www.youtube.com/watch?v=SOGagel9F84)**
+**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
 
-Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your rewards! ▻ COINBASE Get up to 250 USDC in ...
+Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
 
-📺 Crypto Capital Venture
+📺 The Wolf Of All Streets
 
-👁️ 17K • 👍 632 • 💬 233 • ⏱️ 20:18 • 8h ago
+👁️ 22K • 👍 540 • 💬 147 • ⏱️ 1:06:33 • 13h ago
+
+---
+
+**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
+
+Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
+
+📺 Crypto Zombie
+
+👁️ 22K • 👍 1K • 💬 125 • ⏱️ 28:09 • 11h ago
+
+---
+
+**[🚨🚨A Bitcoin Emergency!!!!!!!!!!!!!! Watch Immediately! BTC Elliott Wave Update🚨🚨](https://www.youtube.com/watch?v=dBNDqjSrFr8)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 5K • 👍 527 • ⏱️ 31:06 • 5h ago
+
+---
+
+**[Bitcoin &amp; Crypto-Stocks Soar Into Weekend | Closing Bell](https://www.youtube.com/watch?v=PsdnP-DAWQE)**
+
+Watch comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and ...
+
+📺 Bloomberg Podcasts
+
+👁️ 1K • 👍 10 • 💬 1 • ⏱️ 10:06 • 6h ago
 
 ---
 

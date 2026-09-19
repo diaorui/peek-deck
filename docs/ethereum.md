@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-18T23:55:43.051140+00:00'
+updated: '2026-09-19T03:30:12.871148+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 18, 2026 at 23:55 UTC  
+**Last Updated:** September 19, 2026 at 03:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,633.50
+### $2,619.24
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +6.7%  
-**7d:** +3.4%  
-**30d:** +12.2%  
-**90d:** +53.0%  
-**1y:** -41.6%  
+**24h:** +5.6%  
+**7d:** +5.8%  
+**30d:** +4.2%  
+**90d:** +51.6%  
+**1y:** -41.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $318.80B
+**Market Cap:** $320.09B
 Rank #2
 
-**Circulating Supply:** 122,058,931 ETH
+**Circulating Supply:** 122,061,837 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.2%
+-47.0%
 
 **All-Time Low:** $0.43
-+602709.8%
++605559.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 17h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -164,15 +164,15 @@ CoinDesk • 17h ago
 
 Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH has since rebounded 10% from its recent low.
 
-24/7 Wall St. • 4h ago
+24/7 Wall St. • 7h ago
 
 ---
 
-**[Ethereum Reclaims $2,600 After Key Trendline Holds, Following Two Failed Attempts](https://finance.yahoo.com/markets/crypto/articles/ethereum-reclaims-2-600-key-231851374.html)**
+**[Crypto Price Prediction: Where Will XRP, Bitcoin and Ethereum Be by Year End Now That the CLARITY Act Has Failed?](https://finance.yahoo.com/markets/crypto/articles/crypto-price-prediction-where-xrp-224720305.html)**
 
-A trendline that absorbed four separate tests in September has kept Ethereum from collapsing, but two rejections above $2,600 and a delayed upgrade are complicating what looks like a recovery.
+The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place.
 
-Yahoo Finance • 36m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,15 +180,23 @@ Yahoo Finance • 36m ago
 
 Bitcoin (CRYPTO: BTC) on Friday picked up momentum to reclaim $78,000 for the first time in three days, while Ethereum (CRYPTO: ETH) followed higher to touch $2,500.XRP (CRYPTO: XRP) climbed above $1.30, while Dogecoin (CRYPTO: DOGE) jumped roughly 6%.Ripple Chief Legal Officer Stuart Alderoty said…
 
-TradingView • 11h ago
+TradingView • 14h ago
 
 ---
 
-**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
+**[Blockchain Developers Are Racing to Protect Against the Quantum Threat. Here's What It Means for Bitcoin and Ethereum Investors.](https://www.fool.com/investing/2026/09/18/blockchain-protection-against-quantum/)**
 
-Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
+Google says breaking Bitcoin's signatures needs fewer than 500,000 qubits. The best machines running today have about 2,500.
 
-fool.com • 3h ago
+The Motley Fool • 8h ago
+
+---
+
+**[Current price of Ethereum for Sept. 18, 2026](https://fortune.com/article/price-of-ethereum-09-18-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+fortune.com • 11h ago
 
 ---
 
@@ -202,15 +210,7 @@ Decrypt • 1d ago
 
 **[Crypto stocks surge as bitcoin and ethereum rally sharply](https://www.investing.com/news/stock-market-news/crypto-stocks-surge-as-bitcoin-and-ethereum-rally-sharply-93CH-4907701)**
 
-Investing.com • 7h ago
-
----
-
-**[Current price of Ethereum for Sept. 18, 2026](https://fortune.com/article/price-of-ethereum-09-18-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 8h ago
+Investing.com • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ Fortune • 8h ago
 
 Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery, trading above $76,700, $2,400 and $1.300, respectively, on Friday. These top three cryptocurrencies now face key technical levels that could determine whether their recoveries extend further or pull back.
 
-FXStreet • 20h ago
+FXStreet • 23h ago
 
 ---
 
@@ -226,7 +226,7 @@ FXStreet • 20h ago
 
 Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
 
-Finance Magnates • 5h ago
+Finance Magnates • 9h ago
 
 ---
 
@@ -234,13 +234,23 @@ Finance Magnates • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
+**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
 
-RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
+Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
 
-📺 BULLRUNNERS
+📺 Trade Confident
 
-👁️ 1K • 👍 71 • 💬 5 • ⏱️ 1:06 • 2h ago
+👁️ 1K • 👍 10 • 💬 2 • ⏱️ 4:53 • 8h ago
+
+---
+
+**[🔥 BMNR Holders: ETH &amp; BTC Just Exploded - Tokenized Stocks Changed Everything](https://www.youtube.com/watch?v=CwKTyxC8EtQ)**
+
+BMNR, Ethereum (ETH), Strategy (MSTR) and Bitcoin (BTC) are exploding higher - and one of the biggest stories behind this ...
+
+📺 Big Time Trades
+
+👁️ 2K • 👍 79 • 💬 19 • ⏱️ 18:33 • 6h ago
 
 ---
 
@@ -250,27 +260,17 @@ Thanks Coinbase for sponsoring this video. Signup with Coinbase and claim your r
 
 📺 Crypto Capital Venture
 
-👁️ 17K • 👍 632 • 💬 233 • ⏱️ 20:18 • 8h ago
+👁️ 22K • 👍 678 • 💬 244 • ⏱️ 20:18 • 11h ago
 
 ---
 
-**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
+**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
 
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
+RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
 
-📺 Trade Confident
+📺 BULLRUNNERS
 
-👁️ 685 • 👍 9 • 💬 36 • ⏱️ 4:53 • 4h ago
-
----
-
-**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
-
-Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
-
-📺 VirtualBacon
-
-👁️ 8K • 👍 114 • 💬 14 • ⏱️ 1:07 • 23h ago
+👁️ 4K • 👍 146 • 💬 12 • ⏱️ 1:06 • 5h ago
 
 ---
 
@@ -280,17 +280,17 @@ Cash Back from Bybit, WEEX, BloFin, Binance + 12 CEXs https://marzell.org/feedri
 
 📺 Marzell Crypto
 
-👁️ 940 • 👍 10 • 💬 16 • ⏱️ 4:11 • 12h ago
+👁️ 1K • 👍 10 • 💬 11 • ⏱️ 4:11 • 16h ago
 
 ---
 
-**[Bitmine (BMNR) Stock and Ethereum, Are Higher Fed Rates Ending the Crypto Cycle?](https://www.youtube.com/watch?v=DizuGbR8FJM)**
+**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
 
-Today, we take a detailed look at BMNR stock, Ethereum, Federal Reserve interest rates, and the broader crypto market to ...
+Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
 
-📺 BiGB Stcok
+📺 VirtualBacon
 
-👁️ 150 • 👍 7 • ⏱️ 12:47 • 5h ago
+👁️ 9K • 👍 121 • 💬 12 • ⏱️ 1:07 • 1d ago
 
 ---
 
@@ -300,7 +300,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 11K • 👍 213 • 💬 111 • ⏱️ 49:49 • 1d ago
+👁️ 12K • 👍 215 • 💬 111 • ⏱️ 49:49 • 1d ago
+
+---
+
+**[Best Crypto Wallet? Here’s What Actually Matters (Bitcoin Ethereum PulseChain)](https://www.youtube.com/watch?v=L-zWsfHrSA8)**
+
+Get limited edition cold wallet card: https://pulsechaincards.com Wallets mentioned: https://zkxwallet.com | https://internetmoney.io ...
+
+📺 Crypto Coffee
+
+👁️ 130 • 👍 24 • ⏱️ 11:02 • 2h ago
 
 ---
 
@@ -314,23 +324,13 @@ Well everyone, its officially over. We all knew it would eventually happen, but 
 
 ---
 
-**[The Fed Just Lit The Fuse For Crypto Markets (Bitcoin To $250,000)](https://www.youtube.com/watch?v=y6AmUZ55J6s)**
+**[Tom Lee &amp; Matt Hougan :&quot;Ethereum About to ENTER It&#39;s MOST EXPLOSIVE ERA Ever&quot; | BTC Update 2026](https://www.youtube.com/watch?v=nDjTUAk2hS4)**
 
-WEEX AI Wars ($600K prize pool): https://www.weex.com/events/human-vs-ai-weex-hackathon?vipCode=oz5p ✓ Bitunix (no kyc) ...
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Altcoin Daily
+📺 Crypto Nutshell
 
-👁️ 100K • 👍 4K • 💬 152 • ⏱️ 12:52 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=pBjChrOlgg8)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 81 • ⏱️ 7:10 • 8h ago
+👁️ 17K • 👍 278 • 💬 30 • ⏱️ 19:57 • 2d ago
 
 ---
 
