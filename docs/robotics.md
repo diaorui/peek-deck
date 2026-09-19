@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T16:16:56.922796+00:00'
+updated: '2026-09-19T18:43:25.608729+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 16:16 UTC  
+**Last Updated:** September 19, 2026 at 18:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-The Robot Report • 22h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -158,14 +158,6 @@ BBC • 1d ago
 
 ---
 
-**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
-
-Humanoid Robots Break Records In Beijing has 16 comments.
-
-DOGO News • 1d ago
-
----
-
 **[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
 
 The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
@@ -174,17 +166,27 @@ MIT News • 2d ago
 
 ---
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
+**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
 
-Seeing is Believing
+Humanoid Robots Break Records In Beijing has 16 comments.
 
-citriniresearch.com • 3d ago
+DOGO News • 1d ago
 
 ---
 
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+**[Humanoid Robots Are Getting Smarter and Capable — But Researchers Mull If Their ‘ChatGPT Moment’ Is Here?](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-getting-smarter-capable-213040189.html)**
 
-SpaceNews • 2d ago
+Humanoid robots are showing meaningful progress beyond controlled demonstrations, with advances in autonomy, dexterity, and the ability to perform repetitive real-world tasks. But widespread commercial deployment still remains a work in progress. After spending a week meeting with leading robotics...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
+
+How to secure today’s AI robots against stealth cyber threats
+
+IEEE Spectrum • 3d ago
 
 ---
 
@@ -192,13 +194,23 @@ SpaceNews • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Chezy Champs 2026- Saturday](https://www.youtube.com/watch?v=zQ8Oibbg9Ro)**
+
+LIVE from Bellarmine College Prep in San Jose, California, the best in the west compete at Chezy Champs 2026 hosted by team ...
+
+📺 RoboSports Network
+
+👁️ 2K • 👍 39 • 2d ago
+
+---
+
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
 AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
 📺 MindSeeded
 
-👁️ 583K • 👍 9K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 603K • 👍 9K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -208,7 +220,7 @@ Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation 
 
 📺 Reward AI
 
-👁️ 132K • 👍 1K • 💬 108 • ⏱️ 2:20 • 4d ago
+👁️ 134K • 👍 1K • 💬 108 • ⏱️ 2:20 • 4d ago
 
 ---
 
@@ -218,7 +230,7 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 15K • 👍 115 • 💬 34 • ⏱️ 2:56 • 2d ago
+👁️ 16K • 👍 117 • 💬 34 • ⏱️ 2:56 • 2d ago
 
 ---
 
@@ -232,31 +244,23 @@ For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why 
 
 ---
 
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 184K • 👍 700 • 💬 42 • ⏱️ 9:07 • 4d ago
+
+---
+
 **[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
 
 Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
 
 📺 Bloomberg Tech
 
-👁️ 80K • 👍 277 • 💬 51 • ⏱️ 9:44 • 4d ago
-
----
-
-**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
-
-📺 Prasadtechshorts
-
-👁️ 52K • 👍 3K • 💬 41 • ⏱️ 0:37 • 7h ago
-
----
-
-**[A Robot Is Controlling Traffic in China! 😳 | China’s Robot Traffic Officer Is Real! 🤖🚦](https://www.youtube.com/watch?v=ZfjBfS4YFto)**
-
-Would you trust a robot to control traffic? China is now using AI-powered traffic robots to assist human traffic officers at busy ...
-
-📺 InfoWorld
-
-👁️ 566 • 👍 10 • 💬 2 • ⏱️ 0:21 • 6h ago
+👁️ 81K • 👍 283 • 💬 51 • ⏱️ 9:44 • 4d ago
 
 ---
 
@@ -266,7 +270,7 @@ humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actual
 
 📺 Ai Futuristic Robotics
 
-👁️ 47K • 👍 389 • 💬 48 • ⏱️ 18:12 • 5d ago
+👁️ 48K • 👍 389 • 💬 48 • ⏱️ 18:12 • 5d ago
 
 ---
 
@@ -276,17 +280,17 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 228 • 💬 25 • ⏱️ 57:02 • 4d ago
+👁️ 12K • 👍 230 • 💬 25 • ⏱️ 57:02 • 4d ago
 
 ---
 
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+**[Manufacturing 50,000 Humanoid Robots Next Year | Bernt Børnich, 1X](https://www.youtube.com/watch?v=DXSs6yIL00w)**
 
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+Bernt Børnich is the founder and CEO of 1X, a California-based humanoid robotics company. After years of developing NEO, ...
 
-📺 Future Core
+📺 Relentless
 
-👁️ 184K • 👍 696 • 💬 42 • ⏱️ 9:07 • 4d ago
+👁️ 36K • 👍 411 • 💬 67 • ⏱️ 43:02 • 1d ago
 
 ---
 
