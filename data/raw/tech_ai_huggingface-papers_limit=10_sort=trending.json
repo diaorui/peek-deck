@@ -35,7 +35,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9727,
+      "github_stars": 9772,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 3912,
+      "github_stars": 4050,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -77,25 +77,6 @@
       "project_page": "https://dream-rsi.com/"
     },
     {
-      "id": "2609.15818",
-      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-      "authors": "Honglin Guo, Tao Gui, Yicheng Chen et al. (143 authors)",
-      "organization_name": "internlm",
-      "organization_fullname": "Intern Large Models",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6432683407bad11484a68457/Q3Y0dL79GcsnaBCGRMooZ.png",
-      "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal of expanding the frontier of agent productivity in the real world. This model is trained via a Verifiable Experience Pipeline that connects tool-mediated interactions to executable environments and externally verified outcomes. Across 16 benchmarks spanning real-world research, engineering, and digital work, Atria Dawn Preview is competitive with frontier agents and achieves the highest reported score on five of them. Beyond standalone performance, we examine the real research-and-development process behind this model as a case study of human--AI collaboration, analyzing 769 task records from 56 participants together with agent logs. When asked to evaluate completed tasks under comparable conditions, participants rated about one-third of completed AI-assisted tasks as infeasible without AI. More strikingly, agents frequently propose methods and implement revisions, while humans retain most final decisions and guide exploration through judgment and feedback. These observations indicate a shift from task-level execution to project-level partnership, with human effort concentrating on what is worth pursuing and how evidence should guide research. Progress toward more autonomous AI research must therefore advance both the capacity for discovery and the capacity for meaningful human oversight, preserving accountable human authority over the risks and direction of continued development.",
-      "ai_summary": "Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.",
-      "hf_url": "https://huggingface.co/papers/2609.15818",
-      "arxiv_url": "https://arxiv.org/abs/2609.15818",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 408,
-      "num_comments": 3,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "github_stars": 494,
-      "project_page": "https://atria-asi.ai"
-    },
-    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -112,25 +93,6 @@
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
       "github_stars": 33156,
-      "project_page": null
-    },
-    {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 87,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 88455,
       "project_page": null
     },
     {
@@ -153,23 +115,23 @@
       "project_page": "https://huggingface.co/spaces/Paper2Agent/alphagenome_agent"
     },
     {
-      "id": "2609.13356",
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "authors": "Jiyan He, Guang Liang, Hao Liu et al. (22 authors)",
-      "organization_name": "zgcagi",
-      "organization_fullname": "ZGCAGI",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/657ec96cf010d76b6e42e9ce/bnC1HgjoiGEOVXWaFhHhC.png",
-      "summary": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Architecture & System Co-design: interleaved gated sliding-window and full attention, and a stable FP8 Muon optimizer; Progressive Curriculum & MDP Mid-Training: context scaling across 16K, 64K, and 256K, and the reformulation of interaction traces into Markov Decision Processes. Furthermore, we establish an AI-native R&D workflow where agent swarms autonomously manage cluster operations, data curation, and rapid diagnostic evaluation. Extensive evaluations show that ZGCM-1-7B is competitive across 7B model family on general benchmarks. On several challenging mathematical reasoning and agentic search suites, it remains competitive with frontier models orders of magnitude larger, such as Qwen3-235B-A22B and GLM-5.1. We also show that our pre-training design offers a ~4.2x efficiency improvement in 16K pre-training time-to-loss. Across the full development lifecycle, we distill eight actionable empirical findings-spanning architectural scaling, SFT quality pruning, long-context generalization, and agentic co-training dynamics. To facilitate community research, we open-source model weights from the pre-training, mid-training, and post-training stages, intermediate checkpoints, training code, per-stage data and data recipes, and W&B logs.",
-      "ai_summary": "ZGCM-1 is a 7B open foundation model that combines internal reasoning with external tool use, trained via efficient architecture-system co-design, progressive long-context scaling, and autonomous agent workflows to achieve strong reasoning and efficiency.",
-      "hf_url": "https://huggingface.co/papers/2609.13356",
-      "arxiv_url": "https://arxiv.org/abs/2609.13356",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.13356.png",
-      "upvotes": 248,
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 87,
       "num_comments": 7,
-      "published_at": "2026-09-10T20:00:00.000Z",
-      "github_repo": "https://github.com/zgcagi/ZGCM-1",
-      "github_stars": 452,
-      "project_page": "https://mp.weixin.qq.com/s/kzScxJki8hY2IHIl32l5cQ"
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 88507,
+      "project_page": null
     },
     {
       "id": "2403.08299",
@@ -189,9 +151,47 @@
       "github_repo": "https://github.com/vxcontrol/pentagi",
       "github_stars": 24738,
       "project_page": null
+    },
+    {
+      "id": "2609.15818",
+      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+      "authors": "Honglin Guo, Tao Gui, Yicheng Chen et al. (143 authors)",
+      "organization_name": "internlm",
+      "organization_fullname": "Intern Large Models",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6432683407bad11484a68457/Q3Y0dL79GcsnaBCGRMooZ.png",
+      "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal of expanding the frontier of agent productivity in the real world. This model is trained via a Verifiable Experience Pipeline that connects tool-mediated interactions to executable environments and externally verified outcomes. Across 16 benchmarks spanning real-world research, engineering, and digital work, Atria Dawn Preview is competitive with frontier agents and achieves the highest reported score on five of them. Beyond standalone performance, we examine the real research-and-development process behind this model as a case study of human--AI collaboration, analyzing 769 task records from 56 participants together with agent logs. When asked to evaluate completed tasks under comparable conditions, participants rated about one-third of completed AI-assisted tasks as infeasible without AI. More strikingly, agents frequently propose methods and implement revisions, while humans retain most final decisions and guide exploration through judgment and feedback. These observations indicate a shift from task-level execution to project-level partnership, with human effort concentrating on what is worth pursuing and how evidence should guide research. Progress toward more autonomous AI research must therefore advance both the capacity for discovery and the capacity for meaningful human oversight, preserving accountable human authority over the risks and direction of continued development.",
+      "ai_summary": "Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.",
+      "hf_url": "https://huggingface.co/papers/2609.15818",
+      "arxiv_url": "https://arxiv.org/abs/2609.15818",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
+      "upvotes": 408,
+      "num_comments": 3,
+      "published_at": "2026-09-13T20:00:00.000Z",
+      "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
+      "github_stars": 503,
+      "project_page": "https://atria-asi.ai"
+    },
+    {
+      "id": "2609.20519",
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "authors": "Haozhe Liu, Tian Ye, Sensen Gao et al. (14 authors)",
+      "organization_name": "nvidia",
+      "organization_fullname": "NVIDIA",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
+      "summary": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement. We take an RSI-inspired approach at the harness layer, scaling auto-research loops across increasingly numerous and diverse environments for harness rollouts. At this scale, the process yields reusable improvements that transfer beyond their development setting, moving automated harness discovery toward production-level outcomes. Four mechanisms survive selection and form SoL-Pi, spanning action execution, context compaction, observation handling, and delegated reading. On the 51-task EdgeBench evaluation, SoL-Pi achieves performance comparable to Pi across GPT-5.6 Sol and Opus 5 while reducing recorded token traffic by 44.7-49.0% and API cost by about one third. In other words, estimated hourly savings are \\8.75-13.50 relative to native Codex and Claude Code harnesses, and \\4.36-5.71 relative to Pi.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.20519",
+      "arxiv_url": "https://arxiv.org/abs/2609.20519",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
+      "upvotes": 67,
+      "num_comments": 3,
+      "published_at": "2026-09-16T20:00:00.000Z",
+      "github_repo": "https://github.com/NVlabs/SoL-Pi",
+      "github_stars": 2344,
+      "project_page": "https://nvlabs.github.io/SoL-Pi/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-19T12:37:53.709558+00:00"
+  "fetched_at": "2026-09-19T16:16:39.073000+00:00"
 }

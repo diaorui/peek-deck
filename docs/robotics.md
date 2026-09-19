@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T12:38:09.481725+00:00'
+updated: '2026-09-19T16:16:56.922796+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 12:38 UTC  
+**Last Updated:** September 19, 2026 at 16:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-5d ago
+6d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 4d ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 5d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-5d ago
+6d ago
 
 ---
 
@@ -112,19 +112,19 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
-
-OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
-
-Business Insider • 1d ago
-
----
-
 **[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-The Robot Report • 18h ago
+The Robot Report • 22h ago
+
+---
+
+**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+
+OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
+
+businessinsider.com • 1d ago
 
 ---
 
@@ -132,13 +132,7 @@ The Robot Report • 18h ago
 
 Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
 
-IEEE Spectrum • 20h ago
-
----
-
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-Bloomberg.com • 1d ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -150,6 +144,12 @@ Yahoo • 1d ago
 
 ---
 
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
 
 Training systems that allow robots to negotiate the real world are getting more sophisticated.
@@ -158,27 +158,19 @@ BBC • 1d ago
 
 ---
 
-**[Ukrainian Ratel H ground robotic system fitted with 12.7mm combat turret](https://www.pravda.com.ua/eng/news/2026/09/19/8054203/)**
-
-Ukraine's Ratel Robotics is testing its Ratel H ground robotic system with a remotely controlled 12.7mm turret.
-
-Українська правда • 4h ago
-
----
-
-**[How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone)**
-
-How to secure today’s AI robots against stealth cyber threats
-
-IEEE Spectrum • 2d ago
-
----
-
 **[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
 
 Humanoid Robots Break Records In Beijing has 16 comments.
 
-dogonews.com • 20h ago
+DOGO News • 1d ago
+
+---
+
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+
+MIT News • 2d ago
 
 ---
 
@@ -186,7 +178,13 @@ dogonews.com • 20h ago
 
 Seeing is Believing
 
-citriniresearch.com • 2d ago
+citriniresearch.com • 3d ago
+
+---
+
+**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
+
+SpaceNews • 2d ago
 
 ---
 
@@ -200,65 +198,17 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 573K • 👍 9K • 💬 1K • ⏱️ 16:24 • 1d ago
+👁️ 583K • 👍 9K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
 
-📺 ejunky66
+📺 Reward AI
 
-👁️ 301K • 👍 3K • 💬 320 • ⏱️ 1:00 • 1d ago
-
----
-
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
-
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
-
-📺 Talent Replay
-
-👁️ 60K • 👍 215 • 💬 39 • ⏱️ 4:51 • 3d ago
-
----
-
-**[Humanoid Robots 100 meter race in World Humanoid Robot Games #humanoidrobot #robot #robotics #tech](https://www.youtube.com/watch?v=O6T3g_nDa_M)**
-
-Humanoid Robots race during the World Humanoid Robot Games in Beijing China.
-
-📺 Code by Nadiia
-
-👁️ 8K • 👍 234 • 💬 8 • ⏱️ 0:16 • 8h ago
-
----
-
-**[Why robots welcome All-Solid-State Batteries](https://www.youtube.com/watch?v=7HeOPQtKg9c)**
-
-We recommend watching with YouTube subtitles Audio and subtitles are available in both English and Korean. Even robots get ...
-
-📺 삼성SDI
-
-👁️ 173K • 👍 23 • ⏱️ 0:54 • 3d ago
-
----
-
-**[The Wild Robot - MOVIE REACTION!!](https://www.youtube.com/watch?v=st5rjD4ZE7U)**
-
-Eric, Janci, Obi & Calvin react to and discuss Dreamworks' The Wild Robot! Blind Wave BEYOND members and Raw Rider ...
-
-📺 Blind Wave
-
-👁️ 44K • 👍 1K • 💬 126 • ⏱️ 59:48 • 1d ago
-
----
-
-**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
-
-📺 Prasadtechshorts
-
-👁️ 23K • 👍 2K • 💬 19 • ⏱️ 0:37 • 3h ago
+👁️ 132K • 👍 1K • 💬 108 • ⏱️ 2:20 • 4d ago
 
 ---
 
@@ -268,27 +218,75 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 15K • 👍 105 • 💬 31 • ⏱️ 2:56 • 1d ago
+👁️ 15K • 👍 115 • 💬 34 • ⏱️ 2:56 • 2d ago
 
 ---
 
-**[ROBOT SAVED THAT?!”#shorts #viral](https://www.youtube.com/watch?v=EEhss-6W2Jk)**
+**[The Most Agile Humanoid Robot Built for Entertainment &amp; Retail / AGIBOT A3](https://www.youtube.com/watch?v=97LhDkfRu00)**
 
-ROBOT SAVED THAT?!” ⚠️important This channel is providing knowledge about the world and peoples. The Videos in this ...
+For business inquiries: info.prorobots@gmail.com ✓ Instagram: @pro_robots Why is a humanoid robot learning kung fu if its real ...
 
-📺 ZainuTalk
+📺 PRO ROBOTS
 
-👁️ 452K • 💬 648 • ⏱️ 0:32 • 1d ago
+👁️ 24K • 👍 216 • 💬 28 • ⏱️ 16:01 • 6d ago
 
 ---
 
-**[Robotic Hand Copies Your Fingers in Real Time](https://www.youtube.com/watch?v=F-4YS7E-i1I)**
+**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
 
-Wuji Hand 2 moves almost exactly like a human hand. It has 20 independently controlled joints across all fingers. Wear the glove ...
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
 
-📺 The Manav Podcast
+📺 Bloomberg Tech
 
-👁️ 2K • 👍 135 • 💬 7 • ⏱️ 0:32 • 15h ago
+👁️ 80K • 👍 277 • 💬 51 • ⏱️ 9:44 • 4d ago
+
+---
+
+**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
+
+📺 Prasadtechshorts
+
+👁️ 52K • 👍 3K • 💬 41 • ⏱️ 0:37 • 7h ago
+
+---
+
+**[A Robot Is Controlling Traffic in China! 😳 | China’s Robot Traffic Officer Is Real! 🤖🚦](https://www.youtube.com/watch?v=ZfjBfS4YFto)**
+
+Would you trust a robot to control traffic? China is now using AI-powered traffic robots to assist human traffic officers at busy ...
+
+📺 InfoWorld
+
+👁️ 566 • 👍 10 • 💬 2 • ⏱️ 0:21 • 6h ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 47K • 👍 389 • 💬 48 • ⏱️ 18:12 • 5d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 228 • 💬 25 • ⏱️ 57:02 • 4d ago
+
+---
+
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 184K • 👍 696 • 💬 42 • ⏱️ 9:07 • 4d ago
 
 ---
 
