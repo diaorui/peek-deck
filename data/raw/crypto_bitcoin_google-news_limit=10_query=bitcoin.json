@@ -5,44 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
-      "pub_date": 1789756320.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
+      "pub_date": 1789743537.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
     },
     {
-      "headline": "BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVOa3BVUE1iUTV1MTdMOWcwcW1MaFNKREhLSmdiTUQteGY5QVFJZUFyUDBKSEU1UFFqQUxMSDZvdk9GZUd3MWJ1cnd5OU1hSklpbnZjLVRfZ2UtVzAwUVhGaUdwd2tpUlpFLUFZSWp5UUF3UDVaVHlBOTgtY1BSZ2NoMkRST3YxcGxVR09Pa1ZfemNZLW1TRG1mczZ4WGJkUDdUNFN6cFhQRTBFVkh0UEVmaGtqU2tP?oc=5",
-      "pub_date": 1789714343.0,
-      "article_url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint."
+      "headline": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLVdWcEc4MUdxT0xvVjRHb1ptTXhLZmx5SmNHdjZoLTFqUk9HbUhCYXZlSFM0TDJpenh3a3VBOVh6Y0sydWNLQXRrSGQ1eHc2UE5qYUdZZVBtSXJZWUY3bnBacWhZc1NpTVQydkpzWEg2ckJrM2dXUV9Cb1NSN3M?oc=5",
+      "pub_date": 1789768223.0,
+      "article_url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg",
+      "description": "A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union."
     },
     {
-      "headline": "Gold and Bitcoin Are Starting to Rhyme? \u2014 But They Are Still Not the Same Hedge",
+      "headline": "$Bitcoin (BTC.CC)$",
       "source": "Moomoo",
       "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09XQW82czhUMDh2cVF1WjNUcTBhQTF1TTBYQURvaEhjQUlPaE85cm1aQS1fQVc0eW1LZVVYRjFKai0taGE2U0prSmZrc2hmSFlTbHlaenlGdkVQcGFod3JtSGt3eVZtNnBjTEppbHVpbEc4OUU1U2k2bkpNd0k4Q1c5WVBqN3A2QVlwNnRCM25MV1RYb1RZRXQtVGJoTDQwSkI4RGQ0bHg?oc=5",
-      "pub_date": 1789783530.0,
-      "article_url": "https://www.moomoo.com/community/feed/gold-and-bitcoin-are-starting-to-rhyme-but-they-are-117295253422086",
-      "image": "https://sgsnsimg.moomoo.com/sns_client_feed/105347436/20260919/1789783527429-random4865-105347436-android-compress.png?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "The more important question is not whether Bitcoin is \u201cdigital gold.\u201d It is whether the two assets are beginning to respond to the same macro forces.  For a long time, gold and Bitcoin belonged to very different parts of the market.  Gold was associated with monetary uncertainty, falling real yields, currency weakness, geopolitical stress and reserve diversification. Bitcoin was driven more heavily by adoption, crypto..."
-    },
-    {
-      "headline": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
-      "source": "Investing.com Nigeria",
-      "source_url": "https://ng.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVDRTWU5yU0RNci16NnVrbFo4RXRnREJCc0FXckpSUmluZzRneHk5WDA2RC1xQk9zMEFZRGtzUFhnVlhDQkNqQWNXaFllcE84RUVLYVFFYkQ5UmlzQ0pnWjdYU3RWVi1CWVE4RTlhQjdUZERLUzZZa19pc0lWSnVlU1dQT3M0bXRDdE1od3pGR1BENnZOVnNKejVsRFdYRDhveG9PaEI5a0xSdmNNcXBCZFJmOEtHSkZGR0RieXJPTDd6RFVVX29RNmJkSDViQVBz?oc=5",
-      "pub_date": 1789787044.0,
-      "article_url": "https://ng.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-2701932",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WOVJaZnZVVVlYSWVQWmROVHVhNnRaeGdVSU1zazF5ZGYzZ3E3Z1plVzYyQ291RGU2eVBhd1FJUkF2Wk0xRlM2TldrSEJ0ZlV6by1KMTJMU3Z3a0NXWnltWThLeTlUemtpdzB6bUZzR0xTQkJfeGNn?oc=5",
+      "pub_date": 1789802397.0,
+      "article_url": "https://www.moomoo.com/community/feed/bitcoin-btc-cc-117296489890197",
+      "image": "https://ussnsimg.moomoo.com/sns_client_feed/71887509/20260919/1789802383087-random2299-71887509-android-org.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "$Bitcoin (BTC.CC)$"
     },
     {
       "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
@@ -55,16 +45,6 @@
       "description": "Miners hold the scarce asset as US power demand outruns supply, while Metaplanet\u2019s 14.7% option pool shows how DAT insiders capture shareholder dilution."
     },
     {
-      "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
-      "pub_date": 1789698773.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1885.png",
-      "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
-    },
-    {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -75,24 +55,24 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
+      "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
+      "pub_date": 1789698773.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1885.png",
+      "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
+    },
+    {
       "headline": "Current price of Bitcoin for September 18, 2026",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
-      "pub_date": 1789751185.0,
+      "pub_date": 1789732800.0,
       "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
       "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50U1BmMm9Ma0ZaNlpidC13dG1TYW9jUDB2LWI0OUMtZTgxbDhVc1BXNk5qb2Y3SUJ3SXc4Yy1UNEo2NWJveVRKWEpKaTcwSWJMcFk4bzFVeDVpM2pkb2JoQU55SzNBLTF1bXRkQ0hZY3BmTjdQdHl5R3E5U1E5aWM?oc=5",
-      "pub_date": 1789746952.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-26.jpg",
-      "description": "Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk."
     },
     {
       "headline": "\u2018I\u2019m Back\u2019\u2014Kevin O\u2019Leary Issues Massive $15 Trillion Bitcoin Prediction As Price Soars",
@@ -103,8 +83,28 @@
       "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/18/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJkR3c3dUsyQVFBQmFjYVd6aWJvZ3N1YnVITXFONlM0cHlRSWc1SFBwbE1Va01PUjRZWnZtWGJ5Vi1mYkVRc2ZFcno3bnRmVl8wOXR2NnRqcjNzSzNUQlAzNXBYVDd5NDJxSENCUnc1aXJKbVJRSDFVOGFOYVdKQWMxRXJqSFlmQXZGeThONnl1Y3Y3dEQ2aHVoS2VZbmdOeThsWTE2V25xY0luZnZ0NFI1WExZLVJ6ZUtLT3pJLTg4ZUtmWDNReVRVeGlaUGtyc19nOGNR?oc=5",
+      "pub_date": 1789755292.0,
+      "article_url": "https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_4.jpg",
+      "description": "Demirors said crypto\u2019s head start in specialized hardware and cheap power has helped fuel today\u2019s AI infrastructure buildout."
+    },
+    {
+      "headline": "Why Bitcoin Is Up Today",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdUlfRXplbjNVTThoZzZqWGF2MjlvU1RlMjh1aEF0TFRCWkZTX19Ia0JBNGxWYXFIYjVZNmd1aGpNSml0V1dGZDJpQWx2VVBBaTE1SzY1Y3Q1bFBaRUhLT1QtUUtfelZiblowc0lvaHVKOGlK?oc=5",
+      "pub_date": 1789761480.0,
+      "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
+      "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T03:30:09.941283+00:00"
+  "fetched_at": "2026-09-19T08:16:01.242558+00:00"
 }
