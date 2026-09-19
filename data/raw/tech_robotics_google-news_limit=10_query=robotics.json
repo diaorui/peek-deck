@@ -26,7 +26,7 @@
     },
     {
       "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
       "pub_date": 1789722230.0,
@@ -35,24 +35,24 @@
       "description": null
     },
     {
-      "headline": "US Must Act to Counter China's Combat Robotics Dominance",
-      "source": "yahoo.com",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXhHY3Y3M0FHME9DWVNIODR5bmExMHRVdTVvTzN5Rm1DRTI0ekUydDJNVlBGaU1uLXpWd1RDS1pUZnFjbkRvMjNOZDhYcHhSbUs3OG5oRDRtUXY2c01HQ1AybnJIa0Jwb0Q4eDZDUWd0V0ViRVR1MTFsU04yazZXZjdkal9jSXlINDlMZG5EYw?oc=5",
-      "pub_date": 1789724685.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/30f46a7d5a2ab986d030299de2b7ac947fc11015d9c503125311defb7cf28ae5/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fc7f8fe322030e049efed464a9d2836a0.jpg",
-      "description": "US Must Act to Counter China's Combat Robotics Dominance"
-    },
-    {
       "headline": "Chinese 'robot brain' startup sees ChatGPT-style breakthrough as soon as next year",
-      "source": "Reuters",
+      "source": "reuters.com",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaUV3UzJ5MVVnR0c2b0hlQ0s4OGZEWS01alZ1TldLbmR1ZFMtZFE1S0V6WFVTOEFnSXVfMlNmSWpYRl9LVDhha2dydmkyaGlUckpYVUxEdWgzWUNjMkx3ZmxQdGRFQ2ZDdHNUZzFkNWNQZU82RHRiSjYwUmlscjdVQmhxbktkdU94SEJub1hYUDBqNUtIY1M4bjl0a2lUV3U5Q09jbmpTRVNVQlAtNUlGY2RPMTFDdExuSzlWYU5vbkJZdGhwbmtV?oc=5",
       "pub_date": 1789733382.0,
       "article_url": "https://www.reuters.com/world/asia-pacific/founder-chinese-startup-spirit-ai-says-robot-brains-set-2027-breakthrough-2026-09-18/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "US Must Act to Counter China's Combat Robotics Dominance",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXhHY3Y3M0FHME9DWVNIODR5bmExMHRVdTVvTzN5Rm1DRTI0ekUydDJNVlBGaU1uLXpWd1RDS1pUZnFjbkRvMjNOZDhYcHhSbUs3OG5oRDRtUXY2c01HQ1AybnJIa0Jwb0Q4eDZDUWd0V0ViRVR1MTFsU04yazZXZjdkal9jSXlINDlMZG5EYw?oc=5",
+      "pub_date": 1789724685.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/30f46a7d5a2ab986d030299de2b7ac947fc11015d9c503125311defb7cf28ae5/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fc7f8fe322030e049efed464a9d2836a0.jpg",
+      "description": "US Must Act to Counter China's Combat Robotics Dominance"
     },
     {
       "headline": "Robotics: Firms race to improve robot training systems",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T03:30:06.431321+00:00"
+  "fetched_at": "2026-09-19T08:16:01.274630+00:00"
 }

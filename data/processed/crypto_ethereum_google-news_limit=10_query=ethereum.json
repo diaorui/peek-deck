@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
       "pub_date": 1789712275.0,
@@ -35,6 +35,16 @@
       "description": "The Senate's rejection of the CLARITY Act sent XRP, Bitcoin, and Ethereum into a fourth quarter with no congressional rulebook and a fresh Fed rate hike hanging over markets. Whether that combination crushes these three tokens or sets up a surprising year-end rally depends on a narrow set of catalysts falling into place."
     },
     {
+      "headline": "We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQb2VOci02dnJGV2xoeW9tdDFoQWRVSjdVYk5mbDNVMTBYamhNMHFsQ1I5QXRnaFhyc05zTGlVRWg3SFpMRVNBbmhMbnZORXFvWElxX1JVczJ5M0VNZmNQMG5vVXViMmlfMnlRQkNpa0g1VG4tMUxhR3pwSURJUGxUSDVRcXJ3aXZMd01XNkl4SHpiWWdNRldrQjVoUjNTNWZLTXBYVTdrMHJHN2VuamlKb1ltaHkxRi1aaUxSRk5pdFZLVTdiWXV3bkZmMDNUckEwdGJWVkdlNUVMRHVVc21Ianp6UQ?oc=5",
+      "pub_date": 1789684680.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/02/shutterstock-2402305921-huge-licensed-scaled.jpg",
+      "description": "XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here\u2019s which coin lost the most and what the failed bill means for each."
+    },
+    {
       "headline": "Bitcoin Cracks $78,000 and Ethereum, XRP, Dogecoin May Be 'About To Explode'",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -56,7 +66,7 @@
     },
     {
       "headline": "Current price of Ethereum for Sept. 18, 2026",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1weHZkZmlDWGlqVHBIOWt6SFcxZ2NldlNYTUJNbTVDbGNCM0ZNT3Fkdk1ZdXJxSHNUc3hqRktDOW9XOXRveER3T3U3NFJ1ckJ4Z3lOSjNSWV92OE10M3JmN05EQnUzSExt?oc=5",
       "pub_date": 1789747522.0,
@@ -65,14 +75,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NTy04NHZybF9WbjlRNUdULUUtaDJfelJYZmI1YXhLdi1DRW5SU2xLWm1yZmtEblk1OU1ITzlaN2pEVVNfb0FTU1VLMm5mQ1lDYTUtLWZzbnQ3RDllNUNMaE1COHhra1VUWk1JbzZmT1lnVTJrSnpzMNIBgAFBVV95cUxQOVM1WGNEOVczM29fUkRFNjFqdTktSGIwQjdCaFpkZUZZYXp5MVZQRG84ekNPU1F5NnBRTDBDMFFfaVU3bXA3S1g3UDRUVE1Oc1Y3QVd6Q0ZlRmxpdGkzV1FwZk1hdXJUdzhSMWZremRfMWhpRjRaUWNnbU9GT3dtdg?oc=5",
-      "pub_date": 1789671665.0,
-      "article_url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
-      "description": "Ethereum co-founder Vitalik Buterin said AI could help developers turn the same technology powering new attacks into a tool for defense."
+      "headline": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFZYcW8talhHMHNTNGx4N3o2UFVERWwyMEI0bXBNWmhXZTFMa1Z5QzM3SEZKX0ZRdTJMbzNyVmRCdjRRVzhfVE90dE5ZVGVGNkJhOFhId1NNWnluMWJGV3RNdFVFd3hFdUR6Z2Q1aHdtSGdJQTNQZ0tjSHp6LS00cE90amtvLTh0OHc5djRUbGRucG05YjR2Mk5hR2RVdllpYkgyX1JIdUdOU19oRkc4amVXRWpEOTVZWkhNWXRNUG40QmNSYU9B?oc=5",
+      "pub_date": 1789792233.0,
+      "article_url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg",
+      "description": "Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model\u2019s control."
     },
     {
       "headline": "Crypto stocks surge as bitcoin and ethereum rally sharply",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC extends recovery, ETH eyes $2,500, XRP holds $1.30",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQM3dNbzdidWJIMk42QTBpc0gwSmh1NVFYM0pQYUZwcVM3UEJpRkw5X3F1TGVDS1ozUFdkekk2YlpxYXF5bFFfQVpncUVzRHVpYVhyNDVleF9kNmhNVVQ2MXlNYy1aWXdHQ044enUzWFN4aDNuUDdmVnpYWDFqQ0lwcGs5Tm1rUnpZNWlpNVpPMUhzVFlCTUw4X1ZTVml0d01qNVdpTUtvZ0JQcW92Q0Jra1FiOUFSUGctSmFMX1owWkU1OVRtcEh5X3YxemhzdkJvdjh5TkdLN0lFb3lVdmhRMVA3TjlKaXRhWmx3TQ?oc=5",
-      "pub_date": 1789702334.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-recovery-eth-eyes-2-500-xrp-holds-130-202609180332",
-      "image": "https://editorial.fxsstatic.com/images/i/Discover-f-67_Medium.jpg",
-      "description": "Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) extend their recovery, trading above $76,700, $2,400 and $1.300, respectively, on Friday. These top three cryptocurrencies now face key technical levels that could determine whether their recoveries extend further or pull back."
-    },
-    {
-      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
-      "source": "Finance Magnates",
-      "source_url": "https://www.financemagnates.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1RRMndWQUptTThQRjBjb1VxUVJwbnJKYkJlVUVHbGNVSEUtbEJ2bVhScUZxVzFBbG1kMHdyeENVS01iclpTUGRxNHcwTkdienJjU1RTUE1WRVFHMThwSHlDd2JfdHVSSmNranJ5UUoycmJ0cGlqZGlhSWlPMGM4eWctaVJQVl9aaTREeGNCY2VkVllVbEFtaThUY2RkMzFrN0htWlhvTHBvWlg4aU1NLWtaU2ZvRTZpc2FMR08xRjgxanc?oc=5",
-      "pub_date": 1789755997.0,
-      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
-      "image": "https://images.financemagnates.com/images/Cryptocurrency%20on%20Binance%20trading%20app%2C%20Bitcoin%20BTC%20with%20BNB%2C%20Ethereum%2C%20Dogecoin%2C%20Cardano%2C%20Litcoin_id_96eb97fa-195f-4739-bebb-51ebbbc7726f_size900.jpg",
-      "description": "Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run."
+      "headline": "Ethereum Reclaims $2,600 After a Week \u2014 Is a Bigger Rally Ahead?",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0MtUW1zZmctT1RHcURkeXY3Q2dPakdoMnR6c2lDeHd1SHYwM2NEM0RKMERXdXVZSzAwMDlhYXRfV1VmQ29ueEdSVld0alFxakY2NUFPaHJ3R3hYS2ppcUJFSDQ3WUN0SlNqTVV6X3VNY1N3Y2ZRUU5lNVoxWUFvaWxHd1V1WnJBRzRheDdRNVR0dXdxS2NkcHlIcnRsUVZEQ2xaV19UMDhOTHJLV1BoREpvS2xUQnQ2MEVlUFZR?oc=5",
+      "pub_date": 1789761413.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61880462/ethereum-reclaims-2600-after-a-week-is-a-bigger-rally-ahead",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/18/Eth-Coin-With-Blurred-Candlestick-Chart-.jpg",
+      "description": "Ethereum reclaims $2,600 as fees plunge. Analysts see $2,700-$3,000 upside above $2,570, though demand remains uncertain."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T03:30:02.218401+00:00"
+  "fetched_at": "2026-09-19T08:16:01.971408+00:00"
 }
