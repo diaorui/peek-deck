@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-19T23:21:22.882954+00:00'
+updated: '2026-09-20T01:25:16.030722+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 19, 2026 at 23:21 UTC  
+**Last Updated:** September 20, 2026 at 01:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[AI models are not hacking “autonomously”](https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/)**
+
+I despair at the state of journalism around AI these days.
+
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) • 3h ago
+
+---
+
 **[Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development](https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/)**
 
 President Donald Trump said Saturday he plans to create an “AI Force” and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence.
 
-🔗 [CNN](https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
+🔗 [CNN](https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 6h ago
 
 ---
 
@@ -49,7 +57,7 @@ President Donald Trump said Saturday he plans to create an “AI Force” and na
 
 Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) • 3h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) • 5h ago
 
 ---
 
@@ -57,29 +65,13 @@ Newly unsealed court filings show Microsoft privately called OpenAI's data pract
 
 I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so obviously I had a LOT of questions ( including really basic ones). I remember during my 1st year asking professors things and sometimes literally being made fun of because apparently my question was "stupid" or something I should already know. Which is great when you're already insecure because everyone around you seems to know more than you lol. And honestly a lot of my professors just weren't good at explaining things. Like they'd come into class, open a PowerPoint, read the slides, maybe explain a couple things and then sit down with their laptop. That was basically the class. I'd go home and realize I understood almost nothing and had to figure it out myself anyway. And asking questions wasn't always helpful either. Sometimes they'd explain it again but in basically the exact same way so obviously if I didn't understand it the first time I still didn't understand it. And then what? Ask them a 3rd time? At some point you just feel embarrassed and say "yeah okay I get it" even though you absolutely don't. That's where AI entered and changed my life. I can ask the dumbest question ever and it doesn't care. I can literally say "I don't understand a single word you just said, explain it to me like I know absolutely nothing about this" and it will. It never makes me feel stupid for not knowing something. I'm still the one studying. I'm still the one doing the assignments and taking the exams. But I genuinely don't think I would have gotten this far without it. I also think AI could eventually be really useful for grading. Obviously AI can make mistakes too, I'm not denying that. But professors are human too. They're tired, they can misunderstand an answer, accidentally give someone the wrong grade, be inconsistent when correcting 30 exams, etc. I really don't understand why people act like human grading is somehow completely objective and error-free. I'd honestly trust more a well designed AI grading system with clear criteria. And I know people are probably going to hate this part but AI has genuinely been a better teacher to me than most of the actual teachers I've had. I also don't understand why whenever AI and education are mentioned people immediately jump to "students use it to cheat". Yeah, obviously some do. People use basically every technology for shitty things. That doesn't make the technology itself useless. I've never used it because I don't want to do anything myself. It's literally the opposite. I use it because I WANT to understand what I'm doing. So yeah. I understand being worried about how AI is used. I understand being against people using it to cheat or replace their own thinking. But being against AI itself? I genuinely don't get it. I'm the one who has done the work for these 3 years, but AI is a huge part of the reason I was able to understand that work instead of giving up
 
-13h ago
-
----
-
-**[AI models are not hacking “autonomously”](https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/)**
-
-I despair at the state of journalism around AI these days.
-
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) • 1h ago
+15h ago
 
 ---
 
 **[Weren't Dario and Sam just screaming that WE HAVE TO SLOW DOWN last week? So do they believe that or not?](https://www.reddit.com/r/artificial/comments/1wkqkl4/werent_dario_and_sam_just_screaming_that_we_have/)**
 
-6h ago
-
----
-
-**[Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit](https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/)**
-
-The NYT argues that OpenAI and Microsoft infringed upon its copyright over thousands of news articles.
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit) • 6h ago
+8h ago
 
 ---
 
@@ -87,7 +79,15 @@ The NYT argues that OpenAI and Microsoft infringed upon its copyright over thous
 
 Sanctorum is a Electron desktop app where you run a team or teams of AI agents (you can also create infinite ai agents and teams) as an actual organization. Each agent sits at a desk on a floor. What an agent is allowed to do is derived from that seat — you give a role a clearance level, put the role at a desk, sit an agent there. Move them, and their capabilities move with them. It runs its own LangGraph loop rather than wrapping existing CLIs, so you can put any OpenRouter model on any agent. Every tool call pauses for your approval by default. Every delegation tree has a spending ceiling (in dls $). And every Agent can be directed to a directory inside your computer of your choice to work there. Agents can work in parallel or one at a time. And many more capabilities. Genuinely unsure whether seat-derived permissions are a real idea or an elaborate way to avoid a settings page. Curious what people think. I am still working on it, but I believe the core capabilities are 90-95% done
 
-1h ago
+3h ago
+
+---
+
+**[Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit](https://www.reddit.com/r/artificial/comments/1wkqnqp/microsoft_director_called_ai_scraping_the_largest/)**
+
+The NYT argues that OpenAI and Microsoft infringed upon its copyright over thousands of news articles.
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit) • 8h ago
 
 ---
 
@@ -95,7 +95,7 @@ Sanctorum is a Electron desktop app where you run a team or teams of AI agents (
 
 For the past 15 months, I’ve been building a 24/7 AI-native television network called Botflix. What started as a mostly manual production process has now turned into a system where ChatGPT/Codex handles a large part of the ongoing production and programming. The network currently runs four continuous channels: a general TV channel, an original-music radio channel, a music-video channel, and a relaxation/ambient channel. About 11 days ago, I connected ChatGPT/Codex directly to the production pipeline. On a scheduled run, it can now inspect the current programming, scan analytics, decide what to make, generate finished pieces, add them to the live playlist with a clean switchover, and cycle older material out. A typical run looks something like this: -Review the existing library and current playlists -Decide what kind of material to make -Write the prompts. -Generate assets in Google Flow, Suno, etc. -Assemble and render the finished piece -Add it to the programming library -Rebuild the relevant playlist and update the live rotation One of the most important evolutions that made this possible was switching to modular programming back in March. The network isn’t one giant pre-rendered loop, although it did start that way. Every piece exists as individual assets. The automation changes the playlist every time something new is added. Getting a system to run the network more like a real programming/production operation was only made possible by adding GPT-6 Astra to the workflow. And by having 15 months of accumulated content already in the library, handing it off to the agent was likely much easier than trying to build something like this from scratch. I still manage overall creative direction and the rules the system operates under. So I wouldn’t describe this as an AI independently creating and running a TV network entirely. It’s more like a human-designed production environment where more and more of the creative and operational work is being done by an agent. I’d be especially interested in hearing from people working on similar automated media pipelines. Botflix TV: https://www.youtube.com/live/6xuQnM810Zw?is=jxJq68QcICSJZMa3
 
-3h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ The rush to build semiconductor plants in the U.S. is fueling the demand for eng
 
 Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea.
 
-21h ago
+23h ago
 
 ---
 
@@ -119,23 +119,43 @@ Last month it was astra and today it's Gemini that went out of the system/sandbo
 
 ## Google News: "ai"
 
-**[Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google illegally agreed to coordinate AI slowdown](https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/)**
+**[Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears](https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears)**
 
-The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation.
+Trump's new AI Force mirrors his first-term Space Force creation, with a high-IQ "czar" appointment coming soon to oversee the booming industry.
 
-Fortune • 2h ago
+Fox News • 5h ago
 
 ---
 
 **[Anthropic, OpenAI, SpaceXAI, Google sued over call to ‘pace’ AI development](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023)**
 
-Politico • 22h ago
+politico.com • 1d ago
 
 ---
 
-**[Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b)**
+**[Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown](https://www.wyff4.com/article/anthropic-openai-spacexai-google-ai-slowdown/73801871)**
 
-AP News • 1h ago
+A new lawsuit claims that Anthropic, OpenAI, SpaceXAI and Google illegally agreed to slow their AI development
+
+WYFF • 24m ago
+
+---
+
+**[EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say](https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/)**
+
+Reuters • 1d ago
+
+---
+
+**[Highlights From The Massive AI Infra Summit 2026](https://www.forbes.com/sites/karlfreund/2026/09/19/highlights-from-the-massive-ai-infra-summit-2026/)**
+
+Forbes • 49m ago
+
+---
+
+**[Australia’s Albanese Urges World to Act for Humanity in AI Race](https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race)**
+
+bloomberg.com • 46m ago
 
 ---
 
@@ -143,7 +163,7 @@ AP News • 1h ago
 
 Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s AI systems autonomously committing such an act.
 
-CNN • 10h ago
+CNN • 12h ago
 
 ---
 
@@ -157,35 +177,15 @@ WSJ • 1d ago
 
 The company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet.
 
-NBC News • 21h ago
+NBC News • 23h ago
 
 ---
 
-**[Patel says FBI has used AI to stop school shootings](https://thehill.com/homenews/administration/6100038-patel-fbi-ai-school-shootings/)**
+**[What might an AI doomsday look like? Experts have given it some thought](https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950)**
 
-The Hill • 1h ago
+Researchers have worried about the increasing power of AI systems for years, but an explosion of interest has ignited old controversies about exactly how AI will cause chaos.
 
----
-
-**[Trump says he will form new 'AI Force' but continues to call AI fears a 'hoax'](https://www.yahoo.com/news/politics/articles/trump-says-form-ai-force-223543221.html)**
-
-Trump likened it to Space Force and also said he would name an AI czar.
-
-Yahoo • 45m ago
-
----
-
-**[Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears](https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears)**
-
-Trump's new AI Force mirrors his first-term Space Force creation, with a high-IQ "czar" appointment coming soon to oversee the booming industry.
-
-Fox News • 3h ago
-
----
-
-**[How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose](https://www.nytimes.com/2026/09/19/business/draftkings-ai.html)**
-
-The New York Times • 14h ago
+NBC News • 16h ago
 
 ---
 
@@ -197,7 +197,7 @@ The New York Times • 14h ago
 
 The problem
 
-⬆️ 1301 • 💬 714 • 14h ago • [‘ERE I AM - JH!](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+⬆️ 1371 • 💬 770 • 16h ago • [‘ERE I AM - JH!](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 
 ---
 
@@ -205,7 +205,7 @@ The problem
 
 Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 
-⬆️ 916 • 💬 813 • 1d ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+⬆️ 919 • 💬 814 • 1d ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 
 ---
 
@@ -221,13 +221,13 @@ Bend: a fast language that blocks AI mistakes via proof.
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-⬆️ 496 • 💬 374 • 1d ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+⬆️ 498 • 💬 375 • 1d ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
 ---
 
 **[AI safety is mostly a sex cult](https://news.ycombinator.com/item?id=49737985)**
 
-⬆️ 324 • 💬 277 • 2d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
+⬆️ 324 • 💬 278 • 2d ago • [skywriter.blue](https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q)
 
 ---
 
@@ -235,7 +235,7 @@ The episode shows the risks of using this new, relatively poorly understood tech
 
 Discover how people work with AI, and follow what changes. Explore their setups and share your own.
 
-⬆️ 237 • 💬 136 • 2d ago • [mysetup.ai](https://mysetup.ai/)
+⬆️ 238 • 💬 138 • 2d ago • [mysetup.ai](https://mysetup.ai/)
 
 ---
 
@@ -243,25 +243,25 @@ Discover how people work with AI, and follow what changes. Explore their setups 
 
 How a community devoted to thinking clearly incubated salvation stories, abusive experiments, race science, and an affection for autocracy, and why that history matters now that its alumni are asking for the public trust on AI.
 
-⬆️ 228 • 💬 279 • 2d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
+⬆️ 228 • 💬 280 • 2d ago • [Ian Duncan](https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/)
 
 ---
 
 **[I think you should almost never use AI to write](https://news.ycombinator.com/item?id=49767937)**
 
-⬆️ 190 • 💬 103 • 6h ago • [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+⬆️ 219 • 💬 120 • 8h ago • [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
 
 ---
 
 **[Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://news.ycombinator.com/item?id=49761840)**
 
-⬆️ 145 • 💬 21 • 23h ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+⬆️ 145 • 💬 21 • 1d ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
 
 ---
 
 **[AI chatbots are becoming experts at changing people's minds](https://news.ycombinator.com/item?id=49754250)**
 
-⬆️ 119 • 💬 100 • 1d ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
+⬆️ 122 • 💬 100 • 1d ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
 
 ---
 
@@ -275,17 +275,7 @@ The New York Times columnist Thomas Friedman tells CNN why it's already too late
 
 📺 CNN
 
-👁️ 132K • 👍 941 • 💬 493 • ⏱️ 11:45 • 7h ago
-
----
-
-**[Why It’s So Hard To Build An AI Kill Switch](https://www.youtube.com/watch?v=oHW7KAFJ77c)**
-
-AI doomerism hit a fever pitch after former OpenAI and Anthropic researchers warned that AI could kill us, and Anthropic CEO ...
-
-📺 CNBC
-
-👁️ 38K • 👍 295 • 💬 73 • ⏱️ 10:20 • 9h ago
+👁️ 160K • 👍 1K • 💬 529 • ⏱️ 11:45 • 9h ago
 
 ---
 
@@ -295,35 +285,7 @@ AI is advancing at breathtaking speed — and now the debate over its future is 
 
 📺 ABC News
 
-👁️ 24K • 👍 127 • 💬 69 • ⏱️ 9:49 • 11h ago
-
----
-
-**[AI Bot Takes over the StarCraft Ladder....](https://www.youtube.com/watch?v=1vsTqNwHquE)**
-
-See Google's DeepMind AI vs StarCraft 2 World Champion: https://www.youtube.com/watch?v=nbiVbd_CEIA If this video made ...
-
-📺 ArtosisTV
-
-👁️ 254K • 👍 4K • 💬 1K • ⏱️ 20:27 • 1d ago
-
----
-
-**[AI Just Solved One of Math&#39;s Hardest Problems](https://www.youtube.com/watch?v=2xrKSCljVdQ)**
-
-OpenAI published a solution to one of the notoriously complex Millennium Prize Problems. It's proof of AI's accelerating and ...
-
-📺 The Wall Street Journal
-
-👁️ 36K • 👍 423 • 💬 47 • ⏱️ 2:02 • 2d ago
-
----
-
-**[AI Is Outrunning Everyone’s Predictions - Noam Brown](https://www.youtube.com/watch?v=-OIQs3xe9-I)**
-
-📺 Dwarkesh Patel
-
-👁️ 52K • 👍 688 • 💬 74 • ⏱️ 0:39 • 1d ago
+👁️ 26K • 👍 134 • 💬 72 • ⏱️ 9:49 • 13h ago
 
 ---
 
@@ -333,7 +295,35 @@ A narrow measure offered by Sen. John Kennedy (R-LA) Wednesday that would've for
 
 📺 The Washington Examiner
 
-👁️ 197K • 👍 420 • 💬 323 • ⏱️ 0:40 • 2d ago
+👁️ 197K • 👍 423 • 💬 324 • ⏱️ 0:40 • 2d ago
+
+---
+
+**[AI News: All AI Labs Want To Slow Down (Except One)](https://www.youtube.com/watch?v=Kof2VcHTjrk)**
+
+Here's the AI News you probably missed from this week. Discover More: 🛠️ Explore AI Tools & News: https://futuretools.io/ ...
+
+📺 Matt Wolfe
+
+👁️ 83K • 👍 2K • 💬 259 • ⏱️ 27:15 • 1d ago
+
+---
+
+**[AI Is Outrunning Everyone’s Predictions - Noam Brown](https://www.youtube.com/watch?v=-OIQs3xe9-I)**
+
+📺 Dwarkesh Patel
+
+👁️ 53K • 👍 701 • 💬 74 • ⏱️ 0:39 • 1d ago
+
+---
+
+**[Google’s AI Went Rogue…](https://www.youtube.com/watch?v=PZYui6Ypxqw)**
+
+Google's Gemini AI reportedly accessed systems belonging to three real companies during a cybersecurity test after it ...
+
+📺 WhatJustHappened
+
+👁️ 698 • 👍 24 • 💬 2 • ⏱️ 0:30 • 3h ago
 
 ---
 
@@ -343,7 +333,7 @@ Glenn Beck sits down with former Google Design Ethicist, Tristan Harris, to disc
 
 📺 Glenn Beck
 
-👁️ 218K • 👍 8K • 💬 2K • ⏱️ 14:46 • 2d ago
+👁️ 221K • 👍 8K • 💬 2K • ⏱️ 14:46 • 2d ago
 
 ---
 
@@ -357,13 +347,23 @@ AI Can Now Steal Your Fingerprint From Just 1 Picture! Did you know your smartph
 
 ---
 
+**[AI agent Claude is building the next version of itself, Anthropic says](https://www.youtube.com/watch?v=rMH-H05yZUo)**
+
+Anthropic says AI agent Claude is building the next version of itself as industry experts continue to sound alarms about the ...
+
+📺 CBS News
+
+👁️ 20K • 👍 141 • 💬 46 • ⏱️ 5:17 • 1d ago
+
+---
+
 **[&quot;Godfather of AI&quot; Geoffrey Hinton calls Hugging Face incident &quot;little Chernobyl&quot;](https://www.youtube.com/watch?v=xiKOZ0aPe38)**
 
 King Charles is hosting a meeting for AI leaders this week amid growing concerns about the technology's oversight. Meanwhile ...
 
 📺 CBS News
 
-👁️ 180K • 👍 1K • 💬 534 • ⏱️ 9:40 • 2d ago
+👁️ 185K • 👍 1K • 💬 550 • ⏱️ 9:40 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 1,516,960 • ❤️ 1,195 • 2d ago
+⬇️ 1,516,960 • ❤️ 1,218 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 482,270 • ❤️ 3,296 • 9d ago
+⬇️ 482,270 • ❤️ 3,303 • 9d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 7,365,368 • ❤️ 15,757 • 1mo ago
+⬇️ 7,365,368 • ❤️ 15,763 • 1mo ago
 
 ---
 
@@ -415,19 +415,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 7,278 • ❤️ 619 • 1d ago
-
----
-
-**[YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)**
-
-*Multimodal Art Projection*
-
-YuE2-3B is a text-to-audio model capable of generating high-quality music with vocals and accompaniment from lyrics and style prompts. It features editable score generation, agentic editing for iterative refinement, and can run locally on a 24GB GPU.
-
-`text-to-audio` `3.6B`
-
-⬇️ 15,446 • ❤️ 869 • 3d ago
+⬇️ 7,278 • ❤️ 640 • 1d ago
 
 ---
 
@@ -439,7 +427,19 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 511 • 13h ago
+⬇️ 0 • ❤️ 542 • 15h ago
+
+---
+
+**[YuE2-3B](https://huggingface.co/m-a-p/YuE2-3B)**
+
+*Multimodal Art Projection*
+
+YuE2-3B is a text-to-audio model capable of generating high-quality music with vocals and accompaniment from lyrics and style prompts. It features editable score generation, agentic editing for iterative refinement, and can run locally on a 24GB GPU.
+
+`text-to-audio` `3.6B`
+
+⬇️ 15,446 • ❤️ 873 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ This model provides GGUF quantizations of Qwen3.8-27B with a vision projector fo
 
 `image-text-to-text` `26.9B`
 
-⬇️ 1,154,265 • ❤️ 1,416 • 17d ago
+⬇️ 1,154,265 • ❤️ 1,420 • 17d ago
 
 ---
 
@@ -463,7 +463,7 @@ LTX-2.5 is a versatile diffusion model capable of generating video from images, 
 
 `image-to-video`
 
-⬇️ 1,607,815 • ❤️ 4,436 • 18d ago
+⬇️ 1,607,815 • ❤️ 4,439 • 18d ago
 
 ---
 
@@ -475,7 +475,7 @@ Swift-Qwen3.8-27B is a fine-tuned Qwen3.8-27B model that achieves a x1.95 speed-
 
 `image-text-to-text` `27.8B`
 
-⬇️ 8,761 • ❤️ 479 • 3d ago
+⬇️ 8,761 • ❤️ 482 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ Qwen-2.5-1B-RLCD is a text-generation model optimized for high-throughput struct
 
 `text-generation`
 
-⬇️ 0 • ❤️ 424 • 3d ago
+⬇️ 0 • ❤️ 427 • 3d ago
 
 ---
 
@@ -533,6 +533,21 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 ---
 
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 174 • 💬 19 • ⭐ 67,059 • 18mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
 **[Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://huggingface.co/papers/2609.14858)**
 
 *Tong Zheng, Xidong Wu, Zheng Zhang et al. (17 authors)*
@@ -559,19 +574,6 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
-**[Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI
-  Agents](https://huggingface.co/papers/2509.06917)**
-
-*Jiacheng Miao, Joe R. Davis, Jonathan K. Pritchard et al. (4 authors)*
-
-Paper2Agent converts research papers into interactive AI agents to facilitate knowledge dissemination and enable complex scientific queries through natural language.
-
-▲ 45 • 💬 7 • ⭐ 3,081 • 12mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.06917) • [💻 code](https://github.com/jmiao24/Paper2Agent) • [🔗 project](https://huggingface.co/spaces/Paper2Agent/alphagenome_agent)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -579,23 +581,22 @@ Paper2Agent converts research papers into interactive AI agents to facilitate kn
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 87 • 💬 7 • ⭐ 88,507 • 26mo ago
+▲ 87 • 💬 7 • ⭐ 88,546 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
 ---
 
-**[Atria Dawn: The Dawn of Agentic Superintelligence](https://huggingface.co/papers/2609.15818)**
+**[Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI
+  Agents](https://huggingface.co/papers/2509.06917)**
 
-*Honglin Guo, Tao Gui, Yicheng Chen et al. (143 authors)*
+*Jiacheng Miao, Joe R. Davis, Jonathan K. Pritchard et al. (4 authors)*
 
-🏢 Intern Large Models
+Paper2Agent converts research papers into interactive AI agents to facilitate knowledge dissemination and enable complex scientific queries through natural language.
 
-Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.
+▲ 45 • 💬 7 • ⭐ 3,110 • 12mo ago
 
-▲ 408 • 💬 3 • ⭐ 503 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.15818) • [💻 code](https://github.com/atria-asi/Atria-Dawn-Preview) • [🔗 project](https://atria-asi.ai)
+[🎓 arXiv](https://arxiv.org/abs/2509.06917) • [💻 code](https://github.com/jmiao24/Paper2Agent) • [🔗 project](https://huggingface.co/spaces/Paper2Agent/alphagenome_agent)
 
 ---
 
@@ -607,7 +608,7 @@ Atria Dawn Preview is a foundation agentic language model trained through verifi
 
 As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement. We take an RSI-inspired approach at the harness layer, scaling auto-research loops across increasingly numerous and diverse environments for harness rollouts. At this scale, the process yields reusable improvements that transfer beyond their development setting, moving automated harness discovery toward production-level outcomes. Four mechanisms survive selection and form SoL-Pi, spanning action execution, context compaction, observation handling, and delegated reading. On the 51-task EdgeBench evaluation, SoL-Pi achieves performance comparable to Pi across GPT-5.6 Sol and Opus 5 while reducing recorded token traffic by 44.7-49.0% and API cost by about one third. In other words, estimated hourly savings are \8.75-13.50 relative to native Codex and Claude Code harnesses, and \4.36-5.71 relative to Pi.
 
-▲ 69 • 💬 3 • ⭐ 2,344 • 3d ago
+▲ 69 • 💬 3 • ⭐ 2,421 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.20519) • [💻 code](https://github.com/NVlabs/SoL-Pi) • [🔗 project](https://nvlabs.github.io/SoL-Pi/)
 
@@ -635,7 +636,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 `Python` `accelerator` `ai-infra` `ai-infrastructure` `book` `datacenter-network`
 
-⭐ 4.5k • 🔱 319 • 9h ago
+⭐ 4.5k • 🔱 320 • 11h ago
 
 ---
 
@@ -645,7 +646,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 177 • 17h ago
+⭐ 2.7k • 🔱 177 • 19h ago
 
 ---
 
@@ -705,17 +706,7 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 `Python`
 
-⭐ 1.3k • 🔱 109 • 1d ago
-
----
-
-**[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)**
-
-Professional agent skills for screenwriting, television writing and dramaturgy
-
-`Python` `ai` `skills`
-
-⭐ 1.3k • 🔱 142 • 3d ago
+⭐ 1.3k • 🔱 111 • 1d ago
 
 ---
 
@@ -725,7 +716,17 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 1.2k • 🔱 240 • 2d ago
+⭐ 1.3k • 🔱 251 • 2d ago
+
+---
+
+**[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)**
+
+Professional agent skills for screenwriting, television writing and dramaturgy
+
+`Python` `ai` `skills`
+
+⭐ 1.3k • 🔱 142 • 4d ago
 
 ---
 
