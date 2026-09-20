@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "Robotic lab sets up and runs optics experiments on demand",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
-      "pub_date": 1789617600.0,
-      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
-      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
-      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
-    },
-    {
       "headline": "Humanoid Robots Break Records In Beijing",
       "source": "DOGO News",
       "source_url": "https://www.dogonews.com",
@@ -83,6 +73,16 @@
       "article_url": "https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing",
       "image": "https://cdn4.dogonews.com/images/b70a8994-c5c5-412a-8072-ea0aacea1788/w020260815393558879739.png",
       "description": "Humanoid Robots Break Records In Beijing has 16 comments."
+    },
+    {
+      "headline": "Robotic lab sets up and runs optics experiments on demand",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
+      "pub_date": 1789617600.0,
+      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
+      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
     },
     {
       "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-19T23:21:16.620077+00:00"
+  "fetched_at": "2026-09-20T01:25:07.121763+00:00"
 }
