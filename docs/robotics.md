@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T18:58:29.680731+00:00'
+updated: '2026-09-20T21:24:35.227004+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 18:58 UTC  
+**Last Updated:** September 20, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
 
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 6d ago
+🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 7d ago
 
 ---
 
@@ -128,6 +128,12 @@ BBC • 2d ago
 
 ---
 
+**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
+
+Tech Xplore • 2d ago
+
+---
+
 **[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
@@ -140,7 +146,29 @@ The Robot Report • 2d ago
 
 Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
 
-ABC News & Headlines – Australian Broadcasting Corporation • 17h ago
+abc.net.au • 19h ago
+
+---
+
+**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
+
+Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
+
+Futurism • 6h ago
+
+---
+
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
+
+Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
+
+CnEVPost • 12h ago
 
 ---
 
@@ -152,12 +180,6 @@ Fox News • 1d ago
 
 ---
 
-**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
-
-The BayNet • 8h ago
-
----
-
 **[Toyota plans to deploy 400,000 factory robots from 2028](https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/)**
 
 Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett
@@ -166,109 +188,17 @@ Automotive World • 2d ago
 
 ---
 
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Japan's first robot ambulance works the 9-1-1 lines for humanoids](https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/)**
-
-Before humanoid robots fully integrate into our societies and inhabit our homes, factory floors, and workspaces, a Japanese firm is thinking one step ahead. GMO has just unveiled a "Humanoid Ambulance" that it will roll out this month to handle maintenance tasks on-site.
-
-New Atlas • 10h ago
-
----
-
-**[Humanoid Robots Are Getting Smarter and Capable — But Researchers Mull If Their ‘ChatGPT Moment’ Is Here?](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-getting-smarter-capable-213040189.html)**
-
-Humanoid robots are showing meaningful progress beyond controlled demonstrations, with advances in autonomy, dexterity, and the ability to perform repetitive real-world tasks. But widespread commercial deployment still remains a work in progress. After spending a week meeting with leading robotics...
-
-Yahoo Finance • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
 
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
 
-📺 MindSeeded
+📺 EmortalMarcus
 
-👁️ 761K • 👍 11K • 💬 1K • ⏱️ 16:24 • 3d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 244 • 💬 25 • ⏱️ 57:02 • 5d ago
-
----
-
-**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
-
-Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
-
-📺 Bloomberg Tech
-
-👁️ 73K • 👍 288 • 💬 51 • ⏱️ 9:44 • 5d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 52K • 👍 423 • 💬 51 • ⏱️ 18:12 • 6d ago
-
----
-
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
-
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
-
-📺 Future Core
-
-👁️ 185K • 👍 722 • 💬 43 • ⏱️ 9:07 • 5d ago
-
----
-
-**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
-
-China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
-
-📺 NextGen Humanoids
-
-👁️ 42K • 👍 297 • 💬 74 • ⏱️ 11:33 • 5d ago
-
----
-
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
-
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
-
-📺 Talent Replay
-
-👁️ 67K • 👍 249 • 💬 53 • ⏱️ 4:51 • 4d ago
-
----
-
-**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
-
-One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
-
-📺 UBTECH Robotics
-
-👁️ 128K • 👍 1K • 💬 382 • ⏱️ 1:04 • 5d ago
+👁️ 242K • 👍 8K • 💬 763 • ⏱️ 55:24 • 1d ago
 
 ---
 
@@ -278,17 +208,87 @@ I tested the eufy Omni E35 against the flagship S2 in real-world cleaning tests,
 
 📺 The Q
 
-👁️ 98K • 👍 4K • 💬 274 • ⏱️ 5:56 • 1d ago
+👁️ 105K • 👍 4K • 💬 279 • ⏱️ 5:56 • 1d ago
 
 ---
 
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+**[REBALANCE OF DOOM is coming [War Robots 12.4 Update News]](https://www.youtube.com/watch?v=HAxo5R64_-c)**
 
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+War Robots 12.4 Rebalance News Update & Vlog: Big Changes New NEKTON Robot Gameplay Video: ...
 
-📺 Cleo Abram
+📺 Manni-Gaming
 
-👁️ 433K • 👍 22K • 💬 525 • ⏱️ 0:37 • 6d ago
+👁️ 12K • 👍 527 • 💬 149 • ⏱️ 45:03 • 13h ago
+
+---
+
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+
+📺 MindSeeded
+
+👁️ 782K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+
+---
+
+**[Humanoid Robots Just Crossed a MASSIVE Threshold!](https://www.youtube.com/watch?v=oLVAuoMJ_EI)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCyqpZ8HY9FY5jH-RoVcwlnw/join **To become part ...
+
+📺 Dr. Know-it-all Knows it all
+
+👁️ 20K • 👍 489 • 💬 90 • ⏱️ 22:22 • 2d ago
+
+---
+
+**[LEGO Robot: I Transformed All Pixar Cars Characters into Giant Robot! | Bricks UP](https://www.youtube.com/watch?v=G6vWEbWWEPo)**
+
+LEGO Robot: I Transformed All Pixar Cars Characters into Giant Robot! Get ready for an ultimate Radiator Springs mechanical ...
+
+📺 Bricks UP
+
+👁️ 22K • 👍 774 • 💬 10 • ⏱️ 1:07:03 • 2d ago
+
+---
+
+**[NEW Ue Loki Is Real... NEW 6x UE Gust Dagon WIPING OUT Everything | War Robots](https://www.youtube.com/watch?v=tahEdM8KWbM)**
+
+New Ultimate Loki & UE Gust Dagon. I dont think anyone saw this coming. We are getting a UE Gust and Ue Loki. The Ue loki ...
+
+📺 PREDATOR WR
+
+👁️ 10K • 👍 230 • 💬 39 • ⏱️ 15:06 • 9h ago
+
+---
+
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+
+📺 ejunky66
+
+👁️ 479K • 👍 5K • 💬 683 • ⏱️ 1:00 • 3d ago
+
+---
+
+**[SERIOUSLY?? ANOTHER New Robot: NEKTON [War Robots Test Server]](https://www.youtube.com/watch?v=zs_kgMoYaG4)**
+
+War Robots Test Server Gameplay: NEW Robot NEKTON and new weapons and drone and battleship. My War Robots Creator ...
+
+📺 Manni-Gaming
+
+👁️ 27K • 👍 663 • 💬 149 • ⏱️ 14:59 • 1d ago
+
+---
+
+**[4K Djedi Robot Entered the Great Pyramid&#39;s Sealed Shaft - Revealing NEVER Before SEEN Footage](https://www.youtube.com/watch?v=pvANZ5xuBQU)**
+
+The Djedi robot explored a sealed shaft inside the Great Pyramid, capturing the first images of a mysterious second barrier.
+
+📺 IMPOSSIBLE ARCHIVES
+
+👁️ 526K • 👍 3K • 💬 206 • ⏱️ 11:34 • 1d ago
 
 ---
 

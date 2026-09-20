@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-20T18:58:29.675614+00:00'
+updated: '2026-09-20T21:24:35.217681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 18:58 UTC  
+**Last Updated:** September 20, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,200.00
+### $80,763.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +3.7%  
-**30d:** +5.2%  
-**90d:** +29.2%  
-**1y:** -29.8%  
+**24h:** -0.5%  
+**7d:** +3.4%  
+**30d:** +4.9%  
+**90d:** +28.8%  
+**1y:** -30.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1628.09B
+**Market Cap:** $1623.83B
 Rank #1
 
-**Circulating Supply:** 20,087,021 BTC
+**Circulating Supply:** 20,087,128 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.7%
+-35.9%
 
 **All-Time Low:** $67.81
-+119428.1%
++119114.0%
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[How I've felt the last several months](https://www.reddit.com/r/Bitcoin/comments/1wkvayu/how_ive_felt_the_last_several_months/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -119,13 +119,13 @@ Ill admit I bought into the likely theory we would have a bottom in October, but
 
 Looking forward to the conversations this sparks up on Halloween!
 
-21h ago
+23h ago
 
 ---
 
 **[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
 
-19h ago
+22h ago
 
 ---
 
@@ -147,19 +147,57 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.](https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans)**
-
-Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
-
-coindesk.com • 2d ago
-
----
-
 **[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-Slate Magazine • 9h ago
+Slate Magazine • 11h ago
+
+---
+
+**[Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.](https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans)**
+
+Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
+
+CoinDesk • 2d ago
+
+---
+
+**[Michael Saylor Hints at More MicroStrategy Bitcoin Buys After “Dead Cat Bounce” Debate](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-more-microstrategy-192307340.html)**
+
+Saylor hints at more Bitcoin buys after filings show Strategy skipped two weeks. Monday's update settles it.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
+
+Forbes • 7h ago
+
+---
+
+**[T. Rowe Price's Blue Macellari: Bitcoin Is Now Core To The Debasement Conversation](https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation)**
+
+T. Rowe Price’s Blue Macellari shares her insider perspective on the current state of the Treasury market.
+
+Bitcoin Magazine • 7h ago
+
+---
+
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
+
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
+
+cnbc.com • 2d ago
+
+---
+
+**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
+
+Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
+
+VanEck • 2d ago
 
 ---
 
@@ -175,51 +213,13 @@ Yahoo Finance • 2d ago
 
 Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.
 
-coindesk.com • 1d ago
+CoinDesk • 2d ago
 
 ---
 
 **[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
 
-barrons.com • 2d ago
-
----
-
-**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
-
-Forbes • 5h ago
-
----
-
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-CNBC • 2d ago
-
----
-
-**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
-
-Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
-
-VanEck • 2d ago
-
----
-
-**[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
-
-Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
-
-Bitcoin Magazine • 5h ago
-
----
-
-**[BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'](https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/)**
-
-Wall Street may have changed who owns Bitcoin, but it hasn’t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou…
-
-TradingView • 3h ago
+Barron's • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 3 • 💬 1 • 6h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 8h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -291,43 +291,13 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
+**[BULLISH: LAST TIME BITCOIN DID THIS 👀 WAS IN 2012!!!!!!!!!!!!!!!!!!!!!!!!!!! [breakout]](https://www.youtube.com/watch?v=loeA7nYUXcA)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+Bitcoin just flashed multiple signals that have historically appeared around major cycle bottoms… but there's something even ...
 
-📺 Crypto Rover
+📺 Crypto Love
 
-👁️ 15K • 👍 721 • 💬 26 • ⏱️ 8:36 • 7h ago
-
----
-
-**[How The Wealthy Will Use Bitcoin Without Staking It](https://www.youtube.com/watch?v=yjhpFzKtlqw)**
-
-Bitcoin is proof of work, so there's no native staking and simply holding it doesn't make the protocol pay you anything. When a ...
-
-📺 Jake Claver
-
-👁️ 773 • 👍 109 • 💬 50 • ⏱️ 8:55 • 1h ago
-
----
-
-**[5 Crypto Coins are about to EXPLODE!! Finding The Next Bitcoin…](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
-
-Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
-
-📺 Altcoin Daily
-
-👁️ 72K • 👍 2K • 💬 173 • ⏱️ 10:49 • 19h ago
-
----
-
-**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
-
-Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 66K • 👍 1K • 💬 56 • ⏱️ 1:27 • 1d ago
+👁️ 2K • 👍 210 • 💬 36 • ⏱️ 7:50 • 4h ago
 
 ---
 
@@ -337,7 +307,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 139K • 👍 3K • 💬 171 • ⏱️ 1:07:54 • 1d ago
+👁️ 144K • 👍 3K • 💬 171 • ⏱️ 1:07:54 • 1d ago
+
+---
+
+**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 20K • 👍 784 • 💬 35 • ⏱️ 8:36 • 9h ago
+
+---
+
+**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
+
+Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
+
+📺 Altcoin Daily
+
+👁️ 67K • 👍 1K • 💬 57 • ⏱️ 1:27 • 1d ago
 
 ---
 
@@ -347,7 +337,7 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 153K • 👍 4K • 💬 261 • ⏱️ 12:43 • 2d ago
+👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -357,37 +347,47 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 127K • 👍 4K • 💬 215 • ⏱️ 11:24 • 2d ago
+👁️ 128K • 👍 4K • 💬 180 • ⏱️ 11:24 • 2d ago
 
 ---
 
-**[EXACTLY Why Bitcoin and Crypto Are Pumping [AND WHY IT&#39;S JUST GETTING STARTED]](https://www.youtube.com/watch?v=gEJRovVdVhw)**
+**[How Trump JUST Bailed out All Stocks &amp; Crypto. Again.](https://www.youtube.com/watch?v=FVM4MN7raH0)**
 
-Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+Use Coupon Warsh's Balls at https://meetreinvest.com   ****EXPIRES FRIDAY AT 11:59PM**** Trump's SEC Just Bailed Out ...
 
-📺 Tyler S
+📺 Meet Kevin
 
-👁️ 11K • 👍 627 • 💬 169 • ⏱️ 11:17 • 2d ago
+👁️ 163K • 👍 2K • 💬 278 • ⏱️ 27:19 • 2d ago
 
 ---
 
-**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
+**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
 
-EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
+Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
+
+📺 Crypto Casey
+
+👁️ 35K • 👍 822 • 💬 67 • ⏱️ 6:21 • 1d ago
+
+---
+
+**[Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!!](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
+
+Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 379 • 💬 41 • ⏱️ 1:12 • 6h ago
+👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 22h ago
 
 ---
 
-**[BULLISH: LAST TIME BITCOIN DID THIS 👀 WAS IN 2012!!!!!!!!!!!!!!!!!!!!!!!!!!! [breakout]](https://www.youtube.com/watch?v=loeA7nYUXcA)**
+**[Bitcoin&#39;s Supply Rules: Why Demand Surges Don&#39;t Matter](https://www.youtube.com/watch?v=9pSU3POd3Ww)**
 
-Bitcoin just flashed multiple signals that have historically appeared around major cycle bottoms… but there's something even ...
+Rustin talks about Bitcoin's Supply Rules: Why Demand Surges Don't Matter Brought to you by Bitcoinwell.com a bitcoin-only ...
 
-📺 Crypto Love
+📺 Simply Bitcoin
 
-👁️ 679 • 👍 113 • 💬 74 • ⏱️ 7:50 • 1h ago
+👁️ 179 • 👍 15 • 💬 25 • ⏱️ 1:07 • 54m ago
 
 ---
 
