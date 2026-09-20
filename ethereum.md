@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T12:04:08.452869+00:00'
+updated: '2026-09-20T16:23:09.401595+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 12:04 UTC  
+**Last Updated:** September 20, 2026 at 16:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,584.63
+### $2,602.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** +2.6%  
-**30d:** +6.4%  
-**90d:** +54.7%  
-**1y:** -42.0%  
+**24h:** -1.0%  
+**7d:** +4.1%  
+**30d:** +8.0%  
+**90d:** +57.0%  
+**1y:** -41.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $314.50B
+**Market Cap:** $319.91B
 Rank #2
 
 **Circulating Supply:** 122,064,744 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.9%
+-47.0%
 
 **All-Time Low:** $0.43
-+594958.9%
++605148.8%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I used to buy ETH on Binance P2P because I thought it was the cheapest option. Now I am trying HashKey. For the same amount of money, HashKey shows I will get more ETH than Binance P2P, which confuses me. I have two questions: Hidden Fees: Are there extra taxes or hidden fees on HashKey that I need to know about? Final Amount: Will I actually receive less ETH than the amount shown on the screen after I pay? I don't understand why the P2P network exists if you get less at the end...
 
-2d ago
+3d ago
 
 ---
 
@@ -168,19 +168,19 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Ethereum rebounds to $2,500-$2,550, eyeing $3,0...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-2026-level-wajar-eth)**
+**[Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule](https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html)**
 
-Ethereum (ETH) has bounced back to the $2,500-$2,550 range after a dip below $2,400 earlier this week, reaching a key breakout point. Institutional interest is stabilizing, with U.S. spot ETH ETFs seeing positive inflows after recent outflows. For ETH to advance further, it must hold above $2,550, targeting $2,700, $2,800, and then the significant $3,000 level, which would represent a 20% gain from current prices. A rise to $3,500 would require stronger market factors including sustained ETF inflows, increased crypto risk appetite, and continued reduction in liquid ETH supply due to staking and exchange withdrawals. These trends suggest Ethereum could face less selling pressure, potentially supporting higher prices through 2026.
+Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
 
-Pluang • 10m ago
+finance.yahoo.com • 23m ago
 
 ---
 
-**[Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-18-2026-crypto-prices-rise-as-investors-move-past-claritys-failure-114025818.html)**
+**[Ethereum Price Analysis: Can ETH Hit $3,000 as it Hovers Below Key Level](https://www.tradingview.com/news/99Bitcoins:8436dcd2f094b:0-ethereum-price-analysis-can-eth-hit-3-000-as-it-hovers-below-key-level/)**
 
-Bitcoin opened at $76,350.68 on Friday, September 18, 2026, 0.3% higher than Thursday's opening price. As of 7:25 a.m. ET this morning, the price of bitcoin lifted to $77,991.09. Ethereum opened at $2,445.49 today, up 1.2% from Thursday's opening price. The price of ethereum moved up to $2,501.16 as of 7:25 a.m. ET.
+As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum’s decline from its October 2025 peak of…
 
-Yahoo Finance • 2d ago
+TradingView • 6h ago
 
 ---
 
@@ -192,19 +192,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
+**[New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700)**
 
-XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
+MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
 
-24/7 Wall St. • 2d ago
+markets.businessinsider.com • 1d ago
 
 ---
 
-**[Why Is Ethereum Up Today? ETH Hits Highest Price Since January as $2,757 Comes Into View](https://www.tradingview.com/news/financemagnates:f266b6359094b:0-why-is-ethereum-up-today-eth-hits-highest-price-since-january-as-2-757-comes-into-view/)**
+**[Solana vs Ethereum: Who Is Winning the On-Chain Race?](https://coinpedia.org/research-report/solana-vs-ethereum-who-is-winning-the-on-chain-race/)**
 
-Ethereum is up again today (Saturday), extending Friday's rally to its highest price since January. Ether traded at $2,646 on Bitstamp at 17:56 UTC, up 1.3% on the day and about 8% above Thursday's close, after touching $2,668 earlier in the session.The move takes ETH above $2,616, the ceiling that…
+The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
 
-TradingView • 14h ago
+coinpedia.org • 1d ago
 
 ---
 
@@ -216,19 +216,19 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Solana vs Ethereum: Who Is Winning the On-Chain Race?](https://coinpedia.org/research-report/solana-vs-ethereum-who-is-winning-the-on-chain-race/)**
+**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
 
-The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
+XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
 
-Coinpedia • 1d ago
+247wallst.com • 2d ago
 
 ---
 
-**[New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700)**
+**[Why Is Ethereum Up Today? ETH Hits Highest Price Since January as $2,757 Comes Into View](https://www.financemagnates.com/trending/why-is-ethereum-up-today-eth-hits-highest-price-since-january-as-2757-comes-into-view/)**
 
-MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
+Why Ethereum Is Going Up? Ether trades at its highest level since January above $2,616. My daily chart shows $2,757 next, then $3,370 to $3,498 if the breakout holds.
 
-markets.businessinsider.com • 20h ago
+Finance Magnates • 18h ago
 
 ---
 
@@ -236,33 +236,23 @@ markets.businessinsider.com • 20h ago
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
+
+EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 6K • 👍 283 • 💬 35 • ⏱️ 1:12 • 4h ago
+
+---
+
 **[5 Crypto Coins are about to EXPLODE!! Finding The Next Bitcoin…](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
 
 Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 148 • ⏱️ 10:49 • 13h ago
-
----
-
-**[Kevin O&#39;Leary: Why He No Longer Thinks Ethereum Wins (Changed His Mind)](https://www.youtube.com/watch?v=_KzAXoQYwaU)**
-
-Kevin O'Leary joins us in NYC for an interview about his allocation and views on the digital asset market. Digital assets becoming ...
-
-📺 The Rollup
-
-👁️ 8K • 👍 153 • 💬 77 • ⏱️ 13:26 • 12h ago
-
----
-
-**[BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9NVoMLie5mI)**
-
-BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 17K • 👍 434 • 💬 72 • ⏱️ 20:15 • 10h ago
+👁️ 66K • 👍 2K • 💬 171 • ⏱️ 10:49 • 17h ago
 
 ---
 
@@ -272,7 +262,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 131 • 👍 12 • 💬 2 • ⏱️ 4:53 • 2h ago
+👁️ 537 • 👍 22 • 💬 2 • ⏱️ 4:53 • 6h ago
+
+---
+
+**[Kevin O&#39;Leary: The Next Crypto Bull Market Is Here (How To Allocate)](https://www.youtube.com/watch?v=_KzAXoQYwaU)**
+
+Kevin O'Leary joins us in NYC for an interview about his allocation and views on the digital asset market. Digital assets becoming ...
+
+📺 The Rollup
+
+👁️ 10K • 👍 182 • 💬 129 • ⏱️ 13:26 • 17h ago
 
 ---
 
@@ -282,7 +282,17 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 3K • 👍 20 • 💬 58 • ⏱️ 3:44 • 1d ago
+👁️ 3K • 👍 22 • 💬 58 • ⏱️ 3:44 • 1d ago
+
+---
+
+**[BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9NVoMLie5mI)**
+
+BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 21K • 👍 495 • 💬 128 • ⏱️ 20:15 • 14h ago
 
 ---
 
@@ -292,17 +302,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 12K • 👍 325 • 💬 22 • ⏱️ 9:40 • 1d ago
-
----
-
-**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
-
-Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
-
-📺 VirtualBacon
-
-👁️ 13K • 👍 175 • 💬 23 • ⏱️ 1:07 • 2d ago
+👁️ 12K • 👍 333 • 💬 24 • ⏱️ 9:40 • 1d ago
 
 ---
 
@@ -312,27 +312,27 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 152K • 👍 4K • 💬 261 • ⏱️ 12:43 • 2d ago
+👁️ 153K • 👍 4K • 💬 261 • ⏱️ 12:43 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum, Beide haben es geschafft! DAS wird HEUTE wichtig für weiter steigende Preise!](https://www.youtube.com/watch?v=mglqL6VhZ4U)**
+**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
 
-📺 Krypto Trading & Investing
+📺 VirtualBacon
 
-👁️ 4K • 👍 532 • 💬 75 • ⏱️ 13:41 • 6h ago
+👁️ 14K • 👍 187 • 💬 23 • ⏱️ 1:07 • 2d ago
 
 ---
 
-**[Este es el precio al que llegará Ethereum en el siguiente mercado alcista](https://www.youtube.com/watch?v=-ayfFgBH-9o)**
+**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
 
-Ethereum no es solo la segunda criptomoneda por capitalización, es el activo al que el dinero institucional acude cuando Bitcoin ...
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
 
-📺 Valentín Santamaría
+📺 Milk Road
 
-👁️ 196 • 👍 51 • 💬 1 • ⏱️ 23:43 • 2h ago
+👁️ 15K • 👍 236 • 💬 150 • ⏱️ 49:49 • 2d ago
 
 ---
 
