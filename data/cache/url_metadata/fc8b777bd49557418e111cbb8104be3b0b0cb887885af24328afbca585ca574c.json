@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-04T23:46:16.673704+00:00",
+  "data": {
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "title": "Can AI design circuit boards yet?",
+    "description": "A look at what current models can build, where they fail, and how EEBench tests the electronics in simulation.",
+    "image": "https://eebench.org/src/can-ai-design-circuit-boards-yet.png",
+    "favicon": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/src/favicon.svg?v=2",
+    "site_name": "EEBench",
+    "author": null,
+    "keywords": null
+  }
+}

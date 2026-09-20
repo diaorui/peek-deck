@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-07T18:56:55.824507+00:00",
+  "data": {
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "title": "Dealroom.co | Oracle bans AI-generated code from OpenJDK despite Ellison's claim 'Oracle isn't writing' its own code",
+    "description": "Oracle has banned AI-generated code from OpenJDK contributions, citing safety, security, and intellectual property risks. The open-source Java project steward said developers can use LLMs privately for debugging and reviewing code but cannot submit AI-generated material to repositories, pull requests, or other project channels.\n\nThe policy contrasts sharply with Oracle's internal practices. Co-founder Larry Ellison recently declared that AI models now write Oracle's code, whilst co-CEO Mike Sicilia credited AI tools with enabling smaller engineering teams to deliver faster.\n\nOracle is investing $70 billion this year in datacentre expansion. The spending spree prompted credit agency S&P to downgrade Oracle's rating to BBB-, one notch above junk status, citing uncertain returns on investment.",
+    "image": "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Ffeed%2Foracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code%3Fscreenshot%3Dtrue",
+    "favicon": "https://storage.googleapis.com/dealroom-ecosystems-production/dealroom-production/apple-touch-icon.png?582026",
+    "site_name": "Dealroom.co",
+    "author": null,
+    "keywords": null
+  }
+}

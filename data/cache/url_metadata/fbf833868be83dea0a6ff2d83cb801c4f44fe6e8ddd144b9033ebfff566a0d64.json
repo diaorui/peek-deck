@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-19T08:37:17.833461+00:00",
+  "data": {
+    "url": "https://www.cerebras.ai/blog/introducing-cerebras-cs-4",
+    "title": "Introducing Cerebras CS-4: The Fastest AI Gets Faster",
+    "description": "Cerebras CS-4 delivers up to 30x faster AI inference than GPUs, with a modular rack-scale architecture built for hyperscale AI deployment.",
+    "image": "https://cdn.sanity.io/images/e4qjo92p/production/d109d095daa0d697a3929226431d9f206f14e73d-2697x1568.png?rect=0,76,2697,1416&w=1200&h=630&fit=max&auto=format",
+    "favicon": "https://cdn.sanity.io/images/e4qjo92p/production/e7a55ae5ab7e2c4fdfd4e66a51f628d1f2f44207-967x967.png?w=512&h=512&fit=max&auto=format",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

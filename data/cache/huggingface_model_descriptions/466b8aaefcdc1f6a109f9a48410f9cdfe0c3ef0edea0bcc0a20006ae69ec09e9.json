@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-16T09:34:17.491455+00:00",
+  "data": "Qwen3.8-27B-FP8 is a 27B parameter vision-language model optimized with FP8 quantization for efficient inference. It excels at complex, multi-step tasks involving image and video understanding, autonomous planning, and coding, supporting up to 1M context length.",
+  "model_id": "Qwen/Qwen3.8-27B-FP8"
+}

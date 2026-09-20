@@ -1,0 +1,116 @@
+{
+  "subreddit": "ethereum",
+  "posts": [
+    {
+      "title": "Daily General Discussion September 03, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w5xt9m/daily_general_discussion_september_03_2026/",
+      "published": 1788411675.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Updating our wealth verifications with Ethereum",
+      "author": "SugarvetFounder",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w633wn/updating_our_wealth_verifications_with_ethereum/",
+      "published": 1788429901.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "My company performs wealth verifications as part of our user entitlements/verifications. Right now we use conventional documents or proofs against a user's claim, but one thing I've really been wanting to explore is having a programmatic wealth verification be executable against a wallet. It's been awhile since I've personally built something new in this space. Happy to use some guidance. We're very oriented around a privacy-first culture, so implementations where we are really only executing a check against a claim and recording that result is ideal. Here are some details: Client/server Web2 application (entirely Go) No Ethereum-specific Go packages yet added to monorepo Mostly interested in Ethereum for MVP, but L2s would be pretty cool Advice? Interesting ideas or approaches?"
+    },
+    {
+      "title": "Devcon India \u2014 a travel guide",
+      "author": "ligi",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w5l3d4/devcon_india_a_travel_guide/",
+      "published": 1788378685.0,
+      "thumbnail": "https://external-preview.redd.it/FExYzmCYTwj81DEPz7xYNG8apwIPzK9pne3tv6f8lJg.png?width=640&crop=smart&auto=webp&s=53785b220fb0e9cf70a8f3c0ebd90714cc8f72cd",
+      "external_url": "https://parithosh.com/2026-08-26-devcon-india-travel-guide/",
+      "site_name": "Parithosh Jayanthi",
+      "favicon": "https://parithosh.com/images/apple-touch-icon.png",
+      "description": "Everything you should know for your trip to India. And a little bit more. Devcon lands in Mumbai, and a lot of people are about to visit India for thefirst time. I\u2019m excited for you all to get to expe"
+    },
+    {
+      "title": "Daily General Discussion September 02, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w50oyb/daily_general_discussion_september_02_2026/",
+      "published": 1788325267.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Dev Tools Guild August 2026 update",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w57swl/dev_tools_guild_august_2026_update/",
+      "published": 1788348934.0,
+      "thumbnail": "https://external-preview.redd.it/_M4XkWPIwhCfUrP0jlgabraePk6vmnXeVSb_erbbm0Y.jpeg?width=640&crop=smart&auto=webp&s=4933de336aae02584db0dbc32b1f246c36998796",
+      "external_url": "https://devtoolsguild.xyz/blog/devtoolsguild-august-2026-update",
+      "site_name": "devtoolsguild.xyz",
+      "favicon": "https://devtoolsguild.xyz/img/favicon.ico",
+      "description": "**TL;DR**: Plat\u00e5berget testnet available for Glamsterdam upgrade testing. Foundry v1.8.0 symbolic testing preview. Ox v1 stable."
+    },
+    {
+      "title": "What\u2019s stopping you from using a crypto payment card?",
+      "author": "ComprehensiveAir931",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w4dajd/whats_stopping_you_from_using_a_crypto_payment/",
+      "published": 1788272221.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been looking into crypto payment cards because I\u2019d rather spend directly from my wallet than constantly cash out to my bank. The convenience sounds great, especially for everyday purchases, but I\u2019m curious what the actual experience is like. What\u2019s stopping you from using one fees, KYC, taxes, security or something else? And if you already use one, has it actually replaced your regular card for anything?"
+    },
+    {
+      "title": "Daily General Discussion September 01, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w424z1/daily_general_discussion_september_01_2026/",
+      "published": 1788238889.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Daily General Discussion August 31, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w33wbe/daily_general_discussion_august_31_2026/",
+      "published": 1788152487.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "If your deployment template references a smart contract audit, does that reference survive upgrades?",
+      "author": "Hacken_io",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w3bq23/if_your_deployment_template_references_a_smart/",
+      "published": 1788177690.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I work on the assessment side at a smart contract auditing company. This came out of an audit we did on a governance-approved deployment system on a permissioned chain. The system stores metadata for each approved deployment template: a bytecode hash, a storage layout hash, a link to the audit report, and the source repository commit. On paper, every deployed proxy maps back to reviewed and approved code. At deployment time, nothing checks those fields. The factory resolves the implementation live from the beacon, and the beacon owner can publish a new version at any point after the template was registered. The bytecodeHash field is in storage, but no require statement compares it to address.codehash on what actually gets deployed. After the first beacon upgrade, every new deployment runs code that was never part of the original audit, while the template still points at the old audit URI and the old commit. When we flagged it, the project team didn't start enforcing the hash. They removed the bytecode and storage layout hashes from the template entirely. I'd argue that's more honest than keeping fields that imply verification and deliver none. But what's left is a pipeline where the only governance control is trusting the beacon owner, and the on-chain record of what was audited diverges silently from what's actually running. Regulators running MiCA compliance assessments or CASP license reviews want to see governance over what gets deployed to production. If your template stores an audit reference and an assessor asks whether it's enforced, \"recorded but not checked\" puts you in a worse position than having no reference at all. The reference misrepresents what the deployed code went through. Open your template registry or deployment manifest. Find the field that references the audit or stores a bytecode hash. Grep for it on the deploy path. If the field is written once at registration and never appears in a require or assert during deployment, you have decorative governance metadata. address.codehash exists on-chain. The check is one comparison. Nobody wrote it. Plenty of governance models handle this off-chain with CI/CD gates, human sign-offs, and change management procedures, and those work for permissioned systems. The gap opens when the on-chain record looks like it provides a guarantee it doesn't, because the next person who reads that template will assume enforcement already happened. If a MiCA license or VARA license assessor asked you to demonstrate that your template's bytecodeHash is enforced at deployment, could you show them the require statement?"
+    },
+    {
+      "title": "Daily General Discussion August 30, 2026",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1w2874e/daily_general_discussion_august_30_2026/",
+      "published": 1788066086.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/"
+    }
+  ],
+  "fetched_at": "2026-09-03T15:55:03.928142+00:00"
+}

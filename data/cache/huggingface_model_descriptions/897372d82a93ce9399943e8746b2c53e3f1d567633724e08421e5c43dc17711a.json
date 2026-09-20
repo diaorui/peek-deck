@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-17T16:56:36.434947+00:00",
+  "data": "This is an abliterated (refusal-removed) block-FP8 quantized version of Qwen3.8-27B, optimized for image-text-to-text tasks. It retains a 262K context window, tool-calling, and MTP speculative decoding, making it suitable for advanced AI research, red-teaming, and controlled experiments where safety alignment is intentionally bypassed.",
+  "model_id": "orcarouter/Qwen3.8-27B-Uncensored-FP8"
+}

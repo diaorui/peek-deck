@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-08T15:29:41.840727+00:00",
+  "data": {
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "title": "Fix full-scan hang on multi-homed hosts: defaultRoute() with several default routes (fixes #2) by miraholt31 \u00b7 Pull Request #3 \u00b7 ancaferro/myNetwork",
+    "description": "Fixes #2 - discovery hangs when multiple default via routes exist.\nWhat changed\n\ndefaultRoute() now parses all default routes and picks the lowest metric (ties: first seen) instead of concatenating...",
+    "image": "https://web.archive.org/web/20260731053721im_/https://opengraph.githubassets.com/c4cfaaf58841bcfc90a77f07078889128ca99f4f54e0597c9207f09fe0e27534/ancaferro/myNetwork/pull/3",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}

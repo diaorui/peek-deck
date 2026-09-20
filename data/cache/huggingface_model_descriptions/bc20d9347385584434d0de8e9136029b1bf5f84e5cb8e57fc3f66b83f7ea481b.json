@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-26T15:59:49.330167+00:00",
+  "data": "GLM-5.3-Flash is a natively multimodal LLM with a hybrid sparse-linear attention architecture for efficient long-context processing. It excels in coding and agentic tasks, offering performance competitive with top models at a fraction of the cost, suitable for complex text generation and multimodal applications.",
+  "model_id": "zai-org/GLM-5.3-Flash"
+}

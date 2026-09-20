@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-11T19:34:50.446133+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "description": "The new lightweight open model and routing library delivers greater control over AI, data and workflows across edge devices, PCs, workstations, data centers and the cloud.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Kari Briski",
+    "keywords": null
+  }
+}

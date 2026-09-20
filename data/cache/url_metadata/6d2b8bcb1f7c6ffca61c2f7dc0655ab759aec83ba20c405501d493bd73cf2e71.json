@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-11T16:00:40.799129+00:00",
+  "data": {
+    "url": "https://app.scarf.sh/ai-leaderboard",
+    "title": "Open Source AI Popularity Leaderboard | Scarf",
+    "description": "Daily AI provider popularity based on unique organizations downloading associated open source packages.",
+    "image": "https://app.scarf.sh/images/ai-leaderboard-og.png",
+    "favicon": "https://app.scarf.sh/favicon/apple-touch-icon.png",
+    "site_name": "Scarf",
+    "author": null,
+    "keywords": null
+  }
+}

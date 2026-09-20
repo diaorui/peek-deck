@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-13T17:04:28.402312+00:00",
+  "data": {
+    "url": "https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/",
+    "title": "Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE",
+    "description": "The Ethereum Foundation is shifting from Poseidon hash to SHA and BLAKE3 for base-layer hashing as traditional hashes close the ZK performance",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/13115638/ethereum-foundation-800x420.png",
+    "favicon": "https://static.cryptobriefing.com/wp-content/uploads/2020/02/02093517/ios-144.png",
+    "site_name": "Crypto Briefing",
+    "author": "Editorial Team",
+    "keywords": null
+  }
+}

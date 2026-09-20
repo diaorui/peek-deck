@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-25T19:31:45.114382+00:00",
+  "data": "Ornith-1.5-35B-A3B is a 35B parameter Mixture-of-Experts model optimized for text generation, excelling in coding and agentic tasks by utilizing end-to-end self-improvement. It outperforms similar-sized models like Qwen3.6-35B and dense models like Gemma-4-31B on agentic coding benchmarks.",
+  "model_id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF"
+}

@@ -1,0 +1,116 @@
+{
+  "subreddit": "robotics",
+  "posts": [
+    {
+      "title": "Mk Robot footage 2023",
+      "author": "Personal-Wear1442",
+      "url": "https://www.reddit.com/r/robotics/comments/1w4fpmc/mk_robot_footage_2023/",
+      "published": 1788277459.0,
+      "thumbnail": "https://preview.redd.it/fnk07we0jxmh1.jpeg?width=640&crop=smart&auto=webp&s=7b24810afebc2e51764c01f7222f82796a6fe10a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "I gave my ortomi robot a body \ud83d\ude0e",
+      "author": "WeekCritical9898",
+      "url": "https://www.reddit.com/r/robotics/comments/1w4bpqp/i_gave_my_ortomi_robot_a_body/",
+      "published": 1788268601.0,
+      "thumbnail": "https://external-preview.redd.it/ZWEzcGlncWZzd21oMcQ5uf5szhYi1XsKrgNKEe9AW-xZNm3okSBF9StXOV22.png?width=320&crop=smart&auto=webp&s=ec39bf36a2a61df36adf1586d9cf3c81507a5d70",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Q:How would a robotic bug play out in gathering data and information the Amazon rainforest",
+      "author": "Ok-Percentage-1124",
+      "url": "https://www.reddit.com/r/robotics/comments/1w4bz23/qhow_would_a_robotic_bug_play_out_in_gathering/",
+      "published": 1788269204.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Out of curiosity, I came across a YouTube video detailing how difficult gathering information on the Amazon jungle would be due to the complex environment. In regard to drones, how would a robotic insect preform in gathering information? If possible."
+    },
+    {
+      "title": "TinyPurr, a TinyML battery-powered desk cat with keyword-spotting on ESP32-S3",
+      "author": "Thantri",
+      "url": "https://www.reddit.com/r/robotics/comments/1w4gu6f/tinypurr_a_tinyml_batterypowered_desk_cat_with/",
+      "published": 1788279795.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "UWB-Based Indoor Positioning System",
+      "author": "nameisstrangeloop",
+      "url": "https://www.reddit.com/r/robotics/comments/1w4hl8c/uwbbased_indoor_positioning_system/",
+      "published": 1788281349.0,
+      "thumbnail": "https://external-preview.redd.it/rWYW1EvRtbe5F9pHWgugNx-_y_m3lUTY5ldMOVMnEMQ.png?width=640&crop=smart&auto=webp&s=1aaa2347bd5c5e8b0021801a93d4d72cb059b981",
+      "external_url": "https://siddharthv.com/finding-12-things-in-a-room-at-once-a-uwb-indoor-positioning-system/",
+      "site_name": "siddharthv.com",
+      "favicon": null,
+      "description": "Interested in implementing indoor positioning for your robot - one of the new methods of doing this uses Ultra Wideband sensors. Arduino released two devices - the Arduino Portenta UWB shield and the Arduino Stella tag board. I have implemented a reference system that uses these two boards to implement an indoor positioning system for your robot. You can read all about it here:"
+    },
+    {
+      "title": "Made my Unitree dance Kpop",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1w38in8/made_my_unitree_dance_kpop/",
+      "published": 1788167963.0,
+      "thumbnail": "https://external-preview.redd.it/bHR6N3N5c2Job21oMV_4m4Y_qNbFUMHk69u39m1HXZ0egT6eEi9KXeg-RmkO.jpeg?width=320&crop=smart&auto=webp&s=d6c63aecaf5052ae1c917737429da1fcaaf824f9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This was surprisingly easy to do. If you have a Unitree G1 Edu version off course. Done with a driving video fed into their motion generation software. Then trained for 5 hours , then 1 click deployment onto the robot"
+    },
+    {
+      "title": "GTA NPCs Are Better at Robotics Than You Think",
+      "author": "Longjumping_Play_817",
+      "url": "https://www.reddit.com/r/robotics/comments/1w49qin/gta_npcs_are_better_at_robotics_than_you_think/",
+      "published": 1788263604.0,
+      "thumbnail": "https://external-preview.redd.it/050d7SN6QZtARDFejFWIpWKdpbmDDVVV9of9hs8onjI.png?width=640&crop=smart&auto=webp&s=0aa4c1cc8240e2ed414b2f8ffc0381a3bb6acea7",
+      "external_url": "https://medium.com/@myequation/gta-npcs-are-better-at-robotics-than-you-think-37325f2347e5?sharedUserId=myequation",
+      "site_name": "Medium",
+      "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+      "description": "Are you a GTA fan? Then you probably never noticed THIS\u2026 You thought GTA NPCs were just randomly driving around? Think again!! They\u2019ve been doing *Robotics* this whole time To read the full breakdown tap the image"
+    },
+    {
+      "title": "My Custom Robot and Reinforcement Learning Script in Isaac Sim",
+      "author": "Xerd-R",
+      "url": "https://www.reddit.com/r/robotics/comments/1w3k2g7/my_custom_robot_and_reinforcement_learning_script/",
+      "published": 1788196247.0,
+      "thumbnail": "https://external-preview.redd.it/Z29kbDBhZmR0cW1oMR_heh2ny3Vq7sFELZaQWw1Ofzvw0JB0GBuek7qTNr3j.png?width=640&crop=smart&auto=webp&s=976f2f38f88309a474fca82a24163d85bb87b7e9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have been working on different robotics task mainly in Pybullet. Complexity of Isaac Sim has kept me from experimenting with it but I finally finished my first successful reinforcement learning script using it. Getting the settings right so I could observe the trainings in windowed mode with my laptop 3070 gpu took I while but I managed to get it working well enough to troubleshoot some early issues I noticed through visual inspection. I gave the PPO full control of my robot's controller, not the joint angle outputs, meaning it had to figure out a way to climb the ramps using the directional controller inputs and body adjustments like pitch and height. The training took about 45 minutes with my RTX 3070 mobile GPU vs 1 hour and 45 minutes using cpu with Pybullet. I am now working on full locomotion simulation, again with my custom robots, its a bit more involved than I expected but I am hoping in the end I can come up with my own full locomotion training script and load the model to my actual robot to control it. I also share my tutorial scripts with my videos on youtube, if you are interested in watching the video for this one you can find it with the link below: https://youtu.be/0x5BBosrq-E You can also download the simulation script from my github repository with the link below. https://github.com/serdarselimys/HexaDogZBD-IsaacSim-RL If you are interested in the real 3D printed robot, you can fine info about it from the video link below. https://youtu.be/qflyEQOJObM"
+    },
+    {
+      "title": "Current set-up. Any changes? Anything I should add?",
+      "author": "WillingCaramel9069",
+      "url": "https://www.reddit.com/r/robotics/comments/1w3z07i/current_setup_any_changes_anything_i_should_add/",
+      "published": 1788229695.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "RealSense SDK v2.58.4 Released!",
+      "author": "Chemical-Hunter-5479",
+      "url": "https://www.reddit.com/r/robotics/comments/1w3huww/realsense_sdk_v2584_released/",
+      "published": 1788191682.0,
+      "thumbnail": "https://preview.redd.it/zctmoefufqmh1.png?width=640&crop=smart&auto=webp&s=0345426c9367f8c51d6ed65bbaba64e36355aad8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Key Highlights: - Added support for Ubuntu 26.04 (Resolute) and ROS2 Lyrical. (SDK) - Introduced zero-copy GPU frame access for CUDA/TensorRT workloads on Jetson platforms, eliminating host-device memory copies. (SDK) - Unified the AI pipeline under the new Perception framework, including Object Detection enhancements and per-detection distance reporting. (SDK, D555 FW) - Added D401 dual-RGB support, including CSI passthrough and dedicated RGB control handling for GMSL deployments. (SDK, D400 FW, MIPI Driver) - Added H.264 color streaming support for ROS2/DDS with runtime profile selection.(D555 FW) - Enabled runtime Temporal Filter control without requiring pipeline restart, with improved coordination with Object Detection. (D555 FW) - Improved GMSL streaming reliability and multi-camera operation, including fixes for frame drops, link recovery, and synchronization stability. (D400 FW, MIPI Driver) - Introduced first D58x/D585 GMSL platform support, including serializer/deserializer integration, RGB controls, telemetry, and new device-tree overlays. (MIPI Driver) - Expanded platform support with JetPack 7.2 compatibility and multiple JetPack 5.x stability and streaming fixes. (SDK, MIPI Driver) - Improved timestamp accuracy, hardware clock handling, and synchronization robustness across the stack. (SDK, MIPI Driver) More info: https://github.com/realsenseai/librealsense"
+    }
+  ],
+  "fetched_at": "2026-09-01T17:11:07.922935+00:00"
+}

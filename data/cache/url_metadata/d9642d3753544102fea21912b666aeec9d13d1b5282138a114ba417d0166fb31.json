@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-17T06:55:12.188669+00:00",
+  "data": {
+    "url": "https://github.com/BobClawblaw/bitcoinmachinecode",
+    "title": "GitHub - BobClawblaw/bitcoinmachinecode: A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesses. Includes SHA-256, secp256k1 field/point/scalar/ECDSA-verify, P2P networking, block consensus, and a persistent-store node with headers-first IBD.",
+    "description": "A working Bitcoin node implemented as 100% AI-generated x86-64 assembly (NASM). Every line of machine code was authored by an AI agent; C/Python serve only as verification oracles and test harnesse...",
+    "image": "https://opengraph.githubassets.com/77da9f540867f349abe80f4d4659f48083b26852d68c7d63f070d1332fd981ab/BobClawblaw/bitcoinmachinecode",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}
