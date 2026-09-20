@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-20T21:24:35.217681+00:00'
+updated: '2026-09-20T23:21:56.584673+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 21:24 UTC  
+**Last Updated:** September 20, 2026 at 23:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $80,763.04
+### $81,146.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +3.4%  
-**30d:** +4.9%  
-**90d:** +28.8%  
-**1y:** -30.0%  
+**24h:** -0.1%  
+**7d:** +3.9%  
+**30d:** +5.4%  
+**90d:** +29.5%  
+**1y:** -29.6%  
 
 ---
 
@@ -119,13 +119,13 @@ Ill admit I bought into the likely theory we would have a bottom in October, but
 
 Looking forward to the conversations this sparks up on Halloween!
 
-23h ago
+1d ago
 
 ---
 
 **[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 **[Actually November, wait, ngl December fr fr](https://www.reddit.com/r/Bitcoin/comments/1wk5jpl/actually_november_wait_ngl_december_fr_fr/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -151,7 +151,7 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-Slate Magazine • 11h ago
+Slate Magazine • 13h ago
 
 ---
 
@@ -159,45 +159,7 @@ Slate Magazine • 11h ago
 
 Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
 
-CoinDesk • 2d ago
-
----
-
-**[Michael Saylor Hints at More MicroStrategy Bitcoin Buys After “Dead Cat Bounce” Debate](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-more-microstrategy-192307340.html)**
-
-Saylor hints at more Bitcoin buys after filings show Strategy skipped two weeks. Monday's update settles it.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
-
-Forbes • 7h ago
-
----
-
-**[T. Rowe Price's Blue Macellari: Bitcoin Is Now Core To The Debasement Conversation](https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation)**
-
-T. Rowe Price’s Blue Macellari shares her insider perspective on the current state of the Treasury market.
-
-Bitcoin Magazine • 7h ago
-
----
-
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-cnbc.com • 2d ago
-
----
-
-**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
-
-Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
-
-VanEck • 2d ago
+coindesk.com • 2d ago
 
 ---
 
@@ -209,17 +171,55 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
+
+Barron's • 2d ago
+
+---
+
 **[Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates](https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000)**
 
 Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.
 
-CoinDesk • 2d ago
+coindesk.com • 2d ago
 
 ---
 
-**[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
+**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
 
-Barron's • 2d ago
+Forbes • 9h ago
+
+---
+
+**[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
+
+Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
+
+Bitcoin Magazine • 9h ago
+
+---
+
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
+
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
+
+CNBC • 2d ago
+
+---
+
+**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
+
+Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
+
+VanEck • 2d ago
+
+---
+
+**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 2d ago
 
 ---
 
@@ -237,7 +237,7 @@ Barron's • 2d ago
 
 Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test
 
-⬆️ 13 • 💬 1 • 4d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
+⬆️ 13 • 💬 1 • 5d ago • [predx-article](https://predx-article.fika.bar/bitcoin-s-momentum-cools-as-washington-s-crypto-promise-face-01M2HE34ZAXGSSTQB0D5DFBE3T)
 
 ---
 
@@ -245,7 +245,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 8h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 10h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -287,6 +287,14 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ---
 
+**[The viewers ditching streaming 'rot' in favour of DVDs](https://news.ycombinator.com/item?id=49781110)**
+
+A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
+
+⬆️ 3 • 💬 0 • 7m ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -297,7 +305,7 @@ Bitcoin just flashed multiple signals that have historically appeared around maj
 
 📺 Crypto Love
 
-👁️ 2K • 👍 210 • 💬 36 • ⏱️ 7:50 • 4h ago
+👁️ 2K • 👍 210 • 💬 36 • ⏱️ 7:50 • 6h ago
 
 ---
 
@@ -317,7 +325,7 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrT
 
 📺 Crypto Rover
 
-👁️ 20K • 👍 784 • 💬 35 • ⏱️ 8:36 • 9h ago
+👁️ 20K • 👍 784 • 💬 35 • ⏱️ 8:36 • 11h ago
 
 ---
 
@@ -337,7 +345,7 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 2d ago
+👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 3d ago
 
 ---
 
@@ -377,7 +385,7 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 22h ago
+👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -387,7 +395,7 @@ Rustin talks about Bitcoin's Supply Rules: Why Demand Surges Don't Matter Brough
 
 📺 Simply Bitcoin
 
-👁️ 179 • 👍 15 • 💬 25 • ⏱️ 1:07 • 54m ago
+👁️ 179 • 👍 15 • 💬 25 • ⏱️ 1:07 • 2h ago
 
 ---
 

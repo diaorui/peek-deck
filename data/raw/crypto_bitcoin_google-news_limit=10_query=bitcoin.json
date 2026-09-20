@@ -16,7 +16,7 @@
     },
     {
       "headline": "Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDQ4c1BBTHFDRVloRTM2dHlCOVdyckRiYUtULUhrX1VtQkxFOEZyR0RRNnR5WFNwdFBFOHRFd0YzNmVLWk0ydVo1bldRNUlSOUJEc2pyanhQYnk5S2M0T2F5VTZrYjVobWw0QzFheldkLXgzdGpOYjNscS1tZ05XakNyOFQ0MUxpTzhjblJBRWtqakJQT2ZHYncwb1BOMHRKaG1XU0FnbmZlMDNQS2xPMmRJYWpWaFJGbjM0bXN0TE0?oc=5",
       "pub_date": 1789714800.0,
@@ -25,14 +25,34 @@
       "description": "Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations."
     },
     {
-      "headline": "Michael Saylor Hints at More MicroStrategy Bitcoin Buys After \u201cDead Cat Bounce\u201d Debate",
+      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1BoLVQ1S3pqcHJYMXF2RFpXRy1laWN1WXFLUlhnQ1l5WXlxNVhBblZWYTBkRmZEcDJYLXV2cXh0bUE1NEtWdV9ENlpkTkhjUlpCYmRlcFNNdjR6WXF5RFM5d1ZDNlppWERrMHc0OHB5X1BpMVIyMFYwX3FwVGlOel8zLTRMeDgyQ3Z5Z0NVWFZydk5mN1FqY0hYa1pEd1A2bmR3MWhqTQ?oc=5",
-      "pub_date": 1789932187.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-hints-more-microstrategy-192307340.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8fd49012d9821ff59cfeaddf77ebe19191a12becf931938643226cdddb1f55f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F8746021bf08a2b66c5292adbe576686d.png",
-      "description": "Saylor hints at more Bitcoin buys after filings show Strategy skipped two weeks. Monday's update settles it."
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
+      "pub_date": 1789743537.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
+    },
+    {
+      "headline": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
+      "pub_date": 1789756320.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJoVjIwS3gwelR2MUF3bnEtSlZfVjZuZ1dUY1hZWFIzeHZBbTZ4RmtPa08xR1J5eTduTTViZnY5cHNkZjNFQnFBNVB5eDB5dF9SYkRPNE5kNVVjRUVVXzFpNjBfOXBiNFZZZVgwUUNhMlRSTVA3T2VWUllLenlZR3NaUVdzOXdoVWxuNWVhR3RsekxjNFo2NUFwWTZHVDQ0SkZ4NlBmVlhIaEhDZUUwY05lemlrZw?oc=5",
+      "pub_date": 1789762341.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3548c11431a517c6030291bf9f6ba1276cefd01-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen."
     },
     {
       "headline": "Bitcoin \u2018Will\u2019 Hit $1 Million Price\u2014Kevin O\u2019Leary Suddenly Ups His Massive $15 Trillion Prediction",
@@ -45,18 +65,18 @@
       "description": null
     },
     {
-      "headline": "T. Rowe Price's Blue Macellari: Bitcoin Is Now Core To The Debasement Conversation",
+      "headline": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMU13Q0tOWU44MTBXY1ZpSjlCaTR5blJ0b3EzX081LVlSRDRPa3haczB4LXpoVHRQSWdZdU5Bc2pZckplNkpCVDJNSkhGTjFrTDRZMUEzSE9GR3FRZklZQnZ0bWNaVUhBRnVxQ2tiR3Q0QW9qN2JaaEtLanM1eXlpZGd4VWlWbXN5a2pLOUxSQnFXNE5sVHBMZnRWWmdYNzZtakh0WDdmanhsY21zeHpJNVJXNzI?oc=5",
-      "pub_date": 1789910761.0,
-      "article_url": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-bitcoin-is-now-core-to-the-debasement-conversation",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/T.-Rowe-Prices-Blue-Machellari-Bitcoin-is-Now-Core-to-the-Debasement-Conversation-.jpg",
-      "description": "T. Rowe Price\u2019s Blue Macellari shares her insider perspective on the current state of the Treasury market."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHZRUE9ILUJZbTNRVWJwR1FLZG1zOWp1RmtHQVp0ZnBwSmtVM1hZN3k0OS1pVXI2TVNyU3FwNW04MXp4SmZPYzg2WGtHWkhBMzd0TnBzZ1p5Vk1RSUxrQ1psV3NLQUVFa3BHSkd2Q2d1UVJzSjgwakRQMGUxZ1M5clhyal9LQzcxOXlIWXpSTTVPM0N1ZzVETXpMRTY?oc=5",
+      "pub_date": 1789911282.0,
+      "article_url": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg",
+      "description": "Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with."
     },
     {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVp4TTJPZFpLR2R5bS0ycFludHhPQkpON1JMWWVja0NfUTV0aXhIQ0pRVlgyNURSQjJQZUJiaWhmcmVsVnp3WlZDdFVjWGVjbXQ3a3I1WkhXdHJmcHd6d0dERnJ3ZWZTMUZwZkhuZjR5Ri1WbEtNWnhLa1hNb1hZdA?oc=5",
       "pub_date": 1789711846.0,
@@ -75,36 +95,16 @@
       "description": "Miners hold the scarce asset as US power demand outruns supply, while Metaplanet\u2019s 14.7% option pool shows how DAT insiders capture shareholder dilution."
     },
     {
-      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
-      "pub_date": 1789743537.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
-      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
-    },
-    {
-      "headline": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJoVjIwS3gwelR2MUF3bnEtSlZfVjZuZ1dUY1hZWFIzeHZBbTZ4RmtPa08xR1J5eTduTTViZnY5cHNkZjNFQnFBNVB5eDB5dF9SYkRPNE5kNVVjRUVVXzFpNjBfOXBiNFZZZVgwUUNhMlRSTVA3T2VWUllLenlZR3NaUVdzOXdoVWxuNWVhR3RsekxjNFo2NUFwWTZHVDQ0SkZ4NlBmVlhIaEhDZUUwY05lemlrZw?oc=5",
-      "pub_date": 1789762341.0,
-      "article_url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3548c11431a517c6030291bf9f6ba1276cefd01-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen."
-    },
-    {
-      "headline": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
-      "pub_date": 1789756320.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
-      "image": null,
-      "description": null
+      "headline": "Current price of Bitcoin for September 18, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
+      "pub_date": 1789732800.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T21:24:28.922646+00:00"
+  "fetched_at": "2026-09-20T23:21:43.348972+00:00"
 }

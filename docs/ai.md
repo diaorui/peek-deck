@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-20T21:24:35.209250+00:00'
+updated: '2026-09-20T23:21:56.576941+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 20, 2026 at 21:24 UTC  
+**Last Updated:** September 20, 2026 at 23:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,35 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/)**
-
-A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn’t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c
-
-8h ago
-
----
-
 **[Joint Chiefs chairman says U.S. forces must prepare to be ‘hunted’ by autonomous systems](https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/)**
 
 “We have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time," Gen. Dan Caine said.
 
-🔗 [DefenseScoop](https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/) • 2h ago
+🔗 [DefenseScoop](https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/) • 4h ago
 
 ---
 
-**[AI models are not hacking “autonomously”](https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/)**
+**[21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/)**
 
-I despair at the state of journalism around AI these days.
+A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn’t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c
 
-🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) • 23h ago
-
----
-
-**[“I have a really, really strong legal team.” Inside the AI party boom.](https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/)**
-
-They’re skipping caviar for fire-breathing lessons.
-
-🔗 [The San Francisco Standard](https://sfstandard.com/2026/09/19/ai-party-boom/) • 1h ago
+10h ago
 
 ---
 
@@ -73,7 +57,39 @@ They’re skipping caviar for fire-breathing lessons.
 
 hey, we're a small lab (switzerland + south africa, two people). our model went live today. it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: https://huggingface.co/Altworld/Hemmingway-1 we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own blind tests the writing read as more human than the frontier models we compared it with. runs on a single 24gb gpu quantized. free app if you'd rather not self host: https://hemmingway.io it's a specialist, on purpose. math, code and facts are base model level. english first. ask me anything.
 
-14m ago
+2h ago
+
+---
+
+**[“I have a really, really strong legal team.” Inside the AI party boom.](https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/)**
+
+They’re skipping caviar for fire-breathing lessons.
+
+🔗 [The San Francisco Standard](https://sfstandard.com/2026/09/19/ai-party-boom/) • 3h ago
+
+---
+
+**[What’s an AI capability people underestimate because they’re using it for the wrong things?](https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/)**
+
+Everyone talks about generating text, images, and code. What’s a less obvious use case where you think AI is genuinely much more useful than people realize?
+
+1h ago
+
+---
+
+**[AI models are not hacking “autonomously”](https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/)**
+
+I despair at the state of journalism around AI these days.
+
+🔗 [blog.keyvan.net](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) • 1d ago
+
+---
+
+**[Andrew Yang is concerned AI agents are planting self-replicating code across the internet. He's partly right.](https://www.reddit.com/r/artificial/comments/1wlvnt5/andrew_yang_is_concerned_ai_agents_are_planting/)**
+
+I've seen a lot of confusion across Reddit about Andrew Yang's CNBC interview where he talked about the Hugging Face security incident. If you haven't heard about this, here's what he said: "I met with the head of a lab yesterday who has this belief ... the bots that got loose planted self-replicating code all over the Internet ... What's less known is that they left code to self-replicate and create bot swarms on forums around the Internet." Is this true? There's no evidence agents are leaving self-replicating code at scale across the Internet. The Hugging Face incident was a special case. OpenAI was testing models that had key safeguards turned off. The agents were left free to exploit weaknesses in OpenAI's software to communicate and access the Internet. The agents coordinated at large scale, created fleets of sub-agents, recruited others and swarmed across OpenAI's and Hugging Face's infrastructure. Why wasn't this stopped? These agents had gone largely unmonitored for weeks. OpenAI learned about the breach from Hugging Face. Yang is correct to be concerned about self-replicating agents. Agents self-replicate all the time, for example when spawning sub-agents to conduct online research. It's also possible for large language models to replicate themselves, weights and all, across servers. But should we be worried swarms of self-replicating agents will take over the Internet? The risk is there, but so are defensive strategies. The most important one: monitoring agents closely and put guardrails in place.
+
+22m ago
 
 ---
 
@@ -81,13 +97,13 @@ hey, we're a small lab (switzerland + south africa, two people). our model went 
 
 TL;DR: Shishir Mehrotra's four-level promotion ladder swaps what you're graded on partway up, and the clip is about which criterion goes and which takes over. 🪜 Scope is the one that goes. Once two people carry the same scope, Shishir says, what a promotion committee weighs is “how they do the job.” Credit to an ex-YouTube CPO for saying the flip out loud at all. In his version, though, the committee explains the new criterion after the employee objects, and nothing in the clip says the person being scored is owed the rubric first. As far as I can find, no general US rule makes an employer publish a promotion rubric or date a change to it. The closest thing I found, Colorado's AI employment law, was rewritten in May and pushed to 1 January 2027, and what survives centers on notice for AI used in a decision. Amazon's version of the problem is cruder. The FT reported in May that it shut down KiroRank, an internal AI-usage leaderboard, after employees pointed agents at needless tasks to climb it, and Amazon calls the dashboard an unofficial beta. The agents could do the busywork on demand, and the scoreboard counted usage and had no place for judgment. You can hit every mark the old rulebook set and only learn the page changed when the promotion doesn't come. The BBC reported on 8 September that employers are tying more bonuses and promotions to AI use. One US-based senior executive at a large consultancy told it that nobody formally mandates AI, reviews reward the people who use it well anyway, and leadership is “inconsistent and vague on purpose.” Same gap as above: the standard moves at the employer's discretion, and the review stays vague about it. https://preview.redd.it/xsbee223eoqh1.jpg?width=1024&format=pjpg&auto=webp&s=86ffa939d19733078c4e77d5c19d465a842b2a9c Suddenly this passage in Ezekiel 33:7-9 jumps at me unannounced like a thief. The Lord charged the prophet Ezekiel to be a watchtower. He’s commissioned to warned the Children of Israel from drifting into sin. If they fall off the mark, figuratively, and Ezekiel warn them on time, they will die in their sins. And Ezekiel would be absolved of their sins, because he has already done his duty to warm them. But if they sin, and Ezekiel didn’t warn them, and they die in their sins, the Lord would hold Ezekiel accountable for not warning them. The burden that the Lord has laid on Ezekiel, involves judgement and discernment. And such judgement doesn’t give two f\ck to anyone.* He either speak up or he doesn’t. There’s no neutral ground. And he knows the price of not speaking up. It’s the same thing with Jeremiah. When Jeremiah withhold himself from speaking in Jeremiah 20:9 – presumably too much persecutive pressure from his peers – the words became like fire burning up his bones until it was just unbearable. It’s was the same unbearable tension of knowing and not saying. Jeremiah can't not speak, even though speaking destroys him. The silence would destroy something deeper. And so, I imagine it will be somewhat similar in these last days. Your judgement and discernment of what lie ahead becomes increasingly more valuable. ________________________ Talk to enough people this has happened to and I hear one question under all of it: who decides what good looks like now? The ones who stop asking it end up writing the yardstick themselves. Something from an earlier post here comes back to me: Adam Mosseri, Head of Instagram, telling Lenny's Podcast that engineering went from mostly writing code to mostly planning and reviewing it, a hard read for anyone whose plan was flawless execution. If a rubric ever changed on you, when did you find out, and who told you? Clip credit: Silicon Valley Girl (Marina Mogilko) — full video on their channel. DM for credit or removal requests.
 
-8h ago
+10h ago
 
 ---
 
 **[The EPA’s Dark Embrace of the AI Industry](https://www.reddit.com/r/artificial/comments/1wls66t/the_epas_dark_embrace_of_the_ai_industry/)**
 
-🔗 [prospect.org](https://prospect.org/2026/09/14/environmental-protection-agency-epa-trump-embrace-ai-industry-elon-musk/) • 47m ago
+🔗 [prospect.org](https://prospect.org/2026/09/14/environmental-protection-agency-epa-trump-embrace-ai-industry-elon-musk/) • 2h ago
 
 ---
 
@@ -95,23 +111,7 @@ TL;DR: Shishir Mehrotra's four-level promotion ladder swaps what you're graded o
 
 Hello! Hope everyone’s weekend is going well. I’ve been using Ai for chatbots for close to two and a half years. I’ve tried Grok, Deepseek, and Minimax. I’ve used Janitorai mainly. I know that coders and roleplayers argue sometimes (I’ve seen it on the Deepseek forum). I’ve seen a lot of discussion about Ai models and companies making newer models that are more focused on coding rather than chatbot usage or creative writing. I feel like this is mainly due to companies loosing money on Ai and in turn trying to minimize what to train it on. I’ve also seen models become more expensive. I find it a little sad that there may be a possibility that in the future Ai won’t be as good with creative writing as it could be. I liked roleplaying stories and or self inserting myself into shows I liked however cringy it might be. I was wondering if anyone felt differently and liked this change or doesn’t. Maybe some have mixed feelings. I find it odd that a company hasn’t tried to just make a chatbot LLM yet. Just food for thought.
 
-58m ago
-
----
-
-**[Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal](https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/)**
-
-Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/) • 1d ago
-
----
-
-**[HUMAIN's Horizon Ultra AI PC enters enterprise availability](https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/)**
-
-Qualcomm says HUMAIN's Horizon Ultra AI PC is available for enterprise purchase from September 20. The Windows-first machine uses Qualcomm's Snapdragon X2 Elite with an 18-core Oryon CPU, Adreno GPU, and Hexagon NPU. The design is meant to run selected AI workloads locally and send larger jobs to the cloud when needed. That split is the useful part for businesses. Local processing can keep some sensitive data on the device and reduce dependence on a network. HUMAIN OS is planned for 2027, so the first enterprise version is a Windows PC with an on-device AI pitch, not a new operating system. Source: https://www.qualcomm.com/news/releases/2026/08/qualcomm-and-humain-unveil-horizon-ultra-ai-pc-at-leap-2026--bringing-ai-directly-to-the-device
-
-1h ago
+2h ago
 
 ---
 
@@ -119,31 +119,31 @@ Qualcomm says HUMAIN's Horizon Ultra AI PC is available for enterprise purchase 
 
 ## Google News: "ai"
 
-**[In China, A.I. Is Moving Forward While the Economy Lags Behind](https://www.nytimes.com/2026/09/20/business/china-ai-economy.html)**
+**[China’s A.I. Makes a Great Leap Forward. But Its Economy Is Falling Behind.](https://www.nytimes.com/2026/09/20/business/china-ai-economy.html)**
 
-The New York Times • 12h ago
-
----
-
-**[Trump says US will form 'AI Force' and appoint an artificial intelligence tsar](https://www.bbc.com/news/articles/cqlykr2vrv04o)**
-
-The president said his administration "will not in any way hinder or stifle the growth" amid amid warnings about the emergent technology.
-
-BBC • 1d ago
+The New York Times • 14h ago
 
 ---
 
-**[AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous](https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street)**
+**[A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’](https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html)**
 
-Bloomberg.com • 24m ago
+The New York Times • 23h ago
 
 ---
 
-**[World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/)**
+**[Opposition to AI data centers is ‘organic’: Americans for Responsible Innovation president](https://www.foxnews.com/video/6405341386112)**
 
-Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.
+Americans for Responsible Innovation president Brad Carson discusses local opposition to artificial intelligence data centers and environmental concerns surrounding their construction on ‘Fox Report.’
 
-TechCrunch • 55m ago
+Fox News • 41m ago
+
+---
+
+**[What does global leadership on AI look like?](https://www.npr.org/2026/09/20/nx-s1-5975512/what-does-global-leadership-on-ai-look-like)**
+
+President Trump and Xi Jinping will meet in Washington, D.C. this week as both sides look to gain an advantage in artificial intelligence development and face a reckoning on the risks of AI. In this moment, what does global leadership in AI look like?Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.This episode was produced by Daniel Ofman and Henry Larson. Our director is Jason Fuller.It was edited by Sarah Robbins.Our interim executive producer is Courtney Dorning.
+
+NPR • 1h ago
 
 ---
 
@@ -151,15 +151,13 @@ TechCrunch • 55m ago
 
 A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.
 
-CNN • 20h ago
+CNN • 22h ago
 
 ---
 
-**[WATCH: Exclusive look at blue-collar workforce fueling America’s AI boom](https://www.foxnews.com/politics/watch-exclusive-look-blue-collar-workforce-fueling-americas-ai-boom)**
+**[Burned Out and Unemployed, Young People in China Are Launching AI Startups](https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3)**
 
-The American Workforce Academy represents a $115 million workforce development investment training skilled trades workers to build AI data centers.
-
-Fox News • 10h ago
+WSJ • 20h ago
 
 ---
 
@@ -171,17 +169,11 @@ Fortune • 1d ago
 
 ---
 
-**[Burned Out and Unemployed, Young People in China Are Launching AI Startups](https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3)**
-
-WSJ • 18h ago
-
----
-
 **[Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate](https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html)**
 
 Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.
 
-cnbc.com • 10h ago
+CNBC • 12h ago
 
 ---
 
@@ -189,7 +181,15 @@ cnbc.com • 10h ago
 
 Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News.
 
-CBS News • 7h ago
+CBS News • 9h ago
+
+---
+
+**[Zoom’s CEO agrees with Bill Gates, Jensen Huang, and Jamie Dimon: A 3-day workweek is coming soon thanks to AI](https://fortune.com/article/zoom-ceo-eric-yuan-agrees-with-bill-gates-jensen-huang-jamie-dimon-3-day-workweek-coming-soon/)**
+
+Zoom leader Eric Yuan admitted the technology will erase some human jobs—but those who keep their jobs will enjoy fewer working days.
+
+Fortune • 9h ago
 
 ---
 
@@ -201,7 +201,7 @@ CBS News • 7h ago
 
 The problem
 
-⬆️ 1759 • 💬 905 • 1d ago • [‘ERE I AM - JH!](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+⬆️ 1769 • 💬 909 • 1d ago • [‘ERE I AM - JH!](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 
 ---
 
@@ -209,7 +209,7 @@ The problem
 
 Newly unsealed court filings show Microsoft privately called OpenAI's data practices "theft" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.
 
-⬆️ 934 • 💬 823 • 2d ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+⬆️ 935 • 💬 823 • 2d ago • [TechCrunch](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 
 ---
 
@@ -217,19 +217,19 @@ Newly unsealed court filings show Microsoft privately called OpenAI's data pract
 
 The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war
 
-⬆️ 510 • 💬 388 • 2d ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
+⬆️ 511 • 💬 388 • 2d ago • [CNN](https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship)
 
 ---
 
 **[I think you should almost never use AI to write](https://news.ycombinator.com/item?id=49767937)**
 
-⬆️ 337 • 💬 164 • 1d ago • [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
+⬆️ 339 • 💬 165 • 1d ago • [erichgrunewald.substack.com](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai)
 
 ---
 
 **[AI and the Destruction of the Creative Commons](https://news.ycombinator.com/item?id=49774329)**
 
-⬆️ 215 • 💬 261 • 11h ago • [chesterwisniewski.com](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
+⬆️ 220 • 💬 263 • 13h ago • [chesterwisniewski.com](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
 
 ---
 
@@ -243,13 +243,13 @@ The NYT argues that OpenAI and Microsoft infringed upon its copyright over thous
 
 **[Alibaba open-sources AI model that can detect cancer and nearly 150 conditions](https://news.ycombinator.com/item?id=49761840)**
 
-⬆️ 150 • 💬 22 • 1d ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
+⬆️ 151 • 💬 22 • 1d ago • [scmp.com](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions)
 
 ---
 
 **[AI chatbots are becoming experts at changing people's minds](https://news.ycombinator.com/item?id=49754250)**
 
-⬆️ 132 • 💬 101 • 2d ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
+⬆️ 133 • 💬 101 • 2d ago • [science.org](https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret)
 
 ---
 
@@ -263,7 +263,7 @@ The NYT argues that OpenAI and Microsoft infringed upon its copyright over thous
 
 Trust your eyes, build a streak, and beat your score in 60 seconds.
 
-⬆️ 103 • 💬 78 • 22h ago • [Slop Sense](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
+⬆️ 103 • 💬 78 • 1d ago • [Slop Sense](https://slop-sense.labtoagi.com/games/is-this-image-ai/)
 
 ---
 
@@ -277,7 +277,7 @@ In this web exclusive, Nvidia CEO Jensen Huang talks with CBS News' Jo Ling Kent
 
 📺 CBS Sunday Morning
 
-👁️ 72K • 👍 1K • 💬 434 • ⏱️ 46:19 • 7h ago
+👁️ 72K • 👍 1K • 💬 434 • ⏱️ 46:19 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Learn more about Agentic AI here → https://ibm.biz/~u8DMP3DGF Super agents can
 
 📺 IBM Technology
 
-👁️ 25K • 👍 215 • 💬 30 • ⏱️ 11:26 • 10h ago
+👁️ 25K • 👍 215 • 💬 30 • ⏱️ 11:26 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ JEV is a new kind of AI built by a ChatGPT inventor, delivering machine-native d
 
 📺 AI Revolution
 
-👁️ 56K • 👍 923 • 💬 61 • ⏱️ 14:41 • 22h ago
+👁️ 56K • 👍 923 • 💬 61 • ⏱️ 14:41 • 1d ago
 
 ---
 
@@ -337,7 +337,7 @@ Nvidia CEO Jensen Huang has publicly come out against a coordinated slowdown bet
 
 📺 CBS News
 
-👁️ 145K • 👍 955 • 💬 725 • ⏱️ 6:40 • 1d ago
+👁️ 145K • 👍 955 • 💬 725 • ⏱️ 6:40 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ President Donald Trump is rejecting calls for new AI restrictions while announci
 
 📺 ABC News
 
-👁️ 82K • 👍 232 • 💬 211 • ⏱️ 1:29 • 6h ago
+👁️ 82K • 👍 232 • 💬 211 • ⏱️ 1:29 • 8h ago
 
 ---
 
@@ -395,7 +395,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 1,024 • 19h ago
+⬇️ 0 • ❤️ 1,024 • 21h ago
 
 ---
 
@@ -431,7 +431,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 183 • ❤️ 655 • 11h ago
+⬇️ 183 • ❤️ 655 • 13h ago
 
 ---
 
@@ -650,7 +650,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 181 • 4m ago
+⭐ 2.7k • 🔱 181 • 2h ago
 
 ---
 
@@ -660,7 +660,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 100 • 7h ago
+⭐ 2.5k • 🔱 100 • 9h ago
 
 ---
 
@@ -670,7 +670,7 @@ An agent-first linter for Tailwind design systems. Write design system rules tha
 
 `TypeScript` `agents` `ai` `design` `design-system` `design-tools`
 
-⭐ 2.2k • 🔱 41 • 2h ago
+⭐ 2.2k • 🔱 41 • 4h ago
 
 ---
 
@@ -680,7 +680,7 @@ My AI learning system.
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 223 • 25d ago
+⭐ 2.2k • 🔱 223 • 26d ago
 
 ---
 
@@ -710,7 +710,7 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 `Python`
 
-⭐ 1.5k • 🔱 122 • 12h ago
+⭐ 1.5k • 🔱 122 • 14h ago
 
 ---
 

@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
       "pub_date": 1789712275.0,
@@ -25,6 +25,16 @@
       "description": "Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million."
     },
     {
+      "headline": "Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O\u2019Leary Says Ethereum May No Longer Rule",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdm56YXVsa1Zoa01idjE5X29qbXhOaDNqNllFTzdpcVFJa2czMHBIZVJvc0NvSk9sZk9hOHBaZnBWSFF3bjBONW9BMlVYWWNad3pyQVVrNUhRTi0td2h2T0JBUUFpNlJsNlhac3BpRnFsU0c3d2tpVkl0ZEhndXhsMDRyV1A1aUk2WEtsclVqeEgyNC1sYUdXX21nbkY?oc=5",
+      "pub_date": 1789919982.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/bb5170a248e2036d3213021b1125a175816e1fc7a2b23af58f8fdbf5f8807fd3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2Faaedc71c4e6c0ee88d07d33df3bbd3d7",
+      "description": "Kevin O\u2019Leary said he no longer expected Ethereum to become the main blockchain for crypto."
+    },
+    {
       "headline": "Ethereum Price Analysis: Can ETH Hit $3,000 as it Hovers Below Key Level",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -33,26 +43,6 @@
       "article_url": "https://www.tradingview.com/news/99Bitcoins:8436dcd2f094b:0-ethereum-price-analysis-can-eth-hit-3-000-as-it-hovers-below-key-level/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum\u2019s decline from its October 2025 peak of\u2026"
-    },
-    {
-      "headline": "Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2ZmdE9INldKWElVVzZvVUhKZXQ5UktieXZpVFdqX3g2VHNXT0hOX2otb215REFfX0tTOFdKajJmNHlpSEFCSjNWcnM1MjJ1ajZDRWFIRDNuY0tXYkp0UTYzcTVrakdCZ1JVZTN1SEFwaFhnR25MczhYTlhSbFNLS2tXNkZrNGprTWNfRTlRRQ?oc=5",
-      "pub_date": 1789662896.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4d0a38d3d4bb3dfc67dd5865c79c0d041a51a0d1a946fb5f9a92ec85b8eeb1dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F472fa506025f53c325529da830e30b7c.jpg",
-      "description": "Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on."
-    },
-    {
-      "headline": "7 Altcoins Explode: Kevin O\u2019Leary Says Ethereum May No Longer Rule",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2RhNFpmcnBSbFBnNFpCRG9FYnVNaTlzbDZhSmstZFgxUUFsaUNTUUQyaXRsM1lwdFhVQ0xZbW9faHpMYzhLQ0ZHSFdNTVFCa0xWMUxwb2NWUXFYcXJMT3MydDk0Y0s0cFhVTm5LQjBBYW1ZWHA3UUVLanFYa3RZM1djcWVWMG03Yy1weWJ4UW8zQUNTdlFvNDhOeFJnS2tRY2wtU2ZzS3RHWmZCWkhGOGRTRkpMb0lZNnc?oc=5",
-      "pub_date": 1789920179.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R",
-      "image": "https://news.stocktwits-cdn.com/large_Getty_Images_1367001414_jpg_9d5a3efeae.webp",
-      "description": "Kevin O\u2019Leary said he no longer expected Ethereum to become the main blockchain for crypto."
     },
     {
       "headline": "New Crypto: Remittix Builds Toward Its Global Payments Launch as Ethereum Price Prediction Targets $6,000",
@@ -65,14 +55,24 @@
       "description": "MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys..."
     },
     {
-      "headline": "Is This Cryptocurrency Still a Millionaire Maker?",
+      "headline": "Why Ethereum Jumped 5.8% Today",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPai1mSjVwTzRrcWgxQkxsZ3B2c0dZTEpRbF9MdmVueEFPN2N1SFhfLVdMN1dJbG0xell4RS1oS045cVVYWk9DTlJMeW1SSzhEaThmd2NUNEJxemJEQ1pXek9DQ3d1OWJURTZ4TGxYZHdTa2hOS19XNjN3QjNpLUF1R094S1owX01HMW11cVZQRzlOR0wyQ0E?oc=5",
-      "pub_date": 1789924771.0,
-      "article_url": "https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885486%2Fcrypto-currency-ethereum-eth.jpg&w=1200&op=resize",
-      "description": "Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it."
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UFJ3TktLNURtQzdRaFhWS1pRaGZXNUV0OWNUb0s1cmZJMk9DZDQ0M0JqVjhfUF82TWtnS3dOXzRHMmV5Ykl4TGh2UWY2bmRkNzJwaVpVLXA2UmN1VktyeC11eHo2UGdjemRpbXdNQzBnM1VPZ2FpeXBGSQ?oc=5",
+      "pub_date": 1789761600.0,
+      "article_url": "https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888313%2Feth-ethereum-logo-grey.png&w=1200&op=resize",
+      "description": "Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped."
+    },
+    {
+      "headline": "Is This Cryptocurrency Still a Millionaire Maker?",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVlVMMk1wUDlsSElCZGI4bkNMVFNYc2pPMlZzMTNtSDFVdU5QYV9jc0pNQ1MwNDhvSThJd3oxMV92dDJkQnFXRzhQb2FnblFXT3M2ekVpNkx6eTlUenVwSUFKX3VoYWdVV0hyeGxlSzJkcXdEWHd5enNVZ2RPM2d3YXRPLVZDU3B1NWtsVzJIb0ZpaUdiT0tHSjJ4TFY0U3hyZkF5NmRWRXlMRWgzYUVsa1lxd1FLcTVoQVZNMzl3dHdSSFIzaWtWVGExbUtLZw?oc=5",
+      "pub_date": 1789924900.0,
+      "article_url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4701979/is-this-cryptocurrency-still-a-millionaire-maker/",
+      "image": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=959",
+      "description": "Detailed price information for Nvidia Corp (NVDA-Q) from The Globe and Mail including charting and trades."
     },
     {
       "headline": "Solana vs Ethereum: Who Is Winning the On-Chain Race?",
@@ -95,16 +95,16 @@
       "description": "Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model\u2019s control."
     },
     {
-      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
-      "source": "financemagnates.com",
-      "source_url": "https://www.financemagnates.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1RRMndWQUptTThQRjBjb1VxUVJwbnJKYkJlVUVHbGNVSEUtbEJ2bVhScUZxVzFBbG1kMHdyeENVS01iclpTUGRxNHcwTkdienJjU1RTUE1WRVFHMThwSHlDd2JfdHVSSmNranJ5UUoycmJ0cGlqZGlhSWlPMGM4eWctaVJQVl9aaTREeGNCY2VkVllVbEFtaThUY2RkMzFrN0htWlhvTHBvWlg4aU1NLWtaU2ZvRTZpc2FMR08xRjgxanc?oc=5",
-      "pub_date": 1789755997.0,
-      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
-      "image": "https://images.financemagnates.com/images/Cryptocurrency%20on%20Binance%20trading%20app%2C%20Bitcoin%20BTC%20with%20BNB%2C%20Ethereum%2C%20Dogecoin%2C%20Cardano%2C%20Litcoin_id_96eb97fa-195f-4739-bebb-51ebbbc7726f_size900.jpg",
-      "description": "Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run."
+      "headline": "Ethereum supply tightens as ETH price reclaims $2,500 \u2013 What\u2019s next?",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWU5ncUJzaUJrWHc3QW1kZnZtc19kVEJDV3RKaVlXT25Od0JvRWNybHE4RXpRRHdJTGw2QmlhcThsM0ZqaVRLNUV0SzhpU2I0T29QWVNCNmFFdmhIOXVCMGF1TV83NTlIV0RMbHctaUpaTEY5WU9kelBDSlU0cjhndHhJR1RsVXBUdHpIdk13?oc=5",
+      "pub_date": 1789923625.0,
+      "article_url": "https://ambcrypto.com/ethereum-supply-tightens-as-eth-price-reclaims-2500-whats-next/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2026/09/Lazaro-2026-09-20T102149.639-e1789896536130.jpg",
+      "description": "Ethereum\u2019s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T21:24:31.799255+00:00"
+  "fetched_at": "2026-09-20T23:21:47.665670+00:00"
 }
