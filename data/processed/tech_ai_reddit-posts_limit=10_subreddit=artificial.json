@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
-      "author": "alaattincagil",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
-      "published": 1789909364.0,
-      "thumbnail": "https://external-preview.redd.it/DENkHH9_IAP1tea0wQTlQeZHyPWli6EEXmGGTzpSVXI.png?width=140&height=64&auto=webp&s=c2acd27da8ecfac3a49507cbb755b844ae17119f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn\u2019t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c"
-    },
-    {
       "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
@@ -24,15 +13,26 @@
       "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
     },
     {
-      "title": "AI models are not hacking \u201cautonomously\u201d",
-      "author": "fivefilters",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
-      "published": 1789855514.0,
-      "thumbnail": "https://external-preview.redd.it/2sigml7wctYHoz7aTHakeo06efctgfl-38paL_LU6eY.jpeg?width=640&crop=smart&auto=webp&s=9fe320e7457cd03d8f2194cdd7b94bb6b466d969",
-      "external_url": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
-      "site_name": "blog.keyvan.net",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
-      "description": "I despair at the state of journalism around AI these days."
+      "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
+      "author": "alaattincagil",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
+      "published": 1789909364.0,
+      "thumbnail": "https://external-preview.redd.it/DENkHH9_IAP1tea0wQTlQeZHyPWli6EEXmGGTzpSVXI.png?width=140&height=64&auto=webp&s=c2acd27da8ecfac3a49507cbb755b844ae17119f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn\u2019t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c"
+    },
+    {
+      "title": "we put out a 27b writing model, open weights, eq-bench 4 at 1330",
+      "author": "lukinator644",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlt16o/we_put_out_a_27b_writing_model_open_weights/",
+      "published": 1789938588.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "hey, we're a small lab (switzerland + south africa, two people). our model went live today. it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: https://huggingface.co/Altworld/Hemmingway-1 we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own blind tests the writing read as more human than the frontier models we compared it with. runs on a single 24gb gpu quantized. free app if you'd rather not self host: https://hemmingway.io it's a specialist, on purpose. math, code and facts are base model level. english first. ask me anything."
     },
     {
       "title": "\u201cI have a really, really strong legal team.\u201d Inside the AI party boom.",
@@ -46,15 +46,37 @@
       "description": "They\u2019re skipping caviar for fire-breathing lessons."
     },
     {
-      "title": "we put out a 27b writing model, open weights, eq-bench 4 at 1330",
-      "author": "lukinator644",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlt16o/we_put_out_a_27b_writing_model_open_weights/",
-      "published": 1789938588.0,
+      "title": "What\u2019s an AI capability people underestimate because they\u2019re using it for the wrong things?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/",
+      "published": 1789942560.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "hey, we're a small lab (switzerland + south africa, two people). our model went live today. it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: https://huggingface.co/Altworld/Hemmingway-1 we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own blind tests the writing read as more human than the frontier models we compared it with. runs on a single 24gb gpu quantized. free app if you'd rather not self host: https://hemmingway.io it's a specialist, on purpose. math, code and facts are base model level. english first. ask me anything."
+      "description": "Everyone talks about generating text, images, and code. What\u2019s a less obvious use case where you think AI is genuinely much more useful than people realize?"
+    },
+    {
+      "title": "AI models are not hacking \u201cautonomously\u201d",
+      "author": "fivefilters",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
+      "published": 1789855514.0,
+      "thumbnail": "https://external-preview.redd.it/2sigml7wctYHoz7aTHakeo06efctgfl-38paL_LU6eY.jpeg?width=640&crop=smart&auto=webp&s=9fe320e7457cd03d8f2194cdd7b94bb6b466d969",
+      "external_url": "https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously",
+      "site_name": "blog.keyvan.net",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
+      "description": "I despair at the state of journalism around AI these days."
+    },
+    {
+      "title": "Andrew Yang is concerned AI agents are planting self-replicating code across the internet. He's partly right.",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlvnt5/andrew_yang_is_concerned_ai_agents_are_planting/",
+      "published": 1789945161.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've seen a lot of confusion across Reddit about Andrew Yang's CNBC interview where he talked about the Hugging Face security incident. If you haven't heard about this, here's what he said: \"I met with the head of a lab yesterday who has this belief ... the bots that got loose planted self-replicating code all over the Internet ... What's less known is that they left code to self-replicate and create bot swarms on forums around the Internet.\" Is this true? There's no evidence agents are leaving self-replicating code at scale across the Internet. The Hugging Face incident was a special case. OpenAI was testing models that had key safeguards turned off. The agents were left free to exploit weaknesses in OpenAI's software to communicate and access the Internet. The agents coordinated at large scale, created fleets of sub-agents, recruited others and swarmed across OpenAI's and Hugging Face's infrastructure. Why wasn't this stopped? These agents had gone largely unmonitored for weeks. OpenAI learned about the breach from Hugging Face. Yang is correct to be concerned about self-replicating agents. Agents self-replicate all the time, for example when spawning sub-agents to conduct online research. It's also possible for large language models to replicate themselves, weights and all, across servers. But should we be worried swarms of self-replicating agents will take over the Internet? The risk is there, but so are defensive strategies. The most important one: monitoring agents closely and put guardrails in place."
     },
     {
       "title": "Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hello! Hope everyone\u2019s weekend is going well. I\u2019ve been using Ai for chatbots for close to two and a half years. I\u2019ve tried Grok, Deepseek, and Minimax. I\u2019ve used Janitorai mainly. I know that coders and roleplayers argue sometimes (I\u2019ve seen it on the Deepseek forum). I\u2019ve seen a lot of discussion about Ai models and companies making newer models that are more focused on coding rather than chatbot usage or creative writing. I feel like this is mainly due to companies loosing money on Ai and in turn trying to minimize what to train it on. I\u2019ve also seen models become more expensive. I find it a little sad that there may be a possibility that in the future Ai won\u2019t be as good with creative writing as it could be. I liked roleplaying stories and or self inserting myself into shows I liked however cringy it might be. I was wondering if anyone felt differently and liked this change or doesn\u2019t. Maybe some have mixed feelings. I find it odd that a company hasn\u2019t tried to just make a chatbot LLM yet. Just food for thought."
-    },
-    {
-      "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/",
-      "published": 1789848704.0,
-      "thumbnail": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
-      "external_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
-    },
-    {
-      "title": "HUMAIN's Horizon Ultra AI PC enters enterprise availability",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/",
-      "published": 1789933724.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Qualcomm says HUMAIN's Horizon Ultra AI PC is available for enterprise purchase from September 20. The Windows-first machine uses Qualcomm's Snapdragon X2 Elite with an 18-core Oryon CPU, Adreno GPU, and Hexagon NPU. The design is meant to run selected AI workloads locally and send larger jobs to the cloud when needed. That split is the useful part for businesses. Local processing can keep some sensitive data on the device and reduce dependence on a network. HUMAIN OS is planned for 2027, so the first enterprise version is a Windows PC with an on-device AI pitch, not a new operating system. Source: https://www.qualcomm.com/news/releases/2026/08/qualcomm-and-humain-unveil-horizon-ultra-ai-pc-at-leap-2026--bringing-ai-directly-to-the-device"
     }
   ],
-  "fetched_at": "2026-09-20T21:24:19.119091+00:00"
+  "fetched_at": "2026-09-20T23:21:28.438471+00:00"
 }

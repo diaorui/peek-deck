@@ -115,9 +115,23 @@
       "description": "Eleuteria \u2014 independent RoboSats coordinator for private peer-to-peer Bitcoin trading.",
       "favicon": "https://eleuteria-robosat.github.io/favicon.ico",
       "site_name": "eleuteria-robosat.github.io"
+    },
+    {
+      "title": "The viewers ditching streaming 'rot' in favour of DVDs",
+      "url": "https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds",
+      "hn_url": "https://news.ycombinator.com/item?id=49781110",
+      "author": "billybuckwheat",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-09-20T23:14:35Z",
+      "object_id": "49781110",
+      "image": "https://media.rnztools.nz/rnz/image/upload/s--JnD5p8gX--/t_tohu-badge-facebook/f_auto/q_auto/4JJ1CMF_260831_Aro_St_Video_Shop_3_jpg",
+      "description": "A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons \u201cwe\u2019re starting to realise the rot of it\u201d.",
+      "favicon": "https://www.rnz.co.nz/_next/static/media/apple-touch-icon.3fb10969.png",
+      "site_name": "RNZ"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-09-20T21:24:14.004372+00:00"
+  "fetched_at": "2026-09-20T23:21:31.154228+00:00"
 }
