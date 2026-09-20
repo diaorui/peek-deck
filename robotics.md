@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T21:24:35.227004+00:00'
+updated: '2026-09-20T23:21:56.592907+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 21:24 UTC  
+**Last Updated:** September 20, 2026 at 23:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,19 +112,33 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
+
+Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
+
+futurism.com • 8h ago
+
+---
+
+**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
+
+Humanoid Robots Break Records In Beijing has 16 comments.
+
+DOGO News • 2d ago
+
+---
+
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+
+Bloomberg.com • 2d ago
+
+---
+
 **[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
 Business Insider • 2d ago
-
----
-
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
-
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
-
-BBC • 2d ago
 
 ---
 
@@ -142,33 +156,11 @@ The Robot Report • 2d ago
 
 ---
 
-**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
 
-Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
 
-abc.net.au • 19h ago
-
----
-
-**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
-
-Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
-
-Futurism • 6h ago
-
----
-
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
-
-Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
-
-CnEVPost • 12h ago
+BBC • 3d ago
 
 ---
 
@@ -180,11 +172,17 @@ Fox News • 1d ago
 
 ---
 
-**[Toyota plans to deploy 400,000 factory robots from 2028](https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/)**
+**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
 
-Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett
+Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
 
-Automotive World • 2d ago
+ABC News & Headlines – Australian Broadcasting Corporation • 21h ago
+
+---
+
+**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
+
+The BayNet • 13h ago
 
 ---
 
@@ -218,7 +216,7 @@ War Robots 12.4 Rebalance News Update & Vlog: Big Changes New NEKTON Robot Gamep
 
 📺 Manni-Gaming
 
-👁️ 12K • 👍 527 • 💬 149 • ⏱️ 45:03 • 13h ago
+👁️ 12K • 👍 527 • 💬 149 • ⏱️ 45:03 • 15h ago
 
 ---
 
@@ -258,7 +256,7 @@ New Ultimate Loki & UE Gust Dagon. I dont think anyone saw this coming. We are g
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 230 • 💬 39 • ⏱️ 15:06 • 9h ago
+👁️ 10K • 👍 230 • 💬 39 • ⏱️ 15:06 • 11h ago
 
 ---
 

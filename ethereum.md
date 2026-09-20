@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T21:24:35.223814+00:00'
+updated: '2026-09-20T23:21:56.590050+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 21:24 UTC  
+**Last Updated:** September 20, 2026 at 23:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** +4.2%  
-**30d:** +8.1%  
-**90d:** +57.1%  
-**1y:** -41.0%  
+**24h:** +0.6%  
+**7d:** +5.1%  
+**30d:** +9.1%  
+**90d:** +58.6%  
+**1y:** -40.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-16h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 2d ago
+coindesk.com • 2d ago
 
 ---
 
@@ -168,27 +168,19 @@ BeInCrypto • 1d ago
 
 ---
 
+**[Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule](https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html)**
+
+Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
+
+Yahoo Finance • 7h ago
+
+---
+
 **[Ethereum Price Analysis: Can ETH Hit $3,000 as it Hovers Below Key Level](https://www.tradingview.com/news/99Bitcoins:8436dcd2f094b:0-ethereum-price-analysis-can-eth-hit-3-000-as-it-hovers-below-key-level/)**
 
 As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum’s decline from its October 2025 peak of…
 
-TradingView • 11h ago
-
----
-
-**[Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html)**
-
-Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.
-
-Yahoo Finance • 3d ago
-
----
-
-**[7 Altcoins Explode: Kevin O’Leary Says Ethereum May No Longer Rule](https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R)**
-
-Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
-
-Stocktwits • 5h ago
+TradingView • 13h ago
 
 ---
 
@@ -196,15 +188,23 @@ Stocktwits • 5h ago
 
 MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
-**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/)**
+**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
 
-Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it.
+Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
 
-The Motley Fool • 4h ago
+The Motley Fool • 2d ago
+
+---
+
+**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4701979/is-this-cryptocurrency-still-a-millionaire-maker/)**
+
+Detailed price information for Nvidia Corp (NVDA-Q) from The Globe and Mail including charting and trades.
+
+The Globe and Mail • 6h ago
 
 ---
 
@@ -224,11 +224,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
+**[Ethereum supply tightens as ETH price reclaims $2,500 – What’s next?](https://ambcrypto.com/ethereum-supply-tightens-as-eth-price-reclaims-2500-whats-next/)**
 
-Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
+Ethereum’s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500.
 
-financemagnates.com • 2d ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 432 • 💬 51 • ⏱️ 1:12 • 9h ago
+👁️ 17K • 👍 432 • 💬 51 • ⏱️ 1:12 • 11h ago
 
 ---
 
@@ -252,7 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 179 • 💬 9 • ⏱️ 19:53 • 5h ago
+👁️ 3K • 👍 179 • 💬 9 • ⏱️ 19:53 • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 22h ago
+👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 25K • 👍 529 • 💬 135 • ⏱️ 20:15 • 19h ago
+👁️ 25K • 👍 529 • 💬 135 • ⏱️ 20:15 • 21h ago
 
 ---
 
@@ -282,7 +282,7 @@ Kevin O'Leary joins us in NYC for an interview about his allocation and views on
 
 📺 The Rollup
 
-👁️ 12K • 👍 196 • 💬 121 • ⏱️ 13:26 • 22h ago
+👁️ 12K • 👍 196 • 💬 121 • ⏱️ 13:26 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:53 • 11h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:53 • 13h ago
 
 ---
 
@@ -302,7 +302,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 2K • 👍 69 • ⏱️ 7:46 • 6h ago
+👁️ 2K • 👍 69 • ⏱️ 7:46 • 8h ago
 
 ---
 
@@ -312,7 +312,7 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 2d ago
+👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 3d ago
 
 ---
 
