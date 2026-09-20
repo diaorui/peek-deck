@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T12:04:08.456118+00:00'
+updated: '2026-09-20T16:23:09.404788+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 12:04 UTC  
+**Last Updated:** September 20, 2026 at 16:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
 
-6d ago
+7d ago
 
 ---
 
@@ -66,7 +66,7 @@ https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot tha
 
 **[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 5d ago
+🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 6d ago
 
 ---
 
@@ -104,7 +104,7 @@ I spent a month of my summer back in the university labs building this. Nine uni
 
 I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
 
-6d ago
+7d ago
 
 ---
 
@@ -116,15 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-Business Insider • 2d ago
-
----
-
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
-
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
-
-The Robot Report • 1d ago
+businessinsider.com • 2d ago
 
 ---
 
@@ -136,11 +128,19 @@ BBC • 2d ago
 
 ---
 
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
+
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
+
+The Robot Report • 1d ago
+
+---
+
 **[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
 
 Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
 
-ABC News & Headlines – Australian Broadcasting Corporation • 10h ago
+ABC News & Headlines – Australian Broadcasting Corporation • 14h ago
 
 ---
 
@@ -152,11 +152,19 @@ Fox News • 1d ago
 
 ---
 
+**[Toyota plans to deploy 400,000 factory robots from 2028](https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/)**
+
+Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett
+
+Automotive World • 2d ago
+
+---
+
 **[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
 
 Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
 
-IEEE Spectrum • 1h ago
+IEEE Spectrum • 6h ago
 
 ---
 
@@ -166,19 +174,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[US rare earth push gains quantum-powered molecule discovery project](https://interestingengineering.com/ai-robotics/quantum-tech-rare-earth-supply-chain)**
+**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
 
-The US will combine quantum machine learning & mineral-processing to discover more effective molecules for separating rare earth elements.
+Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
 
-Interesting Engineering • 19h ago
-
----
-
-**[Toyota to deploy 400,000 robots to work alongside factory staff](https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff)**
-
-Includes humanoids that learn from employees and train new workers
-
-Nikkei Asia • 2d ago
+Futurism • 1h ago
 
 ---
 
@@ -194,23 +194,33 @@ Yahoo • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 52K • 👍 422 • 💬 50 • ⏱️ 18:12 • 6d ago
+
+---
+
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+
+📺 ejunky66
+
+👁️ 440K • 👍 5K • 💬 610 • ⏱️ 1:00 • 3d ago
+
+---
+
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
 AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
 📺 MindSeeded
 
-👁️ 728K • 👍 11K • 💬 1K • ⏱️ 16:24 • 2d ago
-
----
-
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 135K • 👍 1K • 💬 113 • ⏱️ 2:20 • 5d ago
+👁️ 744K • 👍 11K • 💬 1K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -220,7 +230,27 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 242 • 💬 25 • ⏱️ 57:02 • 5d ago
+👁️ 12K • 👍 244 • 💬 25 • ⏱️ 57:02 • 5d ago
+
+---
+
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+
+📺 Reward AI
+
+👁️ 138K • 👍 1K • 💬 114 • ⏱️ 2:20 • 5d ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 612 • 👍 12 • 💬 2 • ⏱️ 1:00 • 1h ago
 
 ---
 
@@ -230,37 +260,7 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 73K • 👍 287 • 💬 51 • ⏱️ 9:44 • 4d ago
-
----
-
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
-
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
-
-📺 Future Core
-
-👁️ 184K • 👍 717 • 💬 43 • ⏱️ 9:07 • 4d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 51K • 👍 419 • 💬 50 • ⏱️ 18:12 • 6d ago
-
----
-
-**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
-
-One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
-
-📺 UBTECH Robotics
-
-👁️ 127K • 👍 1K • 💬 380 • ⏱️ 1:04 • 5d ago
+👁️ 73K • 👍 287 • 💬 51 • ⏱️ 9:44 • 5d ago
 
 ---
 
@@ -274,23 +274,21 @@ China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one
 
 ---
 
-**[NEW Nekton Spider Robot Is Here... INFINITE Shield Ability + NEW Mesmer Weapons | War Robots](https://www.youtube.com/watch?v=ZDAjuhIRxpU)**
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
 
-Use My Link For The WR Store https://wr.my.games/PREDATORWR New Spider Nekton robot. We have alot of new gear on the ...
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
 
-📺 PREDATOR WR
+📺 Future Core
 
-👁️ 20K • 👍 366 • 💬 137 • ⏱️ 15:58 • 23h ago
+👁️ 185K • 👍 719 • 💬 43 • ⏱️ 9:07 • 5d ago
 
 ---
 
-**[eufy Robot Vacuum E35 vs S2 - I Tested Them Head-to-Head!](https://www.youtube.com/watch?v=LxqJDi3a7YY)**
+**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
 
-I tested the eufy Omni E35 against the flagship S2 in real-world cleaning tests, including mopping, carpet debris, long hair and ...
+📺 Prasadtechshorts
 
-📺 The Q
-
-👁️ 97K • 👍 3K • 💬 146 • ⏱️ 5:56 • 1d ago
+👁️ 195K • 👍 6K • 💬 76 • ⏱️ 0:37 • 1d ago
 
 ---
 

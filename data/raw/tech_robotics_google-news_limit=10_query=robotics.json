@@ -6,23 +6,13 @@
   "articles": [
     {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
-      "source": "Business Insider",
+      "source": "businessinsider.com",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
       "pub_date": 1789722000.0,
       "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
       "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
       "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
-    },
-    {
-      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
-      "pub_date": 1789754930.0,
-      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
-      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
     },
     {
       "headline": "Robotics: Firms race to improve robot training systems",
@@ -35,11 +25,21 @@
       "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
+      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
+      "pub_date": 1789754930.0,
+      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
+      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+    },
+    {
       "headline": "Meet the gig workers helping train robots to do our dishes",
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "source_url": "https://www.abc.net.au",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWtkSTd0MVR2MnVLVlFOamJwcVNkZ3l4dnJUemJvdWFNWnlCOFliTjBuakhqZWduQ1ZROXc1QzNuRF9OdjBJYnRGcG40YTdSbFl4OVBCTE1nTTVjWjE2VGFHcm5UMzVCNEJNN1lCVC1NdUx0eUFONVdfODZWT0s3cjVwYzZwSnNhYWRNcmNaclctcTFGNEJfb3pIT1lidlMyUTlhd1BlS3ZFNE0?oc=5",
-      "pub_date": 1789868460.0,
+      "pub_date": 1789869007.0,
       "article_url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
       "image": "https://live-production.wcms.abc-cdn.net.au/86908d41edad9e81938e5804bf38c10b?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
@@ -53,6 +53,16 @@
       "article_url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
       "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Coco-Delivery-Photo-3.jpg",
       "description": "A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns."
+    },
+    {
+      "headline": "Toyota plans to deploy 400,000 factory robots from 2028",
+      "source": "Automotive World",
+      "source_url": "https://www.automotiveworld.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEN4NnJVamNVVmxRcVZiT2V3YVZoWVM0YnVIVW9HclVUMUZZUC1rakN4dTdqb2ZOQTRqWUZoZWN4VTFXMjhXMXhJSVNnc0RJa0pBWG5oblBMNHBNbE5wRWhWSFg2RU1QWFVLNlYwN3VHaERYSzVWZUhjNk5LdzFBNkRHVWJtUUhVZ1NWNWJJZDJqcWZvQXRr?oc=5",
+      "pub_date": 1789728770.0,
+      "article_url": "https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/",
+      "image": "https://media.automotiveworld.com/app/uploads/2026/09/18115203/20260331_01_kv_w1920.jpg",
+      "description": "Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett"
     },
     {
       "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
@@ -75,24 +85,14 @@
       "description": null
     },
     {
-      "headline": "US rare earth push gains quantum-powered molecule discovery project",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUlRZG15bk1GdFRkUEJLMXdZaEthZ29aRlpma09ZU0QyakQzaVhLaFN3V0JqQ0p3M2tldnFoMkktZVVDZkhxUFRwcnYxR3o2SGpHTFhtSlFtVElmNkNUQnA2MVFjWFN0OWNzRm90UnBiNlVmUFBucS10NGJmbU01cWgzWGNkUlEzZnNV?oc=5",
-      "pub_date": 1789834260.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/quantum-tech-rare-earth-supply-chain",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Rare-earth-elements.jpg",
-      "description": "The US will combine quantum machine learning & mineral-processing to discover more effective molecules for separating rare earth elements."
-    },
-    {
-      "headline": "Toyota to deploy 400,000 robots to work alongside factory staff",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSVlMOUVnRExUTkxDazVmMno5d1VQVC1rcVFaMk9Hb0JEUm1sdm9McmFucjB2aFR0UFRZekhZbnRBQnlKU0pzdnpMbllVTDc5bzVoMzdHTHozZk9VSUlnWHNGRjlNeTh1bjhMd2xIdk1vdzI3NFBkX2dDaHdCRXFrQU5pYzNhUGl2NnNaM0s1TnA1QzZvWGtDVlhqYU5BRHNJQUNibVVzOUdpZG8?oc=5",
-      "pub_date": 1789664220.0,
-      "article_url": "https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F9%2F1%2F3%2F7%2F13127319-1-eng-GB%2Fadb003772710-20260917N-Toyota-robot.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-      "description": "Includes humanoids that learn from employees and train new workers"
+      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
+      "pub_date": 1789916460.0,
+      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
+      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
     },
     {
       "headline": "US Must Act to Counter China's Combat Robotics Dominance",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T12:04:06.094393+00:00"
+  "fetched_at": "2026-09-20T16:23:02.689498+00:00"
 }
