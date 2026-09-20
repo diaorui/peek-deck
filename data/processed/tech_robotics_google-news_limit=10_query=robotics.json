@@ -5,6 +5,36 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
+      "source": "futurism.com",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
+      "pub_date": 1789916460.0,
+      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
+      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
+    },
+    {
+      "headline": "Humanoid Robots Break Records In Beijing",
+      "source": "DOGO News",
+      "source_url": "https://www.dogonews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLTVxQ05XWDBxSTZQald6aUlMTnlmdW9IOXZlRmpCbUZTWEdUZTZWbmhrbFZNNWxnVlBteWpjSzNwZ1d5SUF1TUt6ank0MFVOSVNrU2RhazVXNVd6Tm16aHdYTk9RdTQ1VGJHbjl4ZkM1M3BEM2FJYlFFOUxLaWR1Sg?oc=5",
+      "pub_date": 1789746513.0,
+      "article_url": "https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing",
+      "image": "https://cdn4.dogonews.com/images/b70a8994-c5c5-412a-8072-ea0aacea1788/w020260815393558879739.png",
+      "description": "Humanoid Robots Break Records In Beijing has 16 comments."
+    },
+    {
+      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
+      "pub_date": 1789722230.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -13,16 +43,6 @@
       "article_url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
       "image": "https://i.insider.com/6aac798d4a3706ac06f84898?width=1200&format=jpeg",
       "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
-    },
-    {
-      "headline": "Robotics: Firms race to improve robot training systems",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
-      "pub_date": 1789686047.0,
-      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
       "headline": "Open-source benchmark tests whether AI agents can engineer working robots",
@@ -45,44 +65,14 @@
       "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
     },
     {
-      "headline": "Meet the gig workers helping train robots to do our dishes",
-      "source": "abc.net.au",
-      "source_url": "https://www.abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWtkSTd0MVR2MnVLVlFOamJwcVNkZ3l4dnJUemJvdWFNWnlCOFliTjBuakhqZWduQ1ZROXc1QzNuRF9OdjBJYnRGcG40YTdSbFl4OVBCTE1nTTVjWjE2VGFHcm5UMzVCNEJNN1lCVC1NdUx0eUFONVdfODZWT0s3cjVwYzZwSnNhYWRNcmNaclctcTFGNEJfb3pIT1lidlMyUTlhd1BlS3ZFNE0?oc=5",
-      "pub_date": 1789868460.0,
-      "article_url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
-      "image": "https://live-production.wcms.abc-cdn.net.au/86908d41edad9e81938e5804bf38c10b?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
-    },
-    {
-      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
-      "pub_date": 1789916460.0,
-      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
-      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
-    },
-    {
-      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
-      "pub_date": 1789722230.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
-      "source": "CnEVPost",
-      "source_url": "https://cnevpost.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
-      "pub_date": 1789893750.0,
-      "article_url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
-      "image": "https://cnevpost.com/wp-content/uploads/2026/09/2026092008401026.jpg",
-      "description": "Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year."
+      "headline": "Robotics: Firms race to improve robot training systems",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
+      "pub_date": 1789686047.0,
+      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
     },
     {
       "headline": "Delivery robots swarm Chicago sidewalk in viral video",
@@ -95,16 +85,26 @@
       "description": "A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns."
     },
     {
-      "headline": "Toyota plans to deploy 400,000 factory robots from 2028",
-      "source": "Automotive World",
-      "source_url": "https://www.automotiveworld.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEN4NnJVamNVVmxRcVZiT2V3YVZoWVM0YnVIVW9HclVUMUZZUC1rakN4dTdqb2ZOQTRqWUZoZWN4VTFXMjhXMXhJSVNnc0RJa0pBWG5oblBMNHBNbE5wRWhWSFg2RU1QWFVLNlYwN3VHaERYSzVWZUhjNk5LdzFBNkRHVWJtUUhVZ1NWNWJJZDJqcWZvQXRr?oc=5",
-      "pub_date": 1789728770.0,
-      "article_url": "https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/",
-      "image": "https://media.automotiveworld.com/app/uploads/2026/09/18115203/20260331_01_kv_w1920.jpg",
-      "description": "Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett"
+      "headline": "Meet the gig workers helping train robots to do our dishes",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "source_url": "https://www.abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWtkSTd0MVR2MnVLVlFOamJwcVNkZ3l4dnJUemJvdWFNWnlCOFliTjBuakhqZWduQ1ZROXc1QzNuRF9OdjBJYnRGcG40YTdSbFl4OVBCTE1nTTVjWjE2VGFHcm5UMzVCNEJNN1lCVC1NdUx0eUFONVdfODZWT0s3cjVwYzZwSnNhYWRNcmNaclctcTFGNEJfb3pIT1lidlMyUTlhd1BlS3ZFNE0?oc=5",
+      "pub_date": 1789868460.0,
+      "article_url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+      "image": "https://live-production.wcms.abc-cdn.net.au/86908d41edad9e81938e5804bf38c10b?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
+    },
+    {
+      "headline": "St. Mary\u2019s County Combat Robotics Team Shines In Manhattan",
+      "source": "The BayNet",
+      "source_url": "https://thebaynet.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3QtZFRZbEhpRXpRZl9MTE1ORGNXR3E1THJqeTZMMlI2Nkx3T3RxRW1QeU9xVGlrb1lhUkZCdlNUTlYyaEJET29aN0ZVWndKWnZyRU4wbDFYTkhncERBNFVZRllQZmJLeFpBQW5feEgyYkMtY2Ixd1lOM0NlazRJalNuc29FWk1RU0p0elFsVVhzdDloSXdwVA?oc=5",
+      "pub_date": 1789898580.0,
+      "article_url": "https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T21:24:33.656731+00:00"
+  "fetched_at": "2026-09-20T23:21:46.180809+00:00"
 }
