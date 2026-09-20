@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
-      "source": "businessinsider.com",
+      "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW1ISV91eVpCT3FKY0FJenpuS3J3b0ZYLUp6QnQzakZBdDQ2TjhrNHNIOGxTdEFqV3RPcS1lLU4yUFNFcmdMdjFmS0h4S2VXZWVPZV92R1kxbUZleWl0NVUyc1dlaS1Yb1VxR0pzUHZtUEVaR1oxUTBpWFpSWTF2QnVUSy1PRmxtbDVBYXM2MU9COGIteXZNYnYtXzRRUXB5WXc?oc=5",
       "pub_date": 1789722000.0,
@@ -39,7 +39,7 @@
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "source_url": "https://www.abc.net.au",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWtkSTd0MVR2MnVLVlFOamJwcVNkZ3l4dnJUemJvdWFNWnlCOFliTjBuakhqZWduQ1ZROXc1QzNuRF9OdjBJYnRGcG40YTdSbFl4OVBCTE1nTTVjWjE2VGFHcm5UMzVCNEJNN1lCVC1NdUx0eUFONVdfODZWT0s3cjVwYzZwSnNhYWRNcmNaclctcTFGNEJfb3pIT1lidlMyUTlhd1BlS3ZFNE0?oc=5",
-      "pub_date": 1789869007.0,
+      "pub_date": 1789868460.0,
       "article_url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
       "image": "https://live-production.wcms.abc-cdn.net.au/86908d41edad9e81938e5804bf38c10b?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
@@ -55,6 +55,16 @@
       "description": "A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns."
     },
     {
+      "headline": "St. Mary\u2019s County Combat Robotics Team Shines In Manhattan",
+      "source": "The BayNet",
+      "source_url": "https://thebaynet.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3QtZFRZbEhpRXpRZl9MTE1ORGNXR3E1THJqeTZMMlI2Nkx3T3RxRW1QeU9xVGlrb1lhUkZCdlNUTlYyaEJET29aN0ZVWndKWnZyRU4wbDFYTkhncERBNFVZRllQZmJLeFpBQW5feEgyYkMtY2Ixd1lOM0NlazRJalNuc29FWk1RU0p0elFsVVhzdDloSXdwVA?oc=5",
+      "pub_date": 1789898580.0,
+      "article_url": "https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Toyota plans to deploy 400,000 factory robots from 2028",
       "source": "Automotive World",
       "source_url": "https://www.automotiveworld.com",
@@ -63,16 +73,6 @@
       "article_url": "https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/",
       "image": "https://media.automotiveworld.com/app/uploads/2026/09/18115203/20260331_01_kv_w1920.jpg",
       "description": "Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett"
-    },
-    {
-      "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0TFdITDdRa0dpcHJYcTJxbkYzdDU0M1J6LURVNnp2TTR5Rm5BVjZkdEFDdHU1dUFWVVp6QjRVY3UyeFEyZGpxVkpyNkxEanlham1IY0hSVzNXRm9HTVNEUkFpbVhJeUw0TV9ZRjV3?oc=5",
-      "pub_date": 1789898964.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67790149&width=1200&height=600&coordinates=0%2C2%2C0%2C2",
-      "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
     },
     {
       "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
@@ -85,26 +85,26 @@
       "description": null
     },
     {
-      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
-      "pub_date": 1789916460.0,
-      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
-      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
+      "headline": "Japan's first robot ambulance works the 9-1-1 lines for humanoids",
+      "source": "New Atlas",
+      "source_url": "https://newatlas.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2aUxDSkRwNU05WnM5ZG54bkdsbUhVSGcxTl9kTHRqNVJodW9ZME9zLU1uZDR6UGV2QnR4TnFDbU45OERHQnN0M1NOSS16U2IyVHBCYVljS3RjckFxZnBvVDFGU2VTZDFkQnJFd2QwdFlSYWlCZ3B2T29R?oc=5",
+      "pub_date": 1789891433.0,
+      "article_url": "https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/",
+      "image": "https://assets.newatlas.com/dims4/default/d03e645/2147483647/strip/true/crop/1200x630+0+210/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5e%2F4b%2F3a00b1b1492db9adae5623aa6c3b%2Fthe-ambulance-is-kitted-out-to-resemble-a-conventional-ambulance-and-travels-with-a-humanoid-robot-engineer-from-gmo-on-board.jpg&na.image_optimisation=0",
+      "description": "Before humanoid robots fully integrate into our societies and inhabit our homes, factory floors, and workspaces, a Japanese firm is thinking one step ahead. GMO has just unveiled a \"Humanoid Ambulance\" that it will roll out this month to handle maintenance tasks on-site."
     },
     {
-      "headline": "US Must Act to Counter China's Combat Robotics Dominance",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXhHY3Y3M0FHME9DWVNIODR5bmExMHRVdTVvTzN5Rm1DRTI0ekUydDJNVlBGaU1uLXpWd1RDS1pUZnFjbkRvMjNOZDhYcHhSbUs3OG5oRDRtUXY2c01HQ1AybnJIa0Jwb0Q4eDZDUWd0V0ViRVR1MTFsU04yazZXZjdkal9jSXlINDlMZG5EYw?oc=5",
-      "pub_date": 1789724685.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/30f46a7d5a2ab986d030299de2b7ac947fc11015d9c503125311defb7cf28ae5/lightyear_networkapi/resizefill_w600_h500%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fc7f8fe322030e049efed464a9d2836a0.jpg",
-      "description": "US Must Act to Counter China's Combat Robotics Dominance"
+      "headline": "Humanoid Robots Are Getting Smarter and Capable \u2014 But Researchers Mull If Their \u2018ChatGPT Moment\u2019 Is Here?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkwzVTJiQkJJcU9qMU54c0dlRzA3cWRkQ2JrdlRPZ2YtdGFlcHg1dUhicUYySWZpQi1GU05fYVdRdWFTdjFVZW5YZV9WT2xYTGhyaXNYSm1hc09YOHB4TF9JWEx5Ny1reXZ2NU1XNUhYcEo4Y2JBZnlWckZtZUZQRmJuOHVWVmZ3dGR2SXl5WXFVRHk1OEo0Y2ZINkZDLUYwN0N0Wnl3?oc=5",
+      "pub_date": 1789767040.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/humanoid-robots-getting-smarter-capable-213040189.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/090269d891d19b7e6f393ec50a545da732912a038ff71fcb5b4029b64e34fdee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc73aa8b48ab06313d84ecf0263df41ee.jpg",
+      "description": "Humanoid robots are showing meaningful progress beyond controlled demonstrations, with advances in autonomy, dexterity, and the ability to perform repetitive real-world tasks. But widespread commercial deployment still remains a work in progress. After spending a week meeting with leading robotics..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T16:23:02.689498+00:00"
+  "fetched_at": "2026-09-20T18:58:21.179581+00:00"
 }

@@ -115,25 +115,6 @@
       "project_page": "https://nvlabs.github.io/SoL-Pi/"
     },
     {
-      "id": "2310.10688",
-      "title": "A decoder-only foundation model for time-series forecasting",
-      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
-      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
-      "hf_url": "https://huggingface.co/papers/2310.10688",
-      "arxiv_url": "https://arxiv.org/abs/2310.10688",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 44,
-      "num_comments": 1,
-      "published_at": "2023-10-14T13:01:37.000Z",
-      "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33255,
-      "project_page": null
-    },
-    {
       "id": "2407.16741",
       "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
       "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
@@ -150,6 +131,25 @@
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 88608,
+      "project_page": null
+    },
+    {
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 44,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 33306,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-20T16:22:39.945388+00:00"
+  "fetched_at": "2026-09-20T18:58:06.184851+00:00"
 }
