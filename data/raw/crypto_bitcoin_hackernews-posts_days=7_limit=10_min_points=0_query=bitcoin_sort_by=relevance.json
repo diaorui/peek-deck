@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
       "points": 312,
-      "num_comments": 267,
+      "num_comments": 268,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -105,5 +105,5 @@
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-09-19T23:20:56.985950+00:00"
+  "fetched_at": "2026-09-20T01:24:46.229948+00:00"
 }

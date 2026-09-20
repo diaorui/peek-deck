@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-19T23:21:22.892967+00:00'
+updated: '2026-09-20T01:25:16.046213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 23:21 UTC  
+**Last Updated:** September 20, 2026 at 01:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** +4.8%  
-**90d:** +52.5%  
-**1y:** -41.2%  
+**24h:** +0.1%  
+**7d:** +4.4%  
+**30d:** +8.4%  
+**90d:** +57.5%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $321.79B
+**Market Cap:** $320.32B
 Rank #2
 
 **Circulating Supply:** 122,061,837 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.7%
+-46.9%
 
 **All-Time Low:** $0.43
-+608779.4%
++606024.1%
 
 ---
 
@@ -156,7 +156,7 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 1d ago
+coindesk.com • 1d ago
 
 ---
 
@@ -172,7 +172,7 @@ Ethereum ETFs lost $366 million as large holders locked coins into staking. ETH 
 
 Ethereum posted its best third-quarter performance ever in 2026, gaining about 60.62% despite a tough first half of the year. This surge was fueled by over $10 billion in spot Ethereum ETF inflows and more than $15 billion in corporate treasury purchases. Additionally, the DeFi ecosystem on Ethereum and Layer-2 networks grew to around $88 billion in total value locked, highlighting strong institutional and decentralized finance interest. Ethereum’s rally outpaced Bitcoin’s modest 6-10% gain, signaling renewed confidence and potential for further growth.
 
-Pluang • 27m ago
+Pluang • 2h ago
 
 ---
 
@@ -184,9 +184,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Cracks $78,000 and Ethereum, XRP, Dogecoin May Be 'About To Explode'](https://www.tradingview.com/news/benzinga:b14ae6010094b:0-bitcoin-cracks-78-000-and-ethereum-xrp-dogecoin-may-be-about-to-explode/)**
+**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.tradingview.com/news/financemagnates:de97e038e094b:0-why-is-crypto-up-today-bitcoin-tops-80-000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
 
-Bitcoin (CRYPTO: BTC) on Friday picked up momentum to reclaim $78,000 for the first time in three days, while Ethereum (CRYPTO: ETH) followed higher to touch $2,500.XRP (CRYPTO: XRP) climbed above $1.30, while Dogecoin (CRYPTO: DOGE) jumped roughly 6%.Ripple Chief Legal Officer Stuart Alderoty said…
+The crypto market is up today (Friday), with Bitcoin back above $80,000 and Ethereum, XRP and Dogecoin rising 6% to 7%. Bitcoin traded at $80,914 on Binance at 18:07 UTC, up 5.9% on the day, while Ether rose 6.4% to $2,603, XRP gained 7.3% to $1.39 and Dogecoin added 7% to $0.0874 on Bitstamp.The m…
 
 TradingView • 1d ago
 
@@ -196,7 +196,7 @@ TradingView • 1d ago
 
 The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
 
-Coinpedia • 1d ago
+Coinpedia • 18h ago
 
 ---
 
@@ -212,7 +212,7 @@ The Motley Fool • 1d ago
 
 MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
 
-markets.businessinsider.com • 7h ago
+markets.businessinsider.com • 10h ago
 
 ---
 
@@ -228,7 +228,7 @@ CryptoSlate • 2d ago
 
 Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
 
-BeInCrypto • 15h ago
+BeInCrypto • 17h ago
 
 ---
 
@@ -242,7 +242,7 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 144 • 💬 23 • ⏱️ 10:49 • 20m ago
+👁️ 8K • 👍 757 • 💬 89 • ⏱️ 10:49 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 22 • 💬 58 • ⏱️ 3:44 • 11h ago
+👁️ 2K • 👍 22 • 💬 58 • ⏱️ 3:44 • 13h ago
 
 ---
 
@@ -262,27 +262,17 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 11K • 👍 309 • 💬 16 • ⏱️ 9:40 • 16h ago
+👁️ 11K • 👍 311 • 💬 22 • ⏱️ 9:40 • 18h ago
 
 ---
 
-**[TRILLIONS Are About To Move Onto Ethereum](https://www.youtube.com/watch?v=-f7QHWXGV20)**
+**[SORRY Bears - BOTTOM is in for Ethereum and Altcoins  (Bull Run STARTED)](https://www.youtube.com/watch?v=x2HkmxM9KTQ)**
 
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
+Join The VIP Discord: https://whop.com/joined/cryptocamel/products/cryptocamel/ LAST Discord Win: $AI (130x) ⚡ Follow me ...
 
-📺 The Rollup
+📺 Crypto Camel
 
-👁️ 352 • 👍 12 • 💬 14 • ⏱️ 0:37 • 9h ago
-
----
-
-**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
-
-Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
-
-📺 VirtualBacon
-
-👁️ 12K • 👍 147 • 💬 18 • ⏱️ 1:07 • 1d ago
+👁️ 720 • 👍 38 • 💬 10 • ⏱️ 10:11 • 1d ago
 
 ---
 
@@ -292,17 +282,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 816 • 👍 26 • 💬 6 • ⏱️ 5:12 • 14h ago
-
----
-
-**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 14K • 👍 224 • 💬 130 • ⏱️ 49:49 • 2d ago
+👁️ 874 • 👍 26 • 💬 6 • ⏱️ 5:12 • 16h ago
 
 ---
 
@@ -316,23 +296,43 @@ Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradec
 
 ---
 
+**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 14K • 👍 225 • 💬 130 • ⏱️ 49:49 • 2d ago
+
+---
+
+**[🔥 BMNR Holders: ETH &amp; BTC Just Exploded - Tokenized Stocks Changed Everything](https://www.youtube.com/watch?v=CwKTyxC8EtQ)**
+
+BMNR, Ethereum (ETH), Strategy (MSTR) and Bitcoin (BTC) are exploding higher - and one of the biggest stories behind this ...
+
+📺 Big Time Trades
+
+👁️ 6K • 👍 124 • 💬 23 • ⏱️ 18:33 • 1d ago
+
+---
+
 **[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=_70E8VqinNY)**
 
 Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
 📺 Profit First
 
-👁️ 2K • 👍 79 • ⏱️ 7:02 • 9h ago
+👁️ 2K • 👍 81 • ⏱️ 7:02 • 11h ago
 
 ---
 
-**[RIPPLE XRP: KEVIN O&#39;LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!](https://www.youtube.com/watch?v=NM6yU6D3RGQ)**
+**[BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=mmpTNOFFvn8)**
 
-RIPPLE XRP: KEVIN O'LEARY SAYS INVESTORS WERE WRONG ABOUT ETHEREUM!
+BITCOIN PUMP: SHORT SQUEEZE CONFIRMED (Once Again)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 BULLRUNNERS
+📺 Crypto World
 
-👁️ 17K • 👍 288 • 💬 28 • ⏱️ 1:06 • 1d ago
+👁️ 18K • 👍 460 • 💬 150 • ⏱️ 26:00 • 22h ago
 
 ---
 

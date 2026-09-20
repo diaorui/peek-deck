@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-19T23:21:22.888773+00:00'
+updated: '2026-09-20T01:25:16.040043+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 19, 2026 at 23:21 UTC  
+**Last Updated:** September 20, 2026 at 01:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,056.29
+### $81,160.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +5.8%  
-**30d:** +3.7%  
-**90d:** +26.9%  
-**1y:** -29.8%  
+**24h:** -0.2%  
+**7d:** +3.8%  
+**30d:** +5.3%  
+**90d:** +29.4%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1632.44B
+**Market Cap:** $1629.92B
 Rank #1
 
 **Circulating Supply:** 20,086,640 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.5%
+-35.6%
 
 **All-Time Low:** $67.81
-+119749.6%
++119585.9%
 
 ---
 
@@ -79,31 +79,31 @@ Rank #1
 
 **[Bitcoin since July:](https://www.reddit.com/r/Bitcoin/comments/1wkppdv/bitcoin_since_july/)**
 
-7h ago
+9h ago
 
 ---
 
 **[81K](https://www.reddit.com/r/Bitcoin/comments/1wkor71/81k/)**
 
-8h ago
+10h ago
 
 ---
 
 **[Going short on Bitcoin be like](https://www.reddit.com/r/Bitcoin/comments/1wkjn8a/going_short_on_bitcoin_be_like/)**
 
-11h ago
+14h ago
 
 ---
 
 **[Bears in absolute shambles right now](https://www.reddit.com/r/Bitcoin/comments/1wkj749/bears_in_absolute_shambles_right_now/)**
 
-12h ago
+14h ago
 
 ---
 
 **[How I've felt the last several months](https://www.reddit.com/r/Bitcoin/comments/1wkvayu/how_ive_felt_the_last_several_months/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 Ill admit I bought into the likely theory we would have a bottom in October, but it's looking like chances are slim
 
-8h ago
+10h ago
 
 ---
 
@@ -119,13 +119,13 @@ Ill admit I bought into the likely theory we would have a bottom in October, but
 
 Looking forward to the conversations this sparks up on Halloween!
 
-1h ago
+3h ago
 
 ---
 
 **[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
 
-17m ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Looking forward to the conversations this sparks up on Halloween!
 
 Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advice ? Is this full bull now ? Should I FOMO in ? Any thoughts appreciated cheers..
 
-13h ago
+15h ago
 
 ---
 
@@ -147,11 +147,11 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 ## Google News: "bitcoin"
 
-**[Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day](https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html)**
+**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
 
-Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.
+Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -159,7 +159,31 @@ Yahoo Finance • 11h ago
 
 "Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix," wrote Jason Calacanis.
 
-CoinDesk • 11h ago
+coindesk.com • 13h ago
+
+---
+
+**[Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-now-own-6-233516113.html)**
+
+Spot Bitcoin ETFs have quietly locked up a growing slice of every coin in existence, and the path to 10% raises serious questions about what a shrinking tradable float does to price volatility and who actually controls the market.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record](https://finance.yahoo.com/markets/crypto/articles/solana-etfs-experience-12-consecutive-230449467.html)**
+
+Solana ETFs held their ground through a Fed rate hike and a failed Senate crypto bill, while Bitcoin funds swung nearly $1.5 billion in a single week just to end up almost exactly where they started.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[September Is Bitcoin’s Worst Month and It’s Up 2.7% So Far. What That Says About Q4](https://finance.yahoo.com/markets/crypto/articles/september-bitcoin-worst-month-2-004624196.html)**
+
+Bitcoin is beating its worst month on the calendar, but the last time it pulled off this same trick it crashed 23% in the quarter that followed. Two factors in October will decide whether 2026 ends in profit or loss.
+
+Yahoo Finance • 39m ago
 
 ---
 
@@ -187,43 +211,19 @@ Muddy River Sports • 1d ago
 
 ---
 
+**[Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)**
+
+Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.
+
+The Block • 7h ago
+
+---
+
 **[Why Bitcoin Is Up Today](https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/)**
 
 Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading.
 
 The Motley Fool • 1d ago
-
----
-
-**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
-
----
-
-**[Bitcoin shows strong demand as entity-adjusted SOPR stays above 1](https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/)**
-
-Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco…
-
-TradingView • 13h ago
-
----
-
-**['Bitcoin was the wrong token': Meltem Demirors says AI is pricing intelligence instead](https://www.theblock.co/collaborative-interviews/2026-09-18-bitcoin-wrong-token-meltem-demirors-says-ai-pricing-intelligence-instead-415860)**
-
-Demirors said crypto’s head start in specialized hardware and cheap power has helped fuel today’s AI infrastructure buildout.
-
-theblock.co • 1d ago
-
----
-
-**[Bitcoin Community Recognizes Quantum Computing Risk: VanEck](https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk)**
-
-Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk.
-
-Bitcoin Magazine • 1d ago
 
 ---
 
@@ -233,7 +233,7 @@ Bitcoin Magazine • 1d ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 312 • 💬 267 • 2d ago
+⬆️ 312 • 💬 268 • 2d ago
 
 ---
 
@@ -263,7 +263,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 1 • 💬 3 • 10h ago
+⬆️ 1 • 💬 3 • 12h ago
 
 ---
 
@@ -293,7 +293,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 80K • 👍 2K • 💬 88 • ⏱️ 1:07:54 • 10h ago
+👁️ 91K • 👍 3K • 💬 88 • ⏱️ 1:07:54 • 12h ago
 
 ---
 
@@ -303,27 +303,7 @@ Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy W
 
 📺 Lark Davis
 
-👁️ 24K • 👍 554 • 💬 27 • ⏱️ 6:51 • 11h ago
-
----
-
-**[BITCOIN: THIS WEEKEND CHANGES HISTORY!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=BDOjRuzcHqA)**
-
-Join Telegram & Talk about Crypto: https://t.me/+WPsnvLl_JKoFT8FB Bitcoin just hit one of the most important levels of the entire ...
-
-📺 CryptoJack
-
-👁️ 8K • 👍 227 • 💬 63 • ⏱️ 7:14 • 10h ago
-
----
-
-**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
-
-Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
-
-📺 Crypto Casey
-
-👁️ 22K • 👍 654 • 💬 86 • ⏱️ 6:21 • 8h ago
+👁️ 25K • 👍 568 • 💬 28 • ⏱️ 6:51 • 13h ago
 
 ---
 
@@ -333,37 +313,47 @@ Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ..
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 1K • 💬 48 • ⏱️ 1:27 • 20h ago
+👁️ 54K • 👍 1K • 💬 51 • ⏱️ 1:27 • 22h ago
 
 ---
 
-**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
+**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
 
-Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
+Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
+
+📺 Crypto Casey
+
+👁️ 24K • 👍 689 • 💬 85 • ⏱️ 6:21 • 10h ago
+
+---
+
+**[Energy Prices Are SPIKING and Bitcoin Just Reclaimed $80K!](https://www.youtube.com/watch?v=OcZ3I832AXA)**
+
+Diesel prices are hitting records while Bitcoin pushes back above $80000, and the connection goes deeper than inflation.
 
 📺 Simply Bitcoin
 
-👁️ 44K • 👍 2K • 💬 223 • ⏱️ 16:49 • 1d ago
+👁️ 3K • 👍 486 • 💬 14 • ⏱️ 17:21 • 1h ago
 
 ---
 
-**[Tim Draper: &quot;$250,000 Bitcoin by May or June](https://www.youtube.com/watch?v=xTEaaFIZ33E)**
+**[BITCOIN: THIS WEEKEND CHANGES HISTORY!!!!!!!!!!!!!!](https://www.youtube.com/watch?v=BDOjRuzcHqA)**
 
-Tim Draper backed Tesla, SpaceX, Skype, Robinhood, and Hotmail before anyone believed in them. Now he's making his boldest ...
+Join Telegram & Talk about Crypto: https://t.me/+WPsnvLl_JKoFT8FB Bitcoin just hit one of the most important levels of the entire ...
 
-📺 Kyle Chasse crypto
+📺 CryptoJack
 
-👁️ 1K • 👍 23 • ⏱️ 1:13 • 8h ago
+👁️ 9K • 👍 233 • 💬 66 • ⏱️ 7:14 • 12h ago
 
 ---
 
-**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
+**[🚨 BITCOIN!!! THIS WAS NOT SUPPOSED TO HAPPEN... BUT IT DID!!!!! [INSANE!!!]](https://www.youtube.com/watch?v=IRNBk7wSkXU)**
 
-Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
+Bitcoin pumps regardless of bad news! That was not supposed to happen! Bull market on?!! BloFin ...
 
-📺 Altcoin Daily
+📺 Crypto Zombie
 
-👁️ 90K • 👍 3K • 💬 178 • ⏱️ 13:18 • 22h ago
+👁️ 28K • 👍 1K • 💬 134 • ⏱️ 28:09 • 1d ago
 
 ---
 
@@ -373,17 +363,27 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 114K • 👍 4K • 💬 170 • ⏱️ 11:24 • 1d ago
+👁️ 115K • 👍 4K • 💬 171 • ⏱️ 11:24 • 1d ago
 
 ---
 
-**[This Needs to Happen for Bitcoin to Reach New All-Time Highs](https://www.youtube.com/watch?v=1fGTRiSypi4)**
+**[Why Is Bitcoin Above $80K After The Clarity Act Failed?](https://www.youtube.com/watch?v=ZhBN9-Im-Sk)**
 
-Bitcoin Elliott Wave analysis for 19 September 2026 focusing on the $120000 target as a potential result of a five-wave move up.
+Bitcoin just took two direct hits, the Clarity Act failed its Senate cloture vote and the Fed hiked rates for the first time since 2023, ...
 
-📺 More Crypto Online
+📺 Simply Bitcoin
 
-👁️ 4K • 👍 316 • 💬 17 • ⏱️ 17:18 • 4h ago
+👁️ 45K • 👍 2K • 💬 224 • ⏱️ 16:49 • 1d ago
+
+---
+
+**[Bitcoin - The Generational Moment Is Coming](https://www.youtube.com/watch?v=bOf2044iZFk)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 19K • 👍 448 • 💬 207 • ⏱️ 21:55 • 1d ago
 
 ---
 
