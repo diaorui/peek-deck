@@ -5,14 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
-      "pub_date": 1789754930.0,
-      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
-      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+      "headline": "Meet the gig workers helping train robots to do our dishes",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "source_url": "https://www.abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWtkSTd0MVR2MnVLVlFOamJwcVNkZ3l4dnJUemJvdWFNWnlCOFliTjBuakhqZWduQ1ZROXc1QzNuRF9OdjBJYnRGcG40YTdSbFl4OVBCTE1nTTVjWjE2VGFHcm5UMzVCNEJNN1lCVC1NdUx0eUFONVdfODZWT0s3cjVwYzZwSnNhYWRNcmNaclctcTFGNEJfb3pIT1lidlMyUTlhd1BlS3ZFNE0?oc=5",
+      "pub_date": 1789869007.0,
+      "article_url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+      "image": "https://live-production.wcms.abc-cdn.net.au/86908d41edad9e81938e5804bf38c10b?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
     },
     {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
@@ -25,6 +25,26 @@
       "description": "OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions."
     },
     {
+      "headline": "Robotics: Firms race to improve robot training systems",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
+      "pub_date": 1789686047.0,
+      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
+    },
+    {
+      "headline": "Delivery robots swarm Chicago sidewalk in viral video",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTg1d3A2WjBmZ0FMZzU5MHAwTTcxcnpNdE9LNzBrS3lXRG5wV1pjb3VEMHViVDFhY0VDV2s1cV9MeUxDalRDc043YVdsWl9iMFVRSTN1ZEhuYnlnMDkzQnVKNXdXc2RjS3FQeDYxR1ZaYmZFYktma2Q4ZXY4VTRiaThqcURzd9IBiwFBVV95cUxPdS1rOVd3T19reS16U216NkRBVmIxdXlBSm13WFZfeFRGVlVxY0dwMGF5VkxRR2o2UjVkVlNubHAyRWNJTEdzcEhUMThnVmV5WC1ManZJMExGbE01aUM0dEdvSTJJTGRleVU2ZnROejhkdEZRdV9fM1JKbURwS3BwRmpKRmdwWk9lSnJN?oc=5",
+      "pub_date": 1789814910.0,
+      "article_url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Coco-Delivery-Photo-3.jpg",
+      "description": "A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns."
+    },
+    {
       "headline": "Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -35,14 +55,24 @@
       "description": "Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more"
     },
     {
-      "headline": "Robotics: Firms race to improve robot training systems",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
-      "pub_date": 1789686047.0,
-      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
+      "headline": "SoftBank agrees to acquire Robotics and AI Institute",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWZsb0FQZ2R0QzdGd19rUTdLbjJwenBrYzBtMGtlSTZ2cEpLVUcxZ0xFcGZZbjUyeVRtWE9BelhxaF9UYU53OUVYT2UtTXJVYmZmSmU4NmVma3ptTWNJSlVhVkItamZhWGVQdDUzeXdFcUhYRDBWSTJETUJZOXVFVTRPeGV0RzBBNTNXSw?oc=5",
+      "pub_date": 1789754930.0,
+      "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
+      "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
+    },
+    {
+      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
+      "pub_date": 1789722230.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
+      "image": null,
+      "description": null
     },
     {
       "headline": "US Must Act to Counter China's Combat Robotics Dominance",
@@ -55,16 +85,6 @@
       "description": "US Must Act to Counter China's Combat Robotics Dominance"
     },
     {
-      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
-      "pub_date": 1789722230.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Humanoid Robots Break Records In Beijing",
       "source": "DOGO News",
       "source_url": "https://www.dogonews.com",
@@ -75,16 +95,6 @@
       "description": "Humanoid Robots Break Records In Beijing has 16 comments."
     },
     {
-      "headline": "Robotic lab sets up and runs optics experiments on demand",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVpXMGZGd0JvcVNNOU03TWMtMmlEeFlLRUhJNDV0TEFmR0llRnZZWHB4VUw5RmlMbDlScWI5YnpmY2JKNllwV1FmdHBNWm1kZE9kbDUxS2ZMWHZyRzY4cWV1eHNyMldjQWdZMmpUbXpIQkhObDU0Z09MM0J1dlZIRHF3?oc=5",
-      "pub_date": 1789617600.0,
-      "article_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
-      "image": "https://news.mit.edu/sites/default/files/images/202609/MIT-Robot-Labs-01-press.jpg",
-      "description": "The process of building and running an optics experiment to analyze a material\u2019s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory."
-    },
-    {
       "headline": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
       "source": "SpaceNews",
       "source_url": "https://spacenews.com",
@@ -93,18 +103,8 @@
       "article_url": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Robotics Tipping Point: A Citrini Field Trip",
-      "source": "citriniresearch.com",
-      "source_url": "https://www.citriniresearch.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00bFIwMElBNmlOVjlHdnRuMHl0dU9TU1dfaHN1TDJiWWQxazhkYlB3eGhNZnJPMnE4WF9UNkdzUVdnSFRaMkt4clhYVEFQUXFYYlctT2pQb3g2X0VBLVdMZUUzcGlmOGxiNlEyWU5kTndrWFNx?oc=5",
-      "pub_date": 1789569274.0,
-      "article_url": "https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini",
-      "image": "https://substackcdn.com/image/fetch/$s_!jcmZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c44e140-dc51-4abc-a9df-1f5b56d114ff_1667x943.png",
-      "description": "Seeing is Believing"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T01:25:07.121763+00:00"
+  "fetched_at": "2026-09-20T06:43:29.610426+00:00"
 }

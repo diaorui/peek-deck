@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-20T06:43:28.217593+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/pertumbuhan-robinhood-chain-menunjukkan-kesenjangan-pendapatan-ethereum-yang",
+    "title": "Robinhood Chain fees hit $4.5M daily, but Ether... | Pluang",
+    "description": "On September 3, Robinhood Chain, an Ethereum Layer 2 built with Arbitrum, collected about $4.5 million in transaction fees, while Ethereum earned roughly $398 for data posting and proof services. This large gap highlights how Layer 2 solutions separate transaction execution from settlement, with most fees retained by the Layer 2 and only a small portion paid to Ethereum for settlement and data availability. The difference reflects the Layer 2 business model, where Ethereum's revenue depends on data demand and settlement costs rather than total user fees. This structure supports cheaper transactions but means Ethereum's direct revenue grows more slowly than Layer 2 activity.",
+    "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/4a3979f1625da051b084e5bde7fcfcb522ead23059cd3e0432d70603ef3fa9ae-en.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Blockonomi",
+    "keywords": null
+  }
+}

@@ -5,54 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+      "headline": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
-      "pub_date": 1789743537.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOREJCWC1GV25HM0x1bTVJZ0pFNU85UmVXMHNRVWdNb0tyeTFKTnRUWFZMMVE0dEtRaHNLdHBpSDFlZ3ZzYm53d3dOb3RFYmwzdVd2a0E0WGRqUkppeXN1bDRhRWYxYUpxZ2Y3U0VPYkk4X3htZWtVQ0ZyenVXVWNsdmI2TjAtWGdnZGF2b25kR3pRaU9YdmFmS3h1a2tTZlZ4dTFoVldmLVotSWRTVUUwV25ENFlGczJLdl9FS2xKak5TQ0NQdXRheXhxU1g?oc=5",
+      "pub_date": 1789819195.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
       "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
-      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
+      "description": "Bitcoin has jumped more than 3% on a week when the headlines were not in its favor."
     },
     {
       "headline": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VLSm5MTk4yakhMd3ZYam4yMXM0NjRLYkZkWnJCUm9mTXBmS3RpdFh5UkpNdUcwWnBWNngxdU84ODJ5WmtONGpzWVBDa2VEaHlKTzY5WExQTWd5OWd4TGVhRlJfRk1XVW4zTEhPTzRreXJUcVhvOWtKUnVrbjZBelZpSFkwM1hnZ25FR3ZiaWVfUGZaSFJNczdlTmZ4aS1Bb2Z3M2RJQXEyS2t2dlNOcUtPa1A5cjZHZHdpLXlURkM2Rks1Y0d2UQ?oc=5",
       "pub_date": 1789820037.0,
       "article_url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis."
-    },
-    {
-      "headline": "Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnd2V1pFNEx5UjFTRGtYcEJTSkhueVp5V2JxMHBHNU5hZlFoTzNlYWl5aFFoNF84NHJTNDRmeTJFY0RISVZJNU4zMDdQNGhTcFBEbWJxYkx2TTRNSUFaNl9mY2VhYVNVQWU5UGhYZlNmLVNpem1WN19WSlVCNFZKSzZhcVRzbk5PYzFYX3B5RmU?oc=5",
-      "pub_date": 1789860916.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-now-own-6-233516113.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/40221c68be8c5e69f70af1b3e13518ab404955afb345e4d62ab7ddd37cdda786/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fcbecd1beefd2c063c7701d81e6e026ca.jpg",
-      "description": "Spot Bitcoin ETFs have quietly locked up a growing slice of every coin in existence, and the path to 10% raises serious questions about what a shrinking tradable float does to price volatility and who actually controls the market."
-    },
-    {
-      "headline": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEY4X2hOT29Pb3BzdTFiVFI3dmVrUEhRaXEwVmJ4a2tQcHA4WXNsLUF5NXhueEc2UmRaN1pIVDFqUF9IeG1EclMzVFF1dzJCdXJ0NmRXTUZKbGlwNzV5Rk9tMDB3Y1FoaHZ6blVUMFBERmhzNHkySGJGQlNZV0k2X0luM0xJVFpWN1V1amhkVnlIWWt1S2lZdkd0THRxQXBRbmRuWA?oc=5",
-      "pub_date": 1789859089.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/solana-etfs-experience-12-consecutive-230449467.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6fa26da6382dd2ff5c81580dc32373d616c26b17836f59fb281334183497f479/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F050529a4f37d271cbdf22cad03e463b1.jpg",
-      "description": "Solana ETFs held their ground through a Fed rate hike and a failed Senate crypto bill, while Bitcoin funds swung nearly $1.5 billion in a single week just to end up almost exactly where they started."
-    },
-    {
-      "headline": "September Is Bitcoin\u2019s Worst Month and It\u2019s Up 2.7% So Far. What That Says About Q4",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXQybHNWSmxhMlpVZXIwYUJYcWNTdWZYckxUWnFRQXZLY3BCbnQzUE1iYnYzRENxdU5sMFhqd2VXNTBBUmNsQ1QxUGl1aHAxekRuc2lVdFlrYlBlZWhQR0tHczFfVmlMYWhYa19QUE5YTklKVE5rWFpMdmpLTVpQbDU2bTQxR1hTQlFnX2lUMzBCNW9ESUJFMWQ5ME0?oc=5",
-      "pub_date": 1789865160.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/september-bitcoin-worst-month-2-004624196.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/8ae835a28233ad429f55576b68e139c1f743944f58101de26ca92b9588b8dc3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0dc2603093ff0378e57bd608e99ea19a.jpg",
-      "description": "Bitcoin is beating its worst month on the calendar, but the last time it pulled off this same trick it crashed 23% in the quarter that followed. Two factors in October will decide whether 2026 ends in profit or loss."
     },
     {
       "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
@@ -75,14 +45,14 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
-      "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
-      "pub_date": 1789698773.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1885.png",
-      "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
+      "headline": "Current price of Bitcoin for September 18, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
+      "pub_date": 1789733187.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
@@ -103,8 +73,38 @@
       "article_url": "https://www.fool.com/investing/2026/09/18/why-bitcoin-is-up-today/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888311%2Fgettyimages-2215760158-1200x1017-9aea31a.jpg&w=1200&op=resize",
       "description": "Bitcoin is higher Friday as oil prices retreat and the SEC offers limited relief for tokenized-stock trading."
+    },
+    {
+      "headline": "Best Crypto Casinos 2026 \u2013 5 Fastest Bitcoin Gambling Sites Ranked by Trust",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjNPRGVLbTBBQVhBNm13VU85dHFvRkJ3Wl9SSTJRZktNNmFOVmtOcWg1ZlE0X0VYY0RDY2pnUmdSalJNLU5IdDZud3BxanNkbzl2V2NSZ2lOVEI5ZEk3M0xwSThwRk9XNnF6Y3ppR2VpVnY1UGVucnZibUM1TEF1VDh2SEZtdTNQUDhNUHZVVGN3Mk5VTE4xSmFhT056aXpwUUFRejk3V3lqOExtcVluU2JTM2N1TkFYR0xEOGFxdXpPTVN6UVR6QklUZGhKamxjRHc?oc=5",
+      "pub_date": 1789698773.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/best-crypto-casinos-2026-5-fastest-bitcoin-gambling-sites-ranked-by-trust/20260917213000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-1885.png",
+      "description": "Top Bitcoin & Crypto Casinos in 2026 Casinos Welcome Bonus Ratings \u21aa\ufe0f Thunderpick \ud83c\udf81 100% up to \u20ac2,000 4.8/5 \u2b50 \u21aa\ufe0f JACK.com \ud83c\udf81 100 Wager-Free Free Spins 4.8/5 \u2b50 \u21aa\ufe0f BitStarz \ud83c\udf81 300% up to 5 BTC + 180 Free Spins 4.9/5 \u2b50 \u21aa\ufe0f Lucky Rebel (USA only) \ud83c\udf81 200% up to $2,500 + 50..."
+    },
+    {
+      "headline": "Bitcoin shows strong demand as entity-adjusted SOPR stays above 1",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FFbnJUc0MtT3diNFFMTGNxak8tQkJZclVrWG51NW1MN1VqdHdLQUlQbzVEa2pPUlotbzVSblZmNXhiTGtCVjJLWmdYTzJGNmhfSkxLcGEwN01aZDZ4d3oxNW5PTGRNMC1ieEczYTdyZFBPRjFtcUtyby1UajJMSWx1UlNsTWxMZGVQZDAwbEpuQnZCd1dzdzBOTDhGbW13TzJ3bm9XbTNwM3ZOdUc1UnFQSjNLTkdVSXhXcDdxM1NGU19mbUtUWnVB?oc=5",
+      "pub_date": 1789811605.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:5c2998e93094b:0-bitcoin-shows-strong-demand-as-entity-adjusted-sopr-stays-above-1/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin holders are selling at a profit, and the market is absorbing every coin without flinching. That's the story being told by the entity-adjusted Spent Output Profit Ratio, or SOPR, which has remained stubbornly above 1.0 for three consecutive weeks, the longest such streak this year.With Bitco\u2026"
+    },
+    {
+      "headline": "Bitcoin Community Recognizes Quantum Computing Risk: VanEck",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50U1BmMm9Ma0ZaNlpidC13dG1TYW9jUDB2LWI0OUMtZTgxbDhVc1BXNk5qb2Y3SUJ3SXc4Yy1UNEo2NWJveVRKWEpKaTcwSWJMcFk4bzFVeDVpM2pkb2JoQU55SzNBLTF1bXRkQ0hZY3BmTjdQdHl5R3E5U1E5aWM?oc=5",
+      "pub_date": 1789746952.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoin-community-recognizes-quantum-risk",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-26.jpg",
+      "description": "Asset manager VanEck's Head of Digital Assets Research, Matthew Sigel, said the Bitcoin community was working on solutions for the quantum risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T01:25:06.786140+00:00"
+  "fetched_at": "2026-09-20T06:43:21.526758+00:00"
 }

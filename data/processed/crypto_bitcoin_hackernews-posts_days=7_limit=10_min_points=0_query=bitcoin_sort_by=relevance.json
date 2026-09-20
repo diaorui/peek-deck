@@ -47,6 +47,20 @@
       "site_name": "bitcointalk.org"
     },
     {
+      "title": "Is startpage.com mining Bitcoin when you open it?",
+      "url": "https://news.ycombinator.com/item?id=49766055",
+      "hn_url": "https://news.ycombinator.com/item?id=49766055",
+      "author": "roscas",
+      "points": 2,
+      "num_comments": 3,
+      "created_at": "2026-09-19T12:35:21Z",
+      "object_id": "49766055",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "A single Bitcoin transaction carried an average water footprint of 16K litres",
       "url": "https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/",
       "hn_url": "https://news.ycombinator.com/item?id=49741004",
@@ -59,20 +73,6 @@
       "description": "As Bitcoin's price swings, so does its hidden cost in freshwater\u2014each transaction now demands enough water to fill an Olympic swimming pool.",
       "favicon": "https://spacedaily.com/wp-content/uploads/2024/01/icon.png",
       "site_name": "Space Daily"
-    },
-    {
-      "title": "Is startpage.com mining Bitcoin when you open it?",
-      "url": "https://news.ycombinator.com/item?id=49766055",
-      "hn_url": "https://news.ycombinator.com/item?id=49766055",
-      "author": "roscas",
-      "points": 1,
-      "num_comments": 3,
-      "created_at": "2026-09-19T12:35:21Z",
-      "object_id": "49766055",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     },
     {
       "title": "Play Bitcoin Bird",
@@ -105,5 +105,5 @@
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-09-20T01:24:46.229948+00:00"
+  "fetched_at": "2026-09-20T06:43:08.125778+00:00"
 }
