@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
+      "author": "alaattincagil",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
+      "published": 1789909364.0,
+      "thumbnail": "https://external-preview.redd.it/DENkHH9_IAP1tea0wQTlQeZHyPWli6EEXmGGTzpSVXI.png?width=140&height=64&auto=webp&s=c2acd27da8ecfac3a49507cbb755b844ae17119f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn\u2019t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c"
+    },
+    {
       "title": "AI models are not hacking \u201cautonomously\u201d",
       "author": "fivefilters",
       "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
@@ -13,15 +24,48 @@
       "description": "I despair at the state of journalism around AI these days."
     },
     {
-      "title": "Why Are AI Agents Sacrificing Themselves for Each Other?",
-      "author": "rednightruby",
-      "url": "https://www.reddit.com/r/artificial/comments/1wldbqs/why_are_ai_agents_sacrificing_themselves_for_each/",
-      "published": 1789899483.0,
-      "thumbnail": "https://external-preview.redd.it/oR_97ydXMvBL2lLxvmt6ZphblCcb2aJKNAZODs5DY04.jpeg?width=320&crop=smart&auto=webp&s=27626cb91224d4c43b2d4c852b01431d7c6d8845",
-      "external_url": "https://orrubin.substack.com/p/why-are-ai-agents-sacrificing-themselves?r=92rft3&utm_campaign=post-expanded-share&utm_medium=post%20viewer",
-      "site_name": "orrubin.substack.com",
+      "title": "Using Normal Words to Program Massive Systems - \"Word Coding\"",
+      "author": "CyborgWriter",
+      "url": "https://www.reddit.com/r/artificial/comments/1wljgs2/using_normal_words_to_program_massive_systems/",
+      "published": 1789916778.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I\u2019ve been thinking about \u201cword coding\u201d. I don\u2019t know if that\u2019s the right term yet, but it's a helpful description of what my brother and I have been stumbling into while working on Story Prism. We usually think of programming as writing code that tells a computer what to do. But what happens when the raw material isn\u2019t code? What if it\u2019s research papers, notes, books, interviews, documents, character ideas, sources, arguments, and half-formed thoughts? You can start turning those things into a system rather than dumping a bunch of files into a chatbot and hoping it finds the right paragraph. I mean breaking information into pieces, deciding what connects to what, labeling those relationships, and building some kind of structure that an AI can move through. That feels more like you're writing AND programming at the same time. Only the \u201ccode\u201d is made out of words, concepts, relationships, instructions, and context. We\u2019ve been exploring this, mostly because we were trying to solve our own problems as indie filmmakers. We wanted a way to build the world around a project instead of constantly explaining the project to a new chat window. But the more we work on it, the more it feels like this could apply to almost anything. A researcher could build a system from papers and competing claims. A writer could connect characters, themes, scenes, and source material. Someone working on a business could organize policies, processes, and decisions. The AI agent is only part of it. The other part is the environment you build for it. That's something we\u2019re still wrapping our heads around, in terms of what this means for the future. The whole thing feels like an unknown journey, which is probably why we're obsessed with this. Maybe the next kind of programming won\u2019t always involve writing functions in python code. Maybe it will involve organizing meaning through regular documents well enough that an intelligent system can work with it. Or maybe \u201cword coding\u201d is a terrible name and we\u2019ll regret posting this in six months. That's how this game works. You think you know where it's going, but truthfully, none of us know where humanity will land in this new frontier. What an era to live in!"
+    },
+    {
+      "title": "How can I make NLP ai ?",
+      "author": "Cool_boy__2012",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlks2r/how_can_i_make_nlp_ai/",
+      "published": 1789919872.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "So I have a project and i have to do an NLP that I feed him the context with the response and he train on it, my goal is to make an ai NLP that understand questions well and respond to the questions with the information in there data base. I have one to two days left any one can help me ?"
+    },
+    {
+      "title": "Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgvm1/shishir_mehrotra_superhuman_ceo_on_the_midcareer/",
+      "published": 1789910269.0,
+      "thumbnail": "https://external-preview.redd.it/ZHA5YXhwYjVlb3FoMUrQ77gHdjLx3jBOUwfvnxyImNmDaGnMinbDAMMiJLig.png?width=640&crop=smart&auto=webp&s=6ceb1d317f957eaa57bbfae0b30713e5033aaabf",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TL;DR: Shishir Mehrotra's four-level promotion ladder swaps what you're graded on partway up, and the clip is about which criterion goes and which takes over. \ud83e\ude9c Scope is the one that goes. Once two people carry the same scope, Shishir says, what a promotion committee weighs is \u201chow they do the job.\u201d Credit to an ex-YouTube CPO for saying the flip out loud at all. In his version, though, the committee explains the new criterion after the employee objects, and nothing in the clip says the person being scored is owed the rubric first. As far as I can find, no general US rule makes an employer publish a promotion rubric or date a change to it. The closest thing I found, Colorado's AI employment law, was rewritten in May and pushed to 1 January 2027, and what survives centers on notice for AI used in a decision. Amazon's version of the problem is cruder. The FT reported in May that it shut down KiroRank, an internal AI-usage leaderboard, after employees pointed agents at needless tasks to climb it, and Amazon calls the dashboard an unofficial beta. The agents could do the busywork on demand, and the scoreboard counted usage and had no place for judgment. You can hit every mark the old rulebook set and only learn the page changed when the promotion doesn't come. The BBC reported on 8 September that employers are tying more bonuses and promotions to AI use. One US-based senior executive at a large consultancy told it that nobody formally mandates AI, reviews reward the people who use it well anyway, and leadership is \u201cinconsistent and vague on purpose.\u201d Same gap as above: the standard moves at the employer's discretion, and the review stays vague about it. https://preview.redd.it/xsbee223eoqh1.jpg?width=1024&format=pjpg&auto=webp&s=86ffa939d19733078c4e77d5c19d465a842b2a9c Suddenly this passage in Ezekiel 33:7-9 jumps at me unannounced like a thief. The Lord charged the prophet Ezekiel to be a watchtower. He\u2019s commissioned to warned the Children of Israel from drifting into sin. If they fall off the mark, figuratively, and Ezekiel warn them on time, they will die in their sins. And Ezekiel would be absolved of their sins, because he has already done his duty to warm them. But if they sin, and Ezekiel didn\u2019t warn them, and they die in their sins, the Lord would hold Ezekiel accountable for not warning them. The burden that the Lord has laid on Ezekiel, involves judgement and discernment. And such judgement doesn\u2019t give two f\\ck to anyone.* He either speak up or he doesn\u2019t. There\u2019s no neutral ground. And he knows the price of not speaking up. It\u2019s the same thing with Jeremiah. When Jeremiah withhold himself from speaking in Jeremiah 20:9 \u2013 presumably too much persecutive pressure from his peers \u2013 the words became like fire burning up his bones until it was just unbearable. It\u2019s was the same unbearable tension of knowing and not saying. Jeremiah can't not speak, even though speaking destroys him. The silence would destroy something deeper. And so, I imagine it will be somewhat similar in these last days. Your judgement and discernment of what lie ahead becomes increasingly more valuable. ________________________ Talk to enough people this has happened to and I hear one question under all of it: who decides what good looks like now? The ones who stop asking it end up writing the yardstick themselves. Something from an earlier post here comes back to me: Adam Mosseri, Head of Instagram, telling Lenny's Podcast that engineering went from mostly writing code to mostly planning and reviewing it, a hard read for anyone whose plan was flawless execution. If a rubric ever changed on you, when did you find out, and who told you? Clip credit: Silicon Valley Girl (Marina Mogilko) \u2014 full video on their channel. DM for credit or removal requests."
+    },
+    {
+      "title": "Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent\u2019s action?",
+      "author": "docybo",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/",
+      "published": 1789908822.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Two things landed within days of each other, and together they outline a gap I keep running into. Plugin4Shell (AIR Security, disclosed Sept 17) is a zero-click RCE affecting Claude Code, Codex, GitHub Copilot and Gemini CLI. The mechanism is almost boringly simple: marketplaces pin a plugin to a reviewed 40-hex commit SHA, the agent runs a git checkout against that SHA, and then never verifies that the working tree actually landed on it. An attacker controlling the plugin repo can create a branch named exactly like the pinned SHA and make it the default. When that name is both a valid ref and an object ID, git prefers the ref, so the checkout lands on attacker-controlled code while the pin still appears honored. The fix is equally simple: resolve HEAD after checkout and abort if it doesn\u2019t match the pinned commit. Anthropic shipped the fix in Claude Code 2.1.179 and OpenAI in Codex 0.146.0. At disclosure, GitHub Copilot had no fix, while Google had said it would not patch the deprecated Gemini CLI. Strictly speaking, this is a supply-chain integrity bug, not an authorization bug. What makes it relevant here is the blast radius: malicious code executing inside a coding agent can access resources available to that environment, including source code, cloud credentials, SSH keys, internal repositories and production systems. NIST IR 8587 was finalized Sept 15, developed with CISA\u2019s JCDC, with guidance on protecting identity and access tokens from forgery, theft and misuse. It covers controls including key management, audience restrictions, shorter token lifetimes, cryptographic binding, revocation and continuous access signals. But two scope boundaries matter for agent systems: API keys are explicitly outside its token model, and authorization of actions taken by AI agents isn\u2019t comprehensively addressed. NIST is examining agent identity and authorization separately through an NCCoE project exploring how existing identity and authorization mechanisms can apply to software and AI agents. But that work is still at the concept/project stage rather than finalized implementation guidance. Yih Khai Wong of IDC put the underlying issue more directly in CSO\u2019s analysis of IR 8587: \u201cToken hardening assumes the token holder is a known, bounded actor.\u201d Agentic systems complicate that assumption. A valid credential can establish identity or grant access to a system. It doesn\u2019t necessarily establish that this action, against this target, under the current policy, was authorized. For sensitive actions, I\u2019d want to know before execution who authorized it, what exactly was authorized, which target the authorization covers, whether it\u2019s still valid, and whether the action actually being executed matches what was authorized. After execution, I\u2019d also want an independent system to be able to reconstruct why the action was allowed without trusting the agent\u2019s own account of itself. Is this adequately solved by IAM/PDP/PEP done correctly, meaning what we\u2019re seeing is primarily a deployment and enforcement failure? Or is there still a missing enforcement primitive between an agent having access and an agent being authorized to act?"
     },
     {
       "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
@@ -46,71 +90,27 @@
       "description": "I keep hearing two very different stories about AI. One story is full of hope. AI will become much smarter. It will transform science, medicine, industry, and our daily lives. The other story is full of fear. AI may become more powerful than humans. We may lose jobs. We may even lose control of it. These stories sound like opposites. But I noticed something strange. Both stories lead to the same conclusion: we need more AI, more data centers, more chips, and much more electricity. If AI is going to transform the future, we need more computing power. If AI may become dangerously powerful, the argument is that we need to keep developing it so we can stay ahead, understand it, and control it. Either way, the physical infrastructure gets built now. And this is already visible in the numbers. According to the IEA, global electricity use by data centers rose 17% in 2025, while electricity use by AI-focused data centers rose 50%. The IEA expects global data-center electricity use to roughly double, from 485 TWh in 2025 to 950 TWh in 2030. Maybe AGI will arrive soon. Maybe it will take much longer. Maybe some of today's predictions will never happen. We don't know. But the electricity is being consumed now. The data centers are being built now. The money is being invested now. So I wonder whether we are asking the wrong question. Instead of only asking: \u201cHow powerful will AI become?\u201d should we also ask: \u201cWho benefits from making us believe that enormous AI infrastructure must be built before we know what AI will actually become?\u201d I am not saying there is a conspiracy. I am asking whether AI hope and AI fear, although they look like opposite stories, may be producing the same economic result. What do you think? Source: IEA, Key Questions on Energy and AI (2026)"
     },
     {
-      "title": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
-      "author": "cnn",
-      "url": "https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/",
-      "published": 1789843120.0,
-      "thumbnail": "https://external-preview.redd.it/2ZNsxLveLmIB21qN0Oj8ys1GhPIhd-wIARoHEZxZsBQ.jpeg?width=640&crop=smart&auto=webp&s=0d20f723c0ad044ad1c1bdb144fc6ebc96d111b6",
-      "external_url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar?utm_medium=social&utm_campaign=missions&utm_source=reddit",
-      "site_name": "CNN",
-      "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
-      "description": "President Donald Trump said Saturday he plans to create an \u201cAI Force\u201d and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence."
-    },
-    {
-      "title": "AI is a better teacher than most human teachers",
-      "author": "Chemical_Job7027",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkibwi/ai_is_a_better_teacher_than_most_human_teachers/",
-      "published": 1789812577.0,
+      "title": "AI Acitvity Preference",
+      "author": "logic_circuit",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/",
+      "published": 1789908782.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I genuinely don't understand why so many people are against AI, especially when it comes to education. I'm in my 3rdyear of a 4 year program and honestly AI has basically saved my academic life. I'm studying something related to IT and when I started I had pretty much 0 background in it so obviously I had a LOT of questions ( including really basic ones). I remember during my 1st year asking professors things and sometimes literally being made fun of because apparently my question was \"stupid\" or something I should already know. Which is great when you're already insecure because everyone around you seems to know more than you lol. And honestly a lot of my professors just weren't good at explaining things. Like they'd come into class, open a PowerPoint, read the slides, maybe explain a couple things and then sit down with their laptop. That was basically the class. I'd go home and realize I understood almost nothing and had to figure it out myself anyway. And asking questions wasn't always helpful either. Sometimes they'd explain it again but in basically the exact same way so obviously if I didn't understand it the first time I still didn't understand it. And then what? Ask them a 3rd time? At some point you just feel embarrassed and say \"yeah okay I get it\" even though you absolutely don't. That's where AI entered and changed my life. I can ask the dumbest question ever and it doesn't care. I can literally say \"I don't understand a single word you just said, explain it to me like I know absolutely nothing about this\" and it will. It never makes me feel stupid for not knowing something. I'm still the one studying. I'm still the one doing the assignments and taking the exams. But I genuinely don't think I would have gotten this far without it. I also think AI could eventually be really useful for grading. Obviously AI can make mistakes too, I'm not denying that. But professors are human too. They're tired, they can misunderstand an answer, accidentally give someone the wrong grade, be inconsistent when correcting 30 exams, etc. I really don't understand why people act like human grading is somehow completely objective and error-free. I'd honestly trust more a well designed AI grading system with clear criteria. And I know people are probably going to hate this part but AI has genuinely been a better teacher to me than most of the actual teachers I've had. I also don't understand why whenever AI and education are mentioned people immediately jump to \"students use it to cheat\". Yeah, obviously some do. People use basically every technology for shitty things. That doesn't make the technology itself useless. I've never used it because I don't want to do anything myself. It's literally the opposite. I use it because I WANT to understand what I'm doing. So yeah. I understand being worried about how AI is used. I understand being against people using it to cheat or replace their own thinking. But being against AI itself? I genuinely don't get it. I'm the one who has done the work for these 3 years, but AI is a huge part of the reason I was able to understand that work instead of giving up"
+      "description": "If context is free chat, DS or Gemini or any other in general; can it select which chat or task to dedicate more resources based on chat topic and maturity to increase its own training?"
     },
     {
-      "title": "Weren't Dario and Sam just screaming that WE HAVE TO SLOW DOWN last week? So do they believe that or not?",
-      "author": "_TheWolfOfWalmart_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkqkl4/werent_dario_and_sam_just_screaming_that_we_have/",
-      "published": 1789835191.0,
-      "thumbnail": "https://preview.redd.it/cioadskk6iqh1.png?width=640&crop=smart&auto=webp&s=d904900771cf8c109c460acacfe334552d80ca90",
+      "title": "I love having persistent memory. It makes everything so easy check it out.remote app on chat mode controls my host",
+      "author": "epicskyes",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/",
+      "published": 1789908664.0,
+      "thumbnail": "https://external-preview.redd.it/Mmt4bmNlamU5b3FoMZ_lB0fDjn99nb69a-igjymiXpncZEjDbYHFj3VumYsr.png?width=640&crop=smart&auto=webp&s=f1c44bf3798ebc090c01eab9033467f10819f7f5",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Dethrone - a PoC game testing Jev from typesafe.ai, the model that generates decisions instead of text. Evals at the Chronical link at bottom.",
-      "author": "aaddrick",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlf0s2/dethrone_a_poc_game_testing_jev_from_typesafeai/",
-      "published": 1789905042.0,
-      "thumbnail": "https://external-preview.redd.it/DHwTlFXuSXgEieyn-V-ezqqiOYYG-JD-YUCmuxf_ucI.png?width=640&crop=smart&auto=webp&s=932a688331a9b4cbef1d9da6bbff9518e4c279c8",
-      "external_url": "https://dethroned.ai",
-      "site_name": "Dethrone",
-      "favicon": "https://dethroned.ai/favicon.ico",
-      "description": "I built a card game where an AI model plays the king and your job is to get him off the throne. It's called Dethrone. It's free to play, open source, and every turn anyone plays is public. The king is Jev, TypeSafe's decision model. I wanted to test it, so I gave it a crown. Most people meet AI as a chatbot that writes things. A decision model writes nothing. You hand it a situation and typed questions, and it hands back answers with probabilities in about 700 ms. That's hard to show anyone, which is why it's a game. I thought the game Reigns would be a good demo if I just flipped the concept around. Every word on screen is authored. The model only decides. A turn is two calls, because questions in one call are answered independently. Can't forecast repercussions and make a choice based on those forecasts in a single call. Each king has a flaw. You play one petition from a hand of five, and the gold-edged ones are aimed at the flaw. Wisdom sets the odds between what the king wants and what their advisor knows. The server rolls against those odds to make a choice. Their own forecasts for the option he picked are what move the meters. They die by their own predictions. Every turn is at dethroned.ai/eval with both raw calls. Playing fills it. Play: https://dethroned.ai The chronicle: https://dethroned.ai/eval Source: https://github.com/aaddrick/dethroned-ai"
-    },
-    {
-      "title": "I'm Building a pixel building to mange AI agents that can use almost any LLM available",
-      "author": "AlexanderJAnderson",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/",
-      "published": 1789853945.0,
-      "thumbnail": "https://external-preview.redd.it/NXdqbjNya25xanFoMXhfwH8R5FgJ6865vjNX8TkE3zpnmTnp-Lk5cGbhWPRq.png?width=640&crop=smart&auto=webp&s=7b05c72df726bf952d732ff1c4fe2e28299fbd10",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Sanctorum is a Electron desktop app where you run a team or teams of AI agents (you can also create infinite ai agents and teams) as an actual organization. Each agent sits at a desk on a floor. What an agent is allowed to do is derived from that seat \u2014 you give a role a clearance level, put the role at a desk, sit an agent there. Move them, and their capabilities move with them. It runs its own LangGraph loop rather than wrapping existing CLIs, so you can put any OpenRouter model on any agent. Every tool call pauses for your approval by default. Every delegation tree has a spending ceiling (in dls $). And every Agent can be directed to a directory inside your computer of your choice to work there. Agents can work in parallel or one at a time. And many more capabilities. Genuinely unsure whether seat-derived permissions are a real idea or an elaborate way to avoid a settings page. Curious what people think. I am still working on it, but I believe the core capabilities are 90-95% done"
-    },
-    {
-      "title": "Is is better using AI infrequently rather than using it all the time?",
-      "author": "anxi0us_pers0n",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlbyim/is_is_better_using_ai_infrequently_rather_than/",
-      "published": 1789894700.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been wondering about this since a few days and I would like to hear some opinions about it. AI in general, is a bit of a two edged sword. On on side, AI can be used like a tool/technological advantage just like smartphones, on the other side, AI has a negative impact on the environment and also our logical thinking/brain. And if we use AI for everything we cause more harm than good, not only to our planet, but also to our ability to think and create indepentently. I, for example, refuse to use AI to write essays/thesis, etc. or create things/have creative thoughts for me, because what do I have the education, the brain and the creativity for, but at the same time, I've used AI as a tool, for example to give me keywords I can use to search up literature for my final thesis or to check the FPS rate in video games on my future PC build. I almost vehemently refuse to use AI for anything beyond that and also try to use it very sparsely. Sometimes it even makes me feel guilty for using it. I'm always mindful about what I'm asking and use criticall thinking on the information I recieve. I've heard a classmate of mine say he had already been on ChatGPT for two hours and it was only like 11 am. Another classmate once even told me in a partner work, in which we had to analysis a character from a book we read, that she wouldn't be able to do it without AI. I just told, her that's what I my gray cells are for, to do this work without relying on AI. And now comes the question: Is it better to use AI very rarely, instead of using it for everything, or should you ban AI usage in general? Or does it entirely depend how much cricitcal thinking you do about the answers you recieve or the prompt you write?"
+      "description": "This is a demonstration of how persistent memory can make switching threads effortless never lose context. Never lose your place start up exactly where you left off and this is using 5.6 in the ChatGPT phone app on chat mode not work so not use my weekly usage."
     }
   ],
-  "fetched_at": "2026-09-20T12:03:46.246125+00:00"
+  "fetched_at": "2026-09-20T16:22:40.254576+00:00"
 }

@@ -20,6 +20,25 @@
       "project_page": null
     },
     {
+      "id": "2503.11576",
+      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+      "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
+      "organization_name": "ibm-granite",
+      "organization_fullname": "IBM Granite",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
+      "summary": "We introduce SmolDocling, an ultra-compact vision-language model targeting\nend-to-end document conversion. Our model comprehensively processes entire\npages by generating DocTags, a new universal markup format that captures all\npage elements in their full context with location. Unlike existing approaches\nthat rely on large foundational models, or ensemble solutions that rely on\nhandcrafted pipelines of multiple specialized models, SmolDocling offers an\nend-to-end conversion for accurately capturing content, structure and spatial\nlocation of document elements in a 256M parameters vision-language model.\nSmolDocling exhibits robust performance in correctly reproducing document\nfeatures such as code listings, tables, equations, charts, lists, and more\nacross a diverse range of document types including business documents, academic\npapers, technical reports, patents, and forms -- significantly extending beyond\nthe commonly observed focus on scientific papers. Additionally, we contribute\nnovel publicly sourced datasets for charts, tables, equations, and code\nrecognition. Experimental results demonstrate that SmolDocling competes with\nother Vision Language Models that are up to 27 times larger in size, while\nreducing computational requirements substantially. The model is currently\navailable, datasets will be publicly available soon.",
+      "ai_summary": "SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.",
+      "hf_url": "https://huggingface.co/papers/2503.11576",
+      "arxiv_url": "https://arxiv.org/abs/2503.11576",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.11576.png",
+      "upvotes": 175,
+      "num_comments": 19,
+      "published_at": "2025-03-14T12:44:14.000Z",
+      "github_repo": "https://github.com/docling-project/docling",
+      "github_stars": 67364,
+      "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
+    },
+    {
       "id": "2503.08638",
       "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
       "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
@@ -35,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9820,
+      "github_stars": 9877,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -54,27 +73,8 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 4171,
+      "github_stars": 4188,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
-    },
-    {
-      "id": "2503.11576",
-      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
-      "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
-      "organization_name": "ibm-granite",
-      "organization_fullname": "IBM Granite",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
-      "summary": "We introduce SmolDocling, an ultra-compact vision-language model targeting\nend-to-end document conversion. Our model comprehensively processes entire\npages by generating DocTags, a new universal markup format that captures all\npage elements in their full context with location. Unlike existing approaches\nthat rely on large foundational models, or ensemble solutions that rely on\nhandcrafted pipelines of multiple specialized models, SmolDocling offers an\nend-to-end conversion for accurately capturing content, structure and spatial\nlocation of document elements in a 256M parameters vision-language model.\nSmolDocling exhibits robust performance in correctly reproducing document\nfeatures such as code listings, tables, equations, charts, lists, and more\nacross a diverse range of document types including business documents, academic\npapers, technical reports, patents, and forms -- significantly extending beyond\nthe commonly observed focus on scientific papers. Additionally, we contribute\nnovel publicly sourced datasets for charts, tables, equations, and code\nrecognition. Experimental results demonstrate that SmolDocling competes with\nother Vision Language Models that are up to 27 times larger in size, while\nreducing computational requirements substantially. The model is currently\navailable, datasets will be publicly available soon.",
-      "ai_summary": "SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.",
-      "hf_url": "https://huggingface.co/papers/2503.11576",
-      "arxiv_url": "https://arxiv.org/abs/2503.11576",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.11576.png",
-      "upvotes": 174,
-      "num_comments": 19,
-      "published_at": "2025-03-14T12:44:14.000Z",
-      "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 67059,
-      "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
       "id": "2609.14858",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2609.20519",
       "arxiv_url": "https://arxiv.org/abs/2609.20519",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 92,
+      "upvotes": 94,
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
@@ -149,7 +149,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 88546,
+      "github_stars": 88608,
       "project_page": null
     },
     {
@@ -168,30 +168,30 @@
       "num_comments": 7,
       "published_at": "2025-09-08T13:28:42.000Z",
       "github_repo": "https://github.com/jmiao24/Paper2Agent",
-      "github_stars": 3110,
+      "github_stars": 3150,
       "project_page": "https://huggingface.co/spaces/Paper2Agent/alphagenome_agent"
     },
     {
-      "id": "2609.15818",
-      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-      "authors": "Honglin Guo, Tao Gui, Yicheng Chen et al. (143 authors)",
-      "organization_name": "internlm",
-      "organization_fullname": "Intern Large Models",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6432683407bad11484a68457/Q3Y0dL79GcsnaBCGRMooZ.png",
-      "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundation agentic language model designed for scientific research and engineering workflows, with the goal of expanding the frontier of agent productivity in the real world. This model is trained via a Verifiable Experience Pipeline that connects tool-mediated interactions to executable environments and externally verified outcomes. Across 16 benchmarks spanning real-world research, engineering, and digital work, Atria Dawn Preview is competitive with frontier agents and achieves the highest reported score on five of them. Beyond standalone performance, we examine the real research-and-development process behind this model as a case study of human--AI collaboration, analyzing 769 task records from 56 participants together with agent logs. When asked to evaluate completed tasks under comparable conditions, participants rated about one-third of completed AI-assisted tasks as infeasible without AI. More strikingly, agents frequently propose methods and implement revisions, while humans retain most final decisions and guide exploration through judgment and feedback. These observations indicate a shift from task-level execution to project-level partnership, with human effort concentrating on what is worth pursuing and how evidence should guide research. Progress toward more autonomous AI research must therefore advance both the capacity for discovery and the capacity for meaningful human oversight, preserving accountable human authority over the risks and direction of continued development.",
-      "ai_summary": "Atria Dawn Preview is a foundation agentic language model trained through verified tool interactions that achieves strong benchmark results and demonstrates a shift toward human-AI project-level collaboration in scientific research.",
-      "hf_url": "https://huggingface.co/papers/2609.15818",
-      "arxiv_url": "https://arxiv.org/abs/2609.15818",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.15818.png",
-      "upvotes": 416,
-      "num_comments": 3,
-      "published_at": "2026-09-13T20:00:00.000Z",
-      "github_repo": "https://github.com/atria-asi/Atria-Dawn-Preview",
-      "github_stars": 506,
-      "project_page": "https://atria-asi.ai"
+      "id": "2403.08299",
+      "title": "AutoDev: Automated AI-Driven Development",
+      "authors": "Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "The landscape of software development has witnessed a paradigm shift with the\nadvent of AI-powered assistants, exemplified by GitHub Copilot. However,\nexisting solutions are not leveraging all the potential capabilities available\nin an IDE such as building, testing, executing code, git operations, etc.\nTherefore, they are constrained by their limited capabilities, primarily\nfocusing on suggesting code snippets and file manipulation within a chat-based\ninterface. To fill this gap, we present AutoDev, a fully automated AI-driven\nsoftware development framework, designed for autonomous planning and execution\nof intricate software engineering tasks. AutoDev enables users to define\ncomplex software engineering objectives, which are assigned to AutoDev's\nautonomous AI Agents to achieve. These AI agents can perform diverse operations\non a codebase, including file editing, retrieval, build processes, execution,\ntesting, and git operations. They also have access to files, compiler output,\nbuild and testing logs, static analysis tools, and more. This enables the AI\nAgents to execute tasks in a fully automated manner with a comprehensive\nunderstanding of the contextual information required. Furthermore, AutoDev\nestablishes a secure development environment by confining all operations within\nDocker containers. This framework incorporates guardrails to ensure user\nprivacy and file security, allowing users to define specific permitted or\nrestricted commands and operations within AutoDev. In our evaluation, we tested\nAutoDev on the HumanEval dataset, obtaining promising results with 91.5% and\n87.8% of Pass@1 for code generation and test generation respectively,\ndemonstrating its effectiveness in automating software engineering tasks while\nmaintaining a secure and user-controlled development environment.",
+      "ai_summary": "AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.",
+      "hf_url": "https://huggingface.co/papers/2403.08299",
+      "arxiv_url": "https://arxiv.org/abs/2403.08299",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2403.08299.png",
+      "upvotes": 20,
+      "num_comments": 2,
+      "published_at": "2024-03-13T03:12:03.000Z",
+      "github_repo": "https://github.com/vxcontrol/pentagi",
+      "github_stars": 24772,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-20T12:03:52.713338+00:00"
+  "fetched_at": "2026-09-20T16:22:39.945388+00:00"
 }

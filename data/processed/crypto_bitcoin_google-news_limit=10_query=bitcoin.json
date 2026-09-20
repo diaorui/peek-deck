@@ -5,8 +5,18 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDQ4c1BBTHFDRVloRTM2dHlCOVdyckRiYUtULUhrX1VtQkxFOEZyR0RRNnR5WFNwdFBFOHRFd0YzNmVLWk0ydVo1bldRNUlSOUJEc2pyanhQYnk5S2M0T2F5VTZrYjVobWw0QzFheldkLXgzdGpOYjNscS1tZ05XakNyOFQ0MUxpTzhjblJBRWtqakJQT2ZHYncwb1BOMHRKaG1XU0FnbmZlMDNQS2xPMmRJYWpWaFJGbjM0bXN0TE0?oc=5",
+      "pub_date": 1789714800.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations."
+    },
+    {
       "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
       "pub_date": 1789743537.0,
@@ -15,17 +25,17 @@
       "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
     },
     {
-      "headline": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3VLSm5MTk4yakhMd3ZYam4yMXM0NjRLYkZkWnJCUm9mTXBmS3RpdFh5UkpNdUcwWnBWNngxdU84ODJ5WmtONGpzWVBDa2VEaHlKTzY5WExQTWd5OWd4TGVhRlJfRk1XVW4zTEhPTzRreXJUcVhvOWtKUnVrbjZBelZpSFkwM1hnZ25FR3ZiaWVfUGZaSFJNczdlTmZ4aS1Bb2Z3M2RJQXEyS2t2dlNOcUtPa1A5cjZHZHdpLXlURkM2Rks1Y0d2UQ?oc=5",
-      "pub_date": 1789820037.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis."
+      "headline": "BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmFOaHNTeEg0OHNPOHo2QzhCUzN5V1JnWWNpb3F0U3F5VGRMUTNhUFNQTVNRRnlBZi1DalVOTkVxMm9QWnY4R3d6WnUzbmpNUjhPLXI3SWFKN3I0RkgtT3NVUk9aRURJR1lueUR3aHM1VFFyaWliUmxXUkxpaERsOTBVRTdESThSUGZ5SVJOWm1yNUJCTVk1Uk5B?oc=5",
+      "pub_date": 1789916477.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-us-equity-etf-head-150117760.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/649f3a20d13ce100c669c14ff0800023b57ff8cce1a6545e11badb9050ef5ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F16217a5c26024628a259cbc5a64776da",
+      "description": "BlackRock\u2019s Jacobs argued Bitcoin still serves as a portfolio diversifier despite institutional adoption."
     },
     {
-      "headline": "The People\u2014OK, the Men\u2014Who Still Love Bitcoin",
+      "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
       "source": "Slate Magazine",
       "source_url": "https://slate.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2Fya2hHWGRsSHVFZWtsbXZBUXh2cjlYeDNidjRaZzRIR3h4YmtMb1RYN21DU052RkNQTjk3djVoVm5UTGFEVFF4TlFSdGpVYjRnOGNUbVJkaDNoR01IN3lXSFQ2MUZKb1RQRmF6OVFBVGFEbkxjZlg5RWQtX1NrOEVZdmswZkZDZ3ZpYnpIaXJTU25qMm1pWHZlWWpfYkdE?oc=5",
@@ -55,6 +65,16 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
+      "headline": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHZRUE9ILUJZbTNRVWJwR1FLZG1zOWp1RmtHQVp0ZnBwSmtVM1hZN3k0OS1pVXI2TVNyU3FwNW04MXp4SmZPYzg2WGtHWkhBMzd0TnBzZ1p5Vk1RSUxrQ1psV3NLQUVFa3BHSkd2Q2d1UVJzSjgwakRQMGUxZ1M5clhyal9LQzcxOXlIWXpSTTVPM0N1ZzVETXpMRTY?oc=5",
+      "pub_date": 1789911282.0,
+      "article_url": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg",
+      "description": "Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with."
+    },
+    {
       "headline": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
@@ -66,7 +86,7 @@
     },
     {
       "headline": "Current price of Bitcoin for September 18, 2026",
-      "source": "fortune.com",
+      "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
       "pub_date": 1789732800.0,
@@ -83,28 +103,8 @@
       "article_url": "https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886850%2Fgold-coin-with-bitcoin-symbol-on-it-cryptocurrency-btc.jpg&w=1200&op=resize",
       "description": "If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach."
-    },
-    {
-      "headline": "Peter Schiff calls SEC tokenized stock announcement bearish for Bitcoin despite rally",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM1RzenNpNU9pQ085WEJvSVBEdmJ6QmhCazRNeUJjdVBsdXpJbE5kMjNoN3hzdm91QmZCdDVNM3EtQ21QWGd2SGM0TkZIWmpaMWcyY2Z2QlROSnFZeHJ3bVd0UDByVFVidGlkLThLZVFrVVJ0NjRKbHg4U1hpMDc5c0Vucjl0N2N0bG5kc25IV0k3Ykd4NmZBcGNzUUhLaldaU01DZk1EZy1wWVZ3b05NRDJ5Y2VPSzVnRW8tdE43N0pkY3lfYXA2NlczY1ZKMlo3QVkyM3JJeVpzS2p1VDd2OTRGWnE?oc=5",
-      "pub_date": 1789882500.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:854e69989094b:0-peter-schiff-calls-sec-tokenized-stock-announcement-bearish-for-bitcoin-despite-rally/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin rallied after the SEC announced a sweeping new exemption for tokenized stock trading. Peter Schiff thinks the market got it exactly backwards.The longtime Bitcoin critic argued that the SEC's \"Innovation Exemption,\" which allows qualifying US trading platforms to conduct liquidity pool trad\u2026"
-    },
-    {
-      "headline": "Bitcoin's Sharpest Rally in Two Years Ran Almost Entirely on Short Liquidations",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmV5NXgxb21Db0J3ZG1hM0l4NHdKb2ZoUXVqOEMzZjUxSUtGTGJ0YmtSN25iRDJBUFc1VVd6SzB3ZU9GRHRSWC1veVRkbnluWU9nMjY3QzNmdXNmQVpVeDBCQXdXMWwySERIVXhnX2gzT3kyemYzQ3BjRU8ycDBLWHF0ONIBiwFBVV95cUxQdmhpXy1lMEUzSVpiSFlsS1NPZXVraXVHeDh0Nkt2R2RacFphS1ZwNDVwS3pWSGx1RHYtcHlrcm5kUXdFazNwZ2JGb1d5M0ljSk5BSDU0WVNVVzhJQVFKNm9WU1hhdmZZb2V0S19zejhkcTZQRGc1aVZaNWlGUllmc2xNdWlsam51bV9v?oc=5",
-      "pub_date": 1789833663.0,
-      "article_url": "https://decrypt.co/378686/bitcoin-sharpest-rally-two-years-short-liquidations",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png",
-      "description": "Bitcoin's most violent rally of its two-year drawdown wasn't powered by fresh bullish bets, according to a Glassnode-Bybit report."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T12:04:00.909855+00:00"
+  "fetched_at": "2026-09-20T16:22:58.164226+00:00"
 }

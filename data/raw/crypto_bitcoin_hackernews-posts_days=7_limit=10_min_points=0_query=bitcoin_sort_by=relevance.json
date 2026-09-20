@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
       "points": 313,
-      "num_comments": 269,
+      "num_comments": 270,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -31,6 +31,20 @@
       "description": "Investors shift from political optimism to uncertainty as the U.S. crypto market-structure bill approaches a critical Senate test",
       "favicon": "https://images.fika.bar/user/DFBuEqXihqDp3dppBhcSUTMfdvszzseL/2ec9a0039dcf2d27e911b1eaf35b4c70/Screenshot-2026-08-18-111126.png",
       "site_name": "predx-article"
+    },
+    {
+      "title": "The People\u2013OK, the Men\u2013Who Still Love Bitcoin",
+      "url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49775336",
+      "author": "pseudolus",
+      "points": 3,
+      "num_comments": 1,
+      "created_at": "2026-09-20T12:49:49Z",
+      "object_id": "49775336",
+      "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
+      "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.",
+      "favicon": "https://slate.com/media/sites/slate-com/icon.180x180.png",
+      "site_name": "Slate Magazine"
     },
     {
       "title": "\u1e3cava AI Bitcoin Talk Article",
@@ -103,7 +117,7 @@
       "site_name": "eleuteria-robosat.github.io"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-09-20T12:03:41.998786+00:00"
+  "fetched_at": "2026-09-20T16:22:41.385247+00:00"
 }
