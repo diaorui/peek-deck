@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-19T23:21:22.895118+00:00'
+updated: '2026-09-20T01:25:16.049398+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 19, 2026 at 23:21 UTC  
+**Last Updated:** September 20, 2026 at 01:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -158,19 +158,19 @@ bloomberg.com • 1d ago
 
 ---
 
-**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
-
-The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
-
-MIT News • 2d ago
-
----
-
 **[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
 
 Humanoid Robots Break Records In Beijing has 16 comments.
 
 DOGO News • 1d ago
+
+---
+
+**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
+
+The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
+
+MIT News • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 658K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 673K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 17K • 👍 126 • 💬 34 • ⏱️ 2:56 • 2d ago
+👁️ 18K • 👍 131 • 💬 36 • ⏱️ 2:56 • 2d ago
 
 ---
 
@@ -218,17 +218,7 @@ Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation 
 
 📺 Reward AI
 
-👁️ 137K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 47K • 👍 4K • 💬 425 • ⏱️ 55:24 • 4h ago
+👁️ 138K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
 
 ---
 
@@ -238,7 +228,17 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 81K • 👍 284 • 💬 51 • ⏱️ 9:44 • 4d ago
+👁️ 81K • 👍 286 • 💬 51 • ⏱️ 9:44 • 4d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 12K • 👍 234 • 💬 25 • ⏱️ 57:02 • 4d ago
 
 ---
 
@@ -252,33 +252,23 @@ These New American Construction Robots Will Leave You Speechless Every year, the
 
 ---
 
-**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
-
-A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
-
-📺 Auren Voss Insights
-
-👁️ 6K • 👍 144 • 💬 17 • ⏱️ 0:36 • 10h ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 12K • 👍 232 • 💬 25 • ⏱️ 57:02 • 4d ago
-
----
-
 **[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
 
 humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
 
 📺 Ai Futuristic Robotics
 
-👁️ 49K • 👍 401 • 💬 49 • ⏱️ 18:12 • 6d ago
+👁️ 49K • 👍 405 • 💬 49 • ⏱️ 18:12 • 6d ago
+
+---
+
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+
+📺 EmortalMarcus
+
+👁️ 84K • 👍 5K • 💬 503 • ⏱️ 55:24 • 6h ago
 
 ---
 
@@ -288,7 +278,17 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 128K • 👍 990 • 💬 370 • ⏱️ 1:04 • 4d ago
+👁️ 129K • 👍 995 • 💬 372 • ⏱️ 1:04 • 4d ago
+
+---
+
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+
+📺 Cleo Abram
+
+👁️ 420K • 👍 21K • 💬 510 • ⏱️ 0:37 • 5d ago
 
 ---
 
