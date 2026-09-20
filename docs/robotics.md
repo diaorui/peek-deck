@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T16:23:09.404788+00:00'
+updated: '2026-09-20T18:58:29.680731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 16:23 UTC  
+**Last Updated:** September 20, 2026 at 18:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-businessinsider.com • 2d ago
+Business Insider • 2d ago
 
 ---
 
@@ -132,7 +132,7 @@ BBC • 2d ago
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-The Robot Report • 1d ago
+The Robot Report • 2d ago
 
 ---
 
@@ -140,7 +140,7 @@ The Robot Report • 1d ago
 
 Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
 
-ABC News & Headlines – Australian Broadcasting Corporation • 14h ago
+ABC News & Headlines – Australian Broadcasting Corporation • 17h ago
 
 ---
 
@@ -152,19 +152,17 @@ Fox News • 1d ago
 
 ---
 
+**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
+
+The BayNet • 8h ago
+
+---
+
 **[Toyota plans to deploy 400,000 factory robots from 2028](https://www.automotiveworld.com/news/toyota-plans-to-deploy-400000-factory-robots-from-2028/)**
 
 Having robots learn by watching workers lets Toyota generate training data organically rather than depend on simulation. By Stewart Burnett
 
 Automotive World • 2d ago
-
----
-
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
-
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
-
-IEEE Spectrum • 6h ago
 
 ---
 
@@ -174,19 +172,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
+**[Japan's first robot ambulance works the 9-1-1 lines for humanoids](https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/)**
 
-Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
+Before humanoid robots fully integrate into our societies and inhabit our homes, factory floors, and workspaces, a Japanese firm is thinking one step ahead. GMO has just unveiled a "Humanoid Ambulance" that it will roll out this month to handle maintenance tasks on-site.
 
-Futurism • 1h ago
+New Atlas • 10h ago
 
 ---
 
-**[US Must Act to Counter China's Combat Robotics Dominance](https://www.yahoo.com/news/politics/articles/us-must-act-counter-chinas-094445036.html)**
+**[Humanoid Robots Are Getting Smarter and Capable — But Researchers Mull If Their ‘ChatGPT Moment’ Is Here?](https://finance.yahoo.com/technology/ai/articles/humanoid-robots-getting-smarter-capable-213040189.html)**
 
-US Must Act to Counter China's Combat Robotics Dominance
+Humanoid robots are showing meaningful progress beyond controlled demonstrations, with advances in autonomy, dexterity, and the ability to perform repetitive real-world tasks. But widespread commercial deployment still remains a work in progress. After spending a week meeting with leading robotics...
 
-Yahoo • 2d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -194,33 +192,13 @@ Yahoo • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 52K • 👍 422 • 💬 50 • ⏱️ 18:12 • 6d ago
-
----
-
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
-
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
-
-📺 ejunky66
-
-👁️ 440K • 👍 5K • 💬 610 • ⏱️ 1:00 • 3d ago
-
----
-
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
 AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
 📺 MindSeeded
 
-👁️ 744K • 👍 11K • 💬 1K • ⏱️ 16:24 • 3d ago
+👁️ 761K • 👍 11K • 💬 1K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -234,43 +212,23 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 ---
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 138K • 👍 1K • 💬 114 • ⏱️ 2:20 • 5d ago
-
----
-
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
-
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
-
-📺 ejunky66
-
-👁️ 612 • 👍 12 • 💬 2 • ⏱️ 1:00 • 1h ago
-
----
-
 **[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
 
 Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
 
 📺 Bloomberg Tech
 
-👁️ 73K • 👍 287 • 💬 51 • ⏱️ 9:44 • 5d ago
+👁️ 73K • 👍 288 • 💬 51 • ⏱️ 9:44 • 5d ago
 
 ---
 
-**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
 
-China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
 
-📺 NextGen Humanoids
+📺 Ai Futuristic Robotics
 
-👁️ 41K • 👍 296 • 💬 74 • ⏱️ 11:33 • 4d ago
+👁️ 52K • 👍 423 • 💬 51 • ⏱️ 18:12 • 6d ago
 
 ---
 
@@ -280,15 +238,57 @@ These New American Construction Robots Will Leave You Speechless Every year, the
 
 📺 Future Core
 
-👁️ 185K • 👍 719 • 💬 43 • ⏱️ 9:07 • 5d ago
+👁️ 185K • 👍 722 • 💬 43 • ⏱️ 9:07 • 5d ago
 
 ---
 
-**[World’s FIRST Humanoid Robot Mega-Factory Is Here🤖🔥 #HumanoidRobot#Robotics#AI #RobotFactory#ubtech](https://www.youtube.com/watch?v=GLA94oQ_fbg)**
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
 
-📺 Prasadtechshorts
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
 
-👁️ 195K • 👍 6K • 💬 76 • ⏱️ 0:37 • 1d ago
+📺 NextGen Humanoids
+
+👁️ 42K • 👍 297 • 💬 74 • ⏱️ 11:33 • 5d ago
+
+---
+
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+
+📺 Talent Replay
+
+👁️ 67K • 👍 249 • 💬 53 • ⏱️ 4:51 • 4d ago
+
+---
+
+**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
+
+One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
+
+📺 UBTECH Robotics
+
+👁️ 128K • 👍 1K • 💬 382 • ⏱️ 1:04 • 5d ago
+
+---
+
+**[eufy Robot Vacuum E35 vs S2 - I Tested Them Head-to-Head!](https://www.youtube.com/watch?v=LxqJDi3a7YY)**
+
+I tested the eufy Omni E35 against the flagship S2 in real-world cleaning tests, including mopping, carpet debris, long hair and ...
+
+📺 The Q
+
+👁️ 98K • 👍 4K • 💬 274 • ⏱️ 5:56 • 1d ago
+
+---
+
+**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+
+This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+
+📺 Cleo Abram
+
+👁️ 433K • 👍 22K • 💬 525 • ⏱️ 0:37 • 6d ago
 
 ---
 

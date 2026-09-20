@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-20T18:58:29.092703+00:00",
+  "data": "Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supporting native transparency (RGBA) and versatile editing with up to 10 reference images. It excels at realistic textures, refined aesthetics, and efficient inference for applications like content creation and image manipulation.",
+  "model_id": "Qwen/Qwen-Image-2.1"
+}

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T16:23:09.401595+00:00'
+updated: '2026-09-20T18:58:29.679071+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 16:23 UTC  
+**Last Updated:** September 20, 2026 at 18:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,69 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +4.1%  
-**30d:** +8.0%  
-**90d:** +57.0%  
-**1y:** -41.1%  
+**24h:** -0.4%  
+**7d:** +4.4%  
+**30d:** +8.4%  
+**90d:** +57.5%  
+**1y:** -40.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $319.91B
+**Market Cap:** $320.39B
 Rank #2
 
 **Circulating Supply:** 122,064,744 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.0%
+-46.9%
 
 **All-Time Low:** $0.43
-+605148.8%
++606019.5%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion September 20, 2026](https://www.reddit.com/r/ethereum/comments/1wl7p31/daily_general_discussion_september_20_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+13h ago
+
+---
+
+**[Daily General Discussion September 19, 2026](https://www.reddit.com/r/ethereum/comments/1wkcwaf/daily_general_discussion_september_19_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
 
 **[Daily General Discussion September 18, 2026](https://www.reddit.com/r/ethereum/comments/1wjgvd6/daily_general_discussion_september_18_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
 2d ago
+
+---
+
+**[Ethereal news weekly #40 | US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S&P Global acquiring OpenZeppelin, Blockspace Forum multi party block construction live](https://www.reddit.com/r/ethereum/comments/1wjr1bh/ethereal_news_weekly_40_us_sec_innovation/)**
+
+US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S\&P Global acquiring OpenZeppelin, Blockspace Forum multi party block construction live
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-40/) • 2d ago
+
+---
+
+**[Ethereum’s Glamsterdam Upgrade Gets October Test Date With Builder Attack Warning](https://www.reddit.com/r/ethereum/comments/1wjkav7/ethereums_glamsterdam_upgrade_gets_october_test/)**
+
+Ethereum confirms October 6 for Glamsterdam's Sepolia testnet launch while developers warn fake builders using free test ether could disrupt block auctions.
+
+🔗 [CoinCentral](https://coincentral.com/ethereums-glamsterdam-upgrade-gets-october-test-date-with-builder-attack-warning/) • 2d ago
 
 ---
 
@@ -112,39 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is one thing that would make Ethereum meaningfully safer? The ETHSecurity Initiatives Round aims to answer that question and fund the best answers. The round is live starting today at initiatives.thedao.fund, with several initiatives on it already and room for a hundred more. In our first funding round, more than 20 ecosystem funders and 3,934 donors joined us, and together we put over $1.6M into diverse Ethereum security projects. To date, we've coordinated the funding of over 1,000 ETH...
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 4d ago
-
----
-
-**[Daily General Discussion September 14, 2026](https://www.reddit.com/r/ethereum/comments/1wfu1o3/daily_general_discussion_september_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-6d ago
-
----
-
-**[Daily General Discussion September 13, 2026](https://www.reddit.com/r/ethereum/comments/1weye8n/daily_general_discussion_september_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
-
-7d ago
-
----
-
-**[[AMA] We are EF Protocol (Pt. 15: 16 September, 2026)](https://www.reddit.com/r/ethereum/comments/1wf48x3/ama_we_are_ef_protocol_pt_15_16_september_2026/)**
-
-NOTICE: This AMA is LIVE as of 16 September at 1400 UTC! It remains open until a closure notice replaces this line :)! Have a question you'd like answered? Post below! Members of the Protocol Cluster at Ethereum Foundation are back to answer your questions throughout the day! This is their 15th AMA. There are a lot of members taking part, so keep the questions coming, and enjoy! Oh! And to make it easier for us to respond to everyone, please post just one question per comment. Prior AMAs: #14, Aug 2025 #13, Feb 2025 #12, Sep 2024 #11, Jan 2024 #10, Jul 2023 #9, Jan 2023 #8, Jul 2022 #7, Jan 2022 #6, Jun 2021 #5, Nov 2020 #4, Jul 2020 #3, Feb 2020 #2, Jul 2019 #1, Jan 2019
-
-7d ago
-
----
-
-**[Can Ethereum smart contracts be used to securely hold user deposits?](https://www.reddit.com/r/ethereum/comments/1welwbb/can_ethereum_smart_contracts_be_used_to_securely/)**
-
-We have a website with a system where users need to deposit money as a security deposit or collateral (Forum). For security and trust reasons, I don't want the money to be held directly by us. Instead, I'm looking into whether we could use a blockchain smart contract or some other decentralized solution to hold the funds. The idea is that people who advertise/promote content that has a deposit attached to it would receive a commission, for example 10% or 15%, based on predefined rules. The commission would be handled automatically by the system, while users would still be able to see and track their funds from their own wallets at all times. We are also considering creating a kind of hot wallet network that users could use to send and receive funds between each other within our platform. My main question is: would something like this be possible to build on the Ethereum network using smart contracts? I'm still researching the technical side of this and I don't know all the details yet, so I'd really appreciate any advice or suggestions from people who have experience with Ethereum, smart contracts, or similar systems. Thanks in advance, and I appreciate any input.
-
-7d ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 5d ago
 
 ---
 
@@ -156,23 +156,31 @@ We have a website with a system where users need to deposit money as a security 
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-CoinDesk • 2d ago
+coindesk.com • 2d ago
 
 ---
 
-**[Which Crypto ETF Drew the Most Money Last Week? Not Bitcoin, and Not Ethereum](https://beincrypto.com/zcash-ethereum-crypto-etf-weekly-flows/)**
+**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
 
-Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
+Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
 
-BeInCrypto • 1d ago
+Finance Magnates • 2d ago
 
 ---
 
-**[Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule](https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html)**
+**[Ethereum reclaims $2,500 as exchange supply dro...](https://pluang.com/en/news-feed/pasokan-ethereum-mengencang-harga-eth-menguat-di-atas-2500)**
 
-Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
+Ethereum has regained the $2,500 price level amid a significant 28% drop in ETH held on exchanges since May 2025, reducing the liquid supply available for trading. Increased staking, now at over 35%, further removes ETH from circulation, tightening supply. Additionally, U.S. Spot ETH ETFs have grown to $16.7 billion in assets, absorbing more ETH and limiting availability on open markets. This combination makes Ethereum's price more sensitive to spot demand, with future price stability depending on continued buyer interest versus potential selling pressure.
 
-finance.yahoo.com • 23m ago
+Pluang • 1h ago
+
+---
+
+**[Bitcoin could hit $100K and Ethereum $4K by yea...](https://pluang.com/en/news-feed/bisakah-bitcoin-capai-100k-ethereum-4k-tahun-akhir)**
+
+Bitcoin reaching $100,000 and Ethereum hitting $4,000 by the end of 2026 are possible but conditional scenarios. Bitcoin needs sustained institutional demand, ETF inflows, and favorable Federal Reserve policies, while Ethereum requires increased network activity, DeFi growth, and a rising ETH/BTC ratio. Both targets face risks from macroeconomic stress and technical resistance. Investors should monitor market liquidity, trading volume, and asset-specific demand signals to assess the likelihood of these price milestones.
+
+Pluang • 35m ago
 
 ---
 
@@ -180,23 +188,31 @@ finance.yahoo.com • 23m ago
 
 As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum’s decline from its October 2025 peak of…
 
-TradingView • 6h ago
+TradingView • 8h ago
 
 ---
 
-**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
+**[Tom Lee Says Q4 Could Bring One of the Biggest Rallies of Our Lifetime. Can Bitcoin, Ethereum, and XRP Reach New Highs?](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-q4-could-163456422.html)**
 
-Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
+Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on.
 
-The Motley Fool • 1d ago
+Yahoo Finance • 3d ago
 
 ---
 
-**[New Crypto: Remittix Targets a $0.50 Launch While the Ethereum Price Prediction Points Toward $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-targets-a-0-50-launch-while-the-ethereum-price-prediction-points-toward-6-000-1036558700)**
+**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/)**
 
-MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
+Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it.
 
-markets.businessinsider.com • 1d ago
+The Motley Fool • 1h ago
+
+---
+
+**[7 Altcoins Explode: Kevin O’Leary Says Ethereum May No Longer Rule](https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R)**
+
+Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
+
+Stocktwits • 2h ago
 
 ---
 
@@ -216,22 +232,6 @@ CryptoSlate • 3d ago
 
 ---
 
-**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
-
-XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
-
-247wallst.com • 2d ago
-
----
-
-**[Why Is Ethereum Up Today? ETH Hits Highest Price Since January as $2,757 Comes Into View](https://www.financemagnates.com/trending/why-is-ethereum-up-today-eth-hits-highest-price-since-january-as-2757-comes-into-view/)**
-
-Why Ethereum Is Going Up? Ether trades at its highest level since January above $2,616. My daily chart shows $2,757 next, then $3,370 to $3,498 if the breakout holds.
-
-Finance Magnates • 18h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -242,7 +242,17 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 283 • 💬 35 • ⏱️ 1:12 • 4h ago
+👁️ 11K • 👍 379 • 💬 41 • ⏱️ 1:12 • 6h ago
+
+---
+
+**[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=C17Tnq3xD6c)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 987 • 👍 110 • 💬 30 • ⏱️ 19:53 • 2h ago
 
 ---
 
@@ -252,17 +262,17 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 2K • 💬 171 • ⏱️ 10:49 • 17h ago
+👁️ 72K • 👍 2K • 💬 173 • ⏱️ 10:49 • 19h ago
 
 ---
 
-**[CRUCIAL LEVEL FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=AyIxrMiQJxk)**
+**[BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9NVoMLie5mI)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
 
-📺 Cilinix Crypto
+📺 Crypto World
 
-👁️ 537 • 👍 22 • 💬 2 • ⏱️ 4:53 • 6h ago
+👁️ 23K • 👍 515 • 💬 129 • ⏱️ 20:15 • 16h ago
 
 ---
 
@@ -272,7 +282,7 @@ Kevin O'Leary joins us in NYC for an interview about his allocation and views on
 
 📺 The Rollup
 
-👁️ 10K • 👍 182 • 💬 129 • ⏱️ 13:26 • 17h ago
+👁️ 12K • 👍 191 • 💬 125 • ⏱️ 13:26 • 19h ago
 
 ---
 
@@ -286,23 +296,13 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 ---
 
-**[BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9NVoMLie5mI)**
+**[CRUCIAL LEVEL FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=AyIxrMiQJxk)**
 
-BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 21K • 👍 495 • 💬 128 • ⏱️ 20:15 • 14h ago
-
----
-
-**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
-
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
-
-📺 More Crypto Online
-
-👁️ 12K • 👍 333 • 💬 24 • ⏱️ 9:40 • 1d ago
+👁️ 859 • 👍 21 • 💬 2 • ⏱️ 4:53 • 9h ago
 
 ---
 
@@ -316,23 +316,23 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 ---
 
+**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
+
+Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
+
+📺 More Crypto Online
+
+👁️ 13K • 👍 338 • 💬 23 • ⏱️ 9:40 • 1d ago
+
+---
+
 **[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
 
 Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
 
 📺 VirtualBacon
 
-👁️ 14K • 👍 187 • 💬 23 • ⏱️ 1:07 • 2d ago
-
----
-
-**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 15K • 👍 236 • 💬 150 • ⏱️ 49:49 • 2d ago
+👁️ 14K • 👍 193 • 💬 23 • ⏱️ 1:07 • 2d ago
 
 ---
 
