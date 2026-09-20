@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T06:43:31.311211+00:00'
+updated: '2026-09-20T12:04:08.452869+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 06:43 UTC  
+**Last Updated:** September 20, 2026 at 12:04 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +2.3%  
-**30d:** +6.1%  
-**90d:** +54.2%  
-**1y:** -42.1%  
+**24h:** -2.3%  
+**7d:** +2.6%  
+**30d:** +6.4%  
+**90d:** +54.7%  
+**1y:** -42.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $314.36B
+**Market Cap:** $314.50B
 Rank #2
 
 **Circulating Supply:** 122,064,744 ETH
@@ -62,7 +62,7 @@ No max supply
 -47.9%
 
 **All-Time Low:** $0.43
-+594670.2%
++594958.9%
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 NOTICE: This AMA is LIVE as of 16 September at 1400 UTC! It remains open until a closure notice replaces this line :)! Have a question you'd like answered? Post below! Members of the Protocol Cluster at Ethereum Foundation are back to answer your questions throughout the day! This is their 15th AMA. There are a lot of members taking part, so keep the questions coming, and enjoy! Oh! And to make it easier for us to respond to everyone, please post just one question per comment. Prior AMAs: #14, Aug 2025 #13, Feb 2025 #12, Sep 2024 #11, Jan 2024 #10, Jul 2023 #9, Jan 2023 #8, Jul 2022 #7, Jan 2022 #6, Jun 2021 #5, Nov 2020 #4, Jul 2020 #3, Feb 2020 #2, Jul 2019 #1, Jan 2019
 
-6d ago
+7d ago
 
 ---
 
@@ -164,23 +164,15 @@ CoinDesk • 2d ago
 
 Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
-**[Ethereum transfer fees drop over 85%, now under 10 cents due to network upgrades and Layer 2 adoption.](https://pluang.com/en/news-feed/biaya-ethereum-turun-lebih-dari-85-persen)**
+**[Ethereum rebounds to $2,500-$2,550, eyeing $3,0...](https://pluang.com/en/news-feed/prediksi-harga-ethereum-2026-level-wajar-eth)**
 
-Ethereum's average transfer fee has fallen sharply from $0.72 in April to about $0.095, a drop of over 85%. This reduction is driven by technical upgrades like Fusaka, which increased network capacity and gas limits, and the growing use of Layer 2 solutions such as Base, Arbitrum, and Optimism that handle transactions off the mainnet. While cheaper fees benefit users by lowering transaction costs, they also reduce revenue for the Ethereum protocol. Despite this, Ethereum's price has rebounded recently, showing positive momentum alongside the lower fees.
+Ethereum (ETH) has bounced back to the $2,500-$2,550 range after a dip below $2,400 earlier this week, reaching a key breakout point. Institutional interest is stabilizing, with U.S. spot ETH ETFs seeing positive inflows after recent outflows. For ETH to advance further, it must hold above $2,550, targeting $2,700, $2,800, and then the significant $3,000 level, which would represent a 20% gain from current prices. A rise to $3,500 would require stronger market factors including sustained ETF inflows, increased crypto risk appetite, and continued reduction in liquid ETH supply due to staking and exchange withdrawals. These trends suggest Ethereum could face less selling pressure, potentially supporting higher prices through 2026.
 
-Pluang • 19m ago
-
----
-
-**[Robinhood Chain fees hit $4.5M daily, but Ether...](https://pluang.com/en/news-feed/pertumbuhan-robinhood-chain-menunjukkan-kesenjangan-pendapatan-ethereum-yang)**
-
-On September 3, Robinhood Chain, an Ethereum Layer 2 built with Arbitrum, collected about $4.5 million in transaction fees, while Ethereum earned roughly $398 for data posting and proof services. This large gap highlights how Layer 2 solutions separate transaction execution from settlement, with most fees retained by the Layer 2 and only a small portion paid to Ethereum for settlement and data availability. The difference reflects the Layer 2 business model, where Ethereum's revenue depends on data demand and settlement costs rather than total user fees. This structure supports cheaper transactions but means Ethereum's direct revenue grows more slowly than Layer 2 activity.
-
-Pluang • 7m ago
+Pluang • 10m ago
 
 ---
 
@@ -188,7 +180,15 @@ Pluang • 7m ago
 
 Bitcoin opened at $76,350.68 on Friday, September 18, 2026, 0.3% higher than Thursday's opening price. As of 7:25 a.m. ET this morning, the price of bitcoin lifted to $77,991.09. Ethereum opened at $2,445.49 today, up 1.2% from Thursday's opening price. The price of ethereum moved up to $2,501.16 as of 7:25 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
+
+Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -196,15 +196,15 @@ Yahoo Finance • 1d ago
 
 XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
 
-247wallst.com • 2d ago
+24/7 Wall St. • 2d ago
 
 ---
 
-**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.tradingview.com/news/financemagnates:de97e038e094b:0-why-is-crypto-up-today-bitcoin-tops-80-000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
+**[Why Is Ethereum Up Today? ETH Hits Highest Price Since January as $2,757 Comes Into View](https://www.tradingview.com/news/financemagnates:f266b6359094b:0-why-is-ethereum-up-today-eth-hits-highest-price-since-january-as-2-757-comes-into-view/)**
 
-The crypto market is up today (Friday), with Bitcoin back above $80,000 and Ethereum, XRP and Dogecoin rising 6% to 7%. Bitcoin traded at $80,914 on Binance at 18:07 UTC, up 5.9% on the day, while Ether rose 6.4% to $2,603, XRP gained 7.3% to $1.39 and Dogecoin added 7% to $0.0874 on Bitstamp.The m…
+Ethereum is up again today (Saturday), extending Friday's rally to its highest price since January. Ether traded at $2,646 on Bitstamp at 17:56 UTC, up 1.3% on the day and about 8% above Thursday's close, after touching $2,668 earlier in the session.The move takes ETH above $2,616, the ceiling that…
 
-TradingView • 1d ago
+TradingView • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ Coinpedia • 1d ago
 
 MAJURO, Marshall Islands, Sept.  19, 2026  (GLOBE NEWSWIRE) -- Remittix is moving toward the launch phase of its crypto-to-fiat ecosystem, with RT...
 
-markets.businessinsider.com • 15h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
@@ -242,7 +242,17 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 1K • 💬 132 • ⏱️ 10:49 • 7h ago
+👁️ 57K • 👍 2K • 💬 148 • ⏱️ 10:49 • 13h ago
+
+---
+
+**[Kevin O&#39;Leary: Why He No Longer Thinks Ethereum Wins (Changed His Mind)](https://www.youtube.com/watch?v=_KzAXoQYwaU)**
+
+Kevin O'Leary joins us in NYC for an interview about his allocation and views on the digital asset market. Digital assets becoming ...
+
+📺 The Rollup
+
+👁️ 8K • 👍 153 • 💬 77 • ⏱️ 13:26 • 12h ago
 
 ---
 
@@ -252,7 +262,17 @@ BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 293 • 💬 64 • ⏱️ 20:15 • 4h ago
+👁️ 17K • 👍 434 • 💬 72 • ⏱️ 20:15 • 10h ago
+
+---
+
+**[CRUCIAL LEVEL FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=AyIxrMiQJxk)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 131 • 👍 12 • 💬 2 • ⏱️ 4:53 • 2h ago
 
 ---
 
@@ -262,7 +282,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 22 • 💬 58 • ⏱️ 3:44 • 19h ago
+👁️ 3K • 👍 20 • 💬 58 • ⏱️ 3:44 • 1d ago
 
 ---
 
@@ -272,17 +292,7 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 12K • 👍 321 • 💬 22 • ⏱️ 9:40 • 23h ago
-
----
-
-**[Ethereum Rally Could Flush Before the Next Big Move](https://www.youtube.com/watch?v=UeoEJVi8oWI)**
-
-Labor Day $800 Off Indicators and 20% of Metric Chart Sale Live!: https://tradeconfidentportal.io/indicators Join Trade ...
-
-📺 Trade Confident
-
-👁️ 3K • 👍 20 • 💬 2 • ⏱️ 4:53 • 1d ago
+👁️ 12K • 👍 325 • 💬 22 • ⏱️ 9:40 • 1d ago
 
 ---
 
@@ -292,47 +302,37 @@ Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bi
 
 📺 VirtualBacon
 
-👁️ 13K • 👍 165 • 💬 21 • ⏱️ 1:07 • 2d ago
+👁️ 13K • 👍 175 • 💬 23 • ⏱️ 1:07 • 2d ago
 
 ---
 
-**[Ethereum&#39;s Next Upgrade Could be The Most Bullish One Ever](https://www.youtube.com/watch?v=565nMu7wCvQ)**
+**[Crypto Is About To Get CRAZY… You’ve Been Warned](https://www.youtube.com/watch?v=tqW1GIOAfSQ)**
 
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Follow Altcoin Daily on X: ...
 
-📺 Milk Road
+📺 Altcoin Daily
 
-👁️ 15K • 👍 227 • 💬 130 • ⏱️ 49:49 • 2d ago
-
----
-
-**[SORRY Bears - BOTTOM is in for Ethereum and Altcoins  (Bull Run STARTED)](https://www.youtube.com/watch?v=x2HkmxM9KTQ)**
-
-Join The VIP Discord: https://whop.com/joined/cryptocamel/products/cryptocamel/ LAST Discord Win: $AI (130x) ⚡ Follow me ...
-
-📺 Crypto Camel
-
-👁️ 734 • 👍 38 • 💬 10 • ⏱️ 10:11 • 1d ago
+👁️ 152K • 👍 4K • 💬 261 • ⏱️ 12:43 • 2d ago
 
 ---
 
-**[TRILLIONS Are About To Move Onto Ethereum](https://www.youtube.com/watch?v=-f7QHWXGV20)**
+**[Bitcoin &amp; Ethereum, Beide haben es geschafft! DAS wird HEUTE wichtig für weiter steigende Preise!](https://www.youtube.com/watch?v=mglqL6VhZ4U)**
 
-FOLLOW ANDY, ROBBIE & THE ROLLUP ⏬ Twitter (X): https://x.com/therollupco Andy Twitter (X): https://x.com/andyyy Robbie ...
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
 
-📺 The Rollup
+📺 Krypto Trading & Investing
 
-👁️ 796 • 👍 14 • 💬 14 • ⏱️ 0:37 • 16h ago
+👁️ 4K • 👍 532 • 💬 75 • ⏱️ 13:41 • 6h ago
 
 ---
 
-**[REAL ETH BREAKOUT OR FAKEOUT?🚨 (Ethereum Update)](https://www.youtube.com/watch?v=isn8pKmNk0A)**
+**[Este es el precio al que llegará Ethereum en el siguiente mercado alcista](https://www.youtube.com/watch?v=-ayfFgBH-9o)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+Ethereum no es solo la segunda criptomoneda por capitalización, es el activo al que el dinero institucional acude cuando Bitcoin ...
 
-📺 Cilinix Crypto
+📺 Valentín Santamaría
 
-👁️ 1K • 👍 26 • 💬 6 • ⏱️ 5:12 • 21h ago
+👁️ 196 • 👍 51 • 💬 1 • ⏱️ 23:43 • 2h ago
 
 ---
 
