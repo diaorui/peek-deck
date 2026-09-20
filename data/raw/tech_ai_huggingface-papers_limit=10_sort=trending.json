@@ -35,7 +35,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 9772,
+      "github_stars": 9820,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2026-08-23T20:00:00.000Z",
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 4050,
+      "github_stars": 4171,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.14858",
       "arxiv_url": "https://arxiv.org/abs/2609.14858",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 230,
+      "upvotes": 234,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
@@ -107,11 +107,11 @@
       "hf_url": "https://huggingface.co/papers/2310.10688",
       "arxiv_url": "https://arxiv.org/abs/2310.10688",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 43,
+      "upvotes": 44,
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33217,
+      "github_stars": 33255,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2609.20519",
       "arxiv_url": "https://arxiv.org/abs/2609.20519",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 69,
+      "upvotes": 84,
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-20T01:24:57.097762+00:00"
+  "fetched_at": "2026-09-20T06:43:18.628062+00:00"
 }

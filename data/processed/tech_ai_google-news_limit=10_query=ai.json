@@ -5,34 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWtrY3RYV3hQMlBUaEZ3NGk5aEtLUF82LWZ5RnJtNWRYZmhIcW9zUnVsNHk2NzZQSmdOY2VwcjA2dEFwUU1rX3ctYTBLbjRUQWFSMmpCZzlfVjRYc3JEUzhlcE1LcU1YMXoybmk0UDVKaEI4aFRuRE1HQ3Bub1Zxb1ZRSjBiSmFyR2daTkc3VmlHbExnN3ZTUmt4TnBKYTA0cTgyNncyMzF0RGNOUmhN0gG0AUFVX3lxTE80NHZ2cmJEZVNsNk1wc2tBd01rcDNVcXdKQl9IdTQ3cjhzRDZjbVhiVFNvMnNlYVU0c2xxT3JYbkU1aWZ4X3MwWllYUzNBSWR6c2VFa1JObTJSVmxHbV9RalgxWlNMVWltTEVwTlBlbHItZHlCdXFBZ1BVN3FXbTJXVGZFblp4NzZQTVBDMXFQU2lIcC1ZWU55dlY1SXhhQmFqMlJ5VU9vbU5QQTJDUnNLSHFXaw?oc=5",
-      "pub_date": 1789848532.0,
-      "article_url": "https://www.foxnews.com/politics/trump-announces-new-ai-force-vows-protect-industry-ai-czar-announcement-nears",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/trump-winning-ai-race.jpg",
-      "description": "Trump's new AI Force mirrors his first-term Space Force creation, with a high-IQ \"czar\" appointment coming soon to oversee the booming industry."
+      "headline": "Why China is pushing back on US warnings over rapid AI development",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2NtNG0wQTRsdm90NVc2LWJ2THUyclYzQm1mY1hYME9qQVVBWG5tOFhlOW5MZFNELVNBZ2FBbGY4RDZVT0c0TlZfcl96dkdNdmd3R05aNk0zXzVxQ2RicTZ2anI1Qkt0QXN1NGFINUxscmdWTWZreGxrVjdMM2hRLWZkVVh4ZVQ1LVF5TTI3S1VxelU4dTdCMGFGaW1VZnZtcWpSMlFURm82cHhqb3JWaVhn?oc=5",
+      "pub_date": 1789884000.0,
+      "article_url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "image": "https://i.guim.co.uk/img/media/eed769a799be66f4834320b43e40a5f5b9900b16/1058_662_4066_3253/master/4066.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e9e1f14df3016a1f886307b5374f5a8",
+      "description": "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and pace"
     },
     {
-      "headline": "Anthropic, OpenAI, SpaceXAI, Google sued over call to \u2018pace\u2019 AI development",
-      "source": "politico.com",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RBMnFCQ3BDbW1ZM0VJa2lWbGd6cExDbVI5elZTSmdvTUlmSDZ1S3BzYnRLLU9LSlltWTZCektKb2FQSU1tX1FKWWFuWUs0Q1JiUndJRGpJc3pQbGlvN0J3WTBLTE5ycnFtN3Q4Z0FuWUNlLUxNYmlyazhranVVZGlBSS1aTmlXWWViT2sxaEgwZTh0bnRIQk1zRWMtbGNxNkZGYXlWVWE4c2ZBbHZxQzVLeXpQMTlqZFI1Wmhn?oc=5",
-      "pub_date": 1789779840.0,
-      "article_url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+      "headline": "What AI Anxiety Looks Like in China",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUprN3U3UXNRWjBkcXFyZFFOWFJPX05IVzlQanhabW1fWGxaa0pEbGtuamtDQUdmNEljbHVSclB1R3Znemt3a1RHRjR2Vl9wNzgycFI5Sk9nN09wZV9qR1hHVXJhYkF5QUZhY2ZYdU5mSTUwSTRDODZKUzRwRUJ2b0V2VVBEellLZ3o4V0FKc29ZR3ZZ?oc=5",
+      "pub_date": 1789828800.0,
+      "article_url": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/",
+      "image": "https://cdn.theatlantic.com/thumbor/kNUne0faD5xAKRyNqOxGRAJqFZg=/0x102:4792x2598/1200x625/media/img/mt/2026/09/This_is_What_AI_Anxiety_Looks_Like_in_China/original.jpg",
+      "description": "A top-down tech revolution is harder to manage than a bottom-up one."
+    },
+    {
+      "headline": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
+      "pub_date": 1789750550.0,
+      "article_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/9884637.jpg?c=16x9&q=w_800,c_fill",
+      "description": "The episode shows the risks of using this new, relatively poorly understood technology in the middle of the Iran war"
+    },
+    {
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGNIX0w3dGlsV1dsUUdPS1l6TXFWSm8yUVBkTlVhZl85V1hGNHVadW9LZFRHRl95Y2VBY0Nvc3FvbDBOcXpfdFlYc1dEckQtbk9BMVlEeHBIYkdBVjJmZDYxMFFpVlR6Mm1NeEZ3cEFvcmtLLXRTWDZjQjRtRWxuYnNQQ204Q0I0Z3haTXRSN0w3QnhSYXZDOG00eXhQd2ZyTVhZc09SR3lSb0ZSMU5mYktsNzNjWTdLVGV6dmZNVQ?oc=5",
+      "pub_date": 1789855500.0,
+      "article_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
       "image": null,
       "description": null
     },
     {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "source": "WYFF",
-      "source_url": "https://www.wyff4.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnlWWkNLeWlfbzBrelQ4VFVwSmhnRzRHVERocXVLTV9MR2FHSDlKZGdrMlVsX2c1V1NqRmNvVUlhN3pTZDhJWGdDeU42RE1WbzhCMGhORURhV3JLNlBvZVBoUzN6YURFZy1GTHJMNTNZUVk5bGxGajBHN2ZpcUxNNm1peU1LR3laVkFj?oc=5",
-      "pub_date": 1789866043.0,
-      "article_url": "https://www.wyff4.com/article/anthropic-openai-spacexai-google-ai-slowdown/73801871",
-      "image": "https://kubrick.htvapps.com/htv-prod/images/aac40e31-0e3c-44f9-be6b-59b4b4f329ac.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.101xh&resize=1200%3A*",
-      "description": "A new lawsuit claims that Anthropic, OpenAI, SpaceXAI and Google illegally agreed to slow their AI development"
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVVBaS2xGSGM2NGFSNmhpemxXOTZRZkg0MHh3a1RCbGtUUjFvZzFxUkN1T0RlSmJodXdpVjM3TWFEWVpCQS0zZFd4YmphTFBIckhSY0ZfekhWTUIxVlhRTXFRa0gyNVBRTHRySHVRMWxzQTFPZlQwSFkzUWlrUQ?oc=5",
+      "pub_date": 1789840171.0,
+      "article_url": "https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/10/59393731-223e-440a-ad56-461cc8e7b547/thumbnail/1200x630/03fed4a6bfb05cef1a881b810f3dee2e/gettyimages-2270277028.jpg",
+      "description": "The lawsuit argues the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts."
     },
     {
       "headline": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say",
@@ -45,66 +65,46 @@
       "description": null
     },
     {
-      "headline": "Highlights From The Massive AI Infra Summit 2026",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnBHeEZqaUNZUDZCeGNMWXBiSGZpQktSR2RRSFhyMGtINWJ3bVlKdmlHTnF2N3RGdHc2V2tZTU9iYmtveU8tUE8xT1BMRFp5Yk5UaHFycUZSX0d1UUZwRG9pMmVYcXFZZDFULVdTdW12Q0xMUEx0LS1LZjhicWFKS284STdwdC1FRVozOHZNNS1JV2dDWkJlNW5yOV82ZC05M2c?oc=5",
-      "pub_date": 1789864563.0,
-      "article_url": "https://www.forbes.com/sites/karlfreund/2026/09/19/highlights-from-the-massive-ai-infra-summit-2026/",
+      "headline": "Opinion | We\u2019re Not Losing Control of A.I. We\u2019re Giving It Away.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkJ0NGRHS01PRlVzX1lNNTFDNUdUNnJMdEkxM3hQdk1Sb3MxMXZNR1NvQUN4SnpncXBVbC1FN01hUnJDZGpfNkRsM1pRd0E4MGM5Z0lkLXVnUnJ4b3RRX1JFal9OY01aalJHVFNJUnZoZHJlYm8yZ1doZnI5UWppMGhhOGNya1Q4eEYwOHVkamNsQQ?oc=5",
+      "pub_date": 1789880406.0,
+      "article_url": "https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Australia\u2019s Albanese Urges World to Act for Humanity in AI Race",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnBBV1FGemNXaWZLbU9jd21VelNleWxZM1RKeTJ3Z1VOTEdZRTllRVBFY2c5U3BpYWJWUTlZQmt2cjZXWTNkN084OFdJUjVlSDJPTUp6ZGsyVDV5UzBrUnZ1ZjVTd3hQeGo5dzFjMlRJaDZrcng3YTdkcXktSG5hOGRjektDMkFqSld4S0xBeHBRTVZnNENNSnNHQ0gyZDF4OU11VGJ1WTRWd1ZFZU0ycGRwdms?oc=5",
-      "pub_date": 1789864740.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
-      "image": null,
+      "headline": "U.S. Treasury's Bessent, China's He to hold talks on AI, trade, critical minerals: Reuters",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1JoemJfcUE2WF9QRHBHYkVFNE5TVW9yNXloUVlXek9SZlJldDdGWWFjSDhFQ0FmMnFmTHdNNmhtbnAwcWtjRTJnZTVHUUdraUthSDZENHpqQ18wS25aWUIxNFlSVXFEREdMeGJicXNucGpGNWRaWVV5LUc1RWd6VXU5LTZlWk1BaGxPN2cxdnhrT01IcVdSNGNZbkt6QdIBowFBVV95cUxPQlcxdFpHZlJvWFdteXFnaDFScks0N08zS1p4YzA4OUZ0OEN6WTRBWW1xc2JXX2xyd0M4cWU0NE9VQS1jOXJJdENTNzFsbDRoXzJWZmRzMzNUMC05MU84QjJTZE5iQkc4ektHdnFnSFVWZlJReW5RaEVUVnlvckl4WlpHUkZ5MmU5cDR3ZktuTkt3YndILWpwa2xJZkxPU1hOT2kw?oc=5",
+      "pub_date": 1789885066.0,
+      "article_url": "https://www.cnbc.com/2026/09/20/bessent-chinas-he-to-hold-talks-on-ai-trade-minerals-reuters.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108198743-17579408132025-09-14t172953z_1135081441_rc2prga8x6h8_rtrmadp_0_usa-trump-tariffs-china.jpeg?v=1757940857&w=1920&h=1080",
       "description": null
     },
     {
-      "headline": "Gemini hacked three companies in first known breakout by Google\u2019s AI",
+      "headline": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlU0lRY09QWEgwWU5TZnloNGluUENkYVJqeUZmQ051YnFuSEdJbHczT3F0ZDBER3JMdDhxNjJFS0VJN1pQTFRMQVlFM3ZKUENVci03ZVlpcWEwUWY1WUppRVlFOHoyUnNzVTJPWS1EVjQ?oc=5",
-      "pub_date": 1789821894.0,
-      "article_url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act."
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
+      "pub_date": 1789840326.0,
+      "article_url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=16x9&q=w_800,c_fill",
+      "description": "President Donald Trump said Saturday he plans to create an \u201cAI Force\u201d and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence."
     },
     {
       "headline": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google\u2019s AI",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5",
-      "pub_date": 1789769400.0,
+      "pub_date": 1789769600.0,
       "article_url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Google says its AI model gained unauthorized access to three outside systems",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkUxYkZTMHVHckpBRjZWSHFGa1J0VnV3VlhxbWpPQ0xmVnVyS0JuVGV0eUZ2THBCRUxWZE5pd0tIMzdleFBLOW9GcWN6MFVnVFFwU1ZrWkNrUno5TVFZM0JCSGI2MFZ2WktfVk1XTmdodGJsV3VJQzJtRTRqekRfZ0dVRVl1S2x5d1ZoYndrMmRkeFY5cm9oSmZmR05qbmptN1dSZl9BOG80c3htVVIxUw?oc=5",
-      "pub_date": 1789781820.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg",
-      "description": "The company said the intrusions resulted from mistaken identity, where Gemini thought it was operating within a test but was actually connected to the real internet."
-    },
-    {
-      "headline": "What might an AI doomsday look like? Experts have given it some thought",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRnZ3Y0JPQ1U1OGs5NUY5UjBVc3kxWjNGVjFieElrZ1lTcTZyNFBzOVFITk9sX2RLTXdKSmwtUGFGQnRtQWE0cTgyaDMtdW1EMDlIVTRpWnRSY2Rwcm4wNnY2M2hhRHpkUU9LWG8tRGtQU0VhTFVkbU5vNjlLS3AzeERrTQ?oc=5",
-      "pub_date": 1789808442.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260916-ai-doomer-scenarios-cs-18c146.jpg",
-      "description": "Researchers have worried about the increasing power of AI systems for years, but an explosion of interest has ignited old controversies about exactly how AI will cause chaos."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T01:25:14.438781+00:00"
+  "fetched_at": "2026-09-20T06:43:29.519079+00:00"
 }

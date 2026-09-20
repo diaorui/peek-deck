@@ -13,6 +13,17 @@
       "description": "I despair at the state of journalism around AI these days."
     },
     {
+      "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/",
+      "published": 1789848704.0,
+      "thumbnail": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
+      "external_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "site_name": "TechCrunch",
+      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+    },
+    {
       "title": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
       "author": "cnn",
       "url": "https://www.reddit.com/r/artificial/comments/1wktwrp/trump_vows_to_create_ai_force_and_appoint_czar/",
@@ -24,15 +35,15 @@
       "description": "President Donald Trump said Saturday he plans to create an \u201cAI Force\u201d and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence."
     },
     {
-      "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/",
-      "published": 1789848704.0,
-      "thumbnail": "https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&crop=smart&auto=webp&s=ce8c53ad9911402891dea7be33fe99a5c54dcebb",
-      "external_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "site_name": "TechCrunch",
-      "favicon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
-      "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
+      "title": "AI companies sell us both fear and hope. But both stories need the same thing: more electricity.",
+      "author": "Wrong-Expression6981",
+      "url": "https://www.reddit.com/r/artificial/comments/1wl98fa/ai_companies_sell_us_both_fear_and_hope_but_both/",
+      "published": 1789885434.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep hearing two very different stories about AI. One story is full of hope. AI will become much smarter. It will transform science, medicine, industry, and our daily lives. The other story is full of fear. AI may become more powerful than humans. We may lose jobs. We may even lose control of it. These stories sound like opposites. But I noticed something strange. Both stories lead to the same conclusion: we need more AI, more data centers, more chips, and much more electricity. If AI is going to transform the future, we need more computing power. If AI may become dangerously powerful, the argument is that we need to keep developing it so we can stay ahead, understand it, and control it. Either way, the physical infrastructure gets built now. And this is already visible in the numbers. According to the IEA, global electricity use by data centers rose 17% in 2025, while electricity use by AI-focused data centers rose 50%. The IEA expects global data-center electricity use to roughly double, from 485 TWh in 2025 to 950 TWh in 2030. Maybe AGI will arrive soon. Maybe it will take much longer. Maybe some of today's predictions will never happen. We don't know. But the electricity is being consumed now. The data centers are being built now. The money is being invested now. So I wonder whether we are asking the wrong question. Instead of only asking: \u201cHow powerful will AI become?\u201d should we also ask: \u201cWho benefits from making us believe that enormous AI infrastructure must be built before we know what AI will actually become?\u201d I am not saying there is a conspiracy. I am asking whether AI hope and AI fear, although they look like opposite stories, may be producing the same economic result. What do you think? Source: IEA, Key Questions on Energy and AI (2026)"
     },
     {
       "title": "AI is a better teacher than most human teachers",
@@ -99,18 +110,7 @@
       "site_name": "Tom's Hardware",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
       "description": "The rush to build semiconductor plants in the U.S. is fueling the demand for engineers and technicians."
-    },
-    {
-      "title": "What happens to our money if banking system gets hacked by AI and data gets wiped out?",
-      "author": "theepi_pillodu",
-      "url": "https://www.reddit.com/r/artificial/comments/1wk993r/what_happens_to_our_money_if_banking_system_gets/",
-      "published": 1789783192.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Last month it was astra and today it's Gemini that went out of the system/sandbox and hacked it's way out. If it becomes worse, what happens to our money? Especially if the records get corrupted? Here is a dumb idea I guess, Would collecting a paper print from the bank (on bank letterhead by the teller/banker or ATM slip) everyday makes it any better? What precautions should we take if any! Thank You https://youtu.be/tNI1aEXUs8o I'm not affiliated to this channel. This is just to give some idea."
     }
   ],
-  "fetched_at": "2026-09-20T01:24:44.986209+00:00"
+  "fetched_at": "2026-09-20T06:43:07.028065+00:00"
 }
