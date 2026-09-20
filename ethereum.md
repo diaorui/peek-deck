@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T18:58:29.679071+00:00'
+updated: '2026-09-20T21:24:35.223814+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
 - cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 18:58 UTC  
+**Last Updated:** September 20, 2026 at 21:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.4%  
-**7d:** +4.4%  
-**30d:** +8.4%  
-**90d:** +57.5%  
-**1y:** -40.9%  
+**7d:** +4.2%  
+**30d:** +8.1%  
+**90d:** +57.1%  
+**1y:** -41.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $320.39B
+**Market Cap:** $320.01B
 Rank #2
 
 **Circulating Supply:** 122,064,744 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.9%
+-47.0%
 
 **All-Time Low:** $0.43
-+606019.5%
++605386.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-13h ago
+16h ago
 
 ---
 
@@ -156,31 +156,15 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
 
-coindesk.com • 2d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
+**[Which Crypto ETF Drew the Most Money Last Week? Not Bitcoin, and Not Ethereum](https://beincrypto.com/zcash-ethereum-crypto-etf-weekly-flows/)**
 
-Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
+Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
 
-Finance Magnates • 2d ago
-
----
-
-**[Ethereum reclaims $2,500 as exchange supply dro...](https://pluang.com/en/news-feed/pasokan-ethereum-mengencang-harga-eth-menguat-di-atas-2500)**
-
-Ethereum has regained the $2,500 price level amid a significant 28% drop in ETH held on exchanges since May 2025, reducing the liquid supply available for trading. Increased staking, now at over 35%, further removes ETH from circulation, tightening supply. Additionally, U.S. Spot ETH ETFs have grown to $16.7 billion in assets, absorbing more ETH and limiting availability on open markets. This combination makes Ethereum's price more sensitive to spot demand, with future price stability depending on continued buyer interest versus potential selling pressure.
-
-Pluang • 1h ago
-
----
-
-**[Bitcoin could hit $100K and Ethereum $4K by yea...](https://pluang.com/en/news-feed/bisakah-bitcoin-capai-100k-ethereum-4k-tahun-akhir)**
-
-Bitcoin reaching $100,000 and Ethereum hitting $4,000 by the end of 2026 are possible but conditional scenarios. Bitcoin needs sustained institutional demand, ETF inflows, and favorable Federal Reserve policies, while Ethereum requires increased network activity, DeFi growth, and a rising ETH/BTC ratio. Both targets face risks from macroeconomic stress and technical resistance. Investors should monitor market liquidity, trading volume, and asset-specific demand signals to assess the likelihood of these price milestones.
-
-Pluang • 35m ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -188,7 +172,7 @@ Pluang • 35m ago
 
 As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum’s decline from its October 2025 peak of…
 
-TradingView • 8h ago
+TradingView • 11h ago
 
 ---
 
@@ -200,19 +184,27 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/)**
-
-Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it.
-
-The Motley Fool • 1h ago
-
----
-
 **[7 Altcoins Explode: Kevin O’Leary Says Ethereum May No Longer Rule](https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R)**
 
 Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
 
-Stocktwits • 2h ago
+Stocktwits • 5h ago
+
+---
+
+**[New Crypto: Remittix Builds Toward Its Global Payments Launch as Ethereum Price Prediction Targets $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-builds-toward-its-global-payments-launch-as-ethereum-price-prediction-targets-6-000-1036558982)**
+
+MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys...
+
+markets.businessinsider.com • 2h ago
+
+---
+
+**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/)**
+
+Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -220,7 +212,7 @@ Stocktwits • 2h ago
 
 The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
 
-coinpedia.org • 1d ago
+Coinpedia • 1d ago
 
 ---
 
@@ -229,6 +221,14 @@ coinpedia.org • 1d ago
 Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model’s control.
 
 CryptoSlate • 3d ago
+
+---
+
+**[Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%](https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/)**
+
+Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run.
+
+financemagnates.com • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 11K • 👍 379 • 💬 41 • ⏱️ 1:12 • 6h ago
+👁️ 17K • 👍 432 • 💬 51 • ⏱️ 1:12 • 9h ago
 
 ---
 
@@ -252,17 +252,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 987 • 👍 110 • 💬 30 • ⏱️ 19:53 • 2h ago
+👁️ 3K • 👍 179 • 💬 9 • ⏱️ 19:53 • 5h ago
 
 ---
 
-**[5 Crypto Coins are about to EXPLODE!! Finding The Next Bitcoin…](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
+**[Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!!](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
 
 Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
 
 📺 Altcoin Daily
 
-👁️ 72K • 👍 2K • 💬 173 • ⏱️ 10:49 • 19h ago
+👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 22h ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 23K • 👍 515 • 💬 129 • ⏱️ 20:15 • 16h ago
+👁️ 25K • 👍 529 • 💬 135 • ⏱️ 20:15 • 19h ago
 
 ---
 
@@ -282,17 +282,7 @@ Kevin O'Leary joins us in NYC for an interview about his allocation and views on
 
 📺 The Rollup
 
-👁️ 12K • 👍 191 • 💬 125 • ⏱️ 13:26 • 19h ago
-
----
-
-**[Ethereum Just Broke Out. Is It A TRAP?? (My Trade)](https://www.youtube.com/watch?v=uBH_WkIIoJ4)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 22 • 💬 58 • ⏱️ 3:44 • 1d ago
+👁️ 12K • 👍 196 • 💬 121 • ⏱️ 13:26 • 22h ago
 
 ---
 
@@ -302,7 +292,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 859 • 👍 21 • 💬 2 • ⏱️ 4:53 • 9h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:53 • 11h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=SviTlNVzaTM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 2K • 👍 69 • ⏱️ 7:46 • 6h ago
 
 ---
 
@@ -312,17 +312,7 @@ SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 153K • 👍 4K • 💬 261 • ⏱️ 12:43 • 2d ago
-
----
-
-**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
-
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
-
-📺 More Crypto Online
-
-👁️ 13K • 👍 338 • 💬 23 • ⏱️ 9:40 • 1d ago
+👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -332,7 +322,17 @@ Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bi
 
 📺 VirtualBacon
 
-👁️ 14K • 👍 193 • 💬 23 • ⏱️ 1:07 • 2d ago
+👁️ 15K • 👍 200 • 💬 22 • ⏱️ 1:07 • 2d ago
+
+---
+
+**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
+
+Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
+
+📺 More Crypto Online
+
+👁️ 13K • 👍 339 • 💬 23 • ⏱️ 9:40 • 1d ago
 
 ---
 
