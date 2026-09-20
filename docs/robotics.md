@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T01:25:16.049398+00:00'
+updated: '2026-09-20T06:43:31.314499+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 01:25 UTC  
+**Last Updated:** September 20, 2026 at 06:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-5d ago
+6d ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-6d ago
+7d ago
 
 ---
 
@@ -112,11 +112,11 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
+**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
 
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
+Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
 
-The Robot Report • 1d ago
+ABC News & Headlines – Australian Broadcasting Corporation • 4h ago
 
 ---
 
@@ -128,6 +128,22 @@ businessinsider.com • 1d ago
 
 ---
 
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 2d ago
+
+---
+
+**[Delivery robots swarm Chicago sidewalk in viral video](https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video)**
+
+A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns.
+
+Fox News • 19h ago
+
+---
+
 **[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
 
 Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
@@ -136,11 +152,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
+SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
-BBC • 2d ago
+The Robot Report • 1d ago
+
+---
+
+**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -152,25 +174,11 @@ Yahoo • 1d ago
 
 ---
 
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
-
-bloomberg.com • 1d ago
-
----
-
 **[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
 
 Humanoid Robots Break Records In Beijing has 16 comments.
 
 DOGO News • 1d ago
-
----
-
-**[Robotic lab sets up and runs optics experiments on demand](https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917)**
-
-The process of building and running an optics experiment to analyze a material’s properties could one day be fully automated, MIT scientists say. Taking a step toward such a future, they developed a reconfigurable, robotic optics laboratory.
-
-MIT News • 2d ago
 
 ---
 
@@ -180,37 +188,9 @@ SpaceNews • 2d ago
 
 ---
 
-**[Robotics Tipping Point: A Citrini Field Trip](https://www.citriniresearch.com/p/robotics-tipping-point-a-citrini)**
-
-Seeing is Believing
-
-citriniresearch.com • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
-
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
-
-📺 MindSeeded
-
-👁️ 673K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
-
----
-
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
-
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
-
-📺 DPCcars
-
-👁️ 18K • 👍 131 • 💬 36 • ⏱️ 2:56 • 2d ago
-
----
 
 **[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
@@ -218,7 +198,17 @@ Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation 
 
 📺 Reward AI
 
-👁️ 138K • 👍 1K • 💬 109 • ⏱️ 2:20 • 5d ago
+👁️ 132K • 👍 1K • 💬 110 • ⏱️ 2:20 • 5d ago
+
+---
+
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+
+📺 MindSeeded
+
+👁️ 706K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
@@ -228,17 +218,17 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 81K • 👍 286 • 💬 51 • ⏱️ 9:44 • 4d ago
+👁️ 82K • 👍 286 • 💬 51 • ⏱️ 9:44 • 4d ago
 
 ---
 
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
 
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
 
-📺 The AI Nexus
+📺 NextGen Humanoids
 
-👁️ 12K • 👍 234 • 💬 25 • ⏱️ 57:02 • 4d ago
+👁️ 40K • 👍 292 • 💬 73 • ⏱️ 11:33 • 4d ago
 
 ---
 
@@ -248,7 +238,7 @@ These New American Construction Robots Will Leave You Speechless Every year, the
 
 📺 Future Core
 
-👁️ 185K • 👍 710 • 💬 42 • ⏱️ 9:07 • 4d ago
+👁️ 184K • 👍 713 • 💬 43 • ⏱️ 9:07 • 4d ago
 
 ---
 
@@ -258,17 +248,17 @@ humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actual
 
 📺 Ai Futuristic Robotics
 
-👁️ 49K • 👍 405 • 💬 49 • ⏱️ 18:12 • 6d ago
+👁️ 50K • 👍 414 • 💬 50 • ⏱️ 18:12 • 6d ago
 
 ---
 
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 EmortalMarcus
+📺 The AI Nexus
 
-👁️ 84K • 👍 5K • 💬 503 • ⏱️ 55:24 • 6h ago
+👁️ 12K • 👍 238 • 💬 25 • ⏱️ 57:02 • 5d ago
 
 ---
 
@@ -278,7 +268,7 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 129K • 👍 995 • 💬 372 • ⏱️ 1:04 • 4d ago
+👁️ 126K • 👍 1K • 💬 375 • ⏱️ 1:04 • 4d ago
 
 ---
 
@@ -288,7 +278,17 @@ This tiny dot is a robot. It wiggles inside your body… It's much smaller than 
 
 📺 Cleo Abram
 
-👁️ 420K • 👍 21K • 💬 510 • ⏱️ 0:37 • 5d ago
+👁️ 416K • 👍 21K • 💬 514 • ⏱️ 0:37 • 5d ago
+
+---
+
+**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
+
+A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
+
+📺 Auren Voss Insights
+
+👁️ 12K • 👍 193 • 💬 27 • ⏱️ 0:36 • 17h ago
 
 ---
 
