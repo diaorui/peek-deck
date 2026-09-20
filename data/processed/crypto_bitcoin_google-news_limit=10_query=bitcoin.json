@@ -6,33 +6,13 @@
   "articles": [
     {
       "headline": "Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDQ4c1BBTHFDRVloRTM2dHlCOVdyckRiYUtULUhrX1VtQkxFOEZyR0RRNnR5WFNwdFBFOHRFd0YzNmVLWk0ydVo1bldRNUlSOUJEc2pyanhQYnk5S2M0T2F5VTZrYjVobWw0QzFheldkLXgzdGpOYjNscS1tZ05XakNyOFQ0MUxpTzhjblJBRWtqakJQT2ZHYncwb1BOMHRKaG1XU0FnbmZlMDNQS2xPMmRJYWpWaFJGbjM0bXN0TE0?oc=5",
       "pub_date": 1789714800.0,
       "article_url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations."
-    },
-    {
-      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
-      "pub_date": 1789743537.0,
-      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
-      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
-    },
-    {
-      "headline": "BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmFOaHNTeEg0OHNPOHo2QzhCUzN5V1JnWWNpb3F0U3F5VGRMUTNhUFNQTVNRRnlBZi1DalVOTkVxMm9QWnY4R3d6WnUzbmpNUjhPLXI3SWFKN3I0RkgtT3NVUk9aRURJR1lueUR3aHM1VFFyaWliUmxXUkxpaERsOTBVRTdESThSUGZ5SVJOWm1yNUJCTVk1Uk5B?oc=5",
-      "pub_date": 1789916477.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-us-equity-etf-head-150117760.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/649f3a20d13ce100c669c14ff0800023b57ff8cce1a6545e11badb9050ef5ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F16217a5c26024628a259cbc5a64776da",
-      "description": "BlackRock\u2019s Jacobs argued Bitcoin still serves as a portfolio diversifier despite institutional adoption."
     },
     {
       "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
@@ -45,14 +25,44 @@
       "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
     },
     {
-      "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
-      "source": "VanEck",
-      "source_url": "https://www.vaneck.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmpNNk04MlFTcDF3Zm5ONTlzSmlxVXhYVTRxSXJ1ZjVXXzJnQk5MR3pvTW9CaldPb0NEM1M1ZFJkd3o1UG1SNTAzRjVPVGNlUXJNVFBZTnhHQWJ0Z00zRTlWY1F1WkN1dlhjcEFUS0ZUckNHUmlicms4bVRWQ1BfMmpTRFBoX2RubUs1TUxEVm1HSkJRUGZjVWt1bjlHMkJzV2JZZ2FHZTEwdkdJOEE?oc=5",
-      "pub_date": 1789731236.0,
-      "article_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/",
-      "image": "https://www.vaneck.com/globalassets/home/us/insights/blogs/digital-assets/5249_bitcoin-chaincheck-for-january_1200x630_meta-image_v2.jpg",
-      "description": "Miners hold the scarce asset as US power demand outruns supply, while Metaplanet\u2019s 14.7% option pool shows how DAT insiders capture shareholder dilution."
+      "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXFtZ2hIbkZNVDRDVlhiN2h2LUdSWHpNSFRscjBFZTFZRUdmNDZlaHdiaFJ1Qm5FY1E1bHlwQXB0bEVCNTBpanA4Vkp5bjM1Q3gwSVRfQ1hjZWpWRWhZcDBWZVpfQTNybGRwZ0tyeU9GS0czMl8tdFQybFlUZkNNWlJucnBNa3U2LTMtV3dDa1dUV3NneV83enJYdUgtOVFCa2JjTEc1VXVMdU90NU9XVktEYW1GSm9IM0RoNXZWN0QwUGprYVJ3ZjVn?oc=5",
+      "pub_date": 1789743537.0,
+      "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+      "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
+    },
+    {
+      "headline": "Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJoVjIwS3gwelR2MUF3bnEtSlZfVjZuZ1dUY1hZWFIzeHZBbTZ4RmtPa08xR1J5eTduTTViZnY5cHNkZjNFQnFBNVB5eDB5dF9SYkRPNE5kNVVjRUVVXzFpNjBfOXBiNFZZZVgwUUNhMlRSTVA3T2VWUllLenlZR3NaUVdzOXdoVWxuNWVhR3RsekxjNFo2NUFwWTZHVDQ0SkZ4NlBmVlhIaEhDZUUwY05lemlrZw?oc=5",
+      "pub_date": 1789762341.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/f3548c11431a517c6030291bf9f6ba1276cefd01-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen."
+    },
+    {
+      "headline": "Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.",
+      "source": "barrons.com",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWxxSUpCZk1JVkJ5ajlxLWZZcU16Q09tSDBtbUxCTmxsM3lhejlxX3ZCbnEwSk1MMkVRb1BYYWkwb0NNdmU5SzdreUN6b2wxVWJ4TU91YWxxMGVBUERpcV94bjVKdG1qbnRUYThGMm10VmhtZl9nUklwLVZpU1JOVXdjaWQ?oc=5",
+      "pub_date": 1789756320.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin \u2018Will\u2019 Hit $1 Million Price\u2014Kevin O\u2019Leary Suddenly Ups His Massive $15 Trillion Prediction",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMWJSR2JpcnRva0pXMlEyY1JBbUV5VXNPV01tYTNURld2dmpHOE5BNXZkUDlOM18yVzlnOVlfOFJkUVk2Nk1rU1RIaFdiTHhEWU5nTVl2V2N3RDI5VjJGYTBKdTEzbmo0MmNOZmtNaVREd0l3eTBha2djNmxXYXM5MjhjNVlpVFFiZHJiUDVhWHJSOXJfVWQ4RWtDVElKQnJTVnZkbFhfbVduY3NWTXBWWWg2Wk1fQjYyVUN0TmVxNzNnRlFDdzViR0ZnTUtsTjZmNkYw?oc=5",
+      "pub_date": 1789911480.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
@@ -65,6 +75,16 @@
       "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
     },
     {
+      "headline": "VanEck Mid-September 2026 Bitcoin ChainCheck",
+      "source": "VanEck",
+      "source_url": "https://www.vaneck.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmpNNk04MlFTcDF3Zm5ONTlzSmlxVXhYVTRxSXJ1ZjVXXzJnQk5MR3pvTW9CaldPb0NEM1M1ZFJkd3o1UG1SNTAzRjVPVGNlUXJNVFBZTnhHQWJ0Z00zRTlWY1F1WkN1dlhjcEFUS0ZUckNHUmlicms4bVRWQ1BfMmpTRFBoX2RubUs1TUxEVm1HSkJRUGZjVWt1bjlHMkJzV2JZZ2FHZTEwdkdJOEE?oc=5",
+      "pub_date": 1789731236.0,
+      "article_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/",
+      "image": "https://www.vaneck.com/globalassets/home/us/insights/blogs/digital-assets/5249_bitcoin-chaincheck-for-january_1200x630_meta-image_v2.jpg",
+      "description": "Miners hold the scarce asset as US power demand outruns supply, while Metaplanet\u2019s 14.7% option pool shows how DAT insiders capture shareholder dilution."
+    },
+    {
       "headline": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
       "source": "Bitcoin Magazine",
       "source_url": "https://bitcoinmagazine.com",
@@ -75,36 +95,16 @@
       "description": "Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with."
     },
     {
-      "headline": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdm0ybDBmandYTFZHMnRuaGljaWlOWkNoN3ZRcjJxbVZsOGRrVmV3OGx4T1RxbktWRnpiZnNlSE9aX0pYU2pTdUJwcUxSakJfTnd2aXg4UkN5TVowTDIta3pQUEFPZ0dhQnNqZkJob3NkU1JYeFFocldTZmhEbU9NdmMwMWFjcnU2QXpXdUwwNHhmNXA2RlNnWEpIaHE0ZmdTbDJjNk13MllWN013eWtmOEVmX3NaTmZkN3pHRldISFpwXy1qYldsR2xDbkY4c1ZpdGZiTDdkMEVBRk5OMFFlZEd5bVdjRUNubGxFWldLVWhGSDczMFRJ?oc=5",
-      "pub_date": 1789840869.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/08/20230726_BitcoinVEthereum_News.jpg",
-      "description": "Fidelity's FBTC accounted for $310.7 million of Friday\u2019s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals."
-    },
-    {
-      "headline": "Current price of Bitcoin for September 18, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5",
-      "pub_date": 1789732800.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-18-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-18.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEtlXzBoaGpQb2RqYVlacXNqVmVaYTVnaUhEcGNTYUFyTVJwT2s1RmpSaFRKNUNfaGpUTjhVaG1LWXNHSlljQzdwZVdETzR4ZklYSTVEWUVjcE9SOFhLeTFRZHNDX0ZvVy1McUpJUmRxOG41dzl4ZFBkR0VYdXJFYmNscmlxMWdsVXBFQjRZSVg0NUl2SHF5Ng?oc=5",
-      "pub_date": 1789823040.0,
-      "article_url": "https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886850%2Fgold-coin-with-bitcoin-symbol-on-it-cryptocurrency-btc.jpg&w=1200&op=resize",
-      "description": "If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach."
+      "headline": "BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ1JhVzE2VDRtRlhDMjJUbzkzbVVna1ZMVHR3eVRVakNyWGVma2ZGN3FhQXNiZ0UtemZzTDZ3eloyZl9ERlNRclUtRXo2eXpjQkdBcWpxbTVaZGRRNjlSZ3FzdzBzTUE4bTJJaXlmaDdmSi1Kb3d3YVZHWE1fN2RPeEhRdG1fMkZoMElzVzhJajhqMko3bU50X0NlWFZkdTI3akJoLTRaZXVlOWY2SVU1cGtZaGhIVHgtWC0zTU1qV2ZkUVpiM3pjaHFZakY3SzM2SnM4WDRJWXVHMFJBVEkxdkJsUWhOeWY4NmREeFlJdUtKSExQdG9NN0VwQzZ1Y2I4ZExycnpoQ0drV0xIODM5MHNB?oc=5",
+      "pub_date": 1789916477.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Wall Street may have changed who owns Bitcoin, but it hasn\u2019t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T16:22:58.164226+00:00"
+  "fetched_at": "2026-09-20T18:58:15.625838+00:00"
 }

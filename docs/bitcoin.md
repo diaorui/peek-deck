@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-20T16:23:09.395436+00:00'
+updated: '2026-09-20T18:58:29.675614+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 16:23 UTC  
+**Last Updated:** September 20, 2026 at 18:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
+**24h:** -0.3%  
 **7d:** +3.7%  
 **30d:** +5.2%  
 **90d:** +29.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1629.45B
+**Market Cap:** $1628.09B
 Rank #1
 
-**Circulating Supply:** 20,086,940 BTC
+**Circulating Supply:** 20,087,021 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -35.7%
 
 **All-Time Low:** $67.81
-+119516.6%
++119428.1%
 
 ---
 
@@ -103,7 +103,7 @@ Rank #1
 
 **[How I've felt the last several months](https://www.reddit.com/r/Bitcoin/comments/1wkvayu/how_ive_felt_the_last_several_months/)**
 
-20h ago
+23h ago
 
 ---
 
@@ -119,13 +119,13 @@ Ill admit I bought into the likely theory we would have a bottom in October, but
 
 Looking forward to the conversations this sparks up on Halloween!
 
-18h ago
+21h ago
 
 ---
 
 **[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -151,23 +151,7 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
 
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
-
-Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
-
-finance.yahoo.com • 2d ago
-
----
-
-**[BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'](https://finance.yahoo.com/markets/crypto/articles/blackrocks-us-equity-etf-head-150117760.html)**
-
-BlackRock’s Jacobs argued Bitcoin still serves as a portfolio diversifier despite institutional adoption.
-
-finance.yahoo.com • 1h ago
+coindesk.com • 2d ago
 
 ---
 
@@ -175,15 +159,35 @@ finance.yahoo.com • 1h ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-Slate Magazine • 6h ago
+Slate Magazine • 9h ago
 
 ---
 
-**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
+**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
 
-Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
+Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
 
-VanEck • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates](https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000)**
+
+Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.
+
+coindesk.com • 1d ago
+
+---
+
+**[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
+
+barrons.com • 2d ago
+
+---
+
+**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
+
+Forbes • 5h ago
 
 ---
 
@@ -195,35 +199,27 @@ CNBC • 2d ago
 
 ---
 
+**[VanEck Mid-September 2026 Bitcoin ChainCheck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-september-2026-bitcoin-chaincheck/)**
+
+Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
+
+VanEck • 2d ago
+
+---
+
 **[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
 
 Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 5h ago
 
 ---
 
-**[Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak](https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871)**
+**[BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'](https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/)**
 
-Fidelity's FBTC accounted for $310.7 million of Friday’s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.
+Wall Street may have changed who owns Bitcoin, but it hasn’t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou…
 
-The Block • 22h ago
-
----
-
-**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 2d ago
-
----
-
-**[Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.](https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/)**
-
-If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach.
-
-The Motley Fool • 1d ago
+TradingView • 3h ago
 
 ---
 
@@ -249,7 +245,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 3 • 💬 1 • 3h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 3 • 💬 1 • 6h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -295,13 +291,33 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 15K • 👍 721 • 💬 26 • ⏱️ 8:36 • 7h ago
+
+---
+
+**[How The Wealthy Will Use Bitcoin Without Staking It](https://www.youtube.com/watch?v=yjhpFzKtlqw)**
+
+Bitcoin is proof of work, so there's no native staking and simply holding it doesn't make the protocol pay you anything. When a ...
+
+📺 Jake Claver
+
+👁️ 773 • 👍 109 • 💬 50 • ⏱️ 8:55 • 1h ago
+
+---
+
 **[5 Crypto Coins are about to EXPLODE!! Finding The Next Bitcoin…](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
 
 Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 2K • 💬 171 • ⏱️ 10:49 • 17h ago
+👁️ 72K • 👍 2K • 💬 173 • ⏱️ 10:49 • 19h ago
 
 ---
 
@@ -311,7 +327,7 @@ Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ..
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 1K • 💬 56 • ⏱️ 1:27 • 1d ago
+👁️ 66K • 👍 1K • 💬 56 • ⏱️ 1:27 • 1d ago
 
 ---
 
@@ -321,37 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 134K • 👍 3K • 💬 171 • ⏱️ 1:07:54 • 1d ago
-
----
-
-**[Do People Actually Spend Bitcoin?](https://www.youtube.com/watch?v=7ZZZysda1ww)**
-
-Jeff Booth dives into the apparent paradox of Bitcoin. While the dedicated community treats it almost exclusively as a long-term ...
-
-📺 CryptoPulseX
-
-👁️ 2K • 👍 24 • 💬 3 • ⏱️ 0:35 • 10h ago
-
----
-
-**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 617 • 💬 56 • ⏱️ 8:36 • 4h ago
-
----
-
-**[Bitcoin Does the Unthinkable! Live Trading &amp; TA](https://www.youtube.com/watch?v=9-JnTAJmoQE)**
-
-Zen Master JP Narrates & Does Live Analysis on BTC, XAU, XAG, QQQ, OIL & More! Get 30% deposit bonus with BTCC ...
-
-📺 Sin City Crypto
-
-👁️ 17K • 👍 331 • 💬 11 • ⏱️ 6:00:21 • 11h ago
+👁️ 139K • 👍 3K • 💬 171 • ⏱️ 1:07:54 • 1d ago
 
 ---
 
@@ -371,27 +357,37 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 125K • 👍 4K • 💬 214 • ⏱️ 11:24 • 1d ago
+👁️ 127K • 👍 4K • 💬 215 • ⏱️ 11:24 • 2d ago
 
 ---
 
-**[Bitcoin Is Up 32% This Quarter - And The Market Still Doesn’t Believe It | Haseeb Qureshi](https://www.youtube.com/watch?v=ggAUtXtrU3I)**
+**[EXACTLY Why Bitcoin and Crypto Are Pumping [AND WHY IT&#39;S JUST GETTING STARTED]](https://www.youtube.com/watch?v=gEJRovVdVhw)**
 
-Bitcoin #Crypto #finance Bitcoin is holding near $78K despite rate hikes, a stronger dollar and the Clarity Act setback, while ...
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
 
-📺 The Wolf Of All Streets
+📺 Tyler S
 
-👁️ 26K • 👍 598 • 💬 137 • ⏱️ 1:06:33 • 2d ago
+👁️ 11K • 👍 627 • 💬 169 • ⏱️ 11:17 • 2d ago
 
 ---
 
-**[Bitcoin Signal With 100% Hit Rate Just Fired Again](https://www.youtube.com/watch?v=BHfCuGt2Zgs)**
+**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
 
-Kraken - Trade Crypto, Stocks, & Options https://cryptolark.co/THEKRAKEN Willy Woo posted the Fisher Transform on the ...
+EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
 
-📺 Lark Davis
+📺 Altcoin Daily
 
-👁️ 30K • 👍 604 • 💬 38 • ⏱️ 6:51 • 1d ago
+👁️ 11K • 👍 379 • 💬 41 • ⏱️ 1:12 • 6h ago
+
+---
+
+**[BULLISH: LAST TIME BITCOIN DID THIS 👀 WAS IN 2012!!!!!!!!!!!!!!!!!!!!!!!!!!! [breakout]](https://www.youtube.com/watch?v=loeA7nYUXcA)**
+
+Bitcoin just flashed multiple signals that have historically appeared around major cycle bottoms… but there's something even ...
+
+📺 Crypto Love
+
+👁️ 679 • 👍 113 • 💬 74 • ⏱️ 7:50 • 1h ago
 
 ---
 
