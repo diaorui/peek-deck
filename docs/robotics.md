@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T06:43:31.314499+00:00'
+updated: '2026-09-20T12:04:08.456118+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 06:43 UTC  
+**Last Updated:** September 20, 2026 at 12:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This was my final project for my mechatronics degree at the University of Glasgo
 
 I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
 
-5d ago
+6d ago
 
 ---
 
@@ -60,7 +60,7 @@ Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon 
 
 https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
 
-6d ago
+7d ago
 
 ---
 
@@ -82,13 +82,13 @@ From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has bee
 
 I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 5d ago
+🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 6d ago
 
 ---
 
 **[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -112,43 +112,11 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
-
-Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 4h ago
-
----
-
 **[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
 
 OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
 
-businessinsider.com • 1d ago
-
----
-
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
-
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
-
-BBC • 2d ago
-
----
-
-**[Delivery robots swarm Chicago sidewalk in viral video](https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video)**
-
-A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns.
-
-Fox News • 19h ago
-
----
-
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
-
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
-
-IEEE Spectrum • 1d ago
+Business Insider • 2d ago
 
 ---
 
@@ -160,9 +128,57 @@ The Robot Report • 1d ago
 
 ---
 
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 2d ago
+
+---
+
+**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
+
+Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 10h ago
+
+---
+
+**[Delivery robots swarm Chicago sidewalk in viral video](https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video)**
+
+A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns.
+
+Fox News • 1d ago
+
+---
+
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+
+IEEE Spectrum • 1h ago
+
+---
+
 **[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[US rare earth push gains quantum-powered molecule discovery project](https://interestingengineering.com/ai-robotics/quantum-tech-rare-earth-supply-chain)**
+
+The US will combine quantum machine learning & mineral-processing to discover more effective molecules for separating rare earth elements.
+
+Interesting Engineering • 19h ago
+
+---
+
+**[Toyota to deploy 400,000 robots to work alongside factory staff](https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff)**
+
+Includes humanoids that learn from employees and train new workers
+
+Nikkei Asia • 2d ago
 
 ---
 
@@ -170,21 +186,7 @@ Bloomberg • 1d ago
 
 US Must Act to Counter China's Combat Robotics Dominance
 
-Yahoo • 1d ago
-
----
-
-**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
-
-Humanoid Robots Break Records In Beijing has 16 comments.
-
-DOGO News • 1d ago
-
----
-
-**[Icarus Robotics tests Joy in Canada ahead of ISS flight](https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/)**
-
-SpaceNews • 2d ago
+Yahoo • 2d ago
 
 ---
 
@@ -192,63 +194,23 @@ SpaceNews • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 132K • 👍 1K • 💬 110 • ⏱️ 2:20 • 5d ago
-
----
-
 **[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
 AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
 📺 MindSeeded
 
-👁️ 706K • 👍 10K • 💬 1K • ⏱️ 16:24 • 2d ago
+👁️ 728K • 👍 11K • 💬 1K • ⏱️ 16:24 • 2d ago
 
 ---
 
-**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
-Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
 
-📺 Bloomberg Tech
+📺 Reward AI
 
-👁️ 82K • 👍 286 • 💬 51 • ⏱️ 9:44 • 4d ago
-
----
-
-**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
-
-China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
-
-📺 NextGen Humanoids
-
-👁️ 40K • 👍 292 • 💬 73 • ⏱️ 11:33 • 4d ago
-
----
-
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
-
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
-
-📺 Future Core
-
-👁️ 184K • 👍 713 • 💬 43 • ⏱️ 9:07 • 4d ago
-
----
-
-**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
-
-humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
-
-📺 Ai Futuristic Robotics
-
-👁️ 50K • 👍 414 • 💬 50 • ⏱️ 18:12 • 6d ago
+👁️ 135K • 👍 1K • 💬 113 • ⏱️ 2:20 • 5d ago
 
 ---
 
@@ -258,7 +220,37 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 📺 The AI Nexus
 
-👁️ 12K • 👍 238 • 💬 25 • ⏱️ 57:02 • 5d ago
+👁️ 12K • 👍 242 • 💬 25 • ⏱️ 57:02 • 5d ago
+
+---
+
+**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
+
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
+
+📺 Bloomberg Tech
+
+👁️ 73K • 👍 287 • 💬 51 • ⏱️ 9:44 • 4d ago
+
+---
+
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 184K • 👍 717 • 💬 43 • ⏱️ 9:07 • 4d ago
+
+---
+
+**[You Only Need This One Female Humanoid Robot WIFE | Cheapest Of Them All](https://www.youtube.com/watch?v=HSZVeqRjRoE)**
+
+humanoidrobot #humanoidrobots #robotgirlfriend Can a cheap humanoid robot actually offer real companionship, or is it just a ...
+
+📺 Ai Futuristic Robotics
+
+👁️ 51K • 👍 419 • 💬 50 • ⏱️ 18:12 • 6d ago
 
 ---
 
@@ -268,27 +260,37 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 126K • 👍 1K • 💬 375 • ⏱️ 1:04 • 4d ago
+👁️ 127K • 👍 1K • 💬 380 • ⏱️ 1:04 • 5d ago
 
 ---
 
-**[This Microrobot Wiggles In Your Body](https://www.youtube.com/watch?v=OX-wZsHD5sU)**
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
 
-This tiny dot is a robot. It wiggles inside your body… It's much smaller than a penny, and yet it can swim around all on its own…
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
 
-📺 Cleo Abram
+📺 NextGen Humanoids
 
-👁️ 416K • 👍 21K • 💬 514 • ⏱️ 0:37 • 5d ago
+👁️ 41K • 👍 296 • 💬 74 • ⏱️ 11:33 • 4d ago
 
 ---
 
-**[Who Put a Terminator Robot in the Ring? #technology #futuretech #robotics #t800 #unitree](https://www.youtube.com/watch?v=Kp0NCXmGasc)**
+**[NEW Nekton Spider Robot Is Here... INFINITE Shield Ability + NEW Mesmer Weapons | War Robots](https://www.youtube.com/watch?v=ZDAjuhIRxpU)**
 
-A metal skull, red eyes, and a kick that sends a Unitree G1 to the floor. This EngineAI T800 was customized by a US team and ...
+Use My Link For The WR Store https://wr.my.games/PREDATORWR New Spider Nekton robot. We have alot of new gear on the ...
 
-📺 Auren Voss Insights
+📺 PREDATOR WR
 
-👁️ 12K • 👍 193 • 💬 27 • ⏱️ 0:36 • 17h ago
+👁️ 20K • 👍 366 • 💬 137 • ⏱️ 15:58 • 23h ago
+
+---
+
+**[eufy Robot Vacuum E35 vs S2 - I Tested Them Head-to-Head!](https://www.youtube.com/watch?v=LxqJDi3a7YY)**
+
+I tested the eufy Omni E35 against the flagship S2 in real-world cleaning tests, including mopping, carpet debris, long hair and ...
+
+📺 The Q
+
+👁️ 97K • 👍 3K • 💬 146 • ⏱️ 5:56 • 1d ago
 
 ---
 
