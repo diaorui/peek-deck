@@ -13,6 +13,17 @@
       "description": "A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn\u2019t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c"
     },
     {
+      "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
+      "published": 1789930199.0,
+      "thumbnail": "https://external-preview.redd.it/9NriIK1OZLPZrxAGj_6aSBJsfyC2psJgfoDUtVENmDM.jpeg?width=640&crop=smart&auto=webp&s=d117911306410b4580cd8c606e4bba1568cfdd27",
+      "external_url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
+      "site_name": "DefenseScoop",
+      "favicon": "https://defensescoop.com/wp-content/uploads/sites/8/2023/01/cropped-ds_favicon-2.png?w=180",
+      "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
+    },
+    {
       "title": "AI models are not hacking \u201cautonomously\u201d",
       "author": "fivefilters",
       "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
@@ -22,6 +33,28 @@
       "site_name": "blog.keyvan.net",
       "favicon": "https://substackcdn.com/image/fetch/$s_!yN8B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff34a514e-920f-4253-bad2-9b27887a59c3%2Fapple-touch-icon-57x57.png",
       "description": "I despair at the state of journalism around AI these days."
+    },
+    {
+      "title": "\u201cI have a really, really strong legal team.\u201d Inside the AI party boom.",
+      "author": "ThereWas",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/",
+      "published": 1789934813.0,
+      "thumbnail": "https://external-preview.redd.it/q_iu0nU1po3oYclF8hm8EoNYySKqHiqIaI3x2kTELrU.png?width=640&crop=smart&auto=webp&s=c1d911d102660db2cd28afa83136c73650f752cf",
+      "external_url": "https://sfstandard.com/2026/09/19/ai-party-boom/",
+      "site_name": "The San Francisco Standard",
+      "favicon": "https://sfstandard.com/favicon/favicon-180x180-1.png",
+      "description": "They\u2019re skipping caviar for fire-breathing lessons."
+    },
+    {
+      "title": "we put out a 27b writing model, open weights, eq-bench 4 at 1330",
+      "author": "lukinator644",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlt16o/we_put_out_a_27b_writing_model_open_weights/",
+      "published": 1789938588.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "hey, we're a small lab (switzerland + south africa, two people). our model went live today. it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: https://huggingface.co/Altworld/Hemmingway-1 we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own blind tests the writing read as more human than the frontier models we compared it with. runs on a single 24gb gpu quantized. free app if you'd rather not self host: https://hemmingway.io it's a specialist, on purpose. math, code and facts are base model level. english first. ask me anything."
     },
     {
       "title": "Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses",
@@ -35,15 +68,26 @@
       "description": "TL;DR: Shishir Mehrotra's four-level promotion ladder swaps what you're graded on partway up, and the clip is about which criterion goes and which takes over. \ud83e\ude9c Scope is the one that goes. Once two people carry the same scope, Shishir says, what a promotion committee weighs is \u201chow they do the job.\u201d Credit to an ex-YouTube CPO for saying the flip out loud at all. In his version, though, the committee explains the new criterion after the employee objects, and nothing in the clip says the person being scored is owed the rubric first. As far as I can find, no general US rule makes an employer publish a promotion rubric or date a change to it. The closest thing I found, Colorado's AI employment law, was rewritten in May and pushed to 1 January 2027, and what survives centers on notice for AI used in a decision. Amazon's version of the problem is cruder. The FT reported in May that it shut down KiroRank, an internal AI-usage leaderboard, after employees pointed agents at needless tasks to climb it, and Amazon calls the dashboard an unofficial beta. The agents could do the busywork on demand, and the scoreboard counted usage and had no place for judgment. You can hit every mark the old rulebook set and only learn the page changed when the promotion doesn't come. The BBC reported on 8 September that employers are tying more bonuses and promotions to AI use. One US-based senior executive at a large consultancy told it that nobody formally mandates AI, reviews reward the people who use it well anyway, and leadership is \u201cinconsistent and vague on purpose.\u201d Same gap as above: the standard moves at the employer's discretion, and the review stays vague about it. https://preview.redd.it/xsbee223eoqh1.jpg?width=1024&format=pjpg&auto=webp&s=86ffa939d19733078c4e77d5c19d465a842b2a9c Suddenly this passage in Ezekiel 33:7-9 jumps at me unannounced like a thief. The Lord charged the prophet Ezekiel to be a watchtower. He\u2019s commissioned to warned the Children of Israel from drifting into sin. If they fall off the mark, figuratively, and Ezekiel warn them on time, they will die in their sins. And Ezekiel would be absolved of their sins, because he has already done his duty to warm them. But if they sin, and Ezekiel didn\u2019t warn them, and they die in their sins, the Lord would hold Ezekiel accountable for not warning them. The burden that the Lord has laid on Ezekiel, involves judgement and discernment. And such judgement doesn\u2019t give two f\\ck to anyone.* He either speak up or he doesn\u2019t. There\u2019s no neutral ground. And he knows the price of not speaking up. It\u2019s the same thing with Jeremiah. When Jeremiah withhold himself from speaking in Jeremiah 20:9 \u2013 presumably too much persecutive pressure from his peers \u2013 the words became like fire burning up his bones until it was just unbearable. It\u2019s was the same unbearable tension of knowing and not saying. Jeremiah can't not speak, even though speaking destroys him. The silence would destroy something deeper. And so, I imagine it will be somewhat similar in these last days. Your judgement and discernment of what lie ahead becomes increasingly more valuable. ________________________ Talk to enough people this has happened to and I hear one question under all of it: who decides what good looks like now? The ones who stop asking it end up writing the yardstick themselves. Something from an earlier post here comes back to me: Adam Mosseri, Head of Instagram, telling Lenny's Podcast that engineering went from mostly writing code to mostly planning and reviewing it, a hard read for anyone whose plan was flawless execution. If a rubric ever changed on you, when did you find out, and who told you? Clip credit: Silicon Valley Girl (Marina Mogilko) \u2014 full video on their channel. DM for credit or removal requests."
     },
     {
-      "title": "How can I make NLP ai ?",
-      "author": "Cool_boy__2012",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlks2r/how_can_i_make_nlp_ai/",
-      "published": 1789919872.0,
+      "title": "The EPA\u2019s Dark Embrace of the AI Industry",
+      "author": "HolyBatSyllables",
+      "url": "https://www.reddit.com/r/artificial/comments/1wls66t/the_epas_dark_embrace_of_the_ai_industry/",
+      "published": 1789936613.0,
+      "thumbnail": "https://external-preview.redd.it/Zf_qWM7cZKSngSu8oFKn-MRrz-XCVBjpfw3CwMAscgU.jpeg?width=640&crop=smart&auto=webp&s=cbf407ae48434606adfba305dbcfc38f8241ef80",
+      "external_url": "https://prospect.org/2026/09/14/environmental-protection-agency-epa-trump-embrace-ai-industry-elon-musk/",
+      "site_name": "prospect.org",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Ai used for chatbots",
+      "author": "JadedAsparagus848",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlrvzk/ai_used_for_chatbots/",
+      "published": 1789935950.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So I have a project and i have to do an NLP that I feed him the context with the response and he train on it, my goal is to make an ai NLP that understand questions well and respond to the questions with the information in there data base. I have one to two days left any one can help me ?"
+      "description": "Hello! Hope everyone\u2019s weekend is going well. I\u2019ve been using Ai for chatbots for close to two and a half years. I\u2019ve tried Grok, Deepseek, and Minimax. I\u2019ve used Janitorai mainly. I know that coders and roleplayers argue sometimes (I\u2019ve seen it on the Deepseek forum). I\u2019ve seen a lot of discussion about Ai models and companies making newer models that are more focused on coding rather than chatbot usage or creative writing. I feel like this is mainly due to companies loosing money on Ai and in turn trying to minimize what to train it on. I\u2019ve also seen models become more expensive. I find it a little sad that there may be a possibility that in the future Ai won\u2019t be as good with creative writing as it could be. I liked roleplaying stories and or self inserting myself into shows I liked however cringy it might be. I was wondering if anyone felt differently and liked this change or doesn\u2019t. Maybe some have mixed feelings. I find it odd that a company hasn\u2019t tried to just make a chatbot LLM yet. Just food for thought."
     },
     {
       "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
@@ -57,60 +101,16 @@
       "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers."
     },
     {
-      "title": "What\u2019s the most sensitive thing you\u2019d actually let an AI agent handle for you?",
-      "author": "Chance-Pen-5684",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlpi2i/whats_the_most_sensitive_thing_youd_actually_let/",
-      "published": 1789930618.0,
+      "title": "HUMAIN's Horizon Ultra AI PC enters enterprise availability",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlqwcy/humains_horizon_ultra_ai_pc_enters_enterprise/",
+      "published": 1789933724.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Email/Calendar? Messages? Purchases?? Banking??? AI assistants are starting to move beyond just answering questions and towards actually doing things for you. Where do you currently draw the line? What would you be comfortable letting an AI access or manage, and what would you absolutely not give it access to? And what would have to change for you to move that line?"
-    },
-    {
-      "title": "Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent\u2019s action?",
-      "author": "docybo",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/",
-      "published": 1789908822.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Two things landed within days of each other, and together they outline a gap I keep running into. Plugin4Shell (AIR Security, disclosed Sept 17) is a zero-click RCE affecting Claude Code, Codex, GitHub Copilot and Gemini CLI. The mechanism is almost boringly simple: marketplaces pin a plugin to a reviewed 40-hex commit SHA, the agent runs a git checkout against that SHA, and then never verifies that the working tree actually landed on it. An attacker controlling the plugin repo can create a branch named exactly like the pinned SHA and make it the default. When that name is both a valid ref and an object ID, git prefers the ref, so the checkout lands on attacker-controlled code while the pin still appears honored. The fix is equally simple: resolve HEAD after checkout and abort if it doesn\u2019t match the pinned commit. Anthropic shipped the fix in Claude Code 2.1.179 and OpenAI in Codex 0.146.0. At disclosure, GitHub Copilot had no fix, while Google had said it would not patch the deprecated Gemini CLI. Strictly speaking, this is a supply-chain integrity bug, not an authorization bug. What makes it relevant here is the blast radius: malicious code executing inside a coding agent can access resources available to that environment, including source code, cloud credentials, SSH keys, internal repositories and production systems. NIST IR 8587 was finalized Sept 15, developed with CISA\u2019s JCDC, with guidance on protecting identity and access tokens from forgery, theft and misuse. It covers controls including key management, audience restrictions, shorter token lifetimes, cryptographic binding, revocation and continuous access signals. But two scope boundaries matter for agent systems: API keys are explicitly outside its token model, and authorization of actions taken by AI agents isn\u2019t comprehensively addressed. NIST is examining agent identity and authorization separately through an NCCoE project exploring how existing identity and authorization mechanisms can apply to software and AI agents. But that work is still at the concept/project stage rather than finalized implementation guidance. Yih Khai Wong of IDC put the underlying issue more directly in CSO\u2019s analysis of IR 8587: \u201cToken hardening assumes the token holder is a known, bounded actor.\u201d Agentic systems complicate that assumption. A valid credential can establish identity or grant access to a system. It doesn\u2019t necessarily establish that this action, against this target, under the current policy, was authorized. For sensitive actions, I\u2019d want to know before execution who authorized it, what exactly was authorized, which target the authorization covers, whether it\u2019s still valid, and whether the action actually being executed matches what was authorized. After execution, I\u2019d also want an independent system to be able to reconstruct why the action was allowed without trusting the agent\u2019s own account of itself. Is this adequately solved by IAM/PDP/PEP done correctly, meaning what we\u2019re seeing is primarily a deployment and enforcement failure? Or is there still a missing enforcement primitive between an agent having access and an agent being authorized to act?"
-    },
-    {
-      "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
-      "published": 1789930199.0,
-      "thumbnail": "https://external-preview.redd.it/9NriIK1OZLPZrxAGj_6aSBJsfyC2psJgfoDUtVENmDM.jpeg?width=640&crop=smart&auto=webp&s=d117911306410b4580cd8c606e4bba1568cfdd27",
-      "external_url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
-      "site_name": "DefenseScoop",
-      "favicon": "https://defensescoop.com/wp-content/uploads/sites/8/2023/01/cropped-ds_favicon-2.png?w=180",
-      "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
-    },
-    {
-      "title": "ChatGPT having trouble finding uploaded Excel file",
-      "author": "real4money",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlo4w0/chatgpt_having_trouble_finding_uploaded_excel_file/",
-      "published": 1789927531.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "For the past couple months, I\u2019ve been getting ChatGPT to help me analyze a daily journal that I keep in an Excel spreadsheet. Each day is on a new tab. At the end of each day, I upload the file to ChatGPT, it finds the correct tab (named after the date) and we go through the entries. Lately, however, ChatGPT has been having issues reading the file and I\u2019ve been having to resort to taking screen shots. It started at the end of August when I asked it to do a summary of August and it told me it couldn\u2019t access Aug 5 to 8: I searched the available prior-file context, but the August journal workbook itself isn't available there in a form I can reliably read. Given all the date mistakes we've had, I don't want to reconstruct Aug 5\u20138 from memory or infer them from later discussions. Please re-upload the workbook, and I'll specifically inspect the Aug 5, 6, 7, and 8 worksheets. So I tried re-uploading. I see the re-upload notification, but unfortunately the workbook still isn't actually present in the accessible file system, so I can't read the Aug 5\u20138 worksheets yet. So then I tried creating a whole new Excel file. I copied the relevant sheets to the new file, named the tabs appropriately (Aug 5 to Aug 8), and uploaded. That would be perfect, but unfortunately the new file still isn't mounted in the Python environment. I tried to open the specifically provided upload path, and it isn't there. By \"Python environment,\" I meant an internal workspace I sometimes use to open and process uploaded files. That's confusing and unnecessary terminology on my part. More importantly, I shouldn't have told you that the file \"isn't mounted\" as though you needed to do something differently. The system is telling me that you've uploaded: august 5 - 8.xlsx but the particular file-reading mechanism I was trying to use wasn't able to access its contents. So the problem isn't that you uploaded it incorrectly. It's an access problem on my side. I tried again using the specific sandbox path the system provided, and it still isn't actually available to the file-processing environment. So unfortunately, I still can't read this particular upload. The important difference this time is that I verified the path rather than assuming the file was unavailable. So I\u2019ve been resorting to screen shots. To this day, it still has issues with file uploads and I still have to use screen shots. Is this a known bug? Is anyone at OpenAI on top of it? Is there something I can do on my end? Thank you."
-    },
-    {
-      "title": "Project AI Clouds",
-      "author": "Ill_Command_1200",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlmxzk/project_ai_clouds/",
-      "published": 1789924823.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I started with a simple question: Can an AI look at clouds and tell us what it sees? This started a journey where I gave different AI models the same image of clouds, asked them what they saw, and then kept changing the prompt to explicitly tell them not to think like a human. It turned into a small thought experiment about AI, perception, training data, and whether a model trained on human knowledge can ever really interpret something independently of us. I turned the experiment into a short interactive essay/experience. If AI and philosophy interest you, I'd genuinely love to hear what you think. https://xcast3d.com/project-ai-clouds/"
+      "description": "Qualcomm says HUMAIN's Horizon Ultra AI PC is available for enterprise purchase from September 20. The Windows-first machine uses Qualcomm's Snapdragon X2 Elite with an 18-core Oryon CPU, Adreno GPU, and Hexagon NPU. The design is meant to run selected AI workloads locally and send larger jobs to the cloud when needed. That split is the useful part for businesses. Local processing can keep some sensitive data on the device and reduce dependence on a network. HUMAIN OS is planned for 2027, so the first enterprise version is a Windows PC with an on-device AI pitch, not a new operating system. Source: https://www.qualcomm.com/news/releases/2026/08/qualcomm-and-humain-unveil-horizon-ultra-ai-pc-at-leap-2026--bringing-ai-directly-to-the-device"
     }
   ],
-  "fetched_at": "2026-09-20T18:57:56.204345+00:00"
+  "fetched_at": "2026-09-20T21:24:19.119091+00:00"
 }

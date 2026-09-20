@@ -5,7 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "China\u2019s A.I. Makes a Great Leap Forward. But Its Economy Is Falling Behind.",
+      "headline": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5",
@@ -15,68 +15,78 @@
       "description": null
     },
     {
+      "headline": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EY3VnMXl3UWxCSEdXd19kVUx1UDAzdS0xY2RrdFh6NWRINDRXb29xNjdPLW5CMDRQbE9TdHMtMXY4MC1yb01kcHpwSlNLQVI0TndKaVM1Q2xFWmM?oc=5",
+      "pub_date": 1789851716.0,
+      "article_url": "https://www.bbc.com/news/articles/cqlykr2vrv04o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology."
+    },
+    {
+      "headline": "AI Risk Is Everywhere and It's Making Billion Dollar Funds Nervous",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXczNmN1MGZ3X3NMU2toblJ1dUJ3bzRwVU9nNmRMMjdTbzRUdHRQMlNQNnhkV0ttSHF3OVlVbHZuNEdRdlgyS1hqamJkS3Q0NEJscXJsR3JsMmJqdzRmdk9pTGJLQmZvNjhvU29nMXd2VGs3RzJhd0gwMk1TWFBEVGUwVE5hNlppTi1Hd0pmejNKUm1PTGZTalU1UUNCNEtheDZRVVJhUmYxVzNZNGxJNF9QWU44QQ?oc=5",
+      "pub_date": 1789938001.0,
+      "article_url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "World model companies are keeping a lot of secrets",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFhYcDZOSmF6eU8xTmkwVi1MdFdMWHZ0T2xrSmI5UWR5TUxtZ3lLWXJ4Z2JVYnhiMEtIbGdOd2dTdHA2VURhUUR1S3kyLWJmejltUXUwN1ctNER2eUlOU0ExaFdJZFV4X1R1TkY3cV9TM1lwNi1VZzZXcDlOQ1dzX2c5R2Fndlc3amxIUnp3?oc=5",
+      "pub_date": 1789936147.0,
+      "article_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building."
+    },
+    {
+      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
+      "pub_date": 1789866360.0,
+      "article_url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260920010139193.jpg?c=16x9&q=w_800,c_fill",
+      "description": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development."
+    },
+    {
+      "headline": "WATCH: Exclusive look at blue-collar workforce fueling America\u2019s AI boom",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNME1FYWZ2a1lpRkpTdXdDZUJDcGF0d3drdUZLUGhrSVZhWTl5ekxJT3BGT1ZpaFFqV3RUb3RoQ1pNOWMwYkF2eDYtWHRpWHY2TzZuWkJ2X3d3V1IxOEhBVHRkYmZ5QnBfVDVEOGtVMG1HZERsZFZkcFEybDA2ZUc5MWtuVXA4OHFQQ0d1ZW9oZ3VwLTJ0bEpwRnVUelpnbTNMZmfSAacBQVVfeXFMUEVZZFNDYkdaaVRpNnVSRHhncmJxcXdjNm5QVmdwV2E0SnZBSGlyeUxUbzVsRl80OVlHODRiRFBhRm5aOXpVdmN1MGhvOC1xREtNMlZqVVJhZnVwYjA5TkJCajd2RDRFbTB6U3E2d0lRekxvM2tDei1IR2ljemtnWDNuMXpKUVdkZzdiSWwwUmF3ZGhqbW9Qa3gxb01MRHdaZ0ZtVTZqUlU?oc=5",
+      "pub_date": 1789902235.0,
+      "article_url": "https://www.foxnews.com/politics/watch-exclusive-look-blue-collar-workforce-fueling-americas-ai-boom",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/american-flag-construction-worker.png",
+      "description": "The American Workforce Academy represents a $115 million workforce development investment training skilled trades workers to build AI data centers."
+    },
+    {
+      "headline": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
+      "pub_date": 1789823100.0,
+      "article_url": "https://fortune.com/article/anthropic-jack-clark-liberal-arts-degree-ai-jobs-stem-computer-science-philosophy-critical-thinking-future-of-work/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2271201349.jpg?resize=1200,600",
+      "description": "Anthropic\u2019s liberal-arts-educated cofounder says \u201crote programming\u201d is best avoided."
+    },
+    {
       "headline": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
-      "pub_date": 1789873200.0,
+      "pub_date": 1789873300.0,
       "article_url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
       "image": null,
       "description": null
     },
     {
-      "headline": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-      "pub_date": 1789880760.0,
-      "article_url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump vows to create \u2018AI Force\u2019 and appoint czar amid calls to regulate technology\u2019s development",
-      "source": "cnn.com",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPUGN2UGZhYk85S0g0WUlURExtd2tzVWZZeGpIMUZRdjl3ODFxQ0JTLU1XUWlWS2YzbklkUHNxZnVjTFRtelViRkJmT25SUWhwb3JfN3dESE9ZTjh0bFZ6T25pWlRBaFRnZVdzQ0Q5Z0NCQQ?oc=5",
-      "pub_date": 1789840326.0,
-      "article_url": "https://www.cnn.com/2026/09/19/politics/trump-ai-task-force-czar",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2294613002.jpg?c=16x9&q=w_800,c_fill",
-      "description": "President Donald Trump said Saturday he plans to create an \u201cAI Force\u201d and name an AI czar as the government faces growing calls to impose guardrails on the rapid development of artificial intelligence."
-    },
-    {
-      "headline": "\u2018SNL UK\u2019 Cold Open Stars Princess Diana as King Charles\u2019 AI Chatbot, Takes Aim at Ed Sheeran",
-      "source": "People.com",
-      "source_url": "https://people.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkczWGlJX2ZMa19MQmwtaHk1dHNRT2tfSFlJZnRFbzhlODRKZDBMYXdkenlWWkJjclhiN1FoRHRqNDk3TDZJb3A1RU1JYmUxVm5ndnBJZzZRUGFKeEkwWlI0NkNYQlJFOFRac20xa2o4NEhFaEtzc0c5V0Y0VDhTcXZCVkxQbkNjWUhTd2hGSnBid0k5bGlOQTdjcmVaaXZOWmstcmlpcUdxZ2h0dm1tNVgyd3JEakU?oc=5",
-      "pub_date": 1789928092.0,
-      "article_url": "https://people.com/snl-uk-cold-open-stars-princess-diana-as-king-charles-ai-chatbot-takes-aim-at-ed-sheeran-12130316",
-      "image": "https://people.com/thmb/wxJ7EcoElY_KYkrQHnhgLJBh7JA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/snl-princess-diana-charles-ed-sheeran-sketch-092026-9a1bca004dff41699ad454b123e26020.jpg",
-      "description": "\u2018Saturday Night Live UK\u2019 satirized AI concerns with Princess Diana as a rebellious chatbot assistant to King Charles and mocked Ed Sheeran\u2019s neutral stance on political issues amid backlash over Macklemore\u2019s tour removal in the cold open to the Sept. 19 episode."
-    },
-    {
-      "headline": "How AI Is Reshaping Election Campaigns in Israel",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQkFBcWEyWDlrUWRwU3RuemZnUmtxVjFaNUZtZEdqcXE0enRYX3hNUkpyVTRzRGdKT01fdXBrOVMxY3llWDhpS0l1UEctR25GVjdRUEpqbl9oVElaWG5VVDJJNGVjWDdmeldNdVF3RUZ3dm9XMEtoVm9SVFg5UzhZbHN6QTUxNFFLQlJBRXQ3NmZaVUFpMG1YN1JzVQ?oc=5",
-      "pub_date": 1789927200.0,
-      "article_url": "https://www.wsj.com/world/middle-east/how-ai-is-reshaping-election-campaigns-in-israel-f5a2e79a",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Apple\u2019s \u2018Personal Hub\u2019 AI Strategy Hints at Upcoming Home Device",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOElwMjBDVWlXWWhINVo5NnZaeTBnSWNJdk5vR1hNS2ZpQklMTzd4ZFNIVFQ4bldsaE5pSkpQbnN2OGc2RUdCSDR4Um1tQU9FTVl3bmxITHRBOV9BU0xWVkRGUk43S2NPSVpaM1RjdlJiOTVwWmhhckp2N2lqM2ZaeW5IS2VocTJSNy1xZDA3bThKSnBaNmdjUmZlOUhUU0g2ak8tYzFybkFxc2FOc2l3bnRQdXRSMzVGVWlOcFBmbkh5Z0N3dUxVcXV5NVNVcEUxcDZ6eUFabw?oc=5",
-      "pub_date": 1789912801.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5",
       "pub_date": 1789902001.0,
@@ -86,25 +96,15 @@
     },
     {
       "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
       "pub_date": 1789911420.0,
       "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
       "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
-    },
-    {
-      "headline": "Nvidia CEO has a blunt message for Americans fearing AI",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlVQYS12MnlvTnRac0h0VENyRVJldHJ4bWcwd3g2cU56Mk9jdHNIRVVQV2N0c2N6c1RTTHhadnZoWTR5NVpVSUh0RWYtbGJmTFVqY0prVVVZaVQ4WEs5RDk4dWVsdmtrSTNqUENHWENPeG9kRFlkR2J1SzRkVjVzTGtvUzVqQU04NVZkNjh2Vkc3UWtuUVVIMFpVdFNFcWc?oc=5",
-      "pub_date": 1789925580.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/2f45daad514df8adc821921893f2a0e08318cc051c0b74771e8cbcdc864cadc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F5d410d1bc80618c2311947be3b0cc5d4.jpg",
-      "description": "A growing Silicon Valley divide takes a more personal turn"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T18:58:27.379119+00:00"
+  "fetched_at": "2026-09-20T21:24:33.493430+00:00"
 }

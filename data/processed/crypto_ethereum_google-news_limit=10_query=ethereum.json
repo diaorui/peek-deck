@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Ethereum developers warn \u2018any teenager\u2019 could disrupt upcoming Glamsterdam test",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2gxaTZ4UGs2RUNjMEFnX25pUjFfdkpiRGVIM1k3cjFvX01vTm43NklYd0dteEN6c1hvb3RrUmRhN3Q0d3BfWER1WGJYT1NrTng0S3dxYzZCODdoc2VPVHpFMzU5b2lZSG14OGt2NUl5dUF4c3FkNGZqWFI5NUhMcXMtc0RGbFd4aHlHTWpBbmc4SU0yRjUzcWJyaWMzamxQd0xEcWFtVlBjd3ZOOE53dWRJWXdHZ205UXp0NFJYYw?oc=5",
       "pub_date": 1789712275.0,
@@ -15,34 +15,14 @@
       "description": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia."
     },
     {
-      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
-      "source": "Finance Magnates",
-      "source_url": "https://www.financemagnates.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1RRMndWQUptTThQRjBjb1VxUVJwbnJKYkJlVUVHbGNVSEUtbEJ2bVhScUZxVzFBbG1kMHdyeENVS01iclpTUGRxNHcwTkdienJjU1RTUE1WRVFHMThwSHlDd2JfdHVSSmNranJ5UUoycmJ0cGlqZGlhSWlPMGM4eWctaVJQVl9aaTREeGNCY2VkVllVbEFtaThUY2RkMzFrN0htWlhvTHBvWlg4aU1NLWtaU2ZvRTZpc2FMR08xRjgxanc?oc=5",
-      "pub_date": 1789755997.0,
-      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
-      "image": "https://images.financemagnates.com/images/Cryptocurrency%20on%20Binance%20trading%20app%2C%20Bitcoin%20BTC%20with%20BNB%2C%20Ethereum%2C%20Dogecoin%2C%20Cardano%2C%20Litcoin_id_96eb97fa-195f-4739-bebb-51ebbbc7726f_size900.jpg",
-      "description": "Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run."
-    },
-    {
-      "headline": "Ethereum reclaims $2,500 as exchange supply dro...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR01nU0cwbUVxa2JpeFc3M3hyZXFhZkZlM002T3lwX05IQTF5NExaZVV0UE01Y2ZqY1p2VHk0RVlOZTIwV082Y1JGN2prY1Y1c0xMMkdJZDV6NWNDZlZlVWN0bS1Ha2dNX2ZkNHE4WVFOaFdGNlg1Xy1qZDNXRWxHTnFqZzBnQXRPTk83ZF8wQXJwMFll?oc=5",
-      "pub_date": 1789925101.0,
-      "article_url": "https://pluang.com/en/news-feed/pasokan-ethereum-mengencang-harga-eth-menguat-di-atas-2500",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/3d9a2fd141efb78612724eed98d99f7e89b84769c70454c0f6072a512255e53b-en.webp",
-      "description": "Ethereum has regained the $2,500 price level amid a significant 28% drop in ETH held on exchanges since May 2025, reducing the liquid supply available for trading. Increased staking, now at over 35%, further removes ETH from circulation, tightening supply. Additionally, U.S. Spot ETH ETFs have grown to $16.7 billion in assets, absorbing more ETH and limiting availability on open markets. This combination makes Ethereum's price more sensitive to spot demand, with future price stability depending on continued buyer interest versus potential selling pressure."
-    },
-    {
-      "headline": "Bitcoin could hit $100K and Ethereum $4K by yea...",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1VmN3BySkpHZHd0M2hWN0lvTC1nSVNEUWs5ZnluaGNVeXIwY2M1MTQxNFFmRUw2NGRCZDlTampHUk9la3laZlpQV3RvSTFmZGUtby0xcVlfNmRCQnE1OHJyN0h4LTduQVNHRlM3SzFaNFZXWk9rVHFGaWhyV3VUMXE3RG9KVVlUVUE?oc=5",
-      "pub_date": 1789928607.0,
-      "article_url": "https://pluang.com/en/news-feed/bisakah-bitcoin-capai-100k-ethereum-4k-tahun-akhir",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/c49ca6e29a3166aaf2daca8af776b874ef063785b2d9e617ace22161583d0c8e-en.webp",
-      "description": "Bitcoin reaching $100,000 and Ethereum hitting $4,000 by the end of 2026 are possible but conditional scenarios. Bitcoin needs sustained institutional demand, ETF inflows, and favorable Federal Reserve policies, while Ethereum requires increased network activity, DeFi growth, and a rising ETH/BTC ratio. Both targets face risks from macroeconomic stress and technical resistance. Investors should monitor market liquidity, trading volume, and asset-specific demand signals to assess the likelihood of these price milestones."
+      "headline": "Which Crypto ETF Drew the Most Money Last Week? Not Bitcoin, and Not Ethereum",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OWmd0VDNya0t0akJRUVZUNURod2pnSW9jcWhGTXBaYkZqTGVhY3VRUUdCbjFYTTA4TjV5Z3dZeGsyZ3FtZThjcHJmWUo0b2pvT1BpQ29yUXp3dTFpUGRpczhQby0xRGpicUI0T2V0aw?oc=5",
+      "pub_date": 1789803540.0,
+      "article_url": "https://beincrypto.com/zcash-ethereum-crypto-etf-weekly-flows/",
+      "image": "https://assets.beincrypto.com/img/Bc9hmX1mPVRHcNZuRzruS1Pl3BM=/1200x630/smart/filters:format(jpeg):quality(82)/5865be9d67504e52bf74f903acb4c608",
+      "description": "Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million."
     },
     {
       "headline": "Ethereum Price Analysis: Can ETH Hit $3,000 as it Hovers Below Key Level",
@@ -65,6 +45,26 @@
       "description": "Tom Lee called a historic Q4 stock rally on television, and the Fed raised rates less than 24 hours later. Now Bitcoin, Ethereum, and XRP face a much steeper climb than Lee's bullish case lets on."
     },
     {
+      "headline": "7 Altcoins Explode: Kevin O\u2019Leary Says Ethereum May No Longer Rule",
+      "source": "Stocktwits",
+      "source_url": "https://stocktwits.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2RhNFpmcnBSbFBnNFpCRG9FYnVNaTlzbDZhSmstZFgxUUFsaUNTUUQyaXRsM1lwdFhVQ0xZbW9faHpMYzhLQ0ZHSFdNTVFCa0xWMUxwb2NWUXFYcXJMT3MydDk0Y0s0cFhVTm5LQjBBYW1ZWHA3UUVLanFYa3RZM1djcWVWMG03Yy1weWJ4UW8zQUNTdlFvNDhOeFJnS2tRY2wtU2ZzS3RHWmZCWkhGOGRTRkpMb0lZNnc?oc=5",
+      "pub_date": 1789920179.0,
+      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R",
+      "image": "https://news.stocktwits-cdn.com/large_Getty_Images_1367001414_jpg_9d5a3efeae.webp",
+      "description": "Kevin O\u2019Leary said he no longer expected Ethereum to become the main blockchain for crypto."
+    },
+    {
+      "headline": "New Crypto: Remittix Builds Toward Its Global Payments Launch as Ethereum Price Prediction Targets $6,000",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZFpuTGNfb002OXlmRUVZMWRsc1lsQUtIYXh6Y3lNTllvX3BHcGNab1FnTk52ZXc3dEZDNmphWHBSYmtNSUZNd3h2ZEJLaXJBNU9lWXNVVkdTZllaSFExZm1fOERURnJZamdIOVQyWEczaU51OHZuNFdHZ29hQVd5TXhUYlo0NFcwcFM0ZGxEQU1IeFpuNWtSeGRTdjh3ZDVXQUZlQTNQWW1ITG5rXzEzb2FUMzdER2I1MW9iaHg4dVF1N2NpTFdMTU01RDVuMW5VQ0RILXdxSGxaV0VhbnB6aEJpeVIzYnVjNDdScHJqWVdNQ0Y0?oc=5",
+      "pub_date": 1789931957.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/new-crypto-remittix-builds-toward-its-global-payments-launch-as-ethereum-price-prediction-targets-6-000-1036558982",
+      "image": "https://ml.globenewswire.com/Resource/Download/28885b43-a3b0-4c7c-8051-05d93aa496f6/new-crypto-remittix-builds.jpg",
+      "description": "MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys..."
+    },
+    {
       "headline": "Is This Cryptocurrency Still a Millionaire Maker?",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -75,18 +75,8 @@
       "description": "Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it."
     },
     {
-      "headline": "7 Altcoins Explode: Kevin O\u2019Leary Says Ethereum May No Longer Rule",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2RhNFpmcnBSbFBnNFpCRG9FYnVNaTlzbDZhSmstZFgxUUFsaUNTUUQyaXRsM1lwdFhVQ0xZbW9faHpMYzhLQ0ZHSFdNTVFCa0xWMUxwb2NWUXFYcXJMT3MydDk0Y0s0cFhVTm5LQjBBYW1ZWHA3UUVLanFYa3RZM1djcWVWMG03Yy1weWJ4UW8zQUNTdlFvNDhOeFJnS2tRY2wtU2ZzS3RHWmZCWkhGOGRTRkpMb0lZNnc?oc=5",
-      "pub_date": 1789919940.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/7-altcoins-explode-near-arb-avax-inj-uni-rally/cZtCgtCRB4R",
-      "image": "https://news.stocktwits-cdn.com/large_Getty_Images_1367001414_jpg_9d5a3efeae.webp",
-      "description": "Kevin O\u2019Leary said he no longer expected Ethereum to become the main blockchain for crypto."
-    },
-    {
       "headline": "Solana vs Ethereum: Who Is Winning the On-Chain Race?",
-      "source": "coinpedia.org",
+      "source": "Coinpedia",
       "source_url": "https://coinpedia.org",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFlYbU9HUTc4a1ZZOWlhYVdjY1dOTlgtOVdCX0I2dnlZVnFEZHJhb2FrVTdqOVo4VFFJTGVQa0FheVk2d3NnYUNnQ283Tlh3U1hmcnVaOU9tU0lFOXBaSlFmTFJKZzg2Mk52UG5rcnI3RlhReWc0M0RDVkxzRXU3c09rWl80V3lGOW92RWpKT1J0NkxJ0gGaAUFVX3lxTE9EZ0RnV2c5Z1V3bTZwWGJoOWJZWWtseFN4Sjdvd05LZGRnQlVJdl92RzFHRm9jSXJjdV9QX05mc3VGMnhlUDJvdUJTYUtxUDVKdWVya2gxSk0yYllVYkNETnp0bGVtaDhUMnlSeFRJMHhybHhKcElqYlNFaDVuekJheFNaV0lrdGgwMnZzQzBVb3ZIcFBWaGZzY3c?oc=5",
       "pub_date": 1789803082.0,
@@ -103,8 +93,18 @@
       "article_url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
       "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg",
       "description": "Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model\u2019s control."
+    },
+    {
+      "headline": "Why Is Crypto Up Today? Bitcoin Tops $80,000 as Ethereum, XRP and Dogecoin Rise Up to 7%",
+      "source": "financemagnates.com",
+      "source_url": "https://www.financemagnates.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ1RRMndWQUptTThQRjBjb1VxUVJwbnJKYkJlVUVHbGNVSEUtbEJ2bVhScUZxVzFBbG1kMHdyeENVS01iclpTUGRxNHcwTkdienJjU1RTUE1WRVFHMThwSHlDd2JfdHVSSmNranJ5UUoycmJ0cGlqZGlhSWlPMGM4eWctaVJQVl9aaTREeGNCY2VkVllVbEFtaThUY2RkMzFrN0htWlhvTHBvWlg4aU1NLWtaU2ZvRTZpc2FMR08xRjgxanc?oc=5",
+      "pub_date": 1789755997.0,
+      "article_url": "https://www.financemagnates.com/trending/why-is-crypto-up-today-bitcoin-tops-80000-as-ethereum-xrp-and-dogecoin-rise-up-to-7/",
+      "image": "https://images.financemagnates.com/images/Cryptocurrency%20on%20Binance%20trading%20app%2C%20Bitcoin%20BTC%20with%20BNB%2C%20Ethereum%2C%20Dogecoin%2C%20Cardano%2C%20Litcoin_id_96eb97fa-195f-4739-bebb-51ebbbc7726f_size900.jpg",
+      "description": "Why crypot is going up today? Bitcoin reclaimed $80,000 and Ethereum, XRP and Dogecoin rose 6-7% on Friday. My charts show the levels that decide how far the rally can run."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T18:58:19.700331+00:00"
+  "fetched_at": "2026-09-20T21:24:31.799255+00:00"
 }

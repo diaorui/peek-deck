@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 107692,
+      "github_stars": 107779,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.14858",
       "arxiv_url": "https://arxiv.org/abs/2609.14858",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 235,
+      "upvotes": 237,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-20T18:58:06.184851+00:00"
+  "fetched_at": "2026-09-20T21:24:24.925645+00:00"
 }
