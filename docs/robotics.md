@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-21T13:41:30.396803+00:00'
+updated: '2026-09-21T19:06:44.716139+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 21, 2026 at 13:41 UTC  
+**Last Updated:** September 21, 2026 at 19:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism
 
-14h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechan
 
 (GIF: an industrial room 58 m short of the goal. Left is Gazebo, the drone among pipes and beams; right is RViz, where pink is the obstacle memory, the cyan fan is the current stereo depth return, orange is the committed route and the magenta sphere is the goal. In these nine seconds the speed law does its whole job: the drone crawls at 0.2 m/s where the pair resolves little, runs up to 2.5 m/s where it resolves far enough, and is back at 0.1 m/s before the next corner.) Flight video: https://www.youtube.com/watch?v=OUuAj2WNKzs Two weeks ago I posted the same location flown with a 3D lidar. The lidar is gone now, and so is GNSS and the magnetometer. The airframe carries a forward stereo pair (1280 x 960, 120 degrees, 0.20 m baseline, 7.5 Hz) and two 8 x 8 time-of-flight sensors looking up and down. That pair does both jobs: stereo depth becomes the obstacle memory the planner searches, and a stereo MSCKF on the same images is the position and heading PX4 flies on, in place of satellites and compass. So: a start, a goal, a multi-storey building with shafts and openings at different altitudes, and nothing but two cameras and an IMU. The location is the DARPA Subterranean Challenge "Urban Circuit Practice 01" world published by Open Robotics on Gazebo Fuel (CC BY 4.0). Numbers from the release, five consecutive flights on one commit with nothing changed between them: 410 to 629 m of path, 1.48 to 1.79 m/s mean speed with every hold and replan counted, no collisions. Five more on the same commit with the lidar instead, for comparison: 2.42 to 2.67 m/s. Cameras are slower because confident stereo depth reaches 6.4 m against the lidar's 35, and the drone only flies as fast as it can stop inside the range the sensor is guaranteed to have resolved. The check I am most pleased with is a new one. The mission monitor decides the drone arrived by asking the drone where it thinks it is, and an odometry drifts by metres, so it can arrive perfectly in its own coordinates while standing somewhere else. Every flight now fails unless the true position from the simulator is inside the 2.0 m capture radius at the moment the goal is acknowledged. Over the five camera flights the truth stood 0.47 to 1.42 m from the goal. What cost me the most flights was not the filter but the things around it: the autopilot resetting its clock synchronisation whenever the simulation ran below real time (about a second without navigation each time), the autopilot's gate on external odometry being tighter than the estimator's own corrections, and telling the filter the gyroscope was eighteen times noisier than it is, which let the noise of every visual update walk the one direction no camera can observe. Limitations, honestly: the drift has no bound (0.1 to 0.4 percent of the path), so a mission three times longer would miss the 2.0 m radius; it is one location and one start-goal pair; it is simulation only and not validated for a real aircraft; and the multi-vehicle missions have not been flown on cameras yet. MIT licensed. On a Linux host with Docker and an NVIDIA GPU, one script prepares a fresh clone (dev image, PX4 build, workspace, environment assets) and starts the flight: git clone https://github.com/formiat/px4-ros2-drone-nav.git cd px4-ros2-drone-nav ./scripts/bootstrap.sh https://github.com/formiat/px4-ros2-drone-nav Happy to answer anything, and I would like to hear from people who have flown a single camera pair as both the perception and the localization sensor: what broke first?
 
-16h ago
+22h ago
 
 ---
 
@@ -52,7 +52,7 @@ Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechan
 
 Another small Watti update. I ran a very early closed test of Watti Studio. A few followers created animations directly from their phones and computers, and I manually transferred them to the physical robot. This was only the first validation of the idea. For the next closed test, I plan to connect Watti Studio directly to Watti and automate the entire pipeline - animation submission, queueing, playback, recording, and video delivery. Which animation is your favorite? Would you be interested in joining the next closed test? If you’d like to learn more about Watti’s architecture and the hardware I’m using, the pre-release repository is available here: https://github.com/Nikolay-Tyulkin/Watti
 
-17h ago
+22h ago
 
 ---
 
@@ -60,7 +60,7 @@ Another small Watti update. I ran a very early closed test of Watti Studio. A fe
 
 Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!
 
-1h ago
+6h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hi everyone, I'm building a robotic arm and I'm currently working on the gripper
 
 Before and after training
 
-1h ago
+6h ago
 
 ---
 
@@ -76,7 +76,7 @@ Before and after training
 
 How do I connect these Helical gears like this? It's being run by a RDS3115mg servo motor, and supposed to be a tilt up and down set up
 
-3h ago
+8h ago
 
 ---
 
@@ -84,7 +84,7 @@ How do I connect these Helical gears like this? It's being run by a RDS3115mg se
 
 For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo runs natively on Mac with full graphics performance. The simulation quality was insane when I tried messing around with real world robots like Spot from Boston Dynamics. But for some projects I need ROS to work with and I tried with my Parallels VM and the performance in terms of graphics was not that great because it used the CPU for rendering. I tried using Robostack and the performance of basic ROS itself hit a lot of problems. Any workarounds or possible solutions? PS: I don’t want answers like get a PC or something because that ain’t really viable option for me
 
-8h ago
+13h ago
 
 ---
 
@@ -92,7 +92,7 @@ For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo 
 
 Rack-and-pinion for the Linear carriage. With another Stepper motor for Pan movement mounted on the same carriage. Let's test it.
 
-6h ago
+11h ago
 
 ---
 
@@ -116,73 +116,75 @@ Hello all, I’m a farmer from the Netherlands and I am interested in robotics. 
 
 ## Google News: "robotics"
 
-**[Folkestone school's robotics team aims to inspire next generation](https://www.bbc.com/news/articles/cmwyz83xgn9jo)**
-
-The group from Folkestone is set to compete at the First Global Challenge in South Korea.
-
-BBC • 8h ago
-
----
-
-**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
-
-Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 1d ago
-
----
-
 **[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
 
-reuters.com • 8h ago
+Reuters • 16h ago
 
 ---
 
 **[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
 
-reuters.com • 8h ago
+Reuters • 14h ago
 
 ---
 
-**[China's Unitree Robotics stock falls by half in month after listing](https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing)**
+**[Boston Dynamics' humanoid robots start training at Hyundai plant](https://www.axios.com/local/boston/2026/09/21/boston-dynamics-humanoid-robots-hyundai-metaplant)**
 
-As IPO frenzy settles down, investors assess future of humanoids
-
-Nikkei Asia • 16h ago
+Axios • 28m ago
 
 ---
 
-**[Chicago's delivery robots face a make-or-break year](https://www.axios.com/local/chicago/2026/09/21/chicago-delivery-robots-coco-serve-robotics)**
+**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
 
-Axios • 2h ago
+Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
 
----
-
-**[China's new calling cards: AI, robots and new drugs](https://www.chinadaily.com.cn/a/202609/21/WS6ab09a1ee4b06d4aa055f36c.html)**
-
-China Daily • 10h ago
+Futurism • 1d ago
 
 ---
 
-**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+**[Faraday Future Launches 5 New Robots: $9,990 To $137,900 For An Industrial Humanoid](https://www.forbes.com/sites/johnkoetsier/2026/09/21/faraday-future-launches-5-new-robots-9990-to-137900-for-an-industrial-humanoid/)**
 
-OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
-
-Business Insider • 3d ago
+Forbes • 2h ago
 
 ---
 
-**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
+**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
 
-The BayNet • 1d ago
+Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
+
+CnEVPost • 1d ago
 
 ---
 
-**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
+**[Humanoid Robots May Get Their ‘ChatGPT Moment’ by Mid-2027](https://www.techrepublic.com/article/news-humanoid-robots-chatgpt-moment-2027-spirit-ai-china-apac/)**
 
-Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
+Spirit AI predicts humanoid robots could handle natural-language, multi-step physical tasks by mid-2027, with factories likely to adopt them first.
 
-IEEE Spectrum • 2d ago
+TechRepublic • 4h ago
+
+---
+
+**[Behold: Video of "First-Ever" Human Versus Robot MMA Fight](https://futurism.com/robots-and-machines/first-ever-human-versus-robot-mma-fight)**
+
+A new viral video making the rounds on social media shows a humanoid robot fighting a TikTok influencer in the ring.
+
+Futurism • 1h ago
+
+---
+
+**[Folkestone school's robotics team aims to inspire next generation](https://www.bbc.com/news/articles/cmwyz83xgn9jo)**
+
+The group from Folkestone is set to compete at the First Global Challenge in South Korea.
+
+BBC • 14h ago
+
+---
+
+**[This is why making AI “perfectly safe” remains an impossible dream](https://www.futura-sciences.com/en/this-is-why-making-ai-perfectly-safe-remains-an-impossible-dream_900341/)**
+
+Warnings That Keep Getting Louder The media is abuzz with concerns about AI leading humanity to extinction. Recent alarmist interviews and expert opinions have only added fuel to the fire. According to those raising the red flag, no one contests that AI brings enormous benefits, but there’s a catch. There’s...
+
+futura-sciences.com • 1h ago
 
 ---
 
@@ -196,37 +198,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 35K • 👍 561 • 💬 97 • ⏱️ 2:40 • 7h ago
-
----
-
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
-
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
-
-📺 Reward AI
-
-👁️ 147K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 13K • 👍 249 • 💬 25 • ⏱️ 57:02 • 6d ago
-
----
-
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
-
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
-
-📺 DPCcars
-
-👁️ 20K • 👍 138 • 💬 39 • ⏱️ 2:56 • 3d ago
+👁️ 72K • 👍 800 • 💬 142 • ⏱️ 2:40 • 12h ago
 
 ---
 
@@ -236,7 +208,37 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 818K • 👍 13K • 💬 2K • ⏱️ 16:24 • 3d ago
+👁️ 846K • 👍 13K • 💬 2K • ⏱️ 16:24 • 4d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 13K • 👍 252 • 💬 25 • ⏱️ 57:02 • 6d ago
+
+---
+
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
+
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
+
+📺 DPCcars
+
+👁️ 20K • 👍 138 • 💬 39 • ⏱️ 2:56 • 4d ago
+
+---
+
+**[Humanoid Robots Trade Blows at Shanghai&#39;s Premier URKL Clash](https://www.youtube.com/watch?v=veDOh14nFcE)**
+
+Shanghai hosted the historic first stop of the Ultimate Robot Knock-out Legend (URKL) national city tour, showcasing advanced ...
+
+📺 New York Post
+
+👁️ 23K • 👍 130 • 💬 86 • ⏱️ 1:22 • 22h ago
 
 ---
 
@@ -246,27 +248,37 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 73K • 👍 293 • 💬 51 • ⏱️ 9:44 • 5d ago
+👁️ 73K • 👍 294 • 💬 51 • ⏱️ 9:44 • 6d ago
 
 ---
 
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+**[Humanoid Robots Just Crossed a MASSIVE Threshold!](https://www.youtube.com/watch?v=oLVAuoMJ_EI)**
 
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+Join this channel to get access to perks: https://www.youtube.com/channel/UCyqpZ8HY9FY5jH-RoVcwlnw/join **To become part ...
 
-📺 Future Core
+📺 Dr. Know-it-all Knows it all
 
-👁️ 185K • 👍 730 • 💬 43 • ⏱️ 9:07 • 5d ago
+👁️ 21K • 👍 503 • 💬 90 • ⏱️ 22:22 • 3d ago
 
 ---
 
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
 
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
 
-📺 Talent Replay
+📺 ejunky66
 
-👁️ 67K • 👍 257 • 💬 54 • ⏱️ 4:51 • 5d ago
+👁️ 574K • 👍 6K • 💬 764 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[PLEASE War Robots: WORST DECISION: Re-Consider LARAGHI!](https://www.youtube.com/watch?v=EbqWzQc9M1A)**
+
+War Robots Gameplay and Feedback Video about the big concern of the war robots community and myself about the upcoming ...
+
+📺 Manni-Gaming
+
+👁️ 9K • 👍 447 • 💬 197 • ⏱️ 20:08 • 5h ago
 
 ---
 
@@ -276,17 +288,7 @@ One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark human
 
 📺 UBTECH Robotics
 
-👁️ 126K • 👍 1K • 💬 384 • ⏱️ 1:04 • 6d ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 281K • 👍 9K • 💬 817 • ⏱️ 55:24 • 1d ago
+👁️ 128K • 👍 1K • 💬 386 • ⏱️ 1:04 • 6d ago
 
 ---
 
