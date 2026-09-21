@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-21T06:49:30.902764+00:00'
+updated: '2026-09-21T13:41:30.396803+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 21, 2026 at 06:49 UTC  
+**Last Updated:** September 21, 2026 at 13:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,79 +32,83 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I built a robot that can make daisy chains](https://www.reddit.com/r/robotics/comments/1wf9orx/i_built_a_robot_that_can_make_daisy_chains/)**
+**[Servo Motor finger mechanism](https://www.reddit.com/r/robotics/comments/1wlw0sr/servo_motor_finger_mechanism/)**
 
-This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable
+Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism
 
-7d ago
-
----
-
-**[Need help in Inverse Kinematics for my Quadraupod](https://www.reddit.com/r/robotics/comments/1wfzqcn/need_help_in_inverse_kinematics_for_my_quadraupod/)**
-
-I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks.
-
-6d ago
+14h ago
 
 ---
 
-**[Robotics community- we could really use your help](https://www.reddit.com/r/robotics/comments/1wfvvm5/robotics_community_we_could_really_use_your_help/)**
+**[[Showcase] The drone flies a 3D building complex with no map, no GNSS, no compass and no lidar: two cameras do both the seeing and the localizing (ROS 2, PX4, Gazebo, CUDA)](https://www.reddit.com/r/robotics/comments/1wlsrqn/showcase_the_drone_flies_a_3d_building_complex/)**
 
-Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
+(GIF: an industrial room 58 m short of the goal. Left is Gazebo, the drone among pipes and beams; right is RViz, where pink is the obstacle memory, the cyan fan is the current stereo depth return, orange is the committed route and the magenta sphere is the goal. In these nine seconds the speed law does its whole job: the drone crawls at 0.2 m/s where the pair resolves little, runs up to 2.5 m/s where it resolves far enough, and is back at 0.1 m/s before the next corner.) Flight video: https://www.youtube.com/watch?v=OUuAj2WNKzs Two weeks ago I posted the same location flown with a 3D lidar. The lidar is gone now, and so is GNSS and the magnetometer. The airframe carries a forward stereo pair (1280 x 960, 120 degrees, 0.20 m baseline, 7.5 Hz) and two 8 x 8 time-of-flight sensors looking up and down. That pair does both jobs: stereo depth becomes the obstacle memory the planner searches, and a stereo MSCKF on the same images is the position and heading PX4 flies on, in place of satellites and compass. So: a start, a goal, a multi-storey building with shafts and openings at different altitudes, and nothing but two cameras and an IMU. The location is the DARPA Subterranean Challenge "Urban Circuit Practice 01" world published by Open Robotics on Gazebo Fuel (CC BY 4.0). Numbers from the release, five consecutive flights on one commit with nothing changed between them: 410 to 629 m of path, 1.48 to 1.79 m/s mean speed with every hold and replan counted, no collisions. Five more on the same commit with the lidar instead, for comparison: 2.42 to 2.67 m/s. Cameras are slower because confident stereo depth reaches 6.4 m against the lidar's 35, and the drone only flies as fast as it can stop inside the range the sensor is guaranteed to have resolved. The check I am most pleased with is a new one. The mission monitor decides the drone arrived by asking the drone where it thinks it is, and an odometry drifts by metres, so it can arrive perfectly in its own coordinates while standing somewhere else. Every flight now fails unless the true position from the simulator is inside the 2.0 m capture radius at the moment the goal is acknowledged. Over the five camera flights the truth stood 0.47 to 1.42 m from the goal. What cost me the most flights was not the filter but the things around it: the autopilot resetting its clock synchronisation whenever the simulation ran below real time (about a second without navigation each time), the autopilot's gate on external odometry being tighter than the estimator's own corrections, and telling the filter the gyroscope was eighteen times noisier than it is, which let the noise of every visual update walk the one direction no camera can observe. Limitations, honestly: the drift has no bound (0.1 to 0.4 percent of the path), so a mission three times longer would miss the 2.0 m radius; it is one location and one start-goal pair; it is simulation only and not validated for a real aircraft; and the multi-vehicle missions have not been flown on cameras yet. MIT licensed. On a Linux host with Docker and an NVIDIA GPU, one script prepares a fresh clone (dev image, PX4 build, workspace, environment assets) and starts the flight: git clone https://github.com/formiat/px4-ros2-drone-nav.git cd px4-ros2-drone-nav ./scripts/bootstrap.sh https://github.com/formiat/px4-ros2-drone-nav Happy to answer anything, and I would like to hear from people who have flown a single camera pair as both the perception and the localization sensor: what broke first?
 
-7d ago
-
----
-
-**[Quadruped robot WIP](https://www.reddit.com/r/robotics/comments/1wf5a7w/quadruped_robot_wip/)**
-
-https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality.
-
-7d ago
+16h ago
 
 ---
 
-**[Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon](https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/)**
+**[Watti update: the first follower-created animations running on the physical robot](https://www.reddit.com/r/robotics/comments/1wlsaih/watti_update_the_first_followercreated_animations/)**
 
-🔗 [wsj.com](https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698) • 6d ago
+Another small Watti update. I ran a very early closed test of Watti Studio. A few followers created animations directly from their phones and computers, and I manually transferred them to the physical robot. This was only the first validation of the idea. For the next closed test, I plan to connect Watti Studio directly to Watti and automate the entire pipeline - animation submission, queueing, playback, recording, and video delivery. Which animation is your favorite? Would you be interested in joining the next closed test? If you’d like to learn more about Watti’s architecture and the hardware I’m using, the pre-release repository is available here: https://github.com/Nikolay-Tyulkin/Watti
 
----
-
-**[Demo of the AmazingHand (Open-Hardware 3D-Printed Robot Hand designed by...](https://www.reddit.com/r/robotics/comments/1wfi1jb/demo_of_the_amazinghand_openhardware_3dprinted/)**
-
-From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here’s a quick demo of the hand in action. 🤖🖐️ https://github.com/pollen-robotics/AmazingHand/
-
-🔗 [YouTube](https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY) • 7d ago
+17h ago
 
 ---
 
-**[The ARMOR Model Gallery: A Curated Set of Ready-to-Simulate URDF Models](https://www.reddit.com/r/robotics/comments/1wfzu50/the_armor_model_gallery_a_curated_set_of/)**
+**[Designing my own adaptive gripper for a robotic arm in Siemens NX, looking for advice and measurements](https://www.reddit.com/r/robotics/comments/1wmbbtn/designing_my_own_adaptive_gripper_for_a_robotic/)**
 
-I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I’ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you’ve got one, let me know and I would be glad to showcase it in the gallery!
+Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!
 
-🔗 [armor.dc-engineer.com](https://armor.dc-engineer.com/gallery/) • 6d ago
-
----
-
-**[Looking for ideas on Human-Robot Interaction in Social Navigation](https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/)**
-
-6d ago
+1h ago
 
 ---
 
-**[Open source acoustic drone detector I built over one month. 91mm, four MEMS mics on an ESP32-S3, nine units now in the field](https://www.reddit.com/r/robotics/comments/1weuokw/open_source_acoustic_drone_detector_i_built_over/)**
+**[My goalkeeper bot](https://www.reddit.com/r/robotics/comments/1wmbk4e/my_goalkeeper_bot/)**
 
-I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
+Before and after training
 
-8d ago
+1h ago
 
 ---
 
-**[Essentials in robotics co-working space???](https://www.reddit.com/r/robotics/comments/1wf8g3e/essentials_in_robotics_coworking_space/)**
+**[Helical gear question](https://www.reddit.com/r/robotics/comments/1wm8ri6/helical_gear_question/)**
 
-I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D
+How do I connect these Helical gears like this? It's being run by a RDS3115mg servo motor, and supposed to be a tilt up and down set up
 
-7d ago
+3h ago
+
+---
+
+**[Help with regards to Installing ROS + MuJoCo on my Mac](https://www.reddit.com/r/robotics/comments/1wm3o51/help_with_regards_to_installing_ros_mujoco_on_my/)**
+
+For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo runs natively on Mac with full graphics performance. The simulation quality was insane when I tried messing around with real world robots like Spot from Boston Dynamics. But for some projects I need ROS to work with and I tried with my Parallels VM and the performance in terms of graphics was not that great because it used the CPU for rendering. I tried using Robostack and the performance of basic ROS itself hit a lot of problems. Any workarounds or possible solutions? PS: I don’t want answers like get a PC or something because that ain’t really viable option for me
+
+8h ago
+
+---
+
+**[Same moving carriage for both Stepper motors](https://www.reddit.com/r/robotics/comments/1wm63tm/same_moving_carriage_for_both_stepper_motors/)**
+
+Rack-and-pinion for the Linear carriage. With another Stepper motor for Pan movement mounted on the same carriage. Let's test it.
+
+6h ago
+
+---
+
+**[My first-ever Fusion 360 project is a pan-tilt camera](https://www.reddit.com/r/robotics/comments/1wlddf9/my_firstever_fusion_360_project_is_a_pantilt/)**
+
+Hey everyone! ​I recently finished school for automation while working as a scaffolder, and I decided to dive headfirst into learning CAD. This auto-tracking pan-tilt camera assembly is my very first design in Fusion 360! ​It took 6 revisions to get here, but V1.6 printed out with an amazingly snug press-fit—everything fits together smoothly with zero mechanical slop. Current Hardware & Next Steps: Right now, it runs on an ESP32-S3 Sense board for initial testing, but the rear compartment is sized with extra volume so I can upgrade to a Raspberry Pi for real-time edge-AI / YOLO object tracking down the road. Would love to hear your thoughts, feedback, or suggestions for improving future revisions!
+
+1d ago
+
+---
+
+**[Building an optical sorter for potato harvest](https://www.reddit.com/r/robotics/comments/1wlgx3p/building_an_optical_sorter_for_potato_harvest/)**
+
+Hello all, I’m a farmer from the Netherlands and I am interested in robotics. I am starting to work on a project that I would like to get feedback on. During the potato harvest a lot of soil clods come in with the potatoes. At this moment, the only reliable way for me to remove them before the potatoes go into storage is with people standing alongside a conveyor belt picking them out. I would like to see if I can automate that process with a machine that I can build myself. Since tools like ChatGPT and Claude became available, I have developed a habit of thinking: “How hard can it be? I’ll just build it myself.”. This approach has the danger of discovering halfway through a project that there is an entire layer of complexity that I didn’t even know existed. So, before I start buying cameras, pneumatic components and machines, I would like a reality check from people who know more about robotics than I do. Current solutions There are commercial optical sorting machines that can already do what I need. For example: Flikweert Divider Select https://flikweertvision.com/nl/machines/divider-select/ Downs Cropvision https://www.downs-fr.com/produits/downs-cropvision/ For my operation these machines are currently too expensive to financially justify. And I also think I only need a fraction of what these machines can do. There is also a much simpler machine for separating clods from potatoes This type of machine uses a steel roller. Potatoes and clods rebound from the roller with different trajectories because of their different physical properties. An adjustable divider then separates the two streams. Traditional clod separator https://www.youtube.com/watch?v=d_j7X2TJx3M This sounds like the solution to my problem, but I want to remove the clods directly during harvest, before the potatoes go into storage. At that point our clay clods can still be wet and soft. They do not behave sufficiently differently from a potato when they hit the steel roller, so the mechanical separation becomes much less reliable. The project The practical target would be to process 20–30 tons/hour over a 1-meter-wide belt. Potatoes and clods are generally up to around 70 mm. The system does not need to be perfect. Missing some clods is acceptable, and occasionally rejecting a potato together with a clod is also acceptable. I have divided the project into 3 parts: Mechanical hardware, vision/ejector hardware and software. I’m most comfortable with the mechanical part of the project. The frame, conveyors, motors, mounting brackets, compressed air, etc., I can fabricate and modify this kind of equipment myself. Instead of building the whole mechanical machine from scratch, I’m considering buying one of those traditional clod separators and using it as the mechanical base (see picture 1 and 2). The machine that I would like to use as a basis has an input conveyor belt that is 1-meter-wide and already has the two discharge paths I need. https://preview.redd.it/arpbeh76doqh1.jpg?width=300&format=pjpg&auto=webp&s=ec5facf2e86f447b6d739ba14e991870e438fcda Picture 1: Traditional clod separator https://preview.redd.it/j8h5nj76doqh1.jpg?width=301&format=pjpg&auto=webp&s=cb1e522703c2308bb275ffd781d39036e62039be Picture 2: Traditional clod separator My idea would be to remove the steel roller and replace it with a row of individually controlled pneumatic ejector fingers (see picture 3). Above the 1-meter input conveyor would install a camera with controlled lighting (see picture 4). https://preview.redd.it/kcc84h76doqh1.jpg?width=410&format=pjpg&auto=webp&s=d35e1872bcdcaaff61362c6c979f3757d2607cbc Picture 3: Pneumatic fingers https://preview.redd.it/tesjzf76doqh1.png?width=372&format=png&auto=webp&s=70e37da4a2e0a2941fcd255a93713410d3fa70da Picture 4: Cameras and controlled lighting The vision system needs to distinguish between a potato and a clod, determine its position on the belt, and eventually trigger the correct pneumatic finger when the clod reaches the end of the conveyor. Picture 5 shows roughly the view a camera would have of the conveyor belt with potatoes and clods. https://preview.redd.it/ztlx5h76doqh1.png?width=605&format=png&auto=webp&s=f8bc97d1485c329b4df4bd5d029a1efe13d7caad Picture 5: Conveyor belt with potatoes and clods When it comes to vision and ejector hardware I am thinking of using 1 or 2 global-shutter cameras mounted on top of the 1-meter feed conveyor in an enclosed environment with LED lighting and 20 pneumatic ejector fingers across the width of the conveyor belt. My questions would be: Are 1 or 2 global-shutter cameras a realistic starting point for this kind of application? What kind of cameras would you suggest? Would you build this from standard pneumatic cylinders and valves, or are there existing modules/components that would make much more sense for my situation? When it comes to the software, I’m not a professional programmer so I would need to rely as much as possible on existing camera SDKs, vision frameworks and libraries rather than inventing everything from scratch. Conceptually I imagine the system as: Camera → detect potato/clod → determine position → track conveyor movement → select ejector finger(s) → fire at exactly the right moment. First a vision computer decides what needs to be rejected and where it is. Second, an encoder tracks how far the conveyor has moved. Lastly a PLC/Real-time controller handles the timing of the pneumatic valves. My questions would be: Is this realistically something I can build myself without professional programming experience, or am I underestimating how much expertise this requires? Does my concept make sense, or am I underestimating the integration and timing problem of the vision computer, encoder and PLC controller? How hard can this be? I understand very well that this is not a simple project and that is the reason why I’m posting here first. I would like to get your feedback and insights on my ideas and project. Thank you!
+
+1d ago
 
 ---
 
@@ -112,39 +116,65 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+**[Folkestone school's robotics team aims to inspire next generation](https://www.bbc.com/news/articles/cmwyz83xgn9jo)**
 
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
+The group from Folkestone is set to compete at the First Global Challenge in South Korea.
 
-BBC • 3d ago
+BBC • 8h ago
+
+---
+
+**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
+
+Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 1d ago
 
 ---
 
 **[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
 
-Reuters • 3h ago
+reuters.com • 8h ago
 
 ---
 
-**[Japan's first robot ambulance works the 9-1-1 lines for humanoids](https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/)**
+**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
 
-Before humanoid robots fully integrate into our societies and inhabit our homes, factory floors, and workspaces, a Japanese firm is thinking one step ahead. GMO has just unveiled a "Humanoid Ambulance" that it will roll out this month to handle maintenance tasks on-site.
-
-New Atlas • 22h ago
+reuters.com • 8h ago
 
 ---
 
-**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
+**[China's Unitree Robotics stock falls by half in month after listing](https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing)**
 
-Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
+As IPO frenzy settles down, investors assess future of humanoids
 
-Futurism • 15h ago
+Nikkei Asia • 16h ago
 
 ---
 
-**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
+**[Chicago's delivery robots face a make-or-break year](https://www.axios.com/local/chicago/2026/09/21/chicago-delivery-robots-coco-serve-robotics)**
 
-Tech Xplore • 2d ago
+Axios • 2h ago
+
+---
+
+**[China's new calling cards: AI, robots and new drugs](https://www.chinadaily.com.cn/a/202609/21/WS6ab09a1ee4b06d4aa055f36c.html)**
+
+China Daily • 10h ago
+
+---
+
+**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
+
+OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
+
+Business Insider • 3d ago
+
+---
+
+**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
+
+The BayNet • 1d ago
 
 ---
 
@@ -156,59 +186,17 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[How an AI Slowdown Could Spark a Robotics Boom](https://investorplace.com/smartmoney/2026/09/ai-slowdown-spark-robotics-boom/)**
-
-Luke Lango thinks the AI industry has an opportunity to make this boom more durable over the long run. And for investors, that could shift some of the biggest opportunities toward companies finding valuable new ways to put AI to work.
-
-InvestorPlace • 8h ago
-
----
-
-**[OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.](https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9)**
-
-OpenAI is offering robotics engineers up to $500,000 a year. Its job listings offer clues about the company's robot ambitions.
-
-Business Insider • 2d ago
-
----
-
-**[School robotics team aims to inspire next generation](https://www.yahoo.com/news/science/articles/school-robotics-team-aims-inspire-045514604.html)**
-
-The group from Folkestone is set to compete at the First Global Challenge in South Korea.
-
-Yahoo • 1h ago
-
----
-
-**[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
-
-SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
-
-The Robot Report • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid Robots Trade Blows at Shanghai&#39;s Premier URKL Clash](https://www.youtube.com/watch?v=veDOh14nFcE)**
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
 
-Shanghai hosted the historic first stop of the Ultimate Robot Knock-out Legend (URKL) national city tour, showcasing advanced ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
 
-📺 New York Post
+📺 South China Morning Post
 
-👁️ 17K • 👍 107 • 💬 75 • ⏱️ 1:22 • 10h ago
-
----
-
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
-
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
-
-📺 MindSeeded
-
-👁️ 796K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+👁️ 35K • 👍 561 • 💬 97 • ⏱️ 2:40 • 7h ago
 
 ---
 
@@ -218,27 +206,7 @@ Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation 
 
 📺 Reward AI
 
-👁️ 144K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
-
----
-
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=B0-v46oMCp4)**
-
-I got a little bit bored so we saw How To Destroy A Self-Aware Robot SUBSCRIBE TO GOAT @LIGHTSAREOFF New Merch ...
-
-📺 Socks Live 
-
-👁️ 133K • 👍 4K • 💬 492 • ⏱️ 36:24 • 13h ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 271K • 👍 9K • 💬 805 • ⏱️ 55:24 • 1d ago
+👁️ 147K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
 
 ---
 
@@ -248,37 +216,27 @@ The humanoid robot race sped up again this week, and you're about to see exactly
 
 📺 The AI Nexus
 
-👁️ 13K • 👍 248 • 💬 25 • ⏱️ 57:02 • 6d ago
+👁️ 13K • 👍 249 • 💬 25 • ⏱️ 57:02 • 6d ago
 
 ---
 
-**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
 
-The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
 
-📺 Frankie Lapenna
+📺 DPCcars
 
-👁️ 1.1M • 👍 54K • 💬 5K • ⏱️ 0:45 • 11h ago
-
----
-
-**[4K Djedi Robot Entered the Great Pyramid&#39;s Sealed Shaft - Revealing NEVER Before SEEN Footage](https://www.youtube.com/watch?v=pvANZ5xuBQU)**
-
-The Djedi robot explored a sealed shaft inside the Great Pyramid, capturing the first images of a mysterious second barrier.
-
-📺 IMPOSSIBLE ARCHIVES
-
-👁️ 554K • 👍 3K • 💬 214 • ⏱️ 11:34 • 1d ago
+👁️ 20K • 👍 138 • 💬 39 • ⏱️ 2:56 • 3d ago
 
 ---
 
-**[REBALANCE OF DOOM is coming [War Robots 12.4 Update News]](https://www.youtube.com/watch?v=HAxo5R64_-c)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-War Robots 12.4 Rebalance News Update & Vlog: Big Changes New NEKTON Robot Gameplay Video: ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-📺 Manni-Gaming
+📺 MindSeeded
 
-👁️ 15K • 👍 604 • 💬 172 • ⏱️ 45:03 • 22h ago
+👁️ 818K • 👍 13K • 💬 2K • ⏱️ 16:24 • 3d ago
 
 ---
 
@@ -288,7 +246,47 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 
 📺 Bloomberg Tech
 
-👁️ 73K • 👍 291 • 💬 51 • ⏱️ 9:44 • 5d ago
+👁️ 73K • 👍 293 • 💬 51 • ⏱️ 9:44 • 5d ago
+
+---
+
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 185K • 👍 730 • 💬 43 • ⏱️ 9:07 • 5d ago
+
+---
+
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+
+📺 Talent Replay
+
+👁️ 67K • 👍 257 • 💬 54 • ⏱️ 4:51 • 5d ago
+
+---
+
+**[Robots Building Robots: World&#39;s First 10,000-Scale Humanoid Robot Smart Factory Goes Mass Production](https://www.youtube.com/watch?v=hUlfQOrvPxA)**
+
+One humanoid robot rolls off the line every 10 minutes. UBTECH's benchmark humanoid robot smart factory just goes ...
+
+📺 UBTECH Robotics
+
+👁️ 126K • 👍 1K • 💬 384 • ⏱️ 1:04 • 6d ago
+
+---
+
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+
+📺 EmortalMarcus
+
+👁️ 281K • 👍 9K • 💬 817 • ⏱️ 55:24 • 1d ago
 
 ---
 
