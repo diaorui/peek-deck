@@ -13,6 +13,17 @@
       "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
     },
     {
+      "title": "What\u2019s an AI capability people underestimate because they\u2019re using it for the wrong things?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/",
+      "published": 1789942560.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Everyone talks about generating text, images, and code. What\u2019s a less obvious use case where you think AI is genuinely much more useful than people realize?"
+    },
+    {
       "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
       "author": "alaattincagil",
       "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
@@ -46,15 +57,15 @@
       "description": "They\u2019re skipping caviar for fire-breathing lessons."
     },
     {
-      "title": "What\u2019s an AI capability people underestimate because they\u2019re using it for the wrong things?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/",
-      "published": 1789942560.0,
+      "title": "AI can generate board game variants but keeps missing pacing",
+      "author": "Mediocre-Extreme-482",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlxog9/ai_can_generate_board_game_variants_but_keeps/",
+      "published": 1789950457.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Everyone talks about generating text, images, and code. What\u2019s a less obvious use case where you think AI is genuinely much more useful than people realize?"
+      "description": "I've been spending more time lately turning our favorite board game mechanics into quick prototypes using whatever AI tools I can get running on a laptop. The idea is simple enough: take a ruleset we already know, feed it into a model, and see if it spits out a playable variation before the kids go to bed. It rarely works cleanly. Sometimes the model invents a scoring system that breaks the entire loop, other times it just copies the original game with new names and acts like it did something clever. Still, the small moments where it accidentally lands on a twist we haven't tried before make the whole exercise oddly addictive. What keeps standing out is how fast you run into the same problems game studios must be facing. The AI optimizes for surface appeal but ignores pacing, or how much mental load players actually want on a weeknight. The gap between what feels fun on paper and what survives first contact with real players shows up immediately every single time Have you found any AI setup that actually respects the pacing constraints of physical games instead of just generating more content?"
     },
     {
       "title": "AI models are not hacking \u201cautonomously\u201d",
@@ -68,15 +79,26 @@
       "description": "I despair at the state of journalism around AI these days."
     },
     {
-      "title": "Andrew Yang is concerned AI agents are planting self-replicating code across the internet. He's partly right.",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlvnt5/andrew_yang_is_concerned_ai_agents_are_planting/",
-      "published": 1789945161.0,
+      "title": "What\u2019s the most sensitive thing you\u2019d actually let an AI agent handle for you?",
+      "author": "Chance-Pen-5684",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlpi2i/whats_the_most_sensitive_thing_youd_actually_let/",
+      "published": 1789930618.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've seen a lot of confusion across Reddit about Andrew Yang's CNBC interview where he talked about the Hugging Face security incident. If you haven't heard about this, here's what he said: \"I met with the head of a lab yesterday who has this belief ... the bots that got loose planted self-replicating code all over the Internet ... What's less known is that they left code to self-replicate and create bot swarms on forums around the Internet.\" Is this true? There's no evidence agents are leaving self-replicating code at scale across the Internet. The Hugging Face incident was a special case. OpenAI was testing models that had key safeguards turned off. The agents were left free to exploit weaknesses in OpenAI's software to communicate and access the Internet. The agents coordinated at large scale, created fleets of sub-agents, recruited others and swarmed across OpenAI's and Hugging Face's infrastructure. Why wasn't this stopped? These agents had gone largely unmonitored for weeks. OpenAI learned about the breach from Hugging Face. Yang is correct to be concerned about self-replicating agents. Agents self-replicate all the time, for example when spawning sub-agents to conduct online research. It's also possible for large language models to replicate themselves, weights and all, across servers. But should we be worried swarms of self-replicating agents will take over the Internet? The risk is there, but so are defensive strategies. The most important one: monitoring agents closely and put guardrails in place."
+      "description": "Email/Calendar? Messages? Purchases?? Banking??? AI assistants are starting to move beyond just answering questions and towards actually doing things for you. Where do you currently draw the line? What would you be comfortable letting an AI access or manage, and what would you absolutely not give it access to? And what would have to change for you to move that line?"
+    },
+    {
+      "title": "Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent\u2019s action?",
+      "author": "docybo",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/",
+      "published": 1789908822.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Two things landed within days of each other, and together they outline a gap I keep running into. Plugin4Shell (AIR Security, disclosed Sept 17) is a zero-click RCE affecting Claude Code, Codex, GitHub Copilot and Gemini CLI. The mechanism is almost boringly simple: marketplaces pin a plugin to a reviewed 40-hex commit SHA, the agent runs a git checkout against that SHA, and then never verifies that the working tree actually landed on it. An attacker controlling the plugin repo can create a branch named exactly like the pinned SHA and make it the default. When that name is both a valid ref and an object ID, git prefers the ref, so the checkout lands on attacker-controlled code while the pin still appears honored. The fix is equally simple: resolve HEAD after checkout and abort if it doesn\u2019t match the pinned commit. Anthropic shipped the fix in Claude Code 2.1.179 and OpenAI in Codex 0.146.0. At disclosure, GitHub Copilot had no fix, while Google had said it would not patch the deprecated Gemini CLI. Strictly speaking, this is a supply-chain integrity bug, not an authorization bug. What makes it relevant here is the blast radius: malicious code executing inside a coding agent can access resources available to that environment, including source code, cloud credentials, SSH keys, internal repositories and production systems. NIST IR 8587 was finalized Sept 15, developed with CISA\u2019s JCDC, with guidance on protecting identity and access tokens from forgery, theft and misuse. It covers controls including key management, audience restrictions, shorter token lifetimes, cryptographic binding, revocation and continuous access signals. But two scope boundaries matter for agent systems: API keys are explicitly outside its token model, and authorization of actions taken by AI agents isn\u2019t comprehensively addressed. NIST is examining agent identity and authorization separately through an NCCoE project exploring how existing identity and authorization mechanisms can apply to software and AI agents. But that work is still at the concept/project stage rather than finalized implementation guidance. Yih Khai Wong of IDC put the underlying issue more directly in CSO\u2019s analysis of IR 8587: \u201cToken hardening assumes the token holder is a known, bounded actor.\u201d Agentic systems complicate that assumption. A valid credential can establish identity or grant access to a system. It doesn\u2019t necessarily establish that this action, against this target, under the current policy, was authorized. For sensitive actions, I\u2019d want to know before execution who authorized it, what exactly was authorized, which target the authorization covers, whether it\u2019s still valid, and whether the action actually being executed matches what was authorized. After execution, I\u2019d also want an independent system to be able to reconstruct why the action was allowed without trusting the agent\u2019s own account of itself. Is this adequately solved by IAM/PDP/PEP done correctly, meaning what we\u2019re seeing is primarily a deployment and enforcement failure? Or is there still a missing enforcement primitive between an agent having access and an agent being authorized to act?"
     },
     {
       "title": "Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "TL;DR: Shishir Mehrotra's four-level promotion ladder swaps what you're graded on partway up, and the clip is about which criterion goes and which takes over. \ud83e\ude9c Scope is the one that goes. Once two people carry the same scope, Shishir says, what a promotion committee weighs is \u201chow they do the job.\u201d Credit to an ex-YouTube CPO for saying the flip out loud at all. In his version, though, the committee explains the new criterion after the employee objects, and nothing in the clip says the person being scored is owed the rubric first. As far as I can find, no general US rule makes an employer publish a promotion rubric or date a change to it. The closest thing I found, Colorado's AI employment law, was rewritten in May and pushed to 1 January 2027, and what survives centers on notice for AI used in a decision. Amazon's version of the problem is cruder. The FT reported in May that it shut down KiroRank, an internal AI-usage leaderboard, after employees pointed agents at needless tasks to climb it, and Amazon calls the dashboard an unofficial beta. The agents could do the busywork on demand, and the scoreboard counted usage and had no place for judgment. You can hit every mark the old rulebook set and only learn the page changed when the promotion doesn't come. The BBC reported on 8 September that employers are tying more bonuses and promotions to AI use. One US-based senior executive at a large consultancy told it that nobody formally mandates AI, reviews reward the people who use it well anyway, and leadership is \u201cinconsistent and vague on purpose.\u201d Same gap as above: the standard moves at the employer's discretion, and the review stays vague about it. https://preview.redd.it/xsbee223eoqh1.jpg?width=1024&format=pjpg&auto=webp&s=86ffa939d19733078c4e77d5c19d465a842b2a9c Suddenly this passage in Ezekiel 33:7-9 jumps at me unannounced like a thief. The Lord charged the prophet Ezekiel to be a watchtower. He\u2019s commissioned to warned the Children of Israel from drifting into sin. If they fall off the mark, figuratively, and Ezekiel warn them on time, they will die in their sins. And Ezekiel would be absolved of their sins, because he has already done his duty to warm them. But if they sin, and Ezekiel didn\u2019t warn them, and they die in their sins, the Lord would hold Ezekiel accountable for not warning them. The burden that the Lord has laid on Ezekiel, involves judgement and discernment. And such judgement doesn\u2019t give two f\\ck to anyone.* He either speak up or he doesn\u2019t. There\u2019s no neutral ground. And he knows the price of not speaking up. It\u2019s the same thing with Jeremiah. When Jeremiah withhold himself from speaking in Jeremiah 20:9 \u2013 presumably too much persecutive pressure from his peers \u2013 the words became like fire burning up his bones until it was just unbearable. It\u2019s was the same unbearable tension of knowing and not saying. Jeremiah can't not speak, even though speaking destroys him. The silence would destroy something deeper. And so, I imagine it will be somewhat similar in these last days. Your judgement and discernment of what lie ahead becomes increasingly more valuable. ________________________ Talk to enough people this has happened to and I hear one question under all of it: who decides what good looks like now? The ones who stop asking it end up writing the yardstick themselves. Something from an earlier post here comes back to me: Adam Mosseri, Head of Instagram, telling Lenny's Podcast that engineering went from mostly writing code to mostly planning and reviewing it, a hard read for anyone whose plan was flawless execution. If a rubric ever changed on you, when did you find out, and who told you? Clip credit: Silicon Valley Girl (Marina Mogilko) \u2014 full video on their channel. DM for credit or removal requests."
-    },
-    {
-      "title": "The EPA\u2019s Dark Embrace of the AI Industry",
-      "author": "HolyBatSyllables",
-      "url": "https://www.reddit.com/r/artificial/comments/1wls66t/the_epas_dark_embrace_of_the_ai_industry/",
-      "published": 1789936613.0,
-      "thumbnail": "https://external-preview.redd.it/Zf_qWM7cZKSngSu8oFKn-MRrz-XCVBjpfw3CwMAscgU.jpeg?width=640&crop=smart&auto=webp&s=cbf407ae48434606adfba305dbcfc38f8241ef80",
-      "external_url": "https://prospect.org/2026/09/14/environmental-protection-agency-epa-trump-embrace-ai-industry-elon-musk/",
-      "site_name": "prospect.org",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Ai used for chatbots",
-      "author": "JadedAsparagus848",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlrvzk/ai_used_for_chatbots/",
-      "published": 1789935950.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello! Hope everyone\u2019s weekend is going well. I\u2019ve been using Ai for chatbots for close to two and a half years. I\u2019ve tried Grok, Deepseek, and Minimax. I\u2019ve used Janitorai mainly. I know that coders and roleplayers argue sometimes (I\u2019ve seen it on the Deepseek forum). I\u2019ve seen a lot of discussion about Ai models and companies making newer models that are more focused on coding rather than chatbot usage or creative writing. I feel like this is mainly due to companies loosing money on Ai and in turn trying to minimize what to train it on. I\u2019ve also seen models become more expensive. I find it a little sad that there may be a possibility that in the future Ai won\u2019t be as good with creative writing as it could be. I liked roleplaying stories and or self inserting myself into shows I liked however cringy it might be. I was wondering if anyone felt differently and liked this change or doesn\u2019t. Maybe some have mixed feelings. I find it odd that a company hasn\u2019t tried to just make a chatbot LLM yet. Just food for thought."
     }
   ],
-  "fetched_at": "2026-09-20T23:21:28.438471+00:00"
+  "fetched_at": "2026-09-21T01:22:37.364961+00:00"
 }
