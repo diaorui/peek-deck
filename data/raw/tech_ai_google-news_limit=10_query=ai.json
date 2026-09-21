@@ -5,26 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZZVBhRWJnYzQta2xvSGFVcHo4T3ZvWmNIU3pmVERobmhfNFRrUkxBM1J4UnlLWW1faDhkTXhjelFFMHh5MGttaUN0YXF6MFlBanhwTEZMZ215eGM4bDRiZlY1RGRwcS1PMWJCUUd2ZkY2Q2M?oc=5",
-      "pub_date": 1789894900.0,
-      "article_url": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82MkZwQmxmdWNMZldrcmQycjJNb3MzemNLNEhOY01YSFdWV1VLOGtrTlh1UWc1RlZxQjV5Qk9yYjlmaUNEQTE3TS1PVFZjTnBzNVl4SWFFMzV0LVVlNlMzTDJaaFhXcUlOdHkxalVEaFE0VU1VMU1Veg?oc=5",
-      "pub_date": 1789866360.0,
-      "article_url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260920010139193.jpg?c=16x9&q=w_800,c_fill",
-      "description": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development."
-    },
-    {
       "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,76 +15,96 @@
       "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI."
     },
     {
-      "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
-      "pub_date": 1789911420.0,
-      "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
-      "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
-    },
-    {
       "headline": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5",
-      "pub_date": 1789950893.0,
+      "pub_date": 1789971943.0,
       "article_url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
       "description": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction."
     },
     {
-      "headline": "AI is making spear phishing scams more successful, BYU research finds",
-      "source": "ksl.com",
-      "source_url": "https://www.ksl.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa284QnBReHJXeF9SZlJIdW9MQmxvZ1lXa1FTOS03WlJhMVM1T2FFb3l5Z1ZHSkpKbzZrLVFqbXZlWk9COVJ5X2FrWlpybDh3Y09MUFVQbk9nbG9vTm45Nmc4SzJ6VDg5V0tBZ0JYNUFsNDA4WXpSdlJQWTM3amFxMTEtUEVOTlcxaTJydWNOQ3BGUVZPUU5icW93cEJKVjdqel9GWXVNdUw?oc=5",
-      "pub_date": 1789947260.0,
-      "article_url": "https://www.ksl.com/article/51624838/ai-is-making-spear-phishing-scams-more-successful-byu-research-finds",
-      "image": "https://img.ksl.com/slc/2909/290948/29094845.jpg?filter=kslv2/responsive_story_lg",
-      "description": "As artificial intelligence grows ever stronger, new research from BYU shows people are more likely to be duped by AI-generated scams compared to human-written ones."
+      "headline": "Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmFtMXd5OS1hVkVCd0RiRXhzbU1mZVhVTW44am5KYVJPdFY4WE42Q1kyTW9jdEFWRjRaTFlVNmVfQWF1QmRrUWdHalFpcVBTUUNGOW5pUGpwYzVNQmw4aC0wcjRId1U5M3ZtTmNwQk9WTTBHRks1b0htSjJzc19LQ3V2bFpVdjM0YWlrbEFLOUdYUEJmcnNxMWJzZU01Q0RNSnlRVGFzTWpmYTRIZnc?oc=5",
+      "pub_date": 1789931820.0,
+      "article_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+      "image": "https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&format=jpeg",
+      "description": "Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe \u2014 and profitable."
     },
     {
-      "headline": "Congress is moving in the \u2018right direction\u2019 on AI: Sen Mike Rounds",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40cmRtUmxqcjNYbTB3UkNibHJhdDhtZTA5RmRsdWtySnNqbTFvckRCVGFjX1I1eV80eHZHQW1ON0FIWEtOLTU0dDBuNThXdVEtX2gtaFZ3?oc=5",
-      "pub_date": 1789952551.0,
-      "article_url": "https://www.foxnews.com/video/6405344849112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c17303-8e38-42fb-824a-579415bf042c/cdd7ce40-2bf1-468f-9e2e-d8bb6b462eef/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Sen. Mike Rounds, R-S.D., discusses the debate over artificial intelligence regulation, the U.S.-China AI race and the influence of socialists on the Democratic Party on \u2018Life, Liberty & Levin.\u2019"
+      "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pejItd2Z0NU0zRC1NT2ZMa21lWkhaTDh5OXJiT0NPSkxzTjI0VXdHYU4yWTVFY3g2RUk4V3YyMnJjbjV2NWEtSUxnMEtZUmcwbVpDek1PT0tJdFE?oc=5",
+      "pub_date": 1789969856.0,
+      "article_url": "https://www.bbc.com/news/articles/c8vgyzn2d31yo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
+      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week."
     },
     {
-      "headline": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5",
-      "pub_date": 1789749408.0,
-      "article_url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "headline": "Tokenmaxxing: The Dangerous New AI Trend Businesses Need To Stop",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmI1QWhvSFJ0S0M0RkZjb1RCTm9yU1k2dGVNTTZyN0lSaWJCSDJWWEdQSUJKMFhTRlNBOHNOUWUwNlBHcjNFTnVELVZ3ZmlqaVJHRDFndm9vYlhEQ3dsY0JvcVc0eE4wUG9BemhDbi02M2JTM1gzSzZMQWswX2paaTY4WDl1aWlNeklSaUhjekVTTlNNYV9UcUFlVEJhSDFkNWVSM2JMRUV0T1dQdHZwcG1SbXVVeXc?oc=5",
+      "pub_date": 1789969997.0,
+      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/09/21/tokenmaxxing-the-dangerous-new-ai-trend-businesses-need-to-stop/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic billionaire cofounder who studied literature says non-STEM degrees will win in the AI age",
+      "headline": "Why Goldman Sachs Still Prefers AI Infrastructure to 5% Treasuries",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHRfMFJBcm1yRHRGVmI3cGR5ODVTVHRTd3c5Sm5hVUdOdHZteWRVUEk5VERpaVJneElWZ2RUbE1PNXp3dEtLTzM4czE3QUVXSEFlYjlfR2dSdm0xSE1zU2tQUlhxX2YxMDBweDc3Zjh6QjhZWFN0ZElLRHF4Mm42bFh4aFVPcWR2Z2x3c21WcDN1QkQ3Mm93ZjNpLVRrODdD?oc=5",
+      "pub_date": 1789968534.0,
+      "article_url": "https://www.businessinsider.com/bond-market-interest-rate-us-treasury-ai-trade-goldman-sachs-2026-9",
+      "image": "https://i.insider.com/6ab096ce4a3706ac06f85464?width=1200&format=jpeg",
+      "description": "Higher rates haven't necessarily undermined the AI boom"
+    },
+    {
+      "headline": "Fidelity\u2019s Durance Is Shunning Tech Bonds Feeding the AI Boom",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlF5T3dzc1JDNkltRDRqZzNkRWs0eFAxclFsWkVFTmJsU3JZTHY2VlR1X3dnRGNtY3FJbEFPTDIxemFOeHduNUxnajROLWtkM2ltMTVENFRYbDdGdXVNM1h0ejhaTV9ZR0lSdmY4Z0E2MURWcEUxRk1QaTdFZTZDbHRTZV8ySjY4dGwwWWVLRDFpbG9IT1h1SGVERlhqMkhwWWRQZmgwVXB3WGthemJabVN3?oc=5",
+      "pub_date": 1789969500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/fidelity-s-durance-is-shunning-tech-bonds-feeding-the-ai-boom",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hilton received 12,000 applications from Gen Zers for just 72 internship spots",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMTdMQ3p5TWFvTUFlbUR3SGRNdENCY2Y4UkdBbmY1QURLVWxrTkxzbmtCRzF4bXRmRWc5cUtkVDJwMHYzb2FaSmZIZUszZU1nZ2dFVkZDU1FQOFBHdjlmbEhRb0NCY3V4a2FpcDgyWDhGWS1LUnBHeTZTLXU2SWZBNXlFXzduTjJvajVqNE8tRndIcnU1NklRYmZ1ZVVpdTVIZjVjU3F2WFppRnFmNU5VaG0xaFBKaEJBSjgxVlhkYjF0bmhEVkxHQTBBVUxZX20zV0NhYkJVS2NuWVk?oc=5",
-      "pub_date": 1789823100.0,
-      "article_url": "https://fortune.com/article/anthropic-jack-clark-liberal-arts-degree-ai-jobs-stem-computer-science-philosophy-critical-thinking-future-of-work/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2271201349.jpg?resize=1200,600",
-      "description": "Anthropic\u2019s liberal-arts-educated cofounder says \u201crote programming\u201d is best avoided."
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmVTbmYteXpESUN6UjJmNkFzRjNCdllWdGtCZ0xCRWxEYmxERk5EcWc2OWpVOHh5WG1ZeXlZVEZUZ2JIS0hiRmxUNzBMNHpkaWZ2dFVHZTdDakliUl9OUG9jcDQxaWVzS3VEWGMxb0l6STM1S0d6YzJ1MnBRMU1vT0xsYWNHQ1JSS3F5MVR0RjJUUkdENGlId25aVnlnN0ZTN0VDc002dHFfdXV4Q0dtYUZEVk9SbUlNZmc?oc=5",
+      "pub_date": 1789902000.0,
+      "article_url": "https://fortune.com/2026/09/20/hilton-applications-gen-zers-internships-early-career-program-chro-ai-hospitality-jobs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2159442797-e1789764087122.jpg?resize=1200,600",
+      "description": "Only 0.4% of young applicants make it into Hilton\u2019s early-career program\u2014even more selective than Ivy League colleges."
     },
     {
-      "headline": "Burned Out and Unemployed, Young People in China Are Launching AI Startups",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
-      "pub_date": 1789939419.0,
-      "article_url": "https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3",
-      "image": null,
-      "description": null
+      "headline": "Trump and sons invest heavily in AI economy as he resists calls for slowdown",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
+      "pub_date": 1789920000.0,
+      "article_url": "https://www.washingtonpost.com/politics/2026/09/20/trump-family-large-ai-related-investments-create-possible-conflicts/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E3Y4PHLGMZM3IS4YTORCT5RY3A.jpg&w=1440",
+      "description": "Trump\u2019s decisions as president on one of the most consequential policy debates of his administration could affect the value of his personal investments."
+    },
+    {
+      "headline": "WATCH: Exclusive look at blue-collar workforce fueling America\u2019s AI boom",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNME1FYWZ2a1lpRkpTdXdDZUJDcGF0d3drdUZLUGhrSVZhWTl5ekxJT3BGT1ZpaFFqV3RUb3RoQ1pNOWMwYkF2eDYtWHRpWHY2TzZuWkJ2X3d3V1IxOEhBVHRkYmZ5QnBfVDVEOGtVMG1HZERsZFZkcFEybDA2ZUc5MWtuVXA4OHFQQ0d1ZW9oZ3VwLTJ0bEpwRnVUelpnbTNMZmfSAacBQVVfeXFMUEVZZFNDYkdaaVRpNnVSRHhncmJxcXdjNm5QVmdwV2E0SnZBSGlyeUxUbzVsRl80OVlHODRiRFBhRm5aOXpVdmN1MGhvOC1xREtNMlZqVVJhZnVwYjA5TkJCajd2RDRFbTB6U3E2d0lRekxvM2tDei1IR2ljemtnWDNuMXpKUVdkZzdiSWwwUmF3ZGhqbW9Qa3gxb01MRHdaZ0ZtVTZqUlU?oc=5",
+      "pub_date": 1789902235.0,
+      "article_url": "https://www.foxnews.com/politics/watch-exclusive-look-blue-collar-workforce-fueling-americas-ai-boom",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/american-flag-construction-worker.png",
+      "description": "The American Workforce Academy represents a $115 million workforce development investment training skilled trades workers to build AI data centers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T01:22:53.934467+00:00"
+  "fetched_at": "2026-09-21T06:49:27.786611+00:00"
 }

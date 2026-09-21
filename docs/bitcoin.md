@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-21T01:23:05.219255+00:00'
+updated: '2026-09-21T06:49:30.894688+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 21, 2026 at 01:23 UTC  
+**Last Updated:** September 21, 2026 at 06:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,503.51
+### $81,312.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +8.3%  
-**30d:** +5.4%  
-**90d:** +34.2%  
-**1y:** -27.4%  
+**24h:** +1.8%  
+**7d:** +8.0%  
+**30d:** +5.1%  
+**90d:** +33.8%  
+**1y:** -27.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1641.99B
+**Market Cap:** $1638.67B
 Rank #1
 
-**Circulating Supply:** 20,087,178 BTC
+**Circulating Supply:** 20,087,278 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.1%
+-35.3%
 
 **All-Time Low:** $67.81
-+120492.8%
++120287.8%
 
 ---
 
@@ -77,69 +77,71 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin since July:](https://www.reddit.com/r/Bitcoin/comments/1wkppdv/bitcoin_since_july/)**
+**[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
 
-1d ago
-
----
-
-**[81K](https://www.reddit.com/r/Bitcoin/comments/1wkor71/81k/)**
-
-1d ago
+2h ago
 
 ---
 
-**[Going short on Bitcoin be like](https://www.reddit.com/r/Bitcoin/comments/1wkjn8a/going_short_on_bitcoin_be_like/)**
+**[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
 
-1d ago
-
----
-
-**[Bears in absolute shambles right now](https://www.reddit.com/r/Bitcoin/comments/1wkj749/bears_in_absolute_shambles_right_now/)**
-
-1d ago
+11h ago
 
 ---
 
-**[How I've felt the last several months](https://www.reddit.com/r/Bitcoin/comments/1wkvayu/how_ive_felt_the_last_several_months/)**
+**[$82430](https://www.reddit.com/r/Bitcoin/comments/1wlxk76/82430/)**
 
-1d ago
+Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
 
----
-
-**[Benji seems to be coping](https://www.reddit.com/r/Bitcoin/comments/1wkoc1b/benji_seems_to_be_coping/)**
-
-Ill admit I bought into the likely theory we would have a bottom in October, but it's looking like chances are slim
-
-1d ago
+6h ago
 
 ---
 
-**[Halloween](https://www.reddit.com/r/Bitcoin/comments/1wkysoc/halloween/)**
+**[Oh boy](https://www.reddit.com/r/Bitcoin/comments/1wlvydf/oh_boy/)**
 
-Looking forward to the conversations this sparks up on Halloween!
-
-1d ago
+7h ago
 
 ---
 
-**[Investors trying to predict the market, the market:](https://www.reddit.com/r/Bitcoin/comments/1wl0diz/investors_trying_to_predict_the_market_the_market/)**
+**[Start the run](https://www.reddit.com/r/Bitcoin/comments/1wlyyk7/start_the_run/)**
 
-1d ago
+Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
----
-
-**[Sold my car to buy btc](https://www.reddit.com/r/Bitcoin/comments/1wki1q0/sold_my_car_to_buy_btc/)**
-
-Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advice ? Is this full bull now ? Should I FOMO in ? Any thoughts appreciated cheers..
-
-1d ago
+5h ago
 
 ---
 
-**[Actually November, wait, ngl December fr fr](https://www.reddit.com/r/Bitcoin/comments/1wk5jpl/actually_november_wait_ngl_december_fr_fr/)**
+**[Bitcoin, Lowering Retirement since 2009](https://www.reddit.com/r/Bitcoin/comments/1wlucex/bitcoin_lowering_retirement_since_2009/)**
 
-2d ago
+8h ago
+
+---
+
+**[Built this shadow box ticker 8 years ago. You slide a Bitcoin across the glass to unlock its hidden mode](https://www.reddit.com/r/Bitcoin/comments/1wlsfqc/built_this_shadow_box_ticker_8_years_ago_you/)**
+
+Before vibecoding dashboards was a thing, I built this physical ticker that hangs on the wall. I was tired of pulling up apps or doing mental math to convert my stack into dollars, but I also had a dilemma: I didn't want my actual holdings permanently blasted on my wall for every visitor to see. My solution was to build a hidden "stealth mode" directly into the frame. By default, it functions as a standard BTC/USD price ticker. But when you slide a novelty Bitcoin across the front glass, a magnetic switch behind the faceplate trips, instantly calculating and displaying the stack's total USD value. It’s been running reliably for 8 years now. (And for obvious OpSec reasons, the stack size shown in these photos is hardcoded to a dummy 0.5 BTC). I wish I still had 0.5 btc. I was pretty optimistic when I designed it, there are 8 total digits available in the LED fields. Once Bitcoin hits $99 million, I'll have to rebuild it. Under the hood, it’s powered by a generic ESP8266 and a pair of Adafruit 7-segment LEDs in each field. It connects to my home Wi-Fi and simply polls a price API every minute.
+
+10h ago
+
+---
+
+**[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 1h ago
+
+---
+
+**[Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept — FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'](https://www.reddit.com/r/Bitcoin/comments/1wlh66a/googles_simulated_fruit_fly_brain_mines_bitcoin/)**
+
+Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
+
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 17h ago
+
+---
+
+**[Everyone in Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1wl633z/everyone_in_bitcoin_right_now/)**
+
+1d ago
 
 ---
 
@@ -147,19 +149,25 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 ## Google News: "bitcoin"
 
-**[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
-
-The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
-
-Slate Magazine • 15h ago
-
----
-
 **[Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.](https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans)**
 
 Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
 
-coindesk.com • 2d ago
+CoinDesk • 2d ago
+
+---
+
+**[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
+
+The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
+
+Slate Magazine • 21h ago
+
+---
+
+**[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -171,17 +179,25 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Billionaire Tim Draper Predicts Bitcoin Will Hit $250,000 Within 2 Years. Here's What Needs to Happen.](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-predicts-bitcoin-062000744.html)**
+
+Could Bitcoin really triple in value within just 24 months?
+
+Yahoo Finance • 29m ago
+
+---
+
 **[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
 
 Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
 **[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
 
-Forbes • 11h ago
+Forbes • 17h ago
 
 ---
 
@@ -193,33 +209,19 @@ VanEck • 2d ago
 
 ---
 
-**[BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'](https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/)**
+**[Seminole County gas station stops Bitcoin ATM scams](https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678)**
 
-Wall Street may have changed who owns Bitcoin, but it hasn’t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou…
+A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims.
 
-TradingView • 10h ago
-
----
-
-**[Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.](https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/)**
-
-If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach.
-
-The Motley Fool • 1d ago
+wesh.com • 2d ago
 
 ---
 
-**[Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141)**
+**[Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years](https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet)**
 
-Investing.com • 8h ago
+Over two years, Bitcoin gained 28% while the median mid-cap altcoin lost 74% and Ethereum landed roughly sideways.
 
----
-
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-CNBC • 2d ago
+Decrypt • 16h ago
 
 ---
 
@@ -229,7 +231,7 @@ CNBC • 2d ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 313 • 💬 270 • 3d ago
+⬆️ 314 • 💬 270 • 3d ago
 
 ---
 
@@ -245,7 +247,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 12h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 17h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -253,7 +255,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 Ḽava AI : Proof of Content
 
-⬆️ 3 • 💬 0 • 3d ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
+⬆️ 3 • 💬 0 • 4d ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
 
 ---
 
@@ -291,7 +293,7 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
 
-⬆️ 8 • 💬 2 • 2h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+⬆️ 13 • 💬 3 • 7h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
 
 ---
 
@@ -299,23 +301,33 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
-**[BULLISH: LAST TIME BITCOIN DID THIS 👀 WAS IN 2012!!!!!!!!!!!!!!!!!!!!!!!!!!! [breakout]](https://www.youtube.com/watch?v=loeA7nYUXcA)**
+**[They Called Bitcoin Dead… But Another 21x Rally Could Be Next!](https://www.youtube.com/watch?v=D8cdlJjuOeM)**
 
-Bitcoin just flashed multiple signals that have historically appeared around major cycle bottoms… but there's something even ...
+Bitcoin is back above $80000 while a Fidelity cycle indicator is flashing a signal that historically aligned with major Bitcoin bottoms ...
 
-📺 Crypto Love
+📺 Simply Bitcoin
 
-👁️ 6K • 👍 286 • 💬 44 • ⏱️ 7:50 • 8h ago
+👁️ 26K • 👍 1K • 💬 61 • ⏱️ 14:41 • 8h ago
 
 ---
 
-**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
+**[Get Ready for a Bitcoin Breakout Week](https://www.youtube.com/watch?v=VTaGTEXZ8ps)**
 
-Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 69K • 👍 1K • 💬 57 • ⏱️ 1:27 • 1d ago
+👁️ 15K • 👍 689 • 💬 107 • ⏱️ 12:12 • 5h ago
+
+---
+
+**[Bitcoin Is About To Send Altcoins CRAZY! (Crypto Holders Don&#39;t Make This Mistake)](https://www.youtube.com/watch?v=pet4ny_X8WI)**
+
+Bitcoin just closed above the 50-week moving average on the weekly chart, a signal that has come before every one of Bitcoin's ...
+
+📺 Crypto Capital Venture
+
+👁️ 11K • 👍 620 • 💬 185 • ⏱️ 19:04 • 4h ago
 
 ---
 
@@ -325,47 +337,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 150K • 👍 3K • 💬 190 • ⏱️ 1:07:54 • 1d ago
+👁️ 156K • 👍 4K • 💬 190 • ⏱️ 1:07:54 • 1d ago
 
 ---
 
-**[How To Get Bitcoin Replay Protection (BTC, XBT)](https://www.youtube.com/watch?v=j9XzaJhytco)**
+**[$1 Million Bitcoin DEADLINE - A Bitcoin Legend Says Before 2028](https://www.youtube.com/watch?v=Bug_F8iLhrI)**
 
-Get The Paid Live Class Here: https://www.bitcoinuniversity.com/join https://www.bitcoinuniversity.com/courses/93850-live-classes ...
+Bitcoin's biggest buyers are positioning while Adam Back maintains his bet that BTC reaches $1 MILLION before the 2028 halving ...
 
-📺 Bitcoin University
+📺 Bitcoin News Alerts
 
-👁️ 504 • 👍 107 • 💬 44 • ⏱️ 15:05 • 1h ago
-
----
-
-**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
-
-Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
-
-📺 Altcoin Daily
-
-👁️ 110K • 👍 3K • 💬 194 • ⏱️ 13:18 • 2d ago
+👁️ 5K • 👍 220 • 💬 95 • ⏱️ 15:32 • 8h ago
 
 ---
 
-**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+**[BITCOIN HOLDERS: WATCH THIS RIGHT NOW!!!](https://www.youtube.com/watch?v=cWdu06dcPBo)**
 
-Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+Coinbase https://ckenny.com/Coinbase Coinbase Perpetuals https://ckenny.com/CBP Conor's Foundation Portfolio ...
 
-📺 Gareth Soloway
+📺 Conor Kenny
 
-👁️ 129K • 👍 4K • 💬 180 • ⏱️ 11:24 • 2d ago
-
----
-
-**[Bitcoin Absorbed Clarity Act Setback &amp; Fed Rate Hike — Here’s What Happens Next (Bull Run Starting!)](https://www.youtube.com/watch?v=9Rd3fE-aklE)**
-
-Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week as the Senate failed to advance the CLARITY ...
-
-📺 Crypto Casey
-
-👁️ 36K • 👍 835 • 💬 67 • ⏱️ 6:21 • 1d ago
+👁️ 8K • 👍 428 • 💬 118 • ⏱️ 16:52 • 5h ago
 
 ---
 
@@ -375,27 +367,37 @@ WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrT
 
 📺 Crypto Rover
 
-👁️ 24K • 👍 835 • 💬 48 • ⏱️ 8:36 • 13h ago
+👁️ 27K • 👍 864 • 💬 38 • ⏱️ 8:36 • 18h ago
 
 ---
 
-**[Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!!](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
+**[XRP &amp; Bitcoin RALLY as SEC Unleashes New Crypto Rules! Martyn Lucas Investor](https://www.youtube.com/watch?v=yK_EOqLU7_8)**
 
-Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
+XRP & Bitcoin RALLY as SEC Unleashes New Crypto Rules! Martyn Lucas Investor XRP, Bitcoin and the wider crypto market are ...
 
-📺 Altcoin Daily
+📺 Martyn Lucas INVESTOR
 
-👁️ 81K • 👍 2K • 💬 173 • ⏱️ 10:49 • 1d ago
+👁️ 6K • 👍 219 • ⏱️ 44:06 • 8h ago
 
 ---
 
-**[How Trump JUST Bailed out All Stocks &amp; Crypto. Again.](https://www.youtube.com/watch?v=FVM4MN7raH0)**
+**[This Needs to Happen for Bitcoin to Reach New All-Time Highs](https://www.youtube.com/watch?v=1fGTRiSypi4)**
 
-Use Coupon Warsh's Balls at https://meetreinvest.com   ****EXPIRES FRIDAY AT 11:59PM**** Trump's SEC Just Bailed Out ...
+Bitcoin Elliott Wave analysis for 19 September 2026 focusing on the $120000 target as a potential result of a five-wave move up.
 
-📺 Meet Kevin
+📺 More Crypto Online
 
-👁️ 164K • 👍 2K • 💬 280 • ⏱️ 27:19 • 2d ago
+👁️ 22K • 👍 679 • 💬 34 • ⏱️ 17:18 • 1d ago
+
+---
+
+**[Bitcoin Weekly Close! Live TA &amp; Trading](https://www.youtube.com/watch?v=QoHqePt5Kv0)**
+
+Zen Master JP leads the Congregation to the Promised Land - Doing TA & Trading of BTC, XAU, XAG, QQQ, OIL & More! Get 30% ...
+
+📺 Sin City Crypto
+
+👁️ 10K • 👍 231 • 💬 19 • ⏱️ 4:00:15 • 2h ago
 
 ---
 
