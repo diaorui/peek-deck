@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
-      "source": "futurism.com",
+      "source": "Futurism",
       "source_url": "https://futurism.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
       "pub_date": 1789916460.0,
@@ -25,14 +25,14 @@
       "description": "Humanoid Robots Break Records In Beijing has 16 comments."
     },
     {
-      "headline": "Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2VvQkxZdnVxa3JCbi1LaG05T3ZmdXJPQ2wzc1NzWFl1cEM1Mm1yU2ZnZnJGT0NEdWFDN3F3Wk1rbEQ5RktIMV9YajYtd2p6TVVNM1hvb3N5MXViQXpYSUNmeWhJbmIyZENFemZkcFVaU3ptY05hdTF0NXBGOEgwZHBpNTk1VzdtUlItZTNkakRPR0lSQUVmR3U5NWptNi1zYmJ2R1ZLMldRMWRiVFY4bVdR?oc=5",
-      "pub_date": 1789722230.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report",
-      "image": null,
-      "description": null
+      "headline": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "source": "CnEVPost",
+      "source_url": "https://cnevpost.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
+      "pub_date": 1789893750.0,
+      "article_url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
+      "image": "https://cnevpost.com/wp-content/uploads/2026/09/2026092008401026.jpg",
+      "description": "Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year."
     },
     {
       "headline": "OpenAI is offering robotics engineers up to $500,000. Here's what its new job listings reveal.",
@@ -55,6 +55,16 @@
       "description": null
     },
     {
+      "headline": "China's Unitree Robotics stock falls by half in month after listing",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTR1Ymp2bFowLXcxRE4xM19La0JCOG5aT1lZb3BRRVBOR1hVdlV3V2NIUC1YSGtKZmRtYzB0QlFJS2tndHNsZE55c1dSdUk3SHA1cG9zcDZDMzJDU2FNUGJ4MzRNM0pIbUt5ZXFCRXNpSlU3VVZsakNXZG8tZTB0YlktM2hVMWh2TXhha3ZyTThZaDNRZVAxSUg0bk5MT3Z1ZTJmMkR6d0h4OHJDcml3WnlVbzJPS0p4?oc=5",
+      "pub_date": 1789939260.0,
+      "article_url": "https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F6%2F6%2F5%2F13135664-1-eng-GB%2F11ba4bf78b06-20260920N-Unitree-robot.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "As IPO frenzy settles down, investors assess future of humanoids"
+    },
+    {
       "headline": "SoftBank agrees to acquire Robotics and AI Institute",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -63,26 +73,6 @@
       "article_url": "https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-4.19.45-PM-scaled-1.png",
       "description": "SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources."
-    },
-    {
-      "headline": "Robotics: Firms race to improve robot training systems",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
-      "pub_date": 1789686047.0,
-      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
-    },
-    {
-      "headline": "Delivery robots swarm Chicago sidewalk in viral video",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMTg1d3A2WjBmZ0FMZzU5MHAwTTcxcnpNdE9LNzBrS3lXRG5wV1pjb3VEMHViVDFhY0VDV2s1cV9MeUxDalRDc043YVdsWl9iMFVRSTN1ZEhuYnlnMDkzQnVKNXdXc2RjS3FQeDYxR1ZaYmZFYktma2Q4ZXY4VTRiaThqcURzd9IBiwFBVV95cUxPdS1rOVd3T19reS16U216NkRBVmIxdXlBSm13WFZfeFRGVlVxY0dwMGF5VkxRR2o2UjVkVlNubHAyRWNJTEdzcEhUMThnVmV5WC1ManZJMExGbE01aUM0dEdvSTJJTGRleVU2ZnROejhkdEZRdV9fM1JKbURwS3BwRmpKRmdwWk9lSnJN?oc=5",
-      "pub_date": 1789814910.0,
-      "article_url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Coco-Delivery-Photo-3.jpg",
-      "description": "A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns."
     },
     {
       "headline": "Meet the gig workers helping train robots to do our dishes",
@@ -95,16 +85,26 @@
       "description": "Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores."
     },
     {
-      "headline": "St. Mary\u2019s County Combat Robotics Team Shines In Manhattan",
-      "source": "The BayNet",
-      "source_url": "https://thebaynet.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS3QtZFRZbEhpRXpRZl9MTE1ORGNXR3E1THJqeTZMMlI2Nkx3T3RxRW1QeU9xVGlrb1lhUkZCdlNUTlYyaEJET29aN0ZVWndKWnZyRU4wbDFYTkhncERBNFVZRllQZmJLeFpBQW5feEgyYkMtY2Ixd1lOM0NlazRJalNuc29FWk1RU0p0elFsVVhzdDloSXdwVA?oc=5",
-      "pub_date": 1789898580.0,
-      "article_url": "https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/",
+      "headline": "Robotics: Firms race to improve robot training systems",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KdGpMQ0xhTHFVTFFFUUdONi1iazFacWtSaW1ScFAzRTNEZlZoTkVMSmw2ZmFRaG1xcWdRdmIwSloyQnh6RnE4UV9RMWNxSUw1WXJSNVRSaGlRUQ?oc=5",
+      "pub_date": 1789686047.0,
+      "article_url": "https://www.bbc.com/news/articles/c79g0j3d4q9o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "description": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
+    },
+    {
+      "headline": "Chinese AI chipmaker Hygon plots expansion to robotics market",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2NyN2VHNkRrck14YTZfdGJHYVdmbFhpYUd3cEVEVzhlR1VTTTlyMXdTSnd4dmhVakd5UWE2amlTeVJ4OEM1d0twd2JGSzF6TWxCck9uallwQ1pEV2FEZFRGa19rc3lmd3ZKS3hPUXpxRE9UQkVHLWVyRDVxUHppSzg5S2hYUFlxelRFdWpLQmhYREtiQk9NVko1Q2I1WkpWSVF4bHVlZXpma09FYXpFVkZzMGVtbjZqUnfSAboBQVVfeXFMTWFibk5BM2gyR1pDdUpuMk1tMVNFbk1VOFNpZXMwOWFZTzhUR3kwcVUybjFRQTZXNGdqWk9JanJwdFliczJtaXE2NlMzbDg3N1IwTnY0VFBVdEVMZ1R0TnpGVUlhUUx0bFdDenFpa0hUNldOMThzX2owNTlWRkRuOEhNeHRMQ2pXZzRYbmZ2LV9fSlk3TzdPTWhjTnVrcWlYMUR3X0FNOU5uaDhkQzNpWnBycnhic0F1WXlR?oc=5",
+      "pub_date": 1789950610.0,
+      "article_url": "https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-20T23:21:46.180809+00:00"
+  "fetched_at": "2026-09-21T01:23:03.745431+00:00"
 }

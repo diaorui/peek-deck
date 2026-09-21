@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-20T23:21:56.584673+00:00'
+updated: '2026-09-21T01:23:05.219255+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 23:21 UTC  
+**Last Updated:** September 21, 2026 at 01:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,146.90
+### $81,503.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.9%  
+**24h:** +2.0%  
+**7d:** +8.3%  
 **30d:** +5.4%  
-**90d:** +29.5%  
-**1y:** -29.6%  
+**90d:** +34.2%  
+**1y:** -27.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1623.83B
+**Market Cap:** $1641.99B
 Rank #1
 
-**Circulating Supply:** 20,087,128 BTC
+**Circulating Supply:** 20,087,178 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.9%
+-35.1%
 
 **All-Time Low:** $67.81
-+119114.0%
++120492.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 71
+### 70
 **GREED**
 
 ---
@@ -151,7 +151,7 @@ Yep oh well, sold my car to buy btc, and look at it now up at 81k, FML, any advi
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-Slate Magazine • 13h ago
+Slate Magazine • 15h ago
 
 ---
 
@@ -171,39 +171,17 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin, Strategy Stock, Coinbase Surge. Why Cryptos Are Rallying Against All Odds.](https://www.barrons.com/articles/bitcoin-price-strategy-stock-cryptos-92194df2)**
+**[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
 
-Barron's • 2d ago
+Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
 
----
-
-**[Live updates: Bitcoin climbs over $80,000 as crypto shakes off Clarity failure and higher interest rates](https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000)**
-
-Another central bank hiked rates overnight, this time the Bank of Japan. The move failed to halt the slide in the yen.
-
-coindesk.com • 2d ago
+Bitcoin Magazine • 11h ago
 
 ---
 
 **[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
 
-Forbes • 9h ago
-
----
-
-**[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
-
-Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
-
-Bitcoin Magazine • 9h ago
-
----
-
-**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
-
-Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
-
-CNBC • 2d ago
+Forbes • 11h ago
 
 ---
 
@@ -215,11 +193,33 @@ VanEck • 2d ago
 
 ---
 
-**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
+**[BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'](https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/)**
 
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+Wall Street may have changed who owns Bitcoin, but it hasn’t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou…
 
-Fortune • 2d ago
+TradingView • 10h ago
+
+---
+
+**[Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.](https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/)**
+
+If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141)**
+
+Investing.com • 8h ago
+
+---
+
+**[Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck](https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html)**
+
+Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin.
+
+CNBC • 2d ago
 
 ---
 
@@ -245,7 +245,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 10h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 12h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -291,7 +291,7 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
 
-⬆️ 3 • 💬 0 • 7m ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+⬆️ 8 • 💬 2 • 2h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
 
 ---
 
@@ -305,27 +305,7 @@ Bitcoin just flashed multiple signals that have historically appeared around maj
 
 📺 Crypto Love
 
-👁️ 2K • 👍 210 • 💬 36 • ⏱️ 7:50 • 6h ago
-
----
-
-**[Bitcoin Is About To Go PARABOLIC Because Of AI Agents](https://www.youtube.com/watch?v=0Xz5_SQTkcU)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 144K • 👍 3K • 💬 171 • ⏱️ 1:07:54 • 1d ago
-
----
-
-**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 20K • 👍 784 • 💬 35 • ⏱️ 8:36 • 11h ago
+👁️ 6K • 👍 286 • 💬 44 • ⏱️ 7:50 • 8h ago
 
 ---
 
@@ -335,17 +315,37 @@ Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ..
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 1K • 💬 57 • ⏱️ 1:27 • 1d ago
+👁️ 69K • 👍 1K • 💬 57 • ⏱️ 1:27 • 1d ago
 
 ---
 
-**[Crypto Is About To Get CRAZY… You’ve Been Warned](https://www.youtube.com/watch?v=tqW1GIOAfSQ)**
+**[Bitcoin Is About To Go PARABOLIC Because Of AI Agents](https://www.youtube.com/watch?v=0Xz5_SQTkcU)**
 
-SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Follow Altcoin Daily on X: ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 150K • 👍 3K • 💬 190 • ⏱️ 1:07:54 • 1d ago
+
+---
+
+**[How To Get Bitcoin Replay Protection (BTC, XBT)](https://www.youtube.com/watch?v=j9XzaJhytco)**
+
+Get The Paid Live Class Here: https://www.bitcoinuniversity.com/join https://www.bitcoinuniversity.com/courses/93850-live-classes ...
+
+📺 Bitcoin University
+
+👁️ 504 • 👍 107 • 💬 44 • ⏱️ 15:05 • 1h ago
+
+---
+
+**[If You Missed Bitcoin, This Is Even Bigger](https://www.youtube.com/watch?v=s17W7k7OQb8)**
+
+Here is the REAL reason crypto is pumping.. Trade Now on Liquid: https://liquid.trade/r/ALTCOINDAILY Follow Us on X: ...
 
 📺 Altcoin Daily
 
-👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 3d ago
+👁️ 110K • 👍 3K • 💬 194 • ⏱️ 13:18 • 2d ago
 
 ---
 
@@ -355,17 +355,7 @@ Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called
 
 📺 Gareth Soloway
 
-👁️ 128K • 👍 4K • 💬 180 • ⏱️ 11:24 • 2d ago
-
----
-
-**[How Trump JUST Bailed out All Stocks &amp; Crypto. Again.](https://www.youtube.com/watch?v=FVM4MN7raH0)**
-
-Use Coupon Warsh's Balls at https://meetreinvest.com   ****EXPIRES FRIDAY AT 11:59PM**** Trump's SEC Just Bailed Out ...
-
-📺 Meet Kevin
-
-👁️ 163K • 👍 2K • 💬 278 • ⏱️ 27:19 • 2d ago
+👁️ 129K • 👍 4K • 💬 180 • ⏱️ 11:24 • 2d ago
 
 ---
 
@@ -375,7 +365,17 @@ Summary: Bitcoin (BTC) was hit with two major bearish catalysts in the same week
 
 📺 Crypto Casey
 
-👁️ 35K • 👍 822 • 💬 67 • ⏱️ 6:21 • 1d ago
+👁️ 36K • 👍 835 • 💬 67 • ⏱️ 6:21 • 1d ago
+
+---
+
+**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 24K • 👍 835 • 💬 48 • ⏱️ 8:36 • 13h ago
 
 ---
 
@@ -385,17 +385,17 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 1d ago
+👁️ 81K • 👍 2K • 💬 173 • ⏱️ 10:49 • 1d ago
 
 ---
 
-**[Bitcoin&#39;s Supply Rules: Why Demand Surges Don&#39;t Matter](https://www.youtube.com/watch?v=9pSU3POd3Ww)**
+**[How Trump JUST Bailed out All Stocks &amp; Crypto. Again.](https://www.youtube.com/watch?v=FVM4MN7raH0)**
 
-Rustin talks about Bitcoin's Supply Rules: Why Demand Surges Don't Matter Brought to you by Bitcoinwell.com a bitcoin-only ...
+Use Coupon Warsh's Balls at https://meetreinvest.com   ****EXPIRES FRIDAY AT 11:59PM**** Trump's SEC Just Bailed Out ...
 
-📺 Simply Bitcoin
+📺 Meet Kevin
 
-👁️ 179 • 👍 15 • 💬 25 • ⏱️ 1:07 • 2h ago
+👁️ 164K • 👍 2K • 💬 280 • ⏱️ 27:19 • 2d ago
 
 ---
 
