@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "The A.I. Party House Where Networking Has a Dark Side",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5",
+      "pub_date": 1789981447.0,
+      "article_url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Boomers love making AI images of their grandkids. Their millennial children see a privacy nightmare.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3BIMFFab2c3bHVtT2tKOU1SLWs2b1ctaVZrMVppT01xbnMtWTBVb0owS2pPQ2kwY2Z5SE5pYmdaenhWeVVEWUt3S29oY3JZUXphYmtpeXFZcW02OWRiRThEay1fOGtUdjNhVHV0VlhJQld1YXp0MDkxR1RwT3BVVllrYUM0VVVRQUZaY2hhb24?oc=5",
+      "pub_date": 1789978276.0,
+      "article_url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+      "image": "https://i.insider.com/6aad73b316256d3825fdf8ea?width=1200&format=jpeg",
+      "description": "Some grandparents think AI images of their grandkids are adorable. Millennial parents worry about privacy, consent, and where the photos may end up."
+    },
+    {
+      "headline": "Multiple AI companies sued over allegedly coordinating slowdown agreement",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZUtnTHJtUVEyZTFzVUk1UHlMV3lvTWpzOWRfdlJjR1BxcFY1dV90NjB1NlRLUy0xc1g4UzkybFQ0OEtiNllLeEEwa2wzaW1vTWkxdl9R?oc=5",
+      "pub_date": 1790016206.0,
+      "article_url": "https://www.foxnews.com/video/6405377951112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c37d6ed-e4a6-4093-9d03-ea2d0aee5a78/de59821f-8cac-4182-b981-3a54815f06a2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Fox News contributor and constitutional law attorney Jonathan Turley joins 'America Reports' to discuss allegations that OpenAI, Google, Anthropic and SpaceXAI colluded to slow down artificial intelligence development."
+    },
+    {
       "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
@@ -13,16 +43,6 @@
       "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
       "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
       "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
-    },
-    {
-      "headline": "Nvidia boss says there is \u20180% chance\u2019 AI destroys the world by 2030 | AI (artificial intelligence)",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
-      "pub_date": 1789974720.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-      "image": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
-      "description": "Jensen Huang dismisses warnings from former Anthropic researcher and others as \u2018doomsday narratives\u2019"
     },
     {
       "headline": "Capitol agenda: Nvidia\u2019s clout tested as AI debate shifts",
@@ -35,76 +55,56 @@
       "description": null
     },
     {
-      "headline": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
-      "pub_date": 1789953147.0,
-      "article_url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+      "headline": "Jensen Huang Just Slammed Doomers With His Own Prediction About the AI Apocalypse",
+      "source": "inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVNb0w3aVkwY3RrVW5jNXpLUjVhVEJGV3hQUThsWF83X2QzLVZZMmREa0N0bmZ0RFVlZEpuS1doSkE3MVpadFJBbzhPa3lNQmo0VjJya0NGb2dWTnB1X3VSQmVOQzNISnpyTTZHRnJXaVdWcThjYUFSWmw4Z2dzd0lRS1hoV251ZThJYTdGdVduWHBFdmREbjI1SXd5cnlLQmd0dklWcE10S2VkeGVTUHBsbjNjaU41ZFB0Vw?oc=5",
+      "pub_date": 1790016975.0,
+      "article_url": "https://www.inc.com/aaron-mok/jensen-huang-just-slammed-doomers-with-his-own-prediction-about-the-ai-apocalypse/91408329",
+      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/jensen-huang-ai-inc-2294936867.jpg",
+      "description": "What are the odds that the world ends by 2030? The Nvidia CEO has a very specific number in mind."
+    },
+    {
+      "headline": "Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4enUtX0hVejdOalhsVU1ZWjh0R3N2dzZFOFdIUFBXU29XQkRLaVlOTk0zeUx6NXg1cFFtUUxOd1dHSnVlNFZXMUJCOGFONzRTWThsa3JuNDBMMjU5RzRHelhtaG1rX2pXUzEtUzhzaWJHT0xfSGo4?oc=5",
+      "pub_date": 1790010060.0,
+      "article_url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
       "image": null,
       "description": null
     },
     {
-      "headline": "M6 Mac mini Review: A Better Tiny Desktop, With or Without AI",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGRKQlMzNjVXb1JTUjg3MmdZaHZZUXFnR2hHS0U0TkV4eXlPbkZGVlJaZ2YzbzlncDE2SDd5SEVpMXhoS0dXOFlkbVNxbkFEZDc0MEVUWnV4OXdQVFMwYTVQbzJfS3pPZGJSX2l3blBEWjlQOGZFLVJ1V1lSZURoOThyVklOZjlvdjJ4dk03OGR4cG1z?oc=5",
-      "pub_date": 1789995609.0,
-      "article_url": "https://gizmodo.com/m6-mac-mini-review-a-better-tiny-desktop-with-or-without-ai-2000813947",
-      "image": null,
-      "description": null
+      "headline": "OpenAI joins call for US-led global AI standards",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRWNENaUUpTOTN2dzJ2WWgzdm5lNms5anV1T2lmRTI2aF9iUkt5WE5OMFE5QW1ZSzhhYUR3QUpOWDcwOWVSRmVLcVJONkZjR19VclVLZXBKRTdfeUd3SDBybGplQVV6SHZpZjVvYmFvR2Q2RUpIbnpMUFgtYkJEcFVCdnA?oc=5",
+      "pub_date": 1790011474.0,
+      "article_url": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c2996d-d44a-4956-a7a3-0fa3fe0f34ee.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns"
     },
     {
-      "headline": "\u2018Energy-Guzzling\u2019 AI Must Rein in Its Emissions, Says UN Climate Chief",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQby1kaTZpa1JHYWJCMkhqeW5wS0V0SE9QWmIybElrMWsyMFBDRVpwckdKQkdDNlV4QlB1TkhrYlp4dGt0eXlwQm9MM0o1SjhrYlFNT3d6b3FiN240REsyd1o1ZGl6Rlk4aVNYMEFsTWZPV1dsNnRzQXBOLXVTeVBQaGJWa0JrYl9jNFpONXZGTU4zNWtEdlNkWTVYU1daZ0dmTUtBY1l6dDVPSWQyOC1lMUk3TzFiZ3c2VFBn?oc=5",
-      "pub_date": 1789996264.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/-energy-guzzling-ai-must-rein-in-its-emissions-says-un-climate-chief",
-      "image": null,
-      "description": null
+      "headline": "OpenAI asks Washington to lead a global AI standards push",
+      "source": "The Next Web",
+      "source_url": "https://thenextweb.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zV2VGOHl1cE9uTWtONzhiMHpDNjFqSlJrRXkxaGwzSlU4NHlPWXhRU2RMNkhLRlVDV192aG91MXI4NGUtSTl4c04tSXR3WndZWG1Cb1AxRGQzdkNGSm0zbG9hZlA5UVJJb21J?oc=5",
+      "pub_date": 1790016564.0,
+      "article_url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.jpg",
+      "description": "OpenAI is urging Washington to lead an international push on AI standards, starting with incident reporting. The EU AI Act has required that since 2025."
     },
     {
-      "headline": "Scott Wiener and Connie Chan both want to rein in AI. They disagree on how to do that.",
-      "source": "missionlocal.org",
-      "source_url": "https://missionlocal.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdTdBUzljOXBRbXZrWGVTVVd1eWNnajhDVk1CRWpDbzQ5blJlWlFFUFdhc3JmZlZYNDRTWlB1b3NpdGRvQ0gxc3RSMHFmVUJfcmZxOUVXNWtHWnk3QjA0Q1VmNjRNamhNdFN6dWwtbGc2d1NUanRfVkx0R1MxREE?oc=5",
-      "pub_date": 1789995600.0,
-      "article_url": "https://missionlocal.org/2026/09/ai-nancy-pelosi-scott-wiener-connie-chan/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUxvcXExa3VOQmE4RG9MLWJFRGJuSFZUUnhDYVNod29kZ2dRWFNMSHp2NWRtcjJLbnJkRXR4VGQ2MWc2MUlsNFpRNXNZNC0yYk41Tkp1M1pEZTNFQTBnQ1pxME80VHpkbW55TUhfNFBVTW00eWhaTFBUYWN6M0FWOW51ZmJhbUY0dHpFX3RSdjlGTjTSAZgBQVVfeXFMT05jMENlb1RtWlo2RnRmdl9kTWF3aDZtZ2dXV3hSRUx2MVg3TDhCeVhmZW4zbURxcVd5Y0JQREk0MGlqU1NKZG9iLXVFOGF5YUZvS2FUSW5VOWhNdzhhVXlXMmxoZk1YaVJieDdGNTI2WE9FZ01PVWFGSVRIV0tCWTFvSjUxckhXLTItT1ZaNUJSUkN2WkhLV2c?oc=5",
-      "pub_date": 1789988401.0,
-      "article_url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108365583-1789993348352-Besent1.jpg?v=1789993358&w=1920&h=1080",
-      "description": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump."
-    },
-    {
-      "headline": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREVDR3ZKSlFTYzNVRFgxWENVN3RSaGpLY21Ta3ZBWmpVd2Zvb2FjOFVDd2pyeVA4WWhsSVl3WVRHUjdvSG5QdEZna0o4cmpXREdRRVZVTk8zNzlEYWtaZExKZmxMRllFQUJ4V05ydXRNOE9ESl81RzgwdFBJdnMzb2NGaFdDSXJoQ1UwU0ZiUDh0dHBoVll0ZXdJcUVfekw0a1hZZm8zSzh5NWtuWktMMVNqODhMUUFGeUpfUjVMMXJqamJBMGw1cUg1LXZwVXZLVmRBNA?oc=5",
-      "pub_date": 1789984800.0,
-      "article_url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/189e5eb6f1fc0bd28e3873374ffd83a1c68dc7d9559327648a5a2cf1f944e4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F401f6232-d687-4703-ab56-5f7bd62c2aad_e41666f8780ea00245798cfc102ef67809c1dd0078a8a23b84952382e2eb8aad.jpg",
-      "description": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September."
-    },
-    {
-      "headline": "Is this how the world ends? Extinction scenarios are taking over the AI debate.",
-      "source": "washingtonpost.com",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHdXRXJtS3NzRnEwd0liQXYzbnM2bUV0UUJ3MU4xMklyMVUzbl9vRGtlVTRUdm44YnFzOGNrSWktT0pCWVBTVnE2WEcwUWxLd18xS2VNWTM4bWROZ19oSUN5Q01NU0NwSHBPbzVTZEdQT25jMlA0MGZGTEZ3dHZJeGJNMDlrbS14Ukt4UEtybGF5aExPRUJORjlKTC1rYzVtZmVYWHpsQnBzbnZUdGRiNE5VU3pla1lzZmMxUGFoaTg?oc=5",
-      "pub_date": 1789997565.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/21/is-this-how-world-ends-extinction-scenarios-are-taking-over-ai-debate/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKB3K6GXNZEIVN5QE67KOC6FAM_size-normalized.jpg&w=1440",
-      "description": "As nightmare thought experiments shape the fight over how to govern a multitrillion-dollar industry, some experts say the parables may lead decision-makers astray."
+      "headline": "Amazon blocks Meta\u2019s Muse AI assistant in new standoff over agentic shopping",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
+      "pub_date": 1789974214.0,
+      "article_url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png",
+      "description": "Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T13:41:28.739041+00:00"
+  "fetched_at": "2026-09-21T19:06:35.367774+00:00"
 }

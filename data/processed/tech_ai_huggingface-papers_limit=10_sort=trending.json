@@ -39,25 +39,6 @@
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
-      "id": "2608.23283",
-      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
-      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
-      "organization_name": "apodex",
-      "organization_fullname": "Apodex",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
-      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
-      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
-      "hf_url": "https://huggingface.co/papers/2608.23283",
-      "arxiv_url": "https://arxiv.org/abs/2608.23283",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
-      "upvotes": 209,
-      "num_comments": 3,
-      "published_at": "2026-08-23T20:00:00.000Z",
-      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
-      "github_stars": 4231,
-      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
-    },
-    {
       "id": "2503.08638",
       "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
       "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
@@ -77,6 +58,25 @@
       "project_page": "https://map-yue.github.io/"
     },
     {
+      "id": "2608.23283",
+      "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
+      "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
+      "organization_name": "apodex",
+      "organization_fullname": "Apodex",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68bf96f0ca298a370d66adbb/T4Bt5ELjozQxgkKsHM_gg.jpeg",
+      "summary": "General-purpose language models can reason and synthesize knowledge, but complex work also requires sustained interaction with files, information sources, and executable code, together with state maintenance, failure recovery, and verifiable delivery. We call this working capability: sustained, verifiable progress toward a real-world objective. Apodex 1.1 develops this capability along two complementary dimensions. Environment Scaling expands the diversity and verifiability of executable file, search, and code environments, while Agentic Coordination Scaling trains agents to decompose long-horizon tasks, delegate parallel work, integrate asynchronous results, and replan. A shared execution harness and AgentOS maintain task state and provenance across tools and agents, and training turns environment trajectories and coordination traces into reliable behavior. Across complex professional work, finance, scientific research, mathematics, coding, and search, Apodex 1.1 reaches the leading performance band despite using a substantially smaller model than many frontier systems. The 35B-parameter Apodex 1.1 Mini further retains strong working capability in a locally deployable form. These results ground agentic intelligence in useful, verifiable work completed over time and advance our goal of building a Heavy-Duty Solver for ambitious, long-running tasks.",
+      "ai_summary": "Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks by scaling executable environments and training agents to coordinate long-horizon work with state maintenance and recovery.",
+      "hf_url": "https://huggingface.co/papers/2608.23283",
+      "arxiv_url": "https://arxiv.org/abs/2608.23283",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2608.23283.png",
+      "upvotes": 209,
+      "num_comments": 3,
+      "published_at": "2026-08-23T20:00:00.000Z",
+      "github_repo": "https://github.com/ApodexAI/FrontierAgent",
+      "github_stars": 4287,
+      "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
       "id": "2609.20519",
       "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
       "authors": "Haozhe Liu, Tian Ye, Sensen Gao et al. (14 authors)",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.20519",
       "arxiv_url": "https://arxiv.org/abs/2609.20519",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 96,
+      "upvotes": 97,
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
@@ -107,31 +107,12 @@
       "hf_url": "https://huggingface.co/papers/2609.14858",
       "arxiv_url": "https://arxiv.org/abs/2609.14858",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.14858.png",
-      "upvotes": 239,
+      "upvotes": 240,
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
       "github_stars": 1012,
       "project_page": "https://dream-rsi.com/"
-    },
-    {
-      "id": "2310.10688",
-      "title": "A decoder-only foundation model for time-series forecasting",
-      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
-      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
-      "hf_url": "https://huggingface.co/papers/2310.10688",
-      "arxiv_url": "https://arxiv.org/abs/2310.10688",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
-      "upvotes": 45,
-      "num_comments": 1,
-      "published_at": "2023-10-14T13:01:37.000Z",
-      "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33353,
-      "project_page": null
     },
     {
       "id": "2407.16741",
@@ -150,6 +131,25 @@
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
       "github_stars": 88702,
+      "project_page": null
+    },
+    {
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 45,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 33386,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-21T13:41:01.637848+00:00"
+  "fetched_at": "2026-09-21T19:06:16.424036+00:00"
 }
