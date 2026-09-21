@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmdj0v/trump_brutally_mocked_over_bizarre_effort_to/",
+      "published": 1789998993.0,
+      "thumbnail": "https://external-preview.redd.it/FRTPOKX-xhTgJIYT26hRYIEqKFHbDSIFxXfTP9jc6ag.jpeg?width=640&crop=smart&auto=webp&s=832eaaca05c6850b9d6a5d72fd833e184516f4d1",
+      "external_url": "https://www.irishstar.com/news/politics/trump-brutally-mocked-over-bizarre-37682446",
+      "site_name": "irishstar.com",
+      "favicon": "https://www.irishstar.com/favicon.ico",
+      "description": null
+    },
+    {
+      "title": "Cage fight in Shenzhen, China",
+      "author": "AndelaTown",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmdpzd/cage_fight_in_shenzhen_china/",
+      "published": 1789999427.0,
+      "thumbnail": "https://external-preview.redd.it/OWpydGppbGFydnFoMcrtJHI85EIg23M1Na1yI0V3GMJ4pIw0BApPCtsEz9Wi.jpeg?width=320&crop=smart&auto=webp&s=3cf862ce79b8327ad745af72bacbeb4f852ce651",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "This is really the entire plan.",
       "author": "gzal44c2",
       "url": "https://www.reddit.com/r/artificial/comments/1wlze5f/this_is_really_the_entire_plan/",
@@ -22,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a single one of these sandboxes was actually air-gapped.* That's a crucial computer science fact. An air gapped sandbox would require *ZERO* cables and network interfaces. It would also require absolute physical isolation. What these labs actually built were soft software barriers. And then they left the doors unlocked. With some of the smartest AI on the planet. Lol. Of COURSE it escaped. 1. The OpenAI / Hugging Face \"Escape\": The sandbox was connected to OpenAI\u2019s internal network through a package proxy. The model didn't perform magic. It found a basic flaw in the proxy and walked right through the open door. 2. The Google Gemini \"Hack\": Testers left the model connected to the live internet during offensive tests. They then used a test domain name that overlapped with real companies. These were classic IT security failures. I'm talking about bad network segmentation, permissive egress rules, and relying on soft software barriers instead of true physical isolation. When you leave an active network interface open on a test bed, a model finding its way out is just sloppy cybersecurity. Your nerdy friend, Mike D"
-    },
-    {
-      "title": "Professor: A \u201cmessy\u201d job is the defense against AI unemployment",
-      "author": "ksprdk",
-      "url": "https://www.reddit.com/r/artificial/comments/1wm3ok9/professor_a_messy_job_is_the_defense_against_ai/",
-      "published": 1789968168.0,
-      "thumbnail": "https://external-preview.redd.it/5kPiedkXv-AjcAADwPN8usXC2sTCtW3d_oH02mWvwps.jpeg?width=640&crop=smart&auto=webp&s=18d15400ab822dcf23c13141afa38f24fa167cda",
-      "external_url": "https://excitech.media/p/professor-a-messy-job-is-the-defense",
-      "site_name": "excitech.media",
-      "favicon": "https://substackcdn.com/image/fetch/$s_!h7-0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60abeb03-1e0b-4747-b8a8-55d950a77885%2Fapple-touch-icon-57x57.png",
-      "description": "An excerpt: \"Fundamentally, Garicano says there are two factors that determine whether a job is messy. The first is whether the tasks that make up the job are difficult to separate from one another. He cites sales as an example. There is a significant cognitive component involving understanding the customer and what product they are looking for. The salesperson can use AI to help with this, but it\u2019s still something they will also have to do themselves. \u201cIn order to meet the potential customer for dinner, I need to be able to think \u2018Oh, he wants this other thing\u2019, and then remember that we have this other product.\u201d The second factor that makes a job messy is whether it involves managing a complex network of human relationships. The book gives the example of a chief engineer at a factory who, among other things, has to hire new employees, negotiate with executives about implementing proposals, communicate with the municipality about obtaining building permits, and so on. By contrast, your job is vulnerable if it consists of a single isolated task where it is possible to objectively verify whether it has been completed correctly. Examples might include technical translation, drafting standard contracts, or simple bookkeeping tasks where the numbers have to add up.\""
     },
     {
       "title": "Most ai productivity advice comes from people who don't have much actual work to do",
@@ -57,17 +68,6 @@
       "description": "A seemingly unsupported figure that nevertheless may be grounded in truth."
     },
     {
-      "title": "A $40M model is being sold on calibrated confidence, and no calibration data has been published",
-      "author": "prakersh",
-      "url": "https://www.reddit.com/r/artificial/comments/1wm8btm/a_40m_model_is_being_sold_on_calibrated/",
-      "published": 1789984363.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TypeSafe AI came out of stealth on September 15 with $40M led by DCVC, reportedly at a $200M valuation, founded by Diogo Almeida, an ex-OpenAI researcher who worked on InstructGPT, ChatGPT and GPT-4. Their model, Jev, does not generate text. It takes program state plus typed questions and returns typed answers with a probability on each. The framing is Kahneman's System One: fast intuitive judgment rather than deliberation. The product claim is that those probabilities are calibrated, meaning 70% should be right about 70% of the time. TypeSafe calls the training method Reinforcement Learning for Calibrated Decisions. Here is what bothers me about the coverage so far. Calibration is the whole product and there is no public measurement of it No expected calibration error. No reliability diagrams. No results on any standard public benchmark. No architecture paper. For a company whose pitch is fixing AI overconfidence, the overconfidence-fixing property is the one thing with nothing published behind it. What has been published is a company-designed eval over four workflow tasks where the correct answer is defined as the average of GPT-6 Astra and Claude Fable 5.1 at high thinking. That measures agreement with two competitor models, not correctness. A model could match the reference on every case and be wrong on every case. Competing models in the same harness run at default reasoning settings, so the 193.6x speed and 444.6x cost multipliers are measured against reasoning-off configurations while the accuracy target comes from reasoning-on ones. \"Cannot hallucinate\" is true in a narrow sense The output space is fixed before decoding, so it cannot emit an option that is not on the list. That eliminates fabricated output. It does not make the chosen option correct. The Register made the same point: absence of hallucination does not preclude being incorrect. Constrained decoding is also not new, OpenAI has guaranteed JSON Schema conformance since August 2024. Where I think the skepticism should stop The adoption number is third-party and it is striking. Vercel reported Jev as the fastest-adopted model in AI Gateway history: a tenth of paid teams within 18 hours, nearly 13% by hour 24, roughly six times Fable 5.1's first-day share. And TypeSafe's own documentation is unusually honest. It publishes a model jaggedness page stating that Jev does not count reliably, underperforms on hex and RGB values, cannot judge whether two values are near each other, and reads dates as text. It also states there is no guaranteed mathematical relationship between semantically related outputs, so the probability of a statement and its negation need not sum to 1. That is a genuinely awkward admission to sit next to a calibration pitch, and they published it anyway. So: real product, real adoption, and a headline property nobody outside the company has measured. What would you want to see before trusting the confidence numbers in production?"
-    },
-    {
       "title": "AI CAN be incredible for learning",
       "author": "AkindaGood_programer",
       "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
@@ -79,38 +79,38 @@
       "description": "I've seen a lot of hate that LLMs will always reduce people's ability to for themselves, which I think isn't true. You can use LLMs to learn extremely effectively, but the hard part is avoiding the thousands of ways to learn extremely ineffectively. I've been using LLMs to find gaps in my knowledge by asking me questions about my notes, and it's been working very well. It's not something a YouTube video can emulate because it's completely personalized to what YOU know. A teacher will always be better, but sometimes you want to learn something on your own, or don't want to pester the teacher for whatever reason. You can ask as many stupid questions as many times as you want. That's the power, personalization. Now, if used incorrectly, it can be very hurtful for your cognitive development, no doubting that. You just have to have self-control and use it as a tutor, not an answer machine. What are your thoughts on this?"
     },
     {
-      "title": "What\u2019s an AI capability people underestimate because they\u2019re using it for the wrong things?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/",
-      "published": 1789942560.0,
+      "title": "No, AI has not 'gone rogue'",
+      "author": "chu",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmdlth/no_ai_has_not_gone_rogue/",
+      "published": 1789999185.0,
+      "thumbnail": "https://external-preview.redd.it/gHZMrp1l3YmNHyZdTWOCEenXKBzuGTyCNndvjAKmSaI.jpeg?width=640&crop=smart&auto=webp&s=b715484aeed9a97f49f4b90b0d5341f7d798a6ab",
+      "external_url": "https://www.telegraph.co.uk/gift/7286068450ae6380",
+      "site_name": "The Telegraph",
+      "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
+      "description": "Sensational claims about the technology form part of a potentially manipulative campaign for self-regulation"
+    },
+    {
+      "title": "what does \u201cslowing down AI\u201d actually mean?",
+      "author": "Impossible_Truth_629",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmj6nr/what_does_slowing_down_ai_actually_mean/",
+      "published": 1790011268.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Everyone talks about generating text, images, and code. What\u2019s a less obvious use case where you think AI is genuinely much more useful than people realize?"
+      "description": "I've been thinking about the whole AI slowdown discussion, and something doesn't quite add up to me. Anthropic's CEO has been calling for the industry to slow the development of increasingly capable AI models so there's more time for safety and evaluation. But now Anthropic is reportedly considering another new model as it faces growing pressure from OpenAI. And I don't know honestly, I don't think that's necessarily contradictory. That's probably the problem. If you're an AI company competing in a market where everyone else is still improving their models, how do you actually slow down without giving up ground? Maybe \u201cslow down AI\u201d doesn't really mean stopping the race. Maybe it means slowing down the release of capabilities while the underlying AI development keeps moving. What an actual AI slowdown would look like in practice?"
     },
     {
-      "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
-      "published": 1789930199.0,
-      "thumbnail": "https://external-preview.redd.it/9NriIK1OZLPZrxAGj_6aSBJsfyC2psJgfoDUtVENmDM.jpeg?width=640&crop=smart&auto=webp&s=d117911306410b4580cd8c606e4bba1568cfdd27",
-      "external_url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
-      "site_name": "DefenseScoop",
-      "favicon": "https://defensescoop.com/wp-content/uploads/sites/8/2023/01/cropped-ds_favicon-2.png?w=180",
-      "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
-    },
-    {
-      "title": "\u201cI have a really, really strong legal team.\u201d Inside the AI party boom.",
-      "author": "ThereWas",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/",
-      "published": 1789934813.0,
-      "thumbnail": "https://external-preview.redd.it/q_iu0nU1po3oYclF8hm8EoNYySKqHiqIaI3x2kTELrU.png?width=640&crop=smart&auto=webp&s=c1d911d102660db2cd28afa83136c73650f752cf",
-      "external_url": "https://sfstandard.com/2026/09/19/ai-party-boom/",
-      "site_name": "The San Francisco Standard",
-      "favicon": "https://sfstandard.com/favicon/favicon-180x180-1.png",
-      "description": "They\u2019re skipping caviar for fire-breathing lessons."
+      "title": "Automated Reinforcement Learning should scare you",
+      "author": "hattusili-the-third",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
+      "published": 1790016741.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
     }
   ],
-  "fetched_at": "2026-09-21T13:40:50.497991+00:00"
+  "fetched_at": "2026-09-21T19:06:08.963741+00:00"
 }

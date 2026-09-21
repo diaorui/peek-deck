@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-21T13:41:30.393527+00:00'
+updated: '2026-09-21T19:06:44.713867+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 21, 2026 at 13:41 UTC  
+**Last Updated:** September 21, 2026 at 19:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.4%  
-**7d:** +13.5%  
-**30d:** +10.6%  
-**90d:** +68.0%  
-**1y:** -35.1%  
+**24h:** +4.7%  
+**7d:** +14.8%  
+**30d:** +11.8%  
+**90d:** +69.9%  
+**1y:** -34.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $332.20B
+**Market Cap:** $336.70B
 Rank #2
 
 **Circulating Supply:** 122,067,646 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.9%
+-44.2%
 
 **All-Time Low:** $0.43
-+629357.8%
++636840.8%
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S\&P Global acquiring OpenZeppelin, Blockspace Forum multi party block construction live
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-40/) • 2d ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-40/) • 3d ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi everyone! I used to buy ETH on Binance P2P because I thought it was the cheapest option. Now I am trying HashKey. For the same amount of money, HashKey shows I will get more ETH than Binance P2P, which confuses me. I have two questions: Hidden Fees: Are there extra taxes or hidden fees on HashKey that I need to know about? Final Amount: Will I actually receive less ETH than the amount shown on the screen after I pay? I don't understand why the P2P network exists if you get less at the end...
 
-3d ago
+4d ago
 
 ---
 
@@ -144,7 +144,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 What is one thing that would make Ethereum meaningfully safer? The ETHSecurity Initiatives Round aims to answer that question and fund the best answers. The round is live starting today at initiatives.thedao.fund, with several initiatives on it already and room for a hundred more. In our first funding round, more than 20 ecosystem funders and 3,934 donors joined us, and together we put over $1.6M into diverse Ethereum security projects. To date, we've coordinated the funding of over 1,000 ETH...
 
-🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 5d ago
+🔗 [TheDAO Security Fund](https://paragraph.com/@thedao.fund/round-two-starts-today-ethsecurity-initiatives) • 6d ago
 
 ---
 
@@ -152,11 +152,11 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 ## Google News: "ethereum"
 
-**[Ethereum developers warn ‘any teenager’ could disrupt upcoming Glamsterdam test](https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain)**
+**[Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'](https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market)**
 
-Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.
+Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum—worth roughly $74 million.
 
-CoinDesk • 3d ago
+Decrypt • 4h ago
 
 ---
 
@@ -172,23 +172,23 @@ BeInCrypto • 2d ago
 
 An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Ethereum breaks $2,700 with whale buying and sh...](https://pluang.com/en/news-feed/ethereum-bergerak-ke-2760-jika-bulls-kuat-2600-jika-tidak)**
+**[Current price of Ethereum for September 21, 2026](https://fortune.com/article/price-of-ethereum-09-21-2026/)**
 
-Ethereum recently broke above $2,700, driven by strong buying from large holders (whales) and short sellers being forced to cover positions. This surge was supported by increased trading volume and a stable RSI below overbought levels, indicating room for further gains. Whale accumulation and reduced sell supply strengthen the breakout, but sustained spot demand above $2,700 is needed to maintain momentum and target $2,760. A drop below $2,600 could weaken the bullish trend.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Pluang • 1h ago
+Fortune • 2h ago
 
 ---
 
-**[SEC's new tokenization order boosts Ethereum an...](https://pluang.com/en/news-feed/bitmine-naik-6-persen-ethereum-menguat-setelah-keputusan-tokenisasi-sec)**
+**[Ethereum news: Bitmine (BMNR) adds bought $75M ETH as Tom Lee says institutions are underweight crypto](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)**
 
-The SEC introduced an Innovation Exemption allowing regulated platforms to trade tokenized US stocks on public blockchains, boosting Ethereum and Ethereum-linked stocks. Bitmine Immersion Technologies, holding nearly 6 million ETH, saw its stock rise 6%, reflecting its strong Ethereum exposure. Coinbase and SharpLink Gaming also gained, benefiting from the new framework that blends traditional finance with decentralized finance. This temporary measure could evolve after public comments, with potential issuer opt-outs posing risks to tokenization scope.
+The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
 
-Pluang • 32m ago
+CoinDesk • 5h ago
 
 ---
 
@@ -196,15 +196,7 @@ Pluang • 32m ago
 
 The crypto market is showing renewed strength over the past 24 hours, with the Bitcoin price holding above $81,000, while Ethereum and several major altcoins outperform. Global crypto market capitalisation has climbed toward $2.8 trillion, alongside a sharp increase in trading activity, pointing to…
 
-TradingView • 7h ago
-
----
-
-**[Down 47% From Its All-Time High, This Is the Most Undervalued Cryptocurrency to Buy Right Now](https://www.fool.com/investing/2026/09/21/down-47-for-the-year-this-is-the-most-undervalued-/)**
-
-Ethereum's dominant role in decentralized finance (DeFi) gives it plenty of upside potential ahead.
-
-The Motley Fool • 1h ago
+TradingView • 12h ago
 
 ---
 
@@ -212,7 +204,7 @@ The Motley Fool • 1h ago
 
 Ethereum and major cryptocurrencies rallied after the CFTC advanced its crypto rulemaking framework, boosting optimism around US regulation. Ethereum broke…
 
-investingLive • 4h ago
+investingLive • 10h ago
 
 ---
 
@@ -220,7 +212,7 @@ investingLive • 4h ago
 
 MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys...
 
-markets.businessinsider.com • 18h ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -228,7 +220,15 @@ markets.businessinsider.com • 18h ago
 
 Ethereum’s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500.
 
-AMBCrypto • 20h ago
+AMBCrypto • 1d ago
+
+---
+
+**[Why is Bitcoin rallying alongside Ethereum and XRP?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-bullish-outlook-amid-improving-etf-inflows-202609211102)**
+
+Cryptocurrencies are broadly rising on Monday, led by Bitcoin’s (BTC) surge to $85,000. Altcoins are following BTC’s bullish trend, with Ethereum (ETH) trading above $2,700 and Ripple (XRP) holding steady at $1.47.
+
+FXStreet • 8h ago
 
 ---
 
@@ -236,13 +236,23 @@ AMBCrypto • 20h ago
 
 ## YouTube Videos: "ethereum"
 
-**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
+**[Ethereum Hit 2,769 After I Bought Early.. Here&#39;s What I&#39;m Leaving Overnight](https://www.youtube.com/watch?v=keE5NYq7rzc)**
 
-EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
+Ethereum hit 2769 today after I bought it back early this morning, before my own signal. The signal still hasn't fired. Here is what ...
 
-📺 Altcoin Daily
+📺 Marzell Crypto
 
-👁️ 34K • 👍 625 • 💬 59 • ⏱️ 1:12 • 1d ago
+👁️ 86 • 👍 10 • 💬 60 • ⏱️ 2:48 • 1h ago
+
+---
+
+**[FINALLY?](https://www.youtube.com/watch?v=ZmKLnnHi9cI)**
+
+EMERGENCY Bitcoin Breakout. Disclosure: I have indirect long BTC, ETH, SOL, ZEC exposure as of the time of recording; that ...
+
+📺 CTO LARSSON
+
+👁️ 16K • 👍 922 • 💬 52 • ⏱️ 4:22 • 6h ago
 
 ---
 
@@ -252,7 +262,17 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 88K • 👍 2K • 💬 177 • ⏱️ 10:49 • 1d ago
+👁️ 92K • 👍 3K • 💬 179 • ⏱️ 10:49 • 1d ago
+
+---
+
+**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
+
+EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 38K • 👍 652 • 💬 62 • ⏱️ 1:12 • 1d ago
 
 ---
 
@@ -262,7 +282,7 @@ WEEX - trade crypto AND stocks like NVDA and TSLA, no KYC, up to $10000+ in sign
 
 📺 Marzell Crypto
 
-👁️ 279 • 👍 10 • 💬 44 • ⏱️ 2:53 • 4h ago
+👁️ 1K • 👍 19 • 💬 45 • ⏱️ 2:53 • 9h ago
 
 ---
 
@@ -272,7 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 340 • 💬 21 • ⏱️ 19:53 • 21h ago
+👁️ 15K • 👍 370 • 💬 25 • ⏱️ 19:53 • 1d ago
 
 ---
 
@@ -282,7 +302,25 @@ BITCOIN LIQUIDATIONS HAVE STARTED (Don't Be Fooled)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 18K • 👍 375 • 💬 86 • ⏱️ 21:25 • 10h ago
+👁️ 25K • 👍 414 • 💬 227 • ⏱️ 21:25 • 15h ago
+
+---
+
+**[CRYPTO MARKET CAP IS READY TO BREAKOUT SINCE JANUARY 2026!!!#zcash #crypto #ethereum](https://www.youtube.com/watch?v=ScwbpM1iygk)**
+
+📺 CryptoWendyO
+
+👁️ 8K • 👍 336 • 💬 24 • ⏱️ 1:45 • 18h ago
+
+---
+
+**[🍼 Why They Hate Ethereum Pumping](https://www.youtube.com/watch?v=UcsOrVSNeLY)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 951 • 👍 166 • 💬 12 • ⏱️ 14:51 • 4h ago
 
 ---
 
@@ -292,45 +330,7 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 25 • 💬 34 • ⏱️ 4:08 • 17h ago
-
----
-
-**[XRP, Solana, Ethereum: The TRUTH Revealed! #shorts](https://www.youtube.com/watch?v=pklLNmym04U)**
-
-Beware of easy gains in crypto. Promises of massive returns often hide the real risk: sudden dumps by large holders. Stay vigilant ...
-
-📺 Martyn Lucas INVESTOR
-
-👁️ 199 • 👍 5 • 💬 1 • ⏱️ 0:22 • 3h ago
-
----
-
-**[$82 Door Blown!.  $85K Hit.  Live Bitcoin Trading](https://www.youtube.com/watch?v=WaYY7hDhPYU)**
-
-Welcome to AlexOCrypto! Join us for daily live Bitcoin trading sessions, in-depth crypto market analyses, and tutorials designed ...
-
-📺 AlexOCrypto
-
-👁️ 2K • 👍 250 • 2h ago
-
----
-
-**[CRYPTO MARKET CAP IS READY TO BREAKOUT SINCE JANUARY 2026!!!#zcash #crypto #ethereum](https://www.youtube.com/watch?v=ScwbpM1iygk)**
-
-📺 CryptoWendyO
-
-👁️ 5K • 👍 279 • 💬 9 • ⏱️ 1:45 • 12h ago
-
----
-
-**[🚀 Why Ethereum CHARGED to $2700 ‼️](https://www.youtube.com/watch?v=MLz71gMmM_g)**
-
-Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 3K • 👍 243 • 💬 26 • ⏱️ 18:33 • 11h ago
+👁️ 2K • 👍 25 • 💬 34 • ⏱️ 4:08 • 22h ago
 
 ---
 
