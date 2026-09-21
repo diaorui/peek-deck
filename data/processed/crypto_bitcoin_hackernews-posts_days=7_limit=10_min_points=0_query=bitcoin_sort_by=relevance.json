@@ -9,8 +9,8 @@
       "url": "https://news.ycombinator.com/item?id=49738879",
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
-      "points": 315,
-      "num_comments": 272,
+      "points": 316,
+      "num_comments": 273,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -133,5 +133,5 @@
   ],
   "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-09-21T13:40:52.554959+00:00"
+  "fetched_at": "2026-09-21T19:06:08.006892+00:00"
 }
