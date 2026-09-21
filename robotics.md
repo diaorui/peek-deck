@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-20T23:21:56.592907+00:00'
+updated: '2026-09-21T01:23:05.226969+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 20, 2026 at 23:21 UTC  
+**Last Updated:** September 21, 2026 at 01:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,7 +116,7 @@ I'm creating co-working space within the industry of robotics in my native count
 
 Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
 
-futurism.com • 8h ago
+Futurism • 10h ago
 
 ---
 
@@ -128,9 +128,11 @@ DOGO News • 2d ago
 
 ---
 
-**[Chinese Robotics Suppliers Rise on Tesla Optimus Audit Report](https://www.bloomberg.com/news/articles/2026-09-18/chinese-robotics-suppliers-rise-on-tesla-optimus-audit-report)**
+**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
 
-Bloomberg.com • 2d ago
+Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
+
+CnEVPost • 16h ago
 
 ---
 
@@ -148,11 +150,27 @@ Tech Xplore • 2d ago
 
 ---
 
+**[China's Unitree Robotics stock falls by half in month after listing](https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing)**
+
+As IPO frenzy settles down, investors assess future of humanoids
+
+Nikkei Asia • 4h ago
+
+---
+
 **[SoftBank agrees to acquire Robotics and AI Institute](https://www.therobotreport.com/softbank-agrees-to-acquire-robotics-and-ai-institute/)**
 
 SoftBank Group Corp. has agreed to acquire the Robotics and AI Institute (RAI) from Hyundai Motor Group, according to multiple sources.
 
 The Robot Report • 2d ago
+
+---
+
+**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
+
+Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
+
+ABC News & Headlines – Australian Broadcasting Corporation • 23h ago
 
 ---
 
@@ -164,25 +182,9 @@ BBC • 3d ago
 
 ---
 
-**[Delivery robots swarm Chicago sidewalk in viral video](https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video)**
+**[Chinese AI chipmaker Hygon plots expansion to robotics market](https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics)**
 
-A viral video shows roughly a dozen Coco Robotics delivery robots swarming a Chicago sidewalk near Lincoln Park, raising wheelchair access concerns.
-
-Fox News • 1d ago
-
----
-
-**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
-
-Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 21h ago
-
----
-
-**[St. Mary’s County Combat Robotics Team Shines In Manhattan](https://thebaynet.com/st-marys-robotics-talent-takes-national-stage-at-manhattan-competition/)**
-
-The BayNet • 13h ago
+South China Morning Post • 52m ago
 
 ---
 
@@ -190,43 +192,33 @@ The BayNet • 13h ago
 
 ## YouTube Videos: "robotics"
 
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
 
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
 
-📺 EmortalMarcus
+📺 Reward AI
 
-👁️ 242K • 👍 8K • 💬 763 • ⏱️ 55:24 • 1d ago
-
----
-
-**[eufy Robot Vacuum E35 vs S2 - I Tested Them Head-to-Head!](https://www.youtube.com/watch?v=LxqJDi3a7YY)**
-
-I tested the eufy Omni E35 against the flagship S2 in real-world cleaning tests, including mopping, carpet debris, long hair and ...
-
-📺 The Q
-
-👁️ 105K • 👍 4K • 💬 279 • ⏱️ 5:56 • 1d ago
+👁️ 145K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
 
 ---
 
-**[REBALANCE OF DOOM is coming [War Robots 12.4 Update News]](https://www.youtube.com/watch?v=HAxo5R64_-c)**
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
 
-War Robots 12.4 Rebalance News Update & Vlog: Big Changes New NEKTON Robot Gameplay Video: ...
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
 
-📺 Manni-Gaming
+📺 The AI Nexus
 
-👁️ 12K • 👍 527 • 💬 149 • ⏱️ 45:03 • 15h ago
+👁️ 13K • 👍 245 • 💬 25 • ⏱️ 57:02 • 5d ago
 
 ---
 
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
 
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
 
-📺 MindSeeded
+📺 DPCcars
 
-👁️ 782K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+👁️ 20K • 👍 138 • 💬 38 • ⏱️ 2:56 • 3d ago
 
 ---
 
@@ -236,57 +228,67 @@ Join this channel to get access to perks: https://www.youtube.com/channel/UCyqpZ
 
 📺 Dr. Know-it-all Knows it all
 
-👁️ 20K • 👍 489 • 💬 90 • ⏱️ 22:22 • 2d ago
+👁️ 21K • 👍 495 • 💬 90 • ⏱️ 22:22 • 2d ago
 
 ---
 
-**[LEGO Robot: I Transformed All Pixar Cars Characters into Giant Robot! | Bricks UP](https://www.youtube.com/watch?v=G6vWEbWWEPo)**
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
 
-LEGO Robot: I Transformed All Pixar Cars Characters into Giant Robot! Get ready for an ultimate Radiator Springs mechanical ...
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
 
-📺 Bricks UP
+📺 Future Core
 
-👁️ 22K • 👍 774 • 💬 10 • ⏱️ 1:07:03 • 2d ago
+👁️ 186K • 👍 726 • 💬 43 • ⏱️ 9:07 • 5d ago
 
 ---
 
-**[NEW Ue Loki Is Real... NEW 6x UE Gust Dagon WIPING OUT Everything | War Robots](https://www.youtube.com/watch?v=tahEdM8KWbM)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-New Ultimate Loki & UE Gust Dagon. I dont think anyone saw this coming. We are getting a UE Gust and Ue Loki. The Ue loki ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+
+📺 MindSeeded
+
+👁️ 808K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+
+---
+
+**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
+
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
+
+📺 Bloomberg Tech
+
+👁️ 73K • 👍 291 • 💬 51 • ⏱️ 9:44 • 5d ago
+
+---
+
+**[Unitree’s G1+ Is Here — $15,000 Robot With 6 Major Upgrades](https://www.youtube.com/watch?v=8bEvQj9sSmU)**
+
+The new G1+ is stronger, sees more, hears better, and can run longer. But the hardware is only half the story. Unitree also ...
+
+📺 The AI Nexus
+
+👁️ 11K • 👍 105 • 💬 11 • ⏱️ 20:57 • 2d ago
+
+---
+
+**[NEW Nekton Spider Robot Is Here... INFINITE Shield Ability + NEW Mesmer Weapons | War Robots](https://www.youtube.com/watch?v=ZDAjuhIRxpU)**
+
+Use My Link For The WR Store https://wr.my.games/PREDATORWR New Spider Nekton robot. We have alot of new gear on the ...
 
 📺 PREDATOR WR
 
-👁️ 10K • 👍 230 • 💬 39 • ⏱️ 15:06 • 11h ago
+👁️ 24K • 👍 402 • 💬 150 • ⏱️ 15:58 • 1d ago
 
 ---
 
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
 
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
 
-📺 ejunky66
+📺 Frankie Lapenna
 
-👁️ 479K • 👍 5K • 💬 683 • ⏱️ 1:00 • 3d ago
-
----
-
-**[SERIOUSLY?? ANOTHER New Robot: NEKTON [War Robots Test Server]](https://www.youtube.com/watch?v=zs_kgMoYaG4)**
-
-War Robots Test Server Gameplay: NEW Robot NEKTON and new weapons and drone and battleship. My War Robots Creator ...
-
-📺 Manni-Gaming
-
-👁️ 27K • 👍 663 • 💬 149 • ⏱️ 14:59 • 1d ago
-
----
-
-**[4K Djedi Robot Entered the Great Pyramid&#39;s Sealed Shaft - Revealing NEVER Before SEEN Footage](https://www.youtube.com/watch?v=pvANZ5xuBQU)**
-
-The Djedi robot explored a sealed shaft inside the Great Pyramid, capturing the first images of a mysterious second barrier.
-
-📺 IMPOSSIBLE ARCHIVES
-
-👁️ 526K • 👍 3K • 💬 206 • ⏱️ 11:34 • 1d ago
+👁️ 211K • 👍 20K • 💬 2K • ⏱️ 0:45 • 6h ago
 
 ---
 
