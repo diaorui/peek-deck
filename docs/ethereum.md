@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-20T23:21:56.590050+00:00'
+updated: '2026-09-21T01:23:05.224320+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 20, 2026 at 23:21 UTC  
+**Last Updated:** September 21, 2026 at 01:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,602.93
+### $2,688.01
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +5.1%  
-**30d:** +9.1%  
-**90d:** +58.6%  
-**1y:** -40.5%  
+**24h:** +4.9%  
+**7d:** +12.3%  
+**30d:** +9.4%  
+**90d:** +66.2%  
+**1y:** -35.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $320.01B
+**Market Cap:** $328.50B
 Rank #2
 
 **Circulating Supply:** 122,064,744 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--47.0%
+-45.6%
 
 **All-Time Low:** $0.43
-+605386.6%
++621435.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -168,11 +168,19 @@ BeInCrypto • 1d ago
 
 ---
 
+**[Ethereum breaks $2,560 resistance, eyes $2,760 and $3,000 as institutional inflows top $10B in Q3.](https://pluang.com/en/news-feed/harga-ethereum-tembus-2560-penarikan-binance-eth-tertinggi-3-tahun)**
+
+Ethereum price surged past its $2,550–$2,575 resistance zone on September 20, now using this level as support. The token climbed over 75% from $1,510 to $2,650 in three months, marking its second-best quarterly gain on record. Institutional ETF inflows exceeded $10 billion in Q3, signaling strong demand, while Binance saw a three-year high in ETH withdrawals, indicating accumulation and long-term holding. Traders now target $2,760 and $3,000, with some predicting even higher prices by year-end.
+
+Pluang • 1h ago
+
+---
+
 **[Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule](https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html)**
 
 Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -180,7 +188,7 @@ Yahoo Finance • 7h ago
 
 As of September 19, 2026, Ethereum price is at $2,570, around $100 below the crucial $2,672 mark. With the weekly candle set to close on September 20, traders are closely monitoring this threshold.This level corresponds to a Fibonacci retracement of Ethereum’s decline from its October 2025 peak of…
 
-TradingView • 13h ago
+TradingView • 15h ago
 
 ---
 
@@ -188,31 +196,15 @@ TradingView • 13h ago
 
 MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys...
 
-markets.businessinsider.com • 4h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
-**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
+**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.fool.com/investing/2026/09/20/is-this-cryptocurrency-still-a-millionaire-maker/)**
 
-Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
+Ethereum's days of outrageous upside volatility are probably not coming back, but that shouldn't dissuade anyone from buying it.
 
-The Motley Fool • 2d ago
-
----
-
-**[Is This Cryptocurrency Still a Millionaire Maker?](https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4701979/is-this-cryptocurrency-still-a-millionaire-maker/)**
-
-Detailed price information for Nvidia Corp (NVDA-Q) from The Globe and Mail including charting and trades.
-
-The Globe and Mail • 6h ago
-
----
-
-**[Solana vs Ethereum: Who Is Winning the On-Chain Race?](https://coinpedia.org/research-report/solana-vs-ethereum-who-is-winning-the-on-chain-race/)**
-
-The race for on-chain dominance is entering a new phase as Solana challenges Ethereum across the metrics that drive blockchain value. Ethereum’s dominance
-
-Coinpedia • 1d ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -228,7 +220,13 @@ CryptoSlate • 3d ago
 
 Ethereum’s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500.
 
-AMBCrypto • 6h ago
+AMBCrypto • 8h ago
+
+---
+
+**[Bitcoin, Ethereum End Volatile Week Higher As Crypto Rebounds From Fed, Regulatory Jolt](https://www.businesstoday.com.my/2026/09/20/bitcoin-ethereum-end-volatile-week-higher-as-crypto-rebounds-from-fed-regulatory-jolt/)**
+
+BusinessToday Malaysia • 23h ago
 
 ---
 
@@ -242,7 +240,7 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 17K • 👍 432 • 💬 51 • ⏱️ 1:12 • 11h ago
+👁️ 24K • 👍 509 • 💬 57 • ⏱️ 1:12 • 13h ago
 
 ---
 
@@ -252,7 +250,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 179 • 💬 9 • ⏱️ 19:53 • 7h ago
+👁️ 8K • 👍 256 • 💬 22 • ⏱️ 19:53 • 9h ago
+
+---
+
+**[I Closed My ETH Long For +57%.. Here&#39;s My Re-Entry](https://www.youtube.com/watch?v=mlfmGFQzRPU)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 443 • 👍 15 • 💬 39 • ⏱️ 4:08 • 4h ago
 
 ---
 
@@ -262,7 +270,7 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 2K • 💬 176 • ⏱️ 10:49 • 1d ago
+👁️ 81K • 👍 2K • 💬 173 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -272,57 +280,17 @@ BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 25K • 👍 529 • 💬 135 • ⏱️ 20:15 • 21h ago
+👁️ 26K • 👍 537 • 💬 145 • ⏱️ 20:15 • 23h ago
 
 ---
 
-**[Kevin O&#39;Leary: The Next Crypto Bull Market Is Here (How To Allocate)](https://www.youtube.com/watch?v=_KzAXoQYwaU)**
+**[KRYPTO: Rally noch lange nicht vorbei? 🤯 Bitcoin XRP Avalanche AVAX Ethereum Analyse](https://www.youtube.com/watch?v=1gJrKs3HLvA)**
 
-Kevin O'Leary joins us in NYC for an interview about his allocation and views on the digital asset market. Digital assets becoming ...
+Werde Teil unserer Community & bring dein Trading auf das nächste Level!* https://trading-kompass.de Kostenlos ...
 
-📺 The Rollup
+📺 TradingKompass
 
-👁️ 12K • 👍 196 • 💬 121 • ⏱️ 13:26 • 1d ago
-
----
-
-**[CRUCIAL LEVEL FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=AyIxrMiQJxk)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:53 • 13h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=SviTlNVzaTM)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 2K • 👍 69 • ⏱️ 7:46 • 8h ago
-
----
-
-**[Crypto Is About To Get CRAZY… You’ve Been Warned](https://www.youtube.com/watch?v=tqW1GIOAfSQ)**
-
-SEC Chair Paul Atkins just released the crypto BULLS!! (Fully Explained) ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 154K • 👍 4K • 💬 262 • ⏱️ 12:43 • 3d ago
-
----
-
-**[Can Ethereum Outperform Bitcoin This Cycle?](https://www.youtube.com/watch?v=IxujnS4gfh0)**
-
-Can Ethereum outperform Bitcoin this cycle? From this price a 3x is rough. If Bitcoin does 3x to 220k I think Ethereum lands above ...
-
-📺 VirtualBacon
-
-👁️ 15K • 👍 200 • 💬 22 • ⏱️ 1:07 • 2d ago
+👁️ 8K • 👍 282 • 💬 48 • ⏱️ 18:56 • 10h ago
 
 ---
 
@@ -332,7 +300,37 @@ Ethereum is doing something Bitcoin is not: it has already broken above its Apri
 
 📺 More Crypto Online
 
-👁️ 13K • 👍 339 • 💬 23 • ⏱️ 9:40 • 1d ago
+👁️ 13K • 👍 343 • 💬 23 • ⏱️ 9:40 • 1d ago
+
+---
+
+**[Este es el precio al que llegará Ethereum en el siguiente mercado alcista](https://www.youtube.com/watch?v=-ayfFgBH-9o)**
+
+Ethereum no es solo la segunda criptomoneda por capitalización, es el activo al que el dinero institucional acude cuando Bitcoin ...
+
+📺 Valentín Santamaría
+
+👁️ 4K • 👍 167 • 💬 30 • ⏱️ 23:43 • 15h ago
+
+---
+
+**[Ethereum Just Broke Out. Is It A TRAP?? (My Trade)](https://www.youtube.com/watch?v=uBH_WkIIoJ4)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 3K • 👍 22 • 💬 58 • ⏱️ 3:44 • 1d ago
+
+---
+
+**[Kevin O&#39;Leary: The Next Crypto Bull Market Is Here (How To Allocate)](https://www.youtube.com/watch?v=_KzAXoQYwaU)**
+
+Kevin O'Leary joins us in NYC for an interview about his allocation and views on the digital asset market. Digital assets becoming ...
+
+📺 The Rollup
+
+👁️ 13K • 👍 205 • 💬 121 • ⏱️ 13:26 • 1d ago
 
 ---
 
