@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50TVpFbHFkWkJyVkNRV1l3T0VTb3V4YmFhOWZsd19nNEYwV0ZsVURHeElOMG8zYVNRc0NEYUxMYkNua3ozeXBGTTdoRlY5amo1b3dIU3o3TkxUQ0VHRnZ1STYta0FkM3NxZ0dob2Npdw?oc=5",
+      "pub_date": 1790011939.0,
+      "article_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/11yqmSO7D1dfYveBnOdmJt/e451277f37f82f51d6d20f2b86826590/advisory-group-on-mathematics-and-artificial-intelligence-seo.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
       "headline": "The A.I. Party House Where Networking Has a Dark Side",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,34 +25,74 @@
       "description": null
     },
     {
-      "headline": "Boomers love making AI images of their grandkids. Their millennial children see a privacy nightmare.",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3BIMFFab2c3bHVtT2tKOU1SLWs2b1ctaVZrMVppT01xbnMtWTBVb0owS2pPQ2kwY2Z5SE5pYmdaenhWeVVEWUt3S29oY3JZUXphYmtpeXFZcW02OWRiRThEay1fOGtUdjNhVHV0VlhJQld1YXp0MDkxR1RwT3BVVllrYUM0VVVRQUZaY2hhb24?oc=5",
-      "pub_date": 1789978276.0,
-      "article_url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
-      "image": "https://i.insider.com/6aad73b316256d3825fdf8ea?width=1200&format=jpeg",
-      "description": "Some grandparents think AI images of their grandkids are adorable. Millennial parents worry about privacy, consent, and where the photos may end up."
+      "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
+      "pub_date": 1789492028.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
     },
     {
-      "headline": "Multiple AI companies sued over allegedly coordinating slowdown agreement",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zZUtnTHJtUVEyZTFzVUk1UHlMV3lvTWpzOWRfdlJjR1BxcFY1dV90NjB1NlRLUy0xc1g4UzkybFQ0OEtiNllLeEEwa2wzaW1vTWkxdl9R?oc=5",
-      "pub_date": 1790016206.0,
-      "article_url": "https://www.foxnews.com/video/6405377951112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c37d6ed-e4a6-4093-9d03-ea2d0aee5a78/de59821f-8cac-4182-b981-3a54815f06a2/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Fox News contributor and constitutional law attorney Jonathan Turley joins 'America Reports' to discuss allegations that OpenAI, Google, Anthropic and SpaceXAI colluded to slow down artificial intelligence development."
+      "headline": "AI regulation debate heats up",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfSHp3aHg5bk14YXlSWWdCX25OS1RIUXJjSFBjUUx6MG9ITHoxNnp4aFo5UlBaWV9ycWJlSFd6dExKVlhYelVKY19Cckk5bW1WQTE5SlB2eTZDUlNIYWZZbDI4TkJmNXN4alNsVEFTOXFhQWVTWEdCTzFYTnI?oc=5",
+      "pub_date": 1790027643.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/21/ai-regulation-debate-heats-up.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365924-17900274881790027485-48524537621-1080pnbcnews.jpg?v=1790027487&w=1920&h=1080",
+      "description": "CNBC's Kate Rooney joins 'Fast Money' to talk the state of the AI regulation conversation and Pres. Trump pushes back on the government getting involved for a second time."
     },
     {
-      "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
-      "pub_date": 1789911420.0,
-      "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
-      "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
+      "headline": "Napster Developing AI Teacher Clones to Provide Personalized Homework Support",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzNlQkZ1VDZEQk5QT3hKXzcwTnR1Sk5CN2tmU0tya2dETkYtejE0clRIRnI2aVg5azdKQWxmbW1FdnNDcVpreGZWMGozMl9BQndwamhMaVFCTm5MU2JWZXZKTTJMckYyRy1iVU5ZQ1NvNm9TMGpqeFJfS3l5ejdfWnlCMkJVX1BibFV0XzNWeFpfNnVqM2pESDByTQ?oc=5",
+      "pub_date": 1790028065.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/napster-developing-ai-teacher-clones-education/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Napster-Learn.jpg",
+      "description": "The company, once a file-sharing app and then a streaming service, is teaming up with an educational organization in the Middle East to create virtual replicas of teachers."
+    },
+    {
+      "headline": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5",
+      "pub_date": 1790025681.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306883-1778770220615-108306883-1778759349633-gettyimages-2275560543-CHINA-US-DIPLOMACY.jpg?v=1790028089&w=1920&h=1080",
+      "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins."
+    },
+    {
+      "headline": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREVDR3ZKSlFTYzNVRFgxWENVN3RSaGpLY21Ta3ZBWmpVd2Zvb2FjOFVDd2pyeVA4WWhsSVl3WVRHUjdvSG5QdEZna0o4cmpXREdRRVZVTk8zNzlEYWtaZExKZmxMRllFQUJ4V05ydXRNOE9ESl81RzgwdFBJdnMzb2NGaFdDSXJoQ1UwU0ZiUDh0dHBoVll0ZXdJcUVfekw0a1hZZm8zSzh5NWtuWktMMVNqODhMUUFGeUpfUjVMMXJqamJBMGw1cUg1LXZwVXZLVmRBNA?oc=5",
+      "pub_date": 1789984800.0,
+      "article_url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/189e5eb6f1fc0bd28e3873374ffd83a1c68dc7d9559327648a5a2cf1f944e4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F401f6232-d687-4703-ab56-5f7bd62c2aad_e41666f8780ea00245798cfc102ef67809c1dd0078a8a23b84952382e2eb8aad.jpg",
+      "description": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September."
+    },
+    {
+      "headline": "AI fears hit Trump-Xi agenda",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVljb0lSVFVJYmNaMjVfWHY3YTY4M0M5YjJVaVh0OXIyLTZNaFlJTlZ5UmFSeV9kZkR2ZW8wOVFhYmR1Q0RDUDFaM1hOczVCTjFhdC1kakpDZjNTSDNJaFlnemo2N09WaVFnNUZNUnF5N3EyVFRaWVh5UlhtQjd2SE44VGtXa2vSAYwBQVVfeXFMTlVQVThRSUQyX1dlNXJiR1IxMUtaNU9xQ3h5aDM5MTBIMTl0T1ZvOTJQVFhQWFUtX291QmNQemUyQWw1SkcxSU5XbG5IMWo1VmxHaHpyWmd6cE8wRm1mRjdzMDEyNVBldGFjRkdVVjl1Z0dHYnp1SGFTTnJyZTJFenVHaWNvUzNFa01vSTQ?oc=5",
+      "pub_date": 1790026380.0,
+      "article_url": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTJuMm1GdmJFb1ZnQ1VwdDNneE1iQjFzNXk1YXhrMnk5ZmtFUkl5aUN3eDFNekJyXzBtVUtLNDdsdmphTWc4TG82TldlNnphRVprUkx2cVNZZ0tkQVFrUVBEUGxFdkdiN0l5QnRXRXo3YTFmZTlfS0F4VVpDRVE0THo5N2VPUFlnR3kyc1h1RzRIQm5CaW13QnJIc1hheDlsRTJlZ3dUcTZRaXFyaE1v0gG0AUFVX3lxTE1TQnVMcVh1TFVrSXdVM043Ulc4amZrcnNZNGh5M3JnZVFXendKUjBYb2lVVTdoWloxMVZKQUg2elN3NXFLQzhLV3V5NG1lSngwalRDclNUaUhTQkcwNm9pMmJ2ZDJyd1l1MThNdVhJdmZDOXFoQ3g1WWoxSm02Uk1GWEhGc2RtZXdVZlJGcENJTjhmZFRsYWF0TGdPMUZaU1pCWEtZZE5aVGdrMm5NNW5aZGRseQ?oc=5",
+      "pub_date": 1790009400.0,
+      "article_url": "https://www.foxbusiness.com/technology/nvidias-jensen-huang-rejects-ai-doomsday-fears-2030-not-going-end-world",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jensen-huang-nvidia-ceo-g20.jpg?ve=1&tl=1",
+      "description": "Nvidia CEO Jensen Huang called AI doomsday predictions \"irresponsible\" and not grounded in science, urging existing laws over new AI regulation."
     },
     {
       "headline": "Capitol agenda: Nvidia\u2019s clout tested as AI debate shifts",
@@ -53,58 +103,8 @@
       "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Jensen Huang Just Slammed Doomers With His Own Prediction About the AI Apocalypse",
-      "source": "inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVNb0w3aVkwY3RrVW5jNXpLUjVhVEJGV3hQUThsWF83X2QzLVZZMmREa0N0bmZ0RFVlZEpuS1doSkE3MVpadFJBbzhPa3lNQmo0VjJya0NGb2dWTnB1X3VSQmVOQzNISnpyTTZHRnJXaVdWcThjYUFSWmw4Z2dzd0lRS1hoV251ZThJYTdGdVduWHBFdmREbjI1SXd5cnlLQmd0dklWcE10S2VkeGVTUHBsbjNjaU41ZFB0Vw?oc=5",
-      "pub_date": 1790016975.0,
-      "article_url": "https://www.inc.com/aaron-mok/jensen-huang-just-slammed-doomers-with-his-own-prediction-about-the-ai-apocalypse/91408329",
-      "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/09/jensen-huang-ai-inc-2294936867.jpg",
-      "description": "What are the odds that the world ends by 2030? The Nvidia CEO has a very specific number in mind."
-    },
-    {
-      "headline": "Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4enUtX0hVejdOalhsVU1ZWjh0R3N2dzZFOFdIUFBXU29XQkRLaVlOTk0zeUx6NXg1cFFtUUxOd1dHSnVlNFZXMUJCOGFONzRTWThsa3JuNDBMMjU5RzRHelhtaG1rX2pXUzEtUzhzaWJHT0xfSGo4?oc=5",
-      "pub_date": 1790010060.0,
-      "article_url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI joins call for US-led global AI standards",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRWNENaUUpTOTN2dzJ2WWgzdm5lNms5anV1T2lmRTI2aF9iUkt5WE5OMFE5QW1ZSzhhYUR3QUpOWDcwOWVSRmVLcVJONkZjR19VclVLZXBKRTdfeUd3SDBybGplQVV6SHZpZjVvYmFvR2Q2RUpIbnpMUFgtYkJEcFVCdnA?oc=5",
-      "pub_date": 1790011474.0,
-      "article_url": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c2996d-d44a-4956-a7a3-0fa3fe0f34ee.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns"
-    },
-    {
-      "headline": "OpenAI asks Washington to lead a global AI standards push",
-      "source": "The Next Web",
-      "source_url": "https://thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zV2VGOHl1cE9uTWtONzhiMHpDNjFqSlJrRXkxaGwzSlU4NHlPWXhRU2RMNkhLRlVDV192aG91MXI4NGUtSTl4c04tSXR3WndZWG1Cb1AxRGQzdkNGSm0zbG9hZlA5UVJJb21J?oc=5",
-      "pub_date": 1790016564.0,
-      "article_url": "https://thenextweb.com/news/openai-global-ai-standards-push",
-      "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.jpg",
-      "description": "OpenAI is urging Washington to lead an international push on AI standards, starting with incident reporting. The EU AI Act has required that since 2025."
-    },
-    {
-      "headline": "Amazon blocks Meta\u2019s Muse AI assistant in new standoff over agentic shopping",
-      "source": "GeekWire",
-      "source_url": "https://www.geekwire.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1NIM3JxN1RPdlktMDMwTmlZcnk5MFV4b1loLVBvc3pfUElYT3ZhQ3VLZmVod3ZxeDBVTXNkWkhybWJTZE05YzdkSWpOMHpwOVlYbWJYNndSSWRkRlFQSmNsM0F2WWgzZTFLNjFuMHNhY2d3akstanhNRTlOSEZvQVV2alFiTUE4MnBHRlJjdy12RXhwclJXVTFTZWV2R1ZrUHhUdlZuZmVtdw?oc=5",
-      "pub_date": 1789974214.0,
-      "article_url": "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/",
-      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png",
-      "description": "Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It's part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T19:06:35.367774+00:00"
+  "fetched_at": "2026-09-21T22:44:10.599397+00:00"
 }
