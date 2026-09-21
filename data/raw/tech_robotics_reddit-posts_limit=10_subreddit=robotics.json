@@ -2,115 +2,115 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "I built a robot that can make daisy chains",
-      "author": "laughgh",
-      "url": "https://www.reddit.com/r/robotics/comments/1wf9orx/i_built_a_robot_that_can_make_daisy_chains/",
-      "published": 1789310866.0,
-      "thumbnail": "https://external-preview.redd.it/eTRyMWd2NXB2YXBoMSeio4emqPR5hldZlqftBfZcI2BA9GfCh9cRLHfzTy0X.png?width=640&crop=smart&auto=webp&s=8e1b16b60bc716d30c12c39bfa48281b59dad3ef",
+      "title": "Servo Motor finger mechanism",
+      "author": "DisastrousHedgehog5",
+      "url": "https://www.reddit.com/r/robotics/comments/1wlw0sr/servo_motor_finger_mechanism/",
+      "published": 1789946091.0,
+      "thumbnail": "https://external-preview.redd.it/Mzk4ejBxZG9jcnFoMXt3ScPKnRTewjUz9MXf321f6HfiEayrlxUX2nTFEWX9.jpeg?width=320&crop=smart&auto=webp&s=f1012ffc125da2fe4a5d25a546b10f4ab7fd6115",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "This was my final project for my mechatronics degree at the University of Glasgow which I thought you guys might appreciate. It's made up of two identical xz gantries, each with custom 3 dof maniplulators. There are also 3 sub systems arranged around the maniplulators, used for feeding, splitting, and treading the daisies. A brief write up and the full report can be found on my website JudeOtis.me/projects/Daisy Edit: made link clickable"
+      "description": "Link \ud83d\udd17 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism"
     },
     {
-      "title": "Need help in Inverse Kinematics for my Quadraupod",
-      "author": "Disco-da-gama",
-      "url": "https://www.reddit.com/r/robotics/comments/1wfzqcn/need_help_in_inverse_kinematics_for_my_quadraupod/",
-      "published": 1789382002.0,
-      "thumbnail": "https://preview.redd.it/y8irxxadrgph1.jpg?width=140&height=78&auto=webp&s=3b7afea594aaf5e388c0b171f0b30c66e90b7925",
+      "title": "[Showcase] The drone flies a 3D building complex with no map, no GNSS, no compass and no lidar: two cameras do both the seeing and the localizing (ROS 2, PX4, Gazebo, CUDA)",
+      "author": "formiat",
+      "url": "https://www.reddit.com/r/robotics/comments/1wlsrqn/showcase_the_drone_flies_a_3d_building_complex/",
+      "published": 1789937991.0,
+      "thumbnail": "https://preview.redd.it/hth9tn6foqqh1.gif?width=640&crop=smart&s=652d1857895d9ba25ccf6c06093608570480a4a2",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I am have made quadraupod and i need help is figure out the Inverse kinematics to make it walk and do other emotes. I watched several youtube videos and tried. In the videos they draw a triangle and used trigonometric formulas to find out the angles based on the known length. I tried it and make the valid formulas according to the dimensions based on the CAD I made. But when I try to give it the coordinates it does not work according to what I wanted. I currently trying to experiment with one leg. Also the angles values comes out in negative thus servo concludes it as positive. And also I feel my approach is wrong but I am not getting what I am missing. So if someone can guide me through this it would alot helpfull. Thanks."
+      "description": "(GIF: an industrial room 58 m short of the goal. Left is Gazebo, the drone among pipes and beams; right is RViz, where pink is the obstacle memory, the cyan fan is the current stereo depth return, orange is the committed route and the magenta sphere is the goal. In these nine seconds the speed law does its whole job: the drone crawls at 0.2 m/s where the pair resolves little, runs up to 2.5 m/s where it resolves far enough, and is back at 0.1 m/s before the next corner.) Flight video: https://www.youtube.com/watch?v=OUuAj2WNKzs Two weeks ago I posted the same location flown with a 3D lidar. The lidar is gone now, and so is GNSS and the magnetometer. The airframe carries a forward stereo pair (1280 x 960, 120 degrees, 0.20 m baseline, 7.5 Hz) and two 8 x 8 time-of-flight sensors looking up and down. That pair does both jobs: stereo depth becomes the obstacle memory the planner searches, and a stereo MSCKF on the same images is the position and heading PX4 flies on, in place of satellites and compass. So: a start, a goal, a multi-storey building with shafts and openings at different altitudes, and nothing but two cameras and an IMU. The location is the DARPA Subterranean Challenge \"Urban Circuit Practice 01\" world published by Open Robotics on Gazebo Fuel (CC BY 4.0). Numbers from the release, five consecutive flights on one commit with nothing changed between them: 410 to 629 m of path, 1.48 to 1.79 m/s mean speed with every hold and replan counted, no collisions. Five more on the same commit with the lidar instead, for comparison: 2.42 to 2.67 m/s. Cameras are slower because confident stereo depth reaches 6.4 m against the lidar's 35, and the drone only flies as fast as it can stop inside the range the sensor is guaranteed to have resolved. The check I am most pleased with is a new one. The mission monitor decides the drone arrived by asking the drone where it thinks it is, and an odometry drifts by metres, so it can arrive perfectly in its own coordinates while standing somewhere else. Every flight now fails unless the true position from the simulator is inside the 2.0 m capture radius at the moment the goal is acknowledged. Over the five camera flights the truth stood 0.47 to 1.42 m from the goal. What cost me the most flights was not the filter but the things around it: the autopilot resetting its clock synchronisation whenever the simulation ran below real time (about a second without navigation each time), the autopilot's gate on external odometry being tighter than the estimator's own corrections, and telling the filter the gyroscope was eighteen times noisier than it is, which let the noise of every visual update walk the one direction no camera can observe. Limitations, honestly: the drift has no bound (0.1 to 0.4 percent of the path), so a mission three times longer would miss the 2.0 m radius; it is one location and one start-goal pair; it is simulation only and not validated for a real aircraft; and the multi-vehicle missions have not been flown on cameras yet. MIT licensed. On a Linux host with Docker and an NVIDIA GPU, one script prepares a fresh clone (dev image, PX4 build, workspace, environment assets) and starts the flight: git clone https://github.com/formiat/px4-ros2-drone-nav.git cd px4-ros2-drone-nav ./scripts/bootstrap.sh https://github.com/formiat/px4-ros2-drone-nav Happy to answer anything, and I would like to hear from people who have flown a single camera pair as both the perception and the localization sensor: what broke first?"
     },
     {
-      "title": "Robotics community- we could really use your help",
-      "author": "North_Personality993",
-      "url": "https://www.reddit.com/r/robotics/comments/1wfvvm5/robotics_community_we_could_really_use_your_help/",
-      "published": 1789368140.0,
+      "title": "Watti update: the first follower-created animations running on the physical robot",
+      "author": "Ok_Stress3654",
+      "url": "https://www.reddit.com/r/robotics/comments/1wlsaih/watti_update_the_first_followercreated_animations/",
+      "published": 1789936886.0,
+      "thumbnail": "https://external-preview.redd.it/ODhrc2dkcmJscXFoMVzDo9TrASMxkym8QaAAXIXty_wlL-zovh9SC52kFJrc.png?width=320&crop=smart&auto=webp&s=61fd3afe06f49738552b7fe666b9dbc4ac958575",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Another small Watti update. I ran a very early closed test of Watti Studio. A few followers created animations directly from their phones and computers, and I manually transferred them to the physical robot. This was only the first validation of the idea. For the next closed test, I plan to connect Watti Studio directly to Watti and automate the entire pipeline - animation submission, queueing, playback, recording, and video delivery. Which animation is your favorite? Would you be interested in joining the next closed test? If you\u2019d like to learn more about Watti\u2019s architecture and the hardware I\u2019m using, the pre-release repository is available here: https://github.com/Nikolay-Tyulkin/Watti"
+    },
+    {
+      "title": "Designing my own adaptive gripper for a robotic arm in Siemens NX, looking for advice and measurements",
+      "author": "Apart-Librarian7925",
+      "url": "https://www.reddit.com/r/robotics/comments/1wmbbtn/designing_my_own_adaptive_gripper_for_a_robotic/",
+      "published": 1789993562.0,
+      "thumbnail": "https://preview.redd.it/uwuk79bv9vqh1.jpeg?width=640&crop=smart&auto=webp&s=f236d2c86fff65d09ae9f7e60ba47533263c6730",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!"
+    },
+    {
+      "title": "My goalkeeper bot",
+      "author": "Gabomfim",
+      "url": "https://www.reddit.com/r/robotics/comments/1wmbk4e/my_goalkeeper_bot/",
+      "published": 1789994159.0,
+      "thumbnail": "https://external-preview.redd.it/MHZuY3BoMG5idnFoMTc56q5Xs297wBLSWTAAgfhfC_Qc_ilR71fU4c5O81-J.jpeg?width=640&crop=smart&auto=webp&s=9a5a8076ba5661ab0ebe3f6b05f5834c3f96a520",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Before and after training"
+    },
+    {
+      "title": "Helical gear question",
+      "author": "Away-Park9677",
+      "url": "https://www.reddit.com/r/robotics/comments/1wm8ri6/helical_gear_question/",
+      "published": 1789985810.0,
+      "thumbnail": "https://preview.redd.it/4ahcx2ftmuqh1.jpeg?width=640&crop=smart&auto=webp&s=b667338c2f48f88e75453ae61d7644d0fbbbbdc9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How do I connect these Helical gears like this? It's being run by a RDS3115mg servo motor, and supposed to be a tilt up and down set up"
+    },
+    {
+      "title": "Help with regards to Installing ROS + MuJoCo on my Mac",
+      "author": "Regular_Trouble_5841",
+      "url": "https://www.reddit.com/r/robotics/comments/1wm3o51/help_with_regards_to_installing_ros_mujoco_on_my/",
+      "published": 1789968129.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey all! We\u2019re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24\u201325. We\u2019ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we\u2019re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!"
+      "description": "For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo runs natively on Mac with full graphics performance. The simulation quality was insane when I tried messing around with real world robots like Spot from Boston Dynamics. But for some projects I need ROS to work with and I tried with my Parallels VM and the performance in terms of graphics was not that great because it used the CPU for rendering. I tried using Robostack and the performance of basic ROS itself hit a lot of problems. Any workarounds or possible solutions? PS: I don\u2019t want answers like get a PC or something because that ain\u2019t really viable option for me"
     },
     {
-      "title": "Quadruped robot WIP",
-      "author": "wotcher",
-      "url": "https://www.reddit.com/r/robotics/comments/1wf5a7w/quadruped_robot_wip/",
-      "published": 1789299305.0,
-      "thumbnail": "https://preview.redd.it/4wrt6945x9ph1.png?width=140&height=87&auto=webp&s=eec7bed122a58fa694d0197055fdad2ec91b428e",
+      "title": "Same moving carriage for both Stepper motors",
+      "author": "Responsible_Movie451",
+      "url": "https://www.reddit.com/r/robotics/comments/1wm63tm/same_moving_carriage_for_both_stepper_motors/",
+      "published": 1789976426.0,
+      "thumbnail": "https://preview.redd.it/x5k5ofqwutqh1.jpeg?width=640&crop=smart&auto=webp&s=fc3ad8a4fdb583624297cf06cf93184b38eeb63a",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "https://reddit.com/link/1wf5a7w/video/qurlmk2yw9ph1/player A quadruped robot that I'm working on. Locomotion looks good in simulation, but it's still theoretical, I really wonder how well it would walk in reality."
+      "description": "Rack-and-pinion for the Linear carriage. With another Stepper motor for Pan movement mounted on the same carriage. Let's test it."
     },
     {
-      "title": "Forget Robot Workers, This Company Wants to Build Soldiers - Foundation has secured a $24 million contract with the Pentagon",
-      "author": "antihostile",
-      "url": "https://www.reddit.com/r/robotics/comments/1wg34wv/forget_robot_workers_this_company_wants_to_build/",
-      "published": 1789391717.0,
-      "thumbnail": null,
-      "external_url": "https://www.wsj.com/tech/forget-robot-workers-this-company-wants-to-build-soldiers-48266698",
-      "site_name": "wsj.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Demo of the AmazingHand (Open-Hardware 3D-Printed Robot Hand designed by...",
-      "author": "Mr-c4t",
-      "url": "https://www.reddit.com/r/robotics/comments/1wfi1jb/demo_of_the_amazinghand_openhardware_3dprinted/",
-      "published": 1789329666.0,
-      "thumbnail": "https://external-preview.redd.it/Da4ryba5Ec3hg8rvzCHrGCsDnXgf6-xojACvflQUUEc.jpeg?width=320&crop=smart&auto=webp&s=d14a68f0fc59fb7e939f59102b6b0ae0286d9e41",
-      "external_url": "https://youtube.com/shorts/Ijwhr7VIJj8?si=yeVdUj39NEkPR0CY",
-      "site_name": "YouTube",
-      "favicon": "https://www.youtube.com/s/desktop/e60429bd/img/favicon.ico",
-      "description": "From Reachy, to more recently Reachy Mini and MicroDuck, Pollen Robotics has been pushing open-source and open-hardware robotics forward. The Amazing Hand is another example of their work: an open-hardware, 3D-printed robotic hand designed for precise and expressive movements. Here\u2019s a quick demo of the hand in action. \ud83e\udd16\ud83d\udd90\ufe0f https://github.com/pollen-robotics/AmazingHand/"
-    },
-    {
-      "title": "The ARMOR Model Gallery: A Curated Set of Ready-to-Simulate URDF Models",
-      "author": "DC-Engineer-dot-com",
-      "url": "https://www.reddit.com/r/robotics/comments/1wfzu50/the_armor_model_gallery_a_curated_set_of/",
-      "published": 1789382368.0,
-      "thumbnail": "https://external-preview.redd.it/wvYZQCxzCws4V17EQLxBx_nUYvqOfFtzVPRwKF61D68.png?width=216&crop=smart&auto=webp&s=a0e1ede7f8c5be8ed20459cdf696e7f92f97d84f",
-      "external_url": "https://armor.dc-engineer.com/gallery/",
-      "site_name": "armor.dc-engineer.com",
-      "favicon": "https://armor.dc-engineer.com/images/favicon-32.png",
-      "description": "I\u2019m the developer of ARMOR, a robot simulation app for iPhone and Mac that features a native URDF viewer and MuJoCo simulation. A few weeks ago I started building a gallery of robots that are ready-to-import in just a couple of taps. https://armor.dc-engineer.com/gallery/ Giving credit where due, all of the gallery entries link directly back to the source. The gallery acts as a showcase, with thumbnails and descriptions, and embeds the instructions that the app uses to download and assemble the models. The link is to a post I published to the blog this morning, with a video, and a few more details. I\u2019ve been leaning on a lot of major robot vendors for my URDF source repositories. I would like to add more indie projects, if you\u2019ve got one, let me know and I would be glad to showcase it in the gallery!"
-    },
-    {
-      "title": "Looking for ideas on Human-Robot Interaction in Social Navigation",
-      "author": "Sufficient-Income-53",
-      "url": "https://www.reddit.com/r/robotics/comments/1wfxrz7/looking_for_ideas_on_humanrobot_interaction_in/",
-      "published": 1789375027.0,
-      "thumbnail": null,
+      "title": "My first-ever Fusion 360 project is a pan-tilt camera",
+      "author": "Away-Park9677",
+      "url": "https://www.reddit.com/r/robotics/comments/1wlddf9/my_firstever_fusion_360_project_is_a_pantilt/",
+      "published": 1789899636.0,
+      "thumbnail": "https://preview.redd.it/lay2vlbkinqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=392a6dce87b4eda73fb1c35dff79944277dec607",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Hey everyone! \u200bI recently finished school for automation while working as a scaffolder, and I decided to dive headfirst into learning CAD. This auto-tracking pan-tilt camera assembly is my very first design in Fusion 360! \u200bIt took 6 revisions to get here, but V1.6 printed out with an amazingly snug press-fit\u2014everything fits together smoothly with zero mechanical slop. Current Hardware & Next Steps: Right now, it runs on an ESP32-S3 Sense board for initial testing, but the rear compartment is sized with extra volume so I can upgrade to a Raspberry Pi for real-time edge-AI / YOLO object tracking down the road. Would love to hear your thoughts, feedback, or suggestions for improving future revisions!"
     },
     {
-      "title": "Open source acoustic drone detector I built over one month. 91mm, four MEMS mics on an ESP32-S3, nine units now in the field",
-      "author": "ComfortableLab1235",
-      "url": "https://www.reddit.com/r/robotics/comments/1weuokw/open_source_acoustic_drone_detector_i_built_over/",
-      "published": 1789264405.0,
-      "thumbnail": "https://preview.redd.it/ukn1uy9617ph1.jpg?width=140&height=105&auto=webp&s=7f9f1d957b0178b9d1fd44479427fbd027f20df7",
+      "title": "Building an optical sorter for potato harvest",
+      "author": "Revolutionary-Cry431",
+      "url": "https://www.reddit.com/r/robotics/comments/1wlgx3p/building_an_optical_sorter_for_potato_harvest/",
+      "published": 1789910381.0,
+      "thumbnail": "https://preview.redd.it/arpbeh76doqh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=91a3240b32076b31effb796f4c2ca8eccdad6ad5",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About \u00a350 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!"
-    },
-    {
-      "title": "Essentials in robotics co-working space???",
-      "author": "Guava-Java-",
-      "url": "https://www.reddit.com/r/robotics/comments/1wf8g3e/essentials_in_robotics_coworking_space/",
-      "published": 1789308008.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm creating co-working space within the industry of robotics in my native country. And before we settle on an office space, I want to hear what you (as robotics engineers) would expect from such a place? I have probed several people, and have heard the importance of general tools, such as soldering stations, 3d printers, and smaller open spaces for testing. As well as access to services, (welding, woodworking, etc.) which could facilitate quicker prototyping. Do you guys agree with the above? And would you have any others concrete features which you would expect? Absolute essentials ^ Best regards, and thanks in advance :D"
+      "description": "Hello all, I\u2019m a farmer from the Netherlands and I am interested in robotics. I am starting to work on a project that I would like to get feedback on. During the potato harvest a lot of soil clods come in with the potatoes. At this moment, the only reliable way for me to remove them before the potatoes go into storage is with people standing alongside a conveyor belt picking them out. I would like to see if I can automate that process with a machine that I can build myself. Since tools like ChatGPT and Claude became available, I have developed a habit of thinking: \u201cHow hard can it be? I\u2019ll just build it myself.\u201d. This approach has the danger of discovering halfway through a project that there is an entire layer of complexity that I didn\u2019t even know existed. So, before I start buying cameras, pneumatic components and machines, I would like a reality check from people who know more about robotics than I do. Current solutions There are commercial optical sorting machines that can already do what I need. For example: Flikweert Divider Select https://flikweertvision.com/nl/machines/divider-select/ Downs Cropvision https://www.downs-fr.com/produits/downs-cropvision/ For my operation these machines are currently too expensive to financially justify. And I also think I only need a fraction of what these machines can do. There is also a much simpler machine for separating clods from potatoes This type of machine uses a steel roller. Potatoes and clods rebound from the roller with different trajectories because of their different physical properties. An adjustable divider then separates the two streams. Traditional clod separator https://www.youtube.com/watch?v=d_j7X2TJx3M This sounds like the solution to my problem, but I want to remove the clods directly during harvest, before the potatoes go into storage. At that point our clay clods can still be wet and soft. They do not behave sufficiently differently from a potato when they hit the steel roller, so the mechanical separation becomes much less reliable. The project The practical target would be to process 20\u201330 tons/hour over a 1-meter-wide belt. Potatoes and clods are generally up to around 70 mm. The system does not need to be perfect. Missing some clods is acceptable, and occasionally rejecting a potato together with a clod is also acceptable. I have divided the project into 3 parts: Mechanical hardware, vision/ejector hardware and software. I\u2019m most comfortable with the mechanical part of the project. The frame, conveyors, motors, mounting brackets, compressed air, etc., I can fabricate and modify this kind of equipment myself. Instead of building the whole mechanical machine from scratch, I\u2019m considering buying one of those traditional clod separators and using it as the mechanical base (see picture 1 and 2). The machine that I would like to use as a basis has an input conveyor belt that is 1-meter-wide and already has the two discharge paths I need. https://preview.redd.it/arpbeh76doqh1.jpg?width=300&format=pjpg&auto=webp&s=ec5facf2e86f447b6d739ba14e991870e438fcda Picture 1: Traditional clod separator https://preview.redd.it/j8h5nj76doqh1.jpg?width=301&format=pjpg&auto=webp&s=cb1e522703c2308bb275ffd781d39036e62039be Picture 2: Traditional clod separator My idea would be to remove the steel roller and replace it with a row of individually controlled pneumatic ejector fingers (see picture 3). Above the 1-meter input conveyor would install a camera with controlled lighting (see picture 4). https://preview.redd.it/kcc84h76doqh1.jpg?width=410&format=pjpg&auto=webp&s=d35e1872bcdcaaff61362c6c979f3757d2607cbc Picture 3: Pneumatic fingers https://preview.redd.it/tesjzf76doqh1.png?width=372&format=png&auto=webp&s=70e37da4a2e0a2941fcd255a93713410d3fa70da Picture 4: Cameras and controlled lighting The vision system needs to distinguish between a potato and a clod, determine its position on the belt, and eventually trigger the correct pneumatic finger when the clod reaches the end of the conveyor. Picture 5 shows roughly the view a camera would have of the conveyor belt with potatoes and clods. https://preview.redd.it/ztlx5h76doqh1.png?width=605&format=png&auto=webp&s=f8bc97d1485c329b4df4bd5d029a1efe13d7caad Picture 5: Conveyor belt with potatoes and clods When it comes to vision and ejector hardware I am thinking of using 1 or 2 global-shutter cameras mounted on top of the 1-meter feed conveyor in an enclosed environment with LED lighting and 20 pneumatic ejector fingers across the width of the conveyor belt. My questions would be: Are 1 or 2 global-shutter cameras a realistic starting point for this kind of application? What kind of cameras would you suggest? Would you build this from standard pneumatic cylinders and valves, or are there existing modules/components that would make much more sense for my situation? When it comes to the software, I\u2019m not a professional programmer so I would need to rely as much as possible on existing camera SDKs, vision frameworks and libraries rather than inventing everything from scratch. Conceptually I imagine the system as: Camera \u2192 detect potato/clod \u2192 determine position \u2192 track conveyor movement \u2192 select ejector finger(s) \u2192 fire at exactly the right moment. First a vision computer decides what needs to be rejected and where it is. Second, an encoder tracks how far the conveyor has moved. Lastly a PLC/Real-time controller handles the timing of the pneumatic valves. My questions would be: Is this realistically something I can build myself without professional programming experience, or am I underestimating how much expertise this requires? Does my concept make sense, or am I underestimating the integration and timing problem of the vision computer, encoder and PLC controller? How hard can this be? I understand very well that this is not a simple project and that is the reason why I\u2019m posting here first. I would like to get your feedback and insights on my ideas and project. Thank you!"
     }
   ],
-  "fetched_at": "2026-09-14T13:42:09.860273+00:00"
+  "fetched_at": "2026-09-21T13:41:01.962054+00:00"
 }

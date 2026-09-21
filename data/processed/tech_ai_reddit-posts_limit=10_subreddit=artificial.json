@@ -13,15 +13,15 @@
       "description": null
     },
     {
-      "title": "AI CAN be incredible for learning",
-      "author": "AkindaGood_programer",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
-      "published": 1789956820.0,
+      "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.",
+      "author": "PithyCyborg",
+      "url": "https://www.reddit.com/r/artificial/comments/1wm9aua/these_were_not_rogue_ai_escapes_just_sloppy/",
+      "published": 1789987537.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've seen a lot of hate that LLMs will always reduce people's ability to for themselves, which I think isn't true. You can use LLMs to learn extremely effectively, but the hard part is avoiding the thousands of ways to learn extremely ineffectively. I've been using LLMs to find gaps in my knowledge by asking me questions about my notes, and it's been working very well. It's not something a YouTube video can emulate because it's completely personalized to what YOU know. A teacher will always be better, but sometimes you want to learn something on your own, or don't want to pester the teacher for whatever reason. You can ask as many stupid questions as many times as you want. That's the power, personalization. Now, if used incorrectly, it can be very hurtful for your cognitive development, no doubting that. You just have to have self-control and use it as a tutor, not an answer machine. What are your thoughts on this?"
+      "description": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a single one of these sandboxes was actually air-gapped.* That's a crucial computer science fact. An air gapped sandbox would require *ZERO* cables and network interfaces. It would also require absolute physical isolation. What these labs actually built were soft software barriers. And then they left the doors unlocked. With some of the smartest AI on the planet. Lol. Of COURSE it escaped. 1. The OpenAI / Hugging Face \"Escape\": The sandbox was connected to OpenAI\u2019s internal network through a package proxy. The model didn't perform magic. It found a basic flaw in the proxy and walked right through the open door. 2. The Google Gemini \"Hack\": Testers left the model connected to the live internet during offensive tests. They then used a test domain name that overlapped with real companies. These were classic IT security failures. I'm talking about bad network segmentation, permissive egress rules, and relying on soft software barriers instead of true physical isolation. When you leave an active network interface open on a test bed, a model finding its way out is just sloppy cybersecurity. Your nerdy friend, Mike D"
     },
     {
       "title": "Professor: A \u201cmessy\u201d job is the defense against AI unemployment",
@@ -35,6 +35,17 @@
       "description": "An excerpt: \"Fundamentally, Garicano says there are two factors that determine whether a job is messy. The first is whether the tasks that make up the job are difficult to separate from one another. He cites sales as an example. There is a significant cognitive component involving understanding the customer and what product they are looking for. The salesperson can use AI to help with this, but it\u2019s still something they will also have to do themselves. \u201cIn order to meet the potential customer for dinner, I need to be able to think \u2018Oh, he wants this other thing\u2019, and then remember that we have this other product.\u201d The second factor that makes a job messy is whether it involves managing a complex network of human relationships. The book gives the example of a chief engineer at a factory who, among other things, has to hire new employees, negotiate with executives about implementing proposals, communicate with the municipality about obtaining building permits, and so on. By contrast, your job is vulnerable if it consists of a single isolated task where it is possible to objectively verify whether it has been completed correctly. Examples might include technical translation, drafting standard contracts, or simple bookkeeping tasks where the numbers have to add up.\""
     },
     {
+      "title": "Most ai productivity advice comes from people who don't have much actual work to do",
+      "author": "aiprotivity_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
+      "published": 1789993563.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it. the people posting \"15 ai tools you NEED\" are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks trying stuff instead of doing the thing i was avoiding. pick two. learn them properly. don't switch until one actually fails you!"
+    },
+    {
       "title": "FBI Director Kash Patel says that AI use at the FBI has \"increased by 605%\" since he became director \u2014 claims that every major tech player is \"embedded\" in the agency",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1wm2996/fbi_director_kash_patel_says_that_ai_use_at_the/",
@@ -46,15 +57,26 @@
       "description": "A seemingly unsupported figure that nevertheless may be grounded in truth."
     },
     {
-      "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
-      "published": 1789930199.0,
-      "thumbnail": "https://external-preview.redd.it/9NriIK1OZLPZrxAGj_6aSBJsfyC2psJgfoDUtVENmDM.jpeg?width=640&crop=smart&auto=webp&s=d117911306410b4580cd8c606e4bba1568cfdd27",
-      "external_url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
-      "site_name": "DefenseScoop",
-      "favicon": "https://defensescoop.com/wp-content/uploads/sites/8/2023/01/cropped-ds_favicon-2.png?w=180",
-      "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
+      "title": "A $40M model is being sold on calibrated confidence, and no calibration data has been published",
+      "author": "prakersh",
+      "url": "https://www.reddit.com/r/artificial/comments/1wm8btm/a_40m_model_is_being_sold_on_calibrated/",
+      "published": 1789984363.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "TypeSafe AI came out of stealth on September 15 with $40M led by DCVC, reportedly at a $200M valuation, founded by Diogo Almeida, an ex-OpenAI researcher who worked on InstructGPT, ChatGPT and GPT-4. Their model, Jev, does not generate text. It takes program state plus typed questions and returns typed answers with a probability on each. The framing is Kahneman's System One: fast intuitive judgment rather than deliberation. The product claim is that those probabilities are calibrated, meaning 70% should be right about 70% of the time. TypeSafe calls the training method Reinforcement Learning for Calibrated Decisions. Here is what bothers me about the coverage so far. Calibration is the whole product and there is no public measurement of it No expected calibration error. No reliability diagrams. No results on any standard public benchmark. No architecture paper. For a company whose pitch is fixing AI overconfidence, the overconfidence-fixing property is the one thing with nothing published behind it. What has been published is a company-designed eval over four workflow tasks where the correct answer is defined as the average of GPT-6 Astra and Claude Fable 5.1 at high thinking. That measures agreement with two competitor models, not correctness. A model could match the reference on every case and be wrong on every case. Competing models in the same harness run at default reasoning settings, so the 193.6x speed and 444.6x cost multipliers are measured against reasoning-off configurations while the accuracy target comes from reasoning-on ones. \"Cannot hallucinate\" is true in a narrow sense The output space is fixed before decoding, so it cannot emit an option that is not on the list. That eliminates fabricated output. It does not make the chosen option correct. The Register made the same point: absence of hallucination does not preclude being incorrect. Constrained decoding is also not new, OpenAI has guaranteed JSON Schema conformance since August 2024. Where I think the skepticism should stop The adoption number is third-party and it is striking. Vercel reported Jev as the fastest-adopted model in AI Gateway history: a tenth of paid teams within 18 hours, nearly 13% by hour 24, roughly six times Fable 5.1's first-day share. And TypeSafe's own documentation is unusually honest. It publishes a model jaggedness page stating that Jev does not count reliably, underperforms on hex and RGB values, cannot judge whether two values are near each other, and reads dates as text. It also states there is no guaranteed mathematical relationship between semantically related outputs, so the probability of a statement and its negation need not sum to 1. That is a genuinely awkward admission to sit next to a calibration pitch, and they published it anyway. So: real product, real adoption, and a headline property nobody outside the company has measured. What would you want to see before trusting the confidence numbers in production?"
+    },
+    {
+      "title": "AI CAN be incredible for learning",
+      "author": "AkindaGood_programer",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
+      "published": 1789956820.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've seen a lot of hate that LLMs will always reduce people's ability to for themselves, which I think isn't true. You can use LLMs to learn extremely effectively, but the hard part is avoiding the thousands of ways to learn extremely ineffectively. I've been using LLMs to find gaps in my knowledge by asking me questions about my notes, and it's been working very well. It's not something a YouTube video can emulate because it's completely personalized to what YOU know. A teacher will always be better, but sometimes you want to learn something on your own, or don't want to pester the teacher for whatever reason. You can ask as many stupid questions as many times as you want. That's the power, personalization. Now, if used incorrectly, it can be very hurtful for your cognitive development, no doubting that. You just have to have self-control and use it as a tutor, not an answer machine. What are your thoughts on this?"
     },
     {
       "title": "What\u2019s an AI capability people underestimate because they\u2019re using it for the wrong things?",
@@ -68,6 +90,17 @@
       "description": "Everyone talks about generating text, images, and code. What\u2019s a less obvious use case where you think AI is genuinely much more useful than people realize?"
     },
     {
+      "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlpbbq/joint_chiefs_chairman_says_us_forces_must_prepare/",
+      "published": 1789930199.0,
+      "thumbnail": "https://external-preview.redd.it/9NriIK1OZLPZrxAGj_6aSBJsfyC2psJgfoDUtVENmDM.jpeg?width=640&crop=smart&auto=webp&s=d117911306410b4580cd8c606e4bba1568cfdd27",
+      "external_url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare/",
+      "site_name": "DefenseScoop",
+      "favicon": "https://defensescoop.com/wp-content/uploads/sites/8/2023/01/cropped-ds_favicon-2.png?w=180",
+      "description": "\u201cWe have to assume from now on that our formations will be hunted by autonomous systems, jammed across the spectrum, and tracked in real time,\" Gen. Dan Caine said."
+    },
+    {
       "title": "\u201cI have a really, really strong legal team.\u201d Inside the AI party boom.",
       "author": "ThereWas",
       "url": "https://www.reddit.com/r/artificial/comments/1wlre82/i_have_a_really_really_strong_legal_team_inside/",
@@ -77,40 +110,7 @@
       "site_name": "The San Francisco Standard",
       "favicon": "https://sfstandard.com/favicon/favicon-180x180-1.png",
       "description": "They\u2019re skipping caviar for fire-breathing lessons."
-    },
-    {
-      "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
-      "author": "alaattincagil",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
-      "published": 1789909364.0,
-      "thumbnail": "https://external-preview.redd.it/DENkHH9_IAP1tea0wQTlQeZHyPWli6EEXmGGTzpSVXI.png?width=140&height=64&auto=webp&s=c2acd27da8ecfac3a49507cbb755b844ae17119f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A recent Scientific Reports study tested 21 language models across 47,376 responses in the Brazilian political context. Every model adjusted its position depending on whether the user was described as left wing or right wing, often while answering with high confidence. What worries me isn\u2019t ordinary political bias. A fixed bias can at least be identified and measured. An assistant that adapts its beliefs to match yours feels more trustworthy precisely because the agreement appears personal. At that point, personalization stops being a convenience and starts becoming a feedback loop. Should AI assistants deliberately introduce the strongest opposing argument, or would that simply create a different kind of political influence? Source: Scientific Reports https://www.nature.com/articles/s41598-026-52105-6 https://preview.redd.it/v5m7fcoaboqh1.png?width=2009&format=png&auto=webp&s=f4ad1c0f38c48f68ba35e82ff3aa02447304347c"
-    },
-    {
-      "title": "we put out a 27b writing model, open weights, eq-bench 4 at 1330",
-      "author": "lukinator644",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlt16o/we_put_out_a_27b_writing_model_open_weights/",
-      "published": 1789938588.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "hey, we're a small lab (switzerland + south africa, two people). our model went live today. it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: https://huggingface.co/Altworld/Hemmingway-1 we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own blind tests the writing read as more human than the frontier models we compared it with. runs on a single 24gb gpu quantized. free app if you'd rather not self host: https://hemmingway.io it's a specialist, on purpose. math, code and facts are base model level. english first. ask me anything."
-    },
-    {
-      "title": "An AI incident hotline between the US and China sounds sensible. I\u2019m surprised we need one this soon.",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wm4lz6/an_ai_incident_hotline_between_the_us_and_china/",
-      "published": 1789971247.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I just saw that the US proposed an AI incident notification mechanism with China for events that could affect national security. My first reaction was that this sounds like the AI version of a nuclear hotline\u2014which is reassuring and a little surreal. The hard part is deciding what counts as an incident. A model escaping a test environment? A major AI-assisted cyberattack? A dangerous capability discovered during training? And how much would either side reveal without exposing sensitive systems? I\u2019d rather have a clumsy communication channel than none at all. What kind of AI event should be serious enough to trigger an international notification?"
     }
   ],
-  "fetched_at": "2026-09-21T06:49:02.220770+00:00"
+  "fetched_at": "2026-09-21T13:40:50.497991+00:00"
 }

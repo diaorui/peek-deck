@@ -8,10 +8,10 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 3953,
-      "stars_display": "4.0k",
-      "forks": 1045,
-      "forks_display": "1.0k",
+      "stars": 5099,
+      "stars_display": "5.1k",
+      "forks": 1429,
+      "forks_display": "1.4k",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-21T00:02:36Z"
@@ -24,13 +24,13 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
-      "stars": 3581,
-      "stars_display": "3.6k",
-      "forks": 153,
-      "forks_display": "153",
+      "stars": 4288,
+      "stars_display": "4.3k",
+      "forks": 206,
+      "forks_display": "206",
       "language": "TypeScript",
       "topics": [],
-      "updated_at": "2026-09-21T03:36:38Z"
+      "updated_at": "2026-09-21T11:16:31Z"
     },
     {
       "full_name": "Nanako0129/sepia",
@@ -40,10 +40,10 @@
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
       "url": "https://github.com/Nanako0129/sepia",
       "preview_image": "https://opengraph.githubassets.com/e4cc6d84aa30d4a2d3aec4af5192fccd7acbf1f8675254227d5bb9a61a66476c/Nanako0129/sepia",
-      "stars": 2721,
+      "stars": 2736,
       "stars_display": "2.7k",
-      "forks": 182,
-      "forks_display": "182",
+      "forks": 183,
+      "forks_display": "183",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -62,10 +62,10 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2240,
-      "stars_display": "2.2k",
-      "forks": 41,
-      "forks_display": "41",
+      "stars": 2254,
+      "stars_display": "2.3k",
+      "forks": 42,
+      "forks_display": "42",
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -74,7 +74,7 @@
         "design-system",
         "design-tools"
       ],
-      "updated_at": "2026-09-20T18:25:26Z"
+      "updated_at": "2026-09-21T11:40:02Z"
     },
     {
       "full_name": "amosblomqvist/learn",
@@ -84,10 +84,10 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2179,
+      "stars": 2198,
       "stars_display": "2.2k",
-      "forks": 227,
-      "forks_display": "227",
+      "forks": 228,
+      "forks_display": "228",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-25T21:49:59Z"
@@ -100,10 +100,10 @@
       "description": "PRINTFILM\uff1aAI \u89c6\u9891\u83b7\u5ba2\u4e0e AI\u77ed\u5267\u521b\u4f5c\u5e73\u53f0",
       "url": "https://github.com/yi1108/printfilm",
       "preview_image": "https://opengraph.githubassets.com/a2525cec233cf17d43e7124f734c117c35aeeb18b7b71943dbeb120c59355980/yi1108/printfilm",
-      "stars": 1803,
+      "stars": 1840,
       "stars_display": "1.8k",
-      "forks": 158,
-      "forks_display": "158",
+      "forks": 192,
+      "forks_display": "192",
       "language": "Python",
       "topics": [],
       "updated_at": "2026-09-21T03:45:08Z"
@@ -116,13 +116,32 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 1625,
-      "stars_display": "1.6k",
-      "forks": 306,
-      "forks_display": "306",
+      "stars": 1715,
+      "stars_display": "1.7k",
+      "forks": 324,
+      "forks_display": "324",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
+    },
+    {
+      "full_name": "jtydhr88/screenwriting-skills",
+      "name": "screenwriting-skills",
+      "owner": "jtydhr88",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/860985?v=4",
+      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+      "url": "https://github.com/jtydhr88/screenwriting-skills",
+      "preview_image": "https://opengraph.githubassets.com/6202796650758594e951ea6ff88d3661478127ef213cd39e2aa79e4149103652/jtydhr88/screenwriting-skills",
+      "stars": 1324,
+      "stars_display": "1.3k",
+      "forks": 150,
+      "forks_display": "150",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "skills"
+      ],
+      "updated_at": "2026-09-16T01:18:59Z"
     },
     {
       "full_name": "adtexterry-lgtm/unigit-ecosystem",
@@ -147,25 +166,6 @@
       "updated_at": "2026-09-02T12:51:17Z"
     },
     {
-      "full_name": "jtydhr88/screenwriting-skills",
-      "name": "screenwriting-skills",
-      "owner": "jtydhr88",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/860985?v=4",
-      "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
-      "url": "https://github.com/jtydhr88/screenwriting-skills",
-      "preview_image": "https://opengraph.githubassets.com/6202796650758594e951ea6ff88d3661478127ef213cd39e2aa79e4149103652/jtydhr88/screenwriting-skills",
-      "stars": 1312,
-      "stars_display": "1.3k",
-      "forks": 150,
-      "forks_display": "150",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "skills"
-      ],
-      "updated_at": "2026-09-16T01:18:59Z"
-    },
-    {
       "full_name": "ZJU-REAL/Easel",
       "name": "Easel",
       "owner": "ZJU-REAL",
@@ -173,10 +173,10 @@
       "description": "An open-source AI agent for social media \u2014 discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.\ud83c\udfa8\u4e00\u4e2a\u5f00\u6e90\u7684 AI \u793e\u4ea4\u5a92\u4f53\u667a\u80fd\u4f53\u2014\u2014\u53d1\u73b0\u70ed\u70b9\u8d8b\u52bf\u3001\u521b\u4f5c\u5185\u5bb9\u3001\u4e00\u952e\u53d1\u5e03\u81f3\u5404\u5927\u5e73\u53f0\uff0c\u5e76\u5b66\u4e60\u5206\u6790\u54ea\u4e9b\u5185\u5bb9\u771f\u6b63\u6709\u6548\uff0c\u8986\u76d6\u5c0f\u7ea2\u4e66\u3001\u6296\u97f3\u3001\u77e5\u4e4e\u3001\u54d4\u54e9\u54d4\u54e9\u7b49\u5e73\u53f0\u3002",
       "url": "https://github.com/ZJU-REAL/Easel",
       "preview_image": "https://repository-images.githubusercontent.com/1349122168/694d056d-6dcf-49a7-8f03-86461718766a",
-      "stars": 1267,
+      "stars": 1277,
       "stars_display": "1.3k",
-      "forks": 184,
-      "forks_display": "184",
+      "forks": 185,
+      "forks_display": "185",
       "language": "Python",
       "topics": [
         "agent",
@@ -192,6 +192,6 @@
   "search_query": "ai created:>2026-08-22",
   "days": 30,
   "limit": 10,
-  "total_count": 451890,
-  "fetched_at": "2026-09-21T06:49:01.265069+00:00"
+  "total_count": 457739,
+  "fetched_at": "2026-09-21T13:40:50.710511+00:00"
 }
