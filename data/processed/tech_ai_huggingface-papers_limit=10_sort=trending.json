@@ -16,7 +16,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 107870,
+      "github_stars": 107949,
       "project_page": null
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
-      "github_stars": 2762,
+      "github_stars": 2808,
       "project_page": "https://nvlabs.github.io/SoL-Pi/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2026-09-13T20:00:00.000Z",
       "github_repo": "https://github.com/zhengkid/Dream-RSI",
-      "github_stars": 1012,
+      "github_stars": 1032,
       "project_page": "https://dream-rsi.com/"
     },
     {
@@ -153,25 +153,6 @@
       "project_page": null
     },
     {
-      "id": "2509.06917",
-      "title": "Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI\n  Agents",
-      "authors": "Jiacheng Miao, Joe R. Davis, Jonathan K. Pritchard et al. (4 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We introduce Paper2Agent, an automated framework that converts research\npapers into AI agents. Paper2Agent transforms research output from passive\nartifacts into active systems that can accelerate downstream use, adoption, and\ndiscovery. Conventional research papers require readers to invest substantial\neffort to understand and adapt a paper's code, data, and methods to their own\nwork, creating barriers to dissemination and reuse. Paper2Agent addresses this\nchallenge by automatically converting a paper into an AI agent that acts as a\nknowledgeable research assistant. It systematically analyzes the paper and the\nassociated codebase using multiple agents to construct a Model Context Protocol\n(MCP) server, then iteratively generates and runs tests to refine and robustify\nthe resulting MCP. These paper MCPs can then be flexibly connected to a chat\nagent (e.g. Claude Code) to carry out complex scientific queries through\nnatural language while invoking tools and workflows from the original paper. We\ndemonstrate Paper2Agent's effectiveness in creating reliable and capable paper\nagents through in-depth case studies. Paper2Agent created an agent that\nleverages AlphaGenome to interpret genomic variants and agents based on ScanPy\nand TISSUE to carry out single-cell and spatial transcriptomics analyses. We\nvalidate that these paper agents can reproduce the original paper's results and\ncan correctly carry out novel user queries. By turning static papers into\ndynamic, interactive AI agents, Paper2Agent introduces a new paradigm for\nknowledge dissemination and a foundation for the collaborative ecosystem of AI\nco-scientists.",
-      "ai_summary": "Paper2Agent converts research papers into interactive AI agents to facilitate knowledge dissemination and enable complex scientific queries through natural language.",
-      "hf_url": "https://huggingface.co/papers/2509.06917",
-      "arxiv_url": "https://arxiv.org/abs/2509.06917",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.06917.png",
-      "upvotes": 46,
-      "num_comments": 7,
-      "published_at": "2025-09-08T13:28:42.000Z",
-      "github_repo": "https://github.com/jmiao24/Paper2Agent",
-      "github_stars": 3214,
-      "project_page": "https://huggingface.co/spaces/Paper2Agent/alphagenome_agent"
-    },
-    {
       "id": "2608.16157",
       "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
       "authors": "Shuo Yang, Xiaoze Fan, Melissa Pan et al. (11 authors)",
@@ -187,11 +168,30 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 13371,
+      "github_stars": 13444,
       "project_page": "https://www.flashml.ai/"
+    },
+    {
+      "id": "2509.06917",
+      "title": "Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI\n  Agents",
+      "authors": "Jiacheng Miao, Joe R. Davis, Jonathan K. Pritchard et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We introduce Paper2Agent, an automated framework that converts research\npapers into AI agents. Paper2Agent transforms research output from passive\nartifacts into active systems that can accelerate downstream use, adoption, and\ndiscovery. Conventional research papers require readers to invest substantial\neffort to understand and adapt a paper's code, data, and methods to their own\nwork, creating barriers to dissemination and reuse. Paper2Agent addresses this\nchallenge by automatically converting a paper into an AI agent that acts as a\nknowledgeable research assistant. It systematically analyzes the paper and the\nassociated codebase using multiple agents to construct a Model Context Protocol\n(MCP) server, then iteratively generates and runs tests to refine and robustify\nthe resulting MCP. These paper MCPs can then be flexibly connected to a chat\nagent (e.g. Claude Code) to carry out complex scientific queries through\nnatural language while invoking tools and workflows from the original paper. We\ndemonstrate Paper2Agent's effectiveness in creating reliable and capable paper\nagents through in-depth case studies. Paper2Agent created an agent that\nleverages AlphaGenome to interpret genomic variants and agents based on ScanPy\nand TISSUE to carry out single-cell and spatial transcriptomics analyses. We\nvalidate that these paper agents can reproduce the original paper's results and\ncan correctly carry out novel user queries. By turning static papers into\ndynamic, interactive AI agents, Paper2Agent introduces a new paradigm for\nknowledge dissemination and a foundation for the collaborative ecosystem of AI\nco-scientists.",
+      "ai_summary": "Paper2Agent converts research papers into interactive AI agents to facilitate knowledge dissemination and enable complex scientific queries through natural language.",
+      "hf_url": "https://huggingface.co/papers/2509.06917",
+      "arxiv_url": "https://arxiv.org/abs/2509.06917",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.06917.png",
+      "upvotes": 46,
+      "num_comments": 7,
+      "published_at": "2025-09-08T13:28:42.000Z",
+      "github_repo": "https://github.com/jmiao24/Paper2Agent",
+      "github_stars": 3252,
+      "project_page": "https://huggingface.co/spaces/Paper2Agent/alphagenome_agent"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-21T19:06:16.424036+00:00"
+  "fetched_at": "2026-09-21T22:43:57.485874+00:00"
 }

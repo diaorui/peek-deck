@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-21T22:44:06.581149+00:00",
+  "data": {
+    "url": "https://pluang.com/en/news-feed/volume-perpetual-ethereum-kalshi-terpusat-pada-satu-ukuran-trade",
+    "title": "Kalshi's Ethereum perpetual volume is concentra... | Pluang",
+    "description": "Kalshi's Ethereum perpetual contract volume is heavily concentrated at a single trade size, which may distort the interpretation of raw volume figures and suggest limited market depth or narrow participant diversity. This concentration could result from contract size constraints, algorithmic trading, or institutional block trades, but does not indicate price direction or market sentiment. The pattern is important as Kalshi operates under CFTC regulation, making volume data more scrutinized compared to offshore platforms. Traders should consider this concentration when assessing liquidity and compare it carefully with other venues before using volume as a market indicator.",
+    "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/5c724a6bcbfe395964439348cd7ead4400b6d6d7e5ba71f77a2a0ed3aa7a80c2-en.webp",
+    "favicon": "https://image-cdn.pluang.com/web/icons/180.png",
+    "site_name": null,
+    "author": "Coincu",
+    "keywords": null
+  }
+}
