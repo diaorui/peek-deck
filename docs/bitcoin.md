@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-21T06:49:30.894688+00:00'
+updated: '2026-09-21T13:41:30.387269+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 21, 2026 at 06:49 UTC  
+**Last Updated:** September 21, 2026 at 13:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $81,312.34
+### $84,925.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +8.0%  
-**30d:** +5.1%  
-**90d:** +33.8%  
-**1y:** -27.6%  
+**24h:** +5.5%  
+**7d:** +12.5%  
+**30d:** +9.5%  
+**90d:** +39.4%  
+**1y:** -24.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1638.67B
+**Market Cap:** $1706.75B
 Rank #1
 
-**Circulating Supply:** 20,087,278 BTC
+**Circulating Supply:** 20,087,418 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--35.3%
+-32.6%
 
 **All-Time Low:** $67.81
-+120287.8%
++125182.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
 
-2h ago
+9h ago
 
 ---
 
 **[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
 
-11h ago
+17h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
 
-6h ago
+13h ago
 
 ---
 
 **[Oh boy](https://www.reddit.com/r/Bitcoin/comments/1wlvydf/oh_boy/)**
 
-7h ago
+14h ago
 
 ---
 
@@ -107,13 +107,13 @@ Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once i
 
 Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
-5h ago
+12h ago
 
 ---
 
 **[Bitcoin, Lowering Retirement since 2009](https://www.reddit.com/r/Bitcoin/comments/1wlucex/bitcoin_lowering_retirement_since_2009/)**
 
-8h ago
+15h ago
 
 ---
 
@@ -121,13 +121,13 @@ Made an obligatory buy to push us into the bull run. If everyone else could, tha
 
 Before vibecoding dashboards was a thing, I built this physical ticker that hangs on the wall. I was tired of pulling up apps or doing mental math to convert my stack into dollars, but I also had a dilemma: I didn't want my actual holdings permanently blasted on my wall for every visitor to see. My solution was to build a hidden "stealth mode" directly into the frame. By default, it functions as a standard BTC/USD price ticker. But when you slide a novelty Bitcoin across the front glass, a magnetic switch behind the faceplate trips, instantly calculating and displaying the stack's total USD value. It’s been running reliably for 8 years now. (And for obvious OpSec reasons, the stack size shown in these photos is hardcoded to a dummy 0.5 BTC). I wish I still had 0.5 btc. I was pretty optimistic when I designed it, there are 8 total digits available in the LED fields. Once Bitcoin hits $99 million, I'll have to rebuild it. Under the hood, it’s powered by a generic ESP8266 and a pair of Adafruit 7-segment LEDs in each field. It connects to my home Wi-Fi and simply polls a price API every minute.
 
-10h ago
+16h ago
 
 ---
 
 **[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 1h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 17h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 1d ago
 
 ---
 
@@ -149,11 +149,31 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.](https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans)**
+**[Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html)**
 
-Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations.
+Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-CoinDesk • 2d ago
+CNBC • 2h ago
+
+---
+
+**[$3 Trillion Boom—These Red-Hot Coins Are Quietly Leaving Bitcoin In The Dust Even As Its Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/21/3-trillion-boom-these-red-hot-coins-are-quietly-leaving-bitcoin-in-the-dust-even-as-its-price-soars/)**
+
+forbes.com • 32m ago
+
+---
+
+**[Michael Saylor's Strategy jumps as the company says it bought more bitcoin](https://ca.finance.yahoo.com/news/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html)**
+
+Strategy stock popped after the bitcoin holding company disclosed it bought more of the token and repurchased preferred stock last week.
+
+Yahoo! Finance Canada • 5m ago
+
+---
+
+**[Saylor’s Strategy Makes First Purchase of Bitcoin Since August](https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august)**
+
+Bloomberg.com • 45m ago
 
 ---
 
@@ -161,43 +181,37 @@ CoinDesk • 2d ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-Slate Magazine • 21h ago
+Slate Magazine • 1d ago
 
 ---
 
-**[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000)**
+**[Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook](https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook)**
 
-Bloomberg.com • 1h ago
+The Clarity Act's cloture vote failed. Coinbase Chief Policy Officer Faryar Shirzad breaks down what went wrong and where regulation goes next.
 
----
-
-**[Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure](https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html)**
-
-Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote.
-
-Yahoo Finance • 2d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Billionaire Tim Draper Predicts Bitcoin Will Hit $250,000 Within 2 Years. Here's What Needs to Happen.](https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-predicts-bitcoin-062000744.html)**
+**[Bitcoin Is at Its Highest Price Since January. Strategy Buys the Cryptocurrency.](https://www.barrons.com/articles/bitcoin-prices-coinbase-strategy-robinhood-stocks-81bef9f7)**
 
-Could Bitcoin really triple in value within just 24 months?
-
-Yahoo Finance • 29m ago
+Barron's • 1h ago
 
 ---
 
-**[Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset](https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset)**
+**[Bitcoin Price Pumps Above $80,000: Jason Calacanis Challenges Michael Saylor and Cathie Wood](https://www.tradingview.com/news/cryptonews:49c405c3b094b:0-bitcoin-price-pumps-above-80-000-jason-calacanis-challenges-michael-saylor-and-cathie-wood/)**
 
-Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.
+Bitcoin price touched the $84,000 level just now after breaching $80,000 last week. This movement has prompted investor Jason Calacanis to characterize the move as a dead-cat bounce. Calacanis questioned Bitcoin’s relevance 17 years after its creation, arguing that it is not well-suited to transact…
 
-Bitcoin Magazine • 17h ago
+TradingView • 4h ago
 
 ---
 
-**[Bitcoin ‘Will’ Hit $1 Million Price—Kevin O’Leary Suddenly Ups His Massive $15 Trillion Prediction](https://www.forbes.com/sites/digital-assets/2026/09/20/im-back-kevin-oleary-issues-massive-15-trillion-bitcoin-prediction-as-price-soars/)**
+**[Cathie Wood's weekly recap: buys $25M of CoreWeave, trims $40M in Bitcoin ETF (ARKK:BATS)](https://seekingalpha.com/news/4644614-cathie-woods-weekly-recap-buys-25m-of-coreweave-trims-40m-in-bitcoin-etf)**
 
-Forbes • 17h ago
+Cathie Wood’s Ark Invest made several large portfolio moves last week, adding to CoreWeave (CRWV) while increasing exposure to healthcare and trimming positions across crypto, genomics and technology.
+
+Seeking Alpha • 2h ago
 
 ---
 
@@ -205,23 +219,7 @@ Forbes • 17h ago
 
 Miners hold the scarce asset as US power demand outruns supply, while Metaplanet’s 14.7% option pool shows how DAT insiders capture shareholder dilution.
 
-VanEck • 2d ago
-
----
-
-**[Seminole County gas station stops Bitcoin ATM scams](https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678)**
-
-A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims.
-
-wesh.com • 2d ago
-
----
-
-**[Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years](https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet)**
-
-Over two years, Bitcoin gained 28% while the median mid-cap altcoin lost 74% and Ethereum landed roughly sideways.
-
-Decrypt • 16h ago
+VanEck • 3d ago
 
 ---
 
@@ -231,7 +229,7 @@ Decrypt • 16h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 314 • 💬 270 • 3d ago
+⬆️ 315 • 💬 272 • 4d ago
 
 ---
 
@@ -247,7 +245,7 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 17h ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 1d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -261,7 +259,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 2 • 💬 3 • 1d ago
+⬆️ 2 • 💬 3 • 2d ago
 
 ---
 
@@ -277,7 +275,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 3d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
+⬆️ 1 • 💬 0 • 4d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -285,7 +283,7 @@ Top cryptocurrency prices and charts, listed by market capitalization. Free acce
 
 Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
 
-⬆️ 2 • 💬 0 • 5d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
+⬆️ 2 • 💬 0 • 6d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -293,7 +291,7 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
 
-⬆️ 13 • 💬 3 • 7h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+⬆️ 15 • 💬 4 • 14h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
 
 ---
 
@@ -307,17 +305,17 @@ Bitcoin is back above $80000 while a Fidelity cycle indicator is flashing a sign
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 1K • 💬 61 • ⏱️ 14:41 • 8h ago
+👁️ 38K • 👍 2K • 💬 84 • ⏱️ 14:41 • 15h ago
 
 ---
 
-**[Get Ready for a Bitcoin Breakout Week](https://www.youtube.com/watch?v=VTaGTEXZ8ps)**
+**[BITCOIN: BULLS ARE HERE!!!!](https://www.youtube.com/watch?v=afBQsHPFJ-I)**
 
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+JOIN BULLMANIA WAITLIST: https://bullmania.com/ BULLMANIA ARENA: https://arena.bullmania.com/ EXCHANGE ...
 
-📺 CryptosRUs
+📺 Ivan on Tech
 
-👁️ 15K • 👍 689 • 💬 107 • ⏱️ 12:12 • 5h ago
+👁️ 19K • 👍 1K • 💬 79 • ⏱️ 53:08 • 3h ago
 
 ---
 
@@ -327,77 +325,77 @@ Bitcoin just closed above the 50-week moving average on the weekly chart, a sign
 
 📺 Crypto Capital Venture
 
-👁️ 11K • 👍 620 • 💬 185 • ⏱️ 19:04 • 4h ago
+👁️ 29K • 👍 982 • 💬 239 • ⏱️ 19:04 • 11h ago
 
 ---
 
-**[Bitcoin Is About To Go PARABOLIC Because Of AI Agents](https://www.youtube.com/watch?v=0Xz5_SQTkcU)**
+**[BITCOIN BULL MARKET NOW 100% CONFIRMED!!!! [BREAKING]](https://www.youtube.com/watch?v=ehKA4yfGRPA)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Anthony Pompliano
+📺 Crypto Kid
 
-👁️ 156K • 👍 4K • 💬 190 • ⏱️ 1:07:54 • 1d ago
-
----
-
-**[$1 Million Bitcoin DEADLINE - A Bitcoin Legend Says Before 2028](https://www.youtube.com/watch?v=Bug_F8iLhrI)**
-
-Bitcoin's biggest buyers are positioning while Adam Back maintains his bet that BTC reaches $1 MILLION before the 2028 halving ...
-
-📺 Bitcoin News Alerts
-
-👁️ 5K • 👍 220 • 💬 95 • ⏱️ 15:32 • 8h ago
+👁️ 5K • 👍 271 • 💬 22 • ⏱️ 4:03 • 4h ago
 
 ---
 
-**[BITCOIN HOLDERS: WATCH THIS RIGHT NOW!!!](https://www.youtube.com/watch?v=cWdu06dcPBo)**
+**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
 
-Coinbase https://ckenny.com/Coinbase Coinbase Perpetuals https://ckenny.com/CBP Conor's Foundation Portfolio ...
+Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
 
-📺 Conor Kenny
+📺 Altcoin Daily
 
-👁️ 8K • 👍 428 • 💬 118 • ⏱️ 16:52 • 5h ago
+👁️ 74K • 👍 2K • 💬 60 • ⏱️ 1:27 • 2d ago
 
 ---
 
-**[BITCOIN: IT’S HAPPENING RIGHT NOW...](https://www.youtube.com/watch?v=hyBJvzj7eCA)**
+**[🚨LIVE: THE BITCOIN BREAKOUT IS STARTING...](https://www.youtube.com/watch?v=akaPthhGOiA)**
 
 WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
 📺 Crypto Rover
 
-👁️ 27K • 👍 864 • 💬 38 • ⏱️ 8:36 • 18h ago
+👁️ 32K • 👍 1K • 💬 12 • ⏱️ 2:33:55 • 1h ago
 
 ---
 
-**[XRP &amp; Bitcoin RALLY as SEC Unleashes New Crypto Rules! Martyn Lucas Investor](https://www.youtube.com/watch?v=yK_EOqLU7_8)**
+**[Get Ready for a Bitcoin Breakout Week](https://www.youtube.com/watch?v=VTaGTEXZ8ps)**
 
-XRP & Bitcoin RALLY as SEC Unleashes New Crypto Rules! Martyn Lucas Investor XRP, Bitcoin and the wider crypto market are ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 Martyn Lucas INVESTOR
+📺 CryptosRUs
 
-👁️ 6K • 👍 219 • ⏱️ 44:06 • 8h ago
-
----
-
-**[This Needs to Happen for Bitcoin to Reach New All-Time Highs](https://www.youtube.com/watch?v=1fGTRiSypi4)**
-
-Bitcoin Elliott Wave analysis for 19 September 2026 focusing on the $120000 target as a potential result of a five-wave move up.
-
-📺 More Crypto Online
-
-👁️ 22K • 👍 679 • 💬 34 • ⏱️ 17:18 • 1d ago
+👁️ 24K • 👍 894 • 💬 108 • ⏱️ 12:12 • 12h ago
 
 ---
 
-**[Bitcoin Weekly Close! Live TA &amp; Trading](https://www.youtube.com/watch?v=QoHqePt5Kv0)**
+**[BITCOIN JUST CONFIRMED THE BOTTOM...](https://www.youtube.com/watch?v=TWIHrTba330)**
 
-Zen Master JP leads the Congregation to the Promised Land - Doing TA & Trading of BTC, XAU, XAG, QQQ, OIL & More! Get 30% ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Sin City Crypto
+📺 Crypto Rover
 
-👁️ 10K • 👍 231 • 💬 19 • ⏱️ 4:00:15 • 2h ago
+👁️ 17K • 👍 640 • 💬 31 • ⏱️ 10:33 • 8h ago
+
+---
+
+**[BITCOIN: Ignore The PANIC! This Is What Really Matters...](https://www.youtube.com/watch?v=d9pDINhumWM)**
+
+Opening Statement & Video Context 0:00-3:05 Analysis 3:05-12:37 My Market Bottom Buying Strategy ...
+
+📺 Wolves of Crypto
+
+👁️ 6K • 👍 267 • 💬 134 • ⏱️ 12:38 • 8h ago
+
+---
+
+**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+
+Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+
+📺 Gareth Soloway
+
+👁️ 132K • 👍 4K • 💬 184 • ⏱️ 11:24 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-21T06:49:30.899979+00:00'
+updated: '2026-09-21T13:41:30.393527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 21, 2026 at 06:49 UTC  
+**Last Updated:** September 21, 2026 at 13:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,647.56
+### $2,724.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +11.0%  
-**30d:** +8.2%  
-**90d:** +64.3%  
-**1y:** -36.5%  
+**24h:** +5.4%  
+**7d:** +13.5%  
+**30d:** +10.6%  
+**90d:** +68.0%  
+**1y:** -35.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $324.86B
+**Market Cap:** $332.20B
 Rank #2
 
 **Circulating Supply:** 122,067,646 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.2%
+-44.9%
 
 **All-Time Low:** $0.43
-+614909.0%
++629357.8%
 
 ---
 
@@ -104,7 +104,7 @@ US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S
 
 Ethereum confirms October 6 for Glamsterdam's Sepolia testnet launch while developers warn fake builders using free test ether could disrupt block auctions.
 
-🔗 [CoinCentral](https://coincentral.com/ethereums-glamsterdam-upgrade-gets-october-test-date-with-builder-attack-warning/) • 2d ago
+🔗 [CoinCentral](https://coincentral.com/ethereums-glamsterdam-upgrade-gets-october-test-date-with-builder-attack-warning/) • 3d ago
 
 ---
 
@@ -164,23 +164,55 @@ CoinDesk • 3d ago
 
 Zcash ETFs led all 14 crypto funds on weekly flows while Ethereum posted the only net outflow at $140 million.
 
-BeInCrypto • 1d ago
+BeInCrypto • 2d ago
 
 ---
 
-**[Altcoin Rally Explodes: NEAR, ARB, AVAX, INJ, UNI Lead As Kevin O’Leary Says Ethereum May No Longer Rule](https://finance.yahoo.com/markets/crypto/articles/altcoin-rally-explodes-near-arb-155942561.html)**
+**[Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%](https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html)**
 
-Kevin O’Leary said he no longer expected Ethereum to become the main blockchain for crypto.
+An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Touches $82,000, Ethereum, XRP, Dogecoin Also Gain Amid Tokenization Push by SEC: Analyst Confirms 'Breakout' in This Major Coin](https://www.tradingview.com/news/benzinga:4b39307c0094b:0-bitcoin-touches-82-000-ethereum-xrp-dogecoin-also-gain-amid-tokenization-push-by-sec-analyst-confirms-breakout-in-this-major-coin/)**
+**[Ethereum breaks $2,700 with whale buying and sh...](https://pluang.com/en/news-feed/ethereum-bergerak-ke-2760-jika-bulls-kuat-2600-jika-tidak)**
 
-Leading cryptocurrencies rallied on Sunday as risk appetite surged amid the Securities and Exchange Commission’s push to introduce tokenized-stock products.Crypto Market RalliesBitcoin spiked late evening, briefly surpassing $82,000 before pulling back. Similarly, Ethereum surged past $2,700, suppo…
+Ethereum recently broke above $2,700, driven by strong buying from large holders (whales) and short sellers being forced to cover positions. This surge was supported by increased trading volume and a stable RSI below overbought levels, indicating room for further gains. Whale accumulation and reduced sell supply strengthen the breakout, but sustained spot demand above $2,700 is needed to maintain momentum and target $2,760. A drop below $2,600 could weaken the bullish trend.
 
-TradingView • 4h ago
+Pluang • 1h ago
+
+---
+
+**[SEC's new tokenization order boosts Ethereum an...](https://pluang.com/en/news-feed/bitmine-naik-6-persen-ethereum-menguat-setelah-keputusan-tokenisasi-sec)**
+
+The SEC introduced an Innovation Exemption allowing regulated platforms to trade tokenized US stocks on public blockchains, boosting Ethereum and Ethereum-linked stocks. Bitmine Immersion Technologies, holding nearly 6 million ETH, saw its stock rise 6%, reflecting its strong Ethereum exposure. Coinbase and SharpLink Gaming also gained, benefiting from the new framework that blends traditional finance with decentralized finance. This temporary measure could evolve after public comments, with potential issuer opt-outs posing risks to tokenization scope.
+
+Pluang • 32m ago
+
+---
+
+**[Crypto Market Surges as Altcoins Take the Lead: What’s Driving Bitcoin, Ethereum and NEAR Prices?](https://www.tradingview.com/news/coinpedia:c01e19e1a094b:0-crypto-market-surges-as-altcoins-take-the-lead-what-s-driving-bitcoin-ethereum-and-near-prices/)**
+
+The crypto market is showing renewed strength over the past 24 hours, with the Bitcoin price holding above $81,000, while Ethereum and several major altcoins outperform. Global crypto market capitalisation has climbed toward $2.8 trillion, alongside a sharp increase in trading activity, pointing to…
+
+TradingView • 7h ago
+
+---
+
+**[Down 47% From Its All-Time High, This Is the Most Undervalued Cryptocurrency to Buy Right Now](https://www.fool.com/investing/2026/09/21/down-47-for-the-year-this-is-the-most-undervalued-/)**
+
+Ethereum's dominant role in decentralized finance (DeFi) gives it plenty of upside potential ahead.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Ethereum finally breaks out of the month-long range as CFTC moves forward without Congress](https://investinglive.com/cryptocurrency/ethereum-finally-breaks-out-of-the-month-long-range-as-cftc-moves-forward-without-congress/)**
+
+Ethereum and major cryptocurrencies rallied after the CFTC advanced its crypto rulemaking framework, boosting optimism around US regulation. Ethereum broke…
+
+investingLive • 4h ago
 
 ---
 
@@ -188,45 +220,15 @@ TradingView • 4h ago
 
 MAJURO, Marshall Islands, Sept.  20, 2026  (GLOBE NEWSWIRE) -- Remittix is building toward the global launch of its crypto-to-bank payments ecosys...
 
-markets.businessinsider.com • 11h ago
+markets.businessinsider.com • 18h ago
 
 ---
 
-**[Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed](https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/)**
+**[Ethereum supply tightens as ETH price reclaims $2,500 – What’s next?](https://ambcrypto.com/ethereum-supply-tightens-as-eth-price-reclaims-2500-whats-next/)**
 
-Ethereum co-founder Vitalik Buterin says laptop AI is nearing everyday utility, raising the stakes for wallet safeguards that keep transaction authority beyond a model’s control.
+Ethereum’s supply dynamics are tightening as staking and ETF demand reshape the market around $2,500.
 
-CryptoSlate • 4d ago
-
----
-
-**[Bitcoin, Ethereum End Volatile Week Higher As Crypto Rebounds From Fed, Regulatory Jolt](https://www.businesstoday.com.my/2026/09/20/bitcoin-ethereum-end-volatile-week-higher-as-crypto-rebounds-from-fed-regulatory-jolt/)**
-
-BusinessToday Malaysia • 1d ago
-
----
-
-**[Ethereum: Daily MACD Bullish Crossover Confirmed](https://blockchain.news/flashnews/ethereum-daily-macd-bullish-crossover-confirmed)**
-
-Ethereum daily MACD bullish crossover at $2637.15 repeats 2025 pattern that lifted ETH from $1800 to $2500, with 4h chart showing EMA50 support at $2534.87.
-
-blockchain.news • 7h ago
-
----
-
-**[Why Ethereum Jumped 5.8% Today](https://www.fool.com/investing/2026/09/18/why-ethereum-jumped-58-today/)**
-
-Blockchain-based stock trading got its first official green light. It's tiny, temporary, and Ethereum-shaped.
-
-The Motley Fool • 2d ago
-
----
-
-**[We Asked ChatGPT Which Coin Lost the Most From the Dead CLARITY Act: XRP, Ethereum, or Solana?](https://247wallst.com/investing/cryptocurrency/2026/09/17/we-asked-chatgpt-which-coin-lost-the-most-from-the-dead-clarity-act-xrp-ethereum-or-solana/)**
-
-XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coin lost the most and what the failed bill means for each.
-
-247wallst.com • 3d ago
+AMBCrypto • 20h ago
 
 ---
 
@@ -234,13 +236,33 @@ XRP, Ethereum, and Solana fell after the CLARITY Act stalled. Here’s which coi
 
 ## YouTube Videos: "ethereum"
 
+**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
+
+EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
+
+📺 Altcoin Daily
+
+👁️ 34K • 👍 625 • 💬 59 • ⏱️ 1:12 • 1d ago
+
+---
+
 **[Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!!](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
 
 Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
 
 📺 Altcoin Daily
 
-👁️ 84K • 👍 2K • 💬 173 • ⏱️ 10:49 • 1d ago
+👁️ 88K • 👍 2K • 💬 177 • ⏱️ 10:49 • 1d ago
+
+---
+
+**[I Bought Ethereum Back Before My Signal.. Here&#39;s Where I Sell](https://www.youtube.com/watch?v=YtOHrJ3csro)**
+
+WEEX - trade crypto AND stocks like NVDA and TSLA, no KYC, up to $10000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 279 • 👍 10 • 💬 44 • ⏱️ 2:53 • 4h ago
 
 ---
 
@@ -250,7 +272,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 298 • 💬 18 • ⏱️ 19:53 • 14h ago
+👁️ 13K • 👍 340 • 💬 21 • ⏱️ 19:53 • 21h ago
 
 ---
 
@@ -260,17 +282,7 @@ BITCOIN LIQUIDATIONS HAVE STARTED (Don't Be Fooled)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 4K • 👍 221 • 💬 95 • ⏱️ 21:25 • 3h ago
-
----
-
-**[🚨 INSANE ETHEREUM PRICE PREDICTION!!!](https://www.youtube.com/watch?v=KAnDTB1ym5w)**
-
-EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_official Follow: https://x.com/elliotrades ...
-
-📺 Altcoin Daily
-
-👁️ 29K • 👍 576 • 💬 54 • ⏱️ 1:12 • 18h ago
+👁️ 18K • 👍 375 • 💬 86 • ⏱️ 21:25 • 10h ago
 
 ---
 
@@ -280,57 +292,45 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 22 • 💬 32 • ⏱️ 4:08 • 10h ago
+👁️ 2K • 👍 25 • 💬 34 • ⏱️ 4:08 • 17h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum, Letzte WARNUNG!! ES ist passiert, ich setzte nicht mehr gross auf LONG!!](https://www.youtube.com/watch?v=RNUHQCliMGg)**
+**[XRP, Solana, Ethereum: The TRUTH Revealed! #shorts](https://www.youtube.com/watch?v=pklLNmym04U)**
 
-DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+Beware of easy gains in crypto. Promises of massive returns often hide the real risk: sudden dumps by large holders. Stay vigilant ...
 
-📺 Krypto Trading & Investing
+📺 Martyn Lucas INVESTOR
 
-👁️ 2K • 👍 421 • 💬 51 • ⏱️ 13:15 • 1h ago
-
----
-
-**[Ethereum Just Broke Out. Is It A TRAP?? (My Trade)](https://www.youtube.com/watch?v=uBH_WkIIoJ4)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 22 • 💬 58 • ⏱️ 3:44 • 1d ago
+👁️ 199 • 👍 5 • 💬 1 • ⏱️ 0:22 • 3h ago
 
 ---
 
-**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=Sgl2zz9lTrI)**
+**[$82 Door Blown!.  $85K Hit.  Live Bitcoin Trading](https://www.youtube.com/watch?v=WaYY7hDhPYU)**
 
-Ethereum is doing something Bitcoin is not: it has already broken above its April high. Bitcoin is still below the April and May swing ...
+Welcome to AlexOCrypto! Join us for daily live Bitcoin trading sessions, in-depth crypto market analyses, and tutorials designed ...
 
-📺 More Crypto Online
+📺 AlexOCrypto
 
-👁️ 14K • 👍 350 • 💬 23 • ⏱️ 9:40 • 1d ago
-
----
-
-**[BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9NVoMLie5mI)**
-
-BITCOIN WARNING SIGNAL REPEATING NOW (prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 28K • 👍 543 • 💬 135 • ⏱️ 20:15 • 1d ago
+👁️ 2K • 👍 250 • 2h ago
 
 ---
 
-**[CRUCIAL LEVEL FOR ETH NOW! (Ethereum Update)](https://www.youtube.com/watch?v=AyIxrMiQJxk)**
+**[CRYPTO MARKET CAP IS READY TO BREAKOUT SINCE JANUARY 2026!!!#zcash #crypto #ethereum](https://www.youtube.com/watch?v=ScwbpM1iygk)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+📺 CryptoWendyO
 
-📺 Cilinix Crypto
+👁️ 5K • 👍 279 • 💬 9 • ⏱️ 1:45 • 12h ago
 
-👁️ 1K • 👍 24 • 💬 3 • ⏱️ 4:53 • 21h ago
+---
+
+**[🚀 Why Ethereum CHARGED to $2700 ‼️](https://www.youtube.com/watch?v=MLz71gMmM_g)**
+
+Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' X: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 3K • 👍 243 • 💬 26 • ⏱️ 18:33 • 11h ago
 
 ---
 
