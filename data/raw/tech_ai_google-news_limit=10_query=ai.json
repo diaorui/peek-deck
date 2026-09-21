@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5",
-      "pub_date": 1789902001.0,
-      "article_url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
-      "description": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI."
+      "headline": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\"",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
+      "pub_date": 1789911420.0,
+      "article_url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
+      "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News."
     },
     {
-      "headline": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mVWNJR2FxMmFqSFU0ajJGZEJwRlBWR3FibTdQbDh0R1k1T3ZGVFZRU09iVTJUam4zcGdfQzZ5c1V0MkU3ODI0WXR2Y1lkVzJadVR0dWpxZzJmajQ?oc=5",
-      "pub_date": 1789971943.0,
-      "article_url": "https://www.bbc.com/news/articles/cr5ye7p13jg7o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
-      "description": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction."
+      "headline": "Nvidia boss says there is \u20180% chance\u2019 AI destroys the world by 2030 | AI (artificial intelligence)",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
+      "pub_date": 1789974720.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "image": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
+      "description": "Jensen Huang dismisses warnings from former Anthropic researcher and others as \u2018doomsday narratives\u2019"
     },
     {
-      "headline": "Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmFtMXd5OS1hVkVCd0RiRXhzbU1mZVhVTW44am5KYVJPdFY4WE42Q1kyTW9jdEFWRjRaTFlVNmVfQWF1QmRrUWdHalFpcVBTUUNGOW5pUGpwYzVNQmw4aC0wcjRId1U5M3ZtTmNwQk9WTTBHRks1b0htSjJzc19LQ3V2bFpVdjM0YWlrbEFLOUdYUEJmcnNxMWJzZU01Q0RNSnlRVGFzTWpmYTRIZnc?oc=5",
-      "pub_date": 1789931820.0,
-      "article_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
-      "image": "https://i.insider.com/6ab0228c16256d3825fdff64?width=1200&format=jpeg",
-      "description": "Nvidia CEO Jensen Huang says current regulations are enough to ensure AI is safe \u2014 and profitable."
-    },
-    {
-      "headline": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pejItd2Z0NU0zRC1NT2ZMa21lWkhaTDh5OXJiT0NPSkxzTjI0VXdHYU4yWTVFY3g2RUk4V3YyMnJjbjV2NWEtSUxnMEtZUmcwbVpDek1PT0tJdFE?oc=5",
-      "pub_date": 1789969856.0,
-      "article_url": "https://www.bbc.com/news/articles/c8vgyzn2d31yo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
-      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week."
-    },
-    {
-      "headline": "Tokenmaxxing: The Dangerous New AI Trend Businesses Need To Stop",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmI1QWhvSFJ0S0M0RkZjb1RCTm9yU1k2dGVNTTZyN0lSaWJCSDJWWEdQSUJKMFhTRlNBOHNOUWUwNlBHcjNFTnVELVZ3ZmlqaVJHRDFndm9vYlhEQ3dsY0JvcVc0eE4wUG9BemhDbi02M2JTM1gzSzZMQWswX2paaTY4WDl1aWlNeklSaUhjekVTTlNNYV9UcUFlVEJhSDFkNWVSM2JMRUV0T1dQdHZwcG1SbXVVeXc?oc=5",
-      "pub_date": 1789969997.0,
-      "article_url": "https://www.forbes.com/sites/bernardmarr/2026/09/21/tokenmaxxing-the-dangerous-new-ai-trend-businesses-need-to-stop/",
+      "headline": "Capitol agenda: Nvidia\u2019s clout tested as AI debate shifts",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2tPQ2RIbjFKMkFBSEhISXY3SkJ0SGZMbkVubW5BOGt1N01FUUdxZFYwanBzcDJid2VpQ1hYdjZnXzFZalRTMGVCd21xOWdWR0Q0R01vaTM4YmpJOUh0a0dEd0tSOXdqY3I0STFyUDhzZGpxUmV1SEpPdlhERDhEcXpvSVN3RWNpems2YVZR?oc=5",
+      "pub_date": 1789980900.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why Goldman Sachs Still Prefers AI Infrastructure to 5% Treasuries",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHRfMFJBcm1yRHRGVmI3cGR5ODVTVHRTd3c5Sm5hVUdOdHZteWRVUEk5VERpaVJneElWZ2RUbE1PNXp3dEtLTzM4czE3QUVXSEFlYjlfR2dSdm0xSE1zU2tQUlhxX2YxMDBweDc3Zjh6QjhZWFN0ZElLRHF4Mm42bFh4aFVPcWR2Z2x3c21WcDN1QkQ3Mm93ZjNpLVRrODdD?oc=5",
-      "pub_date": 1789968534.0,
-      "article_url": "https://www.businessinsider.com/bond-market-interest-rate-us-treasury-ai-trade-goldman-sachs-2026-9",
-      "image": "https://i.insider.com/6ab096ce4a3706ac06f85464?width=1200&format=jpeg",
-      "description": "Higher rates haven't necessarily undermined the AI boom"
+      "headline": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzF1U1p0TVN5LWRKZlJGc29FSlJsNERlZWdtVmJLMUZsVktQc2I5TVRjdk14aTBJYzZRaUpGWlR1d0hBTlZIclhSSVJhRUNENERxRjFEQ3YwbjdXZFl4Y1Q0bkJpdVo2QUlQdHFmUHRNc0puWEVQQURTSUQ0SUVkUm9GdlplZmhPaFdaVHdXNVhhRTBXRGdoZA?oc=5",
+      "pub_date": 1789953147.0,
+      "article_url": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Fidelity\u2019s Durance Is Shunning Tech Bonds Feeding the AI Boom",
+      "headline": "M6 Mac mini Review: A Better Tiny Desktop, With or Without AI",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObGRKQlMzNjVXb1JTUjg3MmdZaHZZUXFnR2hHS0U0TkV4eXlPbkZGVlJaZ2YzbzlncDE2SDd5SEVpMXhoS0dXOFlkbVNxbkFEZDc0MEVUWnV4OXdQVFMwYTVQbzJfS3pPZGJSX2l3blBEWjlQOGZFLVJ1V1lSZURoOThyVklOZjlvdjJ4dk03OGR4cG1z?oc=5",
+      "pub_date": 1789995609.0,
+      "article_url": "https://gizmodo.com/m6-mac-mini-review-a-better-tiny-desktop-with-or-without-ai-2000813947",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Energy-Guzzling\u2019 AI Must Rein in Its Emissions, Says UN Climate Chief",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlF5T3dzc1JDNkltRDRqZzNkRWs0eFAxclFsWkVFTmJsU3JZTHY2VlR1X3dnRGNtY3FJbEFPTDIxemFOeHduNUxnajROLWtkM2ltMTVENFRYbDdGdXVNM1h0ejhaTV9ZR0lSdmY4Z0E2MURWcEUxRk1QaTdFZTZDbHRTZV8ySjY4dGwwWWVLRDFpbG9IT1h1SGVERlhqMkhwWWRQZmgwVXB3WGthemJabVN3?oc=5",
-      "pub_date": 1789969500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/fidelity-s-durance-is-shunning-tech-bonds-feeding-the-ai-boom",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQby1kaTZpa1JHYWJCMkhqeW5wS0V0SE9QWmIybElrMWsyMFBDRVpwckdKQkdDNlV4QlB1TkhrYlp4dGt0eXlwQm9MM0o1SjhrYlFNT3d6b3FiN240REsyd1o1ZGl6Rlk4aVNYMEFsTWZPV1dsNnRzQXBOLXVTeVBQaGJWa0JrYl9jNFpONXZGTU4zNWtEdlNkWTVYU1daZ0dmTUtBY1l6dDVPSWQyOC1lMUk3TzFiZ3c2VFBn?oc=5",
+      "pub_date": 1789996264.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/-energy-guzzling-ai-must-rein-in-its-emissions-says-un-climate-chief",
       "image": null,
       "description": null
     },
     {
-      "headline": "Hilton received 12,000 applications from Gen Zers for just 72 internship spots",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmVTbmYteXpESUN6UjJmNkFzRjNCdllWdGtCZ0xCRWxEYmxERk5EcWc2OWpVOHh5WG1ZeXlZVEZUZ2JIS0hiRmxUNzBMNHpkaWZ2dFVHZTdDakliUl9OUG9jcDQxaWVzS3VEWGMxb0l6STM1S0d6YzJ1MnBRMU1vT0xsYWNHQ1JSS3F5MVR0RjJUUkdENGlId25aVnlnN0ZTN0VDc002dHFfdXV4Q0dtYUZEVk9SbUlNZmc?oc=5",
-      "pub_date": 1789902000.0,
-      "article_url": "https://fortune.com/2026/09/20/hilton-applications-gen-zers-internships-early-career-program-chro-ai-hospitality-jobs/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2159442797-e1789764087122.jpg?resize=1200,600",
-      "description": "Only 0.4% of young applicants make it into Hilton\u2019s early-career program\u2014even more selective than Ivy League colleges."
+      "headline": "Scott Wiener and Connie Chan both want to rein in AI. They disagree on how to do that.",
+      "source": "missionlocal.org",
+      "source_url": "https://missionlocal.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PdTdBUzljOXBRbXZrWGVTVVd1eWNnajhDVk1CRWpDbzQ5blJlWlFFUFdhc3JmZlZYNDRTWlB1b3NpdGRvQ0gxc3RSMHFmVUJfcmZxOUVXNWtHWnk3QjA0Q1VmNjRNamhNdFN6dWwtbGc2d1NUanRfVkx0R1MxREE?oc=5",
+      "pub_date": 1789995600.0,
+      "article_url": "https://missionlocal.org/2026/09/ai-nancy-pelosi-scott-wiener-connie-chan/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Trump and sons invest heavily in AI economy as he resists calls for slowdown",
+      "headline": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbUxvcXExa3VOQmE4RG9MLWJFRGJuSFZUUnhDYVNod29kZ2dRWFNMSHp2NWRtcjJLbnJkRXR4VGQ2MWc2MUlsNFpRNXNZNC0yYk41Tkp1M1pEZTNFQTBnQ1pxME80VHpkbW55TUhfNFBVTW00eWhaTFBUYWN6M0FWOW51ZmJhbUY0dHpFX3RSdjlGTjTSAZgBQVVfeXFMT05jMENlb1RtWlo2RnRmdl9kTWF3aDZtZ2dXV3hSRUx2MVg3TDhCeVhmZW4zbURxcVd5Y0JQREk0MGlqU1NKZG9iLXVFOGF5YUZvS2FUSW5VOWhNdzhhVXlXMmxoZk1YaVJieDdGNTI2WE9FZ01PVWFGSVRIV0tCWTFvSjUxckhXLTItT1ZaNUJSUkN2WkhLV2c?oc=5",
+      "pub_date": 1789988401.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365583-1789993348352-Besent1.jpg?v=1789993358&w=1920&h=1080",
+      "description": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump."
+    },
+    {
+      "headline": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREVDR3ZKSlFTYzNVRFgxWENVN3RSaGpLY21Ta3ZBWmpVd2Zvb2FjOFVDd2pyeVA4WWhsSVl3WVRHUjdvSG5QdEZna0o4cmpXREdRRVZVTk8zNzlEYWtaZExKZmxMRllFQUJ4V05ydXRNOE9ESl81RzgwdFBJdnMzb2NGaFdDSXJoQ1UwU0ZiUDh0dHBoVll0ZXdJcUVfekw0a1hZZm8zSzh5NWtuWktMMVNqODhMUUFGeUpfUjVMMXJqamJBMGw1cUg1LXZwVXZLVmRBNA?oc=5",
+      "pub_date": 1789984800.0,
+      "article_url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/189e5eb6f1fc0bd28e3873374ffd83a1c68dc7d9559327648a5a2cf1f944e4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F401f6232-d687-4703-ab56-5f7bd62c2aad_e41666f8780ea00245798cfc102ef67809c1dd0078a8a23b84952382e2eb8aad.jpg",
+      "description": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September."
+    },
+    {
+      "headline": "Is this how the world ends? Extinction scenarios are taking over the AI debate.",
       "source": "washingtonpost.com",
       "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
-      "pub_date": 1789920000.0,
-      "article_url": "https://www.washingtonpost.com/politics/2026/09/20/trump-family-large-ai-related-investments-create-possible-conflicts/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E3Y4PHLGMZM3IS4YTORCT5RY3A.jpg&w=1440",
-      "description": "Trump\u2019s decisions as president on one of the most consequential policy debates of his administration could affect the value of his personal investments."
-    },
-    {
-      "headline": "WATCH: Exclusive look at blue-collar workforce fueling America\u2019s AI boom",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNME1FYWZ2a1lpRkpTdXdDZUJDcGF0d3drdUZLUGhrSVZhWTl5ekxJT3BGT1ZpaFFqV3RUb3RoQ1pNOWMwYkF2eDYtWHRpWHY2TzZuWkJ2X3d3V1IxOEhBVHRkYmZ5QnBfVDVEOGtVMG1HZERsZFZkcFEybDA2ZUc5MWtuVXA4OHFQQ0d1ZW9oZ3VwLTJ0bEpwRnVUelpnbTNMZmfSAacBQVVfeXFMUEVZZFNDYkdaaVRpNnVSRHhncmJxcXdjNm5QVmdwV2E0SnZBSGlyeUxUbzVsRl80OVlHODRiRFBhRm5aOXpVdmN1MGhvOC1xREtNMlZqVVJhZnVwYjA5TkJCajd2RDRFbTB6U3E2d0lRekxvM2tDei1IR2ljemtnWDNuMXpKUVdkZzdiSWwwUmF3ZGhqbW9Qa3gxb01MRHdaZ0ZtVTZqUlU?oc=5",
-      "pub_date": 1789902235.0,
-      "article_url": "https://www.foxnews.com/politics/watch-exclusive-look-blue-collar-workforce-fueling-americas-ai-boom",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/american-flag-construction-worker.png",
-      "description": "The American Workforce Academy represents a $115 million workforce development investment training skilled trades workers to build AI data centers."
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNHdXRXJtS3NzRnEwd0liQXYzbnM2bUV0UUJ3MU4xMklyMVUzbl9vRGtlVTRUdm44YnFzOGNrSWktT0pCWVBTVnE2WEcwUWxLd18xS2VNWTM4bWROZ19oSUN5Q01NU0NwSHBPbzVTZEdQT25jMlA0MGZGTEZ3dHZJeGJNMDlrbS14Ukt4UEtybGF5aExPRUJORjlKTC1rYzVtZmVYWHpsQnBzbnZUdGRiNE5VU3pla1lzZmMxUGFoaTg?oc=5",
+      "pub_date": 1789997565.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/21/is-this-how-world-ends-extinction-scenarios-are-taking-over-ai-debate/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKB3K6GXNZEIVN5QE67KOC6FAM_size-normalized.jpg&w=1440",
+      "description": "As nightmare thought experiments shape the fight over how to govern a multitrillion-dollar industry, some experts say the parables may lead decision-makers astray."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T06:49:27.786611+00:00"
+  "fetched_at": "2026-09-21T13:41:28.739041+00:00"
 }
