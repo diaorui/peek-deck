@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-21T13:41:30.387269+00:00'
+updated: '2026-09-21T19:06:44.709645+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 21, 2026 at 13:41 UTC  
+**Last Updated:** September 21, 2026 at 19:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,925.38
+### $85,952.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.5%  
-**7d:** +12.5%  
-**30d:** +9.5%  
-**90d:** +39.4%  
-**1y:** -24.6%  
+**24h:** +6.1%  
+**7d:** +13.7%  
+**30d:** +10.7%  
+**90d:** +40.9%  
+**1y:** -23.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1706.75B
+**Market Cap:** $1728.40B
 Rank #1
 
-**Circulating Supply:** 20,087,418 BTC
+**Circulating Supply:** 20,087,546 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.6%
+-31.8%
 
 **All-Time Low:** $67.81
-+125182.4%
++126783.9%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
 
-9h ago
+15h ago
 
 ---
 
 **[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
 
-17h ago
+23h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
 
-13h ago
+18h ago
 
 ---
 
 **[Oh boy](https://www.reddit.com/r/Bitcoin/comments/1wlvydf/oh_boy/)**
 
-14h ago
+19h ago
 
 ---
 
@@ -107,13 +107,13 @@ Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once i
 
 Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
-12h ago
+17h ago
 
 ---
 
 **[Bitcoin, Lowering Retirement since 2009](https://www.reddit.com/r/Bitcoin/comments/1wlucex/bitcoin_lowering_retirement_since_2009/)**
 
-15h ago
+21h ago
 
 ---
 
@@ -121,13 +121,13 @@ Made an obligatory buy to push us into the bull run. If everyone else could, tha
 
 Before vibecoding dashboards was a thing, I built this physical ticker that hangs on the wall. I was tired of pulling up apps or doing mental math to convert my stack into dollars, but I also had a dilemma: I didn't want my actual holdings permanently blasted on my wall for every visitor to see. My solution was to build a hidden "stealth mode" directly into the frame. By default, it functions as a standard BTC/USD price ticker. But when you slide a novelty Bitcoin across the front glass, a magnetic switch behind the faceplate trips, instantly calculating and displaying the stack's total USD value. It’s been running reliably for 8 years now. (And for obvious OpSec reasons, the stack size shown in these photos is hardcoded to a dummy 0.5 BTC). I wish I still had 0.5 btc. I was pretty optimistic when I designed it, there are 8 total digits available in the LED fields. Once Bitcoin hits $99 million, I'll have to rebuild it. Under the hood, it’s powered by a generic ESP8266 and a pair of Adafruit 7-segment LEDs in each field. It connects to my home Wi-Fi and simply polls a price API every minute.
 
-16h ago
+22h ago
 
 ---
 
 **[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 7h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 13h ago
 
 ---
 
@@ -149,31 +149,39 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html)**
+**[Bitcoin Jumps Above $85,000 to 8-Month High](https://www.wsj.com/finance/currencies/bitcoin-jumps-above-85-000-to-8-month-high-050f3578)**
 
-Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
-
-CNBC • 2h ago
+WSJ • 6h ago
 
 ---
 
-**[$3 Trillion Boom—These Red-Hot Coins Are Quietly Leaving Bitcoin In The Dust Even As Its Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/21/3-trillion-boom-these-red-hot-coins-are-quietly-leaving-bitcoin-in-the-dust-even-as-its-price-soars/)**
+**[Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF](https://ca.finance.yahoo.com/news/cathie-wood-makes-big-ai-183656436.html)**
 
-forbes.com • 32m ago
+Ark is quietly reshuffling risk across high-growth assets
+
+Yahoo! Finance Canada • 29m ago
 
 ---
 
-**[Michael Saylor's Strategy jumps as the company says it bought more bitcoin](https://ca.finance.yahoo.com/news/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html)**
+**[Michael Saylor's Strategy jumps as the company says it bought more bitcoin](https://finance.yahoo.com/markets/article/michael-saylors-strategy-jumps-as-the-company-says-it-bought-more-bitcoin-133538866.html)**
 
 Strategy stock popped after the bitcoin holding company disclosed it bought more of the token and repurchased preferred stock last week.
 
-Yahoo! Finance Canada • 5m ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Saylor’s Strategy Makes First Purchase of Bitcoin Since August](https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 6h ago
+
+---
+
+**[Michael Saylor’s Strategy buys Bitcoin again as surprise rally pushes price above $85,000](https://fortune.com/2026/09/21/michael-saylors-strategy-bitcoin-surprise-rally-price-85000/)**
+
+The corporate Bitcoin giant returned to buying as the cryptocurrency defied its usual September slump.
+
+Fortune • 2h ago
 
 ---
 
@@ -185,33 +193,19 @@ Slate Magazine • 1d ago
 
 ---
 
+**[Strive adds 1,355 bitcoin, picks up pace toward year-end second-place treasury goal](https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940)**
+
+Strive (ASST) remains the fifth-largest public bitcoin holder, behind Strategy, Twenty One, Metaplanet and MARA.
+
+The Block • 3h ago
+
+---
+
 **[Coinbase Policy Chief: Strategic Bitcoin Reserve Bill Outlook](https://bitcoinmagazine.com/videos/coinbase-policy-chief-strategic-bitcoin-reserve-bill-outlook)**
 
 The Clarity Act's cloture vote failed. Coinbase Chief Policy Officer Faryar Shirzad breaks down what went wrong and where regulation goes next.
 
 Bitcoin Magazine • 1d ago
-
----
-
-**[Bitcoin Is at Its Highest Price Since January. Strategy Buys the Cryptocurrency.](https://www.barrons.com/articles/bitcoin-prices-coinbase-strategy-robinhood-stocks-81bef9f7)**
-
-Barron's • 1h ago
-
----
-
-**[Bitcoin Price Pumps Above $80,000: Jason Calacanis Challenges Michael Saylor and Cathie Wood](https://www.tradingview.com/news/cryptonews:49c405c3b094b:0-bitcoin-price-pumps-above-80-000-jason-calacanis-challenges-michael-saylor-and-cathie-wood/)**
-
-Bitcoin price touched the $84,000 level just now after breaching $80,000 last week. This movement has prompted investor Jason Calacanis to characterize the move as a dead-cat bounce. Calacanis questioned Bitcoin’s relevance 17 years after its creation, arguing that it is not well-suited to transact…
-
-TradingView • 4h ago
-
----
-
-**[Cathie Wood's weekly recap: buys $25M of CoreWeave, trims $40M in Bitcoin ETF (ARKK:BATS)](https://seekingalpha.com/news/4644614-cathie-woods-weekly-recap-buys-25m-of-coreweave-trims-40m-in-bitcoin-etf)**
-
-Cathie Wood’s Ark Invest made several large portfolio moves last week, adding to CoreWeave (CRWV) while increasing exposure to healthcare and trimming positions across crypto, genomics and technology.
-
-Seeking Alpha • 2h ago
 
 ---
 
@@ -223,13 +217,21 @@ VanEck • 3d ago
 
 ---
 
+**[Morning Minute: Kevin O’Leary Calls for $1 Million Bitcoin, With an Asterisk](https://decrypt.co/378728/morning-minute-kevin-oleary-calls-for-1-million-bitcoin-with-an-asterisk)**
+
+Meanwhile, Bitcoin pushed up to $85,000 and a new local high and altcoins soared in a huge overnight rally.
+
+Decrypt • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "bitcoin"
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 315 • 💬 272 • 4d ago
+⬆️ 316 • 💬 273 • 4d ago
 
 ---
 
@@ -267,7 +269,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-⬆️ 2 • 💬 1 • 3d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
+⬆️ 2 • 💬 1 • 4d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
@@ -291,7 +293,7 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
 
-⬆️ 15 • 💬 4 • 14h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+⬆️ 15 • 💬 4 • 19h ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
 
 ---
 
@@ -299,103 +301,101 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
-**[They Called Bitcoin Dead… But Another 21x Rally Could Be Next!](https://www.youtube.com/watch?v=D8cdlJjuOeM)**
+**[Bitcoin EXPLODES Past $86,000 - What Comes Next?! | EP 1596](https://www.youtube.com/watch?v=-PvlHscb9cg)**
 
-Bitcoin is back above $80000 while a Fidelity cycle indicator is flashing a signal that historically aligned with major Bitcoin bottoms ...
+Bitcoin bull market is SOOO BACK!!! BEARS WERE WRONG!
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 84 • ⏱️ 14:41 • 15h ago
+👁️ 4K • 👍 298 • 💬 24 • ⏱️ 1:19:51 • 1h ago
 
 ---
 
-**[BITCOIN: BULLS ARE HERE!!!!](https://www.youtube.com/watch?v=afBQsHPFJ-I)**
-
-JOIN BULLMANIA WAITLIST: https://bullmania.com/ BULLMANIA ARENA: https://arena.bullmania.com/ EXCHANGE ...
-
-📺 Ivan on Tech
-
-👁️ 19K • 👍 1K • 💬 79 • ⏱️ 53:08 • 3h ago
-
----
-
-**[Bitcoin Is About To Send Altcoins CRAZY! (Crypto Holders Don&#39;t Make This Mistake)](https://www.youtube.com/watch?v=pet4ny_X8WI)**
-
-Bitcoin just closed above the 50-week moving average on the weekly chart, a signal that has come before every one of Bitcoin's ...
-
-📺 Crypto Capital Venture
-
-👁️ 29K • 👍 982 • 💬 239 • ⏱️ 19:04 • 11h ago
-
----
-
-**[BITCOIN BULL MARKET NOW 100% CONFIRMED!!!! [BREAKING]](https://www.youtube.com/watch?v=ehKA4yfGRPA)**
-
-SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
-
-📺 Crypto Kid
-
-👁️ 5K • 👍 271 • 💬 22 • ⏱️ 4:03 • 4h ago
-
----
-
-**[The ACTUAL reason crypto is exploding 🚀](https://www.youtube.com/watch?v=mEI3bELGuIs)**
-
-Here is the REAL reason crypto is pumping... WEEX AI Wars ($600K prize pool): ...
-
-📺 Altcoin Daily
-
-👁️ 74K • 👍 2K • 💬 60 • ⏱️ 1:27 • 2d ago
-
----
-
-**[🚨LIVE: THE BITCOIN BREAKOUT IS STARTING...](https://www.youtube.com/watch?v=akaPthhGOiA)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 32K • 👍 1K • 💬 12 • ⏱️ 2:33:55 • 1h ago
-
----
-
-**[Get Ready for a Bitcoin Breakout Week](https://www.youtube.com/watch?v=VTaGTEXZ8ps)**
+**[Bitcoin Bull Market Is Back! BTC Cleared a Historic Breakout Level](https://www.youtube.com/watch?v=PgMLfOvzTms)**
 
 Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 894 • 💬 108 • ⏱️ 12:12 • 12h ago
+👁️ 25K • 👍 1K • 💬 156 • ⏱️ 44:48 • 4h ago
 
 ---
 
-**[BITCOIN JUST CONFIRMED THE BOTTOM...](https://www.youtube.com/watch?v=TWIHrTba330)**
+**[Bitcoin Is Breaking The Rules: What You Need To Know Now](https://www.youtube.com/watch?v=4AKON94GF-I)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+Bitcoin market trends are shifting. See why Bitcoin is acting as both a risk-off and risk-on asset in today's economy. We are seeing ...
 
-📺 Crypto Rover
+📺 Coach JV
 
-👁️ 17K • 👍 640 • 💬 31 • ⏱️ 10:33 • 8h ago
-
----
-
-**[BITCOIN: Ignore The PANIC! This Is What Really Matters...](https://www.youtube.com/watch?v=d9pDINhumWM)**
-
-Opening Statement & Video Context 0:00-3:05 Analysis 3:05-12:37 My Market Bottom Buying Strategy ...
-
-📺 Wolves of Crypto
-
-👁️ 6K • 👍 267 • 💬 134 • ⏱️ 12:38 • 8h ago
+👁️ 7K • 👍 505 • 💬 67 • ⏱️ 4:54 • 4h ago
 
 ---
 
-**[Bitcoin Holds $75,500: Is The Bear Market Low In? Massive Reveal!](https://www.youtube.com/watch?v=G233Y5ol-dY)**
+**[BITCOIN WILL NOT WAIT FOR YOU](https://www.youtube.com/watch?v=xrxwQqvvTGU)**
 
-Bitcoin surged 6% after holding the $75500 technical level Gareth Soloway called in his previous video, and in this update he ...
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
 
-📺 Gareth Soloway
+📺 Crypto Tips
 
-👁️ 132K • 👍 4K • 💬 184 • ⏱️ 11:24 • 2d ago
+👁️ 3K • 👍 304 • 💬 29 • ⏱️ 6:59 • 3h ago
+
+---
+
+**[Bitcoin just did something it hasn&#39;t done in 45 weeks.](https://www.youtube.com/watch?v=uEh5xdbltPg)**
+
+Scott called this bear market bottom. The weekly chart just confirmed it. Bitcoin closed a week above its 50-week moving average ...
+
+📺 Yahoo Finance
+
+👁️ 3K • 👍 264 • 💬 77 • ⏱️ 14:57 • 2h ago
+
+---
+
+**[THIS IS HUGE FOR BITCOIN!](https://www.youtube.com/watch?v=ylitNDhPqGs)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 10K • 👍 398 • 💬 115 • ⏱️ 17:50 • 5h ago
+
+---
+
+**[I Have To Admit Something About This Crypto &amp; Bitcoin Breakout... [emotional]](https://www.youtube.com/watch?v=ZuDKuLO1Z-0)**
+
+Trade on Phemex Phemex Exchange ✔️ https://phemex.com/a/k/TylerS Trade on Kalshi   ✓ https://kalshi.com/p/tylers ...
+
+📺 Tyler S
+
+👁️ 6K • 👍 593 • 💬 192 • ⏱️ 9:31 • 4h ago
+
+---
+
+**[Bitcoin Breaks the May High (I Was Wrong)](https://www.youtube.com/watch?v=RD1IMRMH6JU)**
+
+📺 Benjamin Cowen
+
+👁️ 62K • 👍 9K • 💬 2K • ⏱️ 3:01 • 4h ago
+
+---
+
+**[FINALLY?](https://www.youtube.com/watch?v=ZmKLnnHi9cI)**
+
+EMERGENCY Bitcoin Breakout. Disclosure: I have indirect long BTC, ETH, SOL, ZEC exposure as of the time of recording; that ...
+
+📺 CTO LARSSON
+
+👁️ 16K • 👍 922 • 💬 52 • ⏱️ 4:22 • 6h ago
+
+---
+
+**[Bitcoin BREAKS $85K As The Bear Market Case COLLAPSES](https://www.youtube.com/watch?v=3M-OdwaMaac)**
+
+Bitcoin #Crypto #finance Bitcoin surges to $85K as a massive short squeeze wipes out nearly $648M in bearish bets, while falling ...
+
+📺 The Wolf Of All Streets
+
+👁️ 34K • 👍 1K • 💬 286 • ⏱️ 59:44 • 4h ago
 
 ---
 
