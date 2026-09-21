@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
       "points": 316,
-      "num_comments": 273,
+      "num_comments": 274,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "Space Daily"
     },
     {
+      "title": "Bitcoin decentralized usernames are now available",
+      "url": "https://twitter.com/robin_linus/status/2102109957718151641",
+      "hn_url": "https://news.ycombinator.com/item?id=49793186",
+      "author": "ca98am79",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-09-21T20:48:38Z",
+      "object_id": "49793186",
+      "image": "https://pbs.twimg.com/card_img/2100397404423864320/4Q7H2BgI?format=webp&name=medium",
+      "description": "Imagine paying robin@bitcoin\n\nThat\u2019s it. The wallet picks the rail: onchain, Lightning, Silent Payments, Ark, Glass Coins,...\n\nAll behind one handle.\n\nhttps://t.co/GktyWFbTdN",
+      "favicon": "https://twitter.com/apple-touch-icon.png",
+      "site_name": "X (formerly Twitter)"
+    },
+    {
       "title": "Play Bitcoin Bird",
       "url": "https://coinmarketcap.com/?play=bitcoinbird",
       "hn_url": "https://news.ycombinator.com/item?id=49739330",
@@ -115,23 +129,9 @@
       "description": "Eleuteria \u2014 independent RoboSats coordinator for private peer-to-peer Bitcoin trading.",
       "favicon": "https://eleuteria-robosat.github.io/favicon.ico",
       "site_name": "eleuteria-robosat.github.io"
-    },
-    {
-      "title": "The viewers ditching streaming 'rot' in favour of DVDs",
-      "url": "https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds",
-      "hn_url": "https://news.ycombinator.com/item?id=49781110",
-      "author": "billybuckwheat",
-      "points": 15,
-      "num_comments": 4,
-      "created_at": "2026-09-20T23:14:35Z",
-      "object_id": "49781110",
-      "image": "https://media.rnztools.nz/rnz/image/upload/s--JnD5p8gX--/t_tohu-badge-facebook/f_auto/q_auto/4JJ1CMF_260831_Aro_St_Video_Shop_3_jpg",
-      "description": "A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons \u201cwe\u2019re starting to realise the rot of it\u201d.",
-      "favicon": "https://www.rnz.co.nz/_next/static/media/apple-touch-icon.3fb10969.png",
-      "site_name": "RNZ"
     }
   ],
   "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-09-21T19:06:08.006892+00:00"
+  "fetched_at": "2026-09-21T22:43:49.866293+00:00"
 }
