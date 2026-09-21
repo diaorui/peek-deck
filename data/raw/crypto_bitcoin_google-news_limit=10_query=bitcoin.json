@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDQ4c1BBTHFDRVloRTM2dHlCOVdyckRiYUtULUhrX1VtQkxFOEZyR0RRNnR5WFNwdFBFOHRFd0YzNmVLWk0ydVo1bldRNUlSOUJEc2pyanhQYnk5S2M0T2F5VTZrYjVobWw0QzFheldkLXgzdGpOYjNscS1tZ05XakNyOFQ0MUxpTzhjblJBRWtqakJQT2ZHYncwb1BOMHRKaG1XU0FnbmZlMDNQS2xPMmRJYWpWaFJGbjM0bXN0TE0?oc=5",
+      "pub_date": 1789714800.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations."
+    },
+    {
       "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
       "source": "Slate Magazine",
       "source_url": "https://slate.com",
@@ -15,14 +25,14 @@
       "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
     },
     {
-      "headline": "Bitcoin survived brutal week of market shocks. Still, analysts are deeply split on what happens next.",
-      "source": "coindesk.com",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcDQ4c1BBTHFDRVloRTM2dHlCOVdyckRiYUtULUhrX1VtQkxFOEZyR0RRNnR5WFNwdFBFOHRFd0YzNmVLWk0ydVo1bldRNUlSOUJEc2pyanhQYnk5S2M0T2F5VTZrYjVobWw0QzFheldkLXgzdGpOYjNscS1tZ05XakNyOFQ0MUxpTzhjblJBRWtqakJQT2ZHYncwb1BOMHRKaG1XU0FnbmZlMDNQS2xPMmRJYWpWaFJGbjM0bXN0TE0?oc=5",
-      "pub_date": 1789714800.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Despite absorbing a Federal Reserve rate hike and the failure of U.S. market-structure legislation, Bitcoin held the $75,000 level while broader derivatives markets faced steep liquidations."
+      "headline": "Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXd3ZThtR3N0aHpmdFh6QmdXS0ZJSG1ORHJFQXFocFd5bG9uX2dUbmJTQ0ItMExxNThVZHdxa1Etekd0V0hmd1B6LTNVbEVzbTQ5R25oWm5ZeklleGdGeGdpemxLdFBTb2MzRHFQUFAtQmdYZk5CYkgzSG1BSllacnZCN05wc18tbDk1aVZqOFgzWmlPbERGNzZmOWtGanh1alVJel9ZZldxQ0RIV2dtMQ?oc=5",
+      "pub_date": 1789967100.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin surges 5% to top $80,000 as investors look past Clarity Act's failure",
@@ -33,6 +43,16 @@
       "article_url": "https://finance.yahoo.com/markets/article/bitcoin-surges-5-to-top-80000-as-investors-look-past-clarity-acts-failure-145857106.html",
       "image": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
       "description": "Bitcoin jumped 5% to $80,000 per token on Friday as investors looked past a Fed rate hike and failed Clarity Act vote."
+    },
+    {
+      "headline": "Billionaire Tim Draper Predicts Bitcoin Will Hit $250,000 Within 2 Years. Here's What Needs to Happen.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHZ0MG1Ob3NxRTQ0SXhwVXZVTVRhUGtnenc0Tmw4N2MwckdNZTJoSGRwZjllbWVQWlY2aEFkRV83V1ZXbnh4eDloc1hLLXlLcThmWG05NV9fcmVUY21ZQ0RDSjZFbklzc1Rvcld4U2NGaGExcVQ4SzJCdDVSRWxINzVrQkhWMDRCbnJ2MlFYaGZENl9yc0V2cmdMcUFqVFoxVllONm5wOA?oc=5",
+      "pub_date": 1789971600.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-tim-draper-predicts-bitcoin-062000744.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/b103465424c52d2eee1e3b5be03ebcb557d5aa64d0e86cdcd2a8b67bbe1988f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F293e671c12fb76230d3e6e51cb934381.jpg",
+      "description": "Could Bitcoin really triple in value within just 24 months?"
     },
     {
       "headline": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
@@ -65,46 +85,26 @@
       "description": "Miners hold the scarce asset as US power demand outruns supply, while Metaplanet\u2019s 14.7% option pool shows how DAT insiders capture shareholder dilution."
     },
     {
-      "headline": "BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ1JhVzE2VDRtRlhDMjJUbzkzbVVna1ZMVHR3eVRVakNyWGVma2ZGN3FhQXNiZ0UtemZzTDZ3eloyZl9ERlNRclUtRXo2eXpjQkdBcWpxbTVaZGRRNjlSZ3FzdzBzTUE4bTJJaXlmaDdmSi1Kb3d3YVZHWE1fN2RPeEhRdG1fMkZoMElzVzhJajhqMko3bU50X0NlWFZkdTI3akJoLTRaZXVlOWY2SVU1cGtZaGhIVHgtWC0zTU1qV2ZkUVpiM3pjaHFZakY3SzM2SnM4WDRJWXVHMFJBVEkxdkJsUWhOeWY4NmREeFlJdUtKSExQdG9NN0VwQzZ1Y2I4ZExycnpoQ0drV0xIODM5MHNB?oc=5",
-      "pub_date": 1789916477.0,
-      "article_url": "https://www.tradingview.com/news/stocktwits:c8d2fd760094b:0-blackrock-s-us-equity-etf-head-says-bitcoin-s-diversifier-role-still-very-much-holds-as-ai-s-best-bets-move-outside-of-tech/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Wall Street may have changed who owns Bitcoin, but it hasn\u2019t changed why investors own it, according to BlackRock's (BLK) U.S. Head of Equity ETFs, Jay Jacobs.Bitcoin's (BTC) role as a portfolio diversifier survived its institutional takeover, and Jacobs said the best opportunities in AI now sit ou\u2026"
+      "headline": "Seminole County gas station stops Bitcoin ATM scams",
+      "source": "wesh.com",
+      "source_url": "https://www.wesh.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnF5SS1UNHFRY0VjYm5Icmw1MlJfampTamRERWlKNzdKUWtrZ04tYVpuYVQ1WFc0eV9pRUc4NUk1NHAtYTFjczZnTDF1RnVqTEE0TXhfR2RId3JBbGVmQjZQWkhKZVdmMHU5VUFadHdxWGlLS0JRTGxRcV9YY0tQMmM0MTM4eFVnV0FuZGVRS2tDcHM?oc=5",
+      "pub_date": 1789784280.0,
+      "article_url": "https://www.wesh.com/article/seminole-county-gas-station-stops-bitcoin-atm-scams/73796678",
+      "image": "https://kubrick.htvapps.com/vidthumb/bdf58094-0ee9-44c9-84ae-513bab2526ad/853defc6-ad75-4599-a89b-ef56869be237.jpg?crop=0.819xw%3A0.818xh%3B0.0879xw%2C0&resize=1200%3A*",
+      "description": "A gas station in Sanford has saved customers thousands of dollars by intervening in Bitcoin ATM scams targeting unsuspecting victims."
     },
     {
-      "headline": "Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEtlXzBoaGpQb2RqYVlacXNqVmVaYTVnaUhEcGNTYUFyTVJwT2s1RmpSaFRKNUNfaGpUTjhVaG1LWXNHSlljQzdwZVdETzR4ZklYSTVEWUVjcE9SOFhLeTFRZHNDX0ZvVy1McUpJUmRxOG41dzl4ZFBkR0VYdXJFYmNscmlxMWdsVXBFQjRZSVg0NUl2SHF5Ng?oc=5",
-      "pub_date": 1789823040.0,
-      "article_url": "https://www.fool.com/investing/2026/09/19/can-bitcoin-reclaim-x-in-2026-one-factor-could-dec/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886850%2Fgold-coin-with-bitcoin-symbol-on-it-cryptocurrency-btc.jpg&w=1200&op=resize",
-      "description": "If history is any guide, the Bitcoin bottom is already in, and $100,000 is within reach."
-    },
-    {
-      "headline": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzdTdS1uSlkxblZIazlrTVRmNk5qcWVPa0VVV1BfeHNlTmNtNm5uOHdKb0lNSVFyT0I5dFVnRkVyT3NLRk9FeFdVUDNhaC1fck5hcklqdkUwRmtTUDZPVzlua3VNRmRGbjd1aDNWWFR2bjYzT3Y2WjloSENVeF8tWUdzcmFaT2o3WllYeU83M20tUGhLOGtDN0ZzbXRDNWVfNVZsazNvODU0NUNGTjhzUFRzUWYtVm5RdS1veEZjM0ltVUlkckE?oc=5",
-      "pub_date": 1789922346.0,
-      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin is set to hit a key level by next year as fiscal worries prop up the cryptocurrency: VanEck",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVp4TTJPZFpLR2R5bS0ycFludHhPQkpON1JMWWVja0NfUTV0aXhIQ0pRVlgyNURSQjJQZUJiaWhmcmVsVnp3WlZDdFVjWGVjbXQ3a3I1WkhXdHJmcHd6d0dERnJ3ZWZTMUZwZkhuZjR5Ri1WbEtNWnhLa1hNb1hZdA?oc=5",
-      "pub_date": 1789711846.0,
-      "article_url": "https://www.cnbc.com/2026/09/18/bitcoin-cryptocurrency-forecast-vaneck.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324260-1781816309163-Bitcoin_iPhone.jpg?v=1781816424&w=1920&h=1080",
-      "description": "Sigel said that conversations with institutional clients, from advisors to sovereign wealth funds indicate that they are all buying bitoin."
+      "headline": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05dGtMT2xCTzdPa2JJeURSc01UUlJzcDdzLXhxRWFvX3pTZUNQa2JveEpaVlg1UFU2NkM1aHV3UVNtT3JsSEtBTU01UHBJMWs4MUw2V2pwS1lyRUFZLXhxTkNkQWRmVkhGMDFNTjFZUXhrYlnSAXtBVV95cUxPbF9GbVNBWVZYN3l6cXREZGh4OER4TF9aUXRJM29KdkV0RzZpb1lUT18tRXdUcm40WFNqdzh5bEZydVJyQ3hVdTd6cndpLWpNdWsxcUlvRy1nZnl2QlR0STVCRm1SVXhMTExub3BmOG5OczQwWmtLRHQ3b2M?oc=5",
+      "pub_date": 1789912863.0,
+      "article_url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png",
+      "description": "Over two years, Bitcoin gained 28% while the median mid-cap altcoin lost 74% and Ethereum landed roughly sideways."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T01:22:55.888755+00:00"
+  "fetched_at": "2026-09-21T06:49:17.217643+00:00"
 }

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-21T01:23:05.226969+00:00'
+updated: '2026-09-21T06:49:30.902764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 21, 2026 at 01:23 UTC  
+**Last Updated:** September 21, 2026 at 06:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ I am have made quadraupod and i need help is figure out the Inverse kinematics t
 
 Hey all! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston on October 24–25. We’ve been working hard to put this together, but as an independent student-led event, funding everything ourselves is difficult. Right now, our biggest challenges are finding an affordable/free venue and covering food, water, and other basic event costs. So we’re reaching out to the community for help. If you or someone you know could help in any way sponsorship, a venue lead, food/drinks, prizes, or simply an introduction to the right person/company, it would genuinely mean a lot. Even a small lead could help us make this happen! Please comment or message me if you can help. Happy to share our Luma page and more details!
 
-6d ago
+7d ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m the developer of ARMOR, a robot simulation app for iPhone and Mac that fea
 
 I spent a month of my summer back in the university labs building this. Nine units are now on their way to a civilian community near the Israel-Lebanon border and everything is published. The drones this is for are not normal wireless drones, they are small FPV drones connected to the operator through a long spool of fibre optic cable, so drone detection through radio, the current industry standard, is just not applicable. My solution was to detect them by sound instead. Propellers cutting through the air put a comb of harmonics into the spectrum, and four algorithms run in parallel looking for that shape. Hardware: 84mm square, four layer, ENIG, ESP32-S3-WROOM-1-N16R8 4x ICS-43434 MEMS mics, bottom ported, firing through apertures in the board at +-28mm Ra-01H LoRa so one unit alerts every other unit nearby BQ24074 charger with power path into a TPS63020 buck boost, 1S 2500mAh cell, 18 to 22 hours 1.54in e-paper that keeps the alert on screen with no power, beeper, RGB led through a printed light pipe, vibration motor 91 x 91 x 29mm sealed weatherproof printed case, the lid has four 45 degree cones running from the grille straight down onto the mic ports Two things that cost me some valuable time. With no battery fitted, the beeper, motor and LoRa transmitting at the same moment browned out the board on USB alone, so the cell is part of the power design and not a backup. And GPIO 33 to 37 on the N16R8 are tied to the PSRAM die even with PSRAM off, they fail on and off instead of just failing. Tested against a custom drone rig with the exact same specs as the drones used on that border (four 2807 motors, 7in tri blades, FPV airframe), 104.2m away on a street with passers by and mild wind. It detected it. About £50 in parts. Detection and alerting only, so no jamming. Gerbers, BOM, STLs, test audio and the results are all in the Github, and the website has more media and a live detector simulation that runs in the browser. The links to all the resources are in the comments!
 
-7d ago
+8d ago
 
 ---
 
@@ -112,27 +112,55 @@ I'm creating co-working space within the industry of robotics in my native count
 
 ## Google News: "robotics"
 
+**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
+
+Training systems that allow robots to negotiate the real world are getting more sophisticated.
+
+BBC • 3d ago
+
+---
+
+**[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
+
+Reuters • 3h ago
+
+---
+
+**[Japan's first robot ambulance works the 9-1-1 lines for humanoids](https://newatlas.com/ai-humanoids/japan-gmo-humanoid-ambulance-robots/)**
+
+Before humanoid robots fully integrate into our societies and inhabit our homes, factory floors, and workspaces, a Japanese firm is thinking one step ahead. GMO has just unveiled a "Humanoid Ambulance" that it will roll out this month to handle maintenance tasks on-site.
+
+New Atlas • 22h ago
+
+---
+
 **[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
 
 Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
 
-Futurism • 10h ago
+Futurism • 15h ago
 
 ---
 
-**[Humanoid Robots Break Records In Beijing](https://www.dogonews.com/2026/9/18/humanoid-robots-break-records-in-beijing)**
+**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
 
-Humanoid Robots Break Records In Beijing has 16 comments.
-
-DOGO News • 2d ago
+Tech Xplore • 2d ago
 
 ---
 
-**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
+**[Two Birotors With a Deep Connection Can Breathe Life Into a Quadrotor](https://spectrum.ieee.org/video-friday-quadrotor-from-birotor)**
 
-Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
+Your weekly selection of awesome robot videos includes robots building robots, Lunabotics challenge competitors, and more
 
-CnEVPost • 16h ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[How an AI Slowdown Could Spark a Robotics Boom](https://investorplace.com/smartmoney/2026/09/ai-slowdown-spark-robotics-boom/)**
+
+Luke Lango thinks the AI industry has an opportunity to make this boom more durable over the long run. And for investors, that could shift some of the biggest opportunities toward companies finding valuable new ways to put AI to work.
+
+InvestorPlace • 8h ago
 
 ---
 
@@ -144,17 +172,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Open-source benchmark tests whether AI agents can engineer working robots](https://techxplore.com/news/2026-09-source-benchmark-ai-agents-robots.html)**
+**[School robotics team aims to inspire next generation](https://www.yahoo.com/news/science/articles/school-robotics-team-aims-inspire-045514604.html)**
 
-Tech Xplore • 2d ago
+The group from Folkestone is set to compete at the First Global Challenge in South Korea.
 
----
-
-**[China's Unitree Robotics stock falls by half in month after listing](https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing)**
-
-As IPO frenzy settles down, investors assess future of humanoids
-
-Nikkei Asia • 4h ago
+Yahoo • 1h ago
 
 ---
 
@@ -166,79 +188,17 @@ The Robot Report • 2d ago
 
 ---
 
-**[Meet the gig workers helping train robots to do our dishes](https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216)**
-
-Thousands of gig workers around the world are feeding the robotics industry's insatiable demand for training data on how to do things like household chores.
-
-ABC News & Headlines – Australian Broadcasting Corporation • 23h ago
-
----
-
-**[Robotics: Firms race to improve robot training systems](https://www.bbc.com/news/articles/c79g0j3d4q9o)**
-
-Training systems that allow robots to negotiate the real world are getting more sophisticated.
-
-BBC • 3d ago
-
----
-
-**[Chinese AI chipmaker Hygon plots expansion to robotics market](https://www.scmp.com/tech/tech-trends/article/3368168/chinese-ai-chipmaker-hygon-plots-expansion-data-centres-robotics)**
-
-South China Morning Post • 52m ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+**[Humanoid Robots Trade Blows at Shanghai&#39;s Premier URKL Clash](https://www.youtube.com/watch?v=veDOh14nFcE)**
 
-Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+Shanghai hosted the historic first stop of the Ultimate Robot Knock-out Legend (URKL) national city tour, showcasing advanced ...
 
-📺 Reward AI
+📺 New York Post
 
-👁️ 145K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
-
----
-
-**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
-
-The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
-
-📺 The AI Nexus
-
-👁️ 13K • 👍 245 • 💬 25 • ⏱️ 57:02 • 5d ago
-
----
-
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
-
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
-
-📺 DPCcars
-
-👁️ 20K • 👍 138 • 💬 38 • ⏱️ 2:56 • 3d ago
-
----
-
-**[Humanoid Robots Just Crossed a MASSIVE Threshold!](https://www.youtube.com/watch?v=oLVAuoMJ_EI)**
-
-Join this channel to get access to perks: https://www.youtube.com/channel/UCyqpZ8HY9FY5jH-RoVcwlnw/join **To become part ...
-
-📺 Dr. Know-it-all Knows it all
-
-👁️ 21K • 👍 495 • 💬 90 • ⏱️ 22:22 • 2d ago
-
----
-
-**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
-
-These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
-
-📺 Future Core
-
-👁️ 186K • 👍 726 • 💬 43 • ⏱️ 9:07 • 5d ago
+👁️ 17K • 👍 107 • 💬 75 • ⏱️ 1:22 • 10h ago
 
 ---
 
@@ -248,7 +208,77 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 808K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+👁️ 796K • 👍 12K • 💬 1K • ⏱️ 16:24 • 3d ago
+
+---
+
+**[OM-1: Frontier Robot Intelligence Learned Firsthand from Humans](https://www.youtube.com/watch?v=IJvyS2aPsnA)**
+
+Technical details: https://www.rewardai.com/blog/OM-1/ Human-level manipulation requires rethinking robot intelligence. Not just ...
+
+📺 Reward AI
+
+👁️ 144K • 👍 1K • 💬 114 • ⏱️ 2:20 • 6d ago
+
+---
+
+**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=B0-v46oMCp4)**
+
+I got a little bit bored so we saw How To Destroy A Self-Aware Robot SUBSCRIBE TO GOAT @LIGHTSAREOFF New Merch ...
+
+📺 Socks Live 
+
+👁️ 133K • 👍 4K • 💬 492 • ⏱️ 36:24 • 13h ago
+
+---
+
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+
+📺 EmortalMarcus
+
+👁️ 271K • 👍 9K • 💬 805 • ⏱️ 55:24 • 1d ago
+
+---
+
+**[The AI Expert: AI Robots Just Became INSANELY SMART…](https://www.youtube.com/watch?v=__MV9z1UbxE)**
+
+The humanoid robot race sped up again this week, and you're about to see exactly how far it's gone. From a $7000 developer ...
+
+📺 The AI Nexus
+
+👁️ 13K • 👍 248 • 💬 25 • ⏱️ 57:02 • 6d ago
+
+---
+
+**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
+
+The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
+
+📺 Frankie Lapenna
+
+👁️ 1.1M • 👍 54K • 💬 5K • ⏱️ 0:45 • 11h ago
+
+---
+
+**[4K Djedi Robot Entered the Great Pyramid&#39;s Sealed Shaft - Revealing NEVER Before SEEN Footage](https://www.youtube.com/watch?v=pvANZ5xuBQU)**
+
+The Djedi robot explored a sealed shaft inside the Great Pyramid, capturing the first images of a mysterious second barrier.
+
+📺 IMPOSSIBLE ARCHIVES
+
+👁️ 554K • 👍 3K • 💬 214 • ⏱️ 11:34 • 1d ago
+
+---
+
+**[REBALANCE OF DOOM is coming [War Robots 12.4 Update News]](https://www.youtube.com/watch?v=HAxo5R64_-c)**
+
+War Robots 12.4 Rebalance News Update & Vlog: Big Changes New NEKTON Robot Gameplay Video: ...
+
+📺 Manni-Gaming
+
+👁️ 15K • 👍 604 • 💬 172 • ⏱️ 45:03 • 22h ago
 
 ---
 
@@ -259,36 +289,6 @@ Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongs
 📺 Bloomberg Tech
 
 👁️ 73K • 👍 291 • 💬 51 • ⏱️ 9:44 • 5d ago
-
----
-
-**[Unitree’s G1+ Is Here — $15,000 Robot With 6 Major Upgrades](https://www.youtube.com/watch?v=8bEvQj9sSmU)**
-
-The new G1+ is stronger, sees more, hears better, and can run longer. But the hardware is only half the story. Unitree also ...
-
-📺 The AI Nexus
-
-👁️ 11K • 👍 105 • 💬 11 • ⏱️ 20:57 • 2d ago
-
----
-
-**[NEW Nekton Spider Robot Is Here... INFINITE Shield Ability + NEW Mesmer Weapons | War Robots](https://www.youtube.com/watch?v=ZDAjuhIRxpU)**
-
-Use My Link For The WR Store https://wr.my.games/PREDATORWR New Spider Nekton robot. We have alot of new gear on the ...
-
-📺 PREDATOR WR
-
-👁️ 24K • 👍 402 • 💬 150 • ⏱️ 15:58 • 1d ago
-
----
-
-**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
-
-The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
-
-📺 Frankie Lapenna
-
-👁️ 211K • 👍 20K • 💬 2K • ⏱️ 0:45 • 6h ago
 
 ---
 
