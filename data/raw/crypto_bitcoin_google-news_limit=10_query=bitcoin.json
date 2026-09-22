@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmF1NkswTVRERGNDRXRoVEdQeHRtb2ZndWZ3NXhBNlJ5WHpreTNoTkFLYlFxclZXRUxuUGttVHpiX0JRRThuVEpzMkN5Wmdmb194SFV4MG9CMDdHUHFBbjRpOENBX1hoTzBxNFA2SFdnYy1ubEZPWmtwZUltaU9hc0NsZTBGWHotOGFNU0FpbzRtSDEtSkRKNEJyU1k5RGItd3ZFV3hXYzdFMlJTWUZnaHpwVVJaVThNTWptd3FPQUV6WXZ6SU5iek9CWWxuUjVZS0RR?oc=5",
-      "pub_date": 1790101503.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3edc81a173ce9aaa81e86cdd5a3ca6555fb32fd8-1606x986.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days."
-    },
-    {
       "headline": "'Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,28 +15,38 @@
       "description": "Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices."
     },
     {
-      "headline": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEpndE1yVHVSM2QwU2doY3ZuVzR4OVhjaUd3WXNnOV9BZGxQMURDdkgxcWhyOFdtS1JsdDA5QVozT0NPclNoU1R5WnRLZFBjUDNnWDlSaUw5azZRemtnSUVHMEMyRFhSMU1mWlplcWJLY1BqOXFScE5sR0pFM0ZBbEFBc0NSbkxqaFhLRlR6cTJUN1Q5M2VlSGxXYWRwUjg?oc=5",
-      "pub_date": 1790102174.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-rolls-fixed-rate-bitcoin-183614606.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/45903a306b7d81b7f74a6fa04f0e9ef270fcb1f8b984147a944ff63be616c56b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbankless_325%2F4af36378e0b3cc6c98268c3de93775fc.png",
-      "description": "Coinbase launches fixed-rate, bitcoin-backed USDC loans powered by Morpho Midnight on Base."
+      "headline": "Bitcoin Back at $100,000 Is Suddenly Not So Outlandish",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORURCcGJ3SFJLWllBRnA1aXVZSVA2bW9EOXUwNTR2VUliMDdwTTYwNU8yWGl3SG8zNG1XRWhtRU5IR3RwaWVISHVNVnpRX3JrUms5Ni1JLUh3TktBa3IwQlpJNjN2a1ZDTXVmZ0xiY2FZWFg4a0FVV3ZwYUhVamVPR0Y0UGNxQUhLUm44SkpEcEJlVTdHZXczZkpvWDdrMTFfY2tITg?oc=5",
+      "pub_date": 1790110801.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+      "headline": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGVrMy13QUhnWW5wcDNnTjlZRE5LUXJxTEVXTzFZSmwwRGJQOFBMNlN1MWdENldIVnI0SVp1eEFTMEYyYnJ5WGFSc292SktXN2pMN0IwZDNMNE5lLVVYcS1HSVFoV2JSOGVrb0MydmlFNjZJRzdUWHV6WXdBSFNsZVJnU01mRmlPRUJKZTV5ME9qWWNLVGxOV2FmbUtBZw?oc=5",
-      "pub_date": 1790105463.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/white-hat-hackers-route-coldcard-193103387.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4c5e6f2075a88760a35a31a50f16303fdb2445cc6063dfe1069cfa92604c773f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F147c1bbc0ae7b47bda1051c432442c20.png",
-      "description": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVAyakJsU2NDQTZ0d3ZHLTNwSEI0YlM2ZlVLdWtacjBvT3hBREJ3SEpRdDhYcDR4SDJyUXQzVXNwb0VtWUg5d1hrdWl6ekQxdDRIMU5yQ0JpMWRPNmJpajJmdG83cFV6T1VmY0Q1eXpFMXliX21Oak1TYlBRUzNReHZUQ1V3N3l0MzdTQ2MwQnlOODFYZmhnSzNNcjdXYlE?oc=5",
+      "pub_date": 1790109963.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/cme-expands-crypto-futures-lineup-204603742.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/6b2474f45f400d950b42be6af3a304a34b1279a8dddf4e6899e27c0ea35c9f97/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2Fbc62902892e15d7b89e5ab3606a349fa.jpg",
+      "description": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui."
+    },
+    {
+      "headline": "If You Own IBIT, This Bitcoin Fund\u2019s 13% Yield Deserves a Second Look",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2h4S3MxSUYxNTVsUU1ucHhYa1VSNzQ4RlBhSUVuczZndVBfR2RHRUs1TDQyUHF3Q1lQY1F6eEdId3FsTGpKbTJ3MndyYTlxSXBidm5ia0o1M1ZzS1hHUGRpU2xmM2VWaUFfZ0puVlZWaUY0b1NoWHgyZ2FPOWpQLUR3MnlBYTVFM05MY3gwX041TzA?oc=5",
+      "pub_date": 1790111148.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/own-ibit-bitcoin-fund-13-210548757.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/8f76a5cae49139983b63f887fef315fdb8a5fe52e0abc17f951cc4ef1745b243/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fc08fcb153bbaaac9491f84da69784e62.jpg",
+      "description": "IBIT gives you Bitcoin exposure without a penny of cash flow, and BlackRock quietly launched a companion fund that flips that equation by converting Bitcoin's famous volatility into monthly income. Whether that tradeoff costs you more than it pays depends on what Bitcoin does next."
     },
     {
       "headline": "Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields",
-      "source": "Fox Business",
+      "source": "foxbusiness.com",
       "source_url": "https://www.foxbusiness.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5",
       "pub_date": 1790077923.0,
@@ -55,38 +55,28 @@
       "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
     },
     {
-      "headline": "Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow",
-      "source": "bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFVIQnJhNlRJVVNsZnRMR1R2YWhvWERxbkVLQkNudHVPc3pxY1Jvd3JDQXdaNUpsMWlQYzRWUGY3TEdTdXlvcmZFSnlTSUpBOGVzQ2diSVVrOVV4czVDUkF1bWtHU3k5LU1fSlFEQndDdUhySmVHV2FUamxRRG5PREtNM1RIbVRjM3ZweG1pS3loZGlqcTY1Z3MxZUpCQXNUbWF1VE4tWERlQ09DdmlrRDRB?oc=5",
-      "pub_date": 1790084332.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow",
+      "headline": "Bitcoin\u2019s Promise Highlighted At United Nations Digital Cooperation Event",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdld1c0tDV2IydmhvbFBDaGp5RzFYYVg1OFFEckdEOEw3eFgwaVlCU0kzUlFWZmdab1BHMl9ELTY5NDFzQVdFZjl4dzR3c1Jza1VadHNycTUtb3lzOXpLLXJjamUtVmp0dEpzYm80clQ4bWN0czhWTENUVzNVM05udTZhcVFhUm9xVjhlMC1TOTFWLVV4R0xIQng4VWRwUlIzclZ1Njc5NF9Uem1FM2doVGVaUzNMYTBQTXE4UVhwRmQ0UQ?oc=5",
+      "pub_date": 1790079860.0,
+      "article_url": "https://www.forbes.com/sites/frankcorva/2026/09/22/bitcoins-promise-highlighted-at-united-nations-digital-cooperation-event/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Current price of Bitcoin for Sept. 22, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00cmYyMTQxSWI3N0VKcHFIZXU4aXBSMEJZc1NZU09UWUE1VHNVc19HRl8zLWpMdVFYdTZFcXJUbmFTVjdyN2J0bW9oRldBeEhNTlFuSTMzbjBYVklpcENCalEybVowVGM?oc=5",
-      "pub_date": 1790082252.0,
-      "article_url": "https://fortune.com/article/price-of-bitcoin-09-22-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-22.jpg?resize=1200,600",
-      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
-    },
-    {
-      "headline": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01MDhfTVpOYUtNNU1hTlEtc0FNNGJKNlJmWlVNZWhUZ3MxQVE5UE9JSDBEd0wzTndtSHZmcVZtUG5qZ2xhVC1TNFc0bTIxQkFWWkFSUmM5WEtzVVozTTB4RFVTM05rSWduUHFMcm5hSVZOelU?oc=5",
-      "pub_date": 1790095946.0,
-      "article_url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg",
-      "description": "Feds are trying to work out whether Binance violated US sanctions on Iran."
+      "headline": "5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNek92TVlsa1UwU21UWDM1eE9NeGFDN0RxWjM0d3dxSzRTTDFtb085eTktNVdwdTJFMEhYVGIyYzh3dFRzT1NnRV9NTm1SbzdRUU1INXNWVmFmMlp3bnRSVm95by1NUVdJZW11NVNpRUt6ZzdQaExqbXg0MTJjNHRjUGxreEd0V3NCRkFjTjhaM0ZzeWNNY2NjdUNxVFJ0T0NBMUlaMVAzQ1Y5NmtKdkxiNFJDVTlEc2UyRlRR?oc=5",
+      "pub_date": 1789938119.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-151.jpeg",
+      "description": "Top Bitcoin Casinos With Best Bonuses \ud83c\udfb2 Casinos \ud83c\udf81 Welcome Bonus \ud83c\udfc6 Rating 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins \u2b50 4.9/5 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins \u2b50 4.8/5 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 \u2b50 4.7/5 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free Spins \u2b50 4.7/5..."
     },
     {
       "headline": "Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein\u2019s secret crypto ties",
-      "source": "Miami Herald",
+      "source": "miamiherald.com",
       "source_url": "https://www.miamiherald.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10OVNuWFBQY1FTdW9VQ1FpT093c3BlZHA2T202aVlPSlM0SmxtMFRjMkFlbER1bUUxV2ZGbVp6OHhTbVRmTVo0MmZadnpraTBRWWRrQWxzTy1HNlJ5cWY2aVVmYXljSnlRNnVPODlOWjJ6SkRUZWfSAXZBVV95cUxNNnJlMTFOaE9FWFI5OFl5a1VSTHQ0cHBuNUw2Tng0X1R6dUFzWjV0UFc1VndabnBSaHZTdjQwMks3TDRNOTdKS3hHQ3ZZUS1qV1hNeFk4NmdhbjJXR1plV0t4MkRZY2c5TFVzM1QxSVRwSGFjWU1R?oc=5",
       "pub_date": 1790069400.0,
@@ -96,15 +86,25 @@
     },
     {
       "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
-      "source": "slate.com",
+      "source": "Slate Magazine",
       "source_url": "https://slate.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2Fya2hHWGRsSHVFZWtsbXZBUXh2cjlYeDNidjRaZzRIR3h4YmtMb1RYN21DU052RkNQTjk3djVoVm5UTGFEVFF4TlFSdGpVYjRnOGNUbVJkaDNoR01IN3lXSFQ2MUZKb1RQRmF6OVFBVGFEbkxjZlg5RWQtX1NrOEVZdmswZkZDZ3ZpYnpIaXJTU25qMm1pWHZlWWpfYkdE?oc=5",
       "pub_date": 1789897200.0,
       "article_url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
       "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
       "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
+    },
+    {
+      "headline": "Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmtuMHRCNUdRR0ZQNFpiTDVmT1BVcHBCbUNkU2RBRERjNVpHYkFPaFJMUVM1X0o3ZmliZW0xZnRKODhfM2F0aFRJYWYyTk1KLVRmTjFOa2E3b1hPU3E1eVhkanRENnNxMVFxbTF3a1pJNkJaaENyaDlNdmpBODNzb2lzZDA2YUFSNFU0Zm8zSjVKZEp3QkU0dVUtWXpReUt1Q0dj?oc=5",
+      "pub_date": 1790086400.0,
+      "article_url": "https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2023/10/20231006_Coinbase_News3.jpg",
+      "description": "Coinbase integrates Morpho Midnight to offer USDC loans backed by bitcoin, with the rate and repayment date set upfront."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T20:23:26.306168+00:00"
+  "fetched_at": "2026-09-22T23:10:08.477265+00:00"
 }
