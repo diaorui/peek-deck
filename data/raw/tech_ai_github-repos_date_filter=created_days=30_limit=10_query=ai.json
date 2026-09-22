@@ -8,9 +8,9 @@
       "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
       "url": "https://github.com/zai-org/ZCode",
       "preview_image": "https://opengraph.githubassets.com/ab90eba8e158951f6948051788d2d01f2eae3bbcadeb8c2d3b61e580c740a4cc/zai-org/ZCode",
-      "stars": 6256,
+      "stars": 6279,
       "stars_display": "6.3k",
-      "forks": 1811,
+      "forks": 1815,
       "forks_display": "1.8k",
       "language": "TypeScript",
       "topics": [],
@@ -26,8 +26,8 @@
       "preview_image": "https://opengraph.githubassets.com/71a8911a724ff5f7eb700c9726b2eeb081788694f26adc87c8b7b69cdc521eeb/Albert-Weasker/niubigeo",
       "stars": 4833,
       "stars_display": "4.8k",
-      "forks": 288,
-      "forks_display": "288",
+      "forks": 291,
+      "forks_display": "291",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-21T11:16:31Z"
@@ -52,7 +52,7 @@
         "claude-code",
         "codex"
       ],
-      "updated_at": "2026-09-20T21:48:13Z"
+      "updated_at": "2026-09-22T21:49:59Z"
     },
     {
       "full_name": "Mak5er/AirCard",
@@ -62,13 +62,13 @@
       "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
       "url": "https://github.com/Mak5er/AirCard",
       "preview_image": "https://opengraph.githubassets.com/ba6eaa32e4e64f0a79f9a4610d623a802616f15f1d04fe745357d867a5f552fd/Mak5er/AirCard",
-      "stars": 2741,
-      "stars_display": "2.7k",
-      "forks": 115,
-      "forks_display": "115",
+      "stars": 2760,
+      "stars_display": "2.8k",
+      "forks": 117,
+      "forks_display": "117",
       "language": "Swift",
       "topics": [],
-      "updated_at": "2026-09-21T06:10:20Z"
+      "updated_at": "2026-09-22T21:44:37Z"
     },
     {
       "full_name": "shadcn-ui/lint",
@@ -78,7 +78,7 @@
       "description": "An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
       "url": "https://github.com/shadcn-ui/lint",
       "preview_image": "https://repository-images.githubusercontent.com/1354701193/b1279da4-94ab-4c27-97f7-d0dd2f826725",
-      "stars": 2556,
+      "stars": 2570,
       "stars_display": "2.6k",
       "forks": 47,
       "forks_display": "47",
@@ -100,10 +100,10 @@
       "description": "My AI learning system.",
       "url": "https://github.com/amosblomqvist/learn",
       "preview_image": "https://opengraph.githubassets.com/0a1e7c3985f418dbd49c851401941926516ffa6c8a071fa9d7d87fcff053fa2f/amosblomqvist/learn",
-      "stars": 2273,
+      "stars": 2281,
       "stars_display": "2.3k",
-      "forks": 234,
-      "forks_display": "234",
+      "forks": 235,
+      "forks_display": "235",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-08-25T21:49:59Z"
@@ -116,10 +116,10 @@
       "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
       "url": "https://github.com/jarrodwatts/jev-trader",
       "preview_image": "https://opengraph.githubassets.com/9bbdfdd9d00b8aacf6a16164c73cea7889c1b52c77f08d78bca373456136f6b3/jarrodwatts/jev-trader",
-      "stars": 2039,
-      "stars_display": "2.0k",
-      "forks": 388,
-      "forks_display": "388",
+      "stars": 2060,
+      "stars_display": "2.1k",
+      "forks": 392,
+      "forks_display": "392",
       "language": "TypeScript",
       "topics": [],
       "updated_at": "2026-09-17T02:48:22Z"
@@ -186,6 +186,6 @@
   "search_query": "ai created:>2026-08-23",
   "days": 30,
   "limit": 10,
-  "total_count": 464968,
-  "fetched_at": "2026-09-22T20:22:53.041269+00:00"
+  "total_count": 465907,
+  "fetched_at": "2026-09-22T23:09:40.674909+00:00"
 }
