@@ -5,24 +5,54 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Surges To 8-Month High, Trips Stock Of The Day Breakout",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVZOVVRJMHE0WWY4c3VUVWVGQ3NLaU9yNzVoQXNSS1c0dUhCRUh6dk5Sc2JRVENmZGlGMFRMTFdpbVhwS3pKR0x0LWpLbDcxM2xreDlpMlVCdzZ3eTdkekV1VzVVQlZrcDhQOEIwbFdqejRjYmFtV3lzMmNOMTJCMjJhcmlockY3X1R0d0NTMW5GZ3F6RzRIa3hFejVaOGVFU1lzODdEeFVNaGZGU28zMnBKMU1DUDg2M1hn?oc=5",
-      "pub_date": 1790015220.0,
-      "article_url": "https://www.investors.com/research/ibd-stock-of-the-day/bitcoin-surges-to-8-month-high-trips-stock-of-the-day-breakout/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/09/sotd-for-09-21-2026-desktop-2.png",
-      "description": "IBD Stock Of The Day: BlackRock's iShares Bitcoin Trust, ETFs break out as cryptocurrency prices surge near their best level of the year."
+      "headline": "Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZmdGWG5ublkyVnNGaHplY002MVBfV1g0a1Fpckd0N2lRM0RsSWk4R0R1cjQtVXd5T2dhRERVdFc1MVctWndZWTQ5TTY3dlhwOHNVTXVrNnh4SmkyVjRodWQySmF6Zzd5SkdNdHNSY2bSAXZBVV95cUxNdE0zQ2N1bUlzeERWOEpqWGcxNnRwemNMZWtmemdsRnIwbXpuRnJvdTdON2xnNUF5ZmZoX212SWZORE13Y2pONVd6NnR0S3lYTDJNM2pqN0lLVGhZTDJBeHJVbnQ5XzVkSVlLMHZqdDBzUnlEbGZB?oc=5",
+      "pub_date": 1789989055.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108134741-1745329902556-gettyimages-2209133060-vcg111560067123.jpeg?v=1781816482&w=1920&h=1080",
+      "description": "Bitcoin rose above $85,000 on Monday extending a rally over the past few days."
     },
     {
-      "headline": "2011 Bitcoin wallet wakes up holding millions",
+      "headline": "Bitcoin surges to $87,000 on Yom Kippur",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkFFSlQxeEp5dE55VlJGUzd1b1RuNDA5MTNGVmRSNVRyaEUxc1ctcld4V2hldE9nMy14QUJKLVo4dXhncjlISFg0VmM2S2FPeXRMTFhPWUpkRnNOOGtkejJpdEE4UjdyVnpOVm1JN3JrZjhwUEFlWEdyS2lsMERGalA0S2ZLVDJHUWRqRmlSYmtDUVNlODZUNnZSaDNqMms?oc=5",
-      "pub_date": 1790027165.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/2011-bitcoin-wallet-wakes-holding-214605145.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/6bf8e9fa8125291479f4da38fe06326594fa5e94716329c9ec4cddfc227594e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F66266b1775edbd8526b18194ee21ec3c.jpg",
-      "description": "A Bitcoin wallet that had remained dormant since 2011 just woke up."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalhoNGNsTGRPS01abU1DVS03VTlkX2ZnTDU5STNuQkIzTWlNN3pNaXhvb08tSkVyU3plRzJOR01maW04NmRCNHc3Smdya2xGamtRa2JRQWJyUGFvcFFaOUc3dmRMRC0ydVBFd0gteG8tZ3RDVnp6LTdLUnVTZ01kU3NHbUxuTmN1eUNVYlkwQU80N3dy?oc=5",
+      "pub_date": 1790034446.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-87-000-yom-234726432.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0226f0530509e37e099ef007946fda946884efd9bb5f12360935e9f82c099eff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb18d5988008dd40a954026099a2778f1.jpg",
+      "description": "Bitcoin surged toward $87,000 on Monday. Here\u2019s why."
+    },
+    {
+      "headline": "Bitcoin\u2019s Volatility Problem: A Better Way to Manage the Risk",
+      "source": "app.hedgeye.com",
+      "source_url": "https://app.hedgeye.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0tLSjd6djJRYXRJT0ItSE1QbFlaWXIxTGtPRUdFZERpMG5BYk5OWTBXemVZSGpEcFFZblJyZFJwYVVyLVJGNWpCT1NwaUg5bnY2OWpJeGgyWjRZdTlPX2xmVXZGdHdTbnY2dXd4bkM5ZUxKb0lWSWxVSXg5LUtLZVRldUVUM05KaWl0SHo4dkIxUG1RZGtFdVRVb0ZFWUZKRnNDTlhLNktBdzFVZlVaTWhLekhoN1plRnFna1VNSWVWbVV1M25FTg?oc=5",
+      "pub_date": 1790003829.0,
+      "article_url": "https://app.hedgeye.com/insights/187469-bitcoin-s-volatility-problem-a-better-way-to-manage-the-risk?type=macro%2Cmarket-insights",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared",
+      "source": "Muddy River Sports",
+      "source_url": "https://muddyriversports.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNek92TVlsa1UwU21UWDM1eE9NeGFDN0RxWjM0d3dxSzRTTDFtb085eTktNVdwdTJFMEhYVGIyYzh3dFRzT1NnRV9NTm1SbzdRUU1INXNWVmFmMlp3bnRSVm95by1NUVdJZW11NVNpRUt6ZzdQaExqbXg0MTJjNHRjUGxreEd0V3NCRkFjTjhaM0ZzeWNNY2NjdUNxVFJ0T0NBMUlaMVAzQ1Y5NmtKdkxiNFJDVTlEc2UyRlRR?oc=5",
+      "pub_date": 1789938119.0,
+      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/",
+      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-151.jpeg",
+      "description": "Top Bitcoin Casinos With Best Bonuses \ud83c\udfb2 Casinos \ud83c\udf81 Welcome Bonus \ud83c\udfc6 Rating 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins \u2b50 4.9/5 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins \u2b50 4.8/5 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 \u2b50 4.7/5 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free Spins \u2b50 4.7/5..."
+    },
+    {
+      "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
+      "source": "Slate Magazine",
+      "source_url": "https://slate.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2Fya2hHWGRsSHVFZWtsbXZBUXh2cjlYeDNidjRaZzRIR3h4YmtMb1RYN21DU052RkNQTjk3djVoVm5UTGFEVFF4TlFSdGpVYjRnOGNUbVJkaDNoR01IN3lXSFQ2MUZKb1RQRmF6OVFBVGFEbkxjZlg5RWQtX1NrOEVZdmswZkZDZ3ZpYnpIaXJTU25qMm1pWHZlWWpfYkdE?oc=5",
+      "pub_date": 1789897200.0,
+      "article_url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
+      "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
+      "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
     },
     {
       "headline": "Michael Saylor's Strategy jumps as the company says it bought more bitcoin",
@@ -45,44 +75,14 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Price Pumps Above $80,000: Jason Calacanis Challenges Michael Saylor and Cathie Wood",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcjdxb25vTEJQVEVGdU5kOHRCWDU4NFV2REI0SnJPMmlmS01TYXFEMDVtT29SZEF5Y1FLcFBFX2tQRm0xYm9TbDlDckJiOFZlb2JnNHZFMzlkZXo1bUFzZnhLWk5LcG85dzlJbl93NmVuaXo0OGY1REdpeEhOdWt6T3VoNDlWMHJLdWluTGE3UThac0hGWk9IWWVoYU9ZTlhTVS1UOFdPWHdFZ2NfcUFpTkNVM2xCSGpuanRLRjlOT0Q2WGw5bHQ1MDFvc05xWlQ4dTdmdmt4a3NPZ2VzUVJYcV9hYVlVdw?oc=5",
-      "pub_date": 1789982984.0,
-      "article_url": "https://www.tradingview.com/news/cryptonews:49c405c3b094b:0-bitcoin-price-pumps-above-80-000-jason-calacanis-challenges-michael-saylor-and-cathie-wood/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitcoin price touched the $84,000 level just now after breaching $80,000 last week. This movement has prompted investor Jason Calacanis to characterize the move as a dead-cat bounce. Calacanis questioned Bitcoin\u2019s relevance 17 years after its creation, arguing that it is not well-suited to transact\u2026"
-    },
-    {
-      "headline": "5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared",
-      "source": "Muddy River Sports",
-      "source_url": "https://muddyriversports.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNek92TVlsa1UwU21UWDM1eE9NeGFDN0RxWjM0d3dxSzRTTDFtb085eTktNVdwdTJFMEhYVGIyYzh3dFRzT1NnRV9NTm1SbzdRUU1INXNWVmFmMlp3bnRSVm95by1NUVdJZW11NVNpRUt6ZzdQaExqbXg0MTJjNHRjUGxreEd0V3NCRkFjTjhaM0ZzeWNNY2NjdUNxVFJ0T0NBMUlaMVAzQ1Y5NmtKdkxiNFJDVTlEc2UyRlRR?oc=5",
-      "pub_date": 1789938119.0,
-      "article_url": "https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/",
-      "image": "https://muddyriversports.com/wp-content/uploads/sites/4/2026/09/image-151.jpeg",
-      "description": "Top Bitcoin Casinos With Best Bonuses \ud83c\udfb2 Casinos \ud83c\udf81 Welcome Bonus \ud83c\udfc6 Rating 1\ufe0f\u20e3 mBit Casino Up to 4 BTC + 325 Free Spins \u2b50 4.9/5 2\ufe0f\u20e3 JACK.com 100 No-Wagering Free Spins \u2b50 4.8/5 3\ufe0f\u20e3 Thunderpick 100% up to \u20ac2,000 \u2b50 4.7/5 4\ufe0f\u20e3 BitStarz 300% up to 5 BTC + 180 Free Spins \u2b50 4.7/5..."
-    },
-    {
-      "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
-      "source": "slate.com",
-      "source_url": "https://slate.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2Fya2hHWGRsSHVFZWtsbXZBUXh2cjlYeDNidjRaZzRIR3h4YmtMb1RYN21DU052RkNQTjk3djVoVm5UTGFEVFF4TlFSdGpVYjRnOGNUbVJkaDNoR01IN3lXSFQ2MUZKb1RQRmF6OVFBVGFEbkxjZlg5RWQtX1NrOEVZdmswZkZDZ3ZpYnpIaXJTU25qMm1pWHZlWWpfYkdE?oc=5",
-      "pub_date": 1789897200.0,
-      "article_url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
-      "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
-      "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
-    },
-    {
-      "headline": "Strive adds 1,355 bitcoin, picks up pace toward year-end second-place treasury goal",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVBqZklXdjdZRlJiOEYyRV83X0dDcEotVGJTNUtXRHE1bl9jYy16U2c4cjZENUVYX19sUGxvT1hLZkxCT3ZPcmRTRVRPMjVGWTE0R0U2Qy1Fem9qem5TMFl5Y3AxWnJpNTZpVjdqMmg4cnVPaDNxdXB6NGhLQ3BIMXZKUjhVU0Q5amM5ZzZ5VHlxbVRuOG50NE9Qdm1WSTA2MU5BSnFDSEhyOElVMXNnR0lldll1VHhLSzF6aUljWkF4QTRqR2lpNw?oc=5",
-      "pub_date": 1790003259.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-21-strive-adds-1355-bitcoin-picks-up-pace-year-end-second-place-treasury-goal-415940",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/05/20240509_Bitcoin_News_6.jpg",
-      "description": "Strive (ASST) remains the fifth-largest public bitcoin holder, behind Strategy, Twenty One, Metaplanet and MARA."
+      "headline": "Michael Saylor\u2019s Strategy buys Bitcoin again as surprise rally pushes price above $85,000",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0RWYm1hVnhMWF8xaEt0X3dLNl9QNDdtMVliOTdYVFU1M3RUc0xCamlSeEZRMzEzRTc0dWc5R2U4V21wanBFSkZPaWpFVGIxNjZZSHdyajBjMHhuTFI3RmRYMy1sUF9MVVQzMS11RnB4ZWlKNFlWRmVPRW84ZDF5Rk5zaXVHdXJlbHBoR2tlYmgyZ2U4S0E?oc=5",
+      "pub_date": 1790010300.0,
+      "article_url": "https://fortune.com/2026/09/21/michael-saylors-strategy-bitcoin-surprise-rally-price-85000/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2274862431-1-e1790010287480.jpg?resize=1200,600",
+      "description": "The corporate Bitcoin giant returned to buying as the cryptocurrency defied its usual September slump."
     },
     {
       "headline": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
@@ -95,16 +95,16 @@
       "description": "A UK lawsuit accuses Bitcoin influencers of running six coordinated accounts to pull at least $278,000 from X's now-defunct creator program."
     },
     {
-      "headline": "Diamonds crash to lowest prices this century as Bitcoin surges past them",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVUpqMUtOMFJXS3hIRGF0MmNpaWU4eWdfNGlTX1gtcGExVjVjTmFudzlTcmNTX2NDTGJid1pVdUNpQ0hSaTFScGs0bV9IQnNWWURCcnFtZmtiSXJRYWxaUTkzd3JuUF9scXRQMUZhdHJQdWFVWjFRaER3TTdpWXRQa21fSWhOZVZsZG1MTWY3R2VJSGd2N0IyYVN6SGctaFl0VkxIZE1sbUxXWGJuVkRMamVCNzdXWlZqSGptTXAwaWM1ZTVDNmJidEFqSzlUTWlJVE1R?oc=5",
-      "pub_date": 1790021169.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:28149f71e094b:0-diamonds-crash-to-lowest-prices-this-century-as-bitcoin-surges-past-them/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Natural diamond values have slid to levels not seen in over two decades, with wholesale prices sitting roughly 30-40% below their 2021 peaks.Retail prices for a mainstream 1-carat natural round diamond now land between $3,530 and $3,860. It's a structural unraveling driven by three forces hitting s\u2026"
+      "headline": "Bitcoin ETFs Could Triple Gold Funds Within 5 Years",
+      "source": "ETF Database",
+      "source_url": "https://etfdb.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVVXRjNxVXczdU8xRXoxWk1wbl8yQzUxQ0RTeXFPM2pvcVJ6QzU0OUR5bS1Kd1MwVHI5MjBfQ19fenBqUFdORXdXVXIya0Jyb1g0QTM2MmtsRXhRZHdQeHhLRnZBYmpGR2hCNmpqU1BXMTVxdWJBSmpnNU50WGJZQVRWYnpGMVdreVg4SFdjNTlyc3lVZU45WDBR?oc=5",
+      "pub_date": 1790007166.0,
+      "article_url": "https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-etfs-triple-gold-funds/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T22:44:06.096575+00:00"
+  "fetched_at": "2026-09-22T01:28:10.137667+00:00"
 }
