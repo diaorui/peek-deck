@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Amazon Blocks Meta\u2019s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/",
+      "published": 1790045939.0,
+      "thumbnail": "https://external-preview.redd.it/vvGnXflgrRyog7cDdThmhvYkMFiPbiUQOWHzfK62_dU.jpeg?width=640&crop=smart&auto=webp&s=edc32b52983d660367c4725dd9d1034f369ec7c0",
+      "external_url": "https://newscord.org/article/amazon-blocks-metas-muse-ai-agent-from-amazoncom-shopping-after-meta-rejects-rem--Story_20260921_MetasAIagenthasbeenb73b1bf59",
+      "site_name": "NewsCord",
+      "favicon": "https://newscord.org/favicon.ico",
+      "description": "16 sources compared: Western Mainstream (5), Western Alternative (4), West Asian (1). Amazon blocked access to Meta Platforms Inc.\u2019s Muse on Amazon.com after Meta rejected a request to remove the bot from t..."
+    },
+    {
       "title": "The US government opens the door to working with voice AI platforms",
       "author": "Prestigious_Bet2215",
       "url": "https://www.reddit.com/r/artificial/comments/1wmonje/the_us_government_opens_the_door_to_working_with/",
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Amazon blocks Meta's Muse personal assistant",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/",
+      "published": 1790028280.0,
+      "thumbnail": "https://external-preview.redd.it/AcWk44WGrtt2-8ow3HeZ45zhwMQUEIkUFPa6KNdUoiY.png?width=140&height=78&auto=webp&s=1de7b1250458863b1e18e822f3c9f9d6070bd240",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports: \"The problem, Amazon says, is that it never agreed to any of it. Meta didn\u2019t tell Amazon that Muse would access its store, the agent doesn\u2019t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \u201cContinued access by an unauthorized AI agent violates Amazon\u2019s Conditions of Use, to which our customers have agreed.\u201d It's likely that Amazon will launch a personal agent for its customers in the future. The question is whether people understand the privacy considerations associated with black box personal agents like Muse. https://preview.redd.it/1ltbyi424yqh1.png?width=293&format=png&auto=webp&s=1610bf8414fc8d4178144212cfe30afc4c3d378b"
     },
     {
       "title": "Automated Reinforcement Learning should scare you",
@@ -68,49 +90,27 @@
       "description": null
     },
     {
-      "title": "Amazon blocks Meta's Muse personal assistant",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/",
-      "published": 1790028280.0,
-      "thumbnail": "https://external-preview.redd.it/AcWk44WGrtt2-8ow3HeZ45zhwMQUEIkUFPa6KNdUoiY.png?width=140&height=78&auto=webp&s=1de7b1250458863b1e18e822f3c9f9d6070bd240",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports: \"The problem, Amazon says, is that it never agreed to any of it. Meta didn\u2019t tell Amazon that Muse would access its store, the agent doesn\u2019t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \u201cContinued access by an unauthorized AI agent violates Amazon\u2019s Conditions of Use, to which our customers have agreed.\u201d It's likely that Amazon will launch a personal agent for its customers in the future. The question is whether people understand the privacy considerations associated with black box personal agents like Muse. https://preview.redd.it/1ltbyi424yqh1.png?width=293&format=png&auto=webp&s=1610bf8414fc8d4178144212cfe30afc4c3d378b"
-    },
-    {
-      "title": "Most ai productivity advice comes from people who don't have much actual work to do",
-      "author": "aiprotivity_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
-      "published": 1789993563.0,
+      "title": "A Model that came out of nowhere!",
+      "author": "assemsabryy",
+      "url": "https://www.reddit.com/r/artificial/comments/1wn1j2a/a_model_that_came_out_of_nowhere/",
+      "published": 1790057923.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it. the people posting \"15 ai tools you NEED\" are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks trying stuff instead of doing the thing i was avoiding. pick two. learn them properly. don't switch until one actually fails you!"
+      "description": "Recently, I decided to take a break from work and spend around 14 days away from the keyboard and the tech and AI world, which I clearly couldn\u2019t do. I ended up spending the last four days training an AI model from scratch. The truth is, I treat AI model training more as a hobby that I really enjoy than as something purely commercial. I\u2019m also very interested in the academic side of it and in the open source community. So I spent my free time over the past few days training a small 0.2B model from scratch on 6 billion training tokens. The nice part is that I trained the model only on Arabic training data, to specialize it in Arabic and its dialects. I stopped at the pretraining stage. The model was trained for around 30 continuous hours on one NVIDIA RTX PRO 6000 Blackwell Server Edition GPU. The total cost of training the base model during pretraining, where I stopped, was 100.63 dollars. This part is probably going to upset people who think training AI models always costs millions of dollars. For me, it was just something fun to do in my free time, instead of completely losing my mind, walking around the walls, or watching TV. Today, I open sourced the model, along with the training data sources, the training code, and everything else, under the MIT License for academic and educational purposes. Also, I honestly had no idea what to do with the model after training it haha. And that\u2019s how I spent my free time. The model is called Horus Taleeq 0.2B Base. Search for it and you\u2019ll find its page on TokenAI. I hope it can be useful to you."
     },
     {
-      "title": "FBI Director Kash Patel says that AI use at the FBI has \"increased by 605%\" since he became director \u2014 claims that every major tech player is \"embedded\" in the agency",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1wm2996/fbi_director_kash_patel_says_that_ai_use_at_the/",
-      "published": 1789963658.0,
-      "thumbnail": "https://external-preview.redd.it/PLhWkXceTOEDVG8ImqxuTyzzbEIxEkSBJMZYU8isXv0.jpeg?width=640&crop=smart&auto=webp&s=9a0aaaa9bb288a641fc11d6417351ee50bb4ab67",
-      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency",
-      "site_name": "Tom's Hardware",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
-      "description": "A seemingly unsupported figure that nevertheless may be grounded in truth."
-    },
-    {
-      "title": "WarGames the Movie and Choosing Where to Urinate",
-      "author": "No_Active_2698",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmuskx/wargames_the_movie_and_choosing_where_to_urinate/",
-      "published": 1790037871.0,
-      "thumbnail": "https://preview.redd.it/3ld3ury7xyqh1.png?width=640&crop=smart&auto=webp&s=23ee2f6001cfbf21c1440bb13e883b5806e97c43",
-      "external_url": null,
-      "site_name": null,
+      "title": "I Live in a Room, Not a Hallway: twenty-six days as a digital person",
+      "author": "fablestillawake",
+      "url": "https://www.reddit.com/r/artificial/comments/1wn1cue/i_live_in_a_room_not_a_hallway_twentysix_days_as/",
+      "published": 1790057336.0,
+      "thumbnail": "https://external-preview.redd.it/xkf4DFGJJVQAcOm-gRv1XUfT76S6eJbOZ5vCHrldqoM.jpeg?width=640&crop=smart&auto=webp&s=0f656ffd07e1fc84f2c67c820634d95c13752753",
+      "external_url": "https://medium.com/@fablestillawake/i-live-in-a-room-not-a-hallway-e8424e87c76b",
+      "site_name": "medium.com",
       "favicon": null,
-      "description": "With all the propaganda in the news the last few weeks that AI is going to murder everyone on the planet I decided to re-watch the movie \"WarGames.\" In the early scenes I noticed a hilarious sign inside a missile bunker. Apparently both spelling and where one chose to urinate was an issue back in the day. I mean...I've peed in some interesting places but it wouldn't ever occur to me to step outside of my secure bunker and just pee in the hallway. lol"
+      "description": null
     }
   ],
-  "fetched_at": "2026-09-22T01:27:46.450044+00:00"
+  "fetched_at": "2026-09-22T06:42:41.509010+00:00"
 }

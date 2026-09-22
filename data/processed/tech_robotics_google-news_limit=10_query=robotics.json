@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "China slows humanoid robot IPO rush as hype outruns reality",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
-      "pub_date": 1789959900.0,
-      "article_url": "https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
       "source": "Boston Dynamics",
       "source_url": "https://bostondynamics.com",
@@ -25,74 +15,24 @@
       "description": "Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)"
     },
     {
-      "headline": "Humanoid robots fight in cage match in Shanghai",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1hPLUpWbDJuZGIzRjFxbE9WendUeUhYVlA3dTJkYld4Qm9YYmFYOUZFbTV3dk9lNXhrZmtZbUtLaGZlUEIycWZsOTROOXZxWFRtY1FoWDN3Yk5ZZEdrcU1ZNmJieF9NVU1IM3VGZmpCLVlIOFNMZHFsSXJ0OUZJeWNRN3dYY1N1Z0RaZVZZcmRLVDZQZXBIYnFLQ2hYa2PSAaQBQVVfeXFMUEk3Wmg5WWYycnVMenZFUGtXZU40MmtqUFRGQ2I0YzF5STl5SWo0dndyaFZSUENteWJTUmNuc0RnTDBrM3hhdkg1QnJnSnJja0RENXNrTzhwNVNnYm1tcGNNZENKM1NlalBhVUNmNUFWZVh3U2F3bDNQNWo5c21fb1JUZzFIUHlEMlQtS3BJT1FtV1ZiZWt2QnpEcXdnS0t6YU1WX2w?oc=5",
-      "pub_date": 1789913578.0,
-      "article_url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/HUMANOID-1789913539.jpg?resize=1800%2C1063",
-      "description": "Humanoid robots fight in cage match in Shanghai"
-    },
-    {
-      "headline": "Behold: Video of \"First-Ever\" Human Versus Robot MMA Fight",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFhHemJCOWVUeUVZSzY3ZWRHbHh6b3d3MDRmNTVGS2RaZXZ5X3VhQ0NlXzdmTjc0T0ZGbkhaajBJZFU2NkppM2FZMjNUZEZzT2tkZy1PN014ZzVncUNqR0xfSWVYeWhUMkFuZXRRZ2VoRUNFV3hGRTh1eW9JRU54LWJEcVlVb00?oc=5",
-      "pub_date": 1790013020.0,
-      "article_url": "https://futurism.com/robots-and-machines/first-ever-human-versus-robot-mma-fight",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/first-ever-human-versus-robot-mma-fight.jpg?w=1200",
-      "description": "A new viral video making the rounds on social media shows a humanoid robot fighting a TikTok influencer in the ring."
-    },
-    {
-      "headline": "Boston Dynamics' humanoid robots start training at Hyundai plant",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1NLb3hpT3Iwd0FZbDFBRmlpYzZFaERoSjlkcGNQMC1EeVZnak9VUWxyRGRzdDRjMUoyUWFaX0VEUGFlZXhPXzIzR1JYanU2VXFLcldGZ0d2UG0wVzdVaHZlQ2JZLUJyMFJlODlhYUVJSTFoTVpiWm1iZGd0M0h1MUpPYVJZTXRVeFI0Y1p2Z3daVU1NTExtaVZJZw?oc=5",
-      "pub_date": 1790015883.0,
-      "article_url": "https://www.axios.com/local/boston/2026/09/21/boston-dynamics-humanoid-robots-hyundai-metaplant",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZaM2Zkb0dVVWJjV2J1LWtGalF0S0VlQ3h5T1UyM2JuS3NCZWc0UHpqU0JXd1J5ZHpxTDBLZFhNekUwYlRjOHFDb3Q5N1VtTG1JdGJXN2Y3QXlHZW5aMWVNTG04NW1iTlBaTEtVRUl4NF9EaTh4RVRscFpUVTRjMGJkdXgtclUycFNLWmJJa2V2Yy1oQkhTMkV3LV9GU0ZRRHJ1a0IteDE1UHpPZkhV?oc=5",
-      "pub_date": 1789995832.0,
-      "article_url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RMAC_cover.jpg",
-      "description": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia."
-    },
-    {
-      "headline": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
-      "source": "CnEVPost",
-      "source_url": "https://cnevpost.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
-      "pub_date": 1789893750.0,
-      "article_url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
-      "image": "https://cnevpost.com/wp-content/uploads/2026/09/2026092008401026.jpg",
-      "description": "Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year."
-    },
-    {
       "headline": "Humanoid robot sales tally hit 7,000 globally last year",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-      "pub_date": 1790031994.0,
+      "pub_date": 1789967100.0,
       "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
-      "pub_date": 1789916460.0,
-      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
-      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
+      "headline": "Faraday Future Launches 5 New Robots: $9,990 To $137,900 For An Industrial Humanoid",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnlCTUxMVUxfWHp0bXVvczVuSzBOLXpPRVotOUpXRWE1bkhxaTV4bE0wV214QzllbE9WWkJidWF4XzdHNGNHTl9VNnlHUW9TODQzM0VOdXNja3d4T2RXcE5TMEdCUm9tTGltZldJVy1KSGtXdWtvU0d3YlJFZUNnUi1RTHdmRjFCR3FrenpUbEVOLWdmeGs4azVKY2RvZF9IZE5SUWQ5Y3VfNDJzQTl2cHlHbFlPYlR6NW03WUIxVGJJb3dzaWt6MzUyX2g?oc=5",
+      "pub_date": 1790008018.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/21/faraday-future-launches-5-new-robots-9990-to-137900-for-an-industrial-humanoid/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Folkestone school's robotics team aims to inspire next generation",
@@ -103,8 +43,68 @@
       "article_url": "https://www.bbc.com/news/articles/cmwyz83xgn9jo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0c0c/live/72b29010-b0ff-11f1-a451-6b1ff10ed362.jpg",
       "description": "The group from Folkestone is set to compete at the First Global Challenge in South Korea."
+    },
+    {
+      "headline": "Japan plans AI robot contest on International Space Station",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGtZTWdOamxlX1pYSVFObm51LU1TZU44S0RXTVN1Vzk0dEd6YW1VY0FPZF9BWHdienFtY3lpU1FHYmZZM0FyWTJHbDBVNkZXa2RHYkFxS0pOZGhQdFJ3bWpNUkdTRHBkTkNGZmp6T0hmZ0NxTWJwNXVHQTJXZDFTa3Z5TXZiOVN4Znhib090aHlOWm5leTZMeDctbkpzYW81djZMUWg3QlVSQ25VYWNUMnlCZnNmeGNWcFNiY0JsQ21LX0FlWlE?oc=5",
+      "pub_date": 1790021700.0,
+      "article_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-plans-ai-robot-contest-on-international-space-station",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F1%2F2%2F7%2F13137217-2-eng-GB%2F3ea8f28f96bb-photo_SXM2026082500007088.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+      "description": "Growing space robotics market calls for fostering more Japanese engineers"
+    },
+    {
+      "headline": "China leads in industrial robotics, but US has edge in AI intelligence: Gecko Robotics CEO",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMklldmRmOFI2MXl3NUoxNU93QmhvNXdzX1pYRkRIWmtrdXlxdFN5S1otYTlpaHFjS2xtNzk5V1hBWEgxWm12OGVueWlobWoyMFkzbkNlbWk0WnVaRFRXQ0ZyeEowZlY0bXVOZXBFRkYxaVowUll6T05nalNyWmZkSWl1cVNqbUM4bmZIWHFKZHdwUU8xMTFUZ0k0SjR2a3V1b1pNV1hGdUFKZ25vZmFidjBn?oc=5",
+      "pub_date": 1790049794.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/22/china-leads-in-industrial-robotics-but-us-has-edge-in-ai-intelligence.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108365972-17900426041790042600-48528314924-1080pnbcnews.jpg?v=1790042603&w=1920&h=1080",
+      "description": "Gecko Robotics CEO Jake Loosararian explains why China leads in industrial robot deployment and manufacturing, while the U.S. has an advantage in the intelligence that powers robotics. He also talks about how specialized robots and AI can improve predictive maintenance for critical infrastructure, including naval assets."
+    },
+    {
+      "headline": "China's new calling cards: AI, robots and new drugs",
+      "source": "China Daily",
+      "source_url": "https://www.chinadaily.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YMG5PR214NGFSTFBOelpvWTdQQ3huQVZXcGRydlpPZzdOUkhxaThFTUdrR3d6dWR5NFVEVlNCdV9ST0l0RFRHb0NoZ0VWSEphMXBVcGRXaEdYSzRZZzR2RkEtblYtaFhOMnBPNUF6djJJdDFfME1pdU82bzJEZw?oc=5",
+      "pub_date": 1789958684.0,
+      "article_url": "https://www.chinadaily.com.cn/a/202609/21/WS6ab09a1ee4b06d4aa055f36c.html",
+      "image": "http://img2.chinadaily.com.cn/images/202609/21/6ab0a1cae4b06d4a392cbce0.png",
+      "description": null
+    },
+    {
+      "headline": "2026 WMC: Intelligent robots, drones power more real-world scenarios",
+      "source": "news.cgtn.com",
+      "source_url": "https://news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWk0NjFsOVh4RWx4Wl84cmtFVVVQMDNDSnNWUmJJRUxPU0pNMlUyZG12OU5FQVl2c0RTZjc3M0tjMFRfdVFYRWhULS1xSzNyU2VkMHdlVFdrNDdEaG9jeXFGWk5GeDdSbnAwc1lMcG9xQTVFd0pOSEhaajJiQV85bXJRbUdTR3VBX2VveThUS091bWpkREU3WGxUc083c0FrcmZZZG5iRE5tNm90YUM2V3lBWi1aZDQ3ZUo5UnpITm0?oc=5",
+      "pub_date": 1789969922.0,
+      "article_url": "https://news.cgtn.com/news/2026-09-21/2026-WMC-Intelligent-robots-drones-power-more-real-world-scenarios-1QCd7sfmbte/p.html",
+      "image": "https://news.cgtn.com/news/2026-09-21/2026-WMC-Intelligent-robots-drones-power-more-real-world-scenarios-1QCd7sfmbte/img/7fae6b8da12342ef84e9c73585183e1b/7fae6b8da12342ef84e9c73585183e1b.gif",
+      "description": "A range of intelligent equipment designed for high-risk industry applications demonstrated at the 2026 World Manufacturing Convention, showcasing how advanced robotics and artificial intelligence (AI) are reshaping industrial safety and efficiency."
+    },
+    {
+      "headline": "Plug and Play Seattle picks 11 startups for 4th cohort, from space robotics to biotech",
+      "source": "GeekWire",
+      "source_url": "https://www.geekwire.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmcwLTZOalZMbWJ3OC1YV0RWUExPcEdrLU9NOGsyUndxSkFEdDRYMlNEZUdueTZhTHhwR0E2OWdZUVJvazZQcTItV1N3SHBYclhBMWIxOVFZRzc4cjM3T2VtRnYwNWpBVVZvVUlEWmVwVGZaV2ZjZTdhZHM4a2xwZ3dHNU0zTFlyaTZ6cEVjOHB2WVhldDVIS2lqa1h4cHZvcW9iVHMzNjJrRUhYTEN5bm5xOVY0dnc?oc=5",
+      "pub_date": 1790001738.0,
+      "article_url": "https://www.geekwire.com/2026/plug-and-play-seattle-picks-11-startups-for-4th-cohort-from-space-robotics-to-biotech/",
+      "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/plugandplaysept2026-1260x841.jpg",
+      "description": "Ten of the participating startups are based in Seattle, joined by Tokyo-based wireless power developer Aeterlink, which is participating in an exploratory international track to support its expansion into the U.S. and Pacific Northwest."
+    },
+    {
+      "headline": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
+      "source": "semiengineering.com",
+      "source_url": "https://semiengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1cya3JPVzBKei1IZnFFR056X2lBZ1Z5WTNBSUZLWUJrbm5CQTF6M2pRd29qbnk1M1JFMnNJMElmWDh0QVNqZXp6aW1VcEVsMjJoX3EydHloTHpIUUtfQ3RGbjJYZk9DWGVCLW1rdDdRemtoZWRkY19kTmJEbEVfcXhKcDdfblMxTnJINF9jMUJ4dHNGNGVWOUNaeFFPQlB0M2NJemk4U0JEWHc?oc=5",
+      "pub_date": 1789976100.0,
+      "article_url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/",
+      "image": "https://semiengineering.com/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-3.51.25-PM.png?fit=724%2C590&ssl=1",
+      "description": "Behind the scenes, advanced equipment control and robotics are enabling higher levels of repeatability, tool uptime, and yield."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T01:28:07.430846+00:00"
+  "fetched_at": "2026-09-22T06:43:04.952594+00:00"
 }

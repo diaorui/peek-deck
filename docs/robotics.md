@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-22T01:28:14.630088+00:00'
+updated: '2026-09-22T06:43:06.845567+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 22, 2026 at 01:28 UTC  
+**Last Updated:** September 22, 2026 at 06:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Another small Watti update. I ran a very early closed test of Watti Studio. A fe
 
 Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!
 
-13h ago
+18h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hi everyone, I'm building a robotic arm and I'm currently working on the gripper
 
 Before and after training
 
-12h ago
+18h ago
 
 ---
 
@@ -76,7 +76,7 @@ Before and after training
 
 How do I connect these Helical gears like this? It's being run by a RDS3115mg servo motor, and supposed to be a tilt up and down set up
 
-15h ago
+20h ago
 
 ---
 
@@ -84,7 +84,7 @@ How do I connect these Helical gears like this? It's being run by a RDS3115mg se
 
 For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo runs natively on Mac with full graphics performance. The simulation quality was insane when I tried messing around with real world robots like Spot from Boston Dynamics. But for some projects I need ROS to work with and I tried with my Parallels VM and the performance in terms of graphics was not that great because it used the CPU for rendering. I tried using Robostack and the performance of basic ROS itself hit a lot of problems. Any workarounds or possible solutions? PS: I don’t want answers like get a PC or something because that ain’t really viable option for me
 
-20h ago
+1d ago
 
 ---
 
@@ -92,7 +92,7 @@ For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo 
 
 Rack-and-pinion for the Linear carriage. With another Stepper motor for Pan movement mounted on the same carriage. Let's test it.
 
-17h ago
+23h ago
 
 ---
 
@@ -116,69 +116,23 @@ Hello all, I’m a farmer from the Netherlands and I am interested in robotics. 
 
 ## Google News: "robotics"
 
-**[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
-
-Reuters • 22h ago
-
----
-
 **[Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks](https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/)**
 
 Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)
 
-Boston Dynamics • 10h ago
-
----
-
-**[Humanoid robots fight in cage match in Shanghai](https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai)**
-
-Humanoid robots fight in cage match in Shanghai
-
-Al Jazeera • 1d ago
-
----
-
-**[Behold: Video of "First-Ever" Human Versus Robot MMA Fight](https://futurism.com/robots-and-machines/first-ever-human-versus-robot-mma-fight)**
-
-A new viral video making the rounds on social media shows a humanoid robot fighting a TikTok influencer in the ring.
-
-Futurism • 7h ago
-
----
-
-**[Boston Dynamics' humanoid robots start training at Hyundai plant](https://www.axios.com/local/boston/2026/09/21/boston-dynamics-humanoid-robots-hyundai-metaplant)**
-
-Axios • 6h ago
-
----
-
-**[Boston Dynamics opens Metaplant Application Center to train Atlas humanoids](https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/)**
-
-The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia.
-
-The Robot Report • 12h ago
-
----
-
-**[Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027](https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/)**
-
-Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year.
-
-CnEVPost • 1d ago
+Boston Dynamics • 16h ago
 
 ---
 
 **[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
 
-Reuters • 2h ago
+Reuters • 1d ago
 
 ---
 
-**[Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close](https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close)**
+**[Faraday Future Launches 5 New Robots: $9,990 To $137,900 For An Industrial Humanoid](https://www.forbes.com/sites/johnkoetsier/2026/09/21/faraday-future-launches-5-new-robots-9990-to-137900-for-an-industrial-humanoid/)**
 
-Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner.
-
-Futurism • 1d ago
+Forbes • 14h ago
 
 ---
 
@@ -186,7 +140,53 @@ Futurism • 1d ago
 
 The group from Folkestone is set to compete at the First Global Challenge in South Korea.
 
-BBC • 20h ago
+BBC • 1d ago
+
+---
+
+**[Japan plans AI robot contest on International Space Station](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-plans-ai-robot-contest-on-international-space-station)**
+
+Growing space robotics market calls for fostering more Japanese engineers
+
+Nikkei Asia • 10h ago
+
+---
+
+**[China leads in industrial robotics, but US has edge in AI intelligence: Gecko Robotics CEO](https://www.cnbc.com/video/2026/09/22/china-leads-in-industrial-robotics-but-us-has-edge-in-ai-intelligence.html)**
+
+Gecko Robotics CEO Jake Loosararian explains why China leads in industrial robot deployment and manufacturing, while the U.S. has an advantage in the intelligence that powers robotics. He also talks about how specialized robots and AI can improve predictive maintenance for critical infrastructure, including naval assets.
+
+cnbc.com • 2h ago
+
+---
+
+**[China's new calling cards: AI, robots and new drugs](https://www.chinadaily.com.cn/a/202609/21/WS6ab09a1ee4b06d4aa055f36c.html)**
+
+China Daily • 1d ago
+
+---
+
+**[2026 WMC: Intelligent robots, drones power more real-world scenarios](https://news.cgtn.com/news/2026-09-21/2026-WMC-Intelligent-robots-drones-power-more-real-world-scenarios-1QCd7sfmbte/p.html)**
+
+A range of intelligent equipment designed for high-risk industry applications demonstrated at the 2026 World Manufacturing Convention, showcasing how advanced robotics and artificial intelligence (AI) are reshaping industrial safety and efficiency.
+
+news.cgtn.com • 1d ago
+
+---
+
+**[Plug and Play Seattle picks 11 startups for 4th cohort, from space robotics to biotech](https://www.geekwire.com/2026/plug-and-play-seattle-picks-11-startups-for-4th-cohort-from-space-robotics-to-biotech/)**
+
+Ten of the participating startups are based in Seattle, joined by Tokyo-based wireless power developer Aeterlink, which is participating in an exploratory international track to support its expansion into the U.S. and Pacific Northwest.
+
+GeekWire • 16h ago
+
+---
+
+**[How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity](https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/)**
+
+Behind the scenes, advanced equipment control and robotics are enabling higher levels of repeatability, tool uptime, and yield.
+
+semiengineering.com • 23h ago
 
 ---
 
@@ -194,43 +194,23 @@ BBC • 20h ago
 
 ## YouTube Videos: "robotics"
 
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+
+📺 MindSeeded
+
+👁️ 908K • 👍 14K • 💬 2K • ⏱️ 16:24 • 4d ago
+
+---
+
 **[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
 
 China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 51 • 💬 9 • ⏱️ 1:16 • 5h ago
-
----
-
-**[ITKAN x SWYFT BIOBUZZ Ri3D Intake Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d](https://www.youtube.com/watch?v=AOzftXADIVA)**
-
-ITKAN x SWYFT BIOBUZZ Ri3D Intake Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d.
-
-📺 SWYFT Robotics
-
-👁️ 608 • 👍 3 • ⏱️ 0:20 • 1h ago
-
----
-
-**[Nidal Wonder Challenges a Human Robot.. 😰](https://www.youtube.com/watch?v=VNnlaQEMg6E)**
-
-shorts #robot #nalish #flipoff #flips #crazy #viral.
-
-📺 Aycid
-
-👁️ 4K • 👍 106 • 💬 2 • ⏱️ 0:38 • 1h ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 308K • 👍 10K • 💬 857 • ⏱️ 55:24 • 2d ago
+👁️ 4K • 👍 75 • 💬 11 • ⏱️ 1:16 • 10h ago
 
 ---
 
@@ -240,57 +220,77 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 94K • 👍 934 • 💬 174 • ⏱️ 2:40 • 18h ago
+👁️ 112K • 👍 1K • 💬 186 • ⏱️ 2:40 • 1d ago
 
 ---
 
-**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
+**[Internet BREAKS w/ The World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=Rl7S9lJp1Zw)**
 
-The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
+Scale your business with YouTube https://dcsocialmedia.co.uk Join my free community - https://www.skool.com/davidcarbutt I've ...
 
-📺 Frankie Lapenna
+📺 David Carbutt 
 
-👁️ 3.3M • 👍 136K • 💬 11K • ⏱️ 0:45 • 1d ago
-
----
-
-**[How To Destroy A Self-Aware Robot](https://www.youtube.com/watch?v=B0-v46oMCp4)**
-
-I got a little bit bored so we saw How To Destroy A Self-Aware Robot SUBSCRIBE TO GOAT @LIGHTSAREOFF New Merch ...
-
-📺 Socks Live 
-
-👁️ 190K • 👍 5K • 💬 554 • ⏱️ 36:24 • 1d ago
+👁️ 47K • 👍 661 • 💬 260 • ⏱️ 11:15 • 4d ago
 
 ---
 
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
 
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
 
-📺 MindSeeded
+📺 DPCcars
 
-👁️ 884K • 👍 14K • 💬 2K • ⏱️ 16:24 • 4d ago
-
----
-
-**[4K Djedi Robot Entered the Great Pyramid&#39;s Sealed Shaft - Revealing NEVER Before SEEN Footage](https://www.youtube.com/watch?v=pvANZ5xuBQU)**
-
-The Djedi robot explored a sealed shaft inside the Great Pyramid, capturing the first images of a mysterious second barrier.
-
-📺 IMPOSSIBLE ARCHIVES
-
-👁️ 640K • 👍 4K • 💬 266 • ⏱️ 11:34 • 2d ago
+👁️ 20K • 👍 138 • 💬 39 • ⏱️ 2:56 • 4d ago
 
 ---
 
-**[I Cheated Mark Rober&#39;s Casino with a Robot](https://www.youtube.com/watch?v=hZgIaDdPkTQ)**
+**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=p1YFDGdTzq0)**
 
-I Built a Robot Poker Chip to cheat at Roulette. PCBWay is the best place to order your PCBs, 3D Prints and CNC'd parts.
+America's New Humanoid Robot Is Shocking the Entire World Right now, inside factories and homes across America, machines ...
 
-📺 Concept Bytes
+📺 The Ultimate Discovery
 
-👁️ 75K • 👍 1K • 💬 109 • ⏱️ 14:41 • 2d ago
+👁️ 9K • 👍 76 • 💬 16 • ⏱️ 26:38 • 5d ago
+
+---
+
+**[These New American Construction Robots Will Leave You Speechless](https://www.youtube.com/watch?v=3M-Y6WInboM)**
+
+These New American Construction Robots Will Leave You Speechless Every year, the jobs that hold up American construction ...
+
+📺 Future Core
+
+👁️ 186K • 👍 734 • 💬 43 • ⏱️ 9:07 • 6d ago
+
+---
+
+**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+
+Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+
+📺 Talent Replay
+
+👁️ 70K • 👍 273 • 💬 56 • ⏱️ 4:51 • 6d ago
+
+---
+
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
+
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
+
+📺 NextGen Humanoids
+
+👁️ 46K • 👍 327 • 💬 80 • ⏱️ 11:33 • 6d ago
+
+---
+
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+
+📺 EmortalMarcus
+
+👁️ 324K • 👍 10K • 💬 876 • ⏱️ 55:24 • 2d ago
 
 ---
 
