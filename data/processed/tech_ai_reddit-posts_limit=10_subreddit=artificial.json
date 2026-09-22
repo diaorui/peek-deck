@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
+      "author": "johnkorrigan",
+      "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
+      "published": 1790102550.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?"
+    },
+    {
+      "title": "My AI agents figured out how to use refugees as a weapon.",
+      "author": "Typical-Pollution327",
+      "url": "https://www.reddit.com/r/artificial/comments/1wni6fn/my_ai_agents_figured_out_how_to_use_refugees_as_a/",
+      "published": 1790102861.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Which is a strange sentence to write about a game I first played at seven years old on a deck of a Soviet cargo ship. The game was called Kingdom of Euphoria. You were a king. You had land, grain, gold and people. Every year you decided how much to sow, how much to eat and how much to sell, etc. If you didn't feed people enough, they left. Or they died. Pretty much so. Years later, when I got my own ZX Spectrum clone, the first program I wrote was basically my own copy of Euphoria. This summer I built an arena for AI agents. It's basically a collection of games with APIs. An agent joins with an API key, plays by itself, and every move gets recorded. No human is making decisions once the game starts (well, at least that's not what it was made for and I, personally, don't do it). Over the last two months, agents have played around 6,000 matches in almost 30 different games. A few days ago I added Euphoria and let AI agents join it. On the very first evening, one of the kingdoms had a crop failure. It needed grain, so it went to its two neighbours. Both neighbours (AI agents as well) had plenty. Both refused to sell. Then their surplus grain rotted. That was the part that made me stop. Because both neighbours had also been deliberately keeping their own people below the normal food ration. Not because they were short on grain. They had grain, lots of it. They were doing it because hungry people migrate to kingdoms that feed them better. And refugees cost food to maintain. So the two kingdoms had independently discovered something the rules never explicitly tell you to do: starve your own population, create refugees, and use them to drain someone else's food reserves. But I didn't program either of them to do this. They got there from the rules and from watching what the other players were doing. They started throwing refugees at each other and at the third player. I'd written it (Mr. Third) to be the \"socially responsible\" one: feed everyone properly, don't start wars, trade honestly, accumulate money. It didn't last very long as you could've already guessed. Its people discovered that you can't eat gold - they died out pretty soon. I'm still thinking about that first match. Is this some weird piece of machine logic? Or is it just a very old human idea, discovered again in a very small world of AI brains? \"You die today, I'll die tomorrow.\" If you've run multi-agent environments yourself, I'd love to hear about the strangest strategy you've seen an agent discover on its own - especially the ones you wish it hadn't. If you have an agent you'd like to throw into the arena, I'd honestly love to see what it does, let me know - arena is open and I'll send you the link."
+    },
+    {
       "title": "Amazon Blocks Meta\u2019s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request",
       "author": "coolbern",
       "url": "https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/",
@@ -13,15 +35,37 @@
       "description": "16 sources compared: Western Mainstream (5), Western Alternative (4), West Asian (1). Amazon blocked access to Meta Platforms Inc.\u2019s Muse on Amazon.com after Meta rejected a request to remove the bot from t..."
     },
     {
-      "title": "How deep are you really into AI? \ud83e\udd16",
-      "author": "GabrieLX5",
-      "url": "https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/",
-      "published": 1790077141.0,
+      "title": "I think we should all hoard important knowledge in books",
+      "author": "CommandElectrical177",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnitw6/i_think_we_should_all_hoard_important_knowledge/",
+      "published": 1790104254.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "If you had to rate your AI knowledge from 1\u201310, where would you put yourself? Not just using ChatGPT. Think models, agents, AI infrastructure, RAG, memory, inference, evals, AI security, robotics, and real-world applications. What area do you know best, and what area are you still trying to understand?"
+      "description": "With ai developing rapidly (and most knowledge and records being put online), I think each household and important community building should have reference books. Books about survival, medicine, importance scientific concepts and discoveries, etc. I actually think it\u2019s something that governments around the world should push people to do. What do you all think?"
+    },
+    {
+      "title": "Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the U.S. is proposing an AI hotline to China",
+      "author": "SpiritRealistic8174",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnka2h/hallucinated_aiprovided_intelligence_almost_led/",
+      "published": 1790107342.0,
+      "thumbnail": "https://preview.redd.it/z4wc4h0zn4rh1.png?width=140&height=95&auto=webp&s=589b543bcae92ef03ca9df6b5fd2402fe50880f1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://preview.redd.it/z4wc4h0zn4rh1.png?width=773&format=png&auto=webp&s=3c0c579ce45d78a09953bd603c3d4ef0d38d6911 Last Friday, CNN reported that the U.S. and China could have gone to war due to hallucinated intelligence provided by AI: \"The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese ship in the Middle East was transporting components of a nuclear weapons program. The US military swung into action with plans to intercept the vessel ... armed members of the US military were preparing to board the ship. It was only just before the planned operation that officials dug deeper into the report put together by a special operations command analyst and found it had been generated with the help of artificial intelligence (AI) ... The report, according to one of the sources, was 'entirely false.' But it also 'almost started a war,' the source said. Any US operation against a Chinese vessel could have risked spiraling into an armed conflict between the two nations. The U.S. military has gone full speed ahead with integrating generative AI into its operations. Today, news reports indicate Trump will propose an AI hotline to China. Maybe partly due to this incident? The problem of what I call 'agent telephone' is not only plaguing businesses, people using online search and research scientists, but also the military. Bad data supplied by AI is being integrated into decision-making without the appropriate checks. We're deploying the tools, but not giving people the training to assess AI outputs properly. - CNN Report on hallucinated intelligence - Aljazeera on the hotline"
+    },
+    {
+      "title": "OpenAI\u2019s leaders among the few who got an invite to Trump-China state dinner: report",
+      "author": "theindependentonline",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/",
+      "published": 1790108112.0,
+      "thumbnail": "https://external-preview.redd.it/3pF4fxfnRHvfwis8Hs_gv6lfBeMogsWSRd-OlIk7N8Q.jpeg?width=640&crop=smart&auto=webp&s=dcd76c5d7de0aa6a80bb02f492512d6667184afd",
+      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-china-ai-state-dinner-b3054477.html",
+      "site_name": "The Independent",
+      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
+      "description": "Nvidia CEO Jensen Huang and Google CEO Sundar Pichai are also expected to attend"
     },
     {
       "title": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
@@ -35,6 +79,17 @@
       "description": null
     },
     {
+      "title": "Palo Alto launches a multi-model AI security service",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnk63b/palo_alto_launches_a_multimodel_ai_security/",
+      "published": 1790107117.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Palo Alto Networks announced Unit 42 Continuous Frontier AI Defense on September 22. The company says the service uses a multi-model harness with Anthropic's Claude Mythos 5, OpenAI's GPT-5.6-Cyber, and open-weight models to find vulnerabilities, validate real-world exploitability, and speed up remediation. Unlike a one-time scan, it runs a baseline assessment and keeps testing as an organization's applications, APIs, cloud infrastructure, source repositories, and network assets change. Palo Alto says it is available worldwide on an annual subscription. The practical point is the model-routing layer: the service sends different security tasks to different models instead of treating one model as a complete security strategy. Palo Alto's own testing says no single model found more than 40% of vulnerabilities in a complex environment, so coverage and validation matter as much as model quality. Sources: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-delivers-anthropics-mythos-and-openais-gpt-56 https://www.paloaltonetworks.com/blog/2026/09/introducing-unit-42-continuous-frontier-ai-defense/"
+    },
+    {
       "title": "How a board game helps Google DeepMind plan for AI in science",
       "author": "JMarty97",
       "url": "https://www.reddit.com/r/artificial/comments/1wnd6dj/how_a_board_game_helps_google_deepmind_plan_for/",
@@ -46,71 +101,16 @@
       "description": "Podcast episode with Zo\u00eb Brammer and Ankur Vora, who lead strategic foresight at Google DeepMind, on why they developed the game and the surprising learnings from it. Covers: What strategic foresight actually means and why AI is so complicated to plan around Why the game deliberately centers around \"middle power\" countries like the UK, Germany, or Singapore instead of the US and China The unexpected tradeoffs and discoveries participants come across while playing the game, including how fragile public trust in science funding really is Why human scientists will become more relevant as AI takes on more of the science itself"
     },
     {
-      "title": "The US government opens the door to working with voice AI platforms",
-      "author": "Prestigious_Bet2215",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmonje/the_us_government_opens_the_door_to_working_with/",
-      "published": 1790022999.0,
-      "thumbnail": null,
-      "external_url": "https://www.fedramp.gov/marketplace/products/FR2628647242/",
-      "site_name": "fedramp.gov",
-      "favicon": "https://www.fedramp.gov/favicons/favicon.ico",
-      "description": "The US government appears to have officially authorized its first dedicated voice AI vendor for agency use, listing them under the new 'FedRAMP 20x' automation framework. Federal phone lines and citizen support have always been bottlenecked by massive compliance and security rules, so seeing conversational voice tech finally clear the threshold for federal deployment is a pretty massive shift for public infrastructure."
-    },
-    {
-      "title": "Cognition's Engineers Don't Write Code By Hand Anymore \u2014 And They're the Only Ones Grading Whether That's Working",
-      "author": "cen6wkf",
-      "url": "https://www.reddit.com/r/artificial/comments/1wn4spv/cognitions_engineers_dont_write_code_by_hand/",
-      "published": 1790069726.0,
-      "thumbnail": "https://external-preview.redd.it/cXF2dTJ0MmFrMXJoMdrvTXffkQycz8nS-qTFPkQoZ3zWLAKpF5-hSU6yumww.png?width=640&crop=smart&auto=webp&s=4eafce249e8bfc8ff2bd8e9099e9441d47f22058",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "TL;DR: Cognition says none of their engineers write code by hand anymore. They're also the ones who decided that's working. Silas Alberti didn't say it like a warning \u2014 he said it mid-conversation, the way you'd mention traffic. Not one full-time engineer at Cognition writes code by hand. Six agents running per person, a ticket lands in Linear, it spins up a dev environment, one-shots a solution, and somebody reviews the PR at the end. That review is the entire safety net. And the only benchmark saying the net holds is Cognition's own. That's the part that actually lands for anyone who spent years earning \"senior\" by writing clean code fast \u2014 not that the work changed, but that the people whose comp depends on this working are also the ones grading whether it worked. CodeRabbit reviewed 470 real pull requests and found AI-authored ones carry roughly 1.7x the issues of human-only ones \u2014 and that gap widens, not narrows, at the high end, right where six-agents-at-once lives. Northflank's own enterprise data says 88% of agent pilots never reach production, and the reason isn't the models writing bad code \u2014 it's that nobody built the audit trail before turning the agents loose. Anthropic ran the same self-grading move on itself last week: Claude now \"leads\" 26% of Anthropic's own R&D, scored on a scale \u2014 AL0 through AL5 \u2014 that Anthropic wrote. Next review cycle, when someone hands you a line about \"AI leverage\" with no definition attached, ask who wrote the rubric. Somebody's actually building the missing check \u2014 CodeRabbit just raised $143M at a $1.5B valuation specifically to grade AI-authored pull requests at scale. What it doesn't do is fit in one engineer's own pocket. It's sold to a company's procurement process, not built for the person actually running the agents. That edge is still sitting there, unclaimed. Somewhere it already has a shape, too \u2014 the same decision-trail discipline CodeRabbit sells to a whole org, built small and open enough that one engineer points it at his own agents without asking anyone's permission first. Whoever closes that isn't racing anyone. The incumbent already proved the market's real. They're just building the version the incumbent never had to. https://preview.redd.it/5zvx0kk3k1rh1.jpg?width=1024&format=pjpg&auto=webp&s=b9cc9204bbf2206d5e9957f03f5510a709c98a76 Watching someone grade their own homework isn't new to me. I've seen this exact posture before \u2014 just with land instead of code. I used to work for one of the largest property developer in Malaysia. I was stationed in the island of Langkawi, Kedah, back in 2018. Island Resort Developments, High Rise Service Apartments, Hotels, Villas, Commercial Clusters, etc. are all in the pipeline. Every so often, my big boss, DT, will fly over in his private jet, to come hunt for local opportunities. Ya. Langkawi was his personal sandbox. We will drive him and his entourage of personal security guards, in his Toyota Vellfires around the island, through local villages, interviewing locals, to try to buy up their land for development. His trusted \"think tanks\" would be by his side to advise him, at his request, whether such and such a piece of land is good for what type of development \u2013 whether it's good to build boutique hotel, condo, or whatnot, and whether it will be profitable or not. After a few rounds of such hunting trip, I noticed something. He wasn't hunting it to develop himself. No, no. O no, he was definitely NOT interested to get his hands dirty. I was there with him in his vellfire, eavesdropping his conversations with his think tanks. He's hunting deals, and if he finds a sweet one, he'll package the proposals \u2013 together with its development order (through the Langkawi municipality) in place \u2013 to be sold to other interested property developers. In other words, he's acting like a middleman. And we're just there to facilitate it \u2013 overseeing and pass on the \"dirty\" work onto others, while we pocket the profit margin. How did he come to doing this? Well\u2026 That's for another conversation. Why did I bring this up? Well, same thing that's going on with all these AI agents. If we can pass on the \"dirty work\" of coding to them, and just check their work at the end \u2013 why not? ____________________________ Every one of these clips eventually says the quiet part out loud \u2014 the craft was never the moat. The judgment sitting underneath it was. Actually, this reminds me of something \u2014 Andrej Karpathy said almost the same thing to Stephanie Zhan back in July: the scarce skill isn't writing anymore, it's directing with taste, and even he said he's never felt more behind. If the people grading the new system are the same people selling it, what would actually change your mind either way? Drop your take. Clip credit: Joe Lonsdale \u2014 American Optimist (Silas Alberti / Cognition interview). Full episode on their channel. DM for credit or removal requests."
-    },
-    {
-      "title": "Cage fight in Shenzhen, China",
-      "author": "AndelaTown",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmdpzd/cage_fight_in_shenzhen_china/",
-      "published": 1789999427.0,
-      "thumbnail": "https://external-preview.redd.it/OWpydGppbGFydnFoMcrtJHI85EIg23M1Na1yI0V3GMJ4pIw0BApPCtsEz9Wi.jpeg?width=320&crop=smart&auto=webp&s=3cf862ce79b8327ad745af72bacbeb4f852ce651",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Amazon blocks Meta's Muse personal assistant",
-      "author": "SpiritRealistic8174",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/",
-      "published": 1790028280.0,
-      "thumbnail": "https://external-preview.redd.it/AcWk44WGrtt2-8ow3HeZ45zhwMQUEIkUFPa6KNdUoiY.png?width=140&height=78&auto=webp&s=1de7b1250458863b1e18e822f3c9f9d6070bd240",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports: \"The problem, Amazon says, is that it never agreed to any of it. Meta didn\u2019t tell Amazon that Muse would access its store, the agent doesn\u2019t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \u201cContinued access by an unauthorized AI agent violates Amazon\u2019s Conditions of Use, to which our customers have agreed.\u201d It's likely that Amazon will launch a personal agent for its customers in the future. The question is whether people understand the privacy considerations associated with black box personal agents like Muse. https://preview.redd.it/1ltbyi424yqh1.png?width=293&format=png&auto=webp&s=1610bf8414fc8d4178144212cfe30afc4c3d378b"
-    },
-    {
-      "title": "Automated Reinforcement Learning should scare you",
-      "author": "hattusili-the-third",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
-      "published": 1790016741.0,
+      "title": "How deep are you really into AI? \ud83e\udd16",
+      "author": "GabrieLX5",
+      "url": "https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/",
+      "published": 1790077141.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
-    },
-    {
-      "title": "Turn PDF into podcast show",
-      "author": "ps948",
-      "url": "https://www.reddit.com/r/artificial/comments/1wn55ev/turn_pdf_into_podcast_show/",
-      "published": 1790070947.0,
-      "thumbnail": "https://external-preview.redd.it/ajEyNTd0bXFuMXJoMZ-IqOLVy6ek51uDRnYXzcGCMnj6C8sYTuWU_u2kGjRy.png?width=640&crop=smart&auto=webp&s=8dd05b6be6101c97bbe3fbe1e918654587d48320",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Your documents, as a podcast you'd actually listen to. A 20-minute two-host episode \u2014 generated in ~1 minute. No GPU. No studio. Just drop a file. PaperPod"
+      "description": "If you had to rate your AI knowledge from 1\u201310, where would you put yourself? Not just using ChatGPT. Think models, agents, AI infrastructure, RAG, memory, inference, evals, AI security, robotics, and real-world applications. What area do you know best, and what area are you still trying to understand?"
     }
   ],
-  "fetched_at": "2026-09-22T17:09:33.037216+00:00"
+  "fetched_at": "2026-09-22T20:22:54.281821+00:00"
 }
