@@ -15,44 +15,54 @@
       "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
     },
     {
-      "headline": "Meta stock soars 11% on price target increase, Muse AI downloads",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3JRd2ozbzl0VjdQODBPQlY0T3NVZWR1ZHdOc3NPaU4ybERnX2czVmwzc1dRQnYyUFR1b2NSN0M5Z1ZOdlRUWjYzNzhXUmFkemFqV1RlTkptSnNVX2JiNlZMOG5CY0paUnhrZkpldWZhcWphSHJZcmJaUTFJWFE1LUFoYlJXTmkteVpEMjY2VmxlanVyN2ZpQTVFVlBpSUdRTmxIVEd2MWd6ajl0V1B2VERDMzBjSklMcTBfZFFDaw?oc=5",
-      "pub_date": 1790021462.0,
-      "article_url": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/9e7bde4205b0256c9234fc9b87dec7b3f428bc935c41db69cbb8bc31b7731679/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F57c44a5c-9024-473d-b81f-eb4cfa420cc7",
-      "description": "Meta rocketed higher Monday, closing out the trading day up more than 11%."
+      "headline": "AI solved one of math's hardest problems. Humanity learned nothing (so far)",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaG9qMFh5V2xxbW5YbmNsWVlLUmhQTUhudG12TG5va1A4NTc3ZEJoMElWcjBWQ190SVpfckF6RG5TVjdFNGhqeEpyMk03TnpyVnBsN1VqSWtWb2tNRGtWTlV4enB4dnZQd3dhRGRjVmlvLVRoaU13anU5dHNrakFGUjJwdVNQblM5N191Ymp0SlQtZldBeHRpOHFQeTZXYXBZTEdv?oc=5",
+      "pub_date": 1790067660.0,
+      "article_url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3488+0+581/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F6b%2F4d5113474763a720386f439bd345%2Fgettyimages-2294331667.jpg",
+      "description": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much."
     },
     {
-      "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
-      "pub_date": 1789492028.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
-      "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
+      "headline": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNRNkl3a3ZNSjlVT1VkREQ5ZnBDTnhXczl0X3lWUUFISWxPcG5NYUVjdlZwbWlwSGpVT3U0Y0lyMnpkTzhTNDNzUG9pVGQ3U2kyU085aEdQdlhpalVGdGtDTG13VkF5VjlOWERWN21JTE1fcEJYXzFjVDBvSTZKdW9LYUZkOG5TRlB3TnhRTFZTSFhaenhBdk9JT1pVYnBCWm50UGRmNnRuNlp3WXFnYWZ0YVNsMFZ3SXNEQWNrZ2M?oc=5",
+      "pub_date": 1790074800.0,
+      "article_url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
+      "image": "https://static.scientificamerican.com/dam/asset/4edea88b-e1e7-47d4-a024-64701af074d7/GettyImages-2262108239-cropped.jpeg?m=1790012229.627&w=1200",
+      "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one \u201cinverse Galois problem\u201d"
     },
     {
-      "headline": "How the AI data center boom echoes American history",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QY3lhOGNxYzZ1RDdVZXd1SlFfVzV4b2xaakZsbjNRczIzNHZrWHJHVlVDN2lZUlZRMXctWHpheWtLbjdXZFJUZXIyUXBtUjJpX0RIVzJuSQ?oc=5",
-      "pub_date": 1790054765.0,
-      "article_url": "https://qz.com/ai-land-rush-american-history",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2264216703-300x200.jpg",
-      "description": "The AI power pledge was signed in a room named for broken promises. Is the Ratepayer Protection Pledge as good as a broken treaty?"
-    },
-    {
-      "headline": "Wall Street Is Growing Skeptical of the Data Center Boom",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjhPS25fUHJuTXZPSWJ1d09tMDlRZEI1SXppRkFjeHRrV3JXWWREUEx3cXZSSVliVG9qVmRDaUNiSlFfemVVd21zcmJ0ZHo4STNYNFVIRmtsR1RQcjNMVlpCbl9UV2dzcUFpMmR5ejc0SjhGQWlF?oc=5",
-      "pub_date": 1790015214.0,
-      "article_url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "headline": "How one New Orleans developer is tackling AI anxiety",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajRrUmpmMS1BeC1WZGhLUHBPRGNaaGluMXRCNWZvb1ROVWNTU0pTMElXQ3R6LVhCdC1KbXFTSmtTd1l3MFVOSjU5TUVOOTZaR1huYWE5czJCVjNrTnl5NkloRWJhZmdnNG1mNUlLN3dkQTJ6TGRDemh4a29mNWF2YjdB?oc=5",
+      "pub_date": 1790076712.0,
+      "article_url": "https://www.axios.com/local/new-orleans/2026/09/22/ai-anxiety-neel-sus-susco",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Airports Turn to AI Tools to Help Ease Travel Troubles",
+      "source": "TODAY.com",
+      "source_url": "https://www.today.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFpQVnI4N2NzdDRkWVpvSUVJZ1ZQeVZNNng5YmJGd0JNbDBYX2RxZ2pBUmZNcldOaVlHWDNDd1ZNdksxemdyemtVSkRmN3UyZ2xJXzNDbENzZjh3SWMyRHNtb0M4NE1PRGV0ZWx1dkdZeHR2VzI3Qk1RN3oxTGwxdFdkOXdXS1pqY3lSd2tKS1MtVUwtaVJIRXJtNHhaNGhFZGI2NmtpOA?oc=5",
+      "pub_date": 1790077685.0,
+      "article_url": "https://www.today.com/video/faa-unveils-its-ai-powered-system-to-prevent-flight-disruptions-270279237524",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_09/1790077557546_tdy_news_7a_costello_airports_ai_260922_S3_1920x1080-530dd6.jpg",
+      "description": "The FAA has unveiled a new AI tool called SMART that gives air traffic controllers more real-time data on weather, flight paths, schedules and diversions. The Transportation Department stresses the new system will not replace human controllers, insisting instead that it will provide better information to manage issues. NBC\u2019s Tom Costello reports for TODAY."
+    },
+    {
+      "headline": "OpenAI calls for global cooperation on AI standards",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTDhZTFMwMVVmRXBtX3Nab0ZtOGZPZTZSdGw5aWhNcm5BNldSbXBuNjd1T1FCR0xUN3IzRlhyVG1LX2lQeTdfZnQ0SGpzd3o2VS11SC1R?oc=5",
+      "pub_date": 1790076559.0,
+      "article_url": "https://www.foxnews.com/video/6405406736112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f350562-f244-4273-81e9-1face2acf00b/b74ae359-a851-49ac-b4f6-311677931ab8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Wickard AI CEO Oliver Roberts analyzes U.S. artificial intelligence strategy and dialogue with China on 'Fox & Friends First' ahead of a meeting between President Donald Trump and Chinese President Xi Jinping."
     },
     {
       "headline": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'",
@@ -65,46 +75,36 @@
       "description": "Nvidia CEO Jensen Huang called AI doomsday predictions \"irresponsible\" and not grounded in science, urging existing laws over new AI regulation."
     },
     {
-      "headline": "\u2018They must be doing it for ulterior reasons\u2019: Jensen Huang says AI leaders are \u2018irresponsible\u2019",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakNFUVoyY1ZPYTFzbkVGd0w2NjVSTEtpcEdaU0tEclJydlItMUVzNFpab1pVUUI0ZkRHTjVYYWhta0cxbTJDNWNOMEs5ajlEY09GM3BtcGpWYVRqQzY2RXhWS3E4d3Q2a015UXptV3o1VDJRRXEwTXJTSTR2eXhXVw?oc=5",
-      "pub_date": 1790017080.0,
-      "article_url": "https://fortune.com/2026/09/21/jensen-huang-ai-leaders-doomsday-narratives/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2285710540-e1790015026760.jpg?resize=1200,600",
-      "description": "The Nvidia CEO says \u201cthere is a 0% chance\u201d of AI doomsday\u2014and the AI pioneers may have their own motives for pushing AI slowdown."
-    },
-    {
-      "headline": "Nvidia boss says there is \u20180% chance\u2019 AI destroys the world by 2030 | AI (artificial intelligence)",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
-      "pub_date": 1789974720.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-      "image": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
-      "description": "Jensen Huang dismisses warnings from former Anthropic researcher and others as \u2018doomsday narratives\u2019"
-    },
-    {
-      "headline": "Introducing Grok 4.7",
-      "source": "xAI",
-      "source_url": "https://x.ai",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
-      "pub_date": 1790005689.0,
-      "article_url": "https://x.ai/news/grok-4-7",
-      "image": "https://x.ai/images/news/grok-4-7-og.webp",
-      "description": "SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models."
-    },
-    {
-      "headline": "AI-powered online scams targeted in bipartisan bill",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX19pQ19XV21YVTdxNlJ2SThGYzlQWkV5OHVLSS1IQmQtRFRnT2dzdzJBak1DQVY5YVhnVHlYODViMGx3ckNZQnJ4TDRzaXR3T3VQM1NxdVhCWkcwLVoyTVVBZzIxNUw1b3MtV0Zlc01ELVpYeGpzV2VyeXNIcV9fblpxMTJKVEtFclZ0OUJiS1BDOWxuVFFaUF9oRGNoOFI2MkpxbkpOdDVXbWN0c1lzc0kwcjgxOWVnbWc?oc=5",
-      "pub_date": 1790003766.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/ai-powered-online-scams-targeted-in-bipartisan-bill-01086095",
+      "headline": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSkpWeGkzYkE3QjJjZ29NTnpici1JbllTS1FBRmNXbnlYSlZXblFsNngwM0FSR01GWWN3UF9yTjhQem42c0RPZXRYOVo3TE93dl85TmJKRkRFQVdWYzJGUFJac3JtRVY0enJkVWhqbTJid28?oc=5",
+      "pub_date": 1790067673.0,
+      "article_url": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "As Trump and Xi meet, investors play both sides of AI divide",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW45WkNOV0lEcDRQOFUxcGJRanlYNURFV2ZuNVg1MUk2dk4wMEhmMUp4VVd3NjBWN1RuOHY4c0QtQ3hxcWVITnpOblZJWl9KSTBWUUVDQUgycjdlRk9lMUhvVDAxN25hVHZXM09HOGZYdE1qdDRUX19DeVpwWXlwV2JNcmdpRDROMGVlNm95NFEyaEpTN1FDYk1CazdaOXNXWkZIekRMN2lCOUN5ZXFZ?oc=5",
+      "pub_date": 1790074572.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/trump-xi-meet-investors-play-both-sides-ai-divide-2026-09-22/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | Trump can derail China\u2019s AI threat",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVlRNE92UHZRSHZqQjhDMk1zLXBsVHNtY3VzTk00N1c3d24xNmpxZzNiZFZaQ0lsN19BSnBoZmltZWtNRTBtNTFfWGl2a0RQUloyY3pjamp4cU5ZTUlmX29LNmVraXI5eFl3TU1raVBlWk1iQVliNDNBZkFBQkx6WmUxOXExWjhjRnppS1dHaWplaXZTR05sZk5xaWFMSk80c04zeDRkZHM2T3MxM0E?oc=5",
+      "pub_date": 1790075930.0,
+      "article_url": "https://www.washingtonpost.com/opinions/2026/09/22/chinese-ai-is-direct-threat-heres-how-trump-can-derail-it/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/G3TUCU5BQVCSXDTRGLWMQWWDLI.jpg&w=1440",
+      "description": "The president can complicate China\u2019s AI strategy if he\u2019s willing to economically pressure Beijing."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T06:43:02.109113+00:00"
+  "fetched_at": "2026-09-22T12:24:20.636712+00:00"
 }
