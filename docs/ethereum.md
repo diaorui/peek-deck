@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-22T06:43:06.843383+00:00'
+updated: '2026-09-22T12:24:22.672181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 06:43 UTC  
+**Last Updated:** September 22, 2026 at 12:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.0%  
-**7d:** +13.1%  
-**30d:** +10.2%  
-**90d:** +74.4%  
-**1y:** -34.5%  
+**24h:** +0.4%  
+**7d:** +13.5%  
+**30d:** +10.6%  
+**90d:** +75.1%  
+**1y:** -34.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $333.82B
+**Market Cap:** $334.69B
 Rank #2
 
 **Circulating Supply:** 122,070,499 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.7%
+-44.6%
 
 **All-Time Low:** $0.43
-+631468.7%
++633247.1%
 
 ---
 
@@ -104,7 +104,7 @@ US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S
 
 Ethereum confirms October 6 for Glamsterdam's Sepolia testnet launch while developers warn fake builders using free test ether could disrupt block auctions.
 
-🔗 [CoinCentral](https://coincentral.com/ethereums-glamsterdam-upgrade-gets-october-test-date-with-builder-attack-warning/) • 3d ago
+🔗 [CoinCentral](https://coincentral.com/ethereums-glamsterdam-upgrade-gets-october-test-date-with-builder-attack-warning/) • 4d ago
 
 ---
 
@@ -152,35 +152,59 @@ What is one thing that would make Ethereum meaningfully safer? The ETHSecurity I
 
 ## Google News: "ethereum"
 
+**[Ethereum news: Bitmine (BMNR) adds bought $75M ETH as Tom Lee says institutions are underweight crypto](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)**
+
+The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
+
+CoinDesk • 23h ago
+
+---
+
+**['Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy](https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923)**
+
+Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply.
+
+The Block • 23h ago
+
+---
+
 **[Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'](https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market)**
 
 Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum—worth roughly $74 million.
 
-Decrypt • 15h ago
+Decrypt • 21h ago
 
 ---
 
-**[Ethereum spot ETFs see $270M inflows on Sept 21, led by BlackRock's ETHA with $110M](https://pluang.com/en/news-feed/ethereum-spot-etfs-masuk-270juta-dolar-etha-pimpin-dengan-110juta)**
+**[Ethereum $15,000 Price Prediction Gains Traction as Wallets Hit 207M — Does the Demand Add Up?](https://finance.yahoo.com/markets/crypto/articles/ethereum-15-000-price-prediction-102715334.html)**
 
-On September 21, Ethereum spot ETFs attracted a total of $270 million in net inflows, with BlackRock's iShares Ethereum Trust (ETHA) leading by drawing $110 million, about 41% of the total. This inflow indicates strong institutional demand for Ethereum spot ETFs, though the remaining $160 million was spread across other funds, showing diverse interest. While this single-day data highlights positive momentum, it does not guarantee a sustained trend as inflows can fluctuate. The SEC's ongoing review of crypto ETF products may influence future market dynamics for these funds.
+Ethereum has reached a record 207.17 million non-empty wallets. Crypto Patel says a sustained break above $4,892 could open a longer-term path toward $10,000–$15,000. At ...
 
-Pluang • 20m ago
-
----
-
-**[Why Is Ethereum Up Today? It Just Broke Above $2,672, Opening the Door to $3,000](https://finance.yahoo.com/markets/crypto/articles/why-ethereum-today-just-broke-134000181.html)**
-
-Ethereum just crossed a Fibonacci level traders have watched for weeks, and whether it holds could determine if a run toward $3,000 is real or just a Bitcoin-driven blip.
-
-Yahoo Finance • 17h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Ethereum for September 21, 2026](https://fortune.com/article/price-of-ethereum-09-21-2026/)**
+**[Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html)**
+
+Bitcoin opened at $86,597.82 on Tuesday, September 22, 2026, 6.7% higher than Monday's opening price. As of 7:20 a.m. ET this morning, the price of bitcoin slid to $86,035.18. Ethereum opened at $2,775.96 on Tuesday, September 22, 2026, up 5% from Monday's opening price. The price of ethereum slid lower this morning to $2,734.44 as of 7:20 a.m. ET.
+
+Yahoo Finance • 36m ago
+
+---
+
+**[Kevin O'Leary Is Certain Ethereum Won't Be the 'Standard' Across Industry Sectors — The 'Shark' Says These Coins Could Gain Interest](https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-certain-ethereum-wont-100026777.html)**
+
+Influential investor and media personality Kevin O’Leary expressed doubts on Sunday about Ethereum’s dominance in the cryptocurrency space, hinting at potential investments in chains like Solana and Avalanche. O’Leary Questions Ethereum’s Dominance O’Leary, also known as “Mr. Wonderful,” said with...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Current price of Ethereum for Sept. 22, 2026](https://fortune.com/article/price-of-ethereum-09-22-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 14h ago
+Fortune • 1h ago
 
 ---
 
@@ -188,31 +212,7 @@ Fortune • 14h ago
 
 Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing “fear of missing out.”Crypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly…
 
-TradingView • 4h ago
-
----
-
-**[Bitcoin Price Rallies Despite Fed Rate Hike as SEC, CFTC Roll Out Crypto Rules](https://coinmarketcap.com/academy/article/bitcoin-rally-fed-rate-hike-sec-cftc-rules)**
-
-Bitcoin, Ethereum and altcoins shrugged off the Fed's first rate hike since 2023, rallying instead on new crypto rules from the SEC and CFTC. Here's why.
-
-CoinMarketCap • 3d ago
-
----
-
-**[Why is Bitcoin rallying alongside Ethereum and XRP?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-bullish-outlook-amid-improving-etf-inflows-202609211102)**
-
-Cryptocurrencies are broadly rising on Monday, led by Bitcoin’s (BTC) surge to $85,000. Altcoins are following BTC’s bullish trend, with Ethereum (ETH) trading above $2,700 and Ripple (XRP) holding steady at $1.47.
-
-FXStreet • 19h ago
-
----
-
-**[Kevin O'Leary Is Certain Ethereum Won't Be the 'Standard' Across Industry Sectors — The 'Shark' Says Thes](https://www.benzinga.com/crypto/cryptocurrency/26/09/61890631/kevin-oleary-is-certain-ethereum-wont-be-the-standard-across-different-industry-sectors-the-shark-instead-thinks-solana-and-avalanche-could-draw-interest)**
-
-Influential investor and media personality Kevin O’Leary expressed doubts on Sunday, September 20, about Ethereum's dominance in the cryptocurrency space, hinting at potential investments in chains like Solana and Avalanche.
-
-Benzinga • 19h ago
+tradingview.com • 10h ago
 
 ---
 
@@ -220,15 +220,15 @@ Benzinga • 19h ago
 
 DUBAI, United Arab Emirates, Sept.  21, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto has announced an upgrade to its DeFi exchange tools, with...
 
-markets.businessinsider.com • 8h ago
+markets.businessinsider.com • 14h ago
 
 ---
 
-**[Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)**
+**[Why Is Ethereum Up Today? It Just Broke Above $2,672, Opening the Door to $3,000](https://247wallst.com/investing/2026/09/21/why-is-ethereum-up-today-it-just-broke-above-2672-opening-the-door-to-3000/)**
 
-The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
+Ethereum crossed the key $2,672 level on September 21 amid a Bitcoin-led short squeeze. What it takes for Ethereum to reach $3,000.
 
-CoinDesk • 17h ago
+24/7 Wall St. • 22h ago
 
 ---
 
@@ -242,27 +242,7 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 712 • 💬 66 • ⏱️ 1:12 • 1d ago
-
----
-
-**[BULLS IN CONTROL! BITCOIN HITS $87K, BIG XRP &amp; ETH PRICE PREDICTIONS! GOOGLE &amp; APPLE CRYPTO HIRES!](https://www.youtube.com/watch?v=c_GtMIbNKqM)**
-
-Crypto News: Bitcoin's rally continues with price hitting $87000 today. Trader Peter Brandt shares XRP and Ethereum price ...
-
-📺 Thinking Crypto
-
-👁️ 4K • 👍 372 • 💬 57 • ⏱️ 21:46 • 3h ago
-
----
-
-**[Ethereum Hit 2,769 After I Bought Early.. Here&#39;s What I&#39;m Leaving Overnight](https://www.youtube.com/watch?v=keE5NYq7rzc)**
-
-WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 21 • 💬 53 • ⏱️ 2:48 • 12h ago
+👁️ 45K • 👍 727 • 💬 71 • ⏱️ 1:12 • 2d ago
 
 ---
 
@@ -272,7 +252,27 @@ Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading 
 
 📺 Altcoin Daily
 
-👁️ 96K • 👍 3K • 💬 170 • ⏱️ 10:49 • 2d ago
+👁️ 98K • 👍 3K • 💬 170 • ⏱️ 10:49 • 2d ago
+
+---
+
+**[Ethereum Hit 2,769 After I Bought Early.. Here&#39;s What I&#39;m Leaving Overnight](https://www.youtube.com/watch?v=keE5NYq7rzc)**
+
+WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 23 • 💬 53 • ⏱️ 2:48 • 18h ago
+
+---
+
+**[ETH BULLMARKET STARTING? (Ethereum Update)](https://www.youtube.com/watch?v=SxmuvWwaVdg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
+
+📺 Cilinix Crypto
+
+👁️ 216 • 👍 16 • 💬 3 • ⏱️ 5:15 • 3h ago
 
 ---
 
@@ -282,7 +282,7 @@ Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid par
 
 📺 More Crypto Online
 
-👁️ 7K • 👍 180 • 💬 14 • ⏱️ 8:45 • 10h ago
+👁️ 9K • 👍 211 • 💬 14 • ⏱️ 8:45 • 15h ago
 
 ---
 
@@ -292,7 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 386 • 💬 27 • ⏱️ 19:53 • 1d ago
+👁️ 18K • 👍 393 • 💬 27 • ⏱️ 19:53 • 1d ago
 
 ---
 
@@ -302,15 +302,7 @@ Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join
 
 📺 Trade Confident
 
-👁️ 1K • 👍 14 • 💬 5 • ⏱️ 4:24 • 11h ago
-
----
-
-**[ARE YOU READY?! CRYPTO BULL RUN IS BACK! HIGHER #crypto #ethereum #bitcoin](https://www.youtube.com/watch?v=1WbHFMmpFbU)**
-
-📺 CryptoWendyO
-
-👁️ 3K • 👍 242 • 💬 2 • ⏱️ 1:34 • 5h ago
+👁️ 1K • 👍 13 • 💬 5 • ⏱️ 4:24 • 17h ago
 
 ---
 
@@ -320,17 +312,25 @@ Join Spoony Wielders Donation Address: yourfriendsommi.eth / yourfriendsommi.pls
 
 📺 🌟yourfriendsommi
 
-👁️ 3K • 👍 244 • 💬 15 • ⏱️ 14:51 • 15h ago
+👁️ 4K • 👍 255 • 💬 15 • ⏱️ 14:51 • 21h ago
 
 ---
 
-**[&quot;I’ve Never Seen A Setup Like This Before&quot; - Tom Lee Bitcoin Interview](https://www.youtube.com/watch?v=RfqFxOjmYBE)**
+**[ARE YOU READY?! CRYPTO BULL RUN IS BACK! HIGHER #crypto #ethereum #bitcoin](https://www.youtube.com/watch?v=1WbHFMmpFbU)**
 
-"I've Never Seen A Setup Like This Before" - Tom Lee Bitcoin Interview Tom Lee (Thomas J. Lee) is a prominent Wall Street ...
+📺 CryptoWendyO
 
-📺 EVERYDAY FINANCE
+👁️ 5K • 👍 348 • 💬 9 • ⏱️ 1:34 • 11h ago
 
-👁️ 6K • 👍 66 • 💬 1 • ⏱️ 17:01 • 2d ago
+---
+
+**[Bitcoin Billion Dollar Day,  Solana Pumps, Tom Lee Buys &amp; Talking Coins With Adam Stokes](https://www.youtube.com/watch?v=yGdCkkm1uNY)**
+
+BTC ETF FLOWS, SOL, ETH, TOM LEE, Altcoin, and Talking Crypto With Adam BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 3K • 👍 168 • 1h ago
 
 ---
 

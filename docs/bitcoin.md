@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-22T06:43:06.839142+00:00'
+updated: '2026-09-22T12:24:22.668014+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 06:43 UTC  
+**Last Updated:** September 22, 2026 at 12:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,699.08
+### $85,877.81
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.7%  
-**7d:** +12.2%  
-**30d:** +8.3%  
-**90d:** +43.3%  
-**1y:** -23.6%  
+**24h:** +0.6%  
+**7d:** +12.7%  
+**30d:** +8.8%  
+**90d:** +44.0%  
+**1y:** -23.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1718.24B
+**Market Cap:** $1724.70B
 Rank #1
 
-**Circulating Supply:** 20,087,781 BTC
+**Circulating Supply:** 20,087,871 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.2%
+-31.9%
 
 **All-Time Low:** $67.81
-+126030.4%
++126525.9%
 
 ---
 
@@ -153,45 +153,69 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-CNBC • 19h ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin’s Volatility Problem: A Better Way to Manage the Risk](https://app.hedgeye.com/insights/187469-bitcoin-s-volatility-problem-a-better-way-to-manage-the-risk?type=macro%2Cmarket-insights)**
+**[Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000)**
 
-Hedgeye • 15h ago
+WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.
 
----
-
-**[Strategy’s bitcoin holdings reach value of $73B+](https://virginiabusiness.com/strategys-bitcoin-holdings-73b/)**
-
-As bitcoin broke $86,000 on Monday, the value of Tysons-based Strategy’s holdings rose to more than $73.56 billion as of 4:40 p.m.
-
-Virginia Business • 6h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html)**
+**[Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties](https://www.miamiherald.com/news/nation-world/article317287979.html)**
 
-Bitcoin has been on a strong run over the past month.
+Jeffrey Epstein aligned with MIT and the man who cut the ribbon for Trump’s gold statue in Doral in his quest to champion cryptocurrencies.
 
-Yahoo Finance • 16h ago
-
----
-
-**['It's crypto spring': 4 reasons bitcoin is surging above $85,000](https://www.businessinsider.com/bitcoin-price-today-rally-to-85k-fueled-by-4-catalysts-2026-9)**
-
-Bitcoin surpassed the $85,000 mark for the first time in eight months, a breakout some market pros are saying marks the end of the crypto winter.
-
-Business Insider • 16h ago
+miamiherald.com • 2h ago
 
 ---
 
-**[Bitcoin Futures](https://www.cmegroup.com/markets/cryptocurrencies/bitcoin/bitcoin)**
+**[Bitcoin Leads Crypto Back Above $3 Trillion as Risk Builds](https://finance.yahoo.com/markets/crypto/articles/bitcoin-leads-crypto-back-above-093150937.html)**
 
-Find information for Bitcoin Overview provided by CME Group. View Overview
+Digital assets have reclaimed $3 trillion in market value for the first time since January after Bitcoin’s stunning rally, but traders are also piling into leveraged bets in perpetual futures, increasing the risk of rapid price swings.
 
-CME Group • 2d ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
+
+The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
+
+Fox Business • 32m ago
+
+---
+
+**[5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/)**
+
+Top Bitcoin Casinos With Best Bonuses 🎲 Casinos 🎁 Welcome Bonus 🏆 Rating 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.9/5 2️⃣ JACK.com 100 No-Wagering Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BitStarz 300% up to 5 BTC + 180 Free Spins ⭐ 4.7/5...
+
+Muddy River Sports • 1d ago
+
+---
+
+**[History Says This Is What Will Happen With Bitcoin in 2027](https://www.fool.com/investing/2026/09/22/history-says-this-is-what-will-happen-with-bitcoin/)**
+
+The key to understanding Bitcoin is its four-year cycle, which occurs with stunning regularity.
+
+fool.com • 3h ago
+
+---
+
+**[Bitcoin (BTC) Retreats From Eight-Month High After Dizzying 13% Rally](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Dowagiac residents get reprieve from noisy bitcoin-mining data center](https://www.detroitnews.com/picture-gallery/news/michigan/2026/09/21/dowagiac-residents-couldnt-stand-noise-from-bitcoin-mining-data-center/91791837007/)**
+
+Dowagiac residents spent months complaining to City Council about a noisy data center in their city. That facility is retooling for a different use.
+
+The Detroit News • 21h ago
 
 ---
 
@@ -199,31 +223,7 @@ CME Group • 2d ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-slate.com • 1d ago
-
----
-
-**[Bitcoin just cracked its highest price since January. Why is BTC rising?](https://www.fastcompany.com/91610335/bitcoin-rising-today-why-btc-best-price-2026)**
-
-After a long-suffering 2026, cryptocurrency markets have turned positive in recent weeks. Will it last?
-
-Fast Company • 16h ago
-
----
-
-**[Current price of Bitcoin for September 18, 2026](https://fortune.com/article/price-of-bitcoin-09-18-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 3d ago
-
----
-
-**[Why Is Bitcoin Up Today?](https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-today-175131675.html)**
-
-Macro forces are lifting Bitcoin.
-
-Yahoo Finance • 12h ago
+Slate Magazine • 2d ago
 
 ---
 
@@ -233,7 +233,7 @@ Yahoo Finance • 12h ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 316 • 💬 274 • 4d ago
+⬆️ 316 • 💬 275 • 5d ago
 
 ---
 
@@ -285,7 +285,7 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 9h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 15h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
@@ -293,7 +293,7 @@ https://t.co/GktyWFbTdN
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 4d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
+⬆️ 1 • 💬 0 • 5d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -305,9 +305,37 @@ Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin 
 
 ---
 
+**[The viewers ditching streaming 'rot' in favour of DVDs](https://news.ycombinator.com/item?id=49781110)**
+
+A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
+
+⬆️ 15 • 💬 4 • 1d ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
+
+**[Bitcoin: The Bull Market Is Back (My Plan)](https://www.youtube.com/watch?v=YYDLS3naaGc)**
+
+Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
+
+📺 Aaron Bennett
+
+👁️ 5K • 👍 358 • 💬 63 • ⏱️ 9:25 • 5h ago
+
+---
+
+**[🚨 BTC &amp; ETH: THIS MAKES NO SENSE!!! HONEST DIVE!!!](https://www.youtube.com/watch?v=7LurmShXt5g)**
+
+Bitcoin has pumped to 87k! Here is what caused it and my market theory going forward! ---------- Join My FREE Trading Group ...
+
+📺 Thomas Kralow
+
+👁️ 2K • 👍 978 • 💬 28 • ⏱️ 12:07 • 2h ago
+
+---
 
 **[Bitcoin Hits $86K With Massive Short Squeeze](https://www.youtube.com/watch?v=qIO_v5qxWGw)**
 
@@ -315,17 +343,17 @@ Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨As
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 638 • 💬 88 • ⏱️ 9:16 • 6h ago
+👁️ 21K • 👍 751 • 💬 96 • ⏱️ 9:16 • 11h ago
 
 ---
 
-**[TOM LEE ON THE FACE RIPPING BITCOIN RALLY!](https://www.youtube.com/watch?v=APlYMrNsZ9I)**
+**[Crypto Is About to Go PARABOLIC… Here’s Why](https://www.youtube.com/watch?v=VBcDkbRZw7k)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Crypto is officially back in a bull market!? Explained in less than 12 minutes. ⭐ Follow Altcoin Daily on X: ...
 
-📺 My Financial Friend
+📺 Altcoin Daily
 
-👁️ 3K • 👍 189 • 💬 33 • ⏱️ 10:57 • 4h ago
+👁️ 78K • 👍 3K • 💬 169 • ⏱️ 12:07 • 13h ago
 
 ---
 
@@ -335,37 +363,27 @@ ProCap Financial Chairman and CEO Anthony Pompliano analyzes Silvia AI's capabil
 
 📺 Fox Business Clips
 
-👁️ 54K • 👍 392 • 💬 320 • ⏱️ 3:34 • 12h ago
+👁️ 64K • 👍 448 • 💬 352 • ⏱️ 3:34 • 17h ago
 
 ---
 
-**[A big problem with the current bitcoin and XRP price right now](https://www.youtube.com/watch?v=-a4EvYD2lac)**
+**[Will BITCOIN Hit $95,000 This Week?](https://www.youtube.com/watch?v=sLKorM6KErI)**
 
-There is a serious issue with the current Bitcoin price and XRP price that most people are completely overlooking right now.
+Join the Team Today: https://members.ffgrv.com/?utm_source=youtube&utm_medium=organic&utm_campaign=SEP-4 LEARN ...
 
-📺 The Economic Ninja
+📺 Future Forecasting Group
 
-👁️ 25K • 👍 778 • 💬 173 • ⏱️ 3:50 • 8h ago
-
----
-
-**[THIS IS WHY BITCOIN PUMPED...](https://www.youtube.com/watch?v=Z-Iz-oWmzy8)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 2K • 👍 260 • 💬 17 • ⏱️ 9:58 • 1h ago
+👁️ 6K • 👍 433 • 💬 20 • ⏱️ 3:16 • 14h ago
 
 ---
 
-**[BULLS IN CONTROL! BITCOIN HITS $87K, BIG XRP &amp; ETH PRICE PREDICTIONS! GOOGLE &amp; APPLE CRYPTO HIRES!](https://www.youtube.com/watch?v=c_GtMIbNKqM)**
+**[TOM LEE ON THE FACE RIPPING BITCOIN RALLY!](https://www.youtube.com/watch?v=APlYMrNsZ9I)**
 
-Crypto News: Bitcoin's rally continues with price hitting $87000 today. Trader Peter Brandt shares XRP and Ethereum price ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Thinking Crypto
+📺 My Financial Friend
 
-👁️ 4K • 👍 372 • 💬 57 • ⏱️ 21:46 • 3h ago
+👁️ 9K • 👍 295 • 💬 21 • ⏱️ 10:57 • 9h ago
 
 ---
 
@@ -375,37 +393,27 @@ Bitcoin is breaking higher despite rising rates, record real yields and tighter 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 97 • ⏱️ 17:56 • 8h ago
+👁️ 47K • 👍 2K • 💬 111 • ⏱️ 17:56 • 14h ago
 
 ---
 
-**[Bitcoin: BREAKOUT! (but here’s the WARNING no one sees coming)](https://www.youtube.com/watch?v=Hlot1KhrlMs)**
+**[Bitcoin on Blake2B Soft Fork (Happening Now)](https://www.youtube.com/watch?v=Pa2B1lW0Se8)**
 
-TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
+Get Access to the Bitcoin Forum: https://www.bitcoinuniversity.com/join Join the Bitcoin on Blake2B/Knots Discord here: ...
 
-📺 Jason Pizzino
+📺 Bitcoin University
 
-👁️ 11K • 👍 734 • 💬 104 • ⏱️ 30:43 • 5h ago
-
----
-
-**[&quot;It&#39;s Going PARABOLIC! Bitcoin &amp; Crypto About to SHOCK EVERYONE&quot; - Jordi Visser](https://www.youtube.com/watch?v=TCOgHDBU7Yo)**
-
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 188 • 💬 9 • ⏱️ 16:41 • 8h ago
+👁️ 12K • 👍 693 • 💬 227 • ⏱️ 16:44 • 15h ago
 
 ---
 
-**[Called $90K Bitcoin for October… We Just Hit $87K in 2 Weeks 📈](https://www.youtube.com/watch?v=c5QB_W5DjoE)**
+**[A big problem with the current bitcoin and XRP price right now](https://www.youtube.com/watch?v=-a4EvYD2lac)**
 
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA ...
+There is a serious issue with the current Bitcoin price and XRP price that most people are completely overlooking right now.
 
-📺 InvestAnswers
+📺 The Economic Ninja
 
-👁️ 46K • 👍 3K • 💬 92 • ⏱️ 22:14 • 9h ago
+👁️ 33K • 👍 903 • 💬 265 • ⏱️ 3:50 • 14h ago
 
 ---
 

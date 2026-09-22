@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-22T06:43:06.845567+00:00'
+updated: '2026-09-22T12:24:22.674388+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 22, 2026 at 06:43 UTC  
+**Last Updated:** September 22, 2026 at 12:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,54 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[My toxic trooper](https://www.reddit.com/r/robotics/comments/1wn0d8s/my_toxic_trooper/)**
+
+This is and old video of my droid trooper robot, he doesn't like to be bothered... The body is based over a MIP robot, which I hacked and reconverted into a "storm trooper"
+
+7h ago
+
+---
+
+**[I’m building a physical “video game” using real robots instead of simulated ones](https://www.reddit.com/r/robotics/comments/1wn30nv/im_building_a_physical_video_game_using_real/)**
+
+This started as a small experiment: could I build a “video game” where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It’s still very much a prototype and there are plenty of things that don’t work perfectly yet. I’ve mostly tested it myself and with my kids, so I’m curious what people here think about the concept. I’m especially interested in the robotics side — remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com
+
+4h ago
+
+---
+
+**[We built a 56cm Microduck. It’s not so micro anymore.](https://www.reddit.com/r/robotics/comments/1wn7m45/we_built_a_56cm_microduck_its_not_so_micro_anymore/)**
+
+We’ve been building a larger version of Microduck, and we’ve finally got it walking. We call it XDuck. XDuck is a bipedal robot standing about 56.8 cm tall and weighing 10.352 kg. Not so micro anymore. At this size, it’s starting to look a bit like Disney’s BDX droids. Right now, we’re working on policy-based locomotion. This video shows our first walking results. Next up is getting it to squat down and stand back up. The biggest issue at the moment is structural strength. Our current 3D-printed parts are struggling with the robot’s weight, so we’re looking into different materials and ways to redesign the load-bearing structure. If you’ve worked on similarly sized bipeds or embodied AI hardware, we’d love to compare notes. What materials or structural changes helped most with strength and reliability? We’re also still figuring out XDuck’s appearance, so ideas for the design are welcome.
+
+19m ago
+
+---
+
+**[Can anyone guide me on how to start with robotics](https://www.reddit.com/r/robotics/comments/1wn4jq5/can_anyone_guide_me_on_how_to_start_with_robotics/)**
+
+My goal is to build a humanoid robot. All the resources online are scattered. Someone is telling to learn kynamtics and maths first and someone is saying start with electric soldering. Can someone please tell me where I should start from
+
+3h ago
+
+---
+
+**[Hyundai Launches Training Facility for Boston Dynamics' Humanoid](https://www.reddit.com/r/robotics/comments/1wmfi6h/hyundai_launches_training_facility_for_boston/)**
+
+Boston Dynamics has opened a new facility in Savannah, Georgia focused on preparing Atlas humanoid robots for automotive manufacturing. The Robotics Metaplant Application Center is located inside Hyundai Motor Group Metaplant America and will be used to test and train Atlas on tasks including parts logistics, sequencing and placement. The idea is to train the robots in a factory-like environment without disrupting active production lines. More tasks are expected to be added as the systems improve. Boston Dynamics says Hyundai and Kia plants are expected to receive 25,000 Atlas robots over the next few years. The company is also planning a U.S. production facility with a target capacity of more than 30,000 robots per year by 2028.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/boston-dynamics-opens-georgia-facility-to-train-atlas-for-auto-factory-work) • 21h ago
+
+---
+
+**[Metalhead Dog building progress](https://www.reddit.com/r/robotics/comments/1wmv84i/metalhead_dog_building_progress/)**
+
+Im building this robot for about 7 years. Just sharing some progress. I 3D modeled all the parts and I hope to finish the project before the end of the year.
+
+🔗 [YouTube](https://youtube.com/shorts/PNJXKoKQEc8?is=09vv1kkaysWdJ1rg) • 11h ago
+
+---
+
 **[Servo Motor finger mechanism](https://www.reddit.com/r/robotics/comments/1wlw0sr/servo_motor_finger_mechanism/)**
 
 Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism
@@ -40,19 +88,11 @@ Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechan
 
 ---
 
-**[[Showcase] The drone flies a 3D building complex with no map, no GNSS, no compass and no lidar: two cameras do both the seeing and the localizing (ROS 2, PX4, Gazebo, CUDA)](https://www.reddit.com/r/robotics/comments/1wlsrqn/showcase_the_drone_flies_a_3d_building_complex/)**
+**[Does AskUI work on Linux? Trying to automate testing on our robot's Ubuntu operator UI](https://www.reddit.com/r/robotics/comments/1wmwuyv/does_askui_work_on_linux_trying_to_automate/)**
 
-(GIF: an industrial room 58 m short of the goal. Left is Gazebo, the drone among pipes and beams; right is RViz, where pink is the obstacle memory, the cyan fan is the current stereo depth return, orange is the committed route and the magenta sphere is the goal. In these nine seconds the speed law does its whole job: the drone crawls at 0.2 m/s where the pair resolves little, runs up to 2.5 m/s where it resolves far enough, and is back at 0.1 m/s before the next corner.) Flight video: https://www.youtube.com/watch?v=OUuAj2WNKzs Two weeks ago I posted the same location flown with a 3D lidar. The lidar is gone now, and so is GNSS and the magnetometer. The airframe carries a forward stereo pair (1280 x 960, 120 degrees, 0.20 m baseline, 7.5 Hz) and two 8 x 8 time-of-flight sensors looking up and down. That pair does both jobs: stereo depth becomes the obstacle memory the planner searches, and a stereo MSCKF on the same images is the position and heading PX4 flies on, in place of satellites and compass. So: a start, a goal, a multi-storey building with shafts and openings at different altitudes, and nothing but two cameras and an IMU. The location is the DARPA Subterranean Challenge "Urban Circuit Practice 01" world published by Open Robotics on Gazebo Fuel (CC BY 4.0). Numbers from the release, five consecutive flights on one commit with nothing changed between them: 410 to 629 m of path, 1.48 to 1.79 m/s mean speed with every hold and replan counted, no collisions. Five more on the same commit with the lidar instead, for comparison: 2.42 to 2.67 m/s. Cameras are slower because confident stereo depth reaches 6.4 m against the lidar's 35, and the drone only flies as fast as it can stop inside the range the sensor is guaranteed to have resolved. The check I am most pleased with is a new one. The mission monitor decides the drone arrived by asking the drone where it thinks it is, and an odometry drifts by metres, so it can arrive perfectly in its own coordinates while standing somewhere else. Every flight now fails unless the true position from the simulator is inside the 2.0 m capture radius at the moment the goal is acknowledged. Over the five camera flights the truth stood 0.47 to 1.42 m from the goal. What cost me the most flights was not the filter but the things around it: the autopilot resetting its clock synchronisation whenever the simulation ran below real time (about a second without navigation each time), the autopilot's gate on external odometry being tighter than the estimator's own corrections, and telling the filter the gyroscope was eighteen times noisier than it is, which let the noise of every visual update walk the one direction no camera can observe. Limitations, honestly: the drift has no bound (0.1 to 0.4 percent of the path), so a mission three times longer would miss the 2.0 m radius; it is one location and one start-goal pair; it is simulation only and not validated for a real aircraft; and the multi-vehicle missions have not been flown on cameras yet. MIT licensed. On a Linux host with Docker and an NVIDIA GPU, one script prepares a fresh clone (dev image, PX4 build, workspace, environment assets) and starts the flight: git clone https://github.com/formiat/px4-ros2-drone-nav.git cd px4-ros2-drone-nav ./scripts/bootstrap.sh https://github.com/formiat/px4-ros2-drone-nav Happy to answer anything, and I would like to hear from people who have flown a single camera pair as both the perception and the localization sensor: what broke first?
+We have an operator UI on Ubuntu, the screen techs use to calibrate and run the cell. every release someone clicks through the whole thing by hand before it goes near a customer site. Slow, and it's always the thing that gets squeezed. I've been reading the AskUI docs because writing tests as plain steps instead of scripts fits a team where the people who know the robot best aren't the ones who write code. Their runtime, AgentOS, lists Ubuntu 18.04 or newer. But the Desktop app you write tests in is Windows and macOS only, and the standalone AgentOS installer still says coming soon, so I can't tell how you're meant to get it onto the Ubuntu box today. Their remote computer setup seems to assume it's already there. The part that caught my eye is companion mode, where the runtime sits on a separate device like a Pi and drives the target over USB HID and HDMI capture. For a machine that's part of the robot, I'd honestly rather install nothing at all. Anyone running UI tests against a Linux operator UI, with this or anything else? What did you end up with?
 
-1d ago
-
----
-
-**[Watti update: the first follower-created animations running on the physical robot](https://www.reddit.com/r/robotics/comments/1wlsaih/watti_update_the_first_followercreated_animations/)**
-
-Another small Watti update. I ran a very early closed test of Watti Studio. A few followers created animations directly from their phones and computers, and I manually transferred them to the physical robot. This was only the first validation of the idea. For the next closed test, I plan to connect Watti Studio directly to Watti and automate the entire pipeline - animation submission, queueing, playback, recording, and video delivery. Which animation is your favorite? Would you be interested in joining the next closed test? If you’d like to learn more about Watti’s architecture and the hardware I’m using, the pre-release repository is available here: https://github.com/Nikolay-Tyulkin/Watti
-
-1d ago
+10h ago
 
 ---
 
@@ -60,7 +100,7 @@ Another small Watti update. I ran a very early closed test of Watti Studio. A fe
 
 Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!
 
-18h ago
+23h ago
 
 ---
 
@@ -68,47 +108,7 @@ Hi everyone, I'm building a robotic arm and I'm currently working on the gripper
 
 Before and after training
 
-18h ago
-
----
-
-**[Helical gear question](https://www.reddit.com/r/robotics/comments/1wm8ri6/helical_gear_question/)**
-
-How do I connect these Helical gears like this? It's being run by a RDS3115mg servo motor, and supposed to be a tilt up and down set up
-
-20h ago
-
----
-
-**[Help with regards to Installing ROS + MuJoCo on my Mac](https://www.reddit.com/r/robotics/comments/1wm3o51/help_with_regards_to_installing_ros_mujoco_on_my/)**
-
-For some projects I need to work with ROS 2 and simulate through MuJoCo. MuJoCo runs natively on Mac with full graphics performance. The simulation quality was insane when I tried messing around with real world robots like Spot from Boston Dynamics. But for some projects I need ROS to work with and I tried with my Parallels VM and the performance in terms of graphics was not that great because it used the CPU for rendering. I tried using Robostack and the performance of basic ROS itself hit a lot of problems. Any workarounds or possible solutions? PS: I don’t want answers like get a PC or something because that ain’t really viable option for me
-
-1d ago
-
----
-
-**[Same moving carriage for both Stepper motors](https://www.reddit.com/r/robotics/comments/1wm63tm/same_moving_carriage_for_both_stepper_motors/)**
-
-Rack-and-pinion for the Linear carriage. With another Stepper motor for Pan movement mounted on the same carriage. Let's test it.
-
 23h ago
-
----
-
-**[My first-ever Fusion 360 project is a pan-tilt camera](https://www.reddit.com/r/robotics/comments/1wlddf9/my_firstever_fusion_360_project_is_a_pantilt/)**
-
-Hey everyone! ​I recently finished school for automation while working as a scaffolder, and I decided to dive headfirst into learning CAD. This auto-tracking pan-tilt camera assembly is my very first design in Fusion 360! ​It took 6 revisions to get here, but V1.6 printed out with an amazingly snug press-fit—everything fits together smoothly with zero mechanical slop. Current Hardware & Next Steps: Right now, it runs on an ESP32-S3 Sense board for initial testing, but the rear compartment is sized with extra volume so I can upgrade to a Raspberry Pi for real-time edge-AI / YOLO object tracking down the road. Would love to hear your thoughts, feedback, or suggestions for improving future revisions!
-
-1d ago
-
----
-
-**[Building an optical sorter for potato harvest](https://www.reddit.com/r/robotics/comments/1wlgx3p/building_an_optical_sorter_for_potato_harvest/)**
-
-Hello all, I’m a farmer from the Netherlands and I am interested in robotics. I am starting to work on a project that I would like to get feedback on. During the potato harvest a lot of soil clods come in with the potatoes. At this moment, the only reliable way for me to remove them before the potatoes go into storage is with people standing alongside a conveyor belt picking them out. I would like to see if I can automate that process with a machine that I can build myself. Since tools like ChatGPT and Claude became available, I have developed a habit of thinking: “How hard can it be? I’ll just build it myself.”. This approach has the danger of discovering halfway through a project that there is an entire layer of complexity that I didn’t even know existed. So, before I start buying cameras, pneumatic components and machines, I would like a reality check from people who know more about robotics than I do. Current solutions There are commercial optical sorting machines that can already do what I need. For example: Flikweert Divider Select https://flikweertvision.com/nl/machines/divider-select/ Downs Cropvision https://www.downs-fr.com/produits/downs-cropvision/ For my operation these machines are currently too expensive to financially justify. And I also think I only need a fraction of what these machines can do. There is also a much simpler machine for separating clods from potatoes This type of machine uses a steel roller. Potatoes and clods rebound from the roller with different trajectories because of their different physical properties. An adjustable divider then separates the two streams. Traditional clod separator https://www.youtube.com/watch?v=d_j7X2TJx3M This sounds like the solution to my problem, but I want to remove the clods directly during harvest, before the potatoes go into storage. At that point our clay clods can still be wet and soft. They do not behave sufficiently differently from a potato when they hit the steel roller, so the mechanical separation becomes much less reliable. The project The practical target would be to process 20–30 tons/hour over a 1-meter-wide belt. Potatoes and clods are generally up to around 70 mm. The system does not need to be perfect. Missing some clods is acceptable, and occasionally rejecting a potato together with a clod is also acceptable. I have divided the project into 3 parts: Mechanical hardware, vision/ejector hardware and software. I’m most comfortable with the mechanical part of the project. The frame, conveyors, motors, mounting brackets, compressed air, etc., I can fabricate and modify this kind of equipment myself. Instead of building the whole mechanical machine from scratch, I’m considering buying one of those traditional clod separators and using it as the mechanical base (see picture 1 and 2). The machine that I would like to use as a basis has an input conveyor belt that is 1-meter-wide and already has the two discharge paths I need. https://preview.redd.it/arpbeh76doqh1.jpg?width=300&format=pjpg&auto=webp&s=ec5facf2e86f447b6d739ba14e991870e438fcda Picture 1: Traditional clod separator https://preview.redd.it/j8h5nj76doqh1.jpg?width=301&format=pjpg&auto=webp&s=cb1e522703c2308bb275ffd781d39036e62039be Picture 2: Traditional clod separator My idea would be to remove the steel roller and replace it with a row of individually controlled pneumatic ejector fingers (see picture 3). Above the 1-meter input conveyor would install a camera with controlled lighting (see picture 4). https://preview.redd.it/kcc84h76doqh1.jpg?width=410&format=pjpg&auto=webp&s=d35e1872bcdcaaff61362c6c979f3757d2607cbc Picture 3: Pneumatic fingers https://preview.redd.it/tesjzf76doqh1.png?width=372&format=png&auto=webp&s=70e37da4a2e0a2941fcd255a93713410d3fa70da Picture 4: Cameras and controlled lighting The vision system needs to distinguish between a potato and a clod, determine its position on the belt, and eventually trigger the correct pneumatic finger when the clod reaches the end of the conveyor. Picture 5 shows roughly the view a camera would have of the conveyor belt with potatoes and clods. https://preview.redd.it/ztlx5h76doqh1.png?width=605&format=png&auto=webp&s=f8bc97d1485c329b4df4bd5d029a1efe13d7caad Picture 5: Conveyor belt with potatoes and clods When it comes to vision and ejector hardware I am thinking of using 1 or 2 global-shutter cameras mounted on top of the 1-meter feed conveyor in an enclosed environment with LED lighting and 20 pneumatic ejector fingers across the width of the conveyor belt. My questions would be: Are 1 or 2 global-shutter cameras a realistic starting point for this kind of application? What kind of cameras would you suggest? Would you build this from standard pneumatic cylinders and valves, or are there existing modules/components that would make much more sense for my situation? When it comes to the software, I’m not a professional programmer so I would need to rely as much as possible on existing camera SDKs, vision frameworks and libraries rather than inventing everything from scratch. Conceptually I imagine the system as: Camera → detect potato/clod → determine position → track conveyor movement → select ejector finger(s) → fire at exactly the right moment. First a vision computer decides what needs to be rejected and where it is. Second, an encoder tracks how far the conveyor has moved. Lastly a PLC/Real-time controller handles the timing of the pneumatic valves. My questions would be: Is this realistically something I can build myself without professional programming experience, or am I underestimating how much expertise this requires? Does my concept make sense, or am I underestimating the integration and timing problem of the vision computer, encoder and PLC controller? How hard can this be? I understand very well that this is not a simple project and that is the reason why I’m posting here first. I would like to get your feedback and insights on my ideas and project. Thank you!
-
-1d ago
 
 ---
 
@@ -116,23 +116,37 @@ Hello all, I’m a farmer from the Netherlands and I am interested in robotics. 
 
 ## Google News: "robotics"
 
-**[Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks](https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/)**
-
-Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)
-
-Boston Dynamics • 16h ago
-
----
-
-**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
+**[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
 
 Reuters • 1d ago
 
 ---
 
+**[Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks](https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/)**
+
+Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)
+
+Boston Dynamics • 21h ago
+
+---
+
 **[Faraday Future Launches 5 New Robots: $9,990 To $137,900 For An Industrial Humanoid](https://www.forbes.com/sites/johnkoetsier/2026/09/21/faraday-future-launches-5-new-robots-9990-to-137900-for-an-industrial-humanoid/)**
 
-Forbes • 14h ago
+Forbes • 19h ago
+
+---
+
+**[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
+
+Forbes • 24m ago
+
+---
+
+**[Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics](https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/)**
+
+The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs.
+
+CNET • 10h ago
 
 ---
 
@@ -144,49 +158,33 @@ BBC • 1d ago
 
 ---
 
+**[Move Over, Tesla: This Robotics Stock Already Has Paying Customers](https://finance.yahoo.com/markets/stocks/articles/move-over-tesla-robotics-stock-120900012.html)**
+
+Symbotic is a robotics pure play, already in the commercialization stage.
+
+Yahoo Finance • 15m ago
+
+---
+
 **[Japan plans AI robot contest on International Space Station](https://asia.nikkei.com/business/technology/artificial-intelligence/japan-plans-ai-robot-contest-on-international-space-station)**
 
 Growing space robotics market calls for fostering more Japanese engineers
 
-Nikkei Asia • 10h ago
+Nikkei Asia • 16h ago
 
 ---
 
-**[China leads in industrial robotics, but US has edge in AI intelligence: Gecko Robotics CEO](https://www.cnbc.com/video/2026/09/22/china-leads-in-industrial-robotics-but-us-has-edge-in-ai-intelligence.html)**
+**[Were the Serbian military’s new robot dogs built using Chinese technology?](https://www.scmp.com/news/china/military/article/3368390/were-serbian-militarys-new-robot-dogs-built-using-chinese-technology)**
 
-Gecko Robotics CEO Jake Loosararian explains why China leads in industrial robot deployment and manufacturing, while the U.S. has an advantage in the intelligence that powers robotics. He also talks about how specialized robots and AI can improve predictive maintenance for critical infrastructure, including naval assets.
-
-cnbc.com • 2h ago
+South China Morning Post • 2h ago
 
 ---
 
-**[China's new calling cards: AI, robots and new drugs](https://www.chinadaily.com.cn/a/202609/21/WS6ab09a1ee4b06d4aa055f36c.html)**
+**[A 12-year-old in California built a Braille printer from a $350 Lego robotics kit for a school science fair, at a time when the cheapest commercial machine cost about $2,000, and Intel invested in it](https://scienceblog.com/j-braigo-lego-braille-intel/)**
 
-China Daily • 1d ago
+When a middle schooler cracked an accessibility problem that the technology industry had left unsolved for decades, major investors took notice.
 
----
-
-**[2026 WMC: Intelligent robots, drones power more real-world scenarios](https://news.cgtn.com/news/2026-09-21/2026-WMC-Intelligent-robots-drones-power-more-real-world-scenarios-1QCd7sfmbte/p.html)**
-
-A range of intelligent equipment designed for high-risk industry applications demonstrated at the 2026 World Manufacturing Convention, showcasing how advanced robotics and artificial intelligence (AI) are reshaping industrial safety and efficiency.
-
-news.cgtn.com • 1d ago
-
----
-
-**[Plug and Play Seattle picks 11 startups for 4th cohort, from space robotics to biotech](https://www.geekwire.com/2026/plug-and-play-seattle-picks-11-startups-for-4th-cohort-from-space-robotics-to-biotech/)**
-
-Ten of the participating startups are based in Seattle, joined by Tokyo-based wireless power developer Aeterlink, which is participating in an exploratory international track to support its expansion into the U.S. and Pacific Northwest.
-
-GeekWire • 16h ago
-
----
-
-**[How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity](https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/)**
-
-Behind the scenes, advanced equipment control and robotics are enabling higher levels of repeatability, tool uptime, and yield.
-
-semiengineering.com • 23h ago
+Science Blog • 2h ago
 
 ---
 
@@ -194,13 +192,13 @@ semiengineering.com • 23h ago
 
 ## YouTube Videos: "robotics"
 
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
 
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
 
-📺 MindSeeded
+📺 South China Morning Post
 
-👁️ 908K • 👍 14K • 💬 2K • ⏱️ 16:24 • 4d ago
+👁️ 123K • 👍 1K • 💬 198 • ⏱️ 2:40 • 1d ago
 
 ---
 
@@ -210,27 +208,27 @@ China's T800 is now fighting worldwide against both robots and humans. EngineAI 
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 75 • 💬 11 • ⏱️ 1:16 • 10h ago
+👁️ 7K • 👍 115 • 💬 18 • ⏱️ 1:16 • 16h ago
 
 ---
 
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-📺 South China Morning Post
+📺 MindSeeded
 
-👁️ 112K • 👍 1K • 💬 186 • ⏱️ 2:40 • 1d ago
+👁️ 925K • 👍 14K • 💬 2K • ⏱️ 16:24 • 4d ago
 
 ---
 
-**[Internet BREAKS w/ The World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=Rl7S9lJp1Zw)**
+**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
 
-Scale your business with YouTube https://dcsocialmedia.co.uk Join my free community - https://www.skool.com/davidcarbutt I've ...
+China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
 
-📺 David Carbutt 
+📺 NextGen Humanoids
 
-👁️ 47K • 👍 661 • 💬 260 • ⏱️ 11:15 • 4d ago
+👁️ 46K • 👍 332 • 💬 80 • ⏱️ 11:33 • 6d ago
 
 ---
 
@@ -244,13 +242,33 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 ---
 
-**[America&#39;s New Humanoid Robot Is Shocking the Entire World](https://www.youtube.com/watch?v=p1YFDGdTzq0)**
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
 
-America's New Humanoid Robot Is Shocking the Entire World Right now, inside factories and homes across America, machines ...
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
 
-📺 The Ultimate Discovery
+📺 ejunky66
 
-👁️ 9K • 👍 76 • 💬 16 • ⏱️ 26:38 • 5d ago
+👁️ 656K • 👍 7K • 💬 858 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[Internet BREAKS w/ The World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=Rl7S9lJp1Zw)**
+
+Scale your business with YouTube https://dcsocialmedia.co.uk Join my free community - https://www.skool.com/davidcarbutt I've ...
+
+📺 David Carbutt 
+
+👁️ 48K • 👍 669 • 💬 264 • ⏱️ 11:15 • 4d ago
+
+---
+
+**[Elon Musk’s BILLION Humanoid Robot Future — Curse or Blessing?](https://www.youtube.com/watch?v=Zk6yK6bFaEk)**
+
+Elon Musk believes the future could have BILLIONS of humanoid robots — but how close are we really? Tesla's Optimus is being ...
+
+📺 ejunky66
+
+👁️ 296 • 👍 5 • 💬 1 • ⏱️ 1:00 • 50m ago
 
 ---
 
@@ -260,37 +278,17 @@ These New American Construction Robots Will Leave You Speechless Every year, the
 
 📺 Future Core
 
-👁️ 186K • 👍 734 • 💬 43 • ⏱️ 9:07 • 6d ago
+👁️ 187K • 👍 736 • 💬 43 • ⏱️ 9:07 • 6d ago
 
 ---
 
-**[FIRST ROBOT TO GET A GOLDEN BUZZER?! Unitree’s INSANE Robot Dogs Stunned Sofia | AGT 2026 [4K]](https://www.youtube.com/watch?v=MbpAUGA2YHY)**
+**[Agility Unveils Humanoid Built to Work With People](https://www.youtube.com/watch?v=BTHNhLoH64I)**
 
-Unitree brought the future to the AGT 2026 stage with a groundbreaking performance combining robotic dogs, human dancers, ...
+Agility Robotics unveiled Digit 5, a new humanoid designed to safely work alongside people without the physical barriers required ...
 
-📺 Talent Replay
+📺 Bloomberg Tech
 
-👁️ 70K • 👍 273 • 💬 56 • ⏱️ 4:51 • 6d ago
-
----
-
-**[Expert Warns: China’s Terminator AI Robot Is Ready for the World](https://www.youtube.com/watch?v=RpQjPnLz2NM)**
-
-China's humanoid robot race is accelerating, and EngineAI's T800 is becoming one of the most powerful AI robots to watch.
-
-📺 NextGen Humanoids
-
-👁️ 46K • 👍 327 • 💬 80 • ⏱️ 11:33 • 6d ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 324K • 👍 10K • 💬 876 • ⏱️ 55:24 • 2d ago
+👁️ 74K • 👍 295 • 💬 51 • ⏱️ 9:44 • 6d ago
 
 ---
 
