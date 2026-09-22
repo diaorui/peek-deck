@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-22T17:10:13.908855+00:00'
+updated: '2026-09-22T20:23:28.774399+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 17:10 UTC  
+**Last Updated:** September 22, 2026 at 20:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,214.91
+### $86,365.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +13.4%  
-**30d:** +9.4%  
-**90d:** +44.8%  
-**1y:** -22.8%  
+**24h:** -0.4%  
+**7d:** +13.2%  
+**30d:** +9.2%  
+**90d:** +44.5%  
+**1y:** -22.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1738.40B
+**Market Cap:** $1732.35B
 Rank #1
 
-**Circulating Supply:** 20,087,962 BTC
+**Circulating Supply:** 20,087,984 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.4%
+-31.6%
 
 **All-Time Low:** $67.81
-+127488.9%
++127067.1%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -153,73 +153,77 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5)**
+**['Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day](https://finance.yahoo.com/markets/article/crypto-winter-is-over-analyst-says-as-bitcoin-tops-86000-chart-of-the-day-124006079.html)**
 
-marketwatch.com • 6h ago
+Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices.
 
----
-
-**[Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html)**
-
-Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
-
-CNBC • 1d ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Trader bets $3M on Bitcoin hitting $95K by October](https://finance.yahoo.com/video/trader-bets-3m-bitcoin-hitting-160957184.html)**
+**[Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight](https://finance.yahoo.com/markets/crypto/articles/coinbase-rolls-fixed-rate-bitcoin-183614606.html)**
 
-A single trader placed a $3.17 million options bet that bitcoin will reach $95,000 by the end of October, using a strategy that pays off most if BTC lands right at that level. CoinDesk's Uyen Truong hosts "CoinDesk Daily."
+Coinbase launches fixed-rate, bitcoin-backed USDC loans powered by Morpho Midnight on Base.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin and Crypto Stocks Have Been on a Tear. Here’s Why.](https://www.barrons.com/articles/bitcoin-crypto-stocks-clarity-act-a3749320)**
+**[White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'](https://finance.yahoo.com/markets/crypto/articles/white-hat-hackers-route-coldcard-193103387.html)**
 
-Barron's • 1h ago
+Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a "Crypto Recovery Trust," though the funds represent just 2.8% of the total haul.
+
+Yahoo Finance • 52m ago
 
 ---
 
-**[GPUS Stock Slips After Hyperscale Data Carves Out Bitcoin Mining Business Into New Unit](https://finance.yahoo.com/markets/stocks/articles/gpus-stock-slips-hyperscale-data-160228955.html)**
+**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
 
-Hyperscale Data management said Bitcoin mining and AI infrastructure require different capital strategies and priorities.
+The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
 
-Yahoo Finance • 1h ago
+Fox Business • 8h ago
 
 ---
 
 **[Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow)**
 
-Bloomberg.com • 3h ago
+bloomberg.com • 6h ago
 
 ---
 
-**[Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF](https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html)**
+**[Current price of Bitcoin for Sept. 22, 2026](https://fortune.com/article/price-of-bitcoin-09-22-2026/)**
 
-Ark is quietly reshuffling risk across high-growth assets
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Yahoo Finance • 22h ago
-
----
-
-**[Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever](https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever)**
-
-Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.
-
-CoinDesk • 9h ago
+Fortune • 7h ago
 
 ---
 
-**[Bitcoin surges to 8-month high above $85,000](https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126)**
+**[Feds Probing Binance Over Iran’s Bitcoin Use: Report](https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance)**
 
-The cryptocurrency added nearly 5% on Monday, building on last week's gains despite a Fed rate hike and the failure of key crypto legislation
+Feds are trying to work out whether Binance violated US sanctions on Iran.
 
-qz.com • 1d ago
+Bitcoin Magazine • 3h ago
+
+---
+
+**[Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties](https://www.miamiherald.com/news/nation-world/article317287979.html)**
+
+Jeffrey Epstein aligned with MIT and the man who cut the ribbon for Trump’s gold statue in Doral in his quest to champion cryptocurrencies.
+
+Miami Herald • 10h ago
+
+---
+
+**[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
+
+The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
+
+slate.com • 2d ago
 
 ---
 
@@ -229,7 +233,7 @@ qz.com • 1d ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 316 • 💬 275 • 5d ago
+⬆️ 318 • 💬 275 • 5d ago
 
 ---
 
@@ -251,7 +255,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 58m ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 4h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -287,7 +291,7 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 20h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 23h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
@@ -311,43 +315,33 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN SOARS: $86,000 sparks a warning about leverage](https://www.youtube.com/watch?v=PbMQ4rGDrwQ)**
+**[Calamos Investments CEO: AI and Bitcoin are here to stay](https://www.youtube.com/watch?v=3in1Nmqo7e4)**
 
-The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon ...
+John Koudounis, CEO of Calamos Investments, discusses AI investing, oil, Fed policy and Bitcoin, saying diversified portfolios can ...
 
-📺 Fox Business Clips
+📺 CNBC Television
 
-👁️ 7K • 👍 118 • 💬 62 • ⏱️ 7:21 • 5h ago
-
----
-
-**[Why Bitcoin Just EXPLODED](https://www.youtube.com/watch?v=ZxLh5Uiz-kk)**
-
-Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
-
-📺 Coin Bureau
-
-👁️ 22K • 👍 1K • 💬 41 • ⏱️ 11:48 • 4h ago
+👁️ 4K • 👍 39 • 💬 17 • ⏱️ 5:31 • 4h ago
 
 ---
 
-**[Will BITCOIN Hit $95,000 This Week?](https://www.youtube.com/watch?v=sLKorM6KErI)**
+**[Wall Street is going To FORCE Bitcoin To EXPLODE Past $100k FASTER Than You Think!! | EP 1597](https://www.youtube.com/watch?v=6Wc_NDsR77w)**
 
-Join the Team Today: https://members.ffgrv.com/?utm_source=youtube&utm_medium=organic&utm_campaign=SEP-21 ...
+The claims of bitcoin's rally being a dead cat bounce are not supported by the data - the move to $86k is backed by ETF inflows ...
 
-📺 Future Forecasting Group
+📺 Simply Bitcoin
 
-👁️ 7K • 👍 461 • 💬 21 • ⏱️ 3:16 • 19h ago
+👁️ 6K • 👍 321 • 💬 25 • ⏱️ 59:41 • 2h ago
 
 ---
 
-**[Bitcoin: The Bull Market Is Back (My Plan)](https://www.youtube.com/watch?v=YYDLS3naaGc)**
+**[🚨 BITCOIN: DUMP INCOMING !!!!! (THEN MASSIVE PUMP)](https://www.youtube.com/watch?v=0ysjMcSoJZo)**
 
-Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
+SCALED ORDERS ON BYBIT: https://cryptokid.io/BYBIT WEEX: https://cryptokid.io/WEEX-Bonus POSITION AIRDROP ...
 
-📺 Aaron Bennett
+📺 Crypto Kid
 
-👁️ 16K • 👍 541 • 💬 89 • ⏱️ 9:25 • 9h ago
+👁️ 2K • 👍 188 • 💬 12 • ⏱️ 12:48 • 2h ago
 
 ---
 
@@ -357,17 +351,7 @@ Bitcoin has pumped to 87k! Here is what caused it and my market theory going for
 
 📺 Thomas Kralow
 
-👁️ 9K • 👍 989 • 💬 36 • ⏱️ 12:07 • 7h ago
-
----
-
-**[TOM LEE ON THE FACE RIPPING BITCOIN RALLY!](https://www.youtube.com/watch?v=APlYMrNsZ9I)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 11K • 👍 350 • 💬 23 • ⏱️ 10:57 • 14h ago
+👁️ 13K • 👍 1K • 💬 43 • ⏱️ 12:07 • 10h ago
 
 ---
 
@@ -377,17 +361,47 @@ Bitcoin surged 13% in just five days despite a failed crypto bill and a Fed rate
 
 📺 Ross Givens
 
-👁️ 1K • 👍 56 • 💬 7 • ⏱️ 2:08 • 44m ago
+👁️ 3K • 👍 165 • 💬 16 • ⏱️ 2:08 • 3h ago
 
 ---
 
-**[Bitcoin Hits $86K With Massive Short Squeeze](https://www.youtube.com/watch?v=qIO_v5qxWGw)**
+**[Bitcoin: The Bull Market Is Back (My Plan)](https://www.youtube.com/watch?v=YYDLS3naaGc)**
 
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
 
-📺 CryptosRUs
+📺 Aaron Bennett
 
-👁️ 24K • 👍 784 • 💬 102 • ⏱️ 9:16 • 16h ago
+👁️ 20K • 👍 575 • 💬 91 • ⏱️ 9:25 • 13h ago
+
+---
+
+**[Why Bitcoin Just EXPLODED](https://www.youtube.com/watch?v=ZxLh5Uiz-kk)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 57K • 👍 1K • 💬 68 • ⏱️ 11:48 • 7h ago
+
+---
+
+**[BITCOIN SOARS: $86,000 sparks a warning about leverage](https://www.youtube.com/watch?v=PbMQ4rGDrwQ)**
+
+The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon ...
+
+📺 Fox Business Clips
+
+👁️ 16K • 👍 157 • 💬 85 • ⏱️ 7:21 • 8h ago
+
+---
+
+**[Bitcoin Doesn’t Need The Money Printer Anymore. Why This Changes Everything!](https://www.youtube.com/watch?v=JqXOjD03Sfc)**
+
+Bitcoin is breaking higher despite rising rates, record real yields and tighter monetary conditions. Is the old Bitcoin liquidity cycle ...
+
+📺 Simply Bitcoin
+
+👁️ 55K • 👍 2K • 💬 141 • ⏱️ 17:56 • 22h ago
 
 ---
 
@@ -397,17 +411,7 @@ Bitcoin just broke through some of the most important levels of this cycle, and 
 
 📺 Crypto Banter
 
-👁️ 13K • 👍 1K • 💬 38 • ⏱️ 34:11 • 3h ago
-
----
-
-**[BITCOIN ERUPTS: Expert says it can go way higher in coming years](https://www.youtube.com/watch?v=2SY0-Cn-EYo)**
-
-ProCap Financial Chairman and CEO Anthony Pompliano analyzes Silvia AI's capabilities and the Bitcoin rally despite the the ...
-
-📺 Fox Business Clips
-
-👁️ 72K • 👍 480 • 💬 372 • ⏱️ 3:34 • 22h ago
+👁️ 36K • 👍 2K • 💬 53 • ⏱️ 34:11 • 6h ago
 
 ---
 
