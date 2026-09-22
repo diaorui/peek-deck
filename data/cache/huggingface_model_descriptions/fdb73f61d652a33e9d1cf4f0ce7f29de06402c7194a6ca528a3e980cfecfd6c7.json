@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-22T06:43:06.109737+00:00",
+  "data": "Qwen-Image 2.1 is a diffusion model repackaged for ComfyUI, enabling text-to-image generation and image editing. It leverages Qwen3VL text encoders and a VAE for high-quality visual synthesis.",
+  "model_id": "Comfy-Org/Qwen-Image-2.1"
+}

@@ -15,66 +15,6 @@
       "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
     },
     {
-      "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5",
-      "pub_date": 1790022101.0,
-      "article_url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108357924-1788371101960-gettyimages-2292626724-g20_6273.jpeg?v=1790021169&w=1920&h=1080",
-      "description": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety."
-    },
-    {
-      "headline": "UN panel calls for guardrails on AI as current safeguards are \u2018unraveling\u2019",
-      "source": "thehill.com",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWN2TWVXOEtZMnJSZmY0MmhOc1ZwVWNWNTRQOHg2eGRpYTg0LTZNdkVvU1duVjZabnF2VE1tQWFtdDhyMDBDUXhtQ1YwZ2RwaGRQVW42bnBpNTRVajR1V0JINHE2dlFvWkRkMENPNk12TG1TQkZIUW8ycFFvSGZGRdIBhgFBVV95cUxON1NEOGFMQldfV2tuSG5RSVRsdFdoOXBlc1phTndtNlZfczZlU0ptdmNDdGV1Y0dFTVV1MU5IVXVwNlM5SlV3Qzd2dEhFdk9oZ1MxN0hlZlhPSHpOOTNPVm5KRTNfVFlsSlN6eGp5ZHRLb2xmLXo0aVNOSGQ3UDFnaGhTWkNmdw?oc=5",
-      "pub_date": 1790035680.0,
-      "article_url": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The A.I. Party House Where Networking Has a Dark Side",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UVVh3cG10S1Q4enl4MDFMZmgxTkYzdUtqWnZfeVZzS0hLcFRXVmt5cFd0Ym1mZmZHUURyell1bEUzOS1oYjlQWUZ4bmFWaHpQU0V3NHZfX1VRUTVqQmUzTEk5NXE4VFlhbG5NNjBLZzZGUWpoWG9MYUhkMA?oc=5",
-      "pub_date": 1789981447.0,
-      "article_url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Scott Bessent meets with Chinese official on AI safety",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXNFSVJWM0NBUExUYTdybGFhQnl1NEdIV0xkcXlVb2EyUkt3bEh2WHg5QWZVbUJ1T2NhUzR1OGVZcHloTVBvblpUUUpCTTNfWTVnUnd4OXFCemNFNk5VLVBqUGRYY211cVJNeHVoU2hvQnpVMnNKSUxEaWZiWDB3ZjQwRnRUdnNyb2d4TmRIQzExeVlhRDBYdnRLWWhjQQ?oc=5",
-      "pub_date": 1790040202.0,
-      "article_url": "https://www.nbcnews.com/video/scott-bessent-meets-with-chinese-official-on-ai-safety-270262853834",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790039942555_now_staytuned_bessent_china_ai_safety_260921_S3_1920x1080-ok9mcq.jpg",
-      "description": "Treasury Secretary Scott Bessent says that the U.S. is proposing a new AI safety notification mechanism for President Trump and Chinese leader Xi Jinping to consider at their upcoming Washington summit. NBC News' Allie Canal reports on the ongoing U.S.-China discussions regarding AI safety."
-    },
-    {
-      "headline": "Watch Low Expectations for US-China AI Talks",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTJ4RTRXdTlRUHZwdlFlODRLV1JDU3RSb0IxNmhnd1pKalJGREMxdlFQcV83WVpQRHlDeThlZUVybE5QdVVrVW9wOHZnMmxLUl9yZm5odnhaQTRNeFlPQTJYcHV4OG1KaU1FbVRzbjhpSEFBaDk0RFJhQktmY3I2dWNUWS0ycThieWZLbUFWUk9DNG9kekd2Zg?oc=5",
-      "pub_date": 1790037699.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2026-09-22/low-expectations-for-us-china-ai-talks-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI \u2018Actress\u2019 Tilly Norwood Glitches on Live TV in Surreal Nightmare",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVVnZFU5eEdrZEV1MmdUc2dldzctMWxEUmg0X2Y5OTFKZ3ctRDZTLUt2S0NmR3pXVk9lMExoMGpTQWhDdTRqeWNtS1QzUlhoM1hTLTRlbTU2WHVMeXVyaF9BbHBKaW55TTRzZmxpTUJsZkViVlJpQjJpX1JlN0J6OWZTQmVLclJMLXMwTkUtMTM5RFhGa3lJb1puV294UXdvcFZqTHJrQ1hZdDYyNGdjZUZB?oc=5",
-      "pub_date": 1790036531.0,
-      "article_url": "https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Piers-Morgan-Tilly-Norwood-Tim-Conti.jpg",
-      "description": "The AI-generated star spoke Cantonese, plotted \"treasons\" and baffled news anchors."
-    },
-    {
       "headline": "Meta stock soars 11% on price target increase, Muse AI downloads",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -83,6 +23,36 @@
       "article_url": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html",
       "image": "https://s.yimg.com/lo/mysterio/api/9e7bde4205b0256c9234fc9b87dec7b3f428bc935c41db69cbb8bc31b7731679/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F57c44a5c-9024-473d-b81f-eb4cfa420cc7",
       "description": "Meta rocketed higher Monday, closing out the trading day up more than 11%."
+    },
+    {
+      "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
+      "pub_date": 1789492028.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
+      "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
+    },
+    {
+      "headline": "How the AI data center boom echoes American history",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QY3lhOGNxYzZ1RDdVZXd1SlFfVzV4b2xaakZsbjNRczIzNHZrWHJHVlVDN2lZUlZRMXctWHpheWtLbjdXZFJUZXIyUXBtUjJpX0RIVzJuSQ?oc=5",
+      "pub_date": 1790054765.0,
+      "article_url": "https://qz.com/ai-land-rush-american-history",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2264216703-300x200.jpg",
+      "description": "The AI power pledge was signed in a room named for broken promises. Is the Ratepayer Protection Pledge as good as a broken treaty?"
+    },
+    {
+      "headline": "Wall Street Is Growing Skeptical of the Data Center Boom",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vVjhPS25fUHJuTXZPSWJ1d09tMDlRZEI1SXppRkFjeHRrV3JXWWREUEx3cXZSSVliVG9qVmRDaUNiSlFfemVVd21zcmJ0ZHo4STNYNFVIRmtsR1RQcjNMVlpCbl9UV2dzcUFpMmR5ejc0SjhGQWlF?oc=5",
+      "pub_date": 1790015214.0,
+      "article_url": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'",
@@ -95,16 +65,46 @@
       "description": "Nvidia CEO Jensen Huang called AI doomsday predictions \"irresponsible\" and not grounded in science, urging existing laws over new AI regulation."
     },
     {
-      "headline": "Capitol agenda: Nvidia\u2019s clout tested as AI debate shifts",
+      "headline": "\u2018They must be doing it for ulterior reasons\u2019: Jensen Huang says AI leaders are \u2018irresponsible\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakNFUVoyY1ZPYTFzbkVGd0w2NjVSTEtpcEdaU0tEclJydlItMUVzNFpab1pVUUI0ZkRHTjVYYWhta0cxbTJDNWNOMEs5ajlEY09GM3BtcGpWYVRqQzY2RXhWS3E4d3Q2a015UXptV3o1VDJRRXEwTXJTSTR2eXhXVw?oc=5",
+      "pub_date": 1790017080.0,
+      "article_url": "https://fortune.com/2026/09/21/jensen-huang-ai-leaders-doomsday-narratives/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2285710540-e1790015026760.jpg?resize=1200,600",
+      "description": "The Nvidia CEO says \u201cthere is a 0% chance\u201d of AI doomsday\u2014and the AI pioneers may have their own motives for pushing AI slowdown."
+    },
+    {
+      "headline": "Nvidia boss says there is \u20180% chance\u2019 AI destroys the world by 2030 | AI (artificial intelligence)",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR29qZDY0OGh1R2hYREF3UHBXR0xjUTFCaU5MWUxzZGNKX1NBeHVrQTVseURCRUlBX3d4RXFEZklnUVNFX3hsdVNMd0FKcDI4S2dOc3plZXdlSHZqbWdQLXk2Q1dKSE9TRUEwVmVjYXozenFVUU5SVVc3cThEVmZ6WVlnVG5VOWVtV3BiMnVqdGpWajhxTU9iMGxZTGtyNC1sQThfcUNkMGhSVGNvVGNaazBmRExMRXU5TVFHTkpOTQ?oc=5",
+      "pub_date": 1789974720.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "image": "https://i.guim.co.uk/img/media/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/master/4968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e9d797ea0dba3e3f9ec5f2d57e0accb",
+      "description": "Jensen Huang dismisses warnings from former Anthropic researcher and others as \u2018doomsday narratives\u2019"
+    },
+    {
+      "headline": "Introducing Grok 4.7",
+      "source": "xAI",
+      "source_url": "https://x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+      "pub_date": 1790005689.0,
+      "article_url": "https://x.ai/news/grok-4-7",
+      "image": "https://x.ai/images/news/grok-4-7-og.webp",
+      "description": "SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models."
+    },
+    {
+      "headline": "AI-powered online scams targeted in bipartisan bill",
       "source": "Politico",
       "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2tPQ2RIbjFKMkFBSEhISXY3SkJ0SGZMbkVubW5BOGt1N01FUUdxZFYwanBzcDJid2VpQ1hYdjZnXzFZalRTMGVCd21xOWdWR0Q0R01vaTM4YmpJOUh0a0dEd0tSOXdqY3I0STFyUDhzZGpxUmV1SEpPdlhERDhEcXpvSVN3RWNpems2YVZR?oc=5",
-      "pub_date": 1789981200.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX19pQ19XV21YVTdxNlJ2SThGYzlQWkV5OHVLSS1IQmQtRFRnT2dzdzJBak1DQVY5YVhnVHlYODViMGx3ckNZQnJ4TDRzaXR3T3VQM1NxdVhCWkcwLVoyTVVBZzIxNUw1b3MtV0Zlc01ELVpYeGpzV2VyeXNIcV9fblpxMTJKVEtFclZ0OUJiS1BDOWxuVFFaUF9oRGNoOFI2MkpxbkpOdDVXbWN0c1lzc0kwcjgxOWVnbWc?oc=5",
+      "pub_date": 1790003766.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/ai-powered-online-scams-targeted-in-bipartisan-bill-01086095",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T01:28:13.079497+00:00"
+  "fetched_at": "2026-09-22T06:43:02.109113+00:00"
 }
