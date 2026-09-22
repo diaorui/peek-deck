@@ -35,15 +35,15 @@
       "description": null
     },
     {
-      "title": "This is really the entire plan.",
-      "author": "gzal44c2",
-      "url": "https://www.reddit.com/r/artificial/comments/1wlze5f/this_is_really_the_entire_plan/",
-      "published": 1789955221.0,
-      "thumbnail": "https://preview.redd.it/pe3c6ged3sqh1.jpeg?width=640&crop=smart&auto=webp&s=1146c005532ff72763b505f7c468595490d013df",
+      "title": "Automated Reinforcement Learning should scare you",
+      "author": "hattusili-the-third",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
+      "published": 1790016741.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
     },
     {
       "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures.",
@@ -57,37 +57,15 @@
       "description": "The headlines right now are full of stories about AI models \"escaping their sandboxes\" and literally killing all humans, lol. I've even heard several commentators and writers say that AI escaped an \"Air gap\". But that is SO WRONG. It's actually TOTALLY WRONG. *To be clear, not a single one of these sandboxes was actually air-gapped.* That's a crucial computer science fact. An air gapped sandbox would require *ZERO* cables and network interfaces. It would also require absolute physical isolation. What these labs actually built were soft software barriers. And then they left the doors unlocked. With some of the smartest AI on the planet. Lol. Of COURSE it escaped. 1. The OpenAI / Hugging Face \"Escape\": The sandbox was connected to OpenAI\u2019s internal network through a package proxy. The model didn't perform magic. It found a basic flaw in the proxy and walked right through the open door. 2. The Google Gemini \"Hack\": Testers left the model connected to the live internet during offensive tests. They then used a test domain name that overlapped with real companies. These were classic IT security failures. I'm talking about bad network segmentation, permissive egress rules, and relying on soft software barriers instead of true physical isolation. When you leave an active network interface open on a test bed, a model finding its way out is just sloppy cybersecurity. Your nerdy friend, Mike D"
     },
     {
-      "title": "Benchmarks Grok 4.7, GPT 6 Astra Fable 4.1 and DeepSeek V4.1 Flash",
-      "author": "HealthySkeptic2000",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmmpmx/benchmarks_grok_47_gpt_6_astra_fable_41_and/",
-      "published": 1790018780.0,
-      "thumbnail": "https://preview.redd.it/dkmp7pnucxqh1.png?width=640&crop=smart&auto=webp&s=93d24f3a5d21ff437b2f377ca22072e6144f27f0",
+      "title": "This is really the entire plan.",
+      "author": "gzal44c2",
+      "url": "https://www.reddit.com/r/artificial/comments/1wlze5f/this_is_really_the_entire_plan/",
+      "published": 1789955221.0,
+      "thumbnail": "https://preview.redd.it/pe3c6ged3sqh1.jpeg?width=640&crop=smart&auto=webp&s=1146c005532ff72763b505f7c468595490d013df",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Benchmarks for the latest models, thought would post because comprehensive benchmarks take time to find and individual reports from labs can be biased."
-    },
-    {
-      "title": "Most ai productivity advice comes from people who don't have much actual work to do",
-      "author": "aiprotivity_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
-      "published": 1789993563.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it. the people posting \"15 ai tools you NEED\" are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks trying stuff instead of doing the thing i was avoiding. pick two. learn them properly. don't switch until one actually fails you!"
-    },
-    {
-      "title": "Automated Reinforcement Learning should scare you",
-      "author": "hattusili-the-third",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
-      "published": 1790016741.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
+      "description": null
     },
     {
       "title": "Amazon blocks Meta's Muse personal assistant",
@@ -101,16 +79,38 @@
       "description": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports: \"The problem, Amazon says, is that it never agreed to any of it. Meta didn\u2019t tell Amazon that Muse would access its store, the agent doesn\u2019t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \u201cContinued access by an unauthorized AI agent violates Amazon\u2019s Conditions of Use, to which our customers have agreed.\u201d It's likely that Amazon will launch a personal agent for its customers in the future. The question is whether people understand the privacy considerations associated with black box personal agents like Muse. https://preview.redd.it/1ltbyi424yqh1.png?width=293&format=png&auto=webp&s=1610bf8414fc8d4178144212cfe30afc4c3d378b"
     },
     {
-      "title": "what does \u201cslowing down AI\u201d actually mean?",
-      "author": "Impossible_Truth_629",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmj6nr/what_does_slowing_down_ai_actually_mean/",
-      "published": 1790011268.0,
+      "title": "Most ai productivity advice comes from people who don't have much actual work to do",
+      "author": "aiprotivity_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
+      "published": 1789993563.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've been thinking about the whole AI slowdown discussion, and something doesn't quite add up to me. Anthropic's CEO has been calling for the industry to slow the development of increasingly capable AI models so there's more time for safety and evaluation. But now Anthropic is reportedly considering another new model as it faces growing pressure from OpenAI. And I don't know honestly, I don't think that's necessarily contradictory. That's probably the problem. If you're an AI company competing in a market where everyone else is still improving their models, how do you actually slow down without giving up ground? Maybe \u201cslow down AI\u201d doesn't really mean stopping the race. Maybe it means slowing down the release of capabilities while the underlying AI development keeps moving. What an actual AI slowdown would look like in practice?"
+      "description": "If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it. the people posting \"15 ai tools you NEED\" are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks trying stuff instead of doing the thing i was avoiding. pick two. learn them properly. don't switch until one actually fails you!"
+    },
+    {
+      "title": "FBI Director Kash Patel says that AI use at the FBI has \"increased by 605%\" since he became director \u2014 claims that every major tech player is \"embedded\" in the agency",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1wm2996/fbi_director_kash_patel_says_that_ai_use_at_the/",
+      "published": 1789963658.0,
+      "thumbnail": "https://external-preview.redd.it/PLhWkXceTOEDVG8ImqxuTyzzbEIxEkSBJMZYU8isXv0.jpeg?width=640&crop=smart&auto=webp&s=9a0aaaa9bb288a641fc11d6417351ee50bb4ab67",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/kash-patel-says-that-ai-use-at-the-fbi-has-increased-by-605-percent-since-he-became-director-claims-that-every-major-tech-player-is-embedded-in-the-agency",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1755474/apple-touch-icon.png",
+      "description": "A seemingly unsupported figure that nevertheless may be grounded in truth."
+    },
+    {
+      "title": "WarGames the Movie and Choosing Where to Urinate",
+      "author": "No_Active_2698",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmuskx/wargames_the_movie_and_choosing_where_to_urinate/",
+      "published": 1790037871.0,
+      "thumbnail": "https://preview.redd.it/3ld3ury7xyqh1.png?width=640&crop=smart&auto=webp&s=23ee2f6001cfbf21c1440bb13e883b5806e97c43",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "With all the propaganda in the news the last few weeks that AI is going to murder everyone on the planet I decided to re-watch the movie \"WarGames.\" In the early scenes I noticed a hilarious sign inside a missile bunker. Apparently both spelling and where one chose to urinate was an issue back in the day. I mean...I've peed in some interesting places but it wouldn't ever occur to me to step outside of my secure bunker and just pee in the hallway. lol"
     }
   ],
-  "fetched_at": "2026-09-21T22:43:47.655603+00:00"
+  "fetched_at": "2026-09-22T01:27:46.450044+00:00"
 }

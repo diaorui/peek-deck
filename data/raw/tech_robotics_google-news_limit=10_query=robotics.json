@@ -16,7 +16,7 @@
     },
     {
       "headline": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
-      "source": "bostondynamics.com",
+      "source": "Boston Dynamics",
       "source_url": "https://bostondynamics.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0xvRExRaktxQS1zOEU3b0tLRFpXX1IzT1VDX0VnVUdta0FzU3VkdVFBZF9MLWxVaElSRkNnRTM0b1JuQ0tKT2xYcDZ0R1MybkF2VU5XMGR5VGdWZi1VQTlMSGhZLUpVTmhmaHRyQlktWkExVmVPeVE4ZjlyWE9ESld0OUFnYzlHV1RheVpZanlBSnBJTHctS0FXbWxOa1ZtR1V2TFlmUTh6OXdVZWcybFpPUWJlamJvZjdGd1B5and3UXUyTkVzTVFTS3BZclBlamRSN1hVUkc?oc=5",
       "pub_date": 1790001076.0,
@@ -35,12 +35,52 @@
       "description": "Humanoid robots fight in cage match in Shanghai"
     },
     {
+      "headline": "Behold: Video of \"First-Ever\" Human Versus Robot MMA Fight",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFhHemJCOWVUeUVZSzY3ZWRHbHh6b3d3MDRmNTVGS2RaZXZ5X3VhQ0NlXzdmTjc0T0ZGbkhaajBJZFU2NkppM2FZMjNUZEZzT2tkZy1PN014ZzVncUNqR0xfSWVYeWhUMkFuZXRRZ2VoRUNFV3hGRTh1eW9JRU54LWJEcVlVb00?oc=5",
+      "pub_date": 1790013020.0,
+      "article_url": "https://futurism.com/robots-and-machines/first-ever-human-versus-robot-mma-fight",
+      "image": "https://futurism.com/wp-content/uploads/2026/09/first-ever-human-versus-robot-mma-fight.jpg?w=1200",
+      "description": "A new viral video making the rounds on social media shows a humanoid robot fighting a TikTok influencer in the ring."
+    },
+    {
       "headline": "Boston Dynamics' humanoid robots start training at Hyundai plant",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1NLb3hpT3Iwd0FZbDFBRmlpYzZFaERoSjlkcGNQMC1EeVZnak9VUWxyRGRzdDRjMUoyUWFaX0VEUGFlZXhPXzIzR1JYanU2VXFLcldGZ0d2UG0wVzdVaHZlQ2JZLUJyMFJlODlhYUVJSTFoTVpiWm1iZGd0M0h1MUpPYVJZTXRVeFI0Y1p2Z3daVU1NTExtaVZJZw?oc=5",
       "pub_date": 1790015883.0,
       "article_url": "https://www.axios.com/local/boston/2026/09/21/boston-dynamics-humanoid-robots-hyundai-metaplant",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZaM2Zkb0dVVWJjV2J1LWtGalF0S0VlQ3h5T1UyM2JuS3NCZWc0UHpqU0JXd1J5ZHpxTDBLZFhNekUwYlRjOHFDb3Q5N1VtTG1JdGJXN2Y3QXlHZW5aMWVNTG04NW1iTlBaTEtVRUl4NF9EaTh4RVRscFpUVTRjMGJkdXgtclUycFNLWmJJa2V2Yy1oQkhTMkV3LV9GU0ZRRHJ1a0IteDE1UHpPZkhV?oc=5",
+      "pub_date": 1789995832.0,
+      "article_url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/RMAC_cover.jpg",
+      "description": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia."
+    },
+    {
+      "headline": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
+      "source": "CnEVPost",
+      "source_url": "https://cnevpost.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
+      "pub_date": 1789893750.0,
+      "article_url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
+      "image": "https://cnevpost.com/wp-content/uploads/2026/09/2026092008401026.jpg",
+      "description": "Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year."
+    },
+    {
+      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
+      "pub_date": 1790031994.0,
+      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
       "image": null,
       "description": null
     },
@@ -55,46 +95,6 @@
       "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
     },
     {
-      "headline": "Dongfeng to trial-produce humanoid robots by year-end, targets human-level capability by end of 2027",
-      "source": "CnEVPost",
-      "source_url": "https://cnevpost.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnJVUHZCOVlaM2tIaVRWZVN1ZkU5THJ6Qm5lT045aVVQaEYtSHM3dUwyYVBSQnZHbkNSUGI0R3U1NWVXdTFIekdkOXBjTXNmNlN1RmFheGpwVFF4SFlBWmZIelI1UFk1RWdVWFJWRndBZDM2dWQySEdKdmk4TVM2MWd1dTg2Y2M?oc=5",
-      "pub_date": 1789893750.0,
-      "article_url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
-      "image": "https://cnevpost.com/wp-content/uploads/2026/09/2026092008401026.jpg",
-      "description": "Dongfeng's humanoid robot will enter factories in October to handle sorting and quality inspection, with small-batch trial production to begin at the end of the year."
-    },
-    {
-      "headline": "Faraday Future Launches 5 New Robots: $9,990 To $137,900 For An Industrial Humanoid",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnlCTUxMVUxfWHp0bXVvczVuSzBOLXpPRVotOUpXRWE1bkhxaTV4bE0wV214QzllbE9WWkJidWF4XzdHNGNHTl9VNnlHUW9TODQzM0VOdXNja3d4T2RXcE5TMEdCUm9tTGltZldJVy1KSGtXdWtvU0d3YlJFZUNnUi1RTHdmRjFCR3FrenpUbEVOLWdmeGs4azVKY2RvZF9IZE5SUWQ5Y3VfNDJzQTl2cHlHbFlPYlR6NW03WUIxVGJJb3dzaWt6MzUyX2g?oc=5",
-      "pub_date": 1790008018.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/21/faraday-future-launches-5-new-robots-9990-to-137900-for-an-industrial-humanoid/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-      "pub_date": 1789967100.0,
-      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Behold: Video of \"First-Ever\" Human Versus Robot MMA Fight",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFhHemJCOWVUeUVZSzY3ZWRHbHh6b3d3MDRmNTVGS2RaZXZ5X3VhQ0NlXzdmTjc0T0ZGbkhaajBJZFU2NkppM2FZMjNUZEZzT2tkZy1PN014ZzVncUNqR0xfSWVYeWhUMkFuZXRRZ2VoRUNFV3hGRTh1eW9JRU54LWJEcVlVb00?oc=5",
-      "pub_date": 1790013020.0,
-      "article_url": "https://futurism.com/robots-and-machines/first-ever-human-versus-robot-mma-fight",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/first-ever-human-versus-robot-mma-fight.jpg?w=1200",
-      "description": "A new viral video making the rounds on social media shows a humanoid robot fighting a TikTok influencer in the ring."
-    },
-    {
       "headline": "Folkestone school's robotics team aims to inspire next generation",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T22:44:10.745682+00:00"
+  "fetched_at": "2026-09-22T01:28:07.430846+00:00"
 }
