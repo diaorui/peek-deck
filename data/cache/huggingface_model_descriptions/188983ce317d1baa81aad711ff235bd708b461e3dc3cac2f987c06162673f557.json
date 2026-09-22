@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-22T17:10:13.231933+00:00",
+  "data": "Hemmingway-1 is a 27B parameter text-generation model fine-tuned on Qwen3.8-27B, excelling at producing human-like everyday messages and emails. It features a 262,144 token context window and is optimized for non-commercial use, outperforming leading models in communication tasks and human-likeness.",
+  "model_id": "Altworld/Hemmingway-1"
+}

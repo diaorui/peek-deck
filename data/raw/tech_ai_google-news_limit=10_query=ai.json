@@ -5,6 +5,76 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Live updates: Donald Trump signs Greenland deal after dubbing AI 'super intelligence' at UN",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmhRYWhzaEtSelA1UzVrdldUVDhuVnoyYk5HVW12NzVtRmRCdjZxbmdoSzR4akdXUzJwYWxmcngtb001a3BseXhPRy1lemZtZUhTYUd2S3BEUmJOQ0pzZkw4aVl2bDZCQ3NBN2pTd3BMUGtZVkpiRjNVVmczdmFGWW9qTHNTLUtMT0E0UV8xcEZyeUpVbkRIb3pwS3hEVXBWR0Q2dDEtaUpOUkM2aXVmM1NXOHA2VzdvempWc0hHUVRGVG1oMHFsYlZrNNIB0AFBVV95cUxPYXBRZFoyYjNwOGVIV2xEeTlyVzhDQmZpM2YySVViS3BIZmJuZVAtMmRVWUhlTXdGV3V6Q1dRWldRWW9LMXpSQnJtWXZnUkhSblFJYUVYeVFVQVNaZjRMRVgtSUFDSUUxOFhoX0FzY3VKb1Bvcm96bHBqdDR0ZlBfczhONVFuMkpZZ05zTzBDcExIN2ZOOFZBeWZ0WXNrc3pwOEE0RXd2Y2Q5aFpDNUZjTmh5Uko3Z2dDYTNmRHZ0dVEtMVIwREJINDhTb1FWQ1dm?oc=5",
+      "pub_date": 1790091600.0,
+      "article_url": "https://thehill.com/homenews/administration/6103063-live-updates-trump-un-general-assembly-iran-russia-ukraine-conflicts-media-ban/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Watch: Moment Trump rebrands Artificial Intelligence to Super Intelligence",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wZElLYTA3N1pYMHNTa0dOTGpMT2dnUG9oQ0RYZE9KRm1VRnJJVWxLUFluRHpaT1V0SWpkMzBoODNpN0hhZGVJRnFHYWduMlN5eHJyMmN4ZXk?oc=5",
+      "pub_date": 1790092405.0,
+      "article_url": "https://www.bbc.com/news/videos/c8n5d9x10v14o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dd34/live/958ea3f0-b69d-11f1-b1d1-571ed4d7ff2c.jpg",
+      "description": "President Donald Trump announced at the UN General Assembly that all US government documents will now refer to Artificial Intelligence as Super Intelligence."
+    },
+    {
+      "headline": "Trump says US will continue to lead world in AI 'safely and responsibly'",
+      "source": "foxbusiness.com",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UVXdqTHBUVDhYVGtzMlVmNHZMYWhjREMwc0g0eG9OeU5LUl9jWWlwVDlfdjQ2eUZNSkdlWl9iWTdoUGVWUkxXSUYtaFZGRW9wTDJMa0ZhcWlHRXc?oc=5",
+      "pub_date": 1790092641.0,
+      "article_url": "https://www.foxbusiness.com/video/6405431367112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/a31da3e2-5e9a-4867-a662-06c96efc0b88/cfeaa17a-00a8-41a0-8daf-d6a11a8253a4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "President Donald Trump discusses artificial intelligence during remarks delivered before the United Nations General Assembly."
+    },
+    {
+      "headline": "Building standards for the next phase of AI",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Hdk5PcXZDNWxPVm9UMkJ4aVdtblM3ZjU5eDFNc3lNdkNEMDVMSi1NNzBGcTRHSFU5NWlzLWpBZWU1M1NTUjF4NzA2ZTJYaU5kbk1kclVwcHFNNmp5QWVBWUhONEt2bVROeVE?oc=5",
+      "pub_date": 1790011381.0,
+      "article_url": "https://openai.com/index/building-standards-next-phase-ai/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/4qekYv7Z15dtjQYpfZBJFg/75f652d9e84b2e56042c3baeb7c243db/building-shared-standards-next-phase-ai-seo__2_.png?w=1600&h=900&fit=fill",
+      "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "headline": "AI is in focus ahead of U.S.-China talks. Here's how it could sway shares of Nvidia",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcFJrS2kyWmEyOXVqUmdhZGg1ejR5MUgwUlpuQ093Y21aOU1LWmZlX2JxMU81ZWZEeVZKODFmR2d4eDV0Y0p4YUp0R212TlVZVzAwb3p4bndKRVltTmJXLXpoeWJuXzRnUVE0eDNlM0toRTNNQloxeE1pVjV2N1hVMDBMS2Z2d0Z2RTIxbGliWWhoekxhSExnRkc5bGdnQV9zTFdXOEJfTVEzMTdWSG84TVVfVFNpMkxmazl0UFM5TQ?oc=5",
+      "pub_date": 1790096137.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/22/ai-is-in-focus-ahead-of-us-china-talks-heres-how-it-could-sway-shares-of-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354636-1787762833729-gettyimages-2291592328-2026_aug_26_nvidia_0293.jpeg?v=1787762914&w=1920&h=1080",
+      "description": "Julia Spina, head of research at IG U.S. Holdings, discusses how options traders can play Nvidia ahead of the Trump-Xi summit."
+    },
+    {
+      "headline": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MWNvQml5ZUQzbFhpU1lMenVhSHNTN2pPWDd3cHhSdTZ0enFlaXdEWThSODNpX0RlUno4TFJXSXlYVmwyX3J5bFNVdXZ4b3dFMHloR3AzeDZaMmxDQjd5SXhNQUZNM2xoak9NSWlEUG0yZU4xLW9TcVZqSC1KVzTSAYQBQVVfeXFMUDhTVzJFMThuYm0tUlNDTGFzeTdiTkJ0MWtjbkpLVVpuM3UtUVl0RDlmQmh5R08wZ3B0R0tGTjNuYmpPUlZuTWJuNUF4Z0F3NU0tbVN2X1k3bVh0aklkSkJVX08yaGt1NC0wSnpRd0hsMEwtQm5nRlYxMEU0eWlFenRfVVpI?oc=5",
+      "pub_date": 1790015331.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108333030-17836276302026-07-09t193642z_2135966945_rc2iama4gjkq_rtrmadp_0_media-sunvalley.jpeg?v=1783627672&w=1920&h=1080",
+      "description": "Meta's Muse AI personal agent tool had 730,000 and 2.5 million downloads over the roughly five-day and thirteen-day time frames after its launch."
+    },
+    {
+      "headline": "\"I'd rather use my brain\": Rep. Mike Levin warns against total AI reliance",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qRnlRTEZqczBtOXpxcGk1bG5GWDVSNE1fRUJDNzNnQ00xekpxWkVUWUFKRzBuX0dQV2huMmVhVGdpMWJFX3cwUVNkSWhDc3ZKNFI0WmtXSEFkcEp6NFp2U3ZicHVXYjY1WE9od21sYy1yWm1pQ3lEYjVn?oc=5",
+      "pub_date": 1790094680.0,
+      "article_url": "https://www.axios.com/2026/09/22/mike-levin-ai-guardrails-data-centers",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Advisory Group on Mathematics and Artificial Intelligence",
       "source": "OpenAI",
       "source_url": "https://openai.com",
@@ -25,86 +95,16 @@
       "description": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much."
     },
     {
-      "headline": "Mathematicians use AI to find mysterious symmetries, solving decades-old problem",
-      "source": "Scientific American",
-      "source_url": "https://www.scientificamerican.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFNRNkl3a3ZNSjlVT1VkREQ5ZnBDTnhXczl0X3lWUUFISWxPcG5NYUVjdlZwbWlwSGpVT3U0Y0lyMnpkTzhTNDNzUG9pVGQ3U2kyU085aEdQdlhpalVGdGtDTG13VkF5VjlOWERWN21JTE1fcEJYXzFjVDBvSTZKdW9LYUZkOG5TRlB3TnhRTFZTSFhaenhBdk9JT1pVYnBCWm50UGRmNnRuNlp3WXFnYWZ0YVNsMFZ3SXNEQWNrZ2M?oc=5",
-      "pub_date": 1790074800.0,
-      "article_url": "https://www.scientificamerican.com/article/mathematicians-use-ai-to-find-mysterious-symmetries-solving-decades-old-problem/",
-      "image": "https://static.scientificamerican.com/dam/asset/4edea88b-e1e7-47d4-a024-64701af074d7/GettyImages-2262108239-cropped.jpeg?m=1790012229.627&w=1200",
-      "description": "In parallel, a race by amateurs and mathematicians has found all 25,000 cases of one \u201cinverse Galois problem\u201d"
-    },
-    {
-      "headline": "How one New Orleans developer is tackling AI anxiety",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajRrUmpmMS1BeC1WZGhLUHBPRGNaaGluMXRCNWZvb1ROVWNTU0pTMElXQ3R6LVhCdC1KbXFTSmtTd1l3MFVOSjU5TUVOOTZaR1huYWE5czJCVjNrTnl5NkloRWJhZmdnNG1mNUlLN3dkQTJ6TGRDemh4a29mNWF2YjdB?oc=5",
-      "pub_date": 1790076712.0,
-      "article_url": "https://www.axios.com/local/new-orleans/2026/09/22/ai-anxiety-neel-sus-susco",
+      "headline": "Opinion | Why A.I. Is Dangerous for Science",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlFwSTlmcFRQT0UwU3NlQzlraE44OHVFWERDVTlMVHlRM0R5QXNwM0tFVWNoOU1VTGNFQ0FQUmRFcEQ1QnAtaXY5a1liUkVkNkNIYkEzTGlmc3BmRm51RTEtY1ZGM080UlBXTjYtZUZJOEkwWWpRSUl2VHFTN29ibC1WS0Y3Vmlq?oc=5",
+      "pub_date": 1790067810.0,
+      "article_url": "https://www.nytimes.com/2026/09/22/opinion/artificial-intelligence-ai-danger.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Airports Turn to AI Tools to Help Ease Travel Troubles",
-      "source": "TODAY.com",
-      "source_url": "https://www.today.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFpQVnI4N2NzdDRkWVpvSUVJZ1ZQeVZNNng5YmJGd0JNbDBYX2RxZ2pBUmZNcldOaVlHWDNDd1ZNdksxemdyemtVSkRmN3UyZ2xJXzNDbENzZjh3SWMyRHNtb0M4NE1PRGV0ZWx1dkdZeHR2VzI3Qk1RN3oxTGwxdFdkOXdXS1pqY3lSd2tKS1MtVUwtaVJIRXJtNHhaNGhFZGI2NmtpOA?oc=5",
-      "pub_date": 1790077685.0,
-      "article_url": "https://www.today.com/video/faa-unveils-its-ai-powered-system-to-prevent-flight-disruptions-270279237524",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_09/1790077557546_tdy_news_7a_costello_airports_ai_260922_S3_1920x1080-530dd6.jpg",
-      "description": "The FAA has unveiled a new AI tool called SMART that gives air traffic controllers more real-time data on weather, flight paths, schedules and diversions. The Transportation Department stresses the new system will not replace human controllers, insisting instead that it will provide better information to manage issues. NBC\u2019s Tom Costello reports for TODAY."
-    },
-    {
-      "headline": "OpenAI calls for global cooperation on AI standards",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTDhZTFMwMVVmRXBtX3Nab0ZtOGZPZTZSdGw5aWhNcm5BNldSbXBuNjd1T1FCR0xUN3IzRlhyVG1LX2lQeTdfZnQ0SGpzd3o2VS11SC1R?oc=5",
-      "pub_date": 1790076559.0,
-      "article_url": "https://www.foxnews.com/video/6405406736112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f350562-f244-4273-81e9-1face2acf00b/b74ae359-a851-49ac-b4f6-311677931ab8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Wickard AI CEO Oliver Roberts analyzes U.S. artificial intelligence strategy and dialogue with China on 'Fox & Friends First' ahead of a meeting between President Donald Trump and Chinese President Xi Jinping."
-    },
-    {
-      "headline": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTJuMm1GdmJFb1ZnQ1VwdDNneE1iQjFzNXk1YXhrMnk5ZmtFUkl5aUN3eDFNekJyXzBtVUtLNDdsdmphTWc4TG82TldlNnphRVprUkx2cVNZZ0tkQVFrUVBEUGxFdkdiN0l5QnRXRXo3YTFmZTlfS0F4VVpDRVE0THo5N2VPUFlnR3kyc1h1RzRIQm5CaW13QnJIc1hheDlsRTJlZ3dUcTZRaXFyaE1v0gG0AUFVX3lxTE1TQnVMcVh1TFVrSXdVM043Ulc4amZrcnNZNGh5M3JnZVFXendKUjBYb2lVVTdoWloxMVZKQUg2elN3NXFLQzhLV3V5NG1lSngwalRDclNUaUhTQkcwNm9pMmJ2ZDJyd1l1MThNdVhJdmZDOXFoQ3g1WWoxSm02Uk1GWEhGc2RtZXdVZlJGcENJTjhmZFRsYWF0TGdPMUZaU1pCWEtZZE5aVGdrMm5NNW5aZGRseQ?oc=5",
-      "pub_date": 1790009400.0,
-      "article_url": "https://www.foxbusiness.com/technology/nvidias-jensen-huang-rejects-ai-doomsday-fears-2030-not-going-end-world",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jensen-huang-nvidia-ceo-g20.jpg?ve=1&tl=1",
-      "description": "Nvidia CEO Jensen Huang called AI doomsday predictions \"irresponsible\" and not grounded in science, urging existing laws over new AI regulation."
-    },
-    {
-      "headline": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LSkpWeGkzYkE3QjJjZ29NTnpici1JbllTS1FBRmNXbnlYSlZXblFsNngwM0FSR01GWWN3UF9yTjhQem42c0RPZXRYOVo3TE93dl85TmJKRkRFQVdWYzJGUFJac3JtRVY0enJkVWhqbTJid28?oc=5",
-      "pub_date": 1790067673.0,
-      "article_url": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "As Trump and Xi meet, investors play both sides of AI divide",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW45WkNOV0lEcDRQOFUxcGJRanlYNURFV2ZuNVg1MUk2dk4wMEhmMUp4VVd3NjBWN1RuOHY4c0QtQ3hxcWVITnpOblZJWl9KSTBWUUVDQUgycjdlRk9lMUhvVDAxN25hVHZXM09HOGZYdE1qdDRUX19DeVpwWXlwV2JNcmdpRDROMGVlNm95NFEyaEpTN1FDYk1CazdaOXNXWkZIekRMN2lCOUN5ZXFZ?oc=5",
-      "pub_date": 1790074572.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/trump-xi-meet-investors-play-both-sides-ai-divide-2026-09-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | Trump can derail China\u2019s AI threat",
-      "source": "washingtonpost.com",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVlRNE92UHZRSHZqQjhDMk1zLXBsVHNtY3VzTk00N1c3d24xNmpxZzNiZFZaQ0lsN19BSnBoZmltZWtNRTBtNTFfWGl2a0RQUloyY3pjamp4cU5ZTUlmX29LNmVraXI5eFl3TU1raVBlWk1iQVliNDNBZkFBQkx6WmUxOXExWjhjRnppS1dHaWplaXZTR05sZk5xaWFMSk80c04zeDRkZHM2T3MxM0E?oc=5",
-      "pub_date": 1790075930.0,
-      "article_url": "https://www.washingtonpost.com/opinions/2026/09/22/chinese-ai-is-direct-threat-heres-how-trump-can-derail-it/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/G3TUCU5BQVCSXDTRGLWMQWWDLI.jpg&w=1440",
-      "description": "The president can complicate China\u2019s AI strategy if he\u2019s willing to economically pressure Beijing."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T12:24:20.636712+00:00"
+  "fetched_at": "2026-09-22T17:10:09.712498+00:00"
 }
