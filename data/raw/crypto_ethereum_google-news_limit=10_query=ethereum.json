@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Ethereum news: Bitmine (BMNR) adds bought $75M ETH as Tom Lee says institutions are underweight crypto",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
+      "pub_date": 1789996275.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
+    },
+    {
+      "headline": "'Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU293UmFxZ1FENWE5aVhTTXdZNzFPblNqNVRyb2gtbndJY0pXa0lnV3ItVW5uMjhwa3VLS0t3Y3VZM2VBVmtNRGIyOHJFN0wyWEVDMm11RFgwajhQQkk3VG5sMEpYZzJJQUVLUGRNY2pPTWpjdjNXanBPdzZNc3NHOWZ3VGswRUpFLU9SVThyNWNtcmwwUVloWGZHaHpPeWlKbWZxcTJpQ1Q5anFqOVVDLWpDcXktUzRuVURfWEFISU1SVENxRHhzOFN3UG1uM2pQLW1xREM4RFFxSmFMajJBYlhhelNXa3NRMFE?oc=5",
+      "pub_date": 1789996479.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/cropped-11.jpg",
+      "description": "Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply."
+    },
+    {
       "headline": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -15,74 +35,54 @@
       "description": "Bitmine Immersion Technologies kept up its unbroken buying streak this week, adding 27,562 Ethereum\u2014worth roughly $74 million."
     },
     {
-      "headline": "Ethereum spot ETFs see $270M inflows on Sept 21, led by BlackRock's ETHA with $110M",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZm9rVnJtZy1LdVlWWG00c29ud0dOWjVpT2k3VEVuYmdoZ3I2cjJEdjdrTVQtY0lXdXJXVEZRLVlBOENvNGNUZld2ZXBKdF92VHp2V2QzWEFpcldoSEZpT3RNQVFLUjBiN2ZRZ0hpVVlmQ2l1MVF3TERNbWUwZDdnbWFDZldDYlVyNzFWWGFuSzRMYnk4cFA5YVZadjdMUQ?oc=5",
-      "pub_date": 1790058181.0,
-      "article_url": "https://pluang.com/en/news-feed/ethereum-spot-etfs-masuk-270juta-dolar-etha-pimpin-dengan-110juta",
-      "image": "https://image-cdn.pluang.com/web/news-cards/v2/CRYPTO/0a327663d919c8ed5a6080f932f18ca35128ed26601893764fb1b95b05a824ed-en.webp",
-      "description": "On September 21, Ethereum spot ETFs attracted a total of $270 million in net inflows, with BlackRock's iShares Ethereum Trust (ETHA) leading by drawing $110 million, about 41% of the total. This inflow indicates strong institutional demand for Ethereum spot ETFs, though the remaining $160 million was spread across other funds, showing diverse interest. While this single-day data highlights positive momentum, it does not guarantee a sustained trend as inflows can fluctuate. The SEC's ongoing review of crypto ETF products may influence future market dynamics for these funds."
-    },
-    {
-      "headline": "Why Is Ethereum Up Today? It Just Broke Above $2,672, Opening the Door to $3,000",
+      "headline": "Ethereum $15,000 Price Prediction Gains Traction as Wallets Hit 207M \u2014 Does the Demand Add Up?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWRnX1pTQ3dRaVVrcjdVMmh5Q1JHR2lOMHpGbU9YdW5qakJodXpPR19ZZlphdWNoaUt6UGJScnpGRktvZWh3V1B5SFFpa2ljd1doVzA1TTY1WXVBSWhmYlpENU45dEFSc2JoTmJtRWxXNUxad2ZKaDZBMGZHZHcxSjZTbElQdEJSbE5RdG1JZTBHQVQ2SXpnNnpn?oc=5",
-      "pub_date": 1789998000.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/why-ethereum-today-just-broke-134000181.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c2bbf33d3f2ee7e0bf95c2740a49df9cdfa84c62f5236c858f91e02390d706f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F069cb3861bc5df18b5a5f395a4be1345.jpg",
-      "description": "Ethereum just crossed a Fibonacci level traders have watched for weeks, and whether it holds could determine if a run toward $3,000 is real or just a Bitcoin-driven blip."
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzBlYTJUa0NUMVVWcjk5TGdjZjFhRUJkbGtkX0xHYWxEcjYxd1dkUUlZZjRkcnZER0NyS0dzdHVhdHAtNDBQVW43N0JUQk1KMzVMUE9KdVc5SG1IN2VRMURVbnBHZHJjeGV2TkczZElCVDdGa1JaamVUTzhSY2dhZlVCdlk1aUFXeXpXWDJjb0VZZm1JQU1zcTh3SHk0QQ?oc=5",
+      "pub_date": 1790072835.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-15-000-price-prediction-102715334.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3ae455e2211a7236d201449e0f6dd70c8020c25bf45e013bb8eacb7b1547cd72/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fd1091cdfa3d9348e816561ce4d015ebb.png",
+      "description": "Ethereum has reached a record 207.17 million non-empty wallets. Crypto Patel says a sustained break above $4,892 could open a longer-term path toward $10,000\u2013$15,000. At ..."
     },
     {
-      "headline": "Current price of Ethereum for September 21, 2026",
+      "headline": "Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdzdoSjQxeEVTZjVPbVV6RmRBSVhOZ0FPbUxLUlFfTVJjS2tmYk5xQldGLTdfN21BRG80Z1ZHN3Vmc2lqRm9IVkNyVTRvQUZMc19ZNWdYU1RhTndkaEtveVF4U181c3JMVzlVZ1VGOVJhTTJfMWdpRjl0QXBKbmdYU0tyUmhGT3RhcVNLYVFQSy1wTzV3UlZjbWtackNkLUk5RmxHWnM3RDVGakg1MGpGa0kxT0VmMllKVGpvX1JhV0hJQVdFMFpPdHNOWGZPMW5yc0ZleWQ2VUdlM1ZNY3FXQmViVVNUN2M1NURLckM0TUhkZk1KVms0NkxDSGhXblZUMGl3R0JFalRPWWd1VUgxVzdvNDRfYUlhX2ZiVjR0WnpuZGpL?oc=5",
+      "pub_date": 1790077644.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
+      "description": "Bitcoin opened at $86,597.82 on Tuesday, September 22, 2026, 6.7% higher than Monday's opening price. As of 7:20 a.m. ET this morning, the price of bitcoin slid to $86,035.18. Ethereum opened at $2,775.96 on Tuesday, September 22, 2026, up 5% from Monday's opening price. The price of ethereum slid lower this morning to $2,734.44 as of 7:20 a.m. ET."
+    },
+    {
+      "headline": "Kevin O'Leary Is Certain Ethereum Won't Be the 'Standard' Across Industry Sectors \u2014 The 'Shark' Says These Coins Could Gain Interest",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0YwX2lHTm50Q0M3OERvYlRSdnNXVlZrUDRRaUlCR1NzMncxbGVPazZUTlFNNGtYakpyZTNTVDFRR3VpY3U2OWxudjFuUjVKdzAweGRfbEdueFAySHliSDV0VENhenN0M1g5ZHMwU3pjdVdTS1VRVW5QM1BYbkdHRUJDdExlTFpJQ3FCWTlhWVViREUwbmdXRUlhdnF1Tm4x?oc=5",
+      "pub_date": 1790071226.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-certain-ethereum-wont-100026777.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/37145be0bc917d62c763c429eb0fa5f6745f5d323201d6db4c47999e4b5ea120/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fb16dce23f4d477472230cf41cb03a4b8.jpg",
+      "description": "Influential investor and media personality Kevin O\u2019Leary expressed doubts on Sunday about Ethereum\u2019s dominance in the cryptocurrency space, hinting at potential investments in chains like Solana and Avalanche. O\u2019Leary Questions Ethereum\u2019s Dominance O\u2019Leary, also known as \u201cMr. Wonderful,\u201d said with..."
+    },
+    {
+      "headline": "Current price of Ethereum for Sept. 22, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5",
-      "pub_date": 1790008380.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-21-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-21.jpg?resize=1200,600",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UGszZTNYcXREMm9MMVptMnFaanJlR181TFhuMS1rUmFKWVQtcGdYbGVoR2lZbVYxcnk5UlBxTU8tUEJDWms4SW9WZFotWGZYWXRLS0Fxci1RYVdyakpub2ROODVDYTk0?oc=5",
+      "pub_date": 1790074800.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-22-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-22.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Bitcoin Tops $87,000, Ethereum, XRP, Dogecoin Also Lift Amid 'Extreme Greed'\u2014Analyst Declares Bear Market Over, Says This is the 'Next Stop' for BTC",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOa3g5Y0llV2p0N0pBZkcyU21Nd19IOFpJZk5KVm1iNG01U0dMYW9hUTNlUXBZaERqNUV5TFd6b1FzeGFUUGl1ckMwaDVqYVF4V1dSZmZKR0c4Skk2Y1hueHpEZDhYX1lMZWI2c0dxdWszak55T09lS0pJcUxYb3RQemZKQVdXeVdnVGtsaDFrZVZNVTFFZXZTM01STlV3VmFWM2phZlFHcW1ocjVBSGZkRzUxbThrRFB6d1FreEhnc3UyUlhqU2draGZZR1J2eEFYMlg2X2NkQ0d3ZmRzS1E3aWNWT1BBVXhvSzhsYlA0WkNoSUNuZ0pGZ3ZlTk1mSjI3SjY5ZWFqaHpkZWJXYXJDVVZrMXV6bHV2MEtOMzZ6YnJSWlNS?oc=5",
       "pub_date": 1790042460.0,
       "article_url": "https://www.tradingview.com/news/benzinga:58ed8b336094b:0-bitcoin-tops-87-000-ethereum-xrp-dogecoin-also-lift-amid-extreme-greed-analyst-declares-bear-market-over-says-this-is-the-next-stop-for-btc/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing \u201cfear of missing out.\u201dCrypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly\u2026"
-    },
-    {
-      "headline": "Bitcoin Price Rallies Despite Fed Rate Hike as SEC, CFTC Roll Out Crypto Rules",
-      "source": "CoinMarketCap",
-      "source_url": "https://coinmarketcap.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEppQXVOQWktWDZyMDZGV21kUEJtRllnTkd6X3duVXl6Z2JWdkFOS1p0WDBacU5EVy1QREliTEN3bWVVT0xBclVJMElSNnJqWDFPSFNSdkJtdXRNajR2LWJXZFR1RWZiVm5uVDRCSDJRS2FLSnNFVE9ONWVJT1pTbExpM1VCTjJZdUF1Sw?oc=5",
-      "pub_date": 1789761085.0,
-      "article_url": "https://coinmarketcap.com/academy/article/bitcoin-rally-fed-rate-hike-sec-cftc-rules",
-      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/f64da5b377184c0fbc17c7a570dfc363.jpeg",
-      "description": "Bitcoin, Ethereum and altcoins shrugged off the Fed's first rate hike since 2023, rallying instead on new crypto rules from the SEC and CFTC. Here's why."
-    },
-    {
-      "headline": "Why is Bitcoin rallying alongside Ethereum and XRP?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQnZoSVRhRFlyczlyVkt3TmRFNm1ENWQ1amJIRDdkRFUtcUVHRzVLM2xnalo4U2ExSGpaN3FUczdjMDlkT2pQamZxajZJTDR1TVItVjVWN3lXVElSaTN2dXB6UzFOQ1JNamM0OFNtdUVBMVhmQ0s2WnB3eGU0NGR1RVFtNzRkOXl0WFFrMVhtZGxRYXdwY1pnaDBPSE5ydUFnTXJSSlhuZEZLeGNDclNuSTNmR0F5Q3ZHVFR5YlJXWHhHVm5tNWhNc09keDl2NklnSzdIbDBiS1k?oc=5",
-      "pub_date": 1789988555.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-hold-bullish-outlook-amid-improving-etf-inflows-202609211102",
-      "image": "https://editorial.fxsstatic.com/images/i/Discover-f-66_Medium.jpg",
-      "description": "Cryptocurrencies are broadly rising on Monday, led by Bitcoin\u2019s (BTC) surge to $85,000. Altcoins are following BTC\u2019s bullish trend, with Ethereum (ETH) trading above $2,700 and Ripple (XRP) holding steady at $1.47."
-    },
-    {
-      "headline": "Kevin O'Leary Is Certain Ethereum Won't Be the 'Standard' Across Industry Sectors \u2014 The 'Shark' Says Thes",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcV9mWVRRMGRGXzlkVU5ScVg5RE45eDY0bFpqRUhHNXlOMEpEaHBTaC1HSXZaeVdMcVpBdjhwR1Z1RjllSW94XzlIclZON0M4ZkxuRXdmcUhpbVRwTkUzMm1icTlGWUl4MDRxVldtNGE5d1I1TWlRNUlpR0dWajhFaGV6dXFrdTZvd1A5UnFzemQyeW5nYWZ6WTc3a0NKTC1hQ0pMV2VPcVVMVXAxUWZCRmJsTnJYTEZZMmx0ZnhJN0dFZHI5ZDVYQng0bko4X19EbFBWRlpjbGZIUWtpX3JhYzlYbURueEdfejRwcTBZWlE4UEdjS1ZUZDFmTFNhcmI0VGZ3cWU0REVIczFrQ1BkMGRpS2xzeUlFd1VvaktXQ3hrdVJubEpzeU5ibjdGc19ab0lCXzF5QjdIc1U?oc=5",
-      "pub_date": 1789989063.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61890631/kevin-oleary-is-certain-ethereum-wont-be-the-standard-across-different-industry-sectors-the-shark-instead-thinks-solana-and-avalanche-could-draw-interest",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/21/First-Film-Role-Treated-Like-New-Investm.jpg",
-      "description": "Influential investor and media personality Kevin O\u2019Leary expressed doubts on Sunday, September 20, about Ethereum's dominance in the cryptocurrency space, hinting at potential investments in chains like Solana and Avalanche."
     },
     {
       "headline": "New Crypto: Pepeto Announces a DeFi Tools Upgrade While Ethereum Price Prediction Targets $18K and Whale Buying Grows",
@@ -95,16 +95,16 @@
       "description": "DUBAI, United Arab Emirates, Sept.  21, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto has announced an upgrade to its DeFi exchange tools, with..."
     },
     {
-      "headline": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
-      "pub_date": 1789996275.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
+      "headline": "Why Is Ethereum Up Today? It Just Broke Above $2,672, Opening the Door to $3,000",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFBNR2xBWVgycWVYYVBWbWJhMXdLOVhSbUJNTm0wcXNGMHpvU28tRWtpUlB2Q2lTY3VTZjJZNi0ydndNelEwZTFoaDRzWk1GOHFFUVVxVU9mSlV1d3A5UEM3cjE4MGRmMHJXNDlaR1gxa2FXNVA2RWJPaThJUUl1Wm5tZXhVSTF3SFBPdmJvNEN1TzBPejg1bERnWkpmNng1ZG1CN29ZQXd6ekwtOTVldFU5bEo4cklYUUE?oc=5",
+      "pub_date": 1789998000.0,
+      "article_url": "https://247wallst.com/investing/2026/09/21/why-is-ethereum-up-today-it-just-broke-above-2672-opening-the-door-to-3000/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/11/shutterstock-2054766317-medium-licensed.jpg",
+      "description": "Ethereum crossed the key $2,672 level on September 21 amid a Bitcoin-led short squeeze. What it takes for Ethereum to reach $3,000."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T06:42:59.276364+00:00"
+  "fetched_at": "2026-09-22T12:24:14.039968+00:00"
 }
