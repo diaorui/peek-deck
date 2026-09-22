@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24984",
       "arxiv_url": "https://arxiv.org/abs/2609.24984",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 108,
+      "upvotes": 112,
       "num_comments": 3,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/WorldCrafter",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2609.25001",
       "arxiv_url": "https://arxiv.org/abs/2609.25001",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.25001.png",
-      "upvotes": 107,
+      "upvotes": 110,
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GameHorizon",
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 144,
+      "upvotes": 143,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 108013,
+      "github_stars": 108104,
       "project_page": null
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2609.20519",
       "arxiv_url": "https://arxiv.org/abs/2609.20519",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 117,
+      "upvotes": 121,
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2026-08-16T20:00:00.000Z",
       "github_repo": "https://github.com/FlashML-org/FreeToken",
-      "github_stars": 13515,
+      "github_stars": 13583,
       "project_page": "https://www.flashml.ai/"
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24972",
       "arxiv_url": "https://arxiv.org/abs/2609.24972",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 142,
+      "upvotes": 151,
       "num_comments": 1,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-22T17:09:43.644301+00:00"
+  "fetched_at": "2026-09-22T20:23:03.999933+00:00"
 }
