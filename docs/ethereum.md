@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-22T20:23:28.781017+00:00'
+updated: '2026-09-22T23:10:17.828177+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 20:23 UTC  
+**Last Updated:** September 22, 2026 at 23:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +13.8%  
-**30d:** +10.9%  
-**90d:** +75.5%  
-**1y:** -34.1%  
+**24h:** +0.5%  
+**7d:** +14.4%  
+**30d:** +11.5%  
+**90d:** +76.5%  
+**1y:** -33.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $335.80B
+**Market Cap:** $336.96B
 Rank #2
 
 **Circulating Supply:** 122,070,499 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--44.4%
+-44.2%
 
 **All-Time Low:** $0.43
-+635346.5%
++637397.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-15h ago
+18h ago
 
 ---
 
@@ -152,19 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)**
+**[Current price of Ethereum for Sept. 22, 2026](https://fortune.com/article/price-of-ethereum-09-22-2026/)**
 
-The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-CoinDesk • 1d ago
-
----
-
-**[Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%](https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html)**
-
-An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize.
-
-Yahoo Finance • 1d ago
+Fortune • 8h ago
 
 ---
 
@@ -176,11 +168,19 @@ PR Newswire • 1d ago
 
 ---
 
-**[Current price of Ethereum for September 21, 2026](https://fortune.com/article/price-of-ethereum-09-21-2026/)**
+**[Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%](https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html)**
 
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize.
 
-Fortune • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto](https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto)**
+
+The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH’s strong third quarter could push institutions to increase crypto exposure.
+
+coindesk.com • 1d ago
 
 ---
 
@@ -188,7 +188,7 @@ Fortune • 1d ago
 
 The total crypto market cap has climbed to $3.01 trillion, up 0.9% over the past day, with $141.8 billion in trading volume. Bitcoin sits at $85,980.96,
 
-Coinpedia • 7h ago
+Coinpedia • 9h ago
 
 ---
 
@@ -196,15 +196,15 @@ Coinpedia • 7h ago
 
 Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing “fear of missing out.”Crypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly…
 
-TradingView • 18h ago
+TradingView • 21h ago
 
 ---
 
-**[What's next Bitcoin, Ethereum and XRP's rally cools?](https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rally-slows-amid-rising-etf-inflows-202609221018)**
+**[Bitcoin Price Rallies Despite Fed Rate Hike as SEC, CFTC Roll Out Crypto Rules](https://coinmarketcap.com/academy/article/bitcoin-rally-fed-rate-hike-sec-cftc-rules)**
 
-The cryptocurrency market remains elevated on Tuesday, with Bitcoin (BTC) trading around $85,798, nearly 49% above the year low of $57,756. Ethereum (ETH) and Ripple (XRP) trade within a robust bullish outlook above $2,700 and $1.51, respectively.
+Bitcoin, Ethereum and altcoins shrugged off the Fed's first rate hike since 2023, rallying instead on new crypto rules from the SEC and CFTC. Here's why.
 
-FXStreet • 10h ago
+CoinMarketCap • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ FXStreet • 10h ago
 
 DUBAI, United Arab Emirates, Sept.  21, 2026  (GLOBE NEWSWIRE) -- The new crypto Pepeto has announced an upgrade to its DeFi exchange tools, with...
 
-markets.businessinsider.com • 22h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -228,7 +228,7 @@ Benzinga • 1d ago
 
 Can ETH flip $2,500 to a strong support level, or will bears once again turn it into the strongest resistance level to date?
 
-AMBCrypto • 17h ago
+ambcrypto.com • 20h ago
 
 ---
 
@@ -236,13 +236,23 @@ AMBCrypto • 17h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BMNR Life After 5% Alchemy | Buybacks, Staking or More Ethereum?](https://www.youtube.com/watch?v=3Y7lZ8qHOos)**
+
+BMNR is nearing its 5% Alchemy ETH target. So what happens from here? After a sharp rebound, what should BMNR do next?
+
+📺 The Value Thinker
+
+👁️ 2K • 👍 276 • 💬 45 • ⏱️ 17:21 • 3h ago
+
+---
+
 **[🚨 BTC &amp; ETH: THIS MAKES NO SENSE!!! HONEST DIVE!!!](https://www.youtube.com/watch?v=7LurmShXt5g)**
 
 Bitcoin has pumped to 87k! Here is what caused it and my market theory going forward! ---------- Join My FREE Trading Group ...
 
 📺 Thomas Kralow
 
-👁️ 13K • 👍 1K • 💬 43 • ⏱️ 12:07 • 10h ago
+👁️ 14K • 👍 1K • 💬 42 • ⏱️ 12:07 • 13h ago
 
 ---
 
@@ -252,17 +262,7 @@ EllioTrades Interview 2025 Subscribe: https://www.youtube.com/@elliotrades_offic
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 755 • 💬 75 • ⏱️ 1:12 • 2d ago
-
----
-
-**[Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!!](https://www.youtube.com/watch?v=EgiRRnVCNYA)**
-
-Ethereum Is About To EXPLODE!! Top 5 Crypto Coins!! Win $100000 in WEEX Trading Competition: https://t.co/NtE7ln3UYb ...
-
-📺 Altcoin Daily
-
-👁️ 100K • 👍 3K • 💬 170 • ⏱️ 10:49 • 2d ago
+👁️ 49K • 👍 767 • 💬 77 • ⏱️ 1:12 • 2d ago
 
 ---
 
@@ -272,7 +272,17 @@ Crypto News: Bitcoin's rally continues with price hitting $87000 today. Trader P
 
 📺 Thinking Crypto
 
-👁️ 24K • 👍 754 • 💬 94 • ⏱️ 21:46 • 17h ago
+👁️ 25K • 👍 765 • 💬 97 • ⏱️ 21:46 • 19h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Targets REVEALED | Nasdaq All Time High - What&#39;s Next?](https://www.youtube.com/watch?v=9jn3iuEBKyo)**
+
+Community, Trading Indicators & Mentorship: https://gabbietrades.com/ 3 Years BLOFIN ANNIVERSARY! BONUS Anniversary ...
+
+📺 Gabbie Trades
+
+👁️ 322 • 👍 20 • 💬 12 • ⏱️ 7:59 • 13h ago
 
 ---
 
@@ -286,13 +296,23 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX ...
 
 ---
 
+**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=oWYseZuaDbw)**
+
+Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+
+📺 More Crypto Online
+
+👁️ 10K • 👍 239 • 💬 12 • ⏱️ 8:45 • 1d ago
+
+---
+
 **[Jack Mallers :&quot;A TSUNAMI Is Coming For Bitcoin &amp; Ethereum” | 2026 Crypto Prediction](https://www.youtube.com/watch?v=C17Tnq3xD6c)**
 
 Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 405 • 💬 30 • ⏱️ 19:53 • 2d ago
+👁️ 19K • 👍 407 • 💬 30 • ⏱️ 19:53 • 2d ago
 
 ---
 
@@ -302,35 +322,17 @@ Mi Grupo de Telegram Público: https://t.me/+SLM6JTnjffk4ZTc0 Telegram Inversió
 
 📺 Carlos Romano
 
-👁️ 2K • 👍 123 • 💬 15 • ⏱️ 18:58 • 6h ago
+👁️ 3K • 👍 140 • 💬 15 • ⏱️ 18:58 • 9h ago
 
 ---
 
-**[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=oWYseZuaDbw)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=acXVeU6dbEI)**
 
-Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 More Crypto Online
+📺 Profit First
 
-👁️ 10K • 👍 236 • 💬 17 • ⏱️ 8:45 • 23h ago
-
----
-
-**[ETH BULLMARKET STARTING? (Ethereum Update)](https://www.youtube.com/watch?v=SxmuvWwaVdg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 1K • 👍 23 • 💬 5 • ⏱️ 5:15 • 11h ago
-
----
-
-**[ARE YOU READY?! CRYPTO BULL RUN IS BACK! HIGHER #crypto #ethereum #bitcoin](https://www.youtube.com/watch?v=1WbHFMmpFbU)**
-
-📺 CryptoWendyO
-
-👁️ 8K • 👍 461 • 💬 10 • ⏱️ 1:34 • 19h ago
+👁️ 2K • 👍 67 • ⏱️ 6:40 • 8h ago
 
 ---
 

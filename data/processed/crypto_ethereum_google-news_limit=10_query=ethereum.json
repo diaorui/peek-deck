@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
-      "pub_date": 1789996275.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
-    },
-    {
-      "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEpHcFF3Mjh4elJjejVKRERDWjhwX3VCQldIY1JnTnZ1UG1KZDJMeXI0cHRQaVRYV3pPLWpjTmRKUlZCd2EzNWl6OWpnRDNVU2UyRkxXMXUxMjNJM0lDYkNXZUh6ckZEbS0wVlMxTG1wbWk4end6cGdCdnA1QkE3b0ZQakxyZnp1SHYtdkRCLTd0Q3Y5NHM5dWxPdUN5VmM?oc=5",
-      "pub_date": 1789994398.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
-      "description": "An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize."
+      "headline": "Current price of Ethereum for Sept. 22, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UGszZTNYcXREMm9MMVptMnFaanJlR181TFhuMS1rUmFKWVQtcGdYbGVoR2lZbVYxcnk5UlBxTU8tUEJDWms4SW9WZFotWGZYWXRLS0Fxci1RYVdyakpub2ROODVDYTk0?oc=5",
+      "pub_date": 1790089448.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-22-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-22.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
       "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.98 Million Tokens, and Total Crypto and Total Cash Holdings of $17.1 Billion",
@@ -35,14 +25,24 @@
       "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
     },
     {
-      "headline": "Current price of Ethereum for September 21, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZeGxvMGZNMXoyOEcxNTFmcEQ3bGstdmVPSWlxUi1SQWN1MnJTNlJ0NUhOc2ZVVUxBNFI5TVl4VEdyQmExZmczMTJVVkliWmQ2Z2w3LUVJY1lVVG41UWl1WmFJX2t3Qmgz?oc=5",
-      "pub_date": 1790008380.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-21-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-21.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEpHcFF3Mjh4elJjejVKRERDWjhwX3VCQldIY1JnTnZ1UG1KZDJMeXI0cHRQaVRYV3pPLWpjTmRKUlZCd2EzNWl6OWpnRDNVU2UyRkxXMXUxMjNJM0lDYkNXZUh6ckZEbS0wVlMxTG1wbWk4end6cGdCdnA1QkE3b0ZQakxyZnp1SHYtdkRCLTd0Q3Y5NHM5dWxPdUN5VmM?oc=5",
+      "pub_date": 1789994398.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-climbs-6-ethereum-extends-123958679.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
+      "description": "An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize."
+    },
+    {
+      "headline": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+      "source": "coindesk.com",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
+      "pub_date": 1789996275.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
     },
     {
       "headline": "What\u2019s Next For Bitcoin, Ethereum And XRP Prices As Crypto Market Hits $3 Trillion?",
@@ -65,14 +65,14 @@
       "description": "Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing \u201cfear of missing out.\u201dCrypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly\u2026"
     },
     {
-      "headline": "What's next Bitcoin, Ethereum and XRP's rally cools?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0FTazREbzhvUVVXWHJFZXhrSFZ4bmZGb1g1dktXcm5Oci1RUGVzbE12SnJGVEtxNU9DcEROdV9pTzh6SEFqRTJNSW1oR1E4X094SnFLNFFWNWFxX3gydUF2cEkzT2dxYTRWcnJESmljN2xUUGpfdzlaQUFIZGJYalRpWUlPN3d6NEIwUEJWdGFraUh3R215VmEtMmoyRkhmWG9XLUFhajlVNlVoZkpNbEJ2YU5OV1hURGhIOWY1aTJTZ1MxSU5lRg?oc=5",
-      "pub_date": 1790072317.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-rally-slows-amid-rising-etf-inflows-202609221018",
-      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
-      "description": "The cryptocurrency market remains elevated on Tuesday, with Bitcoin (BTC) trading around $85,798, nearly 49% above the year low of $57,756. Ethereum (ETH) and Ripple (XRP) trade within a robust bullish outlook above $2,700 and $1.51, respectively."
+      "headline": "Bitcoin Price Rallies Despite Fed Rate Hike as SEC, CFTC Roll Out Crypto Rules",
+      "source": "CoinMarketCap",
+      "source_url": "https://coinmarketcap.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEppQXVOQWktWDZyMDZGV21kUEJtRllnTkd6X3duVXl6Z2JWdkFOS1p0WDBacU5EVy1QREliTEN3bWVVT0xBclVJMElSNnJqWDFPSFNSdkJtdXRNajR2LWJXZFR1RWZiVm5uVDRCSDJRS2FLSnNFVE9ONWVJT1pTbExpM1VCTjJZdUF1Sw?oc=5",
+      "pub_date": 1789922793.0,
+      "article_url": "https://coinmarketcap.com/academy/article/bitcoin-rally-fed-rate-hike-sec-cftc-rules",
+      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/f64da5b377184c0fbc17c7a570dfc363.jpeg",
+      "description": "Bitcoin, Ethereum and altcoins shrugged off the Fed's first rate hike since 2023, rallying instead on new crypto rules from the SEC and CFTC. Here's why."
     },
     {
       "headline": "New Crypto: Pepeto Announces a DeFi Tools Upgrade While Ethereum Price Prediction Targets $18K and Whale Buying Grows",
@@ -96,7 +96,7 @@
     },
     {
       "headline": "Ethereum just had the best Q3 since 2016 \u2013 \u2018ETH is ready to explode!\u2019",
-      "source": "AMBCrypto",
+      "source": "ambcrypto.com",
       "source_url": "https://ambcrypto.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDJIQWxkR0pGWTF4R3VGeXJHem83cEpUeHZPUHFFS3ZGNHhBczIzRjNHOEc0eldGQWFUbURlam1qaUxOcjNYZlkzYTVuUERMdW00VVNFQ1V3SkpGZlpvb3BuQjQ0bF9HNzYtUTlRVzRwcGVMZ0UxZVRmNERVeFJXTjBjcElmekJRRDVtLXRsMFA?oc=5",
       "pub_date": 1790046054.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T20:23:13.063289+00:00"
+  "fetched_at": "2026-09-22T23:09:59.349603+00:00"
 }
