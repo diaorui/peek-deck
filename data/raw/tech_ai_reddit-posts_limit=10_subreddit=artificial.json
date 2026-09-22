@@ -13,6 +13,17 @@
       "description": "16 sources compared: Western Mainstream (5), Western Alternative (4), West Asian (1). Amazon blocked access to Meta Platforms Inc.\u2019s Muse on Amazon.com after Meta rejected a request to remove the bot from t..."
     },
     {
+      "title": "How deep are you really into AI? \ud83e\udd16",
+      "author": "GabrieLX5",
+      "url": "https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/",
+      "published": 1790077141.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you had to rate your AI knowledge from 1\u201310, where would you put yourself? Not just using ChatGPT. Think models, agents, AI infrastructure, RAG, memory, inference, evals, AI security, robotics, and real-world applications. What area do you know best, and what area are you still trying to understand?"
+    },
+    {
       "title": "Trump brutally mocked over bizarre effort to rename AI 'superior' or 'extreme' intelligence",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wmdj0v/trump_brutally_mocked_over_bizarre_effort_to/",
@@ -22,6 +33,17 @@
       "site_name": "irishstar.com",
       "favicon": "https://www.irishstar.com/favicon.ico",
       "description": null
+    },
+    {
+      "title": "How a board game helps Google DeepMind plan for AI in science",
+      "author": "JMarty97",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnd6dj/how_a_board_game_helps_google_deepmind_plan_for/",
+      "published": 1790092093.0,
+      "thumbnail": "https://external-preview.redd.it/586Sz3_yXaj7ncY0MzQJDB1ULL5R-eJMerCExk44uow.png?width=640&crop=smart&auto=webp&s=0f4e7e8cde3f4382b7fe07c9c8ff3560ec201993",
+      "external_url": "https://www.existentialhope.com/podcasts/zoe-brammer-ankur-vora",
+      "site_name": "existentialhope.com",
+      "favicon": "https://cdn.prod.website-files.com/623dfa0be39a60e2211baff8/6981ce6a25b9bedbff8a5e31_256x256.png",
+      "description": "Podcast episode with Zo\u00eb Brammer and Ankur Vora, who lead strategic foresight at Google DeepMind, on why they developed the game and the surprising learnings from it. Covers: What strategic foresight actually means and why AI is so complicated to plan around Why the game deliberately centers around \"middle power\" countries like the UK, Germany, or Singapore instead of the US and China The unexpected tradeoffs and discoveries participants come across while playing the game, including how fragile public trust in science funding really is Why human scientists will become more relevant as AI takes on more of the science itself"
     },
     {
       "title": "The US government opens the door to working with voice AI platforms",
@@ -35,26 +57,15 @@
       "description": "The US government appears to have officially authorized its first dedicated voice AI vendor for agency use, listing them under the new 'FedRAMP 20x' automation framework. Federal phone lines and citizen support have always been bottlenecked by massive compliance and security rules, so seeing conversational voice tech finally clear the threshold for federal deployment is a pretty massive shift for public infrastructure."
     },
     {
-      "title": "What\u2019s something you deliberately DON\u2019T want AI to become good at?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wn1f5b/whats_something_you_deliberately_dont_want_ai_to/",
-      "published": 1790057555.0,
-      "thumbnail": null,
+      "title": "Cognition's Engineers Don't Write Code By Hand Anymore \u2014 And They're the Only Ones Grading Whether That's Working",
+      "author": "cen6wkf",
+      "url": "https://www.reddit.com/r/artificial/comments/1wn4spv/cognitions_engineers_dont_write_code_by_hand/",
+      "published": 1790069726.0,
+      "thumbnail": "https://external-preview.redd.it/cXF2dTJ0MmFrMXJoMdrvTXffkQycz8nS-qTFPkQoZ3zWLAKpF5-hSU6yumww.png?width=640&crop=smart&auto=webp&s=4eafce249e8bfc8ff2bd8e9099e9441d47f22058",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Not because it would be impossible but because you'd rather humans keep doing it. Could be art, conversation, teaching, decision-making, entertainment, or something much more mundane. Curious where people draw that line."
-    },
-    {
-      "title": "How deep are you really into AI? \ud83e\udd16",
-      "author": "GabrieLX5",
-      "url": "https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/",
-      "published": 1790077141.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you had to rate your AI knowledge from 1\u201310, where would you put yourself? Not just using ChatGPT. Think models, agents, AI infrastructure, RAG, memory, inference, evals, AI security, robotics, and real-world applications. What area do you know best, and what area are you still trying to understand?"
+      "description": "TL;DR: Cognition says none of their engineers write code by hand anymore. They're also the ones who decided that's working. Silas Alberti didn't say it like a warning \u2014 he said it mid-conversation, the way you'd mention traffic. Not one full-time engineer at Cognition writes code by hand. Six agents running per person, a ticket lands in Linear, it spins up a dev environment, one-shots a solution, and somebody reviews the PR at the end. That review is the entire safety net. And the only benchmark saying the net holds is Cognition's own. That's the part that actually lands for anyone who spent years earning \"senior\" by writing clean code fast \u2014 not that the work changed, but that the people whose comp depends on this working are also the ones grading whether it worked. CodeRabbit reviewed 470 real pull requests and found AI-authored ones carry roughly 1.7x the issues of human-only ones \u2014 and that gap widens, not narrows, at the high end, right where six-agents-at-once lives. Northflank's own enterprise data says 88% of agent pilots never reach production, and the reason isn't the models writing bad code \u2014 it's that nobody built the audit trail before turning the agents loose. Anthropic ran the same self-grading move on itself last week: Claude now \"leads\" 26% of Anthropic's own R&D, scored on a scale \u2014 AL0 through AL5 \u2014 that Anthropic wrote. Next review cycle, when someone hands you a line about \"AI leverage\" with no definition attached, ask who wrote the rubric. Somebody's actually building the missing check \u2014 CodeRabbit just raised $143M at a $1.5B valuation specifically to grade AI-authored pull requests at scale. What it doesn't do is fit in one engineer's own pocket. It's sold to a company's procurement process, not built for the person actually running the agents. That edge is still sitting there, unclaimed. Somewhere it already has a shape, too \u2014 the same decision-trail discipline CodeRabbit sells to a whole org, built small and open enough that one engineer points it at his own agents without asking anyone's permission first. Whoever closes that isn't racing anyone. The incumbent already proved the market's real. They're just building the version the incumbent never had to. https://preview.redd.it/5zvx0kk3k1rh1.jpg?width=1024&format=pjpg&auto=webp&s=b9cc9204bbf2206d5e9957f03f5510a709c98a76 Watching someone grade their own homework isn't new to me. I've seen this exact posture before \u2014 just with land instead of code. I used to work for one of the largest property developer in Malaysia. I was stationed in the island of Langkawi, Kedah, back in 2018. Island Resort Developments, High Rise Service Apartments, Hotels, Villas, Commercial Clusters, etc. are all in the pipeline. Every so often, my big boss, DT, will fly over in his private jet, to come hunt for local opportunities. Ya. Langkawi was his personal sandbox. We will drive him and his entourage of personal security guards, in his Toyota Vellfires around the island, through local villages, interviewing locals, to try to buy up their land for development. His trusted \"think tanks\" would be by his side to advise him, at his request, whether such and such a piece of land is good for what type of development \u2013 whether it's good to build boutique hotel, condo, or whatnot, and whether it will be profitable or not. After a few rounds of such hunting trip, I noticed something. He wasn't hunting it to develop himself. No, no. O no, he was definitely NOT interested to get his hands dirty. I was there with him in his vellfire, eavesdropping his conversations with his think tanks. He's hunting deals, and if he finds a sweet one, he'll package the proposals \u2013 together with its development order (through the Langkawi municipality) in place \u2013 to be sold to other interested property developers. In other words, he's acting like a middleman. And we're just there to facilitate it \u2013 overseeing and pass on the \"dirty\" work onto others, while we pocket the profit margin. How did he come to doing this? Well\u2026 That's for another conversation. Why did I bring this up? Well, same thing that's going on with all these AI agents. If we can pass on the \"dirty work\" of coding to them, and just check their work at the end \u2013 why not? ____________________________ Every one of these clips eventually says the quiet part out loud \u2014 the craft was never the moat. The judgment sitting underneath it was. Actually, this reminds me of something \u2014 Andrej Karpathy said almost the same thing to Stephanie Zhan back in July: the scarce skill isn't writing anymore, it's directing with taste, and even he said he's never felt more behind. If the people grading the new system are the same people selling it, what would actually change your mind either way? Drop your take. Clip credit: Joe Lonsdale \u2014 American Optimist (Silas Alberti / Cognition interview). Full episode on their channel. DM for credit or removal requests."
     },
     {
       "title": "Cage fight in Shenzhen, China",
@@ -68,17 +79,6 @@
       "description": null
     },
     {
-      "title": "Automated Reinforcement Learning should scare you",
-      "author": "hattusili-the-third",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
-      "published": 1790016741.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
-    },
-    {
       "title": "Amazon blocks Meta's Muse personal assistant",
       "author": "SpiritRealistic8174",
       "url": "https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/",
@@ -90,6 +90,17 @@
       "description": "Early this year, the personal agent boom started with OpenClaw. Now Meta is giving personal agents to everyone and that's shifting the landscape fast. And, it's generating pushback. Amazon has banned Meta's Muse personal assistant. Geekwire reports: \"The problem, Amazon says, is that it never agreed to any of it. Meta didn\u2019t tell Amazon that Muse would access its store, the agent doesn\u2019t identify itself when it browses, and it appears to capture and store customer credentials, which the company says could create privacy and security risks. As of Sunday night, people trying to use Muse to shop on Amazon were seeing the popup, \u201cContinued access by an unauthorized AI agent violates Amazon\u2019s Conditions of Use, to which our customers have agreed.\u201d It's likely that Amazon will launch a personal agent for its customers in the future. The question is whether people understand the privacy considerations associated with black box personal agents like Muse. https://preview.redd.it/1ltbyi424yqh1.png?width=293&format=png&auto=webp&s=1610bf8414fc8d4178144212cfe30afc4c3d378b"
     },
     {
+      "title": "Automated Reinforcement Learning should scare you",
+      "author": "hattusili-the-third",
+      "url": "https://www.reddit.com/r/artificial/comments/1wmlr8e/automated_reinforcement_learning_should_scare_you/",
+      "published": 1790016741.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "An LLM's training can be roughly divided into two stages: supervised learning (SL) and reinforcement learning (RL). In SL, you curate a dataset of text and train the LLM to predict the next token in that text from the tokens before it. The goal at this stage is to produce a model which is capable of natural language in the style of the dataset. A model trained at this point will be able to solve basic problems on material in its dataset simply because it is trained to mimic the dataset, but it is generally bad at anything involving multi-step reasoning or extrapolating outside its dataset. At this point it really is just an incredibly good version of the predictive text buttons on the top of your phone's keyboard. After a model is able to produce high-quality, coherent text, it is trained further using RL. In RL, the model is given a prompt, and then produces an output - generally a long chain of thought followed by a final answer - and that output is evaluated according to some metric, either by humans or by an automatic grader. Have you ever gotten one of those \"which response do you like best\" messages from ChatGPT or Claude? Then you're helping the model do reinforcement learning with the goal of producing responses that users like. AI sycophancy is not something that AI companies are manually selecting for, it's a natural result of the combined preferences of the entire user base being used as feedback for reinforcement learning. Do you remember back in 2017 when AI suddenly got extremely good at chess and go, surpassing even the best human players almost overnight? Those were different types of models, but they worked so well because they were trained using RL with automated rewards. In a board game like chess or go, a model's performance can be evaluated automatically by a computer - it either won the game or lost the game - so it can be trained using RL at speeds limited only by compute power, not human feedback. AlphaGo Zero achieved superhuman play in just 24 hours of unsupervised, automatic RL training, playing millions of games against itself in that time. Over the last few months LLMs have gotten incredibly good at math, to the point that they are now regularly solving major open problems (not just Navier-Stokes). This is largely because models got to a point where they were able to translate informal proofs relatively easily into machine checkable formal proofs (such as in lean). This meant that AI companies could run automatic RL training for math, letting the model loose on a large collection of math problems and determining rewards automatically based on whether it succeeds in solving the problem. This is essentially AlphaGo for math, and it worked. Doing automatic RL in other fields is much more difficult, but just recently it was reported that Anthropic was setting up an automated biology lab where their models can design and run experiments. Setting aside the (significant) concerns about bio-safety at the lab, it should be clear that Anthropic is doing this to run automated RL for biology and hope for the same kind of superhuman performance that was achieved in chess and math. There are obviously potential benefits from this in the form of new drugs and treatments for disease, but there are massive risks as well. Anthropic will not be the only ones doing this. If they haven't already, other AI labs -in the US, China, and elsewhere - will be setting up these kinds of facilities and running automated RL with them. If they achieve anything close to the performance we saw in chess and math, then a model like that in the wrong hands could do untold amounts of harm. We need ways to protect against this and we need them now, so I hope people will start talking about this and pushing politicians and CEOs to actually act before things get out of control."
+    },
+    {
       "title": "Turn PDF into podcast show",
       "author": "ps948",
       "url": "https://www.reddit.com/r/artificial/comments/1wn55ev/turn_pdf_into_podcast_show/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Your documents, as a podcast you'd actually listen to. A 20-minute two-host episode \u2014 generated in ~1 minute. No GPU. No studio. Just drop a file. PaperPod"
-    },
-    {
-      "title": "Fruit fly-inspired AI learns smells quickly with far less memory",
-      "author": "Brighter-Side-News",
-      "url": "https://www.reddit.com/r/artificial/comments/1wmwmng/fruit_flyinspired_ai_learns_smells_quickly_with/",
-      "published": 1790042879.0,
-      "thumbnail": "https://external-preview.redd.it/xWBuYPZ-nQ9hQMUmjDrVs60GP4KUBt7uU6onM0Oov8c.jpeg?width=640&crop=smart&auto=webp&s=504ac9c615cc5fa12c31971dde7eb7ab830204ad",
-      "external_url": "http://thebrighterside.news/post/fruit-fly-inspired-ai-learns-smells-quickly-with-far-less-memory",
-      "site_name": "The Brighter Side of News",
-      "favicon": "https://www.thebrighterside.news/uploads/2024/04/tbsn-favicon.png",
-      "description": "A fruit fly brain contains only about 140,000 neurons, yet it can recognize odors with remarkable efficiency. Researchers have now borrowed part of that strategy to build an artificial system that learns smells quickly while using little memory. The algorithm, called Spi-Fly, uses a spiking neural network modeled on the fruit fly olfactory system. Researchers at the Okinawa Institute of Science and Technology, or OIST, designed it for situations where training examples, memory and computing power are limited. The system performed especially well when it had only a few examples of each odor. It also learned new categories without substantially forgetting earlier ones."
     }
   ],
-  "fetched_at": "2026-09-22T12:23:51.445762+00:00"
+  "fetched_at": "2026-09-22T17:09:33.037216+00:00"
 }

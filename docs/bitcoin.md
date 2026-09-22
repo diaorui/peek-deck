@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-22T12:24:22.668014+00:00'
+updated: '2026-09-22T17:10:13.908855+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 12:24 UTC  
+**Last Updated:** September 22, 2026 at 17:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,877.81
+### $86,214.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +12.7%  
-**30d:** +8.8%  
-**90d:** +44.0%  
-**1y:** -23.2%  
+**24h:** +0.4%  
+**7d:** +13.4%  
+**30d:** +9.4%  
+**90d:** +44.8%  
+**1y:** -22.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1724.70B
+**Market Cap:** $1738.40B
 Rank #1
 
-**Circulating Supply:** 20,087,871 BTC
+**Circulating Supply:** 20,087,962 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.9%
+-31.4%
 
 **All-Time Low:** $67.81
-+126525.9%
++127488.9%
 
 ---
 
@@ -135,7 +135,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 1d ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 2d ago
 
 ---
 
@@ -149,6 +149,20 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000)**
+
+WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.
+
+CoinDesk • 57m ago
+
+---
+
+**[Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5)**
+
+marketwatch.com • 6h ago
+
+---
+
 **[Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html)**
 
 Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
@@ -157,73 +171,55 @@ CNBC • 1d ago
 
 ---
 
-**[Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000)**
+**[Trader bets $3M on Bitcoin hitting $95K by October](https://finance.yahoo.com/video/trader-bets-3m-bitcoin-hitting-160957184.html)**
 
-WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.
+A single trader placed a $3.17 million options bet that bitcoin will reach $95,000 by the end of October, using a strategy that pays off most if BTC lands right at that level. CoinDesk's Uyen Truong hosts "CoinDesk Daily."
 
-CoinDesk • 2h ago
-
----
-
-**[Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties](https://www.miamiherald.com/news/nation-world/article317287979.html)**
-
-Jeffrey Epstein aligned with MIT and the man who cut the ribbon for Trump’s gold statue in Doral in his quest to champion cryptocurrencies.
-
-miamiherald.com • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Leads Crypto Back Above $3 Trillion as Risk Builds](https://finance.yahoo.com/markets/crypto/articles/bitcoin-leads-crypto-back-above-093150937.html)**
+**[Bitcoin and Crypto Stocks Have Been on a Tear. Here’s Why.](https://www.barrons.com/articles/bitcoin-crypto-stocks-clarity-act-a3749320)**
 
-Digital assets have reclaimed $3 trillion in market value for the first time since January after Bitcoin’s stunning rally, but traders are also piling into leveraged bets in perpetual futures, increasing the risk of rapid price swings.
-
-Yahoo Finance • 2h ago
+Barron's • 1h ago
 
 ---
 
-**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
+**[GPUS Stock Slips After Hyperscale Data Carves Out Bitcoin Mining Business Into New Unit](https://finance.yahoo.com/markets/stocks/articles/gpus-stock-slips-hyperscale-data-160228955.html)**
 
-The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
+Hyperscale Data management said Bitcoin mining and AI infrastructure require different capital strategies and priorities.
 
-Fox Business • 32m ago
-
----
-
-**[5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/)**
-
-Top Bitcoin Casinos With Best Bonuses 🎲 Casinos 🎁 Welcome Bonus 🏆 Rating 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.9/5 2️⃣ JACK.com 100 No-Wagering Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BitStarz 300% up to 5 BTC + 180 Free Spins ⭐ 4.7/5...
-
-Muddy River Sports • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[History Says This Is What Will Happen With Bitcoin in 2027](https://www.fool.com/investing/2026/09/22/history-says-this-is-what-will-happen-with-bitcoin/)**
+**[Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow)**
 
-The key to understanding Bitcoin is its four-year cycle, which occurs with stunning regularity.
-
-fool.com • 3h ago
+Bloomberg.com • 3h ago
 
 ---
 
-**[Bitcoin (BTC) Retreats From Eight-Month High After Dizzying 13% Rally](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally)**
+**[Cathie Wood Makes Big AI Bet, Trims Bitcoin ETF](https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-183656436.html)**
 
-Bloomberg.com • 1h ago
+Ark is quietly reshuffling risk across high-growth assets
 
----
-
-**[Dowagiac residents get reprieve from noisy bitcoin-mining data center](https://www.detroitnews.com/picture-gallery/news/michigan/2026/09/21/dowagiac-residents-couldnt-stand-noise-from-bitcoin-mining-data-center/91791837007/)**
-
-Dowagiac residents spent months complaining to City Council about a noisy data center in their city. That facility is retooling for a different use.
-
-The Detroit News • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
-**[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
+**[Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever](https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever)**
 
-The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
+Inflows into spot bitcoin ETFs picked up Monday as bitcoin rallied to its highest since January.
 
-Slate Magazine • 2d ago
+CoinDesk • 9h ago
+
+---
+
+**[Bitcoin surges to 8-month high above $85,000](https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126)**
+
+The cryptocurrency added nearly 5% on Monday, building on last week's gains despite a Fed rate hike and the failure of key crypto legislation
+
+qz.com • 1d ago
 
 ---
 
@@ -249,7 +245,13 @@ Investors shift from political optimism to uncertainty as the U.S. crypto market
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 1d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 2d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+
+---
+
+**[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
+
+⬆️ 3 • 💬 0 • 58m ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -263,7 +265,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 2 • 💬 3 • 2d ago
+⬆️ 2 • 💬 3 • 3d ago
 
 ---
 
@@ -271,7 +273,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-⬆️ 2 • 💬 1 • 4d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
+⬆️ 2 • 💬 1 • 5d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
@@ -285,7 +287,7 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 15h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 20h ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
@@ -294,14 +296,6 @@ https://t.co/GktyWFbTdN
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
 ⬆️ 1 • 💬 0 • 5d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
-
----
-
-**[Show HN: Eleuteria – a privacy-first RoboSats coordinator](https://news.ycombinator.com/item?id=49711766)**
-
-Eleuteria — independent RoboSats coordinator for private peer-to-peer Bitcoin trading.
-
-⬆️ 2 • 💬 0 • 6d ago • [eleuteria-robosat.github.io](https://eleuteria-robosat.github.io/)
 
 ---
 
@@ -317,13 +311,43 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN SOARS: $86,000 sparks a warning about leverage](https://www.youtube.com/watch?v=PbMQ4rGDrwQ)**
+
+The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon ...
+
+📺 Fox Business Clips
+
+👁️ 7K • 👍 118 • 💬 62 • ⏱️ 7:21 • 5h ago
+
+---
+
+**[Why Bitcoin Just EXPLODED](https://www.youtube.com/watch?v=ZxLh5Uiz-kk)**
+
+Join CBC Lite https://go.coinbureau.com/CBC-Lite-CB-Des Get The Hottest Crypto Deals ...
+
+📺 Coin Bureau
+
+👁️ 22K • 👍 1K • 💬 41 • ⏱️ 11:48 • 4h ago
+
+---
+
+**[Will BITCOIN Hit $95,000 This Week?](https://www.youtube.com/watch?v=sLKorM6KErI)**
+
+Join the Team Today: https://members.ffgrv.com/?utm_source=youtube&utm_medium=organic&utm_campaign=SEP-21 ...
+
+📺 Future Forecasting Group
+
+👁️ 7K • 👍 461 • 💬 21 • ⏱️ 3:16 • 19h ago
+
+---
+
 **[Bitcoin: The Bull Market Is Back (My Plan)](https://www.youtube.com/watch?v=YYDLS3naaGc)**
 
 Welcome back to the channel! ➡️ Kalshi Perps: https://kalshi.com/p/aaroncrypto ➡️ Where I Trade: https://aaronbtc.com/low ...
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 358 • 💬 63 • ⏱️ 9:25 • 5h ago
+👁️ 16K • 👍 541 • 💬 89 • ⏱️ 9:25 • 9h ago
 
 ---
 
@@ -333,47 +357,7 @@ Bitcoin has pumped to 87k! Here is what caused it and my market theory going for
 
 📺 Thomas Kralow
 
-👁️ 2K • 👍 978 • 💬 28 • ⏱️ 12:07 • 2h ago
-
----
-
-**[Bitcoin Hits $86K With Massive Short Squeeze](https://www.youtube.com/watch?v=qIO_v5qxWGw)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 751 • 💬 96 • ⏱️ 9:16 • 11h ago
-
----
-
-**[Crypto Is About to Go PARABOLIC… Here’s Why](https://www.youtube.com/watch?v=VBcDkbRZw7k)**
-
-Crypto is officially back in a bull market!? Explained in less than 12 minutes. ⭐ Follow Altcoin Daily on X: ...
-
-📺 Altcoin Daily
-
-👁️ 78K • 👍 3K • 💬 169 • ⏱️ 12:07 • 13h ago
-
----
-
-**[BITCOIN ERUPTS: Expert says it can go way higher in coming years](https://www.youtube.com/watch?v=2SY0-Cn-EYo)**
-
-ProCap Financial Chairman and CEO Anthony Pompliano analyzes Silvia AI's capabilities and the Bitcoin rally despite the the ...
-
-📺 Fox Business Clips
-
-👁️ 64K • 👍 448 • 💬 352 • ⏱️ 3:34 • 17h ago
-
----
-
-**[Will BITCOIN Hit $95,000 This Week?](https://www.youtube.com/watch?v=sLKorM6KErI)**
-
-Join the Team Today: https://members.ffgrv.com/?utm_source=youtube&utm_medium=organic&utm_campaign=SEP-4 LEARN ...
-
-📺 Future Forecasting Group
-
-👁️ 6K • 👍 433 • 💬 20 • ⏱️ 3:16 • 14h ago
+👁️ 9K • 👍 989 • 💬 36 • ⏱️ 12:07 • 7h ago
 
 ---
 
@@ -383,37 +367,47 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 295 • 💬 21 • ⏱️ 10:57 • 9h ago
+👁️ 11K • 👍 350 • 💬 23 • ⏱️ 10:57 • 14h ago
 
 ---
 
-**[Bitcoin Doesn’t Need The Money Printer Anymore. Why This Changes Everything!](https://www.youtube.com/watch?v=JqXOjD03Sfc)**
+**[Bitcoin Just EXPLODED 13%… Here’s Why 🚀](https://www.youtube.com/watch?v=JNGec6ihA8k)**
 
-Bitcoin is breaking higher despite rising rates, record real yields and tighter monetary conditions. Is the old Bitcoin liquidity cycle ...
+Bitcoin surged 13% in just five days despite a failed crypto bill and a Fed rate hike! Why did BTC rally when the headlines ...
 
-📺 Simply Bitcoin
+📺 Ross Givens
 
-👁️ 47K • 👍 2K • 💬 111 • ⏱️ 17:56 • 14h ago
-
----
-
-**[Bitcoin on Blake2B Soft Fork (Happening Now)](https://www.youtube.com/watch?v=Pa2B1lW0Se8)**
-
-Get Access to the Bitcoin Forum: https://www.bitcoinuniversity.com/join Join the Bitcoin on Blake2B/Knots Discord here: ...
-
-📺 Bitcoin University
-
-👁️ 12K • 👍 693 • 💬 227 • ⏱️ 16:44 • 15h ago
+👁️ 1K • 👍 56 • 💬 7 • ⏱️ 2:08 • 44m ago
 
 ---
 
-**[A big problem with the current bitcoin and XRP price right now](https://www.youtube.com/watch?v=-a4EvYD2lac)**
+**[Bitcoin Hits $86K With Massive Short Squeeze](https://www.youtube.com/watch?v=qIO_v5qxWGw)**
 
-There is a serious issue with the current Bitcoin price and XRP price that most people are completely overlooking right now.
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 The Economic Ninja
+📺 CryptosRUs
 
-👁️ 33K • 👍 903 • 💬 265 • ⏱️ 3:50 • 14h ago
+👁️ 24K • 👍 784 • 💬 102 • ⏱️ 9:16 • 16h ago
+
+---
+
+**[Bitcoin Just Gave the Final Bull Market Confirmation! (Prepare)](https://www.youtube.com/watch?v=L3ikQ-OGZo8)**
+
+Bitcoin just broke through some of the most important levels of this cycle, and the market is finally showing signs of real strength.
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 38 • ⏱️ 34:11 • 3h ago
+
+---
+
+**[BITCOIN ERUPTS: Expert says it can go way higher in coming years](https://www.youtube.com/watch?v=2SY0-Cn-EYo)**
+
+ProCap Financial Chairman and CEO Anthony Pompliano analyzes Silvia AI's capabilities and the Bitcoin rally despite the the ...
+
+📺 Fox Business Clips
+
+👁️ 72K • 👍 480 • 💬 372 • ⏱️ 3:34 • 22h ago
 
 ---
 
