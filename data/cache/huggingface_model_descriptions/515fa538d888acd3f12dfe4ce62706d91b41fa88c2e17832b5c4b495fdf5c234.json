@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-22T20:23:27.703433+00:00",
+  "data": "This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-image generation, optimized for use with ComfyUI. It offers various quantization levels for a balance between performance and quality, with Q4_K_M recommended.",
+  "model_id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+}

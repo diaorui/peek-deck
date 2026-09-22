@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Google Is Giving Away \u2018The Android Of Robotics\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm44QjhOQlVHdFN5NVBQZzYyeG5rUUYwNC1KdWUyNGQ4TERNZHVkZUhRV3oySnIxOFhhV1JTQ1ZHUWt3RzQ4UXkzSENuVTdyQVNCR01WZjd4YUp5OGRfcXVqbEpLN09zeU9heHRXZjRqQW5rS0o3ODctVnFoUEQ5aDlRbVZIYXVtUGw2WXNzQWdBbk9MdTdaNW9UOXh2emRS?oc=5",
+      "pub_date": 1790078400.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
       "source": "Boston Dynamics",
       "source_url": "https://bostondynamics.com",
@@ -13,36 +23,6 @@
       "article_url": "https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/",
       "image": "https://bostondynamics.com/wp-content/uploads/2026/09/rmac-1440.jpg",
       "description": "Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)"
-    },
-    {
-      "headline": "Google's robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
-      "source": "SiliconANGLE",
-      "source_url": "https://siliconangle.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ1NYempUaVhsam1mSWs0VXhkajN1b2UzM1owWXVpLUdFaUhfTlYtSEh5RUd6TTRyYTQwNzh5SHVHSFY2di05LW9CejVyQWhscmxRcHVQczJfd21XTjVCb3RBeXc5bENuRmhpTG9MY1VWdWE5VGVFdUtvRFpiRzF5ZDVrX04xTUo2WW5HdUwyWWFJSzlyN0dJcFJKR2pWY1B1WFZFUnJrZ29PcFkxX29ielhqTlEzcVZyTzNKcHhlRXlDREctcFp6dFNJc1pjSk0wb0E?oc=5",
-      "pub_date": 1790078400.0,
-      "article_url": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-21-09-12-48.png",
-      "description": "Google's robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots - SiliconANGLE"
-    },
-    {
-      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "pub_date": 1790078795.0,
-      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
-    },
-    {
-      "headline": "Intel let RealSense go. Now Cognex is paying $600 million to buy it",
-      "source": "calcalistech.com",
-      "source_url": "https://www.calcalistech.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxa1Z6WVEzX0VlVEVQY0l2Q1lNLXZpRmtNRjFnc05qTGMtd0E3MWEwbHNZMEU0cDV2TFBGekk2QlVFVnhpaTl6dU1FZzNVZEVDQ0Z3a3VWTUxmRzlMTlV0UzVkREdXbkVw?oc=5",
-      "pub_date": 1790074800.0,
-      "article_url": "https://www.calcalistech.com/ctechnews/article/s1tqir19fl",
-      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg",
-      "description": "The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel."
     },
     {
       "headline": "China slows humanoid robot IPO rush as hype outruns reality",
@@ -55,34 +35,54 @@
       "description": null
     },
     {
-      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-      "pub_date": 1789967100.0,
-      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
+      "headline": "Global race for AI and robotics heats up, CEO says robots will \u2018define the future\u2019",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZXFMS3ZPSk9hY01DSFNiLWlqdkMxN0hoa2FqODlfaS1Fb2hwRWFGblY4V2o5VTlOVG00SmNrYW1CcU5TUUNCaGFHVW1UMG1VY3VrMnBCODh1TUE?oc=5",
+      "pub_date": 1790105539.0,
+      "article_url": null,
       "image": null,
       "description": null
     },
     {
-      "headline": "Scientists Create New Humanoid Robot That Flinches in Fear When You Come Close",
-      "source": "futurism.com",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQekU5Mm5UYWpVM2JaeTliTnA0c05lNVkwZ1NPYUFqT3RhVDY4cHlTWld5eDJuaGwydloxWDgyM01IZVotQXlyZFZrOHRHelNaVVZyLU5vS0N6dm1xdzJhZDBjYlVPeTJnYlJJbGNsX3dqRDVPUVdsMWNkZzNSdGZVdUtoM2NvSzg?oc=5",
-      "pub_date": 1789916460.0,
-      "article_url": "https://futurism.com/robots-and-machines/new-humanoid-robot-flinches-human-close",
-      "image": "https://futurism.com/wp-content/uploads/2026/09/new-humanoid-robot-flinches-human-close.jpg?quality=85&w=1200",
-      "description": "Robotics company Agility Robotics' latest humanoid robot cowers in fear and drops to its knees when a human turns the corner."
+      "headline": "Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWU5d1ZnY1pVTGhSUFFzb2h6aDIxaWp6MHRoSWsySEpvOGdqMFpvNnRubTRTRXA0TG1JcXR4R0ZMRThwNjRLRmMtaU1Gb0FnWWJtWjRnV3doLWpTbzFkV0RiUERSMkhaVE40TTJSRFQ4VXRkUWtuOTQ5UnAwbFo2OHd6ZXFWQ3g4RHRXWg?oc=5",
+      "pub_date": 1790108155.0,
+      "article_url": "https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Intel let RealSense go. Now Cognex is paying $600 million to buy it",
+      "source": "calcalistech.com",
+      "source_url": "https://www.calcalistech.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxa1Z6WVEzX0VlVEVQY0l2Q1lNLXZpRmtNRjFnc05qTGMtd0E3MWEwbHNZMEU0cDV2TFBGekk2QlVFVnhpaTl6dU1FZzNVZEVDQ0Z3a3VWTUxmRzlMTlV0UzVkREdXbkVw?oc=5",
+      "pub_date": 1790074800.0,
+      "article_url": "https://www.calcalistech.com/ctechnews/article/s1tqir19fl",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_196_1600_901_0_large.jpg",
+      "description": "The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel."
     },
     {
       "headline": "Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics",
-      "source": "cnet.com",
+      "source": "CNET",
       "source_url": "https://www.cnet.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFhzTmRaZnl1d0g4T1BtdWhVdjJhYlZvUGxENkc1bHluMUdyYmhfUzFuMU1XR2MxaVJqTTBnRF9lRkJQZXpTd1pCcUlXeTYwdUUyanB6b2FsVjYwSGE4MlQtdmpwYi1ndnRQYlZBYzB4T3V0dHdLQ20zVjlTaF9kS3k3a0xvbU1WZ0lITVo5QUdpWnJlWW5LYnFVNTZGSHNuTnc?oc=5",
       "pub_date": 1790040294.0,
       "article_url": "https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/baby-doll-GettyImages-1500300492.jpg",
       "description": "The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs."
+    },
+    {
+      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "pub_date": 1790078795.0,
+      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
     },
     {
       "headline": "Dancing humanoids from Unitree Robotics secure spot in America\u2019s Got Talent finale",
@@ -95,16 +95,16 @@
       "description": "Chinese robotics engineer Wu Yufei says the robots\u2019 rapid learning ability is \u2018quite terrifying\u2019."
     },
     {
-      "headline": "Gladstone BraveBots robotics coach resigns",
-      "source": "Upper Michigan's Source",
-      "source_url": "https://www.uppermichiganssource.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHlrTkx0VXVaVVFRN0JTaVRXQTRfbk90dnA1U1M4QjhFdWtOUXltTkVsSk1nSGhBanFhTFNTWHZScWZrQ2ZYdnROOXRDeVF4bVRCM1c1NmRkc0lMUkVkb0NZT0psMUZDdjFCODFkdUJEQjluREFSY3p4c2J5cUp4OThTVk1pSXBURlpQQUxmTmdCQW5ZNmc?oc=5",
-      "pub_date": 1790044560.0,
-      "article_url": "https://www.uppermichiganssource.com/2026/09/22/gladstone-bravebots-robotics-coach-resigns/",
-      "image": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/7LDJ4P4OZRBHFOXKK6Y2QRQS4A.jfif?auth=7022c3361bc0ba4cc8a1ed6e85af0ba13d0f09d2457d6ba02341cf5966056a8f&width=1200&height=600&smart=true",
-      "description": "Monday night, Tim Barron\u2019s letter of resignation was accepted by the Gladstone Area Schools Board of Education. Concerns over potential misconduct prompted him to turn in his resignation."
+      "headline": "Move Over, Tesla: This Robotics Stock Already Has Paying Customers",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXlmMTRsam9oTUFjT1pvMlhoQmpXbFFMempLaFFxZnlqcXpiQVVRUUVyMVZ6R1pNM01pa0t3QXF5akhGaVdFeFlySlBKeGZkc1I0QUl5X1dwYjhiUWNnMVplOFpid3FFVHozaVNLX2c3dlpHZUxqVUhIWDdJZko5ajQ5dE5md3RDQVVKTENuX1FKUjBzNlh3MUtrZw?oc=5",
+      "pub_date": 1790078940.0,
+      "article_url": "https://finance.yahoo.com/markets/stocks/articles/move-over-tesla-robotics-stock-120900012.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/ec8b38bc92dd23392398d2eafb038a6ae5f2fc9f265da0cb7cdc894559fa1e6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fff0f46804a87df5c770589b73967bf59.jpg",
+      "description": "Symbotic is a robotics pure play, already in the commercialization stage."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T17:10:04.320026+00:00"
+  "fetched_at": "2026-09-22T20:23:17.391417+00:00"
 }
