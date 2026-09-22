@@ -15,6 +15,26 @@
       "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
     },
     {
+      "headline": "OpenAI proposes development of global AI standards to guide alignment, RSI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaTRGOTJzeUlkUEZIcVdRUGgxS1JHMnBReFE1aWpiajIzQTNSRFJobGt5Z2pVckNKOENlRS1lWEM3V3J2WE5COTlOUnQ4Wlo3SXVTQmpXQklsUklVZmNETHlWeGpFU1dwLWfSAW9BVV95cUxNOWFKNlkxSnZDRVdiX2xHSFZjSUFGdnlISTVtX0dveWJKZUF4WGpDUkQtQ1FPMVB2SUtqMFNUd0x2ODNuOUFNeTBsQlBjRWxqLVVTMVdxTENrN1FFRml2SndWZkxReG5xUzBrdFBXMzg?oc=5",
+      "pub_date": 1790022101.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108357924-1788371101960-gettyimages-2292626724-g20_6273.jpeg?v=1790021169&w=1920&h=1080",
+      "description": "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety."
+    },
+    {
+      "headline": "UN panel calls for guardrails on AI as current safeguards are \u2018unraveling\u2019",
+      "source": "thehill.com",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWN2TWVXOEtZMnJSZmY0MmhOc1ZwVWNWNTRQOHg2eGRpYTg0LTZNdkVvU1duVjZabnF2VE1tQWFtdDhyMDBDUXhtQ1YwZ2RwaGRQVW42bnBpNTRVajR1V0JINHE2dlFvWkRkMENPNk12TG1TQkZIUW8ycFFvSGZGRdIBhgFBVV95cUxON1NEOGFMQldfV2tuSG5RSVRsdFdoOXBlc1phTndtNlZfczZlU0ptdmNDdGV1Y0dFTVV1MU5IVXVwNlM5SlV3Qzd2dEhFdk9oZ1MxN0hlZlhPSHpOOTNPVm5KRTNfVFlsSlN6eGp5ZHRLb2xmLXo0aVNOSGQ3UDFnaGhTWkNmdw?oc=5",
+      "pub_date": 1790035680.0,
+      "article_url": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "The A.I. Party House Where Networking Has a Dark Side",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,64 +45,44 @@
       "description": null
     },
     {
-      "headline": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTNBTjVVXzE2ZXpJdkoxcHo2cTNVVG1pZEs0dXhMU0d4dnNzcU5iZWppYkJMeVpCeWZVQ3dKSzVzZXNoeTltY3RJaXJtckQ2LXZnWlpGQ1V4Yi1HZUdjdFdPMUFua18weUpTazgweFp5YnlVTjB2RVJiTnVFMllTUThtQVlrT3liYnd1dmhfUGxiRHZOb3pub1dGR3pXbk9UMnZzV1hZdF96UUVLcTdWanZVc2YtaGtkZXNzY1ZCQQ?oc=5",
-      "pub_date": 1789492028.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
-      "description": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
+      "headline": "Scott Bessent meets with Chinese official on AI safety",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXNFSVJWM0NBUExUYTdybGFhQnl1NEdIV0xkcXlVb2EyUkt3bEh2WHg5QWZVbUJ1T2NhUzR1OGVZcHloTVBvblpUUUpCTTNfWTVnUnd4OXFCemNFNk5VLVBqUGRYY211cVJNeHVoU2hvQnpVMnNKSUxEaWZiWDB3ZjQwRnRUdnNyb2d4TmRIQzExeVlhRDBYdnRLWWhjQQ?oc=5",
+      "pub_date": 1790040202.0,
+      "article_url": "https://www.nbcnews.com/video/scott-bessent-meets-with-chinese-official-on-ai-safety-270262853834",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790039942555_now_staytuned_bessent_china_ai_safety_260921_S3_1920x1080-ok9mcq.jpg",
+      "description": "Treasury Secretary Scott Bessent says that the U.S. is proposing a new AI safety notification mechanism for President Trump and Chinese leader Xi Jinping to consider at their upcoming Washington summit. NBC News' Allie Canal reports on the ongoing U.S.-China discussions regarding AI safety."
     },
     {
-      "headline": "AI regulation debate heats up",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfSHp3aHg5bk14YXlSWWdCX25OS1RIUXJjSFBjUUx6MG9ITHoxNnp4aFo5UlBaWV9ycWJlSFd6dExKVlhYelVKY19Cckk5bW1WQTE5SlB2eTZDUlNIYWZZbDI4TkJmNXN4alNsVEFTOXFhQWVTWEdCTzFYTnI?oc=5",
-      "pub_date": 1790027643.0,
-      "article_url": "https://www.cnbc.com/video/2026/09/21/ai-regulation-debate-heats-up.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108365924-17900274881790027485-48524537621-1080pnbcnews.jpg?v=1790027487&w=1920&h=1080",
-      "description": "CNBC's Kate Rooney joins 'Fast Money' to talk the state of the AI regulation conversation and Pres. Trump pushes back on the government getting involved for a second time."
-    },
-    {
-      "headline": "Napster Developing AI Teacher Clones to Provide Personalized Homework Support",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzNlQkZ1VDZEQk5QT3hKXzcwTnR1Sk5CN2tmU0tya2dETkYtejE0clRIRnI2aVg5azdKQWxmbW1FdnNDcVpreGZWMGozMl9BQndwamhMaVFCTm5MU2JWZXZKTTJMckYyRy1iVU5ZQ1NvNm9TMGpqeFJfS3l5ejdfWnlCMkJVX1BibFV0XzNWeFpfNnVqM2pESDByTQ?oc=5",
-      "pub_date": 1790028065.0,
-      "article_url": "https://www.cnet.com/tech/services-and-software/napster-developing-ai-teacher-clones-education/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Napster-Learn.jpg",
-      "description": "The company, once a file-sharing app and then a streaming service, is teaming up with an educational organization in the Middle East to create virtual replicas of teachers."
-    },
-    {
-      "headline": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5",
-      "pub_date": 1790025681.0,
-      "article_url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108306883-1778770220615-108306883-1778759349633-gettyimages-2275560543-CHINA-US-DIPLOMACY.jpg?v=1790028089&w=1920&h=1080",
-      "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins."
-    },
-    {
-      "headline": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREVDR3ZKSlFTYzNVRFgxWENVN3RSaGpLY21Ta3ZBWmpVd2Zvb2FjOFVDd2pyeVA4WWhsSVl3WVRHUjdvSG5QdEZna0o4cmpXREdRRVZVTk8zNzlEYWtaZExKZmxMRllFQUJ4V05ydXRNOE9ESl81RzgwdFBJdnMzb2NGaFdDSXJoQ1UwU0ZiUDh0dHBoVll0ZXdJcUVfekw0a1hZZm8zSzh5NWtuWktMMVNqODhMUUFGeUpfUjVMMXJqamJBMGw1cUg1LXZwVXZLVmRBNA?oc=5",
-      "pub_date": 1789984800.0,
-      "article_url": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/189e5eb6f1fc0bd28e3873374ffd83a1c68dc7d9559327648a5a2cf1f944e4ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F401f6232-d687-4703-ab56-5f7bd62c2aad_e41666f8780ea00245798cfc102ef67809c1dd0078a8a23b84952382e2eb8aad.jpg",
-      "description": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September."
-    },
-    {
-      "headline": "AI fears hit Trump-Xi agenda",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVljb0lSVFVJYmNaMjVfWHY3YTY4M0M5YjJVaVh0OXIyLTZNaFlJTlZ5UmFSeV9kZkR2ZW8wOVFhYmR1Q0RDUDFaM1hOczVCTjFhdC1kakpDZjNTSDNJaFlnemo2N09WaVFnNUZNUnF5N3EyVFRaWVh5UlhtQjd2SE44VGtXa2vSAYwBQVVfeXFMTlVQVThRSUQyX1dlNXJiR1IxMUtaNU9xQ3h5aDM5MTBIMTl0T1ZvOTJQVFhQWFUtX291QmNQemUyQWw1SkcxSU5XbG5IMWo1VmxHaHpyWmd6cE8wRm1mRjdzMDEyNVBldGFjRkdVVjl1Z0dHYnp1SGFTTnJyZTJFenVHaWNvUzNFa01vSTQ?oc=5",
-      "pub_date": 1790026380.0,
-      "article_url": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/",
+      "headline": "Watch Low Expectations for US-China AI Talks",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTJ4RTRXdTlRUHZwdlFlODRLV1JDU3RSb0IxNmhnd1pKalJGREMxdlFQcV83WVpQRHlDeThlZUVybE5QdVVrVW9wOHZnMmxLUl9yZm5odnhaQTRNeFlPQTJYcHV4OG1KaU1FbVRzbjhpSEFBaDk0RFJhQktmY3I2dWNUWS0ycThieWZLbUFWUk9DNG9kekd2Zg?oc=5",
+      "pub_date": 1790037699.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2026-09-22/low-expectations-for-us-china-ai-talks-video",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI \u2018Actress\u2019 Tilly Norwood Glitches on Live TV in Surreal Nightmare",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVVnZFU5eEdrZEV1MmdUc2dldzctMWxEUmg0X2Y5OTFKZ3ctRDZTLUt2S0NmR3pXVk9lMExoMGpTQWhDdTRqeWNtS1QzUlhoM1hTLTRlbTU2WHVMeXVyaF9BbHBKaW55TTRzZmxpTUJsZkViVlJpQjJpX1JlN0J6OWZTQmVLclJMLXMwTkUtMTM5RFhGa3lJb1puV294UXdvcFZqTHJrQ1hZdDYyNGdjZUZB?oc=5",
+      "pub_date": 1790036531.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Piers-Morgan-Tilly-Norwood-Tim-Conti.jpg",
+      "description": "The AI-generated star spoke Cantonese, plotted \"treasons\" and baffled news anchors."
+    },
+    {
+      "headline": "Meta stock soars 11% on price target increase, Muse AI downloads",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3JRd2ozbzl0VjdQODBPQlY0T3NVZWR1ZHdOc3NPaU4ybERnX2czVmwzc1dRQnYyUFR1b2NSN0M5Z1ZOdlRUWjYzNzhXUmFkemFqV1RlTkptSnNVX2JiNlZMOG5CY0paUnhrZkpldWZhcWphSHJZcmJaUTFJWFE1LUFoYlJXTmkteVpEMjY2VmxlanVyN2ZpQTVFVlBpSUdRTmxIVEd2MWd6ajl0V1B2VERDMzBjSklMcTBfZFFDaw?oc=5",
+      "pub_date": 1790021462.0,
+      "article_url": "https://finance.yahoo.com/technology/article/meta-stock-soars-11-on-price-target-increase-muse-ai-downloads-180423756.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/9e7bde4205b0256c9234fc9b87dec7b3f428bc935c41db69cbb8bc31b7731679/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F57c44a5c-9024-473d-b81f-eb4cfa420cc7",
+      "description": "Meta rocketed higher Monday, closing out the trading day up more than 11%."
     },
     {
       "headline": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world'",
@@ -99,12 +99,12 @@
       "source": "Politico",
       "source_url": "https://www.politico.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2tPQ2RIbjFKMkFBSEhISXY3SkJ0SGZMbkVubW5BOGt1N01FUUdxZFYwanBzcDJid2VpQ1hYdjZnXzFZalRTMGVCd21xOWdWR0Q0R01vaTM4YmpJOUh0a0dEd0tSOXdqY3I0STFyUDhzZGpxUmV1SEpPdlhERDhEcXpvSVN3RWNpems2YVZR?oc=5",
-      "pub_date": 1789980900.0,
+      "pub_date": 1789981200.0,
       "article_url": "https://www.politico.com/live-updates/2026/09/21/congress/what-were-watching-01085964",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-21T22:44:10.599397+00:00"
+  "fetched_at": "2026-09-22T01:28:13.079497+00:00"
 }
