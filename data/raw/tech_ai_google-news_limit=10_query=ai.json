@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "pub_date": 1790092503.0,
-      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -25,86 +15,96 @@
       "description": null
     },
     {
-      "headline": "Meta\u2019s Muse AI is exploding in popularity\u2014and already drawing heated backlash from another tech giant",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGkycGZfS2VycXR5TUxfOTg2RlVabUl1cjhoWTdFZTN4NWd2dW5Ea003bXpPTkRKV0dwSFR0Vl9ia25aakZFTU40Z09OQm41M295TnNnblc4aTF0LV9kSklyS080ei1Ld0xTbHV1VmwtdTRmelNNVi1LYng1dVJtc2ctaG95VWVMOFJXWUZUSDk3R1J0Q3d0YzFoRmdncjFrU0E?oc=5",
-      "pub_date": 1790115060.0,
-      "article_url": "https://fortune.com/2026/09/22/metas-muse-ai-is-exploding-in-popularity-and-drawing-heated-backlash/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296543533-e1790113153124.jpg?resize=1200,600",
-      "description": "The app, which uses Meta's latest Muse Spark AI model, connects users to a range of services that its AI agent autonomously handles."
-    },
-    {
-      "headline": "Trump rebrands AI, rejects 'globalist scheme' to control tech",
-      "source": "foxbusiness.com",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWt3V01KcGRYZ21DaHpNb05uR09OWmNsa3JHdzRpbVpxUE1wc2xITEFIWVAzUXh3bjdPOU9SU2hacmFMNk5ydDJJdEhSQmlzTTdiUWktUEpmN2xBTFhkZWVwRVJxc01WT1RwWE80T3JGT200cnE5QjFXak1BQ3JzcjB5UUxMRmxrOGZiOS12NkFGdXZOTDJZ0gGcAUFVX3lxTE5DV200VG9BRmFyMnhNX0RWNXkzbURCTWRDYkpzaXRSV2toblA5RDZFVThOaXI4UjlXcGNtWkpIZHJfeEFCOGFNamY1YUp1RmFteVhwSzBzNVg0VktrRDIybkVrMUR3TGVUM1E4ZGFTSW95Qzg3S0Q4U2c0d2pZOENIdzhXb1A3STA0bUlDcjM5dElZeGwtV0V2ZUlsdA?oc=5",
-      "pub_date": 1790092641.0,
-      "article_url": "https://www.foxbusiness.com/politics/trump-rebrands-ai-rejects-globalist-scheme-control-tech",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/trump-un-speech-2026.jpg?ve=1&tl=1",
-      "description": "President Donald Trump rejected calls to regulate AI as a \"globalist scheme\" during a speech before the UN General Assembly, saying he will ensure the U.S. wins superintelligence."
-    },
-    {
-      "headline": "Maryland Gov. Wes Moore announces safety guardrails for AI",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXN3alpXMzBmOThqNG1LaW1DeERxVXVQNTJYS3FtaTR6bnp0MTA1Zi1iNzQ0S3oxYktPdF9idEpXNldRQnBqeGstek1mS1FYMGR0blMxVl85cV9FUEdtUmNoZS1ZUF9XZXZsZjI0Tk9UOXJabmVfQVFLTTRxNl9oRk0wVzlkcmwxdXNsRFc4MjdPVWFsamVrQV94dm5nU3M?oc=5",
-      "pub_date": 1790115960.0,
-      "article_url": "https://www.cbsnews.com/baltimore/video/maryland-gov-wes-moore-announces-safety-guardrails-for-ai/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/22/7b8d23e7-536f-4d7b-8309-efac8cb44fce/thumbnail/1200x630/587bc9573e59fd7037566ce6ec3f4311/1e4b28e5f14b380af68698523255619e.jpg",
-      "description": "Maryland Gov. Wes Moore announces safety guardrails for AI"
-    },
-    {
-      "headline": "On Wall Street, frustration is mounting that AI will hijack the climate debate",
-      "source": "latimes.com",
-      "source_url": "https://www.latimes.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODduc3RPN1BqdXNPR1VkMmZUMUxiWnRNNEJqYTBOX3hXendIUnpVVlJHQ3c3YTJhYkJselh3YTgyajNrbTNkQUc5ZHF6eWxIOW9BTHBSaHpYQS1maVYzcnFxY1hhc0huWnN0WmtYYVhHajcwQl9Kajd3YTNKVEphLUJjUklDal9SbjBvaWNabEhiNXNJcGRjbnBCYUxHbGhycDhnaEg3ajliSmpweVhTYzdac1hERXNwdXc1VWE1ZjJGUkls?oc=5",
-      "pub_date": 1790117615.0,
-      "article_url": "https://www.latimes.com/environment/story/2026-09-22/on-wall-street-frustration-is-mounting-that-ai-will-hijack-climate-debate",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/e31a2ab/2147483647/strip/true/crop/5611x2946+0+398/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F66%2F9006f2fb4c7fbc596b6acc2e1baa%2Fdata-centers-tennessee-9-9.jpg",
-      "description": "Some prominent bankers are asking the global finance industry not to let AI overshadow talks about reducing planet-warming pollution."
-    },
-    {
-      "headline": "Big Banks Say They\u2019re Uneasy About People Shopping via AI Agents",
-      "source": "gizmodo.com",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemRkVzFkMTVuMkZucU9JVXdfVndRWVVDZ3IwX2xFQXFtdHdmMHQ5emlGcTZRdE1DNHFmQV9TSmRyTXlmMzlhVEZzYWg5UHZNR0staTdTX0pxTjA2dU00Nm82XzVEbm9YWmRid3lVbEVKb0JSd3VOdmVFdXRzUmo1VWVZcVNaUlJWZzRmYWd2bmhyYjhwX09YWGtB?oc=5",
-      "pub_date": 1790117029.0,
-      "article_url": "https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443",
+      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
+      "pub_date": 1790105081.0,
+      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5",
-      "pub_date": 1790101437.0,
-      "article_url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108366327-1790098110960-108366327-1790098039573-gettyimages-2276204850-dellatorre-notitle260517_npJsl.jpg?v=1790098117&w=1920&h=1080",
-      "description": "OpenAI introduced GPT-6 Sol and GPT-6 Luna. Anthropic unveiled Claude Opus 5.5."
+      "headline": "Meta\u2019s New AI Agent Is an Instant Hit\u2014and the Backlash Has Already Begun",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00Ri03WHN1eHFSTkktU0lYVzNPZlB3R0VhSDNEN25KTDNYa0RPVmlzcXBscGlNUjBNYmRLd2dHNFZhaGpLblNPZHJEdDNmTHd2RUFiVkhLZ2k2d3lsZU1KeU5SZndZelNqRnFTbHhSdWZOVG8?oc=5",
+      "pub_date": 1790125920.0,
+      "article_url": "https://www.wsj.com/tech/ai/meta-ai-agent-muse-reactions-5bf236af",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Anthropic Releases a New \u2018Safest\u2019 A.I. Model Amid Slowdown Debate",
+      "headline": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkx2aS1YckpFZTN2THBPb0ZfVFg0VExIbVREMzZTUEM5aGdCNkdyY21RS29KRy1RaXZIZHJ1ZGptWE1oWWlrNmlSN0FMVS1yTkNlOGkzVWR4TlhDSUFvbkt1QXEtRUIxenAtVlhHTEJZS2p1VE9ySktQQnVNOTQwem5B?oc=5",
+      "pub_date": 1790102232.0,
+      "article_url": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ruth AI takes on gender wage gap and bias in LLMs",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU1PR1BOTnRTdThDSk1RX0V4Q2hPYWd0Zlpndi1mQUR4OXEteGtDNzdhZTB0cGx6dFFzelZHd3lsdzNZdEh5SWRoSHdDMDhCQktaVnU2NGZtUUxuR08yMzJnblhYYVMzdWdYWWRTV2JHcF9HeFpqdHhVVnhSc0VOT09TcTRSei1zeVJPYmdPc2RCSHFmd2RLZw?oc=5",
+      "pub_date": 1790125200.0,
+      "article_url": "https://www.cbsnews.com/sanfrancisco/video/ruth-ai-takes-on-gender-wage-gap-and-bias-in-llms/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/23/d842d7ec-9d96-480c-bc95-362db395592a/thumbnail/1200x630/8f7c8fc6a0afc3d8fabf30a06b4f0cc7/2f982d7fdfef3303702c5d154ea7f358.jpg",
+      "description": "An AI career strategist built for women is helping them close the gender wage gap. Ruth AI founder Valerie Chapman is on a mission to correct a societal construct. Max Darrow reports."
+    },
+    {
+      "headline": "New research shows AI behavior can be less safe with robots",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd05lckM2cVpTWnZhWU44aVpQVkUwMXJ5ZGpFUmxsTGxwdnZWRjJtWWliOGJSMG95Qk1EZ3Q5RDRKT1BueEFLTi1XUUM1RnlNa0ZNSGI0SFBQem9ZS29saldqZ01hQVpiVEtLZHBCSldxeWNkRE5KcFdUM0tjV1czaFB3QUFWN0l4SnhDS3lEYkFxcmlwaG9nSnBieDU0WndOS0pmTg?oc=5",
+      "pub_date": 1790127178.0,
+      "article_url": "https://www.nbcnews.com/video/new-research-shows-ai-behavior-can-be-less-safe-with-robots-270339653554",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790126929007_now_staytuned_ai_stab_robots_260922_S3_1920x1080-4ewdoy.jpg",
+      "description": "NBC News' Gadi Schwartz talks to Robocurve CEO Jay Choi and Robocurve Member of Technical Staff Edward Sun about the tests and research they are conducting on the safety of artificial intelligence and robots including models from both Open AI and Anthropic."
+    },
+    {
+      "headline": "Seattle bans AI-driven personal data in grocery pricing",
+      "source": "KOMO",
+      "source_url": "https://komonews.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPeXpDZ05qUGhoTEJZWE1FUV9mSDBhOVFGcENtSWVSRGNScGtnYmhiYlRuNHRCYzFYU3ZvWm5NOThuVEN0VUpGaWtYOGc2MzlhRmljSWItOXU5QUx2Ymh5cjMxcGc3Mm1yd3FSelVlWlEwN1hKSmZDMVlEcVBWU0Vtemk2S0NvbFVROVIweW04QWV5dVBJb2NNZEIwNThINjZBalNnSEoxaHJlWXlqZHJuWC1pZFBUbDhvTGF0QmJILTFSTXcwc3ltV2dwWElZQmtsMWdnMlFvSUI1UUpCUTk3eWpSM0kyZU9GaE9DV1ZoSGo0QXoxNUtCanpHb2ktRkZ2ZzR3WjYwclF3LVdCa3RXUmNCTzVHOG5KRWlrakttMlFIZkxma3h3aldiVV96MkNlcFZYelVjRVUzai01aExqZHFrZlRHRFdI?oc=5",
+      "pub_date": 1790125315.0,
+      "article_url": "https://komonews.com/news/local/seattle-bans-ai-driven-personal-data-in-grocery-pricing-safeway-grocer-trader-joes-pcc-market-of-choise-metrapolitan-market-new-policy-bans-personal-info-from-changing-grocery-prices-in-seattle",
+      "image": "https://komonews.com/resources/media2/16x9/4787/1320/0x1/90/186c8d9a-2f52-406e-b5a9-5ed907b2e505-GettyImages2285147627.jpg",
+      "description": "Seattle leaders approved new rules to stop grocery stores from using artificial intelligence and personal data to set prices, aiming to make grocery shopping fa"
+    },
+    {
+      "headline": "Anthropic and OpenAI release cheaper models as price war intensifies",
+      "source": "ft.com",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0REaFI3OHIxNmtEdnB6Vy01bUZPaWxoMU0zVm9SZTEyVU04cm1tSWdRNjBLTGJpTnJRd0ZWbFg4RDhac1NCTG1fVms5OTNfd3dta290enpZeTlTTnRScjRPM0NvbzJBRTFrN0I0bkNES0NJRVM5TUwyeHRLaTB3WVY1Skg?oc=5",
+      "pub_date": 1790094697.0,
+      "article_url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdedbe30e-aa84-4e20-ae09-94aa2dd53e1d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "New Claude and ChatGPT tools slash costs from earlier versions while promising better performance"
+    },
+    {
+      "headline": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5",
-      "pub_date": 1790097634.0,
+      "pub_date": 1790100399.0,
       "article_url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5",
-      "pub_date": 1790114485.0,
-      "article_url": "https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/",
-      "image": null,
-      "description": null
+      "headline": "Introducing GPT-6 Sol and Luna",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
+      "pub_date": 1790100425.0,
+      "article_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
+      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T23:10:16.593641+00:00"
+  "fetched_at": "2026-09-23T01:40:02.802851+00:00"
 }
