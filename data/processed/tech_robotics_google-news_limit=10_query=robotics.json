@@ -15,26 +15,6 @@
       "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
     },
     {
-      "headline": "Google Is Giving Away \u2018The Android Of Robotics\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm44QjhOQlVHdFN5NVBQZzYyeG5rUUYwNC1KdWUyNGQ4TERNZHVkZUhRV3oySnIxOFhhV1JTQ1ZHUWt3RzQ4UXkzSENuVTdyQVNCR01WZjd4YUp5OGRfcXVqbEpLN09zeU9heHRXZjRqQW5rS0o3ODctVnFoUEQ5aDlRbVZIYXVtUGw2WXNzQWdBbk9MdTdaNW9UOXh2emRS?oc=5",
-      "pub_date": 1790078400.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China slows humanoid robot IPO rush as hype outruns reality",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSll2MnZ6OEFUQ3RlRERmYlhlSFcyaldhWEVGRlR2ZlF2UW8wQ09qdmc5NnFhQ3c4M296Q0F1aXRyRm11dnVqc2FlTkVybGZBQTJfZkY1NmQ2dW8zSGNrdm5VWUZXTmdaSzdLdVJRMWJuemM3VC15bU1CQ05YNHE5VXRmRjI4YkxocVZGTHpTVXRLajFkaVZra29qdXdxVnBOeXVHbzJ1aV81czBtV2c?oc=5",
-      "pub_date": 1789959900.0,
-      "article_url": "https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks",
       "source": "Boston Dynamics",
       "source_url": "https://bostondynamics.com",
@@ -45,14 +25,24 @@
       "description": "Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)"
     },
     {
-      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
-      "pub_date": 1790096776.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
+      "pub_date": 1789971965.0,
+      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google Is Giving Away \u2018The Android Of Robotics\u2019",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm44QjhOQlVHdFN5NVBQZzYyeG5rUUYwNC1KdWUyNGQ4TERNZHVkZUhRV3oySnIxOFhhV1JTQ1ZHUWt3RzQ4UXkzSENuVTdyQVNCR01WZjd4YUp5OGRfcXVqbEpLN09zeU9heHRXZjRqQW5rS0o3ODctVnFoUEQ5aDlRbVZIYXVtUGw2WXNzQWdBbk9MdTdaNW9UOXh2emRS?oc=5",
+      "pub_date": 1790078400.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Intel let RealSense go. Now Cognex is paying $600 million to buy it",
@@ -65,18 +55,8 @@
       "description": "The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel."
     },
     {
-      "headline": "Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics",
-      "source": "Emory News",
-      "source_url": "https://news.emory.edu",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGs0amwxdVF5S2o4UXpDNXo3ZDdPZUp0cjR1dEZHaWdXTVZjS0tLOEk5N3B0bW5Uby04cS1wcjlNeGIwRjdHVEFZcF9JQ2F6alZnOVdVQVVDQ0lSSXphXzNpUExibkk5QVNzRldVNkhnd0s0VzRuZkU0Uk03Z2ZTYUxUWWg3czBjbTB1T21JY0NpNlV0TFAta1ZnbWVhdlR1ZlJDTGV0eXhKOGRUWi1oY1NnMFRsZmlTS21xSFZlbw?oc=5",
-      "pub_date": 1790072337.0,
-      "article_url": "https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics",
-      "image": "https://news.emory.edu/sites/emorynews/files/styles/og_image/public/2026-09/Emory-University-School-of-Medicine.jpg?itok=J3VuR86y",
-      "description": "One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies."
-    },
-    {
       "headline": "Dancing humanoids from Unitree Robotics secure spot in America\u2019s Got Talent finale",
-      "source": "scmp.com",
+      "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHZKNnBHbjlqdlFWN1hNalU3WmJ4b01KZG1kNGFuZ2Q0QVp6cmptYzBaZk1KNnJQQWR6cU9pSTd6cExobFNqQmtjUlpiVHR4VVlzNTVZWFRpSmZ2LUdQcUVVcHRYRU1oaXFVUVd4ZWlPUGh2anRTSnZCTDBTYXNrdTg4ZmlYVG1HNm5vNVEwSExTZWs4NHlqTmRwcjNGTGU1Yy1wbDF5Z1RRVXQwNWxMZVpTMUw?oc=5",
       "pub_date": 1789976066.0,
@@ -85,26 +65,46 @@
       "description": "Chinese robotics engineer Wu Yufei says the robots\u2019 rapid learning ability is \u2018quite terrifying\u2019."
     },
     {
-      "headline": "Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWU5d1ZnY1pVTGhSUFFzb2h6aDIxaWp6MHRoSWsySEpvOGdqMFpvNnRubTRTRXA0TG1JcXR4R0ZMRThwNjRLRmMtaU1Gb0FnWWJtWjRnV3doLWpTbzFkV0RiUERSMkhaVE40TTJSRFQ4VXRkUWtuOTQ5UnAwbFo2OHd6ZXFWQ3g4RHRXWg?oc=5",
-      "pub_date": 1790108155.0,
-      "article_url": "https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604",
+      "headline": "Gladstone BraveBots robotics coach resigns",
+      "source": "Upper Michigan's Source",
+      "source_url": "https://www.uppermichiganssource.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHlrTkx0VXVaVVFRN0JTaVRXQTRfbk90dnA1U1M4QjhFdWtOUXltTkVsSk1nSGhBanFhTFNTWHZScWZrQ2ZYdnROOXRDeVF4bVRCM1c1NmRkc0lMUkVkb0NZT0psMUZDdjFCODFkdUJEQjluREFSY3p4c2J5cUp4OThTVk1pSXBURlpQQUxmTmdCQW5ZNmc?oc=5",
+      "pub_date": 1790044560.0,
+      "article_url": "https://www.uppermichiganssource.com/2026/09/22/gladstone-bravebots-robotics-coach-resigns/",
+      "image": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/7LDJ4P4OZRBHFOXKK6Y2QRQS4A.jfif?auth=7022c3361bc0ba4cc8a1ed6e85af0ba13d0f09d2457d6ba02341cf5966056a8f&width=1200&height=600&smart=true",
+      "description": "Monday night, Tim Barron\u2019s letter of resignation was accepted by the Gladstone Area Schools Board of Education. Concerns over potential misconduct prompted him to turn in his resignation."
+    },
+    {
+      "headline": "Rise of the robots: How Aces Robotics sells gently used machines",
+      "source": "theglobeandmail.com",
+      "source_url": "https://www.theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVJCTi1DVVl0clowS29YTnFNcEJHNk14MGFpSUpZQURkSjBQVGdMdG9GcnJNM2R5RENyVFJURS1lTFduSExoQ2JKLTVHUDV4V01MYmoxdy10LUg5Y2Raa2FQYWpjdzlUY2pnSUp1ajRjaXJrSVA2RDVReTBnZFlUN1RCQWhrS195bHEzdkx0SzI4N2FBZFFnc0R6bDY1Q0cxV09DWWJkMlo1RXEyX2V5YV91djYybE9NNXV4ZA?oc=5",
+      "pub_date": 1790082000.0,
+      "article_url": "https://www.theglobeandmail.com/business/rob-magazine/article-how-aces-robotics-sells-gently-used-machines-rob-mag-2026/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/LHKLGSQLEFGAPAZJUW5RY3LNWM.jpg?auth=2cb757f680bfde69865d1cfe30f8a5ab7b346a0d7461dab54661ba3f44ac66fd&width=1200&height=800&quality=80&smart=true",
+      "description": "A six-month backlog for some new machines and a dearth of skilled labourers has given robot resurrector Aces Robotics a boost"
+    },
+    {
+      "headline": "Cognex to buy robotics firm RealSense in $500M deal (CGNX:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTFpckdpcURRNWlSaEdhaGNDM0tZaW94Tkp3RnJfdlltSHJaX1pMRUFFeW1HcjhKam1BdGFqYlNPT0tncExPMnUyc1dsRjNMNGl5ZTVtdV9icnRhUUdGdmRYdUo5OFFpbGw5M19GX05MYmw0U0NteS1VY0xLSkNJZktOTjZsUmZudkd1YjNDWi1kQQ?oc=5",
+      "pub_date": 1790076079.0,
+      "article_url": "https://seekingalpha.com/news/4645323-cognex-to-buy-robotics-firm-realsense-in-500m-deal",
       "image": null,
       "description": null
     },
     {
-      "headline": "Intrinsic open sources key parts of its platform for easier development",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQndrMEttWC1lTkpXUE8zZ05NaFRySmVPek4xWW85SjBzdUJVQ2VWMlFoNFdjZkVUbktSV19raFV2ZVZkYkthRDIwTm9SQXBnTXplVWJYcDNwV3RtemxFY2kwczZqNVlSamtqeERoS0cwLWJwbWFmTUFxZmtjekw4XzhzaURrMGNQWjNCSHRxV2NheWRQOWE4?oc=5",
-      "pub_date": 1790079175.0,
-      "article_url": "https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/intrinsic-featured.jpg",
-      "description": "With the release of Intrinsic Core, the company is making the key parts of its platform available to robotics developers."
+      "headline": "Folkestone school's robotics team aims to inspire next generation",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80bDlMWFJtdi1FbEZPbENTYU5OU3lKRmtMeWNwSlRjcVp5dHp3aXlXLTc5VEt3V0ZQRWk5RWtZVVl3X2oxbjZab2d3d041ekZOLVFYeDdQWUIzdjQ?oc=5",
+      "pub_date": 1789966510.0,
+      "article_url": "https://www.bbc.com/news/articles/cmwyz83xgn9jo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0c0c/live/72b29010-b0ff-11f1-a451-6b1ff10ed362.jpg",
+      "description": "The group from Folkestone is set to compete at the First Global Challenge in South Korea."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T01:39:58.055955+00:00"
+  "fetched_at": "2026-09-23T07:26:45.700926+00:00"
 }
