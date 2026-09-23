@@ -5,8 +5,18 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
+      "pub_date": 1790154122.0,
+      "article_url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
       "pub_date": 1790092503.0,
@@ -15,96 +25,86 @@
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
-      "pub_date": 1790092860.0,
-      "article_url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meta exec admits Muse AI agent was inspired by OpenClaw",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aNmdmTGJsRFlEbmI5Y0VMSFZaSG1QS29VWFJ5b2pBaXhqR3dDcHRRVE9FckVnNEJLZENHSTJmaXQzU3NxQ281bFFDVjZXUVBCcnN6Y1dJWVdDZloydHoxRnYxd2x1SzZHcFE?oc=5",
-      "pub_date": 1790168036.0,
-      "article_url": "https://qz.com/meta-muse-ai-agent-openclaw-inspired-092326",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2256811527-300x200.jpg",
-      "description": "Nat Friedman, head of product at Meta Superintelligence Labs, said the team bought hundreds of Mac minis so staff could use OpenClaw before building Muse"
-    },
-    {
-      "headline": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMDBERmFILVZVQnpRN0NlS25UeGp6bm9CYkdfT0labWcwVVBTNXVYbjZfbUZuTHFKbUFJeEtPaW9wSFEwTFNVMlVqMG8zTk10QndndGhvYi1DRkxOUHpydDYtV2dBdHBmc3h3Z1BwY1RrMTRMVEdveHR1MDJPeFhWcDdHNmkyLWtLY29IZG9rZUpXQUt2aEQ1Nl9FNlV1UFlGRmE0bzQ1eW9UMFdQRVBhVjNaR0FRTGhaMGVnY3ZUcXVWaDNyQWZQTWcwVXhXckpqcDg2NEl2NmNiVlMwREVILXJjUQ?oc=5",
-      "pub_date": 1790158165.0,
-      "article_url": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/57e2fd67d8781b7459485448b5e51ce558892dbee2e3db4a112e6bc6617efb7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fde9d5529-d29f-4555-a45b-c40e0686e00c",
-      "description": "The AI boom relies on this key metric."
-    },
-    {
-      "headline": "AI Skeptics Surrender Again as Traders Eye Path Forward for Tech",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1haQ0tSbVQtcEl0OXhTLTBvZVBKREdGRkxPN243NUliOFcta2x6bkpETENPMnpWQmZsa2hUUWM1QTV2b3RmWElSeVNGS2FKUU5zMzIzbl9rQkVrNTg4OHRxOFFqTl9tSEhMZDV0cW9WalluMG5kRWQwWmxsM0VqMTJEMWVKSFZvTzdYN1ZybkVPeHkxRDlzb0dSVDJERUdxT2tXVjEwd0RpQWw5SUZGZEljbnlOUQ?oc=5",
-      "pub_date": 1790166449.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/ai-skeptics-surrender-again-as-traders-eye-path-forward-for-tech",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Family life is about to change: AI quietly takes control of your home",
-      "source": "futura-sciences.com",
-      "source_url": "https://www.futura-sciences.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkQ4MUkxRDBkNnR6RjlWMnItVVhHa1hPSm0yRDBiWkZiZHgwUDVLV1ZreGZnRUNpS0kyRENGWThtRjNXdVVBY0VyRkdkU1BwN181WUxnM2l2MUVNWnR4N3BwbHpMb1JKZFBkQnVPNXBWN1BLOWlsRWlHbS1HME1MdlN3NVFSV2FDTldPb1k2LWlRSkdLaFU1RUdraVZBLUVmeDJTMEFGZklMZDNLdFZvbQ?oc=5",
-      "pub_date": 1790165224.0,
-      "article_url": "https://www.futura-sciences.com/en/family-life-is-about-to-change-ai-quietly-takes-control-of-your-home_900391/",
-      "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/09/family-life-is-about-to-change-ai-quietly-takes-control-of-your-home.webp",
-      "description": "CC: The Personal Agent Goes Family-Sized It all began at the end of 2025 when Google unveiled CC, a personal productivity agent designed to tap into your Google account and help you manage your daily tasks. And it took its job seriously\u2014every morning started with a helpful summary of the..."
-    },
-    {
-      "headline": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+      "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczZ5TVhnb0JkM3VYZzhRR0MyOGNxNkY1c1JLZlNDR3pEQzJ6c0p4R1F4SVBiSkE2eDUxY3RkclhzUkpsREtpV2c4QTUyd1FlQzRmNU1rTVI4SEFoSGJ5N2ExNnpwM21lQUhLZEZzQVFnQVY5bDJDX09LaFd0NW1oa21KYTNjbVR5dTN0bzY2R3bSAZYBQVVfeXFMUEZQTV8zRk5POGkzLVdDMDFuMGpvN3dJWUhMVFNmWDRoU291VmFMOVg1QWFwbzFNazNLSnJyclItWDQxWDJwa09lSU1Xc2pGWUlKYVM1YVJkbWQwMmx0bThxRkxoUW5iWmo0MWpmYk1nTTJKQkQxTDBVTDVYNFh0YkR3c2JSSFp0bzlDa2x6WXROUmI3WWNB?oc=5",
-      "pub_date": 1790149007.0,
-      "article_url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108306926-1778763497797-gettyimages-2275601892-AA_14052026_2779029.jpeg?v=1778763521&w=1920&h=1080",
-      "description": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese leaders, analysts told CNBC."
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRTVFTXJpb0lqMXZCM2ZJc08tVUFWQjd1dTdKOUhhVjFFV1REOXQ3SjlrNURZWnJfeVRRQTZ4S0d5anRKSk9QYWU2NjN6bzhfRHlrRTR4eEpiQnVuOHdudkdCMndLNkJhR3dna2tIQTdkVlpKYUNaMm42a3fSAYIBQVVfeXFMT0x1cHFQZ01KbDdkY1ozMTduSVk1TGhtRVZPS3RXMHR1YXMyNTNFbld1elJrVy1WdjlhMlZTamZKbzM2UXpFWVN4a2JMbEpjc01HNGR2aW9jZUc4RHo5ZjJZQ2V6clp3QTRyNnhLa0NxSEVUS0ZTTzZqQXU5U0xhOG45Zw?oc=5",
+      "pub_date": 1790164283.0,
+      "article_url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338168-1784667654662-gettyimages-2287095397-_75a1669_bsgcs6jm.jpeg?v=1789594575&w=1920&h=1080",
+      "description": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business."
     },
     {
-      "headline": "American power, AI and a walkout - key moments from Trump's UN speech",
+      "headline": "Meta's Muse rekindles fears over winners and losers as personal AI agent emerges",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNlVtTVRPc0JSamlpVlpnNHFRZ1FQWDE0OFpRN2JoTzhQZ2lXaDVJV2FkMjBGa0psQ2ZUWVpzbXIxbFVDS3M0eHVWWGI4aGxxZVotZGJXTHRocVhXZU9fbl9rX2xvbGFkSGIxazlPOXlVRlNISEVLTEFZNXlpRVI5V1JRS3k5N3JTLXZ3UEFnMXA5cktvaDEwa3V6dUhvTkZRTnotSnhKV2xRbDJjRTF4NW5Bd0VWcXVIZHJWbDgtLTM2M3c?oc=5",
+      "pub_date": 1790183632.0,
+      "article_url": "https://www.reuters.com/business/finance/metas-muse-rekindles-fears-over-winners-losers-personal-ai-agent-emerges-2026-09-23/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sMXhQZXJPY1JROEktMHBINDhfbm0yWjdheVAxTVB4Y0xuUEFyYXNVclB0dUo5Zlk5d0FoNVJ0Z0gwS3llSU05ZFFqcG5EQk5zc25UWXZQOWtOMVk?oc=5",
-      "pub_date": 1790106284.0,
-      "article_url": "https://www.bbc.com/news/articles/c6rm903e22lgo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4750/live/f9ba3d90-b6c9-11f1-a430-4d16ee157c41.jpg",
-      "description": "BBC correspondents who covered the president's address on Tuesday assess five key moments."
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0U3hfd0RZZXZuVkRZQW9mS3hONkUwbmR0Z2hzT3E2OWdzZHY4ZXFoNks0VFNlcm9URnctWWlQY1RhVzRWNEhaREY4NmkwNnJ5Q0pVQ3cyM2ExTlk?oc=5",
+      "pub_date": 1790174130.0,
+      "article_url": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg",
+      "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president."
     },
     {
-      "headline": "AI, trade, Taiwan and climate: what will and won\u2019t be on agenda at Trump-Xi summit",
-      "source": "theguardian.com",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDJDR085M3NUdWNkWExLcjhuTU5HM2NXOWFVdGphYjFpM2N2SERVNGpSNlIxWEROOVNmV3RiNWJUV2JQYWFIX1BjblR1Zy1VbmdZbW1lcnFoOXlNbmpveHpOeXhLTTBUMEEtdnlYVkJCTEcyMmpudkhrNENsWlBGdDBIbUFtUEpwQVZ5dEJHMVNpX1h3VmVpVEtn?oc=5",
-      "pub_date": 1790166060.0,
-      "article_url": "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate",
-      "image": "https://i.guim.co.uk/img/media/15c18bc82904f488535eaf7e006e43d651ee58ca/290_0_2903_2322/master/2903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e350e3234d8a67fe6337216aa94dde11",
-      "description": "Two leaders could discuss tech safety issues and US-China trade ties but may skip over climate emergency"
+      "headline": "Palantir Could Be Big Winner as Air Traffic Control Goes AI. The Stock Is Rising.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjNRTktob1lWdUl6SDdDYjAyNXJYejVlSDNkZUZ1Q3RnX3pqQ3M2NWxMdU1WM1hrWmV1dURZeHJDQ3ZXdEZleWYyR1VBQ1FBdDNPSVNhRk12OVlILWI1WlhqeHFkZV9GUGIwR3A4TmVmZ3k0TFdOV3pwNDhMYnZsLVdrTEMyUzZxeURN?oc=5",
+      "pub_date": 1790179920.0,
+      "article_url": "https://www.barrons.com/articles/palantir-stock-ai-faa-air-traffic-control-373cce03",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "China AI: Data centres rise from the rolling plains of Inner Mongolia",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQUlYZVhzbk03VkRPS0VhNDJjOFJEUk1EWllOdW5fV2MwdUdqcTNoQ2p1eUZCWDdsdG1kQnlhODZZVllPODVneTdkNXBuYTZwYlRkRFV4OU9HcjA?oc=5",
-      "pub_date": 1790114671.0,
-      "article_url": "https://www.bbc.com/news/articles/cm5ydz4kl65ro",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3e53/live/1223df10-b730-11f1-a430-4d16ee157c41.jpg",
-      "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington."
+      "headline": "Value investors retool their models to keep up with the AI stock market",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckZrVm1IZGZxX0t5S2xtUEVRWlR3WXdnekFsT0xGME5uRTFULW9fUDVXN2taU1pDMmdiMW1qQmJRdkZqRVJOdzF5Z1hRdjd0d1A0UHNlOTFEQWhPNkViV1RYYi10VHktVy1HclJQWmZZdHdydHNTZlpkMElPUFE1cGRxaWoyVmZKLXFSN01QUTE3aHJhY0NJ?oc=5",
+      "pub_date": 1790184666.0,
+      "article_url": "https://www.cnbc.com/2026/09/23/how-value-investors-are-adapting-to-the-ai-stock-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364035-17895893572026-09-16t200807z_380921315_rc2iknajbmh5_rtrmadp_0_usa-fed-stocks.jpeg?v=1790099157&w=1920&h=1080",
+      "description": "A more flexible definition of value has helped one fund outperform at a time when the fastest hands are rewarded for holding the hottest growth stocks."
+    },
+    {
+      "headline": "YouTube launches AI creator tools, expands shopping to 35 countries",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WbzhuVmtMd0pGck1qbkNZUXloUGNIOFdNa1hsUmJCb29JSnY3dUEyU2dwdzgwZ1hmNjhOaEpPZi1jQWs3MnVKcmY5WUJQaktNczd1QkZfTzNWVnBjMXNSaUZOMWZUYWNCcWt3d2FVeUg5VTA?oc=5",
+      "pub_date": 1790185328.0,
+      "article_url": "https://qz.com/youtube-ai-creator-tools-shopping-expansion-092326",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2165109386-300x200.jpg",
+      "description": "The company also introduced conversational video editing in Shorts, A/B testing for video cuts, and live auto-dubbing coming in early 2027"
+    },
+    {
+      "headline": "A global AI agreement with China is 'not possible': Former White House AI advisor",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BYWJDNmt0WkV5NXpMSmFMbXBGcmRFNFUxWVRlcVJFeXBHWkNQWE5GTFIxQlpfVzdmX21nUEFEdXNTa2M4aDY2WVk1US1FQ0pfakJOV2R3?oc=5",
+      "pub_date": 1790184582.0,
+      "article_url": "https://www.foxnews.com/video/6405496725112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/549003fd-2caf-43a7-990d-92b44267fc0e/444ad4a6-1585-4ca9-85dd-3e939a3cdd50/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Former White House AI advisor Sriram Krishnan discusses the challenges of reaching a global artificial intelligence agreement with China. Sriram also shares his vision of AI as an 'Iron Man suit' that enhances human capabilities."
+    },
+    {
+      "headline": "Gemini 3.8 text-to-speech says hello",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+      "pub_date": 1790177260.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+      "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T12:56:16.654554+00:00"
+  "fetched_at": "2026-09-23T17:45:42.102068+00:00"
 }

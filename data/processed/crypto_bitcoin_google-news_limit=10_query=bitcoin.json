@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFpLTUNSSWdzMWhIX0xFV3JFdUJiQ0RhaUNnMmN6STJOOTBDNDBTUkk4SjZhSm5WaUQ0X1E2RGUyY0cxLXVuYXZVUG02ZjJIcnFST3VUX01oY2ROVC1aOFozR2s5cEpUbzlEZEFJdWI1QmhoLTR0YVhPNFVabXRZY1ItdmY4bk5QLTBoem9uR3VjWjRaSW1PSHdITFJFbTJDNmphMktHcEM2blZvdUxoN2dYWVpmNlB0ckhGTWl3?oc=5",
+      "pub_date": 1790184517.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/457d09833c99e318ddb1644a7b5213c106532529-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its highest level since 2007."
+    },
+    {
       "headline": "'Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,34 +25,14 @@
       "description": "Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices."
     },
     {
-      "headline": "A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDZENWJnUDlZdDQzSlF4SHdrb09oN0YwTnpQWENxZmhXSWR1TWNvZjVzSkNNLXhTMjZCUjRJYkt4X0g5aEJfbl9yYUVuQk5UeXFtR2lJbDY4UkozMTlWcmFzZDY2Z0ctcGhBbEVlVEtPbF9sS3dOR0ZlNE9BbWJmV0VLZWF4OVFzV0dReWhmRHNxRTZVWlJsYm52NzdzeTQ?oc=5",
-      "pub_date": 1790165400.0,
-      "article_url": "https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin\u2019s Latest Bull Run Has a Violent Cost \u2014 UK Ranks Third on Crypto Attack Map",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONm4wcmcxWUhVNmYxMGw2cVdHNVN5bWRuMHc0Q2ladlhlMk9aWE8wZG1icW0zejhIaW81Y2hWd2dpRHA5cXE0ZW1waHhKaS1SWGRIYUVwQUt4WGpHUWhqOEZmRXBjejJoOW83YjhTZXVyclpleldIZk82bTNmcTRKSllCRUh4dVI1ZzA1OV95MUNnUQ?oc=5",
-      "pub_date": 1790162235.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/bitcoin-latest-bull-run-violent-111715307.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0d6b42265fea475dd63fc38374661ee48312f8b7b2867a14b5df5d2d29d3fad6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fbad04111c768d3d045773b750a8f2123.png",
-      "description": "The UK ranks third globally for publicly documented physical attacks targeting crypto holders, behind France and the United States. Jameson Lopp\u2019s database records 24 UK ..."
-    },
-    {
-      "headline": "JUST IN: Bloomberg publishes report titled \"Bitcoin Back at $100,000 Is Suddenly Not So Outlandish\" \ud83d\ude80 Bullish \ud83d\udc02",
-      "source": "Moomoo",
-      "source_url": "https://www.moomoo.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDNDeGljdl9HR09teEtfalVnXzg4T043VDhBYnp2aDItNGFTMVlaVkFyeXVqODA5cXYxN3BzVmp3ZWFMYlhBS1JuVVpJbXBGalhYU09oRHhvWE9WdWNNLXhST1EwU2hzcjNvX0NuWDQ5ZktzSnBPcUItc2JRTEdnT1NTOHlJOTFzaXZKX2wxaXFPWFU0VHVPVnZCRDdMMHZzaENJZHE5MEFYdWotUEFseU1nRnQ1QQ?oc=5",
-      "pub_date": 1790159258.0,
-      "article_url": "https://www.moomoo.com/community/feed/just-in-bloomberg-publishes-report-titled-bitcoin-back-at-100-117319877132693",
-      "image": "https://ussnsimg.moomoo.com/sns_client_feed/106126891/20260923/public/NN-DataMarket/8515/2102705167913058320-photo-08f228d3bdc430a20243fdeda31026884.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
-      "description": "@Bitcoin Magazine 13961 Views|3 Likes"
+      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
+      "pub_date": 1790168400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
+      "description": "Per Saylor, crypto is alive and well."
     },
     {
       "headline": "Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields",
@@ -55,56 +45,66 @@
       "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
     },
     {
-      "headline": "Bitcoin ETF Flows Turn Positive After $4.6 Billion Rebound",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1JRbkVIbWlSMldJb2xKaTNMZlk2RnJ1dTBkYllEMURIeTNDdzIzZXBWbEo1ODMtWmlESklSdS1Cek9FVXlGQWM3MzhrUUF5aXZYdTFIaTN5MW1GOFE3OTJsT3VMeTVzdWx4M2dZOFFDcUZxRTNCc0tqNFVtUDVrYWJ4S3ZFeWlZOTBBeWQ1a3Racl81SkRMWjhOV1VyaHdNZElHR2lkV1dvRlp5?oc=5",
-      "pub_date": 1790157495.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/bitcoin-etf-flows-turn-positive-after-4-6-billion-rebound",
+      "headline": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2JXX0l2aENCZTlLUWE0aDM5NDVCZUw1aTFNeW9HZkhmR3NsQm1uMkROM3dYcU9oZ1AyUldPWXNQcFFYUnQ3a01uUnUxbHJ1X3pxZDZWbW9fSHRudXR1U0JGc1pOUTNWVUxNdlE0TnQ1Z3lodi1IRU5CbGlfWDliYjdSVGNKd01YUmVhTGs1MEVHZkNkVE1YeGhQczJjd3Y5U2RHUzN3S0dlbFNxZTNNdUxnaGpYNy00MmtXYUpzNmNiUzVO?oc=5",
+      "pub_date": 1790175589.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bitcoin hits an 8-month high \u2014 and sends a clear message about risk appetite right now",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONTFER1lfV1p1Q09HcEQ4cDExYy0xdVNuS1c5MXdSaE5oY1QxWks4dEZKNU51dnRkeUlVU1dMSjFjUGFkNGRoSHBWbTNnNXAzQl9mZjFSVGJ2Q0NjaDR3dGdpRFByS3NxSEZobmliMy1Ha0duT0lyOVFrRFhVOTl3aW1DUTdZMVh4cE1DQ2ZtN2tvWXl0Z3l3Y0t5M1c3UGNmaEhNandSQ0pTREZNa0RLemFsUTAyRkRjZkljLWl5Z01wVGhaLXc?oc=5",
-      "pub_date": 1790074260.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5",
+      "headline": "Bitcoin Surges To 8-Month High, Trips Stock Of The Day Breakout",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVZOVVRJMHE0WWY4c3VUVWVGQ3NLaU9yNzVoQXNSS1c0dUhCRUh6dk5Sc2JRVENmZGlGMFRMTFdpbVhwS3pKR0x0LWpLbDcxM2xreDlpMlVCdzZ3eTdkekV1VzVVQlZrcDhQOEIwbFdqejRjYmFtV3lzMmNOMTJCMjJhcmlockY3X1R0d0NTMW5GZ3F6RzRIa3hFejVaOGVFU1lzODdEeFVNaGZGU28zMnBKMU1DUDg2M1hn?oc=5",
+      "pub_date": 1790015220.0,
+      "article_url": "https://www.investors.com/research/ibd-stock-of-the-day/bitcoin-surges-to-8-month-high-trips-stock-of-the-day-breakout/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/09/sotd-for-09-21-2026-desktop-2.png",
+      "description": "IBD Stock Of The Day: BlackRock's iShares Bitcoin Trust, ETFs break out as cryptocurrency prices surge near their best level of the year."
+    },
+    {
+      "headline": "Breakingviews - COMMENTARY: Bitcoin miners reveal the real AI scarcity trade",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE5oU01ueU0zN0t6Mlh0QU1vU3M5bDNTSHUwSU12RmR3M0JaUjlGSUFTbkF1ZGNqWHVCN2JuR1JsRW40RnZvMUlqZk5TOTR3cGI0Z0pGX0R3U1RWZTh2UmRsUUllQlYwa1MyZ0VpRk95cUdOOWVnRjczSkV6UUhrOUN1cVltOG1YVnNJbWRlTEczRGdoWDBuQ3JUM2NOMzhHNjhzTGE3NjY?oc=5",
+      "pub_date": 1790178171.0,
+      "article_url": "https://www.reuters.com/commentary/breakingviews/bitcoin-miners-reveal-real-ai-scarcity-trade-2026-09-23/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Elon Musk Is Quietly Preparing For The Next Bitcoin And Crypto Price Bull Run",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnBPcy1pN2theTlMSEFBb0JHQ3lLZi1mYjBsMUxaaFJLY2Z4ZmFDT0dENVVXNUdNeUl1MnlyWWRmbXJOOTIxVlZmekl5TXJYb1Q5YXFEYlozOVc3UjBxZ1kzZ1puRGR5bzllcThGbkI0U0REOTZPalM4ZTFfaEJQbEFoSi0xN2xYSGtXUFA1cGRZbk1mNHpua200TXdEbjcwaXpTUkF4SHhhRnJ6V0cyaE00SVNIcDBzS285RDFJR09JUkI2YkROYXFZQlNRUQ?oc=5",
-      "pub_date": 1790079741.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/22/elon-musk-is-quietly-preparing-for-the-next-bitcoin-and-crypto-price-bull-run/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Dips, But Its Forks Are Flying Again",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYzZfb0FqbHNXalgybjU5T2wzQUtHUkRUejM3N3dzUk1yaXVGVFJVejVDTlBfdW01bE9yMDh0NWt6WmdXV24wRFBEMU9wdnpEMWtFaG1YM0ptdWg4WVh6TmdOaFZXUFllUFcyUDZYVFhoYXA0NXfSAX5BVV95cUxOYjNRYVdCX3ZmY2ZKYXZGSlEtbk9JN0NUNGtiQjFveU9SRnJuY2xQSHRTUmh5NFpOVXNGRlFXYUdyOERsSHJFYjh2RFItWjJGSGQtWkNvSFhZcTZUZGpJOFFrRm84eUl1bzVOVUp4dkZ0WE5TVXlQOHdVMFhiY3c?oc=5",
+      "pub_date": 1790178963.0,
+      "article_url": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png",
+      "description": "A CME futures listing and a fresh Grayscale ETF filing sent two of the biggest Bitcoin forks soaring, even as the flagship coin cooled off."
     },
     {
-      "headline": "Bitcoin surged to an eight-month high above $85,000 as oil fell and ETF inflows returned",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BRHhsSDNaZ2VlVnhzYmRsci1zNk1kQ2JWNHJxNTNVRHFDSHFqcmVoVFg2TkJxYTdZMUhfMEJpb1hFS3RabDlJcVZZWEh4M3VJUUpaX0JUSWtHd0pxNUctNzg3Nkx0Q2JoT21EN2cwV1ZtQQ?oc=5",
-      "pub_date": 1789990992.0,
-      "article_url": "https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2239689526-300x200.jpg",
-      "description": "The cryptocurrency added nearly 5% on Monday, building on last week's gains despite a Fed rate hike and the failure of key crypto legislation"
+      "headline": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01MDhfTVpOYUtNNU1hTlEtc0FNNGJKNlJmWlVNZWhUZ3MxQVE5UE9JSDBEd0wzTndtSHZmcVZtUG5qZ2xhVC1TNFc0bTIxQkFWWkFSUmM5WEtzVVozTTB4RFVTM05rSWduUHFMcm5hSVZOelU?oc=5",
+      "pub_date": 1790095946.0,
+      "article_url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg",
+      "description": "Feds are trying to work out whether Binance violated US sanctions on Iran."
     },
     {
-      "headline": "CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlNXU0NmbzRkcHNyR0FjT25nSHZULUJ6ck5sai1hZEVNVTUxY2NET1VnMXBxT3l5N2pvQzgwRW5ob3k4dlRYQXVpVVkwZ0JScVVhOW9tQWJwYTdFcExaZE8tNFNveUdqQWlZbzlZQjhaSGZ0eUdIZkd1T2ZSTFhjcV94QkZPS0paNDdoYnZQdGthdDRDUlU4b09wQ0l2TlJQOHlLOVI4Z3pFVzdSV3U5Z0dmcXdkNE5qbFZVb05oVXozbDJyTGhSSw?oc=5",
-      "pub_date": 1790085371.0,
-      "article_url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/uniswap-v4.jpeg",
-      "description": "CME said its crypto futures and options averaged 279,800 contracts in daily volume in the first half of 2026, representing $8.3 billion in notional value."
+      "headline": "Gary Cardone Made $750,000 on Strategy's STRC Instead of Bitcoin, Says He'll Buy BTC at $70,000",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdWVTbWVPSDdGR05STUdHckxCTjJPT0pXZ3RXNVJVUWREdjVOSktqQnI4cUhQX1pwWWhMN2U1RGpJMnNEakdQc2NzMnB2bFZjTmJLRWpiZnllZ3l6ZTNxWVNrWkhhVWtvcEhJSk5mTXBKZnEtZEpKMWl5WFd4WVphS21fa3dIMG1wSGNLQzhkQXZ0UEd0OU82b19lUi1JNGpPbF94TzZ0SzlNOGQ2aS1adXd6UkFpbHMyMEJjT0RxTTZMZVVNRUFGSTl1V3JERlF0bko4NFBiLWxqQ01kbmx6UGF5cFVmUQ?oc=5",
+      "pub_date": 1790103721.0,
+      "article_url": "https://www.tradingview.com/news/benzinga:f57a9f25a094b:0-gary-cardone-made-750-000-on-strategy-s-strc-instead-of-bitcoin-says-he-ll-buy-btc-at-70-000/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Bitcoin CRYPTO:BTCUSD approached $86,000 after a 44% quarterly rally, but investor Gary Cardone says he isn\u2019t chasing the move.Cardone generated roughly $750,000 from Strategy\u2019s NASDAQ:MSTR STRC while waiting for a better BTC entry.\u2022 Where is MSTR stock headed?Cardone Says STRC Trade Paid Him $750K\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T12:56:23.030848+00:00"
+  "fetched_at": "2026-09-23T17:45:38.432444+00:00"
 }
