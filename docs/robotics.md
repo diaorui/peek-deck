@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-23T12:56:25.327384+00:00'
+updated: '2026-09-23T17:45:43.786785+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 23, 2026 at 12:56 UTC  
+**Last Updated:** September 23, 2026 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -68,7 +68,7 @@ My goal is to build a humanoid robot. All the resources online are scattered. So
 
 Boston Dynamics has opened a new facility in Savannah, Georgia focused on preparing Atlas humanoid robots for automotive manufacturing. The Robotics Metaplant Application Center is located inside Hyundai Motor Group Metaplant America and will be used to test and train Atlas on tasks including parts logistics, sequencing and placement. The idea is to train the robots in a factory-like environment without disrupting active production lines. More tasks are expected to be added as the systems improve. Boston Dynamics says Hyundai and Kia plants are expected to receive 25,000 Atlas robots over the next few years. The company is also planning a U.S. production facility with a target capacity of more than 30,000 robots per year by 2028.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/boston-dynamics-opens-georgia-facility-to-train-atlas-for-auto-factory-work) • 1d ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/boston-dynamics-opens-georgia-facility-to-train-atlas-for-auto-factory-work) • 2d ago
 
 ---
 
@@ -116,25 +116,9 @@ Before and after training
 
 ## Google News: "robotics"
 
-**[NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)**
+**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
-
-NVIDIA Blog • 1d ago
-
----
-
-**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
-
-Toyota's push comes as automakers race to develop and deploy humanoid robots.
-
-Ars Technica • 19h ago
-
----
-
-**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
-
-Reuters • 2d ago
+Qualcomm • 5h ago
 
 ---
 
@@ -144,17 +128,47 @@ Forbes • 1d ago
 
 ---
 
+**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
+
+Toyota's push comes as automakers race to develop and deploy humanoid robots.
+
+arstechnica.com • 1d ago
+
+---
+
+**[Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics](https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/)**
+
+The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs.
+
+CNET • 1d ago
+
+---
+
+**[Survey: People Don’t Want Humanoid Robots Until They Meet One](https://www.forbes.com/sites/johnkoetsier/2026/09/23/survey-people-dont-want-humanoid-robots-until-they-meet-one/)**
+
+Forbes • 52m ago
+
+---
+
 **[Meet the Roboticist Making Machines that Give Back to Nature](https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai)**
 
 Sustainability robotics sees the environment as more than inspiration
 
-IEEE Spectrum • 2d ago
+IEEE Spectrum • 1d ago
+
+---
+
+**[NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)**
+
+The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
+
+NVIDIA Blog • 1d ago
 
 ---
 
 **[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
 
-Gizmodo • 16h ago
+Gizmodo • 21h ago
 
 ---
 
@@ -166,25 +180,11 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage at Disrupt 2026](https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/)**
+**[A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets.](https://www.stocktitan.net/news/HCTI/healthcare-triangle-signs-letter-of-intent-to-pursue-the-proposed-nfrfck8j50hf.html)**
 
-Hello Robot CEO and co-founder Aaron Edsinger will demo Stretch 4 on the Real World AI Stage for the session. Register before Sept 25 to save up to $200.
+Roboticom reported about $14.1 million in fiscal 2025 revenue from unaudited data; HCTI has not verified projections. Actual results may differ materially.
 
-TechCrunch • 22h ago
-
----
-
-**[Move Over, Tesla: This Robotics Stock Already Has Paying Customers](https://finance.yahoo.com/markets/stocks/articles/move-over-tesla-robotics-stock-120900012.html)**
-
-Symbotic is a robotics pure play, already in the commercialization stage.
-
-Yahoo Finance • 1d ago
-
----
-
-**[In first Israel acquisition, Cognex buys Intel robotics spinoff for over $600 million](https://www.timesofisrael.com/in-first-israel-acquisition-cognex-buys-intel-robotics-spinoff-for-over-600-million/)**
-
-The Times of Israel • 21h ago
+Stock Titan • 4h ago
 
 ---
 
@@ -192,23 +192,23 @@ The Times of Israel • 21h ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 179K • 👍 2K • 💬 295 • ⏱️ 4:18 • 9h ago
-
----
-
 **[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
 
 In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
 
 📺 NBC News
 
-👁️ 42K • 👍 412 • 💬 123 • ⏱️ 3:34 • 14h ago
+👁️ 61K • 👍 512 • 💬 146 • ⏱️ 3:34 • 18h ago
+
+---
+
+**[Ask A Roboticist | Meet Diane | Boston Dynamics #robot #bostondynamics #robotics](https://www.youtube.com/watch?v=eTzDOGql56c)**
+
+Diane Heinle, a mechanical engineer, answers questions about endurance testing for Stretch, how her team simulates years of ...
+
+📺 Boston Dynamics
+
+👁️ 5K • 👍 415 • 💬 13 • ⏱️ 1:44 • 3h ago
 
 ---
 
@@ -218,7 +218,17 @@ ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI bet
 
 📺 ShanghaiEye魔都眼
 
-👁️ 15K • 👍 310 • 💬 45 • ⏱️ 5:10 • 21h ago
+👁️ 22K • 👍 387 • 💬 56 • ⏱️ 5:10 • 1d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 166K • 👍 1K • 💬 229 • ⏱️ 2:40 • 2d ago
 
 ---
 
@@ -228,17 +238,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 971K • 👍 15K • 💬 2K • ⏱️ 16:24 • 5d ago
-
----
-
-**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
-
-China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
-
-📺 Kalil 4.0
-
-👁️ 23K • 👍 330 • 💬 41 • ⏱️ 1:16 • 1d ago
+👁️ 980K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
@@ -248,7 +248,27 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 21K • 👍 140 • 💬 39 • ⏱️ 2:56 • 5d ago
+👁️ 21K • 👍 139 • 💬 39 • ⏱️ 2:56 • 6d ago
+
+---
+
+**[THIS ROBOT HORSE HAS NO BRAKES!](https://www.youtube.com/watch?v=-KNK-EVbd3Y)**
+
+Kawasaki has developed a futuristic robotic horse with four independently moving legs and AI-assisted balance. But the surprising ...
+
+📺 Climax view
+
+👁️ 8K • 💬 1 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
+
+China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
+
+📺 Kalil 4.0
+
+👁️ 26K • 👍 409 • 💬 50 • ⏱️ 1:16 • 1d ago
 
 ---
 
@@ -258,7 +278,7 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 772K • 👍 8K • 💬 1K • ⏱️ 1:00 • 5d ago
+👁️ 791K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -268,27 +288,7 @@ Over 7 million Ray-Ban Meta glasses were sold in 2025. That's 7 million cameras 
 
 📺 Proton
 
-👁️ 66K • 👍 2K • 💬 325 • ⏱️ 10:33 • 20h ago
-
----
-
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
-
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
-
-📺 Prime Insights
-
-👁️ 323K • 👍 4K • 💬 140 • ⏱️ 22:30 • 3d ago
-
----
-
-**[Day 4 of building my AI Desk Robot...](https://www.youtube.com/watch?v=ehaR7UHNkPY)**
-
-hardware #engineering #robotics #vibecoding.
-
-📺 Casey.aicreates
-
-👁️ 6K • 👍 308 • 💬 12 • ⏱️ 0:39 • 13h ago
+👁️ 72K • 👍 2K • 💬 344 • ⏱️ 10:33 • 1d ago
 
 ---
 
