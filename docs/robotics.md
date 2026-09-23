@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-23T17:45:43.786785+00:00'
+updated: '2026-09-23T21:11:23.402561+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 23, 2026 at 17:45 UTC  
+**Last Updated:** September 23, 2026 at 21:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,7 +118,7 @@ Before and after training
 
 **[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-Qualcomm • 5h ago
+Qualcomm • 9h ago
 
 ---
 
@@ -128,33 +128,39 @@ Forbes • 1d ago
 
 ---
 
-**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
-
-Toyota's push comes as automakers race to develop and deploy humanoid robots.
-
-arstechnica.com • 1d ago
-
----
-
-**[Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics](https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/)**
-
-The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs.
-
-CNET • 1d ago
-
----
-
-**[Survey: People Don’t Want Humanoid Robots Until They Meet One](https://www.forbes.com/sites/johnkoetsier/2026/09/23/survey-people-dont-want-humanoid-robots-until-they-meet-one/)**
-
-Forbes • 52m ago
-
----
-
 **[Meet the Roboticist Making Machines that Give Back to Nature](https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai)**
 
 Sustainability robotics sees the environment as more than inspiration
 
 IEEE Spectrum • 1d ago
+
+---
+
+**[Can you lend me a hand? Researchers are developing wearable robotic limbs](https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197)**
+
+Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body.
+
+theconversation.com • 6h ago
+
+---
+
+**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
+
+Toyota's push comes as automakers race to develop and deploy humanoid robots.
+
+Ars Technica • 1d ago
+
+---
+
+**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
+
+reuters.com • 2d ago
+
+---
+
+**[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
+
+Tech Xplore • 10h ago
 
 ---
 
@@ -168,23 +174,15 @@ NVIDIA Blog • 1d ago
 
 **[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
 
-Gizmodo • 21h ago
+Gizmodo • 1d ago
 
 ---
 
-**[Dancing humanoids from Unitree Robotics secure spot in America’s Got Talent finale](https://www.scmp.com/video/china/3368227/dancing-humanoids-unitree-robotics-secure-spot-americas-got-talent-finale)**
+**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
 
-Chinese robotics engineer Wu Yufei says the robots’ rapid learning ability is ‘quite terrifying’.
+One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
 
-South China Morning Post • 2d ago
-
----
-
-**[A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets.](https://www.stocktitan.net/news/HCTI/healthcare-triangle-signs-letter-of-intent-to-pursue-the-proposed-nfrfck8j50hf.html)**
-
-Roboticom reported about $14.1 million in fiscal 2025 revenue from unaudited data; HCTI has not verified projections. Actual results may differ materially.
-
-Stock Titan • 4h ago
+Emory News • 1d ago
 
 ---
 
@@ -192,43 +190,23 @@ Stock Titan • 4h ago
 
 ## YouTube Videos: "robotics"
 
+**[THIS ROBOT HORSE HAS NO BRAKES!](https://www.youtube.com/watch?v=-KNK-EVbd3Y)**
+
+Kawasaki has developed a futuristic robotic horse with four independently moving legs and AI-assisted balance. But the surprising ...
+
+📺 Climax view
+
+👁️ 21K • 💬 1 • ⏱️ 0:34 • 1d ago
+
+---
+
 **[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
 
 In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
 
 📺 NBC News
 
-👁️ 61K • 👍 512 • 💬 146 • ⏱️ 3:34 • 18h ago
-
----
-
-**[Ask A Roboticist | Meet Diane | Boston Dynamics #robot #bostondynamics #robotics](https://www.youtube.com/watch?v=eTzDOGql56c)**
-
-Diane Heinle, a mechanical engineer, answers questions about endurance testing for Stretch, how her team simulates years of ...
-
-📺 Boston Dynamics
-
-👁️ 5K • 👍 415 • 💬 13 • ⏱️ 1:44 • 3h ago
-
----
-
-**[&#39;Light of Future&#39; at WorldSkills2026: China-made humanoid robots take center stage](https://www.youtube.com/watch?v=pJp8Gw7Ztek)**
-
-ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI better than us. Please subscribe to us ☻☻☻
-
-📺 ShanghaiEye魔都眼
-
-👁️ 22K • 👍 387 • 💬 56 • ⏱️ 5:10 • 1d ago
-
----
-
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
-
-📺 South China Morning Post
-
-👁️ 166K • 👍 1K • 💬 229 • ⏱️ 2:40 • 2d ago
+👁️ 73K • 👍 610 • 💬 179 • ⏱️ 3:34 • 22h ago
 
 ---
 
@@ -238,7 +216,17 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 980K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 986K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+
+---
+
+**[&#39;Light of Future&#39; at WorldSkills2026: China-made humanoid robots take center stage](https://www.youtube.com/watch?v=pJp8Gw7Ztek)**
+
+ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI better than us. Please subscribe to us ☻☻☻
+
+📺 ShanghaiEye魔都眼
+
+👁️ 27K • 👍 416 • 💬 57 • ⏱️ 5:10 • 1d ago
 
 ---
 
@@ -248,27 +236,27 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 📺 DPCcars
 
-👁️ 21K • 👍 139 • 💬 39 • ⏱️ 2:56 • 6d ago
+👁️ 21K • 👍 140 • 💬 39 • ⏱️ 2:56 • 6d ago
 
 ---
 
-**[THIS ROBOT HORSE HAS NO BRAKES!](https://www.youtube.com/watch?v=-KNK-EVbd3Y)**
+**[NEW DEDOPALI Robot Gameplay: Is It Actually Good? - War Robots](https://www.youtube.com/watch?v=Zq8wgBwbHYM)**
 
-Kawasaki has developed a futuristic robotic horse with four independently moving legs and AI-assisted balance. But the surprising ...
+Taking the brand-new Dedopali robot out for its very first live server battles in Update 12.4! Let's see how this spider robot handles ...
 
-📺 Climax view
+📺 Adrian Chong
 
-👁️ 8K • 💬 1 • ⏱️ 0:34 • 1d ago
+👁️ 5K • 👍 186 • 💬 81 • ⏱️ 26:13 • 8h ago
 
 ---
 
-**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
+**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
 
-China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
+Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
 
-📺 Kalil 4.0
+📺 Prime Insights
 
-👁️ 26K • 👍 409 • 💬 50 • ⏱️ 1:16 • 1d ago
+👁️ 342K • 👍 4K • 💬 163 • ⏱️ 22:30 • 4d ago
 
 ---
 
@@ -278,7 +266,17 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 791K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
+👁️ 801K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 64K • 👍 834 • 💬 127 • ⏱️ 1:00 • 3d ago
 
 ---
 
@@ -288,7 +286,7 @@ Over 7 million Ray-Ban Meta glasses were sold in 2025. That's 7 million cameras 
 
 📺 Proton
 
-👁️ 72K • 👍 2K • 💬 344 • ⏱️ 10:33 • 1d ago
+👁️ 74K • 👍 2K • 💬 350 • ⏱️ 10:33 • 1d ago
 
 ---
 

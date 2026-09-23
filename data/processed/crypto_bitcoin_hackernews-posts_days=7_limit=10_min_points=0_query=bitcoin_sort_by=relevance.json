@@ -9,7 +9,7 @@
       "url": "https://news.ycombinator.com/item?id=49738879",
       "hn_url": "https://news.ycombinator.com/item?id=49738879",
       "author": "jakemanger",
-      "points": 318,
+      "points": 319,
       "num_comments": 275,
       "created_at": "2026-09-17T10:44:49Z",
       "object_id": "49738879",
@@ -89,6 +89,20 @@
       "site_name": "Space Daily"
     },
     {
+      "title": "Show HN: I built a Bitcoin full node from scratch in Rust",
+      "url": "https://github.com/realtonypark/mini-bitcoin",
+      "hn_url": "https://news.ycombinator.com/item?id=49821264",
+      "author": "realtonypark",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-09-23T19:29:34Z",
+      "object_id": "49821264",
+      "image": "https://opengraph.githubassets.com/69ffd14af7276d0113625664cb3380b31386888dacd06e70bad4d18f22f74671/realtonypark/mini-bitcoin",
+      "description": "A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Bitcoin decentralized usernames are now available",
       "url": "https://twitter.com/robin_linus/status/2102109957718151641",
       "hn_url": "https://news.ycombinator.com/item?id=49793186",
@@ -131,7 +145,7 @@
       "site_name": "RNZ"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 10,
   "has_metadata": true,
-  "fetched_at": "2026-09-23T17:45:12.670196+00:00"
+  "fetched_at": "2026-09-23T21:10:42.183703+00:00"
 }
