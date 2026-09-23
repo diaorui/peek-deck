@@ -5,38 +5,8 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Introducing GPT-6 Sol and Luna",
-      "source": "OpenAI",
-      "source_url": "https://openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5",
-      "pub_date": 1790110800.0,
-      "article_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "image": "https://images.ctfassets.net/kftzwdyauwt9/7fvmMcBIvMTXxVJh7NEMt1/48a75e624699bb1e218366c1d3522048/gpt-6-sol-luna-seo.png?w=1600&h=900&fit=fill",
-      "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-      "headline": "Introducing Claude Opus 5.5",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xbTN1a0tOdm9kT0JxbVBHMU9XYUhpUjd0MHNFYm8yd2pRMnhjdEYzdjF3ckZEY1V0a2ZQTXlyRUhteVozMlhDbVQ3Mm1KWlRYbUVF?oc=5",
-      "pub_date": 1790119546.0,
-      "article_url": "https://www.anthropic.com/claude-opus-5-5",
-      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
-      "description": "Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads."
-    },
-    {
-      "headline": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5",
-      "pub_date": 1790097634.0,
-      "article_url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
       "pub_date": 1790092503.0,
@@ -46,65 +16,95 @@
     },
     {
       "headline": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse",
-      "source": "reuters.com",
+      "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
-      "pub_date": 1790109510.0,
+      "pub_date": 1790092860.0,
       "article_url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Muse AI Has Raised Stakes for Meta Connect Keynote",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EakdKcTM0allYNGFtVmRsejY1aHN3ZklhUjR5T2djUlowSUVLLVRfY1VfUXJONlFuYnBKeVRyaWNGdHJlUWdPTHRkRXFDMjBsajhlOGZGWXFodVAtX2NESElRNzNZZGpJZjdybFdEQllOWFVCaGc?oc=5",
-      "pub_date": 1790147833.0,
-      "article_url": "https://www.barrons.com/articles/meta-connect-2026-muse-ai-1c069cf1",
+      "headline": "Meta exec admits Muse AI agent was inspired by OpenClaw",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aNmdmTGJsRFlEbmI5Y0VMSFZaSG1QS29VWFJ5b2pBaXhqR3dDcHRRVE9FckVnNEJLZENHSTJmaXQzU3NxQ281bFFDVjZXUVBCcnN6Y1dJWVdDZloydHoxRnYxd2x1SzZHcFE?oc=5",
+      "pub_date": 1790168036.0,
+      "article_url": "https://qz.com/meta-muse-ai-agent-openclaw-inspired-092326",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2256811527-300x200.jpg",
+      "description": "Nat Friedman, head of product at Meta Superintelligence Labs, said the team bought hundreds of Mac minis so staff could use OpenClaw before building Muse"
+    },
+    {
+      "headline": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMDBERmFILVZVQnpRN0NlS25UeGp6bm9CYkdfT0labWcwVVBTNXVYbjZfbUZuTHFKbUFJeEtPaW9wSFEwTFNVMlVqMG8zTk10QndndGhvYi1DRkxOUHpydDYtV2dBdHBmc3h3Z1BwY1RrMTRMVEdveHR1MDJPeFhWcDdHNmkyLWtLY29IZG9rZUpXQUt2aEQ1Nl9FNlV1UFlGRmE0bzQ1eW9UMFdQRVBhVjNaR0FRTGhaMGVnY3ZUcXVWaDNyQWZQTWcwVXhXckpqcDg2NEl2NmNiVlMwREVILXJjUQ?oc=5",
+      "pub_date": 1790158165.0,
+      "article_url": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/57e2fd67d8781b7459485448b5e51ce558892dbee2e3db4a112e6bc6617efb7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fde9d5529-d29f-4555-a45b-c40e0686e00c",
+      "description": "The AI boom relies on this key metric."
+    },
+    {
+      "headline": "AI Skeptics Surrender Again as Traders Eye Path Forward for Tech",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1haQ0tSbVQtcEl0OXhTLTBvZVBKREdGRkxPN243NUliOFcta2x6bkpETENPMnpWQmZsa2hUUWM1QTV2b3RmWElSeVNGS2FKUU5zMzIzbl9rQkVrNTg4OHRxOFFqTl9tSEhMZDV0cW9WalluMG5kRWQwWmxsM0VqMTJEMWVKSFZvTzdYN1ZybkVPeHkxRDlzb0dSVDJERUdxT2tXVjEwd0RpQWw5SUZGZEljbnlOUQ?oc=5",
+      "pub_date": 1790166449.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/ai-skeptics-surrender-again-as-traders-eye-path-forward-for-tech",
       "image": null,
       "description": null
     },
     {
-      "headline": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
+      "headline": "Family life is about to change: AI quietly takes control of your home",
+      "source": "futura-sciences.com",
+      "source_url": "https://www.futura-sciences.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkQ4MUkxRDBkNnR6RjlWMnItVVhHa1hPSm0yRDBiWkZiZHgwUDVLV1ZreGZnRUNpS0kyRENGWThtRjNXdVVBY0VyRkdkU1BwN181WUxnM2l2MUVNWnR4N3BwbHpMb1JKZFBkQnVPNXBWN1BLOWlsRWlHbS1HME1MdlN3NVFSV2FDTldPb1k2LWlRSkdLaFU1RUdraVZBLUVmeDJTMEFGZklMZDNLdFZvbQ?oc=5",
+      "pub_date": 1790165224.0,
+      "article_url": "https://www.futura-sciences.com/en/family-life-is-about-to-change-ai-quietly-takes-control-of-your-home_900391/",
+      "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/09/family-life-is-about-to-change-ai-quietly-takes-control-of-your-home.webp",
+      "description": "CC: The Personal Agent Goes Family-Sized It all began at the end of 2025 when Google unveiled CC, a personal productivity agent designed to tap into your Google account and help you manage your daily tasks. And it took its job seriously\u2014every morning started with a helpful summary of the..."
+    },
+    {
+      "headline": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQczZ5TVhnb0JkM3VYZzhRR0MyOGNxNkY1c1JLZlNDR3pEQzJ6c0p4R1F4SVBiSkE2eDUxY3RkclhzUkpsREtpV2c4QTUyd1FlQzRmNU1rTVI4SEFoSGJ5N2ExNnpwM21lQUhLZEZzQVFnQVY5bDJDX09LaFd0NW1oa21KYTNjbVR5dTN0bzY2R3bSAZYBQVVfeXFMUEZQTV8zRk5POGkzLVdDMDFuMGpvN3dJWUhMVFNmWDRoU291VmFMOVg1QWFwbzFNazNLSnJyclItWDQxWDJwa09lSU1Xc2pGWUlKYVM1YVJkbWQwMmx0bThxRkxoUW5iWmo0MWpmYk1nTTJKQkQxTDBVTDVYNFh0YkR3c2JSSFp0bzlDa2x6WXROUmI3WWNB?oc=5",
+      "pub_date": 1790149007.0,
+      "article_url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108306926-1778763497797-gettyimages-2275601892-AA_14052026_2779029.jpeg?v=1778763521&w=1920&h=1080",
+      "description": "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese leaders, analysts told CNBC."
+    },
+    {
+      "headline": "American power, AI and a walkout - key moments from Trump's UN speech",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wZElLYTA3N1pYMHNTa0dOTGpMT2dnUG9oQ0RYZE9KRm1VRnJJVWxLUFluRHpaT1V0SWpkMzBoODNpN0hhZGVJRnFHYWduMlN5eHJyMmN4ZXk?oc=5",
-      "pub_date": 1790092405.0,
-      "article_url": "https://www.bbc.com/news/videos/c8n5d9x10v14o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dd34/live/958ea3f0-b69d-11f1-b1d1-571ed4d7ff2c.jpg",
-      "description": "President Donald Trump announced at the UN General Assembly that all US government documents will now refer to Artificial Intelligence as Super Intelligence."
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sMXhQZXJPY1JROEktMHBINDhfbm0yWjdheVAxTVB4Y0xuUEFyYXNVclB0dUo5Zlk5d0FoNVJ0Z0gwS3llSU05ZFFqcG5EQk5zc25UWXZQOWtOMVk?oc=5",
+      "pub_date": 1790106284.0,
+      "article_url": "https://www.bbc.com/news/articles/c6rm903e22lgo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4750/live/f9ba3d90-b6c9-11f1-a430-4d16ee157c41.jpg",
+      "description": "BBC correspondents who covered the president's address on Tuesday assess five key moments."
     },
     {
-      "headline": "Asia's AI boom is spilling out of the stock market and into luxury spending",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemN2NDhMdVlPdW00RHFuRklEUGZJMDJOcEpCeU9CTTg4WUhQQTUxeHMyQjNWT185QTlTSDNUT1NqUENqMlNlZng0RVdGalJzUXJtTXFaeTZqX1BwMGdsU2ZIQ2F2dDVSdTlEQ3BrQ1JrU1o3Uzl6bmtVNnVkSWxzQ2lOakVxbHJSRGROd29KQWVDTmdmYUozeDdYYUpGc0lZWmpiV3lJS003Zw?oc=5",
-      "pub_date": 1790147664.0,
-      "article_url": "https://www.businessinsider.com/kospi-korea-stock-market-wealth-luxury-spending-hynix-samsung-japan-2026-9",
-      "image": "https://i.insider.com/6a5cde7c548c9c486b30dd67?width=1200&format=jpeg",
-      "description": "Chipmakers sparked North Asia's AI boom. Retailers and luxury brands are reaping the rewards."
+      "headline": "AI, trade, Taiwan and climate: what will and won\u2019t be on agenda at Trump-Xi summit",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRDJDR085M3NUdWNkWExLcjhuTU5HM2NXOWFVdGphYjFpM2N2SERVNGpSNlIxWEROOVNmV3RiNWJUV2JQYWFIX1BjblR1Zy1VbmdZbW1lcnFoOXlNbmpveHpOeXhLTTBUMEEtdnlYVkJCTEcyMmpudkhrNENsWlBGdDBIbUFtUEpwQVZ5dEJHMVNpX1h3VmVpVEtn?oc=5",
+      "pub_date": 1790166060.0,
+      "article_url": "https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate",
+      "image": "https://i.guim.co.uk/img/media/15c18bc82904f488535eaf7e006e43d651ee58ca/290_0_2903_2322/master/2903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e350e3234d8a67fe6337216aa94dde11",
+      "description": "Two leaders could discuss tech safety issues and US-China trade ties but may skip over climate emergency"
     },
     {
-      "headline": "AI Hallucinations Believed To Be Stoppable By Letting AI Know It Is Okay To Be Wrong Sometimes",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZmZRZWxzaWZDMlpfampubU5laHZqWVhkelA4RDVHLTJIdkwyVHZjSnNzSTdhYjFuTDl2RzUtbWcwYnVlcTZJSHp5eXZEdG5oVXNKbHV1OXZYM0dHSVkza09Yb3JpTmNqUW9EdDZYN2RMRDlTci1CS3BQeDJXanE4NnF4Rzhhd2s4YlJ6UXRmeXYwdE0tTzBidmNVbHB3bFpOc3FRMXBjcDdvcTJ0N1AxVVYxaTZrTnRzRDhyNGZxZzZlX1FVNXI1aENhelV2dkJqRnJGZ0h1ZnN4di12cjU4?oc=5",
-      "pub_date": 1790147700.0,
-      "article_url": "https://www.forbes.com/sites/lanceeliot/2026/09/23/ai-hallucinations-believed-to-be-stoppable-by-letting-ai-know-it-is-okay-to-be-wrong-sometimes/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "headline": "China AI: Data centres rise from the rolling plains of Inner Mongolia",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TU01kRktoN0FhQmxuaWdoSjEySXRYdHUzbGRDNXVRWC1nQzVJTm1qQVJWQnNuZ3hWYkpsakFTMjNUUC1fR2djaFFEbG9jcXBadjBhOHFINUI?oc=5",
-      "pub_date": 1790114628.0,
-      "article_url": "https://www.bbc.com/news/videos/cwe8ejvv0leno",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d1ba/live/c4418760-b64a-11f1-bc1f-3f186ca4140c.jpg",
-      "description": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence."
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQUlYZVhzbk03VkRPS0VhNDJjOFJEUk1EWllOdW5fV2MwdUdqcTNoQ2p1eUZCWDdsdG1kQnlhODZZVllPODVneTdkNXBuYTZwYlRkRFV4OU9HcjA?oc=5",
+      "pub_date": 1790114671.0,
+      "article_url": "https://www.bbc.com/news/articles/cm5ydz4kl65ro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3e53/live/1223df10-b730-11f1-a430-4d16ee157c41.jpg",
+      "description": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T07:26:44.076558+00:00"
+  "fetched_at": "2026-09-23T12:56:16.654554+00:00"
 }

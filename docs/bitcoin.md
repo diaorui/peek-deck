@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-23T07:26:47.365026+00:00'
+updated: '2026-09-23T12:56:25.318109+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 23, 2026 at 07:26 UTC  
+**Last Updated:** September 23, 2026 at 12:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,607.08
+### $85,508.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +12.9%  
-**30d:** +9.9%  
-**90d:** +43.6%  
-**1y:** -23.8%  
+**24h:** -1.0%  
+**7d:** +11.8%  
+**30d:** +8.8%  
+**90d:** +42.2%  
+**1y:** -24.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1734.99B
+**Market Cap:** $1715.71B
 Rank #1
 
-**Circulating Supply:** 20,088,181 BTC
+**Circulating Supply:** 20,088,234 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.5%
+-32.2%
 
 **All-Time Low:** $67.81
-+127255.8%
++125869.6%
 
 ---
 
@@ -153,15 +153,29 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[On the Chain: Bitcoin holds near US$87,000 as ETF buying powers crypto rebound](https://au.finance.yahoo.com/news/chain-bitcoin-holds-near-us-053300059.html)**
+**[A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks](https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html)**
 
-Bitcoin is holding close to US$87,000 as institutional buying gathers pace, helping lift the global cryptocurrency market back above US$3 trillion for the first time since January. The world's largest cryptocurrency was recently trading at about US$86,779, up around 2% over the latest session...
+MLive.com • 46m ago
 
-Yahoo Finance Australia • 1h ago
+---
+
+**[Bitcoin’s Latest Bull Run Has a Violent Cost — UK Ranks Third on Crypto Attack Map](https://www.yahoo.com/news/world/articles/bitcoin-latest-bull-run-violent-111715307.html)**
+
+The UK ranks third globally for publicly documented physical attacks targeting crypto holders, behind France and the United States. Jameson Lopp’s database records 24 UK ...
+
+Yahoo • 1h ago
+
+---
+
+**[JUST IN: Bloomberg publishes report titled "Bitcoin Back at $100,000 Is Suddenly Not So Outlandish" 🚀 Bullish 🐂](https://www.moomoo.com/community/feed/just-in-bloomberg-publishes-report-titled-bitcoin-back-at-100-117319877132693)**
+
+@Bitcoin Magazine 13961 Views|3 Likes
+
+Moomoo • 2h ago
 
 ---
 
@@ -169,59 +183,41 @@ Yahoo Finance Australia • 1h ago
 
 The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
 
-Fox Business • 19h ago
+Fox Business • 1d ago
 
 ---
 
-**[Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties](https://www.miamiherald.com/news/nation-world/article317287979.html)**
+**[Bitcoin ETF Flows Turn Positive After $4.6 Billion Rebound](https://www.bloomberg.com/news/articles/2026-09-23/bitcoin-etf-flows-turn-positive-after-4-6-billion-rebound)**
 
-Jeffrey Epstein aligned with MIT and the man who cut the ribbon for Trump’s gold statue in Doral in his quest to champion cryptocurrencies.
-
-Miami Herald • 21h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[Bitcoin surges to 8-month high above $85,000](https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126)**
+**[Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Elon Musk Is Quietly Preparing For The Next Bitcoin And Crypto Price Bull Run](https://www.forbes.com/sites/digital-assets/2026/09/22/elon-musk-is-quietly-preparing-for-the-next-bitcoin-and-crypto-price-bull-run/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin surged to an eight-month high above $85,000 as oil fell and ETF inflows returned](https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126)**
 
 The cryptocurrency added nearly 5% on Monday, building on last week's gains despite a Fed rate hike and the failure of key crypto legislation
 
-qz.com • 1d ago
+qz.com • 2d ago
 
 ---
 
-**[Bitcoin’s Promise Highlighted At United Nations Digital Cooperation Event](https://www.forbes.com/sites/frankcorva/2026/09/22/bitcoins-promise-highlighted-at-united-nations-digital-cooperation-event/)**
+**[CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows](https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049)**
 
-Forbes • 19h ago
+CME said its crypto futures and options averaged 279,800 contracts in daily volume in the first half of 2026, representing $8.3 billion in notional value.
 
----
-
-**[Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight](https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050)**
-
-Coinbase integrates Morpho Midnight to offer USDC loans backed by bitcoin, with the rate and repayment date set upfront.
-
-The Block • 17h ago
-
----
-
-**[Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns](https://bitcoinmagazine.com/news/bitcoin-etf-investors-buy-nearly-1-billion)**
-
-The last time one-day ETF investment was this high was the day bitcoin’s price broke a new all-time high.
-
-Bitcoin Magazine • 11h ago
-
----
-
-**[Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-attract-nearly-1-145600491.html)**
-
-Spot Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) attracted nearly $1 billion U.S. of capital on Sept. 21 as...
-
-Yahoo Finance • 16h ago
-
----
-
-**[Bitcoin Jumps to Over $84,800 After ETF Flows Turn Positive](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000)**
-
-Bloomberg.com • 1d ago
+The Block • 23h ago
 
 ---
 
@@ -231,7 +227,7 @@ Bloomberg.com • 1d ago
 
 **[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
 
-⬆️ 318 • 💬 275 • 5d ago
+⬆️ 318 • 💬 275 • 6d ago
 
 ---
 
@@ -239,13 +235,13 @@ Bloomberg.com • 1d ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 2d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 3d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 15h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 20h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -259,7 +255,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 2 • 💬 3 • 3d ago
+⬆️ 2 • 💬 3 • 4d ago
 
 ---
 
@@ -289,7 +285,7 @@ https://t.co/GktyWFbTdN
 
 Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
 
-⬆️ 1 • 💬 0 • 5d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
+⬆️ 1 • 💬 0 • 6d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
 
 ---
 
@@ -305,23 +301,23 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin &amp; Crypto Will Create Multi Millionaires But Not Everyone Is Paying Attention To This](https://www.youtube.com/watch?v=uJZ4WyeO2f4)**
+
+You do all know the rich people are literally spelling out for us whats happening on the planet right now right? Didnt anyone think ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 2K • 👍 578 • 💬 87 • ⏱️ 17:26 • 1h ago
+
+---
+
 **[The UNTHINKABLE is About to Happen to Crypto](https://www.youtube.com/watch?v=qr339lY_ChY)**
 
 The UNTHINKABLE is About to Happen to Crypto. Claim $25 bonus on a $100 deposit: ...
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 2K • 💬 70 • ⏱️ 11:20 • 7h ago
-
----
-
-**[Bitcoin: Where I Went Wrong](https://www.youtube.com/watch?v=iWBLplyqhl4)**
-
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
-
-📺 Benjamin Cowen
-
-👁️ 76K • 👍 5K • 💬 645 • ⏱️ 33:00 • 5h ago
+👁️ 81K • 👍 2K • 💬 90 • ⏱️ 11:20 • 12h ago
 
 ---
 
@@ -331,7 +327,17 @@ With Bitcoin at its highest level since January, Chris Perkins believes crypto i
 
 📺 Schwab Network
 
-👁️ 9K • 👍 96 • 💬 4 • ⏱️ 5:13 • 11h ago
+👁️ 11K • 👍 104 • 💬 6 • ⏱️ 5:13 • 16h ago
+
+---
+
+**[Bitcoin: Where I Went Wrong](https://www.youtube.com/watch?v=iWBLplyqhl4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 155K • 👍 7K • 💬 920 • ⏱️ 33:00 • 11h ago
 
 ---
 
@@ -341,7 +347,7 @@ Bitcoin is ripping at $86000 as nearly $1 billion flows into ETFs and even longt
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 50 • ⏱️ 14:23 • 8h ago
+👁️ 27K • 👍 1K • 💬 57 • ⏱️ 14:23 • 13h ago
 
 ---
 
@@ -351,7 +357,37 @@ Matt Cole CEO of Strive, joins Isabelle Lee and Tim Stenovec on "Bloomberg Crypt
 
 📺 Bloomberg Television
 
-👁️ 16K • 👍 102 • 💬 19 • ⏱️ 6:56 • 8h ago
+👁️ 21K • 👍 139 • 💬 20 • ⏱️ 6:56 • 13h ago
+
+---
+
+**[How Much Higher Can Bitcoin &amp; Crypto Go In This Rally?](https://www.youtube.com/watch?v=QMPoSgb1PEY)**
+
+This crypto rally has momentum, but every move has a ceiling. Kyle Doops breaks down the key price levels, market structure ...
+
+📺 Crypto Banter
+
+👁️ 19K • 👍 983 • 💬 17 • ⏱️ 46:54 • 4h ago
+
+---
+
+**[Bitcoin Is Up 45% This Quarter - And Wall Street Is Piling Back In](https://www.youtube.com/watch?v=mgrCrhbipoo)**
+
+Bitcoin #Crypto #finance Bitcoin is holding near $85K as ETF demand surges, with nearly $1 billion flowing into U.S. spot funds in ...
+
+📺 The Wolf Of All Streets
+
+👁️ 28K • 👍 709 • 💬 130 • ⏱️ 1:02:53 • 22h ago
+
+---
+
+**[🚨 HUGE: RECORD INSTITUTIONAL BITCOIN BUYING CONFIRMED!](https://www.youtube.com/watch?v=A_NlWhnMzz8)**
+
+We're breaking down the institutional Bitcoin buying that just hit 2026 records in ETF inflows — this is the kind of capital entry that ...
+
+📺 Tim Warren
+
+👁️ 9K • 👍 543 • 💬 80 • ⏱️ 35:01 • 17h ago
 
 ---
 
@@ -361,47 +397,7 @@ John Koudounis, CEO of Calamos Investments, discusses AI investing, oil, Fed pol
 
 📺 CNBC Television
 
-👁️ 11K • 👍 62 • 💬 15 • ⏱️ 5:31 • 15h ago
-
----
-
-**[🚨 BTC &amp; ETH: THIS MAKES NO SENSE!!! HONEST DIVE!!!](https://www.youtube.com/watch?v=7LurmShXt5g)**
-
-Bitcoin has pumped to 87k! Here is what caused it and my market theory going forward! ---------- Join My FREE Trading Group ...
-
-📺 Thomas Kralow
-
-👁️ 16K • 👍 1K • 💬 45 • ⏱️ 12:07 • 21h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=ZJt2UpRCgS8)**
-
-Free Trading Course https://rt1m.com/free Kraken 10% Cashback on Trading Fees: ...
-
-📺 Road To $1 Million USD
-
-👁️ 6K • 👍 261 • 💬 41 • ⏱️ 10:18 • 10h ago
-
----
-
-**[Bitcoin Just EXPLODED 13%… Here’s Why 🚀](https://www.youtube.com/watch?v=JNGec6ihA8k)**
-
-Bitcoin surged 13% in just five days despite a failed crypto bill and a Fed rate hike! Why did BTC rally when the headlines ...
-
-📺 Ross Givens
-
-👁️ 14K • 👍 330 • 💬 17 • ⏱️ 2:08 • 15h ago
-
----
-
-**[THIS IS DANGEROUS FOR BITCOIN…](https://www.youtube.com/watch?v=Snq-MHxpKm8)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 3K • 👍 414 • 💬 29 • ⏱️ 11:12 • 2h ago
+👁️ 11K • 👍 62 • 💬 15 • ⏱️ 5:31 • 21h ago
 
 ---
 
