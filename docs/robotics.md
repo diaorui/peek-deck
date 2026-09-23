@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-23T07:26:47.374528+00:00'
+updated: '2026-09-23T12:56:25.327384+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 23, 2026 at 07:26 UTC  
+**Last Updated:** September 23, 2026 at 12:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ This is and old video of my droid trooper robot, he doesn't like to be bothered.
 
 This started as a small experiment: could I build a “video game” where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It’s still very much a prototype and there are plenty of things that don’t work perfectly yet. I’ve mostly tested it myself and with my kids, so I’m curious what people here think about the concept. I’m especially interested in the robotics side — remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ This started as a small experiment: could I build a “video game” where nothi
 
 We’ve been building a larger version of Microduck, and we’ve finally got it walking. We call it XDuck. XDuck is a bipedal robot standing about 56.8 cm tall and weighing 10.352 kg. Not so micro anymore. At this size, it’s starting to look a bit like Disney’s BDX droids. Right now, we’re working on policy-based locomotion. This video shows our first walking results. Next up is getting it to squat down and stand back up. The biggest issue at the moment is structural strength. Our current 3D-printed parts are struggling with the robot’s weight, so we’re looking into different materials and ways to redesign the load-bearing structure. If you’ve worked on similarly sized bipeds or embodied AI hardware, we’d love to compare notes. What materials or structural changes helped most with strength and reliability? We’re also still figuring out XDuck’s appearance, so ideas for the design are welcome.
 
-19h ago
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ We’ve been building a larger version of Microduck, and we’ve finally got it 
 
 My goal is to build a humanoid robot. All the resources online are scattered. Someone is telling to learn kynamtics and maths first and someone is saying start with electric soldering. Can someone please tell me where I should start from
 
-22h ago
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ We have an operator UI on Ubuntu, the screen techs use to calibrate and run the 
 
 Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ Hi everyone, I'm building a robotic arm and I'm currently working on the gripper
 
 Before and after training
 
-1d ago
+2d ago
 
 ---
 
@@ -120,35 +120,41 @@ Before and after training
 
 The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
 
-NVIDIA Blog • 19h ago
+NVIDIA Blog • 1d ago
 
 ---
 
-**[Boston Dynamics Opens Robotics Metaplant Application Center to Train Humanoid Robots for Manufacturing Tasks](https://bostondynamics.com/news/boston-dynamics-opens-robotics-metaplant-application-center-to-train-humanoid-robots-for-manufacturing-tasks/)**
+**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
 
-Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)
+Toyota's push comes as automakers race to develop and deploy humanoid robots.
 
-Boston Dynamics • 1d ago
+Ars Technica • 19h ago
 
 ---
 
 **[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
 
-reuters.com • 2d ago
+Reuters • 2d ago
 
 ---
 
 **[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
 
-Forbes • 19h ago
+Forbes • 1d ago
 
 ---
 
-**[Intel let RealSense go. Now Cognex is paying $600 million to buy it](https://www.calcalistech.com/ctechnews/article/s1tqir19fl)**
+**[Meet the Roboticist Making Machines that Give Back to Nature](https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai)**
 
-The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.
+Sustainability robotics sees the environment as more than inspiration
 
-calcalistech.com • 20h ago
+IEEE Spectrum • 2d ago
+
+---
+
+**[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
+
+Gizmodo • 16h ago
 
 ---
 
@@ -156,37 +162,29 @@ calcalistech.com • 20h ago
 
 Chinese robotics engineer Wu Yufei says the robots’ rapid learning ability is ‘quite terrifying’.
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
-**[Gladstone BraveBots robotics coach resigns](https://www.uppermichiganssource.com/2026/09/22/gladstone-bravebots-robotics-coach-resigns/)**
+**[Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage at Disrupt 2026](https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/)**
 
-Monday night, Tim Barron’s letter of resignation was accepted by the Gladstone Area Schools Board of Education. Concerns over potential misconduct prompted him to turn in his resignation.
+Hello Robot CEO and co-founder Aaron Edsinger will demo Stretch 4 on the Real World AI Stage for the session. Register before Sept 25 to save up to $200.
 
-Upper Michigan's Source • 1d ago
-
----
-
-**[Rise of the robots: How Aces Robotics sells gently used machines](https://www.theglobeandmail.com/business/rob-magazine/article-how-aces-robotics-sells-gently-used-machines-rob-mag-2026/)**
-
-A six-month backlog for some new machines and a dearth of skilled labourers has given robot resurrector Aces Robotics a boost
-
-theglobeandmail.com • 18h ago
+TechCrunch • 22h ago
 
 ---
 
-**[Cognex to buy robotics firm RealSense in $500M deal (CGNX:NASDAQ)](https://seekingalpha.com/news/4645323-cognex-to-buy-robotics-firm-realsense-in-500m-deal)**
+**[Move Over, Tesla: This Robotics Stock Already Has Paying Customers](https://finance.yahoo.com/markets/stocks/articles/move-over-tesla-robotics-stock-120900012.html)**
 
-Seeking Alpha • 20h ago
+Symbotic is a robotics pure play, already in the commercialization stage.
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Folkestone school's robotics team aims to inspire next generation](https://www.bbc.com/news/articles/cmwyz83xgn9jo)**
+**[In first Israel acquisition, Cognex buys Intel robotics spinoff for over $600 million](https://www.timesofisrael.com/in-first-israel-acquisition-cognex-buys-intel-robotics-spinoff-for-over-600-million/)**
 
-The group from Folkestone is set to compete at the First Global Challenge in South Korea.
-
-BBC • 2d ago
+The Times of Israel • 21h ago
 
 ---
 
@@ -200,17 +198,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 67K • 👍 1K • 💬 176 • ⏱️ 4:18 • 3h ago
-
----
-
-**[&#39;Light of Future&#39; at WorldSkills2026: China-made humanoid robots take center stage](https://www.youtube.com/watch?v=pJp8Gw7Ztek)**
-
-ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI better than us. Please subscribe to us ☻☻☻
-
-📺 ShanghaiEye魔都眼
-
-👁️ 10K • 👍 234 • 💬 32 • ⏱️ 5:10 • 15h ago
+👁️ 179K • 👍 2K • 💬 295 • ⏱️ 4:18 • 9h ago
 
 ---
 
@@ -220,7 +208,17 @@ In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot 
 
 📺 NBC News
 
-👁️ 24K • 👍 286 • 💬 81 • ⏱️ 3:34 • 8h ago
+👁️ 42K • 👍 412 • 💬 123 • ⏱️ 3:34 • 14h ago
+
+---
+
+**[&#39;Light of Future&#39; at WorldSkills2026: China-made humanoid robots take center stage](https://www.youtube.com/watch?v=pJp8Gw7Ztek)**
+
+ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI better than us. Please subscribe to us ☻☻☻
+
+📺 ShanghaiEye魔都眼
+
+👁️ 15K • 👍 310 • 💬 45 • ⏱️ 5:10 • 21h ago
 
 ---
 
@@ -230,7 +228,7 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 962K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 971K • 👍 15K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
@@ -240,37 +238,17 @@ China's T800 is now fighting worldwide against both robots and humans. EngineAI 
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 273 • 💬 37 • ⏱️ 1:16 • 1d ago
+👁️ 23K • 👍 330 • 💬 41 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[Day 4 of building my AI Desk Robot...](https://www.youtube.com/watch?v=ehaR7UHNkPY)**
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
 
-hardware #engineering #robotics #vibecoding.
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
 
-📺 Casey.aicreates
+📺 DPCcars
 
-👁️ 2K • 👍 109 • 💬 8 • ⏱️ 0:39 • 7h ago
-
----
-
-**[Internet BREAKS w/ The World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=Rl7S9lJp1Zw)**
-
-Scale your business with YouTube https://dcsocialmedia.co.uk Join my free community - https://www.skool.com/davidcarbutt I've ...
-
-📺 David Carbutt 
-
-👁️ 51K • 👍 724 • 💬 273 • ⏱️ 11:15 • 5d ago
-
----
-
-**[I TOLD YOU SO! New IARAGHI breaks ALL War Robots](https://www.youtube.com/watch?v=Q5jh2ZmOdMI)**
-
-War Robots Gameplay: UE Hawk with new IARAGHI - breaking WR My War Robots Creator Link: https://wr.my.games/manni ...
-
-📺 Manni-Gaming
-
-👁️ 19K • 👍 692 • 💬 225 • ⏱️ 18:44 • 13h ago
+👁️ 21K • 👍 140 • 💬 39 • ⏱️ 2:56 • 5d ago
 
 ---
 
@@ -280,17 +258,37 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 745K • 👍 8K • 💬 1K • ⏱️ 1:00 • 5d ago
+👁️ 772K • 👍 8K • 💬 1K • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[China’s New Robot Legs Could Replace Wheelchairs](https://www.youtube.com/watch?v=UpKHHIUyT7c)**
+**[Meta Is Using You To Build A Robot Empire](https://www.youtube.com/watch?v=SDZIsmVy4nM)**
 
-Subscribe to Eastern Engine for weekly insights on China's technology, robotics, EVs, semiconductors and industry: ...
+Over 7 million Ray-Ban Meta glasses were sold in 2025. That's 7 million cameras recording your life. And conveniently, that ...
 
-📺 Eastern Engine
+📺 Proton
 
-👁️ 222K • 💬 211 • ⏱️ 15:20 • 4d ago
+👁️ 66K • 👍 2K • 💬 325 • ⏱️ 10:33 • 20h ago
+
+---
+
+**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+
+Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+
+📺 Prime Insights
+
+👁️ 323K • 👍 4K • 💬 140 • ⏱️ 22:30 • 3d ago
+
+---
+
+**[Day 4 of building my AI Desk Robot...](https://www.youtube.com/watch?v=ehaR7UHNkPY)**
+
+hardware #engineering #robotics #vibecoding.
+
+📺 Casey.aicreates
+
+👁️ 6K • 👍 308 • 💬 12 • ⏱️ 0:39 • 13h ago
 
 ---
 
