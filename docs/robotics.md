@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-23T01:40:04.431390+00:00'
+updated: '2026-09-23T07:26:47.374528+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 23, 2026 at 01:40 UTC  
+**Last Updated:** September 23, 2026 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is and old video of my droid trooper robot, he doesn't like to be bothered... The body is based over a MIP robot, which I hacked and reconverted into a "storm trooper"
 
-20h ago
+1d ago
 
 ---
 
@@ -44,7 +44,7 @@ This is and old video of my droid trooper robot, he doesn't like to be bothered.
 
 This started as a small experiment: could I build a “video game” where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It’s still very much a prototype and there are plenty of things that don’t work perfectly yet. I’ve mostly tested it myself and with my kids, so I’m curious what people here think about the concept. I’m especially interested in the robotics side — remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com
 
-17h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ This started as a small experiment: could I build a “video game” where nothi
 
 We’ve been building a larger version of Microduck, and we’ve finally got it walking. We call it XDuck. XDuck is a bipedal robot standing about 56.8 cm tall and weighing 10.352 kg. Not so micro anymore. At this size, it’s starting to look a bit like Disney’s BDX droids. Right now, we’re working on policy-based locomotion. This video shows our first walking results. Next up is getting it to squat down and stand back up. The biggest issue at the moment is structural strength. Our current 3D-printed parts are struggling with the robot’s weight, so we’re looking into different materials and ways to redesign the load-bearing structure. If you’ve worked on similarly sized bipeds or embodied AI hardware, we’d love to compare notes. What materials or structural changes helped most with strength and reliability? We’re also still figuring out XDuck’s appearance, so ideas for the design are welcome.
 
-13h ago
+19h ago
 
 ---
 
@@ -60,7 +60,7 @@ We’ve been building a larger version of Microduck, and we’ve finally got it 
 
 My goal is to build a humanoid robot. All the resources online are scattered. Someone is telling to learn kynamtics and maths first and someone is saying start with electric soldering. Can someone please tell me where I should start from
 
-16h ago
+22h ago
 
 ---
 
@@ -92,7 +92,7 @@ Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechan
 
 We have an operator UI on Ubuntu, the screen techs use to calibrate and run the cell. every release someone clicks through the whole thing by hand before it goes near a customer site. Slow, and it's always the thing that gets squeezed. I've been reading the AskUI docs because writing tests as plain steps instead of scripts fits a team where the people who know the robot best aren't the ones who write code. Their runtime, AgentOS, lists Ubuntu 18.04 or newer. But the Desktop app you write tests in is Windows and macOS only, and the standalone AgentOS installer still says coming soon, so I can't tell how you're meant to get it onto the Ubuntu box today. Their remote computer setup seems to assume it's already there. The part that caught my eye is companion mode, where the runtime sits on a separate device like a Pi and drives the target over USB HID and HDMI capture. For a machine that's part of the robot, I'd honestly rather install nothing at all. Anyone running UI tests against a Linux operator UI, with this or anything else? What did you end up with?
 
-23h ago
+1d ago
 
 ---
 
@@ -120,19 +120,7 @@ Before and after training
 
 The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
 
-NVIDIA Blog • 13h ago
-
----
-
-**[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
-
-Forbes • 13h ago
-
----
-
-**[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
-
-Reuters • 1d ago
+NVIDIA Blog • 19h ago
 
 ---
 
@@ -144,11 +132,15 @@ Boston Dynamics • 1d ago
 
 ---
 
-**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
+**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
 
-Toyota's push comes as automakers race to develop and deploy humanoid robots.
+reuters.com • 2d ago
 
-Ars Technica • 8h ago
+---
+
+**[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
+
+Forbes • 19h ago
 
 ---
 
@@ -156,15 +148,7 @@ Ars Technica • 8h ago
 
 The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.
 
-calcalistech.com • 14h ago
-
----
-
-**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
-
-One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
-
-Emory News • 15h ago
+calcalistech.com • 20h ago
 
 ---
 
@@ -172,21 +156,37 @@ Emory News • 15h ago
 
 Chinese robotics engineer Wu Yufei says the robots’ rapid learning ability is ‘quite terrifying’.
 
-scmp.com • 1d ago
+South China Morning Post • 1d ago
 
 ---
 
-**[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
+**[Gladstone BraveBots robotics coach resigns](https://www.uppermichiganssource.com/2026/09/22/gladstone-bravebots-robotics-coach-resigns/)**
 
-Gizmodo • 5h ago
+Monday night, Tim Barron’s letter of resignation was accepted by the Gladstone Area Schools Board of Education. Concerns over potential misconduct prompted him to turn in his resignation.
+
+Upper Michigan's Source • 1d ago
 
 ---
 
-**[Intrinsic open sources key parts of its platform for easier development](https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/)**
+**[Rise of the robots: How Aces Robotics sells gently used machines](https://www.theglobeandmail.com/business/rob-magazine/article-how-aces-robotics-sells-gently-used-machines-rob-mag-2026/)**
 
-With the release of Intrinsic Core, the company is making the key parts of its platform available to robotics developers.
+A six-month backlog for some new machines and a dearth of skilled labourers has given robot resurrector Aces Robotics a boost
 
-The Robot Report • 13h ago
+theglobeandmail.com • 18h ago
+
+---
+
+**[Cognex to buy robotics firm RealSense in $500M deal (CGNX:NASDAQ)](https://seekingalpha.com/news/4645323-cognex-to-buy-robotics-firm-realsense-in-500m-deal)**
+
+Seeking Alpha • 20h ago
+
+---
+
+**[Folkestone school's robotics team aims to inspire next generation](https://www.bbc.com/news/articles/cmwyz83xgn9jo)**
+
+The group from Folkestone is set to compete at the First Global Challenge in South Korea.
+
+BBC • 2d ago
 
 ---
 
@@ -194,13 +194,33 @@ The Robot Report • 13h ago
 
 ## YouTube Videos: "robotics"
 
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+
+📺 America's Got Talent
+
+👁️ 67K • 👍 1K • 💬 176 • ⏱️ 4:18 • 3h ago
+
+---
+
+**[&#39;Light of Future&#39; at WorldSkills2026: China-made humanoid robots take center stage](https://www.youtube.com/watch?v=pJp8Gw7Ztek)**
+
+ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI better than us. Please subscribe to us ☻☻☻
+
+📺 ShanghaiEye魔都眼
+
+👁️ 10K • 👍 234 • 💬 32 • ⏱️ 5:10 • 15h ago
+
+---
+
 **[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
 
 In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
 
 📺 NBC News
 
-👁️ 4K • 👍 77 • 💬 23 • ⏱️ 3:34 • 2h ago
+👁️ 24K • 👍 286 • 💬 81 • ⏱️ 3:34 • 8h ago
 
 ---
 
@@ -210,67 +230,27 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 952K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 962K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
 
 ---
 
-**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
+**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
 
-A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
+China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
 
-📺 Shorts_of_Crimson
+📺 Kalil 4.0
 
-👁️ 849 • ⏱️ 0:24 • 4h ago
-
----
-
-**[Elon Musk’s BILLION Humanoid Robot Future — Curse or Blessing?](https://www.youtube.com/watch?v=Zk6yK6bFaEk)**
-
-Elon Musk believes the future could have BILLIONS of humanoid robots — but how close are we really? Tesla's Optimus is being ...
-
-📺 ejunky66
-
-👁️ 17K • 👍 402 • 💬 53 • ⏱️ 1:00 • 14h ago
+👁️ 19K • 👍 273 • 💬 37 • ⏱️ 1:16 • 1d ago
 
 ---
 
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
+**[Day 4 of building my AI Desk Robot...](https://www.youtube.com/watch?v=ehaR7UHNkPY)**
 
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
+hardware #engineering #robotics #vibecoding.
 
-📺 DPCcars
+📺 Casey.aicreates
 
-👁️ 21K • 👍 139 • 💬 39 • ⏱️ 2:56 • 5d ago
-
----
-
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
-
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
-
-📺 Prime Insights
-
-👁️ 306K • 👍 3K • 💬 121 • ⏱️ 22:30 • 3d ago
-
----
-
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
-
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
-
-📺 ejunky66
-
-👁️ 723K • 👍 7K • 💬 985 • ⏱️ 1:00 • 5d ago
-
----
-
-**[China’s New Robot Legs Could Replace Wheelchairs](https://www.youtube.com/watch?v=UpKHHIUyT7c)**
-
-Subscribe to Eastern Engine for weekly insights on China's technology, robotics, EVs, semiconductors and industry: ...
-
-📺 Eastern Engine
-
-👁️ 221K • 💬 210 • ⏱️ 15:20 • 4d ago
+👁️ 2K • 👍 109 • 💬 8 • ⏱️ 0:39 • 7h ago
 
 ---
 
@@ -280,17 +260,37 @@ Scale your business with YouTube https://dcsocialmedia.co.uk Join my free commun
 
 📺 David Carbutt 
 
-👁️ 50K • 👍 712 • 💬 270 • ⏱️ 11:15 • 5d ago
+👁️ 51K • 👍 724 • 💬 273 • ⏱️ 11:15 • 5d ago
 
 ---
 
-**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
+**[I TOLD YOU SO! New IARAGHI breaks ALL War Robots](https://www.youtube.com/watch?v=Q5jh2ZmOdMI)**
 
-The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
+War Robots Gameplay: UE Hawk with new IARAGHI - breaking WR My War Robots Creator Link: https://wr.my.games/manni ...
 
-📺 Frankie Lapenna
+📺 Manni-Gaming
 
-👁️ 3.9M • 👍 152K • 💬 13K • ⏱️ 0:45 • 2d ago
+👁️ 19K • 👍 692 • 💬 225 • ⏱️ 18:44 • 13h ago
+
+---
+
+**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
+
+Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
+
+📺 ejunky66
+
+👁️ 745K • 👍 8K • 💬 1K • ⏱️ 1:00 • 5d ago
+
+---
+
+**[China’s New Robot Legs Could Replace Wheelchairs](https://www.youtube.com/watch?v=UpKHHIUyT7c)**
+
+Subscribe to Eastern Engine for weekly insights on China's technology, robotics, EVs, semiconductors and industry: ...
+
+📺 Eastern Engine
+
+👁️ 222K • 💬 211 • ⏱️ 15:20 • 4d ago
 
 ---
 
