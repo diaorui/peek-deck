@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-22T23:10:17.830047+00:00'
+updated: '2026-09-23T01:40:04.431390+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 22, 2026 at 23:10 UTC  
+**Last Updated:** September 23, 2026 at 01:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is and old video of my droid trooper robot, he doesn't like to be bothered... The body is based over a MIP robot, which I hacked and reconverted into a "storm trooper"
 
-17h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ This is and old video of my droid trooper robot, he doesn't like to be bothered.
 
 This started as a small experiment: could I build a “video game” where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It’s still very much a prototype and there are plenty of things that don’t work perfectly yet. I’ve mostly tested it myself and with my kids, so I’m curious what people here think about the concept. I’m especially interested in the robotics side — remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com
 
-15h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ This started as a small experiment: could I build a “video game” where nothi
 
 We’ve been building a larger version of Microduck, and we’ve finally got it walking. We call it XDuck. XDuck is a bipedal robot standing about 56.8 cm tall and weighing 10.352 kg. Not so micro anymore. At this size, it’s starting to look a bit like Disney’s BDX droids. Right now, we’re working on policy-based locomotion. This video shows our first walking results. Next up is getting it to squat down and stand back up. The biggest issue at the moment is structural strength. Our current 3D-printed parts are struggling with the robot’s weight, so we’re looking into different materials and ways to redesign the load-bearing structure. If you’ve worked on similarly sized bipeds or embodied AI hardware, we’d love to compare notes. What materials or structural changes helped most with strength and reliability? We’re also still figuring out XDuck’s appearance, so ideas for the design are welcome.
 
-11h ago
+13h ago
 
 ---
 
@@ -60,7 +60,7 @@ We’ve been building a larger version of Microduck, and we’ve finally got it 
 
 My goal is to build a humanoid robot. All the resources online are scattered. Someone is telling to learn kynamtics and maths first and someone is saying start with electric soldering. Can someone please tell me where I should start from
 
-13h ago
+16h ago
 
 ---
 
@@ -76,7 +76,7 @@ Boston Dynamics has opened a new facility in Savannah, Georgia focused on prepar
 
 Im building this robot for about 7 years. Just sharing some progress. I 3D modeled all the parts and I hope to finish the project before the end of the year.
 
-🔗 [YouTube](https://youtube.com/shorts/PNJXKoKQEc8?is=09vv1kkaysWdJ1rg) • 22h ago
+🔗 [YouTube](https://youtube.com/shorts/PNJXKoKQEc8?is=09vv1kkaysWdJ1rg) • 1d ago
 
 ---
 
@@ -84,7 +84,7 @@ Im building this robot for about 7 years. Just sharing some progress. I 3D model
 
 Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism
 
-1d ago
+2d ago
 
 ---
 
@@ -92,7 +92,7 @@ Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechan
 
 We have an operator UI on Ubuntu, the screen techs use to calibrate and run the cell. every release someone clicks through the whole thing by hand before it goes near a customer site. Slow, and it's always the thing that gets squeezed. I've been reading the AskUI docs because writing tests as plain steps instead of scripts fits a team where the people who know the robot best aren't the ones who write code. Their runtime, AgentOS, lists Ubuntu 18.04 or newer. But the Desktop app you write tests in is Windows and macOS only, and the standalone AgentOS installer still says coming soon, so I can't tell how you're meant to get it onto the Ubuntu box today. Their remote computer setup seems to assume it's already there. The part that caught my eye is companion mode, where the runtime sits on a separate device like a Pi and drives the target over USB HID and HDMI capture. For a machine that's part of the robot, I'd honestly rather install nothing at all. Anyone running UI tests against a Linux operator UI, with this or anything else? What did you end up with?
 
-20h ago
+23h ago
 
 ---
 
@@ -120,45 +120,19 @@ Before and after training
 
 The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
 
-NVIDIA Blog • 11h ago
+NVIDIA Blog • 13h ago
 
 ---
 
 **[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
 
-Forbes • 11h ago
+Forbes • 13h ago
 
 ---
 
-**[Intel to discuss the infrastructure needed to scale physical AI at RoboBusiness](https://www.therobotreport.com/intel-discusses-infrastructure-needed-to-scale-physical-ai-robobusiness/)**
+**[China slows humanoid robot IPO rush as hype outruns reality](https://www.reuters.com/business/finance/china-slows-humanoid-robot-ipo-rush-hype-outruns-reality-2026-09-21/)**
 
-Nagesh Puppala of Intel will discuss why the next phase of robotics innovation depends on more than bigger models or better simulations
-
-The Robot Report • 1h ago
-
----
-
-**[Why outdoor robots fail (and how to build systems that survive)](https://www.therobotreport.com/why-outdoor-robots-fail-how-to-build-systems-that-survive/)**
-
-Learn practical strategies for building reliable outdoor robots from WiBotic, Burro, and Nextpower at RoboBusiness in Silicon Valley.
-
-The Robot Report • 23m ago
-
----
-
-**[Intel let RealSense go. Now Cognex is paying $600 million to buy it](https://www.calcalistech.com/ctechnews/article/s1tqir19fl)**
-
-The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.
-
-calcalistech.com • 12h ago
-
----
-
-**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
-
-Toyota's push comes as automakers race to develop and deploy humanoid robots.
-
-Ars Technica • 6h ago
+Reuters • 1d ago
 
 ---
 
@@ -166,29 +140,53 @@ Ars Technica • 6h ago
 
 Boston Dynamics today announced the next chapter in its robotics and AI strategy with the launch of the Robotics Metaplant Application Center (RMAC)
 
-bostondynamics.com • 1d ago
+Boston Dynamics • 1d ago
 
 ---
 
-**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
+**[Toyota orders workers to train humanoid robots but says humans won’t be replaced](https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/)**
 
-Reuters • 1d ago
+Toyota's push comes as automakers race to develop and deploy humanoid robots.
 
----
-
-**[Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics](https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/)**
-
-The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs.
-
-CNET • 21h ago
+Ars Technica • 8h ago
 
 ---
 
-**[Gladstone BraveBots robotics coach resigns](https://www.uppermichiganssource.com/2026/09/22/gladstone-bravebots-robotics-coach-resigns/)**
+**[Intel let RealSense go. Now Cognex is paying $600 million to buy it](https://www.calcalistech.com/ctechnews/article/s1tqir19fl)**
 
-Monday night, Tim Barron’s letter of resignation was accepted by the Gladstone Area Schools Board of Education. Concerns over potential misconduct prompted him to turn in his resignation.
+The Haifa-based robotics company grew rapidly after its spinout 14 months ago, and its CEO says independence allowed it to pursue opportunities that would have been difficult to develop inside Intel.
 
-Upper Michigan's Source • 20h ago
+calcalistech.com • 14h ago
+
+---
+
+**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
+
+One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
+
+Emory News • 15h ago
+
+---
+
+**[Dancing humanoids from Unitree Robotics secure spot in America’s Got Talent finale](https://www.scmp.com/video/china/3368227/dancing-humanoids-unitree-robotics-secure-spot-americas-got-talent-finale)**
+
+Chinese robotics engineer Wu Yufei says the robots’ rapid learning ability is ‘quite terrifying’.
+
+scmp.com • 1d ago
+
+---
+
+**[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
+
+Gizmodo • 5h ago
+
+---
+
+**[Intrinsic open sources key parts of its platform for easier development](https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/)**
+
+With the release of Intrinsic Core, the company is making the key parts of its platform available to robotics developers.
+
+The Robot Report • 13h ago
 
 ---
 
@@ -196,23 +194,13 @@ Upper Michigan's Source • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
+**[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
 
-A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
+In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
 
-📺 Shorts_of_Crimson
+📺 NBC News
 
-👁️ 334 • ⏱️ 0:24 • 2h ago
-
----
-
-**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
-
-China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
-
-📺 Kalil 4.0
-
-👁️ 13K • 👍 204 • 💬 26 • ⏱️ 1:16 • 1d ago
+👁️ 4K • 👍 77 • 💬 23 • ⏱️ 3:34 • 2h ago
 
 ---
 
@@ -222,7 +210,17 @@ AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with k
 
 📺 MindSeeded
 
-👁️ 947K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+👁️ 952K • 👍 14K • 💬 2K • ⏱️ 16:24 • 5d ago
+
+---
+
+**[Human vs 6-Foot Terminator Robot](https://www.youtube.com/watch?v=mT6o_kNVZMc)**
+
+A human just went head-to-head with a 6-foot robot that looks straight out of Terminator Frankie landed some punches, but ...
+
+📺 Shorts_of_Crimson
+
+👁️ 849 • ⏱️ 0:24 • 4h ago
 
 ---
 
@@ -232,17 +230,7 @@ Elon Musk believes the future could have BILLIONS of humanoid robots — but how
 
 📺 ejunky66
 
-👁️ 13K • 👍 360 • 💬 43 • ⏱️ 1:00 • 11h ago
-
----
-
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
-
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
-
-📺 Prime Insights
-
-👁️ 301K • 👍 3K • 💬 117 • ⏱️ 22:30 • 3d ago
+👁️ 17K • 👍 402 • 💬 53 • ⏱️ 1:00 • 14h ago
 
 ---
 
@@ -256,13 +244,23 @@ The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward re
 
 ---
 
+**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+
+Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+
+📺 Prime Insights
+
+👁️ 306K • 👍 3K • 💬 121 • ⏱️ 22:30 • 3d ago
+
+---
+
 **[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
 
 Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
 
 📺 ejunky66
 
-👁️ 709K • 👍 7K • 💬 978 • ⏱️ 1:00 • 5d ago
+👁️ 723K • 👍 7K • 💬 985 • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -272,27 +270,27 @@ Subscribe to Eastern Engine for weekly insights on China's technology, robotics,
 
 📺 Eastern Engine
 
-👁️ 220K • 💬 208 • ⏱️ 15:20 • 4d ago
+👁️ 221K • 💬 210 • ⏱️ 15:20 • 4d ago
 
 ---
 
-**[Dedopali🪰🚀 Robot Spotlight — War Robots](https://www.youtube.com/watch?v=1wsqviWOUM0)**
+**[Internet BREAKS w/ The World’s Most Advanced AI Robot](https://www.youtube.com/watch?v=Rl7S9lJp1Zw)**
 
-Get the update on your app store: https://wr.my.games/play ➡️ Get the update through the official APK: ...
+Scale your business with YouTube https://dcsocialmedia.co.uk Join my free community - https://www.skool.com/davidcarbutt I've ...
 
-📺 War Robots [WR]
+📺 David Carbutt 
 
-👁️ 60K • 👍 2K • 💬 235 • ⏱️ 2:18 • 12h ago
+👁️ 50K • 👍 712 • 💬 270 • ⏱️ 11:15 • 5d ago
 
 ---
 
-**[I Tested Zenits on the Stryx... And It DESTROYS Shoggoth Campers! - War Robots](https://www.youtube.com/watch?v=v8JNLfKZxFI)**
+**[World’s first human vs. robot fight](https://www.youtube.com/watch?v=CDsX4KP0HhA)**
 
-Can 5x ZENITS on the Stryx actually shut down Shoggoth campers? In this video, we take this crazy, obsolete weapon setup into ...
+The world's FIRST human vs. robot fight. Is the end near or do we still stand a chance? #robot.
 
-📺 Adrian Chong
+📺 Frankie Lapenna
 
-👁️ 9K • 👍 327 • 💬 61 • ⏱️ 18:29 • 10h ago
+👁️ 3.9M • 👍 152K • 💬 13K • ⏱️ 0:45 • 2d ago
 
 ---
 

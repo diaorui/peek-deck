@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-22T23:10:17.824530+00:00'
+updated: '2026-09-23T01:40:04.421957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 22, 2026 at 23:10 UTC  
+**Last Updated:** September 23, 2026 at 01:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $86,193.35
+### $86,607.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +13.4%  
-**30d:** +9.4%  
-**90d:** +44.8%  
-**1y:** -22.8%  
+**24h:** +0.8%  
+**7d:** +13.1%  
+**30d:** +10.0%  
+**90d:** +43.9%  
+**1y:** -23.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1733.44B
+**Market Cap:** $1737.98B
 Rank #1
 
 **Circulating Supply:** 20,088,034 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--31.6%
+-31.4%
 
 **All-Time Low:** $67.81
-+127167.4%
++127488.9%
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
 
-1d ago
+2d ago
 
 ---
 
 **[Oh boy](https://www.reddit.com/r/Bitcoin/comments/1wlvydf/oh_boy/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once i
 
 Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
-1d ago
+2d ago
 
 ---
 
@@ -149,31 +149,25 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
-**['Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day](https://finance.yahoo.com/markets/article/crypto-winter-is-over-analyst-says-as-bitcoin-tops-86000-chart-of-the-day-124006079.html)**
+**[Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains](https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000)**
 
-Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices.
+WTI crude oil drops to $89 as reports suggest Iran could reopen the Strait of Hormuz within seven days.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin Back at $100,000 Is Suddenly Not So Outlandish](https://www.bloomberg.com/news/newsletters/2026-09-22/bitcoin-btc-back-at-100-000-is-not-so-outlandish)**
-
-Bloomberg.com • 2h ago
+CoinDesk • 7h ago
 
 ---
 
-**[CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap](https://finance.yahoo.com/markets/crypto/articles/cme-expands-crypto-futures-lineup-204603742.html)**
+**[Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over](https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html)**
 
-The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.
+Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-Yahoo Finance • 2h ago
+CNBC • 1d ago
 
 ---
 
-**[If You Own IBIT, This Bitcoin Fund’s 13% Yield Deserves a Second Look](https://finance.yahoo.com/markets/crypto/articles/own-ibit-bitcoin-fund-13-210548757.html)**
+**[Crypto ETFs Are Surging, but Bitcoin Ether Aren’t the Big Winners](https://finance.yahoo.com/markets/crypto/articles/crypto-etfs-surging-bitcoin-ether-232240681.html)**
 
-IBIT gives you Bitcoin exposure without a penny of cash flow, and BlackRock quietly launched a companion fund that flips that equation by converting Bitcoin's famous volatility into monthly income. Whether that tradeoff costs you more than it pays depends on what Bitcoin does next.
+<p>Zcash and Hyperliquid have far outpaced the majors. </p>
 
 Yahoo Finance • 2h ago
 
@@ -183,45 +177,47 @@ Yahoo Finance • 2h ago
 
 The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
 
-foxbusiness.com • 11h ago
+Fox Business • 13h ago
+
+---
+
+**[Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Bitcoin and Crypto Stocks Have Been on a Tear. Here’s Why.](https://www.barrons.com/articles/bitcoin-crypto-stocks-clarity-act-a3749320)**
+
+barrons.com • 9h ago
+
+---
+
+**[Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5)**
+
+MarketWatch • 14h ago
+
+---
+
+**[Current price of Bitcoin for September 22, 2026](https://fortune.com/article/price-of-bitcoin-09-22-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 14h ago
 
 ---
 
 **[Bitcoin’s Promise Highlighted At United Nations Digital Cooperation Event](https://www.forbes.com/sites/frankcorva/2026/09/22/bitcoins-promise-highlighted-at-united-nations-digital-cooperation-event/)**
 
-Forbes • 10h ago
+Forbes • 13h ago
 
 ---
 
-**[5 Best Crypto Casinos 2026: Best Bitcoin Casinos Compared](https://muddyriversports.com/sponsored-content/5-best-crypto-casinos-2026-best-bitcoin-casinos-compared/20260920160000/)**
+**[Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-attract-nearly-1-145600491.html)**
 
-Top Bitcoin Casinos With Best Bonuses 🎲 Casinos 🎁 Welcome Bonus 🏆 Rating 1️⃣ mBit Casino Up to 4 BTC + 325 Free Spins ⭐ 4.9/5 2️⃣ JACK.com 100 No-Wagering Free Spins ⭐ 4.8/5 3️⃣ Thunderpick 100% up to €2,000 ⭐ 4.7/5 4️⃣ BitStarz 300% up to 5 BTC + 180 Free Spins ⭐ 4.7/5...
+Spot Bitcoin (CRYPTO: $BTC) exchange-traded funds (ETFs) attracted nearly $1 billion U.S. of capital on Sept. 21 as...
 
-Muddy River Sports • 2d ago
-
----
-
-**[Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties](https://www.miamiherald.com/news/nation-world/article317287979.html)**
-
-Jeffrey Epstein aligned with MIT and the man who cut the ribbon for Trump’s gold statue in Doral in his quest to champion cryptocurrencies.
-
-miamiherald.com • 13h ago
-
----
-
-**[How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)**
-
-The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
-
-Slate Magazine • 2d ago
-
----
-
-**[Coinbase adds fixed-rate bitcoin-backed loans through Morpho Midnight](https://www.theblock.co/news/defi/2026-09-22-coinbase-fixed-rate-bitcoin-loans-morpho-midnight-416050)**
-
-Coinbase integrates Morpho Midnight to offer USDC loans backed by bitcoin, with the rate and repayment date set upfront.
-
-The Block • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -245,7 +241,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 6h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 9h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -297,7 +293,7 @@ Top cryptocurrency prices and charts, listed by market capitalization. Free acce
 
 A survey suggests streaming subscription numbers are down, and film critic Dan Slevin reckons “we’re starting to realise the rot of it”.
 
-⬆️ 15 • 💬 4 • 1d ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
+⬆️ 15 • 💬 4 • 2d ago • [RNZ](https://www.rnz.co.nz/life/screens/movies/the-viewers-ditching-streaming-rot-in-favour-of-dvds)
 
 ---
 
@@ -305,23 +301,23 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
+**[Did the Iran War Just Kill Bitcoin’s Rally—or Is $100K Next?!](https://www.youtube.com/watch?v=wNupUGEuP0k)**
+
+Bitcoin is ripping at $86000 as nearly $1 billion flows into ETFs and even longtime critics start admitting they were wrong. Now the ...
+
+📺 Simply Bitcoin
+
+👁️ 4K • 👍 533 • 💬 31 • ⏱️ 14:23 • 2h ago
+
+---
+
 **[Bitcoin&#39;s New Bull Cycle: Chris Perkins on What Drove Crypto&#39;s Recent Climb](https://www.youtube.com/watch?v=kcX4THusDc4)**
 
 With Bitcoin at its highest level since January, Chris Perkins believes crypto is entering a new bull cycle. Increased institutional ...
 
 📺 Schwab Network
 
-👁️ 1K • 👍 48 • ⏱️ 5:13 • 3h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=ZJt2UpRCgS8)**
-
-Free Trading Course https://rt1m.com/free Kraken 10% Cashback on Trading Fees: ...
-
-📺 Road To $1 Million USD
-
-👁️ 1K • 👍 147 • 💬 19 • ⏱️ 10:18 • 2h ago
+👁️ 4K • 👍 71 • 💬 2 • ⏱️ 5:13 • 5h ago
 
 ---
 
@@ -331,7 +327,17 @@ John Koudounis, CEO of Calamos Investments, discusses AI investing, oil, Fed pol
 
 📺 CNBC Television
 
-👁️ 7K • 👍 47 • 💬 18 • ⏱️ 5:31 • 7h ago
+👁️ 9K • 👍 56 • 💬 15 • ⏱️ 5:31 • 10h ago
+
+---
+
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=ZJt2UpRCgS8)**
+
+Free Trading Course https://rt1m.com/free Kraken 10% Cashback on Trading Fees: ...
+
+📺 Road To $1 Million USD
+
+👁️ 3K • 👍 204 • 💬 23 • ⏱️ 10:18 • 5h ago
 
 ---
 
@@ -341,27 +347,47 @@ Kraken - Trade Stocks Up To 20X Leverage https://cryptolark.co/THEKRAKEN FREE NE
 
 📺 Lark Davis
 
-👁️ 3K • 👍 248 • 💬 23 • ⏱️ 9:16 • 2h ago
+👁️ 10K • 👍 411 • 💬 39 • ⏱️ 9:16 • 4h ago
 
 ---
 
-**[BITCOIN HOLDERS - WATCH THIS RIGHT NOW!](https://www.youtube.com/watch?v=WsFhNkeSER8)**
+**[🚨 BTC &amp; ETH: THIS MAKES NO SENSE!!! HONEST DIVE!!!](https://www.youtube.com/watch?v=7LurmShXt5g)**
 
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+Bitcoin has pumped to 87k! Here is what caused it and my market theory going forward! ---------- Join My FREE Trading Group ...
 
-📺 My Financial Friend
+📺 Thomas Kralow
 
-👁️ 12K • 👍 397 • 💬 90 • ⏱️ 10:55 • 8h ago
+👁️ 15K • 👍 1K • 💬 44 • ⏱️ 12:07 • 16h ago
 
 ---
 
-**[Cathie Wood :&quot;Important Warning To All Small Bitcoin &amp; Crypto Investors&quot; | BTC Update 2026](https://www.youtube.com/watch?v=H5VH4JgS6GU)**
+**[Sentiment Eruption!💥Crypto Market Update🔥](https://www.youtube.com/watch?v=Gngbk6MBGgg)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+The CLARITY Act died and the backlog broke loose: Binance bought into Circle, Ondo stocks went live on NEAR, SoFi moved $25 ...
 
-📺 Crypto Nutshell
+📺 Paul Barron Network
 
-👁️ 4K • 👍 169 • 💬 23 • ⏱️ 18:55 • 6h ago
+👁️ 52K • 👍 2K • 💬 75 • ⏱️ 8:50 • 6h ago
+
+---
+
+**[Another Bitcoin Breakout Soon...Biggest ETF Day of 2026](https://www.youtube.com/watch?v=5LJmiAN1WJY)**
+
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+
+📺 CryptosRUs
+
+👁️ 30K • 👍 985 • 💬 63 • ⏱️ 37:02 • 11h ago
+
+---
+
+**[$1,000,000 Bitcoin Is Inevitable - BTC Just Cleared Every Major Realized Price](https://www.youtube.com/watch?v=19ZSvfnUGqU)**
+
+Bitcoin is becoming harder to bet against as BTC pushes above the major realized-price metrics PlanB is tracking. Nearly $1 ...
+
+📺 Bitcoin News Alerts
+
+👁️ 4K • 👍 273 • 💬 114 • ⏱️ 14:14 • 7h ago
 
 ---
 
@@ -371,37 +397,7 @@ Bitcoin surged 13% in just five days despite a failed crypto bill and a Fed rate
 
 📺 Ross Givens
 
-👁️ 6K • 👍 221 • 💬 19 • ⏱️ 2:08 • 6h ago
-
----
-
-**[Wall Street is going To FORCE Bitcoin To EXPLODE Past $100k FASTER Than You Think!! | EP 1597](https://www.youtube.com/watch?v=6Wc_NDsR77w)**
-
-The claims of bitcoin's rally being a dead cat bounce are not supported by the data - the move to $86k is backed by ETF inflows ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 418 • 💬 22 • ⏱️ 59:41 • 5h ago
-
----
-
-**[Bitcoin Just Gave the Final Bull Market Confirmation! (Prepare)](https://www.youtube.com/watch?v=L3ikQ-OGZo8)**
-
-Bitcoin just broke through some of the most important levels of this cycle, and the market is finally showing signs of real strength.
-
-📺 Crypto Banter
-
-👁️ 47K • 👍 2K • 💬 59 • ⏱️ 34:11 • 9h ago
-
----
-
-**[When XRP Hits $32 And Bitcoin Is Over A Million Dollars Will You Remember All Of This News Then?](https://www.youtube.com/watch?v=L6mY-2YzHSk)**
-
-Are people just going to keep ignoring the fact that these people are buying Billions of dollars worth of cryptocurrency every single ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 29K • 👍 2K • 💬 220 • ⏱️ 14:24 • 11h ago
+👁️ 9K • 👍 265 • 💬 15 • ⏱️ 2:08 • 9h ago
 
 ---
 
