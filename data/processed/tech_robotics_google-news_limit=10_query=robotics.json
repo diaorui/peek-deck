@@ -5,33 +5,13 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "pub_date": 1790078795.0,
-      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
-    },
-    {
-      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
-      "pub_date": 1790096776.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-    },
-    {
-      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-      "pub_date": 1789971965.0,
-      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
-      "image": null,
+      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
+      "source": "Qualcomm",
+      "source_url": "https://www.qualcomm.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
+      "pub_date": 1790165026.0,
+      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
+      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
       "description": null
     },
     {
@@ -45,14 +25,54 @@
       "description": null
     },
     {
+      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
+      "source": "arstechnica.com",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
+      "pub_date": 1790096776.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
+      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+    },
+    {
+      "headline": "Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFhzTmRaZnl1d0g4T1BtdWhVdjJhYlZvUGxENkc1bHluMUdyYmhfUzFuMU1XR2MxaVJqTTBnRF9lRkJQZXpTd1pCcUlXeTYwdUUyanB6b2FsVjYwSGE4MlQtdmpwYi1ndnRQYlZBYzB4T3V0dHdLQ20zVjlTaF9kS3k3a0xvbU1WZ0lITVo5QUdpWnJlWW5LYnFVNTZGSHNuTnc?oc=5",
+      "pub_date": 1790040294.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/baby-doll-GettyImages-1500300492.jpg",
+      "description": "The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs."
+    },
+    {
+      "headline": "Survey: People Don\u2019t Want Humanoid Robots Until They Meet One",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVJwbWk1SG9CLXE5cnFGZUFZSGk4Rmw4WnFmMXJKaXdhWllmWlNSc0liR1dEazh0NEtBYmVzdTBmLU5nNVNsb3VSNkRKb3J4YWE0b0JNcWRSXzZfQW04Z3J0V1hmRlRYNU1Kd3owVDF5Rm9SNXI5QVoyajNQeV9naFVsZ0Z1VUJuS1ZaSnRGalRFWnNqS3VEc05OcDFZR3g0VGdqWkVjSFlNNDJ3U1Jrbk9RUQ?oc=5",
+      "pub_date": 1790182414.0,
+      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/23/survey-people-dont-want-humanoid-robots-until-they-meet-one/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Meet the Roboticist Making Machines that Give Back to Nature",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01My1yTEtBMFV1MUI4OWNfeFhTVFZvRktiT0ZBSVBJZU14dlM4akljYzVETHhtZC11MHQxYS0yS081M3JiS1V6ZF9EQ0Z1a3JwTmFmVWlEZnBBR1pjN3RrZVhsVERZcHBoandzaGxBT3hYUXdS?oc=5",
-      "pub_date": 1789974000.0,
+      "pub_date": 1790085760.0,
       "article_url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
       "image": "https://spectrum.ieee.org/media-library/image.png?id=67787635&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
       "description": "Sustainability robotics sees the environment as more than inspiration"
+    },
+    {
+      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "source": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
+      "pub_date": 1790078795.0,
+      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
+      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
     },
     {
       "headline": "Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers",
@@ -75,36 +95,16 @@
       "description": "Chinese robotics engineer Wu Yufei says the robots\u2019 rapid learning ability is \u2018quite terrifying\u2019."
     },
     {
-      "headline": "Aaron Edsinger brings Hello Robot\u2019s Stretch 4 to life onstage at Disrupt 2026",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3FsMDAwRUdaQ2NBd3MxWWFhM1FlWDRDQzltbW5Dd0FzNFNTV3ZCQjlIcWcwVHpkc0VjYXF5cW9FQ1FIbElhYnhVbTNSNkdXdDl3VVdLaGVWOVppcVJvTGpIUUk2QnhxdEpteHQ3bnpYNXJMTlJsb3BCTzAzal9aVW0zUTlVTEIxU2JoYUtvaTVEUnBFRXVVdHU1WTF3MEhWbWtyOWFDQkxjemxZRmhlS2M1allidHVYa2Vj?oc=5",
-      "pub_date": 1790087400.0,
-      "article_url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
-      "description": "Hello Robot CEO and co-founder Aaron Edsinger will demo Stretch 4 on the Real World AI Stage for the session. Register before Sept 25 to save up to $200."
-    },
-    {
-      "headline": "Move Over, Tesla: This Robotics Stock Already Has Paying Customers",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXlmMTRsam9oTUFjT1pvMlhoQmpXbFFMempLaFFxZnlqcXpiQVVRUUVyMVZ6R1pNM01pa0t3QXF5akhGaVdFeFlySlBKeGZkc1I0QUl5X1dwYjhiUWNnMVplOFpid3FFVHozaVNLX2c3dlpHZUxqVUhIWDdJZko5ajQ5dE5md3RDQVVKTENuX1FKUjBzNlh3MUtrZw?oc=5",
-      "pub_date": 1790078940.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/articles/move-over-tesla-robotics-stock-120900012.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/ec8b38bc92dd23392398d2eafb038a6ae5f2fc9f265da0cb7cdc894559fa1e6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fff0f46804a87df5c770589b73967bf59.jpg",
-      "description": "Symbotic is a robotics pure play, already in the commercialization stage."
-    },
-    {
-      "headline": "In first Israel acquisition, Cognex buys Intel robotics spinoff for over $600 million",
-      "source": "The Times of Israel",
-      "source_url": "https://www.timesofisrael.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTY1U2FLcU9aNUxndm9xR241OWlUVlVpM0ZKMWl4U0VkXzhEVUg4WWNwVFN3VVUzNHdsamNVZ25tUzAxZmVKVmdRdjF1Z2VtYVNlVGh0elhaUlBJZWNlZzhJWGhWYzhGWWRHUzBNUGxWdVRWdU1PY19YNk4tYzhFN0txWkJzbDhEdXI4VTRBSDVubTdCQVlFeWZuZzFSM3d0dEJ6bzlNOWFXLTlYLVhrSUxpTVLSAboBQVVfeXFMUFNkV01IYTlKTDRzaE9OcVZyUDFIMTBWS0FOY3RPeEtMTFdHUkxiOFIycmFxb0FkTWtzRjdXclJHbmpyYmFXbGFkdGhHSGh1TTFYWnJKejhIMjRCaXFrQWpaSEljYnJucnlZc2hqT2pCRTVYN2kwVTJoY3ctdGtSb0hheExoeU5yUlQtT0FtUUV1ZC1ubWtlanlfUUtmSTE5NlI1NnBGMWl0bVVkVFJpbEw3TzdtRUc0TExR?oc=5",
-      "pub_date": 1790091900.0,
-      "article_url": "https://www.timesofisrael.com/in-first-israel-acquisition-cognex-buys-intel-robotics-spinoff-for-over-600-million/",
-      "image": null,
-      "description": null
+      "headline": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets.",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEpfSmozQkgtSF9Oa21yaW0wb0lQV3RwWjJvaTNWSV92amlXTDdOZW1TZUdnb0dMYlA4MlpFRlNfa254RTJQS1pyVS1BVmtLRmM1WElfUTQweWRyalo3WkxvbjRaR1dLdTYwMW5qV21tMllEa2xKSE1VajFkR0FQMUdVRkgwaFdYcy1VUVRyWld0YjZySVBPWkpxWkVPSWVIQkRBT244UnBDdWQwVGgwU0N0V0ZyTkQ5UFloMA?oc=5",
+      "pub_date": 1790169420.0,
+      "article_url": "https://www.stocktitan.net/news/HCTI/healthcare-triangle-signs-letter-of-intent-to-pursue-the-proposed-nfrfck8j50hf.html",
+      "image": "https://www.stocktitan.net/news_covers/Healthcare_Triangle_Signs_Letter_of_Intent_to_Pursue_the_Proposed_Acquisition_of_Roboticom_s_Cutting_1507964.webp",
+      "description": "Roboticom reported about $14.1 million in fiscal 2025 revenue from unaudited data; HCTI has not verified projections. Actual results may differ materially."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T12:56:18.096814+00:00"
+  "fetched_at": "2026-09-23T17:45:36.014654+00:00"
 }

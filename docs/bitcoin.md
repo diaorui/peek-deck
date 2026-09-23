@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-23T12:56:25.318109+00:00'
+updated: '2026-09-23T17:45:43.777486+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 23, 2026 at 12:56 UTC  
+**Last Updated:** September 23, 2026 at 17:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,508.45
+### $84,061.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +11.8%  
-**30d:** +8.8%  
-**90d:** +42.2%  
-**1y:** -24.5%  
+**24h:** -2.6%  
+**7d:** +10.2%  
+**30d:** +7.3%  
+**90d:** +40.2%  
+**1y:** -25.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1715.71B
+**Market Cap:** $1688.78B
 Rank #1
 
-**Circulating Supply:** 20,088,234 BTC
+**Circulating Supply:** 20,088,325 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.2%
+-33.3%
 
 **All-Time Low:** $67.81
-+125869.6%
++123887.6%
 
 ---
 
@@ -135,7 +135,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 2d ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 3d ago
 
 ---
 
@@ -149,6 +149,14 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
+**[Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher](https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec)**
+
+The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its highest level since 2007.
+
+CoinDesk • 17m ago
+
+---
+
 **['Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day](https://finance.yahoo.com/markets/article/crypto-winter-is-over-analyst-says-as-bitcoin-tops-86000-chart-of-the-day-124006079.html)**
 
 Bitcoin is back. The token held above $86,000 on Tuesday after a stunning multisession rally as investors went risk-on amid falling oil prices.
@@ -157,25 +165,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks](https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html)**
+**[Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html)**
 
-MLive.com • 46m ago
+Per Saylor, crypto is alive and well.
 
----
-
-**[Bitcoin’s Latest Bull Run Has a Violent Cost — UK Ranks Third on Crypto Attack Map](https://www.yahoo.com/news/world/articles/bitcoin-latest-bull-run-violent-111715307.html)**
-
-The UK ranks third globally for publicly documented physical attacks targeting crypto holders, behind France and the United States. Jameson Lopp’s database records 24 UK ...
-
-Yahoo • 1h ago
-
----
-
-**[JUST IN: Bloomberg publishes report titled "Bitcoin Back at $100,000 Is Suddenly Not So Outlandish" 🚀 Bullish 🐂](https://www.moomoo.com/community/feed/just-in-bloomberg-publishes-report-titled-bitcoin-back-at-100-117319877132693)**
-
-@Bitcoin Magazine 13961 Views|3 Likes
-
-Moomoo • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -187,37 +181,47 @@ Fox Business • 1d ago
 
 ---
 
-**[Bitcoin ETF Flows Turn Positive After $4.6 Billion Rebound](https://www.bloomberg.com/news/articles/2026-09-23/bitcoin-etf-flows-turn-positive-after-4-6-billion-rebound)**
+**[Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118)**
 
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now](https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5)**
-
-MarketWatch • 1d ago
+Investing.com • 2h ago
 
 ---
 
-**[Elon Musk Is Quietly Preparing For The Next Bitcoin And Crypto Price Bull Run](https://www.forbes.com/sites/digital-assets/2026/09/22/elon-musk-is-quietly-preparing-for-the-next-bitcoin-and-crypto-price-bull-run/)**
+**[Bitcoin Surges To 8-Month High, Trips Stock Of The Day Breakout](https://www.investors.com/research/ibd-stock-of-the-day/bitcoin-surges-to-8-month-high-trips-stock-of-the-day-breakout/)**
 
-Forbes • 1d ago
+IBD Stock Of The Day: BlackRock's iShares Bitcoin Trust, ETFs break out as cryptocurrency prices surge near their best level of the year.
 
----
-
-**[Bitcoin surged to an eight-month high above $85,000 as oil fell and ETF inflows returned](https://qz.com/bitcoin-eight-month-high-85000-etf-inflows-092126)**
-
-The cryptocurrency added nearly 5% on Monday, building on last week's gains despite a Fed rate hike and the failure of key crypto legislation
-
-qz.com • 2d ago
+Investor's Business Daily • 1d ago
 
 ---
 
-**[CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows](https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049)**
+**[Breakingviews - COMMENTARY: Bitcoin miners reveal the real AI scarcity trade](https://www.reuters.com/commentary/breakingviews/bitcoin-miners-reveal-real-ai-scarcity-trade-2026-09-23/)**
 
-CME said its crypto futures and options averaged 279,800 contracts in daily volume in the first half of 2026, representing $8.3 billion in notional value.
+Reuters • 2h ago
 
-The Block • 23h ago
+---
+
+**[Bitcoin Dips, But Its Forks Are Flying Again](https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv)**
+
+A CME futures listing and a fresh Grayscale ETF filing sent two of the biggest Bitcoin forks soaring, even as the flagship coin cooled off.
+
+Decrypt • 1h ago
+
+---
+
+**[Feds Probing Binance Over Iran’s Bitcoin Use: Report](https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance)**
+
+Feds are trying to work out whether Binance violated US sanctions on Iran.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Gary Cardone Made $750,000 on Strategy's STRC Instead of Bitcoin, Says He'll Buy BTC at $70,000](https://www.tradingview.com/news/benzinga:f57a9f25a094b:0-gary-cardone-made-750-000-on-strategy-s-strc-instead-of-bitcoin-says-he-ll-buy-btc-at-70-000/)**
+
+Bitcoin CRYPTO:BTCUSD approached $86,000 after a 44% quarterly rally, but investor Gary Cardone says he isn’t chasing the move.Cardone generated roughly $750,000 from Strategy’s NASDAQ:MSTR STRC while waiting for a better BTC entry.• Where is MSTR stock headed?Cardone Says STRC Trade Paid Him $750K…
+
+TradingView • 22h ago
 
 ---
 
@@ -241,7 +245,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 20h ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 1d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -263,7 +267,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
 
-⬆️ 2 • 💬 1 • 5d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
+⬆️ 2 • 💬 1 • 6d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
 
 ---
 
@@ -301,43 +305,43 @@ A survey suggests streaming subscription numbers are down, and film critic Dan S
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin &amp; Crypto Will Create Multi Millionaires But Not Everyone Is Paying Attention To This](https://www.youtube.com/watch?v=uJZ4WyeO2f4)**
+**[BITCOIN - THIS IS THE MOMENT](https://www.youtube.com/watch?v=hpr4wDzZcno)**
 
-You do all know the rich people are literally spelling out for us whats happening on the planet right now right? Didnt anyone think ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
 
-📺 Money Rules - Investing Tips 
+📺 My Financial Friend
 
-👁️ 2K • 👍 578 • 💬 87 • ⏱️ 17:26 • 1h ago
-
----
-
-**[The UNTHINKABLE is About to Happen to Crypto](https://www.youtube.com/watch?v=qr339lY_ChY)**
-
-The UNTHINKABLE is About to Happen to Crypto. Claim $25 bonus on a $100 deposit: ...
-
-📺 Altcoin Daily
-
-👁️ 81K • 👍 2K • 💬 90 • ⏱️ 11:20 • 12h ago
+👁️ 1K • 👍 124 • 💬 80 • ⏱️ 10:57 • 1h ago
 
 ---
 
-**[Bitcoin&#39;s New Bull Cycle: Chris Perkins on What Drove Crypto&#39;s Recent Climb](https://www.youtube.com/watch?v=kcX4THusDc4)**
+**[Bitcoin Investors...Get Ready for What&#39;s Next](https://www.youtube.com/watch?v=ZYIaMhrQPFU)**
 
-With Bitcoin at its highest level since January, Chris Perkins believes crypto is entering a new bull cycle. Increased institutional ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 Schwab Network
+📺 CryptosRUs
 
-👁️ 11K • 👍 104 • 💬 6 • ⏱️ 5:13 • 16h ago
+👁️ 13K • 👍 751 • 💬 53 • ⏱️ 45:03 • 3h ago
 
 ---
 
-**[Bitcoin: Where I Went Wrong](https://www.youtube.com/watch?v=iWBLplyqhl4)**
+**[Why Did Bitcoin NOT Dump?!](https://www.youtube.com/watch?v=bBLTdCT2G8M)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
 
-📺 Benjamin Cowen
+📺 Crypto Tips
 
-👁️ 155K • 👍 7K • 💬 920 • ⏱️ 33:00 • 11h ago
+👁️ 1K • 👍 207 • 💬 9 • ⏱️ 11:04 • 1h ago
+
+---
+
+**[This Crypto Bull Market will be So Big, Major Altcoins Could 12X (Data)](https://www.youtube.com/watch?v=WwPnY0lvRWk)**
+
+BlackRock just laid out how AI and crypto could converge into a new machine native economy. Ran breaks down why stablecoins, ...
+
+📺 Crypto Banter
+
+👁️ 20K • 👍 1K • 💬 54 • ⏱️ 42:34 • 2h ago
 
 ---
 
@@ -347,57 +351,57 @@ Bitcoin is ripping at $86000 as nearly $1 billion flows into ETFs and even longt
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 1K • 💬 57 • ⏱️ 14:23 • 13h ago
+👁️ 31K • 👍 1K • 💬 64 • ⏱️ 14:23 • 18h ago
 
 ---
 
-**[Bitcoin &#39;Go to Moon&#39;, DATs Not Broken: Strive CEO](https://www.youtube.com/watch?v=NFQVh9AH0lM)**
+**[The UNTHINKABLE is About to Happen to Crypto](https://www.youtube.com/watch?v=qr339lY_ChY)**
 
-Matt Cole CEO of Strive, joins Isabelle Lee and Tim Stenovec on "Bloomberg Crypto." Digital assets have reclaimed $3 trillion in ...
+The UNTHINKABLE is About to Happen to Crypto. Claim $25 bonus on a $100 deposit: ...
 
-📺 Bloomberg Television
+📺 Altcoin Daily
 
-👁️ 21K • 👍 139 • 💬 20 • ⏱️ 6:56 • 13h ago
-
----
-
-**[How Much Higher Can Bitcoin &amp; Crypto Go In This Rally?](https://www.youtube.com/watch?v=QMPoSgb1PEY)**
-
-This crypto rally has momentum, but every move has a ceiling. Kyle Doops breaks down the key price levels, market structure ...
-
-📺 Crypto Banter
-
-👁️ 19K • 👍 983 • 💬 17 • ⏱️ 46:54 • 4h ago
+👁️ 96K • 👍 3K • 💬 118 • ⏱️ 11:20 • 17h ago
 
 ---
 
-**[Bitcoin Is Up 45% This Quarter - And Wall Street Is Piling Back In](https://www.youtube.com/watch?v=mgrCrhbipoo)**
+**[Bitcoin Live Trading: The BTC Rally Is NOT Over?! Stay Alert! EP2133](https://www.youtube.com/watch?v=fmXjToG2AnQ)**
 
-Bitcoin #Crypto #finance Bitcoin is holding near $85K as ETF demand surges, with nearly $1 billion flowing into U.S. spot funds in ...
+WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Lifer
 
-👁️ 28K • 👍 709 • 💬 130 • ⏱️ 1:02:53 • 22h ago
-
----
-
-**[🚨 HUGE: RECORD INSTITUTIONAL BITCOIN BUYING CONFIRMED!](https://www.youtube.com/watch?v=A_NlWhnMzz8)**
-
-We're breaking down the institutional Bitcoin buying that just hit 2026 records in ETF inflows — this is the kind of capital entry that ...
-
-📺 Tim Warren
-
-👁️ 9K • 👍 543 • 💬 80 • ⏱️ 35:01 • 17h ago
+👁️ 6K • 👍 387 • 💬 36 • ⏱️ 2:05:41 • 57m ago
 
 ---
 
-**[Calamos Investments CEO: AI and Bitcoin are here to stay](https://www.youtube.com/watch?v=3in1Nmqo7e4)**
+**[Bitcoin Is Rallying — So Why Is McGlone Still Bearish? Proof of Thesis](https://www.youtube.com/watch?v=GrYE_njgVJY)**
 
-John Koudounis, CEO of Calamos Investments, discusses AI investing, oil, Fed policy and Bitcoin, saying diversified portfolios can ...
+Mike McGlone is still bearish on Bitcoin — and he's not backing away from his controversial $10K call. In this interview, McGlone ...
 
-📺 CNBC Television
+📺 Cointelegraph
 
-👁️ 11K • 👍 62 • 💬 15 • ⏱️ 5:31 • 21h ago
+👁️ 576 • 👍 43 • 💬 23 • ⏱️ 20:23 • 2h ago
+
+---
+
+**[Bitcoin: Where I Went Wrong](https://www.youtube.com/watch?v=iWBLplyqhl4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 204K • 👍 9K • 💬 1K • ⏱️ 33:00 • 16h ago
+
+---
+
+**[Bitcoin &amp; Crypto Will Create Multi Millionaires But Not Everyone Is Paying Attention To This](https://www.youtube.com/watch?v=uJZ4WyeO2f4)**
+
+You do all know the rich people are literally spelling out for us whats happening on the planet right now right? Didnt anyone think ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 14K • 👍 1K • 💬 191 • ⏱️ 17:26 • 6h ago
 
 ---
 
