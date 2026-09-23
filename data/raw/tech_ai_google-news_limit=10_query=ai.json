@@ -5,36 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-      "source": "apnews.com",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5",
-      "pub_date": 1790193180.0,
-      "article_url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI leaders warn UN of security risks as systems grow more powerful",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "pub_date": 1790194270.0,
-      "article_url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\"We have a choice\": AI leaders sound alarm at UN",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjYzTklHWlQ2aktFY2pHN2lmUUNyM2kzeGxuX0dNVUVWWms2ZlMyM255c3UzdUtDZTRwUWY2ZDhPTjUtMjAyNkFDY2JtcE9aNFBaMi1pVFB3dmkwRzBTR0lseXFVZ3loS2l4ZEpSUlpGdWF5bUk5NUhBSlV4amZmc3liM0N2MEww?oc=5",
-      "pub_date": 1790196673.0,
-      "article_url": "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Th\u00e9lyson Or\u00e9lien: French uproar over author accused of using AI",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -45,44 +15,84 @@
       "description": "Canadian-Haitian writer Th\u00e9lyson Or\u00e9lien has just been awarded the Prix du Roman Fnac for his first novel."
     },
     {
-      "headline": "From Steel To Physical AI, Pittsburgh Is Building Again",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZoc2ZPNHVDS0Z3TVBqekJqbFhBWExqRjhMVW9CSVdZaXZ4cGlkOEhWXzJtY3VteGFRcmpBZlAzRWhPTHhtSXlCdXlJSXhlM1oyN2t4TmVQaktzZDF1NkNNVWRmdlptS1p4ZVllNm80eEdQNjVDVGQ0Z2J3aklMdFE5RlVnM1RaRGNRb20xaVBESUNEOE9XcEExSTNzUEZNY0VTVHA0ZXlFTmY3SDM4?oc=5",
-      "pub_date": 1790196574.0,
-      "article_url": "https://www.forbes.com/sites/robertszczerba/2026/09/23/from-steel-to-physical-ai-pittsburgh-is-building-again/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "In A.I. Race, U.S. Models Have the Edge, but China Has Other Advantages",
+      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNem8xbkdnZmlJMGlOaG42RHkxRDZaT2Uzd0IyVGZ1MWcyM01YOVpEbDg4WkVIam9MSThGSm12SjlsaE1WUnp0a2VOTHdCd1kxSUZPXzliLXRmQ2g0Wl9jV2w5M21BNGdIVi1xb01ZMDBhbVRuTHMwWXBiWjF0T2FHWjVhSVFWR28?oc=5",
-      "pub_date": 1790190008.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
+      "pub_date": 1790092503.0,
+      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Dems urge Trump to seek AI deal with China",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUs4N3U4eGdDRHNTM1IzRlJodngzSE9aTk5jS0FuUHpOeFIzdzYyVXVsLTVyY2hFeHFnZm95LUdGenBZNzJUWlpYXzAtTXJsZnQ0X1dLMkFxcE4xTUV2R2czX0JQVG82Qkl2eVEyYTNKUzdSbWZXbG1lWE9LVWFSaExXNjRTNVNfWHg2R3BfVjJwOGVrV1Qw?oc=5",
-      "pub_date": 1790172180.0,
-      "article_url": "https://www.politico.com/news/2026/09/23/dems-urge-trump-to-seek-ai-deal-with-china-01089253",
+      "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRTVFTXJpb0lqMXZCM2ZJc08tVUFWQjd1dTdKOUhhVjFFV1REOXQ3SjlrNURZWnJfeVRRQTZ4S0d5anRKSk9QYWU2NjN6bzhfRHlrRTR4eEpiQnVuOHdudkdCMndLNkJhR3dna2tIQTdkVlpKYUNaMm42a3fSAYIBQVVfeXFMT0x1cHFQZ01KbDdkY1ozMTduSVk1TGhtRVZPS3RXMHR1YXMyNTNFbld1elJrVy1WdjlhMlZTamZKbzM2UXpFWVN4a2JMbEpjc01HNGR2aW9jZUc4RHo5ZjJZQ2V6clp3QTRyNnhLa0NxSEVUS0ZTTzZqQXU5U0xhOG45Zw?oc=5",
+      "pub_date": 1790164283.0,
+      "article_url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108338168-1784667654662-gettyimages-2287095397-_75a1669_bsgcs6jm.jpeg?v=1789594575&w=1920&h=1080",
+      "description": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business."
+    },
+    {
+      "headline": "Zuckerberg to unveil new AI products as Meta\u2019s Muse app tops charts",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnUtY2ktYUtiTlpjZ3UzTkRBanJYZExsWTBDSVBOUDR2eU9qbHRPQ2sxVlB3NnducXRvc2lLaEM2QkZMbWFtaklxbUN5YlhwM01DM3lqWVlqUW1EaTRUOUJvZHlfTjhzdTROYTctU3RZQWd5dHFrRTFfSjNiMnNldkVhN0w?oc=5",
+      "pub_date": 1790181321.0,
+      "article_url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fb0a335-ec4b-48df-aee4-5b68305eff34.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Social media group\u2019s personal AI \u2018agent\u2019 that can shop and schedule has become most downloaded app in US"
+    },
+    {
+      "headline": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
+      "source": "Engadget",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xd3RoQkZYNklIQ2pPaDN3SmtlVEx3LXF2QzA3Um1BNHBBLTRKaUs5OHp0NjZ2eW91emVuS3FBTnlXOC1uYjQ1S1ZreG5vaHVSNTg1LWJIaUFFWmpFbFNJSzBidS1UMjJ1aWhubXdmOHBlb21PNUE?oc=5",
+      "pub_date": 1790203698.0,
+      "article_url": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/",
+      "image": "https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg",
+      "description": "More smart glasses and possibly a VR headset are expected today"
+    },
+    {
+      "headline": "AI\u2019s Risk to Financial Systems",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDRMUkJBRS02TzJWLWgxOC1uVXF2S1p0U0FWcUo2SkE0M2doRVRzeVphV3FWVmhaQnY5TnliRmI1U1FUeGtZSDRiRDVGWHdHMkxYeThHZU82cVBpMkN4N2dhYlFrQVRTaTc1MkVFcURxWnl5RUFjM0Q0S1pqLUZBbl9uazNLWTJKMjg2RkRSZw?oc=5",
+      "pub_date": 1790203560.0,
+      "article_url": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
       "image": null,
       "description": null
     },
     {
-      "headline": "A US-China AI Hotline Won't Be Ready For a While",
-      "source": "wired.com",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTBYNDRuemRjYlBXMERDaEM1OUR2ZjBjSDZqYThwMnp4anR0QmNxc2JlM1hfUkQtSjZPMTVmdC1oQUZVT1ZUbTN6Z1lsanF1SEl0eUZPQUNUTVplU0huVVRqXzMteDBId0h1dlZVSS1XQzRJMkEtOHpNNjV2T3FvczhR?oc=5",
-      "pub_date": 1790197200.0,
-      "article_url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-      "image": "https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/191:100/w_1280,c_limit/politics_us_china_ai_talk.jpg",
-      "description": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues."
+      "headline": "Bernie Sanders and Greg Casar propose AI \u2018superintelligence\u2019 ban with a 20-year jail penalty",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGx1WkdsVlk5Nk9VY1Uta0tCSE9nQ2N0UW9NNFRBWUotMTBQM3lfZjNXdml3clpqV2dZYVJ0V0p6YXg2bHJhZWVSSXVnR1NSSGNVLTFYWXRtWjZRSDBUTUJDd19QZDZETkk3R19jZkdfaWtiOWNpR1VWWWVLaDlLRFFfZnhhYjJjTFB3TWVMeTFuYjI3YmEtb3VORGlIQnc1SDlaR09kV3lxRm9FRkxYMUJjSmljdW1xcnhPUFNuLVg?oc=5",
+      "pub_date": 1790203883.0,
+      "article_url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260923-sanders-casar-ai-comp-ww-1225-d77cc8.jpg",
+      "description": "New legislation authored by Sen. Sanders, I-Vt., and Rep. Casar, D-Texas, also calls for a Cabinet-level secretary of AI to regulate artificial intelligence."
+    },
+    {
+      "headline": "Dems grapple with how to pace the AI race",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUFwSk8xanZ3a3JLVTdMNjR4ekdUTkl2MUJIcFZsRHhhQWtFMm5NYmpQYmE5N01KVlNTR2NSemtPem1pSUhJYy03c0htdV93YkJ4TF9BbWg5RkdhZ2hCZmloYTgxTk5Ob1V5RmZqQmRmOTV5NGI2aEIwTFJtZEhjRFcydl8?oc=5",
+      "pub_date": 1790193262.0,
+      "article_url": "https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVVhVHJiZGpsVUVGU0JPSFEwOW1PS2lGM3FjVjRnZmVQMVQ3SjBjbEEzNGdyaTFMUXZOaTQ4bkhDb1pSUE5SbnBNejFZUFlaTzE0SkFfdEZXUkJ5WFRrQ3JwT0NjanFDbmM5WF9lWURqb2R4MUFVZGMtRmFfU1pmVGg1Ynl5a2FJVzJENFNOTEt4Uk5XdDNyVURyRVA5VXRjVUFPRFdmanNlbEdWX04wUEx3S05iTTViWWVCdV9xLXNPdFpPcG1QQUhuRUdRUQ?oc=5",
+      "pub_date": 1790187058.0,
+      "article_url": "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai",
+      "image": null,
+      "description": null
     },
     {
       "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
@@ -93,18 +103,8 @@
       "article_url": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
       "image": "https://s.yimg.com/lo/mysterio/api/c1e921873f30768fd5744fd62c027b8a769e24238f3f5203c15d91356e6994d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fimage-from-ios-5_4658.jpg",
       "description": "McDonald's (MCD) is making a long-term bet on artificial intelligence, hand-breaded chicken, and a return of 90s-style restaurants to regain customers who left for other chains, like Burger King."
-    },
-    {
-      "headline": "Meta says its Muse AI agent can do things for you. I put it to the test",
-      "source": "cnn.com",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1d2pXQ0xIV2JweTRtV3ZVZ2dqa3RxaXVreFBwTUNTeGhkNXJsSFFsRG5KVGlqWUJYMURfbjgwa1NKcU4wb3pSSElwa0dRb3prV0RjMDRtb0FlVkk5U3NkaFc0T0Y?oc=5",
-      "pub_date": 1790161229.0,
-      "article_url": "https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2296543533.jpg?c=16x9&q=w_800,c_fill",
-      "description": "It\u2019s been a busy afternoon for Pip, the AI agent I\u2019ve been using in Meta\u2019s Muse app."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T21:11:21.774850+00:00"
+  "fetched_at": "2026-09-23T23:52:34.169286+00:00"
 }

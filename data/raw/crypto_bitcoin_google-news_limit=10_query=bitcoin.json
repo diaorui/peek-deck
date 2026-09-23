@@ -15,34 +15,14 @@
       "description": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility."
     },
     {
-      "headline": "BlackRock Issues \u2018Extraordinary\u2019 Crypto Prediction As The Bitcoin Price Suddenly Soars",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3BIQ1VLZG1pVXRhamp5czg4VUt1UDZ2ZXQxUzNGLWxyd1RmdTM5ZVhMZF9LaUhodVhkeXRCcXhHRUJmVk1yME9BUzFuaUFjaVFCSUpSOTBEUFdPME5qY2V2SGpqSUtzSlZ2bkZ4WlNDTHhfa0hYMl9QVHdETVRhZi0yaTNhdlRhLU9VZ2ZoV0d4bkpRTUtldkx3ZV8xcklJMWd4cF9QRjBEd2hySnJrQXZxUTJSYk9IRWdCdFRBa0c3RGNGQlRJN3hsd1dxRlZCcjJmMGtwUQ?oc=5",
-      "pub_date": 1790163033.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/23/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
-      "pub_date": 1790168400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
-      "description": "Per Saylor, crypto is alive and well."
-    },
-    {
-      "headline": "Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5",
-      "pub_date": 1790077923.0,
-      "article_url": "https://www.foxbusiness.com/video/6405405839112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/24a5c49f-0428-46b2-9752-bdf541f1b314/bbc40954-95f2-4468-b466-8d011ebc3ab8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
+      "headline": "Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZmdGWG5ublkyVnNGaHplY002MVBfV1g0a1Fpckd0N2lRM0RsSWk4R0R1cjQtVXd5T2dhRERVdFc1MVctWndZWTQ5TTY3dlhwOHNVTXVrNnh4SmkyVjRodWQySmF6Zzd5SkdNdHNSY2bSAXZBVV95cUxNdE0zQ2N1bUlzeERWOEpqWGcxNnRwemNMZWtmemdsRnIwbXpuRnJvdTdON2xnNUF5ZmZoX212SWZORE13Y2pONVd6NnR0S3lYTDJNM2pqN0lLVGhZTDJBeHJVbnQ5XzVkSVlLMHZqdDBzUnlEbGZB?oc=5",
+      "pub_date": 1789989055.0,
+      "article_url": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108134741-1745329902556-gettyimages-2209133060-vcg111560067123.jpeg?v=1781816482&w=1920&h=1080",
+      "description": "Bitcoin rose above $85,000 on Monday extending a rally over the past few days."
     },
     {
       "headline": "A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks",
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "How Bitcoin Became an Emotional Tether for a Specific Type of Lost Boy",
-      "source": "Slate Magazine",
-      "source_url": "https://slate.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS2Fya2hHWGRsSHVFZWtsbXZBUXh2cjlYeDNidjRaZzRIR3h4YmtMb1RYN21DU052RkNQTjk3djVoVm5UTGFEVFF4TlFSdGpVYjRnOGNUbVJkaDNoR01IN3lXSFQ2MUZKb1RQRmF6OVFBVGFEbkxjZlg5RWQtX1NrOEVZdmswZkZDZ3ZpYnpIaXJTU25qMm1pWHZlWWpfYkdE?oc=5",
-      "pub_date": 1789897200.0,
-      "article_url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
-      "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
-      "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why."
-    },
-    {
-      "headline": "Bitcoin Dips, But Its Forks Are Flying Again",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JYzZfb0FqbHNXalgybjU5T2wzQUtHUkRUejM3N3dzUk1yaXVGVFJVejVDTlBfdW01bE9yMDh0NWt6WmdXV24wRFBEMU9wdnpEMWtFaG1YM0ptdWg4WVh6TmdOaFZXUFllUFcyUDZYVFhoYXA0NXfSAX5BVV95cUxOYjNRYVdCX3ZmY2ZKYXZGSlEtbk9JN0NUNGtiQjFveU9SRnJuY2xQSHRTUmh5NFpOVXNGRlFXYUdyOERsSHJFYjh2RFItWjJGSGQtWkNvSFhZcTZUZGpJOFFrRm84eUl1bzVOVUp4dkZ0WE5TVXlQOHdVMFhiY3c?oc=5",
-      "pub_date": 1790178963.0,
-      "article_url": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-28-gID_7.png",
-      "description": "A CME futures listing and a fresh Grayscale ETF filing sent two of the biggest Bitcoin forks soaring, even as the flagship coin cooled off."
-    },
-    {
-      "headline": "Bitcoin Has Almost Erased Its 2026 Losses. What\u2019s Next?",
-      "source": "Morningstar",
-      "source_url": "https://global.morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXg5aEFObUZsd1ZOaGFwUVppRkptdFdUOFk1M1hxai01Nnoyd25Rbjh5VDlVYk45Y29TSk9BNHRxNzNEcEs2c01pVkxrWHphMUdfaGktRUNTT0FwcDhkajB5bG9IREs3ZmlLdGNHVndTVVNFeWFTNXg0WkhxWnNSN25VNEFCcGF1aE1abWliVGoxR1NxOTdrUWtsbGxrdw?oc=5",
-      "pub_date": 1790094889.0,
-      "article_url": "https://global.morningstar.com/en-gb/markets/bitcoin-has-almost-erased-its-2026-losses-whats-next",
+      "headline": "Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFVIQnJhNlRJVVNsZnRMR1R2YWhvWERxbkVLQkNudHVPc3pxY1Jvd3JDQXdaNUpsMWlQYzRWUGY3TEdTdXlvcmZFSnlTSUpBOGVzQ2diSVVrOVV4czVDUkF1bWtHU3k5LU1fSlFEQndDdUhySmVHV2FUamxRRG5PREtNM1RIbVRjM3ZweG1pS3loZGlqcTY1Z3MxZUpCQXNUbWF1VE4tWERlQ09DdmlrRDRB?oc=5",
+      "pub_date": 1790110080.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow",
       "image": null,
       "description": null
     },
     {
-      "headline": "Breakingviews - COMMENTARY: Bitcoin miners reveal the real AI scarcity trade",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTE5oU01ueU0zN0t6Mlh0QU1vU3M5bDNTSHUwSU12RmR3M0JaUjlGSUFTbkF1ZGNqWHVCN2JuR1JsRW40RnZvMUlqZk5TOTR3cGI0Z0pGX0R3U1RWZTh2UmRsUUllQlYwa1MyZ0VpRk95cUdOOWVnRjczSkV6UUhrOUN1cVltOG1YVnNJbWRlTEczRGdoWDBuQ3JUM2NOMzhHNjhzTGE3NjY?oc=5",
-      "pub_date": 1790178171.0,
-      "article_url": "https://www.reuters.com/commentary/breakingviews/bitcoin-miners-reveal-real-ai-scarcity-trade-2026-09-23/",
+      "headline": "Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5",
+      "pub_date": 1790077923.0,
+      "article_url": "https://www.foxbusiness.com/video/6405405839112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/24a5c49f-0428-46b2-9752-bdf541f1b314/bbc40954-95f2-4468-b466-8d011ebc3ab8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
+    },
+    {
+      "headline": "Simple Mining seeks to host bitcoin center in Madison",
+      "source": "KELOLAND.com",
+      "source_url": "https://www.keloland.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2lkSVJtSHRRTW9fQmxybmNkcmVqWE5zeVdmMC1lcFg3eGoySjVhZDRNMTBxYzF6WEZRVnM1eExWRWtvRFJTQVo3SmlRQWdCSmtDX01acUtJbXhOUkhYa2szcXhqbE4xWHlnS0ZnLTBGQldPcER0b0FUVmdielphckRHeHJFcXJJckRIQ2NCRUpjQk5uMHk1TXZMcy1ESjlHZ2lz0gGoAUFVX3lxTFBpN1NiZmdLMXRfb25kNm1nT2NhMy1ieXlsUDZ4MEZiNXJ0eVdib3hSYlhpRUxDRGR6MnBXemJFSWYyYTdIbk5QemZkNjkyaG14dkJvVXE3cU9EQjk2dmlxTEEzUGZkT2hyNkdsVjk4MjdTV1ZpUFN3RG9wdzAwazdBSy0tUlpPVVhPTFpPRWt4czh0VnpRUklSaW5tcnBhTW84S2tLaS01Tw?oc=5",
+      "pub_date": 1790191183.0,
+      "article_url": "https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Saylor\u2019s Strategy Makes First Purchase of Bitcoin Since August",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hTNlFGcGp3MFVmOXMzbm1GYXAyVWswYV9iQXBmelVhbHgxM3J4TEhwNkh1WnhoYmpKNlJKelhrcjFpbDdHWFZQSzVrMXZUVjljT2FCS216OTJfNjhYLW5YeWx6c1NEejhITk14dWY2QmpzODVyclNUM3B0NkpKNEtJaUk5c0xtMWtHQkhBNTRyeWJyNGE0d0NYMEhVSV83Wk1QWEY0ZVBqbThZTGdUWnNhaw?oc=5",
+      "pub_date": 1790024379.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How to Play MicroStrategy Stock as Bitcoin Prices Surge Higher Again",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGUtTnZpX2ZaOE1TLTdGQlktejdhbXhIQV92dFZFTVZ3U1p6M3BTUmx6YUZ5RXdQeUpxclRUQTlYbjlGb1d6S0lmRUVZZG9ZM3NOVTlJbG5BZU9tZmpvMUU5bTJITDRpMm13dFBSZHZZSk95VzJPVWtfMURHbzExSVJKLS1yMkJxeTV2Q2N4SGFIY2dIWUpnanZ0RW5mSlFzRW9CSldaUnN2WS1lRnNFRXR3?oc=5",
+      "pub_date": 1790160343.0,
+      "article_url": "https://www.barchart.com/story/news/4750873/how-to-play-microstrategy-stock-as-bitcoin-prices-surge-higher-again",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
+      "pub_date": 1790168400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
+      "description": "Per Saylor, crypto is alive and well."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T21:11:04.114390+00:00"
+  "fetched_at": "2026-09-23T23:52:27.391562+00:00"
 }

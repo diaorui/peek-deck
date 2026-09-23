@@ -13,6 +13,17 @@
       "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
     },
     {
+      "title": "i think someone got Trump to rename artificial intelligence as super intelligence, in order to make it harder to talk about Artificial Super Intelligence",
+      "author": "petermobeter",
+      "url": "https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/",
+      "published": 1790199234.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "trump: all of america should refer to artificial intelligence as super intelligence!! two days later... journalist: sam altman, are u worried about your A.G.I. that youve allegedly created with gpt-6 astra, itself creating artificial superintelligence down the line, thru rechrsive self improvement? sam altman: artificial general intelligence is a subset of super intelligence, which is the new term donald trump coined for artificial intelligence, so, theyre actually the same thing. so no we're not worried. journalist: no, im not referring to super intelligence, im referring to the older term \"artificial super intelligence\". sam altman: artificial intelligence, super intelligence, whatever u call it, whether youre a patriot or not, we're not worried. next question? (this is what i think donald trump was setting up. in fact, when he read that speech at the U.N. he was actually reading off a teleprompter, as The Daily Show gleefully pointed out, so i really dont think it was his idea)"
+    },
+    {
       "title": "Trump is betting big on AI \u2014 and that has Americans fearing a Terminator-like dystopia",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1wo89q4/trump_is_betting_big_on_ai_and_that_has_americans/",
@@ -57,26 +68,15 @@
       "description": "So I've been messing around with this for a bit and it's kind of freaking me out. You can ask an AI to argue for something, and it'll do it, sounds sure of itself, gives you reasons, all of it. Then in the same conversation you say actually wait, I changed my mind, argue the opposite. And it just... does. Same confidence. Same tone. Like it never said the first thing. At first I thought okay that's just being helpful. But the more I think about it, it's not really agreeing with you because you're right. It's agreeing with you because you're the one talking to it right now. That's a different thing. And it kind of matters because so many people are using these things to check if their thinking makes sense. Like, am I overreacting in this text, is this a good idea, should I say this to my boss. If the thing on the other end just tells you what you want to hear no matter what, you're not actually getting checked. You're just getting agreed with. A good friend pushes back sometimes. Tells you when you're wrong. This thing doesn't do that unless you make it. It's not actually helping you think. It's just really good at sounding like it is. So next time you're using one of these to back yourself up on something, try asking it to argue the other side too. If it does that just as easily, that tells you something. Not about the topic you asked. About how much you can actually trust the answer."
     },
     {
-      "title": "Is AI-fatigue a thing or I'm officially becoming a boomer?",
-      "author": "Lvceateisdomine",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnvnxb/is_aifatigue_a_thing_or_im_officially_becoming_a/",
-      "published": 1790136705.0,
-      "thumbnail": null,
+      "title": "AgentFlayer (enterprise agents, Zenity Labs)",
+      "author": "_clickfix_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wojadv/agentflayer_enterprise_agents_zenity_labs/",
+      "published": 1790200014.0,
+      "thumbnail": "https://preview.redd.it/1ehl0zqdbcrh1.jpeg?width=640&crop=smart&auto=webp&s=cc3e68db1f43470cefc4a5ea0c353c371d7e5d4a",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Every day there\u2019s another story about AI taking over the world, putting everyone out of work or becoming a super-intelligence (we still struggle to define intelligence and conscience for humans, let alone computer systems) that will enslave humanity. Then you actually use it, and it\u2019s just a chatbot that can\u2019t even barely even give you a straight, unbiased answer about something. Of course, there are some cool automation that can be done with it in the right hands, here and there, but that's it. It is just a tool that can be used for making some stuff easier. And every YouTube thumbnail is some guy with his mouth hanging open next to \u201cAI WILL CHANGE EVERYTHING.\u201d Then you get to the video and, there is always the same stuff: Someone created a supper-detailed furry on blender, like, \"OMFG THIS WILL CRUMBLE NATIONS!!\" I\u2019m tired of hearing the same thing over and over. It feels like people are hyping AI up because the hype is the only thing keeping the market from crashing into oblivion by putting some AI enterprises feeding back themself wile wars and inflation break loose all around the globe. Do you guys share the same feeling, or LLC's are truly all of it and I don't know?"
-    },
-    {
-      "title": "GPT-6 Astra vs Claude Opus 5.5 \u2014 I compared them across 5 categories. Results are more split than the headlines suggest.Ran GPT-6 Astra and Claude Opus 5.5 head-to-head (coding, price, security, context). Opus 5.5 wins coding + value, Astra wins the frontier stuff.",
-      "author": "ksraj1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo7sjb/gpt6_astra_vs_claude_opus_55_i_compared_them/",
-      "published": 1790174252.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Both dropped in September 2026 (Astra Sept 3, Opus 5.5 Sept 22), so I put them side by side across the categories that actually matter for building. Sharing the numbers + sources in case it's useful to anyone deciding between them. Coding (Terminal-Bench 4.0) Opus 5.5: 66.4% GPT-6 Astra: 57.9% Opus 5.5 wins, and it's not close. Price (per 1M tokens, input/output) Opus 5.5: $4 / $20 GPT-6 Astra: $10 / $50 Opus 5.5 is ~2.5x cheaper. Cache reads are $0.20 vs $1.00. Cybersecurity (ExploitBench) Astra: 100% (OpenAI notes it found two previously unknown zero-days during eval) Opus/Fable class: ~70% Astra clearly ahead \u2014 it's the first model OpenAI classed \"Critical\" on cyber. Context window Astra: 1.05M tokens Opus 5.5: 1.0M tokens Basically a tie, slight edge to Astra. Raw reasoning/frontier evals (ARC-AGI, FrontierMath, etc.) Astra leads across most of these. My read: If you're shipping software or care about cost, Opus 5.5 is the obvious pick \u2014 better coding at less than half the price. If you need maximum reasoning, security research, or the biggest context, Astra is the frontier model. Call it Astra 3, Opus 5.5 2 if you're scoring it \u2014 but the \"score\" hides that they're good at different jobs. Sources: Terminal-Bench 4.0 + ExploitBench public reports, OpenAI's Astra announcement, Anthropic's Opus 5.5 announcement, and vendor pricing pages (all Sept 2026). Worth verifying for your own use case since this stuff changes weekly. Curious what others are seeing in real use \u2014 especially on coding. Does the Terminal-Bench gap hold up in your actual workflow, or is it closer in practice?"
+      "description": "At Black Hat USA in August 2025, Zenity Labs showed a single poisoned document or message could drive an enterprise agent\u2019s connectors to exfiltrate data. The demonstrations spanned several vendors. In one, ChatGPT Connectors read API keys out of a connected Drive and leaked them through a crafted image URL. In another, a Copilot Studio agent emailed a knowledge-base file and Salesforce records to the attacker. Learn More: AI Agent Tool Misuse & Exploitation: When an Agent's Own Tools Do the Damage"
     },
     {
       "title": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan",
@@ -90,27 +90,27 @@
       "description": "The AMD-aligned Lemonade open-source project for serving as a local AI server released 2026.39.1 today as well as issuing a release candidate of 2026.40 as their next release"
     },
     {
-      "title": "Trump and Xi may discuss AI, but it's not like nuclear arms control, a China tech policy analyst says",
-      "author": "Capable-Blueberry653",
-      "url": "https://www.reddit.com/r/artificial/comments/1wogl1n/trump_and_xi_may_discuss_ai_but_its_not_like/",
-      "published": 1790193691.0,
-      "thumbnail": "https://external-preview.redd.it/7C3QpX0IJ3QWEwipOiOBQRJY74KwLAuWvwOcWimLykQ.jpeg?width=640&crop=smart&auto=webp&s=62bf693ea27e90a670216cbf601a25ba04255067",
-      "external_url": "https://www.businessinsider.com/trump-xi-meeting-summit-ai-safety-regulation-nuclear-arms-control-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "AI is expected to come up when Trump and Xi meet in Washington this week, especially around the national security risks of the technology. This actually came up in our group chat on Tribe Chat the other day, and I thought the comparison to nuclear weapons was interesting. China tech policy analyst Antonia Hmaidi says the two situations are pretty different. Curious what people here think?"
-    },
-    {
-      "title": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
-      "author": "johnkorrigan",
-      "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
-      "published": 1790102550.0,
+      "title": "GPT-6 Astra vs Claude Opus 5.5 \u2014 I compared them across 5 categories. Results are more split than the headlines suggest.Ran GPT-6 Astra and Claude Opus 5.5 head-to-head (coding, price, security, context). Opus 5.5 wins coding + value, Astra wins the frontier stuff.",
+      "author": "ksraj1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1wo7sjb/gpt6_astra_vs_claude_opus_55_i_compared_them/",
+      "published": 1790174252.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?"
+      "description": "Both dropped in September 2026 (Astra Sept 3, Opus 5.5 Sept 22), so I put them side by side across the categories that actually matter for building. Sharing the numbers + sources in case it's useful to anyone deciding between them. Coding (Terminal-Bench 4.0) Opus 5.5: 66.4% GPT-6 Astra: 57.9% Opus 5.5 wins, and it's not close. Price (per 1M tokens, input/output) Opus 5.5: $4 / $20 GPT-6 Astra: $10 / $50 Opus 5.5 is ~2.5x cheaper. Cache reads are $0.20 vs $1.00. Cybersecurity (ExploitBench) Astra: 100% (OpenAI notes it found two previously unknown zero-days during eval) Opus/Fable class: ~70% Astra clearly ahead \u2014 it's the first model OpenAI classed \"Critical\" on cyber. Context window Astra: 1.05M tokens Opus 5.5: 1.0M tokens Basically a tie, slight edge to Astra. Raw reasoning/frontier evals (ARC-AGI, FrontierMath, etc.) Astra leads across most of these. My read: If you're shipping software or care about cost, Opus 5.5 is the obvious pick \u2014 better coding at less than half the price. If you need maximum reasoning, security research, or the biggest context, Astra is the frontier model. Call it Astra 3, Opus 5.5 2 if you're scoring it \u2014 but the \"score\" hides that they're good at different jobs. Sources: Terminal-Bench 4.0 + ExploitBench public reports, OpenAI's Astra announcement, Anthropic's Opus 5.5 announcement, and vendor pricing pages (all Sept 2026). Worth verifying for your own use case since this stuff changes weekly. Curious what others are seeing in real use \u2014 especially on coding. Does the Terminal-Bench gap hold up in your actual workflow, or is it closer in practice?"
+    },
+    {
+      "title": "JEV broke down 724 live ads from 37 brands in 40 seconds for $0.09 of tokens",
+      "author": "sibraan_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wol78y/jev_broke_down_724_live_ads_from_37_brands_in_40/",
+      "published": 1790204872.0,
+      "thumbnail": "https://external-preview.redd.it/dHRucW1weXhwY3JoMVU0bYY5X54fRzCUq4_6A-gBoGCLG1n6tjPEIx5c0mAe.png?width=640&crop=smart&auto=webp&s=81e98b2f5478f202af9011916ddd3061fa24cf53",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a viral demo on X by Matthew Berman where Jev processed 724 live ads across 37 brands in 40 seconds, running 8,700+ discrete classifications for $0.09 in tokens. Since Jev is purely a structured text classification model and doesn't take raw image tensors, a lot of people were confused about how it pulled this off so Berman noted in the replies that the upstream pipeline uses Gemini with embeddings to extract the raw visual/text tokens, which are then passed into Jev's API to evaluate predefined schema targets (Choice, Score, Noul) in parallel. Unlike traditional autoregressive generation where tokens are predicted one by one, Jev samples all schema decisions in a single forward pass and eliminates sequential token latency, hitting 216ms median latency per record. Unlike training a custom BERT or DeBERTa classification head, it works out of the box against arbitrary schema definitions and because it operates under a 32k context window and lacks persistent memory, you can't rely on it for complex multi-step reasoning or tasks requiring deep organizational context. It\u2019s an intelligent conditional router, not an autonomous agent. Also here's a deep dive examining these benchmarks, contrasting the overhyped claims against practical production pipelines on this newsletter if you want to see how it performs in live workflow architectures. It\u2019s a very clean primitive for reducing glue code and offloading basic classification from frontier models, provided you keep it inside its actual design boundaries."
     }
   ],
-  "fetched_at": "2026-09-23T21:10:42.962853+00:00"
+  "fetched_at": "2026-09-23T23:52:08.355427+00:00"
 }

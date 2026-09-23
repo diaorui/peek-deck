@@ -77,25 +77,6 @@
       "project_page": "https://gamehorizon-suite.github.io/"
     },
     {
-      "id": "2503.11576",
-      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
-      "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
-      "organization_name": "ibm-granite",
-      "organization_fullname": "IBM Granite",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
-      "summary": "We introduce SmolDocling, an ultra-compact vision-language model targeting\nend-to-end document conversion. Our model comprehensively processes entire\npages by generating DocTags, a new universal markup format that captures all\npage elements in their full context with location. Unlike existing approaches\nthat rely on large foundational models, or ensemble solutions that rely on\nhandcrafted pipelines of multiple specialized models, SmolDocling offers an\nend-to-end conversion for accurately capturing content, structure and spatial\nlocation of document elements in a 256M parameters vision-language model.\nSmolDocling exhibits robust performance in correctly reproducing document\nfeatures such as code listings, tables, equations, charts, lists, and more\nacross a diverse range of document types including business documents, academic\npapers, technical reports, patents, and forms -- significantly extending beyond\nthe commonly observed focus on scientific papers. Additionally, we contribute\nnovel publicly sourced datasets for charts, tables, equations, and code\nrecognition. Experimental results demonstrate that SmolDocling competes with\nother Vision Language Models that are up to 27 times larger in size, while\nreducing computational requirements substantially. The model is currently\navailable, datasets will be publicly available soon.",
-      "ai_summary": "SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.",
-      "hf_url": "https://huggingface.co/papers/2503.11576",
-      "arxiv_url": "https://arxiv.org/abs/2503.11576",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.11576.png",
-      "upvotes": 177,
-      "num_comments": 19,
-      "published_at": "2025-03-14T12:44:14.000Z",
-      "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 67667,
-      "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
-    },
-    {
       "id": "2608.23283",
       "title": "Apodex 1.1: Scaling Agentic Intelligence for Complex Work",
       "authors": "Apodex Team, B. An, B. Li et al. (71 authors)",
@@ -115,6 +96,25 @@
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
     },
     {
+      "id": "2503.11576",
+      "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+      "authors": "Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)",
+      "organization_name": "ibm-granite",
+      "organization_fullname": "IBM Granite",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
+      "summary": "We introduce SmolDocling, an ultra-compact vision-language model targeting\nend-to-end document conversion. Our model comprehensively processes entire\npages by generating DocTags, a new universal markup format that captures all\npage elements in their full context with location. Unlike existing approaches\nthat rely on large foundational models, or ensemble solutions that rely on\nhandcrafted pipelines of multiple specialized models, SmolDocling offers an\nend-to-end conversion for accurately capturing content, structure and spatial\nlocation of document elements in a 256M parameters vision-language model.\nSmolDocling exhibits robust performance in correctly reproducing document\nfeatures such as code listings, tables, equations, charts, lists, and more\nacross a diverse range of document types including business documents, academic\npapers, technical reports, patents, and forms -- significantly extending beyond\nthe commonly observed focus on scientific papers. Additionally, we contribute\nnovel publicly sourced datasets for charts, tables, equations, and code\nrecognition. Experimental results demonstrate that SmolDocling competes with\nother Vision Language Models that are up to 27 times larger in size, while\nreducing computational requirements substantially. The model is currently\navailable, datasets will be publicly available soon.",
+      "ai_summary": "SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.",
+      "hf_url": "https://huggingface.co/papers/2503.11576",
+      "arxiv_url": "https://arxiv.org/abs/2503.11576",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.11576.png",
+      "upvotes": 177,
+      "num_comments": 19,
+      "published_at": "2025-03-14T12:44:14.000Z",
+      "github_repo": "https://github.com/docling-project/docling",
+      "github_stars": 67713,
+      "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
+    },
+    {
       "id": "2503.08638",
       "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
       "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
@@ -130,27 +130,8 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 10134,
+      "github_stars": 10188,
       "project_page": "https://map-yue.github.io/"
-    },
-    {
-      "id": "2407.16741",
-      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
-      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
-      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
-      "hf_url": "https://huggingface.co/papers/2407.16741",
-      "arxiv_url": "https://arxiv.org/abs/2407.16741",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
-      "upvotes": 89,
-      "num_comments": 7,
-      "published_at": "2024-07-23T13:50:43.000Z",
-      "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 88950,
-      "project_page": null
     },
     {
       "id": "2609.20519",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/google-research/rrsi",
       "github_stars": 190,
       "project_page": "https://regularized-rsi.com/"
+    },
+    {
+      "id": "2407.16741",
+      "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song et al. (24 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Software is one of the most powerful tools that we humans have at our\ndisposal; it allows a skilled programmer to interact with the world in complex\nand profound ways. At the same time, thanks to improvements in large language\nmodels (LLMs), there has also been a rapid development in AI agents that\ninteract with and affect change in their surrounding environments. In this\npaper, we introduce OpenDevin, a platform for the development of powerful and\nflexible AI agents that interact with the world in similar ways to those of a\nhuman developer: by writing code, interacting with a command line, and browsing\nthe web. We describe how the platform allows for the implementation of new\nagents, safe interaction with sandboxed environments for code execution,\ncoordination between multiple agents, and incorporation of evaluation\nbenchmarks. Based on our currently incorporated benchmarks, we perform an\nevaluation of agents over 15 challenging tasks, including software engineering\n(e.g., SWE-Bench) and web browsing (e.g., WebArena), among others. Released\nunder the permissive MIT license, OpenDevin is a community project spanning\nacademia and industry with more than 1.3K contributions from over 160\ncontributors and will improve going forward.",
+      "ai_summary": "OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2407.16741",
+      "arxiv_url": "https://arxiv.org/abs/2407.16741",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2407.16741.png",
+      "upvotes": 89,
+      "num_comments": 7,
+      "published_at": "2024-07-23T13:50:43.000Z",
+      "github_repo": "https://github.com/opendevin/opendevin",
+      "github_stars": 88991,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-23T21:10:50.382737+00:00"
+  "fetched_at": "2026-09-23T23:52:19.403229+00:00"
 }

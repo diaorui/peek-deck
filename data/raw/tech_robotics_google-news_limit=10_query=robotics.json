@@ -6,13 +6,33 @@
   "articles": [
     {
       "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "Qualcomm",
+      "source": "qualcomm.com",
       "source_url": "https://www.qualcomm.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
       "pub_date": 1790165026.0,
       "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
       "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
       "description": null
+    },
+    {
+      "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3RrQmxZV1B0S3MxUVl1V0V2eFBzbklkWlVoUUF3NFoyZndqSVlEbUZSYnVJNTNpNktHalBTNVFSTFhXUHVxZkdLUjhqN1B1WVNBUU1EQVA5enFtdVFyTHNLQlhnOVlRMDVsMFNGaXZ1dHdpVHZ1OWtZdVFqYWZyZE9tTGpSckRFRkpZUlpZUXVUclNx?oc=5",
+      "pub_date": 1790163493.0,
+      "article_url": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Qualcomm-Linux-2.0-upstream-kernel-Dragonwing.jpg",
+      "description": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework."
+    },
+    {
+      "headline": "Qualcomm acquiring robotics software firm PickNik (QCOM:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1VabnhuZ1FhbVRHQVVOc2ZRS1JOMWFlbTV6QUxvOWlWWEhRYnBRMjhZOHlETkdrUjl0OHhsdzJfbTVZYXFocFVlT1dGbHYwcmhfdFBhWG0zZUlVRkZ2c1JpMEhITVBiZlktMXN1Nks3OEhvUVF0N0syb1g3VE5iTGYxLXF1VUllaTA4a1hFOEs?oc=5",
+      "pub_date": 1790163571.0,
+      "article_url": "https://seekingalpha.com/news/4645916-qualcomm-acquiring-robotics-software-firm-picknik",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246178320/image_2246178320.jpg?io=getty-c-w630",
+      "description": "Qualcomm acquires PickNik to expand physical AI and robotics, integrating MoveIt with Dragonwing and Arduino platforms."
     },
     {
       "headline": "Google Is Giving Away \u2018The Android Of Robotics\u2019",
@@ -25,14 +45,54 @@
       "description": null
     },
     {
+      "headline": "K-Pop Is Betting on AI and Robots. Will Fans Buy It?",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGh0WmVldFNfNkc1LXFXSVNrdzlvTlBIVmI3eVdDckt6YnVkZHNUS19JVGlhdFJSYTgzNHhQSEUtZXVNdGFkX0hMYV9PMTRKcG1rdTI3amhGTFpPUWZfVUducUFpcVhNRExoUkYtbU1NbHpCZnhOUnc1YU9XZjhZOENxQm1SMEFwU2hwenpyZE0?oc=5",
+      "pub_date": 1790100292.0,
+      "article_url": "https://www.wsj.com/tech/ai/k-pop-is-betting-on-ai-and-robots-will-fans-buy-it-6b3f161c",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Meet the Roboticist Making Machines that Give Back to Nature",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01My1yTEtBMFV1MUI4OWNfeFhTVFZvRktiT0ZBSVBJZU14dlM4akljYzVETHhtZC11MHQxYS0yS081M3JiS1V6ZF9EQ0Z1a3JwTmFmVWlEZnBBR1pjN3RrZVhsVERZcHBoandzaGxBT3hYUXdS?oc=5",
-      "pub_date": 1790085863.0,
+      "pub_date": 1790085760.0,
       "article_url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
       "image": "https://spectrum.ieee.org/media-library/image.png?id=67787635&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
       "description": "Sustainability robotics sees the environment as more than inspiration"
+    },
+    {
+      "headline": "Robotics expert casts doubt on viral humanoid videos watched by millions",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3l4a0dodklrbEpRMEV5OW9BdWhadXdkdU5zTXd4WVh0NVc0Y2RQWHRua0llRHo3NkhTUXlmbUNMdmRjUmxqUGl5TDRVWVIyRkxjRl9qRjNBdXctMi0xSVRtYkRhQ2FZcHo4VVVUbHE1U2NSbW02Rko1TlNHRWQzTmwzWG5QZVB0TGdLUENubjZfSkFMMzNDODU3QXJ4N3FNejd0UUZsNEVybENN?oc=5",
+      "pub_date": 1790145439.0,
+      "article_url": "https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
+      "source": "arstechnica.com",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
+      "pub_date": 1790096776.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
+      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "techxplore.com",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Can you lend me a hand? Researchers are developing wearable robotic limbs",
@@ -43,68 +103,8 @@
       "article_url": "https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197",
       "image": "https://images.theconversation.com/files/760205/original/file-20260916-50-sfzlq4.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
       "description": "Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body."
-    },
-    {
-      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
-      "pub_date": 1790096776.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-    },
-    {
-      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
-      "pub_date": 1789971965.0,
-      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
-      "pub_date": 1790158801.0,
-      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "pub_date": 1790078795.0,
-      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
-    },
-    {
-      "headline": "Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObWU5d1ZnY1pVTGhSUFFzb2h6aDIxaWp6MHRoSWsySEpvOGdqMFpvNnRubTRTRXA0TG1JcXR4R0ZMRThwNjRLRmMtaU1Gb0FnWWJtWjRnV3doLWpTbzFkV0RiUERSMkhaVE40TTJSRFQ4VXRkUWtuOTQ5UnAwbFo2OHd6ZXFWQ3g4RHRXWg?oc=5",
-      "pub_date": 1790108155.0,
-      "article_url": "https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics",
-      "source": "Emory News",
-      "source_url": "https://news.emory.edu",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGs0amwxdVF5S2o4UXpDNXo3ZDdPZUp0cjR1dEZHaWdXTVZjS0tLOEk5N3B0bW5Uby04cS1wcjlNeGIwRjdHVEFZcF9JQ2F6alZnOVdVQVVDQ0lSSXphXzNpUExibkk5QVNzRldVNkhnd0s0VzRuZkU0Uk03Z2ZTYUxUWWg3czBjbTB1T21JY0NpNlV0TFAta1ZnbWVhdlR1ZlJDTGV0eXhKOGRUWi1oY1NnMFRsZmlTS21xSFZlbw?oc=5",
-      "pub_date": 1790072337.0,
-      "article_url": "https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics",
-      "image": "https://news.emory.edu/sites/emorynews/files/styles/og_image/public/2026-09/Emory-University-School-of-Medicine.jpg?itok=J3VuR86y",
-      "description": "One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T21:11:04.047187+00:00"
+  "fetched_at": "2026-09-23T23:52:38.338289+00:00"
 }

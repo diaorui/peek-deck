@@ -5,14 +5,24 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January",
+      "headline": "Vitalik Buterin Backs Trueo's Ethereum Move As TRUE Jumps 900%",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQTlweVJZckM2REhiOVc4OWE3M3h1YU9oM0hpYjJhT0RZeEpOY2IzR1JaRVdQczZydkNZNGxiVGp4VVFOUG41a3h3R1lKQU9ocnpBZy1KeGMxRndLSkpsZE5ocUlSczg4ODRlTzdtZGVTVXdlaDdPS2o4dE9Vb3pWMF9yZEZJbGtNUDhIYW5ZMGh1UQ?oc=5",
+      "pub_date": 1790119792.0,
+      "article_url": "https://thedefiant.io/news/defi/vitalik-buterin-backs-trueo-ethereum-move-true-jumps-900",
+      "image": "https://cdn.thedefiant.io/pasted-1790097996298-png-3a13e364-e43c-4995-a919-a0f2e7f2855d.png",
+      "description": "Trueo will move its prediction market from Base to Ethereum mainnet. Vitalik Buterin called the project ethical and not corposlop, and the TRUE token rose 900%."
+    },
+    {
+      "headline": "Ethereum vs. Chainlink: Which Will Benefit More From Tokenization?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQdzdoSjQxeEVTZjVPbVV6RmRBSVhOZ0FPbUxLUlFfTVJjS2tmYk5xQldGLTdfN21BRG80Z1ZHN3Vmc2lqRm9IVkNyVTRvQUZMc19ZNWdYU1RhTndkaEtveVF4U181c3JMVzlVZ1VGOVJhTTJfMWdpRjl0QXBKbmdYU0tyUmhGT3RhcVNLYVFQSy1wTzV3UlZjbWtackNkLUk5RmxHWnM3RDVGakg1MGpGa0kxT0VmMllKVGpvX1JhV0hJQVdFMFpPdHNOWGZPMW5yc0ZleWQ2VUdlM1ZNY3FXQmViVVNUN2M1NURLckM0TUhkZk1KVms0NkxDSGhXblZUMGl3R0JFalRPWWd1VUgxVzdvNDRfYUlhX2ZiVjR0WnpuZGpL?oc=5",
-      "pub_date": 1790077644.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/a17e080591b1ec8e35e235ab121c719ae8030cca3aaf6f8e6eaecb157afaa909/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fethereum_%2520_bitcoin_2_2928.jpg",
-      "description": "Bitcoin opened at $86,597.82 on Tuesday, September 22, 2026, 6.7% higher than Monday's opening price. As of 7:20 a.m. ET this morning, the price of bitcoin slid to $86,035.18. Ethereum opened at $2,775.96 on Tuesday, September 22, 2026, up 5% from Monday's opening price. The price of ethereum slid lower this morning to $2,734.44 as of 7:20 a.m. ET."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2JLWjd6cEpraUFiTlhaNDVSZFMyQkt1SF9wYnc2RWZKaGxmVS1jOXJxVVBWZVNrV2lMRk8wdnlOT2R3bnRXVjFvUHBMaWh6UWJCNGNHVzhUYXBvWXpwNkxwU0lrR2tVS1pPaUJkRnRuSnNJMy1SVXc5Z3pLQlJ3Y1BUTDBEM1F4eTJuTWtZZU1GaHhTd1VuLTNuaFZMZEpF?oc=5",
+      "pub_date": 1790202303.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-vs-chainlink-benefit-more-222503207.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fd684b12e5941f53012a1c0bf371d1d2b25e565a62f427e95bc78811a008b09b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F7581fea6caa6efda4122aea268e182d2.jpg",
+      "description": "Ethereum holds the lion's share of tokenized assets while Chainlink quietly connects every blockchain in the room, and the two cryptocurrencies are heading in opposite directions in 2026. Which one actually captures more value as Wall Street moves trillions onto blockchains?"
     },
     {
       "headline": "Bitcoin and Ethereum ETFs pull in $877M in a single day as institutional appetite surges",
@@ -25,7 +35,7 @@
       "description": "US spot Bitcoin ETFs vacuumed up $714.7 million on September 22, while their Ethereum counterparts added roughly $162 million. Combined, that's nearly $877 million in fresh capital flowing into crypto ETFs in a single trading session, translating to over 7,000 BTC and 67,000 ETH worth of net buying\u2026"
     },
     {
-      "headline": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+      "headline": "Ethereum news: Bitmine (BMNR) adds bought $75M ETH as Tom Lee says institutions are underweight crypto",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
@@ -33,16 +43,6 @@
       "article_url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
-    },
-    {
-      "headline": "BitMine ETH Treasury Nears 6 Million Tokens As Total Holdings Reach $17.1B",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUpMVzBXVi1Tc3RYWUZZR0E4TGdIS3dhUVhMNEZCNWk3bGNLSEtTNk1FUXdZUml1SGZkc3BNb2xjVHgtODlDeHFkeFhPWFRDUmhUNmdCeXlVV0hRWThhVUlndFYxR283eEY5d0tMc3BFWU94M3RhTXVzSG4tZzd4RjQtblhNVXFod0tRcFhTemFEVXBoMU42OEdQU3I5SW5YenJnZGRTTnRQNGpZdk9aaUQyWGlCWWw1dnNPWlUyNTd6OHczZ0NkNEp0TQ?oc=5",
-      "pub_date": 1790037000.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:a5a7bb7ad094b:0-bitmine-eth-treasury-nears-6-million-tokens-as-total-holdings-reach-17-1b/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "TL;DRBitMine Immersion Technologies has pushed its Ethereum treasury to within touching distance of 6 million ETH.A September 21 filing shows the company holds 5,983,940 ETH, alongside 212 BTC and a wider portfolio of cash, securities and strategic investments. BitMine put the combined value of tho\u2026"
     },
     {
       "headline": "'Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
@@ -55,14 +55,14 @@
       "description": "Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Slide as $18 Billion Options Expiry Looms: What\u2019s Going On?",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHFOb2IzNDVBS2lzUzZWazZuZm5CTGdTM05EY1VGUk5JdXBsT3RDT2JjNG5rWU1xUUZKUS14Q3BDdTVjVWM1b2xYV09KX1dSQ2lVZHdaY2k1N01jUHB2YmkyTFl6bkU3eFZDYklmbi1WSExjZjhmZ0tRbmFHcUh1c0ZWUlpiRk5RTUI3V3dZZ0hucXVMSVU5b2NTQmZ6YzdwNi1MdTFNSzlqRmdXQ21YMVFGc1FWU1JtNlc2ZFJTSDM2VThsNjNndXNHWmJaYTNrZjd2Uy1n?oc=5",
-      "pub_date": 1790185289.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61954350/bitcoin-ethereum-xrp-plunge-as-18-billion-options-expiry-looms-whats-going-on",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/23/Flying-Altcoins-With-Bitcoin-In-The-Cent.jpg",
-      "description": "Bitcoin, Ethereum and XRP retreat ahead of Friday\u2019s $18 billion options expiry, the largest of 2026, as traders brace for volatility."
+      "headline": "BitMine ETH Treasury Nears 6 Million Tokens As Total Holdings Reach $17.1B",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUpMVzBXVi1Tc3RYWUZZR0E4TGdIS3dhUVhMNEZCNWk3bGNLSEtTNk1FUXdZUml1SGZkc3BNb2xjVHgtODlDeHFkeFhPWFRDUmhUNmdCeXlVV0hRWThhVUlndFYxR283eEY5d0tMc3BFWU94M3RhTXVzSG4tZzd4RjQtblhNVXFod0tRcFhTemFEVXBoMU42OEdQU3I5SW5YenJnZGRTTnRQNGpZdk9aaUQyWGlCWWw1dnNPWlUyNTd6OHczZ0NkNEp0TQ?oc=5",
+      "pub_date": 1790037000.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:a5a7bb7ad094b:0-bitmine-eth-treasury-nears-6-million-tokens-as-total-holdings-reach-17-1b/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "TL;DRBitMine Immersion Technologies has pushed its Ethereum treasury to within touching distance of 6 million ETH.A September 21 filing shows the company holds 5,983,940 ETH, alongside 212 BTC and a wider portfolio of cash, securities and strategic investments. BitMine put the combined value of tho\u2026"
     },
     {
       "headline": "Current price of Ethereum for Sept. 22, 2026",
@@ -75,16 +75,6 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes 'ethical' market contender",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSUFEWUFZLWt2dlppdW0zVTVsSEQzNUloTjhidnUxcVBoU3JVZ3Npd1NKdXIxTDl3X0J1a1JHblVzM2hlNnJaYU52N0lvWUxNMTRLYU5ncEkwZnVvLXJNMnlYRkpubFdER3FsLTRCeTctZ1EyR1ZKeFRGT1ZaTHEzdUF3?oc=5",
-      "pub_date": 1790056884.0,
-      "article_url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2026/02/Prediction-Image.jpg",
-      "description": "Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'"
-    },
-    {
       "headline": "New Crypto: AlphaPepe Presale Nears 12,000 Holders as Ethereum Price Prediction Points to $8,000",
       "source": "markets.businessinsider.com",
       "source_url": "https://markets.businessinsider.com",
@@ -95,8 +85,18 @@
       "description": "MONACO, Sept.  22, 2026  (GLOBE NEWSWIRE) -- New crypto attention is turning toward\u00a0AlphaPepe as the presale closes in on 12,000 holders before it..."
     },
     {
+      "headline": "Bitcoin, Ethereum, XRP Slide as $18 Billion Options Expiry Looms: What\u2019s Going On?",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHFOb2IzNDVBS2lzUzZWazZuZm5CTGdTM05EY1VGUk5JdXBsT3RDT2JjNG5rWU1xUUZKUS14Q3BDdTVjVWM1b2xYV09KX1dSQ2lVZHdaY2k1N01jUHB2YmkyTFl6bkU3eFZDYklmbi1WSExjZjhmZ0tRbmFHcUh1c0ZWUlpiRk5RTUI3V3dZZ0hucXVMSVU5b2NTQmZ6YzdwNi1MdTFNSzlqRmdXQ21YMVFGc1FWU1JtNlc2ZFJTSDM2VThsNjNndXNHWmJaYTNrZjd2Uy1n?oc=5",
+      "pub_date": 1790185289.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61954350/bitcoin-ethereum-xrp-plunge-as-18-billion-options-expiry-looms-whats-going-on",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/23/Flying-Altcoins-With-Bitcoin-In-The-Cent.jpg",
+      "description": "Bitcoin, Ethereum and XRP retreat ahead of Friday\u2019s $18 billion options expiry, the largest of 2026, as traders brace for volatility."
+    },
+    {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC steadies after strong rally, ETH and XRP ease into consolidation",
-      "source": "FXStreet",
+      "source": "fxstreet.com",
       "source_url": "https://www.fxstreet.com",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWGpYSnQ2a29NSHl6NjZGYTVMTk01d3N4ajZ6Q21YWHN4MTVsQ1JGZTBvQ3dDdFBGNXpZQmNkREI3dGZtVmpyM1o0QjM4eUhvMUpaTWJScW5IVVdpOVRNVncwVVEycmNTdVhtNzZDNnU4VnR5ejVUM0lyMlRtQ2VXcFdlcHhqR1gwbE0tUnVscUZ6N2pRYW1iOUtiYjJiZlpPOGtneWVaazFWWDJnTkFDSjNXWlRCaEJiZjhrTXQ2SEFHWUZybEFickI3T2lNQkhZVnlELXpfZWVVUG04ZHNncmdGRnVENzFqc3dnaF9IemN3WHNvRUN1eTd3dVUxX1YxVFl5TQ?oc=5",
       "pub_date": 1790133397.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T21:11:00.404172+00:00"
+  "fetched_at": "2026-09-23T23:52:25.966214+00:00"
 }

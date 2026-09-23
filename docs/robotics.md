@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-23T21:11:23.402561+00:00'
+updated: '2026-09-23T23:52:39.762936+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 23, 2026 at 21:11 UTC  
+**Last Updated:** September 23, 2026 at 23:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -84,7 +84,7 @@ Im building this robot for about 7 years. Just sharing some progress. I 3D model
 
 Link 🔗 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism
 
-2d ago
+3d ago
 
 ---
 
@@ -118,13 +118,35 @@ Before and after training
 
 **[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-Qualcomm • 9h ago
+qualcomm.com • 11h ago
+
+---
+
+**[Qualcomm to acquire PickNik Robotics and keep MoveIt open-source](https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/)**
+
+Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework.
+
+The Robot Report • 12h ago
+
+---
+
+**[Qualcomm acquiring robotics software firm PickNik (QCOM:NASDAQ)](https://seekingalpha.com/news/4645916-qualcomm-acquiring-robotics-software-firm-picknik)**
+
+Qualcomm acquires PickNik to expand physical AI and robotics, integrating MoveIt with Dragonwing and Arduino platforms.
+
+Seeking Alpha • 12h ago
 
 ---
 
 **[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
 
 Forbes • 1d ago
+
+---
+
+**[K-Pop Is Betting on AI and Robots. Will Fans Buy It?](https://www.wsj.com/tech/ai/k-pop-is-betting-on-ai-and-robots-will-fans-buy-it-6b3f161c)**
+
+WSJ • 1d ago
 
 ---
 
@@ -136,11 +158,9 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Can you lend me a hand? Researchers are developing wearable robotic limbs](https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197)**
+**[Robotics expert casts doubt on viral humanoid videos watched by millions](https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910)**
 
-Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body.
-
-theconversation.com • 6h ago
+Sky News • 17h ago
 
 ---
 
@@ -148,41 +168,21 @@ theconversation.com • 6h ago
 
 Toyota's push comes as automakers race to develop and deploy humanoid robots.
 
-Ars Technica • 1d ago
-
----
-
-**[Humanoid robot sales tally hit 7,000 globally last year](https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/)**
-
-reuters.com • 2d ago
+arstechnica.com • 1d ago
 
 ---
 
 **[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
 
-Tech Xplore • 10h ago
+techxplore.com • 13h ago
 
 ---
 
-**[NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)**
+**[Can you lend me a hand? Researchers are developing wearable robotic limbs](https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197)**
 
-The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
+Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body.
 
-NVIDIA Blog • 1d ago
-
----
-
-**[Thing 2.0? This Creepy-Cute Robot Walks on Its Fingers](https://gizmodo.com/thing-2-0-this-creepy-cute-robot-walks-on-its-fingers-2000815604)**
-
-Gizmodo • 1d ago
-
----
-
-**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
-
-One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
-
-Emory News • 1d ago
+theconversation.com • 8h ago
 
 ---
 
@@ -190,13 +190,33 @@ Emory News • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[THIS ROBOT HORSE HAS NO BRAKES!](https://www.youtube.com/watch?v=-KNK-EVbd3Y)**
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
-Kawasaki has developed a futuristic robotic horse with four independently moving legs and AI-assisted balance. But the surprising ...
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
 
-📺 Climax view
+📺 America's Got Talent
 
-👁️ 21K • 💬 1 • ⏱️ 0:34 • 1d ago
+👁️ 381K • 👍 4K • 💬 473 • ⏱️ 4:18 • 20h ago
+
+---
+
+**[Man versus Robot: Influencer takes on humanoid robot in cage match](https://www.youtube.com/watch?v=3t1sBBvHSXc)**
+
+An influencer stepped into the ring to take on a six-foot, 200-pound robot. NBC News' Steven Romo takes a closer look at the ...
+
+📺 NBC News
+
+👁️ 45K • 👍 259 • 💬 91 • ⏱️ 1:35 • 22h ago
+
+---
+
+**[6FT TERMINATOR ROBOT vs HUMAN: US Influencer in WORLD’S FIRST Fight](https://www.youtube.com/watch?v=cqCK7JT_Sr4)**
+
+HARD LENS MEDIA GOFUNDME https://www.gofundme.com/f/help-defend-hlm-unfair-lawsuits #mma #artificialintelligence ...
+
+📺 Hard Lens Media
+
+👁️ 26K • 👍 105 • 💬 38 • ⏱️ 7:49 • 1d ago
 
 ---
 
@@ -206,17 +226,7 @@ In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot 
 
 📺 NBC News
 
-👁️ 73K • 👍 610 • 💬 179 • ⏱️ 3:34 • 22h ago
-
----
-
-**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
-
-AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
-
-📺 MindSeeded
-
-👁️ 986K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+👁️ 85K • 👍 682 • 💬 192 • ⏱️ 3:34 • 1d ago
 
 ---
 
@@ -226,17 +236,27 @@ ShanghaiEye focuses on producing top-quality contents. Nobody knows SHANGHAI bet
 
 📺 ShanghaiEye魔都眼
 
-👁️ 27K • 👍 416 • 💬 57 • ⏱️ 5:10 • 1d ago
+👁️ 30K • 👍 433 • 💬 57 • ⏱️ 5:10 • 1d ago
 
 ---
 
-**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
+**[NEVER buy Meta Glasses (unless you&#39;re a robot)](https://www.youtube.com/watch?v=SDZIsmVy4nM)**
 
-The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
+Over 7 million Ray-Ban Meta glasses were sold in 2025. That's 7 million cameras recording your life. And conveniently, that ...
 
-📺 DPCcars
+📺 Proton
 
-👁️ 21K • 👍 140 • 💬 39 • ⏱️ 2:56 • 6d ago
+👁️ 76K • 👍 2K • 💬 351 • ⏱️ 10:33 • 1d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 172K • 👍 1K • 💬 232 • ⏱️ 2:40 • 2d ago
 
 ---
 
@@ -246,47 +266,27 @@ Taking the brand-new Dedopali robot out for its very first live server battles i
 
 📺 Adrian Chong
 
-👁️ 5K • 👍 186 • 💬 81 • ⏱️ 26:13 • 8h ago
+👁️ 6K • 👍 206 • 💬 86 • ⏱️ 26:13 • 10h ago
 
 ---
 
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
 
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
 
-📺 Prime Insights
+📺 Kalil 4.0
 
-👁️ 342K • 👍 4K • 💬 163 • ⏱️ 22:30 • 4d ago
-
----
-
-**[Elon Musk Says 1 BILLION Humanoid Robots Are Coming 🤯](https://www.youtube.com/watch?v=2_v9E-fwPvg)**
-
-Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-powered robots could eventually become several ...
-
-📺 ejunky66
-
-👁️ 801K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
+👁️ 32K • 👍 461 • 💬 57 • ⏱️ 1:16 • 2d ago
 
 ---
 
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-📺 ejunky66
+📺 MindSeeded
 
-👁️ 64K • 👍 834 • 💬 127 • ⏱️ 1:00 • 3d ago
-
----
-
-**[Meta Is Using You To Build A Robot Empire](https://www.youtube.com/watch?v=SDZIsmVy4nM)**
-
-Over 7 million Ray-Ban Meta glasses were sold in 2025. That's 7 million cameras recording your life. And conveniently, that ...
-
-📺 Proton
-
-👁️ 74K • 👍 2K • 💬 350 • ⏱️ 10:33 • 1d ago
+👁️ 992K • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
 
 ---
 
