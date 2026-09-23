@@ -9,20 +9,10 @@
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UGszZTNYcXREMm9MMVptMnFaanJlR181TFhuMS1rUmFKWVQtcGdYbGVoR2lZbVYxcnk5UlBxTU8tUEJDWms4SW9WZFotWGZYWXRLS0Fxci1RYVdyakpub2ROODVDYTk0?oc=5",
-      "pub_date": 1790089448.0,
+      "pub_date": 1790089795.0,
       "article_url": "https://fortune.com/article/price-of-ethereum-09-22-2026/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-22.jpg?resize=1200,600",
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
-    },
-    {
-      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.98 Million Tokens, and Total Crypto and Total Cash Holdings of $17.1 Billion",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQlRydE5od1FhS2RDS0VXTHN1Rk92MEU4Y1BRMmpUNWJnTjdXYnlmal83UzdNYTNRYkw0Sk1ENUhPMHQyMkxGaDZfcmR2SUZYd3drQVZmMkJ6dng0QXU1MTdNQnBnbGt4SEtOVzFfeE12MmZVSjdkVk9fZ2hkbGQ5UTJhdWtJOVNlTGtXcmFPdnREYkRhcFJpTjlmWjJ2clJkVlRXdThOUnBud2xlRzVDZTJ3eHl5ak5adHpEWTM4UjI0ZjZQSUFQZjZxNExaREktTHhpeXMxVkp3ampBdHduWm4xWFNQUzYzOGg5X2ZhVTdJYm1RWHhoTkR4Vk51dGVTRmNvdUJkZmZFSER4a1dDZjhFODlETjhzT2hUR2hLeEdNR2M?oc=5",
-      "pub_date": 1789993800.0,
-      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-98-million-tokens-and-total-crypto-and-total-cash-holdings-of-17-1-billion-302884434.html",
-      "image": "https://mmx.prnewswire.com/media/MS1992312/BMNR-Weekly-Update-English-14.jpg?id=OA2959490&p=facebook",
-      "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
     },
     {
       "headline": "Bitmine Climbs 6% as Ethereum Extends Rally After SEC Tokenization Order; Sharplink Rises 5%, Coinbase Jumps 6%",
@@ -35,8 +25,18 @@
       "description": "An SEC order carving out a regulated path for tokenized U.S. stocks just sent Ethereum surging and lit a fire under a handful of crypto equities, but the connection between that rulebook and these stock gains runs through a far thinner thread than most traders realize."
     },
     {
+      "headline": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.98 Million Tokens, and Total Crypto and Total Cash Holdings of $17.1 Billion",
+      "source": "prnewswire.com",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQlRydE5od1FhS2RDS0VXTHN1Rk92MEU4Y1BRMmpUNWJnTjdXYnlmal83UzdNYTNRYkw0Sk1ENUhPMHQyMkxGaDZfcmR2SUZYd3drQVZmMkJ6dng0QXU1MTdNQnBnbGt4SEtOVzFfeE12MmZVSjdkVk9fZ2hkbGQ5UTJhdWtJOVNlTGtXcmFPdnREYkRhcFJpTjlmWjJ2clJkVlRXdThOUnBud2xlRzVDZTJ3eHl5ak5adHpEWTM4UjI0ZjZQSUFQZjZxNExaREktTHhpeXMxVkp3ampBdHduWm4xWFNQUzYzOGg5X2ZhVTdJYm1RWHhoTkR4Vk51dGVTRmNvdUJkZmZFSER4a1dDZjhFODlETjhzT2hUR2hLeEdNR2M?oc=5",
+      "pub_date": 1789993800.0,
+      "article_url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-98-million-tokens-and-total-crypto-and-total-cash-holdings-of-17-1-billion-302884434.html",
+      "image": "https://mmx.prnewswire.com/media/MS1992312/BMNR-Weekly-Update-English-14.jpg?id=OA2959490&p=facebook",
+      "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 98% of the way to the 'Alchemy of 5%' in just 15 months ETH is the best performing..."
+    },
+    {
       "headline": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENneGhNWGJ5T0lGdGhPa1pGQXpSc3dNcC04X3NnVVI5dXRJRm9UT1RvRUh5eXphN09EUlRjeDJGcXYwN3FOWFhmdnkxS0FEVzBqal85M01zQUsyOXVCdzhXLWduNUhGZzc1MU1yV29nZ3dUNllBZGM2bTZLV213TGlGQ05SaGFGMWJMbzFQbGlkMHg4U3ZnMnMzWExCY1JiMk9CQmNQUlpRLXFhSEN1LW5mOVdFNUIxZDN5Sk5OTG1jR2dGOU5NYlZtSWRzUVExMjFV?oc=5",
       "pub_date": 1789996275.0,
@@ -45,14 +45,14 @@
       "description": "The largest Ethereum-centric treasury firm kept buying, while its chairman argued ETH\u2019s strong third quarter could push institutions to increase crypto exposure."
     },
     {
-      "headline": "What\u2019s Next For Bitcoin, Ethereum And XRP Prices As Crypto Market Hits $3 Trillion?",
-      "source": "Coinpedia",
-      "source_url": "https://coinpedia.org",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUS1vbXNfUWt5N1JqdGhEaVpuX0RKcG9MT2NBM1pzVFVHX1ZiR18yZldKaUp5WHJTZUZRdC1QY2poeC1SUzFoaHBfaGFNOHptWkFtRTlFTldTelNrYng3LVFZXzNDd2FlZGhFV0doYnZXS01XOVpDeDh0OUZWbWxrQ1RRSTJHWk13M1N3NUtpSmlYNXJoVnBvLUFNRXpIOGR4ZmfSAacBQVVfeXFMTUxrZU9TY2UyYzduOHJ4blFNSmJIaUlCT1YwTmhXY0xZUnNOQXFFUHZsU0pNS2cyWEdpejN4YVVPTV9GSVkzLXFIRmVqdDduWWJ6aFZoYi12UnFQeHhIOFloR0ZSSFdwdEdiQnVkNFVkYjFtR1Z4dWRWTzVjSEktQi1Qb3ZneVRoeVFjbUdXZThyaDdFR1FmSkdhU0Z3aUZYemVpQUxEVE0?oc=5",
-      "pub_date": 1790083205.0,
-      "article_url": "https://coinpedia.org/news/whats-next-for-bitcoin-ethereum-and-xrp-as-crypto-market-hits-3-trillion/",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/07/04180619/Bitcoin-Ethereum-and-XRP-Price-Enter-Historically-Low-Risk-Zones.jpg",
-      "description": "The total crypto market cap has climbed to $3.01 trillion, up 0.9% over the past day, with $141.8 billion in trading volume. Bitcoin sits at $85,980.96,"
+      "headline": "'Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU293UmFxZ1FENWE5aVhTTXdZNzFPblNqNVRyb2gtbndJY0pXa0lnV3ItVW5uMjhwa3VLS0t3Y3VZM2VBVmtNRGIyOHJFN0wyWEVDMm11RFgwajhQQkk3VG5sMEpYZzJJQUVLUGRNY2pPTWpjdjNXanBPdzZNc3NHOWZ3VGswRUpFLU9SVThyNWNtcmwwUVloWGZHaHpPeWlKbWZxcTJpQ1Q5anFqOVVDLWpDcXktUzRuVURfWEFISU1SVENxRHhzOFN3UG1uM2pQLW1xREM4RFFxSmFMajJBYlhhelNXa3NRMFE?oc=5",
+      "pub_date": 1789996479.0,
+      "article_url": "https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2025/09/cropped-11.jpg",
+      "description": "Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply."
     },
     {
       "headline": "Bitcoin Tops $87,000, Ethereum, XRP, Dogecoin Also Lift Amid 'Extreme Greed'\u2014Analyst Declares Bear Market Over, Says This is the 'Next Stop' for BTC",
@@ -63,16 +63,6 @@
       "article_url": "https://www.tradingview.com/news/benzinga:58ed8b336094b:0-bitcoin-tops-87-000-ethereum-xrp-dogecoin-also-lift-amid-extreme-greed-analyst-declares-bear-market-over-says-this-is-the-next-stop-for-btc/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing \u201cfear of missing out.\u201dCrypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly\u2026"
-    },
-    {
-      "headline": "Bitcoin Price Rallies Despite Fed Rate Hike as SEC, CFTC Roll Out Crypto Rules",
-      "source": "CoinMarketCap",
-      "source_url": "https://coinmarketcap.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEppQXVOQWktWDZyMDZGV21kUEJtRllnTkd6X3duVXl6Z2JWdkFOS1p0WDBacU5EVy1QREliTEN3bWVVT0xBclVJMElSNnJqWDFPSFNSdkJtdXRNajR2LWJXZFR1RWZiVm5uVDRCSDJRS2FLSnNFVE9ONWVJT1pTbExpM1VCTjJZdUF1Sw?oc=5",
-      "pub_date": 1789922793.0,
-      "article_url": "https://coinmarketcap.com/academy/article/bitcoin-rally-fed-rate-hike-sec-cftc-rules",
-      "image": "https://academy-public.coinmarketcap.com/optimized-uploads/f64da5b377184c0fbc17c7a570dfc363.jpeg",
-      "description": "Bitcoin, Ethereum and altcoins shrugged off the Fed's first rate hike since 2023, rallying instead on new crypto rules from the SEC and CFTC. Here's why."
     },
     {
       "headline": "New Crypto: Pepeto Announces a DeFi Tools Upgrade While Ethereum Price Prediction Targets $18K and Whale Buying Grows",
@@ -86,13 +76,23 @@
     },
     {
       "headline": "Kevin O'Leary Is Certain Ethereum Won't Be the 'Standard' Across Industry Sectors \u2014 The 'Shark' Says Thes",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcV9mWVRRMGRGXzlkVU5ScVg5RE45eDY0bFpqRUhHNXlOMEpEaHBTaC1HSXZaeVdMcVpBdjhwR1Z1RjllSW94XzlIclZON0M4ZkxuRXdmcUhpbVRwTkUzMm1icTlGWUl4MDRxVldtNGE5d1I1TWlRNUlpR0dWajhFaGV6dXFrdTZvd1A5UnFzemQyeW5nYWZ6WTc3a0NKTC1hQ0pMV2VPcVVMVXAxUWZCRmJsTnJYTEZZMmx0ZnhJN0dFZHI5ZDVYQng0bko4X19EbFBWRlpjbGZIUWtpX3JhYzlYbURueEdfejRwcTBZWlE4UEdjS1ZUZDFmTFNhcmI0VGZ3cWU0REVIczFrQ1BkMGRpS2xzeUlFd1VvaktXQ3hrdVJubEpzeU5ibjdGc19ab0lCXzF5QjdIc1U?oc=5",
       "pub_date": 1789989063.0,
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61890631/kevin-oleary-is-certain-ethereum-wont-be-the-standard-across-different-industry-sectors-the-shark-instead-thinks-solana-and-avalanche-could-draw-interest",
       "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/21/First-Film-Role-Treated-Like-New-Investm.jpg",
       "description": "Influential investor and media personality Kevin O\u2019Leary expressed doubts on Sunday, September 20, about Ethereum's dominance in the cryptocurrency space, hinting at potential investments in chains like Solana and Avalanche."
+    },
+    {
+      "headline": "What\u2019s Next For Bitcoin, Ethereum And XRP Prices As Crypto Market Hits $3 Trillion?",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUS1vbXNfUWt5N1JqdGhEaVpuX0RKcG9MT2NBM1pzVFVHX1ZiR18yZldKaUp5WHJTZUZRdC1QY2poeC1SUzFoaHBfaGFNOHptWkFtRTlFTldTelNrYng3LVFZXzNDd2FlZGhFV0doYnZXS01XOVpDeDh0OUZWbWxrQ1RRSTJHWk13M1N3NUtpSmlYNXJoVnBvLUFNRXpIOGR4ZmfSAacBQVVfeXFMTUxrZU9TY2UyYzduOHJ4blFNSmJIaUlCT1YwTmhXY0xZUnNOQXFFUHZsU0pNS2cyWEdpejN4YVVPTV9GSVkzLXFIRmVqdDduWWJ6aFZoYi12UnFQeHhIOFloR0ZSSFdwdEdiQnVkNFVkYjFtR1Z4dWRWTzVjSEktQi1Qb3ZneVRoeVFjbUdXZThyaDdFR1FmSkdhU0Z3aUZYemVpQUxEVE0?oc=5",
+      "pub_date": 1790083205.0,
+      "article_url": "https://coinpedia.org/news/whats-next-for-bitcoin-ethereum-and-xrp-as-crypto-market-hits-3-trillion/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2026/07/04180619/Bitcoin-Ethereum-and-XRP-Price-Enter-Historically-Low-Risk-Zones.jpg",
+      "description": "The total crypto market cap has climbed to $3.01 trillion, up 0.9% over the past day, with $141.8 billion in trading volume. Bitcoin sits at $85,980.96,"
     },
     {
       "headline": "Ethereum just had the best Q3 since 2016 \u2013 \u2018ETH is ready to explode!\u2019",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-22T23:09:59.349603+00:00"
+  "fetched_at": "2026-09-23T01:39:52.572881+00:00"
 }
