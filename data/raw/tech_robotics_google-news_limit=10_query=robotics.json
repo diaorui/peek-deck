@@ -25,8 +25,28 @@
       "description": null
     },
     {
+      "headline": "Meet the Roboticist Making Machines that Give Back to Nature",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01My1yTEtBMFV1MUI4OWNfeFhTVFZvRktiT0ZBSVBJZU14dlM4akljYzVETHhtZC11MHQxYS0yS081M3JiS1V6ZF9EQ0Z1a3JwTmFmVWlEZnBBR1pjN3RrZVhsVERZcHBoandzaGxBT3hYUXdS?oc=5",
+      "pub_date": 1790085863.0,
+      "article_url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67787635&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+      "description": "Sustainability robotics sees the environment as more than inspiration"
+    },
+    {
+      "headline": "Can you lend me a hand? Researchers are developing wearable robotic limbs",
+      "source": "theconversation.com",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmlnZW0xcjBzRFlxXzBLTE5FT2RpSnpXYkcwVlZZZXF1OEstN1dKTkFkNzF0MTE2X01nUzNma1J1MEp0MWVVaGFseXoyZlkxODlCdWtkMnc4eUlJTHFQRENjX2E0REI4LTRHMEp3UkVIZlZ4NzQ4em1uamRDdjNySzE4bEVJNk5XV1hDcjhqNUNvcE9TRnFidnJKWWcwLWg2aUFiQlFselR4VmM?oc=5",
+      "pub_date": 1790175451.0,
+      "article_url": "https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197",
+      "image": "https://images.theconversation.com/files/760205/original/file-20260916-50-sfzlq4.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body."
+    },
+    {
       "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
-      "source": "arstechnica.com",
+      "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
       "pub_date": 1790096776.0,
@@ -35,34 +55,24 @@
       "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
     },
     {
-      "headline": "Disturbing Experiment Points to Dangers of Using AI Models Not Meant for Robotics",
-      "source": "CNET",
-      "source_url": "https://www.cnet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFhzTmRaZnl1d0g4T1BtdWhVdjJhYlZvUGxENkc1bHluMUdyYmhfUzFuMU1XR2MxaVJqTTBnRF9lRkJQZXpTd1pCcUlXeTYwdUUyanB6b2FsVjYwSGE4MlQtdmpwYi1ndnRQYlZBYzB4T3V0dHdLQ20zVjlTaF9kS3k3a0xvbU1WZ0lITVo5QUdpWnJlWW5LYnFVNTZGSHNuTnc?oc=5",
-      "pub_date": 1790040294.0,
-      "article_url": "https://www.cnet.com/tech/services-and-software/robot-ai-experiments-unsafe-commands-llms-robocurve/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/baby-doll-GettyImages-1500300492.jpg",
-      "description": "The point of the unsafe prompts was to test what happens when you hand physical agency over to LLMs."
-    },
-    {
-      "headline": "Survey: People Don\u2019t Want Humanoid Robots Until They Meet One",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVJwbWk1SG9CLXE5cnFGZUFZSGk4Rmw4WnFmMXJKaXdhWllmWlNSc0liR1dEazh0NEtBYmVzdTBmLU5nNVNsb3VSNkRKb3J4YWE0b0JNcWRSXzZfQW04Z3J0V1hmRlRYNU1Kd3owVDF5Rm9SNXI5QVoyajNQeV9naFVsZ0Z1VUJuS1ZaSnRGalRFWnNqS3VEc05OcDFZR3g0VGdqWkVjSFlNNDJ3U1Jrbk9RUQ?oc=5",
-      "pub_date": 1790182414.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/23/survey-people-dont-want-humanoid-robots-until-they-meet-one/",
+      "headline": "Humanoid robot sales tally hit 7,000 globally last year",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUx2Vk9IdU9aTEdTRWZwOVZKbFB5MWVXZ1Fqa3BCRk03Sk9QNVVFYlVEM1phZWhHZTN6MU5NOVR3MGFhQk40SjR2X1NxM09JMEx1TkZNLWN4SGlXTzVZc2NEa3NKcl9jaElHU1RCVGRHQmh6aG1WX243Y0ZGQUJMOUNSU2V1MFItRzlmdjFwWXBXWENUWUV2b1hzX3dxT0pFNEs0?oc=5",
+      "pub_date": 1789971965.0,
+      "article_url": "https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meet the Roboticist Making Machines that Give Back to Nature",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01My1yTEtBMFV1MUI4OWNfeFhTVFZvRktiT0ZBSVBJZU14dlM4akljYzVETHhtZC11MHQxYS0yS081M3JiS1V6ZF9EQ0Z1a3JwTmFmVWlEZnBBR1pjN3RrZVhsVERZcHBoandzaGxBT3hYUXdS?oc=5",
-      "pub_date": 1790085760.0,
-      "article_url": "https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67787635&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-      "description": "Sustainability robotics sees the environment as more than inspiration"
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "Dancing humanoids from Unitree Robotics secure spot in America\u2019s Got Talent finale",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHZKNnBHbjlqdlFWN1hNalU3WmJ4b01KZG1kNGFuZ2Q0QVp6cmptYzBaZk1KNnJQQWR6cU9pSTd6cExobFNqQmtjUlpiVHR4VVlzNTVZWFRpSmZ2LUdQcUVVcHRYRU1oaXFVUVd4ZWlPUGh2anRTSnZCTDBTYXNrdTg4ZmlYVG1HNm5vNVEwSExTZWs4NHlqTmRwcjNGTGU1Yy1wbDF5Z1RRVXQwNWxMZVpTMUw?oc=5",
-      "pub_date": 1789976066.0,
-      "article_url": "https://www.scmp.com/video/china/3368227/dancing-humanoids-unitree-robotics-secure-spot-americas-got-talent-finale",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/images/canvas/2026/09/21/fd65c28f-b635-45d4-a109-1f4a9fc2f760_3d2fa0d3.jpg?itok=zoUxRTcZ",
-      "description": "Chinese robotics engineer Wu Yufei says the robots\u2019 rapid learning ability is \u2018quite terrifying\u2019."
-    },
-    {
-      "headline": "A robotics business targets about $153.5 million in revenue. Healthcare Triangle proposes buying its assets.",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEpfSmozQkgtSF9Oa21yaW0wb0lQV3RwWjJvaTNWSV92amlXTDdOZW1TZUdnb0dMYlA4MlpFRlNfa254RTJQS1pyVS1BVmtLRmM1WElfUTQweWRyalo3WkxvbjRaR1dLdTYwMW5qV21tMllEa2xKSE1VajFkR0FQMUdVRkgwaFdYcy1VUVRyWld0YjZySVBPWkpxWkVPSWVIQkRBT244UnBDdWQwVGgwU0N0V0ZyTkQ5UFloMA?oc=5",
-      "pub_date": 1790169420.0,
-      "article_url": "https://www.stocktitan.net/news/HCTI/healthcare-triangle-signs-letter-of-intent-to-pursue-the-proposed-nfrfck8j50hf.html",
-      "image": "https://www.stocktitan.net/news_covers/Healthcare_Triangle_Signs_Letter_of_Intent_to_Pursue_the_Proposed_Acquisition_of_Roboticom_s_Cutting_1507964.webp",
-      "description": "Roboticom reported about $14.1 million in fiscal 2025 revenue from unaudited data; HCTI has not verified projections. Actual results may differ materially."
+      "headline": "Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics",
+      "source": "Emory News",
+      "source_url": "https://news.emory.edu",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGs0amwxdVF5S2o4UXpDNXo3ZDdPZUp0cjR1dEZHaWdXTVZjS0tLOEk5N3B0bW5Uby04cS1wcjlNeGIwRjdHVEFZcF9JQ2F6alZnOVdVQVVDQ0lSSXphXzNpUExibkk5QVNzRldVNkhnd0s0VzRuZkU0Uk03Z2ZTYUxUWWg3czBjbTB1T21JY0NpNlV0TFAta1ZnbWVhdlR1ZlJDTGV0eXhKOGRUWi1oY1NnMFRsZmlTS21xSFZlbw?oc=5",
+      "pub_date": 1790072337.0,
+      "article_url": "https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics",
+      "image": "https://news.emory.edu/sites/emorynews/files/styles/og_image/public/2026-09/Emory-University-School-of-Medicine.jpg?itok=J3VuR86y",
+      "description": "One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T17:45:36.014654+00:00"
+  "fetched_at": "2026-09-23T21:11:04.047187+00:00"
 }

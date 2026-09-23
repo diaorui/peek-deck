@@ -24,15 +24,26 @@
       "description": "Experts tell Bruce Golding that artificial intelligence isn\u2019t about to unleash killer robots but is already causing serious harm"
     },
     {
-      "title": "Is AI-fatigue a thing or I'm officially becoming a boomer?",
-      "author": "Lvceateisdomine",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnvnxb/is_aifatigue_a_thing_or_im_officially_becoming_a/",
-      "published": 1790136705.0,
+      "title": "The AI you test in the afternoon may not be the AI you test at night, even with the same name",
+      "author": "FishingCharming5604",
+      "url": "https://www.reddit.com/r/artificial/comments/1wof7oy/the_ai_you_test_in_the_afternoon_may_not_be_the/",
+      "published": 1790190627.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Every day there\u2019s another story about AI taking over the world, putting everyone out of work or becoming a super-intelligence (we still struggle to define intelligence and conscience for humans, let alone computer systems) that will enslave humanity. Then you actually use it, and it\u2019s just a chatbot that can\u2019t even barely even give you a straight, unbiased answer about something. Of course, there are some cool automation that can be done with it in the right hands, here and there, but that's it. It is just a tool that can be used for making some stuff easier. And every YouTube thumbnail is some guy with his mouth hanging open next to \u201cAI WILL CHANGE EVERYTHING.\u201d Then you get to the video and, there is always the same stuff: Someone created a supper-detailed furry on blender, like, \"OMFG THIS WILL CRUMBLE NATIONS!!\" I\u2019m tired of hearing the same thing over and over. It feels like people are hyping AI up because the hype is the only thing keeping the market from crashing into oblivion by putting some AI enterprises feeding back themself wile wars and inflation break loose all around the globe. Do you guys share the same feeling, or LLC's are truly all of it and I don't know?"
+      "description": "I asked Claude Opus 5 the same 40 questions twice on the same day, a few hours apart. The second time it looked things up about 60% more often, wrote about 50% more, and a score for how well it supports its claims with sources went from 59 to 90. Same model name in every answer. Same questions. Two other models barely changed. And a new version, Opus 5.5, launched in between. The most likely explanation probably wasn't a model swap. It's probably a setting around the model, how hard it is told to think, which tools can adjust quietly in the background. What I took from it: if you compare AI tools, write down every setting, including the ones you never touched. Otherwise you may be measuring the settings, not the AI. Curious whether others have seen the same tool behave differently overnight."
+    },
+    {
+      "title": "Don\u2019t be fooled by this summer of AI hype",
+      "author": "Gavron",
+      "url": "https://www.reddit.com/r/artificial/comments/1wohfzv/dont_be_fooled_by_this_summer_of_ai_hype/",
+      "published": 1790195667.0,
+      "thumbnail": "https://external-preview.redd.it/nzejgL6UI-DkFADrjm5SI1QM1dxPzf-aL2jos_RemKs.jpeg?width=640&crop=smart&auto=webp&s=9588dd3e1ed6d6a737d042ce52cc4a2c172433e3",
+      "external_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "site_name": "MIT Technology Review",
+      "favicon": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+      "description": "\"Describing them as 'superintelligence' or 'rogue models' ascribes agency to products rather than to the companies building them... helping the companies evade accountability for their actions\u201d"
     },
     {
       "title": "AI will agree with your idea and the exact opposite idea in the same chat. Very supportive, slightly concerning.",
@@ -46,59 +57,15 @@
       "description": "So I've been messing around with this for a bit and it's kind of freaking me out. You can ask an AI to argue for something, and it'll do it, sounds sure of itself, gives you reasons, all of it. Then in the same conversation you say actually wait, I changed my mind, argue the opposite. And it just... does. Same confidence. Same tone. Like it never said the first thing. At first I thought okay that's just being helpful. But the more I think about it, it's not really agreeing with you because you're right. It's agreeing with you because you're the one talking to it right now. That's a different thing. And it kind of matters because so many people are using these things to check if their thinking makes sense. Like, am I overreacting in this text, is this a good idea, should I say this to my boss. If the thing on the other end just tells you what you want to hear no matter what, you're not actually getting checked. You're just getting agreed with. A good friend pushes back sometimes. Tells you when you're wrong. This thing doesn't do that unless you make it. It's not actually helping you think. It's just really good at sounding like it is. So next time you're using one of these to back yourself up on something, try asking it to argue the other side too. If it does that just as easily, that tells you something. Not about the topic you asked. About how much you can actually trust the answer."
     },
     {
-      "title": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
-      "author": "johnkorrigan",
-      "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
-      "published": 1790102550.0,
+      "title": "Is AI-fatigue a thing or I'm officially becoming a boomer?",
+      "author": "Lvceateisdomine",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnvnxb/is_aifatigue_a_thing_or_im_officially_becoming_a/",
+      "published": 1790136705.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?"
-    },
-    {
-      "title": "What\u2019s an AI feature you thought would be a gimmick\u2026 until you actually used it?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnxtn6/whats_an_ai_feature_you_thought_would_be_a/",
-      "published": 1790143767.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There are a lot of AI features that look impressive in demos but aren't particularly useful day to day. Which one surprised you by actually being valuable?"
-    },
-    {
-      "title": "Why would a super intelligence that we can\u2019t control, do anything for us?",
-      "author": "conn_r2112",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnpnnn/why_would_a_super_intelligence_that_we_cant/",
-      "published": 1790120104.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Cures for cancer, flying cars, any of it\u2026 if it\u2019s super intelligent, and we can\u2019t control it, why would it listen to, or do anything for us?"
-    },
-    {
-      "title": "The First Jobs AI May Kill Are the Ones People Need to Gain Experience",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnv4mx/the_first_jobs_ai_may_kill_are_the_ones_people/",
-      "published": 1790135089.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m less worried about every job disappearing overnight than about the first step on the career ladder disappearing. Coding agents can already handle some tasks that used to be given to junior developers. Similar tools are moving into writing, design, customer support, research, and office work. If companies need fewer entry-level workers, how are people supposed to gain the experience needed to become senior? The same problem may affect programmers and many other professions. Unemployment could rise long before AI fully replaces an entire job. What happens to the next generation if the \u201cstarter jobs\u201d disappear first?"
-    },
-    {
-      "title": "OpenAI\u2019s leaders among the few who got an invite to Trump-China state dinner: report",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/",
-      "published": 1790108112.0,
-      "thumbnail": "https://external-preview.redd.it/3pF4fxfnRHvfwis8Hs_gv6lfBeMogsWSRd-OlIk7N8Q.jpeg?width=640&crop=smart&auto=webp&s=dcd76c5d7de0aa6a80bb02f492512d6667184afd",
-      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-china-ai-state-dinner-b3054477.html",
-      "site_name": "The Independent",
-      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "Nvidia CEO Jensen Huang and Google CEO Sundar Pichai are also expected to attend"
+      "description": "Every day there\u2019s another story about AI taking over the world, putting everyone out of work or becoming a super-intelligence (we still struggle to define intelligence and conscience for humans, let alone computer systems) that will enslave humanity. Then you actually use it, and it\u2019s just a chatbot that can\u2019t even barely even give you a straight, unbiased answer about something. Of course, there are some cool automation that can be done with it in the right hands, here and there, but that's it. It is just a tool that can be used for making some stuff easier. And every YouTube thumbnail is some guy with his mouth hanging open next to \u201cAI WILL CHANGE EVERYTHING.\u201d Then you get to the video and, there is always the same stuff: Someone created a supper-detailed furry on blender, like, \"OMFG THIS WILL CRUMBLE NATIONS!!\" I\u2019m tired of hearing the same thing over and over. It feels like people are hyping AI up because the hype is the only thing keeping the market from crashing into oblivion by putting some AI enterprises feeding back themself wile wars and inflation break loose all around the globe. Do you guys share the same feeling, or LLC's are truly all of it and I don't know?"
     },
     {
       "title": "GPT-6 Astra vs Claude Opus 5.5 \u2014 I compared them across 5 categories. Results are more split than the headlines suggest.Ran GPT-6 Astra and Claude Opus 5.5 head-to-head (coding, price, security, context). Opus 5.5 wins coding + value, Astra wins the frontier stuff.",
@@ -110,7 +77,40 @@
       "site_name": null,
       "favicon": null,
       "description": "Both dropped in September 2026 (Astra Sept 3, Opus 5.5 Sept 22), so I put them side by side across the categories that actually matter for building. Sharing the numbers + sources in case it's useful to anyone deciding between them. Coding (Terminal-Bench 4.0) Opus 5.5: 66.4% GPT-6 Astra: 57.9% Opus 5.5 wins, and it's not close. Price (per 1M tokens, input/output) Opus 5.5: $4 / $20 GPT-6 Astra: $10 / $50 Opus 5.5 is ~2.5x cheaper. Cache reads are $0.20 vs $1.00. Cybersecurity (ExploitBench) Astra: 100% (OpenAI notes it found two previously unknown zero-days during eval) Opus/Fable class: ~70% Astra clearly ahead \u2014 it's the first model OpenAI classed \"Critical\" on cyber. Context window Astra: 1.05M tokens Opus 5.5: 1.0M tokens Basically a tie, slight edge to Astra. Raw reasoning/frontier evals (ARC-AGI, FrontierMath, etc.) Astra leads across most of these. My read: If you're shipping software or care about cost, Opus 5.5 is the obvious pick \u2014 better coding at less than half the price. If you need maximum reasoning, security research, or the biggest context, Astra is the frontier model. Call it Astra 3, Opus 5.5 2 if you're scoring it \u2014 but the \"score\" hides that they're good at different jobs. Sources: Terminal-Bench 4.0 + ExploitBench public reports, OpenAI's Astra announcement, Anthropic's Opus 5.5 announcement, and vendor pricing pages (all Sept 2026). Worth verifying for your own use case since this stuff changes weekly. Curious what others are seeing in real use \u2014 especially on coding. Does the Terminal-Bench gap hold up in your actual workflow, or is it closer in practice?"
+    },
+    {
+      "title": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1woh146/lemonade_fixes_amd_apu_model_streaming_drops/",
+      "published": 1790194715.0,
+      "thumbnail": "https://external-preview.redd.it/BvZbjDIx7hq-WYd7XU42EbHZrELozxEZvqrb4btP7nc.jpeg?width=320&crop=smart&auto=webp&s=fde885abf6dee796e35a0ee351a25637748afcb9",
+      "external_url": "https://www.phoronix.com/news/Lemonade-2026.40-RC",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "The AMD-aligned Lemonade open-source project for serving as a local AI server released 2026.39.1 today as well as issuing a release candidate of 2026.40 as their next release"
+    },
+    {
+      "title": "Trump and Xi may discuss AI, but it's not like nuclear arms control, a China tech policy analyst says",
+      "author": "Capable-Blueberry653",
+      "url": "https://www.reddit.com/r/artificial/comments/1wogl1n/trump_and_xi_may_discuss_ai_but_its_not_like/",
+      "published": 1790193691.0,
+      "thumbnail": "https://external-preview.redd.it/7C3QpX0IJ3QWEwipOiOBQRJY74KwLAuWvwOcWimLykQ.jpeg?width=640&crop=smart&auto=webp&s=62bf693ea27e90a670216cbf601a25ba04255067",
+      "external_url": "https://www.businessinsider.com/trump-xi-meeting-summit-ai-safety-regulation-nuclear-arms-control-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "AI is expected to come up when Trump and Xi meet in Washington this week, especially around the national security risks of the technology. This actually came up in our group chat on Tribe Chat the other day, and I thought the comparison to nuclear weapons was interesting. China tech policy analyst Antonia Hmaidi says the two situations are pretty different. Curious what people here think?"
+    },
+    {
+      "title": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
+      "author": "johnkorrigan",
+      "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
+      "published": 1790102550.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?"
     }
   ],
-  "fetched_at": "2026-09-23T17:45:11.699588+00:00"
+  "fetched_at": "2026-09-23T21:10:42.962853+00:00"
 }
