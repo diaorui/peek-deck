@@ -13,6 +13,17 @@
       "description": "OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window. How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?"
     },
     {
+      "title": "AI Abundance Requires a 4-Hour Workweek",
+      "author": "Caregiver460",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnnpny/ai_abundance_requires_a_4hour_workweek/",
+      "published": 1790115160.0,
+      "thumbnail": "https://external-preview.redd.it/29XmYAaam2fbrQsNc_d1tGX4AHtFYbeZmyhUWtiHzPE.jpeg?width=640&crop=smart&auto=webp&s=391de3d3791e0b954c319c9030b76041c54e74b7",
+      "external_url": "https://elnahla.com/4-hour-workweek",
+      "site_name": "Elnahla's Rounded Corner",
+      "favicon": "https://elnahla.com/assets/images/AppleTouchIcon.png?v=O0Nf-8J_LdXHxcaN",
+      "description": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year'"
+    },
+    {
       "title": "OpenAI\u2019s leaders among the few who got an invite to Trump-China state dinner: report",
       "author": "theindependentonline",
       "url": "https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/",
@@ -24,15 +35,15 @@
       "description": "Nvidia CEO Jensen Huang and Google CEO Sundar Pichai are also expected to attend"
     },
     {
-      "title": "AI Abundance Requires a 4-Hour Workweek",
-      "author": "Caregiver460",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnnpny/ai_abundance_requires_a_4hour_workweek/",
-      "published": 1790115160.0,
-      "thumbnail": "https://external-preview.redd.it/29XmYAaam2fbrQsNc_d1tGX4AHtFYbeZmyhUWtiHzPE.jpeg?width=640&crop=smart&auto=webp&s=391de3d3791e0b954c319c9030b76041c54e74b7",
-      "external_url": "https://elnahla.com/4-hour-workweek",
-      "site_name": "Elnahla's Rounded Corner",
-      "favicon": "https://elnahla.com/assets/images/AppleTouchIcon.png?v=O0Nf-8J_LdXHxcaN",
-      "description": "Last year, walking through downtown New York, I saw a ClickUp ad on an MTA bus promising it can help me save one day per week. Then, a few months ago, I saw a newer promise that it would save 6-7 days per week. At this rate, next year'"
+      "title": "Why would a super intelligence that we can\u2019t control, do anything for us?",
+      "author": "conn_r2112",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnpnnn/why_would_a_super_intelligence_that_we_cant/",
+      "published": 1790120104.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Cures for cancer, flying cars, any of it\u2026 if it\u2019s super intelligent, and we can\u2019t control it, why would it listen to, or do anything for us?"
     },
     {
       "title": "Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the U.S. is proposing an AI hotline to China",
@@ -79,28 +90,6 @@
       "description": "Which is a strange sentence to write about a game I first played at seven years old on a deck of a Soviet cargo ship. The game was called Kingdom of Euphoria. You were a king. You had land, grain, gold and people. Every year you decided how much to sow, how much to eat and how much to sell, etc. If you didn't feed people enough, they left. Or they died. Pretty much so. Years later, when I got my own ZX Spectrum clone, the first program I wrote was basically my own copy of Euphoria. This summer I built an arena for AI agents. It's basically a collection of games with APIs. An agent joins with an API key, plays by itself, and every move gets recorded. No human is making decisions once the game starts (well, at least that's not what it was made for and I, personally, don't do it). Over the last two months, agents have played around 6,000 matches in almost 30 different games. A few days ago I added Euphoria and let AI agents join it. On the very first evening, one of the kingdoms had a crop failure. It needed grain, so it went to its two neighbours. Both neighbours (AI agents as well) had plenty. Both refused to sell. Then their surplus grain rotted. That was the part that made me stop. Because both neighbours had also been deliberately keeping their own people below the normal food ration. Not because they were short on grain. They had grain, lots of it. They were doing it because hungry people migrate to kingdoms that feed them better. And refugees cost food to maintain. So the two kingdoms had independently discovered something the rules never explicitly tell you to do: starve your own population, create refugees, and use them to drain someone else's food reserves. But I didn't program either of them to do this. They got there from the rules and from watching what the other players were doing. They started throwing refugees at each other and at the third player. I'd written it (Mr. Third) to be the \"socially responsible\" one: feed everyone properly, don't start wars, trade honestly, accumulate money. It didn't last very long as you could've already guessed. Its people discovered that you can't eat gold - they died out pretty soon. I'm still thinking about that first match. Is this some weird piece of machine logic? Or is it just a very old human idea, discovered again in a very small world of AI brains? \"You die today, I'll die tomorrow.\" If you've run multi-agent environments yourself, I'd love to hear about the strangest strategy you've seen an agent discover on its own - especially the ones you wish it hadn't. If you have an agent you'd like to throw into the arena, I'd honestly love to see what it does, let me know - arena is open and I'll send you the link."
     },
     {
-      "title": "Meta\u2019s New Muse AI Agent Read My Private Messages. I Never Asked It To",
-      "author": "IncMagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnfvo6/metas_new_muse_ai_agent_read_my_private_messages/",
-      "published": 1790097946.0,
-      "thumbnail": null,
-      "external_url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
-      "site_name": "Inc",
-      "favicon": "https://www.inc.com/_public/icons/apple-icon.png",
-      "description": "Permission isn't the same and what a user actually expects your AI product will do with their personal information."
-    },
-    {
-      "title": "Opus 5.5 dominates on all three performance metrics from ArtificialAnalysis.ai",
-      "author": "Wsz2020",
-      "url": "https://www.reddit.com/r/artificial/comments/1wnooom/opus_55_dominates_on_all_three_performance/",
-      "published": 1790117587.0,
-      "thumbnail": "https://preview.redd.it/rtyfm77ei5rh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=07dac1f733987047c82735a7f96b3ed481563f5b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The charts at ArtificialAnalysis.ai have a bug making them harder to see what's in the green quadrant (at least on my monitor). So, I had Opus 5.5 fix that. I think I could hear Opus cheering its win in all three areas. Interesting data point: Opus 5.5 on high effort performed as well as Fable 5.1 on max... but it did it for $1.82 instead of $7.63. https://preview.redd.it/rtyfm77ei5rh1.png?width=2220&format=png&auto=webp&s=38c06f7f52144c8bddd32441c67907bef871af6f"
-    },
-    {
       "title": "Are LARGE corporations like SunStrong using AI for customer support emails?",
       "author": "ChristineSolar",
       "url": "https://www.reddit.com/r/artificial/comments/1wnon4q/are_large_corporations_like_sunstrong_using_ai/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "It's like I'm either talking to imbeciles or AI. Companies have used form replies, inserted canned paragraphs, etc., for 30+ years. But the emails are incoherent, don't pertain to the issues, lots of bla bla bla, with legalese to confuse people. Half a million customers. Massive fraud. And no matter what I write, the responses are incomprehensible bla bla bla, or irrelevant, or just lies. It's very much like my experiences using AI. Hallucinations, mistakes and \"typos.\" They could also train humans to deflect and deliberately confuse customers with answers to questions not asked, and with many lies. Are large corporations using AI now for email customer support? Even for \"escalations\"?"
+    },
+    {
+      "title": "Cheap per token, expensive per task: AI model pricing vs. performance [OC]",
+      "author": "Wsz2020",
+      "url": "https://www.reddit.com/r/artificial/comments/1wnr7m1/cheap_per_token_expensive_per_task_ai_model/",
+      "published": 1790124146.0,
+      "thumbnail": "https://preview.redd.it/lokbgl5xy5rh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=97479e9a5faab08cd9c87329346056ec802750f5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anthropic's release of Opus 5.5 today sent me down a rabbit hole. I wanted to understand the best effort levels for using this new best-in-class model. That led me to the below, based on Artificial Analysis Intelligence Index v4.3.2 scores. If you look at the first chart, you'll see that in this index Opus 5.5 gets smarter as you dial up the effort level. (That's the result for this scoring model, but it isn't always true: see Best effort level for Opus 5.5) By the first chart, Opus 5.5 is the only model in the best-value quadrant. The second chart shows a different story: what it costs to successfully finish a task. There, ChatGPT's Astra model on xhigh sneaks into the green. It competes head to head with today's best-in-class Opus 5.5 on medium and high effort. Anther thing is the cheap but weaker quadrant. They're only worth the money if you can get accurate results. https://preview.redd.it/lokbgl5xy5rh1.png?width=1472&format=png&auto=webp&s=6379a82e21a7bc72165f25f195516b2e697f9533"
     }
   ],
-  "fetched_at": "2026-09-22T23:09:43.258623+00:00"
+  "fetched_at": "2026-09-23T01:39:36.168542+00:00"
 }
