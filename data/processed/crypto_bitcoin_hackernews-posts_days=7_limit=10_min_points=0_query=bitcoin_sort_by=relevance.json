@@ -5,20 +5,6 @@
   "days": 7,
   "posts": [
     {
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "url": "https://news.ycombinator.com/item?id=49738879",
-      "hn_url": "https://news.ycombinator.com/item?id=49738879",
-      "author": "jakemanger",
-      "points": 319,
-      "num_comments": 275,
-      "created_at": "2026-09-17T10:44:49Z",
-      "object_id": "49738879",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
       "title": "The People\u2013OK, the Men\u2013Who Still Love Bitcoin",
       "url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
       "hn_url": "https://news.ycombinator.com/item?id=49775336",
@@ -103,20 +89,6 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "Play Bitcoin Bird",
-      "url": "https://coinmarketcap.com/?play=bitcoinbird",
-      "hn_url": "https://news.ycombinator.com/item?id=49739330",
-      "author": "module1973",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2026-09-17T11:38:40Z",
-      "object_id": "49739330",
-      "image": "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=0d29ac8",
-      "description": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.",
-      "favicon": "https://coinmarketcap.com/apple-touch-icon.png",
-      "site_name": "CoinMarketCap"
-    },
-    {
       "title": "Bitflix \u2013 MCP Apps Example Application for Video",
       "url": "https://github.com/bitmovin/bitflix-mcp-apps-example",
       "hn_url": "https://news.ycombinator.com/item?id=49827250",
@@ -131,7 +103,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-09-24T08:42:55.369212+00:00"
+  "fetched_at": "2026-09-24T14:03:49.936538+00:00"
 }

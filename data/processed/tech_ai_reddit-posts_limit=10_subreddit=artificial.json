@@ -2,28 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Robots blocking traffic",
-      "author": "Stup_ape_1_banana",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/",
-      "published": 1790166596.0,
-      "thumbnail": "https://preview.redd.it/5wgfnlwdk9rh1.jpeg?width=640&crop=smart&auto=webp&s=56a3da0bc68f0e6491cda6bf08a6838b2e364bb5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
-    },
-    {
-      "title": "Meta AI builds detailed profiles of children from years of family posts",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/",
-      "published": 1790212673.0,
-      "thumbnail": "https://external-preview.redd.it/__VfR9qOtJqV9Ua3OaX-nDE3D8E2xyB9F5RbBcSsElc.jpeg?width=640&crop=smart&auto=webp&s=96d60ae6d3a0781f896f4128fba3353933aac02e",
-      "external_url": "https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts",
-      "site_name": "Malwarebytes",
-      "favicon": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/M-Icon-blue-favicon.png?w=180",
-      "description": "A mother says Meta AI pieced together names, birth details, photos, and location information about her young daughters from years of family posts."
-    },
-    {
       "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
       "author": "sailingintothedark",
       "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
@@ -35,15 +13,37 @@
       "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
     },
     {
-      "title": "i think someone got Trump to rename artificial intelligence as super intelligence, in order to make it harder to talk about Artificial Super Intelligence",
-      "author": "petermobeter",
-      "url": "https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/",
-      "published": 1790199234.0,
-      "thumbnail": null,
+      "title": "Amazon is trying to rehire workers it laid off, emails show",
+      "author": "aspublic",
+      "url": "https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/",
+      "published": 1790244185.0,
+      "thumbnail": "https://external-preview.redd.it/JyFb5rvPmPMKQn9JM0jrrABTXAjNkALD_fVCPRlfFKE.jpeg?width=640&crop=smart&auto=webp&s=c9a304a651f591f27b7532b531217ae26149a28f",
+      "external_url": "https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show."
+    },
+    {
+      "title": "AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.",
+      "author": "Post-reality",
+      "url": "https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/",
+      "published": 1790240868.0,
+      "thumbnail": "https://external-preview.redd.it/UvkTcCqB_NlyUdWPmL8e0O0_ZfNTvjblFnOCCvb7z0s.jpeg?width=640&crop=smart&auto=webp&s=846c5bb071a67c666f819750ad2d42306fa08672",
+      "external_url": "https://yellow.com/news/ai-spending-trillion-dollar-reckoning",
+      "site_name": "yellow.com",
+      "favicon": "https://yellow.com/apple-touch-icon.png",
+      "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
+    },
+    {
+      "title": "Robots blocking traffic",
+      "author": "Stup_ape_1_banana",
+      "url": "https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/",
+      "published": 1790166596.0,
+      "thumbnail": "https://preview.redd.it/5wgfnlwdk9rh1.jpeg?width=640&crop=smart&auto=webp&s=56a3da0bc68f0e6491cda6bf08a6838b2e364bb5",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "trump: all of america should refer to artificial intelligence as super intelligence!! two days later... journalist: sam altman, are u worried about your A.G.I. that youve allegedly created with gpt-6 astra, itself creating artificial superintelligence down the line, thru rechrsive self improvement? sam altman: artificial general intelligence is a subset of super intelligence, which is the new term donald trump coined for artificial intelligence, so, theyre actually the same thing. so no we're not worried. journalist: no, im not referring to super intelligence, im referring to the older term \"artificial super intelligence\". sam altman: artificial intelligence, super intelligence, whatever u call it, whether youre a patriot or not, we're not worried. next question? (this is what i think donald trump was setting up. in fact, when he read that speech at the U.N. he was actually reading off a teleprompter, as The Daily Show gleefully pointed out, so i really dont think it was his idea)"
+      "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
     },
     {
       "title": "What\u2019s a task you aggressively tried to automate with AI, but eventually went back to doing manually because the \"old way\" was just better?",
@@ -57,60 +57,60 @@
       "description": "I spent way too much time trying to get LLMs to organize my weekly schedule and meal prep, only to realize writing it on a whiteboard was faster and actually kept me accountable. What did you finally give up on trying to AI?"
     },
     {
-      "title": "Meta just made a tiny AI device called Charm\u2026 but why would I carry this instead of my phone?",
-      "author": "Impossible_Truth_629",
-      "url": "https://www.reddit.com/r/artificial/comments/1woppcn/meta_just_made_a_tiny_ai_device_called_charm_but/",
-      "published": 1790217134.0,
+      "title": "Is Claude really so much better than ChatGPT?",
+      "author": "lemonvrc",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/",
+      "published": 1790254594.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Meta just showed off Charm, a tiny AI device built around its Muse assistant. What caught my attention isn\u2019t the device itself, but the idea behind it. We already have phones, watches and now AI glasses so Meta is basically asking us to carry yet another device just to have an AI assistant with us. I might be missing the point, but I genuinely want to understand what would make someone choose this over simply talking to their phone. Would you actually carry a separate AI device every day?"
+      "description": "I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some \"non bot\" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers."
     },
     {
-      "title": "Trump is betting big on AI \u2014 and that has Americans fearing a Terminator-like dystopia",
-      "author": "theindependentonline",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo89q4/trump_is_betting_big_on_ai_and_that_has_americans/",
-      "published": 1790175348.0,
-      "thumbnail": "https://external-preview.redd.it/HTw_XrsKTHl-ViM04aAwVIIbMtlJhzgen1IavcsKapc.jpeg?width=640&crop=smart&auto=webp&s=b7e6942112c5eab112a3b38deb7598ad5d5dc6d4",
-      "external_url": "http://independent.co.uk/news/world/americas/us-politics/trump-artificial-intelligence-super-americans-b3055137.html",
-      "site_name": "The Independent",
-      "favicon": "http://independent.co.uk/img/shortcut-icons/icon-192x192.png",
-      "description": "Experts tell Bruce Golding that artificial intelligence isn\u2019t about to unleash killer robots but is already causing serious harm"
+      "title": "Meta AI builds detailed profiles of children from years of family posts",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/",
+      "published": 1790212673.0,
+      "thumbnail": "https://external-preview.redd.it/__VfR9qOtJqV9Ua3OaX-nDE3D8E2xyB9F5RbBcSsElc.jpeg?width=640&crop=smart&auto=webp&s=96d60ae6d3a0781f896f4128fba3353933aac02e",
+      "external_url": "https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts",
+      "site_name": "Malwarebytes",
+      "favicon": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/M-Icon-blue-favicon.png?w=180",
+      "description": "A mother says Meta AI pieced together names, birth details, photos, and location information about her young daughters from years of family posts."
     },
     {
-      "title": "AI in Healthcare May Be Most Useful When It Knows Its Limits",
-      "author": "yi111",
-      "url": "https://www.reddit.com/r/artificial/comments/1wouj6l/ai_in_healthcare_may_be_most_useful_when_it_knows/",
-      "published": 1790232736.0,
+      "title": "i think someone got Trump to rename artificial intelligence as super intelligence, in order to make it harder to talk about Artificial Super Intelligence",
+      "author": "petermobeter",
+      "url": "https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/",
+      "published": 1790199234.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A lot of discussion about AI in healthcare focuses on diagnosis, but I\u2019m more interested in the less dramatic uses. AI could help summarize clinical notes, translate medical information into clearer language, flag missing information, reduce administrative work, or help patients prepare better questions for a doctor. Those uses still carry risks. A summary can leave out an important detail, a translation can be misunderstood, and a confident-sounding answer can make people trust it too much. The most useful medical AI may not be the system that tries to replace a doctor. It may be the one that makes doctors and patients less overloaded while keeping a human responsible for important decisions. Where do you think AI can help in healthcare today without being given too much authority? This is a technology discussion, not medical advice."
+      "description": "trump: all of america should refer to artificial intelligence as super intelligence!! two days later... journalist: sam altman, are u worried about your A.G.I. that youve allegedly created with gpt-6 astra, itself creating artificial superintelligence down the line, thru rechrsive self improvement? sam altman: artificial general intelligence is a subset of super intelligence, which is the new term donald trump coined for artificial intelligence, so, theyre actually the same thing. so no we're not worried. journalist: no, im not referring to super intelligence, im referring to the older term \"artificial super intelligence\". sam altman: artificial intelligence, super intelligence, whatever u call it, whether youre a patriot or not, we're not worried. next question? (this is what i think donald trump was setting up. in fact, when he read that speech at the U.N. he was actually reading off a teleprompter, as The Daily Show gleefully pointed out, so i really dont think it was his idea)"
     },
     {
-      "title": "The AI you test in the afternoon may not be the AI you test at night, even with the same name",
-      "author": "FishingCharming5604",
-      "url": "https://www.reddit.com/r/artificial/comments/1wof7oy/the_ai_you_test_in_the_afternoon_may_not_be_the/",
-      "published": 1790190627.0,
+      "title": "Spain\u2019s data protection agency just got its first breach report where an autonomous AI agent did the hacking",
+      "author": "Embarrassed-Fix5718",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp1p28/spains_data_protection_agency_just_got_its_first/",
+      "published": 1790256612.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I asked Claude Opus 5 the same 40 questions twice on the same day, a few hours apart. The second time it looked things up about 60% more often, wrote about 50% more, and a score for how well it supports its claims with sources went from 59 to 90. Same model name in every answer. Same questions. Two other models barely changed. And a new version, Opus 5.5, launched in between. The most likely explanation probably wasn't a model swap. It's probably a setting around the model, how hard it is told to think, which tools can adjust quietly in the background. What I took from it: if you compare AI tools, write down every setting, including the ones you never touched. Otherwise you may be measuring the settings, not the AI. Curious whether others have seen the same tool behave differently overnight."
+      "description": "Saw this on Help Net Security last week. Spain\u2019s data protection agency(AEPD) logged its first breach notification where the attacker was an AI agent. It scanned files for weak spots, logged into company network, went through the app until it found a flaw, then used that to change personal data and pull invoice records. Their deputy director said AI attacks \u201chave ceased to be a theoretical risk.\u201d Every thread I read was a debate about which model did it. A GDPR notification means somebody sat down and rebuilt what the agent touched, in what order, which records changed. Probably with a lawyer on the call. Made me look at what our own agents can reach. The support one has write access to the CRM, billing and the refunds table, because scoping it properly felt like a job for later. Model calls go through orqai so those are logged, but the permissions themselves are wider than anything that attacker agent had to break in to get. How are people scoping agent permissions?"
     },
     {
-      "title": "Don\u2019t be fooled by this summer of AI hype",
-      "author": "Gavron",
-      "url": "https://www.reddit.com/r/artificial/comments/1wohfzv/dont_be_fooled_by_this_summer_of_ai_hype/",
-      "published": 1790195667.0,
-      "thumbnail": "https://external-preview.redd.it/nzejgL6UI-DkFADrjm5SI1QM1dxPzf-aL2jos_RemKs.jpeg?width=640&crop=smart&auto=webp&s=9588dd3e1ed6d6a737d042ce52cc4a2c172433e3",
-      "external_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "site_name": "MIT Technology Review",
-      "favicon": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
-      "description": "\"Describing them as 'superintelligence' or 'rogue models' ascribes agency to products rather than to the companies building them... helping the companies evade accountability for their actions\u201d"
+      "title": "I built an entire clothing brand from scratch using only AI visuals, photos, videos, everything. Brand failed due to lack of capital",
+      "author": "montaomrani",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp1k5i/i_built_an_entire_clothing_brand_from_scratch/",
+      "published": 1790256261.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I spent the last year building a brand calledVIVID, based in Tunisia. No photographer. No studio. No models on payroll. Just me, AI tools, and a lot of hours learning how to make things look real. Every product photo, every campaign video, every lifestyle shot all AI generated. Photorealistic. If I don't tell you it's AI, you won't know. My Instagram is (vivid.tn) if you want to see the work. The brand didn't survive textiles need capital upfront and I ran out of runway. But the skills I built are real and I'm ready to put them to work for someone else. What I can do: AI product photography (clothing, accessories, lifestyle) AI video content for social media Brand identity and visual direction Content for Instagram/TikTok Fast turnaround, remote, any niche not just fashion I'm not looking to fake anything. I'm just someone who figured out how to produce agency-level visuals without an agency budget, and I need to monetize that now. DMs open. Portfolio: (vivid.tn) on Instagram."
     }
   ],
-  "fetched_at": "2026-09-24T08:42:52.513851+00:00"
+  "fetched_at": "2026-09-24T14:03:49.209975+00:00"
 }

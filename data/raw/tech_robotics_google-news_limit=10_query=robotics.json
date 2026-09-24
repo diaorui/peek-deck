@@ -15,6 +15,26 @@
       "description": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework."
     },
     {
+      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
+      "source": "qualcomm.com",
+      "source_url": "https://www.qualcomm.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
+      "pub_date": 1790165026.0,
+      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
+      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
+      "description": null
+    },
+    {
+      "headline": "Qualcomm acquiring robotics software firm PickNik (QCOM:NASDAQ)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1VabnhuZ1FhbVRHQVVOc2ZRS1JOMWFlbTV6QUxvOWlWWEhRYnBRMjhZOHlETkdrUjl0OHhsdzJfbTVZYXFocFVlT1dGbHYwcmhfdFBhWG0zZUlVRkZ2c1JpMEhITVBiZlktMXN1Nks3OEhvUVF0N0syb1g3VE5iTGYxLXF1VUllaTA4a1hFOEs?oc=5",
+      "pub_date": 1790163571.0,
+      "article_url": "https://seekingalpha.com/news/4645916-qualcomm-acquiring-robotics-software-firm-picknik",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246178320/image_2246178320.jpg?io=getty-c-w630",
+      "description": "Qualcomm acquires PickNik to expand physical AI and robotics, integrating MoveIt with Dragonwing and Arduino platforms."
+    },
+    {
       "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
       "source": "NVIDIA Blog",
       "source_url": "https://blogs.nvidia.com",
@@ -23,6 +43,26 @@
       "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
       "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
+    },
+    {
+      "headline": "Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVQ4cnhYRk53bzZYeHNoanp4MGhYZG8zTVA2Q040QXYzWjlTUWlRRF94bVRIbEpnRjE1Z05WajFaaUE5TU1HWFhoVVN4Ynh4bEVJamIyR3FCRE5yX25FaGMxSUV1cTVTelh0X29XZlo4VDJXOWdHT29VQUdBRExUTGNRa0lBVzRwdHBjVEFKcmZDMGlVUW5KZl90UG5vbkF3SkJsX0tOQWw?oc=5",
+      "pub_date": 1790254800.0,
+      "article_url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
+      "pub_date": 1790247607.0,
+      "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
@@ -35,44 +75,14 @@
       "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
     },
     {
-      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
-      "pub_date": 1790096776.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
-    },
-    {
-      "headline": "Humanoid Robots Spell Opportunity for European Chemical Firms",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkZPWWJMMnBQYmEzRnpqZ3ZQam9VZVZ3WFZKbEZXTjBnZUs5MHJxa2lKamFYT0ZzeDcyWkQ3Y3U2T2RuNHA0eF80WkJfcm9Eb3FzRmZjeWtCa2hvbmUtdmVzcjFKQlRXcTI5ZnlXQW44Z0Vtd2lxVHBVbWhEd2VsVGxtS1RDbGZmakl0VjBRcHhpYmJPamRiRmJuLWhKWmxqUnk2TXZhdWlPUDNBOXdfdVR3?oc=5",
-      "pub_date": 1790230500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google Is Giving Away \u2018The Android Of Robotics\u2019",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVm44QjhOQlVHdFN5NVBQZzYyeG5rUUYwNC1KdWUyNGQ4TERNZHVkZUhRV3oySnIxOFhhV1JTQ1ZHUWt3RzQ4UXkzSENuVTdyQVNCR01WZjd4YUp5OGRfcXVqbEpLN09zeU9heHRXZjRqQW5rS0o3ODctVnFoUEQ5aDlRbVZIYXVtUGw2WXNzQWdBbk9MdTdaNW9UOXh2emRS?oc=5",
-      "pub_date": 1790078400.0,
-      "article_url": "https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Can you lend me a hand? Researchers are developing wearable robotic limbs",
-      "source": "The Conversation",
-      "source_url": "https://theconversation.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmlnZW0xcjBzRFlxXzBLTE5FT2RpSnpXYkcwVlZZZXF1OEstN1dKTkFkNzF0MTE2X01nUzNma1J1MEp0MWVVaGFseXoyZlkxODlCdWtkMnc4eUlJTHFQRENjX2E0REI4LTRHMEp3UkVIZlZ4NzQ4em1uamRDdjNySzE4bEVJNk5XV1hDcjhqNUNvcE9TRnFidnJKWWcwLWg2aUFiQlFselR4VmM?oc=5",
-      "pub_date": 1790175451.0,
-      "article_url": "https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197",
-      "image": "https://images.theconversation.com/files/760205/original/file-20260916-50-sfzlq4.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
-      "description": "Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body."
+      "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
+      "source": "Vogue",
+      "source_url": "https://www.vogue.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtMU1BFYVE1WVV3ZGVuMXpMR1VlMnhuZ2RwX0tqVGlSZVlQMGt4Z2dVMG5NeVI1NUw4a004NmRKZk4zU0NqanhBb3hzV0ZGSVZla25USDZpZ1lVU1RZcWRzMGZSTXY0Y2dOd25EX1dZa3VjWk1jaVRYUUIydUJWMUsyaXl4MFVmUV9hS2hqc3hkVEVHZ2c?oc=5",
+      "pub_date": 1790194572.0,
+      "article_url": "https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano",
+      "image": "https://assets.vogue.com/photos/6ab3f558ce4c8e686d649214/16:9/w_1280,c_limit/GettyImages-2296705457.jpeg",
+      "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
     },
     {
       "headline": "Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics",
@@ -85,26 +95,16 @@
       "description": "One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies."
     },
     {
-      "headline": "Coast Guard establishes CG-781 to manage Robotics and Autonomous Systems",
-      "source": "United States Coast Guard (.mil)",
-      "source_url": "https://www.mycg.uscg.mil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWZPYVFmaXhWUzFXZFB3Sjl1a1oyaTVKSzU1VGRtR1Y4SHVIcXBVTjlOS25MaWJhRU41aHI2TVhRUFFLZ0xKZEMxLVJyVjk1WEpiSS1KUHF3c2p3WlNSUGEtcDZxQjcyb3BuRVFXaFVhT0k2X0JNaVk0bHAtMWVrcWNFZlh1cWdBb2RSbmM1cHB4a3o0WWQ5Z3A1aXowdTQ2S1dnWTR4Rk01M1gtcEp0MFBPWjY2cHd1OHBuRg?oc=5",
-      "pub_date": 1790002058.0,
-      "article_url": "https://www.mycg.uscg.mil/News/Article/4607081/coast-guard-establishes-cg-781-to-manage-robotics-and-autonomous-systems/",
-      "image": "https://media.defense.gov/2026/Sep/21/2004004410/1920/1080/0/260921-G-ZV557-1001.PNG",
-      "description": "New office will focus on people, training, and capabilities needed to put autonomous system to work"
-    },
-    {
-      "headline": "K-Pop Is Betting on AI and Robots. Will Fans Buy It?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMGh0WmVldFNfNkc1LXFXSVNrdzlvTlBIVmI3eVdDckt6YnVkZHNUS19JVGlhdFJSYTgzNHhQSEUtZXVNdGFkX0hMYV9PMTRKcG1rdTI3amhGTFpPUWZfVUducUFpcVhNRExoUkYtbU1NbHpCZnhOUnc1YU9XZjhZOENxQm1SMEFwU2hwenpyZE0?oc=5",
-      "pub_date": 1790100292.0,
-      "article_url": "https://www.wsj.com/tech/ai/k-pop-is-betting-on-ai-and-robots-will-fans-buy-it-6b3f161c",
-      "image": null,
-      "description": null
+      "headline": "Can you lend me a hand? Researchers are developing wearable robotic limbs",
+      "source": "The Conversation",
+      "source_url": "https://theconversation.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmlnZW0xcjBzRFlxXzBLTE5FT2RpSnpXYkcwVlZZZXF1OEstN1dKTkFkNzF0MTE2X01nUzNma1J1MEp0MWVVaGFseXoyZlkxODlCdWtkMnc4eUlJTHFQRENjX2E0REI4LTRHMEp3UkVIZlZ4NzQ4em1uamRDdjNySzE4bEVJNk5XV1hDcjhqNUNvcE9TRnFidnJKWWcwLWg2aUFiQlFselR4VmM?oc=5",
+      "pub_date": 1790175451.0,
+      "article_url": "https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197",
+      "image": "https://images.theconversation.com/files/760205/original/file-20260916-50-sfzlq4.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
+      "description": "Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T08:43:20.049934+00:00"
+  "fetched_at": "2026-09-24T14:04:22.662815+00:00"
 }
