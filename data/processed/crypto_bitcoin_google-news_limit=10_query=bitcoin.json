@@ -25,6 +25,16 @@
       "description": "Bitcoin rose above $85,000 on Monday extending a rally over the past few days."
     },
     {
+      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
+      "pub_date": 1790168400.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
+      "description": "Per Saylor, crypto is alive and well."
+    },
+    {
       "headline": "A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks",
       "source": "MLive.com",
       "source_url": "https://www.mlive.com",
@@ -35,22 +45,12 @@
       "description": null
     },
     {
-      "headline": "Crypto ETFs Are Surging, but Bitcoin & Ether Aren\u2019t the Big Winners",
-      "source": "ETF.com",
-      "source_url": "https://www.etf.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW44a0kzanF0MEQ1SWVPUEQ1WXY2SkVfRHA2dEh3VTNKX0lxZVhmQ0JPWjJfYzBIVFhzblRmOElma2FyTGtRNkpGaVktUFhHaHVJbEhod0R5ek1QRnFlZWhpTjdYT1ZsNDlHWl9aTnV2SDJzMXMyS2pIUnZQaGlBU1dadzVvcjBZTjhkQTdtTVpkVTV5WGZGOA?oc=5",
-      "pub_date": 1790105997.0,
-      "article_url": "https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFVIQnJhNlRJVVNsZnRMR1R2YWhvWERxbkVLQkNudHVPc3pxY1Jvd3JDQXdaNUpsMWlQYzRWUGY3TEdTdXlvcmZFSnlTSUpBOGVzQ2diSVVrOVV4czVDUkF1bWtHU3k5LU1fSlFEQndDdUhySmVHV2FUamxRRG5PREtNM1RIbVRjM3ZweG1pS3loZGlqcTY1Z3MxZUpCQXNUbWF1VE4tWERlQ09DdmlrRDRB?oc=5",
-      "pub_date": 1790110080.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow",
+      "headline": "BlackRock Issues \u2018Extraordinary\u2019 Crypto Prediction As The Bitcoin Price Suddenly Soars",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3BIQ1VLZG1pVXRhamp5czg4VUt1UDZ2ZXQxUzNGLWxyd1RmdTM5ZVhMZF9LaUhodVhkeXRCcXhHRUJmVk1yME9BUzFuaUFjaVFCSUpSOTBEUFdPME5qY2V2SGpqSUtzSlZ2bkZ4WlNDTHhfa0hYMl9QVHdETVRhZi0yaTNhdlRhLU9VZ2ZoV0d4bkpRTUtldkx3ZV8xcklJMWd4cF9QRjBEd2hySnJrQXZxUTJSYk9IRWdCdFRBa0c3RGNGQlRJN3hsd1dxRlZCcjJmMGtwUQ?oc=5",
+      "pub_date": 1790163033.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2026/09/23/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/",
       "image": null,
       "description": null
     },
@@ -65,6 +65,16 @@
       "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
     },
     {
+      "headline": "Crypto ETFs Are Surging, but Bitcoin & Ether Aren\u2019t the Big Winners",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW44a0kzanF0MEQ1SWVPUEQ1WXY2SkVfRHA2dEh3VTNKX0lxZVhmQ0JPWjJfYzBIVFhzblRmOElma2FyTGtRNkpGaVktUFhHaHVJbEhod0R5ek1QRnFlZWhpTjdYT1ZsNDlHWl9aTnV2SDJzMXMyS2pIUnZQaGlBU1dadzVvcjBZTjhkQTdtTVpkVTV5WGZGOA?oc=5",
+      "pub_date": 1790105997.0,
+      "article_url": "https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Simple Mining seeks to host bitcoin center in Madison",
       "source": "KELOLAND.com",
       "source_url": "https://www.keloland.com",
@@ -75,12 +85,12 @@
       "description": null
     },
     {
-      "headline": "Saylor\u2019s Strategy Makes First Purchase of Bitcoin Since August",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2hTNlFGcGp3MFVmOXMzbm1GYXAyVWswYV9iQXBmelVhbHgxM3J4TEhwNkh1WnhoYmpKNlJKelhrcjFpbDdHWFZQSzVrMXZUVjljT2FCS216OTJfNjhYLW5YeWx6c1NEejhITk14dWY2QmpzODVyclNUM3B0NkpKNEtJaUk5c0xtMWtHQkhBNTRyeWJyNGE0d0NYMEhVSV83Wk1QWEY0ZVBqbThZTGdUWnNhaw?oc=5",
-      "pub_date": 1790024379.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
+      "headline": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2JXX0l2aENCZTlLUWE0aDM5NDVCZUw1aTFNeW9HZkhmR3NsQm1uMkROM3dYcU9oZ1AyUldPWXNQcFFYUnQ3a01uUnUxbHJ1X3pxZDZWbW9fSHRudXR1U0JGc1pOUTNWVUxNdlE0TnQ1Z3lodi1IRU5CbGlfWDliYjdSVGNKd01YUmVhTGs1MEVHZkNkVE1YeGhQczJjd3Y5U2RHUzN3S0dlbFNxZTNNdUxnaGpYNy00MmtXYUpzNmNiUzVO?oc=5",
+      "pub_date": 1790214640.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.barchart.com/story/news/4750873/how-to-play-microstrategy-stock-as-bitcoin-prices-surge-higher-again",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
-      "pub_date": 1790168400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
-      "description": "Per Saylor, crypto is alive and well."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T23:52:27.391562+00:00"
+  "fetched_at": "2026-09-24T03:30:19.443706+00:00"
 }

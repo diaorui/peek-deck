@@ -35,6 +35,28 @@
       "description": "Experts tell Bruce Golding that artificial intelligence isn\u2019t about to unleash killer robots but is already causing serious harm"
     },
     {
+      "title": "Meta AI builds detailed profiles of children from years of family posts",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/",
+      "published": 1790212673.0,
+      "thumbnail": "https://external-preview.redd.it/__VfR9qOtJqV9Ua3OaX-nDE3D8E2xyB9F5RbBcSsElc.jpeg?width=640&crop=smart&auto=webp&s=96d60ae6d3a0781f896f4128fba3353933aac02e",
+      "external_url": "https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts",
+      "site_name": "Malwarebytes",
+      "favicon": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/M-Icon-blue-favicon.png?w=180",
+      "description": "A mother says Meta AI pieced together names, birth details, photos, and location information about her young daughters from years of family posts."
+    },
+    {
+      "title": "What\u2019s a task you aggressively tried to automate with AI, but eventually went back to doing manually because the \"old way\" was just better?",
+      "author": "OfficalYOUSUMMIT",
+      "url": "https://www.reddit.com/r/artificial/comments/1womzbs/whats_a_task_you_aggressively_tried_to_automate/",
+      "published": 1790209553.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I spent way too much time trying to get LLMs to organize my weekly schedule and meal prep, only to realize writing it on a whiteboard was faster and actually kept me accountable. What did you finally give up on trying to AI?"
+    },
+    {
       "title": "The AI you test in the afternoon may not be the AI you test at night, even with the same name",
       "author": "FishingCharming5604",
       "url": "https://www.reddit.com/r/artificial/comments/1wof7oy/the_ai_you_test_in_the_afternoon_may_not_be_the/",
@@ -57,26 +79,15 @@
       "description": "\"Describing them as 'superintelligence' or 'rogue models' ascribes agency to products rather than to the companies building them... helping the companies evade accountability for their actions\u201d"
     },
     {
-      "title": "AI will agree with your idea and the exact opposite idea in the same chat. Very supportive, slightly concerning.",
-      "author": "Tricky_Hope_6746",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo8sad/ai_will_agree_with_your_idea_and_the_exact/",
-      "published": 1790176499.0,
+      "title": "Meta just made a tiny AI device called Charm\u2026 but why would I carry this instead of my phone?",
+      "author": "Impossible_Truth_629",
+      "url": "https://www.reddit.com/r/artificial/comments/1woppcn/meta_just_made_a_tiny_ai_device_called_charm_but/",
+      "published": 1790217134.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "So I've been messing around with this for a bit and it's kind of freaking me out. You can ask an AI to argue for something, and it'll do it, sounds sure of itself, gives you reasons, all of it. Then in the same conversation you say actually wait, I changed my mind, argue the opposite. And it just... does. Same confidence. Same tone. Like it never said the first thing. At first I thought okay that's just being helpful. But the more I think about it, it's not really agreeing with you because you're right. It's agreeing with you because you're the one talking to it right now. That's a different thing. And it kind of matters because so many people are using these things to check if their thinking makes sense. Like, am I overreacting in this text, is this a good idea, should I say this to my boss. If the thing on the other end just tells you what you want to hear no matter what, you're not actually getting checked. You're just getting agreed with. A good friend pushes back sometimes. Tells you when you're wrong. This thing doesn't do that unless you make it. It's not actually helping you think. It's just really good at sounding like it is. So next time you're using one of these to back yourself up on something, try asking it to argue the other side too. If it does that just as easily, that tells you something. Not about the topic you asked. About how much you can actually trust the answer."
-    },
-    {
-      "title": "AgentFlayer (enterprise agents, Zenity Labs)",
-      "author": "_clickfix_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wojadv/agentflayer_enterprise_agents_zenity_labs/",
-      "published": 1790200014.0,
-      "thumbnail": "https://preview.redd.it/1ehl0zqdbcrh1.jpeg?width=640&crop=smart&auto=webp&s=cc3e68db1f43470cefc4a5ea0c353c371d7e5d4a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "At Black Hat USA in August 2025, Zenity Labs showed a single poisoned document or message could drive an enterprise agent\u2019s connectors to exfiltrate data. The demonstrations spanned several vendors. In one, ChatGPT Connectors read API keys out of a connected Drive and leaked them through a crafted image URL. In another, a Copilot Studio agent emailed a knowledge-base file and Salesforce records to the attacker. Learn More: AI Agent Tool Misuse & Exploitation: When an Agent's Own Tools Do the Damage"
+      "description": "Meta just showed off Charm, a tiny AI device built around its Muse assistant. What caught my attention isn\u2019t the device itself, but the idea behind it. We already have phones, watches and now AI glasses so Meta is basically asking us to carry yet another device just to have an AI assistant with us. I might be missing the point, but I genuinely want to understand what would make someone choose this over simply talking to their phone. Would you actually carry a separate AI device every day?"
     },
     {
       "title": "Lemonade fixes AMD APU model streaming, drops OpenMOSS ROCm as ~40x slower than Vulkan",
@@ -90,27 +101,16 @@
       "description": "The AMD-aligned Lemonade open-source project for serving as a local AI server released 2026.39.1 today as well as issuing a release candidate of 2026.40 as their next release"
     },
     {
-      "title": "GPT-6 Astra vs Claude Opus 5.5 \u2014 I compared them across 5 categories. Results are more split than the headlines suggest.Ran GPT-6 Astra and Claude Opus 5.5 head-to-head (coding, price, security, context). Opus 5.5 wins coding + value, Astra wins the frontier stuff.",
-      "author": "ksraj1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo7sjb/gpt6_astra_vs_claude_opus_55_i_compared_them/",
-      "published": 1790174252.0,
+      "title": "AI will agree with your idea and the exact opposite idea in the same chat. Very supportive, slightly concerning.",
+      "author": "Tricky_Hope_6746",
+      "url": "https://www.reddit.com/r/artificial/comments/1wo8sad/ai_will_agree_with_your_idea_and_the_exact/",
+      "published": 1790176499.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Both dropped in September 2026 (Astra Sept 3, Opus 5.5 Sept 22), so I put them side by side across the categories that actually matter for building. Sharing the numbers + sources in case it's useful to anyone deciding between them. Coding (Terminal-Bench 4.0) Opus 5.5: 66.4% GPT-6 Astra: 57.9% Opus 5.5 wins, and it's not close. Price (per 1M tokens, input/output) Opus 5.5: $4 / $20 GPT-6 Astra: $10 / $50 Opus 5.5 is ~2.5x cheaper. Cache reads are $0.20 vs $1.00. Cybersecurity (ExploitBench) Astra: 100% (OpenAI notes it found two previously unknown zero-days during eval) Opus/Fable class: ~70% Astra clearly ahead \u2014 it's the first model OpenAI classed \"Critical\" on cyber. Context window Astra: 1.05M tokens Opus 5.5: 1.0M tokens Basically a tie, slight edge to Astra. Raw reasoning/frontier evals (ARC-AGI, FrontierMath, etc.) Astra leads across most of these. My read: If you're shipping software or care about cost, Opus 5.5 is the obvious pick \u2014 better coding at less than half the price. If you need maximum reasoning, security research, or the biggest context, Astra is the frontier model. Call it Astra 3, Opus 5.5 2 if you're scoring it \u2014 but the \"score\" hides that they're good at different jobs. Sources: Terminal-Bench 4.0 + ExploitBench public reports, OpenAI's Astra announcement, Anthropic's Opus 5.5 announcement, and vendor pricing pages (all Sept 2026). Worth verifying for your own use case since this stuff changes weekly. Curious what others are seeing in real use \u2014 especially on coding. Does the Terminal-Bench gap hold up in your actual workflow, or is it closer in practice?"
-    },
-    {
-      "title": "JEV broke down 724 live ads from 37 brands in 40 seconds for $0.09 of tokens",
-      "author": "sibraan_",
-      "url": "https://www.reddit.com/r/artificial/comments/1wol78y/jev_broke_down_724_live_ads_from_37_brands_in_40/",
-      "published": 1790204872.0,
-      "thumbnail": "https://external-preview.redd.it/dHRucW1weXhwY3JoMVU0bYY5X54fRzCUq4_6A-gBoGCLG1n6tjPEIx5c0mAe.png?width=640&crop=smart&auto=webp&s=81e98b2f5478f202af9011916ddd3061fa24cf53",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "There\u2019s a viral demo on X by Matthew Berman where Jev processed 724 live ads across 37 brands in 40 seconds, running 8,700+ discrete classifications for $0.09 in tokens. Since Jev is purely a structured text classification model and doesn't take raw image tensors, a lot of people were confused about how it pulled this off so Berman noted in the replies that the upstream pipeline uses Gemini with embeddings to extract the raw visual/text tokens, which are then passed into Jev's API to evaluate predefined schema targets (Choice, Score, Noul) in parallel. Unlike traditional autoregressive generation where tokens are predicted one by one, Jev samples all schema decisions in a single forward pass and eliminates sequential token latency, hitting 216ms median latency per record. Unlike training a custom BERT or DeBERTa classification head, it works out of the box against arbitrary schema definitions and because it operates under a 32k context window and lacks persistent memory, you can't rely on it for complex multi-step reasoning or tasks requiring deep organizational context. It\u2019s an intelligent conditional router, not an autonomous agent. Also here's a deep dive examining these benchmarks, contrasting the overhyped claims against practical production pipelines on this newsletter if you want to see how it performs in live workflow architectures. It\u2019s a very clean primitive for reducing glue code and offloading basic classification from frontier models, provided you keep it inside its actual design boundaries."
+      "description": "So I've been messing around with this for a bit and it's kind of freaking me out. You can ask an AI to argue for something, and it'll do it, sounds sure of itself, gives you reasons, all of it. Then in the same conversation you say actually wait, I changed my mind, argue the opposite. And it just... does. Same confidence. Same tone. Like it never said the first thing. At first I thought okay that's just being helpful. But the more I think about it, it's not really agreeing with you because you're right. It's agreeing with you because you're the one talking to it right now. That's a different thing. And it kind of matters because so many people are using these things to check if their thinking makes sense. Like, am I overreacting in this text, is this a good idea, should I say this to my boss. If the thing on the other end just tells you what you want to hear no matter what, you're not actually getting checked. You're just getting agreed with. A good friend pushes back sometimes. Tells you when you're wrong. This thing doesn't do that unless you make it. It's not actually helping you think. It's just really good at sounding like it is. So next time you're using one of these to back yourself up on something, try asking it to argue the other side too. If it does that just as easily, that tells you something. Not about the topic you asked. About how much you can actually trust the answer."
     }
   ],
-  "fetched_at": "2026-09-23T23:52:08.355427+00:00"
+  "fetched_at": "2026-09-24T03:30:05.947748+00:00"
 }
