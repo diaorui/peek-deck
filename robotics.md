@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-24T03:30:38.832888+00:00'
+updated: '2026-09-24T08:43:22.345058+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 24, 2026 at 03:30 UTC  
+**Last Updated:** September 24, 2026 at 08:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is and old video of my droid trooper robot, he doesn't like to be bothered... The body is based over a MIP robot, which I hacked and reconverted into a "storm trooper"
 
-1d ago
+2d ago
 
 ---
 
@@ -44,7 +44,7 @@ This is and old video of my droid trooper robot, he doesn't like to be bothered.
 
 This started as a small experiment: could I build a “video game” where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It’s still very much a prototype and there are plenty of things that don’t work perfectly yet. I’ve mostly tested it myself and with my kids, so I’m curious what people here think about the concept. I’m especially interested in the robotics side — remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com
 
-1d ago
+2d ago
 
 ---
 
@@ -116,65 +116,27 @@ Before and after training
 
 ## Google News: "robotics"
 
-**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
+**[Qualcomm to acquire PickNik Robotics and keep MoveIt open-source](https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/)**
 
-Qualcomm • 15h ago
+Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework.
 
----
-
-**[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
-
-Forbes • 1d ago
+The Robot Report • 21h ago
 
 ---
 
-**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
+**[NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/)**
 
-One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
+The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform.
 
-Emory News • 1d ago
-
----
-
-**[K-Pop Is Betting on AI and Robots. Will Fans Buy It?](https://www.wsj.com/tech/ai/k-pop-is-betting-on-ai-and-robots-will-fans-buy-it-6b3f161c)**
-
-WSJ • 1d ago
+NVIDIA Blog • 1d ago
 
 ---
 
-**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
+**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
 
-Tech Xplore • 10h ago
+The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
----
-
-**[Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)**
-
-Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
-
-TechCrunch • 3h ago
-
----
-
-**[Meet the Roboticist Making Machines that Give Back to Nature](https://spectrum.ieee.org/sustainability-robotics-barbara-mazzolai)**
-
-Sustainability robotics sees the environment as more than inspiration
-
-IEEE Spectrum • 1d ago
-
----
-
-**[What if robots didn't need all their AI onboard?](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)**
-
-Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
-
-Microsoft • 11h ago
-
----
-
-**[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
-
-Tech Xplore • 17h ago
+CNBC • 1h ago
 
 ---
 
@@ -186,91 +148,129 @@ Ars Technica • 1d ago
 
 ---
 
+**[Humanoid Robots Spell Opportunity for European Chemical Firms](https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Google Is Giving Away ‘The Android Of Robotics’](https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/)**
+
+Forbes • 1d ago
+
+---
+
+**[Can you lend me a hand? Researchers are developing wearable robotic limbs](https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197)**
+
+Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body.
+
+The Conversation • 17h ago
+
+---
+
+**[Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics](https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics)**
+
+One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies.
+
+Emory News • 1d ago
+
+---
+
+**[Coast Guard establishes CG-781 to manage Robotics and Autonomous Systems](https://www.mycg.uscg.mil/News/Article/4607081/coast-guard-establishes-cg-781-to-manage-robotics-and-autonomous-systems/)**
+
+New office will focus on people, training, and capabilities needed to put autonomous system to work
+
+United States Coast Guard (.mil) • 2d ago
+
+---
+
+**[K-Pop Is Betting on AI and Robots. Will Fans Buy It?](https://www.wsj.com/tech/ai/k-pop-is-betting-on-ai-and-robots-will-fans-buy-it-6b3f161c)**
+
+WSJ • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
 
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=Ad5HXeYXCug)**
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
 
-📺 SNeuroRobotics
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
 
-👁️ 95K • 👍 1K • 💬 31 • ⏱️ 0:16 • 4d ago
+📺 South China Morning Post
 
----
-
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=br0HIPK5VBk)**
-
-📺 SNeuroRobotics
-
-👁️ 29K • 👍 154 • 💬 4 • ⏱️ 0:09 • 6d ago
+👁️ 183K • 👍 1K • 💬 239 • ⏱️ 2:40 • 3d ago
 
 ---
 
-**[Robot at Dreamforce 2026 🤖  #shorts #robot](https://www.youtube.com/watch?v=csBfyowYKXs)**
+**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
 
-A futuristic robot at Dreamforce 2026 See the incredible robotics and AI technology showcased at one of the biggest tech ...
+IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
 
-📺 Android Alians
+📺 Evolving AI
 
-👁️ 78K • 👍 721 • 💬 63 • ⏱️ 0:18 • 6d ago
-
----
-
-**[This Robot Can Install Drywall Without a Human Holding It! 🤯](https://www.youtube.com/watch?v=0GdxTR47SR8)**
-
-Construction automation is getting seriously advanced. The CANVAS robotic drywall system is designed to automate major parts ...
-
-📺 Perigee Tech
-
-👁️ 84K • 💬 23 • ⏱️ 0:06 • 4d ago
+👁️ 19K • 👍 129 • 💬 17 • ⏱️ 12:11 • 2d ago
 
 ---
 
-**[Top 3 CRAZIEST AI Robot Moments #shorts #funny](https://www.youtube.com/watch?v=Aud4wqPovGc)**
+**[Why I Dropped out of Engineering...](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
 
-Robots and AI technology are advancing faster than ever! From a cowboy hat-wearing "Rizzbot" hitting on people in public ...
+Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
 
-📺 TopVenture
+📺 Tazer
 
-👁️ 38K • 👍 486 • 💬 8 • ⏱️ 0:27 • 6d ago
-
----
-
-**[Check out my latest video! #robot #robotics #technology #engineering #robots](https://www.youtube.com/watch?v=Vhkg1U6Ut9o)**
-
-📺 SNeuroRobotics
-
-👁️ 360K • 👍 4K • 💬 25 • ⏱️ 0:12 • 4d ago
+👁️ 35K • 👍 1K • 💬 83 • ⏱️ 24:10 • 8h ago
 
 ---
 
-**[Humanoid Robots 100 meter race in World Humanoid Robot Games #humanoidrobot #robot #robotics #tech](https://www.youtube.com/watch?v=O6T3g_nDa_M)**
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
-Humanoid Robots race during the World Humanoid Robot Games in Beijing China.
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
 
-📺 Code by Nadiia
+📺 America's Got Talent
 
-👁️ 44K • 👍 471 • 💬 13 • ⏱️ 0:16 • 4d ago
-
----
-
-**[Humanoid Robots Marching in Beijing China #humanoidrobot #robot #robots #robotics #chinarobot #tech](https://www.youtube.com/watch?v=oRFdlncLZ4U)**
-
-It's unbelievable how Humanoid Robots are matching during the opening ceremony of the World Humanoid Robot Games in ...
-
-📺 Code by Nadiia
-
-👁️ 5K • 👍 47 • 💬 3 • ⏱️ 0:15 • 6d ago
+👁️ 500K • 👍 5K • 💬 549 • ⏱️ 4:18 • 1d ago
 
 ---
 
-**[Xynova Flex 2: Advanced Bionic Robotic Arm #chinesetechnology #madeinchina #robotics #future #ai](https://www.youtube.com/watch?v=qD69s3j2oZg)**
+**[AI Robots Are OUT OF CONTROL… It&#39;s Already Starting!](https://www.youtube.com/watch?v=V0wAGFaV_Ew)**
 
-China's robotics industry is pushing the boundaries of innovation, and advanced bionic hands represent an exciting development ...
+AI robots are getting OUT OF CONTROL. From humanoid robots chasing people with knives and handling guns to robot fights, ...
 
-📺 VisionX
+📺 MindSeeded
 
-👁️ 61K • 👍 977 • 💬 5 • ⏱️ 0:18 • 6d ago
+👁️ 1.0M • 👍 15K • 💬 2K • ⏱️ 16:24 • 6d ago
+
+---
+
+**[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
+
+In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
+
+📺 NBC News
+
+👁️ 108K • 👍 837 • 💬 225 • ⏱️ 3:34 • 1d ago
+
+---
+
+**[China&#39;s T800 Fights People Now #robot #ai #robotics](https://www.youtube.com/watch?v=KVxA_EHk88U)**
+
+China's T800 is now fighting worldwide against both robots and humans. EngineAI is ramping up production of its ...
+
+📺 Kalil 4.0
+
+👁️ 38K • 👍 531 • 💬 67 • ⏱️ 1:16 • 2d ago
+
+---
+
+**[AGIBOT A3 Ultra Humanoid Robot Is Already Going to Work](https://www.youtube.com/watch?v=aluEUdbL4oo)**
+
+The AGIBOT A3 Ultra humanoid robot is moving beyond demonstrations and toward real commercial work. Designed for ...
+
+📺 DPCcars
+
+👁️ 21K • 👍 140 • 💬 39 • ⏱️ 2:56 • 6d ago
 
 ---
 
@@ -280,7 +280,17 @@ Elon Musk predicts a future with 1 BILLION humanoid robots — and says AI-power
 
 📺 ejunky66
 
-👁️ 813K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
+👁️ 822K • 👍 8K • 💬 1K • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Man versus Robot: Influencer takes on humanoid robot in cage match](https://www.youtube.com/watch?v=3t1sBBvHSXc)**
+
+An influencer stepped into the ring to take on a six-foot, 200-pound robot. NBC News' Steven Romo takes a closer look at the ...
+
+📺 NBC News
+
+👁️ 59K • 👍 299 • 💬 104 • ⏱️ 1:35 • 1d ago
 
 ---
 
