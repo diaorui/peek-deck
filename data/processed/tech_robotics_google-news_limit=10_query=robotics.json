@@ -25,6 +25,16 @@
       "description": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework."
     },
     {
+      "headline": "Can Massachusetts back more robotics startups?",
+      "source": "The Boston Globe",
+      "source_url": "https://www.bostonglobe.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaDBxTTd6OHFrVWdHZU8yMzlCU2xBWldJMWRHMEhNOEM0Ry1jcGNjSWoxVkY1czBwbEtTZ1dVOFVMTmJpTzVQSGNCTDQzeU9Jb2hwSXFHOE8wQVdfY3FYdGZBWFNoVnoyTVlLTUt2Tk5NdVdNQ3kyYnd1cVdqQnc?oc=5",
+      "pub_date": 1790285877.0,
+      "article_url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/KY3QL47TWU5WJMYUYN2VZKXOQU.jpg?auth=f118c78c080030ada011fdb9729b7d52f792bb468c12a372b7b633ec3bd07611&width=1440",
+      "description": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts."
+    },
+    {
       "headline": "Discover Amazon building $100 million robotics plant in Indiana",
       "source": "qz.com",
       "source_url": "https://qz.com",
@@ -33,16 +43,6 @@
       "article_url": "https://qz.com/gateway/amazon-robotics-manufacturing-plant-greenwood-indiana-092426",
       "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2195802149-300x200.jpg",
       "description": "The 585,000-square-foot facility will create 300 jobs averaging nearly $100,000 a year and is expected to open by 2028"
-    },
-    {
-      "headline": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "source": "spectrum.ieee.org",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nQjZMVHI1QUVOQjBkOVFyMVhSZnNuVUEzbFRGYXVFeVJGc3ZGNnFWbWh1YzRIY3JDQXIwckFUNWotWEFKVjRJYWk1OFctS3UyUzlwM1kwLUl0MkFLVE9nTW5tQ3JsUVZpeWszYw?oc=5",
-      "pub_date": 1790272940.0,
-      "article_url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "image": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "description": "Project brings hands-on robotics lessons to high-school students"
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
@@ -55,34 +55,14 @@
       "description": null
     },
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
-    },
-    {
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
-      "pub_date": 1790158801.0,
-      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
+      "headline": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
-      "pub_date": 1790096776.0,
-      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
-      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTlZaDRNdE9qa0hOcEc5M2lBWXhVMGhGaGl3cUxpM2t2amk1akZZMXVldFJ0WkVJd25ONTBoejRBN2U2LXM2QjBva280bkFVaWhRLW51dk5CQzViQnJOeDA2akJEZV9Qc0NfdFRlZHdZeWhiT1BOTFpGOFdhanhfcmlMaUR5V2RwMW9TM19YVnpyLVVVZ29iaVJUYm9iXzlsMVdlVzZfU1Q2dHQ0WlpzTU1CRl8?oc=5",
+      "pub_date": 1790275187.0,
+      "article_url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-2560x1440.jpg",
+      "description": "Ukraine\u2019s Operation Vivaldi has erased Russian gains with the help of robots."
     },
     {
       "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
@@ -95,16 +75,36 @@
       "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
     },
     {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247496.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+    },
+    {
+      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
+      "pub_date": 1790275958.0,
+      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T18:34:13.852774+00:00"
+  "fetched_at": "2026-09-24T22:01:41.286504+00:00"
 }
