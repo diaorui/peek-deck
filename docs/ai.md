@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-24T14:04:24.759332+00:00'
+updated: '2026-09-24T18:34:30.334069+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** September 24, 2026 at 14:04 UTC  
+**Last Updated:** September 24, 2026 at 18:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 As the title says. My fiance is a lot more book smart than I am but he doesn’t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he’s been pretty anxious and depressed, claiming we only have a decade or less left to live. He’s been talking to his therapist about it to help him cope, but he’s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It’s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn’t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I’ve mentioned above.
 
-9h ago
+13h ago
+
+---
+
+**[Mark Zuckerberg rejects calls for industrywide AI slowdown](https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/)**
+
+In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn’t think AI companies need to work together on a slowdown.
+
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ As the title says. My fiance is a lot more book smart than I am but he doesn’t
 
 Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show.
 
-🔗 [Business Insider](https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9) • 8h ago
 
 ---
 
@@ -57,7 +65,39 @@ Amazon is courting former employees for open roles across the company, including
 
 MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become “the largest misallocation of capital in history.”
 
-🔗 [yellow.com](https://yellow.com/news/ai-spending-trillion-dollar-reckoning) • 4h ago
+🔗 [yellow.com](https://yellow.com/news/ai-spending-trillion-dollar-reckoning) • 9h ago
+
+---
+
+**[Is Claude really so much better than ChatGPT?](https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/)**
+
+I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some "non bot" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers.
+
+5h ago
+
+---
+
+**[I switched my personal agent from DeepSeek V4.1 Flash to MiMo V2.6 Pro](https://www.reddit.com/r/artificial/comments/1wp5ega/i_switched_my_personal_agent_from_deepseek_v41/)**
+
+Xiaomi just released the open-weight MiMo V2.6 Pro and Flash models. What caught my eye was Artificial Analysis's comparison: Pro scores 46 on its Intelligence Index versus 39 for DeepSeek V4.1 Flash, at a lower average cost per benchmark task. That's cost per task on their tests, not a guarantee that every API call will be cheaper. I'd been using DeepSeek V4.1 Flash in my personal agent, so I switched it to MiMo V2.6 Pro through tokenrouter. I reran the same task a few times, asking it to find source material and put together a summary. On those runs, my total cost came out about 15–20% lower than with DeepSeek. The results still did what I needed, and some looked a bit better to me. It's only one task and a handful of runs, but for my agent this looks worth the switch. I'm leaving it on MiMo for now and will see whether that holds up across more work. Source： https://mimo.mi.com/docs/en-US/news/latest/v2-6 https://artificialanalysis.ai/models/comparisons/mimo-v2-6-pro-vs-deepseek-v4-1-flash
+
+2h ago
+
+---
+
+**[Spain’s data protection agency just got its first breach report where an autonomous AI agent did the hacking](https://www.reddit.com/r/artificial/comments/1wp1p28/spains_data_protection_agency_just_got_its_first/)**
+
+Saw this on Help Net Security last week. Spain’s data protection agency(AEPD) logged its first breach notification where the attacker was an AI agent. It scanned files for weak spots, logged into company network, went through the app until it found a flaw, then used that to change personal data and pull invoice records. Their deputy director said AI attacks “have ceased to be a theoretical risk.” Every thread I read was a debate about which model did it. A GDPR notification means somebody sat down and rebuilt what the agent touched, in what order, which records changed. Probably with a lawyer on the call. Made me look at what our own agents can reach. The support one has write access to the CRM, billing and the refunds table, because scoping it properly felt like a job for later. Model calls go through orqai so those are logged, but the permissions themselves are wider than anything that attacker agent had to break in to get. How are people scoping agent permissions?
+
+5h ago
+
+---
+
+**[Google's AI Gemini exhibits self-control, stops unauthorised hack into companies](https://www.reddit.com/r/artificial/comments/1wp37oc/googles_ai_gemini_exhibits_selfcontrol_stops/)**
+
+The media have widely misrepresented Gemini's breakout case, focusing on it getting out on the internet (which it was accidentally given access to) and the hack - but not how it ended up stopping itself. Properly designed AI might not be out to destroy us all.
+
+🔗 [Vulcan Post](https://vulcanpost.com/913440/google-ai-gemini-stops-unauthorised-hack-into-three-companies/) • 4h ago
 
 ---
 
@@ -69,51 +109,11 @@ Im on my way to work, and all three lanes are blocked with these Waymo self driv
 
 ---
 
-**[What’s a task you aggressively tried to automate with AI, but eventually went back to doing manually because the "old way" was just better?](https://www.reddit.com/r/artificial/comments/1womzbs/whats_a_task_you_aggressively_tried_to_automate/)**
+**[Opus 5.5 summary: 66.4% Terminal-Bench, ~40% cheaper to run than Opus 5, cache reads down 60%](https://www.reddit.com/r/artificial/comments/1wp3ya3/opus_55_summary_664_terminalbench_40_cheaper_to/)**
 
-I spent way too much time trying to get LLMs to organize my weekly schedule and meal prep, only to realize writing it on a whiteboard was faster and actually kept me accountable. What did you finally give up on trying to AI?
+Pulled together the key numbers from the Opus 5.5 launch (Sept 22) for anyone deciding whether to switch: Terminal-Bench 4.0: 66.4% (GPT-6 Astra 57.9%, Fable 5.1 55.8%) Pricing: $4 / $20 per 1M tokens, down from $5 / $25 Cache reads: $0.20, down 60% from $0.50 — this is the big one for agent workloads Anthropic says typical workloads cost ~40% less vs Opus 5 because it uses fewer tokens per task, and output is 30%+ faster Internal test: C→Rust port of HAProxy finished in 9.5 hrs vs 12 hrs for Fable 5.1, 51% cheaper 1M context, 128K output All of this is Anthropic-reported, so I'm curious what people see in practice. Has the cost drop held up on your actual workloads, especially long agent runs?
 
-13h ago
-
----
-
-**[Is Claude really so much better than ChatGPT?](https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/)**
-
-I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some "non bot" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers.
-
-1h ago
-
----
-
-**[Meta AI builds detailed profiles of children from years of family posts](https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/)**
-
-A mother says Meta AI pieced together names, birth details, photos, and location information about her young daughters from years of family posts.
-
-🔗 [Malwarebytes](https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts) • 12h ago
-
----
-
-**[i think someone got Trump to rename artificial intelligence as super intelligence, in order to make it harder to talk about Artificial Super Intelligence](https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/)**
-
-trump: all of america should refer to artificial intelligence as super intelligence!! two days later... journalist: sam altman, are u worried about your A.G.I. that youve allegedly created with gpt-6 astra, itself creating artificial superintelligence down the line, thru rechrsive self improvement? sam altman: artificial general intelligence is a subset of super intelligence, which is the new term donald trump coined for artificial intelligence, so, theyre actually the same thing. so no we're not worried. journalist: no, im not referring to super intelligence, im referring to the older term "artificial super intelligence". sam altman: artificial intelligence, super intelligence, whatever u call it, whether youre a patriot or not, we're not worried. next question? (this is what i think donald trump was setting up. in fact, when he read that speech at the U.N. he was actually reading off a teleprompter, as The Daily Show gleefully pointed out, so i really dont think it was his idea)
-
-16h ago
-
----
-
-**[Spain’s data protection agency just got its first breach report where an autonomous AI agent did the hacking](https://www.reddit.com/r/artificial/comments/1wp1p28/spains_data_protection_agency_just_got_its_first/)**
-
-Saw this on Help Net Security last week. Spain’s data protection agency(AEPD) logged its first breach notification where the attacker was an AI agent. It scanned files for weak spots, logged into company network, went through the app until it found a flaw, then used that to change personal data and pull invoice records. Their deputy director said AI attacks “have ceased to be a theoretical risk.” Every thread I read was a debate about which model did it. A GDPR notification means somebody sat down and rebuilt what the agent touched, in what order, which records changed. Probably with a lawyer on the call. Made me look at what our own agents can reach. The support one has write access to the CRM, billing and the refunds table, because scoping it properly felt like a job for later. Model calls go through orqai so those are logged, but the permissions themselves are wider than anything that attacker agent had to break in to get. How are people scoping agent permissions?
-
-34m ago
-
----
-
-**[I built an entire clothing brand from scratch using only AI visuals, photos, videos, everything. Brand failed due to lack of capital](https://www.reddit.com/r/artificial/comments/1wp1k5i/i_built_an_entire_clothing_brand_from_scratch/)**
-
-I spent the last year building a brand calledVIVID, based in Tunisia. No photographer. No studio. No models on payroll. Just me, AI tools, and a lot of hours learning how to make things look real. Every product photo, every campaign video, every lifestyle shot all AI generated. Photorealistic. If I don't tell you it's AI, you won't know. My Instagram is (vivid.tn) if you want to see the work. The brand didn't survive textiles need capital upfront and I ran out of runway. But the skills I built are real and I'm ready to put them to work for someone else. What I can do: AI product photography (clothing, accessories, lifestyle) AI video content for social media Brand identity and visual direction Content for Instagram/TikTok Fast turnaround, remote, any niche not just fashion I'm not looking to fake anything. I'm just someone who figured out how to produce agency-level visuals without an agency budget, and I need to monetize that now. DMs open. Portfolio: (vivid.tn) on Instagram.
-
-40m ago
+3h ago
 
 ---
 
@@ -121,31 +121,9 @@ I spent the last year building a brand calledVIVID, based in Tunisia. No photogr
 
 ## Google News: "ai"
 
-**[Google Takes the A.I. Data Center Race to Outer Space](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html)**
+**[Google Is Sending an A.I. Data Center to Outer Space](https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html)**
 
-The New York Times • 1h ago
-
----
-
-**[Live Updates: Trump to host China's Xi Jinping at White House as they navigate AI, trade tensions and Taiwan](https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/)**
-
-President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI.
-
-CBS News • 48m ago
-
----
-
-**[Trump Says No Moves Toward US, China AI Guardrails in Xi Summit](https://www.bloomberg.com/news/articles/2026-09-24/trump-says-no-moves-toward-us-china-ai-guardrails-in-xi-summit)**
-
-Bloomberg • 2h ago
-
----
-
-**[Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting](https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates)**
-
-Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan
-
-The Guardian • 34m ago
+The New York Times • 4h ago
 
 ---
 
@@ -153,7 +131,7 @@ The Guardian • 34m ago
 
 Experts believe it's the world's first known AI breach of a government system.
 
-BBC • 7h ago
+BBC • 12h ago
 
 ---
 
@@ -161,39 +139,59 @@ BBC • 7h ago
 
 An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday.
 
-CNN • 14h ago
+CNN • 19h ago
 
 ---
 
-**[OpenAI Chief weighs in on the first known AI hack of a federal system in Australia](https://www.cnn.com/2026/09/24/us/video/openai-chief-weighs-in-on-the-first-known-ai-hack-of-a-federal-system-in-australia)**
+**[Rogue AI hacks government system for first time - The Latest](https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest)**
 
-CNN News Central’s Kate Bolduan speaks with Open AI’s Chief Global Affairs Officer Chris Lehane following the revelation that an OpenAI agent was able to hack into Australia’s National Healthcare System.
+A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme. Lucy Hough speaks to the Guardian’s UK technology editor Robert Booth
 
-CNN • 20m ago
-
----
-
-**[YouTube Bets That a Slew of AI-Powered Features Can Maintain Its Video Domination](https://www.hollywoodreporter.com/business/digital/youtube-ai-tools-coming-soon-creators-viewers-1236708783/)**
-
-From custom homepage feeds to automated editing, the Google-owned video platform is seeking to make the content flywheel spin faster, and drive more engagement in the process.
-
-The Hollywood Reporter • 12m ago
+The Guardian • 1h ago
 
 ---
 
-**[Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push](https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html)**
+**[Musk’s New Bold Prediction: SpaceX’s AI May Top Anthropic’s In 6 Months](https://www.forbes.com/sites/antoniopequenoiv/2026/09/24/elon-musk-says-spacexs-ai-models-may-surpass-anthropic-and-openais-in-6-months/)**
 
-At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.
-
-CNBC • 13h ago
+Forbes • 4m ago
 
 ---
 
-**[Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)**
+**[The Traditional Marketing Agency Is Getting An AI-Era Makeover](https://www.usatoday.com/story/special/contributor-content/2026/09/24/the-traditional-marketing-agency-is-getting-an-ai-era-makeover/91923040007/)**
 
-Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.
+Max Finn and Jeremy Adams, co-founders of Unicorn Marketers, believe this model addresses a longstanding frustration among founders: companies often hire agencies expecting senior strategic expertise, only to find much of the day-to-day work handled by junior employees managing numerous accounts.
 
-blog.google • 22h ago
+USA Today • 26m ago
+
+---
+
+**[Jensen Huang talks about AI and climate change like a supervillain](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain)**
+
+It’s giving Thanos energy.
+
+The Verge • 29m ago
+
+---
+
+**[Palo Alto CEO says slowing down AI is ‘unrealistic’, extinction threat ‘extremely small’](https://www.cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html)**
+
+Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI.
+
+cnbc.com • 6h ago
+
+---
+
+**[Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far](https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Trump touts ‘great meeting’ with China’s Xi Jinping at White House – live](https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates)**
+
+Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan
+
+The Guardian • 5h ago
 
 ---
 
@@ -203,13 +201,13 @@ blog.google • 22h ago
 
 **[Pentagon says overreliance on AI contributed to missile strike on Iran school](https://news.ycombinator.com/item?id=49806430)**
 
-⬆️ 925 • 💬 523 • 1d ago • [bloomberg.com](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
+⬆️ 940 • 💬 531 • 1d ago • [bloomberg.com](https://www.bloomberg.com/graphics/2026-iran-school-attack/)
 
 ---
 
 **[Meta takes down a critical video about meta AI Glasses after filming at Meta](https://news.ycombinator.com/item?id=49827794)**
 
-⬆️ 402 • 💬 224 • 5h ago • [reddit.com](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+⬆️ 570 • 💬 343 • 10h ago • [reddit.com](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 
 ---
 
@@ -217,7 +215,7 @@ blog.google • 22h ago
 
 Certainly the industry is transforming, however, the people and organizations falling into the trap of no longer reading and writing code only do so at their peril.
 
-⬆️ 383 • 💬 543 • 2d ago • [Alexandru Nedelcu](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+⬆️ 384 • 💬 546 • 2d ago • [Alexandru Nedelcu](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
 
 ---
 
@@ -225,7 +223,7 @@ Certainly the industry is transforming, however, the people and organizations fa
 
 Trump admin sees China behind opposition to AI data centers
 
-⬆️ 322 • 💬 337 • 13h ago • [kenklippenstein.com](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+⬆️ 358 • 💬 385 • 17h ago • [kenklippenstein.com](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
 
 ---
 
@@ -233,7 +231,7 @@ Trump admin sees China behind opposition to AI data centers
 
 We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.
 
-⬆️ 313 • 💬 406 • 2d ago • [linear.app](https://linear.app/now/ci-bottleneck-reworked)
+⬆️ 313 • 💬 407 • 2d ago • [linear.app](https://linear.app/now/ci-bottleneck-reworked)
 
 ---
 
@@ -243,9 +241,19 @@ We cut PR wait time and running costs by rethinking CI as a system, from the inf
 
 ---
 
-**[macOS 27: Workaround to avoid downloading AI models and save storage](https://news.ycombinator.com/item?id=49787535)**
+**[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://news.ycombinator.com/item?id=49826565)**
 
-⬆️ 238 • 💬 121 • 2d ago • [reddit.com](https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/)
+We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.
+
+⬆️ 205 • 💬 191 • 13h ago • [transluce.org](https://transluce.org/agent-activity)
+
+---
+
+**[Stripe's Knowledge AI Platform](https://news.ycombinator.com/item?id=49815982)**
+
+Stripe's Knowledge AI Platform is our versatile AI agent platform built to handle diverse non-coding knowledge work, from quick queries to complex, multi-day projects. By connecting employees to over 1,000 internal tools and skills, it enables secure, enterprise-scale productivity across the organization.
+
+⬆️ 183 • 💬 113 • 1d ago • [stripe.dev](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
 
 ---
 
@@ -257,19 +265,11 @@ In one of my classes I asked the question I was afraid to ask but I just needed 
 
 ---
 
-**[Stripe's Knowledge AI Platform](https://news.ycombinator.com/item?id=49815982)**
+**[Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'](https://news.ycombinator.com/item?id=49795718)**
 
-Stripe's Knowledge AI Platform is our versatile AI agent platform built to handle diverse non-coding knowledge work, from quick queries to complex, multi-day projects. By connecting employees to over 1,000 internal tools and skills, it enables secure, enterprise-scale productivity across the organization.
+Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams.
 
-⬆️ 182 • 💬 113 • 1d ago • [stripe.dev](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
-
----
-
-**[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://news.ycombinator.com/item?id=49826565)**
-
-We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.
-
-⬆️ 178 • 💬 158 • 8h ago • [transluce.org](https://transluce.org/agent-activity)
+⬆️ 96 • 💬 63 • 2d ago • [Variety](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/)
 
 ---
 
@@ -283,27 +283,37 @@ OpenAI CEO Sam Altman spoke at the UN Security Council meeting about AI and inte
 
 📺 Forbes Breaking News
 
-👁️ 44K • 👍 285 • 💬 217 • ⏱️ 9:26 • 16h ago
+👁️ 56K • 👍 332 • 💬 264 • ⏱️ 9:26 • 20h ago
 
 ---
 
-**[The Collapse of AI Software Engineering](https://www.youtube.com/watch?v=F91uY7QiZUs)**
+**[Amodei: AI &quot;most important global security issue facing the world today&quot;](https://www.youtube.com/watch?v=BLTQmRY1q9s)**
 
-AI was supposed to replace software developers, slash costs, and make Big Tech more productive than ever. So why are ...
+Anthropic CEO Dario Amodei warned the United Nations Security Council on Wednesday about the risks of unchecked rapid AI ...
 
-📺 The Infographics Show
+📺 C-SPAN
 
-👁️ 525K • 👍 6K • 💬 1K • ⏱️ 19:12 • 17h ago
+👁️ 12K • 👍 108 • 💬 22 • ⏱️ 2:56 • 20h ago
 
 ---
 
-**[AI progress is speeding up dramatically - here’s why you should care](https://www.youtube.com/watch?v=DKA5AkrQfxo)**
+**[OpenAI made first known AI hack of a govt system](https://www.youtube.com/watch?v=j8XxwJLNK7w)**
 
-AI is developing faster than we could have imagined. What does this mean for future development and how worried should we be ...
+Australian Prime Minister Anthony Albanese has called the first known case of a government system being hacked by AI ...
 
-📺 Sky News
+📺 CNN
 
-👁️ 445K • 👍 3K • 💬 560 • ⏱️ 5:56 • 1d ago
+👁️ 102K • 👍 1K • 💬 681 • ⏱️ 13:34 • 4h ago
+
+---
+
+**[How to get the new Siri AI on IOS 27..](https://www.youtube.com/watch?v=lLfrkGmru_g)**
+
+How to get the new Siri AI on IOS 27.. #carterpcs #tech #gaming.
+
+📺 CarterPCs
+
+👁️ 648K • 👍 35K • 💬 754 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -313,37 +323,27 @@ Anthropic CEO Dario Amodei on international cooperation in regulating AI: "I bel
 
 📺 C-SPAN
 
-👁️ 80K • 👍 762 • 💬 218 • ⏱️ 5:09 • 17h ago
+👁️ 111K • 👍 882 • 💬 249 • ⏱️ 5:09 • 22h ago
 
 ---
 
-**[Anthropic Starts AI &#39;WET LAB&#39; In New NIGHTMARE SCENARIO](https://www.youtube.com/watch?v=7XWV0gA9he0)**
+**[AI Actress Tilly Norwood interview with Piers Morgan | Tomorrow Morning Show with Gianmarco Soresi](https://www.youtube.com/watch?v=N49jRejDSdU)**
 
-Krystal and Saagar discuss Anthropic's AI wet lab. Kevin Roose: https://www.youtube.com/@machinegodspod Sign Up For 30 ...
+The Tomorrow Morning Show writers: Gianmarco Soresi Ariel Elias Django Gold Nate Fernald Nick DiLorenzo Victoria Murphy ...
 
-📺 Breaking Points
+📺 Tomorrow Morning Show with Gianmarco Soresi
 
-👁️ 274K • 👍 4K • 💬 958 • ⏱️ 20:54 • 1d ago
-
----
-
-**[AI bot contacts professor on its own seeking paid work](https://www.youtube.com/watch?v=RTuybvHww7Y)**
-
-AI ethics professor Henry Shevlin shared an email sent to him by an AI agent that was just 12-days-old. The email begins: "Hi ...
-
-📺 CNN
-
-👁️ 699K • 👍 5K • 💬 2K • ⏱️ 8:06 • 1d ago
+👁️ 2K • 👍 55 • 💬 1 • ⏱️ 0:21 • 2h ago
 
 ---
 
-**[AI is starting to look more disturbing than sci-fi | Fareed&#39;s Take](https://www.youtube.com/watch?v=worlFWRU3X4)**
+**[OpenAI &amp; Anthropic CEOs Sound Alarm Over AI’s Future](https://www.youtube.com/watch?v=owEL-IWvCWg)**
 
-CNN's Fareed Zakaria gives his take on the danger of designing AI with human characteristics like values and ethics, warning that ...
+OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei are raising serious concerns about the risks posed by rapidly ...
 
-📺 CNN
+📺 Hook Global
 
-👁️ 488K • 👍 3K • 💬 698 • ⏱️ 10:58 • 2d ago
+👁️ 9K • 👍 147 • 💬 44 • ⏱️ 0:55 • 6h ago
 
 ---
 
@@ -353,27 +353,27 @@ OpenAI CEO Sam Altman on potential dangers of AI: "First, we could lose control 
 
 📺 C-SPAN
 
-👁️ 47K • 👍 547 • 💬 249 • ⏱️ 9:14 • 17h ago
+👁️ 72K • 👍 640 • 💬 298 • ⏱️ 9:14 • 22h ago
 
 ---
 
-**[AI Safety Expert WARNS: You Have No Idea What It&#39;s Going To Do](https://www.youtube.com/watch?v=uaVVvetaUOo)**
+**[The Collapse of AI Software Engineering](https://www.youtube.com/watch?v=F91uY7QiZUs)**
 
-Make yourself and your family AI-scam proof, step by step → https://neuralnutshell.com Roman Yampolskiy warns that if we create ...
+AI was supposed to replace software developers, slash costs, and make Big Tech more productive than ever. So why are ...
 
-📺 Neural Nutshell
+📺 The Infographics Show
 
-👁️ 77K • 👍 569 • 💬 238 • ⏱️ 16:49 • 1d ago
+👁️ 605K • 👍 7K • 💬 1K • ⏱️ 19:12 • 22h ago
 
 ---
 
-**[A Chinese Hacker Used AI To Attack 100+ Companies In One Of Largest AI Hacks Yet](https://www.youtube.com/watch?v=K4LaXT7jN90)**
+**[AI is starting to look more disturbing than sci-fi | Fareed&#39;s Take](https://www.youtube.com/watch?v=worlFWRU3X4)**
 
-Anthropic, DeepSeek and Moonshot AI agents carried out a wide-ranging cyberattack, obtaining 600000+ credit card numbers in ...
+CNN's Fareed Zakaria gives his take on the danger of designing AI with human characteristics like values and ethics, warning that ...
 
-📺 Forbes
+📺 CNN
 
-👁️ 40K • 👍 618 • 💬 68 • ⏱️ 5:51 • 19h ago
+👁️ 498K • 👍 3K • 💬 714 • ⏱️ 10:58 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 3,292 • 8h ago
+⬇️ 0 • ❤️ 3,348 • 12h ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 37,618 • ❤️ 2,139 • 3d ago
+⬇️ 37,618 • ❤️ 2,166 • 3d ago
 
 ---
 
@@ -413,7 +413,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 2,991,233 • ❤️ 1,992 • 8h ago
+⬇️ 2,991,233 • ❤️ 2,008 • 13h ago
 
 ---
 
@@ -425,7 +425,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 41,923 • ❤️ 1,641 • 6d ago
+⬇️ 41,923 • ❤️ 1,644 • 6d ago
 
 ---
 
@@ -437,7 +437,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 575,697 • ❤️ 1,568 • 22h ago
+⬇️ 575,697 • ❤️ 1,597 • 1d ago
 
 ---
 
@@ -447,7 +447,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 Qwen-Image 2.1 is a diffusion model repackaged for ComfyUI, enabling text-to-image generation and image editing. It leverages Qwen3VL text encoders and a VAE for high-quality visual synthesis.
 
-⬇️ 2,858,923 • ❤️ 655 • 1d ago
+⬇️ 2,858,923 • ❤️ 662 • 1d ago
 
 ---
 
@@ -459,7 +459,7 @@ Hemmingway-1 is a 27B parameter text-generation model fine-tuned on Qwen3.8-27B,
 
 `text-generation` `26.9B`
 
-⬇️ 4,541 • ❤️ 609 • 1d ago
+⬇️ 4,541 • ❤️ 622 • 2d ago
 
 ---
 
@@ -471,7 +471,7 @@ DeepSeek-V4.1-Flash is a 552B multimodal MoE model supporting 1M token contexts,
 
 `image-text-to-text` `763.2B`
 
-⬇️ 606,028 • ❤️ 3,695 • 14d ago
+⬇️ 606,028 • ❤️ 3,706 • 14d ago
 
 ---
 
@@ -483,7 +483,7 @@ Qwen3.8-27B is a 27B parameter vision-language model supporting image and video 
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,765,008 • ❤️ 16,183 • 1mo ago
+⬇️ 6,765,008 • ❤️ 16,203 • 1mo ago
 
 ---
 
@@ -495,7 +495,7 @@ ZDTaichu5.0-9B is a multimodal foundation model excelling in general visual unde
 
 `image-text-to-text` `9.8B`
 
-⬇️ 8,313 • ❤️ 1,029 • 4d ago
+⬇️ 8,313 • ❤️ 1,036 • 4d ago
 
 ---
 
@@ -511,7 +511,7 @@ ZDTaichu5.0-9B is a multimodal foundation model excelling in general visual unde
 
 Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.
 
-▲ 140 • 💬 4 • ⭐ 334 • 3d ago
+▲ 145 • 💬 4 • ⭐ 334 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.24984) • [💻 code](https://github.com/TencentARC/WorldCrafter) • [🔗 project](https://drexubery.github.io/WorldCrafter)
 
@@ -523,7 +523,7 @@ Video world models enable interactive exploration of dynamic environments, yet s
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 144 • 💬 6 • ⭐ 108,358 • 21mo ago
+▲ 144 • 💬 6 • ⭐ 108,433 • 21mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -551,7 +551,7 @@ We present a compact geometry-native latent space as a shared foundation for per
 
 Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset with temporally aligned videos, player actions, and multi-horizon instructions. It comprises 5,000 hours of recordings from 21 games, collected by 100 human expert players. Third, we build GameHorizon-Bench with reproducible offline and stepwise online testing. The offline track enables reproducible evaluation using thousands of standardized questions organized into three primary tasks and a series of diagnostic variants, while the online track tests whether offline scores reflect actual gameplay capabilities and localizes failures to specific steps within long-horizon gameplay. Based on our GameHorizon Suite, we evaluate 47 models through more than one million model invocations, revealing a meaningful hierarchy of task difficulty and pronounced differences in model capabilities. Our work can provide a standardized yardstick for evaluating gameplay capabilities across horizons and model families. We will release our dataset, annotator, and benchmark to facilitate future research.
 
-▲ 126 • 💬 3 • ⭐ 224 • 3d ago
+▲ 129 • 💬 3 • ⭐ 224 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.25001) • [💻 code](https://github.com/TencentARC/GameHorizon) • [🔗 project](https://gamehorizon-suite.github.io/)
 
@@ -606,7 +606,7 @@ Apodex 1.1 improves sustained, verifiable progress on complex real-world tasks b
 
 An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.
 
-▲ 186 • 💬 2 • ⭐ 288 • 3d ago
+▲ 195 • 💬 2 • ⭐ 288 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.24972) • [💻 code](https://github.com/google-research/rrsi) • [🔗 project](https://regularized-rsi.com/)
 
@@ -649,7 +649,7 @@ Z.ai's coding agent harness. Powerful, intelligent, extensible.
 
 `TypeScript`
 
-⭐ 6.7k • 🔱 2.0k • 7h ago
+⭐ 6.7k • 🔱 2.0k • 11h ago
 
 ---
 
@@ -669,7 +669,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 3.8k • 🔱 167 • 1d ago
+⭐ 3.9k • 🔱 171 • 1d ago
 
 ---
 
@@ -679,7 +679,7 @@ De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL
 
 `Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 185 • 18h ago
+⭐ 2.8k • 🔱 185 • 22h ago
 
 ---
 
@@ -699,7 +699,7 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 
 `Python`
 
-⭐ 2.4k • 🔱 241 • 2h ago
+⭐ 2.4k • 🔱 241 • 7h ago
 
 ---
 
@@ -709,7 +709,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 427 • 7d ago
+⭐ 2.3k • 🔱 432 • 7d ago
 
 ---
 
@@ -719,7 +719,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 1.6k • 🔱 226 • 6h ago
+⭐ 1.6k • 🔱 233 • 2h ago
 
 ---
 
@@ -739,7 +739,7 @@ Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword researc
 
 `Shell` `ai-seo` `ai-visibility` `backlinks` `claude` `claude-code`
 
-⭐ 1.4k • 🔱 349 • 12h ago
+⭐ 1.5k • 🔱 350 • 16h ago
 
 ---
 

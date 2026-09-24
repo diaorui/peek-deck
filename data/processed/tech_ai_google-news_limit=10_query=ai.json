@@ -5,44 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Google Takes the A.I. Data Center Race to Outer Space",
+      "headline": "Google Is Sending an A.I. Data Center to Outer Space",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5",
-      "pub_date": 1790254818.0,
+      "pub_date": 1790257722.0,
       "article_url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Live Updates: Trump to host China's Xi Jinping at White House as they navigate AI, trade tensions and Taiwan",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
-      "pub_date": 1790255760.0,
-      "article_url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/24/7d80a971-1c92-4b99-bfe9-aecc2b494af4/thumbnail/1200x630g2/968c6b62de45472ac6d3c726ddc2bcda/ap26266806496322.jpg",
-      "description": "President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI."
-    },
-    {
-      "headline": "Trump Says No Moves Toward US, China AI Guardrails in Xi Summit",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnFZblJvUXlzcDY2YVlDSXNBb1hsNGJaRjdhUnBkMGlzLXRWeG1FZ3RZNEZXb3VXTkltd0J3Z3VpRmkzNDN3Y0tQdFRkUmFRd3cxTDdPcmVHU1pJYXg1NlVPTTl5YVJtWDY4N2x6WU4ycU55aG9zbXVLYzByY2p4SkQ3dG1QS3lKaFVncG5pZE51UGdtZUNwMFJ4ZUNUeHYyWWVhLWlRNXZpc2I3LTVPMmUzdw?oc=5",
-      "pub_date": 1790250353.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-says-no-moves-toward-us-china-ai-guardrails-in-xi-summit",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
-      "pub_date": 1790256600.0,
-      "article_url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/456b9966cd22a2552c51a90a0cbaa1377521f388/403_332_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6127736f98c7ef0e46720460f585c928",
-      "description": "Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan"
     },
     {
       "headline": "Australia launches urgent review after OpenAI program hacks government health portal",
@@ -65,46 +35,76 @@
       "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
     },
     {
-      "headline": "OpenAI Chief weighs in on the first known AI hack of a federal system in Australia",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUNjcjFZVHZxVmNuZE5kSUtoMHh1MmhRQVF3V2xERjQtT2VxU0lDUEl6SVoxbERRQVR6ZVhWa0lteVU2anBsTU9IeFNBcmRWcEZvODQ2bGZvbUpPYk5sNXZGM21pWlg0a0ZqSGw3R3RkZWt3VUE0OUJieWNPT3ZCQ0FYWlZIUk5DaFY2b1VGU3VCOG9kQmM2YWhuWktsYk5pbDUyRC1YRlBPN1h3c2dqODdCVHNZMFFIOUtrbFhmRQ?oc=5",
-      "pub_date": 1790257445.0,
-      "article_url": "https://www.cnn.com/2026/09/24/us/video/openai-chief-weighs-in-on-the-first-known-ai-hack-of-a-federal-system-in-australia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lehane-open-ai.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Kate Bolduan speaks with Open AI\u2019s Chief Global Affairs Officer Chris Lehane following the revelation that an OpenAI agent was able to hack into Australia\u2019s National Healthcare System."
+      "headline": "Rogue AI hacks government system for first time - The Latest",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3UzZTRVUnpJVEVJeHJRLWMzcmJrcXE4TUNaRWp5NThOVThaNmR0TEtQdjBCeG50SnRQMkp4Ql91VlNnYlpXRjdLUXFsdEllNjc3cHBTNlRYbTVObVpCLXFUQjN2WmxMZDZrQW1tS0pqa0drbGNkVEtPcmo2YjVOMmlxNnNsM3pZYmVkUEtqUDkzdGpDbHpMZTB5VXZDRXdac3J2V0NWeHN2UnZGNHc?oc=5",
+      "pub_date": 1790270040.0,
+      "article_url": "https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
+      "image": "https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47f0996aeadc06461c843882c38fd868",
+      "description": "A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme. Lucy Hough speaks to the Guardian\u2019s UK technology editor Robert Booth"
     },
     {
-      "headline": "YouTube Bets That a Slew of AI-Powered Features Can Maintain Its Video Domination",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dwNTFhR1FGLS1vUkJmUTduOXd6UGEyamh0Y3VoNGN5WlBZb29NZGRMclpoeU1SRHpuOWxtaVVudmhPYXg2YlBMNmxfSE1xQW01NzFPYW5kV3phVDFTVUtvanlmLXBGWHluTU9nOWxZUEJzYmFsVVU0OWpkRUxOWmFTV3c0ZHJJTDFzMS1HSjBLOV8tSU16RHZhSk9ZUWRIdW1vS1pCb0ZxaE5Q?oc=5",
-      "pub_date": 1790257924.0,
-      "article_url": "https://www.hollywoodreporter.com/business/digital/youtube-ai-tools-coming-soon-creators-viewers-1236708783/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-UX-Flow-1-1.jpg?crop=0px%2C3px%2C1500px%2C839px&resize=1440%2C810",
-      "description": "From custom homepage feeds to automated editing, the Google-owned video platform is seeking to make the content flywheel spin faster, and drive more engagement in the process."
+      "headline": "Musk\u2019s New Bold Prediction: SpaceX\u2019s AI May Top Anthropic\u2019s In 6 Months",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1NTSWxjbnFsclcxZ3V0ekV1V0tkMWs0bWx2Z2FfbVdMYXZacEtwNDRMWjMwV1RnWmpkbDVsT2ExeGUxTjlTeUpNSGNtTFhLcGJGVHlhTW5lLVVta0EzQTdlOHJqTFJFODRXREdBZjZXZUpydmNEUkQxb1NJQUZGNVE0dHNUSXF2V1BWLUpNSlNzaUZmcGhFeUJJRGxMcmEyNHdOTGR6Y3VXS3VuMDBSdnJxRkVKQTczSmp3YjBzX2wtOXd2d0JFZV80TnZlRjZLdHc?oc=5",
+      "pub_date": 1790274617.0,
+      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/24/elon-musk-says-spacexs-ai-models-may-surpass-anthropic-and-openais-in-6-months/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-      "source": "CNBC",
+      "headline": "The Traditional Marketing Agency Is Getting An AI-Era Makeover",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLU5zdUlsTmpxUWlmNnFUS3ZLQmtZWksyYnpEYWRGdndwbE5fbTFCU0pQQUZ1eEc4UDFMVy1YX2JSTF9jVy11eEhIS2czOFNKYVEtcTYyYnBvVnNsVk5nblhYQ1dPTE40SXlwbUo1TFI2OXFUMXk2c21YTTFNV0M1NDNfd2NEYS1aTW0wbnpscXV2QnB2SDc0UlRTeVQ0RlhyNV9zVWV5YWdabjN6OUtnemxFSWEtVTdXT2RLZWJiMGJNX1l3aUZGTDhoZjEwQ2pKbzFpNTdJZ2x0MDB5YXc?oc=5",
+      "pub_date": 1790273280.0,
+      "article_url": "https://www.usatoday.com/story/special/contributor-content/2026/09/24/the-traditional-marketing-agency-is-getting-an-ai-era-makeover/91923040007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/24/USAT/91923060007-image-1-5.png?crop=449,252,x0,y0&width=449&height=252&format=pjpg&auto=webp",
+      "description": "Max Finn and Jeremy Adams, co-founders of Unicorn Marketers, believe this model addresses a longstanding frustration among founders: companies often hire agencies expecting senior strategic expertise, only to find much of the day-to-day work handled by junior employees managing numerous accounts."
+    },
+    {
+      "headline": "Jensen Huang talks about AI and climate change like a supervillain",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlNmM2R3THNqdE1USVJBY21wNDRBdTJCdngxazd2bXhXSVdjWmFWYTAzWllMcWNPVll1UzFSdU5reUJqYXUxRWJkTU05OXI4T3BDcFZybzlvLUp5R3czZXBMRlpKdlZJeVF6RUs5aFhSSmlLZ1JCUXVXLTZ5NndIUmc2OFRpUlo4MmZqSWtHQVFQanh6a3EwOUJiVQ?oc=5",
+      "pub_date": 1790273084.0,
+      "article_url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "It\u2019s giving Thanos energy."
+    },
+    {
+      "headline": "Palo Alto CEO says slowing down AI is \u2018unrealistic\u2019, extinction threat \u2018extremely small\u2019",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
-      "pub_date": 1790210700.0,
-      "article_url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
-      "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents."
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXBYNHRYWklyel9EM3lReklqMVMwRk9TdGc3bHNQSkhleGdJOWYxUVZvOFhiMXVaZ0xIWjFIMkFPekZFQ1RUcXA2VVVRc185OEEzcFlGcGgtQ09FNElvdUQ1Mmc5ZjJHOEJiTEpYNG1pd1JjZS0xN0xSUVVBWHBmTktSZ3JHVlnSAYwBQVVfeXFMUFB6Tkx6c0RzWEUzQ0R5SHBRTzlpVHFXNTY2ZnUwd3V3RFB0OVVsbUVDQlJJV1JTaVAzcnE4Sm9uNkZoeFBCd3J0NmtOeUV5OVNzTkJRODV5NkczLWZYUGtzNEZoeV9wc28zQzV1LTBrVExYSUNTZE0wODRLenVVTmw0ZS1QR3JTTkZQa2k?oc=5",
+      "pub_date": 1790250322.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225090-17629848922025-06-11t142103z_1012282535_rc2e0fa4cwv2_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080",
+      "description": "Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI."
     },
     {
-      "headline": "Gemini 3.8 text-to-speech says hello",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
-      "pub_date": 1790177260.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
-      "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet."
+      "headline": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
+      "pub_date": 1790154122.0,
+      "article_url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump touts \u2018great meeting\u2019 with China\u2019s Xi Jinping at White House \u2013 live",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
+      "pub_date": 1790256600.0,
+      "article_url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/456b9966cd22a2552c51a90a0cbaa1377521f388/403_332_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6127736f98c7ef0e46720460f585c928",
+      "description": "Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T14:04:18.109589+00:00"
+  "fetched_at": "2026-09-24T18:34:10.660982+00:00"
 }

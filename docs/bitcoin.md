@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-24T14:04:24.765279+00:00'
+updated: '2026-09-24T18:34:30.342554+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 24, 2026 at 14:04 UTC  
+**Last Updated:** September 24, 2026 at 18:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,981.45
+### $83,938.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +4.1%  
-**30d:** +6.5%  
-**90d:** +40.2%  
-**1y:** -22.7%  
+**24h:** -0.1%  
+**7d:** +4.3%  
+**30d:** +6.8%  
+**90d:** +40.6%  
+**1y:** -22.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1690.97B
+**Market Cap:** $1695.66B
 Rank #1
 
-**Circulating Supply:** 20,088,671 BTC
+**Circulating Supply:** 20,088,743 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-33.1%
 
 **All-Time Low:** $67.81
-+124094.1%
++124368.4%
 
 ---
 
@@ -153,7 +153,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks and crypto lower before Asian and European traders bought the dip.
 
-CoinDesk • 3h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -161,29 +161,52 @@ CoinDesk • 3h ago
 
 Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-CNBC • 3d ago
+cnbc.com • 3d ago
+
+---
+
+**[Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin](https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html)**
+
+Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
+
+cnbc.com • 28m ago
+
+---
+
+**[Bitcoin’s next supercycle: why a supply shock could send prices soaring](https://www.coindesk.com/video/bitcoins-next-supercycle-why-a-supply-shock-could-send-prices-soaring)**
+
+Transform Ventures CEO and author of "Bitcoin Supercycle” Michael Terpin joins CoinDesk's Jennifer Sanasie on Markets Outlook to explain why he believes the bear market is over and "Bitcoin winter," the long climb back to the top, has officially begun. Terpin lays out his path to $120K by late next year, why 2028-29 could bring a rare collision of presidential and stock market cycles, when he sees million-dollar bitcoin, and why he believes an altcoin supercycle is coming too.
+
+Plus, GSR’s Managing Director of Asset Management Andy Baehr on why fixed income, not equities, will be the real catalyst that takes tokenization mainstream.
+-
+This episode is brought to you by Grayscale, the world's largest digital asset-focused investment platform. Grayscale's mission is to make digital asset investing simple and open to every investor. Learn more at grayscale.com.
+-
+This episode is brought to you by RealFi, a smarter stablecoin, backed by real-world assets. Join the Testnet now at realfi.co.
+ | CoinDesk Videos
+
+CoinDesk • 15m ago
 
 ---
 
 **[Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto)**
 
-Bloomberg • 2h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[Kevin O’Leary eyes a $1 million Bitcoin — why the Shark Tank star says he’s placing his bets on a crypto comeback](https://finance.yahoo.com/markets/crypto/articles/kevin-o-leary-eyes-1-130000378.html)**
+**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
 
-A $1 million Bitcoin isn’t so far-fetched for one Shark Tank celeb. See why Kevin O’Leary is so sure that Bitcoin’s best days have yet to come.
+Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
 
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 4h ago
 
 ---
 
-**[Bitcoin’s $16 Billion Options Expiry: Why BTC Could Face a Wild Week Ahead](https://bitcoinfoundation.org/news/bitcoin/bitcoins-16-billion-options-expiry-why-btc-could-face-a-wild-week-ahead/)**
+**[Here’s why the debasement trade is boosting bitcoin price more than gold price – StoneX’s Cincotta](https://www.kitco.com/news/article/2026-09-24/heres-why-debasement-trade-boosting-bitcoin-price-more-gold-price-stonexs)**
 
-Find out why the upcoming $16 billion Bitcoin options expiry on Deribit is so vital for the crypto market
+(Kitco News) – Bitcoin's recent breakout coincided with the U.S. Treasury’s bond buyback announcement, and while gold ETF demand remains strong, higher-for-longer Fed rate expectations are capping the non-yielding metal’s gains, according to Fiona Cincotta, Senior Market Analyst at StoneX.“August the 19th was an important turning point for bitcoin, coinciding with the US Treasury Department announcing plans to increase buybacks for long dated government bonds,” Cincotta said in a recent video analysis. “Bitcoin's fortunes appeared to change dramatically around the same time. On that date the price broke above $65,000, subsequently rising to this week's high of $87,000. That's a 35% increase.”Cincotta also pointed out that over the same period, U.S. bitcoin ETFs also saw around $4.6 billion in net inflows, pushing bitcoin ETFs into positive territory for the year. “Bitcoin is up 44% so far this quarter,” she said. “This contrasts with other major assets quite sharply. Stocks have gained around 3.5% across the same period, whilst gold is up only 8%.”She cautioned, however, that this is not a case of investors abandoning gold. “If we look at gold ETF demand, that has also remained exceptionally strong, with the August recording the second largest monthly global ETF inflows on record,” Cincotta said. “Gold, however, does face a more challenging backdrop from renewed expectations that the Federal Reserve could remain hawkish for longer. The higher for longer interest rate expectations and elevated Treasury yields increase the opportunity cost of holding a non-yielding asset such as gold, and that's really limiting the upside to the precious metal despite continued demand that we're seeing.”Cincotta said that in the current market environment, the debasement bid favors bitcoin over gold. “The timing of that Treasury announcement on August the 19th has been very stark, coinciding with the breakout of bitcoin,” she said. “Also, stronger ETF inflows and renewed appetite for hard assets have all coincided with the improvement in bitcoin's momentum.”She also noted that the Fed is considering further rate hikes, which also supports hard assets. “Now, normally you would expect gold to benefit as well, but this isn't bitcoin replacing gold,” she said. “It just seems that the same macro trade is actually producing a larger marginal move in bitcoin.”Cincotta said it’s important to recognize that bitcoin is actually playing catch-up from a much lower base than that of gold, and that the move also coincides with bitcoin's four-year cycle.“Just taking a look at the bitcoin:gold ratio reinforces the point,” she said. “The ratio has climbed to 19.89 at the time of recording, and this is the highest level this year. In simple terms, that means that one bitcoin now buys almost 20 ounces of gold. What this shows us is that bitcoin is increasing in value not just against the U.S. dollar but also relative to the precious metal.”Cincotta said she’s looking for a move above the 50-day Simple Moving Average to confirm and reinforce bitcoin’s outperformance relative to gold. “Buyers will be looking for a move above the $87,000 level, the peak that we saw this week, to bring $90,000 into focus,” she said. “A rise above 90,000 will quickly turn attention to that key $100,000 psychological level.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
 
-Bitcoin Foundation • 1h ago
+Kitco • 4h ago
 
 ---
 
@@ -201,23 +224,9 @@ Forbes • 1d ago
 
 ---
 
-**[Raiffeisen Bank International to Roll Out Bitcoin Services Across Europe in Expanded Bitpanda Deal](https://bitcoinmagazine.com/news/raiffeisen-to-roll-out-bitcoin-trading)**
-
-Austrian banking group Raiffeisen is rolling out bitcoin trading for its 18 million customers.
-
-Bitcoin Magazine • 22h ago
-
----
-
 **[Simple Mining seeks to host bitcoin center in Madison](https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/)**
 
-KELOLAND.com • 18h ago
-
----
-
-**[Crypto ETFs Are Surging, but Bitcoin & Ether Aren’t the Big Winners](https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners)**
-
-ETF.com • 1d ago
+KELOLAND.com • 23h ago
 
 ---
 
@@ -235,7 +244,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 1d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 2d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -245,19 +254,11 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 ---
 
-**[A single Bitcoin transaction carried an average water footprint of 16K litres](https://news.ycombinator.com/item?id=49741004)**
-
-As Bitcoin's price swings, so does its hidden cost in freshwater—each transaction now demands enough water to fill an Olympic swimming pool.
-
-⬆️ 2 • 💬 1 • 6d ago • [Space Daily](https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/)
-
----
-
 **[Show HN: I built a Bitcoin full node from scratch in Rust](https://news.ycombinator.com/item?id=49821264)**
 
 A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin
 
-⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
+⬆️ 2 • 💬 0 • 23h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
 
 ---
 
@@ -279,7 +280,7 @@ https://t.co/GktyWFbTdN
 
 Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example
 
-⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
+⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
 
 ---
 
@@ -293,7 +294,17 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 137K • 👍 5K • 💬 519 • ⏱️ 23:55 • 10h ago
+👁️ 186K • 👍 6K • 💬 604 • ⏱️ 23:55 • 14h ago
+
+---
+
+**[Bitcoin Is About to Get a Massive Liquidity Boost, Here&#39;s why](https://www.youtube.com/watch?v=1ky7ULB3u1E)**
+
+Bond yields just broke out after a failed Treasury auction exposed a deeper demand problem in the market. Ran breaks down why ...
+
+📺 Crypto Banter
+
+👁️ 22K • 👍 1K • 💬 17 • ⏱️ 22:31 • 4h ago
 
 ---
 
@@ -303,17 +314,17 @@ Bitcoin Just Turned EXTREMELY Bullish (Explained In Less Than 2 Minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 2K • 💬 78 • ⏱️ 8:51 • 14h ago
+👁️ 71K • 👍 3K • 💬 115 • ⏱️ 8:51 • 18h ago
 
 ---
 
-**[Bitcoin to $1 Million? The President Is Buying MicroStrategy!](https://www.youtube.com/watch?v=XIKnxAK7Ipo)**
+**[Bitcoin Bear Market Is Over, My $175,000 Target](https://www.youtube.com/watch?v=sDQb_E7oYic)**
 
-Trump's investment accounts bought MicroStrategy shares in late July before the stock surged, according to a newly disclosed ...
+Bitcoin's bear market is over and Gareth Soloway walks through the exact chart signal that confirmed it, plus how high he thinks ...
 
-📺 Simply Bitcoin
+📺 Gareth Soloway
 
-👁️ 21K • 👍 1K • 💬 172 • ⏱️ 13:19 • 14h ago
+👁️ 7K • 👍 974 • 💬 131 • ⏱️ 15:33 • 1h ago
 
 ---
 
@@ -323,37 +334,27 @@ Natalie Brunell responds to All-In Podcast co-host Jason Calacanis after he call
 
 📺 Natalie Brunell
 
-👁️ 529 • 👍 40 • 💬 21 • ⏱️ 1:35 • 52m ago
+👁️ 4K • 👍 130 • 💬 37 • ⏱️ 1:35 • 5h ago
 
 ---
 
-**[BITCOIN IS TRAPPING YOU...](https://www.youtube.com/watch?v=yvJgZkGg4Uk)**
+**[Bitcoin Just Pulled Back to $83K...Why?](https://www.youtube.com/watch?v=DLd2oSIqbdo)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
 
-📺 Crypto Rover
+📺 CryptosRUs
 
-👁️ 15K • 👍 808 • 💬 30 • ⏱️ 11:01 • 8h ago
-
----
-
-**[The Best Crypto Setup Since 2020 Is Here! Bitcoin Could Be Entering The Bull Market (DIP WARNING)](https://www.youtube.com/watch?v=H-qrJkfDx64)**
-
-The best crypto setup since 2020 is here, and Bitcoin could be entering the bull market right now. In this video I compare today's ...
-
-📺 Crypto Capital Venture
-
-👁️ 23K • 👍 675 • 💬 182 • ⏱️ 14:41 • 22h ago
+👁️ 14K • 👍 584 • 💬 78 • ⏱️ 45:07 • 3h ago
 
 ---
 
-**[$15 Trillion Bitcoin BOMBSHELL - BlackRock Says AI Will Need BTC](https://www.youtube.com/watch?v=zlEFRiaP3bo)**
+**[Bitcoin  $110,000 Next? Strive CEO&#39;s Insane BTC Prediction! Polygon, Tesla Optimus, and altcoins](https://www.youtube.com/watch?v=km52Me6IdAw)**
 
-BlackRock just dropped a massive new Bitcoin thesis: AI agents will need machine-native financial rails as autonomous ...
+Matt Cole's Bitcoin prediction, is $110000 next? Tesla, Polygon BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Bitcoin News Alerts
+📺 Lark Davis
 
-👁️ 8K • 👍 378 • 💬 119 • ⏱️ 16:27 • 19h ago
+👁️ 17K • 👍 447 • 💬 16 • ⏱️ 1:02:21 • 5h ago
 
 ---
 
@@ -363,27 +364,27 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 167 • 💬 19 • ⏱️ 2:59 • 14h ago
+👁️ 8K • 👍 199 • 💬 21 • ⏱️ 2:59 • 18h ago
 
 ---
 
-**[INSIDER REVEALS How Bitcoin Hits $500,000 By 2030 - Here&#39;s the math!!! | EP 1598](https://www.youtube.com/watch?v=TmiF7sWybzE)**
+**[Bitcoin Just EXPLODED 13%… Here’s Why 🚀](https://www.youtube.com/watch?v=JNGec6ihA8k)**
 
-Bitcoin bear market in rearview - now we can look towards the future and see what might happen in the next 3 years ...
+Bitcoin surged 13% in just five days despite a failed crypto bill and a Fed rate hike! Why did BTC rally when the headlines ...
 
-📺 Simply Bitcoin
+📺 Ross Givens
 
-👁️ 14K • 👍 355 • 💬 37 • ⏱️ 1:11:08 • 19h ago
+👁️ 23K • 👍 455 • 💬 21 • ⏱️ 2:08 • 2d ago
 
 ---
 
-**[BITCOIN: WILL BREAKOUT CONFIRM!!!? (urgent)](https://www.youtube.com/watch?v=1M39GswmTqo)**
+**[Bitcoin ETFs just had their biggest day of 2026](https://www.youtube.com/watch?v=v94fJg_tE7s)**
 
-JOIN BULLMANIA WAITLIST: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe BULLMANIA ARENA: ...
+SoFi just put its credit cards on a blockchain. Customers won't notice. SoFi Bank went live settling debit and credit card ...
 
-📺 Ivan on Tech
+📺 Yahoo Finance
 
-👁️ 16K • 👍 1K • 💬 39 • ⏱️ 37:21 • 3h ago
+👁️ 32K • 👍 478 • 💬 537 • ⏱️ 14:52 • 1d ago
 
 ---
 
