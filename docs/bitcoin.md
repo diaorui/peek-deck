@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-24T08:43:22.337493+00:00'
+updated: '2026-09-24T14:04:24.765279+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 24, 2026 at 08:43 UTC  
+**Last Updated:** September 24, 2026 at 14:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,992.47
+### $83,981.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** +3.6%  
-**30d:** +6.0%  
-**90d:** +39.6%  
-**1y:** -23.1%  
+**24h:** +0.2%  
+**7d:** +4.1%  
+**30d:** +6.5%  
+**90d:** +40.2%  
+**1y:** -22.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1683.77B
+**Market Cap:** $1690.97B
 Rank #1
 
-**Circulating Supply:** 20,088,634 BTC
+**Circulating Supply:** 20,088,671 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.5%
+-33.2%
 
 **All-Time Low:** $67.81
-+123489.4%
++124094.1%
 
 ---
 
@@ -135,7 +135,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 3d ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 4d ago
 
 ---
 
@@ -149,11 +149,11 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
-**[Bitcoin trades near $85,000 ahead of one of deribit’s largest options expiries of the year](https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book)**
+**[Bitcoin slides to $83,300 as bond yields hit highest level since 2007](https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high)**
 
-Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.
+The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks and crypto lower before Asian and European traders bought the dip.
 
-coindesk.com • 19h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -161,27 +161,43 @@ coindesk.com • 19h ago
 
 Bitcoin rose above $85,000 on Monday extending a rally over the past few days.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
-**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
+**[Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 2h ago
 
 ---
 
-**[Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html)**
+**[Kevin O’Leary eyes a $1 million Bitcoin — why the Shark Tank star says he’s placing his bets on a crypto comeback](https://finance.yahoo.com/markets/crypto/articles/kevin-o-leary-eyes-1-130000378.html)**
 
-Per Saylor, crypto is alive and well.
+A $1 million Bitcoin isn’t so far-fetched for one Shark Tank celeb. See why Kevin O’Leary is so sure that Bitcoin’s best days have yet to come.
 
-Yahoo Finance • 19h ago
+finance.yahoo.com • 1h ago
+
+---
+
+**[Bitcoin’s $16 Billion Options Expiry: Why BTC Could Face a Wild Week Ahead](https://bitcoinfoundation.org/news/bitcoin/bitcoins-16-billion-options-expiry-why-btc-could-face-a-wild-week-ahead/)**
+
+Find out why the upcoming $16 billion Bitcoin options expiry on Deribit is so vital for the crypto market
+
+Bitcoin Foundation • 1h ago
+
+---
+
+**[Current price of Bitcoin for September 23, 2026](https://fortune.com/article/price-of-bitcoin-09-23-2026/)**
+
+Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
+
+Fortune • 1d ago
 
 ---
 
 **[BlackRock Issues ‘Extraordinary’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/09/23/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 21h ago
+Forbes • 1d ago
 
 ---
 
@@ -189,7 +205,13 @@ Forbes • 21h ago
 
 Austrian banking group Raiffeisen is rolling out bitcoin trading for its 18 million customers.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 22h ago
+
+---
+
+**[Simple Mining seeks to host bitcoin center in Madison](https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/)**
+
+KELOLAND.com • 18h ago
 
 ---
 
@@ -199,41 +221,15 @@ ETF.com • 1d ago
 
 ---
 
-**[A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks](https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html)**
-
-MLive.com • 20h ago
-
----
-
-**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
-
-The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
-
-Fox Business • 1d ago
-
----
-
-**[Simple Mining seeks to host bitcoin center in Madison](https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/)**
-
-KELOLAND.com • 13h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)**
-
-⬆️ 319 • 💬 275 • 6d ago
-
----
 
 **[The People–OK, the Men–Who Still Love Bitcoin](https://news.ycombinator.com/item?id=49775336)**
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 3d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 4d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -245,7 +241,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 2 • 💬 3 • 4d ago
+⬆️ 2 • 💬 3 • 5d ago
 
 ---
 
@@ -261,7 +257,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin
 
-⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
+⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
 
 ---
 
@@ -279,19 +275,11 @@ https://t.co/GktyWFbTdN
 
 ---
 
-**[Play Bitcoin Bird](https://news.ycombinator.com/item?id=49739330)**
-
-Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.
-
-⬆️ 1 • 💬 0 • 6d ago • [CoinMarketCap](https://coinmarketcap.com/?play=bitcoinbird)
-
----
-
 **[Bitflix – MCP Apps Example Application for Video](https://news.ycombinator.com/item?id=49827250)**
 
 Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example
 
-⬆️ 2 • 💬 0 • 1h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
 
 ---
 
@@ -299,13 +287,13 @@ Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin to $1 Million? The President Is Buying MicroStrategy!](https://www.youtube.com/watch?v=XIKnxAK7Ipo)**
+**[Bitcoin: The Upside Down](https://www.youtube.com/watch?v=orda-VyV2rU)**
 
-Trump's investment accounts bought MicroStrategy shares in late July before the stock surged, according to a newly disclosed ...
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
 
-📺 Simply Bitcoin
+📺 Benjamin Cowen
 
-👁️ 16K • 👍 1K • 💬 160 • ⏱️ 13:19 • 8h ago
+👁️ 137K • 👍 5K • 💬 519 • ⏱️ 23:55 • 10h ago
 
 ---
 
@@ -315,57 +303,47 @@ Bitcoin Just Turned EXTREMELY Bullish (Explained In Less Than 2 Minutes) ⭐ Fol
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 60 • ⏱️ 8:51 • 8h ago
+👁️ 61K • 👍 2K • 💬 78 • ⏱️ 8:51 • 14h ago
 
 ---
 
-**[Bitcoin: The Upside Down](https://www.youtube.com/watch?v=orda-VyV2rU)**
+**[Bitcoin to $1 Million? The President Is Buying MicroStrategy!](https://www.youtube.com/watch?v=XIKnxAK7Ipo)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Trump's investment accounts bought MicroStrategy shares in late July before the stock surged, according to a newly disclosed ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 54K • 👍 3K • 💬 332 • ⏱️ 23:55 • 4h ago
-
----
-
-**[HUGE Bitcoin And XRP Update As The Markets Watch The Bond Rates](https://www.youtube.com/watch?v=kavLsKhDPaM)**
-
-Here is the link to the crazy crypto offer: https://ninjacryptopro.com/hq/
-
-📺 The Economic Ninja
-
-👁️ 28K • 👍 1K • 💬 230 • ⏱️ 8:34 • 10h ago
+👁️ 21K • 👍 1K • 💬 172 • ⏱️ 13:19 • 14h ago
 
 ---
 
-**[Bitcoin: Where I Went Wrong](https://www.youtube.com/watch?v=iWBLplyqhl4)**
+**[Is Bitcoin a &quot;Dead Cat Bounce&quot;? Natalie Brunell Debunks Jason Calacanis](https://www.youtube.com/watch?v=xGfZjAWGG_U)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Natalie Brunell responds to All-In Podcast co-host Jason Calacanis after he called Bitcoin's rally a "dead cat bounce." Natalie ...
 
-📺 Benjamin Cowen
+📺 Natalie Brunell
 
-👁️ 265K • 👍 10K • 💬 1K • ⏱️ 33:00 • 1d ago
-
----
-
-**[WHAT BITCOIN LEVEL 1-5 ARE YOU AT?](https://www.youtube.com/watch?v=XhsIpmkkLv8)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
-
-📺 My Financial Friend
-
-👁️ 4K • 👍 130 • 💬 17 • ⏱️ 2:59 • 8h ago
+👁️ 529 • 👍 40 • 💬 21 • ⏱️ 1:35 • 52m ago
 
 ---
 
-**[Bitcoin Live Trading: The BTC Rally Is NOT Over?! Stay Alert! EP2133](https://www.youtube.com/watch?v=fmXjToG2AnQ)**
+**[BITCOIN IS TRAPPING YOU...](https://www.youtube.com/watch?v=yvJgZkGg4Uk)**
 
-WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Crypto Lifer
+📺 Crypto Rover
 
-👁️ 12K • 👍 396 • 💬 36 • ⏱️ 2:05:41 • 15h ago
+👁️ 15K • 👍 808 • 💬 30 • ⏱️ 11:01 • 8h ago
+
+---
+
+**[The Best Crypto Setup Since 2020 Is Here! Bitcoin Could Be Entering The Bull Market (DIP WARNING)](https://www.youtube.com/watch?v=H-qrJkfDx64)**
+
+The best crypto setup since 2020 is here, and Bitcoin could be entering the bull market right now. In this video I compare today's ...
+
+📺 Crypto Capital Venture
+
+👁️ 23K • 👍 675 • 💬 182 • ⏱️ 14:41 • 22h ago
 
 ---
 
@@ -375,7 +353,17 @@ BlackRock just dropped a massive new Bitcoin thesis: AI agents will need machine
 
 📺 Bitcoin News Alerts
 
-👁️ 7K • 👍 363 • 💬 118 • ⏱️ 16:27 • 14h ago
+👁️ 8K • 👍 378 • 💬 119 • ⏱️ 16:27 • 19h ago
+
+---
+
+**[WHAT BITCOIN LEVEL 1-5 ARE YOU AT?](https://www.youtube.com/watch?v=XhsIpmkkLv8)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 167 • 💬 19 • ⏱️ 2:59 • 14h ago
 
 ---
 
@@ -385,17 +373,17 @@ Bitcoin bear market in rearview - now we can look towards the future and see wha
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 345 • 💬 35 • ⏱️ 1:11:08 • 14h ago
+👁️ 14K • 👍 355 • 💬 37 • ⏱️ 1:11:08 • 19h ago
 
 ---
 
-**[Bitcoin Investors...Get Ready for What&#39;s Next](https://www.youtube.com/watch?v=ZYIaMhrQPFU)**
+**[BITCOIN: WILL BREAKOUT CONFIRM!!!? (urgent)](https://www.youtube.com/watch?v=1M39GswmTqo)**
 
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+JOIN BULLMANIA WAITLIST: https://bullmania.com/ Newsletter: https://bullmania.com/subscribe BULLMANIA ARENA: ...
 
-📺 CryptosRUs
+📺 Ivan on Tech
 
-👁️ 33K • 👍 961 • 💬 83 • ⏱️ 45:03 • 18h ago
+👁️ 16K • 👍 1K • 💬 39 • ⏱️ 37:21 • 3h ago
 
 ---
 

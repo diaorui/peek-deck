@@ -5,11 +5,51 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Google Takes the A.I. Data Center Race to Outer Space",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5",
+      "pub_date": 1790254818.0,
+      "article_url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Live Updates: Trump to host China's Xi Jinping at White House as they navigate AI, trade tensions and Taiwan",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
+      "pub_date": 1790255760.0,
+      "article_url": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/24/7d80a971-1c92-4b99-bfe9-aecc2b494af4/thumbnail/1200x630g2/968c6b62de45472ac6d3c726ddc2bcda/ap26266806496322.jpg",
+      "description": "President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI."
+    },
+    {
+      "headline": "Trump Says No Moves Toward US, China AI Guardrails in Xi Summit",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnFZblJvUXlzcDY2YVlDSXNBb1hsNGJaRjdhUnBkMGlzLXRWeG1FZ3RZNEZXb3VXTkltd0J3Z3VpRmkzNDN3Y0tQdFRkUmFRd3cxTDdPcmVHU1pJYXg1NlVPTTl5YVJtWDY4N2x6WU4ycU55aG9zbXVLYzByY2p4SkQ3dG1QS3lKaFVncG5pZE51UGdtZUNwMFJ4ZUNUeHYyWWVhLWlRNXZpc2I3LTVPMmUzdw?oc=5",
+      "pub_date": 1790250353.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/trump-says-no-moves-toward-us-china-ai-guardrails-in-xi-summit",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump-Xi live updates: leaders of US and China to talk AI and trade in major Washington meeting",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2J2dXpTbXlfWFcxbldGenBkTWFXU1BCWG9yamdJN2VpMEpQM0VfdTgwd0dsSXMwb1B6WlhhNnptUE1FZHFhYkdhVE9tcTBpWEhhU1J1dGc0RDhyN2hRamNLcG1fWC15NUpOZ2JlaU5XcjJZY252ck1abHk3M2htWmR4bjE0T1BUWkhaeDh3NmtIaDlkNWpsN21TS1FvenlIVGoyaUdwMTk4Yks4Q0locg?oc=5",
+      "pub_date": 1790256600.0,
+      "article_url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/456b9966cd22a2552c51a90a0cbaa1377521f388/403_332_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6127736f98c7ef0e46720460f585c928",
+      "description": "Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan"
+    },
+    {
       "headline": "Australia launches urgent review after OpenAI program hacks government health portal",
-      "source": "bbc.com",
+      "source": "BBC",
       "source_url": "https://www.bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Y3N0QjhfNEVoRFZvN3Y5TlplSWhzdno0Q0YwSDhad2ZfaXhTbFdhTktTVzlhSW5HaWd6YmtUWm5kSHpwbDdNU1ZqNU92VkltdmxZQlVR?oc=5",
-      "pub_date": 1790236929.0,
+      "pub_date": 1790230945.0,
       "article_url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
       "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
       "description": "Experts believe it's the world's first known AI breach of a government system."
@@ -25,24 +65,24 @@
       "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
     },
     {
-      "headline": "\u2018Unintentional\u2019 OpenAI data hack prompts calls to toughen Australian AI laws",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1FieGs2bHp6MTl0UXMtMHBOanJtYUpwQTNzQjU4Z2JLOUJiVUdmNTREb05VcDFvZXFIWFhIQTU0MVpmcllSUWROQWhTd3I0VW9xQV9sQWZlZURmS1lVSXdoQUtxZjJ6ZXozTS1wZmstNHhHRHduZG5EWTZtUEhtdFVBaUVPX1JEc3VfOGNpNTN4SnNSTVU0aTNHdXJmV0E?oc=5",
-      "pub_date": 1790236915.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/unintentional-openai-data-hack-prompts-080155095.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/f46611defb7098cb3821a757dc7a0fa4a43a967bb352ed66b5a97b1c1e0f2aef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F4be7e63b110254d28a282c33aa8a1753.jpg",
-      "description": "Data breach prompts concerns laws have not kept pace with artificial intelligence"
+      "headline": "OpenAI Chief weighs in on the first known AI hack of a federal system in Australia",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUNjcjFZVHZxVmNuZE5kSUtoMHh1MmhRQVF3V2xERjQtT2VxU0lDUEl6SVoxbERRQVR6ZVhWa0lteVU2anBsTU9IeFNBcmRWcEZvODQ2bGZvbUpPYk5sNXZGM21pWlg0a0ZqSGw3R3RkZWt3VUE0OUJieWNPT3ZCQ0FYWlZIUk5DaFY2b1VGU3VCOG9kQmM2YWhuWktsYk5pbDUyRC1YRlBPN1h3c2dqODdCVHNZMFFIOUtrbFhmRQ?oc=5",
+      "pub_date": 1790257445.0,
+      "article_url": "https://www.cnn.com/2026/09/24/us/video/openai-chief-weighs-in-on-the-first-known-ai-hack-of-a-federal-system-in-australia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/lehane-open-ai.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Kate Bolduan speaks with Open AI\u2019s Chief Global Affairs Officer Chris Lehane following the revelation that an OpenAI agent was able to hack into Australia\u2019s National Healthcare System."
     },
     {
-      "headline": "Meta Debuts Dedicated \u2018Charm\u2019 Device for Using Muse AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMThMd2ZURlVmOTRpS0dzNmNSSFVfZ1dzNDZrd19YTUprcTA5dHM3NkFRekJsemdBd2hmak9INnpYSWlncXRVd1VpVkM0TnQ4OXFET3Jpb2xxd054cVJWLUt4WFlQSmxYTU5VdEJXbEhHbzRILTRuQUY1LWtKMmZwRF9VdzZCRUN4UVpoZmtBMF92dWRCUm5Pbkt5OHlnNXpQeHpzcWpkZWU2QngxNWJMWWNMS2pCd1BqeXZXYno4cms?oc=5",
-      "pub_date": 1790207848.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go",
-      "image": null,
-      "description": null
+      "headline": "YouTube Bets That a Slew of AI-Powered Features Can Maintain Its Video Domination",
+      "source": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dwNTFhR1FGLS1vUkJmUTduOXd6UGEyamh0Y3VoNGN5WlBZb29NZGRMclpoeU1SRHpuOWxtaVVudmhPYXg2YlBMNmxfSE1xQW01NzFPYW5kV3phVDFTVUtvanlmLXBGWHluTU9nOWxZUEJzYmFsVVU0OWpkRUxOWmFTV3c0ZHJJTDFzMS1HSjBLOV8tSU16RHZhSk9ZUWRIdW1vS1pCb0ZxaE5Q?oc=5",
+      "pub_date": 1790257924.0,
+      "article_url": "https://www.hollywoodreporter.com/business/digital/youtube-ai-tools-coming-soon-creators-viewers-1236708783/",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-UX-Flow-1-1.jpg?crop=0px%2C3px%2C1500px%2C839px&resize=1440%2C810",
+      "description": "From custom homepage feeds to automated editing, the Google-owned video platform is seeking to make the content flywheel spin faster, and drive more engagement in the process."
     },
     {
       "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
@@ -53,46 +93,6 @@
       "article_url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
       "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents."
-    },
-    {
-      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "pub_date": 1790092503.0,
-      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Physical AI Is Already On The Road. Your Operations Are Next.",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWhMRWdEdENuU0FESTA4cmtVOTZyTUg2UUhJcHQ3dFN1ak1HaWZmaHFHWFVhMkNkVkRldWlBRVg2alEyaDF0UHlJMXNpdDAxM1R1dHNxeEJPVUFjZXJKYWxJT1hJWDhGUzJndzBmdG52NmZILVdxM2ozSmtUZzdTYkdCbHJVaWQ0aU85Z0plZzJkV0dSSjUzSlRVWTlaME5TaG5tUkJrelFSU25kc1R6Z2k3eGRmNXdC?oc=5",
-      "pub_date": 1790238841.0,
-      "article_url": "https://www.forbes.com/sites/sanjaysrivastava/2026/09/24/physical-ai-is-already-on-the-road-your-operations-are-next/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Wisconsin professor caught 60 AI essays with hidden prompts, now he's dropping writing assignments",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTExGYVotNFFyZ1hOckktVTFfSVhLUm1GRG9BNUZhbUNKYVZNdjBnbUI1azBLdHhPWlJ1WU54OEdlSnFIVVZ1SXZmX3FoaDJ5UXpNM01GUER3bDFaWnE3OFp6clN3ZzBGQ291OTA5LWtuQVk1T1dVdG9XTFdtM1FSYWhTc1BwNHJuR0FSV09vWQ?oc=5",
-      "pub_date": 1790234880.0,
-      "article_url": "https://www.yahoo.com/news/us/articles/wisconsin-professor-caught-60-ai-072800850.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c2ffaf4187e75979b1020428b132edaaca53f3b6f82ca8170045b4cd98179d49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F40c672ae61247f47607e1c3290166452.jpg",
-      "description": "\"It breaks my heart, because writing is one of the best ways to learn something.\""
-    },
-    {
-      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
-      "pub_date": 1790222400.0,
-      "article_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
-      "description": "The year\u2019s most popular slang reveals what young people think about artificial intelligence \u2013 and it\u2019s not positive"
     },
     {
       "headline": "Gemini 3.8 text-to-speech says hello",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T08:43:20.947263+00:00"
+  "fetched_at": "2026-09-24T14:04:18.109589+00:00"
 }
