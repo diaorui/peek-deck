@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-24T14:04:24.769457+00:00'
+updated: '2026-09-24T18:34:30.348607+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 24, 2026 at 14:04 UTC  
+**Last Updated:** September 24, 2026 at 18:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** +2.2%  
-**30d:** +6.5%  
-**90d:** +69.6%  
-**1y:** -30.8%  
+**24h:** +0.2%  
+**7d:** +2.7%  
+**30d:** +7.1%  
+**90d:** +70.5%  
+**1y:** -30.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $325.72B
+**Market Cap:** $327.63B
 Rank #2
 
 **Circulating Supply:** 122,076,229 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.0%
+-45.7%
 
 **All-Time Low:** $0.43
-+616502.7%
++619692.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-9h ago
+13h ago
 
 ---
 
@@ -152,11 +152,43 @@ Ethereum confirms October 6 for Glamsterdam's Sepolia testnet launch while devel
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum, XRP Slide as $18 Billion Options Expiry Looms: What’s Going On?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61954350/bitcoin-ethereum-xrp-plunge-as-18-billion-options-expiry-looms-whats-going-on)**
+**[Bitcoin Slips Below $85,000 as Ethereum, XRP, Dogecoin Fall With Treasury Yields at 19-Year Highs](https://www.benzinga.com/crypto/cryptocurrency/26/09/61956960/bitcoin-slips-below-85000-as-ethereum-xrp-dogecoin-fall)**
 
-Bitcoin, Ethereum and XRP retreat ahead of Friday’s $18 billion options expiry, the largest of 2026, as traders brace for volatility.
+Bitcoin fell below $85,000 after failing to break $87K resistance despite strong ETF inflows.
 
-Benzinga • 20h ago
+Benzinga • 23h ago
+
+---
+
+**[Bitcoin Tops $87,000, Ethereum, XRP, Dogecoin Also Lift Amid 'Extreme Greed'—Analyst Declares Bear Market Over, Says This is the 'Next Stop' for BTC](https://www.tradingview.com/news/benzinga:58ed8b336094b:0-bitcoin-tops-87-000-ethereum-xrp-dogecoin-also-lift-amid-extreme-greed-analyst-declares-bear-market-over-says-this-is-the-next-stop-for-btc/)**
+
+Leading cryptocurrencies jumped to multi-month highs on Monday amid rampant optimism and growing “fear of missing out.”Crypto Market EruptsBitcoin stormed past $87,000 for the first time since January, while trading volume jumped nearly 150% over the last 24 hours.Ethereum also rallied to a nearly…
+
+TradingView • 2d ago
+
+---
+
+**[What’s Next For Bitcoin, Ethereum And XRP Prices As Crypto Market Hits $3 Trillion?](https://coinpedia.org/news/whats-next-for-bitcoin-ethereum-and-xrp-as-crypto-market-hits-3-trillion/)**
+
+The total crypto market cap has climbed to $3.01 trillion, up 0.9% over the past day, with $141.8 billion in trading volume. Bitcoin sits at $85,980.96,
+
+coinpedia.org • 2d ago
+
+---
+
+**[Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)**
+
+The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
+
+CoinDesk • 4h ago
+
+---
+
+**[Current price of Ethereum for September 24, 2026](https://fortune.com/article/price-of-ethereum-09-24-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 4h ago
 
 ---
 
@@ -164,23 +196,7 @@ Benzinga • 20h ago
 
 Bitmine Chair Tom Lee explains why Ethereum could hit a new all-time high past $5,000 this year
 
-finance.yahoo.com • 1h ago
-
----
-
-**[Ethereum could reach $8,600 if it breaks $5,000, says analyst Peter Brandt, but key resistances remain.](https://pluang.com/en/news-feed/peter-brandt-memprediksi-potensi-ethereum-ke-8600)**
-
-Analyst Peter Brandt forecasts Ethereum could rise to $8,600 if it first breaks the $5,000 resistance level. Currently trading around $2,660, Ethereum must overcome intermediate resistances at $3,000 and $5,000 before reaching the long-term target. This scenario is based on technical chart analysis without a specific timeline or guarantee. Meanwhile, Ethereum ETFs and companies like BitMine are increasing their holdings, supporting demand but not assuring the price target.
-
-Pluang • 2h ago
-
----
-
-**[Tom Lee Agrees Ethereum 5-Year Consolidation Is the Launchpad for a Mega Price Rally](https://finance.yahoo.com/markets/crypto/articles/tom-lee-agrees-ethereum-5-125230869.html)**
-
-In today’s Ethereum news, ETH trades near $2,650, down about 3% over the past 24 hours. The dip is modest, but it follows a sharp rejection near $2,800 earlier this week. Zoom out, and the bigger picture comes into focus. ETH has spent much of the past five years moving ...
-
-finance.yahoo.com • 1h ago
+finance.yahoo.com • 5h ago
 
 ---
 
@@ -192,19 +208,11 @@ TradingView • 1d ago
 
 ---
 
-**[Current price of Ethereum for September 22, 2026](https://fortune.com/article/price-of-ethereum-09-22-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2d ago
-
----
-
 **[Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls](https://stocktwits.com/news-articles/markets/cryptocurrency/bitwise-ethereum-solana-venture-bets-sell-if-adoption-stalls/cZM4bCARBJz)**
 
 A Bitwise report found Bitcoin is the only cryptocurrency on which significant institutions agree, with Ethereum and Solana considered lesser conditional bets.
 
-Stocktwits • 21h ago
+Stocktwits • 1d ago
 
 ---
 
@@ -212,23 +220,15 @@ Stocktwits • 21h ago
 
 DUBAI, United Arab Emirates, Sept.  23, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based crypto with a live DeFi exchange, has announced that ...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
-**[What’s Next For Bitcoin, Ethereum And XRP Prices As Crypto Market Hits $3 Trillion?](https://coinpedia.org/news/whats-next-for-bitcoin-ethereum-and-xrp-as-crypto-market-hits-3-trillion/)**
+**[Duelbits: PeckShield Flags $4.3M Outflow on Ethereum](https://blockchain.news/flashnews/duelbits-peckshield-flags-4-3m-outflow-ethereum)**
 
-The total crypto market cap has climbed to $3.01 trillion, up 0.9% over the past day, with $141.8 billion in trading volume. Bitcoin sits at $85,980.96,
+Duelbits sees $4.3M suspicious outflow including 836 ETH on Ethereum and BNBChain, with attacker swapping to 1587.87 ETH.
 
-Coinpedia • 2d ago
-
----
-
-**[Ethereum: 31,979 ETH Withdrawn From Coinbase by Whale](https://blockchain.news/flashnews/ethereum-31-979-eth-withdrawn-coinbase-whale)**
-
-Ethereum whale addresses pulled 31,979 ETH worth $85.68M from Coinbase at $2,679.31 average as large Ethereum whale withdrawals from Coinbase historical...
-
-blockchain.news • 11h ago
+blockchain.news • 7h ago
 
 ---
 
@@ -236,23 +236,23 @@ blockchain.news • 11h ago
 
 ## YouTube Videos: "ethereum"
 
+**[Tom Lee Ethereum Prediction: $15K or $700K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=D2QCOXQFFxU)**
+
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+
+📺 Crypto Nutshell
+
+👁️ 886 • 👍 72 • 💬 33 • ⏱️ 23:38 • 2h ago
+
+---
+
 **[Why Ethereum Could Hit A New All-time High This Year: Tom Lee](https://www.youtube.com/watch?v=vP5SVWRoj0Q)**
 
 Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway — and believes ETH could reach new ...
 
 📺 Coinage
 
-👁️ 75K • 👍 779 • 💬 257 • ⏱️ 39:54 • 23h ago
-
----
-
-**[David Schwartz’s $1 Ethereum Mistake](https://www.youtube.com/watch?v=lnPFypLnO08)**
-
-David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went to $12 before he reconsidered getting back in.
-
-📺 Jake Claver
-
-👁️ 7K • 👍 293 • 💬 19 • ⏱️ 1:30 • 12h ago
+👁️ 81K • 👍 816 • 💬 258 • ⏱️ 39:54 • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 314 • 💬 19 • ⏱️ 19:22 • 1d ago
+👁️ 15K • 👍 317 • 💬 19 • ⏱️ 19:22 • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 12K • 👍 399 • 💬 91 • ⏱️ 26:39 • 11h ago
+👁️ 14K • 👍 426 • 💬 155 • ⏱️ 26:39 • 16h ago
 
 ---
 
@@ -286,36 +286,6 @@ If You Missed Ethereum These 2 Altcoins Will EXPLODE! Hey babes, Missed out on E
 
 ---
 
-**[BMNR Life After 5% Alchemy | Buybacks, Staking or More Ethereum?](https://www.youtube.com/watch?v=3Y7lZ8qHOos)**
-
-BMNR is nearing its 5% Alchemy ETH target. So what happens from here? After a sharp rebound, what should BMNR do next?
-
-📺 The Value Thinker
-
-👁️ 16K • 👍 679 • 💬 94 • ⏱️ 17:21 • 1d ago
-
----
-
-**[I Tested How to Earn Ethereum on a Phone in 2026 (Reddit Post)](https://www.youtube.com/watch?v=CnqDYPkGeMU)**
-
-Earning Ethereum daily on a phone in 2026, is that actually a thing? I found this one on Reddit. A post about picking up a little ...
-
-📺 Megaproducción
-
-👁️ 7K • 👍 453 • 💬 99 • ⏱️ 6:54 • 21h ago
-
----
-
-**[Ethereum Bullish: Major Breakout Imminent? Watch This! #shorts](https://www.youtube.com/watch?v=pTYdaC-XKbk)**
-
-Ethereum is battling its midpoint range, poised to open floodgates like Bitcoin. Once it breaks above, expect impulsive, quick ...
-
-📺 Crypto 101
-
-👁️ 10 • ⏱️ 1:02 • 1h ago
-
----
-
 **[Ethereum&#39;s Breakout Is Loading.. Only One Seller Stands In The Way](https://www.youtube.com/watch?v=M4EVNZuW0VQ)**
 
 WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX Ethereum closed ...
@@ -326,13 +296,43 @@ WEEX - No KYC, up to $10,000+ in sign up rewards https://marzell.org/WEEX Ethere
 
 ---
 
+**[BMNR Life After 5% Alchemy | Buybacks, Staking or More Ethereum?](https://www.youtube.com/watch?v=3Y7lZ8qHOos)**
+
+BMNR is nearing its 5% Alchemy ETH target. So what happens from here? After a sharp rebound, what should BMNR do next?
+
+📺 The Value Thinker
+
+👁️ 17K • 👍 687 • 💬 95 • ⏱️ 17:21 • 1d ago
+
+---
+
 **[Why ETH Could Rally to $3,000 Before an October Sell-Off](https://www.youtube.com/watch?v=oWYseZuaDbw)**
 
 Sign up for Kalshi with our link: https://kalshi.com/p/morecryptoonline Paid partnership. US residents only (not available in the UK ...
 
 📺 More Crypto Online
 
-👁️ 11K • 👍 245 • 💬 14 • ⏱️ 8:45 • 2d ago
+👁️ 11K • 👍 246 • 💬 14 • ⏱️ 8:45 • 2d ago
+
+---
+
+**[David Schwartz’s $1 Ethereum Mistake](https://www.youtube.com/watch?v=lnPFypLnO08)**
+
+David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went to $12 before he reconsidered getting back in.
+
+📺 Jake Claver
+
+👁️ 10K • 👍 340 • 💬 48 • ⏱️ 1:30 • 17h ago
+
+---
+
+**[Bitcoin &amp; Ethereum, Bruch der Bullenflagge als erstes Warnzeichen!](https://www.youtube.com/watch?v=hTBE7zD95IY)**
+
+DIE BESTE EXCHANGE AUF DEM KRYPTOMARKT!! OKX!! Bei mir bekommt ihr 300€ +8% Bonus auf eure Einzahlung +extra ...
+
+📺 Krypto Trading & Investing
+
+👁️ 6K • 👍 532 • 💬 108 • ⏱️ 12:32 • 13h ago
 
 ---
 
