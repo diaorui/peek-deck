@@ -5,106 +5,106 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Th\u00e9lyson Or\u00e9lien: French uproar over author accused of using AI",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11c0ZBMmhoakltalJQckhralBvYmp2NEZZTmJZcHRxOXhNRS1oUFlJcEFUUGJTTWV3d3d3dFJ3Z01Sb2xwdjJTN0FWQ1BzbTRuYjlMdllVcWl2cDA?oc=5",
-      "pub_date": 1790177285.0,
-      "article_url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/393a/live/77d01680-b762-11f1-8e7f-6f99c81f3136.jpg",
-      "description": "Canadian-Haitian writer Th\u00e9lyson Or\u00e9lien has just been awarded the Prix du Roman Fnac for his first novel."
-    },
-    {
-      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
+      "headline": "OpenAI\u2019s A.I. Tried Breaching 4 Other Targets, Without Prompting",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
-      "pub_date": 1790092503.0,
-      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "pub_date": 1790216932.0,
+      "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+      "headline": "\u2018Extreme concern\u2019 over first known AI hack of a government system",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
+      "pub_date": 1790205563.0,
+      "article_url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26265494205407.jpg?c=16x9&q=w_800,c_fill",
+      "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
+    },
+    {
+      "headline": "Australia says OpenAI agent hacked Medicare portal",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RidlRlTElSSHh0MHVjbDFXZ2J2V0tJbjdtbGVJT09EM3JRVG5yMUtKN1RoZG9pcXNyd3ByYnJLSXhsRDIyeEJOVlRQMkstT2lnQnJ1UWJ1V2QwZXJmOHpVNEJ2aWlFMEZyWVRhT1RJWGJ5R3FVT1c1dmo5VlpuUDllVkxDQWp5bjRmampQYWNoU2N0YnfSAZsBQVVfeXFMUFRSTGtUVnlVR00zQkhLOGZKTTVRRE1IZ2hzQUUtM0REX0xaOThETThCTUxUZENEQVZmWXoxanlBMFVqWEdybmwtUUlheTRKYzJHOFlVNVFDdHBvdGRKSFpzejVjRjVXZUJkMTg1WUtFTmFGNzFCVXJkUVBsUHNqT0o2Vjl1MzZoZkZ6dm1Id0tyNi1tZ3c3VE90T0k?oc=5",
+      "pub_date": 1790217488.0,
+      "article_url": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C9363FE__v1__HighRes__SpeechesByHeadsOfStateAndGovernmentAtUnGeneralA-1790203629.jpg?resize=1920%2C1440",
+      "description": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach."
+    },
+    {
+      "headline": "At UN, tech chiefs urge caution in AI development",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU5hc3l2YkY1LTNySVZVcTBkQnNoWDIyVXRyMFpPSFF6YklnT1QwQlNkSjZSd184MGhacEN4bTFxXzBNX0dBY1N5ZklOeXRtekFMLTltVDlPU2tZSGhKb0ZSUkZlamU4STliaG9yeHA5V1RuLXlsbXlSMkRINGppZVJoTFJMamZwZ1MwSlhOYzFLUQ?oc=5",
+      "pub_date": 1790199440.0,
+      "article_url": "https://www.yahoo.com/news/world/articles/un-openais-altman-calls-extreme-193250451.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4e443a8b34565d8a723231e247f71d7b4e481aad3bbe916312a73037923cbf7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F52784a57b9f89ce9957a9fd555c534a5.jpg",
+      "description": "Leaders of major AI firms told the UN Security Council on Wednesday that the technology calls for heightened vigilance, with Anthropic's CEO pledging to slow down where needed to ensure the safety of ..."
+    },
+    {
+      "headline": "AI leaders warn UN of security risks as systems grow more powerful",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
+      "pub_date": 1790157900.0,
+      "article_url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic CEO says AI could cure most major diseases within next decade",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0twcDJSMXo1OEVlVUVMMkpTWFhEemcyQ2I0NUU2LVdOU0c3TlpWbmZIcFJjRGg3Qk9IeGNlXy10RDYzRXAwWTQwa0hrd1pMRTZuV0pFdUliVWVRZUVINlk4MlpSRjZ4VVpFSTNYSk9PcVprZmhfU1RZVGVsWm5RTEdhaUlKMGxQNERGOEp2dndPc0hkYXc0MUxJT2IzRk9SRWVXV1Fyd2FnZkVOQkNj0gG0AUFVX3lxTFAtd0tkZUEzdjBKVG1Obm5CRnZpUFJ4Qy1rN0V2VDJYNEJUM0tFenNfLVhyWkJaOEU2OXdYS1J2YnpMTkdvVGI4c2ZyUDlRbmViVTFGUmpCM3lhLU1uSFEyZ0tQOU9XYWpLQXFxNnBKWThwMTlGQXRIdkhPaXhXa0pfRmVwdGRBNHlJbHhnVVlUOFJDMHlzV1lqeURMWktOYW8tZ2tOM0g0M1VHd21IbGNCMXBfeQ?oc=5",
+      "pub_date": 1790213820.0,
+      "article_url": "https://www.foxbusiness.com/technology/anthropic-ceo-says-ai-could-cure-most-major-diseases-within-next-decade",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/dario-amodei-anthropic-june-2026.jpg?ve=1&tl=1",
+      "description": "Anthropic CEO Dario Amodei predicts AI could help cure most diseases in five to 10 years after Claude discovers a potential new gene editing mechanism."
+    },
+    {
+      "headline": "Why AI models hallucinate and which models get it wrong most",
+      "source": "kare11.com",
+      "source_url": "https://www.kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVpYaEdJZmVmMlNzbEFWLTd2YXBISTlzclppVVFuQ0xmRnpWSHZQYXJINklmVVNuZWUxQkZ3NXV5T3dMM1YteTJCTGRFd1RQcVRlVzZJNzg1djdyYVhMZWNrdHpCaF83ejdrazNnNXQyeEYtMklEak5YVW9ZWVFCQ3hDSVNNaFNTR2VLWU9YaXZUcVlVMXhnbXk5Q2VmZDBjWXAzQlZnWl8zRmNJWWtPMlUyb2d4X2cwaTZTX2R2TXQwQnl1Q0pHNnVhamhYbXUybHV4N1dYQk9Yd3R2UlJHVE12S0lWOFE?oc=5",
+      "pub_date": 1790218320.0,
+      "article_url": "https://www.kare11.com/article/news/local/kare11-extras/why-ai-models-hallucinate-which-models-get-it-wrong-most/89-5040d48c-3f55-4959-9d70-bb668374bdd7",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRTVFTXJpb0lqMXZCM2ZJc08tVUFWQjd1dTdKOUhhVjFFV1REOXQ3SjlrNURZWnJfeVRRQTZ4S0d5anRKSk9QYWU2NjN6bzhfRHlrRTR4eEpiQnVuOHdudkdCMndLNkJhR3dna2tIQTdkVlpKYUNaMm42a3fSAYIBQVVfeXFMT0x1cHFQZ01KbDdkY1ozMTduSVk1TGhtRVZPS3RXMHR1YXMyNTNFbld1elJrVy1WdjlhMlZTamZKbzM2UXpFWVN4a2JMbEpjc01HNGR2aW9jZUc4RHo5ZjJZQ2V6clp3QTRyNnhLa0NxSEVUS0ZTTzZqQXU5U0xhOG45Zw?oc=5",
-      "pub_date": 1790164283.0,
-      "article_url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108338168-1784667654662-gettyimages-2287095397-_75a1669_bsgcs6jm.jpeg?v=1789594575&w=1920&h=1080",
-      "description": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business."
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
+      "pub_date": 1790210700.0,
+      "article_url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
+      "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents."
     },
     {
-      "headline": "Zuckerberg to unveil new AI products as Meta\u2019s Muse app tops charts",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnUtY2ktYUtiTlpjZ3UzTkRBanJYZExsWTBDSVBOUDR2eU9qbHRPQ2sxVlB3NnducXRvc2lLaEM2QkZMbWFtaklxbUN5YlhwM01DM3lqWVlqUW1EaTRUOUJvZHlfTjhzdTROYTctU3RZQWd5dHFrRTFfSjNiMnNldkVhN0w?oc=5",
-      "pub_date": 1790181321.0,
-      "article_url": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fb0a335-ec4b-48df-aee4-5b68305eff34.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Social media group\u2019s personal AI \u2018agent\u2019 that can shop and schedule has become most downloaded app in US"
-    },
-    {
-      "headline": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
-      "source": "Engadget",
-      "source_url": "https://www.engadget.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xd3RoQkZYNklIQ2pPaDN3SmtlVEx3LXF2QzA3Um1BNHBBLTRKaUs5OHp0NjZ2eW91emVuS3FBTnlXOC1uYjQ1S1ZreG5vaHVSNTg1LWJIaUFFWmpFbFNJSzBidS1UMjJ1aWhubXdmOHBlb21PNUE?oc=5",
-      "pub_date": 1790203698.0,
-      "article_url": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/",
-      "image": "https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg",
-      "description": "More smart glasses and possibly a VR headset are expected today"
-    },
-    {
-      "headline": "AI\u2019s Risk to Financial Systems",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDRMUkJBRS02TzJWLWgxOC1uVXF2S1p0U0FWcUo2SkE0M2doRVRzeVphV3FWVmhaQnY5TnliRmI1U1FUeGtZSDRiRDVGWHdHMkxYeThHZU82cVBpMkN4N2dhYlFrQVRTaTc1MkVFcURxWnl5RUFjM0Q0S1pqLUZBbl9uazNLWTJKMjg2RkRSZw?oc=5",
-      "pub_date": 1790203560.0,
-      "article_url": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
+      "headline": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWFiaHlvcEVwRkZ3cmRaSmxrbDVNeHdVekJGbENkSUsyWEw0RkdDQU5NX0NWc0J0V25NVTdtZE5TSlVsWVN2RUxPREhqOEtyWV81QzlIRmFiU0QyUXJGeVNRQlpURUFmNzMxQlBwc0phX1hTUG9ZdzBfaXJOZGl6dHBmOEFJajZFUHhB?oc=5",
+      "pub_date": 1790208988.0,
+      "article_url": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Bernie Sanders and Greg Casar propose AI \u2018superintelligence\u2019 ban with a 20-year jail penalty",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGx1WkdsVlk5Nk9VY1Uta0tCSE9nQ2N0UW9NNFRBWUotMTBQM3lfZjNXdml3clpqV2dZYVJ0V0p6YXg2bHJhZWVSSXVnR1NSSGNVLTFYWXRtWjZRSDBUTUJDd19QZDZETkk3R19jZkdfaWtiOWNpR1VWWWVLaDlLRFFfZnhhYjJjTFB3TWVMeTFuYjI3YmEtb3VORGlIQnc1SDlaR09kV3lxRm9FRkxYMUJjSmljdW1xcnhPUFNuLVg?oc=5",
-      "pub_date": 1790203883.0,
-      "article_url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260923-sanders-casar-ai-comp-ww-1225-d77cc8.jpg",
-      "description": "New legislation authored by Sen. Sanders, I-Vt., and Rep. Casar, D-Texas, also calls for a Cabinet-level secretary of AI to regulate artificial intelligence."
-    },
-    {
-      "headline": "Dems grapple with how to pace the AI race",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUFwSk8xanZ3a3JLVTdMNjR4ekdUTkl2MUJIcFZsRHhhQWtFMm5NYmpQYmE5N01KVlNTR2NSemtPem1pSUhJYy03c0htdV93YkJ4TF9BbWg5RkdhZ2hCZmloYTgxTk5Ob1V5RmZqQmRmOTV5NGI2aEIwTFJtZEhjRFcydl8?oc=5",
-      "pub_date": 1790193262.0,
-      "article_url": "https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVVhVHJiZGpsVUVGU0JPSFEwOW1PS2lGM3FjVjRnZmVQMVQ3SjBjbEEzNGdyaTFMUXZOaTQ4bkhDb1pSUE5SbnBNejFZUFlaTzE0SkFfdEZXUkJ5WFRrQ3JwT0NjanFDbmM5WF9lWURqb2R4MUFVZGMtRmFfU1pmVGg1Ynl5a2FJVzJENFNOTEt4Uk5XdDNyVURyRVA5VXRjVUFPRFdmanNlbEdWX04wUEx3S05iTTViWWVCdV9xLXNPdFpPcG1QQUhuRUdRUQ?oc=5",
-      "pub_date": 1790187058.0,
-      "article_url": "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaFdpaDR1MXZRUThUQ3Ezd3lBRDdDUDFXeUVOdDB2cVpvU0RwTHB5dDFmaDI5VWtId1dQT3c2OXo3NmY0dy1XeWtPcjRJdndTSGR6V3FvYjNYaWtEbzVKOGx5dWhycU1CMTNfMldOd0pSZkg4OVVWU0I1RzZaeVkwVWxyelFHaHo5WDZCYmpONUNNS2JaakVKMkZkSTh6UHRoOURHQW9hSzVTNU1qT1ZYZnhMZno3UHBHczJnNV9yOTJVYzZZRmF6eWZFQjljM3l6dUtWR1NuWU5HaFA0?oc=5",
-      "pub_date": 1790186691.0,
-      "article_url": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c1e921873f30768fd5744fd62c027b8a769e24238f3f5203c15d91356e6994d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fimage-from-ios-5_4658.jpg",
-      "description": "McDonald's (MCD) is making a long-term bet on artificial intelligence, hand-breaded chicken, and a return of 90s-style restaurants to regain customers who left for other chains, like Burger King."
+      "headline": "Meta says its Muse AI agent can do things for you. I put it to the test",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1d2pXQ0xIV2JweTRtV3ZVZ2dqa3RxaXVreFBwTUNTeGhkNXJsSFFsRG5KVGlqWUJYMURfbjgwa1NKcU4wb3pSSElwa0dRb3prV0RjMDRtb0FlVkk5U3NkaFc0T0Y?oc=5",
+      "pub_date": 1790161229.0,
+      "article_url": "https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2296543533.jpg?c=16x9&q=w_800,c_fill",
+      "description": "It\u2019s been a busy afternoon for Pip, the AI agent I\u2019ve been using in Meta\u2019s Muse app."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-23T23:52:34.169286+00:00"
+  "fetched_at": "2026-09-24T03:30:37.820005+00:00"
 }
