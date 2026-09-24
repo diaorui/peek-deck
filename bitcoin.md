@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-23T23:52:39.755558+00:00'
+updated: '2026-09-24T03:30:38.827810+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 23, 2026 at 23:52 UTC  
+**Last Updated:** September 24, 2026 at 03:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,378.66
+### $84,391.20
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.4%  
-**7d:** +10.3%  
-**30d:** +7.4%  
-**90d:** +40.4%  
-**1y:** -25.5%  
+**24h:** -3.6%  
+**7d:** +3.9%  
+**30d:** +6.3%  
+**90d:** +40.0%  
+**1y:** -22.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1695.77B
+**Market Cap:** $1688.19B
 Rank #1
 
-**Circulating Supply:** 20,088,421 BTC
+**Circulating Supply:** 20,088,534 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.0%
+-33.4%
 
 **All-Time Low:** $67.81
-+124390.5%
++123787.3%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
 
-2d ago
+3d ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once i
 
 Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
-2d ago
+3d ago
 
 ---
 
@@ -153,7 +153,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility.
 
-CoinDesk • 10h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -165,21 +165,23 @@ CNBC • 2d ago
 
 ---
 
+**[Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html)**
+
+Per Saylor, crypto is alive and well.
+
+finance.yahoo.com • 14h ago
+
+---
+
 **[A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks](https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html)**
 
-MLive.com • 11h ago
+MLive.com • 15h ago
 
 ---
 
-**[Crypto ETFs Are Surging, but Bitcoin & Ether Aren’t the Big Winners](https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners)**
+**[BlackRock Issues ‘Extraordinary’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/09/23/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-ETF.com • 1d ago
-
----
-
-**[Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow](https://www.bloomberg.com/news/articles/2026-09-22/bitcoin-leads-crypto-back-above-3-trillion-as-risky-bets-grow)**
-
-Bloomberg.com • 1d ago
+Forbes • 16h ago
 
 ---
 
@@ -191,29 +193,27 @@ Fox Business • 1d ago
 
 ---
 
-**[Simple Mining seeks to host bitcoin center in Madison](https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/)**
+**[Crypto ETFs Are Surging, but Bitcoin & Ether Aren’t the Big Winners](https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners)**
 
-KELOLAND.com • 4h ago
+ETF.com • 1d ago
 
 ---
 
-**[Saylor’s Strategy Makes First Purchase of Bitcoin Since August](https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august)**
+**[Simple Mining seeks to host bitcoin center in Madison](https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/)**
 
-Bloomberg.com • 2d ago
+KELOLAND.com • 8h ago
+
+---
+
+**[Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118)**
+
+Investing.com • 1h ago
 
 ---
 
 **[How to Play MicroStrategy Stock as Bitcoin Prices Surge Higher Again](https://www.barchart.com/story/news/4750873/how-to-play-microstrategy-stock-as-bitcoin-prices-surge-higher-again)**
 
-Barchart.com • 13h ago
-
----
-
-**[Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion](https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html)**
-
-Per Saylor, crypto is alive and well.
-
-Yahoo Finance • 10h ago
+Barchart.com • 16h ago
 
 ---
 
@@ -241,14 +241,6 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 ---
 
-**[Ḽava AI Bitcoin Talk Article](https://news.ycombinator.com/item?id=49735846)**
-
-Ḽava AI : Proof of Content
-
-⬆️ 3 • 💬 0 • 6d ago • [bitcointalk.org](https://bitcointalk.org/index.php?topic=5594370)
-
----
-
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
 ⬆️ 2 • 💬 3 • 4d ago
@@ -267,7 +259,7 @@ As Bitcoin's price swings, so does its hidden cost in freshwater—each transact
 
 A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin
 
-⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
+⬆️ 2 • 💬 0 • 8h ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
 
 ---
 
@@ -297,23 +289,13 @@ Top cryptocurrency prices and charts, listed by market capitalization. Free acce
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin ETFs just had their biggest day of 2026](https://www.youtube.com/watch?v=v94fJg_tE7s)**
+**[Bitcoin to $1 Million? The President Is Buying MicroStrategy!](https://www.youtube.com/watch?v=XIKnxAK7Ipo)**
 
-SoFi just put its credit cards on a blockchain. Customers won't notice. SoFi Bank went live settling debit and credit card ...
+Trump's investment accounts bought MicroStrategy shares in late July before the stock surged, according to a newly disclosed ...
 
-📺 Yahoo Finance
+📺 Simply Bitcoin
 
-👁️ 17K • 👍 361 • 💬 129 • ⏱️ 14:52 • 6h ago
-
----
-
-**[$15 Trillion Bitcoin BOMBSHELL - BlackRock Says AI Will Need BTC](https://www.youtube.com/watch?v=zlEFRiaP3bo)**
-
-BlackRock just dropped a massive new Bitcoin thesis: AI agents will need machine-native financial rails as autonomous ...
-
-📺 Bitcoin News Alerts
-
-👁️ 3K • 👍 254 • 💬 94 • ⏱️ 16:27 • 5h ago
+👁️ 6K • 👍 679 • 💬 104 • ⏱️ 13:19 • 3h ago
 
 ---
 
@@ -323,57 +305,15 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 10K • 👍 322 • 💬 105 • ⏱️ 10:57 • 7h ago
+👁️ 12K • 👍 338 • 💬 132 • ⏱️ 10:57 • 10h ago
 
 ---
 
-**[You Are Ignoring A HUGE Bitcoin Warning.](https://www.youtube.com/watch?v=bBLTdCT2G8M)**
+**[WHY IS CRYPTO DUMPING ON THE MOST BULLISH DAY?! #xrp #crypto #bitcoin](https://www.youtube.com/watch?v=GKXUgqtWKmg)**
 
-FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+📺 CryptoWendyO
 
-📺 Crypto Tips
-
-👁️ 13K • 👍 577 • 💬 70 • ⏱️ 11:04 • 7h ago
-
----
-
-**[Did the Iran War Just Kill Bitcoin’s Rally—or Is $100K Next?!](https://www.youtube.com/watch?v=wNupUGEuP0k)**
-
-Bitcoin is ripping at $86000 as nearly $1 billion flows into ETFs and even longtime critics start admitting they were wrong. Now the ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 1K • 💬 79 • ⏱️ 14:23 • 1d ago
-
----
-
-**[The Best Crypto Setup Since 2020 Is Here! Bitcoin Could Be Entering The Bull Market (DIP WARNING)](https://www.youtube.com/watch?v=H-qrJkfDx64)**
-
-The best crypto setup since 2020 is here, and Bitcoin could be entering the bull market right now. In this video I compare today's ...
-
-📺 Crypto Capital Venture
-
-👁️ 17K • 👍 601 • 💬 168 • ⏱️ 14:41 • 8h ago
-
----
-
-**[Bitcoin Investors...Get Ready for What&#39;s Next](https://www.youtube.com/watch?v=ZYIaMhrQPFU)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 29K • 👍 908 • 💬 70 • ⏱️ 45:03 • 9h ago
-
----
-
-**[INSIDER REVEALS How Bitcoin Hits $500,000 By 2030 - Here&#39;s the math!!! | EP 1598](https://www.youtube.com/watch?v=TmiF7sWybzE)**
-
-Bitcoin bear market in rearview - now we can look towards the future and see what might happen in the next 3 years ...
-
-📺 Simply Bitcoin
-
-👁️ 10K • 👍 291 • 💬 20 • ⏱️ 1:11:08 • 5h ago
+👁️ 2K • 👍 273 • 💬 8 • ⏱️ 1:56 • 2h ago
 
 ---
 
@@ -383,17 +323,67 @@ Mike McGlone is still bearish on Bitcoin — and he's not backing away from his 
 
 📺 Cointelegraph
 
-👁️ 5K • 👍 104 • 💬 58 • ⏱️ 20:23 • 8h ago
+👁️ 8K • 👍 133 • 💬 70 • ⏱️ 20:23 • 12h ago
 
 ---
 
-**[The UNTHINKABLE is About to Happen to Crypto](https://www.youtube.com/watch?v=qr339lY_ChY)**
+**[Bloomberg’s James Seyffart: Why Trillions in Advisor Wealth Could Flow Into Bitcoin](https://www.youtube.com/watch?v=oSqxoYOPgbc)**
 
-The UNTHINKABLE is About to Happen to Crypto. Claim $25 bonus on a $100 deposit: ...
+Trillions in advisor wealth may still be sitting on the sidelines of Bitcoin. James Seyffart explains how wirehouse rules at firms like ...
 
-📺 Altcoin Daily
+📺 Bitcoin Magazine
 
-👁️ 107K • 👍 3K • 💬 103 • ⏱️ 11:20 • 23h ago
+👁️ 10K • 👍 181 • 💬 47 • ⏱️ 16:35 • 6h ago
+
+---
+
+**[BLACKROCK JUST SENT A HUGE SIGNAL TO CRYPTO INVESTORS](https://www.youtube.com/watch?v=Oizw4kJXVag)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 6K • 👍 259 • 💬 50 • ⏱️ 9:05 • 5h ago
+
+---
+
+**[Bitcoin ETFs just had their biggest day of 2026](https://www.youtube.com/watch?v=v94fJg_tE7s)**
+
+SoFi just put its credit cards on a blockchain. Customers won't notice. SoFi Bank went live settling debit and credit card ...
+
+📺 Yahoo Finance
+
+👁️ 25K • 👍 423 • 💬 310 • ⏱️ 14:52 • 10h ago
+
+---
+
+**[The Best Crypto Setup Since 2020 Is Here! Bitcoin Could Be Entering The Bull Market (DIP WARNING)](https://www.youtube.com/watch?v=H-qrJkfDx64)**
+
+The best crypto setup since 2020 is here, and Bitcoin could be entering the bull market right now. In this video I compare today's ...
+
+📺 Crypto Capital Venture
+
+👁️ 21K • 👍 631 • 💬 168 • ⏱️ 14:41 • 12h ago
+
+---
+
+**[WHAT BITCOIN LEVEL 1-5 ARE YOU AT?](https://www.youtube.com/watch?v=XhsIpmkkLv8)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend ...
+
+📺 My Financial Friend
+
+👁️ 2K • 👍 93 • 💬 10 • ⏱️ 2:59 • 3h ago
+
+---
+
+**[$15 Trillion Bitcoin BOMBSHELL - BlackRock Says AI Will Need BTC](https://www.youtube.com/watch?v=zlEFRiaP3bo)**
+
+BlackRock just dropped a massive new Bitcoin thesis: AI agents will need machine-native financial rails as autonomous ...
+
+📺 Bitcoin News Alerts
+
+👁️ 6K • 👍 318 • 💬 167 • ⏱️ 16:27 • 8h ago
 
 ---
 
