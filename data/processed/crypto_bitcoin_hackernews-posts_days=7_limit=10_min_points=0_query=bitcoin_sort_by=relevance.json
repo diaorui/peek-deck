@@ -115,9 +115,23 @@
       "description": "Top cryptocurrency prices and charts, listed by market capitalization. Free access to current and historic data for Bitcoin and thousands of altcoins.",
       "favicon": "https://coinmarketcap.com/apple-touch-icon.png",
       "site_name": "CoinMarketCap"
+    },
+    {
+      "title": "Bitflix \u2013 MCP Apps Example Application for Video",
+      "url": "https://github.com/bitmovin/bitflix-mcp-apps-example",
+      "hn_url": "https://news.ycombinator.com/item?id=49827250",
+      "author": "tosh",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-09-24T07:07:37Z",
+      "object_id": "49827250",
+      "image": "https://opengraph.githubassets.com/53e156d18e853ea9168facc66343fb1687d0ae51427dfed939b01671343dc1d0/bitmovin/bitflix-mcp-apps-example",
+      "description": "Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2026-09-24T03:30:05.903788+00:00"
+  "fetched_at": "2026-09-24T08:42:55.369212+00:00"
 }
