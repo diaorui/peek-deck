@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI\u2019s A.I. Tried Breaching 4 Other Targets, Without Prompting",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "pub_date": 1790216932.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-      "image": null,
-      "description": null
+      "headline": "Australia launches urgent review after OpenAI program hacks government health portal",
+      "source": "bbc.com",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85Y3N0QjhfNEVoRFZvN3Y5TlplSWhzdno0Q0YwSDhad2ZfaXhTbFdhTktTVzlhSW5HaWd6YmtUWm5kSHpwbDdNU1ZqNU92VkltdmxZQlVR?oc=5",
+      "pub_date": 1790236929.0,
+      "article_url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "image": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+      "description": "Experts believe it's the world's first known AI breach of a government system."
     },
     {
       "headline": "\u2018Extreme concern\u2019 over first known AI hack of a government system",
@@ -25,57 +25,27 @@
       "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
     },
     {
-      "headline": "Australia says OpenAI agent hacked Medicare portal",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2RidlRlTElSSHh0MHVjbDFXZ2J2V0tJbjdtbGVJT09EM3JRVG5yMUtKN1RoZG9pcXNyd3ByYnJLSXhsRDIyeEJOVlRQMkstT2lnQnJ1UWJ1V2QwZXJmOHpVNEJ2aWlFMEZyWVRhT1RJWGJ5R3FVT1c1dmo5VlpuUDllVkxDQWp5bjRmampQYWNoU2N0YnfSAZsBQVVfeXFMUFRSTGtUVnlVR00zQkhLOGZKTTVRRE1IZ2hzQUUtM0REX0xaOThETThCTUxUZENEQVZmWXoxanlBMFVqWEdybmwtUUlheTRKYzJHOFlVNVFDdHBvdGRKSFpzejVjRjVXZUJkMTg1WUtFTmFGNzFCVXJkUVBsUHNqT0o2Vjl1MzZoZkZ6dm1Id0tyNi1tZ3c3VE90T0k?oc=5",
-      "pub_date": 1790217488.0,
-      "article_url": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20260922__C9363FE__v1__HighRes__SpeechesByHeadsOfStateAndGovernmentAtUnGeneralA-1790203629.jpg?resize=1920%2C1440",
-      "description": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach."
-    },
-    {
-      "headline": "At UN, tech chiefs urge caution in AI development",
+      "headline": "\u2018Unintentional\u2019 OpenAI data hack prompts calls to toughen Australian AI laws",
       "source": "Yahoo",
       "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU5hc3l2YkY1LTNySVZVcTBkQnNoWDIyVXRyMFpPSFF6YklnT1QwQlNkSjZSd184MGhacEN4bTFxXzBNX0dBY1N5ZklOeXRtekFMLTltVDlPU2tZSGhKb0ZSUkZlamU4STliaG9yeHA5V1RuLXlsbXlSMkRINGppZVJoTFJMamZwZ1MwSlhOYzFLUQ?oc=5",
-      "pub_date": 1790199440.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/un-openais-altman-calls-extreme-193250451.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4e443a8b34565d8a723231e247f71d7b4e481aad3bbe916312a73037923cbf7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F52784a57b9f89ce9957a9fd555c534a5.jpg",
-      "description": "Leaders of major AI firms told the UN Security Council on Wednesday that the technology calls for heightened vigilance, with Anthropic's CEO pledging to slow down where needed to ensure the safety of ..."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1FieGs2bHp6MTl0UXMtMHBOanJtYUpwQTNzQjU4Z2JLOUJiVUdmNTREb05VcDFvZXFIWFhIQTU0MVpmcllSUWROQWhTd3I0VW9xQV9sQWZlZURmS1lVSXdoQUtxZjJ6ZXozTS1wZmstNHhHRHduZG5EWTZtUEhtdFVBaUVPX1JEc3VfOGNpNTN4SnNSTVU0aTNHdXJmV0E?oc=5",
+      "pub_date": 1790236915.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/unintentional-openai-data-hack-prompts-080155095.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/f46611defb7098cb3821a757dc7a0fa4a43a967bb352ed66b5a97b1c1e0f2aef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F4be7e63b110254d28a282c33aa8a1753.jpg",
+      "description": "Data breach prompts concerns laws have not kept pace with artificial intelligence"
     },
     {
-      "headline": "AI leaders warn UN of security risks as systems grow more powerful",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5",
-      "pub_date": 1790157900.0,
-      "article_url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
+      "headline": "Meta Debuts Dedicated \u2018Charm\u2019 Device for Using Muse AI",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMThMd2ZURlVmOTRpS0dzNmNSSFVfZ1dzNDZrd19YTUprcTA5dHM3NkFRekJsemdBd2hmak9INnpYSWlncXRVd1VpVkM0TnQ4OXFET3Jpb2xxd054cVJWLUt4WFlQSmxYTU5VdEJXbEhHbzRILTRuQUY1LWtKMmZwRF9VdzZCRUN4UVpoZmtBMF92dWRCUm5Pbkt5OHlnNXpQeHpzcWpkZWU2QngxNWJMWWNMS2pCd1BqeXZXYno4cms?oc=5",
+      "pub_date": 1790207848.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go",
       "image": null,
       "description": null
     },
     {
-      "headline": "Anthropic CEO says AI could cure most major diseases within next decade",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0twcDJSMXo1OEVlVUVMMkpTWFhEemcyQ2I0NUU2LVdOU0c3TlpWbmZIcFJjRGg3Qk9IeGNlXy10RDYzRXAwWTQwa0hrd1pMRTZuV0pFdUliVWVRZUVINlk4MlpSRjZ4VVpFSTNYSk9PcVprZmhfU1RZVGVsWm5RTEdhaUlKMGxQNERGOEp2dndPc0hkYXc0MUxJT2IzRk9SRWVXV1Fyd2FnZkVOQkNj0gG0AUFVX3lxTFAtd0tkZUEzdjBKVG1Obm5CRnZpUFJ4Qy1rN0V2VDJYNEJUM0tFenNfLVhyWkJaOEU2OXdYS1J2YnpMTkdvVGI4c2ZyUDlRbmViVTFGUmpCM3lhLU1uSFEyZ0tQOU9XYWpLQXFxNnBKWThwMTlGQXRIdkhPaXhXa0pfRmVwdGRBNHlJbHhnVVlUOFJDMHlzV1lqeURMWktOYW8tZ2tOM0g0M1VHd21IbGNCMXBfeQ?oc=5",
-      "pub_date": 1790213820.0,
-      "article_url": "https://www.foxbusiness.com/technology/anthropic-ceo-says-ai-could-cure-most-major-diseases-within-next-decade",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/dario-amodei-anthropic-june-2026.jpg?ve=1&tl=1",
-      "description": "Anthropic CEO Dario Amodei predicts AI could help cure most diseases in five to 10 years after Claude discovers a potential new gene editing mechanism."
-    },
-    {
-      "headline": "Why AI models hallucinate and which models get it wrong most",
-      "source": "kare11.com",
-      "source_url": "https://www.kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdVpYaEdJZmVmMlNzbEFWLTd2YXBISTlzclppVVFuQ0xmRnpWSHZQYXJINklmVVNuZWUxQkZ3NXV5T3dMM1YteTJCTGRFd1RQcVRlVzZJNzg1djdyYVhMZWNrdHpCaF83ejdrazNnNXQyeEYtMklEak5YVW9ZWVFCQ3hDSVNNaFNTR2VLWU9YaXZUcVlVMXhnbXk5Q2VmZDBjWXAzQlZnWl8zRmNJWWtPMlUyb2d4X2cwaTZTX2R2TXQwQnl1Q0pHNnVhamhYbXUybHV4N1dYQk9Yd3R2UlJHVE12S0lWOFE?oc=5",
-      "pub_date": 1790218320.0,
-      "article_url": "https://www.kare11.com/article/news/local/kare11-extras/why-ai-models-hallucinate-which-models-get-it-wrong-most/89-5040d48c-3f55-4959-9d70-bb668374bdd7",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+      "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4zZGJhTHNYbjFqTkFSQzctWEVRb1E0ZUZJVGVfZEdJSUpaSS1vOEpKdU9lenBqWGJUSEJ0eWhDS3lRTGZXelgyTkVjWlpxcTNZQnhVUDltWXh4RkE5VVlFNEMyc0N6dktNaEduUEN0ZzhPZUVjanY1UGszaTNTcVBOMHNIUUpaLUHSAY8BQVVfeXFMTXRHVmpoQXdRa2c1MjVscHM5WG5WVHpYa2pJRXphSnI3OVdLdE5lVEs2aGdxVE9uWXVlY1RueVlTU25nUFk4cnFIOG1hZTJ3azlxUVl0RHRoVmE4WXVrT0hBNHg5Y2JETzFRQ0EwenB5MzU5YU8wRzdZRHVtbDJIUUJ1d1lWbzlQVjJfZllGRGc?oc=5",
@@ -85,26 +55,56 @@
       "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents."
     },
     {
-      "headline": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
+      "headline": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWFiaHlvcEVwRkZ3cmRaSmxrbDVNeHdVekJGbENkSUsyWEw0RkdDQU5NX0NWc0J0V25NVTdtZE5TSlVsWVN2RUxPREhqOEtyWV81QzlIRmFiU0QyUXJGeVNRQlpURUFmNzMxQlBwc0phX1hTUG9ZdzBfaXJOZGl6dHBmOEFJajZFUHhB?oc=5",
-      "pub_date": 1790208988.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94MEh4Uk1LU3pMcTJtU2Jlc1hTMVVjd05Wcy1PdWxXNm5MWS1vS1hUeEM5bWd4V21ReXNqVHpXeVF0VjRjcDk4T3IyVkU1Uk5Mb1RSenlUZFdMSXMtNFQzNlpyc2doeHdwZzVQNDhoNGppYnJydVprZQ?oc=5",
+      "pub_date": 1790092503.0,
+      "article_url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meta says its Muse AI agent can do things for you. I put it to the test",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1d2pXQ0xIV2JweTRtV3ZVZ2dqa3RxaXVreFBwTUNTeGhkNXJsSFFsRG5KVGlqWUJYMURfbjgwa1NKcU4wb3pSSElwa0dRb3prV0RjMDRtb0FlVkk5U3NkaFc0T0Y?oc=5",
-      "pub_date": 1790161229.0,
-      "article_url": "https://www.cnn.com/2026/09/23/tech/meta-muse-ai-agent",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2296543533.jpg?c=16x9&q=w_800,c_fill",
-      "description": "It\u2019s been a busy afternoon for Pip, the AI agent I\u2019ve been using in Meta\u2019s Muse app."
+      "headline": "Physical AI Is Already On The Road. Your Operations Are Next.",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWhMRWdEdENuU0FESTA4cmtVOTZyTUg2UUhJcHQ3dFN1ak1HaWZmaHFHWFVhMkNkVkRldWlBRVg2alEyaDF0UHlJMXNpdDAxM1R1dHNxeEJPVUFjZXJKYWxJT1hJWDhGUzJndzBmdG52NmZILVdxM2ozSmtUZzdTYkdCbHJVaWQ0aU85Z0plZzJkV0dSSjUzSlRVWTlaME5TaG5tUkJrelFSU25kc1R6Z2k3eGRmNXdC?oc=5",
+      "pub_date": 1790238841.0,
+      "article_url": "https://www.forbes.com/sites/sanjaysrivastava/2026/09/24/physical-ai-is-already-on-the-road-your-operations-are-next/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Wisconsin professor caught 60 AI essays with hidden prompts, now he's dropping writing assignments",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTExGYVotNFFyZ1hOckktVTFfSVhLUm1GRG9BNUZhbUNKYVZNdjBnbUI1azBLdHhPWlJ1WU54OEdlSnFIVVZ1SXZmX3FoaDJ5UXpNM01GUER3bDFaWnE3OFp6clN3ZzBGQ291OTA5LWtuQVk1T1dVdG9XTFdtM1FSYWhTc1BwNHJuR0FSV09vWQ?oc=5",
+      "pub_date": 1790234880.0,
+      "article_url": "https://www.yahoo.com/news/us/articles/wisconsin-professor-caught-60-ai-072800850.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c2ffaf4187e75979b1020428b132edaaca53f3b6f82ca8170045b4cd98179d49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F40c672ae61247f47607e1c3290166452.jpg",
+      "description": "\"It breaks my heart, because writing is one of the best ways to learn something.\""
+    },
+    {
+      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
+      "pub_date": 1790222400.0,
+      "article_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
+      "description": "The year\u2019s most popular slang reveals what young people think about artificial intelligence \u2013 and it\u2019s not positive"
+    },
+    {
+      "headline": "Gemini 3.8 text-to-speech says hello",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5",
+      "pub_date": 1790177260.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard__light.width-1300.png",
+      "description": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T03:30:37.820005+00:00"
+  "fetched_at": "2026-09-24T08:43:20.947263+00:00"
 }
