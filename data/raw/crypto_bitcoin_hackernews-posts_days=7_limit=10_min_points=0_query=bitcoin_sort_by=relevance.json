@@ -47,20 +47,6 @@
       "site_name": "satsie.dev"
     },
     {
-      "title": "\u1e3cava AI Bitcoin Talk Article",
-      "url": "https://bitcointalk.org/index.php?topic=5594370",
-      "hn_url": "https://news.ycombinator.com/item?id=49735846",
-      "author": "JahRastafari89",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2026-09-17T02:47:20Z",
-      "object_id": "49735846",
-      "image": null,
-      "description": "\u1e3cava AI : Proof of Content",
-      "favicon": "https://bitcointalk.org/favicon.ico",
-      "site_name": "bitcointalk.org"
-    },
-    {
       "title": "Is startpage.com mining Bitcoin when you open it?",
       "url": "https://news.ycombinator.com/item?id=49766055",
       "hn_url": "https://news.ycombinator.com/item?id=49766055",
@@ -131,7 +117,7 @@
       "site_name": "CoinMarketCap"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2026-09-23T23:52:09.537311+00:00"
+  "fetched_at": "2026-09-24T03:30:05.903788+00:00"
 }
