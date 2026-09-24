@@ -9,8 +9,8 @@
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
       "hn_url": "https://news.ycombinator.com/item?id=49806430",
       "author": "devonnull",
-      "points": 896,
-      "num_comments": 504,
+      "points": 908,
+      "num_comments": 515,
       "created_at": "2026-09-22T19:03:38Z",
       "object_id": "49806430",
       "image": null,
@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=49799965",
       "author": "dimonomid",
       "points": 383,
-      "num_comments": 542,
+      "num_comments": 543,
       "created_at": "2026-09-22T12:11:09Z",
       "object_id": "49799965",
       "image": "https://alexn.org/assets/logo/800px-bordered.png",
@@ -38,13 +38,41 @@
       "hn_url": "https://news.ycombinator.com/item?id=49792067",
       "author": "julian_digital",
       "points": 313,
-      "num_comments": 402,
+      "num_comments": 405,
       "created_at": "2026-09-21T19:23:33Z",
       "object_id": "49792067",
       "image": "https://webassets.linear.app/images/ornj730p/production/eba763cf034ad5e7b5d75ceec7ba560dd2aea5cb-2400x1350.png?q=95&auto=format&dpr=2",
       "description": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.",
       "favicon": "https://linear.app/static/apple-touch-icon.png?v=2",
       "site_name": "linear.app"
+    },
+    {
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "hn_url": "https://news.ycombinator.com/item?id=49824686",
+      "author": "nmeagent",
+      "points": 285,
+      "num_comments": 285,
+      "created_at": "2026-09-24T00:41:31Z",
+      "object_id": "49824686",
+      "image": "https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg",
+      "description": "Trump admin sees China behind opposition to AI data centers",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!7mlT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7c9d5d3-34ca-4155-b06e-5d50f6a012cb%2Fapple-touch-icon-57x57.png",
+      "site_name": "kenklippenstein.com"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "hn_url": "https://news.ycombinator.com/item?id=49787535",
+      "author": "ano-ther",
+      "points": 238,
+      "num_comments": 121,
+      "created_at": "2026-09-21T14:10:49Z",
+      "object_id": "49787535",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "reddit.com"
     },
     {
       "title": "US halts flights at busy East Coast airports, says fiber line cut",
@@ -59,20 +87,6 @@
       "description": null,
       "favicon": null,
       "site_name": "reuters.com"
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "hn_url": "https://news.ycombinator.com/item?id=49787535",
-      "author": "ano-ther",
-      "points": 237,
-      "num_comments": 121,
-      "created_at": "2026-09-21T14:10:49Z",
-      "object_id": "49787535",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "reddit.com"
     },
     {
       "title": "Frontier AI on Your Own Hardware",
@@ -93,8 +107,8 @@
       "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
       "hn_url": "https://news.ycombinator.com/item?id=49815982",
       "author": "ltononro",
-      "points": 174,
-      "num_comments": 108,
+      "points": 178,
+      "num_comments": 111,
       "created_at": "2026-09-23T13:38:00Z",
       "object_id": "49815982",
       "image": "https://stripe.dev/dev_social.jpeg",
@@ -103,26 +117,12 @@
       "site_name": "stripe.dev"
     },
     {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "hn_url": "https://news.ycombinator.com/item?id=49783062",
-      "author": "1vuio0pswjnm7",
-      "points": 156,
-      "num_comments": 88,
-      "created_at": "2026-09-21T04:28:44Z",
-      "object_id": "49783062",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55ab023f-71c0-4ffb-8eaa-9befa8dc11b8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "site_name": "ft.com"
-    },
-    {
       "title": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
       "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "hn_url": "https://news.ycombinator.com/item?id=49789982",
       "author": "simianwords",
       "points": 151,
-      "num_comments": 159,
+      "num_comments": 161,
       "created_at": "2026-09-21T17:00:23Z",
       "object_id": "49789982",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "paulbakker.io"
     }
   ],
-  "total_hits": 700,
+  "total_hits": 703,
   "has_metadata": true,
-  "fetched_at": "2026-09-24T03:30:04.573505+00:00"
+  "fetched_at": "2026-09-24T08:42:53.642809+00:00"
 }
