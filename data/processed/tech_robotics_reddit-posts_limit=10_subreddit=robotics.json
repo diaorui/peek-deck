@@ -2,115 +2,115 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "My toxic trooper",
-      "author": "Aira_Solutions",
-      "url": "https://www.reddit.com/r/robotics/comments/1wn0d8s/my_toxic_trooper/",
-      "published": 1790054054.0,
-      "thumbnail": "https://external-preview.redd.it/ZnVqdm8xcjk5MHJoMWRQERGuh54uEcimS0vwKzOoflqxA-CwzM3ZrbSM_-EX.png?width=640&crop=smart&auto=webp&s=6000bffd54fef105b1b35cc6e5a133edfb21d4aa",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is and old video of my droid trooper robot, he doesn't like to be bothered... The body is based over a MIP robot, which I hacked and reconverted into a \"storm trooper\""
-    },
-    {
-      "title": "I\u2019m building a physical \u201cvideo game\u201d using real robots instead of simulated ones",
-      "author": "Mysterious-Cress-380",
-      "url": "https://www.reddit.com/r/robotics/comments/1wn30nv/im_building_a_physical_video_game_using_real/",
-      "published": 1790063200.0,
-      "thumbnail": "https://external-preview.redd.it/Ympkajd2cmd6MHJoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=619e103da26c76db81dabcf916da22d590b9df09",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This started as a small experiment: could I build a \u201cvideo game\u201d where nothing is simulated? So I built two physical rovers, put cameras on them, and started building a small robotic base around them. The rovers can be controlled remotely through a browser. They can pick up physical cargo modules, navigate around the base, dock themselves for charging and interact with different stations. Everything in the video is happening physically in real time. It\u2019s still very much a prototype and there are plenty of things that don\u2019t work perfectly yet. I\u2019ve mostly tested it myself and with my kids, so I\u2019m curious what people here think about the concept. I\u2019m especially interested in the robotics side \u2014 remote control, autonomous navigation, docking and making physical objects part of the gameplay. Would you actually find something like this interesting to control remotely? And what would you add to the base next? EX-MULE.com"
-    },
-    {
-      "title": "We built a 56cm Microduck. It\u2019s not so micro anymore.",
-      "author": "D1n0saurMecha",
-      "url": "https://www.reddit.com/r/robotics/comments/1wn7m45/we_built_a_56cm_microduck_its_not_so_micro_anymore/",
-      "published": 1790078666.0,
-      "thumbnail": "https://external-preview.redd.it/cWN4OGtqNDA3MnJoMf9Sac8wkFft9Y2zmSQ0M-9sxpgO80EBThFCIUd5NOz2.png?width=640&crop=smart&auto=webp&s=d99482c05f1289bc59fad9e78959685abdb2f0c6",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019ve been building a larger version of Microduck, and we\u2019ve finally got it walking. We call it XDuck. XDuck is a bipedal robot standing about 56.8 cm tall and weighing 10.352 kg. Not so micro anymore. At this size, it\u2019s starting to look a bit like Disney\u2019s BDX droids. Right now, we\u2019re working on policy-based locomotion. This video shows our first walking results. Next up is getting it to squat down and stand back up. The biggest issue at the moment is structural strength. Our current 3D-printed parts are struggling with the robot\u2019s weight, so we\u2019re looking into different materials and ways to redesign the load-bearing structure. If you\u2019ve worked on similarly sized bipeds or embodied AI hardware, we\u2019d love to compare notes. What materials or structural changes helped most with strength and reliability? We\u2019re also still figuring out XDuck\u2019s appearance, so ideas for the design are welcome."
-    },
-    {
-      "title": "Can anyone guide me on how to start with robotics",
-      "author": "Historical-Self-262",
-      "url": "https://www.reddit.com/r/robotics/comments/1wn4jq5/can_anyone_guide_me_on_how_to_start_with_robotics/",
-      "published": 1790068825.0,
+      "title": "A duck project built with an Uno Q and Feetech servos\u2014what do you guys think?",
+      "author": "BencyLiu",
+      "url": "https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/",
+      "published": 1790256537.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "My goal is to build a humanoid robot. All the resources online are scattered. Someone is telling to learn kynamtics and maths first and someone is saying start with electric soldering. Can someone please tell me where I should start from"
+      "description": null
     },
     {
-      "title": "Hyundai Launches Training Facility for Boston Dynamics' Humanoid",
+      "title": "Real-Time Object Detection on ESP32-S3 with ESP-VISION",
+      "author": "Vearts",
+      "url": "https://www.reddit.com/r/robotics/comments/1woxe7a/realtime_object_detection_on_esp32s3_with/",
+      "published": 1790243572.0,
+      "thumbnail": "https://preview.redd.it/r0q6kgc5xfrh1.gif?frame=1&width=140&height=78&auto=webp&s=e1012b2544a65b1db7b951ad1fecba693dc4473e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed \u2192 on-device AI inference \u2192 real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!"
+    },
+    {
+      "title": "Anyone interested in humanoid robot simulation & mechanical design?",
+      "author": "Cubemars",
+      "url": "https://www.reddit.com/r/robotics/comments/1wooh90/anyone_interested_in_humanoid_robot_simulation/",
+      "published": 1790213698.0,
+      "thumbnail": "https://preview.redd.it/f1v69alfgdrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=262b0c80db82406af4ddbb10d2eeb877d06e77a7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It\u2019ll be a 1-hour session, and we\u2019ll have WATO joining us to share their experience designing and building humanoid robots. There\u2019ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e"
+    },
+    {
+      "title": "\u00c9loi Neck Testing \u2014 3 DOF Alpha",
+      "author": "Remarkable_Volume122",
+      "url": "https://www.reddit.com/r/robotics/comments/1woy60o/\u00e9loi_neck_testing_3_dof_alpha/",
+      "published": 1790246283.0,
+      "thumbnail": "https://external-preview.redd.it/eGQzaXdnbnYzZ3JoMT-t37Oh1rGnckhK5mXXKfTQ3WV_PEU7S-b7xcDN9lKU.png?width=640&crop=smart&auto=webp&s=7e6b23dec5216382dc76d215913280bf15fe2ffd",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve been playing hide and seek with \u00c9loi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn\u2019t simply tracking a target. It\u2019s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we\u2019re currently spending a lot of time on. Animotion Robotics"
+    },
+    {
+      "title": "Tendon-Driven Robot Hand\"High degree of freedom and fast operation",
+      "author": "xAttilaTheBunx",
+      "url": "https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/",
+      "published": 1790149693.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Free Livestream for ROSCon Global 2026 in Toronto",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/",
+      "published": 1790254606.0,
+      "thumbnail": null,
+      "external_url": "https://roscon.ros.org/2026/#livestream",
+      "site_name": "roscon.ros.org",
+      "favicon": "https://roscon.ros.org/favicon.ico",
+      "description": null
+    },
+    {
+      "title": "Staubli ts2",
+      "author": "dir_007",
+      "url": "https://www.reddit.com/r/robotics/comments/1wowb28/staubli_ts2/",
+      "published": 1790239365.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, quick question for anyone working with St\u00e4ubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!"
+    },
+    {
+      "title": "News: Google Instrinsic Physical ai/Robotics OS being released publicly",
+      "author": "Ms_Ayaaa25",
+      "url": "https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/",
+      "published": 1790237836.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "NIST is putting more than $30M into helping smaller U.S. manufacturers adopt robotics and automation",
       "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1wmfi6h/hyundai_launches_training_facility_for_boston/",
-      "published": 1790003385.0,
-      "thumbnail": null,
-      "external_url": "https://www.automate.org/ai/industry-insights/boston-dynamics-opens-georgia-facility-to-train-atlas-for-auto-factory-work",
+      "url": "https://www.reddit.com/r/robotics/comments/1woclmt/nist_is_putting_more_than_30m_into_helping/",
+      "published": 1790184851.0,
+      "thumbnail": "https://external-preview.redd.it/D3Aj6fHK-e3YUW7xwJLz9CAcKCzdTcL0lKvdGb5LAog.jpeg?width=640&crop=smart&auto=webp&s=699f3f4dc415d849caa54a548159792ea116ef3b",
+      "external_url": "https://www.automate.org/robotics/industry-insights/washington-is-putting-30-million-into-the-automation-adoption-problem",
       "site_name": "Automate",
       "favicon": "https://www.automate.org/favicon.ico",
-      "description": "Boston Dynamics has opened a new facility in Savannah, Georgia focused on preparing Atlas humanoid robots for automotive manufacturing. The Robotics Metaplant Application Center is located inside Hyundai Motor Group Metaplant America and will be used to test and train Atlas on tasks including parts logistics, sequencing and placement. The idea is to train the robots in a factory-like environment without disrupting active production lines. More tasks are expected to be added as the systems improve. Boston Dynamics says Hyundai and Kia plants are expected to receive 25,000 Atlas robots over the next few years. The company is also planning a U.S. production facility with a target capacity of more than 30,000 robots per year by 2028."
+      "description": "NIST has awarded more than $30 million to 12 Manufacturing Extension Partnership centers across 11 states and Puerto Rico. The funding is intended to help small and medium-sized manufacturers adopt technologies including robotics, automation, AI and additive manufacturing. The centers will provide technical assistance around identifying applications, selecting technology, integration, workforce training and measuring results. NIST is also requiring the centers to develop common metrics for technology adoption, which could provide better data on whether pilot projects actually turn into broader deployments. The initial awards cover the first year of agreements that can run for up to five years."
     },
     {
-      "title": "Metalhead Dog building progress",
-      "author": "bluecrabfrommars",
-      "url": "https://www.reddit.com/r/robotics/comments/1wmv84i/metalhead_dog_building_progress/",
-      "published": 1790039035.0,
-      "thumbnail": null,
-      "external_url": "https://youtube.com/shorts/PNJXKoKQEc8?is=09vv1kkaysWdJ1rg",
-      "site_name": "YouTube",
-      "favicon": "https://www.youtube.com/s/desktop/eb4a42b9/img/favicon.ico",
-      "description": "Im building this robot for about 7 years. Just sharing some progress. I 3D modeled all the parts and I hope to finish the project before the end of the year."
-    },
-    {
-      "title": "Servo Motor finger mechanism",
-      "author": "DisastrousHedgehog5",
-      "url": "https://www.reddit.com/r/robotics/comments/1wlw0sr/servo_motor_finger_mechanism/",
-      "published": 1789946091.0,
-      "thumbnail": "https://external-preview.redd.it/Mzk4ejBxZG9jcnFoMXt3ScPKnRTewjUz9MXf321f6HfiEayrlxUX2nTFEWX9.jpeg?width=320&crop=smart&auto=webp&s=f1012ffc125da2fe4a5d25a546b10f4ab7fd6115",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Link \ud83d\udd17 https://cults3d.com/fr/mod%C3%A8le-3d/gadget/servo-motor-finger-mechanism Full hand kit soon inchaAllah Servo Motor finger mechanism"
-    },
-    {
-      "title": "Does AskUI work on Linux? Trying to automate testing on our robot's Ubuntu operator UI",
-      "author": "lazy_Principle__",
-      "url": "https://www.reddit.com/r/robotics/comments/1wmwuyv/does_askui_work_on_linux_trying_to_automate/",
-      "published": 1790043527.0,
+      "title": "Empirical results fine-tuning \u03c00.5 on a real manufacturing task",
+      "author": "crispin97",
+      "url": "https://www.reddit.com/r/robotics/comments/1wofarw/empirical_results_finetuning_\u03c005_on_a_real/",
+      "published": 1790190811.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We have an operator UI on Ubuntu, the screen techs use to calibrate and run the cell. every release someone clicks through the whole thing by hand before it goes near a customer site. Slow, and it's always the thing that gets squeezed. I've been reading the AskUI docs because writing tests as plain steps instead of scripts fits a team where the people who know the robot best aren't the ones who write code. Their runtime, AgentOS, lists Ubuntu 18.04 or newer. But the Desktop app you write tests in is Windows and macOS only, and the standalone AgentOS installer still says coming soon, so I can't tell how you're meant to get it onto the Ubuntu box today. Their remote computer setup seems to assume it's already there. The part that caught my eye is companion mode, where the runtime sits on a separate device like a Pi and drives the target over USB HID and HDMI capture. For a machine that's part of the robot, I'd honestly rather install nothing at all. Anyone running UI tests against a Linux operator UI, with this or anything else? What did you end up with?"
-    },
-    {
-      "title": "Designing my own adaptive gripper for a robotic arm in Siemens NX, looking for advice and measurements",
-      "author": "Apart-Librarian7925",
-      "url": "https://www.reddit.com/r/robotics/comments/1wmbbtn/designing_my_own_adaptive_gripper_for_a_robotic/",
-      "published": 1789993562.0,
-      "thumbnail": "https://preview.redd.it/uwuk79bv9vqh1.jpeg?width=640&crop=smart&auto=webp&s=f236d2c86fff65d09ae9f7e60ba47533263c6730",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, I'm building a robotic arm and I'm currently working on the gripper. I want to use an adaptive gripper (one that conforms to the shape of the object), but most of the designs I've found online aren't great, so I've decided to design my own. I recently came across a design on Instagram that looks exactly like what I'm going for, but I can't find it anywhere to buy or download. I'm designing it in Siemens NX and I'll be using a Feetech STS3215 servo to drive it. Does anyone have tips, reference designs or measurements for this kind of gripper? Thanks in advance!"
-    },
-    {
-      "title": "My goalkeeper bot",
-      "author": "Gabomfim",
-      "url": "https://www.reddit.com/r/robotics/comments/1wmbk4e/my_goalkeeper_bot/",
-      "published": 1789994159.0,
-      "thumbnail": "https://external-preview.redd.it/MHZuY3BoMG5idnFoMTc56q5Xs297wBLSWTAAgfhfC_Qc_ilR71fU4c5O81-J.jpeg?width=640&crop=smart&auto=webp&s=9a5a8076ba5661ab0ebe3f6b05f5834c3f96a520",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Before and after training"
+      "description": "We spent two months doing experiments fine-tuning Physical Intelligence's pi05 model on an unboxing task from a German manufacturer. We conducted 11 ablations and shared all of our results, learnings and data in this blog post. Main learnings: 1/ 5x more data took us from 63% to 76%. Pure scaling was the weakest lever we found. 2/ Diversity got more out of the same hours. 4h spread across five scenes beat 4h in the eval scene by 30pp. 3/ Quality did even better. One clean, slower hour on top of the 21h: 76% \u2192 90%. That single hour added more than the 17 hours before it. 4/ So we tried quality on its own: 1h of clean data plus 240 rollouts with human interventions. 1.7h in total, 28% \u2192 88%. That's 12 points above the 21h model with a twelfth of the data. 5/ Inference settings add more on top, with no retraining. They took the 21h model from 76% to 93%, and the 21h+1h model from 90% to 98%. What didn't matter: Learning rate, batch size, relative vs. absolute joints, image augmentation. All less important than we expected. Full blog post: https://dream-machines.eu/blog/pi05-fine-tuning"
     }
   ],
-  "fetched_at": "2026-09-22T12:24:05.857508+00:00"
+  "fetched_at": "2026-09-24T14:04:05.673660+00:00"
 }

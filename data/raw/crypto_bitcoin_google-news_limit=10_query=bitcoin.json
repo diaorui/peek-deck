@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin trades near $85,000 ahead of one of deribit\u2019s largest options expiries of the year",
-      "source": "coindesk.com",
+      "headline": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkhIbURJQ0VQTTA1Z016RFotUWZFZGZKV29Ta3h0YTRtQm5YV3ItV3V1OVJnemJJdTRtcXJJV3F0T1RzSUxrMXdoSnZLLVVLU1cwaDU3cm9JUTZHTjhINFpxSTV0eXNzbTl2aGhlbktnS2RpUUJPb3pocE5PSHowUjRJWWtHVHpFT0xHdGdCUEVuMlJ1OGdlamRQSklaVjV6Wm9HZVZRTHFodWk0OTFPWW1NRGlZeXYyczBXUkhIaWFDUnczN0E?oc=5",
-      "pub_date": 1790168563.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/7f0ab925431da440eea745324cc1338e246897e4-2400x1200.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Nearly $18 billion in bitcoin and ether options will expire on Friday, potentially reshaping dealer hedging flows and short-term volatility."
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTlxVXZ5ZHR3Um00TURFZW9oUjBfb0QyeGhUMlBBQkpndEJyYWJIdVVZTnNpSU5aYU5vTU5QelhiZGg0SlFmbFpMcE1xQTE3V3BXY3Zvamx1NENsOElxYWd6YlNNdnYzSHF0OUhiQ0hUdkM1TVpyaFdna3RPYWROMDhrNnVCV1Rsa0NzUVh3YXdqWXpYRERNT1BEc3h2M1lDUFQ4azl3bV81MWswRXc?oc=5",
+      "pub_date": 1790245828.0,
+      "article_url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ade86ac4fe10ad0fc72325b3f7ed097c7a1aaa2-1920x1080.png?auto=format&q=75",
+      "description": "The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks and crypto lower before Asian and European traders bought the dip."
     },
     {
       "headline": "Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over",
@@ -25,24 +25,44 @@
       "description": "Bitcoin rose above $85,000 on Monday extending a rally over the past few days."
     },
     {
-      "headline": "Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears",
-      "source": "Bloomberg.com",
+      "headline": "Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXpfWFZtT2hvUGM0TDNXbHFmZXJmdnZjLTc5STNfSTJULW0wQUlPallRUjdKajBvX1lLQ0xDa3ZJTzEwbml4NGJtV0lFSDFuOTMzLXd2VmxyaTRjR29lLUNUNGRkUDFYNTUtVV9vQjdFQ205cGowT3F3Z2xFLW5zWThkRTJyWUJmQ3BzRGtJRUlxTm5jTklRcnlnZlowQ1V4c2FlU284RE12WHFTQ0lOa3NR?oc=5",
-      "pub_date": 1790229180.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzJTNlFLOVduQU9HQW5vOFU0bHVCaXo2SlV6VEdPRW9nekhJUEJaVWxVb1p0N0tPWWRyekVKb1hHX3hpYzh1aXJvb2wzZlhRMDNTREpieFVCdEI3RmpucngwaDhsVk1mOWJYdmhOQ2hIZVFWWTdwcGpjakRyZDd2el9HWFozbUQxUmRhVGNUMkh6NTdyNm80UFh6S1pRV2tNV2VfLUdyaDNva1BUVDNnVjNR?oc=5",
+      "pub_date": 1790248297.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto",
       "image": null,
       "description": null
     },
     {
-      "headline": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
-      "source": "Yahoo Finance",
+      "headline": "Kevin O\u2019Leary eyes a $1 million Bitcoin \u2014 why the Shark Tank star says he\u2019s placing his bets on a crypto comeback",
+      "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5",
-      "pub_date": 1790168400.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/589870bfc27e693e861b82e3da17459a73026dbda545722bbcbc1656816e2413/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fa139f5623de7304bb617956d76b8c644.jpg",
-      "description": "Per Saylor, crypto is alive and well."
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEtHaVg4dUFaVnNSRVhQOUJyODlnUXhlWUloTU1Ia2F6dnBMTV9lS1lva2JELVdCQlE0UHY2Q19qU1pYaE9OZEtfc041VGZzLXRRTkRRN1k0ZkZfdkVsWjB1T0hsNklrZ2RJZmpCUFpfa3pza190RnpIZFFzM251R0ZtX0lEa3hhTlY0enJB?oc=5",
+      "pub_date": 1790254800.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/kevin-o-leary-eyes-1-130000378.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/aa22bda26623c8ed2e3ce573d7948404c352ff9804f7aeaddc2eaf6cb00fdb74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F35e4d9865c8ef563b834825906a0d2bd.jpg",
+      "description": "A $1 million Bitcoin isn\u2019t so far-fetched for one Shark Tank celeb. See why Kevin O\u2019Leary is so sure that Bitcoin\u2019s best days have yet to come."
+    },
+    {
+      "headline": "Bitcoin\u2019s $16 Billion Options Expiry: Why BTC Could Face a Wild Week Ahead",
+      "source": "Bitcoin Foundation",
+      "source_url": "https://bitcoinfoundation.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHRybGZmbm5fcWIwZlN3Ui03OEM4ZTJFTzFBZ2NPWkdzUS1IYUxRYTNGZFpWYURaU2Q1VVF3NV9tOWFyMjZFdzBqTmNhamlBVTNvaTNuTXhwVUxLT3Q0Y1E5YjA1c0dSdXoyRHN3ZlVsZU1SZzJKMW5sRWc2VU9ISFQ2OEh6Qm5vU2EyREVIaTQ2NmIzR0pPZjJQbDhLZGtRSzdJRUU0bF9nb1Y4UzBFYk1hYm9SQQ?oc=5",
+      "pub_date": 1790251789.0,
+      "article_url": "https://bitcoinfoundation.org/news/bitcoin/bitcoins-16-billion-options-expiry-why-btc-could-face-a-wild-week-ahead/",
+      "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/BTC1-1790246498.webp",
+      "description": "Find out why the upcoming $16 billion Bitcoin options expiry on Deribit is so vital for the crypto market"
+    },
+    {
+      "headline": "Current price of Bitcoin for September 23, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YNUtGRzRnWnlaVktScjB6d0FzM3paU2N2QjdaRVJ3YldfQnZNZXZPWm5McWk0QzdkWkVlZGdRaHptRFRON0VVSmV2ek1ocXhIYW82MkhyLTYwRi1wU09WaGRPQzdORms?oc=5",
+      "pub_date": 1790172000.0,
+      "article_url": "https://fortune.com/article/price-of-bitcoin-09-23-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Bitcoin-Sep-23.jpg?resize=1200,600",
+      "description": "Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman."
     },
     {
       "headline": "BlackRock Issues \u2018Extraordinary\u2019 Crypto Prediction As The Bitcoin Price Suddenly Soars",
@@ -65,36 +85,6 @@
       "description": "Austrian banking group Raiffeisen is rolling out bitcoin trading for its 18 million customers."
     },
     {
-      "headline": "Crypto ETFs Are Surging, but Bitcoin & Ether Aren\u2019t the Big Winners",
-      "source": "ETF.com",
-      "source_url": "https://www.etf.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW44a0kzanF0MEQ1SWVPUEQ1WXY2SkVfRHA2dEh3VTNKX0lxZVhmQ0JPWjJfYzBIVFhzblRmOElma2FyTGtRNkpGaVktUFhHaHVJbEhod0R5ek1QRnFlZWhpTjdYT1ZsNDlHWl9aTnV2SDJzMXMyS2pIUnZQaGlBU1dadzVvcjBZTjhkQTdtTVpkVTV5WGZGOA?oc=5",
-      "pub_date": 1790105997.0,
-      "article_url": "https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks",
-      "source": "MLive.com",
-      "source_url": "https://www.mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDZENWJnUDlZdDQzSlF4SHdrb09oN0YwTnpQWENxZmhXSWR1TWNvZjVzSkNNLXhTMjZCUjRJYkt4X0g5aEJfbl9yYUVuQk5UeXFtR2lJbDY4UkozMTlWcmFzZDY2Z0ctcGhBbEVlVEtPbF9sS3dOR0ZlNE9BbWJmV0VLZWF4OVFzV0dReWhmRHNxRTZVWlJsYm52NzdzeTQ?oc=5",
-      "pub_date": 1790165400.0,
-      "article_url": "https://www.mlive.com/news/2026/09/a-bitcoin-atm-ban-why-jackson-is-prohibiting-crypto-kiosks.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5",
-      "pub_date": 1790077923.0,
-      "article_url": "https://www.foxbusiness.com/video/6405405839112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/24a5c49f-0428-46b2-9752-bdf541f1b314/bbc40954-95f2-4468-b466-8d011ebc3ab8/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease."
-    },
-    {
       "headline": "Simple Mining seeks to host bitcoin center in Madison",
       "source": "KELOLAND.com",
       "source_url": "https://www.keloland.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.keloland.com/keloland-com-original/simple-mining-seeks-to-host-bitcoin-center-in-madison/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Crypto ETFs Are Surging, but Bitcoin & Ether Aren\u2019t the Big Winners",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW44a0kzanF0MEQ1SWVPUEQ1WXY2SkVfRHA2dEh3VTNKX0lxZVhmQ0JPWjJfYzBIVFhzblRmOElma2FyTGtRNkpGaVktUFhHaHVJbEhod0R5ek1QRnFlZWhpTjdYT1ZsNDlHWl9aTnV2SDJzMXMyS2pIUnZQaGlBU1dadzVvcjBZTjhkQTdtTVpkVTV5WGZGOA?oc=5",
+      "pub_date": 1790105997.0,
+      "article_url": "https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T08:43:11.528758+00:00"
+  "fetched_at": "2026-09-24T14:04:14.344289+00:00"
 }
