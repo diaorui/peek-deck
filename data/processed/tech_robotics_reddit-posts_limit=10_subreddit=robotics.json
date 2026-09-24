@@ -24,17 +24,6 @@
       "description": "I\u2019ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed \u2192 on-device AI inference \u2192 real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!"
     },
     {
-      "title": "Anyone interested in humanoid robot simulation & mechanical design?",
-      "author": "Cubemars",
-      "url": "https://www.reddit.com/r/robotics/comments/1wooh90/anyone_interested_in_humanoid_robot_simulation/",
-      "published": 1790213698.0,
-      "thumbnail": "https://preview.redd.it/f1v69alfgdrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=262b0c80db82406af4ddbb10d2eeb877d06e77a7",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It\u2019ll be a 1-hour session, and we\u2019ll have WATO joining us to share their experience designing and building humanoid robots. There\u2019ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e"
-    },
-    {
       "title": "\u00c9loi Neck Testing \u2014 3 DOF Alpha",
       "author": "Remarkable_Volume122",
       "url": "https://www.reddit.com/r/robotics/comments/1woy60o/\u00e9loi_neck_testing_3_dof_alpha/",
@@ -46,15 +35,15 @@
       "description": "We\u2019ve been playing hide and seek with \u00c9loi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn\u2019t simply tracking a target. It\u2019s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we\u2019re currently spending a lot of time on. Animotion Robotics"
     },
     {
-      "title": "Tendon-Driven Robot Hand\"High degree of freedom and fast operation",
-      "author": "xAttilaTheBunx",
-      "url": "https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/",
-      "published": 1790149693.0,
-      "thumbnail": null,
+      "title": "Anyone interested in humanoid robot simulation & mechanical design?",
+      "author": "Cubemars",
+      "url": "https://www.reddit.com/r/robotics/comments/1wooh90/anyone_interested_in_humanoid_robot_simulation/",
+      "published": 1790213698.0,
+      "thumbnail": "https://preview.redd.it/f1v69alfgdrh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=262b0c80db82406af4ddbb10d2eeb877d06e77a7",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I\u2019m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It\u2019ll be a 1-hour session, and we\u2019ll have WATO joining us to share their experience designing and building humanoid robots. There\u2019ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e"
     },
     {
       "title": "Free Livestream for ROSCon Global 2026 in Toronto",
@@ -68,15 +57,26 @@
       "description": null
     },
     {
-      "title": "Staubli ts2",
-      "author": "dir_007",
-      "url": "https://www.reddit.com/r/robotics/comments/1wowb28/staubli_ts2/",
-      "published": 1790239365.0,
+      "title": "Action Space Hackathon Update! We are close to our goal thanks to Reddit community",
+      "author": "North_Personality993",
+      "url": "https://www.reddit.com/r/robotics/comments/1wp9dwp/action_space_hackathon_update_we_are_close_to_our/",
+      "published": 1790274107.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, quick question for anyone working with St\u00e4ubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!"
+      "description": "A few people on Reddit suggested setting up a page for funding, so we finally did! We\u2019ve already gotten pretty close to our goal, and we\u2019re really grateful for all the support so far! We\u2019re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I\u2019d post the link in the comments! Our post - Update + thank you! We\u2019re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we\u2019re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We\u2019re still trying! If anyone has any funding/sponsor leads, especially for hardware, we\u2019d really appreciate your help again"
+    },
+    {
+      "title": "Using frontier models across the whole robot pipeline, from CAD to headless Isaac Lab?",
+      "author": "Legitimate-Room-1905",
+      "url": "https://www.reddit.com/r/robotics/comments/1wp59ek/using_frontier_models_across_the_whole_robot/",
+      "published": 1790264888.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like."
     },
     {
       "title": "News: Google Instrinsic Physical ai/Robotics OS being released publicly",
@@ -90,27 +90,27 @@
       "description": null
     },
     {
-      "title": "NIST is putting more than $30M into helping smaller U.S. manufacturers adopt robotics and automation",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1woclmt/nist_is_putting_more_than_30m_into_helping/",
-      "published": 1790184851.0,
-      "thumbnail": "https://external-preview.redd.it/D3Aj6fHK-e3YUW7xwJLz9CAcKCzdTcL0lKvdGb5LAog.jpeg?width=640&crop=smart&auto=webp&s=699f3f4dc415d849caa54a548159792ea116ef3b",
-      "external_url": "https://www.automate.org/robotics/industry-insights/washington-is-putting-30-million-into-the-automation-adoption-problem",
-      "site_name": "Automate",
-      "favicon": "https://www.automate.org/favicon.ico",
-      "description": "NIST has awarded more than $30 million to 12 Manufacturing Extension Partnership centers across 11 states and Puerto Rico. The funding is intended to help small and medium-sized manufacturers adopt technologies including robotics, automation, AI and additive manufacturing. The centers will provide technical assistance around identifying applications, selecting technology, integration, workforce training and measuring results. NIST is also requiring the centers to develop common metrics for technology adoption, which could provide better data on whether pilot projects actually turn into broader deployments. The initial awards cover the first year of agreements that can run for up to five years."
-    },
-    {
-      "title": "Empirical results fine-tuning \u03c00.5 on a real manufacturing task",
-      "author": "crispin97",
-      "url": "https://www.reddit.com/r/robotics/comments/1wofarw/empirical_results_finetuning_\u03c005_on_a_real/",
-      "published": 1790190811.0,
+      "title": "Tendon-Driven Robot Hand\"High degree of freedom and fast operation",
+      "author": "xAttilaTheBunx",
+      "url": "https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/",
+      "published": 1790149693.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We spent two months doing experiments fine-tuning Physical Intelligence's pi05 model on an unboxing task from a German manufacturer. We conducted 11 ablations and shared all of our results, learnings and data in this blog post. Main learnings: 1/ 5x more data took us from 63% to 76%. Pure scaling was the weakest lever we found. 2/ Diversity got more out of the same hours. 4h spread across five scenes beat 4h in the eval scene by 30pp. 3/ Quality did even better. One clean, slower hour on top of the 21h: 76% \u2192 90%. That single hour added more than the 17 hours before it. 4/ So we tried quality on its own: 1h of clean data plus 240 rollouts with human interventions. 1.7h in total, 28% \u2192 88%. That's 12 points above the 21h model with a twelfth of the data. 5/ Inference settings add more on top, with no retraining. They took the 21h model from 76% to 93%, and the 21h+1h model from 90% to 98%. What didn't matter: Learning rate, batch size, relative vs. absolute joints, image augmentation. All less important than we expected. Full blog post: https://dream-machines.eu/blog/pi05-fine-tuning"
+      "description": null
+    },
+    {
+      "title": "Staubli ts2",
+      "author": "dir_007",
+      "url": "https://www.reddit.com/r/robotics/comments/1wowb28/staubli_ts2/",
+      "published": 1790239365.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, quick question for anyone working with St\u00e4ubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!"
     }
   ],
-  "fetched_at": "2026-09-24T14:04:05.673660+00:00"
+  "fetched_at": "2026-09-24T18:34:28.693655+00:00"
 }

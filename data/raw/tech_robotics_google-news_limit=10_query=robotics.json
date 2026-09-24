@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "What if robots didn't need all their AI onboard?",
+      "source": "Microsoft",
+      "source_url": "https://www.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnpNaGRsVmFjZXZ2Y3czS2I5MHlLSlgtMVB6d0pXY2J1aW94Q3RyRE82WnpIaUdZOU1QMFM0SDdJbzB0a2htSmJFQTZ0VDNWeGJrcXZpREdGRnFHeFF1TTF1TnhJODVkUWlLT1hCbFM3SnRCTlM1cFJFV2tsRDhwdmphVnN2Mmt5MFlUTVVHOVl0TW1GeS12OG5WWFR2ZlA3MDhMOA?oc=5",
+      "pub_date": 1790179296.0,
+      "article_url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-TWLIFB-1200x627-1.jpg",
+      "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
+    },
+    {
       "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -15,64 +25,64 @@
       "description": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework."
     },
     {
-      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "qualcomm.com",
-      "source_url": "https://www.qualcomm.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
-      "pub_date": 1790165026.0,
-      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
-      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
-      "description": null
+      "headline": "Discover Amazon building $100 million robotics plant in Indiana",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlBuT2hXREM0TlJNTDZjVlRGc0NGUm45WkdBVkVHWnFzN25ZMFVvS0dBamdWbWpvVV9xLVF1QmI2VnlYakZhZ0JMdDJSUy11VnJmVXBmdlFMcm02blhLOFNpVEpFTDlwZWtVelJTYlNuOFozUUNRLVJUdW1RZVZyUURnT1VHSnBsLWc0?oc=5",
+      "pub_date": 1790268131.0,
+      "article_url": "https://qz.com/gateway/amazon-robotics-manufacturing-plant-greenwood-indiana-092426",
+      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2195802149-300x200.jpg",
+      "description": "The 585,000-square-foot facility will create 300 jobs averaging nearly $100,000 a year and is expected to open by 2028"
     },
     {
-      "headline": "Qualcomm acquiring robotics software firm PickNik (QCOM:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1VabnhuZ1FhbVRHQVVOc2ZRS1JOMWFlbTV6QUxvOWlWWEhRYnBRMjhZOHlETkdrUjl0OHhsdzJfbTVZYXFocFVlT1dGbHYwcmhfdFBhWG0zZUlVRkZ2c1JpMEhITVBiZlktMXN1Nks3OEhvUVF0N0syb1g3VE5iTGYxLXF1VUllaTA4a1hFOEs?oc=5",
-      "pub_date": 1790163571.0,
-      "article_url": "https://seekingalpha.com/news/4645916-qualcomm-acquiring-robotics-software-firm-picknik",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2246178320/image_2246178320.jpg?io=getty-c-w630",
-      "description": "Qualcomm acquires PickNik to expand physical AI and robotics, integrating MoveIt with Dragonwing and Arduino platforms."
-    },
-    {
-      "headline": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5",
-      "pub_date": 1790078795.0,
-      "article_url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-blog-corp-blog-ROSCon26-1920x1080-1.jpeg",
-      "description": "The latest release brings AI agent capabilities to the ROS developer ecosystem while expanding open source physical AI libraries and deployment across the NVIDIA Jetson platform."
-    },
-    {
-      "headline": "Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVQ4cnhYRk53bzZYeHNoanp4MGhYZG8zTVA2Q040QXYzWjlTUWlRRF94bVRIbEpnRjE1Z05WajFaaUE5TU1HWFhoVVN4Ynh4bEVJamIyR3FCRE5yX25FaGMxSUV1cTVTelh0X29XZlo4VDJXOWdHT29VQUdBRExUTGNRa0lBVzRwdHBjVEFKcmZDMGlVUW5KZl90UG5vbkF3SkJsX0tOQWw?oc=5",
-      "pub_date": 1790254800.0,
-      "article_url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322",
-      "image": null,
-      "description": null
+      "headline": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "source": "spectrum.ieee.org",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nQjZMVHI1QUVOQjBkOVFyMVhSZnNuVUEzbFRGYXVFeVJGc3ZGNnFWbWh1YzRIY3JDQXIwckFUNWotWEFKVjRJYWk1OFctS3UyUzlwM1kwLUl0MkFLVE9nTW5tQ3JsUVZpeWszYw?oc=5",
+      "pub_date": 1790272940.0,
+      "article_url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "image": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "description": "Project brings hands-on robotics lessons to high-school students"
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
-      "pub_date": 1790247607.0,
+      "pub_date": 1790247608.0,
       "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
       "image": null,
       "description": null
     },
     {
       "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
       "pub_date": 1790234955.0,
       "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
       "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
       "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Toyota orders workers to train humanoid robots but says humans won\u2019t be replaced",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhxNGxjcU5OeWFVNTRHRVNPZDQ5d0pBYnFDXzBVM3BvbDM4dE1rUDFvUmNZZnB1QUNFZndzQzY2Y0JMajRJYnVrTmFvQmxvX1l4TXJkX3JmY1B3RUFKNDRCZG9iZkRYZzN5b3FaN2x2UmxwblRwbEdCZVhwdlNtSmNlTGRWaW1odjdLZmd0cTJGREExMnNROHBOdGtKTFlmd1BYMXREXzcyQlk?oc=5",
+      "pub_date": 1790096776.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Toyota-motor-manufacturing-plant-1152x648.jpg",
+      "description": "Toyota's push comes as automakers race to develop and deploy humanoid robots."
     },
     {
       "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
@@ -85,26 +95,16 @@
       "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
     },
     {
-      "headline": "Emory School of Medicine and Georgia Tech launch new MD/MS dual-degree program in robotics",
-      "source": "Emory News",
-      "source_url": "https://news.emory.edu",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGs0amwxdVF5S2o4UXpDNXo3ZDdPZUp0cjR1dEZHaWdXTVZjS0tLOEk5N3B0bW5Uby04cS1wcjlNeGIwRjdHVEFZcF9JQ2F6alZnOVdVQVVDQ0lSSXphXzNpUExibkk5QVNzRldVNkhnd0s0VzRuZkU0Uk03Z2ZTYUxUWWg3czBjbTB1T21JY0NpNlV0TFAta1ZnbWVhdlR1ZlJDTGV0eXhKOGRUWi1oY1NnMFRsZmlTS21xSFZlbw?oc=5",
-      "pub_date": 1790072337.0,
-      "article_url": "https://news.emory.edu/stories/2026/09/emory-school-medicine-and-georgia-tech-launch-new-mdms-dual-degree-program-robotics",
-      "image": "https://news.emory.edu/sites/emorynews/files/styles/og_image/public/2026-09/Emory-University-School-of-Medicine.jpg?itok=J3VuR86y",
-      "description": "One of the first programs of its kind in the U.S. will train physician-innovators to design, evaluate and lead the development of new healthcare technologies."
-    },
-    {
-      "headline": "Can you lend me a hand? Researchers are developing wearable robotic limbs",
-      "source": "The Conversation",
-      "source_url": "https://theconversation.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmlnZW0xcjBzRFlxXzBLTE5FT2RpSnpXYkcwVlZZZXF1OEstN1dKTkFkNzF0MTE2X01nUzNma1J1MEp0MWVVaGFseXoyZlkxODlCdWtkMnc4eUlJTHFQRENjX2E0REI4LTRHMEp3UkVIZlZ4NzQ4em1uamRDdjNySzE4bEVJNk5XV1hDcjhqNUNvcE9TRnFidnJKWWcwLWg2aUFiQlFselR4VmM?oc=5",
-      "pub_date": 1790175451.0,
-      "article_url": "https://theconversation.com/can-you-lend-me-a-hand-researchers-are-developing-wearable-robotic-limbs-287197",
-      "image": "https://images.theconversation.com/files/760205/original/file-20260916-50-sfzlq4.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C1536%2C768&q=45&auto=format&w=1356&h=668&fit=crop",
-      "description": "Scientists are creating additional robotic arms, legs and thumbs to push the boundaries of what can be achieved by the human body."
+      "headline": "Five Million Robots now Operate in Factories Globally",
+      "source": "IFR International Federation of Robotics",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "pub_date": 1790247496.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T14:04:22.662815+00:00"
+  "fetched_at": "2026-09-24T18:34:13.852774+00:00"
 }
