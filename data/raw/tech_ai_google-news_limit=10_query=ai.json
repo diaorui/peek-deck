@@ -15,6 +15,26 @@
       "description": null
     },
     {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52cFhVWm8zb1IteG1tOUhib0VlN05Yd3RrVWI2eFJQcUtUMVRvQ2lhSzNKS0JDSnc2ejVkd2JCMUVOOTJiUVFiZ3dCU0NRV3RxZG03SWpIZXlLemhPbm84YlZOU25VenZrX0M1WDM4YmkzSWhMVmZFTDZCaw?oc=5",
+      "pub_date": 1790279966.0,
+      "article_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
+      "description": "The AI avatar can transition between 97 languages."
+    },
+    {
+      "headline": "Behind Project Suncatcher, our moonshot to put AI in space",
+      "source": "blog.google",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5",
+      "pub_date": 1790255800.0,
+      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.width-1300.png",
+      "description": "Learn about Project Suncatcher, how we\u2019re testing hardware survival for space, designing cooling systems for AI chips, and more."
+    },
+    {
       "headline": "Australia launches urgent review after OpenAI program hacks government health portal",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -35,62 +55,32 @@
       "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
     },
     {
-      "headline": "Rogue AI hacks government system for first time - The Latest",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3UzZTRVUnpJVEVJeHJRLWMzcmJrcXE4TUNaRWp5NThOVThaNmR0TEtQdjBCeG50SnRQMkp4Ql91VlNnYlpXRjdLUXFsdEllNjc3cHBTNlRYbTVObVpCLXFUQjN2WmxMZDZrQW1tS0pqa0drbGNkVEtPcmo2YjVOMmlxNnNsM3pZYmVkUEtqUDkzdGpDbHpMZTB5VXZDRXdac3J2V0NWeHN2UnZGNHc?oc=5",
-      "pub_date": 1790270040.0,
-      "article_url": "https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
-      "image": "https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47f0996aeadc06461c843882c38fd868",
-      "description": "A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme. Lucy Hough speaks to the Guardian\u2019s UK technology editor Robert Booth"
+      "headline": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
+      "pub_date": 1790284005.0,
+      "article_url": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d5f0095-265f-4685-9822-fc48d04fa1a7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Researchers detail three other attempts by AI agents to break into websites during \u2018mundane data retrieval tasks\u2019"
     },
     {
-      "headline": "Musk\u2019s New Bold Prediction: SpaceX\u2019s AI May Top Anthropic\u2019s In 6 Months",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1NTSWxjbnFsclcxZ3V0ekV1V0tkMWs0bWx2Z2FfbVdMYXZacEtwNDRMWjMwV1RnWmpkbDVsT2ExeGUxTjlTeUpNSGNtTFhLcGJGVHlhTW5lLVVta0EzQTdlOHJqTFJFODRXREdBZjZXZUpydmNEUkQxb1NJQUZGNVE0dHNUSXF2V1BWLUpNSlNzaUZmcGhFeUJJRGxMcmEyNHdOTGR6Y3VXS3VuMDBSdnJxRkVKQTczSmp3YjBzX2wtOXd2d0JFZV80TnZlRjZLdHc?oc=5",
-      "pub_date": 1790274617.0,
-      "article_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/24/elon-musk-says-spacexs-ai-models-may-surpass-anthropic-and-openais-in-6-months/",
-      "image": null,
-      "description": null
+      "headline": "Independent Senate candidates call out 'reckless' Congress for not passing AI guardrails",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdFVnUG1pMDRPRGtkTHA1Y0Y1S09hMWRzbWJtZ2M0Y05TSVlzdndibUljRk5NRHV6RUdIaFZtXzYxeERUZWFPMFhyWngtYi1YdEpVQm9SSnVfQmM4TmtoZm9DbFVoRHA5MUZUOUlDdi1fYkZOQUpvWDdGUlp4bVU3RGJuQ3V0Wk8xZTE0TU1Ic0Y3V1BfQlltYUdBcW1naUJrUm02ZUhLcllpcGhYSVpzRGxIWkxJdUhwcERadTV6b2pwQVN3bVhSUGtheHotdzNINWM4dlVEemdhQ2M0?oc=5",
+      "pub_date": 1790284608.0,
+      "article_url": "https://www.nbcnews.com/meet-the-press/video/independent-senate-candidates-call-out-reckless-congress-for-not-passing-ai-guardrails-270474309584",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_09/1790282705540_now_mtp_full_independents_260924_S3_1920x1080-cdp7ix.jpg",
+      "description": "Independent Senate candidates Dan Osborn of Nebraska and Brian Bengs of South Dakota join Meet the Press NOW to call on Congress to pass guardrails for AI data centers and talk about the realities of running as independents in red states."
     },
     {
-      "headline": "The Traditional Marketing Agency Is Getting An AI-Era Makeover",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLU5zdUlsTmpxUWlmNnFUS3ZLQmtZWksyYnpEYWRGdndwbE5fbTFCU0pQQUZ1eEc4UDFMVy1YX2JSTF9jVy11eEhIS2czOFNKYVEtcTYyYnBvVnNsVk5nblhYQ1dPTE40SXlwbUo1TFI2OXFUMXk2c21YTTFNV0M1NDNfd2NEYS1aTW0wbnpscXV2QnB2SDc0UlRTeVQ0RlhyNV9zVWV5YWdabjN6OUtnemxFSWEtVTdXT2RLZWJiMGJNX1l3aUZGTDhoZjEwQ2pKbzFpNTdJZ2x0MDB5YXc?oc=5",
-      "pub_date": 1790273280.0,
-      "article_url": "https://www.usatoday.com/story/special/contributor-content/2026/09/24/the-traditional-marketing-agency-is-getting-an-ai-era-makeover/91923040007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/24/USAT/91923060007-image-1-5.png?crop=449,252,x0,y0&width=449&height=252&format=pjpg&auto=webp",
-      "description": "Max Finn and Jeremy Adams, co-founders of Unicorn Marketers, believe this model addresses a longstanding frustration among founders: companies often hire agencies expecting senior strategic expertise, only to find much of the day-to-day work handled by junior employees managing numerous accounts."
-    },
-    {
-      "headline": "Jensen Huang talks about AI and climate change like a supervillain",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlNmM2R3THNqdE1USVJBY21wNDRBdTJCdngxazd2bXhXSVdjWmFWYTAzWllMcWNPVll1UzFSdU5reUJqYXUxRWJkTU05OXI4T3BDcFZybzlvLUp5R3czZXBMRlpKdlZJeVF6RUs5aFhSSmlLZ1JCUXVXLTZ5NndIUmc2OFRpUlo4MmZqSWtHQVFQanh6a3EwOUJiVQ?oc=5",
-      "pub_date": 1790273084.0,
-      "article_url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "It\u2019s giving Thanos energy."
-    },
-    {
-      "headline": "Palo Alto CEO says slowing down AI is \u2018unrealistic\u2019, extinction threat \u2018extremely small\u2019",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUXBYNHRYWklyel9EM3lReklqMVMwRk9TdGc3bHNQSkhleGdJOWYxUVZvOFhiMXVaZ0xIWjFIMkFPekZFQ1RUcXA2VVVRc185OEEzcFlGcGgtQ09FNElvdUQ1Mmc5ZjJHOEJiTEpYNG1pd1JjZS0xN0xSUVVBWHBmTktSZ3JHVlnSAYwBQVVfeXFMUFB6Tkx6c0RzWEUzQ0R5SHBRTzlpVHFXNTY2ZnUwd3V3RFB0OVVsbUVDQlJJV1JTaVAzcnE4Sm9uNkZoeFBCd3J0NmtOeUV5OVNzTkJRODV5NkczLWZYUGtzNEZoeV9wc28zQzV1LTBrVExYSUNTZE0wODRLenVVTmw0ZS1QR3JTTkZQa2k?oc=5",
-      "pub_date": 1790250322.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/palo-alto-networks-nikesh-arora-ai-slowdown.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108225090-17629848922025-06-11t142103z_1012282535_rc2e0fa4cwv2_rtrmadp_0_france-tech.jpeg?v=1762984960&w=1920&h=1080",
-      "description": "Palo Alto CEO Nikesh Arora's views chime closely with Nvidia CEO Jensen Huang who has a diverging opinion to the bosses of Anthropic and OpenAI."
-    },
-    {
-      "headline": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ1BMckphRmdCWnl1cWFtMDZuR0hoVEZXMkdDZ2pHVEpqWF9uOGg3Qmc2QWFEZG1zNFRaaTBScXA3TU5EdGwxTW1NVGJWZXJ6dzA4d3MxN0Vra1pTYWV5LUVpUzd2ZmJZdUptZjZvVlJhczhsU3lLWFVMdWJSWmZYbHRWSTZfQQ?oc=5",
-      "pub_date": 1790154122.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+      "headline": "Meet S.A.R.A.H.: The AI bot answering non-emergency calls in Colorado Springs",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeE92UElhcnhBT3RsRTloWkFsdnJtVE1FSndUbUgwaVFteU5ZU1hwMlBMZ0d1al9lc3VZWV9ROXp0emdLX0RWRkN5Nkw3MWQ1LV83dzBrWmI0TEZLQV9ERVZGS1RUaEdjYTdpSmlheG9kMlVhVHYzSk4taXFGc0xzeHlhd3lhclFKOVllWThmOVktTW8wZHNfQzdsSER1dlp6QzlMRHVKQWx6c3JES1R4Rzd0V1g3Q3JNMWc?oc=5",
+      "pub_date": 1790284204.0,
+      "article_url": "https://www.axios.com/local/colorado-springs/2026/09/24/colorado-springs-police-ai-agent-sarah-non-emergency-calls-991",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://www.theguardian.com/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates",
       "image": "https://i.guim.co.uk/img/media/456b9966cd22a2552c51a90a0cbaa1377521f388/403_332_2011_1609/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=6127736f98c7ef0e46720460f585c928",
       "description": "Trump wants China to use its influence with Iran, while Xi seeks a halt to US arms sales to Taiwan"
+    },
+    {
+      "headline": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "source": "cnbc.com",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mdzlDbUQ5ZkNPanhHNDFFUjcxTVlITlJzUEM0LW5YVkpoRmNNQ2pTNnlRV1RlV0ZBN21LempRUkg0WHRDX2VyNVZpNTNGSUlJN215Qk95UUlMVFFyRGRqeDJuTEc4Q1NERFhhNGFzOFNiY2c4cldiUUtn?oc=5",
+      "pub_date": 1790247360.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108219309-17618303452025-10-30t030545z_2070082240_rc23mhad4ap9_rtrmadp_0_usa-trump-xi.jpeg?v=1761830365&w=1920&h=1080",
+      "description": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T18:34:10.660982+00:00"
+  "fetched_at": "2026-09-24T22:01:41.765129+00:00"
 }

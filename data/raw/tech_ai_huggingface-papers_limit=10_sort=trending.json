@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24984",
       "arxiv_url": "https://arxiv.org/abs/2609.24984",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 145,
+      "upvotes": 146,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/WorldCrafter",
@@ -92,7 +92,7 @@
       "num_comments": 19,
       "published_at": "2025-03-14T12:44:14.000Z",
       "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 67782,
+      "github_stars": 67864,
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24972",
       "arxiv_url": "https://arxiv.org/abs/2609.24972",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 195,
+      "upvotes": 197,
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
@@ -168,7 +168,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89035,
+      "github_stars": 89091,
       "project_page": null
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-09-16T20:00:00.000Z",
       "github_repo": "https://github.com/NVlabs/SoL-Pi",
-      "github_stars": 3008,
+      "github_stars": 3034,
       "project_page": "https://nvlabs.github.io/SoL-Pi/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-24T18:34:00.532030+00:00"
+  "fetched_at": "2026-09-24T22:01:27.910314+00:00"
 }
