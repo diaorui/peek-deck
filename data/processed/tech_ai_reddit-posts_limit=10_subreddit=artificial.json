@@ -2,6 +2,28 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
+      "published": 1790268737.0,
+      "thumbnail": "https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&crop=smart&auto=webp&s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
+    },
+    {
+      "title": "I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.",
+      "author": "UnionPacifik",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/",
+      "published": 1790281701.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Been building something for a while and finally have results worth sharing. I scraped everything I've written since 1995: Blog posts, journalism, email, Reddit comments, old Twitter, Instagram captions, even my own ChatGPT conversations into one corpus. Ended up around 75,000 records, 6.6 million words after cleanup. The obvious move is the one everyone does: fine-tune or prompt a model to sound like you, spit out hot takes forever. I didn't want that. Mostly because I think a bot doing an impression of me would be worse than useless, it'd actually flatten what's real about the writing into something predictable. So instead I built something oriented the other way. Not a mimic. A reader. Something that goes through the record and tells me what's actually there, good and bad, without trying to be my voice or please me while doing it. Turns out that's the hard part. Every frontier model defaults hard toward \"helpful assistant\" mode, agreeable, deferential, always trying to be useful to the person typing. Getting it to just sit with a huge personal archive and report back honestly took real fighting against the base instincts of the system prompt underneath it. Technical side, if anyone cares: RAG over the corpus, mostly Graph RAG since flat chunking loses relationships between entries written years apart. Anonymized private names before indexing (consistent letter per person, so someone stays a recognizable figure across 20 years without ever being named). Chunking short-form content like tweets separately from long-form, they don't retrieve well mixed together. What surprised me was how specific the output got. Asked it what my greatest weakness was and it pulled an actual line I wrote in 2019 about myself, unprompted, and built an argument off it that I hadn't consciously made before. Not comfortable at all. Accurate though. Anyway, curious if anyone else here has tried building something oriented toward introspection/reflection instead of assistance. Feels like an underexplored direction: Everything commercial pushes toward helpful-and-fast, and I don't think that's the only useful shape this stuff can take."
+    },
+    {
       "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
       "author": "sailingintothedark",
       "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
@@ -13,15 +35,15 @@
       "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
     },
     {
-      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
-      "published": 1790268737.0,
-      "thumbnail": "https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&crop=smart&auto=webp&s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
+      "title": "How are Chinese AI labs releasing competitive models so cheaply?",
+      "author": "Jasslyngirl",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpaq16/how_are_chinese_ai_labs_releasing_competitive/",
+      "published": 1790277147.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Some Chinese labs are putting out models that compete with American ones while apparently spending a fraction of the money. I know open source research plays a role, and some are able to speed ahead by buying training data from American vendors, which is super concerning, but that doesn't seem like the whole explanation. Are they just building more efficiently? Is buying American data helping them that much?"
     },
     {
       "title": "Amazon is trying to rehire workers it laid off, emails show",
@@ -46,6 +68,17 @@
       "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
     },
     {
+      "title": "Upping my p(doom)",
+      "author": "Some-Pride-3477",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpdpvc/upping_my_pdoom/",
+      "published": 1790284175.0,
+      "thumbnail": "https://external-preview.redd.it/ZnJvOHBrNzBhanJoMbmfPY2iRgwROUU_Hu991N9K4mbtWlPqmhibV8Xbm6gI.jpeg?width=640&crop=smart&auto=webp&s=820f171c586c2ffd6dc208e759ab9df9847c1804",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Is Claude really so much better than ChatGPT?",
       "author": "lemonvrc",
       "url": "https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/",
@@ -57,60 +90,27 @@
       "description": "I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some \"non bot\" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers."
     },
     {
-      "title": "I switched my personal agent from DeepSeek V4.1 Flash to MiMo V2.6 Pro",
-      "author": "buffering_112",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp5ega/i_switched_my_personal_agent_from_deepseek_v41/",
-      "published": 1790265212.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Xiaomi just released the open-weight MiMo V2.6 Pro and Flash models. What caught my eye was Artificial Analysis's comparison: Pro scores 46 on its Intelligence Index versus 39 for DeepSeek V4.1 Flash, at a lower average cost per benchmark task. That's cost per task on their tests, not a guarantee that every API call will be cheaper. I'd been using DeepSeek V4.1 Flash in my personal agent, so I switched it to MiMo V2.6 Pro through tokenrouter. I reran the same task a few times, asking it to find source material and put together a summary. On those runs, my total cost came out about 15\u201320% lower than with DeepSeek. The results still did what I needed, and some looked a bit better to me. It's only one task and a handful of runs, but for my agent this looks worth the switch. I'm leaving it on MiMo for now and will see whether that holds up across more work. Source\uff1a https://mimo.mi.com/docs/en-US/news/latest/v2-6 https://artificialanalysis.ai/models/comparisons/mimo-v2-6-pro-vs-deepseek-v4-1-flash"
+      "title": "ChatGPT Helped Tumbler Ridge Shooter Focus on Guns, Tactics, and Terror",
+      "author": "motherjonesmag",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/",
+      "published": 1790281329.0,
+      "thumbnail": "https://external-preview.redd.it/SntJts-RlzpZv1_8Tz2tODDufQT3qAqzU4GhftkIwAg.jpeg?width=640&crop=smart&auto=webp&s=73a3f97b3cb97996d272fe9a0b47d7bc553a3e07",
+      "external_url": "http://motherjones.com/media/2026/09/chatgpt-tumbler-ridge-mass-shooter-openai",
+      "site_name": "Mother Jones",
+      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
+      "description": "OpenAI\u2019s chatbot fed the shooter\u2019s violent fantasies and planning up to the massacre."
     },
     {
-      "title": "Spain\u2019s data protection agency just got its first breach report where an autonomous AI agent did the hacking",
-      "author": "Embarrassed-Fix5718",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp1p28/spains_data_protection_agency_just_got_its_first/",
-      "published": 1790256612.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Saw this on Help Net Security last week. Spain\u2019s data protection agency(AEPD) logged its first breach notification where the attacker was an AI agent. It scanned files for weak spots, logged into company network, went through the app until it found a flaw, then used that to change personal data and pull invoice records. Their deputy director said AI attacks \u201chave ceased to be a theoretical risk.\u201d Every thread I read was a debate about which model did it. A GDPR notification means somebody sat down and rebuilt what the agent touched, in what order, which records changed. Probably with a lawyer on the call. Made me look at what our own agents can reach. The support one has write access to the CRM, billing and the refunds table, because scoping it properly felt like a job for later. Model calls go through orqai so those are logged, but the permissions themselves are wider than anything that attacker agent had to break in to get. How are people scoping agent permissions?"
-    },
-    {
-      "title": "Google's AI Gemini exhibits self-control, stops unauthorised hack into companies",
-      "author": "mikaelus",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp37oc/googles_ai_gemini_exhibits_selfcontrol_stops/",
-      "published": 1790260220.0,
-      "thumbnail": "https://external-preview.redd.it/zF1HDXsfBqSwjIWMeM68n4VRBDrtAQKjxr8FAXOcGyQ.jpeg?width=640&crop=smart&auto=webp&s=1e239ac88ba4919c6da4600d30a6b936c9a70479",
-      "external_url": "https://vulcanpost.com/913440/google-ai-gemini-stops-unauthorised-hack-into-three-companies/",
-      "site_name": "Vulcan Post",
-      "favicon": "https://vulcanpost.com/wp-content/uploads/2025/04/vulcanpost-favicon-new.png",
-      "description": "The media have widely misrepresented Gemini's breakout case, focusing on it getting out on the internet (which it was accidentally given access to) and the hack - but not how it ended up stopping itself. Properly designed AI might not be out to destroy us all."
-    },
-    {
-      "title": "Robots blocking traffic",
-      "author": "Stup_ape_1_banana",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/",
-      "published": 1790166596.0,
-      "thumbnail": "https://preview.redd.it/5wgfnlwdk9rh1.jpeg?width=640&crop=smart&auto=webp&s=56a3da0bc68f0e6491cda6bf08a6838b2e364bb5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
-    },
-    {
-      "title": "Opus 5.5 summary: 66.4% Terminal-Bench, ~40% cheaper to run than Opus 5, cache reads down 60%",
-      "author": "ksraj1001",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp3ya3/opus_55_summary_664_terminalbench_40_cheaper_to/",
-      "published": 1790261950.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Pulled together the key numbers from the Opus 5.5 launch (Sept 22) for anyone deciding whether to switch: Terminal-Bench 4.0: 66.4% (GPT-6 Astra 57.9%, Fable 5.1 55.8%) Pricing: $4 / $20 per 1M tokens, down from $5 / $25 Cache reads: $0.20, down 60% from $0.50 \u2014 this is the big one for agent workloads Anthropic says typical workloads cost ~40% less vs Opus 5 because it uses fewer tokens per task, and output is 30%+ faster Internal test: C\u2192Rust port of HAProxy finished in 9.5 hrs vs 12 hrs for Fable 5.1, 51% cheaper 1M context, 128K output All of this is Anthropic-reported, so I'm curious what people see in practice. Has the cost drop held up on your actual workloads, especially long agent runs?"
+      "title": "Why the Real Power of AI Isn't Better Thinking\u2014It's Mass Collaboration",
+      "author": "ComprehensiveBaby126",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/",
+      "published": 1790279192.0,
+      "thumbnail": "https://external-preview.redd.it/0cFeC0jwebzmD2ahpEXBVPTRQGdCZfgEDop_QLzqSMM.jpeg?width=640&crop=smart&auto=webp&s=d7340248ea9cac33a657dd47ae58b8a417dc5f1b",
+      "external_url": "https://www.cppdepend.com/blog/ai-real-power-mass-collaboration/",
+      "site_name": "cppdepend.com",
+      "favicon": "https://www.cppdepend.com/images/apple-touch-icon.png",
+      "description": "When we discuss artificial intelligence outperforming humans, the conversation usually circles around speed, raw processing power, or memory capacity. But the true game-changer isn't a single hyper-intelligent model\u2014it's multi-agent orchestration."
     }
   ],
-  "fetched_at": "2026-09-24T18:33:52.286087+00:00"
+  "fetched_at": "2026-09-24T22:01:20.113718+00:00"
 }
