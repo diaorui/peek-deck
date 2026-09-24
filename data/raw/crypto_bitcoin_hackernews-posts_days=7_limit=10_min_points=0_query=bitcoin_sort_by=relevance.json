@@ -47,20 +47,6 @@
       "site_name": null
     },
     {
-      "title": "A single Bitcoin transaction carried an average water footprint of 16K litres",
-      "url": "https://spacedaily.com/n-a-single-bitcoin-transaction-carried-an-average-water-footprint-of-about-16000-litres-in-2021-once-the-electricity-and-cooling-behind-it-were-counted-roughly-62-million-times/",
-      "hn_url": "https://news.ycombinator.com/item?id=49741004",
-      "author": "sharemywin",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2026-09-17T14:08:44Z",
-      "object_id": "49741004",
-      "image": "https://spacedaily.com/wp-content/uploads/2026/09/cryptocurrency-mining-rigs.png",
-      "description": "As Bitcoin's price swings, so does its hidden cost in freshwater\u2014each transaction now demands enough water to fill an Olympic swimming pool.",
-      "favicon": "https://spacedaily.com/wp-content/uploads/2024/01/icon.png",
-      "site_name": "Space Daily"
-    },
-    {
       "title": "Show HN: I built a Bitcoin full node from scratch in Rust",
       "url": "https://github.com/realtonypark/mini-bitcoin",
       "hn_url": "https://news.ycombinator.com/item?id=49821264",
@@ -103,7 +89,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 6,
   "has_metadata": true,
-  "fetched_at": "2026-09-24T14:03:49.936538+00:00"
+  "fetched_at": "2026-09-24T18:33:50.522586+00:00"
 }

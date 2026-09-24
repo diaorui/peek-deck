@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24984",
       "arxiv_url": "https://arxiv.org/abs/2609.24984",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 140,
+      "upvotes": 145,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/WorldCrafter",
@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 108358,
+      "github_stars": 108433,
       "project_page": null
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2609.25001",
       "arxiv_url": "https://arxiv.org/abs/2609.25001",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.25001.png",
-      "upvotes": 126,
+      "upvotes": 129,
       "num_comments": 3,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GameHorizon",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24972",
       "arxiv_url": "https://arxiv.org/abs/2609.24972",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 186,
+      "upvotes": 195,
       "num_comments": 2,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/google-research/rrsi",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-24T14:03:58.929485+00:00"
+  "fetched_at": "2026-09-24T18:34:00.532030+00:00"
 }

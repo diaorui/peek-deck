@@ -13,6 +13,17 @@
       "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
     },
     {
+      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
+      "published": 1790268737.0,
+      "thumbnail": "https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&crop=smart&auto=webp&s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
+    },
+    {
       "title": "Amazon is trying to rehire workers it laid off, emails show",
       "author": "aspublic",
       "url": "https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/",
@@ -35,28 +46,6 @@
       "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
     },
     {
-      "title": "Robots blocking traffic",
-      "author": "Stup_ape_1_banana",
-      "url": "https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/",
-      "published": 1790166596.0,
-      "thumbnail": "https://preview.redd.it/5wgfnlwdk9rh1.jpeg?width=640&crop=smart&auto=webp&s=56a3da0bc68f0e6491cda6bf08a6838b2e364bb5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
-    },
-    {
-      "title": "What\u2019s a task you aggressively tried to automate with AI, but eventually went back to doing manually because the \"old way\" was just better?",
-      "author": "OfficalYOUSUMMIT",
-      "url": "https://www.reddit.com/r/artificial/comments/1womzbs/whats_a_task_you_aggressively_tried_to_automate/",
-      "published": 1790209553.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I spent way too much time trying to get LLMs to organize my weekly schedule and meal prep, only to realize writing it on a whiteboard was faster and actually kept me accountable. What did you finally give up on trying to AI?"
-    },
-    {
       "title": "Is Claude really so much better than ChatGPT?",
       "author": "lemonvrc",
       "url": "https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/",
@@ -68,26 +57,15 @@
       "description": "I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some \"non bot\" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers."
     },
     {
-      "title": "Meta AI builds detailed profiles of children from years of family posts",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/",
-      "published": 1790212673.0,
-      "thumbnail": "https://external-preview.redd.it/__VfR9qOtJqV9Ua3OaX-nDE3D8E2xyB9F5RbBcSsElc.jpeg?width=640&crop=smart&auto=webp&s=96d60ae6d3a0781f896f4128fba3353933aac02e",
-      "external_url": "https://www.malwarebytes.com/blog/family-and-parenting/2026/09/meta-ai-builds-detailed-profiles-of-children-from-years-of-family-posts",
-      "site_name": "Malwarebytes",
-      "favicon": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2026/09/M-Icon-blue-favicon.png?w=180",
-      "description": "A mother says Meta AI pieced together names, birth details, photos, and location information about her young daughters from years of family posts."
-    },
-    {
-      "title": "i think someone got Trump to rename artificial intelligence as super intelligence, in order to make it harder to talk about Artificial Super Intelligence",
-      "author": "petermobeter",
-      "url": "https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/",
-      "published": 1790199234.0,
+      "title": "I switched my personal agent from DeepSeek V4.1 Flash to MiMo V2.6 Pro",
+      "author": "buffering_112",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp5ega/i_switched_my_personal_agent_from_deepseek_v41/",
+      "published": 1790265212.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "trump: all of america should refer to artificial intelligence as super intelligence!! two days later... journalist: sam altman, are u worried about your A.G.I. that youve allegedly created with gpt-6 astra, itself creating artificial superintelligence down the line, thru rechrsive self improvement? sam altman: artificial general intelligence is a subset of super intelligence, which is the new term donald trump coined for artificial intelligence, so, theyre actually the same thing. so no we're not worried. journalist: no, im not referring to super intelligence, im referring to the older term \"artificial super intelligence\". sam altman: artificial intelligence, super intelligence, whatever u call it, whether youre a patriot or not, we're not worried. next question? (this is what i think donald trump was setting up. in fact, when he read that speech at the U.N. he was actually reading off a teleprompter, as The Daily Show gleefully pointed out, so i really dont think it was his idea)"
+      "description": "Xiaomi just released the open-weight MiMo V2.6 Pro and Flash models. What caught my eye was Artificial Analysis's comparison: Pro scores 46 on its Intelligence Index versus 39 for DeepSeek V4.1 Flash, at a lower average cost per benchmark task. That's cost per task on their tests, not a guarantee that every API call will be cheaper. I'd been using DeepSeek V4.1 Flash in my personal agent, so I switched it to MiMo V2.6 Pro through tokenrouter. I reran the same task a few times, asking it to find source material and put together a summary. On those runs, my total cost came out about 15\u201320% lower than with DeepSeek. The results still did what I needed, and some looked a bit better to me. It's only one task and a handful of runs, but for my agent this looks worth the switch. I'm leaving it on MiMo for now and will see whether that holds up across more work. Source\uff1a https://mimo.mi.com/docs/en-US/news/latest/v2-6 https://artificialanalysis.ai/models/comparisons/mimo-v2-6-pro-vs-deepseek-v4-1-flash"
     },
     {
       "title": "Spain\u2019s data protection agency just got its first breach report where an autonomous AI agent did the hacking",
@@ -101,16 +79,38 @@
       "description": "Saw this on Help Net Security last week. Spain\u2019s data protection agency(AEPD) logged its first breach notification where the attacker was an AI agent. It scanned files for weak spots, logged into company network, went through the app until it found a flaw, then used that to change personal data and pull invoice records. Their deputy director said AI attacks \u201chave ceased to be a theoretical risk.\u201d Every thread I read was a debate about which model did it. A GDPR notification means somebody sat down and rebuilt what the agent touched, in what order, which records changed. Probably with a lawyer on the call. Made me look at what our own agents can reach. The support one has write access to the CRM, billing and the refunds table, because scoping it properly felt like a job for later. Model calls go through orqai so those are logged, but the permissions themselves are wider than anything that attacker agent had to break in to get. How are people scoping agent permissions?"
     },
     {
-      "title": "I built an entire clothing brand from scratch using only AI visuals, photos, videos, everything. Brand failed due to lack of capital",
-      "author": "montaomrani",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp1k5i/i_built_an_entire_clothing_brand_from_scratch/",
-      "published": 1790256261.0,
+      "title": "Google's AI Gemini exhibits self-control, stops unauthorised hack into companies",
+      "author": "mikaelus",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp37oc/googles_ai_gemini_exhibits_selfcontrol_stops/",
+      "published": 1790260220.0,
+      "thumbnail": "https://external-preview.redd.it/zF1HDXsfBqSwjIWMeM68n4VRBDrtAQKjxr8FAXOcGyQ.jpeg?width=640&crop=smart&auto=webp&s=1e239ac88ba4919c6da4600d30a6b936c9a70479",
+      "external_url": "https://vulcanpost.com/913440/google-ai-gemini-stops-unauthorised-hack-into-three-companies/",
+      "site_name": "Vulcan Post",
+      "favicon": "https://vulcanpost.com/wp-content/uploads/2025/04/vulcanpost-favicon-new.png",
+      "description": "The media have widely misrepresented Gemini's breakout case, focusing on it getting out on the internet (which it was accidentally given access to) and the hack - but not how it ended up stopping itself. Properly designed AI might not be out to destroy us all."
+    },
+    {
+      "title": "Robots blocking traffic",
+      "author": "Stup_ape_1_banana",
+      "url": "https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/",
+      "published": 1790166596.0,
+      "thumbnail": "https://preview.redd.it/5wgfnlwdk9rh1.jpeg?width=640&crop=smart&auto=webp&s=56a3da0bc68f0e6491cda6bf08a6838b2e364bb5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Im on my way to work, and all three lanes are blocked with these Waymo self driving cars. They need to stay on the right to allow faster traffic to move by. This is going to be a problem."
+    },
+    {
+      "title": "Opus 5.5 summary: 66.4% Terminal-Bench, ~40% cheaper to run than Opus 5, cache reads down 60%",
+      "author": "ksraj1001",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp3ya3/opus_55_summary_664_terminalbench_40_cheaper_to/",
+      "published": 1790261950.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I spent the last year building a brand calledVIVID, based in Tunisia. No photographer. No studio. No models on payroll. Just me, AI tools, and a lot of hours learning how to make things look real. Every product photo, every campaign video, every lifestyle shot all AI generated. Photorealistic. If I don't tell you it's AI, you won't know. My Instagram is (vivid.tn) if you want to see the work. The brand didn't survive textiles need capital upfront and I ran out of runway. But the skills I built are real and I'm ready to put them to work for someone else. What I can do: AI product photography (clothing, accessories, lifestyle) AI video content for social media Brand identity and visual direction Content for Instagram/TikTok Fast turnaround, remote, any niche not just fashion I'm not looking to fake anything. I'm just someone who figured out how to produce agency-level visuals without an agency budget, and I need to monetize that now. DMs open. Portfolio: (vivid.tn) on Instagram."
+      "description": "Pulled together the key numbers from the Opus 5.5 launch (Sept 22) for anyone deciding whether to switch: Terminal-Bench 4.0: 66.4% (GPT-6 Astra 57.9%, Fable 5.1 55.8%) Pricing: $4 / $20 per 1M tokens, down from $5 / $25 Cache reads: $0.20, down 60% from $0.50 \u2014 this is the big one for agent workloads Anthropic says typical workloads cost ~40% less vs Opus 5 because it uses fewer tokens per task, and output is 30%+ faster Internal test: C\u2192Rust port of HAProxy finished in 9.5 hrs vs 12 hrs for Fable 5.1, 51% cheaper 1M context, 128K output All of this is Anthropic-reported, so I'm curious what people see in practice. Has the cost drop held up on your actual workloads, especially long agent runs?"
     }
   ],
-  "fetched_at": "2026-09-24T14:03:49.209975+00:00"
+  "fetched_at": "2026-09-24T18:33:52.286087+00:00"
 }
