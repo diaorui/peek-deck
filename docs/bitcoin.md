@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-25T00:41:10.796074+00:00'
+updated: '2026-09-25T05:54:33.216335+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 00:41 UTC  
+**Last Updated:** September 25, 2026 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,433.87
+### $84,285.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.1%  
-**30d:** +5.4%  
-**90d:** +42.1%  
-**1y:** -22.9%  
+**24h:** +0.1%  
+**7d:** +3.7%  
+**30d:** +5.0%  
+**90d:** +41.5%  
+**1y:** -23.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1699.03B
+**Market Cap:** $1692.58B
 Rank #1
 
-**Circulating Supply:** 20,088,909 BTC
+**Circulating Supply:** 20,088,987 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.9%
+-33.2%
 
 **All-Time Low:** $67.81
-+124625.0%
++124148.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -107,7 +107,7 @@ Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once i
 
 Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
 
-3d ago
+4d ago
 
 ---
 
@@ -127,7 +127,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 **[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 3d ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 4d ago
 
 ---
 
@@ -141,7 +141,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 **[Everyone in Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1wl633z/everyone_in_bitcoin_right_now/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -149,19 +149,23 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
+**[BlackRock’s ‘Extraordinary’ Prediction For Crypto Is Suddenly Coming True As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/24/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+
+Forbes • 9h ago
+
+---
+
 **[Bitcoin’s bear markets are getting milder. The bull markets may be next](https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next)**
 
 Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.
 
-CoinDesk • 5h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
+**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
-
-Yahoo Finance • 10h ago
+The Economist • 33m ago
 
 ---
 
@@ -169,29 +173,7 @@ Yahoo Finance • 10h ago
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-CNBC • 6h ago
-
----
-
-**[Bitcoin slides to $83,300 as bond yields hit highest level since 2007](https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high)**
-
-The 10-year Treasury yield reached its highest since 2007, sending U.S. stocks and crypto lower before Asian and European traders bought the dip.
-
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin news: BTC doesn't care about this widely-feared bond market trend](https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term)**
-
-Long-term, BTC ignores rising bond yields. In the short term, however, surging bond volatility could easily dampen crypto's animal spirits.
-
-CoinDesk • 12h ago
-
----
-
-**[Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto)**
-
-Bloomberg.com • 13h ago
+CNBC • 11h ago
 
 ---
 
@@ -203,25 +185,37 @@ Fox Business • 2d ago
 
 ---
 
-**[BlackRock’s ‘Extraordinary’ Prediction For Crypto Is Suddenly Coming True As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/24/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+**[Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto)**
 
-Forbes • 1d ago
-
----
-
-**[Current price of Bitcoin for September 23, 2026](https://fortune.com/article/price-of-bitcoin-09-23-2026/)**
-
-Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
-
-Fortune • 1d ago
+Bloomberg.com • 18h ago
 
 ---
 
-**[Here’s why the debasement trade is boosting bitcoin price more than gold price – StoneX’s Cincotta](https://www.kitco.com/news/article/2026-09-24/heres-why-debasement-trade-boosting-bitcoin-price-more-gold-price-stonexs)**
+**[Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report](https://bitcoinmagazine.com/news/institutions-held-bitcoin-through-crash)**
 
-(Kitco News) – Bitcoin's recent breakout coincided with the U.S. Treasury’s bond buyback announcement, and while gold ETF demand remains strong, higher-for-longer Fed rate expectations are capping the non-yielding metal’s gains, according to Fiona Cincotta, Senior Market Analyst at StoneX.“August the 19th was an important turning point for bitcoin, coinciding with the US Treasury Department announcing plans to increase buybacks for long dated government bonds,” Cincotta said in a recent video analysis. “Bitcoin's fortunes appeared to change dramatically around the same time. On that date the price broke above $65,000, subsequently rising to this week's high of $87,000. That's a 35% increase.”Cincotta also pointed out that over the same period, U.S. bitcoin ETFs also saw around $4.6 billion in net inflows, pushing bitcoin ETFs into positive territory for the year. “Bitcoin is up 44% so far this quarter,” she said. “This contrasts with other major assets quite sharply. Stocks have gained around 3.5% across the same period, whilst gold is up only 8%.”She cautioned, however, that this is not a case of investors abandoning gold. “If we look at gold ETF demand, that has also remained exceptionally strong, with the August recording the second largest monthly global ETF inflows on record,” Cincotta said. “Gold, however, does face a more challenging backdrop from renewed expectations that the Federal Reserve could remain hawkish for longer. The higher for longer interest rate expectations and elevated Treasury yields increase the opportunity cost of holding a non-yielding asset such as gold, and that's really limiting the upside to the precious metal despite continued demand that we're seeing.”Cincotta said that in the current market environment, the debasement bid favors bitcoin over gold. “The timing of that Treasury announcement on August the 19th has been very stark, coinciding with the breakout of bitcoin,” she said. “Also, stronger ETF inflows and renewed appetite for hard assets have all coincided with the improvement in bitcoin's momentum.”She also noted that the Fed is considering further rate hikes, which also supports hard assets. “Now, normally you would expect gold to benefit as well, but this isn't bitcoin replacing gold,” she said. “It just seems that the same macro trade is actually producing a larger marginal move in bitcoin.”Cincotta said it’s important to recognize that bitcoin is actually playing catch-up from a much lower base than that of gold, and that the move also coincides with bitcoin's four-year cycle.“Just taking a look at the bitcoin:gold ratio reinforces the point,” she said. “The ratio has climbed to 19.89 at the time of recording, and this is the highest level this year. In simple terms, that means that one bitcoin now buys almost 20 ounces of gold. What this shows us is that bitcoin is increasing in value not just against the U.S. dollar but also relative to the precious metal.”Cincotta said she’s looking for a move above the 50-day Simple Moving Average to confirm and reinforce bitcoin’s outperformance relative to gold. “Buyers will be looking for a move above the $87,000 level, the peak that we saw this week, to bring $90,000 into focus,” she said. “A rise above 90,000 will quickly turn attention to that key $100,000 psychological level.”See live precious metals prices for gold, silver, platinum and palladium — in USD, CAD and 12 more currencies.
+New research finds bitcoin has become the one crypto asset big investors agree on.
 
-Kitco • 7h ago
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Bitcoin ETFs rakes in the dough](https://finance.yahoo.com/video/bitcoin-etfs-rakes-dough-160345586.html)**
+
+In this episode of the Daily Wolf, Scott Melker discusses Mastercard (MA) and SoFi's (SOFI) new stablecoin partnership, Binance investing $100 million into Circle's (CRCL) global USDC expansion, and a strong two-day run for bitcoin (BTC-USD) ETFs which raked in $1.7 billion in inflows.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Crypto ETFs Are Surging, but Bitcoin & Ether Aren’t the Big Winners](https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners)**
+
+ETF.com • 2d ago
+
+---
+
+**[Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118)**
+
+Investing.com • 1d ago
 
 ---
 
@@ -275,7 +269,7 @@ https://t.co/GktyWFbTdN
 
 Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.
 
-⬆️ 1 • 💬 0 • 1h ago • [Sprocket](https://sprocket.bio/)
+⬆️ 2 • 💬 0 • 7h ago • [Sprocket](https://sprocket.bio/)
 
 ---
 
@@ -283,7 +277,7 @@ Sprocket is an open-source bioinformatics workflow engine built on the Workflow 
 
 Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example
 
-⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
+⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
 
 ---
 
@@ -291,13 +285,13 @@ Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player
 
 ## YouTube Videos: "bitcoin"
 
-**[I Got Rich Off Bitcoin. This Will Be Even Bigger.](https://www.youtube.com/watch?v=IJ65ouCwKd4)**
+**[This Has Never Happened Before In Crypto](https://www.youtube.com/watch?v=IJ65ouCwKd4)**
 
 Big Things Are Happening In Cryptocurrency in October Grab a Zcash Miner: https://www.muskminers.com/ Follow Musk ...
 
 📺 Altcoin Daily
 
-👁️ 6K • 👍 609 • 💬 46 • ⏱️ 8:30 • 1h ago
+👁️ 41K • 👍 2K • 💬 85 • ⏱️ 8:30 • 7h ago
 
 ---
 
@@ -307,17 +301,17 @@ Here's where we're going in the short term, and long term. Sign up for the Crypt
 
 📺 Crypto Jebb
 
-👁️ 5K • 👍 224 • 💬 52 • ⏱️ 13:36 • 6h ago
+👁️ 7K • 👍 262 • 💬 55 • ⏱️ 13:36 • 11h ago
 
 ---
 
-**[WARNING: Bitcoin &amp; Stocks Are Going MUCH Higher](https://www.youtube.com/watch?v=Z7xDFOs76uY)**
+**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
 
-Darius Dale is the founder and CEO of 42 Macro. In this conversation, we break down whether Scott Bessent is bluffing the bond ...
+I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
 
-📺 Anthony Pompliano
+📺 The Modern Investor
 
-👁️ 10K • 👍 474 • 💬 12 • ⏱️ 52:22 • 3h ago
+👁️ 13K • 👍 887 • 💬 251 • ⏱️ 28:58 • 20h ago
 
 ---
 
@@ -327,27 +321,27 @@ Bitcoin's bear market is over and Gareth Soloway walks through the exact chart s
 
 📺 Gareth Soloway
 
-👁️ 82K • 👍 4K • 💬 426 • ⏱️ 15:33 • 7h ago
+👁️ 116K • 👍 5K • 💬 555 • ⏱️ 15:33 • 12h ago
 
 ---
 
-**[🚨 BITCOIN JUST DID SOMETHING VERY IMPORTANT](https://www.youtube.com/watch?v=M9q8MShj6ws)**
+**[Tom Lee: The Next 7 Days Will Change The Entire Bitcoin Bull Run Forever](https://www.youtube.com/watch?v=eWpBiY1xAR0)**
 
-Bitcoin is backtesting critical support after flipping the May high as we break down the next major BTC move, stock market all time ...
+Bitcoin pulled back to $83462 this morning — down 2.1%. The CME now prices a 75.3% chance of an OCTOBER FED HIKE and ...
 
-📺 DataDash
+📺 Money Talks
 
-👁️ 4K • 👍 133 • 💬 18 • ⏱️ 8:25 • 8h ago
+👁️ 6K • 👍 174 • 💬 23 • ⏱️ 28:00 • 10h ago
 
 ---
 
-**[Bitcoin Just Pulled Back to $83K...Why?](https://www.youtube.com/watch?v=DLd2oSIqbdo)**
+**[THIS 1 BITCOIN CANDLE TELLS THE WHOLE STORY](https://www.youtube.com/watch?v=Rvv0ychcukY)**
 
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtwju?utm_source=youtube Free ...
 
-📺 CryptosRUs
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 22K • 👍 699 • 💬 69 • ⏱️ 45:07 • 10h ago
+👁️ 17K • 👍 616 • 💬 63 • ⏱️ 26:33 • 18h ago
 
 ---
 
@@ -357,7 +351,7 @@ Bond yields just broke out after a failed Treasury auction exposed a deeper dema
 
 📺 Crypto Banter
 
-👁️ 41K • 👍 1K • 💬 20 • ⏱️ 22:31 • 10h ago
+👁️ 46K • 👍 2K • 💬 23 • ⏱️ 22:31 • 16h ago
 
 ---
 
@@ -367,27 +361,27 @@ Bitcoin to $150000?!?! Use code MeetKevin when you sign up for Kalshi, and get $
 
 📺 Meet Kevin
 
-👁️ 29K • 👍 700 • 💬 107 • ⏱️ 10:22 • 5h ago
+👁️ 42K • 👍 795 • 💬 110 • ⏱️ 10:22 • 10h ago
 
 ---
 
-**[THIS 1 BITCOIN CANDLE TELLS THE WHOLE STORY](https://www.youtube.com/watch?v=Rvv0ychcukY)**
+**[Bitcoin No One Cares (That’s The Signal)](https://www.youtube.com/watch?v=MjNyZdafdp0)**
 
-TRADE LIKE I DO (LIVE STRATEGY) Bybit (my main exchange) https://partner.bybit.com/b/Didi ⚡ APPLY TO WORK WITH ME ...
+1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Search interest in Bitcoin is sitting at the bottom of the ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Lark Davis
 
-👁️ 16K • 👍 600 • 💬 61 • ⏱️ 26:33 • 13h ago
+👁️ 10K • 👍 265 • 💬 19 • ⏱️ 10:30 • 8h ago
 
 ---
 
-**[Bitcoin: The Upside Down](https://www.youtube.com/watch?v=orda-VyV2rU)**
+**[Bitcoin Warning: Why The Next 7 days Are Critical 🚨](https://www.youtube.com/watch?v=SeQPvinncBs)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+This is all about why there could still be a big crash in Bitcoin and crypto Big news for all Bitcoin, Ethereum, Solana and Altcoin ...
 
-📺 Benjamin Cowen
+📺 Investing Made Simple
 
-👁️ 219K • 👍 7K • 💬 647 • ⏱️ 23:55 • 20h ago
+👁️ 19K • 👍 652 • ⏱️ 11:50 • 16h ago
 
 ---
 
