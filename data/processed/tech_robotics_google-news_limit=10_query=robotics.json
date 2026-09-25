@@ -15,54 +15,44 @@
       "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
     },
     {
-      "headline": "What if robots didn't need all their AI onboard?",
-      "source": "Microsoft",
-      "source_url": "https://www.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnpNaGRsVmFjZXZ2Y3czS2I5MHlLSlgtMVB6d0pXY2J1aW94Q3RyRE82WnpIaUdZOU1QMFM0SDdJbzB0a2htSmJFQTZ0VDNWeGJrcXZpREdGRnFHeFF1TTF1TnhJODVkUWlLT1hCbFM3SnRCTlM1cFJFV2tsRDhwdmphVnN2Mmt5MFlUTVVHOVl0TW1GeS12OG5WWFR2ZlA3MDhMOA?oc=5",
-      "pub_date": 1790179296.0,
-      "article_url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
-      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-TWLIFB-1200x627-1.jpg",
-      "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
+      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
+      "source": "Qualcomm",
+      "source_url": "https://www.qualcomm.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
+      "pub_date": 1790146800.0,
+      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
+      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
+      "description": null
     },
     {
-      "headline": "autonomous robotic hand walks on its fingertips like the addams family\u2019s thing",
-      "source": "Designboom",
-      "source_url": "https://www.designboom.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUNwLXlWbUFmWS15aUxzWEpfSWk2S0kwV0NsR2k4UjFvLXM0d0FYUXZxdkdEQUFaSEg1THpEZzlrLWtfUXBrbVZtZzVHa01ubjJjNDllOEZLZ2F0U09QamRsYWtzbktfd2lTdDhyMUtUaHZzVDFidkF6UE5rY0pOYmM5Z0VMeTR3TGhYcTZ1a0Z5T1BUUjhsUTFn?oc=5",
-      "pub_date": 1790334041.0,
-      "article_url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
-      "image": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
-      "description": "researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm."
+      "headline": "Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb1FCUDhEdi1VT3dYS3ptem5JVUlsZ1ZqUHJDUl9IZWVjaHdjcHN2VWR6ZWNqY0RXWkhUVll4ZEJreEVCTk1RUjU0Y3dtTUJUS1c3VzdDU2tvMFFiU25FdnRyQndQTGRiY3l2ZG45V0o3WVFkaXFEWFF6OTl1WHhDb0ZtcFlfWU44M2lISzNSOEd1OTllNDNmcm51SzRNdjR0MjU2cUE5Z0dCT0lwZ29GcVhoMkw1cEhQOWlodVFERFlVVThiMExOeEpfWEdKLVRPN3R6bVRkZTlVWGJic3dJM2taaGpKaElydlFaWVp3?oc=5",
+      "pub_date": 1790322900.0,
+      "article_url": "https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html",
+      "image": "https://mmx.prnewswire.com/media/MS1546796/Nauticus-Robotics-Logo.jpg?id=OA2968315&p=facebook",
+      "description": "/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) (\"Nauticus\" or the \"Company\"), a developer of autonomous subsea robotic systems and autonomy software,..."
     },
     {
       "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790269194.0,
+      "pub_date": 1790304228.0,
       "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nQjZMVHI1QUVOQjBkOVFyMVhSZnNuVUEzbFRGYXVFeVJGc3ZGNnFWbWh1YzRIY3JDQXIwckFUNWotWEFKVjRJYWk1OFctS3UyUzlwM1kwLUl0MkFLVE9nTW5tQ3JsUVZpeWszYw?oc=5",
-      "pub_date": 1790272940.0,
-      "article_url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "image": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "description": "Project brings hands-on robotics lessons to high-school students"
-    },
-    {
-      "headline": "Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVQ4cnhYRk53bzZYeHNoanp4MGhYZG8zTVA2Q040QXYzWjlTUWlRRF94bVRIbEpnRjE1Z05WajFaaUE5TU1HWFhoVVN4Ynh4bEVJamIyR3FCRE5yX25FaGMxSUV1cTVTelh0X29XZlo4VDJXOWdHT29VQUdBRExUTGNRa0lBVzRwdHBjVEFKcmZDMGlVUW5KZl90UG5vbkF3SkJsX0tOQWw?oc=5",
-      "pub_date": 1790254800.0,
-      "article_url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322",
-      "image": null,
-      "description": null
+      "headline": "Five Million Robots now Operate in Factories Globally",
+      "source": "ifr.org",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "pub_date": 1790247524.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
@@ -75,14 +65,14 @@
       "description": null
     },
     {
-      "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
-      "source": "Vogue",
-      "source_url": "https://www.vogue.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtMU1BFYVE1WVV3ZGVuMXpMR1VlMnhuZ2RwX0tqVGlSZVlQMGt4Z2dVMG5NeVI1NUw4a004NmRKZk4zU0NqanhBb3hzV0ZGSVZla25USDZpZ1lVU1RZcWRzMGZSTXY0Y2dOd25EX1dZa3VjWk1jaVRYUUIydUJWMUsyaXl4MFVmUV9hS2hqc3hkVEVHZ2c?oc=5",
-      "pub_date": 1790194572.0,
-      "article_url": "https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano",
-      "image": "https://assets.vogue.com/photos/6ab3f558ce4c8e686d649214/16:9/w_1280,c_limit/GettyImages-2296705457.jpeg",
-      "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
+      "headline": "Ukraine\u2019s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0N0UjZGM2ZtWlBkQ3RzcGw0Q21LR24ySXNDdUJ4VmhLWmRmT0pBYjVWQ21nMWdqUmNyUlhuXzQ5emxCNzJzZXBZbWg5dnFzckMzQUhBRkhHYXFROUFXUlZmU3BVYjdOcDBQWlBsZXhucnQzNVdPV3RlN2pSUkxTSDlJNTM2M2k5TW5fQ0ZVaWZ2V1NIZ1VtQXBwd181V1V1X05wcFNxZw?oc=5",
+      "pub_date": 1790337420.0,
+      "article_url": "https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9",
+      "image": "https://i.insider.com/6ab28c21eb722541126791d2?width=1200&format=jpeg",
+      "description": "Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems."
     },
     {
       "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
@@ -95,16 +85,26 @@
       "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
     },
     {
-      "headline": "Humanoid Robots Spell Opportunity for European Chemical Firms",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkZPWWJMMnBQYmEzRnpqZ3ZQam9VZVZ3WFZKbEZXTjBnZUs5MHJxa2lKamFYT0ZzeDcyWkQ3Y3U2T2RuNHA0eF80WkJfcm9Eb3FzRmZjeWtCa2hvbmUtdmVzcjFKQlRXcTI5ZnlXQW44Z0Vtd2lxVHBVbWhEd2VsVGxtS1RDbGZmakl0VjBRcHhpYmJPamRiRmJuLWhKWmxqUnk2TXZhdWlPUDNBOXdfdVR3?oc=5",
-      "pub_date": 1790230500.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms",
+      "headline": "Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEQ1RFV6c2NLeXMzR2llZnVtenBNQlpTc0tMTHBpOGJ0Q21JYmFKUl8yTEo5ZDNqZTNnZ2VEUlZJcDFtd0dYQWRjbENzaUZ1dTJTWnZ4TFZhUVlXTFB1ZjNXbTZhOUtmczJTVnFORnVTSnZMS1E3Y1V1b09EX2p5X1UzdWg3cVhmNDhJSU5mQnRpaFU3aWc?oc=5",
+      "pub_date": 1790343660.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fb29904af680e5ae0764728081a6be4d58494637b98c4492524e753dda470a0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F91428013e60c0afdac0a263217d3a148.jpg",
+      "description": "Nvidia doesn't need to build the winning robot if it becomes the company powering all of them."
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T11:19:16.190163+00:00"
+  "fetched_at": "2026-09-25T15:53:37.772926+00:00"
 }
