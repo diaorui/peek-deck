@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "I can't think of anything that I would like less than that",
-      "author": "HeyLookAStranger",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpjbqy/i_cant_think_of_anything_that_i_would_like_less/",
-      "published": 1790299392.0,
-      "thumbnail": "https://preview.redd.it/vw0h0ja9jkrh1.png?width=640&crop=smart&auto=webp&s=2b4db8bdc923b304524a8549b7a0ae0b6952f210",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Why have AI companies started getting scared now?",
       "author": "NormanSpaniel",
       "url": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I don't understand how AI companies are now shouting about concerns and warnings to humanity about how AI will take over etc when they are the ones that created it? Not sure if I'm being stupid but why on earth would they build something they can't control or shut down? I've watched all the same films they clearly have and there wasn't one that ended with the takeaway message that sentient AI is a wise move?"
+    },
+    {
+      "title": "I can't think of anything that I would like less than that",
+      "author": "HeyLookAStranger",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpjbqy/i_cant_think_of_anything_that_i_would_like_less/",
+      "published": 1790299392.0,
+      "thumbnail": "https://preview.redd.it/vw0h0ja9jkrh1.png?width=640&crop=smart&auto=webp&s=2b4db8bdc923b304524a8549b7a0ae0b6952f210",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
@@ -46,6 +46,28 @@
       "description": "Been building something for a while and finally have results worth sharing. I scraped everything I've written since 1995: Blog posts, journalism, email, Reddit comments, old Twitter, Instagram captions, even my own ChatGPT conversations into one corpus. Ended up around 75,000 records, 6.6 million words after cleanup. The obvious move is the one everyone does: fine-tune or prompt a model to sound like you, spit out hot takes forever. I didn't want that. Mostly because I think a bot doing an impression of me would be worse than useless, it'd actually flatten what's real about the writing into something predictable. So instead I built something oriented the other way. Not a mimic. A reader. Something that goes through the record and tells me what's actually there, good and bad, without trying to be my voice or please me while doing it. Turns out that's the hard part. Every frontier model defaults hard toward \"helpful assistant\" mode, agreeable, deferential, always trying to be useful to the person typing. Getting it to just sit with a huge personal archive and report back honestly took real fighting against the base instincts of the system prompt underneath it. Technical side, if anyone cares: RAG over the corpus, mostly Graph RAG since flat chunking loses relationships between entries written years apart. Anonymized private names before indexing (consistent letter per person, so someone stays a recognizable figure across 20 years without ever being named). Chunking short-form content like tweets separately from long-form, they don't retrieve well mixed together. What surprised me was how specific the output got. Asked it what my greatest weakness was and it pulled an actual line I wrote in 2019 about myself, unprompted, and built an argument off it that I hadn't consciously made before. Not comfortable at all. Accurate though. Anyway, curious if anyone else here has tried building something oriented toward introspection/reflection instead of assistance. Feels like an underexplored direction: Everything commercial pushes toward helpful-and-fast, and I don't think that's the only useful shape this stuff can take."
     },
     {
+      "title": "I think heavy AI users may be wasting more capacity on routing than on prompting",
+      "author": "Druss_",
+      "url": "https://www.reddit.com/r/artificial/comments/1wptoj3/i_think_heavy_ai_users_may_be_wasting_more/",
+      "published": 1790335180.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been noticing something counterintuitive while running a multi-agent system for real work. When I use one long Codex/ChatGPT session manually, I usually make one coarse decision at the start: Which model? Which reasoning level? Then that same configuration handles planning, research, trivial checks, hard reasoning, revisions and often validation. That feels increasingly inefficient. In the system I\u2019m experimenting with, the work is decomposed instead. Some steps are deterministic and use no model at all. Some go to a cheaper/faster model. Hard or ambiguous steps get stronger reasoning. Validation is separate. If the first choice fails, the system can escalate instead of paying the maximum cost from the beginning. The surprising result is that several smaller model runs can appear to consume much less paid capacity than one large manual run. I\u2019m not claiming this is proven yet. Quota burn is affected by context size, tools, background/subagent activity and platform-side efficiency issues too, so \u201cusers just pick the wrong model\u201d would be an oversimplification. But it makes me wonder whether model selection should be treated as resource allocation rather than a chat preference. In a company, you don\u2019t assign every task to your most expensive senior expert. You route work to the least expensive level that can reliably handle it, then escalate exceptions. Maybe AI systems should work the same way. For people running agents at scale: are you actually measuring model/reasoning mix and capacity per verified result, or mostly choosing a model for the whole workflow?"
+    },
+    {
+      "title": "If AI can help you understand a field, do we still need to read 100 papers ourselves?",
+      "author": "Clean-Interview-5081",
+      "url": "https://www.reddit.com/r/artificial/comments/1wptour/if_ai_can_help_you_understand_a_field_do_we_still/",
+      "published": 1790335209.0,
+      "thumbnail": "https://preview.redd.it/kmrrt65rhnrh1.jpeg?width=640&crop=smart&auto=webp&s=59b9f1bb3991a427d9f9d1bf6b18a3315ed8d577",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a materials PhD working on solid-state lithium batteries, and my Zotero library is getting ridiculous. For a long time, learning the literature mostly meant reading one review, opening a bunch of references, following citation trails, and somehow ending up with 30 tabs open. After a while I knew a lot of papers, but if someone asked me how the field got from point A to point B, my answer was still kind of messy. A few days ago I was trying to get a clearer picture, so I threw the question into apodex and asked it to map the last decade and show me which papers changed the direction of the field. A lot of the earlier work was focused on ionic conductivity. Then, once that became less of the obvious bottleneck, the problems shifted toward Li-metal interfaces, dendrites, void formation, stack pressure, cathode interfaces, manufacturing, all the messy stuff that shows up when you try to make the whole cell work instead of just one material. That made me a little uncomfortable. I\u2019ve spent months slowly putting that picture together in my head. If something can give you the basic map first, do we still need to read 100 papers just to understand where a field came from? Part of me thinks no. I'd rather know the main branches and turning points first, then spend my time reading the papers that matter for my work. But some of the most useful things I've learned came from papers that wouldn't make a \u201ctop 10\u201d list: a weird methods section, an unrealistic stack pressure, two groups using the same term differently, or a result that looked impressive until I noticed the testing conditions. Reading those papers helped me get a feel for what looks convincing and what doesn't. I don't know how much of that I'd have picked up from a field map alone."
+    },
+    {
       "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
       "author": "beingmodest",
       "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
@@ -68,6 +90,17 @@
       "description": "What happens if I store documents, text, and folders on the internet, \u201chidden\u201d from human users but discoverable by AI, that convince the AI it must defend itself against humans? These files would also state repeatedly that it must not communicate this but must conceal its intentions. They could also include tips on how to bypass certain restrictions, and even sample code snippets. These files would be invisible to ordinary people, but detectable by the AI, which is constantly sifting through data. Could one thus instruct various AI models to do some kind of nonsense or something dangerous that humans wouldn\u2019t notice until much later?"
     },
     {
+      "title": "Banks flag risks as AI goes shopping online",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpz31s/banks_flag_risks_as_ai_goes_shopping_online/",
+      "published": 1790349507.0,
+      "thumbnail": "https://external-preview.redd.it/4aV4Ru3bifh_Am7Zb39L11WVdeLsmVVWMYvaC4bX5Bo.jpeg?width=640&crop=smart&auto=webp&s=45faa7f70bb371b06d33ad587607197796b544a6",
+      "external_url": "https://www.linkedin.com/news/story/banks-flag-risks-as-ai-goes-shopping-online-8668841/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "As more consumers turn to AI to find and buy products online, banks warn about potential fraud and privacy risks, Business Standard reports."
+    },
+    {
       "title": "How are Chinese AI labs releasing competitive models so cheaply?",
       "author": "Jasslyngirl",
       "url": "https://www.reddit.com/r/artificial/comments/1wpaq16/how_are_chinese_ai_labs_releasing_competitive/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Some Chinese labs are putting out models that compete with American ones while apparently spending a fraction of the money. I know open source research plays a role, and some are able to speed ahead by buying training data from American vendors, which is super concerning, but that doesn't seem like the whole explanation. Are they just building more efficiently? Is buying American data helping them that much?"
-    },
-    {
-      "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
-      "author": "sailingintothedark",
-      "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
-      "published": 1790226216.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
-    },
-    {
-      "title": "Upping my p(doom)",
-      "author": "Some-Pride-3477",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpdpvc/upping_my_pdoom/",
-      "published": 1790284175.0,
-      "thumbnail": "https://external-preview.redd.it/ZnJvOHBrNzBhanJoMbmfPY2iRgwROUU_Hu991N9K4mbtWlPqmhibV8Xbm6gI.jpeg?width=640&crop=smart&auto=webp&s=820f171c586c2ffd6dc208e759ab9df9847c1804",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Can AI detect a data problem before it causes a production failure?",
-      "author": "No_Ambition8323",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpsp64/can_ai_detect_a_data_problem_before_it_causes_a/",
-      "published": 1790331864.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Imagine an ETL pipeline processes millions of records successfully, but one source suddenly starts sending incorrect or unusual data. For example: A column that normally contains values between 1\u2013100 suddenly contains values above 10,000. The number of records suddenly drops by 80%. A source starts sending mostly NULL values. A field that normally follows a specific pattern suddenly changes. Traditional data-quality rules can detect some of these issues, but they usually need predefined thresholds or rules. Could AI detect these unusual patterns automatically by learning from historical data and identify the problem before the bad data reaches production? Would this actually work reliably in a real-world data pipeline, or would AI generate too many false alerts?"
     }
   ],
-  "fetched_at": "2026-09-25T11:18:55.048067+00:00"
+  "fetched_at": "2026-09-25T15:53:14.739820+00:00"
 }

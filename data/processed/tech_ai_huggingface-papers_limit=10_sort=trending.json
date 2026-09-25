@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2609.24984",
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
-      "organization_name": "TencentARC",
-      "organization_fullname": "ARC Lab, Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
-      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24984",
-      "arxiv_url": "https://arxiv.org/abs/2609.24984",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 148,
-      "num_comments": 4,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/TencentARC/WorldCrafter",
-      "github_stars": 346,
-      "project_page": "https://drexubery.github.io/WorldCrafter"
-    },
-    {
       "id": "2412.20138",
       "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
@@ -37,6 +18,25 @@
       "github_repo": "https://github.com/tauricresearch/tradingagents",
       "github_stars": 108509,
       "project_page": null
+    },
+    {
+      "id": "2609.24984",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
+      "organization_name": "TencentARC",
+      "organization_fullname": "ARC Lab, Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24984",
+      "arxiv_url": "https://arxiv.org/abs/2609.24984",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
+      "upvotes": 149,
+      "num_comments": 4,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/TencentARC/WorldCrafter",
+      "github_stars": 348,
+      "project_page": "https://drexubery.github.io/WorldCrafter"
     },
     {
       "id": "2503.11576",
@@ -69,11 +69,11 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 47,
+      "upvotes": 49,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
-      "github_stars": 294,
+      "github_stars": 308,
       "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
     },
     {
@@ -92,27 +92,8 @@
       "num_comments": 3,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GameHorizon",
-      "github_stars": 230,
+      "github_stars": 237,
       "project_page": "https://gamehorizon-suite.github.io/"
-    },
-    {
-      "id": "2609.24972",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
-      "organization_name": "google",
-      "organization_fullname": "Google",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
-      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24972",
-      "arxiv_url": "https://arxiv.org/abs/2609.24972",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 202,
-      "num_comments": 2,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 320,
-      "project_page": "https://regularized-rsi.com/"
     },
     {
       "id": "2407.16741",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/ApodexAI/FrontierAgent",
       "github_stars": 4602,
       "project_page": "https://www.apodex.com/blog/apodex-1.1-scaling-agentic-intelligence-for-complex-work"
+    },
+    {
+      "id": "2609.20519",
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "authors": "Haozhe Liu, Tian Ye, Sensen Gao et al. (14 authors)",
+      "organization_name": "nvidia",
+      "organization_fullname": "NVIDIA",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
+      "summary": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement. We take an RSI-inspired approach at the harness layer, scaling auto-research loops across increasingly numerous and diverse environments for harness rollouts. At this scale, the process yields reusable improvements that transfer beyond their development setting, moving automated harness discovery toward production-level outcomes. Four mechanisms survive selection and form SoL-Pi, spanning action execution, context compaction, observation handling, and delegated reading. On the 51-task EdgeBench evaluation, SoL-Pi achieves performance comparable to Pi across GPT-5.6 Sol and Opus 5 while reducing recorded token traffic by 44.7-49.0% and API cost by about one third. In other words, estimated hourly savings are \\8.75-13.50 relative to native Codex and Claude Code harnesses, and \\4.36-5.71 relative to Pi.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.20519",
+      "arxiv_url": "https://arxiv.org/abs/2609.20519",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
+      "upvotes": 130,
+      "num_comments": 3,
+      "published_at": "2026-09-16T20:00:00.000Z",
+      "github_repo": "https://github.com/NVlabs/SoL-Pi",
+      "github_stars": 3055,
+      "project_page": "https://nvlabs.github.io/SoL-Pi/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-25T11:19:06.122455+00:00"
+  "fetched_at": "2026-09-25T15:53:25.209656+00:00"
 }
