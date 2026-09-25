@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-25T11:19:23.930366+00:00'
+updated: '2026-09-25T15:53:41.672365+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 25, 2026 at 11:19 UTC  
+**Last Updated:** September 25, 2026 at 15:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-21h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 22h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 1d ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-16h ago
+21h ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-19h ago
+1d ago
 
 ---
 
@@ -112,43 +112,35 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Feather is betting on a customizable, $30,000 platform built for software developers.
 
-TechCrunch • 16h ago
+TechCrunch • 21h ago
 
 ---
 
-**[What if robots didn't need all their AI onboard?](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)**
+**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
-
-Microsoft • 1d ago
+Qualcomm • 2d ago
 
 ---
 
-**[autonomous robotic hand walks on its fingertips like the addams family’s thing](https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/)**
+**[Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html)**
 
-researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm.
+/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a developer of autonomous subsea robotic systems and autonomy software,...
 
-Designboom • 18m ago
+PR Newswire • 7h ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 18h ago
+Breaking Defense • 13h ago
 
 ---
 
-**[Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)**
+**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
 
-Project brings hands-on robotics lessons to high-school students
+The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
 
-IEEE Spectrum • 17h ago
-
----
-
-**[Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub](https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322)**
-
-WSJ • 22h ago
+ifr.org • 1d ago
 
 ---
 
@@ -158,11 +150,11 @@ The New York Times • 1d ago
 
 ---
 
-**[The Story Behind the Runway Robots at Vogue World 2026: Milano](https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano)**
+**[Ukraine’s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say](https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9)**
 
-“It’s fun, because the robots are fun, but it’s also terrifying,” says Vogue World: Milan’s creative director Juan Costa Paz of the humanoid robots used during Tuesday’s event.
+Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems.
 
-Vogue • 1d ago
+Business Insider • 3h ago
 
 ---
 
@@ -174,9 +166,17 @@ CNBC • 1d ago
 
 ---
 
-**[Humanoid Robots Spell Opportunity for European Chemical Firms](https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms)**
+**[Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?](https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html)**
 
-Bloomberg.com • 1d ago
+Nvidia doesn't need to build the winning robot if it becomes the company powering all of them.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -190,7 +190,7 @@ AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped 
 
 📺 MindSeeded
 
-👁️ 59K • 👍 3K • 💬 228 • ⏱️ 13:48 • 19h ago
+👁️ 62K • 👍 3K • 💬 234 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ How fast can a robot solve a Rubik's Cube? This incredible demonstration shows j
 
 📺 Moshyy
 
-👁️ 11K • 👍 153 • 💬 2 • ⏱️ 0:21 • 8h ago
+👁️ 15K • 👍 210 • 💬 3 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -210,7 +210,17 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 649K • 👍 6K • 💬 639 • ⏱️ 4:18 • 2d ago
+👁️ 660K • 👍 6K • 💬 646 • ⏱️ 4:18 • 2d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 34K • 👍 542 • 💬 55 • ⏱️ 0:16 • 4d ago
 
 ---
 
@@ -224,13 +234,23 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
+
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
+
+📺 RoboFrontier
+
+👁️ 47K • 👍 172 • 💬 62 • ⏱️ 4:15 • 3d ago
+
+---
+
 **[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
 
 Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
 
 📺 Mark Dice
 
-👁️ 527K • 👍 17K • 💬 5K • ⏱️ 19:23 • 1d ago
+👁️ 532K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
 
 ---
 
@@ -240,7 +260,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 197K • 👍 1K • 💬 242 • ⏱️ 2:40 • 4d ago
+👁️ 197K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
 
 ---
 
@@ -250,17 +270,7 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 341K • 👍 410 • 💬 57 • ⏱️ 0:59 • 2d ago
-
----
-
-**[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
-
-In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
-
-📺 NBC News
-
-👁️ 146K • 👍 1K • 💬 285 • ⏱️ 3:34 • 2d ago
+👁️ 346K • 👍 424 • 💬 58 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -270,17 +280,7 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 69K • 👍 895 • 💬 130 • ⏱️ 1:00 • 4d ago
-
----
-
-**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
-
-Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
-
-📺 Tazer
-
-👁️ 109K • 👍 3K • 💬 179 • ⏱️ 24:10 • 1d ago
+👁️ 70K • 👍 900 • 💬 135 • ⏱️ 1:00 • 5d ago
 
 ---
 
