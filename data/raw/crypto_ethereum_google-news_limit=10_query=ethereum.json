@@ -6,13 +6,33 @@
   "articles": [
     {
       "headline": "Bitcoin, Ethereum, XRP Slide as $18 Billion Options Expiry Looms: What\u2019s Going On?",
-      "source": "Benzinga",
+      "source": "benzinga.com",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHFOb2IzNDVBS2lzUzZWazZuZm5CTGdTM05EY1VGUk5JdXBsT3RDT2JjNG5rWU1xUUZKUS14Q3BDdTVjVWM1b2xYV09KX1dSQ2lVZHdaY2k1N01jUHB2YmkyTFl6bkU3eFZDYklmbi1WSExjZjhmZ0tRbmFHcUh1c0ZWUlpiRk5RTUI3V3dZZ0hucXVMSVU5b2NTQmZ6YzdwNi1MdTFNSzlqRmdXQ21YMVFGc1FWU1JtNlc2ZFJTSDM2VThsNjNndXNHWmJaYTNrZjd2Uy1n?oc=5",
       "pub_date": 1790185289.0,
       "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61954350/bitcoin-ethereum-xrp-plunge-as-18-billion-options-expiry-looms-whats-going-on",
       "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/23/Flying-Altcoins-With-Bitcoin-In-The-Cent.jpg",
       "description": "Bitcoin, Ethereum and XRP retreat ahead of Friday\u2019s $18 billion options expiry, the largest of 2026, as traders brace for volatility."
+    },
+    {
+      "headline": "XRP, Dogecoin (DOGE), Ethereum (ETH) and Stellar (XLM) Price Analysis For September 25: Bears Take Control",
+      "source": "U.Today",
+      "source_url": "https://u.today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGVfYmVOSnhubzV5Uy12Yl9lNVJGbnBpUE5pcHBkYWxrQnl1S2hvbG1iTmRDUWRiZ2NMdjRiTDRUUTU1UjRVMVc1aGhISUFpb0VaMGxXMnU0cGJ3MUJQVHZPQkJERHZEUUFxbnBDMk1oSUROMUhNbC1leTNJRWdvOGhFNHlkX1hVcXBHMXVfeUhHemFvemdvX2ZJYXU4WnVqTVFzZTlLc01mSF9fT3A0ZFNVelRlX2tJX1A3U3VoR3g5MHRmSmI40gHMAUFVX3lxTFBuSXdycWZSSUVwZ0pPemlpWmVpamxpd05JUF9fTHVTQ0F4VlZBT0o2MkpFOUlqWWFaSUM2X0hLN3RNX0hLbElTb0x2NDJGNTBPaHVhbzRudGt3VHVWU0FIVl9oWlJXazY1cFIyUVh4LUJvWDV2WnF3ZnR5dHpNN1M1dXdBRHpWTWxWN3BablVMelpDQ3ZIRzVMcm01djY0ZFhNU2tCT29JR0E4VkVVS0xLMDFhZF9zUm95SjVvR25vMW9HOTY2LTNUcVJBNg?oc=5",
+      "pub_date": 1790297145.0,
+      "article_url": "https://u.today/price-analysis/xrp-dogecoin-doge-ethereum-eth-and-stellar-xlm-price-analysis-for-september-25-bears-take-control",
+      "image": "https://u.today/sites/default/files/styles/twitterwithoutlogo/public/2026-09/Depositphotos_507227680_S.jpg",
+      "description": "XRP, Dogecoin, Ethereum and Stellar are trying to preserve their recent breakouts as correction covers the market."
+    },
+    {
+      "headline": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
+      "pub_date": 1790332137.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/1-68-million-eth-waiting-102857628.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/fd684b12e5941f53012a1c0bf371d1d2b25e565a62f427e95bc78811a008b09b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F7581fea6caa6efda4122aea268e182d2.jpg",
+      "description": "Ethereum's staking queue shows nearly 11 coins locking up for every one leaving, a ratio that bulls call a price floor and skeptics call a distraction. The truth depends on understanding what staking queues actually measure and what they cannot."
     },
     {
       "headline": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
@@ -35,6 +55,16 @@
       "description": "Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the\u2026"
     },
     {
+      "headline": "Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNk5rQWg0WG82WWtTUGJlLUNzc28zQ2dmUTYwQ0RubDB3Y2tPNDBGYWV6MnZFS0FxQmFONndrcFotQlVJOFdjbm9FNnBVQ3hiLU5CUzloTDB0NmlxTS1Vbm1uZGdrSzVFczN6eHNPd3pRa1gyNVp4RXV4cENBRFJaZ0xteTJLeUEyMG42MjktZXJjQTYzNkc1UnZWdFFXWHpoQmQ2ZWdqdHpmY0hVMGx6THoyZFI0N3hIVlpQVkVTWjMzcVFxSzBNeW9lczNBeDVfZ3dDVHhpR21FNncxeXltakx4NmRPR1E?oc=5",
+      "pub_date": 1790318146.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356",
+      "image": "https://ml.globenewswire.com/Resource/Download/9421c0aa-e775-4392-a8e2-39d241101639/ajsbgjhd.png",
+      "description": "NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to..."
+    },
+    {
       "headline": "Current price of Ethereum for September 22, 2026",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -45,14 +75,14 @@
       "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
     },
     {
-      "headline": "Crypto News: Ethereum-Based Pepeto Announces Its Presale Stage Ends in Minutes Ahead of a Scheduled Price Increase",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSmhSVlFpWTZid2tmVzNOZzI4S1BIdjB0QlJHVHJkb2RTWlJDbEUwYXM2WE5VSlRhaGwxejAzTTMtenc5emNkdmEzSkNnZnFncXFETGFUU0NqdDItSFRlWF96R0YwM3ZicG1wOHRKdTVBNlFVb2pqYm1PdnkxNTdrWE1ydTRjZXB3Z2MxTmgyMGZ5QUY4Y3pOQ0w3aXdxd01qOHd1S1FOa0NIYl8tMFJqOWEzeXFCX0JWaWZSbHIwS1NHd2Y0UFJMam5ISWtHUVgtWnBMcFFTRkx3TGNwS2FZUTdIRW1nTUJzTXNRay1YSXJ5SFV2aEp0aWtJbEVTa2lqZVE?oc=5",
-      "pub_date": 1790183099.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/crypto-news-ethereum-based-pepeto-announces-its-presale-stage-ends-in-minutes-ahead-of-a-scheduled-price-increase-1036568347",
-      "image": "https://ml.globenewswire.com/Resource/Download/2af8a49d-e65c-4ae3-898d-82f7ce635081/crypto-news-pepeto-announces-its-presale-stage-ends-in-hours-before-a-price-rise-while-bitcoin-price-prediction-targets-170-000.jpg",
-      "description": "DUBAI, United Arab Emirates, Sept.  23, 2026  (GLOBE NEWSWIRE) -- Pepeto, the Ethereum-based crypto with a live DeFi exchange, has announced that ..."
+      "headline": "Solana flips Ethereum in fees, while ETH holds the burn lead",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOU9LZ0dfUWRVQjdjdVZKcDBEYk9zLXMweHlLUWxreHlGcFZRUWRIT2JmRzhSWTFHWHNnSGNqR0UzSjNHYTRiZlpZY00tNjRBbTVXT1BhT3VaSVJoWmViNGZseDRrR3NaMEk1ck1CNW93aG5kREFETmNkTGkzbmlrekxIZ0puWkdwanp4Wg?oc=5",
+      "pub_date": 1790142294.0,
+      "article_url": "https://cryptoslate.com/solana-flips-ethereum-in-fees-while-eth-holds-the-burn-lead/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-fees-ethereum-burns.webp",
+      "description": "DefiLlama\u2019s Sept. 22 snapshot and longer-window totals show why fee generation, staking receipts and holder returns require separate measures."
     },
     {
       "headline": "Ethereum: Dip Below Range May Fuel 2026 Breakout",
@@ -73,38 +103,8 @@
       "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitwise-ethereum-solana-venture-bets-sell-if-adoption-stalls/cZM4bCARBJz",
       "image": "https://news.stocktwits-cdn.com/large_Getty_Images_2203179451_1_f953e5943b.jpg",
       "description": "A Bitwise report found Bitcoin is the only cryptocurrency on which significant institutions agree, with Ethereum and Solana considered lesser conditional bets."
-    },
-    {
-      "headline": "L2 growth and $120 billion in staking hide Ethereum\u2019s supply reality",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV2h6RVFaN1NENENCdkJSZ3dPNVlyZHVMWHJaSG9EVXBqdUNiZ2pYSzFsU0xFMzVjM21rcUJGdVFHemRrXzVDNDFSanJFT2JYeHNtazhqVERIclZwcy03Q0ZNdTB0T2FoWFRXZzlHVjU3dFE3c0tNd0hMQ3VEeFJCUVZTYlpqX2dwOWJVWVgxTGRZTHdnSVE?oc=5",
-      "pub_date": 1790030420.0,
-      "article_url": "https://cryptoslate.com/l2-growth-and-120-billion-in-staking-hide-ethereums-supply-reality/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-demand-divide.webp",
-      "description": "Large network balances sit alongside uneven ETF flows, while the benefit to Ethereum holders depends on purchases and fees."
-    },
-    {
-      "headline": "What Would It Take for Ethereum to Hit $5,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVlGcEk4Qk80ZzBvSnNjYXVKeWlKTWU3a3lLN1lWNU44aVVQTTBpeEhwa0FsT0NjeUJrZFBzekZITmJmNXc1WGxqbVQyblJGb1V1T29qRUlHUFEwcndsclA0U0hmTHlfWm1XZW9jZFF6M3l2TEdwemRvWC1hSnpXLTVFVm5DNEI3RjdZ?oc=5",
-      "pub_date": 1790180797.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-hit-5-000-162637255.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg",
-      "description": "Ethereum has twice charged toward $5,000 only to collapse before month's end, and a third attempt is now taking shape under very different conditions. Whether those conditions are enough depends on a chain of events that starts well below the milestone."
-    },
-    {
-      "headline": "Tom Lee Agrees Ethereum 5-Year Consolidation Is the Launchpad for a Mega Price Rally",
-      "source": "coinspeaker.com",
-      "source_url": "https://www.coinspeaker.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1NjB5aHNkd0Q0VjdGRVM3V0J4bUtmMmJJeDlpV0ZSRUg2QXFlMzE2UFd6VEZRLVg4elZkQ3Bna0NpcFY5TlZZVVp4dVdPanFNR1ZySjg4Z3JraVI1eEJTS01JQ05qMzlydjBqb0k2VlFWbVIxdTln0gF8QVVfeXFMTXlCOXI2alpxaXBnNmtmYzE1Q1gyUWFlX0ZfbWdtMS1DSDQzTk5EWEdlTVlnMXZ6dTdUTWdldXk2WklQU1Vnd1FVeGRvSGQxMTczYWRvYkRxUmpBSVFxZmhubW8xMUVWa0d2aUIyLUYzX05UdkZHMFFKX1NPTg?oc=5",
-      "pub_date": 1790255595.0,
-      "article_url": "https://www.coinspeaker.com/ethereum-news-consolidation-price-rally/",
-      "image": "https://www.coinspeaker.com/wp-content/uploads/2026/09/tom-lee-ethereum-consolidation-mega-rally.webp",
-      "description": "Ethereum news: Tom Lee backs ETH's five-year consolidation as a launchpad, but price must first break $2,800 resistance to rally."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T05:54:29.120430+00:00"
+  "fetched_at": "2026-09-25T11:19:16.647249+00:00"
 }
