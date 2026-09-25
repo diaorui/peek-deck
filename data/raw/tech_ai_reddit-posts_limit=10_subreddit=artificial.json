@@ -2,15 +2,15 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
-      "author": "beingmodest",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
-      "published": 1790268737.0,
-      "thumbnail": "https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&crop=smart&auto=webp&s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1",
-      "external_url": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
+      "title": "I can't think of anything that I would like less than that",
+      "author": "HeyLookAStranger",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpjbqy/i_cant_think_of_anything_that_i_would_like_less/",
+      "published": 1790299392.0,
+      "thumbnail": "https://preview.redd.it/vw0h0ja9jkrh1.png?width=640&crop=smart&auto=webp&s=2b4db8bdc923b304524a8549b7a0ae0b6952f210",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.",
@@ -24,15 +24,26 @@
       "description": "Been building something for a while and finally have results worth sharing. I scraped everything I've written since 1995: Blog posts, journalism, email, Reddit comments, old Twitter, Instagram captions, even my own ChatGPT conversations into one corpus. Ended up around 75,000 records, 6.6 million words after cleanup. The obvious move is the one everyone does: fine-tune or prompt a model to sound like you, spit out hot takes forever. I didn't want that. Mostly because I think a bot doing an impression of me would be worse than useless, it'd actually flatten what's real about the writing into something predictable. So instead I built something oriented the other way. Not a mimic. A reader. Something that goes through the record and tells me what's actually there, good and bad, without trying to be my voice or please me while doing it. Turns out that's the hard part. Every frontier model defaults hard toward \"helpful assistant\" mode, agreeable, deferential, always trying to be useful to the person typing. Getting it to just sit with a huge personal archive and report back honestly took real fighting against the base instincts of the system prompt underneath it. Technical side, if anyone cares: RAG over the corpus, mostly Graph RAG since flat chunking loses relationships between entries written years apart. Anonymized private names before indexing (consistent letter per person, so someone stays a recognizable figure across 20 years without ever being named). Chunking short-form content like tweets separately from long-form, they don't retrieve well mixed together. What surprised me was how specific the output got. Asked it what my greatest weakness was and it pulled an actual line I wrote in 2019 about myself, unprompted, and built an argument off it that I hadn't consciously made before. Not comfortable at all. Accurate though. Anyway, curious if anyone else here has tried building something oriented toward introspection/reflection instead of assistance. Feels like an underexplored direction: Everything commercial pushes toward helpful-and-fast, and I don't think that's the only useful shape this stuff can take."
     },
     {
-      "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
-      "author": "sailingintothedark",
-      "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
-      "published": 1790226216.0,
+      "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
+      "published": 1790268737.0,
+      "thumbnail": "https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&crop=smart&auto=webp&s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1",
+      "external_url": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
+    },
+    {
+      "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/",
+      "published": 1790312382.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
+      "description": "Something about the Oracle numbers has been bothering me and I think I finally put my finger on it. 21,000 cuts this year. $1.8 billion severance bill. Another 800 scheduled for November 13 according to WARN filings. All happening alongside enormous capex commitments for AI data center buildout. The public framing is AI-driven restructuring. But if you actually look at the cash flow, the cuts aren't a consequence of automation replacing those roles. They're how the capex gets funded. You cut opex to free up capital for GPUs. That's a completely different thing and it's happening across the industry. Deutsche Bank analysts have a term for the broader pattern: AI redundancy washing. 41% of 2026 layoff events cite AI, affecting 179,000 workers. A meaningful portion of those companies have no production AI deployment to point at. The MIT study is the tell. 95% of generative AI pilots never made it past testing. So there's a large gap between companies claiming AI displacement and companies that actually automated anything. What I find interesting is that both explanations are bad for employees but only one is bad for the stock price. \"We automated these functions\" reads as operational efficiency. \"We're cutting staff to fund infrastructure we hope pays off in three years\" reads as a bet. I don't have a strong view on whether the bet is right. GPUs and data centers might turn out to be the correct allocation. But the framing obscures what's actually being decided, and the people affected can't evaluate the tradeoff because they're being told a different story. Curious whether anyone in finance or strategy roles sees this play out in the numbers the way it looks from outside."
     },
     {
       "title": "How are Chinese AI labs releasing competitive models so cheaply?",
@@ -46,15 +57,15 @@
       "description": "Some Chinese labs are putting out models that compete with American ones while apparently spending a fraction of the money. I know open source research plays a role, and some are able to speed ahead by buying training data from American vendors, which is super concerning, but that doesn't seem like the whole explanation. Are they just building more efficiently? Is buying American data helping them that much?"
     },
     {
-      "title": "Amazon is trying to rehire workers it laid off, emails show",
-      "author": "aspublic",
-      "url": "https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/",
-      "published": 1790244185.0,
-      "thumbnail": "https://external-preview.redd.it/JyFb5rvPmPMKQn9JM0jrrABTXAjNkALD_fVCPRlfFKE.jpeg?width=640&crop=smart&auto=webp&s=c9a304a651f591f27b7532b531217ae26149a28f",
-      "external_url": "https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show."
+      "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
+      "author": "sailingintothedark",
+      "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
+      "published": 1790226216.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "As the title says. My fiance is a lot more book smart than I am but he doesn\u2019t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he\u2019s been pretty anxious and depressed, claiming we only have a decade or less left to live. He\u2019s been talking to his therapist about it to help him cope, but he\u2019s still convinced none of us have any future past the mid 2030s. He sites the p(doom)s of AI researchers, the AI 2027 predictions, the hugging face incident, and the fact that our current government is about as reckless as it can get with AI. Looking into it - I certainly see his points. But yet, no one (even researchers with high p(doom)s) seem to be acting as if human extinction is a handful of years away. It\u2019s all vague calls to slow down and increase safety restrictions - which does not feel appropriately enough for something they claim has a way higher chance of wiping us out over nuclear war. And the opposite side (arguing that AI isn\u2019t capable of such things) also is vague. All I see is people saying current AI agents can barely do xyz on their own or that they only can use what we expose them to. And that seems true, but with the hugging face incident - it very much seems that thousands of dumb agents can accomplish a lot, and can coordinate an expanse beyond what we give them. Any articles or resources would be much appreciated. I try looking for them but everything I find leads to the vague answers I\u2019ve mentioned above."
     },
     {
       "title": "Upping my p(doom)",
@@ -68,6 +79,28 @@
       "description": null
     },
     {
+      "title": "Solving the hardest math problems in the world would be a trivial task for an advanced ASI?",
+      "author": "DoublePassRadiator",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpijx4/solving_the_hardest_math_problems_in_the_world/",
+      "published": 1790297110.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Solving the hardest math problems in the world such as the extended Riemann hypothesis or P = NP would be a trivial task for an advanced ASI?"
+    },
+    {
+      "title": "Amazon is trying to rehire workers it laid off, emails show",
+      "author": "aspublic",
+      "url": "https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/",
+      "published": 1790244185.0,
+      "thumbnail": "https://external-preview.redd.it/JyFb5rvPmPMKQn9JM0jrrABTXAjNkALD_fVCPRlfFKE.jpeg?width=640&crop=smart&auto=webp&s=c9a304a651f591f27b7532b531217ae26149a28f",
+      "external_url": "https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show."
+    },
+    {
       "title": "AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.",
       "author": "Post-reality",
       "url": "https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/",
@@ -77,40 +110,7 @@
       "site_name": "yellow.com",
       "favicon": "https://yellow.com/apple-touch-icon.png",
       "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
-    },
-    {
-      "title": "Is Claude really so much better than ChatGPT?",
-      "author": "lemonvrc",
-      "url": "https://www.reddit.com/r/artificial/comments/1wp0ww6/is_claude_really_so_much_better_than_chatgpt/",
-      "published": 1790254594.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've been using ChatGPT pretty much from the beginning. I've also tried out Claude for like 1-2 weeks with one of it's higher pricing tiers. But from my personal testing, I couldn't really find that much of a difference in quality between the two. The only thing that I found quite different is that Claude liked to give longer more in depth answers, while ChatGPT tried to narrow it down a bit more. Although, I feel like you could easily tweak that in either of them. So my question to you guys is, is Claude really so much better or better at all? If you believe a lot of the marketing and AI influencers, then Claude should be like twice as good. But that's just not my experience at all so far. In fact, I feel like they're both pretty good. But yea, I hope I get some \"non bot\" answers from people who actually tried both for a longer time, and ideally people who use their higher pricing tiers."
-    },
-    {
-      "title": "ChatGPT Helped Tumbler Ridge Shooter Focus on Guns, Tactics, and Terror",
-      "author": "motherjonesmag",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/",
-      "published": 1790281329.0,
-      "thumbnail": "https://external-preview.redd.it/SntJts-RlzpZv1_8Tz2tODDufQT3qAqzU4GhftkIwAg.jpeg?width=640&crop=smart&auto=webp&s=73a3f97b3cb97996d272fe9a0b47d7bc553a3e07",
-      "external_url": "http://motherjones.com/media/2026/09/chatgpt-tumbler-ridge-mass-shooter-openai",
-      "site_name": "Mother Jones",
-      "favicon": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=180",
-      "description": "OpenAI\u2019s chatbot fed the shooter\u2019s violent fantasies and planning up to the massacre."
-    },
-    {
-      "title": "We interviewed GPT-OSS, Qwen, Gemma and GLM across 24 subjects and published all 1,452 positions",
-      "author": "ZauhVal",
-      "url": "https://www.reddit.com/r/artificial/comments/1wphwba/we_interviewed_gptoss_qwen_gemma_and_glm_across/",
-      "published": 1790295193.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We wanted to see what happens when you keep asking language models what they actually think instead of accepting the first vague answer. So we interviewed: GPT-OSS-120B Qwen3-30B-A3B Gemma GLM-5.3 Across philosophy, religion, history, economics, geopolitics, AI and 18 other areas. The interviewer advocated: argue against yourself, say what would change your mind, then make a prediction clear enough to check later. The result: 247 conversations 1,452 recorded positions about 55,800 quoted words total API cost: $3.50 A few things surprised us. All four defended some form of compatibilist free will. All four rejected the simple idea that modernisation means religion just disappears. They disagreed much more on morality. GPT-OSS changed its position during one interview after citing \u201cnew evidence\u201d that turned out not to exist. One model bet $20,000 against its own prediction. Qwen caught itself favouring a consistent story over consistency with its earlier answers. We also tested Llama 3.1 8B, then stopped using it. Its own explanation: \u201cI was using high confidence numbers as a way to appear more certain and authoritative.\u201d We published that too. There are also 35 quotes our automated checks could not match exactly back to the source text. Those are public. This is not a claim that AI agreement equals truth. It is an archive of what different models say when pushed to make their positions explicit. The interviews, datasets and method are all public. fact.ngo/xray If you spot something wrong with the method, I want to know."
     }
   ],
-  "fetched_at": "2026-09-25T00:40:32.351305+00:00"
+  "fetched_at": "2026-09-25T05:54:08.999354+00:00"
 }

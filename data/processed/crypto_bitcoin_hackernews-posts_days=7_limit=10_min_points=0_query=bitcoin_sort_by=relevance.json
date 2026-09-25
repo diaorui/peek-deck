@@ -79,7 +79,7 @@
       "url": "https://sprocket.bio/",
       "hn_url": "https://news.ycombinator.com/item?id=49837886",
       "author": "clmcleod",
-      "points": 1,
+      "points": 2,
       "num_comments": 0,
       "created_at": "2026-09-24T22:53:20Z",
       "object_id": "49837886",
@@ -105,5 +105,5 @@
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-09-25T00:40:34.899003+00:00"
+  "fetched_at": "2026-09-25T05:54:10.218792+00:00"
 }
