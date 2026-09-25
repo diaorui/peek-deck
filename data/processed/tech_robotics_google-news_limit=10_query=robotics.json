@@ -16,7 +16,7 @@
     },
     {
       "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "Qualcomm",
+      "source": "qualcomm.com",
       "source_url": "https://www.qualcomm.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
       "pub_date": 1790146800.0,
@@ -25,14 +25,34 @@
       "description": null
     },
     {
-      "headline": "Carnegie Mellon University professor envisions a world with more robots",
-      "source": "Pittsburgh Post-Gazette",
-      "source_url": "https://www.post-gazette.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXZWSklwTlVlTkg5dnlwVFlxcW1HdGZQQVQ3VVUwcGNSMlBuNVlnM3hSekZ1WjYtaUkzQ0p3elNicHdOSExUVnpOYndIYTQwOGJBN3VMNHhxamhMUGpXUGFfUTh4b1pHdFV0UkpoaW9zMEVjMkQ3SzJydndfaVhkTTJKVVMwaEJpdjRRajd5d1dHLUV2SmJiTjJ3ZmNsZ01LQ19ELWhlaXRkeFBzUXN4bWxqZnIzSVJKQ1pwWUk5QTh2bUdDd1BIdm1rREZqLXZ3bVlQNDdUSzZMbl9ROExEaWF3?oc=5",
-      "pub_date": 1790364573.0,
-      "article_url": "https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609230033/1140x_a10-7_cTC/20260923awHowie03_1790213326.jpg",
-      "description": "It wasn\u2019t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and..."
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+    },
+    {
+      "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "source": "arstechnica.com",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDd3dzNRLThXMk9EOVRJQ045ZzlOZ3haMnRpN0wzVUkzYmtXaVJtbktBSHZuUi04TXd2aTZHc29oQ1ViX1MxMmpSUzNmRkRja21ZVlJHcjV5cmFTamN2RFZoNmg2WHp5MkZJd3lzWUZTcXQtTUxyLTJYbnk4aW5DWkN3bEtPem1pUjRBMUl4eTZsWlVQNWlldzY4MHNRLTBzSUY1bk9oZDlkQQ?oc=5",
+      "pub_date": 1790370651.0,
+      "article_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
+      "description": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+    },
+    {
+      "headline": "Robotics expert casts doubt on viral humanoid videos watched by millions",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3l4a0dodklrbEpRMEV5OW9BdWhadXdkdU5zTXd4WVh0NVc0Y2RQWHRua0llRHo3NkhTUXlmbUNMdmRjUmxqUGl5TDRVWVIyRkxjRl9qRjNBdXctMi0xSVRtYkRhQ2FZcHo4VVVUbHE1U2NSbW02Rko1TlNHRWQzTmwzWG5QZVB0TGdLUENubjZfSkFMMzNDODU3QXJ4N3FNejd0UUZsNEVybENN?oc=5",
+      "pub_date": 1790144246.0,
+      "article_url": "https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
@@ -55,6 +75,16 @@
       "description": "/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) (\"Nauticus\" or the \"Company\"), a developer of autonomous subsea robotic systems and autonomy software,..."
     },
     {
+      "headline": "Carnegie Mellon professor envisions a world with more robots",
+      "source": "Pittsburgh Post-Gazette",
+      "source_url": "https://www.post-gazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXZWSklwTlVlTkg5dnlwVFlxcW1HdGZQQVQ3VVUwcGNSMlBuNVlnM3hSekZ1WjYtaUkzQ0p3elNicHdOSExUVnpOYndIYTQwOGJBN3VMNHhxamhMUGpXUGFfUTh4b1pHdFV0UkpoaW9zMEVjMkQ3SzJydndfaVhkTTJKVVMwaEJpdjRRajd5d1dHLUV2SmJiTjJ3ZmNsZ01LQ19ELWhlaXRkeFBzUXN4bWxqZnIzSVJKQ1pwWUk5QTh2bUdDd1BIdm1rREZqLXZ3bVlQNDdUSzZMbl9ROExEaWF3?oc=5",
+      "pub_date": 1790366437.0,
+      "article_url": "https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033",
+      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609230033/1140x_a10-7_cTC/20260923awHowie03_1790213326.jpg",
+      "description": "It wasn\u2019t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and..."
+    },
+    {
       "headline": "Five Million Robots now Operate in Factories Globally",
       "source": "IFR International Federation of Robotics",
       "source_url": "https://ifr.org",
@@ -73,38 +103,8 @@
       "article_url": "https://techxplore.com/news/2026-09-robotic-keys.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
-      "pub_date": 1790247608.0,
-      "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Endpoints 11: Medra wants to create self-driving labs that change how scientists work",
-      "source": "Endpoints News",
-      "source_url": "https://endpoints.news",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWlQTHBRcm45VHVzaFdaTXR3bFpLZks2RWNrWjdPcGRmMU9tLUxSdXBuV2JHOUN5N3BNNjZaNTVxZGQ1eUdkXzF1ZmlsUk5MRDFZWGcyaC0tR24yd3d6TElTc1JHNF85Qi1RekdhZzE5WTNDd1p6UFQtTko1bThjOVFyRlRxbC0zOEVScUJpWTIydw?oc=5",
-      "pub_date": 1790344800.0,
-      "article_url": "https://endpoints.news/endpoints-11-2026-winner-medra-wants-to-create-self-driving-labs/",
-      "image": "https://endpoints.news/wp-content/uploads/2026/09/Medra_social.jpg",
-      "description": "Endpoints 11 winner Medra and founder Michelle Lee raised a $52M Series A to put 100+ AI robots to work in a bid to build self-driving biology labs."
-    },
-    {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T19:52:26.902035+00:00"
+  "fetched_at": "2026-09-25T23:07:54.629695+00:00"
 }

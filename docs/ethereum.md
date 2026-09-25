@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-25T19:52:31.437858+00:00'
+updated: '2026-09-25T23:08:05.354095+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 19:52 UTC  
+**Last Updated:** September 25, 2026 at 23:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +2.4%  
-**30d:** +7.4%  
-**90d:** +71.5%  
-**1y:** -33.0%  
+**24h:** +0.1%  
+**7d:** +2.3%  
+**30d:** +7.3%  
+**90d:** +71.3%  
+**1y:** -33.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.94B
+**Market Cap:** $328.67B
 Rank #2
 
 **Circulating Supply:** 122,078,905 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.5%
+-45.6%
 
 **All-Time Low:** $0.43
-+622267.4%
++621754.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-14h ago
+18h ago
 
 ---
 
@@ -164,7 +164,7 @@ Benzinga • 2d ago
 
 Ethereum just snapped a year-long pattern of sellers arriving earlier at every peak, yet a single price level has twice stopped buyers cold within the same week. These two signals point in opposite directions, and which one dominates will define where ETH heads next.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -176,11 +176,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin Is the Only 'Universal' Bet, Bitwise Says—Ethereum, Solana Must Prove 'Something Has to Work'](https://www.tradingview.com/news/benzinga:a86f1ee54094b:0-bitcoin-is-the-only-universal-bet-bitwise-says-ethereum-solana-must-prove-something-has-to-work/)**
+**[Bitcoin Eyes $150K, Ethereum To Top $3K? Tom Lee Says Crypto’s Biggest Bull Market May Be Underway](https://www.tradingview.com/news/benzinga:a6b5a950a094b:0-bitcoin-eyes-150k-ethereum-to-top-3k-tom-lee-says-crypto-s-biggest-bull-market-may-be-underway/)**
 
-Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the…
+Fundstrat’s Tom Lee expects Bitcoin CRYPTO:BTCUSD to maintain a $150,000 target while arguing Ethereum CRYPTO:ETHUSD could eventually reach $60,000 as tokenization, Wall Street adoption and AI bring a much larger pool of investors into digital assets.Why Lee Calls It Bigger Bull MarketIn a "Money T…
 
-TradingView • 1d ago
+tradingview.com • 11h ago
 
 ---
 
@@ -188,7 +188,7 @@ TradingView • 1d ago
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 2h ago
+Fortune • 4h ago
 
 ---
 
@@ -196,7 +196,15 @@ Fortune • 2h ago
 
 NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
 
-markets.businessinsider.com • 13h ago
+markets.businessinsider.com • 16h ago
+
+---
+
+**[Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit](https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit)**
+
+A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23K NFTs.
+
+Decrypt • 6h ago
 
 ---
 
@@ -204,7 +212,7 @@ markets.businessinsider.com • 13h ago
 
 Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart.
 
-blockchain.news • 10h ago
+blockchain.news • 13h ago
 
 ---
 
@@ -212,7 +220,7 @@ blockchain.news • 10h ago
 
 Kingkey Financial International (Holdings) Ltd. ( ($HK:1468) ) has issued an announcement. Jakota Capital (Holding) Group has disclosed that its subsidiary Treasure...
 
-TipRanks • 5h ago
+TipRanks • 9h ago
 
 ---
 
@@ -221,14 +229,6 @@ TipRanks • 5h ago
 DefiLlama’s Sept. 22 snapshot and longer-window totals show why fee generation, staking receipts and holder returns require separate measures.
 
 CryptoSlate • 2d ago
-
----
-
-**[Ethereum Price at $2,717 as ETF Buyers Return – Bull $3,000, Bear $2,200](https://financefeeds.com/ethereum-eth-price-2717-etf-inflows-bull-3000-bear-2200/)**
-
-ETH trades at $2,717 after four straight sessions of US spot ETF inflows. Bull case $3,000, bear case $2,200, with the 10-year yield at 5.11 percent.
-
-FinanceFeeds • 6h ago
 
 ---
 
@@ -242,7 +242,7 @@ SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement laye
 
 📺 Paul Barron Network
 
-👁️ 13K • 👍 568 • 💬 87 • ⏱️ 38:35 • 4h ago
+👁️ 29K • 👍 713 • 💬 100 • ⏱️ 38:35 • 7h ago
 
 ---
 
@@ -252,7 +252,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 31K • 👍 498 • 💬 51 • ⏱️ 23:38 • 1d ago
+👁️ 32K • 👍 507 • 💬 51 • ⏱️ 23:38 • 1d ago
+
+---
+
+**[The Ethereum Signal That Ran 128% Last Cycle](https://www.youtube.com/watch?v=CfdE6ndXsaQ)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 410 • 👍 16 • 💬 2 • ⏱️ 4:09 • 4h ago
 
 ---
 
@@ -262,17 +272,7 @@ Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway
 
 📺 Coinage
 
-👁️ 92K • 👍 885 • 💬 265 • ⏱️ 39:54 • 2d ago
-
----
-
-**[Bitcoin Just Starting, Blackrock AI Crypto Thesis, Ethereum News, &amp; Tesla Semi-Trucks](https://www.youtube.com/watch?v=5buR2YG4LEU)**
-
-Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 19K • 👍 463 • 💬 41 • ⏱️ 1:07:25 • 7h ago
+👁️ 93K • 👍 893 • 💬 283 • ⏱️ 39:54 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 361 • 👍 14 • 💬 75 • ⏱️ 4:42 • 9h ago
+👁️ 385 • 👍 14 • 💬 75 • ⏱️ 4:42 • 13h ago
 
 ---
 
@@ -292,17 +292,37 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 376 • 💬 24 • ⏱️ 19:22 • 2d ago
+👁️ 19K • 👍 389 • 💬 27 • ⏱️ 19:22 • 2d ago
 
 ---
 
-**[If You Missed Ethereum These 2 Altcoins Will EXPLODE!](https://www.youtube.com/watch?v=SUDwvh7AgSA)**
+**[Bitcoin Just Starting, Blackrock AI Crypto Thesis, Ethereum News, &amp; Tesla Semi-Trucks](https://www.youtube.com/watch?v=5buR2YG4LEU)**
 
-If You Missed Ethereum These 2 Altcoins Will EXPLODE! Hey babes, Missed out on Ethereum? I am breaking down two altcoins ...
+Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
 
-📺 CryptoWendyO
+📺 Lark Davis
 
-👁️ 12K • 👍 348 • 💬 27 • ⏱️ 3:15 • 2d ago
+👁️ 21K • 👍 486 • 💬 45 • ⏱️ 1:07:25 • 10h ago
+
+---
+
+**[What Makes Bitcoin, Ethereum&#39;s Rally &quot;Impressive&quot; &amp; Fallout in Failed Clarity Act Vote](https://www.youtube.com/watch?v=yg7FgFZT9Yk)**
+
+Bitcoin and Ethereum have both climbed roughly 10% over the last five trading sessions, something @CharlesSchwab's Adam ...
+
+📺 Schwab Network
+
+👁️ 6K • 👍 52 • ⏱️ 5:45 • 1d ago
+
+---
+
+**[David Schwartz’s $1 Ethereum Mistake](https://www.youtube.com/watch?v=lnPFypLnO08)**
+
+David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went to $12 before he reconsidered getting back in.
+
+📺 Jake Claver
+
+👁️ 16K • 👍 485 • 💬 54 • ⏱️ 1:30 • 1d ago
 
 ---
 
@@ -312,27 +332,7 @@ Everyone talks about Bitcoin and Ethereum like they're the same thing. They're n
 
 📺 Braiden Shaw
 
-👁️ 401 • 👍 13 • ⏱️ 1:39 • 3h ago
-
----
-
-**[Crypto About To Run! US Economy Hits Fastest Growth In 5 Years As BlackRock Goes On Chain With ONDO](https://www.youtube.com/watch?v=YbBmbeEG1Y8)**
-
-Thanks Coinbase for sponsoring this video: ▻ COINBASE Get up to 250 USDC in rewards through my link!
-
-📺 Crypto Capital Venture
-
-👁️ 30K • 👍 854 • 💬 170 • ⏱️ 19:56 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NLvFrvQJ59E)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 1K • 👍 81 • ⏱️ 6:30 • 5h ago
+👁️ 864 • 👍 20 • ⏱️ 1:39 • 7h ago
 
 ---
 
