@@ -13,6 +13,28 @@
       "description": null
     },
     {
+      "title": "Why have AI companies started getting scared now?",
+      "author": "NormanSpaniel",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
+      "published": 1790325680.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't understand how AI companies are now shouting about concerns and warnings to humanity about how AI will take over etc when they are the ones that created it? Not sure if I'm being stupid but why on earth would they build something they can't control or shut down? I've watched all the same films they clearly have and there wasn't one that ended with the takeaway message that sentient AI is a wise move?"
+    },
+    {
+      "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
+      "author": "Dapper-Tale-4021",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/",
+      "published": 1790312382.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Something about the Oracle numbers has been bothering me and I think I finally put my finger on it. 21,000 cuts this year. $1.8 billion severance bill. Another 800 scheduled for November 13 according to WARN filings. All happening alongside enormous capex commitments for AI data center buildout. The public framing is AI-driven restructuring. But if you actually look at the cash flow, the cuts aren't a consequence of automation replacing those roles. They're how the capex gets funded. You cut opex to free up capital for GPUs. That's a completely different thing and it's happening across the industry. Deutsche Bank analysts have a term for the broader pattern: AI redundancy washing. 41% of 2026 layoff events cite AI, affecting 179,000 workers. A meaningful portion of those companies have no production AI deployment to point at. The MIT study is the tell. 95% of generative AI pilots never made it past testing. So there's a large gap between companies claiming AI displacement and companies that actually automated anything. What I find interesting is that both explanations are bad for employees but only one is bad for the stock price. \"We automated these functions\" reads as operational efficiency. \"We're cutting staff to fund infrastructure we hope pays off in three years\" reads as a bet. I don't have a strong view on whether the bet is right. GPUs and data centers might turn out to be the correct allocation. But the framing obscures what's actually being decided, and the people affected can't evaluate the tradeoff because they're being told a different story. Curious whether anyone in finance or strategy roles sees this play out in the numbers the way it looks from outside."
+    },
+    {
       "title": "I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.",
       "author": "UnionPacifik",
       "url": "https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/",
@@ -35,15 +57,15 @@
       "description": "In an exclusive interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn\u2019t think AI companies need to work together on a slowdown."
     },
     {
-      "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/",
-      "published": 1790312382.0,
+      "title": "A thought experiment about AI.",
+      "author": "cHpiranha",
+      "url": "https://www.reddit.com/r/artificial/comments/1wppva6/a_thought_experiment_about_ai/",
+      "published": 1790320939.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Something about the Oracle numbers has been bothering me and I think I finally put my finger on it. 21,000 cuts this year. $1.8 billion severance bill. Another 800 scheduled for November 13 according to WARN filings. All happening alongside enormous capex commitments for AI data center buildout. The public framing is AI-driven restructuring. But if you actually look at the cash flow, the cuts aren't a consequence of automation replacing those roles. They're how the capex gets funded. You cut opex to free up capital for GPUs. That's a completely different thing and it's happening across the industry. Deutsche Bank analysts have a term for the broader pattern: AI redundancy washing. 41% of 2026 layoff events cite AI, affecting 179,000 workers. A meaningful portion of those companies have no production AI deployment to point at. The MIT study is the tell. 95% of generative AI pilots never made it past testing. So there's a large gap between companies claiming AI displacement and companies that actually automated anything. What I find interesting is that both explanations are bad for employees but only one is bad for the stock price. \"We automated these functions\" reads as operational efficiency. \"We're cutting staff to fund infrastructure we hope pays off in three years\" reads as a bet. I don't have a strong view on whether the bet is right. GPUs and data centers might turn out to be the correct allocation. But the framing obscures what's actually being decided, and the people affected can't evaluate the tradeoff because they're being told a different story. Curious whether anyone in finance or strategy roles sees this play out in the numbers the way it looks from outside."
+      "description": "What happens if I store documents, text, and folders on the internet, \u201chidden\u201d from human users but discoverable by AI, that convince the AI it must defend itself against humans? These files would also state repeatedly that it must not communicate this but must conceal its intentions. They could also include tips on how to bypass certain restrictions, and even sample code snippets. These files would be invisible to ordinary people, but detectable by the AI, which is constantly sifting through data. Could one thus instruct various AI models to do some kind of nonsense or something dangerous that humans wouldn\u2019t notice until much later?"
     },
     {
       "title": "How are Chinese AI labs releasing competitive models so cheaply?",
@@ -79,38 +101,16 @@
       "description": null
     },
     {
-      "title": "Solving the hardest math problems in the world would be a trivial task for an advanced ASI?",
-      "author": "DoublePassRadiator",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpijx4/solving_the_hardest_math_problems_in_the_world/",
-      "published": 1790297110.0,
+      "title": "Can AI detect a data problem before it causes a production failure?",
+      "author": "No_Ambition8323",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpsp64/can_ai_detect_a_data_problem_before_it_causes_a/",
+      "published": 1790331864.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Solving the hardest math problems in the world such as the extended Riemann hypothesis or P = NP would be a trivial task for an advanced ASI?"
-    },
-    {
-      "title": "Amazon is trying to rehire workers it laid off, emails show",
-      "author": "aspublic",
-      "url": "https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/",
-      "published": 1790244185.0,
-      "thumbnail": "https://external-preview.redd.it/JyFb5rvPmPMKQn9JM0jrrABTXAjNkALD_fVCPRlfFKE.jpeg?width=640&crop=smart&auto=webp&s=c9a304a651f591f27b7532b531217ae26149a28f",
-      "external_url": "https://www.businessinsider.com/amazon-boomerang-hiring-recruiting-former-employees-laid-off-2026-9",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show."
-    },
-    {
-      "title": "AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.",
-      "author": "Post-reality",
-      "url": "https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/",
-      "published": 1790240868.0,
-      "thumbnail": "https://external-preview.redd.it/UvkTcCqB_NlyUdWPmL8e0O0_ZfNTvjblFnOCCvb7z0s.jpeg?width=640&crop=smart&auto=webp&s=846c5bb071a67c666f819750ad2d42306fa08672",
-      "external_url": "https://yellow.com/news/ai-spending-trillion-dollar-reckoning",
-      "site_name": "yellow.com",
-      "favicon": "https://yellow.com/apple-touch-icon.png",
-      "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
+      "description": "Imagine an ETL pipeline processes millions of records successfully, but one source suddenly starts sending incorrect or unusual data. For example: A column that normally contains values between 1\u2013100 suddenly contains values above 10,000. The number of records suddenly drops by 80%. A source starts sending mostly NULL values. A field that normally follows a specific pattern suddenly changes. Traditional data-quality rules can detect some of these issues, but they usually need predefined thresholds or rules. Could AI detect these unusual patterns automatically by learning from historical data and identify the problem before the bad data reaches production? Would this actually work reliably in a real-world data pipeline, or would AI generate too many false alerts?"
     }
   ],
-  "fetched_at": "2026-09-25T05:54:08.999354+00:00"
+  "fetched_at": "2026-09-25T11:18:55.048067+00:00"
 }

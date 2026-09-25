@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-25T05:54:33.216335+00:00'
+updated: '2026-09-25T11:19:23.916777+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 05:54 UTC  
+**Last Updated:** September 25, 2026 at 11:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,285.51
+### $85,200.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +3.7%  
-**30d:** +5.0%  
-**90d:** +41.5%  
-**1y:** -23.2%  
+**24h:** +1.8%  
+**7d:** +4.7%  
+**30d:** +6.0%  
+**90d:** +43.0%  
+**1y:** -22.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1692.58B
+**Market Cap:** $1711.66B
 Rank #1
 
-**Circulating Supply:** 20,088,987 BTC
+**Circulating Supply:** 20,089,078 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-32.4%
 
 **All-Time Low:** $67.81
-+124148.6%
++125552.6%
 
 ---
 
@@ -149,23 +149,43 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
-**[BlackRock’s ‘Extraordinary’ Prediction For Crypto Is Suddenly Coming True As The Bitcoin Price Soars](https://www.forbes.com/sites/digital-assets/2026/09/24/blackrock-issues-extraordinary-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+**[Macro headwinds push Bitcoin to $82.9K despite historical 365-day breakout pattern](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)**
 
-Forbes • 9h ago
+Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof.
 
----
-
-**[Bitcoin’s bear markets are getting milder. The bull markets may be next](https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next)**
-
-Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.
-
-CoinDesk • 10h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
+**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
 
-The Economist • 33m ago
+Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses](https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses)**
+
+Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.
+
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
+
+At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
+
+CoinDesk • 2h ago
+
+---
+
+**[Crypto shrugs off Bitget's $351.6 million hack as altcoins rally: Crypto Markets Today](https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000)**
+
+Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -173,49 +193,33 @@ The Economist • 33m ago
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-CNBC • 11h ago
+CNBC • 17h ago
 
 ---
 
-**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
+**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
-
-Fox Business • 2d ago
+The Economist • 11h ago
 
 ---
 
-**[Bitcoin Drops as Rising Yields and Dollar Weigh on Crypto](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-btc-drops-as-rising-yields-and-dollar-weigh-on-crypto)**
+**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
 
-Bloomberg.com • 18h ago
-
----
-
-**[Institutions Held Their Bitcoin Through Crash — and Some Bought More: Report](https://bitcoinmagazine.com/news/institutions-held-bitcoin-through-crash)**
-
-New research finds bitcoin has become the one crypto asset big investors agree on.
-
-Bitcoin Magazine • 11h ago
+Barchart.com • 14h ago
 
 ---
 
-**[Bitcoin ETFs rakes in the dough](https://finance.yahoo.com/video/bitcoin-etfs-rakes-dough-160345586.html)**
+**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
 
-In this episode of the Daily Wolf, Scott Melker discusses Mastercard (MA) and SoFi's (SOFI) new stablecoin partnership, Binance investing $100 million into Circle's (CRCL) global USDC expansion, and a strong two-day run for bitcoin (BTC-USD) ETFs which raked in $1.7 billion in inflows.
+Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Crypto ETFs Are Surging, but Bitcoin & Ether Aren’t the Big Winners](https://www.etf.com/sections/features/crypto-etfs-are-surging-bitcoin-ether-arent-big-winners)**
-
-ETF.com • 2d ago
+CBC • 2h ago
 
 ---
 
-**[Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment](https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118)**
+**[Why Is the Bitcoin Price Soaring Again?](https://global.morningstar.com/en-nd/markets/bitcoin-has-almost-erased-its-2026-losses-whats-next)**
 
-Investing.com • 1d ago
+Morningstar • 2d ago
 
 ---
 
@@ -269,7 +273,7 @@ https://t.co/GktyWFbTdN
 
 Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.
 
-⬆️ 2 • 💬 0 • 7h ago • [Sprocket](https://sprocket.bio/)
+⬆️ 2 • 💬 0 • 12h ago • [Sprocket](https://sprocket.bio/)
 
 ---
 
@@ -277,7 +281,7 @@ Sprocket is an open-source bioinformatics workflow engine built on the Workflow 
 
 Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
 
 ---
 
@@ -291,27 +295,17 @@ Big Things Are Happening In Cryptocurrency in October Grab a Zcash Miner: https:
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 85 • ⏱️ 8:30 • 7h ago
+👁️ 66K • 👍 2K • 💬 93 • ⏱️ 8:30 • 12h ago
 
 ---
 
-**[Bitcoin Bull Market Confirmed - Bitcoin Price Prediction!](https://www.youtube.com/watch?v=zxwqqDp5458)**
+**[Jeff Booth: Why $1 Million BTC is Thinking too Small](https://www.youtube.com/watch?v=UPkxqJubEgc)**
 
-Here's where we're going in the short term, and long term. Sign up for the Crypto Jebb Research Symposium: ...
+Is a $1 million Bitcoin price target thinking too small? Jeff Booth thinks so, and he explains why valuing Bitcoin in dollars means ...
 
-📺 Crypto Jebb
+📺 Bitcoin Magazine
 
-👁️ 7K • 👍 262 • 💬 55 • ⏱️ 13:36 • 11h ago
-
----
-
-**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
-
-I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
-
-📺 The Modern Investor
-
-👁️ 13K • 👍 887 • 💬 251 • ⏱️ 28:58 • 20h ago
+👁️ 26K • 👍 418 • 💬 38 • ⏱️ 16:28 • 16h ago
 
 ---
 
@@ -321,7 +315,17 @@ Bitcoin's bear market is over and Gareth Soloway walks through the exact chart s
 
 📺 Gareth Soloway
 
-👁️ 116K • 👍 5K • 💬 555 • ⏱️ 15:33 • 12h ago
+👁️ 134K • 👍 5K • 💬 579 • ⏱️ 15:33 • 17h ago
+
+---
+
+**[BITCOIN HOLDERS... THINGS ARE NOT AS THEY SEEM](https://www.youtube.com/watch?v=--4ULTMs_80)**
+
+My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
+
+📺 Satoshi Stacker
+
+👁️ 2K • 👍 156 • 💬 7 • ⏱️ 7:25 • 2h ago
 
 ---
 
@@ -331,17 +335,37 @@ Bitcoin pulled back to $83462 this morning — down 2.1%. The CME now prices a 7
 
 📺 Money Talks
 
-👁️ 6K • 👍 174 • 💬 23 • ⏱️ 28:00 • 10h ago
+👁️ 9K • 👍 212 • 💬 14 • ⏱️ 28:00 • 15h ago
 
 ---
 
-**[THIS 1 BITCOIN CANDLE TELLS THE WHOLE STORY](https://www.youtube.com/watch?v=Rvv0ychcukY)**
+**[Bitcoin Bull Market Confirmed - Bitcoin Price Prediction!](https://www.youtube.com/watch?v=zxwqqDp5458)**
 
-LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtwju?utm_source=youtube Free ...
+Here's where we're going in the short term, and long term. Sign up for the Crypto Jebb Research Symposium: ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 Crypto Jebb
 
-👁️ 17K • 👍 616 • 💬 63 • ⏱️ 26:33 • 18h ago
+👁️ 8K • 👍 274 • 💬 53 • ⏱️ 13:36 • 17h ago
+
+---
+
+**[I Asked 100 Harvard Students About Bitcoin... (now I&#39;m worried)](https://www.youtube.com/watch?v=tBB-kLrHCFU)**
+
+Harvard students are considered the smartest students on Earth. So what do they know about their OWN school investing $200 ...
+
+📺 The Exit Manual
+
+👁️ 29K • 👍 1K • 💬 346 • ⏱️ 15:33 • 14h ago
+
+---
+
+**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
+
+I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
+
+📺 The Modern Investor
+
+👁️ 13K • 👍 899 • 💬 244 • ⏱️ 28:58 • 1d ago
 
 ---
 
@@ -351,7 +375,7 @@ Bond yields just broke out after a failed Treasury auction exposed a deeper dema
 
 📺 Crypto Banter
 
-👁️ 46K • 👍 2K • 💬 23 • ⏱️ 22:31 • 16h ago
+👁️ 49K • 👍 2K • 💬 28 • ⏱️ 22:31 • 21h ago
 
 ---
 
@@ -361,27 +385,7 @@ Bitcoin to $150000?!?! Use code MeetKevin when you sign up for Kalshi, and get $
 
 📺 Meet Kevin
 
-👁️ 42K • 👍 795 • 💬 110 • ⏱️ 10:22 • 10h ago
-
----
-
-**[Bitcoin No One Cares (That’s The Signal)](https://www.youtube.com/watch?v=MjNyZdafdp0)**
-
-1 Crypto Debit Card - EtherFI - Get Yours Now https://cryptolark.co/ETHERFI Search interest in Bitcoin is sitting at the bottom of the ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 265 • 💬 19 • ⏱️ 10:30 • 8h ago
-
----
-
-**[Bitcoin Warning: Why The Next 7 days Are Critical 🚨](https://www.youtube.com/watch?v=SeQPvinncBs)**
-
-This is all about why there could still be a big crash in Bitcoin and crypto Big news for all Bitcoin, Ethereum, Solana and Altcoin ...
-
-📺 Investing Made Simple
-
-👁️ 19K • 👍 652 • ⏱️ 11:50 • 16h ago
+👁️ 45K • 👍 823 • 💬 112 • ⏱️ 10:22 • 15h ago
 
 ---
 
