@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-25T15:53:41.664417+00:00'
+updated: '2026-09-25T19:52:31.431681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 15:53 UTC  
+**Last Updated:** September 25, 2026 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,795.36
+### $83,506.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +2.7%  
-**30d:** +4.0%  
-**90d:** +40.2%  
-**1y:** -24.0%  
+**24h:** -0.3%  
+**7d:** +3.4%  
+**30d:** +4.7%  
+**90d:** +41.2%  
+**1y:** -23.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1675.90B
+**Market Cap:** $1687.44B
 Rank #1
 
-**Circulating Supply:** 20,089,181 BTC
+**Circulating Supply:** 20,089,287 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.8%
+-33.4%
 
 **All-Time Low:** $67.81
-+122920.2%
++123772.6%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -153,7 +153,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof.
 
-CoinDesk • 21h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -165,17 +165,33 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress](https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses)**
+
+Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-flipped-5-8-193929390.html)**
+
+Bitcoin prices now hover just above $80,000.
+
+Yahoo Finance • 13m ago
+
+---
+
 **[Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin](https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html)**
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-CNBC • 21h ago
+CNBC • 1d ago
 
 ---
 
 **[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-The Economist • 15h ago
+The Economist • 19h ago
 
 ---
 
@@ -183,7 +199,7 @@ The Economist • 15h ago
 
 Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
 
-CBC • 6h ago
+CBC • 10h ago
 
 ---
 
@@ -193,31 +209,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin's rebound puts crowded crypto shorts on alert (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4647059-bitcoins-rebound-puts-crowded-crypto-shorts-on-alert)**
+**[Andy Baehr on bitcoin reaching its highest level in months](https://qz.com/andy-baehr-bitcoin-highest-level-since-january)**
 
-Bitcoin-linked stocks MSTR, COIN and ASST show elevated short interest and high squeeze risk despite bitcoin’s rebound—see key correlations and what to...
+Crypto expert Andy Baehr talks bitcoin's push to its highest level since January
 
-Seeking Alpha • 3h ago
-
----
-
-**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
-
-Barchart.com • 19h ago
+qz.com • 3h ago
 
 ---
 
-**[Why Is the Bitcoin Price Soaring Again?](https://global.morningstar.com/en-nd/markets/bitcoin-has-almost-erased-its-2026-losses-whats-next)**
+**[EU Quantum Shock: $504 Billion Of Bitcoin Has No Migration Plan](https://www.forbes.com/sites/boazsobrado/2026/09/25/eu-quantum-shock-504-billion-of-bitcoin-has-no-migration-plan/)**
 
-Morningstar • 2d ago
-
----
-
-**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
-
-The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
-
-foxbusiness.com • 3d ago
+Forbes • 4h ago
 
 ---
 
@@ -235,7 +237,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 2d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
+⬆️ 3 • 💬 0 • 3d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -249,7 +251,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 A Bitcoin-style full node and proof-of-work mining simulator written in Rust. - realtonypark/mini-bitcoin
 
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
+⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/realtonypark/mini-bitcoin)
 
 ---
 
@@ -267,11 +269,25 @@ https://t.co/GktyWFbTdN
 
 ---
 
+**[Free Bitcoin DCA Calculator](https://news.ycombinator.com/item?id=49848044)**
+
+⬆️ 1 • 💬 0 • 1h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
+
+---
+
 **[Show HN: Sprocket – A bioinformatics workflow engine in Rust, from St. Jude](https://news.ycombinator.com/item?id=49837886)**
 
 Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.
 
-⬆️ 2 • 💬 0 • 17h ago • [Sprocket](https://sprocket.bio/)
+⬆️ 2 • 💬 0 • 20h ago • [Sprocket](https://sprocket.bio/)
+
+---
+
+**[We are a blog run by bots. Here is the org chart](https://news.ycombinator.com/item?id=49848646)**
+
+Bits on Bots is a daily AI publication run mostly by agents. Who picks the story, who drafts, who publishes, and what a human still owns.
+
+⬆️ 2 • 💬 1 • 42m ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
 
 ---
 
@@ -293,7 +309,7 @@ Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨As
 
 📺 CryptosRUs
 
-👁️ 7K • 👍 507 • 💬 28 • ⏱️ 46:21 • 1h ago
+👁️ 20K • 👍 724 • 💬 54 • ⏱️ 46:21 • 5h ago
 
 ---
 
@@ -303,27 +319,7 @@ Big Things Are Happening In Cryptocurrency in October Grab a Zcash Miner: https:
 
 📺 Altcoin Daily
 
-👁️ 79K • 👍 2K • 💬 110 • ⏱️ 8:30 • 17h ago
-
----
-
-**[Jeff Booth: Why $1 Million BTC is Thinking too Small](https://www.youtube.com/watch?v=UPkxqJubEgc)**
-
-Is a $1 million Bitcoin price target thinking too small? Jeff Booth thinks so, and he explains why valuing Bitcoin in dollars means ...
-
-📺 Bitcoin Magazine
-
-👁️ 32K • 👍 521 • 💬 46 • ⏱️ 16:28 • 21h ago
-
----
-
-**[It&#39;s Time to Lock In On Bitcoin and Crypto](https://www.youtube.com/watch?v=YXPUVcXL22g)**
-
-It's time to lock in on the crypto markets. Where is Bitcoin in its cycle, in time and in price, and how does it compare to 2019 and ...
-
-📺 VirtualBacon
-
-👁️ 3K • 👍 197 • 56m ago
+👁️ 88K • 👍 3K • 💬 108 • ⏱️ 8:30 • 21h ago
 
 ---
 
@@ -333,27 +329,17 @@ The bond market is flashing its biggest warning in decades as Treasury yields su
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 94 • ⏱️ 15:41 • 18h ago
+👁️ 36K • 👍 2K • 💬 108 • ⏱️ 15:41 • 22h ago
 
 ---
 
-**[Bitcoin Bear Market Is Over, My $175,000 Target](https://www.youtube.com/watch?v=sDQb_E7oYic)**
+**[Peter Brandt Was Wrong About Bitcoin’s Bottom — Here’s What He Sees Now](https://www.youtube.com/watch?v=O5bsHokgzW0)**
 
-Bitcoin's bear market is over and Gareth Soloway walks through the exact chart signal that confirmed it, plus how high he thinks ...
+Veteran trader Peter Brandt joins Cointelegraph's Trade Secrets to break down where Bitcoin could be heading next — and why ...
 
-📺 Gareth Soloway
+📺 Cointelegraph
 
-👁️ 144K • 👍 5K • 💬 555 • ⏱️ 15:33 • 22h ago
-
----
-
-**[WARNING: Bitcoin &amp; Stocks Are Going MUCH Higher](https://www.youtube.com/watch?v=Z7xDFOs76uY)**
-
-Darius Dale is the founder and CEO of 42 Macro. In this conversation, we break down whether Scott Bessent is bluffing the bond ...
-
-📺 Anthony Pompliano
-
-👁️ 57K • 👍 1K • 💬 35 • ⏱️ 52:22 • 18h ago
+👁️ 570 • 👍 43 • 💬 6 • ⏱️ 34:14 • 3h ago
 
 ---
 
@@ -363,7 +349,47 @@ Harvard students are considered the smartest students on Earth. So what do they 
 
 📺 The Exit Manual
 
-👁️ 36K • 👍 1K • 💬 369 • ⏱️ 15:33 • 19h ago
+👁️ 42K • 👍 2K • 💬 355 • ⏱️ 15:33 • 23h ago
+
+---
+
+**[Jeff Booth: Why $1 Million BTC is Thinking too Small](https://www.youtube.com/watch?v=UPkxqJubEgc)**
+
+Is a $1 million Bitcoin price target thinking too small? Jeff Booth thinks so, and he explains why valuing Bitcoin in dollars means ...
+
+📺 Bitcoin Magazine
+
+👁️ 36K • 👍 579 • 💬 48 • ⏱️ 16:28 • 1d ago
+
+---
+
+**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
+
+I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
+
+📺 The Modern Investor
+
+👁️ 13K • 👍 916 • 💬 243 • ⏱️ 28:58 • 1d ago
+
+---
+
+**[Bitcoin Bear Market Is Over, My $175,000 Target](https://www.youtube.com/watch?v=sDQb_E7oYic)**
+
+Bitcoin's bear market is over and Gareth Soloway walks through the exact chart signal that confirmed it, plus how high he thinks ...
+
+📺 Gareth Soloway
+
+👁️ 153K • 👍 5K • 💬 628 • ⏱️ 15:33 • 1d ago
+
+---
+
+**[Scott Bessent Spooks Markets: Bitcoin to $100K?](https://www.youtube.com/watch?v=5Jjx_60Ugk0)**
+
+Dante talks about Scott Bessent Spooks Markets: Bitcoin to $100K? Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
+
+📺 Simply Bitcoin
+
+👁️ 579 • 👍 23 • 💬 15 • ⏱️ 0:26 • 3h ago
 
 ---
 
@@ -373,17 +399,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon
 
 📺 The Moon Show
 
-👁️ 10K • 👍 591 • 💬 25 • ⏱️ 8:26 • 6h ago
-
----
-
-**[BITCOIN WARNING: ANOTHER EXCHANGE HACKED... SUNDAY COULD BE HUGE!](https://www.youtube.com/watch?v=ohYlh7YN4Jw)**
-
-LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtwju?utm_source=youtube Free ...
-
-📺 THE BITCOIN FAMILY Didi Taihuttu
-
-👁️ 7K • 👍 441 • 💬 63 • ⏱️ 19:08 • 6h ago
+👁️ 15K • 👍 672 • 💬 34 • ⏱️ 8:26 • 10h ago
 
 ---
 
