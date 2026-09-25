@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-25T19:52:31.431681+00:00'
+updated: '2026-09-25T23:08:05.348786+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 19:52 UTC  
+**Last Updated:** September 25, 2026 at 23:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $83,506.79
+### $84,128.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +3.4%  
-**30d:** +4.7%  
-**90d:** +41.2%  
+**24h:** -0.6%  
+**7d:** +3.5%  
+**30d:** +4.8%  
+**90d:** +41.3%  
 **1y:** -23.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1687.44B
+**Market Cap:** $1688.97B
 Rank #1
 
 **Circulating Supply:** 20,089,287 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.4%
+-33.3%
 
 **All-Time Low:** $67.81
-+123772.6%
++123884.7%
 
 ---
 
@@ -113,7 +113,7 @@ Made an obligatory buy to push us into the bull run. If everyone else could, tha
 
 **[Bitcoin, Lowering Retirement since 2009](https://www.reddit.com/r/Bitcoin/comments/1wlucex/bitcoin_lowering_retirement_since_2009/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -121,7 +121,7 @@ Made an obligatory buy to push us into the bull run. If everyone else could, tha
 
 Before vibecoding dashboards was a thing, I built this physical ticker that hangs on the wall. I was tired of pulling up apps or doing mental math to convert my stack into dollars, but I also had a dilemma: I didn't want my actual holdings permanently blasted on my wall for every visitor to see. My solution was to build a hidden "stealth mode" directly into the frame. By default, it functions as a standard BTC/USD price ticker. But when you slide a novelty Bitcoin across the front glass, a magnetic switch behind the faceplate trips, instantly calculating and displaying the stack's total USD value. It’s been running reliably for 8 years now. (And for obvious OpSec reasons, the stack size shown in these photos is hardcoded to a dummy 0.5 BTC). I wish I still had 0.5 btc. I was pretty optimistic when I designed it, there are 8 total digits available in the LED fields. Once Bitcoin hits $99 million, I'll have to rebuild it. Under the hood, it’s powered by a generic ESP8266 and a pair of Adafruit 7-segment LEDs in each field. It connects to my home Wi-Fi and simply polls a price API every minute.
 
-4d ago
+5d ago
 
 ---
 
@@ -149,35 +149,19 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 ## Google News: "bitcoin"
 
+**[Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows](https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows)**
+
+Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.
+
+Decrypt • 11h ago
+
+---
+
 **[Macro headwinds push Bitcoin to $82.9K despite historical 365-day breakout pattern](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)**
 
 Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof.
 
 CoinDesk • 1d ago
-
----
-
-**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
-
-Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress](https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses)**
-
-Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-flipped-5-8-193929390.html)**
-
-Bitcoin prices now hover just above $80,000.
-
-Yahoo Finance • 13m ago
 
 ---
 
@@ -191,7 +175,15 @@ CNBC • 1d ago
 
 **[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-The Economist • 19h ago
+The Economist • 23h ago
+
+---
+
+**[Why bitcoin is different from every other monetary promise in history](https://finance.yahoo.com/video/why-bitcoin-different-every-other-163832308.html)**
+
+Scott Melker explains what makes bitcoin (BTC-USD) truly valuable: Its ability to avoid the many pitfalls of traditional money.
+
+Yahoo Finance • 6h ago
 
 ---
 
@@ -199,27 +191,37 @@ The Economist • 19h ago
 
 Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
 
-CBC • 10h ago
+CBC • 14h ago
 
 ---
 
 **[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
-**[Andy Baehr on bitcoin reaching its highest level in months](https://qz.com/andy-baehr-bitcoin-highest-level-since-january)**
+**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
 
-Crypto expert Andy Baehr talks bitcoin's push to its highest level since January
+Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
 
-qz.com • 3h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[EU Quantum Shock: $504 Billion Of Bitcoin Has No Migration Plan](https://www.forbes.com/sites/boazsobrado/2026/09/25/eu-quantum-shock-504-billion-of-bitcoin-has-no-migration-plan/)**
+**[Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing](https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana)**
 
-Forbes • 4h ago
+The Bitcoin rally today slowed, though sentiment across the broader crypto market remains mostly high as XRP and Solana outperform.
+
+Decrypt • 7h ago
+
+---
+
+**[MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix](https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/)**
+
+Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value.
+
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -265,37 +267,13 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 3d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 4d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
 **[Free Bitcoin DCA Calculator](https://news.ycombinator.com/item?id=49848044)**
 
-⬆️ 1 • 💬 0 • 1h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
-
----
-
-**[Show HN: Sprocket – A bioinformatics workflow engine in Rust, from St. Jude](https://news.ycombinator.com/item?id=49837886)**
-
-Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.
-
-⬆️ 2 • 💬 0 • 20h ago • [Sprocket](https://sprocket.bio/)
-
----
-
-**[We are a blog run by bots. Here is the org chart](https://news.ycombinator.com/item?id=49848646)**
-
-Bits on Bots is a daily AI publication run mostly by agents. Who picks the story, who drafts, who publishes, and what a human still owns.
-
-⬆️ 2 • 💬 1 • 42m ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
-
----
-
-**[Bitflix – MCP Apps Example Application for Video](https://news.ycombinator.com/item?id=49827250)**
-
-Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player. - bitmovin/bitflix-mcp-apps-example
-
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/bitmovin/bitflix-mcp-apps-example)
+⬆️ 1 • 💬 0 • 4h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
 
 ---
 
@@ -303,23 +281,73 @@ Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Is About to Explode....Alts Rally](https://www.youtube.com/watch?v=I-BAUH0grxg)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 20K • 👍 724 • 💬 54 • ⏱️ 46:21 • 5h ago
-
----
-
 **[This Has Never Happened Before In Crypto](https://www.youtube.com/watch?v=IJ65ouCwKd4)**
 
 Big Things Are Happening In Cryptocurrency in October Grab a Zcash Miner: https://www.muskminers.com/ Follow Musk ...
 
 📺 Altcoin Daily
 
-👁️ 88K • 👍 3K • 💬 108 • ⏱️ 8:30 • 21h ago
+👁️ 94K • 👍 3K • 💬 111 • ⏱️ 8:30 • 1d ago
+
+---
+
+**[Crypto&#39;s 4-Year Cycle Is BROKEN! Bitcoin&#39;s Real Bull Run Is About To Start (Here&#39;s Why)](https://www.youtube.com/watch?v=I3zaKuxy2oY)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 18K • 👍 650 • 💬 146 • ⏱️ 23:39 • 7h ago
+
+---
+
+**[Blockstream Close To Collapse?](https://www.youtube.com/watch?v=bcd2TMq9H9s)**
+
+Join Bitcoin University Premium: https://www.bitcoinuniversity.com/join In this video, I discuss whether or not Blockstream may be ...
+
+📺 Bitcoin University
+
+👁️ 763 • 👍 161 • 💬 34 • ⏱️ 7:39 • 58m ago
+
+---
+
+**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
+
+America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
+
+📺 Bitcoin News Alerts
+
+👁️ 543 • 👍 81 • 💬 45 • ⏱️ 15:55 • 58m ago
+
+---
+
+**[Bitcoin Is About to Explode....Alts Rally](https://www.youtube.com/watch?v=I-BAUH0grxg)**
+
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+
+📺 CryptosRUs
+
+👁️ 26K • 👍 807 • 💬 58 • ⏱️ 46:21 • 8h ago
+
+---
+
+**[Grant Cardone: Real Estate &quot;Armageddon&quot; Is Here – Why BITCOIN is the Hedge](https://www.youtube.com/watch?v=Liksauk-Lzw)**
+
+Commercial real estate is facing a historic reset, and Grant Cardone is using it to stack Bitcoin. The Cardone Capital founder ...
+
+📺 Bitcoin Magazine
+
+👁️ 2K • 👍 99 • 💬 7 • ⏱️ 17:17 • 4h ago
+
+---
+
+**[&quot;Wall Street Is Ready to Supercharge Bitcoin to $1.3 Million&quot;: Matt Hougan | Latest Prediction](https://www.youtube.com/watch?v=GyPEZ9e3toI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 2K • 👍 87 • 💬 5 • ⏱️ 22:31 • 6h ago
 
 ---
 
@@ -329,77 +357,27 @@ The bond market is flashing its biggest warning in decades as Treasury yields su
 
 📺 Simply Bitcoin
 
-👁️ 36K • 👍 2K • 💬 108 • ⏱️ 15:41 • 22h ago
+👁️ 39K • 👍 2K • 💬 110 • ⏱️ 15:41 • 1d ago
 
 ---
 
-**[Peter Brandt Was Wrong About Bitcoin’s Bottom — Here’s What He Sees Now](https://www.youtube.com/watch?v=O5bsHokgzW0)**
+**[Bitcoin&#39;s New Bull Market Meets A $4 Trillion AI Revolution | Joseph Chalom](https://www.youtube.com/watch?v=E-o7mySF1TY)**
 
-Veteran trader Peter Brandt joins Cointelegraph's Trade Secrets to break down where Bitcoin could be heading next — and why ...
+Bitcoin #Crypto #finance Joseph Chalom breaks down how AI agents, stablecoins, tokenization and DeFi could reshape the ...
 
-📺 Cointelegraph
+📺 The Wolf Of All Streets
 
-👁️ 570 • 👍 43 • 💬 6 • ⏱️ 34:14 • 3h ago
-
----
-
-**[I Asked 100 Harvard Students About Bitcoin... (now I&#39;m worried)](https://www.youtube.com/watch?v=tBB-kLrHCFU)**
-
-Harvard students are considered the smartest students on Earth. So what do they know about their OWN school investing $200 ...
-
-📺 The Exit Manual
-
-👁️ 42K • 👍 2K • 💬 355 • ⏱️ 15:33 • 23h ago
+👁️ 21K • 👍 551 • 💬 149 • ⏱️ 21:57 • 9h ago
 
 ---
 
-**[Jeff Booth: Why $1 Million BTC is Thinking too Small](https://www.youtube.com/watch?v=UPkxqJubEgc)**
+**[BITCOIN AT 37% OFF? HERE’S HOW! ](https://www.youtube.com/watch?v=U2AMJ42jpYk)**
 
-Is a $1 million Bitcoin price target thinking too small? Jeff Booth thinks so, and he explains why valuing Bitcoin in dollars means ...
+Join me in the Tribal Trades Discord for the Next Road to $1K per day Challenge- See link below for details.
 
-📺 Bitcoin Magazine
+📺 Tribal Trades 
 
-👁️ 36K • 👍 579 • 💬 48 • ⏱️ 16:28 • 1d ago
-
----
-
-**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
-
-I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
-
-📺 The Modern Investor
-
-👁️ 13K • 👍 916 • 💬 243 • ⏱️ 28:58 • 1d ago
-
----
-
-**[Bitcoin Bear Market Is Over, My $175,000 Target](https://www.youtube.com/watch?v=sDQb_E7oYic)**
-
-Bitcoin's bear market is over and Gareth Soloway walks through the exact chart signal that confirmed it, plus how high he thinks ...
-
-📺 Gareth Soloway
-
-👁️ 153K • 👍 5K • 💬 628 • ⏱️ 15:33 • 1d ago
-
----
-
-**[Scott Bessent Spooks Markets: Bitcoin to $100K?](https://www.youtube.com/watch?v=5Jjx_60Ugk0)**
-
-Dante talks about Scott Bessent Spooks Markets: Bitcoin to $100K? Brought to you by Bitcoinwell.com a bitcoin-only platform on a ...
-
-📺 Simply Bitcoin
-
-👁️ 579 • 👍 23 • 💬 15 • ⏱️ 0:26 • 3h ago
-
----
-
-**[BITCOIN: MAJOR DANGER !!!!](https://www.youtube.com/watch?v=ge4SNhXdXVM)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
-
-📺 The Moon Show
-
-👁️ 15K • 👍 672 • 💬 34 • ⏱️ 8:26 • 10h ago
+👁️ 263 • 👍 78 • 💬 9 • ⏱️ 12:44 • 1h ago
 
 ---
 
