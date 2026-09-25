@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-25T05:54:33.221426+00:00'
+updated: '2026-09-25T11:19:23.930366+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 25, 2026 at 05:54 UTC  
+**Last Updated:** September 25, 2026 at 11:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-16h ago
+21h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-20h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-19h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 16h ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 22h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-11h ago
+16h ago
 
 ---
 
@@ -80,19 +80,19 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-14h ago
+19h ago
 
 ---
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-21h ago
+1d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-21h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Feather is betting on a customizable, $30,000 platform built for software developers.
 
-TechCrunch • 11h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -124,21 +124,37 @@ Microsoft • 1d ago
 
 ---
 
+**[autonomous robotic hand walks on its fingertips like the addams family’s thing](https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/)**
+
+researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm.
+
+Designboom • 18m ago
+
+---
+
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 12h ago
+Breaking Defense • 18h ago
+
+---
+
+**[Mexican EPICS in IEEE Team Builds Portable Educational Platform](https://spectrum.ieee.org/epics-in-ieee-portable-educational)**
+
+Project brings hands-on robotics lessons to high-school students
+
+IEEE Spectrum • 17h ago
 
 ---
 
 **[Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub](https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322)**
 
-WSJ • 16h ago
+WSJ • 22h ago
 
 ---
 
 **[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
 
-The New York Times • 18h ago
+The New York Times • 1d ago
 
 ---
 
@@ -154,27 +170,13 @@ Vogue • 1d ago
 
 The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
-CNBC • 22h ago
+CNBC • 1d ago
 
 ---
 
 **[Humanoid Robots Spell Opportunity for European Chemical Firms](https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms)**
 
-Bloomberg.com • 23h ago
-
----
-
-**[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
-
-The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
-
-IFR International Federation of Robotics • 18h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -182,33 +184,23 @@ IFR International Federation of Robotics • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[This Robot Just Broke the Rubik’s Cube World Record 🤯](https://www.youtube.com/watch?v=RgJwM-1Erbc)**
-
-How fast can a robot solve a Rubik's Cube? This incredible demonstration shows just how far robotic speed, computer vision, ...
-
-📺 Moshyy
-
-👁️ 3K • 👍 61 • ⏱️ 0:21 • 3h ago
-
----
-
 **[AI Robots Are OUT OF CONTROL… Now They’re Fighting HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
 AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
 
 📺 MindSeeded
 
-👁️ 54K • 👍 3K • 💬 222 • ⏱️ 13:48 • 14h ago
+👁️ 59K • 👍 3K • 💬 228 • ⏱️ 13:48 • 19h ago
 
 ---
 
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+**[This Robot Just Broke the Rubik’s Cube World Record 🤯](https://www.youtube.com/watch?v=RgJwM-1Erbc)**
 
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+How fast can a robot solve a Rubik's Cube? This incredible demonstration shows just how far robotic speed, computer vision, ...
 
-📺 Mark Dice
+📺 Moshyy
 
-👁️ 521K • 👍 17K • 💬 5K • ⏱️ 19:23 • 1d ago
+👁️ 11K • 👍 153 • 💬 2 • ⏱️ 0:21 • 8h ago
 
 ---
 
@@ -218,7 +210,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 631K • 👍 5K • 💬 624 • ⏱️ 4:18 • 2d ago
+👁️ 649K • 👍 6K • 💬 639 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -228,7 +220,17 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 20K • 👍 137 • 💬 17 • ⏱️ 12:11 • 3d ago
+👁️ 21K • 👍 138 • 💬 17 • ⏱️ 12:11 • 3d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 527K • 👍 17K • 💬 5K • ⏱️ 19:23 • 1d ago
 
 ---
 
@@ -238,27 +240,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 195K • 👍 1K • 💬 242 • ⏱️ 2:40 • 3d ago
-
----
-
-**[19 Robots Danced With 120 Humans! 🤯](https://www.youtube.com/watch?v=d88fOGQbsvo)**
-
-19 Robots Danced With 120 Humans! 19 humanoid robots joined 120 human dancers at the WorldSkills 2026 opening ...
-
-📺 Future Mind
-
-👁️ 483 • 👍 4 • ⏱️ 0:45 • 3h ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
-
-📺 ejunky66
-
-👁️ 42K • 👍 606 • 💬 68 • ⏱️ 1:00 • 13h ago
+👁️ 197K • 👍 1K • 💬 242 • ⏱️ 2:40 • 4d ago
 
 ---
 
@@ -268,17 +250,37 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 322K • 👍 395 • 💬 56 • ⏱️ 0:59 • 2d ago
+👁️ 341K • 👍 410 • 💬 57 • ⏱️ 0:59 • 2d ago
 
 ---
 
-**[ECOVACS Went Beyond Robot Vacuums at IFA 2026!](https://www.youtube.com/watch?v=97JdWdf-Cyo)**
+**[Promoter of human vs. robot kickboxing match sees demand for more](https://www.youtube.com/watch?v=_ZsICQLk03M)**
 
-ECOVACS brought much more than just robot vacuums to IFA Berlin 2026. From the Lil Milo AI companion robot and advanced ...
+In something out of a sci-fi movie, a TikTok influencer fought a humanoid robot in San Francisco. And while the company putting ...
 
-📺 Gear Check 101
+📺 NBC News
 
-👁️ 20K • 👍 895 • 💬 31 • ⏱️ 6:40 • 17h ago
+👁️ 146K • 👍 1K • 💬 285 • ⏱️ 3:34 • 2d ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 69K • 👍 895 • 💬 130 • ⏱️ 1:00 • 4d ago
+
+---
+
+**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
+
+Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
+
+📺 Tazer
+
+👁️ 109K • 👍 3K • 💬 179 • ⏱️ 24:10 • 1d ago
 
 ---
 
