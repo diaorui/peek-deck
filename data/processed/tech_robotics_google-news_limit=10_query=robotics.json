@@ -5,6 +5,36 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+    },
+    {
+      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
+      "pub_date": 1790275958.0,
+      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "What if robots didn't need all their AI onboard?",
       "source": "Microsoft",
       "source_url": "https://www.microsoft.com",
@@ -15,24 +45,14 @@
       "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
     },
     {
-      "headline": "Qualcomm to acquire PickNik Robotics and keep MoveIt open-source",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3RrQmxZV1B0S3MxUVl1V0V2eFBzbklkWlVoUUF3NFoyZndqSVlEbUZSYnVJNTNpNktHalBTNVFSTFhXUHVxZkdLUjhqN1B1WVNBUU1EQVA5enFtdVFyTHNLQlhnOVlRMDVsMFNGaXZ1dHdpVHZ1OWtZdVFqYWZyZE9tTGpSckRFRkpZUlpZUXVUclNx?oc=5",
-      "pub_date": 1790163493.0,
-      "article_url": "https://www.therobotreport.com/qualcomm-acquires-picknik-robotics-keep-moveit-open-source/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/Qualcomm-Linux-2.0-upstream-kernel-Dragonwing.jpg",
-      "description": "Qualcomm plans to integrate the Dragonwing and Arduino platforms with the MoveIt open-source manipulation framework."
-    },
-    {
-      "headline": "Can Massachusetts back more robotics startups?",
-      "source": "The Boston Globe",
-      "source_url": "https://www.bostonglobe.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PaDBxTTd6OHFrVWdHZU8yMzlCU2xBWldJMWRHMEhNOEM0Ry1jcGNjSWoxVkY1czBwbEtTZ1dVOFVMTmJpTzVQSGNCTDQzeU9Jb2hwSXFHOE8wQVdfY3FYdGZBWFNoVnoyTVlLTUt2Tk5NdVdNQ3kyYnd1cVdqQnc?oc=5",
-      "pub_date": 1790285877.0,
-      "article_url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/KY3QL47TWU5WJMYUYN2VZKXOQU.jpg?auth=f118c78c080030ada011fdb9729b7d52f792bb468c12a372b7b633ec3bd07611&width=1440",
-      "description": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts."
+      "headline": "Labor-scarce Japan counts on AI-powered robots",
+      "source": "japantoday.com",
+      "source_url": "https://japantoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFfYU9idlpRMkk5SEZVV3A2VHlkMTRnVGxtY0NXSS0wQmkycURzU25aYnBrQTA5ZW0tS281ZHUxTXNlV0dTcVE3ZVNTVGQyTnRTclVIWXJLV1IwQmFKVXQxWTQ4Z0JtTmdzdHZoaF9FWUN6YVJCSHhTMnVaVFhZMFBaZUlKdGItSEVfd19aMzVqV25GTlVoaHFlTWppLWI1SFVRSWRZWkdUeUN0YllreERHcw?oc=5",
+      "pub_date": 1790285760.0,
+      "article_url": "https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Discover Amazon building $100 million robotics plant in Indiana",
@@ -75,36 +95,16 @@
       "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
     },
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
-    },
-    {
-      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
-      "pub_date": 1790275958.0,
-      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
-      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
-    },
-    {
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
-      "pub_date": 1790158801.0,
-      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
+      "pub_date": 1790269194.0,
+      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-24T22:01:41.286504+00:00"
+  "fetched_at": "2026-09-25T00:41:03.355551+00:00"
 }

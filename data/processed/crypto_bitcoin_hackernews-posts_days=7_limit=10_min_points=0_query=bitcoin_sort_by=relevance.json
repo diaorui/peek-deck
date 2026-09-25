@@ -75,6 +75,20 @@
       "site_name": "X (formerly Twitter)"
     },
     {
+      "title": "Show HN: Sprocket \u2013 A bioinformatics workflow engine in Rust, from St. Jude",
+      "url": "https://sprocket.bio/",
+      "hn_url": "https://news.ycombinator.com/item?id=49837886",
+      "author": "clmcleod",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-09-24T22:53:20Z",
+      "object_id": "49837886",
+      "image": "https://sprocket.bio/og-image.png",
+      "description": "Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.",
+      "favicon": "https://sprocket.bio/apple-touch-icon.png",
+      "site_name": "Sprocket"
+    },
+    {
       "title": "Bitflix \u2013 MCP Apps Example Application for Video",
       "url": "https://github.com/bitmovin/bitflix-mcp-apps-example",
       "hn_url": "https://news.ycombinator.com/item?id=49827250",
@@ -89,7 +103,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 6,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2026-09-24T22:01:19.008075+00:00"
+  "fetched_at": "2026-09-25T00:40:34.899003+00:00"
 }

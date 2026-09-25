@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-25T00:40:34.898723+00:00",
+  "data": {
+    "url": "https://sprocket.bio/",
+    "title": "Sprocket | St. Jude Rust Labs",
+    "description": "Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.",
+    "image": "https://sprocket.bio/og-image.png",
+    "favicon": "https://sprocket.bio/apple-touch-icon.png",
+    "site_name": "Sprocket",
+    "author": null,
+    "keywords": null
+  }
+}
