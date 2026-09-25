@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-25T15:53:41.672365+00:00'
+updated: '2026-09-25T19:52:31.441077+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 25, 2026 at 15:53 UTC  
+**Last Updated:** September 25, 2026 at 19:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-21h ago
+1d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Feather is betting on a customizable, $30,000 platform built for software developers.
 
-TechCrunch • 21h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -122,17 +122,25 @@ Qualcomm • 2d ago
 
 ---
 
-**[Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html)**
+**[Carnegie Mellon University professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
 
-/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a developer of autonomous subsea robotic systems and autonomy software,...
+It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
 
-PR Newswire • 7h ago
+Pittsburgh Post-Gazette • 22m ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 13h ago
+Breaking Defense • 17h ago
+
+---
+
+**[Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html)**
+
+/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a developer of autonomous subsea robotic systems and autonomy software,...
+
+PR Newswire • 11h ago
 
 ---
 
@@ -140,7 +148,13 @@ Breaking Defense • 13h ago
 
 The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
 
-ifr.org • 1d ago
+IFR International Federation of Robotics • 1d ago
+
+---
+
+**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -150,11 +164,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Ukraine’s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say](https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9)**
+**[Endpoints 11: Medra wants to create self-driving labs that change how scientists work](https://endpoints.news/endpoints-11-2026-winner-medra-wants-to-create-self-driving-labs/)**
 
-Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems.
+Endpoints 11 winner Medra and founder Michelle Lee raised a $52M Series A to put 100+ AI robots to work in a bid to build self-driving biology labs.
 
-Business Insider • 3h ago
+Endpoints News • 5h ago
 
 ---
 
@@ -166,51 +180,27 @@ CNBC • 1d ago
 
 ---
 
-**[Tesla vs. Nvidia: Which Physical AI Stock Has the Bigger Robotics Payoff by 2030?](https://finance.yahoo.com/technology/ai/articles/tesla-vs-nvidia-physical-ai-134100837.html)**
-
-Nvidia doesn't need to build the winning robot if it becomes the company powering all of them.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Humanoid robots navigate narrow gaps and obstacles with whole-body AI control](https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html)**
-
-Tech Xplore • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
 
-**[AI Robots Are OUT OF CONTROL… Now They’re Fighting HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
+
+IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
+
+📺 Evolving AI
+
+👁️ 21K • 👍 138 • 💬 17 • ⏱️ 12:11 • 3d ago
+
+---
+
+**[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
 AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
 
 📺 MindSeeded
 
-👁️ 62K • 👍 3K • 💬 234 • ⏱️ 13:48 • 1d ago
-
----
-
-**[This Robot Just Broke the Rubik’s Cube World Record 🤯](https://www.youtube.com/watch?v=RgJwM-1Erbc)**
-
-How fast can a robot solve a Rubik's Cube? This incredible demonstration shows just how far robotic speed, computer vision, ...
-
-📺 Moshyy
-
-👁️ 15K • 👍 210 • 💬 3 • ⏱️ 0:21 • 13h ago
-
----
-
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
-
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
-
-📺 America's Got Talent
-
-👁️ 660K • 👍 6K • 💬 646 • ⏱️ 4:18 • 2d ago
+👁️ 64K • 👍 3K • 💬 237 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -224,33 +214,13 @@ What if a robotic hand could see, understand, and manipulate the physical world 
 
 ---
 
-**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
-
-IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
-
-📺 Evolving AI
-
-👁️ 21K • 👍 138 • 💬 17 • ⏱️ 12:11 • 3d ago
-
----
-
 **[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
 A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
 📺 RoboFrontier
 
-👁️ 47K • 👍 172 • 💬 62 • ⏱️ 4:15 • 3d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 532K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+👁️ 49K • 👍 173 • 💬 62 • ⏱️ 4:15 • 4d ago
 
 ---
 
@@ -260,17 +230,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 197K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
+👁️ 198K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
 
 ---
 
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+**[This Robot Just Broke the Rubik’s Cube World Record 🤯](https://www.youtube.com/watch?v=RgJwM-1Erbc)**
 
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+How fast can a robot solve a Rubik's Cube? This incredible demonstration shows just how far robotic speed, computer vision, ...
 
-📺 NBC News
+📺 Moshyy
 
-👁️ 346K • 👍 424 • 💬 58 • ⏱️ 0:59 • 2d ago
+👁️ 18K • 👍 233 • 💬 3 • ⏱️ 0:21 • 17h ago
 
 ---
 
@@ -280,7 +250,37 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 70K • 👍 900 • 💬 135 • ⏱️ 1:00 • 5d ago
+👁️ 71K • 👍 910 • 💬 138 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 541K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+
+---
+
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+
+📺 America's Got Talent
+
+👁️ 671K • 👍 6K • 💬 657 • ⏱️ 4:18 • 2d ago
+
+---
+
+**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+
+Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+
+📺 Prime Insights
+
+👁️ 412K • 👍 5K • 💬 206 • ⏱️ 22:30 • 6d ago
 
 ---
 
