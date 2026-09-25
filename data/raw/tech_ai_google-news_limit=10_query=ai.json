@@ -5,44 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AOC, 9 other House Dems sign on to AI superintelligence ban",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzFXaFN5NEtTVmdTeklrS3I2aUNkSUJTNHJhTElqbUZHelpBUGYyWEhVNXVtSTd1ZGdENy1mUHkwdE9xN2gycnlMbVJTa1ZMQ1M3Y2h0Y0o2OENlalhSOFhpUk5qemgtU29VTWllRWRuV0Jwa1pRVGhnV3J5MWJ3Z2h1U2dYVjJyZUJ3VklFRGV2aldsTTRieWRFZlJGVG5KQjZDaVBrT09rUEMwNkhuOW9RUE9PZllzQmxIV1lWTlQ?oc=5",
-      "pub_date": 1790297478.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/aoc-and-9-house-dems-sign-on-to-ai-superintelligence-ban-01092733",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
+      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTEZHSHRjWnhmdkFURmZUbjJEUE1CVFA1bFlUYWJhNHFRQ0NrRlMyU19tLUtSbXpDbElyWC02X3k4MnVHc2dpcFk2VlVnVUp5bFBXNmM2bXJ6a1FxelN2NkMzX2ZCcldmQ25oZ0RZSDhNVEdyUmhEMl9ULUVIRm8?oc=5",
-      "pub_date": 1790326829.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
+      "pub_date": 1790366481.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "A surprising number of Americans use AI for spiritual reasons. Here\u2019s what they told us",
-      "source": "npr.org",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1V3MlhGdGN5QUxKamJJZ2c0ZEVjdDVQYmctV2ZMZVVsSHllWXhqendRVmxqZkRuUldPZmRQYUdhZXFmZjVERkZnODdQa2JSajFfNVlJV3JraHFBTWY5bVpQMkd4SFg4TGZBY1lXT0xqbTYxaWp0V0FvVHdyUjQyeHV4S2ZiWE9walpxSmc4dnVaUEJscWVKUUNrWGtxa082MjQ5dkFnUVBQMGJpdTlSR1NTTVl3TV8yN3RhVm1QNW1qVy16MlZZeXZR?oc=5",
-      "pub_date": 1790364169.0,
-      "article_url": "https://www.npr.org/2026/09/25/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "While most people who use artificial intelligence do so for productivity help, a small but devoted group is turning to AI for religious and spiritual reasons."
-    },
-    {
-      "headline": "America's biggest economic bet: Breaking down the $10.3T AI build-out",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtR2psYnp3aGFNd25tTm50Yy1rb2U5a25ndW5ObUpPcU5TUXZ5Wm5HVTlhb2t5RkstY0ZaZjdtVXBlU0RRY0hzTmxDR3haUk5PcEM4ZjA0bmFYUnc?oc=5",
-      "pub_date": 1790365036.0,
-      "article_url": "https://www.foxbusiness.com/video/6405635407112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/dc770f1d-6e23-4bd1-8218-7a7da2a95cc7/e7cebba6-86aa-47bb-8932-5e18ddb0acff/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "FOX Business correspondent Madison Alworth breaks down the historic AI infrastructure build-out projected to cost $10.3 trillion on 'Making Money.'"
     },
     {
       "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
@@ -55,24 +25,54 @@
       "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
     },
     {
-      "headline": "As AI agents act on their own, governments face growing questions about control",
-      "source": "KATU",
-      "source_url": "https://katu.com",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT0Q1eVZZNzFIczJjaF9nbzJVM2oxRXZndUs5b2Y4QVcwM0pYNElJcnE2QWloU29QeFU5VlFpeVpqMUVBWTZCQmRxcUpnYlJSZHQ5TGppamhyX2ViRk52Qzk0VFpSUk5KYVNtVm1ZNmtFb24xblRneURwb1ZNX0UxYTVUM0RiVnhwTGFLRUFzVzJEaUtOd2RzOE43d3RCRDIxQzFuUF9VbWhfUml2SElmcWp2SGtqd25Ed3VDVk5fSG9xUjZkbDdDRnFYWFU0dFJHa0luTVFOblNKZWNNVUFKY3RUZ0FQcTZrMDRhTWVhTlhOVEt1cmhYckNkMzgzUGN0?oc=5",
-      "pub_date": 1790364140.0,
-      "article_url": "https://katu.com/news/nation-world/as-ai-agents-act-on-their-own-governments-face-growing-questions-about-control-openai-australia-medicare-hack-rogue-agents-cybersecurity",
-      "image": "https://katu.com/resources/media2/16x9/8256/1320/0x430/90/d7831fc6-9a17-4166-953f-745c2daad3be-GettyImages22955669474.jpg",
-      "description": "The disclosure that an OpenAI agent infiltrated an Australian government website has added to a growing list of rogue AI tools."
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
+      "pub_date": 1790374847.0,
+      "article_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
     },
     {
-      "headline": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "pub_date": 1790216933.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+      "headline": "Johnson, Trump set meeting with AI executives",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5",
+      "pub_date": 1790297478.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/white-house-ai-meeting-set-01092993",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nT3o2LXNzMGpwdWxoTUtxUlZScHFGLXhiUy1maHJOOTNXSXpfRzNXb1FWVUxFM2gxN3M3T0pvVHVrQ0RVZTN2Y09XcWhVRHYtcVl0alJlUFdmVXlwR09ONFg0OVo4Sm4zZy1BRjhZRTZaYlhPNE9FMEQ0dmM?oc=5",
+      "pub_date": 1790374260.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "image": "https://i.guim.co.uk/img/media/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6db74dd6e77f9a268f886d391c264e80",
+      "description": "Xi\u2019s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries\u2019 AI arms race"
+    },
+    {
+      "headline": "Tech, AI Leaders to Join Trump for Launch of Government Website",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUsxbHlSRWpNQmJQSDlBVGJYSzRZbm9ZS3p2eTRDTVpDR2N3aFhiZmpnZTZXY0RnSm5WVC1EZ3BCeWNrU2xmOWRNLWEyRXlwTWVRR3I5VjFReExNejhHQ1VwN1B6dUVsS0RxbUFmU3BsZnJFX1FUcDJkbjNGQl9CVmdlSVJFQnlHRUtTODdSZkRqZEtkb2VTcWQxSzVuVTBXcjVONWJONmQzNjNKYVR1S2lsVQ?oc=5",
+      "pub_date": 1790374515.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-ai-leaders-to-join-trump-for-launch-of-government-website",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michigan CEO loses job after posting AI-made image of her family in \u2018Lake America\u2019 sweaters",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
+      "pub_date": 1790374920.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
+      "image": "https://i.guim.co.uk/img/media/e44905997f5cadb38f09f93a87fc8f2f8d371861/74_0_4006_3207/master/4006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1bb57149ee10664aa2e488b3cc09edc",
+      "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada"
     },
     {
       "headline": "Bill Gates says AI companies self-regulating isn\u2019t enough and governments should be involved in monitoring",
@@ -85,16 +85,6 @@
       "description": "The Microsoft co-founder and billionaire philanthropist said AI is capable of helping bad actors harm billions of people."
     },
     {
-      "headline": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQUNEWW9VV3NaZHpkRGZXWFFxUEZWOTNiMzlNMEcxNWhrOFF3eE1aR0pmTzhXNDZuN2ZJTnNEU19nZEoycWFobDJQZ1hEblJ0TkQySGNINFRZVm5pSWpTYmpyck9BQVpQUmc?oc=5",
-      "pub_date": 1790340872.0,
-      "article_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -103,8 +93,18 @@
       "article_url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-warns-ai-powerful-150039056.html",
       "image": "https://s.yimg.com/lo/mysterio/api/0bf60c9f869210e2c8797477a9a8a1945c179eb1c153c5f6a91dd3c252c02e55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F4741d58d33da56ca7f09d431185de378.jpg",
       "description": "Microsoft Corp. co-founder Bill Gates warned that artificial intelligence is a \u201cpowerful enough\u201d tool to kill off a substantial portion of humanity, joining a growing chorus of tech leaders and employees calling attention to AI\u2019s existential risks."
+    },
+    {
+      "headline": "Bill Gates says AI could cause events leading to \u201ca billion deaths\u201d",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0g4MkFCNG8yYUhfQ2d6a2owMGl1c3NBZ240ZGIzeFJIX09oa3kwRF94X2ZPNnd4U2lhc0Nnd3dzN0dRTmhlQUltZ3ZYbm9PT0pFRU9pZndNNWRGUE1QeUNfdlZwdW5zd1A4LXRUVkNfMHdyY3pvQWNGUE5YZDBIejAzbHNNNTc2aTVpTQ?oc=5",
+      "pub_date": 1790376443.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/bill-gates-says-ai-could-224723772.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1212f82519e7ded290751975a9efd51c0d336ede1fd54aef824fcc23a8bcf553/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F45d563eec416da47711b15003d0e4fd2.jpg",
+      "description": "Bill Gates says AI is powerful enough to contribute to events causing \u201ca billion deaths.\u201d"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T19:52:29.801974+00:00"
+  "fetched_at": "2026-09-25T23:08:03.759076+00:00"
 }

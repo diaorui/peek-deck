@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXR3aUNtU0ZVTGtyTkQ1ZWt4a0pVN0ZHT0ZTa1lzMEtQdkkzNkJmcXQzSTNiN3c2NmNWdUdsQmpnRGUxTnVJd0tzQTJkdEtPZUNybE9SRVRNWnpoeldNWWxrVjZhTFN4dnFaUFpYOE8xcFZqUDRHTTlFUFhvSFM2bTVaX0FvcFdQRHdLclJ2TXhodFBhOGNqa0xlcjhkd21ORUZKN2ZyWQ?oc=5",
+      "pub_date": 1790337675.0,
+      "article_url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/pete-hegseth-decrypt-style-gID_7.jpg",
+      "description": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash."
+    },
+    {
       "headline": "Macro headwinds push Bitcoin to $82.9K despite historical 365-day breakout pattern",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -13,36 +23,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/132d435ab5b43dcd593407d74be3b85fa580d08a-2860x1208.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
       "description": "Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof."
-    },
-    {
-      "headline": "Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjlPeE1XNWJzVDNNVVZmNXV3dXhxM2ExN1d4bFcyaWsyaGRIN0pud2FGUjdxa2tteE1aR1YyQXJnbHloSlowdkFvSFJkYjVJTm1IRVh2a25wSlFUY2s0M3ZlWWNaS2Myb180RG1sRHJlX3Jmb3hiaFdmbDZwUVdTZFUxSFlQeXBwc2dvMmtxZXdwZm1sRjg4?oc=5",
-      "pub_date": 1790258235.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1d93dbf81e7efe1f15567337f9bd2a9a84c874e483443c408e19afa6d44b5f9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fc191ad3c95c70c14e23f83de79a7f4ab.png",
-      "description": "Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat\u2019s Tom Lee declared a market \u201cface ripper\u201d was underway ..."
-    },
-    {
-      "headline": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYXA3SVRWVzB3WW02c1NaY1FPZzRqSnNpSlJZdnFfa0xVSk1UV0FBNzJzaWxUT3ZfUi1aaWl2QXY4dEQyNGdEYVlUSlhTaXFLVTZKQmRNLVV5SC16MGMwSUJWMU95aHNqbTlFUHJWNmZhLU8yZS0tTFBwWEI3ZkdzTWdKdVQ2dmtvRVNYQjRjLXBhYWZVRThQX1FEd0kzR0JCTkRvelpNT2poV1NZdUc2U2xjNVIxUQ?oc=5",
-      "pub_date": 1790360722.0,
-      "article_url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b0f516e73ceebb41012a702ea6f689387b383dad-1504x840.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday."
-    },
-    {
-      "headline": "Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmZfdUNGN3BYN0UyOElfQWtLT2lXd2tJN3AwdkxseWVYaFJvOVB3OElTdFBYMXJPUTdjVU9UbUhUOXRWRHJrNkJib2w0TWd0dXkxZ1haNjZ5SnBrZURramk4aUZ4VHpESUVWSEU1eUxmamFCU2VQTnJBLU9wdGVMM1U4TzQwUHlEVG9TOFg2MjEtbGc?oc=5",
-      "pub_date": 1790365169.0,
-      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-flipped-5-8-193929390.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/cde2f2055500d6d1f4ea520694bc2b857afd2da8068a80dfafb01286e21e6c30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F78fc7e1143bbefbcaae835eae03957de.jpg",
-      "description": "Bitcoin prices now hover just above $80,000."
     },
     {
       "headline": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
@@ -65,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Why bitcoin is different from every other monetary promise in history",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFVzM1dhaXlmcEpTanphaU5FWURwVVRkMTVYZFlUbVdWa1VITHZvUE5qWGJYNmpBSndOaUN6WTlnSVdLdXNZQWZNZm9nVVd3dG8ydkJmbE1OMTVwQnRYaXJMaExxT2JUYnQ1Ukd0aHRSdElRaGh3ZXZTcXJsVHozZXpOdjh5U2c?oc=5",
+      "pub_date": 1790354312.0,
+      "article_url": "https://finance.yahoo.com/video/why-bitcoin-different-every-other-163832308.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/d297e46ddd98db87b600f197c45dbb0dccdeb49ee1065749ddec2ab10b9d8502/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F9027d552-c171-491f-8a05-001b92594859_28cfbd47d124644b8ae3c0634b0620f8aa42cbad6707491be3a40586c9c6ca7b.jpg",
+      "description": "Scott Melker explains what makes bitcoin (BTC-USD) truly valuable: Its ability to avoid the many pitfalls of traditional money."
+    },
+    {
       "headline": "P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money",
       "source": "CBC",
       "source_url": "https://www.cbc.ca",
@@ -76,7 +66,7 @@
     },
     {
       "headline": "Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXpfWFZtT2hvUGM0TDNXbHFmZXJmdnZjLTc5STNfSTJULW0wQUlPallRUjdKajBvX1lLQ0xDa3ZJTzEwbml4NGJtV0lFSDFuOTMzLXd2VmxyaTRjR29lLUNUNGRkUDFYNTUtVV9vQjdFQ205cGowT3F3Z2xFLW5zWThkRTJyWUJmQ3BzRGtJRUlxTm5jTklRcnlnZlowQ1V4c2FlU284RE12WHFTQ0lOa3NR?oc=5",
       "pub_date": 1790229180.0,
@@ -85,26 +75,36 @@
       "description": null
     },
     {
-      "headline": "Andy Baehr on bitcoin reaching its highest level in months",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nYl95QU1Ic1FhV1pCckZqenV4bTV5bTdyNno5bF9Nc1lBRWxJOHQ3ZXEzRVJhQ21kb29PY0R4b0JYazFPdHh1N05jcVk5UmI3dUVFWHc1OEU5ZnVKb2VRSmhDYnU2bUF1T0dYajNn?oc=5",
-      "pub_date": 1790354062.0,
-      "article_url": "https://qz.com/andy-baehr-bitcoin-highest-level-since-january",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/Screenshot%202026-09-26%20at%2012.05.05%E2%80%AFam.png",
-      "description": "Crypto expert Andy Baehr talks bitcoin's push to its highest level since January"
+      "headline": "Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjlPeE1XNWJzVDNNVVZmNXV3dXhxM2ExN1d4bFcyaWsyaGRIN0pud2FGUjdxa2tteE1aR1YyQXJnbHloSlowdkFvSFJkYjVJTm1IRVh2a25wSlFUY2s0M3ZlWWNaS2Myb180RG1sRHJlX3Jmb3hiaFdmbDZwUVdTZFUxSFlQeXBwc2dvMmtxZXdwZm1sRjg4?oc=5",
+      "pub_date": 1790258235.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/1d93dbf81e7efe1f15567337f9bd2a9a84c874e483443c408e19afa6d44b5f9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fc191ad3c95c70c14e23f83de79a7f4ab.png",
+      "description": "Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat\u2019s Tom Lee declared a market \u201cface ripper\u201d was underway ..."
     },
     {
-      "headline": "EU Quantum Shock: $504 Billion Of Bitcoin Has No Migration Plan",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGVNMS1qN2hRTWlqbWJUOGdrSVpyOFZMZ1YwX1VNSWQ4N3pPaEpjWm1HQlVLRlN0c1BRdHBwT0x5MzFVOEZWUnV3V3NaZEV4NE5PWS1kU3JZTlZwOXA3XzZubWRfdEVEb0NNZ01yUVNEbHZDakRRaVdUamdxdkdWQVVYMnFXcXRqc2lJTF9wQ25qZUF3THVRek5peDRlRjJwZV9TUDJuamxZTjJoRnk1WE5JbzQ?oc=5",
-      "pub_date": 1790350255.0,
-      "article_url": "https://www.forbes.com/sites/boazsobrado/2026/09/25/eu-quantum-shock-504-billion-of-bitcoin-has-no-migration-plan/",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XX0NmWnpmWm1ERWRfTy0tZVBMYVFTTlBiY3o1YU5hWHZDV2pzNHhLOTMwdDMwdl9iM3hNbVoxbURqZ3EzZEJsS0FkYWE3dlhZeEpFUnF5OGY1SS1vcnA1V1VqbXduLU9fNU02ZEgybmZQbk5WOTVpRkM5OGg0Zw?oc=5",
+      "pub_date": 1790352383.0,
+      "article_url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg",
+      "description": "The Bitcoin rally today slowed, though sentiment across the broader crypto market remains mostly high as XRP and Solana outperform."
+    },
+    {
+      "headline": "MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEVEaVV0eWpXNW5sQUg2UWNqeDVBTUxwc1dTQWFrNmZoLUhZc29JOGlsMnNLejhpdjlXNWNXcTJ0VGlHUjNPY2lzYW1JRTVEUnBQTzFDeTNsMkY3ZmVlZldHZjVZelJ1RnBja09fdmZyR0paNFJGeXNQZmJ0R3E3RzVLb1U1aTcyTHVJZm12NXRZWlZCV0FZ?oc=5",
+      "pub_date": 1790367780.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-buying-preferred-daily-dividends/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/08/Stock-BitcoinGold-stand-shut.jpg",
+      "description": "Strategy's bitcoin buying went on hiatus as its flagship preferred stock tanked. A new proposal may help it regain and hold par value."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T19:52:23.277838+00:00"
+  "fetched_at": "2026-09-25T23:07:52.468889+00:00"
 }
