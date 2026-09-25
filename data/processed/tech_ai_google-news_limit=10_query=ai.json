@@ -5,61 +5,21 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018Extreme concern\u2019 over first known AI hack of a government system",
-      "source": "cnn.com",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
-      "pub_date": 1790205563.0,
-      "article_url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26265494205407.jpg?c=16x9&q=w_800,c_fill",
-      "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
-    },
-    {
-      "headline": "OpenAI breach of Australian government linked to wider AI hacking campaign",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
-      "pub_date": 1790284005.0,
-      "article_url": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d5f0095-265f-4685-9822-fc48d04fa1a7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Researchers detail three other attempts by AI agents to break into websites during \u2018mundane data retrieval tasks\u2019"
-    },
-    {
-      "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
-      "pub_date": 1790301412.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-artificial-intelligence-openai-chatgpt-api-anthropic-australia-september-24",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/86eb4abc1a5d4cb4460f5256e47c7eda.jpg",
-      "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
-    },
-    {
-      "headline": "Why We Can\u2019t Stop Predicting the Apocalypse",
+      "headline": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGpsNV9lbEM5LXp0aUZ5ekQ0em9fdjVrZnBBNkFDZmFaRFNaaXB3SjBUY0loRWNaVkNmZzJHemswMTEtSnRxVk5oM2lrQWZ4WHNBM0NEbHdsVnk3cHdfb0UwWmVYM1dqUEZIUDZoeWJEVkN2ZTlXQkhlNFR4ZXVYeFlhN0YyUVBfZE9vY1FCbHBtaXAzM0E?oc=5",
-      "pub_date": 1790326992.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTEZHSHRjWnhmdkFURmZUbjJEUE1CVFA1bFlUYWJhNHFRQ0NrRlMyU19tLUtSbXpDbElyWC02X3k4MnVHc2dpcFk2VlVnVUp5bFBXNmM2bXJ6a1FxelN2NkMzX2ZCcldmQ25oZ0RZSDhNVEdyUmhEMl9ULUVIRm8?oc=5",
+      "pub_date": 1790326829.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Trump seeks to impress Xi Jinping and Bill Gates calls for AI oversight: Morning Rundown",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajBZRWsyVzJGcWdGR1RuSFJtU0ozVlh5eEY4Qlltcm5HdDlOM2MyNHloQXRLQjVBSUUwaHdKUmlueEdZUFliamc3NUpYRzJwR2JQMWQyQ3FFNWJCQUd3QjJJMHdPSGVPQjR5ajA3amxDSnhWckR2R3E2RDQ3aVV2WjBmS29fenRnVTA0ZmRWdU9zRlVnYmQ0bXhjQlV2ZWlTaXo2enBWNy1sRW5oWDJoTg?oc=5",
-      "pub_date": 1790334156.0,
-      "article_url": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-summit-bill-gates-ai-oversight-morning-rundown-rcna599789",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-trump-xi-welcome-vsb-2023-2868c3.jpg",
-      "description": "Plus, doctors in Pennsylvania are encountering a version of measles that many don\u2019t have experience treating."
-    },
-    {
       "headline": "Xi acknowledges risks of AI even as Trump dismisses them",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dJTXZpNXNuRzB3OGUxWUFJMjB0bWt5UHgyTFJJdWNCMUpSdkdncnA3XzZ1T1p3S2Y3Y1R0UEdyS1dFX2s0eFNqYjVaMFc1Sy0tZzZoMUtqTW14bTZJNW9fRXZhX0NSZlVVNHJxM3dlQ21JUEVOTGE0d1piMFFDVFFZcGtRRlBVMG00a3p2MjRPYVhBQnBuQWtyMEJIeEhmOE1MZm5MdWFvTC1UN3U1VXBuOA?oc=5",
-      "pub_date": 1790334396.0,
+      "pub_date": 1790348567.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/09/25/trump-rejects-demands-ai-rules-while-xi-calls-human-control/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQ3FDBOXPURT3PG6OSH4JVHXG4_size-normalized.jpg&w=1440",
       "description": "Trump has dismissed the idea of an international agreement on AI, but his Chinese counterpart on Thursday said both countries must \u201cmanage AI for good.\u201d"
@@ -75,36 +35,76 @@
       "description": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks."
     },
     {
-      "headline": "Exclusive: Pro-AI super PAC endorses first Dems in general election",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm9hQjNQbFZ6dWc1NktSQjRkc1ZnWC1ncy1PdXRRdURXU3d0WVkyWHdKTU5pX1JoYWN1T01GZnhLMkZRd3dFSlRUUUZQY0UyZVNnRzBzSXlzMmEzMldjdXM0cndnSzRiNGRWN2tEelIyd0xEZWlpVklCR08tMWRTRl8wbw?oc=5",
-      "pub_date": 1790330512.0,
-      "article_url": "https://www.axios.com/2026/09/25/pro-ai-super-pac-endorses-democrats-election",
+      "headline": "Is China Really Stealing A.I. From American Companies?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNSNFZCYWZ4SG4xb2dkZUNsTXBuUzhvU2lzdzJKT1BRYzk1dTU4QUlIc1FrT0tPMHF3bXIwa0xJbkUzcjA4X2hYNUZMMVJnX3B1VFBGWkY1eEdrWFVmbkxJVVptcEVjRTZoQUNJZ21RNHdmRGFfZExweXdTNEZuUGZJTQ?oc=5",
+      "pub_date": 1790346304.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google throws a satellite into the ring as the AI space race heats up",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFJlaXp2Mm16V2x5OTdNLWt5M3NicTVJRUh1RlcxeXQ2T2tIUk5EUGw2Wm9vaE81ZXhVSmlSckZ4Q1JRMzRnSURZbzZ1MnU2MzhZU0NlOEQxWVE1VmxGckx6YnRpSXQ2TlMzQVVuMzN1Vl93VGRoWER5N1FsN2hIalZxanA1cERXVnQ2bEtuZ3R1RkQwVldfcmRJaUZ1eTZoYUc4WTJTSmtFRjJzM3JxMEQta2lOcjB5Mi1UblpHaHlQcEw5NVIzYQ?oc=5",
-      "pub_date": 1790330400.0,
-      "article_url": "https://finance.yahoo.com/technology/article/google-throws-a-satellite-into-the-ring-as-the-ai-space-race-heats-up-100000242.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/965f07e38a2b0fd69645fee02ccbd29107dd9462d46741efd4a4ac080171cf36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F52611d72-2641-4fd5-b036-93d4ba357c91",
-      "description": "The contest to establish a network of satellites that work in concert as a data center is an extension of the rivalry playing out among tech giants and frontier AI labs."
+      "headline": "Cal renames California Memorial Stadium, landing an AI branding deal",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFtSi1ZVktVOGZWUnd6YTdGZGMyWmRpV0pFeTVsa2h2U3duVEZYQzBoNG81X3M5d0hpSm1SSHVxemFUX2N4ZDl0QnJhZVk0cWZDbDBEdHNDU0x3cWkwV3ppcm10ek05UzM5YTFUNVA3bmdJOHlCY2VPbXNFZ0lQTjFNbUhMOUM1Vjd4OTlpYUIzMWtMUy1Cc0dVY1FZU2VkbjJnMjlMLUZkaDBoZXdiZk82dWJJTXEzaUVWMG5BQTQwSWc3LXYzeV9WN3k5UFpEODJF?oc=5",
+      "pub_date": 1790350020.0,
+      "article_url": "https://www.usatoday.com/story/sports/college/2026/09/25/cal-renames-california-memorial-stadium-landing-an-ai-branding-deal/91928484007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/24/USAT/91928603007-getty-images-2294895559.jpg?crop=5999,3375,x0,y400&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "Cal announced on Sept. 24, a bold new move to rebrand the California Golden Bears' home stadium and attract new revenue for its athletics department."
     },
     {
-      "headline": "SpaceX launching prototype Google AI satellite next week",
-      "source": "Space",
-      "source_url": "https://www.space.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGlyaW1JQl9IMWxWQVJNMnV4ZFlIVFdfR0hqRTFUaDBRMDZQY19GV0FMN1MwODIzdGdnb0psa2gxLXlYWDVxbzVTODRUWmVFQWZCZkkyWFg3RTZObU1oRWllQWNPTkVTbVlObUNFeU1PblVnN1dNdV9hcjBqM3Bfdkc3NEs2WlRPY1hQdHRCUE52dldEdnNVWXhnM0E4RDRYU0VQSnZNUW85Zm8?oc=5",
-      "pub_date": 1790330400.0,
-      "article_url": "https://www.space.com/space-exploration/satellites/spacex-launching-prototype-google-ai-satellite-next-week",
-      "image": "https://cdn.mos.cms.futurecdn.net/qq9vADNcmrGokKQ3u2cQD8-2000-80.jpg",
-      "description": "Project Suncatcher is about to go orbital."
+      "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
+      "pub_date": 1790301412.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-artificial-intelligence-openai-chatgpt-api-anthropic-australia-september-24",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/86eb4abc1a5d4cb4460f5256e47c7eda.jpg",
+      "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
+    },
+    {
+      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
+      "pub_date": 1790222400.0,
+      "article_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
+      "description": "The year\u2019s most popular slang reveals what young people think about artificial intelligence \u2013 and it\u2019s not positive"
+    },
+    {
+      "headline": "Ricursive Intelligence\u2019s co-founders join Disrupt 2026",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb0pWMXhBWUd0NkZObjRoQ1RuR2dHVGJFSlZPTEJ5Y3lhczMzbmhHaXpEdjA0akVnSExZQXNrakI4d2xab0pyWVZ5b242VzZvMk9CSDIyQ2pCeGhMLW52V3F0Y0dEQkVjdFZTaVNuZVhndmZBQmtSUXU1S1pHXzJJeUNjUzQ3WEkwRDRFTmhwaDQ1ZjZ2WEctMU5qTzNmRVpiZlY5V3VlRS14c09LOFBKaWVDS1YzbEZtZm5WUzlDamxHYzV6WFkzUVF6LTZYZWxlNURodGdQU2d5TEdicWxFS0ZPVU15NUUxQkVmWjBmcDBuaG8?oc=5",
+      "pub_date": 1790348400.0,
+      "article_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
+      "description": "Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini join TechCrunch Disrupt 2026. Register by Sept. 25 to save up to $200. BOGO 50%."
+    },
+    {
+      "headline": "Akamai CEO Tom Leighton: We need to develop guardrails to keep AI agents in line",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTN4VDczZ2hxZDNXazNaWkFjLXFWaTNGNkZHN3R6Q2ZiODhvT1E2azVFWTByZW9ZUUV4M2FvRTBwbDgtaExkMm5WMG0zem15a2ZFMm9NR0x5ZEhvZXUtZ1dXMlYyZXBCX3N5VHhQY0N6REczazExdnVGbkFmY2E4cm1jMFBTdG5MbXZrTGhycWVhUWpnazFMMXFqTHVKb1NTbGpxWlBnM1EtaVFoQzIyMXdUUnhOUFJzeER2ZWplRQ?oc=5",
+      "pub_date": 1790349096.0,
+      "article_url": "https://www.cnbc.com/video/2026/09/25/akamai-ceo-tom-leighton-we-need-to-develop-guardrails-to-keep-ai-agents-in-line.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368124-17903488561790348853-48601858784-1080pnbcnews.jpg?v=1790348855&w=1920&h=1080",
+      "description": "Akamai co-founder and CEO Tom Leighton joins 'Squawk on the Street' to discuss the company\u2019s multibillion-dollar deal with Anthropic, how it will help the business, and more."
+    },
+    {
+      "headline": "His Debut Novel Was a Literary Sensation. Was It Actually Written by AI?",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHZlb3JNVmhTaUZTNmxUY2U5Q1BYOEZWZGoyQ1RhdTkwZk0wRGkwWVA5cUlTQU1iTXNxMHpvOWh1NTR4U1ZpUmpkN2JHaFRGWHdpaGp4T1o2SXFWTHdiOTM4U2tNZW0wRElaUV9yTzJKQUFDOHBlbjU4TDEzUDR6WlA5ZWswVGpp?oc=5",
+      "pub_date": 1790329317.0,
+      "article_url": "https://www.wsj.com/arts-culture/books/orlien-france-book-ai-accusations-f053fee6",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T11:19:21.559743+00:00"
+  "fetched_at": "2026-09-25T15:53:39.046631+00:00"
 }

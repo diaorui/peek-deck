@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-09-25T15:53:40.778996+00:00",
+  "data": "Audio8 ASR Infinite is a bilingual (Chinese/English) real-time speech recognition model supporting unlimited-length transcription with selectable audio clocks (80/120/160 ms) and configurable transcription delays. It features a rolling KV cache for constant memory/latency and semantic VAD for improved pause detection, ideal for 24/7 streaming applications.",
+  "model_id": "Edge0/Audio8-ASR-Infinite"
+}

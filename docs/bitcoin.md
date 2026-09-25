@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-25T11:19:23.916777+00:00'
+updated: '2026-09-25T15:53:41.664417+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 11:19 UTC  
+**Last Updated:** September 25, 2026 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $85,200.00
+### $83,795.36
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +4.7%  
-**30d:** +6.0%  
-**90d:** +43.0%  
-**1y:** -22.5%  
+**24h:** -1.3%  
+**7d:** +2.7%  
+**30d:** +4.0%  
+**90d:** +40.2%  
+**1y:** -24.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1711.66B
+**Market Cap:** $1675.90B
 Rank #1
 
-**Circulating Supply:** 20,089,078 BTC
+**Circulating Supply:** 20,089,181 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.4%
+-33.8%
 
 **All-Time Low:** $67.81
-+125552.6%
++122920.2%
 
 ---
 
@@ -135,7 +135,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 4d ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 5d ago
 
 ---
 
@@ -153,7 +153,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof.
 
-CoinDesk • 16h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -161,31 +161,7 @@ CoinDesk • 16h ago
 
 Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
 
-Yahoo Finance • 21h ago
-
----
-
-**[Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses](https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses)**
-
-Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
-
-At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
-
-CoinDesk • 2h ago
-
----
-
-**[Crypto shrugs off Bitget's $351.6 million hack as altcoins rally: Crypto Markets Today](https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000)**
-
-Quant jumped 39% over 24 hours and 93 of 100 CoinDesk 100 constituents rose, with the altcoin season index at its highest in more than three months.
-
-CoinDesk • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -193,19 +169,13 @@ CoinDesk • 1h ago
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-CNBC • 17h ago
+CNBC • 21h ago
 
 ---
 
 **[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-The Economist • 11h ago
-
----
-
-**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
-
-Barchart.com • 14h ago
+The Economist • 15h ago
 
 ---
 
@@ -213,13 +183,41 @@ Barchart.com • 14h ago
 
 Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
 
-CBC • 2h ago
+CBC • 6h ago
+
+---
+
+**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin's rebound puts crowded crypto shorts on alert (BTC-USD:Cryptocurrency)](https://seekingalpha.com/news/4647059-bitcoins-rebound-puts-crowded-crypto-shorts-on-alert)**
+
+Bitcoin-linked stocks MSTR, COIN and ASST show elevated short interest and high squeeze risk despite bitcoin’s rebound—see key correlations and what to...
+
+Seeking Alpha • 3h ago
+
+---
+
+**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
+
+Barchart.com • 19h ago
 
 ---
 
 **[Why Is the Bitcoin Price Soaring Again?](https://global.morningstar.com/en-nd/markets/bitcoin-has-almost-erased-its-2026-losses-whats-next)**
 
 Morningstar • 2d ago
+
+---
+
+**[Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields](https://www.foxbusiness.com/video/6405405839112)**
+
+The Fitz-Gerald Group Principal Keith Fitz-Gerald analyzes major market moves, including Meta's price-target hike, Amazon blocking Meta's Muse AI agent, Bitcoin soaring above $86K, and falling Treasury yields as inflation worries ease.
+
+foxbusiness.com • 3d ago
 
 ---
 
@@ -231,7 +229,7 @@ Morningstar • 2d ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 4d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 5d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
@@ -243,7 +241,7 @@ The cryptocurrency has become a sort of emotional tether for a specific type of 
 
 **[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
 
-⬆️ 2 • 💬 3 • 5d ago
+⬆️ 2 • 💬 3 • 6d ago
 
 ---
 
@@ -273,7 +271,7 @@ https://t.co/GktyWFbTdN
 
 Sprocket is an open-source bioinformatics workflow engine built on the Workflow Description Language (WDL). Run locally, then scale to HPC or the cloud.
 
-⬆️ 2 • 💬 0 • 12h ago • [Sprocket](https://sprocket.bio/)
+⬆️ 2 • 💬 0 • 17h ago • [Sprocket](https://sprocket.bio/)
 
 ---
 
@@ -289,13 +287,23 @@ Bitflix - MCP Apps Example Application for video, powered by the Bitmovin Player
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is About to Explode....Alts Rally](https://www.youtube.com/watch?v=I-BAUH0grxg)**
+
+Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
+
+📺 CryptosRUs
+
+👁️ 7K • 👍 507 • 💬 28 • ⏱️ 46:21 • 1h ago
+
+---
+
 **[This Has Never Happened Before In Crypto](https://www.youtube.com/watch?v=IJ65ouCwKd4)**
 
 Big Things Are Happening In Cryptocurrency in October Grab a Zcash Miner: https://www.muskminers.com/ Follow Musk ...
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 2K • 💬 93 • ⏱️ 8:30 • 12h ago
+👁️ 79K • 👍 2K • 💬 110 • ⏱️ 8:30 • 17h ago
 
 ---
 
@@ -305,7 +313,27 @@ Is a $1 million Bitcoin price target thinking too small? Jeff Booth thinks so, a
 
 📺 Bitcoin Magazine
 
-👁️ 26K • 👍 418 • 💬 38 • ⏱️ 16:28 • 16h ago
+👁️ 32K • 👍 521 • 💬 46 • ⏱️ 16:28 • 21h ago
+
+---
+
+**[It&#39;s Time to Lock In On Bitcoin and Crypto](https://www.youtube.com/watch?v=YXPUVcXL22g)**
+
+It's time to lock in on the crypto markets. Where is Bitcoin in its cycle, in time and in price, and how does it compare to 2019 and ...
+
+📺 VirtualBacon
+
+👁️ 3K • 👍 197 • 56m ago
+
+---
+
+**[Why The Road to $1 Million Bitcoin Just Got a Lot Shorter](https://www.youtube.com/watch?v=HBpUky_t1vw)**
+
+The bond market is flashing its biggest warning in decades as Treasury yields surge, inflation heats up and Wall Street keeps ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 94 • ⏱️ 15:41 • 18h ago
 
 ---
 
@@ -315,37 +343,17 @@ Bitcoin's bear market is over and Gareth Soloway walks through the exact chart s
 
 📺 Gareth Soloway
 
-👁️ 134K • 👍 5K • 💬 579 • ⏱️ 15:33 • 17h ago
+👁️ 144K • 👍 5K • 💬 555 • ⏱️ 15:33 • 22h ago
 
 ---
 
-**[BITCOIN HOLDERS... THINGS ARE NOT AS THEY SEEM](https://www.youtube.com/watch?v=--4ULTMs_80)**
+**[WARNING: Bitcoin &amp; Stocks Are Going MUCH Higher](https://www.youtube.com/watch?v=Z7xDFOs76uY)**
 
-My Private Group: (closed for now) My Trading Strategy Tutorial: Strategy tutorial : https://youtu.be/QltnRKhXi3A My Strategies ...
+Darius Dale is the founder and CEO of 42 Macro. In this conversation, we break down whether Scott Bessent is bluffing the bond ...
 
-📺 Satoshi Stacker
+📺 Anthony Pompliano
 
-👁️ 2K • 👍 156 • 💬 7 • ⏱️ 7:25 • 2h ago
-
----
-
-**[Tom Lee: The Next 7 Days Will Change The Entire Bitcoin Bull Run Forever](https://www.youtube.com/watch?v=eWpBiY1xAR0)**
-
-Bitcoin pulled back to $83462 this morning — down 2.1%. The CME now prices a 75.3% chance of an OCTOBER FED HIKE and ...
-
-📺 Money Talks
-
-👁️ 9K • 👍 212 • 💬 14 • ⏱️ 28:00 • 15h ago
-
----
-
-**[Bitcoin Bull Market Confirmed - Bitcoin Price Prediction!](https://www.youtube.com/watch?v=zxwqqDp5458)**
-
-Here's where we're going in the short term, and long term. Sign up for the Crypto Jebb Research Symposium: ...
-
-📺 Crypto Jebb
-
-👁️ 8K • 👍 274 • 💬 53 • ⏱️ 13:36 • 17h ago
+👁️ 57K • 👍 1K • 💬 35 • ⏱️ 52:22 • 18h ago
 
 ---
 
@@ -355,37 +363,27 @@ Harvard students are considered the smartest students on Earth. So what do they 
 
 📺 The Exit Manual
 
-👁️ 29K • 👍 1K • 💬 346 • ⏱️ 15:33 • 14h ago
+👁️ 36K • 👍 1K • 💬 369 • ⏱️ 15:33 • 19h ago
 
 ---
 
-**[Ripple XRP Planned This Specifically For The Bull Run Bitcoin Is About To Make People Very Happy](https://www.youtube.com/watch?v=S7TsQ9Al5F4)**
+**[BITCOIN: MAJOR DANGER !!!!](https://www.youtube.com/watch?v=ge4SNhXdXVM)**
 
-I told you before that all of this was planned, but now the companies are just making it a bit too obvious if i can be honest.
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS WEEX: https://themoon.co/WEEXwelcome Up to ...
 
-📺 The Modern Investor
+📺 The Moon Show
 
-👁️ 13K • 👍 899 • 💬 244 • ⏱️ 28:58 • 1d ago
-
----
-
-**[Bitcoin Is About to Get a Massive Liquidity Boost, Here&#39;s why](https://www.youtube.com/watch?v=1ky7ULB3u1E)**
-
-Bond yields just broke out after a failed Treasury auction exposed a deeper demand problem in the market. Ran breaks down why ...
-
-📺 Crypto Banter
-
-👁️ 49K • 👍 2K • 💬 28 • ⏱️ 22:31 • 21h ago
+👁️ 10K • 👍 591 • 💬 25 • ⏱️ 8:26 • 6h ago
 
 ---
 
-**[Bitcoin to $150,000.](https://www.youtube.com/watch?v=6jiqWPyXS-U)**
+**[BITCOIN WARNING: ANOTHER EXCHANGE HACKED... SUNDAY COULD BE HUGE!](https://www.youtube.com/watch?v=ohYlh7YN4Jw)**
 
-Bitcoin to $150000?!?! Use code MeetKevin when you sign up for Kalshi, and get $25 when you make your first trade!
+LIFETIME ACCESS ENDS 1 OCTOBER. APPLY TODAY. https://form.typeform.com/to/lQ6mtwju?utm_source=youtube Free ...
 
-📺 Meet Kevin
+📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 45K • 👍 823 • 💬 112 • ⏱️ 10:22 • 15h ago
+👁️ 7K • 👍 441 • 💬 63 • ⏱️ 19:08 • 6h ago
 
 ---
 
