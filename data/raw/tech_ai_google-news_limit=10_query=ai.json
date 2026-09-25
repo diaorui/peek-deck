@@ -5,24 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
-      "pub_date": 1790216933.0,
-      "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "\u2018Extreme concern\u2019 over first known AI hack of a government system",
-      "source": "CNN",
+      "source": "cnn.com",
       "source_url": "https://www.cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTdiLThTZ01pMEVNUm9GV2FoaFB2VGt4bE1jOUtsWmZnMm5tV3Q1aEZlc0lJbkJXTkhMd3pfY3REWXJkbVVhS1VvYWZkU2ZERThaYzM3S1dKYTlmbjFFMHU4QTRXTjNGN25laE5PZDFjMU80c3FrbnU2LThxYTBONjZ3?oc=5",
       "pub_date": 1790205563.0,
       "article_url": "https://www.cnn.com/2026/09/23/business/australia-openai-agent-hack-intl-hnk",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26265494205407.jpg?c=16x9&q=w_800,c_fill",
       "description": "An OpenAI agent hacked into an Australian national healthcare database in the first known case of AI hacking a government network, Australian Prime Minister Anthony Albanese said on Wednesday."
+    },
+    {
+      "headline": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclNvRXRmSzdWY050dWx1TXZ4cS1pelpSMUxRWmpSZTZKbFZGUDYwZ3REbWZCQTNvZDJ3bjNsUEliVjYzMkJ6LW92YXhaR3pza3JFVFZtVnA4YlIxTWdSdy1OYVdCcGcxajQyZXBpOVdFQ0Z1bmhkWHMwWHdNUFhPRnFlUks?oc=5",
+      "pub_date": 1790284005.0,
+      "article_url": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d5f0095-265f-4685-9822-fc48d04fa1a7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "description": "Researchers detail three other attempts by AI agents to break into websites during \u2018mundane data retrieval tasks\u2019"
     },
     {
       "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
@@ -35,76 +35,76 @@
       "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
     },
     {
-      "headline": "Google Is Sending an A.I. Data Center to Outer Space",
+      "headline": "Why We Can\u2019t Stop Predicting the Apocalypse",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5",
-      "pub_date": 1790257722.0,
-      "article_url": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGpsNV9lbEM5LXp0aUZ5ekQ0em9fdjVrZnBBNkFDZmFaRFNaaXB3SjBUY0loRWNaVkNmZzJHemswMTEtSnRxVk5oM2lrQWZ4WHNBM0NEbHdsVnk3cHdfb0UwWmVYM1dqUEZIUDZoeWJEVkN2ZTlXQkhlNFR4ZXVYeFlhN0YyUVBfZE9vY1FCbHBtaXAzM0E?oc=5",
+      "pub_date": 1790326992.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI-Generated Song Caleb Flynn Wrote for Mistress Played at Trial as She Hints at What the Lyrics Mean",
-      "source": "People.com",
-      "source_url": "https://people.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGFFWGxTRDNxbkM1aXp6bnM0aktkajVyZWg0dEZvZGp4MlZ2YmpoanJEVU5XVE9MRGN2dEhzVWtZLVNPcUFRX1puMkpNZG1UTjA4N25kbHU5d1RTb0hJY1J1OS1TWlA0S3NKRjNteVJCNE5FZENpeUF5djRqVGFkUnJLWXBMSkZ4VzF4LUU1U3J6ZDRnWDBB?oc=5",
-      "pub_date": 1790311093.0,
-      "article_url": "https://people.com/ai-generated-song-caleb-flynn-wrote-for-mistress-played-at-trial-12139746",
-      "image": "https://people.com/thmb/S8NIIDr8WJZZdyfeYFQ7WVoyvwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Caleb-Flynn-and-his-jury-092426-2c1511fea1d540d0bfc0aad74ef8996a.jpg",
-      "description": "Caleb Flynn allegedly used AI to write songs for his mistress, Alleigha Botner, that were played during his trial on Thursday, Sept. 24. Flynn is accused of killing his wife, Ashley Flynn, on Feb. 16. Botner reacted to the lyrics while in court on Thursday."
+      "headline": "Trump seeks to impress Xi Jinping and Bill Gates calls for AI oversight: Morning Rundown",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajBZRWsyVzJGcWdGR1RuSFJtU0ozVlh5eEY4Qlltcm5HdDlOM2MyNHloQXRLQjVBSUUwaHdKUmlueEdZUFliamc3NUpYRzJwR2JQMWQyQ3FFNWJCQUd3QjJJMHdPSGVPQjR5ajA3amxDSnhWckR2R3E2RDQ3aVV2WjBmS29fenRnVTA0ZmRWdU9zRlVnYmQ0bXhjQlV2ZWlTaXo2enBWNy1sRW5oWDJoTg?oc=5",
+      "pub_date": 1790334156.0,
+      "article_url": "https://www.nbcnews.com/news/us-news/trump-xi-jinping-summit-bill-gates-ai-oversight-morning-rundown-rcna599789",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-trump-xi-welcome-vsb-2023-2868c3.jpg",
+      "description": "Plus, doctors in Pennsylvania are encountering a version of measles that many don\u2019t have experience treating."
     },
     {
-      "headline": "'AI helped diagnose my daughter's rare condition'",
-      "source": "bbc.com",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZNUU2SmVWWnUtak81bDhvdWV2YmhJbEdIOEJUbVNqc3VWSVZZZVpaS3RtRERBQzlTcS1xQ2lqUUo4MzJ0aXFEZEhHVFVyUmNDNGpCcU5rOGRCUDg?oc=5",
-      "pub_date": 1790313656.0,
-      "article_url": "https://www.bbc.com/news/articles/cm4g5yp0ng85o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6cdc/live/67ec5ab0-b683-11f1-97fb-8d66d3951490.jpg",
-      "description": "Rosie says her toddler's symptoms included an unknown heart condition and dilated pupils."
+      "headline": "Xi acknowledges risks of AI even as Trump dismisses them",
+      "source": "washingtonpost.com",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dJTXZpNXNuRzB3OGUxWUFJMjB0bWt5UHgyTFJJdWNCMUpSdkdncnA3XzZ1T1p3S2Y3Y1R0UEdyS1dFX2s0eFNqYjVaMFc1Sy0tZzZoMUtqTW14bTZJNW9fRXZhX0NSZlVVNHJxM3dlQ21JUEVOTGE0d1piMFFDVFFZcGtRRlBVMG00a3p2MjRPYVhBQnBuQWtyMEJIeEhmOE1MZm5MdWFvTC1UN3U1VXBuOA?oc=5",
+      "pub_date": 1790334396.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/25/trump-rejects-demands-ai-rules-while-xi-calls-human-control/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQ3FDBOXPURT3PG6OSH4JVHXG4_size-normalized.jpg&w=1440",
+      "description": "Trump has dismissed the idea of an international agreement on AI, but his Chinese counterpart on Thursday said both countries must \u201cmanage AI for good.\u201d"
     },
     {
-      "headline": "The cheap new AI model taking aim at OpenAI and Anthropic",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5",
-      "pub_date": 1790308830.0,
-      "article_url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430?syn-25a6b1a6=1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0ff37a46-dff4-4943-b185-02d6082e0336.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "description": "Start-up TypeSafe AI\u2019s \u2018Jev\u2019 model promises faster, more efficient AI for developers"
+      "headline": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Yd283Mk9naHJ4alN4aGt2a1MtNFZ3d0Q4bDdfYjNIWTlJY0VrNnNad0pPYWJ0ZktaM1h0Z0hCV3BHejhCR0xwdDFTWGZLamItUkhYTXV1NnI5ZG5NRDhMY08tQjZpWkhZZjdLOHlybk9QVi1LVjd0aE9oeFrSAYIBQVVfeXFMTTZNcmU2QTlLdE0tZHI0eXB0OTVwT2xnOTEwN0tZVWxxRENFb2xPUm5IU3dMUlJSMy12NE1BV21yY2ZzbUhFejVJMGpoZmFabWtOdmt5LTMxaDFOQzZEQldXekcxS0NFSXcyLVNEQ0VCMUh5enpacVhDUUp4VG9ZUU9UZw?oc=5",
+      "pub_date": 1790334408.0,
+      "article_url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108348893-1786596567346-gettyimages-2275368013-AFP_B2NX79F.jpeg?v=1786596593&w=1920&h=1080",
+      "description": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks."
     },
     {
-      "headline": "His Debut Novel Was a Literary Triumph. Was It Actually Written by AI?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHZlb3JNVmhTaUZTNmxUY2U5Q1BYOEZWZGoyQ1RhdTkwZk0wRGkwWVA5cUlTQU1iTXNxMHpvOWh1NTR4U1ZpUmpkN2JHaFRGWHdpaGp4T1o2SXFWTHdiOTM4U2tNZW0wRElaUV9yTzJKQUFDOHBlbjU4TDEzUDR6WlA5ZWswVGpp?oc=5",
-      "pub_date": 1790291700.0,
-      "article_url": "https://www.wsj.com/arts-culture/books/orlien-france-book-ai-accusations-f053fee6",
+      "headline": "Exclusive: Pro-AI super PAC endorses first Dems in general election",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm9hQjNQbFZ6dWc1NktSQjRkc1ZnWC1ncy1PdXRRdURXU3d0WVkyWHdKTU5pX1JoYWN1T01GZnhLMkZRd3dFSlRUUUZQY0UyZVNnRzBzSXlzMmEzMldjdXM0cndnSzRiNGRWN2tEelIyd0xEZWlpVklCR08tMWRTRl8wbw?oc=5",
+      "pub_date": 1790330512.0,
+      "article_url": "https://www.axios.com/2026/09/25/pro-ai-super-pac-endorses-democrats-election",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI, trade, Iran and Taiwan top agenda at Trump-Xi summit",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm5JSjBieFkzSUJENlZ2WElUc0FEVmI5VUNubGtxUDBfQWN4RkVqcTdNZTdxUUFDMERTVkx1NXpUZ0RqR3RFTU51eTR0RE5qc1Q0TFdjeUFGdU1nVDMyNldDWmdFZDRvS24zb01MUEZQc25SLXFDY0tpX2Q5N2xUc1J4OHRlX3B6dkFQV0otWmxsZw?oc=5",
-      "pub_date": 1790290506.0,
-      "article_url": "https://www.pbs.org/newshour/show/ai-trade-iran-and-taiwan-top-agenda-at-trump-xi-summit",
-      "image": null,
-      "description": null
+      "headline": "Google throws a satellite into the ring as the AI space race heats up",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFJlaXp2Mm16V2x5OTdNLWt5M3NicTVJRUh1RlcxeXQ2T2tIUk5EUGw2Wm9vaE81ZXhVSmlSckZ4Q1JRMzRnSURZbzZ1MnU2MzhZU0NlOEQxWVE1VmxGckx6YnRpSXQ2TlMzQVVuMzN1Vl93VGRoWER5N1FsN2hIalZxanA1cERXVnQ2bEtuZ3R1RkQwVldfcmRJaUZ1eTZoYUc4WTJTSmtFRjJzM3JxMEQta2lOcjB5Mi1UblpHaHlQcEw5NVIzYQ?oc=5",
+      "pub_date": 1790330400.0,
+      "article_url": "https://finance.yahoo.com/technology/article/google-throws-a-satellite-into-the-ring-as-the-ai-space-race-heats-up-100000242.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/965f07e38a2b0fd69645fee02ccbd29107dd9462d46741efd4a4ac080171cf36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F52611d72-2641-4fd5-b036-93d4ba357c91",
+      "description": "The contest to establish a network of satellites that work in concert as a data center is an extension of the rivalry playing out among tech giants and frontier AI labs."
     },
     {
-      "headline": "Behind Project Suncatcher, our moonshot to put AI in space",
-      "source": "blog.google",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5",
-      "pub_date": 1790255800.0,
-      "article_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.width-1300.png",
-      "description": "Learn about Project Suncatcher, how we\u2019re testing hardware survival for space, designing cooling systems for AI chips, and more."
+      "headline": "SpaceX launching prototype Google AI satellite next week",
+      "source": "Space",
+      "source_url": "https://www.space.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGlyaW1JQl9IMWxWQVJNMnV4ZFlIVFdfR0hqRTFUaDBRMDZQY19GV0FMN1MwODIzdGdnb0psa2gxLXlYWDVxbzVTODRUWmVFQWZCZkkyWFg3RTZObU1oRWllQWNPTkVTbVlObUNFeU1PblVnN1dNdV9hcjBqM3Bfdkc3NEs2WlRPY1hQdHRCUE52dldEdnNVWXhnM0E4RDRYU0VQSnZNUW85Zm8?oc=5",
+      "pub_date": 1790330400.0,
+      "article_url": "https://www.space.com/space-exploration/satellites/spacex-launching-prototype-google-ai-satellite-next-week",
+      "image": "https://cdn.mos.cms.futurecdn.net/qq9vADNcmrGokKQ3u2cQD8-2000-80.jpg",
+      "description": "Project Suncatcher is about to go orbital."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T05:54:32.258651+00:00"
+  "fetched_at": "2026-09-25T11:19:21.559743+00:00"
 }

@@ -25,6 +25,16 @@
       "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
     },
     {
+      "headline": "autonomous robotic hand walks on its fingertips like the addams family\u2019s thing",
+      "source": "Designboom",
+      "source_url": "https://www.designboom.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUNwLXlWbUFmWS15aUxzWEpfSWk2S0kwV0NsR2k4UjFvLXM0d0FYUXZxdkdEQUFaSEg1THpEZzlrLWtfUXBrbVZtZzVHa01ubjJjNDllOEZLZ2F0U09QamRsYWtzbktfd2lTdDhyMUtUaHZzVDFidkF6UE5rY0pOYmM5Z0VMeTR3TGhYcTZ1a0Z5T1BUUjhsUTFn?oc=5",
+      "pub_date": 1790334041.0,
+      "article_url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
+      "image": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
+      "description": "researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm."
+    },
+    {
       "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
       "source": "Breaking Defense",
       "source_url": "https://breakingdefense.com",
@@ -33,6 +43,16 @@
       "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nQjZMVHI1QUVOQjBkOVFyMVhSZnNuVUEzbFRGYXVFeVJGc3ZGNnFWbWh1YzRIY3JDQXIwckFUNWotWEFKVjRJYWk1OFctS3UyUzlwM1kwLUl0MkFLVE9nTW5tQ3JsUVZpeWszYw?oc=5",
+      "pub_date": 1790272940.0,
+      "article_url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+      "image": "https://spectrum.ieee.org/media-library/four-young-adult-students-laugh-together-while-one-of-them-holds-a-robot-shaped-like-a-hexagonal-cylinder.jpg?id=67845427&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "description": "Project brings hands-on robotics lessons to high-school students"
     },
     {
       "headline": "Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub",
@@ -83,28 +103,8 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
-      "pub_date": 1790158801.0,
-      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247496.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T05:54:29.963729+00:00"
+  "fetched_at": "2026-09-25T11:19:16.190163+00:00"
 }
