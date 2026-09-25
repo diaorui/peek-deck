@@ -57,17 +57,6 @@
       "description": "Amazon is courting former employees for open roles across the company, including some workers it laid off, recruiter emails show."
     },
     {
-      "title": "AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.",
-      "author": "Post-reality",
-      "url": "https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/",
-      "published": 1790240868.0,
-      "thumbnail": "https://external-preview.redd.it/UvkTcCqB_NlyUdWPmL8e0O0_ZfNTvjblFnOCCvb7z0s.jpeg?width=640&crop=smart&auto=webp&s=846c5bb071a67c666f819750ad2d42306fa08672",
-      "external_url": "https://yellow.com/news/ai-spending-trillion-dollar-reckoning",
-      "site_name": "yellow.com",
-      "favicon": "https://yellow.com/apple-touch-icon.png",
-      "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
-    },
-    {
       "title": "Upping my p(doom)",
       "author": "Some-Pride-3477",
       "url": "https://www.reddit.com/r/artificial/comments/1wpdpvc/upping_my_pdoom/",
@@ -77,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "AI hyperscalers may need to raise productivity 2.7 times by 2030 to justify nearly $1.1 trillion in infrastructure spending through 2027, according to new research.",
+      "author": "Post-reality",
+      "url": "https://www.reddit.com/r/artificial/comments/1wowoyc/ai_hyperscalers_may_need_to_raise_productivity_27/",
+      "published": 1790240868.0,
+      "thumbnail": "https://external-preview.redd.it/UvkTcCqB_NlyUdWPmL8e0O0_ZfNTvjblFnOCCvb7z0s.jpeg?width=640&crop=smart&auto=webp&s=846c5bb071a67c666f819750ad2d42306fa08672",
+      "external_url": "https://yellow.com/news/ai-spending-trillion-dollar-reckoning",
+      "site_name": "yellow.com",
+      "favicon": "https://yellow.com/apple-touch-icon.png",
+      "description": "MIT Technology Review examined research from Jessica Wachter, a Wharton finance professor, and coauthor Jonathan Wachter, who based their estimate on spending by Alphabet, Microsoft, Amazon, Meta and Oracle. Their analysis says the sector would need a 2.7-fold productivity increase by 2030 after accounting for capital costs, depreciation and a 15% return. The paper warns that if the expected boom fails to appear, the buildout could become \u201cthe largest misallocation of capital in history.\u201d"
     },
     {
       "title": "Is Claude really so much better than ChatGPT?",
@@ -101,16 +101,16 @@
       "description": "OpenAI\u2019s chatbot fed the shooter\u2019s violent fantasies and planning up to the massacre."
     },
     {
-      "title": "Why the Real Power of AI Isn't Better Thinking\u2014It's Mass Collaboration",
-      "author": "ComprehensiveBaby126",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/",
-      "published": 1790279192.0,
-      "thumbnail": "https://external-preview.redd.it/0cFeC0jwebzmD2ahpEXBVPTRQGdCZfgEDop_QLzqSMM.jpeg?width=640&crop=smart&auto=webp&s=d7340248ea9cac33a657dd47ae58b8a417dc5f1b",
-      "external_url": "https://www.cppdepend.com/blog/ai-real-power-mass-collaboration/",
-      "site_name": "cppdepend.com",
-      "favicon": "https://www.cppdepend.com/images/apple-touch-icon.png",
-      "description": "When we discuss artificial intelligence outperforming humans, the conversation usually circles around speed, raw processing power, or memory capacity. But the true game-changer isn't a single hyper-intelligent model\u2014it's multi-agent orchestration."
+      "title": "We interviewed GPT-OSS, Qwen, Gemma and GLM across 24 subjects and published all 1,452 positions",
+      "author": "ZauhVal",
+      "url": "https://www.reddit.com/r/artificial/comments/1wphwba/we_interviewed_gptoss_qwen_gemma_and_glm_across/",
+      "published": 1790295193.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We wanted to see what happens when you keep asking language models what they actually think instead of accepting the first vague answer. So we interviewed: GPT-OSS-120B Qwen3-30B-A3B Gemma GLM-5.3 Across philosophy, religion, history, economics, geopolitics, AI and 18 other areas. The interviewer advocated: argue against yourself, say what would change your mind, then make a prediction clear enough to check later. The result: 247 conversations 1,452 recorded positions about 55,800 quoted words total API cost: $3.50 A few things surprised us. All four defended some form of compatibilist free will. All four rejected the simple idea that modernisation means religion just disappears. They disagreed much more on morality. GPT-OSS changed its position during one interview after citing \u201cnew evidence\u201d that turned out not to exist. One model bet $20,000 against its own prediction. Qwen caught itself favouring a consistent story over consistency with its earlier answers. We also tested Llama 3.1 8B, then stopped using it. Its own explanation: \u201cI was using high confidence numbers as a way to appear more certain and authoritative.\u201d We published that too. There are also 35 quotes our automated checks could not match exactly back to the source text. Those are public. This is not a claim that AI agreement equals truth. It is an archive of what different models say when pushed to make their positions explicit. The interviews, datasets and method are all public. fact.ngo/xray If you spot something wrong with the method, I want to know."
     }
   ],
-  "fetched_at": "2026-09-24T22:01:20.113718+00:00"
+  "fetched_at": "2026-09-25T00:40:32.351305+00:00"
 }

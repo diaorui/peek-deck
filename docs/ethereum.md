@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-24T22:01:43.331217+00:00'
+updated: '2026-09-25T00:41:10.801639+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 24, 2026 at 22:01 UTC  
+**Last Updated:** September 25, 2026 at 00:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.0%  
-**7d:** +2.8%  
+**24h:** +0.5%  
+**7d:** +2.2%  
 **30d:** +7.2%  
-**90d:** +70.6%  
-**1y:** -30.4%  
+**90d:** +71.2%  
+**1y:** -33.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $327.90B
+**Market Cap:** $328.38B
 Rank #2
 
 **Circulating Supply:** 122,076,229 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.7%
+-45.6%
 
 **All-Time Low:** $0.43
-+620265.0%
++621110.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -160,35 +160,27 @@ Benzinga • 1d ago
 
 ---
 
-**[Tom Lee Agrees Ethereum 5-Year Consolidation Is the Launchpad for a Mega Price Rally](https://finance.yahoo.com/markets/crypto/articles/tom-lee-agrees-ethereum-5-125230869.html)**
+**[Ethereum Breaks a Year-Long Pattern. The Chart Still Has One Warning](https://finance.yahoo.com/markets/crypto/articles/ethereum-breaks-long-pattern-chart-231143967.html)**
 
-In today’s Ethereum news, ETH trades near $2,650, down about 3% over the past 24 hours. The dip is modest, but it follows a sharp rejection near $2,800 earlier this week. Zoom out, and the bigger picture comes into focus. ETH has spent much of the past five years moving ...
+Ethereum price flips key support and prints a higher high, but bearish RSI divergence points to a possible pullback.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Bitcoin and Ethereum ETFs pull in $877M in a single day as institutional appetite surges](https://www.tradingview.com/news/cryptobriefing:af81b24a5094b:0-bitcoin-and-ethereum-etfs-pull-in-877m-in-a-single-day-as-institutional-appetite-surges/)**
-
-US spot Bitcoin ETFs vacuumed up $714.7 million on September 22, while their Ethereum counterparts added roughly $162 million. Combined, that's nearly $877 million in fresh capital flowing into crypto ETFs in a single trading session, translating to over 7,000 BTC and 67,000 ETH worth of net buying…
-
-TradingView • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Current price of Ethereum for September 24, 2026](https://fortune.com/article/price-of-ethereum-09-24-2026/)**
+**[Bitcoin Is the Only 'Universal' Bet, Bitwise Says—Ethereum, Solana Must Prove 'Something Has to Work'](https://www.tradingview.com/news/benzinga:a86f1ee54094b:0-bitcoin-is-the-only-universal-bet-bitwise-says-ethereum-solana-must-prove-something-has-to-work/)**
+
+Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the…
+
+tradingview.com • 6h ago
+
+---
+
+**[Current price of Ethereum for September 22, 2026](https://fortune.com/article/price-of-ethereum-09-22-2026/)**
 
 Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
 
-Fortune • 7h ago
-
----
-
-**[Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls](https://stocktwits.com/news-articles/markets/cryptocurrency/bitwise-ethereum-solana-venture-bets-sell-if-adoption-stalls/cZM4bCARBJz)**
-
-A Bitwise report found Bitcoin is the only cryptocurrency on which significant institutions agree, with Ethereum and Solana considered lesser conditional bets.
-
-Stocktwits • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -212,7 +204,7 @@ Coinpedia • 2d ago
 
 Ethereum at $2666.78 eyes dip below consolidation range like 2025 pattern before surge, per trader analysis and 4h chart confluence.
 
-blockchain.news • 7h ago
+blockchain.news • 10h ago
 
 ---
 
@@ -220,15 +212,23 @@ blockchain.news • 7h ago
 
 Attackers drained Duelbits' hot wallets across four blockchains, and about $6 million in stolen funds now sits in a single Ethereum address.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
-**['Crypto bull market is underway,' Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy](https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923)**
+**[Bitwise Says Institutions Treat Ethereum, Solana As Venture Bets They Will Sell If Adoption Stalls](https://stocktwits.com/news-articles/markets/cryptocurrency/bitwise-ethereum-solana-venture-bets-sell-if-adoption-stalls/cZM4bCARBJz)**
 
-Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply.
+A Bitwise report found Bitcoin is the only cryptocurrency on which significant institutions agree, with Ethereum and Solana considered lesser conditional bets.
 
-The Block • 3d ago
+Stocktwits • 1d ago
+
+---
+
+**[Tom Lee Agrees Ethereum 5-Year Consolidation Is the Launchpad for a Mega Price Rally](https://www.coinspeaker.com/ethereum-news-consolidation-price-rally/)**
+
+Ethereum news: Tom Lee backs ETH's five-year consolidation as a launchpad, but price must first break $2,800 resistance to rally.
+
+Coinspeaker • 11h ago
 
 ---
 
@@ -242,7 +242,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 6K • 👍 247 • 💬 33 • ⏱️ 23:38 • 5h ago
+👁️ 15K • 👍 320 • 💬 41 • ⏱️ 23:38 • 8h ago
+
+---
+
+**[If You Missed Ethereum These 2 Altcoins Will EXPLODE!](https://www.youtube.com/watch?v=SUDwvh7AgSA)**
+
+If You Missed Ethereum These 2 Altcoins Will EXPLODE! Hey babes, Missed out on Ethereum? I am breaking down two altcoins ...
+
+📺 CryptoWendyO
+
+👁️ 12K • 👍 342 • 💬 26 • ⏱️ 3:15 • 2d ago
 
 ---
 
@@ -256,23 +266,23 @@ Crypto News: Bitcoin's rally continues with price hitting $87000 today. Trader P
 
 ---
 
+**[🚨 BTC &amp; ETH: THIS MAKES NO SENSE!!! HONEST DIVE!!!](https://www.youtube.com/watch?v=7LurmShXt5g)**
+
+Bitcoin has pumped to 87k! Here is what caused it and my market theory going forward! ---------- Join My FREE Trading Group ...
+
+📺 Thomas Kralow
+
+👁️ 19K • 👍 1K • 💬 49 • ⏱️ 12:07 • 2d ago
+
+---
+
 **[Why Ethereum Could Hit A New All-time High This Year: Tom Lee](https://www.youtube.com/watch?v=vP5SVWRoj0Q)**
 
 Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway — and believes ETH could reach new ...
 
 📺 Coinage
 
-👁️ 83K • 👍 834 • 💬 254 • ⏱️ 39:54 • 1d ago
-
----
-
-**[Ethereum (ETH) Price, Last 3 Days: +5.5%](https://www.youtube.com/watch?v=AWMsh1I24r0)**
-
-Shorts Ethereum (ETH) price over the last 3 days, drawn from 30m candles. Ethereum up 5.5% — and it did not go in a straight ...
-
-📺 Sort Finance
-
-👁️ 345 • 👍 1 • ⏱️ 0:31 • 1d ago
+👁️ 85K • 👍 839 • 💬 254 • ⏱️ 39:54 • 1d ago
 
 ---
 
@@ -292,7 +302,7 @@ A 0.6% run for ETHEREUM over the last three days. Range $2626 - $2785. One coin 
 
 📺 The Crypto Goblin
 
-👁️ 106 • 👍 1 • ⏱️ 0:39 • 1d ago
+👁️ 108 • 👍 1 • ⏱️ 0:39 • 1d ago
 
 ---
 
@@ -306,33 +316,23 @@ BMNR, Ethereum, MSTR and Bitcoin are moving higher again - but is this just the 
 
 ---
 
-**[Ethereum Is Testing a Key Level, Could ETH Be Ready for a Bigger Move?](https://www.youtube.com/watch?v=rxdtoC82oFE)**
-
-Ethereum spent weeks consolidating around a key price level before finally showing signs of a reaction. In this analysis, we look ...
-
-📺 ACY Securities
-
-👁️ 332 • 👍 5 • 💬 5 • ⏱️ 2:58 • 20h ago
-
----
-
 **[Ethereum Bullish: Major Breakout Imminent? Watch This! #shorts](https://www.youtube.com/watch?v=pTYdaC-XKbk)**
 
 Ethereum is battling its midpoint range, poised to open floodgates like Bitcoin. Once it breaks above, expect impulsive, quick ...
 
 📺 Crypto 101
 
-👁️ 113 • 💬 9 • ⏱️ 1:02 • 9h ago
+👁️ 143 • 💬 9 • ⏱️ 1:02 • 11h ago
 
 ---
 
-**[Ethereum Hits 7 Month High After Breaking $2,750 — Is $3,000 Next](https://www.youtube.com/watch?v=lUdSrLS4Shk)**
+**[Ethereum Is Testing a Key Level, Could ETH Be Ready for a Bigger Move?](https://www.youtube.com/watch?v=rxdtoC82oFE)**
 
-crypto #blockchain #ethereum #bitcoin #web3 #investing #money #finance #fyp #viral #BlockNexusTV #CryptoNews ...
+Ethereum spent weeks consolidating around a key price level before finally showing signs of a reaction. In this analysis, we look ...
 
-📺 BlockNexus Tv
+📺 ACY Securities
 
-⏱️ 1:15 • 2d ago
+👁️ 372 • 👍 5 • 💬 5 • ⏱️ 2:58 • 23h ago
 
 ---
 
