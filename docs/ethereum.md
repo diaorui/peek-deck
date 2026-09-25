@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-25T15:53:41.669561+00:00'
+updated: '2026-09-25T19:52:31.437858+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- videos
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 15:53 UTC  
+**Last Updated:** September 25, 2026 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +1.5%  
-**30d:** +6.4%  
-**90d:** +69.9%  
-**1y:** -33.6%  
+**24h:** +0.4%  
+**7d:** +2.4%  
+**30d:** +7.4%  
+**90d:** +71.5%  
+**1y:** -33.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $326.18B
+**Market Cap:** $328.94B
 Rank #2
 
 **Circulating Supply:** 122,078,905 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--46.0%
+-45.5%
 
 **All-Time Low:** $0.43
-+616939.2%
++622267.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-10h ago
+14h ago
 
 ---
 
@@ -156,39 +156,15 @@ US SEC innovation exemption for trading tokenized stocks on permissioned AMMs, S
 
 Bitcoin, Ethereum and XRP retreat ahead of Friday’s $18 billion options expiry, the largest of 2026, as traders brace for volatility.
 
-benzinga.com • 1d ago
+Benzinga • 2d ago
 
 ---
 
-**[XRP, Dogecoin (DOGE), Ethereum (ETH) and Stellar (XLM) Price Analysis For September 25: Bears Take Control](https://u.today/price-analysis/xrp-dogecoin-doge-ethereum-eth-and-stellar-xlm-price-analysis-for-september-25-bears-take-control)**
+**[Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800](https://finance.yahoo.com/markets/crypto/articles/ethereum-breaks-long-downtrend-faces-190917595.html)**
 
-XRP, Dogecoin, Ethereum and Stellar are trying to preserve their recent breakouts as correction covers the market.
+Ethereum just snapped a year-long pattern of sellers arriving earlier at every peak, yet a single price level has twice stopped buyers cold within the same week. These two signals point in opposite directions, and which one dominates will define where ETH heads next.
 
-U.Today • 15h ago
-
----
-
-**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 2h ago
-
----
-
-**[New Crypto: Remittix Confirms Its Official Token Launch Date as Ethereum Price Prediction Targets $6,000](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-confirms-its-official-token-launch-date-as-ethereum-price-prediction-targets-6-000-1036574161)**
-
-MAJURO, Marshall Islands, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed that RTX is scheduled to launch on 24 November 2026 after th...
-
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
-
-Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -204,7 +180,23 @@ CoinDesk • 1d ago
 
 Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the…
 
-TradingView • 21h ago
+TradingView • 1d ago
+
+---
+
+**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 2h ago
+
+---
+
+**[Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised](https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356)**
+
+NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
+
+markets.businessinsider.com • 13h ago
 
 ---
 
@@ -212,7 +204,7 @@ TradingView • 21h ago
 
 Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart.
 
-blockchain.news • 6h ago
+blockchain.news • 10h ago
 
 ---
 
@@ -220,7 +212,7 @@ blockchain.news • 6h ago
 
 Kingkey Financial International (Holdings) Ltd. ( ($HK:1468) ) has issued an announcement. Jakota Capital (Holding) Group has disclosed that its subsidiary Treasure...
 
-TipRanks • 1h ago
+TipRanks • 5h ago
 
 ---
 
@@ -232,9 +224,27 @@ CryptoSlate • 2d ago
 
 ---
 
+**[Ethereum Price at $2,717 as ETF Buyers Return – Bull $3,000, Bear $2,200](https://financefeeds.com/ethereum-eth-price-2717-etf-inflows-bull-3000-bear-2200/)**
+
+ETH trades at $2,717 after four straight sessions of US spot ETF inflows. Bull case $3,000, bear case $2,200, with the 10-year yield at 5.11 percent.
+
+FinanceFeeds • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
+
+SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
+
+📺 Paul Barron Network
+
+👁️ 13K • 👍 568 • 💬 87 • ⏱️ 38:35 • 4h ago
+
+---
 
 **[Tom Lee Ethereum Prediction: $15K or $700K? 2 Experts Share Bold 2026 ETH Forecasts](https://www.youtube.com/watch?v=D2QCOXQFFxU)**
 
@@ -242,27 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 30K • 👍 480 • 💬 49 • ⏱️ 23:38 • 23h ago
-
----
-
-**[Bitcoin Just Starting, Blackrock AI Crypto Thesis, Ethereum News, &amp; Tesla Semi-Trucks](https://www.youtube.com/watch?v=5buR2YG4LEU)**
-
-Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 381 • 💬 18 • ⏱️ 1:07:25 • 3h ago
-
----
-
-**[Live Crypto Trading | ETH and BTC Breakout Soon | Xauusd Live Trade](https://www.youtube.com/watch?v=fKWENG9OyVg)**
-
-Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
-
-📺 Invest For Wealth
-
-👁️ 1K • 👍 409 • 1h ago
+👁️ 31K • 👍 498 • 💬 51 • ⏱️ 23:38 • 1d ago
 
 ---
 
@@ -272,7 +262,17 @@ Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway
 
 📺 Coinage
 
-👁️ 91K • 👍 880 • 💬 267 • ⏱️ 39:54 • 2d ago
+👁️ 92K • 👍 885 • 💬 265 • ⏱️ 39:54 • 2d ago
+
+---
+
+**[Bitcoin Just Starting, Blackrock AI Crypto Thesis, Ethereum News, &amp; Tesla Semi-Trucks](https://www.youtube.com/watch?v=5buR2YG4LEU)**
+
+Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 19K • 👍 463 • 💬 41 • ⏱️ 1:07:25 • 7h ago
 
 ---
 
@@ -282,7 +282,7 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 241 • 👍 14 • 💬 76 • ⏱️ 4:42 • 5h ago
+👁️ 361 • 👍 14 • 💬 75 • ⏱️ 4:42 • 9h ago
 
 ---
 
@@ -292,27 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 365 • 💬 24 • ⏱️ 19:22 • 2d ago
-
----
-
-**[BITCOIN LIQUIDATIONS CONFIRMED (Exact Prediction)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=z5bC6jDvEBE)**
-
-BITCOIN LIQUIDATIONS CONFIRMED (Exact Prediction)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 15K • 👍 408 • 💬 123 • ⏱️ 21:52 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NLvFrvQJ59E)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 286 • 👍 48 • ⏱️ 6:30 • 1h ago
+👁️ 18K • 👍 376 • 💬 24 • ⏱️ 19:22 • 2d ago
 
 ---
 
@@ -326,13 +306,33 @@ If You Missed Ethereum These 2 Altcoins Will EXPLODE! Hey babes, Missed out on E
 
 ---
 
-**[What Makes Bitcoin, Ethereum&#39;s Rally &quot;Impressive&quot; &amp; Fallout in Failed Clarity Act Vote](https://www.youtube.com/watch?v=yg7FgFZT9Yk)**
+**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
 
-Bitcoin and Ethereum have both climbed roughly 10% over the last five trading sessions, something @CharlesSchwab's Adam ...
+Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
 
-📺 Schwab Network
+📺 Braiden Shaw
 
-👁️ 6K • 👍 52 • ⏱️ 5:45 • 17h ago
+👁️ 401 • 👍 13 • ⏱️ 1:39 • 3h ago
+
+---
+
+**[Crypto About To Run! US Economy Hits Fastest Growth In 5 Years As BlackRock Goes On Chain With ONDO](https://www.youtube.com/watch?v=YbBmbeEG1Y8)**
+
+Thanks Coinbase for sponsoring this video: ▻ COINBASE Get up to 250 USDC in rewards through my link!
+
+📺 Crypto Capital Venture
+
+👁️ 30K • 👍 854 • 💬 170 • ⏱️ 19:56 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=NLvFrvQJ59E)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 1K • 👍 81 • ⏱️ 6:30 • 5h ago
 
 ---
 

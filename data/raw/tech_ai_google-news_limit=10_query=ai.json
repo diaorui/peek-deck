@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AOC, 9 other House Dems sign on to AI superintelligence ban",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzFXaFN5NEtTVmdTeklrS3I2aUNkSUJTNHJhTElqbUZHelpBUGYyWEhVNXVtSTd1ZGdENy1mUHkwdE9xN2gycnlMbVJTa1ZMQ1M3Y2h0Y0o2OENlalhSOFhpUk5qemgtU29VTWllRWRuV0Jwa1pRVGhnV3J5MWJ3Z2h1U2dYVjJyZUJ3VklFRGV2aldsTTRieWRFZlJGVG5KQjZDaVBrT09rUEMwNkhuOW9RUE9PZllzQmxIV1lWTlQ?oc=5",
+      "pub_date": 1790297478.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/aoc-and-9-house-dems-sign-on-to-ai-superintelligence-ban-01092733",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Opinion | Being a Doctor Will Never Be the Same After A.I.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,44 +25,24 @@
       "description": null
     },
     {
-      "headline": "Xi acknowledges risks of AI even as Trump dismisses them",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0dJTXZpNXNuRzB3OGUxWUFJMjB0bWt5UHgyTFJJdWNCMUpSdkdncnA3XzZ1T1p3S2Y3Y1R0UEdyS1dFX2s0eFNqYjVaMFc1Sy0tZzZoMUtqTW14bTZJNW9fRXZhX0NSZlVVNHJxM3dlQ21JUEVOTGE0d1piMFFDVFFZcGtRRlBVMG00a3p2MjRPYVhBQnBuQWtyMEJIeEhmOE1MZm5MdWFvTC1UN3U1VXBuOA?oc=5",
-      "pub_date": 1790348567.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/25/trump-rejects-demands-ai-rules-while-xi-calls-human-control/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQ3FDBOXPURT3PG6OSH4JVHXG4_size-normalized.jpg&w=1440",
-      "description": "Trump has dismissed the idea of an international agreement on AI, but his Chinese counterpart on Thursday said both countries must \u201cmanage AI for good.\u201d"
+      "headline": "A surprising number of Americans use AI for spiritual reasons. Here\u2019s what they told us",
+      "source": "npr.org",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1V3MlhGdGN5QUxKamJJZ2c0ZEVjdDVQYmctV2ZMZVVsSHllWXhqendRVmxqZkRuUldPZmRQYUdhZXFmZjVERkZnODdQa2JSajFfNVlJV3JraHFBTWY5bVpQMkd4SFg4TGZBY1lXT0xqbTYxaWp0V0FvVHdyUjQyeHV4S2ZiWE9walpxSmc4dnVaUEJscWVKUUNrWGtxa082MjQ5dkFnUVBQMGJpdTlSR1NTTVl3TV8yN3RhVm1QNW1qVy16MlZZeXZR?oc=5",
+      "pub_date": 1790364169.0,
+      "article_url": "https://www.npr.org/2026/09/25/nx-s1-5944346/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "description": "While most people who use artificial intelligence do so for productivity help, a small but devoted group is turning to AI for religious and spiritual reasons."
     },
     {
-      "headline": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Yd283Mk9naHJ4alN4aGt2a1MtNFZ3d0Q4bDdfYjNIWTlJY0VrNnNad0pPYWJ0ZktaM1h0Z0hCV3BHejhCR0xwdDFTWGZLamItUkhYTXV1NnI5ZG5NRDhMY08tQjZpWkhZZjdLOHlybk9QVi1LVjd0aE9oeFrSAYIBQVVfeXFMTTZNcmU2QTlLdE0tZHI0eXB0OTVwT2xnOTEwN0tZVWxxRENFb2xPUm5IU3dMUlJSMy12NE1BV21yY2ZzbUhFejVJMGpoZmFabWtOdmt5LTMxaDFOQzZEQldXekcxS0NFSXcyLVNEQ0VCMUh5enpacVhDUUp4VG9ZUU9UZw?oc=5",
-      "pub_date": 1790334408.0,
-      "article_url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108348893-1786596567346-gettyimages-2275368013-AFP_B2NX79F.jpeg?v=1786596593&w=1920&h=1080",
-      "description": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks."
-    },
-    {
-      "headline": "Is China Really Stealing A.I. From American Companies?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNSNFZCYWZ4SG4xb2dkZUNsTXBuUzhvU2lzdzJKT1BRYzk1dTU4QUlIc1FrT0tPMHF3bXIwa0xJbkUzcjA4X2hYNUZMMVJnX3B1VFBGWkY1eEdrWFVmbkxJVVptcEVjRTZoQUNJZ21RNHdmRGFfZExweXdTNEZuUGZJTQ?oc=5",
-      "pub_date": 1790346304.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Cal renames California Memorial Stadium, landing an AI branding deal",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFtSi1ZVktVOGZWUnd6YTdGZGMyWmRpV0pFeTVsa2h2U3duVEZYQzBoNG81X3M5d0hpSm1SSHVxemFUX2N4ZDl0QnJhZVk0cWZDbDBEdHNDU0x3cWkwV3ppcm10ek05UzM5YTFUNVA3bmdJOHlCY2VPbXNFZ0lQTjFNbUhMOUM1Vjd4OTlpYUIzMWtMUy1Cc0dVY1FZU2VkbjJnMjlMLUZkaDBoZXdiZk82dWJJTXEzaUVWMG5BQTQwSWc3LXYzeV9WN3k5UFpEODJF?oc=5",
-      "pub_date": 1790350020.0,
-      "article_url": "https://www.usatoday.com/story/sports/college/2026/09/25/cal-renames-california-memorial-stadium-landing-an-ai-branding-deal/91928484007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/24/USAT/91928603007-getty-images-2294895559.jpg?crop=5999,3375,x0,y400&width=3200&height=1801&format=pjpg&auto=webp",
-      "description": "Cal announced on Sept. 24, a bold new move to rebrand the California Golden Bears' home stadium and attract new revenue for its athletics department."
+      "headline": "America's biggest economic bet: Breaking down the $10.3T AI build-out",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtR2psYnp3aGFNd25tTm50Yy1rb2U5a25ndW5ObUpPcU5TUXZ5Wm5HVTlhb2t5RkstY0ZaZjdtVXBlU0RRY0hzTmxDR3haUk5PcEM4ZjA0bmFYUnc?oc=5",
+      "pub_date": 1790365036.0,
+      "article_url": "https://www.foxbusiness.com/video/6405635407112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/dc770f1d-6e23-4bd1-8218-7a7da2a95cc7/e7cebba6-86aa-47bb-8932-5e18ddb0acff/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "FOX Business correspondent Madison Alworth breaks down the historic AI infrastructure build-out projected to cost $10.3 trillion on 'Making Money.'"
     },
     {
       "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
@@ -65,46 +55,56 @@
       "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
     },
     {
-      "headline": "\u2018That\u2019s so AI!\u2019 What gen Alpha\u2019s biggest insult tells us",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBXRTVRZDBGWlg1Qk44d3hzSXd0ZmppUk80TWVvWjRQTFRrVkVyeEZzd3J3eHJiUXRnYVBqdVplalk3TjdRb0w4UW5VSDRjS0FTdGliWWxfdUZsa2ZNd3lMemZyRng2dnJnejBoYnV3cHhtMjIwTmxob1FzTWp1aHBxVXA1QXZrbU1MU1pWbGRWX0NrdUZVQUpFZDR2ZC1Q?oc=5",
-      "pub_date": 1790222400.0,
-      "article_url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "image": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae1123278240e8431e2186869b1ee9a2",
-      "description": "The year\u2019s most popular slang reveals what young people think about artificial intelligence \u2013 and it\u2019s not positive"
+      "headline": "As AI agents act on their own, governments face growing questions about control",
+      "source": "KATU",
+      "source_url": "https://katu.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT0Q1eVZZNzFIczJjaF9nbzJVM2oxRXZndUs5b2Y4QVcwM0pYNElJcnE2QWloU29QeFU5VlFpeVpqMUVBWTZCQmRxcUpnYlJSZHQ5TGppamhyX2ViRk52Qzk0VFpSUk5KYVNtVm1ZNmtFb24xblRneURwb1ZNX0UxYTVUM0RiVnhwTGFLRUFzVzJEaUtOd2RzOE43d3RCRDIxQzFuUF9VbWhfUml2SElmcWp2SGtqd25Ed3VDVk5fSG9xUjZkbDdDRnFYWFU0dFJHa0luTVFOblNKZWNNVUFKY3RUZ0FQcTZrMDRhTWVhTlhOVEt1cmhYckNkMzgzUGN0?oc=5",
+      "pub_date": 1790364140.0,
+      "article_url": "https://katu.com/news/nation-world/as-ai-agents-act-on-their-own-governments-face-growing-questions-about-control-openai-australia-medicare-hack-rogue-agents-cybersecurity",
+      "image": "https://katu.com/resources/media2/16x9/8256/1320/0x430/90/d7831fc6-9a17-4166-953f-745c2daad3be-GettyImages22955669474.jpg",
+      "description": "The disclosure that an OpenAI agent infiltrated an Australian government website has added to a growing list of rogue AI tools."
     },
     {
-      "headline": "Ricursive Intelligence\u2019s co-founders join Disrupt 2026",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOb0pWMXhBWUd0NkZObjRoQ1RuR2dHVGJFSlZPTEJ5Y3lhczMzbmhHaXpEdjA0akVnSExZQXNrakI4d2xab0pyWVZ5b242VzZvMk9CSDIyQ2pCeGhMLW52V3F0Y0dEQkVjdFZTaVNuZVhndmZBQmtSUXU1S1pHXzJJeUNjUzQ3WEkwRDRFTmhwaDQ1ZjZ2WEctMU5qTzNmRVpiZlY5V3VlRS14c09LOFBKaWVDS1YzbEZtZm5WUzlDamxHYzV6WFkzUVF6LTZYZWxlNURodGdQU2d5TEdicWxFS0ZPVU15NUUxQkVmWjBmcDBuaG8?oc=5",
-      "pub_date": 1790348400.0,
-      "article_url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
-      "description": "Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini join TechCrunch Disrupt 2026. Register by Sept. 25 to save up to $200. BOGO 50%."
-    },
-    {
-      "headline": "Akamai CEO Tom Leighton: We need to develop guardrails to keep AI agents in line",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQTN4VDczZ2hxZDNXazNaWkFjLXFWaTNGNkZHN3R6Q2ZiODhvT1E2azVFWTByZW9ZUUV4M2FvRTBwbDgtaExkMm5WMG0zem15a2ZFMm9NR0x5ZEhvZXUtZ1dXMlYyZXBCX3N5VHhQY0N6REczazExdnVGbkFmY2E4cm1jMFBTdG5MbXZrTGhycWVhUWpnazFMMXFqTHVKb1NTbGpxWlBnM1EtaVFoQzIyMXdUUnhOUFJzeER2ZWplRQ?oc=5",
-      "pub_date": 1790349096.0,
-      "article_url": "https://www.cnbc.com/video/2026/09/25/akamai-ceo-tom-leighton-we-need-to-develop-guardrails-to-keep-ai-agents-in-line.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368124-17903488561790348853-48601858784-1080pnbcnews.jpg?v=1790348855&w=1920&h=1080",
-      "description": "Akamai co-founder and CEO Tom Leighton joins 'Squawk on the Street' to discuss the company\u2019s multibillion-dollar deal with Anthropic, how it will help the business, and more."
-    },
-    {
-      "headline": "His Debut Novel Was a Literary Sensation. Was It Actually Written by AI?",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHZlb3JNVmhTaUZTNmxUY2U5Q1BYOEZWZGoyQ1RhdTkwZk0wRGkwWVA5cUlTQU1iTXNxMHpvOWh1NTR4U1ZpUmpkN2JHaFRGWHdpaGp4T1o2SXFWTHdiOTM4U2tNZW0wRElaUV9yTzJKQUFDOHBlbjU4TDEzUDR6WlA5ZWswVGpp?oc=5",
-      "pub_date": 1790329317.0,
-      "article_url": "https://www.wsj.com/arts-culture/books/orlien-france-book-ai-accusations-f053fee6",
+      "headline": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmdNdEU4T2dVMHUwV05rNkZjM0hrcWZRWUlLOTBoOU9BLVl1VTVCR3c5MkQ5QTRkSHFTb0dFUU1lUW56S2R5X3ZRaUR3UFViaGJuTm5FRk5LTmJXanFoUWVEbklfdVI3azB6dEMzbXdwUnhNZUd0UFJDWjFVS21wOXdzRQ?oc=5",
+      "pub_date": 1790216933.0,
+      "article_url": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bill Gates says AI companies self-regulating isn\u2019t enough and governments should be involved in monitoring",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTZSNVpkQ0tEcVhwLVJmT3o2Rnp0c3dEd0lkbDZydVVGUmZFLU10RHE0dWl0SzNHUDVrWHhTSS1JX0libWJHaDZpNnFJMlQ0WUlWcHl4NDNQWWNtY1pvUmNBX3oySXVPRkVSdWdaSlp0Z1Z3LUllUlNXUGtKMEh4dnlwTW9vTzdKRW5FYi1CVFpxenhWLWlRZS1ZaDROdW5xZ3VKdEZpVWp4RDlrcktFdlNPUGdTRmpLeF81Vw?oc=5",
+      "pub_date": 1790334041.0,
+      "article_url": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-bill-gates-ch-1034-d8ab34.jpg",
+      "description": "The Microsoft co-founder and billionaire philanthropist said AI is capable of helping bad actors harm billions of people."
+    },
+    {
+      "headline": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQUNEWW9VV3NaZHpkRGZXWFFxUEZWOTNiMzlNMEcxNWhrOFF3eE1aR0pmTzhXNDZuN2ZJTnNEU19nZEoycWFobDJQZ1hEblJ0TkQySGNINFRZVm5pSWpTYmpyck9BQVpQUmc?oc=5",
+      "pub_date": 1790340872.0,
+      "article_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVVWkVzak9tdDRaZ3BFcXY3WFQyYW16QnVURlJ3V3hkRG1RQ3FOWXJpSjZMMTdmYmMzaEQ0YWRTeUxLZ2xfYldJZEhqcVRWZnRCVE5mdGZwWWF4TUZ3eTBfWnpiUmxZUTlqeFcyaWlQaHlkYmVaYmxHRHpoNTBlR05UYngtYUJTQ0VyQXdnQk0waVdTeEJR?oc=5",
+      "pub_date": 1790348439.0,
+      "article_url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-warns-ai-powerful-150039056.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/0bf60c9f869210e2c8797477a9a8a1945c179eb1c153c5f6a91dd3c252c02e55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F4741d58d33da56ca7f09d431185de378.jpg",
+      "description": "Microsoft Corp. co-founder Bill Gates warned that artificial intelligence is a \u201cpowerful enough\u201d tool to kill off a substantial portion of humanity, joining a growing chorus of tech leaders and employees calling attention to AI\u2019s existential risks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T15:53:39.046631+00:00"
+  "fetched_at": "2026-09-25T19:52:29.801974+00:00"
 }
