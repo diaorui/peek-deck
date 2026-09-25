@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-25T19:52:31.441077+00:00'
+updated: '2026-09-25T23:08:05.356911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 25, 2026 at 19:52 UTC  
+**Last Updated:** September 25, 2026 at 23:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,21 +118,35 @@ TechCrunch • 1d ago
 
 **[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-Qualcomm • 2d ago
+qualcomm.com • 2d ago
 
 ---
 
-**[Carnegie Mellon University professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
+**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
 
-It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
+The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
-Pittsburgh Post-Gazette • 22m ago
+CNBC • 1d ago
+
+---
+
+**[Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/)**
+
+Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
+
+arstechnica.com • 1h ago
+
+---
+
+**[Robotics expert casts doubt on viral humanoid videos watched by millions](https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910)**
+
+Sky News • 2d ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 17h ago
+Breaking Defense • 20h ago
 
 ---
 
@@ -140,7 +154,15 @@ Breaking Defense • 17h ago
 
 /PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a developer of autonomous subsea robotic systems and autonomy software,...
 
-PR Newswire • 11h ago
+PR Newswire • 15h ago
+
+---
+
+**[Carnegie Mellon professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
+
+It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
+
+Pittsburgh Post-Gazette • 3h ago
 
 ---
 
@@ -158,41 +180,9 @@ Tech Xplore • 2d ago
 
 ---
 
-**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
-
-The New York Times • 1d ago
-
----
-
-**[Endpoints 11: Medra wants to create self-driving labs that change how scientists work](https://endpoints.news/endpoints-11-2026-winner-medra-wants-to-create-self-driving-labs/)**
-
-Endpoints 11 winner Medra and founder Michelle Lee raised a $52M Series A to put 100+ AI robots to work in a bid to build self-driving biology labs.
-
-Endpoints News • 5h ago
-
----
-
-**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
-
-The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
-
-CNBC • 1d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
-
-IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
-
-📺 Evolving AI
-
-👁️ 21K • 👍 138 • 💬 17 • ⏱️ 12:11 • 3d ago
-
----
 
 **[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
@@ -200,67 +190,7 @@ AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped 
 
 📺 MindSeeded
 
-👁️ 64K • 👍 3K • 💬 237 • ⏱️ 13:48 • 1d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 34K • 👍 542 • 💬 55 • ⏱️ 0:16 • 4d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 49K • 👍 173 • 💬 62 • ⏱️ 4:15 • 4d ago
-
----
-
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
-
-📺 South China Morning Post
-
-👁️ 198K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
-
----
-
-**[This Robot Just Broke the Rubik’s Cube World Record 🤯](https://www.youtube.com/watch?v=RgJwM-1Erbc)**
-
-How fast can a robot solve a Rubik's Cube? This incredible demonstration shows just how far robotic speed, computer vision, ...
-
-📺 Moshyy
-
-👁️ 18K • 👍 233 • 💬 3 • ⏱️ 0:21 • 17h ago
-
----
-
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
-
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
-
-📺 ejunky66
-
-👁️ 71K • 👍 910 • 💬 138 • ⏱️ 1:00 • 5d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 541K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+👁️ 65K • 👍 3K • 💬 241 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -270,7 +200,37 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 671K • 👍 6K • 💬 657 • ⏱️ 4:18 • 2d ago
+👁️ 676K • 👍 6K • 💬 660 • ⏱️ 4:18 • 2d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 549K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 35K • 👍 543 • 💬 55 • ⏱️ 0:16 • 4d ago
+
+---
+
+**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
+
+IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
+
+📺 Evolving AI
+
+👁️ 21K • 👍 139 • 💬 17 • ⏱️ 12:11 • 4d ago
 
 ---
 
@@ -280,7 +240,47 @@ Humanoid robots are no longer science fiction. In 2026, some of the world's most
 
 📺 Prime Insights
 
-👁️ 412K • 👍 5K • 💬 206 • ⏱️ 22:30 • 6d ago
+👁️ 416K • 👍 5K • 💬 209 • ⏱️ 22:30 • 6d ago
+
+---
+
+**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
+
+Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
+
+📺 Tazer
+
+👁️ 123K • 👍 4K • 💬 199 • ⏱️ 24:10 • 1d ago
+
+---
+
+**[Man versus Robot: Influencer takes on humanoid robot in cage match](https://www.youtube.com/watch?v=3t1sBBvHSXc)**
+
+An influencer stepped into the ring to take on a six-foot, 200-pound robot. NBC News' Steven Romo takes a closer look at the ...
+
+📺 NBC News
+
+👁️ 98K • 👍 423 • 💬 159 • ⏱️ 1:35 • 2d ago
+
+---
+
+**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
+
+LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
+
+📺 EmortalMarcus
+
+👁️ 446K • 👍 12K • 💬 1K • ⏱️ 55:24 • 6d ago
+
+---
+
+**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+
+Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+
+📺 Prime Insights
+
+👁️ 247K • 👍 2K • 💬 175 • ⏱️ 26:57 • 1d ago
 
 ---
 
