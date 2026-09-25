@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
-    },
-    {
       "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
       "source": "TechCrunch",
       "source_url": "https://techcrunch.com",
@@ -23,16 +13,6 @@
       "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
       "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
-    },
-    {
-      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
-      "pub_date": 1790158801.0,
-      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
-      "image": null,
-      "description": null
     },
     {
       "headline": "What if robots didn't need all their AI onboard?",
@@ -45,24 +25,24 @@
       "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
     },
     {
-      "headline": "Labor-scarce Japan counts on AI-powered robots",
-      "source": "japantoday.com",
-      "source_url": "https://japantoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFfYU9idlpRMkk5SEZVV3A2VHlkMTRnVGxtY0NXSS0wQmkycURzU25aYnBrQTA5ZW0tS281ZHUxTXNlV0dTcVE3ZVNTVGQyTnRTclVIWXJLV1IwQmFKVXQxWTQ4Z0JtTmdzdHZoaF9FWUN6YVJCSHhTMnVaVFhZMFBaZUlKdGItSEVfd19aMzVqV25GTlVoaHFlTWppLWI1SFVRSWRZWkdUeUN0YllreERHcw?oc=5",
-      "pub_date": 1790285760.0,
-      "article_url": "https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries",
+      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
+      "pub_date": 1790269194.0,
+      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Discover Amazon building $100 million robotics plant in Indiana",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlBuT2hXREM0TlJNTDZjVlRGc0NGUm45WkdBVkVHWnFzN25ZMFVvS0dBamdWbWpvVV9xLVF1QmI2VnlYakZhZ0JMdDJSUy11VnJmVXBmdlFMcm02blhLOFNpVEpFTDlwZWtVelJTYlNuOFozUUNRLVJUdW1RZVZyUURnT1VHSnBsLWc0?oc=5",
-      "pub_date": 1790268131.0,
-      "article_url": "https://qz.com/gateway/amazon-robotics-manufacturing-plant-greenwood-indiana-092426",
-      "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2195802149-300x200.jpg",
-      "description": "The 585,000-square-foot facility will create 300 jobs averaging nearly $100,000 a year and is expected to open by 2028"
+      "headline": "Exclusive | Amazon to Expand Robot-Making Capacity With New, $100-Million Indiana Hub",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVQ4cnhYRk53bzZYeHNoanp4MGhYZG8zTVA2Q040QXYzWjlTUWlRRF94bVRIbEpnRjE1Z05WajFaaUE5TU1HWFhoVVN4Ynh4bEVJamIyR3FCRE5yX25FaGMxSUV1cTVTelh0X29XZlo4VDJXOWdHT29VQUdBRExUTGNRa0lBVzRwdHBjVEFKcmZDMGlVUW5KZl90UG5vbkF3SkJsX0tOQWw?oc=5",
+      "pub_date": 1790254800.0,
+      "article_url": "https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322",
+      "image": null,
+      "description": null
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
@@ -75,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOTlZaDRNdE9qa0hOcEc5M2lBWXhVMGhGaGl3cUxpM2t2amk1akZZMXVldFJ0WkVJd25ONTBoejRBN2U2LXM2QjBva280bkFVaWhRLW51dk5CQzViQnJOeDA2akJEZV9Qc0NfdFRlZHdZeWhiT1BOTFpGOFdhanhfcmlMaUR5V2RwMW9TM19YVnpyLVVVZ29iaVJUYm9iXzlsMVdlVzZfU1Q2dHQ0WlpzTU1CRl8?oc=5",
-      "pub_date": 1790275187.0,
-      "article_url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-2560x1440.jpg",
-      "description": "Ukraine\u2019s Operation Vivaldi has erased Russian gains with the help of robots."
-    },
-    {
       "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
       "source": "Vogue",
       "source_url": "https://www.vogue.com",
@@ -95,16 +65,46 @@
       "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
     },
     {
-      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790269194.0,
-      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+    },
+    {
+      "headline": "Humanoid Robots Spell Opportunity for European Chemical Firms",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkZPWWJMMnBQYmEzRnpqZ3ZQam9VZVZ3WFZKbEZXTjBnZUs5MHJxa2lKamFYT0ZzeDcyWkQ3Y3U2T2RuNHA0eF80WkJfcm9Eb3FzRmZjeWtCa2hvbmUtdmVzcjFKQlRXcTI5ZnlXQW44Z0Vtd2lxVHBVbWhEd2VsVGxtS1RDbGZmakl0VjBRcHhpYmJPamRiRmJuLWhKWmxqUnk2TXZhdWlPUDNBOXdfdVR3?oc=5",
+      "pub_date": 1790230500.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-24/humanoid-robots-spell-opportunity-for-european-chemical-firms",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Humanoid robots navigate narrow gaps and obstacles with whole-body AI control",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeE1lVURuelV1VkZ3YTV0Q1RvWWZNTzY1dHBESk5lb0ZVZ21ST3Z3YnVGZ2NvbkxCVXJLQXp6QXZoUG16RGxGb0hRVkZTV01EZ0pTN3k0MHdoclVQbUV1MFNJaGZPamFseGp0RGoxMjhYMkhjcHhrVmhYbmxCQmhqcmtuRXA?oc=5",
+      "pub_date": 1790158801.0,
+      "article_url": "https://techxplore.com/news/2026-09-humanoid-robots-narrow-gaps-obstacles.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Five Million Robots now Operate in Factories Globally",
+      "source": "IFR International Federation of Robotics",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "pub_date": 1790247496.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T00:41:03.355551+00:00"
+  "fetched_at": "2026-09-25T05:54:29.963729+00:00"
 }
