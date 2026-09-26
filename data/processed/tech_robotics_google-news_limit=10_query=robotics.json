@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
-      "pub_date": 1790275958.0,
-      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
-      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
-    },
-    {
-      "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
-      "pub_date": 1790247608.0,
-      "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -55,34 +35,64 @@
       "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
     },
     {
-      "headline": "Carnegie Mellon professor envisions a world with more robots",
-      "source": "Pittsburgh Post-Gazette",
-      "source_url": "https://www.post-gazette.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXZWSklwTlVlTkg5dnlwVFlxcW1HdGZQQVQ3VVUwcGNSMlBuNVlnM3hSekZ1WjYtaUkzQ0p3elNicHdOSExUVnpOYndIYTQwOGJBN3VMNHhxamhMUGpXUGFfUTh4b1pHdFV0UkpoaW9zMEVjMkQ3SzJydndfaVhkTTJKVVMwaEJpdjRRajd5d1dHLUV2SmJiTjJ3ZmNsZ01LQ19ELWhlaXRkeFBzUXN4bWxqZnIzSVJKQ1pwWUk5QTh2bUdDd1BIdm1rREZqLXZ3bVlQNDdUSzZMbl9ROExEaWF3?oc=5",
-      "pub_date": 1790411895.0,
-      "article_url": "https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033",
-      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609230033/1140x_a10-7_cTC/20260923awHowie03_1790213326.jpg",
-      "description": "It wasn\u2019t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and..."
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
     },
     {
-      "headline": "New robotic hand can walk, press keys and move objects on its own",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uUXoxUzVLQUhwd2F4eDA3VmJ1eDRfM0FEZDVYN1J6dVFzWmxWOWRWaVBjbWZTT2VhT3ZuVS1RX3NJNFVzWlZwdkJiY05XNElYUXBEQ1lyOGpJWGlvWC1JbUVLNA?oc=5",
-      "pub_date": 1790184601.0,
-      "article_url": "https://techxplore.com/news/2026-09-robotic-keys.html",
+      "headline": "Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUJwTE94d0xIanJVSmZ3bm84dnVuWWQ5enFZelVEd2t0bEplWXJ1dVg2MHNZZG5pbFpreHB6Wi1MTjBOaGdtaVBhSXRKM3czUkxSeXo0UEE4MHQzbWJKNmNGQ2Y4NmEydG91bXl4RVVpTHFjWmVtV2FudWozMUYyUWFEYl9vbDhxWEpyQ2VWbDRPQlE?oc=5",
+      "pub_date": 1790426340.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/tesla-optimus.jpg",
+      "description": "Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain."
+    },
+    {
+      "headline": "Tesla ramps Optimus to hundreds a week, but the robots can\u2019t generalize",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDI3NVZBVWstYkFmTjVYM0MwN1Mya2ZHNkxKWjhlcFBPT3VBTC1sR2lNSnprQlBPTk9RTWkyRlZTQU43dFNiczZFZEFYNGdlci1xLVFlU2JmRXg0Vzg2SEt6NXBscjVQMFFSVkZ4cndleHgyd1hPNXZGR0hFbE9pejZac2dLRC1PN25RSkRYMzZubXU1Ym9aY0xR?oc=5",
+      "pub_date": 1790347500.0,
+      "article_url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?resize=1200,628",
+      "description": "Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize."
+    },
+    {
+      "headline": "Work With Your Hands? That\u2019s One Area Tesla\u2019s Robots Aren\u2019t Cracking Anytime Soon",
+      "source": "PCMag",
+      "source_url": "https://www.pcmag.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NFVk93S000dUtPQXBuT3BhWWZUbmlleGtGemFtdndfbDdRZUpRdzZ3WTdpUUhPOXM5LTdhZEZjSDVldmpJanRRNDRSQXJaSXl5LUpSVWFKSVZUUnhELXJxZThHUVJTMkNGRzltSkctRmx6ZEZpbkVZT1k3a2sxOTA4ajBXdF9US2FOWnJzUndDQ2t1czNMYUdHZS1HRGxP?oc=5",
+      "pub_date": 1790435905.0,
+      "article_url": "https://www.pcmag.com/news/work-with-your-hands-thats-one-area-teslas-robots-arent-cracking-anytime",
+      "image": "https://i.pcmag.com/imagery/articles/01uh8o2bPtW5aNjiG6AJMVr-1.fit_lim.size_1200x630.v1790411052.jpg",
+      "description": "Tesla reportedly struggles with complex engineering of getting the hands of its humanoid robots to work properly; meanwhile, workers have complained that the robots are designed to replace them."
+    },
+    {
+      "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
+      "pub_date": 1790247608.0,
+      "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "Qualcomm",
-      "source_url": "https://www.qualcomm.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
-      "pub_date": 1790146800.0,
-      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
-      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
-      "description": null
+      "headline": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmtWUmYzUV9lVDg3YnNBYjhRakItNUs2cGpCSjQxRmxrN2xkZFllLVpwZGRqYnBSaXR1R2ptMFNDWVlhY2Z0Z0tPelNlWnNFZG9DeTBva0o1X0dSbjZ3MzNoYk45UTBVdzUxNHFqd3Qzd1gwUDJmUHVBTHMtUHBXRXJsdWEzM2dtNXEtVHhTbTh3ekxQV0hCQV9oNGtaWTBiUFdYajVrc1N5QWp6TVplSFExREVtSHM?oc=5",
+      "pub_date": 1790357400.0,
+      "article_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
+      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
     },
     {
       "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
@@ -93,18 +103,8 @@
       "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How robots are helping solve China's elderly care crisis",
-      "source": "DW.com",
-      "source_url": "https://www.dw.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjNDeC1UeFZqaUo5aXdCZnBDblE3eXhUQmd4c0wxNktWWFpUQlgtQ0V1SDFfMHlNVzJtTUY3OGhsclAtMzVRU2dyUll3VWFuVm8zQVVHeXhDSVJHc1V0NTJYSmx3cGFLUG9BQjlaaE12ejExazNUaG1KSWpuRzNyd05NLTlJcGRmNEg3VFFB?oc=5",
-      "pub_date": 1790150879.0,
-      "article_url": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571",
-      "image": "https://static.dw.com/image/79308532_6.jpg",
-      "description": "China's population is aging fast, and robots are moving into care homes. Humanoid machines are already helping care workers look after older people."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T12:20:30.297980+00:00"
+  "fetched_at": "2026-09-26T16:35:22.076878+00:00"
 }

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T12:20:44.773009+00:00'
+updated: '2026-09-26T16:35:23.729731+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 12:20 UTC  
+**Last Updated:** September 26, 2026 at 16:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[A duck project built with an Uno Q and Feetech servos—what do you guys think?](https://www.reddit.com/r/robotics/comments/1wp1o05/a_duck_project_built_with_an_uno_q_and_feetech/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -64,7 +64,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 **[Free Livestream for ROSCon Global 2026 in Toronto](https://www.reddit.com/r/robotics/comments/1wp0x1a/free_livestream_for_roscon_global_2026_in_toronto/)**
 
-🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 1d ago
+🔗 [roscon.ros.org](https://roscon.ros.org/2026/#livestream) • 2d ago
 
 ---
 
@@ -80,7 +80,7 @@ A few people on Reddit suggested setting up a page for funding, so we finally di
 
 Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Codex) across the whole robot pipeline, from design and CAD modeling through headless Isaac Lab training? Curious what people's workflows look like.
 
-1d ago
+2d ago
 
 ---
 
@@ -108,25 +108,11 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 ## Google News: "robotics"
 
-**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
-
-Feather is betting on a customizable, $30,000 platform built for software developers.
-
-TechCrunch • 1d ago
-
----
-
-**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
-
-The New York Times • 2d ago
-
----
-
 **[Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/)**
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 15h ago
+Ars Technica • 19h ago
 
 ---
 
@@ -134,7 +120,7 @@ Ars Technica • 15h ago
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 20h ago
+IEEE Spectrum • 1d ago
 
 ---
 
@@ -142,27 +128,53 @@ IEEE Spectrum • 20h ago
 
 Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
 
-The Robot Report • 21h ago
+The Robot Report • 1d ago
 
 ---
 
-**[Carnegie Mellon professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
+**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
 
-It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
+The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
-Pittsburgh Post-Gazette • 3h ago
-
----
-
-**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
-
-Tech Xplore • 2d ago
+CNBC • 2d ago
 
 ---
 
-**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
+**[Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks](https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week)**
 
-Qualcomm • 3d ago
+Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain.
+
+Interesting Engineering • 3h ago
+
+---
+
+**[Tesla ramps Optimus to hundreds a week, but the robots can’t generalize](https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/)**
+
+Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize.
+
+Electrek • 1d ago
+
+---
+
+**[Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon](https://www.pcmag.com/news/work-with-your-hands-thats-one-area-teslas-robots-arent-cracking-anytime)**
+
+Tesla reportedly struggles with complex engineering of getting the hands of its humanoid robots to work properly; meanwhile, workers have complained that the robots are designed to replace them.
+
+PCMag • 1h ago
+
+---
+
+**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
+
+nytimes.com • 2d ago
+
+---
+
+**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
+
+Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+
+TechCrunch • 23h ago
 
 ---
 
@@ -172,27 +184,9 @@ Breaking Defense • 1d ago
 
 ---
 
-**[How robots are helping solve China's elderly care crisis](https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571)**
-
-China's population is aging fast, and robots are moving into care homes. Humanoid machines are already helping care workers look after older people.
-
-DW.com • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
-
-📺 Julia McCoy
-
-👁️ 10K • 👍 228 • 💬 22 • ⏱️ 6:10 • 21h ago
-
----
 
 **[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
@@ -200,7 +194,27 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 698K • 👍 6K • 💬 672 • ⏱️ 4:18 • 3d ago
+👁️ 705K • 👍 6K • 💬 678 • ⏱️ 4:18 • 3d ago
+
+---
+
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+
+📺 Julia McCoy
+
+👁️ 10K • 👍 235 • 💬 24 • ⏱️ 6:10 • 1d ago
+
+---
+
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+
+📺 World Best Talent
+
+👁️ 65K • 👍 453 • 💬 31 • ⏱️ 25:31 • 13h ago
 
 ---
 
@@ -210,17 +224,7 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 22K • 👍 139 • 💬 17 • ⏱️ 12:11 • 4d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 56K • 👍 198 • 💬 63 • ⏱️ 4:15 • 4d ago
+👁️ 22K • 👍 140 • 💬 17 • ⏱️ 12:11 • 4d ago
 
 ---
 
@@ -230,7 +234,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 202K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
+👁️ 203K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
 
 ---
 
@@ -240,27 +244,27 @@ What if a robotic hand could see, understand, and manipulate the physical world 
 
 📺 Aman Jain
 
-👁️ 35K • 👍 547 • 💬 55 • ⏱️ 0:16 • 5d ago
+👁️ 35K • 👍 552 • 💬 55 • ⏱️ 0:16 • 5d ago
 
 ---
 
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
-📺 ejunky66
+📺 RoboFrontier
 
-👁️ 74K • 👍 933 • 💬 140 • ⏱️ 1:00 • 5d ago
+👁️ 57K • 👍 211 • 💬 63 • ⏱️ 4:15 • 4d ago
 
 ---
 
-**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
 
-LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
 
-📺 DPCcars
+📺 Mark Dice
 
-👁️ 5K • 👍 16 • 💬 2 • ⏱️ 1:37 • 18h ago
+👁️ 583K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
 
 ---
 
@@ -270,17 +274,17 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 351K • 👍 479 • 💬 66 • ⏱️ 0:59 • 3d ago
+👁️ 351K • 👍 490 • 💬 66 • ⏱️ 0:59 • 3d ago
 
 ---
 
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
 
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
 
-📺 Prime Insights
+📺 DPCcars
 
-👁️ 430K • 👍 5K • 💬 215 • ⏱️ 22:30 • 6d ago
+👁️ 5K • 👍 17 • 💬 3 • ⏱️ 1:37 • 23h ago
 
 ---
 
