@@ -5,84 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
-      "source": "nytimes.com",
+      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
+      "pub_date": 1790391056.0,
+      "article_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+    },
+    {
+      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "pub_date": 1790383710.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
+      "pub_date": 1790366481.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
-      "source": "reuters.com",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-      "pub_date": 1790369059.0,
-      "article_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "ChatGPT-maker\u2019s AI probed federal government websites",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
-      "pub_date": 1790385641.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/25/openais-ai-agents-probed-federal-agencies-including-commerce-department/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XPTBVQFXFUI7DFGL2PMPEKUMRM.jpg&w=1440",
-      "description": "OpenAI said that its artificial intelligence agents inappropriately accessed sites for the Commerce Department and the Securities and Exchange Commission."
-    },
-    {
-      "headline": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
-      "source": "foxnews.com",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
-      "pub_date": 1790377546.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
-      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
-    },
-    {
-      "headline": "Trump and Chinese president Xi end summit without major agreement on AI",
+      "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nT3o2LXNzMGpwdWxoTUtxUlZScHFGLXhiUy1maHJOOTNXSXpfRzNXb1FWVUxFM2gxN3M3T0pvVHVrQ0RVZTN2Y09XcWhVRHYtcVl0alJlUFdmVXlwR09ONFg0OVo4Sm4zZy1BRjhZRTZaYlhPNE9FMEQ0dmM?oc=5",
-      "pub_date": 1790374380.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-      "image": "https://i.guim.co.uk/img/media/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6db74dd6e77f9a268f886d391c264e80",
-      "description": "Xi\u2019s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries\u2019 AI arms race"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
+      "pub_date": 1790376900.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
+      "image": "https://i.guim.co.uk/img/media/01a09c7a797fe840f3618b3ad42adebb2b1c2108/647_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=627120343f4165b9d66d8def1f5c750b",
+      "description": "Disclosure reveals \u2060new area of privacy risk for the company and illustrates \u200bhow difficult it is to inventory unauthorized activity tied to its agents"
     },
     {
-      "headline": "Is China Really Stealing A.I. From American Companies?",
-      "source": "nytimes.com",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNSNFZCYWZ4SG4xb2dkZUNsTXBuUzhvU2lzdzJKT1BRYzk1dTU4QUlIc1FrT0tPMHF3bXIwa0xJbkUzcjA4X2hYNUZMMVJnX3B1VFBGWkY1eEdrWFVmbkxJVVptcEVjRTZoQUNJZ21RNHdmRGFfZExweXdTNEZuUGZJTQ?oc=5",
-      "pub_date": 1790348541.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
-      "image": null,
-      "description": null
+      "headline": "Scoping out the footprint for AI infrastructure in Massachusetts",
+      "source": "The Boston Globe",
+      "source_url": "https://www.bostonglobe.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkt4ODJlbVk0d2xHYUVwSGRsaVZzMFltZWVyVzFUZXRTYWJPQW1IR1BwNHVTaUpGVDlfYkhLa3N2d1liYVYzTHJ6VWZtZ2pvTXFja2llRmJKQjA3dUc1ZkJXOXQyM3UxaVNuV2RIVGVvYVVRQU5wMk53V3IyYXBJM0gxNDhoTXZrMDRERlY5S01QUnNPUWtJ?oc=5",
+      "pub_date": 1790404402.0,
+      "article_url": "https://www.bostonglobe.com/2026/09/26/opinion/letters-ai-data-center-mass-healey-framework/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PYNA3HKM46RGZNM4PNQTX7ZCQ4.JPG?auth=c9b43940d3c7a81b8a08d251e5ac591e66c5f6a2d87e3d8eb6765143f96f952e&width=1440",
+      "description": "Readers react to an editorial on Governor Maura Healey's framework, which would balance economic growth with protections for Massachusetts residents."
     },
     {
-      "headline": "AI pioneer warns the tech industry is overblowing AI fears",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CTHB1M2F2YVhYbDN1eC1TOG52TkZ5QVJpZmpWbGEzeGxSWEJIZzhkOFNXYVNTd0R2VFJtdF8tNnNvbl9sQVQ5Sk1xaVRIcTdnRnN3MFBYbkh4eGc?oc=5",
-      "pub_date": 1790384588.0,
-      "article_url": "https://www.foxbusiness.com/video/6405648748112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d18b1486-307a-4c2a-b3eb-f1eabd0f805b/6439c5af-7a24-43ac-bc69-d465fed88f92/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "DeepLearning.AI founder Andrew Ng discusses Meta\u2019s new AI model and how business incentives stoke public panic on \u2018FBN\u2019s Wall Street.\u2019"
-    },
-    {
-      "headline": "After 30-year sentence in TN AI child abuse case, former FBI agent warns more are coming",
-      "source": "WZTV",
-      "source_url": "https://fox17.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdy1PVkQxdEJjSFdLLWV0R01FQkRPMWxCbmQtY3hyUmptNVp3UHA1ajZYejU1X0Q2VUpJSzl6ZkdlTnU5REZYNk5uRlh0N3J6V3ViU1NtUm9ta21iLXVjbDQtUHF6MnZka1pBMFA4eVZ1QzhTZmthVEg0QXQzQ3lTY2JXTnlYWkF3N2RiSktvMVBTMDhwN2NzNGUxd2gxRnFtUXBzM0VPemlSenhHQkJ2TW1NV3ppZVU?oc=5",
-      "pub_date": 1790386070.0,
-      "article_url": "https://fox17.com/news/local/after-30-year-sentence-in-tn-ai-child-abuse-case-former-fbi-agent-warns-more-are-coming",
-      "image": "https://fox17.com/resources/media2/16x9/830/1320/0x1/90/a4a9547c-fcae-42b1-a1e2-c25d33fe2aed-PATRICKDSWANSON.jfif",
-      "description": "A former FBI agent says investigators should expect more cases involving AI-generated child sexual abuse material after a Portland man was sentenced to30 years."
+      "headline": "Venues strike back against AI generated artwork",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRllBU09qN2VZZHh1cndiQjNpeEExVENYNmRlVlVRNl9KMkxPMkVDSlJOdTVRQ09Ld1NBbFpXUk9hUFdNREhoRldmM1h4ZkdjeGJFMDE3Zmx0Q2RDdzNFTDF6YnpuN1JyNU1INTF2SkYxYTVyR2pKNUFuMUZWcnVXS0ZoOUF0d2JSUlFfY0U5UQ?oc=5",
+      "pub_date": 1790403060.0,
+      "article_url": "https://www.yahoo.com/news/world/articles/venues-strike-back-against-ai-061117506.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/dddb9e9a1267f7184cd357ab3d9177ca88178ee1be14d29dcc7f8c49bf6e84b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png",
+      "description": "Caf\u00e9 Kino is the latest venue to ban the use of AI artwork over ethical and sustainability concerns."
     },
     {
       "headline": "Michigan CEO loses job after posting AI-made image of her family in \u2018Lake America\u2019 sweaters",
@@ -99,12 +69,42 @@
       "source": "NewsNation",
       "source_url": "https://www.newsnationnow.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2xzcXpuWXVWNzNraVcyeEltWUs0UHpIVzIzNjZpQWYzZ3N5SnJvUS16Z2xFQUpVUUNHbU5FbXF3VkkxZjdaT0M5Y0xMUTVtR3drMzdEWnlmQTdfRnlhVkxSOUpuQVhZSVEyZVlNRHBZQ0lMc2Ztc2lqdjEwdEMxVmdVa3RaUlJuR3E1Wmk5cGdsZ9IBlwFBVV95cUxQbVZjNU9kVmxfbkxNU3FSSFZEbDRRMXlOQl9yT3VvOWc2dHlKd01LNl9ibWRRT1VsOXNSbmlHcUhPNmdhMlFwZ0dZQTNiNHJwWFVla2ROaV9UazBqQ3QtQmtlNjNMQkxkR0dWUzEtMENDWXpMekFCQ3RNN2lWemg1LTdMQndrV19NYXRCTkt1ZXdqeE45N1hn?oc=5",
-      "pub_date": 1790372858.0,
+      "pub_date": 1790398564.0,
       "article_url": "https://www.newsnationnow.com/us-news/midwest/michigan-ceo-no-longer-lake-america-photo/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "American CEO Who Posted AI Photo in \u2018Lake America\u2019 Sweatshirts Is No Longer CEO",
+      "source": "PetaPixel",
+      "source_url": "https://petapixel.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRU8wRzFEaXZ2QnpHWjMxX1VrQUhhcXkzaVQxSVk3VndlVVB0MEY2ekdadWtMUFZMN1BoOENUdTVkaGxQMmVKTkdldE4xcDNUZVN6VXZVbFRrZi1pN2FCdE51V3VsNWt4ZTY2WVNiYnhMVkJjYS1hLVdFMkhtY21hUEc0VEowRjQtRXZVRHIwa0k3SE92ZWMwcTk2RTk0OHZRMjE3TElTVDJ1TGFDWGl4dQ?oc=5",
+      "pub_date": 1790335477.0,
+      "article_url": "https://petapixel.com/2026/09/25/american-ceo-who-posted-ai-photo-in-lake-america-sweatshirts-is-no-longer-ceo/",
+      "image": "https://petapixel.com/assets/uploads/2026/09/american-ceo-ai-edited-photo.jpg",
+      "description": "The CEO says she now realizes that 'AI can be dangerous.'"
+    },
+    {
+      "headline": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
+      "source": "foxnews.com",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
+      "pub_date": 1790387546.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
+      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
+    },
+    {
+      "headline": "Johnson, Trump set meeting with AI executives",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5",
+      "pub_date": 1790297478.0,
+      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/white-house-ai-meeting-set-01092993",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T01:49:33.501901+00:00"
+  "fetched_at": "2026-09-26T07:08:13.664250+00:00"
 }
