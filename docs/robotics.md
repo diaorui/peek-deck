@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-25T23:08:05.356911+00:00'
+updated: '2026-09-26T01:49:35.377551+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 25, 2026 at 23:08 UTC  
+**Last Updated:** September 26, 2026 at 01:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-1d ago
+2d ago
 
 ---
 
@@ -118,15 +118,23 @@ TechCrunch • 1d ago
 
 **[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-qualcomm.com • 2d ago
+Qualcomm • 2d ago
 
 ---
 
-**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
+**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
-The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
+Your weekly selection of awesome robot videos
 
-CNBC • 1d ago
+spectrum.ieee.org • 9h ago
+
+---
+
+**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
+
+Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
+
+The Robot Report • 10h ago
 
 ---
 
@@ -134,27 +142,7 @@ CNBC • 1d ago
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-arstechnica.com • 1h ago
-
----
-
-**[Robotics expert casts doubt on viral humanoid videos watched by millions](https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910)**
-
-Sky News • 2d ago
-
----
-
-**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
-
-Breaking Defense • 20h ago
-
----
-
-**[Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html)**
-
-/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a developer of autonomous subsea robotic systems and autonomy software,...
-
-PR Newswire • 15h ago
+Ars Technica • 4h ago
 
 ---
 
@@ -162,7 +150,19 @@ PR Newswire • 15h ago
 
 It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
 
-Pittsburgh Post-Gazette • 3h ago
+Pittsburgh Post-Gazette • 5h ago
+
+---
+
+**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
+
+Breaking Defense • 23h ago
+
+---
+
+**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -174,9 +174,9 @@ IFR International Federation of Robotics • 1d ago
 
 ---
 
-**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
+**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
 
-Tech Xplore • 2d ago
+nytimes.com • 1d ago
 
 ---
 
@@ -184,13 +184,13 @@ Tech Xplore • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
 
-AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
 
-📺 MindSeeded
+📺 Julia McCoy
 
-👁️ 65K • 👍 3K • 💬 241 • ⏱️ 13:48 • 1d ago
+👁️ 6K • 👍 188 • 💬 21 • ⏱️ 6:10 • 10h ago
 
 ---
 
@@ -200,27 +200,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 676K • 👍 6K • 💬 660 • ⏱️ 4:18 • 2d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 549K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 35K • 👍 543 • 💬 55 • ⏱️ 0:16 • 4d ago
+👁️ 679K • 👍 6K • 💬 660 • ⏱️ 4:18 • 2d ago
 
 ---
 
@@ -234,53 +214,73 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
-**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
-Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
-📺 Prime Insights
+📺 RoboFrontier
 
-👁️ 416K • 👍 5K • 💬 209 • ⏱️ 22:30 • 6d ago
-
----
-
-**[Building a Robot to avoid getting a real Job](https://www.youtube.com/watch?v=wsSH07eY9OQ)**
-
-Download Opera: https://opr.as/Opera-browser-tazerengineering Extra videos on Patreon: ...
-
-📺 Tazer
-
-👁️ 123K • 👍 4K • 💬 199 • ⏱️ 24:10 • 1d ago
+👁️ 52K • 👍 186 • 💬 62 • ⏱️ 4:15 • 4d ago
 
 ---
 
-**[Man versus Robot: Influencer takes on humanoid robot in cage match](https://www.youtube.com/watch?v=3t1sBBvHSXc)**
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
 
-An influencer stepped into the ring to take on a six-foot, 200-pound robot. NBC News' Steven Romo takes a closer look at the ...
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
 
-📺 NBC News
+📺 Aman Jain
 
-👁️ 98K • 👍 423 • 💬 159 • ⏱️ 1:35 • 2d ago
-
----
-
-**[The SELF-AWARE ROBOT Has Taken Over The World | I Made A Self-Aware Robot](https://www.youtube.com/watch?v=GzlKjm-nl2M)**
-
-LIGHTS ARE OFF Channel: @LIGHTSAREOFF My last video on The Self-Aware Robot: https://youtu.be/F_MES5VHue8 In todays ...
-
-📺 EmortalMarcus
-
-👁️ 446K • 👍 12K • 💬 1K • ⏱️ 55:24 • 6d ago
+👁️ 35K • 👍 545 • 💬 55 • ⏱️ 0:16 • 4d ago
 
 ---
 
-**[China&#39;s Massive ROBOT PARADE Just Stunned the Entire World](https://www.youtube.com/watch?v=3QotlegGl7I)**
+**[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
-Inside Beijing's National Speed Skating Oval, nicknamed the Ice Ribbon, the second World Humanoid Robot Games brought ...
+AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
 
-📺 Prime Insights
+📺 MindSeeded
 
-👁️ 247K • 👍 2K • 💬 175 • ⏱️ 26:57 • 1d ago
+👁️ 66K • 👍 3K • 💬 243 • ⏱️ 13:48 • 1d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 199K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
+
+---
+
+**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
+
+LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
+
+📺 DPCcars
+
+👁️ 2K • 👍 10 • 💬 2 • ⏱️ 1:37 • 8h ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 72K • 👍 921 • 💬 139 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 555K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
 
 ---
 
