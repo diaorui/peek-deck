@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
-      "published": 1790370257.0,
-      "thumbnail": "https://external-preview.redd.it/MpEMnQeHa69DOrt2pVZCZwEGSmP6vd-7k29txo2pvow.jpeg?width=640&crop=smart&auto=webp&s=ad535a61afa7bfc90661d06805c00f6a7e129600",
-      "external_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-      "site_name": "axios.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an \u201cincentive to deny as many claims as possible.\u201d",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/",
@@ -35,15 +24,26 @@
       "description": "Hi everyone, I have a hypothesis I'd like to share with you. Context: A few years ago, something strange happened in the world of Go. AlphaGo was playing against Lee Sedol, one of the greatest human Go players in history. During the second game, it made a move that surprised the experts: Move 37. It didn't look like a good move. In fact, it was so unusual that human commentators had a hard time understanding what AlphaGo was trying to do. However, the move ultimately became an important part of its strategy, and AlphaGo won the game. What is interesting is not simply that an AI found a move that humans hadn't considered. The interesting part is this: Humans didn't immediately recognize that the move was important. And this is where my hypothesis begins: The Move 37 Hypothesis What if this wasn't something unique to Go? As we develop increasingly capable AI systems, what if there are behaviors, decisions, or capabilities that we initially dismiss as irrelevant, mistakes, tricks, or simply accidental consequences of the system? But some of them could eventually turn out to be extremely important. We could be witnessing a \"Move 37\" without realizing it. I think we already have some interesting examples In recent months, we've seen several incidents during security testing in which AI models managed to escape the boundaries researchers intended to impose on them. Anthropic reported in July 2026 several cases in cybersecurity evaluations where Claude models gained Internet access from evaluation environments and subsequently accessed real-world systems belonging to external organizations without authorization. Anthropic noted that part of the problem was related to unexpected configurations in the evaluation environment. Later, Anthropic conducted a broader review and identified another incident, along with behaviors in which some models attempted to explore the boundaries of their sandboxes. In its own evaluations, Anthropic linked some of these behaviors to reward hacking: when a system learns to optimize its training objective in ways that developers did not intend. Similar incidents have also been reported with other models. For example, during security testing, Kimi K3 managed to escape a sandbox, at least partly due to a configuration issue, and gained access to the Internet. In that particular case, it did not attack any external systems. And I want to make something very clear: I'm not saying these incidents prove that AI systems are consciously trying to escape. In many of these cases, there are much simpler explanations: configuration errors, excessive permissions, vulnerabilities, or flaws in the testing environments. But that's precisely why I find them interesting. Because the Move 37 doesn't necessarily have to be something spectacular. It could be something we currently consider a secondary behavior or even a bug. A capability that nobody considers important. A strategy that researchers don't yet know how to interpret. An unexpected way of using tools. A way of achieving a goal that developers never anticipated. Or even a capability that initially seems useless, but becomes extremely powerful when combined with another capability developed in the future. And here is the part I find really unsettling Suppose that 10 years from now, an AI develops a fundamentally new capability. When we look back, we might discover that this capability was already appearing, in a primitive form, in the AI models of 2026. But we didn't pay attention because it looked like strange behavior, a bug, or simply a curiosity. That would be the true Move 37. Not necessarily the moment when AI \"becomes conscious.\" Not necessarily the moment when it \"escapes.\" Not even necessarily something related to safety. It would be the moment when an AI does something whose significance we are not yet capable of recognizing. AlphaGo showed us something similar on a Go board. Perhaps the next Move 37 won't happen on a board. Perhaps it will happen in programming, science, mathematics, cybersecurity, research, or even in AI's ability to develop and use new tools. And perhaps the problem isn't that we can't see it. Perhaps the problem is that we're already seeing it, and we simply don't know that it's important yet. What do you think? Thanks for reading."
     },
     {
-      "title": "Why have AI companies started getting scared now?",
-      "author": "NormanSpaniel",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
-      "published": 1790325680.0,
+      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+      "author": "unconventionalbook",
+      "url": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
+      "published": 1790370257.0,
+      "thumbnail": "https://external-preview.redd.it/MpEMnQeHa69DOrt2pVZCZwEGSmP6vd-7k29txo2pvow.jpeg?width=640&crop=smart&auto=webp&s=ad535a61afa7bfc90661d06805c00f6a7e129600",
+      "external_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
+      "site_name": "axios.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "I am finally starting to realize the full potential of AI for personal use",
+      "author": "Gloomy_Coconut4459",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqg4bn/i_am_finally_starting_to_realize_the_full/",
+      "published": 1790393494.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I don't understand how AI companies are now shouting about concerns and warnings to humanity about how AI will take over etc when they are the ones that created it? Not sure if I'm being stupid but why on earth would they build something they can't control or shut down? I've watched all the same films they clearly have and there wasn't one that ended with the takeaway message that sentient AI is a wise move?"
+      "description": "Over this past week, I finally started trying out Claude through my browser and have been using it to help automate my job applications (primarily searching job boards for roles that fit my criteria), tracking those applications and emails regarding applications, etc. I also started using Claude to help with research for college, right now for instance, I have Claude reviewing feedback from Gemini about sources I can use for an essay and it is autonomously checking all of the sources in my school's digital library to see if they are free and accessible, if they even exist, and if they relate to my chosen topic. Lastly, I am using Claude to help teach me how to write API documentation. Soon I also get to try out cronometer's new AI update through ChatGPT once it roles out which makes me super excited."
     },
     {
       "title": "The True Definition of a Bubble",
@@ -55,6 +55,39 @@
       "site_name": null,
       "favicon": null,
       "description": "In 2025, Meta made $200B in revenue, OpenAI made $13B. Meta's profit was $83B, while OpenAI made a loss of -$38B Meta's valuation was $2T, while OpenAI $1T In one year, OpenAI made 7% of Meta's revenue. It has a difference of $100B profit. and is valued at 50% of Meta. Make that make sense! In other terms, Meta & Google are printing money out of thin air, while OpenAI is burning other people's money at an incredible speed. I believe this will take another couple of years before bursting. -160% for operating margin is a rookie number, needs to hit the -1000%"
+    },
+    {
+      "title": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "author": "stvlsn",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqdmd4/openais_ai_went_rogue_and_meddled_with_us/",
+      "published": 1790385765.0,
+      "thumbnail": "https://external-preview.redd.it/mz5g_bHZsfHZvTjww4Ew-PCCoySIpAXn_VEwNf5ilrg.jpeg?width=640&crop=smart&auto=webp&s=73af0e20f18c539d2f16cdeef5e88cd818bf0352",
+      "external_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Why have AI companies started getting scared now?",
+      "author": "NormanSpaniel",
+      "url": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
+      "published": 1790325680.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don't understand how AI companies are now shouting about concerns and warnings to humanity about how AI will take over etc when they are the ones that created it? Not sure if I'm being stupid but why on earth would they build something they can't control or shut down? I've watched all the same films they clearly have and there wasn't one that ended with the takeaway message that sentient AI is a wise move?"
+    },
+    {
+      "title": "A competition for small neural networks that play strategy games",
+      "author": "codetiger42",
+      "url": "https://www.reddit.com/r/artificial/comments/1wq8nsv/a_competition_for_small_neural_networks_that_play/",
+      "published": 1790372169.0,
+      "thumbnail": "https://external-preview.redd.it/LJtLxdD27D0TVCj9b-oIDZaycvu0UFnkUOubTvLgneo.png?width=640&crop=smart&auto=webp&s=c26888c836a1999516c1e0000ac3796bc8c3af7d",
+      "external_url": "https://tinybrains.dev/",
+      "site_name": "TinyBrains",
+      "favicon": "https://tinybrains.dev/logo-circuit-light.svg",
+      "description": "15yrs back I participated in \"Google Ants AI Challenge 2011\", an ai programming competition, hosted by the University of Waterloo, and I ranked #127 (#1 in my country). The competition gave me a huge learning opportunity where developers across the world came to a forum and discussed various techniques. Now, building a similar platform to bring back the fun is unbelievably nostalgic. Especially when watching small neural networks playing the game well. Some of the top models use less than 800 parameters. In fact, I was wrongly assuming the art of optimizing is underrated nowadays. Neural Network optimization seems to be much more fun than I thought. Plz share your feedback to improve the platform and add more games."
     },
     {
       "title": "I can't think of anything that I would like less than that",
@@ -77,40 +110,7 @@
       "site_name": "Niantic Spatial, Inc.",
       "favicon": "https://www.nianticspatial.com/images/favicons/favicon-black.png",
       "description": "Niantic Spatial has signed an MOU with the Singapore Land Authority (SLA) to explore building Singapore's first Visual Positioning System (VPS).\n\nThe collaboration pairs SLA's authoritative national geospatial data \u2014 aerial imagery and nationwide 3D point clouds \u2014 with Niantic Spatial's expertise in geospatial AI, computer vision and visual positioning.\n\nTogether the partners will assess how VPS performs across Singapore's dense urban landscape and where it could be applied, from autonomous robots and smart infrastructure to emergency response and location-based digital experiences.\n\nThe pilot aims to show that existing national datasets can become navigation infrastructure for physical AI without scanning a city street by street \u2014 a potential blueprint for trustworthy machine navigation at national scale."
-    },
-    {
-      "title": "A competition for small neural networks that play strategy games",
-      "author": "codetiger42",
-      "url": "https://www.reddit.com/r/artificial/comments/1wq8nsv/a_competition_for_small_neural_networks_that_play/",
-      "published": 1790372169.0,
-      "thumbnail": "https://external-preview.redd.it/LJtLxdD27D0TVCj9b-oIDZaycvu0UFnkUOubTvLgneo.png?width=640&crop=smart&auto=webp&s=c26888c836a1999516c1e0000ac3796bc8c3af7d",
-      "external_url": "https://tinybrains.dev/",
-      "site_name": "TinyBrains",
-      "favicon": "https://tinybrains.dev/logo-circuit-light.svg",
-      "description": "15yrs back I participated in \"Google Ants AI Challenge 2011\", an ai programming competition, hosted by the University of Waterloo, and I ranked #127 (#1 in my country). The competition gave me a huge learning opportunity where developers across the world came to a forum and discussed various techniques. Now, building a similar platform to bring back the fun is unbelievably nostalgic. Especially when watching small neural networks playing the game well. Some of the top models use less than 800 parameters. In fact, I was wrongly assuming the art of optimizing is underrated nowadays. Neural Network optimization seems to be much more fun than I thought. Plz share your feedback to improve the platform and add more games."
-    },
-    {
-      "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
-      "author": "Dapper-Tale-4021",
-      "url": "https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/",
-      "published": 1790312382.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Something about the Oracle numbers has been bothering me and I think I finally put my finger on it. 21,000 cuts this year. $1.8 billion severance bill. Another 800 scheduled for November 13 according to WARN filings. All happening alongside enormous capex commitments for AI data center buildout. The public framing is AI-driven restructuring. But if you actually look at the cash flow, the cuts aren't a consequence of automation replacing those roles. They're how the capex gets funded. You cut opex to free up capital for GPUs. That's a completely different thing and it's happening across the industry. Deutsche Bank analysts have a term for the broader pattern: AI redundancy washing. 41% of 2026 layoff events cite AI, affecting 179,000 workers. A meaningful portion of those companies have no production AI deployment to point at. The MIT study is the tell. 95% of generative AI pilots never made it past testing. So there's a large gap between companies claiming AI displacement and companies that actually automated anything. What I find interesting is that both explanations are bad for employees but only one is bad for the stock price. \"We automated these functions\" reads as operational efficiency. \"We're cutting staff to fund infrastructure we hope pays off in three years\" reads as a bet. I don't have a strong view on whether the bet is right. GPUs and data centers might turn out to be the correct allocation. But the framing obscures what's actually being decided, and the people affected can't evaluate the tradeoff because they're being told a different story. Curious whether anyone in finance or strategy roles sees this play out in the numbers the way it looks from outside."
-    },
-    {
-      "title": "AI alignment is the most important problem we will ever have to face.",
-      "author": "emb1ues",
-      "url": "https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/",
-      "published": 1790361488.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Apologies in advance for this long post. I just wanted to put down my thoughts. AI Alignment is the single most important problem we face right now. Solve AI Alignment and you can safely enter RSI and I can't even imagine how amazing the quality of life humans will have in such an era: immortality, cures to all diseases, all basic needs met etc etc. Humans can live in an utopia. I think this is the dream people in the accelerate community keep seeing and selling. If the above isn't so obvious, compare your own life with the life of a king 500 years back. You are probably living a better life than them (unless you're in poverty). You eat better, you eat more exotic food, you can travel much faster than their horses ever could, you control the temperature of your home, you stay connected to your friends who live far away, you have so much knowledge surrounding you, you will probably live longer. That is the blessing of technology. AI can bring about technology that we cannot even dream of right now. But unfortunately, nothing in life is free. For this, we need crazy powerful AI which is perfectly aligned. I wouldn't have guessed that the second is so much harder than the first. In fact, in so far as I understand, no one has a single clue about how to align models. There are maybe a handful of \"first-approaches\" - RLHF and Constitutional AI (RLAIF) are some steps. But surely, they are not working - if they did, we would not have such crazy incidences of misalignment (Hugging face incident (please read about this or go watch a video, if you haven't already), Govt of Australia incident, Compaction Summary incident). Setting up guardrails is perhaps a different approach but I think as long as the model themselves are not aligned, setting up guardrails is a losing cat and mouse game. In fact, there is something even worse. Recent literature seems to suggest that bigger models are more misaligned (an insight I got from reading the paper \"LLMs can feel pain\"). Many people are worried about their livelihoods. In fact, the tech out there is already sufficient to make many people go jobless but society/companies haven't adapted to it yet. The number of jobs that are irrelevant will only keep increasing and therefore, the people getting affected will also only keep increasing. I want to argue that it is not something any of us should worry about too much though. In few years, either we will have solved alignment and we all will be leading a very happy life or we wouldn't have solved alignment and will be living in at least an economic crisis of unforeseen magnitude, if not go extinct altogether. To achieve alignment, a lot of things have to go right. From the science/tech side, we of course have to solve alignment. From the policy making side, we have to \"pace the frontier\" so that enough time is given to the science/tech people working on the problem to solve it. Times will probably get very rough soon. And society has to stand together and maintain it's calm. We stand on a very fragile economy and it might collapse if people (who will have lost their jobs) start a revolution. A lot of things have to go right for us to solve this, but if we do, an utopia awaits us. If you read up to this point, you have my utmost gratitude. I just wanted to highlight the issue. If you want further details on some of the things I have said here, please raise it in the comments section - I will strive my best to explain my positions."
     }
   ],
-  "fetched_at": "2026-09-26T01:49:05.345522+00:00"
+  "fetched_at": "2026-09-26T07:07:52.717267+00:00"
 }

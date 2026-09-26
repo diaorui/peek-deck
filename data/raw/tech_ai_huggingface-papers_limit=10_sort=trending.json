@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2412.20138",
       "arxiv_url": "https://arxiv.org/abs/2412.20138",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
-      "upvotes": 145,
+      "upvotes": 146,
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 108587,
+      "github_stars": 108652,
       "project_page": null
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24984",
       "arxiv_url": "https://arxiv.org/abs/2609.24984",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 149,
+      "upvotes": 151,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/WorldCrafter",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 51,
+      "upvotes": 55,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
@@ -153,25 +153,6 @@
       "project_page": "https://map-yue.github.io/"
     },
     {
-      "id": "2609.20519",
-      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-      "authors": "Haozhe Liu, Tian Ye, Sensen Gao et al. (14 authors)",
-      "organization_name": "nvidia",
-      "organization_fullname": "NVIDIA",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/65df9200dc3292a8983e5017/Vs5FPVCH-VZBipV3qKTuy.png",
-      "summary": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedback. Token efficiency therefore becomes important for scaling recursive self-improvement. We take an RSI-inspired approach at the harness layer, scaling auto-research loops across increasingly numerous and diverse environments for harness rollouts. At this scale, the process yields reusable improvements that transfer beyond their development setting, moving automated harness discovery toward production-level outcomes. Four mechanisms survive selection and form SoL-Pi, spanning action execution, context compaction, observation handling, and delegated reading. On the 51-task EdgeBench evaluation, SoL-Pi achieves performance comparable to Pi across GPT-5.6 Sol and Opus 5 while reducing recorded token traffic by 44.7-49.0% and API cost by about one third. In other words, estimated hourly savings are \\8.75-13.50 relative to native Codex and Claude Code harnesses, and \\4.36-5.71 relative to Pi.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.20519",
-      "arxiv_url": "https://arxiv.org/abs/2609.20519",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.20519.png",
-      "upvotes": 130,
-      "num_comments": 3,
-      "published_at": "2026-09-16T20:00:00.000Z",
-      "github_repo": "https://github.com/NVlabs/SoL-Pi",
-      "github_stars": 3072,
-      "project_page": "https://nvlabs.github.io/SoL-Pi/"
-    },
-    {
       "id": "2309.06180",
       "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
       "authors": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/vllm-project/vllm",
       "github_stars": 86094,
       "project_page": null
+    },
+    {
+      "id": "2609.24972",
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
+      "organization_name": "google",
+      "organization_fullname": "Google",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
+      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24972",
+      "arxiv_url": "https://arxiv.org/abs/2609.24972",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
+      "upvotes": 205,
+      "num_comments": 2,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/google-research/rrsi",
+      "github_stars": 344,
+      "project_page": "https://regularized-rsi.com/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-26T01:49:15.178921+00:00"
+  "fetched_at": "2026-09-26T07:08:04.784055+00:00"
 }
