@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-25T23:08:05.354095+00:00'
+updated: '2026-09-26T01:49:35.374202+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 25, 2026 at 23:08 UTC  
+**Last Updated:** September 26, 2026 at 01:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,716.04
+### $2,693.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +2.3%  
-**30d:** +7.3%  
-**90d:** +71.3%  
-**1y:** -33.1%  
+**24h:** +0.7%  
+**7d:** +1.9%  
+**30d:** +10.3%  
+**90d:** +67.0%  
+**1y:** -32.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.67B
+**Market Cap:** $328.85B
 Rank #2
 
 **Circulating Supply:** 122,078,905 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-45.5%
 
 **All-Time Low:** $0.43
-+621754.6%
++622027.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-18h ago
+20h ago
 
 ---
 
@@ -160,11 +160,11 @@ Benzinga • 2d ago
 
 ---
 
-**[Ethereum Breaks Year-Long Downtrend but Faces Resistance at $2,800](https://finance.yahoo.com/markets/crypto/articles/ethereum-breaks-long-downtrend-faces-190917595.html)**
+**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
 
-Ethereum just snapped a year-long pattern of sellers arriving earlier at every peak, yet a single price level has twice stopped buyers cold within the same week. These two signals point in opposite directions, and which one dominates will define where ETH heads next.
+Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
 
-Yahoo Finance • 3h ago
+finance.yahoo.com • 14h ago
 
 ---
 
@@ -180,15 +180,7 @@ CoinDesk • 1d ago
 
 Fundstrat’s Tom Lee expects Bitcoin CRYPTO:BTCUSD to maintain a $150,000 target while arguing Ethereum CRYPTO:ETHUSD could eventually reach $60,000 as tokenization, Wall Street adoption and AI bring a much larger pool of investors into digital assets.Why Lee Calls It Bigger Bull MarketIn a "Money T…
 
-tradingview.com • 11h ago
-
----
-
-**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 4h ago
+TradingView • 13h ago
 
 ---
 
@@ -196,7 +188,7 @@ Fortune • 4h ago
 
 NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
 
-markets.businessinsider.com • 16h ago
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -204,7 +196,7 @@ markets.businessinsider.com • 16h ago
 
 A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23K NFTs.
 
-Decrypt • 6h ago
+Decrypt • 9h ago
 
 ---
 
@@ -212,7 +204,15 @@ Decrypt • 6h ago
 
 Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart.
 
-blockchain.news • 13h ago
+blockchain.news • 16h ago
+
+---
+
+**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ blockchain.news • 13h ago
 
 Kingkey Financial International (Holdings) Ltd. ( ($HK:1468) ) has issued an announcement. Jakota Capital (Holding) Group has disclosed that its subsidiary Treasure...
 
-TipRanks • 9h ago
+TipRanks • 11h ago
 
 ---
 
@@ -242,7 +242,7 @@ SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement laye
 
 📺 Paul Barron Network
 
-👁️ 29K • 👍 713 • 💬 100 • ⏱️ 38:35 • 7h ago
+👁️ 36K • 👍 767 • 💬 145 • ⏱️ 38:35 • 10h ago
 
 ---
 
@@ -252,17 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 32K • 👍 507 • 💬 51 • ⏱️ 23:38 • 1d ago
-
----
-
-**[The Ethereum Signal That Ran 128% Last Cycle](https://www.youtube.com/watch?v=CfdE6ndXsaQ)**
-
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
-
-📺 Trade Confident
-
-👁️ 410 • 👍 16 • 💬 2 • ⏱️ 4:09 • 4h ago
+👁️ 33K • 👍 514 • 💬 51 • ⏱️ 23:38 • 1d ago
 
 ---
 
@@ -272,17 +262,27 @@ Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway
 
 📺 Coinage
 
-👁️ 93K • 👍 893 • 💬 283 • ⏱️ 39:54 • 2d ago
+👁️ 94K • 👍 899 • 💬 296 • ⏱️ 39:54 • 2d ago
 
 ---
 
-**[Ethereum Missed My Line By $1.38.. Here&#39;s Where I&#39;m Buying](https://www.youtube.com/watch?v=mIdBDUL6XVk)**
+**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
 
-WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
+Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
 
-📺 Marzell Crypto
+📺 Braiden Shaw
 
-👁️ 385 • 👍 14 • 💬 75 • ⏱️ 4:42 • 13h ago
+👁️ 1K • 👍 31 • ⏱️ 1:39 • 9h ago
+
+---
+
+**[The Ethereum Signal That Ran 128% Last Cycle](https://www.youtube.com/watch?v=CfdE6ndXsaQ)**
+
+Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 600 • 👍 17 • 💬 2 • ⏱️ 4:09 • 7h ago
 
 ---
 
@@ -292,7 +292,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 389 • 💬 27 • ⏱️ 19:22 • 2d ago
+👁️ 19K • 👍 398 • 💬 28 • ⏱️ 19:22 • 2d ago
 
 ---
 
@@ -302,7 +302,17 @@ Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TR
 
 📺 Lark Davis
 
-👁️ 21K • 👍 486 • 💬 45 • ⏱️ 1:07:25 • 10h ago
+👁️ 22K • 👍 496 • 💬 46 • ⏱️ 1:07:25 • 13h ago
+
+---
+
+**[Ethereum Missed My Line By $1.38.. Here&#39;s Where I&#39;m Buying](https://www.youtube.com/watch?v=mIdBDUL6XVk)**
+
+WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
+
+📺 Marzell Crypto
+
+👁️ 495 • 👍 14 • 💬 75 • ⏱️ 4:42 • 15h ago
 
 ---
 
@@ -322,17 +332,7 @@ David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went 
 
 📺 Jake Claver
 
-👁️ 16K • 👍 485 • 💬 54 • ⏱️ 1:30 • 1d ago
-
----
-
-**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
-
-Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
-
-📺 Braiden Shaw
-
-👁️ 864 • 👍 20 • ⏱️ 1:39 • 7h ago
+👁️ 16K • 👍 495 • 💬 54 • ⏱️ 1:30 • 2d ago
 
 ---
 
