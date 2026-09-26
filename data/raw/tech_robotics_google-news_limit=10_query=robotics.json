@@ -16,7 +16,7 @@
     },
     {
       "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "qualcomm.com",
+      "source": "Qualcomm",
       "source_url": "https://www.qualcomm.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
       "pub_date": 1790146800.0,
@@ -25,54 +25,34 @@
       "description": null
     },
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
+      "source": "spectrum.ieee.org",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
+      "pub_date": 1790352113.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "description": "Your weekly selection of awesome robot videos"
+    },
+    {
+      "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
+      "pub_date": 1790349608.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
+      "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
     },
     {
       "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "source": "arstechnica.com",
+      "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDd3dzNRLThXMk9EOVRJQ045ZzlOZ3haMnRpN0wzVUkzYmtXaVJtbktBSHZuUi04TXd2aTZHc29oQ1ViX1MxMmpSUzNmRkRja21ZVlJHcjV5cmFTamN2RFZoNmg2WHp5MkZJd3lzWUZTcXQtTUxyLTJYbnk4aW5DWkN3bEtPem1pUjRBMUl4eTZsWlVQNWlldzY4MHNRLTBzSUY1bk9oZDlkQQ?oc=5",
       "pub_date": 1790370651.0,
       "article_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
       "description": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
-    },
-    {
-      "headline": "Robotics expert casts doubt on viral humanoid videos watched by millions",
-      "source": "Sky News",
-      "source_url": "https://news.sky.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3l4a0dodklrbEpRMEV5OW9BdWhadXdkdU5zTXd4WVh0NVc0Y2RQWHRua0llRHo3NkhTUXlmbUNMdmRjUmxqUGl5TDRVWVIyRkxjRl9qRjNBdXctMi0xSVRtYkRhQ2FZcHo4VVVUbHE1U2NSbW02Rko1TlNHRWQzTmwzWG5QZVB0TGdLUENubjZfSkFMMzNDODU3QXJ4N3FNejd0UUZsNEVybENN?oc=5",
-      "pub_date": 1790144246.0,
-      "article_url": "https://news.sky.com/video/robotics-expert-casts-doubt-on-viral-humanoid-videos-watched-by-millions-13590910",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790304228.0,
-      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nauticus Robotics, Inc. Signs Non-Binding Letter of Intent for Strategic Investment of Up to $50 Million",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb1FCUDhEdi1VT3dYS3ptem5JVUlsZ1ZqUHJDUl9IZWVjaHdjcHN2VWR6ZWNqY0RXWkhUVll4ZEJreEVCTk1RUjU0Y3dtTUJUS1c3VzdDU2tvMFFiU25FdnRyQndQTGRiY3l2ZG45V0o3WVFkaXFEWFF6OTl1WHhDb0ZtcFlfWU44M2lISzNSOEd1OTllNDNmcm51SzRNdjR0MjU2cUE5Z0dCT0lwZ29GcVhoMkw1cEhQOWlodVFERFlVVThiMExOeEpfWEdKLVRPN3R6bVRkZTlVWGJic3dJM2taaGpKaElydlFaWVp3?oc=5",
-      "pub_date": 1790322900.0,
-      "article_url": "https://www.prnewswire.com/news-releases/nauticus-robotics-inc-signs-non-binding-letter-of-intent-for-strategic-investment-of-up-to-50-million-302889932.html",
-      "image": "https://mmx.prnewswire.com/media/MS1546796/Nauticus-Robotics-Logo.jpg?id=OA2968315&p=facebook",
-      "description": "/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) (\"Nauticus\" or the \"Company\"), a developer of autonomous subsea robotic systems and autonomy software,..."
     },
     {
       "headline": "Carnegie Mellon professor envisions a world with more robots",
@@ -85,14 +65,14 @@
       "description": "It wasn\u2019t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and..."
     },
     {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247524.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
+      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
+      "pub_date": 1790304228.0,
+      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "New robotic hand can walk, press keys and move objects on its own",
@@ -103,8 +83,28 @@
       "article_url": "https://techxplore.com/news/2026-09-robotic-keys.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Five Million Robots now Operate in Factories Globally",
+      "source": "IFR International Federation of Robotics",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "pub_date": 1790247524.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
+    },
+    {
+      "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU19IWFdLV2hnVWFKdGYwRExsX2pBeEhRQnlXb0E1aF9IaE5fblc0UVZiMnl2SWpKdDU3NFN4N1B1V2VOaTBZSF8yeTdlUnphOElQZm9Kc0dTMVJBUmVmbFZLYS1pcl9oeUluc0dYN3U5Z3pvb09WVGVfeXlTQXFuYTlPcVdZZw?oc=5",
+      "pub_date": 1790247608.0,
+      "article_url": "https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T23:07:54.629695+00:00"
+  "fetched_at": "2026-09-26T01:49:26.810764+00:00"
 }
