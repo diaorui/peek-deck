@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T01:49:35.377551+00:00'
+updated: '2026-09-26T07:08:17.859942+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 01:49 UTC  
+**Last Updated:** September 26, 2026 at 07:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,9 +116,9 @@ TechCrunch • 1d ago
 
 ---
 
-**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
+**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
 
-Qualcomm • 2d ago
+The New York Times • 1d ago
 
 ---
 
@@ -126,15 +126,7 @@ Qualcomm • 2d ago
 
 Your weekly selection of awesome robot videos
 
-spectrum.ieee.org • 9h ago
-
----
-
-**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
-
-Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
-
-The Robot Report • 10h ago
+IEEE Spectrum • 15h ago
 
 ---
 
@@ -142,27 +134,29 @@ The Robot Report • 10h ago
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 4h ago
+Ars Technica • 9h ago
 
 ---
 
-**[Carnegie Mellon professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
+**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
 
-It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
+Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
 
-Pittsburgh Post-Gazette • 5h ago
+The Robot Report • 15h ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 23h ago
+Breaking Defense • 1d ago
 
 ---
 
-**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
+**[The Story Behind the Runway Robots at Vogue World 2026: Milano](https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano)**
 
-Tech Xplore • 2d ago
+“It’s fun, because the robots are fun, but it’s also terrifying,” says Vogue World: Milan’s creative director Juan Costa Paz of the humanoid robots used during Tuesday’s event.
+
+Vogue • 2d ago
 
 ---
 
@@ -174,9 +168,15 @@ IFR International Federation of Robotics • 1d ago
 
 ---
 
-**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
+**[New robotic hand can walk, press keys and move objects on its own](https://techxplore.com/news/2026-09-robotic-keys.html)**
 
-nytimes.com • 1d ago
+Tech Xplore • 2d ago
+
+---
+
+**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
+
+qualcomm.com • 3d ago
 
 ---
 
@@ -190,7 +190,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 6K • 👍 188 • 💬 21 • ⏱️ 6:10 • 10h ago
+👁️ 9K • 👍 219 • 💬 22 • ⏱️ 6:10 • 16h ago
 
 ---
 
@@ -200,7 +200,17 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 679K • 👍 6K • 💬 660 • ⏱️ 4:18 • 2d ago
+👁️ 690K • 👍 6K • 💬 666 • ⏱️ 4:18 • 3d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 567K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
 
 ---
 
@@ -214,33 +224,13 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 52K • 👍 186 • 💬 62 • ⏱️ 4:15 • 4d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 35K • 👍 545 • 💬 55 • ⏱️ 0:16 • 4d ago
-
----
-
 **[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
 AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
 
 📺 MindSeeded
 
-👁️ 66K • 👍 3K • 💬 243 • ⏱️ 13:48 • 1d ago
+👁️ 69K • 👍 3K • 💬 252 • ⏱️ 13:48 • 1d ago
 
 ---
 
@@ -250,7 +240,17 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 199K • 👍 1K • 💬 244 • ⏱️ 2:40 • 4d ago
+👁️ 201K • 👍 1K • 💬 244 • ⏱️ 2:40 • 5d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 35K • 👍 546 • 💬 55 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -260,7 +260,7 @@ LimX Dynamics is showing how quickly its Luna humanoid robot can go from transpo
 
 📺 DPCcars
 
-👁️ 2K • 👍 10 • 💬 2 • ⏱️ 1:37 • 8h ago
+👁️ 4K • 👍 16 • 💬 2 • ⏱️ 1:37 • 13h ago
 
 ---
 
@@ -270,17 +270,17 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 72K • 👍 921 • 💬 139 • ⏱️ 1:00 • 5d ago
+👁️ 73K • 👍 926 • 💬 139 • ⏱️ 1:00 • 5d ago
 
 ---
 
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
 
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
 
-📺 Mark Dice
+📺 NBC News
 
-👁️ 555K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+👁️ 350K • 👍 472 • 💬 63 • ⏱️ 0:59 • 3d ago
 
 ---
 
