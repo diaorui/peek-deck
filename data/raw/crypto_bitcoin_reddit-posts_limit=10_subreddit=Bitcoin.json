@@ -2,6 +2,17 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "Right?!",
+      "author": "Pingon25",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/",
+      "published": 1790444204.0,
+      "thumbnail": "https://preview.redd.it/rythsr0vhwrh1.jpeg?width=640&crop=smart&auto=webp&s=3d2fcac36bc1833d63a15bdafa73604141bdd9a8",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Buy Bitcoin",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/",
@@ -18,6 +29,17 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wq4l0t/btc_right_now/",
       "published": 1790362387.0,
       "thumbnail": "https://external-preview.redd.it/MzE5ZWkxcWlxcHJoMTMUb69oC-kMCVuyaANxMO1TwDWBGWpdOGz4JEuaeVyh.png?width=640&crop=smart&auto=webp&s=b860427880c89bb126b341e25f24d95f940ccadc",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Does this happen to anyone else ?",
+      "author": "na7oul",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/",
+      "published": 1790448767.0,
+      "thumbnail": "https://preview.redd.it/q93bch3bvwrh1.jpeg?width=320&crop=smart&auto=webp&s=d07fe2b5ce373e61451042f469076adf598fda6f",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -43,7 +65,7 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks."
+      "description": "I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone."
     },
     {
       "title": "\"Self-custodial\" Misty Breez LN wallet can no longer make on-chain and Lightning payments due to \"the service\" Breez relies on is no longer available",
@@ -68,6 +90,17 @@
       "description": "I'm writing a novel and have a scene with a bitcoin wallet it in. My question: One of the characters was given a bitcoin wallet with money on it (or do you say with bitcoin on it), and he gives the wallet to another character to conduct certain business. When the character spends some of the money in the wallet, is it possible for the character that gave the other character the wallet to tell when, where, and how much money was moved off the wallet? Is that possible? I don't want to ask AI because I wouldn't know whether it was hallucinating. My goal is to write an authentic, believable and realistic scene. Thank you if you can help."
     },
     {
+      "title": "River Financial has sued Blockstream Services Canada, alleging breach of contract over a termination agreement requiring Blockstream to pay River roughly $6.7 million.",
+      "author": "Fiach_Dubh",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqw51x/river_financial_has_sued_blockstream_services/",
+      "published": 1790443331.0,
+      "thumbnail": "https://preview.redd.it/to3niy6yewrh1.png?width=640&crop=smart&auto=webp&s=496a5d513739592db052ef92de024b8e7e02fe6a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Crypto investors when BTC drops 3% in a bull market",
       "author": "Cryptomuscom",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wpwqz9/crypto_investors_when_btc_drops_3_in_a_bull_market/",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Daily Discussion, September 26, 2026",
-      "author": "rBitcoinMod",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqjurq/daily_discussion_september_26_2026/",
-      "published": 1790406042.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions."
-    },
-    {
-      "title": "Wht?",
-      "author": "fumoneymoto",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wpuq40/wht/",
-      "published": 1790338408.0,
-      "thumbnail": "https://preview.redd.it/oto8iyi9rnrh1.jpeg?width=640&crop=smart&auto=webp&s=ab975d1520a556df6ac3e30586ee67cc5fcfd685",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Tick tock, next block."
-    },
-    {
-      "title": "The Fed just raised rates and Bitcoin went UP. Can someone explain this to me?",
-      "author": "Mammoth_Hand_3835",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqhgl6/the_fed_just_raised_rates_and_bitcoin_went_up_can/",
-      "published": 1790397832.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to learn how macro affects crypto and I'm already lost. The Fed raised rates for the first time in 3 years last week which is supposed to be bearish for risky assets. But Bitcoin went from $80k to $86k right after. Best I can figure is oil prices dropped hard at the same time and the Trump-Xi meeting these days is making people optimistic, so those just outweighed the hike? Is it always like this where 3 things happen at once and the market just picks which one to care about? Would love an explanation from someone who actually gets this."
     }
   ],
-  "fetched_at": "2026-09-26T16:35:03.283974+00:00"
+  "fetched_at": "2026-09-26T19:33:02.635580+00:00"
 }

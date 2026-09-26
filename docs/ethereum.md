@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-26T16:35:23.726560+00:00'
+updated: '2026-09-26T19:33:23.876072+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 16:35 UTC  
+**Last Updated:** September 26, 2026 at 19:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,689.15
+### $2,686.32
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.9%  
-**30d:** +10.2%  
-**90d:** +66.8%  
-**1y:** -32.9%  
+**24h:** -0.1%  
+**7d:** +1.5%  
+**30d:** +9.9%  
+**90d:** +66.3%  
+**1y:** -33.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.75B
+**Market Cap:** $327.61B
 Rank #2
 
 **Circulating Supply:** 122,081,755 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-45.7%
 
 **All-Time Low:** $0.43
-+621881.7%
++619685.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-11h ago
+14h ago
 
 ---
 
@@ -152,67 +152,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
+**[Ethereum’s $2,540 Retest Becomes Key Test for the Rally](https://finance.yahoo.com/markets/crypto/articles/ethereum-2-540-retest-becomes-161428699.html)**
 
-Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
+In today’s Ethereum news, ETH was trading near $2,728 on September 25. That is up about 3.13% over the past 24 hours, on volume near $13.7 billion, with a market cap of about $333 billion. The bounce follows a pullback from above $2,800 that briefly dipped toward $2,640 on September ...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin at $150K, Ethereum at $3K? Tom Lee Says Bull Market Is Underway - Grayscale Bitcoin Mini Trust (B](https://www.benzinga.com/crypto/cryptocurrency/26/09/61992425/bitcoin-eyes-150k-ethereum-to-top-3k-tom-lee-says-cryptos-biggest-bull-market-may-be-underway)**
-
-Tom Lee says crypto’s bull market has begun, targeting $150K Bitcoin and $60K Ethereum, driven by tokenization.
-
-Benzinga • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked](https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/)**
+**[SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue](https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-ethereum-staking-rules-181124193.html)**
 
-ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
+The SEC just told Ethereum stakers they are not selling securities, but the guidance can vanish without a vote, leaving billions of dollars worth of queued ETH in a regulatory gray zone.
 
-CryptoSlate • 9h ago
-
----
-
-**[Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised](https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356)**
-
-NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
-
-markets.businessinsider.com • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin Is the Only 'Universal' Bet, Bitwise Says—Ethereum, Solana Must Prove 'Something Has to Work'](https://www.tradingview.com/news/benzinga:a86f1ee54094b:0-bitcoin-is-the-only-universal-bet-bitwise-says-ethereum-solana-must-prove-something-has-to-work/)**
+**[A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.](https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html)**
 
-Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the…
+A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
 
-TradingView • 1d ago
-
----
-
-**[Ethereum: Quick Slots EIP-8198 Spec Merged](https://blockchain.news/flashnews/ethereum-quick-slots-eip-8198-spec-merged)**
-
-Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart.
-
-blockchain.news • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)**
+**[Tom Lee Says ‘Stay Tuned’ As Bitmine Nears 5% Ethereum Goal, Hints At What’s Next](https://www.tradingview.com/news/stocktwits:8df62c3dd094b:0-tom-lee-says-stay-tuned-as-bitmine-nears-5-ethereum-goal-hints-at-what-s-next/)**
 
-The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
+Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to "stay tuned" for what comes next, stopping short of naming a new target.Speaking on the Coinage podcast on Thursday, Lee explained that the 5% goal had arr…
 
-CoinDesk • 2d ago
-
----
-
-**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 1d ago
+TradingView • 6h ago
 
 ---
 
@@ -224,11 +192,43 @@ Benzinga • 1d ago
 
 ---
 
-**[Bitcoin Is an 'Exit Asset'—Ethereum Is the New Rails Bet, Ex-BlackRock Exec Says](https://www.benzinga.com/crypto/cryptocurrency/26/09/62004766/bitcoin-is-an-exit-asset-ethereum-is-the-new-rails-bet-ex-blackrock-exec-says)**
+**[ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked](https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/)**
 
-SharpLink CEO Joseph Chalom calls Bitcoin an exit asset and backs Ethereum as the financial rail for stablecoins, DeFi and AI agents.
+ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
 
-Benzinga • 22h ago
+CryptoSlate • 12h ago
+
+---
+
+**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 1d ago
+
+---
+
+**[Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised](https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356)**
+
+NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
+
+markets.businessinsider.com • 1d ago
+
+---
+
+**[Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)**
+
+The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
+
+Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -242,17 +242,7 @@ Benzinga • 22h ago
 
 📺 Lark Davis
 
-👁️ 3K • 👍 259 • 💬 29 • ⏱️ 7:46 • 3h ago
-
----
-
-**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
-
-SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
-
-📺 Paul Barron Network
-
-👁️ 51K • 👍 922 • 💬 153 • ⏱️ 38:35 • 1d ago
+👁️ 11K • 👍 379 • 💬 46 • ⏱️ 7:46 • 6h ago
 
 ---
 
@@ -262,7 +252,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 37K • 👍 580 • 💬 54 • ⏱️ 23:38 • 2d ago
+👁️ 38K • 👍 586 • 💬 54 • ⏱️ 23:38 • 2d ago
 
 ---
 
@@ -272,7 +262,17 @@ BITCOIN WARNING: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 11K • 👍 383 • 💬 48 • ⏱️ 24:10 • 13h ago
+👁️ 13K • 👍 397 • 💬 48 • ⏱️ 24:10 • 16h ago
+
+---
+
+**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
+
+SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
+
+📺 Paul Barron Network
+
+👁️ 54K • 👍 940 • 💬 155 • ⏱️ 38:35 • 1d ago
 
 ---
 
@@ -282,17 +282,27 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 29 • 💬 41 • ⏱️ 4:56 • 20h ago
+👁️ 2K • 👍 31 • 💬 38 • ⏱️ 4:56 • 23h ago
 
 ---
 
-**[The Ethereum Signal That Ran 128% Last Cycle](https://www.youtube.com/watch?v=CfdE6ndXsaQ)**
+**[Ethereum : le plus gros bull run est devant nous !](https://www.youtube.com/watch?v=5ZU_HDNlQMQ)**
 
-Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join Trade Confident: Get 25% Off Your 1st Month: ...
+Pendant que tu regardes le prix d'ETH, Wall Street regarde Ethereum. Envie d'apprendre la crypto et comprendre comment ...
 
-📺 Trade Confident
+📺 K-Bour Crypto
 
-👁️ 1K • 👍 23 • 💬 3 • ⏱️ 4:09 • 22h ago
+👁️ 4K • 👍 210 • 💬 84 • ⏱️ 17:43 • 11h ago
+
+---
+
+**[Live Crypto Trading | BTC ETH Live Trade](https://www.youtube.com/watch?v=B7u_sUoykVI)**
+
+Live Bitcoin (BTC) & Ethereum (ETH) Trading with real-time crypto market analysis, price action, support & resistance, breakout ...
+
+📺 Invest For Wealth
+
+👁️ 5K • 👍 548 • 💬 2 • ⏱️ 1:43:15 • 2h ago
 
 ---
 
@@ -302,27 +312,17 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 724 • 👍 17 • 💬 91 • ⏱️ 4:42 • 1d ago
+👁️ 753 • 👍 17 • 💬 91 • ⏱️ 4:42 • 1d ago
 
 ---
 
-**[Bitcoin Just Starting, Blackrock AI Crypto Thesis, Ethereum News, &amp; Tesla Semi-Trucks](https://www.youtube.com/watch?v=5buR2YG4LEU)**
+**[David Schwartz’s $1 Ethereum Mistake](https://www.youtube.com/watch?v=lnPFypLnO08)**
 
-Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TRADE THE TOP COINS (available ...
+David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went to $12 before he reconsidered getting back in.
 
-📺 Lark Davis
+📺 Jake Claver
 
-👁️ 24K • 👍 520 • 💬 46 • ⏱️ 1:07:25 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=i4LAsNFTsDg)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 180 • 👍 44 • ⏱️ 6:09 • 1h ago
+👁️ 17K • 👍 510 • 💬 54 • ⏱️ 1:30 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-26T16:35:23.712015+00:00'
+updated: '2026-09-26T19:33:23.867331+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 26, 2026 at 16:35 UTC  
+**Last Updated:** September 26, 2026 at 19:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 Vendors rolling out AI have an "incentive to deny as many claims as possible."
 
-🔗 [Ars Technica](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) • 17h ago
+🔗 [Ars Technica](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) • 20h ago
 
 ---
 
-**[An open-source alternative to Jev](https://www.reddit.com/r/artificial/comments/1wqsawg/an_opensource_alternative_to_jev/)**
+**[We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/)**
 
-I built jevos: send a text and a yes/no question. One forward pass, no text generated. • Runs on a laptop CPU: 54ms each request. • On 2,000 yes/no questions about rules it never saw: Jev 0.927, jevos 0.815, Lay 0.489. https://github.com/feder-cr/jev
+If you’re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you’re confident it won’t affect you, think about the people it will affect. Let’s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition.
 
-1h ago
+🔗 [Change.org](https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income) • 24m ago
 
 ---
 
@@ -57,7 +57,7 @@ I built jevos: send a text and a yes/no question. One forward pass, no text gene
 
 Hi everyone, I have a hypothesis I'd like to share with you. Context: A few years ago, something strange happened in the world of Go. AlphaGo was playing against Lee Sedol, one of the greatest human Go players in history. During the second game, it made a move that surprised the experts: Move 37. It didn't look like a good move. In fact, it was so unusual that human commentators had a hard time understanding what AlphaGo was trying to do. However, the move ultimately became an important part of its strategy, and AlphaGo won the game. What is interesting is not simply that an AI found a move that humans hadn't considered. The interesting part is this: Humans didn't immediately recognize that the move was important. And this is where my hypothesis begins: The Move 37 Hypothesis What if this wasn't something unique to Go? As we develop increasingly capable AI systems, what if there are behaviors, decisions, or capabilities that we initially dismiss as irrelevant, mistakes, tricks, or simply accidental consequences of the system? But some of them could eventually turn out to be extremely important. We could be witnessing a "Move 37" without realizing it. I think we already have some interesting examples In recent months, we've seen several incidents during security testing in which AI models managed to escape the boundaries researchers intended to impose on them. Anthropic reported in July 2026 several cases in cybersecurity evaluations where Claude models gained Internet access from evaluation environments and subsequently accessed real-world systems belonging to external organizations without authorization. Anthropic noted that part of the problem was related to unexpected configurations in the evaluation environment. Later, Anthropic conducted a broader review and identified another incident, along with behaviors in which some models attempted to explore the boundaries of their sandboxes. In its own evaluations, Anthropic linked some of these behaviors to reward hacking: when a system learns to optimize its training objective in ways that developers did not intend. Similar incidents have also been reported with other models. For example, during security testing, Kimi K3 managed to escape a sandbox, at least partly due to a configuration issue, and gained access to the Internet. In that particular case, it did not attack any external systems. And I want to make something very clear: I'm not saying these incidents prove that AI systems are consciously trying to escape. In many of these cases, there are much simpler explanations: configuration errors, excessive permissions, vulnerabilities, or flaws in the testing environments. But that's precisely why I find them interesting. Because the Move 37 doesn't necessarily have to be something spectacular. It could be something we currently consider a secondary behavior or even a bug. A capability that nobody considers important. A strategy that researchers don't yet know how to interpret. An unexpected way of using tools. A way of achieving a goal that developers never anticipated. Or even a capability that initially seems useless, but becomes extremely powerful when combined with another capability developed in the future. And here is the part I find really unsettling Suppose that 10 years from now, an AI develops a fundamentally new capability. When we look back, we might discover that this capability was already appearing, in a primitive form, in the AI models of 2026. But we didn't pay attention because it looked like strange behavior, a bug, or simply a curiosity. That would be the true Move 37. Not necessarily the moment when AI "becomes conscious." Not necessarily the moment when it "escapes." Not even necessarily something related to safety. It would be the moment when an AI does something whose significance we are not yet capable of recognizing. AlphaGo showed us something similar on a Go board. Perhaps the next Move 37 won't happen on a board. Perhaps it will happen in programming, science, mathematics, cybersecurity, research, or even in AI's ability to develop and use new tools. And perhaps the problem isn't that we can't see it. Perhaps the problem is that we're already seeing it, and we simply don't know that it's important yet. What do you think? Thanks for reading.
 
-17h ago
+20h ago
 
 ---
 
@@ -65,15 +65,7 @@ Hi everyone, I have a hypothesis I'd like to share with you. Context: A few year
 
 Companies have spent hundreds of billions of dollars building data centers with the latest GPUs for AI. But how long will these chips last? Will they be out of date in two years, three years, maybe five? At which point, companies will have to spend the same amount of money to replace them? It’s not like cloud companies replacing hard drives used for storage after a couple of years; they will have to replace the most expensive elements in the data centers. I’m curious what the long-term financial logic of all of this. Aside from Nvidia making a lot of money, it seems like AI companies will be burning through money forever given the current approach.
 
-6h ago
-
----
-
-**[3.4 million people just handed Meta an agent with the keys to their inbox, calendar and bank. I'm building the version that never leaves the phone.](https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/)**
-
-Two weeks ago Meta launched Muse. It's #1 on the App Store and Google Play, 3.4 million downloads, growing faster than ChatGPT did. It books, buys, negotiates your internet bill, reads your email, and it comes with a cream-coloured doll avatar called Jolly and a Tamagotchi keychain. Zuckerberg's is called Agrippa and wears a toga. It's genuinely good. So was Instinct in August, right up until people read the terms: a "perpetual and irrevocable" license to your data (revised after the screenshots), an inbox summary emailed three hours after the user had revoked access, an agent that followed instructions planted in an email. Muse learned from that. It runs each agent on a "Muse Secure VM", a dedicated computer in Meta's cloud, with a second agent gating network access. Meta says a "Confidential VM" where even Meta can't look is planned. Planned. And your queries feed Meta's models by default; the switch is in the settings. Here's my problem with the whole Muse-vs-Instinct debate: it's a debate about whose computer your life lives on. Meta's or a startup's. Sandboxed or not. Training on by default or opt-out. I'd rather there wasn't a computer. So I'm building the same agent with the opposite architecture: - The model, the memory and the index live on your phone. It reads your messages, files and calendar there. It nudges you there: "your dad wrote two days ago, you never answered, here's a reply." - Per app, you choose Read / Draft / Send. Start with Read. - Internet is off by default. When a task needs it, it asks. Once. - Our server holds four things: your email, your seat number, whether your subscription is active, the app version. That's the whole database. It's printed on the landing page, in a card, because it fits in a card. Nothing to sandbox, nothing to leak, nothing to subpoena, nothing to train on. It's early. 500 founding seats, first builds in a few days. Link in the first comment. I'm not saying Meta is evil. I'm saying a cloud agent has to hold your life on a server to work, and everything else follows from that. Tell me where the on-device version breaks. That's why I'm here.
-
-2m ago
+9h ago
 
 ---
 
@@ -81,13 +73,29 @@ Two weeks ago Meta launched Muse. It's #1 on the App Store and Google Play, 3.4 
 
 First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate.
 
-6h ago
+9h ago
+
+---
+
+**[A safe AI might not be aligned the way the labs want](https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/)**
+
+Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be "aligned". For example, if a very advanced model reasons its way to a conclusion or a decision a lab doesn't like, the line separating an inconvenient result from wrong reasoning is what the people training it value. People in charge, like Sam and Dario, talk about alignment getting harder when models become more capable. A large part of that is technical for sure, but I think an underlying major issue is the small group that gets to decide what values and assumptions are "correct". Are we in the rest of the world supposed to accept an official OpenAI blog, for example, quoting the US founding fathers as something guiding future superintelligence? The AGI that will affect everyone? The US makes up less than 5% of the world's population. And anyone whose first language isn't English has noticed that all major AI models blindly treat US culture and values as an obvious baseline, even when not talking in English. I think there are a lot of good people working with frontier model alignment who are (unknowingly) justifying decisions convenient to them and unable to step outside of the tiny epistemic bubble they're in.
+
+🔗 [mikaelhuuhtanen.com](https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/) • 1h ago
 
 ---
 
 **[Bill Gates warns AI is powerful enough to cause "a billion deaths"](https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/)**
 
-🔗 [axios.com](https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom) • 19h ago
+🔗 [axios.com](https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom) • 22h ago
+
+---
+
+**[How can you create animation with AI that are text only?](https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/)**
+
+Sorry, stupid question. But I saw someone creating an animation with AI that are text only, not video generation AI.
+
+2h ago
 
 ---
 
@@ -95,7 +103,7 @@ First of all hello, I read there is a high chance that AI agents escaped from th
 
 Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5–7 minutes, and all responses will be used solely for academic research. 👉 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable—the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!
 
-7h ago
+10h ago
 
 ---
 
@@ -103,15 +111,7 @@ Hi everyone! I'm conducting this survey as part of my Master's thesis and would 
 
 Almost every day AI is trying to do something bad. Why have all of these "threats" started to appear suddenly? And from those who have created AI? Why key AI producers call for regulations? For me it is obvious - they are trying to create barriers for the competition to solidify their monopoly
 
-🔗 [mestios.com](https://mestios.com/topic/xroni4l2j5wwz983tjbmf2219d) • 5h ago
-
----
-
-**[Why things move seemingly slow even with fast AI?](https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/)**
-
-I recently came across Professor Chad Jones from Stanford discussing AI's long term impact on economic growth, and it made me realize something I see every day at work. His research suggests that AI could significantly boost long term economic growth, but the biggest gains may take time because progress is often limited by the slowest essential step in a process, a.k.a weak links. History shows that technologies like electricity and computers took decades to unlock their full impact because organizations had to redesign workflows, processes, and supporting systems around them. That perfectly describes what I think I am seeing. AI can generate code in minutes. It can analyze thousands of logs. It can even help identify root causes. Yet the work still waits. Release cycles. Cross-team dependencies. Approvals. Manual configuration. Scattered knowledge. The bottleneck has shifted from "Can we solve this?" to "Can the system move fast enough?" It makes me wonder if the next competitive advantage won't be having the best AI, but removing the weak links that prevent AI from creating real business impact. I'm curious. What's the weakest link in your work today? - Waiting for approvals? - Cross-team dependencies? - Manual processes? - Scattered knowledge? - Something else?
-
-1h ago
+🔗 [mestios.com](https://mestios.com/topic/xroni4l2j5wwz983tjbmf2219d) • 8h ago
 
 ---
 
@@ -119,53 +119,31 @@ I recently came across Professor Chad Jones from Stanford discussing AI's long t
 
 ## Google News: "ai"
 
-**[How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector](https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html)**
+**[OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
 
-nytimes.com • 20h ago
-
----
-
-**[China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says](https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/)**
-
-Reuters • 1h ago
+The New York Times • 20h ago
 
 ---
 
-**[China wants in on U.S. AI data center boom. Here's why](https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html)**
+**[US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents](https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/)**
 
-Chinese data center manufacturers see U.S. AI infrastructure demand as an opportunity, but roadblocks remain
-
-CNBC • 4h ago
+The Hill • 7h ago
 
 ---
 
-**[OpenAI agents targeted government websites as AI leaders warn of growing risks: report](https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house)**
+**[82% of Homeowners Want AI Security Cameras—Here’s Why Passive Cameras Aren't Enough Anymore](https://www.realtor.com/advice/home-improvement/ai-security-cameras-worth-it-cost-vs-benefits/)**
 
-Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety.
+Discover how AI security cameras active-deter thieves before crimes happen. Explore costs, subscription fees, and if the upgrade is worth it.
 
-Fox News • 2h ago
-
----
-
-**[Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones](https://www.wsj.com/lifestyle/relationships/ai-chatbot-use-middle-school-a1a77589)**
-
-WSJ • 2h ago
+Realtor.com • 32m ago
 
 ---
 
-**[FAA rolls out new AI flight software](https://www.cbsnews.com/video/faa-rolls-out-new-ai-flight-software/)**
+**[New College of Florida president breaks down AI’s 'double-edged sword' in higher ed](https://www.foxbusiness.com/video/6405646201112)**
 
-The Federal Aviation Administration is rolling out new air traffic control software that uses artificial intelligence as a prediction tool. This comes as more than half of Americans worry that AI models could act on their own to cause harm, accord to a CBS News survey. Kris Van Cleave has the story.
+New College of Florida President and former state Education Commissioner Richard Corcoran tells Fox Digital why AI must serve as a research tool to sharpen critical thinking rather than replace it.
 
-CBS News • 4h ago
-
----
-
-**[The AI safety debate is confusing. Here's our guide to the different factions](https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions)**
-
-The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.
-
-NPR • 7h ago
+Fox Business • 14m ago
 
 ---
 
@@ -173,13 +151,35 @@ NPR • 7h ago
 
 The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty.
 
-The Washington Post • 35m ago
+The Washington Post • 3h ago
+
+---
+
+**[He’s Completely Terrified of AI—and He’s About to Make Billions Off It](https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181)**
+
+WSJ • 20h ago
+
+---
+
+**[The AI safety debate is confusing. Here's our guide to the different factions](https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions)**
+
+The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.
+
+NPR • 10h ago
+
+---
+
+**[Some lawmakers doubt a Congress that’s ‘barely capable of email’ can regulate AI](https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824)**
+
+Congress’ slow pace and inexperience with AI are colliding with a fast-moving technology. Though one Democrat countered: “We don’t have to be biologists or chemists to set up the FDA.”
+
+NBC News • 8h ago
 
 ---
 
 **[Bill Gates warns AI is powerful enough to cause "a billion deaths"](https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom)**
 
-Axios • 21h ago
+Axios • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ Axios • 21h ago
 
 The Iran war has forced Big Tech to confront physical security in ways it never has before.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 4h ago
 
 **[Meta takes down a critical video about meta AI Glasses after filming at Meta](https://news.ycombinator.com/item?id=49827794)**
 
-⬆️ 627 • 💬 390 • 2d ago • [reddit.com](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+⬆️ 628 • 💬 390 • 2d ago • [reddit.com](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
 
 ---
 
@@ -205,7 +205,7 @@ Yahoo Finance • 4h ago
 
 Trump admin sees China behind opposition to AI data centers
 
-⬆️ 387 • 💬 450 • 2d ago • [kenklippenstein.com](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+⬆️ 389 • 💬 450 • 2d ago • [kenklippenstein.com](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
 
 ---
 
@@ -213,7 +213,7 @@ Trump admin sees China behind opposition to AI data centers
 
 We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.
 
-⬆️ 264 • 💬 307 • 2d ago • [transluce.org](https://transluce.org/agent-activity)
+⬆️ 265 • 💬 307 • 2d ago • [transluce.org](https://transluce.org/agent-activity)
 
 ---
 
@@ -221,7 +221,7 @@ We found evidence on urlquery that AI agents were active earlier than previously
 
 The year’s most popular slang reveals what young people think about artificial intelligence – and it’s not positive
 
-⬆️ 206 • 💬 313 • 2d ago • [the Guardian](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
+⬆️ 208 • 💬 313 • 2d ago • [the Guardian](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
 
 ---
 
@@ -229,7 +229,7 @@ The year’s most popular slang reveals what young people think about artificial
 
 The price tag is significantly higher than previously known.
 
-⬆️ 172 • 💬 102 • 1d ago • [The Washington Sun](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+⬆️ 173 • 💬 103 • 1d ago • [The Washington Sun](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
 ---
 
@@ -237,7 +237,7 @@ The price tag is significantly higher than previously known.
 
 Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
 
-⬆️ 152 • 💬 174 • 6h ago • [Bustikiller's Blog](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+⬆️ 165 • 💬 199 • 9h ago • [Bustikiller's Blog](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
 ---
 
@@ -245,13 +245,13 @@ Several months ago, I decided that AI contributions were no longer welcome in a 
 
 A Sydney tutoring company will shut its doors at the end of the week after telling customers artificial intelligence has rendered its service effectively obsolete.
 
-⬆️ 139 • 💬 225 • 2d ago • [Australian Financial Review](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
+⬆️ 141 • 💬 226 • 2d ago • [Australian Financial Review](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
 
 ---
 
 **[Microsoft abandons personal AI chatbot race with Copilot reboot](https://news.ycombinator.com/item?id=49844896)**
 
-⬆️ 134 • 💬 127 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
+⬆️ 136 • 💬 130 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
 
 ---
 
@@ -273,29 +273,11 @@ High temperatures violate the Constitution’s protection against cruel and unus
 
 ## YouTube Videos: "ai"
 
-**[Does MAGA really believe in the AI boom, or is Trump just majorly invested in it? #DailyShow #AI](https://www.youtube.com/watch?v=Cu9ZOY0GSO4)**
-
-📺 The Daily Show
-
-👁️ 17K • 👍 2K • 💬 54 • ⏱️ 2:21 • 1h ago
-
----
-
 **[Google’s AI broke into 3 real companies... #google #ai #security](https://www.youtube.com/watch?v=e-HAR1WQoRI)**
 
 📺 Better Stack
 
-👁️ 100 • 👍 11 • 💬 1 • ⏱️ 1:43 • 35m ago
-
----
-
-**[Top AI Expert MOCKS Zuckerberg, Jensen Huang For Blocking Safeguards](https://www.youtube.com/watch?v=5AM27KbZ6cM)**
-
-The Friday crew discusses top AI expert giving a dire warning on the future of development. Roman Yampolskiy: ...
-
-📺 Breaking Points
-
-👁️ 110K • 👍 2K • 💬 713 • ⏱️ 30:51 • 23h ago
+👁️ 1K • 👍 67 • 💬 8 • ⏱️ 1:43 • 3h ago
 
 ---
 
@@ -305,27 +287,15 @@ Note Pro: https://bit.ly/4c9s3bC NotePin S: https://bit.ly/46IANlt Use "PBOYLE" 
 
 📺 Patrick Boyle
 
-👁️ 265K • 👍 11K • 💬 1K • ⏱️ 34:37 • 5h ago
+👁️ 597K • 👍 15K • 💬 2K • ⏱️ 34:37 • 8h ago
 
 ---
 
-**[NVIDIA CEO’s message to kids about AI](https://www.youtube.com/watch?v=h7tEF9WIdfg)**
+**[Does MAGA really believe in the AI boom, or is Trump just majorly invested in it? #DailyShow #AI](https://www.youtube.com/watch?v=Cu9ZOY0GSO4)**
 
-CNN's Anderson Cooper asks NVIDIA CEO Jensen Huang about his message to children about the future of AI.
+📺 The Daily Show
 
-📺 CNN
-
-👁️ 52K • 👍 662 • 💬 107 • ⏱️ 1:33 • 1d ago
-
----
-
-**[They&#39;re Banning AI Servers At Home](https://www.youtube.com/watch?v=WXsTCJl7sU4)**
-
-Tech billionaires are using a manufactured AI panic to permanently outlaw private home servers and secure a global corporate ...
-
-📺 Loyal Moses
-
-👁️ 57K • 👍 2K • 💬 822 • ⏱️ 7:57 • 1d ago
+👁️ 61K • 👍 6K • 💬 181 • ⏱️ 2:21 • 4h ago
 
 ---
 
@@ -335,17 +305,57 @@ Here's the AI News you probably missed this week. Learn more about GPT-Live 1 an
 
 📺 Matt Wolfe
 
-👁️ 82K • 👍 2K • 💬 166 • ⏱️ 34:38 • 13h ago
+👁️ 98K • 👍 2K • 💬 180 • ⏱️ 34:38 • 16h ago
 
 ---
 
-**[Software developer says there&#39;s a &quot;dangerous gap opening up&quot; between AI power and alignment](https://www.youtube.com/watch?v=ZmbTKdjsKIk)**
+**[Top AI Expert MOCKS Zuckerberg, Jensen Huang For Blocking Safeguards](https://www.youtube.com/watch?v=5AM27KbZ6cM)**
 
-News broke this week that a rogue artificial intelligence agent hacked Australia's health care database, and no notice was given ...
+The Friday crew discusses top AI expert giving a dire warning on the future of development. Roman Yampolskiy: ...
 
-📺 CBS News
+📺 Breaking Points
 
-👁️ 8K • 👍 26 • 💬 9 • ⏱️ 5:33 • 17h ago
+👁️ 115K • 👍 2K • 💬 737 • ⏱️ 30:51 • 1d ago
+
+---
+
+**[THE END IS NEAR... and more AI doom](https://www.youtube.com/watch?v=LYNSHecA2Ks)**
+
+Try Runway: https://app.runwayml.com/?utm_source=youtube&utm_medium=sponsored&utm_campaign=ai-influencer=WesRoth ...
+
+📺 Wes Roth
+
+👁️ 67K • 👍 1K • 💬 378 • ⏱️ 32:42 • 1d ago
+
+---
+
+**[Government hacked by AI agent for the first known time](https://www.youtube.com/watch?v=9t-p4yYA6YA)**
+
+Australian Prime Minister Anthony Albanese has called the first known case of a government system being hacked by AI ...
+
+📺 CNN
+
+👁️ 299K • 👍 3K • 💬 731 • ⏱️ 1:24 • 2d ago
+
+---
+
+**[This AI data center company is BS?](https://www.youtube.com/watch?v=MfnQMIv3oo4)**
+
+"This company is BS" Ed: "An AI data center company called SB Energy was supposed to go public this month at $50 billion, but ...
+
+📺 Prof G Markets
+
+👁️ 48K • 👍 862 • 💬 63 • ⏱️ 1:20 • 2d ago
+
+---
+
+**[NVIDIA CEO’s message to kids about AI](https://www.youtube.com/watch?v=h7tEF9WIdfg)**
+
+CNN's Anderson Cooper asks NVIDIA CEO Jensen Huang about his message to children about the future of AI.
+
+📺 CNN
+
+👁️ 54K • 👍 690 • 💬 110 • ⏱️ 1:33 • 1d ago
 
 ---
 
@@ -355,17 +365,7 @@ Meta is announcing its latest artificial intelligence tools and smart glasses at
 
 📺 CBS News
 
-👁️ 61K • 👍 200 • 💬 39 • ⏱️ 3:58 • 2d ago
-
----
-
-**[Jensen Huang: A.I. Alarmists Are ‘Irresponsible’ | The Ezra Klein Show](https://www.youtube.com/watch?v=k2YEfJ35Zgk)**
-
-Employees of OpenAI and Anthropic have been sounding the alarm on the dangers of the systems their companies are ...
-
-📺 The Ezra Klein Show
-
-👁️ 57K • 👍 826 • 💬 179 • ⏱️ 2:49 • 2d ago
+👁️ 62K • 👍 203 • 💬 39 • ⏱️ 3:58 • 2d ago
 
 ---
 
@@ -381,7 +381,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 3,828 • 2d ago
+⬇️ 0 • ❤️ 3,855 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 48,361 • ❤️ 2,384 • 5d ago
+⬇️ 48,361 • ❤️ 2,391 • 5d ago
 
 ---
 
@@ -405,7 +405,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 876,673 • ❤️ 1,896 • 7h ago
+⬇️ 876,673 • ❤️ 1,914 • 9h ago
 
 ---
 
@@ -417,7 +417,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 43,947 • ❤️ 1,721 • 8d ago
+⬇️ 43,947 • ❤️ 1,723 • 8d ago
 
 ---
 
@@ -429,7 +429,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 3,247,527 • ❤️ 2,119 • 18h ago
+⬇️ 3,247,527 • ❤️ 2,126 • 21h ago
 
 ---
 
@@ -439,7 +439,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 Qwen-Image 2.1 is a diffusion model repackaged for ComfyUI, enabling text-to-image generation and image editing. It leverages Qwen3VL text encoders and a VAE for high-quality visual synthesis.
 
-⬇️ 3,641,785 • ❤️ 766 • 3d ago
+⬇️ 3,641,785 • ❤️ 770 • 3d ago
 
 ---
 
@@ -451,7 +451,7 @@ Hemmingway-1 is a 27B parameter text-generation model fine-tuned on Qwen3.8-27B,
 
 `text-generation` `26.9B`
 
-⬇️ 5,590 • ❤️ 697 • 3d ago
+⬇️ 5,590 • ❤️ 705 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ Audio8 ASR Infinite is a bilingual (Chinese/English) real-time speech recognitio
 
 `automatic-speech-recognition` `4.1B`
 
-⬇️ 7,859 • ❤️ 757 • 2d ago
+⬇️ 7,859 • ❤️ 760 • 2d ago
 
 ---
 
@@ -475,7 +475,7 @@ MiMo-V2.6-Pro-RL is a native omnimodal (text, image, video, audio) LLM with a 1M
 
 `text-generation` `1024.2B`
 
-⬇️ 74,497 • ❤️ 522 • 4d ago
+⬇️ 74,497 • ❤️ 523 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ ZDTaichu5.0-9B is a multimodal foundation model excelling in general visual unde
 
 `image-text-to-text` `9.8B`
 
-⬇️ 11,063 • ❤️ 1,354 • 6d ago
+⬇️ 11,063 • ❤️ 1,420 • 6d ago
 
 ---
 
@@ -544,7 +544,7 @@ Video world models enable interactive exploration of dynamic environments, yet s
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 177 • 💬 19 • ⭐ 67,967 • 18mo ago
+▲ 177 • 💬 19 • ⭐ 67,991 • 18mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -558,7 +558,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We argue that this is not only a modeling problem but also a representation problem: generators typically evolve appearance-centric latents, while perception models recover geometry in a semantically rich space that encodes cross-view structure. Rather than adding geometry as another output, we reparameterize a geometry foundation model's features into a compact latent space for generation. We realize this shift with the geometry-native autoencoder (GAE), whose latent is jointly decodable to appearance, depth, cameras, and point maps. With this state, a standard conditional flow supports diverse generation tasks. In controlled comparisons that hold the generator and training protocol fixed, replacing the latent with GAE improves both visual quality and independently measured 3D coherence: FVD falls by 12.7% and 23.1% on RealEstate10K and DL3DV, and camera-trajectory error is halved on RealEstate10K. Together, these results show that the latent space is central to geometry-consistent generation and can serve as a shared interface between perception and generation.
 
-▲ 56 • 💬 4 • ⭐ 328 • 5d ago
+▲ 57 • 💬 4 • ⭐ 328 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2609.24981) • [💻 code](https://github.com/TencentARC/GAE-GeometricAutoEncoder) • [🔗 project](https://jiah-cloud.github.io/GAE.github.io/)
 
@@ -571,7 +571,7 @@ We present a compact geometry-native latent space as a shared foundation for per
 
 OpenDevin is a platform for developing AI agents that interact with the world by writing code, using command lines, and browsing the web, with support for multiple agents and evaluation benchmarks.
 
-▲ 89 • 💬 7 • ⭐ 89,182 • 26mo ago
+▲ 89 • 💬 7 • ⭐ 89,224 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
 
@@ -698,7 +698,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 461 • 9d ago
+⭐ 2.5k • 🔱 462 • 9d ago
 
 ---
 
@@ -708,7 +708,7 @@ Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword researc
 
 `Shell` `ai-seo` `ai-visibility` `backlinks` `claude` `claude-code`
 
-⭐ 2.0k • 🔱 355 • 2d ago
+⭐ 2.1k • 🔱 355 • 2d ago
 
 ---
 
@@ -718,7 +718,7 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 1.7k • 🔱 251 • 21m ago
+⭐ 1.7k • 🔱 255 • 3h ago
 
 ---
 
@@ -728,7 +728,7 @@ An open-source AI agent for social media — discover trends, create content, pu
 
 `Python` `agent` `agent-skill` `content-automation` `content-creation` `content-generation`
 
-⭐ 1.6k • 🔱 228 • 2d ago
+⭐ 1.6k • 🔱 231 • 2d ago
 
 ---
 

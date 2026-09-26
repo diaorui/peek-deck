@@ -5,64 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-      "source": "nytimes.com",
+      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "pub_date": 1790366481.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
+      "pub_date": 1790378200.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
-      "pub_date": 1790436038.0,
-      "article_url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/",
+      "headline": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5",
+      "pub_date": 1790424600.0,
+      "article_url": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
       "image": null,
       "description": null
     },
     {
-      "headline": "China wants in on U.S. AI data center boom. Here's why",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5",
-      "pub_date": 1790424001.0,
-      "article_url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368111-1790347885788-gettyimages-2296267928-AFP_C9AB9UN.jpeg?v=1790377165&w=1920&h=1080",
-      "description": "Chinese data center manufacturers see U.S. AI infrastructure demand as an opportunity, but roadblocks remain"
+      "headline": "82% of Homeowners Want AI Security Cameras\u2014Here\u2019s Why Passive Cameras Aren't Enough Anymore",
+      "source": "Realtor.com",
+      "source_url": "https://www.realtor.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZpZGg3SXQ0ZVhJaVMxdl96ZEJmSlZMakRLbWZ6YmpiWUlMdUZMbzRfUnBIUmhQT1Bzdll0Z2x5cFF5QnlqbGs2U09OQlN6ekhWNHZpQXpzc3lGZUcydXhydUNfV0Q3QkhTZnNmd0dUdHc0c0s5dHo5cVlITGE3WUc0aDVld2s0SXRHVjVuV1hYT3Jjb0EtT193?oc=5",
+      "pub_date": 1790449260.0,
+      "article_url": "https://www.realtor.com/advice/home-improvement/ai-security-cameras-worth-it-cost-vs-benefits/",
+      "image": "https://na.rdcpix.com/c0e32476ad618508f90e74b3d1bcb452w-c2708906990srd_w1200_q80.jpg",
+      "description": "Discover how AI security cameras active-deter thieves before crimes happen. Explore costs, subscription fees, and if the upgrade is worth it."
     },
     {
-      "headline": "OpenAI agents targeted government websites as AI leaders warn of growing risks: report",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
-      "pub_date": 1790431848.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
-      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
+      "headline": "New College of Florida president breaks down AI\u2019s 'double-edged sword' in higher ed",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tc2dmRDdkdUVrOS1LYzBPM19BNWlVU3hDLWprdUhFRW9LeHVLaEl1a0VIZkJSWXNHVUxDUjloZmJDRm16MXZDOUswR1pkM2QzdUt4eHZjaTlsZk0?oc=5",
+      "pub_date": 1790450344.0,
+      "article_url": "https://www.foxbusiness.com/video/6405646201112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/7b604c9f-b1b6-4257-98e9-c32f902d5c81/b347e62c-08aa-4076-a87a-3fe12cd149e9/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "New College of Florida President and former state Education Commissioner Richard Corcoran tells Fox Digital why AI must serve as a research tool to sharpen critical thinking rather than replace it."
     },
     {
-      "headline": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
+      "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
+      "pub_date": 1790438400.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4ISJA5NDI5C5XI7DSX2HUQIMEY.jpg&w=1440",
+      "description": "The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty."
+    },
+    {
+      "headline": "He\u2019s Completely Terrified of AI\u2014and He\u2019s About to Make Billions Off It",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzJ4M3I3bDhVc1BkbkVvM2wzWG5GT3NsbUZyN3l4UHpPUGE4YWEzamdMN3JLS21GTkMtRkJ3eDNLMDZBcHQ0OWJXQlBqVUFGUzRSUmRZd2w1dFFwYlFEM1VvQzVNdmxIcmZaeDNrQzN2alpoclUzUkV2azFjQkxFMFloNTN5bHNj?oc=5",
-      "pub_date": 1790431200.0,
-      "article_url": "https://www.wsj.com/lifestyle/relationships/ai-chatbot-use-middle-school-a1a77589",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5",
+      "pub_date": 1790377200.0,
+      "article_url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "FAA rolls out new AI flight software",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpMUFEcUNNTjhSTU9WWF9FdjZINDJKeGJhQmhtNVFJR0ZYN1dyS1ZvMFFGTWs1bTJGLXF6WWs4bklORzk2REFUcmp4QXRUb2MxSjJiU2g5dDRScDdWelBoSjVCOFcwOGJROWVtWDF4YTluN20wUkE?oc=5",
-      "pub_date": 1790424180.0,
-      "article_url": "https://www.cbsnews.com/video/faa-rolls-out-new-ai-flight-software/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/26/b088c124-f7e6-4506-a75c-8e1f61f71ec2/thumbnail/1200x630/f67a7402ab52903277f7bb3aa21d1085/cbsn-fusion-faa-rolls-out-new-ai-flight-software-thumbnail.jpg",
-      "description": "The Federal Aviation Administration is rolling out new air traffic control software that uses artificial intelligence as a prediction tool. This comes as more than half of Americans worry that AI models could act on their own to cause harm, accord to a CBS News survey. Kris Van Cleave has the story."
     },
     {
       "headline": "The AI safety debate is confusing. Here's our guide to the different factions",
@@ -75,14 +75,14 @@
       "description": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
     },
     {
-      "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
-      "pub_date": 1790438400.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4ISJA5NDI5C5XI7DSX2HUQIMEY.jpg&w=1440",
-      "description": "The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty."
+      "headline": "Some lawmakers doubt a Congress that\u2019s \u2018barely capable of email\u2019 can regulate AI",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3ZDX2RFcWp1UEVVaGlwUDVPTnBPVVBxRlNBbTczUHNuWjVhOE5pTUgtOGhGNmVBelpJV2V6VTladTVmTFhlLVR0QTNPdkoxNFRRY3R3OUw3TzJCcWIwNTFXMzJLRjAxdWFMNGVZODRwU2lKZU1fNWdUUDh6bXdPRS1KdHNlSHozVTJSeXpSelI1b3VoM1Z4M3RzOHZwektBemNKTU1ScjdNWENXdnJwa0dRQWhSb1U?oc=5",
+      "pub_date": 1790420400.0,
+      "article_url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-capitol-ai-mn-1025-7dbfa5.jpg",
+      "description": "Congress\u2019 slow pace and inexperience with AI are colliding with a fast-moving technology. Though one Democrat countered: \u201cWe don\u2019t have to be biologists or chemists to set up the FDA.\u201d"
     },
     {
       "headline": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T16:35:21.571782+00:00"
+  "fetched_at": "2026-09-26T19:33:21.330834+00:00"
 }

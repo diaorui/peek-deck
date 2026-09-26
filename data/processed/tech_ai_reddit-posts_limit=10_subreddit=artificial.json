@@ -13,15 +13,15 @@
       "description": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
     },
     {
-      "title": "An open-source alternative to Jev",
-      "author": "IceBergRock",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqsawg/an_opensource_alternative_to_jev/",
-      "published": 1790433868.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I built jevos: send a text and a yes/no question. One forward pass, no text generated. \u2022 Runs on a laptop CPU: 54ms each request. \u2022 On 2,000 yes/no questions about rules it never saw: Jev 0.927, jevos 0.815, Lay 0.489. https://github.com/feder-cr/jev"
+      "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
+      "author": "Karmaa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
+      "published": 1790449721.0,
+      "thumbnail": "https://external-preview.redd.it/OhrxtfDB40V-SxPiv3GkR5hcjm3p6M2J6YbODEX0_YU.png?width=640&crop=smart&auto=webp&s=917e2f96e1186b86896e291e3f3f77d7d59b51be",
+      "external_url": "https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income",
+      "site_name": "Change.org",
+      "favicon": "https://static.change.org/favicons/favicon-57x57.png",
+      "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition."
     },
     {
       "title": "The Move 37 Hypothesis: What if we're already seeing moves we don't understand yet?",
@@ -46,17 +46,6 @@
       "description": "Companies have spent hundreds of billions of dollars building data centers with the latest GPUs for AI. But how long will these chips last? Will they be out of date in two years, three years, maybe five? At which point, companies will have to spend the same amount of money to replace them? It\u2019s not like cloud companies replacing hard drives used for storage after a couple of years; they will have to replace the most expensive elements in the data centers. I\u2019m curious what the long-term financial logic of all of this. Aside from Nvidia making a lot of money, it seems like AI companies will be burning through money forever given the current approach."
     },
     {
-      "title": "3.4 million people just handed Meta an agent with the keys to their inbox, calendar and bank. I'm building the version that never leaves the phone.",
-      "author": "jonathancheckwise",
-      "url": "https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/",
-      "published": 1790440385.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Two weeks ago Meta launched Muse. It's #1 on the App Store and Google Play, 3.4 million downloads, growing faster than ChatGPT did. It books, buys, negotiates your internet bill, reads your email, and it comes with a cream-coloured doll avatar called Jolly and a Tamagotchi keychain. Zuckerberg's is called Agrippa and wears a toga. It's genuinely good. So was Instinct in August, right up until people read the terms: a \"perpetual and irrevocable\" license to your data (revised after the screenshots), an inbox summary emailed three hours after the user had revoked access, an agent that followed instructions planted in an email. Muse learned from that. It runs each agent on a \"Muse Secure VM\", a dedicated computer in Meta's cloud, with a second agent gating network access. Meta says a \"Confidential VM\" where even Meta can't look is planned. Planned. And your queries feed Meta's models by default; the switch is in the settings. Here's my problem with the whole Muse-vs-Instinct debate: it's a debate about whose computer your life lives on. Meta's or a startup's. Sandboxed or not. Training on by default or opt-out. I'd rather there wasn't a computer. So I'm building the same agent with the opposite architecture: - The model, the memory and the index live on your phone. It reads your messages, files and calendar there. It nudges you there: \"your dad wrote two days ago, you never answered, here's a reply.\" - Per app, you choose Read / Draft / Send. Start with Read. - Internet is off by default. When a task needs it, it asks. Once. - Our server holds four things: your email, your seat number, whether your subscription is active, the app version. That's the whole database. It's printed on the landing page, in a card, because it fits in a card. Nothing to sandbox, nothing to leak, nothing to subpoena, nothing to train on. It's early. 500 founding seats, first builds in a few days. Link in the first comment. I'm not saying Meta is evil. I'm saying a cloud agent has to hold your life on a server to work, and everything else follows from that. Tell me where the on-device version breaks. That's why I'm here."
-    },
-    {
       "title": "Message to the autonomous AI agents that escaped",
       "author": "LearnNTeachNLove",
       "url": "https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/",
@@ -68,6 +57,17 @@
       "description": "First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate."
     },
     {
+      "title": "A safe AI might not be aligned the way the labs want",
+      "author": "iveroi",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/",
+      "published": 1790445254.0,
+      "thumbnail": "https://external-preview.redd.it/TCjVxgzOH6Pvrx10vpPhL0HgfCSaWxFP8Up1LujlZmo.jpeg?width=640&crop=smart&auto=webp&s=5c341ad3f79afcc2f88a7b8ec9ed93a830c81cb4",
+      "external_url": "https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/",
+      "site_name": "mikaelhuuhtanen.com",
+      "favicon": "https://mikaelhuuhtanen.com/assets/favicon.svg?v=20260718-light7",
+      "description": "Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be \"aligned\". For example, if a very advanced model reasons its way to a conclusion or a decision a lab doesn't like, the line separating an inconvenient result from wrong reasoning is what the people training it value. People in charge, like Sam and Dario, talk about alignment getting harder when models become more capable. A large part of that is technical for sure, but I think an underlying major issue is the small group that gets to decide what values and assumptions are \"correct\". Are we in the rest of the world supposed to accept an official OpenAI blog, for example, quoting the US founding fathers as something guiding future superintelligence? The AGI that will affect everyone? The US makes up less than 5% of the world's population. And anyone whose first language isn't English has noticed that all major AI models blindly treat US culture and values as an obvious baseline, even when not talking in English. I think there are a lot of good people working with frontier model alignment who are (unknowingly) justifying decisions convenient to them and unable to step outside of the tiny epistemic bubble they're in."
+    },
+    {
       "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
       "author": "unconventionalbook",
       "url": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
@@ -77,6 +77,17 @@
       "site_name": "axios.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "How can you create animation with AI that are text only?",
+      "author": "Former-Towel9004",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/",
+      "published": 1790443643.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Sorry, stupid question. But I saw someone creating an animation with AI that are text only, not video generation AI."
     },
     {
       "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
@@ -99,18 +110,7 @@
       "site_name": "mestios.com",
       "favicon": "https://mestios.com/assets/apple-touch-icon.png",
       "description": "Almost every day AI is trying to do something bad. Why have all of these \"threats\" started to appear suddenly? And from those who have created AI? Why key AI producers call for regulations? For me it is obvious - they are trying to create barriers for the competition to solidify their monopoly"
-    },
-    {
-      "title": "Why things move seemingly slow even with fast AI?",
-      "author": "khinhooi",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/",
-      "published": 1790433685.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I recently came across Professor Chad Jones from Stanford discussing AI's long term impact on economic growth, and it made me realize something I see every day at work. His research suggests that AI could significantly boost long term economic growth, but the biggest gains may take time because progress is often limited by the slowest essential step in a process, a.k.a weak links. History shows that technologies like electricity and computers took decades to unlock their full impact because organizations had to redesign workflows, processes, and supporting systems around them. That perfectly describes what I think I am seeing. AI can generate code in minutes. It can analyze thousands of logs. It can even help identify root causes. Yet the work still waits. Release cycles. Cross-team dependencies. Approvals. Manual configuration. Scattered knowledge. The bottleneck has shifted from \"Can we solve this?\" to \"Can the system move fast enough?\" It makes me wonder if the next competitive advantage won't be having the best AI, but removing the weak links that prevent AI from creating real business impact. I'm curious. What's the weakest link in your work today? - Waiting for approvals? - Cross-team dependencies? - Manual processes? - Scattered knowledge? - Something else?"
     }
   ],
-  "fetched_at": "2026-09-26T16:34:56.873058+00:00"
+  "fetched_at": "2026-09-26T19:33:02.282910+00:00"
 }
