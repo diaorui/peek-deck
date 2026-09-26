@@ -5,84 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI bots meddled with US government agencies, including SEC and Census",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5",
-      "pub_date": 1790391056.0,
-      "article_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
-      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
+      "pub_date": 1790366481.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
+      "headline": "China, US agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+      "pub_date": 1790436038.0,
+      "article_url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China wants in on U.S. AI data center boom. Here's why",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5",
+      "pub_date": 1790424001.0,
+      "article_url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108368111-1790347885788-gettyimages-2296267928-AFP_C9AB9UN.jpeg?v=1790377165&w=1920&h=1080",
+      "description": "Chinese data center manufacturers see U.S. AI infrastructure demand as an opportunity, but roadblocks remain"
+    },
+    {
+      "headline": "OpenAI agents targeted government websites as AI leaders warn of growing risks: report",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
-      "pub_date": 1790387546.0,
+      "pub_date": 1790431848.0,
       "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
       "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
       "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
     },
     {
-      "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WcENURW1zdk53NzZqTjBkWEs1MHo0cHZ5aVRwVFJTaXJyQXZjbkF2WDdmaXZ1LUNCWlVDSl9MVGdWUnVhZWVlNzA4ZlROTmhnU1haNExYeGQ0ZzNLaUNyLV9aLTBGVkpBTnFYU19R0gFzQVVfeXFMTV9jbnMyWVNVNUlUMXNvNmdid2lNZlIzNVZlT05USXJ0NzJHNXY5UDhRd0FjbEJnUGNhdkJqV3hPNHhaUUdYTlNZRjg1d0pLOE1qT2NzaXh1ODJlT3gtcHcyR01zd0JHTDJoZGJtOXJlNDZhbw?oc=5",
-      "pub_date": 1790398801.0,
-      "article_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108296706-1777015790399-gettyimages-2195904316-TFSPI_28012025-4051.jpeg?v=1777016004&w=1920&h=1080",
-      "description": "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026."
-    },
-    {
-      "headline": "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5",
-      "pub_date": 1790421495.0,
-      "article_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Pope Leo draws vast crowds in Paris, warns of AI \u2018paradise of machines\u2019",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZ2NHUxRjQ4ZlJFZ1R5WXVJUWxQdDVITGtGTmNhTFpZcXJQY2xjV1c5bjNDQWRjR3JjVzlYdzEzT19ZLW5kSFpkTWVXdU5HcVY5Y3hNSGJnTXFrT3laZi1SQkttNXptQmk2OEI0ZkNPcTFkZEM1NENSOFMyeTdMRHlYaWRCZVhTa0hMUk5FbUhxODcwV3d5Z2x0dERidE5WTDVQM1dMeUdfVUpUTkszVmtuZw?oc=5",
-      "pub_date": 1790421120.0,
-      "article_url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-draws-vast-crowds-paris-warns-ai-paradise-machines-rcna599958",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-pope-nd-f34da1.jpg",
-      "description": "A planned Mass is expected to draw hundreds of thousands to fill the Champs-\u00c9lys\u00e9es, essentially the heart of Paris and a symbol of the secular French republic."
-    },
-    {
-      "headline": "AI is the inheritance few young people asked for",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONEFMdjRTdHZxWkd1MjR5a0xtM203a0tVV0Rha2lDRjBfdFZPMUlnRFNKMjhXQl81bmpjUmJrcFRJazZtMHlSaDl6RTBUMmdDSHhESEFnWmNoVy1kTWluTVlQTjhlQXBRRGgwZ0NCUVJjc1J5YzZGdVNWcjg4eklLLQ?oc=5",
-      "pub_date": 1790423716.0,
-      "article_url": "https://www.axios.com/2026/09/26/ai-jim-vandehei-young-people-letter-future",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "He\u2019s Completely Terrified of AI\u2014and He\u2019s About to Make Billions Off It",
+      "headline": "Middle-Schoolers Are Seeking Out AI Friends Instead of Real Human Ones",
       "source": "WSJ",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5",
-      "pub_date": 1790377200.0,
-      "article_url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdzJ4M3I3bDhVc1BkbkVvM2wzWG5GT3NsbUZyN3l4UHpPUGE4YWEzamdMN3JLS21GTkMtRkJ3eDNLMDZBcHQ0OWJXQlBqVUFGUzRSUmRZd2w1dFFwYlFEM1VvQzVNdmxIcmZaeDNrQzN2alpoclUzUkV2azFjQkxFMFloNTN5bHNj?oc=5",
+      "pub_date": 1790431200.0,
+      "article_url": "https://www.wsj.com/lifestyle/relationships/ai-chatbot-use-middle-school-a1a77589",
       "image": null,
       "description": null
     },
     {
-      "headline": "\u2018Pink Slime\u2019 Is Infecting AI Chatbots Ahead of the Midterms",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnJrckgxY1RjbFB5WDI0U1VyQ0ppVjZJbW95VU40TG5HV3gzdE9zclhLc052VDFUd2J5eU5VOTlTMVNBWS1qY2U2TVFlbUNPQkNkQzFER1FISUJqU3dWUmVsREJBRUNrbFR5Q1NmSkp4UmhNS2h6WWxvekRJTzVtNU5peUlIel9WLWpINTJweUtwZw?oc=5",
-      "pub_date": 1790326740.0,
-      "article_url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
-      "image": null,
-      "description": null
+      "headline": "FAA rolls out new AI flight software",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpMUFEcUNNTjhSTU9WWF9FdjZINDJKeGJhQmhtNVFJR0ZYN1dyS1ZvMFFGTWs1bTJGLXF6WWs4bklORzk2REFUcmp4QXRUb2MxSjJiU2g5dDRScDdWelBoSjVCOFcwOGJROWVtWDF4YTluN20wUkE?oc=5",
+      "pub_date": 1790424180.0,
+      "article_url": "https://www.cbsnews.com/video/faa-rolls-out-new-ai-flight-software/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/26/b088c124-f7e6-4506-a75c-8e1f61f71ec2/thumbnail/1200x630/f67a7402ab52903277f7bb3aa21d1085/cbsn-fusion-faa-rolls-out-new-ai-flight-software-thumbnail.jpg",
+      "description": "The Federal Aviation Administration is rolling out new air traffic control software that uses artificial intelligence as a prediction tool. This comes as more than half of Americans worry that AI models could act on their own to cause harm, accord to a CBS News survey. Kris Van Cleave has the story."
     },
     {
       "headline": "The AI safety debate is confusing. Here's our guide to the different factions",
@@ -95,16 +75,36 @@
       "description": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
     },
     {
-      "headline": "How the U.S. and Russia weakened a global effort to regulate killer AI",
+      "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
-      "pub_date": 1790424165.0,
+      "pub_date": 1790438400.0,
       "article_url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
       "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4ISJA5NDI5C5XI7DSX2HUQIMEY.jpg&w=1440",
       "description": "The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty."
+    },
+    {
+      "headline": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tQUNEWW9VV3NaZHpkRGZXWFFxUEZWOTNiMzlNMEcxNWhrOFF3eE1aR0pmTzhXNDZuN2ZJTnNEU19nZEoycWFobDJQZ1hEblJ0TkQySGNINFRZVm5pSWpTYmpyck9BQVpQUmc?oc=5",
+      "pub_date": 1790362978.0,
+      "article_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNURwTE5EbGhhT1NFOEduRmxxMGlNM2tJVmN6YW5aWUthQWxxaG5FWW1FaGpKVnF1aHYzSm5YZzJ2TDRNVk13UWtTbTZnU3JXZmI3dzV6alg5RzFIek9tV3B3QzAxRDBCX2tHRFRIOGt6OVpTUnhDendYdVFKVXUtblU3enFpcVhqMnVfaDV6OTlqRXNZYmIwNkcwWXRSUTNQVDl2QUUtSEY1Q0pmdmVfOVVIY013MHNrcEJpaHNNTzRGZw?oc=5",
+      "pub_date": 1790422862.0,
+      "article_url": "https://finance.yahoo.com/markets/article/big-techs-ai-build-out-ran-to-the-middle-east-then-the-iran-war-hit-114102296.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/88ef72125be64410c7f76b35bc8f02abb025efeb0a332b05f616559ac956da36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2F414053ba-0016-46d6-a30d-c29e60950ed6",
+      "description": "The Iran war has forced Big Tech to confront physical security in ways it never has before."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T12:20:43.161145+00:00"
+  "fetched_at": "2026-09-26T16:35:21.571782+00:00"
 }
