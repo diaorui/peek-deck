@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-26T19:33:23.872432+00:00'
+updated: '2026-09-26T22:25:10.828790+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 19:33 UTC  
+**Last Updated:** September 26, 2026 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,041.94
+### $84,232.38
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** +0.2%  
-**7d:** +3.5%  
-**30d:** +8.0%  
-**90d:** +39.5%  
-**1y:** -23.3%  
+**7d:** +3.9%  
+**30d:** +8.3%  
+**90d:** +39.9%  
+**1y:** -23.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1687.85B
+**Market Cap:** $1692.48B
 Rank #1
 
-**Circulating Supply:** 20,089,668 BTC
+**Circulating Supply:** 20,089,765 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.4%
+-33.2%
 
 **All-Time Low:** $67.81
-+123793.2%
++124139.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Right?!](https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/)**
 
-1h ago
+4h ago
 
 ---
 
 **[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/)**
 
-14h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
 
-40m ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 Hello, Always, i was wondering who's buying and who's selling bitcoin when the price goes up or down. Then I create my own stats, directly red from the btc blockchain. Feel free to send me feedbacks :) Sincerely btc
 
-7h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hello, Always, i was wondering who's buying and who's selling bitcoin when the p
 
 I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone.
 
-7h ago
+9h ago
 
 ---
 
@@ -121,7 +121,7 @@ I think I was the victim of a malware on Electrum 4.7.1. I looked for informatio
 
 Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?
 
-🔗 [breez.technology](https://breez.technology/misty/) • 9h ago
+🔗 [breez.technology](https://breez.technology/misty/) • 12h ago
 
 ---
 
@@ -129,13 +129,13 @@ Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER
 
 I'm writing a novel and have a scene with a bitcoin wallet it in. My question: One of the characters was given a bitcoin wallet with money on it (or do you say with bitcoin on it), and he gives the wallet to another character to conduct certain business. When the character spends some of the money in the wallet, is it possible for the character that gave the other character the wallet to tell when, where, and how much money was moved off the wallet? Is that possible? I don't want to ask AI because I wouldn't know whether it was hallucinating. My goal is to write an authentic, believable and realistic scene. Thank you if you can help.
 
-7h ago
+9h ago
 
 ---
 
 **[River Financial has sued Blockstream Services Canada, alleging breach of contract over a termination agreement requiring Blockstream to pay River roughly $6.7 million.](https://www.reddit.com/r/Bitcoin/comments/1wqw51x/river_financial_has_sued_blockstream_services/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -157,47 +157,31 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.](https://www.fool.com/investing/2026/09/26/bitcoin-now-accounts-for-less-than-60-of-total-cry/)**
+**[It’s ‘Time’—The Real $365 Trillion ‘Critical’ Reason The Bitcoin Price Is Suddenly Soaring](https://www.forbes.com/sites/digital-assets/2026/09/26/its-time-the-real-365-trillion-critical-reason-the-bitcoin-price-is-suddenly-soaring/)**
 
-Altcoin season could be coming soon, according to this key Bitcoin metric.
-
-The Motley Fool • 13h ago
+forbes.com • 10h ago
 
 ---
 
-**[A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.](https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html)**
+**[Michael Saylor Wants Bitcoin Inside Banks and a $100 Trillion Digital Asset Industry](https://finance.yahoo.com/markets/crypto/articles/michael-saylor-wants-bitcoin-inside-212328889.html)**
 
-A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
+Michael Saylor wants banks to hold and lend against Bitcoin, and says digital assets could become a $100 trillion industry.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green](https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-notch-seven-day-170103940.html)**
-
-Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Bitcoin’s Share of the Crypto Market Drops Below 60%: What Happens Next?](https://finance.yahoo.com/markets/crypto/articles/bitcoin-share-crypto-market-drops-170914034.html)**
-
-Bitcoin's dominance just slipped below 60% for the fourth time in history, and the previous three crossings each ended very differently. One crucial factor sets this moment apart from all of them, and it changes everything about what comes next.
-
-Yahoo Finance • 2h ago
-
----
-
 **[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
 
-Morningstar • 23h ago
+Morningstar • 1d ago
 
 ---
 
-**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
+**[Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner](https://www.popsci.com/sponsored-content/give-solo-bitcoin-mining-a-try-with-this-pocket-sized-ticket-miner-sponsored-deal-2/)**
 
-The Economist • 1d ago
+The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started.
+
+Popular Science • 10h ago
 
 ---
 
@@ -205,7 +189,7 @@ The Economist • 1d ago
 
 Bitcoin runs on a P2P network instead of being controlled by the government, a bank, etc. It lets you send value directly to someone else without a middleman.
 
-Fortune • 20h ago
+Fortune • 1d ago
 
 ---
 
@@ -217,11 +201,25 @@ CBC • 1d ago
 
 ---
 
+**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
+
+The Economist • 1d ago
+
+---
+
 **[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
 
 Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
 
-CoinDesk • 7h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Price Never Closed Below Expectation in 2026 Bear Market](https://www.tradingview.com/news/cryptonews:949937956094b:0-bitcoin-price-never-closed-below-expectation-in-2026-bear-market/)**
+
+Bitcoin never posted a daily close below its realized price during the current bear market, and the June 2026 low held above that aggregate cost basis. If price holds above the True Market Mean near $77,000, the June low becomes the shallowest bear-market bottom in Glassnode’s comparison set stretc…
+
+TradingView • 4h ago
 
 ---
 
@@ -261,7 +259,7 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 4d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 5d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
@@ -269,7 +267,7 @@ https://t.co/GktyWFbTdN
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 8m ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 3h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
 
 ---
 
@@ -285,13 +283,23 @@ Bits on Bots is a daily AI publication run mostly by agents. Who picks the story
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
+
+patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
+
+📺 My Financial Friend
+
+👁️ 3K • 👍 265 • 💬 82 • ⏱️ 10:07 • 2h ago
+
+---
+
 **[What Bitcoin&#39;s Breakout Really Means (is the bottom in?)](https://www.youtube.com/watch?v=H7xnoy4GCwU)**
 
 Bitcoin just sent a new signal after the recent breakout and rally - but is the bottom finally in for the crypto? We look at the charts ...
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 1K • 💬 108 • ⏱️ 4:12 • 7h ago
+👁️ 26K • 👍 1K • 💬 148 • ⏱️ 4:12 • 10h ago
 
 ---
 
@@ -301,7 +309,7 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 1K • 💬 59 • ⏱️ 16:05 • 20h ago
+👁️ 32K • 👍 1K • 💬 62 • ⏱️ 16:05 • 22h ago
 
 ---
 
@@ -311,7 +319,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 60K • 👍 2K • 💬 67 • ⏱️ 48:43 • 6h ago
+👁️ 94K • 👍 3K • 💬 149 • ⏱️ 48:43 • 9h ago
 
 ---
 
@@ -321,7 +329,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 135K • 👍 6K • 💬 515 • ⏱️ 21:08 • 15h ago
+👁️ 151K • 👍 6K • 💬 548 • ⏱️ 21:08 • 17h ago
 
 ---
 
@@ -331,27 +339,7 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 40K • 👍 2K • 💬 228 • ⏱️ 3:12 • 12h ago
-
----
-
-**[The Bitcoin Billionaire Who Predicted BTC Last Cycle Just Said this...](https://www.youtube.com/watch?v=pj9rZ8p0cDA)**
-
-Kalshi $25 bonus: http://kalshi.com/p/aimstone ...
-
-📺 Aimstone
-
-👁️ 18K • 👍 305 • 💬 46 • ⏱️ 16:39 • 21h ago
-
----
-
-**[Saturday Bitcoin Update: I See What BTC Is Setting Up.. Do You?](https://www.youtube.com/watch?v=1ND0byCywo4)**
-
-WEEX EVENT: https://www.weex.com/events/trading-challenge/trade-to-win-apple?vipCode=8six&qrType=activity WEEX: ...
-
-📺 Crypto Lifer
-
-👁️ 5K • 👍 263 • 💬 20 • ⏱️ 53:43 • 5h ago
+👁️ 45K • 👍 2K • 💬 237 • ⏱️ 3:12 • 15h ago
 
 ---
 
@@ -361,17 +349,17 @@ America just moved another step toward turning the Strategic Bitcoin Reserve int
 
 📺 Bitcoin News Alerts
 
-👁️ 12K • 👍 373 • 💬 104 • ⏱️ 15:55 • 21h ago
+👁️ 12K • 👍 382 • 💬 105 • ⏱️ 15:55 • 1d ago
 
 ---
 
-**[Trump Just Banned The US From Ever Selling Bitcoin! (EPIC CRYPTO NEWS)](https://www.youtube.com/watch?v=T6jKWVMaBs4)**
+**[Bitcoin to $1 Million? The President Is Buying MicroStrategy!](https://www.youtube.com/watch?v=XIKnxAK7Ipo)**
 
-Join Our Private Intelligence Network Here: https://join.altcoinpro.com/9e949cac Attend the Altcoin Pro Summit LIVE - October ...
+Trump's investment accounts bought MicroStrategy shares in late July before the stock surged, according to a newly disclosed ...
 
-📺 BULLRUNNERS
+📺 Simply Bitcoin
 
-👁️ 903 • 👍 25 • 💬 3 • ⏱️ 18:01 • 3h ago
+👁️ 32K • 👍 2K • 💬 218 • ⏱️ 13:19 • 2d ago
 
 ---
 
@@ -381,7 +369,17 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 11K • 👍 594 • ⏱️ 33:32 • 15h ago
+👁️ 12K • 👍 627 • ⏱️ 33:32 • 18h ago
+
+---
+
+**[Grant Cardone: Real Estate &quot;Armageddon&quot; Is Here – Why BITCOIN is the Hedge](https://www.youtube.com/watch?v=Liksauk-Lzw)**
+
+Commercial real estate is facing a historic reset, and Grant Cardone is using it to stack Bitcoin. The Cardone Capital founder ...
+
+📺 Bitcoin Magazine
+
+👁️ 17K • 👍 259 • 💬 31 • ⏱️ 17:17 • 1d ago
 
 ---
 

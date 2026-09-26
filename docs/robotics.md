@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T19:33:23.877928+00:00'
+updated: '2026-09-26T22:25:10.836204+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 19:33 UTC  
+**Last Updated:** September 26, 2026 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 22h ago
+Ars Technica • 1d ago
 
 ---
 
@@ -124,41 +124,11 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
+**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
 
-The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
+Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
 
-cnbc.com • 2d ago
-
----
-
-**[Labor-scarce Japan counts on AI-powered robots](https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries)**
-
-japantoday.com • 1d ago
-
----
-
-**[Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks](https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week)**
-
-Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain.
-
-Interesting Engineering • 6h ago
-
----
-
-**[Tesla ramps Optimus to hundreds a week, but the robots can’t generalize](https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/)**
-
-Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize.
-
-Electrek • 1d ago
-
----
-
-**[Work With Your Hands? That’s One Area Tesla’s Robots Aren’t Cracking Anytime Soon](https://www.pcmag.com/news/work-with-your-hands-thats-one-area-teslas-robots-arent-cracking-anytime)**
-
-Tesla reportedly struggles with complex engineering of getting the hands of its humanoid robots to work properly; meanwhile, workers have complained that the robots are designed to replace them.
-
-PCMag • 4h ago
+The Robot Report • 1d ago
 
 ---
 
@@ -174,11 +144,41 @@ breakingdefense.com • 1d ago
 
 ---
 
-**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
+**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
 
-Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
+The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
 
-The Robot Report • 1d ago
+interestingengineering.com • 3h ago
+
+---
+
+**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
+
+The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
+
+IFR International Federation of Robotics • 2d ago
+
+---
+
+**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/)**
+
+Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
+
+Feather is betting on a customizable, $30,000 platform built for software developers.
+
+techcrunch.com • 2d ago
+
+---
+
+**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
+
+Qualcomm • 3d ago
 
 ---
 
@@ -192,17 +192,7 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 100K • 👍 593 • 💬 39 • ⏱️ 25:31 • 16h ago
-
----
-
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
-
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
-
-📺 Julia McCoy
-
-👁️ 11K • 👍 239 • 💬 27 • ⏱️ 6:10 • 1d ago
+👁️ 129K • 👍 694 • 💬 50 • ⏱️ 25:31 • 19h ago
 
 ---
 
@@ -212,27 +202,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 712K • 👍 6K • 💬 684 • ⏱️ 4:18 • 3d ago
-
----
-
-**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
-
-IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
-
-📺 Evolving AI
-
-👁️ 22K • 👍 140 • 💬 18 • ⏱️ 12:11 • 4d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 589K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
+👁️ 717K • 👍 6K • 💬 685 • ⏱️ 4:18 • 3d ago
 
 ---
 
@@ -242,7 +212,27 @@ What if a robotic hand could see, understand, and manipulate the physical world 
 
 📺 Aman Jain
 
-👁️ 36K • 👍 553 • 💬 55 • ⏱️ 0:16 • 5d ago
+👁️ 36K • 👍 555 • 💬 55 • ⏱️ 0:16 • 5d ago
+
+---
+
+**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
+
+IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
+
+📺 Evolving AI
+
+👁️ 22K • 👍 141 • 💬 18 • ⏱️ 12:11 • 5d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 592K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
 
 ---
 
@@ -252,17 +242,7 @@ A human just stepped into a fighting cage against a humanoid robot. At a recent 
 
 📺 RoboFrontier
 
-👁️ 58K • 👍 216 • 💬 63 • ⏱️ 4:15 • 5d ago
-
----
-
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
-
-📺 South China Morning Post
-
-👁️ 203K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
+👁️ 59K • 👍 221 • 💬 63 • ⏱️ 4:15 • 5d ago
 
 ---
 
@@ -272,7 +252,17 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 352K • 👍 503 • 💬 67 • ⏱️ 0:59 • 3d ago
+👁️ 353K • 👍 509 • 💬 67 • ⏱️ 0:59 • 3d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 204K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
 
 ---
 
@@ -282,7 +272,17 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 76K • 👍 958 • 💬 145 • ⏱️ 1:00 • 6d ago
+👁️ 77K • 👍 965 • 💬 146 • ⏱️ 1:00 • 6d ago
+
+---
+
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+
+📺 ejunky66
+
+👁️ 193K • 👍 2K • 💬 247 • ⏱️ 1:00 • 2d ago
 
 ---
 
