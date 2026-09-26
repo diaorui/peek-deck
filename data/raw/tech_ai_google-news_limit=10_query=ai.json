@@ -5,64 +5,84 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-      "source": "The New York Times",
+      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "source": "nytimes.com",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "pub_date": 1790366481.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
+      "pub_date": 1790383710.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
-      "source": "Fox News",
+      "headline": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+      "pub_date": 1790369059.0,
+      "article_url": "https://www.reuters.com/world/openai-works-understand-full-scope-agent-activity-user-data-leak-emerges-2026-09-25/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "ChatGPT-maker\u2019s AI probed federal government websites",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
+      "pub_date": 1790385641.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/25/openais-ai-agents-probed-federal-agencies-including-commerce-department/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XPTBVQFXFUI7DFGL2PMPEKUMRM.jpg&w=1440",
+      "description": "OpenAI said that its artificial intelligence agents inappropriately accessed sites for the Commerce Department and the Securities and Exchange Commission."
+    },
+    {
+      "headline": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
+      "source": "foxnews.com",
       "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5",
-      "pub_date": 1790301412.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-artificial-intelligence-openai-chatgpt-api-anthropic-australia-september-24",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/86eb4abc1a5d4cb4460f5256e47c7eda.jpg",
-      "description": "AI talk at UN General Assembly and between China's Xi Jinping state visit with President Donald Trump is center stage, driving Big Tech to record highs. Follow the latest news live on global AI regulation and the Trump-China trade talks."
-    },
-    {
-      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5",
-      "pub_date": 1790374847.0,
-      "article_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-    },
-    {
-      "headline": "Johnson, Trump set meeting with AI executives",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5",
-      "pub_date": 1790297478.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/white-house-ai-meeting-set-01092993",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
+      "pub_date": 1790377546.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
+      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
     },
     {
       "headline": "Trump and Chinese president Xi end summit without major agreement on AI",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nT3o2LXNzMGpwdWxoTUtxUlZScHFGLXhiUy1maHJOOTNXSXpfRzNXb1FWVUxFM2gxN3M3T0pvVHVrQ0RVZTN2Y09XcWhVRHYtcVl0alJlUFdmVXlwR09ONFg0OVo4Sm4zZy1BRjhZRTZaYlhPNE9FMEQ0dmM?oc=5",
-      "pub_date": 1790374260.0,
+      "pub_date": 1790374380.0,
       "article_url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
       "image": "https://i.guim.co.uk/img/media/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6db74dd6e77f9a268f886d391c264e80",
       "description": "Xi\u2019s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries\u2019 AI arms race"
     },
     {
-      "headline": "Tech, AI Leaders to Join Trump for Launch of Government Website",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUsxbHlSRWpNQmJQSDlBVGJYSzRZbm9ZS3p2eTRDTVpDR2N3aFhiZmpnZTZXY0RnSm5WVC1EZ3BCeWNrU2xmOWRNLWEyRXlwTWVRR3I5VjFReExNejhHQ1VwN1B6dUVsS0RxbUFmU3BsZnJFX1FUcDJkbjNGQl9CVmdlSVJFQnlHRUtTODdSZkRqZEtkb2VTcWQxSzVuVTBXcjVONWJONmQzNjNKYVR1S2lsVQ?oc=5",
-      "pub_date": 1790374515.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-25/tech-ai-leaders-to-join-trump-for-launch-of-government-website",
+      "headline": "Is China Really Stealing A.I. From American Companies?",
+      "source": "nytimes.com",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNSNFZCYWZ4SG4xb2dkZUNsTXBuUzhvU2lzdzJKT1BRYzk1dTU4QUlIc1FrT0tPMHF3bXIwa0xJbkUzcjA4X2hYNUZMMVJnX3B1VFBGWkY1eEdrWFVmbkxJVVptcEVjRTZoQUNJZ21RNHdmRGFfZExweXdTNEZuUGZJTQ?oc=5",
+      "pub_date": 1790348541.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI pioneer warns the tech industry is overblowing AI fears",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CTHB1M2F2YVhYbDN1eC1TOG52TkZ5QVJpZmpWbGEzeGxSWEJIZzhkOFNXYVNTd0R2VFJtdF8tNnNvbl9sQVQ5Sk1xaVRIcTdnRnN3MFBYbkh4eGc?oc=5",
+      "pub_date": 1790384588.0,
+      "article_url": "https://www.foxbusiness.com/video/6405648748112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d18b1486-307a-4c2a-b3eb-f1eabd0f805b/6439c5af-7a24-43ac-bc69-d465fed88f92/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "DeepLearning.AI founder Andrew Ng discusses Meta\u2019s new AI model and how business incentives stoke public panic on \u2018FBN\u2019s Wall Street.\u2019"
+    },
+    {
+      "headline": "After 30-year sentence in TN AI child abuse case, former FBI agent warns more are coming",
+      "source": "WZTV",
+      "source_url": "https://fox17.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdy1PVkQxdEJjSFdLLWV0R01FQkRPMWxCbmQtY3hyUmptNVp3UHA1ajZYejU1X0Q2VUpJSzl6ZkdlTnU5REZYNk5uRlh0N3J6V3ViU1NtUm9ta21iLXVjbDQtUHF6MnZka1pBMFA4eVZ1QzhTZmthVEg0QXQzQ3lTY2JXTnlYWkF3N2RiSktvMVBTMDhwN2NzNGUxd2gxRnFtUXBzM0VPemlSenhHQkJ2TW1NV3ppZVU?oc=5",
+      "pub_date": 1790386070.0,
+      "article_url": "https://fox17.com/news/local/after-30-year-sentence-in-tn-ai-child-abuse-case-former-fbi-agent-warns-more-are-coming",
+      "image": "https://fox17.com/resources/media2/16x9/830/1320/0x1/90/a4a9547c-fcae-42b1-a1e2-c25d33fe2aed-PATRICKDSWANSON.jfif",
+      "description": "A former FBI agent says investigators should expect more cases involving AI-generated child sexual abuse material after a Portland man was sentenced to30 years."
     },
     {
       "headline": "Michigan CEO loses job after posting AI-made image of her family in \u2018Lake America\u2019 sweaters",
@@ -75,36 +95,16 @@
       "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada"
     },
     {
-      "headline": "Bill Gates says AI companies self-regulating isn\u2019t enough and governments should be involved in monitoring",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTZSNVpkQ0tEcVhwLVJmT3o2Rnp0c3dEd0lkbDZydVVGUmZFLU10RHE0dWl0SzNHUDVrWHhTSS1JX0libWJHaDZpNnFJMlQ0WUlWcHl4NDNQWWNtY1pvUmNBX3oySXVPRkVSdWdaSlp0Z1Z3LUllUlNXUGtKMEh4dnlwTW9vTzdKRW5FYi1CVFpxenhWLWlRZS1ZaDROdW5xZ3VKdEZpVWp4RDlrcktFdlNPUGdTRmpLeF81Vw?oc=5",
-      "pub_date": 1790334041.0,
-      "article_url": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260924-bill-gates-ch-1034-d8ab34.jpg",
-      "description": "The Microsoft co-founder and billionaire philanthropist said AI is capable of helping bad actors harm billions of people."
-    },
-    {
-      "headline": "Bill Gates Warns AI Powerful Enough to Lead to \u2018a Billion Deaths\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVVWkVzak9tdDRaZ3BFcXY3WFQyYW16QnVURlJ3V3hkRG1RQ3FOWXJpSjZMMTdmYmMzaEQ0YWRTeUxLZ2xfYldJZEhqcVRWZnRCVE5mdGZwWWF4TUZ3eTBfWnpiUmxZUTlqeFcyaWlQaHlkYmVaYmxHRHpoNTBlR05UYngtYUJTQ0VyQXdnQk0waVdTeEJR?oc=5",
-      "pub_date": 1790348439.0,
-      "article_url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-warns-ai-powerful-150039056.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/0bf60c9f869210e2c8797477a9a8a1945c179eb1c153c5f6a91dd3c252c02e55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F4741d58d33da56ca7f09d431185de378.jpg",
-      "description": "Microsoft Corp. co-founder Bill Gates warned that artificial intelligence is a \u201cpowerful enough\u201d tool to kill off a substantial portion of humanity, joining a growing chorus of tech leaders and employees calling attention to AI\u2019s existential risks."
-    },
-    {
-      "headline": "Bill Gates says AI could cause events leading to \u201ca billion deaths\u201d",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0g4MkFCNG8yYUhfQ2d6a2owMGl1c3NBZ240ZGIzeFJIX09oa3kwRF94X2ZPNnd4U2lhc0Nnd3dzN0dRTmhlQUltZ3ZYbm9PT0pFRU9pZndNNWRGUE1QeUNfdlZwdW5zd1A4LXRUVkNfMHdyY3pvQWNGUE5YZDBIejAzbHNNNTc2aTVpTQ?oc=5",
-      "pub_date": 1790376443.0,
-      "article_url": "https://www.yahoo.com/news/politics/articles/bill-gates-says-ai-could-224723772.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/1212f82519e7ded290751975a9efd51c0d336ede1fd54aef824fcc23a8bcf553/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F45d563eec416da47711b15003d0e4fd2.jpg",
-      "description": "Bill Gates says AI is powerful enough to contribute to events causing \u201ca billion deaths.\u201d"
+      "headline": "\u2018Lake America\u2019: CEO out after AI-generated sweatshirt image",
+      "source": "NewsNation",
+      "source_url": "https://www.newsnationnow.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2xzcXpuWXVWNzNraVcyeEltWUs0UHpIVzIzNjZpQWYzZ3N5SnJvUS16Z2xFQUpVUUNHbU5FbXF3VkkxZjdaT0M5Y0xMUTVtR3drMzdEWnlmQTdfRnlhVkxSOUpuQVhZSVEyZVlNRHBZQ0lMc2Ztc2lqdjEwdEMxVmdVa3RaUlJuR3E1Wmk5cGdsZ9IBlwFBVV95cUxQbVZjNU9kVmxfbkxNU3FSSFZEbDRRMXlOQl9yT3VvOWc2dHlKd01LNl9ibWRRT1VsOXNSbmlHcUhPNmdhMlFwZ0dZQTNiNHJwWFVla2ROaV9UazBqQ3QtQmtlNjNMQkxkR0dWUzEtMENDWXpMekFCQ3RNN2lWemg1LTdMQndrV19NYXRCTkt1ZXdqeE45N1hn?oc=5",
+      "pub_date": 1790372858.0,
+      "article_url": "https://www.newsnationnow.com/us-news/midwest/michigan-ceo-no-longer-lake-america-photo/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-25T23:08:03.759076+00:00"
+  "fetched_at": "2026-09-26T01:49:33.501901+00:00"
 }
