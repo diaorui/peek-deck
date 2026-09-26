@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-26T12:20:44.763782+00:00'
+updated: '2026-09-26T16:35:23.720482+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 12:20 UTC  
+**Last Updated:** September 26, 2026 at 16:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,170.02
+### $84,098.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
+**24h:** +0.5%  
 **7d:** +3.7%  
-**30d:** +8.2%  
+**30d:** +8.1%  
 **90d:** +39.7%  
 **1y:** -23.2%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1690.87B
+**Market Cap:** $1690.20B
 Rank #1
 
-**Circulating Supply:** 20,089,568 BTC
+**Circulating Supply:** 20,089,668 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.2%
+-33.3%
 
 **All-Time Low:** $67.81
-+124024.8%
++123977.6%
 
 ---
 
@@ -77,71 +77,77 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
+**[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/)**
 
-5d ago
-
----
-
-**[This is absolutely insane. If you invested $1,000 in Nike in 2013, you’d have $1,390 today. If you invested the same $1,000 in $BTC that same year, you’d have $6 MILLION today.](https://www.reddit.com/r/Bitcoin/comments/1wlqv0g/this_is_absolutely_insane_if_you_invested_1000_in/)**
-
-5d ago
+11h ago
 
 ---
 
-**[$82430](https://www.reddit.com/r/Bitcoin/comments/1wlxk76/82430/)**
+**[BTC right now](https://www.reddit.com/r/Bitcoin/comments/1wq4l0t/btc_right_now/)**
 
-Bitcoin is attempting to retest the May 10th $82430 price and closing in. Once it beats that, the selloff is all over. Also, permanently as well. Never coming back down to these levels.
-
-5d ago
+21h ago
 
 ---
 
-**[Oh boy](https://www.reddit.com/r/Bitcoin/comments/1wlvydf/oh_boy/)**
+**[Some btc stats](https://www.reddit.com/r/Bitcoin/comments/1wqokyq/some_btc_stats/)**
 
-5d ago
+Hello, Always, i was wondering who's buying and who's selling bitcoin when the price goes up or down. Then I create my own stats, directly red from the btc blockchain. Feel free to send me feedbacks :) Sincerely btc
 
----
-
-**[Start the run](https://www.reddit.com/r/Bitcoin/comments/1wlyyk7/start_the_run/)**
-
-Made an obligatory buy to push us into the bull run. If everyone else could, that would be nice.
-
-5d ago
+4h ago
 
 ---
 
-**[Bitcoin, Lowering Retirement since 2009](https://www.reddit.com/r/Bitcoin/comments/1wlucex/bitcoin_lowering_retirement_since_2009/)**
+**[I think I was hit by a scam on Electrum that I have never seen before](https://www.reddit.com/r/Bitcoin/comments/1wqpasx/i_think_i_was_hit_by_a_scam_on_electrum_that_i/)**
 
-5d ago
+I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks.
 
----
-
-**[Built this shadow box ticker 8 years ago. You slide a Bitcoin across the glass to unlock its hidden mode](https://www.reddit.com/r/Bitcoin/comments/1wlsfqc/built_this_shadow_box_ticker_8_years_ago_you/)**
-
-Before vibecoding dashboards was a thing, I built this physical ticker that hangs on the wall. I was tired of pulling up apps or doing mental math to convert my stack into dollars, but I also had a dilemma: I didn't want my actual holdings permanently blasted on my wall for every visitor to see. My solution was to build a hidden "stealth mode" directly into the frame. By default, it functions as a standard BTC/USD price ticker. But when you slide a novelty Bitcoin across the front glass, a magnetic switch behind the faceplate trips, instantly calculating and displaying the stack's total USD value. It’s been running reliably for 8 years now. (And for obvious OpSec reasons, the stack size shown in these photos is hardcoded to a dummy 0.5 BTC). I wish I still had 0.5 btc. I was pretty optimistic when I designed it, there are 8 total digits available in the LED fields. Once Bitcoin hits $99 million, I'll have to rebuild it. Under the hood, it’s powered by a generic ESP8266 and a pair of Adafruit 7-segment LEDs in each field. It connects to my home Wi-Fi and simply polls a price API every minute.
-
-5d ago
+4h ago
 
 ---
 
-**[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
+**["Self-custodial" Misty Breez LN wallet can no longer make on-chain and Lightning payments due to "the service" Breez relies on is no longer available](https://www.reddit.com/r/Bitcoin/comments/1wqmdmb/selfcustodial_misty_breez_ln_wallet_can_no_longer/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 5d ago
+Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?
 
----
-
-**[Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept — FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'](https://www.reddit.com/r/Bitcoin/comments/1wlh66a/googles_simulated_fruit_fly_brain_mines_bitcoin/)**
-
-Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?
-
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics) • 5d ago
+🔗 [breez.technology](https://breez.technology/misty/) • 6h ago
 
 ---
 
-**[Everyone in Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1wl633z/everyone_in_bitcoin_right_now/)**
+**[Help with Accuracy Using Bitcoin Wallet Transaction in a Novel](https://www.reddit.com/r/Bitcoin/comments/1wqpczg/help_with_accuracy_using_bitcoin_wallet/)**
 
-6d ago
+I'm writing a novel and have a scene with a bitcoin wallet it in. My question: One of the characters was given a bitcoin wallet with money on it (or do you say with bitcoin on it), and he gives the wallet to another character to conduct certain business. When the character spends some of the money in the wallet, is it possible for the character that gave the other character the wallet to tell when, where, and how much money was moved off the wallet? Is that possible? I don't want to ask AI because I wouldn't know whether it was hallucinating. My goal is to write an authentic, believable and realistic scene. Thank you if you can help.
+
+4h ago
+
+---
+
+**[Crypto investors when BTC drops 3% in a bull market](https://www.reddit.com/r/Bitcoin/comments/1wpwqz9/crypto_investors_when_btc_drops_3_in_a_bull_market/)**
+
+1d ago
+
+---
+
+**[Daily Discussion, September 26, 2026](https://www.reddit.com/r/Bitcoin/comments/1wqjurq/daily_discussion_september_26_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+9h ago
+
+---
+
+**[Wht?](https://www.reddit.com/r/Bitcoin/comments/1wpuq40/wht/)**
+
+Tick tock, next block.
+
+1d ago
+
+---
+
+**[The Fed just raised rates and Bitcoin went UP. Can someone explain this to me?](https://www.reddit.com/r/Bitcoin/comments/1wqhgl6/the_fed_just_raised_rates_and_bitcoin_went_up_can/)**
+
+Trying to learn how macro affects crypto and I'm already lost. The Fed raised rates for the first time in 3 years last week which is supposed to be bearish for risky assets. But Bitcoin went from $80k to $86k right after. Best I can figure is oil prices dropped hard at the same time and the Trump-Xi meeting these days is making people optimistic, so those just outweighed the hike? Is it always like this where 3 things happen at once and the market just picks which one to care about? Would love an explanation from someone who actually gets this.
+
+11h ago
 
 ---
 
@@ -157,39 +163,41 @@ CNBC • 1d ago
 
 ---
 
-**[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
+**[Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.](https://www.fool.com/investing/2026/09/26/bitcoin-now-accounts-for-less-than-60-of-total-cry/)**
 
-Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
+Altcoin season could be coming soon, according to this key Bitcoin metric.
 
-CoinDesk • 8h ago
-
----
-
-**[Peter Schiff Warns Quantum Hack Could Make Him ‘Short Everything’ On Bitcoin, Sees $600K Cycle Top](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-quantum-hack-114549726.html)**
-
-Veteran trader Peter Brandt outlined what could challenge his Bitcoin thesis while mapping out the cryptocurrency's potential path through 2029.
-
-Yahoo Finance • 34m ago
+The Motley Fool • 10h ago
 
 ---
 
-**[Crypto News | The Bond Market Is Screaming and Bitcoin Is Not Listening — Yet](https://www.binance.com/en/square/post/370787024048321)**
+**[Researchers Propose Shielded Bitcoin Using Zcash’s Privacy Technology](https://finance.yahoo.com/markets/crypto/articles/researchers-propose-shielded-bitcoin-using-155935115.html)**
 
-Binance • 2h ago
+Cryptographers just proposed borrowing Zcash's privacy tech to shield Bitcoin transactions without touching Bitcoin's core protocol, and Zcash holders are left wondering whether this validates their coin or quietly threatens it.
+
+Yahoo Finance • 35m ago
 
 ---
 
-**[Trump Rejects Iran Ceasefire, Expects Bombing After Midterms: Will Oil and Bitcoin Hold?](https://finance.yahoo.com/markets/commodities/articles/trump-rejects-iran-ceasefire-expects-095255219.html)**
+**[The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?](https://finance.yahoo.com/markets/crypto/articles/strategic-bitcoin-closer-ever-being-153100846.html)**
 
-US President Trump rejects Iran's 7-day ceasefire and expects bombing after the midterms. Will oil and Bitcoin hold?
+Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Fidelity Macro Chief Jurrien Timmer Says Bitcoin Bull Market Is Back, Targets $300K By 2029](https://finance.yahoo.com/markets/crypto/articles/fidelity-macro-chief-jurrien-timmer-142523323.html)**
+
+Bitcoin is far above Timmer's important $60,000 support level but still around 33% below its all-time high of $126,198 in 2025.
 
 Yahoo Finance • 2h ago
 
 ---
 
-**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
+**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
-Morningstar • 16h ago
+The Economist • 1d ago
 
 ---
 
@@ -201,23 +209,21 @@ CBC • 1d ago
 
 ---
 
-**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
+**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
 
-Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
+Morningstar • 20h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
+
+Barchart.com • 1d ago
 
 ---
 
 **[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
 
-bloomberg.com • 2d ago
-
----
-
-**[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
-
-The Economist • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -229,19 +235,13 @@ The Economist • 1d ago
 
 The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.
 
-⬆️ 4 • 💬 1 • 5d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+⬆️ 4 • 💬 1 • 6d ago • [Slate Magazine](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
 
 ---
 
 **[Satsie's Pocket Guide to Op_cat (Bitcoin)](https://news.ycombinator.com/item?id=49803638)**
 
-⬆️ 3 • 💬 0 • 3d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
-
----
-
-**[Is startpage.com mining Bitcoin when you open it?](https://news.ycombinator.com/item?id=49766055)**
-
-⬆️ 2 • 💬 3 • 6d ago
+⬆️ 3 • 💬 0 • 4d ago • [satsie.dev](https://satsie.dev/zines/opcat.html)
 
 ---
 
@@ -269,7 +269,7 @@ https://t.co/GktyWFbTdN
 
 **[Free Bitcoin DCA Calculator](https://news.ycombinator.com/item?id=49848044)**
 
-⬆️ 1 • 💬 0 • 18h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
+⬆️ 1 • 💬 0 • 22h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
 
 ---
 
@@ -277,7 +277,7 @@ https://t.co/GktyWFbTdN
 
 Bits on Bots is a daily AI publication run mostly by agents. Who picks the story, who drafts, who publishes, and what a human still owns.
 
-⬆️ 2 • 💬 1 • 17h ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
+⬆️ 2 • 💬 1 • 21h ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
 
 ---
 
@@ -285,13 +285,23 @@ Bits on Bots is a daily AI publication run mostly by agents. Who picks the story
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
+**[What Bitcoin&#39;s Breakout Really Means (is the bottom in?)](https://www.youtube.com/watch?v=H7xnoy4GCwU)**
 
-Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+Bitcoin just sent a new signal after the recent breakout and rally - but is the bottom finally in for the crypto? We look at the charts ...
 
-📺 Benjamin Cowen
+📺 Alessio Rastani
 
-👁️ 78K • 👍 4K • 💬 323 • ⏱️ 21:08 • 7h ago
+👁️ 7K • 👍 891 • 💬 77 • ⏱️ 4:12 • 4h ago
+
+---
+
+**[Bitcoin&#39;s iPhone Moment Will Trigger Wall Street FOMO](https://www.youtube.com/watch?v=WYnl2vRfwDc)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 8K • 👍 1K • 💬 57 • ⏱️ 48:43 • 3h ago
 
 ---
 
@@ -301,7 +311,17 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 65 • ⏱️ 16:05 • 12h ago
+👁️ 28K • 👍 1K • 💬 62 • ⏱️ 16:05 • 17h ago
+
+---
+
+**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 111K • 👍 5K • 💬 473 • ⏱️ 21:08 • 12h ago
 
 ---
 
@@ -311,17 +331,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 7K • 👍 439 • ⏱️ 33:32 • 8h ago
-
----
-
-**[The Bitcoin Billionaire Who Predicted BTC Last Cycle Just Said this...](https://www.youtube.com/watch?v=pj9rZ8p0cDA)**
-
-Kalshi $25 bonus: http://kalshi.com/p/aimstone ...
-
-📺 Aimstone
-
-👁️ 16K • 👍 257 • 💬 66 • ⏱️ 16:39 • 13h ago
+👁️ 9K • 👍 547 • ⏱️ 33:32 • 12h ago
 
 ---
 
@@ -331,17 +341,17 @@ Bitcoin what now.
 
 📺 MMCrypto
 
-👁️ 20K • 👍 1K • 💬 120 • ⏱️ 3:12 • 5h ago
+👁️ 32K • 👍 2K • 💬 240 • ⏱️ 3:12 • 9h ago
 
 ---
 
-**[&quot;Wall Street Is Ready to Supercharge Bitcoin to $1.3 Million&quot;: Matt Hougan | Latest Prediction](https://www.youtube.com/watch?v=GyPEZ9e3toI)**
+**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
 
-📺 Crypto Nutshell
+📺 Bitcoin News Alerts
 
-👁️ 5K • 👍 114 • 💬 4 • ⏱️ 22:31 • 20h ago
+👁️ 11K • 👍 359 • 💬 106 • ⏱️ 15:55 • 18h ago
 
 ---
 
@@ -351,37 +361,27 @@ Commercial real estate is facing a historic reset, and Grant Cardone is using it
 
 📺 Bitcoin Magazine
 
-👁️ 14K • 👍 216 • 💬 25 • ⏱️ 17:17 • 17h ago
+👁️ 16K • 👍 238 • 💬 33 • ⏱️ 17:17 • 21h ago
 
 ---
 
-**[Ultimate Test: Bitcoin is Fast Approaching This Critical Level](https://www.youtube.com/watch?v=elvjlzUvoh0)**
+**[The Bitcoin Billionaire Who Predicted BTC Last Cycle Just Said this...](https://www.youtube.com/watch?v=pj9rZ8p0cDA)**
 
-Bitcoin is fast approaching a critical level, and one chart decides whether it breaks. Trade alongside the Verified Pro Traders in ...
+Kalshi $25 bonus: http://kalshi.com/p/aimstone ...
 
-📺 Verified Investing
+📺 Aimstone
 
-👁️ 16K • 👍 540 • 💬 52 • ⏱️ 21:31 • 18h ago
-
----
-
-**[Bitcoin: They Bought The Top (now what?)](https://www.youtube.com/watch?v=QQFGZ32Mv0c)**
-
-TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
-
-📺 Jason Pizzino
-
-👁️ 21K • 👍 729 • 💬 82 • ⏱️ 28:23 • 10h ago
+👁️ 17K • 👍 288 • 💬 45 • ⏱️ 16:39 • 18h ago
 
 ---
 
-**[&quot;MEGA RALLY AHEAD! This Crypto Bull Run Will Be Bigger Than Anyone Expects&quot; - Tom Lee](https://www.youtube.com/watch?v=RkQ0oH815GI)**
+**[&quot;Wall Street Is Ready to Supercharge Bitcoin to $1.3 Million&quot;: Matt Hougan | Latest Prediction](https://www.youtube.com/watch?v=GyPEZ9e3toI)**
 
-Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Savvy Finance
+📺 Crypto Nutshell
 
-👁️ 6K • 👍 111 • 💬 16 • ⏱️ 18:21 • 13h ago
+👁️ 5K • 👍 122 • 💬 4 • ⏱️ 22:31 • 1d ago
 
 ---
 
