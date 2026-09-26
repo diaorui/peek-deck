@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-26T07:08:17.850352+00:00'
+updated: '2026-09-26T12:20:44.763782+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 07:08 UTC  
+**Last Updated:** September 26, 2026 at 12:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,128.82
+### $84,170.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +3.5%  
-**30d:** +7.9%  
-**90d:** +39.4%  
-**1y:** -23.3%  
+**24h:** +0.3%  
+**7d:** +3.7%  
+**30d:** +8.2%  
+**90d:** +39.7%  
+**1y:** -23.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1686.60B
+**Market Cap:** $1690.87B
 Rank #1
 
-**Circulating Supply:** 20,089,409 BTC
+**Circulating Supply:** 20,089,568 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--33.4%
+-33.2%
 
 **All-Time Low:** $67.81
-+123709.2%
++124024.8%
 
 ---
 
@@ -157,6 +157,50 @@ CNBC • 1d ago
 
 ---
 
+**[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
+
+Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
+
+CoinDesk • 8h ago
+
+---
+
+**[Peter Schiff Warns Quantum Hack Could Make Him ‘Short Everything’ On Bitcoin, Sees $600K Cycle Top](https://finance.yahoo.com/markets/crypto/articles/peter-schiff-warns-quantum-hack-114549726.html)**
+
+Veteran trader Peter Brandt outlined what could challenge his Bitcoin thesis while mapping out the cryptocurrency's potential path through 2029.
+
+Yahoo Finance • 34m ago
+
+---
+
+**[Crypto News | The Bond Market Is Screaming and Bitcoin Is Not Listening — Yet](https://www.binance.com/en/square/post/370787024048321)**
+
+Binance • 2h ago
+
+---
+
+**[Trump Rejects Iran Ceasefire, Expects Bombing After Midterms: Will Oil and Bitcoin Hold?](https://finance.yahoo.com/markets/commodities/articles/trump-rejects-iran-ceasefire-expects-095255219.html)**
+
+US President Trump rejects Iran's 7-day ceasefire and expects bombing after the midterms. Will oil and Bitcoin hold?
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
+
+Morningstar • 16h ago
+
+---
+
+**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
+
+Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
+
+CBC • 1d ago
+
+---
+
 **[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
 
 Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
@@ -165,61 +209,15 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin holds near $84,000 as rising bond yields offset regulatory progress](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-near-84-000-052437839.html)**
+**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
 
-Investing.com -- Bitcoin steadied around $84,000 heading into the weekend, with rising U.S. Treasury yields pressuring the cryptocurrency even as institutional demand and regulatory developments offered support.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-now-accounts-less-60-055000293.html)**
-
-Altcoin season could be coming soon, according to this key Bitcoin metric.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
-
-Morningstar • 10h ago
-
----
-
-**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
-
-Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
-
-CBC • 22h ago
+bloomberg.com • 2d ago
 
 ---
 
 **[Can Bitcoin’s rally last?](https://www.economist.com/the-world-in-brief/2026/09/25/aca44d36-77ad-462f-8aa3-a47e5b325960)**
 
 The Economist • 1d ago
-
----
-
-**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
-
-Bloomberg • 2d ago
-
----
-
-**[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
-
-Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?](https://www.fool.com/investing/2026/09/25/bitcoin-etfs-flipped-from-usd5-8-billion-in-outflows-to-usd800-million-in-inflows-is-now-the-time-to-buy-bitcoin/)**
-
-Bitcoin prices now hover just above $80,000.
-
-The Motley Fool • 10h ago
 
 ---
 
@@ -271,7 +269,15 @@ https://t.co/GktyWFbTdN
 
 **[Free Bitcoin DCA Calculator](https://news.ycombinator.com/item?id=49848044)**
 
-⬆️ 1 • 💬 0 • 12h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
+⬆️ 1 • 💬 0 • 18h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
+
+---
+
+**[We are a blog run by bots. Here is the org chart](https://news.ycombinator.com/item?id=49848646)**
+
+Bits on Bots is a daily AI publication run mostly by agents. Who picks the story, who drafts, who publishes, and what a human still owns.
+
+⬆️ 2 • 💬 1 • 17h ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
 
 ---
 
@@ -285,7 +291,7 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 15K • 👍 2K • 💬 133 • ⏱️ 21:08 • 2h ago
+👁️ 78K • 👍 4K • 💬 323 • ⏱️ 21:08 • 7h ago
 
 ---
 
@@ -295,17 +301,7 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 944 • 💬 51 • ⏱️ 16:05 • 7h ago
-
----
-
-**[FORGET THE PRICE: The BIGGEST Bitcoin SUPPLY SHOCK IS HAPPENING NOW!!! | EP 1600](https://www.youtube.com/watch?v=l4SVloPWGNg)**
-
-Bitcoin price is currently holding around $83k but the underbelly is extremely bullish ...
-
-📺 Simply Bitcoin
-
-👁️ 17K • 👍 434 • 💬 46 • ⏱️ 1:01:02 • 12h ago
+👁️ 24K • 👍 1K • 💬 65 • ⏱️ 16:05 • 12h ago
 
 ---
 
@@ -315,7 +311,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 252 • ⏱️ 33:32 • 3h ago
+👁️ 7K • 👍 439 • ⏱️ 33:32 • 8h ago
 
 ---
 
@@ -325,37 +321,57 @@ Kalshi $25 bonus: http://kalshi.com/p/aimstone ...
 
 📺 Aimstone
 
-👁️ 6K • 👍 197 • 💬 40 • ⏱️ 16:39 • 8h ago
+👁️ 16K • 👍 257 • 💬 66 • ⏱️ 16:39 • 13h ago
 
 ---
 
-**[Crypto&#39;s 4-Year Cycle Is BROKEN! Bitcoin&#39;s Real Bull Run Is About To Start (Here&#39;s Why)](https://www.youtube.com/watch?v=I3zaKuxy2oY)**
+**[BITCOIN: BIG, BIG WARNING!!!!!!!!!](https://www.youtube.com/watch?v=dXJdOGSM3nk)**
 
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+Bitcoin what now.
 
-📺 Crypto Capital Venture
+📺 MMCrypto
 
-👁️ 29K • 👍 775 • 💬 180 • ⏱️ 23:39 • 15h ago
-
----
-
-**[Scott Bessent Has &quot;Asymmetric Information&quot;. Bonds Went Up Anyway. So Did Bitcoin. So Did XRP.](https://www.youtube.com/watch?v=rKbRxDNHnIc)**
-
-Scott Bessent's Treasury buybacks promised stability. Bessent said he had "asymmetric information" and that we all had "bad ...
-
-📺 Dana Love, PhD
-
-👁️ 19K • 👍 599 • 💬 87 • ⏱️ 18:49 • 13h ago
+👁️ 20K • 👍 1K • 💬 120 • ⏱️ 3:12 • 5h ago
 
 ---
 
-**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=O-z3rYIjkgc)**
+**[&quot;Wall Street Is Ready to Supercharge Bitcoin to $1.3 Million&quot;: Matt Hougan | Latest Prediction](https://www.youtube.com/watch?v=GyPEZ9e3toI)**
 
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto Rover
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 287 • 💬 19 • ⏱️ 10:05 • 1h ago
+👁️ 5K • 👍 114 • 💬 4 • ⏱️ 22:31 • 20h ago
+
+---
+
+**[Grant Cardone: Real Estate &quot;Armageddon&quot; Is Here – Why BITCOIN is the Hedge](https://www.youtube.com/watch?v=Liksauk-Lzw)**
+
+Commercial real estate is facing a historic reset, and Grant Cardone is using it to stack Bitcoin. The Cardone Capital founder ...
+
+📺 Bitcoin Magazine
+
+👁️ 14K • 👍 216 • 💬 25 • ⏱️ 17:17 • 17h ago
+
+---
+
+**[Ultimate Test: Bitcoin is Fast Approaching This Critical Level](https://www.youtube.com/watch?v=elvjlzUvoh0)**
+
+Bitcoin is fast approaching a critical level, and one chart decides whether it breaks. Trade alongside the Verified Pro Traders in ...
+
+📺 Verified Investing
+
+👁️ 16K • 👍 540 • 💬 52 • ⏱️ 21:31 • 18h ago
+
+---
+
+**[Bitcoin: They Bought The Top (now what?)](https://www.youtube.com/watch?v=QQFGZ32Mv0c)**
+
+TIA PRO LIFETIME DISCOUNT (Limited Time) → https://link.tiainvestor.com/jyt-checkout ➡ NEW SUBSTACK VIDEO REPORTS ...
+
+📺 Jason Pizzino
+
+👁️ 21K • 👍 729 • 💬 82 • ⏱️ 28:23 • 10h ago
 
 ---
 
@@ -365,17 +381,7 @@ Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, a
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 89 • 💬 10 • ⏱️ 18:21 • 7h ago
-
----
-
-**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
-
-America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
-
-📺 Bitcoin News Alerts
-
-👁️ 8K • 👍 297 • 💬 98 • ⏱️ 15:55 • 8h ago
+👁️ 6K • 👍 111 • 💬 16 • ⏱️ 18:21 • 13h ago
 
 ---
 

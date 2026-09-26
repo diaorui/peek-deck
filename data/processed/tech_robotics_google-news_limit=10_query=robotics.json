@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
-      "pub_date": 1790352113.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "description": "Your weekly selection of awesome robot videos"
-    },
-    {
       "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
       "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
@@ -43,6 +33,16 @@
       "article_url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
       "description": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
+    },
+    {
+      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
+      "pub_date": 1790352113.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
@@ -55,34 +55,14 @@
       "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
     },
     {
-      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790304228.0,
-      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Story Behind the Runway Robots at Vogue World 2026: Milano",
-      "source": "Vogue",
-      "source_url": "https://www.vogue.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUtMU1BFYVE1WVV3ZGVuMXpMR1VlMnhuZ2RwX0tqVGlSZVlQMGt4Z2dVMG5NeVI1NUw4a004NmRKZk4zU0NqanhBb3hzV0ZGSVZla25USDZpZ1lVU1RZcWRzMGZSTXY0Y2dOd25EX1dZa3VjWk1jaVRYUUIydUJWMUsyaXl4MFVmUV9hS2hqc3hkVEVHZ2c?oc=5",
-      "pub_date": 1790194572.0,
-      "article_url": "https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano",
-      "image": "https://assets.vogue.com/photos/6ab3f558ce4c8e686d649214/16:9/w_1280,c_limit/GettyImages-2296705457.jpeg",
-      "description": "\u201cIt\u2019s fun, because the robots are fun, but it\u2019s also terrifying,\u201d says Vogue World: Milan\u2019s creative director Juan Costa Paz of the humanoid robots used during Tuesday\u2019s event."
-    },
-    {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247524.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
+      "headline": "Carnegie Mellon professor envisions a world with more robots",
+      "source": "Pittsburgh Post-Gazette",
+      "source_url": "https://www.post-gazette.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONXZWSklwTlVlTkg5dnlwVFlxcW1HdGZQQVQ3VVUwcGNSMlBuNVlnM3hSekZ1WjYtaUkzQ0p3elNicHdOSExUVnpOYndIYTQwOGJBN3VMNHhxamhMUGpXUGFfUTh4b1pHdFV0UkpoaW9zMEVjMkQ3SzJydndfaVhkTTJKVVMwaEJpdjRRajd5d1dHLUV2SmJiTjJ3ZmNsZ01LQ19ELWhlaXRkeFBzUXN4bWxqZnIzSVJKQ1pwWUk5QTh2bUdDd1BIdm1rREZqLXZ3bVlQNDdUSzZMbl9ROExEaWF3?oc=5",
+      "pub_date": 1790411895.0,
+      "article_url": "https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033",
+      "image": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202609230033/1140x_a10-7_cTC/20260923awHowie03_1790213326.jpg",
+      "description": "It wasn\u2019t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and..."
     },
     {
       "headline": "New robotic hand can walk, press keys and move objects on its own",
@@ -96,15 +76,35 @@
     },
     {
       "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "qualcomm.com",
+      "source": "Qualcomm",
       "source_url": "https://www.qualcomm.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
       "pub_date": 1790146800.0,
       "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
       "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
       "description": null
+    },
+    {
+      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
+      "pub_date": 1790304228.0,
+      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How robots are helping solve China's elderly care crisis",
+      "source": "DW.com",
+      "source_url": "https://www.dw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjNDeC1UeFZqaUo5aXdCZnBDblE3eXhUQmd4c0wxNktWWFpUQlgtQ0V1SDFfMHlNVzJtTUY3OGhsclAtMzVRU2dyUll3VWFuVm8zQVVHeXhDSVJHc1V0NTJYSmx3cGFLUG9BQjlaaE12ejExazNUaG1KSWpuRzNyd05NLTlJcGRmNEg3VFFB?oc=5",
+      "pub_date": 1790150879.0,
+      "article_url": "https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571",
+      "image": "https://static.dw.com/image/79308532_6.jpg",
+      "description": "China's population is aging fast, and robots are moving into care homes. Humanoid machines are already helping care workers look after older people."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T07:08:14.063954+00:00"
+  "fetched_at": "2026-09-26T12:20:30.297980+00:00"
 }
