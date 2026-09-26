@@ -25,54 +25,14 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "cnbc.com",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
-    },
-    {
-      "headline": "Labor-scarce Japan counts on AI-powered robots",
-      "source": "japantoday.com",
-      "source_url": "https://japantoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFfYU9idlpRMkk5SEZVV3A2VHlkMTRnVGxtY0NXSS0wQmkycURzU25aYnBrQTA5ZW0tS281ZHUxTXNlV0dTcVE3ZVNTVGQyTnRTclVIWXJLV1IwQmFKVXQxWTQ4Z0JtTmdzdHZoaF9FWUN6YVJCSHhTMnVaVFhZMFBaZUlKdGItSEVfd19aMzVqV25GTlVoaHFlTWppLWI1SFVRSWRZWkdUeUN0YllreERHcw?oc=5",
-      "pub_date": 1790285760.0,
-      "article_url": "https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tesla close to making 1,000 Optimus humanoids a week, but robots struggle with tasks",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUJwTE94d0xIanJVSmZ3bm84dnVuWWQ5enFZelVEd2t0bEplWXJ1dVg2MHNZZG5pbFpreHB6Wi1MTjBOaGdtaVBhSXRKM3czUkxSeXo0UEE4MHQzbWJKNmNGQ2Y4NmEydG91bXl4RVVpTHFjWmVtV2FudWozMUYyUWFEYl9vbDhxWEpyQ2VWbDRPQlE?oc=5",
-      "pub_date": 1790426340.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/tesla-making-1000-optimus-humanoids-a-week",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/tesla-optimus.jpg",
-      "description": "Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain."
-    },
-    {
-      "headline": "Tesla ramps Optimus to hundreds a week, but the robots can\u2019t generalize",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDI3NVZBVWstYkFmTjVYM0MwN1Mya2ZHNkxKWjhlcFBPT3VBTC1sR2lNSnprQlBPTk9RTWkyRlZTQU43dFNiczZFZEFYNGdlci1xLVFlU2JmRXg0Vzg2SEt6NXBscjVQMFFSVkZ4cndleHgyd1hPNXZGR0hFbE9pejZac2dLRC1PN25RSkRYMzZubXU1Ym9aY0xR?oc=5",
-      "pub_date": 1790347500.0,
-      "article_url": "https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?resize=1200,628",
-      "description": "Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize."
-    },
-    {
-      "headline": "Work With Your Hands? That\u2019s One Area Tesla\u2019s Robots Aren\u2019t Cracking Anytime Soon",
-      "source": "PCMag",
-      "source_url": "https://www.pcmag.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NFVk93S000dUtPQXBuT3BhWWZUbmlleGtGemFtdndfbDdRZUpRdzZ3WTdpUUhPOXM5LTdhZEZjSDVldmpJanRRNDRSQXJaSXl5LUpSVWFKSVZUUnhELXJxZThHUVJTMkNGRzltSkctRmx6ZEZpbkVZT1k3a2sxOTA4ajBXdF9US2FOWnJzUndDQ2t1czNMYUdHZS1HRGxP?oc=5",
-      "pub_date": 1790435905.0,
-      "article_url": "https://www.pcmag.com/news/work-with-your-hands-thats-one-area-teslas-robots-arent-cracking-anytime",
-      "image": "https://i.pcmag.com/imagery/articles/01uh8o2bPtW5aNjiG6AJMVr-1.fit_lim.size_1200x630.v1790411052.jpg",
-      "description": "Tesla reportedly struggles with complex engineering of getting the hands of its humanoid robots to work properly; meanwhile, workers have complained that the robots are designed to replace them."
+      "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
+      "pub_date": 1790349608.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
+      "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
@@ -95,16 +55,56 @@
       "description": null
     },
     {
-      "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
-      "pub_date": 1790349608.0,
-      "article_url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
-      "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
+      "headline": "US ally plans robot soldiers to handle dangerous frontline tasks",
+      "source": "interestingengineering.com",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmcDZfREk2RXc0cTd0U3FpbnBTd1AwVkpwOEpvTlhyRmI5WDB5RXVHVFlkS0kwTmUtUUMydDFjNkdBNTBlTVZQWjNXcnVJbzl2UUtISTQxeUhSakF4SmVyTVpOQ05Td3J6WXZoM1FaSnA4TndUeGhsZEI2X2k?oc=5",
+      "pub_date": 1790447460.0,
+      "article_url": "https://interestingengineering.com/military/us-ally-plans-army-of-robots",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/image-1920x1080-2026-09-26T193002.082.png?w=650",
+      "description": "The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat."
+    },
+    {
+      "headline": "Five Million Robots now Operate in Factories Globally",
+      "source": "IFR International Federation of Robotics",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
+      "pub_date": 1790247524.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
+      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
+    },
+    {
+      "headline": "Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3U0cTByRTd2UnJEU29ZQ3B6RTZEN1BNUnNrTVVRNnVHRW5BRW5IUHRIQzRROFJGU1lienlJT3lRMkxIM3BoQmxpRkN1SW02X3FVNi1jcFJtQnZSbXk3dVhnaHRLS292QnpEZ1lkMHhqTmhDNmVUZzJLX3c1b0NlS2FvOTZnV2c5RDZMTFI5OHR2X0xvMjd0VQ?oc=5",
+      "pub_date": 1790439300.0,
+      "article_url": "https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888261%2F26_09_23-humanoid-robots-working-_gettyimages-2240813685-1200x675-128554e.jpg&w=1200&op=resize",
+      "description": "Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate."
+    },
+    {
+      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
+      "source": "techcrunch.com",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
+      "pub_date": 1790275958.0,
+      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
+    },
+    {
+      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
+      "source": "Qualcomm",
+      "source_url": "https://www.qualcomm.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
+      "pub_date": 1790146800.0,
+      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
+      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T19:33:20.055234+00:00"
+  "fetched_at": "2026-09-26T22:25:09.435011+00:00"
 }

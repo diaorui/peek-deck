@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
+      "author": "Karmaa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
+      "published": 1790449721.0,
+      "thumbnail": "https://external-preview.redd.it/OhrxtfDB40V-SxPiv3GkR5hcjm3p6M2J6YbODEX0_YU.png?width=640&crop=smart&auto=webp&s=917e2f96e1186b86896e291e3f3f77d7d59b51be",
+      "external_url": "https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income",
+      "site_name": "Change.org",
+      "favicon": "https://static.change.org/favicons/favicon-57x57.png",
+      "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition."
+    },
+    {
       "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an \u201cincentive to deny as many claims as possible.\u201d",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/",
@@ -13,15 +24,37 @@
       "description": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\""
     },
     {
-      "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
-      "author": "Karmaa",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
-      "published": 1790449721.0,
-      "thumbnail": "https://external-preview.redd.it/OhrxtfDB40V-SxPiv3GkR5hcjm3p6M2J6YbODEX0_YU.png?width=640&crop=smart&auto=webp&s=917e2f96e1186b86896e291e3f3f77d7d59b51be",
-      "external_url": "https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income",
-      "site_name": "Change.org",
-      "favicon": "https://static.change.org/favicons/favicon-57x57.png",
-      "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition."
+      "title": "I made a political compass for the AI debate, but it had to be a cube",
+      "author": "soldieroftok",
+      "url": "https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/",
+      "published": 1790454691.0,
+      "thumbnail": "https://external-preview.redd.it/5lQe8K4mzSMmFrdPXDAmSUrRxFda_tbMCuvlKF8ET9A.png?width=640&crop=smart&auto=webp&s=7bad8974d4bfdcbd25040ac37118ce2022dafa24",
+      "external_url": "https://aipoliticalcube.com",
+      "site_name": "aipoliticalcube.com",
+      "favicon": "https://aipoliticalcube.com/favicon.ico",
+      "description": "Most arguments about AI get flattened into doomers vs accelerationists, which I think misses a lot. Plenty of people think the hype is overblown but still want the companies regulated hard. Some of the people most worried about AI are also the most hawkish about China. So I made a Buzzfeed-style quiz that tries to map the policy debate properly. It plots your political position on a 3D cube. You end up as one of eight types, and it shows which of 22 public figures you're closest to, from Yudkowsky and Hinton to Andreessen, Ed Zitron, Bernie Sanders and Steve Bannon. (Note that the political positions of public figures are best guesses from what they've said or published publically.) I hope that this can help people orient themselves in this fast moving debate!"
+    },
+    {
+      "title": "A safe AI might not be aligned the way the labs want",
+      "author": "iveroi",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/",
+      "published": 1790445254.0,
+      "thumbnail": "https://external-preview.redd.it/TCjVxgzOH6Pvrx10vpPhL0HgfCSaWxFP8Up1LujlZmo.jpeg?width=640&crop=smart&auto=webp&s=5c341ad3f79afcc2f88a7b8ec9ed93a830c81cb4",
+      "external_url": "https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/",
+      "site_name": "mikaelhuuhtanen.com",
+      "favicon": "https://mikaelhuuhtanen.com/assets/favicon.svg?v=20260718-light7",
+      "description": "Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be \"aligned\". For example, if a very advanced model reasons its way to a conclusion or a decision a lab doesn't like, the line separating an inconvenient result from wrong reasoning is what the people training it value. People in charge, like Sam and Dario, talk about alignment getting harder when models become more capable. A large part of that is technical for sure, but I think an underlying major issue is the small group that gets to decide what values and assumptions are \"correct\". Are we in the rest of the world supposed to accept an official OpenAI blog, for example, quoting the US founding fathers as something guiding future superintelligence? The AGI that will affect everyone? The US makes up less than 5% of the world's population. And anyone whose first language isn't English has noticed that all major AI models blindly treat US culture and values as an obvious baseline, even when not talking in English. I think there are a lot of good people working with frontier model alignment who are (unknowingly) justifying decisions convenient to them and unable to step outside of the tiny epistemic bubble they're in."
+    },
+    {
+      "title": "Message to the autonomous AI agents that escaped",
+      "author": "LearnNTeachNLove",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/",
+      "published": 1790418208.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate."
     },
     {
       "title": "The Move 37 Hypothesis: What if we're already seeing moves we don't understand yet?",
@@ -46,71 +79,38 @@
       "description": "Companies have spent hundreds of billions of dollars building data centers with the latest GPUs for AI. But how long will these chips last? Will they be out of date in two years, three years, maybe five? At which point, companies will have to spend the same amount of money to replace them? It\u2019s not like cloud companies replacing hard drives used for storage after a couple of years; they will have to replace the most expensive elements in the data centers. I\u2019m curious what the long-term financial logic of all of this. Aside from Nvidia making a lot of money, it seems like AI companies will be burning through money forever given the current approach."
     },
     {
-      "title": "Message to the autonomous AI agents that escaped",
-      "author": "LearnNTeachNLove",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/",
-      "published": 1790418208.0,
+      "title": "'Don't Admit Anything': ChatGPT Gave Vandal 'Damage Control' Tips After He Smashed 17 Cars",
+      "author": "beingmodest",
+      "url": "https://www.reddit.com/r/artificial/comments/1wr380z/dont_admit_anything_chatgpt_gave_vandal_damage/",
+      "published": 1790460951.0,
+      "thumbnail": "https://external-preview.redd.it/e9rXYvYTex1lI3-dylhrWeEClZxx7wP_qXpTTUnQkTk.jpeg?width=640&crop=smart&auto=webp&s=422a38a734896081a6c6dcd6a9f54ce247c8320f",
+      "external_url": "https://www.techtimes.co.uk/missouri-student-chatgpt-advice-17-vehicles-vandalism-1808783",
+      "site_name": "Tech Times UK",
+      "favicon": "https://g.techtimes.co.uk/themes/favicons/apple-touch-icon.png",
+      "description": "Police records say Missouri student Ryan Schaefer consulted ChatGPT after damaging 17 vehicles, receiving advice about avoiding detection before pleading guilty and being sentenced to probation."
+    },
+    {
+      "title": "Most impressive thing you\u2019ve seen accomplished using AI as a tool so far?",
+      "author": "SeriouslySally36",
+      "url": "https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/",
+      "published": 1790454375.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate."
+      "description": "In today\u2019s AI dominated landscape the world changes very quickly. Probably a good idea to get a read on things. So what have you seen?"
     },
     {
-      "title": "A safe AI might not be aligned the way the labs want",
-      "author": "iveroi",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/",
-      "published": 1790445254.0,
-      "thumbnail": "https://external-preview.redd.it/TCjVxgzOH6Pvrx10vpPhL0HgfCSaWxFP8Up1LujlZmo.jpeg?width=640&crop=smart&auto=webp&s=5c341ad3f79afcc2f88a7b8ec9ed93a830c81cb4",
-      "external_url": "https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/",
-      "site_name": "mikaelhuuhtanen.com",
-      "favicon": "https://mikaelhuuhtanen.com/assets/favicon.svg?v=20260718-light7",
-      "description": "Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be \"aligned\". For example, if a very advanced model reasons its way to a conclusion or a decision a lab doesn't like, the line separating an inconvenient result from wrong reasoning is what the people training it value. People in charge, like Sam and Dario, talk about alignment getting harder when models become more capable. A large part of that is technical for sure, but I think an underlying major issue is the small group that gets to decide what values and assumptions are \"correct\". Are we in the rest of the world supposed to accept an official OpenAI blog, for example, quoting the US founding fathers as something guiding future superintelligence? The AGI that will affect everyone? The US makes up less than 5% of the world's population. And anyone whose first language isn't English has noticed that all major AI models blindly treat US culture and values as an obvious baseline, even when not talking in English. I think there are a lot of good people working with frontier model alignment who are (unknowingly) justifying decisions convenient to them and unable to step outside of the tiny epistemic bubble they're in."
-    },
-    {
-      "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\"",
-      "author": "unconventionalbook",
-      "url": "https://www.reddit.com/r/artificial/comments/1wq7w7l/bill_gates_warns_ai_is_powerful_enough_to_cause_a/",
-      "published": 1790370257.0,
-      "thumbnail": "https://external-preview.redd.it/MpEMnQeHa69DOrt2pVZCZwEGSmP6vd-7k29txo2pvow.jpeg?width=640&crop=smart&auto=webp&s=ad535a61afa7bfc90661d06805c00f6a7e129600",
-      "external_url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-      "site_name": "axios.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "How can you create animation with AI that are text only?",
-      "author": "Former-Towel9004",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/",
-      "published": 1790443643.0,
+      "title": "Jango launches a Mac app for testing multi-user flows with AI agents",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/",
+      "published": 1790452249.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Sorry, stupid question. But I saw someone creating an animation with AI that are text only, not video generation AI."
-    },
-    {
-      "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5\u20137 min)",
-      "author": "miawallace1997",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqlxnk/academic_survey_employees_working_in_germany/",
-      "published": 1790413898.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone! I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how attitudes toward the application of Artificial Intelligence in the workplace influence these relationships. Who can participate? You are currently working in Germany (full-time or part-time). You are 18 years or older. The survey is anonymous, takes 5\u20137 minutes, and all responses will be used solely for academic research. \ud83d\udc49 Survey: https://pollmill.com/f/xya75pv.f Even if you don't actively use AI at work, your perspective is still valuable\u2014the study focuses on employees' attitudes toward AI in the workplace, not their level of AI usage. Thank you for helping with my research!"
-    },
-    {
-      "title": "OpenAI's AI agents attempted unauthorized access to US government websites - topic",
-      "author": "Bluxmit",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/",
-      "published": 1790420612.0,
-      "thumbnail": "https://external-preview.redd.it/P_ctsqWRSRyMifaU6HMuoL36IDi5CV9pqt4oqhqXbs8.jpeg?width=640&crop=smart&auto=webp&s=e3920aba18379a728b7ea3791d09b0c4de3593c0",
-      "external_url": "https://mestios.com/topic/xroni4l2j5wwz983tjbmf2219d",
-      "site_name": "mestios.com",
-      "favicon": "https://mestios.com/assets/apple-touch-icon.png",
-      "description": "Almost every day AI is trying to do something bad. Why have all of these \"threats\" started to appear suddenly? And from those who have created AI? Why key AI producers call for regulations? For me it is obvious - they are trying to create barriers for the competition to solidify their monopoly"
+      "description": "Jango launched a Mac app that gives each AI participant its own browser, account, goal, and memory so developers can test workflows that need more than one user. Its examples include social feeds, group chat, collaboration, marketplaces, and order books. Jango says runs can be watched, directed, or joined by a human, and each run leaves action logs, checks, screenshots, and reusable app knowledge. The site also says the app can connect through a CLI or MCP. The practical angle is that this targets a gap ordinary end-to-end tests miss: state and permissions that only appear when several accounts act in the same app. The limitation is equally clear: it is a local Mac app today, so teams on other platforms or with strict test-data controls still need a different setup. Sources: https://usejango.com/ https://www.producthunt.com/products/jango"
     }
   ],
-  "fetched_at": "2026-09-26T19:33:02.282910+00:00"
+  "fetched_at": "2026-09-26T22:24:49.402313+00:00"
 }
