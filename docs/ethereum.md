@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-26T07:08:17.856693+00:00'
+updated: '2026-09-26T12:20:44.769833+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 07:08 UTC  
+**Last Updated:** September 26, 2026 at 12:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.1%  
-**7d:** +1.7%  
-**30d:** +10.1%  
-**90d:** +66.6%  
-**1y:** -33.0%  
+**7d:** +1.9%  
+**30d:** +10.2%  
+**90d:** +66.9%  
+**1y:** -32.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.15B
+**Market Cap:** $328.51B
 Rank #2
 
 **Circulating Supply:** 122,081,755 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.7%
+-45.6%
 
 **All-Time Low:** $0.43
-+620747.7%
++621440.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-2h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hegotá upgrade frames-devnet-0 live, Nethermind 2.0.0, Daisugi post quantum testnet
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 16h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-mini-2/) • 22h ago
 
 ---
 
@@ -160,11 +160,11 @@ Benzinga • 2d ago
 
 ---
 
-**[SEC Clarifies New Rules For Staked Ethereum](https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-rules-staked-ethereum-062516954.html)**
+**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
 
-SEC staff say liquid staking tokens backed by ETH aren't securities if they stay pure receipts. Here's the catch.
+Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,15 +180,7 @@ CoinDesk • 1d ago
 
 Fundstrat’s Tom Lee expects Bitcoin CRYPTO:BTCUSD to maintain a $150,000 target while arguing Ethereum CRYPTO:ETHUSD could eventually reach $60,000 as tokenization, Wall Street adoption and AI bring a much larger pool of investors into digital assets.Why Lee Calls It Bigger Bull MarketIn a "Money T…
 
-TradingView • 19h ago
-
----
-
-**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
-
-Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
-
-Fortune • 14h ago
+TradingView • 1d ago
 
 ---
 
@@ -204,7 +196,7 @@ markets.businessinsider.com • 1d ago
 
 The broader cryptocurrency market is consolidating on Friday, with Bitcoin (BTC) paring losses slightly above $84,000. Ethereum (ETH) declines in tandem with BTC, undermining early-week gains that propelled most cryptocurrencies to eight-month highs.
 
-FXStreet • 20h ago
+fxstreet.com • 1d ago
 
 ---
 
@@ -212,7 +204,23 @@ FXStreet • 20h ago
 
 Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart.
 
-blockchain.news • 21h ago
+blockchain.news • 1d ago
+
+---
+
+**[ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked](https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/)**
+
+ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
+
+CryptoSlate • 4h ago
+
+---
+
+**[Current price of Ethereum for September 25, 2026](https://fortune.com/article/price-of-ethereum-09-25-2026/)**
+
+Ethereum isn’t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank.
+
+Fortune • 13h ago
 
 ---
 
@@ -220,15 +228,7 @@ blockchain.news • 21h ago
 
 Kingkey Financial International (Holdings) Ltd. ( ($HK:1468) ) has issued an announcement. Jakota Capital (Holding) Group has disclosed that its subsidiary Treasure...
 
-TipRanks • 17h ago
-
----
-
-**[Ethereum Price at $2,717 as ETF Buyers Return – Bull $3,000, Bear $2,200](https://financefeeds.com/ethereum-eth-price-2717-etf-inflows-bull-3000-bear-2200/)**
-
-ETH trades at $2,717 after four straight sessions of US spot ETF inflows. Bull case $3,000, bear case $2,200, with the 10-year yield at 5.11 percent.
-
-FinanceFeeds • 17h ago
+TipRanks • 22h ago
 
 ---
 
@@ -242,17 +242,7 @@ BITCOIN WARNING: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 3K • 👍 223 • 💬 40 • ⏱️ 24:10 • 4h ago
-
----
-
-**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
-
-SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
-
-📺 Paul Barron Network
-
-👁️ 44K • 👍 827 • 💬 146 • ⏱️ 38:35 • 15h ago
+👁️ 9K • 👍 333 • 💬 69 • ⏱️ 24:10 • 9h ago
 
 ---
 
@@ -262,7 +252,17 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 34K • 👍 532 • 💬 51 • ⏱️ 23:38 • 1d ago
+👁️ 36K • 👍 549 • 💬 52 • ⏱️ 23:38 • 1d ago
+
+---
+
+**[Meta Muse A.I. Agents Need ETH 🤖 SharpLink CEO Interview](https://www.youtube.com/watch?v=cIcg9GvxiCs)**
+
+SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement layer for the A.I. agent economy after Meta ...
+
+📺 Paul Barron Network
+
+👁️ 48K • 👍 876 • 💬 145 • ⏱️ 38:35 • 20h ago
 
 ---
 
@@ -272,17 +272,17 @@ Bitmine Chairman Tom Lee says Ethereum's next major breakout is already underway
 
 📺 Coinage
 
-👁️ 97K • 👍 907 • 💬 296 • ⏱️ 39:54 • 2d ago
+👁️ 98K • 👍 915 • 💬 295 • ⏱️ 39:54 • 2d ago
 
 ---
 
-**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
+**[Ethereum: Nobody Is READY For September 30th!!](https://www.youtube.com/watch?v=fqKofUiEqK8)**
 
-Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
+WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
-📺 Braiden Shaw
+📺 Marzell Crypto
 
-👁️ 2K • 👍 38 • 💬 1 • ⏱️ 1:39 • 15h ago
+👁️ 927 • 👍 27 • 💬 41 • ⏱️ 4:56 • 16h ago
 
 ---
 
@@ -292,17 +292,17 @@ Indicators & Metric Charts: https://www.tradeconfidentportal.io/indicators/ Join
 
 📺 Trade Confident
 
-👁️ 905 • 👍 20 • 💬 3 • ⏱️ 4:09 • 12h ago
+👁️ 1K • 👍 22 • 💬 3 • ⏱️ 4:09 • 17h ago
 
 ---
 
-**[Jack Mallers Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 New Prediction]](https://www.youtube.com/watch?v=iyqgKixM6uE)**
+**[Ethereum Missed My Line By $1.38.. Here&#39;s Where I&#39;m Buying](https://www.youtube.com/watch?v=mIdBDUL6XVk)**
 
-Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
+WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
-📺 Crypto Nutshell
+📺 Marzell Crypto
 
-👁️ 20K • 👍 405 • 💬 29 • ⏱️ 19:22 • 2d ago
+👁️ 667 • 👍 16 • 💬 92 • ⏱️ 4:42 • 1d ago
 
 ---
 
@@ -312,17 +312,17 @@ Bitcoin charts, Blackrock, Tom Lee, Ethereum, Tesla, Solana and more! BITUNIX TR
 
 📺 Lark Davis
 
-👁️ 23K • 👍 508 • 💬 46 • ⏱️ 1:07:25 • 18h ago
+👁️ 23K • 👍 515 • 💬 46 • ⏱️ 1:07:25 • 23h ago
 
 ---
 
-**[I Tested How to Earn Ethereum on a Phone in 2026 (Reddit Post)](https://www.youtube.com/watch?v=CnqDYPkGeMU)**
+**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
 
-Earning Ethereum daily on a phone in 2026, is that actually a thing? I found this one on Reddit. A post about picking up a little ...
+Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
 
-📺 Megaproducción
+📺 Braiden Shaw
 
-👁️ 7K • 👍 453 • 💬 310 • ⏱️ 6:54 • 2d ago
+👁️ 2K • 👍 43 • 💬 1 • ⏱️ 1:39 • 20h ago
 
 ---
 
@@ -332,7 +332,7 @@ David Schwartz sold 40000 ETH at $1.05 to put solar panels on his roof. It went 
 
 📺 Jake Claver
 
-👁️ 16K • 👍 501 • 💬 55 • ⏱️ 1:30 • 2d ago
+👁️ 16K • 👍 503 • 💬 55 • ⏱️ 1:30 • 2d ago
 
 ---
 

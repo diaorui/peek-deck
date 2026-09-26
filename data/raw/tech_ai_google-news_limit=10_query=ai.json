@@ -15,78 +15,8 @@
       "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
     },
     {
-      "headline": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVG9HSV92eUxmd0dtSEZBaDRKcDFwRUhYQTVXaWZKelk3ZEFRVVg5NmdfMS1rMmlvVVNpakNuZ2VLU2lZa01KckQ1TjlTaEYxelY0ci1Ia3F0cXdUSEtaRkJOOGptbC1CUzkzeDdvYnBnTWtkQlBlOGY0SU1QNU5mMw?oc=5",
-      "pub_date": 1790366481.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5",
-      "pub_date": 1790376900.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-      "image": "https://i.guim.co.uk/img/media/01a09c7a797fe840f3618b3ad42adebb2b1c2108/647_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=627120343f4165b9d66d8def1f5c750b",
-      "description": "Disclosure reveals \u2060new area of privacy risk for the company and illustrates \u200bhow difficult it is to inventory unauthorized activity tied to its agents"
-    },
-    {
-      "headline": "Scoping out the footprint for AI infrastructure in Massachusetts",
-      "source": "The Boston Globe",
-      "source_url": "https://www.bostonglobe.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkt4ODJlbVk0d2xHYUVwSGRsaVZzMFltZWVyVzFUZXRTYWJPQW1IR1BwNHVTaUpGVDlfYkhLa3N2d1liYVYzTHJ6VWZtZ2pvTXFja2llRmJKQjA3dUc1ZkJXOXQyM3UxaVNuV2RIVGVvYVVRQU5wMk53V3IyYXBJM0gxNDhoTXZrMDRERlY5S01QUnNPUWtJ?oc=5",
-      "pub_date": 1790404402.0,
-      "article_url": "https://www.bostonglobe.com/2026/09/26/opinion/letters-ai-data-center-mass-healey-framework/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/PYNA3HKM46RGZNM4PNQTX7ZCQ4.JPG?auth=c9b43940d3c7a81b8a08d251e5ac591e66c5f6a2d87e3d8eb6765143f96f952e&width=1440",
-      "description": "Readers react to an editorial on Governor Maura Healey's framework, which would balance economic growth with protections for Massachusetts residents."
-    },
-    {
-      "headline": "Venues strike back against AI generated artwork",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRllBU09qN2VZZHh1cndiQjNpeEExVENYNmRlVlVRNl9KMkxPMkVDSlJOdTVRQ09Ld1NBbFpXUk9hUFdNREhoRldmM1h4ZkdjeGJFMDE3Zmx0Q2RDdzNFTDF6YnpuN1JyNU1INTF2SkYxYTVyR2pKNUFuMUZWcnVXS0ZoOUF0d2JSUlFfY0U5UQ?oc=5",
-      "pub_date": 1790403060.0,
-      "article_url": "https://www.yahoo.com/news/world/articles/venues-strike-back-against-ai-061117506.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/dddb9e9a1267f7184cd357ab3d9177ca88178ee1be14d29dcc7f8c49bf6e84b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png",
-      "description": "Caf\u00e9 Kino is the latest venue to ban the use of AI artwork over ethical and sustainability concerns."
-    },
-    {
-      "headline": "Michigan CEO loses job after posting AI-made image of her family in \u2018Lake America\u2019 sweaters",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
-      "pub_date": 1790374920.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
-      "image": "https://i.guim.co.uk/img/media/e44905997f5cadb38f09f93a87fc8f2f8d371861/74_0_4006_3207/master/4006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1bb57149ee10664aa2e488b3cc09edc",
-      "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada"
-    },
-    {
-      "headline": "\u2018Lake America\u2019: CEO out after AI-generated sweatshirt image",
-      "source": "NewsNation",
-      "source_url": "https://www.newsnationnow.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2xzcXpuWXVWNzNraVcyeEltWUs0UHpIVzIzNjZpQWYzZ3N5SnJvUS16Z2xFQUpVUUNHbU5FbXF3VkkxZjdaT0M5Y0xMUTVtR3drMzdEWnlmQTdfRnlhVkxSOUpuQVhZSVEyZVlNRHBZQ0lMc2Ztc2lqdjEwdEMxVmdVa3RaUlJuR3E1Wmk5cGdsZ9IBlwFBVV95cUxQbVZjNU9kVmxfbkxNU3FSSFZEbDRRMXlOQl9yT3VvOWc2dHlKd01LNl9ibWRRT1VsOXNSbmlHcUhPNmdhMlFwZ0dZQTNiNHJwWFVla2ROaV9UazBqQ3QtQmtlNjNMQkxkR0dWUzEtMENDWXpMekFCQ3RNN2lWemg1LTdMQndrV19NYXRCTkt1ZXdqeE45N1hn?oc=5",
-      "pub_date": 1790398564.0,
-      "article_url": "https://www.newsnationnow.com/us-news/midwest/michigan-ceo-no-longer-lake-america-photo/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "American CEO Who Posted AI Photo in \u2018Lake America\u2019 Sweatshirts Is No Longer CEO",
-      "source": "PetaPixel",
-      "source_url": "https://petapixel.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRU8wRzFEaXZ2QnpHWjMxX1VrQUhhcXkzaVQxSVk3VndlVVB0MEY2ekdadWtMUFZMN1BoOENUdTVkaGxQMmVKTkdldE4xcDNUZVN6VXZVbFRrZi1pN2FCdE51V3VsNWt4ZTY2WVNiYnhMVkJjYS1hLVdFMkhtY21hUEc0VEowRjQtRXZVRHIwa0k3SE92ZWMwcTk2RTk0OHZRMjE3TElTVDJ1TGFDWGl4dQ?oc=5",
-      "pub_date": 1790335477.0,
-      "article_url": "https://petapixel.com/2026/09/25/american-ceo-who-posted-ai-photo-in-lake-america-sweatshirts-is-no-longer-ceo/",
-      "image": "https://petapixel.com/assets/uploads/2026/09/american-ceo-ai-edited-photo.jpg",
-      "description": "The CEO says she now realizes that 'AI can be dangerous.'"
-    },
-    {
       "headline": "AI leaders attend Trump-Xi state dinner as Zuckerberg rejects coordinated AI safety",
-      "source": "foxnews.com",
+      "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
       "pub_date": 1790387546.0,
@@ -95,16 +25,86 @@
       "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
     },
     {
-      "headline": "Johnson, Trump set meeting with AI executives",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQktjaE9HZDRFUk5yVGsyc3pUWnIwb25JUGRMLTZib0dZaWZ0MlgxNDl0RUpLb00zZG9Fb1BrYXFvN2gzVnpyc0tlSUZwbUduQ05kcHN0T1dEa25lQWNDQnJqTXFsTWFJd2FsNnZ2czdLMUQxYUwwZDFvQ0c0VGhFbW1tUWpqY2ZicmRDdWxnYzhGalNCa0x4Qg?oc=5",
-      "pub_date": 1790297478.0,
-      "article_url": "https://www.politico.com/live-updates/2026/09/24/congress/white-house-ai-meeting-set-01092993",
+      "headline": "Chinese AI models surge in global popularity \u2014 and Washington is worried",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WcENURW1zdk53NzZqTjBkWEs1MHo0cHZ5aVRwVFJTaXJyQXZjbkF2WDdmaXZ1LUNCWlVDSl9MVGdWUnVhZWVlNzA4ZlROTmhnU1haNExYeGQ0ZzNLaUNyLV9aLTBGVkpBTnFYU19R0gFzQVVfeXFMTV9jbnMyWVNVNUlUMXNvNmdid2lNZlIzNVZlT05USXJ0NzJHNXY5UDhRd0FjbEJnUGNhdkJqV3hPNHhaUUdYTlNZRjg1d0pLOE1qT2NzaXh1ODJlT3gtcHcyR01zd0JHTDJoZGJtOXJlNDZhbw?oc=5",
+      "pub_date": 1790398801.0,
+      "article_url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108296706-1777015790399-gettyimages-2195904316-TFSPI_28012025-4051.jpeg?v=1777016004&w=1920&h=1080",
+      "description": "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026."
+    },
+    {
+      "headline": "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5",
+      "pub_date": 1790421495.0,
+      "article_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Pope Leo draws vast crowds in Paris, warns of AI \u2018paradise of machines\u2019",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXZ2NHUxRjQ4ZlJFZ1R5WXVJUWxQdDVITGtGTmNhTFpZcXJQY2xjV1c5bjNDQWRjR3JjVzlYdzEzT19ZLW5kSFpkTWVXdU5HcVY5Y3hNSGJnTXFrT3laZi1SQkttNXptQmk2OEI0ZkNPcTFkZEM1NENSOFMyeTdMRHlYaWRCZVhTa0hMUk5FbUhxODcwV3d5Z2x0dERidE5WTDVQM1dMeUdfVUpUTkszVmtuZw?oc=5",
+      "pub_date": 1790421120.0,
+      "article_url": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-draws-vast-crowds-paris-warns-ai-paradise-machines-rcna599958",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-pope-nd-f34da1.jpg",
+      "description": "A planned Mass is expected to draw hundreds of thousands to fill the Champs-\u00c9lys\u00e9es, essentially the heart of Paris and a symbol of the secular French republic."
+    },
+    {
+      "headline": "AI is the inheritance few young people asked for",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONEFMdjRTdHZxWkd1MjR5a0xtM203a0tVV0Rha2lDRjBfdFZPMUlnRFNKMjhXQl81bmpjUmJrcFRJazZtMHlSaDl6RTBUMmdDSHhESEFnWmNoVy1kTWluTVlQTjhlQXBRRGgwZ0NCUVJjc1J5YzZGdVNWcjg4eklLLQ?oc=5",
+      "pub_date": 1790423716.0,
+      "article_url": "https://www.axios.com/2026/09/26/ai-jim-vandehei-young-people-letter-future",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "He\u2019s Completely Terrified of AI\u2014and He\u2019s About to Make Billions Off It",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEUweHctVl9pRnc0TzVDWEtNS29fZ3o3dDVYbkYyQkxNRzY2VmlGODZ3VzFWak1NeF9rVm5WT3Z1WFl1TzNMQy1INU9xejdmMV90bzV6emlpV3ltY1VDVGNZV09Ib1c3RTM2VlJMaw?oc=5",
+      "pub_date": 1790377200.0,
+      "article_url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018Pink Slime\u2019 Is Infecting AI Chatbots Ahead of the Midterms",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnJrckgxY1RjbFB5WDI0U1VyQ0ppVjZJbW95VU40TG5HV3gzdE9zclhLc052VDFUd2J5eU5VOTlTMVNBWS1qY2U2TVFlbUNPQkNkQzFER1FISUJqU3dWUmVsREJBRUNrbFR5Q1NmSkp4UmhNS2h6WWxvekRJTzVtNU5peUlIel9WLWpINTJweUtwZw?oc=5",
+      "pub_date": 1790326740.0,
+      "article_url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5",
+      "pub_date": 1790413200.0,
+      "article_url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fe9%2F740a82844c44bf409fd71dd0fcba%2F2026-09-ai-factions-final.jpg",
+      "description": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
+    },
+    {
+      "headline": "How the U.S. and Russia weakened a global effort to regulate killer AI",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
+      "pub_date": 1790424165.0,
+      "article_url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4ISJA5NDI5C5XI7DSX2HUQIMEY.jpg&w=1440",
+      "description": "The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T07:08:13.664250+00:00"
+  "fetched_at": "2026-09-26T12:20:43.161145+00:00"
 }
