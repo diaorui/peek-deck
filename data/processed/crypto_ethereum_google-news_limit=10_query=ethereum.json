@@ -5,84 +5,44 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
+      "headline": "Ethereum\u2019s $2,540 Retest Becomes Key Test for the Rally",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMllNRGlia0VIWFRTNXF6S0pvVExMdzhNbHNVLXp2bzhpSi1nMUtMRnl1SXFsOHB5ckJLQ1ZzMXIza2NFTnhwU2lGTkJFcFlaZl9QZ01DU1FXcVg4SFl5OUpwS0pOemY5djByZkdJcEpERHkxQjFIM0ZQeFlmdlBtekw5Qlo1NjRNaE5EM3MyTjgxbmZicG5OU1F2THpOY3Izd1F0ek1wVm9GQWpuc3dtOTYyMk1xYkJYZF95b0lqMi1kNmwwNVNUNjFvaUFXTmVWcjlzS25jR0V1Rjk2THZHRHJRbXAzVER1dVZadlZPSjlRNllmdmhZV1N4U3N2UV8xQkJn?oc=5",
-      "pub_date": 1790335848.0,
-      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
-      "description": "Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET."
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0wwQXF0MVVRUWlaMUVGQ2pxWUNVZEY5dGxkZFhLS1ZpMG9KYTNITUZCc0RJZ2pnV1F4TVBsYzZVT3Iyd1BDSU9iRWZkV2R4U2pOTmt6SnBpcGh1VkVURVpmY2lHbXdfZ1Z5SXJ0LThOZDd5TW9ZbTdfQzhxdnpwcExhaVdOM0ZRaVA2NWtrR0ZXTDVOM2pXdW93?oc=5",
+      "pub_date": 1790439268.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-2-540-retest-becomes-161428699.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/260918b84f7b02ba02843a463755c278c9dcb37560006cfba47a658f82979e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2F8ba780fff36f174b913b59b9257349c6",
+      "description": "In today\u2019s Ethereum news, ETH was trading near $2,728 on September 25. That is up about 3.13% over the past 24 hours, on volume near $13.7 billion, with a market cap of about $333 billion. The bounce follows a pullback from above $2,800 that briefly dipped toward $2,640 on September ..."
     },
     {
-      "headline": "Bitcoin at $150K, Ethereum at $3K? Tom Lee Says Bull Market Is Underway - Grayscale Bitcoin Mini Trust (B",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc2RTVGxTZEsya2NFWEZZdnlJazF0UnFvcmF5UDRDMG9hMFAwTld1bndqQ250SkpGV3ZtUmR5QWVjS0VmTE5kOWFocExtYnAzNUJfVnJrTnBkYmFnQUdwR0ZrSXR1LWNWLWdRLVZ2QUFHVXlpTWdrcldkbFdXSlE4N21IY0g5dFotdlV6ZWc0cWxWdUZpR180MVc0TjhleWtwb3VXZXVWLUc3VGI5ZkxueGV6RU5IcUpNMF9TdEc3bVd2TFlxMUVhNnQ0dXRpRzhFMkYwX0djRGRucm5DTVJQbHBKWUEtTFItUnM0?oc=5",
-      "pub_date": 1790337837.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61992425/bitcoin-eyes-150k-ethereum-to-top-3k-tom-lee-says-cryptos-biggest-bull-market-may-be-underway",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/25/tom-lee-dall-e.png",
-      "description": "Tom Lee says crypto\u2019s bull market has begun, targeting $150K Bitcoin and $60K Ethereum, driven by tokenization."
+      "headline": "SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU9GYWN4WWtmbzBVV2pmMlU4MW12ajhXaDRTdTJ3MmRleG9EdFVmNVllWkE0SUpleTR4U3dQRW85NEN1b1Zrc0JFY1VBWE9BRGZ0eVFjX1RHbkxLT2FVS3ZIUmJjSEZ4Z1Q1enNfUU5XZGdnUC16bExJMzRVTW10c1FtWTBJNDVxNGFGZXcyN21EbXpJV0lxSWN6Q2JMV3RDanpV?oc=5",
+      "pub_date": 1790446284.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-ethereum-staking-rules-181124193.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/772584e275ebe35551e5ed841e97d975c8a46bc5e7e2d05e5bbd8d49ab551653/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbec197faaf16a4d65164cabf211f540d.jpg",
+      "description": "The SEC just told Ethereum stakers they are not selling securities, but the guidance can vanish without a vote, leaving billions of dollars worth of queued ETH in a regulatory gray zone."
     },
     {
-      "headline": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmVBVnNiZmJ2eDFfRm9EeGEzbnYyZjdwbHV2TFVidlNTelZaUEM0UlF5RXZiUDl0RmZfRDJCVnpyOXlQcXFtbVloMjc3aDAySnhXZkdfc1BEaVhjSWw2eVphOUtqOVF5bmFOcjN2cnFiUlAzTmw4TW5Ha05vN2loa2N2ZlJXNTNMRnZfaFhBcVVJcVVQbFMxYmtGbjRkSk00TzRvcWNhRC1CTTVIWVcxaFpRUDc?oc=5",
-      "pub_date": 1790407829.0,
-      "article_url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
-      "description": "ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market."
+      "headline": "A Former BlackRock Executive Calls Bitcoin an \u201cExit Asset\u201d and Ethereum \u201cthe New Rails.\u201d Bitwise Says the Opposite.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFF2Umc1T0pYZ0swWWVZcjRXdFNiZS1sdVNZS1VtMjc2MUs0cG9jZUYtaTZsNm1tdkx4SzQ2QXptWTV1T3BlX3ZYQVNONzVGY3hYd2NOWGVNS1k2TzhDTUJra0NzQWNTUWlfX2UxREVvMkVJc3ZPUkdIMkVBemdSaU9BdnNBWHlYWGFMTVU0QTVKekhSUFE0dk9uQmo3VTd3NmE3YkpDSWQ?oc=5",
+      "pub_date": 1790444994.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/871684492fb21623d3b0138bec220323bb15a8766a2c2bf823fc0211125611c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F8b099bf884daa9e57357a9aaa184e6b0.jpg",
+      "description": "A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call."
     },
     {
-      "headline": "Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNk5rQWg0WG82WWtTUGJlLUNzc28zQ2dmUTYwQ0RubDB3Y2tPNDBGYWV6MnZFS0FxQmFONndrcFotQlVJOFdjbm9FNnBVQ3hiLU5CUzloTDB0NmlxTS1Vbm1uZGdrSzVFczN6eHNPd3pRa1gyNVp4RXV4cENBRFJaZ0xteTJLeUEyMG42MjktZXJjQTYzNkc1UnZWdFFXWHpoQmQ2ZWdqdHpmY0hVMGx6THoyZFI0N3hIVlpQVkVTWjMzcVFxSzBNeW9lczNBeDVfZ3dDVHhpR21FNncxeXltakx4NmRPR1E?oc=5",
-      "pub_date": 1790318146.0,
-      "article_url": "https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356",
-      "image": "https://ml.globenewswire.com/Resource/Download/9421c0aa-e775-4392-a8e2-39d241101639/ajsbgjhd.png",
-      "description": "NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to..."
-    },
-    {
-      "headline": "Bitcoin Is the Only 'Universal' Bet, Bitwise Says\u2014Ethereum, Solana Must Prove 'Something Has to Work'",
+      "headline": "Tom Lee Says \u2018Stay Tuned\u2019 As Bitmine Nears 5% Ethereum Goal, Hints At What\u2019s Next",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMnlqRG43WmhlZFFydEh5bVJfX3FkemFWcUh5V3I0Z3ROVXRLeFNaeDVzbXAxRkh3NGhVdnlscGVtRkZlY3pXazRlOUc2M1FYV3U1bmlVUHJMUTBkWkZMMW5vazlGMmQyZWZBWkcwSThVSzdZY083eHl0NEpTaGZqa0h1QVpWRGlwQUJaM01JYzM0WDZKU1ByRzRrdHAwSWVKVDZQdFlkTjlyQTB6RWxpcEtNU2FEMEY3TkxmWUZ6TXBxTTlPUjd5V0RCbXlCZlVBWUZrbGJqUEZmendLR3d3U24yclNndXJIZFE?oc=5",
-      "pub_date": 1790272938.0,
-      "article_url": "https://www.tradingview.com/news/benzinga:a86f1ee54094b:0-bitcoin-is-the-only-universal-bet-bitwise-says-ethereum-solana-must-prove-something-has-to-work/",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTy0yZVlzV0Vyc3JfN1l3ZWFXLXVQUzk3RzRVbms3U05OOG1aRzlONkF0cWdoV0pVLXMxdms0MHlFcjN3OHpfbFBteDBtRXJTMEtpdTlGNU9YWXR6TEtmMjlsRFZHakx5NmdFUm1aNVlKUllMYmJMM0NYRWx5ZWlwVUtqRFpuazhEaGtRb1M1ZmZ2UU9jRjM2QUNONVozdERRME1iRmE0ajZ4UkZvOUdUZmdfejBOVk42UXJYOVlNZXQyLXJ1aFZkSF9LVDZKWTJrR1RXSw?oc=5",
+      "pub_date": 1790426240.0,
+      "article_url": "https://www.tradingview.com/news/stocktwits:8df62c3dd094b:0-tom-lee-says-stay-tuned-as-bitmine-nears-5-ethereum-goal-hints-at-what-s-next/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Bitwise interviewed 15 major institutions and found every one that owns crypto holds Bitcoin CRYPTO:BTCUSD, while Ethereum CRYPTO:ETHUSD and Solana CRYPTO:SOLUSD must still earn their place.Why Bitcoin Stands AloneBitwise wrote in its September 2026 institutional adoption report that Bitcoin is the\u2026"
-    },
-    {
-      "headline": "Ethereum: Quick Slots EIP-8198 Spec Merged",
-      "source": "blockchain.news",
-      "source_url": "https://blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEdYUGdXSWNxT0lRZEg2TjFhb3dsOEpXYTRwelBuREo1c3RGVDJ4OTQyY1E4SnltamxVTTBlaDNPd1hpbzVPcFY1cWdkOXVDU2FOa2oyYWdJOS1NZnhLRUV5c0RMb091NEo0WkQ0NHJjRGM3cWxlbm5aSmczTnBJYg?oc=5",
-      "pub_date": 1790328525.0,
-      "article_url": "https://blockchain.news/flashnews/ethereum-quick-slots-eip-8198-spec-merged",
-      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
-      "description": "Ethereum EIP-8198 Quick Slots merged into consensus specs by @jih2nn, advancing slot time reduction with ETH at $2670.36 on 4h chart."
-    },
-    {
-      "headline": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDg4TXJRVXVWeFI3a1A1YkZrY3NtZUNrdnRVa09TZlNNZW1kS2hUczF4OGVzZHZhQTdxVmM4a29wa0VLeTNWUTl0cy1iMmVnRDRvZmZsUGpRVFVPbGdLVTczQ0d0TE4xR2lhdmk2QkRwSVlGMnlqQjZmWGxzLW5qUmw4bTdkMmZHNnU0TEdOQ3VYQzhlWldOclVSV2dCeTZReXpNMzdKQUNuN1E4RXk4MzZ0akdpamxLNF8zaEFLVUNjZlRjS1FDREswZlZuMmRuMFRVcg?oc=5",
-      "pub_date": 1790258523.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-      "description": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains."
-    },
-    {
-      "headline": "Current price of Ethereum for September 25, 2026",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VDZpSWpzOWRrdlRJMXkxMzBLYkdyYlpPUDFFX1ZCSzBPeHVaYVNyVjE4bmhPdC1GOVZPSHdiRGczZ29QVE5PblVXOFJVVjlweUJsUGllSV9fNXlwRVBxWHRnVXVJVUJW?oc=5",
-      "pub_date": 1790341200.0,
-      "article_url": "https://fortune.com/article/price-of-ethereum-09-25-2026/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-25.jpg?resize=1200,600",
-      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+      "description": "Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to \"stay tuned\" for what comes next, stopping short of naming a new target.Speaking on the\u00a0Coinage podcast on Thursday, Lee explained that the 5% goal had arr\u2026"
     },
     {
       "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
@@ -95,16 +55,56 @@
       "description": "Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally."
     },
     {
-      "headline": "Bitcoin Is an 'Exit Asset'\u2014Ethereum Is the New Rails Bet, Ex-BlackRock Exec Says",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2k1VVI0eUVQUFhBNVNkT2FuZlpXNThqWjE4bVlIdFVPTHBNRWh2Q0lmM2dHQ3JaUWthVGJiYTFyZjdDY1g1V3lvbnlaY2RtblREUXBJZTljNWVzUGkwX2ttcjlNb2RaYTdaUGhxbzRudHFJaHNKS3kyMTNfYVY0WmdsWlBaSkQ2N0dlRDBBMUVocHdaY1ZlcUozNUpJS05rZ3NiZXNBVDVrNzFhSE4tVGpQdFdjd1lTZE51RXA2ZW5BM2tJQjFueTl3RDNtUEY0M2xxX0RB?oc=5",
-      "pub_date": 1790359378.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/62004766/bitcoin-is-an-exit-asset-ethereum-is-the-new-rails-bet-ex-blackrock-exec-says",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/25/Two-Coins-Bitcoin-And-Ethereum-On-A-Dark.jpg",
-      "description": "SharpLink CEO Joseph Chalom calls Bitcoin an exit asset and backs Ethereum as the financial rail for stablecoins, DeFi and AI agents."
+      "headline": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmVBVnNiZmJ2eDFfRm9EeGEzbnYyZjdwbHV2TFVidlNTelZaUEM0UlF5RXZiUDl0RmZfRDJCVnpyOXlQcXFtbVloMjc3aDAySnhXZkdfc1BEaVhjSWw2eVphOUtqOVF5bmFOcjN2cnFiUlAzTmw4TW5Ha05vN2loa2N2ZlJXNTNMRnZfaFhBcVVJcVVQbFMxYmtGbjRkSk00TzRvcWNhRC1CTTVIWVcxaFpRUDc?oc=5",
+      "pub_date": 1790407829.0,
+      "article_url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
+      "description": "ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market."
+    },
+    {
+      "headline": "Current price of Ethereum for September 25, 2026",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VDZpSWpzOWRrdlRJMXkxMzBLYkdyYlpPUDFFX1ZCSzBPeHVaYVNyVjE4bmhPdC1GOVZPSHdiRGczZ29QVE5PblVXOFJVVjlweUJsUGllSV9fNXlwRVBxWHRnVXVJVUJW?oc=5",
+      "pub_date": 1790341200.0,
+      "article_url": "https://fortune.com/article/price-of-ethereum-09-25-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Price-of-Ethereum-Sep-25.jpg?resize=1200,600",
+      "description": "Ethereum isn\u2019t just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of a company or bank."
+    },
+    {
+      "headline": "Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNk5rQWg0WG82WWtTUGJlLUNzc28zQ2dmUTYwQ0RubDB3Y2tPNDBGYWV6MnZFS0FxQmFONndrcFotQlVJOFdjbm9FNnBVQ3hiLU5CUzloTDB0NmlxTS1Vbm1uZGdrSzVFczN6eHNPd3pRa1gyNVp4RXV4cENBRFJaZ0xteTJLeUEyMG42MjktZXJjQTYzNkc1UnZWdFFXWHpoQmQ2ZWdqdHpmY0hVMGx6THoyZFI0N3hIVlpQVkVTWjMzcVFxSzBNeW9lczNBeDVfZ3dDVHhpR21FNncxeXltakx4NmRPR1E?oc=5",
+      "pub_date": 1790318146.0,
+      "article_url": "https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356",
+      "image": "https://ml.globenewswire.com/Resource/Download/9421c0aa-e775-4392-a8e2-39d241101639/ajsbgjhd.png",
+      "description": "NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to..."
+    },
+    {
+      "headline": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDg4TXJRVXVWeFI3a1A1YkZrY3NtZUNrdnRVa09TZlNNZW1kS2hUczF4OGVzZHZhQTdxVmM4a29wa0VLeTNWUTl0cy1iMmVnRDRvZmZsUGpRVFVPbGdLVTczQ0d0TE4xR2lhdmk2QkRwSVlGMnlqQjZmWGxzLW5qUmw4bTdkMmZHNnU0TEdOQ3VYQzhlWldOclVSV2dCeTZReXpNMzdKQUNuN1E4RXk4MzZ0akdpamxLNF8zaEFLVUNjZlRjS1FDREswZlZuMmRuMFRVcg?oc=5",
+      "pub_date": 1790258523.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains."
+    },
+    {
+      "headline": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMllNRGlia0VIWFRTNXF6S0pvVExMdzhNbHNVLXp2bzhpSi1nMUtMRnl1SXFsOHB5ckJLQ1ZzMXIza2NFTnhwU2lGTkJFcFlaZl9QZ01DU1FXcVg4SFl5OUpwS0pOemY5djByZkdJcEpERHkxQjFIM0ZQeFlmdlBtekw5Qlo1NjRNaE5EM3MyTjgxbmZicG5OU1F2THpOY3Izd1F0ek1wVm9GQWpuc3dtOTYyMk1xYkJYZF95b0lqMi1kNmwwNVNUNjFvaUFXTmVWcjlzS25jR0V1Rjk2THZHRHJRbXAzVER1dVZadlZPSjlRNllmdmhZV1N4U3N2UV8xQkJn?oc=5",
+      "pub_date": 1790335848.0,
+      "article_url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/4783a7ed62cfff970b202e18a949a0f88ecd2a8baa8427a2e5526e7cfcf5a99d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbitcoin_2_9860.jpg",
+      "description": "Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T16:35:17.543807+00:00"
+  "fetched_at": "2026-09-26T19:33:22.689812+00:00"
 }

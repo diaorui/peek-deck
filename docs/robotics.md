@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T16:35:23.729731+00:00'
+updated: '2026-09-26T19:33:23.877928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 16:35 UTC  
+**Last Updated:** September 26, 2026 at 19:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-1d ago
+2d ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 19h ago
+Ars Technica • 22h ago
 
 ---
 
@@ -124,19 +124,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
-
-Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
-
-The Robot Report • 1d ago
-
----
-
 **[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
 
 The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
-CNBC • 2d ago
+cnbc.com • 2d ago
+
+---
+
+**[Labor-scarce Japan counts on AI-powered robots](https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries)**
+
+japantoday.com • 1d ago
 
 ---
 
@@ -144,7 +142,7 @@ CNBC • 2d ago
 
 Tesla is ramping up Optimus production fast, but problems with learning, reliability, and dexterity remain.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 6h ago
 
 ---
 
@@ -160,27 +158,27 @@ Electrek • 1d ago
 
 Tesla reportedly struggles with complex engineering of getting the hands of its humanoid robots to work properly; meanwhile, workers have complained that the robots are designed to replace them.
 
-PCMag • 1h ago
+PCMag • 4h ago
 
 ---
 
 **[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
 
-nytimes.com • 2d ago
-
----
-
-**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
-
-Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
-
-TechCrunch • 23h ago
+The New York Times • 2d ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 1d ago
+breakingdefense.com • 1d ago
+
+---
+
+**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
+
+Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
+
+The Robot Report • 1d ago
 
 ---
 
@@ -188,13 +186,13 @@ Breaking Defense • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
+**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
 
-Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
+Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
 
-📺 America's Got Talent
+📺 World Best Talent
 
-👁️ 705K • 👍 6K • 💬 678 • ⏱️ 4:18 • 3d ago
+👁️ 100K • 👍 593 • 💬 39 • ⏱️ 25:31 • 16h ago
 
 ---
 
@@ -204,17 +202,17 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 10K • 👍 235 • 💬 24 • ⏱️ 6:10 • 1d ago
+👁️ 11K • 👍 239 • 💬 27 • ⏱️ 6:10 • 1d ago
 
 ---
 
-**[Humanoid Robots Took Over the AGT Stage… And the Judges FEAR the Future of AI](https://www.youtube.com/watch?v=KUDiHi2kNkg)**
+**[Unitree Brings Humans And Robots Together For A SPELLBINDING Performance | The Final | AGT 2026](https://www.youtube.com/watch?v=hwV561PU4Ho)**
 
-Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable mix of robotics, dance, and martial arts, earning ...
+Humans and robots move together in perfect harmony as Unitree delivers a breathtaking performance unlike anything else on the ...
 
-📺 World Best Talent
+📺 America's Got Talent
 
-👁️ 65K • 👍 453 • 💬 31 • ⏱️ 25:31 • 13h ago
+👁️ 712K • 👍 6K • 💬 684 • ⏱️ 4:18 • 3d ago
 
 ---
 
@@ -224,7 +222,37 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 22K • 👍 140 • 💬 17 • ⏱️ 12:11 • 4d ago
+👁️ 22K • 👍 140 • 💬 18 • ⏱️ 12:11 • 4d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 589K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 36K • 👍 553 • 💬 55 • ⏱️ 0:16 • 5d ago
+
+---
+
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
+
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
+
+📺 RoboFrontier
+
+👁️ 58K • 👍 216 • 💬 63 • ⏱️ 4:15 • 5d ago
 
 ---
 
@@ -238,53 +266,23 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 ---
 
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 35K • 👍 552 • 💬 55 • ⏱️ 0:16 • 5d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 57K • 👍 211 • 💬 63 • ⏱️ 4:15 • 4d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 583K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
-
----
-
 **[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
 
 Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
 
 📺 NBC News
 
-👁️ 351K • 👍 490 • 💬 66 • ⏱️ 0:59 • 3d ago
+👁️ 352K • 👍 503 • 💬 67 • ⏱️ 0:59 • 3d ago
 
 ---
 
-**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
 
-LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
 
-📺 DPCcars
+📺 ejunky66
 
-👁️ 5K • 👍 17 • 💬 3 • ⏱️ 1:37 • 23h ago
+👁️ 76K • 👍 958 • 💬 145 • ⏱️ 1:00 • 6d ago
 
 ---
 
