@@ -20,25 +20,6 @@
       "project_page": null
     },
     {
-      "id": "2609.24984",
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
-      "organization_name": "TencentARC",
-      "organization_fullname": "ARC Lab, Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
-      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24984",
-      "arxiv_url": "https://arxiv.org/abs/2609.24984",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 151,
-      "num_comments": 4,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/TencentARC/WorldCrafter",
-      "github_stars": 350,
-      "project_page": "https://drexubery.github.io/WorldCrafter"
-    },
-    {
       "id": "2604.09557",
       "title": "SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding",
       "authors": "Talor Abramovich, Maor Ashkenazi, Carl et al. (9 authors)",
@@ -54,8 +35,27 @@
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 4428,
+      "github_stars": 4556,
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
+    },
+    {
+      "id": "2609.24984",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu et al. (11 authors)",
+      "organization_name": "TencentARC",
+      "organization_fullname": "ARC Lab, Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24984",
+      "arxiv_url": "https://arxiv.org/abs/2609.24984",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
+      "upvotes": 152,
+      "num_comments": 4,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/TencentARC/WorldCrafter",
+      "github_stars": 354,
+      "project_page": "https://drexubery.github.io/WorldCrafter"
     },
     {
       "id": "2503.11576",
@@ -73,7 +73,7 @@
       "num_comments": 19,
       "published_at": "2025-03-14T12:44:14.000Z",
       "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 67955,
+      "github_stars": 67967,
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
@@ -88,11 +88,11 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 55,
+      "upvotes": 56,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
-      "github_stars": 320,
+      "github_stars": 328,
       "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89164,
+      "github_stars": 89182,
       "project_page": null
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 3,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GameHorizon",
-      "github_stars": 247,
+      "github_stars": 256,
       "project_page": "https://gamehorizon-suite.github.io/"
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 10302,
+      "github_stars": 10318,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -172,26 +172,26 @@
       "project_page": null
     },
     {
-      "id": "2609.24972",
-      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-      "authors": "Peng Xia, Rujun Han, Zifeng Wang et al. (14 authors)",
-      "organization_name": "google",
-      "organization_fullname": "Google",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/WtA3YYitedOr9n02eHfJe.png",
-      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasingly automate this process by iteratively proposing and selecting component-wise edits of an agent harness, practically establishing a form of recursive self-improvement (RSI) at the agent-system level. However, such recursive evolution may overfit by memorizing the training tasks, showing large in-distribution gains that shrink or even vanish on out-of-distribution benchmarks. We introduce Regularized Recursive Self-Improvement of Agent Harnesses (RRSI), which incorporates the principles of regularizations into harness self-improvement by constraining the evolution candidate proposal and selection. The proposer operates with a temporally annealed budget, limiting how many edits a candidate can bundle, and it encourages unexplored trajectories based on evolution history. The selector is equipped with a critic and a pruner: the critic screens benchmark-specific proposals, while the pruner, removes changes that are too small, too expensive, or no longer useful. Together these constraints favor reusable agent mechanisms over benchmark-specific ones or even noises. Across eight benchmarks spanning coding, agentic workspace and engineering design tasks, RRSI gains up to 14.1 points on the split it evolves against and up to 4.7 points on the five out-of-distribution benchmarks, while producing a harness that runs on 30% fewer policy tokens than the unregularized evolution. Code is available at https://github.com/google-research/rrsi and project page is https://regularized-rsi.com/.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24972",
-      "arxiv_url": "https://arxiv.org/abs/2609.24972",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24972.png",
-      "upvotes": 205,
-      "num_comments": 2,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/google-research/rrsi",
-      "github_stars": 344,
-      "project_page": "https://regularized-rsi.com/"
+      "id": "2310.10688",
+      "title": "A decoder-only foundation model for time-series forecasting",
+      "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Motivated by recent advances in large language models for Natural Language\nProcessing (NLP), we design a time-series foundation model for forecasting\nwhose out-of-the-box zero-shot performance on a variety of public datasets\ncomes close to the accuracy of state-of-the-art supervised forecasting models\nfor each individual dataset. Our model is based on pretraining a\npatched-decoder style attention model on a large time-series corpus, and can\nwork well across different forecasting history lengths, prediction lengths and\ntemporal granularities.",
+      "ai_summary": "A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.",
+      "hf_url": "https://huggingface.co/papers/2310.10688",
+      "arxiv_url": "https://arxiv.org/abs/2310.10688",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2310.10688.png",
+      "upvotes": 45,
+      "num_comments": 1,
+      "published_at": "2023-10-14T13:01:37.000Z",
+      "github_repo": "https://github.com/google-research/timesfm",
+      "github_stars": 33742,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-26T07:08:04.784055+00:00"
+  "fetched_at": "2026-09-26T12:20:20.051920+00:00"
 }

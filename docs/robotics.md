@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T07:08:17.859942+00:00'
+updated: '2026-09-26T12:20:44.773009+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 07:08 UTC  
+**Last Updated:** September 26, 2026 at 12:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-1d ago
+2d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-1d ago
+2d ago
 
 ---
 
@@ -86,13 +86,13 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-1d ago
+2d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-2d ago
+3d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-1d ago
+2d ago
 
 ---
 
@@ -118,15 +118,7 @@ TechCrunch • 1d ago
 
 **[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
 
-The New York Times • 1d ago
-
----
-
-**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
-
-Your weekly selection of awesome robot videos
-
-IEEE Spectrum • 15h ago
+The New York Times • 2d ago
 
 ---
 
@@ -134,7 +126,15 @@ IEEE Spectrum • 15h ago
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 9h ago
+Ars Technica • 15h ago
+
+---
+
+**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 20h ago
 
 ---
 
@@ -142,29 +142,15 @@ Ars Technica • 9h ago
 
 Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
 
-The Robot Report • 15h ago
+The Robot Report • 21h ago
 
 ---
 
-**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
+**[Carnegie Mellon professor envisions a world with more robots](https://www.post-gazette.com/business/tech-news/2026/09/25/carnegie-mellon-university-robots-expanded-use-pittsburgh-conference/stories/202609230033)**
 
-Breaking Defense • 1d ago
+It wasn’t speed, but rather the motion itself that Howie Choset loved as a child riding in the car. He was intrigued by pathways of all kinds and...
 
----
-
-**[The Story Behind the Runway Robots at Vogue World 2026: Milano](https://www.vogue.com/article/the-story-behind-the-runway-robots-at-vogue-world-2026-milano)**
-
-“It’s fun, because the robots are fun, but it’s also terrifying,” says Vogue World: Milan’s creative director Juan Costa Paz of the humanoid robots used during Tuesday’s event.
-
-Vogue • 2d ago
-
----
-
-**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
-
-The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
-
-IFR International Federation of Robotics • 1d ago
+Pittsburgh Post-Gazette • 3h ago
 
 ---
 
@@ -176,7 +162,21 @@ Tech Xplore • 2d ago
 
 **[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
 
-qualcomm.com • 3d ago
+Qualcomm • 3d ago
+
+---
+
+**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
+
+Breaking Defense • 1d ago
+
+---
+
+**[How robots are helping solve China's elderly care crisis](https://www.dw.com/en/can-robots-help-solve-chinas-elderly-care-crisis/video-79334571)**
+
+China's population is aging fast, and robots are moving into care homes. Humanoid machines are already helping care workers look after older people.
+
+DW.com • 3d ago
 
 ---
 
@@ -190,7 +190,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 219 • 💬 22 • ⏱️ 6:10 • 16h ago
+👁️ 10K • 👍 228 • 💬 22 • ⏱️ 6:10 • 21h ago
 
 ---
 
@@ -200,17 +200,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 690K • 👍 6K • 💬 666 • ⏱️ 4:18 • 3d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 567K • 👍 17K • 💬 5K • ⏱️ 19:23 • 2d ago
+👁️ 698K • 👍 6K • 💬 672 • ⏱️ 4:18 • 3d ago
 
 ---
 
@@ -220,17 +210,17 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 21K • 👍 139 • 💬 17 • ⏱️ 12:11 • 4d ago
+👁️ 22K • 👍 139 • 💬 17 • ⏱️ 12:11 • 4d ago
 
 ---
 
-**[AI Robots Are HERE… They’re Already STRONGER Than HUMANS!](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
-AI robots are fighting HUMANS now. A man named Frankie Lapenna actually stepped inside the cage with a humanoid robot for a ...
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
-📺 MindSeeded
+📺 RoboFrontier
 
-👁️ 69K • 👍 3K • 💬 252 • ⏱️ 13:48 • 1d ago
+👁️ 56K • 👍 198 • 💬 63 • ⏱️ 4:15 • 4d ago
 
 ---
 
@@ -240,7 +230,7 @@ Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube 
 
 📺 South China Morning Post
 
-👁️ 201K • 👍 1K • 💬 244 • ⏱️ 2:40 • 5d ago
+👁️ 202K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
 
 ---
 
@@ -250,17 +240,7 @@ What if a robotic hand could see, understand, and manipulate the physical world 
 
 📺 Aman Jain
 
-👁️ 35K • 👍 546 • 💬 55 • ⏱️ 0:16 • 5d ago
-
----
-
-**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
-
-LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
-
-📺 DPCcars
-
-👁️ 4K • 👍 16 • 💬 2 • ⏱️ 1:37 • 13h ago
+👁️ 35K • 👍 547 • 💬 55 • ⏱️ 0:16 • 5d ago
 
 ---
 
@@ -270,7 +250,17 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 73K • 👍 926 • 💬 139 • ⏱️ 1:00 • 5d ago
+👁️ 74K • 👍 933 • 💬 140 • ⏱️ 1:00 • 5d ago
+
+---
+
+**[LimX Luna Robot Makes Humanoid Robot Setup Look Easy](https://www.youtube.com/watch?v=00r5Fycu8ag)**
+
+LimX Dynamics is showing how quickly its Luna humanoid robot can go from transportation to operation. In a new demonstration, ...
+
+📺 DPCcars
+
+👁️ 5K • 👍 16 • 💬 2 • ⏱️ 1:37 • 18h ago
 
 ---
 
@@ -280,7 +270,17 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 350K • 👍 472 • 💬 63 • ⏱️ 0:59 • 3d ago
+👁️ 351K • 👍 479 • 💬 66 • ⏱️ 0:59 • 3d ago
+
+---
+
+**[5 Ultra Realistic Humanoids You Can Actually Buy in 2026](https://www.youtube.com/watch?v=3G4YGaFuddM)**
+
+Humanoid robots are no longer science fiction. In 2026, some of the world's most advanced humanoid robots are becoming real ...
+
+📺 Prime Insights
+
+👁️ 430K • 👍 5K • 💬 215 • ⏱️ 22:30 • 6d ago
 
 ---
 
