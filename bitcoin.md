@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-26T01:49:35.367985+00:00'
+updated: '2026-09-26T07:08:17.850352+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 01:49 UTC  
+**Last Updated:** September 26, 2026 at 07:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,33 +44,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +3.6%  
-**30d:** +8.0%  
-**90d:** +39.5%  
+**24h:** -0.5%  
+**7d:** +3.5%  
+**30d:** +7.9%  
+**90d:** +39.4%  
 **1y:** -23.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1688.09B
+**Market Cap:** $1686.60B
 Rank #1
 
-**Circulating Supply:** 20,089,287 BTC
+**Circulating Supply:** 20,089,409 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
 -33.4%
 
 **All-Time Low:** $67.81
-+123818.3%
++123709.2%
 
 ---
 
 ## Fear & Greed Index
 
-### 71
+### 74
 **GREED**
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[40k people, where you at?](https://www.reddit.com/r/Bitcoin/comments/1wm22s9/40k_people_where_you_at/)**
 
-4d ago
+5d ago
 
 ---
 
@@ -127,7 +127,7 @@ Before vibecoding dashboards was a thing, I built this physical ticker that hang
 
 **[Bitcoin ETFs Swing Positive as Token Holds Jump Above $81,000](https://www.reddit.com/r/Bitcoin/comments/1wm42nl/bitcoin_etfs_swing_positive_as_token_holds_jump/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 4d ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-21/bitcoin-etfs-swing-positive-as-token-holds-jump-above-81-000) • 5d ago
 
 ---
 
@@ -141,7 +141,7 @@ Playing Doom, day trading, flying drones, now cryptomining: is there anything th
 
 **[Everyone in Bitcoin right now](https://www.reddit.com/r/Bitcoin/comments/1wl633z/everyone_in_bitcoin_right_now/)**
 
-5d ago
+6d ago
 
 ---
 
@@ -157,11 +157,33 @@ CNBC • 1d ago
 
 ---
 
-**[Macro headwinds push Bitcoin to $82.9K despite historical 365-day breakout pattern](https://www.coindesk.com/markets/2026/09/24/bitcoin-just-topped-a-key-long-term-moving-average-here-s-what-it-might-mean)**
+**[Bitcoin Braces for $15.6B Friday Showdown as Tom Lee Says Bull Run Underway](https://finance.yahoo.com/markets/crypto/articles/bitcoin-braces-15-6b-friday-135715839.html)**
 
-Historical data shows bitcoin posted long-term gains after regaining its 365-day trendline following extended slumps, though analysts caution the pattern is not foolproof.
+Roughly $15.6 billion worth of Bitcoin options are scheduled to expire on Friday, Sept. 25. Fundstrat’s Tom Lee declared a market “face ripper” was underway ...
 
-CoinDesk • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin holds near $84,000 as rising bond yields offset regulatory progress](https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-near-84-000-052437839.html)**
+
+Investing.com -- Bitcoin steadied around $84,000 heading into the weekend, with rising U.S. Treasury yields pressuring the cryptocurrency even as institutional demand and regulatory developments offered support.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Now Accounts for Less Than 60% of Total Crypto Market Value. History Says This Happens Next.](https://finance.yahoo.com/markets/crypto/articles/bitcoin-now-accounts-less-60-055000293.html)**
+
+Altcoin season could be coming soon, according to this key Bitcoin metric.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
+
+Morningstar • 10h ago
 
 ---
 
@@ -169,7 +191,7 @@ CoinDesk • 1d ago
 
 Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
 
-CBC • 16h ago
+CBC • 22h ago
 
 ---
 
@@ -179,17 +201,17 @@ The Economist • 1d ago
 
 ---
 
-**[Why bitcoin is different from every other monetary promise in history](https://finance.yahoo.com/video/why-bitcoin-different-every-other-163832308.html)**
+**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
 
-Scott Melker explains what makes bitcoin (BTC-USD) truly valuable: Its ability to avoid the many pitfalls of traditional money.
-
-finance.yahoo.com • 9h ago
+Bloomberg • 2d ago
 
 ---
 
-**[Bitcoin Bulls Eye Next Leg as $15 Billion Options Expiry Nears](https://www.bloomberg.com/news/articles/2026-09-24/bitcoin-bulls-eye-next-leg-as-15-billion-options-expiry-nears)**
+**[Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech](https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules)**
 
-Bloomberg.com • 1d ago
+Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.
+
+CoinDesk • 3h ago
 
 ---
 
@@ -197,27 +219,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin prices now hover just above $80,000.
 
-The Motley Fool • 5h ago
-
----
-
-**[Hegseth Discloses Millions in Cash, Investments and Bitcoin](https://www.cheddar.com/media/hegseth-discloses-millions-in-cash-investments-and-bitcoin/)**
-
-Defense Secretary Pete Hegseth is reporting at least $3.1 million in cash, retirement investments, and Bitcoin in his latest financial disclosure.
-
-cheddar.com • 9h ago
-
----
-
-**[Strategy Increases Its Bitcoin Holding By 950. How to Play MSTR Stock.](https://www.barchart.com/story/news/4787063/strategy-increases-its-bitcoin-holding-by-950-how-to-play-mstr-stock)**
-
-Barchart.com • 1d ago
-
----
-
-**[Why Is the Bitcoin Price Soaring Again?](https://global.morningstar.com/en-nd/markets/bitcoin-has-almost-erased-its-2026-losses-whats-next)**
-
-Morningstar • 3d ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -269,7 +271,7 @@ https://t.co/GktyWFbTdN
 
 **[Free Bitcoin DCA Calculator](https://news.ycombinator.com/item?id=49848044)**
 
-⬆️ 1 • 💬 0 • 7h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
+⬆️ 1 • 💬 0 • 12h ago • [mtg-arbitrage-desk.loca.lt](https://mtg-arbitrage-desk.loca.lt/dca-calculator)
 
 ---
 
@@ -277,23 +279,23 @@ https://t.co/GktyWFbTdN
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: A Critical Moment](https://www.youtube.com/watch?v=gvvMvW7AGE4)**
+
+Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into The Cryptoverse Premium SALE: ...
+
+📺 Benjamin Cowen
+
+👁️ 15K • 👍 2K • 💬 133 • ⏱️ 21:08 • 2h ago
+
+---
+
 **[Could the Bondpocalypse Launch Bitcoin Straight to $250K?](https://www.youtube.com/watch?v=OVrojTOjveg)**
 
 The bond market is flashing serious stress as Treasury yields climb and the pressure on the financial system intensifies.
 
 📺 Simply Bitcoin
 
-👁️ 3K • 👍 467 • 💬 38 • ⏱️ 16:05 • 2h ago
-
----
-
-**[Crypto&#39;s 4-Year Cycle Is BROKEN! Bitcoin&#39;s Real Bull Run Is About To Start (Here&#39;s Why)](https://www.youtube.com/watch?v=I3zaKuxy2oY)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 24K • 👍 724 • 💬 181 • ⏱️ 23:39 • 9h ago
+👁️ 17K • 👍 944 • 💬 51 • ⏱️ 16:05 • 7h ago
 
 ---
 
@@ -303,27 +305,37 @@ Bitcoin price is currently holding around $83k but the underbelly is extremely b
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 410 • 💬 45 • ⏱️ 1:01:02 • 6h ago
+👁️ 17K • 👍 434 • 💬 46 • ⏱️ 1:01:02 • 12h ago
 
 ---
 
-**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
+**[🚨🚀🚀THE BITCOIN BEAR MARKET IS OVER!!!🚨🚀 🚀Things Aren&#39;t Always What They Seem to Be](https://www.youtube.com/watch?v=wN1mXrGA6SY)**
 
-America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
 
-📺 Bitcoin News Alerts
+📺 Doctor of Pump & Dump
 
-👁️ 2K • 👍 196 • 💬 69 • ⏱️ 15:55 • 3h ago
+👁️ 2K • 👍 252 • ⏱️ 33:32 • 3h ago
 
 ---
 
-**[Grant Cardone: Real Estate &quot;Armageddon&quot; Is Here – Why BITCOIN is the Hedge](https://www.youtube.com/watch?v=Liksauk-Lzw)**
+**[The Bitcoin Billionaire Who Predicted BTC Last Cycle Just Said this...](https://www.youtube.com/watch?v=pj9rZ8p0cDA)**
 
-Commercial real estate is facing a historic reset, and Grant Cardone is using it to stack Bitcoin. The Cardone Capital founder ...
+Kalshi $25 bonus: http://kalshi.com/p/aimstone ...
 
-📺 Bitcoin Magazine
+📺 Aimstone
 
-👁️ 7K • 👍 155 • 💬 24 • ⏱️ 17:17 • 6h ago
+👁️ 6K • 👍 197 • 💬 40 • ⏱️ 16:39 • 8h ago
+
+---
+
+**[Crypto&#39;s 4-Year Cycle Is BROKEN! Bitcoin&#39;s Real Bull Run Is About To Start (Here&#39;s Why)](https://www.youtube.com/watch?v=I3zaKuxy2oY)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 29K • 👍 775 • 💬 180 • ⏱️ 23:39 • 15h ago
 
 ---
 
@@ -333,47 +345,37 @@ Scott Bessent's Treasury buybacks promised stability. Bessent said he had "asymm
 
 📺 Dana Love, PhD
 
-👁️ 15K • 👍 560 • 💬 58 • ⏱️ 18:49 • 8h ago
+👁️ 19K • 👍 599 • 💬 87 • ⏱️ 18:49 • 13h ago
 
 ---
 
-**[Peter Brandt Was Wrong About Bitcoin’s Bottom — Here’s What He Sees Now](https://www.youtube.com/watch?v=O5bsHokgzW0)**
+**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=O-z3rYIjkgc)**
 
-Veteran trader Peter Brandt joins Cointelegraph's Trade Secrets to break down where Bitcoin could be heading next — and why ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Cointelegraph
+📺 Crypto Rover
 
-👁️ 4K • 👍 86 • 💬 15 • ⏱️ 34:14 • 9h ago
-
----
-
-**[Bitcoin Is About to Explode....Alts Rally](https://www.youtube.com/watch?v=I-BAUH0grxg)**
-
-Clashpad.Fun - Launch a Token. Reward the Holders ▻ https://clashpad.fun ✨AskClash - *AI Tools, Charts, and Intel for Crypto* ...
-
-📺 CryptosRUs
-
-👁️ 28K • 👍 850 • 💬 65 • ⏱️ 46:21 • 11h ago
+👁️ 2K • 👍 287 • 💬 19 • ⏱️ 10:05 • 1h ago
 
 ---
 
-**[Bitcoin&#39;s New Bull Market Meets A $4 Trillion AI Revolution | Joseph Chalom](https://www.youtube.com/watch?v=E-o7mySF1TY)**
+**[&quot;MEGA RALLY AHEAD! This Crypto Bull Run Will Be Bigger Than Anyone Expects&quot; - Tom Lee](https://www.youtube.com/watch?v=RkQ0oH815GI)**
 
-Bitcoin #Crypto #finance Joseph Chalom breaks down how AI agents, stablecoins, tokenization and DeFi could reshape the ...
+Grow your crypto and gold tax-free with iTrustCapital IRA — no monthly fees, and get a $100 bonus when you fund your account.
 
-📺 The Wolf Of All Streets
+📺 Savvy Finance
 
-👁️ 23K • 👍 567 • 💬 205 • ⏱️ 21:57 • 11h ago
+👁️ 3K • 👍 89 • 💬 10 • ⏱️ 18:21 • 7h ago
 
 ---
 
-**[&quot;Wall Street Is Ready to Supercharge Bitcoin to $1.3 Million&quot;: Matt Hougan | Latest Prediction](https://www.youtube.com/watch?v=GyPEZ9e3toI)**
+**[1 Million Bitcoin RESERVE BILL - America Just Moved To Buy More](https://www.youtube.com/watch?v=HlGLs00Zpog)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+America just moved another step toward turning the Strategic Bitcoin Reserve into federal law, as House committee legislation ...
 
-📺 Crypto Nutshell
+📺 Bitcoin News Alerts
 
-👁️ 3K • 👍 96 • 💬 20 • ⏱️ 22:31 • 9h ago
+👁️ 8K • 👍 297 • 💬 98 • ⏱️ 15:55 • 8h ago
 
 ---
 
