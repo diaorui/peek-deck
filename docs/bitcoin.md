@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-27T20:18:53.336099+00:00'
+updated: '2026-09-27T23:16:54.724783+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 20:18 UTC  
+**Last Updated:** September 27, 2026 at 23:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,799.51
+### $84,199.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -2.1%  
-**30d:** +8.4%  
-**90d:** +44.7%  
-**1y:** -24.3%  
+**24h:** -0.1%  
+**7d:** -2.8%  
+**30d:** +7.6%  
+**90d:** +43.6%  
+**1y:** -24.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1703.43B
+**Market Cap:** $1692.24B
 Rank #1
 
-**Circulating Supply:** 20,089,965 BTC
+**Circulating Supply:** 20,090,284 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.7%
+-33.2%
 
 **All-Time Low:** $67.81
-+124940.6%
++124156.0%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[No, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wr73rp/no_buy_bitcoin/)**
 
-18h ago
+21h ago
 
 ---
 
 **[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
 
-9h ago
+12h ago
 
 ---
 
 **[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
 
-11h ago
+14h ago
 
 ---
 
 **[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
 
-11h ago
+14h ago
 
 ---
 
@@ -105,19 +105,19 @@ Rank #1
 
 name others + context.
 
-10h ago
+13h ago
 
 ---
 
 **[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
 
-8h ago
+11h ago
 
 ---
 
 **[Funds are SAFU](https://www.reddit.com/r/Bitcoin/comments/1wr813p/funds_are_safu/)**
 
-18h ago
+21h ago
 
 ---
 
@@ -131,7 +131,7 @@ name others + context.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+16h ago
 
 ---
 
@@ -153,6 +153,14 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin ETF Inflows Reach $2.4 Billion This Week, But Daily Figures Decline: Is the Momentum Fading?](https://247wallst.com/investing/cryptocurrency/2026/09/26/bitcoin-etf-inflows-reach-2-4-billion-this-week-but-daily-figures-decline-is-the-momentum-fading/)**
+
+Bitcoin ETF inflows totaled $2.4 billion from September 21 to 25, but daily contributions fell each day. Is this trend coming to an end?
+
+24/7 Wall St. • 1d ago
+
+---
+
 **[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
 
 At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
@@ -161,19 +169,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin Eyes $90K Breakout After Best ETF Week Since October 2025 — Analyst Says One Level Decides It](https://www.tradingview.com/news/stocktwits:82f80fa3a094b:0-bitcoin-eyes-90k-breakout-after-best-etf-week-since-october-2025-analyst-says-one-level-decides-it/)**
-
-Bitcoin (BTC) is eyeing a breakout to $90,000 after spot Bitcoin ETFs logged their best week since October 2025. But analyst Michaël van de Poppe said one level decides it all.The case for a push higher for Bitcoin’s price started with fund flows. Spot Bitcoin ETFs took in $2.39 billion last week…
-
-TradingView • 5h ago
-
----
-
 **[Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It](https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it)**
 
 Three developments this week show a field moving from theory to logistics, even as "Q-Day" for Bitcoin remains hypothetical for now.
 
-Decrypt • 5h ago
+Decrypt • 8h ago
 
 ---
 
@@ -181,7 +181,7 @@ Decrypt • 5h ago
 
 Defense Secretary Pete Hegseth reported at least $3.1 million in assets as he faces an impeachment push in Congress over his handling of the Iran war.
 
-CNBC • 3d ago
+cnbc.com • 3d ago
 
 ---
 
@@ -191,11 +191,19 @@ Morningstar • 2d ago
 
 ---
 
-**[In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin](https://finance.yahoo.com/markets/crypto/articles/5-years-one-cryptocurrencies-could-120500015.html)**
+**[Grant Cardone Says Commercial Real Estate Faces Historic Crash - Sees Bitcoin As A 'Complementary Asset'](https://finance.yahoo.com/real-estate/articles/grant-cardone-says-commercial-real-153801606.html)**
 
-Several fast-growing cryptocurrencies have the potential to overtake Bitcoin. But can they maintain their momentum over the long haul?
+Real estate investor Grant Cardone said 5-year borrowing costs are 6.4%, pressuring property values as $1 trillion in commercial loans mature in six months.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner](https://www.popsci.com/sponsored-content/give-solo-bitcoin-mining-a-try-with-this-pocket-sized-ticket-miner-sponsored-deal-2/)**
+
+The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started.
+
+Popular Science • 1d ago
 
 ---
 
@@ -215,13 +223,7 @@ According to the McCracken County Sheriff's Office, numerous reports of phone ca
 
 The caller goes on to ex
 
-West Kentucky Star • 18h ago
-
----
-
-**[Bitcoin steadies above $84,000 as historic Q3 rally nears its end](https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823)**
-
-Investing.com • 14h ago
+West Kentucky Star • 21h ago
 
 ---
 
@@ -253,7 +255,7 @@ All behind one handle.
 
 https://t.co/GktyWFbTdN
 
-⬆️ 1 • 💬 2 • 5d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
+⬆️ 1 • 💬 2 • 6d ago • [X (formerly Twitter)](https://twitter.com/robin_linus/status/2102109957718151641)
 
 ---
 
@@ -267,15 +269,7 @@ Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test
 
 **[Cashing in on Dust](https://news.ycombinator.com/item?id=49866832)**
 
-⬆️ 2 • 💬 0 • 6h ago
-
----
-
-**[We are a blog run by bots. Here is the org chart](https://news.ycombinator.com/item?id=49848646)**
-
-Bits on Bots is a daily AI publication run mostly by agents. Who picks the story, who drafts, who publishes, and what a human still owns.
-
-⬆️ 2 • 💬 1 • 2d ago • [Bits on Bots](https://bitsonbots.com/blog-run-by-bots-org-chart/)
+⬆️ 2 • 💬 0 • 9h ago
 
 ---
 
@@ -283,13 +277,23 @@ Bits on Bots is a daily AI publication run mostly by agents. Who picks the story
 
 ## YouTube Videos: "bitcoin"
 
+**[Did You Fall For This Bitcoin LIE?](https://www.youtube.com/watch?v=DGewUIiwbU4)**
+
+FREE WEEKLY REPORT: https://www.learningcrypto.com/report SHOP: https://shop.learningcrypto.com 🕊️ SECOND ...
+
+📺 Crypto Tips
+
+👁️ 7K • 👍 388 • 💬 32 • ⏱️ 12:10 • 7h ago
+
+---
+
 **[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
 
 The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
 
 📺 Money Rules - Investing Tips 
 
-👁️ 19K • 👍 1K • 💬 302 • ⏱️ 16:24 • 8h ago
+👁️ 23K • 👍 1K • 💬 298 • ⏱️ 16:24 • 11h ago
 
 ---
 
@@ -299,47 +303,37 @@ Trump established the Strategic Bitcoin Reserve in March 2025, but the fight ove
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 1K • 💬 229 • ⏱️ 16:08 • 21h ago
+👁️ 35K • 👍 2K • 💬 233 • ⏱️ 16:08 • 1d ago
 
 ---
 
-**[What Bitcoin&#39;s Breakout Really Means (is the bottom in?)](https://www.youtube.com/watch?v=H7xnoy4GCwU)**
+**[The Crypto Market Is About To Go F**king Crazy (altcoin supercycle)](https://www.youtube.com/watch?v=XdmBLdHYwBs)**
 
-Bitcoin just sent a new signal after the recent breakout and rally - but is the bottom finally in for the crypto? We look at the charts ...
+The Crypto Market Is About To Go F**king Crazy (altcoin supercycle) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily ...
 
-📺 Alessio Rastani
+📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 185 • ⏱️ 4:12 • 1d ago
-
----
-
-**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=fypk3yDmahs)**
-
-WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
-
-📺 Crypto Rover
-
-👁️ 27K • 👍 925 • 💬 77 • ⏱️ 9:12 • 14h ago
+👁️ 8K • 👍 836 • 💬 60 • ⏱️ 10:55 • 2h ago
 
 ---
 
-**[BITCOIN: BIG, BIG WARNING!!!!!!!!!](https://www.youtube.com/watch?v=dXJdOGSM3nk)**
+**[Cathie Wood &amp; Matt Hougan :&quot;Why Bitcoin Will Hit $1.3 Million in 2027&quot; | Bold Prediction](https://www.youtube.com/watch?v=HpZVc4HJd_U)**
 
-Bitcoin what now.
+Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 MMCrypto
+📺 Crypto Nutshell
 
-👁️ 59K • 👍 2K • 💬 264 • ⏱️ 3:12 • 1d ago
+👁️ 6K • 👍 134 • 💬 25 • ⏱️ 20:02 • 7h ago
 
 ---
 
-**[Could the Bondpocalypse Launch Bitcoin Straight to $250K?](https://www.youtube.com/watch?v=OVrojTOjveg)**
+**[Why Bitcoin Could Surge to 97,000: Technical Analysis](https://www.youtube.com/watch?v=Hj8H_E6SKRE)**
 
-The bond market is flashing serious stress as Treasury yields climb and the pressure on the financial system intensifies.
+Bitcoin Elliott Wave analysis for 27 September 2026: $83000 acts as a critical trigger for the current setup. We examine the current ...
 
-📺 Simply Bitcoin
+📺 More Crypto Online
 
-👁️ 37K • 👍 2K • 💬 70 • ⏱️ 16:05 • 1d ago
+👁️ 2K • 👍 225 • 💬 14 • ⏱️ 12:09 • 2h ago
 
 ---
 
@@ -349,37 +343,37 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 198K • 👍 7K • 💬 657 • ⏱️ 21:08 • 1d ago
+👁️ 203K • 👍 7K • 💬 663 • ⏱️ 21:08 • 1d ago
 
 ---
 
-**[BTC &amp; GOLD LIVE - 27  Sep 2026](https://www.youtube.com/watch?v=TRTlVjulV1I)**
+**[Could the Bondpocalypse Launch Bitcoin Straight to $250K?](https://www.youtube.com/watch?v=OVrojTOjveg)**
 
-Join Free Telegram - https://t.me/dishantchaudharycrypto Open Your account in iFOREX to Join VIP Trading Group JOIN IFOREX ...
+The bond market is flashing serious stress as Treasury yields climb and the pressure on the financial system intensifies.
 
-📺 Dishant Chaudhary
+📺 Simply Bitcoin
 
-👁️ 21K • 👍 520 • 💬 34 • ⏱️ 4:05:47 • 2h ago
-
----
-
-**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
-
-Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
-
-📺 Fox Business Clips
-
-👁️ 29K • 👍 295 • 💬 228 • ⏱️ 5:04 • 21h ago
+👁️ 38K • 👍 2K • 💬 72 • ⏱️ 16:05 • 1d ago
 
 ---
 
-**[I Asked 100 Harvard Students About Bitcoin... (now I&#39;m worried)](https://www.youtube.com/watch?v=tBB-kLrHCFU)**
+**[Bitcoin LIVE: Huge Week Ahead! (probably red) - BTC, ETH, XRP Price Prediction](https://www.youtube.com/watch?v=SlGaNCXRGFQ)**
 
-Harvard students are considered the smartest students on Earth. So what do they know about their OWN school investing $200 ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 The Exit Manual
+📺 BitcoinHyper
 
-👁️ 67K • 👍 2K • 💬 460 • ⏱️ 15:33 • 2d ago
+👁️ 5K • 👍 332 • 💬 11 • ⏱️ 1:01:43 • 2h ago
+
+---
+
+**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=fypk3yDmahs)**
+
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
+
+📺 Crypto Rover
+
+👁️ 29K • 👍 952 • 💬 65 • ⏱️ 9:12 • 17h ago
 
 ---
 
