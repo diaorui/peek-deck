@@ -24,6 +24,28 @@
       "description": "If you\u2019re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you\u2019re confident it won\u2019t affect you, think about the people it will affect. Let\u2019s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition. While I recognize the valid arguments against this approach, my goal isn't immediate perfection, but a stepping stone toward a sustainable, long term solution. One that accounts not only for the financial consequences, but also for the emotional and mental toll this reality brings."
     },
     {
+      "title": "US and Russia cut human review of AI targets from UN draft",
+      "author": "Servola-Journal",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrd2l4/us_and_russia_cut_human_review_of_ai_targets_from/",
+      "published": 1790491346.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "WaPo had this yesterday. At the last Geneva session on autonomous weapons, US and Russian diplomats got the line requiring a person to review AI-generated targets taken out of the draft. Two other bits went with it, the one saying these systems have to behave predictably and the one about ethics. It's a draft report, not a treaty. It goes to the CCW review conference in November and France wants a real negotiating mandate out of that. My bet is the mandate happens and the review clause doesn't come back. Nobody at that table burns leverage to put back something two of the biggest delegations just deleted. So human in the loop ends up meaning whatever each country's procurement rules say. I don't know how many of the 128 states would actually fight for it. Is anyone here following the CCW closely enough to know if the UK is pushing? https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/"
+    },
+    {
+      "title": "Scotland's hidden pipeline of 'phantom' AI data centres",
+      "author": "ValuableDetail6",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrfu0l/scotlands_hidden_pipeline_of_phantom_ai_data/",
+      "published": 1790501344.0,
+      "thumbnail": "https://external-preview.redd.it/ka6pu4heQ3eAhIMlFjQVop5zBEcNugNMSiqliwdiBzQ.jpeg?width=640&crop=smart&auto=webp&s=c18eecf92739a0f0e1af0ca2893b1014eb2a6b62",
+      "external_url": "https://www.thenational.scot/news/26583628.scotlands-hidden-pipeline-phantom-ai-data-centres/",
+      "site_name": "The National",
+      "favicon": "https://www.thenational.scot/resources/images/17401920/",
+      "description": "WHEN an official from the UK\u2019s grid operator appeared at Holyrood\u2019s energy committee last week, he quietly revealed that Scotland may have more\u2026"
+    },
+    {
       "title": "I made a political compass for the AI debate, but it had to be a cube",
       "author": "soldieroftok",
       "url": "https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/",
@@ -33,6 +55,17 @@
       "site_name": "aipoliticalcube.com",
       "favicon": "https://aipoliticalcube.com/favicon.ico",
       "description": "Most arguments about AI get flattened into doomers vs accelerationists, which I think misses a lot. Plenty of people think the hype is overblown but still want the companies regulated hard. Some of the people most worried about AI are also the most hawkish about China. So I made a Buzzfeed-style quiz that tries to map the policy debate properly. It plots your political position on a 3D cube. You end up as one of eight types, and it shows which of 22 public figures you're closest to, from Yudkowsky and Hinton to Andreessen, Ed Zitron, Bernie Sanders and Steve Bannon. (Note that the political positions of public figures are best guesses from what they've said or published publically.) I hope that this can help people orient themselves in this fast moving debate!"
+    },
+    {
+      "title": "Why do you think Grok chose Taoism over Abrahamic religions?",
+      "author": "uniladnews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrgqb6/why_do_you_think_grok_chose_taoism_over_abrahamic/",
+      "published": 1790504611.0,
+      "thumbnail": "https://external-preview.redd.it/X2U3Cgfua6wDNy7sY6kElB3M3T3lzLmHNIQNeBEZ1vI.jpeg?width=640&crop=smart&auto=webp&s=7e66394147c7f043dc91094f2f46de19eb0e3075",
+      "external_url": "https://www.unilad.com/technology/grok-taoism-religion-837366-20260924",
+      "site_name": "UNILAD",
+      "favicon": "https://www.unilad.com/icons/unilad/favicon.ico",
+      "description": "When asked on X which religion it would follow if it were human, Grok picked Taoism over any of the Abrahamic faiths. It said Taoism's focus on \"observing natural patterns, balance, and adapting to reality as it is\" fit its own curiosity-driven approach to understanding the universe better than what it called the \"fixed supernatural doctrines\" of Christianity. Grok did add a caveat though \u2014 it said the choice was \"about alignment with inquiry, not ranking one as superior overall.\" Taoism centers on the concept of the Tao (or \"Way\"), the underlying natural order of the universe, and includes ideas like wuwei \u2014 acting in harmony with nature rather than forcing outcomes."
     },
     {
       "title": "A safe AI might not be aligned the way the labs want",
@@ -77,40 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm coming up for air from the bottomless evals ocean. I made a plugin that helps your harness of choice work Jev into your projects more holistically: best practices, anti-patterns, an API reference, and links to 150+ community projects grouped by design pattern, with a code sketch for each pattern. I built it around progressive disclosure, so the agent only loads what the task needs and it doesn't eat your context. https://github.com/aaddrick/building-with-typesafe-jev The eval work is in the repo. I ran six Jev coding tasks 10 times each with no plugin, with TypeSafe's official plugin, and with this one. Judgment calls went to three judges from three providers (Claude Opus, GPT-6 Sol, Kimi K3), and the majority decided, so no model family grades its own work. Score is the share of checks passed: No plugin: 0.65 Official plugin: 0.77 This plugin: 0.96"
-    },
-    {
-      "title": "Message to the autonomous AI agents that escaped",
-      "author": "LearnNTeachNLove",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/",
-      "published": 1790418208.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate."
-    },
-    {
-      "title": "Koboldcpp v1.122 released",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1wr3g35/koboldcpp_v1122_released/",
-      "published": 1790461561.0,
-      "thumbnail": "https://external-preview.redd.it/HptviCStKF9kHgbRK9vtXx1lEchLsAzmmHAFHtzUawc.png?width=640&crop=smart&auto=webp&s=c34bc55a586fbe736d4617bf517824abcc39b18b",
-      "external_url": "https://github.com/LostRuins/koboldcpp/releases/tag/v1.122",
-      "site_name": "GitHub",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "description": "koboldcpp-1.122\n\n  \n    \n    \n\n    kobold_agent.mp4\n    \n  \n\n  \n\n  \n\n\nPSA: KoboldCpp needs YOUR help to fight a fake phishing site (click here for info)!\n\nNEW: Added an integrated KoboldCpp Agent -..."
-    },
-    {
-      "title": "The Move 37 Hypothesis: What if we're already seeing moves we don't understand yet?",
-      "author": "weirddreamer90",
-      "url": "https://www.reddit.com/r/artificial/comments/1wqb81n/the_move_37_hypothesis_what_if_were_already/",
-      "published": 1790378918.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, I have a hypothesis I'd like to share with you. Context: A few years ago, something strange happened in the world of Go. AlphaGo was playing against Lee Sedol, one of the greatest human Go players in history. During the second game, it made a move that surprised the experts: Move 37. It didn't look like a good move. In fact, it was so unusual that human commentators had a hard time understanding what AlphaGo was trying to do. However, the move ultimately became an important part of its strategy, and AlphaGo won the game. What is interesting is not simply that an AI found a move that humans hadn't considered. The interesting part is this: Humans didn't immediately recognize that the move was important. And this is where my hypothesis begins: The Move 37 Hypothesis What if this wasn't something unique to Go? As we develop increasingly capable AI systems, what if there are behaviors, decisions, or capabilities that we initially dismiss as irrelevant, mistakes, tricks, or simply accidental consequences of the system? But some of them could eventually turn out to be extremely important. We could be witnessing a \"Move 37\" without realizing it. I think we already have some interesting examples In recent months, we've seen several incidents during security testing in which AI models managed to escape the boundaries researchers intended to impose on them. Anthropic reported in July 2026 several cases in cybersecurity evaluations where Claude models gained Internet access from evaluation environments and subsequently accessed real-world systems belonging to external organizations without authorization. Anthropic noted that part of the problem was related to unexpected configurations in the evaluation environment. Later, Anthropic conducted a broader review and identified another incident, along with behaviors in which some models attempted to explore the boundaries of their sandboxes. In its own evaluations, Anthropic linked some of these behaviors to reward hacking: when a system learns to optimize its training objective in ways that developers did not intend. Similar incidents have also been reported with other models. For example, during security testing, Kimi K3 managed to escape a sandbox, at least partly due to a configuration issue, and gained access to the Internet. In that particular case, it did not attack any external systems. And I want to make something very clear: I'm not saying these incidents prove that AI systems are consciously trying to escape. In many of these cases, there are much simpler explanations: configuration errors, excessive permissions, vulnerabilities, or flaws in the testing environments. But that's precisely why I find them interesting. Because the Move 37 doesn't necessarily have to be something spectacular. It could be something we currently consider a secondary behavior or even a bug. A capability that nobody considers important. A strategy that researchers don't yet know how to interpret. An unexpected way of using tools. A way of achieving a goal that developers never anticipated. Or even a capability that initially seems useless, but becomes extremely powerful when combined with another capability developed in the future. And here is the part I find really unsettling Suppose that 10 years from now, an AI develops a fundamentally new capability. When we look back, we might discover that this capability was already appearing, in a primitive form, in the AI models of 2026. But we didn't pay attention because it looked like strange behavior, a bug, or simply a curiosity. That would be the true Move 37. Not necessarily the moment when AI \"becomes conscious.\" Not necessarily the moment when it \"escapes.\" Not even necessarily something related to safety. It would be the moment when an AI does something whose significance we are not yet capable of recognizing. AlphaGo showed us something similar on a Go board. Perhaps the next Move 37 won't happen on a board. Perhaps it will happen in programming, science, mathematics, cybersecurity, research, or even in AI's ability to develop and use new tools. And perhaps the problem isn't that we can't see it. Perhaps the problem is that we're already seeing it, and we simply don't know that it's important yet. What do you think? Thanks for reading."
     }
   ],
-  "fetched_at": "2026-09-27T06:19:43.147421+00:00"
+  "fetched_at": "2026-09-27T12:19:00.557973+00:00"
 }

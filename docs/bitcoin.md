@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-09-27T06:20:15.726304+00:00'
+updated: '2026-09-27T12:19:20.222631+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 06:20 UTC  
+**Last Updated:** September 27, 2026 at 12:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $84,588.87
+### $84,916.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -2.3%  
-**30d:** +8.1%  
-**90d:** +44.3%  
-**1y:** -24.5%  
+**24h:** +1.3%  
+**7d:** -1.9%  
+**30d:** +8.6%  
+**90d:** +45.0%  
+**1y:** -24.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1699.08B
+**Market Cap:** $1707.31B
 Rank #1
 
-**Circulating Supply:** 20,089,918 BTC
+**Circulating Supply:** 20,089,965 BTC
 95.7% of max
 
 **All-Time High:** $126,080.00
--32.9%
+-32.6%
 
 **All-Time Low:** $67.81
-+124608.7%
++125222.2%
 
 ---
 
@@ -77,73 +77,67 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[No, buy bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wr73rp/no_buy_bitcoin/)**
+
+10h ago
+
+---
+
+**[and keep buying bitocin](https://www.reddit.com/r/Bitcoin/comments/1wrgzq0/and_keep_buying_bitocin/)**
+
+1h ago
+
+---
+
+**[So which one are you? Did you buy or are just now buying?](https://www.reddit.com/r/Bitcoin/comments/1wrf4xv/so_which_one_are_you_did_you_buy_or_are_just_now/)**
+
+3h ago
+
+---
+
+**[Meme](https://www.reddit.com/r/Bitcoin/comments/1wrf6p7/meme/)**
+
+3h ago
+
+---
+
+**[Heroes](https://www.reddit.com/r/Bitcoin/comments/1wrftaa/heroes/)**
+
+name others + context.
+
+2h ago
+
+---
+
+**[Feeling lucky.....](https://www.reddit.com/r/Bitcoin/comments/1wrijij/feeling_lucky/)**
+
+14m ago
+
+---
+
+**[Funds are SAFU](https://www.reddit.com/r/Bitcoin/comments/1wr813p/funds_are_safu/)**
+
+10h ago
+
+---
+
 **[Right?!](https://www.reddit.com/r/Bitcoin/comments/1wqwi5w/right/)**
-
-12h ago
-
----
-
-**[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
-
-11h ago
-
----
-
-**[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/)**
-
-1d ago
-
----
-
-**[BTC right now](https://www.reddit.com/r/Bitcoin/comments/1wq4l0t/btc_right_now/)**
-
-1d ago
-
----
-
-**[I think I was hit by a scam on Electrum that I have never seen before](https://www.reddit.com/r/Bitcoin/comments/1wqpasx/i_think_i_was_hit_by_a_scam_on_electrum_that_i/)**
-
-I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone.
-
-17h ago
-
----
-
-**[Some btc stats](https://www.reddit.com/r/Bitcoin/comments/1wqokyq/some_btc_stats/)**
-
-Hello, Always, i was wondering who's buying and who's selling bitcoin when the price goes up or down. Then I create my own stats, directly red from the btc blockchain. Feel free to send me feedbacks :) Sincerely btc
 
 18h ago
 
 ---
 
-**[Is your BTC actually accessible to your family, or just theoretically theirs?](https://www.reddit.com/r/Bitcoin/comments/1wr2ilf/is_your_btc_actually_accessible_to_your_family_or/)**
+**[Daily Discussion, September 27, 2026](https://www.reddit.com/r/Bitcoin/comments/1wrddmc/daily_discussion_september_27_2026/)**
 
-Been thinking about this after reading through a few threads on lost coins. Estimates put lost BTC somewhere around 3-4 million coins already — permanently gone, not because of hacks, but because the person who held the keys died (or lost access) and nobody else could get in. The part that gets glossed over: even if your family legally inherits your Bitcoin (will, probate, whatever), that's completely separate from whether they can actually access it. A grant of probate doesn't unlock a hardware wallet. It doesn't pass 2FA. If nobody documented where the seed phrase is or which exchanges you used, "inheriting" the BTC just means inheriting a wallet address they can see on a block explorer and can't do anything with. A few things worth actually sitting down and answering honestly: If something happened to you today, would your spouse/family even know which exchanges or wallets to look for? If your 2FA is tied to your phone and only your phone, what happens when the phone is locked and nobody has the PIN? Is your seed phrase written somewhere your family could plausibly find — but a random person going through your stuff couldn't? Not trying to be morbid, just think this is one of those things that's genuinely easy to put off indefinitely because it forces you to think about your own death, but the cost of not doing it is total and permanent for the people you'd actually want to inherit it. Curious if anyone here has actually been on the "family member died, tried to access their BTC" side of this. Did it work? Did anything get lost?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
-
----
-
-**[River Financial has sued Blockstream Services Canada, alleging breach of contract over a termination agreement requiring Blockstream to pay River roughly $6.7 million.](https://www.reddit.com/r/Bitcoin/comments/1wqw51x/river_financial_has_sued_blockstream_services/)**
-
-12h ago
+5h ago
 
 ---
 
-**["Self-custodial" Misty Breez LN wallet can no longer make on-chain and Lightning payments due to "the service" Breez relies on is no longer available](https://www.reddit.com/r/Bitcoin/comments/1wqmdmb/selfcustodial_misty_breez_ln_wallet_can_no_longer/)**
+**[Does this happen to anyone else ?](https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/)**
 
-Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?
-
-🔗 [breez.technology](https://breez.technology/misty/) • 20h ago
-
----
-
-**[BISQ problem](https://www.reddit.com/r/Bitcoin/comments/1wqxjun/bisq_problem/)**
-
-how do I top up my Bisq wallet to buy BTC in bisq? Can anyone let me know a website or something that can top up your bisq wallet without any form of KYC? if anyone knows, please leave a reply below. Cheers!
-
-12h ago
+17h ago
 
 ---
 
@@ -155,23 +149,7 @@ how do I top up my Bisq wallet to buy BTC in bisq? Can anyone let me know a webs
 
 U.S. spot bitcoin ETFs gained $2.4 billion last week, flipping their 2026 net flows positive, while ether funds reversed the prior week's $140 million outflow with $690 million in net inflows.
 
-The Block • 12h ago
-
----
-
-**[Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green](https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green)**
-
-Bitcoin ETFs have drawn nearly $3 billion over seven straight days, erasing post-Clarity Act losses and pushing 2026 flows back into the green.
-
-Decrypt • 13h ago
-
----
-
-**[Bitcoin ETFs have erased a $5.8 billion hole](https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole)**
-
-At one point in July, ETFs were down $5.8 billion in net outflows for the year. Now, that’s turned into $800 million in net inflows.
-
-CoinDesk • 1d ago
+The Block • 18h ago
 
 ---
 
@@ -183,11 +161,25 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**["Find a different place": Garage sale fuels fight against Morgan County bitcoin mining facility](https://www.yahoo.com/news/articles/different-place-garage-sale-fuels-032400108.html)**
+**[Bitcoin’s Privacy Solution: Zcash Takes the Lead Over Monero](https://finance.yahoo.com/markets/crypto/articles/bitcoin-privacy-solution-zcash-takes-100052606.html)**
 
-The sale was organized by Say No to Data Centers Morgan County, a group that formed to oppose a proposed bitcoin mining facility near residents' homes.  What started as a request for donations on Face...
+Zcash and Monero have long competed for dominance in the privacy coin space, but a surge in institutional access, a landmark research paper, and a dramatic price gap are now forcing investors to choose sides.
 
-Yahoo • 2h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[#strategystriveadd2305bitcointhisweek Community Insights & Market Sentiment | Binance Square](https://www.binance.com/en/square/hashtag/strategystriveadd2305bitcointhisweek)**
+
+Binance • 26m ago
+
+---
+
+**[NEAR Hits One-Year High, Outpaces Bitcoin After Bitwise Files Final Prospectus For Spot ETF](https://finance.yahoo.com/markets/crypto/articles/near-hits-one-high-outpaces-093717875.html)**
+
+NEAR Protocol's one-year return has climbed to about 96%, after turning positive in mid-September.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,17 +191,11 @@ CNBC • 2d ago
 
 ---
 
-**[Why Is Bitcoin Soaring Again?](https://global.morningstar.com/en-ca/markets/why-is-bitcoin-soaring-again)**
-
-global.morningstar.com • 1d ago
-
----
-
 **[Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner](https://www.popsci.com/sponsored-content/give-solo-bitcoin-mining-a-try-with-this-pocket-sized-ticket-miner-sponsored-deal-2/)**
 
 The BlockChance Bitcoin Ticket Miner offers an easy, compact, solo mining experience that requires very little to get started.
 
-Popular Science • 18h ago
+Popular Science • 1d ago
 
 ---
 
@@ -221,11 +207,19 @@ Fortune • 1d ago
 
 ---
 
+**[P.E.I. woman who lost nearly $10K in bitcoin scam wants bank to reimburse her money](https://www.cbc.ca/news/canada/prince-edward-island/pei-bitcoin-scam-td-bank-9.7357377)**
+
+Binh Tran has spent the last six months trying to get her money back after falling victim to a scam call.
+
+CBC • 2d ago
+
+---
+
 **[The Strategic Bitcoin Reserve Is Closer Than Ever to Being Signed Into Law. Is Bitcoin About to Soar in Value?](https://www.fool.com/investing/2026/09/26/the-strategic-bitcoin-reserve-is-closer-than-ever/)**
 
 Congress just moved one step closer to a Strategic Bitcoin Reserve. Here's why that doesn't mean a sudden Bitcoin price surge.
 
-The Motley Fool • 14h ago
+The Motley Fool • 20h ago
 
 ---
 
@@ -273,7 +267,7 @@ https://t.co/GktyWFbTdN
 
 Send bitcoin privately. A working proof of concept of Shielded Bitcoin on a test network.
 
-⬆️ 1 • 💬 0 • 10h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
+⬆️ 1 • 💬 0 • 16h ago • [shielded.bitcoin.pe](https://shielded.bitcoin.pe/)
 
 ---
 
@@ -295,47 +289,7 @@ Trump established the Strategic Bitcoin Reserve in March 2025, but the fight ove
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 135 • ⏱️ 16:08 • 7h ago
-
----
-
-**[What Bitcoin&#39;s Breakout Really Means (is the bottom in?)](https://www.youtube.com/watch?v=H7xnoy4GCwU)**
-
-Bitcoin just sent a new signal after the recent breakout and rally - but is the bottom finally in for the crypto? We look at the charts ...
-
-📺 Alessio Rastani
-
-👁️ 33K • 👍 2K • 💬 187 • ⏱️ 4:12 • 18h ago
-
----
-
-**[BITCOIN: WEEKEND SQUEEZE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Q155nUHXvqY)**
-
-Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
-
-📺 Road To $1 Million USD
-
-👁️ 6K • 👍 205 • 💬 28 • ⏱️ 7:25 • 7h ago
-
----
-
-**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
-
-Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
-
-📺 Fox Business Clips
-
-👁️ 12K • 👍 162 • 💬 124 • ⏱️ 5:04 • 7h ago
-
----
-
-**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
-
-patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
-
-📺 My Financial Friend
-
-👁️ 15K • 👍 456 • 💬 109 • ⏱️ 10:07 • 10h ago
+👁️ 26K • 👍 1K • 💬 145 • ⏱️ 16:08 • 13h ago
 
 ---
 
@@ -345,27 +299,37 @@ The bond market is flashing serious stress as Treasury yields climb and the pres
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 2K • 💬 64 • ⏱️ 16:05 • 1d ago
+👁️ 35K • 👍 2K • 💬 64 • ⏱️ 16:05 • 1d ago
 
 ---
 
-**[What Really Happened With Bitcoin’s $16 Billion Options Expiry](https://www.youtube.com/watch?v=WekU7SW9UjU)**
+**[What Bitcoin&#39;s Breakout Really Means (is the bottom in?)](https://www.youtube.com/watch?v=H7xnoy4GCwU)**
 
-Join Our Private Intelligence Network Here: https://join.altcoinpro.com/32630122 Attend the Altcoin Pro Summit LIVE - October ...
+Bitcoin just sent a new signal after the recent breakout and rally - but is the bottom finally in for the crypto? We look at the charts ...
 
-📺 BULLRUNNERS
+📺 Alessio Rastani
 
-👁️ 1K • 👍 37 • 💬 12 • ⏱️ 10:15 • 6h ago
+👁️ 37K • 👍 2K • 💬 196 • ⏱️ 4:12 • 1d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+**[BITCOIN: WEEKEND SQUEEZE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=Q155nUHXvqY)**
 
-BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Free Trading Course https://rt1m.com/free Free Trading Signals https://rt1m.com/signals Trade Futures without KYC: Sign-up ...
 
-📺 Crypto World
+📺 Road To $1 Million USD
 
-👁️ 10K • 👍 343 • 💬 56 • ⏱️ 24:53 • 7h ago
+👁️ 10K • 👍 248 • 💬 38 • ⏱️ 7:25 • 13h ago
+
+---
+
+**[Is crypto back?: Bitcoin stock surges](https://www.youtube.com/watch?v=gjnagcx3mM8)**
+
+Clear Street analyst Owen Lau breaks down the future of crypto regulation on 'Making Money.' #fox #media #breakingnews #us ...
+
+📺 Fox Business Clips
+
+👁️ 20K • 👍 239 • 💬 210 • ⏱️ 5:04 • 13h ago
 
 ---
 
@@ -375,17 +339,47 @@ Come to the 1st ITC Conference: https://www.benjamincowen.com/conference Into Th
 
 📺 Benjamin Cowen
 
-👁️ 171K • 👍 7K • 💬 597 • ⏱️ 21:08 • 1d ago
+👁️ 182K • 👍 7K • 💬 612 • ⏱️ 21:08 • 1d ago
 
 ---
 
-**[The AI Boom is Just Getting Started + Why Bitcoin is Back](https://www.youtube.com/watch?v=zmNdsy28NU4)**
+**[BITCOIN IS ABOUT TO EXPLODE...](https://www.youtube.com/watch?v=fypk3yDmahs)**
 
-All Things Markets is back after a short hiatus, but we are here to stay. We have a lot to unpack: from rising interest rates and ...
+WEEX: https://www.weex.com/events/promo/cryptorover-vipcampaign-2?vipCode=00dt&qrType=activity VIP3 INSTANT & Free ...
 
-📺 Anthony Scaramucci
+📺 Crypto Rover
 
-👁️ 42K • 👍 746 • 💬 91 • ⏱️ 27:42 • 14h ago
+👁️ 15K • 👍 712 • 💬 55 • ⏱️ 9:12 • 6h ago
+
+---
+
+**[BITCOIN - THIS IS THE LAST TIME](https://www.youtube.com/watch?v=DMqgQC83awI)**
+
+patreon.com/myfinancialfriend CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE!
+
+📺 My Financial Friend
+
+👁️ 18K • 👍 493 • 💬 102 • ⏱️ 10:07 • 16h ago
+
+---
+
+**[BITCOIN: THIS IS HOW IT ENDS!!!!!! [prepare yourself NOW!!!!]](https://www.youtube.com/watch?v=uQfwyWCtVtU)**
+
+Join CryptoAnup Platinum Group for FREE (for limited time only!!!) https://t.me/CryptoAnupPlatinum Follow Crypto Anup ...
+
+📺 Crypto Anup
+
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:35 • 5h ago
+
+---
+
+**[The Bond Bubble Is Bursting. What Happens to Bitcoin?](https://www.youtube.com/watch?v=eZZub6U3rlg)**
+
+Bonds sit at the center of pensions, retirement portfolios, and the global financial system. After a 40-year bull market, rising yields ...
+
+📺 Joe Burnett
+
+👁️ 21K • 👍 271 • 💬 27 • ⏱️ 10:48 • 1d ago
 
 ---
 
