@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T06:20:15.732705+00:00'
+updated: '2026-09-27T12:19:20.232064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 06:20 UTC  
+**Last Updated:** September 27, 2026 at 12:19 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision project for real-time object detection. I put together a standalone real-time object detection demo that runs entirely on the device, with no cloud or external processing. Technical Setup Framework: ESP-VISION + MicroPython Model: Quantized AI model loaded from an SD card Pipeline: Camera feed → on-device AI inference → real-time display with bounding boxes Hardware: MaTouch AI ESP32-S3 with integrated camera and TFT display from Makerfabs Project Result The prototype successfully runs real-time target detection locally on the ESP32-S3, demonstrating that lightweight computer vision workloads can be handled directly on an MCU. This kind of compact Edge AI setup could be useful for applications such as smart cameras and visual sensors, object or people detection, smart home devices, etc. For me, the interesting part isn't just getting object detection to run, but seeing how much AI vision functionality can be moved directly onto a low-cost MCU. There is still plenty of room to optimize the model. What would you build with an ESP32-S3 if you could run lightweight computer vision completely offline? Free to share your ideas!
 
-2d ago
+3d ago
 
 ---
 
@@ -50,7 +50,7 @@ I’ve been testing ESP-VISION on ESP32-S3 and built a small edge AI vision proj
 
 We’ve been playing hide and seek with Éloi. When it sees you, the eyes and neck need to turn toward you together as one coordinated shift of attention. The hard part isn’t simply tracking a target. It’s getting the timing, velocity, and movement of the eyes and neck to work together naturally. Still very early, but this is one of the things we’re currently spending a lot of time on. Animotion Robotics
 
-2d ago
+3d ago
 
 ---
 
@@ -86,13 +86,13 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 **[News: Google Instrinsic Physical ai/Robotics OS being released publicly](https://www.reddit.com/r/robotics/comments/1wovxgh/news_google_instrinsic_physical_airobotics_os/)**
 
-2d ago
+3d ago
 
 ---
 
 **[Tendon-Driven Robot Hand"High degree of freedom and fast operation](https://www.reddit.com/r/robotics/comments/1wnzhrj/tendondriven_robot_handhigh_degree_of_freedom_and/)**
 
-3d ago
+4d ago
 
 ---
 
@@ -100,7 +100,7 @@ Anyone else using a frontier model (GPT-6 Astra, Claude Fable, or Claude Code/Co
 
 Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I'm setting up 6 sensors at the tool flange using the internal user cable (green M12/flange connector). Has anyone here done a similar setup? I'm curious about how you handled the wiring pinout/breakout, especially if you ran into any issues with power draw or signal routing back to the CS9 controller. Any advice or tips before I start wiring it up? Thanks!
 
-2d ago
+3d ago
 
 ---
 
@@ -112,15 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 1d ago
-
----
-
-**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
-
-Your weekly selection of awesome robot videos
-
-spectrum.ieee.org • 1d ago
+arstechnica.com • 1d ago
 
 ---
 
@@ -128,7 +120,39 @@ spectrum.ieee.org • 1d ago
 
 The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 17h ago
+
+---
+
+**[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
+
+Your weekly selection of awesome robot videos
+
+IEEE Spectrum • 1d ago
+
+---
+
+**[I Loved Laughing at Videos of Robots Falling on Their Faces. Then I Realized That’s Exactly What They Want.](https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html)**
+
+The World Humanoid Games were actually a social experiment in the making.
+
+Slate Magazine • 2h ago
+
+---
+
+**[The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt](https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/)**
+
+Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
+
+techcrunch.com • 1d ago
+
+---
+
+**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
+
+Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
+
+WSB-TV • 11h ago
 
 ---
 
@@ -138,41 +162,11 @@ Breaking Defense • 2d ago
 
 ---
 
-**[In a Race With China, German Robots Are Outnumbered 14 to 1](https://www.nytimes.com/2026/09/24/business/robots-china-germany-factories.html)**
+**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
 
-The New York Times • 2d ago
+The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
 
----
-
-**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
-
-Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
-
-WSB-TV • 5h ago
-
----
-
-**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
-
-The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
-
-IFR International Federation of Robotics • 2d ago
-
----
-
-**[Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)**
-
-Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
-
-TechCrunch • 3d ago
-
----
-
-**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/)**
-
-Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
-
-The Motley Fool • 14h ago
+CNBC • 3d ago
 
 ---
 
@@ -180,7 +174,15 @@ The Motley Fool • 14h ago
 
 researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm.
 
-designboom.com • 1d ago
+Designboom • 2d ago
+
+---
+
+**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
+
+The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
+
+IFR International Federation of Robotics • 3d ago
 
 ---
 
@@ -194,17 +196,17 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 218K • 👍 1K • 💬 68 • ⏱️ 25:31 • 1d ago
+👁️ 282K • 👍 1K • 💬 89 • ⏱️ 25:31 • 1d ago
 
 ---
 
-**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+**[How Robots Went From Giant Arms to Humanoids](https://www.youtube.com/watch?v=2q0pOBi7eRQ)**
 
-FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+From Unimate to Atlas, robots have evolved from simple programmable machines into increasingly mobile, sensor-equipped and ...
 
-📺 Julia McCoy
+📺 Unlocked Timekeeper
 
-👁️ 12K • 👍 257 • 💬 27 • ⏱️ 6:10 • 1d ago
+👁️ 612 • 👍 33 • 💬 1 • ⏱️ 2:41 • 1d ago
 
 ---
 
@@ -214,57 +216,17 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 724K • 👍 6K • 💬 692 • ⏱️ 4:18 • 4d ago
+👁️ 729K • 👍 6K • 💬 696 • ⏱️ 4:18 • 4d ago
 
 ---
 
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
 
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
 
-📺 MindSeeded
+📺 Mark Dice
 
-👁️ 78K • 👍 3K • 💬 267 • ⏱️ 13:48 • 2d ago
-
----
-
-**[Chinese Government Slows Humanoid Robot IPO Rush - China is Beating USA in Tech](https://www.youtube.com/watch?v=m-4tueQLdzc)**
-
-Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
-
-📺 Eli the Computer Guy
-
-👁️ 5K • 👍 145 • 💬 41 • ⏱️ 21:51 • 6h ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 36K • 👍 555 • 💬 55 • ⏱️ 0:16 • 6d ago
-
----
-
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
-
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
-
-📺 NBC News
-
-👁️ 353K • 👍 523 • 💬 69 • ⏱️ 0:59 • 4d ago
-
----
-
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
-
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
-
-📺 ejunky66
-
-👁️ 79K • 👍 999 • 💬 148 • ⏱️ 1:00 • 6d ago
+👁️ 600K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
 
 ---
 
@@ -278,13 +240,53 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 354K • 👍 531 • 💬 69 • ⏱️ 0:59 • 4d ago
+
+---
+
 **[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
 A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
 📺 RoboFrontier
 
-👁️ 61K • 👍 227 • 💬 65 • ⏱️ 4:15 • 5d ago
+👁️ 62K • 👍 234 • 💬 66 • ⏱️ 4:15 • 5d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 206K • 👍 1K • 💬 245 • ⏱️ 2:40 • 6d ago
+
+---
+
+**[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
+
+He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
+
+📺 New York Post
+
+👁️ 33K • 👍 332 • 💬 211 • ⏱️ 1:17 • 22h ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 82K • 👍 1K • 💬 152 • ⏱️ 1:00 • 6d ago
 
 ---
 
