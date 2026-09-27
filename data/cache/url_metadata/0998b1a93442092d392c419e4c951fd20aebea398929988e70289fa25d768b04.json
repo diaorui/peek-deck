@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-27T06:19:43.146124+00:00",
+  "data": {
+    "url": "https://sorami.com.au/guides/self-replicating-prompt-injection/",
+    "title": "Self-Replicating Prompt Injection: OpenAI AI Worms | Sorami",
+    "description": "OpenAI found prompt injections that copy themselves between AI agents like a worm. What the report shows and a checklist to stop the spread.",
+    "image": null,
+    "favicon": "https://sorami.com.au/favicon.svg",
+    "site_name": "Sorami Consulting",
+    "author": null,
+    "keywords": null
+  }
+}

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T00:47:33.637228+00:00'
+updated: '2026-09-27T06:20:15.732705+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 00:47 UTC  
+**Last Updated:** September 27, 2026 at 06:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ We’ve been playing hide and seek with Éloi. When it sees you, the eyes and ne
 
 I’m hosting a small online workshop on humanoid robot simulation and mechanical design on September 29. It’ll be a 1-hour session, and we’ll have WATO joining us to share their experience designing and building humanoid robots. There’ll also be a Q&A session, so it should be a good chance to ask questions, share ideas, and hear how others approach humanoid robot development. https://preview.redd.it/f1v69alfgdrh1.jpg?width=1080&format=pjpg&auto=webp&s=e201f3477b2650e8ae37be8ebc86dc36ad33596e
 
-2d ago
+3d ago
 
 ---
 
@@ -116,55 +116,25 @@ Ars Technica • 1d ago
 
 ---
 
-**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
-
-The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
-
-Interesting Engineering • 6h ago
-
----
-
-**[Labor-scarce Japan counts on AI-powered robots](https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries)**
-
-Japan Today • 2d ago
-
----
-
-**[What if robots didn't need all their AI onboard?](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)**
-
-Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
-
-Microsoft • 3d ago
-
----
-
-**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
-
-Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
-
-WSB-TV • 13m ago
-
----
-
 **[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 1d ago
+spectrum.ieee.org • 1d ago
+
+---
+
+**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
+
+The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
+
+Interesting Engineering • 11h ago
 
 ---
 
 **[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Breaking Defense • 1d ago
-
----
-
-**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
-
-The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
-
-CNBC • 2d ago
+Breaking Defense • 2d ago
 
 ---
 
@@ -174,11 +144,43 @@ The New York Times • 2d ago
 
 ---
 
-**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
+**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
 
-Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
+Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
 
-The Robot Report • 1d ago
+WSB-TV • 5h ago
+
+---
+
+**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
+
+The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
+
+IFR International Federation of Robotics • 2d ago
+
+---
+
+**[Vogue sent robots down the runway at Vogue World, and people were not impressed](https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/)**
+
+Nothing says Italian craftsmanship like a Chinese robot doing a lasso to "L'Amour Toujours."
+
+TechCrunch • 3d ago
+
+---
+
+**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/)**
+
+Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
+
+The Motley Fool • 14h ago
+
+---
+
+**[autonomous robotic hand walks on its fingertips like the addams family’s thing](https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/)**
+
+researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm.
+
+designboom.com • 1d ago
 
 ---
 
@@ -192,7 +194,7 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 145K • 👍 779 • 💬 57 • ⏱️ 25:31 • 21h ago
+👁️ 218K • 👍 1K • 💬 68 • ⏱️ 25:31 • 1d ago
 
 ---
 
@@ -202,7 +204,7 @@ FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/bluep
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 251 • 💬 27 • ⏱️ 6:10 • 1d ago
+👁️ 12K • 👍 257 • 💬 27 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -212,7 +214,27 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 719K • 👍 6K • 💬 687 • ⏱️ 4:18 • 3d ago
+👁️ 724K • 👍 6K • 💬 692 • ⏱️ 4:18 • 4d ago
+
+---
+
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+
+📺 MindSeeded
+
+👁️ 78K • 👍 3K • 💬 267 • ⏱️ 13:48 • 2d ago
+
+---
+
+**[Chinese Government Slows Humanoid Robot IPO Rush - China is Beating USA in Tech](https://www.youtube.com/watch?v=m-4tueQLdzc)**
+
+Spotify - https://open.spotify.com/show/1KkKuQe82tf1bW78ReQ0wM Apple Podcasts ...
+
+📺 Eli the Computer Guy
+
+👁️ 5K • 👍 145 • 💬 41 • ⏱️ 21:51 • 6h ago
 
 ---
 
@@ -222,7 +244,27 @@ What if a robotic hand could see, understand, and manipulate the physical world 
 
 📺 Aman Jain
 
-👁️ 36K • 👍 555 • 💬 55 • ⏱️ 0:16 • 5d ago
+👁️ 36K • 👍 555 • 💬 55 • ⏱️ 0:16 • 6d ago
+
+---
+
+**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
+
+Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
+
+📺 NBC News
+
+👁️ 353K • 👍 523 • 💬 69 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
+
+Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
+
+📺 ejunky66
+
+👁️ 79K • 👍 999 • 💬 148 • ⏱️ 1:00 • 6d ago
 
 ---
 
@@ -236,53 +278,13 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 ---
 
-**[Influencer fights humanoid robot dubbed &#39;Terminator&#39;](https://www.youtube.com/watch?v=pGGhJeHJz3Q)**
-
-Influencer fights humanoid robot dubbed 'Terminator'. For more context and news coverage of the most important stories of our ...
-
-📺 NBC News
-
-👁️ 352K • 👍 513 • 💬 67 • ⏱️ 0:59 • 4d ago
-
----
-
 **[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
 
 A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
 
 📺 RoboFrontier
 
-👁️ 60K • 👍 225 • 💬 64 • ⏱️ 4:15 • 5d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 594K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
-
----
-
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
-
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
-
-📺 South China Morning Post
-
-👁️ 204K • 👍 1K • 💬 245 • ⏱️ 2:40 • 5d ago
-
----
-
-**[Elon Musk Reveals What 1 BILLION Robots Could Mean 😱](https://www.youtube.com/watch?v=Z7U7AlBLxLc)**
-
-Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question… What would actually happen if humanoid ...
-
-📺 ejunky66
-
-👁️ 78K • 👍 972 • 💬 147 • ⏱️ 1:00 • 6d ago
+👁️ 61K • 👍 227 • 💬 65 • ⏱️ 4:15 • 5d ago
 
 ---
 
