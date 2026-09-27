@@ -15,6 +15,16 @@
       "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations."
     },
     {
+      "headline": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
+      "pub_date": 1790519753.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
+      "description": "The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over."
+    },
+    {
       "headline": "A Former BlackRock Executive Calls Bitcoin an \u201cExit Asset\u201d and Ethereum \u201cthe New Rails.\u201d Bitwise Says the Opposite.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -43,16 +53,6 @@
       "article_url": "https://www.tradingview.com/news/benzinga:b7d28b4f8094b:0-bitcoin-eyes-100k-ethereum-s-evolution-and-crypto-market-rally-this-week-in-crypto/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here\u2019s a quick recap of the top stories.Bitcoin\u2019s Bullish RunBitcoi\u2026"
-    },
-    {
-      "headline": "'It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObGZrM1VESWdlby1QcXp1enJXbmwyX1l5RG9oT3d6YmVCN3JxVHprS1dOSW9SdVQyWUZvbUp2N2QyLXRqZVF6UFJxZ0R6UjhldFhnSm85bWxXYlJvN0JZcFRBUDkySlBiM3JnU2JRcTQ5MHJBU0xJZ3JFeWMyUTAtclRIR3JLeFNyY3ltQXlIVldpdWtlbG1WR3hNd1JXVTdzOXRnaEx1UkRBS3NRNFN2M2k1TG5yaDNwbmtRV1pYV2djQ192NzdETm5BTEZ1MURSejh3ZjEycWd0dw?oc=5",
-      "pub_date": 1790519753.0,
-      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
-      "image": "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/10/20241001_Vitalik_News_2.jpg",
-      "description": "The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over."
     },
     {
       "headline": "New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows",
@@ -86,7 +86,7 @@
     },
     {
       "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
-      "source": "benzinga.com",
+      "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOGh5a3JDUFJxVXBCbllOUjhXUzkxRlhSMGpLRWlTYm4wcWhQM3E1OWV0ZkkyY2NQMHRURERpWGVFYS1JTmtldHRPU2VMNjhkZERrbmhDem9oUXhGU0lVSEJISzJyd3JLOEUySmVBcW5oeVB4eUR0eHZwcDBmTUl5a2hQUGpMdlNWbEJpU3RTR0poR21hRmVvX2RidUpCWGtjSERSQzhJbXlGRnVNWDJZVkxtXzZtcThaeThPVFh4MXVTY1I2WFZDeVlzaFZHLUQ3cmZ3R2ln?oc=5",
       "pub_date": 1790347995.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T20:18:43.724246+00:00"
+  "fetched_at": "2026-09-27T23:16:46.446046+00:00"
 }

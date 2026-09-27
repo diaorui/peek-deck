@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-27T20:18:53.342269+00:00'
+updated: '2026-09-27T23:16:54.730147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 20:18 UTC  
+**Last Updated:** September 27, 2026 at 23:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,687.70
+### $2,690.61
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -2.9%  
-**30d:** +9.6%  
-**90d:** +71.5%  
-**1y:** -34.9%  
+**24h:** -0.7%  
+**7d:** -3.6%  
+**30d:** +8.8%  
+**90d:** +70.2%  
+**1y:** -35.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $329.05B
+**Market Cap:** $326.81B
 Rank #2
 
 **Circulating Supply:** 122,084,678 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.5%
+-45.9%
 
 **All-Time Low:** $0.43
-+622399.0%
++618327.2%
 
 ---
 
@@ -156,7 +156,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.
 
-CoinDesk • 5h ago
+CoinDesk • 8h ago
+
+---
+
+**['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
+
+The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
+
+The Block • 8h ago
 
 ---
 
@@ -172,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
 
-The Motley Fool • 8h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -180,15 +188,7 @@ The Motley Fool • 8h ago
 
 This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
 
-TradingView • 8h ago
-
----
-
-**['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
-
-The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
-
-The Block • 5h ago
+TradingView • 11h ago
 
 ---
 
@@ -196,7 +196,7 @@ The Block • 5h ago
 
 MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -204,7 +204,7 @@ markets.businessinsider.com • 1h ago
 
 Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement.
 
-CryptoSlate • 7h ago
+CryptoSlate • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ Fortune • 2d ago
 
 Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally.
 
-benzinga.com • 2d ago
+Benzinga • 2d ago
 
 ---
 
@@ -242,17 +242,7 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 5K • 👍 346 • 💬 24 • ⏱️ 12:21 • 4h ago
-
----
-
-**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
-
-Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 53 • 💬 101 • ⏱️ 13:09 • 7h ago
+👁️ 12K • 👍 479 • 💬 33 • ⏱️ 12:21 • 7h ago
 
 ---
 
@@ -262,7 +252,7 @@ The clock is ticking, and I dont think people actually want to realize that its 
 
 📺 Money Rules - Investing Tips 
 
-👁️ 19K • 👍 1K • 💬 302 • ⏱️ 16:24 • 8h ago
+👁️ 23K • 👍 1K • 💬 298 • ⏱️ 16:24 • 11h ago
 
 ---
 
@@ -272,7 +262,17 @@ Ethereum has been consolidating for five years. What happens next? On Fundstrat'
 
 📺 Fundstrat
 
-👁️ 2K • 👍 91 • 💬 1 • ⏱️ 0:36 • 5h ago
+👁️ 4K • 👍 112 • 💬 6 • ⏱️ 0:36 • 8h ago
+
+---
+
+**[The “Fast Ethereum” Plan That Could Supercharge ETH](https://www.youtube.com/watch?v=62vE4TlShFg)**
+
+Want to see what John's actually buying? He just deployed a big chunk of his portfolio into alts, and Milk Road PRO members can ...
+
+📺 Milk Road
+
+👁️ 3K • 👍 64 • 💬 111 • ⏱️ 13:09 • 10h ago
 
 ---
 
@@ -282,7 +282,7 @@ Ethereum has been consolidating for five years. What happens next? On Fundstrat'
 
 📺 Lark Davis
 
-👁️ 29K • 👍 592 • 💬 83 • ⏱️ 7:46 • 1d ago
+👁️ 29K • 👍 603 • 💬 83 • ⏱️ 7:46 • 1d ago
 
 ---
 
@@ -292,7 +292,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 6K • 👍 85 • 💬 8 • ⏱️ 8:46 • 1d ago
+👁️ 7K • 👍 85 • 💬 8 • ⏱️ 8:46 • 1d ago
 
 ---
 
@@ -302,17 +302,27 @@ Ethereum (ETH) closed just under 2707 four nights in a row, each night a little 
 
 📺 Marzell Crypto
 
-👁️ 634 • 👍 16 • 💬 38 • ⏱️ 4:40 • 7h ago
+👁️ 972 • 👍 18 • 💬 38 • ⏱️ 4:40 • 10h ago
 
 ---
 
-**[Wall Street Acaba de Elegir a Ethereum. Esto es lo que Ocurrirá con las Altcoins](https://www.youtube.com/watch?v=J0cIhsteU28)**
+**[XRP Just Took #1 On A Major Exchange?! (BITCOIN AND ETHEREUM COMBINED COULDN&#39;T MATCH IT)](https://www.youtube.com/watch?v=npfquVMMjjM)**
 
-Durante los últimos años, Bitcoin ha sido el gran ganador de la adopción institucional. Mientras el sector retail seguía ...
+Put Your XRP To Work Here: https://join.altcoinpro.com/03ecefcc Attend the Altcoin Pro Summit LIVE - October 2-4! Get your ...
 
-📺 Healthy Pockets
+📺 BULLRUNNERS
 
-👁️ 12K • 👍 805 • 💬 96 • ⏱️ 14:21 • 5h ago
+👁️ 9K • 👍 235 • 💬 21 • ⏱️ 9:58 • 9h ago
+
+---
+
+**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 31K • 👍 749 • 💬 149 • ⏱️ 14:43 • 1d ago
 
 ---
 
@@ -322,17 +332,7 @@ Tokenized stock launchpads are the best performing coins in crypto right now. We
 
 📺 Beanstock - Crypto & Stocks
 
-👁️ 4K • 👍 72 • 💬 8 • ⏱️ 10:17 • 1d ago
-
----
-
-**[BE READY FOR THESE ETH MOVES! (Ethereum Update)](https://www.youtube.com/watch?v=PwLXpuhlsWM)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENTORSHIP & TOOLS ...
-
-📺 Cilinix Crypto
-
-👁️ 928 • 👍 30 • 💬 10 • ⏱️ 4:48 • 10h ago
+👁️ 4K • 👍 76 • 💬 8 • ⏱️ 10:17 • 1d ago
 
 ---
 

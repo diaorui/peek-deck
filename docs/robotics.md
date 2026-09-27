@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T20:18:53.345539+00:00'
+updated: '2026-09-27T23:16:54.732838+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 20:18 UTC  
+**Last Updated:** September 27, 2026 at 23:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -112,7 +112,7 @@ Hey everyone, quick question for anyone working with Stäubli TS2 or TX2 arms. I
 
 Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.
 
-Ars Technica • 1d ago
+Ars Technica • 2d ago
 
 ---
 
@@ -120,15 +120,23 @@ Ars Technica • 1d ago
 
 Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-engadget.com • 7h ago
+Engadget • 10h ago
 
 ---
 
-**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
+**[Tesla ramps Optimus to hundreds a week, but the robots can’t generalize](https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/)**
 
-Feather is betting on a customizable, $30,000 platform built for software developers.
+Tesla now builds several hundred Optimus robots a week, but a new report says the hands break, suppliers can't keep up, and the AI can't generalize.
 
-TechCrunch • 3d ago
+Electrek • 2d ago
+
+---
+
+**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
+
+The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -136,7 +144,7 @@ TechCrunch • 3d ago
 
 The World Humanoid Games were actually a social experiment in the making.
 
-Slate Magazine • 10h ago
+Slate Magazine • 13h ago
 
 ---
 
@@ -144,7 +152,7 @@ Slate Magazine • 10h ago
 
 Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
 
-wsbtv.com • 19h ago
+WSB-TV • 22h ago
 
 ---
 
@@ -156,11 +164,11 @@ TechCrunch • 2d ago
 
 ---
 
-**[US Air Force receives first ‘robot wingmen’ drones to begin autonomous warfare trials](https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones)**
+**[Lord Have Mercy as Researchers Create Walking Disembodied Hand Like That Little Guy From "The Addams Family"](https://futurism.com/robots-and-machines/disembodied-walking-robot-hand-addams-family)**
 
-The US Air Force has received its first two CCAs for testing alongside crewed fighters at its Creech base in Nevada.
+Researches have created a autonomous robotic hand that can walk around and support its own weight all by itself.
 
-Interesting Engineering • 8h ago
+Futurism • 12h ago
 
 ---
 
@@ -172,19 +180,11 @@ Business Insider • 2d ago
 
 ---
 
-**[Ex-defense minister Fedorov announces new 'Army of Robots' initiative in latest move since leaving office](https://kyivindependent.com/ex-defense-minister-fedorov-announces-new-army-of-robots-initiative-in-latest-move-since-leaving-office/)**
-
-According to Fedorov, the initiative will be not one company, but an "ecosystem," combining investment, native production, and R&D.
-
-kyivindependent.com • 1d ago
-
----
-
 **[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 7h ago
+IEEE Spectrum • 2d ago
 
 ---
 
@@ -202,13 +202,33 @@ Chinese consumer robotics brand PrimeBOT has launched two new humanoid models: t
 
 ---
 
+**[UBTECH Starts Delivering Its Humanlike U1 Robots](https://www.youtube.com/watch?v=avuSunUZSM8)**
+
+The first UWORLD U1 Series Ultra Bionic Humanoid Robots are now being delivered, bringing a technology that once looked like ...
+
+📺 DPCcars
+
+👁️ 243 • 👍 17 • 💬 1 • ⏱️ 2:26 • 2h ago
+
+---
+
 **[Humanoid Robot Brutally FLOORS Amateur Fighter In Wild Cage Match](https://www.youtube.com/watch?v=kCEa91TibDY)**
 
 He got REK-ed. After besting us in everything from track-and-field to medicine, robots have proved they can literally kick our butts ...
 
 📺 New York Post
 
-👁️ 39K • 👍 367 • 💬 244 • ⏱️ 1:17 • 1d ago
+👁️ 41K • 👍 403 • 💬 275 • ⏱️ 1:17 • 1d ago
+
+---
+
+**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
+
+What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
+
+📺 Aman Jain
+
+👁️ 36K • 👍 559 • 💬 55 • ⏱️ 0:16 • 6d ago
 
 ---
 
@@ -218,17 +238,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 736K • 👍 6K • 💬 697 • ⏱️ 4:18 • 4d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 606K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
+👁️ 737K • 👍 6K • 💬 698 • ⏱️ 4:18 • 4d ago
 
 ---
 
@@ -238,27 +248,17 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 23K • 👍 144 • 💬 18 • ⏱️ 12:11 • 5d ago
+👁️ 23K • 👍 144 • 💬 18 • ⏱️ 12:11 • 6d ago
 
 ---
 
-**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
 
-AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
 
-📺 MindSeeded
+📺 Mark Dice
 
-👁️ 82K • 👍 3K • 💬 273 • ⏱️ 13:48 • 3d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 64K • 👍 244 • 💬 69 • ⏱️ 4:15 • 6d ago
+👁️ 608K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
 
 ---
 
@@ -268,17 +268,17 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 355K • 👍 542 • 💬 70 • ⏱️ 0:59 • 4d ago
+👁️ 356K • 👍 542 • 💬 70 • ⏱️ 0:59 • 5d ago
 
 ---
 
-**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
 
-Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
 
-📺 South China Morning Post
+📺 MindSeeded
 
-👁️ 207K • 👍 1K • 💬 257 • ⏱️ 2:40 • 6d ago
+👁️ 83K • 👍 3K • 💬 273 • ⏱️ 13:48 • 3d ago
 
 ---
 
@@ -288,7 +288,7 @@ Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But 
 
 📺 ejunky66
 
-👁️ 311K • 👍 3K • 💬 317 • ⏱️ 1:00 • 3d ago
+👁️ 339K • 👍 4K • 💬 329 • ⏱️ 1:00 • 3d ago
 
 ---
 
