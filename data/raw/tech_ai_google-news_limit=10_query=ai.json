@@ -5,32 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Trump seeks AI dominance over China after warm meeting with Xi",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
-      "pub_date": 1790473540.0,
-      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
-      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
-    },
-    {
-      "headline": "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5",
-      "pub_date": 1790463259.0,
-      "article_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+      "headline": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VZXZwemNzZVFuNWFKWWE4dDlUWmVycE5oTDdvc3VoVHl1alRiczhkdE5EOEp5SkE5OUtpWVgzUFBMS0FVd21rQmtoejFCc19xMTktVThzaG5obmVxU05RU0E3dzJwVTJtdnZXcktEUVVDS2syT1JrTmVINA?oc=5",
-      "pub_date": 1790481684.0,
-      "article_url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPajQ0bkdBX2JMZzdXbG1BaVM3enFHQUsxVUZhT3V2MUVGdV9fck5tTDRlbjA1TWpPR003NFgtYUh2d0UxNnk4VXVpNWVQbkJKT3ViR0pLcjZ6OVhlTk9xbEtyelcxcHJna1NEeWhGSlYwb0pQd2pMT3ZNdXRkNlVqMQ?oc=5",
+      "pub_date": 1790508168.0,
+      "article_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
       "image": null,
       "description": null
     },
@@ -45,54 +25,54 @@
       "description": null
     },
     {
-      "headline": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaElfYVI1TkRoZGlFOElMLWZ5VGdrbnYyTVBCZE9vVkp1UXB4bWpVOUJhWlZTbTREcW9MYk9qakN5TlJ4VEVLRHlHVE41M0ZHck5YajFXaU5oWlZwQmUxT0xTUmRDY3hWOTZMMHZsS2dSaC12RzBTNk5Xc0NOSEdzaTdlaVk4T0FWdXJPd2QwRFhHT0owbHEtd0dpaXdDa3ZuVFBPby1LNXNmMWYxdGhnWWRPME43dlNsWUJCRlJJTjJHUlRmOVJiQnNn?oc=5",
-      "pub_date": 1790509822.0,
-      "article_url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-corporate-bond-boom-chart-of-the-day-115022571.html",
-      "image": "https://s.yimg.com/lo/mysterio/api/c6bf85454a97f61895174d1924117c57dc7fc5c8e2dab7584bcad3e1e699e972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F24d53d20-2614-439b-bd33-9695bf941721",
-      "description": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out."
-    },
-    {
-      "headline": "\u2018Things Will Never Be Chill Again\u2019: The Doomers Who Shaped the AI Safety Freakout",
-      "source": "WSJ",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
-      "pub_date": 1790429489.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
+      "headline": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjhKd2FaWmFDNGx6VVBvd1AxMkp4MmQwek85Nzl4bWlrOEFaWmo4U190dW5zb0dOQnVXakYtWi1CTHJyZWo4T3lqRnYwVGszOEJ3M3NHMFlMU3pxSkM5WkljTkxLVU5VakNUTkhhZUFBMzQ4bHVBQldaV3k0T1JsMER3X3hzZkhvZmkzR05rSXJGWXBtdWo2OG9oN3hzVHdqU2hyQ3lvZ25BSUtuaE9qaVJhSnA1QQ?oc=5",
+      "pub_date": 1790514007.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
       "image": null,
       "description": null
     },
     {
-      "headline": "Scoop: Top AI companies probing tens of thousands of security incidents",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
-      "pub_date": 1790464593.0,
-      "article_url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
-      "image": null,
-      "description": null
+      "headline": "Broadcom vs. Marvell: The AI Supercycle Is Big Enough for Both. Here's the Better Buy.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkFBVm1wSFR0cEpoMEFsc1BaenE0N3RYOExOYW9lQmZ1QXd3Z3R0elg0bE5HOGxVSFEtd3QycDFiQ3RMX2sxWEpKZEU2bTk4T1g3MldBUGgzTFVzS25KUE5HdTFoZUMtRkd6Vl85VmpPOUlQN0JiUGlvaVB3UmU2OGJreFRuZWI0Ylo0?oc=5",
+      "pub_date": 1790523278.0,
+      "article_url": "https://www.fool.com/investing/2026/09/27/broadcom-vs-marvell-heres-the-better-buy/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888252%2Fprofessional_talking_to_colleagues_in_an_office.jpg&w=1200&op=resize",
+      "description": "Broadcom and Marvell are both gaining from the AI infrastructure boom, but one stock offers a better risk-reward proposition."
     },
     {
-      "headline": "Anthropic and OpenAI sound the alarm on AI safety - and seek to shape how it\u2019s controlled",
-      "source": "Toronto Star",
-      "source_url": "https://www.thestar.com",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMmw5dHBIcEVFQUZsbkxvaF8zSWVWSHJsRDhhUHk1WUVOdG1RVkg2QkRtd1BnYWxkQnkxd3QyUVBpdTc1LTF3bVJQWE9sVmY2czRsdDVlM0RpZmwxZFFYWkREVDFHU1Y2eTJrSGpBUHdtc0NGdnphZXp6ZW9VeGZYT3FZelZOS2JMdFNEQnFvT3l4QnRybWZDNUFaRHYyUnFCREZEbjNpVVVuWUlwTXZFaThkaEdOVk5IelhMdWNIaXY4ZklBMnU3S0FjZ2FuaVdjT240X0JrY3BfNXh6TFVKV3pCSUowbk1OdWdFYU9Ja19rY0FSeXpyMFJySGhISU4wNVBhSW45RThGa1oxTUU4VFIwWjc?oc=5",
-      "pub_date": 1790508293.0,
-      "article_url": "https://www.thestar.com/news/world/united-states/anthropic-and-openai-sound-the-alarm-on-ai-safety-and-seek-to-shape-how-it-s-controlled/article_7b1852ba-6e49-5ad9-a2e5-2a52fe9715a5.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/24/924aba11-5c84-574b-b772-78219e379136/6ab8fe3b0561b.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-      "description": "The CEOs of Anthropic and OpenAI recently declared America\u2019s cutting-edge models are so powerful, they\u2019re dangerous, and need to be regulated and independently tested before being released."
+      "headline": "Bill Gates says unchecked AI could \u2018cause a billion deaths\u2019 in call for regulation",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3U0dW9FbGNsVVd0bGt4MlRzRTBZMkE2NWZOYUZlUkxOd3puUEwxdkR1YXNIaHdFNUtaYzJ3cGlOTHM2ckdBbHhLZmYtbUlnalJ2QmZYVS00RFROaksyY01xUnRCSXFzcEppNElYd1NOV21KNWJXVEVPVHBVZUppSEZPRVQzVmhtdlA4ZWp4emlaQmwxblpxVjRVWGM0dw?oc=5",
+      "pub_date": 1790499600.0,
+      "article_url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "image": "https://i.guim.co.uk/img/media/d2aae42a2dc28cedd577d3fd2f184bc574dd9a83/0_0_2318_1855/master/2318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60a5edce5d6f083254c479fba15225d2",
+      "description": "Microsoft co-founder and philanthropist speaks with NBC\u2019s Kristen Welker in interview airing on Sunday"
     },
     {
-      "headline": "From human rights to mathematical research: how AI is being used for good",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnQ4Y0tHYzR5Nlppc25KMmVDVUtOT2NmMDlUM0tLVkd3Tll3Z1E0eVNSVjNyTlFyUDlwZ0NLTThjc1QxY3FDTS1Ick56MDhvekVGSXU3QzNseGMyZDFpY3RzenFxZmp5TmJVaFdqNDk4ZFJ6bXZoN3NZNkFmWHg0azUyTFIxalozejJ4cmNFNnZCeEdPc3ZydF85NXowbkNBaUZyYU5SSzZwQ3Niakh4ckNVMGJ3cThm?oc=5",
-      "pub_date": 1790510785.0,
-      "article_url": "https://www.npr.org/2026/09/27/nx-s1-5981063/from-human-rights-to-mathematical-research-how-ai-is-being-used-for-good",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "While many fear the potential dangers of AI, some experts across the cybersecurity and human rights communities want to wield it as a tool for good."
+      "headline": "Caleb Flynn trial: Billy Bush reacts to AI love songs and mistress texts played in court",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1meGpua2VWU0d3ZnJjNTRhYWt0THZNdHlJQmwzcjFwZ0hqOW5MRGg0Y09VZmt6T2VkNW1aXzU1dVVlNGVfWU5QQkM2TlNZS04tYUw0ZkdB?oc=5",
+      "pub_date": 1790527571.0,
+      "article_url": "https://www.foxnews.com/video/6405704732112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06e83034-8e8b-4943-97c2-b95402049433/e1e3d327-a792-4a2c-ae82-85fd397728d0/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Fox News contributor Billy Bush joins Jacqui Heinrich to analyze the murder trial of Caleb Flynn. Bush discusses the AI-generated love songs and over 100,000 text messages sent between Flynn and his mistress."
+    },
+    {
+      "headline": "AG hopefuls Savit, Lloyd spar over Line 5, AI regulation in first debate",
+      "source": "yahoo.com",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0N5YkdNNEEwZ1RwTFdIeEhPVU5vNWNPYlNYMUlPcENmM1RzNXMxdkI5bG9SSW14REdSX2hvNlRCRi13MW92YmJYT3J2U3hlLXlUWEpWODh2Q1Q5YVQwNUNwS3ZoWjIwMW9MUFY5YmtBMTZ3T2VnSmJJd0ttbUtoUXVvbmxPN24yR1AyWVBKVGZ6UQ?oc=5",
+      "pub_date": 1790527342.0,
+      "article_url": "https://www.yahoo.com/news/politics/articles/ag-hopefuls-savit-lloyd-spar-164222408.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/7041fc85ca76a5802120a35752bcac54ec28b72fe3a627540ff113d1cd6bce05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F7d044879459c82c8722c9e08454f2525.png",
+      "description": "Republican Eaton County Prosecutor Doug Lloyd and Democratic Washtenaw County Prosecutor Eli Savit are running to succeed Attorney General Dana Nessel"
     },
     {
       "headline": "College president warns AI could strengthen education \u2014 or create dangerous shortcuts: 'It\u2019s how we manage it'",
@@ -103,8 +83,28 @@
       "article_url": "https://www.foxbusiness.com/fox-news-tech/college-president-warns-ai-could-strengthen-education-create-dangerous-shortcuts-how-we-manage",
       "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/students-using-tech.png?ve=1&tl=1",
       "description": "New College of Florida President Richard Corcoran explains how universities can embrace artificial intelligence while ensuring students develop critical thinking, communication and other skills needed in the workplace."
+    },
+    {
+      "headline": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and it is pausing training for a second time",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5",
+      "pub_date": 1790436300.0,
+      "article_url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?resize=1200,600",
+      "description": "OpenAI looks to improve test security again after upgrades it made after the Hugging Face attack proved insufficient."
+    },
+    {
+      "headline": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+      "pub_date": 1790503260.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "image": "https://i.guim.co.uk/img/media/8509a811ce07903e33ca86e3a3e0f15660d50e89/960_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed38a62087a7a05447efc52f9d82803",
+      "description": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T12:19:18.412295+00:00"
+  "fetched_at": "2026-09-27T17:09:50.601070+00:00"
 }
