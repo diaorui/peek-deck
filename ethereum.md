@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-27T06:20:15.730474+00:00'
+updated: '2026-09-27T12:19:20.228800+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - news
-- cryptocurrency
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 06:20 UTC  
+**Last Updated:** September 27, 2026 at 12:19 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
-**7d:** -2.4%  
-**30d:** +10.2%  
-**90d:** +72.4%  
-**1y:** -34.5%  
+**24h:** +1.1%  
+**7d:** -2.2%  
+**30d:** +10.4%  
+**90d:** +72.7%  
+**1y:** -34.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $330.61B
+**Market Cap:** $331.42B
 Rank #2
 
 **Circulating Supply:** 122,084,678 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.2%
+-45.1%
 
 **All-Time Low:** $0.43
-+625362.2%
++626877.3%
 
 ---
 
@@ -152,19 +152,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Ethereum, Solana and Zcash Face Wild Year-End Price Predictions](https://news.bitcoin.com/price-predictions/ethereum-solana-and-zcash-face-wild-year-end-price-predictions/)**
-
-Ethereum, solana and zcash face $31M in prediction market bets as traders eye $3K, $140 and $2K targets before 2027.
-
-news.bitcoin.com • 11h ago
-
----
-
 **[A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.](https://finance.yahoo.com/markets/crypto/articles/former-blackrock-executive-calls-bitcoin-174954154.html)**
 
 A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -172,7 +164,15 @@ Yahoo Finance • 12h ago
 
 Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to "stay tuned" for what comes next, stopping short of naming a new target.Speaking on the Coinage podcast on Thursday, Lee explained that the 5% goal had arr…
 
-tradingview.com • 17h ago
+TradingView • 23h ago
+
+---
+
+**[ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked](https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/)**
+
+ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
+
+CryptoSlate • 1d ago
 
 ---
 
@@ -184,11 +184,11 @@ Benzinga • 1d ago
 
 ---
 
-**[ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked](https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/)**
+**[1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee](https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/)**
 
-ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
+Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
 
-CryptoSlate • 22h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -204,13 +204,13 @@ Fortune • 1d ago
 
 NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
 
-markets.businessinsider.com • 1d ago
+markets.businessinsider.com • 2d ago
 
 ---
 
-**[Hackers drain $7 million from crypto casino Duelbits in suspected private key compromise](https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack)**
+**[Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes](https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes)**
 
-Attackers drained Duelbits' hot wallets across four blockchains, and about $6 million in stolen funds now sits in a single Ethereum address.
+The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains.
 
 CoinDesk • 2d ago
 
@@ -220,7 +220,7 @@ CoinDesk • 2d ago
 
 Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ Yahoo Finance • 1d ago
 
 Fundstrat’s Tom Lee expects Bitcoin CRYPTO:BTCUSD to maintain a $150,000 target while arguing Ethereum CRYPTO:ETHUSD could eventually reach $60,000 as tokenization, Wall Street adoption and AI bring a much larger pool of investors into digital assets.Why Lee Calls It Bigger Bull MarketIn a "Money T…
 
-tradingview.com • 1d ago
+TradingView • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 3K • 👍 57 • 💬 6 • ⏱️ 8:46 • 10h ago
+👁️ 5K • 👍 76 • 💬 6 • ⏱️ 8:46 • 16h ago
 
 ---
 
@@ -252,27 +252,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Lark Davis
 
-👁️ 23K • 👍 531 • 💬 74 • ⏱️ 7:46 • 17h ago
-
----
-
-**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
-
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
-
-📺 Crypto Capital Venture
-
-👁️ 22K • 👍 607 • 💬 88 • ⏱️ 14:43 • 12h ago
-
----
-
-**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
-
-BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 343 • 💬 56 • ⏱️ 24:53 • 7h ago
+👁️ 25K • 👍 559 • 💬 79 • ⏱️ 7:46 • 23h ago
 
 ---
 
@@ -282,7 +262,7 @@ Tokenized stock launchpads are the best performing coins in crypto right now. We
 
 📺 Beanstock - Crypto & Stocks
 
-👁️ 3K • 👍 64 • 💬 10 • ⏱️ 10:17 • 12h ago
+👁️ 3K • 👍 66 • 💬 6 • ⏱️ 10:17 • 18h ago
 
 ---
 
@@ -292,7 +272,27 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 40K • 👍 608 • 💬 58 • ⏱️ 23:38 • 2d ago
+👁️ 42K • 👍 620 • 💬 58 • ⏱️ 23:38 • 2d ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+
+BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 17K • 👍 423 • 💬 61 • ⏱️ 24:53 • 13h ago
+
+---
+
+**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
+
+CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+
+📺 Crypto Capital Venture
+
+👁️ 25K • 👍 671 • 💬 90 • ⏱️ 14:43 • 18h ago
 
 ---
 
@@ -302,37 +302,37 @@ SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement laye
 
 📺 Paul Barron Network
 
-👁️ 59K • 👍 992 • 💬 160 • ⏱️ 38:35 • 1d ago
+👁️ 62K • 👍 1K • 💬 160 • ⏱️ 38:35 • 1d ago
 
 ---
 
-**[NEAR Did +158% While ETH Did +9%.. So I Did THIS](https://www.youtube.com/watch?v=5U_aizQsd0k)**
+**[BlackRock Insider Drops MASSIVE Ethereum Prediction - ETH Is About To EXPLODE](https://www.youtube.com/watch?v=fxFyVmuJjjk)**
+
+Crypto just got hit with a massive wave of updates as the SEC releases new guidance that could reshape onchain finance, ...
+
+📺 TheLiquidLayer
+
+👁️ 45 • 👍 1 • 💬 1 • ⏱️ 12:38 • 14h ago
+
+---
+
+**[Ethereum: Nobody Is READY For September 30th!!](https://www.youtube.com/watch?v=fqKofUiEqK8)**
 
 WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 578 • 👍 22 • 💬 15 • ⏱️ 4:46 • 19h ago
+👁️ 3K • 👍 41 • 💬 38 • ⏱️ 4:56 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=olzONjwpSpk)**
+**[Ethereum (ETH) - Análise de hoje, 27/09/2026.](https://www.youtube.com/watch?v=5k9OO9UbilU)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ASSINE GEMAS Altcoins - (R$100/mês): https://pay.hotmart.com/Y93614691E ⚡ EXCHANGE PARCEIRA OFICIAL DO CANAL ...
 
-📺 Crypto Gyan
+📺 Trade with Renato Ulianov
 
-👁️ 324 • 👍 48 • ⏱️ 7:16 • 2h ago
-
----
-
-**[Bitcoin VS Ethereum](https://www.youtube.com/watch?v=YO6hTcdSGlU)**
-
-Everyone talks about Bitcoin and Ethereum like they're the same thing. They're not. Here's the difference explained in under 60 ...
-
-📺 Braiden Shaw
-
-👁️ 3K • 👍 60 • 💬 2 • ⏱️ 1:39 • 1d ago
+👁️ 276 • 👍 73 • 💬 3 • ⏱️ 3:33 • 1h ago
 
 ---
 
