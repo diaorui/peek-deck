@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-27T17:09:52.212648+00:00'
+updated: '2026-09-27T20:18:53.342269+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 27, 2026 at 17:09 UTC  
+**Last Updated:** September 27, 2026 at 20:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -3.2%  
-**30d:** +9.3%  
-**90d:** +70.9%  
-**1y:** -35.1%  
+**24h:** +0.4%  
+**7d:** -2.9%  
+**30d:** +9.6%  
+**90d:** +71.5%  
+**1y:** -34.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.22B
+**Market Cap:** $329.05B
 Rank #2
 
 **Circulating Supply:** 122,084,678 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.6%
+-45.5%
 
 **All-Time Low:** $0.43
-+620759.2%
++622399.0%
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.
 
-CoinDesk • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 2h ago
 
 A former BlackRock executive with two decades of experience sees Ethereum as the backbone of a new financial system, while a major crypto asset manager says institutions are ready to dump it if growth stalls. The ETF data from last week makes the dispute even harder to call.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -172,23 +172,31 @@ Yahoo Finance • 23h ago
 
 Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency.
 
-The Motley Fool • 5h ago
+The Motley Fool • 8h ago
 
 ---
 
-**[Tom Lee Says ‘Stay Tuned’ As Bitmine Nears 5% Ethereum Goal, Hints At What’s Next](https://www.tradingview.com/news/stocktwits:8df62c3dd094b:0-tom-lee-says-stay-tuned-as-bitmine-nears-5-ethereum-goal-hints-at-what-s-next/)**
+**[Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto](https://www.tradingview.com/news/benzinga:b7d28b4f8094b:0-bitcoin-eyes-100k-ethereum-s-evolution-and-crypto-market-rally-this-week-in-crypto/)**
 
-Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to "stay tuned" for what comes next, stopping short of naming a new target.Speaking on the Coinage podcast on Thursday, Lee explained that the 5% goal had arr…
+This week was a rollercoaster ride for the cryptocurrency market. Bitcoin CRYPTO:BTCUSD surged to a multi-month high, Ethereum CRYPTO:ETHUSD is evolving beyond a blockchain and the crypto market rallied despite legislative setbacks.Here’s a quick recap of the top stories.Bitcoin’s Bullish RunBitcoi…
 
-TradingView • 1d ago
+TradingView • 8h ago
 
 ---
 
-**[Bitcoin Eyes $100K, Ethereum's Evolution and Crypto Market Rally: This Week in Crypto](https://www.benzinga.com/crypto/cryptocurrency/26/09/62012010/bitcoin-eyes-100k-ethereums-evolution-and-crypto-market-rally-this-week-in-crypto)**
+**['It's really not just a blockchain anymore': Vitalik Buterin maps Ethereum's path to 2030](https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953)**
 
-Bitcoin neared $100,000 as crypto markets rallied, Ethereum expanded its network ambitions, and Kalshi faced scrutiny over trading activity.
+The Ethereum co-founder says the Hegota upgrade planned for next year is likely the network's last 'normal' fork before recursive STARKs, formal verification, and quantum safety take over.
 
-benzinga.com • 5h ago
+The Block • 5h ago
+
+---
+
+**[New Crypto: Remittix Releases RTX Launch Date as Ethereum Price Prediction Targets $18K and Whale Buying Grows](https://markets.businessinsider.com/news/stocks/new-crypto-remittix-releases-rtx-launch-date-as-ethereum-price-prediction-targets-18k-and-whale-buying-grows-1036576438)**
+
+MAJURO, Marshall Islands, Sept.  27, 2026  (GLOBE NEWSWIRE) -- Remittix has confirmed Nov. 24, 2026, as the scheduled token-debut date for RTX aft...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -196,7 +204,7 @@ benzinga.com • 5h ago
 
 Puffer and Google Cloud want to make Ethereum feel instant by financially backing transaction results before final settlement.
 
-CryptoSlate • 4h ago
+CryptoSlate • 7h ago
 
 ---
 
@@ -208,27 +216,19 @@ Fortune • 2d ago
 
 ---
 
-**[Apeing Enters Stage 5 of Presale as Community-Focused Ethereum Token Surpasses $106,000 Raised](https://markets.businessinsider.com/news/stocks/apeing-enters-stage-5-of-presale-as-community-focused-ethereum-token-surpasses-106-000-raised-1036573356)**
-
-NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to...
-
-markets.businessinsider.com • 2d ago
-
----
-
-**[Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-25-2026-is-bitcoin-finally-on-a-path-to-250000-113048042.html)**
-
-Bitcoin opened at $84,378.12 on Friday, September 25, 2026, flat from Thursday's open. As of 7:14 a.m. ET this morning, the price of bitcoin lifted to $85,199.84. Ethereum opened at $2,687.33 on Friday, September 25, 2026, up 0.1% from Thursday's opening price. The price of ethereum moved up to $2,738.36 as of 7:14 a.m. ET.
-
-Yahoo Finance • 2d ago
-
----
-
 **[Ethereum Exchange Supply Hits Record Low as ETH Gains 10% — Is a Correction Next?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next)**
 
 Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally.
 
 benzinga.com • 2d ago
+
+---
+
+**[Tom Lee Says ‘Stay Tuned’ As Bitmine Nears 5% Ethereum Goal, Hints At What’s Next](https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-stay-tuned-123720932.html)**
+
+Tom Lee-backed Bitmine now holds 4.9% of the supply of all the Ethereum in circulation.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -242,17 +242,7 @@ Is Ethereum finally ready for a major move? You'll see exactly why I'm bullish o
 
 📺 EllioTrades
 
-👁️ 991 • 👍 106 • 💬 16 • ⏱️ 12:21 • 55m ago
-
----
-
-**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
-
-The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
-
-📺 Money Rules - Investing Tips 
-
-👁️ 11K • 👍 1K • 💬 227 • ⏱️ 16:24 • 5h ago
+👁️ 5K • 👍 346 • 💬 24 • ⏱️ 12:21 • 4h ago
 
 ---
 
@@ -262,7 +252,17 @@ Want to see what John's actually buying? He just deployed a big chunk of his por
 
 📺 Milk Road
 
-👁️ 670 • 👍 44 • 💬 101 • ⏱️ 13:09 • 4h ago
+👁️ 2K • 👍 53 • 💬 101 • ⏱️ 13:09 • 7h ago
+
+---
+
+**[The Biggest Crypto Bull Run In History Is Going To Set Bitcoin &amp; Ethereum Holders Up For Life](https://www.youtube.com/watch?v=jsm5NyNiT4c)**
+
+The clock is ticking, and I dont think people actually want to realize that its happening. The Ethereum and crypto news the last few ...
+
+📺 Money Rules - Investing Tips 
+
+👁️ 19K • 👍 1K • 💬 302 • ⏱️ 16:24 • 8h ago
 
 ---
 
@@ -272,17 +272,7 @@ Ethereum has been consolidating for five years. What happens next? On Fundstrat'
 
 📺 Fundstrat
 
-👁️ 1K • 👍 56 • 💬 1 • ⏱️ 0:36 • 2h ago
-
----
-
-**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
-
-Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
-
-📺 Bitcoin Strategy
-
-👁️ 6K • 👍 82 • 💬 8 • ⏱️ 8:46 • 21h ago
+👁️ 2K • 👍 91 • 💬 1 • ⏱️ 0:36 • 5h ago
 
 ---
 
@@ -292,27 +282,37 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Lark Davis
 
-👁️ 27K • 👍 581 • 💬 82 • ⏱️ 7:46 • 1d ago
+👁️ 29K • 👍 592 • 💬 83 • ⏱️ 7:46 • 1d ago
 
 ---
 
-**[Altcoins Haven&#39;t Had A Bull Market In 6 Years... This Ethereum Chart Says It&#39;s About To Start](https://www.youtube.com/watch?v=mPSeKc-arqg)**
+**[🔥 Big Money Is Buying Ethereum - ETH Crypto Analysis](https://www.youtube.com/watch?v=B6oVX688zaw)**
 
-CCV Risk Models & Intelligence System — Start your free trial: https://app.cryptocapitalventure.ai/ CCV Intelligence Research ...
+Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard AI: mybtcguy.com My Chart Software: ...
 
-📺 Crypto Capital Venture
+📺 Bitcoin Strategy
 
-👁️ 28K • 👍 712 • 💬 140 • ⏱️ 14:43 • 23h ago
+👁️ 6K • 👍 85 • 💬 8 • ⏱️ 8:46 • 1d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+**[Ethereum: Tonight&#39;s Weekly Close Decides EVERYTHING!!](https://www.youtube.com/watch?v=0N-t7-O5mho)**
 
-BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+Ethereum (ETH) closed just under 2707 four nights in a row, each night a little higher, then broke through this morning. Tonight's ...
 
-📺 Crypto World
+📺 Marzell Crypto
 
-👁️ 20K • 👍 458 • 💬 105 • ⏱️ 24:53 • 18h ago
+👁️ 634 • 👍 16 • 💬 38 • ⏱️ 4:40 • 7h ago
+
+---
+
+**[Wall Street Acaba de Elegir a Ethereum. Esto es lo que Ocurrirá con las Altcoins](https://www.youtube.com/watch?v=J0cIhsteU28)**
+
+Durante los últimos años, Bitcoin ha sido el gran ganador de la adopción institucional. Mientras el sector retail seguía ...
+
+📺 Healthy Pockets
+
+👁️ 12K • 👍 805 • 💬 96 • ⏱️ 14:21 • 5h ago
 
 ---
 
@@ -322,7 +322,7 @@ Tokenized stock launchpads are the best performing coins in crypto right now. We
 
 📺 Beanstock - Crypto & Stocks
 
-👁️ 4K • 👍 71 • 💬 8 • ⏱️ 10:17 • 23h ago
+👁️ 4K • 👍 72 • 💬 8 • ⏱️ 10:17 • 1d ago
 
 ---
 
@@ -332,7 +332,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 JOIN THE PREMIUM GROUP FOR TRADE SETUPS, MENT
 
 📺 Cilinix Crypto
 
-👁️ 631 • 👍 26 • 💬 11 • ⏱️ 4:48 • 7h ago
+👁️ 928 • 👍 30 • 💬 10 • ⏱️ 4:48 • 10h ago
 
 ---
 

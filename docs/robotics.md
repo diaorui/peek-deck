@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-27T17:09:52.215788+00:00'
+updated: '2026-09-27T20:18:53.345539+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 27, 2026 at 17:09 UTC  
+**Last Updated:** September 27, 2026 at 20:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ I’m hosting a small online workshop on humanoid robot simulation and mechanica
 
 A few people on Reddit suggested setting up a page for funding, so we finally did! We’ve already gotten pretty close to our goal, and we’re really grateful for all the support so far! We’re raising the remaining amount mainly for hardware and technical costs for the hackathon. Any contribution or share would really help us get there! I’d post the link in the comments! Our post - Update + thank you! We’re a group of students organizing a Drone & Physical AI Hackathon in Boston in October, and I posted here a few days ago asking the robotics community for help with venue/funding leads. Previous post: https://www.reddit.com/r/robotics/s/aZEnfKbbBu You guys were incredibly helpful, and thanks to a suggestion from Reddit we actually found a venue! We also met some amazing people who gave us really helpful advice, so genuinely thank you. Our next challenge is funding the hardware we need to actually make the hackathon happen. We reached out to our school, but since we’re not part of an official club and the event is in another state for logistics, getting university funding has been difficult. We’re still trying! If anyone has any funding/sponsor leads, especially for hardware, we’d really appreciate your help again
 
-2d ago
+3d ago
 
 ---
 
@@ -116,35 +116,19 @@ Ars Technica • 1d ago
 
 ---
 
-**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
-
-The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
-
-Interesting Engineering • 22h ago
-
----
-
 **[Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)](https://www.engadget.com/2266933/humanoid-robot-cries-on-command/)**
 
 Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation.
 
-engadget.com • 3h ago
+engadget.com • 7h ago
 
 ---
 
-**[Ex-defense minister Fedorov announces new 'Army of Robots' initiative in latest move since leaving office](https://kyivindependent.com/ex-defense-minister-fedorov-announces-new-army-of-robots-initiative-in-latest-move-since-leaving-office/)**
+**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
 
-According to Fedorov, the initiative will be not one company, but an "ecosystem," combining investment, native production, and R&D.
+Feather is betting on a customizable, $30,000 platform built for software developers.
 
-The Kyiv Independent • 1d ago
-
----
-
-**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
-
-Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
-
-WSB-TV • 16h ago
+TechCrunch • 3d ago
 
 ---
 
@@ -152,7 +136,15 @@ WSB-TV • 16h ago
 
 The World Humanoid Games were actually a social experiment in the making.
 
-Slate Magazine • 7h ago
+Slate Magazine • 10h ago
+
+---
+
+**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
+
+Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
+
+wsbtv.com • 19h ago
 
 ---
 
@@ -160,7 +152,15 @@ Slate Magazine • 7h ago
 
 Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
 
-TechCrunch • 1d ago
+TechCrunch • 2d ago
+
+---
+
+**[US Air Force receives first ‘robot wingmen’ drones to begin autonomous warfare trials](https://interestingengineering.com/ai-robotics/us-receives-first-robot-wingmen-drones)**
+
+The US Air Force has received its first two CCAs for testing alongside crewed fighters at its Creech base in Nevada.
+
+Interesting Engineering • 8h ago
 
 ---
 
@@ -172,19 +172,19 @@ Business Insider • 2d ago
 
 ---
 
+**[Ex-defense minister Fedorov announces new 'Army of Robots' initiative in latest move since leaving office](https://kyivindependent.com/ex-defense-minister-fedorov-announces-new-army-of-robots-initiative-in-latest-move-since-leaving-office/)**
+
+According to Fedorov, the initiative will be not one company, but an "ecosystem," combining investment, native production, and R&D.
+
+kyivindependent.com • 1d ago
+
+---
+
 **[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
 Your weekly selection of awesome robot videos
 
-IEEE Spectrum • 4h ago
-
----
-
-**[autonomous robotic hand walks on its fingertips like the addams family’s thing](https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/)**
-
-researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm.
-
-Designboom • 2d ago
+IEEE Spectrum • 7h ago
 
 ---
 
@@ -208,27 +208,7 @@ He got REK-ed. After besting us in everything from track-and-field to medicine, 
 
 📺 New York Post
 
-👁️ 36K • 👍 355 • 💬 229 • ⏱️ 1:17 • 1d ago
-
----
-
-**[How Robots Went From Giant Arms to Humanoids](https://www.youtube.com/watch?v=2q0pOBi7eRQ)**
-
-From Unimate to Atlas, robots have evolved from simple programmable machines into increasingly mobile, sensor-equipped and ...
-
-📺 Unlocked Timekeeper
-
-👁️ 1K • 👍 51 • 💬 2 • ⏱️ 2:41 • 1d ago
-
----
-
-**[Hide Your Job?🤯 AI Robots Just Stopped Dancing and Started Working 🤖📦](https://www.youtube.com/watch?v=8nNkgf3bAMA)**
-
-We've watched robots dance, flip, box and run. But this may be the part of the robotics revolution that matters more. Chinese ...
-
-📺 BI️ Studio of Emotional Intelligence 
-
-👁️ 1K • 👍 6 • 💬 2 • ⏱️ 0:26 • 9h ago
+👁️ 39K • 👍 367 • 💬 244 • ⏱️ 1:17 • 1d ago
 
 ---
 
@@ -238,37 +218,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 733K • 👍 6K • 💬 697 • ⏱️ 4:18 • 4d ago
-
----
-
-**[ITKAN x SWYFT BIOBUZZ Ri3D Elevator Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d](https://www.youtube.com/watch?v=_r3dA2yeGiw)**
-
-ITKAN x SWYFT BIOBUZZ Ri3D Elevator Analysis #ftc #biobuzz #robotics #first #swyft #itkan #ri3d.
-
-📺 SWYFT Robotics
-
-👁️ 2K • 👍 28 • 💬 1 • ⏱️ 0:23 • 1d ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
-
-📺 ejunky66
-
-👁️ 281K • 👍 3K • 💬 300 • ⏱️ 1:00 • 3d ago
-
----
-
-**[Human-Like Dexterity. Machine-Speed Precision.](https://www.youtube.com/watch?v=r8-IIO1tqoE)**
-
-What if a robotic hand could see, understand, and manipulate the physical world like a human but at incredible speed?
-
-📺 Aman Jain
-
-👁️ 36K • 👍 558 • 💬 55 • ⏱️ 0:16 • 6d ago
+👁️ 736K • 👍 6K • 💬 697 • ⏱️ 4:18 • 4d ago
 
 ---
 
@@ -278,7 +228,37 @@ Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A 
 
 📺 Mark Dice
 
-👁️ 604K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
+👁️ 606K • 👍 18K • 💬 5K • ⏱️ 19:23 • 4d ago
+
+---
+
+**[Humanoid Robots Now Cost €2,999 - And They Already Have Jobs!](https://www.youtube.com/watch?v=aWj2Tu3eBQ0)**
+
+IFA 2026 revealed just how quickly humanoid robots are becoming more capable, realistic, and useful in the real world.
+
+📺 Evolving AI
+
+👁️ 23K • 👍 144 • 💬 18 • ⏱️ 12:11 • 5d ago
+
+---
+
+**[Ai Warning: THESE Robots Are DANGEROUSLY STRONG... Is Humanity Doomed?](https://www.youtube.com/watch?v=6dFssT_BB-c)**
+
+AI Warning - robots are fighting HUMANS now and they're strong. A man named Frankie Lapenna actually stepped inside the ...
+
+📺 MindSeeded
+
+👁️ 82K • 👍 3K • 💬 273 • ⏱️ 13:48 • 3d ago
+
+---
+
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
+
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
+
+📺 RoboFrontier
+
+👁️ 64K • 👍 244 • 💬 69 • ⏱️ 4:15 • 6d ago
 
 ---
 
@@ -288,7 +268,27 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 355K • 👍 536 • 💬 70 • ⏱️ 0:59 • 4d ago
+👁️ 355K • 👍 542 • 💬 70 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[Chinese robots dance their way into America’s Got Talent finale](https://www.youtube.com/watch?v=_Xr9NxyG_GU)**
+
+Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtube Read more about this topic: https://sc.mp/8185aa ...
+
+📺 South China Morning Post
+
+👁️ 207K • 👍 1K • 💬 257 • ⏱️ 2:40 • 6d ago
+
+---
+
+**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
+
+Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
+
+📺 ejunky66
+
+👁️ 311K • 👍 3K • 💬 317 • ⏱️ 1:00 • 3d ago
 
 ---
 

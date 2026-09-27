@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 4830,
+      "github_stars": 4922,
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
@@ -73,7 +73,7 @@
       "num_comments": 19,
       "published_at": "2025-03-14T12:44:14.000Z",
       "github_repo": "https://github.com/docling-project/docling",
-      "github_stars": 68014,
+      "github_stars": 68054,
       "project_page": "https://huggingface.co/ds4sd/SmolDocling-256M-preview"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89255,
+      "github_stars": 89296,
       "project_page": null
     },
     {
@@ -145,31 +145,12 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 62,
+      "upvotes": 64,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
       "github_stars": 360,
       "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
-    },
-    {
-      "id": "2503.08638",
-      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
-      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
-      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
-      "hf_url": "https://huggingface.co/papers/2503.08638",
-      "arxiv_url": "https://arxiv.org/abs/2503.08638",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
-      "upvotes": 78,
-      "num_comments": 3,
-      "published_at": "2025-03-11T13:26:50.000Z",
-      "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 10366,
-      "project_page": "https://map-yue.github.io/"
     },
     {
       "id": "2609.25001",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/TencentARC/GameHorizon",
       "github_stars": 286,
       "project_page": "https://gamehorizon-suite.github.io/"
+    },
+    {
+      "id": "2503.08638",
+      "title": "YuE: Scaling Open Foundation Models for Long-Form Music Generation",
+      "authors": "Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We tackle the task of long-form music generation--particularly the\nchallenging lyrics-to-song problem--by introducing YuE, a family of\nopen foundation models based on the LLaMA2 architecture. Specifically, YuE\nscales to trillions of tokens and generates up to five minutes of music while\nmaintaining lyrical alignment, coherent musical structure, and engaging vocal\nmelodies with appropriate accompaniment. It achieves this through (1)\ntrack-decoupled next-token prediction to overcome dense mixture signals, (2)\nstructural progressive conditioning for long-context lyrical alignment, and (3)\na multitask, multiphase pre-training recipe to converge and generalize. In\naddition, we redesign the in-context learning technique for music generation,\nenabling versatile style transfer (e.g., converting Japanese city pop into an\nEnglish rap while preserving the original accompaniment) and bidirectional\ngeneration. Through extensive evaluation, we demonstrate that YuE matches or\neven surpasses some of the proprietary systems in musicality and vocal agility.\nIn addition, fine-tuning YuE enables additional controls and enhanced support\nfor tail languages. Furthermore, beyond generation, we show that YuE's learned\nrepresentations can perform well on music understanding tasks, where the\nresults of YuE match or exceed state-of-the-art methods on the MARBLE\nbenchmark. Keywords: lyrics2song, song generation, long-form, foundation model,\nmusic generation",
+      "ai_summary": "YuE, a family of open foundation models based on LLaMA2, can generate long-form music with aligned lyrics, coherent structure, and appropriate accompaniment using innovative techniques in next-token prediction, conditioning, and pre-training.",
+      "hf_url": "https://huggingface.co/papers/2503.08638",
+      "arxiv_url": "https://arxiv.org/abs/2503.08638",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2503.08638.png",
+      "upvotes": 78,
+      "num_comments": 3,
+      "published_at": "2025-03-11T13:26:50.000Z",
+      "github_repo": "https://github.com/multimodal-art-projection/YuE",
+      "github_stars": 10386,
+      "project_page": "https://map-yue.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-27T17:09:36.092691+00:00"
+  "fetched_at": "2026-09-27T20:18:32.202830+00:00"
 }
