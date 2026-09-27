@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-09-26T22:25:10.836204+00:00'
+updated: '2026-09-27T00:47:33.637228+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** September 26, 2026 at 22:25 UTC  
+**Last Updated:** September 27, 2026 at 00:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -116,6 +116,36 @@ Ars Technica • 1d ago
 
 ---
 
+**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
+
+The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
+
+Interesting Engineering • 6h ago
+
+---
+
+**[Labor-scarce Japan counts on AI-powered robots](https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries)**
+
+Japan Today • 2d ago
+
+---
+
+**[What if robots didn't need all their AI onboard?](https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/)**
+
+Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads.
+
+Microsoft • 3d ago
+
+---
+
+**[Teen robotics team wows metro Atlanta city, to represent state](https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/)**
+
+Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving.
+
+WSB-TV • 13m ago
+
+---
+
 **[Who Wouldn't Want a Little Goose Robot Help Around the House?](https://spectrum.ieee.org/video-friday-goose-household-robots)**
 
 Your weekly selection of awesome robot videos
@@ -124,11 +154,17 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
+**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
 
-Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
+Breaking Defense • 1d ago
 
-The Robot Report • 1d ago
+---
+
+**[Chinese humanoid robotics firm expanding globally in preparation for IPO](https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html)**
+
+The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience.
+
+CNBC • 2d ago
 
 ---
 
@@ -138,47 +174,11 @@ The New York Times • 2d ago
 
 ---
 
-**[Navy launches Robotics and Autonomous Systems Warfighting Development Center](https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/)**
+**[Agility Robotics, maker of Digit humanoid, exploring wheeled robots](https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/)**
 
-breakingdefense.com • 1d ago
+Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs.
 
----
-
-**[US ally plans robot soldiers to handle dangerous frontline tasks](https://interestingengineering.com/military/us-ally-plans-army-of-robots)**
-
-The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat.
-
-interestingengineering.com • 3h ago
-
----
-
-**[Five Million Robots now Operate in Factories Globally](https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally)**
-
-The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year.
-
-IFR International Federation of Robotics • 2d ago
-
----
-
-**[Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.](https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/)**
-
-Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate.
-
-The Motley Fool • 6h ago
-
----
-
-**[Meet Feather, the startup building the ‘Android of robotics’ for developers](https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/)**
-
-Feather is betting on a customizable, $30,000 platform built for software developers.
-
-techcrunch.com • 2d ago
-
----
-
-**[Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI](https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti)**
-
-Qualcomm • 3d ago
+The Robot Report • 1d ago
 
 ---
 
@@ -192,7 +192,17 @@ Humanoid robots just shocked the AGT judges! Unitree delivered an unbelievable m
 
 📺 World Best Talent
 
-👁️ 129K • 👍 694 • 💬 50 • ⏱️ 25:31 • 19h ago
+👁️ 145K • 👍 779 • 💬 57 • ⏱️ 25:31 • 21h ago
+
+---
+
+**[10,000 People Paid For a Robot Housekeeper (1XNeo)](https://www.youtube.com/watch?v=2Mr35EYrF1g)**
+
+FREE GUIDE: The Content Creator's AI Blueprint* – https://FirstMovers.ai/blueprint/ *1X Neo, the $20000 humanoid robot ...
+
+📺 Julia McCoy
+
+👁️ 11K • 👍 251 • 💬 27 • ⏱️ 6:10 • 1d ago
 
 ---
 
@@ -202,7 +212,7 @@ Humans and robots move together in perfect harmony as Unitree delivers a breatht
 
 📺 America's Got Talent
 
-👁️ 717K • 👍 6K • 💬 685 • ⏱️ 4:18 • 3d ago
+👁️ 719K • 👍 6K • 💬 687 • ⏱️ 4:18 • 3d ago
 
 ---
 
@@ -222,27 +232,7 @@ IFA 2026 revealed just how quickly humanoid robots are becoming more capable, re
 
 📺 Evolving AI
 
-👁️ 22K • 👍 141 • 💬 18 • ⏱️ 12:11 • 5d ago
-
----
-
-**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
-
-Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
-
-📺 Mark Dice
-
-👁️ 592K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
-
----
-
-**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
-
-A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
-
-📺 RoboFrontier
-
-👁️ 59K • 👍 221 • 💬 63 • ⏱️ 4:15 • 5d ago
+👁️ 22K • 👍 142 • 💬 18 • ⏱️ 12:11 • 5d ago
 
 ---
 
@@ -252,7 +242,27 @@ Influencer fights humanoid robot dubbed 'Terminator'. For more context and news 
 
 📺 NBC News
 
-👁️ 353K • 👍 509 • 💬 67 • ⏱️ 0:59 • 3d ago
+👁️ 352K • 👍 513 • 💬 67 • ⏱️ 0:59 • 4d ago
+
+---
+
+**[A Human Just Fought a Humanoid Robot](https://www.youtube.com/watch?v=FIdu5-lPuoU)**
+
+A human just stepped into a fighting cage against a humanoid robot. At a recent REK event in San Francisco, Frankie LaPenna ...
+
+📺 RoboFrontier
+
+👁️ 60K • 👍 225 • 💬 64 • ⏱️ 4:15 • 5d ago
+
+---
+
+**[This Is NOT AI — Man Actually Fights a T-800 Robot - And This is Only The Start](https://www.youtube.com/watch?v=PKbJUro4s2Y)**
+
+Support my work by buying me a coffee here: https://buymeacoffee.com/MarkDice A man fights a six foot tall T-800 robot replica.
+
+📺 Mark Dice
+
+👁️ 594K • 👍 17K • 💬 5K • ⏱️ 19:23 • 3d ago
 
 ---
 
@@ -272,17 +282,7 @@ Elon Musk's 1 BILLION humanoid robot prediction raises a much bigger question…
 
 📺 ejunky66
 
-👁️ 77K • 👍 965 • 💬 146 • ⏱️ 1:00 • 6d ago
-
----
-
-**[Elon Musk Predicts 1,000,000,000 Humanoid Robots… Seriously? 🤯](https://www.youtube.com/watch?v=RCeC5me_nUs)**
-
-Elon Musk says we could eventually see more than 1 BILLION humanoid robots. But getting from today's experimental robots to ...
-
-📺 ejunky66
-
-👁️ 193K • 👍 2K • 💬 247 • ⏱️ 1:00 • 2d ago
+👁️ 78K • 👍 972 • 💬 147 • ⏱️ 1:00 • 6d ago
 
 ---
 

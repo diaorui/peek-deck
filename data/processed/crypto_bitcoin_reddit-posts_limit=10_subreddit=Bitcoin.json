@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Does this happen to anyone else ?",
+      "author": "na7oul",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/",
+      "published": 1790448767.0,
+      "thumbnail": "https://preview.redd.it/q93bch3bvwrh1.jpeg?width=320&crop=smart&auto=webp&s=d07fe2b5ce373e61451042f469076adf598fda6f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Buy Bitcoin",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1wqhxkz/buy_bitcoin/",
@@ -35,15 +46,15 @@
       "description": null
     },
     {
-      "title": "Does this happen to anyone else ?",
-      "author": "na7oul",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqyec9/does_this_happen_to_anyone_else/",
-      "published": 1790448767.0,
-      "thumbnail": "https://preview.redd.it/q93bch3bvwrh1.jpeg?width=320&crop=smart&auto=webp&s=d07fe2b5ce373e61451042f469076adf598fda6f",
+      "title": "I think I was hit by a scam on Electrum that I have never seen before",
+      "author": "AlexanderRow",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqpasx/i_think_i_was_hit_by_a_scam_on_electrum_that_i/",
+      "published": 1790425681.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone."
     },
     {
       "title": "Some btc stats",
@@ -57,37 +68,15 @@
       "description": "Hello, Always, i was wondering who's buying and who's selling bitcoin when the price goes up or down. Then I create my own stats, directly red from the btc blockchain. Feel free to send me feedbacks :) Sincerely btc"
     },
     {
-      "title": "I think I was hit by a scam on Electrum that I have never seen before",
-      "author": "AlexanderRow",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqpasx/i_think_i_was_hit_by_a_scam_on_electrum_that_i/",
-      "published": 1790425681.0,
+      "title": "Is your BTC actually accessible to your family, or just theoretically theirs?",
+      "author": "Same_Masterpiece_916",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wr2ilf/is_your_btc_actually_accessible_to_your_family_or/",
+      "published": 1790459040.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I think I was the victim of a malware on Electrum 4.7.1. I looked for information, but I have never seen anything like this. I sent a transaction to Kraken, to the correct address, but strangely the transaction had a very low fee, different from the one I had set (I set 3 sat/vbyte, it was 0.1 sat/vbyte). So I did a replace-by-fee, but the replace-by-fee sent the funds to a similar address that was not the same one, and now they are going to this address, which I do not know who owns. This is the transaction ID: f4db8cdf211b53a24a4e9825f46d3b6d0b06d312912d04c5a0fffc8d32e96757 Yes, it is 1.26 BTC. It hurts. It hurts a lot. Thank you to anyone who can help by confirming the scam, or by suggesting a way to check if the funds are safe. Thanks. Edit: I'm making this post mostly to warn people to double-check and triple-check the destination address even in a replace-by-fee transaction, because the address can be altered during this phase too according to the Bitcoin protocol. I hope this helps someone avoid falling for the same SCAM I did. The more we learn from our mistakes, the less we get hurt. Thanks, everyone."
-    },
-    {
-      "title": "\"Self-custodial\" Misty Breez LN wallet can no longer make on-chain and Lightning payments due to \"the service\" Breez relies on is no longer available",
-      "author": "Talkless",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqmdmb/selfcustodial_misty_breez_ln_wallet_can_no_longer/",
-      "published": 1790415604.0,
-      "thumbnail": "https://external-preview.redd.it/yfEkkZom6QDrUjuDIUbc8Ap5XUYHMfXp362Hdy31BqU.jpeg?width=640&crop=smart&auto=webp&s=0f54f1a316ca683256bba39fb32fc9a60052e887",
-      "external_url": "https://breez.technology/misty/",
-      "site_name": "breez.technology",
-      "favicon": "https://breez.technology/favicon.svg",
-      "description": "Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?"
-    },
-    {
-      "title": "Help with Accuracy Using Bitcoin Wallet Transaction in a Novel",
-      "author": "Unique_Taro_3788",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqpczg/help_with_accuracy_using_bitcoin_wallet/",
-      "published": 1790425858.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm writing a novel and have a scene with a bitcoin wallet it in. My question: One of the characters was given a bitcoin wallet with money on it (or do you say with bitcoin on it), and he gives the wallet to another character to conduct certain business. When the character spends some of the money in the wallet, is it possible for the character that gave the other character the wallet to tell when, where, and how much money was moved off the wallet? Is that possible? I don't want to ask AI because I wouldn't know whether it was hallucinating. My goal is to write an authentic, believable and realistic scene. Thank you if you can help."
+      "description": "Been thinking about this after reading through a few threads on lost coins. Estimates put lost BTC somewhere around 3-4 million coins already \u2014 permanently gone, not because of hacks, but because the person who held the keys died (or lost access) and nobody else could get in. The part that gets glossed over: even if your family legally inherits your Bitcoin (will, probate, whatever), that's completely separate from whether they can actually access it. A grant of probate doesn't unlock a hardware wallet. It doesn't pass 2FA. If nobody documented where the seed phrase is or which exchanges you used, \"inheriting\" the BTC just means inheriting a wallet address they can see on a block explorer and can't do anything with. A few things worth actually sitting down and answering honestly: If something happened to you today, would your spouse/family even know which exchanges or wallets to look for? If your 2FA is tied to your phone and only your phone, what happens when the phone is locked and nobody has the PIN? Is your seed phrase written somewhere your family could plausibly find \u2014 but a random person going through your stuff couldn't? Not trying to be morbid, just think this is one of those things that's genuinely easy to put off indefinitely because it forces you to think about your own death, but the cost of not doing it is total and permanent for the people you'd actually want to inherit it. Curious if anyone here has actually been on the \"family member died, tried to access their BTC\" side of this. Did it work? Did anything get lost?"
     },
     {
       "title": "River Financial has sued Blockstream Services Canada, alleging breach of contract over a termination agreement requiring Blockstream to pay River roughly $6.7 million.",
@@ -101,16 +90,27 @@
       "description": null
     },
     {
-      "title": "Crypto investors when BTC drops 3% in a bull market",
-      "author": "Cryptomuscom",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1wpwqz9/crypto_investors_when_btc_drops_3_in_a_bull_market/",
-      "published": 1790343898.0,
-      "thumbnail": "https://preview.redd.it/nbtet03h7orh1.jpeg?width=640&crop=smart&auto=webp&s=08ea65562b0766d79558815ab1f55ab43777e71d",
+      "title": "\"Self-custodial\" Misty Breez LN wallet can no longer make on-chain and Lightning payments due to \"the service\" Breez relies on is no longer available",
+      "author": "Talkless",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqmdmb/selfcustodial_misty_breez_ln_wallet_can_no_longer/",
+      "published": 1790415604.0,
+      "thumbnail": "https://external-preview.redd.it/yfEkkZom6QDrUjuDIUbc8Ap5XUYHMfXp362Hdy31BqU.jpeg?width=640&crop=smart&auto=webp&s=0f54f1a316ca683256bba39fb32fc9a60052e887",
+      "external_url": "https://breez.technology/misty/",
+      "site_name": "breez.technology",
+      "favicon": "https://breez.technology/favicon.svg",
+      "description": "Screenshot for archive: https://i.imgur.com/RcmnY8O.png Now users must use OTHER app to move into L-BTC and then somehow swap into BTC addres.. or smth..?"
+    },
+    {
+      "title": "BISQ problem",
+      "author": "Vast_Description_810",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1wqxjun/bisq_problem/",
+      "published": 1790446724.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "how do I top up my Bisq wallet to buy BTC in bisq? Can anyone let me know a website or something that can top up your bisq wallet without any form of KYC? if anyone knows, please leave a reply below. Cheers!"
     }
   ],
-  "fetched_at": "2026-09-26T19:33:02.635580+00:00"
+  "fetched_at": "2026-09-27T00:47:02.232084+00:00"
 }
