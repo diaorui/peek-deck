@@ -35,6 +35,17 @@
       "description": "Not something you occasionally use AI for. Something where you've reached the point of thinking, \u201cWhy would I ever do this the old way again?\u201d What changed your workflow?"
     },
     {
+      "title": "building a humor benchmark for LLMs: someone told me my benchmark's best result was just memory, so i ran his test",
+      "author": "AffectionateGas9544",
+      "url": "https://www.reddit.com/r/artificial/comments/1wruwja/building_a_humor_benchmark_for_llms_someone_told/",
+      "published": 1790541324.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "hey guys! i've been building lolbench, a benchmark for whether LLMs actually understand humor. models do three things: explain why a joke works, write jokes on a shared setup, and rank jokes by human preference. everything is auto-judged by models from other labs, plus a blind human vote booth the finding i tried so hard but couldnt explain: every model aces explaining why a real joke works (95%+) but drops on explaining why a failed joke fails (81-92%). that's one tier of my set, 25 items, the hardest part I built but a few weeks ago commenter on reddit told me that gap might not be reasoning at all. his argument: famous jokes ship with commentary everywhere, so \"explain why this works\" is partly just recall. failed jokes have no commentary, so explaining those is pure generation. the gap might just be measuring the distance between remembering and thinking so i ran a kill test -- run genuinely obscure jokes (ones with zero analysis anywhere online) through the same pipeline. if the scores collapse toward the dud number, then my whole axis is familiarity, not reasoning so i ran it. 87 obscure jokes, each one web-verified to have no commentary anywhere, 7 models, 2 judges, 885 graded pairs, $0 the scores didn't collapse. obscure working jokes score the same as famous ones, the gap centers on zero (mean +0.1, every model inside the confidence interval). and the working-vs-failed gap survives between two equally obscure items, where there's nothing to retrieve on either side per-model table : lolbench.lol/kill-test happy to answer anything about the eval system!"
+    },
+    {
       "title": "We need Universal Basic Income before losing your job to AI becomes your financial emergency",
       "author": "Karmaa",
       "url": "https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/",
@@ -57,15 +68,26 @@
       "description": null
     },
     {
-      "title": "Do reference sketches improve character consistency across AI video clips?",
-      "author": "Brave-Round-3573",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/",
-      "published": 1790520916.0,
+      "title": "AI labs need business-style controls on testing and release, and the recent incidents show why",
+      "author": "BubblyOption7980",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrylwi/ai_labs_need_businessstyle_controls_on_testing/",
+      "published": 1790550761.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "A long text prompt can describe a character, but face shape, clothing, and proportions may still drift between shots. One possible test would compare two workflows with the same scene and number of generation attempts: (1) a detailed text description for every shot; (2) one character sketch and two scene sketches reused as visual references. Each clip would have one action and one camera move. The useful comparison is the edited three-shot sequence, not the strongest frame from each generation. After each cut, does the character still look like the same person? If not, would you revise the reference images, simplify the motion, or edit around the mismatch? I would be interested in methods that hold up across multiple clips, including what failed."
+      "description": "I wrote this piece and wanted to share it here for discussion. Much of the coverage of the recent security incidents at OpenAI, Anthropic and other labs describes agents scheming or seeking freedom. I argue that this language shifts attention away from the people who decide how these systems are tested, what they can access and when they are released. The Hugging Face incident at OpenAI is a useful example. Agents used exposed access keys and software flaws to get into an outside system, and the first round of repairs fixed individual weaknesses without restoring the intended isolation. Long-standing business practice already covers this kind of failure. A serious incident during testing should trigger an investigation and an approval step before work resumes, and the team running a test should not be the one that approves its own work. Boards should require independent safety reviews with the authority to block a project. Lawmakers should require disclosure of serious incidents. I also discuss the Sanders and Casar bill introduced on September 23, which would permanently ban artificial superintelligence. My view is that controls, liability and disclosure rules are a better starting point than a ban, and I would like to hear where people think that falls short. Link: https://www.forbes.com/sites/paulocarvao/2026/09/24/ai-makes-traditional-business-controls-fashionable-again/"
+    },
+    {
+      "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)",
+      "author": "coolbern",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/",
+      "published": 1790550162.0,
+      "thumbnail": "https://external-preview.redd.it/X1s4i7afhRGS6XGxJIM35dEL0EmuhFi_v-vIVKcNFlY.jpeg?width=640&crop=smart&auto=webp&s=8a7f55b668101ecbda73ccd16ebe9f3c2cf97fa1",
+      "external_url": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.HxwL.XgNPD2L3N4-p&smid=url-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Question about the AI singularity",
@@ -79,38 +101,16 @@
       "description": "Wouldn\u2019t it be reasonable to assume that the Industrial Revolution also would have produced such a singularity? How about the dawn of the Bronze Age? If those are different, and I\u2019m not saying they aren\u2019t, what makes the AI one unique exactly?"
     },
     {
-      "title": "Harmony launches AI agents for IT and HR work in Slack",
-      "author": "Codeblix_Ltd",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrtjrx/harmony_launches_ai_agents_for_it_and_hr_work_in/",
-      "published": 1790538155.0,
-      "thumbnail": null,
+      "title": "I Built a Free Chrome Extension That Lets you Fact-Check Websites, Videos, and instagram Reels",
+      "author": "JeffBezosHater",
+      "url": "https://www.reddit.com/r/artificial/comments/1wrvseq/i_built_a_free_chrome_extension_that_lets_you/",
+      "published": 1790543445.0,
+      "thumbnail": "https://preview.redd.it/r1r0jm5jh4sh1.png?width=640&crop=smart&auto=webp&s=ce6b1d316000dd751e0fdd46626ea0c894a8be5c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Harmony launched an AI-native ITSM and ESM platform that puts 100+ production-ready agents in Slack and Teams. Its site says the agents can handle requests such as password resets, app access, onboarding, and device issues, with ticketing, asset inventory, SaaS management, and workflows in one workspace. Harmony says customers reach 60%+ auto-resolution in days and that sensitive actions use approval gates, scoped access, deterministic workflows, and audit logs. A Product Hunt commenter raised a practical concern: auto-resolving access is only useful if approval authority and audit evidence are clear. The real test is whether the agent can act inside policy without becoming a new compliance gap. Sources: https://harmony.io/ https://www.producthunt.com/products/harmony-it"
-    },
-    {
-      "title": "Scotland's hidden pipeline of 'phantom' AI data centres",
-      "author": "ValuableDetail6",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrfu0l/scotlands_hidden_pipeline_of_phantom_ai_data/",
-      "published": 1790501344.0,
-      "thumbnail": "https://external-preview.redd.it/ka6pu4heQ3eAhIMlFjQVop5zBEcNugNMSiqliwdiBzQ.jpeg?width=640&crop=smart&auto=webp&s=c18eecf92739a0f0e1af0ca2893b1014eb2a6b62",
-      "external_url": "https://www.thenational.scot/news/26583628.scotlands-hidden-pipeline-phantom-ai-data-centres/",
-      "site_name": "The National",
-      "favicon": "https://www.thenational.scot/resources/images/17401920/",
-      "description": "WHEN an official from the UK\u2019s grid operator appeared at Holyrood\u2019s energy committee last week, he quietly revealed that Scotland may have more\u2026"
-    },
-    {
-      "title": "US and Russia cut human review of AI targets from UN draft",
-      "author": "Servola-Journal",
-      "url": "https://www.reddit.com/r/artificial/comments/1wrd2l4/us_and_russia_cut_human_review_of_ai_targets_from/",
-      "published": 1790491346.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "WaPo had this yesterday. At the last Geneva session on autonomous weapons, US and Russian diplomats got the line requiring a person to review AI-generated targets taken out of the draft. Two other bits went with it, the one saying these systems have to behave predictably and the one about ethics. It's a draft report, not a treaty. It goes to the CCW review conference in November and France wants a real negotiating mandate out of that. My bet is the mandate happens and the review clause doesn't come back. Nobody at that table burns leverage to put back something two of the biggest delegations just deleted. So human in the loop ends up meaning whatever each country's procurement rules say. I don't know how many of the 128 states would actually fight for it. Is anyone here following the CCW closely enough to know if the UK is pushing? https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/"
+      "description": "How it works: Click one button on the side of the webpage or video, It uses Jev to extract every claim, sends them to a search API and uses the evidence from that to send to another model to resolve every claim and give citations. It gives on average about 17 claims resolved per page. It's free for 3 fact checks a day, and 3 minutes of videos per day, you get a 24 hour free trial with more usage than you could possibly ever need. If anyoen wants to trade reviews, comment down below."
     }
   ],
-  "fetched_at": "2026-09-27T20:18:21.054378+00:00"
+  "fetched_at": "2026-09-27T23:16:31.680149+00:00"
 }
