@@ -9,7 +9,7 @@
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
-      "pub_date": 1790460129.0,
+      "pub_date": 1790473540.0,
       "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
       "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
       "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
@@ -25,24 +25,24 @@
       "description": null
     },
     {
-      "headline": "Trump and Xi agree to set up AI safety channel as military and trade talks continue",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dUpmR2ZvR3VEMVNKdW1CcnRvbWl3cFNvQTBneEVzaktVSmlINU9WQ2E2QlZ3NmF4RlpmcVZyS0tOSmdWRHBNTUkyaXVHbEtBTDZyX29KOGwzaV9NaVhmTms0dUVISkRrdEhtamJEbXo?oc=5",
-      "pub_date": 1790450813.0,
-      "article_url": "https://www.cbsnews.com/news/trump-xi-us-china-ai-trade-summit/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/26/0eba2d16-3150-47e5-bbbd-8f3de7541fea/thumbnail/1200x630/ebacc37cdc58b3f742fff044cc8bc9df/ap26268640229324.jpg",
-      "description": "The White House said the two leaders agreed on using the term \"super intelligence\" rather than \"artificial intelligence\" to describe the technology."
-    },
-    {
-      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "headline": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
-      "pub_date": 1790378200.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VZXZwemNzZVFuNWFKWWE4dDlUWmVycE5oTDdvc3VoVHl1alRiczhkdE5EOEp5SkE5OUtpWVgzUFBMS0FVd21rQmtoejFCc19xMTktVThzaG5obmVxU05RU0E3dzJwVTJtdnZXcktEUVVDS2syT1JrTmVINA?oc=5",
+      "pub_date": 1790481684.0,
+      "article_url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "source": "theguardian.com",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5",
+      "pub_date": 1790476380.0,
+      "article_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "image": "https://i.guim.co.uk/img/media/8509a811ce07903e33ca86e3a3e0f15660d50e89/960_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ed38a62087a7a05447efc52f9d82803",
+      "description": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways"
     },
     {
       "headline": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and it is pausing training for a second time",
@@ -55,56 +55,56 @@
       "description": "OpenAI looks to improve test security again after upgrades it made after the Hugging Face attack proved insufficient."
     },
     {
-      "headline": "Scoop: Top AI companies probing tens of thousands of security incidents",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
-      "pub_date": 1790462353.0,
-      "article_url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "headline": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5",
+      "pub_date": 1790483220.0,
+      "article_url": "https://www.reuters.com/legal/litigation/openai-anthropic-ceos-called-appear-australian-ai-probe-2026-09-27/",
       "image": null,
       "description": null
     },
     {
-      "headline": "China\u2019s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldHZF9yQXljZXQ2UlBXaHF6cXNEWk9DOWxVZWlvR2pfV2ZvamNzeUtoR1ZOelJ6aE1QbkVHclJVRmZJYXRqOWNkWXNyZ2thQnAxZXpScE5OWThZQWl3Q1JJRlZQaGpiOHRWajdvVUFJbkRPYUtqMFkyS1ZWX1RNUXVNQWNVVnlJd3BMNzRleXB1bkhvSF9JTk1fRDhWTGdmeTRCbjAwT2VwWUd5R3htd25BcHQ?oc=5",
-      "pub_date": 1790467200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+      "headline": "Robin Williams\u2019 Daughter Zelda Calls Out Another AI Video of Actor",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWxFaF80NFVLRVFoTDJCZ2tYdU95bDVoYzJJSUNETXhIbEZCbWRBSlRjT1BRYmp4eC1uTVdaWTJvYjU2VnJJMzZIbUlxeTBXd0ZZRTZ5V3ItM3hZNzE5U3NmQnU2UTFLREQwbVhVWjZxMUM5cUk4ZjJnYXNVaktPc29IRjhYa3RLX28zX08wWEE1ZldvV2luQXE5ay1TNV9vWmYwWmw4YmE?oc=5",
+      "pub_date": 1790482860.0,
+      "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/robin-williams-daughter-zelda-calls-042120107.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/41ade6e5f96ac72dddc276e4db1ca6614ce3d2175d7bd0b2257c4d1c5426798e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F4246a60baf0270ee98270059ddcb022f.jpg",
+      "description": "Nearly a year after asking people to stop sending her AI-generated videos of her late father, Zelda has come across another one circulating online."
+    },
+    {
+      "headline": "I was laid off by Google, then offered a new role. I chose to move cross-country to bet on my startup.",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUF4WmdtaHl0Y2d0OU9YeVFyZjhIZFZDV2RNMGJNcDVsdmg3Z2F2eHQwd1pIckh0eVRYb3JBcFdvWkRWbWZseVhQX09WLTNkQjRfaWV1NkVzUHduaWFTZ2wwai1RbVlpQnpNbXhud1g1V2NTWmVVMGhXa2hlM1NQNDRPOFNOMlE4SEJyamkwOER0S0pzXzhZWEVKd1V2UQ?oc=5",
+      "pub_date": 1790415480.0,
+      "article_url": "https://www.businessinsider.com/google-layoff-six-figure-job-offer-ai-startup-founder-tech-2026-9",
+      "image": "https://i.insider.com/6ab194b8d15f8a5729748df0?width=1200&format=jpeg",
+      "description": "After being laid off from Google, Rob Waters was offered a new six-figure role. He turned it down and moved to San Francisco to build his AI startup."
+    },
+    {
+      "headline": "\u2018Things Will Never Be Chill Again\u2019: The Doomers Who Shaped the AI Safety Freakout",
+      "source": "WSJ",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0x1SGNlamNDTERpWmxwS05vNTRkY0lONktYQmlGQ1lyNDdUeTBsempjT3N0UEJpT2FpWF9hdTFzUXNmU1NlbGFjWG56ZzRZUm1VcXprakhRVE5LV0xwal9CQlpSOTVlZ3VPR0hhVEQ5SUQ4WUswbHY4VEJYRVFTRA?oc=5",
+      "pub_date": 1790470800.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05",
       "image": null,
       "description": null
     },
     {
-      "headline": "Slowing AI Is The Real Risk To American Leadership",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUM4YXlsZVVKMFFJVG4wMzVrMENJWFNucFZ2LTVxM0hxcFdENWFXaUtyd1RNLTdMZXZFRVJZWDhXdWsxTlhHTDgtckwtRTNXNkJpN0RmOHJXamN0NlVocFA4VkcyUzFkX2tPN3ZVc2hxVFFNYy1oT09mckhpdFJDNjdiTTdHT2lVVGVzREprem1HMDRCeGJHXzgzSm9ZQUtOZWtSUTY2QQ?oc=5",
-      "pub_date": 1790469586.0,
-      "article_url": "https://www.forbes.com/sites/markminevich/2026/09/26/slowing-ai-is-the-real-risk-to-american-leadership/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Woolly mammoth to be resurrected with the help of AI: scientists",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWg5NjdLX0wzblpOSmZ1dl84MDVKWnlvM0hTMkpkMjdzQWZadnhSOUxfN1ZLZVNJemhxTWtnZ3B6YmUxWGNoazlzTlY2OEpQRzkwN1VfdjZWZU5DVUxxLXNaQVFuTjRXcDJ0b0xpb3dNRFA5YnVxcGpqY002c1NpUlJrYnozdWlwbl9VcGVjQkduUW9mUXVlSE9oVXYxaUFEMXc?oc=5",
-      "pub_date": 1790459280.0,
-      "article_url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142541554.jpg?quality=75&strip=all&w=1200",
-      "description": "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes \u2014 not 60 using A\u2026"
-    },
-    {
-      "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJJdFJDajF5bUx0UmVPQXdyQ2c4aEIxYU9ldjBpN01zbC1mWXhITUlzcm0wSmZJQnhsTF9wZW0wMmhFb0VZZ0wyNjZwUXZkbkNHMVNHWFlsTko4dWUwTTRmMHJ1SzJVYmRDblZwQkVhaDV2WHZjcF9JeDBVSnNXTTNjQXhick5uckVSR1pMTnRzamFZNFV3?oc=5",
-      "pub_date": 1790367100.0,
-      "article_url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
-      "image": null,
-      "description": null
+      "headline": "'Godfather of AI' explains how humanity could end: Even without a bad actor, AI 'may derive subgoals that cause it to want to get rid of people'",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzJSUzR4NWdWa1RSZ2JQRXV0QW5OSmMxOEhMbnlNYnFLM19iSENsa2ZNMHJsX3pQajF0MjRUbk0yTlI2R21lMU1rN291TnQ1emRWNGhSY3psZGxOYTRiUUpuanUxRnpCQW9iamlQNE5nUkxlbC15TTZJa2lDZUxwbWRud0prVGhhTEtIRHFtVU93bTZZMEZaX04wTDlINEEyZU9NYWtCdWo1N3hUUFY1Sm41Y2hFZVUx?oc=5",
+      "pub_date": 1790441760.0,
+      "article_url": "https://fortune.com/2026/09/26/geoffrey-hinton-godfather-of-ai-humanity-end-existential-threat-subgoals-rogue-agents/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295070515-e1790437120334.jpg?resize=1200,600",
+      "description": "\"But at present, their main concern is not our well-being. Their main concern is to achieve whatever goal you give them.\""
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T00:47:31.341993+00:00"
+  "fetched_at": "2026-09-27T06:20:14.349909+00:00"
 }
