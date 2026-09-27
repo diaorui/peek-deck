@@ -15,6 +15,46 @@
       "description": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026."
     },
     {
+      "headline": "US ally plans robot soldiers to handle dangerous frontline tasks",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmcDZfREk2RXc0cTd0U3FpbnBTd1AwVkpwOEpvTlhyRmI5WDB5RXVHVFlkS0kwTmUtUUMydDFjNkdBNTBlTVZQWjNXcnVJbzl2UUtISTQxeUhSakF4SmVyTVpOQ05Td3J6WXZoM1FaSnA4TndUeGhsZEI2X2k?oc=5",
+      "pub_date": 1790447460.0,
+      "article_url": "https://interestingengineering.com/military/us-ally-plans-army-of-robots",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/image-1920x1080-2026-09-26T193002.082.png?w=650",
+      "description": "The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat."
+    },
+    {
+      "headline": "Labor-scarce Japan counts on AI-powered robots",
+      "source": "Japan Today",
+      "source_url": "https://japantoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFfYU9idlpRMkk5SEZVV3A2VHlkMTRnVGxtY0NXSS0wQmkycURzU25aYnBrQTA5ZW0tS281ZHUxTXNlV0dTcVE3ZVNTVGQyTnRTclVIWXJLV1IwQmFKVXQxWTQ4Z0JtTmdzdHZoaF9FWUN6YVJCSHhTMnVaVFhZMFBaZUlKdGItSEVfd19aMzVqV25GTlVoaHFlTWppLWI1SFVRSWRZWkdUeUN0YllreERHcw?oc=5",
+      "pub_date": 1790285760.0,
+      "article_url": "https://japantoday.com/category/tech/japan-biz-labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "What if robots didn't need all their AI onboard?",
+      "source": "Microsoft",
+      "source_url": "https://www.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnpNaGRsVmFjZXZ2Y3czS2I5MHlLSlgtMVB6d0pXY2J1aW94Q3RyRE82WnpIaUdZOU1QMFM0SDdJbzB0a2htSmJFQTZ0VDNWeGJrcXZpREdGRnFHeFF1TTF1TnhJODVkUWlLT1hCbFM3SnRCTlM1cFJFV2tsRDhwdmphVnN2Mmt5MFlUTVVHOVl0TW1GeS12OG5WWFR2ZlA3MDhMOA?oc=5",
+      "pub_date": 1790179296.0,
+      "article_url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/PhysicalAI-TWLIFB-1200x627-1.jpg",
+      "description": "Robots are getting smarter, but how can their hardware match that growth? New Microsoft Research findings show that moving AI inference beyond the robot can improve task success, boost efficiency, and support more advanced physical AI workloads."
+    },
+    {
+      "headline": "Teen robotics team wows metro Atlanta city, to represent state",
+      "source": "WSB-TV",
+      "source_url": "https://www.wsbtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeExPNGxRdEY0eGxzNHR3a3BQOGR0eFRiZjRlQTZIQkd2TzRMRGF6RXpOS2JNVjFMQ1F6ZktuaE5tMXh2N05UV25rYXlqeUJpbnhsa1FuV2FSWkg1QnhEQnFFa3RGMV9OakgteGdpUmY0YzVfS2N1Q0YtTWtSRHlTbWN3eENiNHhRUHZWLTBraEhYNHY2X0E3ZHUwTjZWSzk0V0t0WFJFdThuMU5OYzZ4QzJTaGpIckhyZXVB0gHPAUFVX3lxTE90dFZNUjRXWkJ4eUc5SWNvNmdta3JPVjNDYnNTR25qU3pTNzVHMnhYY2hXN1JrTUdPZGpvMWVPVXV0M3FIYUw2SUZkMnBhRHBCblpvcHZJSWllRk14RTRBVXBMTmZURnBUNmhwUzl1WlowRldqU1hSMmRUQ1ZBTF8yTXQzYmhPZHFOT096YVVJOUt5djB2MlBNRlJ3TWtHeWVMS2JXMW9jbWItbEh1cFRyZDlTZjdaYW5XS0tOdHp5YUtxc0FCWHowTk5FTjVJYw?oc=5",
+      "pub_date": 1790469240.0,
+      "article_url": "https://www.wsbtv.com/news/local/teen-robotics-team-wows-metro-atlanta-city-represent-state/Q2FP7BVV3JBE3MT676YCS3ONPY/",
+      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FBE2OFBNPEZFUZPE2Y52TX7BFEY.jpg?auth=cb6a38cb4d77c03a590b1369ca947db6bf7e042ea20bcfbfc6b441a203f99db3&width=1200&height=630&smart=true",
+      "description": "Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving."
+    },
+    {
       "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -25,14 +65,24 @@
       "description": "Your weekly selection of awesome robot videos"
     },
     {
-      "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
-      "pub_date": 1790349608.0,
-      "article_url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
-      "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
+      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+      "source": "Breaking Defense",
+      "source_url": "https://breakingdefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
+      "pub_date": 1790304228.0,
+      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
+      "pub_date": 1790234955.0,
+      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
+      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
     },
     {
       "headline": "In a Race With China, German Robots Are Outnumbered 14 to 1",
@@ -45,66 +95,16 @@
       "description": null
     },
     {
-      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-      "source": "breakingdefense.com",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790304228.0,
-      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "US ally plans robot soldiers to handle dangerous frontline tasks",
-      "source": "interestingengineering.com",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmcDZfREk2RXc0cTd0U3FpbnBTd1AwVkpwOEpvTlhyRmI5WDB5RXVHVFlkS0kwTmUtUUMydDFjNkdBNTBlTVZQWjNXcnVJbzl2UUtISTQxeUhSakF4SmVyTVpOQ05Td3J6WXZoM1FaSnA4TndUeGhsZEI2X2k?oc=5",
-      "pub_date": 1790447460.0,
-      "article_url": "https://interestingengineering.com/military/us-ally-plans-army-of-robots",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/image-1920x1080-2026-09-26T193002.082.png?w=650",
-      "description": "The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat."
-    },
-    {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247524.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
-    },
-    {
-      "headline": "Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3U0cTByRTd2UnJEU29ZQ3B6RTZEN1BNUnNrTVVRNnVHRW5BRW5IUHRIQzRROFJGU1lienlJT3lRMkxIM3BoQmxpRkN1SW02X3FVNi1jcFJtQnZSbXk3dVhnaHRLS292QnpEZ1lkMHhqTmhDNmVUZzJLX3c1b0NlS2FvOTZnV2c5RDZMTFI5OHR2X0xvMjd0VQ?oc=5",
-      "pub_date": 1790439300.0,
-      "article_url": "https://www.fool.com/investing/2026/09/26/prediction-robotics-will-be-the-biggest-opportunit/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888261%2F26_09_23-humanoid-robots-working-_gettyimages-2240813685-1200x675-128554e.jpg&w=1200&op=resize",
-      "description": "Artificial intelligence is the brain, but the rest of the robot still needs these boring chips to operate."
-    },
-    {
-      "headline": "Meet Feather, the startup building the \u2018Android of robotics\u2019 for developers",
-      "source": "techcrunch.com",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3MyTFROblZMTFFXWGdlN0ZSY2ZZdVBWX2UySVBTRU5JbUNEZHpHcXRXYlBHMHV0czg4ODVvZm4tZ0pjdTFZNGJmalBYR3VZQjJlWVRINS1HRF9HRHdEQUlXTGJvS2NsNDJQZW1teVFDQTgyUnk1dTVkd080VDZoMFc2RmJiTEcxMXJBYTZnajBnajB0VWs0OW9EWExuZm01VWtfR3dWWUMzNk0?oc=5",
-      "pub_date": 1790275958.0,
-      "article_url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
-      "description": "Feather is betting on a customizable, $30,000 platform built for software developers."
-    },
-    {
-      "headline": "Qualcomm to Acquire PickNik to Advance the Future of Open Robotics and Physical AI",
-      "source": "Qualcomm",
-      "source_url": "https://www.qualcomm.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0R4VjBSQVhPQi1pQzMzQWozOWlPSzBxSWxKNk4yYWlocnExZnNvMF9EVFF3eVp1RFJ2VDdrNGNBd2xUa0lueHdidkp2VGNBNVdtQVlGaU1MMU40NWVPS05UdnNXbmgwekh0bWdDdVVoc2UwdEdMUzVTVXZKVm9lVjNFMjU0M3ZocGI2bER4d19LVWd6c29LVHNQUW5yT2JUX3F0aGZFVlJuLXRHSm1TQQ?oc=5",
-      "pub_date": 1790146800.0,
-      "article_url": "https://www.qualcomm.com/news/releases/2026/09/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-roboti",
-      "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/QCxPicknik",
-      "description": null
+      "headline": "Agility Robotics, maker of Digit humanoid, exploring wheeled robots",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnRuRXBqeUFsb0Iyb080RHNhM0pjeUxLNGRNZm5teEg5ZGxFSGhsYzNBN3BxQms4YVVnWDE2US1TX3BCTC1HcUxOT3VNYXVQeHlRVy1KeHppbkdtcUdINXpfRHp0clJmSzJKSENvYktJQ25tUmdiN3VwSXB4bnNpRGhnLThFbnpPUUxCZU1wQk5SMzFuYjVibjhsR2xtUQ?oc=5",
+      "pub_date": 1790349608.0,
+      "article_url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2026/09/agility-robotics-wheeled-robot.png",
+      "description": "Agility Robotics is exploring a range of robot form factors, including wheels, to address different customer needs."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T22:25:09.435011+00:00"
+  "fetched_at": "2026-09-27T00:47:21.520149+00:00"
 }

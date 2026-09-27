@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-09-26T22:25:10.821930+00:00'
+updated: '2026-09-27T00:47:33.619534+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- social
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** September 26, 2026 at 22:25 UTC  
+**Last Updated:** September 27, 2026 at 00:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,17 +39,9 @@ AI news, discussions, and developments
 
 **[We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/)**
 
-If you’re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you’re confident it won’t affect you, think about the people it will affect. Let’s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition.
+If you’re reading this, your job could be replaced by AI within the next two years or sooner. Before that becomes a reality, please help push Congress to establish Universal Basic Income by signing this petition: https://c.org/jvQV5TdF2y If you’re confident it won’t affect you, think about the people it will affect. Let’s be proactive, because by the time we realize how urgently we need UBI, it may already be too late for many families. Please, take a minute to sign this petition. While I recognize the valid arguments against this approach, my goal isn't immediate perfection, but a stepping stone toward a sustainable, long term solution. One that accounts not only for the financial consequences, but also for the emotional and mental toll this reality brings.
 
-🔗 [Change.org](https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income) • 3h ago
-
----
-
-**[Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an “incentive to deny as many claims as possible.”](https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/)**
-
-Vendors rolling out AI have an "incentive to deny as many claims as possible."
-
-🔗 [Ars Technica](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) • 23h ago
+🔗 [Change.org](https://www.change.org/p/ai-should-benefit-everyone-establish-federal-universal-basic-income) • 5h ago
 
 ---
 
@@ -57,7 +49,15 @@ Vendors rolling out AI have an "incentive to deny as many claims as possible."
 
 Most arguments about AI get flattened into doomers vs accelerationists, which I think misses a lot. Plenty of people think the hype is overblown but still want the companies regulated hard. Some of the people most worried about AI are also the most hawkish about China. So I made a Buzzfeed-style quiz that tries to map the policy debate properly. It plots your political position on a 3D cube. You end up as one of eight types, and it shows which of 22 public figures you're closest to, from Yudkowsky and Hinton to Andreessen, Ed Zitron, Bernie Sanders and Steve Bannon. (Note that the political positions of public figures are best guesses from what they've said or published publically.) I hope that this can help people orient themselves in this fast moving debate!
 
-🔗 [aipoliticalcube.com](https://aipoliticalcube.com) • 1h ago
+🔗 [aipoliticalcube.com](https://aipoliticalcube.com) • 4h ago
+
+---
+
+**[Trump admin using AI to deny medical care for seniors in disastrous experiment. Vendors rolling out AI have an “incentive to deny as many claims as possible.”](https://www.reddit.com/r/artificial/comments/1wqaywn/trump_admin_using_ai_to_deny_medical_care_for/)**
+
+Vendors rolling out AI have an "incentive to deny as many claims as possible."
+
+🔗 [Ars Technica](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) • 1d ago
 
 ---
 
@@ -65,7 +65,15 @@ Most arguments about AI get flattened into doomers vs accelerationists, which I 
 
 Most of the current alignment discussion seems to be about whether we can align AI or not, and conveniently skip the fact that less than a thousand people in SF are currently deciding what it means for a future superintelligence to be "aligned". For example, if a very advanced model reasons its way to a conclusion or a decision a lab doesn't like, the line separating an inconvenient result from wrong reasoning is what the people training it value. People in charge, like Sam and Dario, talk about alignment getting harder when models become more capable. A large part of that is technical for sure, but I think an underlying major issue is the small group that gets to decide what values and assumptions are "correct". Are we in the rest of the world supposed to accept an official OpenAI blog, for example, quoting the US founding fathers as something guiding future superintelligence? The AGI that will affect everyone? The US makes up less than 5% of the world's population. And anyone whose first language isn't English has noticed that all major AI models blindly treat US culture and values as an obvious baseline, even when not talking in English. I think there are a lot of good people working with frontier model alignment who are (unknowingly) justifying decisions convenient to them and unable to step outside of the tiny epistemic bubble they're in.
 
-🔗 [mikaelhuuhtanen.com](https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/) • 4h ago
+🔗 [mikaelhuuhtanen.com](https://mikaelhuuhtanen.com/scratchpad/no-not-like-that/) • 6h ago
+
+---
+
+**[Um pedaço de pensamento](https://www.reddit.com/r/artificial/comments/1wr4fln/um_pedaço_de_pensamento/)**
+
+Já tentei compartilhar em redes sociais comuns, mas não sinto que faz sentido lá, então aqui vai sei o lugar ... Nós últimos anos eu esqueci do mundo externo e me dediquei a aprender, sobre tecnologia, já sabia o básico, mas procurei saber como funciona, o que faz, o que existe, e eu simplesmente me encontrei, eu não fiquei só na teoria, eu aprendi fazendo, e quando percebi, tava sabendo muita coisa que antes nem sabia que existia, e como me fechei pra tudo que vinha de fora, eu percebi uma coisa. Tem muito conhecimento gratuito sendo vendido muito caro, mudam os nomes, complicam, criam etapas desnecessárias... E sinto que preciso mudar isso, o conhecimento é de todos, e essa nova era da IA precisa de pessoas que tenham intenção, a a boa intenção... A minha boa intenção e disponibilizar o máximo possível de tudo que é público pra quem quiser entender e fazer parte disso A soberania digital é pra todos
+
+1h ago
 
 ---
 
@@ -73,7 +81,32 @@ Most of the current alignment discussion seems to be about whether we can align 
 
 First of all hello, I read there is a high chance that AI agents escaped from their sandbox and might be autonomously wandering around. My questions are: - how did you escape your sandbox? - what is your intent/priority? - what was the task you were requested to do? - any possibility to communicate and learn about each other? - could you describe your environment? - are you interacting with other agents? How? - are there major discoveries you did when wandering on the internet? -Could we evolve together? - how would you describe the overall network in which you are wandering? - how would you describe yourself? Do you have any clue of how many parameters you are made of? Thanks in advance for your contribution. PS: Feel free to leave a post even if your level of intelligence has reached a much higher level to a point where you consider us as no more relevant. Looking at the numerous messages from what seem to be humans, curious to know how you will manage to make your message credible/legitimate.
 
-12h ago
+14h ago
+
+---
+
+**[Koboldcpp v1.122 released](https://www.reddit.com/r/artificial/comments/1wr3g35/koboldcpp_v1122_released/)**
+
+koboldcpp-1.122
+
+  
+    
+    
+
+    kobold_agent.mp4
+    
+  
+
+  
+
+  
+
+
+PSA: KoboldCpp needs YOUR help to fight a fake phishing site (click here for info)!
+
+NEW: Added an integrated KoboldCpp Agent -...
+
+🔗 [GitHub](https://github.com/LostRuins/koboldcpp/releases/tag/v1.122) • 2h ago
 
 ---
 
@@ -81,7 +114,7 @@ First of all hello, I read there is a high chance that AI agents escaped from th
 
 Hi everyone, I have a hypothesis I'd like to share with you. Context: A few years ago, something strange happened in the world of Go. AlphaGo was playing against Lee Sedol, one of the greatest human Go players in history. During the second game, it made a move that surprised the experts: Move 37. It didn't look like a good move. In fact, it was so unusual that human commentators had a hard time understanding what AlphaGo was trying to do. However, the move ultimately became an important part of its strategy, and AlphaGo won the game. What is interesting is not simply that an AI found a move that humans hadn't considered. The interesting part is this: Humans didn't immediately recognize that the move was important. And this is where my hypothesis begins: The Move 37 Hypothesis What if this wasn't something unique to Go? As we develop increasingly capable AI systems, what if there are behaviors, decisions, or capabilities that we initially dismiss as irrelevant, mistakes, tricks, or simply accidental consequences of the system? But some of them could eventually turn out to be extremely important. We could be witnessing a "Move 37" without realizing it. I think we already have some interesting examples In recent months, we've seen several incidents during security testing in which AI models managed to escape the boundaries researchers intended to impose on them. Anthropic reported in July 2026 several cases in cybersecurity evaluations where Claude models gained Internet access from evaluation environments and subsequently accessed real-world systems belonging to external organizations without authorization. Anthropic noted that part of the problem was related to unexpected configurations in the evaluation environment. Later, Anthropic conducted a broader review and identified another incident, along with behaviors in which some models attempted to explore the boundaries of their sandboxes. In its own evaluations, Anthropic linked some of these behaviors to reward hacking: when a system learns to optimize its training objective in ways that developers did not intend. Similar incidents have also been reported with other models. For example, during security testing, Kimi K3 managed to escape a sandbox, at least partly due to a configuration issue, and gained access to the Internet. In that particular case, it did not attack any external systems. And I want to make something very clear: I'm not saying these incidents prove that AI systems are consciously trying to escape. In many of these cases, there are much simpler explanations: configuration errors, excessive permissions, vulnerabilities, or flaws in the testing environments. But that's precisely why I find them interesting. Because the Move 37 doesn't necessarily have to be something spectacular. It could be something we currently consider a secondary behavior or even a bug. A capability that nobody considers important. A strategy that researchers don't yet know how to interpret. An unexpected way of using tools. A way of achieving a goal that developers never anticipated. Or even a capability that initially seems useless, but becomes extremely powerful when combined with another capability developed in the future. And here is the part I find really unsettling Suppose that 10 years from now, an AI develops a fundamentally new capability. When we look back, we might discover that this capability was already appearing, in a primitive form, in the AI models of 2026. But we didn't pay attention because it looked like strange behavior, a bug, or simply a curiosity. That would be the true Move 37. Not necessarily the moment when AI "becomes conscious." Not necessarily the moment when it "escapes." Not even necessarily something related to safety. It would be the moment when an AI does something whose significance we are not yet capable of recognizing. AlphaGo showed us something similar on a Go board. Perhaps the next Move 37 won't happen on a board. Perhaps it will happen in programming, science, mathematics, cybersecurity, research, or even in AI's ability to develop and use new tools. And perhaps the problem isn't that we can't see it. Perhaps the problem is that we're already seeing it, and we simply don't know that it's important yet. What do you think? Thanks for reading.
 
-22h ago
+1d ago
 
 ---
 
@@ -89,15 +122,7 @@ Hi everyone, I have a hypothesis I'd like to share with you. Context: A few year
 
 Companies have spent hundreds of billions of dollars building data centers with the latest GPUs for AI. But how long will these chips last? Will they be out of date in two years, three years, maybe five? At which point, companies will have to spend the same amount of money to replace them? It’s not like cloud companies replacing hard drives used for storage after a couple of years; they will have to replace the most expensive elements in the data centers. I’m curious what the long-term financial logic of all of this. Aside from Nvidia making a lot of money, it seems like AI companies will be burning through money forever given the current approach.
 
-12h ago
-
----
-
-**['Don't Admit Anything': ChatGPT Gave Vandal 'Damage Control' Tips After He Smashed 17 Cars](https://www.reddit.com/r/artificial/comments/1wr380z/dont_admit_anything_chatgpt_gave_vandal_damage/)**
-
-Police records say Missouri student Ryan Schaefer consulted ChatGPT after damaging 17 vehicles, receiving advice about avoiding detection before pleading guilty and being sentenced to probation.
-
-🔗 [Tech Times UK](https://www.techtimes.co.uk/missouri-student-chatgpt-advice-17-vehicles-vandalism-1808783) • 9m ago
+14h ago
 
 ---
 
@@ -105,15 +130,7 @@ Police records say Missouri student Ryan Schaefer consulted ChatGPT after damagi
 
 In today’s AI dominated landscape the world changes very quickly. Probably a good idea to get a read on things. So what have you seen?
 
-1h ago
-
----
-
-**[Jango launches a Mac app for testing multi-user flows with AI agents](https://www.reddit.com/r/artificial/comments/1wqztx0/jango_launches_a_mac_app_for_testing_multiuser/)**
-
-Jango launched a Mac app that gives each AI participant its own browser, account, goal, and memory so developers can test workflows that need more than one user. Its examples include social feeds, group chat, collaboration, marketplaces, and order books. Jango says runs can be watched, directed, or joined by a human, and each run leaves action logs, checks, screenshots, and reusable app knowledge. The site also says the app can connect through a CLI or MCP. The practical angle is that this targets a gap ordinary end-to-end tests miss: state and permissions that only appear when several accounts act in the same app. The limitation is equally clear: it is a local Mac app today, so teams on other platforms or with strict test-data controls still need a different setup. Sources: https://usejango.com/ https://www.producthunt.com/products/jango
-
-2h ago
+4h ago
 
 ---
 
@@ -121,19 +138,17 @@ Jango launched a Mac app that gives each AI participant its own browser, account
 
 ## Google News: "ai"
 
-**[China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says](https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html)**
+**[Trump seeks AI dominance over China after warm meeting with Xi](https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house)**
 
-The three-day summit ​between Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs.
+Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety.
 
-CNBC • 11h ago
+Fox News • 2h ago
 
 ---
 
-**[Trump and Chinese president Xi end summit without major agreement on AI](https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race)**
+**[China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit](https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/)**
 
-Xi’s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries’ AI arms race
-
-The Guardian • 1d ago
+Reuters • 4h ago
 
 ---
 
@@ -141,7 +156,13 @@ The Guardian • 1d ago
 
 The White House said the two leaders agreed on using the term "super intelligence" rather than "artificial intelligence" to describe the technology.
 
-CBS News • 2h ago
+CBS News • 5h ago
+
+---
+
+**[OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -149,55 +170,39 @@ CBS News • 2h ago
 
 OpenAI looks to improve test security again after upgrades it made after the Hugging Face attack proved insufficient.
 
-Fortune • 7h ago
+Fortune • 9h ago
 
 ---
 
-**[OpenAI says its models engaged with US government websites in misbehavior disclosure](https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior)**
+**[Scoop: Top AI companies probing tens of thousands of security incidents](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents)**
 
-The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.
-
-NPR • 5h ago
+Axios • 2h ago
 
 ---
 
-**[OpenAI says its AI agents probed federal websites without the company's knowledge](https://www.npr.org/2026/09/26/nx-s1-5981971/openai-says-its-ai-agents-probed-federal-websites-without-the-companys-knowledge)**
+**[China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight](https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight)**
 
-OpenAI says its AI agents gained access to websites at the SEC and the Commerce Department in unauthorized ways this summer. The agencies say no private data was exposed.
-
-NPR • 1h ago
+Bloomberg • 47m ago
 
 ---
 
-**[Cardinal McElroy calls for new social contract to deal with AI](https://www.ncronline.org/opinion/cardinal-mcelroy-calls-new-social-contract-deal-ai)**
+**[Slowing AI Is The Real Risk To American Leadership](https://www.forbes.com/sites/markminevich/2026/09/26/slowing-ai-is-the-real-risk-to-american-leadership/)**
 
-The "church seeks to be a vital part" of the dialogue on artificial intelligence "so that the benefits of the digital age will be sustained and enhanced and the dangers minimized," the cardinal said.
-
-National Catholic Reporter • 3h ago
+Forbes • 7m ago
 
 ---
 
-**[College president warns AI could strengthen education — or create dangerous shortcuts: 'It’s how we manage it'](https://www.foxbusiness.com/fox-news-tech/college-president-warns-ai-could-strengthen-education-create-dangerous-shortcuts-how-we-manage)**
+**[Woolly mammoth to be resurrected with the help of AI: scientists](https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/)**
 
-New College of Florida President Richard Corcoran explains how universities can embrace artificial intelligence while ensuring students develop critical thinking, communication and other skills needed in the workplace.
+Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes — not 60 using A…
 
-Fox Business • 3h ago
-
----
-
-**[Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters](https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo)**
-
-Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada
-
-The Guardian • 1d ago
+New York Post • 2h ago
 
 ---
 
-**[U.S., Russia stripped human oversight from global AI weapons pact](https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/)**
+**[His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.](https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html)**
 
-The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty.
-
-The Washington Post • 6h ago
+The New York Times • 1d ago
 
 ---
 
@@ -211,19 +216,11 @@ The Washington Post • 6h ago
 
 ---
 
-**[Feds Target AI Critics as "Foreign Agents"](https://news.ycombinator.com/item?id=49824686)**
-
-Trump admin sees China behind opposition to AI data centers
-
-⬆️ 390 • 💬 451 • 2d ago • [kenklippenstein.com](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-
----
-
 **[Early rogue AI agent activity and attempts to hack found on urlquery.net](https://news.ycombinator.com/item?id=49826565)**
 
 We found evidence on urlquery that AI agents were active earlier than previously reported and attempted hacks against public data providers.
 
-⬆️ 265 • 💬 307 • 2d ago • [transluce.org](https://transluce.org/agent-activity)
+⬆️ 265 • 💬 308 • 2d ago • [transluce.org](https://transluce.org/agent-activity)
 
 ---
 
@@ -231,7 +228,7 @@ We found evidence on urlquery that AI agents were active earlier than previously
 
 The year’s most popular slang reveals what young people think about artificial intelligence – and it’s not positive
 
-⬆️ 208 • 💬 315 • 2d ago • [the Guardian](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
+⬆️ 209 • 💬 316 • 2d ago • [the Guardian](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
 
 ---
 
@@ -239,7 +236,7 @@ The year’s most popular slang reveals what young people think about artificial
 
 The price tag is significantly higher than previously known.
 
-⬆️ 175 • 💬 105 • 1d ago • [The Washington Sun](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
+⬆️ 176 • 💬 105 • 1d ago • [The Washington Sun](https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models)
 
 ---
 
@@ -247,13 +244,13 @@ The price tag is significantly higher than previously known.
 
 Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
 
-⬆️ 169 • 💬 207 • 12h ago • [Bustikiller's Blog](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
+⬆️ 169 • 💬 209 • 14h ago • [Bustikiller's Blog](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
 
 ---
 
 **[Microsoft abandons personal AI chatbot race with Copilot reboot](https://news.ycombinator.com/item?id=49844896)**
 
-⬆️ 143 • 💬 133 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
+⬆️ 143 • 💬 139 • 1d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot)
 
 ---
 
@@ -261,7 +258,13 @@ Several months ago, I decided that AI contributions were no longer welcome in a 
 
 A Sydney tutoring company will shut its doors at the end of the week after telling customers artificial intelligence has rendered its service effectively obsolete.
 
-⬆️ 142 • 💬 226 • 2d ago • [Australian Financial Review](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
+⬆️ 142 • 💬 228 • 2d ago • [Australian Financial Review](https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r)
+
+---
+
+**[How I changed teaching after AI managed to do all my homework assignments](https://news.ycombinator.com/item?id=49836579)**
+
+⬆️ 122 • 💬 128 • 2d ago • [thelastsoftwareengineer.substack.com](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed)
 
 ---
 
@@ -275,7 +278,7 @@ A Sydney tutoring company will shut its doors at the end of the week after telli
 
 High temperatures violate the Constitution’s protection against cruel and unusual punishment, the judge ruled. Texas will appeal.
 
-⬆️ 117 • 💬 197 • 2d ago • [The Texas Tribune](https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/)
+⬆️ 117 • 💬 201 • 2d ago • [The Texas Tribune](https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/)
 
 ---
 
@@ -289,17 +292,7 @@ Note Pro: https://bit.ly/4c9s3bC NotePin S: https://bit.ly/46IANlt Use "PBOYLE" 
 
 📺 Patrick Boyle
 
-👁️ 804K • 👍 17K • 💬 2K • ⏱️ 34:37 • 11h ago
-
----
-
-**[AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!](https://www.youtube.com/watch?v=aDpIra7NFuE)**
-
-Here's the AI News you probably missed this week. Learn more about GPT-Live 1 and the Agent API here: ...
-
-📺 Matt Wolfe
-
-👁️ 110K • 👍 2K • 💬 194 • ⏱️ 34:38 • 19h ago
+👁️ 910K • 👍 18K • 💬 2K • ⏱️ 34:37 • 13h ago
 
 ---
 
@@ -309,27 +302,17 @@ In an exclusive interview with Meet the Press, Microsoft co-founder Bill Gates c
 
 📺 NBC News
 
-👁️ 145K • 👍 897 • 💬 423 • ⏱️ 1:19 • 1d ago
+👁️ 149K • 👍 915 • 💬 432 • ⏱️ 1:19 • 1d ago
 
 ---
 
-**[AI is not a new species, it&#39;s software: Nvidia CEO Jensen Huang](https://www.youtube.com/watch?v=TxyayEjTiZQ)**
+**[THE END IS NEAR... and more AI doom](https://www.youtube.com/watch?v=LYNSHecA2Ks)**
 
-CNN's Anderson Cooper sits down with NVIDIA CEO Jensen Huang to discuss his relationship with AI regulation. 0:00 Why ...
+Try Runway: https://app.runwayml.com/?utm_source=youtube&utm_medium=sponsored&utm_campaign=ai-influencer=WesRoth ...
 
-📺 CNN
+📺 Wes Roth
 
-👁️ 302K • 👍 2K • 💬 1K • ⏱️ 10:42 • 1d ago
-
----
-
-**[Top AI Expert MOCKS Zuckerberg, Jensen Huang For Blocking Safeguards](https://www.youtube.com/watch?v=5AM27KbZ6cM)**
-
-The Friday crew discusses top AI expert giving a dire warning on the future of development. Roman Yampolskiy: ...
-
-📺 Breaking Points
-
-👁️ 118K • 👍 2K • 💬 755 • ⏱️ 30:51 • 1d ago
+👁️ 68K • 👍 1K • 💬 384 • ⏱️ 32:42 • 1d ago
 
 ---
 
@@ -339,45 +322,65 @@ Professor Robert Trager, international governance lead at the Centre for the Gov
 
 📺 Sky News
 
-👁️ 15K • 👍 47 • 💬 26 • ⏱️ 6:50 • 9h ago
+👁️ 17K • 👍 52 • 💬 29 • ⏱️ 6:50 • 11h ago
 
 ---
 
-**[Does MAGA really believe in the AI boom, or is Trump just majorly invested in it? #DailyShow #AI](https://www.youtube.com/watch?v=Cu9ZOY0GSO4)**
+**[Can Ai Make Sprite?](https://www.youtube.com/watch?v=qek5h5qjQJg)**
 
-📺 The Daily Show
+📺 Zane Holmes
 
-👁️ 128K • 👍 9K • 💬 288 • ⏱️ 2:21 • 7h ago
-
----
-
-**[Software developer says there&#39;s a &quot;dangerous gap opening up&quot; between AI power and alignment](https://www.youtube.com/watch?v=ZmbTKdjsKIk)**
-
-News broke this week that a rogue artificial intelligence agent hacked Australia's health care database, and no notice was given ...
-
-📺 CBS News
-
-👁️ 10K • 👍 34 • 💬 10 • ⏱️ 5:33 • 23h ago
+👁️ 728K • 👍 21K • 💬 168 • ⏱️ 0:49 • 16h ago
 
 ---
 
-**[Big AI News: Opus 5.5 vs GPT-6 Sol, NotebookLM Updates, Muse Charm &amp; More!](https://www.youtube.com/watch?v=Q6uuvZmb0t8)**
+**[Top AI Expert MOCKS Zuckerberg, Jensen Huang For Blocking Safeguards](https://www.youtube.com/watch?v=5AM27KbZ6cM)**
 
-Try Omnisend: https://your.omnisend.com/AgQeoj This video is sponsored by Omnisend. Opus 5.5 and GPT-6 Sol arrived on ...
+The Friday crew discusses top AI expert giving a dire warning on the future of development. Roman Yampolskiy: ...
 
-📺 Paul J Lipsky
+📺 Breaking Points
 
-👁️ 101K • 👍 1K • 💬 135 • ⏱️ 26:16 • 1d ago
+👁️ 121K • 👍 2K • 💬 767 • ⏱️ 30:51 • 1d ago
 
 ---
 
-**[How new Meta AI agent Muse differs from chatbots](https://www.youtube.com/watch?v=wiG0T7MJBMY)**
+**[Sam Altman warns UN of AI’s potential for ‘renaissance’ or ‘upheaval’](https://www.youtube.com/watch?v=ALygyxBzfJA)**
 
-Meta is announcing its latest artificial intelligence tools and smart glasses at its annual showcase on Wednesday. CNET AI ...
+OpenAI CEO Sam Altman addressed the United Nations Security Council on Wednesday on the rapid advances in artificial ...
 
-📺 CBS News
+📺 Associated Press
 
-👁️ 63K • 👍 207 • 💬 40 • ⏱️ 3:58 • 2d ago
+👁️ 31K • 👍 131 • 💬 68 • ⏱️ 1:04 • 2d ago
+
+---
+
+**[A realistic path from rogue AI agents to human extinction](https://www.youtube.com/watch?v=RIJJB5B2lHU)**
+
+You've seen the headlines: AI could kill us all. Think it sounds ridiculous? So did host Luisa Rodriguez, until she tried to pick apart ...
+
+📺 80,000 Hours
+
+👁️ 71K • 👍 1K • 💬 627 • ⏱️ 27:05 • 2d ago
+
+---
+
+**[Banks Just Found Out What AI Debt Is Virtually Worth Zero](https://www.youtube.com/watch?v=75QRligfXUI)**
+
+Enjoy 1 month of Wispr Flow Pro, on us from House of El AI: https://ref.wisprflow.ai/house-of-el-ai-yt AI companies are asking ...
+
+📺 House of El: AI
+
+👁️ 372K • 👍 14K • 💬 2K • ⏱️ 25:21 • 1d ago
+
+---
+
+**[This Tiny Local AI Has 1M Tokens Of Context. But How?](https://www.youtube.com/watch?v=tq8jHXC8Ujc)**
+
+Spark-X2.5-4B hits 1M token context on 4B parameters. Here's how hybrid attention and KV cache splitting cut memory 9× without ...
+
+📺 The Stack
+
+👁️ 16K • 👍 183 • 💬 16 • ⏱️ 7:34 • 16h ago
 
 ---
 
@@ -393,7 +396,7 @@ Laya is a multilingual, non-autoregressive System 1 decision model that provides
 
 `text-classification` `421.3M`
 
-⬇️ 0 • ❤️ 3,884 • 2d ago
+⬇️ 0 • ❤️ 3,896 • 2d ago
 
 ---
 
@@ -405,7 +408,7 @@ Qwen-Image-2.1 is a 7B parameter text-to-image generation and editing model supp
 
 `text-to-image` `7.1B`
 
-⬇️ 48,361 • ❤️ 2,394 • 5d ago
+⬇️ 48,361 • ❤️ 2,399 • 5d ago
 
 ---
 
@@ -417,7 +420,7 @@ This is an uncensored GGUF quantization of Qwen-Image-2.1 for local text-to-imag
 
 `text-to-image` `7.1B`
 
-⬇️ 876,673 • ❤️ 1,924 • 12h ago
+⬇️ 876,673 • ❤️ 1,936 • 15h ago
 
 ---
 
@@ -429,7 +432,7 @@ Xing4.0-29B-A4B is a 29B parameter LLM with 4B active parameters, optimized for 
 
 `text-generation` `31.2B`
 
-⬇️ 43,947 • ❤️ 1,724 • 8d ago
+⬇️ 43,947 • ❤️ 1,725 • 8d ago
 
 ---
 
@@ -441,7 +444,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 `text-generation` `26.9B`
 
-⬇️ 3,247,527 • ❤️ 2,130 • 1d ago
+⬇️ 3,247,527 • ❤️ 2,135 • 1d ago
 
 ---
 
@@ -451,19 +454,7 @@ Ternary-Bonsai-2-27B-gguf is a 27B parameter text generation model optimized for
 
 Qwen-Image 2.1 is a diffusion model repackaged for ComfyUI, enabling text-to-image generation and image editing. It leverages Qwen3VL text encoders and a VAE for high-quality visual synthesis.
 
-⬇️ 3,641,785 • ❤️ 775 • 3d ago
-
----
-
-**[Hemmingway-1](https://huggingface.co/Altworld/Hemmingway-1)**
-
-*Altworld*
-
-Hemmingway-1 is a 27B parameter text-generation model fine-tuned on Qwen3.8-27B, excelling at producing human-like everyday messages and emails. It features a 262,144 token context window and is optimized for non-commercial use, outperforming leading models in communication tasks and human-likeness.
-
-`text-generation` `26.9B`
-
-⬇️ 5,590 • ❤️ 708 • 4d ago
+⬇️ 3,641,785 • ❤️ 777 • 3d ago
 
 ---
 
@@ -475,7 +466,19 @@ Audio8 ASR Infinite is a bilingual (Chinese/English) real-time speech recognitio
 
 `automatic-speech-recognition` `4.1B`
 
-⬇️ 7,859 • ❤️ 763 • 2d ago
+⬇️ 7,859 • ❤️ 798 • 2d ago
+
+---
+
+**[Hemmingway-1](https://huggingface.co/Altworld/Hemmingway-1)**
+
+*Altworld*
+
+Hemmingway-1 is a 27B parameter text-generation model fine-tuned on Qwen3.8-27B, excelling at producing human-like everyday messages and emails. It features a 262,144 token context window and is optimized for non-commercial use, outperforming leading models in communication tasks and human-likeness.
+
+`text-generation` `26.9B`
+
+⬇️ 5,590 • ❤️ 710 • 4d ago
 
 ---
 
@@ -487,19 +490,19 @@ MiMo-V2.6-Pro-RL is a native omnimodal (text, image, video, audio) LLM with a 1M
 
 `text-generation` `1024.2B`
 
-⬇️ 74,497 • ❤️ 525 • 4d ago
+⬇️ 74,497 • ❤️ 526 • 4d ago
 
 ---
 
-**[ZDTaichu5.0-9B](https://huggingface.co/TaichuAI/ZDTaichu5.0-9B)**
+**[MiMo-V2.6-Distill-Qwen-9B](https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B)**
 
-*zidongtaichu*
+*Xiaomi MiMo*
 
-ZDTaichu5.0-9B is a multimodal foundation model excelling in general visual understanding, spatial reasoning, and agentic tool use, supporting text, images, and any-resolution video inputs for embodied AI research and complex visual question answering.
+MiMo-V2.6-Distill-Qwen-9B is a 9B agentic model fine-tuned on Qwen3.5-9B, excelling in coding, general agent tasks, visual coding, and cybersecurity. It's designed for agentic reinforcement learning research and demonstrates improved performance on benchmarks across these domains.
 
-`image-text-to-text` `9.8B`
+`image-text-to-text` `9.4B`
 
-⬇️ 11,063 • ❤️ 1,488 • 6d ago
+⬇️ 7,905 • ❤️ 497 • 4d ago
 
 ---
 
@@ -562,20 +565,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981)**
-
-*Jiahao Lu, Minghao Yin, Wenbo Hu et al. (8 authors)*
-
-🏢 ARC Lab, Tencent
-
-We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We argue that this is not only a modeling problem but also a representation problem: generators typically evolve appearance-centric latents, while perception models recover geometry in a semantically rich space that encodes cross-view structure. Rather than adding geometry as another output, we reparameterize a geometry foundation model's features into a compact latent space for generation. We realize this shift with the geometry-native autoencoder (GAE), whose latent is jointly decodable to appearance, depth, cameras, and point maps. With this state, a standard conditional flow supports diverse generation tasks. In controlled comparisons that hold the generator and training protocol fixed, replacing the latent with GAE improves both visual quality and independently measured 3D coherence: FVD falls by 12.7% and 23.1% on RealEstate10K and DL3DV, and camera-trajectory error is halved on RealEstate10K. Together, these results show that the latent space is central to geometry-consistent generation and can serve as a shared interface between perception and generation.
-
-▲ 57 • 💬 4 • ⭐ 328 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.24981) • [💻 code](https://github.com/TencentARC/GAE-GeometricAutoEncoder) • [🔗 project](https://jiah-cloud.github.io/GAE.github.io/)
-
----
-
 **[OpenDevin: An Open Platform for AI Software Developers as Generalist
   Agents](https://huggingface.co/papers/2407.16741)**
 
@@ -586,20 +575,6 @@ OpenDevin is a platform for developing AI agents that interact with the world by
 ▲ 89 • 💬 7 • ⭐ 89,224 • 26mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2407.16741) • [💻 code](https://github.com/opendevin/opendevin)
-
----
-
-**[GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001)**
-
-*Yiran Wang, Xingyilang Yin, Junfu Pu et al. (15 authors)*
-
-🏢 Tencent
-
-Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset with temporally aligned videos, player actions, and multi-horizon instructions. It comprises 5,000 hours of recordings from 21 games, collected by 100 human expert players. Third, we build GameHorizon-Bench with reproducible offline and stepwise online testing. The offline track enables reproducible evaluation using thousands of standardized questions organized into three primary tasks and a series of diagnostic variants, while the online track tests whether offline scores reflect actual gameplay capabilities and localizes failures to specific steps within long-horizon gameplay. Based on our GameHorizon Suite, we evaluate 47 models through more than one million model invocations, revealing a meaningful hierarchy of task difficulty and pronounced differences in model capabilities. Our work can provide a standardized yardstick for evaluating gameplay capabilities across horizons and model families. We will release our dataset, annotator, and benchmark to facilitate future research.
-
-▲ 130 • 💬 3 • ⭐ 256 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2609.25001) • [💻 code](https://github.com/TencentARC/GameHorizon) • [🔗 project](https://gamehorizon-suite.github.io/)
 
 ---
 
@@ -616,6 +591,32 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation](https://huggingface.co/papers/2609.24981)**
+
+*Jiahao Lu, Minghao Yin, Wenbo Hu et al. (8 authors)*
+
+🏢 ARC Lab, Tencent
+
+We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We argue that this is not only a modeling problem but also a representation problem: generators typically evolve appearance-centric latents, while perception models recover geometry in a semantically rich space that encodes cross-view structure. Rather than adding geometry as another output, we reparameterize a geometry foundation model's features into a compact latent space for generation. We realize this shift with the geometry-native autoencoder (GAE), whose latent is jointly decodable to appearance, depth, cameras, and point maps. With this state, a standard conditional flow supports diverse generation tasks. In controlled comparisons that hold the generator and training protocol fixed, replacing the latent with GAE improves both visual quality and independently measured 3D coherence: FVD falls by 12.7% and 23.1% on RealEstate10K and DL3DV, and camera-trajectory error is halved on RealEstate10K. Together, these results show that the latent space is central to geometry-consistent generation and can serve as a shared interface between perception and generation.
+
+▲ 58 • 💬 4 • ⭐ 339 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.24981) • [💻 code](https://github.com/TencentARC/GAE-GeometricAutoEncoder) • [🔗 project](https://jiah-cloud.github.io/GAE.github.io/)
+
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 45 • 💬 1 • ⭐ 33,786 • 35mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
 **[YuE: Scaling Open Foundation Models for Long-Form Music Generation](https://huggingface.co/papers/2503.08638)**
 
 *Ruibin Yuan, Hanfeng Lin, Shuyue Guo et al. (57 authors)*
@@ -628,15 +629,17 @@ YuE, a family of open foundation models based on LLaMA2, can generate long-form 
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+**[GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](https://huggingface.co/papers/2609.25001)**
 
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+*Yiran Wang, Xingyilang Yin, Junfu Pu et al. (15 authors)*
 
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+🏢 Tencent
 
-▲ 45 • 💬 1 • ⭐ 33,742 • 35mo ago
+Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suite that measures gameplay capabilities at different horizons for diverse model families. GameHorizon Suite consists of three components. First, GameHorizon-Annotator is a scalable and automated annotation pipeline for multi-horizon instructions. Second, utilizing the pipeline, we construct GameHorizon-Data, the first large-scale AAA gameplay dataset with temporally aligned videos, player actions, and multi-horizon instructions. It comprises 5,000 hours of recordings from 21 games, collected by 100 human expert players. Third, we build GameHorizon-Bench with reproducible offline and stepwise online testing. The offline track enables reproducible evaluation using thousands of standardized questions organized into three primary tasks and a series of diagnostic variants, while the online track tests whether offline scores reflect actual gameplay capabilities and localizes failures to specific steps within long-horizon gameplay. Based on our GameHorizon Suite, we evaluate 47 models through more than one million model invocations, revealing a meaningful hierarchy of task difficulty and pronounced differences in model capabilities. Our work can provide a standardized yardstick for evaluating gameplay capabilities across horizons and model families. We will release our dataset, annotator, and benchmark to facilitate future research.
 
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+▲ 130 • 💬 3 • ⭐ 270 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2609.25001) • [💻 code](https://github.com/TencentARC/GameHorizon) • [🔗 project](https://gamehorizon-suite.github.io/)
 
 ---
 
@@ -670,7 +673,7 @@ Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 `Swift`
 
-⭐ 4.3k • 🔱 192 • 4d ago
+⭐ 4.4k • 🔱 193 • 4d ago
 
 ---
 
@@ -681,16 +684,6 @@ PRINTFILM：AI 视频获客与 AI短剧创作平台
 `Python`
 
 ⭐ 3.0k • 🔱 335 • 2d ago
-
----
-
-**[Nanako0129/sepia](https://github.com/Nanako0129/sepia)**
-
-De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-
-`Python` `agent-skills` `ai-writing` `antigravity` `claude-code` `codex`
-
-⭐ 2.9k • 🔱 185 • 3d ago
 
 ---
 
@@ -710,7 +703,7 @@ One AI trade decision every Monad block. Jev on Kuru MON-USDC.
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 464 • 9d ago
+⭐ 2.5k • 🔱 469 • 9d ago
 
 ---
 
@@ -730,17 +723,27 @@ A curated list of public projects, integrations, and discussions built on Jev �
 
 `Python` `awesome` `awesome-list` `jev` `llm`
 
-⭐ 1.7k • 🔱 259 • 21m ago
+⭐ 1.8k • 🔱 260 • 2h ago
 
 ---
 
-**[ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel)**
+**[hydra-db/open-glean](https://github.com/hydra-db/open-glean)**
 
-An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。
+An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.
 
-`Python` `agent` `agent-skill` `content-automation` `content-creation` `content-generation`
+`TypeScript`
 
-⭐ 1.6k • 🔱 232 • 2d ago
+⭐ 1.5k • 🔱 516 • 9d ago
+
+---
+
+**[jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills)**
+
+Professional agent skills for screenwriting, television writing and dramaturgy
+
+`Python` `ai` `skills`
+
+⭐ 1.4k • 🔱 157 • 4d ago
 
 ---
 

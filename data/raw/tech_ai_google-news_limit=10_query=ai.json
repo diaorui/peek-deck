@@ -5,24 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSmZMbFZYV2FMZWJqSU9PdTI4QVNrT1lKS1FkSC1BdE54ZnpzN2RMZTFTNG11TW5sZWVSeGJZblBfVi0ybkctU0VRbnllOVBISU9iOTZEbTdlam1tQXNVazNULXlIRjN2WnVsRkF6czdCWDJSMHBz0gF8QVVfeXFMT3NpeHlJU3phd3RTbTFfNUlvdDJPd2R3QXRhQnhhQ29yZnJuX0M0Q3ZKQWhSNmZyanpMQ2ZUc1RPY0VadTRNRnYtNVpra3hwUjdBTmlxMkF3RFBnampNT3BaSVpaY3V0bnprMFBMNno4WUFiQVprY3Nud1JPWQ?oc=5",
-      "pub_date": 1790420282.0,
-      "article_url": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108368099-1790347548042-gettyimages-2296814522-_s013237_lnya27tp.jpeg?v=1790347728&w=1920&h=1080",
-      "description": "The three-day summit \u200bbetween Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs."
+      "headline": "Trump seeks AI dominance over China after warm meeting with Xi",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5",
+      "pub_date": 1790460129.0,
+      "article_url": "https://www.foxnews.com/live-news/ai-leaders-trump-xi-xinping-state-dinner-white-house",
+      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/3d20103affca4457859ee6c704d984fd.jpg",
+      "description": "Top AI and tech executives attended President Donald Trump's White House state dinner for Chinese President Xi Jinping as Meta CEO Mark Zuckerberg argued AI labs do not need to coordinate on safety."
     },
     {
-      "headline": "Trump and Chinese president Xi end summit without major agreement on AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nT3o2LXNzMGpwdWxoTUtxUlZScHFGLXhiUy1maHJOOTNXSXpfRzNXb1FWVUxFM2gxN3M3T0pvVHVrQ0RVZTN2Y09XcWhVRHYtcVl0alJlUFdmVXlwR09ONFg0OVo4Sm4zZy1BRjhZRTZaYlhPNE9FMEQ0dmM?oc=5",
-      "pub_date": 1790374380.0,
-      "article_url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-      "image": "https://i.guim.co.uk/img/media/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/master/2596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6db74dd6e77f9a268f886d391c264e80",
-      "description": "Xi\u2019s state visit to the US emphasized personal rapport with the US president, rather than substantial agreements to pause their respective countries\u2019 AI arms race"
+      "headline": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+      "pub_date": 1790452772.0,
+      "article_url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Trump and Xi agree to set up AI safety channel as military and trade talks continue",
@@ -35,6 +35,16 @@
       "description": "The White House said the two leaders agreed on using the term \"super intelligence\" rather than \"artificial intelligence\" to describe the technology."
     },
     {
+      "headline": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5",
+      "pub_date": 1790378200.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and it is pausing training for a second time",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -45,66 +55,56 @@
       "description": "OpenAI looks to improve test security again after upgrades it made after the Hugging Face attack proved insufficient."
     },
     {
-      "headline": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5",
-      "pub_date": 1790442604.0,
-      "article_url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
-      "description": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
+      "headline": "Scoop: Top AI companies probing tens of thousands of security incidents",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUlRV1JkUEZFRkRINVBlWTR1SWxkZ1hjcUdOMkJDNzF4UXdBVHd2LVlqQmlwb0R3cTVuTFk3MEp1eHlUT0hsRTAzekszcl81ZjNoWDZCMkZBTlk4Z3dlV1RoZnd3YVZSQmpUWWEyc3EyWUFnRHFiQjNacUVEYmxuYXFxVldIdVJ3?oc=5",
+      "pub_date": 1790462353.0,
+      "article_url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "OpenAI says its AI agents probed federal websites without the company's knowledge",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjdncTRUV0lndmJtVDRsT2NRczR3ZVhkSzNoLWpNNzRCNF9qdWFMQXQxUGpaeEtNaGE3MWd2QWJHSW9QUjF1MzN1dW5oQnplWDhSMTBHaW1yYmk0NUdTS25YLXptZmd2VzhCdzRlV1ZDV20zbHpMNFQ4clZGUk5kelIzWFNDNHNQenN1WFd2aTM1OXpvUlBFQ1VQVDhwZ1FlUm5XUkdfeW1NdkFFV0szUzRCYWxkRk1INEwtVW1zSWlCS1k?oc=5",
-      "pub_date": 1790457188.0,
-      "article_url": "https://www.npr.org/2026/09/26/nx-s1-5981971/openai-says-its-ai-agents-probed-federal-websites-without-the-companys-knowledge",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "description": "OpenAI says its AI agents gained access to websites at the SEC and the Commerce Department in unauthorized ways this summer. The agencies say no private data was exposed."
+      "headline": "China\u2019s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldHZF9yQXljZXQ2UlBXaHF6cXNEWk9DOWxVZWlvR2pfV2ZvamNzeUtoR1ZOelJ6aE1QbkVHclJVRmZJYXRqOWNkWXNyZ2thQnAxZXpScE5OWThZQWl3Q1JJRlZQaGpiOHRWajdvVUFJbkRPYUtqMFkyS1ZWX1RNUXVNQWNVVnlJd3BMNzRleXB1bkhvSF9JTk1fRDhWTGdmeTRCbjAwT2VwWUd5R3htd25BcHQ?oc=5",
+      "pub_date": 1790467200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-27/china-s-consumer-stocks-face-lost-decade-as-ai-steals-spotlight",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Cardinal McElroy calls for new social contract to deal with AI",
-      "source": "National Catholic Reporter",
-      "source_url": "https://www.ncronline.org",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1NiOVFhZDVJSWRTRklVNnlnb1E1Q3dseThWcDFfanM0RWhMNG1fd2MyQVNFdmNHNzZqNTQyQTdzVFdXZ2V0aEhVV0U1TGNiVDMtcTN0cGp3bXFMaEpUUHV4MlBwSWp4SlFaY2JBRUtEUWJ1aE5XYmxTb1JOZmNLWGlPR3FlVTNwcHQ4Tw?oc=5",
-      "pub_date": 1790449452.0,
-      "article_url": "https://www.ncronline.org/opinion/cardinal-mcelroy-calls-new-social-contract-deal-ai",
-      "image": "https://www.ncronline.org/files/styles/facebook_ratio/public/2026-09/20260908T1217-LABOR-DAY-MCELROY-AI-WARNING-1825800%20crop.jpg?h=82f92a78&itok=xNBAtXFc",
-      "description": "The \"church seeks to be a vital part\" of the dialogue on artificial intelligence \"so that the benefits of the digital age will be sustained and enhanced and the dangers minimized,\" the cardinal said."
+      "headline": "Slowing AI Is The Real Risk To American Leadership",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUM4YXlsZVVKMFFJVG4wMzVrMENJWFNucFZ2LTVxM0hxcFdENWFXaUtyd1RNLTdMZXZFRVJZWDhXdWsxTlhHTDgtckwtRTNXNkJpN0RmOHJXamN0NlVocFA4VkcyUzFkX2tPN3ZVc2hxVFFNYy1oT09mckhpdFJDNjdiTTdHT2lVVGVzREprem1HMDRCeGJHXzgzSm9ZQUtOZWtSUTY2QQ?oc=5",
+      "pub_date": 1790469586.0,
+      "article_url": "https://www.forbes.com/sites/markminevich/2026/09/26/slowing-ai-is-the-real-risk-to-american-leadership/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "College president warns AI could strengthen education \u2014 or create dangerous shortcuts: 'It\u2019s how we manage it'",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQjVOYlo1RURDSjZUcjQ1MDZodHhCX3hLMVlvV0g0LUFHdWpRbTJIQXNJSW9UbWpwNDRzYkQ5cFlHR19UdkMtWHhPVldPMjNyRDJJRzVkMG0xVmFUcWh4d3RCM2sxcWs0bTJMSnhyVWhHYlN4LXBvdVdhQUcwajMwN3A2bXo4dlJ4ZDEzYTJrNi1heldzbkx1eWJPUFltYnlzS0c5YVNaaEl0dzN0QUFkMndpMFFYZDJsdzQtbTEyYWFtMmxTQmpUc1I5YWluZENpVnfSAdcBQVVfeXFMTTVWRUpDVXhpTV9vZERKQU1ZNWNHWlhUU0VoaVJpRkp6QVRnVjdlUWRGZUxic0k5YmRXWGptOEJKVWtmZlF0dGh0azlXSmZHd3hwZ1dpd29TVklSTW5pQlE2V09ueHV6blcwdkpFWXhBUjNySHhLLVJXd0x2MlIySmR0dnl2eE0tMlN3NDFibnFDWkJpbjdpVV91NEwwbXZBblV0d1F4UjZVV2U5OTAzUzNvOVpiSlhqb2pRZ2xUTmVxMksxRkNqUnlFNVVzWGNJbHhZX0cxOW8?oc=5",
-      "pub_date": 1790450344.0,
-      "article_url": "https://www.foxbusiness.com/fox-news-tech/college-president-warns-ai-could-strengthen-education-create-dangerous-shortcuts-how-we-manage",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/students-using-tech.png?ve=1&tl=1",
-      "description": "New College of Florida President Richard Corcoran explains how universities can embrace artificial intelligence while ensuring students develop critical thinking, communication and other skills needed in the workplace."
+      "headline": "Woolly mammoth to be resurrected with the help of AI: scientists",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWg5NjdLX0wzblpOSmZ1dl84MDVKWnlvM0hTMkpkMjdzQWZadnhSOUxfN1ZLZVNJemhxTWtnZ3B6YmUxWGNoazlzTlY2OEpQRzkwN1VfdjZWZU5DVUxxLXNaQVFuTjRXcDJ0b0xpb3dNRFA5YnVxcGpqY002c1NpUlJrYnozdWlwbl9VcGVjQkduUW9mUXVlSE9oVXYxaUFEMXc?oc=5",
+      "pub_date": 1790459280.0,
+      "article_url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142541554.jpg?quality=75&strip=all&w=1200",
+      "description": "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes \u2014 not 60 using A\u2026"
     },
     {
-      "headline": "Michigan CEO loses job after posting AI-made image of her family in \u2018Lake America\u2019 sweaters",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWlBX3B2bGdGZ2g5czNEemhjM1RfdDVUUEJkWEFwR1BzbEhhdVdQUHlhVnZya2JfZ3J5d3I5cjk2ZTdKRG14UXZBX05TYXdVYkFyQXpKN0ZBTlpaVkU4Z0t4UGFyUzM1dlpmRXJ0NHhpcDhGVWFaWlFrdzZWT09wMDhFZWpENWs2czVidmMzYnozeXM?oc=5",
-      "pub_date": 1790374920.0,
-      "article_url": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
-      "image": "https://i.guim.co.uk/img/media/e44905997f5cadb38f09f93a87fc8f2f8d371861/74_0_4006_3207/master/4006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1bb57149ee10664aa2e488b3cc09edc",
-      "description": "Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada"
-    },
-    {
-      "headline": "U.S., Russia stripped human oversight from global AI weapons pact",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNLMmd2Y0t3cS1KN01EbFRNdzc0cHpWT193NnJHNXN1SndBTjdISVdYVGlIbnN0NHRROWJYdDlaeU1VelUwc2hwZ1c5d3dZcjhBQnVNMVF3UVFRd0hDOGkwTTVMSkFBTHM3VG9sU2NJakQ3SGNuMmFUanAzV0tGbXhNOFl6elFaOXZxNEwweUpmSXF5cDlfbmQ2Y0xjMWUxRkNHSW5iUEJNTnR6MFE?oc=5",
-      "pub_date": 1790438400.0,
-      "article_url": "https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4ISJA5NDI5C5XI7DSX2HUQIMEY.jpg&w=1440",
-      "description": "The two nations stripped a range of safeguards from language in a landmark U.N. effort to try to regulate the use of lethal autonomous weaponry. The global negotiations earlier this month marked the furthest progress yet toward a potential treaty."
+      "headline": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRnJJdFJDajF5bUx0UmVPQXdyQ2c4aEIxYU9ldjBpN01zbC1mWXhITUlzcm0wSmZJQnhsTF9wZW0wMmhFb0VZZ0wyNjZwUXZkbkNHMVNHWFlsTko4dWUwTTRmMHJ1SzJVYmRDblZwQkVhaDV2WHZjcF9JeDBVSnNXTTNjQXhick5uckVSR1pMTnRzamFZNFV3?oc=5",
+      "pub_date": 1790367100.0,
+      "article_url": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-26T22:25:08.255080+00:00"
+  "fetched_at": "2026-09-27T00:47:31.341993+00:00"
 }

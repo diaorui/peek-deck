@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-09-26T22:25:10.833708+00:00'
+updated: '2026-09-27T00:47:33.634056+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** September 26, 2026 at 22:25 UTC  
+**Last Updated:** September 27, 2026 at 00:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +1.8%  
-**30d:** +10.2%  
-**90d:** +66.7%  
-**1y:** -32.9%  
+**24h:** +0.1%  
+**7d:** -2.9%  
+**30d:** +9.6%  
+**90d:** +71.5%  
+**1y:** -34.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $328.07B
+**Market Cap:** $328.93B
 Rank #2
 
 **Circulating Supply:** 122,081,755 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--45.7%
+-45.5%
 
 **All-Time Low:** $0.43
-+620567.5%
++622170.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Calendar: https://dailydoots.com/events/
 
-17h ago
+19h ago
 
 ---
 
@@ -160,19 +160,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Is an 'Exit Asset'—Ethereum Is the New Rails Bet, Ex-BlackRock Exec Says](https://www.benzinga.com/crypto/cryptocurrency/26/09/62004766/bitcoin-is-an-exit-asset-ethereum-is-the-new-rails-bet-ex-blackrock-exec-says)**
+
+SharpLink CEO Joseph Chalom calls Bitcoin an exit asset and backs Ethereum as the financial rail for stablecoins, DeFi and AI agents.
+
+Benzinga • 1d ago
+
+---
+
 **[Tom Lee Says ‘Stay Tuned’ As Bitmine Nears 5% Ethereum Goal, Hints At What’s Next](https://www.tradingview.com/news/stocktwits:8df62c3dd094b:0-tom-lee-says-stay-tuned-as-bitmine-nears-5-ethereum-goal-hints-at-what-s-next/)**
 
 Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to "stay tuned" for what comes next, stopping short of naming a new target.Speaking on the Coinage podcast on Thursday, Lee explained that the 5% goal had arr…
 
-TradingView • 9h ago
-
----
-
-**[Ethereum Exchange Supply Hits Record Low as ETH Gains 10% — Is a Correction Next?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next)**
-
-Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally.
-
-Benzinga • 1d ago
+TradingView • 12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Benzinga • 1d ago
 
 ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market.
 
-CryptoSlate • 14h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -208,27 +208,27 @@ CoinDesk • 2d ago
 
 ---
 
+**[Ethereum: Dip Below Range May Fuel 2026 Breakout](https://blockchain.news/flashnews/ethereum-dip-below-range-fuel-2026-breakout)**
+
+Ethereum at $2666.78 eyes dip below consolidation range like 2025 pattern before surge, per trader analysis and 4h chart confluence.
+
+blockchain.news • 2d ago
+
+---
+
+**[Ethereum Exchange Supply Hits Record Low as ETH Gains 10% — Is a Correction Next?](https://www.benzinga.com/crypto/cryptocurrency/26/09/61998408/ethereum-exchange-supply-hits-record-low-as-eth-gains-10-is-a-correction-next)**
+
+Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally.
+
+Benzinga • 1d ago
+
+---
+
 **[Ethereum’s $2,540 Retest Becomes Key Test for the Rally](https://finance.yahoo.com/markets/crypto/articles/ethereum-2-540-retest-becomes-161428699.html)**
 
 In today’s Ethereum news, ETH was trading near $2,728 on September 25. That is up about 3.13% over the past 24 hours, on volume near $13.7 billion, with a market cap of about $333 billion. The bounce follows a pullback from above $2,800 that briefly dipped toward $2,640 on September ...
 
-Yahoo Finance • 6h ago
-
----
-
-**[SEC Clarifies Ethereum Staking Rules: 1.68 Million ETH in Queue](https://finance.yahoo.com/markets/crypto/articles/sec-clarifies-ethereum-staking-rules-181124193.html)**
-
-The SEC just told Ethereum stakers they are not selling securities, but the guidance can vanish without a vote, leaving billions of dollars worth of queued ETH in a regulatory gray zone.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin Is an 'Exit Asset'—Ethereum Is the New Rails Bet, Ex-BlackRock Exec Says](https://www.benzinga.com/crypto/cryptocurrency/26/09/62004766/bitcoin-is-an-exit-asset-ethereum-is-the-new-rails-bet-ex-blackrock-exec-says)**
-
-SharpLink CEO Joseph Chalom calls Bitcoin an exit asset and backs Ethereum as the financial rail for stablecoins, DeFi and AI agents.
-
-Benzinga • 1d ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -242,7 +242,17 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Bitcoin Strategy
 
-👁️ 365 • 👍 23 • 💬 2 • ⏱️ 8:46 • 2h ago
+👁️ 1K • 👍 32 • 💬 2 • ⏱️ 8:46 • 5h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=OAY5CYJyqiw)**
+
+BITCOIN & CRYPTO: NEW TRADING SIGNAL CONFIRMED (Urgent)!!! - Bitcoin News Today, Ethereum & Altcoins *LBANK* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 169 • 💬 22 • ⏱️ 24:53 • 2h ago
 
 ---
 
@@ -252,7 +262,7 @@ Automatic Copy Trading: https://the-bitcoin-strategy.com/r/dREosge4 Ask Gerhard 
 
 📺 Lark Davis
 
-👁️ 17K • 👍 448 • 💬 50 • ⏱️ 7:46 • 9h ago
+👁️ 19K • 👍 478 • 💬 54 • ⏱️ 7:46 • 11h ago
 
 ---
 
@@ -262,7 +272,7 @@ CCV Risk Models & Intelligence System — Start your free trial: https://app.cry
 
 📺 Crypto Capital Venture
 
-👁️ 8K • 👍 382 • 💬 67 • ⏱️ 14:43 • 4h ago
+👁️ 14K • 👍 497 • 💬 76 • ⏱️ 14:43 • 6h ago
 
 ---
 
@@ -272,7 +282,7 @@ Get your $25 Kalshi bonus here!: https://kalshi.com/p/cryptonutshell My FREE Dai
 
 📺 Crypto Nutshell
 
-👁️ 39K • 👍 589 • 💬 54 • ⏱️ 23:38 • 2d ago
+👁️ 39K • 👍 594 • 💬 56 • ⏱️ 23:38 • 2d ago
 
 ---
 
@@ -282,7 +292,17 @@ SharpLink CEO Joseph Chalom breaks down why Ethereum becomes the settlement laye
 
 📺 Paul Barron Network
 
-👁️ 56K • 👍 953 • 💬 157 • ⏱️ 38:35 • 1d ago
+👁️ 57K • 👍 971 • 💬 157 • ⏱️ 38:35 • 1d ago
+
+---
+
+**[🚀 Get In Early - The Pumpfun Of Ethereum](https://www.youtube.com/watch?v=us4X2xZaqY8)**
+
+Tokenized stock launchpads are the best performing coins in crypto right now. We just saw launchpads on Solana and Robinhood ...
+
+📺 Beanstock - Crypto & Stocks
+
+👁️ 2K • 👍 54 • 💬 5 • ⏱️ 10:17 • 7h ago
 
 ---
 
@@ -292,7 +312,7 @@ BITCOIN WARNING: The Calm Before The Storm!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 14K • 👍 414 • 💬 49 • ⏱️ 24:10 • 19h ago
+👁️ 15K • 👍 417 • 💬 42 • ⏱️ 24:10 • 21h ago
 
 ---
 
@@ -302,15 +322,7 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 34 • 💬 38 • ⏱️ 4:56 • 1d ago
-
----
-
-**[ROBINHOOD CHAIN FEES COLLAPSING!?9/21/2026 #ethereum #crypto #solana](https://www.youtube.com/watch?v=0ZS-FKHX74g)**
-
-📺 CryptoWendyO
-
-👁️ 684 • 👍 77 • 💬 1 • ⏱️ 0:56 • 2h ago
+👁️ 2K • 👍 36 • 💬 38 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -318,17 +330,7 @@ WEEX - trade crypto AND stocks, no KYC, up to $10,000+ in sign up ...
 
 📺 CryptoWendyO
 
-👁️ 438 • 👍 38 • ⏱️ 0:59 • 1h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=i4LAsNFTsDg)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 1K • 👍 77 • ⏱️ 6:09 • 6h ago
+👁️ 914 • 👍 57 • 💬 1 • ⏱️ 0:59 • 3h ago
 
 ---
 
