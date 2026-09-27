@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-25T03:49:00.646078+00:00",
+  "data": {
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "description": "New on-silicon performance data measured by NVIDIA using real-world agentic coding trajectories shows Vera Rubin NVL72 systems deliver 30x higher throughput per megawatt and 35x lower token costs than NVIDIA GB300 NVL72.",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700.jpg",
+    "favicon": "https://blogs.nvidia.com/favicon.ico",
+    "site_name": "NVIDIA Blog",
+    "author": "Shruti Koparkar",
+    "keywords": null
+  }
+}

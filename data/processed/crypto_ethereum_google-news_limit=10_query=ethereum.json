@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ethereum",
+  "site": null,
+  "search_query": "ethereum",
+  "articles": [
+    {
+      "headline": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
+      "source": "The Block",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUDRRd1R2UndNOUhlXzZFSXlIc19RNDlaZlZLWVYyeEc2QmotdnFweGdqRE1DNUZYZWNDemxhMFRBU1RGSlpJRFhScGVxN1FJN0dYUTZVS0pBYVdlakIxMjcxZ2VWalVHM2V3MWRiaV83OThiRmtiNUo1blNTQ3F2R1VJRmNQTml4VTFGYlF4NHdWV2NFS1N6ZG5pZ3hPTHJQNUw5WWdBNnY0aWNYaE9HNjNFLTNiNm1ial9RM1pfQXhLaTVreUtjY2RxbTFGNVl6VFFxWktSTXowREplcG4zaw?oc=5",
+      "pub_date": 1789045200.0,
+      "article_url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
+      "image": "https://www.tbstat.com/wp/uploads/2026/05/20260511_Quantum_News_4-1200x675.jpg",
+      "description": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods."
+    },
+    {
+      "headline": "Ethereum Is Up 31% in Thirty Days and XRP 33%. Which Is the Better Buy Before the Fed Meets?",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWDRuaTg3LTE3Skt6dU00NnRfZ2dKZGIwYlpXaG1CUXY0YWYxSTNPd2NBQjNEYVRIRGJhYkYxMEFzSGpjeXdGMkRiSDJIWGV6ME82S0hCaWd6YjFVZ2ZfNXRBemI4WElBR3pPZUE3SWRPTGpUUGRUaVRzaDNWdG13TnlTX3NOTnhsV19Rd0F4ckU1U1N4UlV5WFA0OGdZdFYxd0RIU2VpQmtEN3IzTF9NWmhpa1VVdmFlRU5vUVMxYjUtaTZoMEFHZjJwaFRSNW9JSzhrREVoUmVtSWpWYmN2WA?oc=5",
+      "pub_date": 1788871740.0,
+      "article_url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/ethereum-is-up-31-in-thirty-days-and-xrp-33-which-is-the-better-buy-before-the-fed-meets/",
+      "image": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2760853909-huge-licensed-scaled.jpg",
+      "description": "Ethereum is up 31% and XRP 37% in the 30 days to September . Here is which one has more behind it before the Senate vote and Fed decision."
+    },
+    {
+      "headline": "1,000 XRP or 1 Ethereum: Which Is Worth More by 2028?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQU5XQlBNNkdTNHpmeld1LWNKbkM3YXlTSEhfT2dSSy1NdmhyUnpsTEFqN1Zxam1BMTBIOGNGZjVBaHdJZnlJS3hvdGVjMFZxRDYwMWNUVU5xT0xEODVvSFhzXzhCU1djV3JGMkRQaW5kVTlqaFNYVWVUM2ZkRF9aeERUMTlDOWpOekREYm5B?oc=5",
+      "pub_date": 1789086840.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/1-000-xrp-1-ethereum-003439902.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/31478b3c20dda598b98c43bebb72adb50a932c796fe8820cfbe45ab3c4ad605b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fbcfc284dc86c08ff08e2f1726754422c.jpg",
+      "description": "Standard Chartered has published 2028 price targets for both XRP and Ethereum, but the gap between holding 1,000 XRP versus a single ETH is wider than most investors assume, and closing it requires one very specific set of conditions to break just right."
+    },
+    {
+      "headline": "Ethereum's \"Proof Singularity\": Real Technology, Inflated Narrative! EIP-8288",
+      "source": "Moomoo",
+      "source_url": "http://www.moomoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbDVTa1BaTVdQU3lfTDdoU1hXQjAybTNMMW0ySEtRNUJ5Z29aZjNpYnV3N0s2VXhXMTZCV0xfYlc0dHFBb1dvSGxxVjdfNWdndW9KWDZVdWpKdlVGdU93V3ZoOUVlNUdBQ09LY0RaeGZYMUFsSHplQk03U1Itam0tM3dfSHpqSGdCaHdpWHhzWmhsdkY5OFBuVjVWOEFZT2kweUpYS0dBZkNNRTdIeWh0cnNnclEzbFJpYzVBLVJTOUhMWTg?oc=5",
+      "pub_date": 1789084834.0,
+      "article_url": "http://www.moomoo.com/community/feed/ethereum-s-proof-singularity-real-technology-inflated-narrative-eip-8288-117249463681030",
+      "image": "https://sgsnsimg.moomoo.com/sns_client_feed/104475682/20260911/1789084833689-random6307-104475682-android-org.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+      "description": "A genuine technical proposal, and a price prophecy that wrote itself. In the second week of September, Ethereum co-founder Vitalik Buterin posted a note titled \"A note on recursive STARK mempools\" \u2014 EIP-8288. On its face, this was an unremarkable engineering draft which move expensive cryptographic verification off the main chain and into the mempool, compressing it into a recursive STARK proof of a few hundred kilobyte..."
+    },
+    {
+      "headline": "Ethereum giant Consensys spins off flagship MetaMask wallet, stays mum on IPO and token plans",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPeXN0MENheTNJZFRhZmxmU3ItUC0zSnRXYlpxUDZfT29ndWtTRHdjY01Lek9vV3lQeWJyQ3lEenhVdWZpZjNncGR4dE05TC0ySXVxX3dBeUhpVmpPeW9J?oc=5",
+      "pub_date": 1788962400.0,
+      "article_url": "https://fortune.com/2026/09/09/metamask-consensys/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1142283026.jpg?resize=1200,600",
+      "description": "The company will now formally operate as two separate entities, with one focused on MetaMask and the other on institutional software."
+    },
+    {
+      "headline": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTFuU0piNWFDLXhRaG02THM0TnB5YjU1XzJqWWtpcExhSUJLcTBPT0MycEpUYk9GZUptSC1LN2l1dEJyM3duRXhnYS1JSkEtLVRSLVc1NER6VHJkUlAtVnA2R0UtbkJndDIzc0Ftb1ZQZXZ6VHRTWndlcUxCQzZmSXhacndyeDV0YklWZ1hiUW14eTE3U2J5NHctOVhDU1lHR3ctNjFTbzEyTTI5eGduaTBDZXIySFZ0eHdrQ0NVQQ?oc=5",
+      "pub_date": 1788967800.0,
+      "article_url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin, Ethereum options worth $3B expire as ETH traders shift defensively toward puts",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZTJ3ZmVyakVIelptUWVBVXBBY1d5VnNFZGtvcUNtemw1V2EyUFl1WGtTMElIMGNtVnd5VXBnaDlDZ3JfMHpKNnV0cnBVdjZvQ1V5dl94eWFBVUNLTlhRVDhTSXlGVHhFMFdHUHhqcDBmdTNoemRCeHdIenZFTHJkMmJlajFRTkRMc3g2dndPazQxNktwNU4xc29iQXJJWklPRlNFd1dkclBDMnJ5WGFDUk5qbmZmOEpUUlNKekx2eS1weTBmM0xJcU9VODVnUGs4VVc5bEdPd09zMkRXSHVPY0Z0VlE?oc=5",
+      "pub_date": 1789074824.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:3e8a75f52094b:0-bitcoin-ethereum-options-worth-3b-expire-as-eth-traders-shift-defensively-toward-puts/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Roughly $3 billion in Bitcoin and Ethereum options expired on Deribit, and the two assets told very different stories heading into settlement. Bitcoin's options book stayed firmly tilted toward calls, the optimistic bets. Ethereum's, meanwhile, drifted toward puts, the kind of contracts you buy whe\u2026"
+    },
+    {
+      "headline": "Tom Lee Says Ethereum Hits $6,000 by December. It Needs Bitcoin at $150,000 First",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2d5cUdQTnBzS2RCcTBPUHQ2NXNLaHpTUnFxM2hDMzFjeEhIb19JUXRnVExwdFhuWFFLTVhfanhieWoyeC13bnptNlNuTmc0dmJSQ2hueTNMcDU0Rmk2SmdMM1cyMzJFT1czb2t2ODlDelBvcW5jZnFITTVkM21CNVFVak02MThCVzlza1FLTXRQOHFtNUE?oc=5",
+      "pub_date": 1788885023.0,
+      "article_url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-ethereum-hits-163023873.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/c2bbf33d3f2ee7e0bf95c2740a49df9cdfa84c62f5236c858f91e02390d706f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F069cb3861bc5df18b5a5f395a4be1345.jpg",
+      "description": "Tom Lee has a precise formula for Ethereum hitting $6,000 by December, but it requires Bitcoin to do something it has never done in a single quarter before."
+    },
+    {
+      "headline": "Ethereum: Vitalik Buterin Advances Privacy Cost Cuts | Flash News Detail",
+      "source": "blockchain.news",
+      "source_url": "https://blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTFwV1NEMERWYTJiRk1Xc1BFZ0FVS25MNF9iXzM3Z2R2a0tRU3VXXzBIUzM2Unl6S005QjFSdVRHZDNpUFM4dkNERFlpUmoyMFM0cFlXQzkxVXFhMTVLZGkxQ013NGpqZXNFS3Y5dXBTLXZVOFI2X2Zvamx4QUlhaXRHMW5VY2R3RnRsMXFn?oc=5",
+      "pub_date": 1789040062.0,
+      "article_url": "https://blockchain.news/flashnews/ethereum-vitalik-buterin-advances-privacy-cost-cuts",
+      "image": "https://image.blockchain.news/features/DC3788979712BF4DFF603597AAC46E7C52F8B5EF76BC21453D757F37CDB271FE.jpg",
+      "description": "Ethereum: Vitalik Buterin pushes quantum-safe privacy plan as ETH trades at $2466.85 with bearish EMA50 at $2472.43 and MACD death cross."
+    },
+    {
+      "headline": "Crypto ETFs in 2026: Bitcoin, Ethereum and the Altcoin Wave Explained",
+      "source": "ETF.com",
+      "source_url": "https://www.etf.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOTFEV3VsdVdZRFVKNmtpZU1pcWpXWHQyTnk5a2RVOGJNR3dxSlFKaWp0U3lBLXdZZkVuNG9kZU1kZnRFRjV4ZjVOYS10Skh1TmpXSnVfcVFBaWZ2M2pNSFZWNmFDeUFKVm1Ia2Y2UlRCWE1YY0o4eVJvTHluYlN1alM3V0FtXzNKajFFSG5scFg1ay1CSmtBbU9EZzQtbjg?oc=5",
+      "pub_date": 1788976819.0,
+      "article_url": "https://www.etf.com/sections/features/crypto-etfs-2026-bitcoin-ethereum-and-altcoin-wave-explained",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2026-09-11T01:21:28.840656+00:00"
+}

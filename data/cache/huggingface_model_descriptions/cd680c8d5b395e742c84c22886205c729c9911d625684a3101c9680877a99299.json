@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-14T16:52:59.689734+00:00",
+  "data": "Qwen3.8-27B is a 27B parameter vision-language model with native image and video understanding capabilities. It excels in coding, professional tasks, research, and long-horizon agentic applications, featuring flexible thinking control and a large context window up to 1M tokens.",
+  "model_id": "Qwen/Qwen3.8-27B"
+}

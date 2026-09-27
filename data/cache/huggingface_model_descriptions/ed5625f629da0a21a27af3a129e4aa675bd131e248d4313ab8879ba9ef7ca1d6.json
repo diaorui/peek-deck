@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-29T10:52:07.127209+00:00",
+  "data": "Hy4-preview is a 770B parameter Mixture-of-Experts (MoE) text generation model with 49B activated parameters per token, featuring a 1M context length and Gated Sparse Attention. It excels in productivity tasks across software engineering, office analysis, game development, and scientific research, offering significant gains in understanding, reasoning, and code generation.",
+  "model_id": "tencent/Hy4-preview"
+}

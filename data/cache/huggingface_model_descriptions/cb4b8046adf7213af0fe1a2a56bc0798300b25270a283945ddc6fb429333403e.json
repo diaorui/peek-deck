@@ -1,0 +1,5 @@
+{
+  "cached_at": "2026-08-21T12:47:56.717275+00:00",
+  "data": "Qwen3.8-27B-OBLITERATED is an uncensored text generation model that achieves zero refusals while matching or exceeding stock Qwen3.8-27B capabilities, including advanced real-world tasks and tool calling. It utilizes a novel complementary abliteration blending technique to preserve performance and is optimized for greedy decoding with specific repetition penalty and disabled thinking settings.",
+  "model_id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED"
+}

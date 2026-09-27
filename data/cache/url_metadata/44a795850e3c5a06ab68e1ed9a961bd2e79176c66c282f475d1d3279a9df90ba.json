@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-09-06T03:18:00.481994+00:00",
+  "data": {
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "GitHub - okf-memory/okf-agent-memory: Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300\u00b5s in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with ...",
+    "image": "https://opengraph.githubassets.com/459e6fc5f9b060bef5730ff1bb712f797d35f5c453024eae378f33d9191711e6/okf-memory/okf-agent-memory",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}

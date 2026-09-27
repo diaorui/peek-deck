@@ -1,0 +1,116 @@
+{
+  "subreddit": "artificial",
+  "posts": [
+    {
+      "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
+      "author": "florinandrei",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
+      "published": 1789076637.0,
+      "thumbnail": "https://preview.redd.it/wrl4i7x1jroh1.jpeg?width=640&crop=smart&auto=webp&s=301592e957d4bc35cc9c51e5c57792f6429c20ea",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Anthropic published a model of its own product's effect on the labor market. The extreme scenario has cognitive unemployment at 17.9% and labor's share of GDP falling from 60% to 45%.",
+      "author": "ai-edition",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/",
+      "published": 1789047823.0,
+      "thumbnail": "https://external-preview.redd.it/y2fIgEARgTHgGBJMdJxvz9NFk5gGwnldgKjE3lt-4O8.png?width=640&crop=smart&auto=webp&s=ed8b9e4d9d4771987da89544aa126def3a9a1293",
+      "external_url": "https://www.anthropic.com/institute/econ-scenarios",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Three scenarios, explicitly not predictions, no probabilities attached. Modest is internet-sized at 1.6% GDP above the no-AI path by 2030. Substantial is 8.3%. Extreme is 32.4%. In the extreme case: cognitive unemployment 17.9%, overall 11.9%, which is past any postwar US peak. Cognitive wages 11.5% below trend on 21.5% fewer jobs. Labor's share of income falls from 60% to 45.2%. But wages in non-cognitive work go up 33.6%, so this isn't a story about everyone losing. It's a story about which half of the workforce you're in. The number that got me is in their Table 3. Total labor income ends up 0.5% above the no-AI path while GDP is a third larger. Capital income is up 81.4%. Essentially the entire gain goes to capital. Their own text says holding cognitive workers whole would take a transfer around 9% of GDP, about Social Security and Medicare combined, and that transfers at that scale in response to technology have no precedent. Worth knowing the extreme scenario assumes zero new human tasks get created. That assumption is doing real work in the result. Their caveats: no policy response, no business cycles, no financial disruption, no catastrophic risk, no robots."
+    },
+    {
+      "title": "Genuine Question About Citizenship",
+      "author": "PravalPattam12945RPG",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcdc90/genuine_question_about_citizenship/",
+      "published": 1789029590.0,
+      "thumbnail": "https://preview.redd.it/alvlasdfnnoh1.png?width=640&crop=smart&auto=webp&s=3b47da1ab91c00cf3d1aea56b049a8bf2f99b70f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Is AGI finally here?",
+      "author": "TheOnlyVibemaster",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcjkhd/is_agi_finally_here/",
+      "published": 1789047695.0,
+      "thumbnail": "https://preview.redd.it/xyazmjlb5poh1.jpeg?width=640&crop=smart&auto=webp&s=d41d9a31932fa10f1ab6ebf98435edb41ddbb8b2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
+      "author": "recallingmemories",
+      "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
+      "published": 1789087986.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A 2024 University of Wisconsin\u2013Madison paper estimates that \"one cheeseburger equates to 1.9 kg of CO\u2082e emissions\". Google\u2019s 2025 research paper reports that \"a median Gemini Apps text prompt generates 0.03 gCO2e\". That's 1,900 grams of CO\u2082e emissions per cheeseburger. That\u2019s 0.03 grams of CO\u2082e emissions per Gemini text prompt. 1,900 \u00f7 0.03 \u2248 63,000 prompts. I'm just sharing this as a reality check. You could prompt Gemini every day 150 times a day for a year and it still wouldn't equal one cheeseburger."
+    },
+    {
+      "title": "Challenge Accepted",
+      "author": "PUBGM_MightyFine",
+      "url": "https://www.reddit.com/r/artificial/comments/1wclvgu/challenge_accepted/",
+      "published": 1789052880.0,
+      "thumbnail": "https://preview.redd.it/009038lqkpoh1.jpeg?width=640&crop=smart&auto=webp&s=2dd897d0c8b8e691d9823ab8ef75ae2017969fc0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The ignorance is incredible"
+    },
+    {
+      "title": "We need free market and foreign AI models to keep companies competitive",
+      "author": "Armored09",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcq4r8/we_need_free_market_and_foreign_ai_models_to_keep/",
+      "published": 1789062090.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "There\u2019s a lot of talk from different AI companies that are pushing the narrative that AI is simply too dangerous to be distributed without severe regulations and reviews. While I agree with this, I have to point out that the solution isn\u2019t shutting down access to Chinese models or heavily regulating the market into extintction this is just gonna cause larger corporations in the government to have a monopoly and be able to dictate what we can or cannot do."
+    },
+    {
+      "title": "Google makes $15B AI infrastructure investment in Finland",
+      "author": "LinkedInNews",
+      "url": "https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/",
+      "published": 1789082771.0,
+      "thumbnail": "https://external-preview.redd.it/DR-nQ-2mwWAawkgN4nt0eTEAMfI30k6JxI6qHwmpH0E.jpeg?width=640&crop=smart&auto=webp&s=754b90a49477f86dc80d36329e5b764bde22e135",
+      "external_url": "https://www.linkedin.com/news/story/google-makes-15b-ai-infrastructure-investment-in-finland-9344618/?utm_source=share&utm_campaign=reddit&utm_content=storyline&utm_term=artificial",
+      "site_name": "LinkedIn",
+      "favicon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+      "description": "The tech giant has announced plans to invest at least $15 billion in data centers and other AI infrastructure in Finland through 2028."
+    },
+    {
+      "title": "I ran GPT-6 Astra against 7 real signup CAPTCHAs",
+      "author": "JanJanJaJa",
+      "url": "https://www.reddit.com/r/artificial/comments/1wcrgm4/i_ran_gpt6_astra_against_7_real_signup_captchas/",
+      "published": 1789064861.0,
+      "thumbnail": "https://preview.redd.it/h7n1nqiakqoh1.png?width=640&crop=smart&auto=webp&s=c338b3c9aee434a49a279db0466507f8791ff749",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI put GPT-6 Astra into the API today, so now anyone can actually call it instead of waiting for the special-access rollout. Good timing too, since everyone's still reposting Sharif Shameem's video from a couple days ago, where GPT-6 Astra clears all 48 levels of Neal Agarwal's \"I'm Not a Robot\" game and gets its own \"Verified Human\" certificate. Comments are saying stuff like \"CAPTCHAs are officially dead,\" someone from OpenAI even hopped in on the thread. For a while now, I've wanted to run an agent through different services and have it self-register. My goal was to test Atomic Mail Agentic's OTP feature: does it work, how long does it take, how many tokens it burns. But then a convenient opportunity showed up to test all this with GPT-6 Astra, now that it's actually reachable through the API, since I got curious, like, whoa, now it can even solve CAPTCHAs? I picked 7 US services: Reddit, GitHub, Discord, Etsy, Indeed, Airbnb and Craigslist. Spoiler: 2 out of 7 actually went through, and neither of those two had a CAPTCHA in the way to begin with. On Reddit, the agent hit Cloudflare's \"prove your humanity\" check and couldn't get past it on its own, called me in to do it myself. Discord just froze for seven minutes, the agent kept reading the registration form in a loop and never moved forward, I've never figured out what widget was blocking it. Indeed got as far as the email code and then wanted a phone number for SMS, no video for that. Craigslist and Airbnb didn't make it either (Airbnb died mid-run when my local model crashed, unrelated to CAPTCHAs, just bad luck on my end). I also came across a blog post from a scraping service (decodo), and they say about Astra: \"does not fix blocks, geo-restrictions, CAPTCHAs, or rate limits.\" So vendors who sell access to the model are honest that it is a demo game, not production CAPTCHAs on real sites. The gap between the viral clip and what's actually deployed on sites matched what I saw in practice. What did make me happy: OTP just worked. Every site that only needed an email code registered clean, that's the GitHub and Etsy rows below. Used OpenRouter to access the model. Here's what the cost looked like, and whether the registration actually completed or not, since those are two different things: GPT-6 Astra, cost and outcome per step (OpenRouter, $10/M input, $50/M output) Step Tokens Cost Result Reddit (/register) 11,201 $0.11 Blocked \u2014 Cloudflare check GitHub (/signup + email confirm) 65,638 $0.67 Passed Discord (/register, stuck loop) 430,609 $4.37 Blocked \u2014 stuck loop Etsy (/join) 582,589 $5.86 Passed Indeed (auth/signup) 411,567 $4.14 Blocked \u2014 needs SMS Craigslist (blocked) 32,259 $0.32 Blocked Airbnb (interrupted by a crash) 419,194 $4.21 Blocked \u2014 crashed mid-run Total 1,953,057 $19.68 2/7 passed Worth being clear: the cost column is what it cost to run the agent against that site, not what it cost to beat a CAPTCHA. A blocked row still burns tokens, Discord's $4.37 is a failed loop, not a paid-for win. Same price whether you use Astra or Fable 5, both are $10/M in, $50/M out on OpenRouter, so it doesn't matter which you run. Though for this type of work you don't need anything that heavy anyway, something like DeepSeek V4 would do fine. Here's what just the Etsy (/join) step would've cost on DeepSeek V4 Flash instead: Etsy (/join) step, model comparison Model Tokens Cost GPT-6 Astra 582,589 $5.86 DeepSeek V4 Flash 582,589 $0.04 Gemini 2.5 Flash Lite 582,589 $0.055 GPT-5 Nano 582,589 $0.045 Qwen3.7 Flash 582,589 $0.035 Same exact task, about 150x cheaper. I'm strongly against building bot farms, but agent self-registration is fine when a product actually needs it. Still, we're getting to where models really can reliably solve CAPTCHAs, and then we'll all be proving we're human on camera. People will work around that too. As a regular user, how do you feel about this? Do you see where it's going, what will the flood of bots and agents do to the internet and to services? (For what it's worth, at Atomic Mail we ban bot farms outright, so if that's what you're after, we're not your fit.) P.S. I know Neal Agarwal's game is a demo, not a real CAPTCHA vendor like Cloudflare or hCaptcha, that's kind of the whole point. Everyone was hyping \"CAPTCHAs are dead\" off that clip, so I got what actually happens the moment you point the same model at real signup flows instead of a browser game"
+    },
+    {
+      "title": "OpenAI launches Agents API public beta built on Codex harness",
+      "author": "Codeblix_Ltd",
+      "url": "https://www.reddit.com/r/artificial/comments/1wctpbu/openai_launches_agents_api_public_beta_built_on/",
+      "published": 1789069595.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "OpenAI launched the Agents API in public beta on September 10. It lets developers create cloud agents by supplying a task, model, tools, and compute environment in one API call. OpenAI hosts the harness, while the agent can run in an OpenAI sandbox, on the developer's own infrastructure, or with partner environments such as Cloudflare, Modal, and Vercel. The API adds context compaction for long sessions, tool search, parallel programmatic tool calls, and multi-agent support. OpenAI says the API has no extra fee during the beta, but token and tool usage still costs money. The useful split is between orchestration and execution. Teams can reuse the Codex harness without putting every file, secret, or runtime inside OpenAI's sandbox. The production question is how carefully they set those boundaries. Sources: OpenAI: https://openai.com/index/introducing-the-agents-api/ Investing.com: https://za.investing.com/news/stock-market-news/openai-launches-agents-api-in-public-beta-for-developers-93CH-4460924"
+    }
+  ],
+  "fetched_at": "2026-09-11T01:21:09.985249+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "cached_at": "2026-08-24T05:38:00.265559+00:00",
+  "data": {
+    "url": "https://cryptobriefing.com/ledger-ethereum-app-vulnerability-fix/",
+    "title": "Ledger fixes vulnerability in Ethereum app's signing flows",
+    "description": "Ledger patched a race condition vulnerability in its Ethereum app's clear signing flows that could have let malicious dApps substitute",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24000747/ledger-nano-s-plus-800x420.png",
+    "favicon": "https://static.cryptobriefing.com/wp-content/uploads/2020/02/02093517/ios-144.png",
+    "site_name": "Crypto Briefing",
+    "author": "Editorial Team",
+    "keywords": null
+  }
+}
