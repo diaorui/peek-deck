@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum, Solana and Zcash Face Wild Year-End Price Predictions",
-      "source": "news.bitcoin.com",
-      "source_url": "https://news.bitcoin.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSml4LWQtQkRvQ0dUaHRJbjZYbHRsX2VoSWpXd2tCYVhmT1REVkNNYVFleWxTUUhXbXZCNWpIdlV0dVdjQV9iOUFsWDhZOEhObm9KMnFrNDdfdjBEQXV1SDk5ZjFFNHlwdS1QWTNsQ0tvanpld09PVmtBUVZoMDNOa0QzYUI4UUkxTmgweXEzOFFJTk5WX2pyQTN3cWFrWDZBc29admJFRGU3dw?oc=5",
-      "pub_date": 1790447456.0,
-      "article_url": "https://news.bitcoin.com/price-predictions/ethereum-solana-and-zcash-face-wild-year-end-price-predictions/",
-      "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/09/ethereum2-solana-and-zcash-face-wild-year-end-price-predictions.png",
-      "description": "Ethereum, solana and zcash face $31M in prediction market bets as traders eye $3K, $140 and $2K targets before 2027."
-    },
-    {
       "headline": "A Former BlackRock Executive Calls Bitcoin an \u201cExit Asset\u201d and Ethereum \u201cthe New Rails.\u201d Bitwise Says the Opposite.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -26,13 +16,23 @@
     },
     {
       "headline": "Tom Lee Says \u2018Stay Tuned\u2019 As Bitmine Nears 5% Ethereum Goal, Hints At What\u2019s Next",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTy0yZVlzV0Vyc3JfN1l3ZWFXLXVQUzk3RzRVbms3U05OOG1aRzlONkF0cWdoV0pVLXMxdms0MHlFcjN3OHpfbFBteDBtRXJTMEtpdTlGNU9YWXR6TEtmMjlsRFZHakx5NmdFUm1aNVlKUllMYmJMM0NYRWx5ZWlwVUtqRFpuazhEaGtRb1M1ZmZ2UU9jRjM2QUNONVozdERRME1iRmE0ajZ4UkZvOUdUZmdfejBOVk42UXJYOVlNZXQyLXJ1aFZkSF9LVDZKWTJrR1RXSw?oc=5",
       "pub_date": 1790426240.0,
       "article_url": "https://www.tradingview.com/news/stocktwits:8df62c3dd094b:0-tom-lee-says-stay-tuned-as-bitmine-nears-5-ethereum-goal-hints-at-what-s-next/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Bitmine Immersion Technologies (BMNR) Chairman Tom Lee said that the company was close to owning 5% of all Ethereum (ETH) and told investors to \"stay tuned\" for what comes next, stopping short of naming a new target.Speaking on the\u00a0Coinage podcast on Thursday, Lee explained that the 5% goal had arr\u2026"
+    },
+    {
+      "headline": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmVBVnNiZmJ2eDFfRm9EeGEzbnYyZjdwbHV2TFVidlNTelZaUEM0UlF5RXZiUDl0RmZfRDJCVnpyOXlQcXFtbVloMjc3aDAySnhXZkdfc1BEaVhjSWw2eVphOUtqOVF5bmFOcjN2cnFiUlAzTmw4TW5Ha05vN2loa2N2ZlJXNTNMRnZfaFhBcVVJcVVQbFMxYmtGbjRkSk00TzRvcWNhRC1CTTVIWVcxaFpRUDc?oc=5",
+      "pub_date": 1790407829.0,
+      "article_url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
+      "description": "ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market."
     },
     {
       "headline": "Ethereum Exchange Supply Hits Record Low as ETH Gains 10% \u2014 Is a Correction Next?",
@@ -45,14 +45,14 @@
       "description": "Ethereum gains 10% as exchange supply hits a record low, but traders warn of a short-term correction before another potential rally."
     },
     {
-      "headline": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmVBVnNiZmJ2eDFfRm9EeGEzbnYyZjdwbHV2TFVidlNTelZaUEM0UlF5RXZiUDl0RmZfRDJCVnpyOXlQcXFtbVloMjc3aDAySnhXZkdfc1BEaVhjSWw2eVphOUtqOVF5bmFOcjN2cnFiUlAzTmw4TW5Ha05vN2loa2N2ZlJXNTNMRnZfaFhBcVVJcVVQbFMxYmtGbjRkSk00TzRvcWNhRC1CTTVIWVcxaFpRUDc?oc=5",
-      "pub_date": 1790407829.0,
-      "article_url": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2026/09/arkvx-ethereum-liquidity-standard-image.jpg",
-      "description": "ARK Invest has brought tokenized interests in ARKVX to Ethereum, with a Sept. 30 repurchase deadline, a 5% quarterly buyback cap and no announced secondary market."
+      "headline": "1 Popular Cryptocurrency to Buy Before It Soars by 9,159%, According to Bitmine's Tom Lee",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFJCVmQ2cUJURlhPUXlRVXJ2Q3p5Rk9BbzJFNWt0ZFhSWlhuNmRLMjRqbnBwWDZiVHJkbWNKRTBOV3NyaVplblc1bnRhRS1FckNxbGZPM2FPRXc4dTBGWllzTllGMXdua0tveGFvRTllZlRrem5Gd180NUg0M0E5NnpySk4yb0N4VW1LdGpHcDFNcUlwNWc?oc=5",
+      "pub_date": 1790507453.0,
+      "article_url": "https://www.fool.com/investing/2026/09/27/1-cryptocurrency-buy-soars-9159-bitmines-tom-lee/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888811%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
+      "description": "Lee thinks tailwinds like tokenization and artificial intelligence could spark an incredible rally in the Ether cryptocurrency."
     },
     {
       "headline": "Current price of Ethereum for September 25, 2026",
@@ -75,14 +75,14 @@
       "description": "NEW YORK, Sept.  25, 2026  (GLOBE NEWSWIRE) -- Apeing, a community-focused cryptocurrency project built on Ethereum, has entered Stage 5 of its to..."
     },
     {
-      "headline": "Hackers drain $7 million from crypto casino Duelbits in suspected private key compromise",
+      "headline": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFM5UjBVNktYbHktZ2RoWER5QnE5S1c4OWFpYzE5VDBaZk00SUJJTHp5bzRMaE5qZHlna2hkWFJqaWlrVmgyQUJfVlp3WUxJS3lHQlVQalU2Z3hJY080dmNMWUQ2SFdjUnl2NThqSFZ5VHE0Q1NSV3BWdFBqbUlnNURpNHk5NVQzdDl1UXZTNVFJVDMzQTloN0N3MFYxcVNBZzc1VGpiWnRWMUFa?oc=5",
-      "pub_date": 1790264900.0,
-      "article_url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?auto=format&q=75",
-      "description": "Attackers drained Duelbits' hot wallets across four blockchains, and about $6 million in stolen funds now sits in a single Ethereum address."
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDg4TXJRVXVWeFI3a1A1YkZrY3NtZUNrdnRVa09TZlNNZW1kS2hUczF4OGVzZHZhQTdxVmM4a29wa0VLeTNWUTl0cy1iMmVnRDRvZmZsUGpRVFVPbGdLVTczQ0d0TE4xR2lhdmk2QkRwSVlGMnlqQjZmWGxzLW5qUmw4bTdkMmZHNnU0TEdOQ3VYQzhlWldOclVSV2dCeTZReXpNMzdKQUNuN1E4RXk4MzZ0akdpamxLNF8zaEFLVUNjZlRjS1FDREswZlZuMmRuMFRVcg?oc=5",
+      "pub_date": 1790258523.0,
+      "article_url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "description": "The ARK Venture Fund is bringing exposure to sought-after private tech companies onchain through Securitize, first on Ethereum then potentially expanding to other chains."
     },
     {
       "headline": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
@@ -96,7 +96,7 @@
     },
     {
       "headline": "Bitcoin Eyes $150K, Ethereum To Top $3K? Tom Lee Says Crypto\u2019s Biggest Bull Market May Be Underway",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWVHdnl4RFdPRGJpUnd1WDdvZ0d0V1JxOTNrQWowNTRtVjVubzNlZVAySmNvRFE0WnhGUHVVT1BoYUZwNEdlWS1yaDBGVHZvWGNEc3FiMzk4Njc3eTR6M3VwM2R4ejBmLVI5OWVjSThIOHE5OF9sSlhlUV9vNThlT0NMYXZLWjVqdTZvNm1ldkplMEZRTl8tSldmY3BLY29xem9sYWg2TEl1Q0xSMlVWTTFqZF9Ddmg0Wkd3Wm1GMVctaXd3X0dEa0dXUG5XZWZpV0hPVjFnWFBoc2Nxa1Npc2NFb05BVFJE?oc=5",
       "pub_date": 1790337837.0,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T06:20:01.752683+00:00"
+  "fetched_at": "2026-09-27T12:19:16.106763+00:00"
 }

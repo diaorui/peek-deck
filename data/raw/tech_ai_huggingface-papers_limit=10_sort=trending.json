@@ -16,7 +16,7 @@
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
-      "github_stars": 4701,
+      "github_stars": 4830,
       "project_page": "https://huggingface.co/blog/nvidia/speed-bench"
     },
     {
@@ -50,11 +50,11 @@
       "hf_url": "https://huggingface.co/papers/2609.24984",
       "arxiv_url": "https://arxiv.org/abs/2609.24984",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24984.png",
-      "upvotes": 154,
+      "upvotes": 155,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/WorldCrafter",
-      "github_stars": 357,
+      "github_stars": 369,
       "project_page": "https://drexubery.github.io/WorldCrafter"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 7,
       "published_at": "2024-07-23T13:50:43.000Z",
       "github_repo": "https://github.com/opendevin/opendevin",
-      "github_stars": 89224,
+      "github_stars": 89255,
       "project_page": null
     },
     {
@@ -115,25 +115,6 @@
       "project_page": null
     },
     {
-      "id": "2609.24981",
-      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
-      "authors": "Jiahao Lu, Minghao Yin, Wenbo Hu et al. (8 authors)",
-      "organization_name": "TencentARC",
-      "organization_fullname": "ARC Lab, Tencent",
-      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
-      "summary": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We argue that this is not only a modeling problem but also a representation problem: generators typically evolve appearance-centric latents, while perception models recover geometry in a semantically rich space that encodes cross-view structure. Rather than adding geometry as another output, we reparameterize a geometry foundation model's features into a compact latent space for generation. We realize this shift with the geometry-native autoencoder (GAE), whose latent is jointly decodable to appearance, depth, cameras, and point maps. With this state, a standard conditional flow supports diverse generation tasks. In controlled comparisons that hold the generator and training protocol fixed, replacing the latent with GAE improves both visual quality and independently measured 3D coherence: FVD falls by 12.7% and 23.1% on RealEstate10K and DL3DV, and camera-trajectory error is halved on RealEstate10K. Together, these results show that the latent space is central to geometry-consistent generation and can serve as a shared interface between perception and generation.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2609.24981",
-      "arxiv_url": "https://arxiv.org/abs/2609.24981",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 60,
-      "num_comments": 4,
-      "published_at": "2026-09-20T20:00:00.000Z",
-      "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
-      "github_stars": 339,
-      "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
-    },
-    {
       "id": "2310.10688",
       "title": "A decoder-only foundation model for time-series forecasting",
       "authors": "Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)",
@@ -149,8 +130,27 @@
       "num_comments": 1,
       "published_at": "2023-10-14T13:01:37.000Z",
       "github_repo": "https://github.com/google-research/timesfm",
-      "github_stars": 33786,
+      "github_stars": 33824,
       "project_page": null
+    },
+    {
+      "id": "2609.24981",
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "authors": "Jiahao Lu, Minghao Yin, Wenbo Hu et al. (8 authors)",
+      "organization_name": "TencentARC",
+      "organization_fullname": "ARC Lab, Tencent",
+      "organization_avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1625552871844-60e272ca6c78a8c122b12127.png",
+      "summary": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We argue that this is not only a modeling problem but also a representation problem: generators typically evolve appearance-centric latents, while perception models recover geometry in a semantically rich space that encodes cross-view structure. Rather than adding geometry as another output, we reparameterize a geometry foundation model's features into a compact latent space for generation. We realize this shift with the geometry-native autoencoder (GAE), whose latent is jointly decodable to appearance, depth, cameras, and point maps. With this state, a standard conditional flow supports diverse generation tasks. In controlled comparisons that hold the generator and training protocol fixed, replacing the latent with GAE improves both visual quality and independently measured 3D coherence: FVD falls by 12.7% and 23.1% on RealEstate10K and DL3DV, and camera-trajectory error is halved on RealEstate10K. Together, these results show that the latent space is central to geometry-consistent generation and can serve as a shared interface between perception and generation.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2609.24981",
+      "arxiv_url": "https://arxiv.org/abs/2609.24981",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
+      "upvotes": 61,
+      "num_comments": 4,
+      "published_at": "2026-09-20T20:00:00.000Z",
+      "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
+      "github_stars": 360,
+      "project_page": "https://jiah-cloud.github.io/GAE.github.io/"
     },
     {
       "id": "2503.08638",
@@ -168,7 +168,7 @@
       "num_comments": 3,
       "published_at": "2025-03-11T13:26:50.000Z",
       "github_repo": "https://github.com/multimodal-art-projection/YuE",
-      "github_stars": 10341,
+      "github_stars": 10366,
       "project_page": "https://map-yue.github.io/"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 3,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GameHorizon",
-      "github_stars": 270,
+      "github_stars": 286,
       "project_page": "https://gamehorizon-suite.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-27T06:19:53.275028+00:00"
+  "fetched_at": "2026-09-27T12:19:08.860148+00:00"
 }
