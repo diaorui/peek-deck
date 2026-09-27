@@ -6,7 +6,7 @@
   "articles": [
     {
       "headline": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "source": "arstechnica.com",
+      "source": "Ars Technica",
       "source_url": "https://arstechnica.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDd3dzNRLThXMk9EOVRJQ045ZzlOZ3haMnRpN0wzVUkzYmtXaVJtbktBSHZuUi04TXd2aTZHc29oQ1ViX1MxMmpSUzNmRkRja21ZVlJHcjV5cmFTamN2RFZoNmg2WHp5MkZJd3lzWUZTcXQtTUxyLTJYbnk4aW5DWkN3bEtPem1pUjRBMUl4eTZsWlVQNWlldzY4MHNRLTBzSUY1bk9oZDlkQQ?oc=5",
       "pub_date": 1790370651.0,
@@ -25,34 +25,24 @@
       "description": "The proposed robotic force could handle missions ranging from ammunition delivery and reconnaissance to mine clearance, evacuation and combat."
     },
     {
-      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
-      "pub_date": 1790352113.0,
-      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "description": "Your weekly selection of awesome robot videos"
+      "headline": "Humanoid Robots Are Getting Even Creepier (This One Can Cry On Command)",
+      "source": "engadget.com",
+      "source_url": "https://www.engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNGdJMGxkbUx5cXZSNVk0djVRX19HMGtKa3QxWTRXV0ZJVnFyY3lwai1qVzI0ZG1zakJUUHpJZVpaV2FkR3REZ2Z6RG1GbnF4U2NhNjJYcUJMRmVLdnd2Yk9PZTRqVHQyNVY3NnFLNHNGems?oc=5",
+      "pub_date": 1790514900.0,
+      "article_url": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
+      "image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
+      "description": "Humanoid robots like the Yansyn-X2 are inching closer to mimicking human emotion, and one can even cry when it's involved in an emotional conversation."
     },
     {
-      "headline": "I Loved Laughing at Videos of Robots Falling on Their Faces. Then I Realized That\u2019s Exactly What They Want.",
-      "source": "Slate Magazine",
-      "source_url": "https://slate.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
-      "pub_date": 1790502300.0,
-      "article_url": "https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html",
-      "image": "https://compote.slate.com/images/d1688b60-2be1-4f4f-abae-82a080bb9f92.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "description": "The World Humanoid Games were actually a social experiment in the making."
-    },
-    {
-      "headline": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
-      "source": "techcrunch.com",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmtWUmYzUV9lVDg3YnNBYjhRakItNUs2cGpCSjQxRmxrN2xkZFllLVpwZGRqYnBSaXR1R2ptMFNDWVlhY2Z0Z0tPelNlWnNFZG9DeTBva0o1X0dSbjZ3MzNoYk45UTBVdzUxNHFqd3Qzd1gwUDJmUHVBTHMtUHBXRXJsdWEzM2dtNXEtVHhTbTh3ekxQV0hCQV9oNGtaWTBiUFdYajVrc1N5QWp6TVplSFExREVtSHM?oc=5",
-      "pub_date": 1790357400.0,
-      "article_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
-      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
+      "headline": "Ex-defense minister Fedorov announces new 'Army of Robots' initiative in latest move since leaving office",
+      "source": "The Kyiv Independent",
+      "source_url": "https://kyivindependent.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZHpYVnV6TVRmaVJuNFVUdDFiTFZMR2JoY0hOeVV4TEJRVnFsaWZkVVdQOVVJckJTN0VsTjFVOEExUVQ3XzY2OVBldW9wZ3M2T01qZXA1NENyNjlTQjl5TjZuYU9CSDVKRFZReUdmUDFFRVV5Vjg0bmNOTnQ2dTItNGloNzUwd3FINlE4T1dMSTI1TDJsV00wVUc1TU1vS2RRSGhxTmhWYnlTYnZFM3M3dGI3LVY4SWNKRTI3ZGlHYWVIZGd2WHdvYUd1TUY?oc=5",
+      "pub_date": 1790430339.0,
+      "article_url": "https://kyivindependent.com/ex-defense-minister-fedorov-announces-new-army-of-robots-initiative-in-latest-move-since-leaving-office/",
+      "image": "https://assets.kyivindependent.com/content/images/2026/09/Screenshot-2026-09-26-at-3_53_15-PM_20260926-125439.png",
+      "description": "According to Fedorov, the initiative will be not one company, but an \"ecosystem,\" combining investment, native production, and R&D."
     },
     {
       "headline": "Teen robotics team wows metro Atlanta city, to represent state",
@@ -65,24 +55,44 @@
       "description": "Through the robotics program, team members have learned to excel at engineering, coding, welding and problem-solving."
     },
     {
-      "headline": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-      "source": "Breaking Defense",
-      "source_url": "https://breakingdefense.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmFIVF94YWNveU5saWFGam1YLWdrbjFfbU4tcHIzS3RHcmw0UXk5UWJkeXJzeWNDQVJnU3Vnc1Z4N2ktcjlhTjNvVjIzSUlPemhlSGdLVFRVZmJ3ei1NLXp1T1hnbzNrOC1Zak5lS0VjMlJTVk1jTUw0al9PLS1hVXIyU2lmTU12WXE0bTF3ZllXcklIdUdpbXZ4ZGN5YWhJWHRLVkxjalJkUXRsdVZWZl9CRQ?oc=5",
-      "pub_date": 1790304228.0,
-      "article_url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/",
-      "image": null,
-      "description": null
+      "headline": "I Loved Watching These Robots Fall on Their Faces. Then I Realized What Was Actually Happening to Me.",
+      "source": "Slate Magazine",
+      "source_url": "https://slate.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEtKd1FfUE5XUHdPQUQ0azR4RVU5UzFRRUJmU0NpMEsyWktUTnNiX19SRDRiRXhLTHIwaE1GaFVfR18zMW1PQ2ZsQ0JMQ1Q3LUl4SlI5S1FIRHdhczJiM0pXemE4RFgySFFIVzB2ZzQ5elJRTnBKS3BVSHVnSm5jNVJDQQ?oc=5",
+      "pub_date": 1790502300.0,
+      "article_url": "https://slate.com/technology/2026/09/world-humanoid-games-robot-olympics.html",
+      "image": "https://compote.slate.com/images/d1688b60-2be1-4f4f-abae-82a080bb9f92.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "description": "The World Humanoid Games were actually a social experiment in the making."
     },
     {
-      "headline": "Chinese humanoid robotics firm expanding globally in preparation for IPO",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS21DT2lONS1YaGZBRnM3MGdzOFExZHVxZm9DcjZGQ3RwOGlCY05iYWRYWGNLOHMyZHFtMDBFZjd5elQtc1gwUWQ1T0ZBXzNwS2NyS2UyMlVrZFdaU0VDeFhxdVFrQl9pOTBLbzktdjFaRkRFYlRNZmdjc1Vzc3dqdjdBdEdEUWwxbzlIc2tIUU9NR0JQN3pyRW1vYy1PcjRSQkFJMFE2QlppTmc?oc=5",
-      "pub_date": 1790234955.0,
-      "article_url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107409857-1714703707652-gettyimages-1936115094-handshake.jpeg?v=1725997756&w=1920&h=1080",
-      "description": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions,  according to UniX AI, citing its own experience."
+      "headline": "The Aeropod automates soil aeration without robotics \u2014 see it at TechCrunch Disrupt",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUmtWUmYzUV9lVDg3YnNBYjhRakItNUs2cGpCSjQxRmxrN2xkZFllLVpwZGRqYnBSaXR1R2ptMFNDWVlhY2Z0Z0tPelNlWnNFZG9DeTBva0o1X0dSbjZ3MzNoYk45UTBVdzUxNHFqd3Qzd1gwUDJmUHVBTHMtUHBXRXJsdWEzM2dtNXEtVHhTbTh3ekxQV0hCQV9oNGtaWTBiUFdYajVrc1N5QWp6TVplSFExREVtSHM?oc=5",
+      "pub_date": 1790357400.0,
+      "article_url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
+      "description": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields."
+    },
+    {
+      "headline": "Ukraine\u2019s fast medical robots can outrun Russian attacks, but speed creates new risks, makers and medics say",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0N0UjZGM2ZtWlBkQ3RzcGw0Q21LR24ySXNDdUJ4VmhLWmRmT0pBYjVWQ21nMWdqUmNyUlhuXzQ5emxCNzJzZXBZbWg5dnFzckMzQUhBRkhHYXFROUFXUlZmU3BVYjdOcDBQWlBsZXhucnQzNVdPV3RlN2pSUkxTSDlJNTM2M2k5TW5fQ0ZVaWZ2V1NIZ1VtQXBwd181V1V1X05wcFNxZw?oc=5",
+      "pub_date": 1790337420.0,
+      "article_url": "https://www.businessinsider.com/ukraine-evacuation-medical-robots-injured-troops-faster-ugv-risks-2026-9",
+      "image": "https://i.insider.com/6ab28c21eb722541126791d2?width=1200&format=jpeg",
+      "description": "Some robots built to rescue injured Ukrainian soldiers in battle can drive much faster to outrun Russian drones, but high speeds can cause problems."
+    },
+    {
+      "headline": "Who Wouldn't Want a Little Goose Robot Help Around the House?",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSjBPQmZwMXpSVHdMRlAyb0NhOGtUYWYtdGg5VWdkZ1dja0lZU3ZfeVYyT2xrbXJjeWRDYmk2am9GRmZDYXdGY1lock1WSEppdExQdWE4dXVWTjFRVGxJQkI5Q3hSX1BhblV2U1VR?oc=5",
+      "pub_date": 1790512933.0,
+      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67853191&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "description": "Your weekly selection of awesome robot videos"
     },
     {
       "headline": "autonomous robotic hand walks on its fingertips like the addams family\u2019s thing",
@@ -93,18 +103,8 @@
       "article_url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/",
       "image": "https://www.designboom.com/twitterimages/uploads/2026/09/autonomous-robotic-hand-addams-familys-thing-eth-zurich-designboom-5.jpg",
       "description": "researchers train an autonomous robotic hand to walk on its fingers, recover from falls, press keys and manipulate objects without an arm."
-    },
-    {
-      "headline": "Five Million Robots now Operate in Factories Globally",
-      "source": "IFR International Federation of Robotics",
-      "source_url": "https://ifr.org",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS09tTlprV0NRaHpKWW5aSDJLUW9qWF9LT29XdmRXa3R2R1g5ZHJPQmduV0pYVFBNeTNMdjhxSVdxTDRHTnhQWGE3TTQxd096MkRYTlF4OXdJUkNtUTZmb1N5THA1YkEzbGRPVWdFYkM0d0lJUk5UMlNOMm9VYU1IeXVkTUV3OEliUFZCaWMzSHpJWWQ2alI2SA?oc=5",
-      "pub_date": 1790247524.0,
-      "article_url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
-      "image": "https://ifr.org/downloads/press_docs/Graphic_World_Robotics_2026_GLOBAL.png",
-      "description": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025. This was driven by an 11% jump in annual installations: Factories worldwide installed more than 600,000 new units over the year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2026-09-27T12:19:18.539908+00:00"
+  "fetched_at": "2026-09-27T17:09:49.168821+00:00"
 }

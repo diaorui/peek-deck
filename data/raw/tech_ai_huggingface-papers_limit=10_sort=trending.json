@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2604.09557",
       "arxiv_url": "https://arxiv.org/abs/2604.09557",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2604.09557.png",
-      "upvotes": 14,
+      "upvotes": 15,
       "num_comments": 2,
       "published_at": "2026-02-09T19:00:00.000Z",
       "github_repo": "https://github.com/NVIDIA/Model-Optimizer",
@@ -35,7 +35,7 @@
       "num_comments": 6,
       "published_at": "2024-12-28T07:54:06.000Z",
       "github_repo": "https://github.com/tauricresearch/tradingagents",
-      "github_stars": 108787,
+      "github_stars": 108861,
       "project_page": null
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2609.24981",
       "arxiv_url": "https://arxiv.org/abs/2609.24981",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2609.24981.png",
-      "upvotes": 61,
+      "upvotes": 62,
       "num_comments": 4,
       "published_at": "2026-09-20T20:00:00.000Z",
       "github_repo": "https://github.com/TencentARC/GAE-GeometricAutoEncoder",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2026-09-27T12:19:08.860148+00:00"
+  "fetched_at": "2026-09-27T17:09:36.092691+00:00"
 }
